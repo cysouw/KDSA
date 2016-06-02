@@ -1,0 +1,160 @@
+title: ~
+author: ~
+date: '2016-06-02'
+original_data: ~
+recoding:
+# ==========
+- recodingOf: V1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - h
+  comments: ~
+# ==========
+- recodingOf: V2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - a
+  - ä
+  - aa
+  - aä
+  - äa
+  - ää
+  - aäi
+  - ae
+  - äe
+  - aea
+  - aei
+  - ah
+  - äh
+  - ai
+  - äi
+  - äj
+  - aü
+  - e
+  - ea
+  - eä
+  - ee
+  - ei
+  - ej
+  - o
+  - ö
+  - oa
+  - oä
+  - öä
+  - oe
+  - öi
+  - oo
+  - öö
+  comments: ~
+# ==========
+- recodingOf: V3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - l
+  comments: ~
+# ==========
+- recodingOf: V4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - b
+  - bb
+  - bf
+  - f
+  - ff
+  - p
+  - pb
+  - pch
+  - pf
+  - pp
+  - ppch
+  - ppf
+  - v
+  comments: ~
+# ==========
+- recodingOf: V5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - a
+  - ä
+  - aa
+  - ää
+  - ai
+  - e
+  - ee
+  - ei
+  - eo
+  - eu
+  - i
+  - ii
+  - o
+  - ö
+  - oa
+  - oi
+  - öj
+  - u
+  - ü
+  - ui
+  comments: ~
+# ==========
+- recodingOf: V6
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - d
+  - f
+  - 'n'
+  - r
+  - rd
+  comments: ~
+# ==========
+- recodingOf: V7
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - l
+  - ll
+  comments: ~
+# ==========
+- recodingOf: V8
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - a
+  - ä
+  - e
+  comments: ~

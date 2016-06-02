@@ -1,0 +1,1 @@
+This directory is for automatically produced data. Useful results should be removed from here, so they will not be overwritten.
