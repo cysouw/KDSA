@@ -1,0 +1,133 @@
+library(qlcData)#
+library(qlcVisualize)#
+library(qlcMatrix)#
+#
+#' ### Load data#
+#
+# Coordinates of villages#
+coor <- read.delim("../../data/coor.txt", row.names = 1)#
+# KDSA words#
+words <- read.delim("../../data/kdsa.txt", row.names = 1)#
+# load basemap#
+load("../../data/KDSAvoronoi.Rdata")#
+#
+#' ### Cognates and alignment#
+#
+# example "Wurst"#
+auch <- words$X9#
+# all cognate#
+table(auch)
+s <- sim.strings(auch)#
+cl <- cutree(hclust(as.dist(1-s)), h = .99)
+table(cl)
+table(cl[cl==1])
+table(names(cl[cl==1]))
+table(names(cl[cl==2]))
+table(names(cl[cl==3]))
+table(names(cl[cl==4]))
+table(names(cl[cl==5]))
+table(names(cl[cl==6]))
+table(names(cl[cl==7]))
+table(names(cl[cl==8]))
+table(names(cl[cl==9]))
+table(names(cl[cl==10]))
+table(names(cl[cl==11]))
+table(names(cl[cl==12]))
+write.profile(brot, file = "auch_graphemes.txt", editing = T)
+write.profile(auch, file = "auch_graphemes.txt", editing = T)
+tok <- tokenize(auch, profile = "auch_graphemes.txt", regex = T)
+out <- cbind(WORD = auch, COGID = 1, ALIGN = tok$strings$tokenized)
+write.table(out, file = "auch_toBeAligned.txt", col.names = NA, quote = FALSE, sep = "\t")
+auch <- read.table("auch_aligned.txt", header = TRUE, sep = "\t")#
+#
+#' ### Maps#
+#
+# sounds#
+ALIGN <- as.character(brot$ALIGN)#
+ALIGN <- sapply(ALIGN,strsplit, split = " ")#
+ALIGN <- do.call(rbind,ALIGN)#
+dimnames(ALIGN) <- NULL#
+#colnames(ALIGN) <- c("B","R1","E","R2","O","K","T")#
+ALIGN <- as.data.frame(ALIGN)
+ALIGN <- as.character(auch$ALIGN)#
+ALIGN <- sapply(ALIGN,strsplit, split = " ")#
+ALIGN <- do.call(rbind,ALIGN)#
+dimnames(ALIGN) <- NULL#
+#colnames(ALIGN) <- c("B","R1","E","R2","O","K","T")#
+ALIGN <- as.data.frame(ALIGN)
+head(ALIGN)
+table(ALIGN[,2])
+table(ALIGN[,3])
+write.recoding(ALIGN, file = "auch_recoding_template.yml")
+tmp <- recode(ALIGN, "tmp.yml")
+str(tmp)
+tmp <- recode(ALIGN, "tmp.yml")
+str(tmp)
+tmp <- recode(ALIGN, "tmp.yml")
+str(tmp)
+tmp <- recode(ALIGN, "tmp.yml")
+str(tmp)
+tmp <- read.recoding("tmp.yml")
+tmp
+tmp <- read.recoding("tmp.yml")
+tmp
+tmp <- read.recoding("tmp.yml")
+tmp
+raw <- yaml::yaml.load_file("tmp.yml")
+raw
+raw <- yaml::yaml.load_file("tmp.yml")
+raw
+is.null(raw$recoding[[1]]$values)
+raw <- yaml::yaml.load_file("tmp.yml")
+is.null(raw$recoding[[1]]$values)
+raw
+raw$recoding[[1]]$values
+unlist(raw$recoding[[1]]$values)
+list(NULL,NULL)
+list(1 = NULL,2 = NULL)
+list("1" = NULL,"2" = NULL)
+raw$recoding[[1]]$link
+unlist(raw$recoding[[1]]$link)
+table(unlist(raw$recoding[[1]]$link))
+unique(unlist(raw$recoding[[1]]$link))
+names(table(unlist(raw$recoding[[1]]$link)))
+names(table(unlist(raw$recoding[[1]]$link)))->n
+n
+list(n)
+names(n) <- 1:2
+n
+list(n)
+as.list(n)
+raw$recoding[[1]]$link->l
+l
+n
+tmp
+tmp[[1]]$link
+tmp[[1]]$link["d"]
+tmp[[1]]$link == "d"
+tmp[[1]]$link == "2"
+tmp[[1]]$link == n
+apply(n, function(x) tmp[[1]]$link == x)
+sapply(n, function(x) {tmp[[1]]$link == x})
+tmp[[1]]$link
+n
+?read.recoding
+is.character(tmp[[1]]$link)
+is.numeric(tmp[[1]]$link)
+example <- write.recoding(ALIGN)
+example <- write.recoding(ALIGN, yaml=F)
+example[[1]]
+length(example)
+example
+tmp <- letters[1:5]
+names(tmp) <- 1:5
+tmp
+tmp <- 1:5
+names(tmp) <- letters[1:5]
+tmp
+letters[1:4][tmp]
+tmp[letters[1:4]]
+tmp[letters[2:4]]
+tmp[letters[2:6]]
+factor(1:5)
+tmp
