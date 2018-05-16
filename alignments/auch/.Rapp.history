@@ -131,3 +131,139 @@ tmp[letters[2:4]]
 tmp[letters[2:6]]
 factor(1:5)
 tmp
+#' ---#
+#' title: "Test to use KDSA"#
+#' author: "Michael Cysouw"#
+#' date: "`r Sys.Date()`"#
+#' ---#
+#
+# make html-version of this manual with:#
+# rmarkdown::render("auch.R")#
+#
+library(qlcData)#
+library(qlcVisualize)#
+library(qlcMatrix)#
+#
+#' ### Load data#
+#
+# Coordinates of villages#
+coor <- read.delim("../../data/coor.txt", row.names = 1)#
+# KDSA words#
+words <- read.delim("../../data/kdsa.txt", row.names = 1)#
+# load basemap#
+load("../../data/KDSAvoronoi.Rdata")#
+#
+#' ### Cognates and alignment#
+#
+# example "Wurst"#
+auch <- words$X9#
+# all cognate#
+table(auch)#
+#
+# tokenization#
+# write.profile(auch, file = "auch_graphemes.txt", editing = T)#
+tok <- tokenize(auch, profile = "auch_graphemes.txt", regex = T)#
+#
+# alignments to be edited manually#
+out <- cbind(WORD = auch, COGID = 1, ALIGN = tok$strings$tokenized)#
+write.table(out, file = "auch_toBeAligned.txt", col.names = NA, quote = FALSE, sep = "\t")#
+#
+# load manually corrected data#
+auch <- read.table("auch_aligned.txt", header = TRUE, sep = "\t")#
+#
+#' ### Maps#
+#
+# sounds#
+ALIGN <- as.character(auch$ALIGN)#
+ALIGN <- sapply(ALIGN,strsplit, split = " ")#
+ALIGN <- do.call(rbind,ALIGN)#
+dimnames(ALIGN) <- NULL#
+#colnames(ALIGN) <- c("B","R1","E","R2","O","K","T")#
+ALIGN <- as.data.frame(ALIGN)#
+#
+# recoding of different symbols#
+# write recoding template to be edited manually#
+write.recoding(ALIGN, file = "auch_recoding_template.yml")
+ALIGN <- recode(ALIGN, "auch_recoding.yml")
+str(ALIGN)
+table(ALIGN[,3])
+ALIGN <- recode(ALIGN, "auch_recoding.yml")
+ALIGN <- as.character(auch$ALIGN)#
+ALIGN <- sapply(ALIGN,strsplit, split = " ")#
+ALIGN <- do.call(rbind,ALIGN)#
+dimnames(ALIGN) <- NULL#
+#colnames(ALIGN) <- c("B","R1","E","R2","O","K","T")#
+ALIGN <- as.data.frame(ALIGN)
+ALIGN <- recode(ALIGN, "auch_recoding.yml")
+str(ALIGN)
+cols <- rainbow(7)#
+vmap(v, col = cols[ALIGN$CH], border = NA)#
+legend("bottomright", legend = c(levels(ALIGN$CH)), fill = c(cols), cex = .7)#
+title(main = "<ch> of 'auch'")
+ALIGN <- as.character(auch$ALIGN)#
+ALIGN <- sapply(ALIGN,strsplit, split = " ")#
+ALIGN <- do.call(rbind,ALIGN)#
+dimnames(ALIGN) <- NULL#
+#colnames(ALIGN) <- c("B","R1","E","R2","O","K","T")#
+ALIGN <- as.data.frame(ALIGN)#
+#
+# recoding of different symbols#
+# write recoding template to be edited manually#
+# write.recoding(ALIGN, file = "auch_recoding_template.yml")#
+# recode data according to edited recoding template#
+ALIGN <- recode(ALIGN, "auch_recoding.yml")#
+#
+# ch#
+cols <- rainbow(7)#
+vmap(v, col = cols[ALIGN$CH], border = NA)#
+legend("bottomright", legend = c(levels(ALIGN$CH)), fill = c(cols), cex = .7)#
+title(main = "<ch> of 'auch'")
+cols <- c(rainbow(4), "grey")#
+vmap(v, col = cols[ALIGN$CH], border = NA)#
+legend("bottomright", legend = c(levels(ALIGN$CH)), fill = c(cols), cex = .7)#
+title(main = "<ch> of 'auch'")
+rmarkdown::render("auch.R")
+vmap(v, col = cols[ALIGN$CH], border = NULL)
+vmap(v, col = cols[ALIGN$CH], border = "red")
+vmap(v, col = cols[ALIGN$CH], border = NA)
+vmap
+?polygon
+x <- c(1:9, 8:1)#
+y <- c(1, 2*(5:3), 2, -1, 17, 9, 8, 2:9)#
+op <- par(mfcol = c(3, 1))#
+for(xpd in c(FALSE, TRUE, NA)) {#
+  plot(1:10, main = paste("xpd =", xpd))#
+  box("figure", col = "pink", lwd = 3)#
+  polygon(x, y, xpd = xpd, col = "orange", lty = 2, lwd = 2, border = "red")#
+}#
+par(op)
+n <- 100#
+xx <- c(0:n, n:0)#
+yy <- c(c(0, cumsum(stats::rnorm(n))), rev(c(0, cumsum(stats::rnorm(n)))))#
+plot   (xx, yy, type = "n", xlab = "Time", ylab = "Distance")#
+polygon(xx, yy, col = "gray", border = "red")#
+title("Distance Between Brownian Motions")
+op <- par(mfrow = c(2, 1))#
+plot(c(1, 9), 1:2, type = "n")#
+polygon(1:9, c(2,1,2,1,1,2,1,2,1),#
+        col = c("red", "blue"),#
+        border = c("green", "yellow"),#
+        lwd = 3, lty = c("dashed", "solid"))#
+plot(c(1, 9), 1:2, type = "n")#
+polygon(1:9, c(2,1,2,1,NA,2,1,2,1),#
+        col = c("red", "blue"),#
+        border = c("green", "yellow"),#
+        lwd = 3, lty = c("dashed", "solid"))#
+par(op)
+polygon(c(1,1,2,2),c(1,2,1,2), "red")
+polygon(c(1,1,2,2),c(1,2,1,2), col="red")
+plot(1:10,1:10)
+polygon(c(1,1,2,2),c(1,2,1,2), col="red")
+polygon(c(1,1,2,2),c(1,2,2,1), col="red")
+plot(1:10,1:10)
+polygon(c(1,1,2,2),c(1,2,2,1), col="red", border=NA)
+plot(1:4,1:4, type="n")
+polygon(c(1,1,2,2),c(1,2,2,1), col="red", border=NA)
+polygon(c(2,2,3,3),c(1,2,2,1), col="red", border=NA)
+vmap(v, col = cols[ALIGN$CH], border = cols[ALIGN$CH])
+rmarkdown::render("auch.R")
