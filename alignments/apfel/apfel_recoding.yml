@@ -1,228 +1,186 @@
-title: Apfel sound classes
-author: Michael Cysouw
-date: '2016-06-02'
+title: ~
+author: ~
+date: '2021-12-01'
 original_data: ~
 recoding:
 # ==========
-- recodingOf: V1
-  attribute: H
-  values:
-  - ~
-  - ~
-  link: ~
-  originalValues:
-  - '-'
-  - h
-  comments: ~
-# ==========
 - recodingOf: V2
   attribute: A
-  values:
-  - a
-  - ä
-  - ae
-  - e
-  - ö
   link:
-  - 1 # a
-  - 2 # ä
-  - 1 # aa
-  - 2 # aä
-  - 2 # äa
-  - 2 # ää
-  - 2 # aäi
-  - 3 # ae
-  - 3 # äe
-  - 3 # aea
-  - 3 # aei
-  - 1 # ah
-  - 2 # äh
-  - 3 # ai
-  - 3 # äi
-  - 3 # äj
-  - 3 # aü
-  - 4 # e
-  - 4 # ea
-  - 4 # eä
-  - 4 # ee
-  - 4 # ei
-  - 4 # ej
-  - 5 # o
-  - 5 # ö
-  - 5 # oa
-  - 5 # oä
-  - 5 # öä
-  - 5 # oe
-  - 5 # öi
-  - 5 # oo
-  - 5 # öö
-  originalValues:
-  - a
-  - ä
-  - aa
-  - aä
-  - äa
-  - ää
-  - aäi
-  - ae
-  - äe
-  - aea
-  - aei
-  - ah
-  - äh
-  - ai
-  - äi
-  - äj
-  - aü
-  - e
-  - ea
-  - eä
-  - ee
-  - ei
-  - ej
-  - o
-  - ö
-  - oa
-  - oä
-  - öä
-  - oe
-  - öi
-  - oo
-  - öö
-  comments: ~
-# ==========
-- recodingOf: V3
-  attribute: L1
-  values:
-  - '-'
-  - l
-  link: [1,2]
-  originalValues:
-  - '-'
-  - l
+    a: a
+    ä: ä
+    aa: a
+    aä: ae/ei (closing)
+    äa: ä
+    ää: ä
+    aäi: ae/ei (closing)
+    ae: ae/ei (closing)
+    äe: ae/ei (closing)
+    aea: ae/ei (closing)
+    aei: ae/ei (closing)
+    ah: a
+    äh: ä
+    ai: ae/ei (closing)
+    äi: ae/ei (closing)
+    äj: ae/ei (closing)
+    aü: ae/ei (closing)
+    e: e
+    ea: e
+    eä: e
+    ee: e
+    ei: ae/ei (closing)
+    ej: ae/ei (closing)
+    o: o/ö
+    ö: o/ö
+    oa: o/ö
+    oä: o/ö
+    öä: o/ö
+    oe: o/ö
+    öi: o/ö
+    oo: o/ö
+    öö: o/ö
+  originalFrequency:
+    a: 1385
+    ä: 2169
+    aa: 20
+    aä: 6
+    äa: 3
+    ää: 9
+    aäi: 1
+    ae: 695
+    äe: 8
+    aea: 1
+    aei: 1
+    ah: 1
+    äh: 1
+    ai: 7
+    äi: 28
+    äj: 1
+    aü: 1
+    e: 923
+    ea: 1
+    eä: 3
+    ee: 4
+    ei: 17
+    ej: 2
+    o: 29
+    ö: 515
+    oa: 1
+    oä: 1
+    öä: 1
+    oe: 34
+    öi: 5
+    oo: 4
+    öö: 2
   comments: ~
 # ==========
 - recodingOf: V4
   attribute: PF
-  values:
-  - v
-  - f
-  - b
-  - bf
-  - p
-  - pf
-  - px
-  link: [3,3,4,2,2,5,5,7,6,5,7,6,1]
-  originalValues:
-  - b
-  - bb
-  - bf
-  - f
-  - ff
-  - p
-  - pb
-  - pch
-  - pf
-  - pp
-  - ppch
-  - ppf
-  - v
+  link:
+    b: b
+    bb: b
+    bf: bf
+    f: f
+    ff: f
+    p: p
+    pb: p
+    pch: pf
+    pf: pf
+    pp: p
+    ppch: pf
+    ppf: pf
+    v: f
+  originalFrequency:
+    b: 57
+    bb: 373
+    bf: 20
+    f: 15
+    ff: 3
+    p: 434
+    pb: 6
+    pch: 1
+    pf: 1995
+    pp: 2967
+    ppch: 3
+    ppf: 2
+    v: 3
   comments: ~
 # ==========
 - recodingOf: V5
   attribute: E
-  values:
-  - '-'
-  - a
-  - ä
-  - e
-  - ei
-  - i
-  - o
-  - ö
-  - u
   link:
-  - 1 # '-'
-  - 2 # a
-  - 3 # ä
-  - 1 # aa
-  - 2 # ää
-  - 1 # ai
-  - 4 # e
-  - 4 # ee
-  - 5 # ei
-  - 5 # eo
-  - 5 # eu
-  - 6 # i
-  - 6 # ii
-  - 7 # o
-  - 8 # ö
-  - 7 # oa
-  - 7 # oi
-  - 8 # öj
-  - 9 # u
-  - 9 # ü
-  - 9 # ui
-  originalValues:
-  - '-'
-  - a
-  - ä
-  - aa
-  - ää
-  - ai
-  - e
-  - ee
-  - ei
-  - eo
-  - eu
-  - i
-  - ii
-  - o
-  - ö
-  - oa
-  - oi
-  - öj
-  - u
-  - ü
-  - ui
+    '-': '-'
+    a: a/ä
+    ä: a/ä
+    aa: a/ä
+    ää: a/ä
+    ai: ei (closing)
+    e: e
+    ee: e
+    ei: ei (closing)
+    eo: o/u (rounding)
+    eu: o/u (rounding)
+    i: i
+    ii: i
+    o: o/u (rounding)
+    ö: ö/ü (rounding)
+    oa: o/u (rounding)
+    oi: ei (closing)
+    öj: ei (closing)
+    u: o/u (rounding)
+    ü: ö/ü (rounding)
+    ui: ei (closing)
+  originalFrequency:
+    '-': 597
+    a: 821
+    ä: 52
+    aa: 10
+    ää: 1
+    ai: 6
+    e: 4047
+    ee: 5
+    ei: 59
+    eo: 1
+    eu: 2
+    i: 155
+    ii: 1
+    o: 24
+    ö: 64
+    oa: 2
+    oi: 1
+    öj: 1
+    u: 15
+    ü: 13
+    ui: 2
   comments: ~
 # ==========
 - recodingOf: V6
   attribute: R
-  values:
-  - '-'
-  - r/d
-  link: [1,2,2,2,2,2]
-  originalValues:
-  - '-'
-  - d
-  - f
-  - 'n'
-  - r
-  - rd
+  link:
+    '-': '-'
+    d: r
+    f: r
+    'n': r
+    r: r
+    rd: r
+  originalFrequency:
+    '-': 5681
+    d: 1
+    f: 1
+    'n': 1
+    r: 194
+    rd: 1
   comments: ~
 # ==========
 - recodingOf: V7
-  attribute: L2
-  values:
-  - '-'
-  - l
-  link: [1,2,2]
-  originalValues:
-  - '-'
-  - l
-  - ll
+  attribute: L
+  link:
+    '-': '-'
+    l: l
+    ll: ll
+  originalFrequency:
+    '-': 354
+    l: 5451
+    ll: 74
   comments: ~
-# ==========
-- recodingOf: V8
-  attribute: E2
-  values:
-  - '-'
-  - e
-  link: [1,2,2,2]
-  originalValues:
-  - '-'
-  - a
-  - ä
-  - e
-  comments: ~
+

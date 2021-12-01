@@ -1,0 +1,228 @@
+title: Apfel sound classes
+author: Michael Cysouw
+date: '2016-06-02'
+original_data: ~
+recoding:
+# ==========
+- recodingOf: V1
+  attribute: H
+  values:
+  - ~
+  - ~
+  link: ~
+  originalValues:
+  - '-'
+  - h
+  comments: ~
+# ==========
+- recodingOf: V2
+  attribute: A
+  values:
+  - a
+  - ä
+  - ae
+  - e
+  - ö
+  link:
+  - 1 # a
+  - 2 # ä
+  - 1 # aa
+  - 2 # aä
+  - 2 # äa
+  - 2 # ää
+  - 2 # aäi
+  - 3 # ae
+  - 3 # äe
+  - 3 # aea
+  - 3 # aei
+  - 1 # ah
+  - 2 # äh
+  - 3 # ai
+  - 3 # äi
+  - 3 # äj
+  - 3 # aü
+  - 4 # e
+  - 4 # ea
+  - 4 # eä
+  - 4 # ee
+  - 4 # ei
+  - 4 # ej
+  - 5 # o
+  - 5 # ö
+  - 5 # oa
+  - 5 # oä
+  - 5 # öä
+  - 5 # oe
+  - 5 # öi
+  - 5 # oo
+  - 5 # öö
+  originalValues:
+  - a
+  - ä
+  - aa
+  - aä
+  - äa
+  - ää
+  - aäi
+  - ae
+  - äe
+  - aea
+  - aei
+  - ah
+  - äh
+  - ai
+  - äi
+  - äj
+  - aü
+  - e
+  - ea
+  - eä
+  - ee
+  - ei
+  - ej
+  - o
+  - ö
+  - oa
+  - oä
+  - öä
+  - oe
+  - öi
+  - oo
+  - öö
+  comments: ~
+# ==========
+- recodingOf: V3
+  attribute: L1
+  values:
+  - '-'
+  - l
+  link: [1,2]
+  originalValues:
+  - '-'
+  - l
+  comments: ~
+# ==========
+- recodingOf: V4
+  attribute: PF
+  values:
+  - v
+  - f
+  - b
+  - bf
+  - p
+  - pf
+  - px
+  link: [3,3,4,2,2,5,5,7,6,5,7,6,1]
+  originalValues:
+  - b
+  - bb
+  - bf
+  - f
+  - ff
+  - p
+  - pb
+  - pch
+  - pf
+  - pp
+  - ppch
+  - ppf
+  - v
+  comments: ~
+# ==========
+- recodingOf: V5
+  attribute: E
+  values:
+  - '-'
+  - a
+  - ä
+  - e
+  - ei
+  - i
+  - o
+  - ö
+  - u
+  link:
+  - 1 # '-'
+  - 2 # a
+  - 3 # ä
+  - 1 # aa
+  - 2 # ää
+  - 1 # ai
+  - 4 # e
+  - 4 # ee
+  - 5 # ei
+  - 5 # eo
+  - 5 # eu
+  - 6 # i
+  - 6 # ii
+  - 7 # o
+  - 8 # ö
+  - 7 # oa
+  - 7 # oi
+  - 8 # öj
+  - 9 # u
+  - 9 # ü
+  - 9 # ui
+  originalValues:
+  - '-'
+  - a
+  - ä
+  - aa
+  - ää
+  - ai
+  - e
+  - ee
+  - ei
+  - eo
+  - eu
+  - i
+  - ii
+  - o
+  - ö
+  - oa
+  - oi
+  - öj
+  - u
+  - ü
+  - ui
+  comments: ~
+# ==========
+- recodingOf: V6
+  attribute: R
+  values:
+  - '-'
+  - r/d
+  link: [1,2,2,2,2,2]
+  originalValues:
+  - '-'
+  - d
+  - f
+  - 'n'
+  - r
+  - rd
+  comments: ~
+# ==========
+- recodingOf: V7
+  attribute: L2
+  values:
+  - '-'
+  - l
+  link: [1,2,2]
+  originalValues:
+  - '-'
+  - l
+  - ll
+  comments: ~
+# ==========
+- recodingOf: V8
+  attribute: E2
+  values:
+  - '-'
+  - e
+  link: [1,2,2,2]
+  originalValues:
+  - '-'
+  - a
+  - ä
+  - e
+  comments: ~

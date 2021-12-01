@@ -46,45 +46,39 @@ ALIGN <- as.data.frame(ALIGN)
 # write recoding template to be edited manually
 write.recoding(ALIGN, file = "apfel_recoding_template.yml")
 # recode data according to edited recoding template
-ALIGN <- recode(ALIGN, "apfel_recoding.yml")
+RECODE <- recode(ALIGN, "apfel_recoding.yml")
 
 #' ### Maps
 
 # a
-cols <- c("darkred", "red", "purple", "blue", "green")
-vmap(v, col = cols[ALIGN$A], border = NA)
-legend("bottomright", legend = levels(ALIGN$A), fill = cols, cex = .7)
+cols <- c("grey", "red", "darkred", "orange","blue")
+vmap(v, col = cols[RECODE$A], border = NA)
+legend("bottomright", legend = levels(RECODE$A), fill = cols, cex = .7)
 title(main = "<a> of 'Apfel'")
 
 # pf
-cols <- c("darkred", "darkblue", "green", "red", "purple", "blue", "darkgreen")
-vmap(v, col = cols[ALIGN$PF], border = NA)
-legend("bottomright", legend = levels(ALIGN$PF), fill = cols, cex = .7)
+cols <- c("darkred", "blue", "green", "red", "grey")
+vmap(v, col = cols[RECODE$PF], border = NA)
+legend("bottomright", legend = levels(RECODE$PF), fill = cols, cex = .7)
 title(main = "<pf> of 'Apfel'")
 
 # e
-cols <- c("grey", "red", "darkred", "blue", "darkblue", "green", "yellow", "orange", "black")
-vmap(v, col = cols[ALIGN$E], border = NA)
-legend("bottomright", legend = levels(ALIGN$E), fill = cols, cex = .7)
+cols <- c("grey40", "blue", "orange", "grey", "green", "red", "yellow")
+vmap(v, col = cols[RECODE$E], border = NA)
+legend("bottomright", legend = levels(RECODE$E), fill = cols, cex = .7)
 title(main = "<e> of 'Apfel'")
 
 # r
 cols <- c("grey", "red")
-vmap(v, col = cols[ALIGN$R], border = NA)
-legend("bottomright", legend = levels(ALIGN$R), fill = cols, cex = .7)
+vmap(v, col = cols[RECODE$R], border = NA)
+legend("bottomright", legend = levels(RECODE$R), fill = cols, cex = .7)
 title(main = "<r> of 'ApfeRl'")
 
 # l
-cols <- c("grey", "red")
-vmap(v, col = cols[ALIGN$L2], border = NA)
-legend("bottomright", legend = levels(ALIGN$L2), fill = cols, cex = .7)
+cols <- c("red", "grey", "grey40")
+vmap(v, col = cols[RECODE$L], border = NA)
+legend("bottomright", legend = levels(RECODE$L), fill = cols, cex = .7)
 title(main = "<l> of 'Apfel'")
-
-# last vowel
-cols <- c("grey", "red")
-vmap(v, col = cols[ALIGN$E2], border = NA)
-legend("bottomright", legend = levels(ALIGN$E2), fill = cols, cex = .7)
-title(main = "additional vowel after <l> of 'Apfel'")
 
 # show Session Info
 sessionInfo()
