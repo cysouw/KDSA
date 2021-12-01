@@ -1,6 +1,6 @@
 title: ~
 author: ~
-date: '2018-05-15'
+date: '2021-12-01'
 original_data: ~
 recoding:
 # ==========
@@ -10,11 +10,9 @@ recoding:
   - ~
   - ~
   link:
-    '-': ~
     b: ~
     p: ~
   originalFrequency:
-    '-': 21
     b: 5820
     p: 51
   comments: ~
@@ -28,7 +26,7 @@ recoding:
     '-': ~
     r: ~
   originalFrequency:
-    '-': 5891
+    '-': 5870
     r: 1
   comments: ~
 # ==========
@@ -41,7 +39,7 @@ recoding:
     '-': ~
     e: ~
   originalFrequency:
-    '-': 5890
+    '-': 5869
     e: 2
   comments: ~
 # ==========
@@ -55,7 +53,7 @@ recoding:
     r: ~
     rr: ~
   originalFrequency:
-    '-': 28
+    '-': 7
     r: 5862
     rr: 2
   comments: ~
@@ -154,7 +152,7 @@ recoding:
     uue: ~
     uui: ~
   originalFrequency:
-    '-': 22
+    '-': 1
     a: 64
     ä: 3
     aa: 22
@@ -256,12 +254,12 @@ recoding:
     k: ~
     r: ~
   originalFrequency:
-    '-': 5877
+    '-': 5854
     ch: 1
     ck: 5
     g: 2
     k: 3
-    r: 4
+    r: 6
   comments: ~
 # ==========
 - recodingOf: V7
@@ -274,16 +272,14 @@ recoding:
     d: ~
     dd: ~
     dt: ~
-    r: ~
     t: ~
     th: ~
     tt: ~
   originalFrequency:
-    '-': 40
+    '-': 21
     d: 2915
     dd: 3
     dt: 35
-    r: 2
     t: 2873
     th: 6
     tt: 18

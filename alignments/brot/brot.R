@@ -22,7 +22,7 @@ load("../../data/KDSAvoronoi.Rdata")
 
 #' ### Cognates and alignment
 
-# example "Wurst"
+# example "Brot"
 brot <- words$X29
 # all cognate
 table(brot)
@@ -40,33 +40,49 @@ brot <- read.table("brot_aligned.txt", header = TRUE, sep = "\t")
 
 #' ### Maps
 
-# sounds in "wurst"
+# sounds in "brot"
 ALIGN <- as.character(brot$ALIGN)
+ALIGN[is.na(brot$WORD)] <- NA
 ALIGN <- sapply(ALIGN,strsplit, split = " ")
 ALIGN <- do.call(rbind,ALIGN)
 dimnames(ALIGN) <- NULL
-colnames(ALIGN) <- c("B","R1","E","R2","O","K","T")
 ALIGN <- as.data.frame(ALIGN)
 
 # recoding of different symbols
 # write recoding template to be edited manually
-write.recoding(ALIGN, file = "wurst_recoding_template.yml")
+write.recoding(ALIGN, file = "brot_recoding_template.yml")
 # recode data according to edited recoding template
-ALIGN <- recode(ALIGN, "wurst_recoding.yml")
+RECODE <- recode(ALIGN, "brot_recoding.yml")
 
 # b
-cols <- c("yellow", "grey", "red")
-vmap(v, col = cols[ALIGN$B], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$B)), fill = c(cols), cex = .7)
+cols <- c("grey", "red")
+vmap(v, col = cols[RECODE$B], border = NA)
+legend("bottomright", legend = c(levels(RECODE$B)), fill = c(cols), cex = .7)
 title(main = "<b> of 'Brot'")
 
+# r
+cols <- c("red", "grey")
+vmap(v, col = cols[RECODE$R], border = NA)
+legend("bottomright", legend = c(levels(RECODE$R)), fill = c(cols), cex = .7)
+title(main = "<r> of 'Brot'")
+
+# o
+cols <- c("white","darkred","yellow","green", "grey", "blue", "orange", "red","darkgreen")
+vmap(v, col = cols[RECODE$O], border = NA)
+legend("bottomright", legend = c(levels(RECODE$O)), fill = c(cols), cex = .7)
+title(main = "<o> of 'Brot'")
+
+# k
+cols <- c("grey", "red")
+vmap(v, col = cols[RECODE$K], border = NA)
+legend("bottomright", legend = c(levels(RECODE$K)), fill = c(cols), cex = .7)
+title(main = "<k> of 'Bro(K)t'")
+
 # t
-cols <- rainbow(8)
-vmap(v, col = cols[ALIGN$"T"], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$U),"(NC)"), fill = c(cols,"white"), cex = .7)
-title(main = "<u> of 'Wurst'")
-
-
+cols <- c("blue","red", "grey")
+vmap(v, col = cols[RECODE$T], border = NA)
+legend("bottomright", legend = c(levels(RECODE$T)), fill = c(cols), cex = .7)
+title(main = "<t> of 'Brot'")
 
 # show Session Info
 sessionInfo()
