@@ -67,7 +67,7 @@ legend("bottomright", legend = c(levels(RECODE$R)), fill = c(cols), cex = .7)
 title(main = "<r> of 'Brot'")
 
 # o
-cols <- c("white","darkred","yellow","green", "grey", "blue", "orange", "red","darkgreen")
+cols <- c("white", "green", "yellow", "blue", "red", "grey", "darkblue", "orange", "darkgreen")
 vmap(v, col = cols[RECODE$O], border = NA)
 legend("bottomright", legend = c(levels(RECODE$O)), fill = c(cols), cex = .7)
 title(main = "<o> of 'Brot'")
@@ -76,10 +76,10 @@ title(main = "<o> of 'Brot'")
 cols <- c("grey", "red")
 vmap(v, col = cols[RECODE$K], border = NA)
 legend("bottomright", legend = c(levels(RECODE$K)), fill = c(cols), cex = .7)
-title(main = "<k> of 'Bro(K)t'")
+title(main = "<k> of 'Bro(k)t'")
 
 # t
-cols <- c("blue","red", "grey")
+cols <- c("blue","grey", "red")
 vmap(v, col = cols[RECODE$T], border = NA)
 legend("bottomright", legend = c(levels(RECODE$T)), fill = c(cols), cex = .7)
 title(main = "<t> of 'Brot'")

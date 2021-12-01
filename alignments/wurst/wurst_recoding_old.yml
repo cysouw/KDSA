@@ -1,0 +1,240 @@
+title: Recoding of 'wurst'
+author: Michael Cysouw
+date: '2016-06-03'
+original_data: ~
+recoding:
+# ==========
+- recodingOf: V1
+  attribute: W
+  values:
+  - b
+  - w
+  link: [1,1,2,2,2]
+  originalValues:
+  - b
+  - bh
+  - v
+  - w
+  - wj
+  comments: ~
+# ==========
+- recodingOf: V2
+  attribute: U
+  values:
+  - a
+  - e
+  - i
+  - o
+  - ö
+  - u
+  - ü
+  link:
+  - 4 # '-'
+  - 1 # a
+  - 1 # ä
+  - 1 # aa
+  - 1 # aao
+  - 1 # ao
+  - 1 # au
+  - 2 # e
+  - 2 # ea
+  - 2 # eä
+  - 2 # ee
+  - 2 # eo
+  - 3 # i
+  - 3 # ia
+  - 3 # iä
+  - 3 # ie
+  - 3 # ih
+  - 3 # ii
+  - 3 # iia
+  - 3 # ij
+  - 3 # iu
+  - 3 # je
+  - 3 # jo
+  - 4 # o
+  - 5 # ö
+  - 4 # oa
+  - 4 # oä
+  - 5 # öa
+  - 5 # öä
+  - 4 # oao
+  - 4 # oe
+  - 4 # oh
+  - 5 # öh
+  - 4 # oi
+  - 5 # öi
+  - 4 # oie
+  - 4 # oo
+  - 5 # öö
+  - 4 # ooe
+  - 4 # ou
+  - 4 # oua
+  - 6 # u
+  - 7 # ü
+  - 6 # ua
+  - 6 # uä
+  - 7 # üa
+  - 7 # üä
+  - 6 # uaa
+  - 6 # uae
+  - 6 # uao
+  - 6 # ue
+  - 7 # üe
+  - 6 # uea
+  - 6 # uee
+  - 6 # uh
+  - 7 # üh
+  - 6 # uhe
+  - 6 # ui
+  - 7 # üia
+  - 6 # uie
+  - 6 # uj
+  - 6 # uo
+  - 6 # uö
+  - 7 # üö
+  - 6 # uoa
+  - 6 # uou
+  - 6 # uu
+  - 7 # üü
+  - 6 # uua
+  - 6 # uuä
+  - 7 # üüa
+  - 6 # uue
+  - 6 # uuee
+  - 6 # uuo
+  originalValues:
+  - '-'
+  - a
+  - ä
+  - aa
+  - aao
+  - ao
+  - au
+  - e
+  - ea
+  - eä
+  - ee
+  - eo
+  - i
+  - ia
+  - iä
+  - ie
+  - ih
+  - ii
+  - iia
+  - ij
+  - iu
+  - je
+  - jo
+  - o
+  - ö
+  - oa
+  - oä
+  - öa
+  - öä
+  - oao
+  - oe
+  - oh
+  - öh
+  - oi
+  - öi
+  - oie
+  - oo
+  - öö
+  - ooe
+  - ou
+  - oua
+  - u
+  - ü
+  - ua
+  - uä
+  - üa
+  - üä
+  - uaa
+  - uae
+  - uao
+  - ue
+  - üe
+  - uea
+  - uee
+  - uh
+  - üh
+  - uhe
+  - ui
+  - üia
+  - uie
+  - uj
+  - uo
+  - uö
+  - üö
+  - uoa
+  - uou
+  - uu
+  - üü
+  - uua
+  - uuä
+  - üüa
+  - uue
+  - uuee
+  - uuo
+  comments: ~
+# ==========
+- recodingOf: V3
+  attribute: R
+  values:
+  - '-'
+  - r
+  link: [1,2,2]
+  originalValues:
+  - '-'
+  - r
+  - rr
+  comments: ~
+# ==========
+- recodingOf: V4
+  attribute: V
+  values:
+  - '-'
+  - V
+  link: [1,2,2]
+  originalValues:
+  - '-'
+  - i
+  - o
+  comments: ~
+# ==========
+- recodingOf: V5
+  attribute: S
+  values:
+  - '-'
+  - s
+  - ʃ
+  - z
+  - ch
+  link: [1,5,2,3,3,3,2,4,4]
+  originalValues:
+  - '-'
+  - ch
+  - s
+  - sch
+  - schs
+  - sh
+  - ss
+  - sz
+  - z
+  comments: ~
+# ==========
+- recodingOf: V6
+  attribute: T
+  values:
+  - '-'
+  - t
+  - d
+  link: [1,3,3,2]
+  originalValues:
+  - '-'
+  - d
+  - dt
+  - t
+  comments: ~

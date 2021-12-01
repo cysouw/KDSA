@@ -1,19 +1,17 @@
 title: ~
 author: ~
 date: '2021-12-01'
-originalData: ~
-selectRows: ~
+original_data: ~
 recoding:
 # ==========
 - recodingOf: V1
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     b: ~
     p: ~
-  newData: ~
   originalFrequency:
     b: 5820
     p: 51
@@ -22,12 +20,11 @@ recoding:
 - recodingOf: V2
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     '-': ~
     r: ~
-  newData: ~
   originalFrequency:
     '-': 5870
     r: 1
@@ -36,12 +33,11 @@ recoding:
 - recodingOf: V3
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     '-': ~
     e: ~
-  newData: ~
   originalFrequency:
     '-': 5869
     e: 2
@@ -50,13 +46,12 @@ recoding:
 - recodingOf: V4
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     '-': ~
     r: ~
     rr: ~
-  newData: ~
   originalFrequency:
     '-': 7
     r: 5862
@@ -66,8 +61,8 @@ recoding:
 - recodingOf: V5
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     '-': ~
     a: ~
@@ -156,7 +151,6 @@ recoding:
     üü: ~
     uue: ~
     uui: ~
-  newData: ~
   originalFrequency:
     '-': 1
     a: 64
@@ -250,8 +244,8 @@ recoding:
 - recodingOf: V6
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     '-': ~
     ch: ~
@@ -259,7 +253,6 @@ recoding:
     g: ~
     k: ~
     r: ~
-  newData: ~
   originalFrequency:
     '-': 5854
     ch: 1
@@ -272,8 +265,8 @@ recoding:
 - recodingOf: V7
   attribute: ~
   values:
-    a: ~
-    b: ~
+  - ~
+  - ~
   link:
     '-': ~
     d: ~
@@ -282,7 +275,6 @@ recoding:
     t: ~
     th: ~
     tt: ~
-  newData: ~
   originalFrequency:
     '-': 21
     d: 2915

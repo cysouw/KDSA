@@ -77,13 +77,19 @@ title(main = "<r> of 'Berg'")
 cols <- c("grey", "blue")
 vmap(v, col = cols[RECODE $berIg], border = NA)
 legend("bottomright", legend = levels(RECODE $berIg), fill = cols, cex = .7)
-title(main = "<i> of 'BerIg'")
+title(main = "<i> of 'Ber(i)g'")
 
 # g
 cols <- cols <- c("red", "purple", "green", "black", "grey", "blue", "yellow", "darkgreen")
 vmap(v, col = cols[RECODE $beriG], border = NA)
 legend("bottomright", legend = levels(RECODE $beriG), fill = cols, cex = .7)
 title(main = "<g> of 'Berg'")
+
+# n
+cols <- c("grey","red")
+vmap(v, col = cols[RECODE $beriNg], border = NA)
+legend("bottomright", legend = levels(RECODE $beriNg), fill = cols, cex = .7)
+title(main = "<n> of 'Berg(n)'")
 
 # show Session Info
 sessionInfo()

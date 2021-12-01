@@ -1,6 +1,6 @@
 title: ~
 author: ~
-date: '2016-06-03'
+date: '2021-12-01'
 original_data: ~
 recoding:
 # ==========
@@ -9,13 +9,20 @@ recoding:
   values:
   - ~
   - ~
-  link: ~
-  originalValues:
-  - b
-  - bh
-  - v
-  - w
-  - wj
+  link:
+    b: ~
+    bh: ~
+    bj: ~
+    v: ~
+    w: ~
+    wj: ~
+  originalFrequency:
+    b: 26
+    bh: 1
+    bj: 2
+    v: 2
+    w: 5791
+    wj: 2
   comments: ~
 # ==========
 - recodingOf: V2
@@ -23,82 +30,66 @@ recoding:
   values:
   - ~
   - ~
-  link: ~
-  originalValues:
-  - '-'
-  - a
-  - ä
-  - aa
-  - aao
-  - ao
-  - au
-  - e
-  - ea
-  - eä
-  - ee
-  - eo
-  - i
-  - ia
-  - iä
-  - ie
-  - ih
-  - ii
-  - iia
-  - ij
-  - iu
-  - je
-  - jo
-  - o
-  - ö
-  - oa
-  - oä
-  - öa
-  - öä
-  - oao
-  - oe
-  - oh
-  - öh
-  - oi
-  - öi
-  - oie
-  - oo
-  - öö
-  - ooe
-  - ou
-  - oua
-  - u
-  - ü
-  - ua
-  - uä
-  - üa
-  - üä
-  - uaa
-  - uae
-  - uao
-  - ue
-  - üe
-  - uea
-  - uee
-  - uh
-  - üh
-  - uhe
-  - ui
-  - üia
-  - uie
-  - uj
-  - uo
-  - uö
-  - üö
-  - uoa
-  - uou
-  - uu
-  - üü
-  - uua
-  - uuä
-  - üüa
-  - uue
-  - uuee
-  - uuo
+  link:
+    '-': ~
+    a: ~
+    ä: ~
+    aa: ~
+    aao: ~
+    ao: ~
+    au: ~
+    e: ~
+    ee: ~
+    eo: ~
+    i: ~
+    ie: ~
+    ih: ~
+    ii: ~
+    ij: ~
+    o: ~
+    ö: ~
+    oh: ~
+    öh: ~
+    oo: ~
+    öö: ~
+    ou: ~
+    u: ~
+    ü: ~
+    uh: ~
+    üh: ~
+    uo: ~
+    uu: ~
+    üü: ~
+  originalFrequency:
+    '-': 3
+    a: 51
+    ä: 32
+    aa: 5
+    aao: 1
+    ao: 5
+    au: 2
+    e: 63
+    ee: 5
+    eo: 1
+    i: 159
+    ie: 2
+    ih: 2
+    ii: 11
+    ij: 1
+    o: 2077
+    ö: 66
+    oh: 7
+    öh: 1
+    oo: 35
+    öö: 5
+    ou: 22
+    u: 2711
+    ü: 291
+    uh: 27
+    üh: 2
+    uo: 77
+    uu: 141
+    üü: 19
   comments: ~
 # ==========
 - recodingOf: V3
@@ -106,11 +97,54 @@ recoding:
   values:
   - ~
   - ~
-  link: ~
-  originalValues:
-  - '-'
-  - r
-  - rr
+  link:
+    '-': ~
+    a: ~
+    ä: ~
+    aa: ~
+    ae: ~
+    ao: ~
+    ar: ~
+    är: ~
+    e: ~
+    ea: ~
+    ee: ~
+    eer: ~
+    er: ~
+    i: ~
+    ia: ~
+    ie: ~
+    ir: ~
+    j: ~
+    o: ~
+    ö: ~
+    r: ~
+    rr: ~
+    u: ~
+  originalFrequency:
+    '-': 1784
+    a: 457
+    ä: 24
+    aa: 3
+    ae: 1
+    ao: 6
+    ar: 84
+    är: 8
+    e: 92
+    ea: 1
+    ee: 3
+    eer: 1
+    er: 18
+    i: 9
+    ia: 1
+    ie: 2
+    ir: 1
+    j: 1
+    o: 1
+    ö: 2
+    r: 3298
+    rr: 24
+    u: 3
   comments: ~
 # ==========
 - recodingOf: V4
@@ -118,11 +152,12 @@ recoding:
   values:
   - ~
   - ~
-  link: ~
-  originalValues:
-  - '-'
-  - i
-  - o
+  link:
+    '-': ~
+    i: ~
+  originalFrequency:
+    '-': 5823
+    i: 1
   comments: ~
 # ==========
 - recodingOf: V5
@@ -130,17 +165,26 @@ recoding:
   values:
   - ~
   - ~
-  link: ~
-  originalValues:
-  - '-'
-  - ch
-  - s
-  - sch
-  - schs
-  - sh
-  - ss
-  - sz
-  - z
+  link:
+    '-': ~
+    ch: ~
+    s: ~
+    sch: ~
+    schs: ~
+    sh: ~
+    ss: ~
+    sz: ~
+    z: ~
+  originalFrequency:
+    '-': 8
+    ch: 11
+    s: 1718
+    sch: 3914
+    schs: 2
+    sh: 1
+    ss: 167
+    sz: 2
+    z: 1
   comments: ~
 # ==========
 - recodingOf: V6
@@ -148,10 +192,14 @@ recoding:
   values:
   - ~
   - ~
-  link: ~
-  originalValues:
-  - '-'
-  - d
-  - dt
-  - t
+  link:
+    '-': ~
+    d: ~
+    dt: ~
+    t: ~
+  originalFrequency:
+    '-': 279
+    d: 181
+    dt: 1
+    t: 5363
   comments: ~

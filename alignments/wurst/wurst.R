@@ -79,36 +79,36 @@ ALIGN <- as.data.frame(ALIGN)
 # write recoding template to be edited manually
 write.recoding(ALIGN, file = "wurst_recoding_template.yml")
 # recode data according to edited recoding template
-ALIGN <- recode(ALIGN, "wurst_recoding.yml")
+RECODE <- recode(ALIGN, "wurst_recoding.yml")
 
 # w
-cols <- c("blue", "red")
-vmap(v, col = cols[ALIGN$W], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$W),"(NC)"), fill = c(cols,"white"), cex = .7)
+cols <- c("red", "grey")
+vmap(v, col = cols[RECODE$W], border = NA)
+legend("bottomright", legend = c(levels(RECODE$W)), fill = c(cols), cex = .7)
 title(main = "<w> of 'Wurst'")
 
 # u
-cols <- c("red", "yellow","green", "darkgreen", "orange", "blue", "darkblue")
-vmap(v, col = cols[ALIGN$U], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$U),"(NC)"), fill = c(cols,"white"), cex = .7)
+cols <- c("white","red", "yellow","green", "darkgreen", "orange", "blue", "grey","darkblue")
+vmap(v, col = cols[RECODE$U], border = NA)
+legend("bottomright", legend = c(levels(RECODE$U)), fill = c(cols), cex = .7)
 title(main = "<u> of 'Wurst'")
 
 # r
-cols <- c("grey", "red")
-vmap(v, col = cols[ALIGN$R], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$R),"(NC)"), fill = c(cols,"white"), cex = .7)
+cols <- c("yellow", "red", "grey", "green")
+vmap(v, col = cols[RECODE$R], border = NA)
+legend("bottomright", legend = c(levels(RECODE$R)), fill = c(cols), cex = .7)
 title(main = "<r> of 'Wurst'")
 
 # s
-cols <- c("grey", "green", "red", "blue", "darkred")
-vmap(v, col = cols[ALIGN$S], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$S),"(NC)"), fill = c(cols,"white"), cex = .7)
+cols <- c("green", "red", "blue", "grey")
+vmap(v, col = cols[RECODE$S], border = NA)
+legend("bottomright", legend = c(levels(RECODE$S)), fill = c(cols), cex = .7)
 title(main = "<s> of 'Wurst'")
 
 # t
-cols <- c("grey", "blue", "red")
-vmap(v, col = cols[ALIGN$T], border = NA)
-legend("bottomright", legend = c(levels(ALIGN$T),"(NC)"), fill = c(cols,"white"), cex = .7)
+cols <- c("red", "blue", "grey")
+vmap(v, col = cols[RECODE$T], border = NA)
+legend("bottomright", legend = c(levels(RECODE$T)), fill = c(cols), cex = .7)
 title(main = "<t> of 'Wurst'")
 
 # show Session Info

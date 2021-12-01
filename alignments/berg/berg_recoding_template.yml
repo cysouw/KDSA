@@ -198,6 +198,21 @@ recoding:
   - ~
   link:
     '-': ~
+    m: ~
+    'n': ~
+  originalFrequency:
+    '-': 5810
+    m: 2
+    'n': 65
+  comments: ~
+# ==========
+- recodingOf: V7
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
     c: ~
     ch: ~
     ck: ~
@@ -212,10 +227,6 @@ recoding:
     jch: ~
     jg: ~
     k: ~
-    m: ~
-    mg: ~
-    'n': ~
-    ng: ~
     r: ~
     rg: ~
     rj: ~
@@ -223,12 +234,12 @@ recoding:
     t: ~
     'y': ~
   originalFrequency:
-    '-': 105
+    '-': 114
     c: 1
     ch: 323
     ck: 1
     d: 1
-    g: 4853
+    g: 4911
     gg: 5
     gh: 3
     gj: 1
@@ -238,10 +249,6 @@ recoding:
     jch: 2
     jg: 2
     k: 49
-    m: 1
-    mg: 1
-    'n': 8
-    ng: 57
     r: 45
     rg: 17
     rj: 6
@@ -250,7 +257,7 @@ recoding:
     'y': 2
   comments: ~
 # ==========
-- recodingOf: V7
+- recodingOf: V8
   attribute: ~
   values:
   - ~

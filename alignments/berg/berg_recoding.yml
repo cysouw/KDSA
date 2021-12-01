@@ -167,6 +167,18 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: V6
+  attribute: beriNg
+  link:
+    '-': '-'
+    m: 'n'
+    'n': 'n'
+  originalFrequency:
+    '-': 5810
+    m: 2
+    'n': 65
+  comments: ~
+# ==========
+- recodingOf: V7
   attribute: beriG
   link:
     '-': '-'
@@ -184,10 +196,6 @@ recoding:
     jch: j
     jg: j
     k: k
-    m: m/n (nasal)
-    mg: m/n (nasal)
-    'n': m/n (nasal)
-    ng: m/n (nasal)
     r: r
     rj: r
     rg: r
@@ -195,25 +203,24 @@ recoding:
     t: (other)
     'y': j
   originalFrequency:
-    '-': 150
+    '-': 114
     c: 1
     ch: 323
     ck: 1
     d: 1
-    g: 4870
+    g: 4911
     gg: 5
     gh: 3
     gj: 1
     gk: 2
     h: 2
-    j: 394
+    j: 388
     jch: 2
     jg: 2
     k: 49
-    m: 1
-    mg: 1
-    'n': 8
-    ng: 57
+    r: 45
+    rg: 17
+    rj: 6
     s: 1
     t: 1
     'y': 2
