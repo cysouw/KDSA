@@ -1,0 +1,266 @@
+title: ~
+author: ~
+date: '2021-12-01'
+original_data: ~
+recoding:
+# ==========
+- recodingOf: V1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    ge: ~
+  originalFrequency:
+    '-': 5874
+    ge: 3
+  comments: ~
+# ==========
+- recodingOf: V2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    b: ~
+    bj: ~
+    p: ~
+  originalFrequency:
+    b: 5788
+    bj: 20
+    p: 69
+  comments: ~
+# ==========
+- recodingOf: V3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    a: ~
+    ä: ~
+    aa: ~
+    aä: ~
+    äa: ~
+    ää: ~
+    ääa: ~
+    aah: ~
+    aao: ~
+    ae: ~
+    äe: ~
+    ah: ~
+    äh: ~
+    ai: ~
+    äi: ~
+    ao: ~
+    äo: ~
+    e: ~
+    ea: ~
+    eä: ~
+    ee: ~
+    eeaa: ~
+    eei: ~
+    eh: ~
+    ei: ~
+    eie: ~
+    i: ~
+    ia: ~
+    iä: ~
+    iae: ~
+    iäe: ~
+    ie: ~
+    iee: ~
+    iei: ~
+    ii: ~
+    iü: ~
+    o: ~
+    ö: ~
+    oa: ~
+    öö: ~
+    u: ~
+    yä: ~
+  originalFrequency:
+    a: 2192
+    ä: 559
+    aa: 122
+    aä: 8
+    äa: 8
+    ää: 29
+    ääa: 1
+    aah: 1
+    aao: 1
+    ae: 5
+    äe: 5
+    ah: 25
+    äh: 10
+    ai: 8
+    äi: 4
+    ao: 5
+    äo: 1
+    e: 2520
+    ea: 87
+    eä: 6
+    ee: 57
+    eeaa: 1
+    eei: 1
+    eh: 10
+    ei: 4
+    eie: 1
+    i: 19
+    ia: 20
+    iä: 102
+    iae: 1
+    iäe: 1
+    ie: 37
+    iee: 3
+    iei: 1
+    ii: 1
+    iü: 1
+    o: 3
+    ö: 9
+    oa: 4
+    öö: 1
+    u: 2
+    yä: 1
+  comments: ~
+# ==========
+- recodingOf: V4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ä: ~
+    aa: ~
+    ao: ~
+    au: ~
+    e: ~
+    i: ~
+    l: ~
+    o: ~
+    r: ~
+    rn: ~
+    rr: ~
+    u: ~
+    w: ~
+  originalFrequency:
+    '-': 405
+    a: 165
+    ä: 1
+    aa: 3
+    ao: 1
+    au: 1
+    e: 8
+    i: 3
+    l: 1
+    o: 9
+    r: 5254
+    rn: 1
+    rr: 21
+    u: 1
+    w: 3
+  comments: ~
+# ==========
+- recodingOf: V5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    au: ~
+    e: ~
+    eu: ~
+    i: ~
+    o: ~
+    ö: ~
+    u: ~
+  originalFrequency:
+    '-': 5630
+    a: 10
+    au: 1
+    e: 42
+    eu: 1
+    i: 179
+    o: 1
+    ö: 7
+    u: 6
+  comments: ~
+# ==========
+- recodingOf: V6
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    c: ~
+    ch: ~
+    ck: ~
+    d: ~
+    g: ~
+    gg: ~
+    gh: ~
+    gj: ~
+    gk: ~
+    h: ~
+    j: ~
+    jch: ~
+    jg: ~
+    k: ~
+    m: ~
+    mg: ~
+    'n': ~
+    ng: ~
+    r: ~
+    rg: ~
+    rj: ~
+    s: ~
+    t: ~
+    'y': ~
+  originalFrequency:
+    '-': 105
+    c: 1
+    ch: 323
+    ck: 1
+    d: 1
+    g: 4853
+    gg: 5
+    gh: 3
+    gj: 1
+    gk: 2
+    h: 2
+    j: 388
+    jch: 2
+    jg: 2
+    k: 49
+    m: 1
+    mg: 1
+    'n': 8
+    ng: 57
+    r: 45
+    rg: 17
+    rj: 6
+    s: 1
+    t: 1
+    'y': 2
+  comments: ~
+# ==========
+- recodingOf: V7
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    oh: ~
+  originalFrequency:
+    '-': 5875
+    a: 1
+    oh: 1
+  comments: ~
