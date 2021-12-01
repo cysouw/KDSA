@@ -29,53 +29,53 @@ recoding:
   attribute: O
   link:
     '-': '-'
-    a: au/a
+    a: a
     ä: e/ei
-    aa: au/a
+    aa: a
     äa: e/ei
     aae: e/ei
-    aao: au/a
-    aau: au/a
-    äau: au/a
-    ääu: au/a
+    aao: au
+    aau: au
+    äau: au
+    ääu: au
     ae: e/ei
-    äeu: au/a
-    ah: au/a
+    äeu: au
+    ah: a
     ai: e/ei
     aie: e/ei
-    ao: au/a
-    äo: au/a
-    aou: au/a
-    äou: au/a
-    au: au/a
-    aü: au/a
-    äu: au/a
-    äü: au/a
-    auo: au/a
-    auu: au/a
+    ao: au
+    äo: au
+    aou: au
+    äou: au
+    au: au
+    aü: au
+    äu: au
+    äü: au
+    auo: au
+    auu: au
     e: e/ei
     ea: oa
-    eao: au/a
-    eäu: au/a
+    eao: au
+    eäu: au
     ee: e/ei
     ei: e/ei
     eju: e/ei
-    eo: au/a
+    eo: au
     eoa: oa
-    eoo: au/a
-    eou: au/a
-    eu: au/a
-    eü: au/a
-    iäu: au/a
+    eoo: au
+    eou: au
+    eu: au
+    eü: au
+    iäu: au
     o: o
     ö: ö
     oa: oa
     oä: oa
     öä: oa
     oaa: oa
-    oao: au/a
-    oau: au/a
-    öau: au/a
+    oao: au
+    oau: au
+    öau: au
     oe: oa
     öe: ö
     oh: o
