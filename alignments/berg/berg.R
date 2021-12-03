@@ -51,7 +51,7 @@ ALIGN <- as.data.frame(ALIGN)
 # write recoding template to be edited manually
 write.recoding(ALIGN, file = "berg_recoding_template.yml")
 # recode data according to edited recoding template
-RECODE <- recode(ALIGN, "berg_recoding.yml")
+RECODE <- recode("berg_recoding.yml", ALIGN)
 
 #' ### Maps
 
