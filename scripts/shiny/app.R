@@ -2,16 +2,19 @@ library(shiny)
 library(qlcData)
 library(qlcVisualize)
 
-aligned <- "../berg/berg_aligned.txt"
-recoding <- "../berg/berg_recoding.yml"
+
+word <- "wurst"
+aligned <- paste0("../", word, "/", word, "_aligned.txt")
+recoding <- paste0("../", word, "/", word, "_recoding.yml")
 data_to_view <- "RECODE"
-aligned_column <- 2
+aligned_column <- 3
+map_main <- paste(word, data_to_view, "column:", aligned_column)
 
 # load basemap
 load("../../data/KDSAvoronoi.Rdata")
 
 # load manually corrected data
-aligned_data <- read.table(aligned, row.names = 1, header = TRUE, sep = "\t")
+aligned_data <- read.table(aligned, header = TRUE, sep = "\t")
 
 # sounds in "berg"
 ALIGN <- as.character(aligned_data$ALIGN)
@@ -88,7 +91,7 @@ server <- function(input, output) {
 				, fill = cols
 				, cex = .7
 				)
-		title(main = "<b> of 'Berg'")
+		title(main = map_main)
 		
     })
 

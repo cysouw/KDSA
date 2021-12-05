@@ -1,0 +1,45 @@
+Wenkerkarten Update
+
+Die handgezeichnete Wenkerkarten (s. Sprachspuren 2021-11) sind ein eindrucksvolles Resultat von einer immensen Datenerhebung und ein detailliertes manuelles Kartierungsverfahren. Ich will hier ein Versuch zu einer zeitgemäßen Visualisierung vorstellen, die genau so Detailgetreu und zugleich hoffentlich intuitiv leicht verständlich ist wie Wenkers Originalkarten. Das zentrale Problem dabei ist alle einzelne Formen zu representieren ohne die Karte unübersichtlich werden zu lassen. Vor allem bei der Kartierung der Vokalvielfalt ist das eine große Herausforderung.
+
+Wenker hat seine Daten erfasst mittels Fragebögen, die von Schullehrern augefüllt wurden. Dadurch liegen die Daten in einer uneinheitlichen Verschriftlichung vor. Die Lehrer haben deutsche orthographische Mittel benutzte (wie Dehnungs-h oder Umlaut) in einem Verusch die lokale Aussprache zu karakterisieren.
+
+
+Für diesen Artikel verwende ich die Transliterationen der Wenkerbögen, die im Rahmen des Kleinen Deutschen Sprachatas (KDSA) angefertigt worden sind. Für diesen Atlas wurden fast 6000 Wenkerbögen ausgewählt. Einzelne Formen aus diesen Bögen wurden transliteriert und elektronisch erfasst. Auf Basis dieser Daten ist der KDSA als ein klassischer gedruckter Atlas erstanden. Die Darstellung im KDSA ist aber nicht sehr intuitiv einleuchtend. Gemäß der Tradition der originale Wenkerkarten hat in diesem Atlas jede einzelne Sprachform ein eigenes Symbol. Aber vor allem in Karten mit vielen Sprachformen werden dadurch viele dutzende verschiedene Symbole benutzt, was visuell ein eher konfuses Bild der geographischen Verteilung ergibt. 
+
+
+
+
+
+
+Wenker hat 
+
+
+Leitform
+
+# Prinzipien der Gestaltung
+
+Bei der Gestaltung der Karten wurden folgende Prinzipien zu Grunde gelegt:
+
+- Jede geschriebe Originalform aus den Erhebungsbogen wird direkt kartiert. Farben werden benutzt um eine visuelle Interpretation zu erleichtern.
+- Ähliche Farben werden für ähnliche Sprachformen benutzt, wobei die Schreibweise aus der Vorgabe stand immer grau dargestellt wird.
+- Die Darstellung fült den gesammten geographischen Raum: die gesammelte Daten sind eine Stichprobe, die representativ sein sollte für den gesammten Raum.
+
+Dem Prinzip von Georg Wenker folgend werden die Daten nicht vereinfacht oder umgedeutet um eine Kartierung zu ermöglichen, sondern sie werden direkt so kartiert, wie sie in den handschriftlichen Bögen stehen. Jede einzelne Form ist so direkt in der Karte dargestellt. Um die Karten nicht zu überfrachten mit Informationen sind die Formen elektronisch hinterlegt. Sie lassen sich durch einen Klick auf der Karte aufrufen.
+
+Die Farbtupfen auf der Karte sehen quadratisch aus, und in vielen Fällen sind sie das auch. Das ist aber kein Grundsatz der Visualisierung, sondern es ist der Datensammlung des KDSA geschuldet. In der Planung des KDSA sind die 6000 Bogen anhand eines Koordinatengitters ausgewählt worden. Die vorhandenen Daten sind deshalb sehr regelmäßig über den geographischen Raum verteilt und verursachen fast überall quadratische Polygone. Bei genaue Betrachtung der Karte lässt sich aber feststellen, dass nicht alle Farbtupfen quadratisch sind. 
+
+# Die Kartierung der Vokale
+
+
+Die Kartierung von Konsonanten stellt keine große Probleme dar. Die Menge an Varianten ist relativ klein, und meistens ist nur eine Handvoll Varianten häufig vorhanden. Ein par wenige Farben reichen deshalb aus um ein 
+
+# Webtechnologie
+
+Technisch gesehen basieren die Karten in diesem Aufsatz auf weitverbreitete Webtechnologien. Obwohl die Karten dadurch online angeschaut werden können, ist es wichtig zu verstehen, dass das Internet nicht notwendig ist für die Darstellung. Eine Karte ist immer eine einzelne selbständige Datei, die einfach gespeichtert und geteilt werden kann. Man kann sie zum Beispiel problemlos in einer Email oder anderer elektronischer Kommunikationsform verschicken. Die Darstellung der Karte erfolgt über einen Webbrowser, auch wenn die Datei lokal auf einen Rechner liegt (und der Rechner brauch dabei nicht mit dem Internet verbunden zu sein).
+
+ Das Format so einer Datei setzt sich aus verschiedene We
+
+
+
+

@@ -15,7 +15,7 @@ COOR <- data.frame(LONG = LOC$V4+(LOC$V5/60), LAT = LOC$V2+(LOC$V3/60))
 rownames(COOR) <- gsub(" ","",LOC$V1)
 
 write.table( format(COOR, digits = 5, nsmall = 4)
-			 , file = "sandbox/coor.txt"
+			 , file = "sandbox/KDSAlocations.txt"
 			 , sep = "\t"
 			 , quote = F
 			 , col.names = NA
@@ -85,7 +85,7 @@ write.profile(tok$strings$tokenized, sep = " ", file = "sandbox/all_graphemes.tx
 
 # write output
 write.table(WORDS
-			, file = "sandbox/kdsa.txt"
+			, file = "sandbox/KDSAwords.txt"
 			, sep="\t"
 			, quote = FALSE
 			, col.names = NA

@@ -1,0 +1,212 @@
+title: ~
+author: ~
+date: '2021-12-03'
+originalData: ~
+selectRows: ~
+recoding:
+# ==========
+- recodingOf: V1
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    b: ~
+    bh: ~
+    bj: ~
+    v: ~
+    w: ~
+    wj: ~
+  newData: ~
+  originalFrequency:
+    b: 26
+    bh: 1
+    bj: 2
+    v: 2
+    w: 5791
+    wj: 2
+  comments: ~
+# ==========
+- recodingOf: V2
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    '-': ~
+    a: ~
+    ä: ~
+    aa: ~
+    aao: ~
+    ao: ~
+    au: ~
+    e: ~
+    ee: ~
+    eo: ~
+    i: ~
+    ie: ~
+    ih: ~
+    ii: ~
+    ij: ~
+    o: ~
+    ö: ~
+    oh: ~
+    öh: ~
+    oo: ~
+    öö: ~
+    ou: ~
+    u: ~
+    ü: ~
+    uh: ~
+    üh: ~
+    uo: ~
+    uu: ~
+    üü: ~
+  newData: ~
+  originalFrequency:
+    '-': 3
+    a: 51
+    ä: 32
+    aa: 5
+    aao: 1
+    ao: 5
+    au: 2
+    e: 63
+    ee: 5
+    eo: 1
+    i: 159
+    ie: 2
+    ih: 2
+    ii: 11
+    ij: 1
+    o: 2077
+    ö: 66
+    oh: 7
+    öh: 1
+    oo: 35
+    öö: 5
+    ou: 22
+    u: 2711
+    ü: 291
+    uh: 27
+    üh: 2
+    uo: 77
+    uu: 141
+    üü: 19
+  comments: ~
+# ==========
+- recodingOf: V3
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    '-': ~
+    a: ~
+    ä: ~
+    aa: ~
+    ae: ~
+    ao: ~
+    ar: ~
+    är: ~
+    e: ~
+    ea: ~
+    ee: ~
+    eer: ~
+    er: ~
+    i: ~
+    ia: ~
+    ie: ~
+    ir: ~
+    j: ~
+    o: ~
+    ö: ~
+    r: ~
+    rr: ~
+    u: ~
+  newData: ~
+  originalFrequency:
+    '-': 1784
+    a: 457
+    ä: 24
+    aa: 3
+    ae: 1
+    ao: 6
+    ar: 84
+    är: 8
+    e: 92
+    ea: 1
+    ee: 3
+    eer: 1
+    er: 18
+    i: 9
+    ia: 1
+    ie: 2
+    ir: 1
+    j: 1
+    o: 1
+    ö: 2
+    r: 3298
+    rr: 24
+    u: 3
+  comments: ~
+# ==========
+- recodingOf: V4
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    '-': ~
+    i: ~
+  newData: ~
+  originalFrequency:
+    '-': 5823
+    i: 1
+  comments: ~
+# ==========
+- recodingOf: V5
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    '-': ~
+    ch: ~
+    s: ~
+    sch: ~
+    schs: ~
+    sh: ~
+    ss: ~
+    sz: ~
+    z: ~
+  newData: ~
+  originalFrequency:
+    '-': 8
+    ch: 11
+    s: 1718
+    sch: 3914
+    schs: 2
+    sh: 1
+    ss: 167
+    sz: 2
+    z: 1
+  comments: ~
+# ==========
+- recodingOf: V6
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    '-': ~
+    d: ~
+    dt: ~
+    t: ~
+  newData: ~
+  originalFrequency:
+    '-': 279
+    d: 181
+    dt: 1
+    t: 5363
+  comments: ~

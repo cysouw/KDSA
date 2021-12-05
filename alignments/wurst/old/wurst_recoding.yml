@@ -5,17 +5,14 @@ original_data: ~
 recoding:
 # ==========
 - recodingOf: V1
-  attribute: ~
-  values:
-  - ~
-  - ~
+  attribute: W
   link:
-    b: ~
-    bh: ~
-    bj: ~
-    v: ~
-    w: ~
-    wj: ~
+    b: b
+    bh: b
+    bj: b
+    v: w
+    w: w
+    wj: w
   originalFrequency:
     b: 26
     bh: 1
@@ -26,40 +23,37 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: V2
-  attribute: ~
-  values:
-  - ~
-  - ~
+  attribute: U
   link:
-    '-': ~
-    a: ~
-    ä: ~
-    aa: ~
-    aao: ~
-    ao: ~
-    au: ~
-    e: ~
-    ee: ~
-    eo: ~
-    i: ~
-    ie: ~
-    ih: ~
-    ii: ~
-    ij: ~
-    o: ~
-    ö: ~
-    oh: ~
-    öh: ~
-    oo: ~
-    öö: ~
-    ou: ~
-    u: ~
-    ü: ~
-    uh: ~
-    üh: ~
-    uo: ~
-    uu: ~
-    üü: ~
+    '-': '-'
+    a: a
+    ä: a
+    aa: a
+    aao: uo
+    ao: uo
+    au: uo
+    e: e
+    ee: e
+    eo: uo
+    i: i
+    ie: i
+    ih: i
+    ii: i
+    ij: i
+    o: o
+    ö: ö
+    oh: o
+    öh: ö
+    oo: o
+    öö: ö
+    ou: uo
+    u: u
+    ü: ü
+    uh: uu
+    üh: ü
+    uo: uo
+    uu: uu
+    üü: ü
   originalFrequency:
     '-': 3
     a: 51
@@ -93,34 +87,31 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: V3
-  attribute: ~
-  values:
-  - ~
-  - ~
+  attribute: R
   link:
-    '-': ~
-    a: ~
-    ä: ~
-    aa: ~
-    ae: ~
-    ao: ~
-    ar: ~
-    är: ~
-    e: ~
-    ea: ~
-    ee: ~
-    eer: ~
-    er: ~
-    i: ~
-    ia: ~
-    ie: ~
-    ir: ~
-    j: ~
-    o: ~
-    ö: ~
-    r: ~
-    rr: ~
-    u: ~
+    '-': '-'
+    a: a
+    ä: a
+    aa: a
+    ae: a
+    ao: a
+    ar: a
+    är: a
+    e: e
+    ea: a
+    ee: e
+    eer: e
+    er: e
+    i: e
+    ia: a
+    ie: e
+    ir: r
+    j: e
+    o: a
+    ö: a
+    r: r
+    rr: r
+    u: a
   originalFrequency:
     '-': 1784
     a: 457
@@ -147,34 +138,18 @@ recoding:
     u: 3
   comments: ~
 # ==========
-- recodingOf: V4
-  attribute: ~
-  values:
-  - ~
-  - ~
-  link:
-    '-': ~
-    i: ~
-  originalFrequency:
-    '-': 5823
-    i: 1
-  comments: ~
-# ==========
 - recodingOf: V5
-  attribute: ~
-  values:
-  - ~
-  - ~
+  attribute: S
   link:
-    '-': ~
-    ch: ~
-    s: ~
-    sch: ~
-    schs: ~
-    sh: ~
-    ss: ~
-    sz: ~
-    z: ~
+    '-': '-'
+    ch: ch
+    s: s
+    sch: sch
+    schs: sch
+    sh: sch
+    ss: s
+    sz: s
+    z: s
   originalFrequency:
     '-': 8
     ch: 11
@@ -188,15 +163,12 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: V6
-  attribute: ~
-  values:
-  - ~
-  - ~
+  attribute: T
   link:
-    '-': ~
-    d: ~
-    dt: ~
-    t: ~
+    '-': '-'
+    d: d
+    dt: t
+    t: t
   originalFrequency:
     '-': 279
     d: 181
