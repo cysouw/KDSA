@@ -25,20 +25,26 @@ Bei der Gestaltung der Karten wurden folgende Prinzipien zu Grunde gelegt:
 - Ähliche Farben werden für ähnliche Sprachformen benutzt, wobei die Schreibweise aus der Vorgabe stand immer grau dargestellt wird.
 - Die Darstellung fült den gesammten geographischen Raum: die gesammelte Daten sind eine Stichprobe, die representativ sein sollte für den gesammten Raum.
 
-Dem Prinzip von Georg Wenker folgend werden die Daten nicht vereinfacht oder umgedeutet um eine Kartierung zu ermöglichen, sondern sie werden direkt so kartiert, wie sie in den handschriftlichen Bögen stehen. Jede einzelne Form ist so direkt in der Karte dargestellt. Um die Karten nicht zu überfrachten mit Informationen sind die Formen elektronisch hinterlegt. Sie lassen sich durch einen Klick auf der Karte aufrufen.
+Dem Prinzip von Georg Wenker folgend werden die Daten nicht vereinfacht oder umgedeutet um eine Kartierung zu ermöglichen, sondern sie werden direkt so kartiert, wie sie in den handschriftlichen Bögen stehen. Jede einzelne Form ist so direkt in der Karte dargestellt. Um die Karten nicht zu überfrachten mit Informationen sind die Sprachformen elektronisch hinterlegt. Sie lassen sich durch einen Klick auf der Karte aufrufen.
+
+Jede verschiedene Sprachform hat eine eigene Farbe auf der Karte.
 
 Die Farbtupfen auf der Karte sehen quadratisch aus, und in vielen Fällen sind sie das auch. Das ist aber kein Grundsatz der Visualisierung, sondern es ist der Datensammlung des KDSA geschuldet. In der Planung des KDSA sind die 6000 Bogen anhand eines Koordinatengitters ausgewählt worden. Die vorhandenen Daten sind deshalb sehr regelmäßig über den geographischen Raum verteilt und verursachen fast überall quadratische Polygone. Bei genaue Betrachtung der Karte lässt sich aber feststellen, dass nicht alle Farbtupfen quadratisch sind. 
 
+
+
+
 # Die Kartierung der Vokale
 
-
-Die Kartierung von Konsonanten stellt keine große Probleme dar. Die Menge an Varianten ist relativ klein, und meistens ist nur eine Handvoll Varianten häufig vorhanden. Ein par wenige Farben reichen deshalb aus um ein 
+Die Kartierung von Konsonanten stellt keine große Probleme dar. Die Menge an Varianten ist relativ klein, und meistens ist nur eine Handvoll Varianten häufig vorhanden. Ein par wenige Farben reichen deshalb aus um ein gutes Raumbild zu erstellen.
 
 # Webtechnologie
 
-Technisch gesehen basieren die Karten in diesem Aufsatz auf weitverbreitete Webtechnologien. Obwohl die Karten dadurch online angeschaut werden können, ist es wichtig zu verstehen, dass das Internet nicht notwendig ist für die Darstellung. Eine Karte ist immer eine einzelne selbständige Datei, die einfach gespeichtert und geteilt werden kann. Man kann sie zum Beispiel problemlos in einer Email oder anderer elektronischer Kommunikationsform verschicken. Die Darstellung der Karte erfolgt über einen Webbrowser, auch wenn die Datei lokal auf einen Rechner liegt (und der Rechner brauch dabei nicht mit dem Internet verbunden zu sein).
+Technisch gesehen basieren die Karten in diesem Aufsatz auf weitverbreitete Webtechnologien (HTML, CSS & Javascript). Obwohl die Karten dadurch online angeschaut werden können, ist es wichtig zu verstehen, dass das Internet nicht notwendig ist für die Darstellung. Eine Karte ist immer eine einzelne selbständige Datei, die einfach gespeichtert und geteilt werden kann. Man kann sie zum Beispiel problemlos in einer Email oder in einer anderer elektronischer Kommunikationsform verschicken. Die Darstellung der Karte erfolgt über einen Webbrowser (Chrome, Firefox, Safari, usw.), auch wenn die Datei lokal auf einen Rechner liegt (und der Rechner nicht mit dem Internet verbunden ist).
 
- Das Format so einer Datei setzt sich aus verschiedene We
+Wenn Sie zum Beispiel folgende Karte online aufrufen <http://cysouw.github.io/KDSA/Wurst_UR.html>, dann können Sie über die Funktion des Webbrowsers die Karte lokal auf Ihren Rechner speichern ("speichern unter ...") als HTML Quellcode. Sie haben dann eine Datei mit Endung '.html', die Sie wie jede andere Datei benutzen können. Ein Doppelklick auf die Datei öffnet sie im Webbrowser. Wenn Sie aber genau nach der Internetadresse schauen, dann werden Sie sehen, dass diese Webseite lokal auf Ihrem Rechner liegt (die Adresse fängt an mit 'file://').
+
+Die Karten wurden erstellt in R <https://www.r-project.org> und die Javscript Bibliothek leaflet <https://leafletjs.com>. Die Fortschritte dieses Projektes können Sie verfolgen unter <https://github.com/cysouw/KDSA>.
 
 
 
