@@ -1,51 +1,63 @@
-Wenkerkarten Update
+# Wenkerbögen neu kartiert
 
-Die handgezeichnete Wenkerkarten (s. Sprachspuren 2021-11) sind ein eindrucksvolles Resultat von einer immensen Datenerhebung und ein detailliertes manuelles Kartierungsverfahren. Ich will hier ein Versuch zu einer zeitgemäßen Visualisierung vorstellen, die genau so Detailgetreu und zugleich hoffentlich intuitiv leicht verständlich ist wie Wenkers Originalkarten. Das zentrale Problem dabei ist alle einzelne Formen zu representieren ohne die Karte unübersichtlich werden zu lassen. Vor allem bei der Kartierung der Vokalvielfalt ist das eine große Herausforderung.
+Die handgezeichnete Wenkerkarten sind ein eindrucksvolles Resultat von einer enormen Datenerhebung und eines detaillierten manuelles Kartierungsverfahren. Ich will hier ein Versuch zu einer zeitgemäßen Visualisierung vorstellen, die genauso Detailgetreu und zugleich intuitiv leicht verständlich ist wie Wenkers Originalkarten. Das zentrale Problem dabei ist alle einzelnen Formen zu repräsentieren ohne die Karte unübersichtlich werden zu lassen. Vor allem bei der Kartierung der Vokalvielfalt ist das eine große Herausforderung.
 
-Wenker hat seine Daten erfasst mittels Fragebögen, die von Schullehrern augefüllt wurden. Dadurch liegen die Daten in einer uneinheitlichen Verschriftlichung vor. Die Lehrer haben deutsche orthographische Mittel benutzte (wie Dehnungs-h oder Umlaut) in einem Verusch die lokale Aussprache zu karakterisieren.
+# Verschiedene Kartierungsversuche
 
+Georg Wenker (s. Sprachspuren 2021-11) hat seine Daten mittels Fragebögen erfasst, die von lokalen Schullehrern ausgefüllt wurden. Die Lehrer haben dabei intuitiv die ihnen bekannten orthographischen Mittel der deutschen Rechtschreibung benutzte (wie Dehnungs-h oder Umlaut) in ihrem Versuch die lokale Aussprache zu charakterisieren. Dadurch liegen die Daten in einer uneinheitlichen Verschriftlichung vor. Einer der zentralen Einsichten von Georg Wenker war aber, dass sich aus diesen nicht-linguistischen Transkriptionen trotzdem sehr gut Raumbilder der Sprachvielfalt darstellen lassen. 
 
-Für diesen Artikel verwende ich die Transliterationen der Wenkerbögen, die im Rahmen des Kleinen Deutschen Sprachatas (KDSA) angefertigt worden sind. Für diesen Atlas wurden fast 6000 Wenkerbögen ausgewählt. Einzelne Formen aus diesen Bögen wurden transliteriert und elektronisch erfasst. Auf Basis dieser Daten ist der KDSA als ein klassischer gedruckter Atlas erstanden. Die Darstellung im KDSA ist aber nicht sehr intuitiv einleuchtend. Gemäß der Tradition der originale Wenkerkarten hat in diesem Atlas jede einzelne Sprachform ein eigenes Symbol. Aber vor allem in Karten mit vielen Sprachformen werden dadurch viele dutzende verschiedene Symbole benutzt, was visuell ein eher konfuses Bild der geographischen Verteilung ergibt. 
+Wenkers Prinzip der Kartierung war die Sprachformen genauso in den Karten abzubilden wie sie von den Lehrern aufgeschrieben worden waren. Um die Bilder nicht mit Information zu überfrachten hat er sog. Leitformen benutzt. Innerhalb der Grenzen einer farblich markierten Leitform wird ein Auftreten dieser Form nicht mehr explizit kartiert. Nur die Formen die nicht zur Leitform gehören werden eingezeichnet. Die Entscheidungen der Grenzen dieser Leitformen sind dadurch natürlich von sehr großen Einfluss auf den visuellen Eindruck einer Karte. Graduelle Übergänge oder Gebiete mit einer Mischung verschiedener Sprachformen sind nicht, oder nur schwer, visuell erkennbar.
 
+<Figur: Originalkarte Wenker als Beispiel>
 
+Auch mehr als 100 Jahre nach Wenkers Erhebungen liegen immer nur noch Bruchteile der Daten in elektronischer transliterierter Form vor. Für diesen Artikel verwende ich die Transliterationen der Wenkerbögen, die im Rahmen des Kleinen Deutschen Sprachatlas (KDSA) angefertigt worden sind. Für diesen Atlas wurden fast 6000 Wenkerbögen ausgewählt. Einzelne Formen aus diesen Bögen wurden transliteriert und elektronisch erfasst. Auf Basis dieser Daten ist der KDSA als ein klassischer gedruckter Atlas entstanden. 
 
+Die Darstellung im KDSA ist leider nicht sehr intuitiv erfassbar. Gemäß der Tradition der originale Wenkerkarten hat in diesem Atlas jede einzelne Sprachform ein eigenes Symbol. Aber in Karten mit vielen verschiedenen Sprachformen werden dadurch viele dutzende verschiedene Symbole benutzt, was visuell ein eher konfuses Bild der geographischen Verteilung ergibt. Vor allem fehlt das Wenkersche Prinzip der Leitform als visuelle Vereinfachung.
 
+<Figur: Originalkarte KDSA als Beispiel>
 
+In meinem Vorschlag zur Kartierung benutzte ich Farben um die verschiedene Sprachformen darzustellen. Dabei kriegt jede Sprachform eine eigene Farbe. Wenn nur ein paar Sprachformen vorkommen (wie bei den meisten Konsonantenkarten), dann können diese Formen einfach mit ein paar klar unterscheidbare Farben wiedergegeben werden. Grenzen sind dann nicht mehr notwendig, und Übergänge oder Mischgebiete sind direkt zu erkennen. 
 
-Wenker hat 
+<Figur: Karte Apfel <pf> http://cysouw.github.io/KDSA/Apfel_PF.html>
 
+Wenn aber mehrere dutzende Sprachformen abgebildet werden müssen (wie bei den meisten Vokalkarten), dann brauch es eine zusätzliche Technik um die dutzende notwendige Farben zu wählen. Das Prinzip das ich verwende ist intuitiv einfach: ähnliche Vokale sollen mit ähnlichen Farben dargestellt werden. Das farbliche Kontinuum wird so benutzt um den kontinuierlichen Vokalraum abzubilden. Der Effekt ist das plötzliche Farbübergänge im Raumbild als eine starke Sprachgrenze interpretiert werden können, während gemischte Gebiete und kontinuierliche Übergänge genauso einfach zu erkennen sind.
 
-Leitform
+<Figur: Karte Brot <o> http://cysouw.github.io/KDSA/Brot_O.html>
 
-# Prinzipien der Gestaltung
+# Prinzipien der Kartierung
 
-Bei der Gestaltung der Karten wurden folgende Prinzipien zu Grunde gelegt:
+Bei der Gestaltung der Karten habe ich folgende Prinzipien zu Grunde gelegt. Sie werden im folgendem etwas ausführlicher besprochen. Mehrere Beispiele stehen online zur Verfügung <http://cysouw.github.io/KDSA/>.
 
-- Jede geschriebe Originalform aus den Erhebungsbogen wird direkt kartiert. Farben werden benutzt um eine visuelle Interpretation zu erleichtern.
-- Ähliche Farben werden für ähnliche Sprachformen benutzt, wobei die Schreibweise aus der Vorgabe stand immer grau dargestellt wird.
-- Die Darstellung fült den gesammten geographischen Raum: die gesammelte Daten sind eine Stichprobe, die representativ sein sollte für den gesammten Raum.
+- Jede geschriebene Originalform aus den Erhebungsbogen wird direkt kartiert. Farben werden benutzt um eine visuelle Interpretation zu erleichtern.
+- Ähnliche Farben werden für ähnliche Sprachformen benutzt, wobei die Schreibweise aus der Vorgabe stand immer grau dargestellt wird.
+- Die Darstellung füllt den gesamten geographischen Raum: die gesammelten Daten werden als eine Stichprobe interpretiert, die repräsentativ sein sollte für den gesamten Raum.
 
-Dem Prinzip von Georg Wenker folgend werden die Daten nicht vereinfacht oder umgedeutet um eine Kartierung zu ermöglichen, sondern sie werden direkt so kartiert, wie sie in den handschriftlichen Bögen stehen. Jede einzelne Form ist so direkt in der Karte dargestellt. Um die Karten nicht zu überfrachten mit Informationen sind die Sprachformen elektronisch hinterlegt. Sie lassen sich durch einen Klick auf der Karte aufrufen.
+Dem Prinzip von Wenker folgend werden die Daten nicht vereinfacht oder umgedeutet um eine Kartierung zu ermöglichen, sondern sie werden direkt so kartiert, wie sie in den handschriftlichen Bögen stehen. Jede einzelne Form ist in jeder Karte dargestellt. Um die Karten nicht zu überfrachten mit Informationen sind die Sprachformen elektronisch hinterlegt. Sie lassen sich durch einen Klick auf der Karte aufrufen.
 
-Jede verschiedene Sprachform hat eine eigene Farbe auf der Karte.
+Jede Sprachform hat eine eigene Farbe auf der Karte. Die Details der Farbgebung in der jetzigen Fassung der Karten ist sicher nicht immer ideal, aber solche ästhetischen Einwände sind technisch leicht lösbar. Die Farbe Grau wird immer benutzt um die Form der deutschen Orthographie darzustellen. Zum Beispiel in der vorherigen Karte zum <pf> in <Apfel> ist deshalb das Vorkommen des <pf> grau. Hellgrau wird benutzt für fehlende Daten und manchmal auch für Formen die nur ein oder zweimal vorkommen (durch klicken können Sie die Originalform immer herausfinden). Bei bis zu maximal einem Dutzend verschiedene Formen werden alle Formen in der Legende aufgelistet. Bei den Vokalen (mit oft bis zu 100 verschiedene Formen) wird aber nur eine Auswahl der häufigsten Varianten in der Legende gezeigt.
 
-Die Farbtupfen auf der Karte sehen quadratisch aus, und in vielen Fällen sind sie das auch. Das ist aber kein Grundsatz der Visualisierung, sondern es ist der Datensammlung des KDSA geschuldet. In der Planung des KDSA sind die 6000 Bogen anhand eines Koordinatengitters ausgewählt worden. Die vorhandenen Daten sind deshalb sehr regelmäßig über den geographischen Raum verteilt und verursachen fast überall quadratische Polygone. Bei genaue Betrachtung der Karte lässt sich aber feststellen, dass nicht alle Farbtupfen quadratisch sind. 
+Die Farben füllen den gesamten Raum des Erhebungsgebiet. Es gibt ein Loch im Tschechischen Sprachraum und es gibt ein paar Sprachinsel im Süden und Osten, aber sonst gibt es kein weiß in den Karten. Obwohl natürlich nur einzelne Datenpunkte erhoben worden sind, habe ich trotzdem dafür gewählt den Raum zu füllen, anstatt voneinander getrennte Symbole zu benutzen. Diese Entscheidung habe ich einerseits getroffen um den visuellen Eindruck zu verbessern. Aber es hat anderseits auch einen theoretischen Hintergrund: wenn die erhobenen Daten die wirkliche Sprachvielfalt erfassen, dann sind die Daten eine repräsentative Stichprobe. Wenn sie das nicht wären, dann wäre ja gar keine dialektologische Schlussfolgerung möglich, und wäre jegliches kartieren überflüssig. Jeder Farbtupfen steht immer noch für einen Datenpunkt, aber die Gebiete zwischen zwei benachbarte Datenpunkte wird jetzt ausgefüllt.
 
+Die Farbtupfen auf der Karte sehen quadratisch aus und in vielen Fällen sind sie das auch. Das ist aber kein Grundsatz der Visualisierung, sondern es ist der Datensammlung des KDSA geschuldet. In der Planung des KDSA sind die 6000 Bogen anhand eines Koordinatengitters ausgewählt worden. Die vorhandenen Daten sind deshalb sehr regelmäßig über den geographischen Raum verteilt und das Ausfüllen verursacht dadurch fast überall quadratische Polygone. Bei genauer Betrachtung der Karte lässt sich aber feststellen, dass nicht alle Farbtupfen quadratisch sind. 
 
+# Das Problem der Vokale
 
+Die Kartierung von Konsonanten stellt keine großen Probleme dar. Die Menge an Varianten ist relativ klein, und meistens ist nur eine Handvoll Varianten häufig vorhanden. Ein paar wenige Farben reichen deshalb aus um ein gutes Raumbild zu erstellen. Bei Vokalen ist die Situation aber komplett anders. Zum Beispiel der Vokal <ur> in <Wurst> hat 111 verschiedene Verschriftlichungen in den KDSA Daten. Hier brauch es also 111 verschiedene Farben für die Karte.
 
-# Die Kartierung der Vokale
+(1) Verschiedene Verschriftlichungen von <ur> in <Wurst>: a, ä, aa, aaor, aar, ao, aor, ar  , är, arr, aur, e, ea, eä, ear, eer , eo, er, err, i, ia, iar, iär, ie, ier, ih, ihr, ii, iia, iir, ijr, ir, iu, o, ö, oa, oä, öa, öä, oao , oar, öar, öär, oe, oh, öhr, oi, oie , öir, oo, öö, ooe, oor, öör, or, ör, ori, orr, ou, oua, our, r, u, ü, ua, uä, üa, üä, uaa, uae, uao, uar , uär, üar, ue, üe, uea, uee, ueer, uer , üer, uh, üh, uhe, uhr, ühr, ui, üia , uie, uj, uo, uö, üö, uoa, uoar, uor , uou, ur, ür, urr, uu, üü, uua, üüa , uuar, uuär, uue, uuee, uuo, uur, üür
 
-Die Kartierung von Konsonanten stellt keine große Probleme dar. Die Menge an Varianten ist relativ klein, und meistens ist nur eine Handvoll Varianten häufig vorhanden. Ein par wenige Farben reichen deshalb aus um ein gutes Raumbild zu erstellen.
+Um die Farben für alle 111 Formen auszuwählen habe ich eine Technik benutzt die ursprünglich von Wilbert Heeringa (2004) vorschlagen wurde. In einem ersten Schritt wird jeder Vokal als eine Reihe von 12 Zahlen charakterisiert. Die ersten fünf Zahlen beschreiben die Veränderung der Vokalhöhe (in vier grobe Stufen) und die nächsten fünf beschreiben die Kontur der Vokalposition (in 6 grobe Stufen). Die letzten beiden Zahlen sind für die Wiedergabe der Länge. All diese Zahlen basieren nur auf die Verschriftlichung in den Bögen und sind deshalb phonetisch sehr ungenau. Sie erfüllen aber den Zweck die Farben zu bestimmen für die Visualisierung.
+
+Diese Zahlenreihen lassen sich in einem zweiten Schritt einfach mathematisch vergleichen mittels einer Metrik, z.B. die euklidische Distanz. Daraus entsteht dann eine Distanzmatrize mit berechneten Distanzen für jedes Vokalpaar. Solch eine Distanzmatrize lässt sich mittels eines Verfahrens der sog. Dimensionsreduktion bearbeiten, z.B. Multidimensionale Skalierung. Das Resultat ist das jeder Vokal Koordinaten im 3-Dimensionalen Raum zugewiesen kriegt. Dieser Raum ist nicht für die Kartierung gedacht, sondern die drei Koordinaten werden benutzt um ein Rot-Grün-Blau (RGB) Farbe zu bestimmen. Diese Farbe wird dann in der Karte eingetragen.
+
+Der Effekt dieser Technik ist erstaunlich gut und das Resultat stimmt in vielen Facetten mit den originalen Wenkerkarten überein. Es sind aber noch bessere Einschätzungen zur Klarheit der Grenzen und zu Übergangs- und Mischgebiete möglich. Die Karte von <ur> in <Wurst> zeigt z.B. ganz klare Grenzen zwischen dem Gebiet von <u> (grün im Norden), <o/or> (violett darunter) und <ur> (grau darunter im Osten). Areale im Westen dagegen, z.B. <ou> (rosa/orange), <ue> (hellblau) und <u/uu> (grün/gelb), sind gut erkennbar, aber die Grenzen sind weniger scharf und es gibt eine größere Vielzahl an Schreibvarianten. Die Gebiete im Süden laufen viel kontinuierlicher ineinander über, obwohl immer noch klare geographische Tendenzen erkennbar sind.
+
+<Figur: Karte Wurst <ur> http://cysouw.github.io/KDSA/Wurst_UR.html>
 
 # Webtechnologie
 
-Technisch gesehen basieren die Karten in diesem Aufsatz auf weitverbreitete Webtechnologien (HTML, CSS & Javascript). Obwohl die Karten dadurch online angeschaut werden können, ist es wichtig zu verstehen, dass das Internet nicht notwendig ist für die Darstellung. Eine Karte ist immer eine einzelne selbständige Datei, die einfach gespeichtert und geteilt werden kann. Man kann sie zum Beispiel problemlos in einer Email oder in einer anderer elektronischer Kommunikationsform verschicken. Die Darstellung der Karte erfolgt über einen Webbrowser (Chrome, Firefox, Safari, usw.), auch wenn die Datei lokal auf einen Rechner liegt (und der Rechner nicht mit dem Internet verbunden ist).
+Technisch gesehen basieren die Karten in diesem Aufsatz auf weitverbreitete Webtechnologien (HTML, CSS & Javascript). Obwohl die Karten dadurch online angeschaut werden können, ist es wichtig zu verstehen, dass das Internet nicht notwendig ist für die Darstellung. Eine Karte ist immer eine einzelne selbständige Datei, die einfach gespeichert und geteilt werden kann. Man kann sie zum Beispiel problemlos in einer E-Mail oder in einer anderer elektronischer Kommunikationsform verschicken. Die Darstellung der Karte erfolgt immer über einen Webbrowser (Chrome, Firefox, Safari, usw.), auch wenn die Datei lokal auf einen Rechner liegt und der Rechner nicht mit dem Internet verbunden ist.
 
-Wenn Sie zum Beispiel folgende Karte online aufrufen <http://cysouw.github.io/KDSA/Wurst_UR.html>, dann können Sie über die Funktion des Webbrowsers die Karte lokal auf Ihren Rechner speichern ("speichern unter ...") als HTML Quellcode. Sie haben dann eine Datei mit Endung '.html', die Sie wie jede andere Datei benutzen können. Ein Doppelklick auf die Datei öffnet sie im Webbrowser. Wenn Sie aber genau nach der Internetadresse schauen, dann werden Sie sehen, dass diese Webseite lokal auf Ihrem Rechner liegt (die Adresse fängt an mit 'file://').
+Wenn Sie zum Beispiel folgende Karte online aufrufen <http://cysouw.github.io/KDSA/Wurst_UR.html>, dann können Sie über die Funktion des Webbrowsers die Karte lokal auf Ihren Rechner speichern ("speichern unter ...") als HTML Quellcode. Sie haben dann eine Datei mit Endung 'html', die Sie wie jede andere Datei benutzen können. Ein Doppelklick auf die Datei öffnet die Karte im Webbrowser. Wenn Sie aber genau nach der Internetadresse im Browser schauen, dann werden Sie sehen, dass diese Webseite lokal auf Ihrem Rechner liegt (die Adresse fängt an mit 'file://').
 
-Die Karten wurden erstellt in R <https://www.r-project.org> und die Javscript Bibliothek leaflet <https://leafletjs.com>. Die Fortschritte dieses Projektes können Sie verfolgen unter <https://github.com/cysouw/KDSA>.
-
-
-
-
+Die Karten wurden erstellt in R <https://www.r-project.org> und die Javscript Bibliothek leaflet <https://leafletjs.com>. Die Fortschritte dieses Projektes können Sie online verfolgen unter <https://github.com/cysouw/KDSA>.
