@@ -6,7 +6,7 @@
 
 # Coordinates of villages
 
-LOC <- read.fwf("sources/KD_MILI.DAT"
+LOC <- read.fwf("../sources/KD_MILI.DAT"
 				, width = c(7,14,4,6,4,27,12,6)
 				, strip.white = TRUE
 				)
@@ -15,7 +15,7 @@ COOR <- data.frame(LONG = LOC$V4+(LOC$V5/60), LAT = LOC$V2+(LOC$V3/60))
 rownames(COOR) <- gsub(" ","",LOC$V1)
 
 write.table( format(COOR, digits = 5, nsmall = 4)
-			 , file = "sandbox/KDSAlocations.txt"
+			 , file = "../sandbox/KDSAlocations.txt"
 			 , sep = "\t"
 			 , quote = F
 			 , col.names = NA
@@ -29,7 +29,7 @@ block <- c(3, 3, 3, 4, 4, 4, 15, 15, 10, 10, 10)
 widths <- c(3, 3, rep(block, times = 174))
 types <- paste0("ii", paste0(rep("iiiiiiccccc", times = 174), collapse = ""))
 
-DATA <- read_fwf("sources/KD_vekt_1995-11-26.dat"
+DATA <- read_fwf("../sources/KD_vekt_1995-11-26.dat"
 				, fwf_widths( widths )
 				, col_types = types
 				)

@@ -8,7 +8,7 @@
 # rmarkdown::render("map.R")
 
 # read coordinates
-coor <- read.delim("../data/coor.txt", row.names = 1)
+coor <- read.delim("../data/KDSAlocations.txt", row.names = 1)
 
 # prepare map
 
