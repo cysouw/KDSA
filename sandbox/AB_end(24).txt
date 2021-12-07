@@ -1,0 +1,5893 @@
+locations	strings	alignments	cognateID
+1/203	aw	a w	1
+2/201	oaw	oa w	1
+2/203	oaw	oa w	1
+2/205	aw	a w	1
+3/203	oaw	oa w	1
+3/205	aw	a w	1
+4/205	ow	o w	1
+5/205	oaw	oa w	1
+5/207	aw	a w	1
+6/205	ahw	ah w	1
+6/207	oaw	oa w	1
+7/205	oaw	oa w	1
+7/207	aw	a w	1
+7/209	aw	a w	1
+7/211	aw	a w	1
+8/199	oaw	oa w	1
+8/203	aw	a w	1
+8/205	aw	a w	1
+8/207	ow	o w	1
+8/209	aw	a w	1
+8/211	aw	a w	1
+8/213	oaw	oa w	1
+9/199	aw	a w	1
+9/203	aw	a w	1
+9/207	aw	a w	1
+9/209	aw	a w	1
+9/211	aw	a w	1
+9/213	oaw	oa w	1
+9/215	aw	a w	1
+9/217	oaw	oa w	1
+10/195	ow	o w	1
+10/203	aw	a w	1
+10/207	oaw	oa w	1
+10/209	ahw	ah w	1
+10/211	ahw	ah w	1
+10/213	aw	a w	1
+10/215	aw	a w	1
+10/217	oaw	oa w	1
+10/219	oaw	oa w	1
+11/49	juj	j u j	1
+11/53	jaues	j aue s	1
+11/55	av	a v	1
+11/57	av	a v	1
+11/59	aw	a w	1
+11/61	au	au	1
+11/63	jau	j au	1
+11/65	javv	j a vv	1
+11/67	ou	ou	1
+11/69	jau	j au	1
+11/187	av	a v	1
+11/189	ow	o w	1
+11/191	oaw	oa w	1
+11/195	oaw	oa w	1
+11/197	NA		NA
+11/203	aw	a w	1
+11/205	oaw	oa w	1
+11/207	oaw	oa w	1
+11/209	aw	a w	1
+11/211	ow	o w	1
+11/213	ow	o w	1
+11/215	oaw	oa w	1
+11/217	aw	a w	1
+11/219	oaw	oa w	1
+12/47	indj	i n d j	1
+12/49	ijn	i j n	1
+12/51	jan	j a n	1
+12/53	jau	j au	1
+12/55	av	a v	1
+12/57	jaw	j a w	1
+12/59	av	a v	1
+12/61	au	au	1
+12/63	ov	o v	1
+12/65	av	a v	1
+12/67	av	a v	1
+12/69	au	au	1
+12/187	ow	o w	1
+12/189	NA		NA
+12/191	ow	o w	1
+12/193	aw	a w	1
+12/195	oaw	oa w	1
+12/197	aw	a w	1
+12/199	oaw	oa w	1
+12/201	aw	a w	1
+12/203	oaw	oa w	1
+12/205	ow	o w	1
+12/207	oaw	oa w	1
+12/209	oaw	oa w	1
+12/211	oaw	oa w	1
+12/213	oaw	oa w	1
+12/215	aw	a w	1
+12/217	aw	a w	1
+12/219	ohw	oh w	1
+12/221	aw	a w	1
+12/223	oaw	oa w	1
+13/51	ihm	ih m	1
+13/53	entenne	e n t e nn e	1
+13/55	tene	t e n e	1
+13/57	av	a v	1
+13/59	au	au	1
+13/61	aab	aa b	1
+13/63	ahb	ah b	1
+13/65	ahm	ah m	1
+13/67	am	a m	1
+13/161	oaw	oa w	1
+13/163	aw	a w	1
+13/165	ow	o w	1
+13/167	ow	o w	1
+13/187	oaw	oa w	1
+13/189	aw	a w	1
+13/191	aw	a w	1
+13/193	aw	a w	1
+13/195	aw	a w	1
+13/197	oaw	oa w	1
+13/199	oaw	oa w	1
+13/201	aow	ao w	1
+13/203	ow	o w	1
+13/207	aw	a w	1
+13/209	oaw	oa w	1
+13/211	oaw	oa w	1
+13/213	oaw	oa w	1
+13/215	ow	o w	1
+13/217	aw	a w	1
+13/219	aw	a w	1
+13/221	aw	a w	1
+13/223	aw	a w	1
+14/47	inj	i n j	1
+14/49	inj	i n j	1
+14/51	NA		NA
+14/53	NA		NA
+14/55	ene	e n e	1
+14/57	ene	e n e	1
+14/59	aam	aa m	1
+14/61	ahm	ah m	1
+14/63	ab	a b	1
+14/65	ab	a b	1
+14/67	aam	aa m	1
+14/109	ab	a b	1
+14/159	ow	o w	1
+14/161	oaw	oa w	1
+14/163	ohw	oh w	1
+14/165	oaw	oa w	1
+14/167	ow	o w	1
+14/169	ow	o w	1
+14/187	oaw	oa w	1
+14/189	ow	o w	1
+14/191	ow	o w	1
+14/193	oaw	oa w	1
+14/195	aw	a w	1
+14/197	oaw	oa w	1
+14/199	oahw	oah w	1
+14/201	aw	a w	1
+14/203	aw	a w	1
+14/205	aw	a w	1
+14/207	aw	a w	1
+14/209	oaw	oa w	1
+14/211	oaw	oa w	1
+14/213	aw	a w	1
+14/215	oaw	oa w	1
+14/217	aw	a w	1
+14/219	aow	ao w	1
+14/221	oaw	oa w	1
+15/49	inj	i n j	1
+15/51	en	e n	1
+15/53	ene	e n e	1
+15/55	eene	ee n e	1
+15/57	aab	aa b	1
+15/59	aab	aa b	1
+15/61	ahm	ah m	1
+15/63	ab	a b	1
+15/65	aab	aa b	1
+15/67	aab	aa b	1
+15/105	aob	ao b	1
+15/107	ab	a b	1
+15/109	ab	a b	1
+15/151	oaw	oa w	1
+15/153	oaw	oa w	1
+15/155	aw	a w	1
+15/157	ouw	ou w	1
+15/159	ow	o w	1
+15/161	ow	o w	1
+15/163	ahw	ah w	1
+15/165	ow	o w	1
+15/167	ow	o w	1
+15/169	ow	o w	1
+15/173	ow	o w	1
+15/187	aav	aa v	1
+15/191	oaw	oa w	1
+15/193	oaw	oa w	1
+15/195	oaw	oa w	1
+15/197	aw	a w	1
+15/199	ab	a b	1
+15/201	av	a v	1
+15/203	ov	o v	1
+15/205	aw	a w	1
+15/207	oaw	oa w	1
+15/209	oaw	oa w	1
+15/211	oaw	oa w	1
+15/213	NA		NA
+15/215	oaw	oa w	1
+15/217	oaw	oa w	1
+15/219	oaw	oa w	1
+15/221	oaw	oa w	1
+16/51	ehne	eh n e	1
+16/55	aag	aa g	1
+16/57	aab	aa b	1
+16/59	ahm	ah m	1
+16/61	ahm	ah m	1
+16/63	aab	aa b	1
+16/65	NA		NA
+16/67	ab	a b	1
+16/81	amb	a m b	1
+16/83	ab	a b	1
+16/105	oab	oa b	1
+16/107	ab	a b	1
+16/109	ab	a b	1
+16/111	ab	a b	1
+16/145	oav	oa v	1
+16/147	aow	ao w	1
+16/149	oaw	oa w	1
+16/151	aow	ao w	1
+16/153	aw	a w	1
+16/155	ow	o w	1
+16/157	aw	a w	1
+16/159	aow	ao w	1
+16/161	aow	ao w	1
+16/163	oaw	oa w	1
+16/165	ow	o w	1
+16/167	NA		NA
+16/187	aw	a w	1
+16/189	oaw	oa w	1
+16/191	aw	a w	1
+16/193	oaw	oa w	1
+16/195	aw	a w	1
+16/197	oaw	oa w	1
+16/199	aw	a w	1
+16/201	oaw	oa w	1
+16/203	aw	a w	1
+16/205	oaw	oa w	1
+16/209	aow	ao w	1
+16/211	oaw	oa w	1
+16/213	aw	a w	1
+16/215	oaw	oa w	1
+16/217	oow	oo w	1
+16/219	oaw	oa w	1
+17/55	ab	a b	1
+17/57	amb	a m b	1
+17/59	ahm	ah m	1
+17/61	ahmb	ah m b	1
+17/63	amb	a m b	1
+17/65	amb	a m b	1
+17/67	ahm	ah m	1
+17/69	ahmb	ah m b	1
+17/81	ab	a b	1
+17/83	ab	a b	1
+17/99	ab	a b	1
+17/101	ab	a b	1
+17/103	ab	a b	1
+17/107	ab	a b	1
+17/109	aob	ao b	1
+17/145	ow	o w	1
+17/147	aow	ao w	1
+17/149	of	o f	1
+17/151	aw	a w	1
+17/153	ow	o w	1
+17/155	oaw	oa w	1
+17/157	oaw	oa w	1
+17/159	aw	a w	1
+17/161	aw	a w	1
+17/163	ow	o w	1
+17/165	aw	a w	1
+17/169	ow	o w	1
+17/171	ow	o w	1
+17/183	ow	o w	1
+17/185	av	a v	1
+17/187	oab	oa b	1
+17/189	oaw	oa w	1
+17/191	aw	a w	1
+17/193	oaw	oa w	1
+17/195	oab	oa b	1
+17/197	oaw	oa w	1
+17/199	aw	a w	1
+17/201	oaw	oa w	1
+17/203	ohw	oh w	1
+17/205	oaw	oa w	1
+17/207	oaw	oa w	1
+17/209	oaw	oa w	1
+17/211	oaw	oa w	1
+17/213	oaw	oa w	1
+17/215	ow	o w	1
+17/217	aw	a w	1
+17/219	aw	a w	1
+18/51	ab	a b	1
+18/53	ab	a b	1
+18/55	aom	ao m	1
+18/57	amb	a m b	1
+18/59	amb	a m b	1
+18/61	aam	aa m	1
+18/63	aab	aa b	1
+18/65	ab	a b	1
+18/67	ahmb	ah m b	1
+18/69	ob	o b	1
+18/71	ab	a b	1
+18/73	am	a m	1
+18/75	amb	a m b	1
+18/79	ab	a b	1
+18/81	aab	aa b	1
+18/97	ab	a b	1
+18/99	ab	a b	1
+18/103	ab	a b	1
+18/105	ab	a b	1
+18/107	ab	a b	1
+18/109	ab	a b	1
+18/111	ab	a b	1
+18/143	aw	a w	1
+18/145	ow	o w	1
+18/147	oaw	oa w	1
+18/149	ow	o w	1
+18/151	ow	o w	1
+18/153	aw	a w	1
+18/155	aov	ao v	1
+18/157	oaw	oa w	1
+18/159	ow	o w	1
+18/161	oaw	oa w	1
+18/163	ow	o w	1
+18/165	ow	o w	1
+18/169	ow	o w	1
+18/171	aw	a w	1
+18/173	ow	o w	1
+18/181	aw	a w	1
+18/185	ow	o w	1
+18/187	ow	o w	1
+18/189	aw	a w	1
+18/191	oaw	oa w	1
+18/193	av	a v	1
+18/195	ow	o w	1
+18/197	aw	a w	1
+18/199	aw	a w	1
+18/201	aw	a w	1
+18/203	ow	o w	1
+18/205	ow	o w	1
+18/207	aw	a w	1
+18/209	ow	o w	1
+18/211	aw	a w	1
+18/213	aw	a w	1
+18/215	aow	ao w	1
+18/219	oaw	oa w	1
+19/51	ab	a b	1
+19/53	ab	a b	1
+19/55	ab	a b	1
+19/57	aamb	aa m b	1
+19/59	amb	a m b	1
+19/61	oahm	oah m	1
+19/63	ab	a b	1
+19/65	oab	oa b	1
+19/67	ob	o b	1
+19/69	ab	a b	1
+19/71	ab	a b	1
+19/73	ahm	ah m	1
+19/75	aamb	aa m b	1
+19/77	ab	a b	1
+19/79	aam	aa m	1
+19/81	ab	a b	1
+19/97	ab	a b	1
+19/99	ab	a b	1
+19/101	ab	a b	1
+19/103	ab	a b	1
+19/105	ab	a b	1
+19/107	ab	a b	1
+19/109	ab	a b	1
+19/143	oav	oa v	1
+19/145	oaw	oa w	1
+19/147	aw	a w	1
+19/149	aw	a w	1
+19/151	aw	a w	1
+19/153	aw	a w	1
+19/155	ow	o w	1
+19/157	ab	a b	1
+19/159	oaw	oa w	1
+19/161	ow	o w	1
+19/163	ow	o w	1
+19/165	ow	o w	1
+19/167	ow	o w	1
+19/169	ow	o w	1
+19/171	oaw	oa w	1
+19/173	ow	o w	1
+19/175	oaw	oa w	1
+19/177	NA		NA
+19/179	ooaw	ooa w	1
+19/181	oaw	oa w	1
+19/183	aw	a w	1
+19/185	ow	o w	1
+19/187	ow	o w	1
+19/189	NA		NA
+19/191	oaw	oa w	1
+19/193	oaw	oa w	1
+19/195	oaw	oa w	1
+19/197	ow	o w	1
+19/199	aw	a w	1
+19/201	oaw	oa w	1
+19/203	oaw	oa w	1
+19/205	ov	o v	1
+19/207	oaw	oa w	1
+19/209	oaw	oa w	1
+19/211	oaw	oa w	1
+19/213	aw	a w	1
+19/215	ow	o w	1
+19/217	oaw	oa w	1
+19/219	aw	a w	1
+20/43	hent	h e n t	1
+20/53	aamb	aa m b	1
+20/55	amb	a m b	1
+20/57	ab	a b	1
+20/59	amb	a m b	1
+20/61	amb	a m b	1
+20/63	aomb	ao m b	1
+20/65	ahmb	ah m b	1
+20/67	ahm	ah m	1
+20/69	ab	a b	1
+20/71	ab	a b	1
+20/73	ab	a b	1
+20/75	ab	a b	1
+20/77	ahm	ah m	1
+20/79	ab	a b	1
+20/81	ab	a b	1
+20/95	ab	a b	1
+20/97	ab	a b	1
+20/99	ab	a b	1
+20/101	aob	ao b	1
+20/103	ab	a b	1
+20/105	ab	a b	1
+20/107	ab	a b	1
+20/135	oaw	oa w	1
+20/137	oaw	oa w	1
+20/139	ow	o w	1
+20/141	ow	o w	1
+20/143	oaw	oa w	1
+20/145	ow	o w	1
+20/147	aow	ao w	1
+20/149	oaw	oa w	1
+20/151	ow	o w	1
+20/153	aw	a w	1
+20/155	ouw	ou w	1
+20/157	ow	o w	1
+20/159	ouw	ou w	1
+20/161	ow	o w	1
+20/163	ow	o w	1
+20/165	aw	a w	1
+20/167	ow	o w	1
+20/169	ow	o w	1
+20/171	aw	a w	1
+20/173	oaw	oa w	1
+20/175	ov	o v	1
+20/177	ow	o w	1
+20/179	oaw	oa w	1
+20/181	ow	o w	1
+20/183	aw	a w	1
+20/185	ow	o w	1
+20/187	ow	o w	1
+20/189	zoing	z oi ng	1
+20/191	zong	z o ng	1
+20/193	zong	z o ng	1
+20/195	aw	a w	1
+20/197	aw	a w	1
+20/199	aw	a w	1
+20/201	aw	a w	1
+20/203	oaw	oa w	1
+20/205	ow	o w	1
+20/207	oaw	oa w	1
+20/209	oaw	oa w	1
+20/211	ow	o w	1
+20/213	ow	o w	1
+20/215	aw	a w	1
+20/217	oaw	oa w	1
+20/219	oaw	oa w	1
+21/55	aamb	aa m b	1
+21/57	ab	a b	1
+21/59	amb	a m b	1
+21/61	amb	a m b	1
+21/63	ab	a b	1
+21/65	amb	a m b	1
+21/67	NA		NA
+21/69	aob	ao b	1
+21/71	ob	o b	1
+21/73	ahm	ah m	1
+21/75	am	a m	1
+21/77	ab	a b	1
+21/79	ab	a b	1
+21/87	ab	a b	1
+21/89	ab	a b	1
+21/91	ab	a b	1
+21/93	ab	a b	1
+21/95	ab	a b	1
+21/97	ab	a b	1
+21/99	ab	a b	1
+21/101	ab	a b	1
+21/103	ab	a b	1
+21/105	oab	oa b	1
+21/107	ab	a b	1
+21/109	ahm	ah m	1
+21/111	ab	a b	1
+21/113	abb	a bb	1
+21/131	aw	a w	1
+21/133	aw	a w	1
+21/135	aw	a w	1
+21/137	oaw	oa w	1
+21/139	oaw	oa w	1
+21/141	oaw	oa w	1
+21/143	ow	o w	1
+21/145	aow	ao w	1
+21/147	aw	a w	1
+21/149	oaw	oa w	1
+21/151	oaw	oa w	1
+21/153	ow	o w	1
+21/155	ow	o w	1
+21/157	aw	a w	1
+21/159	ow	o w	1
+21/163	ow	o w	1
+21/165	ow	o w	1
+21/167	ow	o w	1
+21/169	ow	o w	1
+21/171	ow	o w	1
+21/173	ow	o w	1
+21/175	ab	a b	1
+21/177	oaw	oa w	1
+21/179	ow	o w	1
+21/181	oaw	oa w	1
+21/183	ouw	ou w	1
+21/185	oab	oa b	1
+21/187	ob	o b	1
+21/189	ob	o b	1
+21/191	zohng	z oh ng	1
+21/193	zong	z o ng	1
+21/195	oab	oa b	1
+21/197	zoing	z oi ng	1
+21/199	ow	o w	1
+21/201	auw	au w	1
+21/203	oaw	oa w	1
+21/205	oaw	oa w	1
+21/207	ow	o w	1
+21/211	ow	o w	1
+21/215	oaw	oa w	1
+21/217	aw	a w	1
+21/219	oaw	oa w	1
+22/55	ab	a b	1
+22/57	ahm	ah m	1
+22/59	ab	a b	1
+22/61	ohmb	oh m b	1
+22/63	aam	aa m	1
+22/65	amb	a m b	1
+22/67	ab	a b	1
+22/69	ab	a b	1
+22/71	ov	o v	1
+22/73	ab	a b	1
+22/75	ahm	ah m	1
+22/77	ab	a b	1
+22/87	ab	a b	1
+22/89	ab	a b	1
+22/91	ab	a b	1
+22/93	ab	a b	1
+22/95	ab	a b	1
+22/97	ab	a b	1
+22/99	ab	a b	1
+22/101	ab	a b	1
+22/103	ab	a b	1
+22/105	ab	a b	1
+22/107	ab	a b	1
+22/109	ab	a b	1
+22/111	ab	a b	1
+22/113	NA		NA
+22/115	ab	a b	1
+22/127	auw	au w	1
+22/129	aw	a w	1
+22/131	auw	au w	1
+22/133	auw	au w	1
+22/135	auw	au w	1
+22/137	oaf	oa f	1
+22/139	ow	o w	1
+22/141	aw	a w	1
+22/143	ow	o w	1
+22/145	oav	oa v	1
+22/147	NA		NA
+22/149	oaw	oa w	1
+22/151	ow	o w	1
+22/153	oaw	oa w	1
+22/155	oaw	oa w	1
+22/157	aav	aa v	1
+22/159	ow	o w	1
+22/165	ow	o w	1
+22/167	ow	o w	1
+22/169	oaw	oa w	1
+22/171	ow	o w	1
+22/173	ow	o w	1
+22/175	ow	o w	1
+22/177	oaw	oa w	1
+22/179	oaw	oa w	1
+22/181	oaw	oa w	1
+22/183	NA		NA
+22/185	oab	oa b	1
+22/187	ab	a b	1
+22/189	ob	o b	1
+22/191	NA		NA
+22/193	zong	z o ng	1
+22/195	zong	z o ng	1
+22/197	zong	z o ng	1
+22/199	zoong	z oo ng	1
+22/201	oaw	oa w	1
+22/203	ow	o w	1
+22/205	aw	a w	1
+22/209	oaw	oa w	1
+22/211	aw	a w	1
+22/215	aw	a w	1
+22/217	NA		NA
+22/219	aw	a w	1
+23/55	ab	a b	1
+23/59	ab	a b	1
+23/61	ab	a b	1
+23/63	ahmb	ah m b	1
+23/65	ab	a b	1
+23/67	amb	a m b	1
+23/69	ab	a b	1
+23/71	ab	a b	1
+23/73	NA		NA
+23/75	aab	aa b	1
+23/77	ab	a b	1
+23/79	ab	a b	1
+23/81	ab	a b	1
+23/83	ab	a b	1
+23/85	ab	a b	1
+23/87	ab	a b	1
+23/89	ab	a b	1
+23/91	ab	a b	1
+23/93	ab	a b	1
+23/95	ab	a b	1
+23/97	ab	a b	1
+23/99	ab	a b	1
+23/101	ab	a b	1
+23/103	aab	aa b	1
+23/105	ab	a b	1
+23/107	am	a m	1
+23/109	oab	oa b	1
+23/111	ab	a b	1
+23/113	oam	oa m	1
+23/115	oab	oa b	1
+23/117	ob	o b	1
+23/121	oab	oa b	1
+23/123	oab	oa b	1
+23/125	aow	ao w	1
+23/127	oaw	oa w	1
+23/129	auw	au w	1
+23/131	aw	a w	1
+23/133	auw	au w	1
+23/135	oaw	oa w	1
+23/137	oaw	oa w	1
+23/139	oaw	oa w	1
+23/141	aw	a w	1
+23/143	oaw	oa w	1
+23/145	ow	o w	1
+23/147	ow	o w	1
+23/149	NA		NA
+23/151	oaw	oa w	1
+23/153	ow	o w	1
+23/155	ow	o w	1
+23/165	aow	ao w	1
+23/167	ow	o w	1
+23/169	ow	o w	1
+23/175	ow	o w	1
+23/177	ob	o b	1
+23/179	ab	a b	1
+23/181	ob	o b	1
+23/183	aob	ao b	1
+23/185	aob	ao b	1
+23/187	ab	a b	1
+23/189	oab	oa b	1
+23/191	zong	z o ng	1
+23/193	ob	o b	1
+23/195	zong	z o ng	1
+23/197	zong	z o ng	1
+23/199	ow	o w	1
+23/201	ow	o w	1
+23/203	ow	o w	1
+23/205	aw	a w	1
+23/207	ohw	oh w	1
+23/215	ow	o w	1
+23/217	aw	a w	1
+24/53	oab	oa b	1
+24/57	aamb	aa m b	1
+24/59	ab	a b	1
+24/61	ab	a b	1
+24/63	ab	a b	1
+24/65	aab	aa b	1
+24/67	aomb	ao m b	1
+24/69	ab	a b	1
+24/71	am	a m	1
+24/73	aohm	aoh m	1
+24/75	ab	a b	1
+24/77	ab	a b	1
+24/79	ab	a b	1
+24/81	ahm	ah m	1
+24/83	ab	a b	1
+24/85	ahb	ah b	1
+24/87	ab	a b	1
+24/89	ab	a b	1
+24/91	ab	a b	1
+24/93	ab	a b	1
+24/95	ab	a b	1
+24/97	ab	a b	1
+24/99	ab	a b	1
+24/101	ab	a b	1
+24/103	ab	a b	1
+24/105	oam	oa m	1
+24/107	aom	ao m	1
+24/109	ab	a b	1
+24/111	am	a m	1
+24/113	ab	a b	1
+24/115	ab	a b	1
+24/117	oab	oa b	1
+24/119	ab	a b	1
+24/121	oaw	oa w	1
+24/123	oaw	oa w	1
+24/125	oaw	oa w	1
+24/127	aob	ao b	1
+24/129	aw	a w	1
+24/131	aw	a w	1
+24/133	oaw	oa w	1
+24/135	aow	ao w	1
+24/137	aw	a w	1
+24/139	ahw	ah w	1
+24/141	aow	ao w	1
+24/143	oaw	oa w	1
+24/145	oaw	oa w	1
+24/147	aw	a w	1
+24/149	oaw	oa w	1
+24/151	auw	au w	1
+24/153	auw	au w	1
+24/155	ow	o w	1
+24/163	auw	au w	1
+24/165	ow	o w	1
+24/167	ow	o w	1
+24/169	ow	o w	1
+24/171	ow	o w	1
+24/175	ow	o w	1
+24/179	ob	o b	1
+24/181	ob	o b	1
+24/183	aob	ao b	1
+24/185	aob	ao b	1
+24/187	oab	oa b	1
+24/189	aub	au b	1
+24/191	zong	z o ng	1
+24/193	zong	z o ng	1
+24/195	zong	z o ng	1
+24/197	zoong	z oo ng	1
+24/199	NA		NA
+24/201	ow	o w	1
+24/203	ow	o w	1
+24/217	ow	o w	1
+24/221	oahw	oah w	1
+25/43	eiw	ei w	1
+25/51	amb	a m b	1
+25/53	ab	a b	1
+25/55	ab	a b	1
+25/57	ab	a b	1
+25/59	ab	a b	1
+25/61	ab	a b	1
+25/63	aw	a w	1
+25/65	ahb	ah b	1
+25/67	ab	a b	1
+25/69	ab	a b	1
+25/71	ab	a b	1
+25/73	ab	a b	1
+25/75	ab	a b	1
+25/77	ab	a b	1
+25/79	ab	a b	1
+25/81	ab	a b	1
+25/83	ab	a b	1
+25/85	ab	a b	1
+25/87	ab	a b	1
+25/89	ab	a b	1
+25/91	ab	a b	1
+25/93	ab	a b	1
+25/95	ab	a b	1
+25/99	ab	a b	1
+25/101	ahw	ah w	1
+25/103	aom	ao m	1
+25/105	am	a m	1
+25/107	aeb	ae b	1
+25/109	ab	a b	1
+25/111	ab	a b	1
+25/113	oab	oa b	1
+25/115	oab	oa b	1
+25/123	ob	o b	1
+25/125	oaw	oa w	1
+25/127	aw	a w	1
+25/129	aow	ao w	1
+25/131	ow	o w	1
+25/133	ow	o w	1
+25/135	ow	o w	1
+25/137	ow	o w	1
+25/139	oaw	oa w	1
+25/141	auw	au w	1
+25/143	auw	au w	1
+25/145	oaw	oa w	1
+25/147	auw	au w	1
+25/149	ow	o w	1
+25/151	auw	au w	1
+25/153	auw	au w	1
+25/155	auw	au w	1
+25/157	auw	au w	1
+25/159	ow	o w	1
+25/177	aw	a w	1
+25/179	ab	a b	1
+25/181	oub	ou b	1
+25/183	ob	o b	1
+25/185	aob	ao b	1
+25/187	ab	a b	1
+25/189	ab	a b	1
+25/191	zong	z o ng	1
+26/31	ab	a b	1
+26/33	ab	a b	1
+26/37	ab	a b	1
+26/41	ab	a b	1
+26/43	ab	a b	1
+26/45	ab	a b	1
+26/51	ab	a b	1
+26/53	am	a m	1
+26/55	ob	o b	1
+26/57	ab	a b	1
+26/59	ab	a b	1
+26/61	ab	a b	1
+26/63	aab	aa b	1
+26/65	NA		NA
+26/67	amb	a m b	1
+26/69	ab	a b	1
+26/71	ab	a b	1
+26/73	ab	a b	1
+26/75	ab	a b	1
+26/77	ab	a b	1
+26/79	ab	a b	1
+26/81	ab	a b	1
+26/83	ab	a b	1
+26/85	ab	a b	1
+26/87	ab	a b	1
+26/89	ab	a b	1
+26/91	ab	a b	1
+26/93	ab	a b	1
+26/95	ab	a b	1
+26/97	ab	a b	1
+26/99	ab	a b	1
+26/101	aob	ao b	1
+26/103	ab	a b	1
+26/105	ab	a b	1
+26/107	ohb	oh b	1
+26/109	oab	oa b	1
+26/111	ab	a b	1
+26/113	oab	oa b	1
+26/115	oam	oa m	1
+26/117	oab	oa b	1
+26/119	ab	a b	1
+26/123	oaw	oa w	1
+26/125	ab	a b	1
+26/127	oaw	oa w	1
+26/129	aow	ao w	1
+26/131	aow	ao w	1
+26/133	oaw	oa w	1
+26/135	oaw	oa w	1
+26/137	auw	au w	1
+26/139	ow	o w	1
+26/141	aow	ao w	1
+26/143	aow	ao w	1
+26/145	aw	a w	1
+26/147	aw	a w	1
+26/153	auw	au w	1
+26/155	auw	au w	1
+26/157	auw	au w	1
+26/159	auw	au w	1
+26/161	auw	au w	1
+26/165	ob	o b	1
+26/173	ow	o w	1
+26/175	oaw	oa w	1
+26/177	ow	o w	1
+26/179	ow	o w	1
+26/181	ob	o b	1
+26/183	ab	a b	1
+26/185	NA		NA
+26/187	ob	o b	1
+26/189	ob	o b	1
+27/27	av	a v	1
+27/35	af	a f	1
+27/37	aam	aa m	1
+27/39	ab	a b	1
+27/41	ab	a b	1
+27/43	ab	a b	1
+27/45	ab	a b	1
+27/47	ab	a b	1
+27/51	ab	a b	1
+27/53	ab	a b	1
+27/55	ab	a b	1
+27/57	ahm	ah m	1
+27/59	ab	a b	1
+27/61	ob	o b	1
+27/63	ahm	ah m	1
+27/65	ab	a b	1
+27/67	ab	a b	1
+27/69	ab	a b	1
+27/71	ab	a b	1
+27/73	ab	a b	1
+27/75	ab	a b	1
+27/77	aab	aa b	1
+27/79	ab	a b	1
+27/81	ab	a b	1
+27/83	ab	a b	1
+27/85	ab	a b	1
+27/87	ab	a b	1
+27/89	ab	a b	1
+27/91	ab	a b	1
+27/93	ab	a b	1
+27/95	ab	a b	1
+27/99	ab	a b	1
+27/101	ab	a b	1
+27/103	ab	a b	1
+27/105	ab	a b	1
+27/107	oam	oa m	1
+27/109	am	a m	1
+27/111	ob	o b	1
+27/113	ab	a b	1
+27/115	aow	ao w	1
+27/117	oab	oa b	1
+27/119	aub	au b	1
+27/123	oab	oa b	1
+27/125	oab	oa b	1
+27/127	aow	ao w	1
+27/129	aow	ao w	1
+27/131	aw	a w	1
+27/135	ow	o w	1
+27/137	oaw	oa w	1
+27/139	auw	au w	1
+27/141	ow	o w	1
+27/143	oaw	oa w	1
+27/145	auow	auo w	1
+27/147	oaw	oa w	1
+27/149	ow	o w	1
+27/151	auw	au w	1
+27/153	auw	au w	1
+27/155	auw	au w	1
+27/157	auw	au w	1
+27/159	ow	o w	1
+27/161	auf	au f	1
+27/167	aow	ao w	1
+27/171	ow	o w	1
+27/173	ow	o w	1
+27/175	ow	o w	1
+27/177	ow	o w	1
+27/179	ow	o w	1
+27/181	ow	o w	1
+27/183	ob	o b	1
+27/185	oub	ou b	1
+28/33	NA		NA
+28/35	ab	a b	1
+28/37	ab	a b	1
+28/39	af	a f	1
+28/41	ab	a b	1
+28/43	ab	a b	1
+28/45	ab	a b	1
+28/47	ab	a b	1
+28/49	ab	a b	1
+28/51	ab	a b	1
+28/53	ab	a b	1
+28/55	ob	o b	1
+28/57	ahm	ah m	1
+28/59	ab	a b	1
+28/61	ab	a b	1
+28/63	oab	oa b	1
+28/65	ob	o b	1
+28/67	ob	o b	1
+28/69	ab	a b	1
+28/71	ab	a b	1
+28/73	ab	a b	1
+28/75	ab	a b	1
+28/77	ab	a b	1
+28/79	ab	a b	1
+28/81	NA		NA
+28/83	ab	a b	1
+28/85	ab	a b	1
+28/87	ab	a b	1
+28/89	ab	a b	1
+28/91	ab	a b	1
+28/93	ab	a b	1
+28/95	NA		NA
+28/97	ab	a b	1
+28/99	ab	a b	1
+28/103	ab	a b	1
+28/105	ab	a b	1
+28/107	ab	a b	1
+28/109	oab	oa b	1
+28/111	oab	oa b	1
+28/113	oab	oa b	1
+28/115	ob	o b	1
+28/117	ob	o b	1
+28/119	ab	a b	1
+28/121	oab	oa b	1
+28/123	omb	o m b	1
+28/125	aow	ao w	1
+28/127	aow	ao w	1
+28/129	oaw	oa w	1
+28/131	oaw	oa w	1
+28/133	aow	ao w	1
+28/135	ow	o w	1
+28/137	ow	o w	1
+28/139	oaw	oa w	1
+28/141	auw	au w	1
+28/143	auw	au w	1
+28/145	ow	o w	1
+28/147	aw	a w	1
+28/151	auw	au w	1
+28/153	auw	au w	1
+28/155	auw	au w	1
+28/157	auw	au w	1
+28/159	ow	o w	1
+28/161	auw	au w	1
+28/165	aub	au b	1
+28/169	oew	oe w	1
+28/171	ow	o w	1
+28/173	oaw	oa w	1
+28/175	oaw	oa w	1
+28/177	oew	oe w	1
+28/179	ow	o w	1
+28/181	oab	oa b	1
+28/183	ob	o b	1
+28/185	ab	a b	1
+29/33	av	a v	1
+29/35	av	a v	1
+29/37	av	a v	1
+29/39	av	a v	1
+29/43	af	a f	1
+29/45	ab	a b	1
+29/47	ab	a b	1
+29/49	ab	a b	1
+29/51	amb	a m b	1
+29/53	aob	ao b	1
+29/55	ab	a b	1
+29/57	aob	ao b	1
+29/59	ab	a b	1
+29/61	ab	a b	1
+29/65	ab	a b	1
+29/67	ab	a b	1
+29/69	aob	ao b	1
+29/71	ab	a b	1
+29/73	NA		NA
+29/75	ab	a b	1
+29/77	ab	a b	1
+29/79	ab	a b	1
+29/81	ab	a b	1
+29/83	ahm	ah m	1
+29/85	ab	a b	1
+29/87	ab	a b	1
+29/89	ab	a b	1
+29/91	ab	a b	1
+29/93	ab	a b	1
+29/95	ab	a b	1
+29/97	ab	a b	1
+29/99	ab	a b	1
+29/101	ab	a b	1
+29/103	ab	a b	1
+29/105	ab	a b	1
+29/107	ahm	ah m	1
+29/109	ab	a b	1
+29/111	ab	a b	1
+29/113	oab	oa b	1
+29/115	ob	o b	1
+29/117	ob	o b	1
+29/119	am	a m	1
+29/121	aob	ao b	1
+29/123	oab	oa b	1
+29/125	ob	o b	1
+29/127	aow	ao w	1
+29/129	ow	o w	1
+29/131	oaw	oa w	1
+29/133	oaw	oa w	1
+29/135	oaw	oa w	1
+29/137	auw	au w	1
+29/139	ohw	oh w	1
+29/141	auw	au w	1
+29/143	auw	au w	1
+29/145	auw	au w	1
+29/147	auw	au w	1
+29/149	auw	au w	1
+29/151	auv	au v	1
+29/153	auw	au w	1
+29/155	auw	au w	1
+29/157	auw	au w	1
+29/159	auw	au w	1
+29/161	auw	au w	1
+29/163	auw	au w	1
+29/165	auw	au w	1
+29/167	ow	o w	1
+29/169	ow	o w	1
+29/171	ow	o w	1
+29/173	ow	o w	1
+29/175	oaw	oa w	1
+29/177	oaw	oa w	1
+29/181	ow	o w	1
+30/33	av	a v	1
+30/35	av	a v	1
+30/37	av	a v	1
+30/39	ab	a b	1
+30/41	af	a f	1
+30/43	ahm	ah m	1
+30/45	ab	a b	1
+30/47	ahm	ah m	1
+30/49	ab	a b	1
+30/51	ab	a b	1
+30/53	ahb	ah b	1
+30/55	ab	a b	1
+30/57	ab	a b	1
+30/59	ab	a b	1
+30/61	ab	a b	1
+30/65	ab	a b	1
+30/67	ab	a b	1
+30/71	aam	aa m	1
+30/73	aam	aa m	1
+30/75	ab	a b	1
+30/77	am	a m	1
+30/79	ab	a b	1
+30/81	ab	a b	1
+30/83	ab	a b	1
+30/85	ahm	ah m	1
+30/87	ab	a b	1
+30/89	ab	a b	1
+30/91	ab	a b	1
+30/93	aab	aa b	1
+30/95	ab	a b	1
+30/97	am	a m	1
+30/99	ab	a b	1
+30/101	ab	a b	1
+30/103	aam	aa m	1
+30/105	oab	oa b	1
+30/107	oab	oa b	1
+30/109	ab	a b	1
+30/111	aob	ao b	1
+30/113	oab	oa b	1
+30/115	ohm	oh m	1
+30/117	oab	oa b	1
+30/119	oab	oa b	1
+30/121	oab	oa b	1
+30/123	oab	oa b	1
+30/125	oab	oa b	1
+30/127	oab	oa b	1
+30/129	ow	o w	1
+30/131	NA		NA
+30/133	oaw	oa w	1
+30/135	ow	o w	1
+30/137	aw	a w	1
+30/139	ow	o w	1
+30/141	auw	au w	1
+30/143	auw	au w	1
+30/145	auw	au w	1
+30/147	auw	au w	1
+30/149	auw	au w	1
+30/151	auw	au w	1
+30/153	auw	au w	1
+30/155	auw	au w	1
+30/157	auw	au w	1
+30/159	auw	au w	1
+30/161	auw	au w	1
+30/163	auw	au w	1
+30/165	auw	au w	1
+30/167	ow	o w	1
+30/169	ow	o w	1
+30/171	ow	o w	1
+30/173	aow	ao w	1
+30/175	ow	o w	1
+30/177	ow	o w	1
+30/179	oaw	oa w	1
+30/181	ow	o w	1
+30/183	ow	o w	1
+31/35	av	a v	1
+31/37	av	a v	1
+31/39	av	a v	1
+31/41	ab	a b	1
+31/43	ab	a b	1
+31/45	ab	a b	1
+31/47	oab	oa b	1
+31/49	ab	a b	1
+31/51	ab	a b	1
+31/53	ab	a b	1
+31/55	am	a m	1
+31/57	ab	a b	1
+31/59	ab	a b	1
+31/61	ab	a b	1
+31/63	ab	a b	1
+31/65	ab	a b	1
+31/67	ab	a b	1
+31/69	ab	a b	1
+31/71	ab	a b	1
+31/73	ab	a b	1
+31/75	ahm	ah m	1
+31/77	ab	a b	1
+31/79	ab	a b	1
+31/81	ahm	ah m	1
+31/83	ab	a b	1
+31/85	ab	a b	1
+31/87	ab	a b	1
+31/89	ab	a b	1
+31/91	ab	a b	1
+31/93	oab	oa b	1
+31/95	oab	oa b	1
+31/97	ab	a b	1
+31/99	aab	aa b	1
+31/101	aab	aa b	1
+31/103	aob	ao b	1
+31/105	ab	a b	1
+31/107	am	a m	1
+31/109	oam	oa m	1
+31/111	aw	a w	1
+31/113	ohb	oh b	1
+31/115	oab	oa b	1
+31/117	ob	o b	1
+31/119	aob	ao b	1
+31/121	oab	oa b	1
+31/123	oab	oa b	1
+31/125	ow	o w	1
+31/127	aw	a w	1
+31/129	auw	au w	1
+31/131	ow	o w	1
+31/133	ow	o w	1
+31/135	ow	o w	1
+31/137	ow	o w	1
+31/139	auw	au w	1
+31/141	auw	au w	1
+31/143	auw	au w	1
+31/145	auw	au w	1
+31/147	auw	au w	1
+31/149	NA		NA
+31/151	auw	au w	1
+31/153	aow	ao w	1
+31/155	auw	au w	1
+31/157	auw	au w	1
+31/159	auw	au w	1
+31/161	auw	au w	1
+31/163	auf	au f	1
+31/167	ow	o w	1
+31/169	ob	o b	1
+31/171	ob	o b	1
+31/173	ow	o w	1
+31/175	ow	o w	1
+31/177	oaw	oa w	1
+31/179	ow	o w	1
+32/35	av	a v	1
+32/37	aw	a w	1
+32/39	av	a v	1
+32/41	amb	a m b	1
+32/43	ab	a b	1
+32/45	ahm	ah m	1
+32/47	ab	a b	1
+32/49	ab	a b	1
+32/51	aab	aa b	1
+32/53	ab	a b	1
+32/55	ab	a b	1
+32/57	ab	a b	1
+32/59	ab	a b	1
+32/61	aam	aa m	1
+32/65	ab	a b	1
+32/69	ab	a b	1
+32/71	ab	a b	1
+32/73	ab	a b	1
+32/75	ab	a b	1
+32/77	ab	a b	1
+32/79	ab	a b	1
+32/81	ab	a b	1
+32/83	ab	a b	1
+32/85	ab	a b	1
+32/87	ab	a b	1
+32/89	oab	oa b	1
+32/91	aom	ao m	1
+32/93	ob	o b	1
+32/95	oahm	oah m	1
+32/97	oam	oa m	1
+32/99	oab	oa b	1
+32/101	ab	a b	1
+32/103	oab	oa b	1
+32/105	oab	oa b	1
+32/107	oab	oa b	1
+32/111	oab	oa b	1
+32/113	ob	o b	1
+32/115	oab	oa b	1
+32/117	oab	oa b	1
+32/119	aob	ao b	1
+32/121	oab	oa b	1
+32/123	NA		NA
+32/125	oab	oa b	1
+32/127	oab	oa b	1
+32/129	ow	o w	1
+32/131	oaw	oa w	1
+32/133	oaw	oa w	1
+32/135	ow	o w	1
+32/139	ow	o w	1
+32/141	auv	au v	1
+32/143	auw	au w	1
+32/145	auw	au w	1
+32/147	auw	au w	1
+32/149	auw	au w	1
+32/151	auw	au w	1
+32/153	aow	ao w	1
+32/157	auw	au w	1
+32/159	auw	au w	1
+32/161	auw	au w	1
+32/163	auw	au w	1
+32/167	ow	o w	1
+32/169	ow	o w	1
+32/171	ow	o w	1
+32/173	ab	a b	1
+32/175	ow	o w	1
+32/177	ow	o w	1
+32/179	oaw	oa w	1
+32/181	aw	a w	1
+32/183	NA		NA
+33/35	aov	ao v	1
+33/37	av	a v	1
+33/39	ab	a b	1
+33/41	aw	a w	1
+33/43	ab	a b	1
+33/45	ab	a b	1
+33/47	ab	a b	1
+33/49	ab	a b	1
+33/51	ab	a b	1
+33/53	ab	a b	1
+33/55	oab	oa b	1
+33/57	ab	a b	1
+33/59	ahm	ah m	1
+33/61	ab	a b	1
+33/63	ab	a b	1
+33/65	ab	a b	1
+33/67	ab	a b	1
+33/69	ab	a b	1
+33/71	ab	a b	1
+33/73	ab	a b	1
+33/75	ab	a b	1
+33/77	ab	a b	1
+33/79	ab	a b	1
+33/81	ab	a b	1
+33/83	ab	a b	1
+33/85	ab	a b	1
+33/87	oab	oa b	1
+33/89	ow	o w	1
+33/91	oahm	oah m	1
+33/93	oab	oa b	1
+33/95	oab	oa b	1
+33/97	aob	ao b	1
+33/99	ob	o b	1
+33/101	oam	oa m	1
+33/103	oab	oa b	1
+33/105	oab	oa b	1
+33/107	oab	oa b	1
+33/109	oam	oa m	1
+33/111	oab	oa b	1
+33/113	oab	oa b	1
+33/115	oab	oa b	1
+33/117	oab	oa b	1
+33/119	ob	o b	1
+33/121	oab	oa b	1
+33/123	aob	ao b	1
+33/125	oab	oa b	1
+33/127	aow	ao w	1
+33/129	auw	au w	1
+33/131	ouw	ou w	1
+33/133	ouw	ou w	1
+33/135	aow	ao w	1
+33/137	oaw	oa w	1
+33/139	oaw	oa w	1
+33/141	auw	au w	1
+33/143	auw	au w	1
+33/145	auw	au w	1
+33/147	auw	au w	1
+33/149	auw	au w	1
+33/151	auw	au w	1
+33/153	auw	au w	1
+33/155	auw	au w	1
+33/159	auw	au w	1
+33/161	auw	au w	1
+33/163	auw	au w	1
+33/165	ow	o w	1
+33/167	oaw	oa w	1
+33/169	aw	a w	1
+33/173	ow	o w	1
+33/175	oew	oe w	1
+33/177	ow	o w	1
+34/35	auw	au w	1
+34/39	ow	o w	1
+34/41	ab	a b	1
+34/43	aw	a w	1
+34/45	aw	a w	1
+34/47	ab	a b	1
+34/49	aoh	aoh	1
+34/51	ab	a b	1
+34/53	ab	a b	1
+34/55	ab	a b	1
+34/57	ob	o b	1
+34/59	ab	a b	1
+34/61	ab	a b	1
+34/63	aum	au m	1
+34/65	ab	a b	1
+34/67	ab	a b	1
+34/69	ab	a b	1
+34/71	ab	a b	1
+34/73	ab	a b	1
+34/75	ab	a b	1
+34/77	ahm	ah m	1
+34/79	ab	a b	1
+34/81	ab	a b	1
+34/83	ab	a b	1
+34/85	oab	oa b	1
+34/87	oab	oa b	1
+34/89	oab	oa b	1
+34/91	ohm	oh m	1
+34/93	oahm	oah m	1
+34/95	ow	o w	1
+34/97	ob	o b	1
+34/99	ab	a b	1
+34/101	ob	o b	1
+34/103	aob	ao b	1
+34/105	ob	o b	1
+34/107	ab	a b	1
+34/109	ob	o b	1
+34/111	oab	oa b	1
+34/113	ob	o b	1
+34/115	oab	oa b	1
+34/117	oab	oa b	1
+34/119	oab	oa b	1
+34/121	aw	a w	1
+34/125	ab	a b	1
+34/127	ob	o b	1
+34/129	ab	a b	1
+34/131	ow	o w	1
+34/133	ow	o w	1
+34/135	ow	o w	1
+34/137	ow	o w	1
+34/139	auw	au w	1
+34/141	auw	au w	1
+34/143	auw	au w	1
+34/145	auw	au w	1
+34/147	ow	o w	1
+34/149	auw	au w	1
+34/151	auw	au w	1
+34/155	auw	au w	1
+34/157	auw	au w	1
+34/161	auw	au w	1
+34/163	oaw	oa w	1
+34/165	ow	o w	1
+34/167	ow	o w	1
+34/169	ow	o w	1
+34/173	ow	o w	1
+35/35	aw	a w	1
+35/37	aw	a w	1
+35/39	aw	a w	1
+35/41	aw	a w	1
+35/43	af	a f	1
+35/45	aw	a w	1
+35/47	ab	a b	1
+35/49	ab	a b	1
+35/51	ob	o b	1
+35/53	ab	a b	1
+35/55	ab	a b	1
+35/57	ab	a b	1
+35/59	ab	a b	1
+35/61	ab	a b	1
+35/63	ab	a b	1
+35/65	am	a m	1
+35/67	ab	a b	1
+35/69	ab	a b	1
+35/71	ab	a b	1
+35/73	ab	a b	1
+35/75	ahm	ah m	1
+35/77	aam	aa m	1
+35/79	ab	a b	1
+35/81	ab	a b	1
+35/83	ab	a b	1
+35/85	am	a m	1
+35/87	oab	oa b	1
+35/89	aom	ao m	1
+35/91	av	a v	1
+35/93	oab	oa b	1
+35/95	oaw	oa w	1
+35/97	oaw	oa w	1
+35/99	ow	o w	1
+35/101	aow	ao w	1
+35/103	oam	oa m	1
+35/105	oab	oa b	1
+35/107	ow	o w	1
+35/109	oab	oa b	1
+35/111	oab	oa b	1
+35/113	ob	o b	1
+35/115	ob	o b	1
+35/117	ob	o b	1
+35/121	ab	a b	1
+35/123	ab	a b	1
+35/125	aen	ae n	1
+35/127	aw	a w	1
+35/129	om	o m	1
+35/133	oow	oo w	1
+35/135	oaw	oa w	1
+35/137	aw	a w	1
+35/139	ow	o w	1
+35/141	auw	au w	1
+35/143	auw	au w	1
+35/145	auw	au w	1
+35/147	auw	au w	1
+35/149	auw	au w	1
+35/151	ow	o w	1
+35/153	auw	au w	1
+35/155	auw	au w	1
+35/157	auw	au w	1
+35/165	oaw	oa w	1
+35/167	ow	o w	1
+35/169	ow	o w	1
+35/171	ow	o w	1
+35/173	ow	o w	1
+36/33	auw	au w	1
+36/35	auw	au w	1
+36/39	aw	a w	1
+36/41	oaw	oa w	1
+36/43	av	a v	1
+36/45	av	a v	1
+36/47	amb	a m b	1
+36/49	ab	a b	1
+36/51	ab	a b	1
+36/53	ab	a b	1
+36/55	ab	a b	1
+36/57	ab	a b	1
+36/59	ab	a b	1
+36/61	NA		NA
+36/63	ab	a b	1
+36/65	ahm	ah m	1
+36/67	am	a m	1
+36/69	ab	a b	1
+36/71	ab	a b	1
+36/73	ahm	ah m	1
+36/75	aam	aa m	1
+36/77	ahm	ah m	1
+36/79	ab	a b	1
+36/81	ab	a b	1
+36/83	ab	a b	1
+36/85	aow	ao w	1
+36/87	aow	ao w	1
+36/89	oaw	oa w	1
+36/91	aow	ao w	1
+36/95	oaw	oa w	1
+36/97	oaw	oa w	1
+36/99	oav	oa v	1
+36/101	oab	oa b	1
+36/103	ahn	ah n	1
+36/105	oab	oa b	1
+36/107	oab	oa b	1
+36/109	oab	oa b	1
+36/111	ahn	ah n	1
+36/113	ab	a b	1
+36/115	ab	a b	1
+36/117	oab	oa b	1
+36/119	aen	ae n	1
+36/121	ab	a b	1
+36/123	ab	a b	1
+36/125	ab	a b	1
+36/127	oab	oa b	1
+36/129	ob	o b	1
+36/133	oaw	oa w	1
+36/135	oaw	oa w	1
+36/137	ow	o w	1
+36/139	ow	o w	1
+36/141	ow	o w	1
+36/143	auw	au w	1
+36/147	auw	au w	1
+36/149	auw	au w	1
+36/151	auw	au w	1
+36/153	auw	au w	1
+36/155	auw	au w	1
+36/161	ow	o w	1
+36/163	NA		NA
+36/165	of	o f	1
+36/167	ow	o w	1
+36/169	ow	o w	1
+36/171	aw	a w	1
+37/33	ow	o w	1
+37/35	ow	o w	1
+37/37	ow	o w	1
+37/39	aw	a w	1
+37/41	aw	a w	1
+37/43	aw	a w	1
+37/45	aw	a w	1
+37/47	ab	a b	1
+37/49	am	a m	1
+37/51	ahm	ah m	1
+37/53	am	a m	1
+37/55	am	a m	1
+37/57	ab	a b	1
+37/59	ab	a b	1
+37/61	ab	a b	1
+37/63	ab	a b	1
+37/65	ahm	ah m	1
+37/67	ab	a b	1
+37/69	ab	a b	1
+37/71	ahm	ah m	1
+37/73	ahm	ah m	1
+37/75	ab	a b	1
+37/77	ahm	ah m	1
+37/79	ohm	oh m	1
+37/81	oam	oa m	1
+37/83	om	o m	1
+37/85	oaw	oa w	1
+37/87	oaw	oa w	1
+37/89	oaw	oa w	1
+37/91	ow	o w	1
+37/93	aon	ao n	1
+37/95	ab	a b	1
+37/97	oaw	oa w	1
+37/99	aw	a w	1
+37/101	ahun	a h u n	1
+37/105	ab	a b	1
+37/107	ab	a b	1
+37/109	am	a m	1
+37/111	NA		NA
+37/113	ab	a b	1
+37/115	ahm	ah m	1
+37/117	aw	a w	1
+37/119	ab	a b	1
+37/121	aw	a w	1
+37/123	ab	a b	1
+37/125	ab	a b	1
+37/127	ahm	ah m	1
+37/129	aw	a w	1
+37/131	oaw	oa w	1
+37/133	aen	ae n	1
+37/135	aw	a w	1
+37/137	aw	a w	1
+37/139	oaw	oa w	1
+37/141	oaw	oa w	1
+37/145	auw	au w	1
+37/147	auw	au w	1
+37/149	auw	au w	1
+37/151	ow	o w	1
+37/153	auf	au f	1
+37/155	auw	au w	1
+37/157	auw	au w	1
+37/159	auw	au w	1
+37/163	ow	o w	1
+37/171	oaw	oa w	1
+38/33	auw	au w	1
+38/35	ow	o w	1
+38/37	aow	ao w	1
+38/39	aw	a w	1
+38/41	av	a v	1
+38/43	aw	a w	1
+38/45	av	a v	1
+38/47	aeen	aee n	1
+38/49	ahm	ah m	1
+38/51	ab	a b	1
+38/53	aw	a w	1
+38/55	ahm	ah m	1
+38/57	ab	a b	1
+38/59	ab	a b	1
+38/61	am	a m	1
+38/63	aw	a w	1
+38/65	am	a m	1
+38/67	ab	a b	1
+38/69	ab	a b	1
+38/71	ab	a b	1
+38/73	ahm	ah m	1
+38/75	ab	a b	1
+38/77	ahm	ah m	1
+38/79	ahm	ah m	1
+38/81	aom	ao m	1
+38/83	oam	oa m	1
+38/85	aw	a w	1
+38/87	oaw	oa w	1
+38/89	aw	a w	1
+38/91	aob	ao b	1
+38/93	oab	oa b	1
+38/95	oaj	oa j	1
+38/97	aw	a w	1
+38/99	ahn	ah n	1
+38/101	ahn	ah n	1
+38/103	an	a n	1
+38/105	an	a n	1
+38/107	ahn	ah n	1
+38/109	ab	a b	1
+38/111	ahn	ah n	1
+38/113	ahn	ah n	1
+38/115	ab	a b	1
+38/117	aw	a w	1
+38/119	ab	a b	1
+38/121	av	a v	1
+38/123	an	a n	1
+38/125	ahn	ah n	1
+38/127	aw	a w	1
+38/129	aw	a w	1
+38/131	ab	a b	1
+38/133	an	a n	1
+38/135	oaw	oa w	1
+38/145	auw	au w	1
+38/147	auw	au w	1
+38/149	auw	au w	1
+38/151	auw	au w	1
+38/153	ow	o w	1
+38/155	auw	au w	1
+38/159	ow	o w	1
+38/161	NA		NA
+38/163	auw	au w	1
+39/29	av	a v	1
+39/31	oav	oa v	1
+39/33	ow	o w	1
+39/35	aow	ao w	1
+39/37	ab	a b	1
+39/39	aow	ao w	1
+39/41	oaw	oa w	1
+39/43	aw	a w	1
+39/45	aob	ao b	1
+39/47	aw	a w	1
+39/49	ab	a b	1
+39/51	aam	aa m	1
+39/53	ab	a b	1
+39/55	ab	a b	1
+39/57	ab	a b	1
+39/59	ab	a b	1
+39/61	ab	a b	1
+39/63	ab	a b	1
+39/65	ab	a b	1
+39/67	ahm	ah m	1
+39/69	ab	a b	1
+39/71	ahm	ah m	1
+39/73	ab	a b	1
+39/75	ab	a b	1
+39/77	ab	a b	1
+39/79	am	a m	1
+39/81	aom	ao m	1
+39/83	oam	oa m	1
+39/85	oam	oa m	1
+39/87	oaw	oa w	1
+39/89	aw	a w	1
+39/91	aw	a w	1
+39/93	aun	au n	1
+39/95	äun	äu n	1
+39/97	aan	aa n	1
+39/99	aan	aa n	1
+39/101	ahn	ah n	1
+39/103	an	a n	1
+39/105	ahn	ah n	1
+39/107	aan	aa n	1
+39/109	aan	aa n	1
+39/111	ahn	ah n	1
+39/113	aan	aa n	1
+39/115	ab	a b	1
+39/117	ahn	ah n	1
+39/119	aen	ae n	1
+39/121	ab	a b	1
+39/123	ahn	ah n	1
+39/125	aw	a w	1
+39/127	aw	a w	1
+39/129	ab	a b	1
+39/131	oab	oa b	1
+39/133	NA		NA
+39/135	om	o m	1
+39/137	om	o m	1
+39/139	ob	o b	1
+39/149	auw	au w	1
+39/151	ow	o w	1
+39/153	NA		NA
+39/155	ohw	oh w	1
+40/29	oaw	oa w	1
+40/31	oaw	oa w	1
+40/33	oow	oo w	1
+40/35	oab	oa b	1
+40/37	aov	ao v	1
+40/39	aw	a w	1
+40/41	av	a v	1
+40/43	oaw	oa w	1
+40/45	auw	au w	1
+40/47	aub	au b	1
+40/49	ab	a b	1
+40/51	ahm	ah m	1
+40/53	ab	a b	1
+40/55	aam	aa m	1
+40/57	ab	a b	1
+40/59	ahm	ah m	1
+40/61	ab	a b	1
+40/63	ab	a b	1
+40/65	ab	a b	1
+40/67	ahm	ah m	1
+40/69	am	a m	1
+40/71	ab	a b	1
+40/73	am	a m	1
+40/75	ab	a b	1
+40/77	am	a m	1
+40/79	oab	oa b	1
+40/81	oab	oa b	1
+40/83	oam	oa m	1
+40/85	ow	o w	1
+40/87	aun	au n	1
+40/89	auhn	auh n	1
+40/91	aun	au n	1
+40/93	aw	a w	1
+40/95	ahn	ah n	1
+40/97	an	a n	1
+40/99	oan	oa n	1
+40/101	ahn	ah n	1
+40/103	aan	aa n	1
+40/105	ahn	ah n	1
+40/107	ab	a b	1
+40/109	ab	a b	1
+40/111	ahn	ah n	1
+40/113	oab	oa b	1
+40/115	ahn	ah n	1
+40/119	oan	oa n	1
+40/121	ahn	ah n	1
+40/123	aw	a w	1
+40/125	oen	oe n	1
+40/127	aaw	aa w	1
+40/129	ab	a b	1
+40/131	oab	oa b	1
+40/133	oam	oa m	1
+40/135	om	o m	1
+40/137	ob	o b	1
+40/141	ob	o b	1
+40/143	ob	o b	1
+40/149	ob	o b	1
+40/153	ow	o w	1
+40/155	ew	e w	1
+41/31	ow	o w	1
+41/33	oav	oa v	1
+41/35	aw	a w	1
+41/37	aw	a w	1
+41/39	aum	au m	1
+41/41	ob	o b	1
+41/43	aub	au b	1
+41/45	aub	au b	1
+41/47	aub	au b	1
+41/49	ab	a b	1
+41/51	ob	o b	1
+41/53	ab	a b	1
+41/55	ab	a b	1
+41/57	ab	a b	1
+41/59	ab	a b	1
+41/61	ab	a b	1
+41/63	am	a m	1
+41/65	aam	aa m	1
+41/67	ahm	ah m	1
+41/69	ahm	ah m	1
+41/71	ab	a b	1
+41/73	ab	a b	1
+41/75	ab	a b	1
+41/77	ab	a b	1
+41/79	oab	oa b	1
+41/81	oab	oa b	1
+41/83	ow	o w	1
+41/85	oab	oa b	1
+41/87	aon	ao n	1
+41/89	aun	au n	1
+41/91	aun	au n	1
+41/93	an	a n	1
+41/95	ahn	ah n	1
+41/97	ahen	a h e n	1
+41/99	ahn	ah n	1
+41/101	ahn	ah n	1
+41/103	ahn	ah n	1
+41/105	ahn	ah n	1
+41/107	on	o n	1
+41/109	am	a m	1
+41/111	ab	a b	1
+41/113	oaan	oaa n	1
+41/115	am	a m	1
+41/117	ahn	ah n	1
+41/119	oan	oa n	1
+41/121	oan	oa n	1
+41/123	on	o n	1
+41/125	on	o n	1
+41/127	aw	a w	1
+41/129	oab	oa b	1
+41/131	oab	oa b	1
+41/133	ob	o b	1
+41/135	ob	o b	1
+41/139	ob	o b	1
+41/141	ob	o b	1
+41/145	ob	o b	1
+41/147	ob	o b	1
+41/153	auw	au w	1
+41/155	auw	au w	1
+41/157	ahn	ah n	1
+41/159	of	o f	1
+41/161	auw	au w	1
+42/33	aov	ao v	1
+42/35	aw	a w	1
+42/37	ag	a g	1
+42/39	av	a v	1
+42/41	aum	au m	1
+42/43	aub	au b	1
+42/45	aub	au b	1
+42/47	auv	au v	1
+42/51	oaub	oau b	1
+42/53	am	a m	1
+42/55	ab	a b	1
+42/57	ab	a b	1
+42/59	ab	a b	1
+42/61	eam	ea m	1
+42/63	ab	a b	1
+42/65	ab	a b	1
+42/67	ab	a b	1
+42/69	ab	a b	1
+42/71	ab	a b	1
+42/73	NA		NA
+42/75	ab	a b	1
+42/77	ab	a b	1
+42/79	ab	a b	1
+42/81	ab	a b	1
+42/83	ahm	ah m	1
+42/85	oab	oa b	1
+42/87	oau	oau	1
+42/89	oab	oa b	1
+42/91	au	au	1
+42/93	an	a n	1
+42/95	ahn	ah n	1
+42/97	ab	a b	1
+42/99	ahn	ah n	1
+42/101	an	a n	1
+42/103	aw	a w	1
+42/105	ahm	ah m	1
+42/107	ahn	ah n	1
+42/109	ooen	ooe n	1
+42/111	oan	oa n	1
+42/113	aw	a w	1
+42/115	aw	a w	1
+42/117	NA		NA
+42/119	oan	oa n	1
+42/121	oan	oa n	1
+42/123	aon	ao n	1
+42/125	uaw	ua w	1
+42/127	oaw	oa w	1
+42/129	ab	a b	1
+42/131	ob	o b	1
+42/133	ob	o b	1
+42/135	ob	o b	1
+42/137	ob	o b	1
+42/139	ob	o b	1
+42/141	ob	o b	1
+42/143	ob	o b	1
+42/145	ob	o b	1
+42/147	NA		NA
+42/149	ob	o b	1
+42/151	NA		NA
+42/157	äow	äo w	1
+42/159	auw	au w	1
+42/161	auw	au w	1
+43/33	aw	a w	1
+43/35	oaw	oa w	1
+43/37	oum	ou m	1
+43/39	ow	o w	1
+43/41	aub	au b	1
+43/43	auw	au w	1
+43/45	aub	au b	1
+43/47	ab	a b	1
+43/49	ub	u b	1
+43/51	NA		NA
+43/53	oab	oa b	1
+43/55	ab	a b	1
+43/57	aw	a w	1
+43/59	ab	a b	1
+43/61	ab	a b	1
+43/63	ab	a b	1
+43/65	ab	a b	1
+43/67	ab	a b	1
+43/69	ab	a b	1
+43/71	om	o m	1
+43/73	NA		NA
+43/75	oab	oa b	1
+43/77	ab	a b	1
+43/79	ab	a b	1
+43/81	ab	a b	1
+43/83	ahm	ah m	1
+43/85	aom	ao m	1
+43/87	ob	o b	1
+43/89	oab	oa b	1
+43/91	an	a n	1
+43/93	ahn	ah n	1
+43/95	ahn	ah n	1
+43/97	an	a n	1
+43/99	ahn	ah n	1
+43/101	ahn	ah n	1
+43/103	an	a n	1
+43/105	ahn	ah n	1
+43/107	oan	oa n	1
+43/109	oan	oa n	1
+43/111	oan	oa n	1
+43/113	aw	a w	1
+43/115	oaw	oa w	1
+43/117	aw	a w	1
+43/119	am	a m	1
+43/121	oan	oa n	1
+43/123	uohn	uoh n	1
+43/125	aw	a w	1
+43/127	aew	ae w	1
+43/129	ov	o v	1
+43/131	oob	oo b	1
+43/133	ob	o b	1
+43/135	ob	o b	1
+43/137	ob	o b	1
+43/141	ab	a b	1
+43/143	ob	o b	1
+43/145	ob	o b	1
+43/151	NA		NA
+43/153	ob	o b	1
+43/159	auw	au w	1
+43/161	aub	au b	1
+44/33	aob	ao b	1
+44/35	aov	ao v	1
+44/39	oab	oa b	1
+44/41	aub	au b	1
+44/43	aub	au b	1
+44/45	aub	au b	1
+44/47	aüb	aü b	1
+44/49	aub	au b	1
+44/51	ab	a b	1
+44/53	ab	a b	1
+44/55	ob	o b	1
+44/57	aub	au b	1
+44/59	ab	a b	1
+44/61	aab	aa b	1
+44/63	ab	a b	1
+44/65	ab	a b	1
+44/67	oab	oa b	1
+44/69	ab	a b	1
+44/71	am	a m	1
+44/73	ab	a b	1
+44/75	ab	a b	1
+44/77	am	a m	1
+44/79	ahm	ah m	1
+44/81	ab	a b	1
+44/83	ab	a b	1
+44/85	NA		NA
+44/87	ahm	ah m	1
+44/89	ab	a b	1
+44/91	ahm	ah m	1
+44/93	ab	a b	1
+44/95	ob	o b	1
+44/97	am	a m	1
+44/99	oan	oa n	1
+44/101	oahn	oah n	1
+44/103	oan	oa n	1
+44/105	oan	oa n	1
+44/107	ohn	oh n	1
+44/109	oan	oa n	1
+44/111	oan	oa n	1
+44/113	aow	ao w	1
+44/115	aw	a w	1
+44/117	oan	oa n	1
+44/119	aw	a w	1
+44/121	uow	uo w	1
+44/123	uan	ua n	1
+44/125	uohn	uoh n	1
+44/127	aob	ao b	1
+44/129	oab	oa b	1
+44/131	auh	auh	1
+44/133	ob	o b	1
+44/135	ob	o b	1
+44/137	ob	o b	1
+44/141	ohb	oh b	1
+44/143	ob	o b	1
+44/145	ob	o b	1
+44/149	NA		NA
+44/151	ob	o b	1
+44/153	ob	o b	1
+45/33	ow	o w	1
+45/35	aow	ao w	1
+45/37	oaum	oau m	1
+45/39	orm	o r m	1
+45/41	aow	ao w	1
+45/43	auw	au w	1
+45/45	aum	au m	1
+45/47	ab	a b	1
+45/49	aw	a w	1
+45/51	ob	o b	1
+45/53	aab	aa b	1
+45/55	ob	o b	1
+45/57	oam	oa m	1
+45/59	oaw	oa w	1
+45/61	ab	a b	1
+45/63	ab	a b	1
+45/65	ab	a b	1
+45/67	oab	oa b	1
+45/69	oab	oa b	1
+45/71	ahm	ah m	1
+45/73	ab	a b	1
+45/75	NA		NA
+45/77	ab	a b	1
+45/79	ab	a b	1
+45/81	ab	a b	1
+45/83	aam	aa m	1
+45/85	am	a m	1
+45/87	oab	oa b	1
+45/89	oab	oa b	1
+45/91	ab	a b	1
+45/93	ab	a b	1
+45/95	ahn	ah n	1
+45/97	ab	a b	1
+45/99	ahn	ah n	1
+45/101	oam	oa m	1
+45/103	on	o n	1
+45/105	oan	oa n	1
+45/107	on	o n	1
+45/109	NA		NA
+45/111	aw	a w	1
+45/113	oab	oa b	1
+45/115	ab	a b	1
+45/117	aw	a w	1
+45/119	aw	a w	1
+45/121	ob	o b	1
+45/123	ob	o b	1
+45/125	ob	o b	1
+45/127	ob	o b	1
+45/129	ob	o b	1
+45/131	oab	oa b	1
+45/133	ab	a b	1
+45/135	ob	o b	1
+45/137	ob	o b	1
+45/139	ob	o b	1
+45/141	oob	oo b	1
+45/143	ab	a b	1
+45/145	ob	o b	1
+45/155	ob	o b	1
+46/31	aob	ao b	1
+46/33	ob	o b	1
+46/35	oub	ou b	1
+46/37	oaw	oa w	1
+46/39	aow	ao w	1
+46/41	aob	ao b	1
+46/43	auw	au w	1
+46/45	om	o m	1
+46/47	ob	o b	1
+46/49	om	o m	1
+46/51	ab	a b	1
+46/53	ob	o b	1
+46/55	om	o m	1
+46/57	oem	oe m	1
+46/59	ab	a b	1
+46/61	ab	a b	1
+46/63	ahm	ah m	1
+46/65	ab	a b	1
+46/67	ab	a b	1
+46/69	ab	a b	1
+46/71	aamb	aa m b	1
+46/73	ab	a b	1
+46/75	ab	a b	1
+46/77	ab	a b	1
+46/79	ab	a b	1
+46/81	ab	a b	1
+46/83	ab	a b	1
+46/85	ab	a b	1
+46/87	ab	a b	1
+46/89	ab	a b	1
+46/91	ab	a b	1
+46/93	ahn	ah n	1
+46/95	ahn	ah n	1
+46/97	am	a m	1
+46/99	am	a m	1
+46/101	ab	a b	1
+46/103	oan	oa n	1
+46/105	oan	oa n	1
+46/107	oan	oa n	1
+46/109	oen	oe n	1
+46/111	ohn	oh n	1
+46/113	ab	a b	1
+46/115	ab	a b	1
+46/117	ab	a b	1
+46/119	oab	oa b	1
+46/121	am	a m	1
+46/123	uam	ua m	1
+46/125	oam	oa m	1
+46/127	uob	uo b	1
+46/129	ob	o b	1
+46/131	ob	o b	1
+46/133	ob	o b	1
+46/135	ob	o b	1
+46/137	ob	o b	1
+46/139	aub	au b	1
+46/141	ab	a b	1
+46/143	ob	o b	1
+46/155	ob	o b	1
+47/31	oaw	oa w	1
+47/33	ov	o v	1
+47/35	aow	ao w	1
+47/37	aw	a w	1
+47/39	ow	o w	1
+47/41	oow	oo w	1
+47/43	aob	ao b	1
+47/45	aow	ao w	1
+47/47	ob	o b	1
+47/49	ab	a b	1
+47/51	om	o m	1
+47/53	ohm	oh m	1
+47/55	ob	o b	1
+47/57	ob	o b	1
+47/59	ahm	ah m	1
+47/61	ahm	ah m	1
+47/63	ab	a b	1
+47/65	ab	a b	1
+47/67	ahm	ah m	1
+47/69	ab	a b	1
+47/71	ab	a b	1
+47/73	aäm	aä m	1
+47/75	ab	a b	1
+47/77	am	a m	1
+47/79	ab	a b	1
+47/81	ab	a b	1
+47/83	ab	a b	1
+47/85	ab	a b	1
+47/87	ab	a b	1
+47/89	ab	a b	1
+47/91	oab	oa b	1
+47/93	an	a n	1
+47/95	ahn	ah n	1
+47/97	am	a m	1
+47/99	am	a m	1
+47/101	oan	oa n	1
+47/103	oam	oa m	1
+47/105	oan	oa n	1
+47/107	oahn	oah n	1
+47/109	oon	oo n	1
+47/111	oab	oa b	1
+47/113	ab	a b	1
+47/115	oab	oa b	1
+47/117	oab	oa b	1
+47/119	ob	o b	1
+47/123	uam	ua m	1
+47/125	uob	uo b	1
+47/127	ob	o b	1
+47/129	ob	o b	1
+47/131	aub	au b	1
+47/133	aub	au b	1
+47/135	oob	oo b	1
+47/137	ob	o b	1
+47/139	aub	au b	1
+47/141	aub	au b	1
+47/147	ob	o b	1
+47/149	ob	o b	1
+47/151	ob	o b	1
+47/159	ob	o b	1
+48/21	ow	o w	1
+48/23	o	o	1
+48/27	ov	o v	1
+48/29	oaw	oa w	1
+48/31	ow	o w	1
+48/33	ow	o w	1
+48/35	oab	oa b	1
+48/37	aob	ao b	1
+48/39	aob	ao b	1
+48/41	aun	au n	1
+48/45	uow	uo w	1
+48/47	om	o m	1
+48/49	ob	o b	1
+48/51	oam	oa m	1
+48/53	ohm	oh m	1
+48/55	ohm	oh m	1
+48/57	om	o m	1
+48/59	om	o m	1
+48/61	ab	a b	1
+48/63	ab	a b	1
+48/65	NA		NA
+48/67	ab	a b	1
+48/69	ab	a b	1
+48/71	ohm	oh m	1
+48/73	ab	a b	1
+48/75	ab	a b	1
+48/77	ab	a b	1
+48/79	ab	a b	1
+48/81	ab	a b	1
+48/83	ab	a b	1
+48/85	ab	a b	1
+48/87	oam	oa m	1
+48/89	oab	oa b	1
+48/91	om	o m	1
+48/93	ah	ah	1
+48/95	ab	a b	1
+48/99	oam	oa m	1
+48/101	oab	oa b	1
+48/103	NA		NA
+48/105	ohn	oh n	1
+48/107	am	a m	1
+48/109	oan	oa n	1
+48/111	NA		NA
+48/113	ab	a b	1
+48/115	ab	a b	1
+48/119	oab	oa b	1
+48/123	uab	ua b	1
+48/125	oam	oa m	1
+48/127	ob	o b	1
+48/129	ob	o b	1
+48/131	aub	au b	1
+48/133	aub	au b	1
+48/135	aub	au b	1
+48/137	aub	au b	1
+48/139	ob	o b	1
+48/141	oab	oa b	1
+48/143	oab	oa b	1
+48/145	oub	ou b	1
+48/147	ob	o b	1
+48/153	ob	o b	1
+48/157	oub	ou b	1
+48/159	ob	o b	1
+49/19	oav	oa v	1
+49/21	ov	o v	1
+49/23	ov	o v	1
+49/25	ow	o w	1
+49/27	aow	ao w	1
+49/29	ow	o w	1
+49/31	ow	o w	1
+49/33	aow	ao w	1
+49/35	aob	ao b	1
+49/37	oob	oo b	1
+49/39	ohm	oh m	1
+49/41	ob	o b	1
+49/43	oab	oa b	1
+49/45	aom	ao m	1
+49/47	om	o m	1
+49/49	om	o m	1
+49/51	ow	o w	1
+49/53	ow	o w	1
+49/55	ohm	oh m	1
+49/57	ouw	ou w	1
+49/59	eouw	eou w	1
+49/61	ab	a b	1
+49/63	ahm	ah m	1
+49/65	ab	a b	1
+49/67	am	a m	1
+49/69	am	a m	1
+49/71	oab	oa b	1
+49/73	ohm	oh m	1
+49/77	ab	a b	1
+49/79	ab	a b	1
+49/81	ahm	ah m	1
+49/83	oab	oa b	1
+49/85	ab	a b	1
+49/87	ab	a b	1
+49/89	oab	oa b	1
+49/91	am	a m	1
+49/93	oab	oa b	1
+49/95	ab	a b	1
+49/97	oab	oa b	1
+49/99	oab	oa b	1
+49/101	ob	o b	1
+49/103	aw	a w	1
+49/105	ab	a b	1
+49/107	oam	oa m	1
+49/109	oam	oa m	1
+49/111	uab	ua b	1
+49/113	ob	o b	1
+49/115	ob	o b	1
+49/117	oab	oa b	1
+49/119	ob	o b	1
+49/121	ob	o b	1
+49/123	ob	o b	1
+49/125	uob	uo b	1
+49/127	oab	oa b	1
+49/129	ob	o b	1
+49/131	ob	o b	1
+49/133	ob	o b	1
+49/135	aub	au b	1
+49/137	aub	au b	1
+49/139	aob	ao b	1
+49/141	oab	oa b	1
+49/143	oab	oa b	1
+49/145	oaub	oau b	1
+49/147	aub	au b	1
+49/151	ob	o b	1
+50/21	ow	o w	1
+50/23	om	o m	1
+50/25	ow	o w	1
+50/27	ow	o w	1
+50/29	ow	o w	1
+50/31	NA		NA
+50/33	aob	ao b	1
+50/35	ob	o b	1
+50/37	aob	ao b	1
+50/39	ob	o b	1
+50/41	ohm	oh m	1
+50/43	oab	oa b	1
+50/47	aow	ao w	1
+50/49	ow	o w	1
+50/51	oav	oa v	1
+50/53	ow	o w	1
+50/55	ow	o w	1
+50/57	uaw	ua w	1
+50/59	ow	o w	1
+50/61	oab	oa b	1
+50/63	am	a m	1
+50/65	NA		NA
+50/67	ahm	ah m	1
+50/69	oaw	oa w	1
+50/71	aw	a w	1
+50/73	ab	a b	1
+50/75	ohm	oh m	1
+50/77	ab	a b	1
+50/79	ob	o b	1
+50/81	ab	a b	1
+50/83	ab	a b	1
+50/85	NA		NA
+50/87	ab	a b	1
+50/89	oam	oa m	1
+50/91	ab	a b	1
+50/93	oab	oa b	1
+50/95	oab	oa b	1
+50/97	ob	o b	1
+50/99	am	a m	1
+50/101	aob	ao b	1
+50/103	ab	a b	1
+50/105	ob	o b	1
+50/107	oab	oa b	1
+50/109	oab	oa b	1
+50/111	ab	a b	1
+50/113	NA		NA
+50/115	oab	oa b	1
+50/117	oab	oa b	1
+50/119	ob	o b	1
+50/121	ob	o b	1
+50/125	ab	a b	1
+50/127	ob	o b	1
+50/129	ob	o b	1
+50/131	ob	o b	1
+50/133	aub	au b	1
+50/135	aub	au b	1
+50/137	aub	au b	1
+50/139	ob	o b	1
+50/141	ob	o b	1
+50/143	oab	oa b	1
+50/145	aub	au b	1
+50/147	ohb	oh b	1
+50/149	ab	a b	1
+50/151	ob	o b	1
+50/155	oab	oa b	1
+50/157	ab	a b	1
+50/159	ob	o b	1
+50/161	ob	o b	1
+51/23	aaow	aao w	1
+51/25	ov	o v	1
+51/27	ow	o w	1
+51/29	ow	o w	1
+51/31	aom	ao m	1
+51/33	aom	ao m	1
+51/35	aow	ao w	1
+51/37	oub	ou b	1
+51/39	aob	ao b	1
+51/41	ow	o w	1
+51/43	ow	o w	1
+51/45	oaw	oa w	1
+51/47	oaw	oa w	1
+51/49	au	au	1
+51/51	ow	o w	1
+51/53	ow	o w	1
+51/55	ohw	oh w	1
+51/57	ow	o w	1
+51/59	NA		NA
+51/61	ab	a b	1
+51/63	ohm	oh m	1
+51/65	ohm	oh m	1
+51/67	ohm	oh m	1
+51/69	oom	oo m	1
+51/71	uam	ua m	1
+51/73	am	a m	1
+51/75	ob	o b	1
+51/77	ab	a b	1
+51/79	ow	o w	1
+51/81	obb	o bb	1
+51/83	ob	o b	1
+51/85	am	a m	1
+51/87	ab	a b	1
+51/89	am	a m	1
+51/91	ab	a b	1
+51/93	ab	a b	1
+51/95	ab	a b	1
+51/97	om	o m	1
+51/99	ahm	ah m	1
+51/101	om	o m	1
+51/103	oom	oo m	1
+51/105	oab	oa b	1
+51/107	ahm	ah m	1
+51/109	oab	oa b	1
+51/111	ohb	oh b	1
+51/113	ob	o b	1
+51/115	ob	o b	1
+51/117	hab	h a b	1
+51/119	ab	a b	1
+51/121	ob	o b	1
+51/123	ob	o b	1
+51/125	ob	o b	1
+51/127	ob	o b	1
+51/129	ob	o b	1
+51/131	ob	o b	1
+51/133	ob	o b	1
+51/135	aub	au b	1
+51/137	oab	oa b	1
+51/139	ob	o b	1
+51/141	ob	o b	1
+51/143	oab	oa b	1
+51/145	ob	o b	1
+51/147	aub	au b	1
+51/149	uoab	uoa b	1
+51/151	ob	o b	1
+51/153	NA		NA
+51/155	oob	oo b	1
+51/157	aub	au b	1
+52/23	ov	o v	1
+52/25	auw	au w	1
+52/27	ov	o v	1
+52/29	ov	o v	1
+52/31	ow	o w	1
+52/33	om	o m	1
+52/35	om	o m	1
+52/37	ouw	ou w	1
+52/39	ow	o w	1
+52/41	ow	o w	1
+52/43	NA		NA
+52/45	ob	o b	1
+52/47	oaw	oa w	1
+52/49	oaw	oa w	1
+52/51	ow	o w	1
+52/53	ow	o w	1
+52/57	aw	a w	1
+52/59	aw	a w	1
+52/61	ab	a b	1
+52/63	ab	a b	1
+52/65	om	o m	1
+52/67	ab	a b	1
+52/69	oom	oo m	1
+52/71	am	a m	1
+52/73	ohm	oh m	1
+52/75	ow	o w	1
+52/77	ob	o b	1
+52/79	ow	o w	1
+52/81	ob	o b	1
+52/83	ob	o b	1
+52/85	obb	o bb	1
+52/87	ahw	ah w	1
+52/89	am	a m	1
+52/91	ab	a b	1
+52/93	oab	oa b	1
+52/95	ahm	ah m	1
+52/97	ab	a b	1
+52/99	ab	a b	1
+52/101	am	a m	1
+52/103	ab	a b	1
+52/105	ab	a b	1
+52/107	ob	o b	1
+52/109	ab	a b	1
+52/111	oab	oa b	1
+52/113	ab	a b	1
+52/115	ohb	oh b	1
+52/117	ab	a b	1
+52/121	aob	ao b	1
+52/123	hab	h a b	1
+52/125	oab	oa b	1
+52/127	NA		NA
+52/129	ob	o b	1
+52/131	ob	o b	1
+52/133	ob	o b	1
+52/135	ob	o b	1
+52/137	aub	au b	1
+52/139	oab	oa b	1
+52/141	aub	au b	1
+52/143	uab	ua b	1
+52/145	oab	oa b	1
+52/147	oab	oa b	1
+52/149	ob	o b	1
+52/151	oab	oa b	1
+52/153	oab	oa b	1
+52/155	uab	ua b	1
+52/157	oab	oa b	1
+52/159	oab	oa b	1
+53/23	ow	o w	1
+53/25	ov	o v	1
+53/27	ow	o w	1
+53/29	ow	o w	1
+53/31	ob	o b	1
+53/33	ow	o w	1
+53/35	ow	o w	1
+53/37	ohm	oh m	1
+53/39	uoab	uoa b	1
+53/41	NA		NA
+53/43	aaw	aa w	1
+53/45	ouw	ou w	1
+53/47	uoaw	uoa w	1
+53/49	ow	o w	1
+53/51	ob	o b	1
+53/53	ov	o v	1
+53/55	ow	o w	1
+53/57	ow	o w	1
+53/59	aw	a w	1
+53/61	ab	a b	1
+53/63	ab	a b	1
+53/65	ohm	oh m	1
+53/67	om	o m	1
+53/69	om	o m	1
+53/71	aab	aa b	1
+53/73	aam	aa m	1
+53/75	ow	o w	1
+53/77	ow	o w	1
+53/79	ob	o b	1
+53/81	obb	o bb	1
+53/83	oww	o ww	1
+53/85	ab	a b	1
+53/87	aw	a w	1
+53/89	am	a m	1
+53/91	ab	a b	1
+53/93	am	a m	1
+53/95	ab	a b	1
+53/97	ab	a b	1
+53/99	ahm	ah m	1
+53/101	oab	oa b	1
+53/103	ab	a b	1
+53/105	NA		NA
+53/107	ab	a b	1
+53/109	uab	ua b	1
+53/111	uam	ua m	1
+53/113	NA		NA
+53/115	oab	oa b	1
+53/121	oab	oa b	1
+53/123	ob	o b	1
+53/125	ob	o b	1
+53/127	ob	o b	1
+53/129	oob	oo b	1
+53/131	ob	o b	1
+53/133	ob	o b	1
+53/135	oab	oa b	1
+53/137	ob	o b	1
+53/139	ob	o b	1
+53/141	ob	o b	1
+53/143	oab	oa b	1
+53/145	ohb	oh b	1
+53/147	oab	oa b	1
+53/149	oab	oa b	1
+53/151	ob	o b	1
+53/153	oab	oa b	1
+53/155	ohb	oh b	1
+53/157	NA		NA
+54/23	oav	oa v	1
+54/25	ov	o v	1
+54/27	ovv	o vv	1
+54/29	ow	o w	1
+54/31	ow	o w	1
+54/33	ow	o w	1
+54/35	ob	o b	1
+54/37	oaw	oa w	1
+54/39	oaw	oa w	1
+54/41	av	a v	1
+54/43	ow	o w	1
+54/45	ow	o w	1
+54/47	oaw	oa w	1
+54/49	ab	a b	1
+54/51	ow	o w	1
+54/53	ow	o w	1
+54/55	oaw	oa w	1
+54/57	ow	o w	1
+54/59	ab	a b	1
+54/61	ob	o b	1
+54/63	ow	o w	1
+54/65	ab	a b	1
+54/67	ow	o w	1
+54/69	ob	o b	1
+54/71	obb	o bb	1
+54/73	obb	o bb	1
+54/75	ow	o w	1
+54/77	oww	o ww	1
+54/79	obb	o bb	1
+54/81	obb	o bb	1
+54/83	obb	o bb	1
+54/85	ob	o b	1
+54/87	ab	a b	1
+54/89	aam	aa m	1
+54/91	am	a m	1
+54/93	am	a m	1
+54/95	am	a m	1
+54/97	NA		NA
+54/99	am	a m	1
+54/101	ahm	ah m	1
+54/103	NA		NA
+54/105	ohm	oh m	1
+54/107	aam	aa m	1
+54/109	NA		NA
+54/111	uam	ua m	1
+54/113	uab	ua b	1
+54/115	oon	oo n	1
+54/117	aom	ao m	1
+54/119	ob	o b	1
+54/121	ab	a b	1
+54/123	ob	o b	1
+54/125	ob	o b	1
+54/127	ob	o b	1
+54/131	ob	o b	1
+54/133	ob	o b	1
+54/135	ob	o b	1
+54/137	aub	au b	1
+54/139	ob	o b	1
+54/141	uob	uo b	1
+54/143	oob	oo b	1
+54/145	ob	o b	1
+54/147	ob	o b	1
+54/149	aub	au b	1
+54/151	ob	o b	1
+54/153	aub	au b	1
+54/155	NA		NA
+54/157	aub	au b	1
+54/159	ob	o b	1
+54/161	ob	o b	1
+54/163	ab	a b	1
+55/23	oav	oa v	1
+55/25	av	a v	1
+55/27	of	o f	1
+55/29	of	o f	1
+55/31	ohm	oh m	1
+55/33	ow	o w	1
+55/35	aw	a w	1
+55/37	oaw	oa w	1
+55/39	oaw	oa w	1
+55/41	ow	o w	1
+55/43	ow	o w	1
+55/45	ow	o w	1
+55/47	ow	o w	1
+55/49	ow	o w	1
+55/51	ob	o b	1
+55/53	NA		NA
+55/55	ob	o b	1
+55/57	ob	o b	1
+55/59	ob	o b	1
+55/61	ow	o w	1
+55/63	ob	o b	1
+55/65	ow	o w	1
+55/67	ow	o w	1
+55/69	ow	o w	1
+55/71	ob	o b	1
+55/73	obb	o bb	1
+55/75	obb	o bb	1
+55/77	oww	o ww	1
+55/79	obb	o bb	1
+55/81	ob	o b	1
+55/83	oww	o ww	1
+55/85	ab	a b	1
+55/87	am	a m	1
+55/89	ab	a b	1
+55/91	ahm	ah m	1
+55/93	ab	a b	1
+55/95	am	a m	1
+55/97	ahm	ah m	1
+55/99	am	a m	1
+55/101	am	a m	1
+55/103	oab	oa b	1
+55/105	NA		NA
+55/107	uab	ua b	1
+55/109	ahm	ah m	1
+55/111	ob	o b	1
+55/113	ohm	oh m	1
+55/115	ab	a b	1
+55/117	ob	o b	1
+55/119	ob	o b	1
+55/123	ob	o b	1
+55/125	ob	o b	1
+55/127	ob	o b	1
+55/131	ob	o b	1
+55/133	ob	o b	1
+55/135	NA		NA
+55/137	ob	o b	1
+55/139	ob	o b	1
+55/141	aub	au b	1
+55/143	aub	au b	1
+55/145	oab	oa b	1
+55/147	ob	o b	1
+55/149	oab	oa b	1
+55/151	aub	au b	1
+55/153	oob	oo b	1
+55/155	aub	au b	1
+55/157	oub	ou b	1
+55/159	ob	o b	1
+55/161	ob	o b	1
+56/21	av	a v	1
+56/23	av	a v	1
+56/25	ov	o v	1
+56/27	ov	o v	1
+56/29	oow	oo w	1
+56/31	of	o f	1
+56/33	ow	o w	1
+56/35	ow	o w	1
+56/37	oaw	oa w	1
+56/39	ow	o w	1
+56/41	NA		NA
+56/43	ow	o w	1
+56/45	ow	o w	1
+56/47	ow	o w	1
+56/49	ow	o w	1
+56/51	ow	o w	1
+56/53	ow	o w	1
+56/55	oaw	oa w	1
+56/57	ow	o w	1
+56/59	ab	a b	1
+56/61	ob	o b	1
+56/63	ow	o w	1
+56/65	ow	o w	1
+56/67	ow	o w	1
+56/69	ow	o w	1
+56/71	ob	o b	1
+56/73	ob	o b	1
+56/75	om	o m	1
+56/77	om	o m	1
+56/79	om	o m	1
+56/81	obb	o bb	1
+56/83	om	o m	1
+56/85	am	a m	1
+56/87	om	o m	1
+56/89	om	o m	1
+56/91	ahm	ah m	1
+56/93	ohm	oh m	1
+56/95	am	a m	1
+56/97	am	a m	1
+56/99	am	a m	1
+56/101	uam	ua m	1
+56/103	am	a m	1
+56/105	NA		NA
+56/107	uam	ua m	1
+56/109	uam	ua m	1
+56/111	NA		NA
+56/113	ohm	oh m	1
+56/115	ob	o b	1
+56/117	ob	o b	1
+56/121	ob	o b	1
+56/123	oab	oa b	1
+56/125	oob	oo b	1
+56/127	ob	o b	1
+56/129	oob	oo b	1
+56/131	ob	o b	1
+56/133	ob	o b	1
+56/135	ob	o b	1
+56/137	ob	o b	1
+56/139	ob	o b	1
+56/141	ob	o b	1
+56/143	aub	au b	1
+56/145	aub	au b	1
+56/147	aub	au b	1
+56/149	aub	au b	1
+56/151	aub	au b	1
+56/153	ouab	oua b	1
+56/155	aub	au b	1
+56/157	aub	au b	1
+56/159	ob	o b	1
+56/161	ob	o b	1
+57/21	of	o f	1
+57/23	ov	o v	1
+57/25	ov	o v	1
+57/27	ov	o v	1
+57/29	of	o f	1
+57/31	ohm	oh m	1
+57/33	ow	o w	1
+57/35	ooaw	ooa w	1
+57/37	ohw	oh w	1
+57/39	ow	o w	1
+57/41	ow	o w	1
+57/43	ow	o w	1
+57/45	ob	o b	1
+57/47	ow	o w	1
+57/49	ow	o w	1
+57/51	ow	o w	1
+57/53	oaw	oa w	1
+57/55	ow	o w	1
+57/57	ow	o w	1
+57/59	ow	o w	1
+57/61	ow	o w	1
+57/63	ow	o w	1
+57/65	ow	o w	1
+57/67	oow	oo w	1
+57/69	ob	o b	1
+57/71	op	o p	1
+57/73	ob	o b	1
+57/75	ob	o b	1
+57/77	ohm	oh m	1
+57/79	om	o m	1
+57/81	om	o m	1
+57/83	obb	o bb	1
+57/85	ahm	ah m	1
+57/87	ab	a b	1
+57/89	am	a m	1
+57/91	om	o m	1
+57/93	ahm	ah m	1
+57/95	nacht	n a ch t	1
+57/97	ohm	oh m	1
+57/99	NA		NA
+57/101	ab	a b	1
+57/103	ob	o b	1
+57/105	om	o m	1
+57/107	om	o m	1
+57/109	ab	a b	1
+57/111	oab	oa b	1
+57/113	am	a m	1
+57/115	aam	aa m	1
+57/117	ob	o b	1
+57/119	ab	a b	1
+57/121	ob	o b	1
+57/123	NA		NA
+57/125	ob	o b	1
+57/127	NA		NA
+57/129	NA		NA
+57/131	ob	o b	1
+57/133	NA		NA
+57/135	ob	o b	1
+57/137	NA		NA
+57/139	NA		NA
+57/141	ob	o b	1
+57/143	ob	o b	1
+57/145	NA		NA
+57/147	aub	au b	1
+57/149	aub	au b	1
+57/151	aub	au b	1
+57/153	aub	au b	1
+57/155	aub	au b	1
+57/157	aub	au b	1
+57/159	ob	o b	1
+57/161	ob	o b	1
+58/19	ov	o v	1
+58/21	av	a v	1
+58/23	ov	o v	1
+58/25	ov	o v	1
+58/27	om	o m	1
+58/29	ov	o v	1
+58/31	ov	o v	1
+58/33	ov	o v	1
+58/35	ov	o v	1
+58/37	ohv	oh v	1
+58/39	ow	o w	1
+58/41	ow	o w	1
+58/43	ab	a b	1
+58/45	ow	o w	1
+58/47	ow	o w	1
+58/49	ow	o w	1
+58/51	oaw	oa w	1
+58/53	ow	o w	1
+58/55	ow	o w	1
+58/57	ohw	oh w	1
+58/59	ow	o w	1
+58/61	ob	o b	1
+58/63	ow	o w	1
+58/65	ow	o w	1
+58/67	ow	o w	1
+58/69	ohw	oh w	1
+58/71	ob	o b	1
+58/73	ob	o b	1
+58/75	ob	o b	1
+58/77	ab	a b	1
+58/79	om	o m	1
+58/81	om	o m	1
+58/83	ab	a b	1
+58/85	am	a m	1
+58/87	NA		NA
+58/89	NA		NA
+58/91	NA		NA
+58/93	ohm	oh m	1
+58/95	ob	o b	1
+58/97	om	o m	1
+58/99	ab	a b	1
+58/101	NA		NA
+58/103	uam	ua m	1
+58/105	ub	u b	1
+58/107	ab	a b	1
+58/109	am	a m	1
+58/111	om	o m	1
+58/113	am	a m	1
+58/115	ab	a b	1
+58/117	NA		NA
+58/119	NA		NA
+58/121	NA		NA
+58/123	ab	a b	1
+58/125	ab	a b	1
+58/127	ab	a b	1
+58/129	om	o m	1
+58/131	ab	a b	1
+58/133	ab	a b	1
+58/135	NA		NA
+58/137	ob	o b	1
+58/139	ob	o b	1
+58/141	ob	o b	1
+58/143	ob	o b	1
+58/145	ob	o b	1
+58/147	aub	au b	1
+58/149	aub	au b	1
+58/151	aub	au b	1
+58/153	ob	o b	1
+58/155	ob	o b	1
+58/157	ab	a b	1
+58/159	ob	o b	1
+59/19	ow	o w	1
+59/21	of	o f	1
+59/23	ov	o v	1
+59/25	of	o f	1
+59/27	of	o f	1
+59/29	ov	o v	1
+59/31	ov	o v	1
+59/33	ohw	oh w	1
+59/35	ov	o v	1
+59/37	ov	o v	1
+59/39	ov	o v	1
+59/41	oob	oo b	1
+59/43	ow	o w	1
+59/45	ow	o w	1
+59/47	ow	o w	1
+59/49	ow	o w	1
+59/51	ow	o w	1
+59/53	ow	o w	1
+59/55	ow	o w	1
+59/57	ow	o w	1
+59/59	ow	o w	1
+59/61	ow	o w	1
+59/63	ow	o w	1
+59/65	aow	ao w	1
+59/67	ob	o b	1
+59/69	ohb	oh b	1
+59/71	ob	o b	1
+59/73	ab	a b	1
+59/75	ob	o b	1
+59/77	ab	a b	1
+59/79	obb	o bb	1
+59/81	ahm	ah m	1
+59/83	NA		NA
+59/85	ab	a b	1
+59/87	aam	aa m	1
+59/89	nächten	n ä ch t e n	1
+59/91	om	o m	1
+59/93	NA		NA
+59/95	oab	oa b	1
+59/97	om	o m	1
+59/99	ohm	oh m	1
+59/101	ob	o b	1
+59/103	ahm	ah m	1
+59/105	uhm	uh m	1
+59/107	NA		NA
+59/109	om	o m	1
+59/111	ob	o b	1
+59/113	am	a m	1
+59/115	ab	a b	1
+59/117	NA		NA
+59/119	ob	o b	1
+59/121	om	o m	1
+59/123	ob	o b	1
+59/125	ob	o b	1
+59/127	NA		NA
+59/129	ob	o b	1
+59/131	NA		NA
+59/133	ob	o b	1
+59/135	ohm	oh m	1
+59/137	NA		NA
+59/139	ob	o b	1
+59/141	ob	o b	1
+59/143	ob	o b	1
+59/145	ob	o b	1
+59/147	ob	o b	1
+59/149	ob	o b	1
+59/151	ob	o b	1
+59/153	ob	o b	1
+59/155	ob	o b	1
+59/157	NA		NA
+59/159	ob	o b	1
+59/161	ob	o b	1
+59/165	oab	oa b	1
+59/169	oob	oo b	1
+60/21	off	o ff	1
+60/23	of	o f	1
+60/25	of	o f	1
+60/27	ov	o v	1
+60/29	ov	o v	1
+60/31	ohf	oh f	1
+60/33	ov	o v	1
+60/35	NA		NA
+60/37	ov	o v	1
+60/39	ov	o v	1
+60/41	ow	o w	1
+60/43	ob	o b	1
+60/45	om	o m	1
+60/47	ow	o w	1
+60/49	ow	o w	1
+60/51	ow	o w	1
+60/53	ow	o w	1
+60/55	ow	o w	1
+60/57	ow	o w	1
+60/59	ow	o w	1
+60/61	ow	o w	1
+60/63	ow	o w	1
+60/65	oaw	oa w	1
+60/67	ob	o b	1
+60/69	ob	o b	1
+60/71	aobb	ao bb	1
+60/73	aab	aa b	1
+60/75	ob	o b	1
+60/77	ob	o b	1
+60/79	NA		NA
+60/81	om	o m	1
+60/83	NA		NA
+60/85	NA		NA
+60/87	ohm	oh m	1
+60/89	ob	o b	1
+60/91	om	o m	1
+60/93	ohm	oh m	1
+60/95	ohm	oh m	1
+60/97	ohm	oh m	1
+60/99	ob	o b	1
+60/101	ob	o b	1
+60/103	ob	o b	1
+60/105	ob	o b	1
+60/107	nächten	n ä ch t e n	1
+60/109	ohm	oh m	1
+60/111	om	o m	1
+60/113	ohm	oh m	1
+60/115	om	o m	1
+60/117	ob	o b	1
+60/119	oub	ou b	1
+60/121	oub	ou b	1
+60/123	oub	ou b	1
+60/125	ohb	oh b	1
+60/127	ub	u b	1
+60/129	ob	o b	1
+60/131	NA		NA
+60/135	ob	o b	1
+60/137	ab	a b	1
+60/139	ob	o b	1
+60/141	ob	o b	1
+60/143	NA		NA
+60/145	ob	o b	1
+60/147	ob	o b	1
+60/149	ob	o b	1
+60/151	ob	o b	1
+60/153	ob	o b	1
+60/155	ob	o b	1
+60/157	oob	oo b	1
+60/159	NA		NA
+60/163	ob	o b	1
+60/165	ab	a b	1
+61/21	ovv	o vv	1
+61/23	of	o f	1
+61/25	ov	o v	1
+61/27	ov	o v	1
+61/29	of	o f	1
+61/31	ov	o v	1
+61/33	of	o f	1
+61/35	of	o f	1
+61/37	ov	o v	1
+61/39	ow	o w	1
+61/41	ow	o w	1
+61/43	ow	o w	1
+61/45	ow	o w	1
+61/47	ow	o w	1
+61/49	ow	o w	1
+61/51	oww	o ww	1
+61/53	ow	o w	1
+61/55	ow	o w	1
+61/57	ouw	ou w	1
+61/59	ow	o w	1
+61/61	ow	o w	1
+61/63	oww	o ww	1
+61/65	aww	a ww	1
+61/67	ow	o w	1
+61/69	ob	o b	1
+61/71	aww	a ww	1
+61/73	ab	a b	1
+61/75	oaw	oa w	1
+61/77	ob	o b	1
+61/79	ob	o b	1
+61/81	ob	o b	1
+61/83	NA		NA
+61/85	NA		NA
+61/87	NA		NA
+61/89	ob	o b	1
+61/91	om	o m	1
+61/93	om	o m	1
+61/95	ohm	oh m	1
+61/97	ohm	oh m	1
+61/99	ob	o b	1
+61/101	om	o m	1
+61/103	om	o m	1
+61/105	NA		NA
+61/107	NA		NA
+61/109	nachtn	n a ch t n	1
+61/111	NA		NA
+61/113	om	o m	1
+61/115	om	o m	1
+61/117	oum	ou m	1
+61/119	oub	ou b	1
+61/121	oub	ou b	1
+61/123	ob	o b	1
+61/125	om	o m	1
+61/127	oub	ou b	1
+61/129	oub	ou b	1
+61/131	oub	ou b	1
+61/133	NA		NA
+61/137	ob	o b	1
+61/139	ob	o b	1
+61/141	ob	o b	1
+61/143	oob	oo b	1
+61/145	ob	o b	1
+61/147	ob	o b	1
+61/149	ob	o b	1
+61/151	ob	o b	1
+61/153	ob	o b	1
+61/155	ob	o b	1
+61/157	ob	o b	1
+61/159	ob	o b	1
+61/161	ob	o b	1
+61/165	ob	o b	1
+62/21	oev	oe v	1
+62/23	of	o f	1
+62/25	ov	o v	1
+62/27	ov	o v	1
+62/29	ov	o v	1
+62/31	ov	o v	1
+62/33	oov	oo v	1
+62/35	ov	o v	1
+62/37	ov	o v	1
+62/39	ow	o w	1
+62/41	ob	o b	1
+62/43	aw	a w	1
+62/45	ow	o w	1
+62/47	ow	o w	1
+62/49	ow	o w	1
+62/51	ohw	oh w	1
+62/53	ow	o w	1
+62/55	ow	o w	1
+62/57	ow	o w	1
+62/59	ouw	ou w	1
+62/61	ow	o w	1
+62/63	aw	a w	1
+62/65	ab	a b	1
+62/67	ob	o b	1
+62/69	ab	a b	1
+62/71	ab	a b	1
+62/73	aaw	aa w	1
+62/75	noicht	n oi ch t	1
+62/77	ob	o b	1
+62/79	ahm	ah m	1
+62/81	ahm	ah m	1
+62/83	oam	oa m	1
+62/85	am	a m	1
+62/87	am	a m	1
+62/89	NA		NA
+62/91	om	o m	1
+62/93	om	o m	1
+62/95	am	a m	1
+62/97	am	a m	1
+62/99	ohm	oh m	1
+62/101	om	o m	1
+62/103	ohm	oh m	1
+62/105	NA		NA
+62/107	um	u m	1
+62/109	ob	o b	1
+62/111	om	o m	1
+62/113	ohm	oh m	1
+62/115	NA		NA
+62/117	oum	ou m	1
+62/119	oum	ou m	1
+62/121	oum	ou m	1
+62/123	NA		NA
+62/125	oub	ou b	1
+62/127	NA		NA
+62/129	oub	ou b	1
+62/131	NA		NA
+62/133	ob	o b	1
+62/135	ob	o b	1
+62/137	ow	o w	1
+62/139	ow	o w	1
+62/141	om	o m	1
+62/143	ob	o b	1
+62/145	oob	oo b	1
+62/147	ob	o b	1
+62/149	ob	o b	1
+62/151	ob	o b	1
+62/153	aub	au b	1
+62/155	ob	o b	1
+62/157	ob	o b	1
+62/159	ob	o b	1
+62/161	ob	o b	1
+63/21	ov	o v	1
+63/23	ov	o v	1
+63/25	of	o f	1
+63/27	ov	o v	1
+63/29	ov	o v	1
+63/31	ov	o v	1
+63/33	of	o f	1
+63/35	ow	o w	1
+63/37	ow	o w	1
+63/39	oow	oo w	1
+63/41	ow	o w	1
+63/43	ow	o w	1
+63/45	ob	o b	1
+63/47	ow	o w	1
+63/49	ow	o w	1
+63/51	ow	o w	1
+63/53	ow	o w	1
+63/55	ow	o w	1
+63/57	ow	o w	1
+63/59	oww	o ww	1
+63/61	ow	o w	1
+63/63	ab	a b	1
+63/65	ob	o b	1
+63/67	ow	o w	1
+63/69	aw	a w	1
+63/71	NA		NA
+63/73	ab	a b	1
+63/75	ob	o b	1
+63/77	aw	a w	1
+63/79	ab	a b	1
+63/81	am	a m	1
+63/83	ahm	ah m	1
+63/85	ob	o b	1
+63/87	am	a m	1
+63/89	ob	o b	1
+63/91	omm	o mm	1
+63/93	ohm	oh m	1
+63/95	ohm	oh m	1
+63/97	ob	o b	1
+63/99	ohm	oh m	1
+63/101	om	o m	1
+63/103	oom	oo m	1
+63/105	om	o m	1
+63/107	ob	o b	1
+63/109	ob	o b	1
+63/111	om	o m	1
+63/113	om	o m	1
+63/115	ob	o b	1
+63/117	oub	ou b	1
+63/119	oub	ou b	1
+63/121	oub	ou b	1
+63/123	NA		NA
+63/125	um	u m	1
+63/127	oub	ou b	1
+63/135	om	o m	1
+63/137	ow	o w	1
+63/139	NA		NA
+63/141	NA		NA
+63/143	NA		NA
+63/145	om	o m	1
+63/147	oob	oo b	1
+63/149	ob	o b	1
+63/151	ohb	oh b	1
+63/153	ob	o b	1
+63/155	ob	o b	1
+63/157	ob	o b	1
+63/159	ob	o b	1
+63/161	ob	o b	1
+63/163	ob	o b	1
+63/165	ob	o b	1
+64/23	ov	o v	1
+64/25	ohf	oh f	1
+64/27	ov	o v	1
+64/29	ov	o v	1
+64/31	ov	o v	1
+64/33	of	o f	1
+64/35	ow	o w	1
+64/37	ow	o w	1
+64/39	ow	o w	1
+64/41	oaw	oa w	1
+64/43	ow	o w	1
+64/45	ow	o w	1
+64/47	ob	o b	1
+64/49	ow	o w	1
+64/51	ow	o w	1
+64/53	ow	o w	1
+64/55	ow	o w	1
+64/57	ow	o w	1
+64/59	ow	o w	1
+64/61	oaw	oa w	1
+64/63	aob	ao b	1
+64/65	ob	o b	1
+64/67	ab	a b	1
+64/69	aw	a w	1
+64/71	ab	a b	1
+64/73	ab	a b	1
+64/75	ob	o b	1
+64/77	ob	o b	1
+64/79	nachte	n a ch t e	1
+64/81	ach	a ch	1
+64/83	am	a m	1
+64/85	NA		NA
+64/87	am	a m	1
+64/89	am	a m	1
+64/91	ob	o b	1
+64/93	am	a m	1
+64/95	um	u m	1
+64/97	aam	aa m	1
+64/99	om	o m	1
+64/101	ohm	oh m	1
+64/103	ohm	oh m	1
+64/105	ob	o b	1
+64/107	ohm	oh m	1
+64/109	om	o m	1
+64/111	om	o m	1
+64/113	om	o m	1
+64/115	NA		NA
+64/117	om	o m	1
+64/119	oub	ou b	1
+64/121	oub	ou b	1
+64/123	ob	o b	1
+64/125	ob	o b	1
+64/127	ob	o b	1
+64/135	ow	o w	1
+64/137	oob	oo b	1
+64/139	NA		NA
+64/141	ob	o b	1
+64/143	ob	o b	1
+64/145	ohm	oh m	1
+64/147	ob	o b	1
+64/149	ob	o b	1
+64/151	ohm	oh m	1
+64/153	ob	o b	1
+64/155	ob	o b	1
+64/157	ob	o b	1
+64/159	ob	o b	1
+65/21	of	o f	1
+65/23	ov	o v	1
+65/25	ov	o v	1
+65/27	ov	o v	1
+65/29	ov	o v	1
+65/31	ov	o v	1
+65/33	ov	o v	1
+65/35	ow	o w	1
+65/37	om	o m	1
+65/39	om	o m	1
+65/41	ow	o w	1
+65/43	ow	o w	1
+65/45	ob	o b	1
+65/47	ow	o w	1
+65/49	ohw	oh w	1
+65/51	ow	o w	1
+65/53	NA		NA
+65/55	ow	o w	1
+65/57	ob	o b	1
+65/59	ow	o w	1
+65/61	ow	o w	1
+65/63	aw	a w	1
+65/65	ab	a b	1
+65/67	oab	oa b	1
+65/69	oab	oa b	1
+65/71	ob	o b	1
+65/73	ob	o b	1
+65/75	oab	oa b	1
+65/77	oab	oa b	1
+65/79	NA		NA
+65/81	am	a m	1
+65/83	om	o m	1
+65/85	NA		NA
+65/87	ohm	oh m	1
+65/89	am	a m	1
+65/91	NA		NA
+65/93	am	a m	1
+65/95	uhm	uh m	1
+65/97	um	u m	1
+65/101	om	o m	1
+65/103	ohm	oh m	1
+65/105	om	o m	1
+65/107	om	o m	1
+65/109	om	o m	1
+65/111	NA		NA
+65/113	NA		NA
+65/115	om	o m	1
+65/121	oub	ou b	1
+65/123	ob	o b	1
+65/137	NA		NA
+65/139	oub	ou b	1
+65/143	ob	o b	1
+65/145	ob	o b	1
+65/147	ob	o b	1
+65/149	ohm	oh m	1
+65/151	om	o m	1
+65/153	ob	o b	1
+65/155	ob	o b	1
+65/157	ob	o b	1
+65/159	ob	o b	1
+66/21	oof	oo f	1
+66/23	ov	o v	1
+66/25	ow	o w	1
+66/27	of	o f	1
+66/29	ow	o w	1
+66/31	ow	o w	1
+66/33	ow	o w	1
+66/35	om	o m	1
+66/37	om	o m	1
+66/39	om	o m	1
+66/41	ow	o w	1
+66/43	ow	o w	1
+66/45	ow	o w	1
+66/47	ow	o w	1
+66/49	ow	o w	1
+66/51	ow	o w	1
+66/53	ow	o w	1
+66/55	ow	o w	1
+66/57	ow	o w	1
+66/59	ob	o b	1
+66/61	oob	oo b	1
+66/63	oaw	oa w	1
+66/65	ob	o b	1
+66/67	ob	o b	1
+66/69	ow	o w	1
+66/71	ob	o b	1
+66/73	NA		NA
+66/75	ob	o b	1
+66/77	am	a m	1
+66/79	am	a m	1
+66/81	om	o m	1
+66/83	om	o m	1
+66/85	om	o m	1
+66/87	ahm	ah m	1
+66/89	om	o m	1
+66/91	am	a m	1
+66/93	um	u m	1
+66/95	ub	u b	1
+66/97	ohm	oh m	1
+66/99	om	o m	1
+66/101	om	o m	1
+66/103	om	o m	1
+66/105	om	o m	1
+66/107	oom	oo m	1
+66/109	ohm	oh m	1
+66/111	oom	oo m	1
+66/113	oom	oo m	1
+66/121	oub	ou b	1
+66/139	oow	oo w	1
+66/143	ow	o w	1
+66/145	ob	o b	1
+66/147	om	o m	1
+66/149	ob	o b	1
+66/151	ow	o w	1
+66/153	NA		NA
+66/155	om	o m	1
+66/157	ob	o b	1
+66/159	NA		NA
+66/161	ob	o b	1
+66/163	ob	o b	1
+67/21	ow	o w	1
+67/23	ov	o v	1
+67/25	ow	o w	1
+67/27	of	o f	1
+67/29	ow	o w	1
+67/31	ow	o w	1
+67/33	ow	o w	1
+67/35	om	o m	1
+67/37	ow	o w	1
+67/39	ow	o w	1
+67/41	ow	o w	1
+67/43	ow	o w	1
+67/45	ow	o w	1
+67/47	ob	o b	1
+67/49	ow	o w	1
+67/51	ow	o w	1
+67/53	ow	o w	1
+67/55	ow	o w	1
+67/57	ow	o w	1
+67/59	ob	o b	1
+67/61	ow	o w	1
+67/63	oow	oo w	1
+67/65	ob	o b	1
+67/67	ab	a b	1
+67/69	oaw	oa w	1
+67/71	oab	oa b	1
+67/73	ob	o b	1
+67/75	NA		NA
+67/77	ab	a b	1
+67/79	om	o m	1
+67/81	omm	o mm	1
+67/83	NA		NA
+67/85	om	o m	1
+67/87	ab	a b	1
+67/89	am	a m	1
+67/91	aahm	aah m	1
+67/93	am	a m	1
+67/95	am	a m	1
+67/97	am	a m	1
+67/99	oom	oo m	1
+67/101	NA		NA
+67/103	om	o m	1
+67/105	om	o m	1
+67/107	om	o m	1
+67/109	om	o m	1
+67/111	oom	oo m	1
+67/113	om	o m	1
+67/143	om	o m	1
+67/145	ob	o b	1
+67/147	NA		NA
+67/149	ob	o b	1
+67/151	ob	o b	1
+67/153	ob	o b	1
+67/155	ob	o b	1
+67/157	ob	o b	1
+67/159	ob	o b	1
+67/161	NA		NA
+67/163	ob	o b	1
+67/165	ob	o b	1
+67/177	ob	o b	1
+68/21	ov	o v	1
+68/23	ow	o w	1
+68/25	oem	oe m	1
+68/27	oaw	oa w	1
+68/29	ow	o w	1
+68/31	oow	oo w	1
+68/33	oerm	oe r m	1
+68/35	ow	o w	1
+68/37	ow	o w	1
+68/39	ow	o w	1
+68/41	ow	o w	1
+68/43	ow	o w	1
+68/45	ob	o b	1
+68/47	ow	o w	1
+68/49	ow	o w	1
+68/51	ow	o w	1
+68/53	ow	o w	1
+68/55	ow	o w	1
+68/57	ow	o w	1
+68/59	ow	o w	1
+68/61	ow	o w	1
+68/63	ob	o b	1
+68/65	ob	o b	1
+68/67	nacht	n a ch t	1
+68/69	ob	o b	1
+68/71	oob	oo b	1
+68/73	oab	oa b	1
+68/75	ab	a b	1
+68/77	oom	oo m	1
+68/79	om	o m	1
+68/81	ohm	oh m	1
+68/83	om	o m	1
+68/85	om	o m	1
+68/87	am	a m	1
+68/89	NA		NA
+68/91	am	a m	1
+68/93	amb	a m b	1
+68/95	NA		NA
+68/97	oum	ou m	1
+68/99	om	o m	1
+68/101	NA		NA
+68/103	oam	oa m	1
+68/105	om	o m	1
+68/107	oum	ou m	1
+68/109	ohm	oh m	1
+68/111	ohm	oh m	1
+68/145	ow	o w	1
+68/147	ow	o w	1
+68/149	NA		NA
+68/151	omb	o m b	1
+68/153	om	o m	1
+68/155	ob	o b	1
+68/157	ob	o b	1
+68/159	ob	o b	1
+68/161	ob	o b	1
+68/165	ab	a b	1
+69/19	oov	oo v	1
+69/23	ow	o w	1
+69/25	aw	a w	1
+69/27	ow	o w	1
+69/29	oaw	oa w	1
+69/31	oow	oo w	1
+69/33	ow	o w	1
+69/35	ohm	oh m	1
+69/37	ow	o w	1
+69/39	ow	o w	1
+69/41	ow	o w	1
+69/43	ow	o w	1
+69/45	ow	o w	1
+69/47	ow	o w	1
+69/49	ow	o w	1
+69/51	ob	o b	1
+69/53	ob	o b	1
+69/55	ow	o w	1
+69/57	ob	o b	1
+69/59	ob	o b	1
+69/61	ob	o b	1
+69/63	aab	aa b	1
+69/65	oab	oa b	1
+69/67	NA		NA
+69/69	oab	oa b	1
+69/71	ab	a b	1
+69/73	ab	a b	1
+69/75	ab	a b	1
+69/77	aam	aa m	1
+69/79	om	o m	1
+69/81	om	o m	1
+69/83	am	a m	1
+69/85	om	o m	1
+69/87	am	a m	1
+69/89	am	a m	1
+69/91	NA		NA
+69/93	am	a m	1
+69/95	om	o m	1
+69/97	NA		NA
+69/99	NA		NA
+69/101	ob	o b	1
+69/103	oum	ou m	1
+69/105	aum	au m	1
+69/107	ahm	ah m	1
+69/109	NA		NA
+69/111	om	o m	1
+69/147	ob	o b	1
+69/149	om	o m	1
+69/151	ob	o b	1
+69/153	ob	o b	1
+69/157	om	o m	1
+69/159	ob	o b	1
+69/161	ob	o b	1
+69/163	ow	o w	1
+69/165	NA		NA
+70/19	oow	oo w	1
+70/23	ow	o w	1
+70/25	ow	o w	1
+70/27	ow	o w	1
+70/29	ow	o w	1
+70/31	ow	o w	1
+70/33	om	o m	1
+70/35	ow	o w	1
+70/37	ow	o w	1
+70/39	ow	o w	1
+70/41	ow	o w	1
+70/43	ow	o w	1
+70/45	ob	o b	1
+70/47	ow	o w	1
+70/49	ow	o w	1
+70/51	NA		NA
+70/53	ow	o w	1
+70/55	ow	o w	1
+70/57	NA		NA
+70/59	ob	o b	1
+70/61	nohrt	n oh r t	1
+70/63	ab	a b	1
+70/65	ab	a b	1
+70/67	ob	o b	1
+70/69	NA		NA
+70/71	ab	a b	1
+70/73	ab	a b	1
+70/75	ab	a b	1
+70/77	am	a m	1
+70/79	am	a m	1
+70/81	amm	a mm	1
+70/83	om	o m	1
+70/85	om	o m	1
+70/87	om	o m	1
+70/89	om	o m	1
+70/91	ab	a b	1
+70/93	aum	au m	1
+70/95	nochts	n o ch t s	1
+70/97	oum	ou m	1
+70/99	om	o m	1
+70/101	oum	ou m	1
+70/103	aub	au b	1
+70/105	oam	oa m	1
+70/107	omb	o m b	1
+70/109	om	o m	1
+70/111	oom	oo m	1
+70/145	om	o m	1
+70/147	ob	o b	1
+70/149	ob	o b	1
+70/151	ob	o b	1
+70/153	ob	o b	1
+70/155	oob	oo b	1
+70/157	ob	o b	1
+70/159	om	o m	1
+70/161	ob	o b	1
+70/163	ohw	oh w	1
+70/165	ow	o w	1
+71/17	ov	o v	1
+71/19	ow	o w	1
+71/21	ow	o w	1
+71/23	oaw	oa w	1
+71/25	oaw	oa w	1
+71/27	oaw	oa w	1
+71/29	oab	oa b	1
+71/31	oaw	oa w	1
+71/33	ow	o w	1
+71/35	ow	o w	1
+71/37	om	o m	1
+71/39	ow	o w	1
+71/41	ow	o w	1
+71/43	ow	o w	1
+71/45	ow	o w	1
+71/47	ow	o w	1
+71/49	ow	o w	1
+71/51	ow	o w	1
+71/53	ow	o w	1
+71/55	NA		NA
+71/57	aob	ao b	1
+71/59	oab	oa b	1
+71/63	oab	oa b	1
+71/65	noachts	n oa ch t s	1
+71/67	aw	a w	1
+71/69	ab	a b	1
+71/71	ab	a b	1
+71/73	ab	a b	1
+71/75	nacht	n a ch t	1
+71/77	aom	ao m	1
+71/79	om	o m	1
+71/81	NA		NA
+71/83	om	o m	1
+71/85	nacht	n a ch t	1
+71/87	ohm	oh m	1
+71/89	oab	oa b	1
+71/91	om	o m	1
+71/93	aom	ao m	1
+71/95	aoum	aou m	1
+71/97	am	a m	1
+71/99	NA		NA
+71/101	om	o m	1
+71/103	NA		NA
+71/105	NA		NA
+71/145	oom	oo m	1
+71/147	om	o m	1
+71/149	ob	o b	1
+71/151	ab	a b	1
+71/153	ohm	oh m	1
+71/155	oub	ou b	1
+71/157	ob	o b	1
+71/159	om	o m	1
+71/161	oom	oo m	1
+71/163	ob	o b	1
+71/177	öw	ö w	1
+71/179	ob	o b	1
+72/17	ow	o w	1
+72/19	ow	o w	1
+72/21	ov	o v	1
+72/23	ow	o w	1
+72/25	oow	oo w	1
+72/27	ow	o w	1
+72/29	ow	o w	1
+72/31	oaw	oa w	1
+72/33	ow	o w	1
+72/35	ow	o w	1
+72/37	ow	o w	1
+72/39	ow	o w	1
+72/41	ow	o w	1
+72/43	ow	o w	1
+72/45	ow	o w	1
+72/47	ow	o w	1
+72/49	ow	o w	1
+72/51	ow	o w	1
+72/53	ow	o w	1
+72/55	ow	o w	1
+72/57	ob	o b	1
+72/59	ob	o b	1
+72/61	NA		NA
+72/63	NA		NA
+72/65	ab	a b	1
+72/67	ab	a b	1
+72/69	ab	a b	1
+72/71	NA		NA
+72/73	ab	a b	1
+72/75	am	a m	1
+72/77	ab	a b	1
+72/79	oom	oo m	1
+72/81	NA		NA
+72/83	am	a m	1
+72/85	NA		NA
+72/87	am	a m	1
+72/89	ab	a b	1
+72/91	am	a m	1
+72/93	ab	a b	1
+72/95	oab	oa b	1
+72/97	aum	au m	1
+72/99	om	o m	1
+72/101	om	o m	1
+72/103	om	o m	1
+72/105	aom	ao m	1
+72/107	oum	ou m	1
+72/145	NA		NA
+72/147	om	o m	1
+72/149	um	u m	1
+72/151	uub	uu b	1
+72/153	ob	o b	1
+72/155	NA		NA
+72/157	oub	ou b	1
+72/159	ob	o b	1
+72/161	ob	o b	1
+72/177	ow	o w	1
+72/179	ow	o w	1
+72/181	nacht	n a ch t	1
+73/17	ow	o w	1
+73/19	oov	oo v	1
+73/21	ow	o w	1
+73/23	ow	o w	1
+73/25	oow	oo w	1
+73/27	oaw	oa w	1
+73/29	oaw	oa w	1
+73/31	ow	o w	1
+73/33	ow	o w	1
+73/35	ow	o w	1
+73/37	ow	o w	1
+73/39	ow	o w	1
+73/41	ow	o w	1
+73/43	ow	o w	1
+73/45	ow	o w	1
+73/47	ow	o w	1
+73/49	ow	o w	1
+73/51	ow	o w	1
+73/53	ow	o w	1
+73/55	ow	o w	1
+73/57	ow	o w	1
+73/59	NA		NA
+73/61	ow	o w	1
+73/63	ob	o b	1
+73/65	nachts	n a ch t s	1
+73/67	ab	a b	1
+73/69	ab	a b	1
+73/71	ab	a b	1
+73/73	ob	o b	1
+73/75	am	a m	1
+73/77	am	a m	1
+73/79	NA		NA
+73/81	am	a m	1
+73/83	am	a m	1
+73/85	nächtn	n ä ch t n	1
+73/87	am	a m	1
+73/89	ab	a b	1
+73/91	oub	ou b	1
+73/93	äum	äu m	1
+73/95	äum	äu m	1
+73/97	am	a m	1
+73/99	om	o m	1
+73/101	aub	au b	1
+73/103	om	o m	1
+73/105	NA		NA
+73/107	nocht	n o ch t	1
+73/145	NA		NA
+73/147	NA		NA
+73/149	uhm	uh m	1
+73/151	um	u m	1
+73/153	ob	o b	1
+73/155	ob	o b	1
+73/157	ob	o b	1
+73/159	ob	o b	1
+73/161	ob	o b	1
+73/163	NA		NA
+73/165	ob	o b	1
+73/175	ow	o w	1
+73/177	oow	oo w	1
+74/19	ow	o w	1
+74/21	ow	o w	1
+74/23	ow	o w	1
+74/25	ow	o w	1
+74/27	ow	o w	1
+74/29	ow	o w	1
+74/31	ow	o w	1
+74/33	ow	o w	1
+74/35	ow	o w	1
+74/37	ow	o w	1
+74/39	ow	o w	1
+74/41	ow	o w	1
+74/43	ow	o w	1
+74/45	ow	o w	1
+74/47	ob	o b	1
+74/49	ow	o w	1
+74/51	oow	oo w	1
+74/53	ob	o b	1
+74/55	ow	o w	1
+74/57	ow	o w	1
+74/59	ob	o b	1
+74/61	ow	o w	1
+74/63	ow	o w	1
+74/65	NA		NA
+74/67	ob	o b	1
+74/69	ab	a b	1
+74/71	aw	a w	1
+74/73	ab	a b	1
+74/75	ab	a b	1
+74/77	am	a m	1
+74/79	am	a m	1
+74/81	NA		NA
+74/83	am	a m	1
+74/85	am	a m	1
+74/87	auum	auu m	1
+74/89	nacht	n a ch t	1
+74/91	aaum	aau m	1
+74/93	aoum	aou m	1
+74/95	ab	a b	1
+74/97	ab	a b	1
+74/99	oob	oo b	1
+74/101	om	o m	1
+74/103	om	o m	1
+74/105	aum	au m	1
+74/107	aom	ao m	1
+74/109	NA		NA
+74/145	NA		NA
+74/147	nocht	n o ch t	1
+74/149	nacht	n a ch t	1
+74/153	ob	o b	1
+74/155	nocht	n o ch t	1
+74/157	NA		NA
+74/159	ob	o b	1
+74/161	ob	o b	1
+74/163	ow	o w	1
+74/165	ow	o w	1
+75/19	ov	o v	1
+75/21	ow	o w	1
+75/23	ow	o w	1
+75/25	ow	o w	1
+75/27	oaw	oa w	1
+75/29	ow	o w	1
+75/31	ow	o w	1
+75/33	ow	o w	1
+75/35	ow	o w	1
+75/37	ow	o w	1
+75/39	ow	o w	1
+75/41	ob	o b	1
+75/43	ow	o w	1
+75/45	ow	o w	1
+75/47	ow	o w	1
+75/49	ow	o w	1
+75/51	ow	o w	1
+75/53	ow	o w	1
+75/55	ow	o w	1
+75/57	ow	o w	1
+75/59	NA		NA
+75/61	ow	o w	1
+75/63	ob	o b	1
+75/65	ob	o b	1
+75/67	nocht	n o ch t	1
+75/69	NA		NA
+75/71	aw	a w	1
+75/73	NA		NA
+75/75	am	a m	1
+75/77	am	a m	1
+75/79	am	a m	1
+75/81	am	a m	1
+75/83	oab	oa b	1
+75/85	am	a m	1
+75/87	ab	a b	1
+75/89	oum	ou m	1
+75/91	oub	ou b	1
+75/93	aoum	aou m	1
+75/95	äub	äu b	1
+75/97	aaumb	aau m b	1
+75/99	am	a m	1
+75/101	obm	o b m	1
+75/103	oom	oo m	1
+75/105	om	o m	1
+75/107	oumb	ou m b	1
+75/135	om	o m	1
+75/145	NA		NA
+75/147	um	u m	1
+75/149	nocht	n o ch t	1
+75/155	ob	o b	1
+75/157	oub	ou b	1
+75/159	NA		NA
+75/161	ob	o b	1
+75/163	NA		NA
+75/165	ob	o b	1
+76/19	ow	o w	1
+76/21	ow	o w	1
+76/23	ow	o w	1
+76/25	ow	o w	1
+76/27	ow	o w	1
+76/29	ow	o w	1
+76/33	ow	o w	1
+76/35	ow	o w	1
+76/37	ow	o w	1
+76/39	ow	o w	1
+76/41	aw	a w	1
+76/43	ow	o w	1
+76/45	ow	o w	1
+76/47	ow	o w	1
+76/49	ow	o w	1
+76/51	oub	ou b	1
+76/53	ow	o w	1
+76/55	ob	o b	1
+76/57	ow	o w	1
+76/59	ow	o w	1
+76/61	ow	o w	1
+76/63	ow	o w	1
+76/65	ow	o w	1
+76/67	ob	o b	1
+76/69	ow	o w	1
+76/71	ob	o b	1
+76/73	ab	a b	1
+76/75	am	a m	1
+76/77	oab	oa b	1
+76/79	oub	ou b	1
+76/81	ob	o b	1
+76/83	am	a m	1
+76/85	oam	oa m	1
+76/87	am	a m	1
+76/89	ab	a b	1
+76/91	NA		NA
+76/93	oum	ou m	1
+76/95	aum	au m	1
+76/97	oum	ou m	1
+76/99	oub	ou b	1
+76/101	oum	ou m	1
+76/103	nocht	n o ch t	1
+76/135	omm	o mm	1
+76/137	am	a m	1
+76/149	oobm	oo b m	1
+76/151	ob	o b	1
+76/155	oub	ou b	1
+76/161	ow	o w	1
+76/163	ob	o b	1
+76/165	ow	o w	1
+77/19	ow	o w	1
+77/21	ow	o w	1
+77/23	ow	o w	1
+77/25	oouw	oou w	1
+77/27	om	o m	1
+77/29	ow	o w	1
+77/31	ow	o w	1
+77/33	ohw	oh w	1
+77/35	oum	ou m	1
+77/37	ow	o w	1
+77/39	ow	o w	1
+77/41	ow	o w	1
+77/43	oow	oo w	1
+77/47	ow	o w	1
+77/49	ow	o w	1
+77/51	oow	oo w	1
+77/53	oow	oo w	1
+77/55	ouw	ou w	1
+77/57	ow	o w	1
+77/59	aw	a w	1
+77/61	aw	a w	1
+77/63	NA		NA
+77/65	ow	o w	1
+77/67	ob	o b	1
+77/69	oob	oo b	1
+77/71	oab	oa b	1
+77/73	ab	a b	1
+77/75	ab	a b	1
+77/77	NA		NA
+77/79	oab	oa b	1
+77/81	oab	oa b	1
+77/83	am	a m	1
+77/85	ab	a b	1
+77/87	am	a m	1
+77/89	oum	ou m	1
+77/91	ab	a b	1
+77/93	oub	ou b	1
+77/95	aum	au m	1
+77/97	oab	oa b	1
+77/99	om	o m	1
+77/101	NA		NA
+77/103	oum	ou m	1
+77/135	nocht	n o ch t	1
+77/137	NA		NA
+78/21	ow	o w	1
+78/23	of	o f	1
+78/25	om	o m	1
+78/27	oam	oa m	1
+78/29	ow	o w	1
+78/31	oaw	oa w	1
+78/33	ow	o w	1
+78/35	ob	o b	1
+78/37	oow	oo w	1
+78/39	ow	o w	1
+78/41	ob	o b	1
+78/45	ow	o w	1
+78/47	ow	o w	1
+78/49	ow	o w	1
+78/51	oow	oo w	1
+78/53	ow	o w	1
+78/55	ow	o w	1
+78/57	ow	o w	1
+78/59	ow	o w	1
+78/61	ow	o w	1
+78/63	ouw	ou w	1
+78/65	ob	o b	1
+78/67	oaw	oa w	1
+78/69	ow	o w	1
+78/71	oaw	oa w	1
+78/73	oam	oa m	1
+78/75	ab	a b	1
+78/77	aam	aa m	1
+78/79	am	a m	1
+78/81	NA		NA
+78/83	ab	a b	1
+78/85	NA		NA
+78/87	aaum	aau m	1
+78/89	aum	au m	1
+78/91	oum	ou m	1
+78/93	aaum	aau m	1
+78/95	om	o m	1
+78/97	NA		NA
+78/99	aahm	aah m	1
+78/101	naacht	n aa ch t	1
+78/103	NA		NA
+78/105	nacht	n a ch t	1
+78/135	om	o m	1
+78/193	ob	o b	1
+79/21	ow	o w	1
+79/23	ow	o w	1
+79/25	ow	o w	1
+79/27	ov	o v	1
+79/29	ow	o w	1
+79/31	ohw	oh w	1
+79/33	ow	o w	1
+79/35	oow	oo w	1
+79/37	ow	o w	1
+79/39	ow	o w	1
+79/43	oob	oo b	1
+79/45	ohw	oh w	1
+79/47	ob	o b	1
+79/49	ow	o w	1
+79/51	ow	o w	1
+79/53	oow	oo w	1
+79/55	ow	o w	1
+79/57	ow	o w	1
+79/59	ow	o w	1
+79/61	ow	o w	1
+79/63	NA		NA
+79/65	ow	o w	1
+79/67	NA		NA
+79/69	ob	o b	1
+79/71	oab	oa b	1
+79/73	oab	oa b	1
+79/75	oam	oa m	1
+79/77	NA		NA
+79/79	oub	ou b	1
+79/81	am	a m	1
+79/83	aoub	aou b	1
+79/85	oum	ou m	1
+79/87	oub	ou b	1
+79/89	oum	ou m	1
+79/91	aum	au m	1
+79/93	oub	ou b	1
+79/95	om	o m	1
+79/97	am	a m	1
+79/99	NA		NA
+79/101	om	o m	1
+79/103	ooam	ooa m	1
+79/105	nocht	n o ch t	1
+79/107	noacht	n oa ch t	1
+79/133	nocht	n o ch t	1
+79/135	ob	o b	1
+79/193	äub	äu b	1
+79/195	äum	äu m	1
+79/197	oob	oo b	1
+80/25	ouw	ou w	1
+80/27	ow	o w	1
+80/29	oaw	oa w	1
+80/31	omm	o mm	1
+80/33	ow	o w	1
+80/35	ow	o w	1
+80/37	ow	o w	1
+80/39	ob	o b	1
+80/41	ow	o w	1
+80/43	ow	o w	1
+80/45	ow	o w	1
+80/47	ow	o w	1
+80/49	ow	o w	1
+80/51	oow	oo w	1
+80/53	ow	o w	1
+80/55	oow	oo w	1
+80/57	ow	o w	1
+80/59	oow	oo w	1
+80/61	oow	oo w	1
+80/63	ow	o w	1
+80/65	aw	a w	1
+80/67	oow	oo w	1
+80/69	NA		NA
+80/71	oab	oa b	1
+80/73	oab	oa b	1
+80/75	om	o m	1
+80/77	oam	oa m	1
+80/79	ab	a b	1
+80/81	am	a m	1
+80/83	aum	au m	1
+80/85	NA		NA
+80/87	oam	oa m	1
+80/89	oum	ou m	1
+80/91	ooum	oou m	1
+80/93	NA		NA
+80/95	NA		NA
+80/97	nocht	n o ch t	1
+80/99	NA		NA
+80/101	om	o m	1
+80/103	am	a m	1
+80/105	naacht	n aa ch t	1
+80/107	om	o m	1
+80/109	nocht	n o ch t	1
+80/127	nocht	n o ch t	1
+80/147	ob	o b	1
+80/151	noucht	n ou ch t	1
+80/153	NA		NA
+80/193	äum	äu m	1
+80/195	äub	äu b	1
+81/25	NA		NA
+81/27	ow	o w	1
+81/29	ow	o w	1
+81/31	ow	o w	1
+81/33	aaw	aa w	1
+81/35	oow	oo w	1
+81/37	ow	o w	1
+81/39	ow	o w	1
+81/43	ow	o w	1
+81/45	ow	o w	1
+81/47	ow	o w	1
+81/49	ob	o b	1
+81/51	NA		NA
+81/53	ohw	oh w	1
+81/55	ow	o w	1
+81/57	oow	oo w	1
+81/59	ow	o w	1
+81/61	oaw	oa w	1
+81/63	ow	o w	1
+81/65	ow	o w	1
+81/67	oow	oo w	1
+81/69	aw	a w	1
+81/71	ow	o w	1
+81/73	ob	o b	1
+81/75	oob	oo b	1
+81/77	oam	oa m	1
+81/79	ab	a b	1
+81/81	aum	au m	1
+81/83	oum	ou m	1
+81/85	aoum	aou m	1
+81/87	oum	ou m	1
+81/89	aum	au m	1
+81/91	om	o m	1
+81/93	om	o m	1
+81/95	ob	o b	1
+81/97	nacht	n a ch t	1
+81/99	NA		NA
+81/101	nacht	n a ch t	1
+81/103	om	o m	1
+81/105	nacht	n a ch t	1
+81/107	nocht	n o ch t	1
+81/109	nocht	n o ch t	1
+81/111	nacht	n a ch t	1
+81/127	nocht	n o ch t	1
+81/129	NA		NA
+81/133	nocht	n o ch t	1
+81/147	ob	o b	1
+81/191	äub	äu b	1
+81/193	eub	eu b	1
+81/195	NA		NA
+82/27	aw	a w	1
+82/29	ow	o w	1
+82/31	ow	o w	1
+82/33	ow	o w	1
+82/35	ow	o w	1
+82/37	ow	o w	1
+82/39	ow	o w	1
+82/41	ow	o w	1
+82/43	ow	o w	1
+82/45	ow	o w	1
+82/47	ow	o w	1
+82/49	ow	o w	1
+82/51	ow	o w	1
+82/53	oob	oo b	1
+82/55	oob	oo b	1
+82/57	NA		NA
+82/59	ob	o b	1
+82/61	ob	o b	1
+82/63	NA		NA
+82/65	oaw	oa w	1
+82/67	ow	o w	1
+82/69	oob	oo b	1
+82/71	ob	o b	1
+82/73	oob	oo b	1
+82/75	oob	oo b	1
+82/77	oub	ou b	1
+82/79	oub	ou b	1
+82/81	oub	ou b	1
+82/83	oum	ou m	1
+82/85	oum	ou m	1
+82/87	oum	ou m	1
+82/89	om	o m	1
+82/91	om	o m	1
+82/93	om	o m	1
+82/95	om	o m	1
+82/97	nacht	n a ch t	1
+82/99	nacht	n a ch t	1
+82/101	NA		NA
+82/103	NA		NA
+82/105	nacht	n a ch t	1
+82/107	nocht	n o ch t	1
+82/111	nocht	n o ch t	1
+82/113	NA		NA
+82/117	nocht	n o ch t	1
+82/129	nocht	n o ch t	1
+82/131	nocht	n o ch t	1
+82/133	nocht	n o ch t	1
+82/135	nocht	n o ch t	1
+82/145	nocht	n o ch t	1
+82/147	nocht	n o ch t	1
+82/191	äub	äu b	1
+82/195	äub	äu b	1
+83/27	ow	o w	1
+83/29	noocht	n oo ch t	1
+83/31	oow	oo w	1
+83/33	NA		NA
+83/35	ow	o w	1
+83/37	ow	o w	1
+83/39	ow	o w	1
+83/41	oow	oo w	1
+83/43	oow	oo w	1
+83/45	ow	o w	1
+83/47	ob	o b	1
+83/49	ow	o w	1
+83/51	ob	o b	1
+83/53	oob	oo b	1
+83/55	ob	o b	1
+83/57	oow	oo w	1
+83/59	ob	o b	1
+83/61	ab	a b	1
+83/63	ob	o b	1
+83/65	ow	o w	1
+83/67	oob	oo b	1
+83/69	oob	oo b	1
+83/71	ob	o b	1
+83/73	ob	o b	1
+83/75	oob	oo b	1
+83/77	aub	au b	1
+83/79	oub	ou b	1
+83/81	ob	o b	1
+83/83	NA		NA
+83/85	oum	ou m	1
+83/87	aomm	ao mm	1
+83/89	ob	o b	1
+83/91	nacht	n a ch t	1
+83/93	nacht	n a ch t	1
+83/95	nacht	n a ch t	1
+83/97	om	o m	1
+83/99	NA		NA
+83/101	nacht	n a ch t	1
+83/103	nacht	n a ch t	1
+83/105	om	o m	1
+83/107	aam	aa m	1
+83/111	nocht	n o ch t	1
+83/113	NA		NA
+83/115	nocht	n o ch t	1
+83/117	nocht	n o ch t	1
+83/119	nocht	n o ch t	1
+83/121	om	o m	1
+83/129	nocht	n o ch t	1
+83/131	nocht	n o ch t	1
+83/133	NA		NA
+83/135	nocht	n o ch t	1
+83/139	nocht	n o ch t	1
+83/143	nocht	n o ch t	1
+83/145	nocht	n o ch t	1
+83/147	NA		NA
+83/149	oub	ou b	1
+83/173	öm	ö m	1
+83/195	aub	au b	1
+84/31	ow	o w	1
+84/33	ow	o w	1
+84/35	ow	o w	1
+84/37	ow	o w	1
+84/39	oow	oo w	1
+84/41	ow	o w	1
+84/43	NA		NA
+84/45	NA		NA
+84/47	ow	o w	1
+84/49	oow	oo w	1
+84/51	ow	o w	1
+84/53	ob	o b	1
+84/55	ob	o b	1
+84/57	oob	oo b	1
+84/59	NA		NA
+84/61	ow	o w	1
+84/63	oob	oo b	1
+84/65	ob	o b	1
+84/67	ob	o b	1
+84/69	oab	oa b	1
+84/71	ob	o b	1
+84/73	oob	oo b	1
+84/75	ob	o b	1
+84/77	ob	o b	1
+84/79	aub	au b	1
+84/81	NA		NA
+84/83	oum	ou m	1
+84/85	NA		NA
+84/87	nacht	n a ch t	1
+84/89	am	a m	1
+84/91	nochd	n o ch d	1
+84/93	am	a m	1
+84/95	nacht	n a ch t	1
+84/97	nacht	n a ch t	1
+84/99	am	a m	1
+84/101	nacht	n a ch t	1
+84/103	nachd	n a ch d	1
+84/105	spot	s p o t	1
+84/107	nacht	n a ch t	1
+84/109	ob	o b	1
+84/111	nacht	n a ch t	1
+84/113	NA		NA
+84/115	nocht	n o ch t	1
+84/117	nacht	n a ch t	1
+84/119	NA		NA
+84/129	nocht	n o ch t	1
+84/131	nocht	n o ch t	1
+84/133	nocht	n o ch t	1
+84/135	NA		NA
+84/137	nocht	n o ch t	1
+84/139	nocht	n o ch t	1
+84/141	ob	o b	1
+84/143	nocht	n o ch t	1
+84/145	nocht	n o ch t	1
+84/147	nocht	n o ch t	1
+84/149	nocht	n o ch t	1
+84/171	oom	oo m	1
+84/173	uum	uu m	1
+84/195	oub	ou b	1
+85/31	ow	o w	1
+85/33	aw	a w	1
+85/35	ow	o w	1
+85/37	NA		NA
+85/39	ow	o w	1
+85/41	ow	o w	1
+85/43	ow	o w	1
+85/45	ow	o w	1
+85/47	ow	o w	1
+85/49	oob	oo b	1
+85/51	oob	oo b	1
+85/53	ob	o b	1
+85/55	ob	o b	1
+85/57	ob	o b	1
+85/59	ob	o b	1
+85/61	ob	o b	1
+85/63	ob	o b	1
+85/65	ob	o b	1
+85/67	oob	oo b	1
+85/69	aub	au b	1
+85/71	NA		NA
+85/73	ob	o b	1
+85/75	ob	o b	1
+85/77	ob	o b	1
+85/79	ob	o b	1
+85/81	aub	au b	1
+85/83	oub	ou b	1
+85/85	ob	o b	1
+85/87	ob	o b	1
+85/89	am	a m	1
+85/91	nacht	n a ch t	1
+85/93	nacht	n a ch t	1
+85/95	ab	a b	1
+85/97	nacht	n a ch t	1
+85/101	nacht	n a ch t	1
+85/103	nacht	n a ch t	1
+85/105	nachd	n a ch d	1
+85/107	nocht	n o ch t	1
+85/109	am	a m	1
+85/111	NA		NA
+85/113	spat	s p a t	1
+85/115	NA		NA
+85/117	NA		NA
+85/119	nocht	n o ch t	1
+85/121	nocht	n o ch t	1
+85/123	NA		NA
+85/125	om	o m	1
+85/127	nacht	n a ch t	1
+85/129	nocht	n o ch t	1
+85/131	nocht	n o ch t	1
+85/133	noocht	n oo ch t	1
+85/135	nochd	n o ch d	1
+85/137	nocht	n o ch t	1
+85/139	nocht	n o ch t	1
+85/141	nocht	n o ch t	1
+85/143	nocht	n o ch t	1
+85/145	nocht	n o ch t	1
+85/147	nocht	n o ch t	1
+85/149	nocht	n o ch t	1
+85/175	uum	uu m	1
+85/193	oob	oo b	1
+85/197	oob	oo b	1
+86/33	ow	o w	1
+86/35	ow	o w	1
+86/37	oow	oo w	1
+86/39	uw	u w	1
+86/41	ow	o w	1
+86/43	ow	o w	1
+86/45	ob	o b	1
+86/47	ow	o w	1
+86/49	ow	o w	1
+86/51	ob	o b	1
+86/53	ob	o b	1
+86/55	oob	oo b	1
+86/57	oob	oo b	1
+86/59	ob	o b	1
+86/61	ob	o b	1
+86/63	ob	o b	1
+86/65	ob	o b	1
+86/67	ob	o b	1
+86/69	aub	au b	1
+86/71	aub	au b	1
+86/73	ob	o b	1
+86/75	ob	o b	1
+86/77	ob	o b	1
+86/79	ob	o b	1
+86/81	oub	ou b	1
+86/83	ob	o b	1
+86/85	oab	oa b	1
+86/87	nocht	n o ch t	1
+86/89	nocht	n o ch t	1
+86/91	nacht	n a ch t	1
+86/93	oab	oa b	1
+86/95	naacht	n aa ch t	1
+86/97	NA		NA
+86/99	nacht	n a ch t	1
+86/101	am	a m	1
+86/103	NA		NA
+86/105	nocht	n o ch t	1
+86/107	ab	a b	1
+86/109	nacht	n a ch t	1
+86/111	gschbad	g sch b a d	1
+86/113	nacht	n a ch t	1
+86/115	nocht	n o ch t	1
+86/117	nocht	n o ch t	1
+86/119	nocht	n o ch t	1
+86/121	nocht	n o ch t	1
+86/123	NA		NA
+86/125	nocht	n o ch t	1
+86/127	nocht	n o ch t	1
+86/129	ob	o b	1
+86/131	nochd	n o ch d	1
+86/133	om	o m	1
+86/135	nocht	n o ch t	1
+86/137	NA		NA
+86/139	nocht	n o ch t	1
+86/141	nocht	n o ch t	1
+86/143	nocht	n o ch t	1
+86/145	nocht	n o ch t	1
+86/147	nocht	n o ch t	1
+86/149	NA		NA
+86/151	nocht	n o ch t	1
+86/175	uum	uu m	1
+86/197	ohm	oh m	1
+86/199	oum	ou m	1
+87/33	ow	o w	1
+87/35	uw	u w	1
+87/37	ow	o w	1
+87/39	uw	u w	1
+87/41	ow	o w	1
+87/43	ow	o w	1
+87/45	ob	o b	1
+87/49	ob	o b	1
+87/51	oow	oo w	1
+87/53	ob	o b	1
+87/55	ob	o b	1
+87/57	ob	o b	1
+87/59	ob	o b	1
+87/61	ob	o b	1
+87/63	ob	o b	1
+87/65	ob	o b	1
+87/67	aub	au b	1
+87/69	aob	ao b	1
+87/71	aub	au b	1
+87/73	aub	au b	1
+87/75	aub	au b	1
+87/77	ob	o b	1
+87/79	nachzg	n a ch z g	1
+87/81	nocht	n o ch t	1
+87/83	nocht	n o ch t	1
+87/85	nocht	n o ch t	1
+87/87	nocht	n o ch t	1
+87/89	nocht	n o ch t	1
+87/91	nacht	n a ch t	1
+87/93	noacht	n oa ch t	1
+87/95	nacht	n a ch t	1
+87/97	nocht	n o ch t	1
+87/99	am	a m	1
+87/101	nacht	n a ch t	1
+87/103	nacht	n a ch t	1
+87/105	nocht	n o ch t	1
+87/107	nacht	n a ch t	1
+87/109	am	a m	1
+87/111	spat	s p a t	1
+87/113	ob	o b	1
+87/115	spat	s p a t	1
+87/117	nocht	n o ch t	1
+87/119	nocht	n o ch t	1
+87/121	om	o m	1
+87/123	nocht	n o ch t	1
+87/125	nocht	n o ch t	1
+87/127	noucht	n ou ch t	1
+87/129	nocht	n o ch t	1
+87/133	nochd	n o ch d	1
+87/135	NA		NA
+87/137	ob	o b	1
+87/139	om	o m	1
+87/141	nocht	n o ch t	1
+87/143	nocht	n o ch t	1
+87/145	nocht	n o ch t	1
+87/147	nocht	n o ch t	1
+87/149	nocht	n o ch t	1
+87/151	NA		NA
+88/35	ow	o w	1
+88/37	uw	u w	1
+88/39	nocht	n o ch t	1
+88/41	uuw	uu w	1
+88/43	ow	o w	1
+88/45	ob	o b	1
+88/47	oob	oo b	1
+88/49	NA		NA
+88/51	oob	oo b	1
+88/53	ab	a b	1
+88/55	ob	o b	1
+88/57	oob	oo b	1
+88/59	ob	o b	1
+88/61	obb	o bb	1
+88/63	ob	o b	1
+88/65	oob	oo b	1
+88/67	ob	o b	1
+88/69	aub	au b	1
+88/71	aub	au b	1
+88/73	aub	au b	1
+88/75	ob	o b	1
+88/77	ob	o b	1
+88/79	ab	a b	1
+88/81	ab	a b	1
+88/83	nacht	n a ch t	1
+88/85	om	o m	1
+88/87	om	o m	1
+88/89	am	a m	1
+88/91	nacht	n a ch t	1
+88/93	nacht	n a ch t	1
+88/95	nacht	n a ch t	1
+88/97	nacht	n a ch t	1
+88/99	nacht	n a ch t	1
+88/101	nocht	n o ch t	1
+88/103	nocht	n o ch t	1
+88/105	NA		NA
+88/107	om	o m	1
+88/109	NA		NA
+88/113	nacht	n a ch t	1
+88/115	spat	s p a t	1
+88/117	nacht	n a ch t	1
+88/121	nocht	n o ch t	1
+88/123	spoat	s p oa t	1
+88/127	nocht	n o ch t	1
+88/129	nacht	n a ch t	1
+88/131	nochd	n o ch d	1
+88/137	NA		NA
+88/139	nocht	n o ch t	1
+88/141	nocht	n o ch t	1
+88/143	nocht	n o ch t	1
+88/145	nocht	n o ch t	1
+88/147	nocht	n o ch t	1
+88/149	ob	o b	1
+89/35	uw	u w	1
+89/37	uuw	uu w	1
+89/39	ow	o w	1
+89/41	ow	o w	1
+89/43	ow	o w	1
+89/45	ob	o b	1
+89/47	ob	o b	1
+89/49	oab	oa b	1
+89/51	ob	o b	1
+89/53	ob	o b	1
+89/55	ob	o b	1
+89/57	ab	a b	1
+89/59	ob	o b	1
+89/61	ob	o b	1
+89/63	ob	o b	1
+89/65	ob	o b	1
+89/67	aub	au b	1
+89/69	aub	au b	1
+89/71	aub	au b	1
+89/73	aub	au b	1
+89/75	aub	au b	1
+89/77	aub	au b	1
+89/79	ab	a b	1
+89/81	NA		NA
+89/83	nacht	n a ch t	1
+89/85	ob	o b	1
+89/87	ob	o b	1
+89/89	nocht	n o ch t	1
+89/91	ob	o b	1
+89/93	NA		NA
+89/95	nocht	n o ch t	1
+89/97	nacht	n a ch t	1
+89/99	nacht	n a ch t	1
+89/101	NA		NA
+89/103	NA		NA
+89/105	näuchd	n äu ch d	1
+89/107	nacht	n a ch t	1
+89/109	nacht	n a ch t	1
+89/111	nacht	n a ch t	1
+89/113	NA		NA
+89/115	nacht	n a ch t	1
+89/117	NA		NA
+89/119	naacht	n aa ch t	1
+89/121	nochd	n o ch d	1
+89/123	ob	o b	1
+89/125	nocht	n o ch t	1
+89/127	NA		NA
+89/129	om	o m	1
+89/131	NA		NA
+89/133	nocht	n o ch t	1
+89/135	nocht	n o ch t	1
+89/137	ob	o b	1
+89/139	om	o m	1
+89/141	ob	o b	1
+89/143	nocht	n o ch t	1
+89/145	nocht	n o ch t	1
+89/147	nocht	n o ch t	1
+89/149	nocht	n o ch t	1
+90/35	ow	o w	1
+90/37	uw	u w	1
+90/39	ow	o w	1
+90/41	ow	o w	1
+90/43	ow	o w	1
+90/45	oow	oo w	1
+90/47	ow	o w	1
+90/49	ob	o b	1
+90/51	oob	oo b	1
+90/53	ob	o b	1
+90/55	ob	o b	1
+90/57	ob	o b	1
+90/59	ob	o b	1
+90/61	ob	o b	1
+90/63	oob	oo b	1
+90/65	ob	o b	1
+90/67	aub	au b	1
+90/69	aub	au b	1
+90/71	aub	au b	1
+90/73	aub	au b	1
+90/75	aub	au b	1
+90/77	aub	au b	1
+90/79	ob	o b	1
+90/81	nacht	n a ch t	1
+90/83	nocht	n o ch t	1
+90/85	nahd	n ah d	1
+90/87	nacht	n a ch t	1
+90/89	nocht	n o ch t	1
+90/91	nacht	n a ch t	1
+90/93	noocht	n oo ch t	1
+90/95	nocht	n o ch t	1
+90/97	nacht	n a ch t	1
+90/99	nacht	n a ch t	1
+90/101	nacht	n a ch t	1
+90/103	nacht	n a ch t	1
+90/105	nacht	n a ch t	1
+90/107	nocht	n o ch t	1
+90/109	nacht	n a ch t	1
+90/111	nacht	n a ch t	1
+90/113	ab	a b	1
+90/115	nacht	n a ch t	1
+90/119	nocht	n o ch t	1
+90/121	spat	s p a t	1
+90/123	om	o m	1
+90/125	NA		NA
+90/127	nacht	n a ch t	1
+90/129	nocht	n o ch t	1
+90/131	nocht	n o ch t	1
+90/133	nocht	n o ch t	1
+90/135	nacht	n a ch t	1
+90/137	ob	o b	1
+90/139	ob	o b	1
+90/141	ob	o b	1
+90/143	noocht	n oo ch t	1
+90/145	nocht	n o ch t	1
+90/147	nochd	n o ch d	1
+90/149	NA		NA
+90/151	nocht	n o ch t	1
+91/35	NA		NA
+91/37	uw	u w	1
+91/39	ohw	oh w	1
+91/41	ow	o w	1
+91/43	ow	o w	1
+91/45	ow	o w	1
+91/47	oab	oa b	1
+91/49	ob	o b	1
+91/51	näähchd	n ääh ch d	1
+91/53	näächt	n ää ch t	1
+91/55	ob	o b	1
+91/57	näächt	n ää ch t	1
+91/59	ob	o b	1
+91/61	ob	o b	1
+91/63	ob	o b	1
+91/65	oob	oo b	1
+91/67	ob	o b	1
+91/69	ob	o b	1
+91/71	aub	au b	1
+91/73	aub	au b	1
+91/75	aub	au b	1
+91/77	aub	au b	1
+91/79	aub	au b	1
+91/81	nax	n a x	1
+91/83	nod	n o d	1
+91/85	nacht	n a ch t	1
+91/87	nacht	n a ch t	1
+91/91	nacht	n a ch t	1
+91/93	oom	oo m	1
+91/95	nocht	n o ch t	1
+91/97	nacht	n a ch t	1
+91/99	nacht	n a ch t	1
+91/101	nocht	n o ch t	1
+91/103	nocht	n o ch t	1
+91/105	nacht	n a ch t	1
+91/107	nacht	n a ch t	1
+91/109	NA		NA
+91/111	nacht	n a ch t	1
+91/113	nacht	n a ch t	1
+91/115	nacht	n a ch t	1
+91/117	nacht	n a ch t	1
+91/119	nacht	n a ch t	1
+91/121	NA		NA
+91/125	nacht	n a ch t	1
+91/129	om	o m	1
+91/131	nocht	n o ch t	1
+91/133	ob	o b	1
+91/135	oum	ou m	1
+91/137	nocht	n o ch t	1
+91/139	ob	o b	1
+91/141	ob	o b	1
+91/143	NA		NA
+91/145	nocht	n o ch t	1
+91/147	nochd	n o ch d	1
+91/149	nocht	n o ch t	1
+91/151	nochd	n o ch d	1
+91/155	nocht	n o ch t	1
+92/33	ow	o w	1
+92/35	ow	o w	1
+92/37	uw	u w	1
+92/39	uw	u w	1
+92/41	oow	oo w	1
+92/43	oob	oo b	1
+92/45	oob	oo b	1
+92/47	nacht	n a ch t	1
+92/49	näächt	n ää ch t	1
+92/51	ob	o b	1
+92/53	oob	oo b	1
+92/55	ob	o b	1
+92/57	ob	o b	1
+92/59	ob	o b	1
+92/61	ob	o b	1
+92/63	ob	o b	1
+92/65	ob	o b	1
+92/67	oob	oo b	1
+92/69	aub	au b	1
+92/71	aub	au b	1
+92/73	aub	au b	1
+92/75	aub	au b	1
+92/77	aub	au b	1
+92/79	ob	o b	1
+92/81	nacht	n a ch t	1
+92/83	aw	a w	1
+92/85	nocht	n o ch t	1
+92/87	nacht	n a ch t	1
+92/89	nahd	n ah d	1
+92/91	ab	a b	1
+92/93	nochd	n o ch d	1
+92/95	nocht	n o ch t	1
+92/97	nacht	n a ch t	1
+92/99	nocht	n o ch t	1
+92/101	nacht	n a ch t	1
+92/103	nacht	n a ch t	1
+92/105	naocht	n ao ch t	1
+92/107	ob	o b	1
+92/109	nacht	n a ch t	1
+92/111	spat	s p a t	1
+92/113	nacht	n a ch t	1
+92/115	nacht	n a ch t	1
+92/117	nacht	n a ch t	1
+92/119	nacht	n a ch t	1
+92/121	nacht	n a ch t	1
+92/123	NA		NA
+92/125	nocht	n o ch t	1
+92/127	nocht	n o ch t	1
+92/129	ob	o b	1
+92/131	NA		NA
+92/133	om	o m	1
+92/135	om	o m	1
+92/137	noocht	n oo ch t	1
+92/139	nocht	n o ch t	1
+92/141	nocht	n o ch t	1
+92/143	NA		NA
+92/145	nochd	n o ch d	1
+92/147	nocht	n o ch t	1
+92/149	nocht	n o ch t	1
+92/151	ab	a b	1
+93/35	ow	o w	1
+93/37	ow	o w	1
+93/39	ow	o w	1
+93/41	ow	o w	1
+93/43	ob	o b	1
+93/45	NA		NA
+93/47	ow	o w	1
+93/49	NA		NA
+93/51	NA		NA
+93/53	ob	o b	1
+93/55	oob	oo b	1
+93/57	ob	o b	1
+93/59	ob	o b	1
+93/61	ob	o b	1
+93/63	ob	o b	1
+93/65	ob	o b	1
+93/67	ob	o b	1
+93/69	ob	o b	1
+93/71	aub	au b	1
+93/73	aub	au b	1
+93/75	aub	au b	1
+93/77	NA		NA
+93/79	nax	n a x	1
+93/81	nax	n a x	1
+93/83	nacht	n a ch t	1
+93/85	nocht	n o ch t	1
+93/87	nacht	n a ch t	1
+93/89	NA		NA
+93/91	nacht	n a ch t	1
+93/93	nacht	n a ch t	1
+93/95	NA		NA
+93/97	nacht	n a ch t	1
+93/99	ob	o b	1
+93/101	nacht	n a ch t	1
+93/103	nacht	n a ch t	1
+93/105	NA		NA
+93/109	ab	a b	1
+93/111	NA		NA
+93/113	naocht	n ao ch t	1
+93/115	nocht	n o ch t	1
+93/117	nocht	n o ch t	1
+93/119	NA		NA
+93/121	am	a m	1
+93/123	nocht	n o ch t	1
+93/125	NA		NA
+93/127	nochd	n o ch d	1
+93/129	NA		NA
+93/131	nocht	n o ch t	1
+93/133	ob	o b	1
+93/137	ob	o b	1
+93/139	am	a m	1
+93/143	nocht	n o ch t	1
+93/145	nocht	n o ch t	1
+93/147	nocht	n o ch t	1
+93/149	om	o m	1
+93/151	nocht	n o ch t	1
+93/153	nocht	n o ch t	1
+93/155	NA		NA
+94/33	naacht	n aa ch t	1
+94/35	ow	o w	1
+94/37	nacht	n a ch t	1
+94/39	NA		NA
+94/41	oob	oo b	1
+94/43	oow	oo w	1
+94/45	ow	o w	1
+94/47	ob	o b	1
+94/49	ob	o b	1
+94/51	ob	o b	1
+94/53	aub	au b	1
+94/55	ob	o b	1
+94/57	ab	a b	1
+94/59	ob	o b	1
+94/61	ob	o b	1
+94/63	ob	o b	1
+94/65	ob	o b	1
+94/67	ob	o b	1
+94/69	oob	oo b	1
+94/71	aub	au b	1
+94/73	aub	au b	1
+94/75	auub	auu b	1
+94/77	nax	n a x	1
+94/79	ob	o b	1
+94/81	om	o m	1
+94/83	ab	a b	1
+94/85	NA		NA
+94/87	nacht	n a ch t	1
+94/89	nocht	n o ch t	1
+94/91	nacht	n a ch t	1
+94/93	nocht	n o ch t	1
+94/95	ab	a b	1
+94/97	ab	a b	1
+94/99	nochd	n o ch d	1
+94/101	noochd	n oo ch d	1
+94/103	nocht	n o ch t	1
+94/105	nocht	n o ch t	1
+94/107	nacht	n a ch t	1
+94/109	naacht	n aa ch t	1
+94/111	nacht	n a ch t	1
+94/113	nacht	n a ch t	1
+94/115	nacht	n a ch t	1
+94/117	nacht	n a ch t	1
+94/119	NA		NA
+94/121	naachd	n aa ch d	1
+94/123	om	o m	1
+94/125	nocht	n o ch t	1
+94/127	nocht	n o ch t	1
+94/129	NA		NA
+94/131	NA		NA
+94/133	nocht	n o ch t	1
+94/135	ob	o b	1
+94/137	nocht	n o ch t	1
+94/139	nochd	n o ch d	1
+94/141	nacht	n a ch t	1
+94/143	ob	o b	1
+94/145	nochd	n o ch d	1
+94/147	nacht	n a ch t	1
+94/149	nocht	n o ch t	1
+94/151	om	o m	1
+94/153	ab	a b	1
+95/31	naacht	n aa ch t	1
+95/33	ow	o w	1
+95/35	oow	oo w	1
+95/37	ow	o w	1
+95/39	ow	o w	1
+95/41	oob	oo b	1
+95/43	ob	o b	1
+95/45	ob	o b	1
+95/47	ob	o b	1
+95/49	oob	oo b	1
+95/51	nääd	n ää d	1
+95/53	ob	o b	1
+95/55	aub	au b	1
+95/57	ob	o b	1
+95/59	ob	o b	1
+95/61	ob	o b	1
+95/63	ob	o b	1
+95/65	ob	o b	1
+95/67	ab	a b	1
+95/69	ob	o b	1
+95/71	aub	au b	1
+95/73	oub	ou b	1
+95/75	aub	au b	1
+95/77	aub	au b	1
+95/79	nax	n a x	1
+95/81	nacht	n a ch t	1
+95/83	nachcht	n a ch ch t	1
+95/85	nacht	n a ch t	1
+95/87	nacht	n a ch t	1
+95/89	om	o m	1
+95/91	nocht	n o ch t	1
+95/93	nacht	n a ch t	1
+95/95	NA		NA
+95/97	nocht	n o ch t	1
+95/99	nochd	n o ch d	1
+95/101	nacht	n a ch t	1
+95/103	nacht	n a ch t	1
+95/105	nacht	n a ch t	1
+95/107	nachd	n a ch d	1
+95/109	nacht	n a ch t	1
+95/111	nocht	n o ch t	1
+95/113	nocht	n o ch t	1
+95/115	ob	o b	1
+95/117	nocht	n o ch t	1
+95/119	NA		NA
+95/121	nacht	n a ch t	1
+95/123	nocht	n o ch t	1
+95/125	nocht	n o ch t	1
+95/129	nocht	n o ch t	1
+95/131	om	o m	1
+95/133	nocht	n o ch t	1
+95/139	NA		NA
+95/141	nocht	n o ch t	1
+95/143	nocht	n o ch t	1
+95/145	nocht	n o ch t	1
+95/147	nacht	n a ch t	1
+95/149	NA		NA
+95/151	nocht	n o ch t	1
+95/153	nocht	n o ch t	1
+95/155	ob	o b	1
+96/31	naach	n aa ch	1
+96/33	ow	o w	1
+96/35	oow	oo w	1
+96/37	ow	o w	1
+96/39	ow	o w	1
+96/41	ob	o b	1
+96/43	nächt	n ä ch t	1
+96/45	oob	oo b	1
+96/47	ob	o b	1
+96/49	ob	o b	1
+96/51	ob	o b	1
+96/53	ob	o b	1
+96/55	NA		NA
+96/57	ab	a b	1
+96/59	ob	o b	1
+96/61	nät	n ä t	1
+96/63	ob	o b	1
+96/65	ob	o b	1
+96/67	ob	o b	1
+96/69	ob	o b	1
+96/71	naacht	n aa ch t	1
+96/75	aub	au b	1
+96/77	oab	oa b	1
+96/79	nachts	n a ch t s	1
+96/81	nocht	n o ch t	1
+96/83	nocht	n o ch t	1
+96/85	nocht	n o ch t	1
+96/87	nocht	n o ch t	1
+96/89	om	o m	1
+96/91	NA		NA
+96/93	nocht	n o ch t	1
+96/95	NA		NA
+96/97	nocht	n o ch t	1
+96/99	nocht	n o ch t	1
+96/101	nacht	n a ch t	1
+96/103	nocht	n o ch t	1
+96/105	nocht	n o ch t	1
+96/107	nocht	n o ch t	1
+96/109	nacht	n a ch t	1
+96/111	nacht	n a ch t	1
+96/113	oab	oa b	1
+96/115	nocht	n o ch t	1
+96/117	nacht	n a ch t	1
+96/119	ab	a b	1
+96/121	nocht	n o ch t	1
+96/123	nochd	n o ch d	1
+96/125	om	o m	1
+96/129	om	o m	1
+96/131	NA		NA
+96/135	nacht	n a ch t	1
+96/137	NA		NA
+96/139	nocht	n o ch t	1
+96/141	ob	o b	1
+96/143	NA		NA
+96/145	om	o m	1
+96/147	nocht	n o ch t	1
+96/151	ob	o b	1
+96/153	nocht	n o ch t	1
+96/155	om	o m	1
+97/31	oow	oo w	1
+97/33	ow	o w	1
+97/35	ohw	oh w	1
+97/37	NA		NA
+97/39	ob	o b	1
+97/41	nacht	n a ch t	1
+97/43	ob	o b	1
+97/45	ob	o b	1
+97/47	ob	o b	1
+97/49	ab	a b	1
+97/51	ob	o b	1
+97/53	aub	au b	1
+97/55	ob	o b	1
+97/57	ab	a b	1
+97/59	oob	oo b	1
+97/61	oob	oo b	1
+97/63	ob	o b	1
+97/65	ob	o b	1
+97/67	ob	o b	1
+97/69	oob	oo b	1
+97/71	ob	o b	1
+97/73	aub	au b	1
+97/75	aub	au b	1
+97/77	aub	au b	1
+97/79	ob	o b	1
+97/81	NA		NA
+97/83	nacht	n a ch t	1
+97/85	nacht	n a ch t	1
+97/87	ob	o b	1
+97/89	ob	o b	1
+97/91	nocht	n o ch t	1
+97/93	nacht	n a ch t	1
+97/95	nocht	n o ch t	1
+97/97	nacht	n a ch t	1
+97/99	nacht	n a ch t	1
+97/103	nacht	n a ch t	1
+97/105	nacht	n a ch t	1
+97/107	nocht	n o ch t	1
+97/109	nocht	n o ch t	1
+97/113	nocht	n o ch t	1
+97/125	nocht	n o ch t	1
+97/131	ob	o b	1
+97/133	nocht	n o ch t	1
+97/139	ob	o b	1
+97/141	om	o m	1
+97/143	nocht	n o ch t	1
+97/145	oom	oo m	1
+97/149	ob	o b	1
+97/153	nacht	n a ch t	1
+98/33	ow	o w	1
+98/35	oow	oo w	1
+98/37	ow	o w	1
+98/39	nacht	n a ch t	1
+98/41	ob	o b	1
+98/43	NA		NA
+98/45	oob	oo b	1
+98/47	ob	o b	1
+98/49	ob	o b	1
+98/51	ob	o b	1
+98/53	ob	o b	1
+98/55	ob	o b	1
+98/57	ob	o b	1
+98/59	ob	o b	1
+98/61	ob	o b	1
+98/63	ob	o b	1
+98/65	ob	o b	1
+98/67	ob	o b	1
+98/69	ob	o b	1
+98/71	aub	au b	1
+98/73	aub	au b	1
+98/75	NA		NA
+98/77	aub	au b	1
+98/79	NA		NA
+98/81	NA		NA
+98/83	NA		NA
+98/85	NA		NA
+98/87	am	a m	1
+98/89	nacht	n a ch t	1
+98/91	nocht	n o ch t	1
+98/93	oum	ou m	1
+98/95	nacht	n a ch t	1
+98/97	nacht	n a ch t	1
+98/103	ab	a b	1
+98/105	nocht	n o ch t	1
+98/107	nocht	n o ch t	1
+98/109	nacht	n a ch t	1
+98/111	nacht	n a ch t	1
+98/119	nocht	n o ch t	1
+98/123	NA		NA
+98/125	NA		NA
+98/127	nocht	n o ch t	1
+98/135	nocht	n o ch t	1
+98/137	nocht	n o ch t	1
+98/139	nocht	n o ch t	1
+98/141	nocht	n o ch t	1
+98/143	nocht	n o ch t	1
+98/145	NA		NA
+98/147	ob	o b	1
+98/149	nocht	n o ch t	1
+98/151	nocht	n o ch t	1
+99/33	ow	o w	1
+99/35	ob	o b	1
+99/37	ob	o b	1
+99/39	uw	u w	1
+99/41	nacht	n a ch t	1
+99/43	oob	oo b	1
+99/45	ob	o b	1
+99/47	NA		NA
+99/49	ob	o b	1
+99/51	oob	oo b	1
+99/53	ob	o b	1
+99/55	ob	o b	1
+99/57	ob	o b	1
+99/59	ob	o b	1
+99/63	ob	o b	1
+99/65	ob	o b	1
+99/67	ob	o b	1
+99/69	ob	o b	1
+99/71	ob	o b	1
+99/73	aub	au b	1
+99/75	ob	o b	1
+99/77	nachts	n a ch t s	1
+99/81	NA		NA
+99/83	nacht	n a ch t	1
+99/85	ob	o b	1
+99/89	om	o m	1
+99/93	NA		NA
+99/95	nochts	n o ch t s	1
+99/99	nachts	n a ch t s	1
+99/101	nocht	n o ch t	1
+99/103	nacht	n a ch t	1
+99/105	nacht	n a ch t	1
+99/107	NA		NA
+99/109	nacht	n a ch t	1
+99/111	nocht	n o ch t	1
+99/113	nocht	n o ch t	1
+99/121	nocht	n o ch t	1
+99/123	nocht	n o ch t	1
+99/125	nocht	n o ch t	1
+99/131	NA		NA
+99/137	NA		NA
+99/139	nochd	n o ch d	1
+99/141	nocht	n o ch t	1
+99/143	NA		NA
+99/145	NA		NA
+99/147	nocht	n o ch t	1
+100/33	ow	o w	1
+100/35	ob	o b	1
+100/37	ob	o b	1
+100/39	oob	oo b	1
+100/41	oob	oo b	1
+100/43	oob	oo b	1
+100/45	oob	oo b	1
+100/49	ob	o b	1
+100/51	oob	oo b	1
+100/53	ab	a b	1
+100/55	ob	o b	1
+100/57	ob	o b	1
+100/59	oob	oo b	1
+100/61	ob	o b	1
+100/65	ob	o b	1
+100/67	ob	o b	1
+100/69	ab	a b	1
+100/71	ob	o b	1
+100/73	ob	o b	1
+100/75	nacht	n a ch t	1
+100/77	ob	o b	1
+100/81	nocht	n o ch t	1
+100/83	nocht	n o ch t	1
+100/89	NA		NA
+100/93	nochz	n o ch z	1
+100/95	nachts	n a ch t s	1
+100/97	nochz	n o ch z	1
+100/99	noachts	n oa ch t s	1
+100/101	nacht	n a ch t	1
+100/109	om	o m	1
+100/111	ab	a b	1
+100/113	nocht	n o ch t	1
+100/115	nocht	n o ch t	1
+100/117	nocht	n o ch t	1
+100/119	nocht	n o ch t	1
+100/121	nocht	n o ch t	1
+100/125	nocht	n o ch t	1
+100/127	nocht	n o ch t	1
+100/129	ob	o b	1
+100/133	NA		NA
+100/135	NA		NA
+100/141	NA		NA
+100/143	om	o m	1
+100/145	NA		NA
+101/35	oow	oo w	1
+101/37	ob	o b	1
+101/39	ob	o b	1
+101/41	ob	o b	1
+101/43	ob	o b	1
+101/45	ob	o b	1
+101/47	oab	oa b	1
+101/49	ab	a b	1
+101/51	aab	aa b	1
+101/53	ab	a b	1
+101/55	ob	o b	1
+101/57	ob	o b	1
+101/59	ob	o b	1
+101/61	ob	o b	1
+101/63	oob	oo b	1
+101/65	oab	oa b	1
+101/67	ob	o b	1
+101/71	aub	au b	1
+101/75	ob	o b	1
+101/77	nacht	n a ch t	1
+101/79	ab	a b	1
+101/81	nachts	n a ch t s	1
+101/91	nochts	n o ch t s	1
+101/93	ohm	oh m	1
+101/95	nochz	n o ch z	1
+101/97	noaachts	n oaa ch t s	1
+101/99	NA		NA
+101/101	naocht	n ao ch t	1
+101/103	naucht	n au ch t	1
+101/107	nacht	n a ch t	1
+101/109	nacht	n a ch t	1
+101/113	nocht	n o ch t	1
+101/115	ob	o b	1
+101/121	nocht	n o ch t	1
+101/125	nocht	n o ch t	1
+101/129	om	o m	1
+101/131	ob	o b	1
+101/133	NA		NA
+101/137	nacht	n a ch t	1
+101/139	ob	o b	1
+101/141	ob	o b	1
+101/143	nocht	n o ch t	1
+101/145	nocht	n o ch t	1
+101/147	nocht	n o ch t	1
+102/37	oob	oo b	1
+102/39	ob	o b	1
+102/41	ob	o b	1
+102/43	ob	o b	1
+102/45	ob	o b	1
+102/47	NA		NA
+102/49	ob	o b	1
+102/51	ab	a b	1
+102/53	oob	oo b	1
+102/55	ob	o b	1
+102/57	ob	o b	1
+102/59	ab	a b	1
+102/61	ob	o b	1
+102/63	NA		NA
+102/65	ob	o b	1
+102/67	ob	o b	1
+102/69	ob	o b	1
+102/71	ob	o b	1
+102/73	NA		NA
+102/75	nochts	n o ch t s	1
+102/77	ab	a b	1
+102/79	ob	o b	1
+102/81	nochts	n o ch t s	1
+102/83	nochts	n o ch t s	1
+102/89	om	o m	1
+102/91	NA		NA
+102/93	nochts	n o ch t s	1
+102/95	nochts	n o ch t s	1
+102/97	nochts	n o ch t s	1
+102/99	nocht	n o ch t	1
+102/103	noacht	n oa ch t	1
+102/107	nocht	n o ch t	1
+102/109	noucht	n ou ch t	1
+102/113	NA		NA
+102/115	noucht	n ou ch t	1
+102/127	nocht	n o ch t	1
+102/129	nocht	n o ch t	1
+102/131	nocht	n o ch t	1
+102/135	nocht	n o ch t	1
+102/137	ob	o b	1
+102/139	nocht	n o ch t	1
+102/141	ob	o b	1
+102/143	noocht	n oo ch t	1
+102/145	nocht	n o ch t	1
+103/39	ob	o b	1
+103/41	ob	o b	1
+103/43	oob	oo b	1
+103/45	ob	o b	1
+103/47	NA		NA
+103/49	NA		NA
+103/51	ab	a b	1
+103/53	ab	a b	1
+103/55	oob	oo b	1
+103/57	ob	o b	1
+103/59	ob	o b	1
+103/63	ob	o b	1
+103/65	NA		NA
+103/67	aub	au b	1
+103/69	ob	o b	1
+103/71	ob	o b	1
+103/73	NA		NA
+103/75	ob	o b	1
+103/77	ob	o b	1
+103/79	ob	o b	1
+103/81	nachts	n a ch t s	1
+103/83	nocht	n o ch t	1
+103/85	nocht	n o ch t	1
+103/87	NA		NA
+103/89	nochts	n o ch t s	1
+103/91	noachts	n oa ch t s	1
+103/97	noochts	n oo ch t s	1
+103/99	ob	o b	1
+103/101	nocht	n o ch t	1
+103/105	nocht	n o ch t	1
+103/107	oum	ou m	1
+103/111	NA		NA
+103/121	NA		NA
+103/125	nacht	n a ch t	1
+103/127	nocht	n o ch t	1
+103/131	nocht	n o ch t	1
+103/133	NA		NA
+103/135	NA		NA
+103/137	ob	o b	1
+103/139	nocht	n o ch t	1
+103/141	nacht	n a ch t	1
+103/143	nocht	n o ch t	1
+103/145	nocht	n o ch t	1
+104/33	NA		NA
+104/35	ob	o b	1
+104/37	ob	o b	1
+104/39	oob	oo b	1
+104/41	ob	o b	1
+104/43	NA		NA
+104/45	ob	o b	1
+104/47	ob	o b	1
+104/49	ob	o b	1
+104/51	ab	a b	1
+104/53	nacht	n a ch t	1
+104/55	ob	o b	1
+104/57	ob	o b	1
+104/59	ob	o b	1
+104/61	NA		NA
+104/63	ob	o b	1
+104/65	ob	o b	1
+104/67	ob	o b	1
+104/71	nachzg	n a ch z g	1
+104/75	oub	ou b	1
+104/77	ob	o b	1
+104/79	ob	o b	1
+104/81	nochts	n o ch t s	1
+104/83	ob	o b	1
+104/85	ob	o b	1
+104/91	nöchts	n ö ch t s	1
+104/95	NA		NA
+104/101	ob	o b	1
+104/103	om	o m	1
+104/107	aaumb	aau m b	1
+104/111	NA		NA
+104/113	NA		NA
+104/119	oub	ou b	1
+104/121	NA		NA
+104/123	nocht	n o ch t	1
+104/125	nocht	n o ch t	1
+104/127	nocht	n o ch t	1
+104/131	nocht	n o ch t	1
+104/133	nocht	n o ch t	1
+104/135	nacht	n a ch t	1
+104/137	ob	o b	1
+104/139	noucht	n ou ch t	1
+104/141	nod	n o d	1
+104/143	nocht	n o ch t	1
+104/145	nocht	n o ch t	1
+105/31	ab	a b	1
+105/33	NA		NA
+105/35	ab	a b	1
+105/37	ob	o b	1
+105/39	NA		NA
+105/41	NA		NA
+105/43	NA		NA
+105/45	NA		NA
+105/47	ob	o b	1
+105/49	ob	o b	1
+105/51	ob	o b	1
+105/53	ab	a b	1
+105/55	NA		NA
+105/57	NA		NA
+105/59	ab	a b	1
+105/61	NA		NA
+105/63	ob	o b	1
+105/65	ob	o b	1
+105/67	ob	o b	1
+105/69	ob	o b	1
+105/71	ab	a b	1
+105/73	ob	o b	1
+105/75	ob	o b	1
+105/77	NA		NA
+105/79	nochts	n o ch t s	1
+105/81	nochts	n o ch t s	1
+105/85	nochts	n o ch t s	1
+105/87	nochts	n o ch t s	1
+105/89	schochts	sch o ch t s	1
+105/103	oum	ou m	1
+105/105	nocht	n o ch t	1
+105/111	nocht	n o ch t	1
+105/113	om	o m	1
+105/115	om	o m	1
+105/117	ob	o b	1
+105/119	nocht	n o ch t	1
+105/121	NA		NA
+105/125	nocht	n o ch t	1
+105/127	NA		NA
+105/131	oub	ou b	1
+105/133	nocht	n o ch t	1
+105/135	NA		NA
+105/137	NA		NA
+105/141	nocht	n o ch t	1
+105/143	om	o m	1
+105/145	ab	a b	1
+106/33	NA		NA
+106/35	NA		NA
+106/37	NA		NA
+106/39	ob	o b	1
+106/41	NA		NA
+106/43	ob	o b	1
+106/45	ab	a b	1
+106/47	oob	oo b	1
+106/49	ob	o b	1
+106/51	ab	a b	1
+106/53	ab	a b	1
+106/57	NA		NA
+106/61	NA		NA
+106/63	ob	o b	1
+106/67	ob	o b	1
+106/71	ob	o b	1
+106/73	ob	o b	1
+106/75	ob	o b	1
+106/77	NA		NA
+106/79	NA		NA
+106/81	NA		NA
+106/85	nachts	n a ch t s	1
+106/87	nachts	n a ch t s	1
+106/93	nochts	n o ch t s	1
+106/97	ob	o b	1
+106/99	oab	oa b	1
+106/103	ab	a b	1
+106/111	ob	o b	1
+106/115	om	o m	1
+106/121	ab	a b	1
+106/123	nocht	n o ch t	1
+106/125	nachtn	n a ch t n	1
+106/129	naht	n ah t	1
+106/131	ob	o b	1
+106/133	NA		NA
+106/135	NA		NA
+106/137	nocht	n o ch t	1
+106/139	nocht	n o ch t	1
+106/141	nocht	n o ch t	1
+106/143	NA		NA
+106/145	nocht	n o ch t	1
+107/33	NA		NA
+107/35	ab	a b	1
+107/37	aab	aa b	1
+107/39	NA		NA
+107/41	ab	a b	1
+107/43	ahb	ah b	1
+107/45	ab	a b	1
+107/47	ab	a b	1
+107/49	ab	a b	1
+107/51	ab	a b	1
+107/53	NA		NA
+107/57	NA		NA
+107/59	nacht	n a ch t	1
+107/63	ab	a b	1
+107/65	NA		NA
+107/71	ob	o b	1
+107/75	ab	a b	1
+107/81	nachz	n a ch z	1
+107/85	nochz	n o ch z	1
+107/87	nochts	n o ch t s	1
+107/89	nochts	n o ch t s	1
+107/91	nochts	n o ch t s	1
+107/97	nochtz	n o ch t z	1
+107/99	nochts	n o ch t s	1
+107/103	nocht	n o ch t	1
+107/105	NA		NA
+107/107	ob	o b	1
+107/111	ob	o b	1
+107/119	NA		NA
+107/121	NA		NA
+107/123	NA		NA
+107/125	NA		NA
+107/127	NA		NA
+107/129	NA		NA
+107/131	nocht	n o ch t	1
+107/133	nocht	n o ch t	1
+107/135	om	o m	1
+107/137	NA		NA
+107/139	ab	a b	1
+107/141	nocht	n o ch t	1
+107/143	nocht	n o ch t	1
+108/33	NA		NA
+108/35	ab	a b	1
+108/37	ab	a b	1
+108/39	NA		NA
+108/41	ab	a b	1
+108/43	NA		NA
+108/47	NA		NA
+108/49	ab	a b	1
+108/63	NA		NA
+108/65	NA		NA
+108/67	ab	a b	1
+108/75	oub	ou b	1
+108/79	nochts	n o ch t s	1
+108/81	nochz	n o ch z	1
+108/85	nochts	n o ch t s	1
+108/87	nachts	n a ch t s	1
+108/91	nochts	n o ch t s	1
+108/99	NA		NA
+108/101	nochts	n o ch t s	1
+108/103	ob	o b	1
+108/105	NA		NA
+108/109	ob	o b	1
+108/111	aob	ao b	1
+108/113	ab	a b	1
+108/117	NA		NA
+108/119	NA		NA
+108/121	nocht	n o ch t	1
+108/123	nocht	n o ch t	1
+108/125	ob	o b	1
+108/127	ob	o b	1
+108/129	nocht	n o ch t	1
+108/131	nachts	n a ch t s	1
+108/133	nocht	n o ch t	1
+108/135	nocht	n o ch t	1
+108/137	NA		NA
+108/139	nachts	n a ch t s	1
+108/141	nocht	n o ch t	1
+109/35	aab	aa b	1
+109/37	NA		NA
+109/39	NA		NA
+109/41	ab	a b	1
+109/43	ab	a b	1
+109/45	aab	aa b	1
+109/49	ab	a b	1
+109/53	äb	ä b	1
+109/61	ob	o b	1
+109/63	ob	o b	1
+109/65	NA		NA
+109/67	nacht	n a ch t	1
+109/75	ob	o b	1
+109/83	nochts	n o ch t s	1
+109/87	nachts	n a ch t s	1
+109/89	nochts	n o ch t s	1
+109/91	NA		NA
+109/93	NA		NA
+109/95	nochtz	n o ch t z	1
+109/97	nochts	n o ch t s	1
+109/99	nochz	n o ch z	1
+109/101	nochtns	n o ch t n s	1
+109/103	ob	o b	1
+109/107	NA		NA
+109/109	ob	o b	1
+109/111	NA		NA
+109/113	nacht	n a ch t	1
+109/115	ob	o b	1
+109/117	nocht	n o ch t	1
+109/119	NA		NA
+109/121	ob	o b	1
+109/123	NA		NA
+109/125	ob	o b	1
+109/127	nocht	n o ch t	1
+109/129	NA		NA
+109/131	ob	o b	1
+109/133	NA		NA
+109/135	NA		NA
+109/137	noucht	n ou ch t	1
+109/139	nocht	n o ch t	1
+110/35	ab	a b	1
+110/39	ab	a b	1
+110/41	NA		NA
+110/43	ab	a b	1
+110/45	NA		NA
+110/47	NA		NA
+110/49	ab	a b	1
+110/57	ab	a b	1
+110/61	NA		NA
+110/65	ob	o b	1
+110/75	ob	o b	1
+110/79	NA		NA
+110/81	nochz	n o ch z	1
+110/83	nochz	n o ch z	1
+110/87	nochts	n o ch t s	1
+110/89	nochz	n o ch z	1
+110/91	NA		NA
+110/93	schochts	sch o ch t s	1
+110/95	notz	n o t z	1
+110/97	nochts	n o ch t s	1
+110/99	nochts	n o ch t s	1
+110/101	NA		NA
+110/105	NA		NA
+110/107	NA		NA
+110/111	om	o m	1
+110/113	NA		NA
+110/115	om	o m	1
+110/117	nocht	n o ch t	1
+110/119	ob	o b	1
+110/121	NA		NA
+110/125	NA		NA
+110/127	nocht	n o ch t	1
+110/129	NA		NA
+110/131	NA		NA
+110/133	nocht	n o ch t	1
+110/135	nocht	n o ch t	1
+110/137	nocht	n o ch t	1
+110/139	nocht	n o ch t	1
+111/35	NA		NA
+111/37	NA		NA
+111/39	ab	a b	1
+111/41	ab	a b	1
+111/43	ab	a b	1
+111/45	ab	a b	1
+111/59	NA		NA
+111/73	ob	o b	1
+111/75	ow	o w	1
+111/77	nacht	n a ch t	1
+111/79	nocht	n o ch t	1
+111/81	ob	o b	1
+111/83	nocht	n o ch t	1
+111/87	nochts	n o ch t s	1
+111/89	nochts	n o ch t s	1
+111/105	om	o m	1
+111/107	ob	o b	1
+111/109	nocht	n o ch t	1
+111/111	NA		NA
+111/113	NA		NA
+111/115	ob	o b	1
+111/117	NA		NA
+111/119	ob	o b	1
+111/121	NA		NA
+111/123	ob	o b	1
+111/125	ob	o b	1
+112/37	NA		NA
+112/39	NA		NA
+112/41	ab	a b	1
+112/43	NA		NA
+112/47	ab	a b	1
+112/59	aab	aa b	1
+112/61	ab	a b	1
+112/63	NA		NA
+112/75	NA		NA
+112/81	nocht	n o ch t	1
+112/83	nocht	n o ch t	1
+112/85	nocht	n o ch t	1
+112/111	nocht	n o ch t	1
+112/115	ob	o b	1
+112/117	ob	o b	1
+112/119	ob	o b	1
+113/35	ab	a b	1
+113/37	NA		NA
+113/39	NA		NA
+113/47	ab	a b	1
+113/79	nocht	n o ch t	1
+113/81	nachts	n a ch t s	1
+113/83	ob	o b	1
+113/85	nocht	n o ch t	1
+113/87	nocht	n o ch t	1
+113/121	ob	o b	1
+113/123	ab	a b	1
+114/35	aab	aa b	1
+114/45	nächti	n ä ch t i	1
+114/83	nocht	n o ch t	1
+114/85	nocht	n o ch t	1
+115/41	ab	a b	1
+115/43	ab	a b	1
+115/45	ab	a b	1
+115/83	nocht	n o ch t	1
+115/85	naacht	n aa ch t	1
+116/43	ab	a b	1
+116/45	ab	a b	1
+116/83	nocht	n o ch t	1
+117/43	ab	a b	1
+117/45	NA		NA
+118/41	ab	a b	1
+119/83	NA		NA
+120/85	NA		NA
+121/127	oub	ou b	1
+122/127	oub	ou b	1
+122/129	ub	u b	1
+123/81	NA		NA
+123/123	oub	ou b	1
+123/125	ub	u b	1
+123/127	ub	u b	1
+123/129	ub	u b	1
+124/125	up	u p	1
+124/127	oub	ou b	1
+124/129	ub	u b	1

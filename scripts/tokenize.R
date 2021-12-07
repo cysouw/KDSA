@@ -9,26 +9,16 @@ n <- read.delim("../data/KDSAlocations.txt",row.names = 1)
 
 # tokenize
 splitTokens <- function(lemma) {
-	
 	tokens <- tokenize(w[,lemma], profile = "../data/KDSAprofile.txt", regex = T)$strings
+	colnames(tokens) <- c("strings","alignments")
+	result <- cbind(locations = rownames(n), tokens, cognateID = 1)
+	result$alignments[is.na(result$strings)] <- ""
+	result$cognateID[is.na(result$strings)] <- NA
+	result
 }
 
-
-tok <- apply(w,2,tokens)
-colnames(tok) <- l$Context
-rownames(tok) <- 1:5892
-
-write.table(tok, file = "sandbox/KDSAtokenized.txt", quote = F, sep = "\t")
-
-t <- read.delim("data/KDSAtokenized.txt", row.names = 1)
-
-ALIGN <- as.character(t[,2])
-ALIGN <- t(sapply(ALIGN, function(x){strsplit(x," ")[[1]]}))
-ALIGN[apply(ALIGN,1, function(x){sum(x=="-")==length(x)}),] <- NA
-dimnames(ALIGN) <- NULL
-ALIGN <- as.data.frame(ALIGN)
-
-source("scripts/mapWenker.R")
-load("data/KDSAvoronoiSP.Rdata")
-
-A <- mapWenker(ALIGN$V4, vowel = T, center = "a", title = "Affe")
+# write files
+writeFile <- function(lemma) {
+	filename <- paste0(l$Context[lemma],"(",l$Sentence[lemma],").txt")
+	write.table(splitTokens(lemma), file = file.path("..","sandbox",filename), quote = FALSE, row.names = FALSE, sep = "\t")
+}

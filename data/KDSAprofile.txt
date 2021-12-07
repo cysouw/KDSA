@@ -35,4 +35,4 @@ Left	Grapheme	Right	Class	Replacement	Frequency	Codepoint	UnicodeName
 	ck
 	ng
 [^q]	V+h?	[^V]
-	(.)\1
+	([^V])\1
