@@ -4,9 +4,34 @@ require(sf)
 require(sp)
 require(leaflet)
 require(qlcVisualize)
+require(RColorBrewer)
+
+# load this
+# source("mapWenker.R")
 
 # load basemap: gives object 'tiles' 
-load("../../data/KDSAvoronoiSP.Rdata")
+# load("data/KDSAvoronoiSP.Rdata")
+
+# Example usage
+# MAP <- mapWenker(getAlign(file, column), vowel = F, center = "t", title = "Wurst")
+
+# save map as widget
+# htmlwidgets::saveWidget(MAP, file = "title.html")
+
+
+getAlign <- function(lemma, column) {
+	
+	word <- read.table(lemma, header = TRUE, sep = "\t")
+	
+	ALIGN <- as.character(word$alignments)
+	ALIGN[word$cognateID != 1] <- NA
+	ALIGN[is.na(word$strings)] <- NA
+	ALIGN <- sapply(ALIGN, strsplit, split = " ")
+	ALIGN <- do.call(rbind,ALIGN)
+
+	ALIGN[,column]	
+	
+}
 
 mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker") {
 	
@@ -26,6 +51,7 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 		freq <- table(align)
 		selLegend <- names(sort(freq, decreasing = TRUE)[1:10])
 		selLegend <- selLegend[order(cmdscale(dist(vowelDecom))[selLegend,1])]
+		colLegend <- cols[selLegend]
 		textLegend <- paste0("<h3>", title, " ('", center, "')</h3><br>Frequent spellings")
 
 	} else {
@@ -37,13 +63,14 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 			consonants <- consonants[consonants != center]
 			consonants <- c(center, consonants)
 		}
-					
-		cols <- c("grey",palette("ggplot2")[2:7],rep("#A9A9A9",times=20))
+		
+		cols <- c("grey", brewer.pal(12, "Set3"), rep("#A9A9A9",times=20))			
 		cols <- cols[1:length(consonants)]
 		names(cols) <- consonants		
 		allCols <- cols[align]
 		
-		selLegend <- consonants
+		selLegend <- paste0(consonants, " (", freq, ")")
+		colLegend <- cols
 		textLegend <- paste0("<h3>", title, " ('", center, "')</h3><br>Spellings")
 	}
 	
@@ -51,13 +78,14 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 	allCols[is.na(allCols)] <- "#A9A9A9"
 	align[is.na(align)] <- "No data"
 	
+	colLegend <- c(colLegend, "#A9A9A9")
+	selLegend <- c(selLegend, paste0("no data (", sum(align == "No data"), ")"))
+	
 	# adding data to map, turn into sf-format
 	data <- sp::SpatialPolygonsDataFrame(polygons, 
 				data.frame(spelling = align, color = allCols))
 	map <- sf::st_as_sf(data)
 	sf::st_crs(map) <- 4326
-	
-
 	
 	# Leaflet widget
 	widget <- leaflet::leaflet (map) %>% 
@@ -73,7 +101,7 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 		"bottomright"
 		, title = textLegend
 		, labels = selLegend
-		, colors = cols[selLegend]
+		, colors = colLegend
 		, opacity = 0.9
 	)
 	
