@@ -58,3 +58,8 @@ BAU_en(33)	bauen	1	2	au	T
 BAU_en(33)	bauen	1	3	-	F
 BAU_ern(37)	Bauern	1	1	b	F
 BAU_ern(37)	Bauern	1	2	au	T
+BEI(9)	bei	1	1	b	F
+BEI(9)	bei	1	2	ei	T
+BESS_er(18)	besser	1	1	b	F
+BESS_er(18)	besser	1	2	e	T
+BESS_er(18)	besser	1	3	ss	F
