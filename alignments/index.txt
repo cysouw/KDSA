@@ -47,7 +47,7 @@ AUG_enblick(27)	wenig	5	5	g	F
 AUS(16)	aus	1	2	au	T
 AUS(16)	aus	1	3	s	F
 apfel_BÄUM(26)	Baum	1	1	b	F
-apfel_BÄUM(26)	Baum	1	2	au	T
+apfel_BÄUM(26)	Baum	1	2	äu	T
 apfel_BÄUM(26)	Baum	1	3	m	F
 BALD(3)	bald	1	1	b	F
 BALD(3)	bald	1	2	a	T
@@ -63,3 +63,13 @@ BEI(9)	bei	1	2	ei	T
 BESS_er(18)	besser	1	1	b	F
 BESS_er(18)	besser	1	2	e	T
 BESS_er(18)	besser	1	3	ss	F
+BERG_e(29)	Berge	1	2	b	F
+BERG_e(29)	Berge	1	3	e	T
+BERG_e(29)	Berge	1	4	r	F
+BERG_e(29)	Berge	1	5	-	F
+BERG_e(29)	Berge	1	6	-	F
+BERG_e(29)	Berge	1	7	g	F
+BEISS_en(14)	beissen	1	1	b	F
+BEISS_en(14)	beissen	1	2	ei	T
+BEISS_en(14)	beissen	1	3	-	F
+BEISS_en(14)	beissen	1	4	ss	F

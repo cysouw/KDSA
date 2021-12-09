@@ -10,9 +10,8 @@ writeFile(17)
 source("scripts/mapWenker.R")
 load("data/KDSAvoronoiSP.Rdata")
 
-index <- read.delim("alignments/index.txt")
-
 mapFromIndex <- function(nr) {
+	index <- read.delim("alignments/index.txt")
 	file <- paste0("alignments/", index$LEMMA[nr], ".txt")
 	align <- getAlign(file, index$COGID[nr], index$COLUMN[nr])
 	mapWenker(align
