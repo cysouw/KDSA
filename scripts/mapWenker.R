@@ -19,12 +19,13 @@ require(RColorBrewer)
 # htmlwidgets::saveWidget(MAP, file = "title.html")
 
 
-getAlign <- function(lemma, column) {
+getAlign <- function(lemma, cogid, column) {
 	
 	word <- read.table(lemma, header = TRUE, sep = "\t")
 	
 	ALIGN <- as.character(word$alignments)
-	ALIGN[word$cognateID != 1] <- NA
+	ALIGN[word$cognateID != cogid] <- NA
+	ALIGN[is.na(word$cognateID)] <- NA
 	ALIGN[is.na(word$strings)] <- NA
 	ALIGN <- sapply(ALIGN, strsplit, split = " ")
 	ALIGN <- do.call(rbind,ALIGN)
@@ -49,7 +50,7 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 		
 		# Spellings for legend
 		freq <- table(align)
-		selLegend <- names(sort(freq, decreasing = TRUE)[1:10])
+		selLegend <- names(sort(freq, decreasing = TRUE)[1:min(length(cols),10)])
 		selLegend <- selLegend[order(cmdscale(dist(vowelDecom))[selLegend,1])]
 		colLegend <- cols[selLegend]
 		textLegend <- paste0("<h3>", title, " ('", center, "')</h3><br>Frequent spellings")
