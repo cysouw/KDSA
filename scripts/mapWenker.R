@@ -1,4 +1,4 @@
-# make map of alignment of Wenker data
+ # make map of alignment of Wenker data
 
 require(sf)
 require(sp)
@@ -113,8 +113,8 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 vowelAnalysis <- function(align) {
 
 	l <- c("a","ä","e","i","j","y","o","ö","r","l","u","w","ü","-")
-	h <- c(1,2,3,4,4,4,2.5,3,2.5,2.5,4,4,4,2.5)
-	b <- c(5,3,2,1,1,1,5.5,4,5,5,6,6,3,3.5)
+	h <- c( 1 , 2 , 3 , 4 , 4 , 4 , 3 , 3 ,2.5,2.5, 4 , 4 , 4 ,2.5)
+	b <- c( 5 , 3 , 2 , 1 , 1 , 1 , 6 , 4 , 5 , 5 , 6 , 6 , 3 ,3.5)
 
 	getNums <- function(letters, number) {
 
