@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	föld	1	f ö l d
+002/201	föld	1	f ö l d
+002/203	feld	1	f e l d
+002/205	föld	1	f ö l d
+003/203	föld	1	f ö l d
+003/205	föllt	1	f ö ll t
+004/205	föld	1	f ö l d
+005/205	feld	1	f e l d
+005/207	föld	1	f ö l d
+006/205	feld	1	f e l d
+006/207	feld	1	f e l d
+007/205	föld	1	f ö l d
+007/207	felt	1	f e l t
+007/209	föld	1	f ö l d
+007/211	föld	1	f ö l d
+008/199	föeld	1	f öe l d
+008/203	föld	1	f ö l d
+008/205	feld	1	f e l d
+008/207	föld	1	f ö l d
+008/209	föld	1	f ö l d
+008/211	fölt	1	f ö l t
+008/213	felt	1	f e l t
+009/199	felt	1	f e l t
+009/203	föld	1	f ö l d
+009/207	feld	1	f e l d
+009/209	feld	1	f e l d
+009/211	feld	1	f e l d
+009/213	föld	1	f ö l d
+009/215	feld	1	f e l d
+009/217	föld	1	f ö l d
+010/195	föld	1	f ö l d
+010/203	felt	1	f e l t
+010/207	föllt	1	f ö ll t
+010/209	föld	1	f ö l d
+010/211	föld	1	f ö l d
+010/213	feld	1	f e l d
+010/215	felt	1	f e l t
+010/217	föld	1	f ö l d
+010/219	föld	1	f ö l d
+011/049	mark	1	m a r k
+011/053	mark	1	m a r k
+011/055	mark	1	m a r k
+011/057	mark	1	m a r k
+011/059	mark	1	m a r k
+011/061	mark	1	m a r k
+011/063	mark	1	m a r k
+011/065	mark	1	m a r k
+011/067	marek	1	m a r e k
+011/069	mark	1	m a r k
+011/187	föld	1	f ö l d
+011/189	föld	1	f ö l d
+011/191	föld	1	f ö l d
+011/195	feld	1	f e l d
+011/197	föld	1	f ö l d
+011/203	föld	1	f ö l d
+011/205	föld	1	f ö l d
+011/207	fellt	1	f e ll t
+011/209	feld	1	f e l d
+011/211	föld	1	f ö l d
+011/213	feld	1	f e l d
+011/215	feld	1	f e l d
+011/217	föld	1	f ö l d
+011/219	föld	1	f ö l d
+012/047	mark	1	m a r k
+012/049	träsk	1	t r ä s k
+012/051	fjel	1	f j e l
+012/053	mark	1	m a r k
+012/055	mark	1	m a r k
+012/057	mark	1	m a r k
+012/059	mark	1	m a r k
+012/061	mark	1	m a r k
+012/063	mark	1	m a r k
+012/065	mark	1	m a r k
+012/067	mark	1	m a r k
+012/069	mark	1	m a r k
+012/187	föld	1	f ö l d
+012/189	föld	1	f ö l d
+012/191	föld	1	f ö l d
+012/193	föld	1	f ö l d
+012/195	feld	1	f e l d
+012/197	föld	1	f ö l d
+012/199	föld	1	f ö l d
+012/201	feld	1	f e l d
+012/203	feld	1	f e l d
+012/205	föld	1	f ö l d
+012/207	föld	1	f ö l d
+012/209	föld	1	f ö l d
+012/211	föld	1	f ö l d
+012/213	felld	1	f e ll d
+012/215	feld	1	f e l d
+012/217	föld	1	f ö l d
+012/219	fölld	1	f ö ll d
+012/221	föld	1	f ö l d
+012/223	felt	1	f e l t
+013/051	fill	1	f i ll
+013/053	felj	1	f e l j
+013/055	felj	1	f e l j
+013/057	mark	1	m a r k
+013/059	mark	1	m a r k
+013/061	feld	1	f e l d
+013/063	feld	1	f e l d
+013/065	feld	1	f e l d
+013/067	feld	1	f e l d
+013/161	feld	1	f e l d
+013/163	feld	1	f e l d
+013/165	feld	1	f e l d
+013/167	land	1	l a n d
+013/187	feld	1	f e l d
+013/189	feld	1	f e l d
+013/191	föll	1	f ö ll
+013/193	föll	1	f ö ll
+013/195	föld	1	f ö l d
+013/197	föll	1	f ö ll
+013/199	föld	1	f ö l d
+013/201	föld	1	f ö l d
+013/203	feld	1	f e l d
+013/207	föld	1	f ö l d
+013/209	feld	1	f e l d
+013/211	föld	1	f ö l d
+013/213	felld	1	f e ll d
+013/215	felld	1	f e ll d
+013/217	felt	1	f e l t
+013/219	föld	1	f ö l d
+013/221	feld	1	f e l d
+013/223	föld	1	f ö l d
+014/047	fial	1	f ia l
+014/049	fial	1	f ia l
+014/051	fial	1	f ia l
+014/053	fähl	1	f äh l
+014/055	frjl	1	f r j l
+014/057	fehl	1	f eh l
+014/059	feld	1	f e l d
+014/061	feld	1	f e l d
+014/063	felld	1	f e ll d
+014/065	feld	1	f e l d
+014/067	feld	1	f e l d
+014/109	fell	1	f e ll
+014/159	feld	1	f e l d
+014/161	feld	1	f e l d
+014/163	fild	1	f i l d
+014/165	feld	1	f e l d
+014/167	feld	1	f e l d
+014/169	feld	1	f e l d
+014/187	föld	1	f ö l d
+014/189	feld	1	f e l d
+014/191	feld	1	f e l d
+014/193	feld	1	f e l d
+014/195	föld	1	f ö l d
+014/197	felt	1	f e l t
+014/199	feld	1	f e l d
+014/201	feld	1	f e l d
+014/203	feld	1	f e l d
+014/205	föld	1	f ö l d
+014/207	felt	1	f e l t
+014/209	föld	1	f ö l d
+014/211	föld	1	f ö l d
+014/213	föld	1	f ö l d
+014/215	föld	1	f ö l d
+014/217	föld	1	f ö l d
+014/219	feld	1	f e l d
+014/221	feld	1	f e l d
+015/049	fial	1	f ia l
+015/051	feel	1	f ee l
+015/053	feel	1	f ee l
+015/055	fejl	1	f e j l
+015/057	fehl	1	f eh l
+015/059	feld	1	f e l d
+015/061	feld	1	f e l d
+015/063	feld	1	f e l d
+015/065	feld	1	f e l d
+015/067	feld	1	f e l d
+015/105	feld	1	f e l d
+015/107	fell	1	f e ll
+015/109	fell	1	f e ll
+015/151	fild	1	f i l d
+015/153	fild	1	f i l d
+015/155	fill	1	f i ll
+015/157	fild	1	f i l d
+015/159	fill	1	f i ll
+015/161	feld	1	f e l d
+015/163	fild	1	f i l d
+015/165	feld	1	f e l d
+015/167	feld	1	f e l d
+015/169	feld	1	f e l d
+015/173	feld	1	f e l d
+015/187	föld	1	f ö l d
+015/191	feld	1	f e l d
+015/193	föld	1	f ö l d
+015/195	föll	1	f ö ll
+015/197	föld	1	f ö l d
+015/199	feld	1	f e l d
+015/201	föld	1	f ö l d
+015/203	feld	1	f e l d
+015/205	feld	1	f e l d
+015/207	feld	1	f e l d
+015/209	feld	1	f e l d
+015/211	föld	1	f ö l d
+015/213	föld	1	f ö l d
+015/215	föll	1	f ö ll
+015/217	föld	1	f ö l d
+015/219	feldt	1	f e l d t
+015/221	föld	1	f ö l d
+016/051	fäjl	1	f ä j l
+016/055	feel	1	f ee l
+016/057	feld	1	f e l d
+016/059	feld	1	f e l d
+016/061	feld	1	f e l d
+016/063	feld	1	f e l d
+016/065	feld	1	f e l d
+016/067	feld	1	f e l d
+016/081	feld	1	f e l d
+016/083	feld	1	f e l d
+016/105	fell	1	f e ll
+016/107	fell	1	f e ll
+016/109	fell	1	f e ll
+016/111	feld	1	f e l d
+016/145	fel	1	f e l
+016/147	fel	1	f e l
+016/149	fel	1	f e l
+016/151	fill	1	f i ll
+016/153	fill	1	f i ll
+016/155	fill	1	f i ll
+016/157	fehld	1	f eh l d
+016/159	fild	1	f i l d
+016/161	fülld	1	f ü ll d
+016/163	feld	1	f e l d
+016/165	feld	1	f e l d
+016/167	feld	1	f e l d
+016/187	feld	1	f e l d
+016/189	felld	1	f e ll d
+016/191	föld	1	f ö l d
+016/193	fölld	1	f ö ll d
+016/195	feld	1	f e l d
+016/197	föld	1	f ö l d
+016/199	föld	1	f ö l d
+016/201	feld	1	f e l d
+016/203	föld	1	f ö l d
+016/205	föld	1	f ö l d
+016/209	föllt	1	f ö ll t
+016/211	föld	1	f ö l d
+016/213	feld	1	f e l d
+016/215	feld	1	f e l d
+016/217	föld	1	f ö l d
+016/219	föld	1	f ö l d
+017/055	feld	1	f e l d
+017/057	feld	1	f e l d
+017/059	feld	1	f e l d
+017/061	feld	1	f e l d
+017/063	feld	1	f e l d
+017/065	feld	1	f e l d
+017/067	feld	1	f e l d
+017/069	fell	1	f e ll
+017/081	feld	1	f e l d
+017/083	feld	1	f e l d
+017/099	fell	1	f e ll
+017/101	feld	1	f e l d
+017/103	fill	1	f i ll
+017/107	feld	1	f e l d
+017/109	fell	1	f e ll
+017/145	fel	1	f e l
+017/147	fill	1	f i ll
+017/149	füll	1	f ü ll
+017/151	fill	1	f i ll
+017/153	fill	1	f i ll
+017/155	fild	1	f i l d
+017/157	fild	1	f i l d
+017/159	fild	1	f i l d
+017/161	fild	1	f i l d
+017/163	fähld	1	f äh l d
+017/165	feld	1	f e l d
+017/169	feld	1	f e l d
+017/171	feld	1	f e l d
+017/183	feld	1	f e l d
+017/185	feld	1	f e l d
+017/187	feld	1	f e l d
+017/189	föld	1	f ö l d
+017/191	feld	1	f e l d
+017/193	föld	1	f ö l d
+017/195	feld	1	f e l d
+017/197	fel	1	f e l
+017/199	fel	1	f e l
+017/201	föll	1	f ö ll
+017/203	füll	1	f ü ll
+017/205	föld	1	f ö l d
+017/207	feld	1	f e l d
+017/209	felt	1	f e l t
+017/211	feld	1	f e l d
+017/213	föld	1	f ö l d
+017/215	feld	1	f e l d
+017/217	felt	1	f e l t
+017/219	föld	1	f ö l d
+018/051	feld	1	f e l d
+018/053	fell	1	f e ll
+018/055	feld	1	f e l d
+018/057	feld	1	f e l d
+018/059	feld	1	f e l d
+018/061	feld	1	f e l d
+018/063	felt	1	f e l t
+018/065	feld	1	f e l d
+018/067	feld	1	f e l d
+018/069	feld	1	f e l d
+018/071	feld	1	f e l d
+018/073	fel	1	f e l
+018/075	fild	1	f i l d
+018/079	fell	1	f e ll
+018/081	fell	1	f e ll
+018/097	fell	1	f e ll
+018/099	feld	1	f e l d
+018/103	fell	1	f e ll
+018/105	fell	1	f e ll
+018/107	fäll	1	f ä ll
+018/109	feld	1	f e l d
+018/111	feld	1	f e l d
+018/143	fill	1	f i ll
+018/145	fill	1	f i ll
+018/147	fill	1	f i ll
+018/149	fill	1	f i ll
+018/151	fill	1	f i ll
+018/153	fill	1	f i ll
+018/155	fill	1	f i ll
+018/157	fild	1	f i l d
+018/159	feld	1	f e l d
+018/161	föld	1	f ö l d
+018/163	feld	1	f e l d
+018/165	feld	1	f e l d
+018/169	feld	1	f e l d
+018/171	feld	1	f e l d
+018/173	feld	1	f e l d
+018/181	feld	1	f e l d
+018/185	föld	1	f ö l d
+018/187	föld	1	f ö l d
+018/189	felld	1	f e ll d
+018/191	föld	1	f ö l d
+018/193	feld	1	f e l d
+018/195	feld	1	f e l d
+018/197	föld	1	f ö l d
+018/199	feld	1	f e l d
+018/201	föld	1	f ö l d
+018/203	feld	1	f e l d
+018/205	fell	1	f e ll
+018/207	feld	1	f e l d
+018/209	feld	1	f e l d
+018/211	föld	1	f ö l d
+018/213	feld	1	f e l d
+018/215	fölt	1	f ö l t
+018/219	föllt	1	f ö ll t
+019/051	feld	1	f e l d
+019/053	feld	1	f e l d
+019/055	acker	1	a ck e r
+019/057	feld	1	f e l d
+019/059	feld	1	f e l d
+019/061	fäld	1	f ä l d
+019/063	feld	1	f e l d
+019/065	fell	1	f e ll
+019/067	feld	1	f e l d
+019/069	feld	1	f e l d
+019/071	fell	1	f e ll
+019/073	feld	1	f e l d
+019/075	fell	1	f e ll
+019/077	feld	1	f e l d
+019/079	fell	1	f e ll
+019/081	fell	1	f e ll
+019/097	fel	1	f e l
+019/099	fell	1	f e ll
+019/101	fell	1	f e ll
+019/103	fell	1	f e ll
+019/105	feld	1	f e l d
+019/107	feld	1	f e l d
+019/109	fell	1	f e ll
+019/143	fehl	1	f eh l
+019/145	fill	1	f i ll
+019/147	fill	1	f i ll
+019/149	fill	1	f i ll
+019/151	fill	1	f i ll
+019/153	fill	1	f i ll
+019/155	fell	1	f e ll
+019/157	filld	1	f i ll d
+019/159	feld	1	f e l d
+019/161	fil	1	f i l
+019/163	feld	1	f e l d
+019/165	fild	1	f i l d
+019/167	fell	1	f e ll
+019/169	feld	1	f e l d
+019/171	feld	1	f e l d
+019/173	land	1	l a n d
+019/175	feld	1	f e l d
+019/177	feld	1	f e l d
+019/179	feld	1	f e l d
+019/181	feld	1	f e l d
+019/183	föld	1	f ö l d
+019/185	feld	1	f e l d
+019/187	föld	1	f ö l d
+019/189	fell	1	f e ll
+019/191	föll	1	f ö ll
+019/193	feld	1	f e l d
+019/195	föld	1	f ö l d
+019/197	feld	1	f e l d
+019/199	föll	1	f ö ll
+019/201	föll	1	f ö ll
+019/203	fell	1	f e ll
+019/205	föll	1	f ö ll
+019/207	föld	1	f ö l d
+019/209	feld	1	f e l d
+019/211	feld	1	f e l d
+019/213	feld	1	f e l d
+019/215	feld	1	f e l d
+019/217	föld	1	f ö l d
+019/219	feld	1	f e l d
+020/043	steck	1	s t e ck
+020/053	feld	1	f e l d
+020/055	feld	1	f e l d
+020/057	feld	1	f e l d
+020/059	feld	1	f e l d
+020/061	feld	1	f e l d
+020/063	feld	1	f e l d
+020/065	fell	1	f e ll
+020/067	fell	1	f e ll
+020/069	feld	1	f e l d
+020/071	fell	1	f e ll
+020/073	feld	1	f e l d
+020/075	fell	1	f e ll
+020/077	fell	1	f e ll
+020/079	feld	1	f e l d
+020/081	felh	1	f e l h
+020/095	fel	1	f e l
+020/097	fel	1	f e l
+020/099	fell	1	f e ll
+020/101	fill	1	f i ll
+020/103	feld	1	f e l d
+020/105	fell	1	f e ll
+020/107	feld	1	f e l d
+020/135	fell	1	f e ll
+020/137	fill	1	f i ll
+020/139	fel	1	f e l
+020/141	feel	1	f ee l
+020/143	fel	1	f e l
+020/145	fell	1	f e ll
+020/147	fill	1	f i ll
+020/149	fill	1	f i ll
+020/151	fill	1	f i ll
+020/153	feld	1	f e l d
+020/155	füll	1	f ü ll
+020/157	filld	1	f i ll d
+020/159	fild	1	f i l d
+020/161	feld	1	f e l d
+020/163	fel	1	f e l
+020/165	fell	1	f e ll
+020/167	feld	1	f e l d
+020/169	feld	1	f e l d
+020/171	felt	1	f e l t
+020/173	fäld	1	f ä l d
+020/175	feld	1	f e l d
+020/177	land	1	l a n d
+020/179	feld	1	f e l d
+020/181	föll	1	f ö ll
+020/183	feld	1	f e l d
+020/185	feld	1	f e l d
+020/187	feld	1	f e l d
+020/189	fill	1	f i ll
+020/191	föll	1	f ö ll
+020/193	fällt	1	f ä ll t
+020/195	feld	1	f e l d
+020/197	völl	1	v ö ll
+020/199	föld	1	f ö l d
+020/201	föll	1	f ö ll
+020/203	foeld	1	f oe l d
+020/205	föll	1	f ö ll
+020/207	fölt	1	f ö l t
+020/209	feld	1	f e l d
+020/211	feld	1	f e l d
+020/213	föld	1	f ö l d
+020/215	föld	1	f ö l d
+020/217	föld	1	f ö l d
+020/219	feld	1	f e l d
+021/055	feld	1	f e l d
+021/057	feld	1	f e l d
+021/059	feld	1	f e l d
+021/061	fell	1	f e ll
+021/063	feld	1	f e l d
+021/065	feld	1	f e l d
+021/067	feld	1	f e l d
+021/069	feld	1	f e l d
+021/071	fell	1	f e ll
+021/073	fell	1	f e ll
+021/075	fell	1	f e ll
+021/077	fell	1	f e ll
+021/079	feld	1	f e l d
+021/087	fell	1	f e ll
+021/089	fell	1	f e ll
+021/091	fell	1	f e ll
+021/093	fell	1	f e ll
+021/095	fell	1	f e ll
+021/097	fell	1	f e ll
+021/099	fell	1	f e ll
+021/101	fellll	1	f e ll ll
+021/103	fell	1	f e ll
+021/105	fill	1	f i ll
+021/107	feld	1	f e l d
+021/109	feld	1	f e l d
+021/111	feld	1	f e l d
+021/113	fill	1	f i ll
+021/131	fill	1	f i ll
+021/133	fehl	1	f eh l
+021/135	fill	1	f i ll
+021/137	föll	1	f ö ll
+021/139	feehl	1	f eeh l
+021/141	fel	1	f e l
+021/143	fill	1	f i ll
+021/145	feel	1	f ee l
+021/147	fel	1	f e l
+021/149	fehl	1	f eh l
+021/151	fill	1	f i ll
+021/153	fill	1	f i ll
+021/155	füll	1	f ü ll
+021/157	fell	1	f e ll
+021/159	fill	1	f i ll
+021/163	föld	1	f ö l d
+021/165	fill	1	f i ll
+021/167	feld	1	f e l d
+021/169	fel	1	f e l
+021/171	feld	1	f e l d
+021/173	feld	1	f e l d
+021/175	feld	1	f e l d
+021/177	feld	1	f e l d
+021/179	feld	1	f e l d
+021/181	feld	1	f e l d
+021/183	feld	1	f e l d
+021/185	feld	1	f e l d
+021/187	fell	1	f e ll
+021/189	feeld	1	f ee l d
+021/191	fell	1	f e ll
+021/193	feld	1	f e l d
+021/195	fell	1	f e ll
+021/197	fell	1	f e ll
+021/199	föld	1	f ö l d
+021/201	föll	1	f ö ll
+021/203	field	1	f ie l d
+021/205	feld	1	f e l d
+021/207	fild	1	f i l d
+021/211	fild	1	f i l d
+021/215	feld	1	f e l d
+021/217	felt	1	f e l t
+021/219	föld	1	f ö l d
+022/055	feld	1	f e l d
+022/057	feld	1	f e l d
+022/059	feld	1	f e l d
+022/061	feld	1	f e l d
+022/063	fel	1	f e l
+022/065	kochchel	1	k o ch ch e l
+022/067	fell	1	f e ll
+022/069	fell	1	f e ll
+022/071	fell	1	f e ll
+022/073	fell	1	f e ll
+022/075	fell	1	f e ll
+022/077	fell	1	f e ll
+022/087	fell	1	f e ll
+022/089	fell	1	f e ll
+022/091	fell	1	f e ll
+022/093	fehl	1	f eh l
+022/095	feld	1	f e l d
+022/097	fell	1	f e ll
+022/099	fell	1	f e ll
+022/101	fill	1	f i ll
+022/103	fell	1	f e ll
+022/105	fill	1	f i ll
+022/107	fäld	1	f ä l d
+022/109	feld	1	f e l d
+022/111	fell	1	f e ll
+022/113	fell	1	f e ll
+022/115	feld	1	f e l d
+022/127	fel	1	f e l
+022/129	fill	1	f i ll
+022/131	fill	1	f i ll
+022/133	feel	1	f ee l
+022/135	fill	1	f i ll
+022/137	fel	1	f e l
+022/139	fehld	1	f eh l d
+022/141	fel	1	f e l
+022/143	feel	1	f ee l
+022/145	NA	NA	-
+022/147	feelt	1	f ee l t
+022/149	feel	1	f ee l
+022/151	fill	1	f i ll
+022/153	fill	1	f i ll
+022/155	feel	1	f ee l
+022/157	feld	1	f e l d
+022/159	fill	1	f i ll
+022/165	füll	1	f ü ll
+022/167	fill	1	f i ll
+022/169	feld	1	f e l d
+022/171	feld	1	f e l d
+022/173	feld	1	f e l d
+022/175	feld	1	f e l d
+022/177	fölld	1	f ö ll d
+022/179	land	1	l a n d
+022/181	feld	1	f e l d
+022/183	feld	1	f e l d
+022/185	feld	1	f e l d
+022/187	feld	1	f e l d
+022/189	feld	1	f e l d
+022/191	feld	1	f e l d
+022/193	fell	1	f e ll
+022/195	fell	1	f e ll
+022/197	fell	1	f e ll
+022/199	fell	1	f e ll
+022/201	felld	1	f e ll d
+022/203	fell	1	f e ll
+022/205	feld	1	f e l d
+022/209	felt	1	f e l t
+022/211	feld	1	f e l d
+022/215	feld	1	f e l d
+022/217	föll	1	f ö ll
+022/219	föld	1	f ö l d
+023/055	feld	1	f e l d
+023/059	feld	1	f e l d
+023/061	feld	1	f e l d
+023/063	feld	1	f e l d
+023/065	fell	1	f e ll
+023/067	fell	1	f e ll
+023/069	fell	1	f e ll
+023/071	fell	1	f e ll
+023/073	feld	1	f e l d
+023/075	fell	1	f e ll
+023/077	fell	1	f e ll
+023/079	fell	1	f e ll
+023/081	fell	1	f e ll
+023/083	fehl	1	f eh l
+023/085	fell	1	f e ll
+023/087	fehl	1	f eh l
+023/089	fell	1	f e ll
+023/091	fel	1	f e l
+023/093	fehl	1	f eh l
+023/095	fel	1	f e l
+023/097	fell	1	f e ll
+023/099	fell	1	f e ll
+023/101	fell	1	f e ll
+023/103	feel	1	f ee l
+023/105	feld	1	f e l d
+023/107	feld	1	f e l d
+023/109	fild	1	f i l d
+023/111	fild	1	f i l d
+023/113	fill	1	f i ll
+023/115	feld	1	f e l d
+023/117	fild	1	f i l d
+023/121	fill	1	f i ll
+023/123	fäil	1	f äi l
+023/125	fill	1	f i ll
+023/127	feld	1	f e l d
+023/129	fill	1	f i ll
+023/131	fell	1	f e ll
+023/133	fill	1	f i ll
+023/135	fill	1	f i ll
+023/137	feel	1	f ee l
+023/139	fel	1	f e l
+023/141	fehl	1	f eh l
+023/143	fehl	1	f eh l
+023/145	feel	1	f ee l
+023/147	fel	1	f e l
+023/149	feel	1	f ee l
+023/151	fehll	1	f eh ll
+023/153	fill	1	f i ll
+023/155	fil	1	f i l
+023/165	fel	1	f e l
+023/167	fel	1	f e l
+023/169	feld	1	f e l d
+023/175	feeld	1	f ee l d
+023/177	feld	1	f e l d
+023/179	feld	1	f e l d
+023/181	feld	1	f e l d
+023/183	feld	1	f e l d
+023/185	feld	1	f e l d
+023/187	feld	1	f e l d
+023/189	feld	1	f e l d
+023/191	fell	1	f e ll
+023/193	feld	1	f e l d
+023/195	feld	1	f e l d
+023/197	fell	1	f e ll
+023/199	fölld	1	f ö ll d
+023/201	föll	1	f ö ll
+023/203	felt	1	f e l t
+023/205	föll	1	f ö ll
+023/207	föld	1	f ö l d
+023/215	feld	1	f e l d
+023/217	felt	1	f e l t
+024/053	fell	1	f e ll
+024/057	land	1	l a n d
+024/059	feld	1	f e l d
+024/061	fell	1	f e ll
+024/063	land	1	l a n d
+024/065	fell	1	f e ll
+024/067	fell	1	f e ll
+024/069	fell	1	f e ll
+024/071	felt	1	f e l t
+024/073	fell	1	f e ll
+024/075	fell	1	f e ll
+024/077	fell	1	f e ll
+024/079	feld	1	f e l d
+024/081	feeld	1	f ee l d
+024/083	fell	1	f e ll
+024/085	fehll	1	f eh ll
+024/087	feld	1	f e l d
+024/089	feell	1	f ee ll
+024/091	fell	1	f e ll
+024/093	fell	1	f e ll
+024/095	fehl	1	f eh l
+024/097	feld	1	f e l d
+024/099	fell	1	f e ll
+024/101	feel	1	f ee l
+024/103	fell	1	f e ll
+024/105	fell	1	f e ll
+024/107	fill	1	f i ll
+024/109	fild	1	f i l d
+024/111	fild	1	f i l d
+024/113	fill	1	f i ll
+024/115	feld	1	f e l d
+024/117	felt	1	f e l t
+024/119	fell	1	f e ll
+024/121	fill	1	f i ll
+024/123	fell	1	f e ll
+024/125	feld	1	f e l d
+024/127	fell	1	f e ll
+024/129	fild	1	f i l d
+024/131	fel	1	f e l
+024/133	fill	1	f i ll
+024/135	fild	1	f i l d
+024/137	fel	1	f e l
+024/139	feehl	1	f eeh l
+024/141	fill	1	f i ll
+024/143	foel	1	f oe l
+024/145	fel	1	f e l
+024/147	fill	1	f i ll
+024/149	fehl	1	f eh l
+024/151	fill	1	f i ll
+024/153	feld	1	f e l d
+024/155	fild	1	f i l d
+024/163	fild	1	f i l d
+024/165	fill	1	f i ll
+024/167	fill	1	f i ll
+024/169	fill	1	f i ll
+024/171	fil	1	f i l
+024/175	feld	1	f e l d
+024/179	feld	1	f e l d
+024/181	feld	1	f e l d
+024/183	felt	1	f e l t
+024/185	feld	1	f e l d
+024/187	feld	1	f e l d
+024/189	feld	1	f e l d
+024/191	feld	1	f e l d
+024/193	fell	1	f e ll
+024/195	foll	1	f o ll
+024/197	fell	1	f e ll
+024/199	fel	1	f e l
+024/201	föll	1	f ö ll
+024/203	föld	1	f ö l d
+024/217	felt	1	f e l t
+024/221	feld	1	f e l d
+025/043	lan	1	l a n
+025/051	feld	1	f e l d
+025/053	fell	1	f e ll
+025/055	feld	1	f e l d
+025/057	fell	1	f e ll
+025/059	fel	1	f e l
+025/061	land	1	l a n d
+025/063	feld	1	f e l d
+025/065	feld	1	f e l d
+025/067	fell	1	f e ll
+025/069	fell	1	f e ll
+025/071	fell	1	f e ll
+025/073	fell	1	f e ll
+025/075	fel	1	f e l
+025/077	fel	1	f e l
+025/079	fell	1	f e ll
+025/081	fehl	1	f eh l
+025/083	fell	1	f e ll
+025/085	fel	1	f e l
+025/087	feld	1	f e l d
+025/089	fel	1	f e l
+025/091	fellh	1	f e ll h
+025/093	fell	1	f e ll
+025/095	fil	1	f i l
+025/099	fell	1	f e ll
+025/101	fel	1	f e l
+025/103	fell	1	f e ll
+025/105	fell	1	f e ll
+025/107	fill	1	f i ll
+025/109	fill	1	f i ll
+025/111	fill	1	f i ll
+025/113	fell	1	f e ll
+025/115	fell	1	f e ll
+025/123	fell	1	f e ll
+025/125	fild	1	f i l d
+025/127	feell	1	f ee ll
+025/129	fäll	1	f ä ll
+025/131	fill	1	f i ll
+025/133	fill	1	f i ll
+025/135	fell	1	f e ll
+025/137	fild	1	f i l d
+025/139	fel	1	f e l
+025/141	fel	1	f e l
+025/143	fehl	1	f eh l
+025/145	fill	1	f i ll
+025/147	fel	1	f e l
+025/149	fel	1	f e l
+025/151	fill	1	f i ll
+025/153	fil	1	f i l
+025/155	fell	1	f e ll
+025/157	fild	1	f i l d
+025/159	fell	1	f e ll
+025/177	föld	1	f ö l d
+025/179	feld	1	f e l d
+025/181	feld	1	f e l d
+025/183	feld	1	f e l d
+025/185	feld	1	f e l d
+025/187	feld	1	f e l d
+025/189	feld	1	f e l d
+025/191	feld	1	f e l d
+026/031	feld	1	f e l d
+026/033	feld	1	f e l d
+026/037	feld	1	f e l d
+026/041	feld	1	f e l d
+026/043	land	1	l a n d
+026/045	land	1	l a n d
+026/051	feld	1	f e l d
+026/053	fell	1	f e ll
+026/055	fell	1	f e ll
+026/057	fel	1	f e l
+026/059	fel	1	f e l
+026/061	feld	1	f e l d
+026/063	feld	1	f e l d
+026/065	feld	1	f e l d
+026/067	fel	1	f e l
+026/069	feld	1	f e l d
+026/071	fell	1	f e ll
+026/073	fiel	1	f ie l
+026/075	fehl	1	f eh l
+026/077	feel	1	f ee l
+026/079	fell	1	f e ll
+026/081	fell	1	f e ll
+026/083	fehl	1	f eh l
+026/085	feld	1	f e l d
+026/087	fell	1	f e ll
+026/089	fell	1	f e ll
+026/091	fell	1	f e ll
+026/093	fell	1	f e ll
+026/095	fal	1	f a l
+026/097	feld	1	f e l d
+026/099	fell	1	f e ll
+026/101	fill	1	f i ll
+026/103	fell	1	f e ll
+026/105	fill	1	f i ll
+026/107	fell	1	f e ll
+026/109	fild	1	f i l d
+026/111	fell	1	f e ll
+026/113	fell	1	f e ll
+026/115	fulld	1	f u ll d
+026/117	feld	1	f e l d
+026/119	feld	1	f e l d
+026/123	fillt	1	f i ll t
+026/125	fill	1	f i ll
+026/127	fill	1	f i ll
+026/129	fill	1	f i ll
+026/131	fill	1	f i ll
+026/133	fill	1	f i ll
+026/135	fill	1	f i ll
+026/137	fill	1	f i ll
+026/139	feal	1	f ea l
+026/141	fel	1	f e l
+026/143	fel	1	f e l
+026/145	fil	1	f i l
+026/147	fel	1	f e l
+026/153	fel	1	f e l
+026/155	fill	1	f i ll
+026/157	fill	1	f i ll
+026/159	fehl	1	f eh l
+026/161	fill	1	f i ll
+026/165	feld	1	f e l d
+026/173	feld	1	f e l d
+026/175	fell	1	f e ll
+026/177	feld	1	f e l d
+026/179	fell	1	f e ll
+026/181	feld	1	f e l d
+026/183	feld	1	f e l d
+026/185	feld	1	f e l d
+026/187	feld	1	f e l d
+026/189	feld	1	f e l d
+027/027	feld	1	f e l d
+027/035	land	1	l a n d
+027/037	feld	1	f e l d
+027/039	lant	1	l a n t
+027/041	land	1	l a n d
+027/043	feld	1	f e l d
+027/045	land	1	l a n d
+027/047	land	1	l a n d
+027/051	land	1	l a n d
+027/053	fell	1	f e ll
+027/055	fell	1	f e ll
+027/057	fell	1	f e ll
+027/059	fell	1	f e ll
+027/061	fell	1	f e ll
+027/063	fel	1	f e l
+027/065	fell	1	f e ll
+027/067	feld	1	f e l d
+027/069	fell	1	f e ll
+027/071	fell	1	f e ll
+027/073	feel	1	f ee l
+027/075	fehl	1	f eh l
+027/077	fell	1	f e ll
+027/079	feld	1	f e l d
+027/081	fehl	1	f eh l
+027/083	fell	1	f e ll
+027/085	fell	1	f e ll
+027/087	fell	1	f e ll
+027/089	fell	1	f e ll
+027/091	feel	1	f ee l
+027/093	fell	1	f e ll
+027/095	fell	1	f e ll
+027/099	fill	1	f i ll
+027/101	fill	1	f i ll
+027/103	feld	1	f e l d
+027/105	fill	1	f i ll
+027/107	fell	1	f e ll
+027/109	fell	1	f e ll
+027/111	fell	1	f e ll
+027/113	feld	1	f e l d
+027/115	feld	1	f e l d
+027/117	feld	1	f e l d
+027/119	feld	1	f e l d
+027/123	feld	1	f e l d
+027/125	fill	1	f i ll
+027/127	fill	1	f i ll
+027/129	fill	1	f i ll
+027/131	fill	1	f i ll
+027/135	fill	1	f i ll
+027/137	fill	1	f i ll
+027/139	fel	1	f e l
+027/141	fill	1	f i ll
+027/143	fel	1	f e l
+027/145	füll	1	f ü ll
+027/147	feel	1	f ee l
+027/149	fill	1	f i ll
+027/151	fill	1	f i ll
+027/153	fild	1	f i l d
+027/155	fill	1	f i ll
+027/157	fill	1	f i ll
+027/159	fill	1	f i ll
+027/161	feld	1	f e l d
+027/167	fill	1	f i ll
+027/171	fell	1	f e ll
+027/173	feld	1	f e l d
+027/175	fel	1	f e l
+027/177	fel	1	f e l
+027/179	föll	1	f ö ll
+027/181	föl	1	f ö l
+027/183	feld	1	f e l d
+027/185	feld	1	f e l d
+028/033	feld	1	f e l d
+028/035	feld	1	f e l d
+028/037	feld	1	f e l d
+028/039	feld	1	f e l d
+028/041	felt	1	f e l t
+028/043	land	1	l a n d
+028/045	land	1	l a n d
+028/047	NA	NA	-
+028/049	land	1	l a n d
+028/051	feld	1	f e l d
+028/053	fell	1	f e ll
+028/055	fell	1	f e ll
+028/057	fell	1	f e ll
+028/059	fell	1	f e ll
+028/061	fell	1	f e ll
+028/063	fell	1	f e ll
+028/065	fell	1	f e ll
+028/067	fell	1	f e ll
+028/069	fell	1	f e ll
+028/071	fell	1	f e ll
+028/073	fehl	1	f eh l
+028/075	feehl	1	f eeh l
+028/077	fel	1	f e l
+028/079	feld	1	f e l d
+028/081	fell	1	f e ll
+028/083	feeld	1	f ee l d
+028/085	fell	1	f e ll
+028/087	fell	1	f e ll
+028/089	fell	1	f e ll
+028/091	fall	1	f a ll
+028/093	feld	1	f e l d
+028/095	fehl	1	f eh l
+028/097	fell	1	f e ll
+028/099	fell	1	f e ll
+028/103	feld	1	f e l d
+028/105	fill	1	f i ll
+028/107	fell	1	f e ll
+028/109	feld	1	f e l d
+028/111	feld	1	f e l d
+028/113	feld	1	f e l d
+028/115	feld	1	f e l d
+028/117	feld	1	f e l d
+028/119	feld	1	f e l d
+028/121	feld	1	f e l d
+028/123	feld	1	f e l d
+028/125	fäll	1	f ä ll
+028/127	fill	1	f i ll
+028/129	fill	1	f i ll
+028/131	fill	1	f i ll
+028/133	fill	1	f i ll
+028/135	fel	1	f e l
+028/137	fill	1	f i ll
+028/139	fill	1	f i ll
+028/141	fil	1	f i l
+028/143	fel	1	f e l
+028/145	fel	1	f e l
+028/147	feeld	1	f ee l d
+028/151	fill	1	f i ll
+028/153	fill	1	f i ll
+028/155	fill	1	f i ll
+028/157	fill	1	f i ll
+028/159	fill	1	f i ll
+028/161	fill	1	f i ll
+028/165	fild	1	f i l d
+028/169	fill	1	f i ll
+028/171	fell	1	f e ll
+028/173	fell	1	f e ll
+028/175	föll	1	f ö ll
+028/177	fäll	1	f ä ll
+028/179	feld	1	f e l d
+028/181	feld	1	f e l d
+028/183	feld	1	f e l d
+028/185	feld	1	f e l d
+029/033	veld	1	v e l d
+029/035	veld	1	v e l d
+029/037	feld	1	f e l d
+029/039	feld	1	f e l d
+029/043	land	1	l a n d
+029/045	land	1	l a n d
+029/047	feld	1	f e l d
+029/049	feld	1	f e l d
+029/051	fell	1	f e ll
+029/053	fell	1	f e ll
+029/055	fell	1	f e ll
+029/057	fell	1	f e ll
+029/059	fill	1	f i ll
+029/061	fill	1	f i ll
+029/065	fiel	1	f ie l
+029/067	fell	1	f e ll
+029/069	fell	1	f e ll
+029/071	fell	1	f e ll
+029/073	feld	1	f e l d
+029/075	fehl	1	f eh l
+029/077	feell	1	f ee ll
+029/079	fell	1	f e ll
+029/081	fel	1	f e l
+029/083	fel	1	f e l
+029/085	fehl	1	f eh l
+029/087	fehl	1	f eh l
+029/089	feell	1	f ee ll
+029/091	feld	1	f e l d
+029/093	fell	1	f e ll
+029/095	fell	1	f e ll
+029/097	fell	1	f e ll
+029/099	fell	1	f e ll
+029/101	fill	1	f i ll
+029/103	feld	1	f e l d
+029/105	fell	1	f e ll
+029/107	fell	1	f e ll
+029/109	fell	1	f e ll
+029/111	feld	1	f e l d
+029/113	feld	1	f e l d
+029/115	feld	1	f e l d
+029/117	feld	1	f e l d
+029/119	feld	1	f e l d
+029/121	feld	1	f e l d
+029/123	feld	1	f e l d
+029/125	fild	1	f i l d
+029/127	fill	1	f i ll
+029/129	fill	1	f i ll
+029/131	filld	1	f i ll d
+029/133	fill	1	f i ll
+029/135	fill	1	f i ll
+029/137	fel	1	f e l
+029/139	fel	1	f e l
+029/141	feell	1	f ee ll
+029/143	feel	1	f ee l
+029/145	fill	1	f i ll
+029/147	fill	1	f i ll
+029/149	fill	1	f i ll
+029/151	fill	1	f i ll
+029/153	fill	1	f i ll
+029/155	fill	1	f i ll
+029/157	fill	1	f i ll
+029/159	fill	1	f i ll
+029/161	fill	1	f i ll
+029/163	fill	1	f i ll
+029/165	fill	1	f i ll
+029/167	füll	1	f ü ll
+029/169	fil	1	f i l
+029/171	fäll	1	f ä ll
+029/173	fel	1	f e l
+029/175	fill	1	f i ll
+029/177	füll	1	f ü ll
+029/181	föl	1	f ö l
+030/033	veld	1	v e l d
+030/035	veld	1	v e l d
+030/037	veld	1	v e l d
+030/039	felt	1	f e l t
+030/041	feld	1	f e l d
+030/043	land	1	l a n d
+030/045	NA	NA	-
+030/047	feld	1	f e l d
+030/049	land	1	l a n d
+030/051	fel	1	f e l
+030/053	fell	1	f e ll
+030/055	fell	1	f e ll
+030/057	fel	1	f e l
+030/059	fill	1	f i ll
+030/061	fill	1	f i ll
+030/065	field	1	f ie l d
+030/067	fell	1	f e ll
+030/071	fel	1	f e l
+030/073	fell	1	f e ll
+030/075	fell	1	f e ll
+030/077	fell	1	f e ll
+030/079	fell	1	f e ll
+030/081	fell	1	f e ll
+030/083	feld	1	f e l d
+030/085	fell	1	f e ll
+030/087	fehl	1	f eh l
+030/089	fehll	1	f eh ll
+030/091	feld	1	f e l d
+030/093	fild	1	f i l d
+030/095	fell	1	f e ll
+030/097	fill	1	f i ll
+030/099	fell	1	f e ll
+030/101	fell	1	f e ll
+030/103	feld	1	f e l d
+030/105	fell	1	f e ll
+030/107	feld	1	f e l d
+030/109	feld	1	f e l d
+030/111	feld	1	f e l d
+030/113	feld	1	f e l d
+030/115	feld	1	f e l d
+030/117	feld	1	f e l d
+030/119	feld	1	f e l d
+030/121	feld	1	f e l d
+030/123	feld	1	f e l d
+030/125	fild	1	f i l d
+030/127	fel	1	f e l
+030/129	fäll	1	f ä ll
+030/131	fill	1	f i ll
+030/133	fill	1	f i ll
+030/135	fill	1	f i ll
+030/137	fill	1	f i ll
+030/139	fill	1	f i ll
+030/141	fel	1	f e l
+030/143	fel	1	f e l
+030/145	fill	1	f i ll
+030/147	fell	1	f e ll
+030/149	fell	1	f e ll
+030/151	fill	1	f i ll
+030/153	fil	1	f i l
+030/155	fill	1	f i ll
+030/157	fel	1	f e l
+030/159	fill	1	f i ll
+030/161	fild	1	f i l d
+030/163	fill	1	f i ll
+030/165	fill	1	f i ll
+030/167	füll	1	f ü ll
+030/169	feld	1	f e l d
+030/171	fell	1	f e ll
+030/173	feld	1	f e l d
+030/175	fäll	1	f ä ll
+030/177	fel	1	f e l
+030/179	feld	1	f e l d
+030/181	fel	1	f e l
+030/183	fill	1	f i ll
+031/035	veld	1	v e l d
+031/037	veld	1	v e l d
+031/039	feld	1	f e l d
+031/041	feld	1	f e l d
+031/043	land	1	l a n d
+031/045	fell	1	f e ll
+031/047	fell	1	f e ll
+031/049	lann	1	l a nn
+031/051	fell	1	f e ll
+031/053	fell	1	f e ll
+031/055	fell	1	f e ll
+031/057	fell	1	f e ll
+031/059	fel	1	f e l
+031/061	fill	1	f i ll
+031/063	feld	1	f e l d
+031/065	fell	1	f e ll
+031/067	feld	1	f e l d
+031/069	fell	1	f e ll
+031/071	fell	1	f e ll
+031/073	fell	1	f e ll
+031/075	fell	1	f e ll
+031/077	fell	1	f e ll
+031/079	fel	1	f e l
+031/081	fell	1	f e ll
+031/083	feell	1	f ee ll
+031/085	fell	1	f e ll
+031/087	feld	1	f e l d
+031/089	feld	1	f e l d
+031/091	fell	1	f e ll
+031/093	fell	1	f e ll
+031/095	feld	1	f e l d
+031/097	fell	1	f e ll
+031/099	fel	1	f e l
+031/101	fell	1	f e ll
+031/103	feld	1	f e l d
+031/105	feld	1	f e l d
+031/107	fell	1	f e ll
+031/109	feld	1	f e l d
+031/111	feld	1	f e l d
+031/113	feld	1	f e l d
+031/115	feld	1	f e l d
+031/117	feld	1	f e l d
+031/119	feld	1	f e l d
+031/121	feld	1	f e l d
+031/123	fild	1	f i l d
+031/125	fild	1	f i l d
+031/127	filld	1	f i ll d
+031/129	fill	1	f i ll
+031/131	fill	1	f i ll
+031/133	fill	1	f i ll
+031/135	fill	1	f i ll
+031/137	fill	1	f i ll
+031/139	fill	1	f i ll
+031/141	feld	1	f e l d
+031/143	fill	1	f i ll
+031/145	fill	1	f i ll
+031/147	fill	1	f i ll
+031/149	fill	1	f i ll
+031/151	fihl	1	f ih l
+031/153	filt	1	f i l t
+031/155	fill	1	f i ll
+031/157	fill	1	f i ll
+031/159	feell	1	f ee ll
+031/161	fill	1	f i ll
+031/163	fild	1	f i l d
+031/167	fell	1	f e ll
+031/169	feld	1	f e l d
+031/171	feld	1	f e l d
+031/173	feld	1	f e l d
+031/175	fill	1	f i ll
+031/177	fill	1	f i ll
+031/179	fild	1	f i l d
+032/035	veld	1	v e l d
+032/037	land	1	l a n d
+032/039	feld	1	f e l d
+032/041	feld	1	f e l d
+032/043	feld	1	f e l d
+032/045	fell	1	f e ll
+032/047	kamp	1	k a m p
+032/049	feld	1	f e l d
+032/051	fell	1	f e ll
+032/053	fell	1	f e ll
+032/055	fell	1	f e ll
+032/057	NA	NA	-
+032/059	fell	1	f e ll
+032/061	fell	1	f e ll
+032/065	fell	1	f e ll
+032/069	fell	1	f e ll
+032/071	fell	1	f e ll
+032/073	fäll	1	f ä ll
+032/075	fell	1	f e ll
+032/077	feld	1	f e l d
+032/079	fell	1	f e ll
+032/081	fell	1	f e ll
+032/083	fell	1	f e ll
+032/085	fell	1	f e ll
+032/087	fell	1	f e ll
+032/089	feld	1	f e l d
+032/091	fell	1	f e ll
+032/093	feld	1	f e l d
+032/095	feld	1	f e l d
+032/097	fell	1	f e ll
+032/099	feld	1	f e l d
+032/101	feld	1	f e l d
+032/103	fell	1	f e ll
+032/105	feld	1	f e l d
+032/107	feld	1	f e l d
+032/111	feld	1	f e l d
+032/113	feld	1	f e l d
+032/115	feld	1	f e l d
+032/117	feld	1	f e l d
+032/119	feld	1	f e l d
+032/121	feld	1	f e l d
+032/123	NA	NA	-
+032/125	fild	1	f i l d
+032/127	fild	1	f i l d
+032/129	fild	1	f i l d
+032/131	fell	1	f e ll
+032/133	fill	1	f i ll
+032/135	fill	1	f i ll
+032/139	fell	1	f e ll
+032/141	fill	1	f i ll
+032/143	feld	1	f e l d
+032/145	fel	1	f e l
+032/147	fel	1	f e l
+032/149	fel	1	f e l
+032/151	fel	1	f e l
+032/153	fill	1	f i ll
+032/157	fill	1	f i ll
+032/159	fill	1	f i ll
+032/161	fill	1	f i ll
+032/163	fill	1	f i ll
+032/167	föll	1	f ö ll
+032/169	feld	1	f e l d
+032/171	NA	NA	-
+032/173	feld	1	f e l d
+032/175	fell	1	f e ll
+032/177	fel	1	f e l
+032/179	fehld	1	f eh l d
+032/181	fel	1	f e l
+032/183	fel	1	f e l
+033/035	felt	1	f e l t
+033/037	feld	1	f e l d
+033/039	feld	1	f e l d
+033/041	fell	1	f e ll
+033/043	feld	1	f e l d
+033/045	lann	1	l a nn
+033/047	lann	1	l a nn
+033/049	fell	1	f e ll
+033/051	fell	1	f e ll
+033/053	fell	1	f e ll
+033/055	fell	1	f e ll
+033/057	fell	1	f e ll
+033/059	fell	1	f e ll
+033/061	fel	1	f e l
+033/063	fell	1	f e ll
+033/065	fell	1	f e ll
+033/067	fell	1	f e ll
+033/069	fell	1	f e ll
+033/071	fel	1	f e l
+033/073	fell	1	f e ll
+033/075	feld	1	f e l d
+033/077	fell	1	f e ll
+033/079	feld	1	f e l d
+033/081	feld	1	f e l d
+033/083	fell	1	f e ll
+033/085	fäll	1	f ä ll
+033/087	feld	1	f e l d
+033/089	feld	1	f e l d
+033/091	feld	1	f e l d
+033/093	feld	1	f e l d
+033/095	feld	1	f e l d
+033/097	feld	1	f e l d
+033/099	feld	1	f e l d
+033/101	feld	1	f e l d
+033/103	feld	1	f e l d
+033/105	feld	1	f e l d
+033/107	feld	1	f e l d
+033/109	feld	1	f e l d
+033/111	feld	1	f e l d
+033/113	feld	1	f e l d
+033/115	feld	1	f e l d
+033/117	feld	1	f e l d
+033/119	feld	1	f e l d
+033/121	feld	1	f e l d
+033/123	feld	1	f e l d
+033/125	fielt	1	f ie l t
+033/127	fild	1	f i l d
+033/129	fild	1	f i l d
+033/131	felt	1	f e l t
+033/133	fill	1	f i ll
+033/135	fill	1	f i ll
+033/137	föll	1	f ö ll
+033/139	fild	1	f i l d
+033/141	fill	1	f i ll
+033/143	fill	1	f i ll
+033/145	fel	1	f e l
+033/147	fel	1	f e l
+033/149	fill	1	f i ll
+033/151	fel	1	f e l
+033/153	fill	1	f i ll
+033/155	fild	1	f i l d
+033/159	fil	1	f i l
+033/161	fill	1	f i ll
+033/163	fill	1	f i ll
+033/165	fell	1	f e ll
+033/167	fell	1	f e ll
+033/169	fell	1	f e ll
+033/173	fel	1	f e l
+033/175	föll	1	f ö ll
+033/177	fell	1	f e ll
+034/035	feld	1	f e l d
+034/039	feld	1	f e l d
+034/041	feld	1	f e l d
+034/043	feld	1	f e l d
+034/045	fell	1	f e ll
+034/047	fell	1	f e ll
+034/049	fell	1	f e ll
+034/051	fell	1	f e ll
+034/053	fell	1	f e ll
+034/055	feld	1	f e l d
+034/057	fell	1	f e ll
+034/059	fell	1	f e ll
+034/061	fell	1	f e ll
+034/063	fel	1	f e l
+034/065	fell	1	f e ll
+034/067	fell	1	f e ll
+034/069	fell	1	f e ll
+034/071	fell	1	f e ll
+034/073	fell	1	f e ll
+034/075	fell	1	f e ll
+034/077	fel	1	f e l
+034/079	stuck	1	s t u ck
+034/081	feld	1	f e l d
+034/083	feld	1	f e l d
+034/085	feld	1	f e l d
+034/087	feld	1	f e l d
+034/089	feld	1	f e l d
+034/091	feld	1	f e l d
+034/093	feld	1	f e l d
+034/095	feld	1	f e l d
+034/097	feld	1	f e l d
+034/099	feld	1	f e l d
+034/101	feld	1	f e l d
+034/103	feld	1	f e l d
+034/105	feld	1	f e l d
+034/107	feld	1	f e l d
+034/109	feld	1	f e l d
+034/111	feld	1	f e l d
+034/113	feld	1	f e l d
+034/115	feld	1	f e l d
+034/117	feld	1	f e l d
+034/119	feld	1	f e l d
+034/121	feld	1	f e l d
+034/125	feld	1	f e l d
+034/127	feld	1	f e l d
+034/129	feld	1	f e l d
+034/131	fild	1	f i l d
+034/133	fill	1	f i ll
+034/135	fill	1	f i ll
+034/137	fill	1	f i ll
+034/139	fell	1	f e ll
+034/141	fill	1	f i ll
+034/143	fill	1	f i ll
+034/145	fel	1	f e l
+034/147	fyll	1	f y ll
+034/149	fill	1	f i ll
+034/151	fill	1	f i ll
+034/155	fel	1	f e l
+034/157	fill	1	f i ll
+034/161	fehll	1	f eh ll
+034/163	fill	1	f i ll
+034/165	fel	1	f e l
+034/167	fyll	1	f y ll
+034/169	föll	1	f ö ll
+034/173	fäll	1	f ä ll
+035/035	feld	1	f e l d
+035/037	feld	1	f e l d
+035/039	feld	1	f e l d
+035/041	feld	1	f e l d
+035/043	eske	1	e s k e
+035/045	feld	1	f e l d
+035/047	feld	1	f e l d
+035/049	fell	1	f e ll
+035/051	feld	1	f e l d
+035/053	fell	1	f e ll
+035/055	fell	1	f e ll
+035/057	fell	1	f e ll
+035/059	fell	1	f e ll
+035/061	fell	1	f e ll
+035/063	fell	1	f e ll
+035/065	fel	1	f e l
+035/067	fell	1	f e ll
+035/069	fel	1	f e l
+035/071	feld	1	f e l d
+035/073	fell	1	f e ll
+035/075	fell	1	f e ll
+035/077	feld	1	f e l d
+035/079	feld	1	f e l d
+035/081	feld	1	f e l d
+035/083	feld	1	f e l d
+035/085	feld	1	f e l d
+035/087	feld	1	f e l d
+035/089	feld	1	f e l d
+035/091	feld	1	f e l d
+035/093	feld	1	f e l d
+035/095	fell	1	f e ll
+035/097	feld	1	f e l d
+035/099	feld	1	f e l d
+035/101	feld	1	f e l d
+035/103	feld	1	f e l d
+035/105	feld	1	f e l d
+035/107	feld	1	f e l d
+035/109	feld	1	f e l d
+035/111	feld	1	f e l d
+035/113	feld	1	f e l d
+035/115	feld	1	f e l d
+035/117	feld	1	f e l d
+035/121	feld	1	f e l d
+035/123	feld	1	f e l d
+035/125	feld	1	f e l d
+035/127	feld	1	f e l d
+035/129	feld	1	f e l d
+035/133	fill	1	f i ll
+035/135	fill	1	f i ll
+035/137	fill	1	f i ll
+035/139	fill	1	f i ll
+035/141	fill	1	f i ll
+035/143	fill	1	f i ll
+035/145	fell	1	f e ll
+035/147	feld	1	f e l d
+035/149	fill	1	f i ll
+035/151	fell	1	f e ll
+035/153	fillt	1	f i ll t
+035/155	fill	1	f i ll
+035/157	feld	1	f e l d
+035/165	fill	1	f i ll
+035/167	fill	1	f i ll
+035/169	land	1	l a n d
+035/171	fell	1	f e ll
+035/173	fel	1	f e l
+036/033	feld	1	f e l d
+036/035	feld	1	f e l d
+036/039	feld	1	f e l d
+036/041	feld	1	f e l d
+036/043	feld	1	f e l d
+036/045	feld	1	f e l d
+036/047	fell	1	f e ll
+036/049	fell	1	f e ll
+036/051	feld	1	f e l d
+036/053	fell	1	f e ll
+036/055	fell	1	f e ll
+036/057	fell	1	f e ll
+036/059	feld	1	f e l d
+036/061	fel	1	f e l
+036/063	fell	1	f e ll
+036/065	fell	1	f e ll
+036/067	fell	1	f e ll
+036/069	fell	1	f e ll
+036/071	fell	1	f e ll
+036/073	fell	1	f e ll
+036/075	feld	1	f e l d
+036/077	feld	1	f e l d
+036/079	feld	1	f e l d
+036/081	fell	1	f e ll
+036/083	feld	1	f e l d
+036/085	feld	1	f e l d
+036/087	felt	1	f e l t
+036/089	feld	1	f e l d
+036/091	feld	1	f e l d
+036/095	feld	1	f e l d
+036/097	feld	1	f e l d
+036/099	feld	1	f e l d
+036/101	feld	1	f e l d
+036/103	feld	1	f e l d
+036/105	NA	NA	-
+036/107	feld	1	f e l d
+036/109	feld	1	f e l d
+036/111	feld	1	f e l d
+036/113	feld	1	f e l d
+036/115	feld	1	f e l d
+036/117	feld	1	f e l d
+036/119	feld	1	f e l d
+036/121	feld	1	f e l d
+036/123	feld	1	f e l d
+036/125	feldt	1	f e l d t
+036/127	feld	1	f e l d
+036/129	feld	1	f e l d
+036/133	fill	1	f i ll
+036/135	fill	1	f i ll
+036/137	fäll	1	f ä ll
+036/139	füll	1	f ü ll
+036/141	fild	1	f i l d
+036/143	fill	1	f i ll
+036/147	feld	1	f e l d
+036/149	fill	1	f i ll
+036/151	fill	1	f i ll
+036/153	feld	1	f e l d
+036/155	fell	1	f e ll
+036/161	fel	1	f e l
+036/163	fell	1	f e ll
+036/165	fell	1	f e ll
+036/167	land	1	l a n d
+036/169	fell	1	f e ll
+036/171	fel	1	f e l
+037/033	feld	1	f e l d
+037/035	felt	1	f e l t
+037/037	fäld	1	f ä l d
+037/039	feld	1	f e l d
+037/041	feld	1	f e l d
+037/043	eske	1	e s k e
+037/045	eske	1	e s k e
+037/047	esche	1	e sch e
+037/049	fell	1	f e ll
+037/051	fell	1	f e ll
+037/053	fell	1	f e ll
+037/055	fell	1	f e ll
+037/057	fell	1	f e ll
+037/059	fell	1	f e ll
+037/061	fell	1	f e ll
+037/063	fell	1	f e ll
+037/065	fell	1	f e ll
+037/067	fell	1	f e ll
+037/069	fell	1	f e ll
+037/071	fell	1	f e ll
+037/073	fell	1	f e ll
+037/075	fell	1	f e ll
+037/077	feld	1	f e l d
+037/079	fell	1	f e ll
+037/081	föad	1	f öa d
+037/083	feld	1	f e l d
+037/085	feld	1	f e l d
+037/087	feld	1	f e l d
+037/089	feld	1	f e l d
+037/091	feld	1	f e l d
+037/093	feld	1	f e l d
+037/095	feld	1	f e l d
+037/097	feld	1	f e l d
+037/099	feld	1	f e l d
+037/101	feld	1	f e l d
+037/105	feld	1	f e l d
+037/107	feld	1	f e l d
+037/109	feld	1	f e l d
+037/111	feld	1	f e l d
+037/113	feld	1	f e l d
+037/115	feld	1	f e l d
+037/117	feld	1	f e l d
+037/119	feld	1	f e l d
+037/121	feld	1	f e l d
+037/123	feld	1	f e l d
+037/125	feld	1	f e l d
+037/127	feld	1	f e l d
+037/129	feld	1	f e l d
+037/131	feld	1	f e l d
+037/133	feld	1	f e l d
+037/135	feld	1	f e l d
+037/137	feld	1	f e l d
+037/139	feld	1	f e l d
+037/141	fal	1	f a l
+037/145	fel	1	f e l
+037/147	fel	1	f e l
+037/149	felt	1	f e l t
+037/151	fel	1	f e l
+037/153	feld	1	f e l d
+037/155	fel	1	f e l
+037/157	fel	1	f e l
+037/159	wel	1	w e l
+037/163	fill	1	f i ll
+037/171	fäll	1	f ä ll
+038/033	feld	1	f e l d
+038/035	felt	1	f e l t
+038/037	feld	1	f e l d
+038/039	feld	1	f e l d
+038/041	feld	1	f e l d
+038/043	eske	1	e s k e
+038/045	feld	1	f e l d
+038/047	fell	1	f e ll
+038/049	fell	1	f e ll
+038/051	fell	1	f e ll
+038/053	fell	1	f e ll
+038/055	fäll	1	f ä ll
+038/057	fell	1	f e ll
+038/059	fell	1	f e ll
+038/061	fell	1	f e ll
+038/063	fell	1	f e ll
+038/065	fell	1	f e ll
+038/067	fell	1	f e ll
+038/069	feld	1	f e l d
+038/071	fell	1	f e ll
+038/073	fell	1	f e ll
+038/075	fell	1	f e ll
+038/077	fell	1	f e ll
+038/079	feld	1	f e l d
+038/081	feld	1	f e l d
+038/083	feld	1	f e l d
+038/085	feld	1	f e l d
+038/087	feld	1	f e l d
+038/089	feld	1	f e l d
+038/091	feld	1	f e l d
+038/093	feld	1	f e l d
+038/095	feld	1	f e l d
+038/097	feld	1	f e l d
+038/099	feld	1	f e l d
+038/101	feld	1	f e l d
+038/103	feld	1	f e l d
+038/105	feld	1	f e l d
+038/107	feld	1	f e l d
+038/109	feld	1	f e l d
+038/111	feld	1	f e l d
+038/113	feld	1	f e l d
+038/115	feld	1	f e l d
+038/117	feld	1	f e l d
+038/119	feld	1	f e l d
+038/121	feld	1	f e l d
+038/123	feld	1	f e l d
+038/125	feld	1	f e l d
+038/127	feld	1	f e l d
+038/129	feld	1	f e l d
+038/131	feld	1	f e l d
+038/133	feld	1	f e l d
+038/135	feld	1	f e l d
+038/145	feel	1	f ee l
+038/147	fel	1	f e l
+038/149	fehl	1	f eh l
+038/151	fell	1	f e ll
+038/153	fell	1	f e ll
+038/155	feell	1	f ee ll
+038/159	fel	1	f e l
+038/161	fel	1	f e l
+038/163	feld	1	f e l d
+039/029	land	1	l a n d
+039/031	land	1	l a n d
+039/033	land	1	l a n d
+039/035	feld	1	f e l d
+039/037	neske	1	n e s k e
+039/039	feld	1	f e l d
+039/041	eske	1	e s k e
+039/043	feld	1	f e l d
+039/045	feld	1	f e l d
+039/047	feld	1	f e l d
+039/049	feld	1	f e l d
+039/051	fell	1	f e ll
+039/053	fell	1	f e ll
+039/055	feel	1	f ee l
+039/057	fehl	1	f eh l
+039/059	fell	1	f e ll
+039/061	fell	1	f e ll
+039/063	fell	1	f e ll
+039/065	fell	1	f e ll
+039/067	fell	1	f e ll
+039/069	fell	1	f e ll
+039/071	fell	1	f e ll
+039/073	fell	1	f e ll
+039/075	feld	1	f e l d
+039/077	fell	1	f e ll
+039/079	fell	1	f e ll
+039/081	fell	1	f e ll
+039/083	feld	1	f e l d
+039/085	feld	1	f e l d
+039/087	feld	1	f e l d
+039/089	feld	1	f e l d
+039/091	feld	1	f e l d
+039/093	feld	1	f e l d
+039/095	feld	1	f e l d
+039/097	feld	1	f e l d
+039/099	feld	1	f e l d
+039/101	feld	1	f e l d
+039/103	feld	1	f e l d
+039/105	feld	1	f e l d
+039/107	feld	1	f e l d
+039/109	feld	1	f e l d
+039/111	feld	1	f e l d
+039/113	feld	1	f e l d
+039/115	feld	1	f e l d
+039/117	feld	1	f e l d
+039/119	feld	1	f e l d
+039/121	feld	1	f e l d
+039/123	feld	1	f e l d
+039/125	feld	1	f e l d
+039/127	feld	1	f e l d
+039/129	feld	1	f e l d
+039/131	feld	1	f e l d
+039/133	fall	1	f a ll
+039/135	fäll	1	f ä ll
+039/137	feld	1	f e l d
+039/139	fald	1	f a l d
+039/149	fell	1	f e ll
+039/151	fill	1	f i ll
+039/153	fel	1	f e l
+039/155	fell	1	f e ll
+040/029	feld	1	f e l d
+040/031	land	1	l a n d
+040/033	kamp	1	k a m p
+040/035	feld	1	f e l d
+040/037	veld	1	v e l d
+040/039	feld	1	f e l d
+040/041	feld	1	f e l d
+040/043	eske	1	e s k e
+040/045	lanne	1	l a nn e
+040/047	eske	1	e s k e
+040/049	felld	1	f e ll d
+040/051	fall	1	f a ll
+040/053	feel	1	f ee l
+040/055	feel	1	f ee l
+040/057	feehl	1	f eeh l
+040/059	fell	1	f e ll
+040/061	fell	1	f e ll
+040/063	fell	1	f e ll
+040/065	fell	1	f e ll
+040/067	fell	1	f e ll
+040/069	fell	1	f e ll
+040/071	fell	1	f e ll
+040/073	fell	1	f e ll
+040/075	fell	1	f e ll
+040/077	fell	1	f e ll
+040/079	felld	1	f e ll d
+040/081	feld	1	f e l d
+040/083	feld	1	f e l d
+040/085	feld	1	f e l d
+040/087	feld	1	f e l d
+040/089	feld	1	f e l d
+040/091	feld	1	f e l d
+040/093	fält	1	f ä l t
+040/095	feld	1	f e l d
+040/097	feld	1	f e l d
+040/099	feld	1	f e l d
+040/101	feld	1	f e l d
+040/103	feld	1	f e l d
+040/105	feld	1	f e l d
+040/107	feld	1	f e l d
+040/109	feld	1	f e l d
+040/111	feld	1	f e l d
+040/113	feld	1	f e l d
+040/115	feld	1	f e l d
+040/119	feld	1	f e l d
+040/121	feld	1	f e l d
+040/123	feld	1	f e l d
+040/125	feld	1	f e l d
+040/127	fäld	1	f ä l d
+040/129	feld	1	f e l d
+040/131	feld	1	f e l d
+040/133	fall	1	f a ll
+040/135	fall	1	f a ll
+040/137	fald	1	f a l d
+040/141	feld	1	f e l d
+040/143	feld	1	f e l d
+040/149	feld	1	f e l d
+040/153	fill	1	f i ll
+040/155	fäl	1	f ä l
+041/031	fyld	1	f y l d
+041/033	lant	1	l a n t
+041/035	feld	1	f e l d
+041/037	feld	1	f e l d
+041/039	feld	1	f e l d
+041/041	feld	1	f e l d
+041/043	feel	1	f ee l
+041/045	fell	1	f e ll
+041/047	feil	1	f ei l
+041/049	fäähl	1	f ääh l
+041/051	feil	1	f ei l
+041/053	feel	1	f ee l
+041/055	fel	1	f e l
+041/057	fel	1	f e l
+041/059	fell	1	f e ll
+041/061	fell	1	f e ll
+041/063	fell	1	f e ll
+041/065	fell	1	f e ll
+041/067	fell	1	f e ll
+041/069	fell	1	f e ll
+041/071	fell	1	f e ll
+041/073	fell	1	f e ll
+041/075	fell	1	f e ll
+041/077	fell	1	f e ll
+041/079	fell	1	f e ll
+041/081	fell	1	f e ll
+041/083	feld	1	f e l d
+041/085	NA	NA	-
+041/087	feld	1	f e l d
+041/089	feld	1	f e l d
+041/091	feld	1	f e l d
+041/093	feld	1	f e l d
+041/095	feld	1	f e l d
+041/097	feld	1	f e l d
+041/099	feld	1	f e l d
+041/101	feld	1	f e l d
+041/103	feld	1	f e l d
+041/105	feld	1	f e l d
+041/107	feld	1	f e l d
+041/109	fild	1	f i l d
+041/111	feld	1	f e l d
+041/113	feld	1	f e l d
+041/115	feld	1	f e l d
+041/117	feld	1	f e l d
+041/119	feld	1	f e l d
+041/121	feld	1	f e l d
+041/123	feld	1	f e l d
+041/125	feld	1	f e l d
+041/127	feld	1	f e l d
+041/129	feld	1	f e l d
+041/131	feld	1	f e l d
+041/133	fall	1	f a ll
+041/135	feld	1	f e l d
+041/139	feld	1	f e l d
+041/141	NA	NA	-
+041/145	feld	1	f e l d
+041/147	felld	1	f e ll d
+041/153	fil	1	f i l
+041/155	fell	1	f e ll
+041/157	feld	1	f e l d
+041/159	fel	1	f e l
+041/161	fel	1	f e l
+042/033	land	1	l a n d
+042/035	feld	1	f e l d
+042/037	land	1	l a n d
+042/039	land	1	l a n d
+042/041	feld	1	f e l d
+042/043	eske	1	e s k e
+042/045	eske	1	e s k e
+042/047	feild	1	f ei l d
+042/051	fäil	1	f äi l
+042/053	fähl	1	f äh l
+042/055	fehl	1	f eh l
+042/057	fell	1	f e ll
+042/059	fehl	1	f eh l
+042/061	fäil	1	f äi l
+042/063	fell	1	f e ll
+042/065	fell	1	f e ll
+042/067	fell	1	f e ll
+042/069	fell	1	f e ll
+042/071	fell	1	f e ll
+042/073	fell	1	f e ll
+042/075	fell	1	f e ll
+042/077	fell	1	f e ll
+042/079	fell	1	f e ll
+042/081	fell	1	f e ll
+042/083	feld	1	f e l d
+042/085	feld	1	f e l d
+042/087	feld	1	f e l d
+042/089	feld	1	f e l d
+042/091	feld	1	f e l d
+042/093	feld	1	f e l d
+042/095	feld	1	f e l d
+042/097	feld	1	f e l d
+042/099	feld	1	f e l d
+042/101	feld	1	f e l d
+042/103	fält	1	f ä l t
+042/105	felt	1	f e l t
+042/107	feld	1	f e l d
+042/109	feld	1	f e l d
+042/111	feld	1	f e l d
+042/113	feld	1	f e l d
+042/115	feld	1	f e l d
+042/117	feld	1	f e l d
+042/119	feld	1	f e l d
+042/121	feld	1	f e l d
+042/123	feld	1	f e l d
+042/125	feld	1	f e l d
+042/127	felld	1	f e ll d
+042/129	feld	1	f e l d
+042/131	fald	1	f a l d
+042/133	feld	1	f e l d
+042/135	feld	1	f e l d
+042/137	fent	1	f e n t
+042/139	feld	1	f e l d
+042/141	feld	1	f e l d
+042/143	land	1	l a n d
+042/145	feld	1	f e l d
+042/147	feld	1	f e l d
+042/149	feld	1	f e l d
+042/151	feld	1	f e l d
+042/157	fel	1	f e l
+042/159	feel	1	f ee l
+042/161	fill	1	f i ll
+043/033	feld	1	f e l d
+043/035	feld	1	f e l d
+043/037	feld	1	f e l d
+043/039	fell	1	f e ll
+043/041	feld	1	f e l d
+043/043	feld	1	f e l d
+043/045	feihl	1	f eih l
+043/047	fähl	1	f äh l
+043/049	feil	1	f ei l
+043/051	fel	1	f e l
+043/053	fäld	1	f ä l d
+043/055	fehl	1	f eh l
+043/057	fehl	1	f eh l
+043/059	fel	1	f e l
+043/061	fell	1	f e ll
+043/063	fell	1	f e ll
+043/065	fell	1	f e ll
+043/067	fell	1	f e ll
+043/069	fell	1	f e ll
+043/071	fell	1	f e ll
+043/073	fell	1	f e ll
+043/075	fell	1	f e ll
+043/077	fell	1	f e ll
+043/079	fell	1	f e ll
+043/081	fell	1	f e ll
+043/083	feld	1	f e l d
+043/085	feld	1	f e l d
+043/087	feld	1	f e l d
+043/089	feld	1	f e l d
+043/091	feld	1	f e l d
+043/093	feld	1	f e l d
+043/095	feld	1	f e l d
+043/097	feld	1	f e l d
+043/099	feld	1	f e l d
+043/101	feld	1	f e l d
+043/103	feld	1	f e l d
+043/105	feld	1	f e l d
+043/107	feld	1	f e l d
+043/109	feld	1	f e l d
+043/111	feld	1	f e l d
+043/113	feld	1	f e l d
+043/115	feld	1	f e l d
+043/117	feld	1	f e l d
+043/119	feld	1	f e l d
+043/121	feld	1	f e l d
+043/123	falld	1	f a ll d
+043/125	fald	1	f a l d
+043/127	fald	1	f a l d
+043/129	feld	1	f e l d
+043/131	feld	1	f e l d
+043/133	feld	1	f e l d
+043/135	feld	1	f e l d
+043/137	fäld	1	f ä l d
+043/141	feld	1	f e l d
+043/143	feld	1	f e l d
+043/145	feld	1	f e l d
+043/151	feld	1	f e l d
+043/153	land	1	l a n d
+043/159	fel	1	f e l
+043/161	land	1	l a n d
+044/033	feld	1	f e l d
+044/035	feld	1	f e l d
+044/039	feel	1	f ee l
+044/041	feld	1	f e l d
+044/043	feil	1	f ei l
+044/045	fäld	1	f ä l d
+044/047	feil	1	f ei l
+044/049	feil	1	f ei l
+044/051	fail	1	f ai l
+044/053	feil	1	f ei l
+044/055	feil	1	f ei l
+044/057	feehl	1	f eeh l
+044/059	feel	1	f ee l
+044/061	fell	1	f e ll
+044/063	fell	1	f e ll
+044/065	fell	1	f e ll
+044/067	fell	1	f e ll
+044/069	fell	1	f e ll
+044/071	fell	1	f e ll
+044/073	fell	1	f e ll
+044/075	fell	1	f e ll
+044/077	fell	1	f e ll
+044/079	fell	1	f e ll
+044/081	fell	1	f e ll
+044/083	fell	1	f e ll
+044/085	NA	NA	-
+044/087	feld	1	f e l d
+044/089	feld	1	f e l d
+044/091	feld	1	f e l d
+044/093	feld	1	f e l d
+044/095	feld	1	f e l d
+044/097	feld	1	f e l d
+044/099	feld	1	f e l d
+044/101	feld	1	f e l d
+044/103	feld	1	f e l d
+044/105	feld	1	f e l d
+044/107	feld	1	f e l d
+044/109	feld	1	f e l d
+044/111	feld	1	f e l d
+044/113	feld	1	f e l d
+044/115	feld	1	f e l d
+044/117	fäld	1	f ä l d
+044/119	feld	1	f e l d
+044/121	fald	1	f a l d
+044/123	feld	1	f e l d
+044/125	fald	1	f a l d
+044/127	feld	1	f e l d
+044/129	fälld	1	f ä ll d
+044/131	fald	1	f a l d
+044/133	feld	1	f e l d
+044/135	feld	1	f e l d
+044/137	faild	1	f ai l d
+044/141	feld	1	f e l d
+044/143	feld	1	f e l d
+044/145	feld	1	f e l d
+044/149	fald	1	f a l d
+044/151	feld	1	f e l d
+044/153	feld	1	f e l d
+045/033	feld	1	f e l d
+045/035	feld	1	f e l d
+045/037	feld	1	f e l d
+045/039	feld	1	f e l d
+045/041	feld	1	f e l d
+045/043	feld	1	f e l d
+045/045	feil	1	f ei l
+045/047	feil	1	f ei l
+045/049	feil	1	f ei l
+045/051	feil	1	f ei l
+045/053	feil	1	f ei l
+045/055	fail	1	f ai l
+045/057	feil	1	f ei l
+045/059	fell	1	f e ll
+045/061	fell	1	f e ll
+045/063	fell	1	f e ll
+045/065	fell	1	f e ll
+045/067	fell	1	f e ll
+045/069	fell	1	f e ll
+045/071	fell	1	f e ll
+045/073	fell	1	f e ll
+045/075	fell	1	f e ll
+045/077	fell	1	f e ll
+045/079	fell	1	f e ll
+045/081	fell	1	f e ll
+045/083	fell	1	f e ll
+045/085	feld	1	f e l d
+045/087	feld	1	f e l d
+045/089	feld	1	f e l d
+045/091	feld	1	f e l d
+045/093	feld	1	f e l d
+045/095	feld	1	f e l d
+045/097	feld	1	f e l d
+045/099	feld	1	f e l d
+045/101	feld	1	f e l d
+045/103	feld	1	f e l d
+045/105	feld	1	f e l d
+045/107	feld	1	f e l d
+045/109	feld	1	f e l d
+045/111	feld	1	f e l d
+045/113	feld	1	f e l d
+045/115	feld	1	f e l d
+045/117	feld	1	f e l d
+045/119	feld	1	f e l d
+045/121	feld	1	f e l d
+045/123	fald	1	f a l d
+045/125	fald	1	f a l d
+045/127	fald	1	f a l d
+045/129	feld	1	f e l d
+045/131	fald	1	f a l d
+045/133	fald	1	f a l d
+045/135	faild	1	f ai l d
+045/137	fäld	1	f ä l d
+045/139	feld	1	f e l d
+045/141	fald	1	f a l d
+045/143	feld	1	f e l d
+045/145	faild	1	f ai l d
+045/155	feld	1	f e l d
+046/031	feld	1	f e l d
+046/033	feld	1	f e l d
+046/035	felt	1	f e l t
+046/037	feld	1	f e l d
+046/039	feld	1	f e l d
+046/041	fell	1	f e ll
+046/043	feld	1	f e l d
+046/045	feil	1	f ei l
+046/047	feil	1	f ei l
+046/049	feil	1	f ei l
+046/051	fail	1	f ai l
+046/053	feil	1	f ei l
+046/055	feil	1	f ei l
+046/057	fell	1	f e ll
+046/059	fell	1	f e ll
+046/061	fell	1	f e ll
+046/063	fell	1	f e ll
+046/065	fell	1	f e ll
+046/067	fell	1	f e ll
+046/069	fell	1	f e ll
+046/071	fell	1	f e ll
+046/073	fell	1	f e ll
+046/075	fell	1	f e ll
+046/077	fell	1	f e ll
+046/079	fell	1	f e ll
+046/081	fell	1	f e ll
+046/083	fell	1	f e ll
+046/085	fell	1	f e ll
+046/087	feld	1	f e l d
+046/089	feld	1	f e l d
+046/091	NA	NA	-
+046/093	feld	1	f e l d
+046/095	feld	1	f e l d
+046/097	feld	1	f e l d
+046/099	feld	1	f e l d
+046/101	feld	1	f e l d
+046/103	felt	1	f e l t
+046/105	feld	1	f e l d
+046/107	feld	1	f e l d
+046/109	feld	1	f e l d
+046/111	feld	1	f e l d
+046/113	feld	1	f e l d
+046/115	feld	1	f e l d
+046/117	feld	1	f e l d
+046/119	feld	1	f e l d
+046/121	fald	1	f a l d
+046/123	fald	1	f a l d
+046/125	fald	1	f a l d
+046/127	fald	1	f a l d
+046/129	faeld	1	f ae l d
+046/131	fald	1	f a l d
+046/133	faild	1	f ai l d
+046/135	faill	1	f ai ll
+046/137	feld	1	f e l d
+046/139	feld	1	f e l d
+046/141	feld	1	f e l d
+046/143	feld	1	f e l d
+046/155	fald	1	f a l d
+047/031	land	1	l a n d
+047/033	feld	1	f e l d
+047/035	feld	1	f e l d
+047/037	felt	1	f e l t
+047/039	fell	1	f e ll
+047/041	feld	1	f e l d
+047/043	land	1	l a n d
+047/045	feld	1	f e l d
+047/047	feil	1	f ei l
+047/049	fiail	1	f iai l
+047/051	fell	1	f e ll
+047/053	feil	1	f ei l
+047/055	feil	1	f ei l
+047/057	feil	1	f ei l
+047/059	fell	1	f e ll
+047/061	fell	1	f e ll
+047/063	fell	1	f e ll
+047/065	fell	1	f e ll
+047/067	fell	1	f e ll
+047/069	fell	1	f e ll
+047/071	fell	1	f e ll
+047/073	fell	1	f e ll
+047/075	fell	1	f e ll
+047/077	fell	1	f e ll
+047/079	fell	1	f e ll
+047/081	fell	1	f e ll
+047/083	fell	1	f e ll
+047/085	fell	1	f e ll
+047/087	fell	1	f e ll
+047/089	feld	1	f e l d
+047/091	feld	1	f e l d
+047/093	feld	1	f e l d
+047/095	feld	1	f e l d
+047/097	feld	1	f e l d
+047/099	feld	1	f e l d
+047/101	feld	1	f e l d
+047/103	fell	1	f e ll
+047/105	feld	1	f e l d
+047/107	feld	1	f e l d
+047/109	fäld	1	f ä l d
+047/111	feld	1	f e l d
+047/113	feld	1	f e l d
+047/115	feld	1	f e l d
+047/117	feld	1	f e l d
+047/119	feld	1	f e l d
+047/123	fald	1	f a l d
+047/125	fald	1	f a l d
+047/127	fald	1	f a l d
+047/129	feld	1	f e l d
+047/131	fald	1	f a l d
+047/133	faill	1	f ai ll
+047/135	feld	1	f e l d
+047/137	feld	1	f e l d
+047/139	fäld	1	f ä l d
+047/141	fald	1	f a l d
+047/147	feld	1	f e l d
+047/149	fald	1	f a l d
+047/151	faild	1	f ai l d
+047/159	feld	1	f e l d
+048/021	fält	1	f ä l t
+048/023	feld	1	f e l d
+048/027	feld	1	f e l d
+048/029	feld	1	f e l d
+048/031	land	1	l a n d
+048/033	fell	1	f e ll
+048/035	land	1	l a n d
+048/037	fell	1	f e ll
+048/039	feld	1	f e l d
+048/041	fellt	1	f e ll t
+048/045	feld	1	f e l d
+048/047	feld	1	f e l d
+048/049	feil	1	f ei l
+048/051	fail	1	f ai l
+048/053	fell	1	f e ll
+048/055	feil	1	f ei l
+048/057	feil	1	f ei l
+048/059	fäll	1	f ä ll
+048/061	fell	1	f e ll
+048/063	fell	1	f e ll
+048/065	fell	1	f e ll
+048/067	fell	1	f e ll
+048/069	fell	1	f e ll
+048/071	fald	1	f a l d
+048/073	fell	1	f e ll
+048/075	fell	1	f e ll
+048/077	fell	1	f e ll
+048/079	fell	1	f e ll
+048/081	fell	1	f e ll
+048/083	fell	1	f e ll
+048/085	fell	1	f e ll
+048/087	feld	1	f e l d
+048/089	fell	1	f e ll
+048/091	fell	1	f e ll
+048/093	feld	1	f e l d
+048/095	feld	1	f e l d
+048/099	feld	1	f e l d
+048/101	feld	1	f e l d
+048/103	feld	1	f e l d
+048/105	feld	1	f e l d
+048/107	feld	1	f e l d
+048/109	feld	1	f e l d
+048/111	feld	1	f e l d
+048/113	NA	NA	-
+048/115	feld	1	f e l d
+048/119	feld	1	f e l d
+048/123	fald	1	f a l d
+048/125	fald	1	f a l d
+048/127	feld	1	f e l d
+048/129	feld	1	f e l d
+048/131	feld	1	f e l d
+048/133	fellh	1	f e ll h
+048/135	fäild	1	f äi l d
+048/137	faill	1	f ai ll
+048/139	feld	1	f e l d
+048/141	faild	1	f ai l d
+048/143	feild	1	f ei l d
+048/145	fald	1	f a l d
+048/147	faild	1	f ai l d
+048/153	felld	1	f e ll d
+048/157	feld	1	f e l d
+048/159	felld	1	f e ll d
+049/019	fäld	1	f ä l d
+049/021	feld	1	f e l d
+049/023	feld	1	f e l d
+049/025	feld	1	f e l d
+049/027	feld	1	f e l d
+049/029	feld	1	f e l d
+049/031	feld	1	f e l d
+049/033	neske	1	n e s k e
+049/035	feld	1	f e l d
+049/037	feld	1	f e l d
+049/039	kamp	1	k a m p
+049/041	kamp	1	k a m p
+049/043	land	1	l a n d
+049/045	fell	1	f e ll
+049/047	feld	1	f e l d
+049/049	fäil	1	f äi l
+049/051	fäll	1	f ä ll
+049/053	fäll	1	f ä ll
+049/055	fell	1	f e ll
+049/057	fäll	1	f ä ll
+049/059	fäll	1	f ä ll
+049/061	fell	1	f e ll
+049/063	fell	1	f e ll
+049/065	fell	1	f e ll
+049/067	fell	1	f e ll
+049/069	fell	1	f e ll
+049/071	fell	1	f e ll
+049/073	fald	1	f a l d
+049/077	fell	1	f e ll
+049/079	fell	1	f e ll
+049/081	fell	1	f e ll
+049/083	fell	1	f e ll
+049/085	fell	1	f e ll
+049/087	fell	1	f e ll
+049/089	fell	1	f e ll
+049/091	fell	1	f e ll
+049/093	feld	1	f e l d
+049/095	feld	1	f e l d
+049/097	feld	1	f e l d
+049/099	feld	1	f e l d
+049/101	feld	1	f e l d
+049/103	feld	1	f e l d
+049/105	feld	1	f e l d
+049/107	feld	1	f e l d
+049/109	feld	1	f e l d
+049/111	feld	1	f e l d
+049/113	feld	1	f e l d
+049/115	feld	1	f e l d
+049/117	feld	1	f e l d
+049/119	feld	1	f e l d
+049/121	feld	1	f e l d
+049/123	fald	1	f a l d
+049/125	fald	1	f a l d
+049/127	feld	1	f e l d
+049/129	feld	1	f e l d
+049/131	feld	1	f e l d
+049/133	feld	1	f e l d
+049/135	feiild	1	f eii l d
+049/137	feld	1	f e l d
+049/139	feld	1	f e l d
+049/141	fäld	1	f ä l d
+049/143	feild	1	f ei l d
+049/145	feld	1	f e l d
+049/147	feld	1	f e l d
+049/151	fald	1	f a l d
+050/021	fäld	1	f ä l d
+050/023	land	1	l a n d
+050/025	feld	1	f e l d
+050/027	feld	1	f e l d
+050/029	feld	1	f e l d
+050/031	felt	1	f e l t
+050/033	felt	1	f e l t
+050/035	feld	1	f e l d
+050/037	feld	1	f e l d
+050/039	feld	1	f e l d
+050/041	feld	1	f e l d
+050/043	feld	1	f e l d
+050/047	feld	1	f e l d
+050/049	fell	1	f e ll
+050/051	fäll	1	f ä ll
+050/053	fäll	1	f ä ll
+050/055	fäll	1	f ä ll
+050/057	fäll	1	f ä ll
+050/059	fell	1	f e ll
+050/061	fäll	1	f ä ll
+050/063	fell	1	f e ll
+050/065	fell	1	f e ll
+050/067	fell	1	f e ll
+050/069	fell	1	f e ll
+050/071	fell	1	f e ll
+050/073	fell	1	f e ll
+050/075	fald	1	f a l d
+050/077	fell	1	f e ll
+050/079	fell	1	f e ll
+050/081	fell	1	f e ll
+050/083	fäll	1	f ä ll
+050/085	fell	1	f e ll
+050/087	fell	1	f e ll
+050/089	fell	1	f e ll
+050/091	fell	1	f e ll
+050/093	fell	1	f e ll
+050/095	feld	1	f e l d
+050/097	feld	1	f e l d
+050/099	feld	1	f e l d
+050/101	feld	1	f e l d
+050/103	feld	1	f e l d
+050/105	feld	1	f e l d
+050/107	feld	1	f e l d
+050/109	feld	1	f e l d
+050/111	feld	1	f e l d
+050/113	feld	1	f e l d
+050/115	feld	1	f e l d
+050/117	feld	1	f e l d
+050/119	feld	1	f e l d
+050/121	feld	1	f e l d
+050/125	feld	1	f e l d
+050/127	feld	1	f e l d
+050/129	feld	1	f e l d
+050/131	feld	1	f e l d
+050/133	fell	1	f e ll
+050/135	faild	1	f ai l d
+050/137	feild	1	f ei l d
+050/139	faild	1	f ai l d
+050/141	falld	1	f a ll d
+050/143	fälld	1	f ä ll d
+050/145	feld	1	f e l d
+050/147	failld	1	f ai ll d
+050/149	feld	1	f e l d
+050/151	faild	1	f ai l d
+050/155	feld	1	f e l d
+050/157	feld	1	f e l d
+050/159	feld	1	f e l d
+050/161	feld	1	f e l d
+051/023	feld	1	f e l d
+051/025	feld	1	f e l d
+051/027	fäld	1	f ä l d
+051/029	feld	1	f e l d
+051/031	feld	1	f e l d
+051/033	felt	1	f e l t
+051/035	feld	1	f e l d
+051/037	feld	1	f e l d
+051/039	feld	1	f e l d
+051/041	fell	1	f e ll
+051/043	fell	1	f e ll
+051/045	feld	1	f e l d
+051/047	fell	1	f e ll
+051/049	fell	1	f e ll
+051/051	fäll	1	f ä ll
+051/053	fell	1	f e ll
+051/055	fäll	1	f ä ll
+051/057	fäll	1	f ä ll
+051/059	fell	1	f e ll
+051/061	fell	1	f e ll
+051/063	fell	1	f e ll
+051/065	fell	1	f e ll
+051/067	fell	1	f e ll
+051/069	fell	1	f e ll
+051/071	fell	1	f e ll
+051/073	feld	1	f e l d
+051/075	fall	1	f a ll
+051/077	fell	1	f e ll
+051/079	fäll	1	f ä ll
+051/081	fell	1	f e ll
+051/083	fäll	1	f ä ll
+051/085	fäll	1	f ä ll
+051/087	fääll	1	f ää ll
+051/089	fell	1	f e ll
+051/091	fäll	1	f ä ll
+051/093	fell	1	f e ll
+051/095	fell	1	f e ll
+051/097	fell	1	f e ll
+051/099	fell	1	f e ll
+051/101	feld	1	f e l d
+051/103	feld	1	f e l d
+051/105	feld	1	f e l d
+051/107	feld	1	f e l d
+051/109	feld	1	f e l d
+051/111	feld	1	f e l d
+051/113	feld	1	f e l d
+051/115	feld	1	f e l d
+051/117	feld	1	f e l d
+051/119	feld	1	f e l d
+051/121	feld	1	f e l d
+051/123	feld	1	f e l d
+051/125	feld	1	f e l d
+051/127	feld	1	f e l d
+051/129	feld	1	f e l d
+051/131	fäld	1	f ä l d
+051/133	feld	1	f e l d
+051/135	feil	1	f ei l
+051/137	feld	1	f e l d
+051/139	fälld	1	f ä ll d
+051/141	fäilld	1	f äi ll d
+051/143	fäld	1	f ä l d
+051/145	feld	1	f e l d
+051/147	fald	1	f a l d
+051/149	feld	1	f e l d
+051/151	feld	1	f e l d
+051/153	feld	1	f e l d
+051/155	fjeld	1	f j e l d
+051/157	feld	1	f e l d
+052/023	feld	1	f e l d
+052/025	veld	1	v e l d
+052/027	feld	1	f e l d
+052/029	feld	1	f e l d
+052/031	feld	1	f e l d
+052/033	feld	1	f e l d
+052/035	fell	1	f e ll
+052/037	fell	1	f e ll
+052/039	fell	1	f e ll
+052/041	fell	1	f e ll
+052/043	fell	1	f e ll
+052/045	fell	1	f e ll
+052/047	fell	1	f e ll
+052/049	fell	1	f e ll
+052/051	fäll	1	f ä ll
+052/053	fäll	1	f ä ll
+052/057	fell	1	f e ll
+052/059	fell	1	f e ll
+052/061	fell	1	f e ll
+052/063	fell	1	f e ll
+052/065	fell	1	f e ll
+052/067	fell	1	f e ll
+052/069	fell	1	f e ll
+052/071	fell	1	f e ll
+052/073	fell	1	f e ll
+052/075	fall	1	f a ll
+052/077	fäll	1	f ä ll
+052/079	fall	1	f a ll
+052/081	faäll	1	f aä ll
+052/083	fall	1	f a ll
+052/085	fäll	1	f ä ll
+052/087	fall	1	f a ll
+052/089	fäll	1	f ä ll
+052/091	fell	1	f e ll
+052/093	fäll	1	f ä ll
+052/095	fäll	1	f ä ll
+052/097	fälld	1	f ä ll d
+052/099	feld	1	f e l d
+052/101	fäld	1	f ä l d
+052/103	feld	1	f e l d
+052/105	fäld	1	f ä l d
+052/107	feld	1	f e l d
+052/109	feld	1	f e l d
+052/111	ploan	1	p l oa n
+052/113	feld	1	f e l d
+052/115	feld	1	f e l d
+052/117	feld	1	f e l d
+052/121	feld	1	f e l d
+052/123	feld	1	f e l d
+052/125	feld	1	f e l d
+052/127	feld	1	f e l d
+052/129	felld	1	f e ll d
+052/131	feld	1	f e l d
+052/133	feld	1	f e l d
+052/135	feld	1	f e l d
+052/137	fejld	1	f e j l d
+052/139	feld	1	f e l d
+052/141	feld	1	f e l d
+052/143	fäld	1	f ä l d
+052/145	feld	1	f e l d
+052/147	feld	1	f e l d
+052/149	feld	1	f e l d
+052/151	felld	1	f e ll d
+052/153	fäld	1	f ä l d
+052/155	fald	1	f a l d
+052/157	feld	1	f e l d
+052/159	feld	1	f e l d
+053/023	NA	NA	-
+053/025	feld	1	f e l d
+053/027	feld	1	f e l d
+053/029	feld	1	f e l d
+053/031	fäil	1	f äi l
+053/033	fell	1	f e ll
+053/035	fell	1	f e ll
+053/037	fell	1	f e ll
+053/039	fell	1	f e ll
+053/041	fell	1	f e ll
+053/043	fell	1	f e ll
+053/045	fell	1	f e ll
+053/047	fell	1	f e ll
+053/049	fell	1	f e ll
+053/051	fell	1	f e ll
+053/053	fäll	1	f ä ll
+053/055	fäll	1	f ä ll
+053/057	fäll	1	f ä ll
+053/059	fell	1	f e ll
+053/061	feld	1	f e l d
+053/063	fäll	1	f ä ll
+053/065	fell	1	f e ll
+053/067	fell	1	f e ll
+053/069	fell	1	f e ll
+053/071	fäll	1	f ä ll
+053/073	fell	1	f e ll
+053/075	fall	1	f a ll
+053/077	fall	1	f a ll
+053/079	fall	1	f a ll
+053/081	fall	1	f a ll
+053/083	faäll	1	f aä ll
+053/085	fell	1	f e ll
+053/087	fäll	1	f ä ll
+053/089	fäll	1	f ä ll
+053/091	feld	1	f e l d
+053/093	fäll	1	f ä ll
+053/095	fäld	1	f ä l d
+053/097	feld	1	f e l d
+053/099	fälld	1	f ä ll d
+053/101	fäld	1	f ä l d
+053/103	feld	1	f e l d
+053/105	fald	1	f a l d
+053/107	feld	1	f e l d
+053/109	fald	1	f a l d
+053/111	fäld	1	f ä l d
+053/113	fald	1	f a l d
+053/115	feld	1	f e l d
+053/121	feld	1	f e l d
+053/123	feld	1	f e l d
+053/125	fäld	1	f ä l d
+053/127	feld	1	f e l d
+053/129	fälld	1	f ä ll d
+053/131	feld	1	f e l d
+053/133	felld	1	f e ll d
+053/135	feld	1	f e l d
+053/137	felld	1	f e ll d
+053/139	fäld	1	f ä l d
+053/141	felld	1	f e ll d
+053/143	feld	1	f e l d
+053/145	feld	1	f e l d
+053/147	felgd	1	f e l g d
+053/149	feld	1	f e l d
+053/151	fiähld	1	f iäh l d
+053/153	feld	1	f e l d
+053/155	feld	1	f e l d
+053/157	feld	1	f e l d
+054/023	feld	1	f e l d
+054/025	feld	1	f e l d
+054/027	fäld	1	f ä l d
+054/029	feil	1	f ei l
+054/031	feilt	1	f ei l t
+054/033	feild	1	f ei l d
+054/035	fell	1	f e ll
+054/037	fell	1	f e ll
+054/039	fell	1	f e ll
+054/041	fell	1	f e ll
+054/043	fell	1	f e ll
+054/045	fell	1	f e ll
+054/047	fell	1	f e ll
+054/049	fell	1	f e ll
+054/051	fell	1	f e ll
+054/053	fäld	1	f ä l d
+054/055	fäll	1	f ä ll
+054/057	feld	1	f e l d
+054/059	fell	1	f e ll
+054/061	fäll	1	f ä ll
+054/063	fell	1	f e ll
+054/065	fell	1	f e ll
+054/067	fell	1	f e ll
+054/069	fell	1	f e ll
+054/071	faell	1	f ae ll
+054/073	fall	1	f a ll
+054/075	fall	1	f a ll
+054/077	fäll	1	f ä ll
+054/079	fäll	1	f ä ll
+054/081	fäll	1	f ä ll
+054/083	fäll	1	f ä ll
+054/085	fäll	1	f ä ll
+054/087	fäll	1	f ä ll
+054/089	fäll	1	f ä ll
+054/091	fäll	1	f ä ll
+054/093	fäld	1	f ä l d
+054/095	feld	1	f e l d
+054/097	feld	1	f e l d
+054/099	feld	1	f e l d
+054/101	fäld	1	f ä l d
+054/103	fall	1	f a ll
+054/105	fald	1	f a l d
+054/107	faäld	1	f aä l d
+054/109	feld	1	f e l d
+054/111	fald	1	f a l d
+054/113	faäld	1	f aä l d
+054/115	feld	1	f e l d
+054/117	fähld	1	f äh l d
+054/119	feld	1	f e l d
+054/121	feld	1	f e l d
+054/123	feld	1	f e l d
+054/125	fäld	1	f ä l d
+054/127	feld	1	f e l d
+054/131	feld	1	f e l d
+054/133	feld	1	f e l d
+054/135	feld	1	f e l d
+054/137	felld	1	f e ll d
+054/139	fäld	1	f ä l d
+054/141	fäld	1	f ä l d
+054/143	fäld	1	f ä l d
+054/145	feld	1	f e l d
+054/147	feld	1	f e l d
+054/149	fäld	1	f ä l d
+054/151	feld	1	f e l d
+054/153	feld	1	f e l d
+054/155	feld	1	f e l d
+054/157	feld	1	f e l d
+054/159	fald	1	f a l d
+054/161	feld	1	f e l d
+054/163	feld	1	f e l d
+055/023	fäld	1	f ä l d
+055/025	fälld	1	f ä ll d
+055/027	feld	1	f e l d
+055/029	fält	1	f ä l t
+055/031	feil	1	f ei l
+055/033	feil	1	f ei l
+055/035	fell	1	f e ll
+055/037	fell	1	f e ll
+055/039	lanne	1	l a nn e
+055/041	fell	1	f e ll
+055/043	fell	1	f e ll
+055/045	fell	1	f e ll
+055/047	fell	1	f e ll
+055/049	fell	1	f e ll
+055/051	fäld	1	f ä l d
+055/053	feld	1	f e l d
+055/055	fell	1	f e ll
+055/057	feld	1	f e l d
+055/059	fäll	1	f ä ll
+055/061	fell	1	f e ll
+055/063	fell	1	f e ll
+055/065	fell	1	f e ll
+055/067	fäll	1	f ä ll
+055/069	fäll	1	f ä ll
+055/071	fäll	1	f ä ll
+055/073	fell	1	f e ll
+055/075	fall	1	f a ll
+055/077	fall	1	f a ll
+055/079	fall	1	f a ll
+055/081	fall	1	f a ll
+055/083	fäll	1	f ä ll
+055/085	fäll	1	f ä ll
+055/087	fäll	1	f ä ll
+055/089	fäll	1	f ä ll
+055/091	fäll	1	f ä ll
+055/093	fäll	1	f ä ll
+055/095	fäld	1	f ä l d
+055/097	feld	1	f e l d
+055/099	fäld	1	f ä l d
+055/101	fald	1	f a l d
+055/103	fald	1	f a l d
+055/105	feld	1	f e l d
+055/107	fäld	1	f ä l d
+055/109	fäld	1	f ä l d
+055/111	feld	1	f e l d
+055/113	feld	1	f e l d
+055/115	fald	1	f a l d
+055/117	fäld	1	f ä l d
+055/119	feld	1	f e l d
+055/123	feld	1	f e l d
+055/125	feld	1	f e l d
+055/127	feld	1	f e l d
+055/131	feld	1	f e l d
+055/133	feld	1	f e l d
+055/135	feld	1	f e l d
+055/137	feld	1	f e l d
+055/139	feld	1	f e l d
+055/141	feld	1	f e l d
+055/143	feld	1	f e l d
+055/145	feeld	1	f ee l d
+055/147	fäld	1	f ä l d
+055/149	feld	1	f e l d
+055/151	feld	1	f e l d
+055/153	fäld	1	f ä l d
+055/155	feld	1	f e l d
+055/157	fald	1	f a l d
+055/159	feld	1	f e l d
+055/161	fäld	1	f ä l d
+056/021	feld	1	f e l d
+056/023	feld	1	f e l d
+056/025	fähl	1	f äh l
+056/027	fell	1	f e ll
+056/029	stöck	1	s t ö ck
+056/031	feld	1	f e l d
+056/033	fail	1	f ai l
+056/035	feld	1	f e l d
+056/037	fell	1	f e ll
+056/039	lanne	1	l a nn e
+056/041	lanne	1	l a nn e
+056/043	fell	1	f e ll
+056/045	fell	1	f e ll
+056/047	fell	1	f e ll
+056/049	fell	1	f e ll
+056/051	fell	1	f e ll
+056/053	feld	1	f e l d
+056/055	feld	1	f e l d
+056/057	feld	1	f e l d
+056/059	fell	1	f e ll
+056/061	fell	1	f e ll
+056/063	fell	1	f e ll
+056/065	fell	1	f e ll
+056/067	fäll	1	f ä ll
+056/069	fell	1	f e ll
+056/071	fall	1	f a ll
+056/073	fall	1	f a ll
+056/075	fall	1	f a ll
+056/077	fall	1	f a ll
+056/079	fall	1	f a ll
+056/081	fall	1	f a ll
+056/083	fall	1	f a ll
+056/085	fall	1	f a ll
+056/087	fall	1	f a ll
+056/089	fall	1	f a ll
+056/091	fall	1	f a ll
+056/093	fall	1	f a ll
+056/095	fall	1	f a ll
+056/097	fäll	1	f ä ll
+056/099	fald	1	f a l d
+056/101	feld	1	f e l d
+056/103	fald	1	f a l d
+056/105	fald	1	f a l d
+056/107	fald	1	f a l d
+056/109	fäld	1	f ä l d
+056/111	feld	1	f e l d
+056/113	feld	1	f e l d
+056/115	feld	1	f e l d
+056/117	feld	1	f e l d
+056/121	feld	1	f e l d
+056/123	feld	1	f e l d
+056/125	feld	1	f e l d
+056/127	feld	1	f e l d
+056/129	feld	1	f e l d
+056/131	feld	1	f e l d
+056/133	feld	1	f e l d
+056/135	fäld	1	f ä l d
+056/137	feld	1	f e l d
+056/139	feld	1	f e l d
+056/141	fald	1	f a l d
+056/143	feld	1	f e l d
+056/145	feld	1	f e l d
+056/147	feld	1	f e l d
+056/149	feld	1	f e l d
+056/151	feld	1	f e l d
+056/153	feld	1	f e l d
+056/155	fäild	1	f äi l d
+056/157	feld	1	f e l d
+056/159	feld	1	f e l d
+056/161	feld	1	f e l d
+057/021	feld	1	f e l d
+057/023	veld	1	v e l d
+057/025	fähl	1	f äh l
+057/027	fähl	1	f äh l
+057/029	fähl	1	f äh l
+057/031	fähel	1	f ä h e l
+057/033	fäil	1	f äi l
+057/035	feil	1	f ei l
+057/037	feld	1	f e l d
+057/039	fell	1	f e ll
+057/041	lande	1	l a n d e
+057/043	fell	1	f e ll
+057/045	fell	1	f e ll
+057/047	fell	1	f e ll
+057/049	fell	1	f e ll
+057/051	fald	1	f a l d
+057/053	fäll	1	f ä ll
+057/055	fell	1	f e ll
+057/057	fäll	1	f ä ll
+057/059	fell	1	f e ll
+057/061	fell	1	f e ll
+057/063	fell	1	f e ll
+057/065	fell	1	f e ll
+057/067	fäll	1	f ä ll
+057/069	fell	1	f e ll
+057/071	fall	1	f a ll
+057/073	fall	1	f a ll
+057/075	fall	1	f a ll
+057/077	fall	1	f a ll
+057/079	fall	1	f a ll
+057/081	fall	1	f a ll
+057/083	fall	1	f a ll
+057/085	fäll	1	f ä ll
+057/087	fäll	1	f ä ll
+057/089	fäll	1	f ä ll
+057/091	fall	1	f a ll
+057/093	fäll	1	f ä ll
+057/095	fall	1	f a ll
+057/097	fall	1	f a ll
+057/099	fald	1	f a l d
+057/101	feld	1	f e l d
+057/103	fald	1	f a l d
+057/105	feld	1	f e l d
+057/107	fald	1	f a l d
+057/109	feld	1	f e l d
+057/111	feld	1	f e l d
+057/113	fäld	1	f ä l d
+057/115	feld	1	f e l d
+057/117	feld	1	f e l d
+057/119	feld	1	f e l d
+057/121	feld	1	f e l d
+057/123	feld	1	f e l d
+057/125	feld	1	f e l d
+057/127	feld	1	f e l d
+057/129	feld	1	f e l d
+057/131	feld	1	f e l d
+057/133	feld	1	f e l d
+057/135	feld	1	f e l d
+057/137	feld	1	f e l d
+057/139	feld	1	f e l d
+057/141	feld	1	f e l d
+057/143	feld	1	f e l d
+057/145	feld	1	f e l d
+057/147	feld	1	f e l d
+057/149	feld	1	f e l d
+057/151	feld	1	f e l d
+057/153	feld	1	f e l d
+057/155	feld	1	f e l d
+057/157	feld	1	f e l d
+057/159	feld	1	f e l d
+057/161	feld	1	f e l d
+058/019	feld	1	f e l d
+058/021	feld	1	f e l d
+058/023	feld	1	f e l d
+058/025	fäl	1	f ä l
+058/027	fäl	1	f ä l
+058/029	fäel	1	f äe l
+058/031	fehl	1	f eh l
+058/033	fähl	1	f äh l
+058/035	feil	1	f ei l
+058/037	feihl	1	f eih l
+058/039	fell	1	f e ll
+058/041	fell	1	f e ll
+058/043	fell	1	f e ll
+058/045	fell	1	f e ll
+058/047	fäld	1	f ä l d
+058/049	fäld	1	f ä l d
+058/051	feld	1	f e l d
+058/053	foald	1	f oa l d
+058/055	feld	1	f e l d
+058/057	fäll	1	f ä ll
+058/059	fäll	1	f ä ll
+058/061	fell	1	f e ll
+058/063	fäll	1	f ä ll
+058/065	faäll	1	f aä ll
+058/067	fäll	1	f ä ll
+058/069	feld	1	f e l d
+058/071	feld	1	f e l d
+058/073	fäld	1	f ä l d
+058/075	fall	1	f a ll
+058/077	fall	1	f a ll
+058/079	fall	1	f a ll
+058/081	fall	1	f a ll
+058/083	fäll	1	f ä ll
+058/085	fäll	1	f ä ll
+058/087	fall	1	f a ll
+058/089	faall	1	f aa ll
+058/091	fall	1	f a ll
+058/093	fall	1	f a ll
+058/095	fall	1	f a ll
+058/097	fall	1	f a ll
+058/099	fald	1	f a l d
+058/101	fall	1	f a ll
+058/103	fäll	1	f ä ll
+058/105	fald	1	f a l d
+058/107	feld	1	f e l d
+058/109	NA	NA	-
+058/111	fald	1	f a l d
+058/113	feld	1	f e l d
+058/115	feld	1	f e l d
+058/117	feld	1	f e l d
+058/119	ackr	1	a ck r
+058/121	fald	1	f a l d
+058/123	feld	1	f e l d
+058/125	fald	1	f a l d
+058/127	fald	1	f a l d
+058/129	fäld	1	f ä l d
+058/131	feld	1	f e l d
+058/133	fäld	1	f ä l d
+058/135	fäld	1	f ä l d
+058/137	feld	1	f e l d
+058/139	feld	1	f e l d
+058/141	felld	1	f e ll d
+058/143	feld	1	f e l d
+058/145	feld	1	f e l d
+058/147	fäild	1	f äi l d
+058/149	feld	1	f e l d
+058/151	feld	1	f e l d
+058/153	feld	1	f e l d
+058/155	feld	1	f e l d
+058/157	feld	1	f e l d
+058/159	feld	1	f e l d
+059/019	feld	1	f e l d
+059/021	feld	1	f e l d
+059/023	väl	1	v ä l
+059/025	fäl	1	f ä l
+059/027	fäl	1	f ä l
+059/029	väl	1	v ä l
+059/031	feld	1	f e l d
+059/033	feil	1	f ei l
+059/035	feil	1	f ei l
+059/037	feild	1	f ei l d
+059/039	fell	1	f e ll
+059/041	velt	1	v e l t
+059/043	fällt	1	f ä ll t
+059/045	fäld	1	f ä l d
+059/047	fäeld	1	f äe l d
+059/049	feld	1	f e l d
+059/051	feld	1	f e l d
+059/053	feld	1	f e l d
+059/055	fäld	1	f ä l d
+059/057	feld	1	f e l d
+059/059	feld	1	f e l d
+059/061	fäld	1	f ä l d
+059/063	feld	1	f e l d
+059/065	fehld	1	f eh l d
+059/067	fäald	1	f äa l d
+059/069	fähld	1	f äh l d
+059/071	fehld	1	f eh l d
+059/073	fäld	1	f ä l d
+059/075	fäld	1	f ä l d
+059/077	feld	1	f e l d
+059/079	fäll	1	f ä ll
+059/081	fäll	1	f ä ll
+059/083	fäll	1	f ä ll
+059/085	faell	1	f ae ll
+059/087	faell	1	f ae ll
+059/089	fell	1	f e ll
+059/091	fall	1	f a ll
+059/093	fall	1	f a ll
+059/095	fall	1	f a ll
+059/097	fall	1	f a ll
+059/099	fall	1	f a ll
+059/101	fell	1	f e ll
+059/103	fald	1	f a l d
+059/105	feld	1	f e l d
+059/107	fald	1	f a l d
+059/109	fald	1	f a l d
+059/111	fäld	1	f ä l d
+059/113	feld	1	f e l d
+059/115	fäld	1	f ä l d
+059/117	feld	1	f e l d
+059/119	feld	1	f e l d
+059/121	fald	1	f a l d
+059/123	fald	1	f a l d
+059/125	fald	1	f a l d
+059/127	fald	1	f a l d
+059/129	feld	1	f e l d
+059/131	feld	1	f e l d
+059/133	feld	1	f e l d
+059/135	feld	1	f e l d
+059/137	feld	1	f e l d
+059/139	feld	1	f e l d
+059/141	feld	1	f e l d
+059/143	feld	1	f e l d
+059/145	feld	1	f e l d
+059/147	feld	1	f e l d
+059/149	feld	1	f e l d
+059/151	feld	1	f e l d
+059/153	feld	1	f e l d
+059/155	feld	1	f e l d
+059/157	feld	1	f e l d
+059/159	feld	1	f e l d
+059/161	fäld	1	f ä l d
+059/165	acker	1	a ck e r
+059/169	feld	1	f e l d
+060/021	feld	1	f e l d
+060/023	fäld	1	f ä l d
+060/025	feld	1	f e l d
+060/027	fehl	1	f eh l
+060/029	fäld	1	f ä l d
+060/031	fähl	1	f äh l
+060/033	feil	1	f ei l
+060/035	feld	1	f e l d
+060/037	feld	1	f e l d
+060/039	fell	1	f e ll
+060/041	fell	1	f e ll
+060/043	feld	1	f e l d
+060/045	feld	1	f e l d
+060/047	fald	1	f a l d
+060/049	fäld	1	f ä l d
+060/051	fäld	1	f ä l d
+060/053	feld	1	f e l d
+060/055	feld	1	f e l d
+060/057	feald	1	f ea l d
+060/059	feld	1	f e l d
+060/061	fäld	1	f ä l d
+060/063	feld	1	f e l d
+060/065	fäld	1	f ä l d
+060/067	faihlt	1	f aih l t
+060/069	fäll	1	f ä ll
+060/071	faell	1	f ae ll
+060/073	faall	1	f aa ll
+060/075	fell	1	f e ll
+060/077	feld	1	f e l d
+060/079	fell	1	f e ll
+060/081	fäll	1	f ä ll
+060/083	fäll	1	f ä ll
+060/085	fäll	1	f ä ll
+060/087	fell	1	f e ll
+060/089	fell	1	f e ll
+060/091	fell	1	f e ll
+060/093	fall	1	f a ll
+060/095	fall	1	f a ll
+060/097	fall	1	f a ll
+060/099	fall	1	f a ll
+060/101	fall	1	f a ll
+060/103	fäld	1	f ä l d
+060/105	fald	1	f a l d
+060/107	fald	1	f a l d
+060/109	fald	1	f a l d
+060/111	feld	1	f e l d
+060/113	feld	1	f e l d
+060/115	fälld	1	f ä ll d
+060/117	feld	1	f e l d
+060/119	feld	1	f e l d
+060/121	feld	1	f e l d
+060/123	fald	1	f a l d
+060/125	falld	1	f a ll d
+060/127	fald	1	f a l d
+060/129	feld	1	f e l d
+060/131	fäld	1	f ä l d
+060/135	feld	1	f e l d
+060/137	feld	1	f e l d
+060/139	feld	1	f e l d
+060/141	feld	1	f e l d
+060/143	feld	1	f e l d
+060/145	feld	1	f e l d
+060/147	feld	1	f e l d
+060/149	feld	1	f e l d
+060/151	feld	1	f e l d
+060/153	feld	1	f e l d
+060/155	feld	1	f e l d
+060/157	feld	1	f e l d
+060/159	feld	1	f e l d
+060/163	feld	1	f e l d
+060/165	feld	1	f e l d
+061/021	feld	1	f e l d
+061/023	feld	1	f e l d
+061/025	fäl	1	f ä l
+061/027	fääld	1	f ää l d
+061/029	fääld	1	f ää l d
+061/031	feld	1	f e l d
+061/033	fäld	1	f ä l d
+061/035	feld	1	f e l d
+061/037	feld	1	f e l d
+061/039	feld	1	f e l d
+061/041	fäld	1	f ä l d
+061/043	feld	1	f e l d
+061/045	feld	1	f e l d
+061/047	fäld	1	f ä l d
+061/049	feald	1	f ea l d
+061/051	fäld	1	f ä l d
+061/053	feld	1	f e l d
+061/055	föäld	1	f öä l d
+061/057	fäld	1	f ä l d
+061/059	fäld	1	f ä l d
+061/061	fäld	1	f ä l d
+061/063	fäld	1	f ä l d
+061/065	fäld	1	f ä l d
+061/067	fählt	1	f äh l t
+061/069	fähld	1	f äh l d
+061/071	fääld	1	f ää l d
+061/073	fäll	1	f ä ll
+061/075	fäll	1	f ä ll
+061/077	feld	1	f e l d
+061/079	fell	1	f e ll
+061/081	fäll	1	f ä ll
+061/083	fäll	1	f ä ll
+061/085	fell	1	f e ll
+061/087	fell	1	f e ll
+061/089	fell	1	f e ll
+061/091	fell	1	f e ll
+061/093	fall	1	f a ll
+061/095	fall	1	f a ll
+061/097	fall	1	f a ll
+061/099	fall	1	f a ll
+061/101	faald	1	f aa l d
+061/103	feld	1	f e l d
+061/105	fäld	1	f ä l d
+061/107	fald	1	f a l d
+061/109	fälld	1	f ä ll d
+061/111	fald	1	f a l d
+061/113	feld	1	f e l d
+061/115	feld	1	f e l d
+061/117	fald	1	f a l d
+061/119	fell	1	f e ll
+061/121	feld	1	f e l d
+061/123	fald	1	f a l d
+061/125	fald	1	f a l d
+061/127	fald	1	f a l d
+061/129	fald	1	f a l d
+061/131	fald	1	f a l d
+061/133	fald	1	f a l d
+061/137	feld	1	f e l d
+061/139	feld	1	f e l d
+061/141	feld	1	f e l d
+061/143	feld	1	f e l d
+061/145	feld	1	f e l d
+061/147	feld	1	f e l d
+061/149	feld	1	f e l d
+061/151	feld	1	f e l d
+061/153	feld	1	f e l d
+061/155	feld	1	f e l d
+061/157	feld	1	f e l d
+061/159	fäeld	1	f äe l d
+061/161	feld	1	f e l d
+061/165	feld	1	f e l d
+062/021	feld	1	f e l d
+062/023	fähld	1	f äh l d
+062/025	fäld	1	f ä l d
+062/027	fäld	1	f ä l d
+062/029	feld	1	f e l d
+062/031	feld	1	f e l d
+062/033	feld	1	f e l d
+062/035	feld	1	f e l d
+062/037	fäll	1	f ä ll
+062/039	feld	1	f e l d
+062/041	feld	1	f e l d
+062/043	feald	1	f ea l d
+062/045	feld	1	f e l d
+062/047	feld	1	f e l d
+062/049	fäld	1	f ä l d
+062/051	feald	1	f ea l d
+062/053	feld	1	f e l d
+062/055	fäald	1	f äa l d
+062/057	fäild	1	f äi l d
+062/059	NA	NA	-
+062/061	fäld	1	f ä l d
+062/063	feald	1	f ea l d
+062/065	fäll	1	f ä ll
+062/067	fäll	1	f ä ll
+062/069	fall	1	f a ll
+062/071	fähld	1	f äh l d
+062/073	fäll	1	f ä ll
+062/075	fell	1	f e ll
+062/077	feld	1	f e l d
+062/079	fäll	1	f ä ll
+062/081	fäll	1	f ä ll
+062/083	fäll	1	f ä ll
+062/085	fäll	1	f ä ll
+062/087	fell	1	f e ll
+062/089	fell	1	f e ll
+062/091	fall	1	f a ll
+062/093	fald	1	f a l d
+062/095	fald	1	f a l d
+062/097	feld	1	f e l d
+062/099	fäld	1	f ä l d
+062/101	fald	1	f a l d
+062/103	fald	1	f a l d
+062/105	fald	1	f a l d
+062/107	fald	1	f a l d
+062/109	fald	1	f a l d
+062/111	fall	1	f a ll
+062/113	fald	1	f a l d
+062/115	fald	1	f a l d
+062/117	fald	1	f a l d
+062/119	feld	1	f e l d
+062/121	feeld	1	f ee l d
+062/123	fald	1	f a l d
+062/125	faald	1	f aa l d
+062/127	fald	1	f a l d
+062/129	fald	1	f a l d
+062/131	fald	1	f a l d
+062/133	fald	1	f a l d
+062/135	feld	1	f e l d
+062/137	feld	1	f e l d
+062/139	feld	1	f e l d
+062/141	feld	1	f e l d
+062/143	feld	1	f e l d
+062/145	feld	1	f e l d
+062/147	feld	1	f e l d
+062/149	feld	1	f e l d
+062/151	feld	1	f e l d
+062/153	feld	1	f e l d
+062/155	feld	1	f e l d
+062/157	feld	1	f e l d
+062/159	feld	1	f e l d
+062/161	feld	1	f e l d
+063/021	feild	1	f ei l d
+063/023	feild	1	f ei l d
+063/025	fäld	1	f ä l d
+063/027	fähld	1	f äh l d
+063/029	feld	1	f e l d
+063/031	feld	1	f e l d
+063/033	fäll	1	f ä ll
+063/035	fäll	1	f ä ll
+063/037	fäll	1	f ä ll
+063/039	fäl	1	f ä l
+063/041	feld	1	f e l d
+063/043	fäld	1	f ä l d
+063/045	feld	1	f e l d
+063/047	feld	1	f e l d
+063/049	feld	1	f e l d
+063/051	fäeld	1	f äe l d
+063/053	feld	1	f e l d
+063/055	feald	1	f ea l d
+063/057	ferld	1	f e r l d
+063/059	fäld	1	f ä l d
+063/061	fäald	1	f äa l d
+063/063	fääld	1	f ää l d
+063/065	fell	1	f e ll
+063/067	fäll	1	f ä ll
+063/069	fahld	1	f ah l d
+063/071	fäh	1	f äh
+063/073	fäld	1	f ä l d
+063/075	fäld	1	f ä l d
+063/077	feeld	1	f ee l d
+063/079	fäll	1	f ä ll
+063/081	fäll	1	f ä ll
+063/083	fäll	1	f ä ll
+063/085	fell	1	f e ll
+063/087	fell	1	f e ll
+063/089	fell	1	f e ll
+063/091	faald	1	f aa l d
+063/093	feld	1	f e l d
+063/095	fald	1	f a l d
+063/097	fald	1	f a l d
+063/099	fäld	1	f ä l d
+063/101	fald	1	f a l d
+063/103	falt	1	f a l t
+063/105	fald	1	f a l d
+063/107	fald	1	f a l d
+063/109	fall	1	f a ll
+063/111	fall	1	f a ll
+063/113	fald	1	f a l d
+063/115	fald	1	f a l d
+063/117	feld	1	f e l d
+063/119	feld	1	f e l d
+063/121	feld	1	f e l d
+063/123	fald	1	f a l d
+063/125	fald	1	f a l d
+063/127	fald	1	f a l d
+063/135	fald	1	f a l d
+063/137	feld	1	f e l d
+063/139	feld	1	f e l d
+063/141	feld	1	f e l d
+063/143	feld	1	f e l d
+063/145	feld	1	f e l d
+063/147	feld	1	f e l d
+063/149	feld	1	f e l d
+063/151	feld	1	f e l d
+063/153	feld	1	f e l d
+063/155	feld	1	f e l d
+063/157	feld	1	f e l d
+063/159	feld	1	f e l d
+063/161	feld	1	f e l d
+063/163	feld	1	f e l d
+063/165	feld	1	f e l d
+064/023	feild	1	f ei l d
+064/025	feld	1	f e l d
+064/027	fäld	1	f ä l d
+064/029	feld	1	f e l d
+064/031	fell	1	f e ll
+064/033	fäll	1	f ä ll
+064/035	fell	1	f e ll
+064/037	fäl	1	f ä l
+064/039	fäl	1	f ä l
+064/041	fäld	1	f ä l d
+064/043	feld	1	f e l d
+064/045	feld	1	f e l d
+064/047	fäald	1	f äa l d
+064/049	ferld	1	f e r l d
+064/051	fäeld	1	f äe l d
+064/053	feald	1	f ea l d
+064/055	feald	1	f ea l d
+064/057	fäillt	1	f äi ll t
+064/059	gronnd	1	g r o nn d
+064/061	fäld	1	f ä l d
+064/063	fäld	1	f ä l d
+064/065	fehlt	1	f eh l t
+064/067	fell	1	f e ll
+064/069	faäld	1	f aä l d
+064/071	fäll	1	f ä ll
+064/073	feld	1	f e l d
+064/075	fäld	1	f ä l d
+064/077	feeld	1	f ee l d
+064/079	fäll	1	f ä ll
+064/081	fell	1	f e ll
+064/083	fald	1	f a l d
+064/085	fäll	1	f ä ll
+064/087	föld	1	f ö l d
+064/089	fäld	1	f ä l d
+064/091	feld	1	f e l d
+064/093	fald	1	f a l d
+064/095	feld	1	f e l d
+064/097	feld	1	f e l d
+064/099	fald	1	f a l d
+064/101	fald	1	f a l d
+064/103	faald	1	f aa l d
+064/105	fald	1	f a l d
+064/107	fald	1	f a l d
+064/109	fald	1	f a l d
+064/111	fald	1	f a l d
+064/113	fald	1	f a l d
+064/115	fald	1	f a l d
+064/117	feld	1	f e l d
+064/119	feld	1	f e l d
+064/121	fald	1	f a l d
+064/123	fald	1	f a l d
+064/125	fald	1	f a l d
+064/127	fald	1	f a l d
+064/135	fald	1	f a l d
+064/137	feld	1	f e l d
+064/139	feld	1	f e l d
+064/141	NA	NA	-
+064/143	feld	1	f e l d
+064/145	feld	1	f e l d
+064/147	fäld	1	f ä l d
+064/149	feld	1	f e l d
+064/151	feld	1	f e l d
+064/153	fäld	1	f ä l d
+064/155	feld	1	f e l d
+064/157	feld	1	f e l d
+064/159	feld	1	f e l d
+065/021	feld	1	f e l d
+065/023	feld	1	f e l d
+065/025	feld	1	f e l d
+065/027	feld	1	f e l d
+065/029	fell	1	f e ll
+065/031	fald	1	f a l d
+065/033	fell	1	f e ll
+065/035	feld	1	f e l d
+065/037	feld	1	f e l d
+065/039	feld	1	f e l d
+065/041	fäld	1	f ä l d
+065/043	fäld	1	f ä l d
+065/045	färld	1	f ä r l d
+065/047	fälld	1	f ä ll d
+065/049	feald	1	f ea l d
+065/051	fäld	1	f ä l d
+065/053	feld	1	f e l d
+065/055	feald	1	f ea l d
+065/057	fäilld	1	f äi ll d
+065/059	fäald	1	f äa l d
+065/061	fäld	1	f ä l d
+065/063	fäld	1	f ä l d
+065/065	fäld	1	f ä l d
+065/067	fäld	1	f ä l d
+065/069	fäld	1	f ä l d
+065/071	feld	1	f e l d
+065/073	felt	1	f e l t
+065/075	feeld	1	f ee l d
+065/077	feld	1	f e l d
+065/079	fald	1	f a l d
+065/081	feld	1	f e l d
+065/083	fald	1	f a l d
+065/085	fald	1	f a l d
+065/087	fald	1	f a l d
+065/089	feld	1	f e l d
+065/091	feld	1	f e l d
+065/093	feld	1	f e l d
+065/095	feld	1	f e l d
+065/097	feld	1	f e l d
+065/101	fald	1	f a l d
+065/103	fald	1	f a l d
+065/105	fald	1	f a l d
+065/107	fald	1	f a l d
+065/109	feld	1	f e l d
+065/111	feld	1	f e l d
+065/113	fald	1	f a l d
+065/115	feld	1	f e l d
+065/121	feld	1	f e l d
+065/123	fald	1	f a l d
+065/137	feeld	1	f ee l d
+065/139	feld	1	f e l d
+065/143	feld	1	f e l d
+065/145	feld	1	f e l d
+065/147	feld	1	f e l d
+065/149	feld	1	f e l d
+065/151	feld	1	f e l d
+065/153	feld	1	f e l d
+065/155	feld	1	f e l d
+065/157	feld	1	f e l d
+065/159	feld	1	f e l d
+066/021	felt	1	f e l t
+066/023	fäld	1	f ä l d
+066/025	fell	1	f e ll
+066/027	feld	1	f e l d
+066/029	fell	1	f e ll
+066/031	fäld	1	f ä l d
+066/033	fäll	1	f ä ll
+066/035	fell	1	f e ll
+066/037	fell	1	f e ll
+066/039	feld	1	f e l d
+066/041	feld	1	f e l d
+066/043	feld	1	f e l d
+066/045	feld	1	f e l d
+066/047	feld	1	f e l d
+066/049	feld	1	f e l d
+066/051	feald	1	f ea l d
+066/053	fald	1	f a l d
+066/055	feald	1	f ea l d
+066/057	feald	1	f ea l d
+066/059	feld	1	f e l d
+066/061	fäld	1	f ä l d
+066/063	feld	1	f e l d
+066/065	fääld	1	f ää l d
+066/067	feeld	1	f ee l d
+066/069	fald	1	f a l d
+066/071	feld	1	f e l d
+066/073	feld	1	f e l d
+066/075	feld	1	f e l d
+066/077	feeld	1	f ee l d
+066/079	feld	1	f e l d
+066/081	fald	1	f a l d
+066/083	fald	1	f a l d
+066/085	field	1	f ie l d
+066/087	feld	1	f e l d
+066/089	feld	1	f e l d
+066/091	feld	1	f e l d
+066/093	feld	1	f e l d
+066/095	feld	1	f e l d
+066/097	fäld	1	f ä l d
+066/099	fald	1	f a l d
+066/101	fald	1	f a l d
+066/103	fald	1	f a l d
+066/105	fald	1	f a l d
+066/107	feld	1	f e l d
+066/109	feld	1	f e l d
+066/111	feld	1	f e l d
+066/113	feld	1	f e l d
+066/121	feld	1	f e l d
+066/139	feld	1	f e l d
+066/143	feld	1	f e l d
+066/145	feld	1	f e l d
+066/147	fäld	1	f ä l d
+066/149	feld	1	f e l d
+066/151	feld	1	f e l d
+066/153	fäld	1	f ä l d
+066/155	feld	1	f e l d
+066/157	feld	1	f e l d
+066/159	feld	1	f e l d
+066/161	feld	1	f e l d
+066/163	feld	1	f e l d
+067/021	feld	1	f e l d
+067/023	fehlt	1	f eh l t
+067/025	fell	1	f e ll
+067/027	fell	1	f e ll
+067/029	fäll	1	f ä ll
+067/031	fell	1	f e ll
+067/033	feld	1	f e l d
+067/035	feld	1	f e l d
+067/037	feld	1	f e l d
+067/039	fell	1	f e ll
+067/041	feld	1	f e l d
+067/043	feld	1	f e l d
+067/045	feld	1	f e l d
+067/047	feld	1	f e l d
+067/049	feld	1	f e l d
+067/051	ferld	1	f e r l d
+067/053	feald	1	f ea l d
+067/055	feld	1	f e l d
+067/057	feald	1	f ea l d
+067/059	fäld	1	f ä l d
+067/061	feld	1	f e l d
+067/063	feld	1	f e l d
+067/065	feld	1	f e l d
+067/067	feld	1	f e l d
+067/069	feeld	1	f ee l d
+067/071	feld	1	f e l d
+067/073	feld	1	f e l d
+067/075	flur	1	f l u r
+067/077	feld	1	f e l d
+067/079	feld	1	f e l d
+067/081	feld	1	f e l d
+067/083	falld	1	f a ll d
+067/085	feld	1	f e l d
+067/087	fääld	1	f ää l d
+067/089	feld	1	f e l d
+067/091	fält	1	f ä l t
+067/093	föld	1	f ö l d
+067/095	feld	1	f e l d
+067/097	wies	1	w ie s
+067/099	föld	1	f ö l d
+067/101	fold	1	f o l d
+067/103	föld	1	f ö l d
+067/105	föld	1	f ö l d
+067/107	feld	1	f e l d
+067/109	feld	1	f e l d
+067/111	feld	1	f e l d
+067/113	feld	1	f e l d
+067/143	feld	1	f e l d
+067/145	feld	1	f e l d
+067/147	feld	1	f e l d
+067/149	feld	1	f e l d
+067/151	feld	1	f e l d
+067/153	feld	1	f e l d
+067/155	feld	1	f e l d
+067/157	feld	1	f e l d
+067/159	fäld	1	f ä l d
+067/161	fäld	1	f ä l d
+067/163	fäld	1	f ä l d
+067/165	feld	1	f e l d
+067/177	feld	1	f e l d
+068/021	feld	1	f e l d
+068/023	fäld	1	f ä l d
+068/025	fel	1	f e l
+068/027	fäl	1	f ä l
+068/029	fell	1	f e ll
+068/031	fäl	1	f ä l
+068/033	fald	1	f a l d
+068/035	fäal	1	f äa l
+068/037	fel	1	f e l
+068/039	fäll	1	f ä ll
+068/041	fald	1	f a l d
+068/043	feld	1	f e l d
+068/045	feld	1	f e l d
+068/047	feld	1	f e l d
+068/049	feld	1	f e l d
+068/051	fäald	1	f äa l d
+068/053	feld	1	f e l d
+068/055	fäald	1	f äa l d
+068/057	feald	1	f ea l d
+068/059	feld	1	f e l d
+068/061	feld	1	f e l d
+068/063	feld	1	f e l d
+068/065	feld	1	f e l d
+068/067	fald	1	f a l d
+068/069	feeld	1	f ee l d
+068/071	feld	1	f e l d
+068/073	feld	1	f e l d
+068/075	fald	1	f a l d
+068/077	fald	1	f a l d
+068/079	fald	1	f a l d
+068/081	fald	1	f a l d
+068/083	feld	1	f e l d
+068/085	feld	1	f e l d
+068/087	feld	1	f e l d
+068/089	feld	1	f e l d
+068/091	fell	1	f e ll
+068/093	föld	1	f ö l d
+068/095	fel	1	f e l
+068/097	feld	1	f e l d
+068/099	föld	1	f ö l d
+068/101	föld	1	f ö l d
+068/103	feld	1	f e l d
+068/105	fölld	1	f ö ll d
+068/107	feld	1	f e l d
+068/109	fell	1	f e ll
+068/111	feld	1	f e l d
+068/145	feld	1	f e l d
+068/147	feld	1	f e l d
+068/149	fald	1	f a l d
+068/151	fald	1	f a l d
+068/153	fald	1	f a l d
+068/155	fäld	1	f ä l d
+068/157	fäld	1	f ä l d
+068/159	fäld	1	f ä l d
+068/161	feld	1	f e l d
+068/165	feld	1	f e l d
+069/019	feld	1	f e l d
+069/023	fäl	1	f ä l
+069/025	feld	1	f e l d
+069/027	fäl	1	f ä l
+069/029	fähl	1	f äh l
+069/031	föhl	1	f öh l
+069/033	fäel	1	f äe l
+069/035	fealt	1	f ea l t
+069/037	fäll	1	f ä ll
+069/039	fell	1	f e ll
+069/041	fell	1	f e ll
+069/043	feld	1	f e l d
+069/045	feld	1	f e l d
+069/047	feld	1	f e l d
+069/049	feld	1	f e l d
+069/051	feld	1	f e l d
+069/053	feld	1	f e l d
+069/055	feld	1	f e l d
+069/057	feld	1	f e l d
+069/059	feld	1	f e l d
+069/061	feld	1	f e l d
+069/063	feld	1	f e l d
+069/065	feld	1	f e l d
+069/067	NA	NA	-
+069/069	feld	1	f e l d
+069/071	feld	1	f e l d
+069/073	feld	1	f e l d
+069/075	fald	1	f a l d
+069/077	fald	1	f a l d
+069/079	feld	1	f e l d
+069/081	feld	1	f e l d
+069/083	feld	1	f e l d
+069/085	feld	1	f e l d
+069/087	feld	1	f e l d
+069/089	feld	1	f e l d
+069/091	feld	1	f e l d
+069/093	feld	1	f e l d
+069/095	feld	1	f e l d
+069/097	föld	1	f ö l d
+069/099	föld	1	f ö l d
+069/101	fel	1	f e l
+069/103	feld	1	f e l d
+069/105	föll	1	f ö ll
+069/107	feld	1	f e l d
+069/109	feld	1	f e l d
+069/111	feld	1	f e l d
+069/147	fäld	1	f ä l d
+069/149	fald	1	f a l d
+069/151	fald	1	f a l d
+069/153	fald	1	f a l d
+069/157	fäld	1	f ä l d
+069/159	feld	1	f e l d
+069/161	feld	1	f e l d
+069/163	fäld	1	f ä l d
+069/165	feld	1	f e l d
+070/019	feld	1	f e l d
+070/023	feld	1	f e l d
+070/025	feld	1	f e l d
+070/027	fäl	1	f ä l
+070/029	fell	1	f e ll
+070/031	fel	1	f e l
+070/033	feld	1	f e l d
+070/035	fell	1	f e ll
+070/037	fell	1	f e ll
+070/039	fell	1	f e ll
+070/041	fell	1	f e ll
+070/043	feld	1	f e l d
+070/045	feld	1	f e l d
+070/047	feld	1	f e l d
+070/049	feld	1	f e l d
+070/051	feld	1	f e l d
+070/053	feld	1	f e l d
+070/055	feld	1	f e l d
+070/057	feld	1	f e l d
+070/059	feld	1	f e l d
+070/061	fäld	1	f ä l d
+070/063	feld	1	f e l d
+070/065	feld	1	f e l d
+070/067	fald	1	f a l d
+070/069	fald	1	f a l d
+070/071	fald	1	f a l d
+070/073	fald	1	f a l d
+070/075	fald	1	f a l d
+070/077	fäld	1	f ä l d
+070/079	feld	1	f e l d
+070/081	feld	1	f e l d
+070/083	feld	1	f e l d
+070/085	fäld	1	f ä l d
+070/087	feld	1	f e l d
+070/089	feld	1	f e l d
+070/091	föld	1	f ö l d
+070/093	feld	1	f e l d
+070/095	feld	1	f e l d
+070/097	föhld	1	f öh l d
+070/099	föld	1	f ö l d
+070/101	fäld	1	f ä l d
+070/103	föld	1	f ö l d
+070/105	föild	1	f öi l d
+070/107	feld	1	f e l d
+070/109	feld	1	f e l d
+070/111	feld	1	f e l d
+070/145	fald	1	f a l d
+070/147	fäld	1	f ä l d
+070/149	feld	1	f e l d
+070/151	fald	1	f a l d
+070/153	fald	1	f a l d
+070/155	vaäät	1	v aää t
+070/157	feld	1	f e l d
+070/159	fäld	1	f ä l d
+070/161	feld	1	f e l d
+070/163	fald	1	f a l d
+070/165	feld	1	f e l d
+071/017	feld	1	f e l d
+071/019	feld	1	f e l d
+071/021	feld	1	f e l d
+071/023	feld	1	f e l d
+071/025	fehld	1	f eh l d
+071/027	fehld	1	f eh l d
+071/029	fel	1	f e l
+071/031	floa	1	f l oa
+071/033	flooa	1	f l ooa
+071/035	feld	1	f e l d
+071/037	feld	1	f e l d
+071/039	fell	1	f e ll
+071/041	feld	1	f e l d
+071/043	feld	1	f e l d
+071/045	feld	1	f e l d
+071/047	feld	1	f e l d
+071/049	feld	1	f e l d
+071/051	feld	1	f e l d
+071/053	fäld	1	f ä l d
+071/055	feld	1	f e l d
+071/057	fäld	1	f ä l d
+071/059	feld	1	f e l d
+071/063	fald	1	f a l d
+071/065	faald	1	f aa l d
+071/067	faald	1	f aa l d
+071/069	fald	1	f a l d
+071/071	fald	1	f a l d
+071/073	fald	1	f a l d
+071/075	fald	1	f a l d
+071/077	fald	1	f a l d
+071/079	feld	1	f e l d
+071/081	feld	1	f e l d
+071/083	feld	1	f e l d
+071/085	feld	1	f e l d
+071/087	föld	1	f ö l d
+071/089	feld	1	f e l d
+071/091	feld	1	f e l d
+071/093	fell	1	f e ll
+071/095	feld	1	f e l d
+071/097	feld	1	f e l d
+071/099	feld	1	f e l d
+071/101	fold	1	f o l d
+071/103	fööld	1	f öö l d
+071/105	fld	1	f l d
+071/145	fald	1	f a l d
+071/147	fald	1	f a l d
+071/149	feld	1	f e l d
+071/151	feld	1	f e l d
+071/153	fald	1	f a l d
+071/155	fäjd	1	f ä j d
+071/157	fööd	1	f öö d
+071/159	feld	1	f e l d
+071/161	fäld	1	f ä l d
+071/163	feld	1	f e l d
+071/177	feld	1	f e l d
+071/179	feld	1	f e l d
+072/017	feld	1	f e l d
+072/019	feld	1	f e l d
+072/021	felt	1	f e l t
+072/023	NA	NA	-
+072/025	feld	1	f e l d
+072/027	feel	1	f ee l
+072/029	feäl	1	f eä l
+072/031	feal	1	f ea l
+072/033	flouar	1	f l oua r
+072/035	sticker	1	s t i ck e r
+072/037	fell	1	f e ll
+072/039	feld	1	f e l d
+072/041	feld	1	f e l d
+072/043	feld	1	f e l d
+072/045	feld	1	f e l d
+072/047	feld	1	f e l d
+072/049	feld	1	f e l d
+072/051	feld	1	f e l d
+072/053	feld	1	f e l d
+072/055	feld	1	f e l d
+072/057	feld	1	f e l d
+072/059	feld	1	f e l d
+072/061	feald	1	f ea l d
+072/063	faald	1	f aa l d
+072/065	faald	1	f aa l d
+072/067	fald	1	f a l d
+072/069	fall	1	f a ll
+072/071	NA	NA	-
+072/073	fald	1	f a l d
+072/075	feeld	1	f ee l d
+072/077	feld	1	f e l d
+072/079	fäld	1	f ä l d
+072/081	feld	1	f e l d
+072/083	föld	1	f ö l d
+072/085	feld	1	f e l d
+072/087	feld	1	f e l d
+072/089	föld	1	f ö l d
+072/091	feld	1	f e l d
+072/093	feld	1	f e l d
+072/095	föld	1	f ö l d
+072/097	feld	1	f e l d
+072/099	föld	1	f ö l d
+072/101	fell	1	f e ll
+072/103	föll	1	f ö ll
+072/105	feld	1	f e l d
+072/107	föld	1	f ö l d
+072/145	fald	1	f a l d
+072/147	fald	1	f a l d
+072/149	feld	1	f e l d
+072/151	feld	1	f e l d
+072/153	fald	1	f a l d
+072/155	faeld	1	f ae l d
+072/157	feld	1	f e l d
+072/159	fäjd	1	f ä j d
+072/161	feld	1	f e l d
+072/177	fald	1	f a l d
+072/179	feld	1	f e l d
+072/181	feld	1	f e l d
+073/017	feelt	1	f ee l t
+073/019	feld	1	f e l d
+073/021	feld	1	f e l d
+073/023	feld	1	f e l d
+073/025	felt	1	f e l t
+073/027	feld	1	f e l d
+073/029	feal	1	f ea l
+073/031	flouer	1	f l oue r
+073/033	feld	1	f e l d
+073/035	feld	1	f e l d
+073/037	feld	1	f e l d
+073/039	feld	1	f e l d
+073/041	feld	1	f e l d
+073/043	feld	1	f e l d
+073/045	feld	1	f e l d
+073/047	feld	1	f e l d
+073/049	feld	1	f e l d
+073/051	feld	1	f e l d
+073/053	feld	1	f e l d
+073/055	feld	1	f e l d
+073/057	fäld	1	f ä l d
+073/059	feeld	1	f ee l d
+073/061	feld	1	f e l d
+073/063	fald	1	f a l d
+073/065	fald	1	f a l d
+073/067	fald	1	f a l d
+073/069	fald	1	f a l d
+073/071	fald	1	f a l d
+073/073	fald	1	f a l d
+073/075	fäld	1	f ä l d
+073/077	feld	1	f e l d
+073/079	feld	1	f e l d
+073/081	feld	1	f e l d
+073/083	feld	1	f e l d
+073/085	föld	1	f ö l d
+073/087	feld	1	f e l d
+073/089	föld	1	f ö l d
+073/091	föld	1	f ö l d
+073/093	feld	1	f e l d
+073/095	feld	1	f e l d
+073/097	feld	1	f e l d
+073/099	föld	1	f ö l d
+073/101	föld	1	f ö l d
+073/103	feeld	1	f ee l d
+073/105	fld	1	f l d
+073/107	föld	1	f ö l d
+073/145	fald	1	f a l d
+073/147	fald	1	f a l d
+073/149	felt	1	f e l t
+073/151	feld	1	f e l d
+073/153	feld	1	f e l d
+073/155	faed	1	f ae d
+073/157	fahd	1	f ah d
+073/159	fäell	1	f äe ll
+073/161	feld	1	f e l d
+073/163	fald	1	f a l d
+073/165	feld	1	f e l d
+073/175	fald	1	f a l d
+073/177	faild	1	f ai l d
+074/019	feld	1	f e l d
+074/021	feld	1	f e l d
+074/023	feld	1	f e l d
+074/025	feld	1	f e l d
+074/027	feld	1	f e l d
+074/029	fähl	1	f äh l
+074/031	feeal	1	f eea l
+074/033	feald	1	f ea l d
+074/035	fild	1	f i l d
+074/037	feld	1	f e l d
+074/039	feld	1	f e l d
+074/041	fäld	1	f ä l d
+074/043	feld	1	f e l d
+074/045	feld	1	f e l d
+074/047	fäld	1	f ä l d
+074/049	fäld	1	f ä l d
+074/051	feld	1	f e l d
+074/053	feld	1	f e l d
+074/055	feld	1	f e l d
+074/057	feld	1	f e l d
+074/059	feld	1	f e l d
+074/061	feld	1	f e l d
+074/063	fähld	1	f äh l d
+074/065	faald	1	f aa l d
+074/067	fald	1	f a l d
+074/069	fald	1	f a l d
+074/071	falld	1	f a ll d
+074/073	feld	1	f e l d
+074/075	feld	1	f e l d
+074/077	feld	1	f e l d
+074/079	feld	1	f e l d
+074/081	feld	1	f e l d
+074/083	feld	1	f e l d
+074/085	acka	1	a ck a
+074/087	föld	1	f ö l d
+074/089	feld	1	f e l d
+074/091	feld	1	f e l d
+074/093	föld	1	f ö l d
+074/095	feld	1	f e l d
+074/097	foild	1	f oi l d
+074/099	fäl	1	f ä l
+074/101	fell	1	f e ll
+074/103	föld	1	f ö l d
+074/105	föhld	1	f öh l d
+074/107	föld	1	f ö l d
+074/109	fell	1	f e ll
+074/145	fald	1	f a l d
+074/147	fäld	1	f ä l d
+074/149	fält	1	f ä l t
+074/153	feld	1	f e l d
+074/155	feld	1	f e l d
+074/157	fald	1	f a l d
+074/159	faeld	1	f ae l d
+074/161	feut	1	f eu t
+074/163	fald	1	f a l d
+074/165	feld	1	f e l d
+075/019	feld	1	f e l d
+075/021	feld	1	f e l d
+075/023	feld	1	f e l d
+075/025	feld	1	f e l d
+075/027	fell	1	f e ll
+075/029	fell	1	f e ll
+075/031	fäll	1	f ä ll
+075/033	feld	1	f e l d
+075/035	feld	1	f e l d
+075/037	feld	1	f e l d
+075/039	feld	1	f e l d
+075/041	feld	1	f e l d
+075/043	feld	1	f e l d
+075/045	feld	1	f e l d
+075/047	feld	1	f e l d
+075/049	feld	1	f e l d
+075/051	feld	1	f e l d
+075/053	feld	1	f e l d
+075/055	feld	1	f e l d
+075/057	feld	1	f e l d
+075/059	feeld	1	f ee l d
+075/061	feld	1	f e l d
+075/063	feeld	1	f ee l d
+075/065	feld	1	f e l d
+075/067	fald	1	f a l d
+075/069	fald	1	f a l d
+075/071	fald	1	f a l d
+075/073	feld	1	f e l d
+075/075	feld	1	f e l d
+075/077	feld	1	f e l d
+075/079	feld	1	f e l d
+075/081	feld	1	f e l d
+075/083	föld	1	f ö l d
+075/085	föld	1	f ö l d
+075/087	feld	1	f e l d
+075/089	feld	1	f e l d
+075/091	feld	1	f e l d
+075/093	föld	1	f ö l d
+075/095	fäld	1	f ä l d
+075/097	feld	1	f e l d
+075/099	föld	1	f ö l d
+075/101	fel	1	f e l
+075/103	fld	1	f l d
+075/105	föld	1	f ö l d
+075/107	föld	1	f ö l d
+075/135	feld	1	f e l d
+075/145	falt	1	f a l t
+075/147	fald	1	f a l d
+075/149	feld	1	f e l d
+075/155	feld	1	f e l d
+075/157	falt	1	f a l t
+075/159	feld	1	f e l d
+075/161	feld	1	f e l d
+075/163	fald	1	f a l d
+075/165	fäld	1	f ä l d
+076/019	feld	1	f e l d
+076/021	feld	1	f e l d
+076/023	feld	1	f e l d
+076/025	feld	1	f e l d
+076/027	gewann	1	g e w a nn
+076/029	flor	1	f l o r
+076/033	feld	1	f e l d
+076/035	feld	1	f e l d
+076/037	feld	1	f e l d
+076/039	feld	1	f e l d
+076/041	feld	1	f e l d
+076/043	feld	1	f e l d
+076/045	feld	1	f e l d
+076/047	feld	1	f e l d
+076/049	feld	1	f e l d
+076/051	feld	1	f e l d
+076/053	feld	1	f e l d
+076/055	fell	1	f e ll
+076/057	feeld	1	f ee l d
+076/059	feld	1	f e l d
+076/061	feeld	1	f ee l d
+076/063	feeld	1	f ee l d
+076/065	feld	1	f e l d
+076/067	feeld	1	f ee l d
+076/069	fald	1	f a l d
+076/071	feld	1	f e l d
+076/073	feld	1	f e l d
+076/075	feld	1	f e l d
+076/077	feld	1	f e l d
+076/079	feld	1	f e l d
+076/081	feld	1	f e l d
+076/083	feld	1	f e l d
+076/085	feld	1	f e l d
+076/087	föld	1	f ö l d
+076/089	föld	1	f ö l d
+076/091	feld	1	f e l d
+076/093	feld	1	f e l d
+076/095	feld	1	f e l d
+076/097	feld	1	f e l d
+076/099	feld	1	f e l d
+076/101	föld	1	f ö l d
+076/103	föd	1	f ö d
+076/135	föld	1	f ö l d
+076/137	fäll	1	f ä ll
+076/149	fald	1	f a l d
+076/151	falt	1	f a l t
+076/155	feld	1	f e l d
+076/161	faod	1	f ao d
+076/163	feld	1	f e l d
+076/165	fald	1	f a l d
+077/019	fehld	1	f eh l d
+077/021	feld	1	f e l d
+077/023	feld	1	f e l d
+077/025	feld	1	f e l d
+077/027	fell	1	f e ll
+077/029	fell	1	f e ll
+077/031	fell	1	f e ll
+077/033	fäld	1	f ä l d
+077/035	feld	1	f e l d
+077/037	feld	1	f e l d
+077/039	fäld	1	f ä l d
+077/041	feld	1	f e l d
+077/043	feld	1	f e l d
+077/047	feld	1	f e l d
+077/049	feld	1	f e l d
+077/051	feld	1	f e l d
+077/053	feld	1	f e l d
+077/055	feld	1	f e l d
+077/057	feld	1	f e l d
+077/059	feeld	1	f ee l d
+077/061	feeld	1	f ee l d
+077/063	feeld	1	f ee l d
+077/065	feld	1	f e l d
+077/067	feld	1	f e l d
+077/069	fäld	1	f ä l d
+077/071	feld	1	f e l d
+077/073	feld	1	f e l d
+077/075	feld	1	f e l d
+077/077	feld	1	f e l d
+077/079	feld	1	f e l d
+077/081	föld	1	f ö l d
+077/083	feld	1	f e l d
+077/085	feld	1	f e l d
+077/087	fäld	1	f ä l d
+077/089	feld	1	f e l d
+077/091	föld	1	f ö l d
+077/093	feld	1	f e l d
+077/095	feld	1	f e l d
+077/097	feld	1	f e l d
+077/099	feld	1	f e l d
+077/101	feld	1	f e l d
+077/103	feld	1	f e l d
+077/135	föd	1	f ö d
+077/137	föld	1	f ö l d
+078/021	feld	1	f e l d
+078/023	gewan	1	g e w a n
+078/025	gewan	1	g e w a n
+078/027	fell	1	f e ll
+078/029	fell	1	f e ll
+078/031	feld	1	f e l d
+078/033	feld	1	f e l d
+078/035	feld	1	f e l d
+078/037	fälld	1	f ä ll d
+078/039	feld	1	f e l d
+078/041	feld	1	f e l d
+078/045	feld	1	f e l d
+078/047	feld	1	f e l d
+078/049	feld	1	f e l d
+078/051	feld	1	f e l d
+078/053	feld	1	f e l d
+078/055	feld	1	f e l d
+078/057	feld	1	f e l d
+078/059	feld	1	f e l d
+078/061	feld	1	f e l d
+078/063	feld	1	f e l d
+078/065	fald	1	f a l d
+078/067	feeld	1	f ee l d
+078/069	feeld	1	f ee l d
+078/071	feeld	1	f ee l d
+078/073	feld	1	f e l d
+078/075	feld	1	f e l d
+078/077	feld	1	f e l d
+078/079	NA	NA	-
+078/081	feld	1	f e l d
+078/083	fäld	1	f ä l d
+078/085	fäld	1	f ä l d
+078/087	föld	1	f ö l d
+078/089	föld	1	f ö l d
+078/091	feld	1	f e l d
+078/093	feld	1	f e l d
+078/095	feld	1	f e l d
+078/097	feld	1	f e l d
+078/099	feld	1	f e l d
+078/101	feld	1	f e l d
+078/103	fald	1	f a l d
+078/105	faild	1	f ai l d
+078/135	feld	1	f e l d
+078/193	felt	1	f e l t
+079/021	feld	1	f e l d
+079/023	gewann	1	g e w a nn
+079/025	feld	1	f e l d
+079/027	feld	1	f e l d
+079/029	feld	1	f e l d
+079/031	feld	1	f e l d
+079/033	feld	1	f e l d
+079/035	feld	1	f e l d
+079/037	fold	1	f o l d
+079/039	feld	1	f e l d
+079/043	feld	1	f e l d
+079/045	feld	1	f e l d
+079/047	feld	1	f e l d
+079/049	fäld	1	f ä l d
+079/051	feld	1	f e l d
+079/053	feld	1	f e l d
+079/055	feld	1	f e l d
+079/057	feld	1	f e l d
+079/059	feld	1	f e l d
+079/061	feld	1	f e l d
+079/063	feeld	1	f ee l d
+079/065	feld	1	f e l d
+079/067	feeld	1	f ee l d
+079/069	feeld	1	f ee l d
+079/071	feld	1	f e l d
+079/073	feld	1	f e l d
+079/075	feld	1	f e l d
+079/077	feld	1	f e l d
+079/079	föd	1	f ö d
+079/081	föld	1	f ö l d
+079/083	föld	1	f ö l d
+079/085	feld	1	f e l d
+079/087	feld	1	f e l d
+079/089	föld	1	f ö l d
+079/091	feld	1	f e l d
+079/093	feld	1	f e l d
+079/095	föld	1	f ö l d
+079/097	feld	1	f e l d
+079/099	feld	1	f e l d
+079/101	feld	1	f e l d
+079/103	fäüld	1	f äü l d
+079/105	feld	1	f e l d
+079/107	feld	1	f e l d
+079/133	föld	1	f ö l d
+079/135	föld	1	f ö l d
+079/193	fald	1	f a l d
+079/195	fald	1	f a l d
+079/197	feud	1	f eu d
+080/025	feld	1	f e l d
+080/027	fell	1	f e ll
+080/029	feld	1	f e l d
+080/031	feld	1	f e l d
+080/033	feld	1	f e l d
+080/035	fällt	1	f ä ll t
+080/037	feld	1	f e l d
+080/039	feld	1	f e l d
+080/041	feld	1	f e l d
+080/043	feld	1	f e l d
+080/045	NA	NA	-
+080/047	feld	1	f e l d
+080/049	feld	1	f e l d
+080/051	feld	1	f e l d
+080/053	feld	1	f e l d
+080/055	feld	1	f e l d
+080/057	feld	1	f e l d
+080/059	feeld	1	f ee l d
+080/061	feld	1	f e l d
+080/063	feeld	1	f ee l d
+080/065	feeld	1	f ee l d
+080/067	feeld	1	f ee l d
+080/069	feld	1	f e l d
+080/071	feld	1	f e l d
+080/073	feld	1	f e l d
+080/075	feld	1	f e l d
+080/077	feld	1	f e l d
+080/079	feld	1	f e l d
+080/081	föld	1	f ö l d
+080/083	föld	1	f ö l d
+080/085	feeld	1	f ee l d
+080/087	feld	1	f e l d
+080/089	feld	1	f e l d
+080/091	feld	1	f e l d
+080/093	föld	1	f ö l d
+080/095	feld	1	f e l d
+080/097	feehld	1	f eeh l d
+080/099	feld	1	f e l d
+080/101	fell	1	f e ll
+080/103	faid	1	f ai d
+080/105	feld	1	f e l d
+080/107	feld	1	f e l d
+080/109	föld	1	f ö l d
+080/127	feld	1	f e l d
+080/147	feld	1	f e l d
+080/151	falt	1	f a l t
+080/153	ackaa	1	a ck aa
+080/193	fald	1	f a l d
+080/195	fald	1	f a l d
+081/025	feld	1	f e l d
+081/027	feld	1	f e l d
+081/029	feld	1	f e l d
+081/031	feld	1	f e l d
+081/033	feld	1	f e l d
+081/035	feld	1	f e l d
+081/037	feld	1	f e l d
+081/039	feld	1	f e l d
+081/043	feld	1	f e l d
+081/045	feld	1	f e l d
+081/047	fell	1	f e ll
+081/049	fel	1	f e l
+081/051	feld	1	f e l d
+081/053	feld	1	f e l d
+081/055	feld	1	f e l d
+081/057	feld	1	f e l d
+081/059	feld	1	f e l d
+081/061	feld	1	f e l d
+081/063	feeld	1	f ee l d
+081/065	feld	1	f e l d
+081/067	feeld	1	f ee l d
+081/069	feld	1	f e l d
+081/071	feeld	1	f ee l d
+081/073	feld	1	f e l d
+081/075	feld	1	f e l d
+081/077	feld	1	f e l d
+081/079	föld	1	f ö l d
+081/081	feld	1	f e l d
+081/083	feld	1	f e l d
+081/085	feld	1	f e l d
+081/087	föld	1	f ö l d
+081/089	föld	1	f ö l d
+081/091	feld	1	f e l d
+081/093	feld	1	f e l d
+081/095	feld	1	f e l d
+081/097	feld	1	f e l d
+081/099	fell	1	f e ll
+081/101	feid	1	f ei d
+081/103	fäid	1	f äi d
+081/105	feld	1	f e l d
+081/107	föld	1	f ö l d
+081/109	feld	1	f e l d
+081/111	föild	1	f öi l d
+081/127	föld	1	f ö l d
+081/129	feld	1	f e l d
+081/133	feld	1	f e l d
+081/147	feld	1	f e l d
+081/191	fald	1	f a l d
+081/193	felt	1	f e l t
+081/195	falt	1	f a l t
+082/027	fäld	1	f ä l d
+082/029	feld	1	f e l d
+082/031	feld	1	f e l d
+082/033	feld	1	f e l d
+082/035	feld	1	f e l d
+082/037	fäld	1	f ä l d
+082/039	fäld	1	f ä l d
+082/041	fald	1	f a l d
+082/043	feld	1	f e l d
+082/045	feld	1	f e l d
+082/047	feld	1	f e l d
+082/049	fell	1	f e ll
+082/051	fell	1	f e ll
+082/053	feld	1	f e l d
+082/055	fäld	1	f ä l d
+082/057	feld	1	f e l d
+082/059	feld	1	f e l d
+082/061	feld	1	f e l d
+082/063	feld	1	f e l d
+082/065	fäld	1	f ä l d
+082/067	fähld	1	f äh l d
+082/069	feeld	1	f ee l d
+082/071	fäld	1	f ä l d
+082/073	feeld	1	f ee l d
+082/075	feeld	1	f ee l d
+082/077	fehld	1	f eh l d
+082/079	feld	1	f e l d
+082/081	feeld	1	f ee l d
+082/083	feld	1	f e l d
+082/085	föid	1	f öi d
+082/087	fell	1	f e ll
+082/089	fäld	1	f ä l d
+082/091	feld	1	f e l d
+082/093	feld	1	f e l d
+082/095	feld	1	f e l d
+082/097	feld	1	f e l d
+082/099	feld	1	f e l d
+082/101	feld	1	f e l d
+082/103	fejd	1	f e j d
+082/105	fäid	1	f äi d
+082/107	föid	1	f öi d
+082/111	föid	1	f öi d
+082/113	föid	1	f öi d
+082/117	ocker	1	o ck e r
+082/129	oko	1	o k o
+082/131	föld	1	f ö l d
+082/133	fölld	1	f ö ll d
+082/135	foild	1	f oi l d
+082/145	föld	1	f ö l d
+082/147	föld	1	f ö l d
+082/191	feld	1	f e l d
+082/195	feld	1	f e l d
+083/027	gewand	1	g e w a n d
+083/029	feld	1	f e l d
+083/031	feld	1	f e l d
+083/033	föld	1	f ö l d
+083/035	feld	1	f e l d
+083/037	fäld	1	f ä l d
+083/039	fald	1	f a l d
+083/041	fald	1	f a l d
+083/043	fald	1	f a l d
+083/045	fald	1	f a l d
+083/047	fell	1	f e ll
+083/049	fäll	1	f ä ll
+083/051	feld	1	f e l d
+083/053	fell	1	f e ll
+083/055	feld	1	f e l d
+083/057	fäld	1	f ä l d
+083/059	fäld	1	f ä l d
+083/061	feld	1	f e l d
+083/063	feld	1	f e l d
+083/065	feld	1	f e l d
+083/067	feld	1	f e l d
+083/069	feeld	1	f ee l d
+083/071	feld	1	f e l d
+083/073	fehld	1	f eh l d
+083/075	feld	1	f e l d
+083/077	feld	1	f e l d
+083/079	föld	1	f ö l d
+083/081	fold	1	f o l d
+083/083	feld	1	f e l d
+083/085	föd	1	f ö d
+083/087	fööhd	1	f ööh d
+083/089	feld	1	f e l d
+083/091	feld	1	f e l d
+083/093	feld	1	f e l d
+083/095	feld	1	f e l d
+083/097	feld	1	f e l d
+083/099	fäid	1	f äi d
+083/101	fel	1	f e l
+083/103	feid	1	f ei d
+083/105	fäid	1	f äi d
+083/107	fäijd	1	f äi j d
+083/111	foid	1	f oi d
+083/113	feud	1	f eu d
+083/115	föld	1	f ö l d
+083/117	oka	1	o k a
+083/119	föld	1	f ö l d
+083/121	feld	1	f e l d
+083/129	feld	1	f e l d
+083/131	föid	1	f öi d
+083/133	feld	1	f e l d
+083/135	föld	1	f ö l d
+083/139	feld	1	f e l d
+083/143	föld	1	f ö l d
+083/145	föld	1	f ö l d
+083/147	föld	1	f ö l d
+083/149	feld	1	f e l d
+083/173	feld	1	f e l d
+083/195	feld	1	f e l d
+084/031	feld	1	f e l d
+084/033	feld	1	f e l d
+084/035	feld	1	f e l d
+084/037	feld	1	f e l d
+084/039	fald	1	f a l d
+084/041	fald	1	f a l d
+084/043	fald	1	f a l d
+084/045	feld	1	f e l d
+084/047	feld	1	f e l d
+084/049	fell	1	f e ll
+084/051	fell	1	f e ll
+084/053	feld	1	f e l d
+084/055	feld	1	f e l d
+084/057	feld	1	f e l d
+084/059	feld	1	f e l d
+084/061	feld	1	f e l d
+084/063	feld	1	f e l d
+084/065	feald	1	f ea l d
+084/067	feld	1	f e l d
+084/069	fäld	1	f ä l d
+084/071	feld	1	f e l d
+084/073	feeld	1	f ee l d
+084/075	feld	1	f e l d
+084/077	feld	1	f e l d
+084/079	feld	1	f e l d
+084/081	föld	1	f ö l d
+084/083	feld	1	f e l d
+084/085	feld	1	f e l d
+084/087	feld	1	f e l d
+084/089	feld	1	f e l d
+084/091	fäjd	1	f ä j d
+084/093	fäit	1	f äi t
+084/095	feld	1	f e l d
+084/097	feld	1	f e l d
+084/099	fäid	1	f äi d
+084/101	foid	1	f oi d
+084/103	fäid	1	f äi d
+084/105	feeid	1	f eei d
+084/107	feid	1	f ei d
+084/109	feid	1	f ei d
+084/111	öadan	1	öa d a n
+084/113	wiis	1	w ii s
+084/115	ocker	1	o ck e r
+084/117	oka	1	o k a
+084/119	fold	1	f o l d
+084/129	föd	1	f ö d
+084/131	föd	1	f ö d
+084/133	föd	1	f ö d
+084/135	feld	1	f e l d
+084/137	föld	1	f ö l d
+084/139	fööd	1	f öö d
+084/141	feld	1	f e l d
+084/143	föld	1	f ö l d
+084/145	föd	1	f ö d
+084/147	föld	1	f ö l d
+084/149	föd	1	f ö d
+084/171	wäjet	1	w ä j e t
+084/173	weit	1	w ei t
+084/195	feld	1	f e l d
+085/031	feld	1	f e l d
+085/033	feld	1	f e l d
+085/035	feld	1	f e l d
+085/037	fald	1	f a l d
+085/039	fald	1	f a l d
+085/041	fäld	1	f ä l d
+085/043	feld	1	f e l d
+085/045	fald	1	f a l d
+085/047	feld	1	f e l d
+085/049	fäld	1	f ä l d
+085/051	fell	1	f e ll
+085/053	fäld	1	f ä l d
+085/055	feld	1	f e l d
+085/057	feld	1	f e l d
+085/059	feld	1	f e l d
+085/061	feld	1	f e l d
+085/063	feld	1	f e l d
+085/065	feald	1	f ea l d
+085/067	fäald	1	f äa l d
+085/069	feld	1	f e l d
+085/071	NA	NA	-
+085/073	feld	1	f e l d
+085/075	feld	1	f e l d
+085/077	fäld	1	f ä l d
+085/079	feld	1	f e l d
+085/081	feld	1	f e l d
+085/083	föd	1	f ö d
+085/085	feld	1	f e l d
+085/087	fäid	1	f äi d
+085/089	feild	1	f ei l d
+085/091	feld	1	f e l d
+085/093	feäd	1	f eä d
+085/095	feld	1	f e l d
+085/097	fejd	1	f e j d
+085/101	feld	1	f e l d
+085/103	feld	1	f e l d
+085/105	fäid	1	f äi d
+085/107	fäid	1	f äi d
+085/109	feid	1	f ei d
+085/111	fäid	1	f äi d
+085/113	feld	1	f e l d
+085/115	ocka	1	o ck a
+085/117	föld	1	f ö l d
+085/119	föld	1	f ö l d
+085/121	föld	1	f ö l d
+085/123	föld	1	f ö l d
+085/125	föld	1	f ö l d
+085/127	föld	1	f ö l d
+085/129	föd	1	f ö d
+085/131	feld	1	f e l d
+085/133	föd	1	f ö d
+085/135	föd	1	f ö d
+085/137	feld	1	f e l d
+085/139	acker	1	a ck e r
+085/141	föd	1	f ö d
+085/143	föjd	1	f ö j d
+085/145	föld	1	f ö l d
+085/147	foold	1	f oo l d
+085/149	ocka	1	o ck a
+085/175	welt	1	w e l t
+085/193	felt	1	f e l t
+085/197	felt	1	f e l t
+086/033	feld	1	f e l d
+086/035	fald	1	f a l d
+086/037	fäld	1	f ä l d
+086/039	fald	1	f a l d
+086/041	fäld	1	f ä l d
+086/043	feld	1	f e l d
+086/045	feld	1	f e l d
+086/047	feld	1	f e l d
+086/049	fäld	1	f ä l d
+086/051	ager	1	a g e r
+086/053	feld	1	f e l d
+086/055	feld	1	f e l d
+086/057	feld	1	f e l d
+086/059	feld	1	f e l d
+086/061	feld	1	f e l d
+086/063	feld	1	f e l d
+086/065	feld	1	f e l d
+086/067	feald	1	f ea l d
+086/069	feld	1	f e l d
+086/071	feld	1	f e l d
+086/073	feld	1	f e l d
+086/075	feld	1	f e l d
+086/077	feld	1	f e l d
+086/079	feld	1	f e l d
+086/081	feld	1	f e l d
+086/083	feld	1	f e l d
+086/085	feld	1	f e l d
+086/087	foid	1	f oi d
+086/089	fäid	1	f äi d
+086/091	feld	1	f e l d
+086/093	fejd	1	f e j d
+086/095	foed	1	f oe d
+086/097	fehid	1	f e h i d
+086/099	fäid	1	f äi d
+086/101	fäid	1	f äi d
+086/103	feld	1	f e l d
+086/105	fäid	1	f äi d
+086/107	fäid	1	f äi d
+086/109	föid	1	f öi d
+086/111	feld	1	f e l d
+086/113	feld	1	f e l d
+086/115	föd	1	f ö d
+086/117	föld	1	f ö l d
+086/119	föid	1	f öi d
+086/121	föd	1	f ö d
+086/123	föd	1	f ö d
+086/125	föd	1	f ö d
+086/127	föd	1	f ö d
+086/129	föld	1	f ö l d
+086/131	föd	1	f ö d
+086/133	feld	1	f e l d
+086/135	föd	1	f ö d
+086/137	feld	1	f e l d
+086/139	föid	1	f öi d
+086/141	föd	1	f ö d
+086/143	föd	1	f ö d
+086/145	föd	1	f ö d
+086/147	föd	1	f ö d
+086/149	föld	1	f ö l d
+086/151	föld	1	f ö l d
+086/175	welt	1	w e l t
+086/197	felt	1	f e l t
+086/199	feld	1	f e l d
+087/033	feld	1	f e l d
+087/035	feld	1	f e l d
+087/037	fald	1	f a l d
+087/039	fald	1	f a l d
+087/041	feld	1	f e l d
+087/043	feld	1	f e l d
+087/045	feld	1	f e l d
+087/049	feld	1	f e l d
+087/051	fäld	1	f ä l d
+087/053	feld	1	f e l d
+087/055	feld	1	f e l d
+087/057	fäld	1	f ä l d
+087/059	feld	1	f e l d
+087/061	feld	1	f e l d
+087/063	feld	1	f e l d
+087/065	feald	1	f ea l d
+087/067	feld	1	f e l d
+087/069	feld	1	f e l d
+087/071	feld	1	f e l d
+087/073	feld	1	f e l d
+087/075	feld	1	f e l d
+087/077	feld	1	f e l d
+087/079	feld	1	f e l d
+087/081	faid	1	f ai d
+087/083	feid	1	f ei d
+087/085	feld	1	f e l d
+087/087	fäi	1	f äi
+087/089	foid	1	f oi d
+087/091	feud	1	f eu d
+087/093	fäid	1	f äi d
+087/095	fäid	1	f äi d
+087/097	fäid	1	f äi d
+087/099	feid	1	f ei d
+087/101	feid	1	f ei d
+087/103	fäid	1	f äi d
+087/105	fejd	1	f e j d
+087/107	fäid	1	f äi d
+087/109	fäid	1	f äi d
+087/111	aga	1	a g a
+087/113	föjd	1	f ö j d
+087/115	feld	1	f e l d
+087/117	föd	1	f ö d
+087/119	föd	1	f ö d
+087/121	föld	1	f ö l d
+087/123	föld	1	f ö l d
+087/125	föid	1	f öi d
+087/127	föid	1	f öi d
+087/129	föld	1	f ö l d
+087/133	föid	1	f öi d
+087/135	feld	1	f e l d
+087/137	feld	1	f e l d
+087/139	föd	1	f ö d
+087/141	föld	1	f ö l d
+087/143	föd	1	f ö d
+087/145	ocka	1	o ck a
+087/147	föd	1	f ö d
+087/149	föd	1	f ö d
+087/151	feld	1	f e l d
+088/035	fald	1	f a l d
+088/037	fald	1	f a l d
+088/039	fald	1	f a l d
+088/041	fald	1	f a l d
+088/043	feld	1	f e l d
+088/045	feld	1	f e l d
+088/047	fäld	1	f ä l d
+088/049	feld	1	f e l d
+088/051	feld	1	f e l d
+088/053	feld	1	f e l d
+088/055	feld	1	f e l d
+088/057	feld	1	f e l d
+088/059	feld	1	f e l d
+088/061	fäld	1	f ä l d
+088/063	fäld	1	f ä l d
+088/065	feld	1	f e l d
+088/067	fäald	1	f äa l d
+088/069	feld	1	f e l d
+088/071	fäld	1	f ä l d
+088/073	feld	1	f e l d
+088/075	feld	1	f e l d
+088/077	feld	1	f e l d
+088/079	feld	1	f e l d
+088/081	foid	1	f oi d
+088/083	föld	1	f ö l d
+088/085	feid	1	f ei d
+088/087	feid	1	f ei d
+088/089	feid	1	f ei d
+088/091	feid	1	f ei d
+088/093	feit	1	f ei t
+088/095	fäid	1	f äi d
+088/097	foid	1	f oi d
+088/099	fuiid	1	f uii d
+088/101	feüd	1	f eü d
+088/103	fäid	1	f äi d
+088/105	fejöd	1	f e j ö d
+088/107	fäid	1	f äi d
+088/109	fäid	1	f äi d
+088/113	NA	NA	-
+088/115	fel	1	f e l
+088/117	NA	NA	-
+088/121	föd	1	f ö d
+088/123	föld	1	f ö l d
+088/127	föd	1	f ö d
+088/129	feld	1	f e l d
+088/131	föid	1	f öi d
+088/137	föd	1	f ö d
+088/139	föd	1	f ö d
+088/141	föd	1	f ö d
+088/143	feld	1	f e l d
+088/145	föd	1	f ö d
+088/147	föüd	1	f öü d
+088/149	föd	1	f ö d
+089/035	fald	1	f a l d
+089/037	fald	1	f a l d
+089/039	fald	1	f a l d
+089/041	fald	1	f a l d
+089/043	feld	1	f e l d
+089/045	feld	1	f e l d
+089/047	feld	1	f e l d
+089/049	feld	1	f e l d
+089/051	feld	1	f e l d
+089/053	feld	1	f e l d
+089/055	feld	1	f e l d
+089/057	feld	1	f e l d
+089/059	feld	1	f e l d
+089/061	feld	1	f e l d
+089/063	fäld	1	f ä l d
+089/065	feald	1	f ea l d
+089/067	feld	1	f e l d
+089/069	feld	1	f e l d
+089/071	feld	1	f e l d
+089/073	feld	1	f e l d
+089/075	feld	1	f e l d
+089/077	feld	1	f e l d
+089/079	feld	1	f e l d
+089/081	föad	1	f öa d
+089/083	föi	1	f öi
+089/085	feld	1	f e l d
+089/087	feld	1	f e l d
+089/089	fäid	1	f äi d
+089/091	föid	1	f öi d
+089/093	foid	1	f oi d
+089/095	fäid	1	f äi d
+089/097	föid	1	f öi d
+089/099	fäid	1	f äi d
+089/101	feld	1	f e l d
+089/103	fäid	1	f äi d
+089/105	faöd	1	f aö d
+089/107	feild	1	f ei l d
+089/109	feld	1	f e l d
+089/111	föll	1	f ö ll
+089/113	feld	1	f e l d
+089/115	fäd	1	f ä d
+089/117	föd	1	f ö d
+089/119	fäd	1	f ä d
+089/121	fäü	1	f äü
+089/123	fel	1	f e l
+089/125	föd	1	f ö d
+089/127	föd	1	f ö d
+089/129	föd	1	f ö d
+089/131	fead	1	f ea d
+089/133	föld	1	f ö l d
+089/135	okka	1	o kk a
+089/137	föd	1	f ö d
+089/139	föd	1	f ö d
+089/141	foeld	1	f oe l d
+089/143	föid	1	f öi d
+089/145	föid	1	f öi d
+089/147	feld	1	f e l d
+089/149	föd	1	f ö d
+090/035	fald	1	f a l d
+090/037	fald	1	f a l d
+090/039	fald	1	f a l d
+090/041	fald	1	f a l d
+090/043	feld	1	f e l d
+090/045	feld	1	f e l d
+090/047	feld	1	f e l d
+090/049	feld	1	f e l d
+090/051	feld	1	f e l d
+090/053	feld	1	f e l d
+090/055	feald	1	f ea l d
+090/057	feald	1	f ea l d
+090/059	feld	1	f e l d
+090/061	feld	1	f e l d
+090/063	feld	1	f e l d
+090/065	feld	1	f e l d
+090/067	feld	1	f e l d
+090/069	feld	1	f e l d
+090/071	feld	1	f e l d
+090/073	feld	1	f e l d
+090/075	feld	1	f e l d
+090/077	feld	1	f e l d
+090/079	feld	1	f e l d
+090/081	feld	1	f e l d
+090/083	foi	1	f oi
+090/085	fai	1	f ai
+090/087	feld	1	f e l d
+090/089	föid	1	f öi d
+090/091	feid	1	f ei d
+090/093	fäid	1	f äi d
+090/095	NA	NA	-
+090/097	feöd	1	f eö d
+090/099	föid	1	f öi d
+090/101	faid	1	f ai d
+090/103	fäid	1	f äi d
+090/105	fejd	1	f e j d
+090/107	feeiid	1	f eeii d
+090/109	fel	1	f e l
+090/111	fä	1	f ä
+090/113	feld	1	f e l d
+090/115	fäd	1	f ä d
+090/119	fä	1	f ä
+090/121	fäö	1	f äö
+090/123	fäd	1	f ä d
+090/125	föid	1	f öi d
+090/127	fä	1	f ä
+090/129	föd	1	f ö d
+090/131	föd	1	f ö d
+090/133	föid	1	f öi d
+090/135	föd	1	f ö d
+090/137	föd	1	f ö d
+090/139	fed	1	f e d
+090/141	föd	1	f ö d
+090/143	föd	1	f ö d
+090/145	föd	1	f ö d
+090/147	föd	1	f ö d
+090/149	föd	1	f ö d
+090/151	föd	1	f ö d
+091/035	fald	1	f a l d
+091/037	fald	1	f a l d
+091/039	falld	1	f a ll d
+091/041	fald	1	f a l d
+091/043	feld	1	f e l d
+091/045	feld	1	f e l d
+091/047	fäld	1	f ä l d
+091/049	feld	1	f e l d
+091/051	fäld	1	f ä l d
+091/053	feld	1	f e l d
+091/055	fäld	1	f ä l d
+091/057	feald	1	f ea l d
+091/059	fiald	1	f ia l d
+091/061	feld	1	f e l d
+091/063	feld	1	f e l d
+091/065	feld	1	f e l d
+091/067	feld	1	f e l d
+091/069	fald	1	f a l d
+091/071	feld	1	f e l d
+091/073	feld	1	f e l d
+091/075	feld	1	f e l d
+091/077	feld	1	f e l d
+091/079	feld	1	f e l d
+091/081	fell	1	f e ll
+091/083	foid	1	f oi d
+091/085	feld	1	f e l d
+091/087	foid	1	f oi d
+091/091	feld	1	f e l d
+091/093	fäid	1	f äi d
+091/095	feld	1	f e l d
+091/097	foid	1	f oi d
+091/099	feld	1	f e l d
+091/101	foid	1	f oi d
+091/103	feid	1	f ei d
+091/105	feld	1	f e l d
+091/107	feld	1	f e l d
+091/109	fel	1	f e l
+091/111	fäid	1	f äi d
+091/113	fel	1	f e l
+091/115	fel	1	f e l
+091/117	fä	1	f ä
+091/119	fäd	1	f ä d
+091/121	feld	1	f e l d
+091/125	feld	1	f e l d
+091/129	fäd	1	f ä d
+091/131	fäd	1	f ä d
+091/133	föid	1	f öi d
+091/135	fe	1	f e
+091/137	ogga	1	o gg a
+091/139	föd	1	f ö d
+091/141	föld	1	f ö l d
+091/143	föid	1	f öi d
+091/145	acka	1	a ck a
+091/147	föld	1	f ö l d
+091/149	föd	1	f ö d
+091/151	feld	1	f e l d
+091/155	fööld	1	f öö l d
+092/033	fäld	1	f ä l d
+092/035	fald	1	f a l d
+092/037	fald	1	f a l d
+092/039	fald	1	f a l d
+092/041	fald	1	f a l d
+092/043	feld	1	f e l d
+092/045	feld	1	f e l d
+092/047	feld	1	f e l d
+092/049	feld	1	f e l d
+092/051	falld	1	f a ll d
+092/053	feld	1	f e l d
+092/055	feald	1	f ea l d
+092/057	feeld	1	f ee l d
+092/059	fiald	1	f ia l d
+092/061	feald	1	f ea l d
+092/063	feld	1	f e l d
+092/065	feld	1	f e l d
+092/067	feld	1	f e l d
+092/069	feald	1	f ea l d
+092/071	feld	1	f e l d
+092/073	feld	1	f e l d
+092/075	feld	1	f e l d
+092/077	feld	1	f e l d
+092/079	feld	1	f e l d
+092/081	fel	1	f e l
+092/083	fell	1	f e ll
+092/085	feld	1	f e l d
+092/087	feid	1	f ei d
+092/089	fäii	1	f äii
+092/091	foid	1	f oi d
+092/093	feld	1	f e l d
+092/095	foid	1	f oi d
+092/097	fäid	1	f äi d
+092/099	feld	1	f e l d
+092/101	feid	1	f ei d
+092/103	feld	1	f e l d
+092/105	fäöd	1	f äö d
+092/107	feld	1	f e l d
+092/109	fäd	1	f ä d
+092/111	fed	1	f e d
+092/113	feld	1	f e l d
+092/115	fäd	1	f ä d
+092/117	fed	1	f e d
+092/119	feld	1	f e l d
+092/121	föd	1	f ö d
+092/123	feld	1	f e l d
+092/125	fäid	1	f äi d
+092/127	feld	1	f e l d
+092/129	föid	1	f öi d
+092/131	föd	1	f ö d
+092/133	föd	1	f ö d
+092/135	föd	1	f ö d
+092/137	bika	1	b i k a
+092/139	NA	NA	-
+092/141	föid	1	f öi d
+092/143	föed	1	f öe d
+092/145	föid	1	f öi d
+092/147	föd	1	f ö d
+092/149	föd	1	f ö d
+092/151	föld	1	f ö l d
+093/035	fald	1	f a l d
+093/037	fald	1	f a l d
+093/039	fald	1	f a l d
+093/041	feld	1	f e l d
+093/043	feld	1	f e l d
+093/045	feld	1	f e l d
+093/047	feld	1	f e l d
+093/049	feld	1	f e l d
+093/051	feld	1	f e l d
+093/053	feld	1	f e l d
+093/055	fiald	1	f ia l d
+093/057	feald	1	f ea l d
+093/059	feald	1	f ea l d
+093/061	feld	1	f e l d
+093/063	feald	1	f ea l d
+093/065	feld	1	f e l d
+093/067	fäald	1	f äa l d
+093/069	feald	1	f ea l d
+093/071	feld	1	f e l d
+093/073	feld	1	f e l d
+093/075	feld	1	f e l d
+093/077	feld	1	f e l d
+093/079	feld	1	f e l d
+093/081	feld	1	f e l d
+093/083	feid	1	f ei d
+093/085	feid	1	f ei d
+093/087	föid	1	f öi d
+093/089	foid	1	f oi d
+093/091	feid	1	f ei d
+093/093	feid	1	f ei d
+093/095	feld	1	f e l d
+093/097	feld	1	f e l d
+093/099	feld	1	f e l d
+093/101	fel	1	f e l
+093/103	feid	1	f ei d
+093/105	fäid	1	f äi d
+093/109	feid	1	f ei d
+093/111	fä	1	f ä
+093/113	föl	1	f ö l
+093/115	feld	1	f e l d
+093/117	foed	1	f oe d
+093/119	foid	1	f oi d
+093/121	feld	1	f e l d
+093/123	föd	1	f ö d
+093/125	föd	1	f ö d
+093/127	föi	1	f öi
+093/129	feld	1	f e l d
+093/131	föd	1	f ö d
+093/133	oka	1	o k a
+093/137	föd	1	f ö d
+093/139	föid	1	f öi d
+093/143	föd	1	f ö d
+093/145	föd	1	f ö d
+093/147	ocka	1	o ck a
+093/149	föd	1	f ö d
+093/151	föd	1	f ö d
+093/153	föld	1	f ö l d
+093/155	föld	1	f ö l d
+094/033	modde	1	m o dd e
+094/035	fald	1	f a l d
+094/037	fald	1	f a l d
+094/039	fald	1	f a l d
+094/041	feld	1	f e l d
+094/043	fäld	1	f ä l d
+094/045	feld	1	f e l d
+094/047	NA	NA	-
+094/049	feld	1	f e l d
+094/051	feld	1	f e l d
+094/053	fäald	1	f äa l d
+094/055	feald	1	f ea l d
+094/057	feald	1	f ea l d
+094/059	feald	1	f ea l d
+094/061	feald	1	f ea l d
+094/063	feld	1	f e l d
+094/065	feld	1	f e l d
+094/067	fäald	1	f äa l d
+094/069	feald	1	f ea l d
+094/071	feld	1	f e l d
+094/073	feld	1	f e l d
+094/075	feld	1	f e l d
+094/077	feld	1	f e l d
+094/079	feld	1	f e l d
+094/081	feid	1	f ei d
+094/083	foi	1	f oi
+094/085	foeld	1	f oe l d
+094/087	feid	1	f ei d
+094/089	föid	1	f öi d
+094/091	feid	1	f ei d
+094/093	fei	1	f ei
+094/095	fäid	1	f äi d
+094/097	föi	1	f öi
+094/099	föid	1	f öi d
+094/101	feijd	1	f ei j d
+094/103	feid	1	f ei d
+094/105	föd	1	f ö d
+094/107	feld	1	f e l d
+094/109	fäh	1	f äh
+094/111	fäld	1	f ä l d
+094/113	feld	1	f e l d
+094/115	feld	1	f e l d
+094/117	fel	1	f e l
+094/119	feld	1	f e l d
+094/121	feld	1	f e l d
+094/123	fel	1	f e l
+094/125	föid	1	f öi d
+094/127	fäd	1	f ä d
+094/129	föd	1	f ö d
+094/131	föd	1	f ö d
+094/133	föld	1	f ö l d
+094/135	föld	1	f ö l d
+094/137	föd	1	f ö d
+094/139	föld	1	f ö l d
+094/141	feld	1	f e l d
+094/143	föd	1	f ö d
+094/145	föd	1	f ö d
+094/147	ocka	1	o ck a
+094/149	föd	1	f ö d
+094/151	föd	1	f ö d
+094/153	föd	1	f ö d
+095/031	fald	1	f a l d
+095/033	fäld	1	f ä l d
+095/035	falt	1	f a l t
+095/037	fald	1	f a l d
+095/039	fald	1	f a l d
+095/041	feld	1	f e l d
+095/043	feld	1	f e l d
+095/045	feld	1	f e l d
+095/047	feld	1	f e l d
+095/049	feld	1	f e l d
+095/051	feld	1	f e l d
+095/053	feld	1	f e l d
+095/055	feald	1	f ea l d
+095/057	feld	1	f e l d
+095/059	esch	1	e sch
+095/061	feald	1	f ea l d
+095/063	feld	1	f e l d
+095/065	fäald	1	f äa l d
+095/067	feld	1	f e l d
+095/069	feld	1	f e l d
+095/071	feld	1	f e l d
+095/073	feld	1	f e l d
+095/075	feld	1	f e l d
+095/077	feld	1	f e l d
+095/079	feld	1	f e l d
+095/081	feld	1	f e l d
+095/083	feeid	1	f eei d
+095/085	föid	1	f öi d
+095/087	föid	1	f öi d
+095/089	feeid	1	f eei d
+095/091	NA	NA	-
+095/093	feld	1	f e l d
+095/095	feid	1	f ei d
+095/097	fäid	1	f äi d
+095/099	föid	1	f öi d
+095/101	feld	1	f e l d
+095/103	feld	1	f e l d
+095/105	feld	1	f e l d
+095/107	feld	1	f e l d
+095/109	land	1	l a n d
+095/111	fäid	1	f äi d
+095/113	fel	1	f e l
+095/115	föld	1	f ö l d
+095/117	fäd	1	f ä d
+095/119	fäid	1	f äi d
+095/121	fäi	1	f äi
+095/123	föld	1	f ö l d
+095/125	föid	1	f öi d
+095/129	föd	1	f ö d
+095/131	föd	1	f ö d
+095/133	föld	1	f ö l d
+095/139	feld	1	f e l d
+095/141	föld	1	f ö l d
+095/143	föd	1	f ö d
+095/145	foid	1	f oi d
+095/147	föd	1	f ö d
+095/149	föd	1	f ö d
+095/151	föld	1	f ö l d
+095/153	fölt	1	f ö l t
+095/155	föld	1	f ö l d
+096/031	fald	1	f a l d
+096/033	fald	1	f a l d
+096/035	faald	1	f aa l d
+096/037	fald	1	f a l d
+096/039	fald	1	f a l d
+096/041	fäld	1	f ä l d
+096/043	feld	1	f e l d
+096/045	feld	1	f e l d
+096/047	feld	1	f e l d
+096/049	feld	1	f e l d
+096/051	feld	1	f e l d
+096/053	feld	1	f e l d
+096/055	feld	1	f e l d
+096/057	feld	1	f e l d
+096/059	feld	1	f e l d
+096/061	NA	NA	-
+096/063	feld	1	f e l d
+096/065	NA	NA	-
+096/067	fäald	1	f äa l d
+096/069	feald	1	f ea l d
+096/071	feald	1	f ea l d
+096/075	feld	1	f e l d
+096/077	feld	1	f e l d
+096/079	feld	1	f e l d
+096/081	feid	1	f ei d
+096/083	feal	1	f ea l
+096/085	föi	1	f öi
+096/087	faid	1	f ai d
+096/089	foad	1	f oa d
+096/091	feö	1	f eö
+096/093	fäid	1	f äi d
+096/095	foid	1	f oi d
+096/097	feld	1	f e l d
+096/099	fei	1	f ei
+096/101	feid	1	f ei d
+096/103	fel	1	f e l
+096/105	land	1	l a n d
+096/107	föid	1	f öi d
+096/109	feld	1	f e l d
+096/111	fäid	1	f äi d
+096/113	fäld	1	f ä l d
+096/115	fäd	1	f ä d
+096/117	wiesn	1	w ie s n
+096/119	föd	1	f ö d
+096/121	fä	1	f ä
+096/123	fejd	1	f e j d
+096/125	fäid	1	f äi d
+096/129	föd	1	f ö d
+096/131	föd	1	f ö d
+096/135	föld	1	f ö l d
+096/137	föd	1	f ö d
+096/139	föld	1	f ö l d
+096/141	föd	1	f ö d
+096/143	föd	1	f ö d
+096/145	föd	1	f ö d
+096/147	fööt	1	f öö t
+096/151	föld	1	f ö l d
+096/153	fölyd	1	f ö l y d
+096/155	föid	1	f öi d
+097/031	fald	1	f a l d
+097/033	feld	1	f e l d
+097/035	feld	1	f e l d
+097/037	fald	1	f a l d
+097/039	feld	1	f e l d
+097/041	fäld	1	f ä l d
+097/043	feld	1	f e l d
+097/045	feld	1	f e l d
+097/047	feld	1	f e l d
+097/049	feld	1	f e l d
+097/051	feld	1	f e l d
+097/053	feld	1	f e l d
+097/055	feld	1	f e l d
+097/057	feald	1	f ea l d
+097/059	NA	NA	-
+097/061	feld	1	f e l d
+097/063	feld	1	f e l d
+097/065	feald	1	f ea l d
+097/067	feld	1	f e l d
+097/069	feld	1	f e l d
+097/071	feld	1	f e l d
+097/073	feld	1	f e l d
+097/075	feld	1	f e l d
+097/077	feld	1	f e l d
+097/079	feld	1	f e l d
+097/081	feld	1	f e l d
+097/083	fäl	1	f ä l
+097/085	fäi	1	f äi
+097/087	föid	1	f öi d
+097/089	fed	1	f e d
+097/091	fäi	1	f äi
+097/093	foö	1	f oö
+097/095	föid	1	f öi d
+097/097	fiod	1	f io d
+097/099	feld	1	f e l d
+097/103	feöd	1	f eö d
+097/105	fäid	1	f äi d
+097/107	foid	1	f oi d
+097/109	fäid	1	f äi d
+097/113	feld	1	f e l d
+097/125	fold	1	f o l d
+097/131	föd	1	f ö d
+097/133	föd	1	f ö d
+097/139	föd	1	f ö d
+097/141	föd	1	f ö d
+097/143	föld	1	f ö l d
+097/145	föld	1	f ö l d
+097/149	föld	1	f ö l d
+097/153	föld	1	f ö l d
+098/033	fald	1	f a l d
+098/035	fald	1	f a l d
+098/037	fald	1	f a l d
+098/039	fald	1	f a l d
+098/041	feld	1	f e l d
+098/043	feld	1	f e l d
+098/045	feld	1	f e l d
+098/047	feld	1	f e l d
+098/049	fäld	1	f ä l d
+098/051	fäld	1	f ä l d
+098/053	feld	1	f e l d
+098/055	feld	1	f e l d
+098/057	feld	1	f e l d
+098/059	feld	1	f e l d
+098/061	feald	1	f ea l d
+098/063	feld	1	f e l d
+098/065	feald	1	f ea l d
+098/067	feald	1	f ea l d
+098/069	feald	1	f ea l d
+098/071	NA	NA	-
+098/073	feld	1	f e l d
+098/075	feld	1	f e l d
+098/077	feld	1	f e l d
+098/079	feld	1	f e l d
+098/081	foed	1	f oe d
+098/083	foed	1	f oe d
+098/085	föi	1	f öi
+098/087	fei	1	f ei
+098/089	feld	1	f e l d
+098/091	föi	1	f öi
+098/093	fäi	1	f äi
+098/095	fäid	1	f äi d
+098/097	föld	1	f ö l d
+098/103	feld	1	f e l d
+098/105	fed	1	f e d
+098/107	fäid	1	f äi d
+098/109	feld	1	f e l d
+098/111	feld	1	f e l d
+098/119	fäd	1	f ä d
+098/123	föü	1	f öü
+098/125	fel	1	f e l
+098/127	wisn	1	w i s n
+098/135	föd	1	f ö d
+098/137	föid	1	f öi d
+098/139	föld	1	f ö l d
+098/141	föd	1	f ö d
+098/143	föld	1	f ö l d
+098/145	ocka	1	o ck a
+098/147	feld	1	f e l d
+098/149	föld	1	f ö l d
+098/151	föid	1	f öi d
+099/033	fald	1	f a l d
+099/035	fald	1	f a l d
+099/037	fall	1	f a ll
+099/039	fald	1	f a l d
+099/041	feld	1	f e l d
+099/043	fäld	1	f ä l d
+099/045	feld	1	f e l d
+099/047	feld	1	f e l d
+099/049	fäld	1	f ä l d
+099/051	feld	1	f e l d
+099/053	feld	1	f e l d
+099/055	fäld	1	f ä l d
+099/057	feld	1	f e l d
+099/059	feld	1	f e l d
+099/063	feald	1	f ea l d
+099/065	fäld	1	f ä l d
+099/067	fiald	1	f ia l d
+099/069	feald	1	f ea l d
+099/071	feald	1	f ea l d
+099/073	feald	1	f ea l d
+099/075	feld	1	f e l d
+099/077	feld	1	f e l d
+099/081	fäid	1	f äi d
+099/083	feal	1	f ea l
+099/085	fell	1	f e ll
+099/089	fäi	1	f äi
+099/093	feö	1	f eö
+099/095	foi	1	f oi
+099/099	feid	1	f ei d
+099/101	fehld	1	f eh l d
+099/103	acker	1	a ck e r
+099/105	fäid	1	f äi d
+099/107	föid	1	f öi d
+099/109	fed	1	f e d
+099/111	fäd	1	f ä d
+099/113	fäd	1	f ä d
+099/121	föü	1	f öü
+099/123	föd	1	f ö d
+099/125	föid	1	f öi d
+099/131	föd	1	f ö d
+099/137	föid	1	f öi d
+099/139	föd	1	f ö d
+099/141	föd	1	f ö d
+099/143	föd	1	f ö d
+099/145	fähd	1	f äh d
+099/147	föt	1	f ö t
+100/033	fald	1	f a l d
+100/035	fall	1	f a ll
+100/037	fall	1	f a ll
+100/039	fald	1	f a l d
+100/041	fäld	1	f ä l d
+100/043	fäld	1	f ä l d
+100/045	feld	1	f e l d
+100/049	fäld	1	f ä l d
+100/051	fäld	1	f ä l d
+100/053	fäld	1	f ä l d
+100/055	fäld	1	f ä l d
+100/057	feld	1	f e l d
+100/059	feld	1	f e l d
+100/061	feld	1	f e l d
+100/065	feald	1	f ea l d
+100/067	feäld	1	f eä l d
+100/069	feald	1	f ea l d
+100/071	feald	1	f ea l d
+100/073	feald	1	f ea l d
+100/075	feld	1	f e l d
+100/077	feld	1	f e l d
+100/081	feld	1	f e l d
+100/083	feld	1	f e l d
+100/089	fel	1	f e l
+100/093	fed	1	f e d
+100/095	fel	1	f e l
+100/097	feid	1	f ei d
+100/099	feid	1	f ei d
+100/101	feld	1	f e l d
+100/109	fed	1	f e d
+100/111	feld	1	f e l d
+100/113	föld	1	f ö l d
+100/115	feld	1	f e l d
+100/117	föld	1	f ö l d
+100/119	föll	1	f ö ll
+100/121	föld	1	f ö l d
+100/125	föd	1	f ö d
+100/127	föld	1	f ö l d
+100/129	feld	1	f e l d
+100/133	feld	1	f e l d
+100/135	feld	1	f e l d
+100/141	feld	1	f e l d
+100/143	föld	1	f ö l d
+100/145	föid	1	f öi d
+101/035	fall	1	f a ll
+101/037	fäll	1	f ä ll
+101/039	fäld	1	f ä l d
+101/041	land	1	l a n d
+101/043	fäld	1	f ä l d
+101/045	fäld	1	f ä l d
+101/047	fäld	1	f ä l d
+101/049	fäld	1	f ä l d
+101/051	fäld	1	f ä l d
+101/053	feld	1	f e l d
+101/055	fäld	1	f ä l d
+101/057	feld	1	f e l d
+101/059	faald	1	f aa l d
+101/061	wes	1	w e s
+101/063	feield	1	f eie l d
+101/065	feald	1	f ea l d
+101/067	feaud	1	f eau d
+101/071	feald	1	f ea l d
+101/075	feld	1	f e l d
+101/077	feld	1	f e l d
+101/079	feld	1	f e l d
+101/081	faald	1	f aa l d
+101/091	fooid	1	f ooi d
+101/093	feüd	1	f eü d
+101/095	föd	1	f ö d
+101/097	föid	1	f öi d
+101/099	föid	1	f öi d
+101/101	faöd	1	f aö d
+101/103	fäid	1	f äi d
+101/107	feid	1	f ei d
+101/109	föid	1	f öi d
+101/113	faid	1	f ai d
+101/115	feld	1	f e l d
+101/121	föl	1	f ö l
+101/125	föld	1	f ö l d
+101/129	föid	1	f öi d
+101/131	fold	1	f o l d
+101/133	föld	1	f ö l d
+101/137	föld	1	f ö l d
+101/139	feld	1	f e l d
+101/141	fold	1	f o l d
+101/143	fold	1	f o l d
+101/145	fölt	1	f ö l t
+101/147	foold	1	f oo l d
+102/037	fäu	1	f äu
+102/039	fäll	1	f ä ll
+102/041	fäld	1	f ä l d
+102/043	fäld	1	f ä l d
+102/045	doorf	1	d oo r f
+102/047	fand	1	f a n d
+102/049	fäld	1	f ä l d
+102/051	fäld	1	f ä l d
+102/053	fäld	1	f ä l d
+102/055	fäld	1	f ä l d
+102/057	feld	1	f e l d
+102/059	feld	1	f e l d
+102/061	acker	1	a ck e r
+102/063	feld	1	f e l d
+102/065	feald	1	f ea l d
+102/067	fäald	1	f äa l d
+102/069	feld	1	f e l d
+102/071	feald	1	f ea l d
+102/073	fald	1	f a l d
+102/075	fald	1	f a l d
+102/077	fald	1	f a l d
+102/079	feld	1	f e l d
+102/081	fald	1	f a l d
+102/083	feld	1	f e l d
+102/089	feld	1	f e l d
+102/091	fod	1	f o d
+102/093	föd	1	f ö d
+102/095	föid	1	f öi d
+102/097	feld	1	f e l d
+102/099	feld	1	f e l d
+102/103	fejd	1	f e j d
+102/107	foid	1	f oi d
+102/109	food	1	f oo d
+102/113	föed	1	f öe d
+102/115	föl	1	f ö l
+102/127	feld	1	f e l d
+102/129	föd	1	f ö d
+102/131	föld	1	f ö l d
+102/135	föld	1	f ö l d
+102/137	feld	1	f e l d
+102/139	föild	1	f öi l d
+102/141	fold	1	f o l d
+102/143	fööld	1	f öö l d
+102/145	fält	1	f ä l t
+103/039	fäud	1	f äu d
+103/041	fäud	1	f äu d
+103/043	fäud	1	f äu d
+103/045	fäud	1	f äu d
+103/047	faud	1	f au d
+103/049	fäld	1	f ä l d
+103/051	fäld	1	f ä l d
+103/053	fäld	1	f ä l d
+103/055	wise	1	w i s e
+103/057	wisen	1	w i s e n
+103/059	wisä	1	w i s ä
+103/063	feld	1	f e l d
+103/065	feald	1	f ea l d
+103/067	feld	1	f e l d
+103/069	feld	1	f e l d
+103/071	feld	1	f e l d
+103/073	fald	1	f a l d
+103/075	fald	1	f a l d
+103/077	fäld	1	f ä l d
+103/079	feld	1	f e l d
+103/081	fald	1	f a l d
+103/083	feld	1	f e l d
+103/085	feld	1	f e l d
+103/087	feld	1	f e l d
+103/089	feld	1	f e l d
+103/091	feld	1	f e l d
+103/097	fed	1	f e d
+103/099	fäid	1	f äi d
+103/101	feijd	1	f ei j d
+103/105	föid	1	f öi d
+103/107	feid	1	f ei d
+103/111	föid	1	f öi d
+103/121	feld	1	f e l d
+103/125	feld	1	f e l d
+103/127	föld	1	f ö l d
+103/131	oka	1	o k a
+103/133	ocka	1	o ck a
+103/135	föld	1	f ö l d
+103/137	feld	1	f e l d
+103/139	föld	1	f ö l d
+103/141	föld	1	f ö l d
+103/143	föld	1	f ö l d
+103/145	foold	1	f oo l d
+104/033	matte	1	m a tt e
+104/035	feld	1	f e l d
+104/037	fäud	1	f äu d
+104/039	fäld	1	f ä l d
+104/041	fäud	1	f äu d
+104/043	fäud	1	f äu d
+104/045	fäud	1	f äu d
+104/047	fäwd	1	f ä w d
+104/049	fäuwd	1	f äu w d
+104/051	fäld	1	f ä l d
+104/053	fäld	1	f ä l d
+104/055	fäld	1	f ä l d
+104/057	wesä	1	w e s ä
+104/059	feld	1	f e l d
+104/061	hoschtert	1	h o sch t e r t
+104/063	feald	1	f ea l d
+104/065	fäld	1	f ä l d
+104/067	fäld	1	f ä l d
+104/071	fald	1	f a l d
+104/075	faald	1	f aa l d
+104/077	fald	1	f a l d
+104/079	fald	1	f a l d
+104/081	feld	1	f e l d
+104/083	feld	1	f e l d
+104/085	feld	1	f e l d
+104/091	feld	1	f e l d
+104/095	fod	1	f o d
+104/101	feld	1	f e l d
+104/103	foid	1	f oi d
+104/107	fäidt	1	f äi d t
+104/111	feeaa	1	f eeaa
+104/113	fed	1	f e d
+104/119	feld	1	f e l d
+104/121	feld	1	f e l d
+104/123	fölt	1	f ö l t
+104/125	föld	1	f ö l d
+104/127	föld	1	f ö l d
+104/131	oka	1	o k a
+104/133	oka	1	o k a
+104/135	fold	1	f o l d
+104/137	fold	1	f o l d
+104/139	föld	1	f ö l d
+104/141	ocka	1	o ck a
+104/143	fäld	1	f ä l d
+104/145	föld	1	f ö l d
+105/031	fäud	1	f äu d
+105/033	fäld	1	f ä l d
+105/035	fäud	1	f äu d
+105/037	fäu	1	f äu
+105/039	fäud	1	f äu d
+105/041	fäud	1	f äu d
+105/043	fäld	1	f ä l d
+105/045	fäud	1	f äu d
+105/047	fäld	1	f ä l d
+105/049	land	1	l a n d
+105/051	fäld	1	f ä l d
+105/053	fäld	1	f ä l d
+105/055	fäld	1	f ä l d
+105/057	wisä	1	w i s ä
+105/059	fäld	1	f ä l d
+105/061	feld	1	f e l d
+105/063	feld	1	f e l d
+105/065	feld	1	f e l d
+105/067	feld	1	f e l d
+105/069	fäld	1	f ä l d
+105/071	fald	1	f a l d
+105/073	fald	1	f a l d
+105/075	fald	1	f a l d
+105/077	feld	1	f e l d
+105/079	fald	1	f a l d
+105/081	feld	1	f e l d
+105/085	feld	1	f e l d
+105/087	feld	1	f e l d
+105/089	feld	1	f e l d
+105/103	fed	1	f e d
+105/105	föd	1	f ö d
+105/111	fed	1	f e d
+105/113	fed	1	f e d
+105/115	fod	1	f o d
+105/117	föld	1	f ö l d
+105/119	grund	1	g r u n d
+105/121	föld	1	f ö l d
+105/125	feld	1	f e l d
+105/127	föl	1	f ö l
+105/131	föld	1	f ö l d
+105/133	wiesn	1	w ie s n
+105/135	föld	1	f ö l d
+105/137	wiesn	1	w ie s n
+105/141	föld	1	f ö l d
+105/143	föld	1	f ö l d
+105/145	feld	1	f e l d
+106/033	fäud	1	f äu d
+106/035	fäu	1	f äu
+106/037	fäud	1	f äu d
+106/039	fäu	1	f äu
+106/041	fäud	1	f äu d
+106/043	land	1	l a n d
+106/045	fäud	1	f äu d
+106/047	fäld	1	f ä l d
+106/049	fäld	1	f ä l d
+106/051	fäld	1	f ä l d
+106/053	fäld	1	f ä l d
+106/057	feld	1	f e l d
+106/061	fäld	1	f ä l d
+106/063	fäld	1	f ä l d
+106/067	feld	1	f e l d
+106/071	fald	1	f a l d
+106/073	falt	1	f a l t
+106/075	fald	1	f a l d
+106/077	fald	1	f a l d
+106/079	feld	1	f e l d
+106/081	fald	1	f a l d
+106/085	feld	1	f e l d
+106/087	feld	1	f e l d
+106/093	feld	1	f e l d
+106/097	feld	1	f e l d
+106/099	feld	1	f e l d
+106/103	feld	1	f e l d
+106/111	feld	1	f e l d
+106/115	fed	1	f e d
+106/121	grund	1	g r u n d
+106/123	grund	1	g r u n d
+106/125	grund	1	g r u n d
+106/129	NA	NA	-
+106/131	föld	1	f ö l d
+106/133	föld	1	f ö l d
+106/135	föld	1	f ö l d
+106/137	föld	1	f ö l d
+106/139	feld	1	f e l d
+106/141	föld	1	f ö l d
+106/143	föld	1	f ö l d
+106/145	föld	1	f ö l d
+107/033	fäu	1	f äu
+107/035	fäu	1	f äu
+107/037	fäld	1	f ä l d
+107/039	fäud	1	f äu d
+107/041	fäud	1	f äu d
+107/043	fäud	1	f äu d
+107/045	fäud	1	f äu d
+107/047	mattä	1	m a tt ä
+107/049	matte	1	m a tt e
+107/051	fäld	1	f ä l d
+107/053	land	1	l a n d
+107/057	feld	1	f e l d
+107/059	feld	1	f e l d
+107/063	fäld	1	f ä l d
+107/065	fäld	1	f ä l d
+107/071	fald	1	f a l d
+107/075	fald	1	f a l d
+107/081	fald	1	f a l d
+107/085	feld	1	f e l d
+107/087	NA	NA	-
+107/089	feld	1	f e l d
+107/091	feld	1	f e l d
+107/097	feld	1	f e l d
+107/099	feld	1	f e l d
+107/103	feld	1	f e l d
+107/105	feld	1	f e l d
+107/107	feld	1	f e l d
+107/111	föid	1	f öi d
+107/119	feld	1	f e l d
+107/121	feld	1	f e l d
+107/123	grund	1	g r u n d
+107/125	grunt	1	g r u n t
+107/127	ocka	1	o ck a
+107/129	wiesn	1	w ie s n
+107/131	föld	1	f ö l d
+107/133	föld	1	f ö l d
+107/135	fäld	1	f ä l d
+107/137	föld	1	f ö l d
+107/139	föld	1	f ö l d
+107/141	föd	1	f ö d
+107/143	föld	1	f ö l d
+108/033	fäu	1	f äu
+108/035	fau	1	f au
+108/037	fäud	1	f äu d
+108/039	fäld	1	f ä l d
+108/041	fäud	1	f äu d
+108/043	matte	1	m a tt e
+108/047	fäld	1	f ä l d
+108/049	fäld	1	f ä l d
+108/063	fällt	1	f ä ll t
+108/065	fäld	1	f ä l d
+108/067	fäld	1	f ä l d
+108/075	feld	1	f e l d
+108/079	fald	1	f a l d
+108/081	feld	1	f e l d
+108/085	feld	1	f e l d
+108/087	felt	1	f e l t
+108/091	feld	1	f e l d
+108/099	feld	1	f e l d
+108/101	feld	1	f e l d
+108/103	feld	1	f e l d
+108/105	feld	1	f e l d
+108/109	feld	1	f e l d
+108/111	feld	1	f e l d
+108/113	feld	1	f e l d
+108/117	feld	1	f e l d
+108/119	fäld	1	f ä l d
+108/121	feld	1	f e l d
+108/123	ockar	1	o ck a r
+108/125	grund	1	g r u n d
+108/127	feld	1	f e l d
+108/129	foll	1	f o ll
+108/131	föld	1	f ö l d
+108/133	föld	1	f ö l d
+108/135	fel	1	f e l
+108/137	ocka	1	o ck a
+108/139	föld	1	f ö l d
+108/141	föld	1	f ö l d
+109/035	fäud	1	f äu d
+109/037	fäud	1	f äu d
+109/039	fäud	1	f äu d
+109/041	fäud	1	f äu d
+109/043	mattä	1	m a tt ä
+109/045	mattli	1	m a tt l i
+109/049	fäld	1	f ä l d
+109/053	land	1	l a n d
+109/061	fäld	1	f ä l d
+109/063	fäld	1	f ä l d
+109/065	NA	NA	-
+109/067	fäld	1	f ä l d
+109/075	feld	1	f e l d
+109/083	feld	1	f e l d
+109/087	felt	1	f e l t
+109/089	felt	1	f e l t
+109/091	feld	1	f e l d
+109/093	feld	1	f e l d
+109/095	feld	1	f e l d
+109/097	feld	1	f e l d
+109/099	feld	1	f e l d
+109/101	feld	1	f e l d
+109/103	feld	1	f e l d
+109/107	feld	1	f e l d
+109/109	NA	NA	-
+109/111	feld	1	f e l d
+109/113	feld	1	f e l d
+109/115	feld	1	f e l d
+109/117	föld	1	f ö l d
+109/119	feld	1	f e l d
+109/121	feld	1	f e l d
+109/123	wisn	1	w i s n
+109/125	feld	1	f e l d
+109/127	föld	1	f ö l d
+109/129	fööl	1	f öö l
+109/131	föild	1	f öi l d
+109/133	wiesn	1	w ie s n
+109/135	oka	1	o k a
+109/137	föll	1	f ö ll
+109/139	föl	1	f ö l
+110/035	matta	1	m a tt a
+110/039	faud	1	f au d
+110/041	land	1	l a n d
+110/043	fäld	1	f ä l d
+110/045	fäld	1	f ä l d
+110/047	fäld	1	f ä l d
+110/049	fäld	1	f ä l d
+110/057	fald	1	f a l d
+110/061	fäld	1	f ä l d
+110/065	fäld	1	f ä l d
+110/075	wis	1	w i s
+110/079	NA	NA	-
+110/081	wies	1	w ie s
+110/083	wies	1	w ie s
+110/087	feld	1	f e l d
+110/089	feld	1	f e l d
+110/091	feld	1	f e l d
+110/093	feld	1	f e l d
+110/095	feld	1	f e l d
+110/097	feld	1	f e l d
+110/099	fald	1	f a l d
+110/101	feld	1	f e l d
+110/105	feld	1	f e l d
+110/107	feld	1	f e l d
+110/111	feld	1	f e l d
+110/113	feld	1	f e l d
+110/115	feld	1	f e l d
+110/117	felt	1	f e l t
+110/119	felt	1	f e l t
+110/121	wiesn	1	w ie s n
+110/125	feld	1	f e l d
+110/127	NA	NA	-
+110/129	wisn	1	w i s n
+110/131	föl	1	f ö l
+110/133	föld	1	f ö l d
+110/135	föll	1	f ö ll
+110/137	föhl	1	f öh l
+110/139	föld	1	f ö l d
+111/035	fäld	1	f ä l d
+111/037	matten	1	m a tt e n
+111/039	fäld	1	f ä l d
+111/041	NA	NA	-
+111/043	fäld	1	f ä l d
+111/045	fald	1	f a l d
+111/059	fäld	1	f ä l d
+111/073	felt	1	f e l t
+111/075	feld	1	f e l d
+111/077	feld	1	f e l d
+111/079	feld	1	f e l d
+111/081	wies	1	w ie s
+111/083	feld	1	f e l d
+111/087	wisn	1	w i s n
+111/089	fold	1	f o l d
+111/105	feld	1	f e l d
+111/107	feld	1	f e l d
+111/109	feld	1	f e l d
+111/111	feld	1	f e l d
+111/113	feld	1	f e l d
+111/115	feld	1	f e l d
+111/117	feld	1	f e l d
+111/119	felt	1	f e l t
+111/121	feld	1	f e l d
+111/123	feld	1	f e l d
+111/125	feld	1	f e l d
+112/037	land	1	l a n d
+112/039	NA	NA	-
+112/041	fäld	1	f ä l d
+112/043	fald	1	f a l d
+112/047	fäld	1	f ä l d
+112/059	fääld	1	f ää l d
+112/061	fäld	1	f ä l d
+112/063	matt	1	m a tt
+112/075	feld	1	f e l d
+112/081	wiesn	1	w ie s n
+112/083	wies	1	w ie s
+112/085	wiis	1	w ii s
+112/111	feld	1	f e l d
+112/115	feld	1	f e l d
+112/117	feld	1	f e l d
+112/119	feld	1	f e l d
+113/035	fäld	1	f ä l d
+113/037	lond	1	l o n d
+113/039	fäld	1	f ä l d
+113/047	fäld	1	f ä l d
+113/079	wiesn	1	w ie s n
+113/081	felt	1	f e l t
+113/083	biesn	1	b ie s n
+113/085	feld	1	f e l d
+113/087	wis	1	w i s
+113/121	feld	1	f e l d
+113/123	feld	1	f e l d
+114/035	land	1	l a n d
+114/045	mattu	1	m a tt u
+114/083	feld	1	f e l d
+114/085	wies	1	w ie s
+115/041	mattu	1	m a tt u
+115/043	fäld	1	f ä l d
+115/045	fäld	1	f ä l d
+115/083	mous	1	m ou s
+115/085	giatr	1	g ia t r
+116/043	fäld	1	f ä l d
+116/045	mattn	1	m a tt n
+116/083	feld	1	f e l d
+117/043	fäld	1	f ä l d
+117/045	fäld	1	f ä l d
+118/041	fäld	1	f ä l d
+119/083	feld	1	f e l d
+120/085	akr	1	a k r
+121/127	ackrn	1	a ck r n
+122/127	ackt	1	a ck t
+122/129	ackrn	1	a ck r n
+123/081	aker	1	a k e r
+123/123	ackrn	1	a ck r n
+123/125	walda	1	w a l d a
+123/127	ackern	1	a ck e r n
+123/129	ackrn	1	a ck r n
+124/125	waldä	1	w a l d ä
+124/127	ackrn	1	a ck r n
+124/129	ackrn	1	a ck r n
