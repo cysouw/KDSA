@@ -10,7 +10,7 @@ writeFile(37)
 source("scripts/mapWenker.R")
 load("data/KDSAvoronoiSP.Rdata")
 
-MAP <- mapFromIndex(14)
+(MAP <- mapFromIndex(169))
 
 # show in browser
 
