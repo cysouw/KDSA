@@ -168,3 +168,10 @@ DORF(37)	Dorf	1	5	f	F
 DREI(26)	drei	1	1	d	F
 DREI(26)	drei	1	2	r	F
 DREI(26)	drei	1	3	ei	T
+DRESCH_en(20)	dreschen	1	1	d	F
+DRESCH_en(20)	dreschen	1	2	r	F
+DRESCH_en(20)	dreschen	1	3	e	T
+DRESCH_en(20)	dreschen	1	4	r	F
+DRESCH_en(20)	dreschen	1	5	sch	F
+DU_affe(11)	du	1	1	d	F
+DU_affe(11)	du	1	2	u	T
