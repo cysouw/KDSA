@@ -18,6 +18,16 @@ require(RColorBrewer)
 # save map as widget
 # htmlwidgets::saveWidget(MAP, file = "title.html")
 
+mapFromIndex <- function(nr) {
+	index <- read.delim("alignments/index.txt")
+	file <- paste0("alignments/", index$LEMMA[nr], ".txt")
+	align <- getAlign(file, index$COGID[nr], index$COLUMN[nr])
+	mapWenker(align
+			, vowel = index$VOWEL[nr]
+			, center = index$CENTER[nr]
+			, title = index$TITLE[nr]
+	)	
+}
 
 getAlign <- function(lemma, cogid, column) {
 
@@ -190,7 +200,11 @@ allAlign <- function(dir, kind = "V", cutoff = 5000) {
   rownames(result) <- NULL
 
   freq <- apply(result, 2, function(x) {sum(is.na(x))})
-  result <- result[, freq < cutoff]
+  center = index$CENTER
+  sel <- c(freq < cutoff) & c(center != "-")
+  
+  center <- center[sel]
+  result <- result[, sel]
 
-  return(result)
+  return(list(align = result, center = center))
 }
