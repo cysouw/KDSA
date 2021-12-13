@@ -175,3 +175,16 @@ DRESCH_en(20)	dreschen	1	4	r	F
 DRESCH_en(20)	dreschen	1	5	sch	F
 DU_affe(11)	du	1	1	d	F
 DU_affe(11)	du	1	2	u	T
+DÜRF_t(28)	dürft	1	1	d	F
+DÜRF_t(28)	dürft	1	2	r	F
+DÜRF_t(28)	dürft	1	3	ü	T
+DÜRF_t(28)	dürft	1	4	r	F
+DÜRF_t(28)	dürft	1	5	-	T
+DÜRF_t(28)	dürft	1	6	f	F
+DU_hast(16)	du	1	1	d	F
+DU_hast(16)	du	1	2	u	T
+DURST(23)	durst	1	1	d	F
+DURST(23)	durst	1	2	u	T
+DURST(23)	durst	1	3	r	F
+DURST(23)	durst	1	4	s	F
+DURST(23)	durst	1	5	t	F
