@@ -25,7 +25,7 @@ htmlwidgets::saveWidget(MAP, file = "sandbox/title.html")
 source("scripts/mapWenker.R")
 
 dir <- "alignments"
-v <- allAlign(dir, kind = "")
+v <- allAlign(dir)
 center <- v$center
 v <- v$align
 
