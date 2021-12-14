@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	het	1	h e t
+002/201	heet	1	h ee t
+002/203	höt	1	h ö t
+002/205	höth	1	h ö t h
+003/203	höt	1	h ö t
+003/205	heet	1	h ee t
+004/205	höt	1	h ö t
+005/205	heet	1	h ee t
+005/207	heet	1	h ee t
+006/205	heet	1	h ee t
+006/207	het	1	h e t
+007/205	heet	1	h ee t
+007/207	heet	1	h ee t
+007/209	höt	1	h ö t
+007/211	höt	1	h ö t
+008/199	heet	1	h ee t
+008/203	heet	1	h ee t
+008/205	het	1	h e t
+008/207	het	1	h e t
+008/209	het	1	h e t
+008/211	heet	1	h ee t
+008/213	heet	1	h ee t
+009/199	heet	1	h ee t
+009/203	höt	1	h ö t
+009/207	heet	1	h ee t
+009/209	het	1	h e t
+009/211	heet	1	h ee t
+009/213	höt	1	h ö t
+009/215	höt	1	h ö t
+009/217	het	1	h e t
+010/195	heet	1	h ee t
+010/203	het	1	h e t
+010/207	het	1	h e t
+010/209	heet	1	h ee t
+010/211	heht	1	h eh t
+010/213	het	1	h e t
+010/215	heet	1	h ee t
+010/217	het	1	h e t
+010/219	heet	1	h ee t
+011/049	waram	1	w a r a m
+011/053	heer	1	h ee r
+011/055	stork	1	s t o r k
+011/057	warm	1	w a r m
+011/059	warm	1	w a r m
+011/061	heed	1	h ee d
+011/063	heed	1	h ee d
+011/065	stork	1	s t o r k
+011/067	hie	1	h ie
+011/069	hed	1	h e d
+011/187	heet	1	h ee t
+011/189	hät	1	h ä t
+011/191	het	1	h e t
+011/195	heet	1	h ee t
+011/197	heet	1	h ee t
+011/203	het	1	h e t
+011/205	höt	1	h ö t
+011/207	heet	1	h ee t
+011/209	heet	1	h ee t
+011/211	het	1	h e t
+011/213	heet	1	h ee t
+011/215	heet	1	h ee t
+011/217	heet	1	h ee t
+011/219	het	1	h e t
+012/047	hit	1	h i t
+012/049	warm	1	w a r m
+012/051	hit	1	h i t
+012/053	heer	1	h ee r
+012/055	warm	1	w a r m
+012/057	her	1	h e r
+012/059	warm	1	w a r m
+012/061	warm	1	w a r m
+012/063	gal	1	g a l
+012/065	streng	1	s t r e ng
+012/067	heed	1	h ee d
+012/069	warm	1	w a r m
+012/187	höt	1	h ö t
+012/189	het	1	h e t
+012/191	höt	1	h ö t
+012/193	het	1	h e t
+012/195	heet	1	h ee t
+012/197	het	1	h e t
+012/199	heet	1	h ee t
+012/201	höt	1	h ö t
+012/203	het	1	h e t
+012/205	höt	1	h ö t
+012/207	heet	1	h ee t
+012/209	heet	1	h ee t
+012/211	heet	1	h ee t
+012/213	heet	1	h ee t
+012/215	heet	1	h ee t
+012/217	höt	1	h ö t
+012/219	höt	1	h ö t
+012/221	heet	1	h ee t
+012/223	het	1	h e t
+013/051	hiet	1	h ie t
+013/053	hit	1	h i t
+013/055	hijt	1	h i j t
+013/057	heed	1	h ee d
+013/059	warm	1	w a r m
+013/061	hitt	1	h i tt
+013/063	hitt	1	h i tt
+013/065	hitt	1	h i tt
+013/067	hidd	1	h i dd
+013/161	heit	1	h ei t
+013/163	heit	1	h ei t
+013/165	heit	1	h ei t
+013/167	het	1	h e t
+013/187	het	1	h e t
+013/189	heet	1	h ee t
+013/191	het	1	h e t
+013/193	heht	1	h eh t
+013/195	heet	1	h ee t
+013/197	heet	1	h ee t
+013/199	heet	1	h ee t
+013/201	het	1	h e t
+013/203	het	1	h e t
+013/207	heet	1	h ee t
+013/209	heht	1	h eh t
+013/211	höt	1	h ö t
+013/213	heet	1	h ee t
+013/215	heet	1	h ee t
+013/217	heet	1	h ee t
+013/219	heet	1	h ee t
+013/221	het	1	h e t
+013/223	heet	1	h ee t
+014/047	hiat	1	h ia t
+014/049	hiat	1	h ia t
+014/051	hiat	1	h ia t
+014/053	hiet	1	h ie t
+014/055	hiit	1	h ii t
+014/057	hit	1	h i t
+014/059	hitt	1	h i tt
+014/061	hitt	1	h i tt
+014/063	hitt	1	h i tt
+014/065	hitt	1	h i tt
+014/067	hitt	1	h i tt
+014/109	heit	1	h ei t
+014/159	heit	1	h ei t
+014/161	heit	1	h ei t
+014/163	heit	1	h ei t
+014/165	heit	1	h ei t
+014/167	heet	1	h ee t
+014/169	heit	1	h ei t
+014/187	heet	1	h ee t
+014/189	heth	1	h e t h
+014/191	het	1	h e t
+014/193	heet	1	h ee t
+014/195	heet	1	h ee t
+014/197	het	1	h e t
+014/199	heth	1	h e t h
+014/201	heet	1	h ee t
+014/203	höt	1	h ö t
+014/205	höt	1	h ö t
+014/207	het	1	h e t
+014/209	höt	1	h ö t
+014/211	hedt	1	h e d t
+014/213	heet	1	h ee t
+014/215	het	1	h e t
+014/217	höt	1	h ö t
+014/219	heet	1	h ee t
+014/221	heet	1	h ee t
+015/049	hiat	1	h ia t
+015/051	hiat	1	h ia t
+015/053	hiat	1	h ia t
+015/055	hiet	1	h ie t
+015/057	hiet	1	h ie t
+015/059	hitt	1	h i tt
+015/061	hitt	1	h i tt
+015/063	hitt	1	h i tt
+015/065	hitt	1	h i tt
+015/067	hitt	1	h i tt
+015/105	heit	1	h ei t
+015/107	heeit	1	h eei t
+015/109	heit	1	h ei t
+015/151	heit	1	h ei t
+015/153	heit	1	h ei t
+015/155	heit	1	h ei t
+015/157	heit	1	h ei t
+015/159	heit	1	h ei t
+015/161	heit	1	h ei t
+015/163	heit	1	h ei t
+015/165	heit	1	h ei t
+015/167	hett	1	h e tt
+015/169	heet	1	h ee t
+015/173	heet	1	h ee t
+015/187	höet	1	h öe t
+015/191	het	1	h e t
+015/193	heet	1	h ee t
+015/195	het	1	h e t
+015/197	heet	1	h ee t
+015/199	heet	1	h ee t
+015/201	höt	1	h ö t
+015/203	höt	1	h ö t
+015/205	heet	1	h ee t
+015/207	heet	1	h ee t
+015/209	het	1	h e t
+015/211	het	1	h e t
+015/213	het	1	h e t
+015/215	höt	1	h ö t
+015/217	het	1	h e t
+015/219	heet	1	h ee t
+015/221	heet	1	h ee t
+016/051	hiet	1	h ie t
+016/055	hiert	1	h ie r t
+016/057	hitt	1	h i tt
+016/059	hitt	1	h i tt
+016/061	hitt	1	h i tt
+016/063	hitt	1	h i tt
+016/065	hid	1	h i d
+016/067	hitt	1	h i tt
+016/081	hitt	1	h i tt
+016/083	dull	1	d u ll
+016/105	heit	1	h ei t
+016/107	heit	1	h ei t
+016/109	heit	1	h ei t
+016/111	heet	1	h ee t
+016/145	heit	1	h ei t
+016/147	heit	1	h ei t
+016/149	heit	1	h ei t
+016/151	heit	1	h ei t
+016/153	heit	1	h ei t
+016/155	heit	1	h ei t
+016/157	heit	1	h ei t
+016/159	heit	1	h ei t
+016/161	heit	1	h ei t
+016/163	heit	1	h ei t
+016/165	het	1	h e t
+016/167	hett	1	h e tt
+016/187	het	1	h e t
+016/189	het	1	h e t
+016/191	heet	1	h ee t
+016/193	heet	1	h ee t
+016/195	höt	1	h ö t
+016/197	heet	1	h ee t
+016/199	het	1	h e t
+016/201	heet	1	h ee t
+016/203	het	1	h e t
+016/205	heet	1	h ee t
+016/209	heet	1	h ee t
+016/211	heet	1	h ee t
+016/213	höt	1	h ö t
+016/215	het	1	h e t
+016/217	het	1	h e t
+016/219	heet	1	h ee t
+017/055	hitt	1	h i tt
+017/057	hid	1	h i d
+017/059	hitt	1	h i tt
+017/061	hitt	1	h i tt
+017/063	hitt	1	h i tt
+017/065	hit	1	h i t
+017/067	het	1	h e t
+017/069	hitt	1	h i tt
+017/081	hit	1	h i t
+017/083	hitt	1	h i tt
+017/099	heit	1	h ei t
+017/101	heit	1	h ei t
+017/103	heit	1	h ei t
+017/107	heit	1	h ei t
+017/109	heit	1	h ei t
+017/145	heit	1	h ei t
+017/147	heit	1	h ei t
+017/149	heit	1	h ei t
+017/151	heit	1	h ei t
+017/153	heit	1	h ei t
+017/155	heit	1	h ei t
+017/157	heit	1	h ei t
+017/159	heit	1	h ei t
+017/161	heit	1	h ei t
+017/163	heit	1	h ei t
+017/165	heit	1	h ei t
+017/169	heet	1	h ee t
+017/171	het	1	h e t
+017/183	het	1	h e t
+017/185	het	1	h e t
+017/187	het	1	h e t
+017/189	heet	1	h ee t
+017/191	het	1	h e t
+017/193	het	1	h e t
+017/195	heat	1	h ea t
+017/197	heet	1	h ee t
+017/199	het	1	h e t
+017/201	het	1	h e t
+017/203	groht	1	g r oh t
+017/205	höt	1	h ö t
+017/207	het	1	h e t
+017/209	het	1	h e t
+017/211	heet	1	h ee t
+017/213	heet	1	h ee t
+017/215	het	1	h e t
+017/217	het	1	h e t
+017/219	höt	1	h ö t
+018/051	hit	1	h i t
+018/053	hitt	1	h i tt
+018/055	hitt	1	h i tt
+018/057	hitt	1	h i tt
+018/059	hitt	1	h i tt
+018/061	hitt	1	h i tt
+018/063	hitt	1	h i tt
+018/065	hitt	1	h i tt
+018/067	hitt	1	h i tt
+018/069	hit	1	h i t
+018/071	hitt	1	h i tt
+018/073	hit	1	h i t
+018/075	hitt	1	h i tt
+018/079	hitt	1	h i tt
+018/081	hitt	1	h i tt
+018/097	heit	1	h ei t
+018/099	heit	1	h ei t
+018/103	heit	1	h ei t
+018/105	heit	1	h ei t
+018/107	heet	1	h ee t
+018/109	heit	1	h ei t
+018/111	heit	1	h ei t
+018/143	heit	1	h ei t
+018/145	heit	1	h ei t
+018/147	heit	1	h ei t
+018/149	heit	1	h ei t
+018/151	heit	1	h ei t
+018/153	heit	1	h ei t
+018/155	heit	1	h ei t
+018/157	heit	1	h ei t
+018/159	heit	1	h ei t
+018/161	heit	1	h ei t
+018/163	heit	1	h ei t
+018/165	heit	1	h ei t
+018/169	heth	1	h e t h
+018/171	heet	1	h ee t
+018/173	het	1	h e t
+018/181	heet	1	h ee t
+018/185	hitt	1	h i tt
+018/187	het	1	h e t
+018/189	heet	1	h ee t
+018/191	höt	1	h ö t
+018/193	het	1	h e t
+018/195	heet	1	h ee t
+018/197	heet	1	h ee t
+018/199	heet	1	h ee t
+018/201	het	1	h e t
+018/203	heet	1	h ee t
+018/205	het	1	h e t
+018/207	het	1	h e t
+018/209	heet	1	h ee t
+018/211	het	1	h e t
+018/213	heet	1	h ee t
+018/215	höt	1	h ö t
+018/219	hoet	1	h oe t
+019/051	hitt	1	h i tt
+019/053	dull	1	d u ll
+019/055	dull	1	d u ll
+019/057	hitt	1	h i tt
+019/059	hitt	1	h i tt
+019/061	hitt	1	h i tt
+019/063	hit	1	h i t
+019/065	hitt	1	h i tt
+019/067	hitt	1	h i tt
+019/069	hit	1	h i t
+019/071	hitt	1	h i tt
+019/073	het	1	h e t
+019/075	hitt	1	h i tt
+019/077	hitt	1	h i tt
+019/079	hitt	1	h i tt
+019/081	hitt	1	h i tt
+019/097	heit	1	h ei t
+019/099	heit	1	h ei t
+019/101	heit	1	h ei t
+019/103	heit	1	h ei t
+019/105	heit	1	h ei t
+019/107	het	1	h e t
+019/109	heit	1	h ei t
+019/143	heit	1	h ei t
+019/145	heit	1	h ei t
+019/147	heit	1	h ei t
+019/149	heit	1	h ei t
+019/151	heit	1	h ei t
+019/153	grot	1	g r o t
+019/155	heit	1	h ei t
+019/157	heit	1	h ei t
+019/159	heit	1	h ei t
+019/161	heit	1	h ei t
+019/163	heit	1	h ei t
+019/165	heit	1	h ei t
+019/167	het	1	h e t
+019/169	het	1	h e t
+019/171	het	1	h e t
+019/173	NA	NA	-
+019/175	het	1	h e t
+019/177	het	1	h e t
+019/179	heet	1	h ee t
+019/181	heet	1	h ee t
+019/183	heet	1	h ee t
+019/185	hitt	1	h i tt
+019/187	hütt	1	h ü tt
+019/189	hitt	1	h i tt
+019/191	heet	1	h ee t
+019/193	het	1	h e t
+019/195	hett	1	h e tt
+019/197	het	1	h e t
+019/199	het	1	h e t
+019/201	heet	1	h ee t
+019/203	het	1	h e t
+019/205	het	1	h e t
+019/207	höt	1	h ö t
+019/209	het	1	h e t
+019/211	heet	1	h ee t
+019/213	heet	1	h ee t
+019/215	het	1	h e t
+019/217	höt	1	h ö t
+019/219	heet	1	h ee t
+020/043	stark	1	s t a r k
+020/053	hitt	1	h i tt
+020/055	hitt	1	h i tt
+020/057	hitt	1	h i tt
+020/059	hitt	1	h i tt
+020/061	hid	1	h i d
+020/063	hitt	1	h i tt
+020/065	het	1	h e t
+020/067	hitt	1	h i tt
+020/069	hitt	1	h i tt
+020/071	hitt	1	h i tt
+020/073	hitt	1	h i tt
+020/075	hitt	1	h i tt
+020/077	heet	1	h ee t
+020/079	hitt	1	h i tt
+020/081	hit	1	h i t
+020/095	heit	1	h ei t
+020/097	heit	1	h ei t
+020/099	heit	1	h ei t
+020/101	heit	1	h ei t
+020/103	heit	1	h ei t
+020/105	heit	1	h ei t
+020/107	heit	1	h ei t
+020/135	heit	1	h ei t
+020/137	heit	1	h ei t
+020/139	heit	1	h ei t
+020/141	heit	1	h ei t
+020/143	heit	1	h ei t
+020/145	heit	1	h ei t
+020/147	heit	1	h ei t
+020/149	heit	1	h ei t
+020/151	heit	1	h ei t
+020/153	heit	1	h ei t
+020/155	heit	1	h ei t
+020/157	heit	1	h ei t
+020/159	heit	1	h ei t
+020/161	heit	1	h ei t
+020/163	heit	1	h ei t
+020/165	heit	1	h ei t
+020/167	heit	1	h ei t
+020/169	heit	1	h ei t
+020/171	höt	1	h ö t
+020/173	het	1	h e t
+020/175	het	1	h e t
+020/177	het	1	h e t
+020/179	heet	1	h ee t
+020/181	heet	1	h ee t
+020/183	heet	1	h ee t
+020/185	het	1	h e t
+020/187	hess	1	h e ss
+020/189	het	1	h e t
+020/191	heet	1	h ee t
+020/193	heet	1	h ee t
+020/195	het	1	h e t
+020/197	heet	1	h ee t
+020/199	het	1	h e t
+020/201	heet	1	h ee t
+020/203	het	1	h e t
+020/205	höt	1	h ö t
+020/207	heet	1	h ee t
+020/209	het	1	h e t
+020/211	heet	1	h ee t
+020/213	het	1	h e t
+020/215	het	1	h e t
+020/217	het	1	h e t
+020/219	heet	1	h ee t
+021/055	hitt	1	h i tt
+021/057	hitt	1	h i tt
+021/059	hidd	1	h i dd
+021/061	hitt	1	h i tt
+021/063	hitt	1	h i tt
+021/065	het	1	h e t
+021/067	hitt	1	h i tt
+021/069	haet	1	h ae t
+021/071	hitt	1	h i tt
+021/073	hitt	1	h i tt
+021/075	hitt	1	h i tt
+021/077	hitt	1	h i tt
+021/079	hitt	1	h i tt
+021/087	heit	1	h ei t
+021/089	heit	1	h ei t
+021/091	heit	1	h ei t
+021/093	heit	1	h ei t
+021/095	heit	1	h ei t
+021/097	heit	1	h ei t
+021/099	heit	1	h ei t
+021/101	heit	1	h ei t
+021/103	heit	1	h ei t
+021/105	heit	1	h ei t
+021/107	heit	1	h ei t
+021/109	heit	1	h ei t
+021/111	heidt	1	h ei d t
+021/113	heit	1	h ei t
+021/131	heit	1	h ei t
+021/133	heit	1	h ei t
+021/135	heit	1	h ei t
+021/137	heit	1	h ei t
+021/139	heit	1	h ei t
+021/141	heit	1	h ei t
+021/143	heit	1	h ei t
+021/145	heit	1	h ei t
+021/147	heit	1	h ei t
+021/149	heit	1	h ei t
+021/151	heit	1	h ei t
+021/153	heit	1	h ei t
+021/155	heiss	1	h ei ss
+021/157	heit	1	h ei t
+021/159	heit	1	h ei t
+021/163	heit	1	h ei t
+021/165	heit	1	h ei t
+021/167	heit	1	h ei t
+021/169	heet	1	h ee t
+021/171	het	1	h e t
+021/173	het	1	h e t
+021/175	het	1	h e t
+021/177	heth	1	h e t h
+021/179	heet	1	h ee t
+021/181	höt	1	h ö t
+021/183	het	1	h e t
+021/185	höss	1	h ö ss
+021/187	höss	1	h ö ss
+021/189	heess	1	h ee ss
+021/191	höss	1	h ö ss
+021/193	hess	1	h e ss
+021/195	höss	1	h ö ss
+021/197	höss	1	h ö ss
+021/199	het	1	h e t
+021/201	höt	1	h ö t
+021/203	heet	1	h ee t
+021/205	het	1	h e t
+021/207	het	1	h e t
+021/211	heet	1	h ee t
+021/215	het	1	h e t
+021/217	het	1	h e t
+021/219	heet	1	h ee t
+022/055	hitt	1	h i tt
+022/057	hitt	1	h i tt
+022/059	hitt	1	h i tt
+022/061	het	1	h e t
+022/063	hedd	1	h e dd
+022/065	heed	1	h ee d
+022/067	het	1	h e t
+022/069	hett	1	h e tt
+022/071	hitt	1	h i tt
+022/073	hitt	1	h i tt
+022/075	hitt	1	h i tt
+022/077	dull	1	d u ll
+022/087	heit	1	h ei t
+022/089	heit	1	h ei t
+022/091	heit	1	h ei t
+022/093	heit	1	h ei t
+022/095	heit	1	h ei t
+022/097	heit	1	h ei t
+022/099	heit	1	h ei t
+022/101	heit	1	h ei t
+022/103	heit	1	h ei t
+022/105	heit	1	h ei t
+022/107	heit	1	h ei t
+022/109	heit	1	h ei t
+022/111	heit	1	h ei t
+022/113	heit	1	h ei t
+022/115	heit	1	h ei t
+022/127	heit	1	h ei t
+022/129	heit	1	h ei t
+022/131	heit	1	h ei t
+022/133	heit	1	h ei t
+022/135	heit	1	h ei t
+022/137	heit	1	h ei t
+022/139	heit	1	h ei t
+022/141	heit	1	h ei t
+022/143	heit	1	h ei t
+022/145	heit	1	h ei t
+022/147	heit	1	h ei t
+022/149	heit	1	h ei t
+022/151	heit	1	h ei t
+022/153	heid	1	h ei d
+022/155	heit	1	h ei t
+022/157	heit	1	h ei t
+022/159	heit	1	h ei t
+022/165	heit	1	h ei t
+022/167	heit	1	h ei t
+022/169	het	1	h e t
+022/171	heet	1	h ee t
+022/173	het	1	h e t
+022/175	heht	1	h eh t
+022/177	het	1	h e t
+022/179	heet	1	h ee t
+022/181	het	1	h e t
+022/183	höss	1	h ö ss
+022/185	heess	1	h ee ss
+022/187	hess	1	h e ss
+022/189	hess	1	h e ss
+022/191	brü	1	b r ü
+022/193	hess	1	h e ss
+022/195	brüh	1	b r üh
+022/197	heess	1	h ee ss
+022/199	heess	1	h ee ss
+022/201	heet	1	h ee t
+022/203	het	1	h e t
+022/205	het	1	h e t
+022/209	heet	1	h ee t
+022/211	heet	1	h ee t
+022/215	heet	1	h ee t
+022/217	höht	1	h öh t
+022/219	heet	1	h ee t
+023/055	hitt	1	h i tt
+023/059	hitt	1	h i tt
+023/061	hidt	1	h i d t
+023/063	hitt	1	h i tt
+023/065	hett	1	h e tt
+023/067	hitt	1	h i tt
+023/069	hitt	1	h i tt
+023/071	heet	1	h ee t
+023/073	hid	1	h i d
+023/075	NA	NA	-
+023/077	dull	1	d u ll
+023/079	heet	1	h ee t
+023/081	heit	1	h ei t
+023/083	heit	1	h ei t
+023/085	heit	1	h ei t
+023/087	heit	1	h ei t
+023/089	heit	1	h ei t
+023/091	heit	1	h ei t
+023/093	heit	1	h ei t
+023/095	heit	1	h ei t
+023/097	heit	1	h ei t
+023/099	heit	1	h ei t
+023/101	heit	1	h ei t
+023/103	heit	1	h ei t
+023/105	heit	1	h ei t
+023/107	heit	1	h ei t
+023/109	heit	1	h ei t
+023/111	heit	1	h ei t
+023/113	heit	1	h ei t
+023/115	heit	1	h ei t
+023/117	heit	1	h ei t
+023/121	heit	1	h ei t
+023/123	heit	1	h ei t
+023/125	heit	1	h ei t
+023/127	heit	1	h ei t
+023/129	heit	1	h ei t
+023/131	heit	1	h ei t
+023/133	heit	1	h ei t
+023/135	heit	1	h ei t
+023/137	heit	1	h ei t
+023/139	heit	1	h ei t
+023/141	heit	1	h ei t
+023/143	heit	1	h ei t
+023/145	heit	1	h ei t
+023/147	heit	1	h ei t
+023/149	heit	1	h ei t
+023/151	heid	1	h ei d
+023/153	heit	1	h ei t
+023/155	heit	1	h ei t
+023/165	heit	1	h ei t
+023/167	heit	1	h ei t
+023/169	heet	1	h ee t
+023/175	het	1	h e t
+023/177	heess	1	h ee ss
+023/179	hess	1	h e ss
+023/181	heess	1	h ee ss
+023/183	heess	1	h ee ss
+023/185	heess	1	h ee ss
+023/187	heess	1	h ee ss
+023/189	heess	1	h ee ss
+023/191	brü	1	b r ü
+023/193	bri	1	b r i
+023/195	höss	1	h ö ss
+023/197	hess	1	h e ss
+023/199	heet	1	h ee t
+023/201	höt	1	h ö t
+023/203	het	1	h e t
+023/205	het	1	h e t
+023/207	het	1	h e t
+023/215	het	1	h e t
+023/217	het	1	h e t
+024/053	hitt	1	h i tt
+024/057	hitt	1	h i tt
+024/059	hitt	1	h i tt
+024/061	hitt	1	h i tt
+024/063	grot	1	g r o t
+024/065	hit	1	h i t
+024/067	hitt	1	h i tt
+024/069	hitt	1	h i tt
+024/071	hitt	1	h i tt
+024/073	hit	1	h i t
+024/075	hitt	1	h i tt
+024/077	heid	1	h ei d
+024/079	heit	1	h ei t
+024/081	heit	1	h ei t
+024/083	heit	1	h ei t
+024/085	heit	1	h ei t
+024/087	heit	1	h ei t
+024/089	heit	1	h ei t
+024/091	heit	1	h ei t
+024/093	heit	1	h ei t
+024/095	heit	1	h ei t
+024/097	heit	1	h ei t
+024/099	heit	1	h ei t
+024/101	heit	1	h ei t
+024/103	heit	1	h ei t
+024/105	heit	1	h ei t
+024/107	heit	1	h ei t
+024/109	heid	1	h ei d
+024/111	heit	1	h ei t
+024/113	heit	1	h ei t
+024/115	heit	1	h ei t
+024/117	heit	1	h ei t
+024/119	heit	1	h ei t
+024/121	heit	1	h ei t
+024/123	heit	1	h ei t
+024/125	heit	1	h ei t
+024/127	heit	1	h ei t
+024/129	heit	1	h ei t
+024/131	heit	1	h ei t
+024/133	heit	1	h ei t
+024/135	heit	1	h ei t
+024/137	heit	1	h ei t
+024/139	heit	1	h ei t
+024/141	heit	1	h ei t
+024/143	heit	1	h ei t
+024/145	heit	1	h ei t
+024/147	heit	1	h ei t
+024/149	heit	1	h ei t
+024/151	het	1	h e t
+024/153	het	1	h e t
+024/155	heet	1	h ee t
+024/163	heet	1	h ee t
+024/165	heit	1	h ei t
+024/167	heit	1	h ei t
+024/169	höit	1	h öi t
+024/171	häit	1	h äi t
+024/175	het	1	h e t
+024/179	heess	1	h ee ss
+024/181	heess	1	h ee ss
+024/183	heess	1	h ee ss
+024/185	heess	1	h ee ss
+024/187	heess	1	h ee ss
+024/189	heess	1	h ee ss
+024/191	hess	1	h e ss
+024/193	heess	1	h ee ss
+024/195	brüh	1	b r üh
+024/197	heess	1	h ee ss
+024/199	hess	1	h e ss
+024/201	heeth	1	h ee t h
+024/203	het	1	h e t
+024/217	heet	1	h ee t
+024/221	heet	1	h ee t
+025/043	heit	1	h ei t
+025/051	hitt	1	h i tt
+025/053	hitt	1	h i tt
+025/055	hitt	1	h i tt
+025/057	hit	1	h i t
+025/059	hitt	1	h i tt
+025/061	hitt	1	h i tt
+025/063	hitt	1	h i tt
+025/065	hitt	1	h i tt
+025/067	hitt	1	h i tt
+025/069	heet	1	h ee t
+025/071	hitt	1	h i tt
+025/073	häit	1	h äi t
+025/075	heet	1	h ee t
+025/077	heit	1	h ei t
+025/079	heid	1	h ei d
+025/081	heit	1	h ei t
+025/083	heit	1	h ei t
+025/085	heit	1	h ei t
+025/087	heit	1	h ei t
+025/089	grot	1	g r o t
+025/091	heit	1	h ei t
+025/093	heit	1	h ei t
+025/095	heit	1	h ei t
+025/099	heit	1	h ei t
+025/101	heit	1	h ei t
+025/103	heet	1	h ee t
+025/105	heit	1	h ei t
+025/107	heit	1	h ei t
+025/109	heit	1	h ei t
+025/111	heit	1	h ei t
+025/113	heit	1	h ei t
+025/115	heet	1	h ee t
+025/123	heit	1	h ei t
+025/125	heit	1	h ei t
+025/127	heit	1	h ei t
+025/129	heit	1	h ei t
+025/131	heit	1	h ei t
+025/133	heit	1	h ei t
+025/135	heit	1	h ei t
+025/137	heit	1	h ei t
+025/139	heit	1	h ei t
+025/141	heit	1	h ei t
+025/143	heit	1	h ei t
+025/145	heit	1	h ei t
+025/147	heit	1	h ei t
+025/149	heit	1	h ei t
+025/151	het	1	h e t
+025/153	het	1	h e t
+025/155	heht	1	h eh t
+025/157	het	1	h e t
+025/159	het	1	h e t
+025/177	heiss	1	h ei ss
+025/179	heess	1	h ee ss
+025/181	heess	1	h ee ss
+025/183	höss	1	h ö ss
+025/185	heess	1	h ee ss
+025/187	stark	1	s t a r k
+025/189	hess	1	h e ss
+025/191	brieh	1	b r ieh
+026/031	heet	1	h ee t
+026/033	het	1	h e t
+026/037	het	1	h e t
+026/041	heet	1	h ee t
+026/043	heet	1	h ee t
+026/045	heet	1	h ee t
+026/051	hitt	1	h i tt
+026/053	hitt	1	h i tt
+026/055	hitt	1	h i tt
+026/057	hitt	1	h i tt
+026/059	hitt	1	h i tt
+026/061	hitt	1	h i tt
+026/063	hitt	1	h i tt
+026/065	hitt	1	h i tt
+026/067	hidd	1	h i dd
+026/069	hitt	1	h i tt
+026/071	hit	1	h i t
+026/073	heit	1	h ei t
+026/075	heit	1	h ei t
+026/077	heid	1	h ei d
+026/079	heit	1	h ei t
+026/081	heit	1	h ei t
+026/083	heit	1	h ei t
+026/085	heit	1	h ei t
+026/087	heit	1	h ei t
+026/089	heit	1	h ei t
+026/091	heit	1	h ei t
+026/093	heit	1	h ei t
+026/095	heit	1	h ei t
+026/097	heit	1	h ei t
+026/099	heid	1	h ei d
+026/101	heit	1	h ei t
+026/103	heit	1	h ei t
+026/105	heit	1	h ei t
+026/107	heit	1	h ei t
+026/109	heit	1	h ei t
+026/111	heit	1	h ei t
+026/113	heet	1	h ee t
+026/115	hed	1	h e d
+026/117	heet	1	h ee t
+026/119	het	1	h e t
+026/123	heit	1	h ei t
+026/125	heit	1	h ei t
+026/127	heit	1	h ei t
+026/129	heit	1	h ei t
+026/131	heit	1	h ei t
+026/133	heit	1	h ei t
+026/135	heit	1	h ei t
+026/137	heit	1	h ei t
+026/139	heit	1	h ei t
+026/141	heit	1	h ei t
+026/143	heit	1	h ei t
+026/145	heit	1	h ei t
+026/147	heit	1	h ei t
+026/153	het	1	h e t
+026/155	het	1	h e t
+026/157	het	1	h e t
+026/159	het	1	h e t
+026/161	heet	1	h ee t
+026/165	het	1	h e t
+026/173	het	1	h e t
+026/175	heet	1	h ee t
+026/177	heet	1	h ee t
+026/179	het	1	h e t
+026/181	hess	1	h e ss
+026/183	hess	1	h e ss
+026/185	heess	1	h ee ss
+026/187	heess	1	h ee ss
+026/189	heiss	1	h ei ss
+027/027	heit	1	h ei t
+027/035	heet	1	h ee t
+027/037	häät	1	h ää t
+027/039	heet	1	h ee t
+027/041	heet	1	h ee t
+027/043	heet	1	h ee t
+027/045	het	1	h e t
+027/047	heet	1	h ee t
+027/051	hitt	1	h i tt
+027/053	hitt	1	h i tt
+027/055	hitt	1	h i tt
+027/057	hitt	1	h i tt
+027/059	hitt	1	h i tt
+027/061	hitt	1	h i tt
+027/063	hitt	1	h i tt
+027/065	hitt	1	h i tt
+027/067	hitt	1	h i tt
+027/069	doll	1	d o ll
+027/071	heet	1	h ee t
+027/073	heit	1	h ei t
+027/075	heit	1	h ei t
+027/077	heit	1	h ei t
+027/079	heit	1	h ei t
+027/081	heit	1	h ei t
+027/083	heit	1	h ei t
+027/085	heet	1	h ee t
+027/087	heit	1	h ei t
+027/089	heit	1	h ei t
+027/091	heit	1	h ei t
+027/093	heit	1	h ei t
+027/095	heit	1	h ei t
+027/099	heit	1	h ei t
+027/101	heid	1	h ei d
+027/103	heit	1	h ei t
+027/105	heit	1	h ei t
+027/107	heet	1	h ee t
+027/109	het	1	h e t
+027/111	heht	1	h eh t
+027/113	het	1	h e t
+027/115	heet	1	h ee t
+027/117	heet	1	h ee t
+027/119	heet	1	h ee t
+027/123	heet	1	h ee t
+027/125	het	1	h e t
+027/127	heit	1	h ei t
+027/129	heit	1	h ei t
+027/131	heit	1	h ei t
+027/135	heit	1	h ei t
+027/137	heit	1	h ei t
+027/139	heit	1	h ei t
+027/141	heht	1	h eh t
+027/143	heit	1	h ei t
+027/145	heit	1	h ei t
+027/147	heit	1	h ei t
+027/149	heit	1	h ei t
+027/151	het	1	h e t
+027/153	het	1	h e t
+027/155	het	1	h e t
+027/157	heet	1	h ee t
+027/159	het	1	h e t
+027/161	het	1	h e t
+027/167	heet	1	h ee t
+027/171	heth	1	h e t h
+027/173	het	1	h e t
+027/175	het	1	h e t
+027/177	het	1	h e t
+027/179	het	1	h e t
+027/181	heit	1	h ei t
+027/183	heess	1	h ee ss
+027/185	heess	1	h ee ss
+028/033	het	1	h e t
+028/035	heet	1	h ee t
+028/037	heet	1	h ee t
+028/039	heet	1	h ee t
+028/041	heet	1	h ee t
+028/043	heht	1	h eh t
+028/045	heet	1	h ee t
+028/047	heet	1	h ee t
+028/049	het	1	h e t
+028/051	heet	1	h ee t
+028/053	hett	1	h e tt
+028/055	hitt	1	h i tt
+028/057	hitt	1	h i tt
+028/059	hitt	1	h i tt
+028/061	hidt	1	h i d t
+028/063	hitt	1	h i tt
+028/065	hitt	1	h i tt
+028/067	häit	1	h äi t
+028/069	heet	1	h ee t
+028/071	heet	1	h ee t
+028/073	heit	1	h ei t
+028/075	heit	1	h ei t
+028/077	heit	1	h ei t
+028/079	heit	1	h ei t
+028/081	heit	1	h ei t
+028/083	heit	1	h ei t
+028/085	heit	1	h ei t
+028/087	heit	1	h ei t
+028/089	heit	1	h ei t
+028/091	heid	1	h ei d
+028/093	heit	1	h ei t
+028/095	heit	1	h ei t
+028/097	heit	1	h ei t
+028/099	heit	1	h ei t
+028/103	heit	1	h ei t
+028/105	heit	1	h ei t
+028/107	het	1	h e t
+028/109	heet	1	h ee t
+028/111	heet	1	h ee t
+028/113	heet	1	h ee t
+028/115	heet	1	h ee t
+028/117	het	1	h e t
+028/119	heet	1	h ee t
+028/121	het	1	h e t
+028/123	heet	1	h ee t
+028/125	heet	1	h ee t
+028/127	heit	1	h ei t
+028/129	heit	1	h ei t
+028/131	heit	1	h ei t
+028/133	heit	1	h ei t
+028/135	heit	1	h ei t
+028/137	heit	1	h ei t
+028/139	heit	1	h ei t
+028/141	heet	1	h ee t
+028/143	het	1	h e t
+028/145	heit	1	h ei t
+028/147	heit	1	h ei t
+028/151	heit	1	h ei t
+028/153	heet	1	h ee t
+028/155	het	1	h e t
+028/157	heet	1	h ee t
+028/159	heet	1	h ee t
+028/161	het	1	h e t
+028/165	heet	1	h ee t
+028/169	het	1	h e t
+028/171	het	1	h e t
+028/173	heht	1	h eh t
+028/175	heet	1	h ee t
+028/177	hejt	1	h e j t
+028/179	heet	1	h ee t
+028/181	heess	1	h ee ss
+028/183	hess	1	h e ss
+028/185	hess	1	h e ss
+029/033	heet	1	h ee t
+029/035	hyt	1	h y t
+029/037	heet	1	h ee t
+029/039	haät	1	h aä t
+029/043	heet	1	h ee t
+029/045	foss	1	f o ss
+029/047	heet	1	h ee t
+029/049	heet	1	h ee t
+029/051	hitt	1	h i tt
+029/053	hett	1	h e tt
+029/055	hitt	1	h i tt
+029/057	hitt	1	h i tt
+029/059	hitt	1	h i tt
+029/061	hitt	1	h i tt
+029/065	häid	1	h äi d
+029/067	heet	1	h ee t
+029/069	heet	1	h ee t
+029/071	heet	1	h ee t
+029/073	heit	1	h ei t
+029/075	heit	1	h ei t
+029/077	heit	1	h ei t
+029/079	heit	1	h ei t
+029/081	heit	1	h ei t
+029/083	heit	1	h ei t
+029/085	heit	1	h ei t
+029/087	heid	1	h ei d
+029/089	heit	1	h ei t
+029/091	heit	1	h ei t
+029/093	heit	1	h ei t
+029/095	heit	1	h ei t
+029/097	heit	1	h ei t
+029/099	heit	1	h ei t
+029/101	heit	1	h ei t
+029/103	heit	1	h ei t
+029/105	hed	1	h e d
+029/107	heht	1	h eh t
+029/109	heet	1	h ee t
+029/111	het	1	h e t
+029/113	heet	1	h ee t
+029/115	het	1	h e t
+029/117	heet	1	h ee t
+029/119	heet	1	h ee t
+029/121	heet	1	h ee t
+029/123	het	1	h e t
+029/125	hed	1	h e d
+029/127	heit	1	h ei t
+029/129	heit	1	h ei t
+029/131	heit	1	h ei t
+029/133	heit	1	h ei t
+029/135	heet	1	h ee t
+029/137	heet	1	h ee t
+029/139	heet	1	h ee t
+029/141	heet	1	h ee t
+029/143	heet	1	h ee t
+029/145	heit	1	h ei t
+029/147	heet	1	h ee t
+029/149	het	1	h e t
+029/151	het	1	h e t
+029/153	het	1	h e t
+029/155	het	1	h e t
+029/157	hitt	1	h i tt
+029/159	heet	1	h ee t
+029/161	hett	1	h e tt
+029/163	het	1	h e t
+029/165	heet	1	h ee t
+029/167	het	1	h e t
+029/169	hät	1	h ä t
+029/171	het	1	h e t
+029/173	heht	1	h eh t
+029/175	het	1	h e t
+029/177	heet	1	h ee t
+029/181	hät	1	h ä t
+030/033	hyt	1	h y t
+030/035	hyt	1	h y t
+030/037	hyt	1	h y t
+030/039	heet	1	h ee t
+030/041	hät	1	h ä t
+030/043	foss	1	f o ss
+030/045	heet	1	h ee t
+030/047	haet	1	h ae t
+030/049	heet	1	h ee t
+030/051	hitt	1	h i tt
+030/053	hitt	1	h i tt
+030/055	hit	1	h i t
+030/057	hitt	1	h i tt
+030/059	hit	1	h i t
+030/061	hitt	1	h i tt
+030/065	heet	1	h ee t
+030/067	het	1	h e t
+030/071	heet	1	h ee t
+030/073	heet	1	h ee t
+030/075	heit	1	h ei t
+030/077	heit	1	h ei t
+030/079	heit	1	h ei t
+030/081	heit	1	h ei t
+030/083	heit	1	h ei t
+030/085	heit	1	h ei t
+030/087	heit	1	h ei t
+030/089	heit	1	h ei t
+030/091	heid	1	h ei d
+030/093	heit	1	h ei t
+030/095	heit	1	h ei t
+030/097	heit	1	h ei t
+030/099	heit	1	h ei t
+030/101	heit	1	h ei t
+030/103	heit	1	h ei t
+030/105	heet	1	h ee t
+030/107	heet	1	h ee t
+030/109	heet	1	h ee t
+030/111	heet	1	h ee t
+030/113	heet	1	h ee t
+030/115	heet	1	h ee t
+030/117	heet	1	h ee t
+030/119	heet	1	h ee t
+030/121	heet	1	h ee t
+030/123	het	1	h e t
+030/125	het	1	h e t
+030/127	heet	1	h ee t
+030/129	het	1	h e t
+030/131	heit	1	h ei t
+030/133	heet	1	h ee t
+030/135	het	1	h e t
+030/137	het	1	h e t
+030/139	heet	1	h ee t
+030/141	het	1	h e t
+030/143	heet	1	h ee t
+030/145	heet	1	h ee t
+030/147	het	1	h e t
+030/149	heit	1	h ei t
+030/151	heet	1	h ee t
+030/153	heht	1	h eh t
+030/155	het	1	h e t
+030/157	heet	1	h ee t
+030/159	heet	1	h ee t
+030/161	het	1	h e t
+030/163	het	1	h e t
+030/165	heit	1	h ei t
+030/167	heet	1	h ee t
+030/169	heet	1	h ee t
+030/171	heit	1	h ei t
+030/173	heth	1	h e t h
+030/175	heet	1	h ee t
+030/177	heit	1	h ei t
+030/179	hett	1	h e tt
+030/181	heit	1	h ei t
+030/183	heht	1	h eh t
+031/035	hyt	1	h y t
+031/037	heet	1	h ee t
+031/039	heed	1	h ee d
+031/041	heet	1	h ee t
+031/043	het	1	h e t
+031/045	heet	1	h ee t
+031/047	heet	1	h ee t
+031/049	heet	1	h ee t
+031/051	hitt	1	h i tt
+031/053	hitt	1	h i tt
+031/055	hitt	1	h i tt
+031/057	hitt	1	h i tt
+031/059	hitt	1	h i tt
+031/061	hitt	1	h i tt
+031/063	heet	1	h ee t
+031/065	heit	1	h ei t
+031/067	heet	1	h ee t
+031/069	heet	1	h ee t
+031/071	heet	1	h ee t
+031/073	heet	1	h ee t
+031/075	häit	1	h äi t
+031/077	het	1	h e t
+031/079	heit	1	h ei t
+031/081	heit	1	h ei t
+031/083	heit	1	h ei t
+031/085	heit	1	h ei t
+031/087	heit	1	h ei t
+031/089	heit	1	h ei t
+031/091	heit	1	h ei t
+031/093	heet	1	h ee t
+031/095	heet	1	h ee t
+031/097	heit	1	h ei t
+031/099	heit	1	h ei t
+031/101	heet	1	h ee t
+031/103	het	1	h e t
+031/105	het	1	h e t
+031/107	heet	1	h ee t
+031/109	het	1	h e t
+031/111	het	1	h e t
+031/113	heet	1	h ee t
+031/115	heet	1	h ee t
+031/117	heet	1	h ee t
+031/119	heet	1	h ee t
+031/121	heet	1	h ee t
+031/123	heth	1	h e t h
+031/125	het	1	h e t
+031/127	het	1	h e t
+031/129	heet	1	h ee t
+031/131	heet	1	h ee t
+031/133	het	1	h e t
+031/135	het	1	h e t
+031/137	heet	1	h ee t
+031/139	heet	1	h ee t
+031/141	het	1	h e t
+031/143	het	1	h e t
+031/145	heet	1	h ee t
+031/147	heet	1	h ee t
+031/149	heet	1	h ee t
+031/151	het	1	h e t
+031/153	heet	1	h ee t
+031/155	het	1	h e t
+031/157	heet	1	h ee t
+031/159	heet	1	h ee t
+031/161	het	1	h e t
+031/163	het	1	h e t
+031/167	het	1	h e t
+031/169	haiss	1	h ai ss
+031/171	heiss	1	h ei ss
+031/173	haiss	1	h ai ss
+031/175	het	1	h e t
+031/177	heet	1	h ee t
+031/179	heit	1	h ei t
+032/035	heet	1	h ee t
+032/037	hyt	1	h y t
+032/039	hyt	1	h y t
+032/041	heet	1	h ee t
+032/043	heet	1	h ee t
+032/045	heet	1	h ee t
+032/047	heet	1	h ee t
+032/049	heet	1	h ee t
+032/051	heet	1	h ee t
+032/053	hitt	1	h i tt
+032/055	hitt	1	h i tt
+032/057	hitt	1	h i tt
+032/059	hitt	1	h i tt
+032/061	hitt	1	h i tt
+032/065	heit	1	h ei t
+032/069	heet	1	h ee t
+032/071	häit	1	h äi t
+032/073	häit	1	h äi t
+032/075	heet	1	h ee t
+032/077	heeit	1	h eei t
+032/079	häet	1	h äe t
+032/081	heet	1	h ee t
+032/083	heet	1	h ee t
+032/085	hait	1	h ai t
+032/087	heit	1	h ei t
+032/089	heet	1	h ee t
+032/091	heet	1	h ee t
+032/093	heet	1	h ee t
+032/095	heaht	1	h eah t
+032/097	heet	1	h ee t
+032/099	het	1	h e t
+032/101	het	1	h e t
+032/103	heet	1	h ee t
+032/105	heet	1	h ee t
+032/107	heet	1	h ee t
+032/111	het	1	h e t
+032/113	heet	1	h ee t
+032/115	heet	1	h ee t
+032/117	het	1	h e t
+032/119	heet	1	h ee t
+032/121	heet	1	h ee t
+032/123	heet	1	h ee t
+032/125	heet	1	h ee t
+032/127	heet	1	h ee t
+032/129	het	1	h e t
+032/131	heet	1	h ee t
+032/133	heet	1	h ee t
+032/135	heet	1	h ee t
+032/139	heet	1	h ee t
+032/141	het	1	h e t
+032/143	het	1	h e t
+032/145	heet	1	h ee t
+032/147	het	1	h e t
+032/149	heet	1	h ee t
+032/151	het	1	h e t
+032/153	heet	1	h ee t
+032/157	het	1	h e t
+032/159	het	1	h e t
+032/161	stadj	1	s t a d j
+032/163	heet	1	h ee t
+032/167	staak	1	s t aa k
+032/169	haiss	1	h ai ss
+032/171	haiss	1	h ai ss
+032/173	haiss	1	h ai ss
+032/175	heit	1	h ei t
+032/177	heit	1	h ei t
+032/179	heit	1	h ei t
+032/181	heet	1	h ee t
+032/183	heit	1	h ei t
+033/035	heet	1	h ee t
+033/037	hyt	1	h y t
+033/039	heeit	1	h eei t
+033/041	heit	1	h ei t
+033/043	heet	1	h ee t
+033/045	heet	1	h ee t
+033/047	heet	1	h ee t
+033/049	heet	1	h ee t
+033/051	heet	1	h ee t
+033/053	heet	1	h ee t
+033/055	hitt	1	h i tt
+033/057	hitt	1	h i tt
+033/059	hitt	1	h i tt
+033/061	heet	1	h ee t
+033/063	heet	1	h ee t
+033/065	heet	1	h ee t
+033/067	heet	1	h ee t
+033/069	heit	1	h ei t
+033/071	heet	1	h ee t
+033/073	het	1	h e t
+033/075	hitt	1	h i tt
+033/077	het	1	h e t
+033/079	heet	1	h ee t
+033/081	het	1	h e t
+033/083	heit	1	h ei t
+033/085	heit	1	h ei t
+033/087	heet	1	h ee t
+033/089	hed	1	h e d
+033/091	heet	1	h ee t
+033/093	heet	1	h ee t
+033/095	heet	1	h ee t
+033/097	heet	1	h ee t
+033/099	heet	1	h ee t
+033/101	het	1	h e t
+033/103	heed	1	h ee d
+033/105	het	1	h e t
+033/107	heet	1	h ee t
+033/109	heet	1	h ee t
+033/111	het	1	h e t
+033/113	heet	1	h ee t
+033/115	heet	1	h ee t
+033/117	het	1	h e t
+033/119	het	1	h e t
+033/121	heet	1	h ee t
+033/123	het	1	h e t
+033/125	het	1	h e t
+033/127	heht	1	h eh t
+033/129	grot	1	g r o t
+033/131	het	1	h e t
+033/133	heet	1	h ee t
+033/135	heet	1	h ee t
+033/137	heet	1	h ee t
+033/139	heet	1	h ee t
+033/141	heet	1	h ee t
+033/143	het	1	h e t
+033/145	heet	1	h ee t
+033/147	het	1	h e t
+033/149	heet	1	h ee t
+033/151	hät	1	h ä t
+033/153	heth	1	h e t h
+033/155	heet	1	h ee t
+033/159	het	1	h e t
+033/161	heet	1	h ee t
+033/163	het	1	h e t
+033/165	het	1	h e t
+033/167	heht	1	h eh t
+033/169	heet	1	h ee t
+033/173	heet	1	h ee t
+033/175	het	1	h e t
+033/177	heit	1	h ei t
+034/035	heet	1	h ee t
+034/039	heit	1	h ei t
+034/041	heit	1	h ei t
+034/043	heit	1	h ei t
+034/045	heet	1	h ee t
+034/047	heet	1	h ee t
+034/049	heet	1	h ee t
+034/051	heet	1	h ee t
+034/053	heet	1	h ee t
+034/055	heet	1	h ee t
+034/057	heet	1	h ee t
+034/059	heet	1	h ee t
+034/061	heet	1	h ee t
+034/063	hed	1	h e d
+034/065	heit	1	h ei t
+034/067	heet	1	h ee t
+034/069	heit	1	h ei t
+034/071	heet	1	h ee t
+034/073	hitt	1	h i tt
+034/075	hitt	1	h i tt
+034/077	hitt	1	h i tt
+034/079	eht	1	eh t
+034/081	heit	1	h ei t
+034/083	heet	1	h ee t
+034/085	heet	1	h ee t
+034/087	heet	1	h ee t
+034/089	het	1	h e t
+034/091	het	1	h e t
+034/093	heet	1	h ee t
+034/095	heet	1	h ee t
+034/097	heet	1	h ee t
+034/099	heet	1	h ee t
+034/101	heet	1	h ee t
+034/103	heet	1	h ee t
+034/105	het	1	h e t
+034/107	heed	1	h ee d
+034/109	het	1	h e t
+034/111	heet	1	h ee t
+034/113	heet	1	h ee t
+034/115	heet	1	h ee t
+034/117	heet	1	h ee t
+034/119	heet	1	h ee t
+034/121	het	1	h e t
+034/125	heet	1	h ee t
+034/127	heit	1	h ei t
+034/129	het	1	h e t
+034/131	het	1	h e t
+034/133	heet	1	h ee t
+034/135	heet	1	h ee t
+034/137	heht	1	h eh t
+034/139	het	1	h e t
+034/141	het	1	h e t
+034/143	heet	1	h ee t
+034/145	heed	1	h ee d
+034/147	heet	1	h ee t
+034/149	heet	1	h ee t
+034/151	heth	1	h e t h
+034/155	heit	1	h ei t
+034/157	heet	1	h ee t
+034/161	het	1	h e t
+034/163	heet	1	h ee t
+034/165	het	1	h e t
+034/167	heet	1	h ee t
+034/169	heet	1	h ee t
+034/173	het	1	h e t
+035/035	het	1	h e t
+035/037	het	1	h e t
+035/039	heit	1	h ei t
+035/041	häit	1	h äi t
+035/043	häet	1	h äe t
+035/045	heyt	1	h ey t
+035/047	heet	1	h ee t
+035/049	heet	1	h ee t
+035/051	heet	1	h ee t
+035/053	heet	1	h ee t
+035/055	heet	1	h ee t
+035/057	heet	1	h ee t
+035/059	het	1	h e t
+035/061	heet	1	h ee t
+035/063	heet	1	h ee t
+035/065	häit	1	h äi t
+035/067	häit	1	h äi t
+035/069	heet	1	h ee t
+035/071	hit	1	h i t
+035/073	häit	1	h äi t
+035/075	hitt	1	h i tt
+035/077	hitt	1	h i tt
+035/079	heet	1	h ee t
+035/081	eet	1	ee t
+035/083	eed	1	ee d
+035/085	heht	1	h eh t
+035/087	heet	1	h ee t
+035/089	het	1	h e t
+035/091	het	1	h e t
+035/093	heet	1	h ee t
+035/095	heet	1	h ee t
+035/097	heet	1	h ee t
+035/099	heet	1	h ee t
+035/101	heet	1	h ee t
+035/103	heet	1	h ee t
+035/105	heet	1	h ee t
+035/107	heet	1	h ee t
+035/109	heet	1	h ee t
+035/111	heet	1	h ee t
+035/113	heet	1	h ee t
+035/115	het	1	h e t
+035/117	heet	1	h ee t
+035/121	het	1	h e t
+035/123	heet	1	h ee t
+035/125	heet	1	h ee t
+035/127	het	1	h e t
+035/129	heet	1	h ee t
+035/133	heet	1	h ee t
+035/135	heet	1	h ee t
+035/137	heet	1	h ee t
+035/139	heet	1	h ee t
+035/141	het	1	h e t
+035/143	het	1	h e t
+035/145	het	1	h e t
+035/147	het	1	h e t
+035/149	het	1	h e t
+035/151	heet	1	h ee t
+035/153	het	1	h e t
+035/155	heit	1	h ei t
+035/157	het	1	h e t
+035/165	heet	1	h ee t
+035/167	het	1	h e t
+035/169	heit	1	h ei t
+035/171	heet	1	h ee t
+035/173	het	1	h e t
+036/033	heit	1	h ei t
+036/035	häet	1	h äe t
+036/039	heet	1	h ee t
+036/041	häit	1	h äi t
+036/043	häit	1	h äi t
+036/045	heit	1	h ei t
+036/047	heet	1	h ee t
+036/049	foss	1	f o ss
+036/051	heet	1	h ee t
+036/053	heet	1	h ee t
+036/055	heed	1	h ee d
+036/057	heet	1	h ee t
+036/059	het	1	h e t
+036/061	heit	1	h ei t
+036/063	heit	1	h ei t
+036/065	häit	1	h äi t
+036/067	heit	1	h ei t
+036/069	häit	1	h äi t
+036/071	het	1	h e t
+036/073	heet	1	h ee t
+036/075	hitt	1	h i tt
+036/077	heet	1	h ee t
+036/079	itt	1	i tt
+036/081	eet	1	ee t
+036/083	eht	1	eh t
+036/085	heht	1	h eh t
+036/087	heet	1	h ee t
+036/089	heet	1	h ee t
+036/091	heet	1	h ee t
+036/095	het	1	h e t
+036/097	heet	1	h ee t
+036/099	heet	1	h ee t
+036/101	heet	1	h ee t
+036/103	heet	1	h ee t
+036/105	het	1	h e t
+036/107	heet	1	h ee t
+036/109	het	1	h e t
+036/111	het	1	h e t
+036/113	het	1	h e t
+036/115	heet	1	h ee t
+036/117	het	1	h e t
+036/119	het	1	h e t
+036/121	heht	1	h eh t
+036/123	heet	1	h ee t
+036/125	heet	1	h ee t
+036/127	heet	1	h ee t
+036/129	heet	1	h ee t
+036/133	heet	1	h ee t
+036/135	het	1	h e t
+036/137	heet	1	h ee t
+036/139	heet	1	h ee t
+036/141	heet	1	h ee t
+036/143	het	1	h e t
+036/147	heet	1	h ee t
+036/149	heit	1	h ei t
+036/151	het	1	h e t
+036/153	het	1	h e t
+036/155	het	1	h e t
+036/161	heit	1	h ei t
+036/163	het	1	h e t
+036/165	het	1	h e t
+036/167	heit	1	h ei t
+036/169	het	1	h e t
+036/171	het	1	h e t
+037/033	heit	1	h ei t
+037/035	heit	1	h ei t
+037/037	heit	1	h ei t
+037/039	heit	1	h ei t
+037/041	heit	1	h ei t
+037/043	häit	1	h äi t
+037/045	heit	1	h ei t
+037/047	heet	1	h ee t
+037/049	heit	1	h ei t
+037/051	heet	1	h ee t
+037/053	heet	1	h ee t
+037/055	heet	1	h ee t
+037/057	heet	1	h ee t
+037/059	häit	1	h äi t
+037/061	häit	1	h äi t
+037/063	heit	1	h ei t
+037/065	het	1	h e t
+037/067	heit	1	h ei t
+037/069	heit	1	h ei t
+037/071	heeit	1	h eei t
+037/073	häit	1	h äi t
+037/075	heit	1	h ei t
+037/077	hitt	1	h i tt
+037/079	hitt	1	h i tt
+037/081	hitt	1	h i tt
+037/083	heit	1	h ei t
+037/085	heet	1	h ee t
+037/087	heet	1	h ee t
+037/089	heet	1	h ee t
+037/091	het	1	h e t
+037/093	heet	1	h ee t
+037/095	heet	1	h ee t
+037/097	heet	1	h ee t
+037/099	heet	1	h ee t
+037/101	het	1	h e t
+037/105	het	1	h e t
+037/107	het	1	h e t
+037/109	het	1	h e t
+037/111	heet	1	h ee t
+037/113	het	1	h e t
+037/115	heht	1	h eh t
+037/117	heth	1	h e t h
+037/119	heet	1	h ee t
+037/121	heet	1	h ee t
+037/123	het	1	h e t
+037/125	heet	1	h ee t
+037/127	het	1	h e t
+037/129	heet	1	h ee t
+037/131	heet	1	h ee t
+037/133	häiet	1	h äie t
+037/135	het	1	h e t
+037/137	het	1	h e t
+037/139	heet	1	h ee t
+037/141	het	1	h e t
+037/145	heed	1	h ee d
+037/147	het	1	h e t
+037/149	het	1	h e t
+037/151	het	1	h e t
+037/153	heet	1	h ee t
+037/155	het	1	h e t
+037/157	heth	1	h e t h
+037/159	het	1	h e t
+037/163	het	1	h e t
+037/171	heet	1	h ee t
+038/033	häit	1	h äi t
+038/035	heit	1	h ei t
+038/037	het	1	h e t
+038/039	heit	1	h ei t
+038/041	heeit	1	h eei t
+038/043	häit	1	h äi t
+038/045	heet	1	h ee t
+038/047	heet	1	h ee t
+038/049	het	1	h e t
+038/051	het	1	h e t
+038/053	heit	1	h ei t
+038/055	heet	1	h ee t
+038/057	häit	1	h äi t
+038/059	heet	1	h ee t
+038/061	häit	1	h äi t
+038/063	heet	1	h ee t
+038/065	heet	1	h ee t
+038/067	haeit	1	h aei t
+038/069	heid	1	h ei d
+038/071	heit	1	h ei t
+038/073	heit	1	h ei t
+038/075	heit	1	h ei t
+038/077	hitt	1	h i tt
+038/079	hitt	1	h i tt
+038/081	hitt	1	h i tt
+038/083	häit	1	h äi t
+038/085	heit	1	h ei t
+038/087	heet	1	h ee t
+038/089	heed	1	h ee d
+038/091	heet	1	h ee t
+038/093	het	1	h e t
+038/095	het	1	h e t
+038/097	het	1	h e t
+038/099	heet	1	h ee t
+038/101	heet	1	h ee t
+038/103	het	1	h e t
+038/105	heet	1	h ee t
+038/107	het	1	h e t
+038/109	het	1	h e t
+038/111	het	1	h e t
+038/113	heet	1	h ee t
+038/115	heet	1	h ee t
+038/117	heet	1	h ee t
+038/119	heet	1	h ee t
+038/121	heet	1	h ee t
+038/123	heet	1	h ee t
+038/125	heet	1	h ee t
+038/127	heet	1	h ee t
+038/129	het	1	h e t
+038/131	heet	1	h ee t
+038/133	häit	1	h äi t
+038/135	heess	1	h ee ss
+038/145	heet	1	h ee t
+038/147	het	1	h e t
+038/149	het	1	h e t
+038/151	het	1	h e t
+038/153	häit	1	h äi t
+038/155	heijt	1	h ei j t
+038/159	heet	1	h ee t
+038/161	het	1	h e t
+038/163	het	1	h e t
+039/029	heet	1	h ee t
+039/031	heet	1	h ee t
+039/033	heit	1	h ei t
+039/035	häit	1	h äi t
+039/037	het	1	h e t
+039/039	heet	1	h ee t
+039/041	häit	1	h äi t
+039/043	heit	1	h ei t
+039/045	heit	1	h ei t
+039/047	heit	1	h ei t
+039/049	heet	1	h ee t
+039/051	hed	1	h e d
+039/053	heet	1	h ee t
+039/055	heet	1	h ee t
+039/057	het	1	h e t
+039/059	heeit	1	h eei t
+039/061	heet	1	h ee t
+039/063	heit	1	h ei t
+039/065	heit	1	h ei t
+039/067	heit	1	h ei t
+039/069	heit	1	h ei t
+039/071	het	1	h e t
+039/073	häit	1	h äi t
+039/075	heet	1	h ee t
+039/077	hitt	1	h i tt
+039/079	hitt	1	h i tt
+039/081	heit	1	h ei t
+039/083	heit	1	h ei t
+039/085	häit	1	h äi t
+039/087	heet	1	h ee t
+039/089	heet	1	h ee t
+039/091	heet	1	h ee t
+039/093	heet	1	h ee t
+039/095	heht	1	h eh t
+039/097	heet	1	h ee t
+039/099	heet	1	h ee t
+039/101	het	1	h e t
+039/103	het	1	h e t
+039/105	het	1	h e t
+039/107	heet	1	h ee t
+039/109	heet	1	h ee t
+039/111	het	1	h e t
+039/113	het	1	h e t
+039/115	het	1	h e t
+039/117	heet	1	h ee t
+039/119	het	1	h e t
+039/121	heet	1	h ee t
+039/123	heet	1	h ee t
+039/125	het	1	h e t
+039/127	heet	1	h ee t
+039/129	het	1	h e t
+039/131	hess	1	h e ss
+039/133	heess	1	h ee ss
+039/135	heesz	1	h ee s z
+039/137	hess	1	h e ss
+039/139	hess	1	h e ss
+039/149	het	1	h e t
+039/151	heet	1	h ee t
+039/153	het	1	h e t
+039/155	het	1	h e t
+040/029	heet	1	h ee t
+040/031	heet	1	h ee t
+040/033	heht	1	h eh t
+040/035	heet	1	h ee t
+040/037	heet	1	h ee t
+040/039	häit	1	h äi t
+040/041	heet	1	h ee t
+040/043	heit	1	h ei t
+040/045	heet	1	h ee t
+040/047	heit	1	h ei t
+040/049	het	1	h e t
+040/051	heet	1	h ee t
+040/053	heit	1	h ei t
+040/055	heet	1	h ee t
+040/057	heit	1	h ei t
+040/059	heit	1	h ei t
+040/061	heit	1	h ei t
+040/063	heit	1	h ei t
+040/065	heit	1	h ei t
+040/067	heit	1	h ei t
+040/069	heit	1	h ei t
+040/071	heit	1	h ei t
+040/073	heit	1	h ei t
+040/075	heit	1	h ei t
+040/077	heit	1	h ei t
+040/079	hitt	1	h i tt
+040/081	heet	1	h ee t
+040/083	häit	1	h äi t
+040/085	heit	1	h ei t
+040/087	heet	1	h ee t
+040/089	heet	1	h ee t
+040/091	heet	1	h ee t
+040/093	heet	1	h ee t
+040/095	het	1	h e t
+040/097	heet	1	h ee t
+040/099	heet	1	h ee t
+040/101	het	1	h e t
+040/103	heet	1	h ee t
+040/105	het	1	h e t
+040/107	heess	1	h ee ss
+040/109	heess	1	h ee ss
+040/111	het	1	h e t
+040/113	het	1	h e t
+040/115	heet	1	h ee t
+040/119	het	1	h e t
+040/121	heet	1	h ee t
+040/123	heess	1	h ee ss
+040/125	heess	1	h ee ss
+040/127	heess	1	h ee ss
+040/129	heess	1	h ee ss
+040/131	hess	1	h e ss
+040/133	heess	1	h ee ss
+040/135	häss	1	h ä ss
+040/137	hess	1	h e ss
+040/141	hehss	1	h eh ss
+040/143	hees	1	h ee s
+040/149	hess	1	h e ss
+040/153	het	1	h e t
+040/155	het	1	h e t
+041/031	heet	1	h ee t
+041/033	häit	1	h äi t
+041/035	heit	1	h ei t
+041/037	heet	1	h ee t
+041/039	heet	1	h ee t
+041/041	het	1	h e t
+041/043	heet	1	h ee t
+041/045	häit	1	h äi t
+041/047	heet	1	h ee t
+041/049	heet	1	h ee t
+041/051	heit	1	h ei t
+041/053	heit	1	h ei t
+041/055	heet	1	h ee t
+041/057	het	1	h e t
+041/059	heet	1	h ee t
+041/061	heit	1	h ei t
+041/063	heit	1	h ei t
+041/065	heit	1	h ei t
+041/067	heit	1	h ei t
+041/069	heit	1	h ei t
+041/071	heit	1	h ei t
+041/073	heit	1	h ei t
+041/075	heit	1	h ei t
+041/077	heit	1	h ei t
+041/079	heit	1	h ei t
+041/081	heet	1	h ee t
+041/083	het	1	h e t
+041/085	heet	1	h ee t
+041/087	het	1	h e t
+041/089	heet	1	h ee t
+041/091	het	1	h e t
+041/093	het	1	h e t
+041/095	heet	1	h ee t
+041/097	het	1	h e t
+041/099	het	1	h e t
+041/101	heet	1	h ee t
+041/103	heet	1	h ee t
+041/105	het	1	h e t
+041/107	het	1	h e t
+041/109	heit	1	h ei t
+041/111	heess	1	h ee ss
+041/113	heet	1	h ee t
+041/115	het	1	h e t
+041/117	heht	1	h eh t
+041/119	heet	1	h ee t
+041/121	het	1	h e t
+041/123	heet	1	h ee t
+041/125	heess	1	h ee ss
+041/127	heess	1	h ee ss
+041/129	hess	1	h e ss
+041/131	heess	1	h ee ss
+041/133	hess	1	h e ss
+041/135	heess	1	h ee ss
+041/139	hess	1	h e ss
+041/141	hess	1	h e ss
+041/145	heess	1	h ee ss
+041/147	heess	1	h ee ss
+041/153	heet	1	h ee t
+041/155	hejt	1	h e j t
+041/157	heet	1	h ee t
+041/159	het	1	h e t
+041/161	het	1	h e t
+042/033	häet	1	h äe t
+042/035	hät	1	h ä t
+042/037	häät	1	h ää t
+042/039	heet	1	h ee t
+042/041	het	1	h e t
+042/043	heet	1	h ee t
+042/045	heet	1	h ee t
+042/047	hejt	1	h e j t
+042/051	häit	1	h äi t
+042/053	heit	1	h ei t
+042/055	het	1	h e t
+042/057	heit	1	h ei t
+042/059	heit	1	h ei t
+042/061	heit	1	h ei t
+042/063	heit	1	h ei t
+042/065	heit	1	h ei t
+042/067	heit	1	h ei t
+042/069	heit	1	h ei t
+042/071	heit	1	h ei t
+042/073	heit	1	h ei t
+042/075	heit	1	h ei t
+042/077	heit	1	h ei t
+042/079	heit	1	h ei t
+042/081	heit	1	h ei t
+042/083	häit	1	h äi t
+042/085	het	1	h e t
+042/087	het	1	h e t
+042/089	heet	1	h ee t
+042/091	het	1	h e t
+042/093	het	1	h e t
+042/095	het	1	h e t
+042/097	heet	1	h ee t
+042/099	heit	1	h ei t
+042/101	het	1	h e t
+042/103	heess	1	h ee ss
+042/105	heess	1	h ee ss
+042/107	het	1	h e t
+042/109	heet	1	h ee t
+042/111	heet	1	h ee t
+042/113	hess	1	h e ss
+042/115	hess	1	h e ss
+042/117	heet	1	h ee t
+042/119	heet	1	h ee t
+042/121	heht	1	h eh t
+042/123	hess	1	h e ss
+042/125	heess	1	h ee ss
+042/127	heess	1	h ee ss
+042/129	heess	1	h ee ss
+042/131	heess	1	h ee ss
+042/133	heess	1	h ee ss
+042/135	heess	1	h ee ss
+042/137	heess	1	h ee ss
+042/139	heess	1	h ee ss
+042/141	hess	1	h e ss
+042/143	heess	1	h ee ss
+042/145	heess	1	h ee ss
+042/147	heess	1	h ee ss
+042/149	heess	1	h ee ss
+042/151	haiss	1	h ai ss
+042/157	heit	1	h ei t
+042/159	het	1	h e t
+042/161	het	1	h e t
+043/033	heet	1	h ee t
+043/035	heet	1	h ee t
+043/037	het	1	h e t
+043/039	häit	1	h äi t
+043/041	häit	1	h äi t
+043/043	häit	1	h äi t
+043/045	heht	1	h eh t
+043/047	heet	1	h ee t
+043/049	heet	1	h ee t
+043/051	heit	1	h ei t
+043/053	heit	1	h ei t
+043/055	heit	1	h ei t
+043/057	heit	1	h ei t
+043/059	heit	1	h ei t
+043/061	heit	1	h ei t
+043/063	heit	1	h ei t
+043/065	heit	1	h ei t
+043/067	heit	1	h ei t
+043/069	heit	1	h ei t
+043/071	heit	1	h ei t
+043/073	heit	1	h ei t
+043/075	heit	1	h ei t
+043/077	heit	1	h ei t
+043/079	heit	1	h ei t
+043/081	heit	1	h ei t
+043/083	heit	1	h ei t
+043/085	heit	1	h ei t
+043/087	heit	1	h ei t
+043/089	het	1	h e t
+043/091	het	1	h e t
+043/093	het	1	h e t
+043/095	het	1	h e t
+043/097	het	1	h e t
+043/099	heet	1	h ee t
+043/101	heet	1	h ee t
+043/103	heet	1	h ee t
+043/105	heet	1	h ee t
+043/107	het	1	h e t
+043/109	heet	1	h ee t
+043/111	heet	1	h ee t
+043/113	heess	1	h ee ss
+043/115	heess	1	h ee ss
+043/117	hess	1	h e ss
+043/119	heess	1	h ee ss
+043/121	het	1	h e t
+043/123	hess	1	h e ss
+043/125	hess	1	h e ss
+043/127	heess	1	h ee ss
+043/129	hess	1	h e ss
+043/131	NA	NA	-
+043/133	heess	1	h ee ss
+043/135	hess	1	h e ss
+043/137	heess	1	h ee ss
+043/141	heess	1	h ee ss
+043/143	heess	1	h ee ss
+043/145	heess	1	h ee ss
+043/151	hass	1	h a ss
+043/153	heess	1	h ee ss
+043/159	het	1	h e t
+043/161	het	1	h e t
+044/033	heht	1	h eh t
+044/035	heet	1	h ee t
+044/039	heet	1	h ee t
+044/041	heet	1	h ee t
+044/043	heet	1	h ee t
+044/045	het	1	h e t
+044/047	heet	1	h ee t
+044/049	heet	1	h ee t
+044/051	haid	1	h ai d
+044/053	heit	1	h ei t
+044/055	heut	1	h eu t
+044/057	heit	1	h ei t
+044/059	stark	1	s t a r k
+044/061	höeth	1	h öe t h
+044/063	heit	1	h ei t
+044/065	heit	1	h ei t
+044/067	heit	1	h ei t
+044/069	heit	1	h ei t
+044/071	heit	1	h ei t
+044/073	heit	1	h ei t
+044/075	heit	1	h ei t
+044/077	heit	1	h ei t
+044/079	heit	1	h ei t
+044/081	heit	1	h ei t
+044/083	heit	1	h ei t
+044/085	heit	1	h ei t
+044/087	heit	1	h ei t
+044/089	heet	1	h ee t
+044/091	het	1	h e t
+044/093	heet	1	h ee t
+044/095	het	1	h e t
+044/097	het	1	h e t
+044/099	heht	1	h eh t
+044/101	heet	1	h ee t
+044/103	heet	1	h ee t
+044/105	heet	1	h ee t
+044/107	heet	1	h ee t
+044/109	het	1	h e t
+044/111	heet	1	h ee t
+044/113	heess	1	h ee ss
+044/115	hess	1	h e ss
+044/117	heess	1	h ee ss
+044/119	hess	1	h e ss
+044/121	hess	1	h e ss
+044/123	briehe	1	b r ie h e
+044/125	heess	1	h ee ss
+044/127	heess	1	h ee ss
+044/129	heess	1	h ee ss
+044/131	heess	1	h ee ss
+044/133	hess	1	h e ss
+044/135	heess	1	h ee ss
+044/137	heess	1	h ee ss
+044/141	hehss	1	h eh ss
+044/143	hess	1	h e ss
+044/145	hess	1	h e ss
+044/149	hees	1	h ee s
+044/151	hess	1	h e ss
+044/153	hess	1	h e ss
+045/033	heet	1	h ee t
+045/035	heet	1	h ee t
+045/037	heeit	1	h eei t
+045/039	heet	1	h ee t
+045/041	heet	1	h ee t
+045/043	heit	1	h ei t
+045/045	heet	1	h ee t
+045/047	heit	1	h ei t
+045/049	heit	1	h ei t
+045/051	heut	1	h eu t
+045/053	häit	1	h äi t
+045/055	heut	1	h eu t
+045/057	heit	1	h ei t
+045/059	heut	1	h eu t
+045/061	heit	1	h ei t
+045/063	heit	1	h ei t
+045/065	heit	1	h ei t
+045/067	hait	1	h ai t
+045/069	heit	1	h ei t
+045/071	heit	1	h ei t
+045/073	heit	1	h ei t
+045/075	heit	1	h ei t
+045/077	heit	1	h ei t
+045/079	heit	1	h ei t
+045/081	heit	1	h ei t
+045/083	heit	1	h ei t
+045/085	heit	1	h ei t
+045/087	heit	1	h ei t
+045/089	het	1	h e t
+045/091	heet	1	h ee t
+045/093	heess	1	h ee ss
+045/095	heet	1	h ee t
+045/097	heet	1	h ee t
+045/099	heet	1	h ee t
+045/101	heet	1	h ee t
+045/103	het	1	h e t
+045/105	heet	1	h ee t
+045/107	het	1	h e t
+045/109	het	1	h e t
+045/111	hess	1	h e ss
+045/113	eess	1	ee ss
+045/115	heess	1	h ee ss
+045/117	ees	1	ee s
+045/119	heess	1	h ee ss
+045/121	heess	1	h ee ss
+045/123	heess	1	h ee ss
+045/125	hess	1	h e ss
+045/127	hess	1	h e ss
+045/129	hess	1	h e ss
+045/131	hess	1	h e ss
+045/133	heess	1	h ee ss
+045/135	heess	1	h ee ss
+045/137	heess	1	h ee ss
+045/139	heess	1	h ee ss
+045/141	heess	1	h ee ss
+045/143	hess	1	h e ss
+045/145	heess	1	h ee ss
+045/155	heess	1	h ee ss
+046/031	heet	1	h ee t
+046/033	het	1	h e t
+046/035	heet	1	h ee t
+046/037	het	1	h e t
+046/039	heth	1	h e t h
+046/041	heet	1	h ee t
+046/043	heet	1	h ee t
+046/045	heit	1	h ei t
+046/047	heit	1	h ei t
+046/049	hoet	1	h oe t
+046/051	häit	1	h äi t
+046/053	heit	1	h ei t
+046/055	hoit	1	h oi t
+046/057	häit	1	h äi t
+046/059	heit	1	h ei t
+046/061	heit	1	h ei t
+046/063	heit	1	h ei t
+046/065	heit	1	h ei t
+046/067	heitt	1	h ei tt
+046/069	heit	1	h ei t
+046/071	heit	1	h ei t
+046/073	heit	1	h ei t
+046/075	heit	1	h ei t
+046/077	heit	1	h ei t
+046/079	heit	1	h ei t
+046/081	heit	1	h ei t
+046/083	heit	1	h ei t
+046/085	heit	1	h ei t
+046/087	heit	1	h ei t
+046/089	heet	1	h ee t
+046/091	heht	1	h eh t
+046/093	het	1	h e t
+046/095	het	1	h e t
+046/097	heet	1	h ee t
+046/099	heet	1	h ee t
+046/101	heet	1	h ee t
+046/103	heet	1	h ee t
+046/105	het	1	h e t
+046/107	heet	1	h ee t
+046/109	heet	1	h ee t
+046/111	het	1	h e t
+046/113	eess	1	ee ss
+046/115	heess	1	h ee ss
+046/117	eiss	1	ei ss
+046/119	eess	1	ee ss
+046/121	heess	1	h ee ss
+046/123	heess	1	h ee ss
+046/125	heess	1	h ee ss
+046/127	heess	1	h ee ss
+046/129	hess	1	h e ss
+046/131	hess	1	h e ss
+046/133	heess	1	h ee ss
+046/135	heess	1	h ee ss
+046/137	hess	1	h e ss
+046/139	heiss	1	h ei ss
+046/141	hess	1	h e ss
+046/143	heess	1	h ee ss
+046/155	häiss	1	h äi ss
+047/031	heet	1	h ee t
+047/033	heht	1	h eh t
+047/035	heet	1	h ee t
+047/037	heet	1	h ee t
+047/039	häit	1	h äi t
+047/041	heet	1	h ee t
+047/043	het	1	h e t
+047/045	heht	1	h eh t
+047/047	häit	1	h äi t
+047/049	heit	1	h ei t
+047/051	heut	1	h eu t
+047/053	höit	1	h öi t
+047/055	heut	1	h eu t
+047/057	heut	1	h eu t
+047/059	hät	1	h ä t
+047/061	heit	1	h ei t
+047/063	heit	1	h ei t
+047/065	heit	1	h ei t
+047/067	hait	1	h ai t
+047/069	heit	1	h ei t
+047/071	heit	1	h ei t
+047/073	hait	1	h ai t
+047/075	heit	1	h ei t
+047/077	heit	1	h ei t
+047/079	heit	1	h ei t
+047/081	heit	1	h ei t
+047/083	heit	1	h ei t
+047/085	heit	1	h ei t
+047/087	heit	1	h ei t
+047/089	heit	1	h ei t
+047/091	heit	1	h ei t
+047/093	het	1	h e t
+047/095	heht	1	h eh t
+047/097	heet	1	h ee t
+047/099	heet	1	h ee t
+047/101	het	1	h e t
+047/103	het	1	h e t
+047/105	heet	1	h ee t
+047/107	heet	1	h ee t
+047/109	heet	1	h ee t
+047/111	hess	1	h e ss
+047/113	heess	1	h ee ss
+047/115	heess	1	h ee ss
+047/117	eess	1	ee ss
+047/119	heess	1	h ee ss
+047/123	heess	1	h ee ss
+047/125	heess	1	h ee ss
+047/127	heess	1	h ee ss
+047/129	heess	1	h ee ss
+047/131	heiss	1	h ei ss
+047/133	heiss	1	h ei ss
+047/135	heess	1	h ee ss
+047/137	heess	1	h ee ss
+047/139	heiss	1	h ei ss
+047/141	heiss	1	h ei ss
+047/147	heess	1	h ee ss
+047/149	häss	1	h ä ss
+047/151	häss	1	h ä ss
+047/159	häiss	1	h äi ss
+048/021	hätt	1	h ä tt
+048/023	heit	1	h ei t
+048/027	heet	1	h ee t
+048/029	heet	1	h ee t
+048/031	het	1	h e t
+048/033	het	1	h e t
+048/035	häit	1	h äi t
+048/037	heet	1	h ee t
+048/039	het	1	h e t
+048/041	het	1	h e t
+048/045	hiät	1	h iä t
+048/047	häit	1	h äi t
+048/049	häit	1	h äi t
+048/051	heit	1	h ei t
+048/053	heut	1	h eu t
+048/055	häut	1	h äu t
+048/057	heut	1	h eu t
+048/059	heut	1	h eu t
+048/061	heit	1	h ei t
+048/063	heit	1	h ei t
+048/065	heit	1	h ei t
+048/067	heit	1	h ei t
+048/069	heit	1	h ei t
+048/071	hess	1	h e ss
+048/073	heit	1	h ei t
+048/075	heit	1	h ei t
+048/077	heit	1	h ei t
+048/079	heit	1	h ei t
+048/081	heit	1	h ei t
+048/083	heit	1	h ei t
+048/085	heit	1	h ei t
+048/087	heit	1	h ei t
+048/089	hehss	1	h eh ss
+048/091	heess	1	h ee ss
+048/093	heet	1	h ee t
+048/095	heess	1	h ee ss
+048/099	heess	1	h ee ss
+048/101	hess	1	h e ss
+048/103	heht	1	h eh t
+048/105	heet	1	h ee t
+048/107	het	1	h e t
+048/109	het	1	h e t
+048/111	heess	1	h ee ss
+048/113	heess	1	h ee ss
+048/115	ess	1	e ss
+048/119	hess	1	h e ss
+048/123	heess	1	h ee ss
+048/125	heess	1	h ee ss
+048/127	heess	1	h ee ss
+048/129	heess	1	h ee ss
+048/131	haiss	1	h ai ss
+048/133	haiss	1	h ai ss
+048/135	heiss	1	h ei ss
+048/137	heiss	1	h ei ss
+048/139	heiss	1	h ei ss
+048/141	häss	1	h ä ss
+048/143	hääss	1	h ää ss
+048/145	hääss	1	h ää ss
+048/147	häss	1	h ä ss
+048/153	häss	1	h ä ss
+048/157	häss	1	h ä ss
+048/159	heess	1	h ee ss
+049/019	heet	1	h ee t
+049/021	heet	1	h ee t
+049/023	heet	1	h ee t
+049/025	heit	1	h ei t
+049/027	heet	1	h ee t
+049/029	het	1	h e t
+049/031	heet	1	h ee t
+049/033	heet	1	h ee t
+049/035	heet	1	h ee t
+049/037	heet	1	h ee t
+049/039	heet	1	h ee t
+049/041	häeit	1	h äei t
+049/043	het	1	h e t
+049/045	häit	1	h äi t
+049/047	heet	1	h ee t
+049/049	häit	1	h äi t
+049/051	hait	1	h ai t
+049/053	heit	1	h ei t
+049/055	heut	1	h eu t
+049/057	heut	1	h eu t
+049/059	heuit	1	h eui t
+049/061	heit	1	h ei t
+049/063	heit	1	h ei t
+049/065	heit	1	h ei t
+049/067	heit	1	h ei t
+049/069	heit	1	h ei t
+049/071	heit	1	h ei t
+049/073	häss	1	h ä ss
+049/077	heit	1	h ei t
+049/079	heit	1	h ei t
+049/081	heit	1	h ei t
+049/083	heit	1	h ei t
+049/085	heit	1	h ei t
+049/087	heess	1	h ee ss
+049/089	heess	1	h ee ss
+049/091	heess	1	h ee ss
+049/093	heess	1	h ee ss
+049/095	heess	1	h ee ss
+049/097	heess	1	h ee ss
+049/099	heess	1	h ee ss
+049/101	heess	1	h ee ss
+049/103	heess	1	h ee ss
+049/105	hess	1	h e ss
+049/107	heess	1	h ee ss
+049/109	heess	1	h ee ss
+049/111	hes	1	h e s
+049/113	heess	1	h ee ss
+049/115	heess	1	h ee ss
+049/117	heess	1	h ee ss
+049/119	heess	1	h ee ss
+049/121	heess	1	h ee ss
+049/123	hess	1	h e ss
+049/125	briehe	1	b r ie h e
+049/127	heess	1	h ee ss
+049/129	heess	1	h ee ss
+049/131	heess	1	h ee ss
+049/133	heiss	1	h ei ss
+049/135	heiss	1	h ei ss
+049/137	heiss	1	h ei ss
+049/139	heiss	1	h ei ss
+049/141	hääss	1	h ää ss
+049/143	hääss	1	h ää ss
+049/145	häss	1	h ä ss
+049/147	häss	1	h ä ss
+049/151	heess	1	h ee ss
+050/021	hett	1	h e tt
+050/023	hähss	1	h äh ss
+050/025	hätt	1	h ä tt
+050/027	heit	1	h ei t
+050/029	heth	1	h e t h
+050/031	heet	1	h ee t
+050/033	heet	1	h ee t
+050/035	heeit	1	h eei t
+050/037	heet	1	h ee t
+050/039	het	1	h e t
+050/041	häit	1	h äi t
+050/043	häit	1	h äi t
+050/047	häit	1	h äi t
+050/049	hait	1	h ai t
+050/051	hait	1	h ai t
+050/053	heit	1	h ei t
+050/055	hait	1	h ai t
+050/057	häit	1	h äi t
+050/059	heit	1	h ei t
+050/061	hait	1	h ai t
+050/063	heit	1	h ei t
+050/065	heit	1	h ei t
+050/067	heit	1	h ei t
+050/069	heit	1	h ei t
+050/071	heit	1	h ei t
+050/073	heit	1	h ei t
+050/075	hähss	1	h äh ss
+050/077	heit	1	h ei t
+050/079	heiss	1	h ei ss
+050/081	heiss	1	h ei ss
+050/083	heit	1	h ei t
+050/085	hass	1	h a ss
+050/087	hass	1	h a ss
+050/089	häiss	1	h äi ss
+050/091	heess	1	h ee ss
+050/093	heess	1	h ee ss
+050/095	heess	1	h ee ss
+050/097	heess	1	h ee ss
+050/099	hees	1	h ee s
+050/101	heess	1	h ee ss
+050/103	hees	1	h ee s
+050/105	hess	1	h e ss
+050/107	heess	1	h ee ss
+050/109	heess	1	h ee ss
+050/111	hess	1	h e ss
+050/113	heess	1	h ee ss
+050/115	heess	1	h ee ss
+050/117	hess	1	h e ss
+050/119	hes	1	h e s
+050/121	heess	1	h ee ss
+050/125	ess	1	e ss
+050/127	heess	1	h ee ss
+050/129	heess	1	h ee ss
+050/131	häss	1	h ä ss
+050/133	heiss	1	h ei ss
+050/135	heiss	1	h ei ss
+050/137	heiss	1	h ei ss
+050/139	häss	1	h ä ss
+050/141	häss	1	h ä ss
+050/143	häss	1	h ä ss
+050/145	häss	1	h ä ss
+050/147	häss	1	h ä ss
+050/149	hess	1	h e ss
+050/151	häss	1	h ä ss
+050/155	häss	1	h ä ss
+050/157	heess	1	h ee ss
+050/159	häs	1	h ä s
+050/161	hess	1	h e ss
+051/023	het	1	h e t
+051/025	hett	1	h e tt
+051/027	het	1	h e t
+051/029	het	1	h e t
+051/031	het	1	h e t
+051/033	heet	1	h ee t
+051/035	häit	1	h äi t
+051/037	heet	1	h ee t
+051/039	heet	1	h ee t
+051/041	häit	1	h äi t
+051/043	heut	1	h eu t
+051/045	hait	1	h ai t
+051/047	hoait	1	h oai t
+051/049	heut	1	h eu t
+051/051	hait	1	h ai t
+051/053	heit	1	h ei t
+051/055	heit	1	h ei t
+051/057	heit	1	h ei t
+051/059	heit	1	h ei t
+051/061	het	1	h e t
+051/063	heit	1	h ei t
+051/065	heit	1	h ei t
+051/067	heit	1	h ei t
+051/069	heit	1	h ei t
+051/071	heit	1	h ei t
+051/073	heit	1	h ei t
+051/075	heiss	1	h ei ss
+051/077	heit	1	h ei t
+051/079	hais	1	h ai s
+051/081	häss	1	h ä ss
+051/083	heiss	1	h ei ss
+051/085	heiss	1	h ei ss
+051/087	hääs	1	h ää s
+051/089	hess	1	h e ss
+051/091	heess	1	h ee ss
+051/093	heess	1	h ee ss
+051/095	heess	1	h ee ss
+051/097	heess	1	h ee ss
+051/099	hess	1	h e ss
+051/101	heess	1	h ee ss
+051/103	hess	1	h e ss
+051/105	hess	1	h e ss
+051/107	heess	1	h ee ss
+051/109	heess	1	h ee ss
+051/111	heess	1	h ee ss
+051/113	ess	1	e ss
+051/115	ess	1	e ss
+051/117	heess	1	h ee ss
+051/119	ess	1	e ss
+051/121	heess	1	h ee ss
+051/123	eess	1	ee ss
+051/125	heess	1	h ee ss
+051/127	heess	1	h ee ss
+051/129	heess	1	h ee ss
+051/131	hess	1	h e ss
+051/133	heess	1	h ee ss
+051/135	heiss	1	h ei ss
+051/137	heiss	1	h ei ss
+051/139	häss	1	h ä ss
+051/141	häss	1	h ä ss
+051/143	häss	1	h ä ss
+051/145	häss	1	h ä ss
+051/147	hääss	1	h ää ss
+051/149	heäss	1	h eä ss
+051/151	häss	1	h ä ss
+051/153	häss	1	h ä ss
+051/155	häss	1	h ä ss
+051/157	häss	1	h ä ss
+052/023	hett	1	h e tt
+052/025	hätt	1	h ä tt
+052/027	hedd	1	h e dd
+052/029	heet	1	h ee t
+052/031	heht	1	h eh t
+052/033	het	1	h e t
+052/035	häet	1	h äe t
+052/037	häit	1	h äi t
+052/039	häit	1	h äi t
+052/041	häit	1	h äi t
+052/043	häit	1	h äi t
+052/045	häut	1	h äu t
+052/047	heuit	1	h eui t
+052/049	heut	1	h eu t
+052/051	hait	1	h ai t
+052/053	heit	1	h ei t
+052/057	heit	1	h ei t
+052/059	heet	1	h ee t
+052/061	heet	1	h ee t
+052/063	heet	1	h ee t
+052/065	heit	1	h ei t
+052/067	heit	1	h ei t
+052/069	heit	1	h ei t
+052/071	heit	1	h ei t
+052/073	heit	1	h ei t
+052/075	heiss	1	h ei ss
+052/077	heiss	1	h ei ss
+052/079	heiss	1	h ei ss
+052/081	heiss	1	h ei ss
+052/083	heiss	1	h ei ss
+052/085	hähs	1	h äh s
+052/087	häss	1	h ä ss
+052/089	heess	1	h ee ss
+052/091	heess	1	h ee ss
+052/093	heess	1	h ee ss
+052/095	heess	1	h ee ss
+052/097	heess	1	h ee ss
+052/099	heess	1	h ee ss
+052/101	hess	1	h e ss
+052/103	heess	1	h ee ss
+052/105	heess	1	h ee ss
+052/107	hess	1	h e ss
+052/109	hees	1	h ee s
+052/111	heess	1	h ee ss
+052/113	heess	1	h ee ss
+052/115	eess	1	ee ss
+052/117	eiss	1	ei ss
+052/121	heess	1	h ee ss
+052/123	heess	1	h ee ss
+052/125	heess	1	h ee ss
+052/127	heess	1	h ee ss
+052/129	hess	1	h e ss
+052/131	hess	1	h e ss
+052/133	hess	1	h e ss
+052/135	heess	1	h ee ss
+052/137	haihss	1	h aih ss
+052/139	häss	1	h ä ss
+052/141	heiss	1	h ei ss
+052/143	häss	1	h ä ss
+052/145	häss	1	h ä ss
+052/147	häss	1	h ä ss
+052/149	hess	1	h e ss
+052/151	hähss	1	h äh ss
+052/153	häss	1	h ä ss
+052/155	heess	1	h ee ss
+052/157	häss	1	h ä ss
+052/159	haiss	1	h ai ss
+053/023	heet	1	h ee t
+053/025	hiät	1	h iä t
+053/027	häit	1	h äi t
+053/029	starck	1	s t a r ck
+053/031	häit	1	h äi t
+053/033	het	1	h e t
+053/035	hait	1	h ai t
+053/037	häeit	1	h äei t
+053/039	häit	1	h äi t
+053/041	häit	1	h äi t
+053/043	heit	1	h ei t
+053/045	häit	1	h äi t
+053/047	häut	1	h äu t
+053/049	häut	1	h äu t
+053/051	hait	1	h ai t
+053/053	häit	1	h äi t
+053/055	het	1	h e t
+053/057	heet	1	h ee t
+053/059	heet	1	h ee t
+053/061	heet	1	h ee t
+053/063	heit	1	h ei t
+053/065	heit	1	h ei t
+053/067	heit	1	h ei t
+053/069	heit	1	h ei t
+053/071	heit	1	h ei t
+053/073	hätt	1	h ä tt
+053/075	hess	1	h e ss
+053/077	heiss	1	h ei ss
+053/079	heiss	1	h ei ss
+053/081	heiss	1	h ei ss
+053/083	heiss	1	h ei ss
+053/085	heiss	1	h ei ss
+053/087	häss	1	h ä ss
+053/089	häss	1	h ä ss
+053/091	heess	1	h ee ss
+053/093	heess	1	h ee ss
+053/095	heess	1	h ee ss
+053/097	heess	1	h ee ss
+053/099	heess	1	h ee ss
+053/101	heess	1	h ee ss
+053/103	heess	1	h ee ss
+053/105	hees	1	h ee s
+053/107	heess	1	h ee ss
+053/109	heess	1	h ee ss
+053/111	heess	1	h ee ss
+053/113	heess	1	h ee ss
+053/115	heess	1	h ee ss
+053/121	heess	1	h ee ss
+053/123	heess	1	h ee ss
+053/125	heess	1	h ee ss
+053/127	heess	1	h ee ss
+053/129	heess	1	h ee ss
+053/131	heess	1	h ee ss
+053/133	heess	1	h ee ss
+053/135	heess	1	h ee ss
+053/137	häiss	1	h äi ss
+053/139	häss	1	h ä ss
+053/141	häss	1	h ä ss
+053/143	hääss	1	h ää ss
+053/145	hess	1	h e ss
+053/147	häss	1	h ä ss
+053/149	hiäss	1	h iä ss
+053/151	häss	1	h ä ss
+053/153	häs	1	h ä s
+053/155	haihs	1	h aih s
+053/157	haiss	1	h ai ss
+054/023	heet	1	h ee t
+054/025	heht	1	h eh t
+054/027	heet	1	h ee t
+054/029	heet	1	h ee t
+054/031	heit	1	h ei t
+054/033	heit	1	h ei t
+054/035	heht	1	h eh t
+054/037	heit	1	h ei t
+054/039	häit	1	h äi t
+054/041	heid	1	h ei d
+054/043	heit	1	h ei t
+054/045	häit	1	h äi t
+054/047	heuit	1	h eui t
+054/049	hait	1	h ai t
+054/051	heit	1	h ei t
+054/053	häit	1	h äi t
+054/055	häht	1	h äh t
+054/057	heet	1	h ee t
+054/059	heet	1	h ee t
+054/061	heiss	1	h ei ss
+054/063	heiss	1	h ei ss
+054/065	heit	1	h ei t
+054/067	heiss	1	h ei ss
+054/069	hess	1	h e ss
+054/071	heiss	1	h ei ss
+054/073	heiss	1	h ei ss
+054/075	haaiss	1	h aai ss
+054/077	heiss	1	h ei ss
+054/079	heiss	1	h ei ss
+054/081	haiss	1	h ai ss
+054/083	heiss	1	h ei ss
+054/085	haiss	1	h ai ss
+054/087	hähs	1	h äh s
+054/089	hees	1	h ee s
+054/091	heess	1	h ee ss
+054/093	heess	1	h ee ss
+054/095	heess	1	h ee ss
+054/097	heess	1	h ee ss
+054/099	hes	1	h e s
+054/101	heess	1	h ee ss
+054/103	heess	1	h ee ss
+054/105	heess	1	h ee ss
+054/107	heess	1	h ee ss
+054/109	hess	1	h e ss
+054/111	heess	1	h ee ss
+054/113	hees	1	h ee s
+054/115	heess	1	h ee ss
+054/117	heess	1	h ee ss
+054/119	heess	1	h ee ss
+054/121	heess	1	h ee ss
+054/123	heess	1	h ee ss
+054/125	heess	1	h ee ss
+054/127	heess	1	h ee ss
+054/131	heess	1	h ee ss
+054/133	heess	1	h ee ss
+054/135	heess	1	h ee ss
+054/137	heiss	1	h ei ss
+054/139	häss	1	h ä ss
+054/141	häss	1	h ä ss
+054/143	häss	1	h ä ss
+054/145	häss	1	h ä ss
+054/147	hess	1	h e ss
+054/149	häss	1	h ä ss
+054/151	hiäss	1	h iä ss
+054/153	hais	1	h ai s
+054/155	heess	1	h ee ss
+054/157	heiss	1	h ei ss
+054/159	hees	1	h ee s
+054/161	hess	1	h e ss
+054/163	heet	1	h ee t
+055/023	heet	1	h ee t
+055/025	heet	1	h ee t
+055/027	heet	1	h ee t
+055/029	heet	1	h ee t
+055/031	häit	1	h äi t
+055/033	heet	1	h ee t
+055/035	heed	1	h ee d
+055/037	waame	1	w aa m e
+055/039	heit	1	h ei t
+055/041	heit	1	h ei t
+055/043	häit	1	h äi t
+055/045	häit	1	h äi t
+055/047	häit	1	h äi t
+055/049	heit	1	h ei t
+055/051	heit	1	h ei t
+055/053	heit	1	h ei t
+055/055	heit	1	h ei t
+055/057	heit	1	h ei t
+055/059	heit	1	h ei t
+055/061	heiss	1	h ei ss
+055/063	heiss	1	h ei ss
+055/065	heuss	1	h eu ss
+055/067	heuss	1	h eu ss
+055/069	häss	1	h ä ss
+055/071	häiss	1	h äi ss
+055/073	häiss	1	h äi ss
+055/075	heiss	1	h ei ss
+055/077	heiss	1	h ei ss
+055/079	NA	NA	-
+055/081	heiss	1	h ei ss
+055/083	heiss	1	h ei ss
+055/085	hess	1	h e ss
+055/087	heess	1	h ee ss
+055/089	heess	1	h ee ss
+055/091	hess	1	h e ss
+055/093	heess	1	h ee ss
+055/095	heess	1	h ee ss
+055/097	heess	1	h ee ss
+055/099	heess	1	h ee ss
+055/101	hees	1	h ee s
+055/103	heess	1	h ee ss
+055/105	heess	1	h ee ss
+055/107	heess	1	h ee ss
+055/109	hess	1	h e ss
+055/111	heess	1	h ee ss
+055/113	heess	1	h ee ss
+055/115	hess	1	h e ss
+055/117	heess	1	h ee ss
+055/119	hess	1	h e ss
+055/123	hehss	1	h eh ss
+055/125	heess	1	h ee ss
+055/127	heess	1	h ee ss
+055/131	heess	1	h ee ss
+055/133	hees	1	h ee s
+055/135	hess	1	h e ss
+055/137	hess	1	h e ss
+055/139	heess	1	h ee ss
+055/141	heess	1	h ee ss
+055/143	hess	1	h e ss
+055/145	häss	1	h ä ss
+055/147	häss	1	h ä ss
+055/149	häss	1	h ä ss
+055/151	heiss	1	h ei ss
+055/153	heess	1	h ee ss
+055/155	haiss	1	h ai ss
+055/157	heess	1	h ee ss
+055/159	häss	1	h ä ss
+055/161	heess	1	h ee ss
+056/021	heit	1	h ei t
+056/023	heet	1	h ee t
+056/025	heet	1	h ee t
+056/027	heht	1	h eh t
+056/029	heet	1	h ee t
+056/031	heit	1	h ei t
+056/033	hiät	1	h iä t
+056/035	het	1	h e t
+056/037	wahme	1	w ah m e
+056/039	häit	1	h äi t
+056/041	häitt	1	h äi tt
+056/043	heit	1	h ei t
+056/045	heit	1	h ei t
+056/047	hait	1	h ai t
+056/049	heit	1	h ei t
+056/051	häht	1	h äh t
+056/053	heit	1	h ei t
+056/055	heit	1	h ei t
+056/057	heiz	1	h ei z
+056/059	heiss	1	h ei ss
+056/061	häiss	1	h äi ss
+056/063	hess	1	h e ss
+056/065	häiss	1	h äi ss
+056/067	heiss	1	h ei ss
+056/069	heiss	1	h ei ss
+056/071	heiss	1	h ei ss
+056/073	heiss	1	h ei ss
+056/075	heiss	1	h ei ss
+056/077	heiss	1	h ei ss
+056/079	heiss	1	h ei ss
+056/081	heiss	1	h ei ss
+056/083	heess	1	h ee ss
+056/085	hess	1	h e ss
+056/087	hehss	1	h eh ss
+056/089	heess	1	h ee ss
+056/091	heess	1	h ee ss
+056/093	heess	1	h ee ss
+056/095	hess	1	h e ss
+056/097	hees	1	h ee s
+056/099	heess	1	h ee ss
+056/101	hess	1	h e ss
+056/103	heess	1	h ee ss
+056/105	hess	1	h e ss
+056/107	heess	1	h ee ss
+056/109	heess	1	h ee ss
+056/111	hess	1	h e ss
+056/113	hees	1	h ee s
+056/115	heess	1	h ee ss
+056/117	heess	1	h ee ss
+056/121	hess	1	h e ss
+056/123	heess	1	h ee ss
+056/125	heess	1	h ee ss
+056/127	heess	1	h ee ss
+056/129	heess	1	h ee ss
+056/131	hehss	1	h eh ss
+056/133	heess	1	h ee ss
+056/135	heess	1	h ee ss
+056/137	heess	1	h ee ss
+056/139	heess	1	h ee ss
+056/141	heess	1	h ee ss
+056/143	heess	1	h ee ss
+056/145	hess	1	h e ss
+056/147	heiss	1	h ei ss
+056/149	heiss	1	h ei ss
+056/151	heiss	1	h ei ss
+056/153	haiss	1	h ai ss
+056/155	haiss	1	h ai ss
+056/157	haiss	1	h ai ss
+056/159	heess	1	h ee ss
+056/161	heess	1	h ee ss
+057/021	heet	1	h ee t
+057/023	heet	1	h ee t
+057/025	stärk	1	s t ä r k
+057/027	grellig	1	g r e ll i g
+057/029	hess	1	h e ss
+057/031	heess	1	h ee ss
+057/033	häit	1	h äi t
+057/035	heht	1	h eh t
+057/037	heet	1	h ee t
+057/039	warem	1	w a r e m
+057/041	heet	1	h ee t
+057/043	heit	1	h ei t
+057/045	heit	1	h ei t
+057/047	heit	1	h ei t
+057/049	heit	1	h ei t
+057/051	heess	1	h ee ss
+057/053	heit	1	h ei t
+057/055	heitz	1	h ei t z
+057/057	häss	1	h ä ss
+057/059	hess	1	h e ss
+057/061	heess	1	h ee ss
+057/063	heess	1	h ee ss
+057/065	heiss	1	h ei ss
+057/067	heiss	1	h ei ss
+057/069	heiss	1	h ei ss
+057/071	heiss	1	h ei ss
+057/073	heiss	1	h ei ss
+057/075	heis	1	h ei s
+057/077	heiss	1	h ei ss
+057/079	heiss	1	h ei ss
+057/081	heess	1	h ee ss
+057/083	heess	1	h ee ss
+057/085	heess	1	h ee ss
+057/087	heess	1	h ee ss
+057/089	hees	1	h ee s
+057/091	hess	1	h e ss
+057/093	heess	1	h ee ss
+057/095	heess	1	h ee ss
+057/097	heess	1	h ee ss
+057/099	hess	1	h e ss
+057/101	hess	1	h e ss
+057/103	heess	1	h ee ss
+057/105	heess	1	h ee ss
+057/107	heess	1	h ee ss
+057/109	heess	1	h ee ss
+057/111	heess	1	h ee ss
+057/113	heess	1	h ee ss
+057/115	heess	1	h ee ss
+057/117	hess	1	h e ss
+057/119	heess	1	h ee ss
+057/121	heess	1	h ee ss
+057/123	hess	1	h e ss
+057/125	heess	1	h ee ss
+057/127	heess	1	h ee ss
+057/129	heess	1	h ee ss
+057/131	heess	1	h ee ss
+057/133	heess	1	h ee ss
+057/135	heess	1	h ee ss
+057/137	heess	1	h ee ss
+057/139	heess	1	h ee ss
+057/141	heess	1	h ee ss
+057/143	hes	1	h e s
+057/145	heess	1	h ee ss
+057/147	heiss	1	h ei ss
+057/149	heiss	1	h ei ss
+057/151	heess	1	h ee ss
+057/153	haiss	1	h ai ss
+057/155	heiss	1	h ei ss
+057/157	heiss	1	h ei ss
+057/159	heess	1	h ee ss
+057/161	heess	1	h ee ss
+058/019	heet	1	h ee t
+058/021	heet	1	h ee t
+058/023	hät	1	h ä t
+058/025	heess	1	h ee ss
+058/027	heess	1	h ee ss
+058/029	heess	1	h ee ss
+058/031	heess	1	h ee ss
+058/033	hess	1	h e ss
+058/035	heess	1	h ee ss
+058/037	hees	1	h ee s
+058/039	heet	1	h ee t
+058/041	heht	1	h eh t
+058/043	heet	1	h ee t
+058/045	heit	1	h ei t
+058/047	hess	1	h e ss
+058/049	hess	1	h e ss
+058/051	häss	1	h ä ss
+058/053	häss	1	h ä ss
+058/055	hess	1	h e ss
+058/057	hehss	1	h eh ss
+058/059	heess	1	h ee ss
+058/061	hess	1	h e ss
+058/063	hess	1	h e ss
+058/065	hees	1	h ee s
+058/067	heiss	1	h ei ss
+058/069	heiss	1	h ei ss
+058/071	heiss	1	h ei ss
+058/073	heiss	1	h ei ss
+058/075	heiss	1	h ei ss
+058/077	heiss	1	h ei ss
+058/079	heess	1	h ee ss
+058/081	heess	1	h ee ss
+058/083	heess	1	h ee ss
+058/085	hess	1	h e ss
+058/087	hess	1	h e ss
+058/089	heess	1	h ee ss
+058/091	hees	1	h ee s
+058/093	hees	1	h ee s
+058/095	heess	1	h ee ss
+058/097	heess	1	h ee ss
+058/099	heess	1	h ee ss
+058/101	heess	1	h ee ss
+058/103	heess	1	h ee ss
+058/105	heess	1	h ee ss
+058/107	heess	1	h ee ss
+058/109	hess	1	h e ss
+058/111	heess	1	h ee ss
+058/113	heess	1	h ee ss
+058/115	heess	1	h ee ss
+058/117	heess	1	h ee ss
+058/119	gruss	1	g r u ss
+058/121	stork	1	s t o r k
+058/123	heess	1	h ee ss
+058/125	heess	1	h ee ss
+058/127	heess	1	h ee ss
+058/129	gruss	1	g r u ss
+058/131	heess	1	h ee ss
+058/133	heess	1	h ee ss
+058/135	heess	1	h ee ss
+058/137	heess	1	h ee ss
+058/139	hess	1	h e ss
+058/141	heess	1	h ee ss
+058/143	heess	1	h ee ss
+058/145	heess	1	h ee ss
+058/147	heiss	1	h ei ss
+058/149	heess	1	h ee ss
+058/151	heiss	1	h ei ss
+058/153	heess	1	h ee ss
+058/155	heess	1	h ee ss
+058/157	hess	1	h e ss
+058/159	heess	1	h ee ss
+059/019	stärk	1	s t ä r k
+059/021	het	1	h e t
+059/023	hess	1	h e ss
+059/025	hes	1	h e s
+059/027	hess	1	h e ss
+059/029	heess	1	h ee ss
+059/031	häiss	1	h äi ss
+059/033	heess	1	h ee ss
+059/035	heess	1	h ee ss
+059/037	heess	1	h ee ss
+059/039	hees	1	h ee s
+059/041	hees	1	h ee s
+059/043	heiss	1	h ei ss
+059/045	heiss	1	h ei ss
+059/047	häes	1	h äe s
+059/049	häs	1	h ä s
+059/051	heess	1	h ee ss
+059/053	heess	1	h ee ss
+059/055	häs	1	h ä s
+059/057	hes	1	h e s
+059/059	hess	1	h e ss
+059/061	hess	1	h e ss
+059/063	hess	1	h e ss
+059/065	heiss	1	h ei ss
+059/067	heiss	1	h ei ss
+059/069	haiss	1	h ai ss
+059/071	heiss	1	h ei ss
+059/073	heiss	1	h ei ss
+059/075	hess	1	h e ss
+059/077	heiss	1	h ei ss
+059/079	heiss	1	h ei ss
+059/081	heiss	1	h ei ss
+059/083	heess	1	h ee ss
+059/085	heess	1	h ee ss
+059/087	hess	1	h e ss
+059/089	hess	1	h e ss
+059/091	heess	1	h ee ss
+059/093	hess	1	h e ss
+059/095	hess	1	h e ss
+059/097	heess	1	h ee ss
+059/099	heess	1	h ee ss
+059/101	hess	1	h e ss
+059/103	heess	1	h ee ss
+059/105	heess	1	h ee ss
+059/107	heess	1	h ee ss
+059/109	heess	1	h ee ss
+059/111	hess	1	h e ss
+059/113	hess	1	h e ss
+059/115	heess	1	h ee ss
+059/117	heess	1	h ee ss
+059/119	heess	1	h ee ss
+059/121	stork	1	s t o r k
+059/123	heess	1	h ee ss
+059/125	heess	1	h ee ss
+059/127	heess	1	h ee ss
+059/129	stork	1	s t o r k
+059/131	schtock	1	sch t o ck
+059/133	heess	1	h ee ss
+059/135	hess	1	h e ss
+059/137	heess	1	h ee ss
+059/139	heess	1	h ee ss
+059/141	hess	1	h e ss
+059/143	heess	1	h ee ss
+059/145	hess	1	h e ss
+059/147	heess	1	h ee ss
+059/149	heess	1	h ee ss
+059/151	heess	1	h ee ss
+059/153	heess	1	h ee ss
+059/155	heess	1	h ee ss
+059/157	heess	1	h ee ss
+059/159	hess	1	h e ss
+059/161	heess	1	h ee ss
+059/165	hess	1	h e ss
+059/169	heess	1	h ee ss
+060/021	heess	1	h ee ss
+060/023	hes	1	h e s
+060/025	heess	1	h ee ss
+060/027	hess	1	h e ss
+060/029	heess	1	h ee ss
+060/031	heess	1	h ee ss
+060/033	heess	1	h ee ss
+060/035	heess	1	h ee ss
+060/037	hehs	1	h eh s
+060/039	hees	1	h ee s
+060/041	hess	1	h e ss
+060/043	heiss	1	h ei ss
+060/045	heiss	1	h ei ss
+060/047	hass	1	h a ss
+060/049	häss	1	h ä ss
+060/051	häss	1	h ä ss
+060/053	hes	1	h e s
+060/055	häs	1	h ä s
+060/057	häs	1	h ä s
+060/059	hees	1	h ee s
+060/061	hes	1	h e s
+060/063	heiss	1	h ei ss
+060/065	heiss	1	h ei ss
+060/067	heiss	1	h ei ss
+060/069	heiss	1	h ei ss
+060/071	heiss	1	h ei ss
+060/073	heiss	1	h ei ss
+060/075	heiss	1	h ei ss
+060/077	heiss	1	h ei ss
+060/079	heess	1	h ee ss
+060/081	hess	1	h e ss
+060/083	heess	1	h ee ss
+060/085	hös	1	h ö s
+060/087	heess	1	h ee ss
+060/089	hes	1	h e s
+060/091	heess	1	h ee ss
+060/093	heess	1	h ee ss
+060/095	hess	1	h e ss
+060/097	heess	1	h ee ss
+060/099	häs	1	h ä s
+060/101	hääss	1	h ää ss
+060/103	häss	1	h ä ss
+060/105	häss	1	h ä ss
+060/107	heess	1	h ee ss
+060/109	hees	1	h ee s
+060/111	heess	1	h ee ss
+060/113	heess	1	h ee ss
+060/115	heess	1	h ee ss
+060/117	hess	1	h e ss
+060/119	gross	1	g r o ss
+060/121	stork	1	s t o r k
+060/123	gruss	1	g r u ss
+060/125	heess	1	h ee ss
+060/127	stork	1	s t o r k
+060/129	stork	1	s t o r k
+060/131	hejss	1	h e j ss
+060/135	heess	1	h ee ss
+060/137	heess	1	h ee ss
+060/139	heess	1	h ee ss
+060/141	heess	1	h ee ss
+060/143	heess	1	h ee ss
+060/145	heess	1	h ee ss
+060/147	heess	1	h ee ss
+060/149	heess	1	h ee ss
+060/151	hess	1	h e ss
+060/153	heess	1	h ee ss
+060/155	heess	1	h ee ss
+060/157	heess	1	h ee ss
+060/159	heess	1	h ee ss
+060/163	heess	1	h ee ss
+060/165	häss	1	h ä ss
+061/021	heess	1	h ee ss
+061/023	hess	1	h e ss
+061/025	hess	1	h e ss
+061/027	hees	1	h ee s
+061/029	hehs	1	h eh s
+061/031	hess	1	h e ss
+061/033	hees	1	h ee s
+061/035	heess	1	h ee ss
+061/037	heess	1	h ee ss
+061/039	hess	1	h e ss
+061/041	hes	1	h e s
+061/043	heiss	1	h ei ss
+061/045	haiss	1	h ai ss
+061/047	häs	1	h ä s
+061/049	haass	1	h aa ss
+061/051	hess	1	h e ss
+061/053	hääss	1	h ää ss
+061/055	häs	1	h ä s
+061/057	hähs	1	h äh s
+061/059	hes	1	h e s
+061/061	heess	1	h ee ss
+061/063	heiss	1	h ei ss
+061/065	heiss	1	h ei ss
+061/067	heiss	1	h ei ss
+061/069	heiss	1	h ei ss
+061/071	haaiss	1	h aai ss
+061/073	heiss	1	h ei ss
+061/075	heiss	1	h ei ss
+061/077	hess	1	h e ss
+061/079	heess	1	h ee ss
+061/081	heess	1	h ee ss
+061/083	heess	1	h ee ss
+061/085	hääss	1	h ää ss
+061/087	heess	1	h ee ss
+061/089	heess	1	h ee ss
+061/091	heess	1	h ee ss
+061/093	heess	1	h ee ss
+061/095	heess	1	h ee ss
+061/097	heess	1	h ee ss
+061/099	häss	1	h ä ss
+061/101	hes	1	h e s
+061/103	heess	1	h ee ss
+061/105	häss	1	h ä ss
+061/107	heess	1	h ee ss
+061/109	heess	1	h ee ss
+061/111	häss	1	h ä ss
+061/113	heess	1	h ee ss
+061/115	hesz	1	h e s z
+061/117	stark	1	s t a r k
+061/119	stark	1	s t a r k
+061/121	stark	1	s t a r k
+061/123	stork	1	s t o r k
+061/125	stork	1	s t o r k
+061/127	geelche	1	g ee l ch e
+061/129	schtoork	1	sch t oo r k
+061/131	stork	1	s t o r k
+061/133	gruss	1	g r u ss
+061/137	hess	1	h e ss
+061/139	heess	1	h ee ss
+061/141	heess	1	h ee ss
+061/143	heess	1	h ee ss
+061/145	heess	1	h ee ss
+061/147	heess	1	h ee ss
+061/149	heess	1	h ee ss
+061/151	hess	1	h e ss
+061/153	heess	1	h ee ss
+061/155	heess	1	h ee ss
+061/157	hess	1	h e ss
+061/159	heess	1	h ee ss
+061/161	heess	1	h ee ss
+061/165	heess	1	h ee ss
+062/021	wärm	1	w ä r m
+062/023	hehss	1	h eh ss
+062/025	heess	1	h ee ss
+062/027	heess	1	h ee ss
+062/029	heess	1	h ee ss
+062/031	heess	1	h ee ss
+062/033	heess	1	h ee ss
+062/035	hes	1	h e s
+062/037	heiss	1	h ei ss
+062/039	heess	1	h ee ss
+062/041	hääss	1	h ää ss
+062/043	heiss	1	h ei ss
+062/045	häss	1	h ä ss
+062/047	haas	1	h aa s
+062/049	haas	1	h aa s
+062/051	haass	1	h aa ss
+062/053	hääss	1	h ää ss
+062/055	häss	1	h ä ss
+062/057	haas	1	h aa s
+062/059	hejs	1	h e j s
+062/061	hes	1	h e s
+062/063	heiss	1	h ei ss
+062/065	heiss	1	h ei ss
+062/067	heiss	1	h ei ss
+062/069	häiss	1	h äi ss
+062/071	heiss	1	h ei ss
+062/073	haiss	1	h ai ss
+062/075	haiss	1	h ai ss
+062/077	häss	1	h ä ss
+062/079	hähss	1	h äh ss
+062/081	häs	1	h ä s
+062/083	heess	1	h ee ss
+062/085	heess	1	h ee ss
+062/087	hes	1	h e s
+062/089	heess	1	h ee ss
+062/091	heess	1	h ee ss
+062/093	hees	1	h ee s
+062/095	hääss	1	h ää ss
+062/097	hees	1	h ee s
+062/099	hääss	1	h ää ss
+062/101	haass	1	h aa ss
+062/103	häss	1	h ä ss
+062/105	häss	1	h ä ss
+062/107	häss	1	h ä ss
+062/109	heess	1	h ee ss
+062/111	NA	NA	-
+062/113	stork	1	s t o r k
+062/115	stärk	1	s t ä r k
+062/117	stark	1	s t a r k
+062/119	stark	1	s t a r k
+062/121	gross	1	g r o ss
+062/123	stork	1	s t o r k
+062/125	stork	1	s t o r k
+062/127	stork	1	s t o r k
+062/129	stoork	1	s t oo r k
+062/131	gähliche	1	g äh l i ch e
+062/133	gehliche	1	g eh l i ch e
+062/135	stork	1	s t o r k
+062/137	stork	1	s t o r k
+062/139	stork	1	s t o r k
+062/141	heess	1	h ee ss
+062/143	heess	1	h ee ss
+062/145	heess	1	h ee ss
+062/147	heess	1	h ee ss
+062/149	heess	1	h ee ss
+062/151	heess	1	h ee ss
+062/153	heiss	1	h ei ss
+062/155	heess	1	h ee ss
+062/157	heess	1	h ee ss
+062/159	heess	1	h ee ss
+062/161	heesz	1	h ee s z
+063/021	wärm	1	w ä r m
+063/023	hehss	1	h eh ss
+063/025	hess	1	h e ss
+063/027	heess	1	h ee ss
+063/029	heess	1	h ee ss
+063/031	heess	1	h ee ss
+063/033	hess	1	h e ss
+063/035	heiss	1	h ei ss
+063/037	häiss	1	h äi ss
+063/039	hees	1	h ee s
+063/041	heess	1	h ee ss
+063/043	hass	1	h a ss
+063/045	stark	1	s t a r k
+063/047	hass	1	h a ss
+063/049	hahs	1	h ah s
+063/051	haass	1	h aa ss
+063/053	hass	1	h a ss
+063/055	hääss	1	h ää ss
+063/057	häs	1	h ä s
+063/059	häs	1	h ä s
+063/061	häiss	1	h äi ss
+063/063	heiss	1	h ei ss
+063/065	heiss	1	h ei ss
+063/067	heiss	1	h ei ss
+063/069	haiss	1	h ai ss
+063/071	häiss	1	h äi ss
+063/073	hoas	1	h oa s
+063/075	haiss	1	h ai ss
+063/077	haiss	1	h ai ss
+063/079	häss	1	h ä ss
+063/081	häess	1	h äe ss
+063/083	häs	1	h ä s
+063/085	hess	1	h e ss
+063/087	häss	1	h ä ss
+063/089	hess	1	h e ss
+063/091	heess	1	h ee ss
+063/093	haess	1	h ae ss
+063/095	haass	1	h aa ss
+063/097	hahss	1	h ah ss
+063/099	hääss	1	h ää ss
+063/101	has	1	h a s
+063/103	heess	1	h ee ss
+063/105	heess	1	h ee ss
+063/107	häss	1	h ä ss
+063/109	häs	1	h ä s
+063/111	stork	1	s t o r k
+063/113	stork	1	s t o r k
+063/115	stork	1	s t o r k
+063/117	stork	1	s t o r k
+063/119	NA	NA	-
+063/121	gruss	1	g r u ss
+063/123	gruss	1	g r u ss
+063/125	gruss	1	g r u ss
+063/127	stork	1	s t o r k
+063/135	stark	1	s t a r k
+063/137	stark	1	s t a r k
+063/139	schtork	1	sch t o r k
+063/141	stork	1	s t o r k
+063/143	stork	1	s t o r k
+063/145	stork	1	s t o r k
+063/147	heess	1	h ee ss
+063/149	heess	1	h ee ss
+063/151	heess	1	h ee ss
+063/153	heess	1	h ee ss
+063/155	hess	1	h e ss
+063/157	heess	1	h ee ss
+063/159	heess	1	h ee ss
+063/161	hess	1	h e ss
+063/163	hess	1	h e ss
+063/165	hass	1	h a ss
+064/023	hess	1	h e ss
+064/025	hess	1	h e ss
+064/027	hees	1	h ee s
+064/029	heess	1	h ee ss
+064/031	hehss	1	h eh ss
+064/033	hes	1	h e s
+064/035	häss	1	h ä ss
+064/037	häss	1	h ä ss
+064/039	hees	1	h ee s
+064/041	heess	1	h ee ss
+064/043	hass	1	h a ss
+064/045	haas	1	h aa s
+064/047	hass	1	h a ss
+064/049	haass	1	h aa ss
+064/051	haass	1	h aa ss
+064/053	hahss	1	h ah ss
+064/055	haiss	1	h ai ss
+064/057	hääis	1	h ääi s
+064/059	hasz	1	h a s z
+064/061	häss	1	h ä ss
+064/063	heiss	1	h ei ss
+064/065	heiss	1	h ei ss
+064/067	heiss	1	h ei ss
+064/069	haiss	1	h ai ss
+064/071	heiss	1	h ei ss
+064/073	haiss	1	h ai ss
+064/075	häss	1	h ä ss
+064/077	häss	1	h ä ss
+064/079	häss	1	h ä ss
+064/081	hääss	1	h ää ss
+064/083	häss	1	h ä ss
+064/085	häss	1	h ä ss
+064/087	häss	1	h ä ss
+064/089	häss	1	h ä ss
+064/091	heiss	1	h ei ss
+064/093	hass	1	h a ss
+064/095	haass	1	h aa ss
+064/097	hass	1	h a ss
+064/099	hass	1	h a ss
+064/101	hasz	1	h a s z
+064/103	häs	1	h ä s
+064/105	haass	1	h aa ss
+064/107	stork	1	s t o r k
+064/109	stork	1	s t o r k
+064/111	derb	1	d e r b
+064/113	stork	1	s t o r k
+064/115	gruss	1	g r u ss
+064/117	stork	1	s t o r k
+064/119	NA	NA	-
+064/121	stork	1	s t o r k
+064/123	NA	NA	-
+064/125	stork	1	s t o r k
+064/127	stork	1	s t o r k
+064/135	stark	1	s t a r k
+064/137	stork	1	s t o r k
+064/139	stork	1	s t o r k
+064/141	stoork	1	s t oo r k
+064/143	stark	1	s t a r k
+064/145	stark	1	s t a r k
+064/147	häss	1	h ä ss
+064/149	hess	1	h e ss
+064/151	heess	1	h ee ss
+064/153	heess	1	h ee ss
+064/155	hess	1	h e ss
+064/157	hes	1	h e s
+064/159	heess	1	h ee ss
+065/021	heess	1	h ee ss
+065/023	heess	1	h ee ss
+065/025	heess	1	h ee ss
+065/027	heess	1	h ee ss
+065/029	häss	1	h ä ss
+065/031	hess	1	h e ss
+065/033	hess	1	h e ss
+065/035	haiss	1	h ai ss
+065/037	hähss	1	h äh ss
+065/039	häss	1	h ä ss
+065/041	heess	1	h ee ss
+065/043	has	1	h a s
+065/045	haas	1	h aa s
+065/047	haas	1	h aa s
+065/049	haas	1	h aa s
+065/051	haass	1	h aa ss
+065/053	haass	1	h aa ss
+065/055	hääss	1	h ää ss
+065/057	haaiss	1	h aai ss
+065/059	hoass	1	h oa ss
+065/061	hoas	1	h oa s
+065/063	heiss	1	h ei ss
+065/065	heiss	1	h ei ss
+065/067	heiiss	1	h eii ss
+065/069	stoark	1	s t oa r k
+065/071	stark	1	s t a r k
+065/073	hass	1	h a ss
+065/075	häss	1	h ä ss
+065/077	häss	1	h ä ss
+065/079	hess	1	h e ss
+065/081	häss	1	h ä ss
+065/083	heess	1	h ee ss
+065/085	heess	1	h ee ss
+065/087	hähss	1	h äh ss
+065/089	heess	1	h ee ss
+065/091	haass	1	h aa ss
+065/093	heiss	1	h ei ss
+065/095	häss	1	h ä ss
+065/097	heis	1	h ei s
+065/101	hass	1	h a ss
+065/103	haass	1	h aa ss
+065/105	schtaark	1	sch t aa r k
+065/107	stork	1	s t o r k
+065/109	schtorg	1	sch t o r g
+065/111	stork	1	s t o r k
+065/113	NA	NA	-
+065/115	stork	1	s t o r k
+065/121	stork	1	s t o r k
+065/123	stork	1	s t o r k
+065/137	hejss	1	h e j ss
+065/139	stork	1	s t o r k
+065/143	hess	1	h e ss
+065/145	hesz	1	h e s z
+065/147	heess	1	h ee ss
+065/149	häss	1	h ä ss
+065/151	stork	1	s t o r k
+065/153	häs	1	h ä s
+065/155	hess	1	h e ss
+065/157	heess	1	h ee ss
+065/159	heess	1	h ee ss
+066/021	heess	1	h ee ss
+066/023	hess	1	h e ss
+066/025	heiss	1	h ei ss
+066/027	hess	1	h e ss
+066/029	ärg	1	ä r g
+066/031	hess	1	h e ss
+066/033	hähss	1	h äh ss
+066/035	streng	1	s t r e ng
+066/037	häss	1	h ä ss
+066/039	haiss	1	h ai ss
+066/041	hass	1	h a ss
+066/043	haass	1	h aa ss
+066/045	hasz	1	h a s z
+066/047	hass	1	h a ss
+066/049	haass	1	h aa ss
+066/051	haas	1	h aa s
+066/053	haas	1	h aa s
+066/055	haas	1	h aa s
+066/057	haas	1	h aa s
+066/059	häss	1	h ä ss
+066/061	heiss	1	h ei ss
+066/063	häs	1	h ä s
+066/065	häis	1	h äi s
+066/067	stark	1	s t a r k
+066/069	stark	1	s t a r k
+066/071	schtork	1	sch t o r k
+066/073	stark	1	s t a r k
+066/075	häss	1	h ä ss
+066/077	heess	1	h ee ss
+066/079	häss	1	h ä ss
+066/081	hess	1	h e ss
+066/083	hiäss	1	h iä ss
+066/085	schtark	1	sch t a r k
+066/087	schtarik	1	sch t a r i k
+066/089	hass	1	h a ss
+066/091	haass	1	h aa ss
+066/093	häess	1	h äe ss
+066/095	haass	1	h aa ss
+066/097	haass	1	h aa ss
+066/099	stoork	1	s t oo r k
+066/101	hass	1	h a ss
+066/103	gruss	1	g r u ss
+066/105	stork	1	s t o r k
+066/107	stork	1	s t o r k
+066/109	stoork	1	s t oo r k
+066/111	stoork	1	s t oo r k
+066/113	stork	1	s t o r k
+066/121	stork	1	s t o r k
+066/139	stork	1	s t o r k
+066/143	schtork	1	sch t o r k
+066/145	häss	1	h ä ss
+066/147	häsz	1	h ä s z
+066/149	häss	1	h ä ss
+066/151	hähss	1	h äh ss
+066/153	hääss	1	h ää ss
+066/155	stork	1	s t o r k
+066/157	häss	1	h ä ss
+066/159	heess	1	h ee ss
+066/161	häss	1	h ä ss
+066/163	heess	1	h ee ss
+067/021	stark	1	s t a r k
+067/023	wahrem	1	w ah r e m
+067/025	hees	1	h ee s
+067/027	heess	1	h ee ss
+067/029	heess	1	h ee ss
+067/031	hess	1	h e ss
+067/033	hess	1	h e ss
+067/035	heiss	1	h ei ss
+067/037	haass	1	h aa ss
+067/039	hahss	1	h ah ss
+067/041	haas	1	h aa s
+067/043	has	1	h a s
+067/045	hass	1	h a ss
+067/047	haass	1	h aa ss
+067/049	hass	1	h a ss
+067/051	haas	1	h aa s
+067/053	haas	1	h aa s
+067/055	has	1	h a s
+067/057	haass	1	h aa ss
+067/059	häss	1	h ä ss
+067/061	häess	1	h äe ss
+067/063	hääss	1	h ää ss
+067/065	stork	1	s t o r k
+067/067	steck	1	s t e ck
+067/069	schtoark	1	sch t oa r k
+067/071	stork	1	s t o r k
+067/073	stork	1	s t o r k
+067/075	stork	1	s t o r k
+067/077	häss	1	h ä ss
+067/079	häss	1	h ä ss
+067/081	hes	1	h e s
+067/083	häss	1	h ä ss
+067/085	stark	1	s t a r k
+067/087	starik	1	s t a r i k
+067/089	stark	1	s t a r k
+067/091	stark	1	s t a r k
+067/093	stark	1	s t a r k
+067/095	heiss	1	h ei ss
+067/097	haisz	1	h ai s z
+067/099	schtaark	1	sch t aa r k
+067/101	starg	1	s t a r g
+067/103	stork	1	s t o r k
+067/105	stark	1	s t a r k
+067/107	stark	1	s t a r k
+067/109	stork	1	s t o r k
+067/111	schtork	1	sch t o r k
+067/113	stoäk	1	s t oä k
+067/143	stark	1	s t a r k
+067/145	stork	1	s t o r k
+067/147	häss	1	h ä ss
+067/149	häs	1	h ä s
+067/151	haiss	1	h ai ss
+067/153	stoark	1	s t oa r k
+067/155	stork	1	s t o r k
+067/157	stork	1	s t o r k
+067/159	häss	1	h ä ss
+067/161	hähss	1	h äh ss
+067/163	hess	1	h e ss
+067/165	hess	1	h e ss
+067/177	heess	1	h ee ss
+068/021	warm	1	w a r m
+068/023	heess	1	h ee ss
+068/025	heess	1	h ee ss
+068/027	warm	1	w a r m
+068/029	streng	1	s t r e ng
+068/031	häs	1	h ä s
+068/033	häss	1	h ä ss
+068/035	haäss	1	h aä ss
+068/037	has	1	h a s
+068/039	heiss	1	h ei ss
+068/041	haass	1	h aa ss
+068/043	stork	1	s t o r k
+068/045	hass	1	h a ss
+068/047	haas	1	h aa s
+068/049	stork	1	s t o r k
+068/051	has	1	h a s
+068/053	haass	1	h aa ss
+068/055	haasz	1	h aa s z
+068/057	haas	1	h aa s
+068/059	has	1	h a s
+068/061	has	1	h a s
+068/063	stoark	1	s t oa r k
+068/065	stark	1	s t a r k
+068/067	häs	1	h ä s
+068/069	stoark	1	s t oa r k
+068/071	stork	1	s t o r k
+068/073	stork	1	s t o r k
+068/075	stark	1	s t a r k
+068/077	stark	1	s t a r k
+068/079	häs	1	h ä s
+068/081	hess	1	h e ss
+068/083	stark	1	s t a r k
+068/085	stork	1	s t o r k
+068/087	stork	1	s t o r k
+068/089	stark	1	s t a r k
+068/091	schtark	1	sch t a r k
+068/093	stork	1	s t o r k
+068/095	schtark	1	sch t a r k
+068/097	tschorg	1	t sch o r g
+068/099	schorf	1	sch o r f
+068/101	stork	1	s t o r k
+068/103	stark	1	s t a r k
+068/105	grous	1	g r ou s
+068/107	stark	1	s t a r k
+068/109	NA	NA	-
+068/111	stork	1	s t o r k
+068/145	stark	1	s t a r k
+068/147	gruss	1	g r u ss
+068/149	haiss	1	h ai ss
+068/151	stork	1	s t o r k
+068/153	schtork	1	sch t o r k
+068/155	stoork	1	s t oo r k
+068/157	gruss	1	g r u ss
+068/159	stoark	1	s t oa r k
+068/161	schtork	1	sch t o r k
+068/165	heess	1	h ee ss
+069/019	stark	1	s t a r k
+069/023	hes	1	h e s
+069/025	jeliedig	1	j e l ie d i g
+069/027	stork	1	s t o r k
+069/029	woarm	1	w oa r m
+069/031	heess	1	h ee ss
+069/033	hääss	1	h ää ss
+069/035	hass	1	h a ss
+069/037	häss	1	h ä ss
+069/039	haiss	1	h ai ss
+069/041	haass	1	h aa ss
+069/043	haass	1	h aa ss
+069/045	has	1	h a s
+069/047	haass	1	h aa ss
+069/049	haass	1	h aa ss
+069/051	haass	1	h aa ss
+069/053	haass	1	h aa ss
+069/055	haass	1	h aa ss
+069/057	stoak	1	s t oa k
+069/059	hass	1	h a ss
+069/061	hass	1	h a ss
+069/063	stoark	1	s t oa r k
+069/065	stooark	1	s t ooa r k
+069/067	stoark	1	s t oa r k
+069/069	stoark	1	s t oa r k
+069/071	stark	1	s t a r k
+069/073	schtarik	1	sch t a r i k
+069/075	stark	1	s t a r k
+069/077	stark	1	s t a r k
+069/079	storik	1	s t o r i k
+069/081	stark	1	s t a r k
+069/083	stark	1	s t a r k
+069/085	stark	1	s t a r k
+069/087	stark	1	s t a r k
+069/089	storik	1	s t o r i k
+069/091	stoark	1	s t oa r k
+069/093	stark	1	s t a r k
+069/095	schtork	1	sch t o r k
+069/097	schtoark	1	sch t oa r k
+069/099	schtork	1	sch t o r k
+069/101	stork	1	s t o r k
+069/103	stark	1	s t a r k
+069/105	stark	1	s t a r k
+069/107	NA	NA	-
+069/109	stoark	1	s t oa r k
+069/111	schtorg	1	sch t o r g
+069/147	schtoork	1	sch t oo r k
+069/149	häss	1	h ä ss
+069/151	stork	1	s t o r k
+069/153	stork	1	s t o r k
+069/157	schtoark	1	sch t oa r k
+069/159	haiss	1	h ai ss
+069/161	schtork	1	sch t o r k
+069/163	hass	1	h a ss
+069/165	häss	1	h ä ss
+070/019	staark	1	s t aa r k
+070/023	worem	1	w o r e m
+070/025	gledig	1	g l e d i g
+070/027	worem	1	w o r e m
+070/029	worem	1	w o r e m
+070/031	hess	1	h e ss
+070/033	heiss	1	h ei ss
+070/035	glehlig	1	g l eh l i g
+070/037	häss	1	h ä ss
+070/039	arig	1	a r i g
+070/041	hais	1	h ai s
+070/043	has	1	h a s
+070/045	has	1	h a s
+070/047	haass	1	h aa ss
+070/049	stoark	1	s t oa r k
+070/051	hahs	1	h ah s
+070/053	has	1	h a s
+070/055	haas	1	h aa s
+070/057	schtark	1	sch t a r k
+070/059	schtark	1	sch t a r k
+070/061	stark	1	s t a r k
+070/063	häs	1	h ä s
+070/065	stoark	1	s t oa r k
+070/067	stork	1	s t o r k
+070/069	stark	1	s t a r k
+070/071	schtark	1	sch t a r k
+070/073	stark	1	s t a r k
+070/075	org	1	o r g
+070/077	stoark	1	s t oa r k
+070/079	stoark	1	s t oa r k
+070/081	schtork	1	sch t o r k
+070/083	stork	1	s t o r k
+070/085	stork	1	s t o r k
+070/087	schtork	1	sch t o r k
+070/089	stork	1	s t o r k
+070/091	stark	1	s t a r k
+070/093	schtark	1	sch t a r k
+070/095	stork	1	s t o r k
+070/097	schtohrk	1	sch t oh r k
+070/099	tschork	1	t sch o r k
+070/101	hoass	1	h oa ss
+070/103	hoiz	1	h oi z
+070/105	graoss	1	g r ao ss
+070/107	schtark	1	sch t a r k
+070/109	stark	1	s t a r k
+070/111	stork	1	s t o r k
+070/145	stoik	1	s t oi k
+070/147	schtoork	1	sch t oo r k
+070/149	stark	1	s t a r k
+070/151	stork	1	s t o r k
+070/153	schtork	1	sch t o r k
+070/155	hets	1	h e t s
+070/157	stork	1	s t o r k
+070/159	stork	1	s t o r k
+070/161	stork	1	s t o r k
+070/163	heiss	1	h ei ss
+070/165	stark	1	s t a r k
+071/017	staark	1	s t aa r k
+071/019	staork	1	s t ao r k
+071/021	stoork	1	s t oo r k
+071/023	woarm	1	w oa r m
+071/025	woarm	1	w oa r m
+071/027	häs	1	h ä s
+071/029	hees	1	h ee s
+071/031	gledech	1	g l e d e ch
+071/033	hääss	1	h ää ss
+071/035	haiss	1	h ai ss
+071/037	häss	1	h ä ss
+071/039	häss	1	h ä ss
+071/041	häss	1	h ä ss
+071/043	has	1	h a s
+071/045	haass	1	h aa ss
+071/047	haass	1	h aa ss
+071/049	haass	1	h aa ss
+071/051	has	1	h a s
+071/053	haas	1	h aa s
+071/055	hass	1	h a ss
+071/057	stark	1	s t a r k
+071/059	stark	1	s t a r k
+071/063	stark	1	s t a r k
+071/065	staork	1	s t ao r k
+071/067	stark	1	s t a r k
+071/069	stark	1	s t a r k
+071/071	schtark	1	sch t a r k
+071/073	stark	1	s t a r k
+071/075	stark	1	s t a r k
+071/077	stoaik	1	s t oai k
+071/079	stark	1	s t a r k
+071/081	stark	1	s t a r k
+071/083	stork	1	s t o r k
+071/085	stark	1	s t a r k
+071/087	stork	1	s t o r k
+071/089	stoark	1	s t oa r k
+071/091	stoark	1	s t oa r k
+071/093	staak	1	s t aa k
+071/095	schtoag	1	sch t oa g
+071/097	schdoark	1	sch d oa r k
+071/099	stork	1	s t o r k
+071/101	schtork	1	sch t o r k
+071/103	schorfs	1	sch o r f s
+071/105	schtorg	1	sch t o r g
+071/145	NA	NA	-
+071/147	schtork	1	sch t o r k
+071/149	stork	1	s t o r k
+071/151	stork	1	s t o r k
+071/153	NA	NA	-
+071/155	stork	1	s t o r k
+071/157	stork	1	s t o r k
+071/159	stork	1	s t o r k
+071/161	häss	1	h ä ss
+071/163	gross	1	g r o ss
+071/177	schtuak	1	sch t ua k
+071/179	arig	1	a r i g
+072/017	starek	1	s t a r e k
+072/019	staarek	1	s t aa r e k
+072/021	schtaark	1	sch t aa r k
+072/023	staark	1	s t aa r k
+072/025	woam	1	w oa m
+072/027	kläideg	1	k l äi d e g
+072/029	wourm	1	w ou r m
+072/031	heess	1	h ee ss
+072/033	häss	1	h ä ss
+072/035	häss	1	h ä ss
+072/037	warem	1	w a r e m
+072/039	häs	1	h ä s
+072/041	heess	1	h ee ss
+072/043	heess	1	h ee ss
+072/045	haas	1	h aa s
+072/047	hahss	1	h ah ss
+072/049	haass	1	h aa ss
+072/051	haas	1	h aa s
+072/053	haas	1	h aa s
+072/055	haas	1	h aa s
+072/057	schtark	1	sch t a r k
+072/059	stark	1	s t a r k
+072/061	schtark	1	sch t a r k
+072/063	stark	1	s t a r k
+072/065	staark	1	s t aa r k
+072/067	stark	1	s t a r k
+072/069	stark	1	s t a r k
+072/071	starik	1	s t a r i k
+072/073	stark	1	s t a r k
+072/075	stark	1	s t a r k
+072/077	stark	1	s t a r k
+072/079	staark	1	s t aa r k
+072/081	schtork	1	sch t o r k
+072/083	stark	1	s t a r k
+072/085	stark	1	s t a r k
+072/087	stoark	1	s t oa r k
+072/089	stark	1	s t a r k
+072/091	stoark	1	s t oa r k
+072/093	stark	1	s t a r k
+072/095	schtark	1	sch t a r k
+072/097	schtark	1	sch t a r k
+072/099	schtork	1	sch t o r k
+072/101	schorf	1	sch o r f
+072/103	schtork	1	sch t o r k
+072/105	schtork	1	sch t o r k
+072/107	stork	1	s t o r k
+072/145	gech	1	g e ch
+072/147	stork	1	s t o r k
+072/149	schtark	1	sch t a r k
+072/151	stark	1	s t a r k
+072/153	hetzich	1	h e t z i ch
+072/155	stork	1	s t o r k
+072/157	NA	NA	-
+072/159	stoark	1	s t oa r k
+072/161	stork	1	s t o r k
+072/177	stuok	1	s t uo k
+072/179	stark	1	s t a r k
+072/181	stork	1	s t o r k
+073/017	staark	1	s t aa r k
+073/019	staark	1	s t aa r k
+073/021	schtaark	1	sch t aa r k
+073/023	staark	1	s t aa r k
+073/025	stoork	1	s t oo r k
+073/027	hass	1	h a ss
+073/029	häss	1	h ä ss
+073/031	hääss	1	h ää ss
+073/033	häss	1	h ä ss
+073/035	hääss	1	h ää ss
+073/037	hees	1	h ee s
+073/039	heess	1	h ee ss
+073/041	hääss	1	h ää ss
+073/043	haass	1	h aa ss
+073/045	haas	1	h aa s
+073/047	haas	1	h aa s
+073/049	hass	1	h a ss
+073/051	haas	1	h aa s
+073/053	haas	1	h aa s
+073/055	hass	1	h a ss
+073/057	haass	1	h aa ss
+073/059	starik	1	s t a r i k
+073/061	starik	1	s t a r i k
+073/063	stark	1	s t a r k
+073/065	stark	1	s t a r k
+073/067	schtark	1	sch t a r k
+073/069	stark	1	s t a r k
+073/071	stark	1	s t a r k
+073/073	stark	1	s t a r k
+073/075	schtark	1	sch t a r k
+073/077	gross	1	g r o ss
+073/079	stoork	1	s t oo r k
+073/081	stork	1	s t o r k
+073/083	stoark	1	s t oa r k
+073/085	stork	1	s t o r k
+073/087	stark	1	s t a r k
+073/089	stork	1	s t o r k
+073/091	staok	1	s t ao k
+073/093	schtoak	1	sch t oa k
+073/095	schtoark	1	sch t oa r k
+073/097	stoak	1	s t oa k
+073/099	stork	1	s t o r k
+073/101	stork	1	s t o r k
+073/103	stork	1	s t o r k
+073/105	stork	1	s t o r k
+073/107	stork	1	s t o r k
+073/145	stoark	1	s t oa r k
+073/147	stork	1	s t o r k
+073/149	stark	1	s t a r k
+073/151	stark	1	s t a r k
+073/153	sthtork	1	s t h t o r k
+073/155	stork	1	s t o r k
+073/157	gach	1	g a ch
+073/159	NA	NA	-
+073/161	stork	1	s t o r k
+073/163	stoik	1	s t oi k
+073/165	stärk	1	s t ä r k
+073/175	stuork	1	s t uo r k
+073/177	schtork	1	sch t o r k
+074/019	schtuuark	1	sch t uua r k
+074/021	staarek	1	s t aa r e k
+074/023	schtuark	1	sch t ua r k
+074/025	stark	1	s t a r k
+074/027	gliehdig	1	g l ieh d i g
+074/029	warm	1	w a r m
+074/031	hähss	1	h äh ss
+074/033	häs	1	h ä s
+074/035	eiss	1	ei ss
+074/037	heess	1	h ee ss
+074/039	häss	1	h ä ss
+074/041	stärk	1	s t ä r k
+074/043	schterk	1	sch t e r k
+074/045	hass	1	h a ss
+074/047	haass	1	h aa ss
+074/049	haass	1	h aa ss
+074/051	haass	1	h aa ss
+074/053	haas	1	h aa s
+074/055	haas	1	h aa s
+074/057	haas	1	h aa s
+074/059	schtork	1	sch t o r k
+074/061	stork	1	s t o r k
+074/063	schtork	1	sch t o r k
+074/065	schtarig	1	sch t a r i g
+074/067	stoark	1	s t oa r k
+074/069	stark	1	s t a r k
+074/071	staark	1	s t aa r k
+074/073	stark	1	s t a r k
+074/075	schtark	1	sch t a r k
+074/077	schtark	1	sch t a r k
+074/079	schtark	1	sch t a r k
+074/081	stark	1	s t a r k
+074/083	schtark	1	sch t a r k
+074/085	schtarg	1	sch t a r g
+074/087	schtark	1	sch t a r k
+074/089	stork	1	s t o r k
+074/091	staaak	1	s t aaa k
+074/093	schtoak	1	sch t oa k
+074/095	schtark	1	sch t a r k
+074/097	schtark	1	sch t a r k
+074/099	schtoark	1	sch t oa r k
+074/101	NA	NA	-
+074/103	stork	1	s t o r k
+074/105	schtork	1	sch t o r k
+074/107	stoark	1	s t oa r k
+074/109	stork	1	s t o r k
+074/145	stoork	1	s t oo r k
+074/147	NA	NA	-
+074/149	stark	1	s t a r k
+074/153	stork	1	s t o r k
+074/155	NA	NA	-
+074/157	gach	1	g a ch
+074/159	stoek	1	s t oe k
+074/161	schorf	1	sch o r f
+074/163	stoäk	1	s t oä k
+074/165	stork	1	s t o r k
+075/019	staark	1	s t aa r k
+075/021	starek	1	s t a r e k
+075/023	stoaark	1	s t oaa r k
+075/025	staark	1	s t aa r k
+075/027	häiss	1	h äi ss
+075/029	häss	1	h ä ss
+075/031	worem	1	w o r e m
+075/033	häiss	1	h äi ss
+075/035	häiss	1	h äi ss
+075/037	hess	1	h e ss
+075/039	häss	1	h ä ss
+075/041	stärk	1	s t ä r k
+075/043	arig	1	a r i g
+075/045	sterk	1	s t e r k
+075/047	haas	1	h aa s
+075/049	häs	1	h ä s
+075/051	has	1	h a s
+075/053	has	1	h a s
+075/055	haass	1	h aa ss
+075/057	haas	1	h aa s
+075/059	schtark	1	sch t a r k
+075/061	starik	1	s t a r i k
+075/063	starik	1	s t a r i k
+075/065	starik	1	s t a r i k
+075/067	stoark	1	s t oa r k
+075/069	stark	1	s t a r k
+075/071	stark	1	s t a r k
+075/073	schtark	1	sch t a r k
+075/075	stark	1	s t a r k
+075/077	schtark	1	sch t a r k
+075/079	stark	1	s t a r k
+075/081	schork	1	sch o r k
+075/083	stoark	1	s t oa r k
+075/085	schtoark	1	sch t oa r k
+075/087	stark	1	s t a r k
+075/089	stoark	1	s t oa r k
+075/091	stark	1	s t a r k
+075/093	schtoak	1	sch t oa k
+075/095	schtoak	1	sch t oa k
+075/097	schtark	1	sch t a r k
+075/099	schtark	1	sch t a r k
+075/101	stork	1	s t o r k
+075/103	schtork	1	sch t o r k
+075/105	stork	1	s t o r k
+075/107	stork	1	s t o r k
+075/135	schtork	1	sch t o r k
+075/145	stoark	1	s t oa r k
+075/147	stork	1	s t o r k
+075/149	NA	NA	-
+075/155	stork	1	s t o r k
+075/157	stork	1	s t o r k
+075/159	stoäk	1	s t oä k
+075/161	schtork	1	sch t o r k
+075/163	stoik	1	s t oi k
+075/165	grouss	1	g r ou ss
+076/019	starck	1	s t a r ck
+076/021	stoark	1	s t oa r k
+076/023	stoark	1	s t oa r k
+076/025	schtarreck	1	sch t a rr e ck
+076/027	häss	1	h ä ss
+076/029	wärm	1	w ä r m
+076/033	häss	1	h ä ss
+076/035	häss	1	h ä ss
+076/037	stark	1	s t a r k
+076/039	sterk	1	s t e r k
+076/041	stark	1	s t a r k
+076/043	schderk	1	sch d e r k
+076/045	stärk	1	s t ä r k
+076/047	stark	1	s t a r k
+076/049	schdarik	1	sch d a r i k
+076/051	starig	1	s t a r i g
+076/053	stark	1	s t a r k
+076/055	häs	1	h ä s
+076/057	starikg	1	s t a r i k g
+076/059	starik	1	s t a r i k
+076/061	schaik	1	sch ai k
+076/063	schdorig	1	sch d o r i g
+076/065	schtorik	1	sch t o r i k
+076/067	storik	1	s t o r i k
+076/069	storik	1	s t o r i k
+076/071	stark	1	s t a r k
+076/073	haas	1	h aa s
+076/075	stark	1	s t a r k
+076/077	schtark	1	sch t a r k
+076/079	schtark	1	sch t a r k
+076/081	stark	1	s t a r k
+076/083	schtark	1	sch t a r k
+076/085	stark	1	s t a r k
+076/087	stark	1	s t a r k
+076/089	stark	1	s t a r k
+076/091	schdarg	1	sch d a r g
+076/093	schtooag	1	sch t ooa g
+076/095	stark	1	s t a r k
+076/097	schdoak	1	sch d oa k
+076/099	schtark	1	sch t a r k
+076/101	stoak	1	s t oa k
+076/103	schtork	1	sch t o r k
+076/135	stork	1	s t o r k
+076/137	schtork	1	sch t o r k
+076/149	stork	1	s t o r k
+076/151	schtork	1	sch t o r k
+076/155	stork	1	s t o r k
+076/161	schtoeg	1	sch t oe g
+076/163	stoek	1	s t oe k
+076/165	stoerk	1	s t oe r k
+077/019	stoark	1	s t oa r k
+077/021	stooark	1	s t ooa r k
+077/023	stooaark	1	s t ooaa r k
+077/025	schtark	1	sch t a r k
+077/027	heiss	1	h ei ss
+077/029	häss	1	h ä ss
+077/031	häss	1	h ä ss
+077/033	heuss	1	h eu ss
+077/035	hääss	1	h ää ss
+077/037	schtark	1	sch t a r k
+077/039	sterk	1	s t e r k
+077/041	schtark	1	sch t a r k
+077/043	schdark	1	sch d a r k
+077/047	starik	1	s t a r i k
+077/049	schdarg	1	sch d a r g
+077/051	schdarrig	1	sch d a rr i g
+077/053	stark	1	s t a r k
+077/055	staark	1	s t aa r k
+077/057	starik	1	s t a r i k
+077/059	schdark	1	sch d a r k
+077/061	schtaarik	1	sch t aa r i k
+077/063	stoorik	1	s t oo r i k
+077/065	stork	1	s t o r k
+077/067	stoork	1	s t oo r k
+077/069	storik	1	s t o r i k
+077/071	stark	1	s t a r k
+077/073	schtark	1	sch t a r k
+077/075	schtark	1	sch t a r k
+077/077	stark	1	s t a r k
+077/079	schtark	1	sch t a r k
+077/081	stark	1	s t a r k
+077/083	schtark	1	sch t a r k
+077/085	stoak	1	s t oa k
+077/087	schtark	1	sch t a r k
+077/089	stoark	1	s t oa r k
+077/091	stoark	1	s t oa r k
+077/093	schdoark	1	sch d oa r k
+077/095	stoark	1	s t oa r k
+077/097	staak	1	s t aa k
+077/099	schtooag	1	sch t ooa g
+077/101	schork	1	sch o r k
+077/103	stork	1	s t o r k
+077/135	stook	1	s t oo k
+077/137	stork	1	s t o r k
+078/021	stuark	1	s t ua r k
+078/023	stark	1	s t a r k
+078/025	stark	1	s t a r k
+078/027	schtork	1	sch t o r k
+078/029	heiss	1	h ei ss
+078/031	heiss	1	h ei ss
+078/033	heiss	1	h ei ss
+078/035	hääss	1	h ää ss
+078/037	schdärk	1	sch d ä r k
+078/039	stärk	1	s t ä r k
+078/041	stark	1	s t a r k
+078/045	stark	1	s t a r k
+078/047	schtark	1	sch t a r k
+078/049	stark	1	s t a r k
+078/051	schdarrig	1	sch d a rr i g
+078/053	schdarg	1	sch d a r g
+078/055	stark	1	s t a r k
+078/057	stark	1	s t a r k
+078/059	staarik	1	s t aa r i k
+078/061	schtarig	1	sch t a r i g
+078/063	schtorik	1	sch t o r i k
+078/065	schtorig	1	sch t o r i g
+078/067	schoorik	1	sch oo r i k
+078/069	stork	1	s t o r k
+078/071	stoorik	1	s t oo r i k
+078/073	schtark	1	sch t a r k
+078/075	stark	1	s t a r k
+078/077	arg	1	a r g
+078/079	stark	1	s t a r k
+078/081	schtark	1	sch t a r k
+078/083	stark	1	s t a r k
+078/085	stoak	1	s t oa k
+078/087	schdark	1	sch d a r k
+078/089	schtarg	1	sch t a r g
+078/091	schdoak	1	sch d oa k
+078/093	schtooak	1	sch t ooa k
+078/095	scharg	1	sch a r g
+078/097	schdoark	1	sch d oa r k
+078/099	schtoark	1	sch t oa r k
+078/101	NA	NA	-
+078/103	stoak	1	s t oa k
+078/105	schoaf	1	sch oa f
+078/135	stark	1	s t a r k
+078/193	stark	1	s t a r k
+079/021	stark	1	s t a r k
+079/023	starrk	1	s t a rr k
+079/025	staark	1	s t aa r k
+079/027	stark	1	s t a r k
+079/029	heiss	1	h ei ss
+079/031	heiss	1	h ei ss
+079/033	heiss	1	h ei ss
+079/035	schtark	1	sch t a r k
+079/037	stark	1	s t a r k
+079/039	stark	1	s t a r k
+079/043	stark	1	s t a r k
+079/045	schdark	1	sch d a r k
+079/047	stark	1	s t a r k
+079/049	schtark	1	sch t a r k
+079/051	schdarg	1	sch d a r g
+079/053	schtarik	1	sch t a r i k
+079/055	schdark	1	sch d a r k
+079/057	schtarig	1	sch t a r i g
+079/059	schdaarik	1	sch d aa r i k
+079/061	schdarg	1	sch d a r g
+079/063	schdork	1	sch d o r k
+079/065	storig	1	s t o r i g
+079/067	stoork	1	s t oo r k
+079/069	orich	1	o r i ch
+079/071	stark	1	s t a r k
+079/073	stark	1	s t a r k
+079/075	stark	1	s t a r k
+079/077	stark	1	s t a r k
+079/079	schtark	1	sch t a r k
+079/081	stork	1	s t o r k
+079/083	gräus	1	g r äu s
+079/085	schtoak	1	sch t oa k
+079/087	stoark	1	s t oa r k
+079/089	stark	1	s t a r k
+079/091	schtoak	1	sch t oa k
+079/093	stark	1	s t a r k
+079/095	schoark	1	sch oa r k
+079/097	schtark	1	sch t a r k
+079/099	stoark	1	s t oa r k
+079/101	schtoag	1	sch t oa g
+079/103	schtarg	1	sch t a r g
+079/105	grouss	1	g r ou ss
+079/107	schtork	1	sch t o r k
+079/133	stork	1	s t o r k
+079/135	stork	1	s t o r k
+079/193	stork	1	s t o r k
+079/195	stork	1	s t o r k
+079/197	guiendis	1	g uie n d i s
+080/025	stark	1	s t a r k
+080/027	stark	1	s t a r k
+080/029	haiss	1	h ai ss
+080/031	heiss	1	h ei ss
+080/033	stark	1	s t a r k
+080/035	schderck	1	sch d e r ck
+080/037	schdark	1	sch d a r k
+080/039	stark	1	s t a r k
+080/041	schtark	1	sch t a r k
+080/043	stark	1	s t a r k
+080/045	schdark	1	sch d a r k
+080/047	schtaark	1	sch t aa r k
+080/049	schdark	1	sch d a r k
+080/051	schdarig	1	sch d a r i g
+080/053	schdarrik	1	sch d a rr i k
+080/055	schtarg	1	sch t a r g
+080/057	starick	1	s t a r i ck
+080/059	schdarrig	1	sch d a rr i g
+080/061	schdark	1	sch d a r k
+080/063	schdarg	1	sch d a r g
+080/065	schdork	1	sch d o r k
+080/067	sdoorig	1	s d oo r i g
+080/069	stdorik	1	s t d o r i k
+080/071	stark	1	s t a r k
+080/073	schtark	1	sch t a r k
+080/075	schtark	1	sch t a r k
+080/077	schtark	1	sch t a r k
+080/079	stark	1	s t a r k
+080/081	stark	1	s t a r k
+080/083	stark	1	s t a r k
+080/085	staark	1	s t aa r k
+080/087	schtoak	1	sch t oa k
+080/089	stoak	1	s t oa k
+080/091	schtark	1	sch t a r k
+080/093	schtoak	1	sch t oa k
+080/095	schtarg	1	sch t a r g
+080/097	schdoarg	1	sch d oa r g
+080/099	schtuak	1	sch t ua k
+080/101	schdoag	1	sch d oa g
+080/103	schtoak	1	sch t oa k
+080/105	schtoach	1	sch t oa ch
+080/107	stork	1	s t o r k
+080/109	NA	NA	-
+080/127	stoak	1	s t oa k
+080/147	stoak	1	s t oa k
+080/151	stork	1	s t o r k
+080/153	NA	NA	-
+080/193	stork	1	s t o r k
+080/195	stork	1	s t o r k
+081/025	schtark	1	sch t a r k
+081/027	stark	1	s t a r k
+081/029	stark	1	s t a r k
+081/031	stark	1	s t a r k
+081/033	stärk	1	s t ä r k
+081/035	stark	1	s t a r k
+081/037	stark	1	s t a r k
+081/039	stark	1	s t a r k
+081/043	schdark	1	sch d a r k
+081/045	stark	1	s t a r k
+081/047	starik	1	s t a r i k
+081/049	schtark	1	sch t a r k
+081/051	starik	1	s t a r i k
+081/053	schdark	1	sch d a r k
+081/055	schdark	1	sch d a r k
+081/057	schdarek	1	sch d a r e k
+081/059	schtark	1	sch t a r k
+081/061	starig	1	s t a r i g
+081/063	stark	1	s t a r k
+081/065	stark	1	s t a r k
+081/067	schtoorik	1	sch t oo r i k
+081/069	schdorig	1	sch d o r i g
+081/071	schdorig	1	sch d o r i g
+081/073	schtark	1	sch t a r k
+081/075	schtark	1	sch t a r k
+081/077	stark	1	s t a r k
+081/079	schark	1	sch a r k
+081/081	staark	1	s t aa r k
+081/083	stark	1	s t a r k
+081/085	schtoak	1	sch t oa k
+081/087	stark	1	s t a r k
+081/089	schdooag	1	sch d ooa g
+081/091	stoak	1	s t oa k
+081/093	staak	1	s t aa k
+081/095	stoark	1	s t oa r k
+081/097	stark	1	s t a r k
+081/099	schtoark	1	sch t oa r k
+081/101	woaarm	1	w oaa r m
+081/103	stoak	1	s t oa k
+081/105	stoaark	1	s t oaa r k
+081/107	stook	1	s t oo k
+081/109	grouss	1	g r ou ss
+081/111	NA	NA	-
+081/127	NA	NA	-
+081/129	groiss	1	g r oi ss
+081/133	stork	1	s t o r k
+081/147	gaach	1	g aa ch
+081/191	stork	1	s t o r k
+081/193	schtark	1	sch t a r k
+081/195	schtork	1	sch t o r k
+082/027	staark	1	s t aa r k
+082/029	schtark	1	sch t a r k
+082/031	stark	1	s t a r k
+082/033	schtark	1	sch t a r k
+082/035	stark	1	s t a r k
+082/037	stark	1	s t a r k
+082/039	starg	1	s t a r g
+082/041	schdark	1	sch d a r k
+082/043	stark	1	s t a r k
+082/045	stark	1	s t a r k
+082/047	schtark	1	sch t a r k
+082/049	schtarik	1	sch t a r i k
+082/051	schtarik	1	sch t a r i k
+082/053	schdarg	1	sch d a r g
+082/055	stark	1	s t a r k
+082/057	stark	1	s t a r k
+082/059	stareck	1	s t a r e ck
+082/061	schtark	1	sch t a r k
+082/063	starig	1	s t a r i g
+082/065	stork	1	s t o r k
+082/067	schtorch	1	sch t o r ch
+082/069	starak	1	s t a r a k
+082/071	schtaark	1	sch t aa r k
+082/073	schtaark	1	sch t aa r k
+082/075	staark	1	s t aa r k
+082/077	schdark	1	sch d a r k
+082/079	stark	1	s t a r k
+082/081	schtark	1	sch t a r k
+082/083	schtark	1	sch t a r k
+082/085	schark	1	sch a r k
+082/087	schtoark	1	sch t oa r k
+082/089	schtoarg	1	sch t oa r g
+082/091	stoak	1	s t oa k
+082/093	stoak	1	s t oa k
+082/095	stoak	1	s t oa k
+082/097	schtoag	1	sch t oa g
+082/099	stork	1	s t o r k
+082/101	stoak	1	s t oa k
+082/103	stoak	1	s t oa k
+082/105	stoak	1	s t oa k
+082/107	schdoag	1	sch d oa g
+082/111	stoark	1	s t oa r k
+082/113	stoak	1	s t oa k
+082/117	gaach	1	g aa ch
+082/129	hoas	1	h oa s
+082/131	NA	NA	-
+082/133	gach	1	g a ch
+082/135	schtork	1	sch t o r k
+082/145	schtork	1	sch t o r k
+082/147	stork	1	s t o r k
+082/191	stark	1	s t a r k
+082/195	stark	1	s t a r k
+083/027	stark	1	s t a r k
+083/029	schtark	1	sch t a r k
+083/031	stark	1	s t a r k
+083/033	schtark	1	sch t a r k
+083/035	starick	1	s t a r i ck
+083/037	stark	1	s t a r k
+083/039	schtarik	1	sch t a r i k
+083/041	schdarik	1	sch d a r i k
+083/043	schdark	1	sch d a r k
+083/045	stark	1	s t a r k
+083/047	stark	1	s t a r k
+083/049	starik	1	s t a r i k
+083/051	schtark	1	sch t a r k
+083/053	schdarg	1	sch d a r g
+083/055	starg	1	s t a r g
+083/057	schdarg	1	sch d a r g
+083/059	schdarek	1	sch d a r e k
+083/061	schdarg	1	sch d a r g
+083/063	schtark	1	sch t a r k
+083/065	schdark	1	sch d a r k
+083/067	schtaark	1	sch t aa r k
+083/069	aarg	1	aa r g
+083/071	groass	1	g r oa ss
+083/073	starak	1	s t a r a k
+083/075	schtark	1	sch t a r k
+083/077	arg	1	a r g
+083/079	schtark	1	sch t a r k
+083/081	stark	1	s t a r k
+083/083	schark	1	sch a r k
+083/085	schtoag	1	sch t oa g
+083/087	schdaarg	1	sch d aa r g
+083/089	stork	1	s t o r k
+083/091	stark	1	s t a r k
+083/093	schtoark	1	sch t oa r k
+083/095	schdoak	1	sch d oa k
+083/097	stoark	1	s t oa r k
+083/099	schdoag	1	sch d oa g
+083/101	stoark	1	s t oa r k
+083/103	schtoag	1	sch t oa g
+083/105	stoag	1	s t oa g
+083/107	stark	1	s t a r k
+083/111	schtoak	1	sch t oa k
+083/113	schtoak	1	sch t oa k
+083/115	stork	1	s t o r k
+083/117	groiss	1	g r oi ss
+083/119	stoak	1	s t oa k
+083/121	gach	1	g a ch
+083/129	stark	1	s t a r k
+083/131	schoak	1	sch oa k
+083/133	stork	1	s t o r k
+083/135	stoark	1	s t oa r k
+083/139	gross	1	g r o ss
+083/143	stork	1	s t o r k
+083/145	stork	1	s t o r k
+083/147	stork	1	s t o r k
+083/149	stork	1	s t o r k
+083/173	schtoek	1	sch t oe k
+083/195	stark	1	s t a r k
+084/031	stark	1	s t a r k
+084/033	stark	1	s t a r k
+084/035	stark	1	s t a r k
+084/037	stark	1	s t a r k
+084/039	storick	1	s t o r i ck
+084/041	storik	1	s t o r i k
+084/043	starick	1	s t a r i ck
+084/045	starik	1	s t a r i k
+084/047	schdarig	1	sch d a r i g
+084/049	schdarig	1	sch d a r i g
+084/051	schdark	1	sch d a r k
+084/053	stark	1	s t a r k
+084/055	stark	1	s t a r k
+084/057	schdarg	1	sch d a r g
+084/059	stark	1	s t a r k
+084/061	schdarek	1	sch d a r e k
+084/063	schdark	1	sch d a r k
+084/065	schdarag	1	sch d a r a g
+084/067	schtark	1	sch t a r k
+084/069	starak	1	s t a r a k
+084/071	schtark	1	sch t a r k
+084/073	schtaarak	1	sch t aa r a k
+084/075	schtark	1	sch t a r k
+084/077	stark	1	s t a r k
+084/079	stark	1	s t a r k
+084/081	stoark	1	s t oa r k
+084/083	stark	1	s t a r k
+084/085	schtaarg	1	sch t aa r g
+084/087	schtoak	1	sch t oa k
+084/089	stoarg	1	s t oa r g
+084/091	grous	1	g r ou s
+084/093	stoak	1	s t oa k
+084/095	schtoak	1	sch t oa k
+084/097	stoak	1	s t oa k
+084/099	stoark	1	s t oa r k
+084/101	stag	1	s t a g
+084/103	schtoag	1	sch t oa g
+084/105	schtarg	1	sch t a r g
+084/107	stoak	1	s t oa k
+084/109	schtoag	1	sch t oa g
+084/111	schtoark	1	sch t oa r k
+084/113	stoak	1	s t oa k
+084/115	schtork	1	sch t o r k
+084/117	schtork	1	sch t o r k
+084/119	stork	1	s t o r k
+084/129	stoark	1	s t oa r k
+084/131	NA	NA	-
+084/133	stoak	1	s t oa k
+084/135	stork	1	s t o r k
+084/137	schtork	1	sch t o r k
+084/139	gross	1	g r o ss
+084/141	stork	1	s t o r k
+084/143	stoak	1	s t oa k
+084/145	stork	1	s t o r k
+084/147	stork	1	s t o r k
+084/149	stoak	1	s t oa k
+084/171	stoäk	1	s t oä k
+084/173	stuek	1	s t ue k
+084/195	stark	1	s t a r k
+085/031	schtark	1	sch t a r k
+085/033	stark	1	s t a r k
+085/035	stark	1	s t a r k
+085/037	starik	1	s t a r i k
+085/039	aari	1	aa r i
+085/041	starik	1	s t a r i k
+085/043	gross	1	g r o ss
+085/045	schdarik	1	sch d a r i k
+085/047	schtark	1	sch t a r k
+085/049	schdarg	1	sch d a r g
+085/051	starg	1	s t a r g
+085/053	schtark	1	sch t a r k
+085/055	schtarek	1	sch t a r e k
+085/057	stark	1	s t a r k
+085/059	schtark	1	sch t a r k
+085/061	schdark	1	sch d a r k
+085/063	schdarg	1	sch d a r g
+085/065	schtaark	1	sch t aa r k
+085/067	arg	1	a r g
+085/069	stark	1	s t a r k
+085/071	stark	1	s t a r k
+085/073	schdaark	1	sch d aa r k
+085/075	schtaark	1	sch t aa r k
+085/077	schtaarak	1	sch t aa r a k
+085/079	stark	1	s t a r k
+085/081	stark	1	s t a r k
+085/083	stark	1	s t a r k
+085/085	stork	1	s t o r k
+085/087	stark	1	s t a r k
+085/089	schtark	1	sch t a r k
+085/091	schtark	1	sch t a r k
+085/093	schtark	1	sch t a r k
+085/095	schdarg	1	sch d a r g
+085/097	schdarg	1	sch d a r g
+085/101	stark	1	s t a r k
+085/103	zvüll	1	z v ü ll
+085/105	schdoag	1	sch d oa g
+085/107	stark	1	s t a r k
+085/109	schdoag	1	sch d oa g
+085/111	stoak	1	s t oa k
+085/113	stark	1	s t a r k
+085/115	stoak	1	s t oa k
+085/117	gah	1	g ah
+085/119	stoak	1	s t oa k
+085/121	stork	1	s t o r k
+085/123	NA	NA	-
+085/125	stoak	1	s t oa k
+085/127	stoark	1	s t oa r k
+085/129	stork	1	s t o r k
+085/131	stoak	1	s t oa k
+085/133	schtoak	1	sch t oa k
+085/135	gross	1	g r o ss
+085/137	schtork	1	sch t o r k
+085/139	stork	1	s t o r k
+085/141	stoak	1	s t oa k
+085/143	stoak	1	s t oa k
+085/145	stork	1	s t o r k
+085/147	stork	1	s t o r k
+085/149	stork	1	s t o r k
+085/175	schtaoek	1	sch t aoe k
+085/193	schtark	1	sch t a r k
+085/197	schtark	1	sch t a r k
+086/033	stark	1	s t a r k
+086/035	stoarik	1	s t oa r i k
+086/037	schtarik	1	sch t a r i k
+086/039	stork	1	s t o r k
+086/041	schtorik	1	sch t o r i k
+086/043	stork	1	s t o r k
+086/045	schtark	1	sch t a r k
+086/047	schdarg	1	sch d a r g
+086/049	stark	1	s t a r k
+086/051	areg	1	a r e g
+086/053	schtarek	1	sch t a r e k
+086/055	schdark	1	sch d a r k
+086/057	stark	1	s t a r k
+086/059	schdarg	1	sch d a r g
+086/061	stark	1	s t a r k
+086/063	schdarg	1	sch d a r g
+086/065	schtark	1	sch t a r k
+086/067	staark	1	s t aa r k
+086/069	schtaark	1	sch t aa r k
+086/071	starg	1	s t a r g
+086/073	schtark	1	sch t a r k
+086/075	schtaark	1	sch t aa r k
+086/077	schark	1	sch a r k
+086/079	schtark	1	sch t a r k
+086/081	schtark	1	sch t a r k
+086/083	stark	1	s t a r k
+086/085	NA	NA	-
+086/087	schdarg	1	sch d a r g
+086/089	schdarg	1	sch d a r g
+086/091	stark	1	s t a r k
+086/093	stoarg	1	s t oa r g
+086/095	schdarg	1	sch d a r g
+086/097	schoark	1	sch oa r k
+086/099	stoak	1	s t oa k
+086/101	schtark	1	sch t a r k
+086/103	stoark	1	s t oa r k
+086/105	schtoag	1	sch t oa g
+086/107	taok	1	t ao k
+086/109	stoak	1	s t oa k
+086/111	schtoak	1	sch t oa k
+086/113	stark	1	s t a r k
+086/115	stork	1	s t o r k
+086/117	stoak	1	s t oa k
+086/119	stoak	1	s t oa k
+086/121	schtoak	1	sch t oa k
+086/123	schtork	1	sch t o r k
+086/125	groiss	1	g r oi ss
+086/127	stork	1	s t o r k
+086/129	stork	1	s t o r k
+086/131	stork	1	s t o r k
+086/133	stark	1	s t a r k
+086/135	gach	1	g a ch
+086/137	stork	1	s t o r k
+086/139	stork	1	s t o r k
+086/141	schtoak	1	sch t oa k
+086/143	schtoak	1	sch t oa k
+086/145	stork	1	s t o r k
+086/147	schtork	1	sch t o r k
+086/149	stark	1	s t a r k
+086/151	stoak	1	s t oa k
+086/175	schtauak	1	sch t aua k
+086/197	stoak	1	s t oa k
+086/199	stark	1	s t a r k
+087/033	stark	1	s t a r k
+087/035	starick	1	s t a r i ck
+087/037	storick	1	s t o r i ck
+087/039	storik	1	s t o r i k
+087/041	schtark	1	sch t a r k
+087/043	stark	1	s t a r k
+087/045	schtark	1	sch t a r k
+087/049	schtark	1	sch t a r k
+087/051	schtaerek	1	sch t ae r e k
+087/053	schdareg	1	sch d a r e g
+087/055	schtark	1	sch t a r k
+087/057	schdarak	1	sch d a r a k
+087/059	stark	1	s t a r k
+087/061	schtark	1	sch t a r k
+087/063	stark	1	s t a r k
+087/065	grauss	1	g r au ss
+087/067	schtaark	1	sch t aa r k
+087/069	schdaarg	1	sch d aa r g
+087/071	schdaarg	1	sch d aa r g
+087/073	schtarg	1	sch t a r g
+087/075	schtark	1	sch t a r k
+087/077	schtarg	1	sch t a r g
+087/079	groass	1	g r oa ss
+087/081	stark	1	s t a r k
+087/083	stark	1	s t a r k
+087/085	grouss	1	g r ou ss
+087/087	schdarg	1	sch d a r g
+087/089	grous	1	g r ou s
+087/091	stark	1	s t a r k
+087/093	schtark	1	sch t a r k
+087/095	schtark	1	sch t a r k
+087/097	schtoak	1	sch t oa k
+087/099	stooag	1	s t ooa g
+087/101	schdark	1	sch d a r k
+087/103	stark	1	s t a r k
+087/105	schtorg	1	sch t o r g
+087/107	groass	1	g r oa ss
+087/109	stoag	1	s t oa g
+087/111	schdoag	1	sch d oa g
+087/113	schdoak	1	sch d oa k
+087/115	hoas	1	h oa s
+087/117	stoak	1	s t oa k
+087/119	schtork	1	sch t o r k
+087/121	schtoaag	1	sch t oaa g
+087/123	stoak	1	s t oa k
+087/125	stork	1	s t o r k
+087/127	stoak	1	s t oa k
+087/129	stork	1	s t o r k
+087/133	stoagg	1	s t oa gg
+087/135	stork	1	s t o r k
+087/137	stork	1	s t o r k
+087/139	stoak	1	s t oa k
+087/141	stork	1	s t o r k
+087/143	gach	1	g a ch
+087/145	schtoork	1	sch t oo r k
+087/147	schtork	1	sch t o r k
+087/149	stoak	1	s t oa k
+087/151	stork	1	s t o r k
+088/035	storrick	1	s t o rr i ck
+088/037	schtoorik	1	sch t oo r i k
+088/039	schdorik	1	sch d o r i k
+088/041	storik	1	s t o r i k
+088/043	schdarg	1	sch d a r g
+088/045	stark	1	s t a r k
+088/047	schtark	1	sch t a r k
+088/049	schdark	1	sch d a r k
+088/051	schdark	1	sch d a r k
+088/053	schtark	1	sch t a r k
+088/055	schdark	1	sch d a r k
+088/057	schdarg	1	sch d a r g
+088/059	schtark	1	sch t a r k
+088/061	schdarg	1	sch d a r g
+088/063	stark	1	s t a r k
+088/065	schtark	1	sch t a r k
+088/067	grauss	1	g r au ss
+088/069	schtaark	1	sch t aa r k
+088/071	stooerk	1	s t ooe r k
+088/073	starg	1	s t a r g
+088/075	schdaarg	1	sch d aa r g
+088/077	schtarg	1	sch t a r g
+088/079	scharg	1	sch a r g
+088/081	stark	1	s t a r k
+088/083	stark	1	s t a r k
+088/085	starg	1	s t a r g
+088/087	starg	1	s t a r g
+088/089	stoark	1	s t oa r k
+088/091	stark	1	s t a r k
+088/093	stark	1	s t a r k
+088/095	schtark	1	sch t a r k
+088/097	schtark	1	sch t a r k
+088/099	stark	1	s t a r k
+088/101	stoak	1	s t oa k
+088/103	stuuag	1	s t uua g
+088/105	schtoark	1	sch t oa r k
+088/107	stoag	1	s t oa g
+088/109	schtoak	1	sch t oa k
+088/113	vü	1	v ü
+088/115	stark	1	s t a r k
+088/117	schoark	1	sch oa r k
+088/121	gach	1	g a ch
+088/123	stark	1	s t a r k
+088/127	schdoag	1	sch d oa g
+088/129	stork	1	s t o r k
+088/131	stoak	1	s t oa k
+088/137	stoak	1	s t oa k
+088/139	stoak	1	s t oa k
+088/141	stoak	1	s t oa k
+088/143	stoark	1	s t oa r k
+088/145	stoak	1	s t oa k
+088/147	stoak	1	s t oa k
+088/149	schtork	1	sch t o r k
+089/035	storik	1	s t o r i k
+089/037	schtorig	1	sch t o r i g
+089/039	storrig	1	s t o rr i g
+089/041	storik	1	s t o r i k
+089/043	schdoärg	1	sch d oä r g
+089/045	schdark	1	sch d a r k
+089/047	schdark	1	sch d a r k
+089/049	schtark	1	sch t a r k
+089/051	schdarrg	1	sch d a rr g
+089/053	schtarg	1	sch t a r g
+089/055	schtark	1	sch t a r k
+089/057	schtarg	1	sch t a r g
+089/059	schtark	1	sch t a r k
+089/061	schtark	1	sch t a r k
+089/063	schtarg	1	sch t a r g
+089/065	stark	1	s t a r k
+089/067	schtark	1	sch t a r k
+089/069	schtaarg	1	sch t aa r g
+089/071	schtark	1	sch t a r k
+089/073	schaarg	1	sch aa r g
+089/075	schtark	1	sch t a r k
+089/077	schtaark	1	sch t aa r k
+089/079	schtark	1	sch t a r k
+089/081	groass	1	g r oa ss
+089/083	schdarg	1	sch d a r g
+089/085	arch	1	a r ch
+089/087	stark	1	s t a r k
+089/089	schtark	1	sch t a r k
+089/091	stark	1	s t a r k
+089/093	grouss	1	g r ou ss
+089/095	schtarg	1	sch t a r g
+089/097	schdarg	1	sch d a r g
+089/099	stark	1	s t a r k
+089/101	stark	1	s t a r k
+089/103	schtoag	1	sch t oa g
+089/105	schdaaög	1	sch d aaö g
+089/107	stoag	1	s t oa g
+089/109	stoark	1	s t oa r k
+089/111	stork	1	s t o r k
+089/113	vül	1	v ü l
+089/115	stark	1	s t a r k
+089/117	stoak	1	s t oa k
+089/119	fü	1	f ü
+089/121	schdoagg	1	sch d oa gg
+089/123	stark	1	s t a r k
+089/125	stoark	1	s t oa r k
+089/127	fü	1	f ü
+089/129	stoak	1	s t oa k
+089/131	stoak	1	s t oa k
+089/133	stork	1	s t o r k
+089/135	schdoak	1	sch d oa k
+089/137	gach	1	g a ch
+089/139	schtoak	1	sch t oa k
+089/141	schtork	1	sch t o r k
+089/143	schtoak	1	sch t oa k
+089/145	stoag	1	s t oa g
+089/147	stork	1	s t o r k
+089/149	stoak	1	s t oa k
+090/035	schdorik	1	sch d o r i k
+090/037	schdorik	1	sch d o r i k
+090/039	schtarig	1	sch t a r i g
+090/041	schtarik	1	sch t a r i k
+090/043	schtarig	1	sch t a r i g
+090/045	schdaarg	1	sch d aa r g
+090/047	stark	1	s t a r k
+090/049	stark	1	s t a r k
+090/051	schtark	1	sch t a r k
+090/053	stark	1	s t a r k
+090/055	stark	1	s t a r k
+090/057	stark	1	s t a r k
+090/059	schtark	1	sch t a r k
+090/061	schtark	1	sch t a r k
+090/063	schdarg	1	sch d a r g
+090/065	schtark	1	sch t a r k
+090/067	schtark	1	sch t a r k
+090/069	schtarg	1	sch t a r g
+090/071	stark	1	s t a r k
+090/073	schtark	1	sch t a r k
+090/075	schtark	1	sch t a r k
+090/077	schtarg	1	sch t a r g
+090/079	stark	1	s t a r k
+090/081	stark	1	s t a r k
+090/083	stark	1	s t a r k
+090/085	groas	1	g r oa s
+090/087	schtark	1	sch t a r k
+090/089	schtark	1	sch t a r k
+090/091	starg	1	s t a r g
+090/093	schtark	1	sch t a r k
+090/095	schdarg	1	sch d a r g
+090/097	starg	1	s t a r g
+090/099	stark	1	s t a r k
+090/101	stoak	1	s t oa k
+090/103	stark	1	s t a r k
+090/105	stark	1	s t a r k
+090/107	schdark	1	sch d a r k
+090/109	stark	1	s t a r k
+090/111	stoark	1	s t oa r k
+090/113	schtark	1	sch t a r k
+090/115	stoark	1	s t oa r k
+090/119	NA	NA	-
+090/121	schtoag	1	sch t oa g
+090/123	stoak	1	s t oa k
+090/125	NA	NA	-
+090/127	stark	1	s t a r k
+090/129	gross	1	g r o ss
+090/131	stork	1	s t o r k
+090/133	schdoark	1	sch d oa r k
+090/135	stork	1	s t o r k
+090/137	stork	1	s t o r k
+090/139	staak	1	s t aa k
+090/141	stork	1	s t o r k
+090/143	schtoak	1	sch t oa k
+090/145	schtoak	1	sch t oa k
+090/147	schtoak	1	sch t oa k
+090/149	stoak	1	s t oa k
+090/151	schtoark	1	sch t oa r k
+091/035	schtarik	1	sch t a r i k
+091/037	starik	1	s t a r i k
+091/039	schdarrick	1	sch d a rr i ck
+091/041	stark	1	s t a r k
+091/043	schdarg	1	sch d a r g
+091/045	schdark	1	sch d a r k
+091/047	schdark	1	sch d a r k
+091/049	schdarg	1	sch d a r g
+091/051	schtark	1	sch t a r k
+091/053	schdark	1	sch d a r k
+091/055	schtark	1	sch t a r k
+091/057	schdark	1	sch d a r k
+091/059	schtark	1	sch t a r k
+091/061	schdark	1	sch d a r k
+091/063	schdark	1	sch d a r k
+091/065	schtark	1	sch t a r k
+091/067	schtark	1	sch t a r k
+091/069	schtark	1	sch t a r k
+091/071	schtark	1	sch t a r k
+091/073	schtark	1	sch t a r k
+091/075	schtark	1	sch t a r k
+091/077	schtark	1	sch t a r k
+091/079	schtark	1	sch t a r k
+091/081	stark	1	s t a r k
+091/083	stark	1	s t a r k
+091/085	stark	1	s t a r k
+091/087	schtarg	1	sch t a r g
+091/091	graous	1	g r aou s
+091/093	schtark	1	sch t a r k
+091/095	stark	1	s t a r k
+091/097	schdarg	1	sch d a r g
+091/099	schark	1	sch a r k
+091/101	stoak	1	s t oa k
+091/103	hoass	1	h oa ss
+091/105	stark	1	s t a r k
+091/107	stoachk	1	s t oa ch k
+091/109	gach	1	g a ch
+091/111	stook	1	s t oo k
+091/113	stark	1	s t a r k
+091/115	NA	NA	-
+091/117	greoss	1	g r eo ss
+091/119	gach	1	g a ch
+091/121	stark	1	s t a r k
+091/125	stark	1	s t a r k
+091/129	stork	1	s t o r k
+091/131	stork	1	s t o r k
+091/133	schtork	1	sch t o r k
+091/135	stoak	1	s t oa k
+091/137	schtork	1	sch t o r k
+091/139	stoak	1	s t oa k
+091/141	stoak	1	s t oa k
+091/143	schtoark	1	sch t oa r k
+091/145	stoak	1	s t oa k
+091/147	stoark	1	s t oa r k
+091/149	schtoak	1	sch t oa k
+091/151	schdoak	1	sch d oa k
+091/155	schtoak	1	sch t oa k
+092/033	schtark	1	sch t a r k
+092/035	starik	1	s t a r i k
+092/037	schtarik	1	sch t a r i k
+092/039	schtark	1	sch t a r k
+092/041	schdarg	1	sch d a r g
+092/043	schtark	1	sch t a r k
+092/045	schtark	1	sch t a r k
+092/047	schtarik	1	sch t a r i k
+092/049	staark	1	s t aa r k
+092/051	scharrk	1	sch a rr k
+092/053	stark	1	s t a r k
+092/055	schdark	1	sch d a r k
+092/057	schtark	1	sch t a r k
+092/059	schdark	1	sch d a r k
+092/061	stark	1	s t a r k
+092/063	stark	1	s t a r k
+092/065	schtark	1	sch t a r k
+092/067	schtark	1	sch t a r k
+092/069	schdark	1	sch d a r k
+092/071	groass	1	g r oa ss
+092/073	groass	1	g r oa ss
+092/075	gross	1	g r o ss
+092/077	stark	1	s t a r k
+092/079	schtark	1	sch t a r k
+092/081	schtarg	1	sch t a r g
+092/083	schtark	1	sch t a r k
+092/085	schark	1	sch a r k
+092/087	schtark	1	sch t a r k
+092/089	schdarg	1	sch d a r g
+092/091	schdarg	1	sch d a r g
+092/093	starg	1	s t a r g
+092/095	schdarg	1	sch d a r g
+092/097	stark	1	s t a r k
+092/099	starg	1	s t a r g
+092/101	stark	1	s t a r k
+092/103	gach	1	g a ch
+092/105	schtaoak	1	sch t aoa k
+092/107	stark	1	s t a r k
+092/109	viel	1	v ie l
+092/111	ga	1	g a
+092/113	stark	1	s t a r k
+092/115	staachk	1	s t aa ch k
+092/117	stork	1	s t o r k
+092/119	stark	1	s t a r k
+092/121	stark	1	s t a r k
+092/123	ga	1	g a
+092/125	stoack	1	s t oa ck
+092/127	stark	1	s t a r k
+092/129	stork	1	s t o r k
+092/131	stork	1	s t o r k
+092/133	stork	1	s t o r k
+092/135	stork	1	s t o r k
+092/137	gach	1	g a ch
+092/139	gach	1	g a ch
+092/141	stork	1	s t o r k
+092/143	stork	1	s t o r k
+092/145	stoargg	1	s t oa r gg
+092/147	stork	1	s t o r k
+092/149	stork	1	s t o r k
+092/151	stark	1	s t a r k
+093/035	schtariick	1	sch t a r ii ck
+093/037	starik	1	s t a r i k
+093/039	schtark	1	sch t a r k
+093/041	schtark	1	sch t a r k
+093/043	stark	1	s t a r k
+093/045	schtark	1	sch t a r k
+093/047	schdark	1	sch d a r k
+093/049	schtark	1	sch t a r k
+093/051	schtark	1	sch t a r k
+093/053	stark	1	s t a r k
+093/055	schtark	1	sch t a r k
+093/057	schdark	1	sch d a r k
+093/059	schtark	1	sch t a r k
+093/061	arg	1	a r g
+093/063	schtark	1	sch t a r k
+093/065	schtark	1	sch t a r k
+093/067	schdark	1	sch d a r k
+093/069	schdark	1	sch d a r k
+093/071	schtark	1	sch t a r k
+093/073	groass	1	g r oa ss
+093/075	stark	1	s t a r k
+093/077	arg	1	a r g
+093/079	groass	1	g r oa ss
+093/081	schtark	1	sch t a r k
+093/083	schtark	1	sch t a r k
+093/085	schtark	1	sch t a r k
+093/087	resch	1	r e sch
+093/089	schtark	1	sch t a r k
+093/091	schdark	1	sch d a r k
+093/093	schtark	1	sch t a r k
+093/095	schoark	1	sch oa r k
+093/097	schtark	1	sch t a r k
+093/099	stark	1	s t a r k
+093/101	schtark	1	sch t a r k
+093/103	stark	1	s t a r k
+093/105	schtark	1	sch t a r k
+093/109	schoark	1	sch oa r k
+093/111	schtark	1	sch t a r k
+093/113	stoagg	1	s t oa gg
+093/115	stark	1	s t a r k
+093/117	schtok	1	sch t o k
+093/119	schtork	1	sch t o r k
+093/121	stark	1	s t a r k
+093/123	stark	1	s t a r k
+093/125	stoak	1	s t oa k
+093/127	NA	NA	-
+093/129	stark	1	s t a r k
+093/131	schaak	1	sch aa k
+093/133	gach	1	g a ch
+093/137	stoak	1	s t oa k
+093/139	schtoak	1	sch t oa k
+093/143	schtoak	1	sch t oa k
+093/145	stoark	1	s t oa r k
+093/147	stoak	1	s t oa k
+093/149	stoak	1	s t oa k
+093/151	schtoak	1	sch t oa k
+093/153	kaach	1	k aa ch
+093/155	stoark	1	s t oa r k
+094/033	schdork	1	sch d o r k
+094/035	schtark	1	sch t a r k
+094/037	stark	1	s t a r k
+094/039	schtark	1	sch t a r k
+094/041	schtark	1	sch t a r k
+094/043	schdarg	1	sch d a r g
+094/045	stark	1	s t a r k
+094/047	starik	1	s t a r i k
+094/049	schtaark	1	sch t aa r k
+094/051	schtaarch	1	sch t aa r ch
+094/053	schtaark	1	sch t aa r k
+094/055	schdark	1	sch d a r k
+094/057	stark	1	s t a r k
+094/059	schdark	1	sch d a r k
+094/061	schtark	1	sch t a r k
+094/063	schtark	1	sch t a r k
+094/065	schtark	1	sch t a r k
+094/067	stark	1	s t a r k
+094/069	schdarg	1	sch d a r g
+094/071	schtark	1	sch t a r k
+094/073	schtark	1	sch t a r k
+094/075	stark	1	s t a r k
+094/077	groaass	1	g r oaa ss
+094/079	schtark	1	sch t a r k
+094/081	fest	1	f e s t
+094/083	stark	1	s t a r k
+094/085	stark	1	s t a r k
+094/087	schtarg	1	sch t a r g
+094/089	schtark	1	sch t a r k
+094/091	schdark	1	sch d a r k
+094/093	stark	1	s t a r k
+094/095	stark	1	s t a r k
+094/097	schtoarg	1	sch t oa r g
+094/099	schark	1	sch a r k
+094/101	stark	1	s t a r k
+094/103	schtoark	1	sch t oa r k
+094/105	stoak	1	s t oa k
+094/107	stoark	1	s t oa r k
+094/109	stark	1	s t a r k
+094/111	stark	1	s t a r k
+094/113	stark	1	s t a r k
+094/115	stark	1	s t a r k
+094/117	stark	1	s t a r k
+094/119	stork	1	s t o r k
+094/121	stoark	1	s t oa r k
+094/123	NA	NA	-
+094/125	schtoak	1	sch t oa k
+094/127	stoak	1	s t oa k
+094/129	stoak	1	s t oa k
+094/131	stoak	1	s t oa k
+094/133	stork	1	s t o r k
+094/135	stark	1	s t a r k
+094/137	stoark	1	s t oa r k
+094/139	gach	1	g a ch
+094/141	stork	1	s t o r k
+094/143	stoak	1	s t oa k
+094/145	schdoak	1	sch d oa k
+094/147	stoark	1	s t oa r k
+094/149	gach	1	g a ch
+094/151	stoak	1	s t oa k
+094/153	stoark	1	s t oa r k
+095/031	schtark	1	sch t a r k
+095/033	stark	1	s t a r k
+095/035	schtark	1	sch t a r k
+095/037	stark	1	s t a r k
+095/039	stark	1	s t a r k
+095/041	schdarch	1	sch d a r ch
+095/043	schdark	1	sch d a r k
+095/045	stark	1	s t a r k
+095/047	schdark	1	sch d a r k
+095/049	schdaark	1	sch d aa r k
+095/051	starch	1	s t a r ch
+095/053	schtarch	1	sch t a r ch
+095/055	stark	1	s t a r k
+095/057	schdark	1	sch d a r k
+095/059	schtark	1	sch t a r k
+095/061	schtark	1	sch t a r k
+095/063	schtark	1	sch t a r k
+095/065	schark	1	sch a r k
+095/067	stark	1	s t a r k
+095/069	schtark	1	sch t a r k
+095/071	schtark	1	sch t a r k
+095/073	stark	1	s t a r k
+095/075	schtark	1	sch t a r k
+095/077	schtark	1	sch t a r k
+095/079	stark	1	s t a r k
+095/081	schtark	1	sch t a r k
+095/083	schark	1	sch a r k
+095/085	schtark	1	sch t a r k
+095/087	stark	1	s t a r k
+095/089	groous	1	g r oou s
+095/091	grouss	1	g r ou ss
+095/093	schtark	1	sch t a r k
+095/095	stark	1	s t a r k
+095/097	stoak	1	s t oa k
+095/099	stark	1	s t a r k
+095/101	schtark	1	sch t a r k
+095/103	stoarg	1	s t oa r g
+095/105	stark	1	s t a r k
+095/107	stoarg	1	s t oa r g
+095/109	grass	1	g r a ss
+095/111	schtok	1	sch t o k
+095/113	hoass	1	h oa ss
+095/115	stork	1	s t o r k
+095/117	gach	1	g a ch
+095/119	stark	1	s t a r k
+095/121	org	1	o r g
+095/123	stark	1	s t a r k
+095/125	stoak	1	s t oa k
+095/129	stoak	1	s t oa k
+095/131	schtoak	1	sch t oa k
+095/133	stoak	1	s t oa k
+095/139	stark	1	s t a r k
+095/141	schtork	1	sch t o r k
+095/143	stork	1	s t o r k
+095/145	schoak	1	sch oa k
+095/147	staak	1	s t aa k
+095/149	stoak	1	s t oa k
+095/151	stoak	1	s t oa k
+095/153	stoak	1	s t oa k
+095/155	stoark	1	s t oa r k
+096/031	stark	1	s t a r k
+096/033	schtark	1	sch t a r k
+096/035	stark	1	s t a r k
+096/037	schdark	1	sch d a r k
+096/039	schtark	1	sch t a r k
+096/041	schtarg	1	sch t a r g
+096/043	schtarch	1	sch t a r ch
+096/045	schdarch	1	sch d a r ch
+096/047	schtarg	1	sch t a r g
+096/049	schtarch	1	sch t a r ch
+096/051	starch	1	s t a r ch
+096/053	schtarch	1	sch t a r ch
+096/055	schtark	1	sch t a r k
+096/057	schtark	1	sch t a r k
+096/059	stark	1	s t a r k
+096/061	schdark	1	sch d a r k
+096/063	stark	1	s t a r k
+096/065	schtark	1	sch t a r k
+096/067	schtark	1	sch t a r k
+096/069	stark	1	s t a r k
+096/071	schtaark	1	sch t aa r k
+096/075	schtark	1	sch t a r k
+096/077	schtark	1	sch t a r k
+096/079	groass	1	g r oa ss
+096/081	stark	1	s t a r k
+096/083	stark	1	s t a r k
+096/085	schtark	1	sch t a r k
+096/087	schtark	1	sch t a r k
+096/089	stark	1	s t a r k
+096/091	hoas	1	h oa s
+096/093	graous	1	g r aou s
+096/095	schtark	1	sch t a r k
+096/097	groass	1	g r oa ss
+096/099	schoag	1	sch oa g
+096/101	hoas	1	h oa s
+096/103	stark	1	s t a r k
+096/105	hoass	1	h oa ss
+096/107	hoass	1	h oa ss
+096/109	NA	NA	-
+096/111	schtorchg	1	sch t o r ch g
+096/113	schtoark	1	sch t oa r k
+096/115	NA	NA	-
+096/117	NA	NA	-
+096/119	stoak	1	s t oa k
+096/121	schtoak	1	sch t oa k
+096/123	schtork	1	sch t o r k
+096/125	schdoag	1	sch d oa g
+096/129	stoak	1	s t oa k
+096/131	stork	1	s t o r k
+096/135	gach	1	g a ch
+096/137	gach	1	g a ch
+096/139	stoak	1	s t oa k
+096/141	stork	1	s t o r k
+096/143	stark	1	s t a r k
+096/145	stoak	1	s t oa k
+096/147	schtoakk	1	sch t oa kk
+096/151	stoark	1	s t oa r k
+096/153	stoak	1	s t oa k
+096/155	stoak	1	s t oa k
+097/031	schtark	1	sch t a r k
+097/033	schtark	1	sch t a r k
+097/035	schtark	1	sch t a r k
+097/037	schtark	1	sch t a r k
+097/039	schdarch	1	sch d a r ch
+097/041	arg	1	a r g
+097/043	schtarch	1	sch t a r ch
+097/045	schtarch	1	sch t a r ch
+097/047	stark	1	s t a r k
+097/049	schdarch	1	sch d a r ch
+097/051	schdaark	1	sch d aa r k
+097/053	schdaarch	1	sch d aa r ch
+097/055	schtark	1	sch t a r k
+097/057	schtark	1	sch t a r k
+097/059	schdaark	1	sch d aa r k
+097/061	schdaark	1	sch d aa r k
+097/063	schdarg	1	sch d a r g
+097/065	stark	1	s t a r k
+097/067	schtark	1	sch t a r k
+097/069	schtark	1	sch t a r k
+097/071	schtark	1	sch t a r k
+097/073	schtaark	1	sch t aa r k
+097/075	schtark	1	sch t a r k
+097/077	schtark	1	sch t a r k
+097/079	schtark	1	sch t a r k
+097/081	schtark	1	sch t a r k
+097/083	schtark	1	sch t a r k
+097/085	stark	1	s t a r k
+097/087	schtark	1	sch t a r k
+097/089	stark	1	s t a r k
+097/091	groous	1	g r oou s
+097/093	graus	1	g r au s
+097/095	schtarg	1	sch t a r g
+097/097	starch	1	s t a r ch
+097/099	schtark	1	sch t a r k
+097/103	stoak	1	s t oa k
+097/105	stoak	1	s t oa k
+097/107	stoak	1	s t oa k
+097/109	stoak	1	s t oa k
+097/113	irig	1	i r i g
+097/125	NA	NA	-
+097/131	stoak	1	s t oa k
+097/133	stork	1	s t o r k
+097/139	schtoak	1	sch t oa k
+097/141	stoak	1	s t oa k
+097/143	stark	1	s t a r k
+097/145	stoak	1	s t oa k
+097/149	stoark	1	s t oa r k
+097/153	stoark	1	s t oa r k
+098/033	schtark	1	sch t a r k
+098/035	stark	1	s t a r k
+098/037	schtark	1	sch t a r k
+098/039	schtark	1	sch t a r k
+098/041	stark	1	s t a r k
+098/043	schtarch	1	sch t a r ch
+098/045	schdaarch	1	sch d aa r ch
+098/047	schdarch	1	sch d a r ch
+098/049	schtarch	1	sch t a r ch
+098/051	starch	1	s t a r ch
+098/053	schdarch	1	sch d a r ch
+098/055	schtark	1	sch t a r k
+098/057	schdarg	1	sch d a r g
+098/059	schtaark	1	sch t aa r k
+098/061	schtark	1	sch t a r k
+098/063	schtark	1	sch t a r k
+098/065	stark	1	s t a r k
+098/067	schtark	1	sch t a r k
+098/069	schtark	1	sch t a r k
+098/071	schtaark	1	sch t aa r k
+098/073	schtark	1	sch t a r k
+098/075	stark	1	s t a r k
+098/077	schtark	1	sch t a r k
+098/079	schtark	1	sch t a r k
+098/081	gross	1	g r o ss
+098/083	gross	1	g r o ss
+098/085	käuf	1	k äu f
+098/087	grauss	1	g r au ss
+098/089	schtark	1	sch t a r k
+098/091	scharg	1	sch a r g
+098/093	grous	1	g r ou s
+098/095	stark	1	s t a r k
+098/097	stark	1	s t a r k
+098/103	stark	1	s t a r k
+098/105	schtoak	1	sch t oa k
+098/107	grouss	1	g r ou ss
+098/109	stark	1	s t a r k
+098/111	hirig	1	h i r i g
+098/119	NA	NA	-
+098/123	stark	1	s t a r k
+098/125	stork	1	s t o r k
+098/127	stoak	1	s t oa k
+098/135	stork	1	s t o r k
+098/137	schtork	1	sch t o r k
+098/139	irg	1	i r g
+098/141	stoak	1	s t oa k
+098/143	gach	1	g a ch
+098/145	sark	1	s a r k
+098/147	stoark	1	s t oa r k
+098/149	stoakk	1	s t oa kk
+098/151	stoak	1	s t oa k
+099/033	stark	1	s t a r k
+099/035	stark	1	s t a r k
+099/037	schtarch	1	sch t a r ch
+099/039	schtark	1	sch t a r k
+099/041	schtark	1	sch t a r k
+099/043	schtarch	1	sch t a r ch
+099/045	schtaarch	1	sch t aa r ch
+099/047	schdarch	1	sch d a r ch
+099/049	schdarch	1	sch d a r ch
+099/051	schtarch	1	sch t a r ch
+099/053	starch	1	s t a r ch
+099/055	schtarch	1	sch t a r ch
+099/057	starch	1	s t a r ch
+099/059	stark	1	s t a r k
+099/063	schtark	1	sch t a r k
+099/065	schtark	1	sch t a r k
+099/067	stark	1	s t a r k
+099/069	stark	1	s t a r k
+099/071	stark	1	s t a r k
+099/073	stark	1	s t a r k
+099/075	schdark	1	sch d a r k
+099/077	stark	1	s t a r k
+099/081	schtark	1	sch t a r k
+099/083	stark	1	s t a r k
+099/085	keif	1	k ei f
+099/089	schtarg	1	sch t a r g
+099/093	schtorch	1	sch t o r ch
+099/095	storch	1	s t o r ch
+099/099	starch	1	s t a r ch
+099/101	stoarch	1	s t oa r ch
+099/103	grouss	1	g r ou ss
+099/105	stoa	1	s t oa
+099/107	stork	1	s t o r k
+099/109	NA	NA	-
+099/111	schtore	1	sch t o r e
+099/113	starik	1	s t a r i k
+099/121	schtoach	1	sch t oa ch
+099/123	stoak	1	s t oa k
+099/125	stoak	1	s t oa k
+099/131	stoark	1	s t oa r k
+099/137	stoak	1	s t oa k
+099/139	stoak	1	s t oa k
+099/141	stork	1	s t o r k
+099/143	stoak	1	s t oa k
+099/145	schtoak	1	sch t oa k
+099/147	stoek	1	s t oe k
+100/033	schtark	1	sch t a r k
+100/035	schtark	1	sch t a r k
+100/037	starch	1	s t a r ch
+100/039	schtaargg	1	sch t aa r gg
+100/041	starkch	1	s t a r k ch
+100/043	schtark	1	sch t a r k
+100/045	starch	1	s t a r ch
+100/049	NA	NA	-
+100/051	starch	1	s t a r ch
+100/053	schtarch	1	sch t a r ch
+100/055	schtarch	1	sch t a r ch
+100/057	starch	1	s t a r ch
+100/059	gross	1	g r o ss
+100/061	starch	1	s t a r ch
+100/065	schtark	1	sch t a r k
+100/067	schdark	1	sch d a r k
+100/069	stark	1	s t a r k
+100/071	schtark	1	sch t a r k
+100/073	stark	1	s t a r k
+100/075	schtark	1	sch t a r k
+100/077	schtarck	1	sch t a r ck
+100/081	stark	1	s t a r k
+100/083	schtark	1	sch t a r k
+100/089	stork	1	s t o r k
+100/093	schtorch	1	sch t o r ch
+100/095	schtarch	1	sch t a r ch
+100/097	storch	1	s t o r ch
+100/099	hoass	1	h oa ss
+100/101	hiz	1	h i z
+100/109	schtoak	1	sch t oa k
+100/111	starik	1	s t a r i k
+100/113	stork	1	s t o r k
+100/115	stoch	1	s t o ch
+100/117	stoch	1	s t o ch
+100/119	storch	1	s t o r ch
+100/121	stoak	1	s t oa k
+100/125	stoak	1	s t oa k
+100/127	stork	1	s t o r k
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	stork	1	s t o r k
+100/141	stoak	1	s t oa k
+100/143	stoak	1	s t oa k
+100/145	stork	1	s t o r k
+101/035	schtaarch	1	sch t aa r ch
+101/037	schtarch	1	sch t a r ch
+101/039	schdarg	1	sch d a r g
+101/041	schdark	1	sch d a r k
+101/043	stark	1	s t a r k
+101/045	schtarch	1	sch t a r ch
+101/047	schtöörch	1	sch t öö r ch
+101/049	schtarch	1	sch t a r ch
+101/051	haiss	1	h ai ss
+101/053	schtarch	1	sch t a r ch
+101/055	schtarch	1	sch t a r ch
+101/057	schtarch	1	sch t a r ch
+101/059	schtarch	1	sch t a r ch
+101/061	schtarch	1	sch t a r ch
+101/063	schtorkch	1	sch t o r k ch
+101/065	stark	1	s t a r k
+101/067	schtark	1	sch t a r k
+101/071	schtark	1	sch t a r k
+101/075	stark	1	s t a r k
+101/077	stark	1	s t a r k
+101/079	stark	1	s t a r k
+101/081	hoass	1	h oa ss
+101/091	gruass	1	g r ua ss
+101/093	NA	NA	-
+101/095	schtorch	1	sch t o r ch
+101/097	stoarch	1	s t oa r ch
+101/099	schtarch	1	sch t a r ch
+101/101	gross	1	g r o ss
+101/103	gach	1	g a ch
+101/107	stark	1	s t a r k
+101/109	gach	1	g a ch
+101/113	NA	NA	-
+101/115	stark	1	s t a r k
+101/121	NA	NA	-
+101/125	stoak	1	s t oa k
+101/129	stoark	1	s t oa r k
+101/131	stark	1	s t a r k
+101/133	stoak	1	s t oa k
+101/137	hoass	1	h oa ss
+101/139	gach	1	g a ch
+101/141	stoark	1	s t oa r k
+101/143	schtork	1	sch t o r k
+101/145	stoak	1	s t oa k
+101/147	schtoak	1	sch t oa k
+102/037	schtargg	1	sch t a r gg
+102/039	schtargg	1	sch t a r gg
+102/041	schtark	1	sch t a r k
+102/043	schtark	1	sch t a r k
+102/045	schtarch	1	sch t a r ch
+102/047	schtarch	1	sch t a r ch
+102/049	schtarch	1	sch t a r ch
+102/051	schtarch	1	sch t a r ch
+102/053	schtaarch	1	sch t aa r ch
+102/055	schtarch	1	sch t a r ch
+102/057	starch	1	s t a r ch
+102/059	schtarch	1	sch t a r ch
+102/061	gross	1	g r o ss
+102/063	starch	1	s t a r ch
+102/065	schark	1	sch a r k
+102/067	stark	1	s t a r k
+102/069	schdarch	1	sch d a r ch
+102/071	schtark	1	sch t a r k
+102/073	schtorch	1	sch t o r ch
+102/075	storch	1	s t o r ch
+102/077	schtarch	1	sch t a r ch
+102/079	staark	1	s t aa r k
+102/081	storch	1	s t o r ch
+102/083	groass	1	g r oa ss
+102/089	storch	1	s t o r ch
+102/091	graass	1	g r aa ss
+102/093	schtarch	1	sch t a r ch
+102/095	schtarch	1	sch t a r ch
+102/097	starch	1	s t a r ch
+102/099	hoass	1	h oa ss
+102/103	groass	1	g r oa ss
+102/107	stoak	1	s t oa k
+102/109	storch	1	s t o r ch
+102/113	stoach	1	s t oa ch
+102/115	stoch	1	s t o ch
+102/127	stoak	1	s t oa k
+102/129	schtork	1	sch t o r k
+102/131	stoak	1	s t oa k
+102/135	hoass	1	h oa ss
+102/137	hass	1	h a ss
+102/139	gach	1	g a ch
+102/141	stock	1	s t o ck
+102/143	stoagk	1	s t oa g k
+102/145	stoak	1	s t oa k
+103/039	schtarch	1	sch t a r ch
+103/041	schtark	1	sch t a r k
+103/043	starch	1	s t a r ch
+103/045	schtarch	1	sch t a r ch
+103/047	schtarch	1	sch t a r ch
+103/049	schtarch	1	sch t a r ch
+103/051	schtarch	1	sch t a r ch
+103/053	starch	1	s t a r ch
+103/055	schtarch	1	sch t a r ch
+103/057	gross	1	g r o ss
+103/059	NA	NA	-
+103/063	schtark	1	sch t a r k
+103/065	gross	1	g r o ss
+103/067	gross	1	g r o ss
+103/069	schtark	1	sch t a r k
+103/071	gross	1	g r o ss
+103/073	stark	1	s t a r k
+103/075	hoass	1	h oa ss
+103/077	schtarch	1	sch t a r ch
+103/079	storch	1	s t o r ch
+103/081	stark	1	s t a r k
+103/083	storch	1	s t o r ch
+103/085	schtark	1	sch t a r k
+103/087	stoarch	1	s t oa r ch
+103/089	schtorch	1	sch t o r ch
+103/091	groass	1	g r oa ss
+103/097	stoorch	1	s t oo r ch
+103/099	grouss	1	g r ou ss
+103/101	schdoargg	1	sch d oa r gg
+103/105	hoas	1	h oa s
+103/107	schtorch	1	sch t o r ch
+103/111	NA	NA	-
+103/121	NA	NA	-
+103/125	stork	1	s t o r k
+103/127	stoolch	1	s t oo l ch
+103/131	schdoak	1	sch d oa k
+103/133	gross	1	g r o ss
+103/135	stoark	1	s t oa r k
+103/137	stork	1	s t o r k
+103/139	hoas	1	h oa s
+103/141	stoack	1	s t oa ck
+103/143	stoak	1	s t oa k
+103/145	schtoak	1	sch t oa k
+104/033	schtarch	1	sch t a r ch
+104/035	schtarch	1	sch t a r ch
+104/037	schtarch	1	sch t a r ch
+104/039	schtarch	1	sch t a r ch
+104/041	starch	1	s t a r ch
+104/043	schtarch	1	sch t a r ch
+104/045	schtarch	1	sch t a r ch
+104/047	schtarch	1	sch t a r ch
+104/049	chäch	1	ch ä ch
+104/051	starch	1	s t a r ch
+104/053	heiss	1	h ei ss
+104/055	schtarch	1	sch t a r ch
+104/057	schtarch	1	sch t a r ch
+104/059	starch	1	s t a r ch
+104/061	hoass	1	h oa ss
+104/063	schark	1	sch a r k
+104/065	schtark	1	sch t a r k
+104/067	heiss	1	h ei ss
+104/071	stork	1	s t o r k
+104/075	groass	1	g r oa ss
+104/077	schtork	1	sch t o r k
+104/079	storch	1	s t o r ch
+104/081	stork	1	s t o r k
+104/083	hoass	1	h oa ss
+104/085	stark	1	s t a r k
+104/091	storch	1	s t o r ch
+104/095	stork	1	s t o r k
+104/101	rass	1	r a ss
+104/103	storch	1	s t o r ch
+104/107	starch	1	s t a r ch
+104/111	hoas	1	h oa s
+104/113	hoass	1	h oa ss
+104/119	storch	1	s t o r ch
+104/121	NA	NA	-
+104/123	NA	NA	-
+104/125	gach	1	g a ch
+104/127	stork	1	s t o r k
+104/131	schark	1	sch a r k
+104/133	stoak	1	s t oa k
+104/135	NA	NA	-
+104/137	stoark	1	s t oa r k
+104/139	stoark	1	s t oa r k
+104/141	stock	1	s t o ck
+104/143	staak	1	s t aa k
+104/145	NA	NA	-
+105/031	schtarch	1	sch t a r ch
+105/033	schtarch	1	sch t a r ch
+105/035	schtarch	1	sch t a r ch
+105/037	schtarch	1	sch t a r ch
+105/039	schtarch	1	sch t a r ch
+105/041	schtarch	1	sch t a r ch
+105/043	starch	1	s t a r ch
+105/045	starch	1	s t a r ch
+105/047	schdarch	1	sch d a r ch
+105/049	schtarch	1	sch t a r ch
+105/051	starch	1	s t a r ch
+105/053	starch	1	s t a r ch
+105/055	grooss	1	g r oo ss
+105/057	schtarch	1	sch t a r ch
+105/059	starch	1	s t a r ch
+105/061	starch	1	s t a r ch
+105/063	stark	1	s t a r k
+105/065	gross	1	g r o ss
+105/067	schtark	1	sch t a r k
+105/069	häss	1	h ä ss
+105/071	groass	1	g r oa ss
+105/073	stork	1	s t o r k
+105/075	schtorch	1	sch t o r ch
+105/077	stork	1	s t o r k
+105/079	hoass	1	h oa ss
+105/081	NA	NA	-
+105/085	hoass	1	h oa ss
+105/087	storch	1	s t o r ch
+105/089	NA	NA	-
+105/103	stoarch	1	s t oa r ch
+105/105	stoak	1	s t oa k
+105/111	groass	1	g r oa ss
+105/113	zark	1	z a r k
+105/115	hoass	1	h oa ss
+105/117	schtarch	1	sch t a r ch
+105/119	NA	NA	-
+105/121	stoak	1	s t oa k
+105/125	staorch	1	s t ao r ch
+105/127	storch	1	s t o r ch
+105/131	gach	1	g a ch
+105/133	stoak	1	s t oa k
+105/135	stark	1	s t a r k
+105/137	stork	1	s t o r k
+105/141	stork	1	s t o r k
+105/143	stouk	1	s t ou k
+105/145	stork	1	s t o r k
+106/033	schtarch	1	sch t a r ch
+106/035	schtarch	1	sch t a r ch
+106/037	schtarch	1	sch t a r ch
+106/039	schtarch	1	sch t a r ch
+106/041	schtarch	1	sch t a r ch
+106/043	schtarch	1	sch t a r ch
+106/045	heiss	1	h ei ss
+106/047	schtarch	1	sch t a r ch
+106/049	schtarch	1	sch t a r ch
+106/051	scharch	1	sch a r ch
+106/053	starch	1	s t a r ch
+106/057	schtarch	1	sch t a r ch
+106/061	starch	1	s t a r ch
+106/063	gross	1	g r o ss
+106/067	stark	1	s t a r k
+106/071	gross	1	g r o ss
+106/073	groass	1	g r oa ss
+106/075	groass	1	g r oa ss
+106/077	schtoarch	1	sch t oa r ch
+106/079	storch	1	s t o r ch
+106/081	stoarch	1	s t oa r ch
+106/085	stark	1	s t a r k
+106/087	schtarch	1	sch t a r ch
+106/093	NA	NA	-
+106/097	stork	1	s t o r k
+106/099	NA	NA	-
+106/103	stoark	1	s t oa r k
+106/111	stoark	1	s t oa r k
+106/115	schtorch	1	sch t o r ch
+106/121	hoass	1	h oa ss
+106/123	stoak	1	s t oa k
+106/125	storch	1	s t o r ch
+106/129	gach	1	g a ch
+106/131	stark	1	s t a r k
+106/133	hoass	1	h oa ss
+106/135	gross	1	g r o ss
+106/137	NA	NA	-
+106/139	schtork	1	sch t o r k
+106/141	schtork	1	sch t o r k
+106/143	schtoak	1	sch t oa k
+106/145	stoak	1	s t oa k
+107/033	schtaoch	1	sch t ao ch
+107/035	schtarch	1	sch t a r ch
+107/037	starch	1	s t a r ch
+107/039	starch	1	s t a r ch
+107/041	heiss	1	h ei ss
+107/043	starch	1	s t a r ch
+107/045	NA	NA	-
+107/047	NA	NA	-
+107/049	gross	1	g r o ss
+107/051	schtark	1	sch t a r k
+107/053	starch	1	s t a r ch
+107/057	gross	1	g r o ss
+107/059	starch	1	s t a r ch
+107/063	schtarch	1	sch t a r ch
+107/065	starch	1	s t a r ch
+107/071	starch	1	s t a r ch
+107/075	groass	1	g r oa ss
+107/081	hauss	1	h au ss
+107/085	schtorch	1	sch t o r ch
+107/087	groass	1	g r oa ss
+107/089	NA	NA	-
+107/091	gruess	1	g r ue ss
+107/097	NA	NA	-
+107/099	stork	1	s t o r k
+107/103	schtork	1	sch t o r k
+107/105	schtork	1	sch t o r k
+107/107	stork	1	s t o r k
+107/111	gach	1	g a ch
+107/119	storch	1	s t o r ch
+107/121	NA	NA	-
+107/123	stork	1	s t o r k
+107/125	NA	NA	-
+107/127	stork	1	s t o r k
+107/129	hooss	1	h oo ss
+107/131	starch	1	s t a r ch
+107/133	hoass	1	h oa ss
+107/135	stoark	1	s t oa r k
+107/137	stoark	1	s t oa r k
+107/139	stork	1	s t o r k
+107/141	stoak	1	s t oa k
+107/143	stork	1	s t o r k
+108/033	starch	1	s t a r ch
+108/035	starch	1	s t a r ch
+108/037	schtarch	1	sch t a r ch
+108/039	starch	1	s t a r ch
+108/041	starch	1	s t a r ch
+108/043	hert	1	h e r t
+108/047	gross	1	g r o ss
+108/049	starch	1	s t a r ch
+108/063	schtark	1	sch t a r k
+108/065	starch	1	s t a r ch
+108/067	schtarch	1	sch t a r ch
+108/075	starch	1	s t a r ch
+108/079	hoass	1	h oa ss
+108/081	groas	1	g r oa s
+108/085	hoas	1	h oa s
+108/087	schtark	1	sch t a r k
+108/091	stork	1	s t o r k
+108/099	NA	NA	-
+108/101	stork	1	s t o r k
+108/103	stork	1	s t o r k
+108/105	hoass	1	h oa ss
+108/109	schtork	1	sch t o r k
+108/111	staork	1	s t ao r k
+108/113	stork	1	s t o r k
+108/117	stork	1	s t o r k
+108/119	stork	1	s t o r k
+108/121	stork	1	s t o r k
+108/123	stork	1	s t o r k
+108/125	stoark	1	s t oa r k
+108/127	stork	1	s t o r k
+108/129	ach	1	a ch
+108/131	gach	1	g a ch
+108/133	starch	1	s t a r ch
+108/135	stark	1	s t a r k
+108/137	stoark	1	s t oa r k
+108/139	stoak	1	s t oa k
+108/141	stoak	1	s t oa k
+109/035	starch	1	s t a r ch
+109/037	starch	1	s t a r ch
+109/039	scharch	1	sch a r ch
+109/041	schtarch	1	sch t a r ch
+109/043	schtarch	1	sch t a r ch
+109/045	gross	1	g r o ss
+109/049	starch	1	s t a r ch
+109/053	starch	1	s t a r ch
+109/061	starch	1	s t a r ch
+109/063	schtarch	1	sch t a r ch
+109/065	starch	1	s t a r ch
+109/067	starch	1	s t a r ch
+109/075	stork	1	s t o r k
+109/083	groass	1	g r oa ss
+109/087	schtark	1	sch t a r k
+109/089	stork	1	s t o r k
+109/091	schtork	1	sch t o r k
+109/093	schtork	1	sch t o r k
+109/095	schtork	1	sch t o r k
+109/097	stork	1	s t o r k
+109/099	groass	1	g r oa ss
+109/101	wild	1	w i l d
+109/103	stork	1	s t o r k
+109/107	stork	1	s t o r k
+109/109	gach	1	g a ch
+109/111	stoark	1	s t oa r k
+109/113	has	1	h a s
+109/115	stark	1	s t a r k
+109/117	hass	1	h a ss
+109/119	stark	1	s t a r k
+109/121	stork	1	s t o r k
+109/123	gach	1	g a ch
+109/125	stork	1	s t o r k
+109/127	stork	1	s t o r k
+109/129	NA	NA	-
+109/131	stoach	1	s t oa ch
+109/133	NA	NA	-
+109/135	schtoak	1	sch t oa k
+109/137	gach	1	g a ch
+109/139	stoak	1	s t oa k
+110/035	schtarch	1	sch t a r ch
+110/039	starch	1	s t a r ch
+110/041	starch	1	s t a r ch
+110/043	schtarch	1	sch t a r ch
+110/045	NA	NA	-
+110/047	starch	1	s t a r ch
+110/049	schtarch	1	sch t a r ch
+110/057	starch	1	s t a r ch
+110/061	schtarch	1	sch t a r ch
+110/065	schtarch	1	sch t a r ch
+110/075	NA	NA	-
+110/079	warm	1	w a r m
+110/081	stork	1	s t o r k
+110/083	storck	1	s t o r ck
+110/087	schtork	1	sch t o r k
+110/089	groas	1	g r oa s
+110/091	hoas	1	h oa s
+110/093	NA	NA	-
+110/095	stork	1	s t o r k
+110/097	schtork	1	sch t o r k
+110/099	stork	1	s t o r k
+110/101	stark	1	s t a r k
+110/105	schtork	1	sch t o r k
+110/107	NA	NA	-
+110/111	schtork	1	sch t o r k
+110/113	stork	1	s t o r k
+110/115	stork	1	s t o r k
+110/117	stork	1	s t o r k
+110/119	NA	NA	-
+110/121	gach	1	g a ch
+110/125	schtork	1	sch t o r k
+110/127	stork	1	s t o r k
+110/129	stork	1	s t o r k
+110/131	stak	1	s t a k
+110/133	stooch	1	s t oo ch
+110/135	stork	1	s t o r k
+110/137	grossss	1	g r o ss ss
+110/139	stork	1	s t o r k
+111/035	starch	1	s t a r ch
+111/037	geäys	1	g eäy s
+111/039	schtarch	1	sch t a r ch
+111/041	schtarch	1	sch t a r ch
+111/043	schtarch	1	sch t a r ch
+111/045	schtarch	1	sch t a r ch
+111/059	starch	1	s t a r ch
+111/073	schtork	1	sch t o r k
+111/075	reasch	1	r ea sch
+111/077	groass	1	g r oa ss
+111/079	reasch	1	r ea sch
+111/081	NA	NA	-
+111/083	stork	1	s t o r k
+111/087	hoass	1	h oa ss
+111/089	stork	1	s t o r k
+111/105	schtoark	1	sch t oa r k
+111/107	stork	1	s t o r k
+111/109	stork	1	s t o r k
+111/111	stork	1	s t o r k
+111/113	gach	1	g a ch
+111/115	gach	1	g a ch
+111/117	staark	1	s t aa r k
+111/119	schtorkh	1	sch t o r k h
+111/121	stark	1	s t a r k
+111/123	stark	1	s t a r k
+111/125	stark	1	s t a r k
+112/037	starch	1	s t a r ch
+112/039	gross	1	g r o ss
+112/041	schtarch	1	sch t a r ch
+112/043	schtarch	1	sch t a r ch
+112/047	schtarch	1	sch t a r ch
+112/059	schtarch	1	sch t a r ch
+112/061	schtark	1	sch t a r k
+112/063	stark	1	s t a r k
+112/075	NA	NA	-
+112/081	schtork	1	sch t o r k
+112/083	NA	NA	-
+112/085	NA	NA	-
+112/111	schtork	1	sch t o r k
+112/115	stork	1	s t o r k
+112/117	stork	1	s t o r k
+112/119	stoark	1	s t oa r k
+113/035	starch	1	s t a r ch
+113/037	starch	1	s t a r ch
+113/039	schtarch	1	sch t a r ch
+113/047	starch	1	s t a r ch
+113/079	schtork	1	sch t o r k
+113/081	schtark	1	sch t a r k
+113/083	hoass	1	h oa ss
+113/085	stork	1	s t o r k
+113/087	groas	1	g r oa s
+113/121	stork	1	s t o r k
+113/123	stork	1	s t o r k
+114/035	starch	1	s t a r ch
+114/045	gross	1	g r o ss
+114/083	schtork	1	sch t o r k
+114/085	feescht	1	f ee sch t
+115/041	starch	1	s t a r ch
+115/043	heiss	1	h ei ss
+115/045	starch	1	s t a r ch
+115/083	groass	1	g r oa ss
+115/085	groass	1	g r oa ss
+116/043	schtarch	1	sch t a r ch
+116/045	schtarch	1	sch t a r ch
+116/083	NA	NA	-
+117/043	schtarch	1	sch t a r ch
+117/045	starch	1	s t a r ch
+118/041	starch	1	s t a r ch
+119/083	starch	1	s t a r ch
+120/085	gross	1	g r o ss
+121/127	schtark	1	sch t a r k
+122/127	stuark	1	s t ua r k
+122/129	schtark	1	sch t a r k
+123/081	schtarch	1	sch t a r ch
+123/123	schtourk	1	sch t ou r k
+123/125	schtuärk	1	sch t uä r k
+123/127	schturk	1	sch t u r k
+123/129	schtourk	1	sch t ou r k
+124/125	schturk	1	sch t u r k
+124/127	schtourk	1	sch t ou r k
+124/129	schturk	1	sch t u r k

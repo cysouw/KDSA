@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	nog	1	n o g
+002/201	nog	1	n o g
+002/203	nog	1	n o g
+002/205	noog	1	n oo g
+003/203	nog	1	n o g
+003/205	nog	1	n o g
+004/205	nog	1	n o g
+005/205	noog	1	n oo g
+005/207	nog	1	n o g
+006/205	nog	1	n o g
+006/207	nog	1	n o g
+007/205	noch	1	n o ch
+007/207	nog	1	n o g
+007/209	nog	1	n o g
+007/211	nog	1	n o g
+008/199	nog	1	n o g
+008/203	nog	1	n o g
+008/205	nog	1	n o g
+008/207	nog	1	n o g
+008/209	nog	1	n o g
+008/211	noch	1	n o ch
+008/213	nog	1	n o g
+009/199	noch	1	n o ch
+009/203	nog	1	n o g
+009/207	nog	1	n o g
+009/209	noog	1	n oo g
+009/211	nooch	1	n oo ch
+009/213	nog	1	n o g
+009/215	nog	1	n o g
+009/217	nog	1	n o g
+010/195	nog	1	n o g
+010/203	nog	1	n o g
+010/207	nog	1	n o g
+010/209	nog	1	n o g
+010/211	nooch	1	n oo ch
+010/213	nog	1	n o g
+010/215	nog	1	n o g
+010/217	nog	1	n o g
+010/219	nog	1	n o g
+011/049	noch	1	n o ch
+011/053	nok	1	n o k
+011/055	nok	1	n o k
+011/057	nok	1	n o k
+011/059	nok	1	n o k
+011/061	nok	1	n o k
+011/063	nok	1	n o k
+011/065	nok	1	n o k
+011/067	nok	1	n o k
+011/069	nok	1	n o k
+011/187	nog	1	n o g
+011/189	nog	1	n o g
+011/191	noog	1	n oo g
+011/195	nog	1	n o g
+011/197	nog	1	n o g
+011/203	nog	1	n o g
+011/205	nog	1	n o g
+011/207	nooch	1	n oo ch
+011/209	noog	1	n oo g
+011/211	noch	1	n o ch
+011/213	nog	1	n o g
+011/215	noch	1	n o ch
+011/217	noch	1	n o ch
+011/219	noch	1	n o ch
+012/047	nog	1	n o g
+012/049	nogh	1	n o g h
+012/051	nooch	1	n oo ch
+012/053	nak	1	n a k
+012/055	nok	1	n o k
+012/057	nak	1	n a k
+012/059	nok	1	n o k
+012/061	nok	1	n o k
+012/063	nok	1	n o k
+012/065	NA	NA	-
+012/067	nok	1	n o k
+012/069	nok	1	n o k
+012/187	nog	1	n o g
+012/189	noog	1	n oo g
+012/191	nog	1	n o g
+012/193	nog	1	n o g
+012/195	noog	1	n oo g
+012/197	noch	1	n o ch
+012/199	nog	1	n o g
+012/201	nog	1	n o g
+012/203	nog	1	n o g
+012/205	nog	1	n o g
+012/207	nog	1	n o g
+012/209	nog	1	n o g
+012/211	nog	1	n o g
+012/213	noch	1	n o ch
+012/215	nooch	1	n oo ch
+012/217	nog	1	n o g
+012/219	nog	1	n o g
+012/221	nung	1	n u ng
+012/223	nog	1	n o g
+013/051	nog	1	n o g
+013/053	noogh	1	n oo g h
+013/055	nog	1	n o g
+013/057	nok	1	n o k
+013/059	nok	1	n o k
+013/061	noch	1	n o ch
+013/063	nog	1	n o g
+013/065	noch	1	n o ch
+013/067	nog	1	n o g
+013/161	naug	1	n au g
+013/163	nauch	1	n au ch
+013/165	naug	1	n au g
+013/167	nog	1	n o g
+013/187	nooch	1	n oo ch
+013/189	nog	1	n o g
+013/191	nog	1	n o g
+013/193	nog	1	n o g
+013/195	noog	1	n oo g
+013/197	noog	1	n oo g
+013/199	noog	1	n oo g
+013/201	nog	1	n o g
+013/203	nog	1	n o g
+013/207	noog	1	n oo g
+013/209	nog	1	n o g
+013/211	nog	1	n o g
+013/213	nooch	1	n oo ch
+013/215	nung	1	n u ng
+013/217	nog	1	n o g
+013/219	noog	1	n oo g
+013/221	nog	1	n o g
+013/223	noog	1	n oo g
+014/047	nagh	1	n a g h
+014/049	nog	1	n o g
+014/051	noog	1	n oo g
+014/053	nohch	1	n oh ch
+014/055	nog	1	n o g
+014/057	noch	1	n o ch
+014/059	noch	1	n o ch
+014/061	noch	1	n o ch
+014/063	nog	1	n o g
+014/065	noch	1	n o ch
+014/067	noch	1	n o ch
+014/109	naug	1	n au g
+014/159	nauch	1	n au ch
+014/161	naug	1	n au g
+014/163	naug	1	n au g
+014/165	naug	1	n au g
+014/167	noch	1	n o ch
+014/169	nog	1	n o g
+014/187	nog	1	n o g
+014/189	noch	1	n o ch
+014/191	nog	1	n o g
+014/193	nog	1	n o g
+014/195	nooch	1	n oo ch
+014/197	noch	1	n o ch
+014/199	noch	1	n o ch
+014/201	nog	1	n o g
+014/203	nog	1	n o g
+014/205	nog	1	n o g
+014/207	nog	1	n o g
+014/209	noog	1	n oo g
+014/211	noog	1	n oo g
+014/213	nog	1	n o g
+014/215	nohg	1	n oh g
+014/217	nog	1	n o g
+014/219	nog	1	n o g
+014/221	nog	1	n o g
+015/049	nagh	1	n a g h
+015/051	noogh	1	n oo g h
+015/053	nogh	1	n o g h
+015/055	nog	1	n o g
+015/057	nag	1	n a g
+015/059	noch	1	n o ch
+015/061	noch	1	n o ch
+015/063	noch	1	n o ch
+015/065	noch	1	n o ch
+015/067	nog	1	n o g
+015/105	nauch	1	n au ch
+015/107	noug	1	n ou g
+015/109	naug	1	n au g
+015/151	nauch	1	n au ch
+015/153	naug	1	n au g
+015/155	nauch	1	n au ch
+015/157	nauch	1	n au ch
+015/159	nauch	1	n au ch
+015/161	naug	1	n au g
+015/163	naug	1	n au g
+015/165	naug	1	n au g
+015/167	nooch	1	n oo ch
+015/169	nog	1	n o g
+015/173	nog	1	n o g
+015/187	nog	1	n o g
+015/191	nog	1	n o g
+015/193	noog	1	n oo g
+015/195	nog	1	n o g
+015/197	nog	1	n o g
+015/199	nooch	1	n oo ch
+015/201	noch	1	n o ch
+015/203	nog	1	n o g
+015/205	nog	1	n o g
+015/207	nog	1	n o g
+015/209	nog	1	n o g
+015/211	nog	1	n o g
+015/213	nog	1	n o g
+015/215	nog	1	n o g
+015/217	nog	1	n o g
+015/219	nung	1	n u ng
+015/221	nog	1	n o g
+016/051	nong	1	n o ng
+016/055	noog	1	n oo g
+016/057	noch	1	n o ch
+016/059	noch	1	n o ch
+016/061	noch	1	n o ch
+016/063	noch	1	n o ch
+016/065	nag	1	n a g
+016/067	noch	1	n o ch
+016/081	nuch	1	n u ch
+016/083	noch	1	n o ch
+016/105	nauch	1	n au ch
+016/107	nauch	1	n au ch
+016/109	naug	1	n au g
+016/111	noog	1	n oo g
+016/145	nauch	1	n au ch
+016/147	nauch	1	n au ch
+016/149	naug	1	n au g
+016/151	nauch	1	n au ch
+016/153	nauch	1	n au ch
+016/155	naug	1	n au g
+016/157	naug	1	n au g
+016/159	nauch	1	n au ch
+016/161	naug	1	n au g
+016/163	nauch	1	n au ch
+016/165	nog	1	n o g
+016/167	NA	NA	-
+016/187	nog	1	n o g
+016/189	nog	1	n o g
+016/191	nog	1	n o g
+016/193	nog	1	n o g
+016/195	nog	1	n o g
+016/197	nohg	1	n oh g
+016/199	nog	1	n o g
+016/201	nog	1	n o g
+016/203	noch	1	n o ch
+016/205	noch	1	n o ch
+016/209	nog	1	n o g
+016/211	nog	1	n o g
+016/213	nog	1	n o g
+016/215	nog	1	n o g
+016/217	nog	1	n o g
+016/219	nung	1	n u ng
+017/055	noch	1	n o ch
+017/057	noch	1	n o ch
+017/059	noch	1	n o ch
+017/061	noch	1	n o ch
+017/063	nuch	1	n u ch
+017/065	noch	1	n o ch
+017/067	noch	1	n o ch
+017/069	noch	1	n o ch
+017/081	nog	1	n o g
+017/083	nog	1	n o g
+017/099	nauch	1	n au ch
+017/101	nauch	1	n au ch
+017/103	naug	1	n au g
+017/107	noug	1	n ou g
+017/109	naug	1	n au g
+017/145	naug	1	n au g
+017/147	nauch	1	n au ch
+017/149	nug	1	n u g
+017/151	naug	1	n au g
+017/153	naug	1	n au g
+017/155	naug	1	n au g
+017/157	nauch	1	n au ch
+017/159	nauch	1	n au ch
+017/161	nauch	1	n au ch
+017/163	nauch	1	n au ch
+017/165	nauch	1	n au ch
+017/169	nog	1	n o g
+017/171	nog	1	n o g
+017/183	naug	1	n au g
+017/185	noch	1	n o ch
+017/187	nog	1	n o g
+017/189	noch	1	n o ch
+017/191	nog	1	n o g
+017/193	nog	1	n o g
+017/195	nog	1	n o g
+017/197	nog	1	n o g
+017/199	nog	1	n o g
+017/201	nog	1	n o g
+017/203	nog	1	n o g
+017/205	nog	1	n o g
+017/207	nog	1	n o g
+017/209	nog	1	n o g
+017/211	noog	1	n oo g
+017/213	nung	1	n u ng
+017/215	noch	1	n o ch
+017/217	nog	1	n o g
+017/219	nog	1	n o g
+018/051	noch	1	n o ch
+018/053	noch	1	n o ch
+018/055	noch	1	n o ch
+018/057	nog	1	n o g
+018/059	noch	1	n o ch
+018/061	nogg	1	n o gg
+018/063	nugg	1	n u gg
+018/065	NA	NA	-
+018/067	nooch	1	n oo ch
+018/069	nog	1	n o g
+018/071	noch	1	n o ch
+018/073	noog	1	n oo g
+018/075	nug	1	n u g
+018/079	noch	1	n o ch
+018/081	noch	1	n o ch
+018/097	naug	1	n au g
+018/099	naug	1	n au g
+018/103	naug	1	n au g
+018/105	naug	1	n au g
+018/107	nog	1	n o g
+018/109	naug	1	n au g
+018/111	naug	1	n au g
+018/143	naug	1	n au g
+018/145	nauch	1	n au ch
+018/147	nauch	1	n au ch
+018/149	naug	1	n au g
+018/151	naug	1	n au g
+018/153	nauch	1	n au ch
+018/155	naug	1	n au g
+018/157	nauch	1	n au ch
+018/159	nauch	1	n au ch
+018/161	nauch	1	n au ch
+018/163	nauch	1	n au ch
+018/165	nauch	1	n au ch
+018/169	noch	1	n o ch
+018/171	noog	1	n oo g
+018/173	nog	1	n o g
+018/181	neg	1	n e g
+018/185	noch	1	n o ch
+018/187	noog	1	n oo g
+018/189	noch	1	n o ch
+018/191	noch	1	n o ch
+018/193	nog	1	n o g
+018/195	nog	1	n o g
+018/197	noog	1	n oo g
+018/199	nooch	1	n oo ch
+018/201	nog	1	n o g
+018/203	nog	1	n o g
+018/205	nog	1	n o g
+018/207	nog	1	n o g
+018/209	nog	1	n o g
+018/211	noch	1	n o ch
+018/213	nung	1	n u ng
+018/215	nog	1	n o g
+018/219	nog	1	n o g
+019/051	noch	1	n o ch
+019/053	nuch	1	n u ch
+019/055	noch	1	n o ch
+019/057	noch	1	n o ch
+019/059	nog	1	n o g
+019/061	noch	1	n o ch
+019/063	nog	1	n o g
+019/065	nuch	1	n u ch
+019/067	noch	1	n o ch
+019/069	nug	1	n u g
+019/071	naug	1	n au g
+019/073	nog	1	n o g
+019/075	noch	1	n o ch
+019/077	noch	1	n o ch
+019/079	nog	1	n o g
+019/081	nuch	1	n u ch
+019/097	naug	1	n au g
+019/099	naug	1	n au g
+019/101	nauch	1	n au ch
+019/103	naug	1	n au g
+019/105	nauch	1	n au ch
+019/107	nog	1	n o g
+019/109	naug	1	n au g
+019/143	nauch	1	n au ch
+019/145	nauch	1	n au ch
+019/147	naug	1	n au g
+019/149	naug	1	n au g
+019/151	naug	1	n au g
+019/153	naug	1	n au g
+019/155	nauch	1	n au ch
+019/157	nauch	1	n au ch
+019/159	naug	1	n au g
+019/161	naug	1	n au g
+019/163	nauch	1	n au ch
+019/165	nauch	1	n au ch
+019/167	nog	1	n o g
+019/169	noch	1	n o ch
+019/171	noag	1	n oa g
+019/173	nog	1	n o g
+019/175	nog	1	n o g
+019/177	nog	1	n o g
+019/179	noog	1	n oo g
+019/181	nogg	1	n o gg
+019/183	nooch	1	n oo ch
+019/185	nog	1	n o g
+019/187	noch	1	n o ch
+019/189	nog	1	n o g
+019/191	nog	1	n o g
+019/193	nog	1	n o g
+019/195	noch	1	n o ch
+019/197	nog	1	n o g
+019/199	noch	1	n o ch
+019/201	nog	1	n o g
+019/203	nog	1	n o g
+019/205	nog	1	n o g
+019/207	noch	1	n o ch
+019/209	noch	1	n o ch
+019/211	nog	1	n o g
+019/213	nog	1	n o g
+019/215	nung	1	n u ng
+019/217	nog	1	n o g
+019/219	nog	1	n o g
+020/043	NA	NA	-
+020/053	noch	1	n o ch
+020/055	noch	1	n o ch
+020/057	noch	1	n o ch
+020/059	noch	1	n o ch
+020/061	nog	1	n o g
+020/063	nog	1	n o g
+020/065	nogg	1	n o gg
+020/067	nuch	1	n u ch
+020/069	noch	1	n o ch
+020/071	nog	1	n o g
+020/073	nog	1	n o g
+020/075	no	1	n o
+020/077	noch	1	n o ch
+020/079	nug	1	n u g
+020/081	nog	1	n o g
+020/095	nauch	1	n au ch
+020/097	nauch	1	n au ch
+020/099	naug	1	n au g
+020/101	nauch	1	n au ch
+020/103	naug	1	n au g
+020/105	naug	1	n au g
+020/107	naug	1	n au g
+020/135	nauch	1	n au ch
+020/137	nauch	1	n au ch
+020/139	naug	1	n au g
+020/141	nauch	1	n au ch
+020/143	nauch	1	n au ch
+020/145	naug	1	n au g
+020/147	naug	1	n au g
+020/149	naugh	1	n au g h
+020/151	nauch	1	n au ch
+020/153	naug	1	n au g
+020/155	nauch	1	n au ch
+020/157	naug	1	n au g
+020/159	noug	1	n ou g
+020/161	naug	1	n au g
+020/163	nauch	1	n au ch
+020/165	naug	1	n au g
+020/167	nauch	1	n au ch
+020/169	nuoch	1	n uo ch
+020/171	nug	1	n u g
+020/173	nog	1	n o g
+020/175	nog	1	n o g
+020/177	nog	1	n o g
+020/179	nog	1	n o g
+020/181	nog	1	n o g
+020/183	nog	1	n o g
+020/185	nog	1	n o g
+020/187	nug	1	n u g
+020/189	noch	1	n o ch
+020/191	nooch	1	n oo ch
+020/193	nooch	1	n oo ch
+020/195	nog	1	n o g
+020/197	nog	1	n o g
+020/199	noch	1	n o ch
+020/201	noog	1	n oo g
+020/203	nog	1	n o g
+020/205	NA	NA	-
+020/207	nog	1	n o g
+020/209	nog	1	n o g
+020/211	nog	1	n o g
+020/213	noch	1	n o ch
+020/215	nog	1	n o g
+020/217	nog	1	n o g
+020/219	nooch	1	n oo ch
+021/055	nog	1	n o g
+021/057	noch	1	n o ch
+021/059	noch	1	n o ch
+021/061	noch	1	n o ch
+021/063	nog	1	n o g
+021/065	nog	1	n o g
+021/067	nog	1	n o g
+021/069	nog	1	n o g
+021/071	nog	1	n o g
+021/073	nog	1	n o g
+021/075	noch	1	n o ch
+021/077	noch	1	n o ch
+021/079	nooch	1	n oo ch
+021/087	naug	1	n au g
+021/089	naug	1	n au g
+021/091	naug	1	n au g
+021/093	naug	1	n au g
+021/095	naug	1	n au g
+021/097	naug	1	n au g
+021/099	naug	1	n au g
+021/101	naug	1	n au g
+021/103	noch	1	n o ch
+021/105	naug	1	n au g
+021/107	naug	1	n au g
+021/109	nauch	1	n au ch
+021/111	nauch	1	n au ch
+021/113	nauch	1	n au ch
+021/131	naug	1	n au g
+021/133	nauch	1	n au ch
+021/135	nauch	1	n au ch
+021/137	naug	1	n au g
+021/139	naug	1	n au g
+021/141	nauch	1	n au ch
+021/143	nauch	1	n au ch
+021/145	nauch	1	n au ch
+021/147	nauch	1	n au ch
+021/149	naug	1	n au g
+021/151	nauch	1	n au ch
+021/153	nauch	1	n au ch
+021/155	nauch	1	n au ch
+021/157	naug	1	n au g
+021/159	nauch	1	n au ch
+021/163	naug	1	n au g
+021/165	nauch	1	n au ch
+021/167	naug	1	n au g
+021/169	naug	1	n au g
+021/171	nog	1	n o g
+021/173	nog	1	n o g
+021/175	nog	1	n o g
+021/177	nog	1	n o g
+021/179	nog	1	n o g
+021/181	nog	1	n o g
+021/183	nog	1	n o g
+021/185	nuck	1	n u ck
+021/187	nuck	1	n u ck
+021/189	nug	1	n u g
+021/191	nuk	1	n u k
+021/193	nuk	1	n u k
+021/195	nuck	1	n u ck
+021/197	nuck	1	n u ck
+021/199	noch	1	n o ch
+021/201	neog	1	n eo g
+021/203	noch	1	n o ch
+021/205	noach	1	n oa ch
+021/207	nog	1	n o g
+021/211	NA	NA	-
+021/215	nog	1	n o g
+021/217	nuk	1	n u k
+021/219	nog	1	n o g
+022/055	noog	1	n oo g
+022/057	noch	1	n o ch
+022/059	nog	1	n o g
+022/061	nog	1	n o g
+022/063	noch	1	n o ch
+022/065	nog	1	n o g
+022/067	noch	1	n o ch
+022/069	noch	1	n o ch
+022/071	noch	1	n o ch
+022/073	noch	1	n o ch
+022/075	nog	1	n o g
+022/077	noug	1	n ou g
+022/087	naug	1	n au g
+022/089	naug	1	n au g
+022/091	naug	1	n au g
+022/093	naug	1	n au g
+022/095	naug	1	n au g
+022/097	naug	1	n au g
+022/099	naug	1	n au g
+022/101	naug	1	n au g
+022/103	naug	1	n au g
+022/105	naug	1	n au g
+022/107	nauch	1	n au ch
+022/109	naug	1	n au g
+022/111	naug	1	n au g
+022/113	naug	1	n au g
+022/115	nauch	1	n au ch
+022/127	naug	1	n au g
+022/129	naug	1	n au g
+022/131	nauch	1	n au ch
+022/133	nauch	1	n au ch
+022/135	nauch	1	n au ch
+022/137	naug	1	n au g
+022/139	nauch	1	n au ch
+022/141	nauch	1	n au ch
+022/143	naug	1	n au g
+022/145	nauch	1	n au ch
+022/147	nauch	1	n au ch
+022/149	naug	1	n au g
+022/151	nauch	1	n au ch
+022/153	naug	1	n au g
+022/155	naug	1	n au g
+022/157	nauch	1	n au ch
+022/159	nauch	1	n au ch
+022/165	nauch	1	n au ch
+022/167	naug	1	n au g
+022/169	nog	1	n o g
+022/171	noog	1	n oo g
+022/173	nog	1	n o g
+022/175	nooch	1	n oo ch
+022/177	nag	1	n a g
+022/179	noog	1	n oo g
+022/181	nog	1	n o g
+022/183	nuck	1	n u ck
+022/185	nuk	1	n u k
+022/187	NA	NA	-
+022/189	nugg	1	n u gg
+022/191	nug	1	n u g
+022/193	nuck	1	n u ck
+022/195	nuck	1	n u ck
+022/197	nug	1	n u g
+022/199	nug	1	n u g
+022/201	nog	1	n o g
+022/203	nog	1	n o g
+022/205	noch	1	n o ch
+022/209	NA	NA	-
+022/211	noch	1	n o ch
+022/215	nooch	1	n oo ch
+022/217	nohch	1	n oh ch
+022/219	nog	1	n o g
+023/055	noch	1	n o ch
+023/059	neg	1	n e g
+023/061	noch	1	n o ch
+023/063	noch	1	n o ch
+023/065	noch	1	n o ch
+023/067	noch	1	n o ch
+023/069	nog	1	n o g
+023/071	nuch	1	n u ch
+023/073	noh	1	n oh
+023/075	nooch	1	n oo ch
+023/077	nouch	1	n ou ch
+023/079	noog	1	n oo g
+023/081	naug	1	n au g
+023/083	naug	1	n au g
+023/085	naug	1	n au g
+023/087	naug	1	n au g
+023/089	naug	1	n au g
+023/091	nauch	1	n au ch
+023/093	naug	1	n au g
+023/095	naug	1	n au g
+023/097	naug	1	n au g
+023/099	naug	1	n au g
+023/101	naug	1	n au g
+023/103	naug	1	n au g
+023/105	naug	1	n au g
+023/107	naug	1	n au g
+023/109	nauch	1	n au ch
+023/111	nauch	1	n au ch
+023/113	nauch	1	n au ch
+023/115	naug	1	n au g
+023/117	nauch	1	n au ch
+023/121	nauch	1	n au ch
+023/123	naug	1	n au g
+023/125	nauch	1	n au ch
+023/127	nauch	1	n au ch
+023/129	nog	1	n o g
+023/131	naug	1	n au g
+023/133	nauch	1	n au ch
+023/135	nauch	1	n au ch
+023/137	nauch	1	n au ch
+023/139	nauch	1	n au ch
+023/141	naug	1	n au g
+023/143	naug	1	n au g
+023/145	nauch	1	n au ch
+023/147	naug	1	n au g
+023/149	naug	1	n au g
+023/151	nauch	1	n au ch
+023/153	naug	1	n au g
+023/155	nauch	1	n au ch
+023/165	naug	1	n au g
+023/167	naug	1	n au g
+023/169	nog	1	n o g
+023/175	nog	1	n o g
+023/177	nung	1	n u ng
+023/179	nug	1	n u g
+023/181	nuk	1	n u k
+023/183	nug	1	n u g
+023/185	nuck	1	n u ck
+023/187	nug	1	n u g
+023/189	nugg	1	n u gg
+023/191	nuck	1	n u ck
+023/193	nug	1	n u g
+023/195	nug	1	n u g
+023/197	nug	1	n u g
+023/199	nohg	1	n oh g
+023/201	noch	1	n o ch
+023/203	noch	1	n o ch
+023/205	noch	1	n o ch
+023/207	nog	1	n o g
+023/215	nog	1	n o g
+023/217	nog	1	n o g
+024/053	noog	1	n oo g
+024/057	noch	1	n o ch
+024/059	nog	1	n o g
+024/061	noch	1	n o ch
+024/063	nog	1	n o g
+024/065	nog	1	n o g
+024/067	noch	1	n o ch
+024/069	nog	1	n o g
+024/071	nog	1	n o g
+024/073	nooch	1	n oo ch
+024/075	nog	1	n o g
+024/077	naug	1	n au g
+024/079	naug	1	n au g
+024/081	naug	1	n au g
+024/083	naug	1	n au g
+024/085	naug	1	n au g
+024/087	naug	1	n au g
+024/089	naug	1	n au g
+024/091	naug	1	n au g
+024/093	naug	1	n au g
+024/095	naug	1	n au g
+024/097	naug	1	n au g
+024/099	naug	1	n au g
+024/101	NA	NA	-
+024/103	naug	1	n au g
+024/105	nauch	1	n au ch
+024/107	naug	1	n au g
+024/109	nauch	1	n au ch
+024/111	nauch	1	n au ch
+024/113	naug	1	n au g
+024/115	nauch	1	n au ch
+024/117	nauch	1	n au ch
+024/119	naug	1	n au g
+024/121	NA	NA	-
+024/123	nauch	1	n au ch
+024/125	nauch	1	n au ch
+024/127	naug	1	n au g
+024/129	naug	1	n au g
+024/131	nauch	1	n au ch
+024/133	naug	1	n au g
+024/135	nauch	1	n au ch
+024/137	nauch	1	n au ch
+024/139	naug	1	n au g
+024/141	naug	1	n au g
+024/143	nauch	1	n au ch
+024/145	naug	1	n au g
+024/147	nauch	1	n au ch
+024/149	naug	1	n au g
+024/151	nouch	1	n ou ch
+024/153	nug	1	n u g
+024/155	nog	1	n o g
+024/163	näuch	1	n äu ch
+024/165	naug	1	n au g
+024/167	nauch	1	n au ch
+024/169	noog	1	n oo g
+024/171	nauch	1	n au ch
+024/175	nog	1	n o g
+024/179	nuk	1	n u k
+024/181	nunk	1	n u n k
+024/183	nuck	1	n u ck
+024/185	nug	1	n u g
+024/187	nukk	1	n u kk
+024/189	nug	1	n u g
+024/191	nuck	1	n u ck
+024/193	nuck	1	n u ck
+024/195	nuck	1	n u ck
+024/197	nug	1	n u g
+024/199	nug	1	n u g
+024/201	noog	1	n oo g
+024/203	nog	1	n o g
+024/217	noch	1	n o ch
+024/221	noch	1	n o ch
+025/043	naug	1	n au g
+025/051	nugg	1	n u gg
+025/053	noch	1	n o ch
+025/055	nog	1	n o g
+025/057	nog	1	n o g
+025/059	nog	1	n o g
+025/061	nog	1	n o g
+025/063	noch	1	n o ch
+025/065	nog	1	n o g
+025/067	noch	1	n o ch
+025/069	noog	1	n oo g
+025/071	nauch	1	n au ch
+025/073	nog	1	n o g
+025/075	naug	1	n au g
+025/077	naug	1	n au g
+025/079	nauch	1	n au ch
+025/081	naug	1	n au g
+025/083	naug	1	n au g
+025/085	naug	1	n au g
+025/087	naug	1	n au g
+025/089	naug	1	n au g
+025/091	naug	1	n au g
+025/093	naug	1	n au g
+025/095	nauch	1	n au ch
+025/099	naug	1	n au g
+025/101	naug	1	n au g
+025/103	nog	1	n o g
+025/105	nauch	1	n au ch
+025/107	nauch	1	n au ch
+025/109	naug	1	n au g
+025/111	nauch	1	n au ch
+025/113	nauch	1	n au ch
+025/115	nog	1	n o g
+025/123	nog	1	n o g
+025/125	naug	1	n au g
+025/127	naug	1	n au g
+025/129	naug	1	n au g
+025/131	nauch	1	n au ch
+025/133	naug	1	n au g
+025/135	nauch	1	n au ch
+025/137	nauch	1	n au ch
+025/139	nauch	1	n au ch
+025/141	naug	1	n au g
+025/143	näg	1	n ä g
+025/145	nach	1	n a ch
+025/147	naug	1	n au g
+025/149	naug	1	n au g
+025/151	nug	1	n u g
+025/153	noug	1	n ou g
+025/155	nauch	1	n au ch
+025/157	näuch	1	n äu ch
+025/159	nug	1	n u g
+025/177	nug	1	n u g
+025/179	nug	1	n u g
+025/181	nugg	1	n u gg
+025/183	nugg	1	n u gg
+025/185	nuck	1	n u ck
+025/187	nuck	1	n u ck
+025/189	nug	1	n u g
+025/191	nuk	1	n u k
+026/031	nug	1	n u g
+026/033	nog	1	n o g
+026/037	nug	1	n u g
+026/041	noch	1	n o ch
+026/043	nog	1	n o g
+026/045	nog	1	n o g
+026/051	nug	1	n u g
+026/053	noog	1	n oo g
+026/055	nog	1	n o g
+026/057	nog	1	n o g
+026/059	nog	1	n o g
+026/061	nuch	1	n u ch
+026/063	noch	1	n o ch
+026/065	nog	1	n o g
+026/067	nooch	1	n oo ch
+026/069	nog	1	n o g
+026/071	nog	1	n o g
+026/073	naug	1	n au g
+026/075	naug	1	n au g
+026/077	nauch	1	n au ch
+026/079	naug	1	n au g
+026/081	naug	1	n au g
+026/083	naug	1	n au g
+026/085	naug	1	n au g
+026/087	naug	1	n au g
+026/089	naug	1	n au g
+026/091	nauch	1	n au ch
+026/093	nauch	1	n au ch
+026/095	naug	1	n au g
+026/097	naug	1	n au g
+026/099	nauch	1	n au ch
+026/101	naug	1	n au g
+026/103	naug	1	n au g
+026/105	naug	1	n au g
+026/107	nog	1	n o g
+026/109	naug	1	n au g
+026/111	naug	1	n au g
+026/113	noog	1	n oo g
+026/115	nog	1	n o g
+026/117	noch	1	n o ch
+026/119	nog	1	n o g
+026/123	naug	1	n au g
+026/125	naug	1	n au g
+026/127	nauch	1	n au ch
+026/129	nauch	1	n au ch
+026/131	nauch	1	n au ch
+026/133	nauch	1	n au ch
+026/135	nauch	1	n au ch
+026/137	nauch	1	n au ch
+026/139	naug	1	n au g
+026/141	nauch	1	n au ch
+026/143	naug	1	n au g
+026/145	naug	1	n au g
+026/147	naug	1	n au g
+026/153	näh	1	n äh
+026/155	nauch	1	n au ch
+026/157	nug	1	n u g
+026/159	neug	1	n eu g
+026/161	nooch	1	n oo ch
+026/165	nug	1	n u g
+026/173	nog	1	n o g
+026/175	nog	1	n o g
+026/177	noch	1	n o ch
+026/179	nung	1	n u ng
+026/181	nuck	1	n u ck
+026/183	nug	1	n u g
+026/185	nug	1	n u g
+026/187	nuk	1	n u k
+026/189	nug	1	n u g
+027/027	nug	1	n u g
+027/035	noog	1	n oo g
+027/037	nooeg	1	n ooe g
+027/039	nooch	1	n oo ch
+027/041	nog	1	n o g
+027/043	noog	1	n oo g
+027/045	nog	1	n o g
+027/047	noog	1	n oo g
+027/051	nuch	1	n u ch
+027/053	noog	1	n oo g
+027/055	nog	1	n o g
+027/057	noog	1	n oo g
+027/059	nog	1	n o g
+027/061	nog	1	n o g
+027/063	nuch	1	n u ch
+027/065	nog	1	n o g
+027/067	nog	1	n o g
+027/069	noog	1	n oo g
+027/071	naug	1	n au g
+027/073	naug	1	n au g
+027/075	naug	1	n au g
+027/077	nauch	1	n au ch
+027/079	nauch	1	n au ch
+027/081	naug	1	n au g
+027/083	naug	1	n au g
+027/085	nog	1	n o g
+027/087	naug	1	n au g
+027/089	naug	1	n au g
+027/091	naug	1	n au g
+027/093	naug	1	n au g
+027/095	naug	1	n au g
+027/099	naug	1	n au g
+027/101	naug	1	n au g
+027/103	naug	1	n au g
+027/105	naug	1	n au g
+027/107	noog	1	n oo g
+027/109	nog	1	n o g
+027/111	nohch	1	n oh ch
+027/113	nog	1	n o g
+027/115	noog	1	n oo g
+027/117	noog	1	n oo g
+027/119	nooch	1	n oo ch
+027/123	noog	1	n oo g
+027/125	nooch	1	n oo ch
+027/127	naug	1	n au g
+027/129	nauch	1	n au ch
+027/131	naug	1	n au g
+027/135	naug	1	n au g
+027/137	nauch	1	n au ch
+027/139	naug	1	n au g
+027/141	noch	1	n o ch
+027/143	noug	1	n ou g
+027/145	nau	1	n au
+027/147	naug	1	n au g
+027/149	nauch	1	n au ch
+027/151	neug	1	n eu g
+027/153	noch	1	n o ch
+027/155	näug	1	n äu g
+027/157	neog	1	n eo g
+027/159	nauch	1	n au ch
+027/161	nog	1	n o g
+027/167	nauch	1	n au ch
+027/171	nog	1	n o g
+027/173	nog	1	n o g
+027/175	nog	1	n o g
+027/177	nog	1	n o g
+027/179	noch	1	n o ch
+027/181	nauch	1	n au ch
+027/183	nunk	1	n u n k
+027/185	nuk	1	n u k
+028/033	nug	1	n u g
+028/035	nug	1	n u g
+028/037	nug	1	n u g
+028/039	noog	1	n oo g
+028/041	nog	1	n o g
+028/043	noug	1	n ou g
+028/045	nog	1	n o g
+028/047	nog	1	n o g
+028/049	nog	1	n o g
+028/051	nog	1	n o g
+028/053	noch	1	n o ch
+028/055	nog	1	n o g
+028/057	noog	1	n oo g
+028/059	noog	1	n oo g
+028/061	nog	1	n o g
+028/063	nog	1	n o g
+028/065	nog	1	n o g
+028/067	näuch	1	n äu ch
+028/069	nog	1	n o g
+028/071	naoch	1	n ao ch
+028/073	naug	1	n au g
+028/075	nauch	1	n au ch
+028/077	naug	1	n au g
+028/079	naug	1	n au g
+028/081	naug	1	n au g
+028/083	naug	1	n au g
+028/085	naug	1	n au g
+028/087	naug	1	n au g
+028/089	naug	1	n au g
+028/091	nauch	1	n au ch
+028/093	naug	1	n au g
+028/095	nauch	1	n au ch
+028/097	nauch	1	n au ch
+028/099	naug	1	n au g
+028/103	nauch	1	n au ch
+028/105	naug	1	n au g
+028/107	nog	1	n o g
+028/109	noch	1	n o ch
+028/111	noog	1	n oo g
+028/113	nog	1	n o g
+028/115	nog	1	n o g
+028/117	nog	1	n o g
+028/119	naug	1	n au g
+028/121	nog	1	n o g
+028/123	noj	1	n o j
+028/125	noj	1	n o j
+028/127	naug	1	n au g
+028/129	nauch	1	n au ch
+028/131	nog	1	n o g
+028/133	naug	1	n au g
+028/135	nauch	1	n au ch
+028/137	nauch	1	n au ch
+028/139	noj	1	n o j
+028/141	noch	1	n o ch
+028/143	nug	1	n u g
+028/145	nog	1	n o g
+028/147	naug	1	n au g
+028/151	nauch	1	n au ch
+028/153	nog	1	n o g
+028/155	nooch	1	n oo ch
+028/157	noch	1	n o ch
+028/159	nauch	1	n au ch
+028/161	näug	1	n äu g
+028/165	nog	1	n o g
+028/169	nooch	1	n oo ch
+028/171	nog	1	n o g
+028/173	nohch	1	n oh ch
+028/175	nog	1	n o g
+028/177	nouch	1	n ou ch
+028/179	nog	1	n o g
+028/181	nug	1	n u g
+028/183	nug	1	n u g
+028/185	nug	1	n u g
+029/033	nug	1	n u g
+029/035	nug	1	n u g
+029/037	nug	1	n u g
+029/039	nugg	1	n u gg
+029/043	noog	1	n oo g
+029/045	noog	1	n oo g
+029/047	nog	1	n o g
+029/049	nog	1	n o g
+029/051	nuch	1	n u ch
+029/053	noch	1	n o ch
+029/055	nog	1	n o g
+029/057	nog	1	n o g
+029/059	nog	1	n o g
+029/061	noog	1	n oo g
+029/065	noog	1	n oo g
+029/067	neog	1	n eo g
+029/069	noug	1	n ou g
+029/071	nooch	1	n oo ch
+029/073	nauch	1	n au ch
+029/075	naug	1	n au g
+029/077	naug	1	n au g
+029/079	naug	1	n au g
+029/081	nauch	1	n au ch
+029/083	nauch	1	n au ch
+029/085	nauch	1	n au ch
+029/087	naug	1	n au g
+029/089	naug	1	n au g
+029/091	naug	1	n au g
+029/093	naug	1	n au g
+029/095	naug	1	n au g
+029/097	naug	1	n au g
+029/099	naug	1	n au g
+029/101	naug	1	n au g
+029/103	naug	1	n au g
+029/105	noch	1	n o ch
+029/107	nog	1	n o g
+029/109	noch	1	n o ch
+029/111	nog	1	n o g
+029/113	noog	1	n oo g
+029/115	nog	1	n o g
+029/117	nug	1	n u g
+029/119	nooch	1	n oo ch
+029/121	nooch	1	n oo ch
+029/123	nog	1	n o g
+029/125	nooch	1	n oo ch
+029/127	naug	1	n au g
+029/129	nauch	1	n au ch
+029/131	naug	1	n au g
+029/133	nauch	1	n au ch
+029/135	noog	1	n oo g
+029/137	nauch	1	n au ch
+029/139	nooch	1	n oo ch
+029/141	nuach	1	n ua ch
+029/143	nuch	1	n u ch
+029/145	nohch	1	n oh ch
+029/147	nog	1	n o g
+029/149	nouch	1	n ou ch
+029/151	noch	1	n o ch
+029/153	noch	1	n o ch
+029/155	nauch	1	n au ch
+029/157	nauch	1	n au ch
+029/159	naug	1	n au g
+029/161	nauch	1	n au ch
+029/163	niauch	1	n iau ch
+029/165	nauch	1	n au ch
+029/167	noch	1	n o ch
+029/169	noch	1	n o ch
+029/171	nog	1	n o g
+029/173	nooch	1	n oo ch
+029/175	nog	1	n o g
+029/177	nauch	1	n au ch
+029/181	nog	1	n o g
+030/033	naug	1	n au g
+030/035	nug	1	n u g
+030/037	nug	1	n u g
+030/039	nog	1	n o g
+030/041	noeg	1	n oe g
+030/043	noog	1	n oo g
+030/045	nog	1	n o g
+030/047	nog	1	n o g
+030/049	nog	1	n o g
+030/051	nog	1	n o g
+030/053	noch	1	n o ch
+030/055	nog	1	n o g
+030/057	nog	1	n o g
+030/059	nog	1	n o g
+030/061	nohg	1	n oh g
+030/065	noog	1	n oo g
+030/067	nog	1	n o g
+030/071	nog	1	n o g
+030/073	noog	1	n oo g
+030/075	naug	1	n au g
+030/077	naug	1	n au g
+030/079	naug	1	n au g
+030/081	naug	1	n au g
+030/083	naug	1	n au g
+030/085	nauch	1	n au ch
+030/087	naug	1	n au g
+030/089	naug	1	n au g
+030/091	nauch	1	n au ch
+030/093	nauch	1	n au ch
+030/095	naug	1	n au g
+030/097	naug	1	n au g
+030/099	naug	1	n au g
+030/101	naug	1	n au g
+030/103	naug	1	n au g
+030/105	nog	1	n o g
+030/107	nog	1	n o g
+030/109	noch	1	n o ch
+030/111	NA	NA	-
+030/113	nooch	1	n oo ch
+030/115	nohch	1	n oh ch
+030/117	noog	1	n oo g
+030/119	nog	1	n o g
+030/121	nog	1	n o g
+030/123	nog	1	n o g
+030/125	nog	1	n o g
+030/127	nog	1	n o g
+030/129	naug	1	n au g
+030/131	naug	1	n au g
+030/133	nooch	1	n oo ch
+030/135	nog	1	n o g
+030/137	nog	1	n o g
+030/139	nog	1	n o g
+030/141	nog	1	n o g
+030/143	nauch	1	n au ch
+030/145	nooch	1	n oo ch
+030/147	nuch	1	n u ch
+030/149	nauch	1	n au ch
+030/151	näuch	1	n äu ch
+030/153	näug	1	n äu g
+030/155	nauch	1	n au ch
+030/157	naug	1	n au g
+030/159	noch	1	n o ch
+030/161	nog	1	n o g
+030/163	nauch	1	n au ch
+030/165	neug	1	n eu g
+030/167	nog	1	n o g
+030/169	nog	1	n o g
+030/171	nog	1	n o g
+030/173	nog	1	n o g
+030/175	nauch	1	n au ch
+030/177	nauch	1	n au ch
+030/179	naug	1	n au g
+030/181	nug	1	n u g
+030/183	naug	1	n au g
+031/035	nug	1	n u g
+031/037	noog	1	n oo g
+031/039	naug	1	n au g
+031/041	noog	1	n oo g
+031/043	nog	1	n o g
+031/045	noog	1	n oo g
+031/047	nog	1	n o g
+031/049	nog	1	n o g
+031/051	nog	1	n o g
+031/053	nog	1	n o g
+031/055	nog	1	n o g
+031/057	nog	1	n o g
+031/059	nog	1	n o g
+031/061	noog	1	n oo g
+031/063	nog	1	n o g
+031/065	noong	1	n oo ng
+031/067	nog	1	n o g
+031/069	noog	1	n oo g
+031/071	naug	1	n au g
+031/073	nog	1	n o g
+031/075	noug	1	n ou g
+031/077	naug	1	n au g
+031/079	naug	1	n au g
+031/081	nooech	1	n ooe ch
+031/083	naug	1	n au g
+031/085	naug	1	n au g
+031/087	nauch	1	n au ch
+031/089	naug	1	n au g
+031/091	naug	1	n au g
+031/093	nog	1	n o g
+031/095	noch	1	n o ch
+031/097	nooch	1	n oo ch
+031/099	naug	1	n au g
+031/101	noog	1	n oo g
+031/103	nog	1	n o g
+031/105	noch	1	n o ch
+031/107	nooch	1	n oo ch
+031/109	nooch	1	n oo ch
+031/111	nog	1	n o g
+031/113	nog	1	n o g
+031/115	nooch	1	n oo ch
+031/117	nog	1	n o g
+031/119	nug	1	n u g
+031/121	noog	1	n oo g
+031/123	nog	1	n o g
+031/125	noog	1	n oo g
+031/127	naug	1	n au g
+031/129	nooch	1	n oo ch
+031/131	noog	1	n oo g
+031/133	nog	1	n o g
+031/135	nog	1	n o g
+031/137	nog	1	n o g
+031/139	nohch	1	n oh ch
+031/141	nog	1	n o g
+031/143	nog	1	n o g
+031/145	nooch	1	n oo ch
+031/147	noog	1	n oo g
+031/149	noug	1	n ou g
+031/151	noch	1	n o ch
+031/153	nouch	1	n ou ch
+031/155	huch	1	h u ch
+031/157	nooch	1	n oo ch
+031/159	neog	1	n eo g
+031/161	nooch	1	n oo ch
+031/163	neug	1	n eu g
+031/167	nog	1	n o g
+031/169	nung	1	n u ng
+031/171	nung	1	n u ng
+031/173	nug	1	n u g
+031/175	nog	1	n o g
+031/177	noog	1	n oo g
+031/179	nog	1	n o g
+032/035	noog	1	n oo g
+032/037	nug	1	n u g
+032/039	nugg	1	n u gg
+032/041	nog	1	n o g
+032/043	naog	1	n ao g
+032/045	nog	1	n o g
+032/047	nog	1	n o g
+032/049	nog	1	n o g
+032/051	noog	1	n oo g
+032/053	nugg	1	n u gg
+032/055	nooch	1	n oo ch
+032/057	noog	1	n oo g
+032/059	nog	1	n o g
+032/061	nog	1	n o g
+032/065	naoug	1	n aou g
+032/069	nog	1	n o g
+032/071	noug	1	n ou g
+032/073	nauch	1	n au ch
+032/075	nog	1	n o g
+032/077	nog	1	n o g
+032/079	naog	1	n ao g
+032/081	nog	1	n o g
+032/083	noog	1	n oo g
+032/085	naug	1	n au g
+032/087	naug	1	n au g
+032/089	nauch	1	n au ch
+032/091	naug	1	n au g
+032/093	noog	1	n oo g
+032/095	noach	1	n oa ch
+032/097	nooch	1	n oo ch
+032/099	nog	1	n o g
+032/101	nog	1	n o g
+032/103	NA	NA	-
+032/105	nooch	1	n oo ch
+032/107	nooch	1	n oo ch
+032/111	nug	1	n u g
+032/113	nuch	1	n u ch
+032/115	nog	1	n o g
+032/117	nug	1	n u g
+032/119	nog	1	n o g
+032/121	noog	1	n oo g
+032/123	nog	1	n o g
+032/125	noog	1	n oo g
+032/127	noog	1	n oo g
+032/129	nooch	1	n oo ch
+032/131	noog	1	n oo g
+032/133	nog	1	n o g
+032/135	nooch	1	n oo ch
+032/139	noch	1	n o ch
+032/141	nog	1	n o g
+032/143	nog	1	n o g
+032/145	noog	1	n oo g
+032/147	nug	1	n u g
+032/149	neug	1	n eu g
+032/151	noch	1	n o ch
+032/153	nog	1	n o g
+032/157	nauch	1	n au ch
+032/159	nog	1	n o g
+032/161	näuch	1	n äu ch
+032/163	neoch	1	n eo ch
+032/167	noch	1	n o ch
+032/169	nung	1	n u ng
+032/171	nung	1	n u ng
+032/173	nug	1	n u g
+032/175	nauch	1	n au ch
+032/177	nohch	1	n oh ch
+032/179	naug	1	n au g
+032/181	noog	1	n oo g
+032/183	nooch	1	n oo ch
+033/035	nog	1	n o g
+033/037	nugg	1	n u gg
+033/039	nooeg	1	n ooe g
+033/041	noug	1	n ou g
+033/043	nog	1	n o g
+033/045	noo	1	n oo
+033/047	nog	1	n o g
+033/049	nog	1	n o g
+033/051	nog	1	n o g
+033/053	nog	1	n o g
+033/055	noog	1	n oo g
+033/057	nog	1	n o g
+033/059	noug	1	n ou g
+033/061	noog	1	n oo g
+033/063	nog	1	n o g
+033/065	nog	1	n o g
+033/067	naug	1	n au g
+033/069	nog	1	n o g
+033/071	nog	1	n o g
+033/073	nog	1	n o g
+033/075	nouch	1	n ou ch
+033/077	nouh	1	n ouh
+033/079	noog	1	n oo g
+033/081	nog	1	n o g
+033/083	nauch	1	n au ch
+033/085	nauch	1	n au ch
+033/087	noog	1	n oo g
+033/089	nuch	1	n u ch
+033/091	noog	1	n oo g
+033/093	noog	1	n oo g
+033/095	nog	1	n o g
+033/097	noog	1	n oo g
+033/099	noch	1	n o ch
+033/101	nog	1	n o g
+033/103	noog	1	n oo g
+033/105	nog	1	n o g
+033/107	nooch	1	n oo ch
+033/109	nog	1	n o g
+033/111	nooch	1	n oo ch
+033/113	nuch	1	n u ch
+033/115	nooch	1	n oo ch
+033/117	noch	1	n o ch
+033/119	noch	1	n o ch
+033/121	nog	1	n o g
+033/123	noch	1	n o ch
+033/125	noch	1	n o ch
+033/127	nohg	1	n oh g
+033/129	nog	1	n o g
+033/131	nog	1	n o g
+033/133	noch	1	n o ch
+033/135	nooch	1	n oo ch
+033/137	nooch	1	n oo ch
+033/139	nooch	1	n oo ch
+033/141	noch	1	n o ch
+033/143	noch	1	n o ch
+033/145	nuch	1	n u ch
+033/147	noch	1	n o ch
+033/149	noch	1	n o ch
+033/151	nog	1	n o g
+033/153	nouch	1	n ou ch
+033/155	noog	1	n oo g
+033/159	neuch	1	n eu ch
+033/161	nauch	1	n au ch
+033/163	näuch	1	n äu ch
+033/165	nohg	1	n oh g
+033/167	noch	1	n o ch
+033/169	nooch	1	n oo ch
+033/173	nog	1	n o g
+033/175	nog	1	n o g
+033/177	nog	1	n o g
+034/035	naug	1	n au g
+034/039	neug	1	n eu g
+034/041	noug	1	n ou g
+034/043	neug	1	n eu g
+034/045	nog	1	n o g
+034/047	noog	1	n oo g
+034/049	nog	1	n o g
+034/051	nog	1	n o g
+034/053	nog	1	n o g
+034/055	nooch	1	n oo ch
+034/057	nog	1	n o g
+034/059	nog	1	n o g
+034/061	nog	1	n o g
+034/063	neog	1	n eo g
+034/065	naug	1	n au g
+034/067	naug	1	n au g
+034/069	naug	1	n au g
+034/071	noog	1	n oo g
+034/073	nog	1	n o g
+034/075	noog	1	n oo g
+034/077	noug	1	n ou g
+034/079	noog	1	n oo g
+034/081	nog	1	n o g
+034/083	nog	1	n o g
+034/085	naug	1	n au g
+034/087	noog	1	n oo g
+034/089	noch	1	n o ch
+034/091	noch	1	n o ch
+034/093	nog	1	n o g
+034/095	noch	1	n o ch
+034/097	nog	1	n o g
+034/099	nohg	1	n oh g
+034/101	nog	1	n o g
+034/103	noch	1	n o ch
+034/105	noch	1	n o ch
+034/107	noog	1	n oo g
+034/109	noch	1	n o ch
+034/111	nog	1	n o g
+034/113	nog	1	n o g
+034/115	nog	1	n o g
+034/117	nog	1	n o g
+034/119	nog	1	n o g
+034/121	nog	1	n o g
+034/125	nog	1	n o g
+034/127	nug	1	n u g
+034/129	noch	1	n o ch
+034/131	nog	1	n o g
+034/133	noog	1	n oo g
+034/135	nooch	1	n oo ch
+034/137	noch	1	n o ch
+034/139	noch	1	n o ch
+034/141	noug	1	n ou g
+034/143	noog	1	n oo g
+034/145	noch	1	n o ch
+034/147	nuch	1	n u ch
+034/149	noch	1	n o ch
+034/151	nog	1	n o g
+034/155	nouch	1	n ou ch
+034/157	naug	1	n au g
+034/161	nauch	1	n au ch
+034/163	naug	1	n au g
+034/165	nog	1	n o g
+034/167	nuch	1	n u ch
+034/169	nog	1	n o g
+034/173	noch	1	n o ch
+035/035	nog	1	n o g
+035/037	nog	1	n o g
+035/039	noug	1	n ou g
+035/041	naug	1	n au g
+035/043	noug	1	n ou g
+035/045	naug	1	n au g
+035/047	noog	1	n oo g
+035/049	nog	1	n o g
+035/051	noch	1	n o ch
+035/053	nog	1	n o g
+035/055	nog	1	n o g
+035/057	nooch	1	n oo ch
+035/059	nog	1	n o g
+035/061	nog	1	n o g
+035/063	nog	1	n o g
+035/065	näug	1	n äu g
+035/067	naug	1	n au g
+035/069	nog	1	n o g
+035/071	nog	1	n o g
+035/073	näuch	1	n äu ch
+035/075	noug	1	n ou g
+035/077	noug	1	n ou g
+035/079	nog	1	n o g
+035/081	noog	1	n oo g
+035/083	noog	1	n oo g
+035/085	noog	1	n oo g
+035/087	nög	1	n ö g
+035/089	nog	1	n o g
+035/091	nooch	1	n oo ch
+035/093	nooch	1	n oo ch
+035/095	nog	1	n o g
+035/097	nog	1	n o g
+035/099	nooch	1	n oo ch
+035/101	nooch	1	n oo ch
+035/103	nug	1	n u g
+035/105	noch	1	n o ch
+035/107	noog	1	n oo g
+035/109	nog	1	n o g
+035/111	nog	1	n o g
+035/113	nug	1	n u g
+035/115	nug	1	n u g
+035/117	noch	1	n o ch
+035/121	nog	1	n o g
+035/123	noch	1	n o ch
+035/125	nooch	1	n oo ch
+035/127	noch	1	n o ch
+035/129	nog	1	n o g
+035/133	noch	1	n o ch
+035/135	noog	1	n oo g
+035/137	nooch	1	n oo ch
+035/139	nog	1	n o g
+035/141	noug	1	n ou g
+035/143	nohch	1	n oh ch
+035/145	noug	1	n ou g
+035/147	noch	1	n o ch
+035/149	noch	1	n o ch
+035/151	nouch	1	n ou ch
+035/153	nouch	1	n ou ch
+035/155	noug	1	n ou g
+035/157	nung	1	n u ng
+035/165	nog	1	n o g
+035/167	noch	1	n o ch
+035/169	noch	1	n o ch
+035/171	noch	1	n o ch
+035/173	noch	1	n o ch
+036/033	nog	1	n o g
+036/035	nauch	1	n au ch
+036/039	noug	1	n ou g
+036/041	naug	1	n au g
+036/043	naug	1	n au g
+036/045	naug	1	n au g
+036/047	nog	1	n o g
+036/049	nog	1	n o g
+036/051	nog	1	n o g
+036/053	nog	1	n o g
+036/055	nog	1	n o g
+036/057	noug	1	n ou g
+036/059	nog	1	n o g
+036/061	naug	1	n au g
+036/063	naug	1	n au g
+036/065	naug	1	n au g
+036/067	nauch	1	n au ch
+036/069	noaug	1	n oau g
+036/071	naug	1	n au g
+036/073	noog	1	n oo g
+036/075	naug	1	n au g
+036/077	naug	1	n au g
+036/079	nog	1	n o g
+036/081	noog	1	n oo g
+036/083	nog	1	n o g
+036/085	nog	1	n o g
+036/087	nooch	1	n oo ch
+036/089	nog	1	n o g
+036/091	nooch	1	n oo ch
+036/095	noch	1	n o ch
+036/097	nooch	1	n oo ch
+036/099	nooch	1	n oo ch
+036/101	nohch	1	n oh ch
+036/103	noch	1	n o ch
+036/105	noch	1	n o ch
+036/107	nug	1	n u g
+036/109	nung	1	n u ng
+036/111	nuch	1	n u ch
+036/113	nug	1	n u g
+036/115	nug	1	n u g
+036/117	noch	1	n o ch
+036/119	noch	1	n o ch
+036/121	nooch	1	n oo ch
+036/123	noog	1	n oo g
+036/125	noog	1	n oo g
+036/127	nug	1	n u g
+036/129	nug	1	n u g
+036/133	nooch	1	n oo ch
+036/135	nung	1	n u ng
+036/137	nog	1	n o g
+036/139	noch	1	n o ch
+036/141	nok	1	n o k
+036/143	nog	1	n o g
+036/147	nog	1	n o g
+036/149	nouch	1	n ou ch
+036/151	nog	1	n o g
+036/153	nouch	1	n ou ch
+036/155	noch	1	n o ch
+036/161	naug	1	n au g
+036/163	noich	1	n oi ch
+036/165	nauch	1	n au ch
+036/167	naug	1	n au g
+036/169	nauch	1	n au ch
+036/171	nog	1	n o g
+037/033	nog	1	n o g
+037/035	noch	1	n o ch
+037/037	noug	1	n ou g
+037/039	naug	1	n au g
+037/041	naug	1	n au g
+037/043	naug	1	n au g
+037/045	noug	1	n ou g
+037/047	noug	1	n ou g
+037/049	naug	1	n au g
+037/051	noog	1	n oo g
+037/053	nog	1	n o g
+037/055	nog	1	n o g
+037/057	nog	1	n o g
+037/059	näug	1	n äu g
+037/061	noug	1	n ou g
+037/063	neug	1	n eu g
+037/065	noug	1	n ou g
+037/067	nauch	1	n au ch
+037/069	naug	1	n au g
+037/071	naug	1	n au g
+037/073	noug	1	n ou g
+037/075	naug	1	n au g
+037/077	noug	1	n ou g
+037/079	naug	1	n au g
+037/081	noug	1	n ou g
+037/083	noch	1	n o ch
+037/085	noog	1	n oo g
+037/087	noog	1	n oo g
+037/089	noog	1	n oo g
+037/091	nog	1	n o g
+037/093	nug	1	n u g
+037/095	nog	1	n o g
+037/097	nog	1	n o g
+037/099	nog	1	n o g
+037/101	nug	1	n u g
+037/105	noch	1	n o ch
+037/107	nooch	1	n oo ch
+037/109	nuch	1	n u ch
+037/111	nug	1	n u g
+037/113	nunk	1	n u n k
+037/115	nung	1	n u ng
+037/117	nuch	1	n u ch
+037/119	nung	1	n u ng
+037/121	nuch	1	n u ch
+037/123	nuch	1	n u ch
+037/125	nohch	1	n oh ch
+037/127	nuch	1	n u ch
+037/129	nung	1	n u ng
+037/131	nung	1	n u ng
+037/133	nung	1	n u ng
+037/135	noch	1	n o ch
+037/137	nuch	1	n u ch
+037/139	nug	1	n u g
+037/141	nuch	1	n u ch
+037/145	noog	1	n oo g
+037/147	nouch	1	n ou ch
+037/149	nug	1	n u g
+037/151	nog	1	n o g
+037/153	nooch	1	n oo ch
+037/155	noch	1	n o ch
+037/157	nuch	1	n u ch
+037/159	noch	1	n o ch
+037/163	noch	1	n o ch
+037/171	noog	1	n oo g
+038/033	noug	1	n ou g
+038/035	naug	1	n au g
+038/037	naug	1	n au g
+038/039	naug	1	n au g
+038/041	nauug	1	n auu g
+038/043	naug	1	n au g
+038/045	naug	1	n au g
+038/047	nog	1	n o g
+038/049	noug	1	n ou g
+038/051	naug	1	n au g
+038/053	noug	1	n ou g
+038/055	nog	1	n o g
+038/057	noug	1	n ou g
+038/059	nog	1	n o g
+038/061	noug	1	n ou g
+038/063	noog	1	n oo g
+038/065	naug	1	n au g
+038/067	naoug	1	n aou g
+038/069	naug	1	n au g
+038/071	naug	1	n au g
+038/073	naug	1	n au g
+038/075	naug	1	n au g
+038/077	noug	1	n ou g
+038/079	naug	1	n au g
+038/081	noog	1	n oo g
+038/083	nog	1	n o g
+038/085	nog	1	n o g
+038/087	nog	1	n o g
+038/089	nuch	1	n u ch
+038/091	nog	1	n o g
+038/093	noog	1	n oo g
+038/095	NA	NA	-
+038/097	nog	1	n o g
+038/099	naug	1	n au g
+038/101	nug	1	n u g
+038/103	nug	1	n u g
+038/105	nug	1	n u g
+038/107	nog	1	n o g
+038/109	nung	1	n u ng
+038/111	nung	1	n u ng
+038/113	nung	1	n u ng
+038/115	nung	1	n u ng
+038/117	nug	1	n u g
+038/119	nug	1	n u g
+038/121	nug	1	n u g
+038/123	nung	1	n u ng
+038/125	nung	1	n u ng
+038/127	nug	1	n u g
+038/129	noch	1	n o ch
+038/131	nug	1	n u g
+038/133	nung	1	n u ng
+038/135	nung	1	n u ng
+038/145	nouch	1	n ou ch
+038/147	nouch	1	n ou ch
+038/149	nuch	1	n u ch
+038/151	nuch	1	n u ch
+038/153	nuch	1	n u ch
+038/155	nuch	1	n u ch
+038/159	nuch	1	n u ch
+038/161	noch	1	n o ch
+038/163	nuch	1	n u ch
+039/029	nog	1	n o g
+039/031	nog	1	n o g
+039/033	naug	1	n au g
+039/035	noug	1	n ou g
+039/037	noch	1	n o ch
+039/039	nog	1	n o g
+039/041	naug	1	n au g
+039/043	naug	1	n au g
+039/045	naug	1	n au g
+039/047	nough	1	n ou g h
+039/049	nog	1	n o g
+039/051	noug	1	n ou g
+039/053	nog	1	n o g
+039/055	noug	1	n ou g
+039/057	nog	1	n o g
+039/059	nooug	1	n oou g
+039/061	noog	1	n oo g
+039/063	naug	1	n au g
+039/065	naug	1	n au g
+039/067	naug	1	n au g
+039/069	nauch	1	n au ch
+039/071	naug	1	n au g
+039/073	naug	1	n au g
+039/075	nog	1	n o g
+039/077	nauch	1	n au ch
+039/079	nooch	1	n oo ch
+039/081	noch	1	n o ch
+039/083	nooch	1	n oo ch
+039/085	noug	1	n ou g
+039/087	noch	1	n o ch
+039/089	noj	1	n o j
+039/091	nooch	1	n oo ch
+039/093	noog	1	n oo g
+039/095	nog	1	n o g
+039/097	nug	1	n u g
+039/099	nuch	1	n u ch
+039/101	nug	1	n u g
+039/103	nog	1	n o g
+039/105	nunk	1	n u n k
+039/107	nog	1	n o g
+039/109	nung	1	n u ng
+039/111	nung	1	n u ng
+039/113	nung	1	n u ng
+039/115	nung	1	n u ng
+039/117	nung	1	n u ng
+039/119	nug	1	n u g
+039/121	nung	1	n u ng
+039/123	nung	1	n u ng
+039/125	nung	1	n u ng
+039/127	nung	1	n u ng
+039/129	nung	1	n u ng
+039/131	nung	1	n u ng
+039/133	nug	1	n u g
+039/135	nung	1	n u ng
+039/137	nung	1	n u ng
+039/139	nug	1	n u g
+039/149	nuch	1	n u ch
+039/151	noch	1	n o ch
+039/153	nuch	1	n u ch
+039/155	nooch	1	n oo ch
+040/029	nog	1	n o g
+040/031	noog	1	n oo g
+040/033	nog	1	n o g
+040/035	nog	1	n o g
+040/037	noog	1	n oo g
+040/039	nog	1	n o g
+040/041	nong	1	n o ng
+040/043	naug	1	n au g
+040/045	noog	1	n oo g
+040/047	nog	1	n o g
+040/049	nog	1	n o g
+040/051	nog	1	n o g
+040/053	naug	1	n au g
+040/055	nog	1	n o g
+040/057	naug	1	n au g
+040/059	neug	1	n eu g
+040/061	naug	1	n au g
+040/063	nauch	1	n au ch
+040/065	naug	1	n au g
+040/067	naug	1	n au g
+040/069	naug	1	n au g
+040/071	nauch	1	n au ch
+040/073	naug	1	n au g
+040/075	naug	1	n au g
+040/077	naug	1	n au g
+040/079	nog	1	n o g
+040/081	nog	1	n o g
+040/083	noch	1	n o ch
+040/085	noch	1	n o ch
+040/087	noch	1	n o ch
+040/089	noch	1	n o ch
+040/091	noch	1	n o ch
+040/093	nooch	1	n oo ch
+040/095	nug	1	n u g
+040/097	nung	1	n u ng
+040/099	nug	1	n u g
+040/101	nung	1	n u ng
+040/103	nug	1	n u g
+040/105	nug	1	n u g
+040/107	nug	1	n u g
+040/109	nung	1	n u ng
+040/111	nung	1	n u ng
+040/113	nuch	1	n u ch
+040/115	nunk	1	n u n k
+040/119	nung	1	n u ng
+040/121	nug	1	n u g
+040/123	nung	1	n u ng
+040/125	nug	1	n u g
+040/127	nung	1	n u ng
+040/129	nuch	1	n u ch
+040/131	nug	1	n u g
+040/133	nug	1	n u g
+040/135	nuk	1	n u k
+040/137	nung	1	n u ng
+040/141	nug	1	n u g
+040/143	nung	1	n u ng
+040/149	nung	1	n u ng
+040/153	nouch	1	n ou ch
+040/155	näuch	1	n äu ch
+041/031	nog	1	n o g
+041/033	nog	1	n o g
+041/035	nug	1	n u g
+041/037	nog	1	n o g
+041/039	nog	1	n o g
+041/041	nog	1	n o g
+041/043	noug	1	n ou g
+041/045	nog	1	n o g
+041/047	noug	1	n ou g
+041/049	noach	1	n oa ch
+041/051	nog	1	n o g
+041/053	noug	1	n ou g
+041/055	noug	1	n ou g
+041/057	noug	1	n ou g
+041/059	noug	1	n ou g
+041/061	naug	1	n au g
+041/063	naug	1	n au g
+041/065	naug	1	n au g
+041/067	naug	1	n au g
+041/069	naug	1	n au g
+041/071	naug	1	n au g
+041/073	naug	1	n au g
+041/075	naug	1	n au g
+041/077	naug	1	n au g
+041/079	naug	1	n au g
+041/081	nouch	1	n ou ch
+041/083	nog	1	n o g
+041/085	noch	1	n o ch
+041/087	nog	1	n o g
+041/089	nooch	1	n oo ch
+041/091	nohch	1	n oh ch
+041/093	nog	1	n o g
+041/095	nooch	1	n oo ch
+041/097	nug	1	n u g
+041/099	nuch	1	n u ch
+041/101	nung	1	n u ng
+041/103	nung	1	n u ng
+041/105	nug	1	n u g
+041/107	nuch	1	n u ch
+041/109	nug	1	n u g
+041/111	nung	1	n u ng
+041/113	nung	1	n u ng
+041/115	nung	1	n u ng
+041/117	nung	1	n u ng
+041/119	nung	1	n u ng
+041/121	nung	1	n u ng
+041/123	nung	1	n u ng
+041/125	nung	1	n u ng
+041/127	nug	1	n u g
+041/129	nuch	1	n u ch
+041/131	nunk	1	n u n k
+041/133	nug	1	n u g
+041/135	nug	1	n u g
+041/139	nug	1	n u g
+041/141	NA	NA	-
+041/145	nunk	1	n u n k
+041/147	nung	1	n u ng
+041/153	nuch	1	n u ch
+041/155	nuch	1	n u ch
+041/157	nug	1	n u g
+041/159	nug	1	n u g
+041/161	noch	1	n o ch
+042/033	noeg	1	n oe g
+042/035	nog	1	n o g
+042/037	noog	1	n oo g
+042/039	noog	1	n oo g
+042/041	nog	1	n o g
+042/043	noug	1	n ou g
+042/045	noog	1	n oo g
+042/047	nog	1	n o g
+042/051	noaug	1	n oau g
+042/053	neog	1	n eo g
+042/055	naug	1	n au g
+042/057	näug	1	n äu g
+042/059	naug	1	n au g
+042/061	nauch	1	n au ch
+042/063	naug	1	n au g
+042/065	naug	1	n au g
+042/067	naug	1	n au g
+042/069	naug	1	n au g
+042/071	nauch	1	n au ch
+042/073	naug	1	n au g
+042/075	naug	1	n au g
+042/077	naug	1	n au g
+042/079	naug	1	n au g
+042/081	nauch	1	n au ch
+042/083	noch	1	n o ch
+042/085	nog	1	n o g
+042/087	nohch	1	n oh ch
+042/089	nooch	1	n oo ch
+042/091	noch	1	n o ch
+042/093	nog	1	n o g
+042/095	nug	1	n u g
+042/097	nung	1	n u ng
+042/099	nuch	1	n u ch
+042/101	nung	1	n u ng
+042/103	nug	1	n u g
+042/105	nunk	1	n u n k
+042/107	nug	1	n u g
+042/109	nug	1	n u g
+042/111	nug	1	n u g
+042/113	nung	1	n u ng
+042/115	nung	1	n u ng
+042/117	nung	1	n u ng
+042/119	nung	1	n u ng
+042/121	nug	1	n u g
+042/123	nug	1	n u g
+042/125	nung	1	n u ng
+042/127	nung	1	n u ng
+042/129	nung	1	n u ng
+042/131	nung	1	n u ng
+042/133	nung	1	n u ng
+042/135	nug	1	n u g
+042/137	nug	1	n u g
+042/139	nung	1	n u ng
+042/141	nug	1	n u g
+042/143	nung	1	n u ng
+042/145	nung	1	n u ng
+042/147	nug	1	n u g
+042/149	nung	1	n u ng
+042/151	NA	NA	-
+042/157	näuch	1	n äu ch
+042/159	nug	1	n u g
+042/161	neoch	1	n eo ch
+043/033	noog	1	n oo g
+043/035	nohg	1	n oh g
+043/037	noch	1	n o ch
+043/039	nog	1	n o g
+043/041	nog	1	n o g
+043/043	nouch	1	n ou ch
+043/045	nog	1	n o g
+043/047	nog	1	n o g
+043/049	noog	1	n oo g
+043/051	naug	1	n au g
+043/053	näug	1	n äu g
+043/055	nauch	1	n au ch
+043/057	naug	1	n au g
+043/059	naug	1	n au g
+043/061	neag	1	n ea g
+043/063	naug	1	n au g
+043/065	naug	1	n au g
+043/067	naug	1	n au g
+043/069	naug	1	n au g
+043/071	näich	1	n äi ch
+043/073	naug	1	n au g
+043/075	naug	1	n au g
+043/077	naug	1	n au g
+043/079	naug	1	n au g
+043/081	naug	1	n au g
+043/083	nauch	1	n au ch
+043/085	nauch	1	n au ch
+043/087	nauch	1	n au ch
+043/089	noch	1	n o ch
+043/091	noch	1	n o ch
+043/093	noch	1	n o ch
+043/095	nug	1	n u g
+043/097	nug	1	n u g
+043/099	nung	1	n u ng
+043/101	nung	1	n u ng
+043/103	nung	1	n u ng
+043/105	nung	1	n u ng
+043/107	nuch	1	n u ch
+043/109	nung	1	n u ng
+043/111	nug	1	n u g
+043/113	nung	1	n u ng
+043/115	nung	1	n u ng
+043/117	nung	1	n u ng
+043/119	nug	1	n u g
+043/121	nung	1	n u ng
+043/123	nuch	1	n u ch
+043/125	nug	1	n u g
+043/127	nug	1	n u g
+043/129	nung	1	n u ng
+043/131	nug	1	n u g
+043/133	nug	1	n u g
+043/135	nug	1	n u g
+043/137	nug	1	n u g
+043/141	nug	1	n u g
+043/143	nung	1	n u ng
+043/145	nug	1	n u g
+043/151	nung	1	n u ng
+043/153	nung	1	n u ng
+043/159	nuch	1	n u ch
+043/161	nug	1	n u g
+044/033	nog	1	n o g
+044/035	nog	1	n o g
+044/039	nog	1	n o g
+044/041	nog	1	n o g
+044/043	nog	1	n o g
+044/045	nog	1	n o g
+044/047	naug	1	n au g
+044/049	nog	1	n o g
+044/051	noug	1	n ou g
+044/053	neug	1	n eu g
+044/055	neeug	1	n eeu g
+044/057	naug	1	n au g
+044/059	nauch	1	n au ch
+044/061	noog	1	n oo g
+044/063	nöog	1	n öo g
+044/065	naug	1	n au g
+044/067	nauch	1	n au ch
+044/069	naug	1	n au g
+044/071	neig	1	n ei g
+044/073	neich	1	n ei ch
+044/075	naug	1	n au g
+044/077	naug	1	n au g
+044/079	naug	1	n au g
+044/081	nauch	1	n au ch
+044/083	nauch	1	n au ch
+044/085	nauch	1	n au ch
+044/087	nauch	1	n au ch
+044/089	nog	1	n o g
+044/091	noch	1	n o ch
+044/093	nug	1	n u g
+044/095	noug	1	n ou g
+044/097	nung	1	n u ng
+044/099	NA	NA	-
+044/101	nung	1	n u ng
+044/103	nug	1	n u g
+044/105	nung	1	n u ng
+044/107	nunk	1	n u n k
+044/109	nung	1	n u ng
+044/111	noug	1	n ou g
+044/113	nunk	1	n u n k
+044/115	nung	1	n u ng
+044/117	nung	1	n u ng
+044/119	nug	1	n u g
+044/121	nuch	1	n u ch
+044/123	nug	1	n u g
+044/125	nung	1	n u ng
+044/127	nung	1	n u ng
+044/129	nug	1	n u g
+044/131	nug	1	n u g
+044/133	nug	1	n u g
+044/135	nug	1	n u g
+044/137	nug	1	n u g
+044/141	nung	1	n u ng
+044/143	nung	1	n u ng
+044/145	nung	1	n u ng
+044/149	nug	1	n u g
+044/151	nug	1	n u g
+044/153	nung	1	n u ng
+045/033	nog	1	n o g
+045/035	nog	1	n o g
+045/037	nog	1	n o g
+045/039	nog	1	n o g
+045/041	nog	1	n o g
+045/043	noug	1	n ou g
+045/045	noch	1	n o ch
+045/047	naug	1	n au g
+045/049	noch	1	n o ch
+045/051	neog	1	n eo g
+045/053	nog	1	n o g
+045/055	neoug	1	n eou g
+045/057	nauch	1	n au ch
+045/059	näug	1	n äu g
+045/061	neuch	1	n eu ch
+045/063	näaug	1	n äau g
+045/065	nauch	1	n au ch
+045/067	naug	1	n au g
+045/069	naug	1	n au g
+045/071	näug	1	n äu g
+045/073	naug	1	n au g
+045/075	nauch	1	n au ch
+045/077	naug	1	n au g
+045/079	nauch	1	n au ch
+045/081	nauch	1	n au ch
+045/083	nauch	1	n au ch
+045/085	nauch	1	n au ch
+045/087	nauch	1	n au ch
+045/089	nug	1	n u g
+045/091	nug	1	n u g
+045/093	nuch	1	n u ch
+045/095	nung	1	n u ng
+045/097	nug	1	n u g
+045/099	nung	1	n u ng
+045/101	nung	1	n u ng
+045/103	nung	1	n u ng
+045/105	nuch	1	n u ch
+045/107	nung	1	n u ng
+045/109	nug	1	n u g
+045/111	nung	1	n u ng
+045/113	nung	1	n u ng
+045/115	nung	1	n u ng
+045/117	nung	1	n u ng
+045/119	nung	1	n u ng
+045/121	nug	1	n u g
+045/123	nung	1	n u ng
+045/125	nuck	1	n u ck
+045/127	nung	1	n u ng
+045/129	nug	1	n u g
+045/131	nug	1	n u g
+045/133	nug	1	n u g
+045/135	nung	1	n u ng
+045/137	nung	1	n u ng
+045/139	nug	1	n u g
+045/141	nuck	1	n u ck
+045/143	nung	1	n u ng
+045/145	nug	1	n u g
+045/155	nug	1	n u g
+046/031	noog	1	n oo g
+046/033	nog	1	n o g
+046/035	nug	1	n u g
+046/037	nog	1	n o g
+046/039	nog	1	n o g
+046/041	nog	1	n o g
+046/043	nog	1	n o g
+046/045	nug	1	n u g
+046/047	noug	1	n ou g
+046/049	neog	1	n eo g
+046/051	nauch	1	n au ch
+046/053	neug	1	n eu g
+046/055	neug	1	n eu g
+046/057	näug	1	n äu g
+046/059	naug	1	n au g
+046/061	naug	1	n au g
+046/063	neäug	1	n eäu g
+046/065	näug	1	n äu g
+046/067	naug	1	n au g
+046/069	neog	1	n eo g
+046/071	naug	1	n au g
+046/073	naug	1	n au g
+046/075	naug	1	n au g
+046/077	naug	1	n au g
+046/079	naug	1	n au g
+046/081	nauch	1	n au ch
+046/083	naug	1	n au g
+046/085	naug	1	n au g
+046/087	nung	1	n u ng
+046/089	nug	1	n u g
+046/091	nug	1	n u g
+046/093	nug	1	n u g
+046/095	nung	1	n u ng
+046/097	nug	1	n u g
+046/099	nug	1	n u g
+046/101	nunk	1	n u n k
+046/103	nung	1	n u ng
+046/105	nug	1	n u g
+046/107	nung	1	n u ng
+046/109	nug	1	n u g
+046/111	nung	1	n u ng
+046/113	nung	1	n u ng
+046/115	nung	1	n u ng
+046/117	nung	1	n u ng
+046/119	nug	1	n u g
+046/121	nuch	1	n u ch
+046/123	nung	1	n u ng
+046/125	nuck	1	n u ck
+046/127	nug	1	n u g
+046/129	nug	1	n u g
+046/131	nung	1	n u ng
+046/133	nug	1	n u g
+046/135	nung	1	n u ng
+046/137	nuk	1	n u k
+046/139	nug	1	n u g
+046/141	nug	1	n u g
+046/143	nug	1	n u g
+046/155	nug	1	n u g
+047/031	noch	1	n o ch
+047/033	noch	1	n o ch
+047/035	noog	1	n oo g
+047/037	nog	1	n o g
+047/039	noeg	1	n oe g
+047/041	nog	1	n o g
+047/043	nog	1	n o g
+047/045	nog	1	n o g
+047/047	noug	1	n ou g
+047/049	niäug	1	n iäu g
+047/051	neug	1	n eu g
+047/053	näüg	1	n äü g
+047/055	näoug	1	n äou g
+047/057	noch	1	n o ch
+047/059	nog	1	n o g
+047/061	naug	1	n au g
+047/063	näug	1	n äu g
+047/065	näag	1	n äa g
+047/067	nauch	1	n au ch
+047/069	naug	1	n au g
+047/071	naug	1	n au g
+047/073	nauch	1	n au ch
+047/075	naug	1	n au g
+047/077	naug	1	n au g
+047/079	nauch	1	n au ch
+047/081	naug	1	n au g
+047/083	naug	1	n au g
+047/085	naug	1	n au g
+047/087	naug	1	n au g
+047/089	nug	1	n u g
+047/091	nuch	1	n u ch
+047/093	nug	1	n u g
+047/095	nung	1	n u ng
+047/097	nung	1	n u ng
+047/099	nug	1	n u g
+047/101	nuk	1	n u k
+047/103	nug	1	n u g
+047/105	nuek	1	n ue k
+047/107	noug	1	n ou g
+047/109	nung	1	n u ng
+047/111	nung	1	n u ng
+047/113	nug	1	n u g
+047/115	nug	1	n u g
+047/117	nung	1	n u ng
+047/119	nug	1	n u g
+047/123	nung	1	n u ng
+047/125	nug	1	n u g
+047/127	nug	1	n u g
+047/129	nug	1	n u g
+047/131	nung	1	n u ng
+047/133	nung	1	n u ng
+047/135	nung	1	n u ng
+047/137	nug	1	n u g
+047/139	nung	1	n u ng
+047/141	nung	1	n u ng
+047/147	nug	1	n u g
+047/149	nung	1	n u ng
+047/151	nug	1	n u g
+047/159	nug	1	n u g
+048/021	nug	1	n u g
+048/023	nug	1	n u g
+048/027	nug	1	n u g
+048/029	nog	1	n o g
+048/031	nug	1	n u g
+048/033	noch	1	n o ch
+048/035	nog	1	n o g
+048/037	nog	1	n o g
+048/039	nog	1	n o g
+048/041	nog	1	n o g
+048/045	nuog	1	n uo g
+048/047	noug	1	n ou g
+048/049	noug	1	n ou g
+048/051	noach	1	n oa ch
+048/053	neug	1	n eu g
+048/055	neog	1	n eo g
+048/057	näug	1	n äu g
+048/059	näug	1	n äu g
+048/061	nauch	1	n au ch
+048/063	näug	1	n äu g
+048/065	neag	1	n ea g
+048/067	naug	1	n au g
+048/069	naug	1	n au g
+048/071	nung	1	n u ng
+048/073	naug	1	n au g
+048/075	nauch	1	n au ch
+048/077	naug	1	n au g
+048/079	naug	1	n au g
+048/081	nauch	1	n au ch
+048/083	naug	1	n au g
+048/085	nauch	1	n au ch
+048/087	nug	1	n u g
+048/089	nunk	1	n u n k
+048/091	nung	1	n u ng
+048/093	nung	1	n u ng
+048/095	nug	1	n u g
+048/099	nuch	1	n u ch
+048/101	nung	1	n u ng
+048/103	nung	1	n u ng
+048/105	nug	1	n u g
+048/107	nung	1	n u ng
+048/109	nug	1	n u g
+048/111	nung	1	n u ng
+048/113	nung	1	n u ng
+048/115	nung	1	n u ng
+048/119	nug	1	n u g
+048/123	nung	1	n u ng
+048/125	nung	1	n u ng
+048/127	nug	1	n u g
+048/129	nung	1	n u ng
+048/131	nung	1	n u ng
+048/133	nung	1	n u ng
+048/135	nung	1	n u ng
+048/137	nung	1	n u ng
+048/139	nung	1	n u ng
+048/141	nung	1	n u ng
+048/143	nung	1	n u ng
+048/145	niung	1	n iu ng
+048/147	niug	1	n iu g
+048/153	nug	1	n u g
+048/157	nung	1	n u ng
+048/159	nung	1	n u ng
+049/019	nug	1	n u g
+049/021	nug	1	n u g
+049/023	nug	1	n u g
+049/025	nug	1	n u g
+049/027	nug	1	n u g
+049/029	nug	1	n u g
+049/031	nog	1	n o g
+049/033	nog	1	n o g
+049/035	noog	1	n oo g
+049/037	nog	1	n o g
+049/039	noog	1	n oo g
+049/041	naug	1	n au g
+049/043	nog	1	n o g
+049/045	naoug	1	n aou g
+049/047	nog	1	n o g
+049/049	noug	1	n ou g
+049/051	näug	1	n äu g
+049/053	neog	1	n eo g
+049/055	neug	1	n eu g
+049/057	neog	1	n eo g
+049/059	neoug	1	n eou g
+049/061	neog	1	n eo g
+049/063	nääug	1	n ääu g
+049/065	näug	1	n äu g
+049/067	neug	1	n eu g
+049/069	naug	1	n au g
+049/071	naug	1	n au g
+049/073	nung	1	n u ng
+049/077	nauch	1	n au ch
+049/079	nauch	1	n au ch
+049/081	nauch	1	n au ch
+049/083	nauch	1	n au ch
+049/085	nug	1	n u g
+049/087	nunk	1	n u n k
+049/089	nunk	1	n u n k
+049/091	nung	1	n u ng
+049/093	nung	1	n u ng
+049/095	nunk	1	n u n k
+049/097	nung	1	n u ng
+049/099	nunk	1	n u n k
+049/101	nung	1	n u ng
+049/103	nunk	1	n u n k
+049/105	nuch	1	n u ch
+049/107	nug	1	n u g
+049/109	nung	1	n u ng
+049/111	nug	1	n u g
+049/113	nunk	1	n u n k
+049/115	nung	1	n u ng
+049/117	nung	1	n u ng
+049/119	nung	1	n u ng
+049/121	nuch	1	n u ch
+049/123	nug	1	n u g
+049/125	nung	1	n u ng
+049/127	nug	1	n u g
+049/129	nug	1	n u g
+049/131	nug	1	n u g
+049/133	nung	1	n u ng
+049/135	nug	1	n u g
+049/137	nung	1	n u ng
+049/139	nung	1	n u ng
+049/141	nung	1	n u ng
+049/143	nung	1	n u ng
+049/145	nung	1	n u ng
+049/147	nung	1	n u ng
+049/151	nung	1	n u ng
+050/021	nug	1	n u g
+050/023	nug	1	n u g
+050/025	nug	1	n u g
+050/027	nug	1	n u g
+050/029	nog	1	n o g
+050/031	nuch	1	n u ch
+050/033	noog	1	n oo g
+050/035	naug	1	n au g
+050/037	noug	1	n ou g
+050/039	nog	1	n o g
+050/041	naug	1	n au g
+050/043	nog	1	n o g
+050/047	naog	1	n ao g
+050/049	naug	1	n au g
+050/051	nog	1	n o g
+050/053	neog	1	n eo g
+050/055	neog	1	n eo g
+050/057	nog	1	n o g
+050/059	neug	1	n eu g
+050/061	nog	1	n o g
+050/063	nääug	1	n ääu g
+050/065	näug	1	n äu g
+050/067	naug	1	n au g
+050/069	nauch	1	n au ch
+050/071	naug	1	n au g
+050/073	naug	1	n au g
+050/075	nunk	1	n u n k
+050/077	nauch	1	n au ch
+050/079	nung	1	n u ng
+050/081	nunk	1	n u n k
+050/083	nauch	1	n au ch
+050/085	nueg	1	n ue g
+050/087	nung	1	n u ng
+050/089	nunk	1	n u n k
+050/091	nung	1	n u ng
+050/093	nunk	1	n u n k
+050/095	nung	1	n u ng
+050/097	nug	1	n u g
+050/099	nunk	1	n u n k
+050/101	nungk	1	n u ng k
+050/103	nunk	1	n u n k
+050/105	nung	1	n u ng
+050/107	nunk	1	n u n k
+050/109	nung	1	n u ng
+050/111	nug	1	n u g
+050/113	nuch	1	n u ch
+050/115	nug	1	n u g
+050/117	nung	1	n u ng
+050/119	nung	1	n u ng
+050/121	nung	1	n u ng
+050/125	nug	1	n u g
+050/127	nug	1	n u g
+050/129	nung	1	n u ng
+050/131	nug	1	n u g
+050/133	nung	1	n u ng
+050/135	nung	1	n u ng
+050/137	nung	1	n u ng
+050/139	nug	1	n u g
+050/141	nung	1	n u ng
+050/143	nung	1	n u ng
+050/145	nung	1	n u ng
+050/147	nung	1	n u ng
+050/149	nug	1	n u g
+050/151	nug	1	n u g
+050/155	nung	1	n u ng
+050/157	nung	1	n u ng
+050/159	nung	1	n u ng
+050/161	nung	1	n u ng
+051/023	nug	1	n u g
+051/025	nug	1	n u g
+051/027	nogg	1	n o gg
+051/029	nug	1	n u g
+051/031	naug	1	n au g
+051/033	nauch	1	n au ch
+051/035	naug	1	n au g
+051/037	nauch	1	n au ch
+051/039	noog	1	n oo g
+051/041	naug	1	n au g
+051/043	naug	1	n au g
+051/045	näug	1	n äu g
+051/047	nauch	1	n au ch
+051/049	NA	NA	-
+051/051	neoug	1	n eou g
+051/053	näuug	1	n äuu g
+051/055	naug	1	n au g
+051/057	noch	1	n o ch
+051/059	noch	1	n o ch
+051/061	nug	1	n u g
+051/063	naug	1	n au g
+051/065	näuch	1	n äu ch
+051/067	naug	1	n au g
+051/069	nääug	1	n ääu g
+051/071	nauch	1	n au ch
+051/073	satt	1	s a tt
+051/075	nung	1	n u ng
+051/077	naug	1	n au g
+051/079	nunck	1	n u n ck
+051/081	nug	1	n u g
+051/083	nung	1	n u ng
+051/085	nunk	1	n u n k
+051/087	nuk	1	n u k
+051/089	nunk	1	n u n k
+051/091	nung	1	n u ng
+051/093	nunk	1	n u n k
+051/095	nung	1	n u ng
+051/097	nung	1	n u ng
+051/099	nung	1	n u ng
+051/101	nung	1	n u ng
+051/103	nung	1	n u ng
+051/105	nunk	1	n u n k
+051/107	nung	1	n u ng
+051/109	nuch	1	n u ch
+051/111	nung	1	n u ng
+051/113	nung	1	n u ng
+051/115	nung	1	n u ng
+051/117	nung	1	n u ng
+051/119	nung	1	n u ng
+051/121	nung	1	n u ng
+051/123	nug	1	n u g
+051/125	nung	1	n u ng
+051/127	nung	1	n u ng
+051/129	nung	1	n u ng
+051/131	nung	1	n u ng
+051/133	nung	1	n u ng
+051/135	nung	1	n u ng
+051/137	nug	1	n u g
+051/139	nung	1	n u ng
+051/141	nung	1	n u ng
+051/143	nuck	1	n u ck
+051/145	nung	1	n u ng
+051/147	nung	1	n u ng
+051/149	nung	1	n u ng
+051/151	nung	1	n u ng
+051/153	nug	1	n u g
+051/155	nung	1	n u ng
+051/157	nung	1	n u ng
+052/023	nug	1	n u g
+052/025	nuch	1	n u ch
+052/027	nug	1	n u g
+052/029	nug	1	n u g
+052/031	naug	1	n au g
+052/033	naug	1	n au g
+052/035	naug	1	n au g
+052/037	naug	1	n au g
+052/039	naug	1	n au g
+052/041	naug	1	n au g
+052/043	naug	1	n au g
+052/045	naug	1	n au g
+052/047	naug	1	n au g
+052/049	nauch	1	n au ch
+052/051	neug	1	n eu g
+052/053	näug	1	n äu g
+052/057	naug	1	n au g
+052/059	noch	1	n o ch
+052/061	nog	1	n o g
+052/063	naug	1	n au g
+052/065	naug	1	n au g
+052/067	nauch	1	n au ch
+052/069	nauch	1	n au ch
+052/071	naug	1	n au g
+052/073	nauch	1	n au ch
+052/075	satt	1	s a tt
+052/077	nung	1	n u ng
+052/079	nung	1	n u ng
+052/081	nung	1	n u ng
+052/083	nug	1	n u g
+052/085	nunk	1	n u n k
+052/087	nunk	1	n u n k
+052/089	nunk	1	n u n k
+052/091	nung	1	n u ng
+052/093	nung	1	n u ng
+052/095	nungk	1	n u ng k
+052/097	nung	1	n u ng
+052/099	nung	1	n u ng
+052/101	nung	1	n u ng
+052/103	nug	1	n u g
+052/105	nung	1	n u ng
+052/107	nung	1	n u ng
+052/109	nunk	1	n u n k
+052/111	nug	1	n u g
+052/113	nung	1	n u ng
+052/115	nung	1	n u ng
+052/117	nung	1	n u ng
+052/121	nug	1	n u g
+052/123	nung	1	n u ng
+052/125	nung	1	n u ng
+052/127	nung	1	n u ng
+052/129	nung	1	n u ng
+052/131	nug	1	n u g
+052/133	nug	1	n u g
+052/135	nug	1	n u g
+052/137	nung	1	n u ng
+052/139	nung	1	n u ng
+052/141	nung	1	n u ng
+052/143	nung	1	n u ng
+052/145	nung	1	n u ng
+052/147	nung	1	n u ng
+052/149	nung	1	n u ng
+052/151	nug	1	n u g
+052/153	nug	1	n u g
+052/155	nug	1	n u g
+052/157	nung	1	n u ng
+052/159	nug	1	n u g
+053/023	nug	1	n u g
+053/025	nog	1	n o g
+053/027	nug	1	n u g
+053/029	nuch	1	n u ch
+053/031	noug	1	n ou g
+053/033	naug	1	n au g
+053/035	naug	1	n au g
+053/037	naug	1	n au g
+053/039	naug	1	n au g
+053/041	naug	1	n au g
+053/043	naug	1	n au g
+053/045	naug	1	n au g
+053/047	naug	1	n au g
+053/049	naug	1	n au g
+053/051	neig	1	n ei g
+053/053	naug	1	n au g
+053/055	niäug	1	n iäu g
+053/057	nog	1	n o g
+053/059	noch	1	n o ch
+053/061	noch	1	n o ch
+053/063	naug	1	n au g
+053/065	naug	1	n au g
+053/067	naug	1	n au g
+053/069	naug	1	n au g
+053/071	nauch	1	n au ch
+053/073	satt	1	s a tt
+053/075	nung	1	n u ng
+053/077	nunk	1	n u n k
+053/079	nung	1	n u ng
+053/081	nunk	1	n u n k
+053/083	nung	1	n u ng
+053/085	nung	1	n u ng
+053/087	nunk	1	n u n k
+053/089	nunk	1	n u n k
+053/091	nung	1	n u ng
+053/093	nunk	1	n u n k
+053/095	nung	1	n u ng
+053/097	nung	1	n u ng
+053/099	nung	1	n u ng
+053/101	nunk	1	n u n k
+053/103	nung	1	n u ng
+053/105	nungk	1	n u ng k
+053/107	nug	1	n u g
+053/109	nung	1	n u ng
+053/111	nungk	1	n u ng k
+053/113	nug	1	n u g
+053/115	nung	1	n u ng
+053/121	nug	1	n u g
+053/123	nung	1	n u ng
+053/125	nuk	1	n u k
+053/127	nung	1	n u ng
+053/129	nung	1	n u ng
+053/131	nung	1	n u ng
+053/133	nung	1	n u ng
+053/135	nug	1	n u g
+053/137	nung	1	n u ng
+053/139	nug	1	n u g
+053/141	nung	1	n u ng
+053/143	nung	1	n u ng
+053/145	nung	1	n u ng
+053/147	nug	1	n u g
+053/149	nung	1	n u ng
+053/151	nug	1	n u g
+053/153	nug	1	n u g
+053/155	nunk	1	n u n k
+053/157	nung	1	n u ng
+054/023	nog	1	n o g
+054/025	noch	1	n o ch
+054/027	nog	1	n o g
+054/029	noch	1	n o ch
+054/031	nog	1	n o g
+054/033	nog	1	n o g
+054/035	naug	1	n au g
+054/037	naug	1	n au g
+054/039	naug	1	n au g
+054/041	naug	1	n au g
+054/043	nauch	1	n au ch
+054/045	naug	1	n au g
+054/047	naug	1	n au g
+054/049	naug	1	n au g
+054/051	naug	1	n au g
+054/053	noch	1	n o ch
+054/055	noch	1	n o ch
+054/057	nog	1	n o g
+054/059	nog	1	n o g
+054/061	nunk	1	n u n k
+054/063	nunk	1	n u n k
+054/065	naug	1	n au g
+054/067	nug	1	n u g
+054/069	nuck	1	n u ck
+054/071	nunk	1	n u n k
+054/073	nung	1	n u ng
+054/075	nunk	1	n u n k
+054/077	nunk	1	n u n k
+054/079	nunk	1	n u n k
+054/081	nunk	1	n u n k
+054/083	nung	1	n u ng
+054/085	nung	1	n u ng
+054/087	nung	1	n u ng
+054/089	nunk	1	n u n k
+054/091	nunk	1	n u n k
+054/093	nunk	1	n u n k
+054/095	nung	1	n u ng
+054/097	nung	1	n u ng
+054/099	nunk	1	n u n k
+054/101	nung	1	n u ng
+054/103	nung	1	n u ng
+054/105	nung	1	n u ng
+054/107	nung	1	n u ng
+054/109	nung	1	n u ng
+054/111	nung	1	n u ng
+054/113	nung	1	n u ng
+054/115	nunk	1	n u n k
+054/117	nuong	1	n uo ng
+054/119	nung	1	n u ng
+054/121	nug	1	n u g
+054/123	nung	1	n u ng
+054/125	nung	1	n u ng
+054/127	nung	1	n u ng
+054/131	nug	1	n u g
+054/133	nung	1	n u ng
+054/135	nug	1	n u g
+054/137	nug	1	n u g
+054/139	nung	1	n u ng
+054/141	nung	1	n u ng
+054/143	nung	1	n u ng
+054/145	nung	1	n u ng
+054/147	nug	1	n u g
+054/149	nug	1	n u g
+054/151	nug	1	n u g
+054/153	nung	1	n u ng
+054/155	nung	1	n u ng
+054/157	nug	1	n u g
+054/159	nuk	1	n u k
+054/161	nunk	1	n u n k
+054/163	noh	1	n oh
+055/023	nog	1	n o g
+055/025	nogg	1	n o gg
+055/027	nog	1	n o g
+055/029	nöch	1	n ö ch
+055/031	nog	1	n o g
+055/033	noch	1	n o ch
+055/035	naug	1	n au g
+055/037	NA	NA	-
+055/039	naug	1	n au g
+055/041	naug	1	n au g
+055/043	naug	1	n au g
+055/045	naug	1	n au g
+055/047	naug	1	n au g
+055/049	naug	1	n au g
+055/051	naug	1	n au g
+055/053	noch	1	n o ch
+055/055	nog	1	n o g
+055/057	nogg	1	n o gg
+055/059	noch	1	n o ch
+055/061	nug	1	n u g
+055/063	nung	1	n u ng
+055/065	nuck	1	n u ck
+055/067	nuk	1	n u k
+055/069	nuk	1	n u k
+055/071	nuk	1	n u k
+055/073	nung	1	n u ng
+055/075	nung	1	n u ng
+055/077	nung	1	n u ng
+055/079	NA	NA	-
+055/081	nunk	1	n u n k
+055/083	nung	1	n u ng
+055/085	nung	1	n u ng
+055/087	nung	1	n u ng
+055/089	nung	1	n u ng
+055/091	nungk	1	n u ng k
+055/093	nung	1	n u ng
+055/095	nung	1	n u ng
+055/097	nung	1	n u ng
+055/099	nung	1	n u ng
+055/101	nung	1	n u ng
+055/103	nung	1	n u ng
+055/105	nung	1	n u ng
+055/107	nung	1	n u ng
+055/109	nung	1	n u ng
+055/111	nung	1	n u ng
+055/113	nung	1	n u ng
+055/115	nug	1	n u g
+055/117	nug	1	n u g
+055/119	nug	1	n u g
+055/123	nung	1	n u ng
+055/125	nung	1	n u ng
+055/127	nung	1	n u ng
+055/131	nug	1	n u g
+055/133	nung	1	n u ng
+055/135	nug	1	n u g
+055/137	nug	1	n u g
+055/139	nung	1	n u ng
+055/141	nung	1	n u ng
+055/143	nung	1	n u ng
+055/145	nung	1	n u ng
+055/147	nug	1	n u g
+055/149	nug	1	n u g
+055/151	nung	1	n u ng
+055/153	nung	1	n u ng
+055/155	nug	1	n u g
+055/157	nung	1	n u ng
+055/159	nung	1	n u ng
+055/161	nug	1	n u g
+056/021	nog	1	n o g
+056/023	nog	1	n o g
+056/025	nog	1	n o g
+056/027	noch	1	n o ch
+056/029	noch	1	n o ch
+056/031	noch	1	n o ch
+056/033	noch	1	n o ch
+056/035	noch	1	n o ch
+056/037	naug	1	n au g
+056/039	nauch	1	n au ch
+056/041	naug	1	n au g
+056/043	naug	1	n au g
+056/045	naug	1	n au g
+056/047	näug	1	n äu g
+056/049	naug	1	n au g
+056/051	näug	1	n äu g
+056/053	naug	1	n au g
+056/055	noch	1	n o ch
+056/057	noch	1	n o ch
+056/059	nung	1	n u ng
+056/061	nung	1	n u ng
+056/063	nung	1	n u ng
+056/065	nong	1	n o ng
+056/067	nug	1	n u g
+056/069	nuk	1	n u k
+056/071	nuk	1	n u k
+056/073	nung	1	n u ng
+056/075	nong	1	n o ng
+056/077	nunk	1	n u n k
+056/079	nunk	1	n u n k
+056/081	nung	1	n u ng
+056/083	nung	1	n u ng
+056/085	nunk	1	n u n k
+056/087	nung	1	n u ng
+056/089	nung	1	n u ng
+056/091	nunk	1	n u n k
+056/093	nungk	1	n u ng k
+056/095	nunk	1	n u n k
+056/097	nung	1	n u ng
+056/099	nung	1	n u ng
+056/101	nung	1	n u ng
+056/103	nung	1	n u ng
+056/105	nung	1	n u ng
+056/107	nunk	1	n u n k
+056/109	nung	1	n u ng
+056/111	nung	1	n u ng
+056/113	nunk	1	n u n k
+056/115	nung	1	n u ng
+056/117	nung	1	n u ng
+056/121	nung	1	n u ng
+056/123	nung	1	n u ng
+056/125	nung	1	n u ng
+056/127	nug	1	n u g
+056/129	nunk	1	n u n k
+056/131	nung	1	n u ng
+056/133	nung	1	n u ng
+056/135	nug	1	n u g
+056/137	nung	1	n u ng
+056/139	nug	1	n u g
+056/141	nung	1	n u ng
+056/143	nung	1	n u ng
+056/145	nung	1	n u ng
+056/147	nung	1	n u ng
+056/149	nung	1	n u ng
+056/151	nung	1	n u ng
+056/153	nung	1	n u ng
+056/155	nug	1	n u g
+056/157	nung	1	n u ng
+056/159	nung	1	n u ng
+056/161	nung	1	n u ng
+057/021	nog	1	n o g
+057/023	nog	1	n o g
+057/025	noch	1	n o ch
+057/027	nog	1	n o g
+057/029	nog	1	n o g
+057/031	nug	1	n u g
+057/033	noch	1	n o ch
+057/035	noog	1	n oo g
+057/037	nauk	1	n au k
+057/039	naug	1	n au g
+057/041	naug	1	n au g
+057/043	naug	1	n au g
+057/045	naug	1	n au g
+057/047	naug	1	n au g
+057/049	naug	1	n au g
+057/051	nung	1	n u ng
+057/053	noch	1	n o ch
+057/055	nunk	1	n u n k
+057/057	nung	1	n u ng
+057/059	nüng	1	n ü ng
+057/061	nüng	1	n ü ng
+057/063	nung	1	n u ng
+057/065	nunk	1	n u n k
+057/067	nungk	1	n u ng k
+057/069	nug	1	n u g
+057/071	nung	1	n u ng
+057/073	nunk	1	n u n k
+057/075	nunk	1	n u n k
+057/077	nung	1	n u ng
+057/079	nung	1	n u ng
+057/081	nongk	1	n o ng k
+057/083	nong	1	n o ng
+057/085	nonk	1	n o n k
+057/087	nung	1	n u ng
+057/089	nunk	1	n u n k
+057/091	nunk	1	n u n k
+057/093	nunk	1	n u n k
+057/095	nunk	1	n u n k
+057/097	nung	1	n u ng
+057/099	nung	1	n u ng
+057/101	nung	1	n u ng
+057/103	nung	1	n u ng
+057/105	nug	1	n u g
+057/107	nung	1	n u ng
+057/109	nug	1	n u g
+057/111	nung	1	n u ng
+057/113	nung	1	n u ng
+057/115	nung	1	n u ng
+057/117	nung	1	n u ng
+057/119	nung	1	n u ng
+057/121	nung	1	n u ng
+057/123	nung	1	n u ng
+057/125	nung	1	n u ng
+057/127	nung	1	n u ng
+057/129	nug	1	n u g
+057/131	nung	1	n u ng
+057/133	nung	1	n u ng
+057/135	nung	1	n u ng
+057/137	nung	1	n u ng
+057/139	nung	1	n u ng
+057/141	nug	1	n u g
+057/143	nug	1	n u g
+057/145	nung	1	n u ng
+057/147	nung	1	n u ng
+057/149	nug	1	n u g
+057/151	nung	1	n u ng
+057/153	nung	1	n u ng
+057/155	nung	1	n u ng
+057/157	nung	1	n u ng
+057/159	nug	1	n u g
+057/161	nug	1	n u g
+058/019	nog	1	n o g
+058/021	noch	1	n o ch
+058/023	noch	1	n o ch
+058/025	nog	1	n o g
+058/027	noch	1	n o ch
+058/029	nog	1	n o g
+058/031	nug	1	n u g
+058/033	noch	1	n o ch
+058/035	nog	1	n o g
+058/037	nohch	1	n oh ch
+058/039	naug	1	n au g
+058/041	nauch	1	n au ch
+058/043	naug	1	n au g
+058/045	naug	1	n au g
+058/047	nüng	1	n ü ng
+058/049	nüng	1	n ü ng
+058/051	nünk	1	n ü n k
+058/053	nung	1	n u ng
+058/055	nüng	1	n ü ng
+058/057	nung	1	n u ng
+058/059	nünk	1	n ü n k
+058/061	nüng	1	n ü ng
+058/063	nünk	1	n ü n k
+058/065	nunk	1	n u n k
+058/067	nonk	1	n o n k
+058/069	nünk	1	n ü n k
+058/071	nung	1	n u ng
+058/073	nunk	1	n u n k
+058/075	nung	1	n u ng
+058/077	naug	1	n au g
+058/079	nong	1	n o ng
+058/081	nonk	1	n o n k
+058/083	nonk	1	n o n k
+058/085	noch	1	n o ch
+058/087	nong	1	n o ng
+058/089	satt	1	s a tt
+058/091	nung	1	n u ng
+058/093	nung	1	n u ng
+058/095	nung	1	n u ng
+058/097	nungk	1	n u ng k
+058/099	nung	1	n u ng
+058/101	nung	1	n u ng
+058/103	nug	1	n u g
+058/105	sott	1	s o tt
+058/107	nung	1	n u ng
+058/109	nuog	1	n uo g
+058/111	nung	1	n u ng
+058/113	nung	1	n u ng
+058/115	nung	1	n u ng
+058/117	nung	1	n u ng
+058/119	nung	1	n u ng
+058/121	NA	NA	-
+058/123	nung	1	n u ng
+058/125	nung	1	n u ng
+058/127	nung	1	n u ng
+058/129	nungk	1	n u ng k
+058/131	nung	1	n u ng
+058/133	nung	1	n u ng
+058/135	nung	1	n u ng
+058/137	nung	1	n u ng
+058/139	nung	1	n u ng
+058/141	nung	1	n u ng
+058/143	nung	1	n u ng
+058/145	nung	1	n u ng
+058/147	nug	1	n u g
+058/149	nung	1	n u ng
+058/151	nung	1	n u ng
+058/153	nung	1	n u ng
+058/155	nug	1	n u g
+058/157	nug	1	n u g
+058/159	nung	1	n u ng
+059/019	nug	1	n u g
+059/021	noch	1	n o ch
+059/023	noch	1	n o ch
+059/025	nog	1	n o g
+059/027	nog	1	n o g
+059/029	nog	1	n o g
+059/031	nog	1	n o g
+059/033	nog	1	n o g
+059/035	nug	1	n u g
+059/037	nug	1	n u g
+059/039	nog	1	n o g
+059/041	nuuc	1	n uu c
+059/043	noog	1	n oo g
+059/045	nog	1	n o g
+059/047	nunk	1	n u n k
+059/049	nunk	1	n u n k
+059/051	nung	1	n u ng
+059/053	nunk	1	n u n k
+059/055	nunk	1	n u n k
+059/057	nung	1	n u ng
+059/059	nung	1	n u ng
+059/061	nüng	1	n ü ng
+059/063	nung	1	n u ng
+059/065	nüng	1	n ü ng
+059/067	nung	1	n u ng
+059/069	nuunk	1	n uu n k
+059/071	nüng	1	n ü ng
+059/073	nong	1	n o ng
+059/075	nonk	1	n o n k
+059/077	nung	1	n u ng
+059/079	nunk	1	n u n k
+059/081	nunk	1	n u n k
+059/083	nunk	1	n u n k
+059/085	nonk	1	n o n k
+059/087	nonk	1	n o n k
+059/089	nunk	1	n u n k
+059/091	nung	1	n u ng
+059/093	nong	1	n o ng
+059/095	nung	1	n u ng
+059/097	nung	1	n u ng
+059/099	nunk	1	n u n k
+059/101	nung	1	n u ng
+059/103	nunk	1	n u n k
+059/105	nungk	1	n u ng k
+059/107	nung	1	n u ng
+059/109	nung	1	n u ng
+059/111	nung	1	n u ng
+059/113	nung	1	n u ng
+059/115	nunk	1	n u n k
+059/117	nung	1	n u ng
+059/119	nung	1	n u ng
+059/121	nung	1	n u ng
+059/123	nung	1	n u ng
+059/125	nung	1	n u ng
+059/127	nug	1	n u g
+059/129	nung	1	n u ng
+059/131	nung	1	n u ng
+059/133	nung	1	n u ng
+059/135	nung	1	n u ng
+059/137	nung	1	n u ng
+059/139	nung	1	n u ng
+059/141	nung	1	n u ng
+059/143	nung	1	n u ng
+059/145	nung	1	n u ng
+059/147	nung	1	n u ng
+059/149	nung	1	n u ng
+059/151	nung	1	n u ng
+059/153	nung	1	n u ng
+059/155	nug	1	n u g
+059/157	nung	1	n u ng
+059/159	nung	1	n u ng
+059/161	nug	1	n u g
+059/165	nug	1	n u g
+059/169	nug	1	n u g
+060/021	nog	1	n o g
+060/023	noch	1	n o ch
+060/025	nog	1	n o g
+060/027	nog	1	n o g
+060/029	noch	1	n o ch
+060/031	noch	1	n o ch
+060/033	nog	1	n o g
+060/035	nooch	1	n oo ch
+060/037	nog	1	n o g
+060/039	nug	1	n u g
+060/041	nog	1	n o g
+060/043	nug	1	n u g
+060/045	noch	1	n o ch
+060/047	nonk	1	n o n k
+060/049	nunk	1	n u n k
+060/051	nunk	1	n u n k
+060/053	nunk	1	n u n k
+060/055	nunk	1	n u n k
+060/057	nungk	1	n u ng k
+060/059	nunk	1	n u n k
+060/061	nungk	1	n u ng k
+060/063	nung	1	n u ng
+060/065	nunk	1	n u n k
+060/067	nunk	1	n u n k
+060/069	nüngk	1	n ü ng k
+060/071	nünk	1	n ü n k
+060/073	nongk	1	n o ng k
+060/075	nung	1	n u ng
+060/077	nungk	1	n u ng k
+060/079	nung	1	n u ng
+060/081	nung	1	n u ng
+060/083	nunk	1	n u n k
+060/085	nunk	1	n u n k
+060/087	nung	1	n u ng
+060/089	nug	1	n u g
+060/091	nunk	1	n u n k
+060/093	sott	1	s o tt
+060/095	nunk	1	n u n k
+060/097	nung	1	n u ng
+060/099	nung	1	n u ng
+060/101	nung	1	n u ng
+060/103	satt	1	s a tt
+060/105	nunk	1	n u n k
+060/107	nung	1	n u ng
+060/109	nungk	1	n u ng k
+060/111	nung	1	n u ng
+060/113	nung	1	n u ng
+060/115	nung	1	n u ng
+060/117	nung	1	n u ng
+060/119	nung	1	n u ng
+060/121	nung	1	n u ng
+060/123	nung	1	n u ng
+060/125	nunk	1	n u n k
+060/127	nung	1	n u ng
+060/129	nung	1	n u ng
+060/131	nung	1	n u ng
+060/135	nung	1	n u ng
+060/137	nug	1	n u g
+060/139	nung	1	n u ng
+060/141	nung	1	n u ng
+060/143	nung	1	n u ng
+060/145	nung	1	n u ng
+060/147	nung	1	n u ng
+060/149	nung	1	n u ng
+060/151	NA	NA	-
+060/153	nung	1	n u ng
+060/155	nunk	1	n u n k
+060/157	nug	1	n u g
+060/159	nung	1	n u ng
+060/163	nung	1	n u ng
+060/165	nug	1	n u g
+061/021	nooch	1	n oo ch
+061/023	noch	1	n o ch
+061/025	nog	1	n o g
+061/027	noch	1	n o ch
+061/029	nog	1	n o g
+061/031	nog	1	n o g
+061/033	nog	1	n o g
+061/035	nog	1	n o g
+061/037	nohch	1	n oh ch
+061/039	nog	1	n o g
+061/041	nug	1	n u g
+061/043	nog	1	n o g
+061/045	nug	1	n u g
+061/047	nonk	1	n o n k
+061/049	nunk	1	n u n k
+061/051	nung	1	n u ng
+061/053	nunk	1	n u n k
+061/055	nunk	1	n u n k
+061/057	nung	1	n u ng
+061/059	nunk	1	n u n k
+061/061	nunk	1	n u n k
+061/063	nunk	1	n u n k
+061/065	nung	1	n u ng
+061/067	nunk	1	n u n k
+061/069	nünk	1	n ü n k
+061/071	nungk	1	n u ng k
+061/073	nunk	1	n u n k
+061/075	nungk	1	n u ng k
+061/077	nung	1	n u ng
+061/079	nungk	1	n u ng k
+061/081	nungk	1	n u ng k
+061/083	nong	1	n o ng
+061/085	nunk	1	n u n k
+061/087	nug	1	n u g
+061/089	nung	1	n u ng
+061/091	nung	1	n u ng
+061/093	nung	1	n u ng
+061/095	nunk	1	n u n k
+061/097	nung	1	n u ng
+061/099	nung	1	n u ng
+061/101	nug	1	n u g
+061/103	satt	1	s a tt
+061/105	satt	1	s a tt
+061/107	nung	1	n u ng
+061/109	nung	1	n u ng
+061/111	nung	1	n u ng
+061/113	nung	1	n u ng
+061/115	nung	1	n u ng
+061/117	nung	1	n u ng
+061/119	nung	1	n u ng
+061/121	nung	1	n u ng
+061/123	nung	1	n u ng
+061/125	nung	1	n u ng
+061/127	nung	1	n u ng
+061/129	nunk	1	n u n k
+061/131	nung	1	n u ng
+061/133	nung	1	n u ng
+061/137	nung	1	n u ng
+061/139	nung	1	n u ng
+061/141	nung	1	n u ng
+061/143	nung	1	n u ng
+061/145	nunk	1	n u n k
+061/147	nung	1	n u ng
+061/149	nung	1	n u ng
+061/151	nung	1	n u ng
+061/153	nüng	1	n ü ng
+061/155	nung	1	n u ng
+061/157	nung	1	n u ng
+061/159	nung	1	n u ng
+061/161	nung	1	n u ng
+061/165	nug	1	n u g
+062/021	noch	1	n o ch
+062/023	nog	1	n o g
+062/025	nog	1	n o g
+062/027	nog	1	n o g
+062/029	nog	1	n o g
+062/031	nog	1	n o g
+062/033	noohch	1	n ooh ch
+062/035	noch	1	n o ch
+062/037	nog	1	n o g
+062/039	nog	1	n o g
+062/041	nog	1	n o g
+062/043	nug	1	n u g
+062/045	nunk	1	n u n k
+062/047	nong	1	n o ng
+062/049	nunk	1	n u n k
+062/051	nunk	1	n u n k
+062/053	nung	1	n u ng
+062/055	nunk	1	n u n k
+062/057	nunk	1	n u n k
+062/059	nunk	1	n u n k
+062/061	nunk	1	n u n k
+062/063	nunk	1	n u n k
+062/065	nunk	1	n u n k
+062/067	nunk	1	n u n k
+062/069	nonk	1	n o n k
+062/071	nung	1	n u ng
+062/073	nunk	1	n u n k
+062/075	nung	1	n u ng
+062/077	nunk	1	n u n k
+062/079	nunk	1	n u n k
+062/081	nunk	1	n u n k
+062/083	nunk	1	n u n k
+062/085	nunk	1	n u n k
+062/087	nunk	1	n u n k
+062/089	nunk	1	n u n k
+062/091	nunk	1	n u n k
+062/093	nung	1	n u ng
+062/095	nung	1	n u ng
+062/097	nug	1	n u g
+062/099	sot	1	s o t
+062/101	nung	1	n u ng
+062/103	nunk	1	n u n k
+062/105	nung	1	n u ng
+062/107	sott	1	s o tt
+062/109	nung	1	n u ng
+062/111	nung	1	n u ng
+062/113	nung	1	n u ng
+062/115	NA	NA	-
+062/117	nung	1	n u ng
+062/119	nung	1	n u ng
+062/121	NA	NA	-
+062/123	nung	1	n u ng
+062/125	nung	1	n u ng
+062/127	nung	1	n u ng
+062/129	nung	1	n u ng
+062/131	nung	1	n u ng
+062/133	nunk	1	n u n k
+062/135	NA	NA	-
+062/137	nung	1	n u ng
+062/139	nung	1	n u ng
+062/141	nung	1	n u ng
+062/143	nung	1	n u ng
+062/145	nung	1	n u ng
+062/147	nung	1	n u ng
+062/149	nung	1	n u ng
+062/151	nung	1	n u ng
+062/153	nung	1	n u ng
+062/155	nung	1	n u ng
+062/157	nunk	1	n u n k
+062/159	nung	1	n u ng
+062/161	nung	1	n u ng
+063/021	nug	1	n u g
+063/023	nuch	1	n u ch
+063/025	noch	1	n o ch
+063/027	nog	1	n o g
+063/029	nog	1	n o g
+063/031	nog	1	n o g
+063/033	nog	1	n o g
+063/035	nog	1	n o g
+063/037	nog	1	n o g
+063/039	nog	1	n o g
+063/041	nog	1	n o g
+063/043	nonk	1	n o n k
+063/045	nonk	1	n o n k
+063/047	nunk	1	n u n k
+063/049	nunk	1	n u n k
+063/051	nunk	1	n u n k
+063/053	nunk	1	n u n k
+063/055	nunk	1	n u n k
+063/057	nunk	1	n u n k
+063/059	nunk	1	n u n k
+063/061	nunk	1	n u n k
+063/063	nunk	1	n u n k
+063/065	nunk	1	n u n k
+063/067	nung	1	n u ng
+063/069	nunk	1	n u n k
+063/071	nunk	1	n u n k
+063/073	nunk	1	n u n k
+063/075	nung	1	n u ng
+063/077	nung	1	n u ng
+063/079	nung	1	n u ng
+063/081	nonk	1	n o n k
+063/083	nungk	1	n u ng k
+063/085	nunk	1	n u n k
+063/087	nunk	1	n u n k
+063/089	nung	1	n u ng
+063/091	soht	1	s oh t
+063/093	satt	1	s a tt
+063/095	soht	1	s oh t
+063/097	nungk	1	n u ng k
+063/099	sot	1	s o t
+063/101	nung	1	n u ng
+063/103	nung	1	n u ng
+063/105	nung	1	n u ng
+063/107	nung	1	n u ng
+063/109	nungk	1	n u ng k
+063/111	nung	1	n u ng
+063/113	nung	1	n u ng
+063/115	nung	1	n u ng
+063/117	nung	1	n u ng
+063/119	NA	NA	-
+063/121	nung	1	n u ng
+063/123	nung	1	n u ng
+063/125	nung	1	n u ng
+063/127	nung	1	n u ng
+063/135	nung	1	n u ng
+063/137	nunk	1	n u n k
+063/139	nung	1	n u ng
+063/141	nunk	1	n u n k
+063/143	nung	1	n u ng
+063/145	nung	1	n u ng
+063/147	nug	1	n u g
+063/149	nung	1	n u ng
+063/151	nung	1	n u ng
+063/153	nung	1	n u ng
+063/155	nug	1	n u g
+063/157	nung	1	n u ng
+063/159	nug	1	n u g
+063/161	nung	1	n u ng
+063/163	nug	1	n u g
+063/165	nug	1	n u g
+064/023	noch	1	n o ch
+064/025	nog	1	n o g
+064/027	nog	1	n o g
+064/029	noch	1	n o ch
+064/031	noog	1	n oo g
+064/033	nog	1	n o g
+064/035	nog	1	n o g
+064/037	nuch	1	n u ch
+064/039	nog	1	n o g
+064/041	noog	1	n oo g
+064/043	nunk	1	n u n k
+064/045	nunk	1	n u n k
+064/047	nung	1	n u ng
+064/049	nunk	1	n u n k
+064/051	nunk	1	n u n k
+064/053	nunk	1	n u n k
+064/055	nunk	1	n u n k
+064/057	nonk	1	n o n k
+064/059	nunk	1	n u n k
+064/061	nunk	1	n u n k
+064/063	nunk	1	n u n k
+064/065	nunk	1	n u n k
+064/067	nunk	1	n u n k
+064/069	nunk	1	n u n k
+064/071	nung	1	n u ng
+064/073	nunk	1	n u n k
+064/075	nunk	1	n u n k
+064/077	nung	1	n u ng
+064/079	nunk	1	n u n k
+064/081	soat	1	s oa t
+064/083	nunk	1	n u n k
+064/085	nungk	1	n u ng k
+064/087	nung	1	n u ng
+064/089	nug	1	n u g
+064/091	nungk	1	n u ng k
+064/093	nunk	1	n u n k
+064/095	nung	1	n u ng
+064/097	soat	1	s oa t
+064/099	nung	1	n u ng
+064/101	nung	1	n u ng
+064/103	nugg	1	n u gg
+064/105	nung	1	n u ng
+064/107	nuch	1	n u ch
+064/109	nuch	1	n u ch
+064/111	nung	1	n u ng
+064/113	nung	1	n u ng
+064/115	nung	1	n u ng
+064/117	nung	1	n u ng
+064/119	NA	NA	-
+064/121	nunk	1	n u n k
+064/123	nung	1	n u ng
+064/125	nung	1	n u ng
+064/127	nung	1	n u ng
+064/135	nung	1	n u ng
+064/137	nung	1	n u ng
+064/139	nung	1	n u ng
+064/141	NA	NA	-
+064/143	nung	1	n u ng
+064/145	nung	1	n u ng
+064/147	nung	1	n u ng
+064/149	nung	1	n u ng
+064/151	nuck	1	n u ck
+064/153	nung	1	n u ng
+064/155	nung	1	n u ng
+064/157	nug	1	n u g
+064/159	nung	1	n u ng
+065/021	noch	1	n o ch
+065/023	nog	1	n o g
+065/025	nog	1	n o g
+065/027	nog	1	n o g
+065/029	nog	1	n o g
+065/031	nog	1	n o g
+065/033	nog	1	n o g
+065/035	nog	1	n o g
+065/037	nohch	1	n oh ch
+065/039	nog	1	n o g
+065/041	nog	1	n o g
+065/043	nuag	1	n ua g
+065/045	nong	1	n o ng
+065/047	nungk	1	n u ng k
+065/049	nungk	1	n u ng k
+065/051	nunk	1	n u n k
+065/053	nung	1	n u ng
+065/055	nunk	1	n u n k
+065/057	nunk	1	n u n k
+065/059	nunk	1	n u n k
+065/061	nueuk	1	n ueu k
+065/063	nunk	1	n u n k
+065/065	nugk	1	n u g k
+065/067	nunk	1	n u n k
+065/069	nunk	1	n u n k
+065/071	nunk	1	n u n k
+065/073	nunk	1	n u n k
+065/075	nunk	1	n u n k
+065/077	nunk	1	n u n k
+065/079	nung	1	n u ng
+065/081	nuck	1	n u ck
+065/083	nunk	1	n u n k
+065/085	nung	1	n u ng
+065/087	nungk	1	n u ng k
+065/089	nunk	1	n u n k
+065/091	nug	1	n u g
+065/093	sott	1	s o tt
+065/095	nungk	1	n u ng k
+065/097	nunk	1	n u n k
+065/101	nunk	1	n u n k
+065/103	nung	1	n u ng
+065/105	nuch	1	n u ch
+065/107	nuch	1	n u ch
+065/109	soot	1	s oo t
+065/111	nuch	1	n u ch
+065/113	NA	NA	-
+065/115	nung	1	n u ng
+065/121	nung	1	n u ng
+065/123	nung	1	n u ng
+065/137	nung	1	n u ng
+065/139	nung	1	n u ng
+065/143	nung	1	n u ng
+065/145	nug	1	n u g
+065/147	nug	1	n u g
+065/149	nung	1	n u ng
+065/151	nuk	1	n u k
+065/153	nug	1	n u g
+065/155	nung	1	n u ng
+065/157	nung	1	n u ng
+065/159	nuck	1	n u ck
+066/021	nog	1	n o g
+066/023	nog	1	n o g
+066/025	nog	1	n o g
+066/027	nog	1	n o g
+066/029	NA	NA	-
+066/031	noch	1	n o ch
+066/033	nog	1	n o g
+066/035	NA	NA	-
+066/037	nog	1	n o g
+066/039	nog	1	n o g
+066/041	nunk	1	n u n k
+066/043	nonk	1	n o n k
+066/045	nunk	1	n u n k
+066/047	nunk	1	n u n k
+066/049	nunk	1	n u n k
+066/051	nunk	1	n u n k
+066/053	nunk	1	n u n k
+066/055	nunk	1	n u n k
+066/057	nung	1	n u ng
+066/059	nungk	1	n u ng k
+066/061	nunk	1	n u n k
+066/063	nunk	1	n u n k
+066/065	nunk	1	n u n k
+066/067	nunk	1	n u n k
+066/069	nungk	1	n u ng k
+066/071	nunk	1	n u n k
+066/073	nung	1	n u ng
+066/075	nungk	1	n u ng k
+066/077	nunk	1	n u n k
+066/079	nung	1	n u ng
+066/081	nunk	1	n u n k
+066/083	nung	1	n u ng
+066/085	nu	1	n u
+066/087	saout	1	s aou t
+066/089	nung	1	n u ng
+066/091	nunk	1	n u n k
+066/093	nung	1	n u ng
+066/095	nung	1	n u ng
+066/097	nunk	1	n u n k
+066/099	nuch	1	n u ch
+066/101	nuch	1	n u ch
+066/103	NA	NA	-
+066/105	nuch	1	n u ch
+066/107	nuch	1	n u ch
+066/109	nuch	1	n u ch
+066/111	nuuch	1	n uu ch
+066/113	NA	NA	-
+066/121	nuk	1	n u k
+066/139	nung	1	n u ng
+066/143	nung	1	n u ng
+066/145	nung	1	n u ng
+066/147	nung	1	n u ng
+066/149	nunk	1	n u n k
+066/151	nunk	1	n u n k
+066/153	nunk	1	n u n k
+066/155	nunk	1	n u n k
+066/157	nunk	1	n u n k
+066/159	nug	1	n u g
+066/161	nung	1	n u ng
+066/163	nuck	1	n u ck
+067/021	nohg	1	n oh g
+067/023	noch	1	n o ch
+067/025	nog	1	n o g
+067/027	nog	1	n o g
+067/029	nug	1	n u g
+067/031	nog	1	n o g
+067/033	nog	1	n o g
+067/035	nog	1	n o g
+067/037	nog	1	n o g
+067/039	nog	1	n o g
+067/041	nunk	1	n u n k
+067/043	nunk	1	n u n k
+067/045	nung	1	n u ng
+067/047	nunk	1	n u n k
+067/049	nunk	1	n u n k
+067/051	nunk	1	n u n k
+067/053	nunk	1	n u n k
+067/055	nung	1	n u ng
+067/057	nunk	1	n u n k
+067/059	nunk	1	n u n k
+067/061	nunk	1	n u n k
+067/063	nunk	1	n u n k
+067/065	nunk	1	n u n k
+067/067	nung	1	n u ng
+067/069	nuk	1	n u k
+067/071	nungk	1	n u ng k
+067/073	nunk	1	n u n k
+067/075	nunk	1	n u n k
+067/077	nunk	1	n u n k
+067/079	nung	1	n u ng
+067/081	nunk	1	n u n k
+067/083	nunk	1	n u n k
+067/085	nunk	1	n u n k
+067/087	nug	1	n u g
+067/089	noug	1	n ou g
+067/091	nug	1	n u g
+067/093	nou	1	n ou
+067/095	soht	1	s oh t
+067/097	sout	1	s ou t
+067/099	soot	1	s oo t
+067/101	nouch	1	n ou ch
+067/103	nouch	1	n ou ch
+067/105	sot	1	s o t
+067/107	nuch	1	n u ch
+067/109	sot	1	s o t
+067/111	nuch	1	n u ch
+067/113	nuuch	1	n uu ch
+067/143	nung	1	n u ng
+067/145	nung	1	n u ng
+067/147	nunk	1	n u n k
+067/149	nung	1	n u ng
+067/151	nunk	1	n u n k
+067/153	nunk	1	n u n k
+067/155	nunk	1	n u n k
+067/157	nunk	1	n u n k
+067/159	nunk	1	n u n k
+067/161	nunk	1	n u n k
+067/163	nug	1	n u g
+067/165	nug	1	n u g
+067/177	nung	1	n u ng
+068/021	no	1	n o
+068/023	nog	1	n o g
+068/025	nug	1	n u g
+068/027	nog	1	n o g
+068/029	nog	1	n o g
+068/031	nug	1	n u g
+068/033	noch	1	n o ch
+068/035	nog	1	n o g
+068/037	noch	1	n o ch
+068/039	nog	1	n o g
+068/041	nunk	1	n u n k
+068/043	nunk	1	n u n k
+068/045	nunk	1	n u n k
+068/047	nunk	1	n u n k
+068/049	nunk	1	n u n k
+068/051	nunk	1	n u n k
+068/053	nunk	1	n u n k
+068/055	nunk	1	n u n k
+068/057	nunk	1	n u n k
+068/059	nunk	1	n u n k
+068/061	nunk	1	n u n k
+068/063	nunk	1	n u n k
+068/065	nunk	1	n u n k
+068/067	NA	NA	-
+068/069	nungk	1	n u ng k
+068/071	nunk	1	n u n k
+068/073	nung	1	n u ng
+068/075	nunk	1	n u n k
+068/077	nungk	1	n u ng k
+068/079	nunk	1	n u n k
+068/081	nunk	1	n u n k
+068/083	nug	1	n u g
+068/085	nug	1	n u g
+068/087	nunk	1	n u n k
+068/089	nunk	1	n u n k
+068/091	nug	1	n u g
+068/093	nouch	1	n ou ch
+068/095	sot	1	s o t
+068/097	sot	1	s o t
+068/099	soot	1	s oo t
+068/101	soot	1	s oo t
+068/103	sot	1	s o t
+068/105	NA	NA	-
+068/107	nouch	1	n ou ch
+068/109	nung	1	n u ng
+068/111	nuch	1	n u ch
+068/145	nung	1	n u ng
+068/147	nung	1	n u ng
+068/149	nung	1	n u ng
+068/151	nung	1	n u ng
+068/153	nug	1	n u g
+068/155	nunk	1	n u n k
+068/157	nung	1	n u ng
+068/159	nunk	1	n u n k
+068/161	NA	NA	-
+068/165	nug	1	n u g
+069/019	nou	1	n ou
+069/023	no	1	n o
+069/025	noch	1	n o ch
+069/027	nooch	1	n oo ch
+069/029	nug	1	n u g
+069/031	noch	1	n o ch
+069/033	nog	1	n o g
+069/035	noch	1	n o ch
+069/037	nung	1	n u ng
+069/039	nug	1	n u g
+069/041	nunk	1	n u n k
+069/043	nong	1	n o ng
+069/045	nunk	1	n u n k
+069/047	nungk	1	n u ng k
+069/049	nunk	1	n u n k
+069/051	nug	1	n u g
+069/053	nug	1	n u g
+069/055	nug	1	n u g
+069/057	nunk	1	n u n k
+069/059	nung	1	n u ng
+069/061	nung	1	n u ng
+069/063	nunk	1	n u n k
+069/065	nung	1	n u ng
+069/067	nung	1	n u ng
+069/069	nunk	1	n u n k
+069/071	nunk	1	n u n k
+069/073	nunk	1	n u n k
+069/075	nug	1	n u g
+069/077	nungk	1	n u ng k
+069/079	nug	1	n u g
+069/081	nuug	1	n uu g
+069/083	nug	1	n u g
+069/085	nug	1	n u g
+069/087	nug	1	n u g
+069/089	nug	1	n u g
+069/091	nuug	1	n uu g
+069/093	noug	1	n ou g
+069/095	nouch	1	n ou ch
+069/097	soht	1	s oh t
+069/099	nouch	1	n ou ch
+069/101	nou	1	n ou
+069/103	nouch	1	n ou ch
+069/105	nauch	1	n au ch
+069/107	NA	NA	-
+069/109	sot	1	s o t
+069/111	sot	1	s o t
+069/147	nung	1	n u ng
+069/149	nung	1	n u ng
+069/151	nug	1	n u g
+069/153	nug	1	n u g
+069/157	nung	1	n u ng
+069/159	nung	1	n u ng
+069/161	nunk	1	n u n k
+069/163	nuck	1	n u ck
+069/165	nung	1	n u ng
+070/019	noouch	1	n oou ch
+070/023	nug	1	n u g
+070/025	nuch	1	n u ch
+070/027	nog	1	n o g
+070/029	nog	1	n o g
+070/031	noch	1	n o ch
+070/033	noch	1	n o ch
+070/035	nog	1	n o g
+070/037	nog	1	n o g
+070/039	nug	1	n u g
+070/041	nug	1	n u g
+070/043	nug	1	n u g
+070/045	nungk	1	n u ng k
+070/047	nung	1	n u ng
+070/049	nunk	1	n u n k
+070/051	nungk	1	n u ng k
+070/053	nug	1	n u g
+070/055	nung	1	n u ng
+070/057	nunk	1	n u n k
+070/059	nunk	1	n u n k
+070/061	nonk	1	n o n k
+070/063	NA	NA	-
+070/065	nunk	1	n u n k
+070/067	nung	1	n u ng
+070/069	NA	NA	-
+070/071	nug	1	n u g
+070/073	nug	1	n u g
+070/075	nuug	1	n uu g
+070/077	nung	1	n u ng
+070/079	nunk	1	n u n k
+070/081	nug	1	n u g
+070/083	nug	1	n u g
+070/085	nug	1	n u g
+070/087	nug	1	n u g
+070/089	nug	1	n u g
+070/091	noug	1	n ou g
+070/093	noug	1	n ou g
+070/095	nouchh	1	n ou c hh
+070/097	nouch	1	n ou ch
+070/099	sot	1	s o t
+070/101	NA	NA	-
+070/103	soot	1	s oo t
+070/105	nouch	1	n ou ch
+070/107	nouch	1	n ou ch
+070/109	sot	1	s o t
+070/111	soot	1	s oo t
+070/145	nug	1	n u g
+070/147	nung	1	n u ng
+070/149	nung	1	n u ng
+070/151	nug	1	n u g
+070/153	nog	1	n o g
+070/155	nuk	1	n u k
+070/157	nug	1	n u g
+070/159	nug	1	n u g
+070/161	nunk	1	n u n k
+070/163	nug	1	n u g
+070/165	nug	1	n u g
+071/017	noog	1	n oo g
+071/019	nou	1	n ou
+071/021	nuog	1	n uo g
+071/023	nog	1	n o g
+071/025	nog	1	n o g
+071/027	nog	1	n o g
+071/029	nug	1	n u g
+071/031	nog	1	n o g
+071/033	nog	1	n o g
+071/035	nug	1	n u g
+071/037	nug	1	n u g
+071/039	nug	1	n u g
+071/041	nug	1	n u g
+071/043	nug	1	n u g
+071/045	nungk	1	n u ng k
+071/047	nunk	1	n u n k
+071/049	nungk	1	n u ng k
+071/051	nunk	1	n u n k
+071/053	nunk	1	n u n k
+071/055	nunk	1	n u n k
+071/057	nug	1	n u g
+071/059	nunk	1	n u n k
+071/063	nung	1	n u ng
+071/065	nuag	1	n ua g
+071/067	nungk	1	n u ng k
+071/069	nung	1	n u ng
+071/071	nung	1	n u ng
+071/073	nug	1	n u g
+071/075	nungk	1	n u ng k
+071/077	nunk	1	n u n k
+071/079	nug	1	n u g
+071/081	nung	1	n u ng
+071/083	nug	1	n u g
+071/085	nuck	1	n u ck
+071/087	nug	1	n u g
+071/089	nugh	1	n u g h
+071/091	nou	1	n ou
+071/093	nouch	1	n ou ch
+071/095	nauch	1	n au ch
+071/097	no	1	n o
+071/099	nouh	1	n ouh
+071/101	nouch	1	n ou ch
+071/103	nouch	1	n ou ch
+071/105	NA	NA	-
+071/145	nung	1	n u ng
+071/147	nung	1	n u ng
+071/149	nung	1	n u ng
+071/151	nung	1	n u ng
+071/153	NA	NA	-
+071/155	nug	1	n u g
+071/157	nung	1	n u ng
+071/159	nug	1	n u g
+071/161	nuk	1	n u k
+071/163	NA	NA	-
+071/177	nuk	1	n u k
+071/179	nung	1	n u ng
+072/017	nug	1	n u g
+072/019	nuch	1	n u ch
+072/021	nuch	1	n u ch
+072/023	nug	1	n u g
+072/025	nog	1	n o g
+072/027	nog	1	n o g
+072/029	nouch	1	n ou ch
+072/031	nog	1	n o g
+072/033	nug	1	n u g
+072/035	nug	1	n u g
+072/037	nuch	1	n u ch
+072/039	nug	1	n u g
+072/041	nung	1	n u ng
+072/043	nug	1	n u g
+072/045	nunk	1	n u n k
+072/047	nungk	1	n u ng k
+072/049	nung	1	n u ng
+072/051	nunk	1	n u n k
+072/053	nungk	1	n u ng k
+072/055	nunk	1	n u n k
+072/057	nunk	1	n u n k
+072/059	nunk	1	n u n k
+072/061	noank	1	n oa n k
+072/063	nuag	1	n ua g
+072/065	nuag	1	n ua g
+072/067	nuag	1	n ua g
+072/069	nunk	1	n u n k
+072/071	nung	1	n u ng
+072/073	nug	1	n u g
+072/075	nug	1	n u g
+072/077	nug	1	n u g
+072/079	nug	1	n u g
+072/081	nug	1	n u g
+072/083	nunk	1	n u n k
+072/085	nug	1	n u g
+072/087	nug	1	n u g
+072/089	nug	1	n u g
+072/091	noug	1	n ou g
+072/093	nug	1	n u g
+072/095	nou	1	n ou
+072/097	noug	1	n ou g
+072/099	nouch	1	n ou ch
+072/101	NA	NA	-
+072/103	nouch	1	n ou ch
+072/105	soot	1	s oo t
+072/107	sot	1	s o t
+072/145	nung	1	n u ng
+072/147	nung	1	n u ng
+072/149	nung	1	n u ng
+072/151	nung	1	n u ng
+072/153	NA	NA	-
+072/155	nug	1	n u g
+072/157	nug	1	n u g
+072/159	nung	1	n u ng
+072/161	NA	NA	-
+072/177	nüg	1	n ü g
+072/179	nug	1	n u g
+072/181	neng	1	n e ng
+073/017	nug	1	n u g
+073/019	nuch	1	n u ch
+073/021	nuch	1	n u ch
+073/023	nug	1	n u g
+073/025	nouch	1	n ou ch
+073/027	nug	1	n u g
+073/029	noch	1	n o ch
+073/031	noch	1	n o ch
+073/033	noug	1	n ou g
+073/035	noug	1	n ou g
+073/037	nug	1	n u g
+073/039	nug	1	n u g
+073/041	nug	1	n u g
+073/043	nunk	1	n u n k
+073/045	nunk	1	n u n k
+073/047	nunk	1	n u n k
+073/049	nunk	1	n u n k
+073/051	nunk	1	n u n k
+073/053	nunk	1	n u n k
+073/055	nunk	1	n u n k
+073/057	nunk	1	n u n k
+073/059	nug	1	n u g
+073/061	nunk	1	n u n k
+073/063	nung	1	n u ng
+073/065	nuag	1	n ua g
+073/067	nuag	1	n ua g
+073/069	nueg	1	n ue g
+073/071	nug	1	n u g
+073/073	nug	1	n u g
+073/075	nug	1	n u g
+073/077	nuug	1	n uu g
+073/079	nug	1	n u g
+073/081	nug	1	n u g
+073/083	nuungk	1	n uu ng k
+073/085	nuk	1	n u k
+073/087	nug	1	n u g
+073/089	noug	1	n ou g
+073/091	nöunch	1	n öu n ch
+073/093	noug	1	n ou g
+073/095	nöug	1	n öu g
+073/097	nouch	1	n ou ch
+073/099	nouch	1	n ou ch
+073/101	nouch	1	n ou ch
+073/103	nouch	1	n ou ch
+073/105	nouch	1	n ou ch
+073/107	nouch	1	n ou ch
+073/145	nug	1	n u g
+073/147	nung	1	n u ng
+073/149	nung	1	n u ng
+073/151	nung	1	n u ng
+073/153	nug	1	n u g
+073/155	nug	1	n u g
+073/157	nug	1	n u g
+073/159	nung	1	n u ng
+073/161	nung	1	n u ng
+073/163	nug	1	n u g
+073/165	nug	1	n u g
+073/175	nug	1	n u g
+073/177	nüg	1	n ü g
+074/019	nuch	1	n u ch
+074/021	nuch	1	n u ch
+074/023	nug	1	n u g
+074/025	noch	1	n o ch
+074/027	nog	1	n o g
+074/029	nog	1	n o g
+074/031	noch	1	n o ch
+074/033	noch	1	n o ch
+074/035	nug	1	n u g
+074/037	nug	1	n u g
+074/039	nung	1	n u ng
+074/041	nunk	1	n u n k
+074/043	nunk	1	n u n k
+074/045	nung	1	n u ng
+074/047	nunk	1	n u n k
+074/049	nunk	1	n u n k
+074/051	nunk	1	n u n k
+074/053	nunk	1	n u n k
+074/055	nunk	1	n u n k
+074/057	nunk	1	n u n k
+074/059	nug	1	n u g
+074/061	nuch	1	n u ch
+074/063	nuch	1	n u ch
+074/065	nuuch	1	n uu ch
+074/067	nug	1	n u g
+074/069	nuäg	1	n uä g
+074/071	nuag	1	n ua g
+074/073	nug	1	n u g
+074/075	nuch	1	n u ch
+074/077	nug	1	n u g
+074/079	nug	1	n u g
+074/081	nug	1	n u g
+074/083	nug	1	n u g
+074/085	nouch	1	n ou ch
+074/087	nouch	1	n ou ch
+074/089	nuag	1	n ua g
+074/091	noug	1	n ou g
+074/093	naouch	1	n aou ch
+074/095	nouch	1	n ou ch
+074/097	nou	1	n ou
+074/099	ngouch	1	ng ou ch
+074/101	NA	NA	-
+074/103	nouch	1	n ou ch
+074/105	nouch	1	n ou ch
+074/107	NA	NA	-
+074/109	NA	NA	-
+074/145	nung	1	n u ng
+074/147	NA	NA	-
+074/149	nunk	1	n u n k
+074/153	nug	1	n u g
+074/155	NA	NA	-
+074/157	nug	1	n u g
+074/159	nug	1	n u g
+074/161	nuk	1	n u k
+074/163	nug	1	n u g
+074/165	nuk	1	n u k
+075/019	nuch	1	n u ch
+075/021	noch	1	n o ch
+075/023	nug	1	n u g
+075/025	nog	1	n o g
+075/027	noung	1	n ou ng
+075/029	nog	1	n o g
+075/031	nog	1	n o g
+075/033	nug	1	n u g
+075/035	nug	1	n u g
+075/037	nug	1	n u g
+075/039	nunk	1	n u n k
+075/041	nunk	1	n u n k
+075/043	nung	1	n u ng
+075/045	nunk	1	n u n k
+075/047	nunk	1	n u n k
+075/049	nunk	1	n u n k
+075/051	nung	1	n u ng
+075/053	nung	1	n u ng
+075/055	nunk	1	n u n k
+075/057	nunk	1	n u n k
+075/059	nug	1	n u g
+075/061	nunk	1	n u n k
+075/063	nug	1	n u g
+075/065	nog	1	n o g
+075/067	nuag	1	n ua g
+075/069	nuag	1	n ua g
+075/071	nuag	1	n ua g
+075/073	nug	1	n u g
+075/075	nug	1	n u g
+075/077	nug	1	n u g
+075/079	nug	1	n u g
+075/081	nug	1	n u g
+075/083	noug	1	n ou g
+075/085	nug	1	n u g
+075/087	noug	1	n ou g
+075/089	nou	1	n ou
+075/091	nug	1	n u g
+075/093	nouch	1	n ou ch
+075/095	näu	1	n äu
+075/097	noug	1	n ou g
+075/099	nauch	1	n au ch
+075/101	nuch	1	n u ch
+075/103	nouch	1	n ou ch
+075/105	nouch	1	n ou ch
+075/107	nouch	1	n ou ch
+075/135	neug	1	n eu g
+075/145	nung	1	n u ng
+075/147	nung	1	n u ng
+075/149	nug	1	n u g
+075/155	nug	1	n u g
+075/157	nug	1	n u g
+075/159	nug	1	n u g
+075/161	nug	1	n u g
+075/163	nug	1	n u g
+075/165	NA	NA	-
+076/019	nich	1	n i ch
+076/021	nig	1	n i g
+076/023	nug	1	n u g
+076/025	nöug	1	n öu g
+076/027	nog	1	n o g
+076/029	nog	1	n o g
+076/033	nuch	1	n u ch
+076/035	NA	NA	-
+076/037	nunk	1	n u n k
+076/039	nunk	1	n u n k
+076/041	nunck	1	n u n ck
+076/043	nunk	1	n u n k
+076/045	nunk	1	n u n k
+076/047	nung	1	n u ng
+076/049	nung	1	n u ng
+076/051	nuung	1	n uu ng
+076/053	nunk	1	n u n k
+076/055	nunk	1	n u n k
+076/057	nung	1	n u ng
+076/059	nung	1	n u ng
+076/061	nunk	1	n u n k
+076/063	nuch	1	n u ch
+076/065	nuch	1	n u ch
+076/067	nuach	1	n ua ch
+076/069	nuag	1	n ua g
+076/071	nuag	1	n ua g
+076/073	nuug	1	n uu g
+076/075	nug	1	n u g
+076/077	nug	1	n u g
+076/079	noug	1	n ou g
+076/081	noug	1	n ou g
+076/083	nou	1	n ou
+076/085	noug	1	n ou g
+076/087	noug	1	n ou g
+076/089	noug	1	n ou g
+076/091	noug	1	n ou g
+076/093	nouch	1	n ou ch
+076/095	NA	NA	-
+076/097	noug	1	n ou g
+076/099	nouch	1	n ou ch
+076/101	nouch	1	n ou ch
+076/103	nouch	1	n ou ch
+076/135	noug	1	n ou g
+076/137	NA	NA	-
+076/149	nung	1	n u ng
+076/151	nung	1	n u ng
+076/155	nuk	1	n u k
+076/161	nung	1	n u ng
+076/163	nug	1	n u g
+076/165	nug	1	n u g
+077/019	nuch	1	n u ch
+077/021	nuch	1	n u ch
+077/023	nuueg	1	n uue g
+077/025	nooug	1	n oou g
+077/027	nog	1	n o g
+077/029	nuch	1	n u ch
+077/031	noug	1	n ou g
+077/033	nug	1	n u g
+077/035	nug	1	n u g
+077/037	nunk	1	n u n k
+077/039	nunk	1	n u n k
+077/041	nunk	1	n u n k
+077/043	nunk	1	n u n k
+077/047	nunk	1	n u n k
+077/049	nuch	1	n u ch
+077/051	nungg	1	n u n gg
+077/053	nunk	1	n u n k
+077/055	nunk	1	n u n k
+077/057	nung	1	n u ng
+077/059	nunk	1	n u n k
+077/061	nunk	1	n u n k
+077/063	noch	1	n o ch
+077/065	nuach	1	n ua ch
+077/067	nuach	1	n ua ch
+077/069	nuach	1	n ua ch
+077/071	nuach	1	n ua ch
+077/073	nug	1	n u g
+077/075	nuch	1	n u ch
+077/077	nuch	1	n u ch
+077/079	noug	1	n ou g
+077/081	noug	1	n ou g
+077/083	noug	1	n ou g
+077/085	noug	1	n ou g
+077/087	noug	1	n ou g
+077/089	nou	1	n ou
+077/091	nouch	1	n ou ch
+077/093	nouch	1	n ou ch
+077/095	nouch	1	n ou ch
+077/097	noug	1	n ou g
+077/099	nou	1	n ou
+077/101	nouch	1	n ou ch
+077/103	nouch	1	n ou ch
+077/135	noug	1	n ou g
+077/137	naug	1	n au g
+078/021	nig	1	n i g
+078/023	nig	1	n i g
+078/025	nug	1	n u g
+078/027	nuch	1	n u ch
+078/029	nug	1	n u g
+078/031	nuch	1	n u ch
+078/033	nugg	1	n u gg
+078/035	nung	1	n u ng
+078/037	nunnk	1	n u nn k
+078/039	nung	1	n u ng
+078/041	nunk	1	n u n k
+078/045	nunk	1	n u n k
+078/047	nungk	1	n u ng k
+078/049	nunk	1	n u n k
+078/051	nungg	1	n u n gg
+078/053	nuuch	1	n uu ch
+078/055	nung	1	n u ng
+078/057	nung	1	n u ng
+078/059	nuch	1	n u ch
+078/061	nuch	1	n u ch
+078/063	nuoch	1	n uo ch
+078/065	nuach	1	n ua ch
+078/067	nuach	1	n ua ch
+078/069	nuach	1	n ua ch
+078/071	nuach	1	n ua ch
+078/073	nug	1	n u g
+078/075	nug	1	n u g
+078/077	nug	1	n u g
+078/079	noug	1	n ou g
+078/081	nug	1	n u g
+078/083	noug	1	n ou g
+078/085	nouch	1	n ou ch
+078/087	nooug	1	n oou g
+078/089	nou	1	n ou
+078/091	noug	1	n ou g
+078/093	nua	1	n ua
+078/095	nou	1	n ou
+078/097	nou	1	n ou
+078/099	nug	1	n u g
+078/101	NA	NA	-
+078/103	NA	NA	-
+078/105	nou	1	n ou
+078/135	nung	1	n u ng
+078/193	nuk	1	n u k
+079/021	nug	1	n u g
+079/023	nug	1	n u g
+079/025	nich	1	n i ch
+079/027	nuch	1	n u ch
+079/029	nug	1	n u g
+079/031	nungk	1	n u ng k
+079/033	nunk	1	n u n k
+079/035	nungk	1	n u ng k
+079/037	nunk	1	n u n k
+079/039	nunk	1	n u n k
+079/043	nunk	1	n u n k
+079/045	nunk	1	n u n k
+079/047	nunk	1	n u n k
+079/049	nunk	1	n u n k
+079/051	nunk	1	n u n k
+079/053	nunk	1	n u n k
+079/055	nung	1	n u ng
+079/057	nung	1	n u ng
+079/059	nunk	1	n u n k
+079/061	nuuch	1	n uu ch
+079/063	nuach	1	n ua ch
+079/065	nuach	1	n ua ch
+079/067	nuoch	1	n uo ch
+079/069	nuach	1	n ua ch
+079/071	nuag	1	n ua g
+079/073	nuag	1	n ua g
+079/075	nuag	1	n ua g
+079/077	nuag	1	n ua g
+079/079	nouch	1	n ou ch
+079/081	noug	1	n ou g
+079/083	noug	1	n ou g
+079/085	nouch	1	n ou ch
+079/087	nuag	1	n ua g
+079/089	nouch	1	n ou ch
+079/091	nouch	1	n ou ch
+079/093	nou	1	n ou
+079/095	nou	1	n ou
+079/097	nou	1	n ou
+079/099	nua	1	n ua
+079/101	nou	1	n ou
+079/103	nou	1	n ou
+079/105	nejg	1	n e j g
+079/107	nua	1	n ua
+079/133	nug	1	n u g
+079/135	nug	1	n u g
+079/193	nug	1	n u g
+079/195	NA	NA	-
+079/197	nuk	1	n u k
+080/025	nog	1	n o g
+080/027	nuch	1	n u ch
+080/029	nung	1	n u ng
+080/031	nungk	1	n u ng k
+080/033	nunk	1	n u n k
+080/035	nunk	1	n u n k
+080/037	nunk	1	n u n k
+080/039	nunk	1	n u n k
+080/041	nunk	1	n u n k
+080/043	nunk	1	n u n k
+080/045	nunk	1	n u n k
+080/047	nunk	1	n u n k
+080/049	nung	1	n u ng
+080/051	nung	1	n u ng
+080/053	nunk	1	n u n k
+080/055	nuk	1	n u k
+080/057	nunk	1	n u n k
+080/059	nuch	1	n u ch
+080/061	nuuach	1	n uua ch
+080/063	nuch	1	n u ch
+080/065	nuach	1	n ua ch
+080/067	nuach	1	n ua ch
+080/069	nuach	1	n ua ch
+080/071	nuag	1	n ua g
+080/073	nug	1	n u g
+080/075	nug	1	n u g
+080/077	nuag	1	n ua g
+080/079	noug	1	n ou g
+080/081	nou	1	n ou
+080/083	nou	1	n ou
+080/085	noug	1	n ou g
+080/087	näung	1	n äu ng
+080/089	nouch	1	n ou ch
+080/091	nuung	1	n uu ng
+080/093	nu	1	n u
+080/095	nou	1	n ou
+080/097	nua	1	n ua
+080/099	nou	1	n ou
+080/101	nou	1	n ou
+080/103	nua	1	n ua
+080/105	neing	1	n ei ng
+080/107	nua	1	n ua
+080/109	NA	NA	-
+080/127	nui	1	n ui
+080/147	nug	1	n u g
+080/151	nuach	1	n ua ch
+080/153	NA	NA	-
+080/193	nug	1	n u g
+080/195	NA	NA	-
+081/025	noch	1	n o ch
+081/027	nuck	1	n u ck
+081/029	nug	1	n u g
+081/031	nug	1	n u g
+081/033	nunk	1	n u n k
+081/035	nung	1	n u ng
+081/037	nunk	1	n u n k
+081/039	nunk	1	n u n k
+081/043	nunk	1	n u n k
+081/045	nunk	1	n u n k
+081/047	nunk	1	n u n k
+081/049	nunk	1	n u n k
+081/051	nunk	1	n u n k
+081/053	nungg	1	n u n gg
+081/055	nunk	1	n u n k
+081/057	nuag	1	n ua g
+081/059	nuach	1	n ua ch
+081/061	nueg	1	n ue g
+081/063	nuech	1	n ue ch
+081/065	nuach	1	n ua ch
+081/067	nuach	1	n ua ch
+081/069	nuach	1	n ua ch
+081/071	nuach	1	n ua ch
+081/073	nua	1	n ua
+081/075	nuag	1	n ua g
+081/077	nueg	1	n ue g
+081/079	nouch	1	n ou ch
+081/081	naauch	1	n aau ch
+081/083	noug	1	n ou g
+081/085	naoug	1	n aou g
+081/087	nouch	1	n ou ch
+081/089	nouch	1	n ou ch
+081/091	nou	1	n ou
+081/093	nou	1	n ou
+081/095	nou	1	n ou
+081/097	nou	1	n ou
+081/099	noau	1	n oau
+081/101	nu	1	n u
+081/103	nou	1	n ou
+081/105	NA	NA	-
+081/107	nua	1	n ua
+081/109	NA	NA	-
+081/111	nua	1	n ua
+081/127	nui	1	n ui
+081/129	NA	NA	-
+081/133	nui	1	n ui
+081/147	nuich	1	n ui ch
+081/191	nug	1	n u g
+081/193	nuk	1	n u k
+081/195	nuk	1	n u k
+082/027	nug	1	n u g
+082/029	nuk	1	n u k
+082/031	nong	1	n o ng
+082/033	noock	1	n oo ck
+082/035	nunk	1	n u n k
+082/037	nong	1	n o ng
+082/039	nung	1	n u ng
+082/041	nunk	1	n u n k
+082/043	nunk	1	n u n k
+082/045	nunk	1	n u n k
+082/047	nunk	1	n u n k
+082/049	nunk	1	n u n k
+082/051	nug	1	n u g
+082/053	nueg	1	n ue g
+082/055	nuag	1	n ua g
+082/057	nuag	1	n ua g
+082/059	nuag	1	n ua g
+082/061	nuag	1	n ua g
+082/063	nuach	1	n ua ch
+082/065	nuach	1	n ua ch
+082/067	nuach	1	n ua ch
+082/069	nuag	1	n ua g
+082/071	nuag	1	n ua g
+082/073	nuag	1	n ua g
+082/075	nuag	1	n ua g
+082/077	nuag	1	n ua g
+082/079	noug	1	n ou g
+082/081	noug	1	n ou g
+082/083	noug	1	n ou g
+082/085	noug	1	n ou g
+082/087	noou	1	n oou
+082/089	naug	1	n au g
+082/091	noau	1	n oau
+082/093	nou	1	n ou
+082/095	nou	1	n ou
+082/097	nou	1	n ou
+082/099	nua	1	n ua
+082/101	nua	1	n ua
+082/103	nou	1	n ou
+082/105	nua	1	n ua
+082/107	nua	1	n ua
+082/111	nua	1	n ua
+082/113	nua	1	n ua
+082/117	nua	1	n ua
+082/129	nua	1	n ua
+082/131	nua	1	n ua
+082/133	nui	1	n ui
+082/135	nui	1	n ui
+082/145	nui	1	n ui
+082/147	nui	1	n ui
+082/191	nug	1	n u g
+082/195	nug	1	n u g
+083/027	nug	1	n u g
+083/029	nug	1	n u g
+083/031	nuck	1	n u ck
+083/033	nuh	1	n uh
+083/035	nuh	1	n uh
+083/037	nunk	1	n u n k
+083/039	nunk	1	n u n k
+083/041	nunk	1	n u n k
+083/043	nung	1	n u ng
+083/045	nung	1	n u ng
+083/047	nung	1	n u ng
+083/049	nug	1	n u g
+083/051	nug	1	n u g
+083/053	nuag	1	n ua g
+083/055	nuuag	1	n uua g
+083/057	nuag	1	n ua g
+083/059	nuag	1	n ua g
+083/061	nuag	1	n ua g
+083/063	nuäg	1	n uä g
+083/065	nuag	1	n ua g
+083/067	nuag	1	n ua g
+083/069	nueg	1	n ue g
+083/071	nuach	1	n ua ch
+083/073	NA	NA	-
+083/075	nua	1	n ua
+083/077	nüeg	1	n üe g
+083/079	noug	1	n ou g
+083/081	noug	1	n ou g
+083/083	noug	1	n ou g
+083/085	nou	1	n ou
+083/087	noouu	1	n oouu
+083/089	nua	1	n ua
+083/091	nua	1	n ua
+083/093	naou	1	n aou
+083/095	nou	1	n ou
+083/097	nou	1	n ou
+083/099	nua	1	n ua
+083/101	nua	1	n ua
+083/103	neing	1	n ei ng
+083/105	nuo	1	n uo
+083/107	nua	1	n ua
+083/111	nua	1	n ua
+083/113	NA	NA	-
+083/115	nua	1	n ua
+083/117	nou	1	n ou
+083/119	mua	1	m ua
+083/121	NA	NA	-
+083/129	mui	1	m ui
+083/131	nui	1	n ui
+083/133	nui	1	n ui
+083/135	mui	1	m ui
+083/139	nui	1	n ui
+083/143	mui	1	m ui
+083/145	NA	NA	-
+083/147	nui	1	n ui
+083/149	NA	NA	-
+083/173	num	1	n u m
+083/195	nug	1	n u g
+084/031	nuk	1	n u k
+084/033	nuk	1	n u k
+084/035	nuk	1	n u k
+084/037	nu	1	n u
+084/039	nüä	1	n üä
+084/041	nua	1	n ua
+084/043	nung	1	n u ng
+084/045	nung	1	n u ng
+084/047	nu	1	n u
+084/049	nug	1	n u g
+084/051	nung	1	n u ng
+084/053	nug	1	n u g
+084/055	nuag	1	n ua g
+084/057	nuaag	1	n uaa g
+084/059	nug	1	n u g
+084/061	nuag	1	n ua g
+084/063	nuag	1	n ua g
+084/065	nuag	1	n ua g
+084/067	nueg	1	n ue g
+084/069	nuag	1	n ua g
+084/071	nuag	1	n ua g
+084/073	nuag	1	n ua g
+084/075	nuag	1	n ua g
+084/077	nua	1	n ua
+084/079	nua	1	n ua
+084/081	NA	NA	-
+084/083	nuch	1	n u ch
+084/085	näuch	1	n äu ch
+084/087	nou	1	n ou
+084/089	nua	1	n ua
+084/091	nou	1	n ou
+084/093	nua	1	n ua
+084/095	nou	1	n ou
+084/097	naao	1	n aao
+084/099	nua	1	n ua
+084/101	nou	1	n ou
+084/103	nua	1	n ua
+084/105	nau	1	n au
+084/107	nua	1	n ua
+084/109	nua	1	n ua
+084/111	nua	1	n ua
+084/113	mu	1	m u
+084/115	nua	1	n ua
+084/117	NA	NA	-
+084/119	mua	1	m ua
+084/129	nua	1	n ua
+084/131	NA	NA	-
+084/133	nui	1	n ui
+084/135	mui	1	m ui
+084/137	nui	1	n ui
+084/139	nui	1	n ui
+084/141	nua	1	n ua
+084/143	mui	1	m ui
+084/145	nui	1	n ui
+084/147	nui	1	n ui
+084/149	nui	1	n ui
+084/171	nuk	1	n u k
+084/173	nuk	1	n u k
+084/195	nu	1	n u
+085/031	muk	1	m u k
+085/033	nu	1	n u
+085/035	nug	1	n u g
+085/037	nöö	1	n öö
+085/039	nöa	1	n öa
+085/041	nüe	1	n üe
+085/043	nüe	1	n üe
+085/045	nuug	1	n uu g
+085/047	nug	1	n u g
+085/049	nu	1	n u
+085/051	nuag	1	n ua g
+085/053	nuag	1	n ua g
+085/055	nuag	1	n ua g
+085/057	nuag	1	n ua g
+085/059	nuag	1	n ua g
+085/061	NA	NA	-
+085/063	nuag	1	n ua g
+085/065	nuag	1	n ua g
+085/067	muag	1	m ua g
+085/069	nuag	1	n ua g
+085/071	nuag	1	n ua g
+085/073	nuag	1	n ua g
+085/075	nug	1	n u g
+085/077	muag	1	m ua g
+085/079	mua	1	m ua
+085/081	nua	1	n ua
+085/083	nou	1	n ou
+085/085	nug	1	n u g
+085/087	nua	1	n ua
+085/089	nu	1	n u
+085/091	nua	1	n ua
+085/093	nou	1	n ou
+085/095	nua	1	n ua
+085/097	nou	1	n ou
+085/101	nua	1	n ua
+085/103	NA	NA	-
+085/105	NA	NA	-
+085/107	nua	1	n ua
+085/109	nua	1	n ua
+085/111	nua	1	n ua
+085/113	nua	1	n ua
+085/115	mua	1	m ua
+085/117	mua	1	m ua
+085/119	nua	1	n ua
+085/121	nua	1	n ua
+085/123	mua	1	m ua
+085/125	NA	NA	-
+085/127	nui	1	n ui
+085/129	mui	1	m ui
+085/131	mui	1	m ui
+085/133	mui	1	m ui
+085/135	mui	1	m ui
+085/137	NA	NA	-
+085/139	mui	1	m ui
+085/141	NA	NA	-
+085/143	mui	1	m ui
+085/145	mui	1	m ui
+085/147	mui	1	m ui
+085/149	nui	1	n ui
+085/175	nuk	1	n u k
+085/193	nuk	1	n u k
+085/197	nuk	1	n u k
+086/033	nu	1	n u
+086/035	nüa	1	n üa
+086/037	nüö	1	n üö
+086/039	nöa	1	n öa
+086/041	nöu	1	n öu
+086/043	nöi	1	n öi
+086/045	nua	1	n ua
+086/047	nu	1	n u
+086/049	nuä	1	n uä
+086/051	nuag	1	n ua g
+086/053	nuag	1	n ua g
+086/055	nuag	1	n ua g
+086/057	nuag	1	n ua g
+086/059	nuag	1	n ua g
+086/061	nuag	1	n ua g
+086/063	nuag	1	n ua g
+086/065	nuag	1	n ua g
+086/067	nuag	1	n ua g
+086/069	nuag	1	n ua g
+086/071	nuag	1	n ua g
+086/073	nuag	1	n ua g
+086/075	mua	1	m ua
+086/077	nuag	1	n ua g
+086/079	nua	1	n ua
+086/081	nua	1	n ua
+086/083	nunk	1	n u n k
+086/085	nua	1	n ua
+086/087	nua	1	n ua
+086/089	nua	1	n ua
+086/091	nua	1	n ua
+086/093	nua	1	n ua
+086/095	nuua	1	n uua
+086/097	nua	1	n ua
+086/099	nua	1	n ua
+086/101	nua	1	n ua
+086/103	nua	1	n ua
+086/105	nua	1	n ua
+086/107	nua	1	n ua
+086/109	nua	1	n ua
+086/111	nua	1	n ua
+086/113	mua	1	m ua
+086/115	mua	1	m ua
+086/117	muo	1	m uo
+086/119	mua	1	m ua
+086/121	mua	1	m ua
+086/123	mua	1	m ua
+086/125	mua	1	m ua
+086/127	mua	1	m ua
+086/129	nua	1	n ua
+086/131	mui	1	m ui
+086/133	mua	1	m ua
+086/135	mui	1	m ui
+086/137	mui	1	m ui
+086/139	mui	1	m ui
+086/141	mui	1	m ui
+086/143	mui	1	m ui
+086/145	mui	1	m ui
+086/147	mui	1	m ui
+086/149	mui	1	m ui
+086/151	mui	1	m ui
+086/175	nuk	1	n u k
+086/197	nug	1	n u g
+086/199	nug	1	n u g
+087/033	nugg	1	n u gg
+087/035	nüe	1	n üe
+087/037	nöeg	1	n öe g
+087/039	nüa	1	n üa
+087/041	nüe	1	n üe
+087/043	nuä	1	n uä
+087/045	nue	1	n ue
+087/049	nuag	1	n ua g
+087/051	muag	1	m ua g
+087/053	nuag	1	n ua g
+087/055	nuag	1	n ua g
+087/057	nuag	1	n ua g
+087/059	nuag	1	n ua g
+087/061	nueg	1	n ue g
+087/063	nuag	1	n ua g
+087/065	nuag	1	n ua g
+087/067	nuag	1	n ua g
+087/069	nuag	1	n ua g
+087/071	nuag	1	n ua g
+087/073	nua	1	n ua
+087/075	nua	1	n ua
+087/077	nua	1	n ua
+087/079	nua	1	n ua
+087/081	nua	1	n ua
+087/083	nua	1	n ua
+087/085	mua	1	m ua
+087/087	nua	1	n ua
+087/089	NA	NA	-
+087/091	mua	1	m ua
+087/093	nua	1	n ua
+087/095	nua	1	n ua
+087/097	nua	1	n ua
+087/099	nuua	1	n uua
+087/101	nua	1	n ua
+087/103	NA	NA	-
+087/105	nua	1	n ua
+087/107	NA	NA	-
+087/109	NA	NA	-
+087/111	mua	1	m ua
+087/113	mua	1	m ua
+087/115	mua	1	m ua
+087/117	mua	1	m ua
+087/119	mua	1	m ua
+087/121	nua	1	n ua
+087/123	mua	1	m ua
+087/125	mua	1	m ua
+087/127	mua	1	m ua
+087/129	nua	1	n ua
+087/133	nua	1	n ua
+087/135	mui	1	m ui
+087/137	mua	1	m ua
+087/139	mu	1	m u
+087/141	nui	1	n ui
+087/143	mui	1	m ui
+087/145	mui	1	m ui
+087/147	nui	1	n ui
+087/149	mui	1	m ui
+087/151	nua	1	n ua
+088/035	nüa	1	n üa
+088/037	nöa	1	n öa
+088/039	nüa	1	n üa
+088/041	nüa	1	n üa
+088/043	nuä	1	n uä
+088/045	nua	1	n ua
+088/047	nuag	1	n ua g
+088/049	nuuag	1	n uua g
+088/051	nuag	1	n ua g
+088/053	nuog	1	n uo g
+088/055	nuag	1	n ua g
+088/057	nueg	1	n ue g
+088/059	nuag	1	n ua g
+088/061	nuag	1	n ua g
+088/063	nuag	1	n ua g
+088/065	nuag	1	n ua g
+088/067	nuag	1	n ua g
+088/069	nuag	1	n ua g
+088/071	nue	1	n ue
+088/073	nua	1	n ua
+088/075	nuag	1	n ua g
+088/077	nua	1	n ua
+088/079	nua	1	n ua
+088/081	mua	1	m ua
+088/083	mua	1	m ua
+088/085	mua	1	m ua
+088/087	mua	1	m ua
+088/089	nua	1	n ua
+088/091	nua	1	n ua
+088/093	nua	1	n ua
+088/095	mua	1	m ua
+088/097	nua	1	n ua
+088/099	nu	1	n u
+088/101	NA	NA	-
+088/103	nua	1	n ua
+088/105	nua	1	n ua
+088/107	nua	1	n ua
+088/109	nua	1	n ua
+088/113	NA	NA	-
+088/115	mua	1	m ua
+088/117	nua	1	n ua
+088/121	mua	1	m ua
+088/123	nui	1	n ui
+088/127	nua	1	n ua
+088/129	nua	1	n ua
+088/131	mua	1	m ua
+088/137	mui	1	m ui
+088/139	mui	1	m ui
+088/141	mui	1	m ui
+088/143	NA	NA	-
+088/145	NA	NA	-
+088/147	mui	1	m ui
+088/149	mui	1	m ui
+089/035	nüa	1	n üa
+089/037	nüa	1	n üa
+089/039	nüa	1	n üa
+089/041	nöa	1	n öa
+089/043	nuäg	1	n uä g
+089/045	nueg	1	n ue g
+089/047	mua	1	m ua
+089/049	nuag	1	n ua g
+089/051	nuag	1	n ua g
+089/053	nuag	1	n ua g
+089/055	nuo	1	n uo
+089/057	nuag	1	n ua g
+089/059	nuag	1	n ua g
+089/061	nuag	1	n ua g
+089/063	nuag	1	n ua g
+089/065	nuag	1	n ua g
+089/067	nua	1	n ua
+089/069	nuag	1	n ua g
+089/071	nuag	1	n ua g
+089/073	nua	1	n ua
+089/075	nua	1	n ua
+089/077	nuua	1	n uua
+089/079	nua	1	n ua
+089/081	nua	1	n ua
+089/083	mua	1	m ua
+089/085	nunk	1	n u n k
+089/087	nung	1	n u ng
+089/089	mua	1	m ua
+089/091	nuo	1	n uo
+089/093	nua	1	n ua
+089/095	nua	1	n ua
+089/097	mua	1	m ua
+089/099	nua	1	n ua
+089/101	nua	1	n ua
+089/103	nua	1	n ua
+089/105	nua	1	n ua
+089/107	nua	1	n ua
+089/109	nua	1	n ua
+089/111	nua	1	n ua
+089/113	nua	1	n ua
+089/115	mua	1	m ua
+089/117	mua	1	m ua
+089/119	NA	NA	-
+089/121	nua	1	n ua
+089/123	nua	1	n ua
+089/125	nua	1	n ua
+089/127	NA	NA	-
+089/129	NA	NA	-
+089/131	nua	1	n ua
+089/133	nua	1	n ua
+089/135	mua	1	m ua
+089/137	NA	NA	-
+089/139	mui	1	m ui
+089/141	nua	1	n ua
+089/143	mui	1	m ui
+089/145	mui	1	m ui
+089/147	nui	1	n ui
+089/149	mui	1	m ui
+090/035	nüa	1	n üa
+090/037	nüe	1	n üe
+090/039	nüe	1	n üe
+090/041	nüa	1	n üa
+090/043	nua	1	n ua
+090/045	nuag	1	n ua g
+090/047	nuag	1	n ua g
+090/049	nuog	1	n uo g
+090/051	nueg	1	n ue g
+090/053	nuag	1	n ua g
+090/055	nuag	1	n ua g
+090/057	nuag	1	n ua g
+090/059	nuag	1	n ua g
+090/061	nuag	1	n ua g
+090/063	nuag	1	n ua g
+090/065	nuag	1	n ua g
+090/067	nuag	1	n ua g
+090/069	nua	1	n ua
+090/071	nua	1	n ua
+090/073	nua	1	n ua
+090/075	nua	1	n ua
+090/077	nuag	1	n ua g
+090/079	nuag	1	n ua g
+090/081	nua	1	n ua
+090/083	nua	1	n ua
+090/085	mua	1	m ua
+090/087	nua	1	n ua
+090/089	mua	1	m ua
+090/091	nua	1	n ua
+090/093	nua	1	n ua
+090/095	NA	NA	-
+090/097	nua	1	n ua
+090/099	nua	1	n ua
+090/101	nua	1	n ua
+090/103	nua	1	n ua
+090/105	NA	NA	-
+090/107	NA	NA	-
+090/109	nua	1	n ua
+090/111	mua	1	m ua
+090/113	nua	1	n ua
+090/115	nua	1	n ua
+090/119	NA	NA	-
+090/121	mua	1	m ua
+090/123	mua	1	m ua
+090/125	NA	NA	-
+090/127	mua	1	m ua
+090/129	nua	1	n ua
+090/131	mua	1	m ua
+090/133	mua	1	m ua
+090/135	NA	NA	-
+090/137	mua	1	m ua
+090/139	mua	1	m ua
+090/141	nua	1	n ua
+090/143	nua	1	n ua
+090/145	nua	1	n ua
+090/147	mui	1	m ui
+090/149	nua	1	n ua
+090/151	mui	1	m ui
+091/035	nö	1	n ö
+091/037	nüa	1	n üa
+091/039	nöa	1	n öa
+091/041	nua	1	n ua
+091/043	nuä	1	n uä
+091/045	nue	1	n ue
+091/047	nua	1	n ua
+091/049	nueg	1	n ue g
+091/051	nuag	1	n ua g
+091/053	nuag	1	n ua g
+091/055	nuog	1	n uo g
+091/057	nuag	1	n ua g
+091/059	nuag	1	n ua g
+091/061	nuag	1	n ua g
+091/063	nuag	1	n ua g
+091/065	nue	1	n ue
+091/067	nua	1	n ua
+091/069	no	1	n o
+091/071	nua	1	n ua
+091/073	nua	1	n ua
+091/075	nua	1	n ua
+091/077	nua	1	n ua
+091/079	nua	1	n ua
+091/081	nua	1	n ua
+091/083	mua	1	m ua
+091/085	mua	1	m ua
+091/087	nua	1	n ua
+091/091	nua	1	n ua
+091/093	nua	1	n ua
+091/095	nua	1	n ua
+091/097	nuua	1	n uua
+091/099	NA	NA	-
+091/101	nua	1	n ua
+091/103	nua	1	n ua
+091/105	nua	1	n ua
+091/107	nua	1	n ua
+091/109	nua	1	n ua
+091/111	mu	1	m u
+091/113	NA	NA	-
+091/115	NA	NA	-
+091/117	nur	1	n u r
+091/119	NA	NA	-
+091/121	mua	1	m ua
+091/125	mua	1	m ua
+091/129	mua	1	m ua
+091/131	nua	1	n ua
+091/133	nua	1	n ua
+091/135	nua	1	n ua
+091/137	mua	1	m ua
+091/139	nua	1	n ua
+091/141	nua	1	n ua
+091/143	nua	1	n ua
+091/145	mua	1	m ua
+091/147	nua	1	n ua
+091/149	mui	1	m ui
+091/151	nua	1	n ua
+091/155	NA	NA	-
+092/033	nüä	1	n üä
+092/035	nua	1	n ua
+092/037	nüa	1	n üa
+092/039	nüa	1	n üa
+092/041	nua	1	n ua
+092/043	nue	1	n ue
+092/045	nue	1	n ue
+092/047	nue	1	n ue
+092/049	nueg	1	n ue g
+092/051	nuag	1	n ua g
+092/053	nueg	1	n ue g
+092/055	nuag	1	n ua g
+092/057	nueg	1	n ue g
+092/059	nuag	1	n ua g
+092/061	nuag	1	n ua g
+092/063	nueg	1	n ue g
+092/065	nua	1	n ua
+092/067	nue	1	n ue
+092/069	nuag	1	n ua g
+092/071	nua	1	n ua
+092/073	nua	1	n ua
+092/075	nua	1	n ua
+092/077	nua	1	n ua
+092/079	NA	NA	-
+092/081	nua	1	n ua
+092/083	nua	1	n ua
+092/085	nua	1	n ua
+092/087	nua	1	n ua
+092/089	ua	1	ua
+092/091	nua	1	n ua
+092/093	nua	1	n ua
+092/095	mua	1	m ua
+092/097	nua	1	n ua
+092/099	nua	1	n ua
+092/101	nua	1	n ua
+092/103	nu	1	n u
+092/105	nu	1	n u
+092/107	NA	NA	-
+092/109	nua	1	n ua
+092/111	nua	1	n ua
+092/113	nua	1	n ua
+092/115	nua	1	n ua
+092/117	nua	1	n ua
+092/119	NA	NA	-
+092/121	nua	1	n ua
+092/123	NA	NA	-
+092/125	nua	1	n ua
+092/127	nua	1	n ua
+092/129	nua	1	n ua
+092/131	mua	1	m ua
+092/133	nua	1	n ua
+092/135	nua	1	n ua
+092/137	NA	NA	-
+092/139	NA	NA	-
+092/141	mua	1	m ua
+092/143	nua	1	n ua
+092/145	nua	1	n ua
+092/147	nua	1	n ua
+092/149	nua	1	n ua
+092/151	nua	1	n ua
+093/035	nüa	1	n üa
+093/037	nüa	1	n üa
+093/039	nüa	1	n üa
+093/041	nuä	1	n uä
+093/043	nue	1	n ue
+093/045	nua	1	n ua
+093/047	nueg	1	n ue g
+093/049	nuag	1	n ua g
+093/051	nuäg	1	n uä g
+093/053	nuog	1	n uo g
+093/055	nuag	1	n ua g
+093/057	nuag	1	n ua g
+093/059	nuag	1	n ua g
+093/061	nue	1	n ue
+093/063	nua	1	n ua
+093/065	nua	1	n ua
+093/067	nua	1	n ua
+093/069	nua	1	n ua
+093/071	nua	1	n ua
+093/073	nua	1	n ua
+093/075	nua	1	n ua
+093/077	nua	1	n ua
+093/079	mua	1	m ua
+093/081	nua	1	n ua
+093/083	nua	1	n ua
+093/085	nua	1	n ua
+093/087	nua	1	n ua
+093/089	mua	1	m ua
+093/091	nua	1	n ua
+093/093	nua	1	n ua
+093/095	NA	NA	-
+093/097	nua	1	n ua
+093/099	nua	1	n ua
+093/101	nua	1	n ua
+093/103	NA	NA	-
+093/105	nua	1	n ua
+093/109	nua	1	n ua
+093/111	nua	1	n ua
+093/113	nua	1	n ua
+093/115	nua	1	n ua
+093/117	nua	1	n ua
+093/119	nua	1	n ua
+093/121	nua	1	n ua
+093/123	nua	1	n ua
+093/125	mua	1	m ua
+093/127	mua	1	m ua
+093/129	mua	1	m ua
+093/131	mua	1	m ua
+093/133	nua	1	n ua
+093/137	mua	1	m ua
+093/139	nua	1	n ua
+093/143	mua	1	m ua
+093/145	nua	1	n ua
+093/147	mua	1	m ua
+093/149	nua	1	n ua
+093/151	NA	NA	-
+093/153	nua	1	n ua
+093/155	mua	1	m ua
+094/033	nu	1	n u
+094/035	nüaa	1	n üaa
+094/037	nüe	1	n üe
+094/039	nuäa	1	n uäa
+094/041	nuä	1	n uä
+094/043	nue	1	n ue
+094/045	nuag	1	n ua g
+094/047	nuag	1	n ua g
+094/049	nuag	1	n ua g
+094/051	nua	1	n ua
+094/053	nuag	1	n ua g
+094/055	nueg	1	n ue g
+094/057	nueg	1	n ue g
+094/059	nua	1	n ua
+094/061	nua	1	n ua
+094/063	nug	1	n u g
+094/065	nua	1	n ua
+094/067	nua	1	n ua
+094/069	nua	1	n ua
+094/071	nua	1	n ua
+094/073	nua	1	n ua
+094/075	NA	NA	-
+094/077	nuaa	1	n uaa
+094/079	nua	1	n ua
+094/081	nua	1	n ua
+094/083	nua	1	n ua
+094/085	müo	1	m üo
+094/087	mu	1	m u
+094/089	NA	NA	-
+094/091	mua	1	m ua
+094/093	nua	1	n ua
+094/095	nua	1	n ua
+094/097	nua	1	n ua
+094/099	nua	1	n ua
+094/101	na	1	n a
+094/103	nuag	1	n ua g
+094/105	nua	1	n ua
+094/107	nuag	1	n ua g
+094/109	nua	1	n ua
+094/111	nua	1	n ua
+094/113	NA	NA	-
+094/115	nua	1	n ua
+094/117	mua	1	m ua
+094/119	nua	1	n ua
+094/121	nua	1	n ua
+094/123	NA	NA	-
+094/125	nu	1	n u
+094/127	nua	1	n ua
+094/129	nua	1	n ua
+094/131	nua	1	n ua
+094/133	nua	1	n ua
+094/135	nua	1	n ua
+094/137	nua	1	n ua
+094/139	nua	1	n ua
+094/141	nua	1	n ua
+094/143	nua	1	n ua
+094/145	nua	1	n ua
+094/147	nua	1	n ua
+094/149	nua	1	n ua
+094/151	mua	1	m ua
+094/153	nua	1	n ua
+095/031	nüa	1	n üa
+095/033	nüe	1	n üe
+095/035	nüa	1	n üa
+095/037	nüa	1	n üa
+095/039	nüa	1	n üa
+095/041	nue	1	n ue
+095/043	nue	1	n ue
+095/045	nuäg	1	n uä g
+095/047	nuag	1	n ua g
+095/049	nuag	1	n ua g
+095/051	nuag	1	n ua g
+095/053	nuäg	1	n uä g
+095/055	nuag	1	n ua g
+095/057	ueg	1	ue g
+095/059	nuag	1	n ua g
+095/061	nua	1	n ua
+095/063	nua	1	n ua
+095/065	nuo	1	n uo
+095/067	nua	1	n ua
+095/069	nua	1	n ua
+095/071	NA	NA	-
+095/073	nuo	1	n uo
+095/075	nua	1	n ua
+095/077	nua	1	n ua
+095/079	mua	1	m ua
+095/081	nua	1	n ua
+095/083	nua	1	n ua
+095/085	nua	1	n ua
+095/087	nua	1	n ua
+095/089	muua	1	m uua
+095/091	NA	NA	-
+095/093	nou	1	n ou
+095/095	nua	1	n ua
+095/097	nua	1	n ua
+095/099	nuag	1	n ua g
+095/101	nua	1	n ua
+095/103	nua	1	n ua
+095/105	nu	1	n u
+095/107	nua	1	n ua
+095/109	nua	1	n ua
+095/111	nua	1	n ua
+095/113	nua	1	n ua
+095/115	nua	1	n ua
+095/117	nua	1	n ua
+095/119	nua	1	n ua
+095/121	mua	1	m ua
+095/123	mua	1	m ua
+095/125	nu	1	n u
+095/129	nua	1	n ua
+095/131	nua	1	n ua
+095/133	mua	1	m ua
+095/139	nua	1	n ua
+095/141	nua	1	n ua
+095/143	nua	1	n ua
+095/145	nua	1	n ua
+095/147	NA	NA	-
+095/149	NA	NA	-
+095/151	mui	1	m ui
+095/153	nui	1	n ui
+095/155	mui	1	m ui
+096/031	nue	1	n ue
+096/033	nua	1	n ua
+096/035	nuaa	1	n uaa
+096/037	nüa	1	n üa
+096/039	nüe	1	n üe
+096/041	nua	1	n ua
+096/043	nua	1	n ua
+096/045	nuag	1	n ua g
+096/047	nuag	1	n ua g
+096/049	nuag	1	n ua g
+096/051	nuäg	1	n uä g
+096/053	nuag	1	n ua g
+096/055	nueg	1	n ue g
+096/057	nuag	1	n ua g
+096/059	nua	1	n ua
+096/061	nua	1	n ua
+096/063	nug	1	n u g
+096/065	nua	1	n ua
+096/067	nua	1	n ua
+096/069	nua	1	n ua
+096/071	nua	1	n ua
+096/075	NA	NA	-
+096/077	nua	1	n ua
+096/079	na	1	n a
+096/081	nua	1	n ua
+096/083	nua	1	n ua
+096/085	nuuo	1	n uuo
+096/087	nua	1	n ua
+096/089	nu	1	n u
+096/091	nua	1	n ua
+096/093	nua	1	n ua
+096/095	nua	1	n ua
+096/097	nua	1	n ua
+096/099	nuag	1	n ua g
+096/101	nu	1	n u
+096/103	nua	1	n ua
+096/105	nua	1	n ua
+096/107	nug	1	n u g
+096/109	nuag	1	n ua g
+096/111	nua	1	n ua
+096/113	nua	1	n ua
+096/115	nua	1	n ua
+096/117	NA	NA	-
+096/119	mua	1	m ua
+096/121	muu	1	m uu
+096/123	nua	1	n ua
+096/125	nua	1	n ua
+096/129	mua	1	m ua
+096/131	nua	1	n ua
+096/135	NA	NA	-
+096/137	NA	NA	-
+096/139	nua	1	n ua
+096/141	nua	1	n ua
+096/143	NA	NA	-
+096/145	mui	1	m ui
+096/147	mu	1	m u
+096/151	mui	1	m ui
+096/153	mui	1	m ui
+096/155	nua	1	n ua
+097/031	nüe	1	n üe
+097/033	nuä	1	n uä
+097/035	nüa	1	n üa
+097/037	nöe	1	n öe
+097/039	nueg	1	n ue g
+097/041	nueg	1	n ue g
+097/043	nueg	1	n ue g
+097/045	nua	1	n ua
+097/047	muang	1	m ua ng
+097/049	nuäg	1	n uä g
+097/051	nua	1	n ua
+097/053	nuag	1	n ua g
+097/055	nuag	1	n ua g
+097/057	nue	1	n ue
+097/059	nua	1	n ua
+097/061	nua	1	n ua
+097/063	nua	1	n ua
+097/065	nueg	1	n ue g
+097/067	nua	1	n ua
+097/069	nua	1	n ua
+097/071	nua	1	n ua
+097/073	nua	1	n ua
+097/075	nua	1	n ua
+097/077	nua	1	n ua
+097/079	nua	1	n ua
+097/081	muah	1	m uah
+097/083	nua	1	n ua
+097/085	nua	1	n ua
+097/087	nuua	1	n uua
+097/089	nua	1	n ua
+097/091	muua	1	m uua
+097/093	nua	1	n ua
+097/095	nua	1	n ua
+097/097	nuag	1	n ua g
+097/099	nua	1	n ua
+097/103	nua	1	n ua
+097/105	nuag	1	n ua g
+097/107	NA	NA	-
+097/109	NA	NA	-
+097/113	NA	NA	-
+097/125	nua	1	n ua
+097/131	mua	1	m ua
+097/133	mua	1	m ua
+097/139	nua	1	n ua
+097/141	mua	1	m ua
+097/143	nua	1	n ua
+097/145	mui	1	m ui
+097/149	NA	NA	-
+097/153	nui	1	n ui
+098/033	üa	1	üa
+098/035	nüa	1	n üa
+098/037	nüa	1	n üa
+098/039	nüa	1	n üa
+098/041	nuag	1	n ua g
+098/043	nueg	1	n ue g
+098/045	mueng	1	m ue ng
+098/047	NA	NA	-
+098/049	nua	1	n ua
+098/051	nueg	1	n ue g
+098/053	nuag	1	n ua g
+098/055	nua	1	n ua
+098/057	nua	1	n ua
+098/059	nue	1	n ue
+098/061	nua	1	n ua
+098/063	nua	1	n ua
+098/065	nua	1	n ua
+098/067	nu	1	n u
+098/069	nua	1	n ua
+098/071	nua	1	n ua
+098/073	nua	1	n ua
+098/075	NA	NA	-
+098/077	nu	1	n u
+098/079	nua	1	n ua
+098/081	mua	1	m ua
+098/083	nua	1	n ua
+098/085	NA	NA	-
+098/087	nua	1	n ua
+098/089	nua	1	n ua
+098/091	mua	1	m ua
+098/093	nua	1	n ua
+098/095	nuag	1	n ua g
+098/097	nua	1	n ua
+098/103	nua	1	n ua
+098/105	nuag	1	n ua g
+098/107	nua	1	n ua
+098/109	nuaa	1	n uaa
+098/111	nuag	1	n ua g
+098/119	NA	NA	-
+098/123	nua	1	n ua
+098/125	NA	NA	-
+098/127	muach	1	m ua ch
+098/135	nua	1	n ua
+098/137	nua	1	n ua
+098/139	NA	NA	-
+098/141	nua	1	n ua
+098/143	mui	1	m ui
+098/145	mui	1	m ui
+098/147	nua	1	n ua
+098/149	mui	1	m ui
+098/151	nua	1	n ua
+099/033	nüa	1	n üa
+099/035	nüa	1	n üa
+099/037	nüa	1	n üa
+099/039	nüa	1	n üa
+099/041	nueg	1	n ue g
+099/043	mueng	1	m ue ng
+099/045	nua	1	n ua
+099/047	nuag	1	n ua g
+099/049	mua	1	m ua
+099/051	nueg	1	n ue g
+099/053	nueg	1	n ue g
+099/055	nueg	1	n ue g
+099/057	nueg	1	n ue g
+099/059	naa	1	n aa
+099/063	nua	1	n ua
+099/065	nuu	1	n uu
+099/067	nue	1	n ue
+099/069	nue	1	n ue
+099/071	nua	1	n ua
+099/073	nua	1	n ua
+099/075	nua	1	n ua
+099/077	nua	1	n ua
+099/081	NA	NA	-
+099/083	nua	1	n ua
+099/085	nua	1	n ua
+099/089	nuag	1	n ua g
+099/093	nuag	1	n ua g
+099/095	nuag	1	n ua g
+099/099	nuag	1	n ua g
+099/101	nua	1	n ua
+099/103	NA	NA	-
+099/105	nuag	1	n ua g
+099/107	NA	NA	-
+099/109	nuag	1	n ua g
+099/111	NA	NA	-
+099/113	mua	1	m ua
+099/121	mua	1	m ua
+099/123	nua	1	n ua
+099/125	nua	1	n ua
+099/131	mua	1	m ua
+099/137	nua	1	n ua
+099/139	mua	1	m ua
+099/141	nua	1	n ua
+099/143	nua	1	n ua
+099/145	mui	1	m ui
+099/147	mui	1	m ui
+100/033	nüä	1	n üä
+100/035	nue	1	n ue
+100/037	nüa	1	n üa
+100/039	nueg	1	n ue g
+100/041	nueg	1	n ue g
+100/043	NA	NA	-
+100/045	nueg	1	n ue g
+100/049	nueg	1	n ue g
+100/051	nueg	1	n ue g
+100/053	nueg	1	n ue g
+100/055	nueg	1	n ue g
+100/057	nueg	1	n ue g
+100/059	NA	NA	-
+100/061	nueg	1	n ue g
+100/065	nueg	1	n ue g
+100/067	nuug	1	n uu g
+100/069	nua	1	n ua
+100/071	nue	1	n ue
+100/073	nua	1	n ua
+100/075	nueg	1	n ue g
+100/077	nua	1	n ua
+100/081	nu	1	n u
+100/083	mua	1	m ua
+100/089	NA	NA	-
+100/093	nuag	1	n ua g
+100/095	nug	1	n u g
+100/097	nuag	1	n ua g
+100/099	nuag	1	n ua g
+100/101	na	1	n a
+100/109	nuag	1	n ua g
+100/111	nug	1	n u g
+100/113	muag	1	m ua g
+100/115	NA	NA	-
+100/117	muag	1	m ua g
+100/119	nua	1	n ua
+100/121	NA	NA	-
+100/125	nua	1	n ua
+100/127	NA	NA	-
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	mua	1	m ua
+100/141	mua	1	m ua
+100/143	nua	1	n ua
+100/145	mui	1	m ui
+101/035	nüa	1	n üa
+101/037	nueg	1	n ue g
+101/039	nue	1	n ue
+101/041	nue	1	n ue
+101/043	nueg	1	n ue g
+101/045	nueg	1	n ue g
+101/047	nue	1	n ue
+101/049	nueg	1	n ue g
+101/051	nueg	1	n ue g
+101/053	nueg	1	n ue g
+101/055	nueg	1	n ue g
+101/057	nueg	1	n ue g
+101/059	nueg	1	n ue g
+101/061	NA	NA	-
+101/063	nue	1	n ue
+101/065	nug	1	n u g
+101/067	nug	1	n u g
+101/071	nue	1	n ue
+101/075	nue	1	n ue
+101/077	nueg	1	n ue g
+101/079	nua	1	n ua
+101/081	nua	1	n ua
+101/091	nuag	1	n ua g
+101/093	nuag	1	n ua g
+101/095	nuag	1	n ua g
+101/097	nuag	1	n ua g
+101/099	nuag	1	n ua g
+101/101	nuag	1	n ua g
+101/103	nuag	1	n ua g
+101/107	nuag	1	n ua g
+101/109	NA	NA	-
+101/113	nuag	1	n ua g
+101/115	nua	1	n ua
+101/121	nua	1	n ua
+101/125	nua	1	n ua
+101/129	nua	1	n ua
+101/131	nua	1	n ua
+101/133	nua	1	n ua
+101/137	NA	NA	-
+101/139	ua	1	ua
+101/141	mua	1	m ua
+101/143	mua	1	m ua
+101/145	mui	1	m ui
+101/147	mui	1	m ui
+102/037	nue	1	n ue
+102/039	nue	1	n ue
+102/041	nue	1	n ue
+102/043	nue	1	n ue
+102/045	nueg	1	n ue g
+102/047	nue	1	n ue
+102/049	nueg	1	n ue g
+102/051	nueg	1	n ue g
+102/053	NA	NA	-
+102/055	nueg	1	n ue g
+102/057	nueg	1	n ue g
+102/059	nueg	1	n ue g
+102/061	nueg	1	n ue g
+102/063	nuag	1	n ua g
+102/065	nua	1	n ua
+102/067	nuog	1	n uo g
+102/069	nua	1	n ua
+102/071	nue	1	n ue
+102/073	nuag	1	n ua g
+102/075	nua	1	n ua
+102/077	nuag	1	n ua g
+102/079	nuag	1	n ua g
+102/081	muag	1	m ua g
+102/083	mua	1	m ua
+102/089	muag	1	m ua g
+102/091	NA	NA	-
+102/093	nuag	1	n ua g
+102/095	nuag	1	n ua g
+102/097	nuag	1	n ua g
+102/099	nuag	1	n ua g
+102/103	nuag	1	n ua g
+102/107	uag	1	ua g
+102/109	nua	1	n ua
+102/113	nuag	1	n ua g
+102/115	mua	1	m ua
+102/127	nua	1	n ua
+102/129	NA	NA	-
+102/131	muua	1	m uua
+102/135	nua	1	n ua
+102/137	mua	1	m ua
+102/139	NA	NA	-
+102/141	mua	1	m ua
+102/143	mui	1	m ui
+102/145	mui	1	m ui
+103/039	mu	1	m u
+103/041	nuä	1	n uä
+103/043	nue	1	n ue
+103/045	nue	1	n ue
+103/047	nuäg	1	n uä g
+103/049	nue	1	n ue
+103/051	nueg	1	n ue g
+103/053	nueg	1	n ue g
+103/055	nueg	1	n ue g
+103/057	nueg	1	n ue g
+103/059	nueg	1	n ue g
+103/063	nueg	1	n ue g
+103/065	NA	NA	-
+103/067	nuag	1	n ua g
+103/069	nuag	1	n ua g
+103/071	nueg	1	n ue g
+103/073	nua	1	n ua
+103/075	nug	1	n u g
+103/077	nua	1	n ua
+103/079	nuag	1	n ua g
+103/081	NA	NA	-
+103/083	nuag	1	n ua g
+103/085	nua	1	n ua
+103/087	nuag	1	n ua g
+103/089	nuag	1	n ua g
+103/091	nuag	1	n ua g
+103/097	nuag	1	n ua g
+103/099	nuag	1	n ua g
+103/101	nua	1	n ua
+103/105	nua	1	n ua
+103/107	nuak	1	n ua k
+103/111	nuag	1	n ua g
+103/121	nua	1	n ua
+103/125	nua	1	n ua
+103/127	nua	1	n ua
+103/131	nua	1	n ua
+103/133	mua	1	m ua
+103/135	nua	1	n ua
+103/137	nua	1	n ua
+103/139	mua	1	m ua
+103/141	mua	1	m ua
+103/143	mui	1	m ui
+103/145	mui	1	m ui
+104/033	NA	NA	-
+104/035	nue	1	n ue
+104/037	nue	1	n ue
+104/039	nue	1	n ue
+104/041	nue	1	n ue
+104/043	nueg	1	n ue g
+104/045	nueg	1	n ue g
+104/047	nueg	1	n ue g
+104/049	nueg	1	n ue g
+104/051	nueg	1	n ue g
+104/053	nueg	1	n ue g
+104/055	nuäg	1	n uä g
+104/057	nuäg	1	n uä g
+104/059	nueg	1	n ue g
+104/061	nuag	1	n ua g
+104/063	nua	1	n ua
+104/065	nua	1	n ua
+104/067	nua	1	n ua
+104/071	nua	1	n ua
+104/075	nuag	1	n ua g
+104/077	nuag	1	n ua g
+104/079	nueg	1	n ue g
+104/081	nue	1	n ue
+104/083	moag	1	m oa g
+104/085	nua	1	n ua
+104/091	nuag	1	n ua g
+104/095	nuag	1	n ua g
+104/101	nua	1	n ua
+104/103	nuag	1	n ua g
+104/107	noug	1	n ou g
+104/111	noug	1	n ou g
+104/113	muag	1	m ua g
+104/119	nua	1	n ua
+104/121	nua	1	n ua
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	naag	1	n aa g
+104/131	nua	1	n ua
+104/133	mua	1	m ua
+104/135	mua	1	m ua
+104/137	nua	1	n ua
+104/139	nua	1	n ua
+104/141	NA	NA	-
+104/143	mui	1	m ui
+104/145	mui	1	m ui
+105/031	nue	1	n ue
+105/033	nue	1	n ue
+105/035	nue	1	n ue
+105/037	nue	1	n ue
+105/039	nue	1	n ue
+105/041	nue	1	n ue
+105/043	nueg	1	n ue g
+105/045	nueg	1	n ue g
+105/047	nueg	1	n ue g
+105/049	nueg	1	n ue g
+105/051	nueg	1	n ue g
+105/053	nuog	1	n uo g
+105/055	nuog	1	n uo g
+105/057	nuäg	1	n uä g
+105/059	nueg	1	n ue g
+105/061	nueg	1	n ue g
+105/063	nuag	1	n ua g
+105/065	nua	1	n ua
+105/067	nua	1	n ua
+105/069	NA	NA	-
+105/071	nuag	1	n ua g
+105/073	nuag	1	n ua g
+105/075	nuag	1	n ua g
+105/077	nua	1	n ua
+105/079	nuak	1	n ua k
+105/081	nug	1	n u g
+105/085	NA	NA	-
+105/087	nueg	1	n ue g
+105/089	NA	NA	-
+105/103	nuag	1	n ua g
+105/105	nua	1	n ua
+105/111	muag	1	m ua g
+105/113	nuag	1	n ua g
+105/115	nuag	1	n ua g
+105/117	nuag	1	n ua g
+105/119	NA	NA	-
+105/121	nua	1	n ua
+105/125	nue	1	n ue
+105/127	NA	NA	-
+105/131	mua	1	m ua
+105/133	nua	1	n ua
+105/135	nua	1	n ua
+105/137	nua	1	n ua
+105/141	nui	1	n ui
+105/143	mui	1	m ui
+105/145	mui	1	m ui
+106/033	nue	1	n ue
+106/035	nue	1	n ue
+106/037	nue	1	n ue
+106/039	nue	1	n ue
+106/041	nue	1	n ue
+106/043	nueg	1	n ue g
+106/045	nue	1	n ue
+106/047	nue	1	n ue
+106/049	nue	1	n ue
+106/051	NA	NA	-
+106/053	nueg	1	n ue g
+106/057	nuäg	1	n uä g
+106/061	nuäg	1	n uä g
+106/063	nueg	1	n ue g
+106/067	nuag	1	n ua g
+106/071	nuag	1	n ua g
+106/073	nua	1	n ua
+106/075	nuag	1	n ua g
+106/077	nug	1	n u g
+106/079	nug	1	n u g
+106/081	nuag	1	n ua g
+106/085	nuag	1	n ua g
+106/087	NA	NA	-
+106/093	nüi	1	n üi
+106/097	nü	1	n ü
+106/099	nue	1	n ue
+106/103	nuag	1	n ua g
+106/111	nua	1	n ua
+106/115	nua	1	n ua
+106/121	nua	1	n ua
+106/123	nua	1	n ua
+106/125	nua	1	n ua
+106/129	NA	NA	-
+106/131	nua	1	n ua
+106/133	nua	1	n ua
+106/135	na	1	n a
+106/137	nua	1	n ua
+106/139	mua	1	m ua
+106/141	mui	1	m ui
+106/143	mui	1	m ui
+106/145	nui	1	n ui
+107/033	nue	1	n ue
+107/035	nuä	1	n uä
+107/037	nue	1	n ue
+107/039	nue	1	n ue
+107/041	nue	1	n ue
+107/043	nue	1	n ue
+107/045	nueg	1	n ue g
+107/047	nueg	1	n ue g
+107/049	nueg	1	n ue g
+107/051	NA	NA	-
+107/053	nuäg	1	n uä g
+107/057	nuäg	1	n uä g
+107/059	NA	NA	-
+107/063	nuo	1	n uo
+107/065	nueg	1	n ue g
+107/071	nua	1	n ua
+107/075	nuag	1	n ua g
+107/081	nuag	1	n ua g
+107/085	nue	1	n ue
+107/087	nue	1	n ue
+107/089	nui	1	n ui
+107/091	nui	1	n ui
+107/097	NA	NA	-
+107/099	nü	1	n ü
+107/103	nuag	1	n ua g
+107/105	NA	NA	-
+107/107	nuag	1	n ua g
+107/111	NA	NA	-
+107/119	nua	1	n ua
+107/121	NA	NA	-
+107/123	nua	1	n ua
+107/125	NA	NA	-
+107/127	nua	1	n ua
+107/129	NA	NA	-
+107/131	nua	1	n ua
+107/133	nua	1	n ua
+107/135	mua	1	m ua
+107/137	nua	1	n ua
+107/139	nua	1	n ua
+107/141	nua	1	n ua
+107/143	nua	1	n ua
+108/033	nuä	1	n uä
+108/035	NA	NA	-
+108/037	nue	1	n ue
+108/039	nue	1	n ue
+108/041	nue	1	n ue
+108/043	nue	1	n ue
+108/047	nueg	1	n ue g
+108/049	nuäg	1	n uä g
+108/063	NA	NA	-
+108/065	nuog	1	n uo g
+108/067	nuog	1	n uo g
+108/075	nua	1	n ua
+108/079	nuag	1	n ua g
+108/081	nueg	1	n ue g
+108/085	NA	NA	-
+108/087	nui	1	n ui
+108/091	NA	NA	-
+108/099	NA	NA	-
+108/101	nue	1	n ue
+108/103	nu	1	n u
+108/105	NA	NA	-
+108/109	nueg	1	n ue g
+108/111	nug	1	n u g
+108/113	nuag	1	n ua g
+108/117	NA	NA	-
+108/119	nua	1	n ua
+108/121	NA	NA	-
+108/123	nua	1	n ua
+108/125	nua	1	n ua
+108/127	nua	1	n ua
+108/129	nua	1	n ua
+108/131	nua	1	n ua
+108/133	nua	1	n ua
+108/135	nua	1	n ua
+108/137	nua	1	n ua
+108/139	NA	NA	-
+108/141	nua	1	n ua
+109/035	nue	1	n ue
+109/037	nue	1	n ue
+109/039	nue	1	n ue
+109/041	nue	1	n ue
+109/043	nuä	1	n uä
+109/045	NA	NA	-
+109/049	nüäg	1	n üä g
+109/053	NA	NA	-
+109/061	nuag	1	n ua g
+109/063	nuag	1	n ua g
+109/065	nuag	1	n ua g
+109/067	nuäg	1	n uä g
+109/075	nuag	1	n ua g
+109/083	nuag	1	n ua g
+109/087	nui	1	n ui
+109/089	nui	1	n ui
+109/091	nuui	1	n uui
+109/093	nui	1	n ui
+109/095	nui	1	n ui
+109/097	nui	1	n ui
+109/099	nui	1	n ui
+109/101	NA	NA	-
+109/103	mua	1	m ua
+109/107	nue	1	n ue
+109/109	NA	NA	-
+109/111	mueg	1	m ue g
+109/113	nua	1	n ua
+109/115	nuag	1	n ua g
+109/117	nua	1	n ua
+109/119	nua	1	n ua
+109/121	nua	1	n ua
+109/123	NA	NA	-
+109/125	nua	1	n ua
+109/127	NA	NA	-
+109/129	nua	1	n ua
+109/131	nua	1	n ua
+109/133	NA	NA	-
+109/135	nua	1	n ua
+109/137	NA	NA	-
+109/139	nua	1	n ua
+110/035	nue	1	n ue
+110/039	NA	NA	-
+110/041	nu	1	n u
+110/043	nueg	1	n ue g
+110/045	nueg	1	n ue g
+110/047	nög	1	n ö g
+110/049	nög	1	n ö g
+110/057	nuag	1	n ua g
+110/061	nueg	1	n ue g
+110/065	nuag	1	n ua g
+110/075	nuag	1	n ua g
+110/079	NA	NA	-
+110/081	nua	1	n ua
+110/083	nua	1	n ua
+110/087	nua	1	n ua
+110/089	nua	1	n ua
+110/091	NA	NA	-
+110/093	NA	NA	-
+110/095	nui	1	n ui
+110/097	nui	1	n ui
+110/099	nuik	1	n ui k
+110/101	nueg	1	n ue g
+110/105	nua	1	n ua
+110/107	nu	1	n u
+110/111	nuag	1	n ua g
+110/113	nua	1	n ua
+110/115	nuag	1	n ua g
+110/117	nua	1	n ua
+110/119	NA	NA	-
+110/121	NA	NA	-
+110/125	nua	1	n ua
+110/127	nua	1	n ua
+110/129	nua	1	n ua
+110/131	NA	NA	-
+110/133	nua	1	n ua
+110/135	nua	1	n ua
+110/137	NA	NA	-
+110/139	nua	1	n ua
+111/035	nueg	1	n ue g
+111/037	nueg	1	n ue g
+111/039	nueg	1	n ue g
+111/041	nueg	1	n ue g
+111/043	nueg	1	n ue g
+111/045	nüeg	1	n üe g
+111/059	nuag	1	n ua g
+111/073	nua	1	n ua
+111/075	nuag	1	n ua g
+111/077	nua	1	n ua
+111/079	NA	NA	-
+111/081	nua	1	n ua
+111/083	nua	1	n ua
+111/087	NA	NA	-
+111/089	nua	1	n ua
+111/105	nuag	1	n ua g
+111/107	nug	1	n u g
+111/109	nua	1	n ua
+111/111	nu	1	n u
+111/113	NA	NA	-
+111/115	NA	NA	-
+111/117	NA	NA	-
+111/119	nua	1	n ua
+111/121	nua	1	n ua
+111/123	nua	1	n ua
+111/125	nua	1	n ua
+112/037	nueg	1	n ue g
+112/039	nueg	1	n ue g
+112/041	nue	1	n ue
+112/043	NA	NA	-
+112/047	nueg	1	n ue g
+112/059	nuog	1	n uo g
+112/061	nuag	1	n ua g
+112/063	nuog	1	n uo g
+112/075	NA	NA	-
+112/081	nua	1	n ua
+112/083	nua	1	n ua
+112/085	NA	NA	-
+112/111	nua	1	n ua
+112/115	nuag	1	n ua g
+112/117	nuag	1	n ua g
+112/119	NA	NA	-
+113/035	nueg	1	n ue g
+113/037	nueg	1	n ue g
+113/039	nueg	1	n ue g
+113/047	nüäg	1	n üä g
+113/079	nua	1	n ua
+113/081	nuua	1	n uua
+113/083	nua	1	n ua
+113/085	nua	1	n ua
+113/087	nua	1	n ua
+113/121	nu	1	n u
+113/123	NA	NA	-
+114/035	nueg	1	n ue g
+114/045	NA	NA	-
+114/083	nua	1	n ua
+114/085	nua	1	n ua
+115/041	nuog	1	n uo g
+115/043	nüog	1	n üo g
+115/045	nüog	1	n üo g
+115/083	nua	1	n ua
+115/085	nua	1	n ua
+116/043	NA	NA	-
+116/045	NA	NA	-
+116/083	nua	1	n ua
+117/043	niog	1	n io g
+117/045	nuäg	1	n uä g
+118/041	nüeg	1	n üe g
+119/083	nua	1	n ua
+120/085	nua	1	n ua
+121/127	nuäg	1	n uä g
+122/127	nueg	1	n ue g
+122/129	nuaag	1	n uaa g
+123/081	NA	NA	-
+123/123	nuäg	1	n uä g
+123/125	nuäg	1	n uä g
+123/127	nuäg	1	n uä g
+123/129	nuäg	1	n uä g
+124/125	näg	1	n ä g
+124/127	nuäg	1	n uä g
+124/129	nuäg	1	n uä g

@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	do	1	d o
+002/201	legg	1	l e gg
+002/203	do	1	d o
+002/205	doh	1	d oh
+003/203	do	1	d o
+003/205	do	1	d o
+004/205	doh	1	d oh
+005/205	do	1	d o
+005/207	leg	1	l e g
+006/205	doh	1	d oh
+006/207	leg	1	l e g
+007/205	legg	1	l e gg
+007/207	doh	1	d oh
+007/209	doo	1	d oo
+007/211	leg	1	l e g
+008/199	leg	1	l e g
+008/203	doh	1	d oh
+008/205	leg	1	l e g
+008/207	doh	1	d oh
+008/209	do	1	d o
+008/211	lägg	1	l ä gg
+008/213	leg	1	l e g
+009/199	doh	1	d oh
+009/203	legg	1	l e gg
+009/207	do	1	d o
+009/209	doo	1	d oo
+009/211	do	1	d o
+009/213	do	1	d o
+009/215	dho	1	d h o
+009/217	doh	1	d oh
+010/195	legg	1	l e gg
+010/203	dho	1	d h o
+010/207	do	1	d o
+010/209	do	1	d o
+010/211	doh	1	d oh
+010/213	do	1	d o
+010/215	do	1	d o
+010/217	doh	1	d oh
+010/219	do	1	d o
+011/049	dö	1	d ö
+011/053	kom	1	k o m
+011/055	kom	1	k o m
+011/057	kom	1	k o m
+011/059	kom	1	k o m
+011/061	kom	1	k o m
+011/063	kom	1	k o m
+011/065	kyt	1	k y t
+011/067	kom	1	k o m
+011/069	kom	1	k o m
+011/187	do	1	d o
+011/189	schmiet	1	sch m ie t
+011/191	sched	1	sch e d
+011/195	schedd	1	sch e dd
+011/197	doh	1	d oh
+011/203	do	1	d o
+011/205	doh	1	d oh
+011/207	doo	1	d oo
+011/209	do	1	d o
+011/211	do	1	d o
+011/213	do	1	d o
+011/215	do	1	d o
+011/217	do	1	d o
+011/219	do	1	d o
+012/047	dö	1	d ö
+012/049	dö	1	d ö
+012/051	dau	1	d au
+012/053	leg	1	l e g
+012/055	kom	1	k o m
+012/057	kom	1	k o m
+012/059	kom	1	k o m
+012/061	kom	1	k o m
+012/063	kom	1	k o m
+012/065	kom	1	k o m
+012/067	fyld	1	f y l d
+012/069	smie	1	s m ie
+012/187	do	1	d o
+012/189	schoodd	1	sch oo dd
+012/191	doh	1	d oh
+012/193	doh	1	d oh
+012/195	doh	1	d oh
+012/197	schmiet	1	sch m ie t
+012/199	do	1	d o
+012/201	do	1	d o
+012/203	do	1	d o
+012/205	stöck	1	s t ö ck
+012/207	schedd	1	sch e dd
+012/209	doh	1	d oh
+012/211	do	1	d o
+012/213	do	1	d o
+012/215	do	1	d o
+012/217	doh	1	d oh
+012/219	doh	1	d oh
+012/221	legg	1	l e gg
+012/223	do	1	d o
+013/051	dau	1	d au
+013/053	led	1	l e d
+013/055	fu	1	f u
+013/057	faa	1	f aa
+013/059	faa	1	f aa
+013/061	do	1	d o
+013/063	do	1	d o
+013/065	füll	1	f ü ll
+013/067	legg	1	l e gg
+013/161	dau	1	d au
+013/163	bring	1	b r i ng
+013/165	leg	1	l e g
+013/167	schmiet	1	sch m ie t
+013/187	legg	1	l e gg
+013/189	doh	1	d oh
+013/191	dho	1	d h o
+013/193	sched	1	sch e d
+013/195	do	1	d o
+013/197	schödd	1	sch ö dd
+013/199	schmiet	1	sch m ie t
+013/201	do	1	d o
+013/203	do	1	d o
+013/207	stökk	1	s t ö kk
+013/209	do	1	d o
+013/211	do	1	d o
+013/213	doh	1	d oh
+013/215	do	1	d o
+013/217	do	1	d o
+013/219	do	1	d o
+013/221	do	1	d o
+013/223	doh	1	d oh
+014/047	du	1	d u
+014/049	du	1	d u
+014/051	du	1	d u
+014/053	duh	1	d uh
+014/055	leed	1	l ee d
+014/057	led	1	l e d
+014/059	krieg	1	k r ie g
+014/061	krieg	1	k r ie g
+014/063	lech	1	l e ch
+014/065	leg	1	l e g
+014/067	krieg	1	k r ie g
+014/109	stek	1	s t e k
+014/159	maok	1	m ao k
+014/161	dau	1	d au
+014/163	dau	1	d au
+014/165	legg	1	l e gg
+014/167	dho	1	d h o
+014/169	schmied	1	sch m ie d
+014/187	do	1	d o
+014/189	döh	1	d öh
+014/191	do	1	d o
+014/193	legg	1	l e gg
+014/195	doo	1	d oo
+014/197	do	1	d o
+014/199	doh	1	d oh
+014/201	schödd	1	sch ö dd
+014/203	doh	1	d oh
+014/205	dho	1	d h o
+014/207	doh	1	d oh
+014/209	legg	1	l e gg
+014/211	do	1	d o
+014/213	do	1	d o
+014/215	doh	1	d oh
+014/217	doh	1	d oh
+014/219	doh	1	d oh
+014/221	do	1	d o
+015/049	do	1	d o
+015/051	dü	1	d ü
+015/053	dü	1	d ü
+015/055	du	1	d u
+015/057	läy	1	l äy
+015/059	do	1	d o
+015/061	doh	1	d oh
+015/063	legg	1	l e gg
+015/065	leg	1	l e g
+015/067	legg	1	l e gg
+015/105	leg	1	l e g
+015/107	leg	1	l e g
+015/109	schürr	1	sch ü rr
+015/151	moak	1	m oa k
+015/153	dau	1	d au
+015/155	dau	1	d au
+015/157	dau	1	d au
+015/159	schmiet	1	sch m ie t
+015/161	dau	1	d au
+015/163	maak	1	m aa k
+015/165	dau	1	d au
+015/167	legg	1	l e gg
+015/169	do	1	d o
+015/173	do	1	d o
+015/187	doo	1	d oo
+015/191	doh	1	d oh
+015/193	doh	1	d oh
+015/195	schött	1	sch ö tt
+015/197	legg	1	l e gg
+015/199	schmit	1	sch m i t
+015/201	do	1	d o
+015/203	legg	1	l e gg
+015/205	do	1	d o
+015/207	doh	1	d oh
+015/209	do	1	d o
+015/211	do	1	d o
+015/213	do	1	d o
+015/215	dho	1	d h o
+015/217	do	1	d o
+015/219	doo	1	d oo
+015/221	do	1	d o
+016/051	dih	1	d ih
+016/055	schmitt	1	sch m i tt
+016/057	leg	1	l e g
+016/059	krieg	1	k r ie g
+016/061	do	1	d o
+016/063	do	1	d o
+016/065	krieg	1	k r ie g
+016/067	kriig	1	k r ii g
+016/081	do	1	d o
+016/083	dho	1	d h o
+016/105	dau	1	d au
+016/107	dau	1	d au
+016/109	dau	1	d au
+016/111	do	1	d o
+016/145	dau	1	d au
+016/147	dau	1	d au
+016/149	schürr	1	sch ü rr
+016/151	legg	1	l e gg
+016/153	dau	1	d au
+016/155	dau	1	d au
+016/157	dau	1	d au
+016/159	maok	1	m ao k
+016/161	legg	1	l e gg
+016/163	dau	1	d au
+016/165	do	1	d o
+016/167	sched	1	sch e d
+016/187	do	1	d o
+016/189	do	1	d o
+016/191	do	1	d o
+016/193	schödd	1	sch ö dd
+016/195	schedd	1	sch e dd
+016/197	schödd	1	sch ö dd
+016/199	schmiet	1	sch m ie t
+016/201	schedd	1	sch e dd
+016/203	do	1	d o
+016/205	schmiet	1	sch m ie t
+016/209	do	1	d o
+016/211	do	1	d o
+016/213	doh	1	d oh
+016/215	do	1	d o
+016/217	do	1	d o
+016/219	doh	1	d oh
+017/055	do	1	d o
+017/057	do	1	d o
+017/059	do	1	d o
+017/061	doh	1	d oh
+017/063	dau	1	d au
+017/065	dau	1	d au
+017/067	löt	1	l ö t
+017/069	dou	1	d ou
+017/081	schmiet	1	sch m ie t
+017/083	leg	1	l e g
+017/099	dau	1	d au
+017/101	dau	1	d au
+017/103	dau	1	d au
+017/107	dau	1	d au
+017/109	dau	1	d au
+017/145	dau	1	d au
+017/147	dau	1	d au
+017/149	mook	1	m oo k
+017/151	schmit	1	sch m i t
+017/153	dau	1	d au
+017/155	dau	1	d au
+017/157	dauh	1	d auh
+017/159	dau	1	d au
+017/161	dau	1	d au
+017/163	dau	1	d au
+017/165	dau	1	d au
+017/169	douh	1	d ouh
+017/171	doh	1	d oh
+017/183	steck	1	s t e ck
+017/185	schöd	1	sch ö d
+017/187	dho	1	d h o
+017/189	dregg	1	d r e gg
+017/191	dho	1	d h o
+017/193	schödd	1	sch ö dd
+017/195	doa	1	d oa
+017/197	do	1	d o
+017/199	do	1	d o
+017/201	doh	1	d oh
+017/203	schedd	1	sch e dd
+017/205	doh	1	d oh
+017/207	doh	1	d oh
+017/209	dho	1	d h o
+017/211	doo	1	d oo
+017/213	doh	1	d oh
+017/215	doh	1	d oh
+017/217	do	1	d o
+017/219	do	1	d o
+018/051	do	1	d o
+018/053	leg	1	l e g
+018/055	do	1	d o
+018/057	legt	1	l e g t
+018/059	do	1	d o
+018/061	do	1	d o
+018/063	legg	1	l e gg
+018/065	doh	1	d oh
+018/067	legg	1	l e gg
+018/069	dau	1	d au
+018/071	dau	1	d au
+018/073	smit	1	s m i t
+018/075	dau	1	d au
+018/079	dou	1	d ou
+018/081	dau	1	d au
+018/097	leg	1	l e g
+018/099	dau	1	d au
+018/103	schürr	1	sch ü rr
+018/105	smiet	1	s m ie t
+018/107	do	1	d o
+018/109	dau	1	d au
+018/111	dau	1	d au
+018/143	dau	1	d au
+018/145	dau	1	d au
+018/147	schürr	1	sch ü rr
+018/149	dau	1	d au
+018/151	dau	1	d au
+018/153	schmiet	1	sch m ie t
+018/155	dau	1	d au
+018/157	dau	1	d au
+018/159	dau	1	d au
+018/161	dau	1	d au
+018/163	dau	1	d au
+018/165	dau	1	d au
+018/169	do	1	d o
+018/171	doo	1	d oo
+018/173	do	1	d o
+018/181	do	1	d o
+018/185	doh	1	d oh
+018/187	doo	1	d oo
+018/189	legg	1	l e gg
+018/191	do	1	d o
+018/193	do	1	d o
+018/195	do	1	d o
+018/197	legg	1	l e gg
+018/199	do	1	d o
+018/201	doh	1	d oh
+018/203	doh	1	d oh
+018/205	do	1	d o
+018/207	doh	1	d oh
+018/209	legg	1	l e gg
+018/211	schödd	1	sch ö dd
+018/213	do	1	d o
+018/215	do	1	d o
+018/219	do	1	d o
+019/051	do	1	d o
+019/053	lech	1	l e ch
+019/055	krieg	1	k r ie g
+019/057	do	1	d o
+019/059	krieg	1	k r ie g
+019/061	krie	1	k r ie
+019/063	krieg	1	k r ie g
+019/065	doh	1	d oh
+019/067	do	1	d o
+019/069	dau	1	d au
+019/071	lech	1	l e ch
+019/073	läg	1	l ä g
+019/075	legg	1	l e gg
+019/077	dau	1	d au
+019/079	legg	1	l e gg
+019/081	dau	1	d au
+019/097	leg	1	l e g
+019/099	mak	1	m a k
+019/101	dau	1	d au
+019/103	stekk	1	s t e kk
+019/105	dau	1	d au
+019/107	schit	1	sch i t
+019/109	dau	1	d au
+019/143	dau	1	d au
+019/145	dau	1	d au
+019/147	dau	1	d au
+019/149	dau	1	d au
+019/151	leg	1	l e g
+019/153	legg	1	l e gg
+019/155	dau	1	d au
+019/157	dau	1	d au
+019/159	steck	1	s t e ck
+019/161	dau	1	d au
+019/163	dau	1	d au
+019/165	dau	1	d au
+019/167	do	1	d o
+019/169	do	1	d o
+019/171	schedd	1	sch e dd
+019/173	schmiet	1	sch m ie t
+019/175	do	1	d o
+019/177	do	1	d o
+019/179	doo	1	d oo
+019/181	doo	1	d oo
+019/183	doh	1	d oh
+019/185	do	1	d o
+019/187	do	1	d o
+019/189	schmiet	1	sch m ie t
+019/191	doh	1	d oh
+019/193	doh	1	d oh
+019/195	läg	1	l ä g
+019/197	doh	1	d oh
+019/199	do	1	d o
+019/201	do	1	d o
+019/203	legg	1	l e gg
+019/205	legg	1	l e gg
+019/207	leg	1	l e g
+019/209	leg	1	l e g
+019/211	do	1	d o
+019/213	do	1	d o
+019/215	do	1	d o
+019/217	do	1	d o
+019/219	doh	1	d oh
+020/043	do	1	d o
+020/053	do	1	d o
+020/055	do	1	d o
+020/057	do	1	d o
+020/059	doh	1	d oh
+020/061	leg	1	l e g
+020/063	krieg	1	k r ie g
+020/065	legg	1	l e gg
+020/067	legg	1	l e gg
+020/069	dau	1	d au
+020/071	legg	1	l e gg
+020/073	dau	1	d au
+020/075	krie	1	k r ie
+020/077	krig	1	k r i g
+020/079	legg	1	l e gg
+020/081	dou	1	d ou
+020/095	dau	1	d au
+020/097	dau	1	d au
+020/099	dau	1	d au
+020/101	dau	1	d au
+020/103	legg	1	l e gg
+020/105	dhau	1	d h au
+020/107	dau	1	d au
+020/135	dau	1	d au
+020/137	dau	1	d au
+020/139	dau	1	d au
+020/141	dau	1	d au
+020/143	dau	1	d au
+020/145	dau	1	d au
+020/147	dau	1	d au
+020/149	dau	1	d au
+020/151	dau	1	d au
+020/153	schüd	1	sch ü d
+020/155	schüdd	1	sch ü dd
+020/157	dau	1	d au
+020/159	leg	1	l e g
+020/161	dau	1	d au
+020/163	dau	1	d au
+020/165	dau	1	d au
+020/167	dau	1	d au
+020/169	dau	1	d au
+020/171	doh	1	d oh
+020/173	do	1	d o
+020/175	do	1	d o
+020/177	do	1	d o
+020/179	sched	1	sch e d
+020/181	do	1	d o
+020/183	doh	1	d oh
+020/185	to	1	t o
+020/187	thu	1	t h u
+020/189	do	1	d o
+020/191	steck	1	s t e ck
+020/193	schmiet	1	sch m ie t
+020/195	do	1	d o
+020/197	doo	1	d oo
+020/199	do	1	d o
+020/201	doh	1	d oh
+020/203	dou	1	d ou
+020/205	schödd	1	sch ö dd
+020/207	do	1	d o
+020/209	doh	1	d oh
+020/211	schäd	1	sch ä d
+020/213	do	1	d o
+020/215	doh	1	d oh
+020/217	dho	1	d h o
+020/219	do	1	d o
+021/055	do	1	d o
+021/057	krieg	1	k r ie g
+021/059	do	1	d o
+021/061	do	1	d o
+021/063	legg	1	l e gg
+021/065	do	1	d o
+021/067	legg	1	l e gg
+021/069	dau	1	d au
+021/071	dau	1	d au
+021/073	leg	1	l e g
+021/075	krie	1	k r ie
+021/077	lech	1	l e ch
+021/079	do	1	d o
+021/087	smiet	1	s m ie t
+021/089	beut	1	b eu t
+021/091	mak	1	m a k
+021/093	dau	1	d au
+021/095	dau	1	d au
+021/097	dau	1	d au
+021/099	krieg	1	k r ie g
+021/101	dau	1	d au
+021/103	dau	1	d au
+021/105	dau	1	d au
+021/107	smit	1	s m i t
+021/109	dau	1	d au
+021/111	dau	1	d au
+021/113	dau	1	d au
+021/131	dau	1	d au
+021/133	mauk	1	m au k
+021/135	lech	1	l e ch
+021/137	dau	1	d au
+021/139	schmiit	1	sch m ii t
+021/141	dau	1	d au
+021/143	leg	1	l e g
+021/145	dau	1	d au
+021/147	dau	1	d au
+021/149	dau	1	d au
+021/151	dau	1	d au
+021/153	dau	1	d au
+021/155	mok	1	m o k
+021/157	schmit	1	sch m i t
+021/159	schmit	1	sch m i t
+021/163	dau	1	d au
+021/165	dau	1	d au
+021/167	dau	1	d au
+021/169	dau	1	d au
+021/171	do	1	d o
+021/173	do	1	d o
+021/175	doh	1	d oh
+021/177	schedd	1	sch e dd
+021/179	doh	1	d oh
+021/181	do	1	d o
+021/183	do	1	d o
+021/185	mäch	1	m ä ch
+021/187	schött	1	sch ö tt
+021/189	scheet	1	sch ee t
+021/191	läh	1	l äh
+021/193	mach	1	m a ch
+021/195	thu	1	t h u
+021/197	stöck	1	s t ö ck
+021/199	do	1	d o
+021/201	schmiet	1	sch m ie t
+021/203	schüdd	1	sch ü dd
+021/205	leg	1	l e g
+021/207	nem	1	n e m
+021/211	nemm	1	n e mm
+021/215	do	1	d o
+021/217	do	1	d o
+021/219	do	1	d o
+022/055	krieg	1	k r ie g
+022/057	legg	1	l e gg
+022/059	krieg	1	k r ie g
+022/061	löt	1	l ö t
+022/063	krej	1	k r e j
+022/065	leeg	1	l ee g
+022/067	krieg	1	k r ie g
+022/069	kree	1	k r ee
+022/071	leg	1	l e g
+022/073	krieg	1	k r ie g
+022/075	legg	1	l e gg
+022/077	leg	1	l e g
+022/087	dau	1	d au
+022/089	dau	1	d au
+022/091	dau	1	d au
+022/093	dau	1	d au
+022/095	dau	1	d au
+022/097	mak	1	m a k
+022/099	dau	1	d au
+022/101	dau	1	d au
+022/103	maak	1	m aa k
+022/105	dau	1	d au
+022/107	dau	1	d au
+022/109	dau	1	d au
+022/111	mak	1	m a k
+022/113	stäk	1	s t ä k
+022/115	dau	1	d au
+022/127	dau	1	d au
+022/129	dau	1	d au
+022/131	dau	1	d au
+022/133	dau	1	d au
+022/135	däu	1	d äu
+022/137	steck	1	s t e ck
+022/139	dau	1	d au
+022/141	dau	1	d au
+022/143	dau	1	d au
+022/145	moak	1	m oa k
+022/147	lech	1	l e ch
+022/149	dau	1	d au
+022/151	dau	1	d au
+022/153	dau	1	d au
+022/155	dau	1	d au
+022/157	dau	1	d au
+022/159	läg	1	l ä g
+022/165	dau	1	d au
+022/167	dau	1	d au
+022/169	do	1	d o
+022/171	doh	1	d oh
+022/173	doh	1	d oh
+022/175	schedd	1	sch e dd
+022/177	do	1	d o
+022/179	schmiet	1	sch m ie t
+022/181	dho	1	d h o
+022/183	schött	1	sch ö tt
+022/185	schett	1	sch e tt
+022/187	mach	1	m a ch
+022/189	thu	1	t h u
+022/191	lä	1	l ä
+022/193	schmeiss	1	sch m ei ss
+022/195	stöck	1	s t ö ck
+022/197	schött	1	sch ö tt
+022/199	schmaiss	1	sch m ai ss
+022/201	lekk	1	l e kk
+022/203	dho	1	d h o
+022/205	do	1	d o
+022/209	schmiet	1	sch m ie t
+022/211	doo	1	d oo
+022/215	doo	1	d oo
+022/217	doh	1	d oh
+022/219	do	1	d o
+023/055	legg	1	l e gg
+023/059	krieg	1	k r ie g
+023/061	smidt	1	s m i d t
+023/063	smiet	1	s m ie t
+023/065	do	1	d o
+023/067	do	1	d o
+023/069	kre	1	k r e
+023/071	legg	1	l e gg
+023/073	krig	1	k r i g
+023/075	krieg	1	k r ie g
+023/077	lech	1	l e ch
+023/079	doh	1	d oh
+023/081	dau	1	d au
+023/083	dau	1	d au
+023/085	dauh	1	d auh
+023/087	dau	1	d au
+023/089	dau	1	d au
+023/091	lech	1	l e ch
+023/093	mak	1	m a k
+023/095	dau	1	d au
+023/097	dau	1	d au
+023/099	dau	1	d au
+023/101	dauh	1	d auh
+023/103	dau	1	d au
+023/105	dau	1	d au
+023/107	legg	1	l e gg
+023/109	leg	1	l e g
+023/111	dau	1	d au
+023/113	legg	1	l e gg
+023/115	schmiet	1	sch m ie t
+023/117	dau	1	d au
+023/121	dau	1	d au
+023/123	dau	1	d au
+023/125	dau	1	d au
+023/127	dau	1	d au
+023/129	dau	1	d au
+023/131	dauh	1	d auh
+023/133	dau	1	d au
+023/135	dau	1	d au
+023/137	dau	1	d au
+023/139	dau	1	d au
+023/141	dau	1	d au
+023/143	dau	1	d au
+023/145	dau	1	d au
+023/147	leg	1	l e g
+023/149	dau	1	d au
+023/151	dau	1	d au
+023/153	dau	1	d au
+023/155	dau	1	d au
+023/165	legg	1	l e gg
+023/167	dau	1	d au
+023/169	doh	1	d oh
+023/175	do	1	d o
+023/177	schett	1	sch e tt
+023/179	leg	1	l e g
+023/181	thu	1	t h u
+023/183	schoott	1	sch oo tt
+023/185	schött	1	sch ö tt
+023/187	thu	1	t h u
+023/189	thu	1	t h u
+023/191	schmeiss	1	sch m ei ss
+023/193	le	1	l e
+023/195	thu	1	t h u
+023/197	schett	1	sch e tt
+023/199	duh	1	d uh
+023/201	do	1	d o
+023/203	do	1	d o
+023/205	nemm	1	n e mm
+023/207	do	1	d o
+023/215	doh	1	d oh
+023/217	do	1	d o
+024/053	do	1	d o
+024/057	krieg	1	k r ie g
+024/059	krieg	1	k r ie g
+024/061	krieg	1	k r ie g
+024/063	leg	1	l e g
+024/065	krieg	1	k r ie g
+024/067	doh	1	d oh
+024/069	do	1	d o
+024/071	dau	1	d au
+024/073	do	1	d o
+024/075	do	1	d o
+024/077	dau	1	d au
+024/079	krieg	1	k r ie g
+024/081	dau	1	d au
+024/083	dau	1	d au
+024/085	leeg	1	l ee g
+024/087	dauh	1	d auh
+024/089	schürr	1	sch ü rr
+024/091	schürr	1	sch ü rr
+024/093	dauh	1	d auh
+024/095	zmiet	1	z m ie t
+024/097	dau	1	d au
+024/099	smiet	1	s m ie t
+024/101	schürr	1	sch ü rr
+024/103	dau	1	d au
+024/105	leg	1	l e g
+024/107	dau	1	d au
+024/109	dau	1	d au
+024/111	schmiet	1	sch m ie t
+024/113	dau	1	d au
+024/115	dau	1	d au
+024/117	steek	1	s t ee k
+024/119	dau	1	d au
+024/121	dau	1	d au
+024/123	dau	1	d au
+024/125	dau	1	d au
+024/127	dau	1	d au
+024/129	dau	1	d au
+024/131	dau	1	d au
+024/133	dau	1	d au
+024/135	dauh	1	d auh
+024/137	dau	1	d au
+024/139	dau	1	d au
+024/141	legg	1	l e gg
+024/143	dau	1	d au
+024/145	dau	1	d au
+024/147	dau	1	d au
+024/149	dauh	1	d auh
+024/151	mauk	1	m au k
+024/153	mok	1	m o k
+024/155	dauh	1	d auh
+024/163	däu	1	d äu
+024/165	dau	1	d au
+024/167	dau	1	d au
+024/169	legg	1	l e gg
+024/171	dau	1	d au
+024/175	doh	1	d oh
+024/179	lä	1	l ä
+024/181	schött	1	sch ö tt
+024/183	schett	1	sch e tt
+024/185	schött	1	sch ö tt
+024/187	thu	1	t h u
+024/189	thu	1	t h u
+024/191	schett	1	sch e tt
+024/193	stock	1	s t o ck
+024/195	schmeiss	1	sch m ei ss
+024/197	lee	1	l ee
+024/199	le	1	l e
+024/201	stöck	1	s t ö ck
+024/203	leg	1	l e g
+024/217	do	1	d o
+024/221	doh	1	d oh
+025/043	do	1	d o
+025/051	do	1	d o
+025/053	do	1	d o
+025/055	do	1	d o
+025/057	szmiet	1	s z m ie t
+025/059	krie	1	k r ie
+025/061	kri	1	k r i
+025/063	do	1	d o
+025/065	do	1	d o
+025/067	krieg	1	k r ie g
+025/069	dau	1	d au
+025/071	dau	1	d au
+025/073	leg	1	l e g
+025/075	krieg	1	k r ie g
+025/077	dau	1	d au
+025/079	dau	1	d au
+025/081	dau	1	d au
+025/083	dau	1	d au
+025/085	dau	1	d au
+025/087	dau	1	d au
+025/089	dau	1	d au
+025/091	dau	1	d au
+025/093	dau	1	d au
+025/095	leg	1	l e g
+025/099	schürr	1	sch ü rr
+025/101	dau	1	d au
+025/103	stäk	1	s t ä k
+025/105	stäk	1	s t ä k
+025/107	dau	1	d au
+025/109	schürr	1	sch ü rr
+025/111	dau	1	d au
+025/113	dau	1	d au
+025/115	doh	1	d oh
+025/123	daut	1	d au t
+025/125	dau	1	d au
+025/127	dau	1	d au
+025/129	dau	1	d au
+025/131	dau	1	d au
+025/133	dau	1	d au
+025/135	dau	1	d au
+025/137	dau	1	d au
+025/139	dau	1	d au
+025/141	mauk	1	m au k
+025/143	dau	1	d au
+025/145	legg	1	l e gg
+025/147	dau	1	d au
+025/149	dau	1	d au
+025/151	do	1	d o
+025/153	dio	1	d io
+025/155	mauk	1	m au k
+025/157	däu	1	d äu
+025/159	schett	1	sch e tt
+025/177	dau	1	d au
+025/179	leg	1	l e g
+025/181	schet	1	sch e t
+025/183	thu	1	t h u
+025/185	schett	1	sch e tt
+025/187	läh	1	l äh
+025/189	nehm	1	n eh m
+025/191	nem	1	n e m
+026/031	do	1	d o
+026/033	do	1	d o
+026/037	do	1	d o
+026/041	do	1	d o
+026/043	legg	1	l e gg
+026/045	do	1	d o
+026/051	do	1	d o
+026/053	doo	1	d oo
+026/055	krieg	1	k r ie g
+026/057	smiet	1	s m ie t
+026/059	do	1	d o
+026/061	krieg	1	k r ie g
+026/063	schütt	1	sch ü tt
+026/065	legg	1	l e gg
+026/067	krieg	1	k r ie g
+026/069	krieg	1	k r ie g
+026/071	dau	1	d au
+026/073	daut	1	d au t
+026/075	krieg	1	k r ie g
+026/077	dau	1	d au
+026/079	dau	1	d au
+026/081	dau	1	d au
+026/083	dauh	1	d auh
+026/085	dau	1	d au
+026/087	dau	1	d au
+026/089	legg	1	l e gg
+026/091	legg	1	l e gg
+026/093	leg	1	l e g
+026/095	dau	1	d au
+026/097	dau	1	d au
+026/099	schürr	1	sch ü rr
+026/101	dau	1	d au
+026/103	legg	1	l e gg
+026/105	dau	1	d au
+026/107	doh	1	d oh
+026/109	dau	1	d au
+026/111	dau	1	d au
+026/113	moak	1	m oa k
+026/115	do	1	d o
+026/117	doh	1	d oh
+026/119	do	1	d o
+026/123	dau	1	d au
+026/125	moak	1	m oa k
+026/127	dau	1	d au
+026/129	dau	1	d au
+026/131	dau	1	d au
+026/133	do	1	d o
+026/135	dau	1	d au
+026/137	lejj	1	l e jj
+026/139	dau	1	d au
+026/141	dau	1	d au
+026/143	dau	1	d au
+026/145	mak	1	m a k
+026/147	dau	1	d au
+026/153	dau	1	d au
+026/155	dau	1	d au
+026/157	mauk	1	m au k
+026/159	deü	1	d eü
+026/161	doo	1	d oo
+026/165	do	1	d o
+026/173	do	1	d o
+026/175	dho	1	d h o
+026/177	schedd	1	sch e dd
+026/179	schett	1	sch e tt
+026/181	leg	1	l e g
+026/183	schett	1	sch e tt
+026/185	leg	1	l e g
+026/187	thu	1	t h u
+026/189	schütte	1	sch ü tt e
+027/027	dau	1	d au
+027/035	do	1	d o
+027/037	doou	1	d oou
+027/039	doo	1	d oo
+027/041	do	1	d o
+027/043	doh	1	d oh
+027/045	do	1	d o
+027/047	doh	1	d oh
+027/051	do	1	d o
+027/053	krieg	1	k r ie g
+027/055	do	1	d o
+027/057	do	1	d o
+027/059	do	1	d o
+027/061	do	1	d o
+027/063	doh	1	d oh
+027/065	kreg	1	k r e g
+027/067	krig	1	k r i g
+027/069	legg	1	l e gg
+027/071	doh	1	d oh
+027/073	dau	1	d au
+027/075	dau	1	d au
+027/077	dau	1	d au
+027/079	dau	1	d au
+027/081	dau	1	d au
+027/083	dau	1	d au
+027/085	schürr	1	sch ü rr
+027/087	dau	1	d au
+027/089	dau	1	d au
+027/091	leg	1	l e g
+027/093	dau	1	d au
+027/095	legg	1	l e gg
+027/099	leg	1	l e g
+027/101	bring	1	b r i ng
+027/103	dau	1	d au
+027/105	dauh	1	d auh
+027/107	dou	1	d ou
+027/109	do	1	d o
+027/111	doh	1	d oh
+027/113	do	1	d o
+027/115	doh	1	d oh
+027/117	doh	1	d oh
+027/119	do	1	d o
+027/123	do	1	d o
+027/125	leg	1	l e g
+027/127	dau	1	d au
+027/129	dau	1	d au
+027/131	leg	1	l e g
+027/135	dau	1	d au
+027/137	dau	1	d au
+027/139	dau	1	d au
+027/141	doh	1	d oh
+027/143	dou	1	d ou
+027/145	dau	1	d au
+027/147	dau	1	d au
+027/149	dau	1	d au
+027/151	deu	1	d eu
+027/153	doh	1	d oh
+027/155	mauck	1	m au ck
+027/157	deou	1	d eou
+027/159	schüdd	1	sch ü dd
+027/161	mauk	1	m au k
+027/167	dau	1	d au
+027/171	do	1	d o
+027/173	do	1	d o
+027/175	doh	1	d oh
+027/177	do	1	d o
+027/179	dho	1	d h o
+027/181	dau	1	d au
+027/183	thu	1	t h u
+027/185	schmeiss	1	sch m ei ss
+028/033	do	1	d o
+028/035	doo	1	d oo
+028/037	do	1	d o
+028/039	do	1	d o
+028/041	do	1	d o
+028/043	böt	1	b ö t
+028/045	do	1	d o
+028/047	do	1	d o
+028/049	do	1	d o
+028/051	do	1	d o
+028/053	doh	1	d oh
+028/055	legg	1	l e gg
+028/057	doh	1	d oh
+028/059	do	1	d o
+028/061	smit	1	s m i t
+028/063	do	1	d o
+028/065	kri	1	k r i
+028/067	smiet	1	s m ie t
+028/069	schürr	1	sch ü rr
+028/071	dou	1	d ou
+028/073	dau	1	d au
+028/075	dau	1	d au
+028/077	dau	1	d au
+028/079	dau	1	d au
+028/081	dau	1	d au
+028/083	dau	1	d au
+028/085	smit	1	s m i t
+028/087	dauh	1	d auh
+028/089	dau	1	d au
+028/091	dau	1	d au
+028/093	legg	1	l e gg
+028/095	schürr	1	sch ü rr
+028/097	dau	1	d au
+028/099	dau	1	d au
+028/103	dau	1	d au
+028/105	dau	1	d au
+028/107	do	1	d o
+028/109	moak	1	m oa k
+028/111	doh	1	d oh
+028/113	do	1	d o
+028/115	do	1	d o
+028/117	do	1	d o
+028/119	dau	1	d au
+028/121	leg	1	l e g
+028/123	do	1	d o
+028/125	mook	1	m oo k
+028/127	dau	1	d au
+028/129	dau	1	d au
+028/131	dau	1	d au
+028/133	dau	1	d au
+028/135	dau	1	d au
+028/137	lägg	1	l ä gg
+028/139	dau	1	d au
+028/141	dog	1	d o g
+028/143	doh	1	d oh
+028/145	do	1	d o
+028/147	dau	1	d au
+028/151	diu	1	d iu
+028/153	dau	1	d au
+028/155	mauk	1	m au k
+028/157	lägg	1	l ä gg
+028/159	schüdd	1	sch ü dd
+028/161	leg	1	l e g
+028/165	doh	1	d oh
+028/169	lägg	1	l ä gg
+028/171	leig	1	l ei g
+028/173	doh	1	d oh
+028/175	schmiet	1	sch m ie t
+028/177	läjj	1	l ä jj
+028/179	mok	1	m o k
+028/181	schmeis	1	sch m ei s
+028/183	schmeiss	1	sch m ei ss
+028/185	thu	1	t h u
+029/033	dou	1	d ou
+029/035	dau	1	d au
+029/037	do	1	d o
+029/039	doe	1	d oe
+029/043	do	1	d o
+029/045	szmiet	1	s z m ie t
+029/047	do	1	d o
+029/049	do	1	d o
+029/051	doh	1	d oh
+029/053	doo	1	d oo
+029/055	doh	1	d oh
+029/057	krieg	1	k r ie g
+029/059	smit	1	s m i t
+029/061	doh	1	d oh
+029/065	dau	1	d au
+029/067	deo	1	d eo
+029/069	legg	1	l e gg
+029/071	do	1	d o
+029/073	krieg	1	k r ie g
+029/075	dau	1	d au
+029/077	maak	1	m aa k
+029/079	schürr	1	sch ü rr
+029/081	dau	1	d au
+029/083	dau	1	d au
+029/085	dau	1	d au
+029/087	leg	1	l e g
+029/089	dau	1	d au
+029/091	dau	1	d au
+029/093	dau	1	d au
+029/095	schürr	1	sch ü rr
+029/097	dau	1	d au
+029/099	dau	1	d au
+029/101	dau	1	d au
+029/103	dau	1	d au
+029/105	do	1	d o
+029/107	doh	1	d oh
+029/109	do	1	d o
+029/111	do	1	d o
+029/113	do	1	d o
+029/115	do	1	d o
+029/117	do	1	d o
+029/119	do	1	d o
+029/121	doh	1	d oh
+029/123	legg	1	l e gg
+029/125	do	1	d o
+029/127	dau	1	d au
+029/129	dau	1	d au
+029/131	dau	1	d au
+029/133	dau	1	d au
+029/135	do	1	d o
+029/137	do	1	d o
+029/139	dou	1	d ou
+029/141	do	1	d o
+029/143	do	1	d o
+029/145	dou	1	d ou
+029/147	doh	1	d oh
+029/149	dau	1	d au
+029/151	do	1	d o
+029/153	mauk	1	m au k
+029/155	däu	1	d äu
+029/157	schmiet	1	sch m ie t
+029/159	däu	1	d äu
+029/161	lech	1	l e ch
+029/163	diau	1	d iau
+029/165	lej	1	l e j
+029/167	doh	1	d oh
+029/169	leg	1	l e g
+029/171	do	1	d o
+029/173	lei	1	l ei
+029/175	do	1	d o
+029/177	lejj	1	l e jj
+029/181	do	1	d o
+030/033	dau	1	d au
+030/035	dau	1	d au
+030/037	deu	1	d eu
+030/039	do	1	d o
+030/041	doe	1	d oe
+030/043	ssmiit	1	ss m ii t
+030/045	do	1	d o
+030/047	do	1	d o
+030/049	do	1	d o
+030/051	doht	1	d oh t
+030/053	do	1	d o
+030/055	doh	1	d oh
+030/057	da	1	d a
+030/059	krieg	1	k r ie g
+030/061	do	1	d o
+030/065	doh	1	d oh
+030/067	dau	1	d au
+030/071	do	1	d o
+030/073	do	1	d o
+030/075	krieg	1	k r ie g
+030/077	dau	1	d au
+030/079	schürr	1	sch ü rr
+030/081	szmiet	1	s z m ie t
+030/083	schürr	1	sch ü rr
+030/085	dau	1	d au
+030/087	mak	1	m a k
+030/089	schürr	1	sch ü rr
+030/091	dau	1	d au
+030/093	smid	1	s m i d
+030/095	dau	1	d au
+030/097	mak	1	m a k
+030/099	dau	1	d au
+030/101	dau	1	d au
+030/103	dau	1	d au
+030/105	stäk	1	s t ä k
+030/107	do	1	d o
+030/109	do	1	d o
+030/111	maok	1	m ao k
+030/113	schütt	1	sch ü tt
+030/115	doh	1	d oh
+030/117	doh	1	d oh
+030/119	doh	1	d oh
+030/121	do	1	d o
+030/123	doh	1	d oh
+030/125	do	1	d o
+030/127	do	1	d o
+030/129	dau	1	d au
+030/131	dau	1	d au
+030/133	doh	1	d oh
+030/135	dugg	1	d u gg
+030/137	do	1	d o
+030/139	dog	1	d o g
+030/141	NA	NA	-
+030/143	do	1	d o
+030/145	duch	1	d u ch
+030/147	duch	1	d u ch
+030/149	däu	1	d äu
+030/151	däu	1	d äu
+030/153	schmit	1	sch m i t
+030/155	mauk	1	m au k
+030/157	dau	1	d au
+030/159	deo	1	d eo
+030/161	schüdd	1	sch ü dd
+030/163	doh	1	d oh
+030/165	schütt	1	sch ü tt
+030/167	doh	1	d oh
+030/169	lei	1	l ei
+030/171	sched	1	sch e d
+030/173	doh	1	d oh
+030/175	doh	1	d oh
+030/177	NA	NA	-
+030/179	doat	1	d oa t
+030/181	dho	1	d h o
+030/183	schmiet	1	sch m ie t
+031/035	leg	1	l e g
+031/037	doo	1	d oo
+031/039	dau	1	d au
+031/041	do	1	d o
+031/043	do	1	d o
+031/045	do	1	d o
+031/047	doh	1	d oh
+031/049	doh	1	d oh
+031/051	do	1	d o
+031/053	do	1	d o
+031/055	dou	1	d ou
+031/057	do	1	d o
+031/059	do	1	d o
+031/061	krieg	1	k r ie g
+031/063	do	1	d o
+031/065	leg	1	l e g
+031/067	do	1	d o
+031/069	krieg	1	k r ie g
+031/071	do	1	d o
+031/073	do	1	d o
+031/075	dou	1	d ou
+031/077	dau	1	d au
+031/079	schürr	1	sch ü rr
+031/081	schürr	1	sch ü rr
+031/083	dau	1	d au
+031/085	dau	1	d au
+031/087	dau	1	d au
+031/089	dau	1	d au
+031/091	dau	1	d au
+031/093	doh	1	d oh
+031/095	doh	1	d oh
+031/097	dau	1	d au
+031/099	dau	1	d au
+031/101	doo	1	d oo
+031/103	do	1	d o
+031/105	do	1	d o
+031/107	moak	1	m oa k
+031/109	do	1	d o
+031/111	do	1	d o
+031/113	do	1	d o
+031/115	duch	1	d u ch
+031/117	schmiet	1	sch m ie t
+031/119	do	1	d o
+031/121	doh	1	d oh
+031/123	do	1	d o
+031/125	do	1	d o
+031/127	doh	1	d oh
+031/129	duch	1	d u ch
+031/131	legg	1	l e gg
+031/133	duch	1	d u ch
+031/135	doch	1	d o ch
+031/137	duch	1	d u ch
+031/139	duch	1	d u ch
+031/141	do	1	d o
+031/143	dog	1	d o g
+031/145	dou	1	d ou
+031/147	däuh	1	d äuh
+031/149	dugg	1	d u gg
+031/151	mauk	1	m au k
+031/153	dou	1	d ou
+031/155	dehu	1	d e h u
+031/157	schüdd	1	sch ü dd
+031/159	schödd	1	sch ö dd
+031/161	do	1	d o
+031/163	dou	1	d ou
+031/167	do	1	d o
+031/169	dor	1	d o r
+031/171	doa	1	d oa
+031/173	dur	1	d u r
+031/175	do	1	d o
+031/177	schmiit	1	sch m ii t
+031/179	doh	1	d oh
+032/035	doo	1	d oo
+032/037	doe	1	d oe
+032/039	do	1	d o
+032/041	doh	1	d oh
+032/043	dao	1	d ao
+032/045	doh	1	d oh
+032/047	do	1	d o
+032/049	doo	1	d oo
+032/051	do	1	d o
+032/053	doh	1	d oh
+032/055	legg	1	l e gg
+032/057	do	1	d o
+032/059	doh	1	d oh
+032/061	doh	1	d oh
+032/065	leg	1	l e g
+032/069	do	1	d o
+032/071	dou	1	d ou
+032/073	dau	1	d au
+032/075	do	1	d o
+032/077	dou	1	d ou
+032/079	schüpp	1	sch ü pp
+032/081	schürr	1	sch ü rr
+032/083	krieg	1	k r ie g
+032/085	leg	1	l e g
+032/087	dau	1	d au
+032/089	dau	1	d au
+032/091	dau	1	d au
+032/093	doh	1	d oh
+032/095	läch	1	l ä ch
+032/097	do	1	d o
+032/099	doh	1	d oh
+032/101	do	1	d o
+032/103	moak	1	m oa k
+032/105	steck	1	s t e ck
+032/107	moak	1	m oa k
+032/111	do	1	d o
+032/113	mek	1	m e k
+032/115	do	1	d o
+032/117	do	1	d o
+032/119	do	1	d o
+032/121	doh	1	d oh
+032/123	leg	1	l e g
+032/125	doh	1	d oh
+032/127	do	1	d o
+032/129	do	1	d o
+032/131	duch	1	d u ch
+032/133	mauk	1	m au k
+032/135	duch	1	d u ch
+032/139	duch	1	d u ch
+032/141	duch	1	d u ch
+032/143	leg	1	l e g
+032/145	dot	1	d o t
+032/147	leg	1	l e g
+032/149	duch	1	d u ch
+032/151	schüd	1	sch ü d
+032/153	dou	1	d ou
+032/157	däu	1	d äu
+032/159	do	1	d o
+032/161	däu	1	d äu
+032/163	deau	1	d eau
+032/167	doh	1	d oh
+032/169	dohr	1	d oh r
+032/171	dur	1	d u r
+032/173	dur	1	d u r
+032/175	dau	1	d au
+032/177	doh	1	d oh
+032/179	dau	1	d au
+032/181	leg	1	l e g
+032/183	dhau	1	d h au
+033/035	dau	1	d au
+033/037	dou	1	d ou
+033/039	dooe	1	d ooe
+033/041	dou	1	d ou
+033/043	do	1	d o
+033/045	dooh	1	d ooh
+033/047	smiet	1	s m ie t
+033/049	do	1	d o
+033/051	do	1	d o
+033/053	do	1	d o
+033/055	dho	1	d h o
+033/057	do	1	d o
+033/059	dou	1	d ou
+033/061	do	1	d o
+033/063	do	1	d o
+033/065	do	1	d o
+033/067	dau	1	d au
+033/069	doh	1	d oh
+033/071	do	1	d o
+033/073	do	1	d o
+033/075	dau	1	d au
+033/077	do	1	d o
+033/079	dou	1	d ou
+033/081	do	1	d o
+033/083	dau	1	d au
+033/085	dau	1	d au
+033/087	dau	1	d au
+033/089	dau	1	d au
+033/091	doh	1	d oh
+033/093	doh	1	d oh
+033/095	do	1	d o
+033/097	do	1	d o
+033/099	do	1	d o
+033/101	do	1	d o
+033/103	stek	1	s t e k
+033/105	do	1	d o
+033/107	duch	1	d u ch
+033/109	do	1	d o
+033/111	do	1	d o
+033/113	douh	1	d ouh
+033/115	duch	1	d u ch
+033/117	do	1	d o
+033/119	mok	1	m o k
+033/121	do	1	d o
+033/123	do	1	d o
+033/125	lei	1	l ei
+033/127	doh	1	d oh
+033/129	läg	1	l ä g
+033/131	doh	1	d oh
+033/133	do	1	d o
+033/135	duch	1	d u ch
+033/137	do	1	d o
+033/139	duch	1	d u ch
+033/141	duch	1	d u ch
+033/143	duch	1	d u ch
+033/145	läg	1	l ä g
+033/147	lej	1	l e j
+033/149	do	1	d o
+033/151	dog	1	d o g
+033/153	duch	1	d u ch
+033/155	doo	1	d oo
+033/159	deu	1	d eu
+033/161	dau	1	d au
+033/163	däuh	1	d äuh
+033/165	doh	1	d oh
+033/167	steck	1	s t e ck
+033/169	legg	1	l e gg
+033/173	doh	1	d oh
+033/175	thau	1	t h au
+033/177	sched	1	sch e d
+034/035	dau	1	d au
+034/039	de	1	d e
+034/041	dou	1	d ou
+034/043	däu	1	d äu
+034/045	do	1	d o
+034/047	do	1	d o
+034/049	doh	1	d oh
+034/051	szmiet	1	s z m ie t
+034/053	legg	1	l e gg
+034/055	do	1	d o
+034/057	do	1	d o
+034/059	do	1	d o
+034/061	leg	1	l e g
+034/063	do	1	d o
+034/065	dau	1	d au
+034/067	doh	1	d oh
+034/069	dau	1	d au
+034/071	do	1	d o
+034/073	do	1	d o
+034/075	doo	1	d oo
+034/077	dou	1	d ou
+034/079	do	1	d o
+034/081	smit	1	s m i t
+034/083	smit	1	s m i t
+034/085	dauh	1	d auh
+034/087	do	1	d o
+034/089	doh	1	d oh
+034/091	do	1	d o
+034/093	stäk	1	s t ä k
+034/095	do	1	d o
+034/097	leg	1	l e g
+034/099	doh	1	d oh
+034/101	doh	1	d oh
+034/103	doh	1	d oh
+034/105	mok	1	m o k
+034/107	dug	1	d u g
+034/109	do	1	d o
+034/111	dug	1	d u g
+034/113	do	1	d o
+034/115	tho	1	t h o
+034/117	duch	1	d u ch
+034/119	duch	1	d u ch
+034/121	mak	1	m a k
+034/125	duch	1	d u ch
+034/127	do	1	d o
+034/129	dho	1	d h o
+034/131	doh	1	d oh
+034/133	doo	1	d oo
+034/135	duch	1	d u ch
+034/137	schüdd	1	sch ü dd
+034/139	doch	1	d o ch
+034/141	dug	1	d u g
+034/143	dog	1	d o g
+034/145	doch	1	d o ch
+034/147	duch	1	d u ch
+034/149	doch	1	d o ch
+034/151	doh	1	d oh
+034/155	dou	1	d ou
+034/157	läg	1	l ä g
+034/161	läg	1	l ä g
+034/163	dau	1	d au
+034/165	lägg	1	l ä gg
+034/167	du	1	d u
+034/169	doo	1	d oo
+034/173	dho	1	d h o
+035/035	do	1	d o
+035/037	do	1	d o
+035/039	dou	1	d ou
+035/041	dau	1	d au
+035/043	dou	1	d ou
+035/045	dau	1	d au
+035/047	do	1	d o
+035/049	do	1	d o
+035/051	do	1	d o
+035/053	do	1	d o
+035/055	doh	1	d oh
+035/057	do	1	d o
+035/059	doh	1	d oh
+035/061	smiet	1	s m ie t
+035/063	do	1	d o
+035/065	däu	1	d äu
+035/067	dau	1	d au
+035/069	legg	1	l e gg
+035/071	smit	1	s m i t
+035/073	däu	1	d äu
+035/075	dou	1	d ou
+035/077	dou	1	d ou
+035/079	smiet	1	s m ie t
+035/081	do	1	d o
+035/083	do	1	d o
+035/085	do	1	d o
+035/087	dho	1	d h o
+035/089	do	1	d o
+035/091	moakt	1	m oa k t
+035/093	do	1	d o
+035/095	doo	1	d oo
+035/097	do	1	d o
+035/099	doo	1	d oo
+035/101	doh	1	d oh
+035/103	schmiet	1	sch m ie t
+035/105	do	1	d o
+035/107	dho	1	d h o
+035/109	do	1	d o
+035/111	mock	1	m o ck
+035/113	duch	1	d u ch
+035/115	do	1	d o
+035/117	duch	1	d u ch
+035/121	doh	1	d oh
+035/123	do	1	d o
+035/125	duah	1	d uah
+035/127	schmiet	1	sch m ie t
+035/129	dho	1	d h o
+035/133	doh	1	d oh
+035/135	do	1	d o
+035/137	duch	1	d u ch
+035/139	dug	1	d u g
+035/141	duch	1	d u ch
+035/143	duch	1	d u ch
+035/145	duch	1	d u ch
+035/147	du	1	d u
+035/149	leg	1	l e g
+035/151	legg	1	l e gg
+035/153	dhuch	1	d h u ch
+035/155	duch	1	d u ch
+035/157	leg	1	l e g
+035/165	läg	1	l ä g
+035/167	dau	1	d au
+035/169	dot	1	d o t
+035/171	do	1	d o
+035/173	stek	1	s t e k
+036/033	dau	1	d au
+036/035	dau	1	d au
+036/039	dau	1	d au
+036/041	dau	1	d au
+036/043	dau	1	d au
+036/045	dau	1	d au
+036/047	do	1	d o
+036/049	smiet	1	s m ie t
+036/051	leg	1	l e g
+036/053	do	1	d o
+036/055	doh	1	d oh
+036/057	dou	1	d ou
+036/059	do	1	d o
+036/061	däu	1	d äu
+036/063	dau	1	d au
+036/065	dau	1	d au
+036/067	dau	1	d au
+036/069	doau	1	d oau
+036/071	do	1	d o
+036/073	doo	1	d oo
+036/075	dau	1	d au
+036/077	dou	1	d ou
+036/079	schmiet	1	sch m ie t
+036/081	smit	1	s m i t
+036/083	do	1	d o
+036/085	do	1	d o
+036/087	doh	1	d oh
+036/089	doh	1	d oh
+036/091	do	1	d o
+036/095	do	1	d o
+036/097	do	1	d o
+036/099	läck	1	l ä ck
+036/101	deih	1	d eih
+036/103	duh	1	d uh
+036/105	do	1	d o
+036/107	do	1	d o
+036/109	duch	1	d u ch
+036/111	mokk	1	m o kk
+036/113	doch	1	d o ch
+036/115	do	1	d o
+036/117	duch	1	d u ch
+036/119	moag	1	m oa g
+036/121	moak	1	m oa k
+036/123	duch	1	d u ch
+036/125	duu	1	d uu
+036/127	schmied	1	sch m ie d
+036/129	moag	1	m oa g
+036/133	moak	1	m oa k
+036/135	moag	1	m oa g
+036/137	doh	1	d oh
+036/139	doh	1	d oh
+036/141	do	1	d o
+036/143	duch	1	d u ch
+036/147	dug	1	d u g
+036/149	dou	1	d ou
+036/151	duch	1	d u ch
+036/153	dou	1	d ou
+036/155	schüdd	1	sch ü dd
+036/161	dau	1	d au
+036/163	lägg	1	l ä gg
+036/165	lach	1	l a ch
+036/167	mok	1	m o k
+036/169	do	1	d o
+036/171	do	1	d o
+037/033	doh	1	d oh
+037/035	dau	1	d au
+037/037	dou	1	d ou
+037/039	dau	1	d au
+037/041	dau	1	d au
+037/043	schmiet	1	sch m ie t
+037/045	dou	1	d ou
+037/047	do	1	d o
+037/049	dau	1	d au
+037/051	doh	1	d oh
+037/053	do	1	d o
+037/055	do	1	d o
+037/057	do	1	d o
+037/059	dou	1	d ou
+037/061	dou	1	d ou
+037/063	dau	1	d au
+037/065	dou	1	d ou
+037/067	dau	1	d au
+037/069	dau	1	d au
+037/071	dau	1	d au
+037/073	dou	1	d ou
+037/075	dau	1	d au
+037/077	dou	1	d ou
+037/079	dau	1	d au
+037/081	dou	1	d ou
+037/083	do	1	d o
+037/085	doh	1	d oh
+037/087	doh	1	d oh
+037/089	do	1	d o
+037/091	do	1	d o
+037/093	moak	1	m oa k
+037/095	do	1	d o
+037/097	doh	1	d oh
+037/099	doh	1	d oh
+037/101	duch	1	d u ch
+037/105	schmit	1	sch m i t
+037/107	dooch	1	d oo ch
+037/109	mock	1	m o ck
+037/111	mog	1	m o g
+037/113	do	1	d o
+037/115	duch	1	d u ch
+037/117	duch	1	d u ch
+037/119	duch	1	d u ch
+037/121	dhua	1	d h ua
+037/123	mack	1	m a ck
+037/125	duch	1	d u ch
+037/127	stick	1	s t i ck
+037/129	duhe	1	d u h e
+037/131	dhu	1	d h u
+037/133	duch	1	d u ch
+037/135	do	1	d o
+037/137	do	1	d o
+037/139	dho	1	d h o
+037/141	schütt	1	sch ü tt
+037/145	duch	1	d u ch
+037/147	duch	1	d u ch
+037/149	duch	1	d u ch
+037/151	do	1	d o
+037/153	mauk	1	m au k
+037/155	do	1	d o
+037/157	do	1	d o
+037/159	dou	1	d ou
+037/163	legg	1	l e gg
+037/171	do	1	d o
+038/033	dou	1	d ou
+038/035	dou	1	d ou
+038/037	dau	1	d au
+038/039	dau	1	d au
+038/041	dauu	1	d auu
+038/043	dau	1	d au
+038/045	dau	1	d au
+038/047	dou	1	d ou
+038/049	doh	1	d oh
+038/051	dau	1	d au
+038/053	dou	1	d ou
+038/055	dou	1	d ou
+038/057	do	1	d o
+038/059	do	1	d o
+038/061	dou	1	d ou
+038/063	do	1	d o
+038/065	dau	1	d au
+038/067	daou	1	d aou
+038/069	dau	1	d au
+038/071	dau	1	d au
+038/073	dau	1	d au
+038/075	dau	1	d au
+038/077	dou	1	d ou
+038/079	giff	1	g i ff
+038/081	do	1	d o
+038/083	do	1	d o
+038/085	do	1	d o
+038/087	doh	1	d oh
+038/089	do	1	d o
+038/091	doh	1	d oh
+038/093	do	1	d o
+038/095	duch	1	d u ch
+038/097	do	1	d o
+038/099	duch	1	d u ch
+038/101	duch	1	d u ch
+038/103	due	1	d ue
+038/105	mock	1	m o ck
+038/107	duhe	1	d u h e
+038/109	mook	1	m oo k
+038/111	dohe	1	d o h e
+038/113	duch	1	d u ch
+038/115	doa	1	d oa
+038/117	due	1	d ue
+038/119	duch	1	d u ch
+038/121	dhue	1	d h ue
+038/123	due	1	d ue
+038/125	schmiet	1	sch m ie t
+038/127	due	1	d ue
+038/129	duch	1	d u ch
+038/131	duoch	1	d uo ch
+038/133	duch	1	d u ch
+038/135	schmeit	1	sch m ei t
+038/145	läg	1	l ä g
+038/147	doch	1	d o ch
+038/149	mauk	1	m au k
+038/151	mauk	1	m au k
+038/153	dou	1	d ou
+038/155	leg	1	l e g
+038/159	tu	1	t u
+038/161	mauk	1	m au k
+038/163	dou	1	d ou
+039/029	do	1	d o
+039/031	do	1	d o
+039/033	dau	1	d au
+039/035	dou	1	d ou
+039/037	doh	1	d oh
+039/039	doh	1	d oh
+039/041	dau	1	d au
+039/043	dau	1	d au
+039/045	dau	1	d au
+039/047	dauh	1	d auh
+039/049	doh	1	d oh
+039/051	gif	1	g i f
+039/053	do	1	d o
+039/055	do	1	d o
+039/057	do	1	d o
+039/059	giw	1	g i w
+039/061	doo	1	d oo
+039/063	dau	1	d au
+039/065	dau	1	d au
+039/067	dau	1	d au
+039/069	dou	1	d ou
+039/071	dau	1	d au
+039/073	dauh	1	d auh
+039/075	doh	1	d oh
+039/077	dau	1	d au
+039/079	do	1	d o
+039/081	do	1	d o
+039/083	do	1	d o
+039/085	dou	1	d ou
+039/087	doh	1	d oh
+039/089	leck	1	l e ck
+039/091	schütt	1	sch ü tt
+039/093	moak	1	m oa k
+039/095	do	1	d o
+039/097	legge	1	l e gg e
+039/099	duch	1	d u ch
+039/101	thue	1	t h ue
+039/103	du	1	d u
+039/105	lägge	1	l ä gg e
+039/107	duch	1	d u ch
+039/109	mock	1	m o ck
+039/111	duch	1	d u ch
+039/113	thu	1	t h u
+039/115	duch	1	d u ch
+039/117	schmiet	1	sch m ie t
+039/119	thu	1	t h u
+039/121	duch	1	d u ch
+039/123	duch	1	d u ch
+039/125	duch	1	d u ch
+039/127	duch	1	d u ch
+039/129	du	1	d u
+039/131	tuch	1	t u ch
+039/133	thou	1	t h ou
+039/135	thou	1	t h ou
+039/137	thau	1	t h au
+039/139	thu	1	t h u
+039/149	duch	1	d u ch
+039/151	doch	1	d o ch
+039/153	leg	1	l e g
+039/155	mäuck	1	m äu ck
+040/029	do	1	d o
+040/031	do	1	d o
+040/033	duoh	1	d uoh
+040/035	do	1	d o
+040/037	doe	1	d oe
+040/039	do	1	d o
+040/041	dou	1	d ou
+040/043	dau	1	d au
+040/045	do	1	d o
+040/047	dou	1	d ou
+040/049	do	1	d o
+040/051	do	1	d o
+040/053	dau	1	d au
+040/055	dou	1	d ou
+040/057	dau	1	d au
+040/059	dau	1	d au
+040/061	dau	1	d au
+040/063	dau	1	d au
+040/065	dau	1	d au
+040/067	dau	1	d au
+040/069	dauh	1	d auh
+040/071	dau	1	d au
+040/073	smiet	1	s m ie t
+040/075	dau	1	d au
+040/077	dau	1	d au
+040/079	do	1	d o
+040/081	do	1	d o
+040/083	do	1	d o
+040/085	do	1	d o
+040/087	do	1	d o
+040/089	smiet	1	s m ie t
+040/091	do	1	d o
+040/093	noock	1	n oo ck
+040/095	duch	1	d u ch
+040/097	duch	1	d u ch
+040/099	duch	1	d u ch
+040/101	mock	1	m o ck
+040/103	duch	1	d u ch
+040/105	duh	1	d uh
+040/107	duh	1	d uh
+040/109	steck	1	s t e ck
+040/111	duhe	1	d u h e
+040/113	do	1	d o
+040/115	dug	1	d u g
+040/119	duch	1	d u ch
+040/121	duch	1	d u ch
+040/123	schmiet	1	sch m ie t
+040/125	mache	1	m a ch e
+040/127	duch	1	d u ch
+040/129	schmeiss	1	sch m ei ss
+040/131	mach	1	m a ch
+040/133	lä	1	l ä
+040/135	thou	1	t h ou
+040/137	thou	1	t h ou
+040/141	thu	1	t h u
+040/143	thu	1	t h u
+040/149	thu	1	t h u
+040/153	dou	1	d ou
+040/155	dheeu	1	d h eeu
+041/031	do	1	d o
+041/033	doh	1	d oh
+041/035	do	1	d o
+041/037	do	1	d o
+041/039	do	1	d o
+041/041	dou	1	d ou
+041/043	dou	1	d ou
+041/045	do	1	d o
+041/047	do	1	d o
+041/049	do	1	d o
+041/051	doh	1	d oh
+041/053	dou	1	d ou
+041/055	dou	1	d ou
+041/057	dou	1	d ou
+041/059	dou	1	d ou
+041/061	dau	1	d au
+041/063	dau	1	d au
+041/065	dau	1	d au
+041/067	dau	1	d au
+041/069	dau	1	d au
+041/071	dau	1	d au
+041/073	dau	1	d au
+041/075	dau	1	d au
+041/077	dau	1	d au
+041/079	dau	1	d au
+041/081	do	1	d o
+041/083	do	1	d o
+041/085	schüpp	1	sch ü pp
+041/087	do	1	d o
+041/089	doh	1	d oh
+041/091	do	1	d o
+041/093	do	1	d o
+041/095	duch	1	d u ch
+041/097	duch	1	d u ch
+041/099	duhe	1	d u h e
+041/101	dugg	1	d u gg
+041/103	duch	1	d u ch
+041/105	due	1	d ue
+041/107	duch	1	d u ch
+041/109	deu	1	d eu
+041/111	leije	1	l ei j e
+041/113	moaak	1	m oaa k
+041/115	due	1	d ue
+041/117	mock	1	m o ck
+041/119	mock	1	m o ck
+041/121	mokk	1	m o kk
+041/123	thu	1	t h u
+041/125	due	1	d ue
+041/127	duch	1	d u ch
+041/129	schmeiss	1	sch m ei ss
+041/131	mache	1	m a ch e
+041/133	tho	1	t h o
+041/135	thu	1	t h u
+041/139	thu	1	t h u
+041/141	thu	1	t h u
+041/145	thu	1	t h u
+041/147	thu	1	t h u
+041/153	duch	1	d u ch
+041/155	schütt	1	sch ü tt
+041/157	doch	1	d o ch
+041/159	leg	1	l e g
+041/161	leg	1	l e g
+042/033	do	1	d o
+042/035	duh	1	d uh
+042/037	doo	1	d oo
+042/039	do	1	d o
+042/041	do	1	d o
+042/043	doo	1	d oo
+042/045	do	1	d o
+042/047	do	1	d o
+042/051	dou	1	d ou
+042/053	deo	1	d eo
+042/055	dau	1	d au
+042/057	däue	1	d äue
+042/059	dau	1	d au
+042/061	dau	1	d au
+042/063	dau	1	d au
+042/065	dau	1	d au
+042/067	dau	1	d au
+042/069	dau	1	d au
+042/071	dau	1	d au
+042/073	dau	1	d au
+042/075	daue	1	d aue
+042/077	dhau	1	d h au
+042/079	dau	1	d au
+042/081	dau	1	d au
+042/083	do	1	d o
+042/085	dohe	1	d o h e
+042/087	do	1	d o
+042/089	leg	1	l e g
+042/091	doh	1	d oh
+042/093	dug	1	d u g
+042/095	duch	1	d u ch
+042/097	schmiet	1	sch m ie t
+042/099	duchch	1	d u ch ch
+042/101	due	1	d ue
+042/103	leg	1	l e g
+042/105	schitte	1	sch i tt e
+042/107	duh	1	d uh
+042/109	duchch	1	d u ch ch
+042/111	schmiet	1	sch m ie t
+042/113	duch	1	d u ch
+042/115	duht	1	d uh t
+042/117	mock	1	m o ck
+042/119	mock	1	m o ck
+042/121	mok	1	m o k
+042/123	duch	1	d u ch
+042/125	dhu	1	d h u
+042/127	due	1	d ue
+042/129	thu	1	t h u
+042/131	thu	1	t h u
+042/133	thu	1	t h u
+042/135	schmeiss	1	sch m ei ss
+042/137	thu	1	t h u
+042/139	lä	1	l ä
+042/141	thu	1	t h u
+042/143	thu	1	t h u
+042/145	thu	1	t h u
+042/147	thu	1	t h u
+042/149	thu	1	t h u
+042/151	tju	1	t j u
+042/157	dou	1	d ou
+042/159	dhu	1	d h u
+042/161	dauh	1	d auh
+043/033	do	1	d o
+043/035	do	1	d o
+043/037	do	1	d o
+043/039	doh	1	d oh
+043/041	do	1	d o
+043/043	do	1	d o
+043/045	do	1	d o
+043/047	do	1	d o
+043/049	do	1	d o
+043/051	dau	1	d au
+043/053	däu	1	d äu
+043/055	dau	1	d au
+043/057	dau	1	d au
+043/059	dau	1	d au
+043/061	dau	1	d au
+043/063	dau	1	d au
+043/065	dau	1	d au
+043/067	dau	1	d au
+043/069	dau	1	d au
+043/071	dä	1	d ä
+043/073	dau	1	d au
+043/075	dauh	1	d auh
+043/077	dau	1	d au
+043/079	dau	1	d au
+043/081	dau	1	d au
+043/083	dau	1	d au
+043/085	dau	1	d au
+043/087	dau	1	d au
+043/089	do	1	d o
+043/091	duch	1	d u ch
+043/093	schmiet	1	sch m ie t
+043/095	duch	1	d u ch
+043/097	duch	1	d u ch
+043/099	schmiet	1	sch m ie t
+043/101	thu	1	t h u
+043/103	due	1	d ue
+043/105	schmit	1	sch m i t
+043/107	steck	1	s t e ck
+043/109	dhu	1	d h u
+043/111	duh	1	d uh
+043/113	legge	1	l e gg e
+043/115	dhu	1	d h u
+043/117	due	1	d ue
+043/119	duch	1	d u ch
+043/121	duch	1	d u ch
+043/123	duch	1	d u ch
+043/125	thu	1	t h u
+043/127	tuch	1	t u ch
+043/129	thue	1	t h ue
+043/131	thu	1	t h u
+043/133	thu	1	t h u
+043/135	schmeiss	1	sch m ei ss
+043/137	thu	1	t h u
+043/141	thu	1	t h u
+043/143	thu	1	t h u
+043/145	thu	1	t h u
+043/151	thu	1	t h u
+043/153	thu	1	t h u
+043/159	dau	1	d au
+043/161	schmis	1	sch m i s
+044/033	do	1	d o
+044/035	do	1	d o
+044/039	doh	1	d oh
+044/041	do	1	d o
+044/043	do	1	d o
+044/045	do	1	d o
+044/047	do	1	d o
+044/049	do	1	d o
+044/051	deu	1	d eu
+044/053	deu	1	d eu
+044/055	deeu	1	d eeu
+044/057	dau	1	d au
+044/059	giff	1	g i ff
+044/061	do	1	d o
+044/063	döoe	1	d öoe
+044/065	smüit	1	s m üi t
+044/067	daue	1	d aue
+044/069	dau	1	d au
+044/071	däh	1	d äh
+044/073	deau	1	d eau
+044/075	dau	1	d au
+044/077	dau	1	d au
+044/079	dau	1	d au
+044/081	dau	1	d au
+044/083	dau	1	d au
+044/085	dau	1	d au
+044/087	dau	1	d au
+044/089	doh	1	d oh
+044/091	duch	1	d u ch
+044/093	teg	1	t e g
+044/095	duch	1	d u ch
+044/097	duch	1	d u ch
+044/099	schmiet	1	sch m ie t
+044/101	leich	1	l ei ch
+044/103	schmiet	1	sch m ie t
+044/105	dhue	1	d h ue
+044/107	mok	1	m o k
+044/109	duch	1	d u ch
+044/111	moag	1	m oa g
+044/113	duh	1	d uh
+044/115	dhu	1	d h u
+044/117	duh	1	d uh
+044/119	duch	1	d u ch
+044/121	thu	1	t h u
+044/123	thuh	1	t h uh
+044/125	moche	1	m o ch e
+044/127	thu	1	t h u
+044/129	thu	1	t h u
+044/131	thu	1	t h u
+044/133	thu	1	t h u
+044/135	thu	1	t h u
+044/137	thu	1	t h u
+044/141	thu	1	t h u
+044/143	thu	1	t h u
+044/145	thu	1	t h u
+044/149	tiu	1	t iu
+044/151	thu	1	t h u
+044/153	tu	1	t u
+045/033	do	1	d o
+045/035	do	1	d o
+045/037	do	1	d o
+045/039	doh	1	d oh
+045/041	doh	1	d oh
+045/043	do	1	d o
+045/045	do	1	d o
+045/047	do	1	d o
+045/049	dau	1	d au
+045/051	deo	1	d eo
+045/053	dou	1	d ou
+045/055	deou	1	d eou
+045/057	dau	1	d au
+045/059	däu	1	d äu
+045/061	däu	1	d äu
+045/063	däiu	1	d äiu
+045/065	dau	1	d au
+045/067	dau	1	d au
+045/069	dau	1	d au
+045/071	däu	1	d äu
+045/073	deau	1	d eau
+045/075	daue	1	d aue
+045/077	dau	1	d au
+045/079	dau	1	d au
+045/081	dau	1	d au
+045/083	dau	1	d au
+045/085	dau	1	d au
+045/087	dau	1	d au
+045/089	doht	1	d oh t
+045/091	duch	1	d u ch
+045/093	duch	1	d u ch
+045/095	duh	1	d uh
+045/097	duch	1	d u ch
+045/099	duchch	1	d u ch ch
+045/101	leig	1	l ei g
+045/103	duch	1	d u ch
+045/105	schmiet	1	sch m ie t
+045/107	schmiet	1	sch m ie t
+045/109	stecke	1	s t e ck e
+045/111	thu	1	t h u
+045/113	duch	1	d u ch
+045/115	duch	1	d u ch
+045/117	duch	1	d u ch
+045/119	thuch	1	t h u ch
+045/121	thuch	1	t h u ch
+045/123	tuch	1	t u ch
+045/125	thu	1	t h u
+045/127	thuch	1	t h u ch
+045/129	thu	1	t h u
+045/131	thu	1	t h u
+045/133	mach	1	m a ch
+045/135	thu	1	t h u
+045/137	thu	1	t h u
+045/139	thu	1	t h u
+045/141	theu	1	t h eu
+045/143	thu	1	t h u
+045/145	thu	1	t h u
+045/155	thu	1	t h u
+046/031	daoh	1	d aoh
+046/033	doh	1	d oh
+046/035	do	1	d o
+046/037	do	1	d o
+046/039	doh	1	d oh
+046/041	do	1	d o
+046/043	do	1	d o
+046/045	deu	1	d eu
+046/047	deo	1	d eo
+046/049	deo	1	d eo
+046/051	deau	1	d eau
+046/053	deu	1	d eu
+046/055	deo	1	d eo
+046/057	däu	1	d äu
+046/059	dau	1	d au
+046/061	dau	1	d au
+046/063	däau	1	d äau
+046/065	dau	1	d au
+046/067	dau	1	d au
+046/069	deo	1	d eo
+046/071	dau	1	d au
+046/073	dau	1	d au
+046/075	daue	1	d aue
+046/077	dau	1	d au
+046/079	dau	1	d au
+046/081	dau	1	d au
+046/083	dauh	1	d auh
+046/085	dauch	1	d au ch
+046/087	dau	1	d au
+046/089	do	1	d o
+046/091	duch	1	d u ch
+046/093	duch	1	d u ch
+046/095	duch	1	d u ch
+046/097	due	1	d ue
+046/099	duch	1	d u ch
+046/101	due	1	d ue
+046/103	schmiet	1	sch m ie t
+046/105	leig	1	l ei g
+046/107	dhue	1	d h ue
+046/109	due	1	d ue
+046/111	tue	1	t ue
+046/113	thu	1	t h u
+046/115	mache	1	m a ch e
+046/117	thu	1	t h u
+046/119	thuk	1	t h u k
+046/121	thuch	1	t h u ch
+046/123	tuch	1	t u ch
+046/125	thuch	1	t h u ch
+046/127	tuch	1	t u ch
+046/129	thu	1	t h u
+046/131	thu	1	t h u
+046/133	thu	1	t h u
+046/135	schmäss	1	sch m ä ss
+046/137	thu	1	t h u
+046/139	thu	1	t h u
+046/141	thu	1	t h u
+046/143	thu	1	t h u
+046/155	thu	1	t h u
+047/031	do	1	d o
+047/033	doh	1	d oh
+047/035	dao	1	d ao
+047/037	doh	1	d oh
+047/039	doh	1	d oh
+047/041	do	1	d o
+047/043	do	1	d o
+047/045	do	1	d o
+047/047	dau	1	d au
+047/049	däu	1	d äu
+047/051	deue	1	d eue
+047/053	däü	1	d äü
+047/055	däou	1	d äou
+047/057	deo	1	d eo
+047/059	do	1	d o
+047/061	dau	1	d au
+047/063	däu	1	d äu
+047/065	deau	1	d eau
+047/067	dauh	1	d auh
+047/069	dau	1	d au
+047/071	dau	1	d au
+047/073	dau	1	d au
+047/075	dauch	1	d au ch
+047/077	dauh	1	d auh
+047/079	dau	1	d au
+047/081	dau	1	d au
+047/083	dau	1	d au
+047/085	du	1	d u
+047/087	daug	1	d au g
+047/089	dau	1	d au
+047/091	dauch	1	d au ch
+047/093	due	1	d ue
+047/095	dua	1	d ua
+047/097	moak	1	m oa k
+047/099	leig	1	l ei g
+047/101	sacke	1	s a ck e
+047/103	duo	1	d uo
+047/105	thuch	1	t h u ch
+047/107	duch	1	d u ch
+047/109	mog	1	m o g
+047/111	duch	1	d u ch
+047/113	duch	1	d u ch
+047/115	thuk	1	t h u k
+047/117	tuch	1	t u ch
+047/119	thuk	1	t h u k
+047/123	thuch	1	t h u ch
+047/125	thuch	1	t h u ch
+047/127	thuk	1	t h u k
+047/129	thu	1	t h u
+047/131	thu	1	t h u
+047/133	thu	1	t h u
+047/135	thu	1	t h u
+047/137	thu	1	t h u
+047/139	thu	1	t h u
+047/141	thu	1	t h u
+047/147	tju	1	t j u
+047/149	thu	1	t h u
+047/151	thu	1	t h u
+047/159	thu	1	t h u
+048/021	dütt	1	d ü tt
+048/023	duht	1	d uh t
+048/027	doe	1	d oe
+048/029	do	1	d o
+048/031	doh	1	d oh
+048/033	doh	1	d oh
+048/035	do	1	d o
+048/037	doo	1	d oo
+048/039	doh	1	d oh
+048/041	doh	1	d oh
+048/045	dou	1	d ou
+048/047	dou	1	d ou
+048/049	dou	1	d ou
+048/051	do	1	d o
+048/053	deu	1	d eu
+048/055	deo	1	d eo
+048/057	däu	1	d äu
+048/059	däu	1	d äu
+048/061	dau	1	d au
+048/063	däu	1	d äu
+048/065	dea	1	d ea
+048/067	däu	1	d äu
+048/069	dau	1	d au
+048/071	du	1	d u
+048/073	dau	1	d au
+048/075	dau	1	d au
+048/077	dau	1	d au
+048/079	dau	1	d au
+048/081	dauh	1	d auh
+048/083	daug	1	d au g
+048/085	dauch	1	d au ch
+048/087	moake	1	m oa k e
+048/089	mache	1	m a ch e
+048/091	mache	1	m a ch e
+048/093	tug	1	t u g
+048/095	du	1	d u
+048/099	dhu	1	d h u
+048/101	thuk	1	t h u k
+048/103	tuch	1	t u ch
+048/105	dhu	1	d h u
+048/107	leh	1	l eh
+048/109	due	1	d ue
+048/111	du	1	d u
+048/113	du	1	d u
+048/115	thug	1	t h u g
+048/119	thuck	1	t h u ck
+048/123	thuch	1	t h u ch
+048/125	tuch	1	t u ch
+048/127	thu	1	t h u
+048/129	thu	1	t h u
+048/131	thu	1	t h u
+048/133	thu	1	t h u
+048/135	thu	1	t h u
+048/137	thu	1	t h u
+048/139	thu	1	t h u
+048/141	thu	1	t h u
+048/143	tuh	1	t uh
+048/145	thiu	1	t h iu
+048/147	thju	1	t h j u
+048/153	thu	1	t h u
+048/157	thu	1	t h u
+048/159	thu	1	t h u
+049/019	dü	1	d ü
+049/021	dut	1	d u t
+049/023	dut	1	d u t
+049/025	doh	1	d oh
+049/027	doo	1	d oo
+049/029	do	1	d o
+049/031	doh	1	d oh
+049/033	do	1	d o
+049/035	do	1	d o
+049/037	doh	1	d oh
+049/039	doo	1	d oo
+049/041	dau	1	d au
+049/043	doo	1	d oo
+049/045	daou	1	d aou
+049/047	doh	1	d oh
+049/049	dou	1	d ou
+049/051	däu	1	d äu
+049/053	deo	1	d eo
+049/055	däu	1	d äu
+049/057	deog	1	d eo g
+049/059	deau	1	d eau
+049/061	deoh	1	d eoh
+049/063	dääu	1	d ääu
+049/065	däu	1	d äu
+049/067	dau	1	d au
+049/069	dau	1	d au
+049/071	dau	1	d au
+049/073	NA	NA	-
+049/077	thau	1	t h au
+049/079	dauch	1	d au ch
+049/081	dauch	1	d au ch
+049/083	dauch	1	d au ch
+049/085	dau	1	d au
+049/087	lek	1	l e k
+049/089	läk	1	l ä k
+049/091	thuk	1	t h u k
+049/093	thuk	1	t h u k
+049/095	thuck	1	t h u ck
+049/097	thuck	1	t h u ck
+049/099	thuck	1	t h u ck
+049/101	thuck	1	t h u ck
+049/103	thuk	1	t h u k
+049/105	thu	1	t h u
+049/107	thu	1	t h u
+049/109	dhuch	1	d h u ch
+049/111	mache	1	m a ch e
+049/113	mache	1	m a ch e
+049/115	thuck	1	t h u ck
+049/117	tuck	1	t u ck
+049/119	tuck	1	t u ck
+049/121	tuck	1	t u ck
+049/123	thu	1	t h u
+049/125	thue	1	t h ue
+049/127	thu	1	t h u
+049/129	thu	1	t h u
+049/131	lä	1	l ä
+049/133	thu	1	t h u
+049/135	thu	1	t h u
+049/137	thu	1	t h u
+049/139	thu	1	t h u
+049/141	thiu	1	t h iu
+049/143	thu	1	t h u
+049/145	thu	1	t h u
+049/147	thu	1	t h u
+049/151	thu	1	t h u
+050/021	dütt	1	d ü tt
+050/023	thu	1	t h u
+050/025	düt	1	d ü t
+050/027	dut	1	d u t
+050/029	du	1	d u
+050/031	duoh	1	d uoh
+050/033	doh	1	d oh
+050/035	dau	1	d au
+050/037	dau	1	d au
+050/039	doh	1	d oh
+050/041	dau	1	d au
+050/043	dau	1	d au
+050/047	daoo	1	d aoo
+050/049	dau	1	d au
+050/051	deou	1	d eou
+050/053	deo	1	d eo
+050/055	schmeit	1	sch m ei t
+050/057	deo	1	d eo
+050/059	deu	1	d eu
+050/061	dau	1	d au
+050/063	dääu	1	d ääu
+050/065	däw	1	d ä w
+050/067	dau	1	d au
+050/069	dau	1	d au
+050/071	dau	1	d au
+050/073	dau	1	d au
+050/075	thu	1	t h u
+050/077	dau	1	d au
+050/079	duh	1	d uh
+050/081	due	1	d ue
+050/083	maake	1	m aa k e
+050/085	mache	1	m a ch e
+050/087	thuck	1	t h u ck
+050/089	thuk	1	t h u k
+050/091	tuck	1	t u ck
+050/093	tuck	1	t u ck
+050/095	tuck	1	t u ck
+050/097	thu	1	t h u
+050/099	thuck	1	t h u ck
+050/101	thuk	1	t h u k
+050/103	duk	1	d u k
+050/105	tuck	1	t u ck
+050/107	dhuch	1	d h u ch
+050/109	duh	1	d uh
+050/111	mache	1	m a ch e
+050/113	duch	1	d u ch
+050/115	tuck	1	t u ck
+050/117	tug	1	t u g
+050/119	tuck	1	t u ck
+050/121	thuck	1	t h u ck
+050/125	thug	1	t h u g
+050/127	thu	1	t h u
+050/129	thu	1	t h u
+050/131	thu	1	t h u
+050/133	thu	1	t h u
+050/135	thu	1	t h u
+050/137	thu	1	t h u
+050/139	thu	1	t h u
+050/141	thu	1	t h u
+050/143	thu	1	t h u
+050/145	thu	1	t h u
+050/147	thu	1	t h u
+050/149	thau	1	t h au
+050/151	thu	1	t h u
+050/155	lä	1	l ä
+050/157	thu	1	t h u
+050/159	thu	1	t h u
+050/161	thu	1	t h u
+051/023	düt	1	d ü t
+051/025	düt	1	d ü t
+051/027	duhe	1	d u h e
+051/029	duh	1	d uh
+051/031	dau	1	d au
+051/033	dhau	1	d h au
+051/035	dau	1	d au
+051/037	dau	1	d au
+051/039	do	1	d o
+051/041	dau	1	d au
+051/043	dau	1	d au
+051/045	däu	1	d äu
+051/047	dau	1	d au
+051/049	deeu	1	d eeu
+051/051	deou	1	d eou
+051/053	dau	1	d au
+051/055	döu	1	d öu
+051/057	dau	1	d au
+051/059	däu	1	d äu
+051/061	dho	1	d h o
+051/063	dhau	1	d h au
+051/065	dau	1	d au
+051/067	dau	1	d au
+051/069	däu	1	d äu
+051/071	dau	1	d au
+051/073	dau	1	d au
+051/075	tuck	1	t u ck
+051/077	maake	1	m aa k e
+051/079	tuck	1	t u ck
+051/081	dug	1	d u g
+051/083	duck	1	d u ck
+051/085	thuk	1	t h u k
+051/087	tuk	1	t u k
+051/089	thuk	1	t h u k
+051/091	thuk	1	t h u k
+051/093	tuck	1	t u ck
+051/095	tuck	1	t u ck
+051/097	tuck	1	t u ck
+051/099	thuk	1	t h u k
+051/101	thuck	1	t h u ck
+051/103	tuck	1	t u ck
+051/105	tuck	1	t u ck
+051/107	tu	1	t u
+051/109	tuck	1	t u ck
+051/111	thuck	1	t h u ck
+051/113	tug	1	t u g
+051/115	tuck	1	t u ck
+051/117	thuck	1	t h u ck
+051/119	tuck	1	t u ck
+051/121	thu	1	t h u
+051/123	tuck	1	t u ck
+051/125	thu	1	t h u
+051/127	thu	1	t h u
+051/129	thu	1	t h u
+051/131	lä	1	l ä
+051/133	thu	1	t h u
+051/135	thu	1	t h u
+051/137	thu	1	t h u
+051/139	thu	1	t h u
+051/141	thu	1	t h u
+051/143	thu	1	t h u
+051/145	thu	1	t h u
+051/147	thu	1	t h u
+051/149	thu	1	t h u
+051/151	thu	1	t h u
+051/153	thu	1	t h u
+051/155	thu	1	t h u
+051/157	thu	1	t h u
+052/023	dutt	1	d u tt
+052/025	dütt	1	d ü tt
+052/027	donn	1	d o nn
+052/029	duhn	1	d uh n
+052/031	dau	1	d au
+052/033	dau	1	d au
+052/035	dau	1	d au
+052/037	dau	1	d au
+052/039	dau	1	d au
+052/041	dau	1	d au
+052/043	dau	1	d au
+052/045	dau	1	d au
+052/047	dau	1	d au
+052/049	dau	1	d au
+052/051	däu	1	d äu
+052/053	däu	1	d äu
+052/057	dau	1	d au
+052/059	dau	1	d au
+052/061	do	1	d o
+052/063	tau	1	t au
+052/065	dau	1	d au
+052/067	dau	1	d au
+052/069	dau	1	d au
+052/071	dauwe	1	d au w e
+052/073	dau	1	d au
+052/075	tuck	1	t u ck
+052/077	duh	1	d uh
+052/079	thuck	1	t h u ck
+052/081	thouk	1	t h ou k
+052/083	duk	1	d u k
+052/085	duck	1	d u ck
+052/087	tuck	1	t u ck
+052/089	tuck	1	t u ck
+052/091	thu	1	t h u
+052/093	thuk	1	t h u k
+052/095	duk	1	d u k
+052/097	thuck	1	t h u ck
+052/099	thuk	1	t h u k
+052/101	thuck	1	t h u ck
+052/103	läck	1	l ä ck
+052/105	tuck	1	t u ck
+052/107	thuk	1	t h u k
+052/109	tuck	1	t u ck
+052/111	thua	1	t h ua
+052/113	tuck	1	t u ck
+052/115	thug	1	t h u g
+052/117	thu	1	t h u
+052/121	thu	1	t h u
+052/123	thu	1	t h u
+052/125	thu	1	t h u
+052/127	thu	1	t h u
+052/129	thu	1	t h u
+052/131	thu	1	t h u
+052/133	thu	1	t h u
+052/135	thu	1	t h u
+052/137	thu	1	t h u
+052/139	thu	1	t h u
+052/141	thu	1	t h u
+052/143	thu	1	t h u
+052/145	thu	1	t h u
+052/147	thu	1	t h u
+052/149	thu	1	t h u
+052/151	thu	1	t h u
+052/153	thu	1	t h u
+052/155	thu	1	t h u
+052/157	thu	1	t h u
+052/159	thu	1	t h u
+053/023	düi	1	d üi
+053/025	duhn	1	d uh n
+053/027	dunn	1	d u nn
+053/029	du	1	d u
+053/031	dou	1	d ou
+053/033	dau	1	d au
+053/035	dau	1	d au
+053/037	dau	1	d au
+053/039	dau	1	d au
+053/041	dau	1	d au
+053/043	dau	1	d au
+053/045	dau	1	d au
+053/047	dau	1	d au
+053/049	dau	1	d au
+053/051	dai	1	d ai
+053/053	dau	1	d au
+053/055	dhau	1	d h au
+053/057	dho	1	d h o
+053/059	do	1	d o
+053/061	doh	1	d oh
+053/063	dau	1	d au
+053/065	dau	1	d au
+053/067	dau	1	d au
+053/069	dau	1	d au
+053/071	dau	1	d au
+053/073	thaau	1	t h aau
+053/075	thuk	1	t h u k
+053/077	tuck	1	t u ck
+053/079	tuck	1	t u ck
+053/081	thuk	1	t h u k
+053/083	thuck	1	t h u ck
+053/085	thuk	1	t h u k
+053/087	duck	1	d u ck
+053/089	tuck	1	t u ck
+053/091	duck	1	d u ck
+053/093	duck	1	d u ck
+053/095	tuck	1	t u ck
+053/097	leck	1	l e ck
+053/099	thuck	1	t h u ck
+053/101	tuk	1	t u k
+053/103	tuck	1	t u ck
+053/105	tuck	1	t u ck
+053/107	thu	1	t h u
+053/109	thuck	1	t h u ck
+053/111	thuck	1	t h u ck
+053/113	thug	1	t h u g
+053/115	thu	1	t h u
+053/121	thuk	1	t h u k
+053/123	thu	1	t h u
+053/125	thu	1	t h u
+053/127	thu	1	t h u
+053/129	thu	1	t h u
+053/131	thu	1	t h u
+053/133	thu	1	t h u
+053/135	thu	1	t h u
+053/137	thu	1	t h u
+053/139	thu	1	t h u
+053/141	thu	1	t h u
+053/143	thu	1	t h u
+053/145	thu	1	t h u
+053/147	thu	1	t h u
+053/149	thu	1	t h u
+053/151	thu	1	t h u
+053/153	thu	1	t h u
+053/155	thu	1	t h u
+053/157	thu	1	t h u
+054/023	doot	1	d oo t
+054/025	dhun	1	d h u n
+054/027	donn	1	d o nn
+054/029	donn	1	d o nn
+054/031	do	1	d o
+054/033	do	1	d o
+054/035	dau	1	d au
+054/037	dau	1	d au
+054/039	dau	1	d au
+054/041	dau	1	d au
+054/043	dau	1	d au
+054/045	dau	1	d au
+054/047	dau	1	d au
+054/049	dau	1	d au
+054/051	dau	1	d au
+054/053	dou	1	d ou
+054/055	dou	1	d ou
+054/057	doh	1	d oh
+054/059	schmied	1	sch m ie d
+054/061	thu	1	t h u
+054/063	du	1	d u
+054/065	dau	1	d au
+054/067	tuck	1	t u ck
+054/069	thu	1	t h u
+054/071	duck	1	d u ck
+054/073	thuck	1	t h u ck
+054/075	duck	1	d u ck
+054/077	dukk	1	d u kk
+054/079	duck	1	d u ck
+054/081	duck	1	d u ck
+054/083	tuck	1	t u ck
+054/085	thuck	1	t h u ck
+054/087	thuck	1	t h u ck
+054/089	duck	1	d u ck
+054/091	duck	1	d u ck
+054/093	thuk	1	t h u k
+054/095	duck	1	d u ck
+054/097	duh	1	d uh
+054/099	thuk	1	t h u k
+054/101	duck	1	d u ck
+054/103	duck	1	d u ck
+054/105	thuck	1	t h u ck
+054/107	thuk	1	t h u k
+054/109	thuk	1	t h u k
+054/111	thu	1	t h u
+054/113	tuk	1	t u k
+054/115	mach	1	m a ch
+054/117	du	1	d u
+054/119	thu	1	t h u
+054/121	thu	1	t h u
+054/123	thu	1	t h u
+054/125	thu	1	t h u
+054/127	thu	1	t h u
+054/131	thu	1	t h u
+054/133	thu	1	t h u
+054/135	thu	1	t h u
+054/137	thu	1	t h u
+054/139	thu	1	t h u
+054/141	thu	1	t h u
+054/143	läh	1	l äh
+054/145	thu	1	t h u
+054/147	thu	1	t h u
+054/149	tu	1	t u
+054/151	thu	1	t h u
+054/153	tu	1	t u
+054/155	thu	1	t h u
+054/157	thu	1	t h u
+054/159	thu	1	t h u
+054/161	thu	1	t h u
+054/163	duch	1	d u ch
+055/023	doot	1	d oo t
+055/025	dou	1	d ou
+055/027	donn	1	d o nn
+055/029	donn	1	d o nn
+055/031	don	1	d o n
+055/033	do	1	d o
+055/035	dau	1	d au
+055/037	dau	1	d au
+055/039	dau	1	d au
+055/041	dau	1	d au
+055/043	dau	1	d au
+055/045	dau	1	d au
+055/047	dau	1	d au
+055/049	dau	1	d au
+055/051	dau	1	d au
+055/053	dau	1	d au
+055/055	mak	1	m a k
+055/057	dau	1	d au
+055/059	mack	1	m a ck
+055/061	thu	1	t h u
+055/063	lei	1	l ei
+055/065	mach	1	m a ch
+055/067	do	1	d o
+055/069	duck	1	d u ck
+055/071	läck	1	l ä ck
+055/073	dugg	1	d u gg
+055/075	thuck	1	t h u ck
+055/077	duck	1	d u ck
+055/079	tuck	1	t u ck
+055/081	duck	1	d u ck
+055/083	doch	1	d o ch
+055/085	thuck	1	t h u ck
+055/087	duck	1	d u ck
+055/089	duk	1	d u k
+055/091	thuck	1	t h u ck
+055/093	thuk	1	t h u k
+055/095	thuk	1	t h u k
+055/097	duck	1	d u ck
+055/099	duck	1	d u ck
+055/101	thu	1	t h u
+055/103	duck	1	d u ck
+055/105	thuk	1	t h u k
+055/107	tuck	1	t u ck
+055/109	duck	1	d u ck
+055/111	thuk	1	t h u k
+055/113	duck	1	d u ck
+055/115	thuk	1	t h u k
+055/117	thug	1	t h u g
+055/119	thu	1	t h u
+055/123	läh	1	l äh
+055/125	thu	1	t h u
+055/127	du	1	d u
+055/131	thu	1	t h u
+055/133	tu	1	t u
+055/135	thu	1	t h u
+055/137	thu	1	t h u
+055/139	thu	1	t h u
+055/141	thu	1	t h u
+055/143	thu	1	t h u
+055/145	lieh	1	l ieh
+055/147	thu	1	t h u
+055/149	thu	1	t h u
+055/151	thu	1	t h u
+055/153	thu	1	t h u
+055/155	thu	1	t h u
+055/157	thu	1	t h u
+055/159	thu	1	t h u
+055/161	thu	1	t h u
+056/021	doet	1	d oe t
+056/023	doen	1	d oe n
+056/025	don	1	d o n
+056/027	don	1	d o n
+056/029	donn	1	d o nn
+056/031	do	1	d o
+056/033	do	1	d o
+056/035	dau	1	d au
+056/037	dau	1	d au
+056/039	dau	1	d au
+056/041	dhau	1	d h au
+056/043	dhau	1	d h au
+056/045	dau	1	d au
+056/047	dau	1	d au
+056/049	dau	1	d au
+056/051	däu	1	d äu
+056/053	dau	1	d au
+056/055	do	1	d o
+056/057	do	1	d o
+056/059	du	1	d u
+056/061	thu	1	t h u
+056/063	mach	1	m a ch
+056/065	thu	1	t h u
+056/067	duh	1	d uh
+056/069	du	1	d u
+056/071	thuk	1	t h u k
+056/073	thuk	1	t h u k
+056/075	dock	1	d o ck
+056/077	duck	1	d u ck
+056/079	duck	1	d u ck
+056/081	tock	1	t o ck
+056/083	tuk	1	t u k
+056/085	thuck	1	t h u ck
+056/087	thuck	1	t h u ck
+056/089	duck	1	d u ck
+056/091	tuck	1	t u ck
+056/093	tuk	1	t u k
+056/095	tuck	1	t u ck
+056/097	thuck	1	t h u ck
+056/099	thu	1	t h u
+056/101	thuk	1	t h u k
+056/103	duh	1	d uh
+056/105	thuk	1	t h u k
+056/107	thug	1	t h u g
+056/109	thuk	1	t h u k
+056/111	thuk	1	t h u k
+056/113	tuck	1	t u ck
+056/115	thu	1	t h u
+056/117	duk	1	d u k
+056/121	thu	1	t h u
+056/123	tu	1	t u
+056/125	thu	1	t h u
+056/127	dhu	1	d h u
+056/129	theog	1	t h eo g
+056/131	thu	1	t h u
+056/133	thu	1	t h u
+056/135	tu	1	t u
+056/137	thu	1	t h u
+056/139	thu	1	t h u
+056/141	thu	1	t h u
+056/143	thu	1	t h u
+056/145	thu	1	t h u
+056/147	thu	1	t h u
+056/149	thu	1	t h u
+056/151	thu	1	t h u
+056/153	thu	1	t h u
+056/155	thu	1	t h u
+056/157	thu	1	t h u
+056/159	thu	1	t h u
+056/161	thu	1	t h u
+057/021	don	1	d o n
+057/023	donn	1	d o nn
+057/025	do	1	d o
+057/027	do	1	d o
+057/029	do	1	d o
+057/031	dunn	1	d u nn
+057/033	don	1	d o n
+057/035	do	1	d o
+057/037	dau	1	d au
+057/039	dau	1	d au
+057/041	dau	1	d au
+057/043	dau	1	d au
+057/045	dau	1	d au
+057/047	dau	1	d au
+057/049	dau	1	d au
+057/051	düh	1	d üh
+057/053	do	1	d o
+057/055	thu	1	t h u
+057/057	dü	1	d ü
+057/059	thü	1	t h ü
+057/061	thu	1	t h u
+057/063	du	1	d u
+057/065	thu	1	t h u
+057/067	thu	1	t h u
+057/069	thu	1	t h u
+057/071	dhuck	1	d h u ck
+057/073	douck	1	d ou ck
+057/075	duck	1	d u ck
+057/077	dock	1	d o ck
+057/079	tuck	1	t u ck
+057/081	thuk	1	t h u k
+057/083	leihk	1	l eih k
+057/085	duck	1	d u ck
+057/087	thuk	1	t h u k
+057/089	thuck	1	t h u ck
+057/091	thuck	1	t h u ck
+057/093	thuck	1	t h u ck
+057/095	du	1	d u
+057/097	leck	1	l e ck
+057/099	thuk	1	t h u k
+057/101	thu	1	t h u
+057/103	thu	1	t h u
+057/105	thu	1	t h u
+057/107	thu	1	t h u
+057/109	thuk	1	t h u k
+057/111	thu	1	t h u
+057/113	thu	1	t h u
+057/115	thu	1	t h u
+057/117	tuck	1	t u ck
+057/119	mach	1	m a ch
+057/121	thu	1	t h u
+057/123	thu	1	t h u
+057/125	thu	1	t h u
+057/127	schmeiss	1	sch m ei ss
+057/129	dhu	1	d h u
+057/131	dhu	1	d h u
+057/133	thu	1	t h u
+057/135	thui	1	t h ui
+057/137	thu	1	t h u
+057/139	thu	1	t h u
+057/141	thu	1	t h u
+057/143	thu	1	t h u
+057/145	thu	1	t h u
+057/147	thu	1	t h u
+057/149	thu	1	t h u
+057/151	thu	1	t h u
+057/153	thu	1	t h u
+057/155	thu	1	t h u
+057/157	thu	1	t h u
+057/159	thu	1	t h u
+057/161	thu	1	t h u
+058/019	doog	1	d oo g
+058/021	duh	1	d uh
+058/023	donn	1	d o nn
+058/025	do	1	d o
+058/027	do	1	d o
+058/029	donn	1	d o nn
+058/031	dunn	1	d u nn
+058/033	du	1	d u
+058/035	donn	1	d o nn
+058/037	dohn	1	d oh n
+058/039	dau	1	d au
+058/041	dau	1	d au
+058/043	dau	1	d au
+058/045	dhau	1	d h au
+058/047	dü	1	d ü
+058/049	dück	1	d ü ck
+058/051	dü	1	d ü
+058/053	dü	1	d ü
+058/055	dü	1	d ü
+058/057	thü	1	t h ü
+058/059	dü	1	d ü
+058/061	dhu	1	d h u
+058/063	duh	1	d uh
+058/065	mach	1	m a ch
+058/067	dhu	1	d h u
+058/069	tho	1	t h o
+058/071	thou	1	t h ou
+058/073	thuck	1	t h u ck
+058/075	dock	1	d o ck
+058/077	thu	1	t h u
+058/079	du	1	d u
+058/081	duck	1	d u ck
+058/083	duck	1	d u ck
+058/085	tuck	1	t u ck
+058/087	thuck	1	t h u ck
+058/089	thuk	1	t h u k
+058/091	thu	1	t h u
+058/093	thu	1	t h u
+058/095	thuk	1	t h u k
+058/097	duck	1	d u ck
+058/099	tuck	1	t u ck
+058/101	thu	1	t h u
+058/103	lek	1	l e k
+058/105	thu	1	t h u
+058/107	thuk	1	t h u k
+058/109	thuk	1	t h u k
+058/111	thu	1	t h u
+058/113	duh	1	d uh
+058/115	thu	1	t h u
+058/117	thu	1	t h u
+058/119	tu	1	t u
+058/121	tu	1	t u
+058/123	thu	1	t h u
+058/125	du	1	d u
+058/127	dhu	1	d h u
+058/129	liä	1	l iä
+058/131	du	1	d u
+058/133	thu	1	t h u
+058/135	thua	1	t h ua
+058/137	thu	1	t h u
+058/139	thu	1	t h u
+058/141	tu	1	t u
+058/143	thu	1	t h u
+058/145	thu	1	t h u
+058/147	thu	1	t h u
+058/149	thu	1	t h u
+058/151	thu	1	t h u
+058/153	tu	1	t u
+058/155	thu	1	t h u
+058/157	thu	1	t h u
+058/159	thu	1	t h u
+059/019	duog	1	d uo g
+059/021	dooch	1	d oo ch
+059/023	don	1	d o n
+059/025	do	1	d o
+059/027	donn	1	d o nn
+059/029	donn	1	d o nn
+059/031	dunn	1	d u nn
+059/033	du	1	d u
+059/035	donn	1	d o nn
+059/037	dhu	1	d h u
+059/039	dhu	1	d h u
+059/041	duu	1	d uu
+059/043	dö	1	d ö
+059/045	dö	1	d ö
+059/047	duck	1	d u ck
+059/049	duck	1	d u ck
+059/051	du	1	d u
+059/053	duh	1	d uh
+059/055	dhu	1	d h u
+059/057	du	1	d u
+059/059	mach	1	m a ch
+059/061	du	1	d u
+059/063	thu	1	t h u
+059/065	du	1	d u
+059/067	mach	1	m a ch
+059/069	thu	1	t h u
+059/071	thu	1	t h u
+059/073	tho	1	t h o
+059/075	duh	1	d uh
+059/077	thu	1	t h u
+059/079	du	1	d u
+059/081	thu	1	t h u
+059/083	thuk	1	t h u k
+059/085	thuk	1	t h u k
+059/087	thu	1	t h u
+059/089	thu	1	t h u
+059/091	thu	1	t h u
+059/093	thu	1	t h u
+059/095	leh	1	l eh
+059/097	dhu	1	d h u
+059/099	thu	1	t h u
+059/101	thu	1	t h u
+059/103	schmeiss	1	sch m ei ss
+059/105	thu	1	t h u
+059/107	dhu	1	d h u
+059/109	du	1	d u
+059/111	thu	1	t h u
+059/113	thu	1	t h u
+059/115	du	1	d u
+059/117	duh	1	d uh
+059/119	du	1	d u
+059/121	tu	1	t u
+059/123	thu	1	t h u
+059/125	thu	1	t h u
+059/127	schmeiss	1	sch m ei ss
+059/129	tu	1	t u
+059/131	tu	1	t u
+059/133	thu	1	t h u
+059/135	thu	1	t h u
+059/137	thu	1	t h u
+059/139	thu	1	t h u
+059/141	thu	1	t h u
+059/143	thu	1	t h u
+059/145	thu	1	t h u
+059/147	thu	1	t h u
+059/149	thu	1	t h u
+059/151	thu	1	t h u
+059/153	thu	1	t h u
+059/155	thu	1	t h u
+059/157	thu	1	t h u
+059/159	thu	1	t h u
+059/161	thu	1	t h u
+059/165	thu	1	t h u
+059/169	thu	1	t h u
+060/021	doch	1	d o ch
+060/023	doon	1	d oo n
+060/025	doon	1	d oo n
+060/027	doh	1	d oh
+060/029	donn	1	d o nn
+060/031	do	1	d o
+060/033	do	1	d o
+060/035	do	1	d o
+060/037	do	1	d o
+060/039	dhu	1	d h u
+060/041	döh	1	d öh
+060/043	dü	1	d ü
+060/045	tho	1	t h o
+060/047	duck	1	d u ck
+060/049	dou	1	d ou
+060/051	du	1	d u
+060/053	duh	1	d uh
+060/055	duh	1	d uh
+060/057	dhu	1	d h u
+060/059	du	1	d u
+060/061	du	1	d u
+060/063	dot	1	d o t
+060/065	do	1	d o
+060/067	do	1	d o
+060/069	thu	1	t h u
+060/071	thu	1	t h u
+060/073	thuk	1	t h u k
+060/075	tuck	1	t u ck
+060/077	duk	1	d u k
+060/079	dutt	1	d u tt
+060/081	duck	1	d u ck
+060/083	thuk	1	t h u k
+060/085	thu	1	t h u
+060/087	thu	1	t h u
+060/089	du	1	d u
+060/091	du	1	d u
+060/093	thu	1	t h u
+060/095	thu	1	t h u
+060/097	du	1	d u
+060/099	thu	1	t h u
+060/101	thu	1	t h u
+060/103	dhu	1	d h u
+060/105	du	1	d u
+060/107	thu	1	t h u
+060/109	duh	1	d uh
+060/111	thu	1	t h u
+060/113	thu	1	t h u
+060/115	thu	1	t h u
+060/117	du	1	d u
+060/119	tu	1	t u
+060/121	tu	1	t u
+060/123	tu	1	t u
+060/125	dhu	1	d h u
+060/127	tu	1	t u
+060/129	lee	1	l ee
+060/131	leei	1	l eei
+060/135	thu	1	t h u
+060/137	thu	1	t h u
+060/139	thu	1	t h u
+060/141	thu	1	t h u
+060/143	thu	1	t h u
+060/145	thu	1	t h u
+060/147	thu	1	t h u
+060/149	lege	1	l e g e
+060/151	thu	1	t h u
+060/153	thu	1	t h u
+060/155	thu	1	t h u
+060/157	tu	1	t u
+060/159	thu	1	t h u
+060/163	thu	1	t h u
+060/165	thu	1	t h u
+061/021	dög	1	d ö g
+061/023	döch	1	d ö ch
+061/025	donn	1	d o nn
+061/027	do	1	d o
+061/029	dohn	1	d oh n
+061/031	donn	1	d o nn
+061/033	don	1	d o n
+061/035	donn	1	d o nn
+061/037	do	1	d o
+061/039	don	1	d o n
+061/041	dö	1	d ö
+061/043	dhö	1	d h ö
+061/045	du	1	d u
+061/047	dou	1	d ou
+061/049	dow	1	d o w
+061/051	deau	1	d eau
+061/053	dau	1	d au
+061/055	dhoau	1	d h oau
+061/057	du	1	d u
+061/059	duh	1	d uh
+061/061	du	1	d u
+061/063	do	1	d o
+061/065	do	1	d o
+061/067	do	1	d o
+061/069	tho	1	t h o
+061/071	thu	1	t h u
+061/073	thu	1	t h u
+061/075	duh	1	d uh
+061/077	thue	1	t h ue
+061/079	thu	1	t h u
+061/081	thu	1	t h u
+061/083	duck	1	d u ck
+061/085	thu	1	t h u
+061/087	thu	1	t h u
+061/089	thu	1	t h u
+061/091	thu	1	t h u
+061/093	thu	1	t h u
+061/095	thu	1	t h u
+061/097	thu	1	t h u
+061/099	duh	1	d uh
+061/101	thu	1	t h u
+061/103	tu	1	t u
+061/105	thu	1	t h u
+061/107	du	1	d u
+061/109	duh	1	d uh
+061/111	thu	1	t h u
+061/113	thu	1	t h u
+061/115	du	1	d u
+061/117	tu	1	t u
+061/119	tuu	1	t uu
+061/121	du	1	d u
+061/123	tu	1	t u
+061/125	tu	1	t u
+061/127	tu	1	t u
+061/129	tu	1	t u
+061/131	tu	1	t u
+061/133	lej	1	l e j
+061/137	thu	1	t h u
+061/139	thu	1	t h u
+061/141	thu	1	t h u
+061/143	thu	1	t h u
+061/145	thu	1	t h u
+061/147	thu	1	t h u
+061/149	tu	1	t u
+061/151	thue	1	t h ue
+061/153	thu	1	t h u
+061/155	thu	1	t h u
+061/157	tu	1	t u
+061/159	lä	1	l ä
+061/161	schmäss	1	sch m ä ss
+061/165	thu	1	t h u
+062/021	deu	1	d eu
+062/023	dohch	1	d oh ch
+062/025	do	1	d o
+062/027	doon	1	d oo n
+062/029	do	1	d o
+062/031	dohn	1	d oh n
+062/033	donn	1	d o nn
+062/035	don	1	d o n
+062/037	dohn	1	d oh n
+062/039	doo	1	d oo
+062/041	do	1	d o
+062/043	do	1	d o
+062/045	dou	1	d ou
+062/047	dow	1	d o w
+062/049	dou	1	d ou
+062/051	dou	1	d ou
+062/053	dou	1	d ou
+062/055	thäu	1	t h äu
+062/057	dou	1	d ou
+062/059	duh	1	d uh
+062/061	dhu	1	d h u
+062/063	do	1	d o
+062/065	doh	1	d oh
+062/067	do	1	d o
+062/069	thu	1	t h u
+062/071	thu	1	t h u
+062/073	duu	1	d uu
+062/075	thue	1	t h ue
+062/077	thu	1	t h u
+062/079	thu	1	t h u
+062/081	thu	1	t h u
+062/083	tuck	1	t u ck
+062/085	thu	1	t h u
+062/087	thu	1	t h u
+062/089	duh	1	d uh
+062/091	thu	1	t h u
+062/093	thu	1	t h u
+062/095	thu	1	t h u
+062/097	thu	1	t h u
+062/099	du	1	d u
+062/101	thu	1	t h u
+062/103	thu	1	t h u
+062/105	thu	1	t h u
+062/107	duh	1	d uh
+062/109	thu	1	t h u
+062/111	le	1	l e
+062/113	gabb	1	g a bb
+062/115	tu	1	t u
+062/117	tu	1	t u
+062/119	tu	1	t u
+062/121	leer	1	l ee r
+062/123	tu	1	t u
+062/125	tu	1	t u
+062/127	tu	1	t u
+062/129	lä	1	l ä
+062/131	lee	1	l ee
+062/133	tu	1	t u
+062/135	tu	1	t u
+062/137	tuu	1	t uu
+062/139	tu	1	t u
+062/141	thu	1	t h u
+062/143	thu	1	t h u
+062/145	thu	1	t h u
+062/147	thu	1	t h u
+062/149	thu	1	t h u
+062/151	thu	1	t h u
+062/153	thu	1	t h u
+062/155	thu	1	t h u
+062/157	thu	1	t h u
+062/159	thu	1	t h u
+062/161	thu	1	t h u
+063/021	dü	1	d ü
+063/023	düg	1	d ü g
+063/025	dog	1	d o g
+063/027	doh	1	d oh
+063/029	don	1	d o n
+063/031	doh	1	d oh
+063/033	don	1	d o n
+063/035	don	1	d o n
+063/037	dohn	1	d oh n
+063/039	do	1	d o
+063/041	dho	1	d h o
+063/043	douh	1	d ouh
+063/045	doh	1	d oh
+063/047	dou	1	d ou
+063/049	dou	1	d ou
+063/051	dou	1	d ou
+063/053	thoa	1	t h oa
+063/055	dou	1	d ou
+063/057	doau	1	d oau
+063/059	dhu	1	d h u
+063/061	thu	1	t h u
+063/063	do	1	d o
+063/065	doh	1	d oh
+063/067	do	1	d o
+063/069	do	1	d o
+063/071	thue	1	t h ue
+063/073	thu	1	t h u
+063/075	dhu	1	d h u
+063/077	thu	1	t h u
+063/079	tock	1	t o ck
+063/081	tuck	1	t u ck
+063/083	thu	1	t h u
+063/085	thu	1	t h u
+063/087	thu	1	t h u
+063/089	thu	1	t h u
+063/091	thaau	1	t h aau
+063/093	thu	1	t h u
+063/095	thu	1	t h u
+063/097	thu	1	t h u
+063/099	leg	1	l e g
+063/101	thu	1	t h u
+063/103	duu	1	d uu
+063/105	thu	1	t h u
+063/107	thu	1	t h u
+063/109	du	1	d u
+063/111	tu	1	t u
+063/113	tu	1	t u
+063/115	lee	1	l ee
+063/117	ga	1	g a
+063/119	tu	1	t u
+063/121	tu	1	t u
+063/123	le	1	l e
+063/125	gib	1	g i b
+063/127	tu	1	t u
+063/135	tu	1	t u
+063/137	tu	1	t u
+063/139	leh	1	l eh
+063/141	lej	1	l e j
+063/143	tu	1	t u
+063/145	tu	1	t u
+063/147	thu	1	t h u
+063/149	thu	1	t h u
+063/151	thu	1	t h u
+063/153	schmeiss	1	sch m ei ss
+063/155	thu	1	t h u
+063/157	thu	1	t h u
+063/159	thu	1	t h u
+063/161	thu	1	t h u
+063/163	thu	1	t h u
+063/165	thu	1	t h u
+064/023	doch	1	d o ch
+064/025	to	1	t o
+064/027	don	1	d o n
+064/029	dhon	1	d h o n
+064/031	dhot	1	d h o t
+064/033	do	1	d o
+064/035	don	1	d o n
+064/037	du	1	d u
+064/039	do	1	d o
+064/041	du	1	d u
+064/043	dou	1	d ou
+064/045	dou	1	d ou
+064/047	dou	1	d ou
+064/049	dhou	1	d h ou
+064/051	dou	1	d ou
+064/053	dou	1	d ou
+064/055	dou	1	d ou
+064/057	dou	1	d ou
+064/059	du	1	d u
+064/061	do	1	d o
+064/063	do	1	d o
+064/065	do	1	d o
+064/067	do	1	d o
+064/069	duh	1	d uh
+064/071	thu	1	t h u
+064/073	thu	1	t h u
+064/075	thu	1	t h u
+064/077	thu	1	t h u
+064/079	thu	1	t h u
+064/081	thuck	1	t h u ck
+064/083	thu	1	t h u
+064/085	thu	1	t h u
+064/087	thu	1	t h u
+064/089	thu	1	t h u
+064/091	thu	1	t h u
+064/093	thu	1	t h u
+064/095	thu	1	t h u
+064/097	thu	1	t h u
+064/099	thu	1	t h u
+064/101	thu	1	t h u
+064/103	thu	1	t h u
+064/105	thu	1	t h u
+064/107	tu	1	t u
+064/109	tu	1	t u
+064/111	leech	1	l ee ch
+064/113	gab	1	g a b
+064/115	tu	1	t u
+064/117	tu	1	t u
+064/119	lej	1	l e j
+064/121	tu	1	t u
+064/123	tu	1	t u
+064/125	tu	1	t u
+064/127	tu	1	t u
+064/135	tu	1	t u
+064/137	tu	1	t u
+064/139	gib	1	g i b
+064/141	tu	1	t u
+064/143	tu	1	t u
+064/145	tu	1	t u
+064/147	thu	1	t h u
+064/149	thu	1	t h u
+064/151	thu	1	t h u
+064/153	thu	1	t h u
+064/155	thu	1	t h u
+064/157	thu	1	t h u
+064/159	thu	1	t h u
+065/021	doh	1	d oh
+065/023	do	1	d o
+065/025	doh	1	d oh
+065/027	dö	1	d ö
+065/029	do	1	d o
+065/031	do	1	d o
+065/033	do	1	d o
+065/035	do	1	d o
+065/037	do	1	d o
+065/039	dhi	1	d h i
+065/041	thi	1	t h i
+065/043	dou	1	d ou
+065/045	dou	1	d ou
+065/047	dou	1	d ou
+065/049	dou	1	d ou
+065/051	dou	1	d ou
+065/053	dou	1	d ou
+065/055	thou	1	t h ou
+065/057	daou	1	d aou
+065/059	dau	1	d au
+065/061	do	1	d o
+065/063	do	1	d o
+065/065	du	1	d u
+065/067	thu	1	t h u
+065/069	thu	1	t h u
+065/071	thou	1	t h ou
+065/073	tuu	1	t uu
+065/075	thu	1	t h u
+065/077	thu	1	t h u
+065/079	thu	1	t h u
+065/081	thu	1	t h u
+065/083	thu	1	t h u
+065/085	tu	1	t u
+065/087	dau	1	d au
+065/089	thou	1	t h ou
+065/091	thu	1	t h u
+065/093	dhu	1	d h u
+065/095	thu	1	t h u
+065/097	tuu	1	t uu
+065/101	thu	1	t h u
+065/103	thu	1	t h u
+065/105	lech	1	l e ch
+065/107	tu	1	t u
+065/109	tu	1	t u
+065/111	gib	1	g i b
+065/113	duu	1	d uu
+065/115	tu	1	t u
+065/121	ga	1	g a
+065/123	gib	1	g i b
+065/137	le	1	l e
+065/139	tu	1	t u
+065/143	thu	1	t h u
+065/145	thu	1	t h u
+065/147	thu	1	t h u
+065/149	thu	1	t h u
+065/151	tu	1	t u
+065/153	thu	1	t h u
+065/155	thu	1	t h u
+065/157	thu	1	t h u
+065/159	thu	1	t h u
+066/021	dohn	1	d oh n
+066/023	don	1	d o n
+066/025	doh	1	d oh
+066/027	dohn	1	d oh n
+066/029	du	1	d u
+066/031	don	1	d o n
+066/033	dohn	1	d oh n
+066/035	do	1	d o
+066/037	dö	1	d ö
+066/039	doh	1	d oh
+066/041	thou	1	t h ou
+066/043	dou	1	d ou
+066/045	thou	1	t h ou
+066/047	dou	1	d ou
+066/049	dou	1	d ou
+066/051	thou	1	t h ou
+066/053	dau	1	d au
+066/055	dou	1	d ou
+066/057	dou	1	d ou
+066/059	dou	1	d ou
+066/061	do	1	d o
+066/063	du	1	d u
+066/065	du	1	d u
+066/067	thu	1	t h u
+066/069	thu	1	t h u
+066/071	thou	1	t h ou
+066/073	thu	1	t h u
+066/075	thu	1	t h u
+066/077	thu	1	t h u
+066/079	thu	1	t h u
+066/081	thu	1	t h u
+066/083	thu	1	t h u
+066/085	thu	1	t h u
+066/087	tou	1	t ou
+066/089	thou	1	t h ou
+066/091	thu	1	t h u
+066/093	thu	1	t h u
+066/095	thu	1	t h u
+066/097	thu	1	t h u
+066/099	tu	1	t u
+066/101	lech	1	l e ch
+066/103	tu	1	t u
+066/105	tu	1	t u
+066/107	tu	1	t u
+066/109	tu	1	t u
+066/111	tuu	1	t uu
+066/113	gib	1	g i b
+066/121	ga	1	g a
+066/139	tu	1	t u
+066/143	tu	1	t u
+066/145	thu	1	t h u
+066/147	thu	1	t h u
+066/149	thu	1	t h u
+066/151	thu	1	t h u
+066/153	lää	1	l ää
+066/155	tu	1	t u
+066/157	thu	1	t h u
+066/159	läh	1	l äh
+066/161	thu	1	t h u
+066/163	tu	1	t u
+067/021	do	1	d o
+067/023	doh	1	d oh
+067/025	du	1	d u
+067/027	doh	1	d oh
+067/029	du	1	d u
+067/031	duhn	1	d uh n
+067/033	dö	1	d ö
+067/035	doh	1	d oh
+067/037	do	1	d o
+067/039	döh	1	d öh
+067/041	dou	1	d ou
+067/043	dou	1	d ou
+067/045	dou	1	d ou
+067/047	dou	1	d ou
+067/049	tou	1	t ou
+067/051	döu	1	d öu
+067/053	dou	1	d ou
+067/055	dou	1	d ou
+067/057	doau	1	d oau
+067/059	dou	1	d ou
+067/061	do	1	d o
+067/063	dhu	1	d h u
+067/065	thu	1	t h u
+067/067	thua	1	t h ua
+067/069	thua	1	t h ua
+067/071	thua	1	t h ua
+067/073	thu	1	t h u
+067/075	thua	1	t h ua
+067/077	thu	1	t h u
+067/079	thu	1	t h u
+067/081	thu	1	t h u
+067/083	thu	1	t h u
+067/085	tu	1	t u
+067/087	thu	1	t h u
+067/089	thu	1	t h u
+067/091	tu	1	t u
+067/093	tou	1	t ou
+067/095	tho	1	t h o
+067/097	thou	1	t h ou
+067/099	tou	1	t ou
+067/101	tou	1	t ou
+067/103	tou	1	t ou
+067/105	tou	1	t ou
+067/107	tu	1	t u
+067/109	tu	1	t u
+067/111	tu	1	t u
+067/113	tuu	1	t uu
+067/143	tu	1	t u
+067/145	tu	1	t u
+067/147	thu	1	t h u
+067/149	thu	1	t h u
+067/151	thu	1	t h u
+067/153	tu	1	t u
+067/155	tu	1	t u
+067/157	lä	1	l ä
+067/159	thu	1	t h u
+067/161	läh	1	l äh
+067/163	thu	1	t h u
+067/165	thü	1	t h ü
+067/177	thu	1	t h u
+068/021	doo	1	d oo
+068/023	du	1	d u
+068/025	du	1	d u
+068/027	doh	1	d oh
+068/029	doh	1	d oh
+068/031	duh	1	d uh
+068/033	do	1	d o
+068/035	deh	1	d eh
+068/037	do	1	d o
+068/039	duh	1	d uh
+068/041	dou	1	d ou
+068/043	dou	1	d ou
+068/045	dou	1	d ou
+068/047	dou	1	d ou
+068/049	thou	1	t h ou
+068/051	dou	1	d ou
+068/053	dou	1	d ou
+068/055	dhou	1	d h ou
+068/057	doau	1	d oau
+068/059	dou	1	d ou
+068/061	do	1	d o
+068/063	dua	1	d ua
+068/065	thu	1	t h u
+068/067	mach	1	m a ch
+068/069	duh	1	d uh
+068/071	thu	1	t h u
+068/073	thua	1	t h ua
+068/075	thua	1	t h ua
+068/077	thu	1	t h u
+068/079	thu	1	t h u
+068/081	thu	1	t h u
+068/083	tu	1	t u
+068/085	thu	1	t h u
+068/087	thu	1	t h u
+068/089	thu	1	t h u
+068/091	thu	1	t h u
+068/093	tou	1	t ou
+068/095	tou	1	t ou
+068/097	dou	1	d ou
+068/099	schiar	1	sch ia r
+068/101	schia	1	sch ia
+068/103	tou	1	t ou
+068/105	tou	1	t ou
+068/107	tou	1	t ou
+068/109	schier	1	sch ie r
+068/111	tu	1	t u
+068/145	tu	1	t u
+068/147	lee	1	l ee
+068/149	thu	1	t h u
+068/151	tu	1	t u
+068/153	tu	1	t u
+068/155	tu	1	t u
+068/157	tu	1	t u
+068/159	tu	1	t u
+068/161	tu	1	t u
+068/165	thu	1	t h u
+069/019	doo	1	d oo
+069/023	du	1	d u
+069/025	du	1	d u
+069/027	do	1	d o
+069/029	du	1	d u
+069/031	do	1	d o
+069/033	do	1	d o
+069/035	de	1	d e
+069/037	du	1	d u
+069/039	du	1	d u
+069/041	dou	1	d ou
+069/043	thu	1	t h u
+069/045	dhu	1	d h u
+069/047	dhu	1	d h u
+069/049	thou	1	t h ou
+069/051	duh	1	d uh
+069/053	du	1	d u
+069/055	dou	1	d ou
+069/057	tho	1	t h o
+069/059	do	1	d o
+069/061	do	1	d o
+069/063	thu	1	t h u
+069/065	thuat	1	t h ua t
+069/067	thua	1	t h ua
+069/069	thua	1	t h ua
+069/071	du	1	d u
+069/073	thua	1	t h ua
+069/075	thua	1	t h ua
+069/077	thu	1	t h u
+069/079	tu	1	t u
+069/081	thu	1	t h u
+069/083	thu	1	t h u
+069/085	thu	1	t h u
+069/087	du	1	d u
+069/089	thu	1	t h u
+069/091	thu	1	t h u
+069/093	tou	1	t ou
+069/095	tou	1	t ou
+069/097	tou	1	t ou
+069/099	tou	1	t ou
+069/101	tou	1	t ou
+069/103	tou	1	t ou
+069/105	tau	1	t au
+069/107	tau	1	t au
+069/109	tu	1	t u
+069/111	tu	1	t u
+069/147	tu	1	t u
+069/149	tu	1	t u
+069/151	tu	1	t u
+069/153	tu	1	t u
+069/157	tu	1	t u
+069/159	thu	1	t h u
+069/161	tu	1	t u
+069/163	thu	1	t h u
+069/165	leen	1	l ee n
+070/019	duung	1	d uu ng
+070/023	du	1	d u
+070/025	du	1	d u
+070/027	do	1	d o
+070/029	do	1	d o
+070/031	do	1	d o
+070/033	do	1	d o
+070/035	do	1	d o
+070/037	do	1	d o
+070/039	dhu	1	d h u
+070/041	du	1	d u
+070/043	du	1	d u
+070/045	du	1	d u
+070/047	duh	1	d uh
+070/049	dou	1	d ou
+070/051	dou	1	d ou
+070/053	thu	1	t h u
+070/055	dou	1	d ou
+070/057	dou	1	d ou
+070/059	thou	1	t h ou
+070/061	tho	1	t h o
+070/063	thua	1	t h ua
+070/065	thu	1	t h u
+070/067	thua	1	t h ua
+070/069	thua	1	t h ua
+070/071	tua	1	t ua
+070/073	thün	1	t h ü n
+070/075	thu	1	t h u
+070/077	thu	1	t h u
+070/079	thu	1	t h u
+070/081	tuu	1	t uu
+070/083	thu	1	t h u
+070/085	tu	1	t u
+070/087	thu	1	t h u
+070/089	tu	1	t u
+070/091	tou	1	t ou
+070/093	thou	1	t h ou
+070/095	tou	1	t ou
+070/097	tou	1	t ou
+070/099	tou	1	t ou
+070/101	schüa	1	sch üa
+070/103	schier	1	sch ie r
+070/105	tou	1	t ou
+070/107	tou	1	t ou
+070/109	tou	1	t ou
+070/111	tou	1	t ou
+070/145	leg	1	l e g
+070/147	tu	1	t u
+070/149	tuok	1	t uo k
+070/151	tu	1	t u
+070/153	tu	1	t u
+070/155	tuu	1	t uu
+070/157	tu	1	t u
+070/159	tu	1	t u
+070/161	tu	1	t u
+070/163	läh	1	l äh
+070/165	tu	1	t u
+071/017	le	1	l e
+071/019	dunk	1	d u n k
+071/021	do	1	d o
+071/023	do	1	d o
+071/025	do	1	d o
+071/027	do	1	d o
+071/029	thu	1	t h u
+071/031	do	1	d o
+071/033	dhou	1	d h ou
+071/035	dhu	1	d h u
+071/037	dhu	1	d h u
+071/039	dhu	1	d h u
+071/041	du	1	d u
+071/043	du	1	d u
+071/045	duh	1	d uh
+071/047	duh	1	d uh
+071/049	dhu	1	d h u
+071/051	du	1	d u
+071/053	dou	1	d ou
+071/055	doau	1	d oau
+071/057	thou	1	t h ou
+071/059	dou	1	d ou
+071/063	thue	1	t h ue
+071/065	thua	1	t h ua
+071/067	due	1	d ue
+071/069	thua	1	t h ua
+071/071	thua	1	t h ua
+071/073	thua	1	t h ua
+071/075	thua	1	t h ua
+071/077	thu	1	t h u
+071/079	thu	1	t h u
+071/081	thu	1	t h u
+071/083	tu	1	t u
+071/085	thu	1	t h u
+071/087	tu	1	t u
+071/089	du	1	d u
+071/091	dou	1	d ou
+071/093	dou	1	d ou
+071/095	dou	1	d ou
+071/097	dou	1	d ou
+071/099	tou	1	t ou
+071/101	tou	1	t ou
+071/103	liäch	1	l iä ch
+071/105	tou	1	t ou
+071/145	tu	1	t u
+071/147	tu	1	t u
+071/149	tu	1	t u
+071/151	tu	1	t u
+071/153	tu	1	t u
+071/155	tu	1	t u
+071/157	tu	1	t u
+071/159	tu	1	t u
+071/161	tu	1	t u
+071/163	tu	1	t u
+071/177	ga	1	g a
+071/179	tu	1	t u
+072/017	de	1	d e
+072/019	duu	1	d uu
+072/021	duong	1	d uo ng
+072/023	dii	1	d ii
+072/025	dih	1	d ih
+072/027	do	1	d o
+072/029	duo	1	d uo
+072/031	dou	1	d ou
+072/033	dii	1	d ii
+072/035	du	1	d u
+072/037	du	1	d u
+072/039	du	1	d u
+072/041	duh	1	d uh
+072/043	du	1	d u
+072/045	duh	1	d uh
+072/047	dhu	1	d h u
+072/049	duh	1	d uh
+072/051	duh	1	d uh
+072/053	dou	1	d ou
+072/055	dou	1	d ou
+072/057	dou	1	d ou
+072/059	thou	1	t h ou
+072/061	thu	1	t h u
+072/063	thu	1	t h u
+072/065	dua	1	d ua
+072/067	thua	1	t h ua
+072/069	thua	1	t h ua
+072/071	thua	1	t h ua
+072/073	du	1	d u
+072/075	thu	1	t h u
+072/077	thu	1	t h u
+072/079	thu	1	t h u
+072/081	thu	1	t h u
+072/083	thu	1	t h u
+072/085	thu	1	t h u
+072/087	thu	1	t h u
+072/089	thu	1	t h u
+072/091	thou	1	t h ou
+072/093	thou	1	t h ou
+072/095	dou	1	d ou
+072/097	dou	1	d ou
+072/099	tou	1	t ou
+072/101	schie	1	sch ie
+072/103	tou	1	t ou
+072/105	tou	1	t ou
+072/107	tou	1	t ou
+072/145	tjou	1	t j ou
+072/147	tu	1	t u
+072/149	tou	1	t ou
+072/151	toou	1	t oou
+072/153	tu	1	t u
+072/155	tu	1	t u
+072/157	leg	1	l e g
+072/159	tu	1	t u
+072/161	tu	1	t u
+072/177	gej	1	g e j
+072/179	tu	1	t u
+072/181	tou	1	t ou
+073/017	de	1	d e
+073/019	de	1	d e
+073/021	de	1	d e
+073/023	däi	1	d äi
+073/025	dou	1	d ou
+073/027	duh	1	d uh
+073/029	dieh	1	d ieh
+073/031	däi	1	d äi
+073/033	dou	1	d ou
+073/035	du	1	d u
+073/037	dou	1	d ou
+073/039	dhu	1	d h u
+073/041	thu	1	t h u
+073/043	du	1	d u
+073/045	du	1	d u
+073/047	du	1	d u
+073/049	duh	1	d uh
+073/051	du	1	d u
+073/053	duh	1	d uh
+073/055	dou	1	d ou
+073/057	doau	1	d oau
+073/059	du	1	d u
+073/061	du	1	d u
+073/063	thua	1	t h ua
+073/065	thua	1	t h ua
+073/067	thue	1	t h ue
+073/069	thua	1	t h ua
+073/071	thua	1	t h ua
+073/073	thua	1	t h ua
+073/075	thu	1	t h u
+073/077	duu	1	d uu
+073/079	du	1	d u
+073/081	thu	1	t h u
+073/083	thu	1	t h u
+073/085	du	1	d u
+073/087	du	1	d u
+073/089	thou	1	t h ou
+073/091	döu	1	d öu
+073/093	thou	1	t h ou
+073/095	dou	1	d ou
+073/097	dua	1	d ua
+073/099	tou	1	t ou
+073/101	tou	1	t ou
+073/103	tou	1	t ou
+073/105	tou	1	t ou
+073/107	tou	1	t ou
+073/145	tjou	1	t j ou
+073/147	tio	1	t io
+073/149	tou	1	t ou
+073/151	tou	1	t ou
+073/153	tu	1	t u
+073/155	tu	1	t u
+073/157	tu	1	t u
+073/159	tu	1	t u
+073/161	tu	1	t u
+073/163	tu	1	t u
+073/165	tu	1	t u
+073/175	tuu	1	t uu
+073/177	gej	1	g e j
+074/019	deu	1	d eu
+074/021	duh	1	d uh
+074/023	dong	1	d o ng
+074/025	do	1	d o
+074/027	dieh	1	d ieh
+074/029	dai	1	d ai
+074/031	dhei	1	d h ei
+074/033	däi	1	d äi
+074/035	duh	1	d uh
+074/037	dhu	1	d h u
+074/039	thu	1	t h u
+074/041	duh	1	d uh
+074/043	du	1	d u
+074/045	du	1	d u
+074/047	duh	1	d uh
+074/049	duh	1	d uh
+074/051	duh	1	d uh
+074/053	du	1	d u
+074/055	daou	1	d aou
+074/057	dou	1	d ou
+074/059	thou	1	t h ou
+074/061	dhu	1	d h u
+074/063	du	1	d u
+074/065	dhua	1	d h ua
+074/067	thua	1	t h ua
+074/069	du	1	d u
+074/071	to	1	t o
+074/073	thu	1	t h u
+074/075	thu	1	t h u
+074/077	thu	1	t h u
+074/079	thu	1	t h u
+074/081	thu	1	t h u
+074/083	thu	1	t h u
+074/085	dou	1	d ou
+074/087	thou	1	t h ou
+074/089	thua	1	t h ua
+074/091	doou	1	d oou
+074/093	thaou	1	t h aou
+074/095	tou	1	t ou
+074/097	dou	1	d ou
+074/099	tou	1	t ou
+074/101	tou	1	t ou
+074/103	tou	1	t ou
+074/105	tou	1	t ou
+074/107	tou	1	t ou
+074/109	tou	1	t ou
+074/145	toou	1	t oou
+074/147	tou	1	t ou
+074/149	tau	1	t au
+074/153	ge	1	g e
+074/155	tu	1	t u
+074/157	tu	1	t u
+074/159	moach	1	m oa ch
+074/161	thu	1	t h u
+074/163	läh	1	l äh
+074/165	tu	1	t u
+075/019	de	1	d e
+075/021	do	1	d o
+075/023	dong	1	d o ng
+075/025	deh	1	d eh
+075/027	däi	1	d äi
+075/029	dei	1	d ei
+075/031	dih	1	d ih
+075/033	duh	1	d uh
+075/035	du	1	d u
+075/037	leg	1	l e g
+075/039	du	1	d u
+075/041	duh	1	d uh
+075/043	thu	1	t h u
+075/045	dhu	1	d h u
+075/047	duh	1	d uh
+075/049	dhu	1	d h u
+075/051	duh	1	d uh
+075/053	duh	1	d uh
+075/055	dou	1	d ou
+075/057	dou	1	d ou
+075/059	doo	1	d oo
+075/061	du	1	d u
+075/063	duh	1	d uh
+075/065	don	1	d o n
+075/067	thua	1	t h ua
+075/069	thua	1	t h ua
+075/071	thua	1	t h ua
+075/073	du	1	d u
+075/075	thu	1	t h u
+075/077	thu	1	t h u
+075/079	thu	1	t h u
+075/081	thu	1	t h u
+075/083	thou	1	t h ou
+075/085	thou	1	t h ou
+075/087	dou	1	d ou
+075/089	dou	1	d ou
+075/091	dou	1	d ou
+075/093	dou	1	d ou
+075/095	däu	1	d äu
+075/097	dou	1	d ou
+075/099	tou	1	t ou
+075/101	schia	1	sch ia
+075/103	tou	1	t ou
+075/105	tou	1	t ou
+075/107	tou	1	t ou
+075/135	teju	1	t e j u
+075/145	tieu	1	t ieu
+075/147	täu	1	t äu
+075/149	lieg	1	l ie g
+075/155	tu	1	t u
+075/157	moch	1	m o ch
+075/159	tu	1	t u
+075/161	tu	1	t u
+075/163	tu	1	t u
+075/165	tu	1	t u
+076/019	de	1	d e
+076/021	de	1	d e
+076/023	maach	1	m aa ch
+076/025	döu	1	d öu
+076/027	dhei	1	d h ei
+076/029	le	1	l e
+076/033	duh	1	d uh
+076/035	dhu	1	d h u
+076/037	du	1	d u
+076/039	dhu	1	d h u
+076/041	due	1	d ue
+076/043	duh	1	d uh
+076/045	du	1	d u
+076/047	duh	1	d uh
+076/049	du	1	d u
+076/051	du	1	d u
+076/053	du	1	d u
+076/055	thau	1	t h au
+076/057	dau	1	d au
+076/059	dhu	1	d h u
+076/061	dou	1	d ou
+076/063	du	1	d u
+076/065	thu	1	t h u
+076/067	dua	1	d ua
+076/069	doa	1	d oa
+076/071	thue	1	t h ue
+076/073	tu	1	t u
+076/075	tu	1	t u
+076/077	du	1	d u
+076/079	dou	1	d ou
+076/081	thou	1	t h ou
+076/083	thou	1	t h ou
+076/085	tou	1	t ou
+076/087	tou	1	t ou
+076/089	thou	1	t h ou
+076/091	dou	1	d ou
+076/093	dou	1	d ou
+076/095	tou	1	t ou
+076/097	thou	1	t h ou
+076/099	dou	1	d ou
+076/101	tou	1	t ou
+076/103	tou	1	t ou
+076/135	tou	1	t ou
+076/137	täu	1	t äu
+076/149	tu	1	t u
+076/151	tu	1	t u
+076/155	gäh	1	g äh
+076/161	tu	1	t u
+076/163	gär	1	g ä r
+076/165	le	1	l e
+077/019	dei	1	d ei
+077/021	dong	1	d o ng
+077/023	dong	1	d o ng
+077/025	du	1	d u
+077/027	de	1	d e
+077/029	dej	1	d e j
+077/031	dou	1	d ou
+077/033	duh	1	d uh
+077/035	duh	1	d uh
+077/037	dhu	1	d h u
+077/039	dhu	1	d h u
+077/041	dhu	1	d h u
+077/043	dhuu	1	d h uu
+077/047	dhu	1	d h u
+077/049	dhu	1	d h u
+077/051	duh	1	d uh
+077/053	du	1	d u
+077/055	du	1	d u
+077/057	du	1	d u
+077/059	du	1	d u
+077/061	dhu	1	d h u
+077/063	du	1	d u
+077/065	dua	1	d ua
+077/067	doun	1	d ou n
+077/069	doand	1	d oa n d
+077/071	thua	1	t h ua
+077/073	thu	1	t h u
+077/075	thu	1	t h u
+077/077	thu	1	t h u
+077/079	thou	1	t h ou
+077/081	thou	1	t h ou
+077/083	thou	1	t h ou
+077/085	thou	1	t h ou
+077/087	tou	1	t ou
+077/089	dou	1	d ou
+077/091	thou	1	t h ou
+077/093	thou	1	t h ou
+077/095	dou	1	d ou
+077/097	dou	1	d ou
+077/099	dou	1	d ou
+077/101	dou	1	d ou
+077/103	tou	1	t ou
+077/135	tou	1	t ou
+077/137	tau	1	t au
+078/021	dong	1	d o ng
+078/023	du	1	d u
+078/025	de	1	d e
+078/027	dou	1	d ou
+078/029	dehi	1	d e h i
+078/031	dhu	1	d h u
+078/033	duh	1	d uh
+078/035	du	1	d u
+078/037	du	1	d u
+078/039	dhu	1	d h u
+078/041	du	1	d u
+078/045	dhu	1	d h u
+078/047	du	1	d u
+078/049	dhu	1	d h u
+078/051	duh	1	d uh
+078/053	dhu	1	d h u
+078/055	du	1	d u
+078/057	tu	1	t u
+078/059	duh	1	d uh
+078/061	dhu	1	d h u
+078/063	dhu	1	d h u
+078/065	dua	1	d ua
+078/067	doa	1	d oa
+078/069	don	1	d o n
+078/071	doan	1	d oa n
+078/073	tu	1	t u
+078/075	thu	1	t h u
+078/077	thu	1	t h u
+078/079	thu	1	t h u
+078/081	dou	1	d ou
+078/083	thou	1	t h ou
+078/085	dou	1	d ou
+078/087	doou	1	d oou
+078/089	dou	1	d ou
+078/091	thou	1	t h ou
+078/093	thoou	1	t h oou
+078/095	thou	1	t h ou
+078/097	dou	1	d ou
+078/099	dou	1	d ou
+078/101	tou	1	t ou
+078/103	tou	1	t ou
+078/105	tou	1	t ou
+078/135	tou	1	t ou
+078/193	thu	1	t h u
+079/021	du	1	d u
+079/023	dieh	1	d ieh
+079/025	di	1	d i
+079/027	dou	1	d ou
+079/029	duh	1	d uh
+079/031	dhu	1	d h u
+079/033	du	1	d u
+079/035	du	1	d u
+079/037	duh	1	d uh
+079/039	dhu	1	d h u
+079/043	duh	1	d uh
+079/045	duh	1	d uh
+079/047	duh	1	d uh
+079/049	dhu	1	d h u
+079/051	duh	1	d uh
+079/053	dhu	1	d h u
+079/055	du	1	d u
+079/057	du	1	d u
+079/059	du	1	d u
+079/061	dua	1	d ua
+079/063	dua	1	d ua
+079/065	thua	1	t h ua
+079/067	dua	1	d ua
+079/069	doä	1	d oä
+079/071	thua	1	t h ua
+079/073	thu	1	t h u
+079/075	thu	1	t h u
+079/077	thu	1	t h u
+079/079	thou	1	t h ou
+079/081	thou	1	t h ou
+079/083	thuo	1	t h uo
+079/085	dou	1	d ou
+079/087	thou	1	t h ou
+079/089	dou	1	d ou
+079/091	thou	1	t h ou
+079/093	dou	1	d ou
+079/095	tou	1	t ou
+079/097	dou	1	d ou
+079/099	dau	1	d au
+079/101	dou	1	d ou
+079/103	daou	1	d aou
+079/105	tou	1	t ou
+079/107	tou	1	t ou
+079/133	tou	1	t ou
+079/135	tou	1	t ou
+079/193	tu	1	t u
+079/195	leg	1	l e g
+079/197	tu	1	t u
+080/025	dou	1	d ou
+080/027	duh	1	d uh
+080/029	duh	1	d uh
+080/031	dhu	1	d h u
+080/033	schier	1	sch ie r
+080/035	du	1	d u
+080/037	duh	1	d uh
+080/039	dhu	1	d h u
+080/041	dhu	1	d h u
+080/043	dhu	1	d h u
+080/045	dhu	1	d h u
+080/047	duh	1	d uh
+080/049	do	1	d o
+080/051	dunn	1	d u nn
+080/053	du	1	d u
+080/055	duh	1	d uh
+080/057	du	1	d u
+080/059	du	1	d u
+080/061	duua	1	d uua
+080/063	dua	1	d ua
+080/065	dua	1	d ua
+080/067	doa	1	d oa
+080/069	dua	1	d ua
+080/071	thua	1	t h ua
+080/073	thua	1	t h ua
+080/075	thua	1	t h ua
+080/077	dua	1	d ua
+080/079	dou	1	d ou
+080/081	thou	1	t h ou
+080/083	thou	1	t h ou
+080/085	dou	1	d ou
+080/087	thou	1	t h ou
+080/089	thou	1	t h ou
+080/091	dua	1	d ua
+080/093	tau	1	t au
+080/095	dou	1	d ou
+080/097	döu	1	d öu
+080/099	tou	1	t ou
+080/101	dou	1	d ou
+080/103	tau	1	t au
+080/105	dou	1	d ou
+080/107	tou	1	t ou
+080/109	leg	1	l e g
+080/127	tui	1	t ui
+080/147	gib	1	g i b
+080/151	tua	1	t ua
+080/153	tua	1	t ua
+080/193	tu	1	t u
+080/195	tu	1	t u
+081/025	dee	1	d ee
+081/027	duh	1	d uh
+081/029	duh	1	d uh
+081/031	duh	1	d uh
+081/033	duu	1	d uu
+081/035	duh	1	d uh
+081/037	dhu	1	d h u
+081/039	thu	1	t h u
+081/043	dhu	1	d h u
+081/045	dhu	1	d h u
+081/047	du	1	d u
+081/049	dhu	1	d h u
+081/051	do	1	d o
+081/053	doh	1	d oh
+081/055	du	1	d u
+081/057	dua	1	d ua
+081/059	thua	1	t h ua
+081/061	due	1	d ue
+081/063	thue	1	t h ue
+081/065	dua	1	d ua
+081/067	dua	1	d ua
+081/069	dua	1	d ua
+081/071	dua	1	d ua
+081/073	thu	1	t h u
+081/075	tua	1	t ua
+081/077	thua	1	t h ua
+081/079	dou	1	d ou
+081/081	daau	1	d aau
+081/083	thou	1	t h ou
+081/085	taou	1	t aou
+081/087	dou	1	d ou
+081/089	dua	1	d ua
+081/091	dou	1	d ou
+081/093	dou	1	d ou
+081/095	dou	1	d ou
+081/097	dou	1	d ou
+081/099	daou	1	d aou
+081/101	thaaot	1	t h aao t
+081/103	thou	1	t h ou
+081/105	dou	1	d ou
+081/107	tou	1	t ou
+081/109	tua	1	t ua
+081/111	tua	1	t ua
+081/127	leig	1	l ei g
+081/129	tui	1	t ui
+081/133	tui	1	t ui
+081/147	tui	1	t ui
+081/191	tu	1	t u
+081/193	leg	1	l e g
+081/195	onleg	1	o n l e g
+082/027	de	1	d e
+082/029	dhu	1	d h u
+082/031	du	1	d u
+082/033	doo	1	d oo
+082/035	duh	1	d uh
+082/037	le	1	l e
+082/039	du	1	d u
+082/041	du	1	d u
+082/043	mach	1	m a ch
+082/045	duh	1	d uh
+082/047	dhuu	1	d h uu
+082/049	duu	1	d uu
+082/051	do	1	d o
+082/053	dua	1	d ua
+082/055	dua	1	d ua
+082/057	dua	1	d ua
+082/059	dua	1	d ua
+082/061	dua	1	d ua
+082/063	dua	1	d ua
+082/065	dua	1	d ua
+082/067	dua	1	d ua
+082/069	dua	1	d ua
+082/071	thua	1	t h ua
+082/073	thua	1	t h ua
+082/075	thu	1	t h u
+082/077	thua	1	t h ua
+082/079	thou	1	t h ou
+082/081	thou	1	t h ou
+082/083	tou	1	t ou
+082/085	thou	1	t h ou
+082/087	tua	1	t ua
+082/089	thau	1	t h au
+082/091	dou	1	d ou
+082/093	dou	1	d ou
+082/095	dou	1	d ou
+082/097	dou	1	d ou
+082/099	thoou	1	t h oou
+082/101	dou	1	d ou
+082/103	dou	1	d ou
+082/105	dua	1	d ua
+082/107	thua	1	t h ua
+082/111	tua	1	t ua
+082/113	tua	1	t ua
+082/117	leg	1	l e g
+082/129	tua	1	t ua
+082/131	gib	1	g i b
+082/133	gib	1	g i b
+082/135	gib	1	g i b
+082/145	tui	1	t ui
+082/147	tui	1	t ui
+082/191	tu	1	t u
+082/195	tu	1	t u
+083/027	dou	1	d ou
+083/029	du	1	d u
+083/031	duh	1	d uh
+083/033	mach	1	m a ch
+083/035	du	1	d u
+083/037	mach	1	m a ch
+083/039	macha	1	m a ch a
+083/041	düe	1	d üe
+083/043	duuh	1	d uuh
+083/045	mach	1	m a ch
+083/047	du	1	d u
+083/049	du	1	d u
+083/051	du	1	d u
+083/053	dua	1	d ua
+083/055	duua	1	d uua
+083/057	duar	1	d ua r
+083/059	dua	1	d ua
+083/061	dua	1	d ua
+083/063	dua	1	d ua
+083/065	dua	1	d ua
+083/067	dua	1	d ua
+083/069	dua	1	d ua
+083/071	dua	1	d ua
+083/073	dua	1	d ua
+083/075	thua	1	t h ua
+083/077	du	1	d u
+083/079	thou	1	t h ou
+083/081	thou	1	t h ou
+083/083	thou	1	t h ou
+083/085	dou	1	d ou
+083/087	doou	1	d oou
+083/089	dua	1	d ua
+083/091	dua	1	d ua
+083/093	daou	1	d aou
+083/095	dou	1	d ou
+083/097	thou	1	t h ou
+083/099	dua	1	d ua
+083/101	thou	1	t h ou
+083/103	dua	1	d ua
+083/105	dou	1	d ou
+083/107	thur	1	t h u r
+083/111	tua	1	t ua
+083/113	tua	1	t ua
+083/115	tua	1	t ua
+083/117	tua	1	t ua
+083/119	tua	1	t ua
+083/121	lejg	1	l e j g
+083/129	tui	1	t ui
+083/131	tui	1	t ui
+083/133	tui	1	t ui
+083/135	gib	1	g i b
+083/139	tui	1	t ui
+083/143	tui	1	t ui
+083/145	tui	1	t ui
+083/147	tui	1	t ui
+083/149	leg	1	l e g
+083/173	to	1	t o
+083/195	tu	1	t u
+084/031	du	1	d u
+084/033	duh	1	d uh
+084/035	duu	1	d uu
+084/037	mach	1	m a ch
+084/039	moch	1	m o ch
+084/041	thoa	1	t h oa
+084/043	mach	1	m a ch
+084/045	du	1	d u
+084/047	du	1	d u
+084/049	du	1	d u
+084/051	due	1	d ue
+084/053	du	1	d u
+084/055	thua	1	t h ua
+084/057	dua	1	d ua
+084/059	dua	1	d ua
+084/061	dua	1	d ua
+084/063	dua	1	d ua
+084/065	dua	1	d ua
+084/067	dua	1	d ua
+084/069	schier	1	sch ie r
+084/071	due	1	d ue
+084/073	dua	1	d ua
+084/075	dua	1	d ua
+084/077	dhua	1	d h ua
+084/079	dua	1	d ua
+084/081	thou	1	t h ou
+084/083	thou	1	t h ou
+084/085	thau	1	t h au
+084/087	dou	1	d ou
+084/089	dua	1	d ua
+084/091	duo	1	d uo
+084/093	thua	1	t h ua
+084/095	dou	1	d ou
+084/097	dao	1	d ao
+084/099	thua	1	t h ua
+084/101	dua	1	d ua
+084/103	dua	1	d ua
+084/105	thua	1	t h ua
+084/107	thua	1	t h ua
+084/109	dua	1	d ua
+084/111	dua	1	d ua
+084/113	tu	1	t u
+084/115	tua	1	t ua
+084/117	tua	1	t ua
+084/119	tua	1	t ua
+084/129	tui	1	t ui
+084/131	dui	1	d ui
+084/133	tui	1	t ui
+084/135	tui	1	t ui
+084/137	tui	1	t ui
+084/139	tui	1	t ui
+084/141	tua	1	t ua
+084/143	tui	1	t ui
+084/145	tui	1	t ui
+084/147	tui	1	t ui
+084/149	tui	1	t ui
+084/171	tu	1	t u
+084/173	tu	1	t u
+084/195	läg	1	l ä g
+085/031	duh	1	d uh
+085/033	du	1	d u
+085/035	duh	1	d uh
+085/037	dua	1	d ua
+085/039	lei	1	l ei
+085/041	due	1	d ue
+085/043	mach	1	m a ch
+085/045	mach	1	m a ch
+085/047	duh	1	d uh
+085/049	du	1	d u
+085/051	dua	1	d ua
+085/053	dua	1	d ua
+085/055	dhuar	1	d h ua r
+085/057	dua	1	d ua
+085/059	dhua	1	d h ua
+085/061	dua	1	d ua
+085/063	dua	1	d ua
+085/065	dua	1	d ua
+085/067	dua	1	d ua
+085/069	dua	1	d ua
+085/071	dua	1	d ua
+085/073	dua	1	d ua
+085/075	thu	1	t h u
+085/077	dua	1	d ua
+085/079	thua	1	t h ua
+085/081	dua	1	d ua
+085/083	thou	1	t h ou
+085/085	thou	1	t h ou
+085/087	tua	1	t ua
+085/089	dua	1	d ua
+085/091	dua	1	d ua
+085/093	thua	1	t h ua
+085/095	dua	1	d ua
+085/097	dou	1	d ou
+085/101	dua	1	d ua
+085/103	tu	1	t u
+085/105	dua	1	d ua
+085/107	thua	1	t h ua
+085/109	dua	1	d ua
+085/111	dua	1	d ua
+085/113	thu	1	t h u
+085/115	tua	1	t ua
+085/117	tu	1	t u
+085/119	tua	1	t ua
+085/121	tu	1	t u
+085/123	tu	1	t u
+085/125	gib	1	g i b
+085/127	du	1	d u
+085/129	tui	1	t ui
+085/131	tui	1	t ui
+085/133	tua	1	t ua
+085/135	tui	1	t ui
+085/137	tui	1	t ui
+085/139	tui	1	t ui
+085/141	tui	1	t ui
+085/143	dui	1	d ui
+085/145	lech	1	l e ch
+085/147	tui	1	t ui
+085/149	tui	1	t ui
+085/175	tu	1	t u
+085/193	tu	1	t u
+085/197	tuu	1	t uu
+086/033	dhu	1	d h u
+086/035	thüe	1	t h üe
+086/037	tüo	1	t üo
+086/039	dö	1	d ö
+086/041	mach	1	m a ch
+086/043	dö	1	d ö
+086/045	dhue	1	d h ue
+086/047	du	1	d u
+086/049	thuä	1	t h uä
+086/051	dua	1	d ua
+086/053	dua	1	d ua
+086/055	dua	1	d ua
+086/057	dua	1	d ua
+086/059	duar	1	d ua r
+086/061	dua	1	d ua
+086/063	dua	1	d ua
+086/065	dur	1	d u r
+086/067	dua	1	d ua
+086/069	dua	1	d ua
+086/071	dhua	1	d h ua
+086/073	dhua	1	d h ua
+086/075	dua	1	d ua
+086/077	thua	1	t h ua
+086/079	thua	1	t h ua
+086/081	dua	1	d ua
+086/083	du	1	d u
+086/085	thuua	1	t h uua
+086/087	dua	1	d ua
+086/089	dua	1	d ua
+086/091	thua	1	t h ua
+086/093	dua	1	d ua
+086/095	duua	1	d uua
+086/097	dua	1	d ua
+086/099	dua	1	d ua
+086/101	thua	1	t h ua
+086/103	thua	1	t h ua
+086/105	dua	1	d ua
+086/107	thua	1	t h ua
+086/109	thua	1	t h ua
+086/111	thua	1	t h ua
+086/113	tua	1	t ua
+086/115	tua	1	t ua
+086/117	tua	1	t ua
+086/119	tua	1	t ua
+086/121	laig	1	l ai g
+086/123	tua	1	t ua
+086/125	tua	1	t ua
+086/127	tua	1	t ua
+086/129	tui	1	t ui
+086/131	dui	1	d ui
+086/133	tua	1	t ua
+086/135	legets	1	l e g e t s
+086/137	tui	1	t ui
+086/139	tui	1	t ui
+086/141	tui	1	t ui
+086/143	tui	1	t ui
+086/145	tui	1	t ui
+086/147	tui	1	t ui
+086/149	tuia	1	t uia
+086/151	tui	1	t ui
+086/175	liik	1	l ii k
+086/197	tu	1	t u
+086/199	tu	1	t u
+087/033	moch	1	m o ch
+087/035	thu	1	t h u
+087/037	mach	1	m a ch
+087/039	thua	1	t h ua
+087/041	düüe	1	d üüe
+087/043	duä	1	d uä
+087/045	due	1	d ue
+087/049	dua	1	d ua
+087/051	duar	1	d ua r
+087/053	dua	1	d ua
+087/055	thua	1	t h ua
+087/057	duar	1	d ua r
+087/059	thua	1	t h ua
+087/061	duer	1	d ue r
+087/063	dua	1	d ua
+087/065	dua	1	d ua
+087/067	dua	1	d ua
+087/069	dua	1	d ua
+087/071	dua	1	d ua
+087/073	dua	1	d ua
+087/075	thua	1	t h ua
+087/077	dua	1	d ua
+087/079	thua	1	t h ua
+087/081	thua	1	t h ua
+087/083	dua	1	d ua
+087/085	thua	1	t h ua
+087/087	dua	1	d ua
+087/089	dua	1	d ua
+087/091	thua	1	t h ua
+087/093	thua	1	t h ua
+087/095	dua	1	d ua
+087/097	dua	1	d ua
+087/099	thua	1	t h ua
+087/101	dua	1	d ua
+087/103	lög	1	l ö g
+087/105	dua	1	d ua
+087/107	thua	1	t h ua
+087/109	dua	1	d ua
+087/111	dua	1	d ua
+087/113	dua	1	d ua
+087/115	tur	1	t u r
+087/117	tua	1	t ua
+087/119	tua	1	t ua
+087/121	tuaa	1	t uaa
+087/123	tua	1	t ua
+087/125	tua	1	t ua
+087/127	dua	1	d ua
+087/129	tua	1	t ua
+087/133	tua	1	t ua
+087/135	tui	1	t ui
+087/137	tua	1	t ua
+087/139	tui	1	t ui
+087/141	tui	1	t ui
+087/143	tui	1	t ui
+087/145	tui	1	t ui
+087/147	dur	1	d u r
+087/149	tui	1	t ui
+087/151	gib	1	g i b
+088/035	mach	1	m a ch
+088/037	thöa	1	t h öa
+088/039	mach	1	m a ch
+088/041	mach	1	m a ch
+088/043	duä	1	d uä
+088/045	dhua	1	d h ua
+088/047	dhua	1	d h ua
+088/049	duua	1	d uua
+088/051	due	1	d ue
+088/053	dua	1	d ua
+088/055	duar	1	d ua r
+088/057	due	1	d ue
+088/059	dua	1	d ua
+088/061	duhr	1	d uh r
+088/063	thuar	1	t h ua r
+088/065	dua	1	d ua
+088/067	dua	1	d ua
+088/069	dua	1	d ua
+088/071	due	1	d ue
+088/073	tua	1	t ua
+088/075	dua	1	d ua
+088/077	dua	1	d ua
+088/079	dua	1	d ua
+088/081	dua	1	d ua
+088/083	thua	1	t h ua
+088/085	dua	1	d ua
+088/087	dua	1	d ua
+088/089	thua	1	t h ua
+088/091	thua	1	t h ua
+088/093	thua	1	t h ua
+088/095	dua	1	d ua
+088/097	thua	1	t h ua
+088/099	thu	1	t h u
+088/101	thua	1	t h ua
+088/103	dua	1	d ua
+088/105	tua	1	t ua
+088/107	thua	1	t h ua
+088/109	lög	1	l ö g
+088/113	dua	1	d ua
+088/115	tua	1	t ua
+088/117	lög	1	l ö g
+088/121	leig	1	l ei g
+088/123	schmeiss	1	sch m ei ss
+088/127	dua	1	d ua
+088/129	tua	1	t ua
+088/131	dua	1	d ua
+088/137	tui	1	t ui
+088/139	dui	1	d ui
+088/141	dui	1	d ui
+088/143	leg	1	l e g
+088/145	tui	1	t ui
+088/147	tui	1	t ui
+088/149	tui	1	t ui
+089/035	thüa	1	t h üa
+089/037	moch	1	m o ch
+089/039	mach	1	m a ch
+089/041	leii	1	l eii
+089/043	duä	1	d uä
+089/045	due	1	d ue
+089/047	dueer	1	d uee r
+089/049	dua	1	d ua
+089/051	duar	1	d ua r
+089/053	duar	1	d ua r
+089/055	duo	1	d uo
+089/057	dua	1	d ua
+089/059	dua	1	d ua
+089/061	dur	1	d u r
+089/063	dua	1	d ua
+089/065	dur	1	d u r
+089/067	thua	1	t h ua
+089/069	dua	1	d ua
+089/071	dhua	1	d h ua
+089/073	dua	1	d ua
+089/075	thua	1	t h ua
+089/077	duua	1	d uua
+089/079	dua	1	d ua
+089/081	thua	1	t h ua
+089/083	dua	1	d ua
+089/085	duh	1	d uh
+089/087	thu	1	t h u
+089/089	thua	1	t h ua
+089/091	dhur	1	d h u r
+089/093	wirf	1	w i r f
+089/095	dua	1	d ua
+089/097	dua	1	d ua
+089/099	thua	1	t h ua
+089/101	thua	1	t h ua
+089/103	dua	1	d ua
+089/105	dua	1	d ua
+089/107	tua	1	t ua
+089/109	tua	1	t ua
+089/111	tua	1	t ua
+089/113	tua	1	t ua
+089/115	tua	1	t ua
+089/117	dua	1	d ua
+089/119	tua	1	t ua
+089/121	dua	1	d ua
+089/123	leg	1	l e g
+089/125	tua	1	t ua
+089/127	tua	1	t ua
+089/129	tua	1	t ua
+089/131	tua	1	t ua
+089/133	tua	1	t ua
+089/135	tua	1	t ua
+089/137	tua	1	t ua
+089/139	tui	1	t ui
+089/141	tuo	1	t uo
+089/143	tui	1	t ui
+089/145	dui	1	d ui
+089/147	tui	1	t ui
+089/149	tui	1	t ui
+090/035	moch	1	m o ch
+090/037	mach	1	m a ch
+090/039	mach	1	m a ch
+090/041	mach	1	m a ch
+090/043	due	1	d ue
+090/045	dua	1	d ua
+090/047	thue	1	t h ue
+090/049	dua	1	d ua
+090/051	due	1	d ue
+090/053	duar	1	d ua r
+090/055	duar	1	d ua r
+090/057	dua	1	d ua
+090/059	thua	1	t h ua
+090/061	dhuar	1	d h ua r
+090/063	dua	1	d ua
+090/065	thur	1	t h u r
+090/067	dua	1	d ua
+090/069	dua	1	d ua
+090/071	thua	1	t h ua
+090/073	dua	1	d ua
+090/075	dua	1	d ua
+090/077	tua	1	t ua
+090/079	thua	1	t h ua
+090/081	thua	1	t h ua
+090/083	dua	1	d ua
+090/085	dua	1	d ua
+090/087	thua	1	t h ua
+090/089	thua	1	t h ua
+090/091	thua	1	t h ua
+090/093	dua	1	d ua
+090/095	dua	1	d ua
+090/097	tua	1	t ua
+090/099	thua	1	t h ua
+090/101	duua	1	d uua
+090/103	dua	1	d ua
+090/105	thua	1	t h ua
+090/107	hoatz	1	h oa t z
+090/109	tua	1	t ua
+090/111	tua	1	t ua
+090/113	tua	1	t ua
+090/115	tua	1	t ua
+090/119	leg	1	l e g
+090/121	tua	1	t ua
+090/123	tua	1	t ua
+090/125	tua	1	t ua
+090/127	tua	1	t ua
+090/129	tua	1	t ua
+090/131	tua	1	t ua
+090/133	tua	1	t ua
+090/135	tua	1	t ua
+090/137	tua	1	t ua
+090/139	tua	1	t ua
+090/141	dua	1	d ua
+090/143	dua	1	d ua
+090/145	tua	1	t ua
+090/147	lech	1	l e ch
+090/149	tui	1	t ui
+090/151	tui	1	t ui
+091/035	mach	1	m a ch
+091/037	mach	1	m a ch
+091/039	mach	1	m a ch
+091/041	mach	1	m a ch
+091/043	duä	1	d uä
+091/045	duee	1	d uee
+091/047	due	1	d ue
+091/049	duer	1	d ue r
+091/051	duha	1	d u h a
+091/053	duar	1	d ua r
+091/055	duor	1	d uo r
+091/057	duar	1	d ua r
+091/059	thuar	1	t h ua r
+091/061	duar	1	d ua r
+091/063	duar	1	d ua r
+091/065	duer	1	d ue r
+091/067	duar	1	d ua r
+091/069	dhuar	1	d h ua r
+091/071	dua	1	d ua
+091/073	thua	1	t h ua
+091/075	dua	1	d ua
+091/077	dua	1	d ua
+091/079	dua	1	d ua
+091/081	dua	1	d ua
+091/083	thua	1	t h ua
+091/085	thua	1	t h ua
+091/087	tua	1	t ua
+091/091	dua	1	d ua
+091/093	dua	1	d ua
+091/095	dua	1	d ua
+091/097	dua	1	d ua
+091/099	kent	1	k e n t
+091/101	dua	1	d ua
+091/103	dua	1	d ua
+091/105	tua	1	t ua
+091/107	tua	1	t ua
+091/109	tua	1	t ua
+091/111	tuo	1	t uo
+091/113	schoib	1	sch oi b
+091/115	tua	1	t ua
+091/117	tua	1	t ua
+091/119	lög	1	l ö g
+091/121	lög	1	l ö g
+091/125	tua	1	t ua
+091/129	leg	1	l e g
+091/131	tua	1	t ua
+091/133	tua	1	t ua
+091/135	tua	1	t ua
+091/137	dua	1	d ua
+091/139	tua	1	t ua
+091/141	tua	1	t ua
+091/143	tua	1	t ua
+091/145	tua	1	t ua
+091/147	dua	1	d ua
+091/149	tei	1	t ei
+091/151	dua	1	d ua
+091/155	lech	1	l e ch
+092/033	mach	1	m a ch
+092/035	mach	1	m a ch
+092/037	mach	1	m a ch
+092/039	mach	1	m a ch
+092/041	duä	1	d uä
+092/043	due	1	d ue
+092/045	due	1	d ue
+092/047	thuen	1	t h ue n
+092/049	due	1	d ue
+092/051	duar	1	d ua r
+092/053	duer	1	d ue r
+092/055	duar	1	d ua r
+092/057	duer	1	d ue r
+092/059	duar	1	d ua r
+092/061	duar	1	d ua r
+092/063	duuor	1	d uuo r
+092/065	dur	1	d u r
+092/067	thur	1	t h u r
+092/069	dua	1	d ua
+092/071	tua	1	t ua
+092/073	dua	1	d ua
+092/075	dua	1	d ua
+092/077	dua	1	d ua
+092/079	tua	1	t ua
+092/081	dua	1	d ua
+092/083	dua	1	d ua
+092/085	thua	1	t h ua
+092/087	thua	1	t h ua
+092/089	dua	1	d ua
+092/091	dua	1	d ua
+092/093	dua	1	d ua
+092/095	dua	1	d ua
+092/097	dua	1	d ua
+092/099	thua	1	t h ua
+092/101	dua	1	d ua
+092/103	thu	1	t h u
+092/105	du	1	d u
+092/107	tua	1	t ua
+092/109	tua	1	t ua
+092/111	tua	1	t ua
+092/113	tua	1	t ua
+092/115	tua	1	t ua
+092/117	tua	1	t ua
+092/119	tua	1	t ua
+092/121	tua	1	t ua
+092/123	tua	1	t ua
+092/125	tua	1	t ua
+092/127	tua	1	t ua
+092/129	tua	1	t ua
+092/131	tua	1	t ua
+092/133	dua	1	d ua
+092/135	leig	1	l ei g
+092/137	tua	1	t ua
+092/139	hoaz	1	h oa z
+092/141	tua	1	t ua
+092/143	tua	1	t ua
+092/145	dua	1	d ua
+092/147	tua	1	t ua
+092/149	tua	1	t ua
+092/151	tua	1	t ua
+093/035	mach	1	m a ch
+093/037	düa	1	d üa
+093/039	thüa	1	t h üa
+093/041	duä	1	d uä
+093/043	due	1	d ue
+093/045	due	1	d ue
+093/047	dhuen	1	d h ue n
+093/049	duar	1	d ua r
+093/051	duär	1	d uä r
+093/053	dua	1	d ua
+093/055	duuar	1	d uua r
+093/057	duar	1	d ua r
+093/059	duar	1	d ua r
+093/061	due	1	d ue
+093/063	duar	1	d ua r
+093/065	dhua	1	d h ua
+093/067	dua	1	d ua
+093/069	dua	1	d ua
+093/071	thua	1	t h ua
+093/073	dua	1	d ua
+093/075	dua	1	d ua
+093/077	thua	1	t h ua
+093/079	tua	1	t ua
+093/081	thua	1	t h ua
+093/083	thua	1	t h ua
+093/085	thua	1	t h ua
+093/087	leg	1	l e g
+093/089	thua	1	t h ua
+093/091	thua	1	t h ua
+093/093	thua	1	t h ua
+093/095	thua	1	t h ua
+093/097	thua	1	t h ua
+093/099	thua	1	t h ua
+093/101	tua	1	t ua
+093/103	leg	1	l e g
+093/105	tua	1	t ua
+093/109	tua	1	t ua
+093/111	tua	1	t ua
+093/113	tua	1	t ua
+093/115	tua	1	t ua
+093/117	dua	1	d ua
+093/119	leg	1	l e g
+093/121	tua	1	t ua
+093/123	tua	1	t ua
+093/125	dua	1	d ua
+093/127	hoats	1	h oa t s
+093/129	tuua	1	t uua
+093/131	dua	1	d ua
+093/133	tua	1	t ua
+093/137	tua	1	t ua
+093/139	tua	1	t ua
+093/143	dua	1	d ua
+093/145	lech	1	l e ch
+093/147	tua	1	t ua
+093/149	tua	1	t ua
+093/151	haz	1	h a z
+093/153	tua	1	t ua
+093/155	tui	1	t ui
+094/033	duu	1	d uu
+094/035	mach	1	m a ch
+094/037	thüe	1	t h üe
+094/039	thuäa	1	t h uäa
+094/041	duä	1	d uä
+094/043	due	1	d ue
+094/045	duen	1	d ue n
+094/047	duan	1	d ua n
+094/049	dua	1	d ua
+094/051	dhu	1	d h u
+094/053	duor	1	d uo r
+094/055	dur	1	d u r
+094/057	due	1	d ue
+094/059	duar	1	d ua r
+094/061	dua	1	d ua
+094/063	thu	1	t h u
+094/065	dua	1	d ua
+094/067	thua	1	t h ua
+094/069	dur	1	d u r
+094/071	thua	1	t h ua
+094/073	dua	1	d ua
+094/075	thoa	1	t h oa
+094/077	dua	1	d ua
+094/079	thua	1	t h ua
+094/081	dua	1	d ua
+094/083	thu	1	t h u
+094/085	dua	1	d ua
+094/087	thua	1	t h ua
+094/089	thua	1	t h ua
+094/091	dua	1	d ua
+094/093	thua	1	t h ua
+094/095	dua	1	d ua
+094/097	dua	1	d ua
+094/099	dua	1	d ua
+094/101	dua	1	d ua
+094/103	tua	1	t ua
+094/105	tua	1	t ua
+094/107	tua	1	t ua
+094/109	lög	1	l ö g
+094/111	tua	1	t ua
+094/113	tua	1	t ua
+094/115	tua	1	t ua
+094/117	tua	1	t ua
+094/119	tua	1	t ua
+094/121	tua	1	t ua
+094/123	dua	1	d ua
+094/125	tua	1	t ua
+094/127	tua	1	t ua
+094/129	tua	1	t ua
+094/131	dua	1	d ua
+094/133	tua	1	t ua
+094/135	tua	1	t ua
+094/137	tua	1	t ua
+094/139	hoaz	1	h oa z
+094/141	tua	1	t ua
+094/143	tua	1	t ua
+094/145	schmeis	1	sch m ei s
+094/147	lech	1	l e ch
+094/149	tua	1	t ua
+094/151	tua	1	t ua
+094/153	tua	1	t ua
+095/031	khei	1	k h ei
+095/033	thüa	1	t h üa
+095/035	düa	1	d üa
+095/037	tüa	1	t üa
+095/039	thüa	1	t h üa
+095/041	due	1	d ue
+095/043	due	1	d ue
+095/045	duä	1	d uä
+095/047	due	1	d ue
+095/049	due	1	d ue
+095/051	duär	1	d uä r
+095/053	duär	1	d uä r
+095/055	duar	1	d ua r
+095/057	durr	1	d u rr
+095/059	duar	1	d ua r
+095/061	dua	1	d ua
+095/063	dur	1	d u r
+095/065	thuo	1	t h uo
+095/067	due	1	d ue
+095/069	dua	1	d ua
+095/071	dua	1	d ua
+095/073	dua	1	d ua
+095/075	thua	1	t h ua
+095/077	dua	1	d ua
+095/079	thua	1	t h ua
+095/081	tua	1	t ua
+095/083	dua	1	d ua
+095/085	thua	1	t h ua
+095/087	dua	1	d ua
+095/089	duua	1	d uua
+095/091	thua	1	t h ua
+095/093	thua	1	t h ua
+095/095	thua	1	t h ua
+095/097	thua	1	t h ua
+095/099	dua	1	d ua
+095/101	dhua	1	d h ua
+095/103	tua	1	t ua
+095/105	tu	1	t u
+095/107	tua	1	t ua
+095/109	dua	1	d ua
+095/111	duo	1	d uo
+095/113	tua	1	t ua
+095/115	tu	1	t u
+095/117	tua	1	t ua
+095/119	tua	1	t ua
+095/121	tua	1	t ua
+095/123	tua	1	t ua
+095/125	du	1	d u
+095/129	tua	1	t ua
+095/131	dua	1	d ua
+095/133	tua	1	t ua
+095/139	hoaz	1	h oa z
+095/141	tua	1	t ua
+095/143	tua	1	t ua
+095/145	tui	1	t ui
+095/147	tua	1	t ua
+095/149	tui	1	t ui
+095/151	tui	1	t ui
+095/153	tui	1	t ui
+095/155	tui	1	t ui
+096/031	thue	1	t h ue
+096/033	thua	1	t h ua
+096/035	mach	1	m a ch
+096/037	thüa	1	t h üa
+096/039	thüe	1	t h üe
+096/041	thuaa	1	t h uaa
+096/043	dua	1	d ua
+096/045	dua	1	d ua
+096/047	thua	1	t h ua
+096/049	dua	1	d ua
+096/051	thue	1	t h ue
+096/053	dua	1	d ua
+096/055	durr	1	d u rr
+096/057	duat	1	d ua t
+096/059	theand	1	t h ea n d
+096/061	durr	1	d u rr
+096/063	dua	1	d ua
+096/065	duar	1	d ua r
+096/067	duer	1	d ue r
+096/069	thua	1	t h ua
+096/071	schier	1	sch ie r
+096/075	thua	1	t h ua
+096/077	dua	1	d ua
+096/079	dua	1	d ua
+096/081	dua	1	d ua
+096/083	thua	1	t h ua
+096/085	duuo	1	d uuo
+096/087	dua	1	d ua
+096/089	dou	1	d ou
+096/091	dua	1	d ua
+096/093	dua	1	d ua
+096/095	thua	1	t h ua
+096/097	thu	1	t h u
+096/099	dua	1	d ua
+096/101	thua	1	t h ua
+096/103	thua	1	t h ua
+096/105	tua	1	t ua
+096/107	thua	1	t h ua
+096/109	tua	1	t ua
+096/111	dua	1	d ua
+096/113	tua	1	t ua
+096/115	leg	1	l e g
+096/117	leg	1	l e g
+096/119	tua	1	t ua
+096/121	tu	1	t u
+096/123	dua	1	d ua
+096/125	dua	1	d ua
+096/129	dua	1	d ua
+096/131	tua	1	t ua
+096/135	tua	1	t ua
+096/137	leg	1	l e g
+096/139	tua	1	t ua
+096/141	tua	1	t ua
+096/143	hoaz	1	h oa z
+096/145	tui	1	t ui
+096/147	tui	1	t ui
+096/151	tui	1	t ui
+096/153	tui	1	t ui
+096/155	tua	1	t ua
+097/031	düe	1	d üe
+097/033	thüä	1	t h üä
+097/035	thüa	1	t h üa
+097/037	döä	1	d öä
+097/039	dueh	1	d ueh
+097/041	duä	1	d uä
+097/043	thua	1	t h ua
+097/045	dua	1	d ua
+097/047	duua	1	d uua
+097/049	duua	1	d uua
+097/051	dua	1	d ua
+097/053	duar	1	d ua r
+097/055	dur	1	d u r
+097/057	duor	1	d uo r
+097/059	dua	1	d ua
+097/061	dur	1	d u r
+097/063	thua	1	t h ua
+097/065	dua	1	d ua
+097/067	duar	1	d ua r
+097/069	duä	1	d uä
+097/071	duha	1	d u h a
+097/073	thua	1	t h ua
+097/075	dua	1	d ua
+097/077	dua	1	d ua
+097/079	dua	1	d ua
+097/081	thua	1	t h ua
+097/083	dua	1	d ua
+097/085	thu	1	t h u
+097/087	dua	1	d ua
+097/089	dua	1	d ua
+097/091	dhuua	1	d h uua
+097/093	tua	1	t ua
+097/095	tua	1	t ua
+097/097	thua	1	t h ua
+097/099	thua	1	t h ua
+097/103	tua	1	t ua
+097/105	tua	1	t ua
+097/107	tua	1	t ua
+097/109	dua	1	d ua
+097/113	keij	1	k ei j
+097/125	tua	1	t ua
+097/131	tua	1	t ua
+097/133	thua	1	t h ua
+097/139	tua	1	t ua
+097/141	tua	1	t ua
+097/143	tua	1	t ua
+097/145	tui	1	t ui
+097/149	tui	1	t ui
+097/153	tui	1	t ui
+098/033	mach	1	m a ch
+098/035	düa	1	d üa
+098/037	düa	1	d üa
+098/039	thua	1	t h ua
+098/041	dua	1	d ua
+098/043	thüend	1	t h üe n d
+098/045	due	1	d ue
+098/047	due	1	d ue
+098/049	thünd	1	t h ü n d
+098/051	tue	1	t ue
+098/053	do	1	d o
+098/055	dua	1	d ua
+098/057	duar	1	d ua r
+098/059	dur	1	d u r
+098/061	dur	1	d u r
+098/063	duar	1	d ua r
+098/065	dur	1	d u r
+098/067	dur	1	d u r
+098/069	dua	1	d ua
+098/071	thua	1	t h ua
+098/073	do	1	d o
+098/075	thua	1	t h ua
+098/077	du	1	d u
+098/079	thua	1	t h ua
+098/081	thua	1	t h ua
+098/083	thua	1	t h ua
+098/085	thua	1	t h ua
+098/087	dua	1	d ua
+098/089	thua	1	t h ua
+098/091	thua	1	t h ua
+098/093	dua	1	d ua
+098/095	tua	1	t ua
+098/097	thua	1	t h ua
+098/103	thua	1	t h ua
+098/105	tua	1	t ua
+098/107	tua	1	t ua
+098/109	tuaa	1	t uaa
+098/111	tüa	1	t üa
+098/119	tua	1	t ua
+098/123	tua	1	t ua
+098/125	hoaz	1	h oa z
+098/127	tua	1	t ua
+098/135	tua	1	t ua
+098/137	tua	1	t ua
+098/139	leg	1	l e g
+098/141	tua	1	t ua
+098/143	tui	1	t ui
+098/145	leg	1	l e g
+098/147	tua	1	t ua
+098/149	tui	1	t ui
+098/151	tuit	1	t ui t
+099/033	tüa	1	t üa
+099/035	tüa	1	t üa
+099/037	chüa	1	ch üa
+099/039	düa	1	d üa
+099/041	dhua	1	d h ua
+099/043	due	1	d ue
+099/045	dua	1	d ua
+099/047	dua	1	d ua
+099/049	dua	1	d ua
+099/051	due	1	d ue
+099/053	tue	1	t ue
+099/055	tue	1	t ue
+099/057	tue	1	t ue
+099/059	dond	1	d o n d
+099/063	dur	1	d u r
+099/065	du	1	d u
+099/067	thur	1	t h u r
+099/069	thue	1	t h ue
+099/071	thua	1	t h ua
+099/073	dua	1	d ua
+099/075	dua	1	d ua
+099/077	thua	1	t h ua
+099/081	dua	1	d ua
+099/083	thua	1	t h ua
+099/085	tua	1	t ua
+099/089	dua	1	d ua
+099/093	tua	1	t ua
+099/095	dua	1	d ua
+099/099	tua	1	t ua
+099/101	tua	1	t ua
+099/103	hoaz	1	h oa z
+099/105	thua	1	t h ua
+099/107	leg	1	l e g
+099/109	lög	1	l ö g
+099/111	dua	1	d ua
+099/113	tua	1	t ua
+099/121	tua	1	t ua
+099/123	tua	1	t ua
+099/125	tua	1	t ua
+099/131	tua	1	t ua
+099/137	dua	1	d ua
+099/139	tua	1	t ua
+099/141	tua	1	t ua
+099/143	tua	1	t ua
+099/145	tui	1	t ui
+099/147	tui	1	t ui
+100/033	thüä	1	t h üä
+100/035	mach	1	m a ch
+100/037	thüa	1	t h üa
+100/039	tue	1	t ue
+100/041	thue	1	t h ue
+100/043	due	1	d ue
+100/045	tue	1	t ue
+100/049	tuä	1	t uä
+100/051	tue	1	t ue
+100/053	tue	1	t ue
+100/055	tua	1	t ua
+100/057	tuo	1	t uo
+100/059	tue	1	t ue
+100/061	tue	1	t ue
+100/065	thur	1	t h u r
+100/067	tuär	1	t uä r
+100/069	duar	1	d ua r
+100/071	thua	1	t h ua
+100/073	thua	1	t h ua
+100/075	tue	1	t ue
+100/077	dua	1	d ua
+100/081	dua	1	d ua
+100/083	dua	1	d ua
+100/089	tua	1	t ua
+100/093	tua	1	t ua
+100/095	tua	1	t ua
+100/097	tua	1	t ua
+100/099	thu	1	t h u
+100/101	tua	1	t ua
+100/109	tua	1	t ua
+100/111	tu	1	t u
+100/113	tua	1	t ua
+100/115	tua	1	t ua
+100/117	tua	1	t ua
+100/119	tua	1	t ua
+100/121	tua	1	t ua
+100/125	tua	1	t ua
+100/127	tua	1	t ua
+100/129	hoaz	1	h oa z
+100/133	tua	1	t ua
+100/135	tua	1	t ua
+100/141	tua	1	t ua
+100/143	tua	1	t ua
+100/145	tui	1	t ui
+101/035	düa	1	d üa
+101/037	tuä	1	t uä
+101/039	tue	1	t ue
+101/041	duä	1	d uä
+101/043	tuä	1	t uä
+101/045	tue	1	t ue
+101/047	tue	1	t ue
+101/049	tue	1	t ue
+101/051	tue	1	t ue
+101/053	tue	1	t ue
+101/055	tue	1	t ue
+101/057	tue	1	t ue
+101/059	tue	1	t ue
+101/061	tue	1	t ue
+101/063	tuer	1	t ue r
+101/065	tur	1	t u r
+101/067	tu	1	t u
+101/071	thue	1	t h ue
+101/075	tue	1	t ue
+101/077	thue	1	t h ue
+101/079	thua	1	t h ua
+101/081	thua	1	t h ua
+101/091	tua	1	t ua
+101/093	tua	1	t ua
+101/095	dua	1	d ua
+101/097	tua	1	t ua
+101/099	tua	1	t ua
+101/101	hoaz	1	h oa z
+101/103	tua	1	t ua
+101/107	tua	1	t ua
+101/109	tua	1	t ua
+101/113	thua	1	t h ua
+101/115	tua	1	t ua
+101/121	dua	1	d ua
+101/125	tua	1	t ua
+101/129	tua	1	t ua
+101/131	tua	1	t ua
+101/133	tua	1	t ua
+101/137	hoatz	1	h oa t z
+101/139	tua	1	t ua
+101/141	tua	1	t ua
+101/143	tua	1	t ua
+101/145	tui	1	t ui
+101/147	tui	1	t ui
+102/037	tue	1	t ue
+102/039	tuä	1	t uä
+102/041	tue	1	t ue
+102/043	tue	1	t ue
+102/045	tue	1	t ue
+102/047	tue	1	t ue
+102/049	tue	1	t ue
+102/051	tu	1	t u
+102/053	tuö	1	t uö
+102/055	tue	1	t ue
+102/057	tue	1	t ue
+102/059	tue	1	t ue
+102/061	toe	1	t oe
+102/063	too	1	t oo
+102/065	tua	1	t ua
+102/067	dor	1	d o r
+102/069	dua	1	d ua
+102/071	dua	1	d ua
+102/073	tua	1	t ua
+102/075	tua	1	t ua
+102/077	tua	1	t ua
+102/079	tua	1	t ua
+102/081	tua	1	t ua
+102/083	tua	1	t ua
+102/089	tua	1	t ua
+102/091	tua	1	t ua
+102/093	tua	1	t ua
+102/095	tua	1	t ua
+102/097	tua	1	t ua
+102/099	kent	1	k e n t
+102/103	tu	1	t u
+102/107	tua	1	t ua
+102/109	tua	1	t ua
+102/113	tua	1	t ua
+102/115	tua	1	t ua
+102/127	tua	1	t ua
+102/129	tua	1	t ua
+102/131	thua	1	t h ua
+102/135	hoaz	1	h oa z
+102/137	tua	1	t ua
+102/139	tua	1	t ua
+102/141	tua	1	t ua
+102/143	tui	1	t ui
+102/145	tui	1	t ui
+103/039	tue	1	t ue
+103/041	tue	1	t ue
+103/043	tue	1	t ue
+103/045	tue	1	t ue
+103/047	tue	1	t ue
+103/049	tue	1	t ue
+103/051	tue	1	t ue
+103/053	tue	1	t ue
+103/055	tue	1	t ue
+103/057	tue	1	t ue
+103/059	tua	1	t ua
+103/063	to	1	t o
+103/065	toa	1	t oa
+103/067	dor	1	d o r
+103/069	tua	1	t ua
+103/071	tua	1	t ua
+103/073	tua	1	t ua
+103/075	tua	1	t ua
+103/077	tua	1	t ua
+103/079	tua	1	t ua
+103/081	tua	1	t ua
+103/083	tua	1	t ua
+103/085	tua	1	t ua
+103/087	tua	1	t ua
+103/089	tua	1	t ua
+103/091	tua	1	t ua
+103/097	tua	1	t ua
+103/099	tua	1	t ua
+103/101	dua	1	d ua
+103/105	tua	1	t ua
+103/107	dua	1	d ua
+103/111	tua	1	t ua
+103/121	tua	1	t ua
+103/125	tua	1	t ua
+103/127	tua	1	t ua
+103/131	tua	1	t ua
+103/133	hoaz	1	h oa z
+103/135	tua	1	t ua
+103/137	tua	1	t ua
+103/139	tua	1	t ua
+103/141	tua	1	t ua
+103/143	tui	1	t ui
+103/145	tui	1	t ui
+104/033	tue	1	t ue
+104/035	tue	1	t ue
+104/037	due	1	d ue
+104/039	due	1	d ue
+104/041	tue	1	t ue
+104/043	tue	1	t ue
+104/045	tue	1	t ue
+104/047	tue	1	t ue
+104/049	tue	1	t ue
+104/051	tuä	1	t uä
+104/053	tue	1	t ue
+104/055	tuä	1	t uä
+104/057	tuä	1	t uä
+104/059	tue	1	t ue
+104/061	khei	1	k h ei
+104/063	tua	1	t ua
+104/065	tua	1	t ua
+104/067	dua	1	d ua
+104/071	tua	1	t ua
+104/075	dua	1	d ua
+104/077	tua	1	t ua
+104/079	tue	1	t ue
+104/081	tue	1	t ue
+104/083	tua	1	t ua
+104/085	tue	1	t ue
+104/091	schür	1	sch ü r
+104/095	tua	1	t ua
+104/101	dua	1	d ua
+104/103	tua	1	t ua
+104/107	tua	1	t ua
+104/111	tua	1	t ua
+104/113	tua	1	t ua
+104/119	tua	1	t ua
+104/121	leg	1	l e g
+104/123	hooae	1	h ooae
+104/125	hoaz	1	h oa z
+104/127	thua	1	t h ua
+104/131	tua	1	t ua
+104/133	tua	1	t ua
+104/135	tua	1	t ua
+104/137	tu	1	t u
+104/139	tua	1	t ua
+104/141	tui	1	t ui
+104/143	tui	1	t ui
+104/145	ti	1	t i
+105/031	tue	1	t ue
+105/033	tue	1	t ue
+105/035	tue	1	t ue
+105/037	tuä	1	t uä
+105/039	tue	1	t ue
+105/041	tue	1	t ue
+105/043	tue	1	t ue
+105/045	legg	1	l e gg
+105/047	due	1	d ue
+105/049	tue	1	t ue
+105/051	tue	1	t ue
+105/053	tuo	1	t uo
+105/055	tuo	1	t uo
+105/057	tuä	1	t uä
+105/059	tuä	1	t uä
+105/061	toä	1	t oä
+105/063	tua	1	t ua
+105/065	tua	1	t ua
+105/067	toa	1	t oa
+105/069	schopp	1	sch o pp
+105/071	tua	1	t ua
+105/073	tua	1	t ua
+105/075	tua	1	t ua
+105/077	tua	1	t ua
+105/079	tua	1	t ua
+105/081	tua	1	t ua
+105/085	schür	1	sch ü r
+105/087	tue	1	t ue
+105/089	wirf	1	w i r f
+105/103	tua	1	t ua
+105/105	tua	1	t ua
+105/111	tua	1	t ua
+105/113	tua	1	t ua
+105/115	thua	1	t h ua
+105/117	tua	1	t ua
+105/119	haz	1	h a z
+105/121	tua	1	t ua
+105/125	tu	1	t u
+105/127	hoaz	1	h oa z
+105/131	thua	1	t h ua
+105/133	tua	1	t ua
+105/135	tua	1	t ua
+105/137	tua	1	t ua
+105/141	tui	1	t ui
+105/143	tui	1	t ui
+105/145	tuj	1	t u j
+106/033	due	1	d ue
+106/035	tue	1	t ue
+106/037	tue	1	t ue
+106/039	tue	1	t ue
+106/041	tue	1	t ue
+106/043	tue	1	t ue
+106/045	tue	1	t ue
+106/047	tue	1	t ue
+106/049	tue	1	t ue
+106/051	tuä	1	t uä
+106/053	tuä	1	t uä
+106/057	tuä	1	t uä
+106/061	tuä	1	t uä
+106/063	tua	1	t ua
+106/067	tua	1	t ua
+106/071	tua	1	t ua
+106/073	tua	1	t ua
+106/075	tua	1	t ua
+106/077	schür	1	sch ü r
+106/079	tua	1	t ua
+106/081	thua	1	t h ua
+106/085	tue	1	t ue
+106/087	schiir	1	sch ii r
+106/093	schi	1	sch i
+106/097	tü	1	t ü
+106/099	schia	1	sch ia
+106/103	tue	1	t ue
+106/111	tua	1	t ua
+106/115	tua	1	t ua
+106/121	tua	1	t ua
+106/123	tua	1	t ua
+106/125	tua	1	t ua
+106/129	tu	1	t u
+106/131	tua	1	t ua
+106/133	tua	1	t ua
+106/135	tua	1	t ua
+106/137	tua	1	t ua
+106/139	tui	1	t ui
+106/141	tui	1	t ui
+106/143	thui	1	t h ui
+106/145	tui	1	t ui
+107/033	tue	1	t ue
+107/035	tue	1	t ue
+107/037	tue	1	t ue
+107/039	tue	1	t ue
+107/041	leg	1	l e g
+107/043	tue	1	t ue
+107/045	tue	1	t ue
+107/047	tuä	1	t uä
+107/049	ghii	1	g h ii
+107/051	tuo	1	t uo
+107/053	tuä	1	t uä
+107/057	tuä	1	t uä
+107/059	tue	1	t ue
+107/063	tuon	1	t uo n
+107/065	tu	1	t u
+107/071	tua	1	t ua
+107/075	tua	1	t ua
+107/081	to	1	t o
+107/085	schir	1	sch i r
+107/087	tue	1	t ue
+107/089	tu	1	t u
+107/091	tu	1	t u
+107/097	tü	1	t ü
+107/099	tü	1	t ü
+107/103	tua	1	t ua
+107/105	tua	1	t ua
+107/107	tua	1	t ua
+107/111	tu	1	t u
+107/119	tua	1	t ua
+107/121	hoaz	1	h oa z
+107/123	tua	1	t ua
+107/125	hoaz	1	h oa z
+107/127	tua	1	t ua
+107/129	hoaz	1	h oa z
+107/131	dua	1	d ua
+107/133	tua	1	t ua
+107/135	tua	1	t ua
+107/137	schmeiss	1	sch m ei ss
+107/139	tua	1	t ua
+107/141	tua	1	t ua
+107/143	tua	1	t ua
+108/033	tue	1	t ue
+108/035	tu	1	t u
+108/037	tue	1	t ue
+108/039	tue	1	t ue
+108/041	tue	1	t ue
+108/043	tue	1	t ue
+108/047	tuä	1	t uä
+108/049	tuä	1	t uä
+108/063	tua	1	t ua
+108/065	tuä	1	t uä
+108/067	tuo	1	t uo
+108/075	tua	1	t ua
+108/079	tua	1	t ua
+108/081	tue	1	t ue
+108/085	tua	1	t ua
+108/087	tui	1	t ui
+108/091	schior	1	sch io r
+108/099	schir	1	sch i r
+108/101	tue	1	t ue
+108/103	tue	1	t ue
+108/105	hoaz	1	h oa z
+108/109	tue	1	t ue
+108/111	tua	1	t ua
+108/113	tue	1	t ue
+108/117	tua	1	t ua
+108/119	tua	1	t ua
+108/121	tua	1	t ua
+108/123	tua	1	t ua
+108/125	tua	1	t ua
+108/127	tua	1	t ua
+108/129	tua	1	t ua
+108/131	hoaz	1	h oa z
+108/133	tua	1	t ua
+108/135	tua	1	t ua
+108/137	tua	1	t ua
+108/139	tua	1	t ua
+108/141	tua	1	t ua
+109/035	tue	1	t ue
+109/037	tu	1	t u
+109/039	tue	1	t ue
+109/041	tue	1	t ue
+109/043	leg	1	l e g
+109/045	tio	1	t io
+109/049	tüä	1	t üä
+109/053	due	1	d ue
+109/061	tua	1	t ua
+109/063	tua	1	t ua
+109/065	tua	1	t ua
+109/067	tua	1	t ua
+109/075	tua	1	t ua
+109/083	tua	1	t ua
+109/087	tui	1	t ui
+109/089	tui	1	t ui
+109/091	tui	1	t ui
+109/093	tui	1	t ui
+109/095	tui	1	t ui
+109/097	tu	1	t u
+109/099	tu	1	t u
+109/101	schiar	1	sch ia r
+109/103	tue	1	t ue
+109/107	tue	1	t ue
+109/109	leg	1	l e g
+109/111	tue	1	t ue
+109/113	tue	1	t ue
+109/115	tua	1	t ua
+109/117	tua	1	t ua
+109/119	tua	1	t ua
+109/121	tua	1	t ua
+109/123	tua	1	t ua
+109/125	tua	1	t ua
+109/127	haz	1	h a z
+109/129	leg	1	l e g
+109/131	tua	1	t ua
+109/133	leg	1	l e g
+109/135	tua	1	t ua
+109/137	tua	1	t ua
+109/139	tua	1	t ua
+110/035	tue	1	t ue
+110/039	tue	1	t ue
+110/041	tue	1	t ue
+110/043	tue	1	t ue
+110/045	tue	1	t ue
+110/047	tön	1	t ö n
+110/049	tön	1	t ö n
+110/057	stoss	1	s t o ss
+110/061	tua	1	t ua
+110/065	tua	1	t ua
+110/075	tua	1	t ua
+110/079	schier	1	sch ie r
+110/081	tue	1	t ue
+110/083	tue	1	t ue
+110/087	tua	1	t ua
+110/089	tua	1	t ua
+110/091	tui	1	t ui
+110/093	schia	1	sch ia
+110/095	tui	1	t ui
+110/097	tu	1	t u
+110/099	tua	1	t ua
+110/101	tue	1	t ue
+110/105	tue	1	t ue
+110/107	tue	1	t ue
+110/111	tue	1	t ue
+110/113	tua	1	t ua
+110/115	tua	1	t ua
+110/117	tu	1	t u
+110/119	tua	1	t ua
+110/121	tue	1	t ue
+110/125	tua	1	t ua
+110/127	tua	1	t ua
+110/129	tua	1	t ua
+110/131	leg	1	l e g
+110/133	tua	1	t ua
+110/135	tua	1	t ua
+110/137	leg	1	l e g
+110/139	tua	1	t ua
+111/035	mo	1	m o
+111/037	tue	1	t ue
+111/039	tue	1	t ue
+111/041	tue	1	t ue
+111/043	tuen	1	t ue n
+111/045	duä	1	d uä
+111/059	tua	1	t ua
+111/073	tua	1	t ua
+111/075	schir	1	sch i r
+111/077	tua	1	t ua
+111/079	tua	1	t ua
+111/081	tua	1	t ua
+111/083	tua	1	t ua
+111/087	schür	1	sch ü r
+111/089	tua	1	t ua
+111/105	tua	1	t ua
+111/107	tua	1	t ua
+111/109	tua	1	t ua
+111/111	tu	1	t u
+111/113	tua	1	t ua
+111/115	leg	1	l e g
+111/117	tua	1	t ua
+111/119	tue	1	t ue
+111/121	tua	1	t ua
+111/123	tua	1	t ua
+111/125	tua	1	t ua
+112/037	tue	1	t ue
+112/039	tue	1	t ue
+112/041	tue	1	t ue
+112/043	tue	1	t ue
+112/047	tüa	1	t üa
+112/059	tuo	1	t uo
+112/061	tua	1	t ua
+112/063	tuoa	1	t uoa
+112/075	wirf	1	w i r f
+112/081	tua	1	t ua
+112/083	schier	1	sch ie r
+112/085	NA	NA	-
+112/111	tua	1	t ua
+112/115	tua	1	t ua
+112/117	tua	1	t ua
+112/119	tuä	1	t uä
+113/035	tue	1	t ue
+113/037	tue	1	t ue
+113/039	tuä	1	t uä
+113/047	tue	1	t ue
+113/079	tua	1	t ua
+113/081	tua	1	t ua
+113/083	tua	1	t ua
+113/085	thua	1	t h ua
+113/087	tua	1	t ua
+113/121	tu	1	t u
+113/123	tua	1	t ua
+114/035	tue	1	t ue
+114/045	cue	1	c ue
+114/083	tua	1	t ua
+114/085	tua	1	t ua
+115/041	cüo	1	c üo
+115/043	tüo	1	t üo
+115/045	tüo	1	t üo
+115/083	tua	1	t ua
+115/085	tua	1	t ua
+116/043	tüö	1	t üö
+116/045	tuä	1	t uä
+116/083	tua	1	t ua
+117/043	tio	1	t io
+117/045	cuä	1	c uä
+118/041	tüe	1	t üe
+119/083	leg	1	l e g
+120/085	leg	1	l e g
+121/127	tuä	1	t uä
+122/127	tu	1	t u
+122/129	tuä	1	t uä
+123/081	leig	1	l ei g
+123/123	tuä	1	t uä
+123/125	tua	1	t ua
+123/127	tua	1	t ua
+123/129	tuä	1	t uä
+124/125	tuä	1	t uä
+124/127	tuä	1	t uä
+124/129	tuä	1	t uä

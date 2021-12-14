@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	dod	1	d o d
+002/201	dot	1	d o t
+002/203	dot	1	d o t
+002/205	doot	1	d oo t
+003/203	dot	1	d o t
+003/205	dot	1	d o t
+004/205	dodt	1	d o d t
+005/205	doot	1	d oo t
+005/207	dod	1	d o d
+006/205	doht	1	d oh t
+006/207	dot	1	d o t
+007/205	doot	1	d oo t
+007/207	dodt	1	d o d t
+007/209	doot	1	d oo t
+007/211	dot	1	d o t
+008/199	dot	1	d o t
+008/203	dot	1	d o t
+008/205	dodt	1	d o d t
+008/207	dot	1	d o t
+008/209	dod	1	d o d
+008/211	dot	1	d o t
+008/213	dot	1	d o t
+009/199	dod	1	d o d
+009/203	dodt	1	d o d t
+009/207	dot	1	d o t
+009/209	dot	1	d o t
+009/211	dot	1	d o t
+009/213	dot	1	d o t
+009/215	tod	1	t o d
+009/217	dot	1	d o t
+010/195	dodt	1	d o d t
+010/203	dot	1	d o t
+010/207	dod	1	d o d
+010/209	dot	1	d o t
+010/211	dot	1	d o t
+010/213	dodt	1	d o d t
+010/215	dod	1	d o d
+010/217	dot	1	d o t
+010/219	dot	1	d o t
+011/049	dud	1	d u d
+011/053	död	1	d ö d
+011/055	ijel	1	i j e l
+011/057	do	1	d o
+011/059	do	1	d o
+011/061	ihjel	1	ih j e l
+011/063	ihjel	1	ih j e l
+011/065	döh	1	d öh
+011/067	ihjel	1	ih j e l
+011/069	ijel	1	i j e l
+011/187	dodt	1	d o d t
+011/189	dot	1	d o t
+011/191	doot	1	d oo t
+011/195	dod	1	d o d
+011/197	doht	1	d oh t
+011/203	dot	1	d o t
+011/205	dot	1	d o t
+011/207	doot	1	d oo t
+011/209	doot	1	d oo t
+011/211	dot	1	d o t
+011/213	dot	1	d o t
+011/215	doot	1	d oo t
+011/217	dodt	1	d o d t
+011/219	dod	1	d o d
+012/047	duad	1	d ua d
+012/049	duad	1	d ua d
+012/051	duid	1	d ui d
+012/053	dö	1	d ö
+012/055	dö	1	d ö
+012/057	ijol	1	i j o l
+012/059	ihjel	1	ih j e l
+012/061	ihjol	1	ih j o l
+012/063	ijel	1	i j e l
+012/065	ihjel	1	ih j e l
+012/067	ihjel	1	ih j e l
+012/069	ijel	1	i j e l
+012/187	dot	1	d o t
+012/189	dot	1	d o t
+012/191	dot	1	d o t
+012/193	dot	1	d o t
+012/195	dodt	1	d o d t
+012/197	doot	1	d oo t
+012/199	dot	1	d o t
+012/201	dot	1	d o t
+012/203	dot	1	d o t
+012/205	dot	1	d o t
+012/207	doot	1	d oo t
+012/209	doht	1	d oh t
+012/211	dod	1	d o d
+012/213	dot	1	d o t
+012/215	doot	1	d oo t
+012/217	dot	1	d o t
+012/219	dot	1	d o t
+012/221	dot	1	d o t
+012/223	dot	1	d o t
+013/051	duit	1	d ui t
+013/053	düüd	1	d üü d
+013/055	düd	1	d ü d
+013/057	ihjel	1	ih j e l
+013/059	dööd	1	d öö d
+013/061	dot	1	d o t
+013/063	dodt	1	d o d t
+013/065	dood	1	d oo d
+013/067	dood	1	d oo d
+013/161	dodt	1	d o d t
+013/163	dodt	1	d o d t
+013/165	dot	1	d o t
+013/167	dot	1	d o t
+013/187	dod	1	d o d
+013/189	dot	1	d o t
+013/191	dotd	1	d o t d
+013/193	dot	1	d o t
+013/195	doot	1	d oo t
+013/197	dot	1	d o t
+013/199	doot	1	d oo t
+013/201	dot	1	d o t
+013/203	dot	1	d o t
+013/207	doot	1	d oo t
+013/209	dodt	1	d o d t
+013/211	dot	1	d o t
+013/213	dot	1	d o t
+013/215	dot	1	d o t
+013/217	dot	1	d o t
+013/219	dot	1	d o t
+013/221	dot	1	d o t
+013/223	dot	1	d o t
+014/047	duad	1	d ua d
+014/049	duad	1	d ua d
+014/051	duad	1	d ua d
+014/053	dut	1	d u t
+014/055	dud	1	d u d
+014/057	düdt	1	d ü d t
+014/059	doot	1	d oo t
+014/061	dod	1	d o d
+014/063	dod	1	d o d
+014/065	dod	1	d o d
+014/067	dood	1	d oo d
+014/109	dod	1	d o d
+014/159	dodt	1	d o d t
+014/161	dod	1	d o d
+014/163	dodt	1	d o d t
+014/165	dot	1	d o t
+014/167	dodt	1	d o d t
+014/169	dot	1	d o t
+014/187	doot	1	d oo t
+014/189	doth	1	d o t h
+014/191	dot	1	d o t
+014/193	doot	1	d oo t
+014/195	dodt	1	d o d t
+014/197	dot	1	d o t
+014/199	doht	1	d oh t
+014/201	dot	1	d o t
+014/203	dot	1	d o t
+014/205	dot	1	d o t
+014/207	dodt	1	d o d t
+014/209	doht	1	d oh t
+014/211	dodt	1	d o d t
+014/213	dodt	1	d o d t
+014/215	dot	1	d o t
+014/217	doht	1	d oh t
+014/219	dot	1	d o t
+014/221	dodt	1	d o d t
+015/049	duad	1	d ua d
+015/051	duad	1	d ua d
+015/053	duad	1	d ua d
+015/055	dud	1	d u d
+015/057	dud	1	d u d
+015/059	dot	1	d o t
+015/061	dood	1	d oo d
+015/063	dod	1	d o d
+015/065	dod	1	d o d
+015/067	dodt	1	d o d t
+015/105	dod	1	d o d
+015/107	dodt	1	d o d t
+015/109	dot	1	d o t
+015/151	dodt	1	d o d t
+015/153	doht	1	d oh t
+015/155	dot	1	d o t
+015/157	dot	1	d o t
+015/159	dod	1	d o d
+015/161	doot	1	d oo t
+015/163	dot	1	d o t
+015/165	dot	1	d o t
+015/167	dot	1	d o t
+015/169	dodt	1	d o d t
+015/173	dod	1	d o d
+015/187	dood	1	d oo d
+015/191	dot	1	d o t
+015/193	doot	1	d oo t
+015/195	dod	1	d o d
+015/197	dod	1	d o d
+015/199	doot	1	d oo t
+015/201	dot	1	d o t
+015/203	dot	1	d o t
+015/205	dodt	1	d o d t
+015/207	dodt	1	d o d t
+015/209	dot	1	d o t
+015/211	dodt	1	d o d t
+015/213	dot	1	d o t
+015/215	dodt	1	d o d t
+015/217	dot	1	d o t
+015/219	doodt	1	d oo d t
+015/221	dot	1	d o t
+016/051	duad	1	d ua d
+016/055	durt	1	d u r t
+016/057	dod	1	d o d
+016/059	dod	1	d o d
+016/061	dod	1	d o d
+016/063	dod	1	d o d
+016/065	dod	1	d o d
+016/067	doht	1	d oh t
+016/081	dot	1	d o t
+016/083	dodt	1	d o d t
+016/105	dot	1	d o t
+016/107	dodt	1	d o d t
+016/109	dodt	1	d o d t
+016/111	dod	1	d o d
+016/145	dot	1	d o t
+016/147	dot	1	d o t
+016/149	dot	1	d o t
+016/151	dodt	1	d o d t
+016/153	dot	1	d o t
+016/155	dot	1	d o t
+016/157	dot	1	d o t
+016/159	dodt	1	d o d t
+016/161	doot	1	d oo t
+016/163	dod	1	d o d
+016/165	dod	1	d o d
+016/167	dot	1	d o t
+016/187	dot	1	d o t
+016/189	dot	1	d o t
+016/191	dot	1	d o t
+016/193	dod	1	d o d
+016/195	dodt	1	d o d t
+016/197	dohd	1	d oh d
+016/199	dot	1	d o t
+016/201	dodt	1	d o d t
+016/203	dot	1	d o t
+016/205	dot	1	d o t
+016/209	dodt	1	d o d t
+016/211	dot	1	d o t
+016/213	NA	NA	-
+016/215	dot	1	d o t
+016/217	dot	1	d o t
+016/219	dodt	1	d o d t
+017/055	dodt	1	d o d t
+017/057	dot	1	d o t
+017/059	dot	1	d o t
+017/061	dot	1	d o t
+017/063	dod	1	d o d
+017/065	dod	1	d o d
+017/067	dot	1	d o t
+017/069	dod	1	d o d
+017/081	dod	1	d o d
+017/083	dod	1	d o d
+017/099	dod	1	d o d
+017/101	dod	1	d o d
+017/103	dod	1	d o d
+017/107	dod	1	d o d
+017/109	dot	1	d o t
+017/145	dot	1	d o t
+017/147	dot	1	d o t
+017/149	tod	1	t o d
+017/151	dod	1	d o d
+017/153	dod	1	d o d
+017/155	dodt	1	d o d t
+017/157	dot	1	d o t
+017/159	dot	1	d o t
+017/161	tod	1	t o d
+017/163	dodt	1	d o d t
+017/165	dot	1	d o t
+017/169	dot	1	d o t
+017/171	dot	1	d o t
+017/183	dot	1	d o t
+017/185	dod	1	d o d
+017/187	dot	1	d o t
+017/189	dodt	1	d o d t
+017/191	dot	1	d o t
+017/193	dot	1	d o t
+017/195	dot	1	d o t
+017/197	dot	1	d o t
+017/199	dot	1	d o t
+017/201	dot	1	d o t
+017/203	dod	1	d o d
+017/205	NA	NA	-
+017/207	dod	1	d o d
+017/209	dodt	1	d o d t
+017/211	doot	1	d oo t
+017/213	dot	1	d o t
+017/215	dot	1	d o t
+017/217	dot	1	d o t
+017/219	dot	1	d o t
+018/051	ded	1	d e d
+018/053	dod	1	d o d
+018/055	dod	1	d o d
+018/057	dood	1	d oo d
+018/059	dod	1	d o d
+018/061	dot	1	d o t
+018/063	doot	1	d oo t
+018/065	dod	1	d o d
+018/067	dod	1	d o d
+018/069	dod	1	d o d
+018/071	dod	1	d o d
+018/073	dood	1	d oo d
+018/075	dod	1	d o d
+018/079	dod	1	d o d
+018/081	dod	1	d o d
+018/097	doot	1	d oo t
+018/099	dot	1	d o t
+018/103	dod	1	d o d
+018/105	dot	1	d o t
+018/107	dohd	1	d oh d
+018/109	dodt	1	d o d t
+018/111	dod	1	d o d
+018/143	dod	1	d o d
+018/145	dodt	1	d o d t
+018/147	dodt	1	d o d t
+018/149	dot	1	d o t
+018/151	dot	1	d o t
+018/153	dodt	1	d o d t
+018/155	dod	1	d o d
+018/157	dot	1	d o t
+018/159	dot	1	d o t
+018/161	dod	1	d o d
+018/163	dod	1	d o d
+018/165	dot	1	d o t
+018/169	dodt	1	d o d t
+018/171	doot	1	d oo t
+018/173	dot	1	d o t
+018/181	dod	1	d o d
+018/185	dot	1	d o t
+018/187	dot	1	d o t
+018/189	dot	1	d o t
+018/191	dot	1	d o t
+018/193	dot	1	d o t
+018/195	dot	1	d o t
+018/197	doot	1	d oo t
+018/199	doot	1	d oo t
+018/201	dod	1	d o d
+018/203	doht	1	d oh t
+018/205	dodt	1	d o d t
+018/207	dot	1	d o t
+018/209	dot	1	d o t
+018/211	dot	1	d o t
+018/213	doot	1	d oo t
+018/215	dod	1	d o d
+018/219	dot	1	d o t
+019/051	dot	1	d o t
+019/053	dod	1	d o d
+019/055	dod	1	d o d
+019/057	dood	1	d oo d
+019/059	dod	1	d o d
+019/061	dod	1	d o d
+019/063	dot	1	d o t
+019/065	dod	1	d o d
+019/067	dot	1	d o t
+019/069	dot	1	d o t
+019/071	dodt	1	d o d t
+019/073	dod	1	d o d
+019/075	dod	1	d o d
+019/077	dod	1	d o d
+019/079	doot	1	d oo t
+019/081	dod	1	d o d
+019/097	dod	1	d o d
+019/099	dod	1	d o d
+019/101	dood	1	d oo d
+019/103	dod	1	d o d
+019/105	dod	1	d o d
+019/107	dod	1	d o d
+019/109	dod	1	d o d
+019/143	doht	1	d oh t
+019/145	dot	1	d o t
+019/147	dot	1	d o t
+019/149	dod	1	d o d
+019/151	dod	1	d o d
+019/153	dot	1	d o t
+019/155	dot	1	d o t
+019/157	dot	1	d o t
+019/159	dodt	1	d o d t
+019/161	dodt	1	d o d t
+019/163	dot	1	d o t
+019/165	dod	1	d o d
+019/167	doot	1	d oo t
+019/169	dot	1	d o t
+019/171	dodt	1	d o d t
+019/173	doot	1	d oo t
+019/175	dot	1	d o t
+019/177	dot	1	d o t
+019/179	dodt	1	d o d t
+019/181	doot	1	d oo t
+019/183	dot	1	d o t
+019/185	dot	1	d o t
+019/187	dot	1	d o t
+019/189	doot	1	d oo t
+019/191	dot	1	d o t
+019/193	dot	1	d o t
+019/195	dot	1	d o t
+019/197	dot	1	d o t
+019/199	dot	1	d o t
+019/201	dot	1	d o t
+019/203	dot	1	d o t
+019/205	dodt	1	d o d t
+019/207	dot	1	d o t
+019/209	dot	1	d o t
+019/211	doot	1	d oo t
+019/213	dot	1	d o t
+019/215	dod	1	d o d
+019/217	dot	1	d o t
+019/219	dot	1	d o t
+020/043	dooa	1	d ooa
+020/053	dod	1	d o d
+020/055	dod	1	d o d
+020/057	doot	1	d oo t
+020/059	dod	1	d o d
+020/061	dod	1	d o d
+020/063	dod	1	d o d
+020/065	dood	1	d oo d
+020/067	doot	1	d oo t
+020/069	dod	1	d o d
+020/071	dod	1	d o d
+020/073	dod	1	d o d
+020/075	dod	1	d o d
+020/077	dod	1	d o d
+020/079	dod	1	d o d
+020/081	dod	1	d o d
+020/095	dot	1	d o t
+020/097	dod	1	d o d
+020/099	dod	1	d o d
+020/101	doot	1	d oo t
+020/103	dod	1	d o d
+020/105	dod	1	d o d
+020/107	dot	1	d o t
+020/135	doot	1	d oo t
+020/137	dohd	1	d oh d
+020/139	dod	1	d o d
+020/141	dot	1	d o t
+020/143	dot	1	d o t
+020/145	dodt	1	d o d t
+020/147	dod	1	d o d
+020/149	doht	1	d oh t
+020/151	dodt	1	d o d t
+020/153	dot	1	d o t
+020/155	dod	1	d o d
+020/157	dod	1	d o d
+020/159	dod	1	d o d
+020/161	dot	1	d o t
+020/163	dot	1	d o t
+020/165	dod	1	d o d
+020/167	toud	1	t ou d
+020/169	daut	1	d au t
+020/171	dodt	1	d o d t
+020/173	dot	1	d o t
+020/175	doht	1	d oh t
+020/177	doot	1	d oo t
+020/179	tod	1	t o d
+020/181	dod	1	d o d
+020/183	dot	1	d o t
+020/185	dot	1	d o t
+020/187	todt	1	t o d t
+020/189	dot	1	d o t
+020/191	doot	1	d oo t
+020/193	dot	1	d o t
+020/195	dot	1	d o t
+020/197	dot	1	d o t
+020/199	doot	1	d oo t
+020/201	dodt	1	d o d t
+020/203	dot	1	d o t
+020/205	dod	1	d o d
+020/207	dot	1	d o t
+020/209	dot	1	d o t
+020/211	doot	1	d oo t
+020/213	doht	1	d oh t
+020/215	dod	1	d o d
+020/217	dodt	1	d o d t
+020/219	doot	1	d oo t
+021/055	dood	1	d oo d
+021/057	dod	1	d o d
+021/059	dot	1	d o t
+021/061	doot	1	d oo t
+021/063	dood	1	d oo d
+021/065	dod	1	d o d
+021/067	dod	1	d o d
+021/069	dod	1	d o d
+021/071	dot	1	d o t
+021/073	dod	1	d o d
+021/075	NA	NA	-
+021/077	dod	1	d o d
+021/079	doht	1	d oh t
+021/087	dod	1	d o d
+021/089	dodt	1	d o d t
+021/091	dodt	1	d o d t
+021/093	doot	1	d oo t
+021/095	dod	1	d o d
+021/097	dod	1	d o d
+021/099	dod	1	d o d
+021/101	doot	1	d oo t
+021/103	dot	1	d o t
+021/105	dodt	1	d o d t
+021/107	doht	1	d oh t
+021/109	dod	1	d o d
+021/111	dodt	1	d o d t
+021/113	dodt	1	d o d t
+021/131	dot	1	d o t
+021/133	dot	1	d o t
+021/135	dot	1	d o t
+021/137	dodt	1	d o d t
+021/139	doodt	1	d oo d t
+021/141	dodt	1	d o d t
+021/143	dot	1	d o t
+021/145	dod	1	d o d
+021/147	dot	1	d o t
+021/149	dot	1	d o t
+021/151	doad	1	d oa d
+021/153	dodt	1	d o d t
+021/155	dot	1	d o t
+021/157	dot	1	d o t
+021/159	dot	1	d o t
+021/163	dodt	1	d o d t
+021/165	dodt	1	d o d t
+021/167	dot	1	d o t
+021/169	dout	1	d ou t
+021/171	dot	1	d o t
+021/173	dot	1	d o t
+021/175	dot	1	d o t
+021/177	dodt	1	d o d t
+021/179	dodt	1	d o d t
+021/181	dot	1	d o t
+021/183	dodt	1	d o d t
+021/185	todt	1	t o d t
+021/187	tod	1	t o d
+021/189	todt	1	t o d t
+021/191	todt	1	t o d t
+021/193	todt	1	t o d t
+021/195	tot	1	t o t
+021/197	tot	1	t o t
+021/199	dodt	1	d o d t
+021/201	dot	1	d o t
+021/203	doht	1	d oh t
+021/205	dod	1	d o d
+021/207	dod	1	d o d
+021/211	dodt	1	d o d t
+021/215	dod	1	d o d
+021/217	dod	1	d o d
+021/219	dot	1	d o t
+022/055	dood	1	d oo d
+022/057	dod	1	d o d
+022/059	dot	1	d o t
+022/061	dod	1	d o d
+022/063	doud	1	d ou d
+022/065	dod	1	d o d
+022/067	dodt	1	d o d t
+022/069	dood	1	d oo d
+022/071	dot	1	d o t
+022/073	dod	1	d o d
+022/075	dot	1	d o t
+022/077	dod	1	d o d
+022/087	dod	1	d o d
+022/089	doht	1	d oh t
+022/091	doodt	1	d oo d t
+022/093	doot	1	d oo t
+022/095	dodt	1	d o d t
+022/097	dod	1	d o d
+022/099	dod	1	d o d
+022/101	dot	1	d o t
+022/103	doot	1	d oo t
+022/105	dodt	1	d o d t
+022/107	dodt	1	d o d t
+022/109	dodt	1	d o d t
+022/111	dod	1	d o d
+022/113	dodt	1	d o d t
+022/115	doht	1	d oh t
+022/127	dod	1	d o d
+022/129	dod	1	d o d
+022/131	dodt	1	d o d t
+022/133	dodt	1	d o d t
+022/135	dodt	1	d o d t
+022/137	dod	1	d o d
+022/139	dod	1	d o d
+022/141	dot	1	d o t
+022/143	dod	1	d o d
+022/145	dod	1	d o d
+022/147	dot	1	d o t
+022/149	dot	1	d o t
+022/151	dodt	1	d o d t
+022/153	dod	1	d o d
+022/155	dodt	1	d o d t
+022/157	dot	1	d o t
+022/159	dot	1	d o t
+022/165	dod	1	d o d
+022/167	döüt	1	d öü t
+022/169	dot	1	d o t
+022/171	dot	1	d o t
+022/173	dodt	1	d o d t
+022/175	doot	1	d oo t
+022/177	dot	1	d o t
+022/179	dod	1	d o d
+022/181	dodt	1	d o d t
+022/183	todt	1	t o d t
+022/185	todt	1	t o d t
+022/187	todt	1	t o d t
+022/189	todt	1	t o d t
+022/191	todt	1	t o d t
+022/193	todt	1	t o d t
+022/195	tot	1	t o t
+022/197	tot	1	t o t
+022/199	NA	NA	-
+022/201	todt	1	t o d t
+022/203	dot	1	d o t
+022/205	dot	1	d o t
+022/209	doot	1	d oo t
+022/211	dood	1	d oo d
+022/215	doot	1	d oo t
+022/217	dohd	1	d oh d
+022/219	dot	1	d o t
+023/055	dod	1	d o d
+023/059	dod	1	d o d
+023/061	dot	1	d o t
+023/063	dod	1	d o d
+023/065	doht	1	d oh t
+023/067	dod	1	d o d
+023/069	dod	1	d o d
+023/071	dod	1	d o d
+023/073	dod	1	d o d
+023/075	dohd	1	d oh d
+023/077	dod	1	d o d
+023/079	dood	1	d oo d
+023/081	dod	1	d o d
+023/083	dodt	1	d o d t
+023/085	dod	1	d o d
+023/087	dot	1	d o t
+023/089	dood	1	d oo d
+023/091	dood	1	d oo d
+023/093	dood	1	d oo d
+023/095	dod	1	d o d
+023/097	dod	1	d o d
+023/099	dodt	1	d o d t
+023/101	dodt	1	d o d t
+023/103	dod	1	d o d
+023/105	dod	1	d o d
+023/107	dot	1	d o t
+023/109	dood	1	d oo d
+023/111	dot	1	d o t
+023/113	doht	1	d oh t
+023/115	doht	1	d oh t
+023/117	dot	1	d o t
+023/121	dod	1	d o d
+023/123	dod	1	d o d
+023/125	dot	1	d o t
+023/127	dod	1	d o d
+023/129	daut	1	d au t
+023/131	dod	1	d o d
+023/133	dodt	1	d o d t
+023/135	dodt	1	d o d t
+023/137	dodt	1	d o d t
+023/139	doot	1	d oo t
+023/141	dot	1	d o t
+023/143	dod	1	d o d
+023/145	dodt	1	d o d t
+023/147	dod	1	d o d
+023/149	dout	1	d ou t
+023/151	dodt	1	d o d t
+023/153	dodt	1	d o d t
+023/155	dot	1	d o t
+023/165	doot	1	d oo t
+023/167	dot	1	d o t
+023/169	dott	1	d o tt
+023/175	dod	1	d o d
+023/177	todt	1	t o d t
+023/179	todt	1	t o d t
+023/181	todt	1	t o d t
+023/183	todt	1	t o d t
+023/185	todt	1	t o d t
+023/187	todt	1	t o d t
+023/189	todt	1	t o d t
+023/191	todt	1	t o d t
+023/193	todt	1	t o d t
+023/195	todt	1	t o d t
+023/197	todt	1	t o d t
+023/199	doht	1	d oh t
+023/201	dot	1	d o t
+023/203	dot	1	d o t
+023/205	dod	1	d o d
+023/207	dot	1	d o t
+023/215	dod	1	d o d
+023/217	dod	1	d o d
+024/053	dod	1	d o d
+024/057	dod	1	d o d
+024/059	dod	1	d o d
+024/061	dod	1	d o d
+024/063	dod	1	d o d
+024/065	dot	1	d o t
+024/067	dod	1	d o d
+024/069	dod	1	d o d
+024/071	dodt	1	d o d t
+024/073	dodt	1	d o d t
+024/075	dod	1	d o d
+024/077	dod	1	d o d
+024/079	dod	1	d o d
+024/081	dood	1	d oo d
+024/083	dod	1	d o d
+024/085	dohd	1	d oh d
+024/087	dodt	1	d o d t
+024/089	dood	1	d oo d
+024/091	dod	1	d o d
+024/093	dod	1	d o d
+024/095	dod	1	d o d
+024/097	dod	1	d o d
+024/099	dood	1	d oo d
+024/101	dod	1	d o d
+024/103	dodt	1	d o d t
+024/105	doodt	1	d oo d t
+024/107	dood	1	d oo d
+024/109	duat	1	d ua t
+024/111	dod	1	d o d
+024/113	dodt	1	d o d t
+024/115	dod	1	d o d
+024/117	doht	1	d oh t
+024/119	dod	1	d o d
+024/121	dot	1	d o t
+024/123	dot	1	d o t
+024/125	dot	1	d o t
+024/127	dot	1	d o t
+024/129	dot	1	d o t
+024/131	dod	1	d o d
+024/133	dot	1	d o t
+024/135	dodt	1	d o d t
+024/137	dot	1	d o t
+024/139	dood	1	d oo d
+024/141	dodt	1	d o d t
+024/143	doht	1	d oh t
+024/145	dot	1	d o t
+024/147	dot	1	d o t
+024/149	dodt	1	d o d t
+024/151	tot	1	t o t
+024/153	dout	1	d ou t
+024/155	dod	1	d o d
+024/163	döut	1	d öu t
+024/165	deout	1	d eou t
+024/167	dot	1	d o t
+024/169	dot	1	d o t
+024/171	daut	1	d au t
+024/175	doot	1	d oo t
+024/179	todt	1	t o d t
+024/181	todt	1	t o d t
+024/183	todt	1	t o d t
+024/185	todt	1	t o d t
+024/187	todt	1	t o d t
+024/189	tot	1	t o t
+024/191	todt	1	t o d t
+024/193	todt	1	t o d t
+024/195	todt	1	t o d t
+024/197	tot	1	t o t
+024/199	todt	1	t o d t
+024/201	dodt	1	d o d t
+024/203	dot	1	d o t
+024/217	dot	1	d o t
+024/221	dot	1	d o t
+025/043	dooed	1	d ooe d
+025/051	dood	1	d oo d
+025/053	dod	1	d o d
+025/055	dod	1	d o d
+025/057	dot	1	d o t
+025/059	doot	1	d oo t
+025/061	dodt	1	d o d t
+025/063	doot	1	d oo t
+025/065	doht	1	d oh t
+025/067	dod	1	d o d
+025/069	daudt	1	d au d t
+025/071	dood	1	d oo d
+025/073	dot	1	d o t
+025/075	dod	1	d o d
+025/077	doot	1	d oo t
+025/079	dood	1	d oo d
+025/081	dodt	1	d o d t
+025/083	dod	1	d o d
+025/085	dot	1	d o t
+025/087	dod	1	d o d
+025/089	dod	1	d o d
+025/091	doht	1	d oh t
+025/093	dood	1	d oo d
+025/095	dod	1	d o d
+025/099	doot	1	d oo t
+025/101	dohd	1	d oh d
+025/103	dod	1	d o d
+025/105	dod	1	d o d
+025/107	dod	1	d o d
+025/109	dod	1	d o d
+025/111	dod	1	d o d
+025/113	doht	1	d oh t
+025/115	doodt	1	d oo d t
+025/123	dod	1	d o d
+025/125	dod	1	d o d
+025/127	dot	1	d o t
+025/129	dot	1	d o t
+025/131	dot	1	d o t
+025/133	dot	1	d o t
+025/135	dot	1	d o t
+025/137	dodt	1	d o d t
+025/139	dodt	1	d o d t
+025/141	dot	1	d o t
+025/143	dot	1	d o t
+025/145	dot	1	d o t
+025/147	dot	1	d o t
+025/149	dot	1	d o t
+025/151	dot	1	d o t
+025/153	diot	1	d io t
+025/155	dodt	1	d o d t
+025/157	dot	1	d o t
+025/159	dot	1	d o t
+025/177	daut	1	d au t
+025/179	todt	1	t o d t
+025/181	todt	1	t o d t
+025/183	todt	1	t o d t
+025/185	todt	1	t o d t
+025/187	todt	1	t o d t
+025/189	todt	1	t o d t
+025/191	todt	1	t o d t
+026/031	doot	1	d oo t
+026/033	dod	1	d o d
+026/037	dot	1	d o t
+026/041	dot	1	d o t
+026/043	doot	1	d oo t
+026/045	dot	1	d o t
+026/051	dodt	1	d o d t
+026/053	dodt	1	d o d t
+026/055	dod	1	d o d
+026/057	dodt	1	d o d t
+026/059	dodt	1	d o d t
+026/061	dod	1	d o d
+026/063	dod	1	d o d
+026/065	dod	1	d o d
+026/067	dood	1	d oo d
+026/069	doot	1	d oo t
+026/071	dot	1	d o t
+026/073	dod	1	d o d
+026/075	dod	1	d o d
+026/077	dod	1	d o d
+026/079	dod	1	d o d
+026/081	doht	1	d oh t
+026/083	dood	1	d oo d
+026/085	dod	1	d o d
+026/087	dod	1	d o d
+026/089	dod	1	d o d
+026/091	dod	1	d o d
+026/093	dod	1	d o d
+026/095	dot	1	d o t
+026/097	dod	1	d o d
+026/099	dodt	1	d o d t
+026/101	dod	1	d o d
+026/103	dod	1	d o d
+026/105	dodt	1	d o d t
+026/107	dot	1	d o t
+026/109	dod	1	d o d
+026/111	dot	1	d o t
+026/113	dot	1	d o t
+026/115	dod	1	d o d
+026/117	dot	1	d o t
+026/119	dot	1	d o t
+026/123	doah	1	d oah
+026/125	todt	1	t o d t
+026/127	dodt	1	d o d t
+026/129	dot	1	d o t
+026/131	dodt	1	d o d t
+026/133	dodt	1	d o d t
+026/135	dod	1	d o d
+026/137	dod	1	d o d
+026/139	doe	1	d oe
+026/141	dot	1	d o t
+026/143	dot	1	d o t
+026/145	dod	1	d o d
+026/147	dot	1	d o t
+026/153	dot	1	d o t
+026/155	dot	1	d o t
+026/157	dodt	1	d o d t
+026/159	dod	1	d o d
+026/161	doot	1	d oo t
+026/165	dodt	1	d o d t
+026/173	dod	1	d o d
+026/175	todt	1	t o d t
+026/177	dot	1	d o t
+026/179	dodt	1	d o d t
+026/181	todt	1	t o d t
+026/183	todt	1	t o d t
+026/185	dodt	1	d o d t
+026/187	todt	1	t o d t
+026/189	todt	1	t o d t
+027/027	doot	1	d oo t
+027/035	doot	1	d oo t
+027/037	doot	1	d oo t
+027/039	doot	1	d oo t
+027/041	dood	1	d oo d
+027/043	dod	1	d o d
+027/045	dod	1	d o d
+027/047	doot	1	d oo t
+027/051	dot	1	d o t
+027/053	dood	1	d oo d
+027/055	dod	1	d o d
+027/057	doot	1	d oo t
+027/059	doht	1	d oh t
+027/061	dot	1	d o t
+027/063	dood	1	d oo d
+027/065	dod	1	d o d
+027/067	dod	1	d o d
+027/069	dod	1	d o d
+027/071	dot	1	d o t
+027/073	dod	1	d o d
+027/075	dohd	1	d oh d
+027/077	doot	1	d oo t
+027/079	dod	1	d o d
+027/081	dod	1	d o d
+027/083	doot	1	d oo t
+027/085	dodt	1	d o d t
+027/087	doht	1	d oh t
+027/089	dood	1	d oo d
+027/091	dood	1	d oo d
+027/093	dot	1	d o t
+027/095	dohd	1	d oh d
+027/099	dood	1	d oo d
+027/101	dod	1	d o d
+027/103	dod	1	d o d
+027/105	dod	1	d o d
+027/107	dood	1	d oo d
+027/109	dod	1	d o d
+027/111	doht	1	d oh t
+027/113	dot	1	d o t
+027/115	doot	1	d oo t
+027/117	doot	1	d oo t
+027/119	dot	1	d o t
+027/123	dood	1	d oo d
+027/125	dodt	1	d o d t
+027/127	doot	1	d oo t
+027/129	dodt	1	d o d t
+027/131	dot	1	d o t
+027/135	dot	1	d o t
+027/137	dodt	1	d o d t
+027/139	dot	1	d o t
+027/141	dodt	1	d o d t
+027/143	dot	1	d o t
+027/145	dot	1	d o t
+027/147	doot	1	d oo t
+027/149	dot	1	d o t
+027/151	dodt	1	d o d t
+027/153	dot	1	d o t
+027/155	dodt	1	d o d t
+027/157	doot	1	d oo t
+027/159	dodt	1	d o d t
+027/161	dod	1	d o d
+027/167	dout	1	d ou t
+027/171	dod	1	d o d
+027/173	dot	1	d o t
+027/175	dot	1	d o t
+027/177	dot	1	d o t
+027/179	dodt	1	d o d t
+027/181	dodt	1	d o d t
+027/183	todt	1	t o d t
+027/185	todt	1	t o d t
+028/033	dod	1	d o d
+028/035	doot	1	d oo t
+028/037	dood	1	d oo d
+028/039	doot	1	d oo t
+028/041	dot	1	d o t
+028/043	dodt	1	d o d t
+028/045	dod	1	d o d
+028/047	doot	1	d oo t
+028/049	dod	1	d o d
+028/051	dodt	1	d o d t
+028/053	dod	1	d o d
+028/055	dod	1	d o d
+028/057	dod	1	d o d
+028/059	dod	1	d o d
+028/061	dod	1	d o d
+028/063	dod	1	d o d
+028/065	dod	1	d o d
+028/067	däud	1	d äu d
+028/069	dodt	1	d o d t
+028/071	dood	1	d oo d
+028/073	dod	1	d o d
+028/075	dood	1	d oo d
+028/077	dodt	1	d o d t
+028/079	dot	1	d o t
+028/081	dod	1	d o d
+028/083	dod	1	d o d
+028/085	dot	1	d o t
+028/087	dot	1	d o t
+028/089	dot	1	d o t
+028/091	dod	1	d o d
+028/093	dodt	1	d o d t
+028/095	doot	1	d oo t
+028/097	dodt	1	d o d t
+028/099	dood	1	d oo d
+028/103	dodt	1	d o d t
+028/105	dod	1	d o d
+028/107	dot	1	d o t
+028/109	dot	1	d o t
+028/111	doot	1	d oo t
+028/113	dod	1	d o d
+028/115	doth	1	d o t h
+028/117	dot	1	d o t
+028/119	dod	1	d o d
+028/121	dodt	1	d o d t
+028/123	doht	1	d oh t
+028/125	dodt	1	d o d t
+028/127	dod	1	d o d
+028/129	doht	1	d oh t
+028/131	dot	1	d o t
+028/133	dodt	1	d o d t
+028/135	dodt	1	d o d t
+028/137	doht	1	d oh t
+028/139	dodt	1	d o d t
+028/141	dodt	1	d o d t
+028/143	dodt	1	d o d t
+028/145	dod	1	d o d
+028/147	dod	1	d o d
+028/151	doit	1	d oi t
+028/153	dod	1	d o d
+028/155	dodt	1	d o d t
+028/157	dod	1	d o d
+028/159	doot	1	d oo t
+028/161	döät	1	d öä t
+028/165	dood	1	d oo d
+028/169	todt	1	t o d t
+028/171	dod	1	d o d
+028/173	doht	1	d oh t
+028/175	doot	1	d oo t
+028/177	daut	1	d au t
+028/179	dod	1	d o d
+028/181	todt	1	t o d t
+028/183	todt	1	t o d t
+028/185	doht	1	d oh t
+029/033	dood	1	d oo d
+029/035	dood	1	d oo d
+029/037	dood	1	d oo d
+029/039	dod	1	d o d
+029/043	doot	1	d oo t
+029/045	dod	1	d o d
+029/047	dot	1	d o t
+029/049	doht	1	d oh t
+029/051	dod	1	d o d
+029/053	dod	1	d o d
+029/055	doot	1	d oo t
+029/057	dod	1	d o d
+029/059	dod	1	d o d
+029/061	dohd	1	d oh d
+029/065	NA	NA	-
+029/067	deod	1	d eo d
+029/069	doud	1	d ou d
+029/071	doot	1	d oo t
+029/073	dodt	1	d o d t
+029/075	dod	1	d o d
+029/077	doot	1	d oo t
+029/079	dodt	1	d o d t
+029/081	dod	1	d o d
+029/083	dodt	1	d o d t
+029/085	dod	1	d o d
+029/087	dod	1	d o d
+029/089	dod	1	d o d
+029/091	dod	1	d o d
+029/093	dod	1	d o d
+029/095	dod	1	d o d
+029/097	dodt	1	d o d t
+029/099	dodt	1	d o d t
+029/101	dod	1	d o d
+029/103	dodt	1	d o d t
+029/105	dot	1	d o t
+029/107	dodt	1	d o d t
+029/109	dod	1	d o d
+029/111	dot	1	d o t
+029/113	dod	1	d o d
+029/115	dodt	1	d o d t
+029/117	dot	1	d o t
+029/119	dodt	1	d o d t
+029/121	doht	1	d oh t
+029/123	dod	1	d o d
+029/125	doth	1	d o t h
+029/127	dod	1	d o d
+029/129	dot	1	d o t
+029/131	dodt	1	d o d t
+029/133	dot	1	d o t
+029/135	dood	1	d oo d
+029/137	dot	1	d o t
+029/139	doot	1	d oo t
+029/141	dood	1	d oo d
+029/143	dot	1	d o t
+029/145	dot	1	d o t
+029/147	dod	1	d o d
+029/149	dot	1	d o t
+029/151	dot	1	d o t
+029/153	deot	1	d eo t
+029/155	dod	1	d o d
+029/157	däut	1	d äu t
+029/159	deut	1	d eu t
+029/161	dodt	1	d o d t
+029/163	dot	1	d o t
+029/165	döaud	1	d öau d
+029/167	dot	1	d o t
+029/169	dod	1	d o d
+029/171	dot	1	d o t
+029/173	dot	1	d o t
+029/175	dot	1	d o t
+029/177	dot	1	d o t
+029/181	dodt	1	d o d t
+030/033	dood	1	d oo d
+030/035	dood	1	d oo d
+030/037	dood	1	d oo d
+030/039	doot	1	d oo t
+030/041	dood	1	d oo d
+030/043	dood	1	d oo d
+030/045	dodt	1	d o d t
+030/047	dod	1	d o d
+030/049	dod	1	d o d
+030/051	dot	1	d o t
+030/053	dod	1	d o d
+030/055	dod	1	d o d
+030/057	dot	1	d o t
+030/059	dot	1	d o t
+030/061	doht	1	d oh t
+030/065	dod	1	d o d
+030/067	dot	1	d o t
+030/071	dot	1	d o t
+030/073	doht	1	d oh t
+030/075	dod	1	d o d
+030/077	dod	1	d o d
+030/079	dood	1	d oo d
+030/081	dod	1	d o d
+030/083	dod	1	d o d
+030/085	dot	1	d o t
+030/087	dod	1	d o d
+030/089	dod	1	d o d
+030/091	dod	1	d o d
+030/093	dod	1	d o d
+030/095	dot	1	d o t
+030/097	dad	1	d a d
+030/099	dod	1	d o d
+030/101	dod	1	d o d
+030/103	dot	1	d o t
+030/105	dod	1	d o d
+030/107	dod	1	d o d
+030/109	dod	1	d o d
+030/111	dodt	1	d o d t
+030/113	dot	1	d o t
+030/115	doht	1	d oh t
+030/117	dod	1	d o d
+030/119	dodt	1	d o d t
+030/121	doa	1	d oa
+030/123	dod	1	d o d
+030/125	dod	1	d o d
+030/127	dod	1	d o d
+030/129	dot	1	d o t
+030/131	dod	1	d o d
+030/133	dot	1	d o t
+030/135	dot	1	d o t
+030/137	dodt	1	d o d t
+030/139	dot	1	d o t
+030/141	dot	1	d o t
+030/143	dodt	1	d o d t
+030/145	dot	1	d o t
+030/147	dot	1	d o t
+030/149	dot	1	d o t
+030/151	deud	1	d eu d
+030/153	dodt	1	d o d t
+030/155	doht	1	d oh t
+030/157	dod	1	d o d
+030/159	deot	1	d eo t
+030/161	dodt	1	d o d t
+030/163	dot	1	d o t
+030/165	däut	1	d äu t
+030/167	dood	1	d oo d
+030/169	dod	1	d o d
+030/171	dot	1	d o t
+030/173	dodt	1	d o d t
+030/175	doat	1	d oa t
+030/177	dodt	1	d o d t
+030/179	dod	1	d o d
+030/181	dodt	1	d o d t
+030/183	dodt	1	d o d t
+031/035	dood	1	d oo d
+031/037	dood	1	d oo d
+031/039	dood	1	d oo d
+031/041	dood	1	d oo d
+031/043	dot	1	d o t
+031/045	dood	1	d oo d
+031/047	dot	1	d o t
+031/049	dot	1	d o t
+031/051	dod	1	d o d
+031/053	dot	1	d o t
+031/055	dot	1	d o t
+031/057	dot	1	d o t
+031/059	dod	1	d o d
+031/061	tod	1	t o d
+031/063	dod	1	d o d
+031/065	dot	1	d o t
+031/067	doot	1	d oo t
+031/069	dod	1	d o d
+031/071	diot	1	d io t
+031/073	dood	1	d oo d
+031/075	dod	1	d o d
+031/077	dod	1	d o d
+031/079	dod	1	d o d
+031/081	doot	1	d oo t
+031/083	doot	1	d oo t
+031/085	dod	1	d o d
+031/087	dodt	1	d o d t
+031/089	dod	1	d o d
+031/091	dood	1	d oo d
+031/093	dot	1	d o t
+031/095	dot	1	d o t
+031/097	dot	1	d o t
+031/099	dod	1	d o d
+031/101	dood	1	d oo d
+031/103	dod	1	d o d
+031/105	dod	1	d o d
+031/107	dod	1	d o d
+031/109	dod	1	d o d
+031/111	dodt	1	d o d t
+031/113	dood	1	d oo d
+031/115	dod	1	d o d
+031/117	doht	1	d oh t
+031/119	dod	1	d o d
+031/121	doht	1	d oh t
+031/123	dodt	1	d o d t
+031/125	dod	1	d o d
+031/127	doot	1	d oo t
+031/129	dot	1	d o t
+031/131	dod	1	d o d
+031/133	doot	1	d oo t
+031/135	dod	1	d o d
+031/137	dodt	1	d o d t
+031/139	doodt	1	d oo d t
+031/141	dot	1	d o t
+031/143	dodt	1	d o d t
+031/145	doot	1	d oo t
+031/147	doud	1	d ou d
+031/149	dout	1	d ou t
+031/151	toht	1	t oh t
+031/153	dodt	1	d o d t
+031/155	dehut	1	d e h u t
+031/157	dod	1	d o d
+031/159	dott	1	d o tt
+031/161	tot	1	t o t
+031/163	dot	1	d o t
+031/167	dot	1	d o t
+031/169	dod	1	d o d
+031/171	dout	1	d ou t
+031/173	dodt	1	d o d t
+031/175	dot	1	d o t
+031/177	dodt	1	d o d t
+031/179	dodt	1	d o d t
+032/035	dood	1	d oo d
+032/037	dood	1	d oo d
+032/039	dood	1	d oo d
+032/041	dod	1	d o d
+032/043	daot	1	d ao t
+032/045	dot	1	d o t
+032/047	dod	1	d o d
+032/049	doot	1	d oo t
+032/051	dood	1	d oo d
+032/053	dodt	1	d o d t
+032/055	doodt	1	d oo d t
+032/057	dod	1	d o d
+032/059	dod	1	d o d
+032/061	dod	1	d o d
+032/065	dot	1	d o t
+032/069	dot	1	d o t
+032/071	dod	1	d o d
+032/073	dodt	1	d o d t
+032/075	dood	1	d oo d
+032/077	dod	1	d o d
+032/079	dot	1	d o t
+032/081	dod	1	d o d
+032/083	doot	1	d oo t
+032/085	dot	1	d o t
+032/087	dodt	1	d o d t
+032/089	dodt	1	d o d t
+032/091	dod	1	d o d
+032/093	dod	1	d o d
+032/095	todt	1	t o d t
+032/097	dod	1	d o d
+032/099	dod	1	d o d
+032/101	dodt	1	d o d t
+032/103	dod	1	d o d
+032/105	dot	1	d o t
+032/107	dod	1	d o d
+032/111	dot	1	d o t
+032/113	dot	1	d o t
+032/115	dodt	1	d o d t
+032/117	dodt	1	d o d t
+032/119	dodt	1	d o d t
+032/121	doot	1	d oo t
+032/123	dodt	1	d o d t
+032/125	dodt	1	d o d t
+032/127	doot	1	d oo t
+032/129	dot	1	d o t
+032/131	doot	1	d oo t
+032/133	dod	1	d o d
+032/135	dot	1	d o t
+032/139	dot	1	d o t
+032/141	dot	1	d o t
+032/143	dot	1	d o t
+032/145	dot	1	d o t
+032/147	dodt	1	d o d t
+032/149	deüt	1	d eü t
+032/151	dot	1	d o t
+032/153	deot	1	d eo t
+032/157	däut	1	d äu t
+032/159	dot	1	d o t
+032/161	däut	1	d äu t
+032/163	deod	1	d eo d
+032/167	dot	1	d o t
+032/169	doht	1	d oh t
+032/171	dod	1	d o d
+032/173	todt	1	t o d t
+032/175	doht	1	d oh t
+032/177	doht	1	d oh t
+032/179	dot	1	d o t
+032/181	doot	1	d oo t
+032/183	dod	1	d o d
+033/035	dod	1	d o d
+033/037	dood	1	d oo d
+033/039	doodt	1	d oo d t
+033/041	dot	1	d o t
+033/043	dot	1	d o t
+033/045	dood	1	d oo d
+033/047	dot	1	d o t
+033/049	dot	1	d o t
+033/051	dod	1	d o d
+033/053	dod	1	d o d
+033/055	dod	1	d o d
+033/057	dodt	1	d o d t
+033/059	dodt	1	d o d t
+033/061	dod	1	d o d
+033/063	dot	1	d o t
+033/065	dood	1	d oo d
+033/067	dodt	1	d o d t
+033/069	dod	1	d o d
+033/071	dod	1	d o d
+033/073	dot	1	d o t
+033/075	doot	1	d oo t
+033/077	dot	1	d o t
+033/079	dodt	1	d o d t
+033/081	dodt	1	d o d t
+033/083	dodt	1	d o d t
+033/085	dod	1	d o d
+033/087	dood	1	d oo d
+033/089	dod	1	d o d
+033/091	dot	1	d o t
+033/093	dod	1	d o d
+033/095	dod	1	d o d
+033/097	doot	1	d oo t
+033/099	doht	1	d oh t
+033/101	dot	1	d o t
+033/103	dodt	1	d o d t
+033/105	dod	1	d o d
+033/107	dot	1	d o t
+033/109	doot	1	d oo t
+033/111	dodt	1	d o d t
+033/113	dot	1	d o t
+033/115	doot	1	d oo t
+033/117	dodt	1	d o d t
+033/119	NA	NA	-
+033/121	dod	1	d o d
+033/123	dod	1	d o d
+033/125	doat	1	d oa t
+033/127	doht	1	d oh t
+033/129	dodt	1	d o d t
+033/131	dot	1	d o t
+033/133	dot	1	d o t
+033/135	dod	1	d o d
+033/137	dodt	1	d o d t
+033/139	dot	1	d o t
+033/141	dot	1	d o t
+033/143	dot	1	d o t
+033/145	dot	1	d o t
+033/147	dodt	1	d o d t
+033/149	dot	1	d o t
+033/151	dot	1	d o t
+033/153	dot	1	d o t
+033/155	doot	1	d oo t
+033/159	deut	1	d eu t
+033/161	dout	1	d ou t
+033/163	döäd	1	d öä d
+033/165	doht	1	d oh t
+033/167	doht	1	d oh t
+033/169	dod	1	d o d
+033/173	dodt	1	d o d t
+033/175	dot	1	d o t
+033/177	dot	1	d o t
+034/035	doht	1	d oh t
+034/039	doht	1	d oh t
+034/041	doot	1	d oo t
+034/043	dood	1	d oo d
+034/045	dod	1	d o d
+034/047	dot	1	d o t
+034/049	dot	1	d o t
+034/051	dod	1	d o d
+034/053	doot	1	d oo t
+034/055	dot	1	d o t
+034/057	dod	1	d o d
+034/059	dod	1	d o d
+034/061	dod	1	d o d
+034/063	dod	1	d o d
+034/065	dot	1	d o t
+034/067	doht	1	d oh t
+034/069	NA	NA	-
+034/071	dod	1	d o d
+034/073	dod	1	d o d
+034/075	dod	1	d o d
+034/077	dood	1	d oo d
+034/079	dod	1	d o d
+034/081	dod	1	d o d
+034/083	dod	1	d o d
+034/085	dodt	1	d o d t
+034/087	dood	1	d oo d
+034/089	dot	1	d o t
+034/091	dod	1	d o d
+034/093	dodt	1	d o d t
+034/095	dot	1	d o t
+034/097	dod	1	d o d
+034/099	dohd	1	d oh d
+034/101	dod	1	d o d
+034/103	dot	1	d o t
+034/105	dot	1	d o t
+034/107	doot	1	d oo t
+034/109	dodt	1	d o d t
+034/111	dood	1	d oo d
+034/113	doot	1	d oo t
+034/115	dot	1	d o t
+034/117	dot	1	d o t
+034/119	dodt	1	d o d t
+034/121	dot	1	d o t
+034/125	dot	1	d o t
+034/127	dot	1	d o t
+034/129	dot	1	d o t
+034/131	tot	1	t o t
+034/133	doot	1	d oo t
+034/135	dot	1	d o t
+034/137	dot	1	d o t
+034/139	dot	1	d o t
+034/141	doudt	1	d ou d t
+034/143	dod	1	d o d
+034/145	dot	1	d o t
+034/147	dod	1	d o d
+034/149	dot	1	d o t
+034/151	dodt	1	d o d t
+034/155	deut	1	d eu t
+034/157	dod	1	d o d
+034/161	dot	1	d o t
+034/163	dod	1	d o d
+034/165	dot	1	d o t
+034/167	dot	1	d o t
+034/169	dot	1	d o t
+034/173	dot	1	d o t
+035/035	dood	1	d oo d
+035/037	dot	1	d o t
+035/039	dod	1	d o d
+035/041	dod	1	d o d
+035/043	dohd	1	d oh d
+035/045	doot	1	d oo t
+035/047	doht	1	d oh t
+035/049	dot	1	d o t
+035/051	dot	1	d o t
+035/053	dot	1	d o t
+035/055	doaud	1	d oau d
+035/057	doot	1	d oo t
+035/059	dodt	1	d o d t
+035/061	dot	1	d o t
+035/063	dot	1	d o t
+035/065	dod	1	d o d
+035/067	dot	1	d o t
+035/069	dod	1	d o d
+035/071	dot	1	d o t
+035/073	dodt	1	d o d t
+035/075	doht	1	d oh t
+035/077	dod	1	d o d
+035/079	dod	1	d o d
+035/081	doot	1	d oo t
+035/083	dod	1	d o d
+035/085	dod	1	d o d
+035/087	dod	1	d o d
+035/089	dod	1	d o d
+035/091	dodt	1	d o d t
+035/093	dot	1	d o t
+035/095	dood	1	d oo d
+035/097	dod	1	d o d
+035/099	dood	1	d oo d
+035/101	doot	1	d oo t
+035/103	dot	1	d o t
+035/105	dodt	1	d o d t
+035/107	dot	1	d o t
+035/109	doot	1	d oo t
+035/111	dot	1	d o t
+035/113	dodt	1	d o d t
+035/115	doht	1	d oh t
+035/117	dot	1	d o t
+035/121	tot	1	t o t
+035/123	dod	1	d o d
+035/125	dot	1	d o t
+035/127	dot	1	d o t
+035/129	dot	1	d o t
+035/133	dod	1	d o d
+035/135	doot	1	d oo t
+035/137	dot	1	d o t
+035/139	dod	1	d o d
+035/141	dout	1	d ou t
+035/143	dot	1	d o t
+035/145	dout	1	d ou t
+035/147	dodt	1	d o d t
+035/149	dot	1	d o t
+035/151	dot	1	d o t
+035/153	dot	1	d o t
+035/155	dout	1	d ou t
+035/157	todt	1	t o d t
+035/165	dot	1	d o t
+035/167	dot	1	d o t
+035/169	dot	1	d o t
+035/171	dot	1	d o t
+035/173	do	1	d o
+036/033	doot	1	d oo t
+036/035	dodt	1	d o d t
+036/039	dar	1	d a r
+036/041	dot	1	d o t
+036/043	dot	1	d o t
+036/045	dod	1	d o d
+036/047	dod	1	d o d
+036/049	dot	1	d o t
+036/051	dod	1	d o d
+036/053	dohd	1	d oh d
+036/055	dood	1	d oo d
+036/057	dot	1	d o t
+036/059	dodt	1	d o d t
+036/061	dood	1	d oo d
+036/063	dodt	1	d o d t
+036/065	dodt	1	d o d t
+036/067	dod	1	d o d
+036/069	doht	1	d oh t
+036/071	dod	1	d o d
+036/073	dood	1	d oo d
+036/075	dodt	1	d o d t
+036/077	dod	1	d o d
+036/079	dodt	1	d o d t
+036/081	dod	1	d o d
+036/083	dod	1	d o d
+036/085	dod	1	d o d
+036/087	dot	1	d o t
+036/089	dod	1	d o d
+036/091	dot	1	d o t
+036/095	dot	1	d o t
+036/097	dohd	1	d oh d
+036/099	doht	1	d oh t
+036/101	dot	1	d o t
+036/103	dot	1	d o t
+036/105	dod	1	d o d
+036/107	doht	1	d oh t
+036/109	dodt	1	d o d t
+036/111	doht	1	d oh t
+036/113	dot	1	d o t
+036/115	dodt	1	d o d t
+036/117	dot	1	d o t
+036/119	dodt	1	d o d t
+036/121	dodt	1	d o d t
+036/123	dod	1	d o d
+036/125	doot	1	d oo t
+036/127	dod	1	d o d
+036/129	dot	1	d o t
+036/133	doot	1	d oo t
+036/135	dodt	1	d o d t
+036/137	dod	1	d o d
+036/139	dodt	1	d o d t
+036/141	dot	1	d o t
+036/143	dot	1	d o t
+036/147	doot	1	d oo t
+036/149	dout	1	d ou t
+036/151	dot	1	d o t
+036/153	dot	1	d o t
+036/155	dot	1	d o t
+036/161	dot	1	d o t
+036/163	doht	1	d oh t
+036/165	dot	1	d o t
+036/167	dodt	1	d o d t
+036/169	dot	1	d o t
+036/171	dodt	1	d o d t
+037/033	dodt	1	d o d t
+037/035	dod	1	d o d
+037/037	dod	1	d o d
+037/039	dood	1	d oo d
+037/041	doot	1	d oo t
+037/043	dod	1	d o d
+037/045	dod	1	d o d
+037/047	dodt	1	d o d t
+037/049	dot	1	d o t
+037/051	dodt	1	d o d t
+037/053	dot	1	d o t
+037/055	dood	1	d oo d
+037/057	dod	1	d o d
+037/059	dot	1	d o t
+037/061	dot	1	d o t
+037/063	dod	1	d o d
+037/065	dot	1	d o t
+037/067	dood	1	d oo d
+037/069	dood	1	d oo d
+037/071	dodt	1	d o d t
+037/073	dodt	1	d o d t
+037/075	dot	1	d o t
+037/077	dod	1	d o d
+037/079	dod	1	d o d
+037/081	dout	1	d ou t
+037/083	daut	1	d au t
+037/085	dood	1	d oo d
+037/087	doodt	1	d oo d t
+037/089	dot	1	d o t
+037/091	dod	1	d o d
+037/093	dod	1	d o d
+037/095	dod	1	d o d
+037/097	dodt	1	d o d t
+037/099	dod	1	d o d
+037/101	dod	1	d o d
+037/105	dot	1	d o t
+037/107	doot	1	d oo t
+037/109	dot	1	d o t
+037/111	dott	1	d o tt
+037/113	dot	1	d o t
+037/115	dodt	1	d o d t
+037/117	dot	1	d o t
+037/119	doht	1	d oh t
+037/121	dodt	1	d o d t
+037/123	dodt	1	d o d t
+037/125	dohd	1	d oh d
+037/127	dot	1	d o t
+037/129	dodt	1	d o d t
+037/131	dot	1	d o t
+037/133	daot	1	d ao t
+037/135	dot	1	d o t
+037/137	dod	1	d o d
+037/139	doot	1	d oo t
+037/141	dot	1	d o t
+037/145	doodt	1	d oo d t
+037/147	dod	1	d o d
+037/149	dot	1	d o t
+037/151	dot	1	d o t
+037/153	dot	1	d o t
+037/155	dot	1	d o t
+037/157	dot	1	d o t
+037/159	dout	1	d ou t
+037/163	dout	1	d ou t
+037/171	dod	1	d o d
+038/033	doot	1	d oo t
+038/035	dod	1	d o d
+038/037	doot	1	d oo t
+038/039	doodt	1	d oo d t
+038/041	doot	1	d oo t
+038/043	dod	1	d o d
+038/045	dodt	1	d o d t
+038/047	dod	1	d o d
+038/049	dot	1	d o t
+038/051	dot	1	d o t
+038/053	dodt	1	d o d t
+038/055	dot	1	d o t
+038/057	dot	1	d o t
+038/059	dot	1	d o t
+038/061	dodt	1	d o d t
+038/063	doht	1	d oh t
+038/065	doot	1	d oo t
+038/067	dod	1	d o d
+038/069	dod	1	d o d
+038/071	dot	1	d o t
+038/073	doot	1	d oo t
+038/075	dot	1	d o t
+038/077	dod	1	d o d
+038/079	dod	1	d o d
+038/081	daut	1	d au t
+038/083	daut	1	d au t
+038/085	daut	1	d au t
+038/087	dodt	1	d o d t
+038/089	todt	1	t o d t
+038/091	dot	1	d o t
+038/093	dot	1	d o t
+038/095	dot	1	d o t
+038/097	dot	1	d o t
+038/099	dood	1	d oo d
+038/101	dodt	1	d o d t
+038/103	dot	1	d o t
+038/105	dod	1	d o d
+038/107	dod	1	d o d
+038/109	dot	1	d o t
+038/111	dod	1	d o d
+038/113	doht	1	d oh t
+038/115	dodt	1	d o d t
+038/117	dot	1	d o t
+038/119	dodt	1	d o d t
+038/121	dodt	1	d o d t
+038/123	dod	1	d o d
+038/125	doot	1	d oo t
+038/127	doadt	1	d oa d t
+038/129	dot	1	d o t
+038/131	doot	1	d oo t
+038/133	daodt	1	d ao d t
+038/135	dot	1	d o t
+038/145	dod	1	d o d
+038/147	dout	1	d ou t
+038/149	dodt	1	d o d t
+038/151	dod	1	d o d
+038/153	doüt	1	d oü t
+038/155	dot	1	d o t
+038/159	dot	1	d o t
+038/161	dojt	1	d o j t
+038/163	dot	1	d o t
+039/029	doot	1	d oo t
+039/031	doad	1	d oa d
+039/033	doot	1	d oo t
+039/035	dot	1	d o t
+039/037	dodt	1	d o d t
+039/039	dod	1	d o d
+039/041	doht	1	d oh t
+039/043	doot	1	d oo t
+039/045	dod	1	d o d
+039/047	dodt	1	d o d t
+039/049	dodt	1	d o d t
+039/051	dot	1	d o t
+039/053	dot	1	d o t
+039/055	dot	1	d o t
+039/057	dot	1	d o t
+039/059	dod	1	d o d
+039/061	dodt	1	d o d t
+039/063	dod	1	d o d
+039/065	doot	1	d oo t
+039/067	dodt	1	d o d t
+039/069	dod	1	d o d
+039/071	dod	1	d o d
+039/073	doht	1	d oh t
+039/075	dot	1	d o t
+039/077	dot	1	d o t
+039/079	doot	1	d oo t
+039/081	daut	1	d au t
+039/083	daut	1	d au t
+039/085	doudt	1	d ou d t
+039/087	dod	1	d o d
+039/089	doot	1	d oo t
+039/091	doht	1	d oh t
+039/093	dot	1	d o t
+039/095	doht	1	d oh t
+039/097	dodt	1	d o d t
+039/099	doot	1	d oo t
+039/101	dod	1	d o d
+039/103	dod	1	d o d
+039/105	dodt	1	d o d t
+039/107	dot	1	d o t
+039/109	dot	1	d o t
+039/111	doht	1	d oh t
+039/113	dodt	1	d o d t
+039/115	dot	1	d o t
+039/117	dodt	1	d o d t
+039/119	dot	1	d o t
+039/121	doot	1	d oo t
+039/123	dot	1	d o t
+039/125	dodt	1	d o d t
+039/127	dodt	1	d o d t
+039/129	dot	1	d o t
+039/131	todt	1	t o d t
+039/133	tudt	1	t u d t
+039/135	tudt	1	t u d t
+039/137	dot	1	d o t
+039/139	tudt	1	t u d t
+039/149	dot	1	d o t
+039/151	dot	1	d o t
+039/153	dot	1	d o t
+039/155	doht	1	d oh t
+040/029	doad	1	d oa d
+040/031	doat	1	d oa t
+040/033	dod	1	d o d
+040/035	doot	1	d oo t
+040/037	doat	1	d oa t
+040/039	dat	1	d a t
+040/041	dood	1	d oo d
+040/043	dat	1	d a t
+040/045	daudt	1	d au d t
+040/047	daut	1	d au t
+040/049	dod	1	d o d
+040/051	dot	1	d o t
+040/053	dod	1	d o d
+040/055	dot	1	d o t
+040/057	dood	1	d oo d
+040/059	dot	1	d o t
+040/061	dodt	1	d o d t
+040/063	dot	1	d o t
+040/065	dod	1	d o d
+040/067	dot	1	d o t
+040/069	dot	1	d o t
+040/071	doht	1	d oh t
+040/073	dood	1	d oo d
+040/075	dod	1	d o d
+040/077	dot	1	d o t
+040/079	dod	1	d o d
+040/081	dodt	1	d o d t
+040/083	dut	1	d u t
+040/085	daut	1	d au t
+040/087	dod	1	d o d
+040/089	dodt	1	d o d t
+040/091	dot	1	d o t
+040/093	doot	1	d oo t
+040/095	dodt	1	d o d t
+040/097	doht	1	d oh t
+040/099	dodt	1	d o d t
+040/101	dot	1	d o t
+040/103	dodt	1	d o d t
+040/105	dot	1	d o t
+040/107	doht	1	d oh t
+040/109	doot	1	d oo t
+040/111	dot	1	d o t
+040/113	dot	1	d o t
+040/115	dod	1	d o d
+040/119	dot	1	d o t
+040/121	dodt	1	d o d t
+040/123	dodt	1	d o d t
+040/125	dot	1	d o t
+040/127	NA	NA	-
+040/129	todt	1	t o d t
+040/131	dod	1	d o d
+040/133	tudt	1	t u d t
+040/135	toudt	1	t ou d t
+040/137	tudt	1	t u d t
+040/141	tudt	1	t u d t
+040/143	tudt	1	t u d t
+040/149	tudt	1	t u d t
+040/153	dodt	1	d o d t
+040/155	täut	1	t äu t
+041/031	doat	1	d oa t
+041/033	daut	1	d au t
+041/035	dot	1	d o t
+041/037	daot	1	d ao t
+041/039	daut	1	d au t
+041/041	dot	1	d o t
+041/043	daut	1	d au t
+041/045	daut	1	d au t
+041/047	daut	1	d au t
+041/049	dot	1	d o t
+041/051	dauht	1	d auh t
+041/053	doot	1	d oo t
+041/055	doot	1	d oo t
+041/057	dot	1	d o t
+041/059	dod	1	d o d
+041/061	dodt	1	d o d t
+041/063	dot	1	d o t
+041/065	dood	1	d oo d
+041/067	dot	1	d o t
+041/069	dot	1	d o t
+041/071	dot	1	d o t
+041/073	dod	1	d o d
+041/075	dod	1	d o d
+041/077	dot	1	d o t
+041/079	doot	1	d oo t
+041/081	dout	1	d ou t
+041/083	dot	1	d o t
+041/085	daut	1	d au t
+041/087	dodt	1	d o d t
+041/089	doht	1	d oh t
+041/091	dot	1	d o t
+041/093	dot	1	d o t
+041/095	dot	1	d o t
+041/097	dot	1	d o t
+041/099	dodt	1	d o d t
+041/101	dodt	1	d o d t
+041/103	dodt	1	d o d t
+041/105	NA	NA	-
+041/107	NA	NA	-
+041/109	dot	1	d o t
+041/111	dodt	1	d o d t
+041/113	doot	1	d oo t
+041/115	dot	1	d o t
+041/117	doot	1	d oo t
+041/119	dodt	1	d o d t
+041/121	dot	1	d o t
+041/123	doht	1	d oh t
+041/125	dod	1	d o d
+041/127	dodt	1	d o d t
+041/129	todt	1	t o d t
+041/131	todt	1	t o d t
+041/133	tudt	1	t u d t
+041/135	tudt	1	t u d t
+041/139	tudt	1	t u d t
+041/141	NA	NA	-
+041/145	tudt	1	t u d t
+041/147	tudt	1	t u d t
+041/153	dodt	1	d o d t
+041/155	dot	1	d o t
+041/157	NA	NA	-
+041/159	dot	1	d o t
+041/161	dot	1	d o t
+042/033	daot	1	d ao t
+042/035	dat	1	d a t
+042/037	daut	1	d au t
+042/039	dood	1	d oo d
+042/041	deut	1	d eu t
+042/043	doat	1	d oa t
+042/045	daut	1	d au t
+042/047	daut	1	d au t
+042/051	dooäut	1	d ooäu t
+042/053	daut	1	d au t
+042/055	dot	1	d o t
+042/057	dot	1	d o t
+042/059	dot	1	d o t
+042/061	däut	1	d äu t
+042/063	dot	1	d o t
+042/065	dot	1	d o t
+042/067	dodt	1	d o d t
+042/069	dot	1	d o t
+042/071	dot	1	d o t
+042/073	dot	1	d o t
+042/075	doot	1	d oo t
+042/077	dod	1	d o d
+042/079	dodt	1	d o d t
+042/081	dod	1	d o d
+042/083	dout	1	d ou t
+042/085	dodt	1	d o d t
+042/087	dodt	1	d o d t
+042/089	dodt	1	d o d t
+042/091	dot	1	d o t
+042/093	dodt	1	d o d t
+042/095	dodt	1	d o d t
+042/097	dot	1	d o t
+042/099	dod	1	d o d
+042/101	dod	1	d o d
+042/103	dot	1	d o t
+042/105	doot	1	d oo t
+042/107	dodt	1	d o d t
+042/109	dot	1	d o t
+042/111	doot	1	d oo t
+042/113	dodt	1	d o d t
+042/115	dot	1	d o t
+042/117	dodt	1	d o d t
+042/119	dod	1	d o d
+042/121	dot	1	d o t
+042/123	dod	1	d o d
+042/125	dodt	1	d o d t
+042/127	doot	1	d oo t
+042/129	todt	1	t o d t
+042/131	tudt	1	t u d t
+042/133	tudt	1	t u d t
+042/135	tudt	1	t u d t
+042/137	tut	1	t u t
+042/139	tuht	1	t uh t
+042/141	tut	1	t u t
+042/143	tut	1	t u t
+042/145	tut	1	t u t
+042/147	tudt	1	t u d t
+042/149	tudt	1	t u d t
+042/151	dud	1	d u d
+042/157	dout	1	d ou t
+042/159	dodt	1	d o d t
+042/161	deot	1	d eo t
+043/033	todt	1	t o d t
+043/035	doat	1	d oa t
+043/037	daut	1	d au t
+043/039	daut	1	d au t
+043/041	daut	1	d au t
+043/043	daut	1	d au t
+043/045	daut	1	d au t
+043/047	daud	1	d au d
+043/049	daut	1	d au t
+043/051	däut	1	d äu t
+043/053	däut	1	d äu t
+043/055	daut	1	d au t
+043/057	doot	1	d oo t
+043/059	dod	1	d o d
+043/061	deod	1	d eo d
+043/063	doot	1	d oo t
+043/065	deodt	1	d eo d t
+043/067	daot	1	d ao t
+043/069	dot	1	d o t
+043/071	dut	1	d u t
+043/073	dot	1	d o t
+043/075	dot	1	d o t
+043/077	dood	1	d oo d
+043/079	dot	1	d o t
+043/081	dot	1	d o t
+043/083	dot	1	d o t
+043/085	dot	1	d o t
+043/087	dot	1	d o t
+043/089	dot	1	d o t
+043/091	dot	1	d o t
+043/093	dodt	1	d o d t
+043/095	dot	1	d o t
+043/097	dodt	1	d o d t
+043/099	dodt	1	d o d t
+043/101	dot	1	d o t
+043/103	doot	1	d oo t
+043/105	NA	NA	-
+043/107	dot	1	d o t
+043/109	dot	1	d o t
+043/111	doht	1	d oh t
+043/113	dodt	1	d o d t
+043/115	dodt	1	d o d t
+043/117	dodt	1	d o d t
+043/119	doht	1	d oh t
+043/121	dodt	1	d o d t
+043/123	dodt	1	d o d t
+043/125	todt	1	t o d t
+043/127	todt	1	t o d t
+043/129	todt	1	t o d t
+043/131	tudt	1	t u d t
+043/133	tut	1	t u t
+043/135	tut	1	t u t
+043/137	tudt	1	t u d t
+043/141	tut	1	t u t
+043/143	tut	1	t u t
+043/145	tut	1	t u t
+043/151	todt	1	t o d t
+043/153	tudt	1	t u d t
+043/159	dot	1	d o t
+043/161	dod	1	d o d
+044/033	daut	1	d au t
+044/035	daut	1	d au t
+044/039	daut	1	d au t
+044/041	daut	1	d au t
+044/043	daut	1	d au t
+044/045	daudt	1	d au d t
+044/047	daut	1	d au t
+044/049	daut	1	d au t
+044/051	daut	1	d au t
+044/053	deüt	1	d eü t
+044/055	däut	1	d äu t
+044/057	doott	1	d oo tt
+044/059	doot	1	d oo t
+044/061	deaut	1	d eau t
+044/063	döot	1	d öo t
+044/065	deod	1	d eo d
+044/067	däut	1	d äu t
+044/069	duad	1	d ua d
+044/071	duht	1	d uh t
+044/073	dodt	1	d o d t
+044/075	dodt	1	d o d t
+044/077	dodt	1	d o d t
+044/079	dod	1	d o d
+044/081	doht	1	d oh t
+044/083	doet	1	d oe t
+044/085	dot	1	d o t
+044/087	dot	1	d o t
+044/089	dodt	1	d o d t
+044/091	dot	1	d o t
+044/093	dot	1	d o t
+044/095	dod	1	d o d
+044/097	dod	1	d o d
+044/099	doht	1	d oh t
+044/101	dodt	1	d o d t
+044/103	dot	1	d o t
+044/105	dodt	1	d o d t
+044/107	dodt	1	d o d t
+044/109	dod	1	d o d
+044/111	dot	1	d o t
+044/113	dood	1	d oo d
+044/115	dodt	1	d o d t
+044/117	dott	1	d o tt
+044/119	dot	1	d o t
+044/121	todt	1	t o d t
+044/123	todt	1	t o d t
+044/125	todt	1	t o d t
+044/127	todt	1	t o d t
+044/129	todt	1	t o d t
+044/131	tudt	1	t u d t
+044/133	tudt	1	t u d t
+044/135	tudt	1	t u d t
+044/137	tudt	1	t u d t
+044/141	tuht	1	t uh t
+044/143	tudt	1	t u d t
+044/145	tudt	1	t u d t
+044/149	toud	1	t ou d
+044/151	tuht	1	t uh t
+044/153	tuht	1	t uh t
+045/033	dot	1	d o t
+045/035	daut	1	d au t
+045/037	daut	1	d au t
+045/039	dauth	1	d au t h
+045/041	daut	1	d au t
+045/043	daut	1	d au t
+045/045	daut	1	d au t
+045/047	daut	1	d au t
+045/049	daot	1	d ao t
+045/051	däot	1	d äo t
+045/053	daut	1	d au t
+045/055	däoud	1	d äou d
+045/057	deot	1	d eo t
+045/059	däut	1	d äu t
+045/061	däut	1	d äu t
+045/063	diot	1	d io t
+045/065	deot	1	d eo t
+045/067	deut	1	d eu t
+045/069	deot	1	d eo t
+045/071	dod	1	d o d
+045/073	dood	1	d oo d
+045/075	doät	1	d oä t
+045/077	dot	1	d o t
+045/079	doot	1	d oo t
+045/081	dod	1	d o d
+045/083	doet	1	d oe t
+045/085	dot	1	d o t
+045/087	doht	1	d oh t
+045/089	dodt	1	d o d t
+045/091	dodt	1	d o d t
+045/093	dod	1	d o d
+045/095	dot	1	d o t
+045/097	dot	1	d o t
+045/099	doht	1	d oh t
+045/101	dod	1	d o d
+045/103	dot	1	d o t
+045/105	dod	1	d o d
+045/107	dod	1	d o d
+045/109	dodt	1	d o d t
+045/111	dodt	1	d o d t
+045/113	dodt	1	d o d t
+045/115	dod	1	d o d
+045/117	dot	1	d o t
+045/119	todt	1	t o d t
+045/121	todt	1	t o d t
+045/123	todt	1	t o d t
+045/125	todt	1	t o d t
+045/127	todt	1	t o d t
+045/129	tudt	1	t u d t
+045/131	tut	1	t u t
+045/133	tud	1	t u d
+045/135	tudt	1	t u d t
+045/137	tudt	1	t u d t
+045/139	tudt	1	t u d t
+045/141	tudt	1	t u d t
+045/143	tudt	1	t u d t
+045/145	tudt	1	t u d t
+045/155	tudt	1	t u d t
+046/031	doht	1	d oh t
+046/033	daut	1	d au t
+046/035	daut	1	d au t
+046/037	daud	1	d au d
+046/039	daut	1	d au t
+046/041	daut	1	d au t
+046/043	daut	1	d au t
+046/045	daut	1	d au t
+046/047	daut	1	d au t
+046/049	daut	1	d au t
+046/051	daut	1	d au t
+046/053	däut	1	d äu t
+046/055	däut	1	d äu t
+046/057	daut	1	d au t
+046/059	daut	1	d au t
+046/061	daut	1	d au t
+046/063	deot	1	d eo t
+046/065	deot	1	d eo t
+046/067	döit	1	d öi t
+046/069	dot	1	d o t
+046/071	doot	1	d oo t
+046/073	doot	1	d oo t
+046/075	doht	1	d oh t
+046/077	NA	NA	-
+046/079	doot	1	d oo t
+046/081	dot	1	d o t
+046/083	dot	1	d o t
+046/085	doot	1	d oo t
+046/087	dodt	1	d o d t
+046/089	doht	1	d oh t
+046/091	dodt	1	d o d t
+046/093	dodt	1	d o d t
+046/095	dot	1	d o t
+046/097	todt	1	t o d t
+046/099	dot	1	d o t
+046/101	dodt	1	d o d t
+046/103	dot	1	d o t
+046/105	dot	1	d o t
+046/107	dodt	1	d o d t
+046/109	dot	1	d o t
+046/111	dod	1	d o d
+046/113	dot	1	d o t
+046/115	dodt	1	d o d t
+046/117	toudt	1	t ou d t
+046/119	toot	1	t oo t
+046/121	todt	1	t o d t
+046/123	todt	1	t o d t
+046/125	todt	1	t o d t
+046/127	todt	1	t o d t
+046/129	tudt	1	t u d t
+046/131	tud	1	t u d
+046/133	tuhdt	1	t uh d t
+046/135	tudt	1	t u d t
+046/137	tudt	1	t u d t
+046/139	taudt	1	t au d t
+046/141	todt	1	t o d t
+046/143	tud	1	t u d
+046/155	toudt	1	t ou d t
+047/031	doot	1	d oo t
+047/033	doht	1	d oh t
+047/035	daut	1	d au t
+047/037	daut	1	d au t
+047/039	daut	1	d au t
+047/041	daut	1	d au t
+047/043	daut	1	d au t
+047/045	daut	1	d au t
+047/047	daut	1	d au t
+047/049	diaut	1	d iau t
+047/051	daut	1	d au t
+047/053	däüt	1	d äü t
+047/055	deut	1	d eu t
+047/057	daut	1	d au t
+047/059	daut	1	d au t
+047/061	daut	1	d au t
+047/063	däut	1	d äu t
+047/065	daut	1	d au t
+047/067	däut	1	d äu t
+047/069	deuit	1	d eui t
+047/071	doht	1	d oh t
+047/073	duät	1	d uä t
+047/075	dudt	1	d u d t
+047/077	dot	1	d o t
+047/079	dot	1	d o t
+047/081	dodt	1	d o d t
+047/083	todt	1	t o d t
+047/085	doot	1	d oo t
+047/087	doht	1	d oh t
+047/089	dood	1	d oo d
+047/091	doht	1	d oh t
+047/093	dodt	1	d o d t
+047/095	dot	1	d o t
+047/097	dood	1	d oo d
+047/099	doot	1	d oo t
+047/101	dot	1	d o t
+047/103	dodt	1	d o d t
+047/105	doht	1	d oh t
+047/107	dot	1	d o t
+047/109	dot	1	d o t
+047/111	dodt	1	d o d t
+047/113	dodt	1	d o d t
+047/115	todt	1	t o d t
+047/117	todt	1	t o d t
+047/119	todt	1	t o d t
+047/123	todt	1	t o d t
+047/125	todt	1	t o d t
+047/127	todt	1	t o d t
+047/129	tuht	1	t uh t
+047/131	todt	1	t o d t
+047/133	toudt	1	t ou d t
+047/135	tudt	1	t u d t
+047/137	tud	1	t u d
+047/139	taudt	1	t au d t
+047/141	taudt	1	t au d t
+047/147	taut	1	t au t
+047/149	taut	1	t au t
+047/151	taut	1	t au t
+047/159	tudt	1	t u d t
+048/021	doot	1	d oo t
+048/023	dood	1	d oo d
+048/027	doot	1	d oo t
+048/029	dod	1	d o d
+048/031	dot	1	d o t
+048/033	taud	1	t au d
+048/035	daudt	1	d au d t
+048/037	daut	1	d au t
+048/039	daud	1	d au d
+048/041	daut	1	d au t
+048/045	duot	1	d uo t
+048/047	daut	1	d au t
+048/049	daudt	1	d au d t
+048/051	daut	1	d au t
+048/053	daut	1	d au t
+048/055	daut	1	d au t
+048/057	daut	1	d au t
+048/059	daut	1	d au t
+048/061	daut	1	d au t
+048/063	daut	1	d au t
+048/065	daut	1	d au t
+048/067	daudt	1	d au d t
+048/069	dot	1	d o t
+048/071	tudt	1	t u d t
+048/073	dout	1	d ou t
+048/075	duot	1	d uo t
+048/077	dod	1	d o d
+048/079	dot	1	d o t
+048/081	doht	1	d oh t
+048/083	doot	1	d oo t
+048/085	doot	1	d oo t
+048/087	doht	1	d oh t
+048/089	doht	1	d oh t
+048/091	duot	1	d uo t
+048/093	tot	1	t o t
+048/095	doht	1	d oh t
+048/099	dodt	1	d o d t
+048/101	dot	1	d o t
+048/103	todt	1	t o d t
+048/105	dod	1	d o d
+048/107	dot	1	d o t
+048/109	dod	1	d o d
+048/111	dodt	1	d o d t
+048/113	dodt	1	d o d t
+048/115	tot	1	t o t
+048/119	tod	1	t o d
+048/123	todt	1	t o d t
+048/125	todt	1	t o d t
+048/127	tudt	1	t u d t
+048/129	tudt	1	t u d t
+048/131	tauudt	1	t auu d t
+048/133	taudt	1	t au d t
+048/135	taudt	1	t au d t
+048/137	toudt	1	t ou d t
+048/139	taudt	1	t au d t
+048/141	taut	1	t au t
+048/143	taut	1	t au t
+048/145	taudt	1	t au d t
+048/147	taut	1	t au t
+048/153	taut	1	t au t
+048/157	taut	1	t au t
+048/159	tudt	1	t u d t
+049/019	dot	1	d o t
+049/021	dot	1	d o t
+049/023	dood	1	d oo d
+049/025	doot	1	d oo t
+049/027	doot	1	d oo t
+049/029	dod	1	d o d
+049/031	doht	1	d oh t
+049/033	dot	1	d o t
+049/035	dood	1	d oo d
+049/037	doot	1	d oo t
+049/039	doot	1	d oo t
+049/041	daut	1	d au t
+049/043	daut	1	d au t
+049/045	daut	1	d au t
+049/047	daut	1	d au t
+049/049	daut	1	d au t
+049/051	däut	1	d äu t
+049/053	daut	1	d au t
+049/055	däut	1	d äu t
+049/057	daut	1	d au t
+049/059	daut	1	d au t
+049/061	daut	1	d au t
+049/063	daut	1	d au t
+049/065	NA	NA	-
+049/067	daut	1	d au t
+049/069	doot	1	d oo t
+049/071	duot	1	d uo t
+049/073	tuhd	1	t uh d
+049/077	dodt	1	d o d t
+049/079	dot	1	d o t
+049/081	doht	1	d oh t
+049/083	doot	1	d oo t
+049/085	tot	1	t o t
+049/087	duedt	1	d ue d t
+049/089	todt	1	t o d t
+049/091	duodt	1	d uo d t
+049/093	tuot	1	t uo t
+049/095	todt	1	t o d t
+049/097	todt	1	t o d t
+049/099	todt	1	t o d t
+049/101	todt	1	t o d t
+049/103	todt	1	t o d t
+049/105	todt	1	t o d t
+049/107	tot	1	t o t
+049/109	dodt	1	d o d t
+049/111	dot	1	d o t
+049/113	dot	1	d o t
+049/115	todt	1	t o d t
+049/117	tot	1	t o t
+049/119	todt	1	t o d t
+049/121	todt	1	t o d t
+049/123	todt	1	t o d t
+049/125	todt	1	t o d t
+049/127	tudt	1	t u d t
+049/129	tudt	1	t u d t
+049/131	tudt	1	t u d t
+049/133	taut	1	t au t
+049/135	tout	1	t ou t
+049/137	taudt	1	t au d t
+049/139	taudt	1	t au d t
+049/141	taud	1	t au d
+049/143	taut	1	t au t
+049/145	taudt	1	t au d t
+049/147	taudt	1	t au d t
+049/151	taut	1	t au t
+050/021	dod	1	d o d
+050/023	tot	1	t o t
+050/025	doht	1	d oh t
+050/027	doht	1	d oh t
+050/029	dot	1	d o t
+050/031	dot	1	d o t
+050/033	dod	1	d o d
+050/035	dout	1	d ou t
+050/037	daut	1	d au t
+050/039	dot	1	d o t
+050/041	daut	1	d au t
+050/043	daut	1	d au t
+050/047	daut	1	d au t
+050/049	daut	1	d au t
+050/051	daut	1	d au t
+050/053	daut	1	d au t
+050/055	daut	1	d au t
+050/057	daut	1	d au t
+050/059	daut	1	d au t
+050/061	doat	1	d oa t
+050/063	daud	1	d au d
+050/065	dat	1	d a t
+050/067	dadt	1	d a d t
+050/069	däut	1	d äu t
+050/071	doht	1	d oh t
+050/073	dot	1	d o t
+050/075	tudt	1	t u d t
+050/077	dot	1	d o t
+050/079	dot	1	d o t
+050/081	dot	1	d o t
+050/083	doot	1	d oo t
+050/085	todt	1	t o d t
+050/087	todt	1	t o d t
+050/089	tuht	1	t uh t
+050/091	tuadt	1	t ua d t
+050/093	tuät	1	t uä t
+050/095	todt	1	t o d t
+050/097	todt	1	t o d t
+050/099	todt	1	t o d t
+050/101	todt	1	t o d t
+050/103	tod	1	t o d
+050/105	dodt	1	d o d t
+050/107	dodt	1	d o d t
+050/109	dod	1	d o d
+050/111	todt	1	t o d t
+050/113	dodt	1	d o d t
+050/115	todt	1	t o d t
+050/117	todt	1	t o d t
+050/119	tod	1	t o d
+050/121	todt	1	t o d t
+050/125	NA	NA	-
+050/127	tudt	1	t u d t
+050/129	tudt	1	t u d t
+050/131	tud	1	t u d
+050/133	taud	1	t au d
+050/135	taud	1	t au d
+050/137	taudt	1	t au d t
+050/139	taut	1	t au t
+050/141	taut	1	t au t
+050/143	taudt	1	t au d t
+050/145	taudt	1	t au d t
+050/147	taut	1	t au t
+050/149	taut	1	t au t
+050/151	taut	1	t au t
+050/155	taut	1	t au t
+050/157	taudt	1	t au d t
+050/159	taut	1	t au t
+050/161	tut	1	t u t
+051/023	doot	1	d oo t
+051/025	doht	1	d oh t
+051/027	dot	1	d o t
+051/029	dot	1	d o t
+051/031	daut	1	d au t
+051/033	doht	1	d oh t
+051/035	NA	NA	-
+051/037	dout	1	d ou t
+051/039	daut	1	d au t
+051/041	daut	1	d au t
+051/043	doet	1	d oe t
+051/045	däuit	1	d äui t
+051/047	däut	1	d äu t
+051/049	daut	1	d au t
+051/051	daut	1	d au t
+051/053	daudt	1	d au d t
+051/055	daut	1	d au t
+051/057	daut	1	d au t
+051/059	daht	1	d ah t
+051/061	dat	1	d a t
+051/063	dadt	1	d a d t
+051/065	daht	1	d ah t
+051/067	dat	1	d a t
+051/069	daat	1	d aa t
+051/071	dat	1	d a t
+051/073	daot	1	d ao t
+051/075	todt	1	t o d t
+051/077	dodt	1	d o d t
+051/079	todt	1	t o d t
+051/081	todt	1	t o d t
+051/083	todt	1	t o d t
+051/085	tudt	1	t u d t
+051/087	tud	1	t u d
+051/089	duht	1	d uh t
+051/091	todt	1	t o d t
+051/093	todt	1	t o d t
+051/095	todt	1	t o d t
+051/097	todt	1	t o d t
+051/099	todt	1	t o d t
+051/101	dod	1	d o d
+051/103	dod	1	d o d
+051/105	todt	1	t o d t
+051/107	todt	1	t o d t
+051/109	todt	1	t o d t
+051/111	todt	1	t o d t
+051/113	todt	1	t o d t
+051/115	todt	1	t o d t
+051/117	todt	1	t o d t
+051/119	todt	1	t o d t
+051/121	todt	1	t o d t
+051/123	tod	1	t o d
+051/125	tuht	1	t uh t
+051/127	tudt	1	t u d t
+051/129	tudt	1	t u d t
+051/131	tudt	1	t u d t
+051/133	tut	1	t u t
+051/135	taudt	1	t au d t
+051/137	taut	1	t au t
+051/139	taudt	1	t au d t
+051/141	taut	1	t au t
+051/143	taudt	1	t au d t
+051/145	taudt	1	t au d t
+051/147	tauudt	1	t auu d t
+051/149	taut	1	t au t
+051/151	taut	1	t au t
+051/153	taut	1	t au t
+051/155	taut	1	t au t
+051/157	taud	1	t au d
+052/023	dood	1	d oo d
+052/025	dood	1	d oo d
+052/027	dot	1	d o t
+052/029	dot	1	d o t
+052/031	dot	1	d o t
+052/033	dot	1	d o t
+052/035	daud	1	d au d
+052/037	daut	1	d au t
+052/039	däut	1	d äu t
+052/041	diäut	1	d iäu t
+052/043	däut	1	d äu t
+052/045	däut	1	d äu t
+052/047	deut	1	d eu t
+052/049	teeoit	1	t eeoi t
+052/051	daut	1	d au t
+052/053	daut	1	d au t
+052/057	daut	1	d au t
+052/059	däat	1	d äa t
+052/061	daut	1	d au t
+052/063	tad	1	t a d
+052/065	daat	1	d aa t
+052/067	daat	1	d aa t
+052/069	daat	1	d aa t
+052/071	dodt	1	d o d t
+052/073	daht	1	d ah t
+052/075	taat	1	t aa t
+052/077	dodt	1	d o d t
+052/079	daht	1	d ah t
+052/081	tat	1	t a t
+052/083	tudt	1	t u d t
+052/085	dudt	1	d u d t
+052/087	tut	1	t u t
+052/089	tudt	1	t u d t
+052/091	todt	1	t o d t
+052/093	toudt	1	t ou d t
+052/095	dot	1	d o t
+052/097	duett	1	d ue tt
+052/099	tuadt	1	t ua d t
+052/101	todt	1	t o d t
+052/103	todt	1	t o d t
+052/105	todt	1	t o d t
+052/107	todt	1	t o d t
+052/109	todt	1	t o d t
+052/111	todt	1	t o d t
+052/113	todt	1	t o d t
+052/115	todt	1	t o d t
+052/117	todt	1	t o d t
+052/121	todt	1	t o d t
+052/123	todt	1	t o d t
+052/125	tudt	1	t u d t
+052/127	tuudt	1	t uu d t
+052/129	tudt	1	t u d t
+052/131	tudt	1	t u d t
+052/133	tut	1	t u t
+052/135	tudt	1	t u d t
+052/137	tauot	1	t auo t
+052/139	taudt	1	t au d t
+052/141	taudt	1	t au d t
+052/143	taudt	1	t au d t
+052/145	taudt	1	t au d t
+052/147	taudt	1	t au d t
+052/149	taudt	1	t au d t
+052/151	taudt	1	t au d t
+052/153	thaut	1	t h au t
+052/155	taut	1	t au t
+052/157	taudt	1	t au d t
+052/159	taudt	1	t au d t
+053/023	dadt	1	d a d t
+053/025	duhd	1	d uh d
+053/027	dot	1	d o t
+053/029	doht	1	d oh t
+053/031	doatt	1	d oa tt
+053/033	dot	1	d o t
+053/035	daut	1	d au t
+053/037	daudt	1	d au d t
+053/039	däüt	1	d äü t
+053/041	doit	1	d oi t
+053/043	däut	1	d äu t
+053/045	däut	1	d äu t
+053/047	däut	1	d äu t
+053/049	däut	1	d äu t
+053/051	täudt	1	t äu d t
+053/053	daut	1	d au t
+053/055	daut	1	d au t
+053/057	daud	1	d au d
+053/059	daut	1	d au t
+053/061	daut	1	d au t
+053/063	daht	1	d ah t
+053/065	daht	1	d ah t
+053/067	dadt	1	d a d t
+053/069	dat	1	d a t
+053/071	doodt	1	d oo d t
+053/073	taadt	1	t aa d t
+053/075	daht	1	d ah t
+053/077	tahdt	1	t ah d t
+053/079	tadt	1	t a d t
+053/081	tudt	1	t u d t
+053/083	toudt	1	t ou d t
+053/085	tudt	1	t u d t
+053/087	tudt	1	t u d t
+053/089	tud	1	t u d
+053/091	dodt	1	d o d t
+053/093	dud	1	d u d
+053/095	todt	1	t o d t
+053/097	todt	1	t o d t
+053/099	thuät	1	t h uä t
+053/101	tudt	1	t u d t
+053/103	dod	1	d o d
+053/105	tuet	1	t ue t
+053/107	tuedt	1	t ue d t
+053/109	tudt	1	t u d t
+053/111	tuedt	1	t ue d t
+053/113	tudt	1	t u d t
+053/115	thut	1	t h u t
+053/121	tot	1	t o t
+053/123	tuht	1	t uh t
+053/125	todt	1	t o d t
+053/127	tudt	1	t u d t
+053/129	tudt	1	t u d t
+053/131	tudt	1	t u d t
+053/133	taadt	1	t aa d t
+053/135	tut	1	t u t
+053/137	taudt	1	t au d t
+053/139	taut	1	t au t
+053/141	taudt	1	t au d t
+053/143	taudt	1	t au d t
+053/145	taut	1	t au t
+053/147	taudt	1	t au d t
+053/149	taudt	1	t au d t
+053/151	taut	1	t au t
+053/153	taud	1	t au d
+053/155	thaut	1	t h au t
+053/157	todt	1	t o d t
+054/023	duet	1	d ue t
+054/025	duät	1	d uä t
+054/027	dot	1	d o t
+054/029	dot	1	d o t
+054/031	dhot	1	d h o t
+054/033	dot	1	d o t
+054/035	dot	1	d o t
+054/037	doot	1	d oo t
+054/039	dout	1	d ou t
+054/041	daut	1	d au t
+054/043	däüt	1	d äü t
+054/045	däut	1	d äu t
+054/047	daut	1	d au t
+054/049	däut	1	d äu t
+054/051	dout	1	d ou t
+054/053	daut	1	d au t
+054/055	daut	1	d au t
+054/057	daut	1	d au t
+054/059	daut	1	d au t
+054/061	todt	1	t o d t
+054/063	dod	1	d o d
+054/065	daat	1	d aa t
+054/067	dot	1	d o t
+054/069	todt	1	t o d t
+054/071	tad	1	t a d
+054/073	tadt	1	t a d t
+054/075	daad	1	d aa d
+054/077	daad	1	d aa d
+054/079	toud	1	t ou d
+054/081	tudt	1	t u d t
+054/083	tudt	1	t u d t
+054/085	tudt	1	t u d t
+054/087	tut	1	t u t
+054/089	duud	1	d uu d
+054/091	dud	1	d u d
+054/093	thut	1	t h u t
+054/095	tudt	1	t u d t
+054/097	dod	1	d o d
+054/099	tuodt	1	t uo d t
+054/101	duidt	1	d ui d t
+054/103	tued	1	t ue d
+054/105	tued	1	t ue d
+054/107	todt	1	t o d t
+054/109	tud	1	t u d
+054/111	tudt	1	t u d t
+054/113	tuedt	1	t ue d t
+054/115	duhd	1	d uh d
+054/117	duhd	1	d uh d
+054/119	tud	1	t u d
+054/121	todt	1	t o d t
+054/123	tuht	1	t uh t
+054/125	tudt	1	t u d t
+054/127	tuhdt	1	t uh d t
+054/131	tudt	1	t u d t
+054/133	tudt	1	t u d t
+054/135	tud	1	t u d
+054/137	todt	1	t o d t
+054/139	taudt	1	t au d t
+054/141	taudt	1	t au d t
+054/143	taudt	1	t au d t
+054/145	taudt	1	t au d t
+054/147	taut	1	t au t
+054/149	taudt	1	t au d t
+054/151	taudt	1	t au d t
+054/153	taudt	1	t au d t
+054/155	taudt	1	t au d t
+054/157	taut	1	t au t
+054/159	tudt	1	t u d t
+054/161	tudt	1	t u d t
+054/163	dod	1	d o d
+055/023	duet	1	d ue t
+055/025	duöt	1	d uö t
+055/027	duet	1	d ue t
+055/029	doot	1	d oo t
+055/031	duot	1	d uo t
+055/033	duat	1	d ua t
+055/035	dood	1	d oo d
+055/037	dood	1	d oo d
+055/039	dout	1	d ou t
+055/041	dout	1	d ou t
+055/043	dääut	1	d ääu t
+055/045	deut	1	d eu t
+055/047	däut	1	d äu t
+055/049	daut	1	d au t
+055/051	daut	1	d au t
+055/053	daut	1	d au t
+055/055	daut	1	d au t
+055/057	daut	1	d au t
+055/059	daut	1	d au t
+055/061	tuodt	1	t uo d t
+055/063	dod	1	d o d
+055/065	tudt	1	t u d t
+055/067	toud	1	t ou d
+055/069	dodt	1	d o d t
+055/071	todt	1	t o d t
+055/073	toadt	1	t oa d t
+055/075	toudt	1	t ou d t
+055/077	duht	1	d uh t
+055/079	toudt	1	t ou d t
+055/081	tudt	1	t u d t
+055/083	toudt	1	t ou d t
+055/085	dut	1	d u t
+055/087	dut	1	d u t
+055/089	dut	1	d u t
+055/091	tudt	1	t u d t
+055/093	tudt	1	t u d t
+055/095	tudt	1	t u d t
+055/097	doht	1	d oh t
+055/099	todt	1	t o d t
+055/101	tudt	1	t u d t
+055/103	duat	1	d ua t
+055/105	dut	1	d u t
+055/107	tuet	1	t ue t
+055/109	dud	1	d u d
+055/111	dut	1	d u t
+055/113	tudt	1	t u d t
+055/115	tudt	1	t u d t
+055/117	tudt	1	t u d t
+055/119	tudt	1	t u d t
+055/123	tut	1	t u t
+055/125	tudt	1	t u d t
+055/127	tudt	1	t u d t
+055/131	dut	1	d u t
+055/133	tuut	1	t uu t
+055/135	tudt	1	t u d t
+055/137	tuht	1	t uh t
+055/139	tuht	1	t uh t
+055/141	todt	1	t o d t
+055/143	taud	1	t au d
+055/145	taudt	1	t au d t
+055/147	taut	1	t au t
+055/149	tudt	1	t u d t
+055/151	täut	1	t äu t
+055/153	taudt	1	t au d t
+055/155	taut	1	t au t
+055/157	taud	1	t au d
+055/159	thutt	1	t h u tt
+055/161	todt	1	t o d t
+056/021	duht	1	d uh t
+056/023	tuet	1	t ue t
+056/025	dueet	1	d uee t
+056/027	duet	1	d ue t
+056/029	doot	1	d oo t
+056/031	doot	1	d oo t
+056/033	duat	1	d ua t
+056/035	dot	1	d o t
+056/037	dod	1	d o d
+056/039	dout	1	d ou t
+056/041	thuout	1	t h uou t
+056/043	däut	1	d äu t
+056/045	deot	1	d eo t
+056/047	däut	1	d äu t
+056/049	däut	1	d äu t
+056/051	däut	1	d äu t
+056/053	daut	1	d au t
+056/055	daut	1	d au t
+056/057	daut	1	d au t
+056/059	dod	1	d o d
+056/061	todt	1	t o d t
+056/063	dod	1	d o d
+056/065	dot	1	d o t
+056/067	tuodt	1	t uo d t
+056/069	dodt	1	d o d t
+056/071	tout	1	t ou t
+056/073	tud	1	t u d
+056/075	duet	1	d ue t
+056/077	duhd	1	d uh d
+056/079	tuedt	1	t ue d t
+056/081	toudt	1	t ou d t
+056/083	tuedt	1	t ue d t
+056/085	tudt	1	t u d t
+056/087	tudt	1	t u d t
+056/089	dud	1	d u d
+056/091	dudt	1	d u d t
+056/093	tudt	1	t u d t
+056/095	tudt	1	t u d t
+056/097	tud	1	t u d
+056/099	tudt	1	t u d t
+056/101	tuedt	1	t ue d t
+056/103	duot	1	d uo t
+056/105	tuhet	1	t u h e t
+056/107	duedt	1	d ue d t
+056/109	tuedt	1	t ue d t
+056/111	tudt	1	t u d t
+056/113	tuuett	1	t uue tt
+056/115	tudt	1	t u d t
+056/117	duht	1	d uh t
+056/121	todt	1	t o d t
+056/123	tudt	1	t u d t
+056/125	tuudt	1	t uu d t
+056/127	duhdt	1	d uh d t
+056/129	duht	1	d uh t
+056/131	tud	1	t u d
+056/133	tudt	1	t u d t
+056/135	tut	1	t u t
+056/137	tudt	1	t u d t
+056/139	tud	1	t u d
+056/141	tudt	1	t u d t
+056/143	todt	1	t o d t
+056/145	tod	1	t o d
+056/147	taut	1	t au t
+056/149	taut	1	t au t
+056/151	taudt	1	t au d t
+056/153	taudt	1	t au d t
+056/155	taout	1	t aou t
+056/157	dodt	1	d o d t
+056/159	tudt	1	t u d t
+056/161	tudt	1	t u d t
+057/021	dut	1	d u t
+057/023	duet	1	d ue t
+057/025	dued	1	d ue d
+057/027	duet	1	d ue t
+057/029	duhet	1	d u h e t
+057/031	duht	1	d uh t
+057/033	dut	1	d u t
+057/035	dud	1	d u d
+057/037	dot	1	d o t
+057/039	dout	1	d ou t
+057/041	doot	1	d oo t
+057/043	deut	1	d eu t
+057/045	deiüt	1	d eiü t
+057/047	daut	1	d au t
+057/049	däüät	1	d äüä t
+057/051	dod	1	d o d
+057/053	daud	1	d au d
+057/055	dodt	1	d o d t
+057/057	doodt	1	d oo d t
+057/059	dot	1	d o t
+057/061	todt	1	t o d t
+057/063	dod	1	d o d
+057/065	todt	1	t o d t
+057/067	dot	1	d o t
+057/069	tüd	1	t ü d
+057/071	tödt	1	t ö d t
+057/073	tued	1	t ue d
+057/075	tuet	1	t ue t
+057/077	düet	1	d üe t
+057/079	tuht	1	t uh t
+057/081	tuädt	1	t uä d t
+057/083	tuhdt	1	t uh d t
+057/085	dud	1	d u d
+057/087	tudt	1	t u d t
+057/089	tuht	1	t uh t
+057/091	tudt	1	t u d t
+057/093	dud	1	d u d
+057/095	tud	1	t u d
+057/097	tud	1	t u d
+057/099	tudt	1	t u d t
+057/101	tud	1	t u d
+057/103	tudt	1	t u d t
+057/105	todt	1	t o d t
+057/107	tudt	1	t u d t
+057/109	todt	1	t o d t
+057/111	tudt	1	t u d t
+057/113	tudt	1	t u d t
+057/115	todt	1	t o d t
+057/117	tudt	1	t u d t
+057/119	tuht	1	t uh t
+057/121	tudt	1	t u d t
+057/123	tudt	1	t u d t
+057/125	tuudt	1	t uu d t
+057/127	tud	1	t u d
+057/129	tudt	1	t u d t
+057/131	dudt	1	d u d t
+057/133	tudt	1	t u d t
+057/135	tuidt	1	t ui d t
+057/137	tudt	1	t u d t
+057/139	tuut	1	t uu t
+057/141	tudt	1	t u d t
+057/143	tut	1	t u t
+057/145	tudt	1	t u d t
+057/147	tudt	1	t u d t
+057/149	taut	1	t au t
+057/151	taudt	1	t au d t
+057/153	taudt	1	t au d t
+057/155	taut	1	t au t
+057/157	todt	1	t o d t
+057/159	tudt	1	t u d t
+057/161	todt	1	t o d t
+058/019	duued	1	d uue d
+058/021	duät	1	d uä t
+058/023	dud	1	d u d
+058/025	dut	1	d u t
+058/027	dut	1	d u t
+058/029	duht	1	d uh t
+058/031	duht	1	d uh t
+058/033	dut	1	d u t
+058/035	duut	1	d uu t
+058/037	duet	1	d ue t
+058/039	dod	1	d o d
+058/041	dod	1	d o d
+058/043	doot	1	d oo t
+058/045	däut	1	d äu t
+058/047	dot	1	d o t
+058/049	dot	1	d o t
+058/051	döht	1	d öh t
+058/053	dot	1	d o t
+058/055	tut	1	t u t
+058/057	tod	1	t o d
+058/059	dodt	1	d o d t
+058/061	tod	1	t o d
+058/063	dod	1	d o d
+058/065	dohd	1	d oh d
+058/067	dod	1	d o d
+058/069	todt	1	t o d t
+058/071	tuedt	1	t ue d t
+058/073	tuodt	1	t uo d t
+058/075	duet	1	d ue t
+058/077	tudt	1	t u d t
+058/079	tuadt	1	t ua d t
+058/081	duäd	1	d uä d
+058/083	tudt	1	t u d t
+058/085	tudt	1	t u d t
+058/087	tudt	1	t u d t
+058/089	tudt	1	t u d t
+058/091	duud	1	d uu d
+058/093	tudt	1	t u d t
+058/095	tudt	1	t u d t
+058/097	dud	1	d u d
+058/099	tuud	1	t uu d
+058/101	tudt	1	t u d t
+058/103	tudt	1	t u d t
+058/105	tudt	1	t u d t
+058/107	tudt	1	t u d t
+058/109	tuodt	1	t uo d t
+058/111	tudt	1	t u d t
+058/113	dot	1	d o t
+058/115	todt	1	t o d t
+058/117	tudt	1	t u d t
+058/119	tut	1	t u t
+058/121	tut	1	t u t
+058/123	tudt	1	t u d t
+058/125	dut	1	d u t
+058/127	dudt	1	d u d t
+058/129	tuut	1	t uu t
+058/131	thut	1	t h u t
+058/133	NA	NA	-
+058/135	tutt	1	t u tt
+058/137	tuidt	1	t ui d t
+058/139	tut	1	t u t
+058/141	tut	1	t u t
+058/143	tut	1	t u t
+058/145	tuhdt	1	t uh d t
+058/147	todt	1	t o d t
+058/149	tudt	1	t u d t
+058/151	todt	1	t o d t
+058/153	tut	1	t u t
+058/155	tudt	1	t u d t
+058/157	tuht	1	t uh t
+058/159	tudt	1	t u d t
+059/019	duet	1	d ue t
+059/021	tuet	1	t ue t
+059/023	duet	1	d ue t
+059/025	dut	1	d u t
+059/027	dut	1	d u t
+059/029	dud	1	d u d
+059/031	duht	1	d uh t
+059/033	duht	1	d uh t
+059/035	duhet	1	d u h e t
+059/037	doet	1	d oe t
+059/039	doät	1	d oä t
+059/041	dooet	1	d ooe t
+059/043	duet	1	d ue t
+059/045	doad	1	d oa d
+059/047	dot	1	d o t
+059/049	dod	1	d o d
+059/051	dodt	1	d o d t
+059/053	dot	1	d o t
+059/055	dod	1	d o d
+059/057	todt	1	t o d t
+059/059	tod	1	t o d
+059/061	dodt	1	d o d t
+059/063	dot	1	d o t
+059/065	dod	1	d o d
+059/067	todt	1	t o d t
+059/069	tud	1	t u d
+059/071	tudt	1	t u d t
+059/073	tudt	1	t u d t
+059/075	duet	1	d ue t
+059/077	dot	1	d o t
+059/079	duat	1	d ua t
+059/081	tudt	1	t u d t
+059/083	tudt	1	t u d t
+059/085	tudt	1	t u d t
+059/087	tudt	1	t u d t
+059/089	tudt	1	t u d t
+059/091	tudt	1	t u d t
+059/093	tudt	1	t u d t
+059/095	tudt	1	t u d t
+059/097	dudt	1	d u d t
+059/099	tudt	1	t u d t
+059/101	tudt	1	t u d t
+059/103	duhd	1	d uh d
+059/105	duht	1	d uh t
+059/107	dhud	1	d h u d
+059/109	dud	1	d u d
+059/111	NA	NA	-
+059/113	tudt	1	t u d t
+059/115	tud	1	t u d
+059/117	duht	1	d uh t
+059/119	dud	1	d u d
+059/121	tut	1	t u t
+059/123	tudt	1	t u d t
+059/125	tuht	1	t uh t
+059/127	tudt	1	t u d t
+059/129	tut	1	t u t
+059/131	tut	1	t u t
+059/133	duudt	1	d uu d t
+059/135	tudt	1	t u d t
+059/137	tudt	1	t u d t
+059/139	tuht	1	t uh t
+059/141	tudt	1	t u d t
+059/143	tudt	1	t u d t
+059/145	tut	1	t u t
+059/147	tuut	1	t uu t
+059/149	toudt	1	t ou d t
+059/151	tud	1	t u d
+059/153	toudt	1	t ou d t
+059/155	tudt	1	t u d t
+059/157	tudt	1	t u d t
+059/159	tut	1	t u t
+059/161	tudt	1	t u d t
+059/165	tut	1	t u t
+059/169	tut	1	t u t
+060/021	duht	1	d uh t
+060/023	tüät	1	t üä t
+060/025	dut	1	d u t
+060/027	duht	1	d uh t
+060/029	duht	1	d uh t
+060/031	dut	1	d u t
+060/033	duht	1	d uh t
+060/035	duht	1	d uh t
+060/037	dud	1	d u d
+060/039	dod	1	d o d
+060/041	duet	1	d ue t
+060/043	dut	1	d u t
+060/045	tot	1	t o t
+060/047	dut	1	d u t
+060/049	duhd	1	d uh d
+060/051	dudt	1	d u d t
+060/053	dut	1	d u t
+060/055	dodt	1	d o d t
+060/057	dod	1	d o d
+060/059	doodt	1	d oo d t
+060/061	dot	1	d o t
+060/063	dot	1	d o t
+060/065	dot	1	d o t
+060/067	dod	1	d o d
+060/069	tudt	1	t u d t
+060/071	tod	1	t o d
+060/073	todt	1	t o d t
+060/075	tuedt	1	t ue d t
+060/077	tued	1	t ue d
+060/079	duät	1	d uä t
+060/081	tuaadt	1	t uaa d t
+060/083	dud	1	d u d
+060/085	tudt	1	t u d t
+060/087	tudt	1	t u d t
+060/089	tudt	1	t u d t
+060/091	tud	1	t u d
+060/093	tud	1	t u d
+060/095	tudt	1	t u d t
+060/097	duhd	1	d uh d
+060/099	dud	1	d u d
+060/101	tuudt	1	t uu d t
+060/103	todt	1	t o d t
+060/105	dut	1	d u t
+060/107	tudt	1	t u d t
+060/109	dud	1	d u d
+060/111	tudt	1	t u d t
+060/113	tut	1	t u t
+060/115	tudt	1	t u d t
+060/117	tud	1	t u d
+060/119	tot	1	t o t
+060/121	tut	1	t u t
+060/123	tut	1	t u t
+060/125	duhd	1	d uh d
+060/127	tuhd	1	t uh d
+060/129	tut	1	t u t
+060/131	duut	1	d uu t
+060/135	dut	1	d u t
+060/137	tudt	1	t u d t
+060/139	tudt	1	t u d t
+060/141	tudt	1	t u d t
+060/143	tudt	1	t u d t
+060/145	tudt	1	t u d t
+060/147	tud	1	t u d
+060/149	tudt	1	t u d t
+060/151	tud	1	t u d
+060/153	tuht	1	t uh t
+060/155	tudt	1	t u d t
+060/157	tut	1	t u t
+060/159	tud	1	t u d
+060/163	todt	1	t o d t
+060/165	todt	1	t o d t
+061/021	duet	1	d ue t
+061/023	duht	1	d uh t
+061/025	dut	1	d u t
+061/027	dut	1	d u t
+061/029	dud	1	d u d
+061/031	dut	1	d u t
+061/033	duht	1	d uh t
+061/035	dut	1	d u t
+061/037	duht	1	d uh t
+061/039	dueed	1	d uee d
+061/041	dued	1	d ue d
+061/043	duod	1	d uo d
+061/045	duet	1	d ue t
+061/047	dut	1	d u t
+061/049	dudt	1	d u d t
+061/051	dud	1	d u d
+061/053	dudt	1	d u d t
+061/055	dudt	1	d u d t
+061/057	dod	1	d o d
+061/059	dot	1	d o t
+061/061	dodt	1	d o d t
+061/063	dot	1	d o t
+061/065	dod	1	d o d
+061/067	dodt	1	d o d t
+061/069	todt	1	t o d t
+061/071	todt	1	t o d t
+061/073	todt	1	t o d t
+061/075	toed	1	t oe d
+061/077	tued	1	t ue d
+061/079	tuodt	1	t uo d t
+061/081	tuadt	1	t ua d t
+061/083	tut	1	t u t
+061/085	tudt	1	t u d t
+061/087	tuht	1	t uh t
+061/089	tudt	1	t u d t
+061/091	tudt	1	t u d t
+061/093	tudt	1	t u d t
+061/095	tudt	1	t u d t
+061/097	tudt	1	t u d t
+061/099	tut	1	t u t
+061/101	tudt	1	t u d t
+061/103	tudt	1	t u d t
+061/105	tudt	1	t u d t
+061/107	dod	1	d o d
+061/109	dohdt	1	d oh d t
+061/111	dudt	1	d u d t
+061/113	tudt	1	t u d t
+061/115	tud	1	t u d
+061/117	toet	1	t oe t
+061/119	tuot	1	t uo t
+061/121	tot	1	t o t
+061/123	tut	1	t u t
+061/125	tuut	1	t uu t
+061/127	tut	1	t u t
+061/129	tuut	1	t uu t
+061/131	tut	1	t u t
+061/133	tut	1	t u t
+061/137	tudt	1	t u d t
+061/139	tut	1	t u t
+061/141	tut	1	t u t
+061/143	tut	1	t u t
+061/145	tuht	1	t uh t
+061/147	tut	1	t u t
+061/149	tuht	1	t uh t
+061/151	tudt	1	t u d t
+061/153	tudt	1	t u d t
+061/155	tudt	1	t u d t
+061/157	tutt	1	t u tt
+061/159	tudt	1	t u d t
+061/161	thut	1	t h u t
+061/165	tudt	1	t u d t
+062/021	duet	1	d ue t
+062/023	dud	1	d u d
+062/025	duet	1	d ue t
+062/027	duht	1	d uh t
+062/029	duht	1	d uh t
+062/031	duet	1	d ue t
+062/033	duht	1	d uh t
+062/035	tut	1	t u t
+062/037	dut	1	d u t
+062/039	dud	1	d u d
+062/041	dudt	1	d u d t
+062/043	duet	1	d ue t
+062/045	dudt	1	d u d t
+062/047	dut	1	d u t
+062/049	dut	1	d u t
+062/051	duhd	1	d uh d
+062/053	duudt	1	d uu d t
+062/055	tudt	1	t u d t
+062/057	duht	1	d uh t
+062/059	dodt	1	d o d t
+062/061	todt	1	t o d t
+062/063	dod	1	d o d
+062/065	dod	1	d o d
+062/067	todt	1	t o d t
+062/069	todt	1	t o d t
+062/071	tudt	1	t u d t
+062/073	duut	1	d uu t
+062/075	tuedt	1	t ue d t
+062/077	tud	1	t u d
+062/079	tuudt	1	t uu d t
+062/081	tuodt	1	t uo d t
+062/083	tuued	1	t uue d
+062/085	tudt	1	t u d t
+062/087	tut	1	t u t
+062/089	dut	1	d u t
+062/091	tud	1	t u d
+062/093	tudt	1	t u d t
+062/095	tudt	1	t u d t
+062/097	tudt	1	t u d t
+062/099	tudt	1	t u d t
+062/101	tudt	1	t u d t
+062/103	tudt	1	t u d t
+062/105	tudt	1	t u d t
+062/107	tudt	1	t u d t
+062/109	tudt	1	t u d t
+062/111	NA	NA	-
+062/113	tut	1	t u t
+062/115	tot	1	t o t
+062/117	tot	1	t o t
+062/119	tot	1	t o t
+062/121	NA	NA	-
+062/123	tut	1	t u t
+062/125	tuut	1	t uu t
+062/127	tut	1	t u t
+062/129	tut	1	t u t
+062/131	tut	1	t u t
+062/133	tuut	1	t uu t
+062/135	tut	1	t u t
+062/137	NA	NA	-
+062/139	tut	1	t u t
+062/141	tut	1	t u t
+062/143	tuht	1	t uh t
+062/145	tuhdt	1	t uh d t
+062/147	tuht	1	t uh t
+062/149	tud	1	t u d
+062/151	tuht	1	t uh t
+062/153	tuht	1	t uh t
+062/155	tudt	1	t u d t
+062/157	tut	1	t u t
+062/159	tudt	1	t u d t
+062/161	tudt	1	t u d t
+063/021	dut	1	d u t
+063/023	duet	1	d ue t
+063/025	dut	1	d u t
+063/027	duet	1	d ue t
+063/029	dued	1	d ue d
+063/031	duet	1	d ue t
+063/033	duet	1	d ue t
+063/035	dut	1	d u t
+063/037	dud	1	d u d
+063/039	dud	1	d u d
+063/041	duht	1	d uh t
+063/043	dudt	1	d u d t
+063/045	dut	1	d u t
+063/047	dout	1	d ou t
+063/049	dout	1	d ou t
+063/051	dudt	1	d u d t
+063/053	dut	1	d u t
+063/055	dud	1	d u d
+063/057	tud	1	t u d
+063/059	düet	1	d üe t
+063/061	todt	1	t o d t
+063/063	dod	1	d o d
+063/065	dod	1	d o d
+063/067	dod	1	d o d
+063/069	dod	1	d o d
+063/071	tud	1	t u d
+063/073	tud	1	t u d
+063/075	duid	1	d ui d
+063/077	tuet	1	t ue t
+063/079	tuodt	1	t uo d t
+063/081	tued	1	t ue d
+063/083	tuet	1	t ue t
+063/085	tudt	1	t u d t
+063/087	tudt	1	t u d t
+063/089	tud	1	t u d
+063/091	tudt	1	t u d t
+063/093	todt	1	t o d t
+063/095	tuodt	1	t uo d t
+063/097	tuedt	1	t ue d t
+063/099	tud	1	t u d
+063/101	tudt	1	t u d t
+063/103	duud	1	d uu d
+063/105	tud	1	t u d
+063/107	tudt	1	t u d t
+063/109	dod	1	d o d
+063/111	tut	1	t u t
+063/113	tut	1	t u t
+063/115	tut	1	t u t
+063/117	tut	1	t u t
+063/119	tuut	1	t uu t
+063/121	tut	1	t u t
+063/123	NA	NA	-
+063/125	tut	1	t u t
+063/127	NA	NA	-
+063/135	tut	1	t u t
+063/137	tut	1	t u t
+063/139	NA	NA	-
+063/141	tut	1	t u t
+063/143	tuut	1	t uu t
+063/145	tut	1	t u t
+063/147	tuudt	1	t uu d t
+063/149	tudt	1	t u d t
+063/151	tudt	1	t u d t
+063/153	tudt	1	t u d t
+063/155	tudt	1	t u d t
+063/157	tuhdt	1	t uh d t
+063/159	tudt	1	t u d t
+063/161	tut	1	t u t
+063/163	tudt	1	t u d t
+063/165	tudt	1	t u d t
+064/023	dut	1	d u t
+064/025	tuet	1	t ue t
+064/027	duet	1	d ue t
+064/029	NA	NA	-
+064/031	duot	1	d uo t
+064/033	duet	1	d ue t
+064/035	dut	1	d u t
+064/037	dut	1	d u t
+064/039	dud	1	d u d
+064/041	dut	1	d u t
+064/043	dut	1	d u t
+064/045	dut	1	d u t
+064/047	dut	1	d u t
+064/049	dud	1	d u d
+064/051	dudt	1	d u d t
+064/053	duht	1	d uh t
+064/055	dudt	1	d u d t
+064/057	duut	1	d uu t
+064/059	duet	1	d ue t
+064/061	dodt	1	d o d t
+064/063	dod	1	d o d
+064/065	dot	1	d o t
+064/067	todt	1	t o d t
+064/069	dod	1	d o d
+064/071	tudt	1	t u d t
+064/073	tuidt	1	t ui d t
+064/075	tuedt	1	t ue d t
+064/077	duot	1	d uo t
+064/079	tudt	1	t u d t
+064/081	tüat	1	t üa t
+064/083	todt	1	t o d t
+064/085	todt	1	t o d t
+064/087	tudt	1	t u d t
+064/089	tudt	1	t u d t
+064/091	tuedt	1	t ue d t
+064/093	tuadt	1	t ua d t
+064/095	tudt	1	t u d t
+064/097	tuedt	1	t ue d t
+064/099	tudt	1	t u d t
+064/101	tudt	1	t u d t
+064/103	tudt	1	t u d t
+064/105	tudt	1	t u d t
+064/107	tut	1	t u t
+064/109	tut	1	t u t
+064/111	NA	NA	-
+064/113	tut	1	t u t
+064/115	tut	1	t u t
+064/117	tut	1	t u t
+064/119	NA	NA	-
+064/121	tut	1	t u t
+064/123	tut	1	t u t
+064/125	tut	1	t u t
+064/127	tut	1	t u t
+064/135	tut	1	t u t
+064/137	tuut	1	t uu t
+064/139	tut	1	t u t
+064/141	NA	NA	-
+064/143	tut	1	t u t
+064/145	tut	1	t u t
+064/147	tudt	1	t u d t
+064/149	tudt	1	t u d t
+064/151	thuht	1	t h uh t
+064/153	tudt	1	t u d t
+064/155	tut	1	t u t
+064/157	tut	1	t u t
+064/159	tudt	1	t u d t
+065/021	duet	1	d ue t
+065/023	tuet	1	t ue t
+065/025	duet	1	d ue t
+065/027	duet	1	d ue t
+065/029	duet	1	d ue t
+065/031	dud	1	d u d
+065/033	tud	1	t u d
+065/035	duht	1	d uh t
+065/037	dud	1	d u d
+065/039	dut	1	d u t
+065/041	duut	1	d uu t
+065/043	dout	1	d ou t
+065/045	duht	1	d uh t
+065/047	dud	1	d u d
+065/049	duhd	1	d uh d
+065/051	duhd	1	d uh d
+065/053	duud	1	d uu d
+065/055	duud	1	d uu d
+065/057	duht	1	d uh t
+065/059	dud	1	d u d
+065/061	dod	1	d o d
+065/063	todt	1	t o d t
+065/065	tood	1	t oo d
+065/067	dodt	1	d o d t
+065/069	tuud	1	t uu d
+065/071	tut	1	t u t
+065/073	tuut	1	t uu t
+065/075	tuadt	1	t ua d t
+065/077	toadt	1	t oa d t
+065/079	tudt	1	t u d t
+065/081	todt	1	t o d t
+065/083	todt	1	t o d t
+065/085	dud	1	d u d
+065/087	dut	1	d u t
+065/089	tudt	1	t u d t
+065/091	tudt	1	t u d t
+065/093	todt	1	t o d t
+065/095	tudt	1	t u d t
+065/097	tuut	1	t uu t
+065/101	tud	1	t u d
+065/103	tudt	1	t u d t
+065/105	tut	1	t u t
+065/107	tut	1	t u t
+065/109	tut	1	t u t
+065/111	tut	1	t u t
+065/113	dud	1	d u d
+065/115	tut	1	t u t
+065/121	tut	1	t u t
+065/123	tut	1	t u t
+065/137	NA	NA	-
+065/139	tut	1	t u t
+065/143	thut	1	t h u t
+065/145	todt	1	t o d t
+065/147	tudt	1	t u d t
+065/149	tudt	1	t u d t
+065/151	tut	1	t u t
+065/153	tudt	1	t u d t
+065/155	tut	1	t u t
+065/157	tuht	1	t uh t
+065/159	tudt	1	t u d t
+066/021	dukt	1	d u k t
+066/023	NA	NA	-
+066/025	duat	1	d ua t
+066/027	duht	1	d uh t
+066/029	duet	1	d ue t
+066/031	dut	1	d u t
+066/033	dut	1	d u t
+066/035	duut	1	d uu t
+066/037	dut	1	d u t
+066/039	dudt	1	d u d t
+066/041	tudt	1	t u d t
+066/043	dud	1	d u d
+066/045	doudt	1	d ou d t
+066/047	dud	1	d u d
+066/049	dut	1	d u t
+066/051	dut	1	d u t
+066/053	duet	1	d ue t
+066/055	dud	1	d u d
+066/057	duhd	1	d uh d
+066/059	toid	1	t oi d
+066/061	dodt	1	d o d t
+066/063	dodt	1	d o d t
+066/065	doot	1	d oo t
+066/067	tuodt	1	t uo d t
+066/069	tuet	1	t ue t
+066/071	tuat	1	t ua t
+066/073	tot	1	t o t
+066/075	toadt	1	t oa d t
+066/077	dod	1	d o d
+066/079	tudt	1	t u d t
+066/081	tuodt	1	t uo d t
+066/083	tudt	1	t u d t
+066/085	tuot	1	t uo t
+066/087	tuht	1	t uh t
+066/089	dudt	1	d u d t
+066/091	tud	1	t u d
+066/093	tuedt	1	t ue d t
+066/095	tuädt	1	t uä d t
+066/097	todt	1	t o d t
+066/099	tut	1	t u t
+066/101	NA	NA	-
+066/103	tut	1	t u t
+066/105	tut	1	t u t
+066/107	NA	NA	-
+066/109	tot	1	t o t
+066/111	tuut	1	t uu t
+066/113	tuut	1	t uu t
+066/121	tut	1	t u t
+066/139	tut	1	t u t
+066/143	NA	NA	-
+066/145	tudt	1	t u d t
+066/147	tout	1	t ou t
+066/149	tud	1	t u d
+066/151	tudt	1	t u d t
+066/153	tuut	1	t uu t
+066/155	tut	1	t u t
+066/157	tud	1	t u d
+066/159	tud	1	t u d
+066/161	tud	1	t u d
+066/163	toudt	1	t ou d t
+067/021	duht	1	d uh t
+067/023	dukt	1	d u k t
+067/025	duht	1	d uh t
+067/027	duht	1	d uh t
+067/029	dut	1	d u t
+067/031	dut	1	d u t
+067/033	dut	1	d u t
+067/035	duht	1	d uh t
+067/037	duht	1	d uh t
+067/039	dut	1	d u t
+067/041	dud	1	d u d
+067/043	duht	1	d uh t
+067/045	tud	1	t u d
+067/047	dudt	1	d u d t
+067/049	tud	1	t u d
+067/051	duhd	1	d uh d
+067/053	NA	NA	-
+067/055	dud	1	d u d
+067/057	duht	1	d uh t
+067/059	dud	1	d u d
+067/061	dodt	1	d o d t
+067/063	dodt	1	d o d t
+067/065	tot	1	t o t
+067/067	toet	1	t oe t
+067/069	toidt	1	t oi d t
+067/071	toet	1	t oe t
+067/073	tot	1	t o t
+067/075	tot	1	t o t
+067/077	tod	1	t o d
+067/079	turdt	1	t u r d t
+067/081	tued	1	t ue d
+067/083	tuhet	1	t u h e t
+067/085	tuot	1	t uo t
+067/087	tudt	1	t u d t
+067/089	tut	1	t u t
+067/091	tot	1	t o t
+067/093	taut	1	t au t
+067/095	taud	1	t au d
+067/097	toudt	1	t ou d t
+067/099	taaut	1	t aau t
+067/101	taut	1	t au t
+067/103	tout	1	t ou t
+067/105	tout	1	t ou t
+067/107	NA	NA	-
+067/109	tot	1	t o t
+067/111	tot	1	t o t
+067/113	tuut	1	t uu t
+067/143	tut	1	t u t
+067/145	tut	1	t u t
+067/147	tudt	1	t u d t
+067/149	todt	1	t o d t
+067/151	todt	1	t o d t
+067/153	tut	1	t u t
+067/155	tut	1	t u t
+067/157	tut	1	t u t
+067/159	tudt	1	t u d t
+067/161	tuodt	1	t uo d t
+067/163	tuot	1	t uo t
+067/165	tudt	1	t u d t
+067/177	tut	1	t u t
+068/021	duckt	1	d u ck t
+068/023	duckt	1	d u ck t
+068/025	dut	1	d u t
+068/027	duett	1	d ue tt
+068/029	dudt	1	d u d t
+068/031	dudt	1	d u d t
+068/033	dut	1	d u t
+068/035	dudt	1	d u d t
+068/037	dut	1	d u t
+068/039	dut	1	d u t
+068/041	dut	1	d u t
+068/043	dut	1	d u t
+068/045	dut	1	d u t
+068/047	duht	1	d uh t
+068/049	NA	NA	-
+068/051	dut	1	d u t
+068/053	dut	1	d u t
+068/055	dud	1	d u d
+068/057	duht	1	d uh t
+068/059	dud	1	d u d
+068/061	dod	1	d o d
+068/063	doat	1	d oa t
+068/065	tot	1	t o t
+068/067	toat	1	t oa t
+068/069	doat	1	d oa t
+068/071	toat	1	t oa t
+068/073	toat	1	t oa t
+068/075	tot	1	t o t
+068/077	todt	1	t o d t
+068/079	tuadt	1	t ua d t
+068/081	tuedt	1	t ue d t
+068/083	tuet	1	t ue t
+068/085	tuht	1	t uh t
+068/087	tuot	1	t uo t
+068/089	tut	1	t u t
+068/091	tot	1	t o t
+068/093	tout	1	t ou t
+068/095	taut	1	t au t
+068/097	NA	NA	-
+068/099	NA	NA	-
+068/101	taut	1	t au t
+068/103	taut	1	t au t
+068/105	tout	1	t ou t
+068/107	tout	1	t ou t
+068/109	NA	NA	-
+068/111	toh	1	t oh
+068/145	tut	1	t u t
+068/147	tuut	1	t uu t
+068/149	todt	1	t o d t
+068/151	tut	1	t u t
+068/153	tuot	1	t uo t
+068/155	tut	1	t u t
+068/157	tut	1	t u t
+068/159	tuot	1	t uo t
+068/161	tut	1	t u t
+068/165	todt	1	t o d t
+069/019	dukt	1	d u k t
+069/023	dut	1	d u t
+069/025	duck	1	d u ck
+069/027	dut	1	d u t
+069/029	dut	1	d u t
+069/031	dut	1	d u t
+069/033	dud	1	d u d
+069/035	dut	1	d u t
+069/037	dot	1	d o t
+069/039	tod	1	t o d
+069/041	doud	1	d ou d
+069/043	dud	1	d u d
+069/045	duhd	1	d uh d
+069/047	dud	1	d u d
+069/049	duhd	1	d uh d
+069/051	doht	1	d oh t
+069/053	doot	1	d oo t
+069/055	tudt	1	t u d t
+069/057	tut	1	t u t
+069/059	dort	1	d o r t
+069/061	dort	1	d o r t
+069/063	toad	1	t oa d
+069/065	toat	1	t oa t
+069/067	toat	1	t oa t
+069/069	doad	1	d oa d
+069/071	tot	1	t o t
+069/073	toat	1	t oa t
+069/075	taat	1	t aa t
+069/077	tot	1	t o t
+069/079	tuedt	1	t ue d t
+069/081	tuot	1	t uo t
+069/083	tudt	1	t u d t
+069/085	tudt	1	t u d t
+069/087	tuet	1	t ue t
+069/089	tud	1	t u d
+069/091	toot	1	t oo t
+069/093	taoudt	1	t aou d t
+069/095	toud	1	t ou d
+069/097	tout	1	t ou t
+069/099	tout	1	t ou t
+069/101	toat	1	t oa t
+069/103	tout	1	t ou t
+069/105	taut	1	t au t
+069/107	taot	1	t ao t
+069/109	dot	1	d o t
+069/111	tot	1	t o t
+069/147	NA	NA	-
+069/149	tuot	1	t uo t
+069/151	tut	1	t u t
+069/153	tuod	1	t uo d
+069/157	tut	1	t u t
+069/159	tout	1	t ou t
+069/161	tuet	1	t ue t
+069/163	tuht	1	t uh t
+069/165	todt	1	t o d t
+070/019	dout	1	d ou t
+070/023	duckt	1	d u ck t
+070/025	duckt	1	d u ck t
+070/027	dut	1	d u t
+070/029	dout	1	d ou t
+070/031	dout	1	d ou t
+070/033	dudt	1	d u d t
+070/035	dut	1	d u t
+070/037	dudt	1	d u d t
+070/039	dot	1	d o t
+070/041	dodt	1	d o d t
+070/043	dot	1	d o t
+070/045	dot	1	d o t
+070/047	duht	1	d uh t
+070/049	dud	1	d u d
+070/051	dut	1	d u t
+070/053	dodt	1	d o d t
+070/055	dout	1	d ou t
+070/057	dout	1	d ou t
+070/059	toudt	1	t ou d t
+070/061	todt	1	t o d t
+070/063	tadt	1	t a d t
+070/065	toadt	1	t oa d t
+070/067	toat	1	t oa t
+070/069	NA	NA	-
+070/071	toat	1	t oa t
+070/073	taht	1	t ah t
+070/075	toadt	1	t oa d t
+070/077	todt	1	t o d t
+070/079	tuat	1	t ua t
+070/081	tuedt	1	t ue d t
+070/083	tut	1	t u t
+070/085	tut	1	t u t
+070/087	tut	1	t u t
+070/089	tud	1	t u d
+070/091	taut	1	t au t
+070/093	taud	1	t au d
+070/095	taut	1	t au t
+070/097	taut	1	t au t
+070/099	tout	1	t ou t
+070/101	tout	1	t ou t
+070/103	taut	1	t au t
+070/105	taot	1	t ao t
+070/107	taot	1	t ao t
+070/109	tout	1	t ou t
+070/111	tout	1	t ou t
+070/145	tut	1	t u t
+070/147	NA	NA	-
+070/149	tut	1	t u t
+070/151	tuot	1	t uo t
+070/153	toot	1	t oo t
+070/155	tuet	1	t ue t
+070/157	tuet	1	t ue t
+070/159	tuat	1	t ua t
+070/161	tuot	1	t uo t
+070/163	tuht	1	t uh t
+070/165	tut	1	t u t
+071/017	dud	1	d u d
+071/019	doudt	1	d ou d t
+071/021	duot	1	d uo t
+071/023	dutt	1	d u tt
+071/025	dutt	1	d u tt
+071/027	duckt	1	d u ck t
+071/029	dut	1	d u t
+071/031	doudt	1	d ou d t
+071/033	doed	1	d oe d
+071/035	dod	1	d o d
+071/037	dod	1	d o d
+071/039	dout	1	d ou t
+071/041	dot	1	d o t
+071/043	dod	1	d o d
+071/045	dod	1	d o d
+071/047	dod	1	d o d
+071/049	dodt	1	d o d t
+071/051	dod	1	d o d
+071/053	doud	1	d ou d
+071/055	doaudt	1	d oau d t
+071/057	toudt	1	t ou d t
+071/059	dout	1	d ou t
+071/063	toät	1	t oä t
+071/065	toat	1	t oa t
+071/067	dooat	1	d ooa t
+071/069	toat	1	t oa t
+071/071	tadt	1	t a d t
+071/073	toadt	1	t oa d t
+071/075	toat	1	t oa t
+071/077	tot	1	t o t
+071/079	tut	1	t u t
+071/081	tuet	1	t ue t
+071/083	tud	1	t u d
+071/085	tud	1	t u d
+071/087	tut	1	t u t
+071/089	dud	1	d u d
+071/091	doud	1	d ou d
+071/093	daout	1	d aou t
+071/095	daout	1	d aou t
+071/097	NA	NA	-
+071/099	tout	1	t ou t
+071/101	NA	NA	-
+071/103	tout	1	t ou t
+071/105	NA	NA	-
+071/145	tut	1	t u t
+071/147	NA	NA	-
+071/149	tut	1	t u t
+071/151	toot	1	t oo t
+071/153	NA	NA	-
+071/155	tot	1	t o t
+071/157	tuat	1	t ua t
+071/159	tot	1	t o t
+071/161	tut	1	t u t
+071/163	NA	NA	-
+071/177	tuut	1	t uu t
+071/179	tot	1	t o t
+072/017	dot	1	d o t
+072/019	dot	1	d o t
+072/021	duodt	1	d uo d t
+072/023	NA	NA	-
+072/025	dutt	1	d u tt
+072/027	dutt	1	d u tt
+072/029	dot	1	d o t
+072/031	dot	1	d o t
+072/033	dot	1	d o t
+072/035	dot	1	d o t
+072/037	dodt	1	d o d t
+072/039	dood	1	d oo d
+072/041	dodt	1	d o d t
+072/043	dodt	1	d o d t
+072/045	dod	1	d o d
+072/047	dodt	1	d o d t
+072/049	dodt	1	d o d t
+072/051	dood	1	d oo d
+072/053	dut	1	d u t
+072/055	doud	1	d ou d
+072/057	tout	1	t ou t
+072/059	toaut	1	t oau t
+072/061	toat	1	t oa t
+072/063	toat	1	t oa t
+072/065	toat	1	t oa t
+072/067	toadt	1	t oa d t
+072/069	taut	1	t au t
+072/071	toat	1	t oa t
+072/073	toat	1	t oa t
+072/075	toat	1	t oa t
+072/077	tod	1	t o d
+072/079	tot	1	t o t
+072/081	tot	1	t o t
+072/083	tot	1	t o t
+072/085	tut	1	t u t
+072/087	tut	1	t u t
+072/089	tod	1	t o d
+072/091	taud	1	t au d
+072/093	toadt	1	t oa d t
+072/095	daut	1	d au t
+072/097	daut	1	d au t
+072/099	tout	1	t ou t
+072/101	NA	NA	-
+072/103	taot	1	t ao t
+072/105	taot	1	t ao t
+072/107	taut	1	t au t
+072/145	tut	1	t u t
+072/147	tut	1	t u t
+072/149	tut	1	t u t
+072/151	tuht	1	t uh t
+072/153	tuot	1	t uo t
+072/155	tut	1	t u t
+072/157	taut	1	t au t
+072/159	tuet	1	t ue t
+072/161	tüjt	1	t ü j t
+072/177	tut	1	t u t
+072/179	tot	1	t o t
+072/181	tot	1	t o t
+073/017	doout	1	d oou t
+073/019	duot	1	d uo t
+073/021	dout	1	d ou t
+073/023	duot	1	d uo t
+073/025	dutt	1	d u tt
+073/027	dud	1	d u d
+073/029	douht	1	d ouh t
+073/031	dot	1	d o t
+073/033	dod	1	d o d
+073/035	dodt	1	d o d t
+073/037	dood	1	d oo d
+073/039	dodt	1	d o d t
+073/041	tud	1	t u d
+073/043	dod	1	d o d
+073/045	dot	1	d o t
+073/047	dood	1	d oo d
+073/049	dod	1	d o d
+073/051	doot	1	d oo t
+073/053	dod	1	d o d
+073/055	doud	1	d ou d
+073/057	doud	1	d ou d
+073/059	dout	1	d ou t
+073/061	dout	1	d ou t
+073/063	toat	1	t oa t
+073/065	toat	1	t oa t
+073/067	toat	1	t oa t
+073/069	toat	1	t oa t
+073/071	toadt	1	t oa d t
+073/073	toadt	1	t oa d t
+073/075	tot	1	t o t
+073/077	dood	1	d oo d
+073/079	tot	1	t o t
+073/081	tut	1	t u t
+073/083	tudt	1	t u d t
+073/085	toudt	1	t ou d t
+073/087	tot	1	t o t
+073/089	tout	1	t ou t
+073/091	taud	1	t au d
+073/093	taut	1	t au t
+073/095	daut	1	d au t
+073/097	toud	1	t ou d
+073/099	taut	1	t au t
+073/101	tout	1	t ou t
+073/103	toot	1	t oo t
+073/105	taut	1	t au t
+073/107	tout	1	t ou t
+073/145	tut	1	t u t
+073/147	tut	1	t u t
+073/149	tut	1	t u t
+073/151	tut	1	t u t
+073/153	tut	1	t u t
+073/155	tuot	1	t uo t
+073/157	tuad	1	t ua d
+073/159	NA	NA	-
+073/161	tuot	1	t uo t
+073/163	tut	1	t u t
+073/165	tot	1	t o t
+073/175	tot	1	t o t
+073/177	tout	1	t ou t
+074/019	duod	1	d uo d
+074/021	dod	1	d o d
+074/023	dot	1	d o t
+074/025	dot	1	d o t
+074/027	duht	1	d uh t
+074/029	duhd	1	d uh d
+074/031	dot	1	d o t
+074/033	dot	1	d o t
+074/035	dod	1	d o d
+074/037	dod	1	d o d
+074/039	duet	1	d ue t
+074/041	dot	1	d o t
+074/043	dod	1	d o d
+074/045	dod	1	d o d
+074/047	dod	1	d o d
+074/049	doaudt	1	d oau d t
+074/051	doot	1	d oo t
+074/053	dout	1	d ou t
+074/055	daoud	1	d aou d
+074/057	doud	1	d ou d
+074/059	tout	1	t ou t
+074/061	dod	1	d o d
+074/063	doot	1	d oo t
+074/065	doat	1	d oa t
+074/067	toad	1	t oa d
+074/069	tad	1	t a d
+074/071	taat	1	t aa t
+074/073	todt	1	t o d t
+074/075	tat	1	t a t
+074/077	todt	1	t o d t
+074/079	dot	1	d o t
+074/081	tot	1	t o t
+074/083	tot	1	t o t
+074/085	doud	1	d ou d
+074/087	toud	1	t ou d
+074/089	taud	1	t au d
+074/091	daut	1	d au t
+074/093	taout	1	t aou t
+074/095	tout	1	t ou t
+074/097	tout	1	t ou t
+074/099	NA	NA	-
+074/101	taot	1	t ao t
+074/103	taut	1	t au t
+074/105	tout	1	t ou t
+074/107	taut	1	t au t
+074/109	taot	1	t ao t
+074/145	tut	1	t u t
+074/147	tut	1	t u t
+074/149	tuut	1	t uu t
+074/153	tut	1	t u t
+074/155	tut	1	t u t
+074/157	tot	1	t o t
+074/159	tuod	1	t uo d
+074/161	thut	1	t h u t
+074/163	tuot	1	t uo t
+074/165	tot	1	t o t
+075/019	dout	1	d ou t
+075/021	dot	1	d o t
+075/023	duut	1	d uu t
+075/025	doot	1	d oo t
+075/027	doudt	1	d ou d t
+075/029	dört	1	d ö r t
+075/031	dut	1	d u t
+075/033	dod	1	d o d
+075/035	dood	1	d oo d
+075/037	dot	1	d o t
+075/039	dod	1	d o d
+075/041	dod	1	d o d
+075/043	dod	1	d o d
+075/045	dod	1	d o d
+075/047	dood	1	d oo d
+075/049	doud	1	d ou d
+075/051	dout	1	d ou t
+075/053	dout	1	d ou t
+075/055	doudt	1	d ou d t
+075/057	doud	1	d ou d
+075/059	dout	1	d ou t
+075/061	doudt	1	d ou d t
+075/063	dout	1	d ou t
+075/065	dod	1	d o d
+075/067	toat	1	t oa t
+075/069	tadt	1	t a d t
+075/071	toat	1	t oa t
+075/073	taht	1	t ah t
+075/075	tat	1	t a t
+075/077	tot	1	t o t
+075/079	tot	1	t o t
+075/081	tut	1	t u t
+075/083	tout	1	t ou t
+075/085	tout	1	t ou t
+075/087	tout	1	t ou t
+075/089	toad	1	t oa d
+075/091	dout	1	d ou t
+075/093	daout	1	d aou t
+075/095	daut	1	d au t
+075/097	taout	1	t aou t
+075/099	taut	1	t au t
+075/101	NA	NA	-
+075/103	taot	1	t ao t
+075/105	taut	1	t au t
+075/107	tout	1	t ou t
+075/135	tejnt	1	t e j n t
+075/145	tut	1	t u t
+075/147	tud	1	t u d
+075/149	tut	1	t u t
+075/155	tut	1	t u t
+075/157	tot	1	t o t
+075/159	tuot	1	t uo t
+075/161	tot	1	t o t
+075/163	tuet	1	t ue t
+075/165	NA	NA	-
+076/019	doot	1	d oo t
+076/021	duot	1	d uo t
+076/023	duot	1	d uo t
+076/025	döut	1	d öu t
+076/027	dud	1	d u d
+076/029	dut	1	d u t
+076/033	dot	1	d o t
+076/035	dhot	1	d h o t
+076/037	dod	1	d o d
+076/039	doot	1	d oo t
+076/041	dod	1	d o d
+076/043	doht	1	d oh t
+076/045	dood	1	d oo d
+076/047	dod	1	d o d
+076/049	dout	1	d ou t
+076/051	doud	1	d ou d
+076/053	doud	1	d ou d
+076/055	doud	1	d ou d
+076/057	dout	1	d ou t
+076/059	toud	1	t ou d
+076/061	doud	1	d ou d
+076/063	doud	1	d ou d
+076/065	tot	1	t o t
+076/067	dod	1	d o d
+076/069	doat	1	d oa t
+076/071	toat	1	t oa t
+076/073	toat	1	t oa t
+076/075	däat	1	d äa t
+076/077	dot	1	d o t
+076/079	toud	1	t ou d
+076/081	toudt	1	t ou d t
+076/083	taut	1	t au t
+076/085	taut	1	t au t
+076/087	tout	1	t ou t
+076/089	taut	1	t au t
+076/091	tod	1	t o d
+076/093	dout	1	d ou t
+076/095	tout	1	t ou t
+076/097	doud	1	d ou d
+076/099	dot	1	d o t
+076/101	tout	1	t ou t
+076/103	taud	1	t au d
+076/135	tout	1	t ou t
+076/137	täut	1	t äu t
+076/149	tuut	1	t uu t
+076/151	tut	1	t u t
+076/155	toot	1	t oo t
+076/161	toud	1	t ou d
+076/163	tuot	1	t uo t
+076/165	tout	1	t ou t
+077/019	dot	1	d o t
+077/021	doot	1	d oo t
+077/023	doet	1	d oe t
+077/025	dout	1	d ou t
+077/027	dud	1	d u d
+077/029	dodt	1	d o d t
+077/031	dod	1	d o d
+077/033	dohd	1	d oh d
+077/035	dohd	1	d oh d
+077/037	dod	1	d o d
+077/039	duhd	1	d uh d
+077/041	dod	1	d o d
+077/043	dot	1	d o t
+077/047	dod	1	d o d
+077/049	dod	1	d o d
+077/051	doud	1	d ou d
+077/053	dout	1	d ou t
+077/055	doud	1	d ou d
+077/057	dout	1	d ou t
+077/059	dout	1	d ou t
+077/061	dout	1	d ou t
+077/063	dod	1	d o d
+077/065	dot	1	d o t
+077/067	tot	1	t o t
+077/069	doat	1	d oa t
+077/071	tout	1	t ou t
+077/073	tat	1	t a t
+077/075	toat	1	t oa t
+077/077	toat	1	t oa t
+077/079	dout	1	d ou t
+077/081	taudt	1	t au d t
+077/083	tout	1	t ou t
+077/085	tout	1	t ou t
+077/087	tout	1	t ou t
+077/089	doud	1	d ou d
+077/091	taut	1	t au t
+077/093	toud	1	t ou d
+077/095	doud	1	d ou d
+077/097	toud	1	t ou d
+077/099	daud	1	d au d
+077/101	dout	1	d ou t
+077/103	tout	1	t ou t
+077/135	tout	1	t ou t
+077/137	taut	1	t au t
+078/021	dut	1	d u t
+078/023	dod	1	d o d
+078/025	doud	1	d ou d
+078/027	dout	1	d ou t
+078/029	dodt	1	d o d t
+078/031	dodt	1	d o d t
+078/033	dodt	1	d o d t
+078/035	dod	1	d o d
+078/037	dod	1	d o d
+078/039	dod	1	d o d
+078/041	dod	1	d o d
+078/045	dout	1	d ou t
+078/047	dout	1	d ou t
+078/049	doud	1	d ou d
+078/051	doud	1	d ou d
+078/053	dod	1	d o d
+078/055	dout	1	d ou t
+078/057	dot	1	d o t
+078/059	dout	1	d ou t
+078/061	dood	1	d oo d
+078/063	dout	1	d ou t
+078/065	tot	1	t o t
+078/067	doat	1	d oa t
+078/069	doat	1	d oa t
+078/071	doat	1	d oa t
+078/073	doad	1	d oa d
+078/075	tot	1	t o t
+078/077	tot	1	t o t
+078/079	toudt	1	t ou d t
+078/081	taud	1	t au d
+078/083	taut	1	t au t
+078/085	NA	NA	-
+078/087	dout	1	d ou t
+078/089	daud	1	d au d
+078/091	dout	1	d ou t
+078/093	taud	1	t au d
+078/095	tout	1	t ou t
+078/097	daud	1	d au d
+078/099	daud	1	d au d
+078/101	tout	1	t ou t
+078/103	tout	1	t ou t
+078/105	taut	1	t au t
+078/135	NA	NA	-
+078/193	tot	1	t o t
+079/021	dod	1	d o d
+079/023	doot	1	d oo t
+079/025	dut	1	d u t
+079/027	dot	1	d o t
+079/029	dot	1	d o t
+079/031	dodd	1	d o dd
+079/033	dod	1	d o d
+079/035	dod	1	d o d
+079/037	doht	1	d oh t
+079/039	dod	1	d o d
+079/043	dod	1	d o d
+079/045	doud	1	d ou d
+079/047	dout	1	d ou t
+079/049	dodt	1	d o d t
+079/051	doud	1	d ou d
+079/053	doud	1	d ou d
+079/055	dohd	1	d oh d
+079/057	dout	1	d ou t
+079/059	dout	1	d ou t
+079/061	doot	1	d oo t
+079/063	dood	1	d oo d
+079/065	todt	1	t o d t
+079/067	dod	1	d o d
+079/069	doad	1	d oa d
+079/071	toat	1	t oa t
+079/073	toat	1	t oa t
+079/075	toat	1	t oa t
+079/077	toat	1	t oa t
+079/079	tout	1	t ou t
+079/081	taout	1	t aou t
+079/083	taut	1	t au t
+079/085	daut	1	d au t
+079/087	tout	1	t ou t
+079/089	doud	1	d ou d
+079/091	taud	1	t au d
+079/093	tout	1	t ou t
+079/095	tout	1	t ou t
+079/097	doud	1	d ou d
+079/099	daud	1	d au d
+079/101	daut	1	d au t
+079/103	NA	NA	-
+079/105	tout	1	t ou t
+079/107	tauot	1	t auo t
+079/133	tot	1	t o t
+079/135	tout	1	t ou t
+079/193	täut	1	t äu t
+079/195	täut	1	t äu t
+079/197	tut	1	t u t
+080/025	dot	1	d o t
+080/027	dod	1	d o d
+080/029	dodt	1	d o d t
+080/031	dodt	1	d o d t
+080/033	doot	1	d oo t
+080/035	dood	1	d oo d
+080/037	dodt	1	d o d t
+080/039	doot	1	d oo t
+080/041	dod	1	d o d
+080/043	dod	1	d o d
+080/045	doud	1	d ou d
+080/047	dowd	1	d o w d
+080/049	dodt	1	d o d t
+080/051	doud	1	d ou d
+080/053	dood	1	d oo d
+080/055	dood	1	d oo d
+080/057	dout	1	d ou t
+080/059	doud	1	d ou d
+080/061	dood	1	d oo d
+080/063	dad	1	d a d
+080/065	dat	1	d a t
+080/067	tout	1	t ou t
+080/069	doad	1	d oa d
+080/071	toat	1	t oa t
+080/073	toat	1	t oa t
+080/075	tot	1	t o t
+080/077	doad	1	d oa d
+080/079	dout	1	d ou t
+080/081	tout	1	t ou t
+080/083	taud	1	t au d
+080/085	tout	1	t ou t
+080/087	tout	1	t ou t
+080/089	tout	1	t ou t
+080/091	doud	1	d ou d
+080/093	tout	1	t ou t
+080/095	toud	1	t ou d
+080/097	doat	1	d oa t
+080/099	doet	1	d oe t
+080/101	dout	1	d ou t
+080/103	taut	1	t au t
+080/105	NA	NA	-
+080/107	tout	1	t ou t
+080/109	tout	1	t ou t
+080/127	toit	1	t oi t
+080/147	tot	1	t o t
+080/151	tot	1	t o t
+080/153	tot	1	t o t
+080/193	teut	1	t eu t
+080/195	täut	1	t äu t
+081/025	dot	1	d o t
+081/027	dod	1	d o d
+081/029	doht	1	d oh t
+081/031	dod	1	d o d
+081/033	doot	1	d oo t
+081/035	dod	1	d o d
+081/037	doot	1	d oo t
+081/039	tot	1	t o t
+081/043	doud	1	d ou d
+081/045	dout	1	d ou t
+081/047	dout	1	d ou t
+081/049	dot	1	d o t
+081/051	dood	1	d oo d
+081/053	dod	1	d o d
+081/055	dod	1	d o d
+081/057	dod	1	d o d
+081/059	dod	1	d o d
+081/061	doad	1	d oa d
+081/063	tot	1	t o t
+081/065	toad	1	t oa d
+081/067	doad	1	d oa d
+081/069	doad	1	d oa d
+081/071	doad	1	d oa d
+081/073	toadt	1	t oa d t
+081/075	todt	1	t o d t
+081/077	toat	1	t oa t
+081/079	taod	1	t ao d
+081/081	daud	1	d au d
+081/083	tout	1	t ou t
+081/085	taout	1	t aou t
+081/087	dout	1	d ou t
+081/089	daut	1	d au t
+081/091	tout	1	t ou t
+081/093	daut	1	d au t
+081/095	daoudt	1	d aou d t
+081/097	tout	1	t ou t
+081/099	NA	NA	-
+081/101	taot	1	t ao t
+081/103	NA	NA	-
+081/105	toudt	1	t ou d t
+081/107	tout	1	t ou t
+081/109	tout	1	t ou t
+081/111	NA	NA	-
+081/127	toit	1	t oi t
+081/129	NA	NA	-
+081/133	toit	1	t oi t
+081/147	tood	1	t oo d
+081/191	täut	1	t äu t
+081/193	NA	NA	-
+081/195	tout	1	t ou t
+082/027	toodt	1	t oo d t
+082/029	todt	1	t o d t
+082/031	dot	1	d o t
+082/033	dood	1	d oo d
+082/035	dod	1	d o d
+082/037	dot	1	d o t
+082/039	dod	1	d o d
+082/041	dod	1	d o d
+082/043	dod	1	d o d
+082/045	doud	1	d ou d
+082/047	dood	1	d oo d
+082/049	doot	1	d oo t
+082/051	dod	1	d o d
+082/053	dod	1	d o d
+082/055	doot	1	d oo t
+082/057	dot	1	d o t
+082/059	daut	1	d au t
+082/061	tot	1	t o t
+082/063	dod	1	d o d
+082/065	doat	1	d oa t
+082/067	doad	1	d oa d
+082/069	dooad	1	d ooa d
+082/071	toat	1	t oa t
+082/073	toad	1	t oa d
+082/075	toot	1	t oo t
+082/077	tout	1	t ou t
+082/079	tout	1	t ou t
+082/081	toud	1	t ou d
+082/083	toudt	1	t ou d t
+082/085	toudt	1	t ou d t
+082/087	toout	1	t oou t
+082/089	daud	1	d au d
+082/091	dod	1	d o d
+082/093	dout	1	d ou t
+082/095	tout	1	t ou t
+082/097	dout	1	d ou t
+082/099	dodt	1	d o d t
+082/101	dout	1	d ou t
+082/103	NA	NA	-
+082/105	taot	1	t ao t
+082/107	tout	1	t ou t
+082/111	tod	1	t o d
+082/113	tout	1	t ou t
+082/117	tout	1	t ou t
+082/129	toit	1	t oi t
+082/131	NA	NA	-
+082/133	NA	NA	-
+082/135	toit	1	t oi t
+082/145	tot	1	t o t
+082/147	tot	1	t o t
+082/191	taut	1	t au t
+082/195	täut	1	t äu t
+083/027	dood	1	d oo d
+083/029	dot	1	d o t
+083/031	doht	1	d oh t
+083/033	dood	1	d oo d
+083/035	dot	1	d o t
+083/037	dot	1	d o t
+083/039	dot	1	d o t
+083/041	dod	1	d o d
+083/043	dood	1	d oo d
+083/045	dot	1	d o t
+083/047	dod	1	d o d
+083/049	tod	1	t o d
+083/051	dood	1	d oo d
+083/053	dood	1	d oo d
+083/055	dood	1	d oo d
+083/057	daut	1	d au t
+083/059	daod	1	d ao d
+083/061	daod	1	d ao d
+083/063	taut	1	t au t
+083/065	doad	1	d oa d
+083/067	doad	1	d oa d
+083/069	NA	NA	-
+083/071	doad	1	d oa d
+083/073	doad	1	d oa d
+083/075	doad	1	d oa d
+083/077	daut	1	d au t
+083/079	toudt	1	t ou d t
+083/081	tout	1	t ou t
+083/083	taut	1	t au t
+083/085	doud	1	d ou d
+083/087	daaood	1	d aaoo d
+083/089	tout	1	t ou t
+083/091	doaud	1	d oau d
+083/093	daoud	1	d aou d
+083/095	dout	1	d ou t
+083/097	daod	1	d ao d
+083/099	daut	1	d au t
+083/101	tout	1	t ou t
+083/103	NA	NA	-
+083/105	dout	1	d ou t
+083/107	tot	1	t o t
+083/111	tout	1	t ou t
+083/113	tout	1	t ou t
+083/115	tod	1	t o d
+083/117	toid	1	t oi d
+083/119	toit	1	t oi t
+083/121	tot	1	t o t
+083/129	NA	NA	-
+083/131	NA	NA	-
+083/133	tot	1	t o t
+083/135	toit	1	t oi t
+083/139	tot	1	t o t
+083/143	tot	1	t o t
+083/145	NA	NA	-
+083/147	NA	NA	-
+083/149	tout	1	t ou t
+083/173	tuut	1	t uu t
+083/195	taut	1	t au t
+084/031	dod	1	d o d
+084/033	doht	1	d oh t
+084/035	dod	1	d o d
+084/037	dod	1	d o d
+084/039	dood	1	d oo d
+084/041	tod	1	t o d
+084/043	doodt	1	d oo d t
+084/045	dod	1	d o d
+084/047	dood	1	d oo d
+084/049	dod	1	d o d
+084/051	dot	1	d o t
+084/053	dod	1	d o d
+084/055	dood	1	d oo d
+084/057	daod	1	d ao d
+084/059	daod	1	d ao d
+084/061	daot	1	d ao t
+084/063	daot	1	d ao t
+084/065	daod	1	d ao d
+084/067	doad	1	d oa d
+084/069	doad	1	d oa d
+084/071	doad	1	d oa d
+084/073	tooad	1	t ooa d
+084/075	doat	1	d oa t
+084/077	dout	1	d ou t
+084/079	dout	1	d ou t
+084/081	NA	NA	-
+084/083	töut	1	t öu t
+084/085	taudt	1	t au d t
+084/087	tout	1	t ou t
+084/089	doudt	1	d ou d t
+084/091	daud	1	d au d
+084/093	taout	1	t aou t
+084/095	dout	1	d ou t
+084/097	daood	1	d aoo d
+084/099	taut	1	t au t
+084/101	toud	1	t ou d
+084/103	dout	1	d ou t
+084/105	toud	1	t ou d
+084/107	taud	1	t au d
+084/109	dout	1	d ou t
+084/111	doud	1	d ou d
+084/113	NA	NA	-
+084/115	tout	1	t ou t
+084/117	NA	NA	-
+084/119	toit	1	t oi t
+084/129	tot	1	t o t
+084/131	NA	NA	-
+084/133	dot	1	d o t
+084/135	NA	NA	-
+084/137	NA	NA	-
+084/139	NA	NA	-
+084/141	tot	1	t o t
+084/143	tot	1	t o t
+084/145	NA	NA	-
+084/147	tot	1	t o t
+084/149	NA	NA	-
+084/171	tut	1	t u t
+084/173	toot	1	t oo t
+084/195	toud	1	t ou d
+085/031	dod	1	d o d
+085/033	tot	1	t o t
+085/035	dod	1	d o d
+085/037	dod	1	d o d
+085/039	dod	1	d o d
+085/041	tot	1	t o t
+085/043	dod	1	d o d
+085/045	dudt	1	d u d t
+085/047	dod	1	d o d
+085/049	dodt	1	d o d t
+085/051	daud	1	d au d
+085/053	taudt	1	t au d t
+085/055	daut	1	d au t
+085/057	dod	1	d o d
+085/059	dod	1	d o d
+085/061	taud	1	t au d
+085/063	daod	1	d ao d
+085/065	daod	1	d ao d
+085/067	daod	1	d ao d
+085/069	doat	1	d oa t
+085/071	doat	1	d oa t
+085/073	doad	1	d oa d
+085/075	toat	1	t oa t
+085/077	doat	1	d oa t
+085/079	doud	1	d ou d
+085/081	daut	1	d au t
+085/083	toudt	1	t ou d t
+085/085	taut	1	t au t
+085/087	taot	1	t ao t
+085/089	toud	1	t ou d
+085/091	tout	1	t ou t
+085/093	dout	1	d ou t
+085/095	taud	1	t au d
+085/097	doud	1	d ou d
+085/101	toud	1	t ou d
+085/103	NA	NA	-
+085/105	doud	1	d ou d
+085/107	doud	1	d ou d
+085/109	tout	1	t ou t
+085/111	däud	1	d äu d
+085/113	toadt	1	t oa d t
+085/115	NA	NA	-
+085/117	toit	1	t oi t
+085/119	NA	NA	-
+085/121	toit	1	t oi t
+085/123	toit	1	t oi t
+085/125	tot	1	t o t
+085/127	tot	1	t o t
+085/129	NA	NA	-
+085/131	NA	NA	-
+085/133	tot	1	t o t
+085/135	NA	NA	-
+085/137	tot	1	t o t
+085/139	NA	NA	-
+085/141	tot	1	t o t
+085/143	NA	NA	-
+085/145	NA	NA	-
+085/147	todt	1	t o d t
+085/149	tot	1	t o t
+085/175	teut	1	t eu t
+085/193	toot	1	t oo t
+085/197	toot	1	t oo t
+086/033	todt	1	t o d t
+086/035	dod	1	d o d
+086/037	toot	1	t oo t
+086/039	dod	1	d o d
+086/041	dot	1	d o t
+086/043	dodt	1	d o d t
+086/045	dood	1	d oo d
+086/047	dot	1	d o t
+086/049	tot	1	t o t
+086/051	daot	1	d ao t
+086/053	daaut	1	d aau t
+086/055	daud	1	d au d
+086/057	daud	1	d au d
+086/059	daud	1	d au d
+086/061	daut	1	d au t
+086/063	daud	1	d au d
+086/065	taot	1	t ao t
+086/067	daod	1	d ao d
+086/069	toat	1	t oa t
+086/071	doud	1	d ou d
+086/073	toat	1	t oa t
+086/075	doad	1	d oa d
+086/077	tohat	1	t o h a t
+086/079	toadt	1	t oa d t
+086/081	dout	1	d ou t
+086/083	tot	1	t o t
+086/085	tod	1	t o d
+086/087	tot	1	t o t
+086/089	taud	1	t au d
+086/091	taaut	1	t aau t
+086/093	daot	1	d ao t
+086/095	dout	1	d ou t
+086/097	doaid	1	d oai d
+086/099	NA	NA	-
+086/101	doud	1	d ou d
+086/103	toat	1	t oa t
+086/105	doat	1	d oa t
+086/107	tout	1	t ou t
+086/109	dod	1	d o d
+086/111	taodt	1	t ao d t
+086/113	teot	1	t eo t
+086/115	taot	1	t ao t
+086/117	toit	1	t oi t
+086/119	toit	1	t oi t
+086/121	tod	1	t o d
+086/123	NA	NA	-
+086/125	toit	1	t oi t
+086/127	tot	1	t o t
+086/129	tot	1	t o t
+086/131	dod	1	d o d
+086/133	tot	1	t o t
+086/135	tod	1	t o d
+086/137	NA	NA	-
+086/139	NA	NA	-
+086/141	tot	1	t o t
+086/143	NA	NA	-
+086/145	tot	1	t o t
+086/147	tot	1	t o t
+086/149	tot	1	t o t
+086/151	todt	1	t o d t
+086/175	teut	1	t eu t
+086/197	tot	1	t o t
+086/199	tout	1	t ou t
+087/033	dod	1	d o d
+087/035	dod	1	d o d
+087/037	tod	1	t o d
+087/039	dut	1	d u t
+087/041	tot	1	t o t
+087/043	dood	1	d oo d
+087/045	dot	1	d o t
+087/049	dod	1	d o d
+087/051	taoot	1	t aoo t
+087/053	daod	1	d ao d
+087/055	daod	1	d ao d
+087/057	daot	1	d ao t
+087/059	taaut	1	t aau t
+087/061	daod	1	d ao d
+087/063	taut	1	t au t
+087/065	daud	1	d au d
+087/067	daut	1	d au t
+087/069	daod	1	d ao d
+087/071	doad	1	d oa d
+087/073	doad	1	d oa d
+087/075	toat	1	t oa t
+087/077	doat	1	d oa t
+087/079	toad	1	t oa d
+087/081	toadt	1	t oa d t
+087/083	toad	1	t oa d
+087/085	tout	1	t ou t
+087/087	dout	1	d ou t
+087/089	dout	1	d ou t
+087/091	taudt	1	t au d t
+087/093	daud	1	d au d
+087/095	dout	1	d ou t
+087/097	tod	1	t o d
+087/099	tuut	1	t uu t
+087/101	dod	1	d o d
+087/103	doat	1	d oa t
+087/105	tout	1	t ou t
+087/107	do	1	d o
+087/109	toad	1	t oa d
+087/111	deod	1	d eo d
+087/113	deot	1	d eo t
+087/115	NA	NA	-
+087/117	NA	NA	-
+087/119	toit	1	t oi t
+087/121	toit	1	t oi t
+087/123	doid	1	d oi d
+087/125	tot	1	t o t
+087/127	tot	1	t o t
+087/129	tot	1	t o t
+087/133	tood	1	t oo d
+087/135	dot	1	d o t
+087/137	tot	1	t o t
+087/139	tod	1	t o d
+087/141	tot	1	t o t
+087/143	NA	NA	-
+087/145	NA	NA	-
+087/147	tot	1	t o t
+087/149	tot	1	t o t
+087/151	tot	1	t o t
+088/035	dood	1	d oo d
+088/037	dud	1	d u d
+088/039	dod	1	d o d
+088/041	duhd	1	d uh d
+088/043	dod	1	d o d
+088/045	dod	1	d o d
+088/047	daud	1	d au d
+088/049	dood	1	d oo d
+088/051	daut	1	d au t
+088/053	daut	1	d au t
+088/055	daut	1	d au t
+088/057	daod	1	d ao d
+088/059	taod	1	t ao d
+088/061	daud	1	d au d
+088/063	daut	1	d au t
+088/065	daud	1	d au d
+088/067	daud	1	d au d
+088/069	doad	1	d oa d
+088/071	doad	1	d oa d
+088/073	toat	1	t oa t
+088/075	doad	1	d oa d
+088/077	doat	1	d oa t
+088/079	doat	1	d oa t
+088/081	doat	1	d oa t
+088/083	toat	1	t oa t
+088/085	dod	1	d o d
+088/087	dod	1	d o d
+088/089	tout	1	t ou t
+088/091	tout	1	t ou t
+088/093	taout	1	t aou t
+088/095	tout	1	t ou t
+088/097	toud	1	t ou d
+088/099	taauut	1	t aauu t
+088/101	NA	NA	-
+088/103	doud	1	d ou d
+088/105	toat	1	t oa t
+088/107	toeat	1	t oea t
+088/109	toud	1	t ou d
+088/113	NA	NA	-
+088/115	teod	1	t eo d
+088/117	NA	NA	-
+088/121	doid	1	d oi d
+088/123	toid	1	t oi d
+088/127	dod	1	d o d
+088/129	tod	1	t o d
+088/131	NA	NA	-
+088/137	tod	1	t o d
+088/139	NA	NA	-
+088/141	dod	1	d o d
+088/143	NA	NA	-
+088/145	NA	NA	-
+088/147	tot	1	t o t
+088/149	tot	1	t o t
+089/035	tudt	1	t u d t
+089/037	duhd	1	d uh d
+089/039	dud	1	d u d
+089/041	dod	1	d o d
+089/043	todt	1	t o d t
+089/045	dod	1	d o d
+089/047	daod	1	d ao d
+089/049	taot	1	t ao t
+089/051	daod	1	d ao d
+089/053	daod	1	d ao d
+089/055	daud	1	d au d
+089/057	daud	1	d au d
+089/059	daod	1	d ao d
+089/061	taud	1	t au d
+089/063	taut	1	t au t
+089/065	daud	1	d au d
+089/067	daut	1	d au t
+089/069	daud	1	d au d
+089/071	toat	1	t oa t
+089/073	doat	1	d oa t
+089/075	doat	1	d oa t
+089/077	doat	1	d oa t
+089/079	toad	1	t oa d
+089/081	toat	1	t oa t
+089/083	doad	1	d oa d
+089/085	dood	1	d oo d
+089/087	todt	1	t o d t
+089/089	taud	1	t au d
+089/091	doud	1	d ou d
+089/093	tout	1	t ou t
+089/095	doud	1	d ou d
+089/097	touad	1	t oua d
+089/099	taut	1	t au t
+089/101	tout	1	t ou t
+089/103	dout	1	d ou t
+089/105	daüd	1	d aü d
+089/107	tot	1	t o t
+089/109	NA	NA	-
+089/111	teot	1	t eo t
+089/113	toad	1	t oa d
+089/115	tot	1	t o t
+089/117	deot	1	d eo t
+089/119	NA	NA	-
+089/121	doid	1	d oi d
+089/123	teot	1	t eo t
+089/125	toid	1	t oi d
+089/127	NA	NA	-
+089/129	dod	1	d o d
+089/131	toat	1	t oa t
+089/133	tod	1	t o d
+089/135	dod	1	d o d
+089/137	NA	NA	-
+089/139	NA	NA	-
+089/141	tot	1	t o t
+089/143	tot	1	t o t
+089/145	NA	NA	-
+089/147	tot	1	t o t
+089/149	NA	NA	-
+090/035	dod	1	d o d
+090/037	duud	1	d uu d
+090/039	toodt	1	t oo d t
+090/041	dod	1	d o d
+090/043	dod	1	d o d
+090/045	doohd	1	d ooh d
+090/047	dot	1	d o t
+090/049	taud	1	t au d
+090/051	daod	1	d ao d
+090/053	daud	1	d au d
+090/055	daud	1	d au d
+090/057	daod	1	d ao d
+090/059	daut	1	d au t
+090/061	NA	NA	-
+090/063	duud	1	d uu d
+090/065	toudt	1	t ou d t
+090/067	daod	1	d ao d
+090/069	doat	1	d oa t
+090/071	doad	1	d oa d
+090/073	doad	1	d oa d
+090/075	toad	1	t oa d
+090/077	doat	1	d oa t
+090/079	toat	1	t oa t
+090/081	toat	1	t oa t
+090/083	toad	1	t oa d
+090/085	doat	1	d oa t
+090/087	toat	1	t oa t
+090/089	thout	1	t h ou t
+090/091	daut	1	d au t
+090/093	tout	1	t ou t
+090/095	NA	NA	-
+090/097	doud	1	d ou d
+090/099	doud	1	d ou d
+090/101	toat	1	t oa t
+090/103	toat	1	t oa t
+090/105	tod	1	t o d
+090/107	NA	NA	-
+090/109	NA	NA	-
+090/111	täot	1	t äo t
+090/113	dot	1	d o t
+090/115	teod	1	t eo d
+090/119	NA	NA	-
+090/121	tat	1	t a t
+090/123	tot	1	t o t
+090/125	NA	NA	-
+090/127	tot	1	t o t
+090/129	NA	NA	-
+090/131	tot	1	t o t
+090/133	dot	1	d o t
+090/135	NA	NA	-
+090/137	tot	1	t o t
+090/139	tot	1	t o t
+090/141	tot	1	t o t
+090/143	dood	1	d oo d
+090/145	dod	1	d o d
+090/147	NA	NA	-
+090/149	tot	1	t o t
+090/151	NA	NA	-
+091/035	dud	1	d u d
+091/037	toot	1	t oo t
+091/039	dohd	1	d oh d
+091/041	tot	1	t o t
+091/043	dood	1	d oo d
+091/045	dot	1	d o t
+091/047	doad	1	d oa d
+091/049	dod	1	d o d
+091/051	daud	1	d au d
+091/053	daod	1	d ao d
+091/055	daut	1	d au t
+091/057	daud	1	d au d
+091/059	taot	1	t ao t
+091/061	daud	1	d au d
+091/063	daud	1	d au d
+091/065	daud	1	d au d
+091/067	taot	1	t ao t
+091/069	taut	1	t au t
+091/071	doat	1	d oa t
+091/073	doad	1	d oa d
+091/075	doad	1	d oa d
+091/077	toat	1	t oa t
+091/079	doat	1	d oa t
+091/081	doat	1	d oa t
+091/083	toad	1	t oa d
+091/085	tot	1	t o t
+091/087	doud	1	d ou d
+091/091	daoud	1	d aou d
+091/093	tout	1	t ou t
+091/095	tooht	1	t ooh t
+091/097	NA	NA	-
+091/099	NA	NA	-
+091/101	dout	1	d ou t
+091/103	dod	1	d o d
+091/105	tood	1	t oo d
+091/107	tat	1	t a t
+091/109	toad	1	t oa d
+091/111	toid	1	t oi d
+091/113	taot	1	t ao t
+091/115	tod	1	t o d
+091/117	täot	1	t äo t
+091/119	teod	1	t eo d
+091/121	NA	NA	-
+091/125	NA	NA	-
+091/129	NA	NA	-
+091/131	tot	1	t o t
+091/133	NA	NA	-
+091/135	dod	1	d o d
+091/137	NA	NA	-
+091/139	tot	1	t o t
+091/141	NA	NA	-
+091/143	NA	NA	-
+091/145	NA	NA	-
+091/147	NA	NA	-
+091/149	NA	NA	-
+091/151	NA	NA	-
+091/155	toot	1	t oo t
+092/033	dod	1	d o d
+092/035	tot	1	t o t
+092/037	tudt	1	t u d t
+092/039	dud	1	d u d
+092/041	dood	1	d oo d
+092/043	dod	1	d o d
+092/045	doot	1	d oo t
+092/047	dot	1	d o t
+092/049	dod	1	d o d
+092/051	daud	1	d au d
+092/053	daud	1	d au d
+092/055	daud	1	d au d
+092/057	daut	1	d au t
+092/059	daud	1	d au d
+092/061	taud	1	t au d
+092/063	daod	1	d ao d
+092/065	daud	1	d au d
+092/067	taut	1	t au t
+092/069	dood	1	d oo d
+092/071	NA	NA	-
+092/073	doad	1	d oa d
+092/075	NA	NA	-
+092/077	doat	1	d oa t
+092/079	toat	1	t oa t
+092/081	doad	1	d oa d
+092/083	doad	1	d oa d
+092/085	dod	1	d o d
+092/087	toud	1	t ou d
+092/089	doud	1	d ou d
+092/091	doud	1	d ou d
+092/093	doud	1	d ou d
+092/095	doad	1	d oa d
+092/097	dod	1	d o d
+092/099	tout	1	t ou t
+092/101	daoud	1	d aou d
+092/103	taodt	1	t ao d t
+092/105	NA	NA	-
+092/107	NA	NA	-
+092/109	tät	1	t ä t
+092/111	toad	1	t oa d
+092/113	toud	1	t ou d
+092/115	taot	1	t ao t
+092/117	teod	1	t eo d
+092/119	toat	1	t oa t
+092/121	tot	1	t o t
+092/123	toat	1	t oa t
+092/125	tot	1	t o t
+092/127	tot	1	t o t
+092/129	tot	1	t o t
+092/131	tod	1	t o d
+092/133	tod	1	t o d
+092/135	tot	1	t o t
+092/137	tot	1	t o t
+092/139	NA	NA	-
+092/141	tot	1	t o t
+092/143	tot	1	t o t
+092/145	NA	NA	-
+092/147	dod	1	d o d
+092/149	dod	1	d o d
+092/151	tod	1	t o d
+093/035	doht	1	d oh t
+093/037	dod	1	d o d
+093/039	dod	1	d o d
+093/041	dot	1	d o t
+093/043	dod	1	d o d
+093/045	dot	1	d o t
+093/047	dod	1	d o d
+093/049	dod	1	d o d
+093/051	dohd	1	d oh d
+093/053	taud	1	t au d
+093/055	daud	1	d au d
+093/057	daud	1	d au d
+093/059	daod	1	d ao d
+093/061	daot	1	d ao t
+093/063	dot	1	d o t
+093/065	dot	1	d o t
+093/067	dod	1	d o d
+093/069	dot	1	d o t
+093/071	toad	1	t oa d
+093/073	doat	1	d oa t
+093/075	doat	1	d oa t
+093/077	doad	1	d oa d
+093/079	toat	1	t oa t
+093/081	doad	1	d oa d
+093/083	doad	1	d oa d
+093/085	taud	1	t au d
+093/087	todt	1	t o d t
+093/089	dout	1	d ou t
+093/091	tout	1	t ou t
+093/093	tout	1	t ou t
+093/095	doud	1	d ou d
+093/097	toaud	1	t oau d
+093/099	doat	1	d oa t
+093/101	toud	1	t ou d
+093/103	toad	1	t oa d
+093/105	tout	1	t ou t
+093/109	taud	1	t au d
+093/111	töad	1	t öa d
+093/113	tead	1	t ea d
+093/115	NA	NA	-
+093/117	dod	1	d o d
+093/119	dod	1	d o d
+093/121	toid	1	t oi d
+093/123	tod	1	t o d
+093/125	dod	1	d o d
+093/127	dod	1	d o d
+093/129	tod	1	t o d
+093/131	dod	1	d o d
+093/133	tot	1	t o t
+093/137	dod	1	d o d
+093/139	tot	1	t o t
+093/143	tot	1	t o t
+093/145	dot	1	d o t
+093/147	NA	NA	-
+093/149	tot	1	t o t
+093/151	NA	NA	-
+093/153	NA	NA	-
+093/155	tot	1	t o t
+094/033	duot	1	d uo t
+094/035	toodt	1	t oo d t
+094/037	todt	1	t o d t
+094/039	todt	1	t o d t
+094/041	dod	1	d o d
+094/043	dood	1	d oo d
+094/045	todt	1	t o d t
+094/047	dod	1	d o d
+094/049	dood	1	d oo d
+094/051	dood	1	d oo d
+094/053	daud	1	d au d
+094/055	daut	1	d au t
+094/057	taut	1	t au t
+094/059	dood	1	d oo d
+094/061	taut	1	t au t
+094/063	dod	1	d o d
+094/065	tod	1	t o d
+094/067	dod	1	d o d
+094/069	dohd	1	d oh d
+094/071	dod	1	d o d
+094/073	tod	1	t o d
+094/075	toat	1	t oa t
+094/077	toad	1	t oa d
+094/079	doat	1	d oa t
+094/081	dot	1	d o t
+094/083	dodt	1	d o d t
+094/085	doat	1	d oa t
+094/087	dout	1	d ou t
+094/089	toudt	1	t ou d t
+094/091	dout	1	d ou t
+094/093	dout	1	d ou t
+094/095	dood	1	d oo d
+094/097	dood	1	d oo d
+094/099	doud	1	d ou d
+094/101	dod	1	d o d
+094/103	taut	1	t au t
+094/105	teot	1	t eo t
+094/107	toad	1	t oa d
+094/109	doat	1	d oa t
+094/111	tot	1	t o t
+094/113	NA	NA	-
+094/115	tad	1	t a d
+094/117	NA	NA	-
+094/119	tot	1	t o t
+094/121	NA	NA	-
+094/123	NA	NA	-
+094/125	tod	1	t o d
+094/127	tot	1	t o t
+094/129	tot	1	t o t
+094/131	dot	1	d o t
+094/133	tod	1	t o d
+094/135	NA	NA	-
+094/137	tot	1	t o t
+094/139	tod	1	t o d
+094/141	NA	NA	-
+094/143	tot	1	t o t
+094/145	NA	NA	-
+094/147	NA	NA	-
+094/149	NA	NA	-
+094/151	NA	NA	-
+094/153	dot	1	d o t
+095/031	dood	1	d oo d
+095/033	todt	1	t o d t
+095/035	dod	1	d o d
+095/037	dot	1	d o t
+095/039	tot	1	t o t
+095/041	dood	1	d oo d
+095/043	dot	1	d o t
+095/045	dod	1	d o d
+095/047	dod	1	d o d
+095/049	doot	1	d oo t
+095/051	dod	1	d o d
+095/053	dodt	1	d o d t
+095/055	dod	1	d o d
+095/057	dod	1	d o d
+095/059	tod	1	t o d
+095/061	dood	1	d oo d
+095/063	toat	1	t oa t
+095/065	dood	1	d oo d
+095/067	dot	1	d o t
+095/069	dot	1	d o t
+095/071	dot	1	d o t
+095/073	dod	1	d o d
+095/075	doad	1	d oa d
+095/077	doat	1	d oa t
+095/079	toat	1	t oa t
+095/081	toat	1	t oa t
+095/083	duad	1	d ua d
+095/085	tout	1	t ou t
+095/087	tout	1	t ou t
+095/089	doud	1	d ou d
+095/091	NA	NA	-
+095/093	tout	1	t ou t
+095/095	dauad	1	d aua d
+095/097	toud	1	t ou d
+095/099	tout	1	t ou t
+095/101	toud	1	t ou d
+095/103	toat	1	t oa t
+095/105	tot	1	t o t
+095/107	tuod	1	t uo d
+095/109	taot	1	t ao t
+095/111	tat	1	t a t
+095/113	toot	1	t oo t
+095/115	teot	1	t eo t
+095/117	NA	NA	-
+095/119	doad	1	d oa d
+095/121	tot	1	t o t
+095/123	tod	1	t o d
+095/125	toud	1	t ou d
+095/129	tot	1	t o t
+095/131	dot	1	d o t
+095/133	tot	1	t o t
+095/139	tot	1	t o t
+095/141	tot	1	t o t
+095/143	tot	1	t o t
+095/145	tot	1	t o t
+095/147	tat	1	t a t
+095/149	NA	NA	-
+095/151	tot	1	t o t
+095/153	tot	1	t o t
+095/155	tot	1	t o t
+096/031	tot	1	t o t
+096/033	dod	1	d o d
+096/035	toot	1	t oo t
+096/037	dot	1	d o t
+096/039	todt	1	t o d t
+096/041	tot	1	t o t
+096/043	dod	1	d o d
+096/045	dod	1	d o d
+096/047	dod	1	d o d
+096/049	dot	1	d o t
+096/051	dod	1	d o d
+096/053	dod	1	d o d
+096/055	dod	1	d o d
+096/057	dot	1	d o t
+096/059	todt	1	t o d t
+096/061	dod	1	d o d
+096/063	tod	1	t o d
+096/065	dod	1	d o d
+096/067	dod	1	d o d
+096/069	tot	1	t o t
+096/071	toat	1	t oa t
+096/075	NA	NA	-
+096/077	doad	1	d oa d
+096/079	toat	1	t oa t
+096/081	doad	1	d oa d
+096/083	doad	1	d oa d
+096/085	doid	1	d oi d
+096/087	dout	1	d ou t
+096/089	tout	1	t ou t
+096/091	doud	1	d ou d
+096/093	daoud	1	d aou d
+096/095	doud	1	d ou d
+096/097	tout	1	t ou t
+096/099	taud	1	t au d
+096/101	toad	1	t oa d
+096/103	tout	1	t ou t
+096/105	toat	1	t oa t
+096/107	tout	1	t ou t
+096/109	todt	1	t o d t
+096/111	tot	1	t o t
+096/113	toat	1	t oa t
+096/115	taod	1	t ao d
+096/117	NA	NA	-
+096/119	tot	1	t o t
+096/121	toot	1	t oo t
+096/123	doud	1	d ou d
+096/125	dod	1	d o d
+096/129	tod	1	t o d
+096/131	tot	1	t o t
+096/135	NA	NA	-
+096/137	NA	NA	-
+096/139	NA	NA	-
+096/141	tot	1	t o t
+096/143	NA	NA	-
+096/145	tod	1	t o d
+096/147	tod	1	t o d
+096/151	tod	1	t o d
+096/153	tot	1	t o t
+096/155	NA	NA	-
+097/031	doat	1	d oa t
+097/033	dod	1	d o d
+097/035	tot	1	t o t
+097/037	dot	1	d o t
+097/039	dod	1	d o d
+097/041	NA	NA	-
+097/043	dod	1	d o d
+097/045	dod	1	d o d
+097/047	dot	1	d o t
+097/049	dood	1	d oo d
+097/051	dot	1	d o t
+097/053	dood	1	d oo d
+097/055	dod	1	d o d
+097/057	dod	1	d o d
+097/059	dood	1	d oo d
+097/061	dod	1	d o d
+097/063	daud	1	d au d
+097/065	dod	1	d o d
+097/067	tot	1	t o t
+097/069	doot	1	d oo t
+097/071	dod	1	d o d
+097/073	tot	1	t o t
+097/075	toat	1	t oa t
+097/077	NA	NA	-
+097/079	doat	1	d oa t
+097/081	toat	1	t oa t
+097/083	doad	1	d oa d
+097/085	toadt	1	t oa d t
+097/087	doud	1	d ou d
+097/089	tod	1	t o d
+097/091	douud	1	d ouu d
+097/093	daut	1	d au t
+097/095	dout	1	d ou t
+097/097	toat	1	t oa t
+097/099	toud	1	t ou d
+097/103	toot	1	t oo t
+097/105	toud	1	t ou d
+097/107	NA	NA	-
+097/109	toud	1	t ou d
+097/113	NA	NA	-
+097/125	tod	1	t o d
+097/131	tot	1	t o t
+097/133	todt	1	t o d t
+097/139	tod	1	t o d
+097/141	tot	1	t o t
+097/143	tot	1	t o t
+097/145	todt	1	t o d t
+097/149	NA	NA	-
+097/153	NA	NA	-
+098/033	dot	1	d o t
+098/035	dod	1	d o d
+098/037	dod	1	d o d
+098/039	dod	1	d o d
+098/041	dod	1	d o d
+098/043	dot	1	d o t
+098/045	dood	1	d oo d
+098/047	dood	1	d oo d
+098/049	tod	1	t o d
+098/051	tod	1	t o d
+098/053	dod	1	d o d
+098/055	dod	1	d o d
+098/057	dood	1	d oo d
+098/059	dood	1	d oo d
+098/061	dod	1	d o d
+098/063	dod	1	d o d
+098/065	tot	1	t o t
+098/067	tod	1	t o d
+098/069	dot	1	d o t
+098/071	todt	1	t o d t
+098/073	dod	1	d o d
+098/075	toat	1	t oa t
+098/077	dod	1	d o d
+098/079	toat	1	t oa t
+098/081	toat	1	t oa t
+098/083	toat	1	t oa t
+098/085	toad	1	t oa d
+098/087	doud	1	d ou d
+098/089	tot	1	t o t
+098/091	tout	1	t ou t
+098/093	toud	1	t ou d
+098/095	tout	1	t ou t
+098/097	taot	1	t ao t
+098/103	toadt	1	t oa d t
+098/105	toud	1	t ou d
+098/107	tout	1	t ou t
+098/109	tout	1	t ou t
+098/111	tot	1	t o t
+098/119	NA	NA	-
+098/123	tot	1	t o t
+098/125	NA	NA	-
+098/127	dot	1	d o t
+098/135	tot	1	t o t
+098/137	tot	1	t o t
+098/139	NA	NA	-
+098/141	NA	NA	-
+098/143	durt	1	d u r t
+098/145	NA	NA	-
+098/147	NA	NA	-
+098/149	tod	1	t o d
+098/151	tod	1	t o d
+099/033	tot	1	t o t
+099/035	tod	1	t o d
+099/037	dod	1	d o d
+099/039	doat	1	d oa t
+099/041	dot	1	d o t
+099/043	dood	1	d oo d
+099/045	dot	1	d o t
+099/047	dod	1	d o d
+099/049	dod	1	d o d
+099/051	dod	1	d o d
+099/053	tod	1	t o d
+099/055	tood	1	t oo d
+099/057	tood	1	t oo d
+099/059	dod	1	d o d
+099/063	dot	1	d o t
+099/065	dood	1	d oo d
+099/067	tod	1	t o d
+099/069	tod	1	t o d
+099/071	doat	1	d oa t
+099/073	doadt	1	d oa d t
+099/075	doad	1	d oa d
+099/077	toat	1	t oa t
+099/081	doad	1	d oa d
+099/083	toad	1	t oa d
+099/085	toad	1	t oa d
+099/089	toud	1	t ou d
+099/093	tauot	1	t auo t
+099/095	dod	1	d o d
+099/099	taut	1	t au t
+099/101	tot	1	t o t
+099/103	NA	NA	-
+099/105	taut	1	t au t
+099/107	toat	1	t oa t
+099/109	NA	NA	-
+099/111	NA	NA	-
+099/113	taut	1	t au t
+099/121	dod	1	d o d
+099/123	tot	1	t o t
+099/125	tod	1	t o d
+099/131	tot	1	t o t
+099/137	tout	1	t ou t
+099/139	NA	NA	-
+099/141	tot	1	t o t
+099/143	NA	NA	-
+099/145	tot	1	t o t
+099/147	NA	NA	-
+100/033	todt	1	t o d t
+100/035	tod	1	t o d
+100/037	todt	1	t o d t
+100/039	tot	1	t o t
+100/041	dot	1	d o t
+100/043	dood	1	d oo d
+100/045	tod	1	t o d
+100/049	tood	1	t oo d
+100/051	tod	1	t o d
+100/053	tot	1	t o t
+100/055	tod	1	t o d
+100/057	tod	1	t o d
+100/059	tod	1	t o d
+100/061	tod	1	t o d
+100/065	tot	1	t o t
+100/067	tot	1	t o t
+100/069	tod	1	t o d
+100/071	toad	1	t oa d
+100/073	toat	1	t oa t
+100/075	toat	1	t oa t
+100/077	doad	1	d oa d
+100/081	toad	1	t oa d
+100/083	NA	NA	-
+100/089	tuad	1	t ua d
+100/093	tuad	1	t ua d
+100/095	tout	1	t ou t
+100/097	toud	1	t ou d
+100/099	tot	1	t o t
+100/101	todt	1	t o d t
+100/109	tad	1	t a d
+100/111	NA	NA	-
+100/113	tout	1	t ou t
+100/115	tot	1	t o t
+100/117	tot	1	t o t
+100/119	NA	NA	-
+100/121	tod	1	t o d
+100/125	tot	1	t o t
+100/127	NA	NA	-
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	tot	1	t o t
+100/141	tot	1	t o t
+100/143	tot	1	t o t
+100/145	NA	NA	-
+101/035	dood	1	d oo d
+101/037	tot	1	t o t
+101/039	dood	1	d oo d
+101/041	dod	1	d o d
+101/043	dod	1	d o d
+101/045	toot	1	t oo t
+101/047	tod	1	t o d
+101/049	tod	1	t o d
+101/051	tood	1	t oo d
+101/053	tot	1	t o t
+101/055	tod	1	t o d
+101/057	tod	1	t o d
+101/059	tot	1	t o t
+101/061	tod	1	t o d
+101/063	tout	1	t ou t
+101/065	tot	1	t o t
+101/067	dot	1	d o t
+101/071	toad	1	t oa d
+101/075	toat	1	t oa t
+101/077	toat	1	t oa t
+101/079	toadt	1	t oa d t
+101/081	toaad	1	t oaa d
+101/091	dod	1	d o d
+101/093	tod	1	t o d
+101/095	toat	1	t oa t
+101/097	toud	1	t ou d
+101/099	taut	1	t au t
+101/101	tot	1	t o t
+101/103	NA	NA	-
+101/107	dod	1	d o d
+101/109	tout	1	t ou t
+101/113	NA	NA	-
+101/115	tot	1	t o t
+101/121	NA	NA	-
+101/125	tot	1	t o t
+101/129	taus	1	t au s
+101/131	tot	1	t o t
+101/133	tot	1	t o t
+101/137	tot	1	t o t
+101/139	tot	1	t o t
+101/141	tat	1	t a t
+101/143	tot	1	t o t
+101/145	tot	1	t o t
+101/147	NA	NA	-
+102/037	tot	1	t o t
+102/039	tod	1	t o d
+102/041	dot	1	d o t
+102/043	tod	1	t o d
+102/045	tood	1	t oo d
+102/047	tood	1	t oo d
+102/049	tood	1	t oo d
+102/051	tod	1	t o d
+102/053	tood	1	t oo d
+102/055	tod	1	t o d
+102/057	tod	1	t o d
+102/059	tod	1	t o d
+102/061	tood	1	t oo d
+102/063	tood	1	t oo d
+102/065	dod	1	d o d
+102/067	dod	1	d o d
+102/069	dod	1	d o d
+102/071	toad	1	t oa d
+102/073	toad	1	t oa d
+102/075	toud	1	t ou d
+102/077	toat	1	t oa t
+102/079	toat	1	t oa t
+102/081	toat	1	t oa t
+102/083	toat	1	t oa t
+102/089	tuad	1	t ua d
+102/091	NA	NA	-
+102/093	toad	1	t oa d
+102/095	NA	NA	-
+102/097	tout	1	t ou t
+102/099	tod	1	t o d
+102/103	toat	1	t oa t
+102/107	tood	1	t oo d
+102/109	dout	1	d ou t
+102/113	tot	1	t o t
+102/115	tot	1	t o t
+102/127	toat	1	t oa t
+102/129	tot	1	t o t
+102/131	toad	1	t oa d
+102/135	NA	NA	-
+102/137	tot	1	t o t
+102/139	NA	NA	-
+102/141	tot	1	t o t
+102/143	NA	NA	-
+102/145	tot	1	t o t
+103/039	todt	1	t o d t
+103/041	dod	1	d o d
+103/043	tood	1	t oo d
+103/045	tod	1	t o d
+103/047	tood	1	t oo d
+103/049	tod	1	t o d
+103/051	tod	1	t o d
+103/053	tod	1	t o d
+103/055	tood	1	t oo d
+103/057	tod	1	t o d
+103/059	NA	NA	-
+103/063	tod	1	t o d
+103/065	tot	1	t o t
+103/067	dod	1	d o d
+103/069	tot	1	t o t
+103/071	tod	1	t o d
+103/073	tuad	1	t ua d
+103/075	toat	1	t oa t
+103/077	toat	1	t oa t
+103/079	toat	1	t oa t
+103/081	toad	1	t oa d
+103/083	toat	1	t oa t
+103/085	toat	1	t oa t
+103/087	toat	1	t oa t
+103/089	toat	1	t oa t
+103/091	toat	1	t oa t
+103/097	tood	1	t oo d
+103/099	tood	1	t oo d
+103/101	doud	1	d ou d
+103/105	NA	NA	-
+103/107	dood	1	d oo d
+103/111	tot	1	t o t
+103/121	NA	NA	-
+103/125	toat	1	t oa t
+103/127	NA	NA	-
+103/131	NA	NA	-
+103/133	toat	1	t oa t
+103/135	tot	1	t o t
+103/137	toat	1	t oa t
+103/139	tout	1	t ou t
+103/141	todt	1	t o d t
+103/143	tod	1	t o d
+103/145	tod	1	t o d
+104/033	tod	1	t o d
+104/035	tod	1	t o d
+104/037	tod	1	t o d
+104/039	tood	1	t oo d
+104/041	tod	1	t o d
+104/043	tod	1	t o d
+104/045	tod	1	t o d
+104/047	tood	1	t oo d
+104/049	tood	1	t oo d
+104/051	tot	1	t o t
+104/053	toud	1	t ou d
+104/055	tot	1	t o t
+104/057	tot	1	t o t
+104/059	tod	1	t o d
+104/061	toad	1	t oa d
+104/063	dot	1	d o t
+104/065	tot	1	t o t
+104/067	dod	1	d o d
+104/071	tuad	1	t ua d
+104/075	doat	1	d oa t
+104/077	toat	1	t oa t
+104/079	toat	1	t oa t
+104/081	toat	1	t oa t
+104/083	toat	1	t oa t
+104/085	toat	1	t oa t
+104/091	NA	NA	-
+104/095	tot	1	t o t
+104/101	tot	1	t o t
+104/103	tot	1	t o t
+104/107	tat	1	t a t
+104/111	doad	1	d oa d
+104/113	toad	1	t oa d
+104/119	toat	1	t oa t
+104/121	NA	NA	-
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	todt	1	t o d t
+104/131	taot	1	t ao t
+104/133	toat	1	t oa t
+104/135	tood	1	t oo d
+104/137	tot	1	t o t
+104/139	NA	NA	-
+104/141	tot	1	t o t
+104/143	tot	1	t o t
+104/145	NA	NA	-
+105/031	tod	1	t o d
+105/033	tod	1	t o d
+105/035	tot	1	t o t
+105/037	tod	1	t o d
+105/039	tod	1	t o d
+105/041	tod	1	t o d
+105/043	tod	1	t o d
+105/045	tod	1	t o d
+105/047	dod	1	d o d
+105/049	tod	1	t o d
+105/051	toud	1	t ou d
+105/053	toud	1	t ou d
+105/055	tood	1	t oo d
+105/057	tod	1	t o d
+105/059	tod	1	t o d
+105/061	toäd	1	t oä d
+105/063	tod	1	t o d
+105/065	tot	1	t o t
+105/067	tot	1	t o t
+105/069	tod	1	t o d
+105/071	toad	1	t oa d
+105/073	toat	1	t oa t
+105/075	toat	1	t oa t
+105/077	NA	NA	-
+105/079	toat	1	t oa t
+105/081	toat	1	t oa t
+105/085	toat	1	t oa t
+105/087	toat	1	t oa t
+105/089	NA	NA	-
+105/103	tout	1	t ou t
+105/105	tot	1	t o t
+105/111	toat	1	t oa t
+105/113	toat	1	t oa t
+105/115	toadt	1	t oa d t
+105/117	toat	1	t oa t
+105/119	auf	1	au f
+105/121	toat	1	t oa t
+105/125	toat	1	t oa t
+105/127	NA	NA	-
+105/131	toat	1	t oa t
+105/133	NA	NA	-
+105/135	tott	1	t o tt
+105/137	toad	1	t oa d
+105/141	NA	NA	-
+105/143	tod	1	t o d
+105/145	tot	1	t o t
+106/033	dod	1	d o d
+106/035	tot	1	t o t
+106/037	tod	1	t o d
+106/039	NA	NA	-
+106/041	tod	1	t o d
+106/043	dod	1	d o d
+106/045	tot	1	t o t
+106/047	tood	1	t oo d
+106/049	tod	1	t o d
+106/051	toud	1	t ou d
+106/053	tod	1	t o d
+106/057	tod	1	t o d
+106/061	toud	1	t ou d
+106/063	tod	1	t o d
+106/067	tot	1	t o t
+106/071	tot	1	t o t
+106/073	toad	1	t oa d
+106/075	toat	1	t oa t
+106/077	toat	1	t oa t
+106/079	toat	1	t oa t
+106/081	toadt	1	t oa d t
+106/085	toat	1	t oa t
+106/087	um	1	u m
+106/093	toet	1	t oe t
+106/097	tät	1	t ä t
+106/099	NA	NA	-
+106/103	tot	1	t o t
+106/111	toad	1	t oa d
+106/115	NA	NA	-
+106/121	toat	1	t oa t
+106/123	toat	1	t oa t
+106/125	toat	1	t oa t
+106/129	NA	NA	-
+106/131	toat	1	t oa t
+106/133	tout	1	t ou t
+106/135	toat	1	t oa t
+106/137	toat	1	t oa t
+106/139	tod	1	t o d
+106/141	todt	1	t o d t
+106/143	tot	1	t o t
+106/145	tot	1	t o t
+107/033	tot	1	t o t
+107/035	tod	1	t o d
+107/037	tod	1	t o d
+107/039	tod	1	t o d
+107/041	tod	1	t o d
+107/043	tod	1	t o d
+107/045	tod	1	t o d
+107/047	tod	1	t o d
+107/049	tod	1	t o d
+107/051	tod	1	t o d
+107/053	dod	1	d o d
+107/057	tod	1	t o d
+107/059	tod	1	t o d
+107/063	tot	1	t o t
+107/065	tod	1	t o d
+107/071	toad	1	t oa d
+107/075	toat	1	t oa t
+107/081	toadt	1	t oa d t
+107/085	NA	NA	-
+107/087	toat	1	t oa t
+107/089	NA	NA	-
+107/091	tuet	1	t ue t
+107/097	töde	1	t ö d e
+107/099	tot	1	t o t
+107/103	tot	1	t o t
+107/105	NA	NA	-
+107/107	todt	1	t o d t
+107/111	toat	1	t oa t
+107/119	toat	1	t oa t
+107/121	NA	NA	-
+107/123	toat	1	t oa t
+107/125	NA	NA	-
+107/127	toat	1	t oa t
+107/129	NA	NA	-
+107/131	toa	1	t oa
+107/133	toat	1	t oa t
+107/135	toat	1	t oa t
+107/137	tout	1	t ou t
+107/139	tod	1	t o d
+107/141	toat	1	t oa t
+107/143	NA	NA	-
+108/033	tot	1	t o t
+108/035	tod	1	t o d
+108/037	tod	1	t o d
+108/039	tod	1	t o d
+108/041	NA	NA	-
+108/043	tod	1	t o d
+108/047	tod	1	t o d
+108/049	tod	1	t o d
+108/063	toot	1	t oo t
+108/065	tod	1	t o d
+108/067	tot	1	t o t
+108/075	tooat	1	t ooa t
+108/079	toat	1	t oa t
+108/081	toad	1	t oa d
+108/085	NA	NA	-
+108/087	tuot	1	t uo t
+108/091	NA	NA	-
+108/099	NA	NA	-
+108/101	NA	NA	-
+108/103	toat	1	t oa t
+108/105	toat	1	t oa t
+108/109	toat	1	t oa t
+108/111	toat	1	t oa t
+108/113	toad	1	t oa d
+108/117	toad	1	t oa d
+108/119	toat	1	t oa t
+108/121	NA	NA	-
+108/123	toat	1	t oa t
+108/125	toat	1	t oa t
+108/127	toud	1	t ou d
+108/129	tot	1	t o t
+108/131	tot	1	t o t
+108/133	toat	1	t oa t
+108/135	toat	1	t oa t
+108/137	toat	1	t oa t
+108/139	tout	1	t ou t
+108/141	toat	1	t oa t
+109/035	tod	1	t o d
+109/037	tot	1	t o t
+109/039	tod	1	t o d
+109/041	tod	1	t o d
+109/043	NA	NA	-
+109/045	tod	1	t o d
+109/049	tod	1	t o d
+109/053	dot	1	d o t
+109/061	tot	1	t o t
+109/063	tod	1	t o d
+109/065	tot	1	t o t
+109/067	tod	1	t o d
+109/075	toat	1	t oa t
+109/083	NA	NA	-
+109/087	tuot	1	t uo t
+109/089	NA	NA	-
+109/091	toat	1	t oa t
+109/093	tuat	1	t ua t
+109/095	toat	1	t oa t
+109/097	toat	1	t oa t
+109/099	toat	1	t oa t
+109/101	NA	NA	-
+109/103	toet	1	t oe t
+109/107	NA	NA	-
+109/109	NA	NA	-
+109/111	toet	1	t oe t
+109/113	NA	NA	-
+109/115	toat	1	t oa t
+109/117	toat	1	t oa t
+109/119	toadt	1	t oa d t
+109/121	tot	1	t o t
+109/123	NA	NA	-
+109/125	toat	1	t oa t
+109/127	tot	1	t o t
+109/129	NA	NA	-
+109/131	toat	1	t oa t
+109/133	toa	1	t oa
+109/135	toat	1	t oa t
+109/137	NA	NA	-
+109/139	NA	NA	-
+110/035	tooet	1	t ooe t
+110/039	tod	1	t o d
+110/041	tot	1	t o t
+110/043	tod	1	t o d
+110/045	tod	1	t o d
+110/047	tod	1	t o d
+110/049	tod	1	t o d
+110/057	tot	1	t o t
+110/061	tout	1	t ou t
+110/065	tot	1	t o t
+110/075	toud	1	t ou d
+110/079	NA	NA	-
+110/081	NA	NA	-
+110/083	NA	NA	-
+110/087	NA	NA	-
+110/089	toat	1	t oa t
+110/091	NA	NA	-
+110/093	toat	1	t oa t
+110/095	toat	1	t oa t
+110/097	NA	NA	-
+110/099	NA	NA	-
+110/101	tot	1	t o t
+110/105	toat	1	t oa t
+110/107	toat	1	t oa t
+110/111	toat	1	t oa t
+110/113	toat	1	t oa t
+110/115	toat	1	t oa t
+110/117	toot	1	t oo t
+110/119	NA	NA	-
+110/121	NA	NA	-
+110/125	NA	NA	-
+110/127	NA	NA	-
+110/129	toat	1	t oa t
+110/131	NA	NA	-
+110/133	NA	NA	-
+110/135	toat	1	t oa t
+110/137	NA	NA	-
+110/139	toat	1	t oa t
+111/035	tuot	1	t uo t
+111/037	toed	1	t oe d
+111/039	tod	1	t o d
+111/041	tod	1	t o d
+111/043	tod	1	t o d
+111/045	dot	1	d o t
+111/059	tot	1	t o t
+111/073	toat	1	t oa t
+111/075	toat	1	t oa t
+111/077	NA	NA	-
+111/079	NA	NA	-
+111/081	toat	1	t oa t
+111/083	toat	1	t oa t
+111/087	NA	NA	-
+111/089	toat	1	t oa t
+111/105	toat	1	t oa t
+111/107	toat	1	t oa t
+111/109	toat	1	t oa t
+111/111	toat	1	t oa t
+111/113	toat	1	t oa t
+111/115	NA	NA	-
+111/117	todt	1	t o d t
+111/119	tot	1	t o t
+111/121	tot	1	t o t
+111/123	tot	1	t o t
+111/125	todt	1	t o d t
+112/037	toet	1	t oe t
+112/039	tod	1	t o d
+112/041	tod	1	t o d
+112/043	tod	1	t o d
+112/047	tot	1	t o t
+112/059	toot	1	t oo t
+112/061	tot	1	t o t
+112/063	NA	NA	-
+112/075	NA	NA	-
+112/081	toat	1	t oa t
+112/083	NA	NA	-
+112/085	NA	NA	-
+112/111	tot	1	t o t
+112/115	toot	1	t oo t
+112/117	tot	1	t o t
+112/119	tot	1	t o t
+113/035	toot	1	t oo t
+113/037	toed	1	t oe d
+113/039	tot	1	t o t
+113/047	tot	1	t o t
+113/079	NA	NA	-
+113/081	toat	1	t oa t
+113/083	toat	1	t oa t
+113/085	toat	1	t oa t
+113/087	toat	1	t oa t
+113/121	tot	1	t o t
+113/123	tot	1	t o t
+114/035	tod	1	t o d
+114/045	NA	NA	-
+114/083	toat	1	t oa t
+114/085	toat	1	t oa t
+115/041	tot	1	t o t
+115/043	tot	1	t o t
+115/045	tot	1	t o t
+115/083	toat	1	t oa t
+115/085	toat	1	t oa t
+116/043	tot	1	t o t
+116/045	tot	1	t o t
+116/083	toat	1	t oa t
+117/043	tot	1	t o t
+117/045	tot	1	t o t
+118/041	tot	1	t o t
+119/083	NA	NA	-
+120/085	NA	NA	-
+121/127	toat	1	t oa t
+122/127	toat	1	t oa t
+122/129	toat	1	t oa t
+123/081	NA	NA	-
+123/123	toat	1	t oa t
+123/125	toat	1	t oa t
+123/127	toat	1	t oa t
+123/129	toat	1	t oa t
+124/125	toat	1	t oa t
+124/127	toat	1	t oa t
+124/129	toat	1	t oa t

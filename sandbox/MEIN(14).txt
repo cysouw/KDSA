@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	mien	1	m ie n
+002/201	min	1	m i n
+002/203	mien	1	m ie n
+002/205	myn	1	m y n
+003/203	mien	1	m ie n
+003/205	myn	1	m y n
+004/205	mien	1	m ie n
+005/205	mien	1	m ie n
+005/207	mien	1	m ie n
+006/205	mihn	1	m ih n
+006/207	mien	1	m ie n
+007/205	mien	1	m ie n
+007/207	min	1	m i n
+007/209	mien	1	m ie n
+007/211	min	1	m i n
+008/199	mien	1	m ie n
+008/203	mien	1	m ie n
+008/205	min	1	m i n
+008/207	min	1	m i n
+008/209	mien	1	m ie n
+008/211	mien	1	m ie n
+008/213	mien	1	m ie n
+009/199	mün	1	m ü n
+009/203	mien	1	m ie n
+009/207	mien	1	m ie n
+009/209	min	1	m i n
+009/211	miin	1	m ii n
+009/213	mien	1	m ie n
+009/215	mien	1	m ie n
+009/217	min	1	m i n
+010/195	min	1	m i n
+010/203	mien	1	m ie n
+010/207	min	1	m i n
+010/209	min	1	m i n
+010/211	mien	1	m ie n
+010/213	mien	1	m ie n
+010/215	min	1	m i n
+010/217	min	1	m i n
+010/219	min	1	m i n
+011/049	min	1	m i n
+011/053	mi	1	m i
+011/055	mi	1	m i
+011/057	mi	1	m i
+011/059	mi	1	m i
+011/061	mi	1	m i
+011/063	mi	1	m i
+011/065	mi	1	m i
+011/067	mi	1	m i
+011/069	mi	1	m i
+011/187	mien	1	m ie n
+011/189	min	1	m i n
+011/191	min	1	m i n
+011/195	min	1	m i n
+011/197	mien	1	m ie n
+011/203	miee	1	m iee
+011/205	min	1	m i n
+011/207	mien	1	m ie n
+011/209	mien	1	m ie n
+011/211	mien	1	m ie n
+011/213	min	1	m i n
+011/215	mien	1	m ie n
+011/217	mien	1	m ie n
+011/219	min	1	m i n
+012/047	min	1	m i n
+012/049	min	1	m i n
+012/051	min	1	m i n
+012/053	NA	NA	-
+012/055	mi	1	m i
+012/057	mi	1	m i
+012/059	mi	1	m i
+012/061	mi	1	m i
+012/063	mi	1	m i
+012/065	mi	1	m i
+012/067	mi	1	m i
+012/069	mi	1	m i
+012/187	min	1	m i n
+012/189	min	1	m i n
+012/191	min	1	m i n
+012/193	min	1	m i n
+012/195	min	1	m i n
+012/197	mien	1	m ie n
+012/199	miee	1	m iee
+012/201	min	1	m i n
+012/203	min	1	m i n
+012/205	min	1	m i n
+012/207	mien	1	m ie n
+012/209	mien	1	m ie n
+012/211	min	1	m i n
+012/213	min	1	m i n
+012/215	mien	1	m ie n
+012/217	mien	1	m ie n
+012/219	mien	1	m ie n
+012/221	mien	1	m ie n
+012/223	min	1	m i n
+013/051	minn	1	m i nn
+013/053	min	1	m i n
+013/055	min	1	m i n
+013/057	mi	1	m i
+013/059	mi	1	m i
+013/061	min	1	m i n
+013/063	min	1	m i n
+013/065	mien	1	m ie n
+013/067	mi	1	m i
+013/161	mien	1	m ie n
+013/163	mien	1	m ie n
+013/165	min	1	m i n
+013/167	mien	1	m ie n
+013/187	min	1	m i n
+013/189	miee	1	m iee
+013/191	min	1	m i n
+013/193	mien	1	m ie n
+013/195	mien	1	m ie n
+013/197	min	1	m i n
+013/199	mien	1	m ie n
+013/201	min	1	m i n
+013/203	min	1	m i n
+013/207	mien	1	m ie n
+013/209	mien	1	m ie n
+013/211	mien	1	m ie n
+013/213	mien	1	m ie n
+013/215	mien	1	m ie n
+013/217	mien	1	m ie n
+013/219	mien	1	m ie n
+013/221	mien	1	m ie n
+013/223	mien	1	m ie n
+014/047	min	1	m i n
+014/049	min	1	m i n
+014/051	min	1	m i n
+014/053	minn	1	m i nn
+014/055	min	1	m i n
+014/057	minn	1	m i nn
+014/059	min	1	m i n
+014/061	min	1	m i n
+014/063	mien	1	m ie n
+014/065	min	1	m i n
+014/067	min	1	m i n
+014/109	min	1	m i n
+014/159	mien	1	m ie n
+014/161	min	1	m i n
+014/163	mien	1	m ie n
+014/165	min	1	m i n
+014/167	mien	1	m ie n
+014/169	min	1	m i n
+014/187	mien	1	m ie n
+014/189	mien	1	m ie n
+014/191	min	1	m i n
+014/193	mien	1	m ie n
+014/195	miin	1	m ii n
+014/197	min	1	m i n
+014/199	mien	1	m ie n
+014/201	mien	1	m ie n
+014/203	mien	1	m ie n
+014/205	mien	1	m ie n
+014/207	mien	1	m ie n
+014/209	mien	1	m ie n
+014/211	mien	1	m ie n
+014/213	min	1	m i n
+014/215	mien	1	m ie n
+014/217	mien	1	m ie n
+014/219	mien	1	m ie n
+014/221	min	1	m i n
+015/049	min	1	m i n
+015/051	min	1	m i n
+015/053	min	1	m i n
+015/055	min	1	m i n
+015/057	minn	1	m i nn
+015/059	min	1	m i n
+015/061	mien	1	m ie n
+015/063	min	1	m i n
+015/065	min	1	m i n
+015/067	min	1	m i n
+015/105	min	1	m i n
+015/107	mien	1	m ie n
+015/109	min	1	m i n
+015/151	mia	1	m ia
+015/153	mien	1	m ie n
+015/155	min	1	m i n
+015/157	mia	1	m ia
+015/159	mie	1	m ie
+015/161	mihn	1	m ih n
+015/163	min	1	m i n
+015/165	mein	1	m ei n
+015/167	min	1	m i n
+015/169	mien	1	m ie n
+015/173	min	1	m i n
+015/187	mien	1	m ie n
+015/191	mien	1	m ie n
+015/193	mien	1	m ie n
+015/195	min	1	m i n
+015/197	min	1	m i n
+015/199	miin	1	m ii n
+015/201	mien	1	m ie n
+015/203	mien	1	m ie n
+015/205	min	1	m i n
+015/207	mien	1	m ie n
+015/209	mien	1	m ie n
+015/211	min	1	m i n
+015/213	mie	1	m ie
+015/215	NA	NA	-
+015/217	mien	1	m ie n
+015/219	mien	1	m ie n
+015/221	miea	1	m iea
+016/051	min	1	m i n
+016/055	min	1	m i n
+016/057	mien	1	m ie n
+016/059	min	1	m i n
+016/061	min	1	m i n
+016/063	mien	1	m ie n
+016/065	min	1	m i n
+016/067	min	1	m i n
+016/081	mien	1	m ie n
+016/083	NA	NA	-
+016/105	min	1	m i n
+016/107	min	1	m i n
+016/109	mien	1	m ie n
+016/111	mien	1	m ie n
+016/145	min	1	m i n
+016/147	mia	1	m ia
+016/149	mia	1	m ia
+016/151	mia	1	m ia
+016/153	mia	1	m ia
+016/155	mia	1	m ia
+016/157	mia	1	m ia
+016/159	min	1	m i n
+016/161	miä	1	m iä
+016/163	min	1	m i n
+016/165	min	1	m i n
+016/167	min	1	m i n
+016/187	min	1	m i n
+016/189	min	1	m i n
+016/191	min	1	m i n
+016/193	mien	1	m ie n
+016/195	min	1	m i n
+016/197	mien	1	m ie n
+016/199	mien	1	m ie n
+016/201	mien	1	m ie n
+016/203	min	1	m i n
+016/205	mien	1	m ie n
+016/209	mien	1	m ie n
+016/211	mien	1	m ie n
+016/213	mien	1	m ie n
+016/215	mien	1	m ie n
+016/217	mien	1	m ie n
+016/219	min	1	m i n
+017/055	mien	1	m ie n
+017/057	min	1	m i n
+017/059	min	1	m i n
+017/061	min	1	m i n
+017/063	min	1	m i n
+017/065	min	1	m i n
+017/067	mien	1	m ie n
+017/069	min	1	m i n
+017/081	min	1	m i n
+017/083	min	1	m i n
+017/099	mien	1	m ie n
+017/101	mien	1	m ie n
+017/103	mien	1	m ie n
+017/107	min	1	m i n
+017/109	min	1	m i n
+017/145	mie	1	m ie
+017/147	mie	1	m ie
+017/149	miä	1	m iä
+017/151	miea	1	m iea
+017/153	mia	1	m ia
+017/155	mia	1	m ia
+017/157	mia	1	m ia
+017/159	mien	1	m ie n
+017/161	mia	1	m ia
+017/163	mie	1	m ie
+017/165	min	1	m i n
+017/169	mien	1	m ie n
+017/171	mien	1	m ie n
+017/183	min	1	m i n
+017/185	mien	1	m ie n
+017/187	mien	1	m ie n
+017/189	mien	1	m ie n
+017/191	min	1	m i n
+017/193	min	1	m i n
+017/195	min	1	m i n
+017/197	mien	1	m ie n
+017/199	min	1	m i n
+017/201	min	1	m i n
+017/203	min	1	m i n
+017/205	min	1	m i n
+017/207	min	1	m i n
+017/209	mien	1	m ie n
+017/211	min	1	m i n
+017/213	mien	1	m ie n
+017/215	min	1	m i n
+017/217	mien	1	m ie n
+017/219	mien	1	m ie n
+018/051	min	1	m i n
+018/053	min	1	m i n
+018/055	min	1	m i n
+018/057	miin	1	m ii n
+018/059	min	1	m i n
+018/061	miin	1	m ii n
+018/063	min	1	m i n
+018/065	mien	1	m ie n
+018/067	mien	1	m ie n
+018/069	min	1	m i n
+018/071	min	1	m i n
+018/073	min	1	m i n
+018/075	min	1	m i n
+018/079	mien	1	m ie n
+018/081	mien	1	m ie n
+018/097	mien	1	m ie n
+018/099	min	1	m i n
+018/103	mien	1	m ie n
+018/105	mien	1	m ie n
+018/107	mien	1	m ie n
+018/109	min	1	m i n
+018/111	mien	1	m ie n
+018/143	mie	1	m ie
+018/145	mie	1	m ie
+018/147	mihn	1	m ih n
+018/149	mia	1	m ia
+018/151	miä	1	m iä
+018/153	mia	1	m ia
+018/155	miä	1	m iä
+018/157	miea	1	m iea
+018/159	mia	1	m ia
+018/161	mihe	1	m i h e
+018/163	mir	1	m i r
+018/165	mien	1	m ie n
+018/169	min	1	m i n
+018/171	mi	1	m i
+018/173	min	1	m i n
+018/181	min	1	m i n
+018/185	min	1	m i n
+018/187	mien	1	m ie n
+018/189	min	1	m i n
+018/191	min	1	m i n
+018/193	min	1	m i n
+018/195	min	1	m i n
+018/197	mien	1	m ie n
+018/199	min	1	m i n
+018/201	min	1	m i n
+018/203	mien	1	m ie n
+018/205	min	1	m i n
+018/207	mien	1	m ie n
+018/209	min	1	m i n
+018/211	min	1	m i n
+018/213	min	1	m i n
+018/215	mien	1	m ie n
+018/219	mien	1	m ie n
+019/051	mien	1	m ie n
+019/053	mien	1	m ie n
+019/055	min	1	m i n
+019/057	min	1	m i n
+019/059	mien	1	m ie n
+019/061	mien	1	m ie n
+019/063	min	1	m i n
+019/065	min	1	m i n
+019/067	min	1	m i n
+019/069	min	1	m i n
+019/071	mien	1	m ie n
+019/073	min	1	m i n
+019/075	min	1	m i n
+019/077	mien	1	m ie n
+019/079	mien	1	m ie n
+019/081	mien	1	m ie n
+019/097	min	1	m i n
+019/099	mien	1	m ie n
+019/101	min	1	m i n
+019/103	min	1	m i n
+019/105	mien	1	m ie n
+019/107	min	1	m i n
+019/109	mien	1	m ie n
+019/143	miah	1	m iah
+019/145	miä	1	m iä
+019/147	mien	1	m ie n
+019/149	mie	1	m ie
+019/151	mia	1	m ia
+019/153	miä	1	m iä
+019/155	mie	1	m ie
+019/157	mien	1	m ie n
+019/159	mie	1	m ie
+019/161	min	1	m i n
+019/163	miee	1	m iee
+019/165	mie	1	m ie
+019/167	miehä	1	m ie h ä
+019/169	min	1	m i n
+019/171	min	1	m i n
+019/173	mien	1	m ie n
+019/175	mien	1	m ie n
+019/177	min	1	m i n
+019/179	min	1	m i n
+019/181	mien	1	m ie n
+019/183	min	1	m i n
+019/185	min	1	m i n
+019/187	min	1	m i n
+019/189	mi	1	m i
+019/191	mien	1	m ie n
+019/193	min	1	m i n
+019/195	mien	1	m ie n
+019/197	mien	1	m ie n
+019/199	min	1	m i n
+019/201	mien	1	m ie n
+019/203	min	1	m i n
+019/205	mien	1	m ie n
+019/207	min	1	m i n
+019/209	min	1	m i n
+019/211	mien	1	m ie n
+019/213	mien	1	m ie n
+019/215	min	1	m i n
+019/217	mien	1	m ie n
+019/219	min	1	m i n
+020/043	miin	1	m ii n
+020/053	min	1	m i n
+020/055	min	1	m i n
+020/057	mien	1	m ie n
+020/059	min	1	m i n
+020/061	min	1	m i n
+020/063	miin	1	m ii n
+020/065	min	1	m i n
+020/067	mien	1	m ie n
+020/069	min	1	m i n
+020/071	min	1	m i n
+020/073	min	1	m i n
+020/075	min	1	m i n
+020/077	min	1	m i n
+020/079	mien	1	m ie n
+020/081	min	1	m i n
+020/095	mien	1	m ie n
+020/097	mien	1	m ie n
+020/099	mien	1	m ie n
+020/101	miin	1	m ii n
+020/103	min	1	m i n
+020/105	mien	1	m ie n
+020/107	mien	1	m ie n
+020/135	miä	1	m iä
+020/137	mia	1	m ia
+020/139	mie	1	m ie
+020/141	mie	1	m ie
+020/143	mie	1	m ie
+020/145	mie	1	m ie
+020/147	mie	1	m ie
+020/149	mieh	1	m ieh
+020/151	mia	1	m ia
+020/153	mie	1	m ie
+020/155	mien	1	m ie n
+020/157	mie	1	m ie
+020/159	mie	1	m ie
+020/161	mien	1	m ie n
+020/163	min	1	m i n
+020/165	mia	1	m ia
+020/167	mie	1	m ie
+020/169	mien	1	m ie n
+020/171	min	1	m i n
+020/173	mien	1	m ie n
+020/175	mien	1	m ie n
+020/177	min	1	m i n
+020/179	mie	1	m ie
+020/181	mien	1	m ie n
+020/183	mien	1	m ie n
+020/185	mien	1	m ie n
+020/187	mein	1	m ei n
+020/189	min	1	m i n
+020/191	miin	1	m ii n
+020/193	min	1	m i n
+020/195	min	1	m i n
+020/197	min	1	m i n
+020/199	min	1	m i n
+020/201	mien	1	m ie n
+020/203	min	1	m i n
+020/205	mien	1	m ie n
+020/207	min	1	m i n
+020/209	mien	1	m ie n
+020/211	min	1	m i n
+020/213	mien	1	m ie n
+020/215	min	1	m i n
+020/217	min	1	m i n
+020/219	min	1	m i n
+021/055	min	1	m i n
+021/057	min	1	m i n
+021/059	mien	1	m ie n
+021/061	min	1	m i n
+021/063	min	1	m i n
+021/065	min	1	m i n
+021/067	mien	1	m ie n
+021/069	min	1	m i n
+021/071	mien	1	m ie n
+021/073	mien	1	m ie n
+021/075	min	1	m i n
+021/077	min	1	m i n
+021/079	min	1	m i n
+021/087	mien	1	m ie n
+021/089	mien	1	m ie n
+021/091	min	1	m i n
+021/093	miin	1	m ii n
+021/095	mien	1	m ie n
+021/097	mien	1	m ie n
+021/099	mien	1	m ie n
+021/101	mien	1	m ie n
+021/103	min	1	m i n
+021/105	min	1	m i n
+021/107	mihn	1	m ih n
+021/109	mien	1	m ie n
+021/111	mien	1	m ie n
+021/113	min	1	m i n
+021/131	min	1	m i n
+021/133	mie	1	m ie
+021/135	mie	1	m ie
+021/137	mi	1	m i
+021/139	miä	1	m iä
+021/141	mia	1	m ia
+021/143	mie	1	m ie
+021/145	maie	1	m aie
+021/147	mie	1	m ie
+021/149	moi	1	m oi
+021/151	mie	1	m ie
+021/153	miä	1	m iä
+021/155	miä	1	m iä
+021/157	mia	1	m ia
+021/159	miga	1	m i g a
+021/163	mian	1	m ia n
+021/165	mie	1	m ie
+021/167	mie	1	m ie
+021/169	mie	1	m ie
+021/171	min	1	m i n
+021/173	min	1	m i n
+021/175	mien	1	m ie n
+021/177	min	1	m i n
+021/179	min	1	m i n
+021/181	min	1	m i n
+021/183	mien	1	m ie n
+021/185	mein	1	m ei n
+021/187	main	1	m ai n
+021/189	mein	1	m ei n
+021/191	mein	1	m ei n
+021/193	mein	1	m ei n
+021/195	main	1	m ai n
+021/197	mein	1	m ei n
+021/199	mia	1	m ia
+021/201	mien	1	m ie n
+021/203	min	1	m i n
+021/205	mien	1	m ie n
+021/207	min	1	m i n
+021/211	mien	1	m ie n
+021/215	min	1	m i n
+021/217	min	1	m i n
+021/219	min	1	m i n
+022/055	mien	1	m ie n
+022/057	min	1	m i n
+022/059	min	1	m i n
+022/061	min	1	m i n
+022/063	mien	1	m ie n
+022/065	min	1	m i n
+022/067	min	1	m i n
+022/069	min	1	m i n
+022/071	min	1	m i n
+022/073	min	1	m i n
+022/075	min	1	m i n
+022/077	min	1	m i n
+022/087	min	1	m i n
+022/089	mien	1	m ie n
+022/091	mien	1	m ie n
+022/093	mien	1	m ie n
+022/095	min	1	m i n
+022/097	mien	1	m ie n
+022/099	min	1	m i n
+022/101	min	1	m i n
+022/103	mien	1	m ie n
+022/105	mien	1	m ie n
+022/107	mien	1	m ie n
+022/109	min	1	m i n
+022/111	min	1	m i n
+022/113	min	1	m i n
+022/115	mien	1	m ie n
+022/127	miä	1	m iä
+022/129	mie	1	m ie
+022/131	miehe	1	m ie h e
+022/133	miee	1	m iee
+022/135	mie	1	m ie
+022/137	mie	1	m ie
+022/139	mieeh	1	m ieeh
+022/141	miä	1	m iä
+022/143	miee	1	m iee
+022/145	meie	1	m eie
+022/147	meie	1	m eie
+022/149	meie	1	m eie
+022/151	muiä	1	m uiä
+022/153	mia	1	m ia
+022/155	mia	1	m ia
+022/157	mia	1	m ia
+022/159	miä	1	m iä
+022/165	mieha	1	m ie h a
+022/167	miehe	1	m ie h e
+022/169	min	1	m i n
+022/171	min	1	m i n
+022/173	min	1	m i n
+022/175	min	1	m i n
+022/177	mien	1	m ie n
+022/179	mien	1	m ie n
+022/181	min	1	m i n
+022/183	mei	1	m ei
+022/185	NA	NA	-
+022/187	mei	1	m ei
+022/189	mein	1	m ei n
+022/191	mein	1	m ei n
+022/193	mein	1	m ei n
+022/195	mein	1	m ei n
+022/197	mein	1	m ei n
+022/199	main	1	m ai n
+022/201	mien	1	m ie n
+022/203	min	1	m i n
+022/205	min	1	m i n
+022/209	miin	1	m ii n
+022/211	mien	1	m ie n
+022/215	miin	1	m ii n
+022/217	mihn	1	m ih n
+022/219	mien	1	m ie n
+023/055	min	1	m i n
+023/059	min	1	m i n
+023/061	min	1	m i n
+023/063	mien	1	m ie n
+023/065	mien	1	m ie n
+023/067	min	1	m i n
+023/069	mien	1	m ie n
+023/071	min	1	m i n
+023/073	min	1	m i n
+023/075	mien	1	m ie n
+023/077	min	1	m i n
+023/079	mien	1	m ie n
+023/081	mien	1	m ie n
+023/083	mien	1	m ie n
+023/085	min	1	m i n
+023/087	mien	1	m ie n
+023/089	min	1	m i n
+023/091	min	1	m i n
+023/093	mien	1	m ie n
+023/095	min	1	m i n
+023/097	mien	1	m ie n
+023/099	mien	1	m ie n
+023/101	min	1	m i n
+023/103	mien	1	m ie n
+023/105	min	1	m i n
+023/107	min	1	m i n
+023/109	mien	1	m ie n
+023/111	min	1	m i n
+023/113	mien	1	m ie n
+023/115	mien	1	m ie n
+023/117	mien	1	m ie n
+023/121	mi	1	m i
+023/123	mi	1	m i
+023/125	mie	1	m ie
+023/127	min	1	m i n
+023/129	mia	1	m ia
+023/131	miä	1	m iä
+023/133	mie	1	m ie
+023/135	mie	1	m ie
+023/137	miä	1	m iä
+023/139	mie	1	m ie
+023/141	mieä	1	m ieä
+023/143	mie	1	m ie
+023/145	meia	1	m eia
+023/147	meia	1	m eia
+023/149	mia	1	m ia
+023/151	mia	1	m ia
+023/153	miin	1	m ii n
+023/155	mi	1	m i
+023/165	mie	1	m ie
+023/167	mihe	1	m i h e
+023/169	mie	1	m ie
+023/175	mie	1	m ie
+023/177	mei	1	m ei
+023/179	mein	1	m ei n
+023/181	mei	1	m ei
+023/183	mei	1	m ei
+023/185	mei	1	m ei
+023/187	mein	1	m ei n
+023/189	mein	1	m ei n
+023/191	mein	1	m ei n
+023/193	mein	1	m ei n
+023/195	mein	1	m ei n
+023/197	mein	1	m ei n
+023/199	mehn	1	m eh n
+023/201	min	1	m i n
+023/203	mien	1	m ie n
+023/205	min	1	m i n
+023/207	mien	1	m ie n
+023/215	min	1	m i n
+023/217	mien	1	m ie n
+024/053	miin	1	m ii n
+024/057	mien	1	m ie n
+024/059	min	1	m i n
+024/061	mien	1	m ie n
+024/063	min	1	m i n
+024/065	min	1	m i n
+024/067	min	1	m i n
+024/069	min	1	m i n
+024/071	mien	1	m ie n
+024/073	mien	1	m ie n
+024/075	min	1	m i n
+024/077	min	1	m i n
+024/079	mien	1	m ie n
+024/081	mien	1	m ie n
+024/083	mien	1	m ie n
+024/085	min	1	m i n
+024/087	min	1	m i n
+024/089	mien	1	m ie n
+024/091	min	1	m i n
+024/093	min	1	m i n
+024/095	min	1	m i n
+024/097	min	1	m i n
+024/099	miin	1	m ii n
+024/101	mien	1	m ie n
+024/103	mien	1	m ie n
+024/105	mien	1	m ie n
+024/107	mien	1	m ie n
+024/109	mien	1	m ie n
+024/111	min	1	m i n
+024/113	mien	1	m ie n
+024/115	mien	1	m ie n
+024/117	min	1	m i n
+024/119	min	1	m i n
+024/121	min	1	m i n
+024/123	min	1	m i n
+024/125	miä	1	m iä
+024/127	mi	1	m i
+024/129	mia	1	m ia
+024/131	mieä	1	m ieä
+024/133	miä	1	m iä
+024/135	mia	1	m ia
+024/137	mie	1	m ie
+024/139	mie	1	m ie
+024/141	miah	1	m iah
+024/143	mie	1	m ie
+024/145	mie	1	m ie
+024/147	mie	1	m ie
+024/149	meie	1	m eie
+024/151	miä	1	m iä
+024/153	mie	1	m ie
+024/155	mie	1	m ie
+024/163	miä	1	m iä
+024/165	mia	1	m ia
+024/167	mie	1	m ie
+024/169	miä	1	m iä
+024/171	mien	1	m ie n
+024/175	mien	1	m ie n
+024/179	mein	1	m ei n
+024/181	mei	1	m ei
+024/183	mei	1	m ei
+024/185	mei	1	m ei
+024/187	mein	1	m ei n
+024/189	mein	1	m ei n
+024/191	mein	1	m ei n
+024/193	mein	1	m ei n
+024/195	mein	1	m ei n
+024/197	mein	1	m ei n
+024/199	mein	1	m ei n
+024/201	mihn	1	m ih n
+024/203	min	1	m i n
+024/217	min	1	m i n
+024/221	mien	1	m ie n
+025/043	mien	1	m ie n
+025/051	min	1	m i n
+025/053	min	1	m i n
+025/055	min	1	m i n
+025/057	min	1	m i n
+025/059	min	1	m i n
+025/061	mien	1	m ie n
+025/063	mien	1	m ie n
+025/065	mien	1	m ie n
+025/067	min	1	m i n
+025/069	min	1	m i n
+025/071	mien	1	m ie n
+025/073	min	1	m i n
+025/075	min	1	m i n
+025/077	mien	1	m ie n
+025/079	min	1	m i n
+025/081	min	1	m i n
+025/083	min	1	m i n
+025/085	min	1	m i n
+025/087	mien	1	m ie n
+025/089	min	1	m i n
+025/091	min	1	m i n
+025/093	mien	1	m ie n
+025/095	mien	1	m ie n
+025/099	min	1	m i n
+025/101	mihn	1	m ih n
+025/103	mien	1	m ie n
+025/105	min	1	m i n
+025/107	min	1	m i n
+025/109	min	1	m i n
+025/111	min	1	m i n
+025/113	mien	1	m ie n
+025/115	miin	1	m ii n
+025/123	mi	1	m i
+025/125	mie	1	m ie
+025/127	mieh	1	m ieh
+025/129	mi	1	m i
+025/131	mia	1	m ia
+025/133	mia	1	m ia
+025/135	miee	1	m iee
+025/137	mie	1	m ie
+025/139	mie	1	m ie
+025/141	mie	1	m ie
+025/143	miee	1	m iee
+025/145	mee	1	m ee
+025/147	mie	1	m ie
+025/149	mie	1	m ie
+025/151	mia	1	m ia
+025/153	mia	1	m ia
+025/155	mia	1	m ia
+025/157	mie	1	m ie
+025/159	mien	1	m ie n
+025/177	mie	1	m ie
+025/179	mei	1	m ei
+025/181	mein	1	m ei n
+025/183	mein	1	m ei n
+025/185	mei	1	m ei
+025/187	mei	1	m ei
+025/189	mein	1	m ei n
+025/191	mein	1	m ei n
+026/031	mien	1	m ie n
+026/033	mien	1	m ie n
+026/037	min	1	m i n
+026/041	mien	1	m ie n
+026/043	min	1	m i n
+026/045	mien	1	m ie n
+026/051	mien	1	m ie n
+026/053	mien	1	m ie n
+026/055	mien	1	m ie n
+026/057	min	1	m i n
+026/059	min	1	m i n
+026/061	min	1	m i n
+026/063	mien	1	m ie n
+026/065	min	1	m i n
+026/067	min	1	m i n
+026/069	mien	1	m ie n
+026/071	mien	1	m ie n
+026/073	min	1	m i n
+026/075	mien	1	m ie n
+026/077	mien	1	m ie n
+026/079	min	1	m i n
+026/081	mien	1	m ie n
+026/083	mien	1	m ie n
+026/085	mien	1	m ie n
+026/087	min	1	m i n
+026/089	min	1	m i n
+026/091	mihn	1	m ih n
+026/093	mien	1	m ie n
+026/095	min	1	m i n
+026/097	min	1	m i n
+026/099	mien	1	m ie n
+026/101	mien	1	m ie n
+026/103	mien	1	m ie n
+026/105	min	1	m i n
+026/107	mien	1	m ie n
+026/109	mien	1	m ie n
+026/111	mien	1	m ie n
+026/113	mien	1	m ie n
+026/115	min	1	m i n
+026/117	min	1	m i n
+026/119	min	1	m i n
+026/123	mhen	1	m h e n
+026/125	mie	1	m ie
+026/127	mie	1	m ie
+026/129	miä	1	m iä
+026/131	mia	1	m ia
+026/133	mi	1	m i
+026/135	mia	1	m ia
+026/137	mie	1	m ie
+026/139	mia	1	m ia
+026/141	mie	1	m ie
+026/143	mie	1	m ie
+026/145	mie	1	m ie
+026/147	mi	1	m i
+026/153	mi	1	m i
+026/155	mie	1	m ie
+026/157	mie	1	m ie
+026/159	mie	1	m ie
+026/161	mie	1	m ie
+026/165	mien	1	m ie n
+026/173	mien	1	m ie n
+026/175	min	1	m i n
+026/177	mi	1	m i
+026/179	mi	1	m i
+026/181	mei	1	m ei
+026/183	mei	1	m ei
+026/185	mai	1	m ai
+026/187	mein	1	m ei n
+026/189	mein	1	m ei n
+027/027	mien	1	m ie n
+027/035	miin	1	m ii n
+027/037	mien	1	m ie n
+027/039	mien	1	m ie n
+027/041	mien	1	m ie n
+027/043	mien	1	m ie n
+027/045	min	1	m i n
+027/047	miin	1	m ii n
+027/051	min	1	m i n
+027/053	min	1	m i n
+027/055	mien	1	m ie n
+027/057	min	1	m i n
+027/059	min	1	m i n
+027/061	mien	1	m ie n
+027/063	mien	1	m ie n
+027/065	min	1	m i n
+027/067	min	1	m i n
+027/069	min	1	m i n
+027/071	min	1	m i n
+027/073	min	1	m i n
+027/075	min	1	m i n
+027/077	min	1	m i n
+027/079	min	1	m i n
+027/081	mien	1	m ie n
+027/083	min	1	m i n
+027/085	mien	1	m ie n
+027/087	mien	1	m ie n
+027/089	mihn	1	m ih n
+027/091	mien	1	m ie n
+027/093	mien	1	m ie n
+027/095	mien	1	m ie n
+027/099	mien	1	m ie n
+027/101	mien	1	m ie n
+027/103	mien	1	m ie n
+027/105	mien	1	m ie n
+027/107	mien	1	m ie n
+027/109	min	1	m i n
+027/111	mien	1	m ie n
+027/113	min	1	m i n
+027/115	mien	1	m ie n
+027/117	mien	1	m ie n
+027/119	min	1	m i n
+027/123	min	1	m i n
+027/125	mi	1	m i
+027/127	mi	1	m i
+027/129	mie	1	m ie
+027/131	mie	1	m ie
+027/135	mia	1	m ia
+027/137	mie	1	m ie
+027/139	miä	1	m iä
+027/141	miha	1	m i h a
+027/143	mie	1	m ie
+027/145	miäe	1	m iäe
+027/147	mii	1	m ii
+027/149	miee	1	m iee
+027/151	miä	1	m iä
+027/153	miä	1	m iä
+027/155	miä	1	m iä
+027/157	miä	1	m iä
+027/159	mia	1	m ia
+027/161	mi	1	m i
+027/167	mie	1	m ie
+027/171	min	1	m i n
+027/173	mi	1	m i
+027/175	mi	1	m i
+027/177	mie	1	m ie
+027/179	min	1	m i n
+027/181	me	1	m e
+027/183	mein	1	m ei n
+027/185	mein	1	m ei n
+028/033	min	1	m i n
+028/035	miin	1	m ii n
+028/037	mien	1	m ie n
+028/039	min	1	m i n
+028/041	min	1	m i n
+028/043	miin	1	m ii n
+028/045	min	1	m i n
+028/047	min	1	m i n
+028/049	min	1	m i n
+028/051	mien	1	m ie n
+028/053	mien	1	m ie n
+028/055	min	1	m i n
+028/057	mien	1	m ie n
+028/059	mien	1	m ie n
+028/061	min	1	m i n
+028/063	mien	1	m ie n
+028/065	mihn	1	m ih n
+028/067	min	1	m i n
+028/069	NA	NA	-
+028/071	min	1	m i n
+028/073	mien	1	m ie n
+028/075	mien	1	m ie n
+028/077	mien	1	m ie n
+028/079	mien	1	m ie n
+028/081	min	1	m i n
+028/083	min	1	m i n
+028/085	min	1	m i n
+028/087	min	1	m i n
+028/089	mien	1	m ie n
+028/091	mien	1	m ie n
+028/093	min	1	m i n
+028/095	mien	1	m ie n
+028/097	min	1	m i n
+028/099	mien	1	m ie n
+028/103	min	1	m i n
+028/105	mien	1	m ie n
+028/107	mien	1	m ie n
+028/109	min	1	m i n
+028/111	mien	1	m ie n
+028/113	mien	1	m ie n
+028/115	miin	1	m ii n
+028/117	min	1	m i n
+028/119	mien	1	m ie n
+028/121	min	1	m i n
+028/123	min	1	m i n
+028/125	mie	1	m ie
+028/127	mien	1	m ie n
+028/129	miä	1	m iä
+028/131	mie	1	m ie
+028/133	mia	1	m ia
+028/135	mia	1	m ia
+028/137	mie	1	m ie
+028/139	mia	1	m ia
+028/141	mia	1	m ia
+028/143	miah	1	m iah
+028/145	mie	1	m ie
+028/147	mie	1	m ie
+028/151	mai	1	m ai
+028/153	mia	1	m ia
+028/155	mie	1	m ie
+028/157	mi	1	m i
+028/159	mi	1	m i
+028/161	mia	1	m ia
+028/165	miä	1	m iä
+028/169	min	1	m i n
+028/171	mien	1	m ie n
+028/173	mien	1	m ie n
+028/175	mie	1	m ie
+028/177	mije	1	m i j e
+028/179	mie	1	m ie
+028/181	mei	1	m ei
+028/183	mein	1	m ei n
+028/185	mein	1	m ei n
+029/033	mien	1	m ie n
+029/035	mien	1	m ie n
+029/037	mien	1	m ie n
+029/039	mien	1	m ie n
+029/043	mien	1	m ie n
+029/045	mien	1	m ie n
+029/047	min	1	m i n
+029/049	min	1	m i n
+029/051	min	1	m i n
+029/053	mien	1	m ie n
+029/055	mien	1	m ie n
+029/057	mien	1	m ie n
+029/059	min	1	m i n
+029/061	mien	1	m ie n
+029/065	min	1	m i n
+029/067	mien	1	m ie n
+029/069	mi	1	m i
+029/071	min	1	m i n
+029/073	mien	1	m ie n
+029/075	mien	1	m ie n
+029/077	mien	1	m ie n
+029/079	min	1	m i n
+029/081	mien	1	m ie n
+029/083	min	1	m i n
+029/085	min	1	m i n
+029/087	min	1	m i n
+029/089	min	1	m i n
+029/091	min	1	m i n
+029/093	mien	1	m ie n
+029/095	mien	1	m ie n
+029/097	mien	1	m ie n
+029/099	min	1	m i n
+029/101	mien	1	m ie n
+029/103	min	1	m i n
+029/105	mien	1	m ie n
+029/107	min	1	m i n
+029/109	min	1	m i n
+029/111	min	1	m i n
+029/113	mien	1	m ie n
+029/115	mien	1	m ie n
+029/117	min	1	m i n
+029/119	mihn	1	m ih n
+029/121	mien	1	m ie n
+029/123	mien	1	m ie n
+029/125	mi	1	m i
+029/127	mien	1	m ie n
+029/129	mie	1	m ie
+029/131	mia	1	m ia
+029/133	mia	1	m ia
+029/135	miia	1	m iia
+029/137	mia	1	m ia
+029/139	mia	1	m ia
+029/141	mia	1	m ia
+029/143	mia	1	m ia
+029/145	mia	1	m ia
+029/147	miee	1	m iee
+029/149	miä	1	m iä
+029/151	mie	1	m ie
+029/153	mie	1	m ie
+029/155	mie	1	m ie
+029/157	mie	1	m ie
+029/159	mia	1	m ia
+029/161	mie	1	m ie
+029/163	mijä	1	m i j ä
+029/165	mie	1	m ie
+029/167	mia	1	m ia
+029/169	mia	1	m ia
+029/171	miä	1	m iä
+029/173	min	1	m i n
+029/175	miä	1	m iä
+029/177	mia	1	m ia
+029/181	min	1	m i n
+030/033	mien	1	m ie n
+030/035	mien	1	m ie n
+030/037	mien	1	m ie n
+030/039	mien	1	m ie n
+030/041	mien	1	m ie n
+030/043	min	1	m i n
+030/045	mien	1	m ie n
+030/047	mien	1	m ie n
+030/049	min	1	m i n
+030/051	min	1	m i n
+030/053	mien	1	m ie n
+030/055	min	1	m i n
+030/057	min	1	m i n
+030/059	min	1	m i n
+030/061	mien	1	m ie n
+030/065	min	1	m i n
+030/067	mien	1	m ie n
+030/071	mien	1	m ie n
+030/073	min	1	m i n
+030/075	mien	1	m ie n
+030/077	mien	1	m ie n
+030/079	mien	1	m ie n
+030/081	mien	1	m ie n
+030/083	min	1	m i n
+030/085	mien	1	m ie n
+030/087	min	1	m i n
+030/089	mien	1	m ie n
+030/091	mien	1	m ie n
+030/093	min	1	m i n
+030/095	mien	1	m ie n
+030/097	min	1	m i n
+030/099	mien	1	m ie n
+030/101	min	1	m i n
+030/103	min	1	m i n
+030/105	mien	1	m ie n
+030/107	min	1	m i n
+030/109	mien	1	m ie n
+030/111	mien	1	m ie n
+030/113	mien	1	m ie n
+030/115	mih	1	m ih
+030/117	mien	1	m ie n
+030/119	mien	1	m ie n
+030/121	min	1	m i n
+030/123	mie	1	m ie
+030/125	min	1	m i n
+030/127	min	1	m i n
+030/129	mi	1	m i
+030/131	mia	1	m ia
+030/133	mia	1	m ia
+030/135	mia	1	m ia
+030/137	mia	1	m ia
+030/139	mie	1	m ie
+030/141	mia	1	m ia
+030/143	mia	1	m ia
+030/145	mia	1	m ia
+030/147	miä	1	m iä
+030/149	mihe	1	m i h e
+030/151	miä	1	m iä
+030/153	mie	1	m ie
+030/155	miä	1	m iä
+030/157	mie	1	m ie
+030/159	miä	1	m iä
+030/161	mia	1	m ia
+030/163	mije	1	m i j e
+030/165	mie	1	m ie
+030/167	mieh	1	m ieh
+030/169	mien	1	m ie n
+030/171	mien	1	m ie n
+030/173	miä	1	m iä
+030/175	mie	1	m ie
+030/177	mie	1	m ie
+030/179	mi	1	m i
+030/181	mihe	1	m i h e
+030/183	miä	1	m iä
+031/035	mien	1	m ie n
+031/037	mien	1	m ie n
+031/039	mien	1	m ie n
+031/041	mien	1	m ie n
+031/043	min	1	m i n
+031/045	min	1	m i n
+031/047	mien	1	m ie n
+031/049	mien	1	m ie n
+031/051	mien	1	m ie n
+031/053	min	1	m i n
+031/055	min	1	m i n
+031/057	min	1	m i n
+031/059	min	1	m i n
+031/061	min	1	m i n
+031/063	mien	1	m ie n
+031/065	mien	1	m ie n
+031/067	mien	1	m ie n
+031/069	min	1	m i n
+031/071	min	1	m i n
+031/073	miin	1	m ii n
+031/075	mien	1	m ie n
+031/077	min	1	m i n
+031/079	min	1	m i n
+031/081	mien	1	m ie n
+031/083	miin	1	m ii n
+031/085	min	1	m i n
+031/087	mien	1	m ie n
+031/089	mien	1	m ie n
+031/091	mien	1	m ie n
+031/093	mien	1	m ie n
+031/095	mien	1	m ie n
+031/097	mien	1	m ie n
+031/099	mien	1	m ie n
+031/101	mien	1	m ie n
+031/103	min	1	m i n
+031/105	min	1	m i n
+031/107	min	1	m i n
+031/109	min	1	m i n
+031/111	mien	1	m ie n
+031/113	min	1	m i n
+031/115	mien	1	m ie n
+031/117	mie	1	m ie
+031/119	mehn	1	m eh n
+031/121	mi	1	m i
+031/123	mi	1	m i
+031/125	min	1	m i n
+031/127	mi	1	m i
+031/129	miha	1	m i h a
+031/131	mia	1	m ia
+031/133	mia	1	m ia
+031/135	mia	1	m ia
+031/137	mia	1	m ia
+031/139	mia	1	m ia
+031/141	miha	1	m i h a
+031/143	mia	1	m ia
+031/145	mia	1	m ia
+031/147	miä	1	m iä
+031/149	miä	1	m iä
+031/151	miea	1	m iea
+031/153	mia	1	m ia
+031/155	mije	1	m i j e
+031/157	mie	1	m ie
+031/159	mihe	1	m i h e
+031/161	mihe	1	m i h e
+031/163	mie	1	m ie
+031/167	mie	1	m ie
+031/169	mei	1	m ei
+031/171	mai	1	m ai
+031/173	mai	1	m ai
+031/175	miha	1	m i h a
+031/177	miiä	1	m iiä
+031/179	mihe	1	m i h e
+032/035	mien	1	m ie n
+032/037	mien	1	m ie n
+032/039	mien	1	m ie n
+032/041	mien	1	m ie n
+032/043	mien	1	m ie n
+032/045	min	1	m i n
+032/047	mien	1	m ie n
+032/049	min	1	m i n
+032/051	mien	1	m ie n
+032/053	mien	1	m ie n
+032/055	min	1	m i n
+032/057	mien	1	m ie n
+032/059	mien	1	m ie n
+032/061	min	1	m i n
+032/065	mien	1	m ie n
+032/069	mien	1	m ie n
+032/071	mien	1	m ie n
+032/073	min	1	m i n
+032/075	mien	1	m ie n
+032/077	mien	1	m ie n
+032/079	mien	1	m ie n
+032/081	mien	1	m ie n
+032/083	mien	1	m ie n
+032/085	min	1	m i n
+032/087	min	1	m i n
+032/089	min	1	m i n
+032/091	min	1	m i n
+032/093	min	1	m i n
+032/095	min	1	m i n
+032/097	mien	1	m ie n
+032/099	min	1	m i n
+032/101	min	1	m i n
+032/103	mien	1	m ie n
+032/105	min	1	m i n
+032/107	mien	1	m ie n
+032/111	mien	1	m ie n
+032/113	mien	1	m ie n
+032/115	mi	1	m i
+032/117	mien	1	m ie n
+032/119	mi	1	m i
+032/121	min	1	m i n
+032/123	mien	1	m ie n
+032/125	mi	1	m i
+032/127	miä	1	m iä
+032/129	mi	1	m i
+032/131	mia	1	m ia
+032/133	mie	1	m ie
+032/135	mia	1	m ia
+032/139	mia	1	m ia
+032/141	mia	1	m ia
+032/143	mia	1	m ia
+032/145	mie	1	m ie
+032/147	miä	1	m iä
+032/149	mia	1	m ia
+032/151	mie	1	m ie
+032/153	miä	1	m iä
+032/157	mia	1	m ia
+032/159	mihä	1	m i h ä
+032/161	mie	1	m ie
+032/163	miä	1	m iä
+032/167	mie	1	m ie
+032/169	mei	1	m ei
+032/171	mei	1	m ei
+032/173	mei	1	m ei
+032/175	mihe	1	m i h e
+032/177	mi	1	m i
+032/179	mia	1	m ia
+032/181	mye	1	m ye
+032/183	mihe	1	m i h e
+033/035	mien	1	m ie n
+033/037	mien	1	m ie n
+033/039	mien	1	m ie n
+033/041	mien	1	m ie n
+033/043	mien	1	m ie n
+033/045	min	1	m i n
+033/047	min	1	m i n
+033/049	min	1	m i n
+033/051	mien	1	m ie n
+033/053	min	1	m i n
+033/055	mien	1	m ie n
+033/057	mien	1	m ie n
+033/059	mien	1	m ie n
+033/061	mien	1	m ie n
+033/063	min	1	m i n
+033/065	mien	1	m ie n
+033/067	min	1	m i n
+033/069	mihn	1	m ih n
+033/071	mien	1	m ie n
+033/073	mien	1	m ie n
+033/075	mien	1	m ie n
+033/077	mien	1	m ie n
+033/079	mien	1	m ie n
+033/081	mien	1	m ie n
+033/083	min	1	m i n
+033/085	mien	1	m ie n
+033/087	min	1	m i n
+033/089	min	1	m i n
+033/091	mien	1	m ie n
+033/093	mien	1	m ie n
+033/095	min	1	m i n
+033/097	mien	1	m ie n
+033/099	min	1	m i n
+033/101	min	1	m i n
+033/103	min	1	m i n
+033/105	mihn	1	m ih n
+033/107	min	1	m i n
+033/109	min	1	m i n
+033/111	min	1	m i n
+033/113	mien	1	m ie n
+033/115	mi	1	m i
+033/117	mien	1	m ie n
+033/119	mie	1	m ie
+033/121	min	1	m i n
+033/123	mi	1	m i
+033/125	mien	1	m ie n
+033/127	mie	1	m ie
+033/129	mien	1	m ie n
+033/131	mie	1	m ie
+033/133	mie	1	m ie
+033/135	mian	1	m ia n
+033/137	mi	1	m i
+033/139	mi	1	m i
+033/141	mia	1	m ia
+033/143	mia	1	m ia
+033/145	mieä	1	m ieä
+033/147	mia	1	m ia
+033/149	mi	1	m i
+033/151	mie	1	m ie
+033/153	mie	1	m ie
+033/155	mi	1	m i
+033/159	mie	1	m ie
+033/161	mihe	1	m i h e
+033/163	mie	1	m ie
+033/165	mie	1	m ie
+033/167	mie	1	m ie
+033/169	mie	1	m ie
+033/173	miee	1	m iee
+033/175	mi	1	m i
+033/177	mie	1	m ie
+034/035	mien	1	m ie n
+034/039	mien	1	m ie n
+034/041	mi	1	m i
+034/043	mien	1	m ie n
+034/045	min	1	m i n
+034/047	min	1	m i n
+034/049	mien	1	m ie n
+034/051	mien	1	m ie n
+034/053	min	1	m i n
+034/055	min	1	m i n
+034/057	mien	1	m ie n
+034/059	min	1	m i n
+034/061	mien	1	m ie n
+034/063	mien	1	m ie n
+034/065	min	1	m i n
+034/067	mien	1	m ie n
+034/069	mien	1	m ie n
+034/071	mien	1	m ie n
+034/073	mien	1	m ie n
+034/075	mien	1	m ie n
+034/077	mien	1	m ie n
+034/079	min	1	m i n
+034/081	mien	1	m ie n
+034/083	min	1	m i n
+034/085	min	1	m i n
+034/087	mien	1	m ie n
+034/089	min	1	m i n
+034/091	mien	1	m ie n
+034/093	mien	1	m ie n
+034/095	mien	1	m ie n
+034/097	mien	1	m ie n
+034/099	mien	1	m ie n
+034/101	mien	1	m ie n
+034/103	min	1	m i n
+034/105	min	1	m i n
+034/107	mien	1	m ie n
+034/109	mien	1	m ie n
+034/111	mien	1	m ie n
+034/113	miin	1	m ii n
+034/115	min	1	m i n
+034/117	min	1	m i n
+034/119	mi	1	m i
+034/121	min	1	m i n
+034/125	myn	1	m y n
+034/127	mien	1	m ie n
+034/129	mie	1	m ie
+034/131	min	1	m i n
+034/133	mi	1	m i
+034/135	mia	1	m ia
+034/137	mi	1	m i
+034/139	miha	1	m i h a
+034/141	mia	1	m ia
+034/143	mia	1	m ia
+034/145	mia	1	m ia
+034/147	mya	1	m ya
+034/149	mio	1	m io
+034/151	mihe	1	m i h e
+034/155	mie	1	m ie
+034/157	miä	1	m iä
+034/161	miä	1	m iä
+034/163	mi	1	m i
+034/165	mi	1	m i
+034/167	mie	1	m ie
+034/169	mihe	1	m i h e
+034/173	miä	1	m iä
+035/035	miin	1	m ii n
+035/037	mien	1	m ie n
+035/039	min	1	m i n
+035/041	mien	1	m ie n
+035/043	mien	1	m ie n
+035/045	mien	1	m ie n
+035/047	min	1	m i n
+035/049	min	1	m i n
+035/051	mien	1	m ie n
+035/053	mien	1	m ie n
+035/055	mien	1	m ie n
+035/057	min	1	m i n
+035/059	min	1	m i n
+035/061	min	1	m i n
+035/063	mien	1	m ie n
+035/065	min	1	m i n
+035/067	min	1	m i n
+035/069	mien	1	m ie n
+035/071	mien	1	m ie n
+035/073	mien	1	m ie n
+035/075	mien	1	m ie n
+035/077	mien	1	m ie n
+035/079	mien	1	m ie n
+035/081	min	1	m i n
+035/083	mien	1	m ie n
+035/085	mien	1	m ie n
+035/087	min	1	m i n
+035/089	min	1	m i n
+035/091	mien	1	m ie n
+035/093	mien	1	m ie n
+035/095	mien	1	m ie n
+035/097	mien	1	m ie n
+035/099	mien	1	m ie n
+035/101	mien	1	m ie n
+035/103	mien	1	m ie n
+035/105	mien	1	m ie n
+035/107	mien	1	m ie n
+035/109	mien	1	m ie n
+035/111	min	1	m i n
+035/113	mien	1	m ie n
+035/115	min	1	m i n
+035/117	min	1	m i n
+035/121	min	1	m i n
+035/123	min	1	m i n
+035/125	mi	1	m i
+035/127	mien	1	m ie n
+035/129	min	1	m i n
+035/133	mihn	1	m ih n
+035/135	mi	1	m i
+035/137	mia	1	m ia
+035/139	mia	1	m ia
+035/141	mio	1	m io
+035/143	mio	1	m io
+035/145	mio	1	m io
+035/147	mio	1	m io
+035/149	mio	1	m io
+035/151	mie	1	m ie
+035/153	mije	1	m i j e
+035/155	mihe	1	m i h e
+035/157	mie	1	m ie
+035/165	mia	1	m ia
+035/167	mie	1	m ie
+035/169	mie	1	m ie
+035/171	miä	1	m iä
+035/173	mihe	1	m i h e
+036/033	min	1	m i n
+036/035	mien	1	m ie n
+036/039	mien	1	m ie n
+036/041	min	1	m i n
+036/043	min	1	m i n
+036/045	mien	1	m ie n
+036/047	mien	1	m ie n
+036/049	mien	1	m ie n
+036/051	mien	1	m ie n
+036/053	mien	1	m ie n
+036/055	min	1	m i n
+036/057	mien	1	m ie n
+036/059	min	1	m i n
+036/061	mien	1	m ie n
+036/063	mien	1	m ie n
+036/065	mien	1	m ie n
+036/067	min	1	m i n
+036/069	mien	1	m ie n
+036/071	min	1	m i n
+036/073	mien	1	m ie n
+036/075	mien	1	m ie n
+036/077	mien	1	m ie n
+036/079	min	1	m i n
+036/081	miin	1	m ii n
+036/083	min	1	m i n
+036/085	mien	1	m ie n
+036/087	min	1	m i n
+036/089	mien	1	m ie n
+036/091	mien	1	m ie n
+036/095	mien	1	m ie n
+036/097	mien	1	m ie n
+036/099	mien	1	m ie n
+036/101	min	1	m i n
+036/103	min	1	m i n
+036/105	mien	1	m ie n
+036/107	min	1	m i n
+036/109	mien	1	m ie n
+036/111	mihn	1	m ih n
+036/113	miee	1	m iee
+036/115	min	1	m i n
+036/117	min	1	m i n
+036/119	mien	1	m ie n
+036/121	mien	1	m ie n
+036/123	mien	1	m ie n
+036/125	min	1	m i n
+036/127	mien	1	m ie n
+036/129	mien	1	m ie n
+036/133	min	1	m i n
+036/135	min	1	m i n
+036/137	mien	1	m ie n
+036/139	min	1	m i n
+036/141	mia	1	m ia
+036/143	mio	1	m io
+036/147	mio	1	m io
+036/149	mio	1	m io
+036/151	mieo	1	m ieo
+036/153	mieä	1	m ieä
+036/155	miä	1	m iä
+036/161	mi	1	m i
+036/163	mi	1	m i
+036/165	mih	1	m ih
+036/167	mi	1	m i
+036/169	mie	1	m ie
+036/171	min	1	m i n
+037/033	mien	1	m ie n
+037/035	mien	1	m ie n
+037/037	min	1	m i n
+037/039	mien	1	m ie n
+037/041	miin	1	m ii n
+037/043	mien	1	m ie n
+037/045	min	1	m i n
+037/047	mihn	1	m ih n
+037/049	mi	1	m i
+037/051	mien	1	m ie n
+037/053	mien	1	m ie n
+037/055	min	1	m i n
+037/057	min	1	m i n
+037/059	mien	1	m ie n
+037/061	mien	1	m ie n
+037/063	min	1	m i n
+037/065	min	1	m i n
+037/067	miin	1	m ii n
+037/069	mien	1	m ie n
+037/071	mien	1	m ie n
+037/073	mien	1	m ie n
+037/075	min	1	m i n
+037/077	mien	1	m ie n
+037/079	min	1	m i n
+037/081	min	1	m i n
+037/083	mien	1	m ie n
+037/085	mien	1	m ie n
+037/087	mien	1	m ie n
+037/089	min	1	m i n
+037/091	min	1	m i n
+037/093	min	1	m i n
+037/095	min	1	m i n
+037/097	min	1	m i n
+037/099	min	1	m i n
+037/101	mien	1	m ie n
+037/105	min	1	m i n
+037/107	min	1	m i n
+037/109	min	1	m i n
+037/111	mien	1	m ie n
+037/113	min	1	m i n
+037/115	mihn	1	m ih n
+037/117	min	1	m i n
+037/119	mihn	1	m ih n
+037/121	mien	1	m ie n
+037/123	min	1	m i n
+037/125	miä	1	m iä
+037/127	mien	1	m ie n
+037/129	mien	1	m ie n
+037/131	mien	1	m ie n
+037/133	mein	1	m ei n
+037/135	min	1	m i n
+037/137	min	1	m i n
+037/139	mi	1	m i
+037/141	mi	1	m i
+037/145	mio	1	m io
+037/147	mio	1	m io
+037/149	mio	1	m io
+037/151	mihe	1	m i h e
+037/153	mio	1	m io
+037/155	mijo	1	m i j o
+037/157	mije	1	m i j e
+037/159	NA	NA	-
+037/163	min	1	m i n
+037/171	mi	1	m i
+038/033	min	1	m i n
+038/035	mien	1	m ie n
+038/037	min	1	m i n
+038/039	mien	1	m ie n
+038/041	mien	1	m ie n
+038/043	min	1	m i n
+038/045	mien	1	m ie n
+038/047	min	1	m i n
+038/049	min	1	m i n
+038/051	min	1	m i n
+038/053	mien	1	m ie n
+038/055	min	1	m i n
+038/057	min	1	m i n
+038/059	min	1	m i n
+038/061	mien	1	m ie n
+038/063	mien	1	m ie n
+038/065	mien	1	m ie n
+038/067	mien	1	m ie n
+038/069	mien	1	m ie n
+038/071	mien	1	m ie n
+038/073	miee	1	m iee
+038/075	mien	1	m ie n
+038/077	min	1	m i n
+038/079	min	1	m i n
+038/081	min	1	m i n
+038/083	min	1	m i n
+038/085	min	1	m i n
+038/087	mien	1	m ie n
+038/089	mien	1	m ie n
+038/091	min	1	m i n
+038/093	min	1	m i n
+038/095	min	1	m i n
+038/097	mien	1	m ie n
+038/099	mien	1	m ie n
+038/101	mien	1	m ie n
+038/103	mien	1	m ie n
+038/105	mien	1	m ie n
+038/107	mien	1	m ie n
+038/109	min	1	m i n
+038/111	min	1	m i n
+038/113	mien	1	m ie n
+038/115	mien	1	m ie n
+038/117	min	1	m i n
+038/119	mien	1	m ie n
+038/121	min	1	m i n
+038/123	mien	1	m ie n
+038/125	mien	1	m ie n
+038/127	min	1	m i n
+038/129	min	1	m i n
+038/131	mei	1	m ei
+038/133	mein	1	m ei n
+038/135	mien	1	m ie n
+038/145	mio	1	m io
+038/147	mio	1	m io
+038/149	mieo	1	m ieo
+038/151	mio	1	m io
+038/153	mi	1	m i
+038/155	mio	1	m io
+038/159	mie	1	m ie
+038/161	mi	1	m i
+038/163	mihä	1	m i h ä
+039/029	mien	1	m ie n
+039/031	mien	1	m ie n
+039/033	miin	1	m ii n
+039/035	min	1	m i n
+039/037	min	1	m i n
+039/039	mien	1	m ie n
+039/041	mien	1	m ie n
+039/043	min	1	m i n
+039/045	mien	1	m ie n
+039/047	min	1	m i n
+039/049	mien	1	m ie n
+039/051	min	1	m i n
+039/053	mien	1	m ie n
+039/055	min	1	m i n
+039/057	mien	1	m ie n
+039/059	mien	1	m ie n
+039/061	mien	1	m ie n
+039/063	mien	1	m ie n
+039/065	mien	1	m ie n
+039/067	mien	1	m ie n
+039/069	mien	1	m ie n
+039/071	mien	1	m ie n
+039/073	min	1	m i n
+039/075	min	1	m i n
+039/077	mien	1	m ie n
+039/079	miin	1	m ii n
+039/081	mien	1	m ie n
+039/083	mei	1	m ei
+039/085	min	1	m i n
+039/087	mien	1	m ie n
+039/089	mien	1	m ie n
+039/091	mien	1	m ie n
+039/093	min	1	m i n
+039/095	min	1	m i n
+039/097	mien	1	m ie n
+039/099	miin	1	m ii n
+039/101	mien	1	m ie n
+039/103	min	1	m i n
+039/105	mien	1	m ie n
+039/107	min	1	m i n
+039/109	mien	1	m ie n
+039/111	mien	1	m ie n
+039/113	mien	1	m ie n
+039/115	min	1	m i n
+039/117	mien	1	m ie n
+039/119	min	1	m i n
+039/121	mien	1	m ie n
+039/123	mien	1	m ie n
+039/125	mien	1	m ie n
+039/127	mien	1	m ie n
+039/129	min	1	m i n
+039/131	mein	1	m ei n
+039/133	mein	1	m ei n
+039/135	main	1	m ai n
+039/137	mei	1	m ei
+039/139	mein	1	m ei n
+039/149	mio	1	m io
+039/151	mio	1	m io
+039/153	mio	1	m io
+039/155	mio	1	m io
+040/029	mien	1	m ie n
+040/031	mien	1	m ie n
+040/033	min	1	m i n
+040/035	min	1	m i n
+040/037	mien	1	m ie n
+040/039	mien	1	m ie n
+040/041	myn	1	m y n
+040/043	min	1	m i n
+040/045	mien	1	m ie n
+040/047	mien	1	m ie n
+040/049	min	1	m i n
+040/051	mien	1	m ie n
+040/053	min	1	m i n
+040/055	mien	1	m ie n
+040/057	mien	1	m ie n
+040/059	mien	1	m ie n
+040/061	mien	1	m ie n
+040/063	mien	1	m ie n
+040/065	min	1	m i n
+040/067	mien	1	m ie n
+040/069	min	1	m i n
+040/071	mihn	1	m ih n
+040/073	mien	1	m ie n
+040/075	min	1	m i n
+040/077	min	1	m i n
+040/079	min	1	m i n
+040/081	mien	1	m ie n
+040/083	min	1	m i n
+040/085	min	1	m i n
+040/087	mien	1	m ie n
+040/089	min	1	m i n
+040/091	min	1	m i n
+040/093	mien	1	m ie n
+040/095	min	1	m i n
+040/097	mien	1	m ie n
+040/099	mien	1	m ie n
+040/101	min	1	m i n
+040/103	mien	1	m ie n
+040/105	mien	1	m ie n
+040/107	men	1	m e n
+040/109	mein	1	m ei n
+040/111	mien	1	m ie n
+040/113	mien	1	m ie n
+040/115	mien	1	m ie n
+040/119	min	1	m i n
+040/121	mien	1	m ie n
+040/123	mien	1	m ie n
+040/125	mein	1	m ei n
+040/127	mein	1	m ei n
+040/129	mein	1	m ei n
+040/131	mein	1	m ei n
+040/133	mein	1	m ei n
+040/135	main	1	m ai n
+040/137	mein	1	m ei n
+040/141	meh	1	m eh
+040/143	mein	1	m ei n
+040/149	mein	1	m ei n
+040/153	mie	1	m ie
+040/155	miä	1	m iä
+041/031	mien	1	m ie n
+041/033	min	1	m i n
+041/035	min	1	m i n
+041/037	mien	1	m ie n
+041/039	mien	1	m ie n
+041/041	min	1	m i n
+041/043	mien	1	m ie n
+041/045	min	1	m i n
+041/047	mien	1	m ie n
+041/049	mien	1	m ie n
+041/051	mien	1	m ie n
+041/053	min	1	m i n
+041/055	min	1	m i n
+041/057	min	1	m i n
+041/059	min	1	m i n
+041/061	mien	1	m ie n
+041/063	mien	1	m ie n
+041/065	mien	1	m ie n
+041/067	min	1	m i n
+041/069	mien	1	m ie n
+041/071	mien	1	m ie n
+041/073	min	1	m i n
+041/075	min	1	m i n
+041/077	mien	1	m ie n
+041/079	mien	1	m ie n
+041/081	min	1	m i n
+041/083	min	1	m i n
+041/085	min	1	m i n
+041/087	min	1	m i n
+041/089	mien	1	m ie n
+041/091	min	1	m i n
+041/093	min	1	m i n
+041/095	min	1	m i n
+041/097	mien	1	m ie n
+041/099	min	1	m i n
+041/101	mien	1	m ie n
+041/103	mien	1	m ie n
+041/105	min	1	m i n
+041/107	min	1	m i n
+041/109	mien	1	m ie n
+041/111	mein	1	m ei n
+041/113	mien	1	m ie n
+041/115	mien	1	m ie n
+041/117	mien	1	m ie n
+041/119	min	1	m i n
+041/121	mien	1	m ie n
+041/123	mien	1	m ie n
+041/125	mein	1	m ei n
+041/127	mein	1	m ei n
+041/129	mein	1	m ei n
+041/131	mein	1	m ei n
+041/133	mein	1	m ei n
+041/135	mein	1	m ei n
+041/139	mein	1	m ei n
+041/141	NA	NA	-
+041/145	mein	1	m ei n
+041/147	mai	1	m ai
+041/153	miä	1	m iä
+041/155	miä	1	m iä
+041/157	mien	1	m ie n
+041/159	miä	1	m iä
+041/161	mio	1	m io
+042/033	min	1	m i n
+042/035	min	1	m i n
+042/037	mien	1	m ie n
+042/039	min	1	m i n
+042/041	mihn	1	m ih n
+042/043	min	1	m i n
+042/045	mien	1	m ie n
+042/047	min	1	m i n
+042/051	mihn	1	m ih n
+042/053	mien	1	m ie n
+042/055	min	1	m i n
+042/057	mien	1	m ie n
+042/059	min	1	m i n
+042/061	mehin	1	m e h i n
+042/063	min	1	m i n
+042/065	min	1	m i n
+042/067	mien	1	m ie n
+042/069	mien	1	m ie n
+042/071	min	1	m i n
+042/073	mien	1	m ie n
+042/075	mien	1	m ie n
+042/077	mien	1	m ie n
+042/079	mien	1	m ie n
+042/081	mien	1	m ie n
+042/083	mien	1	m ie n
+042/085	min	1	m i n
+042/087	mien	1	m ie n
+042/089	mien	1	m ie n
+042/091	min	1	m i n
+042/093	min	1	m i n
+042/095	mien	1	m ie n
+042/097	min	1	m i n
+042/099	mien	1	m ie n
+042/101	mi	1	m i
+042/103	min	1	m i n
+042/105	mein	1	m ei n
+042/107	mien	1	m ie n
+042/109	min	1	m i n
+042/111	min	1	m i n
+042/113	mien	1	m ie n
+042/115	mien	1	m ie n
+042/117	mien	1	m ie n
+042/119	min	1	m i n
+042/121	mien	1	m ie n
+042/123	mein	1	m ei n
+042/125	mein	1	m ei n
+042/127	mein	1	m ei n
+042/129	mein	1	m ei n
+042/131	mein	1	m ei n
+042/133	mein	1	m ei n
+042/135	mein	1	m ei n
+042/137	mai	1	m ai
+042/139	mein	1	m ei n
+042/141	mai	1	m ai
+042/143	mai	1	m ai
+042/145	mei	1	m ei
+042/147	mei	1	m ei
+042/149	mei	1	m ei
+042/151	ma	1	m a
+042/157	mio	1	m io
+042/159	mieä	1	m ieä
+042/161	min	1	m i n
+043/033	miyn	1	m iy n
+043/035	mien	1	m ie n
+043/037	mien	1	m ie n
+043/039	min	1	m i n
+043/041	mien	1	m ie n
+043/043	mien	1	m ie n
+043/045	mihn	1	m ih n
+043/047	min	1	m i n
+043/049	miin	1	m ii n
+043/051	min	1	m i n
+043/053	min	1	m i n
+043/055	min	1	m i n
+043/057	mihn	1	m ih n
+043/059	min	1	m i n
+043/061	min	1	m i n
+043/063	min	1	m i n
+043/065	min	1	m i n
+043/067	min	1	m i n
+043/069	mäin	1	m äi n
+043/071	mäin	1	m äi n
+043/073	min	1	m i n
+043/075	mien	1	m ie n
+043/077	mien	1	m ie n
+043/079	mien	1	m ie n
+043/081	mien	1	m ie n
+043/083	mjen	1	m j e n
+043/085	mien	1	m ie n
+043/087	min	1	m i n
+043/089	mien	1	m ie n
+043/091	min	1	m i n
+043/093	min	1	m i n
+043/095	min	1	m i n
+043/097	mien	1	m ie n
+043/099	min	1	m i n
+043/101	min	1	m i n
+043/103	mien	1	m ie n
+043/105	mien	1	m ie n
+043/107	min	1	m i n
+043/109	min	1	m i n
+043/111	min	1	m i n
+043/113	min	1	m i n
+043/115	min	1	m i n
+043/117	mien	1	m ie n
+043/119	mein	1	m ei n
+043/121	mien	1	m ie n
+043/123	mein	1	m ei n
+043/125	mein	1	m ei n
+043/127	mei	1	m ei
+043/129	mein	1	m ei n
+043/131	mein	1	m ei n
+043/133	mein	1	m ei n
+043/135	mein	1	m ei n
+043/137	mai	1	m ai
+043/141	mai	1	m ai
+043/143	mei	1	m ei
+043/145	mai	1	m ai
+043/151	mein	1	m ei n
+043/153	mei	1	m ei
+043/159	mie	1	m ie
+043/161	mi	1	m i
+044/033	mien	1	m ie n
+044/035	mien	1	m ie n
+044/039	mien	1	m ie n
+044/041	miin	1	m ii n
+044/043	min	1	m i n
+044/045	mien	1	m ie n
+044/047	mien	1	m ie n
+044/049	mien	1	m ie n
+044/051	muin	1	m ui n
+044/053	muin	1	m ui n
+044/055	muin	1	m ui n
+044/057	mien	1	m ie n
+044/059	myn	1	m y n
+044/061	mien	1	m ie n
+044/063	mäin	1	m äi n
+044/065	muin	1	m ui n
+044/067	möin	1	m öi n
+044/069	muin	1	m ui n
+044/071	min	1	m i n
+044/073	mäin	1	m äi n
+044/075	mien	1	m ie n
+044/077	mien	1	m ie n
+044/079	min	1	m i n
+044/081	min	1	m i n
+044/083	mien	1	m ie n
+044/085	min	1	m i n
+044/087	mien	1	m ie n
+044/089	min	1	m i n
+044/091	min	1	m i n
+044/093	min	1	m i n
+044/095	mien	1	m ie n
+044/097	min	1	m i n
+044/099	mien	1	m ie n
+044/101	mihn	1	m ih n
+044/103	min	1	m i n
+044/105	min	1	m i n
+044/107	mien	1	m ie n
+044/109	min	1	m i n
+044/111	mien	1	m ie n
+044/113	mien	1	m ie n
+044/115	min	1	m i n
+044/117	meun	1	m eu n
+044/119	min	1	m i n
+044/121	mein	1	m ei n
+044/123	mei	1	m ei
+044/125	mein	1	m ei n
+044/127	mein	1	m ei n
+044/129	mein	1	m ei n
+044/131	mei	1	m ei
+044/133	mai	1	m ai
+044/135	main	1	m ai n
+044/137	mai	1	m ai
+044/141	mei	1	m ei
+044/143	mai	1	m ai
+044/145	mai	1	m ai
+044/149	meei	1	m eei
+044/151	mäi	1	m äi
+044/153	mei	1	m ei
+045/033	mien	1	m ie n
+045/035	mien	1	m ie n
+045/037	min	1	m i n
+045/039	mien	1	m ie n
+045/041	min	1	m i n
+045/043	min	1	m i n
+045/045	mien	1	m ie n
+045/047	min	1	m i n
+045/049	mien	1	m ie n
+045/051	muin	1	m ui n
+045/053	muin	1	m ui n
+045/055	müin	1	m üi n
+045/057	mäin	1	m äi n
+045/059	moin	1	m oi n
+045/061	mein	1	m ei n
+045/063	mäin	1	m äi n
+045/065	meun	1	m eu n
+045/067	möin	1	m öi n
+045/069	möin	1	m öi n
+045/071	mäin	1	m äi n
+045/073	main	1	m ai n
+045/075	mäin	1	m äi n
+045/077	min	1	m i n
+045/079	min	1	m i n
+045/081	min	1	m i n
+045/083	mien	1	m ie n
+045/085	min	1	m i n
+045/087	mien	1	m ie n
+045/089	mien	1	m ie n
+045/091	min	1	m i n
+045/093	mien	1	m ie n
+045/095	min	1	m i n
+045/097	mien	1	m ie n
+045/099	mien	1	m ie n
+045/101	mien	1	m ie n
+045/103	mien	1	m ie n
+045/105	mien	1	m ie n
+045/107	min	1	m i n
+045/109	min	1	m i n
+045/111	mien	1	m ie n
+045/113	mein	1	m ei n
+045/115	mein	1	m ei n
+045/117	mein	1	m ei n
+045/119	mein	1	m ei n
+045/121	mein	1	m ei n
+045/123	mein	1	m ei n
+045/125	mein	1	m ei n
+045/127	mein	1	m ei n
+045/129	mai	1	m ai
+045/131	mein	1	m ei n
+045/133	mai	1	m ai
+045/135	mei	1	m ei
+045/137	mai	1	m ai
+045/139	mai	1	m ai
+045/141	mei	1	m ei
+045/143	mai	1	m ai
+045/145	main	1	m ai n
+045/155	mai	1	m ai
+046/031	mien	1	m ie n
+046/033	mien	1	m ie n
+046/035	mien	1	m ie n
+046/037	mien	1	m ie n
+046/039	mien	1	m ie n
+046/041	mien	1	m ie n
+046/043	min	1	m i n
+046/045	muin	1	m ui n
+046/047	muin	1	m ui n
+046/049	muin	1	m ui n
+046/051	muin	1	m ui n
+046/053	müin	1	m üi n
+046/055	mühn	1	m üh n
+046/057	mein	1	m ei n
+046/059	mien	1	m ie n
+046/061	muin	1	m ui n
+046/063	miin	1	m ii n
+046/065	möin	1	m öi n
+046/067	möin	1	m öi n
+046/069	mäin	1	m äi n
+046/071	mäin	1	m äi n
+046/073	meuen	1	m eue n
+046/075	mäin	1	m äi n
+046/077	mien	1	m ie n
+046/079	min	1	m i n
+046/081	mien	1	m ie n
+046/083	min	1	m i n
+046/085	min	1	m i n
+046/087	mien	1	m ie n
+046/089	mien	1	m ie n
+046/091	mien	1	m ie n
+046/093	min	1	m i n
+046/095	mien	1	m ie n
+046/097	mien	1	m ie n
+046/099	min	1	m i n
+046/101	mien	1	m ie n
+046/103	mihn	1	m ih n
+046/105	min	1	m i n
+046/107	mien	1	m ie n
+046/109	mien	1	m ie n
+046/111	mien	1	m ie n
+046/113	mien	1	m ie n
+046/115	mein	1	m ei n
+046/117	mein	1	m ei n
+046/119	mein	1	m ei n
+046/121	mein	1	m ei n
+046/123	mein	1	m ei n
+046/125	mei	1	m ei
+046/127	mein	1	m ei n
+046/129	mein	1	m ei n
+046/131	mein	1	m ei n
+046/133	mai	1	m ai
+046/135	mä	1	m ä
+046/137	mai	1	m ai
+046/139	me	1	m e
+046/141	mei	1	m ei
+046/143	mei	1	m ei
+046/155	mäin	1	m äi n
+047/031	min	1	m i n
+047/033	mihn	1	m ih n
+047/035	mien	1	m ie n
+047/037	min	1	m i n
+047/039	mien	1	m ie n
+047/041	min	1	m i n
+047/043	mien	1	m ie n
+047/045	min	1	m i n
+047/047	min	1	m i n
+047/049	mien	1	m ie n
+047/051	muin	1	m ui n
+047/053	müin	1	m üi n
+047/055	muin	1	m ui n
+047/057	müin	1	m üi n
+047/059	min	1	m i n
+047/061	mäin	1	m äi n
+047/063	mäin	1	m äi n
+047/065	mäin	1	m äi n
+047/067	möin	1	m öi n
+047/069	min	1	m i n
+047/071	mien	1	m ie n
+047/073	mäin	1	m äi n
+047/075	mäin	1	m äi n
+047/077	mien	1	m ie n
+047/079	min	1	m i n
+047/081	min	1	m i n
+047/083	mien	1	m ie n
+047/085	miin	1	m ii n
+047/087	mien	1	m ie n
+047/089	mien	1	m ie n
+047/091	mien	1	m ie n
+047/093	min	1	m i n
+047/095	mien	1	m ie n
+047/097	min	1	m i n
+047/099	miin	1	m ii n
+047/101	mien	1	m ie n
+047/103	min	1	m i n
+047/105	mihn	1	m ih n
+047/107	mien	1	m ie n
+047/109	mien	1	m ie n
+047/111	min	1	m i n
+047/113	mien	1	m ie n
+047/115	mein	1	m ei n
+047/117	mein	1	m ei n
+047/119	mein	1	m ei n
+047/123	mein	1	m ei n
+047/125	mein	1	m ei n
+047/127	mein	1	m ei n
+047/129	mein	1	m ei n
+047/131	mä	1	m ä
+047/133	meen	1	m ee n
+047/135	mei	1	m ei
+047/137	mä	1	m ä
+047/139	mee	1	m ee
+047/141	mee	1	m ee
+047/147	mej	1	m e j
+047/149	me	1	m e
+047/151	me	1	m e
+047/159	mei	1	m ei
+048/021	minn	1	m i nn
+048/023	min	1	m i n
+048/027	mien	1	m ie n
+048/029	min	1	m i n
+048/031	min	1	m i n
+048/033	mien	1	m ie n
+048/035	mien	1	m ie n
+048/037	min	1	m i n
+048/039	mien	1	m ie n
+048/041	mien	1	m ie n
+048/045	min	1	m i n
+048/047	min	1	m i n
+048/049	mäin	1	m äi n
+048/051	min	1	m i n
+048/053	müun	1	m üu n
+048/055	müin	1	m üi n
+048/057	muin	1	m ui n
+048/059	mouin	1	m oui n
+048/061	mäin	1	m äi n
+048/063	min	1	m i n
+048/065	mäin	1	m äi n
+048/067	mäin	1	m äi n
+048/069	mäin	1	m äi n
+048/071	mei	1	m ei
+048/073	mäin	1	m äi n
+048/075	mien	1	m ie n
+048/077	mien	1	m ie n
+048/079	min	1	m i n
+048/081	mien	1	m ie n
+048/083	mihn	1	m ih n
+048/085	mien	1	m ie n
+048/087	mien	1	m ie n
+048/089	mein	1	m ei n
+048/091	mein	1	m ei n
+048/093	min	1	m i n
+048/095	mein	1	m ei n
+048/099	mein	1	m ei n
+048/101	mein	1	m ei n
+048/103	mien	1	m ie n
+048/105	mien	1	m ie n
+048/107	min	1	m i n
+048/109	mien	1	m ie n
+048/111	miin	1	m ii n
+048/113	mein	1	m ei n
+048/115	mein	1	m ei n
+048/119	mein	1	m ei n
+048/123	mein	1	m ei n
+048/125	mein	1	m ei n
+048/127	mein	1	m ei n
+048/129	mein	1	m ei n
+048/131	me	1	m e
+048/133	me	1	m e
+048/135	mee	1	m ee
+048/137	mä	1	m ä
+048/139	mei	1	m ei
+048/141	mee	1	m ee
+048/143	me	1	m e
+048/145	meh	1	m eh
+048/147	me	1	m e
+048/153	mee	1	m ee
+048/157	me	1	m e
+048/159	me	1	m e
+049/019	minn	1	m i nn
+049/021	min	1	m i n
+049/023	min	1	m i n
+049/025	mien	1	m ie n
+049/027	min	1	m i n
+049/029	min	1	m i n
+049/031	mie	1	m ie
+049/033	mien	1	m ie n
+049/035	mien	1	m ie n
+049/037	min	1	m i n
+049/039	mien	1	m ie n
+049/041	mien	1	m ie n
+049/043	min	1	m i n
+049/045	min	1	m i n
+049/047	men	1	m e n
+049/049	min	1	m i n
+049/051	mein	1	m ei n
+049/053	mein	1	m ei n
+049/055	muin	1	m ui n
+049/057	möin	1	m öi n
+049/059	muin	1	m ui n
+049/061	moin	1	m oi n
+049/063	mööin	1	m ööi n
+049/065	moin	1	m oi n
+049/067	moin	1	m oi n
+049/069	mäin	1	m äi n
+049/071	mäin	1	m äi n
+049/073	mei	1	m ei
+049/077	mien	1	m ie n
+049/079	min	1	m i n
+049/081	mihn	1	m ih n
+049/083	min	1	m i n
+049/085	min	1	m i n
+049/087	mein	1	m ei n
+049/089	mei	1	m ei
+049/091	mein	1	m ei n
+049/093	mein	1	m ei n
+049/095	mei	1	m ei
+049/097	mein	1	m ei n
+049/099	mein	1	m ei n
+049/101	mein	1	m ei n
+049/103	mein	1	m ei n
+049/105	mien	1	m ie n
+049/107	mien	1	m ie n
+049/109	mien	1	m ie n
+049/111	min	1	m i n
+049/113	mien	1	m ie n
+049/115	mein	1	m ei n
+049/117	mein	1	m ei n
+049/119	mein	1	m ei n
+049/121	mein	1	m ei n
+049/123	mein	1	m ei n
+049/125	mein	1	m ei n
+049/127	mein	1	m ei n
+049/129	mei	1	m ei
+049/131	mei	1	m ei
+049/133	me	1	m e
+049/135	mee	1	m ee
+049/137	me	1	m e
+049/139	me	1	m e
+049/141	mee	1	m ee
+049/143	mee	1	m ee
+049/145	me	1	m e
+049/147	mä	1	m ä
+049/151	mee	1	m ee
+050/021	minn	1	m i nn
+050/023	mei	1	m ei
+050/025	min	1	m i n
+050/027	minn	1	m i nn
+050/029	min	1	m i n
+050/031	min	1	m i n
+050/033	mien	1	m ie n
+050/035	min	1	m i n
+050/037	mien	1	m ie n
+050/039	mien	1	m ie n
+050/041	mien	1	m ie n
+050/043	min	1	m i n
+050/047	mein	1	m ei n
+050/049	muin	1	m ui n
+050/051	myin	1	m yi n
+050/053	meyn	1	m ey n
+050/055	mein	1	m ei n
+050/057	moin	1	m oi n
+050/059	mein	1	m ei n
+050/061	mein	1	m ei n
+050/063	meein	1	m eei n
+050/065	min	1	m i n
+050/067	NA	NA	-
+050/069	min	1	m i n
+050/071	mäin	1	m äi n
+050/073	min	1	m i n
+050/075	mei	1	m ei
+050/077	mien	1	m ie n
+050/079	min	1	m i n
+050/081	mein	1	m ei n
+050/083	miin	1	m ii n
+050/085	min	1	m i n
+050/087	mein	1	m ei n
+050/089	mäi	1	m äi
+050/091	mein	1	m ei n
+050/093	mei	1	m ei
+050/095	mei	1	m ei
+050/097	mein	1	m ei n
+050/099	mei	1	m ei
+050/101	mein	1	m ei n
+050/103	mein	1	m ei n
+050/105	mein	1	m ei n
+050/107	mien	1	m ie n
+050/109	mien	1	m ie n
+050/111	mien	1	m ie n
+050/113	mien	1	m ie n
+050/115	mein	1	m ei n
+050/117	mein	1	m ei n
+050/119	mein	1	m ei n
+050/121	mein	1	m ei n
+050/125	du	1	d u
+050/127	mei	1	m ei
+050/129	mai	1	m ai
+050/131	mei	1	m ei
+050/133	meh	1	m eh
+050/135	ma	1	m a
+050/137	me	1	m e
+050/139	mee	1	m ee
+050/141	me	1	m e
+050/143	me	1	m e
+050/145	me	1	m e
+050/147	mee	1	m ee
+050/149	me	1	m e
+050/151	me	1	m e
+050/155	mäi	1	m äi
+050/157	me	1	m e
+050/159	me	1	m e
+050/161	mei	1	m ei
+051/023	min	1	m i n
+051/025	minn	1	m i nn
+051/027	minn	1	m i nn
+051/029	min	1	m i n
+051/031	mien	1	m ie n
+051/033	mien	1	m ie n
+051/035	min	1	m i n
+051/037	mien	1	m ie n
+051/039	miin	1	m ii n
+051/041	mein	1	m ei n
+051/043	muin	1	m ui n
+051/045	muin	1	m ui n
+051/047	muin	1	m ui n
+051/049	NA	NA	-
+051/051	mäin	1	m äi n
+051/053	meiin	1	m eii n
+051/055	möin	1	m öi n
+051/057	min	1	m i n
+051/059	mein	1	m ei n
+051/061	min	1	m i n
+051/063	möin	1	m öi n
+051/065	mein	1	m ei n
+051/067	min	1	m i n
+051/069	miin	1	m ii n
+051/071	mien	1	m ie n
+051/073	min	1	m i n
+051/075	minn	1	m i nn
+051/077	mien	1	m ie n
+051/079	mien	1	m ie n
+051/081	mien	1	m ie n
+051/083	mien	1	m ie n
+051/085	mei	1	m ei
+051/087	mei	1	m ei
+051/089	mei	1	m ei
+051/091	mei	1	m ei
+051/093	mein	1	m ei n
+051/095	mei	1	m ei
+051/097	mei	1	m ei
+051/099	mei	1	m ei
+051/101	mei	1	m ei
+051/103	mei	1	m ei
+051/105	mein	1	m ei n
+051/107	mei	1	m ei
+051/109	mein	1	m ei n
+051/111	mein	1	m ei n
+051/113	mein	1	m ei n
+051/115	mein	1	m ei n
+051/117	mein	1	m ei n
+051/119	mein	1	m ei n
+051/121	mein	1	m ei n
+051/123	NA	NA	-
+051/125	mei	1	m ei
+051/127	mei	1	m ei
+051/129	mei	1	m ei
+051/131	mai	1	m ai
+051/133	me	1	m e
+051/135	mei	1	m ei
+051/137	mee	1	m ee
+051/139	me	1	m e
+051/141	NA	NA	-
+051/143	mee	1	m ee
+051/145	me	1	m e
+051/147	me	1	m e
+051/149	mee	1	m ee
+051/151	me	1	m e
+051/153	mee	1	m ee
+051/155	mee	1	m ee
+051/157	me	1	m e
+052/023	mei	1	m ei
+052/025	min	1	m i n
+052/027	minn	1	m i nn
+052/029	min	1	m i n
+052/031	min	1	m i n
+052/033	mien	1	m ie n
+052/035	min	1	m i n
+052/037	min	1	m i n
+052/039	min	1	m i n
+052/041	mein	1	m ei n
+052/043	mein	1	m ei n
+052/045	muin	1	m ui n
+052/047	muin	1	m ui n
+052/049	muin	1	m ui n
+052/051	main	1	m ai n
+052/053	myn	1	m y n
+052/057	min	1	m i n
+052/059	mäin	1	m äi n
+052/061	mien	1	m ie n
+052/063	min	1	m i n
+052/065	mien	1	m ie n
+052/067	mien	1	m ie n
+052/069	miin	1	m ii n
+052/071	miien	1	m iie n
+052/073	mihn	1	m ih n
+052/075	minn	1	m i nn
+052/077	minn	1	m i nn
+052/079	min	1	m i n
+052/081	min	1	m i n
+052/083	mi	1	m i
+052/085	mei	1	m ei
+052/087	mei	1	m ei
+052/089	mei	1	m ei
+052/091	mein	1	m ei n
+052/093	mai	1	m ai
+052/095	mei	1	m ei
+052/097	mei	1	m ei
+052/099	mei	1	m ei
+052/101	mein	1	m ei n
+052/103	mein	1	m ei n
+052/105	mei	1	m ei
+052/107	mei	1	m ei
+052/109	mei	1	m ei
+052/111	mein	1	m ei n
+052/113	mein	1	m ei n
+052/115	mein	1	m ei n
+052/117	mein	1	m ei n
+052/121	mein	1	m ei n
+052/123	mein	1	m ei n
+052/125	mei	1	m ei
+052/127	mei	1	m ei
+052/129	mei	1	m ei
+052/131	mei	1	m ei
+052/133	mei	1	m ei
+052/135	mei	1	m ei
+052/137	me	1	m e
+052/139	meh	1	m eh
+052/141	me	1	m e
+052/143	meh	1	m eh
+052/145	mei	1	m ei
+052/147	mee	1	m ee
+052/149	mee	1	m ee
+052/151	meh	1	m eh
+052/153	mei	1	m ei
+052/155	mee	1	m ee
+052/157	mee	1	m ee
+052/159	meh	1	m eh
+053/023	min	1	m i n
+053/025	mi	1	m i
+053/027	min	1	m i n
+053/029	min	1	m i n
+053/031	mi	1	m i
+053/033	min	1	m i n
+053/035	min	1	m i n
+053/037	mien	1	m ie n
+053/039	min	1	m i n
+053/041	mien	1	m ie n
+053/043	mäin	1	m äi n
+053/045	meein	1	m eei n
+053/047	muin	1	m ui n
+053/049	muin	1	m ui n
+053/051	meein	1	m eei n
+053/053	mien	1	m ie n
+053/055	mien	1	m ie n
+053/057	mien	1	m ie n
+053/059	mien	1	m ie n
+053/061	min	1	m i n
+053/063	mien	1	m ie n
+053/065	mihn	1	m ih n
+053/067	min	1	m i n
+053/069	min	1	m i n
+053/071	min	1	m i n
+053/073	minn	1	m i nn
+053/075	min	1	m i n
+053/077	min	1	m i n
+053/079	min	1	m i n
+053/081	min	1	m i n
+053/083	mi	1	m i
+053/085	mei	1	m ei
+053/087	mei	1	m ei
+053/089	mei	1	m ei
+053/091	mei	1	m ei
+053/093	mei	1	m ei
+053/095	mei	1	m ei
+053/097	mei	1	m ei
+053/099	mei	1	m ei
+053/101	mein	1	m ei n
+053/103	mei	1	m ei
+053/105	mei	1	m ei
+053/107	mei	1	m ei
+053/109	mei	1	m ei
+053/111	mein	1	m ei n
+053/113	mei	1	m ei
+053/115	mei	1	m ei
+053/121	mein	1	m ei n
+053/123	mei	1	m ei
+053/125	mei	1	m ei
+053/127	mei	1	m ei
+053/129	mai	1	m ai
+053/131	mei	1	m ei
+053/133	mei	1	m ei
+053/135	mei	1	m ei
+053/137	mei	1	m ei
+053/139	me	1	m e
+053/141	me	1	m e
+053/143	mäi	1	m äi
+053/145	me	1	m e
+053/147	me	1	m e
+053/149	mäi	1	m äi
+053/151	meh	1	m eh
+053/153	me	1	m e
+053/155	mee	1	m ee
+053/157	me	1	m e
+054/023	mi	1	m i
+054/025	mih	1	m ih
+054/027	mi	1	m i
+054/029	mi	1	m i
+054/031	min	1	m i n
+054/033	min	1	m i n
+054/035	min	1	m i n
+054/037	min	1	m i n
+054/039	min	1	m i n
+054/041	mein	1	m ei n
+054/043	mäin	1	m äi n
+054/045	meyn	1	m ey n
+054/047	muin	1	m ui n
+054/049	muin	1	m ui n
+054/051	möin	1	m öi n
+054/053	mäin	1	m äi n
+054/055	min	1	m i n
+054/057	min	1	m i n
+054/059	minn	1	m i nn
+054/061	min	1	m i n
+054/063	minn	1	m i nn
+054/065	miin	1	m ii n
+054/067	min	1	m i n
+054/069	min	1	m i n
+054/071	mienn	1	m ie nn
+054/073	minn	1	m i nn
+054/075	miin	1	m ii n
+054/077	mi	1	m i
+054/079	minn	1	m i nn
+054/081	mi	1	m i
+054/083	mi	1	m i
+054/085	mai	1	m ai
+054/087	mei	1	m ei
+054/089	mei	1	m ei
+054/091	mei	1	m ei
+054/093	mei	1	m ei
+054/095	mei	1	m ei
+054/097	mei	1	m ei
+054/099	mei	1	m ei
+054/101	mei	1	m ei
+054/103	mei	1	m ei
+054/105	mei	1	m ei
+054/107	mei	1	m ei
+054/109	mei	1	m ei
+054/111	mei	1	m ei
+054/113	mei	1	m ei
+054/115	mei	1	m ei
+054/117	mei	1	m ei
+054/119	mein	1	m ei n
+054/121	mein	1	m ei n
+054/123	mei	1	m ei
+054/125	mei	1	m ei
+054/127	mei	1	m ei
+054/131	mei	1	m ei
+054/133	mei	1	m ei
+054/135	mei	1	m ei
+054/137	mä	1	m ä
+054/139	me	1	m e
+054/141	mee	1	m ee
+054/143	me	1	m e
+054/145	me	1	m e
+054/147	mee	1	m ee
+054/149	mee	1	m ee
+054/151	mee	1	m ee
+054/153	me	1	m e
+054/155	mei	1	m ei
+054/157	mee	1	m ee
+054/159	mei	1	m ei
+054/161	mei	1	m ei
+054/163	min	1	m i n
+055/023	mi	1	m i
+055/025	mi	1	m i
+055/027	min	1	m i n
+055/029	mie	1	m ie
+055/031	min	1	m i n
+055/033	min	1	m i n
+055/035	min	1	m i n
+055/037	min	1	m i n
+055/039	min	1	m i n
+055/041	meein	1	m eei n
+055/043	mäyn	1	m äy n
+055/045	mein	1	m ei n
+055/047	mäin	1	m äi n
+055/049	mäin	1	m äi n
+055/051	minn	1	m i nn
+055/053	minn	1	m i nn
+055/055	mien	1	m ie n
+055/057	minn	1	m i nn
+055/059	minn	1	m i nn
+055/061	min	1	m i n
+055/063	min	1	m i n
+055/065	min	1	m i n
+055/067	min	1	m i n
+055/069	min	1	m i n
+055/071	min	1	m i n
+055/073	min	1	m i n
+055/075	mien	1	m ie n
+055/077	minn	1	m i nn
+055/079	mi	1	m i
+055/081	mi	1	m i
+055/083	mi	1	m i
+055/085	mei	1	m ei
+055/087	mei	1	m ei
+055/089	mei	1	m ei
+055/091	mei	1	m ei
+055/093	mei	1	m ei
+055/095	mei	1	m ei
+055/097	mei	1	m ei
+055/099	mei	1	m ei
+055/101	mein	1	m ei n
+055/103	mei	1	m ei
+055/105	mei	1	m ei
+055/107	mei	1	m ei
+055/109	mei	1	m ei
+055/111	mein	1	m ei n
+055/113	mei	1	m ei
+055/115	mei	1	m ei
+055/117	mei	1	m ei
+055/119	mei	1	m ei
+055/123	mai	1	m ai
+055/125	mei	1	m ei
+055/127	mei	1	m ei
+055/131	mei	1	m ei
+055/133	mei	1	m ei
+055/135	mä	1	m ä
+055/137	mä	1	m ä
+055/139	mei	1	m ei
+055/141	min	1	m i n
+055/143	me	1	m e
+055/145	meh	1	m eh
+055/147	meh	1	m eh
+055/149	mei	1	m ei
+055/151	mee	1	m ee
+055/153	me	1	m e
+055/155	me	1	m e
+055/157	me	1	m e
+055/159	mei	1	m ei
+055/161	mein	1	m ei n
+056/021	mi	1	m i
+056/023	mi	1	m i
+056/025	mi	1	m i
+056/027	mi	1	m i
+056/029	mi	1	m i
+056/031	mi	1	m i
+056/033	mihn	1	m ih n
+056/035	mien	1	m ie n
+056/037	min	1	m i n
+056/039	mien	1	m ie n
+056/041	minn	1	m i nn
+056/043	myin	1	m yi n
+056/045	min	1	m i n
+056/047	muin	1	m ui n
+056/049	mein	1	m ei n
+056/051	minn	1	m i nn
+056/053	min	1	m i n
+056/055	min	1	m i n
+056/057	minn	1	m i nn
+056/059	min	1	m i n
+056/061	min	1	m i n
+056/063	min	1	m i n
+056/065	min	1	m i n
+056/067	min	1	m i n
+056/069	min	1	m i n
+056/071	minn	1	m i nn
+056/073	minn	1	m i nn
+056/075	min	1	m i n
+056/077	minn	1	m i nn
+056/079	mie	1	m ie
+056/081	mi	1	m i
+056/083	min	1	m i n
+056/085	mei	1	m ei
+056/087	mei	1	m ei
+056/089	mei	1	m ei
+056/091	mei	1	m ei
+056/093	mei	1	m ei
+056/095	mei	1	m ei
+056/097	mei	1	m ei
+056/099	mei	1	m ei
+056/101	mei	1	m ei
+056/103	mei	1	m ei
+056/105	mei	1	m ei
+056/107	mei	1	m ei
+056/109	mei	1	m ei
+056/111	mei	1	m ei
+056/113	mei	1	m ei
+056/115	mei	1	m ei
+056/117	mei	1	m ei
+056/121	mei	1	m ei
+056/123	mei	1	m ei
+056/125	mei	1	m ei
+056/127	mei	1	m ei
+056/129	mei	1	m ei
+056/131	mei	1	m ei
+056/133	mei	1	m ei
+056/135	mei	1	m ei
+056/137	mä	1	m ä
+056/139	mä	1	m ä
+056/141	mei	1	m ei
+056/143	me	1	m e
+056/145	mei	1	m ei
+056/147	meh	1	m eh
+056/149	me	1	m e
+056/151	me	1	m e
+056/153	mee	1	m ee
+056/155	mee	1	m ee
+056/157	me	1	m e
+056/159	mäh	1	m äh
+056/161	mä	1	m ä
+057/021	mi	1	m i
+057/023	mi	1	m i
+057/025	mih	1	m ih
+057/027	mi	1	m i
+057/029	mi	1	m i
+057/031	ming	1	m i ng
+057/033	minn	1	m i nn
+057/035	mihn	1	m ih n
+057/037	mihn	1	m ih n
+057/039	mien	1	m ie n
+057/041	min	1	m i n
+057/043	min	1	m i n
+057/045	mien	1	m ie n
+057/047	meyn	1	m ey n
+057/049	mäin	1	m äi n
+057/051	mäin	1	m äi n
+057/053	min	1	m i n
+057/055	mäin	1	m äi n
+057/057	mäin	1	m äi n
+057/059	min	1	m i n
+057/061	min	1	m i n
+057/063	min	1	m i n
+057/065	minn	1	m i nn
+057/067	min	1	m i n
+057/069	minn	1	m i nn
+057/071	min	1	m i n
+057/073	min	1	m i n
+057/075	min	1	m i n
+057/077	mi	1	m i
+057/079	mi	1	m i
+057/081	mi	1	m i
+057/083	mi	1	m i
+057/085	mei	1	m ei
+057/087	mei	1	m ei
+057/089	mei	1	m ei
+057/091	mei	1	m ei
+057/093	mei	1	m ei
+057/095	mei	1	m ei
+057/097	mei	1	m ei
+057/099	mei	1	m ei
+057/101	mei	1	m ei
+057/103	mei	1	m ei
+057/105	mei	1	m ei
+057/107	mei	1	m ei
+057/109	mei	1	m ei
+057/111	mei	1	m ei
+057/113	mei	1	m ei
+057/115	mei	1	m ei
+057/117	mei	1	m ei
+057/119	mei	1	m ei
+057/121	mei	1	m ei
+057/123	mei	1	m ei
+057/125	mei	1	m ei
+057/127	mei	1	m ei
+057/129	mei	1	m ei
+057/131	mei	1	m ei
+057/133	mei	1	m ei
+057/135	mä	1	m ä
+057/137	mä	1	m ä
+057/139	mei	1	m ei
+057/141	mei	1	m ei
+057/143	mein	1	m ei n
+057/145	mei	1	m ei
+057/147	mei	1	m ei
+057/149	me	1	m e
+057/151	me	1	m e
+057/153	me	1	m e
+057/155	me	1	m e
+057/157	mee	1	m ee
+057/159	mei	1	m ei
+057/161	mei	1	m ei
+058/019	mi	1	m i
+058/021	mih	1	m ih
+058/023	men	1	m e n
+058/025	mi	1	m i
+058/027	mi	1	m i
+058/029	me	1	m e
+058/031	mi	1	m i
+058/033	mi	1	m i
+058/035	mie	1	m ie
+058/037	meh	1	m eh
+058/039	mien	1	m ie n
+058/041	mien	1	m ie n
+058/043	mien	1	m ie n
+058/045	mien	1	m ie n
+058/047	mei	1	m ei
+058/049	mei	1	m ei
+058/051	mai	1	m ai
+058/053	mei	1	m ei
+058/055	mei	1	m ei
+058/057	mäin	1	m äi n
+058/059	ming	1	m i ng
+058/061	min	1	m i n
+058/063	minn	1	m i nn
+058/065	minn	1	m i nn
+058/067	minn	1	m i nn
+058/069	minn	1	m i nn
+058/071	minn	1	m i nn
+058/073	min	1	m i n
+058/075	min	1	m i n
+058/077	min	1	m i n
+058/079	mi	1	m i
+058/081	mi	1	m i
+058/083	mei	1	m ei
+058/085	mei	1	m ei
+058/087	mei	1	m ei
+058/089	mei	1	m ei
+058/091	mei	1	m ei
+058/093	mei	1	m ei
+058/095	mei	1	m ei
+058/097	mei	1	m ei
+058/099	mei	1	m ei
+058/101	mei	1	m ei
+058/103	mei	1	m ei
+058/105	mei	1	m ei
+058/107	mei	1	m ei
+058/109	mei	1	m ei
+058/111	mei	1	m ei
+058/113	mei	1	m ei
+058/115	mei	1	m ei
+058/117	mei	1	m ei
+058/119	mei	1	m ei
+058/121	mei	1	m ei
+058/123	mei	1	m ei
+058/125	mei	1	m ei
+058/127	mei	1	m ei
+058/129	mai	1	m ai
+058/131	mai	1	m ai
+058/133	mai	1	m ai
+058/135	me	1	m e
+058/137	mäi	1	m äi
+058/139	mei	1	m ei
+058/141	mei	1	m ei
+058/143	mei	1	m ei
+058/145	mei	1	m ei
+058/147	mei	1	m ei
+058/149	mee	1	m ee
+058/151	mei	1	m ei
+058/153	mei	1	m ei
+058/155	mei	1	m ei
+058/157	mei	1	m ei
+058/159	mei	1	m ei
+059/019	mien	1	m ie n
+059/021	mi	1	m i
+059/023	mi	1	m i
+059/025	mi	1	m i
+059/027	mi	1	m i
+059/029	mi	1	m i
+059/031	mi	1	m i
+059/033	ming	1	m i ng
+059/035	mieh	1	m ieh
+059/037	ming	1	m i ng
+059/039	meng	1	m e ng
+059/041	min	1	m i n
+059/043	mih	1	m ih
+059/045	mi	1	m i
+059/047	mei	1	m ei
+059/049	mei	1	m ei
+059/051	mei	1	m ei
+059/053	mei	1	m ei
+059/055	mei	1	m ei
+059/057	meng	1	m e ng
+059/059	meng	1	m e ng
+059/061	ming	1	m i ng
+059/063	min	1	m i n
+059/065	min	1	m i n
+059/067	min	1	m i n
+059/069	minn	1	m i nn
+059/071	min	1	m i n
+059/073	min	1	m i n
+059/075	minn	1	m i nn
+059/077	mei	1	m ei
+059/079	mi	1	m i
+059/081	mai	1	m ai
+059/083	mei	1	m ei
+059/085	mei	1	m ei
+059/087	mei	1	m ei
+059/089	mein	1	m ei n
+059/091	mä	1	m ä
+059/093	mei	1	m ei
+059/095	mei	1	m ei
+059/097	mei	1	m ei
+059/099	mei	1	m ei
+059/101	mei	1	m ei
+059/103	mei	1	m ei
+059/105	NA	NA	-
+059/107	mei	1	m ei
+059/109	mei	1	m ei
+059/111	mei	1	m ei
+059/113	mei	1	m ei
+059/115	mei	1	m ei
+059/117	NA	NA	-
+059/119	mei	1	m ei
+059/121	mei	1	m ei
+059/123	mei	1	m ei
+059/125	mei	1	m ei
+059/127	mei	1	m ei
+059/129	mei	1	m ei
+059/131	maj	1	m a j
+059/133	mei	1	m ei
+059/135	mei	1	m ei
+059/137	mei	1	m ei
+059/139	mei	1	m ei
+059/141	mei	1	m ei
+059/143	mei	1	m ei
+059/145	mei	1	m ei
+059/147	mei	1	m ei
+059/149	mei	1	m ei
+059/151	mei	1	m ei
+059/153	mei	1	m ei
+059/155	mei	1	m ei
+059/157	mei	1	m ei
+059/159	me	1	m e
+059/161	mei	1	m ei
+059/165	mee	1	m ee
+059/169	mei	1	m ei
+060/021	mi	1	m i
+060/023	mi	1	m i
+060/025	miä	1	m iä
+060/027	mi	1	m i
+060/029	mi	1	m i
+060/031	mi	1	m i
+060/033	mie	1	m ie
+060/035	me	1	m e
+060/037	ming	1	m i ng
+060/039	meng	1	m e ng
+060/041	meng	1	m e ng
+060/043	mie	1	m ie
+060/045	min	1	m i n
+060/047	mei	1	m ei
+060/049	meih	1	m eih
+060/051	mei	1	m ei
+060/053	mei	1	m ei
+060/055	mei	1	m ei
+060/057	mei	1	m ei
+060/059	meng	1	m e ng
+060/061	meng	1	m e ng
+060/063	mie	1	m ie
+060/065	mie	1	m ie
+060/067	mi	1	m i
+060/069	mie	1	m ie
+060/071	mie	1	m ie
+060/073	mie	1	m ie
+060/075	mih	1	m ih
+060/077	mi	1	m i
+060/079	mi	1	m i
+060/081	mie	1	m ie
+060/083	mei	1	m ei
+060/085	mei	1	m ei
+060/087	mai	1	m ai
+060/089	mei	1	m ei
+060/091	mä	1	m ä
+060/093	mä	1	m ä
+060/095	mei	1	m ei
+060/097	mei	1	m ei
+060/099	mei	1	m ei
+060/101	mei	1	m ei
+060/103	mei	1	m ei
+060/105	mei	1	m ei
+060/107	mei	1	m ei
+060/109	mai	1	m ai
+060/111	mei	1	m ei
+060/113	mei	1	m ei
+060/115	mei	1	m ei
+060/117	mei	1	m ei
+060/119	mei	1	m ei
+060/121	mei	1	m ei
+060/123	mai	1	m ai
+060/125	mei	1	m ei
+060/127	mei	1	m ei
+060/129	mei	1	m ei
+060/131	mai	1	m ai
+060/135	mei	1	m ei
+060/137	mei	1	m ei
+060/139	mei	1	m ei
+060/141	mei	1	m ei
+060/143	mei	1	m ei
+060/145	mei	1	m ei
+060/147	mei	1	m ei
+060/149	mei	1	m ei
+060/151	mei	1	m ei
+060/153	mei	1	m ei
+060/155	mei	1	m ei
+060/157	me	1	m e
+060/159	mä	1	m ä
+060/163	mein	1	m ei n
+060/165	mei	1	m ei
+061/021	mie	1	m ie
+061/023	mi	1	m i
+061/025	mie	1	m ie
+061/027	mi	1	m i
+061/029	mi	1	m i
+061/031	me	1	m e
+061/033	mi	1	m i
+061/035	me	1	m e
+061/037	mih	1	m ih
+061/039	meng	1	m e ng
+061/041	mäng	1	m ä ng
+061/043	mäin	1	m äi n
+061/045	mei	1	m ei
+061/047	mei	1	m ei
+061/049	mei	1	m ei
+061/051	mai	1	m ai
+061/053	mei	1	m ei
+061/055	mai	1	m ai
+061/057	mein	1	m ei n
+061/059	mei	1	m ei
+061/061	meng	1	m e ng
+061/063	mi	1	m i
+061/065	mi	1	m i
+061/067	mij	1	m i j
+061/069	me	1	m e
+061/071	mi	1	m i
+061/073	mi	1	m i
+061/075	mi	1	m i
+061/077	mie	1	m ie
+061/079	mi	1	m i
+061/081	mi	1	m i
+061/083	mei	1	m ei
+061/085	mei	1	m ei
+061/087	mei	1	m ei
+061/089	mei	1	m ei
+061/091	mei	1	m ei
+061/093	mei	1	m ei
+061/095	mei	1	m ei
+061/097	mei	1	m ei
+061/099	mein	1	m ei n
+061/101	mei	1	m ei
+061/103	mei	1	m ei
+061/105	mei	1	m ei
+061/107	mei	1	m ei
+061/109	mei	1	m ei
+061/111	mei	1	m ei
+061/113	mei	1	m ei
+061/115	mei	1	m ei
+061/117	mei	1	m ei
+061/119	mei	1	m ei
+061/121	mei	1	m ei
+061/123	mei	1	m ei
+061/125	mei	1	m ei
+061/127	NA	NA	-
+061/129	mai	1	m ai
+061/131	mei	1	m ei
+061/133	mei	1	m ei
+061/137	mei	1	m ei
+061/139	mei	1	m ei
+061/141	mein	1	m ei n
+061/143	mei	1	m ei
+061/145	mei	1	m ei
+061/147	mei	1	m ei
+061/149	mei	1	m ei
+061/151	mei	1	m ei
+061/153	mei	1	m ei
+061/155	mei	1	m ei
+061/157	mä	1	m ä
+061/159	du	1	d u
+061/161	mei	1	m ei
+061/165	mei	1	m ei
+062/021	mi	1	m i
+062/023	mi	1	m i
+062/025	mi	1	m i
+062/027	mi	1	m i
+062/029	mi	1	m i
+062/031	me	1	m e
+062/033	ming	1	m i ng
+062/035	me	1	m e
+062/037	mi	1	m i
+062/039	mei	1	m ei
+062/041	mein	1	m ei n
+062/043	mej	1	m e j
+062/045	maj	1	m a j
+062/047	mej	1	m e j
+062/049	mei	1	m ei
+062/051	mei	1	m ei
+062/053	mei	1	m ei
+062/055	mai	1	m ai
+062/057	mei	1	m ei
+062/059	mei	1	m ei
+062/061	mei	1	m ei
+062/063	mie	1	m ie
+062/065	mie	1	m ie
+062/067	mih	1	m ih
+062/069	mie	1	m ie
+062/071	mi	1	m i
+062/073	mi	1	m i
+062/075	mi	1	m i
+062/077	mei	1	m ei
+062/079	mei	1	m ei
+062/081	mi	1	m i
+062/083	mei	1	m ei
+062/085	mei	1	m ei
+062/087	mei	1	m ei
+062/089	mä	1	m ä
+062/091	mä	1	m ä
+062/093	mei	1	m ei
+062/095	mei	1	m ei
+062/097	NA	NA	-
+062/099	mei	1	m ei
+062/101	mei	1	m ei
+062/103	mei	1	m ei
+062/105	mei	1	m ei
+062/107	mei	1	m ei
+062/109	mei	1	m ei
+062/111	NA	NA	-
+062/113	mein	1	m ei n
+062/115	NA	NA	-
+062/117	mei	1	m ei
+062/119	mei	1	m ei
+062/121	NA	NA	-
+062/123	mei	1	m ei
+062/125	mei	1	m ei
+062/127	mei	1	m ei
+062/129	mei	1	m ei
+062/131	mei	1	m ei
+062/133	mei	1	m ei
+062/135	mei	1	m ei
+062/137	mei	1	m ei
+062/139	mei	1	m ei
+062/141	mei	1	m ei
+062/143	mei	1	m ei
+062/145	mei	1	m ei
+062/147	mei	1	m ei
+062/149	mei	1	m ei
+062/151	mei	1	m ei
+062/153	mei	1	m ei
+062/155	mei	1	m ei
+062/157	mei	1	m ei
+062/159	mee	1	m ee
+062/161	mei	1	m ei
+063/021	mie	1	m ie
+063/023	mi	1	m i
+063/025	mi	1	m i
+063/027	me	1	m e
+063/029	me	1	m e
+063/031	me	1	m e
+063/033	me	1	m e
+063/035	meng	1	m e ng
+063/037	mi	1	m i
+063/039	mei	1	m ei
+063/041	mei	1	m ei
+063/043	mäi	1	m äi
+063/045	mei	1	m ei
+063/047	mei	1	m ei
+063/049	mei	1	m ei
+063/051	mei	1	m ei
+063/053	mei	1	m ei
+063/055	mai	1	m ai
+063/057	mei	1	m ei
+063/059	mei	1	m ei
+063/061	mäi	1	m äi
+063/063	mie	1	m ie
+063/065	mien	1	m ie n
+063/067	mi	1	m i
+063/069	mi	1	m i
+063/071	mie	1	m ie
+063/073	mei	1	m ei
+063/075	mä	1	m ä
+063/077	mei	1	m ei
+063/079	mi	1	m i
+063/081	mi	1	m i
+063/083	mei	1	m ei
+063/085	mei	1	m ei
+063/087	mei	1	m ei
+063/089	mai	1	m ai
+063/091	mei	1	m ei
+063/093	mei	1	m ei
+063/095	mei	1	m ei
+063/097	mei	1	m ei
+063/099	NA	NA	-
+063/101	mei	1	m ei
+063/103	mei	1	m ei
+063/105	mei	1	m ei
+063/107	mei	1	m ei
+063/109	mei	1	m ei
+063/111	mei	1	m ei
+063/113	mei	1	m ei
+063/115	mei	1	m ei
+063/117	mei	1	m ei
+063/119	mei	1	m ei
+063/121	mei	1	m ei
+063/123	mei	1	m ei
+063/125	mei	1	m ei
+063/127	mai	1	m ai
+063/135	mei	1	m ei
+063/137	mei	1	m ei
+063/139	mei	1	m ei
+063/141	mei	1	m ei
+063/143	mei	1	m ei
+063/145	mei	1	m ei
+063/147	mei	1	m ei
+063/149	mei	1	m ei
+063/151	mei	1	m ei
+063/153	mei	1	m ei
+063/155	mei	1	m ei
+063/157	mei	1	m ei
+063/159	mei	1	m ei
+063/161	mei	1	m ei
+063/163	mei	1	m ei
+063/165	mein	1	m ei n
+064/023	mi	1	m i
+064/025	mie	1	m ie
+064/027	me	1	m e
+064/029	me	1	m e
+064/031	mie	1	m ie
+064/033	mi	1	m i
+064/035	mei	1	m ei
+064/037	mei	1	m ei
+064/039	mei	1	m ei
+064/041	mei	1	m ei
+064/043	mein	1	m ei n
+064/045	mei	1	m ei
+064/047	main	1	m ai n
+064/049	mei	1	m ei
+064/051	mei	1	m ei
+064/053	mei	1	m ei
+064/055	mei	1	m ei
+064/057	mai	1	m ai
+064/059	mei	1	m ei
+064/061	mei	1	m ei
+064/063	min	1	m i n
+064/065	mi	1	m i
+064/067	NA	NA	-
+064/069	mäi	1	m äi
+064/071	mäi	1	m äi
+064/073	mei	1	m ei
+064/075	mei	1	m ei
+064/077	mei	1	m ei
+064/079	mei	1	m ei
+064/081	mi	1	m i
+064/083	mei	1	m ei
+064/085	mei	1	m ei
+064/087	mei	1	m ei
+064/089	mei	1	m ei
+064/091	mei	1	m ei
+064/093	mei	1	m ei
+064/095	mei	1	m ei
+064/097	mei	1	m ei
+064/099	mei	1	m ei
+064/101	mei	1	m ei
+064/103	NA	NA	-
+064/105	mei	1	m ei
+064/107	mei	1	m ei
+064/109	mei	1	m ei
+064/111	NA	NA	-
+064/113	mei	1	m ei
+064/115	mei	1	m ei
+064/117	mei	1	m ei
+064/119	mai	1	m ai
+064/121	mei	1	m ei
+064/123	mei	1	m ei
+064/125	mei	1	m ei
+064/127	mei	1	m ei
+064/135	mei	1	m ei
+064/137	mei	1	m ei
+064/139	mei	1	m ei
+064/141	mei	1	m ei
+064/143	mei	1	m ei
+064/145	mei	1	m ei
+064/147	mei	1	m ei
+064/149	mei	1	m ei
+064/151	mei	1	m ei
+064/153	mei	1	m ei
+064/155	mei	1	m ei
+064/157	mei	1	m ei
+064/159	mei	1	m ei
+065/021	me	1	m e
+065/023	mi	1	m i
+065/025	me	1	m e
+065/027	me	1	m e
+065/029	me	1	m e
+065/031	me	1	m e
+065/033	me	1	m e
+065/035	mei	1	m ei
+065/037	mai	1	m ai
+065/039	mei	1	m ei
+065/041	mei	1	m ei
+065/043	mäi	1	m äi
+065/045	mai	1	m ai
+065/047	mai	1	m ai
+065/049	main	1	m ai n
+065/051	mei	1	m ei
+065/053	main	1	m ai n
+065/055	mei	1	m ei
+065/057	mei	1	m ei
+065/059	mein	1	m ei n
+065/061	mai	1	m ai
+065/063	mie	1	m ie
+065/065	mie	1	m ie
+065/067	mei	1	m ei
+065/069	mei	1	m ei
+065/071	mai	1	m ai
+065/073	mä	1	m ä
+065/075	ma	1	m a
+065/077	mei	1	m ei
+065/079	mei	1	m ei
+065/081	mei	1	m ei
+065/083	mei	1	m ei
+065/085	mei	1	m ei
+065/087	mei	1	m ei
+065/089	mei	1	m ei
+065/091	mei	1	m ei
+065/093	mei	1	m ei
+065/095	mei	1	m ei
+065/097	mei	1	m ei
+065/101	mei	1	m ei
+065/103	mei	1	m ei
+065/105	NA	NA	-
+065/107	mei	1	m ei
+065/109	mei	1	m ei
+065/111	mei	1	m ei
+065/113	NA	NA	-
+065/115	mei	1	m ei
+065/121	mai	1	m ai
+065/123	mei	1	m ei
+065/137	mei	1	m ei
+065/139	mei	1	m ei
+065/143	mei	1	m ei
+065/145	mei	1	m ei
+065/147	mei	1	m ei
+065/149	mei	1	m ei
+065/151	mei	1	m ei
+065/153	mei	1	m ei
+065/155	mei	1	m ei
+065/157	mei	1	m ei
+065/159	mei	1	m ei
+066/021	me	1	m e
+066/023	me	1	m e
+066/025	me	1	m e
+066/027	meh	1	m eh
+066/029	meu	1	m eu
+066/031	meng	1	m e ng
+066/033	meih	1	m eih
+066/035	mei	1	m ei
+066/037	mei	1	m ei
+066/039	mei	1	m ei
+066/041	mei	1	m ei
+066/043	mei	1	m ei
+066/045	mei	1	m ei
+066/047	mai	1	m ai
+066/049	mei	1	m ei
+066/051	meih	1	m eih
+066/053	mei	1	m ei
+066/055	mei	1	m ei
+066/057	mai	1	m ai
+066/059	mei	1	m ei
+066/061	mei	1	m ei
+066/063	mei	1	m ei
+066/065	mei	1	m ei
+066/067	mei	1	m ei
+066/069	mei	1	m ei
+066/071	mei	1	m ei
+066/073	mei	1	m ei
+066/075	mei	1	m ei
+066/077	mei	1	m ei
+066/079	mei	1	m ei
+066/081	mei	1	m ei
+066/083	mei	1	m ei
+066/085	mei	1	m ei
+066/087	mei	1	m ei
+066/089	mei	1	m ei
+066/091	mei	1	m ei
+066/093	NA	NA	-
+066/095	mei	1	m ei
+066/097	mei	1	m ei
+066/099	NA	NA	-
+066/101	mei	1	m ei
+066/103	mei	1	m ei
+066/105	mei	1	m ei
+066/107	NA	NA	-
+066/109	mei	1	m ei
+066/111	mei	1	m ei
+066/113	mei	1	m ei
+066/121	mai	1	m ai
+066/139	mei	1	m ei
+066/143	mei	1	m ei
+066/145	mei	1	m ei
+066/147	mei	1	m ei
+066/149	mei	1	m ei
+066/151	mei	1	m ei
+066/153	mei	1	m ei
+066/155	mei	1	m ei
+066/157	mei	1	m ei
+066/159	mei	1	m ei
+066/161	mei	1	m ei
+066/163	mei	1	m ei
+067/021	meh	1	m eh
+067/023	meh	1	m eh
+067/025	mei	1	m ei
+067/027	mei	1	m ei
+067/029	mäi	1	m äi
+067/031	mei	1	m ei
+067/033	mei	1	m ei
+067/035	mei	1	m ei
+067/037	mei	1	m ei
+067/039	mei	1	m ei
+067/041	mai	1	m ai
+067/043	mei	1	m ei
+067/045	mei	1	m ei
+067/047	mei	1	m ei
+067/049	mei	1	m ei
+067/051	mei	1	m ei
+067/053	meih	1	m eih
+067/055	mei	1	m ei
+067/057	mai	1	m ai
+067/059	mei	1	m ei
+067/061	meu	1	m eu
+067/063	mei	1	m ei
+067/065	mei	1	m ei
+067/067	mei	1	m ei
+067/069	mei	1	m ei
+067/071	mei	1	m ei
+067/073	mei	1	m ei
+067/075	mei	1	m ei
+067/077	mei	1	m ei
+067/079	mei	1	m ei
+067/081	mei	1	m ei
+067/083	mei	1	m ei
+067/085	mei	1	m ei
+067/087	mei	1	m ei
+067/089	mei	1	m ei
+067/091	mei	1	m ei
+067/093	NA	NA	-
+067/095	mei	1	m ei
+067/097	mei	1	m ei
+067/099	maa	1	m aa
+067/101	maa	1	m aa
+067/103	ma	1	m a
+067/105	ma	1	m a
+067/107	mei	1	m ei
+067/109	mei	1	m ei
+067/111	mei	1	m ei
+067/113	mei	1	m ei
+067/143	mei	1	m ei
+067/145	mei	1	m ei
+067/147	mei	1	m ei
+067/149	mei	1	m ei
+067/151	mei	1	m ei
+067/153	mei	1	m ei
+067/155	mei	1	m ei
+067/157	mei	1	m ei
+067/159	mei	1	m ei
+067/161	mei	1	m ei
+067/163	mei	1	m ei
+067/165	mei	1	m ei
+067/177	mei	1	m ei
+068/021	me	1	m e
+068/023	mei	1	m ei
+068/025	mei	1	m ei
+068/027	meng	1	m e ng
+068/029	mei	1	m ei
+068/031	meu	1	m eu
+068/033	mäi	1	m äi
+068/035	meu	1	m eu
+068/037	meu	1	m eu
+068/039	mei	1	m ei
+068/041	mei	1	m ei
+068/043	mei	1	m ei
+068/045	mein	1	m ei n
+068/047	meij	1	m ei j
+068/049	mäui	1	m äui
+068/051	mai	1	m ai
+068/053	mei	1	m ei
+068/055	meih	1	m eih
+068/057	mai	1	m ai
+068/059	mei	1	m ei
+068/061	mei	1	m ei
+068/063	mei	1	m ei
+068/065	mei	1	m ei
+068/067	mei	1	m ei
+068/069	mei	1	m ei
+068/071	mei	1	m ei
+068/073	mei	1	m ei
+068/075	mei	1	m ei
+068/077	mei	1	m ei
+068/079	mei	1	m ei
+068/081	mei	1	m ei
+068/083	NA	NA	-
+068/085	meih	1	m eih
+068/087	mei	1	m ei
+068/089	mei	1	m ei
+068/091	mei	1	m ei
+068/093	ma	1	m a
+068/095	ma	1	m a
+068/097	NA	NA	-
+068/099	NA	NA	-
+068/101	ma	1	m a
+068/103	ma	1	m a
+068/105	ma	1	m a
+068/107	mei	1	m ei
+068/109	NA	NA	-
+068/111	mei	1	m ei
+068/145	mei	1	m ei
+068/147	mei	1	m ei
+068/149	mai	1	m ai
+068/151	mei	1	m ei
+068/153	mei	1	m ei
+068/155	mei	1	m ei
+068/157	mei	1	m ei
+068/159	mai	1	m ai
+068/161	mei	1	m ei
+068/165	mein	1	m ei n
+069/019	mengt	1	m e ng t
+069/023	menkt	1	m e n k t
+069/025	meu	1	m eu
+069/027	mäi	1	m äi
+069/029	mäi	1	m äi
+069/031	mei	1	m ei
+069/033	mäi	1	m äi
+069/035	mäi	1	m äi
+069/037	mäi	1	m äi
+069/039	mei	1	m ei
+069/041	mei	1	m ei
+069/043	mei	1	m ei
+069/045	mei	1	m ei
+069/047	mei	1	m ei
+069/049	mai	1	m ai
+069/051	mei	1	m ei
+069/053	mei	1	m ei
+069/055	mein	1	m ei n
+069/057	mei	1	m ei
+069/059	mei	1	m ei
+069/061	mei	1	m ei
+069/063	mei	1	m ei
+069/065	mei	1	m ei
+069/067	mei	1	m ei
+069/069	mei	1	m ei
+069/071	mei	1	m ei
+069/073	mei	1	m ei
+069/075	mei	1	m ei
+069/077	mei	1	m ei
+069/079	mei	1	m ei
+069/081	mei	1	m ei
+069/083	mei	1	m ei
+069/085	mei	1	m ei
+069/087	mei	1	m ei
+069/089	mei	1	m ei
+069/091	mei	1	m ei
+069/093	mein	1	m ei n
+069/095	ma	1	m a
+069/097	ma	1	m a
+069/099	ma	1	m a
+069/101	ma	1	m a
+069/103	ma	1	m a
+069/105	ma	1	m a
+069/107	mei	1	m ei
+069/109	mei	1	m ei
+069/111	mei	1	m ei
+069/147	mei	1	m ei
+069/149	mei	1	m ei
+069/151	mei	1	m ei
+069/153	mei	1	m ei
+069/157	mei	1	m ei
+069/159	mei	1	m ei
+069/161	NA	NA	-
+069/163	mei	1	m ei
+069/165	mein	1	m ei n
+070/019	mengt	1	m e ng t
+070/023	mei	1	m ei
+070/025	mei	1	m ei
+070/027	mei	1	m ei
+070/029	mei	1	m ei
+070/031	mei	1	m ei
+070/033	meu	1	m eu
+070/035	mei	1	m ei
+070/037	mei	1	m ei
+070/039	mei	1	m ei
+070/041	mein	1	m ei n
+070/043	mei	1	m ei
+070/045	mei	1	m ei
+070/047	mei	1	m ei
+070/049	mei	1	m ei
+070/051	mein	1	m ei n
+070/053	ma	1	m a
+070/055	mein	1	m ei n
+070/057	mei	1	m ei
+070/059	ma	1	m a
+070/061	mei	1	m ei
+070/063	NA	NA	-
+070/065	mei	1	m ei
+070/067	mei	1	m ei
+070/069	mei	1	m ei
+070/071	mei	1	m ei
+070/073	mei	1	m ei
+070/075	mei	1	m ei
+070/077	mei	1	m ei
+070/079	mei	1	m ei
+070/081	mei	1	m ei
+070/083	mei	1	m ei
+070/085	mei	1	m ei
+070/087	mei	1	m ei
+070/089	mei	1	m ei
+070/091	mai	1	m ai
+070/093	mai	1	m ai
+070/095	ma	1	m a
+070/097	ma	1	m a
+070/099	ma	1	m a
+070/101	ma	1	m a
+070/103	ma	1	m a
+070/105	ma	1	m a
+070/107	ma	1	m a
+070/109	mei	1	m ei
+070/111	mei	1	m ei
+070/145	mei	1	m ei
+070/147	mei	1	m ei
+070/149	mei	1	m ei
+070/151	mei	1	m ei
+070/153	mei	1	m ei
+070/155	maee	1	m aee
+070/157	mei	1	m ei
+070/159	mei	1	m ei
+070/161	mei	1	m ei
+070/163	mei	1	m ei
+070/165	mai	1	m ai
+071/017	mengt	1	m e ng t
+071/019	mengt	1	m e ng t
+071/021	mei	1	m ei
+071/023	mei	1	m ei
+071/025	mäi	1	m äi
+071/027	mäi	1	m äi
+071/029	mei	1	m ei
+071/031	mei	1	m ei
+071/033	mei	1	m ei
+071/035	mäi	1	m äi
+071/037	mei	1	m ei
+071/039	mei	1	m ei
+071/041	mei	1	m ei
+071/043	mei	1	m ei
+071/045	mei	1	m ei
+071/047	mein	1	m ei n
+071/049	mei	1	m ei
+071/051	NA	NA	-
+071/053	mai	1	m ai
+071/055	meing	1	m ei ng
+071/057	ma	1	m a
+071/059	ma	1	m a
+071/063	mei	1	m ei
+071/065	mei	1	m ei
+071/067	mei	1	m ei
+071/069	mei	1	m ei
+071/071	mei	1	m ei
+071/073	mei	1	m ei
+071/075	mei	1	m ei
+071/077	mei	1	m ei
+071/079	mei	1	m ei
+071/081	mei	1	m ei
+071/083	mei	1	m ei
+071/085	mei	1	m ei
+071/087	mei	1	m ei
+071/089	ma	1	m a
+071/091	ma	1	m a
+071/093	maöi	1	m aöi
+071/095	ma	1	m a
+071/097	mei	1	m ei
+071/099	ma	1	m a
+071/101	ma	1	m a
+071/103	ma	1	m a
+071/105	ma	1	m a
+071/145	mei	1	m ei
+071/147	mei	1	m ei
+071/149	mei	1	m ei
+071/151	mei	1	m ei
+071/153	mei	1	m ei
+071/155	mei	1	m ei
+071/157	mei	1	m ei
+071/159	mei	1	m ei
+071/161	mei	1	m ei
+071/163	mei	1	m ei
+071/177	mei	1	m ei
+071/179	mein	1	m ei n
+072/017	mei	1	m ei
+072/019	menkt	1	m e n k t
+072/021	mengt	1	m e ng t
+072/023	mei	1	m ei
+072/025	mei	1	m ei
+072/027	mäin	1	m äi n
+072/029	mei	1	m ei
+072/031	mei	1	m ei
+072/033	mäi	1	m äi
+072/035	mai	1	m ai
+072/037	mäi	1	m äi
+072/039	mei	1	m ei
+072/041	mei	1	m ei
+072/043	mei	1	m ei
+072/045	mei	1	m ei
+072/047	mei	1	m ei
+072/049	mei	1	m ei
+072/051	mein	1	m ei n
+072/053	mei	1	m ei
+072/055	mei	1	m ei
+072/057	mei	1	m ei
+072/059	ma	1	m a
+072/061	mei	1	m ei
+072/063	mei	1	m ei
+072/065	mai	1	m ai
+072/067	mei	1	m ei
+072/069	mei	1	m ei
+072/071	mei	1	m ei
+072/073	mei	1	m ei
+072/075	mei	1	m ei
+072/077	mei	1	m ei
+072/079	mei	1	m ei
+072/081	mei	1	m ei
+072/083	mai	1	m ai
+072/085	mei	1	m ei
+072/087	mei	1	m ei
+072/089	mei	1	m ei
+072/091	ma	1	m a
+072/093	mei	1	m ei
+072/095	mei	1	m ei
+072/097	ma	1	m a
+072/099	ma	1	m a
+072/101	NA	NA	-
+072/103	ma	1	m a
+072/105	ma	1	m a
+072/107	ma	1	m a
+072/145	mei	1	m ei
+072/147	mei	1	m ei
+072/149	maj	1	m a j
+072/151	meei	1	m eei
+072/153	mei	1	m ei
+072/155	mei	1	m ei
+072/157	mei	1	m ei
+072/159	mei	1	m ei
+072/161	mei	1	m ei
+072/177	mej	1	m e j
+072/179	mei	1	m ei
+072/181	mei	1	m ei
+073/017	mengt	1	m e ng t
+073/019	mi	1	m i
+073/021	meii	1	m eii
+073/023	mäi	1	m äi
+073/025	mäi	1	m äi
+073/027	mei	1	m ei
+073/029	mei	1	m ei
+073/031	mei	1	m ei
+073/033	mei	1	m ei
+073/035	mäi	1	m äi
+073/037	mei	1	m ei
+073/039	mei	1	m ei
+073/041	mei	1	m ei
+073/043	mei	1	m ei
+073/045	mei	1	m ei
+073/047	mein	1	m ei n
+073/049	mein	1	m ei n
+073/051	mei	1	m ei
+073/053	mei	1	m ei
+073/055	mei	1	m ei
+073/057	mei	1	m ei
+073/059	ma	1	m a
+073/061	ma	1	m a
+073/063	mei	1	m ei
+073/065	mei	1	m ei
+073/067	NA	NA	-
+073/069	mei	1	m ei
+073/071	mei	1	m ei
+073/073	mei	1	m ei
+073/075	mei	1	m ei
+073/077	mei	1	m ei
+073/079	mei	1	m ei
+073/081	mei	1	m ei
+073/083	mei	1	m ei
+073/085	mei	1	m ei
+073/087	mei	1	m ei
+073/089	mei	1	m ei
+073/091	mein	1	m ei n
+073/093	ma	1	m a
+073/095	ma	1	m a
+073/097	mei	1	m ei
+073/099	ma	1	m a
+073/101	ma	1	m a
+073/103	ma	1	m a
+073/105	ma	1	m a
+073/107	ma	1	m a
+073/145	mei	1	m ei
+073/147	mei	1	m ei
+073/149	mei	1	m ei
+073/151	mai	1	m ai
+073/153	mei	1	m ei
+073/155	mei	1	m ei
+073/157	mei	1	m ei
+073/159	mei	1	m ei
+073/161	mei	1	m ei
+073/163	mai	1	m ai
+073/165	mei	1	m ei
+073/175	mej	1	m e j
+073/177	mej	1	m e j
+074/019	mäi	1	m äi
+074/021	mei	1	m ei
+074/023	mei	1	m ei
+074/025	mei	1	m ei
+074/027	mei	1	m ei
+074/029	mai	1	m ai
+074/031	meei	1	m eei
+074/033	mei	1	m ei
+074/035	mei	1	m ei
+074/037	mei	1	m ei
+074/039	mei	1	m ei
+074/041	mein	1	m ei n
+074/043	mei	1	m ei
+074/045	mei	1	m ei
+074/047	mei	1	m ei
+074/049	meu	1	m eu
+074/051	mei	1	m ei
+074/053	mei	1	m ei
+074/055	mei	1	m ei
+074/057	mei	1	m ei
+074/059	mei	1	m ei
+074/061	ma	1	m a
+074/063	mei	1	m ei
+074/065	mei	1	m ei
+074/067	mei	1	m ei
+074/069	mei	1	m ei
+074/071	mei	1	m ei
+074/073	mei	1	m ei
+074/075	mei	1	m ei
+074/077	mei	1	m ei
+074/079	mei	1	m ei
+074/081	mei	1	m ei
+074/083	mei	1	m ei
+074/085	meii	1	m eii
+074/087	mein	1	m ei n
+074/089	NA	NA	-
+074/091	mei	1	m ei
+074/093	meii	1	m eii
+074/095	mei	1	m ei
+074/097	mei	1	m ei
+074/099	NA	NA	-
+074/101	ma	1	m a
+074/103	ma	1	m a
+074/105	ma	1	m a
+074/107	ma	1	m a
+074/109	ma	1	m a
+074/145	mei	1	m ei
+074/147	ma	1	m a
+074/149	maa	1	m aa
+074/153	mei	1	m ei
+074/155	mei	1	m ei
+074/157	mei	1	m ei
+074/159	mei	1	m ei
+074/161	mai	1	m ai
+074/163	mei	1	m ei
+074/165	mei	1	m ei
+075/019	mei	1	m ei
+075/021	mei	1	m ei
+075/023	mei	1	m ei
+075/025	mein	1	m ei n
+075/027	mei	1	m ei
+075/029	mei	1	m ei
+075/031	meih	1	m eih
+075/033	mei	1	m ei
+075/035	mäi	1	m äi
+075/037	mei	1	m ei
+075/039	mei	1	m ei
+075/041	mei	1	m ei
+075/043	mei	1	m ei
+075/045	mei	1	m ei
+075/047	mei	1	m ei
+075/049	mei	1	m ei
+075/051	mein	1	m ei n
+075/053	mei	1	m ei
+075/055	mai	1	m ai
+075/057	mei	1	m ei
+075/059	NA	NA	-
+075/061	ma	1	m a
+075/063	mei	1	m ei
+075/065	mei	1	m ei
+075/067	mei	1	m ei
+075/069	mei	1	m ei
+075/071	mei	1	m ei
+075/073	mei	1	m ei
+075/075	ma	1	m a
+075/077	mei	1	m ei
+075/079	mei	1	m ei
+075/081	mei	1	m ei
+075/083	mei	1	m ei
+075/085	mei	1	m ei
+075/087	ma	1	m a
+075/089	mei	1	m ei
+075/091	NA	NA	-
+075/093	man	1	m a n
+075/095	mei	1	m ei
+075/097	mei	1	m ei
+075/099	ma	1	m a
+075/101	ma	1	m a
+075/103	ma	1	m a
+075/105	ma	1	m a
+075/107	ma	1	m a
+075/135	maj	1	m a j
+075/145	mei	1	m ei
+075/147	mei	1	m ei
+075/149	mai	1	m ai
+075/155	mei	1	m ei
+075/157	mei	1	m ei
+075/159	mei	1	m ei
+075/161	mei	1	m ei
+075/163	mei	1	m ei
+075/165	mai	1	m ai
+076/019	mei	1	m ei
+076/021	mei	1	m ei
+076/023	mei	1	m ei
+076/025	mei	1	m ei
+076/027	mei	1	m ei
+076/029	mä	1	m ä
+076/033	mei	1	m ei
+076/035	mei	1	m ei
+076/037	mei	1	m ei
+076/039	mei	1	m ei
+076/041	mei	1	m ei
+076/043	mai	1	m ai
+076/045	mei	1	m ei
+076/047	mei	1	m ei
+076/049	mei	1	m ei
+076/051	mai	1	m ai
+076/053	ma	1	m a
+076/055	mei	1	m ei
+076/057	me	1	m e
+076/059	mei	1	m ei
+076/061	mei	1	m ei
+076/063	me	1	m e
+076/065	mei	1	m ei
+076/067	mä	1	m ä
+076/069	ma	1	m a
+076/071	NA	NA	-
+076/073	mei	1	m ei
+076/075	mei	1	m ei
+076/077	mei	1	m ei
+076/079	mei	1	m ei
+076/081	mei	1	m ei
+076/083	mei	1	m ei
+076/085	NA	NA	-
+076/087	mei	1	m ei
+076/089	NA	NA	-
+076/091	ma	1	m a
+076/093	mei	1	m ei
+076/095	mei	1	m ei
+076/097	mei	1	m ei
+076/099	mei	1	m ei
+076/101	mei	1	m ei
+076/103	ma	1	m a
+076/135	mei	1	m ei
+076/137	mai	1	m ai
+076/149	mei	1	m ei
+076/151	mai	1	m ai
+076/155	mei	1	m ei
+076/161	mei	1	m ei
+076/163	mei	1	m ei
+076/165	mein	1	m ei n
+077/019	mein	1	m ei n
+077/021	mei	1	m ei
+077/023	mei	1	m ei
+077/025	mei	1	m ei
+077/027	mei	1	m ei
+077/029	mei	1	m ei
+077/031	mein	1	m ei n
+077/033	mei	1	m ei
+077/035	mei	1	m ei
+077/037	mei	1	m ei
+077/039	mei	1	m ei
+077/041	mei	1	m ei
+077/043	mei	1	m ei
+077/047	mei	1	m ei
+077/049	NA	NA	-
+077/051	ma	1	m a
+077/053	mai	1	m ai
+077/055	NA	NA	-
+077/057	mei	1	m ei
+077/059	mei	1	m ei
+077/061	mei	1	m ei
+077/063	me	1	m e
+077/065	ma	1	m a
+077/067	mai	1	m ai
+077/069	mä	1	m ä
+077/071	mei	1	m ei
+077/073	NA	NA	-
+077/075	mei	1	m ei
+077/077	mei	1	m ei
+077/079	mei	1	m ei
+077/081	mei	1	m ei
+077/083	mei	1	m ei
+077/085	ma	1	m a
+077/087	ma	1	m a
+077/089	mei	1	m ei
+077/091	mei	1	m ei
+077/093	mei	1	m ei
+077/095	mei	1	m ei
+077/097	mei	1	m ei
+077/099	mei	1	m ei
+077/101	ma	1	m a
+077/103	ma	1	m a
+077/135	mei	1	m ei
+077/137	mei	1	m ei
+078/021	mei	1	m ei
+078/023	mei	1	m ei
+078/025	mei	1	m ei
+078/027	mei	1	m ei
+078/029	mei	1	m ei
+078/031	mei	1	m ei
+078/033	mei	1	m ei
+078/035	mei	1	m ei
+078/037	mei	1	m ei
+078/039	mei	1	m ei
+078/041	mein	1	m ei n
+078/045	ma	1	m a
+078/047	mei	1	m ei
+078/049	mei	1	m ei
+078/051	mei	1	m ei
+078/053	mei	1	m ei
+078/055	mar	1	m a r
+078/057	mei	1	m ei
+078/059	mäi	1	m äi
+078/061	mai	1	m ai
+078/063	mei	1	m ei
+078/065	mei	1	m ei
+078/067	mä	1	m ä
+078/069	ma	1	m a
+078/071	mei	1	m ei
+078/073	ma	1	m a
+078/075	mei	1	m ei
+078/077	NA	NA	-
+078/079	mei	1	m ei
+078/081	mei	1	m ei
+078/083	mei	1	m ei
+078/085	NA	NA	-
+078/087	ma	1	m a
+078/089	meii	1	m eii
+078/091	mei	1	m ei
+078/093	mei	1	m ei
+078/095	mei	1	m ei
+078/097	mei	1	m ei
+078/099	NA	NA	-
+078/101	NA	NA	-
+078/103	mei	1	m ei
+078/105	ma	1	m a
+078/135	mei	1	m ei
+078/193	mej	1	m e j
+079/021	mei	1	m ei
+079/023	mei	1	m ei
+079/025	mei	1	m ei
+079/027	mei	1	m ei
+079/029	mei	1	m ei
+079/031	mei	1	m ei
+079/033	mei	1	m ei
+079/035	maä	1	m aä
+079/037	mein	1	m ei n
+079/039	mein	1	m ei n
+079/043	mei	1	m ei
+079/045	mei	1	m ei
+079/047	NA	NA	-
+079/049	mei	1	m ei
+079/051	mei	1	m ei
+079/053	mei	1	m ei
+079/055	mei	1	m ei
+079/057	mei	1	m ei
+079/059	mei	1	m ei
+079/061	ma	1	m a
+079/063	ma	1	m a
+079/065	NA	NA	-
+079/067	ma	1	m a
+079/069	mei	1	m ei
+079/071	mein	1	m ei n
+079/073	mei	1	m ei
+079/075	mei	1	m ei
+079/077	mei	1	m ei
+079/079	mäi	1	m äi
+079/081	mei	1	m ei
+079/083	ma	1	m a
+079/085	mei	1	m ei
+079/087	mei	1	m ei
+079/089	ma	1	m a
+079/091	mai	1	m ai
+079/093	mei	1	m ei
+079/095	mei	1	m ei
+079/097	mei	1	m ei
+079/099	mei	1	m ei
+079/101	ma	1	m a
+079/103	mei	1	m ei
+079/105	mei	1	m ei
+079/107	mei	1	m ei
+079/133	maj	1	m a j
+079/135	mei	1	m ei
+079/193	mai	1	m ai
+079/195	main	1	m ai n
+079/197	mein	1	m ei n
+080/025	mäi	1	m äi
+080/027	min	1	m i n
+080/029	mei	1	m ei
+080/031	mei	1	m ei
+080/033	min	1	m i n
+080/035	mei	1	m ei
+080/037	mei	1	m ei
+080/039	mei	1	m ei
+080/041	mein	1	m ei n
+080/043	mei	1	m ei
+080/045	mein	1	m ei n
+080/047	mei	1	m ei
+080/049	mein	1	m ei n
+080/051	mai	1	m ai
+080/053	mei	1	m ei
+080/055	mei	1	m ei
+080/057	mei	1	m ei
+080/059	ma	1	m a
+080/061	NA	NA	-
+080/063	mei	1	m ei
+080/065	mei	1	m ei
+080/067	NA	NA	-
+080/069	ma	1	m a
+080/071	mei	1	m ei
+080/073	mei	1	m ei
+080/075	mei	1	m ei
+080/077	mei	1	m ei
+080/079	mei	1	m ei
+080/081	mei	1	m ei
+080/083	mai	1	m ai
+080/085	NA	NA	-
+080/087	mei	1	m ei
+080/089	ma	1	m a
+080/091	mei	1	m ei
+080/093	mei	1	m ei
+080/095	mei	1	m ei
+080/097	mei	1	m ei
+080/099	mä	1	m ä
+080/101	mä	1	m ä
+080/103	mei	1	m ei
+080/105	mei	1	m ei
+080/107	mei	1	m ei
+080/109	mei	1	m ei
+080/127	mei	1	m ei
+080/147	mei	1	m ei
+080/151	mai	1	m ai
+080/153	mä	1	m ä
+080/193	mein	1	m ei n
+080/195	main	1	m ai n
+081/025	min	1	m i n
+081/027	min	1	m i n
+081/029	min	1	m i n
+081/031	mi	1	m i
+081/033	min	1	m i n
+081/035	min	1	m i n
+081/037	min	1	m i n
+081/039	mein	1	m ei n
+081/043	mei	1	m ei
+081/045	mein	1	m ei n
+081/047	mei	1	m ei
+081/049	mei	1	m ei
+081/051	NA	NA	-
+081/053	mei	1	m ei
+081/055	mei	1	m ei
+081/057	mei	1	m ei
+081/059	mei	1	m ei
+081/061	main	1	m ai n
+081/063	NA	NA	-
+081/065	ma	1	m a
+081/067	ma	1	m a
+081/069	mai	1	m ai
+081/071	NA	NA	-
+081/073	mei	1	m ei
+081/075	mei	1	m ei
+081/077	mei	1	m ei
+081/079	mein	1	m ei n
+081/081	mai	1	m ai
+081/083	mei	1	m ei
+081/085	NA	NA	-
+081/087	ma	1	m a
+081/089	ma	1	m a
+081/091	mei	1	m ei
+081/093	mei	1	m ei
+081/095	NA	NA	-
+081/097	mei	1	m ei
+081/099	mei	1	m ei
+081/101	mei	1	m ei
+081/103	mei	1	m ei
+081/105	mei	1	m ei
+081/107	mei	1	m ei
+081/109	mei	1	m ei
+081/111	mei	1	m ei
+081/127	mei	1	m ei
+081/129	mei	1	m ei
+081/133	mei	1	m ei
+081/147	mei	1	m ei
+081/191	maien	1	m aie n
+081/193	NA	NA	-
+081/195	mai	1	m ai
+082/027	min	1	m i n
+082/029	min	1	m i n
+082/031	min	1	m i n
+082/033	min	1	m i n
+082/035	min	1	m i n
+082/037	minn	1	m i nn
+082/039	mi	1	m i
+082/041	min	1	m i n
+082/043	NA	NA	-
+082/045	NA	NA	-
+082/047	mei	1	m ei
+082/049	mein	1	m ei n
+082/051	mei	1	m ei
+082/053	NA	NA	-
+082/055	mei	1	m ei
+082/057	mei	1	m ei
+082/059	mei	1	m ei
+082/061	mei	1	m ei
+082/063	NA	NA	-
+082/065	mei	1	m ei
+082/067	mei	1	m ei
+082/069	NA	NA	-
+082/071	mei	1	m ei
+082/073	mei	1	m ei
+082/075	mei	1	m ei
+082/077	mei	1	m ei
+082/079	mei	1	m ei
+082/081	mei	1	m ei
+082/083	mei	1	m ei
+082/085	mei	1	m ei
+082/087	mei	1	m ei
+082/089	mein	1	m ei n
+082/091	mei	1	m ei
+082/093	mei	1	m ei
+082/095	mei	1	m ei
+082/097	mei	1	m ei
+082/099	mei	1	m ei
+082/101	mei	1	m ei
+082/103	NA	NA	-
+082/105	mai	1	m ai
+082/107	mei	1	m ei
+082/111	ma	1	m a
+082/113	mei	1	m ei
+082/117	mei	1	m ei
+082/129	mei	1	m ei
+082/131	mei	1	m ei
+082/133	main	1	m ai n
+082/135	mai	1	m ai
+082/145	mei	1	m ei
+082/147	mei	1	m ei
+082/191	main	1	m ai n
+082/195	mein	1	m ei n
+083/027	mi	1	m i
+083/029	mi	1	m i
+083/031	minn	1	m i nn
+083/033	minn	1	m i nn
+083/035	mien	1	m ie n
+083/037	minn	1	m i nn
+083/039	mie	1	m ie
+083/041	min	1	m i n
+083/043	mein	1	m ei n
+083/045	mein	1	m ei n
+083/047	mei	1	m ei
+083/049	NA	NA	-
+083/051	mei	1	m ei
+083/053	mei	1	m ei
+083/055	mei	1	m ei
+083/057	NA	NA	-
+083/059	mae	1	m ae
+083/061	mae	1	m ae
+083/063	mei	1	m ei
+083/065	mei	1	m ei
+083/067	mei	1	m ei
+083/069	mae	1	m ae
+083/071	mae	1	m ae
+083/073	o	1	o
+083/075	mei	1	m ei
+083/077	mei	1	m ei
+083/079	ma	1	m a
+083/081	mein	1	m ei n
+083/083	mei	1	m ei
+083/085	mei	1	m ei
+083/087	mai	1	m ai
+083/089	mei	1	m ei
+083/091	mei	1	m ei
+083/093	mei	1	m ei
+083/095	mei	1	m ei
+083/097	mei	1	m ei
+083/099	mei	1	m ei
+083/101	mei	1	m ei
+083/103	mei	1	m ei
+083/105	mei	1	m ei
+083/107	mein	1	m ei n
+083/111	mei	1	m ei
+083/113	mei	1	m ei
+083/115	mo	1	m o
+083/117	NA	NA	-
+083/119	mei	1	m ei
+083/121	mei	1	m ei
+083/129	mei	1	m ei
+083/131	mai	1	m ai
+083/133	mei	1	m ei
+083/135	mei	1	m ei
+083/139	mei	1	m ei
+083/143	ma	1	m a
+083/145	mei	1	m ei
+083/147	mein	1	m ei n
+083/149	mei	1	m ei
+083/173	mae	1	m ae
+083/195	mein	1	m ei n
+084/031	minn	1	m i nn
+084/033	min	1	m i n
+084/035	minn	1	m i nn
+084/037	min	1	m i n
+084/039	min	1	m i n
+084/041	min	1	m i n
+084/043	mien	1	m ie n
+084/045	min	1	m i n
+084/047	mei	1	m ei
+084/049	mei	1	m ei
+084/051	mei	1	m ei
+084/053	mei	1	m ei
+084/055	mei	1	m ei
+084/057	mai	1	m ai
+084/059	mei	1	m ei
+084/061	mei	1	m ei
+084/063	mei	1	m ei
+084/065	mae	1	m ae
+084/067	mae	1	m ae
+084/069	mei	1	m ei
+084/071	mei	1	m ei
+084/073	mei	1	m ei
+084/075	mei	1	m ei
+084/077	mei	1	m ei
+084/079	mei	1	m ei
+084/081	mei	1	m ei
+084/083	mei	1	m ei
+084/085	mei	1	m ei
+084/087	mei	1	m ei
+084/089	mei	1	m ei
+084/091	NA	NA	-
+084/093	mei	1	m ei
+084/095	mei	1	m ei
+084/097	mei	1	m ei
+084/099	mei	1	m ei
+084/101	mei	1	m ei
+084/103	ma	1	m a
+084/105	mei	1	m ei
+084/107	ma	1	m a
+084/109	mai	1	m ai
+084/111	mai	1	m ai
+084/113	ma	1	m a
+084/115	mei	1	m ei
+084/117	ma	1	m a
+084/119	ma	1	m a
+084/129	mai	1	m ai
+084/131	mei	1	m ei
+084/133	mei	1	m ei
+084/135	mei	1	m ei
+084/137	mei	1	m ei
+084/139	mei	1	m ei
+084/141	mei	1	m ei
+084/143	mei	1	m ei
+084/145	mei	1	m ei
+084/147	mei	1	m ei
+084/149	mei	1	m ei
+084/171	mai	1	m ai
+084/173	mae	1	m ae
+084/195	mei	1	m ei
+085/031	min	1	m i n
+085/033	mi	1	m i
+085/035	min	1	m i n
+085/037	min	1	m i n
+085/039	men	1	m e n
+085/041	min	1	m i n
+085/043	min	1	m i n
+085/045	min	1	m i n
+085/047	mei	1	m ei
+085/049	mi	1	m i
+085/051	NA	NA	-
+085/053	mae	1	m ae
+085/055	NA	NA	-
+085/057	mei	1	m ei
+085/059	NA	NA	-
+085/061	mäi	1	m äi
+085/063	mae	1	m ae
+085/065	NA	NA	-
+085/067	mae	1	m ae
+085/069	mai	1	m ai
+085/071	NA	NA	-
+085/073	mei	1	m ei
+085/075	mei	1	m ei
+085/077	mei	1	m ei
+085/079	mei	1	m ei
+085/081	mei	1	m ei
+085/083	mei	1	m ei
+085/085	mei	1	m ei
+085/087	mei	1	m ei
+085/089	mein	1	m ei n
+085/091	mei	1	m ei
+085/093	mei	1	m ei
+085/095	mei	1	m ei
+085/097	mei	1	m ei
+085/101	mei	1	m ei
+085/103	mei	1	m ei
+085/105	ha	1	h a
+085/107	mäi	1	m äi
+085/109	mei	1	m ei
+085/111	mein	1	m ei n
+085/113	mei	1	m ei
+085/115	meii	1	m eii
+085/117	ma	1	m a
+085/119	ma	1	m a
+085/121	mei	1	m ei
+085/123	mej	1	m e j
+085/125	NA	NA	-
+085/127	mei	1	m ei
+085/129	mei	1	m ei
+085/131	mei	1	m ei
+085/133	mei	1	m ei
+085/135	mei	1	m ei
+085/137	mei	1	m ei
+085/139	mei	1	m ei
+085/141	mei	1	m ei
+085/143	mei	1	m ei
+085/145	mei	1	m ei
+085/147	mei	1	m ei
+085/149	mai	1	m ai
+085/175	moi	1	m oi
+085/193	mae	1	m ae
+085/197	mae	1	m ae
+086/033	mi	1	m i
+086/035	min	1	m i n
+086/037	min	1	m i n
+086/039	min	1	m i n
+086/041	min	1	m i n
+086/043	min	1	m i n
+086/045	NA	NA	-
+086/047	ming	1	m i ng
+086/049	miä	1	m iä
+086/051	NA	NA	-
+086/053	mei	1	m ei
+086/055	mei	1	m ei
+086/057	mei	1	m ei
+086/059	NA	NA	-
+086/061	mei	1	m ei
+086/063	mai	1	m ai
+086/065	mae	1	m ae
+086/067	mei	1	m ei
+086/069	mei	1	m ei
+086/071	mei	1	m ei
+086/073	mei	1	m ei
+086/075	mei	1	m ei
+086/077	komm	1	k o mm
+086/079	mei	1	m ei
+086/081	mei	1	m ei
+086/083	mei	1	m ei
+086/085	mei	1	m ei
+086/087	mei	1	m ei
+086/089	mei	1	m ei
+086/091	mei	1	m ei
+086/093	mei	1	m ei
+086/095	mei	1	m ei
+086/097	mei	1	m ei
+086/099	mei	1	m ei
+086/101	mei	1	m ei
+086/103	mei	1	m ei
+086/105	mei	1	m ei
+086/107	mei	1	m ei
+086/109	mei	1	m ei
+086/111	mei	1	m ei
+086/113	mein	1	m ei n
+086/115	mei	1	m ei
+086/117	mei	1	m ei
+086/119	meij	1	m ei j
+086/121	mai	1	m ai
+086/123	mei	1	m ei
+086/125	mei	1	m ei
+086/127	mei	1	m ei
+086/129	mei	1	m ei
+086/131	mei	1	m ei
+086/133	mei	1	m ei
+086/135	mei	1	m ei
+086/137	mei	1	m ei
+086/139	mei	1	m ei
+086/141	mei	1	m ei
+086/143	mein	1	m ei n
+086/145	mein	1	m ei n
+086/147	mei	1	m ei
+086/149	mei	1	m ei
+086/151	mei	1	m ei
+086/175	mae	1	m ae
+086/197	mei	1	m ei
+086/199	mei	1	m ei
+087/033	mi	1	m i
+087/035	minn	1	m i nn
+087/037	minn	1	m i nn
+087/039	mi	1	m i
+087/041	min	1	m i n
+087/043	minn	1	m i nn
+087/045	mi	1	m i
+087/049	mei	1	m ei
+087/051	mae	1	m ae
+087/053	mei	1	m ei
+087/055	mei	1	m ei
+087/057	mae	1	m ae
+087/059	mei	1	m ei
+087/061	NA	NA	-
+087/063	mei	1	m ei
+087/065	mei	1	m ei
+087/067	mei	1	m ei
+087/069	NA	NA	-
+087/071	mai	1	m ai
+087/073	mei	1	m ei
+087/075	mei	1	m ei
+087/077	mei	1	m ei
+087/079	mei	1	m ei
+087/081	mei	1	m ei
+087/083	mei	1	m ei
+087/085	mei	1	m ei
+087/087	mei	1	m ei
+087/089	NA	NA	-
+087/091	mei	1	m ei
+087/093	mei	1	m ei
+087/095	mei	1	m ei
+087/097	mei	1	m ei
+087/099	mei	1	m ei
+087/101	mei	1	m ei
+087/103	meii	1	m eii
+087/105	mei	1	m ei
+087/107	mei	1	m ei
+087/109	NA	NA	-
+087/111	mei	1	m ei
+087/113	mei	1	m ei
+087/115	mei	1	m ei
+087/117	mei	1	m ei
+087/119	mei	1	m ei
+087/121	maai	1	m aai
+087/123	mei	1	m ei
+087/125	mei	1	m ei
+087/127	meing	1	m ei ng
+087/129	mei	1	m ei
+087/133	mein	1	m ei n
+087/135	mei	1	m ei
+087/137	mei	1	m ei
+087/139	mei	1	m ei
+087/141	mei	1	m ei
+087/143	mei	1	m ei
+087/145	meei	1	m eei
+087/147	mei	1	m ei
+087/149	mei	1	m ei
+087/151	mei	1	m ei
+088/035	mi	1	m i
+088/037	mi	1	m i
+088/039	mi	1	m i
+088/041	mi	1	m i
+088/043	NA	NA	-
+088/045	mi	1	m i
+088/047	mei	1	m ei
+088/049	NA	NA	-
+088/051	mei	1	m ei
+088/053	NA	NA	-
+088/055	mei	1	m ei
+088/057	NA	NA	-
+088/059	mei	1	m ei
+088/061	mei	1	m ei
+088/063	mei	1	m ei
+088/065	mei	1	m ei
+088/067	NA	NA	-
+088/069	mei	1	m ei
+088/071	mei	1	m ei
+088/073	mei	1	m ei
+088/075	mei	1	m ei
+088/077	mei	1	m ei
+088/079	mei	1	m ei
+088/081	mei	1	m ei
+088/083	mei	1	m ei
+088/085	mei	1	m ei
+088/087	mei	1	m ei
+088/089	mei	1	m ei
+088/091	mei	1	m ei
+088/093	mei	1	m ei
+088/095	mei	1	m ei
+088/097	mei	1	m ei
+088/099	mei	1	m ei
+088/101	mei	1	m ei
+088/103	mei	1	m ei
+088/105	mei	1	m ei
+088/107	mein	1	m ei n
+088/109	mein	1	m ei n
+088/113	mei	1	m ei
+088/115	mei	1	m ei
+088/117	mei	1	m ei
+088/121	mei	1	m ei
+088/123	mei	1	m ei
+088/127	mei	1	m ei
+088/129	mei	1	m ei
+088/131	mei	1	m ei
+088/137	mei	1	m ei
+088/139	me	1	m e
+088/141	mei	1	m ei
+088/143	mei	1	m ei
+088/145	mei	1	m ei
+088/147	mai	1	m ai
+088/149	mei	1	m ei
+089/035	mi	1	m i
+089/037	mi	1	m i
+089/039	mi	1	m i
+089/041	mi	1	m i
+089/043	min	1	m i n
+089/045	mi	1	m i
+089/047	mei	1	m ei
+089/049	mei	1	m ei
+089/051	mei	1	m ei
+089/053	NA	NA	-
+089/055	mei	1	m ei
+089/057	mei	1	m ei
+089/059	mei	1	m ei
+089/061	mei	1	m ei
+089/063	mei	1	m ei
+089/065	mei	1	m ei
+089/067	mai	1	m ai
+089/069	mei	1	m ei
+089/071	mei	1	m ei
+089/073	mai	1	m ai
+089/075	mei	1	m ei
+089/077	mei	1	m ei
+089/079	mei	1	m ei
+089/081	mei	1	m ei
+089/083	mei	1	m ei
+089/085	mei	1	m ei
+089/087	mein	1	m ei n
+089/089	mei	1	m ei
+089/091	mei	1	m ei
+089/093	mei	1	m ei
+089/095	mei	1	m ei
+089/097	mei	1	m ei
+089/099	mei	1	m ei
+089/101	mei	1	m ei
+089/103	NA	NA	-
+089/105	ma	1	m a
+089/107	mei	1	m ei
+089/109	mei	1	m ei
+089/111	mei	1	m ei
+089/113	mein	1	m ei n
+089/115	mei	1	m ei
+089/117	mei	1	m ei
+089/119	NA	NA	-
+089/121	mei	1	m ei
+089/123	mei	1	m ei
+089/125	mei	1	m ei
+089/127	mei	1	m ei
+089/129	mei	1	m ei
+089/131	mei	1	m ei
+089/133	mei	1	m ei
+089/135	mei	1	m ei
+089/137	mei	1	m ei
+089/139	mei	1	m ei
+089/141	mei	1	m ei
+089/143	mei	1	m ei
+089/145	mäi	1	m äi
+089/147	mei	1	m ei
+089/149	mei	1	m ei
+090/035	mi	1	m i
+090/037	mi	1	m i
+090/039	mi	1	m i
+090/041	mi	1	m i
+090/043	mi	1	m i
+090/045	mi	1	m i
+090/047	mi	1	m i
+090/049	mei	1	m ei
+090/051	mae	1	m ae
+090/053	mei	1	m ei
+090/055	mei	1	m ei
+090/057	mae	1	m ae
+090/059	mei	1	m ei
+090/061	mai	1	m ai
+090/063	mei	1	m ei
+090/065	mei	1	m ei
+090/067	mei	1	m ei
+090/069	mai	1	m ai
+090/071	mei	1	m ei
+090/073	mei	1	m ei
+090/075	mei	1	m ei
+090/077	mei	1	m ei
+090/079	mei	1	m ei
+090/081	mei	1	m ei
+090/083	mei	1	m ei
+090/085	mei	1	m ei
+090/087	mei	1	m ei
+090/089	mei	1	m ei
+090/091	mei	1	m ei
+090/093	mei	1	m ei
+090/095	mei	1	m ei
+090/097	mei	1	m ei
+090/099	mei	1	m ei
+090/101	mei	1	m ei
+090/103	mei	1	m ei
+090/105	mei	1	m ei
+090/107	mei	1	m ei
+090/109	mei	1	m ei
+090/111	mei	1	m ei
+090/113	NA	NA	-
+090/115	mei	1	m ei
+090/119	mei	1	m ei
+090/121	mei	1	m ei
+090/123	mei	1	m ei
+090/125	mei	1	m ei
+090/127	mei	1	m ei
+090/129	mei	1	m ei
+090/131	mei	1	m ei
+090/133	mai	1	m ai
+090/135	NA	NA	-
+090/137	mei	1	m ei
+090/139	mei	1	m ei
+090/141	mei	1	m ei
+090/143	mä	1	m ä
+090/145	mei	1	m ei
+090/147	mei	1	m ei
+090/149	mei	1	m ei
+090/151	mei	1	m ei
+091/035	mie	1	m ie
+091/037	mi	1	m i
+091/039	mi	1	m i
+091/041	mi	1	m i
+091/043	mi	1	m i
+091/045	mei	1	m ei
+091/047	mi	1	m i
+091/049	mai	1	m ai
+091/051	NA	NA	-
+091/053	mei	1	m ei
+091/055	mei	1	m ei
+091/057	mei	1	m ei
+091/059	mei	1	m ei
+091/061	mei	1	m ei
+091/063	mei	1	m ei
+091/065	mei	1	m ei
+091/067	mei	1	m ei
+091/069	mai	1	m ai
+091/071	mei	1	m ei
+091/073	mei	1	m ei
+091/075	mei	1	m ei
+091/077	mei	1	m ei
+091/079	mei	1	m ei
+091/081	mei	1	m ei
+091/083	mei	1	m ei
+091/085	mei	1	m ei
+091/087	mei	1	m ei
+091/091	mei	1	m ei
+091/093	mei	1	m ei
+091/095	mei	1	m ei
+091/097	mei	1	m ei
+091/099	mei	1	m ei
+091/101	mei	1	m ei
+091/103	mei	1	m ei
+091/105	NA	NA	-
+091/107	mei	1	m ei
+091/109	mei	1	m ei
+091/111	mei	1	m ei
+091/113	mei	1	m ei
+091/115	mei	1	m ei
+091/117	mei	1	m ei
+091/119	mei	1	m ei
+091/121	mei	1	m ei
+091/125	mei	1	m ei
+091/129	mei	1	m ei
+091/131	mei	1	m ei
+091/133	mei	1	m ei
+091/135	mei	1	m ei
+091/137	mei	1	m ei
+091/139	mei	1	m ei
+091/141	mei	1	m ei
+091/143	mei	1	m ei
+091/145	mei	1	m ei
+091/147	mei	1	m ei
+091/149	mei	1	m ei
+091/151	mai	1	m ai
+091/155	mai	1	m ai
+092/033	mi	1	m i
+092/035	NA	NA	-
+092/037	mi	1	m i
+092/039	mi	1	m i
+092/041	mi	1	m i
+092/043	mi	1	m i
+092/045	mi	1	m i
+092/047	mi	1	m i
+092/049	miie	1	m iie
+092/051	me	1	m e
+092/053	mei	1	m ei
+092/055	mei	1	m ei
+092/057	mei	1	m ei
+092/059	mai	1	m ai
+092/061	mei	1	m ei
+092/063	mei	1	m ei
+092/065	mei	1	m ei
+092/067	meii	1	m eii
+092/069	mei	1	m ei
+092/071	mei	1	m ei
+092/073	mei	1	m ei
+092/075	NA	NA	-
+092/077	mei	1	m ei
+092/079	mei	1	m ei
+092/081	mei	1	m ei
+092/083	mei	1	m ei
+092/085	mei	1	m ei
+092/087	mei	1	m ei
+092/089	mei	1	m ei
+092/091	mei	1	m ei
+092/093	mei	1	m ei
+092/095	mei	1	m ei
+092/097	mein	1	m ei n
+092/099	mei	1	m ei
+092/101	mei	1	m ei
+092/103	mei	1	m ei
+092/105	mei	1	m ei
+092/107	mein	1	m ei n
+092/109	mei	1	m ei
+092/111	mei	1	m ei
+092/113	mei	1	m ei
+092/115	mei	1	m ei
+092/117	mei	1	m ei
+092/119	mei	1	m ei
+092/121	mei	1	m ei
+092/123	mein	1	m ei n
+092/125	mei	1	m ei
+092/127	mei	1	m ei
+092/129	mei	1	m ei
+092/131	mei	1	m ei
+092/133	mei	1	m ei
+092/135	mäi	1	m äi
+092/137	mei	1	m ei
+092/139	mei	1	m ei
+092/141	mei	1	m ei
+092/143	mei	1	m ei
+092/145	mei	1	m ei
+092/147	mei	1	m ei
+092/149	mei	1	m ei
+092/151	mei	1	m ei
+093/035	mi	1	m i
+093/037	mi	1	m i
+093/039	mi	1	m i
+093/041	mi	1	m i
+093/043	mi	1	m i
+093/045	mii	1	m ii
+093/047	mi	1	m i
+093/049	mi	1	m i
+093/051	mii	1	m ii
+093/053	mi	1	m i
+093/055	mei	1	m ei
+093/057	mei	1	m ei
+093/059	mae	1	m ae
+093/061	mae	1	m ae
+093/063	mae	1	m ae
+093/065	mei	1	m ei
+093/067	mein	1	m ei n
+093/069	mei	1	m ei
+093/071	mei	1	m ei
+093/073	mei	1	m ei
+093/075	mei	1	m ei
+093/077	mei	1	m ei
+093/079	mei	1	m ei
+093/081	mei	1	m ei
+093/083	mei	1	m ei
+093/085	mei	1	m ei
+093/087	NA	NA	-
+093/089	mei	1	m ei
+093/091	mei	1	m ei
+093/093	mei	1	m ei
+093/095	mei	1	m ei
+093/097	mei	1	m ei
+093/099	mei	1	m ei
+093/101	mei	1	m ei
+093/103	mei	1	m ei
+093/105	mei	1	m ei
+093/109	mai	1	m ai
+093/111	mei	1	m ei
+093/113	mei	1	m ei
+093/115	mein	1	m ei n
+093/117	mai	1	m ai
+093/119	mai	1	m ai
+093/121	mei	1	m ei
+093/123	mei	1	m ei
+093/125	mei	1	m ei
+093/127	mai	1	m ai
+093/129	mei	1	m ei
+093/131	mein	1	m ei n
+093/133	mei	1	m ei
+093/137	mei	1	m ei
+093/139	mei	1	m ei
+093/143	mei	1	m ei
+093/145	mei	1	m ei
+093/147	mei	1	m ei
+093/149	mei	1	m ei
+093/151	mei	1	m ei
+093/153	mei	1	m ei
+093/155	mei	1	m ei
+094/033	NA	NA	-
+094/035	mi	1	m i
+094/037	mi	1	m i
+094/039	mi	1	m i
+094/041	mi	1	m i
+094/043	mi	1	m i
+094/045	mi	1	m i
+094/047	mi	1	m i
+094/049	mi	1	m i
+094/051	NA	NA	-
+094/053	mi	1	m i
+094/055	mei	1	m ei
+094/057	mei	1	m ei
+094/059	mei	1	m ei
+094/061	mei	1	m ei
+094/063	mei	1	m ei
+094/065	mei	1	m ei
+094/067	mein	1	m ei n
+094/069	mai	1	m ai
+094/071	mei	1	m ei
+094/073	mei	1	m ei
+094/075	NA	NA	-
+094/077	mei	1	m ei
+094/079	mei	1	m ei
+094/081	mei	1	m ei
+094/083	mei	1	m ei
+094/085	mei	1	m ei
+094/087	mei	1	m ei
+094/089	mei	1	m ei
+094/091	mei	1	m ei
+094/093	mei	1	m ei
+094/095	mei	1	m ei
+094/097	mei	1	m ei
+094/099	mei	1	m ei
+094/101	mei	1	m ei
+094/103	mai	1	m ai
+094/105	mei	1	m ei
+094/107	mei	1	m ei
+094/109	mei	1	m ei
+094/111	mei	1	m ei
+094/113	mei	1	m ei
+094/115	mei	1	m ei
+094/117	mein	1	m ei n
+094/119	mei	1	m ei
+094/121	mei	1	m ei
+094/123	mei	1	m ei
+094/125	mei	1	m ei
+094/127	mei	1	m ei
+094/129	mei	1	m ei
+094/131	mei	1	m ei
+094/133	mein	1	m ei n
+094/135	mei	1	m ei
+094/137	mei	1	m ei
+094/139	mei	1	m ei
+094/141	NA	NA	-
+094/143	mei	1	m ei
+094/145	NA	NA	-
+094/147	mai	1	m ai
+094/149	mei	1	m ei
+094/151	mei	1	m ei
+094/153	mei	1	m ei
+095/031	mi	1	m i
+095/033	mi	1	m i
+095/035	mi	1	m i
+095/037	mi	1	m i
+095/039	mi	1	m i
+095/041	mi	1	m i
+095/043	mei	1	m ei
+095/045	mi	1	m i
+095/047	mi	1	m i
+095/049	mi	1	m i
+095/051	me	1	m e
+095/053	mi	1	m i
+095/055	mei	1	m ei
+095/057	mei	1	m ei
+095/059	mei	1	m ei
+095/061	mei	1	m ei
+095/063	mai	1	m ai
+095/065	mei	1	m ei
+095/067	mei	1	m ei
+095/069	mei	1	m ei
+095/071	mai	1	m ai
+095/073	mei	1	m ei
+095/075	mei	1	m ei
+095/077	mei	1	m ei
+095/079	mei	1	m ei
+095/081	mei	1	m ei
+095/083	mei	1	m ei
+095/085	mei	1	m ei
+095/087	mei	1	m ei
+095/089	mei	1	m ei
+095/091	NA	NA	-
+095/093	mei	1	m ei
+095/095	mei	1	m ei
+095/097	mein	1	m ei n
+095/099	mei	1	m ei
+095/101	mei	1	m ei
+095/103	mei	1	m ei
+095/105	mei	1	m ei
+095/107	mei	1	m ei
+095/109	mei	1	m ei
+095/111	mein	1	m ei n
+095/113	ma	1	m a
+095/115	mei	1	m ei
+095/117	mei	1	m ei
+095/119	mei	1	m ei
+095/121	mei	1	m ei
+095/123	mei	1	m ei
+095/125	ma	1	m a
+095/129	meia	1	m eia
+095/131	mei	1	m ei
+095/133	mein	1	m ei n
+095/139	mei	1	m ei
+095/141	mei	1	m ei
+095/143	mei	1	m ei
+095/145	mei	1	m ei
+095/147	mei	1	m ei
+095/149	owa	1	o w a
+095/151	mei	1	m ei
+095/153	mei	1	m ei
+095/155	mei	1	m ei
+096/031	mi	1	m i
+096/033	mi	1	m i
+096/035	mi	1	m i
+096/037	mi	1	m i
+096/039	mi	1	m i
+096/041	mi	1	m i
+096/043	mi	1	m i
+096/045	mi	1	m i
+096/047	mi	1	m i
+096/049	mi	1	m i
+096/051	mi	1	m i
+096/053	mi	1	m i
+096/055	mi	1	m i
+096/057	mi	1	m i
+096/059	mai	1	m ai
+096/061	ming	1	m i ng
+096/063	ming	1	m i ng
+096/065	mai	1	m ai
+096/067	NA	NA	-
+096/069	mei	1	m ei
+096/071	mei	1	m ei
+096/075	mei	1	m ei
+096/077	mei	1	m ei
+096/079	mein	1	m ei n
+096/081	mei	1	m ei
+096/083	mei	1	m ei
+096/085	mein	1	m ei n
+096/087	meia	1	m eia
+096/089	mei	1	m ei
+096/091	mei	1	m ei
+096/093	mei	1	m ei
+096/095	mei	1	m ei
+096/097	mei	1	m ei
+096/099	mei	1	m ei
+096/101	mein	1	m ei n
+096/103	mei	1	m ei
+096/105	mei	1	m ei
+096/107	mein	1	m ei n
+096/109	mei	1	m ei
+096/111	mei	1	m ei
+096/113	mei	1	m ei
+096/115	mei	1	m ei
+096/117	mei	1	m ei
+096/119	mai	1	m ai
+096/121	mei	1	m ei
+096/123	main	1	m ai n
+096/125	mei	1	m ei
+096/129	mein	1	m ei n
+096/131	mei	1	m ei
+096/135	mei	1	m ei
+096/137	mei	1	m ei
+096/139	mei	1	m ei
+096/141	mei	1	m ei
+096/143	mei	1	m ei
+096/145	mei	1	m ei
+096/147	ma	1	m a
+096/151	mei	1	m ei
+096/153	mein	1	m ei n
+096/155	mei	1	m ei
+097/031	mi	1	m i
+097/033	mia	1	m ia
+097/035	mi	1	m i
+097/037	mi	1	m i
+097/039	mi	1	m i
+097/041	NA	NA	-
+097/043	mi	1	m i
+097/045	mi	1	m i
+097/047	mi	1	m i
+097/049	mi	1	m i
+097/051	mi	1	m i
+097/053	mi	1	m i
+097/055	mi	1	m i
+097/057	mi	1	m i
+097/059	mi	1	m i
+097/061	ming	1	m i ng
+097/063	ming	1	m i ng
+097/065	ming	1	m i ng
+097/067	mai	1	m ai
+097/069	mei	1	m ei
+097/071	mei	1	m ei
+097/073	NA	NA	-
+097/075	mei	1	m ei
+097/077	mei	1	m ei
+097/079	mei	1	m ei
+097/081	NA	NA	-
+097/083	mei	1	m ei
+097/085	mei	1	m ei
+097/087	mei	1	m ei
+097/089	mai	1	m ai
+097/091	mai	1	m ai
+097/093	mai	1	m ai
+097/095	mei	1	m ei
+097/097	NA	NA	-
+097/099	mei	1	m ei
+097/103	mei	1	m ei
+097/105	mei	1	m ei
+097/107	du	1	d u
+097/109	mei	1	m ei
+097/113	mei	1	m ei
+097/125	mein	1	m ei n
+097/131	mei	1	m ei
+097/133	mei	1	m ei
+097/139	mei	1	m ei
+097/141	mei	1	m ei
+097/143	mein	1	m ei n
+097/145	mei	1	m ei
+097/149	mei	1	m ei
+097/153	mei	1	m ei
+098/033	mi	1	m i
+098/035	mi	1	m i
+098/037	mi	1	m i
+098/039	mi	1	m i
+098/041	mi	1	m i
+098/043	mi	1	m i
+098/045	mi	1	m i
+098/047	NA	NA	-
+098/049	mi	1	m i
+098/051	mi	1	m i
+098/053	mi	1	m i
+098/055	mi	1	m i
+098/057	mi	1	m i
+098/059	mi	1	m i
+098/061	mi	1	m i
+098/063	ming	1	m i ng
+098/065	mi	1	m i
+098/067	mi	1	m i
+098/069	ming	1	m i ng
+098/071	mi	1	m i
+098/073	mei	1	m ei
+098/075	mei	1	m ei
+098/077	mai	1	m ai
+098/079	NA	NA	-
+098/081	NA	NA	-
+098/083	NA	NA	-
+098/085	mei	1	m ei
+098/087	maö	1	m aö
+098/089	mei	1	m ei
+098/091	mei	1	m ei
+098/093	mei	1	m ei
+098/095	mei	1	m ei
+098/097	NA	NA	-
+098/103	mei	1	m ei
+098/105	mei	1	m ei
+098/107	mei	1	m ei
+098/109	mei	1	m ei
+098/111	mei	1	m ei
+098/119	mei	1	m ei
+098/123	mei	1	m ei
+098/125	mei	1	m ei
+098/127	mei	1	m ei
+098/135	mei	1	m ei
+098/137	mei	1	m ei
+098/139	mei	1	m ei
+098/141	mei	1	m ei
+098/143	mei	1	m ei
+098/145	mei	1	m ei
+098/147	mei	1	m ei
+098/149	mei	1	m ei
+098/151	mei	1	m ei
+099/033	mi	1	m i
+099/035	mi	1	m i
+099/037	mi	1	m i
+099/039	mi	1	m i
+099/041	mi	1	m i
+099/043	mie	1	m ie
+099/045	mi	1	m i
+099/047	mi	1	m i
+099/049	mi	1	m i
+099/051	NA	NA	-
+099/053	NA	NA	-
+099/055	mi	1	m i
+099/057	mi	1	m i
+099/059	mi	1	m i
+099/063	mei	1	m ei
+099/065	mii	1	m ii
+099/067	mi	1	m i
+099/069	ming	1	m i ng
+099/071	mei	1	m ei
+099/073	mei	1	m ei
+099/075	mei	1	m ei
+099/077	mei	1	m ei
+099/081	mei	1	m ei
+099/083	mei	1	m ei
+099/085	mei	1	m ei
+099/089	mei	1	m ei
+099/093	mei	1	m ei
+099/095	mei	1	m ei
+099/099	mei	1	m ei
+099/101	mein	1	m ei n
+099/103	NA	NA	-
+099/105	mei	1	m ei
+099/107	ma	1	m a
+099/109	ma	1	m a
+099/111	ma	1	m a
+099/113	mein	1	m ei n
+099/121	NA	NA	-
+099/123	mei	1	m ei
+099/125	mei	1	m ei
+099/131	mei	1	m ei
+099/137	mei	1	m ei
+099/139	mei	1	m ei
+099/141	mei	1	m ei
+099/143	mei	1	m ei
+099/145	mei	1	m ei
+099/147	mei	1	m ei
+100/033	mi	1	m i
+100/035	mi	1	m i
+100/037	mi	1	m i
+100/039	NA	NA	-
+100/041	mi	1	m i
+100/043	NA	NA	-
+100/045	mi	1	m i
+100/049	NA	NA	-
+100/051	mii	1	m ii
+100/053	mi	1	m i
+100/055	mi	1	m i
+100/057	mi	1	m i
+100/059	du	1	d u
+100/061	NA	NA	-
+100/065	mi	1	m i
+100/067	mi	1	m i
+100/069	ming	1	m i ng
+100/071	ming	1	m i ng
+100/073	mei	1	m ei
+100/075	mei	1	m ei
+100/077	mei	1	m ei
+100/081	mei	1	m ei
+100/083	mei	1	m ei
+100/089	mei	1	m ei
+100/093	mei	1	m ei
+100/095	mei	1	m ei
+100/097	mei	1	m ei
+100/099	mei	1	m ei
+100/101	mei	1	m ei
+100/109	mei	1	m ei
+100/111	mei	1	m ei
+100/113	mei	1	m ei
+100/115	mei	1	m ei
+100/117	mei	1	m ei
+100/119	mei	1	m ei
+100/121	mein	1	m ei n
+100/125	mei	1	m ei
+100/127	mei	1	m ei
+100/129	NA	NA	-
+100/133	du	1	d u
+100/135	mei	1	m ei
+100/141	mei	1	m ei
+100/143	mei	1	m ei
+100/145	mai	1	m ai
+101/035	mi	1	m i
+101/037	mi	1	m i
+101/039	my	1	m y
+101/041	mi	1	m i
+101/043	du	1	d u
+101/045	mi	1	m i
+101/047	mi	1	m i
+101/049	mi	1	m i
+101/051	mi	1	m i
+101/053	mi	1	m i
+101/055	NA	NA	-
+101/057	mi	1	m i
+101/059	NA	NA	-
+101/061	NA	NA	-
+101/063	min	1	m i n
+101/065	mi	1	m i
+101/067	ming	1	m i ng
+101/071	ming	1	m i ng
+101/075	mei	1	m ei
+101/077	mei	1	m ei
+101/079	mei	1	m ei
+101/081	mei	1	m ei
+101/091	mai	1	m ai
+101/093	mei	1	m ei
+101/095	mei	1	m ei
+101/097	mei	1	m ei
+101/099	mein	1	m ei n
+101/101	mei	1	m ei
+101/103	mei	1	m ei
+101/107	mei	1	m ei
+101/109	mein	1	m ei n
+101/113	mei	1	m ei
+101/115	mäin	1	m äi n
+101/121	mei	1	m ei
+101/125	mei	1	m ei
+101/129	mei	1	m ei
+101/131	moi	1	m oi
+101/133	mäi	1	m äi
+101/137	mai	1	m ai
+101/139	mei	1	m ei
+101/141	mei	1	m ei
+101/143	mein	1	m ei n
+101/145	mai	1	m ai
+101/147	mei	1	m ei
+102/037	mi	1	m i
+102/039	mi	1	m i
+102/041	mii	1	m ii
+102/043	my	1	m y
+102/045	mii	1	m ii
+102/047	NA	NA	-
+102/049	mi	1	m i
+102/051	mii	1	m ii
+102/053	mi	1	m i
+102/055	mi	1	m i
+102/057	mi	1	m i
+102/059	mi	1	m i
+102/061	NA	NA	-
+102/063	mi	1	m i
+102/065	mi	1	m i
+102/067	min	1	m i n
+102/069	mi	1	m i
+102/071	ming	1	m i ng
+102/073	mai	1	m ai
+102/075	mai	1	m ai
+102/077	meei	1	m eei
+102/079	mei	1	m ei
+102/081	mei	1	m ei
+102/083	mei	1	m ei
+102/089	mei	1	m ei
+102/091	NA	NA	-
+102/093	mei	1	m ei
+102/095	mei	1	m ei
+102/097	mei	1	m ei
+102/099	mei	1	m ei
+102/103	mei	1	m ei
+102/107	mei	1	m ei
+102/109	mei	1	m ei
+102/113	mei	1	m ei
+102/115	mei	1	m ei
+102/127	mei	1	m ei
+102/129	mei	1	m ei
+102/131	mei	1	m ei
+102/135	mein	1	m ei n
+102/137	mei	1	m ei
+102/139	mai	1	m ai
+102/141	mei	1	m ei
+102/143	mai	1	m ai
+102/145	maai	1	m aai
+103/039	my	1	m y
+103/041	mi	1	m i
+103/043	mi	1	m i
+103/045	mi	1	m i
+103/047	NA	NA	-
+103/049	du	1	d u
+103/051	mi	1	m i
+103/053	mi	1	m i
+103/055	mi	1	m i
+103/057	my	1	m y
+103/059	du	1	d u
+103/063	mi	1	m i
+103/065	mi	1	m i
+103/067	min	1	m i n
+103/069	NA	NA	-
+103/071	mi	1	m i
+103/073	mei	1	m ei
+103/075	mai	1	m ai
+103/077	mei	1	m ei
+103/079	mei	1	m ei
+103/081	mei	1	m ei
+103/083	mei	1	m ei
+103/085	mei	1	m ei
+103/087	mei	1	m ei
+103/089	mein	1	m ei n
+103/091	mei	1	m ei
+103/097	mei	1	m ei
+103/099	mei	1	m ei
+103/101	mei	1	m ei
+103/105	mei	1	m ei
+103/107	NA	NA	-
+103/111	mei	1	m ei
+103/121	mei	1	m ei
+103/125	mei	1	m ei
+103/127	mei	1	m ei
+103/131	mai	1	m ai
+103/133	mai	1	m ai
+103/135	mein	1	m ei n
+103/137	mei	1	m ei
+103/139	mei	1	m ei
+103/141	mei	1	m ei
+103/143	mei	1	m ei
+103/145	mei	1	m ei
+104/033	my	1	m y
+104/035	NA	NA	-
+104/037	my	1	m y
+104/039	mi	1	m i
+104/041	mi	1	m i
+104/043	mi	1	m i
+104/045	mi	1	m i
+104/047	NA	NA	-
+104/049	NA	NA	-
+104/051	mi	1	m i
+104/053	my	1	m y
+104/055	mi	1	m i
+104/057	my	1	m y
+104/059	du	1	d u
+104/061	NA	NA	-
+104/063	mi	1	m i
+104/065	mi	1	m i
+104/067	mi	1	m i
+104/071	mei	1	m ei
+104/075	mai	1	m ai
+104/077	mai	1	m ai
+104/079	mei	1	m ei
+104/081	mei	1	m ei
+104/083	mai	1	m ai
+104/085	mei	1	m ei
+104/091	mei	1	m ei
+104/095	mei	1	m ei
+104/101	mei	1	m ei
+104/103	mei	1	m ei
+104/107	mei	1	m ei
+104/111	mae	1	m ae
+104/113	mei	1	m ei
+104/119	mei	1	m ei
+104/121	mai	1	m ai
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	mei	1	m ei
+104/131	mei	1	m ei
+104/133	mai	1	m ai
+104/135	mei	1	m ei
+104/137	mei	1	m ei
+104/139	meii	1	m eii
+104/141	mei	1	m ei
+104/143	mäi	1	m äi
+104/145	mai	1	m ai
+105/031	mi	1	m i
+105/033	mi	1	m i
+105/035	mi	1	m i
+105/037	mi	1	m i
+105/039	mi	1	m i
+105/041	mi	1	m i
+105/043	my	1	m y
+105/045	mi	1	m i
+105/047	NA	NA	-
+105/049	mi	1	m i
+105/051	my	1	m y
+105/053	my	1	m y
+105/055	NA	NA	-
+105/057	mi	1	m i
+105/059	mi	1	m i
+105/061	min	1	m i n
+105/063	mi	1	m i
+105/065	mi	1	m i
+105/067	mi	1	m i
+105/069	mi	1	m i
+105/071	mei	1	m ei
+105/073	mei	1	m ei
+105/075	mei	1	m ei
+105/077	mei	1	m ei
+105/079	mei	1	m ei
+105/081	mei	1	m ei
+105/085	mei	1	m ei
+105/087	mei	1	m ei
+105/089	mei	1	m ei
+105/103	mei	1	m ei
+105/105	mei	1	m ei
+105/111	mei	1	m ei
+105/113	mei	1	m ei
+105/115	mei	1	m ei
+105/117	meei	1	m eei
+105/119	du	1	d u
+105/121	mei	1	m ei
+105/125	mei	1	m ei
+105/127	mei	1	m ei
+105/131	mei	1	m ei
+105/133	mei	1	m ei
+105/135	mei	1	m ei
+105/137	mei	1	m ei
+105/141	meii	1	m eii
+105/143	mei	1	m ei
+105/145	mai	1	m ai
+106/033	NA	NA	-
+106/035	my	1	m y
+106/037	my	1	m y
+106/039	mi	1	m i
+106/041	mi	1	m i
+106/043	NA	NA	-
+106/045	du	1	d u
+106/047	mi	1	m i
+106/049	mii	1	m ii
+106/051	mi	1	m i
+106/053	mi	1	m i
+106/057	mi	1	m i
+106/061	mi	1	m i
+106/063	mi	1	m i
+106/067	mi	1	m i
+106/071	mei	1	m ei
+106/073	mei	1	m ei
+106/075	mai	1	m ai
+106/077	mei	1	m ei
+106/079	mei	1	m ei
+106/081	mei	1	m ei
+106/085	mei	1	m ei
+106/087	mei	1	m ei
+106/093	mai	1	m ai
+106/097	mei	1	m ei
+106/099	NA	NA	-
+106/103	mei	1	m ei
+106/111	mei	1	m ei
+106/115	mei	1	m ei
+106/121	mei	1	m ei
+106/123	mei	1	m ei
+106/125	mei	1	m ei
+106/129	mei	1	m ei
+106/131	mei	1	m ei
+106/133	mei	1	m ei
+106/135	mei	1	m ei
+106/137	mei	1	m ei
+106/139	NA	NA	-
+106/141	mei	1	m ei
+106/143	mei	1	m ei
+106/145	ma	1	m a
+107/033	mi	1	m i
+107/035	mi	1	m i
+107/037	my	1	m y
+107/039	NA	NA	-
+107/041	my	1	m y
+107/043	mi	1	m i
+107/045	NA	NA	-
+107/047	mij	1	m i j
+107/049	mi	1	m i
+107/051	du	1	d u
+107/053	mi	1	m i
+107/057	mi	1	m i
+107/059	NA	NA	-
+107/063	mi	1	m i
+107/065	mie	1	m ie
+107/071	mei	1	m ei
+107/075	mei	1	m ei
+107/081	mei	1	m ei
+107/085	mein	1	m ei n
+107/087	mai	1	m ai
+107/089	ma	1	m a
+107/091	ma	1	m a
+107/097	NA	NA	-
+107/099	mei	1	m ei
+107/103	mei	1	m ei
+107/105	mei	1	m ei
+107/107	mei	1	m ei
+107/111	mei	1	m ei
+107/119	mei	1	m ei
+107/121	NA	NA	-
+107/123	mei	1	m ei
+107/125	mai	1	m ai
+107/127	mei	1	m ei
+107/129	NA	NA	-
+107/131	mei	1	m ei
+107/133	mai	1	m ai
+107/135	mai	1	m ai
+107/137	mei	1	m ei
+107/139	mei	1	m ei
+107/141	mei	1	m ei
+107/143	mei	1	m ei
+108/033	NA	NA	-
+108/035	my	1	m y
+108/037	mi	1	m i
+108/039	my	1	m y
+108/041	mi	1	m i
+108/043	mi	1	m i
+108/047	mii	1	m ii
+108/049	mi	1	m i
+108/063	NA	NA	-
+108/065	mi	1	m i
+108/067	mie	1	m ie
+108/075	mei	1	m ei
+108/079	mei	1	m ei
+108/081	mei	1	m ei
+108/085	mein	1	m ei n
+108/087	mai	1	m ai
+108/091	mai	1	m ai
+108/099	mei	1	m ei
+108/101	mei	1	m ei
+108/103	mei	1	m ei
+108/105	mei	1	m ei
+108/109	mei	1	m ei
+108/111	mei	1	m ei
+108/113	mei	1	m ei
+108/117	NA	NA	-
+108/119	mei	1	m ei
+108/121	mei	1	m ei
+108/123	mei	1	m ei
+108/125	mei	1	m ei
+108/127	mei	1	m ei
+108/129	mei	1	m ei
+108/131	NA	NA	-
+108/133	mei	1	m ei
+108/135	mei	1	m ei
+108/137	mei	1	m ei
+108/139	mai	1	m ai
+108/141	mai	1	m ai
+109/035	mi	1	m i
+109/037	my	1	m y
+109/039	du	1	d u
+109/041	mi	1	m i
+109/043	mi	1	m i
+109/045	dui	1	d ui
+109/049	mei	1	m ei
+109/053	NA	NA	-
+109/061	mi	1	m i
+109/063	mi	1	m i
+109/065	mi	1	m i
+109/067	mi	1	m i
+109/075	mai	1	m ai
+109/083	mein	1	m ei n
+109/087	mai	1	m ai
+109/089	mai	1	m ai
+109/091	mai	1	m ai
+109/093	ma	1	m a
+109/095	mai	1	m ai
+109/097	mäi	1	m äi
+109/099	mei	1	m ei
+109/101	NA	NA	-
+109/103	mei	1	m ei
+109/107	mei	1	m ei
+109/109	NA	NA	-
+109/111	mei	1	m ei
+109/113	mei	1	m ei
+109/115	mei	1	m ei
+109/117	mei	1	m ei
+109/119	mei	1	m ei
+109/121	mei	1	m ei
+109/123	mei	1	m ei
+109/125	mei	1	m ei
+109/127	mei	1	m ei
+109/129	mei	1	m ei
+109/131	mein	1	m ei n
+109/133	mei	1	m ei
+109/135	mai	1	m ai
+109/137	mein	1	m ei n
+109/139	mei	1	m ei
+110/035	mi	1	m i
+110/039	my	1	m y
+110/041	mi	1	m i
+110/043	mi	1	m i
+110/045	mi	1	m i
+110/047	mii	1	m ii
+110/049	mi	1	m i
+110/057	mi	1	m i
+110/061	mi	1	m i
+110/065	mi	1	m i
+110/075	mai	1	m ai
+110/079	mei	1	m ei
+110/081	mein	1	m ei n
+110/083	mein	1	m ei n
+110/087	mei	1	m ei
+110/089	mei	1	m ei
+110/091	mai	1	m ai
+110/093	mai	1	m ai
+110/095	mai	1	m ai
+110/097	ma	1	m a
+110/099	mei	1	m ei
+110/101	mei	1	m ei
+110/105	mei	1	m ei
+110/107	mei	1	m ei
+110/111	mei	1	m ei
+110/113	mei	1	m ei
+110/115	mei	1	m ei
+110/117	mei	1	m ei
+110/119	mai	1	m ai
+110/121	mei	1	m ei
+110/125	mei	1	m ei
+110/127	mei	1	m ei
+110/129	mei	1	m ei
+110/131	mei	1	m ei
+110/133	mei	1	m ei
+110/135	mei	1	m ei
+110/137	mei	1	m ei
+110/139	mei	1	m ei
+111/035	mi	1	m i
+111/037	my	1	m y
+111/039	NA	NA	-
+111/041	mi	1	m i
+111/043	mi	1	m i
+111/045	mii	1	m ii
+111/059	mi	1	m i
+111/073	mei	1	m ei
+111/075	mai	1	m ai
+111/077	mei	1	m ei
+111/079	mei	1	m ei
+111/081	mein	1	m ei n
+111/083	mein	1	m ei n
+111/087	mei	1	m ei
+111/089	mai	1	m ai
+111/105	mei	1	m ei
+111/107	mei	1	m ei
+111/109	mei	1	m ei
+111/111	mei	1	m ei
+111/113	mei	1	m ei
+111/115	mei	1	m ei
+111/117	mei	1	m ei
+111/119	mai	1	m ai
+111/121	mei	1	m ei
+111/123	mei	1	m ei
+111/125	mei	1	m ei
+112/037	mi	1	m i
+112/039	mi	1	m i
+112/041	mi	1	m i
+112/043	du	1	d u
+112/047	mi	1	m i
+112/059	mi	1	m i
+112/061	mi	1	m i
+112/063	mi	1	m i
+112/075	mei	1	m ei
+112/081	mai	1	m ai
+112/083	mei	1	m ei
+112/085	mei	1	m ei
+112/111	mei	1	m ei
+112/115	mai	1	m ai
+112/117	mai	1	m ai
+112/119	mei	1	m ei
+113/035	mi	1	m i
+113/037	mi	1	m i
+113/039	mi	1	m i
+113/047	mi	1	m i
+113/079	mei	1	m ei
+113/081	mai	1	m ai
+113/083	mei	1	m ei
+113/085	mai	1	m ai
+113/087	mei	1	m ei
+113/121	mei	1	m ei
+113/123	mei	1	m ei
+114/035	mi	1	m i
+114/045	NA	NA	-
+114/083	mai	1	m ai
+114/085	mei	1	m ei
+115/041	NA	NA	-
+115/043	mi	1	m i
+115/045	mi	1	m i
+115/083	mai	1	m ai
+115/085	mei	1	m ei
+116/043	NA	NA	-
+116/045	mi	1	m i
+116/083	mai	1	m ai
+117/043	mi	1	m i
+117/045	mi	1	m i
+118/041	mi	1	m i
+119/083	mei	1	m ei
+120/085	mai	1	m ai
+121/127	mein	1	m ei n
+122/127	main	1	m ai n
+122/129	mein	1	m ei n
+123/081	mai	1	m ai
+123/123	mäin	1	m äi n
+123/125	NA	NA	-
+123/127	mein	1	m ei n
+123/129	mein	1	m ei n
+124/125	mein	1	m ei n
+124/127	mein	1	m ei n
+124/129	mein	1	m ei n

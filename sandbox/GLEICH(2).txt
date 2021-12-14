@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	gliek	1	g l ie k
+002/201	gliek	1	g l ie k
+002/203	glik	1	g l i k
+002/205	glyk	1	g l y k
+003/203	glik	1	g l i k
+003/205	glyck	1	g l y ck
+004/205	glieck	1	g l ie ck
+005/205	gliek	1	g l ie k
+005/207	NA	NA	-
+006/205	gliek	1	g l ie k
+006/207	gliek	1	g l ie k
+007/205	glik	1	g l i k
+007/207	glik	1	g l i k
+007/209	gliek	1	g l ie k
+007/211	glik	1	g l i k
+008/199	gliek	1	g l ie k
+008/203	glik	1	g l i k
+008/205	glik	1	g l i k
+008/207	glick	1	g l i ck
+008/209	gliek	1	g l ie k
+008/211	gelik	1	g e l i k
+008/213	glik	1	g l i k
+009/199	glick	1	g l i ck
+009/203	gliek	1	g l ie k
+009/207	glick	1	g l i ck
+009/209	gliek	1	g l ie k
+009/211	gliek	1	g l ie k
+009/213	glick	1	g l i ck
+009/215	glik	1	g l i k
+009/217	glick	1	g l i ck
+010/195	gliek	1	g l ie k
+010/203	glick	1	g l i ck
+010/207	glik	1	g l i k
+010/209	glieck	1	g l ie ck
+010/211	geliek	1	g e l ie k
+010/213	glick	1	g l i ck
+010/215	glik	1	g l i k
+010/217	glick	1	g l i ck
+010/219	glieck	1	g l ie ck
+011/049	mitjens	1	m i t j e n s
+011/053	snar	1	s n a r
+011/055	strax	1	s t r a x
+011/057	kelik	1	k e l i k
+011/059	strax	1	s t r a x
+011/061	snart	1	s n a r t
+011/063	stras	1	s t r a s
+011/065	snaet	1	s n ae t
+011/067	snart	1	s n a r t
+011/069	snart	1	s n a r t
+011/187	glik	1	g l i k
+011/189	gliek	1	g l ie k
+011/191	glik	1	g l i k
+011/195	glik	1	g l i k
+011/197	gliek	1	g l ie k
+011/203	glik	1	g l i k
+011/205	gliek	1	g l ie k
+011/207	glik	1	g l i k
+011/209	gliek	1	g l ie k
+011/211	gliek	1	g l ie k
+011/213	glik	1	g l i k
+011/215	glick	1	g l i ck
+011/217	gliek	1	g l ie k
+011/219	glik	1	g l i k
+012/047	bald	1	b a l d
+012/049	miitjens	1	m ii t j e n s
+012/051	ball	1	b a ll
+012/053	gelik	1	g e l i k
+012/055	gelik	1	g e l i k
+012/057	gilek	1	g i l e k
+012/059	stras	1	s t r a s
+012/061	stras	1	s t r a s
+012/063	snaet	1	s n ae t
+012/065	stras	1	s t r a s
+012/067	stras	1	s t r a s
+012/069	stras	1	s t r a s
+012/187	glik	1	g l i k
+012/189	gliek	1	g l ie k
+012/191	glik	1	g l i k
+012/193	gliek	1	g l ie k
+012/195	gliek	1	g l ie k
+012/197	gliek	1	g l ie k
+012/199	gliek	1	g l ie k
+012/201	glik	1	g l i k
+012/203	glieck	1	g l ie ck
+012/205	glik	1	g l i k
+012/207	glick	1	g l i ck
+012/209	bol	1	b o l
+012/211	glik	1	g l i k
+012/213	gleich	1	g l ei ch
+012/215	gliek	1	g l ie k
+012/217	gliek	1	g l ie k
+012/219	gliek	1	g l ie k
+012/221	glick	1	g l i ck
+012/223	glik	1	g l i k
+013/051	gliek	1	g l ie k
+013/053	glik	1	g l i k
+013/055	glik	1	g l i k
+013/057	gelik	1	g e l i k
+013/059	snaart	1	s n aa r t
+013/061	glik	1	g l i k
+013/063	gliek	1	g l ie k
+013/065	glik	1	g l i k
+013/067	glik	1	g l i k
+013/161	glick	1	g l i ck
+013/163	glik	1	g l i k
+013/165	glük	1	g l ü k
+013/167	glick	1	g l i ck
+013/187	jlik	1	j l i k
+013/189	gliek	1	g l ie k
+013/191	glick	1	g l i ck
+013/193	glik	1	g l i k
+013/195	geliek	1	g e l ie k
+013/197	gliek	1	g l ie k
+013/199	gliek	1	g l ie k
+013/201	glik	1	g l i k
+013/203	glik	1	g l i k
+013/207	gliek	1	g l ie k
+013/209	glick	1	g l i ck
+013/211	geliek	1	g e l ie k
+013/213	glick	1	g l i ck
+013/215	glick	1	g l i ck
+013/217	gliek	1	g l ie k
+013/219	gliek	1	g l ie k
+013/221	gliek	1	g l ie k
+013/223	gliek	1	g l ie k
+014/047	glik	1	g l i k
+014/049	glik	1	g l i k
+014/051	gliek	1	g l ie k
+014/053	glick	1	g l i ck
+014/055	glik	1	g l i k
+014/057	glick	1	g l i ck
+014/059	glik	1	g l i k
+014/061	glik	1	g l i k
+014/063	gliek	1	g l ie k
+014/065	glick	1	g l i ck
+014/067	glieck	1	g l ie ck
+014/109	bald	1	b a l d
+014/159	glick	1	g l i ck
+014/161	glik	1	g l i k
+014/163	glick	1	g l i ck
+014/165	glick	1	g l i ck
+014/167	glick	1	g l i ck
+014/169	glick	1	g l i ck
+014/187	chliek	1	ch l ie k
+014/189	gliek	1	g l ie k
+014/191	glik	1	g l i k
+014/193	gliek	1	g l ie k
+014/195	glik	1	g l i k
+014/197	glik	1	g l i k
+014/199	gliek	1	g l ie k
+014/201	gliek	1	g l ie k
+014/203	glik	1	g l i k
+014/205	glik	1	g l i k
+014/207	gliek	1	g l ie k
+014/209	gliek	1	g l ie k
+014/211	glik	1	g l i k
+014/213	glick	1	g l i ck
+014/215	gleich	1	g l ei ch
+014/217	gliek	1	g l ie k
+014/219	gliek	1	g l ie k
+014/221	gliek	1	g l ie k
+015/049	glik	1	g l i k
+015/051	glik	1	g l i k
+015/053	glik	1	g l i k
+015/055	glik	1	g l i k
+015/057	glik	1	g l i k
+015/059	glick	1	g l i ck
+015/061	gliik	1	g l ii k
+015/063	glik	1	g l i k
+015/065	glik	1	g l i k
+015/067	gliek	1	g l ie k
+015/105	gliek	1	g l ie k
+015/107	gliek	1	g l ie k
+015/109	gliek	1	g l ie k
+015/151	gliek	1	g l ie k
+015/153	gliek	1	g l ie k
+015/155	glieck	1	g l ie ck
+015/157	glik	1	g l i k
+015/159	glick	1	g l i ck
+015/161	glik	1	g l i k
+015/163	NA	NA	-
+015/165	glick	1	g l i ck
+015/167	glick	1	g l i ck
+015/169	glick	1	g l i ck
+015/173	glick	1	g l i ck
+015/187	glieck	1	g l ie ck
+015/191	gliek	1	g l ie k
+015/193	gliek	1	g l ie k
+015/195	glik	1	g l i k
+015/197	gliek	1	g l ie k
+015/199	gliik	1	g l ii k
+015/201	gliek	1	g l ie k
+015/203	gliek	1	g l ie k
+015/205	glick	1	g l i ck
+015/207	glieck	1	g l ie ck
+015/209	glik	1	g l i k
+015/211	glik	1	g l i k
+015/213	gliek	1	g l ie k
+015/215	NA	NA	-
+015/217	glieck	1	g l ie ck
+015/219	gliek	1	g l ie k
+015/221	gliek	1	g l ie k
+016/051	glick	1	g l i ck
+016/055	glick	1	g l i ck
+016/057	glik	1	g l i k
+016/059	gliek	1	g l ie k
+016/061	glik	1	g l i k
+016/063	gliek	1	g l ie k
+016/065	glik	1	g l i k
+016/067	glick	1	g l i ck
+016/081	glik	1	g l i k
+016/083	gliek	1	g l ie k
+016/105	gliek	1	g l ie k
+016/107	gliek	1	g l ie k
+016/109	gliek	1	g l ie k
+016/111	gliek	1	g l ie k
+016/145	glik	1	g l i k
+016/147	glik	1	g l i k
+016/149	glick	1	g l i ck
+016/151	glik	1	g l i k
+016/153	glik	1	g l i k
+016/155	glieck	1	g l ie ck
+016/157	glick	1	g l i ck
+016/159	glick	1	g l i ck
+016/161	glik	1	g l i k
+016/163	glick	1	g l i ck
+016/165	glick	1	g l i ck
+016/167	glick	1	g l i ck
+016/187	gliek	1	g l ie k
+016/189	glik	1	g l i k
+016/191	gliek	1	g l ie k
+016/193	gliek	1	g l ie k
+016/195	glik	1	g l i k
+016/197	gliek	1	g l ie k
+016/199	gliek	1	g l ie k
+016/201	gliek	1	g l ie k
+016/203	glik	1	g l i k
+016/205	gliek	1	g l ie k
+016/209	gliek	1	g l ie k
+016/211	gliek	1	g l ie k
+016/213	glieck	1	g l ie ck
+016/215	gleich	1	g l ei ch
+016/217	gliek	1	g l ie k
+016/219	gliek	1	g l ie k
+017/055	gliek	1	g l ie k
+017/057	glik	1	g l i k
+017/059	glik	1	g l i k
+017/061	glik	1	g l i k
+017/063	glik	1	g l i k
+017/065	glik	1	g l i k
+017/067	gliek	1	g l ie k
+017/069	glik	1	g l i k
+017/081	glik	1	g l i k
+017/083	glik	1	g l i k
+017/099	glik	1	g l i k
+017/101	glick	1	g l i ck
+017/103	glick	1	g l i ck
+017/107	glik	1	g l i k
+017/109	glick	1	g l i ck
+017/145	glick	1	g l i ck
+017/147	glik	1	g l i k
+017/149	glik	1	g l i k
+017/151	glick	1	g l i ck
+017/153	glick	1	g l i ck
+017/155	glik	1	g l i k
+017/157	glik	1	g l i k
+017/159	glik	1	g l i k
+017/161	glick	1	g l i ck
+017/163	glick	1	g l i ck
+017/165	glik	1	g l i k
+017/169	gliek	1	g l ie k
+017/171	glick	1	g l i ck
+017/183	glik	1	g l i k
+017/185	glik	1	g l i k
+017/187	gliek	1	g l ie k
+017/189	gliek	1	g l ie k
+017/191	glik	1	g l i k
+017/193	glik	1	g l i k
+017/195	glik	1	g l i k
+017/197	gliek	1	g l ie k
+017/199	glik	1	g l i k
+017/201	glick	1	g l i ck
+017/203	glick	1	g l i ck
+017/205	gliek	1	g l ie k
+017/207	glik	1	g l i k
+017/209	gliek	1	g l ie k
+017/211	glik	1	g l i k
+017/213	bol	1	b o l
+017/215	gleich	1	g l ei ch
+017/217	gliek	1	g l ie k
+017/219	gliek	1	g l ie k
+018/051	glick	1	g l i ck
+018/053	glik	1	g l i k
+018/055	gliek	1	g l ie k
+018/057	gliik	1	g l ii k
+018/059	glik	1	g l i k
+018/061	glik	1	g l i k
+018/063	gliek	1	g l ie k
+018/065	gliek	1	g l ie k
+018/067	gliek	1	g l ie k
+018/069	glick	1	g l i ck
+018/071	glick	1	g l i ck
+018/073	gliik	1	g l ii k
+018/075	glik	1	g l i k
+018/079	gliek	1	g l ie k
+018/081	gliek	1	g l ie k
+018/097	gliek	1	g l ie k
+018/099	glik	1	g l i k
+018/103	gliek	1	g l ie k
+018/105	gliek	1	g l ie k
+018/107	gliek	1	g l ie k
+018/109	gliek	1	g l ie k
+018/111	gliek	1	g l ie k
+018/143	glick	1	g l i ck
+018/145	glik	1	g l i k
+018/147	gliek	1	g l ie k
+018/149	glick	1	g l i ck
+018/151	glik	1	g l i k
+018/153	glik	1	g l i k
+018/155	glick	1	g l i ck
+018/157	gliek	1	g l ie k
+018/159	glick	1	g l i ck
+018/161	glick	1	g l i ck
+018/163	glick	1	g l i ck
+018/165	glick	1	g l i ck
+018/169	glick	1	g l i ck
+018/171	glik	1	g l i k
+018/173	glick	1	g l i ck
+018/181	glick	1	g l i ck
+018/185	glik	1	g l i k
+018/187	glick	1	g l i ck
+018/189	gliek	1	g l ie k
+018/191	glik	1	g l i k
+018/193	gliek	1	g l ie k
+018/195	glik	1	g l i k
+018/197	gliek	1	g l ie k
+018/199	glik	1	g l i k
+018/201	glik	1	g l i k
+018/203	gliek	1	g l ie k
+018/205	gliek	1	g l ie k
+018/207	glick	1	g l i ck
+018/209	glik	1	g l i k
+018/211	gliek	1	g l ie k
+018/213	glik	1	g l i k
+018/215	glik	1	g l i k
+018/219	gleich	1	g l ei ch
+019/051	gliek	1	g l ie k
+019/053	gliek	1	g l ie k
+019/055	glik	1	g l i k
+019/057	glik	1	g l i k
+019/059	gliek	1	g l ie k
+019/061	gliek	1	g l ie k
+019/063	gliek	1	g l ie k
+019/065	glik	1	g l i k
+019/067	glieck	1	g l ie ck
+019/069	glick	1	g l i ck
+019/071	gliek	1	g l ie k
+019/073	glik	1	g l i k
+019/075	glik	1	g l i k
+019/077	glik	1	g l i k
+019/079	gliek	1	g l ie k
+019/081	gliek	1	g l ie k
+019/097	glik	1	g l i k
+019/099	glik	1	g l i k
+019/101	glieck	1	g l ie ck
+019/103	glick	1	g l i ck
+019/105	gliek	1	g l ie k
+019/107	glik	1	g l i k
+019/109	gliek	1	g l ie k
+019/143	gliek	1	g l ie k
+019/145	glik	1	g l i k
+019/147	glik	1	g l i k
+019/149	glik	1	g l i k
+019/151	glik	1	g l i k
+019/153	glik	1	g l i k
+019/155	gliek	1	g l ie k
+019/157	glik	1	g l i k
+019/159	glick	1	g l i ck
+019/161	bol	1	b o l
+019/163	glick	1	g l i ck
+019/165	glick	1	g l i ck
+019/167	glick	1	g l i ck
+019/169	glick	1	g l i ck
+019/171	glick	1	g l i ck
+019/173	glick	1	g l i ck
+019/175	glick	1	g l i ck
+019/177	fort	1	f o r t
+019/179	boold	1	b oo l d
+019/181	gliik	1	g l ii k
+019/183	foats	1	f oa t s
+019/185	glük	1	g l ü k
+019/187	glik	1	g l i k
+019/189	gliek	1	g l ie k
+019/191	gliek	1	g l ie k
+019/193	glik	1	g l i k
+019/195	glick	1	g l i ck
+019/197	glik	1	g l i k
+019/199	glik	1	g l i k
+019/201	glik	1	g l i k
+019/203	gliek	1	g l ie k
+019/205	glick	1	g l i ck
+019/207	gliek	1	g l ie k
+019/209	glik	1	g l i k
+019/211	gliek	1	g l ie k
+019/213	glick	1	g l i ck
+019/215	glick	1	g l i ck
+019/217	gliek	1	g l ie k
+019/219	glik	1	g l i k
+020/043	baal	1	b aa l
+020/053	glick	1	g l i ck
+020/055	glik	1	g l i k
+020/057	gliek	1	g l ie k
+020/059	glick	1	g l i ck
+020/061	gliek	1	g l ie k
+020/063	glik	1	g l i k
+020/065	glick	1	g l i ck
+020/067	gliek	1	g l ie k
+020/069	glieck	1	g l ie ck
+020/071	glik	1	g l i k
+020/073	glik	1	g l i k
+020/075	glik	1	g l i k
+020/077	glik	1	g l i k
+020/079	gliek	1	g l ie k
+020/081	glik	1	g l i k
+020/095	glik	1	g l i k
+020/097	gliek	1	g l ie k
+020/099	gliek	1	g l ie k
+020/101	gliek	1	g l ie k
+020/103	gliek	1	g l ie k
+020/105	gliek	1	g l ie k
+020/107	glik	1	g l i k
+020/135	glik	1	g l i k
+020/137	gliek	1	g l ie k
+020/139	glik	1	g l i k
+020/141	glik	1	g l i k
+020/143	glik	1	g l i k
+020/145	glik	1	g l i k
+020/147	glik	1	g l i k
+020/149	gliek	1	g l ie k
+020/151	gliek	1	g l ie k
+020/153	glieck	1	g l ie ck
+020/155	glick	1	g l i ck
+020/157	glick	1	g l i ck
+020/159	glik	1	g l i k
+020/161	NA	NA	-
+020/163	glick	1	g l i ck
+020/165	glik	1	g l i k
+020/167	glück	1	g l ü ck
+020/169	glick	1	g l i ck
+020/171	straks	1	s t r a k s
+020/173	glik	1	g l i k
+020/175	stracks	1	s t r a ck s
+020/177	straks	1	s t r a k s
+020/179	fort	1	f o r t
+020/181	glick	1	g l i ck
+020/183	gliek	1	g l ie k
+020/185	gliek	1	g l ie k
+020/187	foart	1	f oa r t
+020/189	glick	1	g l i ck
+020/191	gliik	1	g l ii k
+020/193	glik	1	g l i k
+020/195	gliek	1	g l ie k
+020/197	glick	1	g l i ck
+020/199	glik	1	g l i k
+020/201	gliek	1	g l ie k
+020/203	glick	1	g l i ck
+020/205	stracks	1	s t r a ck s
+020/207	glik	1	g l i k
+020/209	glick	1	g l i ck
+020/211	glick	1	g l i ck
+020/213	glik	1	g l i k
+020/215	gleich	1	g l ei ch
+020/217	gleich	1	g l ei ch
+020/219	gleich	1	g l ei ch
+021/055	glik	1	g l i k
+021/057	glick	1	g l i ck
+021/059	gliek	1	g l ie k
+021/061	glik	1	g l i k
+021/063	glik	1	g l i k
+021/065	gliek	1	g l ie k
+021/067	gliek	1	g l ie k
+021/069	glik	1	g l i k
+021/071	gliek	1	g l ie k
+021/073	glik	1	g l i k
+021/075	glik	1	g l i k
+021/077	glik	1	g l i k
+021/079	gliek	1	g l ie k
+021/087	gliek	1	g l ie k
+021/089	bald	1	b a l d
+021/091	gliek	1	g l ie k
+021/093	gliik	1	g l ii k
+021/095	gliek	1	g l ie k
+021/097	gliek	1	g l ie k
+021/099	gliek	1	g l ie k
+021/101	gliek	1	g l ie k
+021/103	glik	1	g l i k
+021/105	glik	1	g l i k
+021/107	glick	1	g l i ck
+021/109	glik	1	g l i k
+021/111	glick	1	g l i ck
+021/113	glik	1	g l i k
+021/131	glik	1	g l i k
+021/133	boll	1	b o ll
+021/135	jliek	1	j l ie k
+021/137	gliek	1	g l ie k
+021/139	gliik	1	g l ii k
+021/141	gliek	1	g l ie k
+021/143	glik	1	g l i k
+021/145	glick	1	g l i ck
+021/147	gliek	1	g l ie k
+021/149	gliek	1	g l ie k
+021/151	gliik	1	g l ii k
+021/153	glick	1	g l i ck
+021/155	glick	1	g l i ck
+021/157	glik	1	g l i k
+021/159	glick	1	g l i ck
+021/163	glick	1	g l i ck
+021/165	glick	1	g l i ck
+021/167	glick	1	g l i ck
+021/169	glick	1	g l i ck
+021/171	bold	1	b o l d
+021/173	bold	1	b o l d
+021/175	soorts	1	s oo r t s
+021/177	glick	1	g l i ck
+021/179	glick	1	g l i ck
+021/181	glick	1	g l i ck
+021/183	gliek	1	g l ie k
+021/185	fohrts	1	f oh r t s
+021/187	roatz	1	r oa t z
+021/189	baal	1	b aa l
+021/191	bal	1	b a l
+021/193	bahl	1	b ah l
+021/195	gleich	1	g l ei ch
+021/197	foat	1	f oa t
+021/199	glick	1	g l i ck
+021/201	gliek	1	g l ie k
+021/203	glik	1	g l i k
+021/205	gliek	1	g l ie k
+021/207	glik	1	g l i k
+021/211	glick	1	g l i ck
+021/215	gleich	1	g l ei ch
+021/217	glük	1	g l ü k
+021/219	glik	1	g l i k
+022/055	gliek	1	g l ie k
+022/057	gliek	1	g l ie k
+022/059	gliek	1	g l ie k
+022/061	glick	1	g l i ck
+022/063	glick	1	g l i ck
+022/065	glik	1	g l i k
+022/067	glik	1	g l i k
+022/069	glik	1	g l i k
+022/071	bald	1	b a l d
+022/073	glik	1	g l i k
+022/075	glik	1	g l i k
+022/077	glik	1	g l i k
+022/087	glik	1	g l i k
+022/089	gliek	1	g l ie k
+022/091	gliek	1	g l ie k
+022/093	gliek	1	g l ie k
+022/095	glick	1	g l i ck
+022/097	glik	1	g l i k
+022/099	glik	1	g l i k
+022/101	gliek	1	g l ie k
+022/103	gliek	1	g l ie k
+022/105	gliek	1	g l ie k
+022/107	glik	1	g l i k
+022/109	glieck	1	g l ie ck
+022/111	gliek	1	g l ie k
+022/113	gliek	1	g l ie k
+022/115	gliek	1	g l ie k
+022/127	glik	1	g l i k
+022/129	ball	1	b a ll
+022/131	glick	1	g l i ck
+022/133	ball	1	b a ll
+022/135	gliek	1	g l ie k
+022/137	glik	1	g l i k
+022/139	glieck	1	g l ie ck
+022/141	glik	1	g l i k
+022/143	glick	1	g l i ck
+022/145	glik	1	g l i k
+022/147	jliek	1	j l ie k
+022/149	glik	1	g l i k
+022/151	gliek	1	g l ie k
+022/153	glik	1	g l i k
+022/155	glik	1	g l i k
+022/157	glick	1	g l i ck
+022/159	bul	1	b u l
+022/165	jlik	1	j l i k
+022/167	glick	1	g l i ck
+022/169	gliek	1	g l ie k
+022/171	glick	1	g l i ck
+022/173	stracks	1	s t r a ck s
+022/175	strack	1	s t r a ck
+022/177	glick	1	g l i ck
+022/179	stracks	1	s t r a ck s
+022/181	glick	1	g l i ck
+022/183	bal	1	b a l
+022/185	forts	1	f o r t s
+022/187	gleich	1	g l ei ch
+022/189	bald	1	b a l d
+022/191	gleich	1	g l ei ch
+022/193	gleich	1	g l ei ch
+022/195	glaich	1	g l ai ch
+022/197	foat	1	f oa t
+022/199	vooats	1	v ooa t s
+022/201	gliek	1	g l ie k
+022/203	glik	1	g l i k
+022/205	glik	1	g l i k
+022/209	gleich	1	g l ei ch
+022/211	gleich	1	g l ei ch
+022/215	gleich	1	g l ei ch
+022/217	glikk	1	g l i kk
+022/219	glik	1	g l i k
+023/055	glik	1	g l i k
+023/059	gliek	1	g l ie k
+023/061	glick	1	g l i ck
+023/063	glik	1	g l i k
+023/065	glick	1	g l i ck
+023/067	glik	1	g l i k
+023/069	glick	1	g l i ck
+023/071	glik	1	g l i k
+023/073	glik	1	g l i k
+023/075	gliek	1	g l ie k
+023/077	glik	1	g l i k
+023/079	gliek	1	g l ie k
+023/081	gliek	1	g l ie k
+023/083	gliek	1	g l ie k
+023/085	gliek	1	g l ie k
+023/087	gliek	1	g l ie k
+023/089	glik	1	g l i k
+023/091	glik	1	g l i k
+023/093	gliek	1	g l ie k
+023/095	glik	1	g l i k
+023/097	gliek	1	g l ie k
+023/099	gliek	1	g l ie k
+023/101	glik	1	g l i k
+023/103	gliek	1	g l ie k
+023/105	glik	1	g l i k
+023/107	glik	1	g l i k
+023/109	gliek	1	g l ie k
+023/111	glik	1	g l i k
+023/113	gliek	1	g l ie k
+023/115	gliek	1	g l ie k
+023/117	glik	1	g l i k
+023/121	gliek	1	g l ie k
+023/123	gliek	1	g l ie k
+023/125	gliek	1	g l ie k
+023/127	glick	1	g l i ck
+023/129	glick	1	g l i ck
+023/131	glick	1	g l i ck
+023/133	glik	1	g l i k
+023/135	glik	1	g l i k
+023/137	glick	1	g l i ck
+023/139	jliek	1	j l ie k
+023/141	gliek	1	g l ie k
+023/143	glik	1	g l i k
+023/145	glick	1	g l i ck
+023/147	glick	1	g l i ck
+023/149	glik	1	g l i k
+023/151	bull	1	b u ll
+023/153	glik	1	g l i k
+023/155	gliek	1	g l ie k
+023/165	glick	1	g l i ck
+023/167	glick	1	g l i ck
+023/169	strack	1	s t r a ck
+023/175	glick	1	g l i ck
+023/177	NA	NA	-
+023/179	gleich	1	g l ei ch
+023/181	gleich	1	g l ei ch
+023/183	gleich	1	g l ei ch
+023/185	gleich	1	g l ei ch
+023/187	vort	1	v o r t
+023/189	gleich	1	g l ei ch
+023/191	voats	1	v oa t s
+023/193	gleich	1	g l ei ch
+023/195	gleich	1	g l ei ch
+023/197	voats	1	v oa t s
+023/199	gliek	1	g l ie k
+023/201	voatz	1	v oa t z
+023/203	glick	1	g l i ck
+023/205	glick	1	g l i ck
+023/207	glick	1	g l i ck
+023/215	glich	1	g l i ch
+023/217	glek	1	g l e k
+024/053	gliek	1	g l ie k
+024/057	gliek	1	g l ie k
+024/059	gliek	1	g l ie k
+024/061	glik	1	g l i k
+024/063	glik	1	g l i k
+024/065	glik	1	g l i k
+024/067	glik	1	g l i k
+024/069	glik	1	g l i k
+024/071	gliek	1	g l ie k
+024/073	glik	1	g l i k
+024/075	gliek	1	g l ie k
+024/077	glieck	1	g l ie ck
+024/079	glik	1	g l i k
+024/081	gliek	1	g l ie k
+024/083	glik	1	g l i k
+024/085	gliek	1	g l ie k
+024/087	gliek	1	g l ie k
+024/089	gliek	1	g l ie k
+024/091	gliek	1	g l ie k
+024/093	gliek	1	g l ie k
+024/095	glik	1	g l i k
+024/097	glik	1	g l i k
+024/099	gliik	1	g l ii k
+024/101	gliek	1	g l ie k
+024/103	glick	1	g l i ck
+024/105	gliek	1	g l ie k
+024/107	gliek	1	g l ie k
+024/109	gliek	1	g l ie k
+024/111	glik	1	g l i k
+024/113	gliek	1	g l ie k
+024/115	glick	1	g l i ck
+024/117	glik	1	g l i k
+024/119	gliök	1	g l iö k
+024/121	gliek	1	g l ie k
+024/123	gliek	1	g l ie k
+024/125	glik	1	g l i k
+024/127	glik	1	g l i k
+024/129	glik	1	g l i k
+024/131	gliek	1	g l ie k
+024/133	glik	1	g l i k
+024/135	gliek	1	g l ie k
+024/137	glik	1	g l i k
+024/139	gliik	1	g l ii k
+024/141	glik	1	g l i k
+024/143	gliek	1	g l ie k
+024/145	glik	1	g l i k
+024/147	glick	1	g l i ck
+024/149	glick	1	g l i ck
+024/151	glic	1	g l i c
+024/153	glick	1	g l i ck
+024/155	glick	1	g l i ck
+024/163	jlitch	1	j l i t ch
+024/165	strack	1	s t r a ck
+024/167	glick	1	g l i ck
+024/169	glitch	1	g l i t ch
+024/171	glik	1	g l i k
+024/175	stracks	1	s t r a ck s
+024/179	gleich	1	g l ei ch
+024/181	gleich	1	g l ei ch
+024/183	gleich	1	g l ei ch
+024/185	gleich	1	g l ei ch
+024/187	gleich	1	g l ei ch
+024/189	gleich	1	g l ei ch
+024/191	bal	1	b a l
+024/193	foatz	1	f oa t z
+024/195	foatz	1	f oa t z
+024/197	gleich	1	g l ei ch
+024/199	straks	1	s t r a k s
+024/201	bohl	1	b oh l
+024/203	glik	1	g l i k
+024/217	NA	NA	-
+024/221	gliek	1	g l ie k
+025/043	glick	1	g l i ck
+025/051	glik	1	g l i k
+025/053	glick	1	g l i ck
+025/055	glik	1	g l i k
+025/057	glik	1	g l i k
+025/059	gliek	1	g l ie k
+025/061	glick	1	g l i ck
+025/063	glick	1	g l i ck
+025/065	gliek	1	g l ie k
+025/067	gliek	1	g l ie k
+025/069	glick	1	g l i ck
+025/071	gliek	1	g l ie k
+025/073	glik	1	g l i k
+025/075	gliek	1	g l ie k
+025/077	glik	1	g l i k
+025/079	gliek	1	g l ie k
+025/081	glig	1	g l i g
+025/083	glik	1	g l i k
+025/085	glig	1	g l i g
+025/087	glik	1	g l i k
+025/089	glik	1	g l i k
+025/091	gliek	1	g l ie k
+025/093	glick	1	g l i ck
+025/095	glick	1	g l i ck
+025/099	gliek	1	g l ie k
+025/101	gliek	1	g l ie k
+025/103	glick	1	g l i ck
+025/105	gliek	1	g l ie k
+025/107	glik	1	g l i k
+025/109	glik	1	g l i k
+025/111	gliek	1	g l ie k
+025/113	gliek	1	g l ie k
+025/115	gliek	1	g l ie k
+025/123	bald	1	b a l d
+025/125	glik	1	g l i k
+025/127	glick	1	g l i ck
+025/129	glik	1	g l i k
+025/131	glik	1	g l i k
+025/133	glick	1	g l i ck
+025/135	glick	1	g l i ck
+025/137	gliek	1	g l ie k
+025/139	glik	1	g l i k
+025/141	glik	1	g l i k
+025/143	glieck	1	g l ie ck
+025/145	glik	1	g l i k
+025/147	glieck	1	g l ie ck
+025/149	glik	1	g l i k
+025/151	glik	1	g l i k
+025/153	glik	1	g l i k
+025/155	glick	1	g l i ck
+025/157	gliek	1	g l ie k
+025/159	glick	1	g l i ck
+025/177	glek	1	g l e k
+025/179	gleich	1	g l ei ch
+025/181	gleich	1	g l ei ch
+025/183	gleich	1	g l ei ch
+025/185	gleich	1	g l ei ch
+025/187	gleich	1	g l ei ch
+025/189	gleich	1	g l ei ch
+025/191	glaich	1	g l ai ch
+026/031	glieck	1	g l ie ck
+026/033	gliek	1	g l ie k
+026/037	gliek	1	g l ie k
+026/041	glik	1	g l i k
+026/043	gliek	1	g l ie k
+026/045	glik	1	g l i k
+026/051	gliek	1	g l ie k
+026/053	glik	1	g l i k
+026/055	gliek	1	g l ie k
+026/057	gliek	1	g l ie k
+026/059	glik	1	g l i k
+026/061	glieck	1	g l ie ck
+026/063	gliek	1	g l ie k
+026/065	gliek	1	g l ie k
+026/067	glieg	1	g l ie g
+026/069	gliek	1	g l ie k
+026/071	glik	1	g l i k
+026/073	glik	1	g l i k
+026/075	glieck	1	g l ie ck
+026/077	gliek	1	g l ie k
+026/079	gliek	1	g l ie k
+026/081	gliek	1	g l ie k
+026/083	gliek	1	g l ie k
+026/085	gliek	1	g l ie k
+026/087	gliek	1	g l ie k
+026/089	glick	1	g l i ck
+026/091	glick	1	g l i ck
+026/093	gliek	1	g l ie k
+026/095	glik	1	g l i k
+026/097	glick	1	g l i ck
+026/099	gliek	1	g l ie k
+026/101	glieck	1	g l ie ck
+026/103	gliek	1	g l ie k
+026/105	gliek	1	g l ie k
+026/107	glick	1	g l i ck
+026/109	glick	1	g l i ck
+026/111	gliek	1	g l ie k
+026/113	glik	1	g l i k
+026/115	gliek	1	g l ie k
+026/117	glieck	1	g l ie ck
+026/119	glick	1	g l i ck
+026/123	gliek	1	g l ie k
+026/125	glich	1	g l i ch
+026/127	gliek	1	g l ie k
+026/129	jliek	1	j l ie k
+026/131	glik	1	g l i k
+026/133	gliek	1	g l ie k
+026/135	glieck	1	g l ie ck
+026/137	jliek	1	j l ie k
+026/139	glik	1	g l i k
+026/141	glik	1	g l i k
+026/143	glik	1	g l i k
+026/145	glick	1	g l i ck
+026/147	NA	NA	-
+026/153	glick	1	g l i ck
+026/155	ball	1	b a ll
+026/157	gliek	1	g l ie k
+026/159	glig	1	g l i g
+026/161	bull	1	b u ll
+026/165	gleich	1	g l ei ch
+026/173	gleich	1	g l ei ch
+026/175	stracks	1	s t r a ck s
+026/177	gleich	1	g l ei ch
+026/179	glick	1	g l i ck
+026/181	gleich	1	g l ei ch
+026/183	gleich	1	g l ei ch
+026/185	vorts	1	v o r t s
+026/187	gleich	1	g l ei ch
+026/189	gleich	1	g l ei ch
+027/027	furt	1	f u r t
+027/035	furt	1	f u r t
+027/037	gliek	1	g l ie k
+027/039	glick	1	g l i ck
+027/041	glik	1	g l i k
+027/043	gliek	1	g l ie k
+027/045	gliek	1	g l ie k
+027/047	gliek	1	g l ie k
+027/051	NA	NA	-
+027/053	glik	1	g l i k
+027/055	gliek	1	g l ie k
+027/057	glik	1	g l i k
+027/059	gliek	1	g l ie k
+027/061	gliek	1	g l ie k
+027/063	glik	1	g l i k
+027/065	glik	1	g l i k
+027/067	glik	1	g l i k
+027/069	glik	1	g l i k
+027/071	gliek	1	g l ie k
+027/073	gliek	1	g l ie k
+027/075	gliek	1	g l ie k
+027/077	gliik	1	g l ii k
+027/079	glieg	1	g l ie g
+027/081	gliek	1	g l ie k
+027/083	gliek	1	g l ie k
+027/085	glik	1	g l i k
+027/087	gliek	1	g l ie k
+027/089	glik	1	g l i k
+027/091	gliek	1	g l ie k
+027/093	gliek	1	g l ie k
+027/095	glik	1	g l i k
+027/099	bald	1	b a l d
+027/101	gliek	1	g l ie k
+027/103	glick	1	g l i ck
+027/105	gliek	1	g l ie k
+027/107	glik	1	g l i k
+027/109	glik	1	g l i k
+027/111	gliek	1	g l ie k
+027/113	glick	1	g l i ck
+027/115	glick	1	g l i ck
+027/117	gliek	1	g l ie k
+027/119	bald	1	b a l d
+027/123	glik	1	g l i k
+027/125	gliek	1	g l ie k
+027/127	glik	1	g l i k
+027/129	glik	1	g l i k
+027/131	glik	1	g l i k
+027/135	glik	1	g l i k
+027/137	gliek	1	g l ie k
+027/139	gliek	1	g l ie k
+027/141	ball	1	b a ll
+027/143	glik	1	g l i k
+027/145	glik	1	g l i k
+027/147	glik	1	g l i k
+027/149	glik	1	g l i k
+027/151	glick	1	g l i ck
+027/153	glik	1	g l i k
+027/155	ball	1	b a ll
+027/157	glich	1	g l i ch
+027/159	fot	1	f o t
+027/161	glick	1	g l i ck
+027/167	glik	1	g l i k
+027/171	strak	1	s t r a k
+027/173	gleich	1	g l ei ch
+027/175	gleich	1	g l ei ch
+027/177	glik	1	g l i k
+027/179	jlitch	1	j l i t ch
+027/181	gleich	1	g l ei ch
+027/183	gleich	1	g l ei ch
+027/185	gleich	1	g l ei ch
+028/033	glick	1	g l i ck
+028/035	gliik	1	g l ii k
+028/037	gliek	1	g l ie k
+028/039	gliik	1	g l ii k
+028/041	glik	1	g l i k
+028/043	gliek	1	g l ie k
+028/045	gliek	1	g l ie k
+028/047	gliek	1	g l ie k
+028/049	gliek	1	g l ie k
+028/051	glieck	1	g l ie ck
+028/053	glik	1	g l i k
+028/055	glik	1	g l i k
+028/057	glieck	1	g l ie ck
+028/059	glick	1	g l i ck
+028/061	glieg	1	g l ie g
+028/063	gliek	1	g l ie k
+028/065	gliek	1	g l ie k
+028/067	glick	1	g l i ck
+028/069	glik	1	g l i k
+028/071	glik	1	g l i k
+028/073	gliek	1	g l ie k
+028/075	gliek	1	g l ie k
+028/077	gliek	1	g l ie k
+028/079	gliek	1	g l ie k
+028/081	glik	1	g l i k
+028/083	glik	1	g l i k
+028/085	glik	1	g l i k
+028/087	gliek	1	g l ie k
+028/089	glick	1	g l i ck
+028/091	gliek	1	g l ie k
+028/093	glik	1	g l i k
+028/095	gliek	1	g l ie k
+028/097	glik	1	g l i k
+028/099	gliek	1	g l ie k
+028/103	glik	1	g l i k
+028/105	glik	1	g l i k
+028/107	glik	1	g l i k
+028/109	glik	1	g l i k
+028/111	glik	1	g l i k
+028/113	gliek	1	g l ie k
+028/115	gleich	1	g l ei ch
+028/117	glik	1	g l i k
+028/119	gliek	1	g l ie k
+028/121	glick	1	g l i ck
+028/123	jleich	1	j l ei ch
+028/125	gliek	1	g l ie k
+028/127	glik	1	g l i k
+028/129	glieck	1	g l ie ck
+028/131	gliek	1	g l ie k
+028/133	glik	1	g l i k
+028/135	glik	1	g l i k
+028/137	gliek	1	g l ie k
+028/139	glik	1	g l i k
+028/141	glik	1	g l i k
+028/143	glick	1	g l i ck
+028/145	gliek	1	g l ie k
+028/147	glick	1	g l i ck
+028/151	jlik	1	j l i k
+028/153	glitch	1	g l i t ch
+028/155	bull	1	b u ll
+028/157	bull	1	b u ll
+028/159	dschlidsch	1	d sch l i d sch
+028/161	bull	1	b u ll
+028/165	glitch	1	g l i t ch
+028/169	bull	1	b u ll
+028/171	strack	1	s t r a ck
+028/173	jlick	1	j l i ck
+028/175	straks	1	s t r a k s
+028/177	stracks	1	s t r a ck s
+028/179	jleich	1	j l ei ch
+028/181	gleich	1	g l ei ch
+028/183	gleich	1	g l ei ch
+028/185	gleich	1	g l ei ch
+029/033	vut	1	v u t
+029/035	fut	1	f u t
+029/037	gliek	1	g l ie k
+029/039	gliek	1	g l ie k
+029/043	gliek	1	g l ie k
+029/045	gliek	1	g l ie k
+029/047	gliek	1	g l ie k
+029/049	glik	1	g l i k
+029/051	glik	1	g l i k
+029/053	glik	1	g l i k
+029/055	gliek	1	g l ie k
+029/057	gliek	1	g l ie k
+029/059	glik	1	g l i k
+029/061	gliek	1	g l ie k
+029/065	gliek	1	g l ie k
+029/067	gliek	1	g l ie k
+029/069	gliek	1	g l ie k
+029/071	gliik	1	g l ii k
+029/073	glik	1	g l i k
+029/075	gliek	1	g l ie k
+029/077	gliek	1	g l ie k
+029/079	glieck	1	g l ie ck
+029/081	gliek	1	g l ie k
+029/083	glieck	1	g l ie ck
+029/085	glik	1	g l i k
+029/087	glik	1	g l i k
+029/089	gliek	1	g l ie k
+029/091	glick	1	g l i ck
+029/093	gliek	1	g l ie k
+029/095	gliek	1	g l ie k
+029/097	gliek	1	g l ie k
+029/099	gliek	1	g l ie k
+029/101	gliek	1	g l ie k
+029/103	gliek	1	g l ie k
+029/105	glik	1	g l i k
+029/107	gliek	1	g l ie k
+029/109	glik	1	g l i k
+029/111	glik	1	g l i k
+029/113	gliek	1	g l ie k
+029/115	ball	1	b a ll
+029/117	gleich	1	g l ei ch
+029/119	glik	1	g l i k
+029/121	gliek	1	g l ie k
+029/123	gliek	1	g l ie k
+029/125	glick	1	g l i ck
+029/127	gliek	1	g l ie k
+029/129	gliek	1	g l ie k
+029/131	gliek	1	g l ie k
+029/133	glick	1	g l i ck
+029/135	gliik	1	g l ii k
+029/137	glik	1	g l i k
+029/139	gliek	1	g l ie k
+029/141	gliek	1	g l ie k
+029/143	glik	1	g l i k
+029/145	glik	1	g l i k
+029/147	glik	1	g l i k
+029/149	jlik	1	j l i k
+029/151	glig	1	g l i g
+029/153	föet	1	f öe t
+029/155	gliek	1	g l ie k
+029/157	vots	1	v o t s
+029/159	feuts	1	f eu t s
+029/161	bull	1	b u ll
+029/163	glik	1	g l i k
+029/165	jleich	1	j l ei ch
+029/167	foth	1	f o t h
+029/169	strackt	1	s t r a ck t
+029/171	jlick	1	j l i ck
+029/173	boll	1	b o ll
+029/175	gleich	1	g l ei ch
+029/177	boll	1	b o ll
+029/181	gleich	1	g l ei ch
+030/033	fut	1	f u t
+030/035	gliek	1	g l ie k
+030/037	futt	1	f u tt
+030/039	gliek	1	g l ie k
+030/041	gliek	1	g l ie k
+030/043	gliek	1	g l ie k
+030/045	glik	1	g l i k
+030/047	gliek	1	g l ie k
+030/049	glik	1	g l i k
+030/051	glik	1	g l i k
+030/053	gliek	1	g l ie k
+030/055	glick	1	g l i ck
+030/057	glik	1	g l i k
+030/059	gliek	1	g l ie k
+030/061	gliek	1	g l ie k
+030/065	glik	1	g l i k
+030/067	gliek	1	g l ie k
+030/071	glick	1	g l i ck
+030/073	gliek	1	g l ie k
+030/075	gliek	1	g l ie k
+030/077	gliek	1	g l ie k
+030/079	gliek	1	g l ie k
+030/081	gliek	1	g l ie k
+030/083	gliek	1	g l ie k
+030/085	glieck	1	g l ie ck
+030/087	gliek	1	g l ie k
+030/089	glik	1	g l i k
+030/091	glik	1	g l i k
+030/093	glik	1	g l i k
+030/095	glik	1	g l i k
+030/097	glik	1	g l i k
+030/099	gliek	1	g l ie k
+030/101	glik	1	g l i k
+030/103	glik	1	g l i k
+030/105	gliek	1	g l ie k
+030/107	gliek	1	g l ie k
+030/109	glieck	1	g l ie ck
+030/111	gliek	1	g l ie k
+030/113	glik	1	g l i k
+030/115	gleich	1	g l ei ch
+030/117	gleich	1	g l ei ch
+030/119	gleich	1	g l ei ch
+030/121	gleich	1	g l ei ch
+030/123	glick	1	g l i ck
+030/125	glick	1	g l i ck
+030/127	glick	1	g l i ck
+030/129	jlik	1	j l i k
+030/131	glick	1	g l i ck
+030/133	glik	1	g l i k
+030/135	glik	1	g l i k
+030/137	glik	1	g l i k
+030/139	glick	1	g l i ck
+030/141	glik	1	g l i k
+030/143	bal	1	b a l
+030/145	gliek	1	g l ie k
+030/147	glik	1	g l i k
+030/149	glick	1	g l i ck
+030/151	glik	1	g l i k
+030/153	bal	1	b a l
+030/155	ball	1	b a ll
+030/157	foets	1	f oe t s
+030/159	foet	1	f oe t
+030/161	bul	1	b u l
+030/163	bull	1	b u ll
+030/165	NA	NA	-
+030/167	gliek	1	g l ie k
+030/169	gleich	1	g l ei ch
+030/171	glick	1	g l i ck
+030/173	gleich	1	g l ei ch
+030/175	foets	1	f oe t s
+030/177	glick	1	g l i ck
+030/179	fots	1	f o t s
+030/181	gleich	1	g l ei ch
+030/183	gliek	1	g l ie k
+031/035	gliek	1	g l ie k
+031/037	vutt	1	v u tt
+031/039	gliek	1	g l ie k
+031/041	gliek	1	g l ie k
+031/043	gliek	1	g l ie k
+031/045	gliek	1	g l ie k
+031/047	gliek	1	g l ie k
+031/049	glik	1	g l i k
+031/051	glik	1	g l i k
+031/053	gliek	1	g l ie k
+031/055	glick	1	g l i ck
+031/057	gliek	1	g l ie k
+031/059	glick	1	g l i ck
+031/061	glick	1	g l i ck
+031/063	glick	1	g l i ck
+031/065	NA	NA	-
+031/067	gliek	1	g l ie k
+031/069	glik	1	g l i k
+031/071	gliek	1	g l ie k
+031/073	gliik	1	g l ii k
+031/075	glik	1	g l i k
+031/077	gliek	1	g l ie k
+031/079	glik	1	g l i k
+031/081	gliek	1	g l ie k
+031/083	gliek	1	g l ie k
+031/085	gliik	1	g l ii k
+031/087	glik	1	g l i k
+031/089	glik	1	g l i k
+031/091	gliek	1	g l ie k
+031/093	gliek	1	g l ie k
+031/095	gliek	1	g l ie k
+031/097	glieg	1	g l ie g
+031/099	gliek	1	g l ie k
+031/101	gliek	1	g l ie k
+031/103	glik	1	g l i k
+031/105	gliek	1	g l ie k
+031/107	glik	1	g l i k
+031/109	glik	1	g l i k
+031/111	glik	1	g l i k
+031/113	glieck	1	g l ie ck
+031/115	glich	1	g l i ch
+031/117	glick	1	g l i ck
+031/119	gliek	1	g l ie k
+031/121	gliek	1	g l ie k
+031/123	glick	1	g l i ck
+031/125	glik	1	g l i k
+031/127	ball	1	b a ll
+031/129	bal	1	b a l
+031/131	glik	1	g l i k
+031/133	gliek	1	g l ie k
+031/135	glik	1	g l i k
+031/137	glik	1	g l i k
+031/139	gliek	1	g l ie k
+031/141	glick	1	g l i ck
+031/143	glick	1	g l i ck
+031/145	glik	1	g l i k
+031/147	glick	1	g l i ck
+031/149	gleich	1	g l ei ch
+031/151	ball	1	b a ll
+031/153	gleich	1	g l ei ch
+031/155	glick	1	g l i ck
+031/157	gleich	1	g l ei ch
+031/159	foed	1	f oe d
+031/161	gleich	1	g l ei ch
+031/163	gleich	1	g l ei ch
+031/167	voets	1	v oe t s
+031/169	glei	1	g l ei
+031/171	glei	1	g l ei
+031/173	glei	1	g l ei
+031/175	jleich	1	j l ei ch
+031/177	glick	1	g l i ck
+031/179	gleich	1	g l ei ch
+032/035	futt	1	f u tt
+032/037	fut	1	f u t
+032/039	gliek	1	g l ie k
+032/041	glik	1	g l i k
+032/043	gliek	1	g l ie k
+032/045	gliek	1	g l ie k
+032/047	gliek	1	g l ie k
+032/049	gliek	1	g l ie k
+032/051	gliek	1	g l ie k
+032/053	gliek	1	g l ie k
+032/055	gliek	1	g l ie k
+032/057	gliek	1	g l ie k
+032/059	glick	1	g l i ck
+032/061	glick	1	g l i ck
+032/065	NA	NA	-
+032/069	glieck	1	g l ie ck
+032/071	gliek	1	g l ie k
+032/073	glik	1	g l i k
+032/075	gliek	1	g l ie k
+032/077	glick	1	g l i ck
+032/079	gliek	1	g l ie k
+032/081	gliek	1	g l ie k
+032/083	gliek	1	g l ie k
+032/085	gliek	1	g l ie k
+032/087	glik	1	g l i k
+032/089	glik	1	g l i k
+032/091	bald	1	b a l d
+032/093	glik	1	g l i k
+032/095	glick	1	g l i ck
+032/097	gliek	1	g l ie k
+032/099	gliek	1	g l ie k
+032/101	glik	1	g l i k
+032/103	gliek	1	g l ie k
+032/105	jliek	1	j l ie k
+032/107	gliek	1	g l ie k
+032/111	gleich	1	g l ei ch
+032/113	gliek	1	g l ie k
+032/115	gliek	1	g l ie k
+032/117	glick	1	g l i ck
+032/119	bald	1	b a l d
+032/121	gliek	1	g l ie k
+032/123	bald	1	b a l d
+032/125	glieck	1	g l ie ck
+032/127	glik	1	g l i k
+032/129	ball	1	b a ll
+032/131	glik	1	g l i k
+032/133	glick	1	g l i ck
+032/135	gliek	1	g l ie k
+032/139	gliek	1	g l ie k
+032/141	glick	1	g l i ck
+032/143	glick	1	g l i ck
+032/145	glick	1	g l i ck
+032/147	glick	1	g l i ck
+032/149	glik	1	g l i k
+032/151	gleich	1	g l ei ch
+032/153	jliek	1	j l ie k
+032/157	gleich	1	g l ei ch
+032/159	gleich	1	g l ei ch
+032/161	glidj	1	g l i d j
+032/163	gleich	1	g l ei ch
+032/167	glik	1	g l i k
+032/169	glei	1	g l ei
+032/171	glei	1	g l ei
+032/173	gleich	1	g l ei ch
+032/175	strak	1	s t r a k
+032/177	fohts	1	f oh t s
+032/179	fot	1	f o t
+032/181	stracks	1	s t r a ck s
+032/183	bul	1	b u l
+033/035	gliek	1	g l ie k
+033/037	gliek	1	g l ie k
+033/039	glieck	1	g l ie ck
+033/041	glick	1	g l i ck
+033/043	glieck	1	g l ie ck
+033/045	gliek	1	g l ie k
+033/047	gliek	1	g l ie k
+033/049	gliek	1	g l ie k
+033/051	gliek	1	g l ie k
+033/053	gliek	1	g l ie k
+033/055	gliek	1	g l ie k
+033/057	gliek	1	g l ie k
+033/059	gliek	1	g l ie k
+033/061	gliek	1	g l ie k
+033/063	glik	1	g l i k
+033/065	gliek	1	g l ie k
+033/067	glik	1	g l i k
+033/069	glik	1	g l i k
+033/071	glik	1	g l i k
+033/073	glick	1	g l i ck
+033/075	bald	1	b a l d
+033/077	glik	1	g l i k
+033/079	gliek	1	g l ie k
+033/081	gliek	1	g l ie k
+033/083	glik	1	g l i k
+033/085	glik	1	g l i k
+033/087	gliek	1	g l ie k
+033/089	gliek	1	g l ie k
+033/091	gliek	1	g l ie k
+033/093	gliek	1	g l ie k
+033/095	gliek	1	g l ie k
+033/097	gliek	1	g l ie k
+033/099	glik	1	g l i k
+033/101	glik	1	g l i k
+033/103	gliek	1	g l ie k
+033/105	glik	1	g l i k
+033/107	gliek	1	g l ie k
+033/109	glik	1	g l i k
+033/111	gliek	1	g l ie k
+033/113	gliek	1	g l ie k
+033/115	glik	1	g l i k
+033/117	gliek	1	g l ie k
+033/119	bald	1	b a l d
+033/121	gleich	1	g l ei ch
+033/123	glik	1	g l i k
+033/125	ball	1	b a ll
+033/127	gleich	1	g l ei ch
+033/129	bald	1	b a l d
+033/131	glick	1	g l i ck
+033/133	gliek	1	g l ie k
+033/135	gliek	1	g l ie k
+033/137	gliek	1	g l ie k
+033/139	gliek	1	g l ie k
+033/141	glik	1	g l i k
+033/143	glik	1	g l i k
+033/145	jliik	1	j l ii k
+033/147	jlik	1	j l i k
+033/149	glick	1	g l i ck
+033/151	gleich	1	g l ei ch
+033/153	glick	1	g l i ck
+033/155	gleich	1	g l ei ch
+033/159	gleich	1	g l ei ch
+033/161	gleich	1	g l ei ch
+033/163	gliek	1	g l ie k
+033/165	gleich	1	g l ei ch
+033/167	bol	1	b o l
+033/169	strack	1	s t r a ck
+033/173	jleich	1	j l ei ch
+033/175	gliek	1	g l ie k
+033/177	NA	NA	-
+034/035	futt	1	f u tt
+034/039	glik	1	g l i k
+034/041	glik	1	g l i k
+034/043	gliek	1	g l ie k
+034/045	glik	1	g l i k
+034/047	gliek	1	g l ie k
+034/049	glik	1	g l i k
+034/051	gliek	1	g l ie k
+034/053	glik	1	g l i k
+034/055	gliek	1	g l ie k
+034/057	gliek	1	g l ie k
+034/059	bald	1	b a l d
+034/061	gliek	1	g l ie k
+034/063	glik	1	g l i k
+034/065	glik	1	g l i k
+034/067	glik	1	g l i k
+034/069	gliek	1	g l ie k
+034/071	glieck	1	g l ie ck
+034/073	glik	1	g l i k
+034/075	gliek	1	g l ie k
+034/077	gliek	1	g l ie k
+034/079	gliek	1	g l ie k
+034/081	gliek	1	g l ie k
+034/083	glik	1	g l i k
+034/085	glick	1	g l i ck
+034/087	gliek	1	g l ie k
+034/089	glik	1	g l i k
+034/091	glik	1	g l i k
+034/093	gliek	1	g l ie k
+034/095	glik	1	g l i k
+034/097	gliek	1	g l ie k
+034/099	gliek	1	g l ie k
+034/101	gliek	1	g l ie k
+034/103	glieck	1	g l ie ck
+034/105	glik	1	g l i k
+034/107	gliek	1	g l ie k
+034/109	glich	1	g l i ch
+034/111	gliek	1	g l ie k
+034/113	jlik	1	j l i k
+034/115	glick	1	g l i ck
+034/117	glik	1	g l i k
+034/119	glick	1	g l i ck
+034/121	glik	1	g l i k
+034/125	glick	1	g l i ck
+034/127	gleich	1	g l ei ch
+034/129	gliech	1	g l ie ch
+034/131	glick	1	g l i ck
+034/133	gliek	1	g l ie k
+034/135	gliek	1	g l ie k
+034/137	gleich	1	g l ei ch
+034/139	glick	1	g l i ck
+034/141	glick	1	g l i ck
+034/143	glick	1	g l i ck
+034/145	glik	1	g l i k
+034/147	glick	1	g l i ck
+034/149	gleich	1	g l ei ch
+034/151	glick	1	g l i ck
+034/155	glick	1	g l i ck
+034/157	gleich	1	g l ei ch
+034/161	gleich	1	g l ei ch
+034/163	NA	NA	-
+034/165	bull	1	b u ll
+034/167	jlik	1	j l i k
+034/169	boll	1	b o ll
+034/173	bol	1	b o l
+035/035	gliek	1	g l ie k
+035/037	gliek	1	g l ie k
+035/039	glik	1	g l i k
+035/041	glik	1	g l i k
+035/043	gliek	1	g l ie k
+035/045	gliek	1	g l ie k
+035/047	glik	1	g l i k
+035/049	gliek	1	g l ie k
+035/051	glik	1	g l i k
+035/053	gliek	1	g l ie k
+035/055	glik	1	g l i k
+035/057	gliek	1	g l ie k
+035/059	glik	1	g l i k
+035/061	glick	1	g l i ck
+035/063	gliek	1	g l ie k
+035/065	glik	1	g l i k
+035/067	gliek	1	g l ie k
+035/069	glik	1	g l i k
+035/071	glik	1	g l i k
+035/073	gliek	1	g l ie k
+035/075	gliek	1	g l ie k
+035/077	chlieck	1	ch l ie ck
+035/079	gliek	1	g l ie k
+035/081	gliek	1	g l ie k
+035/083	gliek	1	g l ie k
+035/085	glik	1	g l i k
+035/087	glick	1	g l i ck
+035/089	glik	1	g l i k
+035/091	glick	1	g l i ck
+035/093	gliek	1	g l ie k
+035/095	gliek	1	g l ie k
+035/097	glik	1	g l i k
+035/099	glik	1	g l i k
+035/101	jliek	1	j l ie k
+035/103	glik	1	g l i k
+035/105	glieck	1	g l ie ck
+035/107	gliek	1	g l ie k
+035/109	gliek	1	g l ie k
+035/111	gleich	1	g l ei ch
+035/113	gleich	1	g l ei ch
+035/115	gleich	1	g l ei ch
+035/117	gliek	1	g l ie k
+035/121	gleich	1	g l ei ch
+035/123	gleich	1	g l ei ch
+035/125	gliech	1	g l ie ch
+035/127	gliech	1	g l ie ch
+035/129	glik	1	g l i k
+035/133	gleich	1	g l ei ch
+035/135	glik	1	g l i k
+035/137	glieg	1	g l ie g
+035/139	glik	1	g l i k
+035/141	glik	1	g l i k
+035/143	gleich	1	g l ei ch
+035/145	glik	1	g l i k
+035/147	gleich	1	g l ei ch
+035/149	gleich	1	g l ei ch
+035/151	ball	1	b a ll
+035/153	glik	1	g l i k
+035/155	gleich	1	g l ei ch
+035/157	ball	1	b a ll
+035/165	gliek	1	g l ie k
+035/167	jleich	1	j l ei ch
+035/169	gleich	1	g l ei ch
+035/171	boll	1	b o ll
+035/173	straks	1	s t r a k s
+036/033	gliek	1	g l ie k
+036/035	fort	1	f o r t
+036/039	gliek	1	g l ie k
+036/041	gliek	1	g l ie k
+036/043	glik	1	g l i k
+036/045	gliek	1	g l ie k
+036/047	gliek	1	g l ie k
+036/049	glik	1	g l i k
+036/051	gliek	1	g l ie k
+036/053	gliek	1	g l ie k
+036/055	glik	1	g l i k
+036/057	gliek	1	g l ie k
+036/059	glick	1	g l i ck
+036/061	gliek	1	g l ie k
+036/063	gliek	1	g l ie k
+036/065	gliek	1	g l ie k
+036/067	glik	1	g l i k
+036/069	gliek	1	g l ie k
+036/071	glik	1	g l i k
+036/073	gliek	1	g l ie k
+036/075	gliek	1	g l ie k
+036/077	glich	1	g l i ch
+036/079	gliek	1	g l ie k
+036/081	glik	1	g l i k
+036/083	glik	1	g l i k
+036/085	gliek	1	g l ie k
+036/087	gliek	1	g l ie k
+036/089	gliek	1	g l ie k
+036/091	gliek	1	g l ie k
+036/095	gliek	1	g l ie k
+036/097	glik	1	g l i k
+036/099	gliek	1	g l ie k
+036/101	gliek	1	g l ie k
+036/103	gliek	1	g l ie k
+036/105	gliek	1	g l ie k
+036/107	glik	1	g l i k
+036/109	jliech	1	j l ie ch
+036/111	jlich	1	j l i ch
+036/113	gliek	1	g l ie k
+036/115	jleich	1	j l ei ch
+036/117	glich	1	g l i ch
+036/119	gliech	1	g l ie ch
+036/121	gliech	1	g l ie ch
+036/123	gliech	1	g l ie ch
+036/125	glich	1	g l i ch
+036/127	gliek	1	g l ie k
+036/129	gleich	1	g l ei ch
+036/133	gliek	1	g l ie k
+036/135	bal	1	b a l
+036/137	gleich	1	g l ei ch
+036/139	glick	1	g l i ck
+036/141	ball	1	b a ll
+036/143	gleich	1	g l ei ch
+036/147	baal	1	b aa l
+036/149	jlick	1	j l i ck
+036/151	gleich	1	g l ei ch
+036/153	glik	1	g l i k
+036/155	glik	1	g l i k
+036/161	gleich	1	g l ei ch
+036/163	gleich	1	g l ei ch
+036/165	gleich	1	g l ei ch
+036/167	gleich	1	g l ei ch
+036/169	gleich	1	g l ei ch
+036/171	gleich	1	g l ei ch
+037/033	glieck	1	g l ie ck
+037/035	stracks	1	s t r a ck s
+037/037	glick	1	g l i ck
+037/039	gliek	1	g l ie k
+037/041	gliiek	1	g l iie k
+037/043	gliek	1	g l ie k
+037/045	glik	1	g l i k
+037/047	glick	1	g l i ck
+037/049	gliek	1	g l ie k
+037/051	gliek	1	g l ie k
+037/053	gliek	1	g l ie k
+037/055	glik	1	g l i k
+037/057	glik	1	g l i k
+037/059	gliek	1	g l ie k
+037/061	gliek	1	g l ie k
+037/063	glik	1	g l i k
+037/065	glik	1	g l i k
+037/067	gliik	1	g l ii k
+037/069	gliek	1	g l ie k
+037/071	gliek	1	g l ie k
+037/073	glick	1	g l i ck
+037/075	glieck	1	g l ie ck
+037/077	gliek	1	g l ie k
+037/079	gliek	1	g l ie k
+037/081	gliek	1	g l ie k
+037/083	gliek	1	g l ie k
+037/085	gliek	1	g l ie k
+037/087	gliek	1	g l ie k
+037/089	glik	1	g l i k
+037/091	glik	1	g l i k
+037/093	glik	1	g l i k
+037/095	gleich	1	g l ei ch
+037/097	gliek	1	g l ie k
+037/099	glik	1	g l i k
+037/101	jliek	1	j l ie k
+037/105	glik	1	g l i k
+037/107	jlik	1	j l i k
+037/109	glich	1	g l i ch
+037/111	gliech	1	g l ie ch
+037/113	gleich	1	g l ei ch
+037/115	balle	1	b a ll e
+037/117	jleich	1	j l ei ch
+037/119	jliich	1	j l ii ch
+037/121	glick	1	g l i ck
+037/123	glich	1	g l i ch
+037/125	glich	1	g l i ch
+037/127	gliek	1	g l ie k
+037/129	gliech	1	g l ie ch
+037/131	gliek	1	g l ie k
+037/133	gleich	1	g l ei ch
+037/135	gleich	1	g l ei ch
+037/137	gleich	1	g l ei ch
+037/139	gleich	1	g l ei ch
+037/141	bald	1	b a l d
+037/145	bahl	1	b ah l
+037/147	NA	NA	-
+037/149	gleich	1	g l ei ch
+037/151	bal	1	b a l
+037/153	gliek	1	g l ie k
+037/155	gleich	1	g l ei ch
+037/157	gleich	1	g l ei ch
+037/159	glaich	1	g l ai ch
+037/163	glick	1	g l i ck
+037/171	gleich	1	g l ei ch
+038/033	glik	1	g l i k
+038/035	glick	1	g l i ck
+038/037	glik	1	g l i k
+038/039	glik	1	g l i k
+038/041	gliek	1	g l ie k
+038/043	gliik	1	g l ii k
+038/045	glik	1	g l i k
+038/047	gliek	1	g l ie k
+038/049	glik	1	g l i k
+038/051	glik	1	g l i k
+038/053	glieck	1	g l ie ck
+038/055	glik	1	g l i k
+038/057	gliek	1	g l ie k
+038/059	glik	1	g l i k
+038/061	gliek	1	g l ie k
+038/063	glieck	1	g l ie ck
+038/065	glick	1	g l i ck
+038/067	gliek	1	g l ie k
+038/069	glik	1	g l i k
+038/071	glieck	1	g l ie ck
+038/073	glick	1	g l i ck
+038/075	gliek	1	g l ie k
+038/077	glick	1	g l i ck
+038/079	glik	1	g l i k
+038/081	bald	1	b a l d
+038/083	gliek	1	g l ie k
+038/085	jlik	1	j l i k
+038/087	jlik	1	j l i k
+038/089	glik	1	g l i k
+038/091	glik	1	g l i k
+038/093	glik	1	g l i k
+038/095	jliek	1	j l ie k
+038/097	gliek	1	g l ie k
+038/099	jliek	1	j l ie k
+038/101	gliek	1	g l ie k
+038/103	gliech	1	g l ie ch
+038/105	gliek	1	g l ie k
+038/107	jliech	1	j l ie ch
+038/109	gliech	1	g l ie ch
+038/111	gliech	1	g l ie ch
+038/113	jliech	1	j l ie ch
+038/115	balle	1	b a ll e
+038/117	glik	1	g l i k
+038/119	jleich	1	j l ei ch
+038/121	glich	1	g l i ch
+038/123	gliech	1	g l ie ch
+038/125	gliech	1	g l ie ch
+038/127	gliech	1	g l ie ch
+038/129	gleich	1	g l ei ch
+038/131	gleich	1	g l ei ch
+038/133	gleich	1	g l ei ch
+038/135	gleich	1	g l ei ch
+038/145	glick	1	g l i ck
+038/147	gleich	1	g l ei ch
+038/149	gleich	1	g l ei ch
+038/151	gleich	1	g l ei ch
+038/153	gleich	1	g l ei ch
+038/155	gleich	1	g l ei ch
+038/159	gleich	1	g l ei ch
+038/161	gleich	1	g l ei ch
+038/163	gleich	1	g l ei ch
+039/029	NA	NA	-
+039/031	gliek	1	g l ie k
+039/033	foret	1	f o r e t
+039/035	glik	1	g l i k
+039/037	stracks	1	s t r a ck s
+039/039	gliek	1	g l ie k
+039/041	gliek	1	g l ie k
+039/043	gliek	1	g l ie k
+039/045	gliek	1	g l ie k
+039/047	gliek	1	g l ie k
+039/049	gliek	1	g l ie k
+039/051	glik	1	g l i k
+039/053	gliek	1	g l ie k
+039/055	glik	1	g l i k
+039/057	gliek	1	g l ie k
+039/059	glik	1	g l i k
+039/061	gliek	1	g l ie k
+039/063	gliek	1	g l ie k
+039/065	glick	1	g l i ck
+039/067	glick	1	g l i ck
+039/069	gliek	1	g l ie k
+039/071	gliek	1	g l ie k
+039/073	glick	1	g l i ck
+039/075	glick	1	g l i ck
+039/077	glik	1	g l i k
+039/079	gliek	1	g l ie k
+039/081	gliek	1	g l ie k
+039/083	gliek	1	g l ie k
+039/085	glik	1	g l i k
+039/087	glik	1	g l i k
+039/089	jliek	1	j l ie k
+039/091	gliek	1	g l ie k
+039/093	gliek	1	g l ie k
+039/095	jliek	1	j l ie k
+039/097	gliek	1	g l ie k
+039/099	gliik	1	g l ii k
+039/101	glieck	1	g l ie ck
+039/103	glik	1	g l i k
+039/105	glich	1	g l i ch
+039/107	glieck	1	g l ie ck
+039/109	gliech	1	g l ie ch
+039/111	gleich	1	g l ei ch
+039/113	gleich	1	g l ei ch
+039/115	jliech	1	j l ie ch
+039/117	jliech	1	j l ie ch
+039/119	gliech	1	g l ie ch
+039/121	glich	1	g l i ch
+039/123	gliech	1	g l ie ch
+039/125	gliech	1	g l ie ch
+039/127	gliech	1	g l ie ch
+039/129	balle	1	b a ll e
+039/131	glei	1	g l ei
+039/133	NA	NA	-
+039/135	gleich	1	g l ei ch
+039/137	gleich	1	g l ei ch
+039/139	gleich	1	g l ei ch
+039/149	gleich	1	g l ei ch
+039/151	glieck	1	g l ie ck
+039/153	glick	1	g l i ck
+039/155	gleich	1	g l ei ch
+040/029	gliek	1	g l ie k
+040/031	voat	1	v oa t
+040/033	fort	1	f o r t
+040/035	gliek	1	g l ie k
+040/037	voort	1	v oo r t
+040/039	gliek	1	g l ie k
+040/041	glyk	1	g l y k
+040/043	glik	1	g l i k
+040/045	gliek	1	g l ie k
+040/047	gliek	1	g l ie k
+040/049	gliek	1	g l ie k
+040/051	gliek	1	g l ie k
+040/053	gliek	1	g l ie k
+040/055	gliek	1	g l ie k
+040/057	gliik	1	g l ii k
+040/059	glik	1	g l i k
+040/061	gliek	1	g l ie k
+040/063	glik	1	g l i k
+040/065	gliek	1	g l ie k
+040/067	gliek	1	g l ie k
+040/069	glik	1	g l i k
+040/071	gliek	1	g l ie k
+040/073	glik	1	g l i k
+040/075	gliek	1	g l ie k
+040/077	gliek	1	g l ie k
+040/079	gliek	1	g l ie k
+040/081	gliek	1	g l ie k
+040/083	glik	1	g l i k
+040/085	glik	1	g l i k
+040/087	jliek	1	j l ie k
+040/089	glik	1	g l i k
+040/091	gliek	1	g l ie k
+040/093	gliek	1	g l ie k
+040/095	jlik	1	j l i k
+040/097	gliek	1	g l ie k
+040/099	jliek	1	j l ie k
+040/101	glik	1	g l i k
+040/103	jliek	1	j l ie k
+040/105	gliek	1	g l ie k
+040/107	NA	NA	-
+040/109	jleich	1	j l ei ch
+040/111	glich	1	g l i ch
+040/113	glik	1	g l i k
+040/115	gleich	1	g l ei ch
+040/119	gliech	1	g l ie ch
+040/121	gliech	1	g l ie ch
+040/123	gliech	1	g l ie ch
+040/125	gleich	1	g l ei ch
+040/127	glei	1	g l ei
+040/129	gleich	1	g l ei ch
+040/131	glei	1	g l ei
+040/133	glei	1	g l ei
+040/135	gleich	1	g l ei ch
+040/137	gleich	1	g l ei ch
+040/141	gleh	1	g l eh
+040/143	gleich	1	g l ei ch
+040/149	glei	1	g l ei
+040/153	gleich	1	g l ei ch
+040/155	gleich	1	g l ei ch
+041/031	gliek	1	g l ie k
+041/033	foort	1	f oo r t
+041/035	gliek	1	g l ie k
+041/037	gliek	1	g l ie k
+041/039	boale	1	b oa l e
+041/041	gliek	1	g l ie k
+041/043	gliek	1	g l ie k
+041/045	gliek	1	g l ie k
+041/047	gliek	1	g l ie k
+041/049	glik	1	g l i k
+041/051	gliek	1	g l ie k
+041/053	gliek	1	g l ie k
+041/055	gliek	1	g l ie k
+041/057	gliek	1	g l ie k
+041/059	glick	1	g l i ck
+041/061	glik	1	g l i k
+041/063	glick	1	g l i ck
+041/065	glik	1	g l i k
+041/067	gliek	1	g l ie k
+041/069	gliek	1	g l ie k
+041/071	gliek	1	g l ie k
+041/073	glick	1	g l i ck
+041/075	gliek	1	g l ie k
+041/077	gliek	1	g l ie k
+041/079	gliek	1	g l ie k
+041/081	gliek	1	g l ie k
+041/083	gliek	1	g l ie k
+041/085	bald	1	b a l d
+041/087	glik	1	g l i k
+041/089	gliek	1	g l ie k
+041/091	gliek	1	g l ie k
+041/093	glik	1	g l i k
+041/095	glik	1	g l i k
+041/097	gliek	1	g l ie k
+041/099	gliek	1	g l ie k
+041/101	gliek	1	g l ie k
+041/103	gliek	1	g l ie k
+041/105	glick	1	g l i ck
+041/107	jlich	1	j l i ch
+041/109	gliik	1	g l ii k
+041/111	jleich	1	j l ei ch
+041/113	gliich	1	g l ii ch
+041/115	gliek	1	g l ie k
+041/117	gliech	1	g l ie ch
+041/119	glich	1	g l i ch
+041/121	glich	1	g l i ch
+041/123	gliech	1	g l ie ch
+041/125	gleich	1	g l ei ch
+041/127	gleich	1	g l ei ch
+041/129	gleich	1	g l ei ch
+041/131	gleich	1	g l ei ch
+041/133	gleich	1	g l ei ch
+041/135	gleich	1	g l ei ch
+041/139	gleich	1	g l ei ch
+041/141	gleich	1	g l ei ch
+041/145	glei	1	g l ei
+041/147	glaich	1	g l ai ch
+041/153	gleich	1	g l ei ch
+041/155	bal	1	b a l
+041/157	gleich	1	g l ei ch
+041/159	bal	1	b a l
+041/161	gleich	1	g l ei ch
+042/033	gliek	1	g l ie k
+042/035	glik	1	g l i k
+042/037	glick	1	g l i ck
+042/039	gliek	1	g l ie k
+042/041	glik	1	g l i k
+042/043	glick	1	g l i ck
+042/045	gliik	1	g l ii k
+042/047	glik	1	g l i k
+042/051	gliek	1	g l ie k
+042/053	gliek	1	g l ie k
+042/055	glick	1	g l i ck
+042/057	glik	1	g l i k
+042/059	gliek	1	g l ie k
+042/061	gliek	1	g l ie k
+042/063	glick	1	g l i ck
+042/065	glik	1	g l i k
+042/067	gliek	1	g l ie k
+042/069	glik	1	g l i k
+042/071	gliek	1	g l ie k
+042/073	gliek	1	g l ie k
+042/075	gliek	1	g l ie k
+042/077	gliek	1	g l ie k
+042/079	gliek	1	g l ie k
+042/081	gliek	1	g l ie k
+042/083	gliek	1	g l ie k
+042/085	glik	1	g l i k
+042/087	glik	1	g l i k
+042/089	gliek	1	g l ie k
+042/091	glik	1	g l i k
+042/093	gliek	1	g l ie k
+042/095	gliek	1	g l ie k
+042/097	glik	1	g l i k
+042/099	jlix	1	j l i x
+042/101	jlieck	1	j l ie ck
+042/103	jleck	1	j l e ck
+042/105	jleich	1	j l ei ch
+042/107	gleich	1	g l ei ch
+042/109	glik	1	g l i k
+042/111	gleich	1	g l ei ch
+042/113	gleich	1	g l ei ch
+042/115	gleich	1	g l ei ch
+042/117	gliech	1	g l ie ch
+042/119	gliech	1	g l ie ch
+042/121	bolle	1	b o ll e
+042/123	gleich	1	g l ei ch
+042/125	gleik	1	g l ei k
+042/127	gleich	1	g l ei ch
+042/129	gleich	1	g l ei ch
+042/131	bale	1	b a l e
+042/133	gleich	1	g l ei ch
+042/135	glei	1	g l ei
+042/137	gläich	1	g l äi ch
+042/139	glei	1	g l ei
+042/141	glai	1	g l ai
+042/143	glaich	1	g l ai ch
+042/145	gleich	1	g l ei ch
+042/147	glach	1	g l a ch
+042/149	glei	1	g l ei
+042/151	glaich	1	g l ai ch
+042/157	jleich	1	j l ei ch
+042/159	gleich	1	g l ei ch
+042/161	gleich	1	g l ei ch
+043/033	gau	1	g au
+043/035	gliek	1	g l ie k
+043/037	glick	1	g l i ck
+043/039	gliek	1	g l ie k
+043/041	gliek	1	g l ie k
+043/043	glik	1	g l i k
+043/045	glik	1	g l i k
+043/047	glik	1	g l i k
+043/049	gliik	1	g l ii k
+043/051	glik	1	g l i k
+043/053	glik	1	g l i k
+043/055	gliek	1	g l ie k
+043/057	gliek	1	g l ie k
+043/059	gliek	1	g l ie k
+043/061	glieck	1	g l ie ck
+043/063	gliek	1	g l ie k
+043/065	glik	1	g l i k
+043/067	gliek	1	g l ie k
+043/069	gläik	1	g l äi k
+043/071	glek	1	g l e k
+043/073	gliek	1	g l ie k
+043/075	gliek	1	g l ie k
+043/077	gliek	1	g l ie k
+043/079	gliek	1	g l ie k
+043/081	gliek	1	g l ie k
+043/083	gliek	1	g l ie k
+043/085	gliek	1	g l ie k
+043/087	glik	1	g l i k
+043/089	jliek	1	j l ie k
+043/091	gliek	1	g l ie k
+043/093	glik	1	g l i k
+043/095	jliek	1	j l ie k
+043/097	gliek	1	g l ie k
+043/099	jliek	1	j l ie k
+043/101	gleich	1	g l ei ch
+043/103	gliek	1	g l ie k
+043/105	gliek	1	g l ie k
+043/107	glik	1	g l i k
+043/109	jliek	1	j l ie k
+043/111	gleich	1	g l ei ch
+043/113	bald	1	b a l d
+043/115	bolle	1	b o ll e
+043/117	gliech	1	g l ie ch
+043/119	gleich	1	g l ei ch
+043/121	glich	1	g l i ch
+043/123	gleich	1	g l ei ch
+043/125	gleich	1	g l ei ch
+043/127	gleich	1	g l ei ch
+043/129	gleich	1	g l ei ch
+043/131	gleich	1	g l ei ch
+043/133	glei	1	g l ei
+043/135	glei	1	g l ei
+043/137	glai	1	g l ai
+043/141	glei	1	g l ei
+043/143	gleich	1	g l ei ch
+043/145	gleich	1	g l ei ch
+043/151	gleich	1	g l ei ch
+043/153	glei	1	g l ei
+043/159	ball	1	b a ll
+043/161	glich	1	g l i ch
+044/033	gliek	1	g l ie k
+044/035	gliek	1	g l ie k
+044/039	gliek	1	g l ie k
+044/041	gliek	1	g l ie k
+044/043	glik	1	g l i k
+044/045	glik	1	g l i k
+044/047	gliek	1	g l ie k
+044/049	glik	1	g l i k
+044/051	gluik	1	g l ui k
+044/053	gluik	1	g l ui k
+044/055	gluik	1	g l ui k
+044/057	glik	1	g l i k
+044/059	glyk	1	g l y k
+044/061	gliek	1	g l ie k
+044/063	gläik	1	g l äi k
+044/065	glöik	1	g l öi k
+044/067	glöik	1	g l öi k
+044/069	gluik	1	g l ui k
+044/071	glik	1	g l i k
+044/073	gläik	1	g l äi k
+044/075	gliek	1	g l ie k
+044/077	gliek	1	g l ie k
+044/079	glik	1	g l i k
+044/081	gliek	1	g l ie k
+044/083	gliek	1	g l ie k
+044/085	glick	1	g l i ck
+044/087	gliek	1	g l ie k
+044/089	gliek	1	g l ie k
+044/091	gliek	1	g l ie k
+044/093	gliek	1	g l ie k
+044/095	glik	1	g l i k
+044/097	glik	1	g l i k
+044/099	gleich	1	g l ei ch
+044/101	gläich	1	g l äi ch
+044/103	gliek	1	g l ie k
+044/105	gliek	1	g l ie k
+044/107	jliek	1	j l ie k
+044/109	glich	1	g l i ch
+044/111	gleich	1	g l ei ch
+044/113	gleich	1	g l ei ch
+044/115	gleich	1	g l ei ch
+044/117	gleuch	1	g l eu ch
+044/119	glich	1	g l i ch
+044/121	gleich	1	g l ei ch
+044/123	glei	1	g l ei
+044/125	glaich	1	g l ai ch
+044/127	gleich	1	g l ei ch
+044/129	gleich	1	g l ei ch
+044/131	gleich	1	g l ei ch
+044/133	glaich	1	g l ai ch
+044/135	glaich	1	g l ai ch
+044/137	glai	1	g l ai
+044/141	glei	1	g l ei
+044/143	glai	1	g l ai
+044/145	glai	1	g l ai
+044/149	glei	1	g l ei
+044/151	glä	1	g l ä
+044/153	glei	1	g l ei
+045/033	gliek	1	g l ie k
+045/035	gliek	1	g l ie k
+045/037	glik	1	g l i k
+045/039	fot	1	f o t
+045/041	gliek	1	g l ie k
+045/043	gliek	1	g l ie k
+045/045	foat	1	f oa t
+045/047	glieck	1	g l ie ck
+045/049	glik	1	g l i k
+045/051	gluik	1	g l ui k
+045/053	gläik	1	g l äi k
+045/055	gluik	1	g l ui k
+045/057	gleik	1	g l ei k
+045/059	glöik	1	g l öi k
+045/061	gläik	1	g l äi k
+045/063	gläik	1	g l äi k
+045/065	gleuk	1	g l eu k
+045/067	glöik	1	g l öi k
+045/069	glöik	1	g l öi k
+045/071	gläik	1	g l äi k
+045/073	glaik	1	g l ai k
+045/075	gleik	1	g l ei k
+045/077	glik	1	g l i k
+045/079	gliek	1	g l ie k
+045/081	glik	1	g l i k
+045/083	gliek	1	g l ie k
+045/085	gliek	1	g l ie k
+045/087	gliek	1	g l ie k
+045/089	jliek	1	j l ie k
+045/091	jlik	1	j l i k
+045/093	jlik	1	j l i k
+045/095	glaich	1	g l ai ch
+045/097	gleuch	1	g l eu ch
+045/099	gleich	1	g l ei ch
+045/101	gläich	1	g l äi ch
+045/103	gliek	1	g l ie k
+045/105	gliech	1	g l ie ch
+045/107	gliech	1	g l ie ch
+045/109	glich	1	g l i ch
+045/111	gleich	1	g l ei ch
+045/113	gleich	1	g l ei ch
+045/115	gleich	1	g l ei ch
+045/117	gleich	1	g l ei ch
+045/119	gleich	1	g l ei ch
+045/121	jleich	1	j l ei ch
+045/123	glei	1	g l ei
+045/125	gleich	1	g l ei ch
+045/127	gleich	1	g l ei ch
+045/129	gleich	1	g l ei ch
+045/131	glei	1	g l ei
+045/133	gleich	1	g l ei ch
+045/135	gleich	1	g l ei ch
+045/137	glai	1	g l ai
+045/139	glai	1	g l ai
+045/141	glei	1	g l ei
+045/143	glai	1	g l ai
+045/145	glei	1	g l ei
+045/155	glaich	1	g l ai ch
+046/031	glik	1	g l i k
+046/033	glik	1	g l i k
+046/035	gliek	1	g l ie k
+046/037	gliek	1	g l ie k
+046/039	gliek	1	g l ie k
+046/041	gliek	1	g l ie k
+046/043	glik	1	g l i k
+046/045	gluik	1	g l ui k
+046/047	gluik	1	g l ui k
+046/049	gluik	1	g l ui k
+046/051	gluik	1	g l ui k
+046/053	glüik	1	g l üi k
+046/055	glück	1	g l ü ck
+046/057	gleik	1	g l ei k
+046/059	gliek	1	g l ie k
+046/061	gluik	1	g l ui k
+046/063	gläik	1	g l äi k
+046/065	glöik	1	g l öi k
+046/067	glöick	1	g l öi ck
+046/069	gläik	1	g l äi k
+046/071	gläick	1	g l äi ck
+046/073	gleuik	1	g l eui k
+046/075	gläik	1	g l äi k
+046/077	gliek	1	g l ie k
+046/079	glik	1	g l i k
+046/081	gliek	1	g l ie k
+046/083	glik	1	g l i k
+046/085	gliek	1	g l ie k
+046/087	gliek	1	g l ie k
+046/089	gliech	1	g l ie ch
+046/091	gliek	1	g l ie k
+046/093	jleich	1	j l ei ch
+046/095	gleich	1	g l ei ch
+046/097	geläg	1	g e l ä g
+046/099	gleich	1	g l ei ch
+046/101	gläich	1	g l äi ch
+046/103	gleich	1	g l ei ch
+046/105	glik	1	g l i k
+046/107	gleich	1	g l ei ch
+046/109	glech	1	g l e ch
+046/111	glech	1	g l e ch
+046/113	jleich	1	j l ei ch
+046/115	gleich	1	g l ei ch
+046/117	nu	1	n u
+046/119	glei	1	g l ei
+046/121	gleich	1	g l ei ch
+046/123	gleich	1	g l ei ch
+046/125	glai	1	g l ai
+046/127	glei	1	g l ei
+046/129	gleich	1	g l ei ch
+046/131	gleich	1	g l ei ch
+046/133	glei	1	g l ei
+046/135	gle	1	g l e
+046/137	gleich	1	g l ei ch
+046/139	glee	1	g l ee
+046/141	gle	1	g l e
+046/143	glei	1	g l ei
+046/155	gle	1	g l e
+047/031	glik	1	g l i k
+047/033	glik	1	g l i k
+047/035	gliek	1	g l ie k
+047/037	glik	1	g l i k
+047/039	gliek	1	g l ie k
+047/041	glick	1	g l i ck
+047/043	gliek	1	g l ie k
+047/045	gliek	1	g l ie k
+047/047	gläik	1	g l äi k
+047/049	gliek	1	g l ie k
+047/051	gluik	1	g l ui k
+047/053	glüik	1	g l üi k
+047/055	gluick	1	g l ui ck
+047/057	glück	1	g l ü ck
+047/059	gliek	1	g l ie k
+047/061	gläik	1	g l äi k
+047/063	gläik	1	g l äi k
+047/065	gläik	1	g l äi k
+047/067	glöik	1	g l öi k
+047/069	gliek	1	g l ie k
+047/071	gliek	1	g l ie k
+047/073	gläik	1	g l äi k
+047/075	gläik	1	g l äi k
+047/077	gliek	1	g l ie k
+047/079	glik	1	g l i k
+047/081	gliek	1	g l ie k
+047/083	gliek	1	g l ie k
+047/085	glik	1	g l i k
+047/087	gliek	1	g l ie k
+047/089	gliich	1	g l ii ch
+047/091	gleich	1	g l ei ch
+047/093	jlik	1	j l i k
+047/095	glik	1	g l i k
+047/097	gläich	1	g l äi ch
+047/099	jeleich	1	j e l ei ch
+047/101	jläi	1	j l äi
+047/103	jlich	1	j l i ch
+047/105	gliech	1	g l ie ch
+047/107	gliek	1	g l ie k
+047/109	jlech	1	j l e ch
+047/111	jlich	1	j l i ch
+047/113	gliech	1	g l ie ch
+047/115	glei	1	g l ei
+047/117	glei	1	g l ei
+047/119	gleich	1	g l ei ch
+047/123	glei	1	g l ei
+047/125	glei	1	g l ei
+047/127	gleich	1	g l ei ch
+047/129	glei	1	g l ei
+047/131	glech	1	g l e ch
+047/133	glei	1	g l ei
+047/135	glei	1	g l ei
+047/137	gleih	1	g l eih
+047/139	glee	1	g l ee
+047/141	glej	1	g l e j
+047/147	glej	1	g l e j
+047/149	glee	1	g l ee
+047/151	gle	1	g l e
+047/159	gleich	1	g l ei ch
+048/021	bedehn	1	b e d eh n
+048/023	darlek	1	d a r l e k
+048/027	gliek	1	g l ie k
+048/029	glick	1	g l i ck
+048/031	glik	1	g l i k
+048/033	glik	1	g l i k
+048/035	glieck	1	g l ie ck
+048/037	gliek	1	g l ie k
+048/039	gliek	1	g l ie k
+048/041	gliek	1	g l ie k
+048/045	gliek	1	g l ie k
+048/047	gleich	1	g l ei ch
+048/049	gleik	1	g l ei k
+048/051	gleik	1	g l ei k
+048/053	glück	1	g l ü ck
+048/055	glüik	1	g l üi k
+048/057	gluik	1	g l ui k
+048/059	glouik	1	g l oui k
+048/061	gleik	1	g l ei k
+048/063	gliek	1	g l ie k
+048/065	gläik	1	g l äi k
+048/067	gläik	1	g l äi k
+048/069	jläik	1	j l äi k
+048/071	gleich	1	g l ei ch
+048/073	gläik	1	g l äi k
+048/075	gliek	1	g l ie k
+048/077	gliek	1	g l ie k
+048/079	flucks	1	f l u ck s
+048/081	gliek	1	g l ie k
+048/083	gliik	1	g l ii k
+048/085	gliek	1	g l ie k
+048/087	gliek	1	g l ie k
+048/089	boale	1	b oa l e
+048/091	glei	1	g l ei
+048/093	balle	1	b a ll e
+048/095	jlei	1	j l ei
+048/099	jlei	1	j l ei
+048/101	jlei	1	j l ei
+048/103	jiliech	1	j i l ie ch
+048/105	glei	1	g l ei
+048/107	jlech	1	j l e ch
+048/109	jleich	1	j l ei ch
+048/111	jliich	1	j l ii ch
+048/113	gleich	1	g l ei ch
+048/115	glei	1	g l ei
+048/119	gleich	1	g l ei ch
+048/123	glei	1	g l ei
+048/125	glei	1	g l ei
+048/127	jlei	1	j l ei
+048/129	glei	1	g l ei
+048/131	gle	1	g l e
+048/133	gleh	1	g l eh
+048/135	gleh	1	g l eh
+048/137	glech	1	g l e ch
+048/139	glei	1	g l ei
+048/141	gle	1	g l e
+048/143	glee	1	g l ee
+048/145	glee	1	g l ee
+048/147	gle	1	g l e
+048/153	glei	1	g l ei
+048/157	gle	1	g l e
+048/159	glei	1	g l ei
+049/019	medeen	1	m e d ee n
+049/021	gliek	1	g l ie k
+049/023	gliek	1	g l ie k
+049/025	gliek	1	g l ie k
+049/027	glik	1	g l i k
+049/029	glick	1	g l i ck
+049/031	fodd	1	f o dd
+049/033	gliek	1	g l ie k
+049/035	gliek	1	g l ie k
+049/037	gliek	1	g l ie k
+049/039	gliek	1	g l ie k
+049/041	gliek	1	g l ie k
+049/043	glik	1	g l i k
+049/045	gläik	1	g l äi k
+049/047	gleck	1	g l e ck
+049/049	gläik	1	g l äi k
+049/051	gleik	1	g l ei k
+049/053	gleik	1	g l ei k
+049/055	gluik	1	g l ui k
+049/057	glöik	1	g l öi k
+049/059	gläuik	1	g l äui k
+049/061	gloik	1	g l oi k
+049/063	glöik	1	g l öi k
+049/065	gloik	1	g l oi k
+049/067	gloik	1	g l oi k
+049/069	gläik	1	g l äi k
+049/071	glik	1	g l i k
+049/073	balle	1	b a ll e
+049/077	glich	1	g l i ch
+049/079	gliek	1	g l ie k
+049/081	jlihk	1	j l ih k
+049/083	glik	1	g l i k
+049/085	glik	1	g l i k
+049/087	glei	1	g l ei
+049/089	jlei	1	j l ei
+049/091	jlei	1	j l ei
+049/093	gelei	1	g e l ei
+049/095	jlei	1	j l ei
+049/097	glei	1	g l ei
+049/099	jlei	1	j l ei
+049/101	glei	1	g l ei
+049/103	jlei	1	j l ei
+049/105	chlei	1	ch l ei
+049/107	bahle	1	b ah l e
+049/109	gliech	1	g l ie ch
+049/111	glig	1	g l i g
+049/113	jlie	1	j l ie
+049/115	gleich	1	g l ei ch
+049/117	glei	1	g l ei
+049/119	gleich	1	g l ei ch
+049/121	glei	1	g l ei
+049/123	gleich	1	g l ei ch
+049/125	glei	1	g l ei
+049/127	glei	1	g l ei
+049/129	glei	1	g l ei
+049/131	glei	1	g l ei
+049/133	gle	1	g l e
+049/135	glee	1	g l ee
+049/137	gle	1	g l e
+049/139	gle	1	g l e
+049/141	glee	1	g l ee
+049/143	glee	1	g l ee
+049/145	gle	1	g l e
+049/147	glä	1	g l ä
+049/151	gleech	1	g l ee ch
+050/021	nietehn	1	n ie t eh n
+050/023	kleich	1	k l ei ch
+050/025	fotts	1	f o tt s
+050/027	glick	1	g l i ck
+050/029	glick	1	g l i ck
+050/031	glick	1	g l i ck
+050/033	gliek	1	g l ie k
+050/035	gliek	1	g l ie k
+050/037	gliek	1	g l ie k
+050/039	glik	1	g l i k
+050/041	gljeck	1	g l j e ck
+050/043	gliek	1	g l ie k
+050/047	gläik	1	g l äi k
+050/049	gluik	1	g l ui k
+050/051	gliek	1	g l ie k
+050/053	glyk	1	g l y k
+050/055	gleik	1	g l ei k
+050/057	gläik	1	g l äi k
+050/059	gleik	1	g l ei k
+050/061	gleik	1	g l ei k
+050/063	gläick	1	g l äi ck
+050/065	glik	1	g l i k
+050/067	gliek	1	g l ie k
+050/069	gliek	1	g l ie k
+050/071	gläik	1	g l äi k
+050/073	glik	1	g l i k
+050/075	gleich	1	g l ei ch
+050/077	gliek	1	g l ie k
+050/079	jlich	1	j l i ch
+050/081	jliech	1	j l ie ch
+050/083	jlik	1	j l i k
+050/085	gliech	1	g l ie ch
+050/087	jleich	1	j l ei ch
+050/089	jläi	1	j l äi
+050/091	glei	1	g l ei
+050/093	glei	1	g l ei
+050/095	glei	1	g l ei
+050/097	chlei	1	ch l ei
+050/099	jlei	1	j l ei
+050/101	jlei	1	j l ei
+050/103	jlei	1	j l ei
+050/105	chlei	1	ch l ei
+050/107	gelei	1	g e l ei
+050/109	jlei	1	j l ei
+050/111	glich	1	g l i ch
+050/113	jlieh	1	j l ieh
+050/115	glei	1	g l ei
+050/117	glei	1	g l ei
+050/119	nu	1	n u
+050/121	gleich	1	g l ei ch
+050/125	gleich	1	g l ei ch
+050/127	glei	1	g l ei
+050/129	glei	1	g l ei
+050/131	glei	1	g l ei
+050/133	gle	1	g l e
+050/135	gle	1	g l e
+050/137	glee	1	g l ee
+050/139	glee	1	g l ee
+050/141	NA	NA	-
+050/143	gle	1	g l e
+050/145	gle	1	g l e
+050/147	glee	1	g l ee
+050/149	gleh	1	g l eh
+050/151	gle	1	g l e
+050/155	gle	1	g l e
+050/157	glech	1	g l e ch
+050/159	gle	1	g l e
+050/161	gleich	1	g l ei ch
+051/023	glick	1	g l i ck
+051/025	marz	1	m a r z
+051/027	glick	1	g l i ck
+051/029	glick	1	g l i ck
+051/031	gliek	1	g l ie k
+051/033	fuats	1	f ua t s
+051/035	gliek	1	g l ie k
+051/037	fuortz	1	f uo r t z
+051/039	glieck	1	g l ie ck
+051/041	gläik	1	g l äi k
+051/043	gluek	1	g l ue k
+051/045	gluik	1	g l ui k
+051/047	gluik	1	g l ui k
+051/049	gluick	1	g l ui ck
+051/051	gläik	1	g l äi k
+051/053	gläik	1	g l äi k
+051/055	glöik	1	g l öi k
+051/057	gliek	1	g l ie k
+051/059	gläik	1	g l äi k
+051/061	glick	1	g l i ck
+051/063	chlöick	1	ch l öi ck
+051/065	gliek	1	g l ie k
+051/067	chliek	1	ch l ie k
+051/069	chliich	1	ch l ii ch
+051/071	gliek	1	g l ie k
+051/073	gliek	1	g l ie k
+051/075	glich	1	g l i ch
+051/077	gliek	1	g l ie k
+051/079	glich	1	g l i ch
+051/081	gliech	1	g l ie ch
+051/083	jliech	1	j l ie ch
+051/085	jleich	1	j l ei ch
+051/087	jleich	1	j l ei ch
+051/089	bahle	1	b ah l e
+051/091	jelei	1	j e l ei
+051/093	jlei	1	j l ei
+051/095	glei	1	g l ei
+051/097	jleich	1	j l ei ch
+051/099	jleich	1	j l ei ch
+051/101	jlei	1	j l ei
+051/103	chlei	1	ch l ei
+051/105	glei	1	g l ei
+051/107	glei	1	g l ei
+051/109	jlei	1	j l ei
+051/111	glei	1	g l ei
+051/113	glei	1	g l ei
+051/115	gleich	1	g l ei ch
+051/117	glei	1	g l ei
+051/119	gleich	1	g l ei ch
+051/121	gleich	1	g l ei ch
+051/123	glei	1	g l ei
+051/125	glei	1	g l ei
+051/127	glei	1	g l ei
+051/129	glei	1	g l ei
+051/131	glei	1	g l ei
+051/133	glei	1	g l ei
+051/135	glee	1	g l ee
+051/137	glee	1	g l ee
+051/139	gleh	1	g l eh
+051/141	gle	1	g l e
+051/143	glee	1	g l ee
+051/145	gle	1	g l e
+051/147	gle	1	g l e
+051/149	glee	1	g l ee
+051/151	glee	1	g l ee
+051/153	glee	1	g l ee
+051/155	glei	1	g l ei
+051/157	bahlde	1	b ah l d e
+052/023	morts	1	m o r t s
+052/025	glick	1	g l i ck
+052/027	jlick	1	j l i ck
+052/029	glick	1	g l i ck
+052/031	glick	1	g l i ck
+052/033	gliek	1	g l ie k
+052/035	gliek	1	g l ie k
+052/037	gliek	1	g l ie k
+052/039	gliek	1	g l ie k
+052/041	gliäk	1	g l iä k
+052/043	gläick	1	g l äi ck
+052/045	gluik	1	g l ui k
+052/047	gluik	1	g l ui k
+052/049	gluik	1	g l ui k
+052/051	glyek	1	g l ye k
+052/053	glyk	1	g l y k
+052/057	gläik	1	g l äi k
+052/059	gläiik	1	g l äii k
+052/061	gliek	1	g l ie k
+052/063	glik	1	g l i k
+052/065	gliek	1	g l ie k
+052/067	chliek	1	ch l ie k
+052/069	gliek	1	g l ie k
+052/071	chliek	1	ch l ie k
+052/073	chliek	1	ch l ie k
+052/075	gliech	1	g l ie ch
+052/077	kliech	1	k l ie ch
+052/079	kliech	1	k l ie ch
+052/081	jliech	1	j l ie ch
+052/083	gliech	1	g l ie ch
+052/085	jleich	1	j l ei ch
+052/087	jleich	1	j l ei ch
+052/089	jlei	1	j l ei
+052/091	jleih	1	j l eih
+052/093	jleih	1	j l eih
+052/095	jlei	1	j l ei
+052/097	jlei	1	j l ei
+052/099	glei	1	g l ei
+052/101	NA	NA	-
+052/103	glei	1	g l ei
+052/105	klei	1	k l ei
+052/107	glei	1	g l ei
+052/109	glei	1	g l ei
+052/111	jlei	1	j l ei
+052/113	glei	1	g l ei
+052/115	gleech	1	g l ee ch
+052/117	gleich	1	g l ei ch
+052/121	gleich	1	g l ei ch
+052/123	gleich	1	g l ei ch
+052/125	glei	1	g l ei
+052/127	glei	1	g l ei
+052/129	glei	1	g l ei
+052/131	glei	1	g l ei
+052/133	glei	1	g l ei
+052/135	glei	1	g l ei
+052/137	gle	1	g l e
+052/139	glee	1	g l ee
+052/141	gle	1	g l e
+052/143	glee	1	g l ee
+052/145	gloi	1	g l oi
+052/147	glee	1	g l ee
+052/149	glee	1	g l ee
+052/151	glee	1	g l ee
+052/153	gle	1	g l e
+052/155	glee	1	g l ee
+052/157	glee	1	g l ee
+052/159	glee	1	g l ee
+053/023	mediem	1	m e d ie m
+053/025	glick	1	g l i ck
+053/027	glick	1	g l i ck
+053/029	glikk	1	g l i kk
+053/031	chliek	1	ch l ie k
+053/033	gliek	1	g l ie k
+053/035	glik	1	g l i k
+053/037	gliek	1	g l ie k
+053/039	glieck	1	g l ie ck
+053/041	gliek	1	g l ie k
+053/043	gläik	1	g l äi k
+053/045	gläik	1	g l äi k
+053/047	gluik	1	g l ui k
+053/049	gluik	1	g l ui k
+053/051	gleik	1	g l ei k
+053/053	gläik	1	g l äi k
+053/055	glik	1	g l i k
+053/057	NA	NA	-
+053/059	glik	1	g l i k
+053/061	gliek	1	g l ie k
+053/063	chlik	1	ch l i k
+053/065	glik	1	g l i k
+053/067	chliek	1	ch l ie k
+053/069	gliek	1	g l ie k
+053/071	chliik	1	ch l ii k
+053/073	gliek	1	g l ie k
+053/075	gliech	1	g l ie ch
+053/077	gliech	1	g l ie ch
+053/079	gliich	1	g l ii ch
+053/081	gliech	1	g l ie ch
+053/083	gliech	1	g l ie ch
+053/085	gleich	1	g l ei ch
+053/087	gleich	1	g l ei ch
+053/089	jlei	1	j l ei
+053/091	chlaich	1	ch l ai ch
+053/093	jlei	1	j l ei
+053/095	glei	1	g l ei
+053/097	jlei	1	j l ei
+053/099	glei	1	g l ei
+053/101	jlei	1	j l ei
+053/103	klei	1	k l ei
+053/105	klei	1	k l ei
+053/107	klei	1	k l ei
+053/109	glei	1	g l ei
+053/111	glei	1	g l ei
+053/113	glei	1	g l ei
+053/115	glei	1	g l ei
+053/121	glei	1	g l ei
+053/123	glei	1	g l ei
+053/125	glei	1	g l ei
+053/127	glei	1	g l ei
+053/129	glei	1	g l ei
+053/131	glei	1	g l ei
+053/133	glei	1	g l ei
+053/135	glei	1	g l ei
+053/137	glech	1	g l e ch
+053/139	NA	NA	-
+053/141	gle	1	g l e
+053/143	gläi	1	g l äi
+053/145	gleh	1	g l eh
+053/147	glee	1	g l ee
+053/149	gläich	1	g l äi ch
+053/151	glee	1	g l ee
+053/153	gle	1	g l e
+053/155	gleh	1	g l eh
+053/157	gleh	1	g l eh
+054/023	medehn	1	m e d eh n
+054/025	medem	1	m e d e m
+054/027	gleich	1	g l ei ch
+054/029	jlich	1	j l i ch
+054/031	gliek	1	g l ie k
+054/033	glik	1	g l i k
+054/035	gliek	1	g l ie k
+054/037	glik	1	g l i k
+054/039	gliek	1	g l ie k
+054/041	glek	1	g l e k
+054/043	gläik	1	g l äi k
+054/045	gleyk	1	g l ey k
+054/047	gluick	1	g l ui ck
+054/049	gluik	1	g l ui k
+054/051	glöik	1	g l öi k
+054/053	gliäk	1	g l iä k
+054/055	glik	1	g l i k
+054/057	flucker	1	f l u ck e r
+054/059	glik	1	g l i k
+054/061	glich	1	g l i ch
+054/063	glich	1	g l i ch
+054/065	gliik	1	g l ii k
+054/067	glich	1	g l i ch
+054/069	glich	1	g l i ch
+054/071	glig	1	g l i g
+054/073	glatt	1	g l a tt
+054/075	glij	1	g l i j
+054/077	gliech	1	g l ie ch
+054/079	gliech	1	g l ie ch
+054/081	gliech	1	g l ie ch
+054/083	glich	1	g l i ch
+054/085	glaich	1	g l ai ch
+054/087	gleich	1	g l ei ch
+054/089	glei	1	g l ei
+054/091	jleich	1	j l ei ch
+054/093	glei	1	g l ei
+054/095	jlei	1	j l ei
+054/097	gleich	1	g l ei ch
+054/099	glei	1	g l ei
+054/101	glei	1	g l ei
+054/103	glei	1	g l ei
+054/105	glei	1	g l ei
+054/107	gleich	1	g l ei ch
+054/109	glei	1	g l ei
+054/111	glei	1	g l ei
+054/113	glei	1	g l ei
+054/115	glei	1	g l ei
+054/117	glei	1	g l ei
+054/119	glei	1	g l ei
+054/121	glei	1	g l ei
+054/123	glei	1	g l ei
+054/125	glei	1	g l ei
+054/127	glei	1	g l ei
+054/131	glei	1	g l ei
+054/133	glei	1	g l ei
+054/135	glei	1	g l ei
+054/137	gläh	1	g l äh
+054/139	glee	1	g l ee
+054/141	gle	1	g l e
+054/143	gleh	1	g l eh
+054/145	gle	1	g l e
+054/147	glee	1	g l ee
+054/149	gle	1	g l e
+054/151	glee	1	g l ee
+054/153	glee	1	g l ee
+054/155	glech	1	g l e ch
+054/157	glee	1	g l ee
+054/159	glei	1	g l ei
+054/161	gleich	1	g l ei ch
+054/163	gleich	1	g l ei ch
+055/023	meden	1	m e d e n
+055/025	glick	1	g l i ck
+055/027	glick	1	g l i ck
+055/029	glich	1	g l i ch
+055/031	glik	1	g l i k
+055/033	jliek	1	j l ie k
+055/035	gliek	1	g l ie k
+055/037	gliek	1	g l ie k
+055/039	glik	1	g l i k
+055/041	gliek	1	g l ie k
+055/043	gläyk	1	g l äy k
+055/045	gläik	1	g l äi k
+055/047	gläik	1	g l äi k
+055/049	gläik	1	g l äi k
+055/051	glik	1	g l i k
+055/053	gliek	1	g l ie k
+055/055	balle	1	b a ll e
+055/057	fluck	1	f l u ck
+055/059	gliek	1	g l ie k
+055/061	glich	1	g l i ch
+055/063	glich	1	g l i ch
+055/065	glich	1	g l i ch
+055/067	glich	1	g l i ch
+055/069	glich	1	g l i ch
+055/071	glich	1	g l i ch
+055/073	gliech	1	g l ie ch
+055/075	glich	1	g l i ch
+055/077	gliech	1	g l ie ch
+055/079	gliech	1	g l ie ch
+055/081	gliech	1	g l ie ch
+055/083	glich	1	g l i ch
+055/085	gleich	1	g l ei ch
+055/087	klei	1	k l ei
+055/089	gleich	1	g l ei ch
+055/091	chleich	1	ch l ei ch
+055/093	jlei	1	j l ei
+055/095	klei	1	k l ei
+055/097	gleich	1	g l ei ch
+055/099	glei	1	g l ei
+055/101	glei	1	g l ei
+055/103	glei	1	g l ei
+055/105	glei	1	g l ei
+055/107	glei	1	g l ei
+055/109	glei	1	g l ei
+055/111	glei	1	g l ei
+055/113	glei	1	g l ei
+055/115	dlei	1	d l ei
+055/117	glei	1	g l ei
+055/119	glei	1	g l ei
+055/123	gleich	1	g l ei ch
+055/125	glei	1	g l ei
+055/127	glei	1	g l ei
+055/131	glei	1	g l ei
+055/133	glei	1	g l ei
+055/135	glä	1	g l ä
+055/137	glei	1	g l ei
+055/139	glei	1	g l ei
+055/141	glei	1	g l ei
+055/143	glei	1	g l ei
+055/145	gleh	1	g l eh
+055/147	gleh	1	g l eh
+055/149	gle	1	g l e
+055/151	glee	1	g l ee
+055/153	gle	1	g l e
+055/155	gle	1	g l e
+055/157	gle	1	g l e
+055/159	glei	1	g l ei
+055/161	gleich	1	g l ei ch
+056/021	mötähn	1	m ö t äh n
+056/023	someden	1	s o m e d e n
+056/025	jlick	1	j l i ck
+056/027	itzig	1	i t z i g
+056/029	jelich	1	j e l i ch
+056/031	glich	1	g l i ch
+056/033	gliik	1	g l ii k
+056/035	gliek	1	g l ie k
+056/037	gliek	1	g l ie k
+056/039	gliek	1	g l ie k
+056/041	glik	1	g l i k
+056/043	gliek	1	g l ie k
+056/045	gliek	1	g l ie k
+056/047	glöik	1	g l öi k
+056/049	gleik	1	g l ei k
+056/051	gelyk	1	g e l y k
+056/053	gliek	1	g l ie k
+056/055	glik	1	g l i k
+056/057	gliek	1	g l ie k
+056/059	glich	1	g l i ch
+056/061	glich	1	g l i ch
+056/063	glich	1	g l i ch
+056/065	glich	1	g l i ch
+056/067	glich	1	g l i ch
+056/069	glich	1	g l i ch
+056/071	gläich	1	g l äi ch
+056/073	gläich	1	g l äi ch
+056/075	glich	1	g l i ch
+056/077	glieh	1	g l ieh
+056/079	gläich	1	g l äi ch
+056/081	gläich	1	g l äi ch
+056/083	glich	1	g l i ch
+056/085	kleich	1	k l ei ch
+056/087	jleich	1	j l ei ch
+056/089	glei	1	g l ei
+056/091	jlei	1	j l ei
+056/093	glei	1	g l ei
+056/095	klei	1	k l ei
+056/097	glei	1	g l ei
+056/099	glei	1	g l ei
+056/101	glei	1	g l ei
+056/103	glei	1	g l ei
+056/105	glei	1	g l ei
+056/107	glei	1	g l ei
+056/109	glei	1	g l ei
+056/111	glei	1	g l ei
+056/113	glei	1	g l ei
+056/115	glei	1	g l ei
+056/117	glei	1	g l ei
+056/121	glei	1	g l ei
+056/123	glei	1	g l ei
+056/125	glei	1	g l ei
+056/127	glei	1	g l ei
+056/129	glei	1	g l ei
+056/131	glei	1	g l ei
+056/133	glei	1	g l ei
+056/135	glei	1	g l ei
+056/137	glä	1	g l ä
+056/139	glä	1	g l ä
+056/141	glei	1	g l ei
+056/143	gleh	1	g l eh
+056/145	glei	1	g l ei
+056/147	glee	1	g l ee
+056/149	glee	1	g l ee
+056/151	glee	1	g l ee
+056/153	glee	1	g l ee
+056/155	glee	1	g l ee
+056/157	gle	1	g l e
+056/159	glä	1	g l ä
+056/161	gleich	1	g l ei ch
+057/021	gelik	1	g e l i k
+057/023	glick	1	g l i ck
+057/025	jlick	1	j l i ck
+057/027	esuelich	1	e s ue l i ch
+057/029	jelich	1	j e l i ch
+057/031	jlich	1	j l i ch
+057/033	jlik	1	j l i k
+057/035	jliek	1	j l ie k
+057/037	glick	1	g l i ck
+057/039	gliek	1	g l ie k
+057/041	jlik	1	j l i k
+057/043	gliek	1	g l ie k
+057/045	gliek	1	g l ie k
+057/047	gleyk	1	g l ey k
+057/049	balle	1	b a ll e
+057/051	glech	1	g l e ch
+057/053	glik	1	g l i k
+057/055	gleich	1	g l ei ch
+057/057	glich	1	g l i ch
+057/059	gleich	1	g l ei ch
+057/061	glich	1	g l i ch
+057/063	glich	1	g l i ch
+057/065	glich	1	g l i ch
+057/067	glich	1	g l i ch
+057/069	glich	1	g l i ch
+057/071	glich	1	g l i ch
+057/073	glich	1	g l i ch
+057/075	klich	1	k l i ch
+057/077	glich	1	g l i ch
+057/079	glich	1	g l i ch
+057/081	glich	1	g l i ch
+057/083	gliech	1	g l ie ch
+057/085	gleich	1	g l ei ch
+057/087	gleich	1	g l ei ch
+057/089	jleich	1	j l ei ch
+057/091	gleich	1	g l ei ch
+057/093	gleij	1	g l ei j
+057/095	klei	1	k l ei
+057/097	glei	1	g l ei
+057/099	glei	1	g l ei
+057/101	glei	1	g l ei
+057/103	glei	1	g l ei
+057/105	glei	1	g l ei
+057/107	glei	1	g l ei
+057/109	glei	1	g l ei
+057/111	glei	1	g l ei
+057/113	glei	1	g l ei
+057/115	glei	1	g l ei
+057/117	glei	1	g l ei
+057/119	glei	1	g l ei
+057/121	glei	1	g l ei
+057/123	glei	1	g l ei
+057/125	glei	1	g l ei
+057/127	glei	1	g l ei
+057/129	glei	1	g l ei
+057/131	glei	1	g l ei
+057/133	glei	1	g l ei
+057/135	glä	1	g l ä
+057/137	glä	1	g l ä
+057/139	glei	1	g l ei
+057/141	glei	1	g l ei
+057/143	glei	1	g l ei
+057/145	glei	1	g l ei
+057/147	glei	1	g l ei
+057/149	gle	1	g l e
+057/151	glee	1	g l ee
+057/153	gle	1	g l e
+057/155	glee	1	g l ee
+057/157	glee	1	g l ee
+057/159	glei	1	g l ei
+057/161	gleich	1	g l ei ch
+058/019	glik	1	g l i k
+058/021	jlick	1	j l i ck
+058/023	jelick	1	j e l i ck
+058/025	jelich	1	j e l i ch
+058/027	glech	1	g l e ch
+058/029	geleech	1	g e l ee ch
+058/031	glich	1	g l i ch
+058/033	glich	1	g l i ch
+058/035	gelich	1	g e l i ch
+058/037	glich	1	g l i ch
+058/039	jleich	1	j l ei ch
+058/041	glik	1	g l i k
+058/043	gliek	1	g l ie k
+058/045	gliek	1	g l ie k
+058/047	klech	1	k l e ch
+058/049	glech	1	g l e ch
+058/051	glech	1	g l e ch
+058/053	glech	1	g l e ch
+058/055	gleich	1	g l ei ch
+058/057	klich	1	k l i ch
+058/059	glich	1	g l i ch
+058/061	glich	1	g l i ch
+058/063	glich	1	g l i ch
+058/065	glich	1	g l i ch
+058/067	glich	1	g l i ch
+058/069	glich	1	g l i ch
+058/071	glich	1	g l i ch
+058/073	glich	1	g l i ch
+058/075	glich	1	g l i ch
+058/077	gläich	1	g l äi ch
+058/079	gleich	1	g l ei ch
+058/081	glieg	1	g l ie g
+058/083	gleich	1	g l ei ch
+058/085	gleich	1	g l ei ch
+058/087	gleich	1	g l ei ch
+058/089	glei	1	g l ei
+058/091	glei	1	g l ei
+058/093	gleih	1	g l eih
+058/095	klei	1	k l ei
+058/097	gleih	1	g l eih
+058/099	glei	1	g l ei
+058/101	glei	1	g l ei
+058/103	klei	1	k l ei
+058/105	glei	1	g l ei
+058/107	glei	1	g l ei
+058/109	glei	1	g l ei
+058/111	glei	1	g l ei
+058/113	gleich	1	g l ei ch
+058/115	glei	1	g l ei
+058/117	glei	1	g l ei
+058/119	glei	1	g l ei
+058/121	glei	1	g l ei
+058/123	gleih	1	g l eih
+058/125	glei	1	g l ei
+058/127	glei	1	g l ei
+058/129	glai	1	g l ai
+058/131	glei	1	g l ei
+058/133	glai	1	g l ai
+058/135	glai	1	g l ai
+058/137	gläi	1	g l äi
+058/139	glei	1	g l ei
+058/141	glei	1	g l ei
+058/143	NA	NA	-
+058/145	glei	1	g l ei
+058/147	glei	1	g l ei
+058/149	glee	1	g l ee
+058/151	glei	1	g l ei
+058/153	gleih	1	g l eih
+058/155	gleich	1	g l ei ch
+058/157	glei	1	g l ei
+058/159	gleich	1	g l ei ch
+059/019	NA	NA	-
+059/021	glick	1	g l i ck
+059/023	jlich	1	j l i ch
+059/025	jleich	1	j l ei ch
+059/027	jlich	1	j l i ch
+059/029	gleg	1	g l e g
+059/031	glich	1	g l i ch
+059/033	jlich	1	j l i ch
+059/035	jelich	1	j e l i ch
+059/037	jlich	1	j l i ch
+059/039	glich	1	g l i ch
+059/041	hel	1	h e l
+059/043	gleich	1	g l ei ch
+059/045	gleich	1	g l ei ch
+059/047	gleg	1	g l e g
+059/049	gläich	1	g l äi ch
+059/051	gläich	1	g l äi ch
+059/053	glech	1	g l e ch
+059/055	gläch	1	g l ä ch
+059/057	gleich	1	g l ei ch
+059/059	glich	1	g l i ch
+059/061	glich	1	g l i ch
+059/063	glich	1	g l i ch
+059/065	glich	1	g l i ch
+059/067	glich	1	g l i ch
+059/069	glich	1	g l i ch
+059/071	glich	1	g l i ch
+059/073	glich	1	g l i ch
+059/075	glich	1	g l i ch
+059/077	gleich	1	g l ei ch
+059/079	glich	1	g l i ch
+059/081	gleich	1	g l ei ch
+059/083	etz	1	e t z
+059/085	gleich	1	g l ei ch
+059/087	glei	1	g l ei
+059/089	balle	1	b a ll e
+059/091	gläch	1	g l ä ch
+059/093	glei	1	g l ei
+059/095	gleich	1	g l ei ch
+059/097	glei	1	g l ei
+059/099	glei	1	g l ei
+059/101	gleih	1	g l eih
+059/103	gleih	1	g l eih
+059/105	glei	1	g l ei
+059/107	glei	1	g l ei
+059/109	glei	1	g l ei
+059/111	NA	NA	-
+059/113	glei	1	g l ei
+059/115	glei	1	g l ei
+059/117	glei	1	g l ei
+059/119	tlei	1	t l ei
+059/121	glei	1	g l ei
+059/123	glei	1	g l ei
+059/125	glei	1	g l ei
+059/127	glei	1	g l ei
+059/129	glei	1	g l ei
+059/131	glaj	1	g l a j
+059/133	glei	1	g l ei
+059/135	glei	1	g l ei
+059/137	glei	1	g l ei
+059/139	glei	1	g l ei
+059/141	glei	1	g l ei
+059/143	glei	1	g l ei
+059/145	gleich	1	g l ei ch
+059/147	glei	1	g l ei
+059/149	glei	1	g l ei
+059/151	glei	1	g l ei
+059/153	glei	1	g l ei
+059/155	gleich	1	g l ei ch
+059/157	gleich	1	g l ei ch
+059/159	glech	1	g l e ch
+059/161	gleich	1	g l ei ch
+059/165	gleich	1	g l ei ch
+059/169	gleich	1	g l ei ch
+060/021	glioh	1	g l ioh
+060/023	jelich	1	j e l i ch
+060/025	glich	1	g l i ch
+060/027	jlich	1	j l i ch
+060/029	jlich	1	j l i ch
+060/031	jlich	1	j l i ch
+060/033	jelich	1	j e l i ch
+060/035	glich	1	g l i ch
+060/037	glich	1	g l i ch
+060/039	glech	1	g l e ch
+060/041	jelaich	1	j e l ai ch
+060/043	glich	1	g l i ch
+060/045	gleich	1	g l ei ch
+060/047	gleich	1	g l ei ch
+060/049	gleich	1	g l ei ch
+060/051	gläich	1	g l äi ch
+060/053	gleich	1	g l ei ch
+060/055	kläich	1	k l äi ch
+060/057	gläich	1	g l äi ch
+060/059	glich	1	g l i ch
+060/061	glich	1	g l i ch
+060/063	glich	1	g l i ch
+060/065	glich	1	g l i ch
+060/067	glich	1	g l i ch
+060/069	gläich	1	g l äi ch
+060/071	gleich	1	g l ei ch
+060/073	gläich	1	g l äi ch
+060/075	gläich	1	g l äi ch
+060/077	glich	1	g l i ch
+060/079	glich	1	g l i ch
+060/081	glich	1	g l i ch
+060/083	gleich	1	g l ei ch
+060/085	gleich	1	g l ei ch
+060/087	gleich	1	g l ei ch
+060/089	gleich	1	g l ei ch
+060/091	gloch	1	g l o ch
+060/093	dlei	1	d l ei
+060/095	klei	1	k l ei
+060/097	klei	1	k l ei
+060/099	gleich	1	g l ei ch
+060/101	glei	1	g l ei
+060/103	glei	1	g l ei
+060/105	gleich	1	g l ei ch
+060/107	glei	1	g l ei
+060/109	glai	1	g l ai
+060/111	glei	1	g l ei
+060/113	glei	1	g l ei
+060/115	glei	1	g l ei
+060/117	glei	1	g l ei
+060/119	glei	1	g l ei
+060/121	glei	1	g l ei
+060/123	glej	1	g l e j
+060/125	gleich	1	g l ei ch
+060/127	glei	1	g l ei
+060/129	glei	1	g l ei
+060/131	glei	1	g l ei
+060/135	glei	1	g l ei
+060/137	glei	1	g l ei
+060/139	glei	1	g l ei
+060/141	glei	1	g l ei
+060/143	glei	1	g l ei
+060/145	glei	1	g l ei
+060/147	gleich	1	g l ei ch
+060/149	gleich	1	g l ei ch
+060/151	glech	1	g l e ch
+060/153	gleich	1	g l ei ch
+060/155	gleich	1	g l ei ch
+060/157	glaich	1	g l ai ch
+060/159	gle	1	g l e
+060/163	gleich	1	g l ei ch
+060/165	glei	1	g l ei
+061/021	jelich	1	j e l i ch
+061/023	glich	1	g l i ch
+061/025	jlich	1	j l i ch
+061/027	jelich	1	j e l i ch
+061/029	gelich	1	g e l i ch
+061/031	jlich	1	j l i ch
+061/033	gelich	1	g e l i ch
+061/035	glich	1	g l i ch
+061/037	jlich	1	j l i ch
+061/039	jelich	1	j e l i ch
+061/041	jeleich	1	j e l ei ch
+061/043	gläich	1	g l äi ch
+061/045	gleich	1	g l ei ch
+061/047	gleich	1	g l ei ch
+061/049	gleich	1	g l ei ch
+061/051	glaich	1	g l ai ch
+061/053	gleich	1	g l ei ch
+061/055	gleich	1	g l ei ch
+061/057	gläig	1	g l äi g
+061/059	gläich	1	g l äi ch
+061/061	glich	1	g l i ch
+061/063	glich	1	g l i ch
+061/065	glich	1	g l i ch
+061/067	glich	1	g l i ch
+061/069	glich	1	g l i ch
+061/071	glich	1	g l i ch
+061/073	gleich	1	g l ei ch
+061/075	gläich	1	g l äi ch
+061/077	gleich	1	g l ei ch
+061/079	gliech	1	g l ie ch
+061/081	gliech	1	g l ie ch
+061/083	gleich	1	g l ei ch
+061/085	gleich	1	g l ei ch
+061/087	gleich	1	g l ei ch
+061/089	gleich	1	g l ei ch
+061/091	glei	1	g l ei
+061/093	glei	1	g l ei
+061/095	gleich	1	g l ei ch
+061/097	glei	1	g l ei
+061/099	gleich	1	g l ei ch
+061/101	glei	1	g l ei
+061/103	glei	1	g l ei
+061/105	gleich	1	g l ei ch
+061/107	glei	1	g l ei
+061/109	glei	1	g l ei
+061/111	glei	1	g l ei
+061/113	glei	1	g l ei
+061/115	tlei	1	t l ei
+061/117	gleich	1	g l ei ch
+061/119	glei	1	g l ei
+061/121	glei	1	g l ei
+061/123	glei	1	g l ei
+061/125	glei	1	g l ei
+061/127	glei	1	g l ei
+061/129	glai	1	g l ai
+061/131	glei	1	g l ei
+061/133	glei	1	g l ei
+061/137	glei	1	g l ei
+061/139	glei	1	g l ei
+061/141	glei	1	g l ei
+061/143	glei	1	g l ei
+061/145	glei	1	g l ei
+061/147	glei	1	g l ei
+061/149	glei	1	g l ei
+061/151	gleich	1	g l ei ch
+061/153	glei	1	g l ei
+061/155	glei	1	g l ei
+061/157	glä	1	g l ä
+061/159	glä	1	g l ä
+061/161	glä	1	g l ä
+061/165	glei	1	g l ei
+062/021	jelich	1	j e l i ch
+062/023	gleich	1	g l ei ch
+062/025	glich	1	g l i ch
+062/027	jlich	1	j l i ch
+062/029	glich	1	g l i ch
+062/031	glich	1	g l i ch
+062/033	jlich	1	j l i ch
+062/035	glich	1	g l i ch
+062/037	jelich	1	j e l i ch
+062/039	glich	1	g l i ch
+062/041	gleich	1	g l ei ch
+062/043	gleich	1	g l ei ch
+062/045	gleich	1	g l ei ch
+062/047	gleich	1	g l ei ch
+062/049	gleich	1	g l ei ch
+062/051	gleich	1	g l ei ch
+062/053	gleich	1	g l ei ch
+062/055	gleich	1	g l ei ch
+062/057	gläih	1	g l äih
+062/059	gleih	1	g l eih
+062/061	gläich	1	g l äi ch
+062/063	kleig	1	k l ei g
+062/065	glich	1	g l i ch
+062/067	gleich	1	g l ei ch
+062/069	gläich	1	g l äi ch
+062/071	gläich	1	g l äi ch
+062/073	gleich	1	g l ei ch
+062/075	kleiig	1	k l eii g
+062/077	gleich	1	g l ei ch
+062/079	ball	1	b a ll
+062/081	gliech	1	g l ie ch
+062/083	gleich	1	g l ei ch
+062/085	gleich	1	g l ei ch
+062/087	gleich	1	g l ei ch
+062/089	gläch	1	g l ä ch
+062/091	gläg	1	g l ä g
+062/093	gleich	1	g l ei ch
+062/095	gleich	1	g l ei ch
+062/097	glei	1	g l ei
+062/099	klei	1	k l ei
+062/101	gleich	1	g l ei ch
+062/103	glei	1	g l ei
+062/105	gleich	1	g l ei ch
+062/107	dleich	1	d l ei ch
+062/109	glei	1	g l ei
+062/111	dlei	1	d l ei
+062/113	glei	1	g l ei
+062/115	gleich	1	g l ei ch
+062/117	glei	1	g l ei
+062/119	glei	1	g l ei
+062/121	glei	1	g l ei
+062/123	glei	1	g l ei
+062/125	glei	1	g l ei
+062/127	glei	1	g l ei
+062/129	glei	1	g l ei
+062/131	glei	1	g l ei
+062/133	glei	1	g l ei
+062/135	glei	1	g l ei
+062/137	glei	1	g l ei
+062/139	glei	1	g l ei
+062/141	NA	NA	-
+062/143	glei	1	g l ei
+062/145	glei	1	g l ei
+062/147	glei	1	g l ei
+062/149	gleich	1	g l ei ch
+062/151	glei	1	g l ei
+062/153	bale	1	b a l e
+062/155	glei	1	g l ei
+062/157	glei	1	g l ei
+062/159	glee	1	g l ee
+062/161	glei	1	g l ei
+063/021	gliek	1	g l ie k
+063/023	glieg	1	g l ie g
+063/025	glich	1	g l i ch
+063/027	glich	1	g l i ch
+063/029	glich	1	g l i ch
+063/031	gelich	1	g e l i ch
+063/033	glich	1	g l i ch
+063/035	jelich	1	j e l i ch
+063/037	jelich	1	j e l i ch
+063/039	gleich	1	g l ei ch
+063/041	gleich	1	g l ei ch
+063/043	gläich	1	g l äi ch
+063/045	gleich	1	g l ei ch
+063/047	gleich	1	g l ei ch
+063/049	gleich	1	g l ei ch
+063/051	glagg	1	g l a gg
+063/053	gleich	1	g l ei ch
+063/055	gläch	1	g l ä ch
+063/057	gläich	1	g l äi ch
+063/059	gleich	1	g l ei ch
+063/061	gleich	1	g l ei ch
+063/063	glich	1	g l i ch
+063/065	gleich	1	g l ei ch
+063/067	glöich	1	g l öi ch
+063/069	gläich	1	g l äi ch
+063/071	gleich	1	g l ei ch
+063/073	gleich	1	g l ei ch
+063/075	gleich	1	g l ei ch
+063/077	gleich	1	g l ei ch
+063/079	gliech	1	g l ie ch
+063/081	gliech	1	g l ie ch
+063/083	gleich	1	g l ei ch
+063/085	gleich	1	g l ei ch
+063/087	gleich	1	g l ei ch
+063/089	bal	1	b a l
+063/091	gleich	1	g l ei ch
+063/093	glei	1	g l ei
+063/095	gleich	1	g l ei ch
+063/097	ball	1	b a ll
+063/099	geleich	1	g e l ei ch
+063/101	galeich	1	g a l ei ch
+063/103	geleich	1	g e l ei ch
+063/105	glei	1	g l ei
+063/107	gleich	1	g l ei ch
+063/109	gleich	1	g l ei ch
+063/111	glei	1	g l ei
+063/113	glei	1	g l ei
+063/115	glei	1	g l ei
+063/117	glei	1	g l ei
+063/119	glei	1	g l ei
+063/121	glei	1	g l ei
+063/123	glei	1	g l ei
+063/125	glei	1	g l ei
+063/127	glei	1	g l ei
+063/135	glei	1	g l ei
+063/137	glei	1	g l ei
+063/139	glei	1	g l ei
+063/141	glei	1	g l ei
+063/143	glei	1	g l ei
+063/145	glei	1	g l ei
+063/147	glei	1	g l ei
+063/149	glei	1	g l ei
+063/151	glei	1	g l ei
+063/153	glei	1	g l ei
+063/155	glei	1	g l ei
+063/157	glei	1	g l ei
+063/159	glei	1	g l ei
+063/161	gleich	1	g l ei ch
+063/163	glech	1	g l e ch
+063/165	gleich	1	g l ei ch
+064/023	glich	1	g l i ch
+064/025	gelich	1	g e l i ch
+064/027	jlich	1	j l i ch
+064/029	glich	1	g l i ch
+064/031	jlich	1	j l i ch
+064/033	glich	1	g l i ch
+064/035	geleich	1	g e l ei ch
+064/037	gleig	1	g l ei g
+064/039	gleich	1	g l ei ch
+064/041	gläich	1	g l äi ch
+064/043	gläich	1	g l äi ch
+064/045	gleich	1	g l ei ch
+064/047	gleich	1	g l ei ch
+064/049	gleich	1	g l ei ch
+064/051	gleich	1	g l ei ch
+064/053	gleich	1	g l ei ch
+064/055	gleich	1	g l ei ch
+064/057	gleich	1	g l ei ch
+064/059	gleich	1	g l ei ch
+064/061	gleich	1	g l ei ch
+064/063	gleich	1	g l ei ch
+064/065	gleich	1	g l ei ch
+064/067	gleich	1	g l ei ch
+064/069	gläich	1	g l äi ch
+064/071	gleich	1	g l ei ch
+064/073	gleich	1	g l ei ch
+064/075	gleich	1	g l ei ch
+064/077	gleich	1	g l ei ch
+064/079	gleich	1	g l ei ch
+064/081	gliech	1	g l ie ch
+064/083	gleich	1	g l ei ch
+064/085	gleich	1	g l ei ch
+064/087	gleich	1	g l ei ch
+064/089	glich	1	g l i ch
+064/091	glei	1	g l ei
+064/093	gleich	1	g l ei ch
+064/095	gleich	1	g l ei ch
+064/097	geleich	1	g e l ei ch
+064/099	geleich	1	g e l ei ch
+064/101	geleich	1	g e l ei ch
+064/103	geleich	1	g e l ei ch
+064/105	geleich	1	g e l ei ch
+064/107	geleich	1	g e l ei ch
+064/109	gleich	1	g l ei ch
+064/111	gleich	1	g l ei ch
+064/113	glei	1	g l ei
+064/115	glai	1	g l ai
+064/117	glei	1	g l ei
+064/119	glei	1	g l ei
+064/121	glei	1	g l ei
+064/123	glei	1	g l ei
+064/125	glei	1	g l ei
+064/127	glei	1	g l ei
+064/135	glei	1	g l ei
+064/137	glei	1	g l ei
+064/139	bal	1	b a l
+064/141	glei	1	g l ei
+064/143	glei	1	g l ei
+064/145	bale	1	b a l e
+064/147	glei	1	g l ei
+064/149	glei	1	g l ei
+064/151	glei	1	g l ei
+064/153	glei	1	g l ei
+064/155	glei	1	g l ei
+064/157	gleich	1	g l ei ch
+064/159	glei	1	g l ei
+065/021	glich	1	g l i ch
+065/023	glich	1	g l i ch
+065/025	jlich	1	j l i ch
+065/027	glich	1	g l i ch
+065/029	jlich	1	j l i ch
+065/031	jelich	1	j e l i ch
+065/033	glich	1	g l i ch
+065/035	jeleich	1	j e l ei ch
+065/037	gleich	1	g l ei ch
+065/039	gleich	1	g l ei ch
+065/041	gleich	1	g l ei ch
+065/043	gleich	1	g l ei ch
+065/045	gleich	1	g l ei ch
+065/047	gleich	1	g l ei ch
+065/049	glaich	1	g l ai ch
+065/051	gleich	1	g l ei ch
+065/053	gleich	1	g l ei ch
+065/055	glaich	1	g l ai ch
+065/057	gleich	1	g l ei ch
+065/059	gleich	1	g l ei ch
+065/061	gläig	1	g l äi g
+065/063	gliech	1	g l ie ch
+065/065	gläich	1	g l äi ch
+065/067	gleiich	1	g l eii ch
+065/069	gleich	1	g l ei ch
+065/071	NA	NA	-
+065/073	gleich	1	g l ei ch
+065/075	NA	NA	-
+065/077	gleich	1	g l ei ch
+065/079	gleich	1	g l ei ch
+065/081	gleich	1	g l ei ch
+065/083	olln	1	o ll n
+065/085	gleich	1	g l ei ch
+065/087	gleich	1	g l ei ch
+065/089	gleich	1	g l ei ch
+065/091	gleich	1	g l ei ch
+065/093	gleich	1	g l ei ch
+065/095	gleich	1	g l ei ch
+065/097	gleich	1	g l ei ch
+065/101	gleich	1	g l ei ch
+065/103	geleich	1	g e l ei ch
+065/105	nemmer	1	n e mm e r
+065/107	gleich	1	g l ei ch
+065/109	gleich	1	g l ei ch
+065/111	gleich	1	g l ei ch
+065/113	gleich	1	g l ei ch
+065/115	glei	1	g l ei
+065/121	glej	1	g l e j
+065/123	glei	1	g l ei
+065/137	glei	1	g l ei
+065/139	glei	1	g l ei
+065/143	glei	1	g l ei
+065/145	glei	1	g l ei
+065/147	glei	1	g l ei
+065/149	glei	1	g l ei
+065/151	glei	1	g l ei
+065/153	glei	1	g l ei
+065/155	glei	1	g l ei
+065/157	gleich	1	g l ei ch
+065/159	glei	1	g l ei
+066/021	gleech	1	g l ee ch
+066/023	bal	1	b a l
+066/025	jlech	1	j l e ch
+066/027	glich	1	g l i ch
+066/029	glich	1	g l i ch
+066/031	jeleich	1	j e l ei ch
+066/033	jeleich	1	j e l ei ch
+066/035	jeleich	1	j e l ei ch
+066/037	jeleich	1	j e l ei ch
+066/039	gleich	1	g l ei ch
+066/041	gleich	1	g l ei ch
+066/043	gleich	1	g l ei ch
+066/045	hertig	1	h e r t i g
+066/047	gleich	1	g l ei ch
+066/049	gleich	1	g l ei ch
+066/051	glei	1	g l ei
+066/053	bal	1	b a l
+066/055	gleich	1	g l ei ch
+066/057	bahl	1	b ah l
+066/059	gleich	1	g l ei ch
+066/061	gleich	1	g l ei ch
+066/063	gleich	1	g l ei ch
+066/065	NA	NA	-
+066/067	gläich	1	g l äi ch
+066/069	gleich	1	g l ei ch
+066/071	gleich	1	g l ei ch
+066/073	glei	1	g l ei
+066/075	gleich	1	g l ei ch
+066/077	gleich	1	g l ei ch
+066/079	gleich	1	g l ei ch
+066/081	gleich	1	g l ei ch
+066/083	gleich	1	g l ei ch
+066/085	gleich	1	g l ei ch
+066/087	gleich	1	g l ei ch
+066/089	tleich	1	t l ei ch
+066/091	gleich	1	g l ei ch
+066/093	gleich	1	g l ei ch
+066/095	gleich	1	g l ei ch
+066/097	gleich	1	g l ei ch
+066/099	galeich	1	g a l ei ch
+066/101	geleich	1	g e l ei ch
+066/103	gleich	1	g l ei ch
+066/105	galeich	1	g a l ei ch
+066/107	gleich	1	g l ei ch
+066/109	gleich	1	g l ei ch
+066/111	gleich	1	g l ei ch
+066/113	gleich	1	g l ei ch
+066/121	glei	1	g l ei
+066/139	glei	1	g l ei
+066/143	glei	1	g l ei
+066/145	glei	1	g l ei
+066/147	glei	1	g l ei
+066/149	glei	1	g l ei
+066/151	glei	1	g l ei
+066/153	glei	1	g l ei
+066/155	glei	1	g l ei
+066/157	glei	1	g l ei
+066/159	glei	1	g l ei
+066/161	glei	1	g l ei
+066/163	gleich	1	g l ei ch
+067/021	bahl	1	b ah l
+067/023	bahl	1	b ah l
+067/025	gelech	1	g e l e ch
+067/027	jlech	1	j l e ch
+067/029	jelich	1	j e l i ch
+067/031	geleig	1	g e l ei g
+067/033	jeleich	1	j e l ei ch
+067/035	jeleich	1	j e l ei ch
+067/037	jleich	1	j l ei ch
+067/039	gleich	1	g l ei ch
+067/041	gläig	1	g l äi g
+067/043	gläich	1	g l äi ch
+067/045	gleich	1	g l ei ch
+067/047	gleich	1	g l ei ch
+067/049	gleich	1	g l ei ch
+067/051	gleich	1	g l ei ch
+067/053	gleich	1	g l ei ch
+067/055	gleich	1	g l ei ch
+067/057	gleich	1	g l ei ch
+067/059	gleich	1	g l ei ch
+067/061	gläich	1	g l äi ch
+067/063	gleich	1	g l ei ch
+067/065	gleich	1	g l ei ch
+067/067	gleich	1	g l ei ch
+067/069	tleich	1	t l ei ch
+067/071	gleich	1	g l ei ch
+067/073	gleich	1	g l ei ch
+067/075	dleich	1	d l ei ch
+067/077	gleich	1	g l ei ch
+067/079	gleich	1	g l ei ch
+067/081	gleich	1	g l ei ch
+067/083	gleich	1	g l ei ch
+067/085	glei	1	g l ei
+067/087	gleich	1	g l ei ch
+067/089	gleich	1	g l ei ch
+067/091	gleich	1	g l ei ch
+067/093	glei	1	g l ei
+067/095	glei	1	g l ei
+067/097	gleich	1	g l ei ch
+067/099	gleich	1	g l ei ch
+067/101	glajch	1	g l a j ch
+067/103	glei	1	g l ei
+067/105	glaich	1	g l ai ch
+067/107	gleich	1	g l ei ch
+067/109	gleich	1	g l ei ch
+067/111	gleich	1	g l ei ch
+067/113	gleich	1	g l ei ch
+067/143	glei	1	g l ei
+067/145	glei	1	g l ei
+067/147	glei	1	g l ei
+067/149	glei	1	g l ei
+067/151	glei	1	g l ei
+067/153	glei	1	g l ei
+067/155	glei	1	g l ei
+067/157	glei	1	g l ei
+067/159	glei	1	g l ei
+067/161	glei	1	g l ei
+067/163	glei	1	g l ei
+067/165	glei	1	g l ei
+067/177	glei	1	g l ei
+068/021	jelich	1	j e l i ch
+068/023	jlesch	1	j l e sch
+068/025	jlech	1	j l e ch
+068/027	jlech	1	j l e ch
+068/029	jelech	1	j e l e ch
+068/031	jeleuch	1	j e l eu ch
+068/033	jeleuch	1	j e l eu ch
+068/035	jeleuch	1	j e l eu ch
+068/037	jleuch	1	j l eu ch
+068/039	gleich	1	g l ei ch
+068/041	gleich	1	g l ei ch
+068/043	bal	1	b a l
+068/045	gleich	1	g l ei ch
+068/047	kleich	1	k l ei ch
+068/049	NA	NA	-
+068/051	gleich	1	g l ei ch
+068/053	gleich	1	g l ei ch
+068/055	gleich	1	g l ei ch
+068/057	gleich	1	g l ei ch
+068/059	gleich	1	g l ei ch
+068/061	gleich	1	g l ei ch
+068/063	gleich	1	g l ei ch
+068/065	gleich	1	g l ei ch
+068/067	gleich	1	g l ei ch
+068/069	gleich	1	g l ei ch
+068/071	gleich	1	g l ei ch
+068/073	gleich	1	g l ei ch
+068/075	gleich	1	g l ei ch
+068/077	gleich	1	g l ei ch
+068/079	gleich	1	g l ei ch
+068/081	gleich	1	g l ei ch
+068/083	gleich	1	g l ei ch
+068/085	kleich	1	k l ei ch
+068/087	gleich	1	g l ei ch
+068/089	glei	1	g l ei
+068/091	glei	1	g l ei
+068/093	glei	1	g l ei
+068/095	glai	1	g l ai
+068/097	glei	1	g l ei
+068/099	glei	1	g l ei
+068/101	glei	1	g l ei
+068/103	glei	1	g l ei
+068/105	NA	NA	-
+068/107	gleich	1	g l ei ch
+068/109	gleich	1	g l ei ch
+068/111	gleich	1	g l ei ch
+068/145	glei	1	g l ei
+068/147	glei	1	g l ei
+068/149	glei	1	g l ei
+068/151	glei	1	g l ei
+068/153	glei	1	g l ei
+068/155	glei	1	g l ei
+068/157	gleich	1	g l ei ch
+068/159	glei	1	g l ei
+068/161	gleich	1	g l ei ch
+068/165	gleich	1	g l ei ch
+069/019	gleich	1	g l ei ch
+069/023	jäng	1	j ä ng
+069/025	jeng	1	j e ng
+069/027	bal	1	b a l
+069/029	jeleich	1	j e l ei ch
+069/031	jeleich	1	j e l ei ch
+069/033	jeläich	1	j e l äi ch
+069/035	geleich	1	g e l ei ch
+069/037	gleich	1	g l ei ch
+069/039	gleich	1	g l ei ch
+069/041	gläich	1	g l äi ch
+069/043	gleich	1	g l ei ch
+069/045	gleich	1	g l ei ch
+069/047	gleich	1	g l ei ch
+069/049	bahl	1	b ah l
+069/051	gleich	1	g l ei ch
+069/053	gleich	1	g l ei ch
+069/055	gleich	1	g l ei ch
+069/057	gleich	1	g l ei ch
+069/059	gleuch	1	g l eu ch
+069/061	gleuch	1	g l eu ch
+069/063	gleich	1	g l ei ch
+069/065	gleich	1	g l ei ch
+069/067	tleich	1	t l ei ch
+069/069	gleich	1	g l ei ch
+069/071	gleich	1	g l ei ch
+069/073	gleich	1	g l ei ch
+069/075	gleich	1	g l ei ch
+069/077	gleich	1	g l ei ch
+069/079	gleich	1	g l ei ch
+069/081	gleich	1	g l ei ch
+069/083	gleich	1	g l ei ch
+069/085	gleich	1	g l ei ch
+069/087	gleich	1	g l ei ch
+069/089	gleich	1	g l ei ch
+069/091	glei	1	g l ei
+069/093	ball	1	b a ll
+069/095	glei	1	g l ei
+069/097	glei	1	g l ei
+069/099	glai	1	g l ai
+069/101	glei	1	g l ei
+069/103	glei	1	g l ei
+069/105	glei	1	g l ei
+069/107	glei	1	g l ei
+069/109	glei	1	g l ei
+069/111	gleich	1	g l ei ch
+069/147	glei	1	g l ei
+069/149	glei	1	g l ei
+069/151	glei	1	g l ei
+069/153	glei	1	g l ei
+069/157	glei	1	g l ei
+069/159	glei	1	g l ei
+069/161	glei	1	g l ei
+069/163	bal	1	b a l
+069/165	gleich	1	g l ei ch
+070/019	gleig	1	g l ei g
+070/023	bal	1	b a l
+070/025	gleich	1	g l ei ch
+070/027	gleich	1	g l ei ch
+070/029	gleich	1	g l ei ch
+070/031	gleich	1	g l ei ch
+070/033	gleuch	1	g l eu ch
+070/035	gleich	1	g l ei ch
+070/037	gleich	1	g l ei ch
+070/039	gleich	1	g l ei ch
+070/041	gleich	1	g l ei ch
+070/043	gleich	1	g l ei ch
+070/045	gleich	1	g l ei ch
+070/047	gleich	1	g l ei ch
+070/049	gleich	1	g l ei ch
+070/051	gleich	1	g l ei ch
+070/053	gleich	1	g l ei ch
+070/055	gleich	1	g l ei ch
+070/057	gleich	1	g l ei ch
+070/059	gleich	1	g l ei ch
+070/061	gleich	1	g l ei ch
+070/063	gleich	1	g l ei ch
+070/065	gleich	1	g l ei ch
+070/067	dleich	1	d l ei ch
+070/069	glei	1	g l ei
+070/071	glei	1	g l ei
+070/073	NA	NA	-
+070/075	gleich	1	g l ei ch
+070/077	gleich	1	g l ei ch
+070/079	gleich	1	g l ei ch
+070/081	gleich	1	g l ei ch
+070/083	gleich	1	g l ei ch
+070/085	glei	1	g l ei
+070/087	gleich	1	g l ei ch
+070/089	gleich	1	g l ei ch
+070/091	glei	1	g l ei
+070/093	glei	1	g l ei
+070/095	glei	1	g l ei
+070/097	glei	1	g l ei
+070/099	glei	1	g l ei
+070/101	glei	1	g l ei
+070/103	glei	1	g l ei
+070/105	glai	1	g l ai
+070/107	glei	1	g l ei
+070/109	gleich	1	g l ei ch
+070/111	gleich	1	g l ei ch
+070/145	glei	1	g l ei
+070/147	glei	1	g l ei
+070/149	glei	1	g l ei
+070/151	glei	1	g l ei
+070/153	glei	1	g l ei
+070/155	glaee	1	g l aee
+070/157	glei	1	g l ei
+070/159	glei	1	g l ei
+070/161	glei	1	g l ei
+070/163	glei	1	g l ei
+070/165	glei	1	g l ei
+071/017	gleich	1	g l ei ch
+071/019	gleich	1	g l ei ch
+071/021	gleich	1	g l ei ch
+071/023	gleich	1	g l ei ch
+071/025	gläich	1	g l äi ch
+071/027	gläich	1	g l äi ch
+071/029	gleich	1	g l ei ch
+071/031	gleich	1	g l ei ch
+071/033	hattig	1	h a tt i g
+071/035	gläich	1	g l äi ch
+071/037	gleich	1	g l ei ch
+071/039	gleich	1	g l ei ch
+071/041	gleich	1	g l ei ch
+071/043	gleich	1	g l ei ch
+071/045	gleich	1	g l ei ch
+071/047	gläch	1	g l ä ch
+071/049	glei	1	g l ei
+071/051	glei	1	g l ei
+071/053	glai	1	g l ai
+071/055	gleich	1	g l ei ch
+071/057	gleich	1	g l ei ch
+071/059	gleich	1	g l ei ch
+071/063	gleich	1	g l ei ch
+071/065	gleich	1	g l ei ch
+071/067	gleich	1	g l ei ch
+071/069	gleich	1	g l ei ch
+071/071	gleich	1	g l ei ch
+071/073	glei	1	g l ei
+071/075	ball	1	b a ll
+071/077	gleich	1	g l ei ch
+071/079	gleich	1	g l ei ch
+071/081	gleich	1	g l ei ch
+071/083	gleich	1	g l ei ch
+071/085	gleich	1	g l ei ch
+071/087	gleich	1	g l ei ch
+071/089	gleich	1	g l ei ch
+071/091	glei	1	g l ei
+071/093	glei	1	g l ei
+071/095	glei	1	g l ei
+071/097	glei	1	g l ei
+071/099	glei	1	g l ei
+071/101	klai	1	k l ai
+071/103	glei	1	g l ei
+071/105	glei	1	g l ei
+071/145	glei	1	g l ei
+071/147	glai	1	g l ai
+071/149	glei	1	g l ei
+071/151	glei	1	g l ei
+071/153	glei	1	g l ei
+071/155	glei	1	g l ei
+071/157	glei	1	g l ei
+071/159	glei	1	g l ei
+071/161	glei	1	g l ei
+071/163	glei	1	g l ei
+071/177	gleich	1	g l ei ch
+071/179	gleich	1	g l ei ch
+072/017	gleich	1	g l ei ch
+072/019	gleich	1	g l ei ch
+072/021	gleich	1	g l ei ch
+072/023	gleiich	1	g l eii ch
+072/025	gleich	1	g l ei ch
+072/027	glääich	1	g l ääi ch
+072/029	gleich	1	g l ei ch
+072/031	gleich	1	g l ei ch
+072/033	gläich	1	g l äi ch
+072/035	gläich	1	g l äi ch
+072/037	gläich	1	g l äi ch
+072/039	gleich	1	g l ei ch
+072/041	gleich	1	g l ei ch
+072/043	gleich	1	g l ei ch
+072/045	gleich	1	g l ei ch
+072/047	gleih	1	g l eih
+072/049	glei	1	g l ei
+072/051	glei	1	g l ei
+072/053	glai	1	g l ai
+072/055	klai	1	k l ai
+072/057	gleich	1	g l ei ch
+072/059	glei	1	g l ei
+072/061	gleich	1	g l ei ch
+072/063	gleich	1	g l ei ch
+072/065	gleich	1	g l ei ch
+072/067	gleich	1	g l ei ch
+072/069	dleich	1	d l ei ch
+072/071	ball	1	b a ll
+072/073	glei	1	g l ei
+072/075	gleich	1	g l ei ch
+072/077	gleich	1	g l ei ch
+072/079	gleich	1	g l ei ch
+072/081	glei	1	g l ei
+072/083	glei	1	g l ei
+072/085	glei	1	g l ei
+072/087	glei	1	g l ei
+072/089	gleich	1	g l ei ch
+072/091	glei	1	g l ei
+072/093	glei	1	g l ei
+072/095	glei	1	g l ei
+072/097	glei	1	g l ei
+072/099	glai	1	g l ai
+072/101	glai	1	g l ai
+072/103	glei	1	g l ei
+072/105	glei	1	g l ei
+072/107	glei	1	g l ei
+072/145	gleich	1	g l ei ch
+072/147	glei	1	g l ei
+072/149	glaaj	1	g l aa j
+072/151	glei	1	g l ei
+072/153	glei	1	g l ei
+072/155	NA	NA	-
+072/157	glei	1	g l ei
+072/159	glei	1	g l ei
+072/161	glei	1	g l ei
+072/177	glei	1	g l ei
+072/179	gleich	1	g l ei ch
+072/181	glei	1	g l ei
+073/017	gleich	1	g l ei ch
+073/019	geschwen	1	g e sch w e n
+073/021	gleiich	1	g l eii ch
+073/023	gläich	1	g l äi ch
+073/025	gläich	1	g l äi ch
+073/027	gleich	1	g l ei ch
+073/029	gleich	1	g l ei ch
+073/031	gläich	1	g l äi ch
+073/033	glei	1	g l ei
+073/035	gleich	1	g l ei ch
+073/037	gleich	1	g l ei ch
+073/039	gleich	1	g l ei ch
+073/041	gleich	1	g l ei ch
+073/043	gleich	1	g l ei ch
+073/045	gleich	1	g l ei ch
+073/047	gleich	1	g l ei ch
+073/049	gleih	1	g l eih
+073/051	glei	1	g l ei
+073/053	gleich	1	g l ei ch
+073/055	glai	1	g l ai
+073/057	glei	1	g l ei
+073/059	gleich	1	g l ei ch
+073/061	gleich	1	g l ei ch
+073/063	gleich	1	g l ei ch
+073/065	gleich	1	g l ei ch
+073/067	gleich	1	g l ei ch
+073/069	glei	1	g l ei
+073/071	glei	1	g l ei
+073/073	glei	1	g l ei
+073/075	gleich	1	g l ei ch
+073/077	gleich	1	g l ei ch
+073/079	gleich	1	g l ei ch
+073/081	gleich	1	g l ei ch
+073/083	gleich	1	g l ei ch
+073/085	gleich	1	g l ei ch
+073/087	glei	1	g l ei
+073/089	glei	1	g l ei
+073/091	glei	1	g l ei
+073/093	glei	1	g l ei
+073/095	glei	1	g l ei
+073/097	glei	1	g l ei
+073/099	boal	1	b oa l
+073/101	glei	1	g l ei
+073/103	glei	1	g l ei
+073/105	gleich	1	g l ei ch
+073/107	glei	1	g l ei
+073/145	gleich	1	g l ei ch
+073/147	gleich	1	g l ei ch
+073/149	glei	1	g l ei
+073/151	glei	1	g l ei
+073/153	glei	1	g l ei
+073/155	glei	1	g l ei
+073/157	glei	1	g l ei
+073/159	NA	NA	-
+073/161	glei	1	g l ei
+073/163	glei	1	g l ei
+073/165	glei	1	g l ei
+073/175	glej	1	g l e j
+073/177	glej	1	g l e j
+074/019	gleich	1	g l ei ch
+074/021	geschwenn	1	g e sch w e nn
+074/023	gangs	1	g a ng s
+074/025	gleich	1	g l ei ch
+074/027	gleich	1	g l ei ch
+074/029	gleich	1	g l ei ch
+074/031	gleeich	1	g l eei ch
+074/033	gläich	1	g l äi ch
+074/035	glei	1	g l ei
+074/037	gleich	1	g l ei ch
+074/039	gleich	1	g l ei ch
+074/041	gleich	1	g l ei ch
+074/043	gleich	1	g l ei ch
+074/045	glei	1	g l ei
+074/047	gleich	1	g l ei ch
+074/049	glei	1	g l ei
+074/051	glei	1	g l ei
+074/053	gleich	1	g l ei ch
+074/055	glei	1	g l ei
+074/057	glei	1	g l ei
+074/059	glai	1	g l ai
+074/061	glei	1	g l ei
+074/063	gleich	1	g l ei ch
+074/065	gleich	1	g l ei ch
+074/067	gleich	1	g l ei ch
+074/069	glei	1	g l ei
+074/071	glei	1	g l ei
+074/073	glei	1	g l ei
+074/075	glei	1	g l ei
+074/077	glei	1	g l ei
+074/079	glei	1	g l ei
+074/081	glei	1	g l ei
+074/083	gleich	1	g l ei ch
+074/085	glei	1	g l ei
+074/087	glei	1	g l ei
+074/089	glei	1	g l ei
+074/091	glei	1	g l ei
+074/093	glei	1	g l ei
+074/095	glei	1	g l ei
+074/097	glei	1	g l ei
+074/099	glei	1	g l ei
+074/101	glei	1	g l ei
+074/103	glei	1	g l ei
+074/105	glei	1	g l ei
+074/107	bal	1	b a l
+074/109	glei	1	g l ei
+074/145	gleich	1	g l ei ch
+074/147	gleich	1	g l ei ch
+074/149	glaich	1	g l ai ch
+074/153	glei	1	g l ei
+074/155	glei	1	g l ei
+074/157	glei	1	g l ei
+074/159	glei	1	g l ei
+074/161	glai	1	g l ai
+074/163	glei	1	g l ei
+074/165	gleich	1	g l ei ch
+075/019	gleich	1	g l ei ch
+075/021	gleich	1	g l ei ch
+075/023	gleich	1	g l ei ch
+075/025	gangs	1	g a ng s
+075/027	gleich	1	g l ei ch
+075/029	gleich	1	g l ei ch
+075/031	gleich	1	g l ei ch
+075/033	gleich	1	g l ei ch
+075/035	gläich	1	g l äi ch
+075/037	glei	1	g l ei
+075/039	gleich	1	g l ei ch
+075/041	gleich	1	g l ei ch
+075/043	gleich	1	g l ei ch
+075/045	gleich	1	g l ei ch
+075/047	glei	1	g l ei
+075/049	glei	1	g l ei
+075/051	ball	1	b a ll
+075/053	glei	1	g l ei
+075/055	glei	1	g l ei
+075/057	glei	1	g l ei
+075/059	gleich	1	g l ei ch
+075/061	glei	1	g l ei
+075/063	glei	1	g l ei
+075/065	gleich	1	g l ei ch
+075/067	gleich	1	g l ei ch
+075/069	gleich	1	g l ei ch
+075/071	gleich	1	g l ei ch
+075/073	glei	1	g l ei
+075/075	glei	1	g l ei
+075/077	glei	1	g l ei
+075/079	gleich	1	g l ei ch
+075/081	glei	1	g l ei
+075/083	glai	1	g l ai
+075/085	glei	1	g l ei
+075/087	glei	1	g l ei
+075/089	glei	1	g l ei
+075/091	glei	1	g l ei
+075/093	glei	1	g l ei
+075/095	glei	1	g l ei
+075/097	glei	1	g l ei
+075/099	glei	1	g l ei
+075/101	glei	1	g l ei
+075/103	glei	1	g l ei
+075/105	glei	1	g l ei
+075/107	glei	1	g l ei
+075/135	glaj	1	g l a j
+075/145	gleich	1	g l ei ch
+075/147	gleich	1	g l ei ch
+075/149	gleich	1	g l ei ch
+075/155	glei	1	g l ei
+075/157	glei	1	g l ei
+075/159	glei	1	g l ei
+075/161	glei	1	g l ei
+075/163	glei	1	g l ei
+075/165	glai	1	g l ai
+076/019	gleiich	1	g l eii ch
+076/021	gleich	1	g l ei ch
+076/023	gleich	1	g l ei ch
+076/025	gangs	1	g a ng s
+076/027	glehig	1	g l e h i g
+076/029	hortig	1	h o r t i g
+076/033	gleich	1	g l ei ch
+076/035	gleich	1	g l ei ch
+076/037	glei	1	g l ei
+076/039	gleich	1	g l ei ch
+076/041	gleich	1	g l ei ch
+076/043	gleich	1	g l ei ch
+076/045	glei	1	g l ei
+076/047	glei	1	g l ei
+076/049	glei	1	g l ei
+076/051	glei	1	g l ei
+076/053	glei	1	g l ei
+076/055	glei	1	g l ei
+076/057	glei	1	g l ei
+076/059	gleich	1	g l ei ch
+076/061	gleich	1	g l ei ch
+076/063	glaich	1	g l ai ch
+076/065	glei	1	g l ei
+076/067	gläi	1	g l äi
+076/069	gleich	1	g l ei ch
+076/071	glei	1	g l ei
+076/073	glei	1	g l ei
+076/075	glei	1	g l ei
+076/077	glei	1	g l ei
+076/079	glei	1	g l ei
+076/081	glei	1	g l ei
+076/083	glei	1	g l ei
+076/085	glei	1	g l ei
+076/087	glei	1	g l ei
+076/089	glei	1	g l ei
+076/091	glei	1	g l ei
+076/093	glei	1	g l ei
+076/095	glei	1	g l ei
+076/097	glei	1	g l ei
+076/099	glei	1	g l ei
+076/101	glei	1	g l ei
+076/103	glei	1	g l ei
+076/135	glei	1	g l ei
+076/137	glaaj	1	g l aa j
+076/149	glei	1	g l ei
+076/151	glaie	1	g l aie
+076/155	glei	1	g l ei
+076/161	glei	1	g l ei
+076/163	glei	1	g l ei
+076/165	glei	1	g l ei
+077/019	gleich	1	g l ei ch
+077/021	geschwen	1	g e sch w e n
+077/023	geschuuen	1	g e sch uue n
+077/025	gleich	1	g l ei ch
+077/027	gleich	1	g l ei ch
+077/029	gleich	1	g l ei ch
+077/031	gleich	1	g l ei ch
+077/033	gleih	1	g l eih
+077/035	gleich	1	g l ei ch
+077/037	gleich	1	g l ei ch
+077/039	gleich	1	g l ei ch
+077/041	glei	1	g l ei
+077/043	glei	1	g l ei
+077/047	glei	1	g l ei
+077/049	glei	1	g l ei
+077/051	glai	1	g l ai
+077/053	glei	1	g l ei
+077/055	glei	1	g l ei
+077/057	glei	1	g l ei
+077/059	glei	1	g l ei
+077/061	glei	1	g l ei
+077/063	glei	1	g l ei
+077/065	gleich	1	g l ei ch
+077/067	glaich	1	g l ai ch
+077/069	gleich	1	g l ei ch
+077/071	gleich	1	g l ei ch
+077/073	glei	1	g l ei
+077/075	gleich	1	g l ei ch
+077/077	glei	1	g l ei
+077/079	glei	1	g l ei
+077/081	gleih	1	g l eih
+077/083	glei	1	g l ei
+077/085	glei	1	g l ei
+077/087	glei	1	g l ei
+077/089	glei	1	g l ei
+077/091	glei	1	g l ei
+077/093	glei	1	g l ei
+077/095	glei	1	g l ei
+077/097	glei	1	g l ei
+077/099	gläi	1	g l äi
+077/101	glei	1	g l ei
+077/103	glei	1	g l ei
+077/135	glei	1	g l ei
+077/137	glei	1	g l ei
+078/021	glech	1	g l e ch
+078/023	geschwen	1	g e sch w e n
+078/025	geschweim	1	g e sch w ei m
+078/027	gleich	1	g l ei ch
+078/029	gleich	1	g l ei ch
+078/031	gleich	1	g l ei ch
+078/033	gleich	1	g l ei ch
+078/035	gleich	1	g l ei ch
+078/037	gleich	1	g l ei ch
+078/039	gleich	1	g l ei ch
+078/041	glei	1	g l ei
+078/045	glei	1	g l ei
+078/047	gleich	1	g l ei ch
+078/049	gleih	1	g l eih
+078/051	gleich	1	g l ei ch
+078/053	glei	1	g l ei
+078/055	glei	1	g l ei
+078/057	glei	1	g l ei
+078/059	glei	1	g l ei
+078/061	glei	1	g l ei
+078/063	glai	1	g l ai
+078/065	glai	1	g l ai
+078/067	glei	1	g l ei
+078/069	glei	1	g l ei
+078/071	glei	1	g l ei
+078/073	glei	1	g l ei
+078/075	gleih	1	g l eih
+078/077	glei	1	g l ei
+078/079	glei	1	g l ei
+078/081	glei	1	g l ei
+078/083	glei	1	g l ei
+078/085	glei	1	g l ei
+078/087	glei	1	g l ei
+078/089	glei	1	g l ei
+078/091	glei	1	g l ei
+078/093	glei	1	g l ei
+078/095	NA	NA	-
+078/097	glei	1	g l ei
+078/099	glä	1	g l ä
+078/101	glei	1	g l ei
+078/103	glä	1	g l ä
+078/105	glä	1	g l ä
+078/135	NA	NA	-
+078/193	kleich	1	k l ei ch
+079/021	gleich	1	g l ei ch
+079/023	gleich	1	g l ei ch
+079/025	gleich	1	g l ei ch
+079/027	gleich	1	g l ei ch
+079/029	gleich	1	g l ei ch
+079/031	gleich	1	g l ei ch
+079/033	gleich	1	g l ei ch
+079/035	glaech	1	g l ae ch
+079/037	gleich	1	g l ei ch
+079/039	gleich	1	g l ei ch
+079/043	glei	1	g l ei
+079/045	gleich	1	g l ei ch
+079/047	gleich	1	g l ei ch
+079/049	glei	1	g l ei
+079/051	gleich	1	g l ei ch
+079/053	glei	1	g l ei
+079/055	glei	1	g l ei
+079/057	glei	1	g l ei
+079/059	glei	1	g l ei
+079/061	glei	1	g l ei
+079/063	glai	1	g l ai
+079/065	glai	1	g l ai
+079/067	glaich	1	g l ai ch
+079/069	glei	1	g l ei
+079/071	glei	1	g l ei
+079/073	glei	1	g l ei
+079/075	glei	1	g l ei
+079/077	glei	1	g l ei
+079/079	glei	1	g l ei
+079/081	glei	1	g l ei
+079/083	glei	1	g l ei
+079/085	glei	1	g l ei
+079/087	glei	1	g l ei
+079/089	glei	1	g l ei
+079/091	glei	1	g l ei
+079/093	glei	1	g l ei
+079/095	glei	1	g l ei
+079/097	glei	1	g l ei
+079/099	glä	1	g l ä
+079/101	glä	1	g l ä
+079/103	glei	1	g l ei
+079/105	glei	1	g l ei
+079/107	bol	1	b o l
+079/133	glei	1	g l ei
+079/135	glei	1	g l ei
+079/193	glaich	1	g l ai ch
+079/195	glaich	1	g l ai ch
+079/197	guaich	1	g uai ch
+080/025	glich	1	g l i ch
+080/027	glich	1	g l i ch
+080/029	gleich	1	g l ei ch
+080/031	gleich	1	g l ei ch
+080/033	glich	1	g l i ch
+080/035	gläich	1	g l äi ch
+080/037	gleich	1	g l ei ch
+080/039	glei	1	g l ei
+080/041	gleich	1	g l ei ch
+080/043	gleich	1	g l ei ch
+080/045	gleich	1	g l ei ch
+080/047	gleich	1	g l ei ch
+080/049	glei	1	g l ei
+080/051	glei	1	g l ei
+080/053	glei	1	g l ei
+080/055	glaai	1	g l aai
+080/057	glei	1	g l ei
+080/059	glei	1	g l ei
+080/061	gleii	1	g l eii
+080/063	glei	1	g l ei
+080/065	glei	1	g l ei
+080/067	glai	1	g l ai
+080/069	glei	1	g l ei
+080/071	glei	1	g l ei
+080/073	glei	1	g l ei
+080/075	glei	1	g l ei
+080/077	glei	1	g l ei
+080/079	glei	1	g l ei
+080/081	glei	1	g l ei
+080/083	glei	1	g l ei
+080/085	glei	1	g l ei
+080/087	glei	1	g l ei
+080/089	glei	1	g l ei
+080/091	glei	1	g l ei
+080/093	glei	1	g l ei
+080/095	glei	1	g l ei
+080/097	glei	1	g l ei
+080/099	gläh	1	g l äh
+080/101	glä	1	g l ä
+080/103	glei	1	g l ei
+080/105	glei	1	g l ei
+080/107	glei	1	g l ei
+080/109	NA	NA	-
+080/127	glei	1	g l ei
+080/147	glei	1	g l ei
+080/151	glei	1	g l ei
+080/153	glei	1	g l ei
+080/193	glaich	1	g l ai ch
+080/195	gleich	1	g l ei ch
+081/025	glich	1	g l i ch
+081/027	glich	1	g l i ch
+081/029	NA	NA	-
+081/031	glich	1	g l i ch
+081/033	glich	1	g l i ch
+081/035	glich	1	g l i ch
+081/037	glich	1	g l i ch
+081/039	NA	NA	-
+081/043	gleich	1	g l ei ch
+081/045	gleich	1	g l ei ch
+081/047	gleich	1	g l ei ch
+081/049	glei	1	g l ei
+081/051	glaich	1	g l ai ch
+081/053	glei	1	g l ei
+081/055	glei	1	g l ei
+081/057	glei	1	g l ei
+081/059	glei	1	g l ei
+081/061	glai	1	g l ai
+081/063	glei	1	g l ei
+081/065	glei	1	g l ei
+081/067	glei	1	g l ei
+081/069	gleich	1	g l ei ch
+081/071	glei	1	g l ei
+081/073	ball	1	b a ll
+081/075	glei	1	g l ei
+081/077	glei	1	g l ei
+081/079	glei	1	g l ei
+081/081	glei	1	g l ei
+081/083	glei	1	g l ei
+081/085	glei	1	g l ei
+081/087	glei	1	g l ei
+081/089	glei	1	g l ei
+081/091	glei	1	g l ei
+081/093	glei	1	g l ei
+081/095	NA	NA	-
+081/097	glei	1	g l ei
+081/099	glei	1	g l ei
+081/101	gläii	1	g l äii
+081/103	glä	1	g l ä
+081/105	glää	1	g l ää
+081/107	glei	1	g l ei
+081/109	glei	1	g l ei
+081/111	NA	NA	-
+081/127	glei	1	g l ei
+081/129	glei	1	g l ei
+081/133	boald	1	b oa l d
+081/147	gleich	1	g l ei ch
+081/191	NA	NA	-
+081/193	gloech	1	g l oe ch
+081/195	glaich	1	g l ai ch
+082/027	gliich	1	g l ii ch
+082/029	glich	1	g l i ch
+082/031	glich	1	g l i ch
+082/033	glich	1	g l i ch
+082/035	glich	1	g l i ch
+082/037	glich	1	g l i ch
+082/039	glich	1	g l i ch
+082/041	glich	1	g l i ch
+082/043	ball	1	b a ll
+082/045	gleich	1	g l ei ch
+082/047	gleich	1	g l ei ch
+082/049	glei	1	g l ei
+082/051	glei	1	g l ei
+082/053	glei	1	g l ei
+082/055	glei	1	g l ei
+082/057	glei	1	g l ei
+082/059	glei	1	g l ei
+082/061	glei	1	g l ei
+082/063	glai	1	g l ai
+082/065	glai	1	g l ai
+082/067	glei	1	g l ei
+082/069	glei	1	g l ei
+082/071	glei	1	g l ei
+082/073	glei	1	g l ei
+082/075	glei	1	g l ei
+082/077	glei	1	g l ei
+082/079	glei	1	g l ei
+082/081	glei	1	g l ei
+082/083	glei	1	g l ei
+082/085	glei	1	g l ei
+082/087	glei	1	g l ei
+082/089	glei	1	g l ei
+082/091	glei	1	g l ei
+082/093	glei	1	g l ei
+082/095	glei	1	g l ei
+082/097	glei	1	g l ei
+082/099	glei	1	g l ei
+082/101	glei	1	g l ei
+082/103	glä	1	g l ä
+082/105	glee	1	g l ee
+082/107	glei	1	g l ei
+082/111	glei	1	g l ei
+082/113	glei	1	g l ei
+082/117	glei	1	g l ei
+082/129	glei	1	g l ei
+082/131	glei	1	g l ei
+082/133	glei	1	g l ei
+082/135	glei	1	g l ei
+082/145	glei	1	g l ei
+082/147	glei	1	g l ei
+082/191	glaich	1	g l ai ch
+082/195	gleich	1	g l ei ch
+083/027	glich	1	g l i ch
+083/029	glich	1	g l i ch
+083/031	glich	1	g l i ch
+083/033	glich	1	g l i ch
+083/035	glich	1	g l i ch
+083/037	glich	1	g l i ch
+083/039	glich	1	g l i ch
+083/041	glich	1	g l i ch
+083/043	gleich	1	g l ei ch
+083/045	gleich	1	g l ei ch
+083/047	glich	1	g l i ch
+083/049	glei	1	g l ei
+083/051	glei	1	g l ei
+083/053	glei	1	g l ei
+083/055	glei	1	g l ei
+083/057	glei	1	g l ei
+083/059	glei	1	g l ei
+083/061	glei	1	g l ei
+083/063	glei	1	g l ei
+083/065	glei	1	g l ei
+083/067	glei	1	g l ei
+083/069	glei	1	g l ei
+083/071	glei	1	g l ei
+083/073	glei	1	g l ei
+083/075	glei	1	g l ei
+083/077	glei	1	g l ei
+083/079	glei	1	g l ei
+083/081	glei	1	g l ei
+083/083	glei	1	g l ei
+083/085	glei	1	g l ei
+083/087	glei	1	g l ei
+083/089	glei	1	g l ei
+083/091	glei	1	g l ei
+083/093	glei	1	g l ei
+083/095	glei	1	g l ei
+083/097	glei	1	g l ei
+083/099	glei	1	g l ei
+083/101	glei	1	g l ei
+083/103	glei	1	g l ei
+083/105	glä	1	g l ä
+083/107	glei	1	g l ei
+083/111	gleii	1	g l eii
+083/113	glei	1	g l ei
+083/115	glei	1	g l ei
+083/117	glei	1	g l ei
+083/119	glei	1	g l ei
+083/121	NA	NA	-
+083/129	glei	1	g l ei
+083/131	gleich	1	g l ei ch
+083/133	glei	1	g l ei
+083/135	glei	1	g l ei
+083/139	glei	1	g l ei
+083/143	glei	1	g l ei
+083/145	glei	1	g l ei
+083/147	glei	1	g l ei
+083/149	glei	1	g l ei
+083/173	glaech	1	g l ae ch
+083/195	gleich	1	g l ei ch
+084/031	gleich	1	g l ei ch
+084/033	glich	1	g l i ch
+084/035	glich	1	g l i ch
+084/037	glich	1	g l i ch
+084/039	glich	1	g l i ch
+084/041	glich	1	g l i ch
+084/043	glich	1	g l i ch
+084/045	glich	1	g l i ch
+084/047	glich	1	g l i ch
+084/049	glei	1	g l ei
+084/051	glei	1	g l ei
+084/053	glei	1	g l ei
+084/055	glei	1	g l ei
+084/057	glei	1	g l ei
+084/059	glei	1	g l ei
+084/061	glei	1	g l ei
+084/063	glei	1	g l ei
+084/065	glei	1	g l ei
+084/067	glei	1	g l ei
+084/069	glei	1	g l ei
+084/071	glei	1	g l ei
+084/073	glei	1	g l ei
+084/075	glei	1	g l ei
+084/077	glei	1	g l ei
+084/079	glei	1	g l ei
+084/081	glei	1	g l ei
+084/083	glei	1	g l ei
+084/085	glei	1	g l ei
+084/087	glei	1	g l ei
+084/089	glei	1	g l ei
+084/091	glei	1	g l ei
+084/093	glei	1	g l ei
+084/095	glei	1	g l ei
+084/097	glei	1	g l ei
+084/099	glei	1	g l ei
+084/101	glei	1	g l ei
+084/103	glei	1	g l ei
+084/105	glei	1	g l ei
+084/107	glei	1	g l ei
+084/109	glei	1	g l ei
+084/111	glei	1	g l ei
+084/113	glei	1	g l ei
+084/115	glej	1	g l e j
+084/117	glei	1	g l ei
+084/119	glei	1	g l ei
+084/129	glei	1	g l ei
+084/131	glei	1	g l ei
+084/133	glei	1	g l ei
+084/135	glei	1	g l ei
+084/137	glei	1	g l ei
+084/139	glei	1	g l ei
+084/141	glei	1	g l ei
+084/143	glei	1	g l ei
+084/145	glei	1	g l ei
+084/147	glei	1	g l ei
+084/149	glei	1	g l ei
+084/171	glai	1	g l ai
+084/173	glae	1	g l ae
+084/195	gleich	1	g l ei ch
+085/031	glich	1	g l i ch
+085/033	glich	1	g l i ch
+085/035	glich	1	g l i ch
+085/037	glich	1	g l i ch
+085/039	glich	1	g l i ch
+085/041	glich	1	g l i ch
+085/043	glich	1	g l i ch
+085/045	glich	1	g l i ch
+085/047	glei	1	g l ei
+085/049	glich	1	g l i ch
+085/051	glei	1	g l ei
+085/053	glei	1	g l ei
+085/055	glei	1	g l ei
+085/057	glei	1	g l ei
+085/059	glei	1	g l ei
+085/061	glei	1	g l ei
+085/063	glei	1	g l ei
+085/065	glei	1	g l ei
+085/067	glei	1	g l ei
+085/069	glei	1	g l ei
+085/071	glei	1	g l ei
+085/073	glei	1	g l ei
+085/075	glei	1	g l ei
+085/077	glei	1	g l ei
+085/079	glei	1	g l ei
+085/081	glai	1	g l ai
+085/083	glei	1	g l ei
+085/085	glei	1	g l ei
+085/087	glei	1	g l ei
+085/089	glei	1	g l ei
+085/091	glei	1	g l ei
+085/093	glei	1	g l ei
+085/095	glei	1	g l ei
+085/097	glei	1	g l ei
+085/101	glei	1	g l ei
+085/103	bojd	1	b o j d
+085/105	glei	1	g l ei
+085/107	glei	1	g l ei
+085/109	boö	1	b oö
+085/111	glei	1	g l ei
+085/113	glei	1	g l ei
+085/115	glei	1	g l ei
+085/117	glei	1	g l ei
+085/119	glei	1	g l ei
+085/121	NA	NA	-
+085/123	bold	1	b o l d
+085/125	glei	1	g l ei
+085/127	glei	1	g l ei
+085/129	glei	1	g l ei
+085/131	glei	1	g l ei
+085/133	glei	1	g l ei
+085/135	glei	1	g l ei
+085/137	glei	1	g l ei
+085/139	glei	1	g l ei
+085/141	glei	1	g l ei
+085/143	glei	1	g l ei
+085/145	glei	1	g l ei
+085/147	glei	1	g l ei
+085/149	glei	1	g l ei
+085/175	wlenks	1	w l e n k s
+085/193	glaech	1	g l ae ch
+085/197	glaech	1	g l ae ch
+086/033	glich	1	g l i ch
+086/035	glich	1	g l i ch
+086/037	glich	1	g l i ch
+086/039	glich	1	g l i ch
+086/041	glich	1	g l i ch
+086/043	glich	1	g l i ch
+086/045	glich	1	g l i ch
+086/047	glich	1	g l i ch
+086/049	glich	1	g l i ch
+086/051	glei	1	g l ei
+086/053	glei	1	g l ei
+086/055	glei	1	g l ei
+086/057	glei	1	g l ei
+086/059	glei	1	g l ei
+086/061	glei	1	g l ei
+086/063	glei	1	g l ei
+086/065	glei	1	g l ei
+086/067	glei	1	g l ei
+086/069	glei	1	g l ei
+086/071	glei	1	g l ei
+086/073	glei	1	g l ei
+086/075	glei	1	g l ei
+086/077	glei	1	g l ei
+086/079	glei	1	g l ei
+086/081	glei	1	g l ei
+086/083	glei	1	g l ei
+086/085	gleei	1	g l eei
+086/087	glei	1	g l ei
+086/089	glei	1	g l ei
+086/091	glei	1	g l ei
+086/093	glei	1	g l ei
+086/095	glei	1	g l ei
+086/097	glei	1	g l ei
+086/099	glei	1	g l ei
+086/101	glei	1	g l ei
+086/103	glei	1	g l ei
+086/105	glei	1	g l ei
+086/107	glei	1	g l ei
+086/109	glei	1	g l ei
+086/111	glei	1	g l ei
+086/113	glei	1	g l ei
+086/115	glei	1	g l ei
+086/117	glei	1	g l ei
+086/119	glei	1	g l ei
+086/121	glei	1	g l ei
+086/123	glei	1	g l ei
+086/125	glei	1	g l ei
+086/127	glei	1	g l ei
+086/129	glei	1	g l ei
+086/131	glei	1	g l ei
+086/133	glei	1	g l ei
+086/135	glei	1	g l ei
+086/137	glei	1	g l ei
+086/139	glei	1	g l ei
+086/141	glei	1	g l ei
+086/143	glei	1	g l ei
+086/145	glei	1	g l ei
+086/147	glei	1	g l ei
+086/149	glei	1	g l ei
+086/151	glei	1	g l ei
+086/175	wlenks	1	w l e n k s
+086/197	gleich	1	g l ei ch
+086/199	NA	NA	-
+087/033	glich	1	g l i ch
+087/035	glich	1	g l i ch
+087/037	glich	1	g l i ch
+087/039	glich	1	g l i ch
+087/041	glich	1	g l i ch
+087/043	glich	1	g l i ch
+087/045	glich	1	g l i ch
+087/049	glei	1	g l ei
+087/051	glei	1	g l ei
+087/053	glei	1	g l ei
+087/055	ball	1	b a ll
+087/057	glei	1	g l ei
+087/059	glei	1	g l ei
+087/061	glei	1	g l ei
+087/063	glei	1	g l ei
+087/065	glei	1	g l ei
+087/067	glei	1	g l ei
+087/069	glei	1	g l ei
+087/071	glei	1	g l ei
+087/073	glei	1	g l ei
+087/075	glei	1	g l ei
+087/077	glei	1	g l ei
+087/079	glei	1	g l ei
+087/081	gei	1	g ei
+087/083	glei	1	g l ei
+087/085	glei	1	g l ei
+087/087	glei	1	g l ei
+087/089	glei	1	g l ei
+087/091	glei	1	g l ei
+087/093	glei	1	g l ei
+087/095	glei	1	g l ei
+087/097	glei	1	g l ei
+087/099	glei	1	g l ei
+087/101	glei	1	g l ei
+087/103	glei	1	g l ei
+087/105	glei	1	g l ei
+087/107	glei	1	g l ei
+087/109	glei	1	g l ei
+087/111	glei	1	g l ei
+087/113	glei	1	g l ei
+087/115	glei	1	g l ei
+087/117	glai	1	g l ai
+087/119	glei	1	g l ei
+087/121	glei	1	g l ei
+087/123	glei	1	g l ei
+087/125	glei	1	g l ei
+087/127	glei	1	g l ei
+087/129	glei	1	g l ei
+087/133	glei	1	g l ei
+087/135	glei	1	g l ei
+087/137	glei	1	g l ei
+087/139	glei	1	g l ei
+087/141	glei	1	g l ei
+087/143	NA	NA	-
+087/145	glei	1	g l ei
+087/147	glei	1	g l ei
+087/149	glei	1	g l ei
+087/151	glei	1	g l ei
+088/035	glich	1	g l i ch
+088/037	glich	1	g l i ch
+088/039	glich	1	g l i ch
+088/041	glich	1	g l i ch
+088/043	glich	1	g l i ch
+088/045	glich	1	g l i ch
+088/047	glei	1	g l ei
+088/049	glei	1	g l ei
+088/051	glei	1	g l ei
+088/053	glei	1	g l ei
+088/055	glei	1	g l ei
+088/057	glei	1	g l ei
+088/059	glei	1	g l ei
+088/061	glei	1	g l ei
+088/063	glei	1	g l ei
+088/065	glei	1	g l ei
+088/067	glei	1	g l ei
+088/069	glei	1	g l ei
+088/071	glei	1	g l ei
+088/073	gleu	1	g l eu
+088/075	gleu	1	g l eu
+088/077	glei	1	g l ei
+088/079	glei	1	g l ei
+088/081	glei	1	g l ei
+088/083	glei	1	g l ei
+088/085	glei	1	g l ei
+088/087	glei	1	g l ei
+088/089	glei	1	g l ei
+088/091	glei	1	g l ei
+088/093	glei	1	g l ei
+088/095	glei	1	g l ei
+088/097	glei	1	g l ei
+088/099	glei	1	g l ei
+088/101	glei	1	g l ei
+088/103	glei	1	g l ei
+088/105	glei	1	g l ei
+088/107	glei	1	g l ei
+088/109	glei	1	g l ei
+088/113	glei	1	g l ei
+088/115	glei	1	g l ei
+088/117	NA	NA	-
+088/121	glei	1	g l ei
+088/123	glei	1	g l ei
+088/127	glei	1	g l ei
+088/129	glei	1	g l ei
+088/131	glei	1	g l ei
+088/137	glei	1	g l ei
+088/139	glei	1	g l ei
+088/141	glei	1	g l ei
+088/143	glei	1	g l ei
+088/145	glei	1	g l ei
+088/147	glei	1	g l ei
+088/149	glei	1	g l ei
+089/035	glich	1	g l i ch
+089/037	glich	1	g l i ch
+089/039	gli	1	g l i
+089/041	glich	1	g l i ch
+089/043	glich	1	g l i ch
+089/045	gli	1	g l i
+089/047	glei	1	g l ei
+089/049	glei	1	g l ei
+089/051	glei	1	g l ei
+089/053	glei	1	g l ei
+089/055	glei	1	g l ei
+089/057	glei	1	g l ei
+089/059	glei	1	g l ei
+089/061	glei	1	g l ei
+089/063	glei	1	g l ei
+089/065	glei	1	g l ei
+089/067	glei	1	g l ei
+089/069	glei	1	g l ei
+089/071	glei	1	g l ei
+089/073	leu	1	l eu
+089/075	glei	1	g l ei
+089/077	gleu	1	g l eu
+089/079	glei	1	g l ei
+089/081	glei	1	g l ei
+089/083	glei	1	g l ei
+089/085	glei	1	g l ei
+089/087	gleich	1	g l ei ch
+089/089	glei	1	g l ei
+089/091	glei	1	g l ei
+089/093	glei	1	g l ei
+089/095	glei	1	g l ei
+089/097	glei	1	g l ei
+089/099	glei	1	g l ei
+089/101	glei	1	g l ei
+089/103	glei	1	g l ei
+089/105	glei	1	g l ei
+089/107	glei	1	g l ei
+089/109	glei	1	g l ei
+089/111	glei	1	g l ei
+089/113	glei	1	g l ei
+089/115	glei	1	g l ei
+089/117	glei	1	g l ei
+089/119	glei	1	g l ei
+089/121	glei	1	g l ei
+089/123	glei	1	g l ei
+089/125	glei	1	g l ei
+089/127	glei	1	g l ei
+089/129	glei	1	g l ei
+089/131	glei	1	g l ei
+089/133	glei	1	g l ei
+089/135	glei	1	g l ei
+089/137	glei	1	g l ei
+089/139	glei	1	g l ei
+089/141	glei	1	g l ei
+089/143	glei	1	g l ei
+089/145	glei	1	g l ei
+089/147	glei	1	g l ei
+089/149	glei	1	g l ei
+090/035	glich	1	g l i ch
+090/037	glich	1	g l i ch
+090/039	glich	1	g l i ch
+090/041	glich	1	g l i ch
+090/043	gli	1	g l i
+090/045	gliich	1	g l ii ch
+090/047	gli	1	g l i
+090/049	glei	1	g l ei
+090/051	glei	1	g l ei
+090/053	glei	1	g l ei
+090/055	glei	1	g l ei
+090/057	glei	1	g l ei
+090/059	glei	1	g l ei
+090/061	glei	1	g l ei
+090/063	glei	1	g l ei
+090/065	glei	1	g l ei
+090/067	glei	1	g l ei
+090/069	gleu	1	g l eu
+090/071	glei	1	g l ei
+090/073	gleu	1	g l eu
+090/075	glei	1	g l ei
+090/077	glei	1	g l ei
+090/079	glei	1	g l ei
+090/081	gei	1	g ei
+090/083	glei	1	g l ei
+090/085	gei	1	g ei
+090/087	glei	1	g l ei
+090/089	glei	1	g l ei
+090/091	glei	1	g l ei
+090/093	glei	1	g l ei
+090/095	glei	1	g l ei
+090/097	glei	1	g l ei
+090/099	glei	1	g l ei
+090/101	glai	1	g l ai
+090/103	glei	1	g l ei
+090/105	glei	1	g l ei
+090/107	glei	1	g l ei
+090/109	glei	1	g l ei
+090/111	glei	1	g l ei
+090/113	glei	1	g l ei
+090/115	glei	1	g l ei
+090/119	glei	1	g l ei
+090/121	glei	1	g l ei
+090/123	glei	1	g l ei
+090/125	glei	1	g l ei
+090/127	glei	1	g l ei
+090/129	glei	1	g l ei
+090/131	glei	1	g l ei
+090/133	glai	1	g l ai
+090/135	glei	1	g l ei
+090/137	glei	1	g l ei
+090/139	glei	1	g l ei
+090/141	glei	1	g l ei
+090/143	glä	1	g l ä
+090/145	glei	1	g l ei
+090/147	NA	NA	-
+090/149	glei	1	g l ei
+090/151	glai	1	g l ai
+091/035	glie	1	g l ie
+091/037	gli	1	g l i
+091/039	glich	1	g l i ch
+091/041	glich	1	g l i ch
+091/043	glich	1	g l i ch
+091/045	gli	1	g l i
+091/047	gli	1	g l i
+091/049	glei	1	g l ei
+091/051	bald	1	b a l d
+091/053	glei	1	g l ei
+091/055	glei	1	g l ei
+091/057	glei	1	g l ei
+091/059	glei	1	g l ei
+091/061	glei	1	g l ei
+091/063	glei	1	g l ei
+091/065	glei	1	g l ei
+091/067	glei	1	g l ei
+091/069	glei	1	g l ei
+091/071	gleu	1	g l eu
+091/073	gleu	1	g l eu
+091/075	glei	1	g l ei
+091/077	glei	1	g l ei
+091/079	glei	1	g l ei
+091/081	gei	1	g ei
+091/083	glei	1	g l ei
+091/085	glei	1	g l ei
+091/087	glei	1	g l ei
+091/091	glei	1	g l ei
+091/093	glei	1	g l ei
+091/095	glei	1	g l ei
+091/097	glei	1	g l ei
+091/099	glei	1	g l ei
+091/101	glei	1	g l ei
+091/103	glei	1	g l ei
+091/105	glei	1	g l ei
+091/107	glei	1	g l ei
+091/109	glei	1	g l ei
+091/111	glei	1	g l ei
+091/113	glei	1	g l ei
+091/115	NA	NA	-
+091/117	glei	1	g l ei
+091/119	glei	1	g l ei
+091/121	glei	1	g l ei
+091/125	glei	1	g l ei
+091/129	glei	1	g l ei
+091/131	glei	1	g l ei
+091/133	glei	1	g l ei
+091/135	glei	1	g l ei
+091/137	glei	1	g l ei
+091/139	glei	1	g l ei
+091/141	glei	1	g l ei
+091/143	glei	1	g l ei
+091/145	glei	1	g l ei
+091/147	glei	1	g l ei
+091/149	glei	1	g l ei
+091/151	kglei	1	k g l ei
+091/155	klaai	1	k l aai
+092/033	glich	1	g l i ch
+092/035	glich	1	g l i ch
+092/037	gli	1	g l i
+092/039	glich	1	g l i ch
+092/041	glich	1	g l i ch
+092/043	glich	1	g l i ch
+092/045	glii	1	g l ii
+092/047	glie	1	g l ie
+092/049	gli	1	g l i
+092/051	glei	1	g l ei
+092/053	gläi	1	g l äi
+092/055	glei	1	g l ei
+092/057	glei	1	g l ei
+092/059	glei	1	g l ei
+092/061	klei	1	k l ei
+092/063	glei	1	g l ei
+092/065	glei	1	g l ei
+092/067	glei	1	g l ei
+092/069	glei	1	g l ei
+092/071	glei	1	g l ei
+092/073	glei	1	g l ei
+092/075	glei	1	g l ei
+092/077	glei	1	g l ei
+092/079	bald	1	b a l d
+092/081	glei	1	g l ei
+092/083	gei	1	g ei
+092/085	glei	1	g l ei
+092/087	glei	1	g l ei
+092/089	glei	1	g l ei
+092/091	glei	1	g l ei
+092/093	glei	1	g l ei
+092/095	glei	1	g l ei
+092/097	glei	1	g l ei
+092/099	ge	1	g e
+092/101	glei	1	g l ei
+092/103	glei	1	g l ei
+092/105	glei	1	g l ei
+092/107	gleih	1	g l eih
+092/109	glei	1	g l ei
+092/111	glei	1	g l ei
+092/113	glei	1	g l ei
+092/115	glei	1	g l ei
+092/117	glei	1	g l ei
+092/119	glei	1	g l ei
+092/121	glei	1	g l ei
+092/123	NA	NA	-
+092/125	glei	1	g l ei
+092/127	glei	1	g l ei
+092/129	glei	1	g l ei
+092/131	glei	1	g l ei
+092/133	glei	1	g l ei
+092/135	glei	1	g l ei
+092/137	glei	1	g l ei
+092/139	glei	1	g l ei
+092/141	glei	1	g l ei
+092/143	glei	1	g l ei
+092/145	glei	1	g l ei
+092/147	glei	1	g l ei
+092/149	glei	1	g l ei
+092/151	glei	1	g l ei
+093/035	glich	1	g l i ch
+093/037	glich	1	g l i ch
+093/039	glich	1	g l i ch
+093/041	gli	1	g l i
+093/043	glii	1	g l ii
+093/045	glii	1	g l ii
+093/047	glii	1	g l ii
+093/049	gli	1	g l i
+093/051	glii	1	g l ii
+093/053	glei	1	g l ei
+093/055	glei	1	g l ei
+093/057	glei	1	g l ei
+093/059	glei	1	g l ei
+093/061	glei	1	g l ei
+093/063	NA	NA	-
+093/065	glei	1	g l ei
+093/067	glei	1	g l ei
+093/069	glei	1	g l ei
+093/071	glei	1	g l ei
+093/073	glei	1	g l ei
+093/075	glei	1	g l ei
+093/077	glei	1	g l ei
+093/079	gei	1	g ei
+093/081	gei	1	g ei
+093/083	gei	1	g ei
+093/085	glei	1	g l ei
+093/087	glei	1	g l ei
+093/089	NA	NA	-
+093/091	glei	1	g l ei
+093/093	glei	1	g l ei
+093/095	glei	1	g l ei
+093/097	glei	1	g l ei
+093/099	glei	1	g l ei
+093/101	glei	1	g l ei
+093/103	glei	1	g l ei
+093/105	glei	1	g l ei
+093/109	NA	NA	-
+093/111	glei	1	g l ei
+093/113	glei	1	g l ei
+093/115	glei	1	g l ei
+093/117	glai	1	g l ai
+093/119	glei	1	g l ei
+093/121	glei	1	g l ei
+093/123	glei	1	g l ei
+093/125	glai	1	g l ai
+093/127	glai	1	g l ai
+093/129	glei	1	g l ei
+093/131	glei	1	g l ei
+093/133	glei	1	g l ei
+093/137	glei	1	g l ei
+093/139	glei	1	g l ei
+093/143	glai	1	g l ai
+093/145	glei	1	g l ei
+093/147	glei	1	g l ei
+093/149	glei	1	g l ei
+093/151	glei	1	g l ei
+093/153	klei	1	k l ei
+093/155	glei	1	g l ei
+094/033	glich	1	g l i ch
+094/035	glich	1	g l i ch
+094/037	glich	1	g l i ch
+094/039	glich	1	g l i ch
+094/041	glii	1	g l ii
+094/043	glii	1	g l ii
+094/045	glüh	1	g l üh
+094/047	glie	1	g l ie
+094/049	glii	1	g l ii
+094/051	gli	1	g l i
+094/053	gli	1	g l i
+094/055	glei	1	g l ei
+094/057	glei	1	g l ei
+094/059	glei	1	g l ei
+094/061	glei	1	g l ei
+094/063	glei	1	g l ei
+094/065	glei	1	g l ei
+094/067	glei	1	g l ei
+094/069	glei	1	g l ei
+094/071	glei	1	g l ei
+094/073	glei	1	g l ei
+094/075	glei	1	g l ei
+094/077	glei	1	g l ei
+094/079	glei	1	g l ei
+094/081	gei	1	g ei
+094/083	boi	1	b oi
+094/085	gei	1	g ei
+094/087	glei	1	g l ei
+094/089	boid	1	b oi d
+094/091	glei	1	g l ei
+094/093	glei	1	g l ei
+094/095	glei	1	g l ei
+094/097	glei	1	g l ei
+094/099	glei	1	g l ei
+094/101	glei	1	g l ei
+094/103	glai	1	g l ai
+094/105	glei	1	g l ei
+094/107	glei	1	g l ei
+094/109	glei	1	g l ei
+094/111	glei	1	g l ei
+094/113	glei	1	g l ei
+094/115	glei	1	g l ei
+094/117	glei	1	g l ei
+094/119	glei	1	g l ei
+094/121	glei	1	g l ei
+094/123	glei	1	g l ei
+094/125	glei	1	g l ei
+094/127	glei	1	g l ei
+094/129	glei	1	g l ei
+094/131	glei	1	g l ei
+094/133	glei	1	g l ei
+094/135	glei	1	g l ei
+094/137	glei	1	g l ei
+094/139	NA	NA	-
+094/141	glei	1	g l ei
+094/143	glei	1	g l ei
+094/145	glei	1	g l ei
+094/147	glei	1	g l ei
+094/149	glei	1	g l ei
+094/151	glei	1	g l ei
+094/153	glei	1	g l ei
+095/031	gli	1	g l i
+095/033	gli	1	g l i
+095/035	klich	1	k l i ch
+095/037	glich	1	g l i ch
+095/039	gli	1	g l i
+095/041	gli	1	g l i
+095/043	glei	1	g l ei
+095/045	gli	1	g l i
+095/047	gli	1	g l i
+095/049	glii	1	g l ii
+095/051	gli	1	g l i
+095/053	gli	1	g l i
+095/055	gli	1	g l i
+095/057	glei	1	g l ei
+095/059	glei	1	g l ei
+095/061	glei	1	g l ei
+095/063	glei	1	g l ei
+095/065	glei	1	g l ei
+095/067	glei	1	g l ei
+095/069	gloi	1	g l oi
+095/071	glei	1	g l ei
+095/073	glei	1	g l ei
+095/075	gleu	1	g l eu
+095/077	gleu	1	g l eu
+095/079	glei	1	g l ei
+095/081	glei	1	g l ei
+095/083	glei	1	g l ei
+095/085	glei	1	g l ei
+095/087	glei	1	g l ei
+095/089	glei	1	g l ei
+095/091	glei	1	g l ei
+095/093	glei	1	g l ei
+095/095	glei	1	g l ei
+095/097	glei	1	g l ei
+095/099	glei	1	g l ei
+095/101	glei	1	g l ei
+095/103	glei	1	g l ei
+095/105	glei	1	g l ei
+095/107	glei	1	g l ei
+095/109	glei	1	g l ei
+095/111	glei	1	g l ei
+095/113	NA	NA	-
+095/115	glei	1	g l ei
+095/117	glei	1	g l ei
+095/119	glei	1	g l ei
+095/121	glei	1	g l ei
+095/123	glei	1	g l ei
+095/125	glei	1	g l ei
+095/129	glei	1	g l ei
+095/131	glei	1	g l ei
+095/133	glei	1	g l ei
+095/139	glei	1	g l ei
+095/141	glei	1	g l ei
+095/143	glei	1	g l ei
+095/145	glei	1	g l ei
+095/147	glei	1	g l ei
+095/149	glei	1	g l ei
+095/151	glei	1	g l ei
+095/153	klei	1	k l ei
+095/155	glei	1	g l ei
+096/031	gli	1	g l i
+096/033	gli	1	g l i
+096/035	glii	1	g l ii
+096/037	enanderno	1	e n a n d e r n o
+096/039	gli	1	g l i
+096/041	gli	1	g l i
+096/043	glii	1	g l ii
+096/045	gli	1	g l i
+096/047	glih	1	g l ih
+096/049	gli	1	g l i
+096/051	gli	1	g l i
+096/053	glii	1	g l ii
+096/055	gli	1	g l i
+096/057	glei	1	g l ei
+096/059	glei	1	g l ei
+096/061	gli	1	g l i
+096/063	gli	1	g l i
+096/065	glei	1	g l ei
+096/067	glei	1	g l ei
+096/069	glei	1	g l ei
+096/071	glei	1	g l ei
+096/075	glei	1	g l ei
+096/077	glei	1	g l ei
+096/079	glei	1	g l ei
+096/081	glei	1	g l ei
+096/083	gei	1	g ei
+096/085	gei	1	g ei
+096/087	glei	1	g l ei
+096/089	NA	NA	-
+096/091	glei	1	g l ei
+096/093	glei	1	g l ei
+096/095	gei	1	g ei
+096/097	glei	1	g l ei
+096/099	glei	1	g l ei
+096/101	glei	1	g l ei
+096/103	glei	1	g l ei
+096/105	glei	1	g l ei
+096/107	NA	NA	-
+096/109	glei	1	g l ei
+096/111	glei	1	g l ei
+096/113	glei	1	g l ei
+096/115	glei	1	g l ei
+096/117	NA	NA	-
+096/119	glai	1	g l ai
+096/121	glei	1	g l ei
+096/123	glai	1	g l ai
+096/125	glei	1	g l ei
+096/129	glei	1	g l ei
+096/131	glei	1	g l ei
+096/135	glei	1	g l ei
+096/137	NA	NA	-
+096/139	glei	1	g l ei
+096/141	glei	1	g l ei
+096/143	glei	1	g l ei
+096/145	glei	1	g l ei
+096/147	klei	1	k l ei
+096/151	glei	1	g l ei
+096/153	kley	1	k l ey
+096/155	klei	1	k l ei
+097/031	gli	1	g l i
+097/033	glich	1	g l i ch
+097/035	glich	1	g l i ch
+097/037	glich	1	g l i ch
+097/039	glii	1	g l ii
+097/041	gli	1	g l i
+097/043	glie	1	g l ie
+097/045	gli	1	g l i
+097/047	gli	1	g l i
+097/049	glii	1	g l ii
+097/051	gli	1	g l i
+097/053	glie	1	g l ie
+097/055	glie	1	g l ie
+097/057	gli	1	g l i
+097/059	glei	1	g l ei
+097/061	glii	1	g l ii
+097/063	gli	1	g l i
+097/065	gli	1	g l i
+097/067	gleih	1	g l eih
+097/069	glei	1	g l ei
+097/071	glei	1	g l ei
+097/073	glei	1	g l ei
+097/075	glei	1	g l ei
+097/077	glei	1	g l ei
+097/079	NA	NA	-
+097/081	glei	1	g l ei
+097/083	glei	1	g l ei
+097/085	glei	1	g l ei
+097/087	glei	1	g l ei
+097/089	glei	1	g l ei
+097/091	glei	1	g l ei
+097/093	glei	1	g l ei
+097/095	glei	1	g l ei
+097/097	gewieda	1	g e w ie d a
+097/099	glei	1	g l ei
+097/103	glei	1	g l ei
+097/105	glei	1	g l ei
+097/107	NA	NA	-
+097/109	glei	1	g l ei
+097/113	NA	NA	-
+097/125	glei	1	g l ei
+097/131	glei	1	g l ei
+097/133	glei	1	g l ei
+097/139	glei	1	g l ei
+097/141	glei	1	g l ei
+097/143	glei	1	g l ei
+097/145	glei	1	g l ei
+097/149	glei	1	g l ei
+097/153	glei	1	g l ei
+098/033	gli	1	g l i
+098/035	gli	1	g l i
+098/037	gli	1	g l i
+098/039	gli	1	g l i
+098/041	gli	1	g l i
+098/043	gli	1	g l i
+098/045	gli	1	g l i
+098/047	gli	1	g l i
+098/049	gli	1	g l i
+098/051	grad	1	g r a d
+098/053	gli	1	g l i
+098/055	gli	1	g l i
+098/057	glie	1	g l ie
+098/059	glii	1	g l ii
+098/061	go	1	g o
+098/063	gli	1	g l i
+098/065	gli	1	g l i
+098/067	gli	1	g l i
+098/069	glü	1	g l ü
+098/071	glei	1	g l ei
+098/073	glei	1	g l ei
+098/075	glei	1	g l ei
+098/077	glei	1	g l ei
+098/079	glei	1	g l ei
+098/081	glei	1	g l ei
+098/083	glei	1	g l ei
+098/085	glei	1	g l ei
+098/087	gei	1	g ei
+098/089	glei	1	g l ei
+098/091	glei	1	g l ei
+098/093	glei	1	g l ei
+098/095	glei	1	g l ei
+098/097	glei	1	g l ei
+098/103	glei	1	g l ei
+098/105	glei	1	g l ei
+098/107	glei	1	g l ei
+098/109	glei	1	g l ei
+098/111	glei	1	g l ei
+098/119	glei	1	g l ei
+098/123	glei	1	g l ei
+098/125	glei	1	g l ei
+098/127	glei	1	g l ei
+098/135	glei	1	g l ei
+098/137	glei	1	g l ei
+098/139	glei	1	g l ei
+098/141	glei	1	g l ei
+098/143	glei	1	g l ei
+098/145	glei	1	g l ei
+098/147	glei	1	g l ei
+098/149	glei	1	g l ei
+098/151	glei	1	g l ei
+099/033	glich	1	g l i ch
+099/035	gli	1	g l i
+099/037	gli	1	g l i
+099/039	gli	1	g l i
+099/041	gli	1	g l i
+099/043	glii	1	g l ii
+099/045	gli	1	g l i
+099/047	gli	1	g l i
+099/049	gli	1	g l i
+099/051	glii	1	g l ii
+099/053	grad	1	g r a d
+099/055	grad	1	g r a d
+099/057	gly	1	g l y
+099/059	gli	1	g l i
+099/063	gli	1	g l i
+099/065	glii	1	g l ii
+099/067	glei	1	g l ei
+099/069	glei	1	g l ei
+099/071	glei	1	g l ei
+099/073	gleu	1	g l eu
+099/075	glei	1	g l ei
+099/077	glei	1	g l ei
+099/081	glei	1	g l ei
+099/083	glei	1	g l ei
+099/085	glei	1	g l ei
+099/089	glei	1	g l ei
+099/093	glei	1	g l ei
+099/095	glei	1	g l ei
+099/099	glei	1	g l ei
+099/101	glei	1	g l ei
+099/103	glei	1	g l ei
+099/105	glei	1	g l ei
+099/107	glei	1	g l ei
+099/109	boid	1	b oi d
+099/111	glei	1	g l ei
+099/113	glei	1	g l ei
+099/121	glei	1	g l ei
+099/123	glei	1	g l ei
+099/125	glei	1	g l ei
+099/131	glei	1	g l ei
+099/137	glei	1	g l ei
+099/139	glei	1	g l ei
+099/141	glei	1	g l ei
+099/143	glei	1	g l ei
+099/145	glei	1	g l ei
+099/147	glai	1	g l ai
+100/033	gli	1	g l i
+100/035	gli	1	g l i
+100/037	glih	1	g l ih
+100/039	glii	1	g l ii
+100/041	glii	1	g l ii
+100/043	glii	1	g l ii
+100/045	glii	1	g l ii
+100/049	glii	1	g l ii
+100/051	grad	1	g r a d
+100/053	gli	1	g l i
+100/055	glii	1	g l ii
+100/057	bald	1	b a l d
+100/059	bald	1	b a l d
+100/061	jetz	1	j e t z
+100/065	grad	1	g r a d
+100/067	glei	1	g l ei
+100/069	glöi	1	g l öi
+100/071	glei	1	g l ei
+100/073	glei	1	g l ei
+100/075	glei	1	g l ei
+100/077	glei	1	g l ei
+100/081	gei	1	g ei
+100/083	glei	1	g l ei
+100/089	glei	1	g l ei
+100/093	glei	1	g l ei
+100/095	glei	1	g l ei
+100/097	glei	1	g l ei
+100/099	wieder	1	w ie d e r
+100/101	glei	1	g l ei
+100/109	gonit	1	g o n i t
+100/111	glei	1	g l ei
+100/113	glei	1	g l ei
+100/115	glei	1	g l ei
+100/117	glei	1	g l ei
+100/119	glei	1	g l ei
+100/121	glei	1	g l ei
+100/125	glei	1	g l ei
+100/127	glei	1	g l ei
+100/129	glei	1	g l ei
+100/133	NA	NA	-
+100/135	glei	1	g l ei
+100/141	glei	1	g l ei
+100/143	glei	1	g l ei
+100/145	glei	1	g l ei
+101/035	glii	1	g l ii
+101/037	grad	1	g r a d
+101/039	gly	1	g l y
+101/041	glii	1	g l ii
+101/043	gli	1	g l i
+101/045	graad	1	g r aa d
+101/047	grad	1	g r a d
+101/049	glii	1	g l ii
+101/051	grad	1	g r a d
+101/053	grad	1	g r a d
+101/055	gad	1	g a d
+101/057	grad	1	g r a d
+101/059	bald	1	b a l d
+101/061	sofort	1	s o f o r t
+101/063	gleich	1	g l ei ch
+101/065	glei	1	g l ei
+101/067	grad	1	g r a d
+101/071	glei	1	g l ei
+101/075	glei	1	g l ei
+101/077	glei	1	g l ei
+101/079	glei	1	g l ei
+101/081	glei	1	g l ei
+101/091	gach	1	g a ch
+101/093	glei	1	g l ei
+101/095	glei	1	g l ei
+101/097	glei	1	g l ei
+101/099	glei	1	g l ei
+101/101	glei	1	g l ei
+101/103	NA	NA	-
+101/107	glei	1	g l ei
+101/109	glei	1	g l ei
+101/113	glei	1	g l ei
+101/115	glei	1	g l ei
+101/121	glei	1	g l ei
+101/125	glei	1	g l ei
+101/129	glei	1	g l ei
+101/131	glei	1	g l ei
+101/133	glei	1	g l ei
+101/137	glei	1	g l ei
+101/139	glei	1	g l ei
+101/141	glei	1	g l ei
+101/143	glei	1	g l ei
+101/145	klai	1	k l ai
+101/147	klei	1	k l ei
+102/037	grad	1	g r a d
+102/039	gli	1	g l i
+102/041	glii	1	g l ii
+102/043	grad	1	g r a d
+102/045	glii	1	g l ii
+102/047	bauwd	1	b au w d
+102/049	glii	1	g l ii
+102/051	grad	1	g r a d
+102/053	glii	1	g l ii
+102/055	gli	1	g l i
+102/057	grad	1	g r a d
+102/059	jetz	1	j e t z
+102/061	wädli	1	w ä d l i
+102/063	schnell	1	sch n e ll
+102/065	glai	1	g l ai
+102/067	glei	1	g l ei
+102/069	glei	1	g l ei
+102/071	gli	1	g l i
+102/073	gleich	1	g l ei ch
+102/075	glei	1	g l ei
+102/077	glei	1	g l ei
+102/079	glei	1	g l ei
+102/081	glei	1	g l ei
+102/083	glei	1	g l ei
+102/089	glei	1	g l ei
+102/091	glei	1	g l ei
+102/093	glei	1	g l ei
+102/095	glei	1	g l ei
+102/097	glei	1	g l ei
+102/099	glei	1	g l ei
+102/103	glei	1	g l ei
+102/107	glei	1	g l ei
+102/109	glei	1	g l ei
+102/113	glei	1	g l ei
+102/115	glei	1	g l ei
+102/127	glei	1	g l ei
+102/129	glei	1	g l ei
+102/131	glei	1	g l ei
+102/135	glei	1	g l ei
+102/137	glei	1	g l ei
+102/139	glei	1	g l ei
+102/141	glei	1	g l ei
+102/143	glai	1	g l ai
+102/145	klaai	1	k l aai
+103/039	grad	1	g r a d
+103/041	gli	1	g l i
+103/043	grad	1	g r a d
+103/045	glii	1	g l ii
+103/047	baaud	1	b aau d
+103/049	gli	1	g l i
+103/051	grad	1	g r a d
+103/053	gli	1	g l i
+103/055	grad	1	g r a d
+103/057	grad	1	g r a d
+103/059	grad	1	g r a d
+103/063	glie	1	g l ie
+103/065	grad	1	g r a d
+103/067	glei	1	g l ei
+103/069	glei	1	g l ei
+103/071	grad	1	g r a d
+103/073	glei	1	g l ei
+103/075	glaich	1	g l ai ch
+103/077	glei	1	g l ei
+103/079	glei	1	g l ei
+103/081	glei	1	g l ei
+103/083	glei	1	g l ei
+103/085	glei	1	g l ei
+103/087	glei	1	g l ei
+103/089	mehr	1	m eh r
+103/091	glei	1	g l ei
+103/097	glei	1	g l ei
+103/099	dlei	1	d l ei
+103/101	glei	1	g l ei
+103/105	glei	1	g l ei
+103/107	glai	1	g l ai
+103/111	glei	1	g l ei
+103/121	glei	1	g l ei
+103/125	glei	1	g l ei
+103/127	glei	1	g l ei
+103/131	glei	1	g l ei
+103/133	glei	1	g l ei
+103/135	glei	1	g l ei
+103/137	glei	1	g l ei
+103/139	glei	1	g l ei
+103/141	glei	1	g l ei
+103/143	glei	1	g l ei
+103/145	kläi	1	k l äi
+104/033	grad	1	g r a d
+104/035	gly	1	g l y
+104/037	gly	1	g l y
+104/039	glii	1	g l ii
+104/041	gli	1	g l i
+104/043	grad	1	g r a d
+104/045	gli	1	g l i
+104/047	gglii	1	gg l ii
+104/049	glii	1	g l ii
+104/051	gli	1	g l i
+104/053	gly	1	g l y
+104/055	glih	1	g l ih
+104/057	gly	1	g l y
+104/059	gad	1	g a d
+104/061	bald	1	b a l d
+104/063	glei	1	g l ei
+104/065	glei	1	g l ei
+104/067	glei	1	g l ei
+104/071	glei	1	g l ei
+104/075	glei	1	g l ei
+104/077	glei	1	g l ei
+104/079	glei	1	g l ei
+104/081	glei	1	g l ei
+104/083	glei	1	g l ei
+104/085	glei	1	g l ei
+104/091	glei	1	g l ei
+104/095	dlei	1	d l ei
+104/101	glei	1	g l ei
+104/103	glei	1	g l ei
+104/107	bad	1	b a d
+104/111	glai	1	g l ai
+104/113	glei	1	g l ei
+104/119	glei	1	g l ei
+104/121	bald	1	b a l d
+104/123	boldd	1	b o l dd
+104/125	glai	1	g l ai
+104/127	glei	1	g l ei
+104/131	glei	1	g l ei
+104/133	glei	1	g l ei
+104/135	glei	1	g l ei
+104/137	glei	1	g l ei
+104/139	glei	1	g l ei
+104/141	glei	1	g l ei
+104/143	klai	1	k l ai
+104/145	glai	1	g l ai
+105/031	glih	1	g l ih
+105/033	grad	1	g r a d
+105/035	grad	1	g r a d
+105/037	gli	1	g l i
+105/039	gli	1	g l i
+105/041	gli	1	g l i
+105/043	glie	1	g l ie
+105/045	gli	1	g l i
+105/047	glih	1	g l ih
+105/049	grad	1	g r a d
+105/051	gli	1	g l i
+105/053	gad	1	g a d
+105/055	grad	1	g r a d
+105/057	gli	1	g l i
+105/059	gad	1	g a d
+105/061	grad	1	g r a d
+105/063	gleich	1	g l ei ch
+105/065	glei	1	g l ei
+105/067	glei	1	g l ei
+105/069	gschwind	1	g sch w i n d
+105/071	glei	1	g l ei
+105/073	glei	1	g l ei
+105/075	glei	1	g l ei
+105/077	glei	1	g l ei
+105/079	glei	1	g l ei
+105/081	glei	1	g l ei
+105/085	glei	1	g l ei
+105/087	glei	1	g l ei
+105/089	gleich	1	g l ei ch
+105/103	glei	1	g l ei
+105/105	gach	1	g a ch
+105/111	glei	1	g l ei
+105/113	glei	1	g l ei
+105/115	glei	1	g l ei
+105/117	glei	1	g l ei
+105/119	van	1	v a n
+105/121	glei	1	g l ei
+105/125	glei	1	g l ei
+105/127	glei	1	g l ei
+105/131	glei	1	g l ei
+105/133	bold	1	b o l d
+105/135	glei	1	g l ei
+105/137	glei	1	g l ei
+105/141	glei	1	g l ei
+105/143	glei	1	g l ei
+105/145	gla	1	g l a
+106/033	grad	1	g r a d
+106/035	gly	1	g l y
+106/037	bau	1	b au
+106/039	gli	1	g l i
+106/041	gli	1	g l i
+106/043	grad	1	g r a d
+106/045	gli	1	g l i
+106/047	graad	1	g r aa d
+106/049	grad	1	g r a d
+106/051	glii	1	g l ii
+106/053	grad	1	g r a d
+106/057	gad	1	g a d
+106/061	gli	1	g l i
+106/063	bald	1	b a l d
+106/067	gli	1	g l i
+106/071	glei	1	g l ei
+106/073	wiedar	1	w ie d a r
+106/075	glei	1	g l ei
+106/077	glei	1	g l ei
+106/079	glei	1	g l ei
+106/081	glei	1	g l ei
+106/085	glei	1	g l ei
+106/087	glei	1	g l ei
+106/093	glai	1	g l ai
+106/097	glei	1	g l ei
+106/099	gschind	1	g sch i n d
+106/103	bald	1	b a l d
+106/111	glei	1	g l ei
+106/115	glei	1	g l ei
+106/121	glei	1	g l ei
+106/123	glei	1	g l ei
+106/125	glei	1	g l ei
+106/129	glei	1	g l ei
+106/131	glei	1	g l ei
+106/133	glei	1	g l ei
+106/135	glei	1	g l ei
+106/137	glei	1	g l ei
+106/139	glei	1	g l ei
+106/141	glei	1	g l ei
+106/143	klei	1	k l ei
+106/145	gla	1	g l a
+107/033	scho	1	sch o
+107/035	glich	1	g l i ch
+107/037	gly	1	g l y
+107/039	gli	1	g l i
+107/041	grad	1	g r a d
+107/043	glie	1	g l ie
+107/045	gli	1	g l i
+107/047	grad	1	g r a d
+107/049	glii	1	g l ii
+107/051	gli	1	g l i
+107/053	gli	1	g l i
+107/057	gli	1	g l i
+107/059	gli	1	g l i
+107/063	gli	1	g l i
+107/065	grad	1	g r a d
+107/071	glei	1	g l ei
+107/075	glei	1	g l ei
+107/081	glei	1	g l ei
+107/085	gschwind	1	g sch w i n d
+107/087	glei	1	g l ei
+107/089	gschwint	1	g sch w i n t
+107/091	NA	NA	-
+107/097	ball	1	b a ll
+107/099	gschwind	1	g sch w i n d
+107/103	gschwint	1	g sch w i n t
+107/105	glei	1	g l ei
+107/107	glei	1	g l ei
+107/111	glei	1	g l ei
+107/119	lei	1	l ei
+107/121	glei	1	g l ei
+107/123	glei	1	g l ei
+107/125	glai	1	g l ai
+107/127	glei	1	g l ei
+107/129	bol	1	b o l
+107/131	glei	1	g l ei
+107/133	glei	1	g l ei
+107/135	bold	1	b o l d
+107/137	glei	1	g l ei
+107/139	glei	1	g l ei
+107/141	glei	1	g l ei
+107/143	glei	1	g l ei
+108/033	gli	1	g l i
+108/035	gly	1	g l y
+108/037	gly	1	g l y
+108/039	gly	1	g l y
+108/041	grad	1	g r a d
+108/043	gly	1	g l y
+108/047	grad	1	g r a d
+108/049	glei	1	g l ei
+108/063	grat	1	g r a t
+108/065	bald	1	b a l d
+108/067	gliich	1	g l ii ch
+108/075	boll	1	b o ll
+108/079	glei	1	g l ei
+108/081	gschwind	1	g sch w i n d
+108/085	gschwind	1	g sch w i n d
+108/087	gschwint	1	g sch w i n t
+108/091	glei	1	g l ei
+108/099	gschwind	1	g sch w i n d
+108/101	glei	1	g l ei
+108/103	NA	NA	-
+108/105	bold	1	b o l d
+108/109	glei	1	g l ei
+108/111	glei	1	g l ei
+108/113	lei	1	l ei
+108/117	lei	1	l ei
+108/119	glei	1	g l ei
+108/121	glei	1	g l ei
+108/123	glei	1	g l ei
+108/125	glei	1	g l ei
+108/127	lei	1	l ei
+108/129	glei	1	g l ei
+108/131	bold	1	b o l d
+108/133	glei	1	g l ei
+108/135	glei	1	g l ei
+108/137	glei	1	g l ei
+108/139	glei	1	g l ei
+108/141	glei	1	g l ei
+109/035	jetz	1	j e t z
+109/037	grad	1	g r a d
+109/039	grad	1	g r a d
+109/041	gli	1	g l i
+109/043	gli	1	g l i
+109/045	glii	1	g l ii
+109/049	grad	1	g r a d
+109/053	gly	1	g l y
+109/061	grad	1	g r a d
+109/063	NA	NA	-
+109/065	bald	1	b a l d
+109/067	grad	1	g r a d
+109/075	glei	1	g l ei
+109/083	gschwind	1	g sch w i n d
+109/087	gschwint	1	g sch w i n t
+109/089	glei	1	g l ei
+109/091	glei	1	g l ei
+109/093	gschwint	1	g sch w i n t
+109/095	glei	1	g l ei
+109/097	bal	1	b a l
+109/099	ball	1	b a ll
+109/101	gschwint	1	g sch w i n t
+109/103	bold	1	b o l d
+109/107	glei	1	g l ei
+109/109	lei	1	l ei
+109/111	bald	1	b a l d
+109/113	glei	1	g l ei
+109/115	bald	1	b a l d
+109/117	glei	1	g l ei
+109/119	schon	1	sch o n
+109/121	glei	1	g l ei
+109/123	lei	1	l ei
+109/125	glei	1	g l ei
+109/127	glei	1	g l ei
+109/129	glei	1	g l ei
+109/131	glei	1	g l ei
+109/133	glei	1	g l ei
+109/135	glei	1	g l ei
+109/137	NA	NA	-
+109/139	glei	1	g l ei
+110/035	grat	1	g r a t
+110/039	gly	1	g l y
+110/041	gli	1	g l i
+110/043	gli	1	g l i
+110/045	angähnds	1	a ng äh n d s
+110/047	bald	1	b a l d
+110/049	etzen	1	e t z e n
+110/057	jatz	1	j a t z
+110/061	grad	1	g r a d
+110/065	sofort	1	s o f o r t
+110/075	gfling	1	g f l i ng
+110/079	bol	1	b o l
+110/081	gschwind	1	g sch w i n d
+110/083	gschwind	1	g sch w i n d
+110/087	gschwig	1	g sch w i g
+110/089	lei	1	l ei
+110/091	lai	1	l ai
+110/093	NA	NA	-
+110/095	glei	1	g l ei
+110/097	glei	1	g l ei
+110/099	glei	1	g l ei
+110/101	glei	1	g l ei
+110/105	glei	1	g l ei
+110/107	lei	1	l ei
+110/111	bald	1	b a l d
+110/113	glei	1	g l ei
+110/115	glei	1	g l ei
+110/117	glei	1	g l ei
+110/119	glai	1	g l ai
+110/121	glei	1	g l ei
+110/125	glei	1	g l ei
+110/127	glei	1	g l ei
+110/129	glei	1	g l ei
+110/131	bol	1	b o l
+110/133	glei	1	g l ei
+110/135	glei	1	g l ei
+110/137	glei	1	g l ei
+110/139	glei	1	g l ei
+111/035	gli	1	g l i
+111/037	blotzlich	1	b l o t z l i ch
+111/039	gli	1	g l i
+111/041	NA	NA	-
+111/043	grad	1	g r a d
+111/045	grad	1	g r a d
+111/059	krad	1	k r a d
+111/073	fling	1	f l i ng
+111/075	gschwing	1	g sch w i ng
+111/077	gschwing	1	g sch w i ng
+111/079	NA	NA	-
+111/081	NA	NA	-
+111/083	glei	1	g l ei
+111/087	NA	NA	-
+111/089	poll	1	p o ll
+111/105	glei	1	g l ei
+111/107	glei	1	g l ei
+111/109	glei	1	g l ei
+111/111	glei	1	g l ei
+111/113	glei	1	g l ei
+111/115	lei	1	l ei
+111/117	glei	1	g l ei
+111/119	glai	1	g l ai
+111/121	glei	1	g l ei
+111/123	glei	1	g l ei
+111/125	glei	1	g l ei
+112/037	glich	1	g l i ch
+112/039	NA	NA	-
+112/041	angehnds	1	a ng eh n d s
+112/043	pletzli	1	p l e t z l i
+112/047	sofort	1	s o f o r t
+112/059	krad	1	k r a d
+112/061	krat	1	k r a t
+112/063	NA	NA	-
+112/075	bal	1	b a l
+112/081	glei	1	g l ei
+112/083	glei	1	g l ei
+112/085	gschwin	1	g sch w i n
+112/111	glei	1	g l ei
+112/115	glei	1	g l ei
+112/117	glei	1	g l ei
+112/119	glei	1	g l ei
+113/035	bald	1	b a l d
+113/037	bald	1	b a l d
+113/039	angens	1	a ng e n s
+113/047	sofort	1	s o f o r t
+113/079	gschwing	1	g sch w i ng
+113/081	glai	1	g l ai
+113/083	fling	1	f l i ng
+113/085	glai	1	g l ai
+113/087	gschwinger	1	g sch w i ng e r
+113/121	glei	1	g l ei
+113/123	gleich	1	g l ei ch
+114/035	glich	1	g l i ch
+114/045	jetz	1	j e t z
+114/083	glai	1	g l ai
+114/085	gschwingr	1	g sch w i ng r
+115/041	jetz	1	j e t z
+115/043	grad	1	g r a d
+115/045	gleich	1	g l ei ch
+115/083	glai	1	g l ai
+115/085	gschwing	1	g sch w i ng
+116/043	jetz	1	j e t z
+116/045	bald	1	b a l d
+116/083	poll	1	p o ll
+117/043	glich	1	g l i ch
+117/045	bald	1	b a l d
+118/041	glich	1	g l i ch
+119/083	NA	NA	-
+120/085	subido	1	s u b i d o
+121/127	wurt	1	w u r t
+122/127	wuert	1	w ue r t
+122/129	wrt	1	w r t
+123/081	NA	NA	-
+123/123	wurt	1	w u r t
+123/125	wurt	1	w u r t
+123/127	gleich	1	g l ei ch
+123/129	wurt	1	w u r t
+124/125	wirt	1	w i r t
+124/127	wurt	1	w u r t
+124/129	wurt	1	w u r t

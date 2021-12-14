@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	löwat	1	l ö w a t
+002/201	lewet	1	l e w e t
+002/203	lewet	1	l e w e t
+002/205	löwet	1	l ö w e t
+003/203	lewet	1	l e w e t
+003/205	lewet	1	l e w e t
+004/205	lewet	1	l e w e t
+005/205	leewet	1	l ee w e t
+005/207	löwet	1	l ö w e t
+006/205	löhw	1	l öh w
+006/207	lewitt	1	l e w i tt
+007/205	lewet	1	l e w e t
+007/207	lewet	1	l e w e t
+007/209	löwet	1	l ö w e t
+007/211	löwet	1	l ö w e t
+008/199	lew	1	l e w
+008/203	löwet	1	l ö w e t
+008/205	lewet	1	l e w e t
+008/207	lewet	1	l e w e t
+008/209	lewet	1	l e w e t
+008/211	löwet	1	l ö w e t
+008/213	lewet	1	l e w e t
+009/199	lehwet	1	l eh w e t
+009/203	lewet	1	l e w e t
+009/207	lewet	1	l e w e t
+009/209	leewet	1	l ee w e t
+009/211	lewet	1	l e w e t
+009/213	löwet	1	l ö w e t
+009/215	lewet	1	l e w e t
+009/217	lewet	1	l e w e t
+010/195	lewet	1	l e w e t
+010/203	lewet	1	l e w e t
+010/207	lewet	1	l e w e t
+010/209	löwet	1	l ö w e t
+010/211	lewet	1	l e w e t
+010/213	lewet	1	l e w e t
+010/215	leewet	1	l ee w e t
+010/217	lewet	1	l e w e t
+010/219	lewet	1	l e w e t
+011/049	leff	1	l e ff
+011/053	kjoer	1	k j oe r
+011/055	kjorn	1	k j o r n
+011/057	kjorre	1	k j o rr e
+011/059	kjorre	1	k j o rr e
+011/061	kjorn	1	k j o r n
+011/063	kjorre	1	k j o rr e
+011/065	söde	1	s ö d e
+011/067	kjäre	1	k j ä r e
+011/069	kiere	1	k ie r e
+011/187	lewet	1	l e w e t
+011/189	lewet	1	l e w e t
+011/191	leiwet	1	l ei w e t
+011/195	lewet	1	l e w e t
+011/197	lehwet	1	l eh w e t
+011/203	lewet	1	l e w e t
+011/205	löwet	1	l ö w e t
+011/207	leewet	1	l ee w e t
+011/209	leewet	1	l ee w e t
+011/211	löwet	1	l ö w e t
+011/213	lewet	1	l e w e t
+011/215	leewet	1	l ee w e t
+011/217	löwet	1	l ö w e t
+011/219	lewet	1	l e w e t
+012/047	lef	1	l e f
+012/049	lef	1	l e f
+012/051	liev	1	l ie v
+012/053	godde	1	g o dd e
+012/055	kjärr	1	k j ä rr
+012/057	goi	1	g oi
+012/059	kjore	1	k j o r e
+012/061	kjor	1	k j o r
+012/063	söde	1	s ö d e
+012/065	kjore	1	k j o r e
+012/067	kjor	1	k j o r
+012/069	kjore	1	k j o r e
+012/187	löwet	1	l ö w e t
+012/189	lewet	1	l e w e t
+012/191	leewet	1	l ee w e t
+012/193	lewet	1	l e w e t
+012/195	lewet	1	l e w e t
+012/197	lewet	1	l e w e t
+012/199	löwet	1	l ö w e t
+012/201	lewet	1	l e w e t
+012/203	lewet	1	l e w e t
+012/205	löwet	1	l ö w e t
+012/207	leewet	1	l ee w e t
+012/209	lewet	1	l e w e t
+012/211	lewet	1	l e w e t
+012/213	lewet	1	l e w e t
+012/215	lewet	1	l e w e t
+012/217	löwet	1	l ö w e t
+012/219	löwet	1	l ö w e t
+012/221	lewet	1	l e w e t
+012/223	lewet	1	l e w e t
+013/051	liev	1	l ie v
+013/053	liiw	1	l ii w
+013/055	liiw	1	l ii w
+013/057	kjore	1	k j o r e
+013/059	kjäre	1	k j ä r e
+013/061	lewer	1	l e w e r
+013/063	leewe	1	l ee w e
+013/065	gude	1	g u d e
+013/067	lerwe	1	l e r w e
+013/161	leiwett	1	l ei w e tt
+013/163	leiwet	1	l ei w e t
+013/165	leiwet	1	l ei w e t
+013/167	levet	1	l e v e t
+013/187	lewet	1	l e w e t
+013/189	lewet	1	l e w e t
+013/191	lewet	1	l e w e t
+013/193	lewet	1	l e w e t
+013/195	leewet	1	l ee w e t
+013/197	leewet	1	l ee w e t
+013/199	leewet	1	l ee w e t
+013/201	lewet	1	l e w e t
+013/203	lewet	1	l e w e t
+013/207	leewet	1	l ee w e t
+013/209	lewet	1	l e w e t
+013/211	lewet	1	l e w e t
+013/213	lewet	1	l e w e t
+013/215	lewet	1	l e w e t
+013/217	lewet	1	l e w e t
+013/219	lewet	1	l e w e t
+013/221	lewet	1	l e w e t
+013/223	leewet	1	l ee w e t
+014/047	leev	1	l ee v
+014/049	leew	1	l ee w
+014/051	liaw	1	l ia w
+014/053	liew	1	l ie w
+014/055	liew	1	l ie w
+014/057	liew	1	l ie w
+014/059	leewe	1	l ee w e
+014/061	leewe	1	l ee w e
+014/063	lewe	1	l e w e
+014/065	lewe	1	l e w e
+014/067	leewe	1	l ee w e
+014/109	leiwes	1	l ei w e s
+014/159	leiwet	1	l ei w e t
+014/161	leiwet	1	l ei w e t
+014/163	leiwet	1	l ei w e t
+014/165	leiwet	1	l ei w e t
+014/167	leiwet	1	l ei w e t
+014/169	lewet	1	l e w e t
+014/187	lewet	1	l e w e t
+014/189	lewet	1	l e w e t
+014/191	lewet	1	l e w e t
+014/193	leewet	1	l ee w e t
+014/195	lewet	1	l e w e t
+014/197	lewet	1	l e w e t
+014/199	lewet	1	l e w e t
+014/201	löwet	1	l ö w e t
+014/203	lewet	1	l e w e t
+014/205	lewet	1	l e w e t
+014/207	lewet	1	l e w e t
+014/209	löwet	1	l ö w e t
+014/211	lewet	1	l e w e t
+014/213	löwe	1	l ö w e
+014/215	lewet	1	l e w e t
+014/217	löwet	1	l ö w e t
+014/219	lewet	1	l e w e t
+014/221	lewet	1	l e w e t
+015/049	leevv	1	l ee vv
+015/051	liiv	1	l ii v
+015/053	liv	1	l i v
+015/055	liew	1	l ie w
+015/057	liewe	1	l ie w e
+015/059	lewe	1	l e w e
+015/061	leewer	1	l ee w e r
+015/063	lewe	1	l e w e
+015/065	lewe	1	l e w e
+015/067	leewe	1	l ee w e
+015/105	leiwes	1	l ei w e s
+015/107	leeiwes	1	l eei w e s
+015/109	leiw	1	l ei w
+015/151	leiw	1	l ei w
+015/153	leiw	1	l ei w
+015/155	leiw	1	l ei w
+015/157	leiw	1	l ei w
+015/159	leiw	1	l ei w
+015/161	leiwät	1	l ei w ä t
+015/163	leiw	1	l ei w
+015/165	leifet	1	l ei f e t
+015/167	lewet	1	l e w e t
+015/169	lewet	1	l e w e t
+015/173	leewet	1	l ee w e t
+015/187	löwet	1	l ö w e t
+015/191	lewet	1	l e w e t
+015/193	leewet	1	l ee w e t
+015/195	löwet	1	l ö w e t
+015/197	leevet	1	l ee v e t
+015/199	lewet	1	l e w e t
+015/201	löwet	1	l ö w e t
+015/203	lewet	1	l e w e t
+015/205	löwet	1	l ö w e t
+015/207	lewet	1	l e w e t
+015/209	lewet	1	l e w e t
+015/211	lewet	1	l e w e t
+015/213	löwet	1	l ö w e t
+015/215	löwet	1	l ö w e t
+015/217	löwet	1	l ö w e t
+015/219	leewet	1	l ee w e t
+015/221	löwet	1	l ö w e t
+016/051	liew	1	l ie w
+016/055	liew	1	l ie w
+016/057	leeve	1	l ee v e
+016/059	leewe	1	l ee w e
+016/061	lewe	1	l e w e
+016/063	lewe	1	l e w e
+016/065	leve	1	l e v e
+016/067	lewes	1	l e w e s
+016/081	lewes	1	l e w e s
+016/083	NA	NA	-
+016/105	leiwes	1	l ei w e s
+016/107	leiwes	1	l ei w e s
+016/109	leiwes	1	l ei w e s
+016/111	leewes	1	l ee w e s
+016/145	leiw	1	l ei w
+016/147	leiv	1	l ei v
+016/149	leiw	1	l ei w
+016/151	leiw	1	l ei w
+016/153	leiv	1	l ei v
+016/155	leiw	1	l ei w
+016/157	leiw	1	l ei w
+016/159	leiw	1	l ei w
+016/161	leiwett	1	l ei w e tt
+016/163	leiwet	1	l ei w e t
+016/165	lewet	1	l e w e t
+016/167	lewet	1	l e w e t
+016/187	lefet	1	l e f e t
+016/189	lew	1	l e w
+016/191	lewet	1	l e w e t
+016/193	lewet	1	l e w e t
+016/195	lewet	1	l e w e t
+016/197	löwett	1	l ö w e tt
+016/199	löwet	1	l ö w e t
+016/201	lewet	1	l e w e t
+016/203	lewet	1	l e w e t
+016/205	lewet	1	l e w e t
+016/209	leewet	1	l ee w e t
+016/211	lewet	1	l e w e t
+016/213	löwet	1	l ö w e t
+016/215	lewet	1	l e w e t
+016/217	lewet	1	l e w e t
+016/219	leewet	1	l ee w e t
+017/055	leewe	1	l ee w e
+017/057	leve	1	l e v e
+017/059	leve	1	l e v e
+017/061	leewe	1	l ee w e
+017/063	lewes	1	l e w e s
+017/065	leves	1	l e v e s
+017/067	lev	1	l e v
+017/069	lev	1	l e v
+017/081	leves	1	l e v e s
+017/083	lev	1	l e v
+017/099	leiw	1	l ei w
+017/101	leiw	1	l ei w
+017/103	leiw	1	l ei w
+017/107	leiwes	1	l ei w e s
+017/109	leiwes	1	l ei w e s
+017/145	leif	1	l ei f
+017/147	leiw	1	l ei w
+017/149	leif	1	l ei f
+017/151	leiw	1	l ei w
+017/153	leiw	1	l ei w
+017/155	leiw	1	l ei w
+017/157	leiw	1	l ei w
+017/159	leiw	1	l ei w
+017/161	leiw	1	l ei w
+017/163	leiw	1	l ei w
+017/165	leiv	1	l ei v
+017/169	lewet	1	l e w e t
+017/171	lewet	1	l e w e t
+017/183	lewet	1	l e w e t
+017/185	löwet	1	l ö w e t
+017/187	levet	1	l e v e t
+017/189	löwet	1	l ö w e t
+017/191	lewet	1	l e w e t
+017/193	lewet	1	l e w e t
+017/195	lewat	1	l e w a t
+017/197	lewet	1	l e w e t
+017/199	lewet	1	l e w e t
+017/201	lewet	1	l e w e t
+017/203	löwet	1	l ö w e t
+017/205	löwet	1	l ö w e t
+017/207	lewet	1	l e w e t
+017/209	lewet	1	l e w e t
+017/211	leewet	1	l ee w e t
+017/213	lewet	1	l e w e t
+017/215	lewet	1	l e w e t
+017/217	lewet	1	l e w e t
+017/219	lewet	1	l e w e t
+018/051	lewed	1	l e w e d
+018/053	lewe	1	l e w e
+018/055	lewe	1	l e w e
+018/057	leewe	1	l ee w e
+018/059	lever	1	l e v e r
+018/061	lewe	1	l e w e
+018/063	lewe	1	l e w e
+018/065	lewes	1	l e w e s
+018/067	lewes	1	l e w e s
+018/069	lewes	1	l e w e s
+018/071	lew	1	l e w
+018/073	leev	1	l ee v
+018/075	lewes	1	l e w e s
+018/079	leew	1	l ee w
+018/081	leiwes	1	l ei w e s
+018/097	leiw	1	l ei w
+018/099	leiwes	1	l ei w e s
+018/103	leiwes	1	l ei w e s
+018/105	leiwes	1	l ei w e s
+018/107	lewes	1	l e w e s
+018/109	leiwes	1	l ei w e s
+018/111	leiwes	1	l ei w e s
+018/143	leiw	1	l ei w
+018/145	leiw	1	l ei w
+018/147	leiw	1	l ei w
+018/149	leiw	1	l ei w
+018/151	leiw	1	l ei w
+018/153	leiw	1	l ei w
+018/155	leiw	1	l ei w
+018/157	leiw	1	l ei w
+018/159	leiw	1	l ei w
+018/161	leiw	1	l ei w
+018/163	leiw	1	l ei w
+018/165	leiwet	1	l ei w e t
+018/169	lewet	1	l e w e t
+018/171	leewet	1	l ee w e t
+018/173	lewet	1	l e w e t
+018/181	lewet	1	l e w e t
+018/185	lewet	1	l e w e t
+018/187	leewet	1	l ee w e t
+018/189	leewet	1	l ee w e t
+018/191	lewet	1	l e w e t
+018/193	levet	1	l e v e t
+018/195	lewet	1	l e w e t
+018/197	lewet	1	l e w e t
+018/199	leewet	1	l ee w e t
+018/201	lewet	1	l e w e t
+018/203	lewet	1	l e w e t
+018/205	lewet	1	l e w e t
+018/207	lewet	1	l e w e t
+018/209	lewet	1	l e w e t
+018/211	lewet	1	l e w e t
+018/213	leewet	1	l ee w e t
+018/215	lewet	1	l e w e t
+018/219	lewet	1	l e w e t
+019/051	lewes	1	l e w e s
+019/053	lewe	1	l e w e
+019/055	lewe	1	l e w e
+019/057	lewe	1	l e w e
+019/059	lev	1	l e v
+019/061	NA	NA	-
+019/063	lewes	1	l e w e s
+019/065	lewes	1	l e w e s
+019/067	leves	1	l e v e s
+019/069	lewes	1	l e w e s
+019/071	leewes	1	l ee w e s
+019/073	lewes	1	l e w e s
+019/075	leev	1	l ee v
+019/077	leiv	1	l ei v
+019/079	leew	1	l ee w
+019/081	lew	1	l e w
+019/097	leiw	1	l ei w
+019/099	leiw	1	l ei w
+019/101	leiw	1	l ei w
+019/103	leiwas	1	l ei w a s
+019/105	leiwes	1	l ei w e s
+019/107	leiwes	1	l ei w e s
+019/109	leiwes	1	l ei w e s
+019/143	leiv	1	l ei v
+019/145	leiw	1	l ei w
+019/147	leiw	1	l ei w
+019/149	leiw	1	l ei w
+019/151	leiv	1	l ei v
+019/153	leiw	1	l ei w
+019/155	leif	1	l ei f
+019/157	leiw	1	l ei w
+019/159	leiw	1	l ei w
+019/161	leiw	1	l ei w
+019/163	leiw	1	l ei w
+019/165	leiw	1	l ei w
+019/167	lehwät	1	l eh w ä t
+019/169	lewet	1	l e w e t
+019/171	lewet	1	l e w e t
+019/173	lewet	1	l e w e t
+019/175	lewet	1	l e w e t
+019/177	lewet	1	l e w e t
+019/179	leevet	1	l ee v e t
+019/181	leewet	1	l ee w e t
+019/183	lewet	1	l e w e t
+019/185	lewett	1	l e w e tt
+019/187	lewet	1	l e w e t
+019/189	lew	1	l e w
+019/191	lewet	1	l e w e t
+019/193	lewet	1	l e w e t
+019/195	lewet	1	l e w e t
+019/197	lewet	1	l e w e t
+019/199	lewet	1	l e w e t
+019/201	lewet	1	l e w e t
+019/203	lewet	1	l e w e t
+019/205	lewet	1	l e w e t
+019/207	löwet	1	l ö w e t
+019/209	lewet	1	l e w e t
+019/211	leewet	1	l ee w e t
+019/213	lewet	1	l e w e t
+019/215	lewet	1	l e w e t
+019/217	löwet	1	l ö w e t
+019/219	lewet	1	l e w e t
+020/043	go	1	g o
+020/053	leiv	1	l ei v
+020/055	lewes	1	l e w e s
+020/057	NA	NA	-
+020/059	lew	1	l e w
+020/061	lew	1	l e w
+020/063	lew	1	l e w
+020/065	oll	1	o ll
+020/067	lütt	1	l ü tt
+020/069	leeves	1	l ee v e s
+020/071	lev	1	l e v
+020/073	lew	1	l e w
+020/075	leev	1	l ee v
+020/077	lew	1	l e w
+020/079	lev	1	l e v
+020/081	lewes	1	l e w e s
+020/095	leiw	1	l ei w
+020/097	leif	1	l ei f
+020/099	leiwes	1	l ei w e s
+020/101	leiwes	1	l ei w e s
+020/103	leiw	1	l ei w
+020/105	leiv	1	l ei v
+020/107	leiwes	1	l ei w e s
+020/135	leiw	1	l ei w
+020/137	leiw	1	l ei w
+020/139	leiw	1	l ei w
+020/141	leiw	1	l ei w
+020/143	leiw	1	l ei w
+020/145	leif	1	l ei f
+020/147	leiw	1	l ei w
+020/149	leiw	1	l ei w
+020/151	leif	1	l ei f
+020/153	leiw	1	l ei w
+020/155	leiw	1	l ei w
+020/157	leiw	1	l ei w
+020/159	leiw	1	l ei w
+020/161	leiw	1	l ei w
+020/163	leif	1	l ei f
+020/165	leif	1	l ei f
+020/167	leiw	1	l ei w
+020/169	leiw	1	l ei w
+020/171	lewet	1	l e w e t
+020/173	lewet	1	l e w e t
+020/175	levet	1	l e v e t
+020/177	lewet	1	l e w e t
+020/179	lewet	1	l e w e t
+020/181	lewet	1	l e w e t
+020/183	leewett	1	l ee w e tt
+020/185	lewet	1	l e w e t
+020/187	liwes	1	l i w e s
+020/189	lewet	1	l e w e t
+020/191	leewet	1	l ee w e t
+020/193	lewet	1	l e w e t
+020/195	lewet	1	l e w e t
+020/197	levet	1	l e v e t
+020/199	lewet	1	l e w e t
+020/201	leewet	1	l ee w e t
+020/203	lewet	1	l e w e t
+020/205	löwet	1	l ö w e t
+020/207	löwet	1	l ö w e t
+020/209	lewet	1	l e w e t
+020/211	lewet	1	l e w e t
+020/213	lewet	1	l e w e t
+020/215	levet	1	l e v e t
+020/217	lewet	1	l e w e t
+020/219	lewet	1	l e w e t
+021/055	leev	1	l ee v
+021/057	lewes	1	l e w e s
+021/059	lev	1	l e v
+021/061	lev	1	l e v
+021/063	leev	1	l ee v
+021/065	lev	1	l e v
+021/067	lew	1	l e w
+021/069	lew	1	l e w
+021/071	lev	1	l e v
+021/073	leef	1	l ee f
+021/075	lew	1	l e w
+021/077	lew	1	l e w
+021/079	lewes	1	l e w e s
+021/087	leiw	1	l ei w
+021/089	leiw	1	l ei w
+021/091	leiw	1	l ei w
+021/093	leiv	1	l ei v
+021/095	leiw	1	l ei w
+021/097	leiw	1	l ei w
+021/099	leiw	1	l ei w
+021/101	leiw	1	l ei w
+021/103	leiwes	1	l ei w e s
+021/105	leiw	1	l ei w
+021/107	leif	1	l ei f
+021/109	leiws	1	l ei w s
+021/111	leif	1	l ei f
+021/113	leif	1	l ei f
+021/131	leiw	1	l ei w
+021/133	leiw	1	l ei w
+021/135	leiw	1	l ei w
+021/137	leiw	1	l ei w
+021/139	leiw	1	l ei w
+021/141	leiw	1	l ei w
+021/143	leif	1	l ei f
+021/145	leiw	1	l ei w
+021/147	leiv	1	l ei v
+021/149	leiw	1	l ei w
+021/151	leiw	1	l ei w
+021/153	leiw	1	l ei w
+021/155	leiw	1	l ei w
+021/157	leiw	1	l ei w
+021/159	leiwe	1	l ei w e
+021/163	laif	1	l ai f
+021/165	leiw	1	l ei w
+021/167	leiw	1	l ei w
+021/169	leew	1	l ee w
+021/171	lewet	1	l e w e t
+021/173	lewet	1	l e w e t
+021/175	lewet	1	l e w e t
+021/177	lewet	1	l e w e t
+021/179	lewet	1	l e w e t
+021/181	lewet	1	l e w e t
+021/183	lewet	1	l e w e t
+021/185	liebes	1	l ie b e s
+021/187	liew	1	l ie w
+021/189	liebes	1	l ie b e s
+021/191	liewes	1	l ie w e s
+021/193	liewes	1	l ie w e s
+021/195	liewes	1	l ie w e s
+021/197	liewes	1	l ie w e s
+021/199	lewet	1	l e w e t
+021/201	löw	1	l ö w
+021/203	lewet	1	l e w e t
+021/205	lewet	1	l e w e t
+021/207	lewet	1	l e w e t
+021/211	lewet	1	l e w e t
+021/215	lewet	1	l e w e t
+021/217	lewet	1	l e w e t
+021/219	lewet	1	l e w e t
+022/055	leew	1	l ee w
+022/057	lef	1	l e f
+022/059	lew	1	l e w
+022/061	lew	1	l e w
+022/063	lew	1	l e w
+022/065	lew	1	l e w
+022/067	lew	1	l e w
+022/069	leew	1	l ee w
+022/071	leef	1	l ee f
+022/073	leew	1	l ee w
+022/075	lev	1	l e v
+022/077	leev	1	l ee v
+022/087	leiv	1	l ei v
+022/089	leiw	1	l ei w
+022/091	leiv	1	l ei v
+022/093	leiw	1	l ei w
+022/095	leiw	1	l ei w
+022/097	leiw	1	l ei w
+022/099	leiw	1	l ei w
+022/101	leiw	1	l ei w
+022/103	leiwes	1	l ei w e s
+022/105	leiwes	1	l ei w e s
+022/107	leiw	1	l ei w
+022/109	leiwes	1	l ei w e s
+022/111	leiwes	1	l ei w e s
+022/113	leiw	1	l ei w
+022/115	leif	1	l ei f
+022/127	leiw	1	l ei w
+022/129	leif	1	l ei f
+022/131	leiw	1	l ei w
+022/133	leiw	1	l ei w
+022/135	leif	1	l ei f
+022/137	leiw	1	l ei w
+022/139	leiw	1	l ei w
+022/141	leiw	1	l ei w
+022/143	leiw	1	l ei w
+022/145	leiw	1	l ei w
+022/147	leiw	1	l ei w
+022/149	leiw	1	l ei w
+022/151	leiw	1	l ei w
+022/153	leiv	1	l ei v
+022/155	leiw	1	l ei w
+022/157	leiw	1	l ei w
+022/159	leif	1	l ei f
+022/165	leiw	1	l ei w
+022/167	leiw	1	l ei w
+022/169	lewet	1	l e w e t
+022/171	leewet	1	l ee w e t
+022/173	lewet	1	l e w e t
+022/175	leewet	1	l ee w e t
+022/177	lewet	1	l e w e t
+022/179	lewet	1	l e w e t
+022/181	lewet	1	l e w e t
+022/183	liebes	1	l ie b e s
+022/185	liebes	1	l ie b e s
+022/187	liebes	1	l ie b e s
+022/189	liebes	1	l ie b e s
+022/191	liew	1	l ie w
+022/193	liewes	1	l ie w e s
+022/195	liewes	1	l ie w e s
+022/197	liew	1	l ie w
+022/199	liew	1	l ie w
+022/201	löwet	1	l ö w e t
+022/203	lewet	1	l e w e t
+022/205	lewet	1	l e w e t
+022/209	leewet	1	l ee w e t
+022/211	lewet	1	l e w e t
+022/215	leewet	1	l ee w e t
+022/217	löhwet	1	l öh w e t
+022/219	löwet	1	l ö w e t
+023/055	lew	1	l e w
+023/059	lewes	1	l e w e s
+023/061	leew	1	l ee w
+023/063	leew	1	l ee w
+023/065	lewes	1	l e w e s
+023/067	lev	1	l e v
+023/069	leef	1	l ee f
+023/071	leef	1	l ee f
+023/073	lew	1	l e w
+023/075	leew	1	l ee w
+023/077	leew	1	l ee w
+023/079	lew	1	l e w
+023/081	leiw	1	l ei w
+023/083	leiv	1	l ei v
+023/085	leiw	1	l ei w
+023/087	leiw	1	l ei w
+023/089	leiw	1	l ei w
+023/091	leiw	1	l ei w
+023/093	leiw	1	l ei w
+023/095	leiw	1	l ei w
+023/097	leiw	1	l ei w
+023/099	leif	1	l ei f
+023/101	leiw	1	l ei w
+023/103	leiif	1	l eii f
+023/105	leiw	1	l ei w
+023/107	leiwes	1	l ei w e s
+023/109	leiw	1	l ei w
+023/111	leiwes	1	l ei w e s
+023/113	leiwes	1	l ei w e s
+023/115	leiwes	1	l ei w e s
+023/117	leiw	1	l ei w
+023/121	leiw	1	l ei w
+023/123	leiw	1	l ei w
+023/125	leiv	1	l ei v
+023/127	leif	1	l ei f
+023/129	leiw	1	l ei w
+023/131	leiw	1	l ei w
+023/133	leif	1	l ei f
+023/135	leiw	1	l ei w
+023/137	leiw	1	l ei w
+023/139	leiw	1	l ei w
+023/141	leiw	1	l ei w
+023/143	leiw	1	l ei w
+023/145	leiv	1	l ei v
+023/147	leiw	1	l ei w
+023/149	leiv	1	l ei v
+023/151	leiw	1	l ei w
+023/153	leiw	1	l ei w
+023/155	leiw	1	l ei w
+023/165	leiw	1	l ei w
+023/167	leiw	1	l ei w
+023/169	lewet	1	l e w e t
+023/175	lewet	1	l e w e t
+023/177	liebes	1	l ie b e s
+023/179	liebes	1	l ie b e s
+023/181	liebes	1	l ie b e s
+023/183	liebes	1	l ie b e s
+023/185	liebes	1	l ie b e s
+023/187	liebes	1	l ie b e s
+023/189	liebes	1	l ie b e s
+023/191	liewes	1	l ie w e s
+023/193	liebes	1	l ie b e s
+023/195	liewes	1	l ie w e s
+023/197	liewes	1	l ie w e s
+023/199	lewet	1	l e w e t
+023/201	löwet	1	l ö w e t
+023/203	lewet	1	l e w e t
+023/205	löw	1	l ö w
+023/207	lewet	1	l e w e t
+023/215	lewet	1	l e w e t
+023/217	lewet	1	l e w e t
+024/053	leev	1	l ee v
+024/057	lewes	1	l e w e s
+024/059	lütt	1	l ü tt
+024/061	leev	1	l ee v
+024/063	lev	1	l e v
+024/065	lew	1	l e w
+024/067	leewes	1	l ee w e s
+024/069	leew	1	l ee w
+024/071	leef	1	l ee f
+024/073	leew	1	l ee w
+024/075	lev	1	l e v
+024/077	leiv	1	l ei v
+024/079	leiw	1	l ei w
+024/081	leiw	1	l ei w
+024/083	leiw	1	l ei w
+024/085	leiw	1	l ei w
+024/087	leiw	1	l ei w
+024/089	leiw	1	l ei w
+024/091	leiw	1	l ei w
+024/093	leiw	1	l ei w
+024/095	leiw	1	l ei w
+024/097	leiv	1	l ei v
+024/099	leiw	1	l ei w
+024/101	leif	1	l ei f
+024/103	leiwes	1	l ei w e s
+024/105	leiw	1	l ei w
+024/107	leiw	1	l ei w
+024/109	leihf	1	l eih f
+024/111	leif	1	l ei f
+024/113	leif	1	l ei f
+024/115	leif	1	l ei f
+024/117	leiw	1	l ei w
+024/119	leiw	1	l ei w
+024/121	leiw	1	l ei w
+024/123	leiw	1	l ei w
+024/125	leiw	1	l ei w
+024/127	leiw	1	l ei w
+024/129	leiw	1	l ei w
+024/131	leiw	1	l ei w
+024/133	leiw	1	l ei w
+024/135	leiw	1	l ei w
+024/137	leiw	1	l ei w
+024/139	leiw	1	l ei w
+024/141	leiw	1	l ei w
+024/143	leiw	1	l ei w
+024/145	leiw	1	l ei w
+024/147	leiw	1	l ei w
+024/149	leiw	1	l ei w
+024/151	leiw	1	l ei w
+024/153	leiw	1	l ei w
+024/155	leiv	1	l ei v
+024/163	leiw	1	l ei w
+024/165	leiw	1	l ei w
+024/167	leiw	1	l ei w
+024/169	leiw	1	l ei w
+024/171	lew	1	l e w
+024/175	lewet	1	l e w e t
+024/179	liebes	1	l ie b e s
+024/181	liebes	1	l ie b e s
+024/183	liebes	1	l ie b e s
+024/185	liebes	1	l ie b e s
+024/187	liebes	1	l ie b e s
+024/189	liebes	1	l ie b e s
+024/191	liewes	1	l ie w e s
+024/193	liewes	1	l ie w e s
+024/195	liewes	1	l ie w e s
+024/197	liewes	1	l ie w e s
+024/199	liewes	1	l ie w e s
+024/201	lewet	1	l e w e t
+024/203	lewet	1	l e w e t
+024/217	lewet	1	l e w e t
+024/221	löwet	1	l ö w e t
+025/043	liwef	1	l i w e f
+025/051	lebev	1	l e b e v
+025/053	lebes	1	l e b e s
+025/055	lewes	1	l e w e s
+025/057	lewe	1	l e w e
+025/059	leef	1	l ee f
+025/061	leew	1	l ee w
+025/063	lewes	1	l e w e s
+025/065	leef	1	l ee f
+025/067	lew	1	l e w
+025/069	lef	1	l e f
+025/071	leew	1	l ee w
+025/073	leiw	1	l ei w
+025/075	lew	1	l e w
+025/077	leiw	1	l ei w
+025/079	leiw	1	l ei w
+025/081	leiw	1	l ei w
+025/083	leif	1	l ei f
+025/085	leiw	1	l ei w
+025/087	leiwes	1	l ei w e s
+025/089	leiw	1	l ei w
+025/091	leiwes	1	l ei w e s
+025/093	leiw	1	l ei w
+025/095	leif	1	l ei f
+025/099	leiw	1	l ei w
+025/101	leiw	1	l ei w
+025/103	lewes	1	l e w e s
+025/105	leiw	1	l ei w
+025/107	leiw	1	l ei w
+025/109	leiwes	1	l ei w e s
+025/111	leiwes	1	l ei w e s
+025/113	leiw	1	l ei w
+025/115	leiw	1	l ei w
+025/123	lew	1	l e w
+025/125	leiw	1	l ei w
+025/127	leiw	1	l ei w
+025/129	leiw	1	l ei w
+025/131	leif	1	l ei f
+025/133	leiw	1	l ei w
+025/135	leiw	1	l ei w
+025/137	leiw	1	l ei w
+025/139	leiw	1	l ei w
+025/141	leiw	1	l ei w
+025/143	leif	1	l ei f
+025/145	leiw	1	l ei w
+025/147	leiw	1	l ei w
+025/149	leiw	1	l ei w
+025/151	leiw	1	l ei w
+025/153	leiw	1	l ei w
+025/155	leiw	1	l ei w
+025/157	leiw	1	l ei w
+025/159	leiwet	1	l ei w e t
+025/177	low	1	l o w
+025/179	liebes	1	l ie b e s
+025/181	liebes	1	l ie b e s
+025/183	liebes	1	l ie b e s
+025/185	liebes	1	l ie b e s
+025/187	liebes	1	l ie b e s
+025/189	lieb	1	l ie b
+025/191	liewes	1	l ie w e s
+026/031	leew	1	l ee w
+026/033	leev	1	l ee v
+026/037	leev	1	l ee v
+026/041	leef	1	l ee f
+026/043	leev	1	l ee v
+026/045	leew	1	l ee w
+026/051	lewe	1	l e w e
+026/053	leewe	1	l ee w e
+026/055	leebes	1	l ee b e s
+026/057	lewes	1	l e w e s
+026/059	lew	1	l e w
+026/061	lew	1	l e w
+026/063	lef	1	l e f
+026/065	lew	1	l e w
+026/067	lew	1	l e w
+026/069	leewes	1	l ee w e s
+026/071	lew	1	l e w
+026/073	leif	1	l ei f
+026/075	lew	1	l e w
+026/077	leiw	1	l ei w
+026/079	leiw	1	l ei w
+026/081	leiw	1	l ei w
+026/083	leiw	1	l ei w
+026/085	leiw	1	l ei w
+026/087	leiw	1	l ei w
+026/089	leiw	1	l ei w
+026/091	leeif	1	l eei f
+026/093	leiw	1	l ei w
+026/095	leiw	1	l ei w
+026/097	leiw	1	l ei w
+026/099	leiw	1	l ei w
+026/101	leiw	1	l ei w
+026/103	leiw	1	l ei w
+026/105	leiwes	1	l ei w e s
+026/107	leiw	1	l ei w
+026/109	leiw	1	l ei w
+026/111	leiw	1	l ei w
+026/113	leew	1	l ee w
+026/115	lew	1	l e w
+026/117	lew	1	l e w
+026/119	leew	1	l ee w
+026/123	leiw	1	l ei w
+026/125	leiw	1	l ei w
+026/127	leiw	1	l ei w
+026/129	leiw	1	l ei w
+026/131	leif	1	l ei f
+026/133	leiw	1	l ei w
+026/135	leiw	1	l ei w
+026/137	leiw	1	l ei w
+026/139	lewe	1	l e w e
+026/141	leiw	1	l ei w
+026/143	leiw	1	l ei w
+026/145	leiw	1	l ei w
+026/147	leiw	1	l ei w
+026/153	leiw	1	l ei w
+026/155	leiw	1	l ei w
+026/157	leiw	1	l ei w
+026/159	leiw	1	l ei w
+026/161	leif	1	l ei f
+026/165	lew	1	l e w
+026/173	lewet	1	l e w e t
+026/175	lewes	1	l e w e s
+026/177	lewet	1	l e w e t
+026/179	lew	1	l e w
+026/181	liebes	1	l ie b e s
+026/183	liebes	1	l ie b e s
+026/185	liebes	1	l ie b e s
+026/187	NA	NA	-
+026/189	liebes	1	l ie b e s
+027/027	leive	1	l ei v e
+027/035	lefe	1	l e f e
+027/037	lähw	1	l äh w
+027/039	lew	1	l e w
+027/041	leef	1	l ee f
+027/043	leiwet	1	l ei w e t
+027/045	leiw	1	l ei w
+027/047	lewd	1	l e w d
+027/051	lewe	1	l e w e
+027/053	lewe	1	l e w e
+027/055	lewe	1	l e w e
+027/057	leewes	1	l ee w e s
+027/059	lef	1	l e f
+027/061	lew	1	l e w
+027/063	leev	1	l ee v
+027/065	leew	1	l ee w
+027/067	leew	1	l ee w
+027/069	gooder	1	g oo d e r
+027/071	lef	1	l e f
+027/073	leiw	1	l ei w
+027/075	leiwes	1	l ei w e s
+027/077	leiw	1	l ei w
+027/079	leiw	1	l ei w
+027/081	leiw	1	l ei w
+027/083	leiw	1	l ei w
+027/085	leew	1	l ee w
+027/087	leiw	1	l ei w
+027/089	leiwes	1	l ei w e s
+027/091	leiw	1	l ei w
+027/093	leiw	1	l ei w
+027/095	leiw	1	l ei w
+027/099	leif	1	l ei f
+027/101	leiw	1	l ei w
+027/103	leiw	1	l ei w
+027/105	leiw	1	l ei w
+027/107	leif	1	l ei f
+027/109	leiv	1	l ei v
+027/111	lehw	1	l eh w
+027/113	lew	1	l e w
+027/115	lew	1	l e w
+027/117	lew	1	l e w
+027/119	lew	1	l e w
+027/123	leew	1	l ee w
+027/125	lew	1	l e w
+027/127	leiw	1	l ei w
+027/129	leiw	1	l ei w
+027/131	leiw	1	l ei w
+027/135	leiw	1	l ei w
+027/137	leiw	1	l ei w
+027/139	leiw	1	l ei w
+027/141	leiw	1	l ei w
+027/143	leiw	1	l ei w
+027/145	leiw	1	l ei w
+027/147	leiw	1	l ei w
+027/149	leiw	1	l ei w
+027/151	leiw	1	l ei w
+027/153	leiw	1	l ei w
+027/155	leiw	1	l ei w
+027/157	leiw	1	l ei w
+027/159	leiw	1	l ei w
+027/161	leif	1	l ei f
+027/167	laiw	1	l ai w
+027/171	lew	1	l e w
+027/173	lewet	1	l e w e t
+027/175	lewet	1	l e w e t
+027/177	lewet	1	l e w e t
+027/179	lewet	1	l e w e t
+027/181	leiwet	1	l ei w e t
+027/183	liebes	1	l ie b e s
+027/185	liebes	1	l ie b e s
+028/033	lef	1	l e f
+028/035	leef	1	l ee f
+028/037	leve	1	l e v e
+028/039	lev	1	l e v
+028/041	leef	1	l ee f
+028/043	leew	1	l ee w
+028/045	lew	1	l e w
+028/047	lewe	1	l e w e
+028/049	lewe	1	l e w e
+028/051	leewe	1	l ee w e
+028/053	lewes	1	l e w e s
+028/055	leewe	1	l ee w e
+028/057	lewe	1	l e w e
+028/059	lew	1	l e w
+028/061	lebes	1	l e b e s
+028/063	leew	1	l ee w
+028/065	leew	1	l ee w
+028/067	läiwes	1	l äi w e s
+028/069	leew	1	l ee w
+028/071	leef	1	l ee f
+028/073	leif	1	l ei f
+028/075	leiw	1	l ei w
+028/077	leif	1	l ei f
+028/079	leiw	1	l ei w
+028/081	leiwes	1	l ei w e s
+028/083	leiw	1	l ei w
+028/085	leiw	1	l ei w
+028/087	leiw	1	l ei w
+028/089	leiw	1	l ei w
+028/091	leiw	1	l ei w
+028/093	leiwes	1	l ei w e s
+028/095	leiw	1	l ei w
+028/097	leif	1	l ei f
+028/099	leiw	1	l ei w
+028/103	leiw	1	l ei w
+028/105	leiw	1	l ei w
+028/107	lef	1	l e f
+028/109	leew	1	l ee w
+028/111	leew	1	l ee w
+028/113	leef	1	l ee f
+028/115	lew	1	l e w
+028/117	lef	1	l e f
+028/119	lew	1	l e w
+028/121	lew	1	l e w
+028/123	leew	1	l ee w
+028/125	lew	1	l e w
+028/127	leiw	1	l ei w
+028/129	leiw	1	l ei w
+028/131	leiw	1	l ei w
+028/133	leiw	1	l ei w
+028/135	leiw	1	l ei w
+028/137	leiw	1	l ei w
+028/139	leiw	1	l ei w
+028/141	lev	1	l e v
+028/143	lew	1	l e w
+028/145	leiw	1	l ei w
+028/147	leiw	1	l ei w
+028/151	leiw	1	l ei w
+028/153	leiw	1	l ei w
+028/155	leiw	1	l ei w
+028/157	leif	1	l ei f
+028/159	leiw	1	l ei w
+028/161	leiw	1	l ei w
+028/165	leiw	1	l ei w
+028/169	lewst	1	l e w s t
+028/171	lewet	1	l e w e t
+028/173	lehwst	1	l eh w s t
+028/175	lewet	1	l e w e t
+028/177	lejwet	1	l e j w e t
+028/179	lewet	1	l e w e t
+028/181	liebes	1	l ie b e s
+028/183	liebes	1	l ie b e s
+028/185	liebes	1	l ie b e s
+029/033	leve	1	l e v e
+029/035	lyv	1	l y v
+029/037	lev	1	l e v
+029/039	läv	1	l ä v
+029/043	leef	1	l ee f
+029/045	leewe	1	l ee w e
+029/047	lewe	1	l e w e
+029/049	leed	1	l ee d
+029/051	lewe	1	l e w e
+029/053	leewe	1	l ee w e
+029/055	leewe	1	l ee w e
+029/057	lew	1	l e w
+029/059	lewe	1	l e w e
+029/061	lehw	1	l eh w
+029/065	lewes	1	l e w e s
+029/067	feut	1	f eu t
+029/069	leev	1	l ee v
+029/071	lewes	1	l e w e s
+029/073	leiw	1	l ei w
+029/075	leiw	1	l ei w
+029/077	leiw	1	l ei w
+029/079	leiw	1	l ei w
+029/081	leif	1	l ei f
+029/083	leif	1	l ei f
+029/085	leiw	1	l ei w
+029/087	leiw	1	l ei w
+029/089	leiw	1	l ei w
+029/091	leif	1	l ei f
+029/093	leiw	1	l ei w
+029/095	leiw	1	l ei w
+029/097	leiw	1	l ei w
+029/099	leiw	1	l ei w
+029/101	leiw	1	l ei w
+029/103	leiw	1	l ei w
+029/105	lew	1	l e w
+029/107	lew	1	l e w
+029/109	lew	1	l e w
+029/111	lew	1	l e w
+029/113	leew	1	l ee w
+029/115	lef	1	l e f
+029/117	lew	1	l e w
+029/119	leew	1	l ee w
+029/121	lew	1	l e w
+029/123	lew	1	l e w
+029/125	lew	1	l e w
+029/127	leiw	1	l ei w
+029/129	leiw	1	l ei w
+029/131	leiw	1	l ei w
+029/133	leiw	1	l ei w
+029/135	leew	1	l ee w
+029/137	lew	1	l e w
+029/139	lew	1	l e w
+029/141	leew	1	l ee w
+029/143	leew	1	l ee w
+029/145	leiw	1	l ei w
+029/147	lew	1	l e w
+029/149	leiw	1	l ei w
+029/151	leiw	1	l ei w
+029/153	leiw	1	l ei w
+029/155	leiw	1	l ei w
+029/157	leiw	1	l ei w
+029/159	leiw	1	l ei w
+029/161	leif	1	l ei f
+029/163	leiw	1	l ei w
+029/165	laiw	1	l ai w
+029/167	lew	1	l e w
+029/169	lef	1	l e f
+029/171	lew	1	l e w
+029/173	löw	1	l ö w
+029/175	lew	1	l e w
+029/177	leiw	1	l ei w
+029/181	lew	1	l e w
+030/033	lyf	1	l y f
+030/035	lyf	1	l y f
+030/037	lyf	1	l y f
+030/039	lefe	1	l e f e
+030/041	läv	1	l ä v
+030/043	leew	1	l ee w
+030/045	leef	1	l ee f
+030/047	lew	1	l e w
+030/049	leewe	1	l ee w e
+030/051	lewe	1	l e w e
+030/053	lehwe	1	l eh w e
+030/055	lewe	1	l e w e
+030/057	lewe	1	l e w e
+030/059	lewed	1	l e w e d
+030/061	lewe	1	l e w e
+030/065	lew	1	l e w
+030/067	lew	1	l e w
+030/071	lef	1	l e f
+030/073	leewes	1	l ee w e s
+030/075	leiwes	1	l ei w e s
+030/077	leiw	1	l ei w
+030/079	leiw	1	l ei w
+030/081	leiw	1	l ei w
+030/083	leifw	1	l ei f w
+030/085	leif	1	l ei f
+030/087	leiw	1	l ei w
+030/089	leiw	1	l ei w
+030/091	leiw	1	l ei w
+030/093	leif	1	l ei f
+030/095	leif	1	l ei f
+030/097	leiw	1	l ei w
+030/099	leiw	1	l ei w
+030/101	leiw	1	l ei w
+030/103	leiw	1	l ei w
+030/105	lew	1	l e w
+030/107	leew	1	l ee w
+030/109	lew	1	l e w
+030/111	leew	1	l ee w
+030/113	lew	1	l e w
+030/115	leäf	1	l eä f
+030/117	leef	1	l ee f
+030/119	lew	1	l e w
+030/121	lev	1	l e v
+030/123	lew	1	l e w
+030/125	lew	1	l e w
+030/127	lew	1	l e w
+030/129	lew	1	l e w
+030/131	leiw	1	l ei w
+030/133	leew	1	l ee w
+030/135	lew	1	l e w
+030/137	lef	1	l e f
+030/139	leew	1	l ee w
+030/141	lew	1	l e w
+030/143	lew	1	l e w
+030/145	lew	1	l e w
+030/147	lew	1	l e w
+030/149	leiw	1	l ei w
+030/151	leiw	1	l ei w
+030/153	leiw	1	l ei w
+030/155	leiw	1	l ei w
+030/157	leiw	1	l ei w
+030/159	leiw	1	l ei w
+030/161	NA	NA	-
+030/163	leif	1	l ei f
+030/165	leiw	1	l ei w
+030/167	leiw	1	l ei w
+030/169	leew	1	l ee w
+030/171	leif	1	l ei f
+030/173	leew	1	l ee w
+030/175	leew	1	l ee w
+030/177	leiw	1	l ei w
+030/179	lew	1	l e w
+030/181	leiw	1	l ei w
+030/183	leiw	1	l ei w
+031/035	lyve	1	l y v e
+031/037	leeve	1	l ee v e
+031/039	leeve	1	l ee v e
+031/041	leev	1	l ee v
+031/043	lewe	1	l e w e
+031/045	lew	1	l e w
+031/047	lewet	1	l e w e t
+031/049	leef	1	l ee f
+031/051	lew	1	l e w
+031/053	lew	1	l e w
+031/055	lew	1	l e w
+031/057	lewe	1	l e w e
+031/059	lewe	1	l e w e
+031/061	lew	1	l e w
+031/063	lew	1	l e w
+031/065	leiw	1	l ei w
+031/067	leew	1	l ee w
+031/069	lew	1	l e w
+031/071	leiwes	1	l ei w e s
+031/073	leewes	1	l ee w e s
+031/075	läiw	1	l äi w
+031/077	lew	1	l e w
+031/079	läiw	1	l äi w
+031/081	leeiv	1	l eei v
+031/083	leif	1	l ei f
+031/085	leiw	1	l ei w
+031/087	leiw	1	l ei w
+031/089	leiw	1	l ei w
+031/091	leeiw	1	l eei w
+031/093	lew	1	l e w
+031/095	leuw	1	l eu w
+031/097	leiw	1	l ei w
+031/099	leiw	1	l ei w
+031/101	leew	1	l ee w
+031/103	leew	1	l ee w
+031/105	lewas	1	l e w a s
+031/107	lew	1	l e w
+031/109	lew	1	l e w
+031/111	lew	1	l e w
+031/113	leew	1	l ee w
+031/115	leew	1	l ee w
+031/117	lef	1	l e f
+031/119	lew	1	l e w
+031/121	leef	1	l ee f
+031/123	lew	1	l e w
+031/125	lew	1	l e w
+031/127	lew	1	l e w
+031/129	leew	1	l ee w
+031/131	leew	1	l ee w
+031/133	lew	1	l e w
+031/135	lew	1	l e w
+031/137	lew	1	l e w
+031/139	lew	1	l e w
+031/141	lef	1	l e f
+031/143	lew	1	l e w
+031/145	lew	1	l e w
+031/147	lew	1	l e w
+031/149	lew	1	l e w
+031/151	leiw	1	l ei w
+031/153	leiw	1	l ei w
+031/155	leiw	1	l ei w
+031/157	leiw	1	l ei w
+031/159	leiw	1	l ei w
+031/161	leiw	1	l ei w
+031/163	leiw	1	l ei w
+031/167	lew	1	l e w
+031/169	lebs	1	l e b s
+031/171	liebes	1	l ie b e s
+031/173	liebs	1	l ie b s
+031/175	loüw	1	l oü w
+031/177	leiw	1	l ei w
+031/179	leiw	1	l ei w
+032/035	leef	1	l ee f
+032/037	lyfe	1	l y f e
+032/039	lywe	1	l y w e
+032/041	leew	1	l ee w
+032/043	lef	1	l e f
+032/045	lew	1	l e w
+032/047	lewe	1	l e w e
+032/049	lewet	1	l e w e t
+032/051	leewt	1	l ee w t
+032/053	lewet	1	l e w e t
+032/055	lewe	1	l e w e
+032/057	lewe	1	l e w e
+032/059	leef	1	l ee f
+032/061	lewe	1	l e w e
+032/065	leiw	1	l ei w
+032/069	leew	1	l ee w
+032/071	läiw	1	l äi w
+032/073	läiw	1	l äi w
+032/075	lew	1	l e w
+032/077	leoiwes	1	l eoi w e s
+032/079	läef	1	l äe f
+032/081	leew	1	l ee w
+032/083	leew	1	l ee w
+032/085	leiv	1	l ei v
+032/087	leiw	1	l ei w
+032/089	leiw	1	l ei w
+032/091	leiw	1	l ei w
+032/093	lew	1	l e w
+032/095	lehf	1	l eh f
+032/097	leew	1	l ee w
+032/099	lew	1	l e w
+032/101	lew	1	l e w
+032/103	lew	1	l e w
+032/105	lew	1	l e w
+032/107	leew	1	l ee w
+032/111	lew	1	l e w
+032/113	leef	1	l ee f
+032/115	leef	1	l ee f
+032/117	lew	1	l e w
+032/119	leew	1	l ee w
+032/121	lew	1	l e w
+032/123	leew	1	l ee w
+032/125	leew	1	l ee w
+032/127	leew	1	l ee w
+032/129	lew	1	l e w
+032/131	lew	1	l e w
+032/133	lew	1	l e w
+032/135	lew	1	l e w
+032/139	lew	1	l e w
+032/141	lew	1	l e w
+032/143	lew	1	l e w
+032/145	leew	1	l ee w
+032/147	lew	1	l e w
+032/149	lew	1	l e w
+032/151	lew	1	l e w
+032/153	leiw	1	l ei w
+032/157	laiw	1	l ai w
+032/159	leiw	1	l ei w
+032/161	leiwe	1	l ei w e
+032/163	leiw	1	l ei w
+032/167	lew	1	l e w
+032/169	liebs	1	l ie b s
+032/171	liabs	1	l ia b s
+032/173	liebs	1	l ie b s
+032/175	leihf	1	l eih f
+032/177	leiw	1	l ei w
+032/179	leiv	1	l ei v
+032/181	leew	1	l ee w
+032/183	leif	1	l ei f
+033/035	leewe	1	l ee w e
+033/037	lyve	1	l y v e
+033/039	läife	1	l äi f e
+033/041	lewe	1	l e w e
+033/043	lew	1	l e w
+033/045	leew	1	l ee w
+033/047	lewt	1	l e w t
+033/049	lewt	1	l e w t
+033/051	leewe	1	l ee w e
+033/053	lewet	1	l e w e t
+033/055	leewt	1	l ee w t
+033/057	lewet	1	l e w e t
+033/059	läebe	1	l äe b e
+033/061	leebe	1	l ee b e
+033/063	lewes	1	l e w e s
+033/065	leev	1	l ee v
+033/067	leev	1	l ee v
+033/069	leiw	1	l ei w
+033/071	lew	1	l e w
+033/073	lew	1	l e w
+033/075	lewes	1	l e w e s
+033/077	lebes	1	l e b e s
+033/079	leef	1	l ee f
+033/081	leef	1	l ee f
+033/083	leif	1	l ei f
+033/085	leif	1	l ei f
+033/087	leew	1	l ee w
+033/089	leiw	1	l ei w
+033/091	leew	1	l ee w
+033/093	leew	1	l ee w
+033/095	lew	1	l e w
+033/097	leew	1	l ee w
+033/099	lew	1	l e w
+033/101	lew	1	l e w
+033/103	lew	1	l e w
+033/105	lewet	1	l e w e t
+033/107	lew	1	l e w
+033/109	leew	1	l ee w
+033/111	leev	1	l ee v
+033/113	leew	1	l ee w
+033/115	leew	1	l ee w
+033/117	lev	1	l e v
+033/119	lew	1	l e w
+033/121	lew	1	l e w
+033/123	läw	1	l ä w
+033/125	lews	1	l e w s
+033/127	leew	1	l ee w
+033/129	lew	1	l e w
+033/131	lew	1	l e w
+033/133	lew	1	l e w
+033/135	lew	1	l e w
+033/137	lew	1	l e w
+033/139	lew	1	l e w
+033/141	leew	1	l ee w
+033/143	lef	1	l e f
+033/145	liw	1	l i w
+033/147	lew	1	l e w
+033/149	lew	1	l e w
+033/151	leiw	1	l ei w
+033/153	liw	1	l i w
+033/155	leiw	1	l ei w
+033/159	leiw	1	l ei w
+033/161	leiw	1	l ei w
+033/163	leiw	1	l ei w
+033/165	lew	1	l e w
+033/167	lew	1	l e w
+033/169	lew	1	l e w
+033/173	lew	1	l e w
+033/175	leif	1	l ei f
+033/177	leif	1	l ei f
+034/035	lewe	1	l e w e
+034/039	leiwe	1	l ei w e
+034/041	leiv	1	l ei v
+034/043	läiwe	1	l äi w e
+034/045	lew	1	l e w
+034/047	leewe	1	l ee w e
+034/049	lewe	1	l e w e
+034/051	lewe	1	l e w e
+034/053	lewet	1	l e w e t
+034/055	leewe	1	l ee w e
+034/057	lewet	1	l e w e t
+034/059	lewes	1	l e w e s
+034/061	lewet	1	l e w e t
+034/063	lewet	1	l e w e t
+034/065	laiw	1	l ai w
+034/067	leiwe	1	l ei w e
+034/069	leiwes	1	l ei w e s
+034/071	lewes	1	l e w e s
+034/073	lew	1	l e w
+034/075	leewes	1	l ee w e s
+034/077	läiwes	1	l äi w e s
+034/079	leef	1	l ee f
+034/081	lew	1	l e w
+034/083	lew	1	l e w
+034/085	leiw	1	l ei w
+034/087	leew	1	l ee w
+034/089	lew	1	l e w
+034/091	lew	1	l e w
+034/093	leew	1	l ee w
+034/095	lew	1	l e w
+034/097	lew	1	l e w
+034/099	lehwes	1	l eh w e s
+034/101	lew	1	l e w
+034/103	lewes	1	l e w e s
+034/105	lew	1	l e w
+034/107	leef	1	l ee f
+034/109	lew	1	l e w
+034/111	leew	1	l ee w
+034/113	leew	1	l ee w
+034/115	lew	1	l e w
+034/117	lew	1	l e w
+034/119	leew	1	l ee w
+034/121	lew	1	l e w
+034/125	lew	1	l e w
+034/127	lev	1	l e v
+034/129	lehw	1	l eh w
+034/131	lew	1	l e w
+034/133	leew	1	l ee w
+034/135	leew	1	l ee w
+034/137	lew	1	l e w
+034/139	lew	1	l e w
+034/141	lew	1	l e w
+034/143	lew	1	l e w
+034/145	lewft	1	l e w f t
+034/147	löw	1	l ö w
+034/149	lew	1	l e w
+034/151	lew	1	l e w
+034/155	leiw	1	l ei w
+034/157	leew	1	l ee w
+034/161	leiw	1	l ei w
+034/163	leiw	1	l ei w
+034/165	lew	1	l e w
+034/167	lew	1	l e w
+034/169	lew	1	l e w
+034/173	lew	1	l e w
+035/035	lewe	1	l e w e
+035/037	lewe	1	l e w e
+035/039	lewe	1	l e w e
+035/041	läiwe	1	l äi w e
+035/043	läefe	1	l äe f e
+035/045	leywe	1	l ey w e
+035/047	lehw	1	l eh w
+035/049	leew	1	l ee w
+035/051	left	1	l e f t
+035/053	leef	1	l ee f
+035/055	leef	1	l ee f
+035/057	leew	1	l ee w
+035/059	lewe	1	l e w e
+035/061	lewe	1	l e w e
+035/063	leiw	1	l ei w
+035/065	läiwes	1	l äi w e s
+035/067	läif	1	l äi f
+035/069	lewes	1	l e w e s
+035/071	lewes	1	l e w e s
+035/073	läiwes	1	l äi w e s
+035/075	läif	1	l äi f
+035/077	läiwet	1	l äi w e t
+035/079	leew	1	l ee w
+035/081	leew	1	l ee w
+035/083	leew	1	l ee w
+035/085	leef	1	l ee f
+035/087	leew	1	l ee w
+035/089	lew	1	l e w
+035/091	lew	1	l e w
+035/093	leew	1	l ee w
+035/095	lew	1	l e w
+035/097	lew	1	l e w
+035/099	leew	1	l ee w
+035/101	liewes	1	l ie w e s
+035/103	lebs	1	l e b s
+035/105	leiw	1	l ei w
+035/107	lewes	1	l e w e s
+035/109	lewes	1	l e w e s
+035/111	lew	1	l e w
+035/113	lebet	1	l e b e t
+035/115	lew	1	l e w
+035/117	lew	1	l e w
+035/121	lieb	1	l ie b
+035/123	lew	1	l e w
+035/125	leew	1	l ee w
+035/127	lewes	1	l e w e s
+035/129	lew	1	l e w
+035/133	lew	1	l e w
+035/135	lew	1	l e w
+035/137	lew	1	l e w
+035/139	lewt	1	l e w t
+035/141	lew	1	l e w
+035/143	lew	1	l e w
+035/145	lew	1	l e w
+035/147	löw	1	l ö w
+035/149	lew	1	l e w
+035/151	lew	1	l e w
+035/153	lejw	1	l e j w
+035/155	leif	1	l ei f
+035/157	löw	1	l ö w
+035/165	lew	1	l e w
+035/167	leev	1	l ee v
+035/169	leif	1	l ei f
+035/171	lew	1	l e w
+035/173	lef	1	l e f
+036/033	leiwe	1	l ei w e
+036/035	leewe	1	l ee w e
+036/039	lewe	1	l e w e
+036/041	läiwe	1	l äi w e
+036/043	läiwe	1	l äi w e
+036/045	leeiwe	1	l eei w e
+036/047	leewe	1	l ee w e
+036/049	lewet	1	l e w e t
+036/051	leiwet	1	l ei w e t
+036/053	lebet	1	l e b e t
+036/055	lewet	1	l e w e t
+036/057	leef	1	l ee f
+036/059	lebet	1	l e b e t
+036/061	leiw	1	l ei w
+036/063	leiwet	1	l ei w e t
+036/065	läif	1	l äi f
+036/067	leibes	1	l ei b e s
+036/069	läiwe	1	l äi w e
+036/071	lewed	1	l e w e d
+036/073	leeiw	1	l eei w
+036/075	leiwes	1	l ei w e s
+036/077	leef	1	l ee f
+036/079	leew	1	l ee w
+036/081	leev	1	l ee v
+036/083	lev	1	l e v
+036/085	lewes	1	l e w e s
+036/087	lewes	1	l e w e s
+036/089	lev	1	l e v
+036/091	leiv	1	l ei v
+036/095	lew	1	l e w
+036/097	lewes	1	l e w e s
+036/099	lew	1	l e w
+036/101	leiw	1	l ei w
+036/103	lew	1	l e w
+036/105	lew	1	l e w
+036/107	lebes	1	l e b e s
+036/109	lewet	1	l e w e t
+036/111	liherwet	1	l i h e r w e t
+036/113	lewet	1	l e w e t
+036/115	liäwes	1	l iä w e s
+036/117	liwes	1	l i w e s
+036/119	liewet	1	l ie w e t
+036/121	liewett	1	l ie w e tt
+036/123	liewt	1	l ie w t
+036/125	liiewet	1	l iie w e t
+036/127	liw	1	l i w
+036/129	lewet	1	l e w e t
+036/133	leew	1	l ee w
+036/135	lew	1	l e w
+036/137	lew	1	l e w
+036/139	löw	1	l ö w
+036/141	leve	1	l e v e
+036/143	lew	1	l e w
+036/147	lew	1	l e w
+036/149	leiw	1	l ei w
+036/151	lew	1	l e w
+036/153	lef	1	l e f
+036/155	lew	1	l e w
+036/161	leiw	1	l ei w
+036/163	lew	1	l e w
+036/165	lew	1	l e w
+036/167	leiw	1	l ei w
+036/169	leiw	1	l ei w
+036/171	lef	1	l e f
+037/033	leiwe	1	l ei w e
+037/035	lewe	1	l e w e
+037/037	leiwe	1	l ei w e
+037/039	lewe	1	l e w e
+037/041	leiwe	1	l ei w e
+037/043	läiwe	1	l äi w e
+037/045	leiwe	1	l ei w e
+037/047	lewe	1	l e w e
+037/049	leiwes	1	l ei w e s
+037/051	lewt	1	l e w t
+037/053	leef	1	l ee f
+037/055	lewt	1	l e w t
+037/057	lewe	1	l e w e
+037/059	läiwe	1	l äi w e
+037/061	läiwe	1	l äi w e
+037/063	lewe	1	l e w e
+037/065	lewes	1	l e w e s
+037/067	leive	1	l ei v e
+037/069	leiwe	1	l ei w e
+037/071	leev	1	l ee v
+037/073	läiwes	1	l äi w e s
+037/075	leiwes	1	l ei w e s
+037/077	leiwes	1	l ei w e s
+037/079	lew	1	l e w
+037/081	lew	1	l e w
+037/083	lewes	1	l e w e s
+037/085	leew	1	l ee w
+037/087	lewes	1	l e w e s
+037/089	lew	1	l e w
+037/091	lewes	1	l e w e s
+037/093	lew	1	l e w
+037/095	lew	1	l e w
+037/097	lew	1	l e w
+037/099	lewet	1	l e w e t
+037/101	lieews	1	l iee w s
+037/105	lewet	1	l e w e t
+037/107	leebet	1	l ee b e t
+037/109	liewes	1	l ie w e s
+037/111	liewe	1	l ie w e
+037/113	lewes	1	l e w e s
+037/115	liewet	1	l ie w e t
+037/117	liewet	1	l ie w e t
+037/119	liwet	1	l i w e t
+037/121	liewet	1	l ie w e t
+037/123	liewet	1	l ie w e t
+037/125	liäwett	1	l iä w e tt
+037/127	liebet	1	l ie b e t
+037/129	liewet	1	l ie w e t
+037/131	liebet	1	l ie b e t
+037/133	liewet	1	l ie w e t
+037/135	lewet	1	l e w e t
+037/137	lewet	1	l e w e t
+037/139	leewet	1	l ee w e t
+037/141	lewet	1	l e w e t
+037/145	leew	1	l ee w
+037/147	lewst	1	l e w s t
+037/149	leif	1	l ei f
+037/151	lew	1	l e w
+037/153	leef	1	l ee f
+037/155	lew	1	l e w
+037/157	liw	1	l i w
+037/159	lewst	1	l e w s t
+037/163	lewest	1	l e w e s t
+037/171	leew	1	l ee w
+038/033	läiv	1	l äi v
+038/035	leiwes	1	l ei w e s
+038/037	lewe	1	l e w e
+038/039	läiwe	1	l äi w e
+038/041	leeiwe	1	l eei w e
+038/043	läiwe	1	l äi w e
+038/045	lewe	1	l e w e
+038/047	lewe	1	l e w e
+038/049	lewet	1	l e w e t
+038/051	lewt	1	l e w t
+038/053	lewe	1	l e w e
+038/055	leiwet	1	l ei w e t
+038/057	läibet	1	l äi b e t
+038/059	lewe	1	l e w e
+038/061	läibe	1	l äi b e
+038/063	lewe	1	l e w e
+038/065	leiwe	1	l ei w e
+038/067	laeiwes	1	l aei w e s
+038/069	leiwe	1	l ei w e
+038/071	leiwe	1	l ei w e
+038/073	leiwe	1	l ei w e
+038/075	leiwes	1	l ei w e s
+038/077	läiwes	1	l äi w e s
+038/079	leewes	1	l ee w e s
+038/081	lev	1	l e v
+038/083	lew	1	l e w
+038/085	lewes	1	l e w e s
+038/087	lew	1	l e w
+038/089	lehw	1	l eh w
+038/091	lew	1	l e w
+038/093	lew	1	l e w
+038/095	leouw	1	l eou w
+038/097	liebes	1	l ie b e s
+038/099	liäwes	1	l iä w e s
+038/101	liewes	1	l ie w e s
+038/103	lewes	1	l e w e s
+038/105	lewes	1	l e w e s
+038/107	liewes	1	l ie w e s
+038/109	lewet	1	l e w e t
+038/111	liewet	1	l ie w e t
+038/113	lewet	1	l e w e t
+038/115	liewet	1	l ie w e t
+038/117	lewet	1	l e w e t
+038/119	liebet	1	l ie b e t
+038/121	liäwet	1	l iä w e t
+038/123	liewet	1	l ie w e t
+038/125	liewet	1	l ie w e t
+038/127	liewet	1	l ie w e t
+038/129	lewet	1	l e w e t
+038/131	liebett	1	l ie b e tt
+038/133	liewet	1	l ie w e t
+038/135	liewet	1	l ie w e t
+038/145	leiw	1	l ei w
+038/147	lew	1	l e w
+038/149	liw	1	l i w
+038/151	lew	1	l e w
+038/153	läw	1	l ä w
+038/155	liv	1	l i v
+038/159	lief	1	l ie f
+038/161	lew	1	l e w
+038/163	lew	1	l e w
+039/029	leve	1	l e v e
+039/031	leeve	1	l ee v e
+039/033	leiwe	1	l ei w e
+039/035	läiwe	1	l äi w e
+039/037	lewe	1	l e w e
+039/039	lewe	1	l e w e
+039/041	läiwe	1	l äi w e
+039/043	leiwe	1	l ei w e
+039/045	leiwe	1	l ei w e
+039/047	leiwe	1	l ei w e
+039/049	lewet	1	l e w e t
+039/051	lewe	1	l e w e
+039/053	lewett	1	l e w e tt
+039/055	lewe	1	l e w e
+039/057	lewet	1	l e w e t
+039/059	leeiwe	1	l eei w e
+039/061	leewt	1	l ee w t
+039/063	lewe	1	l e w e
+039/065	leiwe	1	l ei w e
+039/067	leiw	1	l ei w
+039/069	leiwes	1	l ei w e s
+039/071	leiwe	1	l ei w e
+039/073	läihwe	1	l äih w e
+039/075	lewes	1	l e w e s
+039/077	leiwet	1	l ei w e t
+039/079	leef	1	l ee f
+039/081	leew	1	l ee w
+039/083	lew	1	l e w
+039/085	leiw	1	l ei w
+039/087	lew	1	l e w
+039/089	lew	1	l e w
+039/091	leve	1	l e v e
+039/093	lew	1	l e w
+039/095	liebes	1	l ie b e s
+039/097	liebes	1	l ie b e s
+039/099	liewes	1	l ie w e s
+039/101	liewes	1	l ie w e s
+039/103	liwet	1	l i w e t
+039/105	liebet	1	l ie b e t
+039/107	leuvt	1	l eu v t
+039/109	liewet	1	l ie w e t
+039/111	liäwet	1	l iä w e t
+039/113	liewet	1	l ie w e t
+039/115	liewet	1	l ie w e t
+039/117	liewet	1	l ie w e t
+039/119	liewes	1	l ie w e s
+039/121	liewet	1	l ie w e t
+039/123	liäwet	1	l iä w e t
+039/125	liewet	1	l ie w e t
+039/127	liebet	1	l ie b e t
+039/129	lewen	1	l e w e n
+039/131	liewet	1	l ie w e t
+039/133	lehiwes	1	l e h i w e s
+039/135	leibes	1	l ei b e s
+039/137	lebes	1	l e b e s
+039/139	liebes	1	l ie b e s
+039/149	lew	1	l e w
+039/151	lew	1	l e w
+039/153	lyw	1	l y w
+039/155	löw	1	l ö w
+040/029	leeve	1	l ee v e
+040/031	lewe	1	l e w e
+040/033	lewe	1	l e w e
+040/035	lewe	1	l e w e
+040/037	lewe	1	l e w e
+040/039	läiwe	1	l äi w e
+040/041	leef	1	l ee f
+040/043	leewe	1	l ee w e
+040/045	lewe	1	l e w e
+040/047	leiwe	1	l ei w e
+040/049	lewet	1	l e w e t
+040/051	leiwet	1	l ei w e t
+040/053	leiwe	1	l ei w e
+040/055	lewet	1	l e w e t
+040/057	leiwet	1	l ei w e t
+040/059	leiwet	1	l ei w e t
+040/061	leiwe	1	l ei w e
+040/063	leiwe	1	l ei w e
+040/065	leiwe	1	l ei w e
+040/067	leiwe	1	l ei w e
+040/069	leibe	1	l ei b e
+040/071	leiwe	1	l ei w e
+040/073	leiwe	1	l ei w e
+040/075	leibe	1	l ei b e
+040/077	leiwe	1	l ei w e
+040/079	lewes	1	l e w e s
+040/081	lewes	1	l e w e s
+040/083	lew	1	l e w
+040/085	leews	1	l ee w s
+040/087	lew	1	l e w
+040/089	lewes	1	l e w e s
+040/091	leu	1	l eu
+040/093	läuw	1	l äu w
+040/095	liebe	1	l ie b e
+040/097	liewes	1	l ie w e s
+040/099	liewet	1	l ie w e t
+040/101	liäwet	1	l iä w e t
+040/103	liewet	1	l ie w e t
+040/105	luwes	1	l u w e s
+040/107	liebet	1	l ie b e t
+040/109	liebet	1	l ie b e t
+040/111	lewet	1	l e w e t
+040/113	lewet	1	l e w e t
+040/115	liewet	1	l ie w e t
+040/119	liewet	1	l ie w e t
+040/121	liewet	1	l ie w e t
+040/123	liebet	1	l ie b e t
+040/125	liewet	1	l ie w e t
+040/127	liewet	1	l ie w e t
+040/129	liewet	1	l ie w e t
+040/131	liewet	1	l ie w e t
+040/133	leiwet	1	l ei w e t
+040/135	lebes	1	l e b e s
+040/137	lebes	1	l e b e s
+040/141	liebes	1	l ie b e s
+040/143	liebes	1	l ie b e s
+040/149	liebis	1	l ie b i s
+040/153	liew	1	l ie w
+040/155	lew	1	l e w
+041/031	lewe	1	l e w e
+041/033	läv	1	l ä v
+041/035	läv	1	l ä v
+041/037	läwe	1	l ä w e
+041/039	lewe	1	l e w e
+041/041	lewe	1	l e w e
+041/043	leewe	1	l ee w e
+041/045	läiwe	1	l äi w e
+041/047	lewe	1	l e w e
+041/049	leebet	1	l ee b e t
+041/051	läwe	1	l ä w e
+041/053	leiwe	1	l ei w e
+041/055	leve	1	l e v e
+041/057	lewet	1	l e w e t
+041/059	lewe	1	l e w e
+041/061	leitwet	1	l ei t w e t
+041/063	leiwe	1	l ei w e
+041/065	leiwe	1	l ei w e
+041/067	leiwe	1	l ei w e
+041/069	leiwet	1	l ei w e t
+041/071	leiwe	1	l ei w e
+041/073	leiwe	1	l ei w e
+041/075	leibet	1	l ei b e t
+041/077	leiwe	1	l ei w e
+041/079	leiwe	1	l ei w e
+041/081	lewes	1	l e w e s
+041/083	lewes	1	l e w e s
+041/085	lew	1	l e w
+041/087	lebes	1	l e b e s
+041/089	leu	1	l eu
+041/091	lew	1	l e w
+041/093	liewet	1	l ie w e t
+041/095	lev	1	l e v
+041/097	liewet	1	l ie w e t
+041/099	liewes	1	l ie w e s
+041/101	liewes	1	l ie w e s
+041/103	liewet	1	l ie w e t
+041/105	liewet	1	l ie w e t
+041/107	lievet	1	l ie v e t
+041/109	lew	1	l e w
+041/111	liebet	1	l ie b e t
+041/113	liewes	1	l ie w e s
+041/115	liewet	1	l ie w e t
+041/117	liewet	1	l ie w e t
+041/119	lievet	1	l ie v e t
+041/121	liervet	1	l ie r v e t
+041/123	liewet	1	l ie w e t
+041/125	liewet	1	l ie w e t
+041/127	liewet	1	l ie w e t
+041/129	liewet	1	l ie w e t
+041/131	liebes	1	l ie b e s
+041/133	lebes	1	l e b e s
+041/135	liebes	1	l ie b e s
+041/139	liebes	1	l ie b e s
+041/141	NA	NA	-
+041/145	liebes	1	l ie b e s
+041/147	liebes	1	l ie b e s
+041/153	lew	1	l e w
+041/155	lejf	1	l e j f
+041/157	liewet	1	l ie w e t
+041/159	liew	1	l ie w
+041/161	lew	1	l e w
+042/033	läwe	1	l ä w e
+042/035	läwe	1	l ä w e
+042/037	läw	1	l ä w
+042/039	lewe	1	l e w e
+042/041	lev	1	l e v
+042/043	lewet	1	l e w e t
+042/045	lewe	1	l e w e
+042/047	lejve	1	l e j v e
+042/051	läibet	1	l äi b e t
+042/053	leiwet	1	l ei w e t
+042/055	lewe	1	l e w e
+042/057	läiwe	1	l äi w e
+042/059	leiwe	1	l ei w e
+042/061	leiwe	1	l ei w e
+042/063	leibes	1	l ei b e s
+042/065	leiwet	1	l ei w e t
+042/067	leiwe	1	l ei w e
+042/069	leiwe	1	l ei w e
+042/071	leibe	1	l ei b e
+042/073	leiwe	1	l ei w e
+042/075	leiwes	1	l ei w e s
+042/077	leiwe	1	l ei w e
+042/079	leibes	1	l ei b e s
+042/081	leiwes	1	l ei w e s
+042/083	lewe	1	l e w e
+042/085	lewe	1	l e w e
+042/087	lew	1	l e w
+042/089	leewe	1	l ee w e
+042/091	leu	1	l eu
+042/093	lewe	1	l e w e
+042/095	lewes	1	l e w e s
+042/097	liäwet	1	l iä w e t
+042/099	liwet	1	l i w e t
+042/101	liewet	1	l ie w e t
+042/103	läwes	1	l ä w e s
+042/105	liebet	1	l ie b e t
+042/107	liewet	1	l ie w e t
+042/109	liäbet	1	l iä b e t
+042/111	liewet	1	l ie w e t
+042/113	liebet	1	l ie b e t
+042/115	liebet	1	l ie b e t
+042/117	liewet	1	l ie w e t
+042/119	liewet	1	l ie w e t
+042/121	liewet	1	l ie w e t
+042/123	liebet	1	l ie b e t
+042/125	liewet	1	l ie w e t
+042/127	liewet	1	l ie w e t
+042/129	liewes	1	l ie w e s
+042/131	liebes	1	l ie b e s
+042/133	liebes	1	l ie b e s
+042/135	lieb	1	l ie b
+042/137	NA	NA	-
+042/139	liebes	1	l ie b e s
+042/141	liebes	1	l ie b e s
+042/143	liebes	1	l ie b e s
+042/145	liebes	1	l ie b e s
+042/147	liebes	1	l ie b e s
+042/149	liebes	1	l ie b e s
+042/151	libs	1	l i b s
+042/157	läiw	1	l äi w
+042/159	lief	1	l ie f
+042/161	lew	1	l e w
+043/033	lewes	1	l e w e s
+043/035	lewe	1	l e w e
+043/037	leiwe	1	l ei w e
+043/039	laiwe	1	l ai w e
+043/041	lebe	1	l e b e
+043/043	leiw	1	l ei w
+043/045	lewe	1	l e w e
+043/047	läwe	1	l ä w e
+043/049	leeum	1	l eeu m
+043/051	leibe	1	l ei b e
+043/053	leiwet	1	l ei w e t
+043/055	leiwe	1	l ei w e
+043/057	leibet	1	l ei b e t
+043/059	leiwet	1	l ei w e t
+043/061	laiwe	1	l ai w e
+043/063	leiwe	1	l ei w e
+043/065	leiwe	1	l ei w e
+043/067	leibe	1	l ei b e
+043/069	leiwe	1	l ei w e
+043/071	laiwe	1	l ai w e
+043/073	leiwe	1	l ei w e
+043/075	leiwe	1	l ei w e
+043/077	leibe	1	l ei b e
+043/079	leibe	1	l ei b e
+043/081	leibes	1	l ei b e s
+043/083	leiwe	1	l ei w e
+043/085	leiwe	1	l ei w e
+043/087	leiw	1	l ei w
+043/089	lewe	1	l e w e
+043/091	liewes	1	l ie w e s
+043/093	liewet	1	l ie w e t
+043/095	liewes	1	l ie w e s
+043/097	liebes	1	l ie b e s
+043/099	liebes	1	l ie b e s
+043/101	liebes	1	l ie b e s
+043/103	liäwet	1	l iä w e t
+043/105	liewes	1	l ie w e s
+043/107	liewet	1	l ie w e t
+043/109	liewet	1	l ie w e t
+043/111	liebet	1	l ie b e t
+043/113	liewet	1	l ie w e t
+043/115	leiwet	1	l ei w e t
+043/117	liebet	1	l ie b e t
+043/119	liebet	1	l ie b e t
+043/121	liewet	1	l ie w e t
+043/123	liewett	1	l ie w e tt
+043/125	liewes	1	l ie w e s
+043/127	liewes	1	l ie w e s
+043/129	liebes	1	l ie b e s
+043/131	liebes	1	l ie b e s
+043/133	liebis	1	l ie b i s
+043/135	liebs	1	l ie b s
+043/137	liebes	1	l ie b e s
+043/141	liebs	1	l ie b s
+043/143	liebis	1	l ie b i s
+043/145	liebes	1	l ie b e s
+043/151	liebes	1	l ie b e s
+043/153	liebes	1	l ie b e s
+043/159	löw	1	l ö w
+043/161	lew	1	l e w
+044/033	laiwes	1	l ai w e s
+044/035	leiwe	1	l ei w e
+044/039	leiwe	1	l ei w e
+044/041	lewe	1	l e w e
+044/043	lewe	1	l e w e
+044/045	lewe	1	l e w e
+044/047	lewe	1	l e w e
+044/049	leiwe	1	l ei w e
+044/051	läuiwes	1	l äui w e s
+044/053	leuwe	1	l eu w e
+044/055	leuwe	1	l eu w e
+044/057	leiwe	1	l ei w e
+044/059	leiwe	1	l ei w e
+044/061	löwe	1	l ö w e
+044/063	leibet	1	l ei b e t
+044/065	leiwe	1	l ei w e
+044/067	leiwe	1	l ei w e
+044/069	leiwe	1	l ei w e
+044/071	leiwet	1	l ei w e t
+044/073	leiwes	1	l ei w e s
+044/075	leiwe	1	l ei w e
+044/077	leiwes	1	l ei w e s
+044/079	leibe	1	l ei b e
+044/081	leibes	1	l ei b e s
+044/083	leiwe	1	l ei w e
+044/085	leibes	1	l ei b e s
+044/087	liewes	1	l ie w e s
+044/089	lewes	1	l e w e s
+044/091	lieves	1	l ie v e s
+044/093	liewes	1	l ie w e s
+044/095	lewes	1	l e w e s
+044/097	liwes	1	l i w e s
+044/099	liewes	1	l ie w e s
+044/101	liäbes	1	l iä b e s
+044/103	leiw	1	l ei w
+044/105	liewet	1	l ie w e t
+044/107	liewes	1	l ie w e s
+044/109	liewes	1	l ie w e s
+044/111	liäwet	1	l iä w e t
+044/113	liebet	1	l ie b e t
+044/115	liebet	1	l ie b e t
+044/117	liewet	1	l ie w e t
+044/119	liewes	1	l ie w e s
+044/121	liewes	1	l ie w e s
+044/123	liewes	1	l ie w e s
+044/125	liewes	1	l ie w e s
+044/127	liewes	1	l ie w e s
+044/129	liebes	1	l ie b e s
+044/131	liebes	1	l ie b e s
+044/133	liebes	1	l ie b e s
+044/135	liebes	1	l ie b e s
+044/137	liebis	1	l ie b i s
+044/141	liebes	1	l ie b e s
+044/143	liebes	1	l ie b e s
+044/145	liebes	1	l ie b e s
+044/149	liebs	1	l ie b s
+044/151	leäbes	1	l eä b e s
+044/153	liebis	1	l ie b i s
+045/033	läwe	1	l ä w e
+045/035	leiwe	1	l ei w e
+045/037	leiwe	1	l ei w e
+045/039	leiwe	1	l ei w e
+045/041	läwes	1	l ä w e s
+045/043	lheiwe	1	l h ei w e
+045/045	leewe	1	l ee w e
+045/047	leiwe	1	l ei w e
+045/049	leiwet	1	l ei w e t
+045/051	leuwe	1	l eu w e
+045/053	läibe	1	l äi b e
+045/055	leuwe	1	l eu w e
+045/057	laiwe	1	l ai w e
+045/059	leuwe	1	l eu w e
+045/061	leiwe	1	l ei w e
+045/063	leiwet	1	l ei w e t
+045/065	leibet	1	l ei b e t
+045/067	laiwe	1	l ai w e
+045/069	leiwe	1	l ei w e
+045/071	leiwe	1	l ei w e
+045/073	leiwe	1	l ei w e
+045/075	leiwe	1	l ei w e
+045/077	leiwe	1	l ei w e
+045/079	leibes	1	l ei b e s
+045/081	liwes	1	l i w e s
+045/083	leiwes	1	l ei w e s
+045/085	liwes	1	l i w e s
+045/087	leibe	1	l ei b e
+045/089	lewes	1	l e w e s
+045/091	liewes	1	l ie w e s
+045/093	liewes	1	l ie w e s
+045/095	liewes	1	l ie w e s
+045/097	liewes	1	l ie w e s
+045/099	liewet	1	l ie w e t
+045/101	liewes	1	l ie w e s
+045/103	liewet	1	l ie w e t
+045/105	liäwet	1	l iä w e t
+045/107	liewes	1	l ie w e s
+045/109	liewet	1	l ie w e t
+045/111	liewet	1	l ie w e t
+045/113	liebet	1	l ie b e t
+045/115	liebes	1	l ie b e s
+045/117	liebet	1	l ie b e t
+045/119	liebwes	1	l ie b w e s
+045/121	liebes	1	l ie b e s
+045/123	liewes	1	l ie w e s
+045/125	liewes	1	l ie w e s
+045/127	liebes	1	l ie b e s
+045/129	liebes	1	l ie b e s
+045/131	liebes	1	l ie b e s
+045/133	liebes	1	l ie b e s
+045/135	liebes	1	l ie b e s
+045/137	liebes	1	l ie b e s
+045/139	liebes	1	l ie b e s
+045/141	liebes	1	l ie b e s
+045/143	liebes	1	l ie b e s
+045/145	liebes	1	l ie b e s
+045/155	liebes	1	l ie b e s
+046/031	lewe	1	l e w e
+046/033	leiwe	1	l ei w e
+046/035	leiwe	1	l ei w e
+046/037	leiwe	1	l ei w e
+046/039	leiwe	1	l ei w e
+046/041	laive	1	l ai v e
+046/043	lewe	1	l e w e
+046/045	leib	1	l ei b
+046/047	leiwes	1	l ei w e s
+046/049	loewe	1	l oe w e
+046/051	laiwe	1	l ai w e
+046/053	leiwe	1	l ei w e
+046/055	läube	1	l äu b e
+046/057	leiwe	1	l ei w e
+046/059	laiwe	1	l ai w e
+046/061	leibe	1	l ei b e
+046/063	leiwe	1	l ei w e
+046/065	leiwe	1	l ei w e
+046/067	leiwe	1	l ei w e
+046/069	leiwe	1	l ei w e
+046/071	leiwe	1	l ei w e
+046/073	leiwe	1	l ei w e
+046/075	leiwe	1	l ei w e
+046/077	leiwe	1	l ei w e
+046/079	leiwe	1	l ei w e
+046/081	leives	1	l ei v e s
+046/083	leiwes	1	l ei w e s
+046/085	leiwes	1	l ei w e s
+046/087	liewes	1	l ie w e s
+046/089	liewes	1	l ie w e s
+046/091	liebes	1	l ie b e s
+046/093	lewes	1	l e w e s
+046/095	liebes	1	l ie b e s
+046/097	liewes	1	l ie w e s
+046/099	liewet	1	l ie w e t
+046/101	liebet	1	l ie b e t
+046/103	liwet	1	l i w e t
+046/105	liebet	1	l ie b e t
+046/107	lieewet	1	l iee w e t
+046/109	liewet	1	l ie w e t
+046/111	liebet	1	l ie b e t
+046/113	liebet	1	l ie b e t
+046/115	liebes	1	l ie b e s
+046/117	liebes	1	l ie b e s
+046/119	liebes	1	l ie b e s
+046/121	liewes	1	l ie w e s
+046/123	liebes	1	l ie b e s
+046/125	liebes	1	l ie b e s
+046/127	liebes	1	l ie b e s
+046/129	liebes	1	l ie b e s
+046/131	liebes	1	l ie b e s
+046/133	liebes	1	l ie b e s
+046/135	liebes	1	l ie b e s
+046/137	liebis	1	l ie b i s
+046/139	liebes	1	l ie b e s
+046/141	liebes	1	l ie b e s
+046/143	liebs	1	l ie b s
+046/155	liebes	1	l ie b e s
+047/031	lewe	1	l e w e
+047/033	lewe	1	l e w e
+047/035	leiwe	1	l ei w e
+047/037	laiwe	1	l ai w e
+047/039	laiwe	1	l ai w e
+047/041	laiwe	1	l ai w e
+047/043	leiwe	1	l ei w e
+047/045	laiwe	1	l ai w e
+047/047	laiwe	1	l ai w e
+047/049	leiwes	1	l ei w e s
+047/051	läuwe	1	l äu w e
+047/053	löiwe	1	l öi w e
+047/055	leuwe	1	l eu w e
+047/057	leuiwe	1	l eui w e
+047/059	leif	1	l ei f
+047/061	leiwe	1	l ei w e
+047/063	leiwe	1	l ei w e
+047/065	leiwe	1	l ei w e
+047/067	laiwe	1	l ai w e
+047/069	leiwe	1	l ei w e
+047/071	leiwe	1	l ei w e
+047/073	laiwe	1	l ai w e
+047/075	läiwe	1	l äi w e
+047/077	leiwe	1	l ei w e
+047/079	leiwes	1	l ei w e s
+047/081	leibes	1	l ei b e s
+047/083	liewes	1	l ie w e s
+047/085	liibes	1	l ii b e s
+047/087	liiwes	1	l ii w e s
+047/089	liebes	1	l ie b e s
+047/091	leiwes	1	l ei w e s
+047/093	liewes	1	l ie w e s
+047/095	liebes	1	l ie b e s
+047/097	liewes	1	l ie w e s
+047/099	liewet	1	l ie w e t
+047/101	liewit	1	l ie w i t
+047/103	liebet	1	l ie b e t
+047/105	liebät	1	l ie b ä t
+047/107	liewes	1	l ie w e s
+047/109	liewet	1	l ie w e t
+047/111	liebet	1	l ie b e t
+047/113	liwet	1	l i w e t
+047/115	liebes	1	l ie b e s
+047/117	liebis	1	l ie b i s
+047/119	liebes	1	l ie b e s
+047/123	liebes	1	l ie b e s
+047/125	liewes	1	l ie w e s
+047/127	liebes	1	l ie b e s
+047/129	liebes	1	l ie b e s
+047/131	liebes	1	l ie b e s
+047/133	liebes	1	l ie b e s
+047/135	liebes	1	l ie b e s
+047/137	leibes	1	l ei b e s
+047/139	liebes	1	l ie b e s
+047/141	liebes	1	l ie b e s
+047/147	leibs	1	l ei b s
+047/149	liebis	1	l ie b i s
+047/151	liebes	1	l ie b e s
+047/159	liebes	1	l ie b e s
+048/021	lief	1	l ie f
+048/023	liev	1	l ie v
+048/027	leve	1	l e v e
+048/029	lewe	1	l e w e
+048/031	lewes	1	l e w e s
+048/033	lewe	1	l e w e
+048/035	leiwe	1	l ei w e
+048/037	laiwe	1	l ai w e
+048/039	laiwe	1	l ai w e
+048/041	leiwe	1	l ei w e
+048/045	liawe	1	l ia w e
+048/047	läiwe	1	l äi w e
+048/049	läiwe	1	l äi w e
+048/051	leiwe	1	l ei w e
+048/053	leuwet	1	l eu w e t
+048/055	läuwe	1	l äu w e
+048/057	leuwe	1	l eu w e
+048/059	leuwe	1	l eu w e
+048/061	leiwe	1	l ei w e
+048/063	leiwe	1	l ei w e
+048/065	leiwe	1	l ei w e
+048/067	leiwe	1	l ei w e
+048/069	leiwe	1	l ei w e
+048/071	liewes	1	l ie w e s
+048/073	leiwe	1	l ei w e
+048/075	leiwe	1	l ei w e
+048/077	leiwes	1	l ei w e s
+048/079	leiwe	1	l ei w e
+048/081	leiwes	1	l ei w e s
+048/083	leiwes	1	l ei w e s
+048/085	liewes	1	l ie w e s
+048/087	liewes	1	l ie w e s
+048/089	liewes	1	l ie w e s
+048/091	liebes	1	l ie b e s
+048/093	liebes	1	l ie b e s
+048/095	liebes	1	l ie b e s
+048/099	liebet	1	l ie b e t
+048/101	liebet	1	l ie b e t
+048/103	liewet	1	l ie w e t
+048/105	liewet	1	l ie w e t
+048/107	liebet	1	l ie b e t
+048/109	liwet	1	l i w e t
+048/111	liiäwet	1	l iiä w e t
+048/113	liebes	1	l ie b e s
+048/115	liebes	1	l ie b e s
+048/119	liebes	1	l ie b e s
+048/123	liebes	1	l ie b e s
+048/125	liewes	1	l ie w e s
+048/127	liebes	1	l ie b e s
+048/129	liebes	1	l ie b e s
+048/131	liebes	1	l ie b e s
+048/133	liebs	1	l ie b s
+048/135	liebes	1	l ie b e s
+048/137	liebes	1	l ie b e s
+048/139	liebes	1	l ie b e s
+048/141	liebs	1	l ie b s
+048/143	liebs	1	l ie b s
+048/145	lieb	1	l ie b
+048/147	liebs	1	l ie b s
+048/153	liebes	1	l ie b e s
+048/157	liebis	1	l ie b i s
+048/159	liebes	1	l ie b e s
+049/019	lief	1	l ie f
+049/021	liev	1	l ie v
+049/023	lieve	1	l ie v e
+049/025	lewe	1	l e w e
+049/027	leewe	1	l ee w e
+049/029	leev	1	l ee v
+049/031	leiwe	1	l ei w e
+049/033	leiwe	1	l ei w e
+049/035	laiwe	1	l ai w e
+049/037	laiwe	1	l ai w e
+049/039	laiwe	1	l ai w e
+049/041	laiwe	1	l ai w e
+049/043	leiwe	1	l ei w e
+049/045	läiwe	1	l äi w e
+049/047	läöwe	1	l äö w e
+049/049	läiwe	1	l äi w e
+049/051	laiwe	1	l ai w e
+049/053	laiwe	1	l ai w e
+049/055	läuv	1	l äu v
+049/057	leuwe	1	l eu w e
+049/059	laiwe	1	l ai w e
+049/061	laiwe	1	l ai w e
+049/063	leiwe	1	l ei w e
+049/065	leiwe	1	l ei w e
+049/067	leiwe	1	l ei w e
+049/069	leiwe	1	l ei w e
+049/071	laiwe	1	l ai w e
+049/073	liewes	1	l ie w e s
+049/077	leibe	1	l ei b e
+049/079	liebes	1	l ie b e s
+049/081	leiwes	1	l ei w e s
+049/083	leiwes	1	l ei w e s
+049/085	leibes	1	l ei b e s
+049/087	liebes	1	l ie b e s
+049/089	liewet	1	l ie w e t
+049/091	liewes	1	l ie w e s
+049/093	liebes	1	l ie b e s
+049/095	liebes	1	l ie b e s
+049/097	liebes	1	l ie b e s
+049/099	liebes	1	l ie b e s
+049/101	liebes	1	l ie b e s
+049/103	liebes	1	l ie b e s
+049/105	liebet	1	l ie b e t
+049/107	liewett	1	l ie w e tt
+049/109	liewet	1	l ie w e t
+049/111	lievet	1	l ie v e t
+049/113	liebet	1	l ie b e t
+049/115	liebes	1	l ie b e s
+049/117	liebes	1	l ie b e s
+049/119	liebes	1	l ie b e s
+049/121	liebes	1	l ie b e s
+049/123	liebes	1	l ie b e s
+049/125	liebes	1	l ie b e s
+049/127	liebes	1	l ie b e s
+049/129	liebes	1	l ie b e s
+049/131	liebes	1	l ie b e s
+049/133	liebes	1	l ie b e s
+049/135	liebes	1	l ie b e s
+049/137	liebes	1	l ie b e s
+049/139	liebes	1	l ie b e s
+049/141	lieb	1	l ie b
+049/143	lieb	1	l ie b
+049/145	liebs	1	l ie b s
+049/147	liebet	1	l ie b e t
+049/151	liebis	1	l ie b i s
+050/021	liev	1	l ie v
+050/023	lieb	1	l ie b
+050/025	liev	1	l ie v
+050/027	lief	1	l ie f
+050/029	liewes	1	l ie w e s
+050/031	liwe	1	l i w e
+050/033	leiw	1	l ei w
+050/035	leiv	1	l ei v
+050/037	laiw	1	l ai w
+050/039	leiwe	1	l ei w e
+050/041	leive	1	l ei v e
+050/043	leiwe	1	l ei w e
+050/047	läiwe	1	l äi w e
+050/049	laiwe	1	l ai w e
+050/051	laiwe	1	l ai w e
+050/053	leiwe	1	l ei w e
+050/055	leiwe	1	l ei w e
+050/057	lieiwe	1	l iei w e
+050/059	leiwe	1	l ei w e
+050/061	laiw	1	l ai w
+050/063	leiwe	1	l ei w e
+050/065	leiwe	1	l ei w e
+050/067	luiwe	1	l ui w e
+050/069	leiwe	1	l ei w e
+050/071	leiwe	1	l ei w e
+050/073	leuwe	1	l eu w e
+050/075	liewes	1	l ie w e s
+050/077	leiwes	1	l ei w e s
+050/079	liewes	1	l ie w e s
+050/081	liewes	1	l ie w e s
+050/083	liiwes	1	l ii w e s
+050/085	liebes	1	l ie b e s
+050/087	liebes	1	l ie b e s
+050/089	liewes	1	l ie w e s
+050/091	liebes	1	l ie b e s
+050/093	liebes	1	l ie b e s
+050/095	liebes	1	l ie b e s
+050/097	liebes	1	l ie b e s
+050/099	liewes	1	l ie w e s
+050/101	liebes	1	l ie b e s
+050/103	libes	1	l i b e s
+050/105	liebes	1	l ie b e s
+050/107	liebet	1	l ie b e t
+050/109	liebet	1	l ie b e t
+050/111	liewet	1	l ie w e t
+050/113	liewes	1	l ie w e s
+050/115	NA	NA	-
+050/117	liebes	1	l ie b e s
+050/119	liebes	1	l ie b e s
+050/121	liebes	1	l ie b e s
+050/125	liebes	1	l ie b e s
+050/127	liebes	1	l ie b e s
+050/129	liebs	1	l ie b s
+050/131	gud	1	g u d
+050/133	liebes	1	l ie b e s
+050/135	liebes	1	l ie b e s
+050/137	lieb	1	l ie b
+050/139	liebs	1	l ie b s
+050/141	lieb	1	l ie b
+050/143	liebes	1	l ie b e s
+050/145	liebes	1	l ie b e s
+050/147	liebs	1	l ie b s
+050/149	liebes	1	l ie b e s
+050/151	liebes	1	l ie b e s
+050/155	NA	NA	-
+050/157	leibes	1	l ei b e s
+050/159	liebes	1	l ie b e s
+050/161	liebes	1	l ie b e s
+051/023	liev	1	l ie v
+051/025	liew	1	l ie w
+051/027	liew	1	l ie w
+051/029	liew	1	l ie w
+051/031	laives	1	l ai v e s
+051/033	laiwe	1	l ai w e
+051/035	laiv	1	l ai v
+051/037	leiwe	1	l ei w e
+051/039	laiwe	1	l ai w e
+051/041	laiwe	1	l ai w e
+051/043	leiwes	1	l ei w e s
+051/045	läiwe	1	l äi w e
+051/047	laiwe	1	l ai w e
+051/049	leuwe	1	l eu w e
+051/051	laiwe	1	l ai w e
+051/053	leiiwe	1	l eii w e
+051/055	leiwe	1	l ei w e
+051/057	leiwe	1	l ei w e
+051/059	leif	1	l ei f
+051/061	leiwe	1	l ei w e
+051/063	laiwe	1	l ai w e
+051/065	leiwe	1	l ei w e
+051/067	leiwe	1	l ei w e
+051/069	leiwe	1	l ei w e
+051/071	leiwe	1	l ei w e
+051/073	leiwe	1	l ei w e
+051/075	liebes	1	l ie b e s
+051/077	leiwe	1	l ei w e
+051/079	liebes	1	l ie b e s
+051/081	liebes	1	l ie b e s
+051/083	lebes	1	l e b e s
+051/085	liebes	1	l ie b e s
+051/087	liiwes	1	l ii w e s
+051/089	liebes	1	l ie b e s
+051/091	liebes	1	l ie b e s
+051/093	liewes	1	l ie w e s
+051/095	liewes	1	l ie w e s
+051/097	liebes	1	l ie b e s
+051/099	liebes	1	l ie b e s
+051/101	liewes	1	l ie w e s
+051/103	liebes	1	l ie b e s
+051/105	liebes	1	l ie b e s
+051/107	libes	1	l i b e s
+051/109	liebes	1	l ie b e s
+051/111	liebes	1	l ie b e s
+051/113	liebs	1	l ie b s
+051/115	liebes	1	l ie b e s
+051/117	liebes	1	l ie b e s
+051/119	liebes	1	l ie b e s
+051/121	liebes	1	l ie b e s
+051/123	liebes	1	l ie b e s
+051/125	liebes	1	l ie b e s
+051/127	liebes	1	l ie b e s
+051/129	liebes	1	l ie b e s
+051/131	liebs	1	l ie b s
+051/133	liebes	1	l ie b e s
+051/135	lieb	1	l ie b
+051/137	liebs	1	l ie b s
+051/139	liebs	1	l ie b s
+051/141	liebs	1	l ie b s
+051/143	liebes	1	l ie b e s
+051/145	liebs	1	l ie b s
+051/147	liebs	1	l ie b s
+051/149	liebes	1	l ie b e s
+051/151	liebes	1	l ie b e s
+051/153	liebes	1	l ie b e s
+051/155	liebes	1	l ie b e s
+051/157	liebes	1	l ie b e s
+052/023	liev	1	l ie v
+052/025	liev	1	l ie v
+052/027	liw	1	l i w
+052/029	liv	1	l i v
+052/031	leiwe	1	l ei w e
+052/033	leiw	1	l ei w
+052/035	leiv	1	l ei v
+052/037	laiwe	1	l ai w e
+052/039	laiwe	1	l ai w e
+052/041	leiwe	1	l ei w e
+052/043	laiwe	1	l ai w e
+052/045	leiwe	1	l ei w e
+052/047	laiwe	1	l ai w e
+052/049	leiwe	1	l ei w e
+052/051	laiwe	1	l ai w e
+052/053	leif	1	l ei f
+052/057	leiwe	1	l ei w e
+052/059	lewe	1	l e w e
+052/061	lewe	1	l e w e
+052/063	leiwe	1	l ei w e
+052/065	leiwe	1	l ei w e
+052/067	leiwe	1	l ei w e
+052/069	leiwe	1	l ei w e
+052/071	leiwe	1	l ei w e
+052/073	leiwe	1	l ei w e
+052/075	libbes	1	l i bb e s
+052/077	lihbes	1	l ih b e s
+052/079	leewes	1	l ee w e s
+052/081	liebes	1	l ie b e s
+052/083	liebes	1	l ie b e s
+052/085	liebes	1	l ie b e s
+052/087	liewes	1	l ie w e s
+052/089	liewes	1	l ie w e s
+052/091	liebes	1	l ie b e s
+052/093	liebes	1	l ie b e s
+052/095	liewes	1	l ie w e s
+052/097	liewes	1	l ie w e s
+052/099	liebes	1	l ie b e s
+052/101	liebes	1	l ie b e s
+052/103	liebes	1	l ie b e s
+052/105	liebes	1	l ie b e s
+052/107	liebes	1	l ie b e s
+052/109	liebes	1	l ie b e s
+052/111	liewes	1	l ie w e s
+052/113	liebes	1	l ie b e s
+052/115	liebes	1	l ie b e s
+052/117	liebes	1	l ie b e s
+052/121	liebes	1	l ie b e s
+052/123	liebes	1	l ie b e s
+052/125	liebes	1	l ie b e s
+052/127	liebes	1	l ie b e s
+052/129	liebes	1	l ie b e s
+052/131	liebis	1	l ie b i s
+052/133	liebs	1	l ie b s
+052/135	liebes	1	l ie b e s
+052/137	liebes	1	l ie b e s
+052/139	liebes	1	l ie b e s
+052/141	liebs	1	l ie b s
+052/143	lieb	1	l ie b
+052/145	liebes	1	l ie b e s
+052/147	liebes	1	l ie b e s
+052/149	liebes	1	l ie b e s
+052/151	liebes	1	l ie b e s
+052/153	liebes	1	l ie b e s
+052/155	liebes	1	l ie b e s
+052/157	liebes	1	l ie b e s
+052/159	liebes	1	l ie b e s
+053/023	lief	1	l ie f
+053/025	liev	1	l ie v
+053/027	lief	1	l ie f
+053/029	liif	1	l ii f
+053/031	läiv	1	l äi v
+053/033	laiwe	1	l ai w e
+053/035	laiwe	1	l ai w e
+053/037	leiwe	1	l ei w e
+053/039	leiwe	1	l ei w e
+053/041	leiwe	1	l ei w e
+053/043	leiwe	1	l ei w e
+053/045	leiwe	1	l ei w e
+053/047	laiwe	1	l ai w e
+053/049	laiwe	1	l ai w e
+053/051	laibe	1	l ai b e
+053/053	läibe	1	l äi b e
+053/055	liäwe	1	l iä w e
+053/057	liewe	1	l ie w e
+053/059	lewe	1	l e w e
+053/061	leewes	1	l ee w e s
+053/063	leiwe	1	l ei w e
+053/065	leiwe	1	l ei w e
+053/067	leiwe	1	l ei w e
+053/069	leiwe	1	l ei w e
+053/071	leiwe	1	l ei w e
+053/073	labes	1	l a b e s
+053/075	liewes	1	l ie w e s
+053/077	liewes	1	l ie w e s
+053/079	liewes	1	l ie w e s
+053/081	liebes	1	l ie b e s
+053/083	liebes	1	l ie b e s
+053/085	liebes	1	l ie b e s
+053/087	liewes	1	l ie w e s
+053/089	liewes	1	l ie w e s
+053/091	liebes	1	l ie b e s
+053/093	liebes	1	l ie b e s
+053/095	liebes	1	l ie b e s
+053/097	liebes	1	l ie b e s
+053/099	liewes	1	l ie w e s
+053/101	liewes	1	l ie w e s
+053/103	liebes	1	l ie b e s
+053/105	liebes	1	l ie b e s
+053/107	liebes	1	l ie b e s
+053/109	liebes	1	l ie b e s
+053/111	liebes	1	l ie b e s
+053/113	liebes	1	l ie b e s
+053/115	liebes	1	l ie b e s
+053/121	liebes	1	l ie b e s
+053/123	liebes	1	l ie b e s
+053/125	liebes	1	l ie b e s
+053/127	liebes	1	l ie b e s
+053/129	liebs	1	l ie b s
+053/131	liebes	1	l ie b e s
+053/133	liebes	1	l ie b e s
+053/135	liebes	1	l ie b e s
+053/137	liebes	1	l ie b e s
+053/139	liebes	1	l ie b e s
+053/141	liebes	1	l ie b e s
+053/143	liebes	1	l ie b e s
+053/145	liebes	1	l ie b e s
+053/147	liebes	1	l ie b e s
+053/149	liebes	1	l ie b e s
+053/151	liebes	1	l ie b e s
+053/153	liebes	1	l ie b e s
+053/155	liebes	1	l ie b e s
+053/157	liebes	1	l ie b e s
+054/023	lev	1	l e v
+054/025	liev	1	l ie v
+054/027	leiv	1	l ei v
+054/029	lew	1	l e w
+054/031	lev	1	l e v
+054/033	lew	1	l e w
+054/035	leiv	1	l ei v
+054/037	leiwe	1	l ei w e
+054/039	laiwe	1	l ai w e
+054/041	leiwe	1	l ei w e
+054/043	laiwe	1	l ai w e
+054/045	laiwet	1	l ai w e t
+054/047	laiv	1	l ai v
+054/049	laiwe	1	l ai w e
+054/051	laiwe	1	l ai w e
+054/053	läibe	1	l äi b e
+054/055	lewe	1	l e w e
+054/057	lewe	1	l e w e
+054/059	lewe	1	l e w e
+054/061	lebes	1	l e b e s
+054/063	liebes	1	l ie b e s
+054/065	leif	1	l ei f
+054/067	libes	1	l i b e s
+054/069	liebes	1	l ie b e s
+054/071	lieves	1	l ie v e s
+054/073	liewes	1	l ie w e s
+054/075	liiws	1	l ii w s
+054/077	liewes	1	l ie w e s
+054/079	liebes	1	l ie b e s
+054/081	liebes	1	l ie b e s
+054/083	liebes	1	l ie b e s
+054/085	liebes	1	l ie b e s
+054/087	liebes	1	l ie b e s
+054/089	liebes	1	l ie b e s
+054/091	liebes	1	l ie b e s
+054/093	liewes	1	l ie w e s
+054/095	liebes	1	l ie b e s
+054/097	liebes	1	l ie b e s
+054/099	liebes	1	l ie b e s
+054/101	liebes	1	l ie b e s
+054/103	liebes	1	l ie b e s
+054/105	liebes	1	l ie b e s
+054/107	liäbes	1	l iä b e s
+054/109	liebes	1	l ie b e s
+054/111	liebes	1	l ie b e s
+054/113	liebes	1	l ie b e s
+054/115	liebes	1	l ie b e s
+054/117	liebes	1	l ie b e s
+054/119	liebes	1	l ie b e s
+054/121	liebes	1	l ie b e s
+054/123	liebes	1	l ie b e s
+054/125	liebes	1	l ie b e s
+054/127	liebes	1	l ie b e s
+054/131	liebes	1	l ie b e s
+054/133	liebes	1	l ie b e s
+054/135	liebs	1	l ie b s
+054/137	liebes	1	l ie b e s
+054/139	liebs	1	l ie b s
+054/141	liebes	1	l ie b e s
+054/143	leibes	1	l ei b e s
+054/145	liebes	1	l ie b e s
+054/147	liebes	1	l ie b e s
+054/149	liebs	1	l ie b s
+054/151	liebes	1	l ie b e s
+054/153	liebes	1	l ie b e s
+054/155	liebes	1	l ie b e s
+054/157	liebes	1	l ie b e s
+054/159	liebes	1	l ie b e s
+054/161	liebes	1	l ie b e s
+054/163	liebes	1	l ie b e s
+055/023	lev	1	l e v
+055/025	lev	1	l e v
+055/027	levv	1	l e vv
+055/029	leef	1	l ee f
+055/031	lief	1	l ie f
+055/033	lew	1	l e w
+055/035	laiv	1	l ai v
+055/037	leiwe	1	l ei w e
+055/039	leiwe	1	l ei w e
+055/041	leiwet	1	l ei w e t
+055/043	leiw	1	l ei w
+055/045	laiwe	1	l ai w e
+055/047	laiwe	1	l ai w e
+055/049	laiwe	1	l ai w e
+055/051	lewe	1	l e w e
+055/053	lewe	1	l e w e
+055/055	lev	1	l e v
+055/057	leewe	1	l ee w e
+055/059	löwe	1	l ö w e
+055/061	liewes	1	l ie w e s
+055/063	liewes	1	l ie w e s
+055/065	liebes	1	l ie b e s
+055/067	lewes	1	l e w e s
+055/069	liebes	1	l ie b e s
+055/071	liebes	1	l ie b e s
+055/073	liabes	1	l ia b e s
+055/075	leibes	1	l ei b e s
+055/077	lebes	1	l e b e s
+055/079	leibes	1	l ei b e s
+055/081	liebes	1	l ie b e s
+055/083	leiwes	1	l ei w e s
+055/085	liebes	1	l ie b e s
+055/087	liebes	1	l ie b e s
+055/089	liebes	1	l ie b e s
+055/091	liebes	1	l ie b e s
+055/093	liewes	1	l ie w e s
+055/095	liewes	1	l ie w e s
+055/097	liebes	1	l ie b e s
+055/099	liebes	1	l ie b e s
+055/101	liebes	1	l ie b e s
+055/103	liebes	1	l ie b e s
+055/105	liebes	1	l ie b e s
+055/107	liebes	1	l ie b e s
+055/109	liebes	1	l ie b e s
+055/111	liebes	1	l ie b e s
+055/113	liebes	1	l ie b e s
+055/115	liebis	1	l ie b i s
+055/117	liebes	1	l ie b e s
+055/119	liebes	1	l ie b e s
+055/123	liebes	1	l ie b e s
+055/125	liebes	1	l ie b e s
+055/127	liebes	1	l ie b e s
+055/131	liebes	1	l ie b e s
+055/133	libes	1	l i b e s
+055/135	liebes	1	l ie b e s
+055/137	liebs	1	l ie b s
+055/139	liebes	1	l ie b e s
+055/141	liebes	1	l ie b e s
+055/143	liebes	1	l ie b e s
+055/145	liebes	1	l ie b e s
+055/147	libes	1	l i b e s
+055/149	NA	NA	-
+055/151	liebes	1	l ie b e s
+055/153	liebes	1	l ie b e s
+055/155	libes	1	l i b e s
+055/157	liebes	1	l ie b e s
+055/159	liebes	1	l ie b e s
+055/161	liebis	1	l ie b i s
+056/021	lev	1	l e v
+056/023	lew	1	l e w
+056/025	leev	1	l ee v
+056/027	lev	1	l e v
+056/029	leev	1	l ee v
+056/031	leev	1	l ee v
+056/033	lief	1	l ie f
+056/035	leiv	1	l ei v
+056/037	leiwe	1	l ei w e
+056/039	leiwe	1	l ei w e
+056/041	lueiwe	1	l uei w e
+056/043	laiwe	1	l ai w e
+056/045	leiwe	1	l ei w e
+056/047	laiwe	1	l ai w e
+056/049	laiwe	1	l ai w e
+056/051	lauewe	1	l aue w e
+056/053	lewe	1	l e w e
+056/055	lewe	1	l e w e
+056/057	lewes	1	l e w e s
+056/059	liewes	1	l ie w e s
+056/061	liebes	1	l ie b e s
+056/063	liewes	1	l ie w e s
+056/065	liewes	1	l ie w e s
+056/067	libes	1	l i b e s
+056/069	lebes	1	l e b e s
+056/071	leibes	1	l ei b e s
+056/073	liebes	1	l ie b e s
+056/075	laibes	1	l ai b e s
+056/077	liäbs	1	l iä b s
+056/079	lieebes	1	l iee b e s
+056/081	leibes	1	l ei b e s
+056/083	liewes	1	l ie w e s
+056/085	liewes	1	l ie w e s
+056/087	liebes	1	l ie b e s
+056/089	liewes	1	l ie w e s
+056/091	liewes	1	l ie w e s
+056/093	liewes	1	l ie w e s
+056/095	liewes	1	l ie w e s
+056/097	liebes	1	l ie b e s
+056/099	liebes	1	l ie b e s
+056/101	liebes	1	l ie b e s
+056/103	liwes	1	l i w e s
+056/105	liebes	1	l ie b e s
+056/107	liebes	1	l ie b e s
+056/109	liebes	1	l ie b e s
+056/111	liebes	1	l ie b e s
+056/113	liibes	1	l ii b e s
+056/115	liebes	1	l ie b e s
+056/117	liebs	1	l ie b s
+056/121	liebes	1	l ie b e s
+056/123	liebes	1	l ie b e s
+056/125	liebes	1	l ie b e s
+056/127	liebes	1	l ie b e s
+056/129	liebes	1	l ie b e s
+056/131	liebes	1	l ie b e s
+056/133	liebs	1	l ie b s
+056/135	liebes	1	l ie b e s
+056/137	liebes	1	l ie b e s
+056/139	liebes	1	l ie b e s
+056/141	liebes	1	l ie b e s
+056/143	liebes	1	l ie b e s
+056/145	liebis	1	l ie b i s
+056/147	liebes	1	l ie b e s
+056/149	liebes	1	l ie b e s
+056/151	liebes	1	l ie b e s
+056/153	liebes	1	l ie b e s
+056/155	leiebes	1	l eie b e s
+056/157	liebes	1	l ie b e s
+056/159	liebes	1	l ie b e s
+056/161	liebes	1	l ie b e s
+057/021	lew	1	l e w
+057/023	lev	1	l e v
+057/025	lehv	1	l eh v
+057/027	leev	1	l ee v
+057/029	lef	1	l e f
+057/031	lief	1	l ie f
+057/033	liv	1	l i v
+057/035	lehw	1	l eh w
+057/037	leiwe	1	l ei w e
+057/039	leiwe	1	l ei w e
+057/041	leiwe	1	l ei w e
+057/043	laiwe	1	l ai w e
+057/045	leuw	1	l eu w
+057/047	laiwe	1	l ai w e
+057/049	laiwe	1	l ai w e
+057/051	liewes	1	l ie w e s
+057/053	lebe	1	l e b e
+057/055	liewes	1	l ie w e s
+057/057	liewes	1	l ie w e s
+057/059	liebes	1	l ie b e s
+057/061	liebes	1	l ie b e s
+057/063	liewes	1	l ie w e s
+057/065	liewes	1	l ie w e s
+057/067	liwes	1	l i w e s
+057/069	lewes	1	l e w e s
+057/071	liebes	1	l ie b e s
+057/073	liewes	1	l ie w e s
+057/075	libes	1	l i b e s
+057/077	liebes	1	l ie b e s
+057/079	liewes	1	l ie w e s
+057/081	liäbes	1	l iä b e s
+057/083	lehiwes	1	l e h i w e s
+057/085	liebes	1	l ie b e s
+057/087	liebes	1	l ie b e s
+057/089	liebes	1	l ie b e s
+057/091	liebes	1	l ie b e s
+057/093	liews	1	l ie w s
+057/095	liebis	1	l ie b i s
+057/097	liewes	1	l ie w e s
+057/099	liebes	1	l ie b e s
+057/101	liebes	1	l ie b e s
+057/103	liebes	1	l ie b e s
+057/105	liebes	1	l ie b e s
+057/107	lieb	1	l ie b
+057/109	liebes	1	l ie b e s
+057/111	liebes	1	l ie b e s
+057/113	liebes	1	l ie b e s
+057/115	liebes	1	l ie b e s
+057/117	liebes	1	l ie b e s
+057/119	liebes	1	l ie b e s
+057/121	liebes	1	l ie b e s
+057/123	NA	NA	-
+057/125	liebes	1	l ie b e s
+057/127	liebes	1	l ie b e s
+057/129	liebes	1	l ie b e s
+057/131	liebes	1	l ie b e s
+057/133	liebs	1	l ie b s
+057/135	liebes	1	l ie b e s
+057/137	liebes	1	l ie b e s
+057/139	liebes	1	l ie b e s
+057/141	liebes	1	l ie b e s
+057/143	liebes	1	l ie b e s
+057/145	liebes	1	l ie b e s
+057/147	liebes	1	l ie b e s
+057/149	liebes	1	l ie b e s
+057/151	liebes	1	l ie b e s
+057/153	liebes	1	l ie b e s
+057/155	liebes	1	l ie b e s
+057/157	liebes	1	l ie b e s
+057/159	liebes	1	l ie b e s
+057/161	liebes	1	l ie b e s
+058/019	leev	1	l ee v
+058/021	leev	1	l ee v
+058/023	liev	1	l ie v
+058/025	lev	1	l e v
+058/027	lev	1	l e v
+058/029	leev	1	l ee v
+058/031	leev	1	l ee v
+058/033	lef	1	l e f
+058/035	leev	1	l ee v
+058/037	lev	1	l e v
+058/039	leiwe	1	l ei w e
+058/041	läuwe	1	l äu w e
+058/043	laiwe	1	l ai w e
+058/045	laiwe	1	l ai w e
+058/047	liewes	1	l ie w e s
+058/049	liebes	1	l ie b e s
+058/051	liewes	1	l ie w e s
+058/053	liebes	1	l ie b e s
+058/055	liewes	1	l ie w e s
+058/057	liewes	1	l ie w e s
+058/059	liewes	1	l ie w e s
+058/061	liewes	1	l ie w e s
+058/063	liewes	1	l ie w e s
+058/065	liewes	1	l ie w e s
+058/067	liewes	1	l ie w e s
+058/069	lewes	1	l e w e s
+058/071	gutes	1	g u t e s
+058/073	liebes	1	l ie b e s
+058/075	leeibes	1	l eei b e s
+058/077	liebes	1	l ie b e s
+058/079	liabes	1	l ia b e s
+058/081	liäbes	1	l iä b e s
+058/083	liebes	1	l ie b e s
+058/085	liebes	1	l ie b e s
+058/087	liebes	1	l ie b e s
+058/089	guts	1	g u t s
+058/091	liebes	1	l ie b e s
+058/093	liebes	1	l ie b e s
+058/095	liebes	1	l ie b e s
+058/097	leeibes	1	l eei b e s
+058/099	liebes	1	l ie b e s
+058/101	liebes	1	l ie b e s
+058/103	liebes	1	l ie b e s
+058/105	liebs	1	l ie b s
+058/107	liebes	1	l ie b e s
+058/109	liebes	1	l ie b e s
+058/111	lebbes	1	l e bb e s
+058/113	liebes	1	l ie b e s
+058/115	liebes	1	l ie b e s
+058/117	liebes	1	l ie b e s
+058/119	liebes	1	l ie b e s
+058/121	liebes	1	l ie b e s
+058/123	liebes	1	l ie b e s
+058/125	liebes	1	l ie b e s
+058/127	liebs	1	l ie b s
+058/129	liebs	1	l ie b s
+058/131	liebs	1	l ie b s
+058/133	liebes	1	l ie b e s
+058/135	liebes	1	l ie b e s
+058/137	liebes	1	l ie b e s
+058/139	liebes	1	l ie b e s
+058/141	liebes	1	l ie b e s
+058/143	liebes	1	l ie b e s
+058/145	liebes	1	l ie b e s
+058/147	liebes	1	l ie b e s
+058/149	liebes	1	l ie b e s
+058/151	liebis	1	l ie b i s
+058/153	liebes	1	l ie b e s
+058/155	liebes	1	l ie b e s
+058/157	liebis	1	l ie b i s
+058/159	liebes	1	l ie b e s
+059/019	lewes	1	l e w e s
+059/021	lef	1	l e f
+059/023	lef	1	l e f
+059/025	lef	1	l e f
+059/027	lef	1	l e f
+059/029	lev	1	l e v
+059/031	leev	1	l ee v
+059/033	lehv	1	l eh v
+059/035	lev	1	l e v
+059/037	liiv	1	l ii v
+059/039	leves	1	l e v e s
+059/041	liiv	1	l ii v
+059/043	leef	1	l ee f
+059/045	lewes	1	l e w e s
+059/047	liewes	1	l ie w e s
+059/049	liewes	1	l ie w e s
+059/051	liebes	1	l ie b e s
+059/053	liewes	1	l ie w e s
+059/055	liewes	1	l ie w e s
+059/057	liewes	1	l ie w e s
+059/059	liewes	1	l ie w e s
+059/061	liewes	1	l ie w e s
+059/063	liebes	1	l ie b e s
+059/065	liebes	1	l ie b e s
+059/067	liäwes	1	l iä w e s
+059/069	liebes	1	l ie b e s
+059/071	lebes	1	l e b e s
+059/073	lebes	1	l e b e s
+059/075	liewes	1	l ie w e s
+059/077	liebes	1	l ie b e s
+059/079	liabes	1	l ia b e s
+059/081	liewes	1	l ie w e s
+059/083	liebes	1	l ie b e s
+059/085	liebes	1	l ie b e s
+059/087	liebes	1	l ie b e s
+059/089	liebes	1	l ie b e s
+059/091	liebes	1	l ie b e s
+059/093	liebs	1	l ie b s
+059/095	liebes	1	l ie b e s
+059/097	liewes	1	l ie w e s
+059/099	liebes	1	l ie b e s
+059/101	liebes	1	l ie b e s
+059/103	liebes	1	l ie b e s
+059/105	NA	NA	-
+059/107	liebs	1	l ie b s
+059/109	NA	NA	-
+059/111	gutes	1	g u t e s
+059/113	liebes	1	l ie b e s
+059/115	libbes	1	l i bb e s
+059/117	NA	NA	-
+059/119	liebes	1	l ie b e s
+059/121	liewes	1	l ie w e s
+059/123	liebes	1	l ie b e s
+059/125	liebes	1	l ie b e s
+059/127	NA	NA	-
+059/129	liebes	1	l ie b e s
+059/131	libs	1	l i b s
+059/133	liebes	1	l ie b e s
+059/135	liebes	1	l ie b e s
+059/137	liebs	1	l ie b s
+059/139	liebes	1	l ie b e s
+059/141	liebes	1	l ie b e s
+059/143	liebes	1	l ie b e s
+059/145	liebes	1	l ie b e s
+059/147	liebes	1	l ie b e s
+059/149	liebes	1	l ie b e s
+059/151	liebes	1	l ie b e s
+059/153	liebes	1	l ie b e s
+059/155	liebes	1	l ie b e s
+059/157	liebes	1	l ie b e s
+059/159	liebes	1	l ie b e s
+059/161	liebes	1	l ie b e s
+059/165	liebes	1	l ie b e s
+059/169	liebes	1	l ie b e s
+060/021	lev	1	l e v
+060/023	lef	1	l e f
+060/025	lef	1	l e f
+060/027	lef	1	l e f
+060/029	lev	1	l e v
+060/031	lef	1	l e f
+060/033	lev	1	l e v
+060/035	leev	1	l ee v
+060/037	lev	1	l e v
+060/039	liev	1	l ie v
+060/041	lef	1	l e f
+060/043	liv	1	l i v
+060/045	lewes	1	l e w e s
+060/047	läiwes	1	l äi w e s
+060/049	läiwes	1	l äi w e s
+060/051	liewes	1	l ie w e s
+060/053	liewes	1	l ie w e s
+060/055	liwes	1	l i w e s
+060/057	liewes	1	l ie w e s
+060/059	liebes	1	l ie b e s
+060/061	liewes	1	l ie w e s
+060/063	leb	1	l e b
+060/065	leb	1	l e b
+060/067	lewes	1	l e w e s
+060/069	lebes	1	l e b e s
+060/071	gut	1	g u t
+060/073	liebes	1	l ie b e s
+060/075	lebes	1	l e b e s
+060/077	liäbes	1	l iä b e s
+060/079	liäbes	1	l iä b e s
+060/081	liaawes	1	l iaa w e s
+060/083	liebes	1	l ie b e s
+060/085	jutes	1	j u t e s
+060/087	liebes	1	l ie b e s
+060/089	liebes	1	l ie b e s
+060/091	liebs	1	l ie b s
+060/093	liebes	1	l ie b e s
+060/095	liebs	1	l ie b s
+060/097	liobes	1	l io b e s
+060/099	liebes	1	l ie b e s
+060/101	liebes	1	l ie b e s
+060/103	liebes	1	l ie b e s
+060/105	liebs	1	l ie b s
+060/107	lebs	1	l e b s
+060/109	liebb	1	l ie bb
+060/111	liebs	1	l ie b s
+060/113	liebes	1	l ie b e s
+060/115	liebes	1	l ie b e s
+060/117	liebes	1	l ie b e s
+060/119	liewes	1	l ie w e s
+060/121	liewes	1	l ie w e s
+060/123	liebes	1	l ie b e s
+060/125	liebs	1	l ie b s
+060/127	liebes	1	l ie b e s
+060/129	liebs	1	l ie b s
+060/131	liebs	1	l ie b s
+060/135	liebes	1	l ie b e s
+060/137	liebes	1	l ie b e s
+060/139	liebes	1	l ie b e s
+060/141	liebes	1	l ie b e s
+060/143	liebes	1	l ie b e s
+060/145	liebes	1	l ie b e s
+060/147	liebis	1	l ie b i s
+060/149	liebes	1	l ie b e s
+060/151	liebes	1	l ie b e s
+060/153	liebes	1	l ie b e s
+060/155	liebes	1	l ie b e s
+060/157	liibes	1	l ii b e s
+060/159	liebes	1	l ie b e s
+060/163	liebes	1	l ie b e s
+060/165	liebes	1	l ie b e s
+061/021	leev	1	l ee v
+061/023	lev	1	l e v
+061/025	lew	1	l e w
+061/027	lew	1	l e w
+061/029	lef	1	l e f
+061/031	lev	1	l e v
+061/033	leev	1	l ee v
+061/035	lev	1	l e v
+061/037	leev	1	l ee v
+061/039	lef	1	l e f
+061/041	lev	1	l e v
+061/043	lewes	1	l e w e s
+061/045	lew	1	l e w
+061/047	leib	1	l ei b
+061/049	leb	1	l e b
+061/051	läwes	1	l ä w e s
+061/053	laiwes	1	l ai w e s
+061/055	läibes	1	l äi b e s
+061/057	lieb	1	l ie b
+061/059	lüwes	1	l ü w e s
+061/061	lieb	1	l ie b
+061/063	lewes	1	l e w e s
+061/065	löb	1	l ö b
+061/067	gällehätze	1	g ä ll e h ä t z e
+061/069	lebes	1	l e b e s
+061/071	gut	1	g u t
+061/073	guit	1	g ui t
+061/075	li	1	l i
+061/077	liebes	1	l ie b e s
+061/079	liabes	1	l ia b e s
+061/081	liawes	1	l ia w e s
+061/083	liebes	1	l ie b e s
+061/085	liebes	1	l ie b e s
+061/087	liebes	1	l ie b e s
+061/089	liebes	1	l ie b e s
+061/091	liebs	1	l ie b s
+061/093	liebes	1	l ie b e s
+061/095	liebes	1	l ie b e s
+061/097	liebs	1	l ie b s
+061/099	liebes	1	l ie b e s
+061/101	liebs	1	l ie b s
+061/103	liebes	1	l ie b e s
+061/105	liebs	1	l ie b s
+061/107	liebs	1	l ie b s
+061/109	liebs	1	l ie b s
+061/111	lieb	1	l ie b
+061/113	liebes	1	l ie b e s
+061/115	liebes	1	l ie b e s
+061/117	liewes	1	l ie w e s
+061/119	liebes	1	l ie b e s
+061/121	liebs	1	l ie b s
+061/123	liebes	1	l ie b e s
+061/125	liebes	1	l ie b e s
+061/127	NA	NA	-
+061/129	liibs	1	l ii b s
+061/131	liebes	1	l ie b e s
+061/133	liebes	1	l ie b e s
+061/137	liebes	1	l ie b e s
+061/139	liebes	1	l ie b e s
+061/141	liebes	1	l ie b e s
+061/143	liebes	1	l ie b e s
+061/145	liebes	1	l ie b e s
+061/147	liebes	1	l ie b e s
+061/149	liebes	1	l ie b e s
+061/151	liebes	1	l ie b e s
+061/153	liebes	1	l ie b e s
+061/155	liebes	1	l ie b e s
+061/157	liebes	1	l ie b e s
+061/159	liebes	1	l ie b e s
+061/161	liebes	1	l ie b e s
+061/165	liebes	1	l ie b e s
+062/021	lev	1	l e v
+062/023	lef	1	l e f
+062/025	lev	1	l e v
+062/027	lev	1	l e v
+062/029	lew	1	l e w
+062/031	lew	1	l e w
+062/033	lew	1	l e w
+062/035	lev	1	l e v
+062/037	NA	NA	-
+062/039	lev	1	l e v
+062/041	lew	1	l e w
+062/043	lewes	1	l e w e s
+062/045	lejb	1	l e j b
+062/047	läjwes	1	l ä j w e s
+062/049	läiwes	1	l äi w e s
+062/051	läiwes	1	l äi w e s
+062/053	läwes	1	l ä w e s
+062/055	läibes	1	l äi b e s
+062/057	läibes	1	l äi b e s
+062/059	lieb	1	l ie b
+062/061	lieb	1	l ie b
+062/063	leb	1	l e b
+062/065	god	1	g o d
+062/067	lebes	1	l e b e s
+062/069	lieb	1	l ie b
+062/071	gut	1	g u t
+062/073	NA	NA	-
+062/075	liewes	1	l ie w e s
+062/077	liebes	1	l ie b e s
+062/079	liebes	1	l ie b e s
+062/081	liebes	1	l ie b e s
+062/083	liebes	1	l ie b e s
+062/085	liebes	1	l ie b e s
+062/087	liebs	1	l ie b s
+062/089	liebes	1	l ie b e s
+062/091	liebs	1	l ie b s
+062/093	liebs	1	l ie b s
+062/095	liebs	1	l ie b s
+062/097	NA	NA	-
+062/099	liebs	1	l ie b s
+062/101	liebs	1	l ie b s
+062/103	liebs	1	l ie b s
+062/105	liebs	1	l ie b s
+062/107	liebes	1	l ie b e s
+062/109	liebs	1	l ie b s
+062/111	NA	NA	-
+062/113	liewes	1	l ie w e s
+062/115	NA	NA	-
+062/117	liewes	1	l ie w e s
+062/119	liewes	1	l ie w e s
+062/121	NA	NA	-
+062/123	liebis	1	l ie b i s
+062/125	liebes	1	l ie b e s
+062/127	liebs	1	l ie b s
+062/129	liebes	1	l ie b e s
+062/131	liebes	1	l ie b e s
+062/133	liebes	1	l ie b e s
+062/135	liebes	1	l ie b e s
+062/137	liewes	1	l ie w e s
+062/139	liewes	1	l ie w e s
+062/141	liebes	1	l ie b e s
+062/143	liebes	1	l ie b e s
+062/145	liebes	1	l ie b e s
+062/147	liebes	1	l ie b e s
+062/149	liebes	1	l ie b e s
+062/151	liebes	1	l ie b e s
+062/153	liebes	1	l ie b e s
+062/155	liebes	1	l ie b e s
+062/157	liebes	1	l ie b e s
+062/159	liebis	1	l ie b i s
+062/161	liebes	1	l ie b e s
+063/021	liev	1	l ie v
+063/023	lev	1	l e v
+063/025	lef	1	l e f
+063/027	lev	1	l e v
+063/029	lev	1	l e v
+063/031	lev	1	l e v
+063/033	lev	1	l e v
+063/035	lew	1	l e w
+063/037	lew	1	l e w
+063/039	lew	1	l e w
+063/041	leef	1	l ee f
+063/043	leiw	1	l ei w
+063/045	lew	1	l e w
+063/047	leb	1	l e b
+063/049	läiwes	1	l äi w e s
+063/051	läib	1	l äi b
+063/053	leiwes	1	l ei w e s
+063/055	läib	1	l äi b
+063/057	läib	1	l äi b
+063/059	lieb	1	l ie b
+063/061	lieb	1	l ie b
+063/063	good	1	g oo d
+063/065	leb	1	l e b
+063/067	NA	NA	-
+063/069	leb	1	l e b
+063/071	liebes	1	l ie b e s
+063/073	liebes	1	l ie b e s
+063/075	liebes	1	l ie b e s
+063/077	lieb	1	l ie b
+063/079	lebes	1	l e b e s
+063/081	liebes	1	l ie b e s
+063/083	liebes	1	l ie b e s
+063/085	liebes	1	l ie b e s
+063/087	liebs	1	l ie b s
+063/089	liebes	1	l ie b e s
+063/091	gaauts	1	g aau t s
+063/093	liebs	1	l ie b s
+063/095	guts	1	g u t s
+063/097	liebs	1	l ie b s
+063/099	liebes	1	l ie b e s
+063/101	gutz	1	g u t z
+063/103	guuds	1	g uu d s
+063/105	liebs	1	l ie b s
+063/107	liebs	1	l ie b s
+063/109	libs	1	l i b s
+063/111	liewes	1	l ie w e s
+063/113	liewes	1	l ie w e s
+063/115	liebs	1	l ie b s
+063/117	liebes	1	l ie b e s
+063/119	liibes	1	l ii b e s
+063/121	NA	NA	-
+063/123	NA	NA	-
+063/125	liebes	1	l ie b e s
+063/127	liebs	1	l ie b s
+063/135	liewes	1	l ie w e s
+063/137	liewes	1	l ie w e s
+063/139	liewes	1	l ie w e s
+063/141	liewes	1	l ie w e s
+063/143	liebes	1	l ie b e s
+063/145	liewes	1	l ie w e s
+063/147	liebes	1	l ie b e s
+063/149	liebes	1	l ie b e s
+063/151	liebes	1	l ie b e s
+063/153	liebes	1	l ie b e s
+063/155	liebes	1	l ie b e s
+063/157	liebes	1	l ie b e s
+063/159	liebes	1	l ie b e s
+063/161	liebes	1	l ie b e s
+063/163	liebes	1	l ie b e s
+063/165	liebes	1	l ie b e s
+064/023	lev	1	l e v
+064/025	lew	1	l e w
+064/027	lew	1	l e w
+064/029	lew	1	l e w
+064/031	lev	1	l e v
+064/033	lef	1	l e f
+064/035	lev	1	l e v
+064/037	lew	1	l e w
+064/039	lew	1	l e w
+064/041	lew	1	l e w
+064/043	löib	1	l öi b
+064/045	leib	1	l ei b
+064/047	lewes	1	l e w e s
+064/049	leib	1	l ei b
+064/051	läiwes	1	l äi w e s
+064/053	läib	1	l äi b
+064/055	läib	1	l äi b
+064/057	läib	1	l äi b
+064/059	gut	1	g u t
+064/061	lieb	1	l ie b
+064/063	leb	1	l e b
+064/065	leb	1	l e b
+064/067	lebes	1	l e b e s
+064/069	liewes	1	l ie w e s
+064/071	liebes	1	l ie b e s
+064/073	gut	1	g u t
+064/075	lieb	1	l ie b
+064/077	liebös	1	l ie b ö s
+064/079	liebes	1	l ie b e s
+064/081	liäbes	1	l iä b e s
+064/083	lieb	1	l ie b
+064/085	liebes	1	l ie b e s
+064/087	liebs	1	l ie b s
+064/089	liebes	1	l ie b e s
+064/091	liebs	1	l ie b s
+064/093	liebs	1	l ie b s
+064/095	guts	1	g u t s
+064/097	liebs	1	l ie b s
+064/099	liebs	1	l ie b s
+064/101	liebs	1	l ie b s
+064/103	guts	1	g u t s
+064/105	liebs	1	l ie b s
+064/107	liebs	1	l ie b s
+064/109	liebs	1	l ie b s
+064/111	NA	NA	-
+064/113	liewes	1	l ie w e s
+064/115	lieves	1	l ie v e s
+064/117	liebes	1	l ie b e s
+064/119	liebes	1	l ie b e s
+064/121	liebes	1	l ie b e s
+064/123	liebs	1	l ie b s
+064/125	liebes	1	l ie b e s
+064/127	liebes	1	l ie b e s
+064/135	liewes	1	l ie w e s
+064/137	liewes	1	l ie w e s
+064/139	liewes	1	l ie w e s
+064/141	liewes	1	l ie w e s
+064/143	lieves	1	l ie v e s
+064/145	liewes	1	l ie w e s
+064/147	liebes	1	l ie b e s
+064/149	liebes	1	l ie b e s
+064/151	liebes	1	l ie b e s
+064/153	liebes	1	l ie b e s
+064/155	liebes	1	l ie b e s
+064/157	liebes	1	l ie b e s
+064/159	liebes	1	l ie b e s
+065/021	leef	1	l ee f
+065/023	lev	1	l e v
+065/025	leef	1	l ee f
+065/027	lef	1	l e f
+065/029	lehv	1	l eh v
+065/031	lef	1	l e f
+065/033	lew	1	l e w
+065/035	leef	1	l ee f
+065/037	lev	1	l e v
+065/039	lew	1	l e w
+065/041	löv	1	l ö v
+065/043	läiv	1	l äi v
+065/045	lejb	1	l e j b
+065/047	läib	1	l äi b
+065/049	läib	1	l äi b
+065/051	läib	1	l äi b
+065/053	läib	1	l äi b
+065/055	läib	1	l äi b
+065/057	läib	1	l äi b
+065/059	läiwes	1	l äi w e s
+065/061	liewes	1	l ie w e s
+065/063	leb	1	l e b
+065/065	lieb	1	l ie b
+065/067	lieb	1	l ie b
+065/069	liäbs	1	l iä b s
+065/071	liebes	1	l ie b e s
+065/073	liep	1	l ie p
+065/075	läb	1	l ä b
+065/077	lieb	1	l ie b
+065/079	lieb	1	l ie b
+065/081	liebäs	1	l ie b ä s
+065/083	gutt	1	g u tt
+065/085	lejbs	1	l e j b s
+065/087	löibs	1	l öi b s
+065/089	läibs	1	l äi b s
+065/091	liebs	1	l ie b s
+065/093	guts	1	g u t s
+065/095	liebs	1	l ie b s
+065/097	guts	1	g u t s
+065/101	liebs	1	l ie b s
+065/103	liebs	1	l ie b s
+065/105	NA	NA	-
+065/107	liebs	1	l ie b s
+065/109	liebs	1	l ie b s
+065/111	liewet	1	l ie w e t
+065/113	NA	NA	-
+065/115	liebes	1	l ie b e s
+065/121	liebes	1	l ie b e s
+065/123	liebes	1	l ie b e s
+065/137	liewes	1	l ie w e s
+065/139	liewes	1	l ie w e s
+065/143	liebes	1	l ie b e s
+065/145	liwes	1	l i w e s
+065/147	liebes	1	l ie b e s
+065/149	liebes	1	l ie b e s
+065/151	liebis	1	l ie b i s
+065/153	liebes	1	l ie b e s
+065/155	liebes	1	l ie b e s
+065/157	liebes	1	l ie b e s
+065/159	liebes	1	l ie b e s
+066/021	lev	1	l e v
+066/023	lef	1	l e f
+066/025	lehf	1	l eh f
+066/027	lef	1	l e f
+066/029	lew	1	l e w
+066/031	lef	1	l e f
+066/033	leef	1	l ee f
+066/035	lev	1	l e v
+066/037	leef	1	l ee f
+066/039	lew	1	l e w
+066/041	lejib	1	l e j i b
+066/043	läiwes	1	l äi w e s
+066/045	lejb	1	l e j b
+066/047	läib	1	l äi b
+066/049	lejwes	1	l e j w e s
+066/051	läiwes	1	l äi w e s
+066/053	läib	1	l äi b
+066/055	läib	1	l äi b
+066/057	läib	1	l äi b
+066/059	läiwes	1	l äi w e s
+066/061	lieb	1	l ie b
+066/063	lieb	1	l ie b
+066/065	lieb	1	l ie b
+066/067	liabs	1	l ia b s
+066/069	liabs	1	l ia b s
+066/071	liebes	1	l ie b e s
+066/073	liebes	1	l ie b e s
+066/075	lieb	1	l ie b
+066/077	liebs	1	l ie b s
+066/079	liebs	1	l ie b s
+066/081	liebst	1	l ie b s t
+066/083	liebs	1	l ie b s
+066/085	liebs	1	l ie b s
+066/087	lejbs	1	l e j b s
+066/089	läibs	1	l äi b s
+066/091	leibs	1	l ei b s
+066/093	guts	1	g u t s
+066/095	liebs	1	l ie b s
+066/097	liebs	1	l ie b s
+066/099	trauts	1	t r au t s
+066/101	NA	NA	-
+066/103	liebs	1	l ie b s
+066/105	liebs	1	l ie b s
+066/107	NA	NA	-
+066/109	liebs	1	l ie b s
+066/111	liebs	1	l ie b s
+066/113	liebs	1	l ie b s
+066/121	liebs	1	l ie b s
+066/139	liewes	1	l ie w e s
+066/143	liewes	1	l ie w e s
+066/145	liebes	1	l ie b e s
+066/147	liewes	1	l ie w e s
+066/149	liebes	1	l ie b e s
+066/151	liewes	1	l ie w e s
+066/153	liibes	1	l ii b e s
+066/155	liewes	1	l ie w e s
+066/157	liebes	1	l ie b e s
+066/159	liebs	1	l ie b s
+066/161	liebes	1	l ie b e s
+066/163	liebes	1	l ie b e s
+067/021	lehf	1	l eh f
+067/023	lev	1	l e v
+067/025	lew	1	l e w
+067/027	lehv	1	l eh v
+067/029	liwes	1	l i w e s
+067/031	lew	1	l e w
+067/033	lev	1	l e v
+067/035	leev	1	l ee v
+067/037	lev	1	l e v
+067/039	lew	1	l e w
+067/041	leb	1	l e b
+067/043	läib	1	l äi b
+067/045	läib	1	l äi b
+067/047	leüb	1	l eü b
+067/049	leib	1	l ei b
+067/051	läib	1	l äi b
+067/053	läib	1	l äi b
+067/055	läib	1	l äi b
+067/057	läiwes	1	l äi w e s
+067/059	läiwes	1	l äi w e s
+067/061	lieb	1	l ie b
+067/063	lieb	1	l ie b
+067/065	guet	1	g ue t
+067/067	liebs	1	l ie b s
+067/069	liabs	1	l ia b s
+067/071	liabs	1	l ia b s
+067/073	liebs	1	l ie b s
+067/075	liabs	1	l ia b s
+067/077	liebs	1	l ie b s
+067/079	liebs	1	l ie b s
+067/081	libs	1	l i b s
+067/083	guts	1	g u t s
+067/085	liebs	1	l ie b s
+067/087	läibs	1	l äi b s
+067/089	leibs	1	l ei b s
+067/091	guts	1	g u t s
+067/093	NA	NA	-
+067/095	guots	1	g uo t s
+067/097	gouts	1	g ou t s
+067/099	leiwas	1	l ei w a s
+067/101	lejs	1	l e j s
+067/103	löibs	1	l öi b s
+067/105	lejs	1	l e j s
+067/107	liebs	1	l ie b s
+067/109	liebs	1	l ie b s
+067/111	liebs	1	l ie b s
+067/113	lieebes	1	l iee b e s
+067/143	liewes	1	l ie w e s
+067/145	liebes	1	l ie b e s
+067/147	liebes	1	l ie b e s
+067/149	liebes	1	l ie b e s
+067/151	liewes	1	l ie w e s
+067/153	liebes	1	l ie b e s
+067/155	liebes	1	l ie b e s
+067/157	liebes	1	l ie b e s
+067/159	liebes	1	l ie b e s
+067/161	liebes	1	l ie b e s
+067/163	liebes	1	l ie b e s
+067/165	liebes	1	l ie b e s
+067/177	liebes	1	l ie b e s
+068/021	lev	1	l e v
+068/023	lew	1	l e w
+068/025	lif	1	l i f
+068/027	leaf	1	l ea f
+068/029	lew	1	l e w
+068/031	löw	1	l ö w
+068/033	leew	1	l ee w
+068/035	lev	1	l e v
+068/037	lew	1	l e w
+068/039	lieb	1	l ie b
+068/041	läib	1	l äi b
+068/043	lejb	1	l e j b
+068/045	lejb	1	l e j b
+068/047	lejwes	1	l e j w e s
+068/049	läib	1	l äi b
+068/051	läib	1	l äi b
+068/053	läib	1	l äi b
+068/055	läib	1	l äi b
+068/057	läib	1	l äi b
+068/059	leib	1	l ei b
+068/061	lieb	1	l ie b
+068/063	liabes	1	l ia b e s
+068/065	liebes	1	l ie b e s
+068/067	NA	NA	-
+068/069	lieabs	1	l iea b s
+068/071	guts	1	g u t s
+068/073	liabes	1	l ia b e s
+068/075	liabs	1	l ia b s
+068/077	liebs	1	l ie b s
+068/079	liebs	1	l ie b s
+068/081	liebs	1	l ie b s
+068/083	liebs	1	l ie b s
+068/085	liebs	1	l ie b s
+068/087	liebs	1	l ie b s
+068/089	liebs	1	l ie b s
+068/091	liebs	1	l ie b s
+068/093	läibs	1	l äi b s
+068/095	leibs	1	l ei b s
+068/097	NA	NA	-
+068/099	NA	NA	-
+068/101	löis	1	l öi s
+068/103	löibs	1	l öi b s
+068/105	lejbs	1	l e j b s
+068/107	löibs	1	l öi b s
+068/109	NA	NA	-
+068/111	liebs	1	l ie b s
+068/145	liewes	1	l ie w e s
+068/147	liewes	1	l ie w e s
+068/149	liebes	1	l ie b e s
+068/151	liebes	1	l ie b e s
+068/153	liebes	1	l ie b e s
+068/155	liebes	1	l ie b e s
+068/157	liebes	1	l ie b e s
+068/159	liebes	1	l ie b e s
+068/161	liebes	1	l ie b e s
+068/165	liebes	1	l ie b e s
+069/019	leeft	1	l ee f t
+069/023	lef	1	l e f
+069/025	lif	1	l i f
+069/027	lev	1	l e v
+069/029	liev	1	l ie v
+069/031	lew	1	l e w
+069/033	lef	1	l e f
+069/035	lef	1	l e f
+069/037	liew	1	l ie w
+069/039	liew	1	l ie w
+069/041	liew	1	l ie w
+069/043	liewes	1	l ie w e s
+069/045	liebes	1	l ie b e s
+069/047	lieb	1	l ie b
+069/049	läib	1	l äi b
+069/051	lieb	1	l ie b
+069/053	lieb	1	l ie b
+069/055	leiib	1	l eii b
+069/057	läib	1	l äi b
+069/059	lieb	1	l ie b
+069/061	leib	1	l ei b
+069/063	lieb	1	l ie b
+069/065	liabs	1	l ia b s
+069/067	liabs	1	l ia b s
+069/069	liabs	1	l ia b s
+069/071	liebs	1	l ie b s
+069/073	liabs	1	l ia b s
+069/075	liabs	1	l ia b s
+069/077	liebs	1	l ie b s
+069/079	libs	1	l i b s
+069/081	liebs	1	l ie b s
+069/083	liebs	1	l ie b s
+069/085	liebs	1	l ie b s
+069/087	liebs	1	l ie b s
+069/089	liebs	1	l ie b s
+069/091	liebs	1	l ie b s
+069/093	löibs	1	l öi b s
+069/095	löis	1	l öi s
+069/097	löibs	1	l öi b s
+069/099	loibs	1	l oi b s
+069/101	löis	1	l öi s
+069/103	löibs	1	l öi b s
+069/105	lias	1	l ia s
+069/107	laibs	1	l ai b s
+069/109	liabs	1	l ia b s
+069/111	liebs	1	l ie b s
+069/147	liewes	1	l ie w e s
+069/149	liebs	1	l ie b s
+069/151	liebes	1	l ie b e s
+069/153	liebes	1	l ie b e s
+069/157	leibes	1	l ei b e s
+069/159	liebes	1	l ie b e s
+069/161	liibes	1	l ii b e s
+069/163	liewes	1	l ie w e s
+069/165	liebes	1	l ie b e s
+070/019	leeift	1	l eei f t
+070/023	liv	1	l i v
+070/025	lief	1	l ie f
+070/027	lev	1	l e v
+070/029	lief	1	l ie f
+070/031	lief	1	l ie f
+070/033	löf	1	l ö f
+070/035	lef	1	l e f
+070/037	lev	1	l e v
+070/039	lieb	1	l ie b
+070/041	liewes	1	l ie w e s
+070/043	lieb	1	l ie b
+070/045	lieb	1	l ie b
+070/047	lieb	1	l ie b
+070/049	läib	1	l äi b
+070/051	liewes	1	l ie w e s
+070/053	lieb	1	l ie b
+070/055	lieb	1	l ie b
+070/057	lieb	1	l ie b
+070/059	lieb	1	l ie b
+070/061	liebes	1	l ie b e s
+070/063	NA	NA	-
+070/065	liabes	1	l ia b e s
+070/067	liabs	1	l ia b s
+070/069	libs	1	l i b s
+070/071	liabs	1	l ia b s
+070/073	liabs	1	l ia b s
+070/075	liabs	1	l ia b s
+070/077	liebs	1	l ie b s
+070/079	liebs	1	l ie b s
+070/081	liebs	1	l ie b s
+070/083	liebs	1	l ie b s
+070/085	liebs	1	l ie b s
+070/087	liebs	1	l ie b s
+070/089	liibs	1	l ii b s
+070/091	loibs	1	l oi b s
+070/093	läibs	1	l äi b s
+070/095	löibs	1	l öi b s
+070/097	läis	1	l äi s
+070/099	löibs	1	l öi b s
+070/101	löis	1	l öi s
+070/103	leeis	1	l eei s
+070/105	lejs	1	l e j s
+070/107	leibs	1	l ei b s
+070/109	leibs	1	l ei b s
+070/111	lejbs	1	l e j b s
+070/145	liebs	1	l ie b s
+070/147	liewes	1	l ie w e s
+070/149	liewes	1	l ie w e s
+070/151	liebes	1	l ie b e s
+070/153	liebes	1	l ie b e s
+070/155	liibes	1	l ii b e s
+070/157	liäbes	1	l iä b e s
+070/159	liebs	1	l ie b s
+070/161	liebes	1	l ie b e s
+070/163	lihwes	1	l ih w e s
+070/165	liewes	1	l ie w e s
+071/017	left	1	l e f t
+071/019	lewt	1	l e w t
+071/021	lieft	1	l ie f t
+071/023	lew	1	l e w
+071/025	lef	1	l e f
+071/027	lef	1	l e f
+071/029	lef	1	l e f
+071/031	lef	1	l e f
+071/033	löif	1	l öi f
+071/035	liew	1	l ie w
+071/037	lieb	1	l ie b
+071/039	lieb	1	l ie b
+071/041	lieb	1	l ie b
+071/043	lieb	1	l ie b
+071/045	lieb	1	l ie b
+071/047	lieb	1	l ie b
+071/049	lieb	1	l ie b
+071/051	lieb	1	l ie b
+071/053	liewes	1	l ie w e s
+071/055	lieb	1	l ie b
+071/057	liebes	1	l ie b e s
+071/059	lieb	1	l ie b
+071/063	liebs	1	l ie b s
+071/065	liabs	1	l ia b s
+071/067	liebes	1	l ie b e s
+071/069	liabes	1	l ia b e s
+071/071	liabs	1	l ia b s
+071/073	liabs	1	l ia b s
+071/075	liabs	1	l ia b s
+071/077	liebs	1	l ie b s
+071/079	liebs	1	l ie b s
+071/081	liebs	1	l ie b s
+071/083	guts	1	g u t s
+071/085	liebs	1	l ie b s
+071/087	liggs	1	l i gg s
+071/089	liebs	1	l ie b s
+071/091	gouz	1	g ou z
+071/093	löibs	1	l öi b s
+071/095	löis	1	l öi s
+071/097	liabs	1	l ia b s
+071/099	liabs	1	l ia b s
+071/101	leis	1	l ei s
+071/103	guuts	1	g uu t s
+071/105	läis	1	l äi s
+071/145	gutts	1	g u tt s
+071/147	liewes	1	l ie w e s
+071/149	liebes	1	l ie b e s
+071/151	liebes	1	l ie b e s
+071/153	liebes	1	l ie b e s
+071/155	liebes	1	l ie b e s
+071/157	liebes	1	l ie b e s
+071/159	libes	1	l i b e s
+071/161	liebes	1	l ie b e s
+071/163	NA	NA	-
+071/177	liwes	1	l i w e s
+071/179	liebes	1	l ie b e s
+072/017	left	1	l e f t
+072/019	lewt	1	l e w t
+072/021	lievt	1	l ie v t
+072/023	leift	1	l ei f t
+072/025	lef	1	l e f
+072/027	lev	1	l e v
+072/029	liev	1	l ie v
+072/031	leif	1	l ei f
+072/033	liev	1	l ie v
+072/035	lief	1	l ie f
+072/037	lieb	1	l ie b
+072/039	liews	1	l ie w s
+072/041	lieb	1	l ie b
+072/043	lieb	1	l ie b
+072/045	lieb	1	l ie b
+072/047	lieb	1	l ie b
+072/049	lieb	1	l ie b
+072/051	liewes	1	l ie w e s
+072/053	lieb	1	l ie b
+072/055	lieb	1	l ie b
+072/057	liewes	1	l ie w e s
+072/059	liebs	1	l ie b s
+072/061	liebs	1	l ie b s
+072/063	liabs	1	l ia b s
+072/065	liabss	1	l ia b ss
+072/067	liabs	1	l ia b s
+072/069	liabs	1	l ia b s
+072/071	guats	1	g ua t s
+072/073	liabs	1	l ia b s
+072/075	lebs	1	l e b s
+072/077	liebs	1	l ie b s
+072/079	libbs	1	l i bb s
+072/081	liebs	1	l ie b s
+072/083	libs	1	l i b s
+072/085	liebs	1	l ie b s
+072/087	liebs	1	l ie b s
+072/089	liebs	1	l ie b s
+072/091	leibs	1	l ei b s
+072/093	liabs	1	l ia b s
+072/095	liabs	1	l ia b s
+072/097	löibs	1	l öi b s
+072/099	lois	1	l oi s
+072/101	NA	NA	-
+072/103	löis	1	l öi s
+072/105	leis	1	l ei s
+072/107	löibs	1	l öi b s
+072/145	lejbs	1	l e j b s
+072/147	libs	1	l i b s
+072/149	lejgs	1	l e j g s
+072/151	leeibs	1	l eei b s
+072/153	liebs	1	l ie b s
+072/155	liebes	1	l ie b e s
+072/157	liebes	1	l ie b e s
+072/159	liebes	1	l ie b e s
+072/161	liebes	1	l ie b e s
+072/177	liewes	1	l ie w e s
+072/179	liebes	1	l ie b e s
+072/181	liabs	1	l ia b s
+073/017	left	1	l e f t
+073/019	left	1	l e f t
+073/021	left	1	l e f t
+073/023	läiut	1	l äiu t
+073/025	läf	1	l ä f
+073/027	liev	1	l ie v
+073/029	liew	1	l ie w
+073/031	leif	1	l ei f
+073/033	läiw	1	l äi w
+073/035	leiwes	1	l ei w e s
+073/037	lieb	1	l ie b
+073/039	liewes	1	l ie w e s
+073/041	liewes	1	l ie w e s
+073/043	liewes	1	l ie w e s
+073/045	liewes	1	l ie w e s
+073/047	liebes	1	l ie b e s
+073/049	lieb	1	l ie b
+073/051	lieb	1	l ie b
+073/053	lieb	1	l ie b
+073/055	liebes	1	l ie b e s
+073/057	lieb	1	l ie b
+073/059	liebs	1	l ie b s
+073/061	liebs	1	l ie b s
+073/063	liebs	1	l ie b s
+073/065	liebs	1	l ie b s
+073/067	NA	NA	-
+073/069	lieabs	1	l iea b s
+073/071	liabs	1	l ia b s
+073/073	liabs	1	l ia b s
+073/075	libs	1	l i b s
+073/077	liebs	1	l ie b s
+073/079	lieebs	1	l iee b s
+073/081	liebs	1	l ie b s
+073/083	NA	NA	-
+073/085	lieb	1	l ie b
+073/087	liebs	1	l ie b s
+073/089	liabs	1	l ia b s
+073/091	löibs	1	l öi b s
+073/093	löis	1	l öi s
+073/095	löis	1	l öi s
+073/097	liabs	1	l ia b s
+073/099	löis	1	l öi s
+073/101	leis	1	l ei s
+073/103	läis	1	l äi s
+073/105	leibs	1	l ei b s
+073/107	löibs	1	l öi b s
+073/145	läibs	1	l äi b s
+073/147	lebs	1	l e b s
+073/149	leeibs	1	l eei b s
+073/151	lejbes	1	l e j b e s
+073/153	liebes	1	l ie b e s
+073/155	liebes	1	l ie b e s
+073/157	leebes	1	l ee b e s
+073/159	NA	NA	-
+073/161	liebes	1	l ie b e s
+073/163	liebes	1	l ie b e s
+073/165	liebes	1	l ie b e s
+073/175	liwes	1	l i w e s
+073/177	liiwes	1	l ii w e s
+074/019	leuft	1	l eu f t
+074/021	left	1	l e f t
+074/023	left	1	l e f t
+074/025	läf	1	l ä f
+074/027	lief	1	l ie f
+074/029	lief	1	l ie f
+074/031	leiv	1	l ei v
+074/033	läif	1	l äi f
+074/035	liew	1	l ie w
+074/037	lijb	1	l i j b
+074/039	liebes	1	l ie b e s
+074/041	lieb	1	l ie b
+074/043	liewes	1	l ie w e s
+074/045	lieb	1	l ie b
+074/047	lieb	1	l ie b
+074/049	lieb	1	l ie b
+074/051	lieb	1	l ie b
+074/053	lieb	1	l ie b
+074/055	lieb	1	l ie b
+074/057	lieb	1	l ie b
+074/059	liebs	1	l ie b s
+074/061	liebs	1	l ie b s
+074/063	liebs	1	l ie b s
+074/065	liabs	1	l ia b s
+074/067	liabs	1	l ia b s
+074/069	liabs	1	l ia b s
+074/071	liabs	1	l ia b s
+074/073	liebs	1	l ie b s
+074/075	liebs	1	l ie b s
+074/077	liebs	1	l ie b s
+074/079	löis	1	l öi s
+074/081	löis	1	l öi s
+074/083	löis	1	l öi s
+074/085	läibs	1	l äi b s
+074/087	löibs	1	l öi b s
+074/089	lias	1	l ia s
+074/091	leis	1	l ei s
+074/093	löis	1	l öi s
+074/095	läibs	1	l äi b s
+074/097	läibs	1	l äi b s
+074/099	schöins	1	sch öi n s
+074/101	läis	1	l äi s
+074/103	läis	1	l äi s
+074/105	leibs	1	l ei b s
+074/107	löis	1	l öi s
+074/109	leis	1	l ei s
+074/145	läibs	1	l äi b s
+074/147	läibs	1	l äi b s
+074/149	laips	1	l ai p s
+074/153	liebes	1	l ie b e s
+074/155	NA	NA	-
+074/157	liebes	1	l ie b e s
+074/159	liebes	1	l ie b e s
+074/161	liibes	1	l ii b e s
+074/163	liews	1	l ie w s
+074/165	lieves	1	l ie v e s
+075/019	left	1	l e f t
+075/021	left	1	l e f t
+075/023	lieft	1	l ie f t
+075/025	lef	1	l e f
+075/027	läiv	1	l äi v
+075/029	leiv	1	l ei v
+075/031	leif	1	l ei f
+075/033	liev	1	l ie v
+075/035	liew	1	l ie w
+075/037	lieb	1	l ie b
+075/039	liewes	1	l ie w e s
+075/041	lieb	1	l ie b
+075/043	lieb	1	l ie b
+075/045	lieb	1	l ie b
+075/047	lieb	1	l ie b
+075/049	lieb	1	l ie b
+075/051	lieb	1	l ie b
+075/053	lib	1	l i b
+075/055	lieb	1	l ie b
+075/057	lieb	1	l ie b
+075/059	libs	1	l i b s
+075/061	liebs	1	l ie b s
+075/063	liebs	1	l ie b s
+075/065	liebs	1	l ie b s
+075/067	liabs	1	l ia b s
+075/069	liabs	1	l ia b s
+075/071	lieabs	1	l iea b s
+075/073	liebs	1	l ie b s
+075/075	liebs	1	l ie b s
+075/077	liebs	1	l ie b s
+075/079	liebs	1	l ie b s
+075/081	liebs	1	l ie b s
+075/083	läibs	1	l äi b s
+075/085	löis	1	l öi s
+075/087	löis	1	l öi s
+075/089	läibs	1	l äi b s
+075/091	löis	1	l öi s
+075/093	läibs	1	l äi b s
+075/095	läis	1	l äi s
+075/097	löis	1	l öi s
+075/099	livs	1	l i v s
+075/101	schäins	1	sch äi n s
+075/103	lejs	1	l e j s
+075/105	lejs	1	l e j s
+075/107	läis	1	l äi s
+075/135	libs	1	l i b s
+075/145	lebs	1	l e b s
+075/147	lejbs	1	l e j b s
+075/149	läbs	1	l ä b s
+075/155	liebes	1	l ie b e s
+075/157	liebes	1	l ie b e s
+075/159	liebs	1	l ie b s
+075/161	liebes	1	l ie b e s
+075/163	liewes	1	l ie w e s
+075/165	liebes	1	l ie b e s
+076/019	left	1	l e f t
+076/021	left	1	l e f t
+076/023	lävt	1	l ä v t
+076/025	lef	1	l e f
+076/027	leif	1	l ei f
+076/029	lef	1	l e f
+076/033	lieb	1	l ie b
+076/035	lieb	1	l ie b
+076/037	liewes	1	l ie w e s
+076/039	lieb	1	l ie b
+076/041	lieb	1	l ie b
+076/043	lieb	1	l ie b
+076/045	liib	1	l ii b
+076/047	lieb	1	l ie b
+076/049	lieb	1	l ie b
+076/051	liebs	1	l ie b s
+076/053	lieb	1	l ie b
+076/055	liebs	1	l ie b s
+076/057	leibs	1	l ei b s
+076/059	liebs	1	l ie b s
+076/061	liebs	1	l ie b s
+076/063	liebs	1	l ie b s
+076/065	liebs	1	l ie b s
+076/067	liebs	1	l ie b s
+076/069	liabs	1	l ia b s
+076/071	liäbs	1	l iä b s
+076/073	liebs	1	l ie b s
+076/075	liebs	1	l ie b s
+076/077	liebs	1	l ie b s
+076/079	leibs	1	l ei b s
+076/081	löibs	1	l öi b s
+076/083	löibs	1	l öi b s
+076/085	löibs	1	l öi b s
+076/087	lüis	1	l üi s
+076/089	löis	1	l öi s
+076/091	löibs	1	l öi b s
+076/093	leibs	1	l ei b s
+076/095	löis	1	l öi s
+076/097	lejs	1	l e j s
+076/099	löibs	1	l öi b s
+076/101	läis	1	l äi s
+076/103	löis	1	l öi s
+076/135	lejbs	1	l e j b s
+076/137	lieba	1	l ie b a
+076/149	liebes	1	l ie b e s
+076/151	libes	1	l i b e s
+076/155	liebes	1	l ie b e s
+076/161	liewes	1	l ie w e s
+076/163	liewes	1	l ie w e s
+076/165	liebes	1	l ie b e s
+077/019	leivt	1	l ei v t
+077/021	leeft	1	l ee f t
+077/023	leift	1	l ei f t
+077/025	leif	1	l ei f
+077/027	lev	1	l e v
+077/029	leif	1	l ei f
+077/031	leuv	1	l eu v
+077/033	lieb	1	l ie b
+077/035	lieb	1	l ie b
+077/037	lieb	1	l ie b
+077/039	liewes	1	l ie w e s
+077/041	liewes	1	l ie w e s
+077/043	lieb	1	l ie b
+077/047	lieb	1	l ie b
+077/049	liewes	1	l ie w e s
+077/051	lib	1	l i b
+077/053	liebs	1	l ie b s
+077/055	libs	1	l i b s
+077/057	liewes	1	l ie w e s
+077/059	libbs	1	l i bb s
+077/061	liebs	1	l ie b s
+077/063	liebs	1	l ie b s
+077/065	liebs	1	l ie b s
+077/067	liabs	1	l ia b s
+077/069	liabs	1	l ia b s
+077/071	liabs	1	l ia b s
+077/073	NA	NA	-
+077/075	liebs	1	l ie b s
+077/077	liebs	1	l ie b s
+077/079	läibs	1	l äi b s
+077/081	läibs	1	l äi b s
+077/083	löibs	1	l öi b s
+077/085	löis	1	l öi s
+077/087	löis	1	l öi s
+077/089	löibs	1	l öi b s
+077/091	löis	1	l öi s
+077/093	leibs	1	l ei b s
+077/095	löis	1	l öi s
+077/097	löis	1	l öi s
+077/099	laaübs	1	l aaü b s
+077/101	löis	1	l öi s
+077/103	lejs	1	l e j s
+077/135	liebs	1	l ie b s
+077/137	liebs	1	l ie b s
+078/021	lew	1	l e w
+078/023	lif	1	l i f
+078/025	lef	1	l e f
+078/027	leiv	1	l ei v
+078/029	lehif	1	l e h i f
+078/031	liew	1	l ie w
+078/033	lieb	1	l ie b
+078/035	liewes	1	l ie w e s
+078/037	lieb	1	l ie b
+078/039	lieb	1	l ie b
+078/041	liewes	1	l ie w e s
+078/045	lieb	1	l ie b
+078/047	lieb	1	l ie b
+078/049	lieb	1	l ie b
+078/051	liebs	1	l ie b s
+078/053	liewes	1	l ie w e s
+078/055	liebs	1	l ie b s
+078/057	liebs	1	l ie b s
+078/059	libbs	1	l i bb s
+078/061	liebs	1	l ie b s
+078/063	liawes	1	l ia w e s
+078/065	liebs	1	l ie b s
+078/067	liabs	1	l ia b s
+078/069	liebs	1	l ie b s
+078/071	liebs	1	l ie b s
+078/073	liebs	1	l ie b s
+078/075	liebs	1	l ie b s
+078/077	liebs	1	l ie b s
+078/079	NA	NA	-
+078/081	löibs	1	l öi b s
+078/083	löibs	1	l öi b s
+078/085	löis	1	l öi s
+078/087	leeis	1	l eei s
+078/089	liabs	1	l ia b s
+078/091	leis	1	l ei s
+078/093	liabs	1	l ia b s
+078/095	läis	1	l äi s
+078/097	läibs	1	l äi b s
+078/099	guads	1	g ua d s
+078/101	NA	NA	-
+078/103	liabs	1	l ia b s
+078/105	löiwas	1	l öi w a s
+078/135	liebs	1	l ie b s
+078/193	lieges	1	l ie g e s
+079/021	liev	1	l ie v
+079/023	liew	1	l ie w
+079/025	liff	1	l i ff
+079/027	läiw	1	l äi w
+079/029	lief	1	l ie f
+079/031	liewes	1	l ie w e s
+079/033	lieb	1	l ie b
+079/035	liiwes	1	l ii w e s
+079/037	liebes	1	l ie b e s
+079/039	liewes	1	l ie w e s
+079/043	liiewes	1	l iie w e s
+079/045	liebs	1	l ie b s
+079/047	lieb	1	l ie b
+079/049	liewes	1	l ie w e s
+079/051	liebs	1	l ie b s
+079/053	liebs	1	l ie b s
+079/055	liebs	1	l ie b s
+079/057	liels	1	l ie l s
+079/059	libs	1	l i b s
+079/061	liabs	1	l ia b s
+079/063	liabs	1	l ia b s
+079/065	liebs	1	l ie b s
+079/067	liebs	1	l ie b s
+079/069	liäbs	1	l iä b s
+079/071	liabs	1	l ia b s
+079/073	liabs	1	l ia b s
+079/075	liabs	1	l ia b s
+079/077	liabs	1	l ia b s
+079/079	läibs	1	l äi b s
+079/081	löibs	1	l öi b s
+079/083	leibs	1	l ei b s
+079/085	leis	1	l ei s
+079/087	lies	1	l ie s
+079/089	leeibs	1	l eei b s
+079/091	laibs	1	l ai b s
+079/093	löis	1	l öi s
+079/095	löibs	1	l öi b s
+079/097	liabs	1	l ia b s
+079/099	lias	1	l ia s
+079/101	läis	1	l äi s
+079/103	liabs	1	l ia b s
+079/105	liabs	1	l ia b s
+079/107	liabs	1	l ia b s
+079/133	liebs	1	l ie b s
+079/135	liebs	1	l ie b s
+079/193	liebs	1	l ie b s
+079/195	liebes	1	l ie b e s
+079/197	uiebes	1	uie b e s
+080/025	läif	1	l äi f
+080/027	leif	1	l ei f
+080/029	lieb	1	l ie b
+080/031	liewes	1	l ie w e s
+080/033	lieb	1	l ie b
+080/035	lieb	1	l ie b
+080/037	lieb	1	l ie b
+080/039	liebes	1	l ie b e s
+080/041	liewes	1	l ie w e s
+080/043	liebr	1	l ie b r
+080/045	liewes	1	l ie w e s
+080/047	lieb	1	l ie b
+080/049	liebs	1	l ie b s
+080/051	liebs	1	l ie b s
+080/053	liebs	1	l ie b s
+080/055	liebs	1	l ie b s
+080/057	liebs	1	l ie b s
+080/059	libs	1	l i b s
+080/061	liiabs	1	l iia b s
+080/063	libs	1	l i b s
+080/065	liabs	1	l ia b s
+080/067	liabs	1	l ia b s
+080/069	liabs	1	l ia b s
+080/071	liabs	1	l ia b s
+080/073	liäbs	1	l iä b s
+080/075	libs	1	l i b s
+080/077	liabs	1	l ia b s
+080/079	läibs	1	l äi b s
+080/081	löibs	1	l öi b s
+080/083	loibs	1	l oi b s
+080/085	läibs	1	l äi b s
+080/087	leis	1	l ei s
+080/089	löibs	1	l öi b s
+080/091	liabs	1	l ia b s
+080/093	laistz	1	l ai s t z
+080/095	liabs	1	l ia b s
+080/097	liabs	1	l ia b s
+080/099	liabs	1	l ia b s
+080/101	leöbs	1	l eö b s
+080/103	laibs	1	l ai b s
+080/105	liabs	1	l ia b s
+080/107	liabs	1	l ia b s
+080/109	liabs	1	l ia b s
+080/127	liabs	1	l ia b s
+080/147	liebes	1	l ie b e s
+080/151	liabs	1	l ia b s
+080/153	liabs	1	l ia b s
+080/193	liebes	1	l ie b e s
+080/195	liebes	1	l ie b e s
+081/025	lebes	1	l e b e s
+081/027	liew	1	l ie w
+081/029	liew	1	l ie w
+081/031	liw	1	l i w
+081/033	leives	1	l ei v e s
+081/035	liewes	1	l ie w e s
+081/037	liewes	1	l ie w e s
+081/039	liewes	1	l ie w e s
+081/043	liebs	1	l ie b s
+081/045	lieb	1	l ie b
+081/047	liebs	1	l ie b s
+081/049	liebs	1	l ie b s
+081/051	liebs	1	l ie b s
+081/053	liebs	1	l ie b s
+081/055	liebs	1	l ie b s
+081/057	liabs	1	l ia b s
+081/059	liabs	1	l ia b s
+081/061	liabs	1	l ia b s
+081/063	liebs	1	l ie b s
+081/065	liabs	1	l ia b s
+081/067	liiabs	1	l iia b s
+081/069	liabs	1	l ia b s
+081/071	liabs	1	l ia b s
+081/073	liabs	1	l ia b s
+081/075	liabs	1	l ia b s
+081/077	liäbs	1	l iä b s
+081/079	leibs	1	l ei b s
+081/081	laaibs	1	l aai b s
+081/083	löibs	1	l öi b s
+081/085	laibs	1	l ai b s
+081/087	löis	1	l öi s
+081/089	laibs	1	l ai b s
+081/091	liabs	1	l ia b s
+081/093	liabs	1	l ia b s
+081/095	NA	NA	-
+081/097	liabs	1	l ia b s
+081/099	liabs	1	l ia b s
+081/101	leiibs	1	l eii b s
+081/103	liabs	1	l ia b s
+081/105	liabs	1	l ia b s
+081/107	liabs	1	l ia b s
+081/109	liabs	1	l ia b s
+081/111	liabs	1	l ia b s
+081/127	liabs	1	l ia b s
+081/129	liabs	1	l ia b s
+081/133	liabs	1	l ia b s
+081/147	liebs	1	l ie b s
+081/191	liebes	1	l ie b e s
+081/193	NA	NA	-
+081/195	liebes	1	l ie b e s
+082/027	lew	1	l e w
+082/029	liew	1	l ie w
+082/031	liwes	1	l i w e s
+082/033	lewes	1	l e w e s
+082/035	liewes	1	l ie w e s
+082/037	liwes	1	l i w e s
+082/039	liwäs	1	l i w ä s
+082/041	liewes	1	l ie w e s
+082/043	liebs	1	l ie b s
+082/045	liebs	1	l ie b s
+082/047	liebs	1	l ie b s
+082/049	liebs	1	l ie b s
+082/051	liebs	1	l ie b s
+082/053	liabs	1	l ia b s
+082/055	liebs	1	l ie b s
+082/057	liabs	1	l ia b s
+082/059	liabs	1	l ia b s
+082/061	liabs	1	l ia b s
+082/063	liaabs	1	l iaa b s
+082/065	liabs	1	l ia b s
+082/067	liabs	1	l ia b s
+082/069	liabs	1	l ia b s
+082/071	liebs	1	l ie b s
+082/073	liabs	1	l ia b s
+082/075	liabs	1	l ia b s
+082/077	liabs	1	l ia b s
+082/079	leibs	1	l ei b s
+082/081	löibs	1	l öi b s
+082/083	läibs	1	l äi b s
+082/085	löibs	1	l öi b s
+082/087	liebs	1	l ie b s
+082/089	laibs	1	l ai b s
+082/091	liabs	1	l ia b s
+082/093	leibs	1	l ei b s
+082/095	liabs	1	l ia b s
+082/097	liabs	1	l ia b s
+082/099	liabs	1	l ia b s
+082/101	liabs	1	l ia b s
+082/103	NA	NA	-
+082/105	liabs	1	l ia b s
+082/107	liabs	1	l ia b s
+082/111	liabs	1	l ia b s
+082/113	liabs	1	l ia b s
+082/117	liabs	1	l ia b s
+082/129	liabs	1	l ia b s
+082/131	liabs	1	l ia b s
+082/133	liabs	1	l ia b s
+082/135	liabs	1	l ia b s
+082/145	liarbs	1	l ia r b s
+082/147	liabs	1	l ia b s
+082/191	liebes	1	l ie b e s
+082/195	lieb	1	l ie b
+083/027	lie	1	l ie
+083/029	liebes	1	l ie b e s
+083/031	liewes	1	l ie w e s
+083/033	lewass	1	l e w a ss
+083/035	lebes	1	l e b e s
+083/037	liwes	1	l i w e s
+083/039	liawes	1	l ia w e s
+083/041	liebs	1	l ie b s
+083/043	liebs	1	l ie b s
+083/045	liebs	1	l ie b s
+083/047	liebs	1	l ie b s
+083/049	liebs	1	l ie b s
+083/051	liebs	1	l ie b s
+083/053	liabs	1	l ia b s
+083/055	liabs	1	l ia b s
+083/057	liabs	1	l ia b s
+083/059	liabs	1	l ia b s
+083/061	liabs	1	l ia b s
+083/063	liabs	1	l ia b s
+083/065	liabs	1	l ia b s
+083/067	liabs	1	l ia b s
+083/069	liebs	1	l ie b s
+083/071	liabs	1	l ia b s
+083/073	liabs	1	l ia b s
+083/075	liabs	1	l ia b s
+083/077	liebs	1	l ie b s
+083/079	läibs	1	l äi b s
+083/081	leibs	1	l ei b s
+083/083	liabs	1	l ia b s
+083/085	läibs	1	l äi b s
+083/087	liabs	1	l ia b s
+083/089	liabs	1	l ia b s
+083/091	liabs	1	l ia b s
+083/093	liabs	1	l ia b s
+083/095	liabs	1	l ia b s
+083/097	liabs	1	l ia b s
+083/099	leibs	1	l ei b s
+083/101	liabs	1	l ia b s
+083/103	leis	1	l ei s
+083/105	leibs	1	l ei b s
+083/107	liabs	1	l ia b s
+083/111	liabs	1	l ia b s
+083/113	liabs	1	l ia b s
+083/115	liabs	1	l ia b s
+083/117	NA	NA	-
+083/119	liabs	1	l ia b s
+083/121	liabs	1	l ia b s
+083/129	liabs	1	l ia b s
+083/131	liabs	1	l ia b s
+083/133	liebs	1	l ie b s
+083/135	liabs	1	l ia b s
+083/139	liabs	1	l ia b s
+083/143	liabs	1	l ia b s
+083/145	liabs	1	l ia b s
+083/147	liabs	1	l ia b s
+083/149	liebs	1	l ie b s
+083/173	lips	1	l i p s
+083/195	liebes	1	l ie b e s
+084/031	liewes	1	l ie w e s
+084/033	liewes	1	l ie w e s
+084/035	leiwäs	1	l ei w ä s
+084/037	lewes	1	l e w e s
+084/039	liäwes	1	l iä w e s
+084/041	leabs	1	l ea b s
+084/043	lebs	1	l e b s
+084/045	liebs	1	l ie b s
+084/047	liebs	1	l ie b s
+084/049	liibs	1	l ii b s
+084/051	liebs	1	l ie b s
+084/053	liebs	1	l ie b s
+084/055	liabs	1	l ia b s
+084/057	liabs	1	l ia b s
+084/059	liabs	1	l ia b s
+084/061	liabs	1	l ia b s
+084/063	liabs	1	l ia b s
+084/065	liabs	1	l ia b s
+084/067	liebs	1	l ie b s
+084/069	liabs	1	l ia b s
+084/071	liebs	1	l ie b s
+084/073	liabs	1	l ia b s
+084/075	liabs	1	l ia b s
+084/077	liabs	1	l ia b s
+084/079	liabs	1	l ia b s
+084/081	liabs	1	l ia b s
+084/083	liabs	1	l ia b s
+084/085	liiabs	1	l iia b s
+084/087	liiabs	1	l iia b s
+084/089	lieabs	1	l iea b s
+084/091	NA	NA	-
+084/093	liabs	1	l ia b s
+084/095	liabs	1	l ia b s
+084/097	liabs	1	l ia b s
+084/099	liabs	1	l ia b s
+084/101	liabs	1	l ia b s
+084/103	liabs	1	l ia b s
+084/105	liabs	1	l ia b s
+084/107	liabs	1	l ia b s
+084/109	liabs	1	l ia b s
+084/111	liabs	1	l ia b s
+084/113	liabs	1	l ia b s
+084/115	liabs	1	l ia b s
+084/117	liabs	1	l ia b s
+084/119	liabs	1	l ia b s
+084/129	liabs	1	l ia b s
+084/131	liabs	1	l ia b s
+084/133	liabs	1	l ia b s
+084/135	liabs	1	l ia b s
+084/137	leiabs	1	l eia b s
+084/139	liabs	1	l ia b s
+084/141	liabs	1	l ia b s
+084/143	liaws	1	l ia w s
+084/145	liabs	1	l ia b s
+084/147	liabs	1	l ia b s
+084/149	liabs	1	l ia b s
+084/171	liibs	1	l ii b s
+084/173	lips	1	l i p s
+084/195	liebes	1	l ie b e s
+085/031	lieubes	1	l ieu b e s
+085/033	liewes	1	l ie w e s
+085/035	lewes	1	l e w e s
+085/037	liabs	1	l ia b s
+085/039	leabs	1	l ea b s
+085/041	liebs	1	l ie b s
+085/043	liebs	1	l ie b s
+085/045	libs	1	l i b s
+085/047	liebs	1	l ie b s
+085/049	liebs	1	l ie b s
+085/051	liabs	1	l ia b s
+085/053	liabs	1	l ia b s
+085/055	liäbs	1	l iä b s
+085/057	liabs	1	l ia b s
+085/059	liabs	1	l ia b s
+085/061	liabs	1	l ia b s
+085/063	liabs	1	l ia b s
+085/065	liabs	1	l ia b s
+085/067	liabs	1	l ia b s
+085/069	liabs	1	l ia b s
+085/071	liebs	1	l ie b s
+085/073	liabs	1	l ia b s
+085/075	lieabs	1	l iea b s
+085/077	liabs	1	l ia b s
+085/079	liebs	1	l ie b s
+085/081	liabs	1	l ia b s
+085/083	liabs	1	l ia b s
+085/085	liabs	1	l ia b s
+085/087	liabs	1	l ia b s
+085/089	liabs	1	l ia b s
+085/091	liabs	1	l ia b s
+085/093	liabs	1	l ia b s
+085/095	liabs	1	l ia b s
+085/097	liebs	1	l ie b s
+085/101	liabs	1	l ia b s
+085/103	liabs	1	l ia b s
+085/105	NA	NA	-
+085/107	liabs	1	l ia b s
+085/109	liabs	1	l ia b s
+085/111	liabs	1	l ia b s
+085/113	liabs	1	l ia b s
+085/115	liabs	1	l ia b s
+085/117	liabs	1	l ia b s
+085/119	liabs	1	l ia b s
+085/121	liäbs	1	l iä b s
+085/123	libs	1	l i b s
+085/125	liabs	1	l ia b s
+085/127	liabs	1	l ia b s
+085/129	liabs	1	l ia b s
+085/131	liabs	1	l ia b s
+085/133	liabs	1	l ia b s
+085/135	liabs	1	l ia b s
+085/137	liabs	1	l ia b s
+085/139	liabs	1	l ia b s
+085/141	liabs	1	l ia b s
+085/143	liabs	1	l ia b s
+085/145	liabs	1	l ia b s
+085/147	liabs	1	l ia b s
+085/149	liabs	1	l ia b s
+085/175	loips	1	l oi p s
+085/193	liibss	1	l ii b ss
+085/197	libes	1	l i b e s
+086/033	lewes	1	l e w e s
+086/035	leabs	1	l ea b s
+086/037	liäbs	1	l iä b s
+086/039	leabs	1	l ea b s
+086/041	liäbs	1	l iä b s
+086/043	lebs	1	l e b s
+086/045	liebs	1	l ie b s
+086/047	liebs	1	l ie b s
+086/049	liäbs	1	l iä b s
+086/051	liabs	1	l ia b s
+086/053	liabs	1	l ia b s
+086/055	liabs	1	l ia b s
+086/057	liabs	1	l ia b s
+086/059	liabs	1	l ia b s
+086/061	liabs	1	l ia b s
+086/063	liabs	1	l ia b s
+086/065	liabs	1	l ia b s
+086/067	liabs	1	l ia b s
+086/069	liabs	1	l ia b s
+086/071	liabs	1	l ia b s
+086/073	liabs	1	l ia b s
+086/075	liabs	1	l ia b s
+086/077	liabs	1	l ia b s
+086/079	liabs	1	l ia b s
+086/081	liabs	1	l ia b s
+086/083	liebs	1	l ie b s
+086/085	liabs	1	l ia b s
+086/087	liabs	1	l ia b s
+086/089	liabs	1	l ia b s
+086/091	liabs	1	l ia b s
+086/093	liabs	1	l ia b s
+086/095	liiabs	1	l iia b s
+086/097	liabs	1	l ia b s
+086/099	liabs	1	l ia b s
+086/101	liebs	1	l ie b s
+086/103	lieebs	1	l iee b s
+086/105	liabs	1	l ia b s
+086/107	liabs	1	l ia b s
+086/109	liabs	1	l ia b s
+086/111	liabs	1	l ia b s
+086/113	liabs	1	l ia b s
+086/115	liabs	1	l ia b s
+086/117	liabs	1	l ia b s
+086/119	liabs	1	l ia b s
+086/121	liabs	1	l ia b s
+086/123	liabs	1	l ia b s
+086/125	liabs	1	l ia b s
+086/127	liabs	1	l ia b s
+086/129	labs	1	l a b s
+086/131	liabs	1	l ia b s
+086/133	liabs	1	l ia b s
+086/135	liabs	1	l ia b s
+086/137	liabs	1	l ia b s
+086/139	liabs	1	l ia b s
+086/141	liabs	1	l ia b s
+086/143	liabs	1	l ia b s
+086/145	liabs	1	l ia b s
+086/147	liabs	1	l ia b s
+086/149	liabs	1	l ia b s
+086/151	liebs	1	l ie b s
+086/175	laips	1	l ai p s
+086/197	liebes	1	l ie b e s
+086/199	liabes	1	l ia b e s
+087/033	liebes	1	l ie b e s
+087/035	lebs	1	l e b s
+087/037	liebs	1	l ie b s
+087/039	liabs	1	l ia b s
+087/041	lieb	1	l ie b
+087/043	liäbs	1	l iä b s
+087/045	liebs	1	l ie b s
+087/049	liabs	1	l ia b s
+087/051	liabs	1	l ia b s
+087/053	liabs	1	l ia b s
+087/055	liabs	1	l ia b s
+087/057	liabs	1	l ia b s
+087/059	liäbs	1	l iä b s
+087/061	liebs	1	l ie b s
+087/063	liabs	1	l ia b s
+087/065	liabs	1	l ia b s
+087/067	liabs	1	l ia b s
+087/069	liabs	1	l ia b s
+087/071	liabs	1	l ia b s
+087/073	liabs	1	l ia b s
+087/075	liabs	1	l ia b s
+087/077	liabs	1	l ia b s
+087/079	liabs	1	l ia b s
+087/081	liabs	1	l ia b s
+087/083	liabs	1	l ia b s
+087/085	liebs	1	l ie b s
+087/087	liabs	1	l ia b s
+087/089	NA	NA	-
+087/091	liabs	1	l ia b s
+087/093	liabs	1	l ia b s
+087/095	liabs	1	l ia b s
+087/097	liabs	1	l ia b s
+087/099	liabs	1	l ia b s
+087/101	liabs	1	l ia b s
+087/103	liabs	1	l ia b s
+087/105	liabs	1	l ia b s
+087/107	liabs	1	l ia b s
+087/109	liabs	1	l ia b s
+087/111	liabs	1	l ia b s
+087/113	liabs	1	l ia b s
+087/115	liabs	1	l ia b s
+087/117	liabs	1	l ia b s
+087/119	liabs	1	l ia b s
+087/121	liabs	1	l ia b s
+087/123	liabs	1	l ia b s
+087/125	liabs	1	l ia b s
+087/127	liabs	1	l ia b s
+087/129	liabs	1	l ia b s
+087/133	liabs	1	l ia b s
+087/135	liabs	1	l ia b s
+087/137	liabs	1	l ia b s
+087/139	liabs	1	l ia b s
+087/141	liabs	1	l ia b s
+087/143	liabs	1	l ia b s
+087/145	liabs	1	l ia b s
+087/147	liabs	1	l ia b s
+087/149	liabs	1	l ia b s
+087/151	liabs	1	l ia b s
+088/035	liebs	1	l ie b s
+088/037	leeaabs	1	l eeaa b s
+088/039	liabs	1	l ia b s
+088/041	liabs	1	l ia b s
+088/043	liäbs	1	l iä b s
+088/045	liebs	1	l ie b s
+088/047	liabs	1	l ia b s
+088/049	liiabs	1	l iia b s
+088/051	liebs	1	l ie b s
+088/053	liabs	1	l ia b s
+088/055	liabs	1	l ia b s
+088/057	liabs	1	l ia b s
+088/059	liiabs	1	l iia b s
+088/061	liabs	1	l ia b s
+088/063	lieabs	1	l iea b s
+088/065	liäbs	1	l iä b s
+088/067	liabs	1	l ia b s
+088/069	liabs	1	l ia b s
+088/071	liabs	1	l ia b s
+088/073	liabs	1	l ia b s
+088/075	liabs	1	l ia b s
+088/077	liabs	1	l ia b s
+088/079	liabs	1	l ia b s
+088/081	liabs	1	l ia b s
+088/083	liab	1	l ia b
+088/085	liabs	1	l ia b s
+088/087	liabs	1	l ia b s
+088/089	liebs	1	l ie b s
+088/091	liabs	1	l ia b s
+088/093	liabs	1	l ia b s
+088/095	liabs	1	l ia b s
+088/097	liabs	1	l ia b s
+088/099	liabs	1	l ia b s
+088/101	liabs	1	l ia b s
+088/103	liiabs	1	l iia b s
+088/105	liabs	1	l ia b s
+088/107	liabs	1	l ia b s
+088/109	liabs	1	l ia b s
+088/113	liebs	1	l ie b s
+088/115	liabs	1	l ia b s
+088/117	liabs	1	l ia b s
+088/121	liabs	1	l ia b s
+088/123	liabs	1	l ia b s
+088/127	liabs	1	l ia b s
+088/129	liabs	1	l ia b s
+088/131	liebs	1	l ie b s
+088/137	liabs	1	l ia b s
+088/139	liabs	1	l ia b s
+088/141	liabs	1	l ia b s
+088/143	liabs	1	l ia b s
+088/145	liabs	1	l ia b s
+088/147	liabs	1	l ia b s
+088/149	lieabs	1	l iea b s
+089/035	liabs	1	l ia b s
+089/037	leabs	1	l ea b s
+089/039	liabs	1	l ia b s
+089/041	leabs	1	l ea b s
+089/043	liäbs	1	l iä b s
+089/045	liebs	1	l ie b s
+089/047	liabs	1	l ia b s
+089/049	liabs	1	l ia b s
+089/051	liabs	1	l ia b s
+089/053	liabs	1	l ia b s
+089/055	liebs	1	l ie b s
+089/057	liebs	1	l ie b s
+089/059	liabs	1	l ia b s
+089/061	lieabs	1	l iea b s
+089/063	liebs	1	l ie b s
+089/065	liabs	1	l ia b s
+089/067	liebs	1	l ie b s
+089/069	liabs	1	l ia b s
+089/071	liabs	1	l ia b s
+089/073	liabs	1	l ia b s
+089/075	liabs	1	l ia b s
+089/077	liabs	1	l ia b s
+089/079	liabs	1	l ia b s
+089/081	liabs	1	l ia b s
+089/083	liabs	1	l ia b s
+089/085	liäbs	1	l iä b s
+089/087	liebes	1	l ie b e s
+089/089	liabs	1	l ia b s
+089/091	liabs	1	l ia b s
+089/093	liabs	1	l ia b s
+089/095	liabs	1	l ia b s
+089/097	liabs	1	l ia b s
+089/099	liabs	1	l ia b s
+089/101	liabs	1	l ia b s
+089/103	liabs	1	l ia b s
+089/105	liabs	1	l ia b s
+089/107	liabs	1	l ia b s
+089/109	liabs	1	l ia b s
+089/111	liabs	1	l ia b s
+089/113	liabs	1	l ia b s
+089/115	liabs	1	l ia b s
+089/117	liabs	1	l ia b s
+089/119	NA	NA	-
+089/121	liabs	1	l ia b s
+089/123	liabs	1	l ia b s
+089/125	liaba	1	l ia b a
+089/127	liabs	1	l ia b s
+089/129	liabs	1	l ia b s
+089/131	liabs	1	l ia b s
+089/133	liabs	1	l ia b s
+089/135	liabs	1	l ia b s
+089/137	liabs	1	l ia b s
+089/139	liabs	1	l ia b s
+089/141	liabs	1	l ia b s
+089/143	liabs	1	l ia b s
+089/145	liabs	1	l ia b s
+089/147	liabs	1	l ia b s
+089/149	liabs	1	l ia b s
+090/035	liabs	1	l ia b s
+090/037	leabs	1	l ea b s
+090/039	liabs	1	l ia b s
+090/041	liabs	1	l ia b s
+090/043	liäbs	1	l iä b s
+090/045	liibs	1	l ii b s
+090/047	lieebs	1	l iee b s
+090/049	liabs	1	l ia b s
+090/051	liebs	1	l ie b s
+090/053	liabs	1	l ia b s
+090/055	liabs	1	l ia b s
+090/057	liabs	1	l ia b s
+090/059	liabs	1	l ia b s
+090/061	liabs	1	l ia b s
+090/063	liabs	1	l ia b s
+090/065	liebs	1	l ie b s
+090/067	liabs	1	l ia b s
+090/069	liabs	1	l ia b s
+090/071	liabs	1	l ia b s
+090/073	liabs	1	l ia b s
+090/075	liabs	1	l ia b s
+090/077	liabs	1	l ia b s
+090/079	liabs	1	l ia b s
+090/081	liabs	1	l ia b s
+090/083	liabs	1	l ia b s
+090/085	liabs	1	l ia b s
+090/087	liebs	1	l ie b s
+090/089	liabs	1	l ia b s
+090/091	liabs	1	l ia b s
+090/093	liabs	1	l ia b s
+090/095	liabs	1	l ia b s
+090/097	liabs	1	l ia b s
+090/099	liabs	1	l ia b s
+090/101	liaabs	1	l iaa b s
+090/103	liabs	1	l ia b s
+090/105	liabs	1	l ia b s
+090/107	liabs	1	l ia b s
+090/109	liabs	1	l ia b s
+090/111	liabs	1	l ia b s
+090/113	NA	NA	-
+090/115	liabs	1	l ia b s
+090/119	liebs	1	l ie b s
+090/121	liabs	1	l ia b s
+090/123	liabs	1	l ia b s
+090/125	liabs	1	l ia b s
+090/127	liebs	1	l ie b s
+090/129	liabs	1	l ia b s
+090/131	liabs	1	l ia b s
+090/133	liabs	1	l ia b s
+090/135	NA	NA	-
+090/137	liabs	1	l ia b s
+090/139	liabs	1	l ia b s
+090/141	liabs	1	l ia b s
+090/143	liabs	1	l ia b s
+090/145	liabs	1	l ia b s
+090/147	liabs	1	l ia b s
+090/149	liabs	1	l ia b s
+090/151	liabs	1	l ia b s
+091/035	läbs	1	l ä b s
+091/037	leabs	1	l ea b s
+091/039	leabs	1	l ea b s
+091/041	leäbs	1	l eä b s
+091/043	liäbs	1	l iä b s
+091/045	lieb	1	l ie b
+091/047	liabs	1	l ia b s
+091/049	liäbs	1	l iä b s
+091/051	liabs	1	l ia b s
+091/053	liabs	1	l ia b s
+091/055	liebs	1	l ie b s
+091/057	liabs	1	l ia b s
+091/059	liabs	1	l ia b s
+091/061	liebs	1	l ie b s
+091/063	liabs	1	l ia b s
+091/065	liebs	1	l ie b s
+091/067	liabs	1	l ia b s
+091/069	liebs	1	l ie b s
+091/071	liabs	1	l ia b s
+091/073	liabs	1	l ia b s
+091/075	liabs	1	l ia b s
+091/077	liabs	1	l ia b s
+091/079	liabs	1	l ia b s
+091/081	liabs	1	l ia b s
+091/083	liabs	1	l ia b s
+091/085	liabs	1	l ia b s
+091/087	liabs	1	l ia b s
+091/091	liabs	1	l ia b s
+091/093	liabs	1	l ia b s
+091/095	liabs	1	l ia b s
+091/097	liabs	1	l ia b s
+091/099	liäbs	1	l iä b s
+091/101	liabs	1	l ia b s
+091/103	liabs	1	l ia b s
+091/105	NA	NA	-
+091/107	liabs	1	l ia b s
+091/109	liabs	1	l ia b s
+091/111	liabs	1	l ia b s
+091/113	liabs	1	l ia b s
+091/115	liabs	1	l ia b s
+091/117	liabs	1	l ia b s
+091/119	liabs	1	l ia b s
+091/121	liabs	1	l ia b s
+091/125	liabs	1	l ia b s
+091/129	liabs	1	l ia b s
+091/131	liabs	1	l ia b s
+091/133	liabs	1	l ia b s
+091/135	liabs	1	l ia b s
+091/137	liabs	1	l ia b s
+091/139	liabs	1	l ia b s
+091/141	liabs	1	l ia b s
+091/143	liabs	1	l ia b s
+091/145	lieabs	1	l iea b s
+091/147	liabs	1	l ia b s
+091/149	liabs	1	l ia b s
+091/151	liabs	1	l ia b s
+091/155	liäps	1	l iä p s
+092/033	liäbs	1	l iä b s
+092/035	NA	NA	-
+092/037	liabs	1	l ia b s
+092/039	liabs	1	l ia b s
+092/041	liabs	1	l ia b s
+092/043	liebs	1	l ie b s
+092/045	liiebs	1	l iie b s
+092/047	liebs	1	l ie b s
+092/049	liäbs	1	l iä b s
+092/051	liab	1	l ia b
+092/053	liäb	1	l iä b
+092/055	liabs	1	l ia b s
+092/057	liebs	1	l ie b s
+092/059	liabs	1	l ia b s
+092/061	liebs	1	l ie b s
+092/063	liebs	1	l ie b s
+092/065	liabs	1	l ia b s
+092/067	liebs	1	l ie b s
+092/069	liabs	1	l ia b s
+092/071	liabs	1	l ia b s
+092/073	liabs	1	l ia b s
+092/075	liabs	1	l ia b s
+092/077	liabs	1	l ia b s
+092/079	liabs	1	l ia b s
+092/081	liabs	1	l ia b s
+092/083	liabs	1	l ia b s
+092/085	lieabs	1	l iea b s
+092/087	liabs	1	l ia b s
+092/089	liabs	1	l ia b s
+092/091	liabs	1	l ia b s
+092/093	liabs	1	l ia b s
+092/095	liabs	1	l ia b s
+092/097	liabs	1	l ia b s
+092/099	liabs	1	l ia b s
+092/101	liabs	1	l ia b s
+092/103	liabs	1	l ia b s
+092/105	liiabs	1	l iia b s
+092/107	leabs	1	l ea b s
+092/109	liabs	1	l ia b s
+092/111	liebs	1	l ie b s
+092/113	liabs	1	l ia b s
+092/115	liabs	1	l ia b s
+092/117	liabs	1	l ia b s
+092/119	liabs	1	l ia b s
+092/121	lieabs	1	l iea b s
+092/123	liabs	1	l ia b s
+092/125	liabs	1	l ia b s
+092/127	liabs	1	l ia b s
+092/129	liags	1	l ia g s
+092/131	liabs	1	l ia b s
+092/133	liabs	1	l ia b s
+092/135	liabs	1	l ia b s
+092/137	liabs	1	l ia b s
+092/139	liabs	1	l ia b s
+092/141	liabs	1	l ia b s
+092/143	liabs	1	l ia b s
+092/145	liabs	1	l ia b s
+092/147	liabs	1	l ia b s
+092/149	liabs	1	l ia b s
+092/151	liabs	1	l ia b s
+093/035	liab	1	l ia b
+093/037	liabs	1	l ia b s
+093/039	liabs	1	l ia b s
+093/041	liäb	1	l iä b
+093/043	liebs	1	l ie b s
+093/045	liabs	1	l ia b s
+093/047	liabs	1	l ia b s
+093/049	liäb	1	l iä b
+093/051	liäb	1	l iä b
+093/053	liäbs	1	l iä b s
+093/055	liabs	1	l ia b s
+093/057	liabs	1	l ia b s
+093/059	liabs	1	l ia b s
+093/061	liebs	1	l ie b s
+093/063	liabs	1	l ia b s
+093/065	liabs	1	l ia b s
+093/067	liabs	1	l ia b s
+093/069	liabs	1	l ia b s
+093/071	liabs	1	l ia b s
+093/073	liabs	1	l ia b s
+093/075	liabs	1	l ia b s
+093/077	liabs	1	l ia b s
+093/079	liabs	1	l ia b s
+093/081	liabs	1	l ia b s
+093/083	liabs	1	l ia b s
+093/085	liabs	1	l ia b s
+093/087	NA	NA	-
+093/089	liabs	1	l ia b s
+093/091	liabs	1	l ia b s
+093/093	lieabs	1	l iea b s
+093/095	liabs	1	l ia b s
+093/097	liabs	1	l ia b s
+093/099	liabs	1	l ia b s
+093/101	liabs	1	l ia b s
+093/103	liabs	1	l ia b s
+093/105	liabs	1	l ia b s
+093/109	liabs	1	l ia b s
+093/111	liabs	1	l ia b s
+093/113	liabs	1	l ia b s
+093/115	liabs	1	l ia b s
+093/117	liebs	1	l ie b s
+093/119	liabs	1	l ia b s
+093/121	liebs	1	l ie b s
+093/123	liabs	1	l ia b s
+093/125	liabs	1	l ia b s
+093/127	liabs	1	l ia b s
+093/129	liabs	1	l ia b s
+093/131	liabs	1	l ia b s
+093/133	liabs	1	l ia b s
+093/137	liabs	1	l ia b s
+093/139	liabs	1	l ia b s
+093/143	liebs	1	l ie b s
+093/145	liabs	1	l ia b s
+093/147	liabs	1	l ia b s
+093/149	liabs	1	l ia b s
+093/151	liabs	1	l ia b s
+093/153	liabs	1	l ia b s
+093/155	liabs	1	l ia b s
+094/033	NA	NA	-
+094/035	liabs	1	l ia b s
+094/037	liewes	1	l ie w e s
+094/039	leabs	1	l ea b s
+094/041	liäb	1	l iä b
+094/043	lieb	1	l ie b
+094/045	liäb	1	l iä b
+094/047	lieb	1	l ie b
+094/049	liabs	1	l ia b s
+094/051	liab	1	l ia b
+094/053	liab	1	l ia b
+094/055	liebs	1	l ie b s
+094/057	liebs	1	l ie b s
+094/059	liabs	1	l ia b s
+094/061	liabs	1	l ia b s
+094/063	liabs	1	l ia b s
+094/065	liabs	1	l ia b s
+094/067	liabs	1	l ia b s
+094/069	liabs	1	l ia b s
+094/071	liabs	1	l ia b s
+094/073	liabs	1	l ia b s
+094/075	liebs	1	l ie b s
+094/077	liabs	1	l ia b s
+094/079	liabs	1	l ia b s
+094/081	liabs	1	l ia b s
+094/083	liebs	1	l ie b s
+094/085	liäbs	1	l iä b s
+094/087	liabs	1	l ia b s
+094/089	liabs	1	l ia b s
+094/091	liabs	1	l ia b s
+094/093	liabs	1	l ia b s
+094/095	liabs	1	l ia b s
+094/097	liabs	1	l ia b s
+094/099	liabs	1	l ia b s
+094/101	liabs	1	l ia b s
+094/103	liabs	1	l ia b s
+094/105	liabs	1	l ia b s
+094/107	liabs	1	l ia b s
+094/109	liabs	1	l ia b s
+094/111	liabs	1	l ia b s
+094/113	liabs	1	l ia b s
+094/115	liabs	1	l ia b s
+094/117	liabs	1	l ia b s
+094/119	liabs	1	l ia b s
+094/121	liabs	1	l ia b s
+094/123	liabs	1	l ia b s
+094/125	liabs	1	l ia b s
+094/127	liabs	1	l ia b s
+094/129	liabs	1	l ia b s
+094/131	liabs	1	l ia b s
+094/133	liabs	1	l ia b s
+094/135	liabs	1	l ia b s
+094/137	liabs	1	l ia b s
+094/139	liabs	1	l ia b s
+094/141	liabs	1	l ia b s
+094/143	liabs	1	l ia b s
+094/145	NA	NA	-
+094/147	liabs	1	l ia b s
+094/149	liabs	1	l ia b s
+094/151	liabs	1	l ia b s
+094/153	liabs	1	l ia b s
+095/031	liab	1	l ia b
+095/033	liebs	1	l ie b s
+095/035	liab	1	l ia b
+095/037	liab	1	l ia b
+095/039	liabs	1	l ia b s
+095/041	lieb	1	l ie b
+095/043	liebs	1	l ie b s
+095/045	liäb	1	l iä b
+095/047	liebs	1	l ie b s
+095/049	liabs	1	l ia b s
+095/051	liab	1	l ia b
+095/053	lieäb	1	l ieä b
+095/055	liab	1	l ia b
+095/057	lieb	1	l ie b
+095/059	liabs	1	l ia b s
+095/061	liabs	1	l ia b s
+095/063	liebs	1	l ie b s
+095/065	liebs	1	l ie b s
+095/067	liebs	1	l ie b s
+095/069	liabs	1	l ia b s
+095/071	liabs	1	l ia b s
+095/073	liebs	1	l ie b s
+095/075	liabs	1	l ia b s
+095/077	liabs	1	l ia b s
+095/079	liebs	1	l ie b s
+095/081	liebs	1	l ie b s
+095/083	liabs	1	l ia b s
+095/085	liabs	1	l ia b s
+095/087	liabs	1	l ia b s
+095/089	liabs	1	l ia b s
+095/091	NA	NA	-
+095/093	liabs	1	l ia b s
+095/095	liabs	1	l ia b s
+095/097	liabs	1	l ia b s
+095/099	liabs	1	l ia b s
+095/101	lieabs	1	l iea b s
+095/103	liabs	1	l ia b s
+095/105	liebs	1	l ie b s
+095/107	liabs	1	l ia b s
+095/109	liabs	1	l ia b s
+095/111	liabs	1	l ia b s
+095/113	liabs	1	l ia b s
+095/115	liabs	1	l ia b s
+095/117	liabs	1	l ia b s
+095/119	liabs	1	l ia b s
+095/121	liabs	1	l ia b s
+095/123	lirbs	1	l i r b s
+095/125	liabs	1	l ia b s
+095/129	liabs	1	l ia b s
+095/131	liabs	1	l ia b s
+095/133	liabs	1	l ia b s
+095/139	liabs	1	l ia b s
+095/141	liabs	1	l ia b s
+095/143	liabs	1	l ia b s
+095/145	liebs	1	l ie b s
+095/147	liabs	1	l ia b s
+095/149	NA	NA	-
+095/151	liabs	1	l ia b s
+095/153	liabs	1	l ia b s
+095/155	liabs	1	l ia b s
+096/031	lieb	1	l ie b
+096/033	liab	1	l ia b
+096/035	liabs	1	l ia b s
+096/037	liab	1	l ia b
+096/039	liabs	1	l ia b s
+096/041	liebs	1	l ie b s
+096/043	liabs	1	l ia b s
+096/045	liab	1	l ia b
+096/047	lieb	1	l ie b
+096/049	liab	1	l ia b
+096/051	liäb	1	l iä b
+096/053	liabs	1	l ia b s
+096/055	liab	1	l ia b
+096/057	liebs	1	l ie b s
+096/059	liebs	1	l ie b s
+096/061	liabs	1	l ia b s
+096/063	liebs	1	l ie b s
+096/065	liabs	1	l ia b s
+096/067	liabs	1	l ia b s
+096/069	liabs	1	l ia b s
+096/071	liabs	1	l ia b s
+096/075	liabs	1	l ia b s
+096/077	liabs	1	l ia b s
+096/079	liabs	1	l ia b s
+096/081	liabs	1	l ia b s
+096/083	liabs	1	l ia b s
+096/085	liöbs	1	l iö b s
+096/087	liabs	1	l ia b s
+096/089	liabs	1	l ia b s
+096/091	liabs	1	l ia b s
+096/093	liabs	1	l ia b s
+096/095	liabs	1	l ia b s
+096/097	liabs	1	l ia b s
+096/099	liabs	1	l ia b s
+096/101	liabs	1	l ia b s
+096/103	liabs	1	l ia b s
+096/105	liabs	1	l ia b s
+096/107	liabs	1	l ia b s
+096/109	liabs	1	l ia b s
+096/111	liabs	1	l ia b s
+096/113	liabs	1	l ia b s
+096/115	liabs	1	l ia b s
+096/117	liabs	1	l ia b s
+096/119	liabs	1	l ia b s
+096/121	liabs	1	l ia b s
+096/123	liabs	1	l ia b s
+096/125	liabs	1	l ia b s
+096/129	liabs	1	l ia b s
+096/131	liabs	1	l ia b s
+096/135	liabs	1	l ia b s
+096/137	liabs	1	l ia b s
+096/139	liabs	1	l ia b s
+096/141	liabs	1	l ia b s
+096/143	liabs	1	l ia b s
+096/145	liabs	1	l ia b s
+096/147	liapps	1	l ia pp s
+096/151	liabs	1	l ia b s
+096/153	liaps	1	l ia p s
+096/155	liaps	1	l ia p s
+097/031	liab	1	l ia b
+097/033	liäbs	1	l iä b s
+097/035	liabs	1	l ia b s
+097/037	liabb	1	l ia bb
+097/039	lieb	1	l ie b
+097/041	lieb	1	l ie b
+097/043	liab	1	l ia b
+097/045	liab	1	l ia b
+097/047	liab	1	l ia b
+097/049	liäb	1	l iä b
+097/051	liab	1	l ia b
+097/053	lieb	1	l ie b
+097/055	liab	1	l ia b
+097/057	liebs	1	l ie b s
+097/059	liebs	1	l ie b s
+097/061	liabs	1	l ia b s
+097/063	liabs	1	l ia b s
+097/065	liabs	1	l ia b s
+097/067	liebs	1	l ie b s
+097/069	liabs	1	l ia b s
+097/071	liabs	1	l ia b s
+097/073	liabs	1	l ia b s
+097/075	liabs	1	l ia b s
+097/077	liabs	1	l ia b s
+097/079	liabs	1	l ia b s
+097/081	liabs	1	l ia b s
+097/083	liabs	1	l ia b s
+097/085	liabs	1	l ia b s
+097/087	liiabs	1	l iia b s
+097/089	liabs	1	l ia b s
+097/091	liabs	1	l ia b s
+097/093	liabs	1	l ia b s
+097/095	liabs	1	l ia b s
+097/097	liabs	1	l ia b s
+097/099	liabs	1	l ia b s
+097/103	liebs	1	l ie b s
+097/105	liabs	1	l ia b s
+097/107	liabs	1	l ia b s
+097/109	liebs	1	l ie b s
+097/113	liabs	1	l ia b s
+097/125	liabs	1	l ia b s
+097/131	liabs	1	l ia b s
+097/133	liabs	1	l ia b s
+097/139	liabs	1	l ia b s
+097/141	liabs	1	l ia b s
+097/143	liabs	1	l ia b s
+097/145	liabs	1	l ia b s
+097/149	liabes	1	l ia b e s
+097/153	liabs	1	l ia b s
+098/033	leab	1	l ea b
+098/035	liäb	1	l iä b
+098/037	liab	1	l ia b
+098/039	liab	1	l ia b
+098/041	liab	1	l ia b
+098/043	lieb	1	l ie b
+098/045	liebs	1	l ie b s
+098/047	NA	NA	-
+098/049	liab	1	l ia b
+098/051	lieb	1	l ie b
+098/053	liab	1	l ia b
+098/055	liabs	1	l ia b s
+098/057	liabs	1	l ia b s
+098/059	liebs	1	l ie b s
+098/061	liabs	1	l ia b s
+098/063	liabs	1	l ia b s
+098/065	liebs	1	l ie b s
+098/067	liebs	1	l ie b s
+098/069	liebs	1	l ie b s
+098/071	liabs	1	l ia b s
+098/073	liabs	1	l ia b s
+098/075	liabs	1	l ia b s
+098/077	liebs	1	l ie b s
+098/079	liabs	1	l ia b s
+098/081	liabs	1	l ia b s
+098/083	liabs	1	l ia b s
+098/085	liabs	1	l ia b s
+098/087	liabs	1	l ia b s
+098/089	liabs	1	l ia b s
+098/091	liabs	1	l ia b s
+098/093	liabs	1	l ia b s
+098/095	liabs	1	l ia b s
+098/097	liabs	1	l ia b s
+098/103	lirabs	1	l i r a b s
+098/105	liabs	1	l ia b s
+098/107	liabs	1	l ia b s
+098/109	liabs	1	l ia b s
+098/111	liabs	1	l ia b s
+098/119	NA	NA	-
+098/123	liabs	1	l ia b s
+098/125	liabs	1	l ia b s
+098/127	liabs	1	l ia b s
+098/135	liabs	1	l ia b s
+098/137	liabs	1	l ia b s
+098/139	liabs	1	l ia b s
+098/141	liabs	1	l ia b s
+098/143	NA	NA	-
+098/145	liabs	1	l ia b s
+098/147	liabs	1	l ia b s
+098/149	liabs	1	l ia b s
+098/151	liabs	1	l ia b s
+099/033	liab	1	l ia b
+099/035	liab	1	l ia b
+099/037	liiab	1	l iia b
+099/039	liab	1	l ia b
+099/041	liabs	1	l ia b s
+099/043	lieb	1	l ie b
+099/045	lieb	1	l ie b
+099/047	liab	1	l ia b
+099/049	lieb	1	l ie b
+099/051	lieb	1	l ie b
+099/053	lieb	1	l ie b
+099/055	liebs	1	l ie b s
+099/057	liebs	1	l ie b s
+099/059	liabs	1	l ia b s
+099/063	lieabs	1	l iea b s
+099/065	liiabs	1	l iia b s
+099/067	liebs	1	l ie b s
+099/069	liebs	1	l ie b s
+099/071	liabs	1	l ia b s
+099/073	liabs	1	l ia b s
+099/075	liabs	1	l ia b s
+099/077	liabs	1	l ia b s
+099/081	liabs	1	l ia b s
+099/083	liabs	1	l ia b s
+099/085	liabs	1	l ia b s
+099/089	liabs	1	l ia b s
+099/093	liabs	1	l ia b s
+099/095	liabs	1	l ia b s
+099/099	liebs	1	l ie b s
+099/101	liabs	1	l ia b s
+099/103	NA	NA	-
+099/105	liabs	1	l ia b s
+099/107	liabs	1	l ia b s
+099/109	liabs	1	l ia b s
+099/111	liabs	1	l ia b s
+099/113	liabs	1	l ia b s
+099/121	NA	NA	-
+099/123	liabs	1	l ia b s
+099/125	liabs	1	l ia b s
+099/131	liabs	1	l ia b s
+099/137	liabs	1	l ia b s
+099/139	liabs	1	l ia b s
+099/141	liabs	1	l ia b s
+099/143	liabs	1	l ia b s
+099/145	liabs	1	l ia b s
+099/147	liäbs	1	l iä b s
+100/033	liäb	1	l iä b
+100/035	liäb	1	l iä b
+100/037	liabs	1	l ia b s
+100/039	liäbs	1	l iä b s
+100/041	lieb	1	l ie b
+100/043	NA	NA	-
+100/045	liäb	1	l iä b
+100/049	liäbs	1	l iä b s
+100/051	liebs	1	l ie b s
+100/053	liebs	1	l ie b s
+100/055	liebs	1	l ie b s
+100/057	liebs	1	l ie b s
+100/059	liebs	1	l ie b s
+100/061	liebs	1	l ie b s
+100/065	liabs	1	l ia b s
+100/067	liabs	1	l ia b s
+100/069	liabs	1	l ia b s
+100/071	liabs	1	l ia b s
+100/073	liabs	1	l ia b s
+100/075	liebs	1	l ie b s
+100/077	liabs	1	l ia b s
+100/081	liabs	1	l ia b s
+100/083	liabs	1	l ia b s
+100/089	liabs	1	l ia b s
+100/093	liabs	1	l ia b s
+100/095	liabs	1	l ia b s
+100/097	liabs	1	l ia b s
+100/099	liabs	1	l ia b s
+100/101	liebs	1	l ie b s
+100/109	liabs	1	l ia b s
+100/111	liabs	1	l ia b s
+100/113	liabs	1	l ia b s
+100/115	liabs	1	l ia b s
+100/117	liabs	1	l ia b s
+100/119	liabs	1	l ia b s
+100/121	liabs	1	l ia b s
+100/125	liabs	1	l ia b s
+100/127	liabs	1	l ia b s
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	liabs	1	l ia b s
+100/141	liabs	1	l ia b s
+100/143	liabs	1	l ia b s
+100/145	liabs	1	l ia b s
+101/035	liab	1	l ia b
+101/037	liäbs	1	l iä b s
+101/039	lieb	1	l ie b
+101/041	lieb	1	l ie b
+101/043	liebs	1	l ie b s
+101/045	liebs	1	l ie b s
+101/047	lieb	1	l ie b
+101/049	liebs	1	l ie b s
+101/051	liebs	1	l ie b s
+101/053	liibs	1	l ii b s
+101/055	liebs	1	l ie b s
+101/057	lieb	1	l ie b
+101/059	liebs	1	l ie b s
+101/061	liebs	1	l ie b s
+101/063	liäbs	1	l iä b s
+101/065	lieabb	1	l iea bb
+101/067	liabs	1	l ia b s
+101/071	liabs	1	l ia b s
+101/075	liebs	1	l ie b s
+101/077	liebs	1	l ie b s
+101/079	liebs	1	l ie b s
+101/081	liabs	1	l ia b s
+101/091	liabs	1	l ia b s
+101/093	liabs	1	l ia b s
+101/095	liabs	1	l ia b s
+101/097	liabs	1	l ia b s
+101/099	liebs	1	l ie b s
+101/101	liabs	1	l ia b s
+101/103	liabs	1	l ia b s
+101/107	liabs	1	l ia b s
+101/109	liabs	1	l ia b s
+101/113	liabs	1	l ia b s
+101/115	liabs	1	l ia b s
+101/121	liabs	1	l ia b s
+101/125	liabs	1	l ia b s
+101/129	liabs	1	l ia b s
+101/131	liabs	1	l ia b s
+101/133	liabs	1	l ia b s
+101/137	liabs	1	l ia b s
+101/139	liabs	1	l ia b s
+101/141	liabs	1	l ia b s
+101/143	liabs	1	l ia b s
+101/145	liaps	1	l ia p s
+101/147	liabs	1	l ia b s
+102/037	lieb	1	l ie b
+102/039	liäb	1	l iä b
+102/041	liäb	1	l iä b
+102/043	liebe	1	l ie b e
+102/045	lieb	1	l ie b
+102/047	liebs	1	l ie b s
+102/049	liebs	1	l ie b s
+102/051	liebs	1	l ie b s
+102/053	liäbs	1	l iä b s
+102/055	liebs	1	l ie b s
+102/057	liäb	1	l iä b
+102/059	lieb	1	l ie b
+102/061	NA	NA	-
+102/063	liebs	1	l ie b s
+102/065	liab	1	l ia b
+102/067	lieobs	1	l ieo b s
+102/069	liabs	1	l ia b s
+102/071	liebs	1	l ie b s
+102/073	guats	1	g ua t s
+102/075	liabs	1	l ia b s
+102/077	liabs	1	l ia b s
+102/079	liebs	1	l ie b s
+102/081	liabs	1	l ia b s
+102/083	liabs	1	l ia b s
+102/089	liabs	1	l ia b s
+102/091	liabs	1	l ia b s
+102/093	liabs	1	l ia b s
+102/095	liabs	1	l ia b s
+102/097	liabs	1	l ia b s
+102/099	liabs	1	l ia b s
+102/103	liabs	1	l ia b s
+102/107	liabs	1	l ia b s
+102/109	liabs	1	l ia b s
+102/113	liabs	1	l ia b s
+102/115	liabs	1	l ia b s
+102/127	liabs	1	l ia b s
+102/129	liabs	1	l ia b s
+102/131	liabs	1	l ia b s
+102/135	liabs	1	l ia b s
+102/137	liabs	1	l ia b s
+102/139	liabs	1	l ia b s
+102/141	liebs	1	l ie b s
+102/143	liaros	1	l ia r o s
+102/145	lews	1	l e w s
+103/039	liebs	1	l ie b s
+103/041	liebä	1	l ie b ä
+103/043	liebe	1	l ie b e
+103/045	liebs	1	l ie b s
+103/047	liäbs	1	l iä b s
+103/049	liebs	1	l ie b s
+103/051	liebs	1	l ie b s
+103/053	liebs	1	l ie b s
+103/055	lieb	1	l ie b
+103/057	liebs	1	l ie b s
+103/059	guets	1	g ue t s
+103/063	liabs	1	l ia b s
+103/065	liabs	1	l ia b s
+103/067	lioba	1	l io b a
+103/069	NA	NA	-
+103/071	liabs	1	l ia b s
+103/073	liabs	1	l ia b s
+103/075	liebs	1	l ie b s
+103/077	liabs	1	l ia b s
+103/079	liabs	1	l ia b s
+103/081	liabs	1	l ia b s
+103/083	liabs	1	l ia b s
+103/085	liabs	1	l ia b s
+103/087	liebs	1	l ie b s
+103/089	liabs	1	l ia b s
+103/091	liabs	1	l ia b s
+103/097	liebs	1	l ie b s
+103/099	liabs	1	l ia b s
+103/101	liabs	1	l ia b s
+103/105	liabs	1	l ia b s
+103/107	NA	NA	-
+103/111	liabs	1	l ia b s
+103/121	liabs	1	l ia b s
+103/125	liabs	1	l ia b s
+103/127	liabs	1	l ia b s
+103/131	liabs	1	l ia b s
+103/133	liabs	1	l ia b s
+103/135	liabs	1	l ia b s
+103/137	liabs	1	l ia b s
+103/139	liabs	1	l ia b s
+103/141	liabs	1	l ia b s
+103/143	liaws	1	l ia w s
+103/145	liebs	1	l ie b s
+104/033	liebe	1	l ie b e
+104/035	liebs	1	l ie b s
+104/037	liäbe	1	l iä b e
+104/039	liebe	1	l ie b e
+104/041	liebe	1	l ie b e
+104/043	lieb	1	l ie b
+104/045	liebs	1	l ie b s
+104/047	liebs	1	l ie b s
+104/049	liebs	1	l ie b s
+104/051	liäbs	1	l iä b s
+104/053	liebs	1	l ie b s
+104/055	liäbs	1	l iä b s
+104/057	lübs	1	l ü b s
+104/059	liebs	1	l ie b s
+104/061	liabs	1	l ia b s
+104/063	liabs	1	l ia b s
+104/065	liabs	1	l ia b s
+104/067	liebs	1	l ie b s
+104/071	liabs	1	l ia b s
+104/075	liabs	1	l ia b s
+104/077	liabs	1	l ia b s
+104/079	liebs	1	l ie b s
+104/081	liebs	1	l ie b s
+104/083	liebs	1	l ie b s
+104/085	liabs	1	l ia b s
+104/091	liabs	1	l ia b s
+104/095	liabs	1	l ia b s
+104/101	liabs	1	l ia b s
+104/103	liabs	1	l ia b s
+104/107	liabs	1	l ia b s
+104/111	liabs	1	l ia b s
+104/113	liabs	1	l ia b s
+104/119	liabs	1	l ia b s
+104/121	liabs	1	l ia b s
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	liabs	1	l ia b s
+104/131	liabs	1	l ia b s
+104/133	liabs	1	l ia b s
+104/135	liabs	1	l ia b s
+104/137	liabs	1	l ia b s
+104/139	liabs	1	l ia b s
+104/141	liabs	1	l ia b s
+104/143	liabs	1	l ia b s
+104/145	lias	1	l ia s
+105/031	liebe	1	l ie b e
+105/033	liebe	1	l ie b e
+105/035	liebs	1	l ie b s
+105/037	liebe	1	l ie b e
+105/039	liebe	1	l ie b e
+105/041	liebe	1	l ie b e
+105/043	liebs	1	l ie b s
+105/045	liebs	1	l ie b s
+105/047	liebs	1	l ie b s
+105/049	liäbs	1	l iä b s
+105/051	liebs	1	l ie b s
+105/053	lieb	1	l ie b
+105/055	liäbs	1	l iä b s
+105/057	liäbs	1	l iä b s
+105/059	liäbs	1	l iä b s
+105/061	liäbe	1	l iä b e
+105/063	liabs	1	l ia b s
+105/065	liebs	1	l ie b s
+105/067	liabs	1	l ia b s
+105/069	liabs	1	l ia b s
+105/071	liabs	1	l ia b s
+105/073	liabs	1	l ia b s
+105/075	liabs	1	l ia b s
+105/077	liebs	1	l ie b s
+105/079	liabs	1	l ia b s
+105/081	liabs	1	l ia b s
+105/085	lieber	1	l ie b e r
+105/087	liabs	1	l ia b s
+105/089	liebs	1	l ie b s
+105/103	liabs	1	l ia b s
+105/105	liabs	1	l ia b s
+105/111	liabs	1	l ia b s
+105/113	liebs	1	l ie b s
+105/115	liabs	1	l ia b s
+105/117	liabs	1	l ia b s
+105/119	NA	NA	-
+105/121	liabs	1	l ia b s
+105/125	liabs	1	l ia b s
+105/127	liabs	1	l ia b s
+105/131	liabs	1	l ia b s
+105/133	liabs	1	l ia b s
+105/135	liabs	1	l ia b s
+105/137	liabs	1	l ia b s
+105/141	liabs	1	l ia b s
+105/143	liabs	1	l ia b s
+105/145	liebs	1	l ie b s
+106/033	liebs	1	l ie b s
+106/035	liebe	1	l ie b e
+106/037	liebe	1	l ie b e
+106/039	liebe	1	l ie b e
+106/041	liebe	1	l ie b e
+106/043	liebs	1	l ie b s
+106/045	liebs	1	l ie b s
+106/047	liäbs	1	l iä b s
+106/049	liebs	1	l ie b s
+106/051	liäbs	1	l iä b s
+106/053	liebs	1	l ie b s
+106/057	liebs	1	l ie b s
+106/061	liäbs	1	l iä b s
+106/063	liebs	1	l ie b s
+106/067	liabs	1	l ia b s
+106/071	liabs	1	l ia b s
+106/073	liabs	1	l ia b s
+106/075	liabs	1	l ia b s
+106/077	liabs	1	l ia b s
+106/079	liabs	1	l ia b s
+106/081	liebs	1	l ie b s
+106/085	liabs	1	l ia b s
+106/087	liebs	1	l ie b s
+106/093	liebis	1	l ie b i s
+106/097	liabs	1	l ia b s
+106/099	NA	NA	-
+106/103	liabs	1	l ia b s
+106/111	liabs	1	l ia b s
+106/115	liabs	1	l ia b s
+106/121	liabs	1	l ia b s
+106/123	liabs	1	l ia b s
+106/125	liabs	1	l ia b s
+106/129	liebs	1	l ie b s
+106/131	liabs	1	l ia b s
+106/133	liabs	1	l ia b s
+106/135	liabs	1	l ia b s
+106/137	liabs	1	l ia b s
+106/139	NA	NA	-
+106/141	liabs	1	l ia b s
+106/143	liabs	1	l ia b s
+106/145	liabs	1	l ia b s
+107/033	liebä	1	l ie b ä
+107/035	liebe	1	l ie b e
+107/037	liebe	1	l ie b e
+107/039	liebs	1	l ie b s
+107/041	liebe	1	l ie b e
+107/043	liebe	1	l ie b e
+107/045	liebs	1	l ie b s
+107/047	liäbs	1	l iä b s
+107/049	liebs	1	l ie b s
+107/051	liebs	1	l ie b s
+107/053	liäbs	1	l iä b s
+107/057	liäbs	1	l iä b s
+107/059	NA	NA	-
+107/063	liebs	1	l ie b s
+107/065	liebs	1	l ie b s
+107/071	liabs	1	l ia b s
+107/075	liabs	1	l ia b s
+107/081	liebs	1	l ie b s
+107/085	liebs	1	l ie b s
+107/087	liabes	1	l ia b e s
+107/089	liobis	1	l io b i s
+107/091	liebo	1	l ie b o
+107/097	NA	NA	-
+107/099	liebis	1	l ie b i s
+107/103	liabs	1	l ia b s
+107/105	liabs	1	l ia b s
+107/107	liabs	1	l ia b s
+107/111	liabs	1	l ia b s
+107/119	liabs	1	l ia b s
+107/121	NA	NA	-
+107/123	liabs	1	l ia b s
+107/125	liabs	1	l ia b s
+107/127	liabs	1	l ia b s
+107/129	NA	NA	-
+107/131	liabs	1	l ia b s
+107/133	liabs	1	l ia b s
+107/135	liabs	1	l ia b s
+107/137	liabs	1	l ia b s
+107/139	liabs	1	l ia b s
+107/141	lieabs	1	l iea b s
+107/143	liabs	1	l ia b s
+108/033	liäbs	1	l iä b s
+108/035	liebe	1	l ie b e
+108/037	liebe	1	l ie b e
+108/039	liebe	1	l ie b e
+108/041	NA	NA	-
+108/043	libs	1	l i b s
+108/047	liäbs	1	l iä b s
+108/049	liäbs	1	l iä b s
+108/063	liaps	1	l ia p s
+108/065	liebs	1	l ie b s
+108/067	liabs	1	l ia b s
+108/075	liabs	1	l ia b s
+108/079	liabs	1	l ia b s
+108/081	liebe	1	l ie b e
+108/085	liabs	1	l ia b s
+108/087	liöbs	1	l iö b s
+108/091	liobis	1	l io b i s
+108/099	liebig	1	l ie b i g
+108/101	liebs	1	l ie b s
+108/103	liebs	1	l ie b s
+108/105	liabs	1	l ia b s
+108/109	liebs	1	l ie b s
+108/111	liebs	1	l ie b s
+108/113	liabs	1	l ia b s
+108/117	NA	NA	-
+108/119	liebs	1	l ie b s
+108/121	liabs	1	l ia b s
+108/123	liebs	1	l ie b s
+108/125	liabs	1	l ia b s
+108/127	liabs	1	l ia b s
+108/129	liabs	1	l ia b s
+108/131	NA	NA	-
+108/133	liabs	1	l ia b s
+108/135	liabs	1	l ia b s
+108/137	liabs	1	l ia b s
+108/139	liabs	1	l ia b s
+108/141	liabs	1	l ia b s
+109/035	liebe	1	l ie b e
+109/037	liebe	1	l ie b e
+109/039	liebs	1	l ie b s
+109/041	liebe	1	l ie b e
+109/043	liäbs	1	l iä b s
+109/045	liäbs	1	l iä b s
+109/049	liebs	1	l ie b s
+109/053	liebs	1	l ie b s
+109/061	liabs	1	l ia b s
+109/063	liabs	1	l ia b s
+109/065	liabs	1	l ia b s
+109/067	liäbs	1	l iä b s
+109/075	liabs	1	l ia b s
+109/083	liabs	1	l ia b s
+109/087	liöbs	1	l iö b s
+109/089	liabis	1	l ia b i s
+109/091	liabis	1	l ia b i s
+109/093	liobis	1	l io b i s
+109/095	liabis	1	l ia b i s
+109/097	liebis	1	l ie b i s
+109/099	liabis	1	l ia b i s
+109/101	NA	NA	-
+109/103	liebs	1	l ie b s
+109/107	liebs	1	l ie b s
+109/109	NA	NA	-
+109/111	liäbs	1	l iä b s
+109/113	liabs	1	l ia b s
+109/115	liabs	1	l ia b s
+109/117	liabs	1	l ia b s
+109/119	liabs	1	l ia b s
+109/121	liabs	1	l ia b s
+109/123	liabs	1	l ia b s
+109/125	liabs	1	l ia b s
+109/127	liabs	1	l ia b s
+109/129	liabs	1	l ia b s
+109/131	liabs	1	l ia b s
+109/133	liabs	1	l ia b s
+109/135	liabs	1	l ia b s
+109/137	liabs	1	l ia b s
+109/139	liabs	1	l ia b s
+110/035	lieb	1	l ie b
+110/039	liebe	1	l ie b e
+110/041	liebs	1	l ie b s
+110/043	loubs	1	l ou b s
+110/045	liebs	1	l ie b s
+110/047	liebs	1	l ie b s
+110/049	leebs	1	l ee b s
+110/057	liebs	1	l ie b s
+110/061	liebs	1	l ie b s
+110/065	liabs	1	l ia b s
+110/075	liabs	1	l ia b s
+110/079	liebs	1	l ie b s
+110/081	liebs	1	l ie b s
+110/083	liabs	1	l ia b s
+110/087	liabs	1	l ia b s
+110/089	liabs	1	l ia b s
+110/091	liobis	1	l io b i s
+110/093	liobis	1	l io b i s
+110/095	liabs	1	l ia b s
+110/097	liabis	1	l ia b i s
+110/099	liabs	1	l ia b s
+110/101	liabs	1	l ia b s
+110/105	liabs	1	l ia b s
+110/107	liabs	1	l ia b s
+110/111	liabs	1	l ia b s
+110/113	liabs	1	l ia b s
+110/115	liabs	1	l ia b s
+110/117	liabs	1	l ia b s
+110/119	liaws	1	l ia w s
+110/121	liebs	1	l ie b s
+110/125	liabs	1	l ia b s
+110/127	liabs	1	l ia b s
+110/129	liabs	1	l ia b s
+110/131	liabs	1	l ia b s
+110/133	liabs	1	l ia b s
+110/135	liabs	1	l ia b s
+110/137	liabs	1	l ia b s
+110/139	liabs	1	l ia b s
+111/035	liebs	1	l ie b s
+111/037	liebs	1	l ie b s
+111/039	NA	NA	-
+111/041	liebe	1	l ie b e
+111/043	lieb	1	l ie b
+111/045	liäbs	1	l iä b s
+111/059	liäbs	1	l iä b s
+111/073	liabs	1	l ia b s
+111/075	liaps	1	l ia p s
+111/077	liabs	1	l ia b s
+111/079	liabs	1	l ia b s
+111/081	liabs	1	l ia b s
+111/083	liabs	1	l ia b s
+111/087	guats	1	g ua t s
+111/089	liabs	1	l ia b s
+111/105	liabs	1	l ia b s
+111/107	liabs	1	l ia b s
+111/109	liabs	1	l ia b s
+111/111	liabs	1	l ia b s
+111/113	liabs	1	l ia b s
+111/115	liabs	1	l ia b s
+111/117	liabs	1	l ia b s
+111/119	liäbs	1	l iä b s
+111/121	liabs	1	l ia b s
+111/123	liabs	1	l ia b s
+111/125	liebs	1	l ie b s
+112/037	liebs	1	l ie b s
+112/039	lieb	1	l ie b
+112/041	lieb	1	l ie b
+112/043	liebs	1	l ie b s
+112/047	liebs	1	l ie b s
+112/059	liebs	1	l ie b s
+112/061	liabs	1	l ia b s
+112/063	lieabs	1	l iea b s
+112/075	liabs	1	l ia b s
+112/081	liabs	1	l ia b s
+112/083	liabs	1	l ia b s
+112/085	liabs	1	l ia b s
+112/111	liabs	1	l ia b s
+112/115	liabs	1	l ia b s
+112/117	liabs	1	l ia b s
+112/119	liabs	1	l ia b s
+113/035	liebs	1	l ie b s
+113/037	liebs	1	l ie b s
+113/039	loob	1	l oo b
+113/047	liäbs	1	l iä b s
+113/079	liabs	1	l ia b s
+113/081	lieb	1	l ie b
+113/083	liabs	1	l ia b s
+113/085	liabs	1	l ia b s
+113/087	liabs	1	l ia b s
+113/121	liebs	1	l ie b s
+113/123	liabs	1	l ia b s
+114/035	liebs	1	l ie b s
+114/045	liebs	1	l ie b s
+114/083	liabs	1	l ia b s
+114/085	liabs	1	l ia b s
+115/041	liäbs	1	l iä b s
+115/043	liebs	1	l ie b s
+115/045	liebs	1	l ie b s
+115/083	liabs	1	l ia b s
+115/085	guats	1	g ua t s
+116/043	liebs	1	l ie b s
+116/045	liäbs	1	l iä b s
+116/083	liabs	1	l ia b s
+117/043	liebs	1	l ie b s
+117/045	liäbs	1	l iä b s
+118/041	libs	1	l i b s
+119/083	liabes	1	l ia b e s
+120/085	liibs	1	l ii b s
+121/127	liäbäs	1	l iä b ä s
+122/127	libes	1	l i b e s
+122/129	liäbäs	1	l iä b ä s
+123/081	NA	NA	-
+123/123	liäbäs	1	l iä b ä s
+123/125	liäbäs	1	l iä b ä s
+123/127	liäbäs	1	l iä b ä s
+123/129	liäbäs	1	l iä b ä s
+124/125	liäbäs	1	l iä b ä s
+124/127	liäbäs	1	l iä b ä s
+124/129	liäbäs	1	l iä b ä s

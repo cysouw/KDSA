@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	höch	1	h ö ch
+002/201	höch	1	h ö ch
+002/203	höchch	1	h ö ch ch
+002/205	höch	1	h ö ch
+003/203	höchch	1	h ö ch ch
+003/205	heeg	1	h ee g
+004/205	höchch	1	h ö ch ch
+005/205	höch	1	h ö ch
+005/207	hög	1	h ö g
+006/205	höch	1	h ö ch
+006/207	hech	1	h e ch
+007/205	höchch	1	h ö ch ch
+007/207	höch	1	h ö ch
+007/209	höch	1	h ö ch
+007/211	höch	1	h ö ch
+008/199	höech	1	h öe ch
+008/203	höch	1	h ö ch
+008/205	hech	1	h e ch
+008/207	höch	1	h ö ch
+008/209	höch	1	h ö ch
+008/211	höch	1	h ö ch
+008/213	hech	1	h e ch
+009/199	höchch	1	h ö ch ch
+009/203	höch	1	h ö ch
+009/207	höch	1	h ö ch
+009/209	höch	1	h ö ch
+009/211	höch	1	h ö ch
+009/213	höch	1	h ö ch
+009/215	höchch	1	h ö ch ch
+009/217	höch	1	h ö ch
+010/195	höch	1	h ö ch
+010/203	höch	1	h ö ch
+010/207	höch	1	h ö ch
+010/209	hööch	1	h öö ch
+010/211	höch	1	h ö ch
+010/213	hech	1	h e ch
+010/215	höchch	1	h ö ch ch
+010/217	höch	1	h ö ch
+010/219	höch	1	h ö ch
+011/049	hoch	1	h o ch
+011/053	hy	1	h y
+011/055	hy	1	h y
+011/057	hy	1	h y
+011/059	hy	1	h y
+011/061	höi	1	h öi
+011/063	hy	1	h y
+011/065	hy	1	h y
+011/067	höi	1	h öi
+011/069	hoi	1	h oi
+011/187	höch	1	h ö ch
+011/189	höchch	1	h ö ch ch
+011/191	höch	1	h ö ch
+011/195	höchch	1	h ö ch ch
+011/197	höch	1	h ö ch
+011/203	höch	1	h ö ch
+011/205	höchch	1	h ö ch ch
+011/207	heeh	1	h eeh
+011/209	höch	1	h ö ch
+011/211	höchch	1	h ö ch ch
+011/213	höch	1	h ö ch
+011/215	höch	1	h ö ch
+011/217	höch	1	h ö ch
+011/219	höch	1	h ö ch
+012/047	hog	1	h o g
+012/049	hoog	1	h oo g
+012/051	hug	1	h u g
+012/053	hü	1	h ü
+012/055	hy	1	h y
+012/057	hy	1	h y
+012/059	hy	1	h y
+012/061	hy	1	h y
+012/063	höi	1	h öi
+012/065	hy	1	h y
+012/067	höj	1	h ö j
+012/069	höi	1	h öi
+012/187	höch	1	h ö ch
+012/189	höch	1	h ö ch
+012/191	hog	1	h o g
+012/193	höch	1	h ö ch
+012/195	höch	1	h ö ch
+012/197	höch	1	h ö ch
+012/199	höch	1	h ö ch
+012/201	höch	1	h ö ch
+012/203	höch	1	h ö ch
+012/205	höch	1	h ö ch
+012/207	höch	1	h ö ch
+012/209	hech	1	h e ch
+012/211	höch	1	h ö ch
+012/213	höchch	1	h ö ch ch
+012/215	höög	1	h öö g
+012/217	höch	1	h ö ch
+012/219	höch	1	h ö ch
+012/221	höch	1	h ö ch
+012/223	höch	1	h ö ch
+013/051	hug	1	h u g
+013/053	hug	1	h u g
+013/055	hug	1	h u g
+013/057	hy	1	h y
+013/059	höi	1	h öi
+013/061	hög	1	h ö g
+013/063	höch	1	h ö ch
+013/065	höög	1	h öö g
+013/067	hög	1	h ö g
+013/161	hög	1	h ö g
+013/163	hög	1	h ö g
+013/165	hög	1	h ö g
+013/167	hög	1	h ö g
+013/187	höch	1	h ö ch
+013/189	hech	1	h e ch
+013/191	höch	1	h ö ch
+013/193	höch	1	h ö ch
+013/195	höch	1	h ö ch
+013/197	höch	1	h ö ch
+013/199	höch	1	h ö ch
+013/201	höch	1	h ö ch
+013/203	höch	1	h ö ch
+013/207	hey	1	h ey
+013/209	höchch	1	h ö ch ch
+013/211	höchch	1	h ö ch ch
+013/213	hechch	1	h e ch ch
+013/215	höch	1	h ö ch
+013/217	höchch	1	h ö ch ch
+013/219	höch	1	h ö ch
+013/221	hög	1	h ö g
+013/223	höch	1	h ö ch
+014/047	hugh	1	h u g h
+014/049	hug	1	h u g
+014/051	hug	1	h u g
+014/053	hug	1	h u g
+014/055	hug	1	h u g
+014/057	huch	1	h u ch
+014/059	hög	1	h ö g
+014/061	höch	1	h ö ch
+014/063	höch	1	h ö ch
+014/065	höch	1	h ö ch
+014/067	hööch	1	h öö ch
+014/109	hög	1	h ö g
+014/159	heg	1	h e g
+014/161	heg	1	h e g
+014/163	hög	1	h ö g
+014/165	höj	1	h ö j
+014/167	höh	1	h öh
+014/169	höh	1	h öh
+014/187	höch	1	h ö ch
+014/189	höch	1	h ö ch
+014/191	höch	1	h ö ch
+014/193	höch	1	h ö ch
+014/195	höch	1	h ö ch
+014/197	hech	1	h e ch
+014/199	höchch	1	h ö ch ch
+014/201	höch	1	h ö ch
+014/203	höch	1	h ö ch
+014/205	höch	1	h ö ch
+014/207	hög	1	h ö g
+014/209	höch	1	h ö ch
+014/211	höch	1	h ö ch
+014/213	hög	1	h ö g
+014/215	höch	1	h ö ch
+014/217	höch	1	h ö ch
+014/219	hög	1	h ö g
+014/221	höch	1	h ö ch
+015/049	hugh	1	h u g h
+015/051	hugh	1	h u g h
+015/053	hugh	1	h u g h
+015/055	hug	1	h u g
+015/057	hug	1	h u g
+015/059	hög	1	h ö g
+015/061	hög	1	h ö g
+015/063	hög	1	h ö g
+015/065	hög	1	h ö g
+015/067	hög	1	h ö g
+015/105	hög	1	h ö g
+015/107	hög	1	h ö g
+015/109	hög	1	h ö g
+015/151	heg	1	h e g
+015/153	heg	1	h e g
+015/155	hög	1	h ö g
+015/157	hög	1	h ö g
+015/159	hej	1	h e j
+015/161	hög	1	h ö g
+015/163	hög	1	h ö g
+015/165	hej	1	h e j
+015/167	hög	1	h ö g
+015/169	heg	1	h e g
+015/173	hög	1	h ö g
+015/187	höchch	1	h ö ch ch
+015/191	häch	1	h ä ch
+015/193	höch	1	h ö ch
+015/195	hechch	1	h e ch ch
+015/197	höch	1	h ö ch
+015/199	hech	1	h e ch
+015/201	höch	1	h ö ch
+015/203	höch	1	h ö ch
+015/205	höchch	1	h ö ch ch
+015/207	höhch	1	h öh ch
+015/209	höch	1	h ö ch
+015/211	höch	1	h ö ch
+015/213	höch	1	h ö ch
+015/215	hoäch	1	h oä ch
+015/217	höch	1	h ö ch
+015/219	höch	1	h ö ch
+015/221	höch	1	h ö ch
+016/051	huch	1	h u ch
+016/055	hug	1	h u g
+016/057	höch	1	h ö ch
+016/059	höch	1	h ö ch
+016/061	höch	1	h ö ch
+016/063	höch	1	h ö ch
+016/065	hög	1	h ö g
+016/067	hög	1	h ö g
+016/081	hög	1	h ö g
+016/083	hög	1	h ö g
+016/105	hög	1	h ö g
+016/107	hög	1	h ö g
+016/109	hög	1	h ö g
+016/111	höj	1	h ö j
+016/145	hög	1	h ö g
+016/147	hög	1	h ö g
+016/149	hög	1	h ö g
+016/151	heeg	1	h ee g
+016/153	hög	1	h ö g
+016/155	heg	1	h e g
+016/157	hög	1	h ö g
+016/159	hej	1	h e j
+016/161	hög	1	h ö g
+016/163	heg	1	h e g
+016/165	höj	1	h ö j
+016/167	höh	1	h öh
+016/187	höch	1	h ö ch
+016/189	höch	1	h ö ch
+016/191	höch	1	h ö ch
+016/193	höch	1	h ö ch
+016/195	höch	1	h ö ch
+016/197	höch	1	h ö ch
+016/199	höch	1	h ö ch
+016/201	höch	1	h ö ch
+016/203	höch	1	h ö ch
+016/205	höch	1	h ö ch
+016/209	höch	1	h ö ch
+016/211	höch	1	h ö ch
+016/213	höch	1	h ö ch
+016/215	höch	1	h ö ch
+016/217	höch	1	h ö ch
+016/219	höch	1	h ö ch
+017/055	hög	1	h ö g
+017/057	hög	1	h ö g
+017/059	hög	1	h ö g
+017/061	hög	1	h ö g
+017/063	höch	1	h ö ch
+017/065	hög	1	h ö g
+017/067	hög	1	h ö g
+017/069	hög	1	h ö g
+017/081	höch	1	h ö ch
+017/083	hög	1	h ö g
+017/099	hög	1	h ö g
+017/101	hög	1	h ö g
+017/103	hög	1	h ö g
+017/107	hög	1	h ö g
+017/109	hög	1	h ö g
+017/145	hög	1	h ö g
+017/147	hög	1	h ö g
+017/149	hög	1	h ö g
+017/151	hög	1	h ö g
+017/153	hög	1	h ö g
+017/155	hög	1	h ö g
+017/157	hög	1	h ö g
+017/159	heg	1	h e g
+017/161	hög	1	h ö g
+017/163	hög	1	h ö g
+017/165	NA	NA	-
+017/169	höch	1	h ö ch
+017/171	hech	1	h e ch
+017/183	höchch	1	h ö ch ch
+017/185	hech	1	h e ch
+017/187	höch	1	h ö ch
+017/189	höchch	1	h ö ch ch
+017/191	höch	1	h ö ch
+017/193	höch	1	h ö ch
+017/195	höch	1	h ö ch
+017/197	hech	1	h e ch
+017/199	hech	1	h e ch
+017/201	höch	1	h ö ch
+017/203	hech	1	h e ch
+017/205	höh	1	h öh
+017/207	höch	1	h ö ch
+017/209	höch	1	h ö ch
+017/211	höch	1	h ö ch
+017/213	hech	1	h e ch
+017/215	höch	1	h ö ch
+017/217	höch	1	h ö ch
+017/219	höch	1	h ö ch
+018/051	höch	1	h ö ch
+018/053	hög	1	h ö g
+018/055	höch	1	h ö ch
+018/057	höög	1	h öö g
+018/059	höch	1	h ö ch
+018/061	hög	1	h ö g
+018/063	höch	1	h ö ch
+018/065	höch	1	h ö ch
+018/067	hög	1	h ö g
+018/069	hög	1	h ö g
+018/071	hög	1	h ö g
+018/073	höög	1	h öö g
+018/075	hög	1	h ö g
+018/079	hög	1	h ö g
+018/081	hög	1	h ö g
+018/097	hög	1	h ö g
+018/099	hög	1	h ö g
+018/103	hög	1	h ö g
+018/105	hög	1	h ö g
+018/107	hög	1	h ö g
+018/109	hög	1	h ö g
+018/111	hög	1	h ö g
+018/143	hög	1	h ö g
+018/145	hög	1	h ö g
+018/147	hög	1	h ö g
+018/149	hög	1	h ö g
+018/151	heg	1	h e g
+018/153	hög	1	h ö g
+018/155	hög	1	h ö g
+018/157	hög	1	h ö g
+018/159	heg	1	h e g
+018/161	hög	1	h ö g
+018/163	höj	1	h ö j
+018/165	häg	1	h ä g
+018/169	höch	1	h ö ch
+018/171	heej	1	h ee j
+018/173	höch	1	h ö ch
+018/181	hech	1	h e ch
+018/185	höch	1	h ö ch
+018/187	höch	1	h ö ch
+018/189	höchch	1	h ö ch ch
+018/191	höchch	1	h ö ch ch
+018/193	höch	1	h ö ch
+018/195	höch	1	h ö ch
+018/197	höch	1	h ö ch
+018/199	höch	1	h ö ch
+018/201	höch	1	h ö ch
+018/203	höch	1	h ö ch
+018/205	höch	1	h ö ch
+018/207	höchch	1	h ö ch ch
+018/209	höch	1	h ö ch
+018/211	höch	1	h ö ch
+018/213	höch	1	h ö ch
+018/215	höch	1	h ö ch
+018/219	höch	1	h ö ch
+019/051	hög	1	h ö g
+019/053	hög	1	h ö g
+019/055	hög	1	h ö g
+019/057	hög	1	h ö g
+019/059	hög	1	h ö g
+019/061	hög	1	h ö g
+019/063	hög	1	h ö g
+019/065	höch	1	h ö ch
+019/067	hög	1	h ö g
+019/069	hög	1	h ö g
+019/071	hög	1	h ö g
+019/073	hög	1	h ö g
+019/075	hög	1	h ö g
+019/077	hög	1	h ö g
+019/079	hög	1	h ö g
+019/081	hög	1	h ö g
+019/097	hög	1	h ö g
+019/099	hög	1	h ö g
+019/101	hög	1	h ö g
+019/103	gröder	1	g r ö d e r
+019/105	hög	1	h ö g
+019/107	hög	1	h ö g
+019/109	hög	1	h ö g
+019/143	höag	1	h öa g
+019/145	hög	1	h ö g
+019/147	hög	1	h ö g
+019/149	hög	1	h ö g
+019/151	heg	1	h e g
+019/153	hög	1	h ö g
+019/155	heg	1	h e g
+019/157	hög	1	h ö g
+019/159	hö	1	h ö
+019/161	hög	1	h ö g
+019/163	hög	1	h ö g
+019/165	heeg	1	h ee g
+019/167	heg	1	h e g
+019/169	heg	1	h e g
+019/171	hech	1	h e ch
+019/173	hech	1	h e ch
+019/175	häch	1	h ä ch
+019/177	höch	1	h ö ch
+019/179	höch	1	h ö ch
+019/181	höch	1	h ö ch
+019/183	höch	1	h ö ch
+019/185	höch	1	h ö ch
+019/187	höch	1	h ö ch
+019/189	höch	1	h ö ch
+019/191	höch	1	h ö ch
+019/193	hech	1	h e ch
+019/195	höchch	1	h ö ch ch
+019/197	hech	1	h e ch
+019/199	höch	1	h ö ch
+019/201	höch	1	h ö ch
+019/203	höchch	1	h ö ch ch
+019/205	höch	1	h ö ch
+019/207	höch	1	h ö ch
+019/209	hech	1	h e ch
+019/211	hech	1	h e ch
+019/213	höch	1	h ö ch
+019/215	höchch	1	h ö ch ch
+019/217	höch	1	h ö ch
+019/219	höch	1	h ö ch
+020/043	hög	1	h ö g
+020/053	hög	1	h ö g
+020/055	höh	1	h öh
+020/057	hög	1	h ö g
+020/059	hög	1	h ö g
+020/061	hög	1	h ö g
+020/063	hög	1	h ö g
+020/065	hög	1	h ö g
+020/067	hög	1	h ö g
+020/069	höch	1	h ö ch
+020/071	hög	1	h ö g
+020/073	hög	1	h ö g
+020/075	hög	1	h ö g
+020/077	hög	1	h ö g
+020/079	hög	1	h ö g
+020/081	hög	1	h ö g
+020/095	hög	1	h ö g
+020/097	hög	1	h ö g
+020/099	höhg	1	h öh g
+020/101	hög	1	h ö g
+020/103	hög	1	h ö g
+020/105	hög	1	h ö g
+020/107	höh	1	h öh
+020/135	hög	1	h ö g
+020/137	hög	1	h ö g
+020/139	hög	1	h ö g
+020/141	höj	1	h ö j
+020/143	höj	1	h ö j
+020/145	hög	1	h ö g
+020/147	heg	1	h e g
+020/149	hög	1	h ö g
+020/151	hej	1	h e j
+020/153	greter	1	g r e t e r
+020/155	hög	1	h ö g
+020/157	heg	1	h e g
+020/159	heg	1	h e g
+020/161	höh	1	h öh
+020/163	hej	1	h e j
+020/165	hej	1	h e j
+020/167	hech	1	h e ch
+020/169	häch	1	h ä ch
+020/171	höch	1	h ö ch
+020/173	höch	1	h ö ch
+020/175	höch	1	h ö ch
+020/177	höch	1	h ö ch
+020/179	hech	1	h e ch
+020/181	höch	1	h ö ch
+020/183	höch	1	h ö ch
+020/185	hech	1	h e ch
+020/187	höch	1	h ö ch
+020/189	höch	1	h ö ch
+020/191	höch	1	h ö ch
+020/193	hech	1	h e ch
+020/195	höch	1	h ö ch
+020/197	hech	1	h e ch
+020/199	höch	1	h ö ch
+020/201	höch	1	h ö ch
+020/203	hechch	1	h e ch ch
+020/205	höch	1	h ö ch
+020/207	höch	1	h ö ch
+020/209	höch	1	h ö ch
+020/211	häch	1	h ä ch
+020/213	höch	1	h ö ch
+020/215	höch	1	h ö ch
+020/217	höch	1	h ö ch
+020/219	höch	1	h ö ch
+021/055	hög	1	h ö g
+021/057	hög	1	h ö g
+021/059	hög	1	h ö g
+021/061	hög	1	h ö g
+021/063	hög	1	h ö g
+021/065	hög	1	h ö g
+021/067	hög	1	h ö g
+021/069	hög	1	h ö g
+021/071	hög	1	h ö g
+021/073	hög	1	h ö g
+021/075	hög	1	h ö g
+021/077	hög	1	h ö g
+021/079	hög	1	h ö g
+021/087	hög	1	h ö g
+021/089	hög	1	h ö g
+021/091	hög	1	h ö g
+021/093	hög	1	h ö g
+021/095	hög	1	h ö g
+021/097	hög	1	h ö g
+021/099	hög	1	h ö g
+021/101	hög	1	h ö g
+021/103	hög	1	h ö g
+021/105	hög	1	h ö g
+021/107	hög	1	h ö g
+021/109	hög	1	h ö g
+021/111	höhg	1	h öh g
+021/113	hög	1	h ö g
+021/131	hög	1	h ö g
+021/133	hög	1	h ö g
+021/135	höj	1	h ö j
+021/137	hög	1	h ö g
+021/139	höhg	1	h öh g
+021/141	höhg	1	h öh g
+021/143	hög	1	h ö g
+021/145	heug	1	h eu g
+021/147	hög	1	h ö g
+021/149	höj	1	h ö j
+021/151	heg	1	h e g
+021/153	heg	1	h e g
+021/155	höj	1	h ö j
+021/157	heg	1	h e g
+021/159	hög	1	h ö g
+021/163	hög	1	h ö g
+021/165	hög	1	h ö g
+021/167	häch	1	h ä ch
+021/169	hech	1	h e ch
+021/171	hög	1	h ö g
+021/173	hech	1	h e ch
+021/175	höch	1	h ö ch
+021/177	höch	1	h ö ch
+021/179	höch	1	h ö ch
+021/181	höch	1	h ö ch
+021/183	höch	1	h ö ch
+021/185	höchch	1	h ö ch ch
+021/187	höch	1	h ö ch
+021/189	höch	1	h ö ch
+021/191	höch	1	h ö ch
+021/193	höch	1	h ö ch
+021/195	höchch	1	h ö ch ch
+021/197	höch	1	h ö ch
+021/199	häh	1	h äh
+021/201	höch	1	h ö ch
+021/203	höch	1	h ö ch
+021/205	höch	1	h ö ch
+021/207	höch	1	h ö ch
+021/211	höch	1	h ö ch
+021/215	höch	1	h ö ch
+021/217	höch	1	h ö ch
+021/219	höch	1	h ö ch
+022/055	höög	1	h öö g
+022/057	hög	1	h ö g
+022/059	hög	1	h ö g
+022/061	hög	1	h ö g
+022/063	hög	1	h ö g
+022/065	hög	1	h ö g
+022/067	hog	1	h o g
+022/069	höh	1	h öh
+022/071	hög	1	h ö g
+022/073	hög	1	h ö g
+022/075	hög	1	h ö g
+022/077	hög	1	h ö g
+022/087	hög	1	h ö g
+022/089	hög	1	h ö g
+022/091	hög	1	h ö g
+022/093	hög	1	h ö g
+022/095	hög	1	h ö g
+022/097	hög	1	h ö g
+022/099	hög	1	h ö g
+022/101	hög	1	h ö g
+022/103	hög	1	h ö g
+022/105	hög	1	h ö g
+022/107	hög	1	h ö g
+022/109	hög	1	h ö g
+022/111	hög	1	h ö g
+022/113	hög	1	h ö g
+022/115	höj	1	h ö j
+022/127	hög	1	h ö g
+022/129	hög	1	h ö g
+022/131	hög	1	h ö g
+022/133	hög	1	h ö g
+022/135	hög	1	h ö g
+022/137	höj	1	h ö j
+022/139	hög	1	h ö g
+022/141	hög	1	h ö g
+022/143	hög	1	h ö g
+022/145	hoij	1	h oi j
+022/147	hög	1	h ö g
+022/149	hög	1	h ö g
+022/151	heg	1	h e g
+022/153	hög	1	h ö g
+022/155	hög	1	h ö g
+022/157	heeg	1	h ee g
+022/159	gröta	1	g r ö t a
+022/165	hech	1	h e ch
+022/167	hög	1	h ö g
+022/169	höech	1	h öe ch
+022/171	hög	1	h ö g
+022/173	höch	1	h ö ch
+022/175	höhg	1	h öh g
+022/177	höchch	1	h ö ch ch
+022/179	hech	1	h e ch
+022/181	höch	1	h ö ch
+022/183	höch	1	h ö ch
+022/185	höch	1	h ö ch
+022/187	höch	1	h ö ch
+022/189	höch	1	h ö ch
+022/191	höch	1	h ö ch
+022/193	hech	1	h e ch
+022/195	höchch	1	h ö ch ch
+022/197	höch	1	h ö ch
+022/199	höch	1	h ö ch
+022/201	höch	1	h ö ch
+022/203	höch	1	h ö ch
+022/205	höch	1	h ö ch
+022/209	höch	1	h ö ch
+022/211	höch	1	h ö ch
+022/215	höch	1	h ö ch
+022/217	höchch	1	h ö ch ch
+022/219	höch	1	h ö ch
+023/055	hög	1	h ö g
+023/059	hög	1	h ö g
+023/061	hög	1	h ö g
+023/063	hög	1	h ö g
+023/065	hög	1	h ö g
+023/067	hög	1	h ö g
+023/069	hög	1	h ö g
+023/071	hög	1	h ö g
+023/073	hög	1	h ö g
+023/075	hög	1	h ö g
+023/077	hög	1	h ö g
+023/079	hög	1	h ö g
+023/081	hög	1	h ö g
+023/083	hög	1	h ö g
+023/085	hög	1	h ö g
+023/087	hög	1	h ö g
+023/089	hög	1	h ö g
+023/091	hög	1	h ö g
+023/093	hög	1	h ö g
+023/095	hög	1	h ö g
+023/097	hög	1	h ö g
+023/099	hög	1	h ö g
+023/101	hög	1	h ö g
+023/103	hög	1	h ö g
+023/105	hög	1	h ö g
+023/107	hög	1	h ö g
+023/109	hög	1	h ö g
+023/111	hög	1	h ö g
+023/113	höj	1	h ö j
+023/115	hög	1	h ö g
+023/117	hög	1	h ö g
+023/121	hög	1	h ö g
+023/123	hög	1	h ö g
+023/125	höj	1	h ö j
+023/127	hög	1	h ö g
+023/129	höch	1	h ö ch
+023/131	hög	1	h ö g
+023/133	hög	1	h ö g
+023/135	hög	1	h ö g
+023/137	hög	1	h ö g
+023/139	hög	1	h ö g
+023/141	hög	1	h ö g
+023/143	heug	1	h eu g
+023/145	heug	1	h eu g
+023/147	heug	1	h eu g
+023/149	höag	1	h öa g
+023/151	hög	1	h ö g
+023/153	hög	1	h ö g
+023/155	höj	1	h ö j
+023/165	höch	1	h ö ch
+023/167	hög	1	h ö g
+023/169	heg	1	h e g
+023/175	höch	1	h ö ch
+023/177	höch	1	h ö ch
+023/179	höch	1	h ö ch
+023/181	höch	1	h ö ch
+023/183	höch	1	h ö ch
+023/185	höch	1	h ö ch
+023/187	höch	1	h ö ch
+023/189	höch	1	h ö ch
+023/191	höch	1	h ö ch
+023/193	höch	1	h ö ch
+023/195	höch	1	h ö ch
+023/197	höch	1	h ö ch
+023/199	höch	1	h ö ch
+023/201	höch	1	h ö ch
+023/203	höch	1	h ö ch
+023/205	höch	1	h ö ch
+023/207	höch	1	h ö ch
+023/215	höch	1	h ö ch
+023/217	hoch	1	h o ch
+024/053	höög	1	h öö g
+024/057	hög	1	h ö g
+024/059	hög	1	h ö g
+024/061	hög	1	h ö g
+024/063	hög	1	h ö g
+024/065	höch	1	h ö ch
+024/067	hög	1	h ö g
+024/069	hög	1	h ö g
+024/071	hög	1	h ö g
+024/073	hög	1	h ö g
+024/075	hög	1	h ö g
+024/077	hög	1	h ö g
+024/079	hög	1	h ö g
+024/081	hög	1	h ö g
+024/083	hög	1	h ö g
+024/085	höhg	1	h öh g
+024/087	hög	1	h ö g
+024/089	hög	1	h ö g
+024/091	hög	1	h ö g
+024/093	hög	1	h ö g
+024/095	gröda	1	g r ö d a
+024/097	hög	1	h ö g
+024/099	hög	1	h ö g
+024/101	hög	1	h ö g
+024/103	hög	1	h ö g
+024/105	hög	1	h ö g
+024/107	hög	1	h ö g
+024/109	hög	1	h ö g
+024/111	hög	1	h ö g
+024/113	höj	1	h ö j
+024/115	hög	1	h ö g
+024/117	höj	1	h ö j
+024/119	hög	1	h ö g
+024/121	höj	1	h ö j
+024/123	hög	1	h ö g
+024/125	hög	1	h ö g
+024/127	höj	1	h ö j
+024/129	hög	1	h ö g
+024/131	hög	1	h ö g
+024/133	höhj	1	h öh j
+024/135	hög	1	h ö g
+024/137	hög	1	h ö g
+024/139	höhg	1	h öh g
+024/141	hög	1	h ö g
+024/143	hög	1	h ö g
+024/145	hoig	1	h oi g
+024/147	hög	1	h ö g
+024/149	hoeg	1	h oe g
+024/151	hög	1	h ö g
+024/153	hög	1	h ö g
+024/155	höj	1	h ö j
+024/163	höüj	1	h öü j
+024/165	heg	1	h e g
+024/167	heg	1	h e g
+024/169	höch	1	h ö ch
+024/171	hög	1	h ö g
+024/175	hech	1	h e ch
+024/179	hög	1	h ö g
+024/181	höch	1	h ö ch
+024/183	hegg	1	h e gg
+024/185	höch	1	h ö ch
+024/187	högg	1	h ö gg
+024/189	höch	1	h ö ch
+024/191	höch	1	h ö ch
+024/193	höch	1	h ö ch
+024/195	höch	1	h ö ch
+024/197	höch	1	h ö ch
+024/199	höch	1	h ö ch
+024/201	höch	1	h ö ch
+024/203	hech	1	h e ch
+024/217	hög	1	h ö g
+024/221	höch	1	h ö ch
+025/043	hohg	1	h oh g
+025/051	hög	1	h ö g
+025/053	hög	1	h ö g
+025/055	hög	1	h ö g
+025/057	hög	1	h ö g
+025/059	hög	1	h ö g
+025/061	höh	1	h öh
+025/063	hög	1	h ö g
+025/065	hög	1	h ö g
+025/067	hög	1	h ö g
+025/069	höh	1	h öh
+025/071	hög	1	h ö g
+025/073	hög	1	h ö g
+025/075	hög	1	h ö g
+025/077	hög	1	h ö g
+025/079	hög	1	h ö g
+025/081	hög	1	h ö g
+025/083	hög	1	h ö g
+025/085	hög	1	h ö g
+025/087	hög	1	h ö g
+025/089	hög	1	h ö g
+025/091	höhg	1	h öh g
+025/093	höög	1	h öö g
+025/095	hög	1	h ö g
+025/099	hög	1	h ö g
+025/101	hög	1	h ö g
+025/103	hög	1	h ö g
+025/105	hög	1	h ö g
+025/107	hög	1	h ö g
+025/109	hög	1	h ö g
+025/111	hög	1	h ö g
+025/113	hög	1	h ö g
+025/115	hög	1	h ö g
+025/123	höj	1	h ö j
+025/125	hög	1	h ö g
+025/127	hög	1	h ö g
+025/129	hög	1	h ö g
+025/131	hög	1	h ö g
+025/133	hög	1	h ö g
+025/135	hög	1	h ö g
+025/137	hög	1	h ö g
+025/139	hög	1	h ö g
+025/141	hög	1	h ö g
+025/143	hög	1	h ö g
+025/145	hoig	1	h oi g
+025/147	hoij	1	h oi j
+025/149	hög	1	h ö g
+025/151	höch	1	h ö ch
+025/153	hög	1	h ö g
+025/155	hög	1	h ö g
+025/157	hög	1	h ö g
+025/159	höch	1	h ö ch
+025/177	höch	1	h ö ch
+025/179	höch	1	h ö ch
+025/181	högg	1	h ö gg
+025/183	höch	1	h ö ch
+025/185	hegg	1	h e gg
+025/187	högg	1	h ö gg
+025/189	högg	1	h ö gg
+025/191	höch	1	h ö ch
+026/031	hog	1	h o g
+026/033	hög	1	h ö g
+026/037	hoch	1	h o ch
+026/041	hög	1	h ö g
+026/043	högg	1	h ö gg
+026/045	hög	1	h ö g
+026/051	hög	1	h ö g
+026/053	hög	1	h ö g
+026/055	hög	1	h ö g
+026/057	hög	1	h ö g
+026/059	hög	1	h ö g
+026/061	hög	1	h ö g
+026/063	hög	1	h ö g
+026/065	hög	1	h ö g
+026/067	hög	1	h ö g
+026/069	hög	1	h ö g
+026/071	hög	1	h ö g
+026/073	hög	1	h ö g
+026/075	hög	1	h ö g
+026/077	hög	1	h ö g
+026/079	hög	1	h ö g
+026/081	hög	1	h ö g
+026/083	höög	1	h öö g
+026/085	hög	1	h ö g
+026/087	hög	1	h ö g
+026/089	hög	1	h ö g
+026/091	hög	1	h ö g
+026/093	hög	1	h ö g
+026/095	hög	1	h ö g
+026/097	hög	1	h ö g
+026/099	hög	1	h ö g
+026/101	hög	1	h ö g
+026/103	hög	1	h ö g
+026/105	hög	1	h ö g
+026/107	hög	1	h ö g
+026/109	hög	1	h ö g
+026/111	hög	1	h ö g
+026/113	hög	1	h ö g
+026/115	hög	1	h ö g
+026/117	hög	1	h ö g
+026/119	hö	1	h ö
+026/123	hög	1	h ö g
+026/125	hög	1	h ö g
+026/127	höj	1	h ö j
+026/129	höhj	1	h öh j
+026/131	hög	1	h ö g
+026/133	hög	1	h ö g
+026/135	höj	1	h ö j
+026/137	höj	1	h ö j
+026/139	höej	1	h öe j
+026/141	höj	1	h ö j
+026/143	höj	1	h ö j
+026/145	hög	1	h ö g
+026/147	hög	1	h ö g
+026/153	hög	1	h ö g
+026/155	höj	1	h ö j
+026/157	hög	1	h ö g
+026/159	hög	1	h ö g
+026/161	hög	1	h ö g
+026/165	hög	1	h ö g
+026/173	hej	1	h e j
+026/175	höch	1	h ö ch
+026/177	hechch	1	h e ch ch
+026/179	hög	1	h ö g
+026/181	högg	1	h ö gg
+026/183	högg	1	h ö gg
+026/185	höch	1	h ö ch
+026/187	hög	1	h ö g
+026/189	höch	1	h ö ch
+027/027	hog	1	h o g
+027/035	hog	1	h o g
+027/037	gröter	1	g r ö t e r
+027/039	hörg	1	h ö r g
+027/041	hörg	1	h ö r g
+027/043	hög	1	h ö g
+027/045	hög	1	h ö g
+027/047	hogg	1	h o gg
+027/051	hög	1	h ö g
+027/053	hög	1	h ö g
+027/055	hög	1	h ö g
+027/057	hög	1	h ö g
+027/059	hög	1	h ö g
+027/061	hög	1	h ö g
+027/063	hög	1	h ö g
+027/065	hög	1	h ö g
+027/067	hög	1	h ö g
+027/069	hög	1	h ö g
+027/071	hög	1	h ö g
+027/073	hög	1	h ö g
+027/075	hög	1	h ö g
+027/077	höög	1	h öö g
+027/079	hög	1	h ö g
+027/081	hög	1	h ö g
+027/083	hög	1	h ö g
+027/085	hög	1	h ö g
+027/087	hög	1	h ö g
+027/089	hög	1	h ö g
+027/091	hög	1	h ö g
+027/093	hög	1	h ö g
+027/095	hög	1	h ö g
+027/099	hög	1	h ö g
+027/101	hög	1	h ö g
+027/103	hög	1	h ö g
+027/105	hög	1	h ö g
+027/107	höhg	1	h öh g
+027/109	hög	1	h ö g
+027/111	hög	1	h ö g
+027/113	hög	1	h ö g
+027/115	hög	1	h ö g
+027/117	höj	1	h ö j
+027/119	hög	1	h ö g
+027/123	hög	1	h ö g
+027/125	hög	1	h ö g
+027/127	höj	1	h ö j
+027/129	höj	1	h ö j
+027/131	hög	1	h ö g
+027/135	höj	1	h ö j
+027/137	höj	1	h ö j
+027/139	hög	1	h ö g
+027/141	hög	1	h ö g
+027/143	hög	1	h ö g
+027/145	hög	1	h ö g
+027/147	hög	1	h ö g
+027/149	hög	1	h ö g
+027/151	hög	1	h ö g
+027/153	hög	1	h ö g
+027/155	hög	1	h ö g
+027/157	hööj	1	h öö j
+027/159	höhg	1	h öh g
+027/161	hög	1	h ö g
+027/167	höög	1	h öö g
+027/171	hög	1	h ö g
+027/173	höch	1	h ö ch
+027/175	hech	1	h e ch
+027/177	hög	1	h ö g
+027/179	hech	1	h e ch
+027/181	höch	1	h ö ch
+027/183	hegg	1	h e gg
+027/185	höh	1	h öh
+028/033	hög	1	h ö g
+028/035	hoog	1	h oo g
+028/037	hoog	1	h oo g
+028/039	hög	1	h ö g
+028/041	högg	1	h ö gg
+028/043	hörg	1	h ö r g
+028/045	hög	1	h ö g
+028/047	hög	1	h ö g
+028/049	hogg	1	h o gg
+028/051	hög	1	h ö g
+028/053	hög	1	h ö g
+028/055	hög	1	h ö g
+028/057	hög	1	h ö g
+028/059	hög	1	h ö g
+028/061	hög	1	h ö g
+028/063	hög	1	h ö g
+028/065	hög	1	h ö g
+028/067	heug	1	h eu g
+028/069	hög	1	h ö g
+028/071	hög	1	h ö g
+028/073	hög	1	h ö g
+028/075	hög	1	h ö g
+028/077	hög	1	h ö g
+028/079	hög	1	h ö g
+028/081	hög	1	h ö g
+028/083	hög	1	h ö g
+028/085	hög	1	h ö g
+028/087	hög	1	h ö g
+028/089	hög	1	h ö g
+028/091	höhg	1	h öh g
+028/093	hög	1	h ö g
+028/095	NA	NA	-
+028/097	hög	1	h ö g
+028/099	hög	1	h ö g
+028/103	hög	1	h ö g
+028/105	hög	1	h ö g
+028/107	höh	1	h öh
+028/109	hög	1	h ö g
+028/111	hög	1	h ö g
+028/113	hög	1	h ö g
+028/115	hög	1	h ö g
+028/117	hög	1	h ö g
+028/119	hög	1	h ö g
+028/121	hög	1	h ö g
+028/123	höj	1	h ö j
+028/125	hög	1	h ö g
+028/127	hög	1	h ö g
+028/129	höj	1	h ö j
+028/131	hög	1	h ö g
+028/133	höj	1	h ö j
+028/135	hög	1	h ö g
+028/137	hög	1	h ö g
+028/139	hög	1	h ö g
+028/141	hög	1	h ö g
+028/143	hög	1	h ö g
+028/145	hög	1	h ö g
+028/147	hög	1	h ö g
+028/151	höj	1	h ö j
+028/153	hög	1	h ö g
+028/155	hög	1	h ö g
+028/157	höch	1	h ö ch
+028/159	hööj	1	h öö j
+028/161	höj	1	h ö j
+028/165	hög	1	h ö g
+028/169	höj	1	h ö j
+028/171	hög	1	h ö g
+028/173	höch	1	h ö ch
+028/175	höch	1	h ö ch
+028/177	häch	1	h ä ch
+028/179	heg	1	h e g
+028/181	höch	1	h ö ch
+028/183	he	1	h e
+028/185	höh	1	h öh
+029/033	hog	1	h o g
+029/035	hoog	1	h oo g
+029/037	högg	1	h ö gg
+029/039	hog	1	h o g
+029/043	hög	1	h ö g
+029/045	hörg	1	h ö r g
+029/047	hög	1	h ö g
+029/049	hög	1	h ö g
+029/051	hög	1	h ö g
+029/053	hög	1	h ö g
+029/055	höhg	1	h öh g
+029/057	hög	1	h ö g
+029/059	hög	1	h ö g
+029/061	hög	1	h ö g
+029/065	hög	1	h ö g
+029/067	heug	1	h eu g
+029/069	hoig	1	h oi g
+029/071	hög	1	h ö g
+029/073	höch	1	h ö ch
+029/075	hög	1	h ö g
+029/077	hoög	1	h oö g
+029/079	hög	1	h ö g
+029/081	hög	1	h ö g
+029/083	hög	1	h ö g
+029/085	hög	1	h ö g
+029/087	hög	1	h ö g
+029/089	hög	1	h ö g
+029/091	hög	1	h ö g
+029/093	hög	1	h ö g
+029/095	hög	1	h ö g
+029/097	hög	1	h ö g
+029/099	hög	1	h ö g
+029/101	hög	1	h ö g
+029/103	hög	1	h ö g
+029/105	hög	1	h ö g
+029/107	hög	1	h ö g
+029/109	hog	1	h o g
+029/111	hög	1	h ö g
+029/113	hög	1	h ö g
+029/115	hög	1	h ö g
+029/117	hög	1	h ö g
+029/119	höj	1	h ö j
+029/121	hög	1	h ö g
+029/123	hög	1	h ö g
+029/125	grötter	1	g r ö tt e r
+029/127	hög	1	h ö g
+029/129	hög	1	h ö g
+029/131	höhg	1	h öh g
+029/133	höj	1	h ö j
+029/135	hög	1	h ö g
+029/137	hög	1	h ö g
+029/139	höj	1	h ö j
+029/141	höhj	1	h öh j
+029/143	hög	1	h ö g
+029/145	hög	1	h ö g
+029/147	hög	1	h ö g
+029/149	höj	1	h ö j
+029/151	hög	1	h ö g
+029/153	hög	1	h ö g
+029/155	hög	1	h ö g
+029/157	hög	1	h ö g
+029/159	hög	1	h ö g
+029/161	höch	1	h ö ch
+029/163	höj	1	h ö j
+029/165	höhj	1	h öh j
+029/167	hög	1	h ö g
+029/169	hög	1	h ö g
+029/171	höj	1	h ö j
+029/173	hög	1	h ö g
+029/175	hög	1	h ö g
+029/177	hej	1	h e j
+029/181	hög	1	h ö g
+030/033	hoog	1	h oo g
+030/035	hog	1	h o g
+030/037	hog	1	h o g
+030/039	hog	1	h o g
+030/041	högg	1	h ö gg
+030/043	höög	1	h öö g
+030/045	hög	1	h ö g
+030/047	hög	1	h ö g
+030/049	hög	1	h ö g
+030/051	hög	1	h ö g
+030/053	hög	1	h ö g
+030/055	hög	1	h ö g
+030/057	hög	1	h ö g
+030/059	hög	1	h ö g
+030/061	hög	1	h ö g
+030/065	hög	1	h ö g
+030/067	hög	1	h ö g
+030/071	höch	1	h ö ch
+030/073	hög	1	h ö g
+030/075	hög	1	h ö g
+030/077	hög	1	h ö g
+030/079	hög	1	h ö g
+030/081	hög	1	h ö g
+030/083	hög	1	h ö g
+030/085	hög	1	h ö g
+030/087	hög	1	h ö g
+030/089	hög	1	h ö g
+030/091	hög	1	h ö g
+030/093	hög	1	h ö g
+030/095	hög	1	h ö g
+030/097	hög	1	h ö g
+030/099	hög	1	h ö g
+030/101	hög	1	h ö g
+030/103	höhg	1	h öh g
+030/105	höh	1	h öh
+030/107	hög	1	h ö g
+030/109	hög	1	h ö g
+030/111	hög	1	h ö g
+030/113	höj	1	h ö j
+030/115	höhj	1	h öh j
+030/117	hög	1	h ö g
+030/119	hög	1	h ö g
+030/121	hög	1	h ö g
+030/123	höj	1	h ö j
+030/125	hög	1	h ö g
+030/127	höhj	1	h öh j
+030/129	höj	1	h ö j
+030/131	häög	1	h äö g
+030/133	höj	1	h ö j
+030/135	hög	1	h ö g
+030/137	höj	1	h ö j
+030/139	hög	1	h ö g
+030/141	hög	1	h ö g
+030/143	hög	1	h ö g
+030/145	hög	1	h ö g
+030/147	hög	1	h ö g
+030/149	hög	1	h ö g
+030/151	heuj	1	h eu j
+030/153	hög	1	h ö g
+030/155	hög	1	h ö g
+030/157	höj	1	h ö j
+030/159	hög	1	h ö g
+030/161	hög	1	h ö g
+030/163	höj	1	h ö j
+030/165	hög	1	h ö g
+030/167	hög	1	h ö g
+030/169	höhg	1	h öh g
+030/171	hög	1	h ö g
+030/173	hög	1	h ö g
+030/175	heeg	1	h ee g
+030/177	hög	1	h ö g
+030/179	hög	1	h ö g
+030/181	höj	1	h ö j
+030/183	heg	1	h e g
+031/035	hog	1	h o g
+031/037	hoog	1	h oo g
+031/039	hoog	1	h oo g
+031/041	högg	1	h ö gg
+031/043	hög	1	h ö g
+031/045	hög	1	h ö g
+031/047	hög	1	h ö g
+031/049	hög	1	h ö g
+031/051	hög	1	h ö g
+031/053	hög	1	h ö g
+031/055	hög	1	h ö g
+031/057	hög	1	h ö g
+031/059	hög	1	h ö g
+031/061	hög	1	h ö g
+031/063	hög	1	h ö g
+031/065	hög	1	h ö g
+031/067	hög	1	h ö g
+031/069	hög	1	h ö g
+031/071	hög	1	h ö g
+031/073	hög	1	h ö g
+031/075	hög	1	h ö g
+031/077	hög	1	h ö g
+031/079	hög	1	h ö g
+031/081	hög	1	h ö g
+031/083	hög	1	h ö g
+031/085	hög	1	h ö g
+031/087	hög	1	h ö g
+031/089	hög	1	h ö g
+031/091	hög	1	h ö g
+031/093	hög	1	h ö g
+031/095	hög	1	h ö g
+031/097	höh	1	h öh
+031/099	hög	1	h ö g
+031/101	höhg	1	h öh g
+031/103	hög	1	h ö g
+031/105	hög	1	h ö g
+031/107	hög	1	h ö g
+031/109	hög	1	h ö g
+031/111	höj	1	h ö j
+031/113	höj	1	h ö j
+031/115	hög	1	h ö g
+031/117	hög	1	h ö g
+031/119	hög	1	h ö g
+031/121	hög	1	h ö g
+031/123	höhg	1	h öh g
+031/125	hög	1	h ö g
+031/127	hög	1	h ö g
+031/129	hög	1	h ö g
+031/131	hög	1	h ö g
+031/133	höj	1	h ö j
+031/135	hög	1	h ö g
+031/137	höj	1	h ö j
+031/139	höj	1	h ö j
+031/141	hög	1	h ö g
+031/143	hög	1	h ö g
+031/145	hög	1	h ö g
+031/147	höög	1	h öö g
+031/149	hög	1	h ö g
+031/151	hög	1	h ö g
+031/153	höij	1	h öi j
+031/155	hög	1	h ö g
+031/157	hög	1	h ö g
+031/159	höj	1	h ö j
+031/161	hög	1	h ö g
+031/163	hög	1	h ö g
+031/167	hög	1	h ö g
+031/169	höch	1	h ö ch
+031/171	höh	1	h öh
+031/173	höch	1	h ö ch
+031/175	höj	1	h ö j
+031/177	hög	1	h ö g
+031/179	hög	1	h ö g
+032/035	hoog	1	h oo g
+032/037	hoog	1	h oo g
+032/039	hoog	1	h oo g
+032/041	hög	1	h ö g
+032/043	haöhg	1	h aöh g
+032/045	hög	1	h ö g
+032/047	hög	1	h ö g
+032/049	heg	1	h e g
+032/051	hög	1	h ö g
+032/053	hög	1	h ö g
+032/055	hög	1	h ö g
+032/057	hög	1	h ö g
+032/059	hög	1	h ö g
+032/061	hög	1	h ö g
+032/065	hög	1	h ö g
+032/069	hög	1	h ö g
+032/071	hög	1	h ö g
+032/073	hög	1	h ö g
+032/075	hög	1	h ö g
+032/077	hög	1	h ö g
+032/079	hög	1	h ö g
+032/081	hög	1	h ö g
+032/083	hög	1	h ö g
+032/085	hög	1	h ö g
+032/087	hög	1	h ö g
+032/089	hög	1	h ö g
+032/091	hög	1	h ö g
+032/093	hög	1	h ö g
+032/095	NA	NA	-
+032/097	höj	1	h ö j
+032/099	hö	1	h ö
+032/101	hög	1	h ö g
+032/103	hög	1	h ö g
+032/105	höj	1	h ö j
+032/107	höj	1	h ö j
+032/111	hög	1	h ö g
+032/113	höj	1	h ö j
+032/115	hög	1	h ö g
+032/117	höj	1	h ö j
+032/119	höj	1	h ö j
+032/121	hög	1	h ö g
+032/123	hög	1	h ö g
+032/125	hög	1	h ö g
+032/127	hög	1	h ö g
+032/129	hög	1	h ö g
+032/131	hög	1	h ö g
+032/133	hög	1	h ö g
+032/135	höj	1	h ö j
+032/139	höj	1	h ö j
+032/141	hög	1	h ö g
+032/143	höj	1	h ö j
+032/145	hög	1	h ö g
+032/147	hög	1	h ö g
+032/149	hög	1	h ö g
+032/151	hög	1	h ö g
+032/153	höhj	1	h öh j
+032/157	hög	1	h ö g
+032/159	hög	1	h ö g
+032/161	höj	1	h ö j
+032/163	höj	1	h ö j
+032/167	hej	1	h e j
+032/169	hech	1	h e ch
+032/171	höch	1	h ö ch
+032/173	höch	1	h ö ch
+032/175	häg	1	h ä g
+032/177	hög	1	h ö g
+032/179	heig	1	h ei g
+032/181	hög	1	h ö g
+032/183	hög	1	h ö g
+033/035	hög	1	h ö g
+033/037	hog	1	h o g
+033/039	hoog	1	h oo g
+033/041	hög	1	h ö g
+033/043	hög	1	h ö g
+033/045	höög	1	h öö g
+033/047	hög	1	h ö g
+033/049	hög	1	h ö g
+033/051	heeg	1	h ee g
+033/053	hög	1	h ö g
+033/055	hög	1	h ö g
+033/057	hög	1	h ö g
+033/059	hög	1	h ö g
+033/061	hög	1	h ö g
+033/063	hög	1	h ö g
+033/065	hög	1	h ö g
+033/067	hög	1	h ö g
+033/069	hög	1	h ö g
+033/071	hög	1	h ö g
+033/073	hög	1	h ö g
+033/075	hög	1	h ö g
+033/077	hög	1	h ö g
+033/079	höög	1	h öö g
+033/081	hög	1	h ö g
+033/083	hög	1	h ö g
+033/085	hög	1	h ö g
+033/087	hög	1	h ö g
+033/089	hög	1	h ö g
+033/091	hög	1	h ö g
+033/093	hög	1	h ö g
+033/095	hög	1	h ö g
+033/097	höhg	1	h öh g
+033/099	höj	1	h ö j
+033/101	hög	1	h ö g
+033/103	hög	1	h ö g
+033/105	hög	1	h ö g
+033/107	höj	1	h ö j
+033/109	hög	1	h ö g
+033/111	höj	1	h ö j
+033/113	höj	1	h ö j
+033/115	höh	1	h öh
+033/117	höj	1	h ö j
+033/119	hög	1	h ö g
+033/121	höj	1	h ö j
+033/123	höj	1	h ö j
+033/125	hög	1	h ö g
+033/127	hög	1	h ö g
+033/129	hög	1	h ö g
+033/131	hög	1	h ö g
+033/133	höj	1	h ö j
+033/135	höj	1	h ö j
+033/137	hög	1	h ö g
+033/139	höj	1	h ö j
+033/141	hög	1	h ö g
+033/143	höj	1	h ö j
+033/145	höhj	1	h öh j
+033/147	höj	1	h ö j
+033/149	hög	1	h ö g
+033/151	hög	1	h ö g
+033/153	hög	1	h ö g
+033/155	hög	1	h ö g
+033/159	höj	1	h ö j
+033/161	hög	1	h ö g
+033/163	hög	1	h ö g
+033/165	höhg	1	h öh g
+033/167	hög	1	h ö g
+033/169	höh	1	h öh
+033/173	höj	1	h ö j
+033/175	hög	1	h ö g
+033/177	höhg	1	h öh g
+034/035	hög	1	h ö g
+034/039	hög	1	h ö g
+034/041	hög	1	h ö g
+034/043	hög	1	h ö g
+034/045	hög	1	h ö g
+034/047	hög	1	h ö g
+034/049	hög	1	h ö g
+034/051	hög	1	h ö g
+034/053	hög	1	h ö g
+034/055	hög	1	h ö g
+034/057	höch	1	h ö ch
+034/059	hög	1	h ö g
+034/061	hög	1	h ö g
+034/063	hög	1	h ö g
+034/065	gröter	1	g r ö t e r
+034/067	hög	1	h ö g
+034/069	hög	1	h ö g
+034/071	höh	1	h öh
+034/073	hög	1	h ö g
+034/075	hög	1	h ö g
+034/077	hög	1	h ö g
+034/079	hög	1	h ö g
+034/081	hög	1	h ö g
+034/083	hög	1	h ö g
+034/085	hög	1	h ö g
+034/087	hög	1	h ö g
+034/089	hög	1	h ö g
+034/091	hög	1	h ö g
+034/093	hög	1	h ö g
+034/095	hög	1	h ö g
+034/097	höhj	1	h öh j
+034/099	höhj	1	h öh j
+034/101	hög	1	h ö g
+034/103	höj	1	h ö j
+034/105	hög	1	h ö g
+034/107	hög	1	h ö g
+034/109	höj	1	h ö j
+034/111	hög	1	h ö g
+034/113	höj	1	h ö j
+034/115	hög	1	h ö g
+034/117	hög	1	h ö g
+034/119	hög	1	h ö g
+034/121	hög	1	h ö g
+034/125	hög	1	h ö g
+034/127	höj	1	h ö j
+034/129	höj	1	h ö j
+034/131	hög	1	h ö g
+034/133	höj	1	h ö j
+034/135	hög	1	h ö g
+034/137	höj	1	h ö j
+034/139	höj	1	h ö j
+034/141	hög	1	h ö g
+034/143	höj	1	h ö j
+034/145	hög	1	h ö g
+034/147	höj	1	h ö j
+034/149	höj	1	h ö j
+034/151	hög	1	h ö g
+034/155	hög	1	h ö g
+034/157	höhj	1	h öh j
+034/161	höj	1	h ö j
+034/163	höj	1	h ö j
+034/165	hög	1	h ö g
+034/167	höch	1	h ö ch
+034/169	hög	1	h ö g
+034/173	höj	1	h ö j
+035/035	hoeg	1	h oe g
+035/037	hög	1	h ö g
+035/039	hög	1	h ö g
+035/041	hög	1	h ö g
+035/043	hög	1	h ö g
+035/045	hög	1	h ö g
+035/047	hö	1	h ö
+035/049	hög	1	h ö g
+035/051	höj	1	h ö j
+035/053	hög	1	h ö g
+035/055	höög	1	h öö g
+035/057	höög	1	h öö g
+035/059	hög	1	h ö g
+035/061	hög	1	h ö g
+035/063	hög	1	h ö g
+035/065	hög	1	h ö g
+035/067	hög	1	h ö g
+035/069	hög	1	h ö g
+035/071	hög	1	h ö g
+035/073	hög	1	h ö g
+035/075	hög	1	h ö g
+035/077	hög	1	h ö g
+035/079	hög	1	h ö g
+035/081	ögg	1	ö gg
+035/083	ög	1	ö g
+035/085	hög	1	h ö g
+035/087	höch	1	h ö ch
+035/089	hög	1	h ö g
+035/091	höh	1	h öh
+035/093	hög	1	h ö g
+035/095	hög	1	h ö g
+035/097	hög	1	h ö g
+035/099	höj	1	h ö j
+035/101	höj	1	h ö j
+035/103	hög	1	h ö g
+035/105	höj	1	h ö j
+035/107	hög	1	h ö g
+035/109	hög	1	h ö g
+035/111	hög	1	h ö g
+035/113	hög	1	h ö g
+035/115	hög	1	h ö g
+035/117	höj	1	h ö j
+035/121	hög	1	h ö g
+035/123	hög	1	h ö g
+035/125	höj	1	h ö j
+035/127	höj	1	h ö j
+035/129	höj	1	h ö j
+035/133	höj	1	h ö j
+035/135	hög	1	h ö g
+035/137	höj	1	h ö j
+035/139	hög	1	h ö g
+035/141	hög	1	h ö g
+035/143	höj	1	h ö j
+035/145	höj	1	h ö j
+035/147	höch	1	h ö ch
+035/149	höj	1	h ö j
+035/151	hög	1	h ö g
+035/153	höhj	1	h öh j
+035/155	hög	1	h ö g
+035/157	hög	1	h ö g
+035/165	höhj	1	h öh j
+035/167	höj	1	h ö j
+035/169	hög	1	h ö g
+035/171	höj	1	h ö j
+035/173	hög	1	h ö g
+036/033	hög	1	h ö g
+036/035	höhg	1	h öh g
+036/039	hög	1	h ö g
+036/041	hög	1	h ö g
+036/043	hög	1	h ö g
+036/045	hög	1	h ö g
+036/047	hög	1	h ö g
+036/049	hög	1	h ö g
+036/051	hög	1	h ö g
+036/053	hög	1	h ö g
+036/055	hög	1	h ö g
+036/057	hög	1	h ö g
+036/059	hög	1	h ö g
+036/061	hög	1	h ö g
+036/063	hög	1	h ö g
+036/065	hög	1	h ö g
+036/067	hög	1	h ö g
+036/069	hög	1	h ö g
+036/071	hög	1	h ö g
+036/073	hög	1	h ö g
+036/075	hög	1	h ö g
+036/077	hög	1	h ö g
+036/079	ög	1	ö g
+036/081	ögg	1	ö gg
+036/083	öhg	1	öh g
+036/085	höi	1	h öi
+036/087	hö	1	h ö
+036/089	hö	1	h ö
+036/091	höj	1	h ö j
+036/095	hög	1	h ö g
+036/097	hög	1	h ö g
+036/099	höj	1	h ö j
+036/101	höj	1	h ö j
+036/103	höj	1	h ö j
+036/105	hög	1	h ö g
+036/107	höh	1	h öh
+036/109	höj	1	h ö j
+036/111	höj	1	h ö j
+036/113	hög	1	h ö g
+036/115	höj	1	h ö j
+036/117	heg	1	h e g
+036/119	höh	1	h öh
+036/121	höh	1	h öh
+036/123	höh	1	h öh
+036/125	heeg	1	h ee g
+036/127	höh	1	h öh
+036/129	höj	1	h ö j
+036/133	hööj	1	h öö j
+036/135	höj	1	h ö j
+036/137	hög	1	h ö g
+036/139	höch	1	h ö ch
+036/141	höj	1	h ö j
+036/143	höj	1	h ö j
+036/147	hög	1	h ö g
+036/149	höj	1	h ö j
+036/151	hög	1	h ö g
+036/153	hög	1	h ö g
+036/155	höj	1	h ö j
+036/161	hög	1	h ö g
+036/163	höj	1	h ö j
+036/165	höch	1	h ö ch
+036/167	höh	1	h öh
+036/169	hög	1	h ö g
+036/171	hög	1	h ö g
+037/033	hög	1	h ö g
+037/035	hög	1	h ö g
+037/037	hög	1	h ö g
+037/039	hög	1	h ö g
+037/041	hög	1	h ö g
+037/043	hög	1	h ö g
+037/045	hög	1	h ö g
+037/047	hög	1	h ö g
+037/049	hoög	1	h oö g
+037/051	hög	1	h ö g
+037/053	hög	1	h ö g
+037/055	hög	1	h ö g
+037/057	hög	1	h ö g
+037/059	hög	1	h ö g
+037/061	hög	1	h ö g
+037/063	hög	1	h ö g
+037/065	hög	1	h ö g
+037/067	hög	1	h ö g
+037/069	höhg	1	h öh g
+037/071	hög	1	h ö g
+037/073	hög	1	h ö g
+037/075	hög	1	h ö g
+037/077	hög	1	h ö g
+037/079	hög	1	h ö g
+037/081	högg	1	h ö gg
+037/083	häh	1	h äh
+037/085	hög	1	h ö g
+037/087	hö	1	h ö
+037/089	hö	1	h ö
+037/091	hög	1	h ö g
+037/093	höj	1	h ö j
+037/095	höhj	1	h öh j
+037/097	hög	1	h ö g
+037/099	hög	1	h ö g
+037/101	höj	1	h ö j
+037/105	hög	1	h ö g
+037/107	höj	1	h ö j
+037/109	hög	1	h ö g
+037/111	hög	1	h ö g
+037/113	hög	1	h ö g
+037/115	höhg	1	h öh g
+037/117	hö	1	h ö
+037/119	hee	1	h ee
+037/121	hö	1	h ö
+037/123	hög	1	h ö g
+037/125	höh	1	h öh
+037/127	heh	1	h eh
+037/129	hächh	1	h ä c hh
+037/131	höch	1	h ö ch
+037/133	hech	1	h e ch
+037/135	höch	1	h ö ch
+037/137	höh	1	h öh
+037/139	hej	1	h e j
+037/141	höj	1	h ö j
+037/145	hög	1	h ö g
+037/147	hög	1	h ö g
+037/149	hög	1	h ö g
+037/151	hög	1	h ö g
+037/153	höj	1	h ö j
+037/155	hög	1	h ö g
+037/157	höch	1	h ö ch
+037/159	höj	1	h ö j
+037/163	hög	1	h ö g
+037/171	hög	1	h ö g
+038/033	hög	1	h ö g
+038/035	hög	1	h ö g
+038/037	hög	1	h ö g
+038/039	NA	NA	-
+038/041	hög	1	h ö g
+038/043	hög	1	h ö g
+038/045	hög	1	h ö g
+038/047	hög	1	h ö g
+038/049	hög	1	h ö g
+038/051	hög	1	h ö g
+038/053	hög	1	h ö g
+038/055	hög	1	h ö g
+038/057	hög	1	h ö g
+038/059	hög	1	h ö g
+038/061	hög	1	h ö g
+038/063	hög	1	h ö g
+038/065	hög	1	h ö g
+038/067	hög	1	h ö g
+038/069	hög	1	h ö g
+038/071	hög	1	h ö g
+038/073	höhg	1	h öh g
+038/075	hög	1	h ö g
+038/077	högg	1	h ö gg
+038/079	högg	1	h ö gg
+038/081	höch	1	h ö ch
+038/083	högg	1	h ö gg
+038/085	höj	1	h ö j
+038/087	hö	1	h ö
+038/089	höh	1	h öh
+038/091	hög	1	h ö g
+038/093	hög	1	h ö g
+038/095	höj	1	h ö j
+038/097	höh	1	h öh
+038/099	höh	1	h öh
+038/101	höhj	1	h öh j
+038/103	hög	1	h ö g
+038/105	hög	1	h ö g
+038/107	höj	1	h ö j
+038/109	höj	1	h ö j
+038/111	höj	1	h ö j
+038/113	höj	1	h ö j
+038/115	heh	1	h eh
+038/117	hög	1	h ö g
+038/119	höj	1	h ö j
+038/121	höch	1	h ö ch
+038/123	höh	1	h öh
+038/125	höh	1	h öh
+038/127	hech	1	h e ch
+038/129	höch	1	h ö ch
+038/131	hechch	1	h e ch ch
+038/133	häch	1	h ä ch
+038/135	höch	1	h ö ch
+038/145	höj	1	h ö j
+038/147	hög	1	h ö g
+038/149	hög	1	h ö g
+038/151	höj	1	h ö j
+038/153	höj	1	h ö j
+038/155	hög	1	h ö g
+038/159	höh	1	h öh
+038/161	hög	1	h ö g
+038/163	höj	1	h ö j
+039/029	hog	1	h o g
+039/031	hoog	1	h oo g
+039/033	hög	1	h ö g
+039/035	hög	1	h ö g
+039/037	hög	1	h ö g
+039/039	hög	1	h ö g
+039/041	hög	1	h ö g
+039/043	hög	1	h ö g
+039/045	hög	1	h ö g
+039/047	hög	1	h ö g
+039/049	hög	1	h ö g
+039/051	hög	1	h ö g
+039/053	hög	1	h ö g
+039/055	hög	1	h ö g
+039/057	hög	1	h ö g
+039/059	hög	1	h ö g
+039/061	hög	1	h ö g
+039/063	hög	1	h ö g
+039/065	höh	1	h öh
+039/067	hög	1	h ö g
+039/069	hög	1	h ö g
+039/071	hög	1	h ö g
+039/073	hög	1	h ö g
+039/075	hög	1	h ö g
+039/077	hög	1	h ö g
+039/079	högg	1	h ö gg
+039/081	högg	1	h ö gg
+039/083	högg	1	h ö gg
+039/085	högg	1	h ö gg
+039/087	hög	1	h ö g
+039/089	höj	1	h ö j
+039/091	hög	1	h ö g
+039/093	hög	1	h ö g
+039/095	höh	1	h öh
+039/097	höh	1	h öh
+039/099	höh	1	h öh
+039/101	hög	1	h ö g
+039/103	hög	1	h ö g
+039/105	hög	1	h ö g
+039/107	hög	1	h ö g
+039/109	jrötter	1	j r ö tt e r
+039/111	hög	1	h ö g
+039/113	hög	1	h ö g
+039/115	höj	1	h ö j
+039/117	höj	1	h ö j
+039/119	hög	1	h ö g
+039/121	höj	1	h ö j
+039/123	hö	1	h ö
+039/125	höch	1	h ö ch
+039/127	höh	1	h öh
+039/129	hög	1	h ö g
+039/131	höchch	1	h ö ch ch
+039/133	höch	1	h ö ch
+039/135	hechch	1	h e ch ch
+039/137	höchch	1	h ö ch ch
+039/139	he	1	h e
+039/149	hög	1	h ö g
+039/151	höhj	1	h öh j
+039/153	hög	1	h ö g
+039/155	jrötte	1	j r ö tt e
+040/029	hög	1	h ö g
+040/031	hög	1	h ö g
+040/033	hög	1	h ö g
+040/035	hög	1	h ö g
+040/037	höag	1	h öa g
+040/039	häch	1	h ä ch
+040/041	hög	1	h ö g
+040/043	häg	1	h ä g
+040/045	heug	1	h eu g
+040/047	häug	1	h äu g
+040/049	hög	1	h ö g
+040/051	hög	1	h ö g
+040/053	hög	1	h ö g
+040/055	hög	1	h ö g
+040/057	hög	1	h ö g
+040/059	hög	1	h ö g
+040/061	hög	1	h ö g
+040/063	hög	1	h ö g
+040/065	hög	1	h ö g
+040/067	hög	1	h ö g
+040/069	hög	1	h ö g
+040/071	hög	1	h ö g
+040/073	höeg	1	h öe g
+040/075	hög	1	h ö g
+040/077	högg	1	h ö gg
+040/079	höch	1	h ö ch
+040/081	högg	1	h ö gg
+040/083	högg	1	h ö gg
+040/085	hög	1	h ö g
+040/087	höi	1	h öi
+040/089	höh	1	h öh
+040/091	höij	1	h öi j
+040/093	höhi	1	h ö h i
+040/095	höh	1	h öh
+040/097	höh	1	h öh
+040/099	höh	1	h öh
+040/101	hög	1	h ö g
+040/103	hög	1	h ö g
+040/105	hög	1	h ö g
+040/107	hech	1	h e ch
+040/109	hej	1	h e j
+040/111	höj	1	h ö j
+040/113	höj	1	h ö j
+040/115	hög	1	h ö g
+040/119	höh	1	h öh
+040/121	höj	1	h ö j
+040/123	höch	1	h ö ch
+040/125	heh	1	h eh
+040/127	hech	1	h e ch
+040/129	häch	1	h ä ch
+040/131	höh	1	h öh
+040/133	höch	1	h ö ch
+040/135	höch	1	h ö ch
+040/137	hoh	1	h oh
+040/141	hich	1	h i ch
+040/143	hich	1	h i ch
+040/149	hich	1	h i ch
+040/153	hög	1	h ö g
+040/155	höj	1	h ö j
+041/031	hög	1	h ö g
+041/033	hög	1	h ö g
+041/035	häug	1	h äu g
+041/037	häg	1	h ä g
+041/039	höeg	1	h öe g
+041/041	hög	1	h ö g
+041/043	heig	1	h ei g
+041/045	hoig	1	h oi g
+041/047	häug	1	h äu g
+041/049	hög	1	h ö g
+041/051	häug	1	h äu g
+041/053	hög	1	h ö g
+041/055	hög	1	h ö g
+041/057	hög	1	h ö g
+041/059	hög	1	h ö g
+041/061	hög	1	h ö g
+041/063	hög	1	h ö g
+041/065	heeg	1	h ee g
+041/067	hög	1	h ö g
+041/069	NA	NA	-
+041/071	hög	1	h ö g
+041/073	högg	1	h ö gg
+041/075	högg	1	h ö gg
+041/077	hög	1	h ö g
+041/079	högg	1	h ö gg
+041/081	högg	1	h ö gg
+041/083	höh	1	h öh
+041/085	höch	1	h ö ch
+041/087	höh	1	h öh
+041/089	höh	1	h öh
+041/091	hög	1	h ö g
+041/093	höh	1	h öh
+041/095	höh	1	h öh
+041/097	höh	1	h öh
+041/099	höj	1	h ö j
+041/101	hög	1	h ö g
+041/103	höj	1	h ö j
+041/105	hög	1	h ö g
+041/107	höh	1	h öh
+041/109	hög	1	h ö g
+041/111	heej	1	h ee j
+041/113	hög	1	h ö g
+041/115	hög	1	h ö g
+041/117	hög	1	h ö g
+041/119	heh	1	h eh
+041/121	heh	1	h eh
+041/123	heh	1	h eh
+041/125	höch	1	h ö ch
+041/127	heech	1	h ee ch
+041/129	höchch	1	h ö ch ch
+041/131	hechch	1	h e ch ch
+041/133	höch	1	h ö ch
+041/135	hich	1	h i ch
+041/139	hüch	1	h ü ch
+041/141	hih	1	h ih
+041/145	hich	1	h i ch
+041/147	hich	1	h i ch
+041/153	höj	1	h ö j
+041/155	hohj	1	h oh j
+041/157	höh	1	h öh
+041/159	hög	1	h ö g
+041/161	hög	1	h ö g
+042/033	häg	1	h ä g
+042/035	hög	1	h ö g
+042/037	häg	1	h ä g
+042/039	hög	1	h ö g
+042/041	heug	1	h eu g
+042/043	heug	1	h eu g
+042/045	häug	1	h äu g
+042/047	haug	1	h au g
+042/051	höug	1	h öu g
+042/053	höj	1	h ö j
+042/055	hög	1	h ö g
+042/057	hög	1	h ö g
+042/059	hög	1	h ö g
+042/061	höi	1	h öi
+042/063	heug	1	h eu g
+042/065	hög	1	h ö g
+042/067	hög	1	h ö g
+042/069	hög	1	h ö g
+042/071	hög	1	h ö g
+042/073	hög	1	h ö g
+042/075	högg	1	h ö gg
+042/077	högg	1	h ö gg
+042/079	högg	1	h ö gg
+042/081	högg	1	h ö gg
+042/083	högg	1	h ö gg
+042/085	höchg	1	h ö ch g
+042/087	hög	1	h ö g
+042/089	högj	1	h ö g j
+042/091	hög	1	h ö g
+042/093	höh	1	h öh
+042/095	höüj	1	h öü j
+042/097	hö	1	h ö
+042/099	höhj	1	h öh j
+042/101	höj	1	h ö j
+042/103	höj	1	h ö j
+042/105	hej	1	h e j
+042/107	hög	1	h ö g
+042/109	hög	1	h ö g
+042/111	hög	1	h ö g
+042/113	hej	1	h e j
+042/115	hej	1	h e j
+042/117	heg	1	h e g
+042/119	he	1	h e
+042/121	heh	1	h eh
+042/123	he	1	h e
+042/125	hech	1	h e ch
+042/127	hech	1	h e ch
+042/129	heech	1	h ee ch
+042/131	hech	1	h e ch
+042/133	höch	1	h ö ch
+042/135	hich	1	h i ch
+042/137	hüch	1	h ü ch
+042/139	hich	1	h i ch
+042/141	hüch	1	h ü ch
+042/143	hüch	1	h ü ch
+042/145	hich	1	h i ch
+042/147	hiech	1	h ie ch
+042/149	hüch	1	h ü ch
+042/151	häch	1	h ä ch
+042/157	höj	1	h ö j
+042/159	hög	1	h ö g
+042/161	höj	1	h ö j
+043/033	grötter	1	g r ö tt e r
+043/035	hög	1	h ö g
+043/037	högg	1	h ö gg
+043/039	högg	1	h ö gg
+043/041	högg	1	h ö gg
+043/043	häug	1	h äu g
+043/045	häug	1	h äu g
+043/047	häug	1	h äu g
+043/049	häug	1	h äu g
+043/051	häug	1	h äu g
+043/053	hög	1	h ö g
+043/055	höch	1	h ö ch
+043/057	höhg	1	h öh g
+043/059	hög	1	h ö g
+043/061	hög	1	h ö g
+043/063	heug	1	h eu g
+043/065	högg	1	h ö gg
+043/067	hög	1	h ö g
+043/069	heug	1	h eu g
+043/071	högg	1	h ö gg
+043/073	högg	1	h ö gg
+043/075	högg	1	h ö gg
+043/077	högg	1	h ö gg
+043/079	högg	1	h ö gg
+043/081	högg	1	h ö gg
+043/083	högg	1	h ö gg
+043/085	högg	1	h ö gg
+043/087	hög	1	h ö g
+043/089	höjj	1	h ö jj
+043/091	höj	1	h ö j
+043/093	höh	1	h öh
+043/095	hö	1	h ö
+043/097	hög	1	h ö g
+043/099	höj	1	h ö j
+043/101	hög	1	h ö g
+043/103	hög	1	h ö g
+043/105	hög	1	h ö g
+043/107	hög	1	h ö g
+043/109	höh	1	h öh
+043/111	höj	1	h ö j
+043/113	hög	1	h ö g
+043/115	hej	1	h e j
+043/117	hech	1	h e ch
+043/119	heh	1	h eh
+043/121	heh	1	h eh
+043/123	höch	1	h ö ch
+043/125	heh	1	h eh
+043/127	hech	1	h e ch
+043/129	höch	1	h ö ch
+043/131	hüch	1	h ü ch
+043/133	höh	1	h öh
+043/135	hich	1	h i ch
+043/137	hich	1	h i ch
+043/141	hich	1	h i ch
+043/143	hich	1	h i ch
+043/145	hich	1	h i ch
+043/151	höch	1	h ö ch
+043/153	hich	1	h i ch
+043/159	höch	1	h ö ch
+043/161	hög	1	h ö g
+044/033	högg	1	h ö gg
+044/035	högg	1	h ö gg
+044/039	högg	1	h ö gg
+044/041	häug	1	h äu g
+044/043	häug	1	h äu g
+044/045	häug	1	h äu g
+044/047	häug	1	h äu g
+044/049	häug	1	h äu g
+044/051	häug	1	h äu g
+044/053	heuig	1	h eui g
+044/055	heig	1	h ei g
+044/057	hög	1	h ö g
+044/059	hög	1	h ö g
+044/061	höcht	1	h ö ch t
+044/063	högg	1	h ö gg
+044/065	högg	1	h ö gg
+044/067	höcht	1	h ö ch t
+044/069	högg	1	h ö gg
+044/071	högg	1	h ö gg
+044/073	högg	1	h ö gg
+044/075	högg	1	h ö gg
+044/077	högg	1	h ö gg
+044/079	högg	1	h ö gg
+044/081	högg	1	h ö gg
+044/083	höch	1	h ö ch
+044/085	högg	1	h ö gg
+044/087	hejj	1	h e jj
+044/089	höh	1	h öh
+044/091	höcht	1	h ö ch t
+044/093	hög	1	h ö g
+044/095	hög	1	h ö g
+044/097	höch	1	h ö ch
+044/099	höj	1	h ö j
+044/101	hög	1	h ö g
+044/103	höj	1	h ö j
+044/105	hög	1	h ö g
+044/107	heu	1	h eu
+044/109	hög	1	h ö g
+044/111	heu	1	h eu
+044/113	hee	1	h ee
+044/115	höch	1	h ö ch
+044/117	heech	1	h ee ch
+044/119	hech	1	h e ch
+044/121	heh	1	h eh
+044/123	heck	1	h e ck
+044/125	häch	1	h ä ch
+044/127	hök	1	h ö k
+044/129	höch	1	h ö ch
+044/131	hüch	1	h ü ch
+044/133	hüh	1	h üh
+044/135	hichch	1	h i ch ch
+044/137	hich	1	h i ch
+044/141	hich	1	h i ch
+044/143	hich	1	h i ch
+044/145	hich	1	h i ch
+044/149	hich	1	h i ch
+044/151	hüchch	1	h ü ch ch
+044/153	hich	1	h i ch
+045/033	hög	1	h ö g
+045/035	högg	1	h ö gg
+045/037	högg	1	h ö gg
+045/039	höch	1	h ö ch
+045/041	höug	1	h öu g
+045/043	häug	1	h äu g
+045/045	häug	1	h äu g
+045/047	häug	1	h äu g
+045/049	heuj	1	h eu j
+045/051	heug	1	h eu g
+045/053	heug	1	h eu g
+045/055	häug	1	h äu g
+045/057	hoig	1	h oi g
+045/059	höcht	1	h ö ch t
+045/061	hocht	1	h o ch t
+045/063	höcht	1	h ö ch t
+045/065	högg	1	h ö gg
+045/067	höcht	1	h ö ch t
+045/069	hög	1	h ö g
+045/071	höcht	1	h ö ch t
+045/073	hög	1	h ö g
+045/075	högg	1	h ö gg
+045/077	högg	1	h ö gg
+045/079	högg	1	h ö gg
+045/081	högg	1	h ö gg
+045/083	högg	1	h ö gg
+045/085	höjj	1	h ö jj
+045/087	höch	1	h ö ch
+045/089	höh	1	h öh
+045/091	höh	1	h öh
+045/093	heh	1	h eh
+045/095	hej	1	h e j
+045/097	höj	1	h ö j
+045/099	höj	1	h ö j
+045/101	höj	1	h ö j
+045/103	hög	1	h ö g
+045/105	hei	1	h ei
+045/107	heu	1	h eu
+045/109	heu	1	h eu
+045/111	hög	1	h ö g
+045/113	ech	1	e ch
+045/115	eh	1	eh
+045/117	ej	1	e j
+045/119	höck	1	h ö ck
+045/121	heck	1	h e ck
+045/123	häk	1	h ä k
+045/125	heck	1	h e ck
+045/127	hech	1	h e ch
+045/129	hich	1	h i ch
+045/131	hich	1	h i ch
+045/133	höch	1	h ö ch
+045/135	hich	1	h i ch
+045/137	hichch	1	h i ch ch
+045/139	hich	1	h i ch
+045/141	hüch	1	h ü ch
+045/143	hich	1	h i ch
+045/145	hich	1	h i ch
+045/155	hich	1	h i ch
+046/031	hög	1	h ö g
+046/033	höcht	1	h ö ch t
+046/035	högg	1	h ö gg
+046/037	högg	1	h ö gg
+046/039	högg	1	h ö gg
+046/041	höcht	1	h ö ch t
+046/043	heug	1	h eu g
+046/045	heig	1	h ei g
+046/047	heig	1	h ei g
+046/049	haig	1	h ai g
+046/051	haig	1	h ai g
+046/053	hächt	1	h ä ch t
+046/055	höcht	1	h ö ch t
+046/057	höch	1	h ö ch
+046/059	höch	1	h ö ch
+046/061	höch	1	h ö ch
+046/063	höch	1	h ö ch
+046/065	höch	1	h ö ch
+046/067	höch	1	h ö ch
+046/069	högg	1	h ö gg
+046/071	högg	1	h ö gg
+046/073	högg	1	h ö gg
+046/075	hegg	1	h e gg
+046/077	höcht	1	h ö ch t
+046/079	högg	1	h ö gg
+046/081	högg	1	h ö gg
+046/083	hög	1	h ö g
+046/085	högg	1	h ö gg
+046/087	högg	1	h ö gg
+046/089	hej	1	h e j
+046/091	höh	1	h öh
+046/093	hech	1	h e ch
+046/095	heh	1	h eh
+046/097	hög	1	h ö g
+046/099	höh	1	h öh
+046/101	heg	1	h e g
+046/103	höj	1	h ö j
+046/105	he	1	h e
+046/107	hei	1	h ei
+046/109	höh	1	h öh
+046/111	höh	1	h öh
+046/113	höh	1	h öh
+046/115	eek	1	ee k
+046/117	ek	1	e k
+046/119	eek	1	ee k
+046/121	höck	1	h ö ck
+046/123	hekk	1	h e kk
+046/125	höck	1	h ö ck
+046/127	häkk	1	h ä kk
+046/129	hichch	1	h i ch ch
+046/131	hich	1	h i ch
+046/133	hüch	1	h ü ch
+046/135	hich	1	h i ch
+046/137	hichch	1	h i ch ch
+046/139	hich	1	h i ch
+046/141	hech	1	h e ch
+046/143	hich	1	h i ch
+046/155	hai	1	h ai
+047/031	hög	1	h ö g
+047/033	höhg	1	h öh g
+047/035	häögg	1	h äö gg
+047/037	högg	1	h ö gg
+047/039	högg	1	h ö gg
+047/041	höcht	1	h ö ch t
+047/043	höcht	1	h ö ch t
+047/045	häöcht	1	h äö ch t
+047/047	höcht	1	h ö ch t
+047/049	haig	1	h ai g
+047/051	häuj	1	h äu j
+047/053	höcht	1	h ö ch t
+047/055	höcht	1	h ö ch t
+047/057	höicht	1	h öi ch t
+047/059	höcht	1	h ö ch t
+047/061	höcht	1	h ö ch t
+047/063	höcht	1	h ö ch t
+047/065	höch	1	h ö ch
+047/067	höcht	1	h ö ch t
+047/069	hög	1	h ö g
+047/071	högg	1	h ö gg
+047/073	hejj	1	h e jj
+047/075	hegg	1	h e gg
+047/077	höjj	1	h ö jj
+047/079	höjj	1	h ö jj
+047/081	högg	1	h ö gg
+047/083	hög	1	h ö g
+047/085	högg	1	h ö gg
+047/087	hejj	1	h e jj
+047/089	höch	1	h ö ch
+047/091	höch	1	h ö ch
+047/093	hoch	1	h o ch
+047/095	hög	1	h ö g
+047/097	hech	1	h e ch
+047/099	he	1	h e
+047/101	hej	1	h e j
+047/103	hei	1	h ei
+047/105	höcht	1	h ö ch t
+047/107	hei	1	h ei
+047/109	heei	1	h eei
+047/111	hejj	1	h e jj
+047/113	höch	1	h ö ch
+047/115	hök	1	h ö k
+047/117	eek	1	ee k
+047/119	eak	1	ea k
+047/123	häck	1	h ä ck
+047/125	heck	1	h e ck
+047/127	heck	1	h e ck
+047/129	hech	1	h e ch
+047/131	hich	1	h i ch
+047/133	hich	1	h i ch
+047/135	he	1	h e
+047/137	hich	1	h i ch
+047/139	hich	1	h i ch
+047/141	hich	1	h i ch
+047/147	hichj	1	h i ch j
+047/149	hich	1	h i ch
+047/151	hüch	1	h ü ch
+047/159	hich	1	h i ch
+048/021	högg	1	h ö gg
+048/023	hoog	1	h oo g
+048/027	hög	1	h ö g
+048/029	höög	1	h öö g
+048/031	hög	1	h ö g
+048/033	höcht	1	h ö ch t
+048/035	höacht	1	h öa ch t
+048/037	häögg	1	h äö gg
+048/039	högg	1	h ö gg
+048/041	häuchch	1	h äu ch ch
+048/045	högg	1	h ö gg
+048/047	höcht	1	h ö ch t
+048/049	höcht	1	h ö ch t
+048/051	höcht	1	h ö ch t
+048/053	höcht	1	h ö ch t
+048/055	höcht	1	h ö ch t
+048/057	höcht	1	h ö ch t
+048/059	höcht	1	h ö ch t
+048/061	höcht	1	h ö ch t
+048/063	höcht	1	h ö ch t
+048/065	höcht	1	h ö ch t
+048/067	höcht	1	h ö ch t
+048/069	höjj	1	h ö jj
+048/071	hechch	1	h e ch ch
+048/073	högg	1	h ö gg
+048/075	höjj	1	h ö jj
+048/077	högg	1	h ö gg
+048/079	högg	1	h ö gg
+048/081	högg	1	h ö gg
+048/083	hejj	1	h e jj
+048/085	höch	1	h ö ch
+048/087	hej	1	h e j
+048/089	hock	1	h o ck
+048/091	hök	1	h ö k
+048/093	heg	1	h e g
+048/095	he	1	h e
+048/099	höch	1	h ö ch
+048/101	höch	1	h ö ch
+048/103	häi	1	h äi
+048/105	hei	1	h ei
+048/107	heh	1	h eh
+048/109	heh	1	h eh
+048/111	heek	1	h ee k
+048/113	hech	1	h e ch
+048/115	ek	1	e k
+048/119	öch	1	ö ch
+048/123	heck	1	h e ck
+048/125	heck	1	h e ck
+048/127	hich	1	h i ch
+048/129	hich	1	h i ch
+048/131	hich	1	h i ch
+048/133	hichch	1	h i ch ch
+048/135	hich	1	h i ch
+048/137	hich	1	h i ch
+048/139	hich	1	h i ch
+048/141	hichch	1	h i ch ch
+048/143	hich	1	h i ch
+048/145	hich	1	h i ch
+048/147	hich	1	h i ch
+048/153	hich	1	h i ch
+048/157	hich	1	h i ch
+048/159	hich	1	h i ch
+049/019	högg	1	h ö gg
+049/021	högg	1	h ö gg
+049/023	högg	1	h ö gg
+049/025	hög	1	h ö g
+049/027	hoeg	1	h oe g
+049/029	hög	1	h ö g
+049/031	hög	1	h ö g
+049/033	högg	1	h ö gg
+049/035	högg	1	h ö gg
+049/037	högg	1	h ö gg
+049/039	höcht	1	h ö ch t
+049/041	höcht	1	h ö ch t
+049/043	höägt	1	h öä g t
+049/045	höcht	1	h ö ch t
+049/047	höcht	1	h ö ch t
+049/049	höcht	1	h ö ch t
+049/051	höcht	1	h ö ch t
+049/053	hödd	1	h ö dd
+049/055	höcht	1	h ö ch t
+049/057	höcht	1	h ö ch t
+049/059	höcht	1	h ö ch t
+049/061	höcht	1	h ö ch t
+049/063	höcht	1	h ö ch t
+049/065	höcht	1	h ö ch t
+049/067	höch	1	h ö ch
+049/069	höch	1	h ö ch
+049/071	höchch	1	h ö ch ch
+049/073	hech	1	h e ch
+049/077	höch	1	h ö ch
+049/079	hechg	1	h e ch g
+049/081	höch	1	h ö ch
+049/083	hegg	1	h e gg
+049/085	höch	1	h ö ch
+049/087	hek	1	h e k
+049/089	hek	1	h e k
+049/091	hek	1	h e k
+049/093	heeg	1	h ee g
+049/095	heck	1	h e ck
+049/097	höck	1	h ö ck
+049/099	heck	1	h e ck
+049/101	häck	1	h ä ck
+049/103	heh	1	h eh
+049/105	höch	1	h ö ch
+049/107	hech	1	h e ch
+049/109	häi	1	h äi
+049/111	höch	1	h ö ch
+049/113	höh	1	h öh
+049/115	hök	1	h ö k
+049/117	heek	1	h ee k
+049/119	hek	1	h e k
+049/121	heh	1	h eh
+049/123	hek	1	h e k
+049/125	heck	1	h e ck
+049/127	hech	1	h e ch
+049/129	hich	1	h i ch
+049/131	hich	1	h i ch
+049/133	hich	1	h i ch
+049/135	hich	1	h i ch
+049/137	hich	1	h i ch
+049/139	hich	1	h i ch
+049/141	hich	1	h i ch
+049/143	hich	1	h i ch
+049/145	hich	1	h i ch
+049/147	hich	1	h i ch
+049/151	hich	1	h i ch
+050/021	högg	1	h ö gg
+050/023	hech	1	h e ch
+050/025	högg	1	h ö gg
+050/027	hög	1	h ö g
+050/029	höch	1	h ö ch
+050/031	hög	1	h ö g
+050/033	högg	1	h ö gg
+050/035	hög	1	h ö g
+050/037	högg	1	h ö gg
+050/039	högg	1	h ö gg
+050/041	högg	1	h ö gg
+050/043	höcht	1	h ö ch t
+050/047	höcht	1	h ö ch t
+050/049	höd	1	h ö d
+050/051	hödd	1	h ö dd
+050/053	hödd	1	h ö dd
+050/055	hödd	1	h ö dd
+050/057	höcht	1	h ö ch t
+050/059	höcht	1	h ö ch t
+050/061	höcht	1	h ö ch t
+050/063	högg	1	h ö gg
+050/065	högg	1	h ö gg
+050/067	höch	1	h ö ch
+050/069	höch	1	h ö ch
+050/071	höh	1	h öh
+050/073	höch	1	h ö ch
+050/075	hech	1	h e ch
+050/077	hech	1	h e ch
+050/079	hech	1	h e ch
+050/081	hech	1	h e ch
+050/083	hech	1	h e ch
+050/085	höch	1	h ö ch
+050/087	hee	1	h ee
+050/089	heck	1	h e ck
+050/091	he	1	h e
+050/093	heck	1	h e ck
+050/095	hekk	1	h e kk
+050/097	höck	1	h ö ck
+050/099	heck	1	h e ck
+050/101	hekk	1	h e kk
+050/103	hekk	1	h e kk
+050/105	hök	1	h ö k
+050/107	hech	1	h e ch
+050/109	höch	1	h ö ch
+050/111	heh	1	h eh
+050/113	höch	1	h ö ch
+050/115	höch	1	h ö ch
+050/117	ek	1	e k
+050/119	eh	1	eh
+050/121	eech	1	ee ch
+050/125	höh	1	h öh
+050/127	hichch	1	h i ch ch
+050/129	hich	1	h i ch
+050/131	hiich	1	h ii ch
+050/133	hich	1	h i ch
+050/135	hich	1	h i ch
+050/137	hich	1	h i ch
+050/139	hich	1	h i ch
+050/141	hich	1	h i ch
+050/143	hich	1	h i ch
+050/145	hich	1	h i ch
+050/147	hichch	1	h i ch ch
+050/149	hech	1	h e ch
+050/151	hich	1	h i ch
+050/155	hich	1	h i ch
+050/157	hich	1	h i ch
+050/159	hich	1	h i ch
+050/161	hich	1	h i ch
+051/023	högg	1	h ö gg
+051/025	högg	1	h ö gg
+051/027	hög	1	h ö g
+051/029	högg	1	h ö gg
+051/031	högg	1	h ö gg
+051/033	högg	1	h ö gg
+051/035	högg	1	h ö gg
+051/037	högg	1	h ö gg
+051/039	haögg	1	h aö gg
+051/041	höcht	1	h ö ch t
+051/043	höcht	1	h ö ch t
+051/045	höcht	1	h ö ch t
+051/047	höcht	1	h ö ch t
+051/049	höcht	1	h ö ch t
+051/051	höcht	1	h ö ch t
+051/053	hödd	1	h ö dd
+051/055	höcht	1	h ö ch t
+051/057	höcht	1	h ö ch t
+051/059	höcht	1	h ö ch t
+051/061	höcht	1	h ö ch t
+051/063	högg	1	h ö gg
+051/065	höch	1	h ö ch
+051/067	höch	1	h ö ch
+051/069	höch	1	h ö ch
+051/071	höch	1	h ö ch
+051/073	högg	1	h ö gg
+051/075	hööch	1	h öö ch
+051/077	höchch	1	h ö ch ch
+051/079	hech	1	h e ch
+051/081	höch	1	h ö ch
+051/083	hech	1	h e ch
+051/085	hech	1	h e ch
+051/087	hechg	1	h e ch g
+051/089	höch	1	h ö ch
+051/091	heck	1	h e ck
+051/093	höck	1	h ö ck
+051/095	heck	1	h e ck
+051/097	hekk	1	h e kk
+051/099	höck	1	h ö ck
+051/101	häck	1	h ä ck
+051/103	heck	1	h e ck
+051/105	höck	1	h ö ck
+051/107	hech	1	h e ch
+051/109	häch	1	h ä ch
+051/111	heh	1	h eh
+051/113	hech	1	h e ch
+051/115	ech	1	e ch
+051/117	heech	1	h ee ch
+051/119	öch	1	ö ch
+051/121	heech	1	h ee ch
+051/123	ek	1	e k
+051/125	hich	1	h i ch
+051/127	hich	1	h i ch
+051/129	hichch	1	h i ch ch
+051/131	hich	1	h i ch
+051/133	hich	1	h i ch
+051/135	hich	1	h i ch
+051/137	hich	1	h i ch
+051/139	hich	1	h i ch
+051/141	hich	1	h i ch
+051/143	hich	1	h i ch
+051/145	hich	1	h i ch
+051/147	hich	1	h i ch
+051/149	hüch	1	h ü ch
+051/151	hich	1	h i ch
+051/153	hüch	1	h ü ch
+051/155	hüch	1	h ü ch
+051/157	hich	1	h i ch
+052/023	högg	1	h ö gg
+052/025	högg	1	h ö gg
+052/027	högg	1	h ö gg
+052/029	hög	1	h ö g
+052/031	högg	1	h ö gg
+052/033	högg	1	h ö gg
+052/035	högg	1	h ö gg
+052/037	högg	1	h ö gg
+052/039	högg	1	h ö gg
+052/041	högg	1	h ö gg
+052/043	höcht	1	h ö ch t
+052/045	höcht	1	h ö ch t
+052/047	höcht	1	h ö ch t
+052/049	höcht	1	h ö ch t
+052/051	höcht	1	h ö ch t
+052/053	höcht	1	h ö ch t
+052/057	höcht	1	h ö ch t
+052/059	höcht	1	h ö ch t
+052/061	höcht	1	h ö ch t
+052/063	hoch	1	h o ch
+052/065	höch	1	h ö ch
+052/067	höchch	1	h ö ch ch
+052/069	höch	1	h ö ch
+052/071	höchch	1	h ö ch ch
+052/073	hechch	1	h e ch ch
+052/075	hech	1	h e ch
+052/077	hech	1	h e ch
+052/079	hech	1	h e ch
+052/081	hech	1	h e ch
+052/083	hech	1	h e ch
+052/085	hech	1	h e ch
+052/087	hechch	1	h e ch ch
+052/089	hech	1	h e ch
+052/091	höh	1	h öh
+052/093	hek	1	h e k
+052/095	hehk	1	h eh k
+052/097	höck	1	h ö ck
+052/099	höch	1	h ö ch
+052/101	höck	1	h ö ck
+052/103	häch	1	h ä ch
+052/105	hächch	1	h ä ch ch
+052/107	hech	1	h e ch
+052/109	hech	1	h e ch
+052/111	heh	1	h eh
+052/113	höch	1	h ö ch
+052/115	eh	1	eh
+052/117	ö	1	ö
+052/121	heh	1	h eh
+052/123	öch	1	ö ch
+052/125	hech	1	h e ch
+052/127	hichch	1	h i ch ch
+052/129	hich	1	h i ch
+052/131	hich	1	h i ch
+052/133	hich	1	h i ch
+052/135	hich	1	h i ch
+052/137	hich	1	h i ch
+052/139	hich	1	h i ch
+052/141	hich	1	h i ch
+052/143	hich	1	h i ch
+052/145	hich	1	h i ch
+052/147	hich	1	h i ch
+052/149	hich	1	h i ch
+052/151	hichch	1	h i ch ch
+052/153	höch	1	h ö ch
+052/155	hich	1	h i ch
+052/157	hich	1	h i ch
+052/159	hich	1	h i ch
+053/023	hüög	1	h üö g
+053/025	hoog	1	h oo g
+053/027	högg	1	h ö gg
+053/029	höög	1	h öö g
+053/031	högg	1	h ö gg
+053/033	högg	1	h ö gg
+053/035	högg	1	h ö gg
+053/037	högg	1	h ö gg
+053/039	högg	1	h ö gg
+053/041	högg	1	h ö gg
+053/043	höcht	1	h ö ch t
+053/045	höcht	1	h ö ch t
+053/047	höcht	1	h ö ch t
+053/049	höcht	1	h ö ch t
+053/051	höcht	1	h ö ch t
+053/053	högg	1	h ö gg
+053/055	högg	1	h ö gg
+053/057	högg	1	h ö gg
+053/059	heugg	1	h eu gg
+053/061	höch	1	h ö ch
+053/063	höch	1	h ö ch
+053/065	höch	1	h ö ch
+053/067	höch	1	h ö ch
+053/069	höch	1	h ö ch
+053/071	hech	1	h e ch
+053/073	hech	1	h e ch
+053/075	hech	1	h e ch
+053/077	hech	1	h e ch
+053/079	hech	1	h e ch
+053/081	hechch	1	h e ch ch
+053/083	hech	1	h e ch
+053/085	hech	1	h e ch
+053/087	hech	1	h e ch
+053/089	höch	1	h ö ch
+053/091	heeg	1	h ee g
+053/093	höck	1	h ö ck
+053/095	höck	1	h ö ck
+053/097	höch	1	h ö ch
+053/099	högg	1	h ö gg
+053/101	höh	1	h öh
+053/103	hech	1	h e ch
+053/105	höck	1	h ö ck
+053/107	heh	1	h eh
+053/109	höch	1	h ö ch
+053/111	häch	1	h ä ch
+053/113	hech	1	h e ch
+053/115	hech	1	h e ch
+053/121	heh	1	h eh
+053/123	hich	1	h i ch
+053/125	heh	1	h eh
+053/127	hich	1	h i ch
+053/129	hichch	1	h i ch ch
+053/131	hich	1	h i ch
+053/133	hichch	1	h i ch ch
+053/135	höch	1	h ö ch
+053/137	hich	1	h i ch
+053/139	hichch	1	h i ch ch
+053/141	hich	1	h i ch
+053/143	hich	1	h i ch
+053/145	hich	1	h i ch
+053/147	hich	1	h i ch
+053/149	höi	1	h öi
+053/151	hich	1	h i ch
+053/153	hich	1	h i ch
+053/155	hichh	1	h i c hh
+053/157	hich	1	h i ch
+054/023	högg	1	h ö gg
+054/025	högg	1	h ö gg
+054/027	hög	1	h ö g
+054/029	höj	1	h ö j
+054/031	högg	1	h ö gg
+054/033	hög	1	h ö g
+054/035	högg	1	h ö gg
+054/037	högg	1	h ö gg
+054/039	högg	1	h ö gg
+054/041	höch	1	h ö ch
+054/043	höcht	1	h ö ch t
+054/045	högg	1	h ö gg
+054/047	höcht	1	h ö ch t
+054/049	höcht	1	h ö ch t
+054/051	höcht	1	h ö ch t
+054/053	hödd	1	h ö dd
+054/055	hödd	1	h ö dd
+054/057	hödd	1	h ö dd
+054/059	hoich	1	h oi ch
+054/061	högg	1	h ö gg
+054/063	höch	1	h ö ch
+054/065	höch	1	h ö ch
+054/067	höch	1	h ö ch
+054/069	hechch	1	h e ch ch
+054/071	hech	1	h e ch
+054/073	hech	1	h e ch
+054/075	hejj	1	h e jj
+054/077	hechch	1	h e ch ch
+054/079	höchch	1	h ö ch ch
+054/081	hech	1	h e ch
+054/083	höch	1	h ö ch
+054/085	hech	1	h e ch
+054/087	hech	1	h e ch
+054/089	heech	1	h ee ch
+054/091	hehch	1	h eh ch
+054/093	hech	1	h e ch
+054/095	hech	1	h e ch
+054/097	heh	1	h eh
+054/099	he	1	h e
+054/101	häch	1	h ä ch
+054/103	häch	1	h ä ch
+054/105	hech	1	h e ch
+054/107	häch	1	h ä ch
+054/109	häch	1	h ä ch
+054/111	häch	1	h ä ch
+054/113	hächch	1	h ä ch ch
+054/115	hech	1	h e ch
+054/117	hich	1	h i ch
+054/119	hüch	1	h ü ch
+054/121	heh	1	h eh
+054/123	hech	1	h e ch
+054/125	hich	1	h i ch
+054/127	hüch	1	h ü ch
+054/131	hüch	1	h ü ch
+054/133	hich	1	h i ch
+054/135	hich	1	h i ch
+054/137	hich	1	h i ch
+054/139	hich	1	h i ch
+054/141	hich	1	h i ch
+054/143	hich	1	h i ch
+054/145	hich	1	h i ch
+054/147	hich	1	h i ch
+054/149	hich	1	h i ch
+054/151	hich	1	h i ch
+054/153	hich	1	h i ch
+054/155	hich	1	h i ch
+054/157	hich	1	h i ch
+054/159	hüch	1	h ü ch
+054/161	heh	1	h eh
+054/163	höh	1	h öh
+055/023	hogg	1	h o gg
+055/025	höüt	1	h öü t
+055/027	hüg	1	h ü g
+055/029	höj	1	h ö j
+055/031	hüej	1	h üe j
+055/033	högg	1	h ö gg
+055/035	högg	1	h ö gg
+055/037	högg	1	h ö gg
+055/039	högg	1	h ö gg
+055/041	högg	1	h ö gg
+055/043	höggt	1	h ö gg t
+055/045	höcht	1	h ö ch t
+055/047	höcht	1	h ö ch t
+055/049	höcht	1	h ö ch t
+055/051	hodd	1	h o dd
+055/053	hödd	1	h ö dd
+055/055	höch	1	h ö ch
+055/057	höchch	1	h ö ch ch
+055/059	höch	1	h ö ch
+055/061	höh	1	h öh
+055/063	höch	1	h ö ch
+055/065	höch	1	h ö ch
+055/067	hech	1	h e ch
+055/069	höch	1	h ö ch
+055/071	hech	1	h e ch
+055/073	höchch	1	h ö ch ch
+055/075	höch	1	h ö ch
+055/077	höchch	1	h ö ch ch
+055/079	hech	1	h e ch
+055/081	höch	1	h ö ch
+055/083	höch	1	h ö ch
+055/085	hi	1	h i
+055/087	hegg	1	h e gg
+055/089	häch	1	h ä ch
+055/091	hech	1	h e ch
+055/093	hech	1	h e ch
+055/095	hech	1	h e ch
+055/097	heg	1	h e g
+055/099	hech	1	h e ch
+055/101	hich	1	h i ch
+055/103	höch	1	h ö ch
+055/105	hech	1	h e ch
+055/107	häch	1	h ä ch
+055/109	häch	1	h ä ch
+055/111	häch	1	h ä ch
+055/113	hech	1	h e ch
+055/115	häch	1	h ä ch
+055/117	hich	1	h i ch
+055/119	hich	1	h i ch
+055/123	hüchch	1	h ü ch ch
+055/125	hö	1	h ö
+055/127	hich	1	h i ch
+055/131	hich	1	h i ch
+055/133	hich	1	h i ch
+055/135	hich	1	h i ch
+055/137	heh	1	h eh
+055/139	hich	1	h i ch
+055/141	hich	1	h i ch
+055/143	hich	1	h i ch
+055/145	hüchch	1	h ü ch ch
+055/147	hüchch	1	h ü ch ch
+055/149	hichch	1	h i ch ch
+055/151	hich	1	h i ch
+055/153	hich	1	h i ch
+055/155	hich	1	h i ch
+055/157	hich	1	h i ch
+055/159	hichch	1	h i ch ch
+055/161	höch	1	h ö ch
+056/021	hoch	1	h o ch
+056/023	högg	1	h ö gg
+056/025	höüd	1	h öü d
+056/027	hüj	1	h ü j
+056/029	hööj	1	h öö j
+056/031	hög	1	h ö g
+056/033	hüed	1	h üe d
+056/035	högg	1	h ö gg
+056/037	högg	1	h ö gg
+056/039	högg	1	h ö gg
+056/041	hög	1	h ö g
+056/043	högg	1	h ö gg
+056/045	högg	1	h ö gg
+056/047	högg	1	h ö gg
+056/049	högg	1	h ö gg
+056/051	högg	1	h ö gg
+056/053	högg	1	h ö gg
+056/055	höch	1	h ö ch
+056/057	höchch	1	h ö ch ch
+056/059	hech	1	h e ch
+056/061	hech	1	h e ch
+056/063	hech	1	h e ch
+056/065	häch	1	h ä ch
+056/067	höch	1	h ö ch
+056/069	hääch	1	h ää ch
+056/071	högg	1	h ö gg
+056/073	hech	1	h e ch
+056/075	hech	1	h e ch
+056/077	höch	1	h ö ch
+056/079	hechch	1	h e ch ch
+056/081	höch	1	h ö ch
+056/083	hech	1	h e ch
+056/085	hech	1	h e ch
+056/087	hich	1	h i ch
+056/089	hech	1	h e ch
+056/091	häch	1	h ä ch
+056/093	hech	1	h e ch
+056/095	hech	1	h e ch
+056/097	häch	1	h ä ch
+056/099	häch	1	h ä ch
+056/101	hech	1	h e ch
+056/103	hech	1	h e ch
+056/105	hech	1	h e ch
+056/107	hach	1	h a ch
+056/109	hech	1	h e ch
+056/111	hich	1	h i ch
+056/113	hech	1	h e ch
+056/115	höch	1	h ö ch
+056/117	hich	1	h i ch
+056/121	höch	1	h ö ch
+056/123	hich	1	h i ch
+056/125	hich	1	h i ch
+056/127	hichch	1	h i ch ch
+056/129	hich	1	h i ch
+056/131	hich	1	h i ch
+056/133	hich	1	h i ch
+056/135	hich	1	h i ch
+056/137	hich	1	h i ch
+056/139	hich	1	h i ch
+056/141	hichch	1	h i ch ch
+056/143	hich	1	h i ch
+056/145	hich	1	h i ch
+056/147	hüch	1	h ü ch
+056/149	hich	1	h i ch
+056/151	hich	1	h i ch
+056/153	hich	1	h i ch
+056/155	hich	1	h i ch
+056/157	hich	1	h i ch
+056/159	hich	1	h i ch
+056/161	hich	1	h i ch
+057/021	hug	1	h u g
+057/023	hueg	1	h ue g
+057/025	huch	1	h u ch
+057/027	hüeg	1	h üe g
+057/029	hüch	1	h ü ch
+057/031	hühd	1	h üh d
+057/033	hüd	1	h ü d
+057/035	hü	1	h ü
+057/037	hödd	1	h ö dd
+057/039	högg	1	h ö gg
+057/041	hööj	1	h öö j
+057/043	högg	1	h ö gg
+057/045	höcht	1	h ö ch t
+057/047	högg	1	h ö gg
+057/049	högg	1	h ö gg
+057/051	heech	1	h ee ch
+057/053	höchch	1	h ö ch ch
+057/055	höch	1	h ö ch
+057/057	häch	1	h ä ch
+057/059	hech	1	h e ch
+057/061	hech	1	h e ch
+057/063	hegg	1	h e gg
+057/065	hech	1	h e ch
+057/067	höch	1	h ö ch
+057/069	höch	1	h ö ch
+057/071	höch	1	h ö ch
+057/073	hech	1	h e ch
+057/075	hech	1	h e ch
+057/077	hech	1	h e ch
+057/079	hech	1	h e ch
+057/081	hech	1	h e ch
+057/083	hechch	1	h e ch ch
+057/085	hich	1	h i ch
+057/087	häch	1	h ä ch
+057/089	hech	1	h e ch
+057/091	hech	1	h e ch
+057/093	hejj	1	h e jj
+057/095	hech	1	h e ch
+057/097	höch	1	h ö ch
+057/099	höch	1	h ö ch
+057/101	höch	1	h ö ch
+057/103	häch	1	h ä ch
+057/105	hech	1	h e ch
+057/107	hech	1	h e ch
+057/109	höh	1	h öh
+057/111	hech	1	h e ch
+057/113	hech	1	h e ch
+057/115	hööch	1	h öö ch
+057/117	hich	1	h i ch
+057/119	hüch	1	h ü ch
+057/121	hüch	1	h ü ch
+057/123	hich	1	h i ch
+057/125	hich	1	h i ch
+057/127	hich	1	h i ch
+057/129	hich	1	h i ch
+057/131	hich	1	h i ch
+057/133	hich	1	h i ch
+057/135	hich	1	h i ch
+057/137	hich	1	h i ch
+057/139	hich	1	h i ch
+057/141	hich	1	h i ch
+057/143	hich	1	h i ch
+057/145	hich	1	h i ch
+057/147	hich	1	h i ch
+057/149	hich	1	h i ch
+057/151	hich	1	h i ch
+057/153	hich	1	h i ch
+057/155	hich	1	h i ch
+057/157	hich	1	h i ch
+057/159	hich	1	h i ch
+057/161	heh	1	h eh
+058/019	hoog	1	h oo g
+058/021	huäg	1	h uä g
+058/023	huch	1	h u ch
+058/025	hüg	1	h ü g
+058/027	hüg	1	h ü g
+058/029	hühd	1	h üh d
+058/031	hühd	1	h üh d
+058/033	hüd	1	h ü d
+058/035	hüt	1	h ü t
+058/037	hühd	1	h üh d
+058/039	högg	1	h ö gg
+058/041	hög	1	h ö g
+058/043	högg	1	h ö gg
+058/045	hägg	1	h ä gg
+058/047	heg	1	h e g
+058/049	heg	1	h e g
+058/051	hich	1	h i ch
+058/053	hiech	1	h ie ch
+058/055	hech	1	h e ch
+058/057	hech	1	h e ch
+058/059	hech	1	h e ch
+058/061	hegg	1	h e gg
+058/063	hegg	1	h e gg
+058/065	hechch	1	h e ch ch
+058/067	hech	1	h e ch
+058/069	hech	1	h e ch
+058/071	hich	1	h i ch
+058/073	hech	1	h e ch
+058/075	höch	1	h ö ch
+058/077	höch	1	h ö ch
+058/079	hech	1	h e ch
+058/081	hechch	1	h e ch ch
+058/083	höch	1	h ö ch
+058/085	hih	1	h ih
+058/087	hich	1	h i ch
+058/089	häch	1	h ä ch
+058/091	hech	1	h e ch
+058/093	hech	1	h e ch
+058/095	höch	1	h ö ch
+058/097	häch	1	h ä ch
+058/099	hech	1	h e ch
+058/101	höch	1	h ö ch
+058/103	hieh	1	h ieh
+058/105	höch	1	h ö ch
+058/107	höch	1	h ö ch
+058/109	hech	1	h e ch
+058/111	höch	1	h ö ch
+058/113	hech	1	h e ch
+058/115	höh	1	h öh
+058/117	höch	1	h ö ch
+058/119	hich	1	h i ch
+058/121	hich	1	h i ch
+058/123	hich	1	h i ch
+058/125	hich	1	h i ch
+058/127	hich	1	h i ch
+058/129	hich	1	h i ch
+058/131	hich	1	h i ch
+058/133	hich	1	h i ch
+058/135	hich	1	h i ch
+058/137	hich	1	h i ch
+058/139	hich	1	h i ch
+058/141	hich	1	h i ch
+058/143	hich	1	h i ch
+058/145	hich	1	h i ch
+058/147	hich	1	h i ch
+058/149	hichch	1	h i ch ch
+058/151	hich	1	h i ch
+058/153	hich	1	h i ch
+058/155	hüch	1	h ü ch
+058/157	hich	1	h i ch
+058/159	hich	1	h i ch
+059/019	huag	1	h ua g
+059/021	hug	1	h u g
+059/023	hüeg	1	h üe g
+059/025	hüg	1	h ü g
+059/027	hüh	1	h üh
+059/029	hüht	1	h üh t
+059/031	hüht	1	h üh t
+059/033	hüht	1	h üh t
+059/035	hüht	1	h üh t
+059/037	höh	1	h öh
+059/039	höh	1	h öh
+059/041	höö	1	h öö
+059/043	hög	1	h ö g
+059/045	hög	1	h ö g
+059/047	heeg	1	h ee g
+059/049	hej	1	h e j
+059/051	höh	1	h öh
+059/053	hech	1	h e ch
+059/055	hö	1	h ö
+059/057	hech	1	h e ch
+059/059	heh	1	h eh
+059/061	hech	1	h e ch
+059/063	hech	1	h e ch
+059/065	hech	1	h e ch
+059/067	hech	1	h e ch
+059/069	höch	1	h ö ch
+059/071	hech	1	h e ch
+059/073	höch	1	h ö ch
+059/075	hoch	1	h o ch
+059/077	hohch	1	h oh ch
+059/079	höch	1	h ö ch
+059/081	hechch	1	h e ch ch
+059/083	höch	1	h ö ch
+059/085	hüch	1	h ü ch
+059/087	hich	1	h i ch
+059/089	höch	1	h ö ch
+059/091	häch	1	h ä ch
+059/093	hech	1	h e ch
+059/095	höch	1	h ö ch
+059/097	höch	1	h ö ch
+059/099	häch	1	h ä ch
+059/101	höch	1	h ö ch
+059/103	häch	1	h ä ch
+059/105	häch	1	h ä ch
+059/107	hech	1	h e ch
+059/109	häch	1	h ä ch
+059/111	hech	1	h e ch
+059/113	hech	1	h e ch
+059/115	hooch	1	h oo ch
+059/117	höch	1	h ö ch
+059/119	hich	1	h i ch
+059/121	hich	1	h i ch
+059/123	hich	1	h i ch
+059/125	hich	1	h i ch
+059/127	hich	1	h i ch
+059/129	hich	1	h i ch
+059/131	hich	1	h i ch
+059/133	hichch	1	h i ch ch
+059/135	hich	1	h i ch
+059/137	hich	1	h i ch
+059/139	hich	1	h i ch
+059/141	hichch	1	h i ch ch
+059/143	hich	1	h i ch
+059/145	hich	1	h i ch
+059/147	hich	1	h i ch
+059/149	hichch	1	h i ch ch
+059/151	hich	1	h i ch
+059/153	hich	1	h i ch
+059/155	hich	1	h i ch
+059/157	hichch	1	h i ch ch
+059/159	hüch	1	h ü ch
+059/161	höh	1	h öh
+059/165	hech	1	h e ch
+059/169	heh	1	h eh
+060/021	huhd	1	h uh d
+060/023	hög	1	h ö g
+060/025	hüüd	1	h üü d
+060/027	hüht	1	h üh t
+060/029	hüht	1	h üh t
+060/031	hüt	1	h ü t
+060/033	hühd	1	h üh d
+060/035	hüht	1	h üh t
+060/037	hüt	1	h ü t
+060/039	höh	1	h öh
+060/041	höj	1	h ö j
+060/043	hüg	1	h ü g
+060/045	hech	1	h e ch
+060/047	hieg	1	h ie g
+060/049	hieh	1	h ieh
+060/051	hieg	1	h ie g
+060/053	hig	1	h i g
+060/055	höch	1	h ö ch
+060/057	höch	1	h ö ch
+060/059	häch	1	h ä ch
+060/061	hech	1	h e ch
+060/063	hech	1	h e ch
+060/065	höch	1	h ö ch
+060/067	höch	1	h ö ch
+060/069	hech	1	h e ch
+060/071	hechch	1	h e ch ch
+060/073	höch	1	h ö ch
+060/075	höch	1	h ö ch
+060/077	hech	1	h e ch
+060/079	hich	1	h i ch
+060/081	höch	1	h ö ch
+060/083	höch	1	h ö ch
+060/085	hüch	1	h ü ch
+060/087	hech	1	h e ch
+060/089	häch	1	h ä ch
+060/091	häch	1	h ä ch
+060/093	höch	1	h ö ch
+060/095	hegg	1	h e gg
+060/097	höch	1	h ö ch
+060/099	höch	1	h ö ch
+060/101	höch	1	h ö ch
+060/103	höch	1	h ö ch
+060/105	häch	1	h ä ch
+060/107	hoch	1	h o ch
+060/109	häch	1	h ä ch
+060/111	höch	1	h ö ch
+060/113	hech	1	h e ch
+060/115	hög	1	h ö g
+060/117	hih	1	h ih
+060/119	hich	1	h i ch
+060/121	hich	1	h i ch
+060/123	hich	1	h i ch
+060/125	hichch	1	h i ch ch
+060/127	hich	1	h i ch
+060/129	hich	1	h i ch
+060/131	hich	1	h i ch
+060/135	hich	1	h i ch
+060/137	heeh	1	h eeh
+060/139	hich	1	h i ch
+060/141	hich	1	h i ch
+060/143	hich	1	h i ch
+060/145	hich	1	h i ch
+060/147	hich	1	h i ch
+060/149	hich	1	h i ch
+060/151	hich	1	h i ch
+060/153	hich	1	h i ch
+060/155	hich	1	h i ch
+060/157	hee	1	h ee
+060/159	hich	1	h i ch
+060/163	höh	1	h öh
+060/165	höch	1	h ö ch
+061/021	hug	1	h u g
+061/023	hüg	1	h ü g
+061/025	hüj	1	h ü j
+061/027	hüht	1	h üh t
+061/029	hüht	1	h üh t
+061/031	hüt	1	h ü t
+061/033	hüht	1	h üh t
+061/035	hät	1	h ä t
+061/037	hüht	1	h üh t
+061/039	hüeet	1	h üee t
+061/041	höj	1	h ö j
+061/043	hüj	1	h ü j
+061/045	hüg	1	h ü g
+061/047	hig	1	h i g
+061/049	hij	1	h i j
+061/051	hig	1	h i g
+061/053	higg	1	h i gg
+061/055	hüg	1	h ü g
+061/057	heh	1	h eh
+061/059	höch	1	h ö ch
+061/061	hächch	1	h ä ch ch
+061/063	höchch	1	h ö ch ch
+061/065	höch	1	h ö ch
+061/067	höch	1	h ö ch
+061/069	hech	1	h e ch
+061/071	höch	1	h ö ch
+061/073	höch	1	h ö ch
+061/075	höchch	1	h ö ch ch
+061/077	höch	1	h ö ch
+061/079	höch	1	h ö ch
+061/081	hech	1	h e ch
+061/083	höchch	1	h ö ch ch
+061/085	hich	1	h i ch
+061/087	heh	1	h eh
+061/089	höch	1	h ö ch
+061/091	hech	1	h e ch
+061/093	höch	1	h ö ch
+061/095	hech	1	h e ch
+061/097	höch	1	h ö ch
+061/099	häch	1	h ä ch
+061/101	höch	1	h ö ch
+061/103	hech	1	h e ch
+061/105	höch	1	h ö ch
+061/107	hech	1	h e ch
+061/109	häjj	1	h ä jj
+061/111	häch	1	h ä ch
+061/113	häch	1	h ä ch
+061/115	he	1	h e
+061/117	hich	1	h i ch
+061/119	hich	1	h i ch
+061/121	hich	1	h i ch
+061/123	hich	1	h i ch
+061/125	hich	1	h i ch
+061/127	hich	1	h i ch
+061/129	hich	1	h i ch
+061/131	hich	1	h i ch
+061/133	hich	1	h i ch
+061/137	hiech	1	h ie ch
+061/139	hüch	1	h ü ch
+061/141	hich	1	h i ch
+061/143	hich	1	h i ch
+061/145	hiech	1	h ie ch
+061/147	hüchh	1	h ü c hh
+061/149	hichch	1	h i ch ch
+061/151	hich	1	h i ch
+061/153	hich	1	h i ch
+061/155	hichh	1	h i c hh
+061/157	hich	1	h i ch
+061/159	hich	1	h i ch
+061/161	hüch	1	h ü ch
+061/165	hiech	1	h ie ch
+062/021	hüch	1	h ü ch
+062/023	hug	1	h u g
+062/025	hühd	1	h üh d
+062/027	hüdd	1	h ü dd
+062/029	huut	1	h uu t
+062/031	huht	1	h uh t
+062/033	hü	1	h ü
+062/035	hüt	1	h ü t
+062/037	hüch	1	h ü ch
+062/039	hüj	1	h ü j
+062/041	hüj	1	h ü j
+062/043	hüj	1	h ü j
+062/045	hüch	1	h ü ch
+062/047	NA	NA	-
+062/049	hiej	1	h ie j
+062/051	hück	1	h ü ck
+062/053	hiig	1	h ii g
+062/055	hij	1	h i j
+062/057	hich	1	h i ch
+062/059	höch	1	h ö ch
+062/061	höch	1	h ö ch
+062/063	höch	1	h ö ch
+062/065	höch	1	h ö ch
+062/067	höch	1	h ö ch
+062/069	höch	1	h ö ch
+062/071	höch	1	h ö ch
+062/073	höch	1	h ö ch
+062/075	höch	1	h ö ch
+062/077	höchch	1	h ö ch ch
+062/079	hich	1	h i ch
+062/081	höch	1	h ö ch
+062/083	hech	1	h e ch
+062/085	höch	1	h ö ch
+062/087	NA	NA	-
+062/089	höch	1	h ö ch
+062/091	höch	1	h ö ch
+062/093	hech	1	h e ch
+062/095	hech	1	h e ch
+062/097	häch	1	h ä ch
+062/099	hech	1	h e ch
+062/101	hech	1	h e ch
+062/103	häch	1	h ä ch
+062/105	häch	1	h ä ch
+062/107	höch	1	h ö ch
+062/109	hech	1	h e ch
+062/111	hich	1	h i ch
+062/113	hich	1	h i ch
+062/115	hech	1	h e ch
+062/117	hich	1	h i ch
+062/119	hech	1	h e ch
+062/121	hech	1	h e ch
+062/123	hich	1	h i ch
+062/125	hich	1	h i ch
+062/127	hich	1	h i ch
+062/129	hich	1	h i ch
+062/131	hich	1	h i ch
+062/133	hich	1	h i ch
+062/135	hich	1	h i ch
+062/137	hich	1	h i ch
+062/139	hich	1	h i ch
+062/141	hich	1	h i ch
+062/143	hich	1	h i ch
+062/145	hich	1	h i ch
+062/147	hich	1	h i ch
+062/149	hich	1	h i ch
+062/151	hich	1	h i ch
+062/153	hichch	1	h i ch ch
+062/155	hich	1	h i ch
+062/157	hüch	1	h ü ch
+062/159	hich	1	h i ch
+062/161	hüch	1	h ü ch
+063/021	huch	1	h u ch
+063/023	höch	1	h ö ch
+063/025	huch	1	h u ch
+063/027	hud	1	h u d
+063/029	huhd	1	h uh d
+063/031	huht	1	h uh t
+063/033	hut	1	h u t
+063/035	hü	1	h ü
+063/037	hüt	1	h ü t
+063/039	hie	1	h ie
+063/041	hüh	1	h üh
+063/043	hig	1	h i g
+063/045	hüh	1	h üh
+063/047	hieg	1	h ie g
+063/049	hij	1	h i j
+063/051	hij	1	h i j
+063/053	hih	1	h ih
+063/055	hiech	1	h ie ch
+063/057	hich	1	h i ch
+063/059	höch	1	h ö ch
+063/061	höch	1	h ö ch
+063/063	höch	1	h ö ch
+063/065	höch	1	h ö ch
+063/067	höchch	1	h ö ch ch
+063/069	höch	1	h ö ch
+063/071	höch	1	h ö ch
+063/073	höch	1	h ö ch
+063/075	höch	1	h ö ch
+063/077	höch	1	h ö ch
+063/079	hech	1	h e ch
+063/081	höchh	1	h ö c hh
+063/083	höch	1	h ö ch
+063/085	häch	1	h ä ch
+063/087	hich	1	h i ch
+063/089	häch	1	h ä ch
+063/091	hech	1	h e ch
+063/093	hech	1	h e ch
+063/095	hech	1	h e ch
+063/097	hech	1	h e ch
+063/099	hech	1	h e ch
+063/101	hech	1	h e ch
+063/103	häch	1	h ä ch
+063/105	häch	1	h ä ch
+063/107	höch	1	h ö ch
+063/109	häch	1	h ä ch
+063/111	hich	1	h i ch
+063/113	hich	1	h i ch
+063/115	he	1	h e
+063/117	hich	1	h i ch
+063/119	hich	1	h i ch
+063/121	hich	1	h i ch
+063/123	hich	1	h i ch
+063/125	hich	1	h i ch
+063/127	hich	1	h i ch
+063/135	hich	1	h i ch
+063/137	hich	1	h i ch
+063/139	hich	1	h i ch
+063/141	hich	1	h i ch
+063/143	hich	1	h i ch
+063/145	hich	1	h i ch
+063/147	hiich	1	h ii ch
+063/149	hich	1	h i ch
+063/151	hich	1	h i ch
+063/153	hich	1	h i ch
+063/155	hiech	1	h ie ch
+063/157	hich	1	h i ch
+063/159	hich	1	h i ch
+063/161	hech	1	h e ch
+063/163	hich	1	h i ch
+063/165	höh	1	h öh
+064/023	hug	1	h u g
+064/025	gerusser	1	g e r u ss e r
+064/027	hüd	1	h ü d
+064/029	hüht	1	h üh t
+064/031	hüöt	1	h üö t
+064/033	hut	1	h u t
+064/035	hüt	1	h ü t
+064/037	hieh	1	h ieh
+064/039	hie	1	h ie
+064/041	hieh	1	h ieh
+064/043	hiech	1	h ie ch
+064/045	hih	1	h ih
+064/047	hüch	1	h ü ch
+064/049	hij	1	h i j
+064/051	hiej	1	h ie j
+064/053	hiech	1	h ie ch
+064/055	hiech	1	h ie ch
+064/057	hiich	1	h ii ch
+064/059	höch	1	h ö ch
+064/061	höch	1	h ö ch
+064/063	höch	1	h ö ch
+064/065	höch	1	h ö ch
+064/067	höch	1	h ö ch
+064/069	höch	1	h ö ch
+064/071	höch	1	h ö ch
+064/073	höch	1	h ö ch
+064/075	höch	1	h ö ch
+064/077	höch	1	h ö ch
+064/079	hich	1	h i ch
+064/081	hich	1	h i ch
+064/083	höch	1	h ö ch
+064/085	hech	1	h e ch
+064/087	höch	1	h ö ch
+064/089	höch	1	h ö ch
+064/091	höch	1	h ö ch
+064/093	häch	1	h ä ch
+064/095	höch	1	h ö ch
+064/097	hech	1	h e ch
+064/099	höch	1	h ö ch
+064/101	höch	1	h ö ch
+064/103	hech	1	h e ch
+064/105	höch	1	h ö ch
+064/107	hech	1	h e ch
+064/109	hech	1	h e ch
+064/111	hech	1	h e ch
+064/113	höch	1	h ö ch
+064/115	hich	1	h i ch
+064/117	hich	1	h i ch
+064/119	hich	1	h i ch
+064/121	hich	1	h i ch
+064/123	hich	1	h i ch
+064/125	hich	1	h i ch
+064/127	hich	1	h i ch
+064/135	hich	1	h i ch
+064/137	hich	1	h i ch
+064/139	hich	1	h i ch
+064/141	hich	1	h i ch
+064/143	hiech	1	h ie ch
+064/145	hich	1	h i ch
+064/147	hich	1	h i ch
+064/149	hich	1	h i ch
+064/151	hüchch	1	h ü ch ch
+064/153	hichch	1	h i ch ch
+064/155	hich	1	h i ch
+064/157	hüch	1	h ü ch
+064/159	hichch	1	h i ch ch
+065/021	hög	1	h ö g
+065/023	hög	1	h ö g
+065/025	huet	1	h ue t
+065/027	hud	1	h u d
+065/029	hu	1	h u
+065/031	huht	1	h uh t
+065/033	hüt	1	h ü t
+065/035	huät	1	h uä t
+065/037	hij	1	h i j
+065/039	hih	1	h ih
+065/041	hüh	1	h üh
+065/043	hij	1	h i j
+065/045	höj	1	h ö j
+065/047	hiej	1	h ie j
+065/049	hihj	1	h ih j
+065/051	hieh	1	h ieh
+065/053	hiih	1	h iih
+065/055	hüch	1	h ü ch
+065/057	hig	1	h i g
+065/059	hichch	1	h i ch ch
+065/061	hech	1	h e ch
+065/063	höch	1	h ö ch
+065/065	höch	1	h ö ch
+065/067	höch	1	h ö ch
+065/069	höch	1	h ö ch
+065/071	höch	1	h ö ch
+065/073	höch	1	h ö ch
+065/075	höch	1	h ö ch
+065/077	höch	1	h ö ch
+065/079	höch	1	h ö ch
+065/081	hech	1	h e ch
+065/083	hech	1	h e ch
+065/085	hech	1	h e ch
+065/087	hech	1	h e ch
+065/089	höch	1	h ö ch
+065/091	höch	1	h ö ch
+065/093	höch	1	h ö ch
+065/095	heh	1	h eh
+065/097	hech	1	h e ch
+065/101	höch	1	h ö ch
+065/103	höch	1	h ö ch
+065/105	hech	1	h e ch
+065/107	hech	1	h e ch
+065/109	hech	1	h e ch
+065/111	hech	1	h e ch
+065/113	hech	1	h e ch
+065/115	hich	1	h i ch
+065/121	hich	1	h i ch
+065/123	hich	1	h i ch
+065/137	hich	1	h i ch
+065/139	hich	1	h i ch
+065/143	hüch	1	h ü ch
+065/145	höch	1	h ö ch
+065/147	hich	1	h i ch
+065/149	hich	1	h i ch
+065/151	hich	1	h i ch
+065/153	hich	1	h i ch
+065/155	hich	1	h i ch
+065/157	hehch	1	h eh ch
+065/159	hich	1	h i ch
+066/021	hügg	1	h ü gg
+066/023	hügg	1	h ü gg
+066/025	hüh	1	h üh
+066/027	hüh	1	h üh
+066/029	hu	1	h u
+066/031	hu	1	h u
+066/033	huh	1	h uh
+066/035	huh	1	h uh
+066/037	hüh	1	h üh
+066/039	hi	1	h i
+066/041	hik	1	h i k
+066/043	hi	1	h i
+066/045	hich	1	h i ch
+066/047	hig	1	h i g
+066/049	hiech	1	h ie ch
+066/051	hih	1	h ih
+066/053	hiech	1	h ie ch
+066/055	hig	1	h i g
+066/057	hüh	1	h üh
+066/059	heh	1	h eh
+066/061	höch	1	h ö ch
+066/063	höch	1	h ö ch
+066/065	höch	1	h ö ch
+066/067	höch	1	h ö ch
+066/069	höch	1	h ö ch
+066/071	hüch	1	h ü ch
+066/073	höch	1	h ö ch
+066/075	höch	1	h ö ch
+066/077	höch	1	h ö ch
+066/079	höch	1	h ö ch
+066/081	höch	1	h ö ch
+066/083	höch	1	h ö ch
+066/085	hüöch	1	h üö ch
+066/087	hech	1	h e ch
+066/089	hech	1	h e ch
+066/091	hech	1	h e ch
+066/093	höch	1	h ö ch
+066/095	hech	1	h e ch
+066/097	höch	1	h ö ch
+066/099	hech	1	h e ch
+066/101	hech	1	h e ch
+066/103	hech	1	h e ch
+066/105	hech	1	h e ch
+066/107	häch	1	h ä ch
+066/109	hech	1	h e ch
+066/111	hech	1	h e ch
+066/113	hech	1	h e ch
+066/121	hich	1	h i ch
+066/139	hich	1	h i ch
+066/143	hich	1	h i ch
+066/145	hich	1	h i ch
+066/147	hich	1	h i ch
+066/149	hich	1	h i ch
+066/151	hich	1	h i ch
+066/153	hich	1	h i ch
+066/155	hich	1	h i ch
+066/157	höch	1	h ö ch
+066/159	hichch	1	h i ch ch
+066/161	hechch	1	h e ch ch
+066/163	hech	1	h e ch
+067/021	hüh	1	h üh
+067/023	hüjj	1	h ü jj
+067/025	hieh	1	h ieh
+067/027	hüh	1	h üh
+067/029	hu	1	h u
+067/031	hu	1	h u
+067/033	huh	1	h uh
+067/035	hü	1	h ü
+067/037	hie	1	h ie
+067/039	hüh	1	h üh
+067/041	hi	1	h i
+067/043	hik	1	h i k
+067/045	hich	1	h i ch
+067/047	hih	1	h ih
+067/049	hich	1	h i ch
+067/051	hiej	1	h ie j
+067/053	hieh	1	h ieh
+067/055	hüch	1	h ü ch
+067/057	hihch	1	h ih ch
+067/059	hiech	1	h ie ch
+067/061	höch	1	h ö ch
+067/063	höch	1	h ö ch
+067/065	höch	1	h ö ch
+067/067	höch	1	h ö ch
+067/069	höach	1	h öa ch
+067/071	höch	1	h ö ch
+067/073	höch	1	h ö ch
+067/075	höch	1	h ö ch
+067/077	höch	1	h ö ch
+067/079	höch	1	h ö ch
+067/081	höch	1	h ö ch
+067/083	grösser	1	g r ö ss e r
+067/085	höh	1	h öh
+067/087	höch	1	h ö ch
+067/089	höch	1	h ö ch
+067/091	höch	1	h ö ch
+067/093	häich	1	h äi ch
+067/095	hech	1	h e ch
+067/097	höiich	1	h öii ch
+067/099	häich	1	h äi ch
+067/101	häjch	1	h ä j ch
+067/103	höich	1	h öi ch
+067/105	häch	1	h ä ch
+067/107	hech	1	h e ch
+067/109	hech	1	h e ch
+067/111	hech	1	h e ch
+067/113	hech	1	h e ch
+067/143	hich	1	h i ch
+067/145	hich	1	h i ch
+067/147	hech	1	h e ch
+067/149	höch	1	h ö ch
+067/151	hechch	1	h e ch ch
+067/153	hich	1	h i ch
+067/155	hich	1	h i ch
+067/157	hech	1	h e ch
+067/159	hich	1	h i ch
+067/161	höch	1	h ö ch
+067/163	hech	1	h e ch
+067/165	hich	1	h i ch
+067/177	höh	1	h öh
+068/021	hi	1	h i
+068/023	hieh	1	h ieh
+068/025	hi	1	h i
+068/027	hie	1	h ie
+068/029	huh	1	h uh
+068/031	hüh	1	h üh
+068/033	huh	1	h uh
+068/035	huh	1	h uh
+068/037	hü	1	h ü
+068/039	hieh	1	h ieh
+068/041	hih	1	h ih
+068/043	NA	NA	-
+068/045	hüg	1	h ü g
+068/047	hiech	1	h ie ch
+068/049	hieh	1	h ieh
+068/051	hieg	1	h ie g
+068/053	hich	1	h i ch
+068/055	hich	1	h i ch
+068/057	hihch	1	h ih ch
+068/059	hig	1	h i g
+068/061	höch	1	h ö ch
+068/063	höch	1	h ö ch
+068/065	höch	1	h ö ch
+068/067	höh	1	h öh
+068/069	höach	1	h öa ch
+068/071	höch	1	h ö ch
+068/073	höch	1	h ö ch
+068/075	höch	1	h ö ch
+068/077	höch	1	h ö ch
+068/079	höch	1	h ö ch
+068/081	höch	1	h ö ch
+068/083	höch	1	h ö ch
+068/085	höch	1	h ö ch
+068/087	höch	1	h ö ch
+068/089	hech	1	h e ch
+068/091	heech	1	h ee ch
+068/093	hoih	1	h oih
+068/095	häich	1	h äi ch
+068/097	häich	1	h äi ch
+068/099	häich	1	h äi ch
+068/101	häich	1	h äi ch
+068/103	NA	NA	-
+068/105	hejch	1	h e j ch
+068/107	häch	1	h ä ch
+068/109	hech	1	h e ch
+068/111	hech	1	h e ch
+068/145	hich	1	h i ch
+068/147	hichch	1	h i ch ch
+068/149	hich	1	h i ch
+068/151	hech	1	h e ch
+068/153	hech	1	h e ch
+068/155	hich	1	h i ch
+068/157	NA	NA	-
+068/159	hech	1	h e ch
+068/161	hech	1	h e ch
+068/165	höch	1	h ö ch
+069/019	hii	1	h ii
+069/023	hih	1	h ih
+069/025	hi	1	h i
+069/027	hieh	1	h ieh
+069/029	hih	1	h ih
+069/031	hieh	1	h ieh
+069/033	huh	1	h uh
+069/035	hi	1	h i
+069/037	heg	1	h e g
+069/039	höh	1	h öh
+069/041	heh	1	h eh
+069/043	hih	1	h ih
+069/045	hih	1	h ih
+069/047	hig	1	h i g
+069/049	hüch	1	h ü ch
+069/051	hö	1	h ö
+069/053	hech	1	h e ch
+069/055	hich	1	h i ch
+069/057	hüch	1	h ü ch
+069/059	höchch	1	h ö ch ch
+069/061	höchch	1	h ö ch ch
+069/063	hoäch	1	h oä ch
+069/065	höach	1	h öa ch
+069/067	höach	1	h öa ch
+069/069	höach	1	h öa ch
+069/071	höch	1	h ö ch
+069/073	höch	1	h ö ch
+069/075	höch	1	h ö ch
+069/077	höch	1	h ö ch
+069/079	höch	1	h ö ch
+069/081	höch	1	h ö ch
+069/083	höh	1	h öh
+069/085	heh	1	h eh
+069/087	hög	1	h ö g
+069/089	hech	1	h e ch
+069/091	höch	1	h ö ch
+069/093	häich	1	h äi ch
+069/095	höich	1	h öi ch
+069/097	häich	1	h äi ch
+069/099	höich	1	h öi ch
+069/101	höich	1	h öi ch
+069/103	hoich	1	h oi ch
+069/105	heich	1	h ei ch
+069/107	häich	1	h äi ch
+069/109	hech	1	h e ch
+069/111	hech	1	h e ch
+069/147	hich	1	h i ch
+069/149	hech	1	h e ch
+069/151	hich	1	h i ch
+069/153	NA	NA	-
+069/157	hech	1	h e ch
+069/159	höch	1	h ö ch
+069/161	hech	1	h e ch
+069/163	hech	1	h e ch
+069/165	höch	1	h ö ch
+070/019	hei	1	h ei
+070/023	NA	NA	-
+070/025	hie	1	h ie
+070/027	hih	1	h ih
+070/029	hieh	1	h ieh
+070/031	hi	1	h i
+070/033	hih	1	h ih
+070/035	hü	1	h ü
+070/037	hieh	1	h ieh
+070/039	hech	1	h e ch
+070/041	höch	1	h ö ch
+070/043	heg	1	h e g
+070/045	hej	1	h e j
+070/047	hie	1	h ie
+070/049	hiech	1	h ie ch
+070/051	hüch	1	h ü ch
+070/053	heg	1	h e g
+070/055	häich	1	h äi ch
+070/057	hääich	1	h ääi ch
+070/059	häh	1	h äh
+070/061	höch	1	h ö ch
+070/063	höch	1	h ö ch
+070/065	höach	1	h öa ch
+070/067	höch	1	h ö ch
+070/069	höch	1	h ö ch
+070/071	höch	1	h ö ch
+070/073	höach	1	h öa ch
+070/075	höech	1	h öe ch
+070/077	höh	1	h öh
+070/079	höch	1	h ö ch
+070/081	höch	1	h ö ch
+070/083	höch	1	h ö ch
+070/085	höch	1	h ö ch
+070/087	hech	1	h e ch
+070/089	hech	1	h e ch
+070/091	haich	1	h ai ch
+070/093	höich	1	h öi ch
+070/095	häich	1	h äi ch
+070/097	häich	1	h äi ch
+070/099	häich	1	h äi ch
+070/101	häich	1	h äi ch
+070/103	höich	1	h öi ch
+070/105	höjch	1	h ö j ch
+070/107	häich	1	h äi ch
+070/109	hejch	1	h e j ch
+070/111	hech	1	h e ch
+070/145	hich	1	h i ch
+070/147	hich	1	h i ch
+070/149	hich	1	h i ch
+070/151	hech	1	h e ch
+070/153	hech	1	h e ch
+070/155	hech	1	h e ch
+070/157	höch	1	h ö ch
+070/159	höch	1	h ö ch
+070/161	hech	1	h e ch
+070/163	höch	1	h ö ch
+070/165	hech	1	h e ch
+071/017	he	1	h e
+071/019	hei	1	h ei
+071/021	hie	1	h ie
+071/023	hieh	1	h ieh
+071/025	hieh	1	h ieh
+071/027	hi	1	h i
+071/029	hiech	1	h ie ch
+071/031	hich	1	h i ch
+071/033	heej	1	h ee j
+071/035	heech	1	h ee ch
+071/037	heech	1	h ee ch
+071/039	hech	1	h e ch
+071/041	heh	1	h eh
+071/043	heh	1	h eh
+071/045	hech	1	h e ch
+071/047	hech	1	h e ch
+071/049	hech	1	h e ch
+071/051	heg	1	h e g
+071/053	häich	1	h äi ch
+071/055	häich	1	h äi ch
+071/057	häich	1	h äi ch
+071/059	häich	1	h äi ch
+071/063	höäch	1	h öä ch
+071/065	höch	1	h ö ch
+071/067	höch	1	h ö ch
+071/069	höch	1	h ö ch
+071/071	höach	1	h öa ch
+071/073	häch	1	h ä ch
+071/075	gröasser	1	g r öa ss e r
+071/077	höch	1	h ö ch
+071/079	höch	1	h ö ch
+071/081	höh	1	h öh
+071/083	höch	1	h ö ch
+071/085	höch	1	h ö ch
+071/087	hüch	1	h ü ch
+071/089	heh	1	h eh
+071/091	höch	1	h ö ch
+071/093	häüch	1	h äü ch
+071/095	höich	1	h öi ch
+071/097	höich	1	h öi ch
+071/099	huch	1	h u ch
+071/101	heich	1	h ei ch
+071/103	häich	1	h äi ch
+071/105	höich	1	h öi ch
+071/145	hiech	1	h ie ch
+071/147	hich	1	h i ch
+071/149	hich	1	h i ch
+071/151	hech	1	h e ch
+071/153	höchch	1	h ö ch ch
+071/155	hech	1	h e ch
+071/157	hech	1	h e ch
+071/159	hech	1	h e ch
+071/161	hech	1	h e ch
+071/163	höch	1	h ö ch
+071/177	häich	1	h äi ch
+071/179	hech	1	h e ch
+072/017	he	1	h e
+072/019	heh	1	h eh
+072/021	hech	1	h e ch
+072/023	hii	1	h ii
+072/025	hieh	1	h ieh
+072/027	hie	1	h ie
+072/029	hig	1	h i g
+072/031	heeg	1	h ee g
+072/033	hech	1	h e ch
+072/035	hech	1	h e ch
+072/037	heg	1	h e g
+072/039	heg	1	h e g
+072/041	heh	1	h eh
+072/043	heh	1	h eh
+072/045	he	1	h e
+072/047	hech	1	h e ch
+072/049	hech	1	h e ch
+072/051	hö	1	h ö
+072/053	haig	1	h ai g
+072/055	häig	1	h äi g
+072/057	häich	1	h äi ch
+072/059	häich	1	h äi ch
+072/061	höach	1	h öa ch
+072/063	hööach	1	h ööa ch
+072/065	höach	1	h öa ch
+072/067	höch	1	h ö ch
+072/069	häöch	1	h äö ch
+072/071	höach	1	h öa ch
+072/073	höch	1	h ö ch
+072/075	höch	1	h ö ch
+072/077	höch	1	h ö ch
+072/079	höch	1	h ö ch
+072/081	höch	1	h ö ch
+072/083	hüüch	1	h üü ch
+072/085	höch	1	h ö ch
+072/087	hieg	1	h ie g
+072/089	hög	1	h ö g
+072/091	höi	1	h öi
+072/093	haich	1	h ai ch
+072/095	haech	1	h ae ch
+072/097	höich	1	h öi ch
+072/099	haich	1	h ai ch
+072/101	häich	1	h äi ch
+072/103	häich	1	h äi ch
+072/105	häech	1	h äe ch
+072/107	häich	1	h äi ch
+072/145	hich	1	h i ch
+072/147	hich	1	h i ch
+072/149	hich	1	h i ch
+072/151	hie	1	h ie
+072/153	hech	1	h e ch
+072/155	hech	1	h e ch
+072/157	höch	1	h ö ch
+072/159	höch	1	h ö ch
+072/161	hech	1	h e ch
+072/177	hej	1	h e j
+072/179	hech	1	h e ch
+072/181	höi	1	h öi
+073/017	hech	1	h e ch
+073/019	hech	1	h e ch
+073/021	hech	1	h e ch
+073/023	häi	1	h äi
+073/025	hih	1	h ih
+073/027	hih	1	h ih
+073/029	heg	1	h e g
+073/031	höh	1	h öh
+073/033	heh	1	h eh
+073/035	höch	1	h ö ch
+073/037	heg	1	h e g
+073/039	höch	1	h ö ch
+073/041	hih	1	h ih
+073/043	heh	1	h eh
+073/045	höh	1	h öh
+073/047	höch	1	h ö ch
+073/049	hech	1	h e ch
+073/051	hög	1	h ö g
+073/053	heeg	1	h ee g
+073/055	häig	1	h äi g
+073/057	höih	1	h öih
+073/059	hehich	1	h e h i ch
+073/061	höüch	1	h öü ch
+073/063	höch	1	h ö ch
+073/065	höach	1	h öa ch
+073/067	höch	1	h ö ch
+073/069	höach	1	h öa ch
+073/071	höach	1	h öa ch
+073/073	häch	1	h ä ch
+073/075	höch	1	h ö ch
+073/077	hech	1	h e ch
+073/079	hööh	1	h ööh
+073/081	höch	1	h ö ch
+073/083	hüch	1	h ü ch
+073/085	höch	1	h ö ch
+073/087	höch	1	h ö ch
+073/089	höich	1	h öi ch
+073/091	hoich	1	h oi ch
+073/093	häich	1	h äi ch
+073/095	häich	1	h äi ch
+073/097	höich	1	h öi ch
+073/099	höich	1	h öi ch
+073/101	höich	1	h öi ch
+073/103	häech	1	h äe ch
+073/105	haich	1	h ai ch
+073/107	höich	1	h öi ch
+073/145	hiech	1	h ie ch
+073/147	hich	1	h i ch
+073/149	hich	1	h i ch
+073/151	hich	1	h i ch
+073/153	hech	1	h e ch
+073/155	hech	1	h e ch
+073/157	hech	1	h e ch
+073/159	NA	NA	-
+073/161	hech	1	h e ch
+073/163	hech	1	h e ch
+073/165	hech	1	h e ch
+073/175	chech	1	ch e ch
+073/177	hich	1	h i ch
+074/019	hiech	1	h ie ch
+074/021	he	1	h e
+074/023	hech	1	h e ch
+074/025	he	1	h e
+074/027	hich	1	h i ch
+074/029	NA	NA	-
+074/031	hej	1	h e j
+074/033	hej	1	h e j
+074/035	heh	1	h eh
+074/037	heg	1	h e g
+074/039	hich	1	h i ch
+074/041	heh	1	h eh
+074/043	heh	1	h eh
+074/045	heg	1	h e g
+074/047	heg	1	h e g
+074/049	häisch	1	h äi sch
+074/051	hehch	1	h eh ch
+074/053	häich	1	h äi ch
+074/055	häich	1	h äi ch
+074/057	häich	1	h äi ch
+074/059	höich	1	h öi ch
+074/061	höh	1	h öh
+074/063	höch	1	h ö ch
+074/065	hööch	1	h öö ch
+074/067	höach	1	h öa ch
+074/069	häch	1	h ä ch
+074/071	häch	1	h ä ch
+074/073	hääch	1	h ää ch
+074/075	häch	1	h ä ch
+074/077	höch	1	h ö ch
+074/079	höch	1	h ö ch
+074/081	höch	1	h ö ch
+074/083	höch	1	h ö ch
+074/085	häich	1	h äi ch
+074/087	höich	1	h öi ch
+074/089	haich	1	h ai ch
+074/091	NA	NA	-
+074/093	höich	1	h öi ch
+074/095	häich	1	h äi ch
+074/097	höich	1	h öi ch
+074/099	häech	1	h äe ch
+074/101	häech	1	h äe ch
+074/103	häich	1	h äi ch
+074/105	häich	1	h äi ch
+074/107	haäch	1	h aä ch
+074/109	greissa	1	g r ei ss a
+074/145	hiech	1	h ie ch
+074/147	hich	1	h i ch
+074/149	hich	1	h i ch
+074/153	hich	1	h i ch
+074/155	NA	NA	-
+074/157	höch	1	h ö ch
+074/159	hech	1	h e ch
+074/161	hich	1	h i ch
+074/163	hiech	1	h ie ch
+074/165	heh	1	h eh
+075/019	heich	1	h ei ch
+075/021	heg	1	h e g
+075/023	hiech	1	h ie ch
+075/025	heh	1	h eh
+075/027	haä	1	h aä
+075/029	gresser	1	g r e ss e r
+075/031	heg	1	h e g
+075/033	hech	1	h e ch
+075/035	he	1	h e
+075/037	heeh	1	h eeh
+075/039	hechd	1	h e ch d
+075/041	hehj	1	h eh j
+075/043	höh	1	h öh
+075/045	heh	1	h eh
+075/047	hög	1	h ö g
+075/049	heg	1	h e g
+075/051	häich	1	h äi ch
+075/053	häich	1	h äi ch
+075/055	häich	1	h äi ch
+075/057	häij	1	h äi j
+075/059	höuch	1	h öu ch
+075/061	höich	1	h öi ch
+075/063	höich	1	h öi ch
+075/065	höich	1	h öi ch
+075/067	höäch	1	h öä ch
+075/069	häöch	1	h äö ch
+075/071	höach	1	h öa ch
+075/073	häch	1	h ä ch
+075/075	häch	1	h ä ch
+075/077	höch	1	h ö ch
+075/079	höh	1	h öh
+075/081	hech	1	h e ch
+075/083	höh	1	h öh
+075/085	häich	1	h äi ch
+075/087	höch	1	h ö ch
+075/089	häich	1	h äi ch
+075/091	höch	1	h ö ch
+075/093	häich	1	h äi ch
+075/095	häich	1	h äi ch
+075/097	häich	1	h äi ch
+075/099	haich	1	h ai ch
+075/101	häich	1	h äi ch
+075/103	häech	1	h äe ch
+075/105	haich	1	h ai ch
+075/107	häich	1	h äi ch
+075/135	hojg	1	h o j g
+075/145	hiech	1	h ie ch
+075/147	hiech	1	h ie ch
+075/149	hech	1	h e ch
+075/155	höch	1	h ö ch
+075/157	hech	1	h e ch
+075/159	hech	1	h e ch
+075/161	hech	1	h e ch
+075/163	hech	1	h e ch
+075/165	hech	1	h e ch
+076/019	hech	1	h e ch
+076/021	hech	1	h e ch
+076/023	häch	1	h ä ch
+076/025	heich	1	h ei ch
+076/027	hi	1	h i
+076/029	he	1	h e
+076/033	hög	1	h ö g
+076/035	heh	1	h eh
+076/037	hich	1	h i ch
+076/039	heh	1	h eh
+076/041	heh	1	h eh
+076/043	heh	1	h eh
+076/045	heej	1	h ee j
+076/047	hech	1	h e ch
+076/049	häich	1	h äi ch
+076/051	höich	1	h öi ch
+076/053	häich	1	h äi ch
+076/055	häig	1	h äi g
+076/057	höüch	1	h öü ch
+076/059	hoich	1	h oi ch
+076/061	houch	1	h ou ch
+076/063	höach	1	h öa ch
+076/065	höch	1	h ö ch
+076/067	häch	1	h ä ch
+076/069	häch	1	h ä ch
+076/071	häch	1	h ä ch
+076/073	häch	1	h ä ch
+076/075	häch	1	h ä ch
+076/077	häg	1	h ä g
+076/079	höich	1	h öi ch
+076/081	höich	1	h öi ch
+076/083	heich	1	h ei ch
+076/085	häich	1	h äi ch
+076/087	höich	1	h öi ch
+076/089	heich	1	h ei ch
+076/091	höig	1	h öi g
+076/093	höich	1	h öi ch
+076/095	häuich	1	h äui ch
+076/097	heich	1	h ei ch
+076/099	höich	1	h öi ch
+076/101	häich	1	h äi ch
+076/103	höich	1	h öi ch
+076/135	hech	1	h e ch
+076/137	hojg	1	h o j g
+076/149	hich	1	h i ch
+076/151	hech	1	h e ch
+076/155	hich	1	h i ch
+076/161	hech	1	h e ch
+076/163	hech	1	h e ch
+076/165	hech	1	h e ch
+077/019	heich	1	h ei ch
+077/021	heech	1	h ee ch
+077/023	heich	1	h ei ch
+077/025	hei	1	h ei
+077/027	hüh	1	h üh
+077/029	hech	1	h e ch
+077/031	heg	1	h e g
+077/033	höh	1	h öh
+077/035	heh	1	h eh
+077/037	högt	1	h ö g t
+077/039	heh	1	h eh
+077/041	hek	1	h e k
+077/043	heh	1	h eh
+077/047	hech	1	h e ch
+077/049	hech	1	h e ch
+077/051	hehch	1	h eh ch
+077/053	häiich	1	h äii ch
+077/055	häich	1	h äi ch
+077/057	häich	1	h äi ch
+077/059	heich	1	h ei ch
+077/061	höich	1	h öi ch
+077/063	höch	1	h ö ch
+077/065	häch	1	h ä ch
+077/067	höch	1	h ö ch
+077/069	häach	1	h äa ch
+077/071	höach	1	h öa ch
+077/073	häch	1	h ä ch
+077/075	häch	1	h ä ch
+077/077	häch	1	h ä ch
+077/079	häich	1	h äi ch
+077/081	häich	1	h äi ch
+077/083	häich	1	h äi ch
+077/085	höich	1	h öi ch
+077/087	höich	1	h öi ch
+077/089	höich	1	h öi ch
+077/091	höich	1	h öi ch
+077/093	NA	NA	-
+077/095	höich	1	h öi ch
+077/097	häich	1	h äi ch
+077/099	haüich	1	h aüi ch
+077/101	heich	1	h ei ch
+077/103	hejch	1	h e j ch
+077/135	hejg	1	h e j g
+077/137	höig	1	h öi g
+078/021	heech	1	h ee ch
+078/023	hech	1	h e ch
+078/025	heg	1	h e g
+078/027	heig	1	h ei g
+078/029	hig	1	h i g
+078/031	höh	1	h öh
+078/033	heg	1	h e g
+078/035	heh	1	h eh
+078/037	heh	1	h eh
+078/039	heh	1	h eh
+078/041	heh	1	h eh
+078/045	häich	1	h äi ch
+078/047	häich	1	h äi ch
+078/049	heech	1	h ee ch
+078/051	häich	1	h äi ch
+078/053	hech	1	h e ch
+078/055	häich	1	h äi ch
+078/057	heich	1	h ei ch
+078/059	häich	1	h äi ch
+078/061	höch	1	h ö ch
+078/063	heich	1	h ei ch
+078/065	häch	1	h ä ch
+078/067	häach	1	h äa ch
+078/069	häch	1	h ä ch
+078/071	häach	1	h äa ch
+078/073	häach	1	h äa ch
+078/075	höch	1	h ö ch
+078/077	höch	1	h ö ch
+078/079	häich	1	h äi ch
+078/081	häig	1	h äi g
+078/083	höich	1	h öi ch
+078/085	häich	1	h äi ch
+078/087	hööich	1	h ööi ch
+078/089	häich	1	h äi ch
+078/091	heich	1	h ei ch
+078/093	heeich	1	h eei ch
+078/095	häich	1	h äi ch
+078/097	häich	1	h äi ch
+078/099	heich	1	h ei ch
+078/101	NA	NA	-
+078/103	häij	1	h äi j
+078/105	höi	1	h öi
+078/135	höch	1	h ö ch
+078/193	hech	1	h e ch
+079/021	heg	1	h e g
+079/023	hich	1	h i ch
+079/025	he	1	h e
+079/027	höch	1	h ö ch
+079/029	heh	1	h eh
+079/031	höch	1	h ö ch
+079/033	heg	1	h e g
+079/035	hesch	1	h e sch
+079/037	hehj	1	h eh j
+079/039	heh	1	h eh
+079/043	hööch	1	h öö ch
+079/045	höch	1	h ö ch
+079/047	häich	1	h äi ch
+079/049	heech	1	h ee ch
+079/051	hech	1	h e ch
+079/053	heech	1	h ee ch
+079/055	hech	1	h e ch
+079/057	hech	1	h e ch
+079/059	häich	1	h äi ch
+079/061	hech	1	h e ch
+079/063	hääch	1	h ää ch
+079/065	häch	1	h ä ch
+079/067	häch	1	h ä ch
+079/069	häch	1	h ä ch
+079/071	häach	1	h äa ch
+079/073	häech	1	h äe ch
+079/075	heach	1	h ea ch
+079/077	häg	1	h ä g
+079/079	häich	1	h äi ch
+079/081	häich	1	h äi ch
+079/083	höich	1	h öi ch
+079/085	häich	1	h äi ch
+079/087	höich	1	h öi ch
+079/089	heeich	1	h eei ch
+079/091	haich	1	h ai ch
+079/093	höich	1	h öi ch
+079/095	höich	1	h öi ch
+079/097	häich	1	h äi ch
+079/099	heih	1	h eih
+079/101	hei	1	h ei
+079/103	höü	1	h öü
+079/105	hej	1	h e j
+079/107	höj	1	h ö j
+079/133	hech	1	h e ch
+079/135	hech	1	h e ch
+079/193	hich	1	h i ch
+079/195	häch	1	h ä ch
+079/197	gressara	1	g r e ss a r a
+080/025	heeg	1	h ee g
+080/027	heg	1	h e g
+080/029	heeh	1	h eeh
+080/031	heh	1	h eh
+080/033	heech	1	h ee ch
+080/035	heech	1	h ee ch
+080/037	hech	1	h e ch
+080/039	höch	1	h ö ch
+080/041	heg	1	h e g
+080/043	heech	1	h ee ch
+080/045	häich	1	h äi ch
+080/047	häich	1	h äi ch
+080/049	hööch	1	h öö ch
+080/051	heech	1	h ee ch
+080/053	heech	1	h ee ch
+080/055	hehch	1	h eh ch
+080/057	höch	1	h ö ch
+080/059	heech	1	h ee ch
+080/061	hech	1	h e ch
+080/063	hech	1	h e ch
+080/065	hääch	1	h ää ch
+080/067	häch	1	h ä ch
+080/069	häch	1	h ä ch
+080/071	höach	1	h öa ch
+080/073	häuch	1	h äu ch
+080/075	heg	1	h e g
+080/077	höach	1	h öa ch
+080/079	höich	1	h öi ch
+080/081	höich	1	h öi ch
+080/083	haich	1	h ai ch
+080/085	höich	1	h öi ch
+080/087	häich	1	h äi ch
+080/089	höich	1	h öi ch
+080/091	hööich	1	h ööi ch
+080/093	häich	1	h äi ch
+080/095	höich	1	h öi ch
+080/097	häich	1	h äi ch
+080/099	höch	1	h ö ch
+080/101	heeöh	1	h eeöh
+080/103	he	1	h e
+080/105	höi	1	h öi
+080/107	hej	1	h e j
+080/109	hech	1	h e ch
+080/127	höh	1	h öh
+080/147	hech	1	h e ch
+080/151	NA	NA	-
+080/153	hech	1	h e ch
+080/193	hech	1	h e ch
+080/195	hich	1	h i ch
+081/025	heeg	1	h ee g
+081/027	hej	1	h e j
+081/029	hej	1	h e j
+081/031	hej	1	h e j
+081/033	heech	1	h ee ch
+081/035	he	1	h e
+081/037	heech	1	h ee ch
+081/039	höch	1	h ö ch
+081/043	häich	1	h äi ch
+081/045	häich	1	h äi ch
+081/047	häig	1	h äi g
+081/049	hech	1	h e ch
+081/051	heech	1	h ee ch
+081/053	hech	1	h e ch
+081/055	hech	1	h e ch
+081/057	höch	1	h ö ch
+081/059	hech	1	h e ch
+081/061	hechch	1	h e ch ch
+081/063	schiener	1	sch ie n e r
+081/065	häch	1	h ä ch
+081/067	heach	1	h ea ch
+081/069	häach	1	h äa ch
+081/071	häach	1	h äa ch
+081/073	höach	1	h öa ch
+081/075	heg	1	h e g
+081/077	heach	1	h ea ch
+081/079	haeg	1	h ae g
+081/081	haich	1	h ai ch
+081/083	höich	1	h öi ch
+081/085	haich	1	h ai ch
+081/087	höüch	1	h öü ch
+081/089	heich	1	h ei ch
+081/091	höich	1	h öi ch
+081/093	höch	1	h ö ch
+081/095	höich	1	h öi ch
+081/097	häi	1	h äi
+081/099	häij	1	h äi j
+081/101	heii	1	h eii
+081/103	häi	1	h äi
+081/105	höi	1	h öi
+081/107	hej	1	h e j
+081/109	heh	1	h eh
+081/111	hech	1	h e ch
+081/127	heh	1	h eh
+081/129	NA	NA	-
+081/133	höh	1	h öh
+081/147	heehh	1	h e e hh
+081/191	hich	1	h i ch
+081/193	hich	1	h i ch
+081/195	hich	1	h i ch
+082/027	heeh	1	h eeh
+082/029	hej	1	h e j
+082/031	häh	1	h äh
+082/033	heech	1	h ee ch
+082/035	hech	1	h e ch
+082/037	höch	1	h ö ch
+082/039	hech	1	h e ch
+082/041	hech	1	h e ch
+082/043	heech	1	h ee ch
+082/045	höich	1	h öi ch
+082/047	heech	1	h ee ch
+082/049	höch	1	h ö ch
+082/051	hech	1	h e ch
+082/053	heech	1	h ee ch
+082/055	höch	1	h ö ch
+082/057	höch	1	h ö ch
+082/059	haich	1	h ai ch
+082/061	hech	1	h e ch
+082/063	häch	1	h ä ch
+082/065	häach	1	h äa ch
+082/067	höach	1	h öa ch
+082/069	hee	1	h ee
+082/071	heach	1	h ea ch
+082/073	hääach	1	h ääa ch
+082/075	höch	1	h ö ch
+082/077	häich	1	h äi ch
+082/079	häich	1	h äi ch
+082/081	häjch	1	h ä j ch
+082/083	häich	1	h äi ch
+082/085	höich	1	h öi ch
+082/087	höich	1	h öi ch
+082/089	haich	1	h ai ch
+082/091	höich	1	h öi ch
+082/093	höich	1	h öi ch
+082/095	höi	1	h öi
+082/097	höh	1	h öh
+082/099	höh	1	h öh
+082/101	höich	1	h öi ch
+082/103	höj	1	h ö j
+082/105	heh	1	h eh
+082/107	he	1	h e
+082/111	höh	1	h öh
+082/113	heh	1	h eh
+082/117	heh	1	h eh
+082/129	heech	1	h ee ch
+082/131	heh	1	h eh
+082/133	heh	1	h eh
+082/135	höch	1	h ö ch
+082/145	häh	1	h äh
+082/147	heh	1	h eh
+082/191	häch	1	h ä ch
+082/195	häch	1	h ä ch
+083/027	höj	1	h ö j
+083/029	heh	1	h eh
+083/031	häch	1	h ä ch
+083/033	hech	1	h e ch
+083/035	hech	1	h e ch
+083/037	hech	1	h e ch
+083/039	hech	1	h e ch
+083/041	höch	1	h ö ch
+083/043	heech	1	h ee ch
+083/045	hech	1	h e ch
+083/047	hech	1	h e ch
+083/049	höch	1	h ö ch
+083/051	hech	1	h e ch
+083/053	hech	1	h e ch
+083/055	hech	1	h e ch
+083/057	hech	1	h e ch
+083/059	haech	1	h ae ch
+083/061	haech	1	h ae ch
+083/063	haäch	1	h aä ch
+083/065	häach	1	h äa ch
+083/067	he	1	h e
+083/069	hä	1	h ä
+083/071	heach	1	h ea ch
+083/073	höach	1	h öa ch
+083/075	haach	1	h aa ch
+083/077	häich	1	h äi ch
+083/079	häich	1	h äi ch
+083/081	höich	1	h öi ch
+083/083	hech	1	h e ch
+083/085	häich	1	h äi ch
+083/087	heeii	1	h eeii
+083/089	höh	1	h öh
+083/091	höaüch	1	h öaü ch
+083/093	häi	1	h äi
+083/095	heeii	1	h eeii
+083/097	häih	1	h äih
+083/099	häi	1	h äi
+083/101	heei	1	h eei
+083/103	hei	1	h ei
+083/105	häj	1	h ä j
+083/107	hech	1	h e ch
+083/111	höh	1	h öh
+083/113	heh	1	h eh
+083/115	heh	1	h eh
+083/117	heh	1	h eh
+083/119	heh	1	h eh
+083/121	heh	1	h eh
+083/129	hech	1	h e ch
+083/131	hech	1	h e ch
+083/133	höh	1	h öh
+083/135	heh	1	h eh
+083/139	hech	1	h e ch
+083/143	hech	1	h e ch
+083/145	hech	1	h e ch
+083/147	hech	1	h e ch
+083/149	hech	1	h e ch
+083/173	hech	1	h e ch
+083/195	heh	1	h eh
+084/031	hehch	1	h eh ch
+084/033	hehch	1	h eh ch
+084/035	hech	1	h e ch
+084/037	hech	1	h e ch
+084/039	hech	1	h e ch
+084/041	hech	1	h e ch
+084/043	hech	1	h e ch
+084/045	hech	1	h e ch
+084/047	hech	1	h e ch
+084/049	hech	1	h e ch
+084/051	höch	1	h ö ch
+084/053	hech	1	h e ch
+084/055	heech	1	h ee ch
+084/057	haich	1	h ai ch
+084/059	haäch	1	h aä ch
+084/061	haech	1	h ae ch
+084/063	haich	1	h ai ch
+084/065	haech	1	h ae ch
+084/067	he	1	h e
+084/069	ha	1	h a
+084/071	he	1	h e
+084/073	häach	1	h äa ch
+084/075	heach	1	h ea ch
+084/077	höich	1	h öi ch
+084/079	höich	1	h öi ch
+084/081	heich	1	h ei ch
+084/083	höich	1	h öi ch
+084/085	häich	1	h äi ch
+084/087	höich	1	h öi ch
+084/089	höüch	1	h öü ch
+084/091	ha	1	h a
+084/093	he	1	h e
+084/095	höi	1	h öi
+084/097	häih	1	h äih
+084/099	hö	1	h ö
+084/101	höh	1	h öh
+084/103	hech	1	h e ch
+084/105	höich	1	h öi ch
+084/107	heh	1	h eh
+084/109	heh	1	h eh
+084/111	höh	1	h öh
+084/113	heh	1	h eh
+084/115	heh	1	h eh
+084/117	heh	1	h eh
+084/119	heh	1	h eh
+084/129	heh	1	h eh
+084/131	NA	NA	-
+084/133	hech	1	h e ch
+084/135	heh	1	h eh
+084/137	NA	NA	-
+084/139	hech	1	h e ch
+084/141	höh	1	h öh
+084/143	he	1	h e
+084/145	hech	1	h e ch
+084/147	hech	1	h e ch
+084/149	hech	1	h e ch
+084/171	häch	1	h ä ch
+084/173	grebr	1	g r e b r
+084/195	höch	1	h ö ch
+085/031	höch	1	h ö ch
+085/033	hech	1	h e ch
+085/035	hech	1	h e ch
+085/037	hech	1	h e ch
+085/039	höch	1	h ö ch
+085/041	hech	1	h e ch
+085/043	gresser	1	g r e ss e r
+085/045	heech	1	h ee ch
+085/047	heech	1	h ee ch
+085/049	hech	1	h e ch
+085/051	haj	1	h a j
+085/053	hai	1	h ai
+085/055	hai	1	h ai
+085/057	heech	1	h ee ch
+085/059	hech	1	h e ch
+085/061	haich	1	h ai ch
+085/063	haech	1	h ae ch
+085/065	haeh	1	h aeh
+085/067	hai	1	h ai
+085/069	häach	1	h äa ch
+085/071	hä	1	h ä
+085/073	heach	1	h ea ch
+085/075	höach	1	h öa ch
+085/077	häach	1	h äa ch
+085/079	heich	1	h ei ch
+085/081	haich	1	h ai ch
+085/083	hehich	1	h e h i ch
+085/085	höh	1	h öh
+085/087	höch	1	h ö ch
+085/089	hech	1	h e ch
+085/091	hö	1	h ö
+085/093	haüch	1	h aü ch
+085/095	höh	1	h öh
+085/097	hö	1	h ö
+085/101	gressa	1	g r e ss a
+085/103	hej	1	h e j
+085/105	he	1	h e
+085/107	he	1	h e
+085/109	hech	1	h e ch
+085/111	höh	1	h öh
+085/113	höi	1	h öi
+085/115	heh	1	h eh
+085/117	heh	1	h eh
+085/119	höh	1	h öh
+085/121	hoi	1	h oi
+085/123	heh	1	h eh
+085/125	heh	1	h eh
+085/127	hech	1	h e ch
+085/129	höch	1	h ö ch
+085/131	hech	1	h e ch
+085/133	hech	1	h e ch
+085/135	hech	1	h e ch
+085/137	hech	1	h e ch
+085/139	hech	1	h e ch
+085/141	he	1	h e
+085/143	hech	1	h e ch
+085/145	hech	1	h e ch
+085/147	hech	1	h e ch
+085/149	hech	1	h e ch
+085/175	hich	1	h i ch
+085/193	hech	1	h e ch
+085/197	hech	1	h e ch
+086/033	hech	1	h e ch
+086/035	hech	1	h e ch
+086/037	heech	1	h ee ch
+086/039	hech	1	h e ch
+086/041	hech	1	h e ch
+086/043	hech	1	h e ch
+086/045	höch	1	h ö ch
+086/047	höch	1	h ö ch
+086/049	häch	1	h ä ch
+086/051	hai	1	h ai
+086/053	haai	1	h aai
+086/055	hae	1	h ae
+086/057	haich	1	h ai ch
+086/059	haich	1	h ai ch
+086/061	haich	1	h ai ch
+086/063	haich	1	h ai ch
+086/065	hae	1	h ae
+086/067	hai	1	h ai
+086/069	ho	1	h o
+086/071	hä	1	h ä
+086/073	hö	1	h ö
+086/075	heach	1	h ea ch
+086/077	heach	1	h ea ch
+086/079	heach	1	h ea ch
+086/081	höich	1	h öi ch
+086/083	höch	1	h ö ch
+086/085	hööh	1	h ööh
+086/087	hech	1	h e ch
+086/089	hech	1	h e ch
+086/091	höch	1	h ö ch
+086/093	heh	1	h eh
+086/095	heh	1	h eh
+086/097	heh	1	h eh
+086/099	he	1	h e
+086/101	hech	1	h e ch
+086/103	höh	1	h öh
+086/105	ho	1	h o
+086/107	heh	1	h eh
+086/109	höh	1	h öh
+086/111	heh	1	h eh
+086/113	höh	1	h öh
+086/115	heh	1	h eh
+086/117	heh	1	h eh
+086/119	heh	1	h eh
+086/121	heech	1	h ee ch
+086/123	heh	1	h eh
+086/125	heh	1	h eh
+086/127	hech	1	h e ch
+086/129	höh	1	h öh
+086/131	hech	1	h e ch
+086/133	hech	1	h e ch
+086/135	hech	1	h e ch
+086/137	hech	1	h e ch
+086/139	he	1	h e
+086/141	heh	1	h eh
+086/143	hech	1	h e ch
+086/145	heh	1	h eh
+086/147	hech	1	h e ch
+086/149	hech	1	h e ch
+086/151	höch	1	h ö ch
+086/175	hich	1	h i ch
+086/197	hech	1	h e ch
+086/199	höüch	1	h öü ch
+087/033	hoch	1	h o ch
+087/035	hech	1	h e ch
+087/037	hech	1	h e ch
+087/039	hech	1	h e ch
+087/041	hech	1	h e ch
+087/043	hech	1	h e ch
+087/045	heech	1	h ee ch
+087/049	höh	1	h öh
+087/051	haej	1	h ae j
+087/053	ha	1	h a
+087/055	haih	1	h aih
+087/057	haech	1	h ae ch
+087/059	haaich	1	h aai ch
+087/061	haech	1	h ae ch
+087/063	haich	1	h ai ch
+087/065	haich	1	h ai ch
+087/067	haich	1	h ai ch
+087/069	hä	1	h ä
+087/071	he	1	h e
+087/073	heach	1	h ea ch
+087/075	he	1	h e
+087/077	heehah	1	h ee h ah
+087/079	höach	1	h öa ch
+087/081	heach	1	h ea ch
+087/083	heach	1	h ea ch
+087/085	hoih	1	h oih
+087/087	hech	1	h e ch
+087/089	höich	1	h öi ch
+087/091	hech	1	h e ch
+087/093	heh	1	h eh
+087/095	heh	1	h eh
+087/097	he	1	h e
+087/099	heech	1	h ee ch
+087/101	höch	1	h ö ch
+087/103	heh	1	h eh
+087/105	heh	1	h eh
+087/107	heh	1	h eh
+087/109	hee	1	h ee
+087/111	he	1	h e
+087/113	höö	1	h öö
+087/115	heh	1	h eh
+087/117	heh	1	h eh
+087/119	heh	1	h eh
+087/121	heh	1	h eh
+087/123	heh	1	h eh
+087/125	hech	1	h e ch
+087/127	he	1	h e
+087/129	heh	1	h eh
+087/133	hech	1	h e ch
+087/135	häch	1	h ä ch
+087/137	hech	1	h e ch
+087/139	hech	1	h e ch
+087/141	hech	1	h e ch
+087/143	hech	1	h e ch
+087/145	hech	1	h e ch
+087/147	hech	1	h e ch
+087/149	hech	1	h e ch
+087/151	höch	1	h ö ch
+088/035	hech	1	h e ch
+088/037	heech	1	h ee ch
+088/039	hech	1	h e ch
+088/041	hech	1	h e ch
+088/043	höch	1	h ö ch
+088/045	häch	1	h ä ch
+088/047	hech	1	h e ch
+088/049	heech	1	h ee ch
+088/051	hai	1	h ai
+088/053	hai	1	h ai
+088/055	hai	1	h ai
+088/057	haich	1	h ai ch
+088/059	haech	1	h ae ch
+088/061	hai	1	h ai
+088/063	häu	1	h äu
+088/065	haich	1	h ai ch
+088/067	haich	1	h ai ch
+088/069	hä	1	h ä
+088/071	häh	1	h äh
+088/073	hö	1	h ö
+088/075	häach	1	h äa ch
+088/077	heach	1	h ea ch
+088/079	heach	1	h ea ch
+088/081	heach	1	h ea ch
+088/083	heach	1	h ea ch
+088/085	höch	1	h ö ch
+088/087	hech	1	h e ch
+088/089	höh	1	h öh
+088/091	hech	1	h e ch
+088/093	heh	1	h eh
+088/095	hech	1	h e ch
+088/097	häh	1	h äh
+088/099	heh	1	h eh
+088/101	he	1	h e
+088/103	hee	1	h ee
+088/105	he	1	h e
+088/107	höh	1	h öh
+088/109	hööh	1	h ööh
+088/113	heh	1	h eh
+088/115	hech	1	h e ch
+088/117	he	1	h e
+088/121	he	1	h e
+088/123	hech	1	h e ch
+088/127	heech	1	h ee ch
+088/129	höh	1	h öh
+088/131	hech	1	h e ch
+088/137	hech	1	h e ch
+088/139	hech	1	h e ch
+088/141	hech	1	h e ch
+088/143	heh	1	h eh
+088/145	hech	1	h e ch
+088/147	hech	1	h e ch
+088/149	hech	1	h e ch
+089/035	heh	1	h eh
+089/037	hech	1	h e ch
+089/039	heech	1	h ee ch
+089/041	hech	1	h e ch
+089/043	hech	1	h e ch
+089/045	hö	1	h ö
+089/047	hech	1	h e ch
+089/049	haich	1	h ai ch
+089/051	hae	1	h ae
+089/053	haej	1	h ae j
+089/055	hae	1	h ae
+089/057	hai	1	h ai
+089/059	hai	1	h ai
+089/061	hai	1	h ai
+089/063	hai	1	h ai
+089/065	hai	1	h ai
+089/067	haih	1	h aih
+089/069	hä	1	h ä
+089/071	häh	1	h äh
+089/073	he	1	h e
+089/075	hea	1	h ea
+089/077	hä	1	h ä
+089/079	höach	1	h öa ch
+089/081	häach	1	h äa ch
+089/083	höach	1	h öa ch
+089/085	höch	1	h ö ch
+089/087	höch	1	h ö ch
+089/089	höch	1	h ö ch
+089/091	hech	1	h e ch
+089/093	NA	NA	-
+089/095	heh	1	h eh
+089/097	höich	1	h öi ch
+089/099	he	1	h e
+089/101	höh	1	h öh
+089/103	he	1	h e
+089/105	ha	1	h a
+089/107	hö	1	h ö
+089/109	hech	1	h e ch
+089/111	heh	1	h eh
+089/113	heh	1	h eh
+089/115	heh	1	h eh
+089/117	he	1	h e
+089/119	NA	NA	-
+089/121	hä	1	h ä
+089/123	höh	1	h öh
+089/125	hech	1	h e ch
+089/127	höh	1	h öh
+089/129	hech	1	h e ch
+089/131	hech	1	h e ch
+089/133	heh	1	h eh
+089/135	hech	1	h e ch
+089/137	heh	1	h eh
+089/139	hech	1	h e ch
+089/141	heh	1	h eh
+089/143	hech	1	h e ch
+089/145	hech	1	h e ch
+089/147	hech	1	h e ch
+089/149	hech	1	h e ch
+090/035	hech	1	h e ch
+090/037	hech	1	h e ch
+090/039	hech	1	h e ch
+090/041	hech	1	h e ch
+090/043	höch	1	h ö ch
+090/045	hech	1	h e ch
+090/047	höch	1	h ö ch
+090/049	heh	1	h eh
+090/051	heech	1	h ee ch
+090/053	haih	1	h aih
+090/055	hai	1	h ai
+090/057	hae	1	h ae
+090/059	hai	1	h ai
+090/061	hai	1	h ai
+090/063	hai	1	h ai
+090/065	haih	1	h aih
+090/067	hai	1	h ai
+090/069	hea	1	h ea
+090/071	höh	1	h öh
+090/073	hä	1	h ä
+090/075	häach	1	h äa ch
+090/077	heach	1	h ea ch
+090/079	höach	1	h öa ch
+090/081	heach	1	h ea ch
+090/083	heach	1	h ea ch
+090/085	hiäch	1	h iä ch
+090/087	höh	1	h öh
+090/089	höch	1	h ö ch
+090/091	höch	1	h ö ch
+090/093	hech	1	h e ch
+090/095	hö	1	h ö
+090/097	he	1	h e
+090/099	höh	1	h öh
+090/101	heh	1	h eh
+090/103	heh	1	h eh
+090/105	heh	1	h eh
+090/107	gressa	1	g r e ss a
+090/109	heh	1	h eh
+090/111	he	1	h e
+090/113	hech	1	h e ch
+090/115	he	1	h e
+090/119	he	1	h e
+090/121	he	1	h e
+090/123	he	1	h e
+090/125	he	1	h e
+090/127	hech	1	h e ch
+090/129	heh	1	h eh
+090/131	hech	1	h e ch
+090/133	heech	1	h ee ch
+090/135	hech	1	h e ch
+090/137	hech	1	h e ch
+090/139	hech	1	h e ch
+090/141	hech	1	h e ch
+090/143	heech	1	h ee ch
+090/145	hech	1	h e ch
+090/147	hech	1	h e ch
+090/149	hech	1	h e ch
+090/151	hech	1	h e ch
+091/035	hech	1	h e ch
+091/037	heech	1	h ee ch
+091/039	hehch	1	h eh ch
+091/041	hech	1	h e ch
+091/043	häch	1	h ä ch
+091/045	häj	1	h ä j
+091/047	häh	1	h äh
+091/049	hai	1	h ai
+091/051	heech	1	h ee ch
+091/053	hai	1	h ai
+091/055	hai	1	h ai
+091/057	hai	1	h ai
+091/059	hai	1	h ai
+091/061	hai	1	h ai
+091/063	hai	1	h ai
+091/065	hai	1	h ai
+091/067	hai	1	h ai
+091/069	hai	1	h ai
+091/071	hä	1	h ä
+091/073	heach	1	h ea ch
+091/075	höch	1	h ö ch
+091/077	heeh	1	h eeh
+091/079	heach	1	h ea ch
+091/081	heach	1	h ea ch
+091/083	höach	1	h öa ch
+091/085	hoch	1	h o ch
+091/087	hech	1	h e ch
+091/091	hech	1	h e ch
+091/093	hech	1	h e ch
+091/095	höh	1	h öh
+091/097	hech	1	h e ch
+091/099	höh	1	h öh
+091/101	heh	1	h eh
+091/103	hech	1	h e ch
+091/105	hech	1	h e ch
+091/107	NA	NA	-
+091/109	he	1	h e
+091/111	he	1	h e
+091/113	he	1	h e
+091/115	he	1	h e
+091/117	he	1	h e
+091/119	hech	1	h e ch
+091/121	heh	1	h eh
+091/125	heh	1	h eh
+091/129	hech	1	h e ch
+091/131	heh	1	h eh
+091/133	hech	1	h e ch
+091/135	höch	1	h ö ch
+091/137	hech	1	h e ch
+091/139	hech	1	h e ch
+091/141	hech	1	h e ch
+091/143	höch	1	h ö ch
+091/145	hech	1	h e ch
+091/147	heh	1	h eh
+091/149	hech	1	h e ch
+091/151	hech	1	h e ch
+091/155	heech	1	h ee ch
+092/033	hech	1	h e ch
+092/035	hech	1	h e ch
+092/037	hech	1	h e ch
+092/039	hech	1	h e ch
+092/041	heech	1	h ee ch
+092/043	höch	1	h ö ch
+092/045	heech	1	h ee ch
+092/047	hoh	1	h oh
+092/049	häh	1	h äh
+092/051	he	1	h e
+092/053	hee	1	h ee
+092/055	hai	1	h ai
+092/057	hai	1	h ai
+092/059	hai	1	h ai
+092/061	hai	1	h ai
+092/063	haaä	1	h aaä
+092/065	häu	1	h äu
+092/067	hai	1	h ai
+092/069	hee	1	h ee
+092/071	hö	1	h ö
+092/073	NA	NA	-
+092/075	höach	1	h öa ch
+092/077	heach	1	h ea ch
+092/079	höach	1	h öa ch
+092/081	hä	1	h ä
+092/083	heach	1	h ea ch
+092/085	höch	1	h ö ch
+092/087	hoch	1	h o ch
+092/089	hech	1	h e ch
+092/091	hooch	1	h oo ch
+092/093	heech	1	h ee ch
+092/095	hech	1	h e ch
+092/097	heh	1	h eh
+092/099	NA	NA	-
+092/101	häch	1	h ä ch
+092/103	heh	1	h eh
+092/105	hee	1	h ee
+092/107	heh	1	h eh
+092/109	he	1	h e
+092/111	NA	NA	-
+092/113	heh	1	h eh
+092/115	he	1	h e
+092/117	heh	1	h eh
+092/119	NA	NA	-
+092/121	hech	1	h e ch
+092/123	heh	1	h eh
+092/125	hech	1	h e ch
+092/127	hech	1	h e ch
+092/129	hech	1	h e ch
+092/131	höch	1	h ö ch
+092/133	höch	1	h ö ch
+092/135	heh	1	h eh
+092/137	NA	NA	-
+092/139	hech	1	h e ch
+092/141	hech	1	h e ch
+092/143	hech	1	h e ch
+092/145	heech	1	h ee ch
+092/147	hech	1	h e ch
+092/149	hech	1	h e ch
+092/151	heh	1	h eh
+093/035	hech	1	h e ch
+093/037	hech	1	h e ch
+093/039	häch	1	h ä ch
+093/041	hech	1	h e ch
+093/043	hääi	1	h ääi
+093/045	häi	1	h äi
+093/047	he	1	h e
+093/049	heh	1	h eh
+093/051	hö	1	h ö
+093/053	he	1	h e
+093/055	hai	1	h ai
+093/057	hai	1	h ai
+093/059	hai	1	h ai
+093/061	ha	1	h a
+093/063	häh	1	h äh
+093/065	höh	1	h öh
+093/067	hee	1	h ee
+093/069	heh	1	h eh
+093/071	höch	1	h ö ch
+093/073	heach	1	h ea ch
+093/075	heach	1	h ea ch
+093/077	heh	1	h eh
+093/079	heach	1	h ea ch
+093/081	heach	1	h ea ch
+093/083	heah	1	h eah
+093/085	höch	1	h ö ch
+093/087	höch	1	h ö ch
+093/089	höch	1	h ö ch
+093/091	hech	1	h e ch
+093/093	höch	1	h ö ch
+093/095	heh	1	h eh
+093/097	höh	1	h öh
+093/099	hech	1	h e ch
+093/101	hech	1	h e ch
+093/103	heh	1	h eh
+093/105	heh	1	h eh
+093/109	hech	1	h e ch
+093/111	he	1	h e
+093/113	he	1	h e
+093/115	heh	1	h eh
+093/117	he	1	h e
+093/119	he	1	h e
+093/121	heh	1	h eh
+093/123	hech	1	h e ch
+093/125	he	1	h e
+093/127	hech	1	h e ch
+093/129	höch	1	h ö ch
+093/131	hech	1	h e ch
+093/133	hech	1	h e ch
+093/137	hech	1	h e ch
+093/139	hech	1	h e ch
+093/143	hech	1	h e ch
+093/145	hech	1	h e ch
+093/147	schena	1	sch e n a
+093/149	höch	1	h ö ch
+093/151	hech	1	h e ch
+093/153	hech	1	h e ch
+093/155	hech	1	h e ch
+094/033	hiech	1	h ie ch
+094/035	heech	1	h ee ch
+094/037	hech	1	h e ch
+094/039	hech	1	h e ch
+094/041	heech	1	h ee ch
+094/043	hääj	1	h ää j
+094/045	hö	1	h ö
+094/047	heh	1	h eh
+094/049	heeh	1	h eeh
+094/051	hö	1	h ö
+094/053	hee	1	h ee
+094/055	heh	1	h eh
+094/057	hai	1	h ai
+094/059	heh	1	h eh
+094/061	hai	1	h ai
+094/063	hoh	1	h oh
+094/065	höh	1	h öh
+094/067	he	1	h e
+094/069	hee	1	h ee
+094/071	höach	1	h öa ch
+094/073	heh	1	h eh
+094/075	heach	1	h ea ch
+094/077	hiääch	1	h iää ch
+094/079	höach	1	h öa ch
+094/081	heach	1	h ea ch
+094/083	heh	1	h eh
+094/085	hech	1	h e ch
+094/087	NA	NA	-
+094/089	höh	1	h öh
+094/091	hech	1	h e ch
+094/093	höich	1	h öi ch
+094/095	hech	1	h e ch
+094/097	höch	1	h ö ch
+094/099	hech	1	h e ch
+094/101	höch	1	h ö ch
+094/103	hoh	1	h oh
+094/105	heh	1	h eh
+094/107	höh	1	h öh
+094/109	heh	1	h eh
+094/111	heh	1	h eh
+094/113	NA	NA	-
+094/115	he	1	h e
+094/117	he	1	h e
+094/119	heh	1	h eh
+094/121	he	1	h e
+094/123	he	1	h e
+094/125	hech	1	h e ch
+094/127	heh	1	h eh
+094/129	hech	1	h e ch
+094/131	hech	1	h e ch
+094/133	hech	1	h e ch
+094/135	höch	1	h ö ch
+094/137	hech	1	h e ch
+094/139	hech	1	h e ch
+094/141	hech	1	h e ch
+094/143	hech	1	h e ch
+094/145	hech	1	h e ch
+094/147	heih	1	h eih
+094/149	hech	1	h e ch
+094/151	hech	1	h e ch
+094/153	hech	1	h e ch
+095/031	hech	1	h e ch
+095/033	hech	1	h e ch
+095/035	hech	1	h e ch
+095/037	hech	1	h e ch
+095/039	hech	1	h e ch
+095/041	hech	1	h e ch
+095/043	höch	1	h ö ch
+095/045	höh	1	h öh
+095/047	hö	1	h ö
+095/049	hee	1	h ee
+095/051	heh	1	h eh
+095/053	höh	1	h öh
+095/055	höh	1	h öh
+095/057	he	1	h e
+095/059	heh	1	h eh
+095/061	höh	1	h öh
+095/063	höh	1	h öh
+095/065	heh	1	h eh
+095/067	höh	1	h öh
+095/069	höh	1	h öh
+095/071	hoch	1	h o ch
+095/073	höh	1	h öh
+095/075	heach	1	h ea ch
+095/077	heh	1	h eh
+095/079	hech	1	h e ch
+095/081	höch	1	h ö ch
+095/083	höach	1	h öa ch
+095/085	NA	NA	-
+095/087	NA	NA	-
+095/089	heeich	1	h eei ch
+095/091	höich	1	h öi ch
+095/093	höch	1	h ö ch
+095/095	hech	1	h e ch
+095/097	hech	1	h e ch
+095/099	hech	1	h e ch
+095/101	hech	1	h e ch
+095/103	heh	1	h eh
+095/105	höch	1	h ö ch
+095/107	heh	1	h eh
+095/109	heh	1	h eh
+095/111	he	1	h e
+095/113	he	1	h e
+095/115	heh	1	h eh
+095/117	hech	1	h e ch
+095/119	hech	1	h e ch
+095/121	heh	1	h eh
+095/123	heh	1	h eh
+095/125	hech	1	h e ch
+095/129	hech	1	h e ch
+095/131	hech	1	h e ch
+095/133	hech	1	h e ch
+095/139	hech	1	h e ch
+095/141	hech	1	h e ch
+095/143	höch	1	h ö ch
+095/145	hech	1	h e ch
+095/147	hech	1	h e ch
+095/149	häch	1	h ä ch
+095/151	hech	1	h e ch
+095/153	hech	1	h e ch
+095/155	heh	1	h eh
+096/031	heech	1	h ee ch
+096/033	heech	1	h ee ch
+096/035	heech	1	h ee ch
+096/037	hech	1	h e ch
+096/039	hech	1	h e ch
+096/041	häch	1	h ä ch
+096/043	höch	1	h ö ch
+096/045	hee	1	h ee
+096/047	heh	1	h eh
+096/049	hech	1	h e ch
+096/051	NA	NA	-
+096/053	heh	1	h eh
+096/055	höh	1	h öh
+096/057	heeh	1	h eeh
+096/059	höch	1	h ö ch
+096/061	hö	1	h ö
+096/063	höh	1	h öh
+096/065	hö	1	h ö
+096/067	hö	1	h ö
+096/069	höh	1	h öh
+096/071	heh	1	h eh
+096/075	heach	1	h ea ch
+096/077	höach	1	h öa ch
+096/079	heach	1	h ea ch
+096/081	heach	1	h ea ch
+096/083	heach	1	h ea ch
+096/085	herch	1	h e r ch
+096/087	hech	1	h e ch
+096/089	höch	1	h ö ch
+096/091	he	1	h e
+096/093	hech	1	h e ch
+096/095	höch	1	h ö ch
+096/097	höch	1	h ö ch
+096/099	hech	1	h e ch
+096/101	hechh	1	h e c hh
+096/103	höh	1	h öh
+096/105	heh	1	h eh
+096/107	he	1	h e
+096/109	höh	1	h öh
+096/111	he	1	h e
+096/113	heh	1	h eh
+096/115	heh	1	h eh
+096/117	he	1	h e
+096/119	hoh	1	h oh
+096/121	heeh	1	h eeh
+096/123	hee	1	h ee
+096/125	he	1	h e
+096/129	hech	1	h e ch
+096/131	hech	1	h e ch
+096/135	hech	1	h e ch
+096/137	hech	1	h e ch
+096/139	hech	1	h e ch
+096/141	hech	1	h e ch
+096/143	NA	NA	-
+096/145	hech	1	h e ch
+096/147	heech	1	h ee ch
+096/151	heech	1	h ee ch
+096/153	heh	1	h eh
+096/155	heeh	1	h eeh
+097/031	hech	1	h e ch
+097/033	höch	1	h ö ch
+097/035	heech	1	h ee ch
+097/037	hech	1	h e ch
+097/039	hech	1	h e ch
+097/041	hech	1	h e ch
+097/043	höch	1	h ö ch
+097/045	höch	1	h ö ch
+097/047	höch	1	h ö ch
+097/049	heech	1	h ee ch
+097/051	höh	1	h öh
+097/053	höh	1	h öh
+097/055	heh	1	h eh
+097/057	he	1	h e
+097/059	hee	1	h ee
+097/061	heh	1	h eh
+097/063	hai	1	h ai
+097/065	hoh	1	h oh
+097/067	höh	1	h öh
+097/069	hee	1	h ee
+097/071	höh	1	h öh
+097/073	höh	1	h öh
+097/075	heach	1	h ea ch
+097/077	höach	1	h öa ch
+097/079	heach	1	h ea ch
+097/081	NA	NA	-
+097/083	heach	1	h ea ch
+097/085	häach	1	h äa ch
+097/087	hech	1	h e ch
+097/089	hoich	1	h oi ch
+097/091	häich	1	h äi ch
+097/093	hech	1	h e ch
+097/095	höh	1	h öh
+097/097	höch	1	h ö ch
+097/099	hech	1	h e ch
+097/103	höh	1	h öh
+097/105	hech	1	h e ch
+097/107	NA	NA	-
+097/109	hech	1	h e ch
+097/113	NA	NA	-
+097/125	hech	1	h e ch
+097/131	hech	1	h e ch
+097/133	höch	1	h ö ch
+097/139	hech	1	h e ch
+097/141	hech	1	h e ch
+097/143	höch	1	h ö ch
+097/145	hech	1	h e ch
+097/149	heh	1	h eh
+097/153	heh	1	h eh
+098/033	hech	1	h e ch
+098/035	häch	1	h ä ch
+098/037	heech	1	h ee ch
+098/039	hech	1	h e ch
+098/041	höh	1	h öh
+098/043	höch	1	h ö ch
+098/045	höch	1	h ö ch
+098/047	höch	1	h ö ch
+098/049	höch	1	h ö ch
+098/051	höch	1	h ö ch
+098/053	hö	1	h ö
+098/055	heh	1	h eh
+098/057	hä	1	h ä
+098/059	heeh	1	h eeh
+098/061	höh	1	h öh
+098/063	he	1	h e
+098/065	höh	1	h öh
+098/067	hä	1	h ä
+098/069	höh	1	h öh
+098/071	höh	1	h öh
+098/073	höh	1	h öh
+098/075	heach	1	h ea ch
+098/077	hech	1	h e ch
+098/079	höach	1	h öa ch
+098/081	hech	1	h e ch
+098/083	hech	1	h e ch
+098/085	höach	1	h öa ch
+098/087	haöch	1	h aö ch
+098/089	höch	1	h ö ch
+098/091	hoich	1	h oi ch
+098/093	höch	1	h ö ch
+098/095	hech	1	h e ch
+098/097	höch	1	h ö ch
+098/103	höch	1	h ö ch
+098/105	hech	1	h e ch
+098/107	häich	1	h äi ch
+098/109	hech	1	h e ch
+098/111	heh	1	h eh
+098/119	heh	1	h eh
+098/123	hech	1	h e ch
+098/125	hech	1	h e ch
+098/127	hech	1	h e ch
+098/135	hech	1	h e ch
+098/137	hech	1	h e ch
+098/139	höch	1	h ö ch
+098/141	hech	1	h e ch
+098/143	hech	1	h e ch
+098/145	heh	1	h eh
+098/147	heh	1	h eh
+098/149	heh	1	h eh
+098/151	he	1	h e
+099/033	hech	1	h e ch
+099/035	hech	1	h e ch
+099/037	hech	1	h e ch
+099/039	heh	1	h eh
+099/041	höch	1	h ö ch
+099/043	hööch	1	h öö ch
+099/045	höch	1	h ö ch
+099/047	höch	1	h ö ch
+099/049	höch	1	h ö ch
+099/051	hööch	1	h öö ch
+099/053	höch	1	h ö ch
+099/055	hööch	1	h öö ch
+099/057	höch	1	h ö ch
+099/059	höh	1	h öh
+099/063	hoh	1	h oh
+099/065	höö	1	h öö
+099/067	hö	1	h ö
+099/069	höh	1	h öh
+099/071	höh	1	h öh
+099/073	heach	1	h ea ch
+099/075	hä	1	h ä
+099/077	heach	1	h ea ch
+099/081	heach	1	h ea ch
+099/083	heach	1	h ea ch
+099/085	heach	1	h ea ch
+099/089	hech	1	h e ch
+099/093	hech	1	h e ch
+099/095	hech	1	h e ch
+099/099	hech	1	h e ch
+099/101	hech	1	h e ch
+099/103	heh	1	h eh
+099/105	hai	1	h ai
+099/107	NA	NA	-
+099/109	heh	1	h eh
+099/111	heh	1	h eh
+099/113	heh	1	h eh
+099/121	hech	1	h e ch
+099/123	hech	1	h e ch
+099/125	hech	1	h e ch
+099/131	hech	1	h e ch
+099/137	hech	1	h e ch
+099/139	hech	1	h e ch
+099/141	heh	1	h eh
+099/143	hech	1	h e ch
+099/145	heech	1	h ee ch
+099/147	heech	1	h ee ch
+100/033	höch	1	h ö ch
+100/035	heech	1	h ee ch
+100/037	hech	1	h e ch
+100/039	heech	1	h ee ch
+100/041	höch	1	h ö ch
+100/043	hööch	1	h öö ch
+100/045	hööch	1	h öö ch
+100/049	hööch	1	h öö ch
+100/051	höch	1	h ö ch
+100/053	höch	1	h ö ch
+100/055	höch	1	h ö ch
+100/057	höch	1	h ö ch
+100/059	hööch	1	h öö ch
+100/061	höch	1	h ö ch
+100/065	höch	1	h ö ch
+100/067	he	1	h e
+100/069	höh	1	h öh
+100/071	heach	1	h ea ch
+100/073	heach	1	h ea ch
+100/075	heach	1	h ea ch
+100/077	heach	1	h ea ch
+100/081	heach	1	h ea ch
+100/083	heach	1	h ea ch
+100/089	heach	1	h ea ch
+100/093	hech	1	h e ch
+100/095	hech	1	h e ch
+100/097	hech	1	h e ch
+100/099	hech	1	h e ch
+100/101	hech	1	h e ch
+100/109	heh	1	h eh
+100/111	heh	1	h eh
+100/113	heh	1	h eh
+100/115	heh	1	h eh
+100/117	höch	1	h ö ch
+100/119	höch	1	h ö ch
+100/121	heh	1	h eh
+100/125	heh	1	h eh
+100/127	höch	1	h ö ch
+100/129	höch	1	h ö ch
+100/133	NA	NA	-
+100/135	hech	1	h e ch
+100/141	höch	1	h ö ch
+100/143	hech	1	h e ch
+100/145	hech	1	h e ch
+101/035	hech	1	h e ch
+101/037	he	1	h e
+101/039	heech	1	h ee ch
+101/041	höch	1	h ö ch
+101/043	höch	1	h ö ch
+101/045	hööch	1	h öö ch
+101/047	hööch	1	h öö ch
+101/049	hööch	1	h öö ch
+101/051	hööch	1	h öö ch
+101/053	höch	1	h ö ch
+101/055	höch	1	h ö ch
+101/057	höch	1	h ö ch
+101/059	höch	1	h ö ch
+101/061	höch	1	h ö ch
+101/063	höüch	1	h öü ch
+101/065	höh	1	h öh
+101/067	höh	1	h öh
+101/071	heach	1	h ea ch
+101/075	heach	1	h ea ch
+101/077	heach	1	h ea ch
+101/079	heach	1	h ea ch
+101/081	heach	1	h ea ch
+101/091	NA	NA	-
+101/093	heach	1	h ea ch
+101/095	heach	1	h ea ch
+101/097	hech	1	h e ch
+101/099	höich	1	h öi ch
+101/101	hech	1	h e ch
+101/103	hech	1	h e ch
+101/107	höich	1	h öi ch
+101/109	haich	1	h ai ch
+101/113	hech	1	h e ch
+101/115	höch	1	h ö ch
+101/121	heh	1	h eh
+101/125	hech	1	h e ch
+101/129	hech	1	h e ch
+101/131	höch	1	h ö ch
+101/133	hech	1	h e ch
+101/137	häch	1	h ä ch
+101/139	hech	1	h e ch
+101/141	hech	1	h e ch
+101/143	heh	1	h eh
+101/145	heh	1	h eh
+101/147	hech	1	h e ch
+102/037	höchch	1	h ö ch ch
+102/039	höch	1	h ö ch
+102/041	höch	1	h ö ch
+102/043	höch	1	h ö ch
+102/045	hööch	1	h öö ch
+102/047	hööch	1	h öö ch
+102/049	hööch	1	h öö ch
+102/051	höch	1	h ö ch
+102/053	hööch	1	h öö ch
+102/055	höch	1	h ö ch
+102/057	höch	1	h ö ch
+102/059	höch	1	h ö ch
+102/061	hööch	1	h öö ch
+102/063	höch	1	h ö ch
+102/065	höh	1	h öh
+102/067	hö	1	h ö
+102/069	höh	1	h öh
+102/071	heach	1	h ea ch
+102/073	heach	1	h ea ch
+102/075	heach	1	h ea ch
+102/077	höach	1	h öa ch
+102/079	höach	1	h öa ch
+102/081	heach	1	h ea ch
+102/083	heach	1	h ea ch
+102/089	höach	1	h öa ch
+102/091	heach	1	h ea ch
+102/093	hech	1	h e ch
+102/095	hech	1	h e ch
+102/097	hech	1	h e ch
+102/099	höch	1	h ö ch
+102/103	hech	1	h e ch
+102/107	hech	1	h e ch
+102/109	hech	1	h e ch
+102/113	hech	1	h e ch
+102/115	höh	1	h öh
+102/127	hech	1	h e ch
+102/129	hech	1	h e ch
+102/131	heh	1	h eh
+102/135	hech	1	h e ch
+102/137	hooch	1	h oo ch
+102/139	hech	1	h e ch
+102/141	heh	1	h eh
+102/143	hech	1	h e ch
+102/145	hee	1	h ee
+103/039	hooch	1	h oo ch
+103/041	höch	1	h ö ch
+103/043	hööch	1	h öö ch
+103/045	höch	1	h ö ch
+103/047	hööch	1	h öö ch
+103/049	höch	1	h ö ch
+103/051	höch	1	h ö ch
+103/053	höch	1	h ö ch
+103/055	hööch	1	h öö ch
+103/057	höch	1	h ö ch
+103/059	höch	1	h ö ch
+103/063	höch	1	h ö ch
+103/065	höh	1	h öh
+103/067	hö	1	h ö
+103/069	höh	1	h öh
+103/071	höh	1	h öh
+103/073	heach	1	h ea ch
+103/075	heh	1	h eh
+103/077	heah	1	h eah
+103/079	heach	1	h ea ch
+103/081	höach	1	h öa ch
+103/083	heach	1	h ea ch
+103/085	heach	1	h ea ch
+103/087	heach	1	h ea ch
+103/089	heach	1	h ea ch
+103/091	heach	1	h ea ch
+103/097	hech	1	h e ch
+103/099	hech	1	h e ch
+103/101	hech	1	h e ch
+103/105	hech	1	h e ch
+103/107	hech	1	h e ch
+103/111	häich	1	h äi ch
+103/121	heach	1	h ea ch
+103/125	heach	1	h ea ch
+103/127	heach	1	h ea ch
+103/131	heach	1	h ea ch
+103/133	heach	1	h ea ch
+103/135	hech	1	h e ch
+103/137	hech	1	h e ch
+103/139	heh	1	h eh
+103/141	heh	1	h eh
+103/143	hech	1	h e ch
+103/145	hech	1	h e ch
+104/033	höch	1	h ö ch
+104/035	höch	1	h ö ch
+104/037	höch	1	h ö ch
+104/039	hööch	1	h öö ch
+104/041	höch	1	h ö ch
+104/043	höch	1	h ö ch
+104/045	höch	1	h ö ch
+104/047	hööch	1	h öö ch
+104/049	hööch	1	h öö ch
+104/051	höch	1	h ö ch
+104/053	höüch	1	h öü ch
+104/055	höch	1	h ö ch
+104/057	höch	1	h ö ch
+104/059	höch	1	h ö ch
+104/061	höach	1	h öa ch
+104/063	höh	1	h öh
+104/065	höch	1	h ö ch
+104/067	höh	1	h öh
+104/071	heach	1	h ea ch
+104/075	heach	1	h ea ch
+104/077	heach	1	h ea ch
+104/079	heach	1	h ea ch
+104/081	heach	1	h ea ch
+104/083	heach	1	h ea ch
+104/085	heach	1	h ea ch
+104/091	heach	1	h ea ch
+104/095	hech	1	h e ch
+104/101	heech	1	h ee ch
+104/103	hech	1	h e ch
+104/107	hech	1	h e ch
+104/111	heach	1	h ea ch
+104/113	heach	1	h ea ch
+104/119	heach	1	h ea ch
+104/121	heach	1	h ea ch
+104/123	heah	1	h eah
+104/125	heach	1	h ea ch
+104/127	heach	1	h ea ch
+104/131	heach	1	h ea ch
+104/133	heach	1	h ea ch
+104/135	heach	1	h ea ch
+104/137	hech	1	h e ch
+104/139	hech	1	h e ch
+104/141	hech	1	h e ch
+104/143	heh	1	h eh
+104/145	he	1	h e
+105/031	höch	1	h ö ch
+105/033	höch	1	h ö ch
+105/035	höch	1	h ö ch
+105/037	höch	1	h ö ch
+105/039	höch	1	h ö ch
+105/041	höch	1	h ö ch
+105/043	höch	1	h ö ch
+105/045	höch	1	h ö ch
+105/047	höch	1	h ö ch
+105/049	hööch	1	h öö ch
+105/051	höüch	1	h öü ch
+105/053	höüch	1	h öü ch
+105/055	höch	1	h ö ch
+105/057	höch	1	h ö ch
+105/059	höch	1	h ö ch
+105/061	höäch	1	h öä ch
+105/063	höh	1	h öh
+105/065	höh	1	h öh
+105/067	höh	1	h öh
+105/069	höh	1	h öh
+105/071	heach	1	h ea ch
+105/073	heach	1	h ea ch
+105/075	heach	1	h ea ch
+105/077	höach	1	h öa ch
+105/079	heach	1	h ea ch
+105/081	heach	1	h ea ch
+105/085	heach	1	h ea ch
+105/087	heach	1	h ea ch
+105/089	heach	1	h ea ch
+105/103	heh	1	h eh
+105/105	hech	1	h e ch
+105/111	höach	1	h öa ch
+105/113	heach	1	h ea ch
+105/115	heach	1	h ea ch
+105/117	heach	1	h ea ch
+105/119	heach	1	h ea ch
+105/121	heach	1	h ea ch
+105/125	hach	1	h a ch
+105/127	höach	1	h öa ch
+105/131	höh	1	h öh
+105/133	heach	1	h ea ch
+105/135	hörch	1	h ö r ch
+105/137	höch	1	h ö ch
+105/141	heh	1	h eh
+105/143	hech	1	h e ch
+105/145	heg	1	h e g
+106/033	höch	1	h ö ch
+106/035	höch	1	h ö ch
+106/037	höch	1	h ö ch
+106/039	höch	1	h ö ch
+106/041	höch	1	h ö ch
+106/043	höch	1	h ö ch
+106/045	höch	1	h ö ch
+106/047	hööch	1	h öö ch
+106/049	höch	1	h ö ch
+106/051	höch	1	h ö ch
+106/053	höich	1	h öi ch
+106/057	höch	1	h ö ch
+106/061	höüch	1	h öü ch
+106/063	höh	1	h öh
+106/067	höh	1	h öh
+106/071	häch	1	h ä ch
+106/073	heach	1	h ea ch
+106/075	heach	1	h ea ch
+106/077	heach	1	h ea ch
+106/079	NA	NA	-
+106/081	heah	1	h eah
+106/085	heach	1	h ea ch
+106/087	heach	1	h ea ch
+106/093	hiech	1	h ie ch
+106/097	höch	1	h ö ch
+106/099	häch	1	h ä ch
+106/103	hech	1	h e ch
+106/111	heach	1	h ea ch
+106/115	heach	1	h ea ch
+106/121	cheach	1	ch ea ch
+106/123	heah	1	h eah
+106/125	heach	1	h ea ch
+106/129	höch	1	h ö ch
+106/131	heach	1	h ea ch
+106/133	hech	1	h e ch
+106/135	NA	NA	-
+106/137	hech	1	h e ch
+106/139	hech	1	h e ch
+106/141	heach	1	h ea ch
+106/143	hech	1	h e ch
+106/145	heg	1	h e g
+107/033	höch	1	h ö ch
+107/035	höch	1	h ö ch
+107/037	höch	1	h ö ch
+107/039	höch	1	h ö ch
+107/041	höch	1	h ö ch
+107/043	höch	1	h ö ch
+107/045	höch	1	h ö ch
+107/047	hech	1	h e ch
+107/049	heech	1	h ee ch
+107/051	höich	1	h öi ch
+107/053	hoch	1	h o ch
+107/057	höch	1	h ö ch
+107/059	hoch	1	h o ch
+107/063	höh	1	h öh
+107/065	höh	1	h öh
+107/071	heach	1	h ea ch
+107/075	heach	1	h ea ch
+107/081	heh	1	h eh
+107/085	heach	1	h ea ch
+107/087	heah	1	h eah
+107/089	höach	1	h öa ch
+107/091	hiech	1	h ie ch
+107/097	höh	1	h öh
+107/099	heh	1	h eh
+107/103	hech	1	h e ch
+107/105	höach	1	h öa ch
+107/107	hach	1	h a ch
+107/111	heach	1	h ea ch
+107/119	heach	1	h ea ch
+107/121	heach	1	h ea ch
+107/123	heach	1	h ea ch
+107/125	heah	1	h eah
+107/127	hech	1	h e ch
+107/129	heach	1	h ea ch
+107/131	heach	1	h ea ch
+107/133	heach	1	h ea ch
+107/135	heach	1	h ea ch
+107/137	häich	1	h äi ch
+107/139	höch	1	h ö ch
+107/141	häch	1	h ä ch
+107/143	hech	1	h e ch
+108/033	höch	1	h ö ch
+108/035	höch	1	h ö ch
+108/037	höch	1	h ö ch
+108/039	höch	1	h ö ch
+108/041	höch	1	h ö ch
+108/043	höch	1	h ö ch
+108/047	heech	1	h ee ch
+108/049	heech	1	h ee ch
+108/063	hööh	1	h ööh
+108/065	höh	1	h öh
+108/067	höh	1	h öh
+108/075	heach	1	h ea ch
+108/079	heh	1	h eh
+108/081	heach	1	h ea ch
+108/085	heach	1	h ea ch
+108/087	hiach	1	h ia ch
+108/091	heach	1	h ea ch
+108/099	höach	1	h öa ch
+108/101	höech	1	h öe ch
+108/103	hech	1	h e ch
+108/105	höch	1	h ö ch
+108/109	heach	1	h ea ch
+108/111	heh	1	h eh
+108/113	heach	1	h ea ch
+108/117	NA	NA	-
+108/119	heach	1	h ea ch
+108/121	hooach	1	h ooa ch
+108/123	höach	1	h öa ch
+108/125	heach	1	h ea ch
+108/127	heach	1	h ea ch
+108/129	heach	1	h ea ch
+108/131	heach	1	h ea ch
+108/133	heach	1	h ea ch
+108/135	höach	1	h öa ch
+108/137	hech	1	h e ch
+108/139	hech	1	h e ch
+108/141	hech	1	h e ch
+109/035	höh	1	h öh
+109/037	höj	1	h ö j
+109/039	höch	1	h ö ch
+109/041	höch	1	h ö ch
+109/043	hoch	1	h o ch
+109/045	heech	1	h ee ch
+109/049	höch	1	h ö ch
+109/053	hech	1	h e ch
+109/061	hech	1	h e ch
+109/063	höh	1	h öh
+109/065	höch	1	h ö ch
+109/067	höh	1	h öh
+109/075	heach	1	h ea ch
+109/083	heach	1	h ea ch
+109/087	hiach	1	h ia ch
+109/089	heach	1	h ea ch
+109/091	heeach	1	h eea ch
+109/093	hiach	1	h ia ch
+109/095	heach	1	h ea ch
+109/097	heach	1	h ea ch
+109/099	höach	1	h öa ch
+109/101	heech	1	h ee ch
+109/103	hooach	1	h ooa ch
+109/107	heach	1	h ea ch
+109/109	heach	1	h ea ch
+109/111	heach	1	h ea ch
+109/113	heach	1	h ea ch
+109/115	heach	1	h ea ch
+109/117	heah	1	h eah
+109/119	herch	1	h e r ch
+109/121	heh	1	h eh
+109/123	NA	NA	-
+109/125	heach	1	h ea ch
+109/127	heach	1	h ea ch
+109/129	heach	1	h ea ch
+109/131	heach	1	h ea ch
+109/133	heach	1	h ea ch
+109/135	hech	1	h e ch
+109/137	hech	1	h e ch
+109/139	höach	1	h öa ch
+110/035	höi	1	h öi
+110/039	höch	1	h ö ch
+110/041	hooch	1	h oo ch
+110/043	hei	1	h ei
+110/045	heij	1	h ei j
+110/047	hei	1	h ei
+110/049	heei	1	h eei
+110/057	heh	1	h eh
+110/061	heich	1	h ei ch
+110/065	hech	1	h e ch
+110/075	heach	1	h ea ch
+110/079	hoach	1	h oa ch
+110/081	heach	1	h ea ch
+110/083	heach	1	h ea ch
+110/087	heach	1	h ea ch
+110/089	heach	1	h ea ch
+110/091	heach	1	h ea ch
+110/093	heach	1	h ea ch
+110/095	heach	1	h ea ch
+110/097	heach	1	h ea ch
+110/099	heach	1	h ea ch
+110/101	höh	1	h öh
+110/105	heach	1	h ea ch
+110/107	häch	1	h ä ch
+110/111	heach	1	h ea ch
+110/113	heach	1	h ea ch
+110/115	heach	1	h ea ch
+110/117	hö	1	h ö
+110/119	heach	1	h ea ch
+110/121	NA	NA	-
+110/125	höh	1	h öh
+110/127	heach	1	h ea ch
+110/129	heach	1	h ea ch
+110/131	höach	1	h öa ch
+110/133	heach	1	h ea ch
+110/135	heach	1	h ea ch
+110/137	huach	1	h ua ch
+110/139	höch	1	h ö ch
+111/035	hüöi	1	h üöi
+111/037	höäj	1	h öä j
+111/039	höj	1	h ö j
+111/041	hooh	1	h ooh
+111/043	hei	1	h ei
+111/045	hei	1	h ei
+111/059	höh	1	h öh
+111/073	heach	1	h ea ch
+111/075	heach	1	h ea ch
+111/077	heach	1	h ea ch
+111/079	heach	1	h ea ch
+111/081	heach	1	h ea ch
+111/083	heach	1	h ea ch
+111/087	heach	1	h ea ch
+111/089	heach	1	h ea ch
+111/105	heach	1	h ea ch
+111/107	heach	1	h ea ch
+111/109	heach	1	h ea ch
+111/111	heach	1	h ea ch
+111/113	höach	1	h öa ch
+111/115	hech	1	h e ch
+111/117	höh	1	h öh
+111/119	heach	1	h ea ch
+111/121	hech	1	h e ch
+111/123	höh	1	h öh
+111/125	heach	1	h ea ch
+112/037	höej	1	h öe j
+112/039	höj	1	h ö j
+112/041	höy	1	h öy
+112/043	hej	1	h e j
+112/047	hej	1	h e j
+112/059	hööch	1	h öö ch
+112/061	höch	1	h ö ch
+112/063	höi	1	h öi
+112/075	heach	1	h ea ch
+112/081	heach	1	h ea ch
+112/083	heach	1	h ea ch
+112/085	heach	1	h ea ch
+112/111	höch	1	h ö ch
+112/115	höh	1	h öh
+112/117	hech	1	h e ch
+112/119	höh	1	h öh
+113/035	höiij	1	h öii j
+113/037	höej	1	h öe j
+113/039	höi	1	h öi
+113/047	hej	1	h e j
+113/079	heach	1	h ea ch
+113/081	hiach	1	h ia ch
+113/083	heach	1	h ea ch
+113/085	heach	1	h ea ch
+113/087	hä	1	h ä
+113/121	hoh	1	h oh
+113/123	hüh	1	h üh
+114/035	höij	1	h öi j
+114/045	NA	NA	-
+114/083	heach	1	h ea ch
+114/085	he	1	h e
+115/041	hech	1	h e ch
+115/043	hej	1	h e j
+115/045	hech	1	h e ch
+115/083	heach	1	h ea ch
+115/085	heach	1	h ea ch
+116/043	hej	1	h e j
+116/045	hech	1	h e ch
+116/083	heach	1	h ea ch
+117/043	hej	1	h e j
+117/045	hehj	1	h eh j
+118/041	hej	1	h e j
+119/083	höach	1	h öa ch
+120/085	höög	1	h öö g
+121/127	heach	1	h ea ch
+122/127	hech	1	h e ch
+122/129	hach	1	h a ch
+123/081	hoach	1	h oa ch
+123/123	heach	1	h ea ch
+123/125	heah	1	h eah
+123/127	heah	1	h eah
+123/129	hach	1	h a ch
+124/125	heach	1	h ea ch
+124/127	heach	1	h ea ch
+124/129	heach	1	h ea ch

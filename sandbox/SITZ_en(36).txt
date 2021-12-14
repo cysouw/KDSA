@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	huck	1	h u ck
+002/201	sött	1	s ö tt
+002/203	hukk	1	h u kk
+002/205	sött	1	s ö tt
+003/203	hukk	1	h u kk
+003/205	hukk	1	h u kk
+004/205	sött	1	s ö tt
+005/205	huck	1	h u ck
+005/207	sött	1	s ö tt
+006/205	huck	1	h u ck
+006/207	sett	1	s e tt
+007/205	hukk	1	h u kk
+007/207	huck	1	h u ck
+007/209	sött	1	s ö tt
+007/211	huck	1	h u ck
+008/199	huck	1	h u ck
+008/203	hukk	1	h u kk
+008/205	huck	1	h u ck
+008/207	huck	1	h u ck
+008/209	sött	1	s ö tt
+008/211	sött	1	s ö tt
+008/213	huck	1	h u ck
+009/199	sett	1	s e tt
+009/203	sött	1	s ö tt
+009/207	huck	1	h u ck
+009/209	huck	1	h u ck
+009/211	huck	1	h u ck
+009/213	huck	1	h u ck
+009/215	hukk	1	h u kk
+009/217	huck	1	h u ck
+010/195	huck	1	h u ck
+010/203	huck	1	h u ck
+010/207	sött	1	s ö tt
+010/209	huck	1	h u ck
+010/211	huck	1	h u ck
+010/213	huck	1	h u ck
+010/215	huck	1	h u ck
+010/217	huck	1	h u ck
+010/219	hukk	1	h u kk
+011/049	sed	1	s e d
+011/053	sirr	1	s i rr
+011/055	serr	1	s e rr
+011/057	sidd	1	s i dd
+011/059	sidd	1	s i dd
+011/061	sidd	1	s i dd
+011/063	serr	1	s e rr
+011/065	serr	1	s e rr
+011/067	er	1	e r
+011/069	sidd	1	s i dd
+011/187	sett	1	s e tt
+011/189	huck	1	h u ck
+011/191	sett	1	s e tt
+011/195	huck	1	h u ck
+011/197	huck	1	h u ck
+011/203	huck	1	h u ck
+011/205	sett	1	s e tt
+011/207	huck	1	h u ck
+011/209	huck	1	h u ck
+011/211	sött	1	s ö tt
+011/213	huck	1	h u ck
+011/215	huck	1	h u ck
+011/217	huck	1	h u ck
+011/219	sett	1	s e tt
+012/047	set	1	s e t
+012/049	sett	1	s e tt
+012/051	sett	1	s e tt
+012/053	sir	1	s i r
+012/055	sidd	1	s i dd
+012/057	serr	1	s e rr
+012/059	sidd	1	s i dd
+012/061	sidd	1	s i dd
+012/063	serr	1	s e rr
+012/065	sirr	1	s i rr
+012/067	sirr	1	s i rr
+012/069	sirr	1	s i rr
+012/187	hukk	1	h u kk
+012/189	huck	1	h u ck
+012/191	huck	1	h u ck
+012/193	sött	1	s ö tt
+012/195	sett	1	s e tt
+012/197	huck	1	h u ck
+012/199	sött	1	s ö tt
+012/201	hukk	1	h u kk
+012/203	huck	1	h u ck
+012/205	sött	1	s ö tt
+012/207	huck	1	h u ck
+012/209	huck	1	h u ck
+012/211	huck	1	h u ck
+012/213	huck	1	h u ck
+012/215	huck	1	h u ck
+012/217	huck	1	h u ck
+012/219	huck	1	h u ck
+012/221	hukk	1	h u kk
+012/223	hukk	1	h u kk
+013/051	sett	1	s e tt
+013/053	satt	1	s a tt
+013/055	satt	1	s a tt
+013/057	sidd	1	s i dd
+013/059	sidd	1	s i dd
+013/061	sitt	1	s i tt
+013/063	sidd	1	s i dd
+013/065	sidd	1	s i dd
+013/067	sidd	1	s i dd
+013/161	sett	1	s e tt
+013/163	sett	1	s e tt
+013/165	sett	1	s e tt
+013/167	sett	1	s e tt
+013/187	hiuck	1	h iu ck
+013/189	sett	1	s e tt
+013/191	sett	1	s e tt
+013/193	huck	1	h u ck
+013/195	sett	1	s e tt
+013/197	huck	1	h u ck
+013/199	sött	1	s ö tt
+013/201	huck	1	h u ck
+013/203	hukk	1	h u kk
+013/207	hukk	1	h u kk
+013/209	huck	1	h u ck
+013/211	huck	1	h u ck
+013/213	huck	1	h u ck
+013/215	huck	1	h u ck
+013/217	huck	1	h u ck
+013/219	huck	1	h u ck
+013/221	huck	1	h u ck
+013/223	hukk	1	h u kk
+014/047	set	1	s e t
+014/049	sat	1	s a t
+014/051	satt	1	s a tt
+014/053	sadd	1	s a dd
+014/055	satt	1	s a tt
+014/057	sat	1	s a t
+014/059	sidd	1	s i dd
+014/061	sidd	1	s i dd
+014/063	sitt	1	s i tt
+014/065	sidd	1	s i dd
+014/067	sidd	1	s i dd
+014/109	sitt	1	s i tt
+014/159	sett	1	s e tt
+014/161	sett	1	s e tt
+014/163	sitt	1	s i tt
+014/165	sett	1	s e tt
+014/167	sett	1	s e tt
+014/169	sett	1	s e tt
+014/187	sött	1	s ö tt
+014/189	hukk	1	h u kk
+014/191	sett	1	s e tt
+014/193	sett	1	s e tt
+014/195	sött	1	s ö tt
+014/197	huck	1	h u ck
+014/199	sett	1	s e tt
+014/201	huck	1	h u ck
+014/203	sött	1	s ö tt
+014/205	sitt	1	s i tt
+014/207	hukk	1	h u kk
+014/209	hukk	1	h u kk
+014/211	hukk	1	h u kk
+014/213	hukk	1	h u kk
+014/215	huck	1	h u ck
+014/217	huck	1	h u ck
+014/219	huck	1	h u ck
+014/221	huck	1	h u ck
+015/049	sat	1	s a t
+015/051	sat	1	s a t
+015/053	sat	1	s a t
+015/055	satt	1	s a tt
+015/057	satt	1	s a tt
+015/059	sidd	1	s i dd
+015/061	sitt	1	s i tt
+015/063	sidd	1	s i dd
+015/065	sitt	1	s i tt
+015/067	sitt	1	s i tt
+015/105	sitt	1	s i tt
+015/107	sitt	1	s i tt
+015/109	sitt	1	s i tt
+015/151	sitt	1	s i tt
+015/153	sitt	1	s i tt
+015/155	sitt	1	s i tt
+015/157	sit	1	s i t
+015/159	sitt	1	s i tt
+015/161	sitt	1	s i tt
+015/163	sitt	1	s i tt
+015/165	sett	1	s e tt
+015/167	sett	1	s e tt
+015/169	sett	1	s e tt
+015/173	sitt	1	s i tt
+015/187	huck	1	h u ck
+015/191	huck	1	h u ck
+015/193	huck	1	h u ck
+015/195	huck	1	h u ck
+015/197	huck	1	h u ck
+015/199	huck	1	h u ck
+015/201	huck	1	h u ck
+015/203	huck	1	h u ck
+015/205	sett	1	s e tt
+015/207	huck	1	h u ck
+015/209	huck	1	h u ck
+015/211	huck	1	h u ck
+015/213	huck	1	h u ck
+015/215	sött	1	s ö tt
+015/217	hukk	1	h u kk
+015/219	hukk	1	h u kk
+015/221	huck	1	h u ck
+016/051	satt	1	s a tt
+016/055	set	1	s e t
+016/057	sidd	1	s i dd
+016/059	sidd	1	s i dd
+016/061	sidd	1	s i dd
+016/063	sidd	1	s i dd
+016/065	sidd	1	s i dd
+016/067	sidd	1	s i dd
+016/081	sitt	1	s i tt
+016/083	sitt	1	s i tt
+016/105	sitt	1	s i tt
+016/107	sitt	1	s i tt
+016/109	sitt	1	s i tt
+016/111	sitt	1	s i tt
+016/145	sidd	1	s i dd
+016/147	sidd	1	s i dd
+016/149	sitt	1	s i tt
+016/151	sitt	1	s i tt
+016/153	sidd	1	s i dd
+016/155	sitt	1	s i tt
+016/157	sitt	1	s i tt
+016/159	sitt	1	s i tt
+016/161	sitt	1	s i tt
+016/163	sitt	1	s i tt
+016/165	sett	1	s e tt
+016/167	set	1	s e t
+016/187	set	1	s e t
+016/189	sett	1	s e tt
+016/191	sött	1	s ö tt
+016/193	hukk	1	h u kk
+016/195	huck	1	h u ck
+016/197	huck	1	h u ck
+016/199	sött	1	s ö tt
+016/201	huck	1	h u ck
+016/203	huck	1	h u ck
+016/205	huck	1	h u ck
+016/209	huck	1	h u ck
+016/211	hukk	1	h u kk
+016/213	huck	1	h u ck
+016/215	huck	1	h u ck
+016/217	huck	1	h u ck
+016/219	hukk	1	h u kk
+017/055	sitt	1	s i tt
+017/057	sidd	1	s i dd
+017/059	sidd	1	s i dd
+017/061	sitt	1	s i tt
+017/063	sitt	1	s i tt
+017/065	sit	1	s i t
+017/067	sitt	1	s i tt
+017/069	sitt	1	s i tt
+017/081	sitt	1	s i tt
+017/083	sid	1	s i d
+017/099	sitt	1	s i tt
+017/101	sitt	1	s i tt
+017/103	sid	1	s i d
+017/107	sitt	1	s i tt
+017/109	sit	1	s i t
+017/145	sitt	1	s i tt
+017/147	sitt	1	s i tt
+017/149	sitt	1	s i tt
+017/151	sitt	1	s i tt
+017/153	sitt	1	s i tt
+017/155	sitt	1	s i tt
+017/157	sitt	1	s i tt
+017/159	sitt	1	s i tt
+017/161	sitt	1	s i tt
+017/163	sött	1	s ö tt
+017/165	sitt	1	s i tt
+017/169	sätt	1	s ä tt
+017/171	sett	1	s e tt
+017/183	sett	1	s e tt
+017/185	huck	1	h u ck
+017/187	sett	1	s e tt
+017/189	sött	1	s ö tt
+017/191	huck	1	h u ck
+017/193	huck	1	h u ck
+017/195	hukk	1	h u kk
+017/197	sett	1	s e tt
+017/199	huk	1	h u k
+017/201	huk	1	h u k
+017/203	huck	1	h u ck
+017/205	hukk	1	h u kk
+017/207	hukk	1	h u kk
+017/209	huck	1	h u ck
+017/211	huck	1	h u ck
+017/213	huck	1	h u ck
+017/215	hukk	1	h u kk
+017/217	huck	1	h u ck
+017/219	hukk	1	h u kk
+018/051	sid	1	s i d
+018/053	sitt	1	s i tt
+018/055	sitt	1	s i tt
+018/057	sitt	1	s i tt
+018/059	sitt	1	s i tt
+018/061	sitt	1	s i tt
+018/063	sitt	1	s i tt
+018/065	sitt	1	s i tt
+018/067	sidd	1	s i dd
+018/069	sit	1	s i t
+018/071	sitt	1	s i tt
+018/073	sitt	1	s i tt
+018/075	sitt	1	s i tt
+018/079	sitt	1	s i tt
+018/081	sitt	1	s i tt
+018/097	sitt	1	s i tt
+018/099	sitt	1	s i tt
+018/103	sitt	1	s i tt
+018/105	sitt	1	s i tt
+018/107	sitt	1	s i tt
+018/109	sitt	1	s i tt
+018/111	sitt	1	s i tt
+018/143	sidd	1	s i dd
+018/145	sitt	1	s i tt
+018/147	sitt	1	s i tt
+018/149	sitt	1	s i tt
+018/151	sitt	1	s i tt
+018/153	sitt	1	s i tt
+018/155	sidd	1	s i dd
+018/157	sitt	1	s i tt
+018/159	sitt	1	s i tt
+018/161	sett	1	s e tt
+018/163	sitt	1	s i tt
+018/165	sett	1	s e tt
+018/169	sett	1	s e tt
+018/171	sett	1	s e tt
+018/173	sett	1	s e tt
+018/181	sett	1	s e tt
+018/185	sött	1	s ö tt
+018/187	sött	1	s ö tt
+018/189	huck	1	h u ck
+018/191	sött	1	s ö tt
+018/193	huck	1	h u ck
+018/195	sett	1	s e tt
+018/197	sött	1	s ö tt
+018/199	huck	1	h u ck
+018/201	huck	1	h u ck
+018/203	huck	1	h u ck
+018/205	huck	1	h u ck
+018/207	huk	1	h u k
+018/209	huck	1	h u ck
+018/211	huck	1	h u ck
+018/213	hukk	1	h u kk
+018/215	huck	1	h u ck
+018/219	huck	1	h u ck
+019/051	sitt	1	s i tt
+019/053	sitt	1	s i tt
+019/055	sidd	1	s i dd
+019/057	sitt	1	s i tt
+019/059	sidd	1	s i dd
+019/061	sitt	1	s i tt
+019/063	sitt	1	s i tt
+019/065	sitt	1	s i tt
+019/067	sitt	1	s i tt
+019/069	sit	1	s i t
+019/071	sitt	1	s i tt
+019/073	sidd	1	s i dd
+019/075	sitt	1	s i tt
+019/077	sidd	1	s i dd
+019/079	sitt	1	s i tt
+019/081	set	1	s e t
+019/097	sidd	1	s i dd
+019/099	sitt	1	s i tt
+019/101	sitt	1	s i tt
+019/103	sitt	1	s i tt
+019/105	sidd	1	s i dd
+019/107	sitt	1	s i tt
+019/109	sitt	1	s i tt
+019/143	sidd	1	s i dd
+019/145	sidd	1	s i dd
+019/147	sitt	1	s i tt
+019/149	NA	NA	-
+019/151	sitt	1	s i tt
+019/153	sitt	1	s i tt
+019/155	sitt	1	s i tt
+019/157	sitt	1	s i tt
+019/159	sett	1	s e tt
+019/161	sitt	1	s i tt
+019/163	sett	1	s e tt
+019/165	sitt	1	s i tt
+019/167	sät	1	s ä t
+019/169	sett	1	s e tt
+019/171	sett	1	s e tt
+019/173	sett	1	s e tt
+019/175	sett	1	s e tt
+019/177	sett	1	s e tt
+019/179	sött	1	s ö tt
+019/181	sett	1	s e tt
+019/183	sött	1	s ö tt
+019/185	sett	1	s e tt
+019/187	söt	1	s ö t
+019/189	huck	1	h u ck
+019/191	sett	1	s e tt
+019/193	huck	1	h u ck
+019/195	sett	1	s e tt
+019/197	huck	1	h u ck
+019/199	huck	1	h u ck
+019/201	sött	1	s ö tt
+019/203	huck	1	h u ck
+019/205	huck	1	h u ck
+019/207	huck	1	h u ck
+019/209	huck	1	h u ck
+019/211	huck	1	h u ck
+019/213	huck	1	h u ck
+019/215	hukk	1	h u kk
+019/217	huck	1	h u ck
+019/219	hukk	1	h u kk
+020/043	sett	1	s e tt
+020/053	sitt	1	s i tt
+020/055	sidd	1	s i dd
+020/057	sitt	1	s i tt
+020/059	sidd	1	s i dd
+020/061	sit	1	s i t
+020/063	sitt	1	s i tt
+020/065	sitt	1	s i tt
+020/067	sitt	1	s i tt
+020/069	sid	1	s i d
+020/071	sitt	1	s i tt
+020/073	sitt	1	s i tt
+020/075	sitt	1	s i tt
+020/077	sed	1	s e d
+020/079	sitt	1	s i tt
+020/081	sit	1	s i t
+020/095	sid	1	s i d
+020/097	sitt	1	s i tt
+020/099	sitt	1	s i tt
+020/101	sitt	1	s i tt
+020/103	sitt	1	s i tt
+020/105	sidd	1	s i dd
+020/107	sidd	1	s i dd
+020/135	sitt	1	s i tt
+020/137	sitt	1	s i tt
+020/139	sitt	1	s i tt
+020/141	sitt	1	s i tt
+020/143	sitt	1	s i tt
+020/145	sitt	1	s i tt
+020/147	sitt	1	s i tt
+020/149	sitt	1	s i tt
+020/151	sitt	1	s i tt
+020/153	sitt	1	s i tt
+020/155	sitt	1	s i tt
+020/157	sitt	1	s i tt
+020/159	sitt	1	s i tt
+020/161	sett	1	s e tt
+020/163	sit	1	s i t
+020/165	sidd	1	s i dd
+020/167	sett	1	s e tt
+020/169	sett	1	s e tt
+020/171	set	1	s e t
+020/173	sett	1	s e tt
+020/175	sett	1	s e tt
+020/177	sett	1	s e tt
+020/179	sett	1	s e tt
+020/181	sett	1	s e tt
+020/183	sött	1	s ö tt
+020/185	sett	1	s e tt
+020/187	setz	1	s e t z
+020/189	sett	1	s e tt
+020/191	sett	1	s e tt
+020/193	sett	1	s e tt
+020/195	hukk	1	h u kk
+020/197	huck	1	h u ck
+020/199	huck	1	h u ck
+020/201	sött	1	s ö tt
+020/203	huck	1	h u ck
+020/205	huck	1	h u ck
+020/207	huck	1	h u ck
+020/209	huck	1	h u ck
+020/211	huck	1	h u ck
+020/213	sött	1	s ö tt
+020/215	huck	1	h u ck
+020/217	huck	1	h u ck
+020/219	huck	1	h u ck
+021/055	sitt	1	s i tt
+021/057	sitt	1	s i tt
+021/059	sidd	1	s i dd
+021/061	sitt	1	s i tt
+021/063	sitt	1	s i tt
+021/065	sed	1	s e d
+021/067	sitt	1	s i tt
+021/069	seed	1	s ee d
+021/071	sitt	1	s i tt
+021/073	sidd	1	s i dd
+021/075	sitt	1	s i tt
+021/077	sitt	1	s i tt
+021/079	sitt	1	s i tt
+021/087	sitt	1	s i tt
+021/089	sitt	1	s i tt
+021/091	sitt	1	s i tt
+021/093	sitt	1	s i tt
+021/095	sitt	1	s i tt
+021/097	sidd	1	s i dd
+021/099	sitt	1	s i tt
+021/101	sitt	1	s i tt
+021/103	sidd	1	s i dd
+021/105	sitt	1	s i tt
+021/107	sitt	1	s i tt
+021/109	sidd	1	s i dd
+021/111	sid	1	s i d
+021/113	sitt	1	s i tt
+021/131	sitt	1	s i tt
+021/133	sitt	1	s i tt
+021/135	sitt	1	s i tt
+021/137	sitt	1	s i tt
+021/139	sitt	1	s i tt
+021/141	sitt	1	s i tt
+021/143	sitt	1	s i tt
+021/145	sitt	1	s i tt
+021/147	sitt	1	s i tt
+021/149	sitt	1	s i tt
+021/151	sitt	1	s i tt
+021/153	sitt	1	s i tt
+021/155	sitt	1	s i tt
+021/157	sitt	1	s i tt
+021/159	sitt	1	s i tt
+021/163	sött	1	s ö tt
+021/165	sitt	1	s i tt
+021/167	sitt	1	s i tt
+021/169	sett	1	s e tt
+021/171	sett	1	s e tt
+021/173	sett	1	s e tt
+021/175	sett	1	s e tt
+021/177	sett	1	s e tt
+021/179	sett	1	s e tt
+021/181	sett	1	s e tt
+021/183	sett	1	s e tt
+021/185	sötz	1	s ö t z
+021/187	sötz	1	s ö t z
+021/189	seetz	1	s ee t z
+021/191	sötz	1	s ö t z
+021/193	huck	1	h u ck
+021/195	sötz	1	s ö t z
+021/197	huck	1	h u ck
+021/199	huck	1	h u ck
+021/201	huck	1	h u ck
+021/203	huck	1	h u ck
+021/205	huck	1	h u ck
+021/207	hukk	1	h u kk
+021/211	huck	1	h u ck
+021/215	huck	1	h u ck
+021/217	huck	1	h u ck
+021/219	huck	1	h u ck
+022/055	sitt	1	s i tt
+022/057	sitt	1	s i tt
+022/059	sitt	1	s i tt
+022/061	sitt	1	s i tt
+022/063	sed	1	s e d
+022/065	sed	1	s e d
+022/067	set	1	s e t
+022/069	sett	1	s e tt
+022/071	sitt	1	s i tt
+022/073	sitt	1	s i tt
+022/075	sitt	1	s i tt
+022/077	sitt	1	s i tt
+022/087	sitt	1	s i tt
+022/089	sitt	1	s i tt
+022/091	sitt	1	s i tt
+022/093	sitt	1	s i tt
+022/095	sitt	1	s i tt
+022/097	sitt	1	s i tt
+022/099	sitt	1	s i tt
+022/101	sitt	1	s i tt
+022/103	sitt	1	s i tt
+022/105	sitt	1	s i tt
+022/107	sitt	1	s i tt
+022/109	sitt	1	s i tt
+022/111	sitt	1	s i tt
+022/113	sitt	1	s i tt
+022/115	sitt	1	s i tt
+022/127	sitt	1	s i tt
+022/129	sitt	1	s i tt
+022/131	sitt	1	s i tt
+022/133	sitt	1	s i tt
+022/135	sitt	1	s i tt
+022/137	sitt	1	s i tt
+022/139	sitt	1	s i tt
+022/141	sitt	1	s i tt
+022/143	sitt	1	s i tt
+022/145	sitt	1	s i tt
+022/147	sidd	1	s i dd
+022/149	sitt	1	s i tt
+022/151	sitt	1	s i tt
+022/153	sidd	1	s i dd
+022/155	sitt	1	s i tt
+022/157	sitt	1	s i tt
+022/159	sit	1	s i t
+022/165	sitt	1	s i tt
+022/167	sitt	1	s i tt
+022/169	sett	1	s e tt
+022/171	sett	1	s e tt
+022/173	sett	1	s e tt
+022/175	sett	1	s e tt
+022/177	sett	1	s e tt
+022/179	satt	1	s a tt
+022/181	sett	1	s e tt
+022/183	sötz	1	s ö t z
+022/185	setz	1	s e t z
+022/187	sötz	1	s ö t z
+022/189	sötz	1	s ö t z
+022/191	sötz	1	s ö t z
+022/193	sötz	1	s ö t z
+022/195	sötz	1	s ö t z
+022/197	sötz	1	s ö t z
+022/199	sötz	1	s ö t z
+022/201	huck	1	h u ck
+022/203	huck	1	h u ck
+022/205	huck	1	h u ck
+022/209	huck	1	h u ck
+022/211	huk	1	h u k
+022/215	huk	1	h u k
+022/217	hukk	1	h u kk
+022/219	hok	1	h o k
+023/055	sitt	1	s i tt
+023/059	sitt	1	s i tt
+023/061	sitt	1	s i tt
+023/063	sitt	1	s i tt
+023/065	sitt	1	s i tt
+023/067	sitt	1	s i tt
+023/069	sidd	1	s i dd
+023/071	sitt	1	s i tt
+023/073	set	1	s e t
+023/075	sitt	1	s i tt
+023/077	sidd	1	s i dd
+023/079	sitt	1	s i tt
+023/081	sitt	1	s i tt
+023/083	sitt	1	s i tt
+023/085	sitt	1	s i tt
+023/087	sitt	1	s i tt
+023/089	sitt	1	s i tt
+023/091	sitt	1	s i tt
+023/093	sitt	1	s i tt
+023/095	sitt	1	s i tt
+023/097	sidd	1	s i dd
+023/099	sitt	1	s i tt
+023/101	sitt	1	s i tt
+023/103	sid	1	s i d
+023/105	sitt	1	s i tt
+023/107	sidd	1	s i dd
+023/109	sitt	1	s i tt
+023/111	sitt	1	s i tt
+023/113	sitt	1	s i tt
+023/115	sitt	1	s i tt
+023/117	sitt	1	s i tt
+023/121	sitt	1	s i tt
+023/123	sitt	1	s i tt
+023/125	sitt	1	s i tt
+023/127	sitt	1	s i tt
+023/129	sitt	1	s i tt
+023/131	sitt	1	s i tt
+023/133	sitt	1	s i tt
+023/135	sitt	1	s i tt
+023/137	sitt	1	s i tt
+023/139	sitt	1	s i tt
+023/141	sitt	1	s i tt
+023/143	sitt	1	s i tt
+023/145	sitt	1	s i tt
+023/147	sitt	1	s i tt
+023/149	sit	1	s i t
+023/151	sit	1	s i t
+023/153	sidd	1	s i dd
+023/155	sitt	1	s i tt
+023/165	sett	1	s e tt
+023/167	sett	1	s e tt
+023/169	sitt	1	s i tt
+023/175	sett	1	s e tt
+023/177	setz	1	s e t z
+023/179	setz	1	s e t z
+023/181	sitz	1	s i t z
+023/183	sötz	1	s ö t z
+023/185	setz	1	s e t z
+023/187	sötz	1	s ö t z
+023/189	setz	1	s e t z
+023/191	sötz	1	s ö t z
+023/193	setz	1	s e t z
+023/195	sätz	1	s ä t z
+023/197	setz	1	s e t z
+023/199	huck	1	h u ck
+023/201	huck	1	h u ck
+023/203	huck	1	h u ck
+023/205	huck	1	h u ck
+023/207	huck	1	h u ck
+023/215	hokk	1	h o kk
+023/217	hukk	1	h u kk
+024/053	sitt	1	s i tt
+024/057	sitt	1	s i tt
+024/059	sitt	1	s i tt
+024/061	sidd	1	s i dd
+024/063	sitt	1	s i tt
+024/065	sitt	1	s i tt
+024/067	sitt	1	s i tt
+024/069	sitt	1	s i tt
+024/071	sitt	1	s i tt
+024/073	sitt	1	s i tt
+024/075	sitt	1	s i tt
+024/077	sidd	1	s i dd
+024/079	sitt	1	s i tt
+024/081	sitt	1	s i tt
+024/083	sidd	1	s i dd
+024/085	sidd	1	s i dd
+024/087	sitt	1	s i tt
+024/089	sitt	1	s i tt
+024/091	sitt	1	s i tt
+024/093	sitt	1	s i tt
+024/095	sitt	1	s i tt
+024/097	sitt	1	s i tt
+024/099	sitt	1	s i tt
+024/101	sitt	1	s i tt
+024/103	sitt	1	s i tt
+024/105	sitt	1	s i tt
+024/107	sitt	1	s i tt
+024/109	sitt	1	s i tt
+024/111	sit	1	s i t
+024/113	sitt	1	s i tt
+024/115	sidd	1	s i dd
+024/117	sitt	1	s i tt
+024/119	sitt	1	s i tt
+024/121	sitt	1	s i tt
+024/123	sitt	1	s i tt
+024/125	sitt	1	s i tt
+024/127	sitt	1	s i tt
+024/129	sitt	1	s i tt
+024/131	sitt	1	s i tt
+024/133	sitt	1	s i tt
+024/135	sitt	1	s i tt
+024/137	sitt	1	s i tt
+024/139	sitt	1	s i tt
+024/141	sitt	1	s i tt
+024/143	sitt	1	s i tt
+024/145	sitt	1	s i tt
+024/147	sitt	1	s i tt
+024/149	sitt	1	s i tt
+024/151	sitt	1	s i tt
+024/153	sitt	1	s i tt
+024/155	sitt	1	s i tt
+024/163	sitt	1	s i tt
+024/165	sit	1	s i t
+024/167	sitt	1	s i tt
+024/169	sitt	1	s i tt
+024/171	sitt	1	s i tt
+024/175	sett	1	s e tt
+024/179	seetz	1	s ee t z
+024/181	setz	1	s e t z
+024/183	setz	1	s e t z
+024/185	sötz	1	s ö t z
+024/187	sötz	1	s ö t z
+024/189	setz	1	s e t z
+024/191	setz	1	s e t z
+024/193	huck	1	h u ck
+024/195	sitz	1	s i t z
+024/197	sätz	1	s ä t z
+024/199	setz	1	s e t z
+024/201	huck	1	h u ck
+024/203	huk	1	h u k
+024/217	hukk	1	h u kk
+024/221	sett	1	s e tt
+025/043	sitt	1	s i tt
+025/051	sidd	1	s i dd
+025/053	sitt	1	s i tt
+025/055	sit	1	s i t
+025/057	sitt	1	s i tt
+025/059	sitt	1	s i tt
+025/061	sitt	1	s i tt
+025/063	sitt	1	s i tt
+025/065	sitt	1	s i tt
+025/067	sitt	1	s i tt
+025/069	sett	1	s e tt
+025/071	sitt	1	s i tt
+025/073	sitt	1	s i tt
+025/075	sit	1	s i t
+025/077	sitt	1	s i tt
+025/079	sitt	1	s i tt
+025/081	sitt	1	s i tt
+025/083	sitt	1	s i tt
+025/085	sit	1	s i t
+025/087	sidd	1	s i dd
+025/089	sitt	1	s i tt
+025/091	sidd	1	s i dd
+025/093	sitt	1	s i tt
+025/095	sitt	1	s i tt
+025/099	sitt	1	s i tt
+025/101	sitt	1	s i tt
+025/103	sidd	1	s i dd
+025/105	sit	1	s i t
+025/107	sitt	1	s i tt
+025/109	sidd	1	s i dd
+025/111	sitt	1	s i tt
+025/113	sitt	1	s i tt
+025/115	sitt	1	s i tt
+025/123	sind	1	s i n d
+025/125	sidd	1	s i dd
+025/127	sitt	1	s i tt
+025/129	sitt	1	s i tt
+025/131	sit	1	s i t
+025/133	sitt	1	s i tt
+025/135	sitt	1	s i tt
+025/137	sit	1	s i t
+025/139	sitt	1	s i tt
+025/141	sitt	1	s i tt
+025/143	sitt	1	s i tt
+025/145	sitt	1	s i tt
+025/147	sitt	1	s i tt
+025/149	sitt	1	s i tt
+025/151	sitt	1	s i tt
+025/153	sitt	1	s i tt
+025/155	sitt	1	s i tt
+025/157	sitt	1	s i tt
+025/159	sitt	1	s i tt
+025/177	sett	1	s e tt
+025/179	setz	1	s e t z
+025/181	sötz	1	s ö t z
+025/183	sötz	1	s ö t z
+025/185	setz	1	s e t z
+025/187	sötz	1	s ö t z
+025/189	setz	1	s e t z
+025/191	sötz	1	s ö t z
+026/031	sitt	1	s i tt
+026/033	sitt	1	s i tt
+026/037	sitt	1	s i tt
+026/041	sitt	1	s i tt
+026/043	sitt	1	s i tt
+026/045	sitt	1	s i tt
+026/051	sitt	1	s i tt
+026/053	sidd	1	s i dd
+026/055	sitt	1	s i tt
+026/057	sitt	1	s i tt
+026/059	sitt	1	s i tt
+026/061	sitt	1	s i tt
+026/063	sitt	1	s i tt
+026/065	sitt	1	s i tt
+026/067	sidd	1	s i dd
+026/069	sitt	1	s i tt
+026/071	sid	1	s i d
+026/073	sit	1	s i t
+026/075	sitt	1	s i tt
+026/077	sitt	1	s i tt
+026/079	sitt	1	s i tt
+026/081	sitt	1	s i tt
+026/083	sitt	1	s i tt
+026/085	sitt	1	s i tt
+026/087	sitt	1	s i tt
+026/089	sitt	1	s i tt
+026/091	sitt	1	s i tt
+026/093	sit	1	s i t
+026/095	sitt	1	s i tt
+026/097	sidd	1	s i dd
+026/099	seet	1	s ee t
+026/101	sitt	1	s i tt
+026/103	sitt	1	s i tt
+026/105	sitt	1	s i tt
+026/107	sitt	1	s i tt
+026/109	sitt	1	s i tt
+026/111	sitt	1	s i tt
+026/113	sitt	1	s i tt
+026/115	sidd	1	s i dd
+026/117	sitt	1	s i tt
+026/119	sitt	1	s i tt
+026/123	sitt	1	s i tt
+026/125	sitt	1	s i tt
+026/127	sitt	1	s i tt
+026/129	sitt	1	s i tt
+026/131	sitt	1	s i tt
+026/133	sitt	1	s i tt
+026/135	sitt	1	s i tt
+026/137	sitt	1	s i tt
+026/139	sitt	1	s i tt
+026/141	sit	1	s i t
+026/143	sitt	1	s i tt
+026/145	sitt	1	s i tt
+026/147	sitt	1	s i tt
+026/153	sitt	1	s i tt
+026/155	sit	1	s i t
+026/157	sitt	1	s i tt
+026/159	sit	1	s i t
+026/161	sitt	1	s i tt
+026/165	sitt	1	s i tt
+026/173	sett	1	s e tt
+026/175	sitt	1	s i tt
+026/177	sett	1	s e tt
+026/179	sett	1	s e tt
+026/181	sezz	1	s e zz
+026/183	sötz	1	s ö t z
+026/185	seetz	1	s ee t z
+026/187	sötz	1	s ö t z
+026/189	sitz	1	s i t z
+027/027	sitt	1	s i tt
+027/035	sitt	1	s i tt
+027/037	sitt	1	s i tt
+027/039	sitt	1	s i tt
+027/041	sitt	1	s i tt
+027/043	sitt	1	s i tt
+027/045	sitt	1	s i tt
+027/047	sitt	1	s i tt
+027/051	sitt	1	s i tt
+027/053	sidt	1	s i d t
+027/055	sitt	1	s i tt
+027/057	sitt	1	s i tt
+027/059	sitt	1	s i tt
+027/061	sidt	1	s i d t
+027/063	sidd	1	s i dd
+027/065	sitt	1	s i tt
+027/067	sitt	1	s i tt
+027/069	sitt	1	s i tt
+027/071	sitt	1	s i tt
+027/073	sitt	1	s i tt
+027/075	sitt	1	s i tt
+027/077	sitt	1	s i tt
+027/079	sitt	1	s i tt
+027/081	sitt	1	s i tt
+027/083	sitt	1	s i tt
+027/085	sitt	1	s i tt
+027/087	sitt	1	s i tt
+027/089	sitt	1	s i tt
+027/091	sitt	1	s i tt
+027/093	sitt	1	s i tt
+027/095	sitt	1	s i tt
+027/099	sitt	1	s i tt
+027/101	sidd	1	s i dd
+027/103	sitt	1	s i tt
+027/105	sitt	1	s i tt
+027/107	sitt	1	s i tt
+027/109	sitt	1	s i tt
+027/111	sitt	1	s i tt
+027/113	sitt	1	s i tt
+027/115	sitt	1	s i tt
+027/117	sitt	1	s i tt
+027/119	sitt	1	s i tt
+027/123	sitt	1	s i tt
+027/125	sitt	1	s i tt
+027/127	sitt	1	s i tt
+027/129	sitt	1	s i tt
+027/131	sitt	1	s i tt
+027/135	sitt	1	s i tt
+027/137	sitt	1	s i tt
+027/139	sitt	1	s i tt
+027/141	sitt	1	s i tt
+027/143	sitt	1	s i tt
+027/145	sidd	1	s i dd
+027/147	sitt	1	s i tt
+027/149	sitt	1	s i tt
+027/151	sitt	1	s i tt
+027/153	stitt	1	s t i tt
+027/155	sitt	1	s i tt
+027/157	sitt	1	s i tt
+027/159	sit	1	s i t
+027/161	sitt	1	s i tt
+027/167	sitt	1	s i tt
+027/171	set	1	s e t
+027/173	sett	1	s e tt
+027/175	set	1	s e t
+027/177	set	1	s e t
+027/179	sitt	1	s i tt
+027/181	sett	1	s e tt
+027/183	sötz	1	s ö t z
+027/185	seetz	1	s ee t z
+028/033	sitt	1	s i tt
+028/035	sid	1	s i d
+028/037	sitt	1	s i tt
+028/039	sitt	1	s i tt
+028/041	sitt	1	s i tt
+028/043	sitt	1	s i tt
+028/045	sitt	1	s i tt
+028/047	sitt	1	s i tt
+028/049	sitt	1	s i tt
+028/051	sitt	1	s i tt
+028/053	sitt	1	s i tt
+028/055	sitt	1	s i tt
+028/057	sitt	1	s i tt
+028/059	sitt	1	s i tt
+028/061	sidt	1	s i d t
+028/063	sitt	1	s i tt
+028/065	sitt	1	s i tt
+028/067	sitt	1	s i tt
+028/069	seet	1	s ee t
+028/071	sedd	1	s e dd
+028/073	sidd	1	s i dd
+028/075	sitt	1	s i tt
+028/077	sitt	1	s i tt
+028/079	sitt	1	s i tt
+028/081	sitt	1	s i tt
+028/083	sitt	1	s i tt
+028/085	sitt	1	s i tt
+028/087	sitt	1	s i tt
+028/089	sitt	1	s i tt
+028/091	sitt	1	s i tt
+028/093	sitt	1	s i tt
+028/095	sitt	1	s i tt
+028/097	sidd	1	s i dd
+028/099	sitt	1	s i tt
+028/103	sitt	1	s i tt
+028/105	sitt	1	s i tt
+028/107	sitt	1	s i tt
+028/109	sitt	1	s i tt
+028/111	sitt	1	s i tt
+028/113	sitt	1	s i tt
+028/115	sitt	1	s i tt
+028/117	sitt	1	s i tt
+028/119	sitt	1	s i tt
+028/121	sitt	1	s i tt
+028/123	sidd	1	s i dd
+028/125	sitt	1	s i tt
+028/127	sitt	1	s i tt
+028/129	sitt	1	s i tt
+028/131	sitt	1	s i tt
+028/133	sitt	1	s i tt
+028/135	sitt	1	s i tt
+028/137	sitt	1	s i tt
+028/139	sitt	1	s i tt
+028/141	sit	1	s i t
+028/143	sitt	1	s i tt
+028/145	sitt	1	s i tt
+028/147	sitt	1	s i tt
+028/151	sitt	1	s i tt
+028/153	sitt	1	s i tt
+028/155	sitt	1	s i tt
+028/157	sitt	1	s i tt
+028/159	sitt	1	s i tt
+028/161	sitt	1	s i tt
+028/165	sitt	1	s i tt
+028/169	sitt	1	s i tt
+028/171	sett	1	s e tt
+028/173	sett	1	s e tt
+028/175	sett	1	s e tt
+028/177	sätt	1	s ä tt
+028/179	sett	1	s e tt
+028/181	sötz	1	s ö t z
+028/183	setz	1	s e t z
+028/185	setz	1	s e t z
+029/033	zitt	1	z i tt
+029/035	sitt	1	s i tt
+029/037	sitt	1	s i tt
+029/039	sitt	1	s i tt
+029/043	sitt	1	s i tt
+029/045	sitt	1	s i tt
+029/047	sitt	1	s i tt
+029/049	sitt	1	s i tt
+029/051	sitt	1	s i tt
+029/053	sett	1	s e tt
+029/055	set	1	s e t
+029/057	sitt	1	s i tt
+029/059	sitt	1	s i tt
+029/061	sitt	1	s i tt
+029/065	sid	1	s i d
+029/067	sitt	1	s i tt
+029/069	sitt	1	s i tt
+029/071	sitt	1	s i tt
+029/073	sitt	1	s i tt
+029/075	sitt	1	s i tt
+029/077	sitt	1	s i tt
+029/079	sitt	1	s i tt
+029/081	sidd	1	s i dd
+029/083	sit	1	s i t
+029/085	sitt	1	s i tt
+029/087	sitt	1	s i tt
+029/089	sitt	1	s i tt
+029/091	sit	1	s i t
+029/093	sidd	1	s i dd
+029/095	sitt	1	s i tt
+029/097	sitt	1	s i tt
+029/099	sitt	1	s i tt
+029/101	sitt	1	s i tt
+029/103	sitt	1	s i tt
+029/105	sitt	1	s i tt
+029/107	sit	1	s i t
+029/109	sitt	1	s i tt
+029/111	sitt	1	s i tt
+029/113	sidd	1	s i dd
+029/115	sitt	1	s i tt
+029/117	sitt	1	s i tt
+029/119	sitt	1	s i tt
+029/121	sitt	1	s i tt
+029/123	sitt	1	s i tt
+029/125	sitt	1	s i tt
+029/127	sitt	1	s i tt
+029/129	sitt	1	s i tt
+029/131	sitt	1	s i tt
+029/133	sitt	1	s i tt
+029/135	sitt	1	s i tt
+029/137	sitt	1	s i tt
+029/139	sitt	1	s i tt
+029/141	sitt	1	s i tt
+029/143	sitt	1	s i tt
+029/145	sitt	1	s i tt
+029/147	sitt	1	s i tt
+029/149	sitt	1	s i tt
+029/151	sitt	1	s i tt
+029/153	sitt	1	s i tt
+029/155	sitt	1	s i tt
+029/157	sitt	1	s i tt
+029/159	sitt	1	s i tt
+029/161	sit	1	s i t
+029/163	sitt	1	s i tt
+029/165	sitt	1	s i tt
+029/167	sit	1	s i t
+029/169	sit	1	s i t
+029/171	sätt	1	s ä tt
+029/173	sett	1	s e tt
+029/175	sitt	1	s i tt
+029/177	sitt	1	s i tt
+029/181	set	1	s e t
+030/033	sitt	1	s i tt
+030/035	sitt	1	s i tt
+030/037	sitt	1	s i tt
+030/039	sitt	1	s i tt
+030/041	sitt	1	s i tt
+030/043	sitt	1	s i tt
+030/045	sitt	1	s i tt
+030/047	sitt	1	s i tt
+030/049	sitt	1	s i tt
+030/051	sitt	1	s i tt
+030/053	sitt	1	s i tt
+030/055	sitt	1	s i tt
+030/057	sitt	1	s i tt
+030/059	sit	1	s i t
+030/061	sitt	1	s i tt
+030/065	sitt	1	s i tt
+030/067	sit	1	s i t
+030/071	sit	1	s i t
+030/073	sitt	1	s i tt
+030/075	sitt	1	s i tt
+030/077	sitt	1	s i tt
+030/079	sitt	1	s i tt
+030/081	sit	1	s i t
+030/083	sitt	1	s i tt
+030/085	sitt	1	s i tt
+030/087	sitt	1	s i tt
+030/089	sidd	1	s i dd
+030/091	sitt	1	s i tt
+030/093	sint	1	s i n t
+030/095	sitt	1	s i tt
+030/097	sitt	1	s i tt
+030/099	sitt	1	s i tt
+030/101	sitt	1	s i tt
+030/103	sitt	1	s i tt
+030/105	sitt	1	s i tt
+030/107	sitt	1	s i tt
+030/109	sitt	1	s i tt
+030/111	sitt	1	s i tt
+030/113	sitt	1	s i tt
+030/115	sitt	1	s i tt
+030/117	sitt	1	s i tt
+030/119	sitt	1	s i tt
+030/121	sitt	1	s i tt
+030/123	sitt	1	s i tt
+030/125	sitt	1	s i tt
+030/127	sitt	1	s i tt
+030/129	sitt	1	s i tt
+030/131	sitt	1	s i tt
+030/133	sitt	1	s i tt
+030/135	sitt	1	s i tt
+030/137	sit	1	s i t
+030/139	sitt	1	s i tt
+030/141	sitt	1	s i tt
+030/143	sitt	1	s i tt
+030/145	sitt	1	s i tt
+030/147	sitt	1	s i tt
+030/149	sitt	1	s i tt
+030/151	sitt	1	s i tt
+030/153	sitt	1	s i tt
+030/155	sitt	1	s i tt
+030/157	sit	1	s i t
+030/159	sitt	1	s i tt
+030/161	sitt	1	s i tt
+030/163	sitt	1	s i tt
+030/165	sit	1	s i t
+030/167	sitt	1	s i tt
+030/169	sidd	1	s i dd
+030/171	sett	1	s e tt
+030/173	sätt	1	s ä tt
+030/175	sett	1	s e tt
+030/177	sett	1	s e tt
+030/179	sett	1	s e tt
+030/181	sitt	1	s i tt
+030/183	sitt	1	s i tt
+031/035	sitt	1	s i tt
+031/037	sitt	1	s i tt
+031/039	sitt	1	s i tt
+031/041	sitt	1	s i tt
+031/043	sütt	1	s ü tt
+031/045	sitt	1	s i tt
+031/047	sitt	1	s i tt
+031/049	sitt	1	s i tt
+031/051	sitt	1	s i tt
+031/053	sit	1	s i t
+031/055	sitt	1	s i tt
+031/057	sitt	1	s i tt
+031/059	sitt	1	s i tt
+031/061	sit	1	s i t
+031/063	sitt	1	s i tt
+031/065	sitt	1	s i tt
+031/067	sitt	1	s i tt
+031/069	sitt	1	s i tt
+031/071	sit	1	s i t
+031/073	sitt	1	s i tt
+031/075	sid	1	s i d
+031/077	sitt	1	s i tt
+031/079	sitt	1	s i tt
+031/081	sitt	1	s i tt
+031/083	sid	1	s i d
+031/085	sitt	1	s i tt
+031/087	sitt	1	s i tt
+031/089	sitt	1	s i tt
+031/091	sitt	1	s i tt
+031/093	sitt	1	s i tt
+031/095	sit	1	s i t
+031/097	sitt	1	s i tt
+031/099	sitt	1	s i tt
+031/101	sidd	1	s i dd
+031/103	sitt	1	s i tt
+031/105	sitt	1	s i tt
+031/107	sitt	1	s i tt
+031/109	sit	1	s i t
+031/111	sitt	1	s i tt
+031/113	sitt	1	s i tt
+031/115	sitt	1	s i tt
+031/117	sitt	1	s i tt
+031/119	sitt	1	s i tt
+031/121	sitt	1	s i tt
+031/123	sitt	1	s i tt
+031/125	sitt	1	s i tt
+031/127	sitt	1	s i tt
+031/129	sitt	1	s i tt
+031/131	sitt	1	s i tt
+031/133	sitt	1	s i tt
+031/135	sitt	1	s i tt
+031/137	sitt	1	s i tt
+031/139	sitt	1	s i tt
+031/141	sitt	1	s i tt
+031/143	sitt	1	s i tt
+031/145	sitt	1	s i tt
+031/147	sitt	1	s i tt
+031/149	sitt	1	s i tt
+031/151	sitt	1	s i tt
+031/153	sitt	1	s i tt
+031/155	sitt	1	s i tt
+031/157	sitt	1	s i tt
+031/159	seett	1	s ee tt
+031/161	sitt	1	s i tt
+031/163	sitt	1	s i tt
+031/167	sett	1	s e tt
+031/169	sitz	1	s i t z
+031/171	sitz	1	s i t z
+031/173	sitz	1	s i t z
+031/175	sitt	1	s i tt
+031/177	sitt	1	s i tt
+031/179	sit	1	s i t
+032/035	sitt	1	s i tt
+032/037	sitt	1	s i tt
+032/039	sitt	1	s i tt
+032/041	sitt	1	s i tt
+032/043	sitt	1	s i tt
+032/045	sitt	1	s i tt
+032/047	sitt	1	s i tt
+032/049	sitt	1	s i tt
+032/051	sitt	1	s i tt
+032/053	sitt	1	s i tt
+032/055	sitt	1	s i tt
+032/057	sitt	1	s i tt
+032/059	sitt	1	s i tt
+032/061	sit	1	s i t
+032/065	sit	1	s i t
+032/069	sit	1	s i t
+032/071	sitt	1	s i tt
+032/073	sitt	1	s i tt
+032/075	sitt	1	s i tt
+032/077	sitz	1	s i t z
+032/079	sitt	1	s i tt
+032/081	sitt	1	s i tt
+032/083	sitt	1	s i tt
+032/085	sidd	1	s i dd
+032/087	sit	1	s i t
+032/089	sit	1	s i t
+032/091	sitt	1	s i tt
+032/093	sitt	1	s i tt
+032/095	sitt	1	s i tt
+032/097	sitt	1	s i tt
+032/099	sitt	1	s i tt
+032/101	sitt	1	s i tt
+032/103	sitt	1	s i tt
+032/105	sitt	1	s i tt
+032/107	sitt	1	s i tt
+032/111	sitt	1	s i tt
+032/113	sitt	1	s i tt
+032/115	sitt	1	s i tt
+032/117	sitt	1	s i tt
+032/119	sitt	1	s i tt
+032/121	sitt	1	s i tt
+032/123	sitt	1	s i tt
+032/125	sitt	1	s i tt
+032/127	sitt	1	s i tt
+032/129	sitt	1	s i tt
+032/131	sitt	1	s i tt
+032/133	sitt	1	s i tt
+032/135	sitt	1	s i tt
+032/139	sitt	1	s i tt
+032/141	sitt	1	s i tt
+032/143	sitt	1	s i tt
+032/145	sit	1	s i t
+032/147	sitt	1	s i tt
+032/149	sitt	1	s i tt
+032/151	sitt	1	s i tt
+032/153	sitt	1	s i tt
+032/157	sitt	1	s i tt
+032/159	sitt	1	s i tt
+032/161	sitt	1	s i tt
+032/163	sitt	1	s i tt
+032/167	sett	1	s e tt
+032/169	sitz	1	s i t z
+032/171	sitz	1	s i t z
+032/173	sitz	1	s i t z
+032/175	seit	1	s ei t
+032/177	sött	1	s ö tt
+032/179	sitt	1	s i tt
+032/181	sett	1	s e tt
+032/183	set	1	s e t
+033/035	sitt	1	s i tt
+033/037	zitt	1	z i tt
+033/039	sitt	1	s i tt
+033/041	sitt	1	s i tt
+033/043	sitt	1	s i tt
+033/045	sitt	1	s i tt
+033/047	sitt	1	s i tt
+033/049	sitt	1	s i tt
+033/051	sit	1	s i t
+033/053	sitt	1	s i tt
+033/055	sitt	1	s i tt
+033/057	sitt	1	s i tt
+033/059	sitt	1	s i tt
+033/061	sit	1	s i t
+033/063	sit	1	s i t
+033/065	sitt	1	s i tt
+033/067	sitt	1	s i tt
+033/069	sitt	1	s i tt
+033/071	sit	1	s i t
+033/073	sitt	1	s i tt
+033/075	sitt	1	s i tt
+033/077	sit	1	s i t
+033/079	sitt	1	s i tt
+033/081	sidd	1	s i dd
+033/083	sitt	1	s i tt
+033/085	sitt	1	s i tt
+033/087	sitt	1	s i tt
+033/089	sitt	1	s i tt
+033/091	sitt	1	s i tt
+033/093	sitt	1	s i tt
+033/095	sitt	1	s i tt
+033/097	sitt	1	s i tt
+033/099	sitt	1	s i tt
+033/101	sitt	1	s i tt
+033/103	sitt	1	s i tt
+033/105	sitt	1	s i tt
+033/107	sitt	1	s i tt
+033/109	sitt	1	s i tt
+033/111	sitt	1	s i tt
+033/113	sitt	1	s i tt
+033/115	sitt	1	s i tt
+033/117	sitt	1	s i tt
+033/119	sitt	1	s i tt
+033/121	sitt	1	s i tt
+033/123	sitt	1	s i tt
+033/125	sitt	1	s i tt
+033/127	sitt	1	s i tt
+033/129	sitt	1	s i tt
+033/131	sitt	1	s i tt
+033/133	sitt	1	s i tt
+033/135	sitt	1	s i tt
+033/137	sitt	1	s i tt
+033/139	sitt	1	s i tt
+033/141	sitt	1	s i tt
+033/143	sitt	1	s i tt
+033/145	sitt	1	s i tt
+033/147	sitt	1	s i tt
+033/149	sitt	1	s i tt
+033/151	sitt	1	s i tt
+033/153	sitt	1	s i tt
+033/155	sitt	1	s i tt
+033/159	sit	1	s i t
+033/161	sitt	1	s i tt
+033/163	sitt	1	s i tt
+033/165	sett	1	s e tt
+033/167	sett	1	s e tt
+033/169	sett	1	s e tt
+033/173	sett	1	s e tt
+033/175	sött	1	s ö tt
+033/177	set	1	s e t
+034/035	sitt	1	s i tt
+034/039	sitt	1	s i tt
+034/041	sitt	1	s i tt
+034/043	sitt	1	s i tt
+034/045	sitt	1	s i tt
+034/047	sit	1	s i t
+034/049	sitt	1	s i tt
+034/051	sitt	1	s i tt
+034/053	sitt	1	s i tt
+034/055	sitt	1	s i tt
+034/057	sitt	1	s i tt
+034/059	sitt	1	s i tt
+034/061	sitt	1	s i tt
+034/063	sitt	1	s i tt
+034/065	sitt	1	s i tt
+034/067	sitt	1	s i tt
+034/069	sitt	1	s i tt
+034/071	sitt	1	s i tt
+034/073	sitt	1	s i tt
+034/075	ssitt	1	ss i tt
+034/077	sidd	1	s i dd
+034/079	sitt	1	s i tt
+034/081	sitt	1	s i tt
+034/083	sidd	1	s i dd
+034/085	sitt	1	s i tt
+034/087	sitt	1	s i tt
+034/089	sitt	1	s i tt
+034/091	sidd	1	s i dd
+034/093	sitt	1	s i tt
+034/095	sitt	1	s i tt
+034/097	sitt	1	s i tt
+034/099	sitt	1	s i tt
+034/101	sitt	1	s i tt
+034/103	sitt	1	s i tt
+034/105	sitt	1	s i tt
+034/107	sitt	1	s i tt
+034/109	sitt	1	s i tt
+034/111	sidd	1	s i dd
+034/113	sitt	1	s i tt
+034/115	sitt	1	s i tt
+034/117	sitt	1	s i tt
+034/119	sitt	1	s i tt
+034/121	sitt	1	s i tt
+034/125	sitt	1	s i tt
+034/127	sitt	1	s i tt
+034/129	sitt	1	s i tt
+034/131	sitt	1	s i tt
+034/133	sitt	1	s i tt
+034/135	sitt	1	s i tt
+034/137	sitt	1	s i tt
+034/139	sitt	1	s i tt
+034/141	sitt	1	s i tt
+034/143	sitt	1	s i tt
+034/145	sitt	1	s i tt
+034/147	sitt	1	s i tt
+034/149	sit	1	s i t
+034/151	sitt	1	s i tt
+034/155	sitt	1	s i tt
+034/157	sitt	1	s i tt
+034/161	sitt	1	s i tt
+034/163	sitt	1	s i tt
+034/165	sitt	1	s i tt
+034/167	syt	1	s y t
+034/169	sett	1	s e tt
+034/173	sett	1	s e tt
+035/035	sit	1	s i t
+035/037	sitt	1	s i tt
+035/039	sitt	1	s i tt
+035/041	sitt	1	s i tt
+035/043	sitt	1	s i tt
+035/045	sit	1	s i t
+035/047	sitt	1	s i tt
+035/049	sit	1	s i t
+035/051	sitt	1	s i tt
+035/053	sitt	1	s i tt
+035/055	sitt	1	s i tt
+035/057	sitt	1	s i tt
+035/059	sitt	1	s i tt
+035/061	sitt	1	s i tt
+035/063	sitt	1	s i tt
+035/065	sit	1	s i t
+035/067	sit	1	s i t
+035/069	sitt	1	s i tt
+035/071	sitt	1	s i tt
+035/073	sid	1	s i d
+035/075	sit	1	s i t
+035/077	sitt	1	s i tt
+035/079	sitt	1	s i tt
+035/081	sit	1	s i t
+035/083	sidd	1	s i dd
+035/085	sitt	1	s i tt
+035/087	sitt	1	s i tt
+035/089	sitt	1	s i tt
+035/091	sit	1	s i t
+035/093	sitt	1	s i tt
+035/095	sitt	1	s i tt
+035/097	sitt	1	s i tt
+035/099	sitt	1	s i tt
+035/101	sitt	1	s i tt
+035/103	sitt	1	s i tt
+035/105	sitt	1	s i tt
+035/107	sitt	1	s i tt
+035/109	sidd	1	s i dd
+035/111	sitt	1	s i tt
+035/113	sitt	1	s i tt
+035/115	sitt	1	s i tt
+035/117	sitt	1	s i tt
+035/121	sitt	1	s i tt
+035/123	sitt	1	s i tt
+035/125	sitt	1	s i tt
+035/127	sitt	1	s i tt
+035/129	sitt	1	s i tt
+035/133	sitt	1	s i tt
+035/135	sitt	1	s i tt
+035/137	sitt	1	s i tt
+035/139	sitt	1	s i tt
+035/141	sitt	1	s i tt
+035/143	sitt	1	s i tt
+035/145	sitt	1	s i tt
+035/147	sitt	1	s i tt
+035/149	sitt	1	s i tt
+035/151	sitt	1	s i tt
+035/153	sitt	1	s i tt
+035/155	sitt	1	s i tt
+035/157	sit	1	s i t
+035/165	sitt	1	s i tt
+035/167	sitt	1	s i tt
+035/169	sett	1	s e tt
+035/171	sett	1	s e tt
+035/173	sett	1	s e tt
+036/033	sitt	1	s i tt
+036/035	sitt	1	s i tt
+036/039	sitt	1	s i tt
+036/041	sitt	1	s i tt
+036/043	sitt	1	s i tt
+036/045	sitt	1	s i tt
+036/047	sitt	1	s i tt
+036/049	sit	1	s i t
+036/051	sit	1	s i t
+036/053	sit	1	s i t
+036/055	sit	1	s i t
+036/057	sitt	1	s i tt
+036/059	sidt	1	s i d t
+036/061	sitt	1	s i tt
+036/063	sitt	1	s i tt
+036/065	sidd	1	s i dd
+036/067	sitt	1	s i tt
+036/069	sitt	1	s i tt
+036/071	sitt	1	s i tt
+036/073	sitt	1	s i tt
+036/075	sidt	1	s i d t
+036/077	sitt	1	s i tt
+036/079	ssitt	1	ss i tt
+036/081	sitt	1	s i tt
+036/083	sitt	1	s i tt
+036/085	sitt	1	s i tt
+036/087	sitt	1	s i tt
+036/089	sitt	1	s i tt
+036/091	sitt	1	s i tt
+036/095	sitt	1	s i tt
+036/097	sitt	1	s i tt
+036/099	sitt	1	s i tt
+036/101	sitt	1	s i tt
+036/103	sitt	1	s i tt
+036/105	sitt	1	s i tt
+036/107	sitt	1	s i tt
+036/109	sitt	1	s i tt
+036/111	sitt	1	s i tt
+036/113	sitt	1	s i tt
+036/115	sitt	1	s i tt
+036/117	sitt	1	s i tt
+036/119	sitt	1	s i tt
+036/121	sitt	1	s i tt
+036/123	sitt	1	s i tt
+036/125	sitt	1	s i tt
+036/127	sitt	1	s i tt
+036/129	sit	1	s i t
+036/133	sitt	1	s i tt
+036/135	sitt	1	s i tt
+036/137	sitt	1	s i tt
+036/139	sitt	1	s i tt
+036/141	sitt	1	s i tt
+036/143	sitt	1	s i tt
+036/147	sit	1	s i t
+036/149	sitt	1	s i tt
+036/151	sitt	1	s i tt
+036/153	sitt	1	s i tt
+036/155	sitt	1	s i tt
+036/161	sitt	1	s i tt
+036/163	sitt	1	s i tt
+036/165	sätt	1	s ä tt
+036/167	sett	1	s e tt
+036/169	sett	1	s e tt
+036/171	sett	1	s e tt
+037/033	sidd	1	s i dd
+037/035	sitt	1	s i tt
+037/037	sitt	1	s i tt
+037/039	sitt	1	s i tt
+037/041	sitt	1	s i tt
+037/043	sitt	1	s i tt
+037/045	sitt	1	s i tt
+037/047	sitt	1	s i tt
+037/049	sid	1	s i d
+037/051	sit	1	s i t
+037/053	sitt	1	s i tt
+037/055	sit	1	s i t
+037/057	sitt	1	s i tt
+037/059	sidt	1	s i d t
+037/061	sitt	1	s i tt
+037/063	sitt	1	s i tt
+037/065	sit	1	s i t
+037/067	sit	1	s i t
+037/069	sitt	1	s i tt
+037/071	sitt	1	s i tt
+037/073	sitt	1	s i tt
+037/075	sitt	1	s i tt
+037/077	sitt	1	s i tt
+037/079	sitt	1	s i tt
+037/081	sitt	1	s i tt
+037/083	sit	1	s i t
+037/085	sitt	1	s i tt
+037/087	sitt	1	s i tt
+037/089	sitt	1	s i tt
+037/091	sitt	1	s i tt
+037/093	sitt	1	s i tt
+037/095	sitt	1	s i tt
+037/097	sitt	1	s i tt
+037/099	sitt	1	s i tt
+037/101	sitt	1	s i tt
+037/105	sitt	1	s i tt
+037/107	sitt	1	s i tt
+037/109	sitt	1	s i tt
+037/111	sitt	1	s i tt
+037/113	sitt	1	s i tt
+037/115	sidd	1	s i dd
+037/117	sitt	1	s i tt
+037/119	sitt	1	s i tt
+037/121	sitt	1	s i tt
+037/123	sitt	1	s i tt
+037/125	sitt	1	s i tt
+037/127	sitt	1	s i tt
+037/129	sitt	1	s i tt
+037/131	sitt	1	s i tt
+037/133	sitt	1	s i tt
+037/135	sitt	1	s i tt
+037/137	sitt	1	s i tt
+037/139	sitt	1	s i tt
+037/141	sitt	1	s i tt
+037/145	sett	1	s e tt
+037/147	sitt	1	s i tt
+037/149	sit	1	s i t
+037/151	sitt	1	s i tt
+037/153	sitt	1	s i tt
+037/155	sit	1	s i t
+037/157	sitt	1	s i tt
+037/159	sät	1	s ä t
+037/163	sitt	1	s i tt
+037/171	sett	1	s e tt
+038/033	sitt	1	s i tt
+038/035	sitt	1	s i tt
+038/037	sitt	1	s i tt
+038/039	sitt	1	s i tt
+038/041	sitt	1	s i tt
+038/043	sitt	1	s i tt
+038/045	sitt	1	s i tt
+038/047	sitt	1	s i tt
+038/049	sit	1	s i t
+038/051	sit	1	s i t
+038/053	sitt	1	s i tt
+038/055	sit	1	s i t
+038/057	sitt	1	s i tt
+038/059	sitt	1	s i tt
+038/061	sit	1	s i t
+038/063	sitt	1	s i tt
+038/065	sit	1	s i t
+038/067	sit	1	s i t
+038/069	sidt	1	s i d t
+038/071	sit	1	s i t
+038/073	sitt	1	s i tt
+038/075	sit	1	s i t
+038/077	sitt	1	s i tt
+038/079	sid	1	s i d
+038/081	sitt	1	s i tt
+038/083	sitt	1	s i tt
+038/085	sitt	1	s i tt
+038/087	sitt	1	s i tt
+038/089	sitt	1	s i tt
+038/091	sitt	1	s i tt
+038/093	sitt	1	s i tt
+038/095	sit	1	s i t
+038/097	sitt	1	s i tt
+038/099	sitt	1	s i tt
+038/101	sitt	1	s i tt
+038/103	sitt	1	s i tt
+038/105	sitt	1	s i tt
+038/107	sitt	1	s i tt
+038/109	sitt	1	s i tt
+038/111	sitt	1	s i tt
+038/113	sitt	1	s i tt
+038/115	sitt	1	s i tt
+038/117	sitt	1	s i tt
+038/119	sitt	1	s i tt
+038/121	sitt	1	s i tt
+038/123	sitt	1	s i tt
+038/125	sitt	1	s i tt
+038/127	sitt	1	s i tt
+038/129	sitt	1	s i tt
+038/131	sitt	1	s i tt
+038/133	stitt	1	s t i tt
+038/135	sitt	1	s i tt
+038/145	sitt	1	s i tt
+038/147	sitt	1	s i tt
+038/149	sitt	1	s i tt
+038/151	sitt	1	s i tt
+038/153	sett	1	s e tt
+038/155	sitt	1	s i tt
+038/159	sit	1	s i t
+038/161	sitt	1	s i tt
+038/163	sit	1	s i t
+039/029	sit	1	s i t
+039/031	zitt	1	z i tt
+039/033	sitt	1	s i tt
+039/035	sitt	1	s i tt
+039/037	sitt	1	s i tt
+039/039	sitt	1	s i tt
+039/041	sitt	1	s i tt
+039/043	sitt	1	s i tt
+039/045	sitt	1	s i tt
+039/047	sit	1	s i t
+039/049	sitt	1	s i tt
+039/051	sitt	1	s i tt
+039/053	sitt	1	s i tt
+039/055	sit	1	s i t
+039/057	sidd	1	s i dd
+039/059	sitt	1	s i tt
+039/061	sit	1	s i t
+039/063	sitt	1	s i tt
+039/065	sit	1	s i t
+039/067	sitt	1	s i tt
+039/069	sitt	1	s i tt
+039/071	sitt	1	s i tt
+039/073	sit	1	s i t
+039/075	sitt	1	s i tt
+039/077	sitt	1	s i tt
+039/079	sit	1	s i t
+039/081	sitt	1	s i tt
+039/083	sitt	1	s i tt
+039/085	sid	1	s i d
+039/087	sitt	1	s i tt
+039/089	sitt	1	s i tt
+039/091	sitt	1	s i tt
+039/093	sitt	1	s i tt
+039/095	sitt	1	s i tt
+039/097	sitt	1	s i tt
+039/099	sitt	1	s i tt
+039/101	sitt	1	s i tt
+039/103	sitt	1	s i tt
+039/105	sitt	1	s i tt
+039/107	sitt	1	s i tt
+039/109	sitt	1	s i tt
+039/111	sitt	1	s i tt
+039/113	sitt	1	s i tt
+039/115	sött	1	s ö tt
+039/117	sitt	1	s i tt
+039/119	sitt	1	s i tt
+039/121	sitt	1	s i tt
+039/123	sitt	1	s i tt
+039/125	sitt	1	s i tt
+039/127	sitt	1	s i tt
+039/129	sitt	1	s i tt
+039/131	sitz	1	s i t z
+039/133	sitz	1	s i t z
+039/135	sitz	1	s i t z
+039/137	setz	1	s e t z
+039/139	sitz	1	s i t z
+039/149	sitt	1	s i tt
+039/151	sit	1	s i t
+039/153	sett	1	s e tt
+039/155	sitt	1	s i tt
+040/029	sit	1	s i t
+040/031	sitt	1	s i tt
+040/033	sitt	1	s i tt
+040/035	sitt	1	s i tt
+040/037	sitt	1	s i tt
+040/039	sitt	1	s i tt
+040/041	sitt	1	s i tt
+040/043	sitt	1	s i tt
+040/045	sitt	1	s i tt
+040/047	sitt	1	s i tt
+040/049	sitt	1	s i tt
+040/051	sitt	1	s i tt
+040/053	sitt	1	s i tt
+040/055	sitt	1	s i tt
+040/057	sitt	1	s i tt
+040/059	sitt	1	s i tt
+040/061	sit	1	s i t
+040/063	sitt	1	s i tt
+040/065	sitt	1	s i tt
+040/067	sit	1	s i t
+040/069	sitt	1	s i tt
+040/071	sit	1	s i t
+040/073	sit	1	s i t
+040/075	sitt	1	s i tt
+040/077	sitt	1	s i tt
+040/079	sitt	1	s i tt
+040/081	sitt	1	s i tt
+040/083	sit	1	s i t
+040/085	sit	1	s i t
+040/087	sitt	1	s i tt
+040/089	sitt	1	s i tt
+040/091	sitt	1	s i tt
+040/093	sitt	1	s i tt
+040/095	sitt	1	s i tt
+040/097	sitt	1	s i tt
+040/099	sitt	1	s i tt
+040/101	sitt	1	s i tt
+040/103	sät	1	s ä t
+040/105	sitt	1	s i tt
+040/107	sitz	1	s i t z
+040/109	sitz	1	s i t z
+040/111	sitt	1	s i tt
+040/113	sitt	1	s i tt
+040/115	sitt	1	s i tt
+040/119	sit	1	s i t
+040/121	sitt	1	s i tt
+040/123	sitt	1	s i tt
+040/125	sitz	1	s i t z
+040/127	sitz	1	s i t z
+040/129	sitz	1	s i t z
+040/131	sitz	1	s i t z
+040/133	sitz	1	s i t z
+040/135	sitz	1	s i t z
+040/137	sitz	1	s i t z
+040/141	sitz	1	s i t z
+040/143	sitz	1	s i t z
+040/149	sitz	1	s i t z
+040/153	sitt	1	s i tt
+040/155	sitt	1	s i tt
+041/031	sit	1	s i t
+041/033	sitt	1	s i tt
+041/035	sitt	1	s i tt
+041/037	sitt	1	s i tt
+041/039	sitt	1	s i tt
+041/041	sitt	1	s i tt
+041/043	sitt	1	s i tt
+041/045	sitt	1	s i tt
+041/047	sitt	1	s i tt
+041/049	sitt	1	s i tt
+041/051	sidt	1	s i d t
+041/053	sitt	1	s i tt
+041/055	sidt	1	s i d t
+041/057	sitt	1	s i tt
+041/059	sit	1	s i t
+041/061	sit	1	s i t
+041/063	sitt	1	s i tt
+041/065	sitt	1	s i tt
+041/067	sit	1	s i t
+041/069	sitt	1	s i tt
+041/071	sitt	1	s i tt
+041/073	sitt	1	s i tt
+041/075	sit	1	s i t
+041/077	sitt	1	s i tt
+041/079	sitt	1	s i tt
+041/081	sitt	1	s i tt
+041/083	sitt	1	s i tt
+041/085	sitt	1	s i tt
+041/087	sitt	1	s i tt
+041/089	sitt	1	s i tt
+041/091	sitt	1	s i tt
+041/093	sitt	1	s i tt
+041/095	sitt	1	s i tt
+041/097	sitt	1	s i tt
+041/099	sitt	1	s i tt
+041/101	sitt	1	s i tt
+041/103	sitt	1	s i tt
+041/105	sitt	1	s i tt
+041/107	sitt	1	s i tt
+041/109	sitt	1	s i tt
+041/111	sitz	1	s i t z
+041/113	sitt	1	s i tt
+041/115	sitt	1	s i tt
+041/117	sitt	1	s i tt
+041/119	sitt	1	s i tt
+041/121	sitt	1	s i tt
+041/123	sitt	1	s i tt
+041/125	szitz	1	s z i t z
+041/127	sitz	1	s i t z
+041/129	sitz	1	s i t z
+041/131	sitz	1	s i t z
+041/133	sitz	1	s i t z
+041/135	sitz	1	s i t z
+041/139	sitz	1	s i t z
+041/141	sitz	1	s i t z
+041/145	sitz	1	s i t z
+041/147	sitz	1	s i t z
+041/153	syt	1	s y t
+041/155	sitt	1	s i tt
+041/157	sitt	1	s i tt
+041/159	sitt	1	s i tt
+041/161	sett	1	s e tt
+042/033	sitt	1	s i tt
+042/035	sit	1	s i t
+042/037	sitt	1	s i tt
+042/039	sitt	1	s i tt
+042/041	sit	1	s i t
+042/043	sitt	1	s i tt
+042/045	sitt	1	s i tt
+042/047	sitt	1	s i tt
+042/051	sitt	1	s i tt
+042/053	sitt	1	s i tt
+042/055	sitt	1	s i tt
+042/057	sitt	1	s i tt
+042/059	sitt	1	s i tt
+042/061	sitt	1	s i tt
+042/063	sit	1	s i t
+042/065	sitt	1	s i tt
+042/067	sitt	1	s i tt
+042/069	sitt	1	s i tt
+042/071	sidt	1	s i d t
+042/073	sit	1	s i t
+042/075	sitt	1	s i tt
+042/077	sitt	1	s i tt
+042/079	sitt	1	s i tt
+042/081	sitt	1	s i tt
+042/083	sitt	1	s i tt
+042/085	sitt	1	s i tt
+042/087	sitt	1	s i tt
+042/089	sitt	1	s i tt
+042/091	sitt	1	s i tt
+042/093	sitt	1	s i tt
+042/095	sitt	1	s i tt
+042/097	sitt	1	s i tt
+042/099	sitt	1	s i tt
+042/101	sitt	1	s i tt
+042/103	sitt	1	s i tt
+042/105	sitz	1	s i t z
+042/107	sitt	1	s i tt
+042/109	sitt	1	s i tt
+042/111	sitt	1	s i tt
+042/113	sitz	1	s i t z
+042/115	sitz	1	s i t z
+042/117	sitt	1	s i tt
+042/119	sitt	1	s i tt
+042/121	sitt	1	s i tt
+042/123	sitz	1	s i t z
+042/125	sitz	1	s i t z
+042/127	sitss	1	s i t ss
+042/129	sitz	1	s i t z
+042/131	sitz	1	s i t z
+042/133	sitz	1	s i t z
+042/135	sitz	1	s i t z
+042/137	sitz	1	s i t z
+042/139	sitz	1	s i t z
+042/141	sitz	1	s i t z
+042/143	sitz	1	s i t z
+042/145	sitz	1	s i t z
+042/147	sitz	1	s i t z
+042/149	sitz	1	s i t z
+042/151	sitz	1	s i t z
+042/157	sitt	1	s i tt
+042/159	sit	1	s i t
+042/161	sitt	1	s i tt
+043/033	sit	1	s i t
+043/035	sitt	1	s i tt
+043/037	sitt	1	s i tt
+043/039	sitt	1	s i tt
+043/041	sitt	1	s i tt
+043/043	sitt	1	s i tt
+043/045	sit	1	s i t
+043/047	sith	1	s i t h
+043/049	sitt	1	s i tt
+043/051	sitt	1	s i tt
+043/053	sitt	1	s i tt
+043/055	sitt	1	s i tt
+043/057	sitt	1	s i tt
+043/059	sitt	1	s i tt
+043/061	sitt	1	s i tt
+043/063	sitt	1	s i tt
+043/065	sitt	1	s i tt
+043/067	sitt	1	s i tt
+043/069	sitt	1	s i tt
+043/071	sitt	1	s i tt
+043/073	sitt	1	s i tt
+043/075	sitt	1	s i tt
+043/077	sitt	1	s i tt
+043/079	sitt	1	s i tt
+043/081	sit	1	s i t
+043/083	sitt	1	s i tt
+043/085	sitt	1	s i tt
+043/087	sitt	1	s i tt
+043/089	sitt	1	s i tt
+043/091	sitt	1	s i tt
+043/093	sitt	1	s i tt
+043/095	sit	1	s i t
+043/097	sitt	1	s i tt
+043/099	sitt	1	s i tt
+043/101	sitt	1	s i tt
+043/103	sitt	1	s i tt
+043/105	sitt	1	s i tt
+043/107	sitt	1	s i tt
+043/109	sitt	1	s i tt
+043/111	sitt	1	s i tt
+043/113	sitz	1	s i t z
+043/115	sitz	1	s i t z
+043/117	sitt	1	s i tt
+043/119	sitz	1	s i t z
+043/121	sitt	1	s i tt
+043/123	sitz	1	s i t z
+043/125	sitz	1	s i t z
+043/127	sitz	1	s i t z
+043/129	sitz	1	s i t z
+043/131	sitz	1	s i t z
+043/133	sitz	1	s i t z
+043/135	sitz	1	s i t z
+043/137	sitz	1	s i t z
+043/141	sitz	1	s i t z
+043/143	sitz	1	s i t z
+043/145	sitz	1	s i t z
+043/151	sitz	1	s i t z
+043/153	sitz	1	s i t z
+043/159	sitt	1	s i tt
+043/161	sitch	1	s i t ch
+044/033	sitt	1	s i tt
+044/035	sitt	1	s i tt
+044/039	sit	1	s i t
+044/041	sit	1	s i t
+044/043	sitt	1	s i tt
+044/045	sitt	1	s i tt
+044/047	ssitt	1	ss i tt
+044/049	sitt	1	s i tt
+044/051	sid	1	s i d
+044/053	sitt	1	s i tt
+044/055	sit	1	s i t
+044/057	sitt	1	s i tt
+044/059	sitt	1	s i tt
+044/061	sitt	1	s i tt
+044/063	sitt	1	s i tt
+044/065	sitt	1	s i tt
+044/067	sitt	1	s i tt
+044/069	sitt	1	s i tt
+044/071	sitt	1	s i tt
+044/073	sitt	1	s i tt
+044/075	sitt	1	s i tt
+044/077	sitt	1	s i tt
+044/079	sit	1	s i t
+044/081	sitt	1	s i tt
+044/083	sitt	1	s i tt
+044/085	sitt	1	s i tt
+044/087	sitt	1	s i tt
+044/089	sitt	1	s i tt
+044/091	sitt	1	s i tt
+044/093	sitt	1	s i tt
+044/095	sidd	1	s i dd
+044/097	sidd	1	s i dd
+044/099	sitt	1	s i tt
+044/101	sitt	1	s i tt
+044/103	sitt	1	s i tt
+044/105	sitt	1	s i tt
+044/107	sitt	1	s i tt
+044/109	sitt	1	s i tt
+044/111	sitt	1	s i tt
+044/113	setz	1	s e t z
+044/115	sitz	1	s i t z
+044/117	sitz	1	s i t z
+044/119	sitt	1	s i tt
+044/121	sitz	1	s i t z
+044/123	sitz	1	s i t z
+044/125	sitz	1	s i t z
+044/127	sitz	1	s i t z
+044/129	sitz	1	s i t z
+044/131	sitz	1	s i t z
+044/133	sitz	1	s i t z
+044/135	sitz	1	s i t z
+044/137	sitz	1	s i t z
+044/141	sitz	1	s i t z
+044/143	sitz	1	s i t z
+044/145	sitz	1	s i t z
+044/149	sitz	1	s i t z
+044/151	sitz	1	s i t z
+044/153	sitz	1	s i t z
+045/033	sit	1	s i t
+045/035	sind	1	s i n d
+045/037	sit	1	s i t
+045/039	sitt	1	s i tt
+045/041	sit	1	s i t
+045/043	sitt	1	s i tt
+045/045	sitt	1	s i tt
+045/047	sitt	1	s i tt
+045/049	sitt	1	s i tt
+045/051	sit	1	s i t
+045/053	sitt	1	s i tt
+045/055	sit	1	s i t
+045/057	sitt	1	s i tt
+045/059	sitt	1	s i tt
+045/061	sitt	1	s i tt
+045/063	sitt	1	s i tt
+045/065	sitt	1	s i tt
+045/067	sitt	1	s i tt
+045/069	sitt	1	s i tt
+045/071	sitt	1	s i tt
+045/073	sitt	1	s i tt
+045/075	sit	1	s i t
+045/077	sit	1	s i t
+045/079	sitt	1	s i tt
+045/081	sit	1	s i t
+045/083	sitt	1	s i tt
+045/085	sitt	1	s i tt
+045/087	sitt	1	s i tt
+045/089	sitt	1	s i tt
+045/091	sitt	1	s i tt
+045/093	sitt	1	s i tt
+045/095	sitt	1	s i tt
+045/097	sitt	1	s i tt
+045/099	sitt	1	s i tt
+045/101	sitt	1	s i tt
+045/103	sitt	1	s i tt
+045/105	sitt	1	s i tt
+045/107	sitt	1	s i tt
+045/109	sitt	1	s i tt
+045/111	sitz	1	s i t z
+045/113	sitz	1	s i t z
+045/115	sitz	1	s i t z
+045/117	sitz	1	s i t z
+045/119	sitz	1	s i t z
+045/121	sitz	1	s i t z
+045/123	sitz	1	s i t z
+045/125	sitz	1	s i t z
+045/127	sitz	1	s i t z
+045/129	sitz	1	s i t z
+045/131	sitz	1	s i t z
+045/133	sitz	1	s i t z
+045/135	sitz	1	s i t z
+045/137	sitz	1	s i t z
+045/139	sitz	1	s i t z
+045/141	sitz	1	s i t z
+045/143	sitz	1	s i t z
+045/145	sitz	1	s i t z
+045/155	sitz	1	s i t z
+046/031	bünt	1	b ü n t
+046/033	sitt	1	s i tt
+046/035	sitt	1	s i tt
+046/037	sitt	1	s i tt
+046/039	sitt	1	s i tt
+046/041	sit	1	s i t
+046/043	sitt	1	s i tt
+046/045	sitt	1	s i tt
+046/047	sit	1	s i t
+046/049	sit	1	s i t
+046/051	sitt	1	s i tt
+046/053	sitt	1	s i tt
+046/055	sit	1	s i t
+046/057	sitt	1	s i tt
+046/059	sitt	1	s i tt
+046/061	sitt	1	s i tt
+046/063	sitt	1	s i tt
+046/065	sitt	1	s i tt
+046/067	sitt	1	s i tt
+046/069	sitt	1	s i tt
+046/071	sitt	1	s i tt
+046/073	sitt	1	s i tt
+046/075	sitt	1	s i tt
+046/077	sitt	1	s i tt
+046/079	sit	1	s i t
+046/081	sitt	1	s i tt
+046/083	sitt	1	s i tt
+046/085	sitt	1	s i tt
+046/087	sitt	1	s i tt
+046/089	sitt	1	s i tt
+046/091	sitt	1	s i tt
+046/093	sitt	1	s i tt
+046/095	sitt	1	s i tt
+046/097	sitt	1	s i tt
+046/099	sitt	1	s i tt
+046/101	sitt	1	s i tt
+046/103	sitt	1	s i tt
+046/105	sit	1	s i t
+046/107	sitt	1	s i tt
+046/109	sitt	1	s i tt
+046/111	sitt	1	s i tt
+046/113	sitz	1	s i t z
+046/115	sitz	1	s i t z
+046/117	sitz	1	s i t z
+046/119	sitz	1	s i t z
+046/121	sitz	1	s i t z
+046/123	sitz	1	s i t z
+046/125	sitz	1	s i t z
+046/127	sitz	1	s i t z
+046/129	sitz	1	s i t z
+046/131	sitz	1	s i t z
+046/133	sitz	1	s i t z
+046/135	sitz	1	s i t z
+046/137	sitz	1	s i t z
+046/139	sitz	1	s i t z
+046/141	sitz	1	s i t z
+046/143	sitz	1	s i t z
+046/155	sitz	1	s i t z
+047/031	sitt	1	s i tt
+047/033	sit	1	s i t
+047/035	sit	1	s i t
+047/037	sitt	1	s i tt
+047/039	sit	1	s i t
+047/041	sit	1	s i t
+047/043	sit	1	s i t
+047/045	ssitt	1	ss i tt
+047/047	sitt	1	s i tt
+047/049	sitt	1	s i tt
+047/051	sitt	1	s i tt
+047/053	sit	1	s i t
+047/055	sitt	1	s i tt
+047/057	sitt	1	s i tt
+047/059	sitt	1	s i tt
+047/061	sitt	1	s i tt
+047/063	sitt	1	s i tt
+047/065	sitt	1	s i tt
+047/067	sitt	1	s i tt
+047/069	sitt	1	s i tt
+047/071	sitt	1	s i tt
+047/073	sitt	1	s i tt
+047/075	sitt	1	s i tt
+047/077	sitt	1	s i tt
+047/079	sitt	1	s i tt
+047/081	sitt	1	s i tt
+047/083	sitt	1	s i tt
+047/085	sitt	1	s i tt
+047/087	sitt	1	s i tt
+047/089	sitt	1	s i tt
+047/091	sitt	1	s i tt
+047/093	sitt	1	s i tt
+047/095	sitt	1	s i tt
+047/097	sitt	1	s i tt
+047/099	sidd	1	s i dd
+047/101	sidd	1	s i dd
+047/103	sit	1	s i t
+047/105	sitt	1	s i tt
+047/107	sitt	1	s i tt
+047/109	sitt	1	s i tt
+047/111	sitz	1	s i t z
+047/113	sitz	1	s i t z
+047/115	sitz	1	s i t z
+047/117	sitz	1	s i t z
+047/119	sitz	1	s i t z
+047/123	sitz	1	s i t z
+047/125	sitz	1	s i t z
+047/127	sitz	1	s i t z
+047/129	sitz	1	s i t z
+047/131	sitz	1	s i t z
+047/133	sitz	1	s i t z
+047/135	sitz	1	s i t z
+047/137	sitz	1	s i t z
+047/139	sitz	1	s i t z
+047/141	setz	1	s e t z
+047/147	sitz	1	s i t z
+047/149	sitz	1	s i t z
+047/151	sitz	1	s i t z
+047/159	sitz	1	s i t z
+048/021	sett	1	s e tt
+048/023	set	1	s e t
+048/027	sitt	1	s i tt
+048/029	sitt	1	s i tt
+048/031	sitt	1	s i tt
+048/033	sidt	1	s i d t
+048/035	sidt	1	s i d t
+048/037	sitt	1	s i tt
+048/039	sid	1	s i d
+048/041	sit	1	s i t
+048/045	sitt	1	s i tt
+048/047	siet	1	s ie t
+048/049	sitt	1	s i tt
+048/051	sitt	1	s i tt
+048/053	sitt	1	s i tt
+048/055	sit	1	s i t
+048/057	sitt	1	s i tt
+048/059	sit	1	s i t
+048/061	sitt	1	s i tt
+048/063	sitt	1	s i tt
+048/065	sitt	1	s i tt
+048/067	sitt	1	s i tt
+048/069	sitt	1	s i tt
+048/071	sitz	1	s i t z
+048/073	sitt	1	s i tt
+048/075	sitt	1	s i tt
+048/077	sitt	1	s i tt
+048/079	sitt	1	s i tt
+048/081	sitt	1	s i tt
+048/083	sitt	1	s i tt
+048/085	sitt	1	s i tt
+048/087	sitt	1	s i tt
+048/089	sitz	1	s i t z
+048/091	sitz	1	s i t z
+048/093	sitt	1	s i tt
+048/095	sitz	1	s i t z
+048/099	sitz	1	s i t z
+048/101	sitz	1	s i t z
+048/103	sitt	1	s i tt
+048/105	sitt	1	s i tt
+048/107	sitt	1	s i tt
+048/109	sit	1	s i t
+048/111	sitz	1	s i t z
+048/113	sitz	1	s i t z
+048/115	sitz	1	s i t z
+048/119	sitz	1	s i t z
+048/123	sitz	1	s i t z
+048/125	sitz	1	s i t z
+048/127	sitz	1	s i t z
+048/129	sitz	1	s i t z
+048/131	sitz	1	s i t z
+048/133	sitz	1	s i t z
+048/135	sitz	1	s i t z
+048/137	sen	1	s e n
+048/139	sitz	1	s i t z
+048/141	sitz	1	s i t z
+048/143	sitz	1	s i t z
+048/145	sitz	1	s i t z
+048/147	sitz	1	s i t z
+048/153	sitz	1	s i t z
+048/157	sitz	1	s i t z
+048/159	sitz	1	s i t z
+049/019	sett	1	s e tt
+049/021	sett	1	s e tt
+049/023	sitt	1	s i tt
+049/025	sitt	1	s i tt
+049/027	sitt	1	s i tt
+049/029	sit	1	s i t
+049/031	sitt	1	s i tt
+049/033	sit	1	s i t
+049/035	sit	1	s i t
+049/037	sitt	1	s i tt
+049/039	sitt	1	s i tt
+049/041	sidt	1	s i d t
+049/043	sint	1	s i n t
+049/045	sit	1	s i t
+049/047	sidt	1	s i d t
+049/049	sitt	1	s i tt
+049/051	sitt	1	s i tt
+049/053	sitt	1	s i tt
+049/055	sitt	1	s i tt
+049/057	sitt	1	s i tt
+049/059	sitt	1	s i tt
+049/061	sitt	1	s i tt
+049/063	sitt	1	s i tt
+049/065	sitt	1	s i tt
+049/067	sitt	1	s i tt
+049/069	sitt	1	s i tt
+049/071	sitt	1	s i tt
+049/073	sitz	1	s i t z
+049/077	sitt	1	s i tt
+049/079	sitt	1	s i tt
+049/081	sint	1	s i n t
+049/083	sitt	1	s i tt
+049/085	sitt	1	s i tt
+049/087	sitz	1	s i t z
+049/089	sitz	1	s i t z
+049/091	sitz	1	s i t z
+049/093	sitz	1	s i t z
+049/095	sitz	1	s i t z
+049/097	sitz	1	s i t z
+049/099	sitz	1	s i t z
+049/101	sitz	1	s i t z
+049/103	sitz	1	s i t z
+049/105	sitz	1	s i t z
+049/107	sitz	1	s i t z
+049/109	sitt	1	s i tt
+049/111	sitz	1	s i t z
+049/113	sitz	1	s i t z
+049/115	sitz	1	s i t z
+049/117	sitz	1	s i t z
+049/119	sitz	1	s i t z
+049/121	sitz	1	s i t z
+049/123	sitz	1	s i t z
+049/125	sitz	1	s i t z
+049/127	sitz	1	s i t z
+049/129	sitz	1	s i t z
+049/131	sitz	1	s i t z
+049/133	sitz	1	s i t z
+049/135	sitz	1	s i t z
+049/137	sitz	1	s i t z
+049/139	sitz	1	s i t z
+049/141	sitz	1	s i t z
+049/143	sitz	1	s i t z
+049/145	sitz	1	s i t z
+049/147	sitz	1	s i t z
+049/151	sitz	1	s i t z
+050/021	sett	1	s e tt
+050/023	sitz	1	s i t z
+050/025	sett	1	s e tt
+050/027	sett	1	s e tt
+050/029	sett	1	s e tt
+050/031	sitt	1	s i tt
+050/033	sitt	1	s i tt
+050/035	siet	1	s ie t
+050/037	sit	1	s i t
+050/039	sitt	1	s i tt
+050/041	sitt	1	s i tt
+050/043	sit	1	s i t
+050/047	sit	1	s i t
+050/049	sitt	1	s i tt
+050/051	sitt	1	s i tt
+050/053	sitt	1	s i tt
+050/055	sitt	1	s i tt
+050/057	sitt	1	s i tt
+050/059	sitt	1	s i tt
+050/061	sitt	1	s i tt
+050/063	sitt	1	s i tt
+050/065	sitt	1	s i tt
+050/067	sitt	1	s i tt
+050/069	sitt	1	s i tt
+050/071	sitt	1	s i tt
+050/073	sitt	1	s i tt
+050/075	sitz	1	s i t z
+050/077	sitt	1	s i tt
+050/079	sitz	1	s i t z
+050/081	sitz	1	s i t z
+050/083	sitt	1	s i tt
+050/085	sitz	1	s i t z
+050/087	sitz	1	s i t z
+050/089	sitz	1	s i t z
+050/091	sitz	1	s i t z
+050/093	sitz	1	s i t z
+050/095	sitz	1	s i t z
+050/097	sitz	1	s i t z
+050/099	sitz	1	s i t z
+050/101	sitz	1	s i t z
+050/103	sizz	1	s i zz
+050/105	sitz	1	s i t z
+050/107	sitz	1	s i t z
+050/109	sitz	1	s i t z
+050/111	sitz	1	s i t z
+050/113	sitz	1	s i t z
+050/115	sitz	1	s i t z
+050/117	sitz	1	s i t z
+050/119	sitz	1	s i t z
+050/121	sitz	1	s i t z
+050/125	sitz	1	s i t z
+050/127	sitz	1	s i t z
+050/129	sitz	1	s i t z
+050/131	sitz	1	s i t z
+050/133	sitz	1	s i t z
+050/135	sitz	1	s i t z
+050/137	sitz	1	s i t z
+050/139	sitz	1	s i t z
+050/141	sitz	1	s i t z
+050/143	sitz	1	s i t z
+050/145	sitz	1	s i t z
+050/147	sitz	1	s i t z
+050/149	sitz	1	s i t z
+050/151	sitz	1	s i t z
+050/155	sitz	1	s i t z
+050/157	sitz	1	s i t z
+050/159	sitz	1	s i t z
+050/161	sitz	1	s i t z
+051/023	sett	1	s e tt
+051/025	sett	1	s e tt
+051/027	sett	1	s e tt
+051/029	sett	1	s e tt
+051/031	sidt	1	s i d t
+051/033	sit	1	s i t
+051/035	sit	1	s i t
+051/037	sitt	1	s i tt
+051/039	sit	1	s i t
+051/041	sitt	1	s i tt
+051/043	sitt	1	s i tt
+051/045	sitt	1	s i tt
+051/047	sitt	1	s i tt
+051/049	sitt	1	s i tt
+051/051	sint	1	s i n t
+051/053	sitt	1	s i tt
+051/055	sitt	1	s i tt
+051/057	sitt	1	s i tt
+051/059	sitt	1	s i tt
+051/061	sit	1	s i t
+051/063	sitt	1	s i tt
+051/065	sitt	1	s i tt
+051/067	sitt	1	s i tt
+051/069	ssitt	1	ss i tt
+051/071	sitt	1	s i tt
+051/073	sitt	1	s i tt
+051/075	sitz	1	s i t z
+051/077	sitt	1	s i tt
+051/079	sitz	1	s i t z
+051/081	sitz	1	s i t z
+051/083	sitz	1	s i t z
+051/085	sitz	1	s i t z
+051/087	sitz	1	s i t z
+051/089	sitz	1	s i t z
+051/091	sitz	1	s i t z
+051/093	sitz	1	s i t z
+051/095	sitz	1	s i t z
+051/097	sitz	1	s i t z
+051/099	sitz	1	s i t z
+051/101	sitz	1	s i t z
+051/103	sitz	1	s i t z
+051/105	sitz	1	s i t z
+051/107	sitz	1	s i t z
+051/109	sitz	1	s i t z
+051/111	sitz	1	s i t z
+051/113	sitz	1	s i t z
+051/115	sitz	1	s i t z
+051/117	sitz	1	s i t z
+051/119	sitz	1	s i t z
+051/121	sitz	1	s i t z
+051/123	sitz	1	s i t z
+051/125	sitz	1	s i t z
+051/127	sitz	1	s i t z
+051/129	sitz	1	s i t z
+051/131	sitz	1	s i t z
+051/133	sitz	1	s i t z
+051/135	sitz	1	s i t z
+051/137	sitz	1	s i t z
+051/139	sitz	1	s i t z
+051/141	sitz	1	s i t z
+051/143	sitz	1	s i t z
+051/145	sitz	1	s i t z
+051/147	sitz	1	s i t z
+051/149	sitz	1	s i t z
+051/151	sitz	1	s i t z
+051/153	sitz	1	s i t z
+051/155	sitz	1	s i t z
+051/157	sitz	1	s i t z
+052/023	sett	1	s e tt
+052/025	sett	1	s e tt
+052/027	sett	1	s e tt
+052/029	sett	1	s e tt
+052/031	sed	1	s e d
+052/033	sit	1	s i t
+052/035	sit	1	s i t
+052/037	sitt	1	s i tt
+052/039	sitt	1	s i tt
+052/041	sit	1	s i t
+052/043	sitt	1	s i tt
+052/045	sitt	1	s i tt
+052/047	ssitt	1	ss i tt
+052/049	sitt	1	s i tt
+052/051	sitt	1	s i tt
+052/053	syd	1	s y d
+052/057	sitt	1	s i tt
+052/059	sett	1	s e tt
+052/061	sitt	1	s i tt
+052/063	sitt	1	s i tt
+052/065	sitt	1	s i tt
+052/067	ssitt	1	ss i tt
+052/069	sitt	1	s i tt
+052/071	ssitt	1	ss i tt
+052/073	sitt	1	s i tt
+052/075	sitz	1	s i t z
+052/077	sitz	1	s i t z
+052/079	sitz	1	s i t z
+052/081	sitz	1	s i t z
+052/083	sitz	1	s i t z
+052/085	sitz	1	s i t z
+052/087	sitz	1	s i t z
+052/089	sitz	1	s i t z
+052/091	sitz	1	s i t z
+052/093	sitz	1	s i t z
+052/095	kauren	1	k au r e n
+052/097	sitz	1	s i t z
+052/099	sitz	1	s i t z
+052/101	sitz	1	s i t z
+052/103	sitz	1	s i t z
+052/105	sitz	1	s i t z
+052/107	sitz	1	s i t z
+052/109	sitz	1	s i t z
+052/111	sitz	1	s i t z
+052/113	sitz	1	s i t z
+052/115	sitz	1	s i t z
+052/117	sitz	1	s i t z
+052/121	sitz	1	s i t z
+052/123	sitz	1	s i t z
+052/125	sitz	1	s i t z
+052/127	sitz	1	s i t z
+052/129	sitz	1	s i t z
+052/131	sitz	1	s i t z
+052/133	sitz	1	s i t z
+052/135	sitz	1	s i t z
+052/137	sitz	1	s i t z
+052/139	sitz	1	s i t z
+052/141	sitz	1	s i t z
+052/143	sitz	1	s i t z
+052/145	sitz	1	s i t z
+052/147	sitz	1	s i t z
+052/149	sitz	1	s i t z
+052/151	sitz	1	s i t z
+052/153	sitz	1	s i t z
+052/155	sitz	1	s i t z
+052/157	sitz	1	s i t z
+052/159	sitz	1	s i t z
+053/023	sitt	1	s i tt
+053/025	sätt	1	s ä tt
+053/027	set	1	s e t
+053/029	sett	1	s e tt
+053/031	sett	1	s e tt
+053/033	sit	1	s i t
+053/035	sitt	1	s i tt
+053/037	sitt	1	s i tt
+053/039	sit	1	s i t
+053/041	sitt	1	s i tt
+053/043	sitt	1	s i tt
+053/045	sitt	1	s i tt
+053/047	sitt	1	s i tt
+053/049	sitt	1	s i tt
+053/051	sitt	1	s i tt
+053/053	sitt	1	s i tt
+053/055	sitt	1	s i tt
+053/057	sitt	1	s i tt
+053/059	sidd	1	s i dd
+053/061	sitt	1	s i tt
+053/063	ssitt	1	ss i tt
+053/065	ssitt	1	ss i tt
+053/067	sitt	1	s i tt
+053/069	sitt	1	s i tt
+053/071	siit	1	s ii t
+053/073	sitt	1	s i tt
+053/075	sitz	1	s i t z
+053/077	sitz	1	s i t z
+053/079	sitz	1	s i t z
+053/081	sitz	1	s i t z
+053/083	sitz	1	s i t z
+053/085	sitz	1	s i t z
+053/087	sitz	1	s i t z
+053/089	sitz	1	s i t z
+053/091	sitz	1	s i t z
+053/093	sitz	1	s i t z
+053/095	sitz	1	s i t z
+053/097	sitz	1	s i t z
+053/099	sitz	1	s i t z
+053/101	sitz	1	s i t z
+053/103	sitz	1	s i t z
+053/105	sitz	1	s i t z
+053/107	sitz	1	s i t z
+053/109	sitz	1	s i t z
+053/111	sitz	1	s i t z
+053/113	sitz	1	s i t z
+053/115	sitz	1	s i t z
+053/121	sitz	1	s i t z
+053/123	sitz	1	s i t z
+053/125	sitz	1	s i t z
+053/127	sitz	1	s i t z
+053/129	sitz	1	s i t z
+053/131	sitz	1	s i t z
+053/133	sitz	1	s i t z
+053/135	sein	1	s ei n
+053/137	sitz	1	s i t z
+053/139	sitz	1	s i t z
+053/141	sitz	1	s i t z
+053/143	sitz	1	s i t z
+053/145	sitz	1	s i t z
+053/147	sitz	1	s i t z
+053/149	sitz	1	s i t z
+053/151	sitz	1	s i t z
+053/153	sitz	1	s i t z
+053/155	sitz	1	s i t z
+053/157	sitz	1	s i t z
+054/023	sett	1	s e tt
+054/025	sett	1	s e tt
+054/027	sett	1	s e tt
+054/029	sett	1	s e tt
+054/031	sett	1	s e tt
+054/033	sett	1	s e tt
+054/035	sitt	1	s i tt
+054/037	sit	1	s i t
+054/039	sitt	1	s i tt
+054/041	sitt	1	s i tt
+054/043	sitt	1	s i tt
+054/045	sitt	1	s i tt
+054/047	sitt	1	s i tt
+054/049	sit	1	s i t
+054/051	sitt	1	s i tt
+054/053	sitt	1	s i tt
+054/055	sitt	1	s i tt
+054/057	sitt	1	s i tt
+054/059	sitt	1	s i tt
+054/061	setz	1	s e t z
+054/063	setz	1	s e t z
+054/065	sitt	1	s i tt
+054/067	sitz	1	s i t z
+054/069	sitz	1	s i t z
+054/071	sitz	1	s i t z
+054/073	sitz	1	s i t z
+054/075	sitz	1	s i t z
+054/077	sitz	1	s i t z
+054/079	sitz	1	s i t z
+054/081	sitz	1	s i t z
+054/083	sitz	1	s i t z
+054/085	sitz	1	s i t z
+054/087	sitz	1	s i t z
+054/089	sitz	1	s i t z
+054/091	sitz	1	s i t z
+054/093	sitz	1	s i t z
+054/095	sitz	1	s i t z
+054/097	sitz	1	s i t z
+054/099	sitz	1	s i t z
+054/101	sitz	1	s i t z
+054/103	sitz	1	s i t z
+054/105	sitz	1	s i t z
+054/107	sitz	1	s i t z
+054/109	sitz	1	s i t z
+054/111	sitz	1	s i t z
+054/113	sitz	1	s i t z
+054/115	sitz	1	s i t z
+054/117	sitz	1	s i t z
+054/119	setz	1	s e t z
+054/121	sitz	1	s i t z
+054/123	sitz	1	s i t z
+054/125	sitz	1	s i t z
+054/127	sitz	1	s i t z
+054/131	sitz	1	s i t z
+054/133	sitz	1	s i t z
+054/135	sitz	1	s i t z
+054/137	sitz	1	s i t z
+054/139	sitz	1	s i t z
+054/141	sitz	1	s i t z
+054/143	sitz	1	s i t z
+054/145	sitz	1	s i t z
+054/147	sitz	1	s i t z
+054/149	sitz	1	s i t z
+054/151	sitz	1	s i t z
+054/153	sitz	1	s i t z
+054/155	sitz	1	s i t z
+054/157	sitz	1	s i t z
+054/159	sitz	1	s i t z
+054/161	sitz	1	s i t z
+054/163	sitt	1	s i tt
+055/023	sett	1	s e tt
+055/025	sett	1	s e tt
+055/027	sett	1	s e tt
+055/029	sett	1	s e tt
+055/031	sett	1	s e tt
+055/033	sett	1	s e tt
+055/035	sid	1	s i d
+055/037	sitt	1	s i tt
+055/039	sitt	1	s i tt
+055/041	sitt	1	s i tt
+055/043	sitt	1	s i tt
+055/045	sitt	1	s i tt
+055/047	sitt	1	s i tt
+055/049	sitt	1	s i tt
+055/051	sitt	1	s i tt
+055/053	sitt	1	s i tt
+055/055	sitt	1	s i tt
+055/057	sitt	1	s i tt
+055/059	sitt	1	s i tt
+055/061	sitz	1	s i t z
+055/063	sitz	1	s i t z
+055/065	sitz	1	s i t z
+055/067	sitz	1	s i t z
+055/069	sitz	1	s i t z
+055/071	sitz	1	s i t z
+055/073	sitz	1	s i t z
+055/075	sitz	1	s i t z
+055/077	sitz	1	s i t z
+055/079	sitz	1	s i t z
+055/081	sötz	1	s ö t z
+055/083	setz	1	s e t z
+055/085	sitz	1	s i t z
+055/087	sitz	1	s i t z
+055/089	sitz	1	s i t z
+055/091	sitz	1	s i t z
+055/093	sitz	1	s i t z
+055/095	sitz	1	s i t z
+055/097	sitz	1	s i t z
+055/099	sitz	1	s i t z
+055/101	sitz	1	s i t z
+055/103	sitz	1	s i t z
+055/105	sätz	1	s ä t z
+055/107	sitz	1	s i t z
+055/109	sitz	1	s i t z
+055/111	sitz	1	s i t z
+055/113	sitz	1	s i t z
+055/115	sitz	1	s i t z
+055/117	setz	1	s e t z
+055/119	sitz	1	s i t z
+055/123	sitz	1	s i t z
+055/125	sitz	1	s i t z
+055/127	sitz	1	s i t z
+055/131	sitz	1	s i t z
+055/133	sitz	1	s i t z
+055/135	sän	1	s ä n
+055/137	sitz	1	s i t z
+055/139	sitz	1	s i t z
+055/141	sitz	1	s i t z
+055/143	sitz	1	s i t z
+055/145	sitz	1	s i t z
+055/147	sitz	1	s i t z
+055/149	sitz	1	s i t z
+055/151	sitz	1	s i t z
+055/153	sitz	1	s i t z
+055/155	sitz	1	s i t z
+055/157	sitz	1	s i t z
+055/159	sitz	1	s i t z
+055/161	sitz	1	s i t z
+056/021	sett	1	s e tt
+056/023	sett	1	s e tt
+056/025	sett	1	s e tt
+056/027	sett	1	s e tt
+056/029	sett	1	s e tt
+056/031	sett	1	s e tt
+056/033	sett	1	s e tt
+056/035	sett	1	s e tt
+056/037	sitt	1	s i tt
+056/039	sitt	1	s i tt
+056/041	sitt	1	s i tt
+056/043	sitt	1	s i tt
+056/045	sitt	1	s i tt
+056/047	sitt	1	s i tt
+056/049	sitt	1	s i tt
+056/051	sitt	1	s i tt
+056/053	sitt	1	s i tt
+056/055	sitt	1	s i tt
+056/057	sitt	1	s i tt
+056/059	setz	1	s e t z
+056/061	setz	1	s e t z
+056/063	setz	1	s e t z
+056/065	sitz	1	s i t z
+056/067	sitz	1	s i t z
+056/069	setz	1	s e t z
+056/071	sitz	1	s i t z
+056/073	sitz	1	s i t z
+056/075	setz	1	s e t z
+056/077	setz	1	s e t z
+056/079	setz	1	s e t z
+056/081	setz	1	s e t z
+056/083	setz	1	s e t z
+056/085	sitz	1	s i t z
+056/087	sitz	1	s i t z
+056/089	sitz	1	s i t z
+056/091	sitz	1	s i t z
+056/093	sitz	1	s i t z
+056/095	setz	1	s e t z
+056/097	sitz	1	s i t z
+056/099	sitz	1	s i t z
+056/101	sitz	1	s i t z
+056/103	sitz	1	s i t z
+056/105	sitz	1	s i t z
+056/107	sitz	1	s i t z
+056/109	sitz	1	s i t z
+056/111	sitz	1	s i t z
+056/113	sitz	1	s i t z
+056/115	setz	1	s e t z
+056/117	sitz	1	s i t z
+056/121	sitz	1	s i t z
+056/123	sitz	1	s i t z
+056/125	sitz	1	s i t z
+056/127	sitz	1	s i t z
+056/129	sitz	1	s i t z
+056/131	sitz	1	s i t z
+056/133	sitz	1	s i t z
+056/135	sitz	1	s i t z
+056/137	sitz	1	s i t z
+056/139	sitz	1	s i t z
+056/141	sitz	1	s i t z
+056/143	sitz	1	s i t z
+056/145	sitz	1	s i t z
+056/147	sitz	1	s i t z
+056/149	sitz	1	s i t z
+056/151	sitz	1	s i t z
+056/153	sitz	1	s i t z
+056/155	sitz	1	s i t z
+056/157	sitz	1	s i t z
+056/159	sitz	1	s i t z
+056/161	sitz	1	s i t z
+057/021	sett	1	s e tt
+057/023	sett	1	s e tt
+057/025	sett	1	s e tt
+057/027	sett	1	s e tt
+057/029	sezz	1	s e zz
+057/031	setz	1	s e t z
+057/033	set	1	s e t
+057/035	sett	1	s e tt
+057/037	sett	1	s e tt
+057/039	sitt	1	s i tt
+057/041	sitt	1	s i tt
+057/043	sitt	1	s i tt
+057/045	sitt	1	s i tt
+057/047	sitt	1	s i tt
+057/049	sitt	1	s i tt
+057/051	sitz	1	s i t z
+057/053	sitt	1	s i tt
+057/055	sitz	1	s i t z
+057/057	sitz	1	s i t z
+057/059	setz	1	s e t z
+057/061	setz	1	s e t z
+057/063	setz	1	s e t z
+057/065	setz	1	s e t z
+057/067	setz	1	s e t z
+057/069	sitz	1	s i t z
+057/071	sitz	1	s i t z
+057/073	setz	1	s e t z
+057/075	sitz	1	s i t z
+057/077	setz	1	s e t z
+057/079	setz	1	s e t z
+057/081	setz	1	s e t z
+057/083	setz	1	s e t z
+057/085	setz	1	s e t z
+057/087	sitz	1	s i t z
+057/089	sitz	1	s i t z
+057/091	sitz	1	s i t z
+057/093	sitz	1	s i t z
+057/095	sitz	1	s i t z
+057/097	sitz	1	s i t z
+057/099	sitz	1	s i t z
+057/101	sitz	1	s i t z
+057/103	sitz	1	s i t z
+057/105	sitz	1	s i t z
+057/107	sitz	1	s i t z
+057/109	sitz	1	s i t z
+057/111	sitz	1	s i t z
+057/113	sitz	1	s i t z
+057/115	sitz	1	s i t z
+057/117	setz	1	s e t z
+057/119	sitz	1	s i t z
+057/121	sitz	1	s i t z
+057/123	sitz	1	s i t z
+057/125	sitz	1	s i t z
+057/127	sitz	1	s i t z
+057/129	sitz	1	s i t z
+057/131	sitz	1	s i t z
+057/133	sitz	1	s i t z
+057/135	sitz	1	s i t z
+057/137	sitz	1	s i t z
+057/139	sitz	1	s i t z
+057/141	sitz	1	s i t z
+057/143	sitz	1	s i t z
+057/145	sitz	1	s i t z
+057/147	sitz	1	s i t z
+057/149	sitz	1	s i t z
+057/151	sitz	1	s i t z
+057/153	sitz	1	s i t z
+057/155	sitz	1	s i t z
+057/157	sitz	1	s i t z
+057/159	sitz	1	s i t z
+057/161	sitz	1	s i t z
+058/019	set	1	s e t
+058/021	sett	1	s e tt
+058/023	sett	1	s e tt
+058/025	setz	1	s e t z
+058/027	setz	1	s e t z
+058/029	setz	1	s e t z
+058/031	setz	1	s e t z
+058/033	setz	1	s e t z
+058/035	setz	1	s e t z
+058/037	sehz	1	s eh z
+058/039	sitt	1	s i tt
+058/041	sitt	1	s i tt
+058/043	sitt	1	s i tt
+058/045	sitt	1	s i tt
+058/047	setz	1	s e t z
+058/049	setz	1	s e t z
+058/051	sitz	1	s i t z
+058/053	setz	1	s e t z
+058/055	setz	1	s e t z
+058/057	setz	1	s e t z
+058/059	setz	1	s e t z
+058/061	setz	1	s e t z
+058/063	setz	1	s e t z
+058/065	setz	1	s e t z
+058/067	setz	1	s e t z
+058/069	setz	1	s e t z
+058/071	sitz	1	s i t z
+058/073	setz	1	s e t z
+058/075	sitz	1	s i t z
+058/077	setz	1	s e t z
+058/079	setz	1	s e t z
+058/081	setz	1	s e t z
+058/083	setz	1	s e t z
+058/085	setz	1	s e t z
+058/087	sitz	1	s i t z
+058/089	sitz	1	s i t z
+058/091	sitz	1	s i t z
+058/093	sitz	1	s i t z
+058/095	sitz	1	s i t z
+058/097	sitz	1	s i t z
+058/099	sitz	1	s i t z
+058/101	sitz	1	s i t z
+058/103	sitz	1	s i t z
+058/105	sitz	1	s i t z
+058/107	sitz	1	s i t z
+058/109	sitz	1	s i t z
+058/111	sitz	1	s i t z
+058/113	sitz	1	s i t z
+058/115	sitz	1	s i t z
+058/117	sitz	1	s i t z
+058/119	sitz	1	s i t z
+058/121	sitz	1	s i t z
+058/123	sitz	1	s i t z
+058/125	sitz	1	s i t z
+058/127	sitz	1	s i t z
+058/129	setz	1	s e t z
+058/131	sitz	1	s i t z
+058/133	sitz	1	s i t z
+058/135	sitz	1	s i t z
+058/137	sitz	1	s i t z
+058/139	sitz	1	s i t z
+058/141	sitz	1	s i t z
+058/143	sitz	1	s i t z
+058/145	sitz	1	s i t z
+058/147	sitz	1	s i t z
+058/149	sitz	1	s i t z
+058/151	sitz	1	s i t z
+058/153	sitz	1	s i t z
+058/155	sitz	1	s i t z
+058/157	sitz	1	s i t z
+058/159	sitz	1	s i t z
+059/019	sitt	1	s i tt
+059/021	sett	1	s e tt
+059/023	setz	1	s e t z
+059/025	sez	1	s e z
+059/027	sez	1	s e z
+059/029	setz	1	s e t z
+059/031	seez	1	s ee z
+059/033	setz	1	s e t z
+059/035	setz	1	s e t z
+059/037	setz	1	s e t z
+059/039	setz	1	s e t z
+059/041	sez	1	s e z
+059/043	setz	1	s e t z
+059/045	setz	1	s e t z
+059/047	setz	1	s e t z
+059/049	setz	1	s e t z
+059/051	setz	1	s e t z
+059/053	setz	1	s e t z
+059/055	setz	1	s e t z
+059/057	setz	1	s e t z
+059/059	setz	1	s e t z
+059/061	sitz	1	s i t z
+059/063	setz	1	s e t z
+059/065	setz	1	s e t z
+059/067	setz	1	s e t z
+059/069	sitz	1	s i t z
+059/071	setz	1	s e t z
+059/073	setz	1	s e t z
+059/075	setzz	1	s e t zz
+059/077	sitz	1	s i t z
+059/079	setz	1	s e t z
+059/081	setz	1	s e t z
+059/083	setz	1	s e t z
+059/085	setz	1	s e t z
+059/087	setz	1	s e t z
+059/089	sitz	1	s i t z
+059/091	sitz	1	s i t z
+059/093	sitz	1	s i t z
+059/095	sitz	1	s i t z
+059/097	sitz	1	s i t z
+059/099	sitz	1	s i t z
+059/101	sitz	1	s i t z
+059/103	sitz	1	s i t z
+059/105	sitz	1	s i t z
+059/107	sidz	1	s i d z
+059/109	sitz	1	s i t z
+059/111	sitz	1	s i t z
+059/113	sitz	1	s i t z
+059/115	sitz	1	s i t z
+059/117	sitz	1	s i t z
+059/119	sitz	1	s i t z
+059/121	sitz	1	s i t z
+059/123	sitz	1	s i t z
+059/125	sitz	1	s i t z
+059/127	sein	1	s ei n
+059/129	setz	1	s e t z
+059/131	sitz	1	s i t z
+059/133	sitz	1	s i t z
+059/135	sitz	1	s i t z
+059/137	sitz	1	s i t z
+059/139	sitz	1	s i t z
+059/141	sitz	1	s i t z
+059/143	sitz	1	s i t z
+059/145	sitz	1	s i t z
+059/147	sitz	1	s i t z
+059/149	sitz	1	s i t z
+059/151	sitz	1	s i t z
+059/153	sitz	1	s i t z
+059/155	sitz	1	s i t z
+059/157	sitz	1	s i t z
+059/159	sitz	1	s i t z
+059/161	sitz	1	s i t z
+059/165	sitz	1	s i t z
+059/169	sitz	1	s i t z
+060/021	setz	1	s e t z
+060/023	sez	1	s e z
+060/025	setz	1	s e t z
+060/027	setz	1	s e t z
+060/029	setz	1	s e t z
+060/031	setz	1	s e t z
+060/033	setz	1	s e t z
+060/035	setz	1	s e t z
+060/037	settz	1	s e tt z
+060/039	seez	1	s ee z
+060/041	setz	1	s e t z
+060/043	setz	1	s e t z
+060/045	sitz	1	s i t z
+060/047	setz	1	s e t z
+060/049	sitz	1	s i t z
+060/051	setz	1	s e t z
+060/053	setz	1	s e t z
+060/055	setz	1	s e t z
+060/057	setz	1	s e t z
+060/059	setz	1	s e t z
+060/061	setz	1	s e t z
+060/063	setz	1	s e t z
+060/065	setz	1	s e t z
+060/067	setz	1	s e t z
+060/069	sätz	1	s ä t z
+060/071	setz	1	s e t z
+060/073	setz	1	s e t z
+060/075	sitz	1	s i t z
+060/077	setz	1	s e t z
+060/079	sitz	1	s i t z
+060/081	setz	1	s e t z
+060/083	setz	1	s e t z
+060/085	setz	1	s e t z
+060/087	sitz	1	s i t z
+060/089	sitz	1	s i t z
+060/091	sitz	1	s i t z
+060/093	sitz	1	s i t z
+060/095	sitz	1	s i t z
+060/097	sitz	1	s i t z
+060/099	sitz	1	s i t z
+060/101	sitz	1	s i t z
+060/103	sitz	1	s i t z
+060/105	sitz	1	s i t z
+060/107	sitz	1	s i t z
+060/109	sitz	1	s i t z
+060/111	sitz	1	s i t z
+060/113	sitz	1	s i t z
+060/115	sitz	1	s i t z
+060/117	sitz	1	s i t z
+060/119	sitz	1	s i t z
+060/121	sitz	1	s i t z
+060/123	sitz	1	s i t z
+060/125	sitz	1	s i t z
+060/127	sötz	1	s ö t z
+060/129	setz	1	s e t z
+060/131	sötz	1	s ö t z
+060/135	sitz	1	s i t z
+060/137	sitz	1	s i t z
+060/139	sitz	1	s i t z
+060/141	sitz	1	s i t z
+060/143	sitz	1	s i t z
+060/145	sitz	1	s i t z
+060/147	sitz	1	s i t z
+060/149	sitz	1	s i t z
+060/151	sitz	1	s i t z
+060/153	sitz	1	s i t z
+060/155	sitz	1	s i t z
+060/157	sitz	1	s i t z
+060/159	sitz	1	s i t z
+060/163	sitz	1	s i t z
+060/165	sitz	1	s i t z
+061/021	sitz	1	s i t z
+061/023	setz	1	s e t z
+061/025	setz	1	s e t z
+061/027	sez	1	s e z
+061/029	setz	1	s e t z
+061/031	setz	1	s e t z
+061/033	sezz	1	s e zz
+061/035	setz	1	s e t z
+061/037	setz	1	s e t z
+061/039	setz	1	s e t z
+061/041	setz	1	s e t z
+061/043	sätz	1	s ä t z
+061/045	setz	1	s e t z
+061/047	sätz	1	s ä t z
+061/049	setz	1	s e t z
+061/051	sitz	1	s i t z
+061/053	setz	1	s e t z
+061/055	sötz	1	s ö t z
+061/057	sitz	1	s i t z
+061/059	sötz	1	s ö t z
+061/061	setz	1	s e t z
+061/063	setz	1	s e t z
+061/065	sitz	1	s i t z
+061/067	setz	1	s e t z
+061/069	setz	1	s e t z
+061/071	sötz	1	s ö t z
+061/073	setz	1	s e t z
+061/075	setz	1	s e t z
+061/077	setz	1	s e t z
+061/079	setz	1	s e t z
+061/081	setz	1	s e t z
+061/083	setz	1	s e t z
+061/085	sitz	1	s i t z
+061/087	sitz	1	s i t z
+061/089	sitz	1	s i t z
+061/091	sitz	1	s i t z
+061/093	sitz	1	s i t z
+061/095	sitz	1	s i t z
+061/097	sitz	1	s i t z
+061/099	sitz	1	s i t z
+061/101	sitz	1	s i t z
+061/103	sitz	1	s i t z
+061/105	setz	1	s e t z
+061/107	sitz	1	s i t z
+061/109	sitz	1	s i t z
+061/111	sitz	1	s i t z
+061/113	sitz	1	s i t z
+061/115	sitz	1	s i t z
+061/117	sitz	1	s i t z
+061/119	sitz	1	s i t z
+061/121	sitz	1	s i t z
+061/123	setz	1	s e t z
+061/125	sitz	1	s i t z
+061/127	sötz	1	s ö t z
+061/129	sitz	1	s i t z
+061/131	sötz	1	s ö t z
+061/133	setz	1	s e t z
+061/137	sitz	1	s i t z
+061/139	sitz	1	s i t z
+061/141	sitz	1	s i t z
+061/143	sitz	1	s i t z
+061/145	sitz	1	s i t z
+061/147	sitz	1	s i t z
+061/149	sizz	1	s i zz
+061/151	sitz	1	s i t z
+061/153	sitz	1	s i t z
+061/155	sitz	1	s i t z
+061/157	sitz	1	s i t z
+061/159	sitz	1	s i t z
+061/161	sitz	1	s i t z
+061/165	sitz	1	s i t z
+062/021	setz	1	s e t z
+062/023	setz	1	s e t z
+062/025	setz	1	s e t z
+062/027	sez	1	s e z
+062/029	setz	1	s e t z
+062/031	setz	1	s e t z
+062/033	setz	1	s e t z
+062/035	setz	1	s e t z
+062/037	setz	1	s e t z
+062/039	setz	1	s e t z
+062/041	setz	1	s e t z
+062/043	setz	1	s e t z
+062/045	sitz	1	s i t z
+062/047	setz	1	s e t z
+062/049	setz	1	s e t z
+062/051	setz	1	s e t z
+062/053	sitz	1	s i t z
+062/055	setz	1	s e t z
+062/057	setz	1	s e t z
+062/059	setz	1	s e t z
+062/061	setz	1	s e t z
+062/063	setz	1	s e t z
+062/065	setz	1	s e t z
+062/067	setz	1	s e t z
+062/069	setz	1	s e t z
+062/071	setz	1	s e t z
+062/073	setz	1	s e t z
+062/075	seetz	1	s ee t z
+062/077	setz	1	s e t z
+062/079	setz	1	s e t z
+062/081	sötz	1	s ö t z
+062/083	setz	1	s e t z
+062/085	setz	1	s e t z
+062/087	sitz	1	s i t z
+062/089	sötz	1	s ö t z
+062/091	sitz	1	s i t z
+062/093	sitz	1	s i t z
+062/095	sitz	1	s i t z
+062/097	sitz	1	s i t z
+062/099	sitz	1	s i t z
+062/101	sitz	1	s i t z
+062/103	setz	1	s e t z
+062/105	sitz	1	s i t z
+062/107	sitz	1	s i t z
+062/109	sitz	1	s i t z
+062/111	sitz	1	s i t z
+062/113	sitz	1	s i t z
+062/115	sitz	1	s i t z
+062/117	sitz	1	s i t z
+062/119	setz	1	s e t z
+062/121	michn	1	m i ch n
+062/123	sitz	1	s i t z
+062/125	sötz	1	s ö t z
+062/127	setz	1	s e t z
+062/129	setz	1	s e t z
+062/131	sötz	1	s ö t z
+062/133	setz	1	s e t z
+062/135	setz	1	s e t z
+062/137	setz	1	s e t z
+062/139	setz	1	s e t z
+062/141	sitz	1	s i t z
+062/143	sitz	1	s i t z
+062/145	sitz	1	s i t z
+062/147	sitz	1	s i t z
+062/149	sitz	1	s i t z
+062/151	sitz	1	s i t z
+062/153	sitz	1	s i t z
+062/155	sitz	1	s i t z
+062/157	sitz	1	s i t z
+062/159	sitz	1	s i t z
+062/161	sitz	1	s i t z
+063/021	sitt	1	s i tt
+063/023	setz	1	s e t z
+063/025	setz	1	s e t z
+063/027	setz	1	s e t z
+063/029	setz	1	s e t z
+063/031	setz	1	s e t z
+063/033	setz	1	s e t z
+063/035	setz	1	s e t z
+063/037	setz	1	s e t z
+063/039	setz	1	s e t z
+063/041	setz	1	s e t z
+063/043	setz	1	s e t z
+063/045	setz	1	s e t z
+063/047	setz	1	s e t z
+063/049	sitz	1	s i t z
+063/051	setz	1	s e t z
+063/053	setz	1	s e t z
+063/055	setz	1	s e t z
+063/057	setz	1	s e t z
+063/059	setz	1	s e t z
+063/061	setz	1	s e t z
+063/063	setz	1	s e t z
+063/065	setz	1	s e t z
+063/067	setz	1	s e t z
+063/069	setz	1	s e t z
+063/071	setz	1	s e t z
+063/073	setz	1	s e t z
+063/075	setz	1	s e t z
+063/077	setz	1	s e t z
+063/079	setz	1	s e t z
+063/081	setz	1	s e t z
+063/083	sötz	1	s ö t z
+063/085	sitz	1	s i t z
+063/087	sitz	1	s i t z
+063/089	sitz	1	s i t z
+063/091	sitz	1	s i t z
+063/093	sitz	1	s i t z
+063/095	sitz	1	s i t z
+063/097	sitz	1	s i t z
+063/099	sitz	1	s i t z
+063/101	sitz	1	s i t z
+063/103	sitz	1	s i t z
+063/105	sitz	1	s i t z
+063/107	sitz	1	s i t z
+063/109	sitz	1	s i t z
+063/111	sitz	1	s i t z
+063/113	sitz	1	s i t z
+063/115	sitz	1	s i t z
+063/117	sitz	1	s i t z
+063/119	sitz	1	s i t z
+063/121	sitz	1	s i t z
+063/123	seinn	1	s ei nn
+063/125	sitz	1	s i t z
+063/127	sitz	1	s i t z
+063/135	setz	1	s e t z
+063/137	setz	1	s e t z
+063/139	setz	1	s e t z
+063/141	setz	1	s e t z
+063/143	setz	1	s e t z
+063/145	sez	1	s e z
+063/147	sitz	1	s i t z
+063/149	sitz	1	s i t z
+063/151	sitz	1	s i t z
+063/153	sitz	1	s i t z
+063/155	sitz	1	s i t z
+063/157	sitz	1	s i t z
+063/159	sitz	1	s i t z
+063/161	setz	1	s e t z
+063/163	sitz	1	s i t z
+063/165	sitz	1	s i t z
+064/023	setz	1	s e t z
+064/025	setz	1	s e t z
+064/027	sez	1	s e z
+064/029	seetz	1	s ee t z
+064/031	setz	1	s e t z
+064/033	sitz	1	s i t z
+064/035	setz	1	s e t z
+064/037	setz	1	s e t z
+064/039	seetz	1	s ee t z
+064/041	setz	1	s e t z
+064/043	sitz	1	s i t z
+064/045	setz	1	s e t z
+064/047	setz	1	s e t z
+064/049	setz	1	s e t z
+064/051	setz	1	s e t z
+064/053	setz	1	s e t z
+064/055	setz	1	s e t z
+064/057	seettz	1	s ee tt z
+064/059	setz	1	s e t z
+064/061	setz	1	s e t z
+064/063	setz	1	s e t z
+064/065	setz	1	s e t z
+064/067	setz	1	s e t z
+064/069	setz	1	s e t z
+064/071	setz	1	s e t z
+064/073	setz	1	s e t z
+064/075	setz	1	s e t z
+064/077	setz	1	s e t z
+064/079	setz	1	s e t z
+064/081	setz	1	s e t z
+064/083	setz	1	s e t z
+064/085	sitz	1	s i t z
+064/087	sitz	1	s i t z
+064/089	sitz	1	s i t z
+064/091	setz	1	s e t z
+064/093	sitz	1	s i t z
+064/095	sitz	1	s i t z
+064/097	sitz	1	s i t z
+064/099	sitz	1	s i t z
+064/101	sitz	1	s i t z
+064/103	sitz	1	s i t z
+064/105	sitz	1	s i t z
+064/107	sitz	1	s i t z
+064/109	sitz	1	s i t z
+064/111	sitz	1	s i t z
+064/113	sitz	1	s i t z
+064/115	sitz	1	s i t z
+064/117	sitz	1	s i t z
+064/119	sitz	1	s i t z
+064/121	sitz	1	s i t z
+064/123	sitz	1	s i t z
+064/125	sitz	1	s i t z
+064/127	setz	1	s e t z
+064/135	setz	1	s e t z
+064/137	setz	1	s e t z
+064/139	setz	1	s e t z
+064/141	setz	1	s e t z
+064/143	setz	1	s e t z
+064/145	setz	1	s e t z
+064/147	setz	1	s e t z
+064/149	sitz	1	s i t z
+064/151	sitz	1	s i t z
+064/153	sitz	1	s i t z
+064/155	sitz	1	s i t z
+064/157	sitz	1	s i t z
+064/159	sitz	1	s i t z
+065/021	setz	1	s e t z
+065/023	sez	1	s e z
+065/025	setz	1	s e t z
+065/027	setz	1	s e t z
+065/029	setz	1	s e t z
+065/031	setz	1	s e t z
+065/033	setz	1	s e t z
+065/035	setz	1	s e t z
+065/037	setz	1	s e t z
+065/039	setz	1	s e t z
+065/041	setz	1	s e t z
+065/043	setz	1	s e t z
+065/045	setz	1	s e t z
+065/047	setz	1	s e t z
+065/049	setz	1	s e t z
+065/051	setz	1	s e t z
+065/053	sitz	1	s i t z
+065/055	setz	1	s e t z
+065/057	setz	1	s e t z
+065/059	setz	1	s e t z
+065/061	setz	1	s e t z
+065/063	setz	1	s e t z
+065/065	setz	1	s e t z
+065/067	setz	1	s e t z
+065/069	setz	1	s e t z
+065/071	setz	1	s e t z
+065/073	setz	1	s e t z
+065/075	setz	1	s e t z
+065/077	sitz	1	s i t z
+065/079	sitz	1	s i t z
+065/081	sitz	1	s i t z
+065/083	setz	1	s e t z
+065/085	sitz	1	s i t z
+065/087	sitz	1	s i t z
+065/089	sitz	1	s i t z
+065/091	sitz	1	s i t z
+065/093	sitz	1	s i t z
+065/095	sitz	1	s i t z
+065/097	siz	1	s i z
+065/101	sitz	1	s i t z
+065/103	sitz	1	s i t z
+065/105	sitz	1	s i t z
+065/107	sitz	1	s i t z
+065/109	sitz	1	s i t z
+065/111	sitz	1	s i t z
+065/113	sitz	1	s i t z
+065/115	sitz	1	s i t z
+065/121	sitz	1	s i t z
+065/123	sitz	1	s i t z
+065/137	sitz	1	s i t z
+065/139	setz	1	s e t z
+065/143	setz	1	s e t z
+065/145	setz	1	s e t z
+065/147	sitz	1	s i t z
+065/149	setz	1	s e t z
+065/151	setz	1	s e t z
+065/153	sitz	1	s i t z
+065/155	sitz	1	s i t z
+065/157	sitz	1	s i t z
+065/159	sitz	1	s i t z
+066/021	setz	1	s e t z
+066/023	setz	1	s e t z
+066/025	setz	1	s e t z
+066/027	setz	1	s e t z
+066/029	sitz	1	s i t z
+066/031	setz	1	s e t z
+066/033	setz	1	s e t z
+066/035	setz	1	s e t z
+066/037	setz	1	s e t z
+066/039	setz	1	s e t z
+066/041	setz	1	s e t z
+066/043	setz	1	s e t z
+066/045	sitz	1	s i t z
+066/047	setz	1	s e t z
+066/049	setz	1	s e t z
+066/051	seatz	1	s ea t z
+066/053	setz	1	s e t z
+066/055	sedz	1	s e d z
+066/057	setz	1	s e t z
+066/059	setz	1	s e t z
+066/061	setz	1	s e t z
+066/063	setz	1	s e t z
+066/065	setz	1	s e t z
+066/067	sitz	1	s i t z
+066/069	sitz	1	s i t z
+066/071	sitz	1	s i t z
+066/073	sitz	1	s i t z
+066/075	setz	1	s e t z
+066/077	sitz	1	s i t z
+066/079	sitz	1	s i t z
+066/081	sitz	1	s i t z
+066/083	sitz	1	s i t z
+066/085	sitz	1	s i t z
+066/087	sitz	1	s i t z
+066/089	sitz	1	s i t z
+066/091	sitz	1	s i t z
+066/093	sitz	1	s i t z
+066/095	sitz	1	s i t z
+066/097	sitz	1	s i t z
+066/099	sitz	1	s i t z
+066/101	sitz	1	s i t z
+066/103	sitz	1	s i t z
+066/105	sitz	1	s i t z
+066/107	sitz	1	s i t z
+066/109	sitz	1	s i t z
+066/111	sitz	1	s i t z
+066/113	sitz	1	s i t z
+066/121	sitz	1	s i t z
+066/139	seetz	1	s ee t z
+066/143	setz	1	s e t z
+066/145	setz	1	s e t z
+066/147	setz	1	s e t z
+066/149	setz	1	s e t z
+066/151	setz	1	s e t z
+066/153	sez	1	s e z
+066/155	setz	1	s e t z
+066/157	setz	1	s e t z
+066/159	sitz	1	s i t z
+066/161	setz	1	s e t z
+066/163	sitz	1	s i t z
+067/021	setz	1	s e t z
+067/023	setz	1	s e t z
+067/025	sötz	1	s ö t z
+067/027	setz	1	s e t z
+067/029	setz	1	s e t z
+067/031	setz	1	s e t z
+067/033	setz	1	s e t z
+067/035	setz	1	s e t z
+067/037	setz	1	s e t z
+067/039	sitz	1	s i t z
+067/041	setz	1	s e t z
+067/043	sitz	1	s i t z
+067/045	sitz	1	s i t z
+067/047	sitz	1	s i t z
+067/049	sitz	1	s i t z
+067/051	setz	1	s e t z
+067/053	setz	1	s e t z
+067/055	sezz	1	s e zz
+067/057	setz	1	s e t z
+067/059	setz	1	s e t z
+067/061	setz	1	s e t z
+067/063	setz	1	s e t z
+067/065	setz	1	s e t z
+067/067	sitz	1	s i t z
+067/069	sitz	1	s i t z
+067/071	setz	1	s e t z
+067/073	sitz	1	s i t z
+067/075	sitz	1	s i t z
+067/077	sitz	1	s i t z
+067/079	sitz	1	s i t z
+067/081	sitz	1	s i t z
+067/083	sitz	1	s i t z
+067/085	sitz	1	s i t z
+067/087	sitz	1	s i t z
+067/089	sitz	1	s i t z
+067/091	sitz	1	s i t z
+067/093	sitz	1	s i t z
+067/095	sitz	1	s i t z
+067/097	sitz	1	s i t z
+067/099	sitz	1	s i t z
+067/101	sitz	1	s i t z
+067/103	sitz	1	s i t z
+067/105	sitz	1	s i t z
+067/107	sitz	1	s i t z
+067/109	sitz	1	s i t z
+067/111	sitz	1	s i t z
+067/113	sitz	1	s i t z
+067/143	setz	1	s e t z
+067/145	setz	1	s e t z
+067/147	sitz	1	s i t z
+067/149	setz	1	s e t z
+067/151	setz	1	s e t z
+067/153	setz	1	s e t z
+067/155	setz	1	s e t z
+067/157	setz	1	s e t z
+067/159	setz	1	s e t z
+067/161	setz	1	s e t z
+067/163	setz	1	s e t z
+067/165	setz	1	s e t z
+067/177	sitz	1	s i t z
+068/021	setz	1	s e t z
+068/023	setz	1	s e t z
+068/025	setz	1	s e t z
+068/027	setz	1	s e t z
+068/029	seetz	1	s ee t z
+068/031	sötz	1	s ö t z
+068/033	setz	1	s e t z
+068/035	setz	1	s e t z
+068/037	setz	1	s e t z
+068/039	sötz	1	s ö t z
+068/041	sitz	1	s i t z
+068/043	setz	1	s e t z
+068/045	sitz	1	s i t z
+068/047	setz	1	s e t z
+068/049	sitz	1	s i t z
+068/051	setz	1	s e t z
+068/053	setz	1	s e t z
+068/055	setz	1	s e t z
+068/057	setz	1	s e t z
+068/059	sedz	1	s e d z
+068/061	setz	1	s e t z
+068/063	seitz	1	s ei t z
+068/065	setz	1	s e t z
+068/067	sitz	1	s i t z
+068/069	sitz	1	s i t z
+068/071	sitz	1	s i t z
+068/073	sitz	1	s i t z
+068/075	sitz	1	s i t z
+068/077	sitz	1	s i t z
+068/079	sitz	1	s i t z
+068/081	sitz	1	s i t z
+068/083	sitz	1	s i t z
+068/085	sitz	1	s i t z
+068/087	sitz	1	s i t z
+068/089	sitz	1	s i t z
+068/091	sitz	1	s i t z
+068/093	sitz	1	s i t z
+068/095	hockng	1	h o ck ng
+068/097	siz	1	s i z
+068/099	sitz	1	s i t z
+068/101	sitz	1	s i t z
+068/103	sitz	1	s i t z
+068/105	sitz	1	s i t z
+068/107	sitz	1	s i t z
+068/109	sitz	1	s i t z
+068/111	sitz	1	s i t z
+068/145	setz	1	s e t z
+068/147	setz	1	s e t z
+068/149	sitz	1	s i t z
+068/151	setz	1	s e t z
+068/153	setz	1	s e t z
+068/155	setz	1	s e t z
+068/157	setz	1	s e t z
+068/159	setz	1	s e t z
+068/161	setz	1	s e t z
+068/165	sitz	1	s i t z
+069/019	setz	1	s e t z
+069/023	setz	1	s e t z
+069/025	setz	1	s e t z
+069/027	sez	1	s e z
+069/029	setz	1	s e t z
+069/031	setz	1	s e t z
+069/033	setz	1	s e t z
+069/035	setz	1	s e t z
+069/037	sitz	1	s i t z
+069/039	setz	1	s e t z
+069/041	sitz	1	s i t z
+069/043	sitz	1	s i t z
+069/045	sitz	1	s i t z
+069/047	sitz	1	s i t z
+069/049	setz	1	s e t z
+069/051	sitz	1	s i t z
+069/053	sitz	1	s i t z
+069/055	setz	1	s e t z
+069/057	setz	1	s e t z
+069/059	setz	1	s e t z
+069/061	setz	1	s e t z
+069/063	setz	1	s e t z
+069/065	sitz	1	s i t z
+069/067	sitz	1	s i t z
+069/069	sitz	1	s i t z
+069/071	sitz	1	s i t z
+069/073	sitz	1	s i t z
+069/075	sitz	1	s i t z
+069/077	sitz	1	s i t z
+069/079	sitz	1	s i t z
+069/081	sitz	1	s i t z
+069/083	sitz	1	s i t z
+069/085	sitz	1	s i t z
+069/087	sitz	1	s i t z
+069/089	sitz	1	s i t z
+069/091	sitz	1	s i t z
+069/093	sitz	1	s i t z
+069/095	sitz	1	s i t z
+069/097	sitz	1	s i t z
+069/099	sitz	1	s i t z
+069/101	sitz	1	s i t z
+069/103	sitz	1	s i t z
+069/105	sitz	1	s i t z
+069/107	sitz	1	s i t z
+069/109	sitz	1	s i t z
+069/111	sitz	1	s i t z
+069/147	setz	1	s e t z
+069/149	setz	1	s e t z
+069/151	setz	1	s e t z
+069/153	setz	1	s e t z
+069/157	setz	1	s e t z
+069/159	setz	1	s e t z
+069/161	setz	1	s e t z
+069/163	setz	1	s e t z
+069/165	sitz	1	s i t z
+070/019	setz	1	s e t z
+070/023	setz	1	s e t z
+070/025	setz	1	s e t z
+070/027	setz	1	s e t z
+070/029	setz	1	s e t z
+070/031	setz	1	s e t z
+070/033	setz	1	s e t z
+070/035	setz	1	s e t z
+070/037	setz	1	s e t z
+070/039	sitz	1	s i t z
+070/041	sitz	1	s i t z
+070/043	hocke	1	h o ck e
+070/045	siz	1	s i z
+070/047	sitz	1	s i t z
+070/049	sitz	1	s i t z
+070/051	sitz	1	s i t z
+070/053	setz	1	s e t z
+070/055	sitz	1	s i t z
+070/057	setz	1	s e t z
+070/059	setz	1	s e t z
+070/061	setz	1	s e t z
+070/063	sitz	1	s i t z
+070/065	sitz	1	s i t z
+070/067	sitz	1	s i t z
+070/069	sitz	1	s i t z
+070/071	sitz	1	s i t z
+070/073	sitz	1	s i t z
+070/075	sitz	1	s i t z
+070/077	sitz	1	s i t z
+070/079	sitz	1	s i t z
+070/081	sitz	1	s i t z
+070/083	sitz	1	s i t z
+070/085	sitz	1	s i t z
+070/087	sitz	1	s i t z
+070/089	sitz	1	s i t z
+070/091	siz	1	s i z
+070/093	sitz	1	s i t z
+070/095	sitz	1	s i t z
+070/097	sitz	1	s i t z
+070/099	sitz	1	s i t z
+070/101	sitz	1	s i t z
+070/103	sitz	1	s i t z
+070/105	sitz	1	s i t z
+070/107	sitz	1	s i t z
+070/109	sitz	1	s i t z
+070/111	sitz	1	s i t z
+070/145	setz	1	s e t z
+070/147	setz	1	s e t z
+070/149	setz	1	s e t z
+070/151	setz	1	s e t z
+070/153	setz	1	s e t z
+070/155	sets	1	s e t s
+070/157	setz	1	s e t z
+070/159	setz	1	s e t z
+070/161	setz	1	s e t z
+070/163	setz	1	s e t z
+070/165	setz	1	s e t z
+071/017	setz	1	s e t z
+071/019	setz	1	s e t z
+071/021	setz	1	s e t z
+071/023	setz	1	s e t z
+071/025	seetz	1	s ee t z
+071/027	seetz	1	s ee t z
+071/029	setz	1	s e t z
+071/031	setz	1	s e t z
+071/033	setz	1	s e t z
+071/035	sitz	1	s i t z
+071/037	sitz	1	s i t z
+071/039	sitz	1	s i t z
+071/041	sitz	1	s i t z
+071/043	sitz	1	s i t z
+071/045	sitz	1	s i t z
+071/047	sitz	1	s i t z
+071/049	sitz	1	s i t z
+071/051	sitz	1	s i t z
+071/053	setz	1	s e t z
+071/055	sitz	1	s i t z
+071/057	setz	1	s e t z
+071/059	setz	1	s e t z
+071/063	sitz	1	s i t z
+071/065	sitz	1	s i t z
+071/067	sitz	1	s i t z
+071/069	sitz	1	s i t z
+071/071	sitz	1	s i t z
+071/073	sitz	1	s i t z
+071/075	sitz	1	s i t z
+071/077	sitz	1	s i t z
+071/079	sitz	1	s i t z
+071/081	sitz	1	s i t z
+071/083	hockn	1	h o ck n
+071/085	sitz	1	s i t z
+071/087	sitz	1	s i t z
+071/089	sitz	1	s i t z
+071/091	sitz	1	s i t z
+071/093	sitz	1	s i t z
+071/095	sitz	1	s i t z
+071/097	sitz	1	s i t z
+071/099	sitz	1	s i t z
+071/101	sitz	1	s i t z
+071/103	sitz	1	s i t z
+071/105	sitz	1	s i t z
+071/145	setz	1	s e t z
+071/147	setz	1	s e t z
+071/149	setz	1	s e t z
+071/151	setz	1	s e t z
+071/153	setz	1	s e t z
+071/155	sitz	1	s i t z
+071/157	setz	1	s e t z
+071/159	setz	1	s e t z
+071/161	setz	1	s e t z
+071/163	sitz	1	s i t z
+071/177	sitz	1	s i t z
+071/179	sitz	1	s i t z
+072/017	setz	1	s e t z
+072/019	setz	1	s e t z
+072/021	setz	1	s e t z
+072/023	setz	1	s e t z
+072/025	setz	1	s e t z
+072/027	setz	1	s e t z
+072/029	setz	1	s e t z
+072/031	setz	1	s e t z
+072/033	sitz	1	s i t z
+072/035	setz	1	s e t z
+072/037	sitz	1	s i t z
+072/039	sitz	1	s i t z
+072/041	sitz	1	s i t z
+072/043	sitz	1	s i t z
+072/045	sitz	1	s i t z
+072/047	hocke	1	h o ck e
+072/049	sitz	1	s i t z
+072/051	sizz	1	s i zz
+072/053	sitz	1	s i t z
+072/055	sitz	1	s i t z
+072/057	sitz	1	s i t z
+072/059	sitz	1	s i t z
+072/061	sitz	1	s i t z
+072/063	sitz	1	s i t z
+072/065	sitz	1	s i t z
+072/067	sitz	1	s i t z
+072/069	sitz	1	s i t z
+072/071	sitz	1	s i t z
+072/073	sitz	1	s i t z
+072/075	sitz	1	s i t z
+072/077	sitz	1	s i t z
+072/079	sitz	1	s i t z
+072/081	sitz	1	s i t z
+072/083	sitz	1	s i t z
+072/085	sitz	1	s i t z
+072/087	sitz	1	s i t z
+072/089	sitz	1	s i t z
+072/091	sitz	1	s i t z
+072/093	sitz	1	s i t z
+072/095	sitz	1	s i t z
+072/097	sitz	1	s i t z
+072/099	sitz	1	s i t z
+072/101	sitz	1	s i t z
+072/103	sitz	1	s i t z
+072/105	sitz	1	s i t z
+072/107	sitz	1	s i t z
+072/145	sitz	1	s i t z
+072/147	setz	1	s e t z
+072/149	sitz	1	s i t z
+072/151	sitz	1	s i t z
+072/153	setz	1	s e t z
+072/155	sitz	1	s i t z
+072/157	setz	1	s e t z
+072/159	setz	1	s e t z
+072/161	setz	1	s e t z
+072/177	setz	1	s e t z
+072/179	siz	1	s i z
+072/181	sitz	1	s i t z
+073/017	setz	1	s e t z
+073/019	jetz	1	j e t z
+073/021	setz	1	s e t z
+073/023	setz	1	s e t z
+073/025	setz	1	s e t z
+073/027	sötz	1	s ö t z
+073/029	sötz	1	s ö t z
+073/031	setz	1	s e t z
+073/033	setz	1	s e t z
+073/035	setz	1	s e t z
+073/037	sitz	1	s i t z
+073/039	sitz	1	s i t z
+073/041	sitz	1	s i t z
+073/043	sitz	1	s i t z
+073/045	sitz	1	s i t z
+073/047	sitz	1	s i t z
+073/049	sitz	1	s i t z
+073/051	sitz	1	s i t z
+073/053	sitz	1	s i t z
+073/055	sitz	1	s i t z
+073/057	sitz	1	s i t z
+073/059	sitz	1	s i t z
+073/061	sitz	1	s i t z
+073/063	sitz	1	s i t z
+073/065	sitz	1	s i t z
+073/067	sitz	1	s i t z
+073/069	sitz	1	s i t z
+073/071	satz	1	s a t z
+073/073	satz	1	s a t z
+073/075	sitz	1	s i t z
+073/077	sitz	1	s i t z
+073/079	sitz	1	s i t z
+073/081	sitz	1	s i t z
+073/083	sitz	1	s i t z
+073/085	sitz	1	s i t z
+073/087	sitz	1	s i t z
+073/089	sitz	1	s i t z
+073/091	sitz	1	s i t z
+073/093	sitz	1	s i t z
+073/095	sitz	1	s i t z
+073/097	sitz	1	s i t z
+073/099	sitz	1	s i t z
+073/101	sitz	1	s i t z
+073/103	sitz	1	s i t z
+073/105	sitz	1	s i t z
+073/107	sitz	1	s i t z
+073/145	sitz	1	s i t z
+073/147	siz	1	s i z
+073/149	sitz	1	s i t z
+073/151	sitz	1	s i t z
+073/153	sitz	1	s i t z
+073/155	setz	1	s e t z
+073/157	setz	1	s e t z
+073/159	säetz	1	s äe t z
+073/161	setz	1	s e t z
+073/163	sitz	1	s i t z
+073/165	setz	1	s e t z
+073/175	sitz	1	s i t z
+073/177	sitz	1	s i t z
+074/019	sietz	1	s ie t z
+074/021	setz	1	s e t z
+074/023	setz	1	s e t z
+074/025	setz	1	s e t z
+074/027	setz	1	s e t z
+074/029	setz	1	s e t z
+074/031	setz	1	s e t z
+074/033	setz	1	s e t z
+074/035	sitz	1	s i t z
+074/037	sitz	1	s i t z
+074/039	sitz	1	s i t z
+074/041	sitz	1	s i t z
+074/043	sitz	1	s i t z
+074/045	sitz	1	s i t z
+074/047	hokken	1	h o kk e n
+074/049	sitz	1	s i t z
+074/051	sitz	1	s i t z
+074/053	sitz	1	s i t z
+074/055	sitz	1	s i t z
+074/057	sitz	1	s i t z
+074/059	sitz	1	s i t z
+074/061	sitz	1	s i t z
+074/063	sitz	1	s i t z
+074/065	sitz	1	s i t z
+074/067	satz	1	s a t z
+074/069	satz	1	s a t z
+074/071	hockn	1	h o ck n
+074/073	sitz	1	s i t z
+074/075	sitz	1	s i t z
+074/077	sitz	1	s i t z
+074/079	sätz	1	s ä t z
+074/081	sitz	1	s i t z
+074/083	sitz	1	s i t z
+074/085	sitz	1	s i t z
+074/087	sitz	1	s i t z
+074/089	sitz	1	s i t z
+074/091	sitz	1	s i t z
+074/093	sitz	1	s i t z
+074/095	sitz	1	s i t z
+074/097	sitz	1	s i t z
+074/099	sitz	1	s i t z
+074/101	sitz	1	s i t z
+074/103	sitz	1	s i t z
+074/105	sitz	1	s i t z
+074/107	sitz	1	s i t z
+074/109	san	1	s a n
+074/145	sitz	1	s i t z
+074/147	sitz	1	s i t z
+074/149	sitz	1	s i t z
+074/153	sitz	1	s i t z
+074/155	sitz	1	s i t z
+074/157	setz	1	s e t z
+074/159	setz	1	s e t z
+074/161	säiz	1	s äi z
+074/163	sötz	1	s ö t z
+074/165	setz	1	s e t z
+075/019	setz	1	s e t z
+075/021	setz	1	s e t z
+075/023	setz	1	s e t z
+075/025	setz	1	s e t z
+075/027	setz	1	s e t z
+075/029	setz	1	s e t z
+075/031	setz	1	s e t z
+075/033	hucke	1	h u ck e
+075/035	sitz	1	s i t z
+075/037	setz	1	s e t z
+075/039	sitz	1	s i t z
+075/041	sitz	1	s i t z
+075/043	sitz	1	s i t z
+075/045	sitz	1	s i t z
+075/047	sidds	1	s i dd s
+075/049	sitz	1	s i t z
+075/051	hocke	1	h o ck e
+075/053	sitz	1	s i t z
+075/055	sitz	1	s i t z
+075/057	sitz	1	s i t z
+075/059	sitz	1	s i t z
+075/061	sitz	1	s i t z
+075/063	sitz	1	s i t z
+075/065	sitz	1	s i t z
+075/067	sitz	1	s i t z
+075/069	satz	1	s a t z
+075/071	satz	1	s a t z
+075/073	sätz	1	s ä t z
+075/075	setz	1	s e t z
+075/077	sitz	1	s i t z
+075/079	sitz	1	s i t z
+075/081	hokn	1	h o k n
+075/083	sitz	1	s i t z
+075/085	sitz	1	s i t z
+075/087	sitz	1	s i t z
+075/089	sitz	1	s i t z
+075/091	sitz	1	s i t z
+075/093	sitz	1	s i t z
+075/095	sitz	1	s i t z
+075/097	sitz	1	s i t z
+075/099	sitz	1	s i t z
+075/101	sitz	1	s i t z
+075/103	sitz	1	s i t z
+075/105	sitz	1	s i t z
+075/107	sitz	1	s i t z
+075/135	sic	1	s i c
+075/145	sitz	1	s i t z
+075/147	sitz	1	s i t z
+075/149	sitz	1	s i t z
+075/155	sitz	1	s i t z
+075/157	setz	1	s e t z
+075/159	setz	1	s e t z
+075/161	sez	1	s e z
+075/163	setz	1	s e t z
+075/165	sain	1	s ai n
+076/019	setz	1	s e t z
+076/021	setz	1	s e t z
+076/023	setz	1	s e t z
+076/025	setz	1	s e t z
+076/027	setz	1	s e t z
+076/029	sez	1	s e z
+076/033	setz	1	s e t z
+076/035	setz	1	s e t z
+076/037	sitz	1	s i t z
+076/039	sitz	1	s i t z
+076/041	sitz	1	s i t z
+076/043	sitz	1	s i t z
+076/045	sitz	1	s i t z
+076/047	sitz	1	s i t z
+076/049	sitz	1	s i t z
+076/051	sitz	1	s i t z
+076/053	sitz	1	s i t z
+076/055	sitz	1	s i t z
+076/057	sitz	1	s i t z
+076/059	sitz	1	s i t z
+076/061	sitz	1	s i t z
+076/063	sitz	1	s i t z
+076/065	sitz	1	s i t z
+076/067	setz	1	s e t z
+076/069	satz	1	s a t z
+076/071	setz	1	s e t z
+076/073	hockn	1	h o ck n
+076/075	hockng	1	h o ck ng
+076/077	hokkn	1	h o kk n
+076/079	sitz	1	s i t z
+076/081	sitz	1	s i t z
+076/083	sitz	1	s i t z
+076/085	sitz	1	s i t z
+076/087	sitz	1	s i t z
+076/089	sitz	1	s i t z
+076/091	sitz	1	s i t z
+076/093	sitz	1	s i t z
+076/095	sitz	1	s i t z
+076/097	sitz	1	s i t z
+076/099	sitz	1	s i t z
+076/101	sitz	1	s i t z
+076/103	sitz	1	s i t z
+076/135	sitz	1	s i t z
+076/137	sitz	1	s i t z
+076/149	setz	1	s e t z
+076/151	setz	1	s e t z
+076/155	sitz	1	s i t z
+076/161	setz	1	s e t z
+076/163	setz	1	s e t z
+076/165	setz	1	s e t z
+077/019	setz	1	s e t z
+077/021	setz	1	s e t z
+077/023	setz	1	s e t z
+077/025	setz	1	s e t z
+077/027	setz	1	s e t z
+077/029	setz	1	s e t z
+077/031	sedz	1	s e d z
+077/033	sitz	1	s i t z
+077/035	setz	1	s e t z
+077/037	sitz	1	s i t z
+077/039	sitz	1	s i t z
+077/041	sitz	1	s i t z
+077/043	hocken	1	h o ck e n
+077/047	sitz	1	s i t z
+077/049	sitz	1	s i t z
+077/051	sitz	1	s i t z
+077/053	hocke	1	h o ck e
+077/055	sitz	1	s i t z
+077/057	sitz	1	s i t z
+077/059	hogge	1	h o gg e
+077/061	sitz	1	s i t z
+077/063	sitz	1	s i t z
+077/065	setz	1	s e t z
+077/067	hocka	1	h o ck a
+077/069	hogga	1	h o gg a
+077/071	sitz	1	s i t z
+077/073	sitz	1	s i t z
+077/075	hockng	1	h o ck ng
+077/077	sitz	1	s i t z
+077/079	sitz	1	s i t z
+077/081	sitz	1	s i t z
+077/083	sitz	1	s i t z
+077/085	sitz	1	s i t z
+077/087	hockn	1	h o ck n
+077/089	sitz	1	s i t z
+077/091	sitz	1	s i t z
+077/093	sitz	1	s i t z
+077/095	sitz	1	s i t z
+077/097	sitz	1	s i t z
+077/099	sitz	1	s i t z
+077/101	sitz	1	s i t z
+077/103	sitz	1	s i t z
+077/135	sitz	1	s i t z
+077/137	sitz	1	s i t z
+078/021	setz	1	s e t z
+078/023	setz	1	s e t z
+078/025	setz	1	s e t z
+078/027	setz	1	s e t z
+078/029	setz	1	s e t z
+078/031	sitz	1	s i t z
+078/033	sitz	1	s i t z
+078/035	sitz	1	s i t z
+078/037	hocke	1	h o ck e
+078/039	sitz	1	s i t z
+078/041	hocke	1	h o ck e
+078/045	sitz	1	s i t z
+078/047	sitz	1	s i t z
+078/049	hocken	1	h o ck e n
+078/051	sitz	1	s i t z
+078/053	sitz	1	s i t z
+078/055	sitz	1	s i t z
+078/057	sitz	1	s i t z
+078/059	sitz	1	s i t z
+078/061	sitz	1	s i t z
+078/063	sitz	1	s i t z
+078/065	saatz	1	s aa t z
+078/067	sätz	1	s ä t z
+078/069	sitz	1	s i t z
+078/071	setz	1	s e t z
+078/073	sitz	1	s i t z
+078/075	hokn	1	h o k n
+078/077	hocken	1	h o ck e n
+078/079	hocken	1	h o ck e n
+078/081	sitz	1	s i t z
+078/083	hockn	1	h o ck n
+078/085	sitz	1	s i t z
+078/087	sitz	1	s i t z
+078/089	sitz	1	s i t z
+078/091	sitz	1	s i t z
+078/093	sitz	1	s i t z
+078/095	sitz	1	s i t z
+078/097	siz	1	s i z
+078/099	sitz	1	s i t z
+078/101	sitz	1	s i t z
+078/103	sitz	1	s i t z
+078/105	sitz	1	s i t z
+078/135	sitz	1	s i t z
+078/193	sitz	1	s i t z
+079/021	setz	1	s e t z
+079/023	setz	1	s e t z
+079/025	setz	1	s e t z
+079/027	setz	1	s e t z
+079/029	setz	1	s e t z
+079/031	sitz	1	s i t z
+079/033	hucke	1	h u ck e
+079/035	hukt	1	h u k t
+079/037	sitz	1	s i t z
+079/039	sitz	1	s i t z
+079/043	sitz	1	s i t z
+079/045	sitz	1	s i t z
+079/047	hogn	1	h o g n
+079/049	sitz	1	s i t z
+079/051	sitz	1	s i t z
+079/053	sitz	1	s i t z
+079/055	sitz	1	s i t z
+079/057	sitz	1	s i t z
+079/059	sitz	1	s i t z
+079/061	sätz	1	s ä t z
+079/063	sätz	1	s ä t z
+079/065	hocka	1	h o ck a
+079/067	sez	1	s e z
+079/069	sätz	1	s ä t z
+079/071	sätz	1	s ä t z
+079/073	hockng	1	h o ck ng
+079/075	hockn	1	h o ck n
+079/077	setz	1	s e t z
+079/079	hockn	1	h o ck n
+079/081	hocken	1	h o ck e n
+079/083	hockn	1	h o ck n
+079/085	sitz	1	s i t z
+079/087	sitz	1	s i t z
+079/089	sitz	1	s i t z
+079/091	sitz	1	s i t z
+079/093	sitz	1	s i t z
+079/095	sitz	1	s i t z
+079/097	sitz	1	s i t z
+079/099	sitz	1	s i t z
+079/101	sitz	1	s i t z
+079/103	sitz	1	s i t z
+079/105	sitz	1	s i t z
+079/107	sitz	1	s i t z
+079/133	sitz	1	s i t z
+079/135	sitz	1	s i t z
+079/193	setz	1	s e t z
+079/195	sätz	1	s ä t z
+079/197	sätz	1	s ä t z
+080/025	sötz	1	s ö t z
+080/027	setz	1	s e t z
+080/029	sitz	1	s i t z
+080/031	sitz	1	s i t z
+080/033	sitz	1	s i t z
+080/035	sitz	1	s i t z
+080/037	sitz	1	s i t z
+080/039	sitz	1	s i t z
+080/041	sitz	1	s i t z
+080/043	sitz	1	s i t z
+080/045	sitz	1	s i t z
+080/047	hocken	1	h o ck e n
+080/049	sitz	1	s i t z
+080/051	sitz	1	s i t z
+080/053	sitz	1	s i t z
+080/055	sitz	1	s i t z
+080/057	sitz	1	s i t z
+080/059	siz	1	s i z
+080/061	sitz	1	s i t z
+080/063	setz	1	s e t z
+080/065	sitz	1	s i t z
+080/067	hogga	1	h o gg a
+080/069	sätz	1	s ä t z
+080/071	hocka	1	h o ck a
+080/073	sitz	1	s i t z
+080/075	sitz	1	s i t z
+080/077	setz	1	s e t z
+080/079	hockn	1	h o ck n
+080/081	setz	1	s e t z
+080/083	sitz	1	s i t z
+080/085	sitz	1	s i t z
+080/087	sitz	1	s i t z
+080/089	sitz	1	s i t z
+080/091	sitz	1	s i t z
+080/093	hoka	1	h o k a
+080/095	sitz	1	s i t z
+080/097	sitz	1	s i t z
+080/099	sitz	1	s i t z
+080/101	sitz	1	s i t z
+080/103	sitz	1	s i t z
+080/105	sitz	1	s i t z
+080/107	sitz	1	s i t z
+080/109	sitz	1	s i t z
+080/127	sitz	1	s i t z
+080/147	sitz	1	s i t z
+080/151	sitz	1	s i t z
+080/153	sitz	1	s i t z
+080/193	sätz	1	s ä t z
+080/195	sätz	1	s ä t z
+081/025	setz	1	s e t z
+081/027	sitz	1	s i t z
+081/029	sitz	1	s i t z
+081/031	sitz	1	s i t z
+081/033	setz	1	s e t z
+081/035	sitz	1	s i t z
+081/037	hukke	1	h u kk e
+081/039	sitz	1	s i t z
+081/043	sitz	1	s i t z
+081/045	sitz	1	s i t z
+081/047	sitz	1	s i t z
+081/049	sitz	1	s i t z
+081/051	sitz	1	s i t z
+081/053	sitz	1	s i t z
+081/055	sitz	1	s i t z
+081/057	sitz	1	s i t z
+081/059	sitz	1	s i t z
+081/061	sitz	1	s i t z
+081/063	sitz	1	s i t z
+081/065	setz	1	s e t z
+081/067	hocka	1	h o ck a
+081/069	sätz	1	s ä t z
+081/071	hogga	1	h o gg a
+081/073	setz	1	s e t z
+081/075	setz	1	s e t z
+081/077	setz	1	s e t z
+081/079	hockna	1	h o ck n a
+081/081	hockn	1	h o ck n
+081/083	sätz	1	s ä t z
+081/085	sitz	1	s i t z
+081/087	sitz	1	s i t z
+081/089	san	1	s a n
+081/091	sitz	1	s i t z
+081/093	sitz	1	s i t z
+081/095	sitz	1	s i t z
+081/097	sitz	1	s i t z
+081/099	sitz	1	s i t z
+081/101	sitz	1	s i t z
+081/103	sitz	1	s i t z
+081/105	knockat	1	k n o ck a t
+081/107	sitz	1	s i t z
+081/109	sitz	1	s i t z
+081/111	sitz	1	s i t z
+081/127	sitz	1	s i t z
+081/129	sitz	1	s i t z
+081/133	sitz	1	s i t z
+081/147	sitz	1	s i t z
+081/191	sitz	1	s i t z
+081/193	sets	1	s e t s
+081/195	setz	1	s e t z
+082/027	setz	1	s e t z
+082/029	sitz	1	s i t z
+082/031	setz	1	s e t z
+082/033	setz	1	s e t z
+082/035	sitz	1	s i t z
+082/037	hucke	1	h u ck e
+082/039	sitz	1	s i t z
+082/041	sitz	1	s i t z
+082/043	hucke	1	h u ck e
+082/045	sitz	1	s i t z
+082/047	sitz	1	s i t z
+082/049	sitz	1	s i t z
+082/051	hocke	1	h o ck e
+082/053	sitz	1	s i t z
+082/055	sitz	1	s i t z
+082/057	sitz	1	s i t z
+082/059	sitz	1	s i t z
+082/061	sitz	1	s i t z
+082/063	sitz	1	s i t z
+082/065	hogga	1	h o gg a
+082/067	sätz	1	s ä t z
+082/069	hockedn	1	h o ck e d n
+082/071	sitz	1	s i t z
+082/073	sätz	1	s ä t z
+082/075	hokka	1	h o kk a
+082/077	sätz	1	s ä t z
+082/079	hocka	1	h o ck a
+082/081	setz	1	s e t z
+082/083	sitz	1	s i t z
+082/085	sitz	1	s i t z
+082/087	sitz	1	s i t z
+082/089	sitz	1	s i t z
+082/091	sitz	1	s i t z
+082/093	sitz	1	s i t z
+082/095	sitz	1	s i t z
+082/097	sitz	1	s i t z
+082/099	sitz	1	s i t z
+082/101	sitz	1	s i t z
+082/103	sitz	1	s i t z
+082/105	sitz	1	s i t z
+082/107	sitz	1	s i t z
+082/111	sitz	1	s i t z
+082/113	sitz	1	s i t z
+082/117	sitz	1	s i t z
+082/129	siiz	1	s ii z
+082/131	sitz	1	s i t z
+082/133	siz	1	s i z
+082/135	sitz	1	s i t z
+082/145	sitz	1	s i t z
+082/147	sitz	1	s i t z
+082/191	sätz	1	s ä t z
+082/195	setz	1	s e t z
+083/027	sez	1	s e z
+083/029	sitz	1	s i t z
+083/031	setz	1	s e t z
+083/033	setz	1	s e t z
+083/035	setz	1	s e t z
+083/037	sitz	1	s i t z
+083/039	setz	1	s e t z
+083/041	sitz	1	s i t z
+083/043	sitz	1	s i t z
+083/045	sitz	1	s i t z
+083/047	sitz	1	s i t z
+083/049	sidz	1	s i d z
+083/051	sitz	1	s i t z
+083/053	sitz	1	s i t z
+083/055	sitz	1	s i t z
+083/057	sitz	1	s i t z
+083/059	sitz	1	s i t z
+083/061	sitz	1	s i t z
+083/063	sitz	1	s i t z
+083/065	hocka	1	h o ck a
+083/067	siz	1	s i z
+083/069	sitz	1	s i t z
+083/071	setz	1	s e t z
+083/073	setz	1	s e t z
+083/075	sitz	1	s i t z
+083/077	sitz	1	s i t z
+083/079	sätz	1	s ä t z
+083/081	setz	1	s e t z
+083/083	sitz	1	s i t z
+083/085	sätz	1	s ä t z
+083/087	sitz	1	s i t z
+083/089	sitz	1	s i t z
+083/091	sitz	1	s i t z
+083/093	sitz	1	s i t z
+083/095	sitz	1	s i t z
+083/097	sitz	1	s i t z
+083/099	sitz	1	s i t z
+083/101	sitz	1	s i t z
+083/103	sitz	1	s i t z
+083/105	sitz	1	s i t z
+083/107	sitz	1	s i t z
+083/111	sitz	1	s i t z
+083/113	sitz	1	s i t z
+083/115	sitz	1	s i t z
+083/117	sitz	1	s i t z
+083/119	sitz	1	s i t z
+083/121	sitz	1	s i t z
+083/129	sitz	1	s i t z
+083/131	sitz	1	s i t z
+083/133	sitz	1	s i t z
+083/135	sitz	1	s i t z
+083/139	sitz	1	s i t z
+083/143	sitz	1	s i t z
+083/145	sitz	1	s i t z
+083/147	sitz	1	s i t z
+083/149	sitz	1	s i t z
+083/173	sets	1	s e t s
+083/195	setz	1	s e t z
+084/031	setz	1	s e t z
+084/033	sitz	1	s i t z
+084/035	setz	1	s e t z
+084/037	setz	1	s e t z
+084/039	setz	1	s e t z
+084/041	setz	1	s e t z
+084/043	setz	1	s e t z
+084/045	sitz	1	s i t z
+084/047	sitz	1	s i t z
+084/049	sitz	1	s i t z
+084/051	sitz	1	s i t z
+084/053	sitz	1	s i t z
+084/055	sitz	1	s i t z
+084/057	siz	1	s i z
+084/059	sitz	1	s i t z
+084/061	sitz	1	s i t z
+084/063	sitz	1	s i t z
+084/065	sitz	1	s i t z
+084/067	sitz	1	s i t z
+084/069	sitz	1	s i t z
+084/071	sitz	1	s i t z
+084/073	sitz	1	s i t z
+084/075	sitz	1	s i t z
+084/077	setz	1	s e t z
+084/079	sitz	1	s i t z
+084/081	sitz	1	s i t z
+084/083	sitz	1	s i t z
+084/085	sitz	1	s i t z
+084/087	sitz	1	s i t z
+084/089	sitz	1	s i t z
+084/091	siz	1	s i z
+084/093	sitz	1	s i t z
+084/095	sitz	1	s i t z
+084/097	sitz	1	s i t z
+084/099	sitz	1	s i t z
+084/101	sitz	1	s i t z
+084/103	sitz	1	s i t z
+084/105	siz	1	s i z
+084/107	sitz	1	s i t z
+084/109	sitz	1	s i t z
+084/111	sitz	1	s i t z
+084/113	sitz	1	s i t z
+084/115	sitz	1	s i t z
+084/117	sitz	1	s i t z
+084/119	sitz	1	s i t z
+084/129	sitz	1	s i t z
+084/131	sitz	1	s i t z
+084/133	sitz	1	s i t z
+084/135	sitz	1	s i t z
+084/137	sitz	1	s i t z
+084/139	sitz	1	s i t z
+084/141	sitz	1	s i t z
+084/143	sitz	1	s i t z
+084/145	sitz	1	s i t z
+084/147	sitz	1	s i t z
+084/149	sitz	1	s i t z
+084/171	zätz	1	z ä t z
+084/173	sets	1	s e t s
+084/195	sätz	1	s ä t z
+085/031	sitz	1	s i t z
+085/033	huga	1	h u g a
+085/035	setz	1	s e t z
+085/037	sitz	1	s i t z
+085/039	setz	1	s e t z
+085/041	sitz	1	s i t z
+085/043	setz	1	s e t z
+085/045	setz	1	s e t z
+085/047	sitz	1	s i t z
+085/049	sitz	1	s i t z
+085/051	sizz	1	s i zz
+085/053	sitz	1	s i t z
+085/055	sitz	1	s i t z
+085/057	sitz	1	s i t z
+085/059	sitz	1	s i t z
+085/061	sitz	1	s i t z
+085/063	sidz	1	s i d z
+085/065	sitz	1	s i t z
+085/067	sitz	1	s i t z
+085/069	sitz	1	s i t z
+085/071	sitz	1	s i t z
+085/073	sitz	1	s i t z
+085/075	setz	1	s e t z
+085/077	sätz	1	s ä t z
+085/079	setz	1	s e t z
+085/081	setz	1	s e t z
+085/083	sätz	1	s ä t z
+085/085	sitz	1	s i t z
+085/087	sitz	1	s i t z
+085/089	sitz	1	s i t z
+085/091	siz	1	s i z
+085/093	sitz	1	s i t z
+085/095	sitz	1	s i t z
+085/097	sitz	1	s i t z
+085/101	sitz	1	s i t z
+085/103	sitz	1	s i t z
+085/105	gnogen	1	g n o g e n
+085/107	sitz	1	s i t z
+085/109	siz	1	s i z
+085/111	siz	1	s i z
+085/113	sitz	1	s i t z
+085/115	sitz	1	s i t z
+085/117	sitz	1	s i t z
+085/119	sitz	1	s i t z
+085/121	hokn	1	h o k n
+085/123	sitz	1	s i t z
+085/125	sitz	1	s i t z
+085/127	siaz	1	s ia z
+085/129	sitz	1	s i t z
+085/131	sitz	1	s i t z
+085/133	sitz	1	s i t z
+085/135	sitz	1	s i t z
+085/137	sitz	1	s i t z
+085/139	hookan	1	h oo k a n
+085/141	sitz	1	s i t z
+085/143	sitz	1	s i t z
+085/145	sitz	1	s i t z
+085/147	sitz	1	s i t z
+085/149	sitz	1	s i t z
+085/175	sits	1	s i t s
+085/193	sets	1	s e t s
+085/197	sets	1	s e t s
+086/033	setz	1	s e t z
+086/035	setz	1	s e t z
+086/037	setz	1	s e t z
+086/039	setz	1	s e t z
+086/041	setz	1	s e t z
+086/043	setz	1	s e t z
+086/045	sitz	1	s i t z
+086/047	sitz	1	s i t z
+086/049	sitz	1	s i t z
+086/051	sitz	1	s i t z
+086/053	sitz	1	s i t z
+086/055	sitz	1	s i t z
+086/057	sitz	1	s i t z
+086/059	hocket	1	h o ck e t
+086/061	sitz	1	s i t z
+086/063	setz	1	s e t z
+086/065	sitz	1	s i t z
+086/067	sitz	1	s i t z
+086/069	sitz	1	s i t z
+086/071	sätz	1	s ä t z
+086/073	sitz	1	s i t z
+086/075	setz	1	s e t z
+086/077	sitz	1	s i t z
+086/079	sötz	1	s ö t z
+086/081	sätz	1	s ä t z
+086/083	hocken	1	h o ck e n
+086/085	sitz	1	s i t z
+086/087	sitz	1	s i t z
+086/089	sitz	1	s i t z
+086/091	sitz	1	s i t z
+086/093	sitz	1	s i t z
+086/095	sitz	1	s i t z
+086/097	sitz	1	s i t z
+086/099	sitz	1	s i t z
+086/101	sitz	1	s i t z
+086/103	sitz	1	s i t z
+086/105	sitz	1	s i t z
+086/107	sitz	1	s i t z
+086/109	sitz	1	s i t z
+086/111	sitz	1	s i t z
+086/113	sitz	1	s i t z
+086/115	sitz	1	s i t z
+086/117	sitz	1	s i t z
+086/119	sitz	1	s i t z
+086/121	sitz	1	s i t z
+086/123	sitz	1	s i t z
+086/125	sitz	1	s i t z
+086/127	sitz	1	s i t z
+086/129	sitz	1	s i t z
+086/131	sitz	1	s i t z
+086/133	sitz	1	s i t z
+086/135	sitz	1	s i t z
+086/137	sitz	1	s i t z
+086/139	sitz	1	s i t z
+086/141	sitz	1	s i t z
+086/143	san	1	s a n
+086/145	sitz	1	s i t z
+086/147	sitz	1	s i t z
+086/149	sitz	1	s i t z
+086/151	sitz	1	s i t z
+086/175	sits	1	s i t s
+086/197	setz	1	s e t z
+086/199	setz	1	s e t z
+087/033	sitz	1	s i t z
+087/035	setz	1	s e t z
+087/037	setz	1	s e t z
+087/039	setz	1	s e t z
+087/041	sitz	1	s i t z
+087/043	setz	1	s e t z
+087/045	sitz	1	s i t z
+087/049	sitz	1	s i t z
+087/051	hocket	1	h o ck e t
+087/053	sitz	1	s i t z
+087/055	sitz	1	s i t z
+087/057	sidz	1	s i d z
+087/059	sitz	1	s i t z
+087/061	hocket	1	h o ck e t
+087/063	sitz	1	s i t z
+087/065	sätz	1	s ä t z
+087/067	sitz	1	s i t z
+087/069	sitz	1	s i t z
+087/071	säz	1	s ä z
+087/073	sitz	1	s i t z
+087/075	sitz	1	s i t z
+087/077	sitz	1	s i t z
+087/079	setz	1	s e t z
+087/081	setz	1	s e t z
+087/083	setz	1	s e t z
+087/085	hocka	1	h o ck a
+087/087	sitz	1	s i t z
+087/089	sitz	1	s i t z
+087/091	sitz	1	s i t z
+087/093	sitz	1	s i t z
+087/095	siz	1	s i z
+087/097	sitz	1	s i t z
+087/099	sitz	1	s i t z
+087/101	sitz	1	s i t z
+087/103	soänd	1	s oä n d
+087/105	sitz	1	s i t z
+087/107	sitz	1	s i t z
+087/109	sitz	1	s i t z
+087/111	knotzn	1	k n o t z n
+087/113	sitz	1	s i t z
+087/115	sitz	1	s i t z
+087/117	sitz	1	s i t z
+087/119	sitz	1	s i t z
+087/121	sitz	1	s i t z
+087/123	sitz	1	s i t z
+087/125	sitz	1	s i t z
+087/127	sitz	1	s i t z
+087/129	sitz	1	s i t z
+087/133	siz	1	s i z
+087/135	sitz	1	s i t z
+087/137	sitz	1	s i t z
+087/139	sizz	1	s i zz
+087/141	sitz	1	s i t z
+087/143	sitz	1	s i t z
+087/145	sitz	1	s i t z
+087/147	siz	1	s i z
+087/149	sitz	1	s i t z
+087/151	sitz	1	s i t z
+088/035	setz	1	s e t z
+088/037	hucke	1	h u ck e
+088/039	setz	1	s e t z
+088/041	setz	1	s e t z
+088/043	sidz	1	s i d z
+088/045	sitz	1	s i t z
+088/047	sitz	1	s i t z
+088/049	sitz	1	s i t z
+088/051	sitz	1	s i t z
+088/053	sitz	1	s i t z
+088/055	sitz	1	s i t z
+088/057	siz	1	s i z
+088/059	sitz	1	s i t z
+088/061	sitz	1	s i t z
+088/063	sitz	1	s i t z
+088/065	sitz	1	s i t z
+088/067	sätz	1	s ä t z
+088/069	sätz	1	s ä t z
+088/071	sätz	1	s ä t z
+088/073	sitz	1	s i t z
+088/075	siitz	1	s ii t z
+088/077	sitz	1	s i t z
+088/079	sitz	1	s i t z
+088/081	sitz	1	s i t z
+088/083	sitz	1	s i t z
+088/085	sitz	1	s i t z
+088/087	sitz	1	s i t z
+088/089	sitz	1	s i t z
+088/091	sitz	1	s i t z
+088/093	sitz	1	s i t z
+088/095	sitz	1	s i t z
+088/097	sitz	1	s i t z
+088/099	sitz	1	s i t z
+088/101	sitz	1	s i t z
+088/103	sitz	1	s i t z
+088/105	sitz	1	s i t z
+088/107	sitz	1	s i t z
+088/109	sitz	1	s i t z
+088/113	sitz	1	s i t z
+088/115	sitz	1	s i t z
+088/117	sitz	1	s i t z
+088/121	sitz	1	s i t z
+088/123	sitz	1	s i t z
+088/127	sitz	1	s i t z
+088/129	sitz	1	s i t z
+088/131	sitz	1	s i t z
+088/137	sitz	1	s i t z
+088/139	sitz	1	s i t z
+088/141	sitz	1	s i t z
+088/143	sitz	1	s i t z
+088/145	sitz	1	s i t z
+088/147	sitz	1	s i t z
+088/149	sitz	1	s i t z
+089/035	sitz	1	s i t z
+089/037	setz	1	s e t z
+089/039	setz	1	s e t z
+089/041	setz	1	s e t z
+089/043	setz	1	s e t z
+089/045	sitz	1	s i t z
+089/047	sitz	1	s i t z
+089/049	sitz	1	s i t z
+089/051	sitz	1	s i t z
+089/053	sitz	1	s i t z
+089/055	sitz	1	s i t z
+089/057	sitz	1	s i t z
+089/059	sitz	1	s i t z
+089/061	sitz	1	s i t z
+089/063	sitz	1	s i t z
+089/065	sätz	1	s ä t z
+089/067	sätz	1	s ä t z
+089/069	setz	1	s e t z
+089/071	sitz	1	s i t z
+089/073	setz	1	s e t z
+089/075	sitz	1	s i t z
+089/077	sitz	1	s i t z
+089/079	sitz	1	s i t z
+089/081	setz	1	s e t z
+089/083	sitz	1	s i t z
+089/085	sitz	1	s i t z
+089/087	sitz	1	s i t z
+089/089	sitz	1	s i t z
+089/091	sitz	1	s i t z
+089/093	hand	1	h a n d
+089/095	sitz	1	s i t z
+089/097	sitz	1	s i t z
+089/099	sitz	1	s i t z
+089/101	sitz	1	s i t z
+089/103	siz	1	s i z
+089/105	sitz	1	s i t z
+089/107	knokan	1	k n o k a n
+089/109	sitz	1	s i t z
+089/111	san	1	s a n
+089/113	sitz	1	s i t z
+089/115	sitz	1	s i t z
+089/117	sitz	1	s i t z
+089/119	sitz	1	s i t z
+089/121	sitz	1	s i t z
+089/123	sitz	1	s i t z
+089/125	sitz	1	s i t z
+089/127	sitz	1	s i t z
+089/129	huckn	1	h u ck n
+089/131	sitz	1	s i t z
+089/133	siz	1	s i z
+089/135	sitz	1	s i t z
+089/137	sitz	1	s i t z
+089/139	sitz	1	s i t z
+089/141	sitz	1	s i t z
+089/143	sitz	1	s i t z
+089/145	siz	1	s i z
+089/147	sitz	1	s i t z
+089/149	sitz	1	s i t z
+090/035	sez	1	s e z
+090/037	setz	1	s e t z
+090/039	setz	1	s e t z
+090/041	sedz	1	s e d z
+090/043	sitz	1	s i t z
+090/045	sidz	1	s i d z
+090/047	sitz	1	s i t z
+090/049	sitz	1	s i t z
+090/051	sitz	1	s i t z
+090/053	sitz	1	s i t z
+090/055	sitz	1	s i t z
+090/057	sitz	1	s i t z
+090/059	seatz	1	s ea t z
+090/061	sitz	1	s i t z
+090/063	sitz	1	s i t z
+090/065	sitz	1	s i t z
+090/067	sitz	1	s i t z
+090/069	setz	1	s e t z
+090/071	sitz	1	s i t z
+090/073	sitz	1	s i t z
+090/075	sitz	1	s i t z
+090/077	sitz	1	s i t z
+090/079	sitz	1	s i t z
+090/081	sitz	1	s i t z
+090/083	sitz	1	s i t z
+090/085	sähn	1	s äh n
+090/087	sitz	1	s i t z
+090/089	sitz	1	s i t z
+090/091	sitz	1	s i t z
+090/093	sitz	1	s i t z
+090/095	san	1	s a n
+090/097	sitz	1	s i t z
+090/099	sitz	1	s i t z
+090/101	sötz	1	s ö t z
+090/103	sitz	1	s i t z
+090/105	sitz	1	s i t z
+090/107	hand	1	h a n d
+090/109	sitz	1	s i t z
+090/111	sitz	1	s i t z
+090/113	sitz	1	s i t z
+090/115	sitz	1	s i t z
+090/119	siz	1	s i z
+090/121	sitz	1	s i t z
+090/123	siez	1	s ie z
+090/125	sand	1	s a n d
+090/127	sitz	1	s i t z
+090/129	sitz	1	s i t z
+090/131	sitz	1	s i t z
+090/133	huggan	1	h u gg a n
+090/135	sitz	1	s i t z
+090/137	sitz	1	s i t z
+090/139	sitz	1	s i t z
+090/141	sitz	1	s i t z
+090/143	hookan	1	h oo k a n
+090/145	sitz	1	s i t z
+090/147	sitz	1	s i t z
+090/149	sitz	1	s i t z
+090/151	sitz	1	s i t z
+091/035	setz	1	s e t z
+091/037	setz	1	s e t z
+091/039	seddz	1	s e dd z
+091/041	setz	1	s e t z
+091/043	sitz	1	s i t z
+091/045	sitz	1	s i t z
+091/047	hocke	1	h o ck e
+091/049	sitz	1	s i t z
+091/051	sitz	1	s i t z
+091/053	sitz	1	s i t z
+091/055	sitz	1	s i t z
+091/057	sitz	1	s i t z
+091/059	sitz	1	s i t z
+091/061	sitz	1	s i t z
+091/063	sitz	1	s i t z
+091/065	sitz	1	s i t z
+091/067	sitz	1	s i t z
+091/069	sitz	1	s i t z
+091/071	sitz	1	s i t z
+091/073	siz	1	s i z
+091/075	sitz	1	s i t z
+091/077	sitz	1	s i t z
+091/079	sitz	1	s i t z
+091/081	sitz	1	s i t z
+091/083	sitz	1	s i t z
+091/085	sitz	1	s i t z
+091/087	sitz	1	s i t z
+091/091	sitz	1	s i t z
+091/093	sitz	1	s i t z
+091/095	sitz	1	s i t z
+091/097	sitz	1	s i t z
+091/099	sitz	1	s i t z
+091/101	sitz	1	s i t z
+091/103	sitz	1	s i t z
+091/105	sitz	1	s i t z
+091/107	sitz	1	s i t z
+091/109	sitz	1	s i t z
+091/111	sitz	1	s i t z
+091/113	sitz	1	s i t z
+091/115	sitz	1	s i t z
+091/117	sitz	1	s i t z
+091/119	sitz	1	s i t z
+091/121	sitz	1	s i t z
+091/125	siz	1	s i z
+091/129	sitz	1	s i t z
+091/131	sitz	1	s i t z
+091/133	sitz	1	s i t z
+091/135	sitz	1	s i t z
+091/137	sitz	1	s i t z
+091/139	sitz	1	s i t z
+091/141	sitz	1	s i t z
+091/143	siz	1	s i z
+091/145	sitz	1	s i t z
+091/147	sitz	1	s i t z
+091/149	sitz	1	s i t z
+091/151	sitz	1	s i t z
+091/155	sitz	1	s i t z
+092/033	setz	1	s e t z
+092/035	hocka	1	h o ck a
+092/037	setz	1	s e t z
+092/039	setz	1	s e t z
+092/041	sitz	1	s i t z
+092/043	sitz	1	s i t z
+092/045	sitz	1	s i t z
+092/047	sitz	1	s i t z
+092/049	sitz	1	s i t z
+092/051	sitz	1	s i t z
+092/053	sitz	1	s i t z
+092/055	siz	1	s i z
+092/057	sitz	1	s i t z
+092/059	sitz	1	s i t z
+092/061	sitz	1	s i t z
+092/063	saetz	1	s ae t z
+092/065	sitz	1	s i t z
+092/067	sitz	1	s i t z
+092/069	sitz	1	s i t z
+092/071	siz	1	s i z
+092/073	hocket	1	h o ck e t
+092/075	sitz	1	s i t z
+092/077	sitz	1	s i t z
+092/079	hockand	1	h o ck a n d
+092/081	sitz	1	s i t z
+092/083	sitz	1	s i t z
+092/085	sitz	1	s i t z
+092/087	sitz	1	s i t z
+092/089	sitz	1	s i t z
+092/091	sitz	1	s i t z
+092/093	sitz	1	s i t z
+092/095	sitz	1	s i t z
+092/097	sitz	1	s i t z
+092/099	sitz	1	s i t z
+092/101	sitz	1	s i t z
+092/103	sitz	1	s i t z
+092/105	sitz	1	s i t z
+092/107	sitz	1	s i t z
+092/109	sitz	1	s i t z
+092/111	sitz	1	s i t z
+092/113	sitz	1	s i t z
+092/115	sitz	1	s i t z
+092/117	sitz	1	s i t z
+092/119	sitz	1	s i t z
+092/121	sitz	1	s i t z
+092/123	huckan	1	h u ck a n
+092/125	sitz	1	s i t z
+092/127	sitz	1	s i t z
+092/129	sitz	1	s i t z
+092/131	sitz	1	s i t z
+092/133	sitz	1	s i t z
+092/135	sitz	1	s i t z
+092/137	hukan	1	h u k a n
+092/139	hukan	1	h u k a n
+092/141	sitz	1	s i t z
+092/143	sitz	1	s i t z
+092/145	siz	1	s i z
+092/147	sitz	1	s i t z
+092/149	sitz	1	s i t z
+092/151	sitz	1	s i t z
+093/035	setz	1	s e t z
+093/037	setz	1	s e t z
+093/039	setz	1	s e t z
+093/041	sitz	1	s i t z
+093/043	hocke	1	h o ck e
+093/045	sitz	1	s i t z
+093/047	sitz	1	s i t z
+093/049	sitz	1	s i t z
+093/051	sitz	1	s i t z
+093/053	sitz	1	s i t z
+093/055	sitz	1	s i t z
+093/057	sitz	1	s i t z
+093/059	sitz	1	s i t z
+093/061	sitz	1	s i t z
+093/063	siz	1	s i z
+093/065	sitz	1	s i t z
+093/067	sitz	1	s i t z
+093/069	hoggt	1	h o gg t
+093/071	hocket	1	h o ck e t
+093/073	sitz	1	s i t z
+093/075	sitz	1	s i t z
+093/077	sitz	1	s i t z
+093/079	sitz	1	s i t z
+093/081	sitz	1	s i t z
+093/083	sitz	1	s i t z
+093/085	sitz	1	s i t z
+093/087	hocka	1	h o ck a
+093/089	sitz	1	s i t z
+093/091	sitz	1	s i t z
+093/093	sitz	1	s i t z
+093/095	sitz	1	s i t z
+093/097	sitz	1	s i t z
+093/099	sitz	1	s i t z
+093/101	sitz	1	s i t z
+093/103	sitz	1	s i t z
+093/105	sitz	1	s i t z
+093/109	sitz	1	s i t z
+093/111	huggan	1	h u gg a n
+093/113	hockan	1	h o ck a n
+093/115	sitz	1	s i t z
+093/117	sits	1	s i t s
+093/119	sitz	1	s i t z
+093/121	sitz	1	s i t z
+093/123	sitz	1	s i t z
+093/125	sitz	1	s i t z
+093/127	sits	1	s i t s
+093/129	sitz	1	s i t z
+093/131	sitz	1	s i t z
+093/133	sitz	1	s i t z
+093/137	sitz	1	s i t z
+093/139	sitz	1	s i t z
+093/143	sitz	1	s i t z
+093/145	sitz	1	s i t z
+093/147	sitz	1	s i t z
+093/149	sitz	1	s i t z
+093/151	ssan	1	ss a n
+093/153	sitz	1	s i t z
+093/155	sitz	1	s i t z
+094/033	hugge	1	h u gg e
+094/035	setz	1	s e t z
+094/037	setz	1	s e t z
+094/039	setz	1	s e t z
+094/041	setz	1	s e t z
+094/043	siz	1	s i z
+094/045	sitz	1	s i t z
+094/047	sitz	1	s i t z
+094/049	sitz	1	s i t z
+094/051	sitz	1	s i t z
+094/053	sitz	1	s i t z
+094/055	sitz	1	s i t z
+094/057	sitz	1	s i t z
+094/059	sitz	1	s i t z
+094/061	sitz	1	s i t z
+094/063	sitz	1	s i t z
+094/065	sitz	1	s i t z
+094/067	sitz	1	s i t z
+094/069	sitz	1	s i t z
+094/071	hocket	1	h o ck e t
+094/073	hocket	1	h o ck e t
+094/075	sitz	1	s i t z
+094/077	sitz	1	s i t z
+094/079	sitz	1	s i t z
+094/081	sitz	1	s i t z
+094/083	sitz	1	s i t z
+094/085	sitz	1	s i t z
+094/087	sitz	1	s i t z
+094/089	hocka	1	h o ck a
+094/091	sitz	1	s i t z
+094/093	sitz	1	s i t z
+094/095	sitz	1	s i t z
+094/097	sitz	1	s i t z
+094/099	siz	1	s i z
+094/101	sitz	1	s i t z
+094/103	sitz	1	s i t z
+094/105	sitz	1	s i t z
+094/107	sitz	1	s i t z
+094/109	sitz	1	s i t z
+094/111	sitz	1	s i t z
+094/113	sitz	1	s i t z
+094/115	sitz	1	s i t z
+094/117	sitz	1	s i t z
+094/119	sitz	1	s i t z
+094/121	sitz	1	s i t z
+094/123	sitz	1	s i t z
+094/125	sits	1	s i t s
+094/127	sitz	1	s i t z
+094/129	sitz	1	s i t z
+094/131	sitz	1	s i t z
+094/133	sitz	1	s i t z
+094/135	sitz	1	s i t z
+094/137	sitz	1	s i t z
+094/139	sitz	1	s i t z
+094/141	hukan	1	h u k a n
+094/143	sitz	1	s i t z
+094/145	siz	1	s i z
+094/147	sitz	1	s i t z
+094/149	sitz	1	s i t z
+094/151	sitz	1	s i t z
+094/153	sitz	1	s i t z
+095/031	setz	1	s e t z
+095/033	setz	1	s e t z
+095/035	seds	1	s e d s
+095/037	setz	1	s e t z
+095/039	setz	1	s e t z
+095/041	sitz	1	s i t z
+095/043	sitz	1	s i t z
+095/045	sitz	1	s i t z
+095/047	hocker	1	h o ck e r
+095/049	siz	1	s i z
+095/051	sitz	1	s i t z
+095/053	sitz	1	s i t z
+095/055	sitz	1	s i t z
+095/057	sitz	1	s i t z
+095/059	sitz	1	s i t z
+095/061	sitz	1	s i t z
+095/063	sitz	1	s i t z
+095/065	sitz	1	s i t z
+095/067	sitz	1	s i t z
+095/069	sitz	1	s i t z
+095/071	sitz	1	s i t z
+095/073	sitz	1	s i t z
+095/075	hockat	1	h o ck a t
+095/077	sitz	1	s i t z
+095/079	sitz	1	s i t z
+095/081	sitz	1	s i t z
+095/083	hocka	1	h o ck a
+095/085	sitz	1	s i t z
+095/087	sitz	1	s i t z
+095/089	sitz	1	s i t z
+095/091	hocka	1	h o ck a
+095/093	sitz	1	s i t z
+095/095	siz	1	s i z
+095/097	sitz	1	s i t z
+095/099	hockand	1	h o ck a n d
+095/101	sitz	1	s i t z
+095/103	sitz	1	s i t z
+095/105	sitz	1	s i t z
+095/107	sitz	1	s i t z
+095/109	sitz	1	s i t z
+095/111	sitz	1	s i t z
+095/113	sitz	1	s i t z
+095/115	sitz	1	s i t z
+095/117	huggan	1	h u gg a n
+095/119	sitz	1	s i t z
+095/121	sitz	1	s i t z
+095/123	sitz	1	s i t z
+095/125	sitz	1	s i t z
+095/129	sitz	1	s i t z
+095/131	sitz	1	s i t z
+095/133	huckn	1	h u ck n
+095/139	sitz	1	s i t z
+095/141	sitz	1	s i t z
+095/143	sitz	1	s i t z
+095/145	sitz	1	s i t z
+095/147	sitz	1	s i t z
+095/149	sitz	1	s i t z
+095/151	sitz	1	s i t z
+095/153	sitz	1	s i t z
+095/155	sitz	1	s i t z
+096/031	sitz	1	s i t z
+096/033	setz	1	s e t z
+096/035	hocka	1	h o ck a
+096/037	setz	1	s e t z
+096/039	setz	1	s e t z
+096/041	NA	NA	-
+096/043	hogga	1	h o gg a
+096/045	sitz	1	s i t z
+096/047	huka	1	h u k a
+096/049	sitz	1	s i t z
+096/051	sitz	1	s i t z
+096/053	sitz	1	s i t z
+096/055	sitz	1	s i t z
+096/057	sitz	1	s i t z
+096/059	sitz	1	s i t z
+096/061	sitz	1	s i t z
+096/063	hucket	1	h u ck e t
+096/065	hukat	1	h u k a t
+096/067	hocket	1	h o ck e t
+096/069	sitz	1	s i t z
+096/071	hockat	1	h o ck a t
+096/075	sitz	1	s i t z
+096/077	sitz	1	s i t z
+096/079	sitz	1	s i t z
+096/081	sitz	1	s i t z
+096/083	sitz	1	s i t z
+096/085	sitz	1	s i t z
+096/087	sitz	1	s i t z
+096/089	sitz	1	s i t z
+096/091	sitz	1	s i t z
+096/093	hokn	1	h o k n
+096/095	sitz	1	s i t z
+096/097	sitz	1	s i t z
+096/099	sitz	1	s i t z
+096/101	sitz	1	s i t z
+096/103	sitz	1	s i t z
+096/105	sitz	1	s i t z
+096/107	sitz	1	s i t z
+096/109	sitz	1	s i t z
+096/111	sitz	1	s i t z
+096/113	sitz	1	s i t z
+096/115	sitz	1	s i t z
+096/117	sitz	1	s i t z
+096/119	sitz	1	s i t z
+096/121	sits	1	s i t s
+096/123	sitz	1	s i t z
+096/125	sids	1	s i d s
+096/129	siz	1	s i z
+096/131	sitz	1	s i t z
+096/135	huckan	1	h u ck a n
+096/137	huckn	1	h u ck n
+096/139	sitz	1	s i t z
+096/141	sitz	1	s i t z
+096/143	sitz	1	s i t z
+096/145	sitz	1	s i t z
+096/147	sits	1	s i t s
+096/151	sitz	1	s i t z
+096/153	sitz	1	s i t z
+096/155	sitz	1	s i t z
+097/031	setz	1	s e t z
+097/033	sitz	1	s i t z
+097/035	setz	1	s e t z
+097/037	setz	1	s e t z
+097/039	sitz	1	s i t z
+097/041	hoke	1	h o k e
+097/043	NA	NA	-
+097/045	sitz	1	s i t z
+097/047	sitz	1	s i t z
+097/049	sitz	1	s i t z
+097/051	sitz	1	s i t z
+097/053	sitz	1	s i t z
+097/055	sitz	1	s i t z
+097/057	sitz	1	s i t z
+097/059	sitz	1	s i t z
+097/061	sitz	1	s i t z
+097/063	sitz	1	s i t z
+097/065	sitz	1	s i t z
+097/067	huget	1	h u g e t
+097/069	sitz	1	s i t z
+097/071	sitz	1	s i t z
+097/073	hocket	1	h o ck e t
+097/075	hockat	1	h o ck a t
+097/077	sitz	1	s i t z
+097/079	sitz	1	s i t z
+097/081	sitz	1	s i t z
+097/083	sitz	1	s i t z
+097/085	sitz	1	s i t z
+097/087	hoka	1	h o k a
+097/089	sitz	1	s i t z
+097/091	hogga	1	h o gg a
+097/093	hokan	1	h o k a n
+097/095	sitz	1	s i t z
+097/097	NA	NA	-
+097/099	sitz	1	s i t z
+097/103	sitz	1	s i t z
+097/105	sitz	1	s i t z
+097/107	sitz	1	s i t z
+097/109	siz	1	s i z
+097/113	NA	NA	-
+097/125	sitz	1	s i t z
+097/131	sitz	1	s i t z
+097/133	sitz	1	s i t z
+097/139	hockn	1	h o ck n
+097/141	sitz	1	s i t z
+097/143	huckn	1	h u ck n
+097/145	sitz	1	s i t z
+097/149	sitz	1	s i t z
+097/153	sitz	1	s i t z
+098/033	hocka	1	h o ck a
+098/035	setz	1	s e t z
+098/037	setz	1	s e t z
+098/039	setz	1	s e t z
+098/041	sitz	1	s i t z
+098/043	hocke	1	h o ck e
+098/045	sitz	1	s i t z
+098/047	hokchet	1	h o k ch e t
+098/049	sitz	1	s i t z
+098/051	sitz	1	s i t z
+098/053	siz	1	s i z
+098/055	sitz	1	s i t z
+098/057	siz	1	s i z
+098/059	hoket	1	h o k e t
+098/061	NA	NA	-
+098/063	huket	1	h u k e t
+098/065	hockit	1	h o ck i t
+098/067	huket	1	h u k e t
+098/069	hoket	1	h o k e t
+098/071	hockat	1	h o ck a t
+098/073	hocket	1	h o ck e t
+098/075	hocket	1	h o ck e t
+098/077	sitz	1	s i t z
+098/079	sitz	1	s i t z
+098/081	sitz	1	s i t z
+098/083	sitz	1	s i t z
+098/085	NA	NA	-
+098/087	siz	1	s i z
+098/089	sitz	1	s i t z
+098/091	hockan	1	h o ck a n
+098/093	hockn	1	h o ck n
+098/095	hockn	1	h o ck n
+098/097	sitz	1	s i t z
+098/103	sitz	1	s i t z
+098/105	huckn	1	h u ck n
+098/107	huckn	1	h u ck n
+098/109	sitz	1	s i t z
+098/111	sitz	1	s i t z
+098/119	sitz	1	s i t z
+098/123	sitz	1	s i t z
+098/125	huckan	1	h u ck a n
+098/127	hukan	1	h u k a n
+098/135	sitz	1	s i t z
+098/137	sitz	1	s i t z
+098/139	hucka	1	h u ck a
+098/141	sitz	1	s i t z
+098/143	sitz	1	s i t z
+098/145	sitz	1	s i t z
+098/147	sitz	1	s i t z
+098/149	sitz	1	s i t z
+098/151	siz	1	s i z
+099/033	sitz	1	s i t z
+099/035	setz	1	s e t z
+099/037	sitz	1	s i t z
+099/039	setz	1	s e t z
+099/041	sitz	1	s i t z
+099/043	hocke	1	h o ck e
+099/045	sitz	1	s i t z
+099/047	hockad	1	h o ck a d
+099/049	siz	1	s i z
+099/051	sitz	1	s i t z
+099/053	sitz	1	s i t z
+099/055	siz	1	s i z
+099/057	hogged	1	h o gg e d
+099/059	sitz	1	s i t z
+099/063	sitz	1	s i t z
+099/065	sitz	1	s i t z
+099/067	sitz	1	s i t z
+099/069	sitz	1	s i t z
+099/071	hockat	1	h o ck a t
+099/073	sitz	1	s i t z
+099/075	hockad	1	h o ck a d
+099/077	hocket	1	h o ck e t
+099/081	sitz	1	s i t z
+099/083	sitz	1	s i t z
+099/085	sitz	1	s i t z
+099/089	sitz	1	s i t z
+099/093	hucknd	1	h u ck n d
+099/095	hockn	1	h o ck n
+099/099	huckn	1	h u ck n
+099/101	sitz	1	s i t z
+099/103	sitz	1	s i t z
+099/105	sitz	1	s i t z
+099/107	hukn	1	h u k n
+099/109	sitz	1	s i t z
+099/111	sitz	1	s i t z
+099/113	sitz	1	s i t z
+099/121	sitz	1	s i t z
+099/123	sitz	1	s i t z
+099/125	sitz	1	s i t z
+099/131	sitz	1	s i t z
+099/137	sitz	1	s i t z
+099/139	sitz	1	s i t z
+099/141	sitz	1	s i t z
+099/143	sitz	1	s i t z
+099/145	sitz	1	s i t z
+099/147	sitz	1	s i t z
+100/033	sitz	1	s i t z
+100/035	setz	1	s e t z
+100/037	sitz	1	s i t z
+100/039	sizz	1	s i zz
+100/041	hocke	1	h o ck e
+100/043	hocke	1	h o ck e
+100/045	hocked	1	h o ck e d
+100/049	hocket	1	h o ck e t
+100/051	sitz	1	s i t z
+100/053	sitz	1	s i t z
+100/055	hocket	1	h o ck e t
+100/057	hogged	1	h o gg e d
+100/059	setz	1	s e t z
+100/061	hogged	1	h o gg e d
+100/065	sitz	1	s i t z
+100/067	hucket	1	h u ck e t
+100/069	sitz	1	s i t z
+100/071	hocket	1	h o ck e t
+100/073	sitz	1	s i t z
+100/075	sitz	1	s i t z
+100/077	sitz	1	s i t z
+100/081	sitz	1	s i t z
+100/083	hockn	1	h o ck n
+100/089	hockn	1	h o ck n
+100/093	hockn	1	h o ck n
+100/095	huknt	1	h u k n t
+100/097	huckn	1	h u ck n
+100/099	huckn	1	h u ck n
+100/101	sitz	1	s i t z
+100/109	huckn	1	h u ck n
+100/111	sitz	1	s i t z
+100/113	sitz	1	s i t z
+100/115	sitz	1	s i t z
+100/117	sitz	1	s i t z
+100/119	sitz	1	s i t z
+100/121	sitz	1	s i t z
+100/125	sitz	1	s i t z
+100/127	sitz	1	s i t z
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	sitz	1	s i t z
+100/141	sitz	1	s i t z
+100/143	sitz	1	s i t z
+100/145	sitz	1	s i t z
+101/035	sitz	1	s i t z
+101/037	sitz	1	s i t z
+101/039	hogge	1	h o gg e
+101/041	sitz	1	s i t z
+101/043	sitz	1	s i t z
+101/045	hocke	1	h o ck e
+101/047	sitz	1	s i t z
+101/049	sitz	1	s i t z
+101/051	siz	1	s i z
+101/053	siz	1	s i z
+101/055	sitz	1	s i t z
+101/057	sitz	1	s i t z
+101/059	sitz	1	s i t z
+101/061	setz	1	s e t z
+101/063	siets	1	s ie t s
+101/065	hockod	1	h o ck o d
+101/067	sitz	1	s i t z
+101/071	sitz	1	s i t z
+101/075	sitz	1	s i t z
+101/077	sitz	1	s i t z
+101/079	sitz	1	s i t z
+101/081	hocken	1	h o ck e n
+101/091	hockn	1	h o ck n
+101/093	hockn	1	h o ck n
+101/095	huckn	1	h u ck n
+101/097	hucken	1	h u ck e n
+101/099	sitz	1	s i t z
+101/101	sitz	1	s i t z
+101/103	sitz	1	s i t z
+101/107	sitz	1	s i t z
+101/109	sitz	1	s i t z
+101/113	sitz	1	s i t z
+101/115	sitz	1	s i t z
+101/121	siz	1	s i z
+101/125	sitz	1	s i t z
+101/129	sitz	1	s i t z
+101/131	sitz	1	s i t z
+101/133	sitz	1	s i t z
+101/137	siez	1	s ie z
+101/139	sitz	1	s i t z
+101/141	sitz	1	s i t z
+101/143	sitz	1	s i t z
+101/145	sits	1	s i t s
+101/147	sitz	1	s i t z
+102/037	sits	1	s i t s
+102/039	sitz	1	s i t z
+102/041	sitz	1	s i t z
+102/043	hocke	1	h o ck e
+102/045	sitz	1	s i t z
+102/047	hoche	1	h o ch e
+102/049	sitz	1	s i t z
+102/051	sitz	1	s i t z
+102/053	hocköt	1	h o ck ö t
+102/055	sitz	1	s i t z
+102/057	hocket	1	h o ck e t
+102/059	setz	1	s e t z
+102/061	höcklid	1	h ö ck l i d
+102/063	setz	1	s e t z
+102/065	sitz	1	s i t z
+102/067	seotz	1	s eo t z
+102/069	sitz	1	s i t z
+102/071	hocket	1	h o ck e t
+102/073	sitz	1	s i t z
+102/075	hacka	1	h a ck a
+102/077	hocka	1	h o ck a
+102/079	sitz	1	s i t z
+102/081	hockn	1	h o ck n
+102/083	hochn	1	h o ch n
+102/089	hockn	1	h o ck n
+102/091	hocken	1	h o ck e n
+102/093	hucke	1	h u ck e
+102/095	huckn	1	h u ck n
+102/097	hukn	1	h u k n
+102/099	huckn	1	h u ck n
+102/103	sitz	1	s i t z
+102/107	sitz	1	s i t z
+102/109	sitz	1	s i t z
+102/113	sitz	1	s i t z
+102/115	sitz	1	s i t z
+102/127	sitz	1	s i t z
+102/129	sitz	1	s i t z
+102/131	sitz	1	s i t z
+102/135	sitz	1	s i t z
+102/137	sitz	1	s i t z
+102/139	sitz	1	s i t z
+102/141	sitz	1	s i t z
+102/143	sitz	1	s i t z
+102/145	sitz	1	s i t z
+103/039	sitz	1	s i t z
+103/041	hocke	1	h o ck e
+103/043	sitz	1	s i t z
+103/045	sitz	1	s i t z
+103/047	hockä	1	h o ck ä
+103/049	setz	1	s e t z
+103/051	sitz	1	s i t z
+103/053	sitz	1	s i t z
+103/055	sitz	1	s i t z
+103/057	sitz	1	s i t z
+103/059	hocked	1	h o ck e d
+103/063	hoggid	1	h o gg i d
+103/065	sitz	1	s i t z
+103/067	seoz	1	s eo z
+103/069	seatz	1	s ea t z
+103/071	sitz	1	s i t z
+103/073	hocka	1	h o ck a
+103/075	hocke	1	h o ck e
+103/077	hocka	1	h o ck a
+103/079	hocken	1	h o ck e n
+103/081	siz	1	s i z
+103/083	hockn	1	h o ck n
+103/085	sitz	1	s i t z
+103/087	sitz	1	s i t z
+103/089	hockn	1	h o ck n
+103/091	hockn	1	h o ck n
+103/097	sitz	1	s i t z
+103/099	huckn	1	h u ck n
+103/101	sitz	1	s i t z
+103/105	sitz	1	s i t z
+103/107	NA	NA	-
+103/111	sitz	1	s i t z
+103/121	sitz	1	s i t z
+103/125	sitz	1	s i t z
+103/127	sitz	1	s i t z
+103/131	sitz	1	s i t z
+103/133	sitz	1	s i t z
+103/135	sitz	1	s i t z
+103/137	sitz	1	s i t z
+103/139	sitz	1	s i t z
+103/141	sitz	1	s i t z
+103/143	sitz	1	s i t z
+103/145	sitz	1	s i t z
+104/033	NA	NA	-
+104/035	hocke	1	h o ck e
+104/037	sitz	1	s i t z
+104/039	sitz	1	s i t z
+104/041	hocke	1	h o ck e
+104/043	hockes	1	h o ck e s
+104/045	setz	1	s e t z
+104/047	sitz	1	s i t z
+104/049	hockid	1	h o ck i d
+104/051	sitz	1	s i t z
+104/053	sitz	1	s i t z
+104/055	siz	1	s i z
+104/057	hockäd	1	h o ck ä d
+104/059	setz	1	s e t z
+104/061	hoggend	1	h o gg e n d
+104/063	sitz	1	s i t z
+104/065	sitz	1	s i t z
+104/067	sitz	1	s i t z
+104/071	hockä	1	h o ck ä
+104/075	houka	1	h ou k a
+104/077	hocke	1	h o ck e
+104/079	hockn	1	h o ck n
+104/081	sitz	1	s i t z
+104/083	hockn	1	h o ck n
+104/085	sitz	1	s i t z
+104/091	hockn	1	h o ck n
+104/095	huckn	1	h u ck n
+104/101	hukn	1	h u k n
+104/103	sitz	1	s i t z
+104/107	sitz	1	s i t z
+104/111	sits	1	s i t s
+104/113	huknt	1	h u k n t
+104/119	sitz	1	s i t z
+104/121	sitz	1	s i t z
+104/123	sic	1	s i c
+104/125	siz	1	s i z
+104/127	sitz	1	s i t z
+104/131	sitz	1	s i t z
+104/133	sitz	1	s i t z
+104/135	sitz	1	s i t z
+104/137	sitz	1	s i t z
+104/139	sitz	1	s i t z
+104/141	sitz	1	s i t z
+104/143	sitz	1	s i t z
+104/145	sitz	1	s i t z
+105/031	hocke	1	h o ck e
+105/033	sitz	1	s i t z
+105/035	hocke	1	h o ck e
+105/037	hocke	1	h o ck e
+105/039	hocke	1	h o ck e
+105/041	hocke	1	h o ck e
+105/043	hocke	1	h o ck e
+105/045	hockid	1	h o ck i d
+105/047	hockid	1	h o ck i d
+105/049	hockid	1	h o ck i d
+105/051	sitz	1	s i t z
+105/053	sitz	1	s i t z
+105/055	sitz	1	s i t z
+105/057	sitz	1	s i t z
+105/059	sitz	1	s i t z
+105/061	sitz	1	s i t z
+105/063	sitz	1	s i t z
+105/065	sitz	1	s i t z
+105/067	hocken	1	h o ck e n
+105/069	hocken	1	h o ck e n
+105/071	hockö	1	h o ck ö
+105/073	sitz	1	s i t z
+105/075	sitz	1	s i t z
+105/077	sitz	1	s i t z
+105/079	hockn	1	h o ck n
+105/081	hockn	1	h o ck n
+105/085	hockn	1	h o ck n
+105/087	hocken	1	h o ck e n
+105/089	hocknnd	1	h o ck nn d
+105/103	siz	1	s i z
+105/105	huckn	1	h u ck n
+105/111	sitz	1	s i t z
+105/113	sitz	1	s i t z
+105/115	sitz	1	s i t z
+105/117	sitz	1	s i t z
+105/119	NA	NA	-
+105/121	siz	1	s i z
+105/125	sitz	1	s i t z
+105/127	sitz	1	s i t z
+105/131	sitz	1	s i t z
+105/133	sitz	1	s i t z
+105/135	sitz	1	s i t z
+105/137	sitz	1	s i t z
+105/141	sitz	1	s i t z
+105/143	sitz	1	s i t z
+105/145	sitz	1	s i t z
+106/033	hocke	1	h o ck e
+106/035	hocke	1	h o ck e
+106/037	NA	NA	-
+106/039	hocke	1	h o ck e
+106/041	hocke	1	h o ck e
+106/043	hocke	1	h o ck e
+106/045	hocke	1	h o ck e
+106/047	hokchid	1	h o k ch i d
+106/049	setz	1	s e t z
+106/051	hockid	1	h o ck i d
+106/053	sitz	1	s i t z
+106/057	sitz	1	s i t z
+106/061	sitz	1	s i t z
+106/063	sitz	1	s i t z
+106/067	sitz	1	s i t z
+106/071	hocka	1	h o ck a
+106/073	hocka	1	h o ck a
+106/075	hocko	1	h o ck o
+106/077	hockn	1	h o ck n
+106/079	hockn	1	h o ck n
+106/081	hockn	1	h o ck n
+106/085	hocken	1	h o ck e n
+106/087	höckn	1	h ö ck n
+106/093	sitz	1	s i t z
+106/097	sitz	1	s i t z
+106/099	huckn	1	h u ck n
+106/103	sitz	1	s i t z
+106/111	sitz	1	s i t z
+106/115	sitz	1	s i t z
+106/121	sitz	1	s i t z
+106/123	sitz	1	s i t z
+106/125	sitz	1	s i t z
+106/129	sitz	1	s i t z
+106/131	sitz	1	s i t z
+106/133	sitz	1	s i t z
+106/135	sitz	1	s i t z
+106/137	sitz	1	s i t z
+106/139	sitz	1	s i t z
+106/141	sitz	1	s i t z
+106/143	sitz	1	s i t z
+106/145	sitz	1	s i t z
+107/033	hocke	1	h o ck e
+107/035	si	1	s i
+107/037	sitz	1	s i t z
+107/039	hocke	1	h o ck e
+107/041	hocke	1	h o ck e
+107/043	hocke	1	h o ck e
+107/045	sitz	1	s i t z
+107/047	sitz	1	s i t z
+107/049	sitz	1	s i t z
+107/051	sitz	1	s i t z
+107/053	NA	NA	-
+107/057	hoggät	1	h o gg ä t
+107/059	NA	NA	-
+107/063	sitz	1	s i t z
+107/065	sitz	1	s i t z
+107/071	hocka	1	h o ck a
+107/075	hoka	1	h o k a
+107/081	hockn	1	h o ck n
+107/085	hockn	1	h o ck n
+107/087	huckn	1	h u ck n
+107/089	huckn	1	h u ck n
+107/091	sitz	1	s i t z
+107/097	hennt	1	h e nn t
+107/099	sitz	1	s i t z
+107/103	sitz	1	s i t z
+107/105	sitz	1	s i t z
+107/107	sitz	1	s i t z
+107/111	sitz	1	s i t z
+107/119	sitz	1	s i t z
+107/121	sitz	1	s i t z
+107/123	sitz	1	s i t z
+107/125	sitz	1	s i t z
+107/127	sitz	1	s i t z
+107/129	sitz	1	s i t z
+107/131	sitz	1	s i t z
+107/133	sitz	1	s i t z
+107/135	siz	1	s i z
+107/137	houckn	1	h ou ck n
+107/139	sitz	1	s i t z
+107/141	sitz	1	s i t z
+107/143	sitz	1	s i t z
+108/033	hockä	1	h o ck ä
+108/035	NA	NA	-
+108/037	sitz	1	s i t z
+108/039	sitz	1	s i t z
+108/041	hocki	1	h o ck i
+108/043	hocke	1	h o ck e
+108/047	sitz	1	s i t z
+108/049	sitz	1	s i t z
+108/063	sitz	1	s i t z
+108/065	sitz	1	s i t z
+108/067	sitz	1	s i t z
+108/075	huka	1	h u k a
+108/079	hocken	1	h o ck e n
+108/081	sitz	1	s i t z
+108/085	hukn	1	h u k n
+108/087	sitz	1	s i t z
+108/091	sitz	1	s i t z
+108/099	hukit	1	h u k i t
+108/101	sitz	1	s i t z
+108/103	sitz	1	s i t z
+108/105	sitz	1	s i t z
+108/109	sitz	1	s i t z
+108/111	sitz	1	s i t z
+108/113	sitz	1	s i t z
+108/117	huuckn	1	h uu ck n
+108/119	sitz	1	s i t z
+108/121	sitz	1	s i t z
+108/123	sitz	1	s i t z
+108/125	sitz	1	s i t z
+108/127	sitz	1	s i t z
+108/129	sitz	1	s i t z
+108/131	hockn	1	h o ck n
+108/133	sitz	1	s i t z
+108/135	sitz	1	s i t z
+108/137	sitz	1	s i t z
+108/139	sitz	1	s i t z
+108/141	sitz	1	s i t z
+109/035	sitz	1	s i t z
+109/037	sitz	1	s i t z
+109/039	hocke	1	h o ck e
+109/041	sitz	1	s i t z
+109/043	hockä	1	h o ck ä
+109/045	hockid	1	h o ck i d
+109/049	sitz	1	s i t z
+109/053	sitz	1	s i t z
+109/061	sitz	1	s i t z
+109/063	sitz	1	s i t z
+109/065	hockand	1	h o ck a n d
+109/067	hockand	1	h o ck a n d
+109/075	sitz	1	s i t z
+109/083	sitz	1	s i t z
+109/087	sitz	1	s i t z
+109/089	sitz	1	s i t z
+109/091	sitz	1	s i t z
+109/093	sitz	1	s i t z
+109/095	sez	1	s e z
+109/097	sitz	1	s i t z
+109/099	sitz	1	s i t z
+109/101	huknt	1	h u k n t
+109/103	sitz	1	s i t z
+109/107	sitz	1	s i t z
+109/109	sitz	1	s i t z
+109/111	sitz	1	s i t z
+109/113	sitz	1	s i t z
+109/115	sitz	1	s i t z
+109/117	sitz	1	s i t z
+109/119	sitz	1	s i t z
+109/121	sitz	1	s i t z
+109/123	sitz	1	s i t z
+109/125	sitz	1	s i t z
+109/127	sitz	1	s i t z
+109/129	sitz	1	s i t z
+109/131	sitz	1	s i t z
+109/133	sitz	1	s i t z
+109/135	sitz	1	s i t z
+109/137	sitz	1	s i t z
+109/139	sitz	1	s i t z
+110/035	sitz	1	s i t z
+110/039	hocke	1	h o ck e
+110/041	hocke	1	h o ck e
+110/043	sitz	1	s i t z
+110/045	sitz	1	s i t z
+110/047	sitz	1	s i t z
+110/049	hocken	1	h o ck e n
+110/057	hockend	1	h o ck e n d
+110/061	sitz	1	s i t z
+110/065	sitz	1	s i t z
+110/075	hukn	1	h u k n
+110/079	sitz	1	s i t z
+110/081	sitz	1	s i t z
+110/083	sitz	1	s i t z
+110/087	sits	1	s i t s
+110/089	sitz	1	s i t z
+110/091	sitz	1	s i t z
+110/093	huckn	1	h u ck n
+110/095	sitz	1	s i t z
+110/097	sitz	1	s i t z
+110/099	sitz	1	s i t z
+110/101	sitz	1	s i t z
+110/105	hückn	1	h ü ck n
+110/107	sitz	1	s i t z
+110/111	sitz	1	s i t z
+110/113	sitz	1	s i t z
+110/115	sitz	1	s i t z
+110/117	sitz	1	s i t z
+110/119	siz	1	s i z
+110/121	sitz	1	s i t z
+110/125	sitz	1	s i t z
+110/127	sitz	1	s i t z
+110/129	sitz	1	s i t z
+110/131	huckn	1	h u ck n
+110/133	sitz	1	s i t z
+110/135	sitz	1	s i t z
+110/137	houggan	1	h ou gg a n
+110/139	sitz	1	s i t z
+111/035	setz	1	s e t z
+111/037	sitz	1	s i t z
+111/039	NA	NA	-
+111/041	sitz	1	s i t z
+111/043	sitz	1	s i t z
+111/045	sitz	1	s i t z
+111/059	sitz	1	s i t z
+111/073	hukn	1	h u k n
+111/075	sitz	1	s i t z
+111/077	hukn	1	h u k n
+111/079	sitz	1	s i t z
+111/081	sitz	1	s i t z
+111/083	sitz	1	s i t z
+111/087	huckn	1	h u ck n
+111/089	sitz	1	s i t z
+111/105	sitz	1	s i t z
+111/107	sitz	1	s i t z
+111/109	sitz	1	s i t z
+111/111	sitz	1	s i t z
+111/113	sitz	1	s i t z
+111/115	sitz	1	s i t z
+111/117	sitz	1	s i t z
+111/119	siz	1	s i z
+111/121	sitz	1	s i t z
+111/123	sitz	1	s i t z
+111/125	sitz	1	s i t z
+112/037	sitz	1	s i t z
+112/039	sitz	1	s i t z
+112/041	sitz	1	s i t z
+112/043	sitz	1	s i t z
+112/047	sitz	1	s i t z
+112/059	sitz	1	s i t z
+112/061	sitz	1	s i t z
+112/063	hocka	1	h o ck a
+112/075	huckn	1	h u ck n
+112/081	siz	1	s i z
+112/083	sitz	1	s i t z
+112/085	sitz	1	s i t z
+112/111	sitz	1	s i t z
+112/115	sitz	1	s i t z
+112/117	sitz	1	s i t z
+112/119	sitz	1	s i t z
+113/035	sitz	1	s i t z
+113/037	sitz	1	s i t z
+113/039	sitz	1	s i t z
+113/047	sitz	1	s i t z
+113/079	sitz	1	s i t z
+113/081	hukchn	1	h u k ch n
+113/083	sitz	1	s i t z
+113/085	sitz	1	s i t z
+113/087	sitz	1	s i t z
+113/121	sitz	1	s i t z
+113/123	sitz	1	s i t z
+114/035	sitz	1	s i t z
+114/045	NA	NA	-
+114/083	sitz	1	s i t z
+114/085	sitz	1	s i t z
+115/041	hockänd	1	h o ck ä n d
+115/043	sitz	1	s i t z
+115/045	sitz	1	s i t z
+115/083	sitz	1	s i t z
+115/085	sitz	1	s i t z
+116/043	hockent	1	h o ck e n t
+116/045	sitz	1	s i t z
+116/083	sitz	1	s i t z
+117/043	sitz	1	s i t z
+117/045	sitz	1	s i t z
+118/041	sitz	1	s i t z
+119/083	sitz	1	s i t z
+120/085	NA	NA	-
+121/127	shitz	1	s h i t z
+122/127	shitz	1	s h i t z
+122/129	shitz	1	s h i t z
+123/081	NA	NA	-
+123/123	shitz	1	s h i t z
+123/125	shitz	1	s h i t z
+123/127	shitz	1	s h i t z
+123/129	shitz	1	s h i t z
+124/125	shitz	1	s h i t z
+124/127	shitz	1	s h i t z
+124/129	shitz	1	s h i t z

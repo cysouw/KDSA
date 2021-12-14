@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	rod	1	r o d
+002/201	rod	1	r o d
+002/203	rod	1	r o d
+002/205	rohd	1	r oh d
+003/203	rod	1	r o d
+003/205	rood	1	r oo d
+004/205	rod	1	r o d
+005/205	rod	1	r o d
+005/207	rod	1	r o d
+006/205	rohd	1	r oh d
+006/207	rod	1	r o d
+007/205	rood	1	r oo d
+007/207	rod	1	r o d
+007/209	rood	1	r oo d
+007/211	rod	1	r o d
+008/199	rod	1	r o d
+008/203	rod	1	r o d
+008/205	rod	1	r o d
+008/207	rod	1	r o d
+008/209	rod	1	r o d
+008/211	rod	1	r o d
+008/213	rod	1	r o d
+009/199	rohd	1	r oh d
+009/203	rohd	1	r oh d
+009/207	rod	1	r o d
+009/209	rod	1	r o d
+009/211	rod	1	r o d
+009/213	rod	1	r o d
+009/215	rohd	1	r oh d
+009/217	rod	1	r o d
+010/195	rod	1	r o d
+010/203	rod	1	r o d
+010/207	rod	1	r o d
+010/209	rod	1	r o d
+010/211	rohd	1	r oh d
+010/213	rod	1	r o d
+010/215	rood	1	r oo d
+010/217	rod	1	r o d
+010/219	rod	1	r o d
+011/049	rua	1	r ua
+011/053	rod	1	r o d
+011/055	roh	1	r oh
+011/057	rö	1	r ö
+011/059	rod	1	r o d
+011/061	rö	1	r ö
+011/063	röi	1	r öi
+011/065	röi	1	r öi
+011/067	röi	1	r öi
+011/069	rod	1	r o d
+011/187	rod	1	r o d
+011/189	rod	1	r o d
+011/191	rod	1	r o d
+011/195	rod	1	r o d
+011/197	rohd	1	r oh d
+011/203	rod	1	r o d
+011/205	rod	1	r o d
+011/207	rod	1	r o d
+011/209	rood	1	r oo d
+011/211	rod	1	r o d
+011/213	rod	1	r o d
+011/215	rod	1	r o d
+011/217	rod	1	r o d
+011/219	rod	1	r o d
+012/047	raud	1	r au d
+012/049	ruad	1	r ua d
+012/051	ruit	1	r ui t
+012/053	rö	1	r ö
+012/055	rö	1	r ö
+012/057	ro	1	r o
+012/059	röi	1	r öi
+012/061	röd	1	r ö d
+012/063	röi	1	r öi
+012/065	röi	1	r öi
+012/067	röj	1	r ö j
+012/069	roi	1	r oi
+012/187	rod	1	r o d
+012/189	rod	1	r o d
+012/191	rod	1	r o d
+012/193	rohd	1	r oh d
+012/195	rod	1	r o d
+012/197	rod	1	r o d
+012/199	rod	1	r o d
+012/201	rod	1	r o d
+012/203	rod	1	r o d
+012/205	rod	1	r o d
+012/207	rod	1	r o d
+012/209	rod	1	r o d
+012/211	rod	1	r o d
+012/213	rod	1	r o d
+012/215	rood	1	r oo d
+012/217	rod	1	r o d
+012/219	rod	1	r o d
+012/221	rod	1	r o d
+012/223	rod	1	r o d
+013/051	ruith	1	r ui t h
+013/053	rüüd	1	r üü d
+013/055	rüt	1	r ü t
+013/057	rod	1	r o d
+013/059	röö	1	r öö
+013/061	roth	1	r o t h
+013/063	rod	1	r o d
+013/065	rod	1	r o d
+013/067	roor	1	r oo r
+013/161	rod	1	r o d
+013/163	rod	1	r o d
+013/165	rod	1	r o d
+013/167	rot	1	r o t
+013/187	rohd	1	r oh d
+013/189	rod	1	r o d
+013/191	rod	1	r o d
+013/193	rohd	1	r oh d
+013/195	rod	1	r o d
+013/197	rood	1	r oo d
+013/199	rood	1	r oo d
+013/201	rod	1	r o d
+013/203	rod	1	r o d
+013/207	rohd	1	r oh d
+013/209	rod	1	r o d
+013/211	rod	1	r o d
+013/213	rod	1	r o d
+013/215	rod	1	r o d
+013/217	rod	1	r o d
+013/219	NA	NA	-
+013/221	rod	1	r o d
+013/223	rod	1	r o d
+014/047	ruad	1	r ua d
+014/049	ruad	1	r ua d
+014/051	ruad	1	r ua d
+014/053	rud	1	r u d
+014/055	ru	1	r u
+014/057	rüd	1	r ü d
+014/059	rod	1	r o d
+014/061	rod	1	r o d
+014/063	rod	1	r o d
+014/065	rod	1	r o d
+014/067	rohr	1	r oh r
+014/109	rod	1	r o d
+014/159	rod	1	r o d
+014/161	rohd	1	r oh d
+014/163	rod	1	r o d
+014/165	rood	1	r oo d
+014/167	rod	1	r o d
+014/169	rod	1	r o d
+014/187	rood	1	r oo d
+014/189	rod	1	r o d
+014/191	rod	1	r o d
+014/193	rod	1	r o d
+014/195	rood	1	r oo d
+014/197	rod	1	r o d
+014/199	rohd	1	r oh d
+014/201	rod	1	r o d
+014/203	rod	1	r o d
+014/205	rod	1	r o d
+014/207	rod	1	r o d
+014/209	rod	1	r o d
+014/211	rood	1	r oo d
+014/213	rod	1	r o d
+014/215	rod	1	r o d
+014/217	rod	1	r o d
+014/219	rod	1	r o d
+014/221	rohd	1	r oh d
+015/049	ruad	1	r ua d
+015/051	ruad	1	r ua d
+015/053	ruad	1	r ua d
+015/055	rud	1	r u d
+015/057	ruh	1	r uh
+015/059	rod	1	r o d
+015/061	rod	1	r o d
+015/063	rod	1	r o d
+015/065	rod	1	r o d
+015/067	rod	1	r o d
+015/105	ror	1	r o r
+015/107	ror	1	r o r
+015/109	ror	1	r o r
+015/151	rod	1	r o d
+015/153	roht	1	r oh t
+015/155	rod	1	r o d
+015/157	rod	1	r o d
+015/159	rod	1	r o d
+015/161	rod	1	r o d
+015/163	rod	1	r o d
+015/165	rod	1	r o d
+015/167	rod	1	r o d
+015/169	rod	1	r o d
+015/173	rohd	1	r oh d
+015/187	rohd	1	r oh d
+015/191	rohd	1	r oh d
+015/193	rood	1	r oo d
+015/195	rod	1	r o d
+015/197	rod	1	r o d
+015/199	rood	1	r oo d
+015/201	rod	1	r o d
+015/203	rod	1	r o d
+015/205	rod	1	r o d
+015/207	rod	1	r o d
+015/209	rod	1	r o d
+015/211	rod	1	r o d
+015/213	rod	1	r o d
+015/215	rohd	1	r oh d
+015/217	rod	1	r o d
+015/219	rod	1	r o d
+015/221	rod	1	r o d
+016/051	ruard	1	r ua r d
+016/055	rurd	1	r u r d
+016/057	rohr	1	r oh r
+016/059	rohd	1	r oh d
+016/061	ror	1	r o r
+016/063	rod	1	r o d
+016/065	rod	1	r o d
+016/067	rohr	1	r oh r
+016/081	rod	1	r o d
+016/083	rood	1	r oo d
+016/105	rohr	1	r oh r
+016/107	roor	1	r oo r
+016/109	ror	1	r o r
+016/111	rod	1	r o d
+016/145	rohr	1	r oh r
+016/147	ror	1	r o r
+016/149	ror	1	r o r
+016/151	roor	1	r oo r
+016/153	ror	1	r o r
+016/155	rod	1	r o d
+016/157	rod	1	r o d
+016/159	rod	1	r o d
+016/161	rohd	1	r oh d
+016/163	rod	1	r o d
+016/165	rod	1	r o d
+016/167	rod	1	r o d
+016/187	rod	1	r o d
+016/189	rod	1	r o d
+016/191	rod	1	r o d
+016/193	rod	1	r o d
+016/195	rod	1	r o d
+016/197	rod	1	r o d
+016/199	rod	1	r o d
+016/201	rohd	1	r oh d
+016/203	rod	1	r o d
+016/205	rod	1	r o d
+016/209	rod	1	r o d
+016/211	rod	1	r o d
+016/213	rod	1	r o d
+016/215	rod	1	r o d
+016/217	rod	1	r o d
+016/219	rod	1	r o d
+017/055	rod	1	r o d
+017/057	rod	1	r o d
+017/059	rod	1	r o d
+017/061	rod	1	r o d
+017/063	rod	1	r o d
+017/065	rod	1	r o d
+017/067	rod	1	r o d
+017/069	rod	1	r o d
+017/081	roht	1	r oh t
+017/083	rod	1	r o d
+017/099	rod	1	r o d
+017/101	rohr	1	r oh r
+017/103	rohr	1	r oh r
+017/107	ror	1	r o r
+017/109	ror	1	r o r
+017/145	rohr	1	r oh r
+017/147	ror	1	r o r
+017/149	ror	1	r o r
+017/151	rohr	1	r oh r
+017/153	ror	1	r o r
+017/155	rod	1	r o d
+017/157	rod	1	r o d
+017/159	rod	1	r o d
+017/161	rod	1	r o d
+017/163	rohd	1	r oh d
+017/165	rod	1	r o d
+017/169	rohd	1	r oh d
+017/171	rod	1	r o d
+017/183	rod	1	r o d
+017/185	rod	1	r o d
+017/187	rod	1	r o d
+017/189	rod	1	r o d
+017/191	rod	1	r o d
+017/193	rod	1	r o d
+017/195	rod	1	r o d
+017/197	rod	1	r o d
+017/199	rod	1	r o d
+017/201	rod	1	r o d
+017/203	rod	1	r o d
+017/205	rod	1	r o d
+017/207	rod	1	r o d
+017/209	rod	1	r o d
+017/211	rod	1	r o d
+017/213	rohd	1	r oh d
+017/215	rod	1	r o d
+017/217	rod	1	r o d
+017/219	rod	1	r o d
+018/051	rod	1	r o d
+018/053	rod	1	r o d
+018/055	NA	NA	-
+018/057	rood	1	r oo d
+018/059	rohr	1	r oh r
+018/061	ror	1	r o r
+018/063	rohr	1	r oh r
+018/065	roth	1	r o t h
+018/067	rooh	1	r ooh
+018/069	roh	1	r oh
+018/071	rod	1	r o d
+018/073	roi	1	r oi
+018/075	ro	1	r o
+018/079	ro	1	r o
+018/081	roo	1	r oo
+018/097	rohr	1	r oh r
+018/099	rohr	1	r oh r
+018/103	rohd	1	r oh d
+018/105	rohr	1	r oh r
+018/107	rohr	1	r oh r
+018/109	ror	1	r o r
+018/111	rohr	1	r oh r
+018/143	ror	1	r o r
+018/145	ror	1	r o r
+018/147	rohr	1	r oh r
+018/149	ror	1	r o r
+018/151	ror	1	r o r
+018/153	ror	1	r o r
+018/155	rod	1	r o d
+018/157	rohd	1	r oh d
+018/159	rod	1	r o d
+018/161	rod	1	r o d
+018/163	rod	1	r o d
+018/165	rod	1	r o d
+018/169	rod	1	r o d
+018/171	rood	1	r oo d
+018/173	rohd	1	r oh d
+018/181	rod	1	r o d
+018/185	rod	1	r o d
+018/187	rood	1	r oo d
+018/189	rod	1	r o d
+018/191	rod	1	r o d
+018/193	rod	1	r o d
+018/195	rod	1	r o d
+018/197	rod	1	r o d
+018/199	rood	1	r oo d
+018/201	rod	1	r o d
+018/203	rod	1	r o d
+018/205	rod	1	r o d
+018/207	rod	1	r o d
+018/209	rod	1	r o d
+018/211	rod	1	r o d
+018/213	rod	1	r o d
+018/215	rod	1	r o d
+018/219	rod	1	r o d
+019/051	rod	1	r o d
+019/053	rod	1	r o d
+019/055	rod	1	r o d
+019/057	rod	1	r o d
+019/059	rod	1	r o d
+019/061	rohd	1	r oh d
+019/063	rod	1	r o d
+019/065	roi	1	r oi
+019/067	rod	1	r o d
+019/069	rod	1	r o d
+019/071	roh	1	r oh
+019/073	rod	1	r o d
+019/075	rood	1	r oo d
+019/077	roo	1	r oo
+019/079	roo	1	r oo
+019/081	roh	1	r oh
+019/097	rohr	1	r oh r
+019/099	ror	1	r o r
+019/101	ror	1	r o r
+019/103	rohr	1	r oh r
+019/105	rod	1	r o d
+019/107	ror	1	r o r
+019/109	ror	1	r o r
+019/143	rohr	1	r oh r
+019/145	ror	1	r o r
+019/147	rohr	1	r oh r
+019/149	rohr	1	r oh r
+019/151	ror	1	r o r
+019/153	rod	1	r o d
+019/155	ro	1	r o
+019/157	ror	1	r o r
+019/159	rod	1	r o d
+019/161	rod	1	r o d
+019/163	rod	1	r o d
+019/165	rohd	1	r oh d
+019/167	rohd	1	r oh d
+019/169	rod	1	r o d
+019/171	road	1	r oa d
+019/173	rod	1	r o d
+019/175	rod	1	r o d
+019/177	rod	1	r o d
+019/179	rod	1	r o d
+019/181	rood	1	r oo d
+019/183	rohd	1	r oh d
+019/185	rod	1	r o d
+019/187	rod	1	r o d
+019/189	roth	1	r o t h
+019/191	rod	1	r o d
+019/193	rod	1	r o d
+019/195	rod	1	r o d
+019/197	rod	1	r o d
+019/199	rod	1	r o d
+019/201	rood	1	r oo d
+019/203	rod	1	r o d
+019/205	rod	1	r o d
+019/207	rod	1	r o d
+019/209	rod	1	r o d
+019/211	rood	1	r oo d
+019/213	rod	1	r o d
+019/215	rod	1	r o d
+019/217	rod	1	r o d
+019/219	rod	1	r o d
+020/043	rooa	1	r ooa
+020/053	rod	1	r o d
+020/055	rod	1	r o d
+020/057	rohd	1	r oh d
+020/059	rohd	1	r oh d
+020/061	rod	1	r o d
+020/063	rod	1	r o d
+020/065	roi	1	r oi
+020/067	rod	1	r o d
+020/069	roh	1	r oh
+020/071	roh	1	r oh
+020/073	rod	1	r o d
+020/075	roo	1	r oo
+020/077	roh	1	r oh
+020/079	rod	1	r o d
+020/081	ro	1	r o
+020/095	rohr	1	r oh r
+020/097	roor	1	r oo r
+020/099	rohr	1	r oh r
+020/101	rod	1	r o d
+020/103	rohr	1	r oh r
+020/105	rohr	1	r oh r
+020/107	ror	1	r o r
+020/135	rohr	1	r oh r
+020/137	rohr	1	r oh r
+020/139	ror	1	r o r
+020/141	ror	1	r o r
+020/143	ror	1	r o r
+020/145	rohr	1	r oh r
+020/147	ror	1	r o r
+020/149	rohr	1	r oh r
+020/151	ror	1	r o r
+020/153	rod	1	r o d
+020/155	rohd	1	r oh d
+020/157	rod	1	r o d
+020/159	rod	1	r o d
+020/161	rod	1	r o d
+020/163	rod	1	r o d
+020/165	rod	1	r o d
+020/167	rod	1	r o d
+020/169	rod	1	r o d
+020/171	rod	1	r o d
+020/173	rod	1	r o d
+020/175	rohd	1	r oh d
+020/177	rod	1	r o d
+020/179	rod	1	r o d
+020/181	rod	1	r o d
+020/183	rohd	1	r oh d
+020/185	rod	1	r o d
+020/187	roth	1	r o t h
+020/189	rod	1	r o d
+020/191	rood	1	r oo d
+020/193	rood	1	r oo d
+020/195	rod	1	r o d
+020/197	rod	1	r o d
+020/199	rod	1	r o d
+020/201	rod	1	r o d
+020/203	rod	1	r o d
+020/205	rohd	1	r oh d
+020/207	rod	1	r o d
+020/209	rod	1	r o d
+020/211	rod	1	r o d
+020/213	rohd	1	r oh d
+020/215	rod	1	r o d
+020/217	rod	1	r o d
+020/219	rod	1	r o d
+021/055	rod	1	r o d
+021/057	rod	1	r o d
+021/059	rod	1	r o d
+021/061	rod	1	r o d
+021/063	rod	1	r o d
+021/065	rod	1	r o d
+021/067	rod	1	r o d
+021/069	rod	1	r o d
+021/071	rod	1	r o d
+021/073	roht	1	r oh t
+021/075	rot	1	r o t
+021/077	roh	1	r oh
+021/079	rohd	1	r oh d
+021/087	rohr	1	r oh r
+021/089	roor	1	r oo r
+021/091	rohr	1	r oh r
+021/093	roor	1	r oo r
+021/095	roor	1	r oo r
+021/097	rohr	1	r oh r
+021/099	rohr	1	r oh r
+021/101	ror	1	r o r
+021/103	ror	1	r o r
+021/105	ror	1	r o r
+021/107	ror	1	r o r
+021/109	rohr	1	r oh r
+021/111	rohr	1	r oh r
+021/113	rohr	1	r oh r
+021/131	rod	1	r o d
+021/133	rod	1	r o d
+021/135	rohr	1	r oh r
+021/137	roor	1	r oo r
+021/139	rohr	1	r oh r
+021/141	rohr	1	r oh r
+021/143	rohr	1	r oh r
+021/145	ror	1	r o r
+021/147	rod	1	r o d
+021/149	ror	1	r o r
+021/151	roar	1	r oa r
+021/153	rod	1	r o d
+021/155	rod	1	r o d
+021/157	rod	1	r o d
+021/159	rod	1	r o d
+021/163	rod	1	r o d
+021/165	rod	1	r o d
+021/167	rod	1	r o d
+021/169	rod	1	r o d
+021/171	rod	1	r o d
+021/173	rod	1	r o d
+021/175	rod	1	r o d
+021/177	rod	1	r o d
+021/179	rod	1	r o d
+021/181	rod	1	r o d
+021/183	rod	1	r o d
+021/185	roth	1	r o t h
+021/187	roth	1	r o t h
+021/189	roth	1	r o t h
+021/191	roth	1	r o t h
+021/193	roth	1	r o t h
+021/195	rot	1	r o t
+021/197	rod	1	r o d
+021/199	rod	1	r o d
+021/201	rod	1	r o d
+021/203	rohd	1	r oh d
+021/205	rod	1	r o d
+021/207	rod	1	r o d
+021/211	rod	1	r o d
+021/215	rod	1	r o d
+021/217	rod	1	r o d
+021/219	rod	1	r o d
+022/055	rood	1	r oo d
+022/057	rod	1	r o d
+022/059	rod	1	r o d
+022/061	roj	1	r o j
+022/063	rohd	1	r oh d
+022/065	rod	1	r o d
+022/067	rood	1	r oo d
+022/069	roo	1	r oo
+022/071	roh	1	r oh
+022/073	roh	1	r oh
+022/075	roer	1	r oe r
+022/077	ror	1	r o r
+022/087	ror	1	r o r
+022/089	rohr	1	r oh r
+022/091	roor	1	r oo r
+022/093	ror	1	r o r
+022/095	ror	1	r o r
+022/097	rohr	1	r oh r
+022/099	rod	1	r o d
+022/101	rohr	1	r oh r
+022/103	ror	1	r o r
+022/105	rohr	1	r oh r
+022/107	ror	1	r o r
+022/109	ror	1	r o r
+022/111	ror	1	r o r
+022/113	rohr	1	r oh r
+022/115	rohr	1	r oh r
+022/127	rohr	1	r oh r
+022/129	röhr	1	r öh r
+022/131	ror	1	r o r
+022/133	rohr	1	r oh r
+022/135	ror	1	r o r
+022/137	ror	1	r o r
+022/139	roor	1	r oo r
+022/141	ror	1	r o r
+022/143	ror	1	r o r
+022/145	ror	1	r o r
+022/147	rohr	1	r oh r
+022/149	ror	1	r o r
+022/151	rohr	1	r oh r
+022/153	ror	1	r o r
+022/155	rod	1	r o d
+022/157	rod	1	r o d
+022/159	rod	1	r o d
+022/165	rod	1	r o d
+022/167	röud	1	r öu d
+022/169	rod	1	r o d
+022/171	rood	1	r oo d
+022/173	rod	1	r o d
+022/175	rood	1	r oo d
+022/177	rod	1	r o d
+022/179	rod	1	r o d
+022/181	rod	1	r o d
+022/183	roth	1	r o t h
+022/185	roth	1	r o t h
+022/187	roth	1	r o t h
+022/189	roth	1	r o t h
+022/191	roth	1	r o t h
+022/193	roth	1	r o t h
+022/195	rot	1	r o t
+022/197	roth	1	r o t h
+022/199	roth	1	r o t h
+022/201	rod	1	r o d
+022/203	rod	1	r o d
+022/205	rod	1	r o d
+022/209	rood	1	r oo d
+022/211	rod	1	r o d
+022/215	rood	1	r oo d
+022/217	roohd	1	r ooh d
+022/219	rohd	1	r oh d
+023/055	rod	1	r o d
+023/059	rod	1	r o d
+023/061	rod	1	r o d
+023/063	rod	1	r o d
+023/065	rod	1	r o d
+023/067	rod	1	r o d
+023/069	roi	1	r oi
+023/071	NA	NA	-
+023/073	roh	1	r oh
+023/075	roh	1	r oh
+023/077	ro	1	r o
+023/079	rod	1	r o d
+023/081	ror	1	r o r
+023/083	rohr	1	r oh r
+023/085	ror	1	r o r
+023/087	ror	1	r o r
+023/089	ror	1	r o r
+023/091	rood	1	r oo d
+023/093	rohr	1	r oh r
+023/095	ror	1	r o r
+023/097	rohr	1	r oh r
+023/099	rohr	1	r oh r
+023/101	rohr	1	r oh r
+023/103	rohr	1	r oh r
+023/105	ror	1	r o r
+023/107	roor	1	r oo r
+023/109	rood	1	r oo d
+023/111	roor	1	r oo r
+023/113	rohr	1	r oh r
+023/115	rohr	1	r oh r
+023/117	rohd	1	r oh d
+023/121	rohr	1	r oh r
+023/123	ror	1	r o r
+023/125	ror	1	r o r
+023/127	rot	1	r o t
+023/129	rauth	1	r au t h
+023/131	rohr	1	r oh r
+023/133	roh	1	r oh
+023/135	rohr	1	r oh r
+023/137	ror	1	r o r
+023/139	rohr	1	r oh r
+023/141	ror	1	r o r
+023/143	roh	1	r oh
+023/145	ror	1	r o r
+023/147	ror	1	r o r
+023/149	ror	1	r o r
+023/151	ror	1	r o r
+023/153	roor	1	r oo r
+023/155	rod	1	r o d
+023/165	rod	1	r o d
+023/167	rohd	1	r oh d
+023/169	rod	1	r o d
+023/175	rod	1	r o d
+023/177	roth	1	r o t h
+023/179	roth	1	r o t h
+023/181	roth	1	r o t h
+023/183	roth	1	r o t h
+023/185	rot	1	r o t
+023/187	roth	1	r o t h
+023/189	roth	1	r o t h
+023/191	roth	1	r o t h
+023/193	roth	1	r o t h
+023/195	roth	1	r o t h
+023/197	roth	1	r o t h
+023/199	rohd	1	r oh d
+023/201	rod	1	r o d
+023/203	rod	1	r o d
+023/205	rod	1	r o d
+023/207	rod	1	r o d
+023/215	rod	1	r o d
+023/217	rod	1	r o d
+024/053	rod	1	r o d
+024/057	schöne	1	sch ö n e
+024/059	rod	1	r o d
+024/061	rod	1	r o d
+024/063	rod	1	r o d
+024/065	ro	1	r o
+024/067	rod	1	r o d
+024/069	ro	1	r o
+024/071	roh	1	r oh
+024/073	roh	1	r oh
+024/075	ro	1	r o
+024/077	ror	1	r o r
+024/079	roor	1	r oo r
+024/081	roor	1	r oo r
+024/083	rohr	1	r oh r
+024/085	rohr	1	r oh r
+024/087	ror	1	r o r
+024/089	rohr	1	r oh r
+024/091	rohr	1	r oh r
+024/093	ror	1	r o r
+024/095	ror	1	r o r
+024/097	rohr	1	r oh r
+024/099	roor	1	r oo r
+024/101	rohr	1	r oh r
+024/103	ror	1	r o r
+024/105	rohr	1	r oh r
+024/107	rohr	1	r oh r
+024/109	rohr	1	r oh r
+024/111	ror	1	r o r
+024/113	rohr	1	r oh r
+024/115	rohr	1	r oh r
+024/117	rohr	1	r oh r
+024/119	roor	1	r oo r
+024/121	ror	1	r o r
+024/123	rohr	1	r oh r
+024/125	ror	1	r o r
+024/127	rohr	1	r oh r
+024/129	roo	1	r oo
+024/131	rohr	1	r oh r
+024/133	ror	1	r o r
+024/135	ror	1	r o r
+024/137	ror	1	r o r
+024/139	rohr	1	r oh r
+024/141	ror	1	r o r
+024/143	rohr	1	r oh r
+024/145	ror	1	r o r
+024/147	ror	1	r o r
+024/149	rod	1	r o d
+024/151	roud	1	r ou d
+024/153	rod	1	r o d
+024/155	rod	1	r o d
+024/163	roud	1	r ou d
+024/165	rodd	1	r o dd
+024/167	rohd	1	r oh d
+024/169	rohd	1	r oh d
+024/171	rod	1	r o d
+024/175	rod	1	r o d
+024/179	roth	1	r o t h
+024/181	roth	1	r o t h
+024/183	roth	1	r o t h
+024/185	roth	1	r o t h
+024/187	roth	1	r o t h
+024/189	rot	1	r o t
+024/191	roth	1	r o t h
+024/193	roth	1	r o t h
+024/195	roth	1	r o t h
+024/197	rot	1	r o t
+024/199	roth	1	r o t h
+024/201	rohd	1	r oh d
+024/203	rod	1	r o d
+024/217	rod	1	r o d
+024/221	rohd	1	r oh d
+025/043	roet	1	r oe t
+025/051	roer	1	r oe r
+025/053	rod	1	r o d
+025/055	rod	1	r o d
+025/057	rod	1	r o d
+025/059	rod	1	r o d
+025/061	rod	1	r o d
+025/063	rod	1	r o d
+025/065	rohd	1	r oh d
+025/067	roj	1	r o j
+025/069	roh	1	r oh
+025/071	rood	1	r oo d
+025/073	ro	1	r o
+025/075	roh	1	r oh
+025/077	ror	1	r o r
+025/079	roor	1	r oo r
+025/081	rohr	1	r oh r
+025/083	rohr	1	r oh r
+025/085	rohr	1	r oh r
+025/087	rohr	1	r oh r
+025/089	rohr	1	r oh r
+025/091	rohr	1	r oh r
+025/093	roor	1	r oo r
+025/095	rohr	1	r oh r
+025/099	roor	1	r oo r
+025/101	ror	1	r o r
+025/103	rohr	1	r oh r
+025/105	ror	1	r o r
+025/107	ror	1	r o r
+025/109	rohr	1	r oh r
+025/111	ror	1	r o r
+025/113	rohr	1	r oh r
+025/115	rood	1	r oo d
+025/123	rod	1	r o d
+025/125	schöna	1	sch ö n a
+025/127	rohr	1	r oh r
+025/129	rohr	1	r oh r
+025/131	ror	1	r o r
+025/133	ror	1	r o r
+025/135	ror	1	r o r
+025/137	rohr	1	r oh r
+025/139	ror	1	r o r
+025/141	ror	1	r o r
+025/143	ror	1	r o r
+025/145	ror	1	r o r
+025/147	roud	1	r ou d
+025/149	ror	1	r o r
+025/151	rod	1	r o d
+025/153	rod	1	r o d
+025/155	rod	1	r o d
+025/157	rod	1	r o d
+025/159	rod	1	r o d
+025/177	rod	1	r o d
+025/179	roth	1	r o t h
+025/181	roth	1	r o t h
+025/183	roth	1	r o t h
+025/185	roth	1	r o t h
+025/187	roth	1	r o t h
+025/189	roth	1	r o t h
+025/191	roth	1	r o t h
+026/031	rod	1	r o d
+026/033	rod	1	r o d
+026/037	rod	1	r o d
+026/041	rod	1	r o d
+026/043	rod	1	r o d
+026/045	rood	1	r oo d
+026/051	ro	1	r o
+026/053	ro	1	r o
+026/055	rod	1	r o d
+026/057	rod	1	r o d
+026/059	ro	1	r o
+026/061	rod	1	r o d
+026/063	rod	1	r o d
+026/065	rod	1	r o d
+026/067	rood	1	r oo d
+026/069	rod	1	r o d
+026/071	ro	1	r o
+026/073	roh	1	r oh
+026/075	rooh	1	r ooh
+026/077	rohr	1	r oh r
+026/079	rohr	1	r oh r
+026/081	roor	1	r oo r
+026/083	rohr	1	r oh r
+026/085	rohr	1	r oh r
+026/087	roor	1	r oo r
+026/089	rod	1	r o d
+026/091	rohr	1	r oh r
+026/093	rohr	1	r oh r
+026/095	rohr	1	r oh r
+026/097	ror	1	r o r
+026/099	rohr	1	r oh r
+026/101	rohr	1	r oh r
+026/103	ror	1	r o r
+026/105	rohr	1	r oh r
+026/107	rod	1	r o d
+026/109	rood	1	r oo d
+026/111	rohr	1	r oh r
+026/113	roohr	1	r ooh r
+026/115	ro	1	r o
+026/117	rod	1	r o d
+026/119	rod	1	r o d
+026/123	rohr	1	r oh r
+026/125	rod	1	r o d
+026/127	rod	1	r o d
+026/129	ror	1	r o r
+026/131	rohr	1	r oh r
+026/133	ror	1	r o r
+026/135	roor	1	r oo r
+026/137	schöne	1	sch ö n e
+026/139	roth	1	r o t h
+026/141	ror	1	r o r
+026/143	ror	1	r o r
+026/145	rod	1	r o d
+026/147	rod	1	r o d
+026/153	rod	1	r o d
+026/155	rod	1	r o d
+026/157	rod	1	r o d
+026/159	rod	1	r o d
+026/161	rod	1	r o d
+026/165	rod	1	r o d
+026/173	rod	1	r o d
+026/175	rod	1	r o d
+026/177	rood	1	r oo d
+026/179	rod	1	r o d
+026/181	roth	1	r o t h
+026/183	roth	1	r o t h
+026/185	roth	1	r o t h
+026/187	roth	1	r o t h
+026/189	roth	1	r o t h
+027/027	rod	1	r o d
+027/035	rod	1	r o d
+027/037	rod	1	r o d
+027/039	rood	1	r oo d
+027/041	rod	1	r o d
+027/043	ro	1	r o
+027/045	rod	1	r o d
+027/047	rod	1	r o d
+027/051	ro	1	r o
+027/053	roo	1	r oo
+027/055	roh	1	r oh
+027/057	rooh	1	r ooh
+027/059	rod	1	r o d
+027/061	rod	1	r o d
+027/063	rod	1	r o d
+027/065	roh	1	r oh
+027/067	rod	1	r o d
+027/069	rod	1	r o d
+027/071	rod	1	r o d
+027/073	rod	1	r o d
+027/075	roh	1	r oh
+027/077	roo	1	r oo
+027/079	roh	1	r oh
+027/081	rohr	1	r oh r
+027/083	rohr	1	r oh r
+027/085	roor	1	r oo r
+027/087	rohr	1	r oh r
+027/089	rohr	1	r oh r
+027/091	rohr	1	r oh r
+027/093	ror	1	r o r
+027/095	ror	1	r o r
+027/099	roor	1	r oo r
+027/101	roor	1	r oo r
+027/103	ror	1	r o r
+027/105	ror	1	r o r
+027/107	roo	1	r oo
+027/109	ror	1	r o r
+027/111	rohr	1	r oh r
+027/113	ror	1	r o r
+027/115	rohd	1	r oh d
+027/117	rod	1	r o d
+027/119	rod	1	r o d
+027/123	rod	1	r o d
+027/125	rod	1	r o d
+027/127	rod	1	r o d
+027/129	rohr	1	r oh r
+027/131	rod	1	r o d
+027/135	ror	1	r o r
+027/137	ror	1	r o r
+027/139	rohr	1	r oh r
+027/141	rod	1	r o d
+027/143	rohr	1	r oh r
+027/145	rod	1	r o d
+027/147	rod	1	r o d
+027/149	roor	1	r oo r
+027/151	rod	1	r o d
+027/153	rod	1	r o d
+027/155	rod	1	r o d
+027/157	rood	1	r oo d
+027/159	rod	1	r o d
+027/161	rod	1	r o d
+027/167	rood	1	r oo d
+027/171	rod	1	r o d
+027/173	rod	1	r o d
+027/175	rod	1	r o d
+027/177	rod	1	r o d
+027/179	rod	1	r o d
+027/181	rohd	1	r oh d
+027/183	roth	1	r o t h
+027/185	roth	1	r o t h
+028/033	rod	1	r o d
+028/035	rood	1	r oo d
+028/037	rood	1	r oo d
+028/039	rood	1	r oo d
+028/041	rod	1	r o d
+028/043	rod	1	r o d
+028/045	rohd	1	r oh d
+028/047	ro	1	r o
+028/049	ro	1	r o
+028/051	rod	1	r o d
+028/053	ro	1	r o
+028/055	roh	1	r oh
+028/057	ro	1	r o
+028/059	rod	1	r o d
+028/061	roh	1	r oh
+028/063	rod	1	r o d
+028/065	ro	1	r o
+028/067	räud	1	r äu d
+028/069	ro	1	r o
+028/071	roo	1	r oo
+028/073	rohd	1	r oh d
+028/075	rooh	1	r ooh
+028/077	roh	1	r oh
+028/079	roor	1	r oo r
+028/081	rod	1	r o d
+028/083	roth	1	r o t h
+028/085	ror	1	r o r
+028/087	ror	1	r o r
+028/089	rohr	1	r oh r
+028/091	rohr	1	r oh r
+028/093	ror	1	r o r
+028/095	rohr	1	r oh r
+028/097	rohr	1	r oh r
+028/099	roor	1	r oo r
+028/103	rohr	1	r oh r
+028/105	rohr	1	r oh r
+028/107	rod	1	r o d
+028/109	rod	1	r o d
+028/111	roor	1	r oo r
+028/113	rod	1	r o d
+028/115	rod	1	r o d
+028/117	rod	1	r o d
+028/119	rod	1	r o d
+028/121	rod	1	r o d
+028/123	rod	1	r o d
+028/125	rod	1	r o d
+028/127	rohr	1	r oh r
+028/129	rohr	1	r oh r
+028/131	roar	1	r oa r
+028/133	rohr	1	r oh r
+028/135	roth	1	r o t h
+028/137	rohr	1	r oh r
+028/139	ror	1	r o r
+028/141	rod	1	r o d
+028/143	rohd	1	r oh d
+028/145	rod	1	r o d
+028/147	rood	1	r oo d
+028/151	roid	1	r oi d
+028/153	rod	1	r o d
+028/155	rod	1	r o d
+028/157	rod	1	r o d
+028/159	rood	1	r oo d
+028/161	röud	1	r öu d
+028/165	rod	1	r o d
+028/169	rod	1	r o d
+028/171	rod	1	r o d
+028/173	rohd	1	r oh d
+028/175	rood	1	r oo d
+028/177	roud	1	r ou d
+028/179	rohd	1	r oh d
+028/181	roth	1	r o t h
+028/183	roth	1	r o t h
+028/185	roth	1	r o t h
+029/033	rood	1	r oo d
+029/035	rood	1	r oo d
+029/037	rod	1	r o d
+029/039	rod	1	r o d
+029/043	rood	1	r oo d
+029/045	rod	1	r o d
+029/047	ro	1	r o
+029/049	ro	1	r o
+029/051	ro	1	r o
+029/053	ro	1	r o
+029/055	roh	1	r oh
+029/057	ro	1	r o
+029/059	ro	1	r o
+029/061	ro	1	r o
+029/065	ro	1	r o
+029/067	rod	1	r o d
+029/069	roud	1	r ou d
+029/071	rod	1	r o d
+029/073	rohr	1	r oh r
+029/075	roh	1	r oh
+029/077	roh	1	r oh
+029/079	ror	1	r o r
+029/081	rohr	1	r oh r
+029/083	rohr	1	r oh r
+029/085	schöne	1	sch ö n e
+029/087	ror	1	r o r
+029/089	ror	1	r o r
+029/091	ror	1	r o r
+029/093	roor	1	r oo r
+029/095	rohr	1	r oh r
+029/097	rohr	1	r oh r
+029/099	roh	1	r oh
+029/101	ror	1	r o r
+029/103	rohr	1	r oh r
+029/105	ror	1	r o r
+029/107	roh	1	r oh
+029/109	rod	1	r o d
+029/111	rod	1	r o d
+029/113	rod	1	r o d
+029/115	roth	1	r o t h
+029/117	rod	1	r o d
+029/119	rod	1	r o d
+029/121	rod	1	r o d
+029/123	rod	1	r o d
+029/125	rod	1	r o d
+029/127	ror	1	r o r
+029/129	rod	1	r o d
+029/131	rohr	1	r oh r
+029/133	rod	1	r o d
+029/135	rood	1	r oo d
+029/137	rod	1	r o d
+029/139	rohd	1	r oh d
+029/141	rod	1	r o d
+029/143	rod	1	r o d
+029/145	rod	1	r o d
+029/147	rohd	1	r oh d
+029/149	rod	1	r o d
+029/151	rod	1	r o d
+029/153	reod	1	r eo d
+029/155	rohd	1	r oh d
+029/157	rod	1	r o d
+029/159	röud	1	r öu d
+029/161	röd	1	r ö d
+029/163	röd	1	r ö d
+029/165	röaud	1	r öau d
+029/167	rod	1	r o d
+029/169	rod	1	r o d
+029/171	rod	1	r o d
+029/173	rod	1	r o d
+029/175	rod	1	r o d
+029/177	rod	1	r o d
+029/181	rod	1	r o d
+030/033	rood	1	r oo d
+030/035	rod	1	r o d
+030/037	rood	1	r oo d
+030/039	rod	1	r o d
+030/041	rood	1	r oo d
+030/043	rod	1	r o d
+030/045	roh	1	r oh
+030/047	roh	1	r oh
+030/049	ro	1	r o
+030/051	roh	1	r oh
+030/053	roh	1	r oh
+030/055	roh	1	r oh
+030/057	rohr	1	r oh r
+030/059	ru	1	r u
+030/061	ro	1	r o
+030/065	NA	NA	-
+030/067	rod	1	r o d
+030/071	ror	1	r o r
+030/073	ro	1	r o
+030/075	rohr	1	r oh r
+030/077	rohr	1	r oh r
+030/079	roor	1	r oo r
+030/081	rohr	1	r oh r
+030/083	ror	1	r o r
+030/085	rohr	1	r oh r
+030/087	ror	1	r o r
+030/089	rod	1	r o d
+030/091	ror	1	r o r
+030/093	ror	1	r o r
+030/095	rohr	1	r oh r
+030/097	rohr	1	r oh r
+030/099	ror	1	r o r
+030/101	roh	1	r oh
+030/103	rohr	1	r oh r
+030/105	rod	1	r o d
+030/107	rod	1	r o d
+030/109	rod	1	r o d
+030/111	rood	1	r oo d
+030/113	rod	1	r o d
+030/115	roet	1	r oe t
+030/117	rohr	1	r oh r
+030/119	rood	1	r oo d
+030/121	rod	1	r o d
+030/123	rod	1	r o d
+030/125	rod	1	r o d
+030/127	rod	1	r o d
+030/129	rod	1	r o d
+030/131	rod	1	r o d
+030/133	roj	1	r o j
+030/135	rog	1	r o g
+030/137	rod	1	r o d
+030/139	rod	1	r o d
+030/141	rod	1	r o d
+030/143	roth	1	r o t h
+030/145	rod	1	r o d
+030/147	rod	1	r o d
+030/149	rod	1	r o d
+030/151	reud	1	r eu d
+030/153	rohd	1	r oh d
+030/155	röhd	1	r öh d
+030/157	reod	1	r eo d
+030/159	reod	1	r eo d
+030/161	rod	1	r o d
+030/163	rohd	1	r oh d
+030/165	rod	1	r o d
+030/167	rod	1	r o d
+030/169	rohd	1	r oh d
+030/171	rohd	1	r oh d
+030/173	rod	1	r o d
+030/175	rood	1	r oo d
+030/177	rod	1	r o d
+030/179	rod	1	r o d
+030/181	rohd	1	r oh d
+030/183	raä	1	r aä
+031/035	rood	1	r oo d
+031/037	rood	1	r oo d
+031/039	rood	1	r oo d
+031/041	rood	1	r oo d
+031/043	rod	1	r o d
+031/045	ro	1	r o
+031/047	roh	1	r oh
+031/049	roh	1	r oh
+031/051	roh	1	r oh
+031/053	ror	1	r o r
+031/055	ro	1	r o
+031/057	roh	1	r oh
+031/059	rod	1	r o d
+031/061	roh	1	r oh
+031/063	roh	1	r oh
+031/065	roh	1	r oh
+031/067	rod	1	r o d
+031/069	ro	1	r o
+031/071	roh	1	r oh
+031/073	rood	1	r oo d
+031/075	ro	1	r o
+031/077	ror	1	r o r
+031/079	ro	1	r o
+031/081	roo	1	r oo
+031/083	roor	1	r oo r
+031/085	rod	1	r o d
+031/087	rohr	1	r oh r
+031/089	ror	1	r o r
+031/091	rohr	1	r oh r
+031/093	rohr	1	r oh r
+031/095	roh	1	r oh
+031/097	roor	1	r oo r
+031/099	rohr	1	r oh r
+031/101	roor	1	r oo r
+031/103	rod	1	r o d
+031/105	ro	1	r o
+031/107	rohr	1	r oh r
+031/109	rod	1	r o d
+031/111	rod	1	r o d
+031/113	rod	1	r o d
+031/115	rod	1	r o d
+031/117	rod	1	r o d
+031/119	rod	1	r o d
+031/121	rohd	1	r oh d
+031/123	rog	1	r o g
+031/125	rog	1	r o g
+031/127	rod	1	r o d
+031/129	roj	1	r o j
+031/131	rog	1	r o g
+031/133	roj	1	r o j
+031/135	rod	1	r o d
+031/137	rohd	1	r oh d
+031/139	rod	1	r o d
+031/141	rod	1	r o d
+031/143	rod	1	r o d
+031/145	rod	1	r o d
+031/147	rood	1	r oo d
+031/149	rod	1	r o d
+031/151	rohd	1	r oh d
+031/153	rod	1	r o d
+031/155	rehud	1	r e h u d
+031/157	rod	1	r o d
+031/159	rod	1	r o d
+031/161	rod	1	r o d
+031/163	rod	1	r o d
+031/167	rohd	1	r oh d
+031/169	roth	1	r o t h
+031/171	roth	1	r o t h
+031/173	roth	1	r o t h
+031/175	roth	1	r o t h
+031/177	rohd	1	r oh d
+031/179	rod	1	r o d
+032/035	rod	1	r o d
+032/037	rood	1	r oo d
+032/039	rood	1	r oo d
+032/041	rod	1	r o d
+032/043	raod	1	r ao d
+032/045	rohd	1	r oh d
+032/047	ro	1	r o
+032/049	rooer	1	r ooe r
+032/051	ro	1	r o
+032/053	ro	1	r o
+032/055	roh	1	r oh
+032/057	ro	1	r o
+032/059	rohr	1	r oh r
+032/061	ruh	1	r uh
+032/065	roh	1	r oh
+032/069	roh	1	r oh
+032/071	roh	1	r oh
+032/073	rod	1	r o d
+032/075	rod	1	r o d
+032/077	rod	1	r o d
+032/079	roh	1	r oh
+032/081	roor	1	r oo r
+032/083	roor	1	r oo r
+032/085	rohr	1	r oh r
+032/087	ror	1	r o r
+032/089	rohr	1	r oh r
+032/091	roh	1	r oh
+032/093	rod	1	r o d
+032/095	roh	1	r oh
+032/097	rod	1	r o d
+032/099	rog	1	r o g
+032/101	rod	1	r o d
+032/103	rood	1	r oo d
+032/105	rod	1	r o d
+032/107	rod	1	r o d
+032/111	rohd	1	r oh d
+032/113	rod	1	r o d
+032/115	roth	1	r o t h
+032/117	rod	1	r o d
+032/119	rod	1	r o d
+032/121	rohd	1	r oh d
+032/123	rod	1	r o d
+032/125	rooj	1	r oo j
+032/127	rog	1	r o g
+032/129	rohg	1	r oh g
+032/131	roog	1	r oo g
+032/133	rog	1	r o g
+032/135	rod	1	r o d
+032/139	rod	1	r o d
+032/141	rod	1	r o d
+032/143	rod	1	r o d
+032/145	rood	1	r oo d
+032/147	rod	1	r o d
+032/149	rod	1	r o d
+032/151	rod	1	r o d
+032/153	rod	1	r o d
+032/157	rod	1	r o d
+032/159	rod	1	r o d
+032/161	räud	1	r äu d
+032/163	reot	1	r eo t
+032/167	rod	1	r o d
+032/169	roth	1	r o t h
+032/171	roth	1	r o t h
+032/173	rot	1	r o t
+032/175	rod	1	r o d
+032/177	rod	1	r o d
+032/179	röd	1	r ö d
+032/181	rod	1	r o d
+032/183	rohd	1	r oh d
+033/035	ro	1	r o
+033/037	rod	1	r o d
+033/039	rood	1	r oo d
+033/041	ro	1	r o
+033/043	ruor	1	r uo r
+033/045	ro	1	r o
+033/047	roh	1	r oh
+033/049	rohr	1	r oh r
+033/051	ro	1	r o
+033/053	rö	1	r ö
+033/055	roa	1	r oa
+033/057	ro	1	r o
+033/059	rou	1	r ou
+033/061	ro	1	r o
+033/063	rohr	1	r oh r
+033/065	ro	1	r o
+033/067	ro	1	r o
+033/069	roh	1	r oh
+033/071	roh	1	r oh
+033/073	ro	1	r o
+033/075	roohr	1	r ooh r
+033/077	roh	1	r oh
+033/079	roo	1	r oo
+033/081	rooh	1	r ooh
+033/083	rohr	1	r oh r
+033/085	rohr	1	r oh r
+033/087	rood	1	r oo d
+033/089	roo	1	r oo
+033/091	roh	1	r oh
+033/093	roh	1	r oh
+033/095	rod	1	r o d
+033/097	rohd	1	r oh d
+033/099	rod	1	r o d
+033/101	rod	1	r o d
+033/103	rohr	1	r oh r
+033/105	rod	1	r o d
+033/107	rod	1	r o d
+033/109	rod	1	r o d
+033/111	rod	1	r o d
+033/113	rod	1	r o d
+033/115	rood	1	r oo d
+033/117	roth	1	r o t h
+033/119	rod	1	r o d
+033/121	rod	1	r o d
+033/123	roj	1	r o j
+033/125	rog	1	r o g
+033/127	rog	1	r o g
+033/129	roj	1	r o j
+033/131	rog	1	r o g
+033/133	roj	1	r o j
+033/135	roj	1	r o j
+033/137	rod	1	r o d
+033/139	rod	1	r o d
+033/141	rod	1	r o d
+033/143	rod	1	r o d
+033/145	rohd	1	r oh d
+033/147	rod	1	r o d
+033/149	rod	1	r o d
+033/151	rod	1	r o d
+033/153	rod	1	r o d
+033/155	rood	1	r oo d
+033/159	reud	1	r eu d
+033/161	rod	1	r o d
+033/163	röäd	1	r öä d
+033/165	schmok	1	sch m o k
+033/167	rod	1	r o d
+033/169	rod	1	r o d
+033/173	rod	1	r o d
+033/175	rod	1	r o d
+033/177	rod	1	r o d
+034/035	roh	1	r oh
+034/039	roh	1	r oh
+034/041	ro	1	r o
+034/043	roh	1	r oh
+034/045	ro	1	r o
+034/047	ro	1	r o
+034/049	rohr	1	r oh r
+034/051	rohr	1	r oh r
+034/053	roo	1	r oo
+034/055	roh	1	r oh
+034/057	ro	1	r o
+034/059	ro	1	r o
+034/061	roh	1	r oh
+034/063	ro	1	r o
+034/065	ro	1	r o
+034/067	ro	1	r o
+034/069	roh	1	r oh
+034/071	roth	1	r o t h
+034/073	ror	1	r o r
+034/075	ror	1	r o r
+034/077	rod	1	r o d
+034/079	roo	1	r oo
+034/081	ro	1	r o
+034/083	rooh	1	r ooh
+034/085	ro	1	r o
+034/087	rood	1	r oo d
+034/089	rog	1	r o g
+034/091	rog	1	r o g
+034/093	rooj	1	r oo j
+034/095	rog	1	r o g
+034/097	rohj	1	r oh j
+034/099	NA	NA	-
+034/101	rooj	1	r oo j
+034/103	rog	1	r o g
+034/105	ror	1	r o r
+034/107	rod	1	r o d
+034/109	rod	1	r o d
+034/111	rod	1	r o d
+034/113	rod	1	r o d
+034/115	rod	1	r o d
+034/117	rood	1	r oo d
+034/119	roth	1	r o t h
+034/121	rog	1	r o g
+034/125	rog	1	r o g
+034/127	roj	1	r o j
+034/129	roj	1	r o j
+034/131	rog	1	r o g
+034/133	roj	1	r o j
+034/135	rooj	1	r oo j
+034/137	rod	1	r o d
+034/139	rod	1	r o d
+034/141	rod	1	r o d
+034/143	rod	1	r o d
+034/145	rod	1	r o d
+034/147	rod	1	r o d
+034/149	rod	1	r o d
+034/151	rod	1	r o d
+034/155	rod	1	r o d
+034/157	rod	1	r o d
+034/161	roid	1	r oi d
+034/163	rod	1	r o d
+034/165	rod	1	r o d
+034/167	rod	1	r o d
+034/169	rod	1	r o d
+034/173	rod	1	r o d
+035/035	roo	1	r oo
+035/037	ro	1	r o
+035/039	ro	1	r o
+035/041	roh	1	r oh
+035/043	roh	1	r oh
+035/045	roh	1	r oh
+035/047	ro	1	r o
+035/049	rohr	1	r oh r
+035/051	roh	1	r oh
+035/053	roh	1	r oh
+035/055	rohr	1	r oh r
+035/057	roh	1	r oh
+035/059	ro	1	r o
+035/061	roh	1	r oh
+035/063	rod	1	r o d
+035/065	roh	1	r oh
+035/067	roh	1	r oh
+035/069	ro	1	r o
+035/071	ro	1	r o
+035/073	roh	1	r oh
+035/075	rod	1	r o d
+035/077	rooh	1	r ooh
+035/079	roo	1	r oo
+035/081	rood	1	r oo d
+035/083	rohr	1	r oh r
+035/085	ro	1	r o
+035/087	ro	1	r o
+035/089	roi	1	r oi
+035/091	roj	1	r o j
+035/093	roog	1	r oo g
+035/095	rog	1	r o g
+035/097	roth	1	r o t h
+035/099	röj	1	r ö j
+035/101	roj	1	r o j
+035/103	rog	1	r o g
+035/105	roj	1	r o j
+035/107	rog	1	r o g
+035/109	rod	1	r o d
+035/111	rod	1	r o d
+035/113	rod	1	r o d
+035/115	rod	1	r o d
+035/117	rod	1	r o d
+035/121	rog	1	r o g
+035/123	roj	1	r o j
+035/125	roj	1	r o j
+035/127	roj	1	r o j
+035/129	roj	1	r o j
+035/133	roj	1	r o j
+035/135	rohg	1	r oh g
+035/137	roj	1	r o j
+035/139	rog	1	r o g
+035/141	rod	1	r o d
+035/143	rod	1	r o d
+035/145	rod	1	r o d
+035/147	rod	1	r o d
+035/149	rod	1	r o d
+035/151	rod	1	r o d
+035/153	rod	1	r o d
+035/155	rod	1	r o d
+035/157	roth	1	r o t h
+035/165	rohg	1	r oh g
+035/167	rod	1	r o d
+035/169	rod	1	r o d
+035/171	rod	1	r o d
+035/173	rod	1	r o d
+036/033	roh	1	r oh
+036/035	roh	1	r oh
+036/039	ro	1	r o
+036/041	roh	1	r oh
+036/043	roh	1	r oh
+036/045	roh	1	r oh
+036/047	ro	1	r o
+036/049	ro	1	r o
+036/051	ro	1	r o
+036/053	roh	1	r oh
+036/055	roo	1	r oo
+036/057	ro	1	r o
+036/059	ro	1	r o
+036/061	ro	1	r o
+036/063	roh	1	r oh
+036/065	ro	1	r o
+036/067	roh	1	r oh
+036/069	ro	1	r o
+036/071	ro	1	r o
+036/073	ror	1	r o r
+036/075	roh	1	r oh
+036/077	roh	1	r oh
+036/079	ro	1	r o
+036/081	ro	1	r o
+036/083	rod	1	r o d
+036/085	roi	1	r oi
+036/087	roi	1	r oi
+036/089	ro	1	r o
+036/091	ro	1	r o
+036/095	rog	1	r o g
+036/097	rog	1	r o g
+036/099	roj	1	r o j
+036/101	roj	1	r o j
+036/103	roj	1	r o j
+036/105	rod	1	r o d
+036/107	rog	1	r o g
+036/109	rohd	1	r oh d
+036/111	rod	1	r o d
+036/113	rod	1	r o d
+036/115	rod	1	r o d
+036/117	rohd	1	r oh d
+036/119	rohd	1	r oh d
+036/121	roj	1	r o j
+036/123	rod	1	r o d
+036/125	rod	1	r o d
+036/127	rog	1	r o g
+036/129	roj	1	r o j
+036/133	rooj	1	r oo j
+036/135	rod	1	r o d
+036/137	rod	1	r o d
+036/139	rod	1	r o d
+036/141	rod	1	r o d
+036/143	rod	1	r o d
+036/147	rod	1	r o d
+036/149	rod	1	r o d
+036/151	rod	1	r o d
+036/153	rod	1	r o d
+036/155	rod	1	r o d
+036/161	rod	1	r o d
+036/163	rohd	1	r oh d
+036/165	rot	1	r o t
+036/167	rod	1	r o d
+036/169	rod	1	r o d
+036/171	rod	1	r o d
+037/033	roh	1	r oh
+037/035	ro	1	r o
+037/037	roo	1	r oo
+037/039	ro	1	r o
+037/041	roh	1	r oh
+037/043	roh	1	r oh
+037/045	ro	1	r o
+037/047	roh	1	r oh
+037/049	roh	1	r oh
+037/051	ro	1	r o
+037/053	roo	1	r oo
+037/055	roh	1	r oh
+037/057	ro	1	r o
+037/059	roh	1	r oh
+037/061	ro	1	r o
+037/063	roh	1	r oh
+037/065	rro	1	rr o
+037/067	roo	1	r oo
+037/069	ro	1	r o
+037/071	roh	1	r oh
+037/073	ro	1	r o
+037/075	roh	1	r oh
+037/077	roo	1	r oo
+037/079	roth	1	r o t h
+037/081	rou	1	r ou
+037/083	rauth	1	r au t h
+037/085	ro	1	r o
+037/087	ro	1	r o
+037/089	roi	1	r oi
+037/091	rog	1	r o g
+037/093	roj	1	r o j
+037/095	roj	1	r o j
+037/097	rog	1	r o g
+037/099	rog	1	r o g
+037/101	roij	1	r oi j
+037/105	rog	1	r o g
+037/107	rood	1	r oo d
+037/109	rod	1	r o d
+037/111	rod	1	r o d
+037/113	rod	1	r o d
+037/115	rohd	1	r oh d
+037/117	rod	1	r o d
+037/119	rood	1	r oo d
+037/121	rod	1	r o d
+037/123	rohd	1	r oh d
+037/125	rohd	1	r oh d
+037/127	rod	1	r o d
+037/129	rod	1	r o d
+037/131	rod	1	r o d
+037/133	raod	1	r ao d
+037/135	rod	1	r o d
+037/137	rod	1	r o d
+037/139	rood	1	r oo d
+037/141	rod	1	r o d
+037/145	rod	1	r o d
+037/147	rod	1	r o d
+037/149	rod	1	r o d
+037/151	rod	1	r o d
+037/153	rod	1	r o d
+037/155	rod	1	r o d
+037/157	rohd	1	r oh d
+037/159	roed	1	r oe d
+037/163	rod	1	r o d
+037/171	rod	1	r o d
+038/033	ro	1	r o
+038/035	ro	1	r o
+038/037	roh	1	r oh
+038/039	ro	1	r o
+038/041	roo	1	r oo
+038/043	roh	1	r oh
+038/045	roh	1	r oh
+038/047	roh	1	r oh
+038/049	roh	1	r oh
+038/051	ro	1	r o
+038/053	roh	1	r oh
+038/055	ro	1	r o
+038/057	ro	1	r o
+038/059	roh	1	r oh
+038/061	roh	1	r oh
+038/063	roh	1	r oh
+038/065	ro	1	r o
+038/067	roh	1	r oh
+038/069	ro	1	r o
+038/071	ro	1	r o
+038/073	roh	1	r oh
+038/075	ro	1	r o
+038/077	roh	1	r oh
+038/079	ro	1	r o
+038/081	rauth	1	r au t h
+038/083	raut	1	r au t
+038/085	roth	1	r o t h
+038/087	roh	1	r oh
+038/089	rohj	1	r oh j
+038/091	ro	1	r o
+038/093	rog	1	r o g
+038/095	roj	1	r o j
+038/097	roj	1	r o j
+038/099	roij	1	r oi j
+038/101	rohj	1	r oh j
+038/103	ro	1	r o
+038/105	rod	1	r o d
+038/107	rod	1	r o d
+038/109	rod	1	r o d
+038/111	rod	1	r o d
+038/113	rohd	1	r oh d
+038/115	rod	1	r o d
+038/117	rod	1	r o d
+038/119	rod	1	r o d
+038/121	rod	1	r o d
+038/123	rod	1	r o d
+038/125	rod	1	r o d
+038/127	road	1	r oa d
+038/129	rod	1	r o d
+038/131	rod	1	r o d
+038/133	road	1	r oa d
+038/135	rod	1	r o d
+038/145	rod	1	r o d
+038/147	rod	1	r o d
+038/149	rod	1	r o d
+038/151	rod	1	r o d
+038/153	rod	1	r o d
+038/155	rood	1	r oo d
+038/159	rod	1	r o d
+038/161	rod	1	r o d
+038/163	rod	1	r o d
+039/029	ro	1	r o
+039/031	ro	1	r o
+039/033	ro	1	r o
+039/035	roh	1	r oh
+039/037	roh	1	r oh
+039/039	roh	1	r oh
+039/041	roh	1	r oh
+039/043	ro	1	r o
+039/045	roh	1	r oh
+039/047	roh	1	r oh
+039/049	roh	1	r oh
+039/051	roh	1	r oh
+039/053	roh	1	r oh
+039/055	ro	1	r o
+039/057	ro	1	r o
+039/059	ro	1	r o
+039/061	roh	1	r oh
+039/063	ro	1	r o
+039/065	roh	1	r oh
+039/067	ro	1	r o
+039/069	roh	1	r oh
+039/071	roh	1	r oh
+039/073	roh	1	r oh
+039/075	roo	1	r oo
+039/077	roh	1	r oh
+039/079	roh	1	r oh
+039/081	raut	1	r au t
+039/083	rau	1	r au
+039/085	rou	1	r ou
+039/087	rog	1	r o g
+039/089	roj	1	r o j
+039/091	roi	1	r oi
+039/093	rog	1	r o g
+039/095	roi	1	r oi
+039/097	rog	1	r o g
+039/099	rooj	1	r oo j
+039/101	rog	1	r o g
+039/103	roj	1	r o j
+039/105	rod	1	r o d
+039/107	roj	1	r o j
+039/109	rod	1	r o d
+039/111	rod	1	r o d
+039/113	rod	1	r o d
+039/115	rod	1	r o d
+039/117	rod	1	r o d
+039/119	rot	1	r o t
+039/121	rod	1	r o d
+039/123	rod	1	r o d
+039/125	rod	1	r o d
+039/127	rod	1	r o d
+039/129	rod	1	r o d
+039/131	roth	1	r o t h
+039/133	ruth	1	r u t h
+039/135	ruth	1	r u t h
+039/137	ruth	1	r u t h
+039/139	ruth	1	r u t h
+039/149	rod	1	r o d
+039/151	rod	1	r o d
+039/153	rod	1	r o d
+039/155	rod	1	r o d
+040/029	roa	1	r oa
+040/031	roah	1	r oah
+040/033	roth	1	r o t h
+040/035	rod	1	r o d
+040/037	rao	1	r ao
+040/039	roh	1	r oh
+040/041	rö	1	r ö
+040/043	ro	1	r o
+040/045	raoh	1	r aoh
+040/047	rah	1	r ah
+040/049	roh	1	r oh
+040/051	roh	1	r oh
+040/053	ro	1	r o
+040/055	roh	1	r oh
+040/057	roo	1	r oo
+040/059	roh	1	r oh
+040/061	ro	1	r o
+040/063	roh	1	r oh
+040/065	roh	1	r oh
+040/067	roh	1	r oh
+040/069	roh	1	r oh
+040/071	roh	1	r oh
+040/073	roh	1	r oh
+040/075	roh	1	r oh
+040/077	ro	1	r o
+040/079	roh	1	r oh
+040/081	root	1	r oo t
+040/083	roa	1	r oa
+040/085	rau	1	r au
+040/087	ro	1	r o
+040/089	roih	1	r oih
+040/091	roi	1	r oi
+040/093	röi	1	r öi
+040/095	roj	1	r o j
+040/097	roj	1	r o j
+040/099	rod	1	r o d
+040/101	rod	1	r o d
+040/103	rod	1	r o d
+040/105	rodh	1	r o d h
+040/107	roth	1	r o t h
+040/109	rot	1	r o t
+040/111	rod	1	r o d
+040/113	roth	1	r o t h
+040/115	rod	1	r o d
+040/119	rodh	1	r o d h
+040/121	rohd	1	r oh d
+040/123	rod	1	r o d
+040/125	rod	1	r o d
+040/127	rod	1	r o d
+040/129	roth	1	r o t h
+040/131	roth	1	r o t h
+040/133	ruth	1	r u t h
+040/135	ruth	1	r u t h
+040/137	rut	1	r u t
+040/141	ruth	1	r u t h
+040/143	ruth	1	r u t h
+040/149	ruth	1	r u t h
+040/153	rog	1	r o g
+040/155	rod	1	r o d
+041/031	roa	1	r oa
+041/033	rau	1	r au
+041/035	raud	1	r au d
+041/037	rau	1	r au
+041/039	roa	1	r oa
+041/041	roh	1	r oh
+041/043	roh	1	r oh
+041/045	rah	1	r ah
+041/047	rah	1	r ah
+041/049	roauh	1	r oauh
+041/051	rau	1	r au
+041/053	ro	1	r o
+041/055	roh	1	r oh
+041/057	ro	1	r o
+041/059	roh	1	r oh
+041/061	ro	1	r o
+041/063	roth	1	r o t h
+041/065	ro	1	r o
+041/067	ro	1	r o
+041/069	roh	1	r oh
+041/071	ro	1	r o
+041/073	roh	1	r oh
+041/075	ro	1	r o
+041/077	roh	1	r oh
+041/079	ro	1	r o
+041/081	roui	1	r oui
+041/083	rog	1	r o g
+041/085	rauh	1	r auh
+041/087	roh	1	r oh
+041/089	roih	1	r oih
+041/091	rohg	1	r oh g
+041/093	roh	1	r oh
+041/095	roi	1	r oi
+041/097	roig	1	r oi g
+041/099	roj	1	r o j
+041/101	rod	1	r o d
+041/103	rood	1	r oo d
+041/105	rod	1	r o d
+041/107	rod	1	r o d
+041/109	roth	1	r o t h
+041/111	rod	1	r o d
+041/113	rod	1	r o d
+041/115	rod	1	r o d
+041/117	rod	1	r o d
+041/119	rohd	1	r oh d
+041/121	rod	1	r o d
+041/123	rod	1	r o d
+041/125	rod	1	r o d
+041/127	rood	1	r oo d
+041/129	roth	1	r o t h
+041/131	roth	1	r o t h
+041/133	ruth	1	r u t h
+041/135	ruth	1	r u t h
+041/139	rut	1	r u t
+041/141	ruth	1	r u t h
+041/145	ruth	1	r u t h
+041/147	ruth	1	r u t h
+041/153	rohd	1	r oh d
+041/155	rod	1	r o d
+041/157	rod	1	r o d
+041/159	rod	1	r o d
+041/161	rod	1	r o d
+042/033	raod	1	r ao d
+042/035	rau	1	r au
+042/037	rau	1	r au
+042/039	rod	1	r o d
+042/041	roah	1	r oah
+042/043	roh	1	r oh
+042/045	ra	1	r a
+042/047	rah	1	r ah
+042/051	roa	1	r oa
+042/053	ro	1	r o
+042/055	roh	1	r oh
+042/057	roh	1	r oh
+042/059	ro	1	r o
+042/061	ru	1	r u
+042/063	roh	1	r oh
+042/065	roh	1	r oh
+042/067	ro	1	r o
+042/069	roh	1	r oh
+042/071	roh	1	r oh
+042/073	roh	1	r oh
+042/075	roh	1	r oh
+042/077	ro	1	r o
+042/079	roh	1	r oh
+042/081	roh	1	r oh
+042/083	rou	1	r ou
+042/085	roh	1	r oh
+042/087	rog	1	r o g
+042/089	rohj	1	r oh j
+042/091	roh	1	r oh
+042/093	roig	1	r oi g
+042/095	roj	1	r o j
+042/097	rohd	1	r oh d
+042/099	rohd	1	r oh d
+042/101	rohd	1	r oh d
+042/103	rod	1	r o d
+042/105	roth	1	r o t h
+042/107	rohd	1	r oh d
+042/109	rod	1	r o d
+042/111	rod	1	r o d
+042/113	rod	1	r o d
+042/115	rod	1	r o d
+042/117	rod	1	r o d
+042/119	rod	1	r o d
+042/121	rod	1	r o d
+042/123	rod	1	r o d
+042/125	rod	1	r o d
+042/127	rohd	1	r oh d
+042/129	roth	1	r o t h
+042/131	rut	1	r u t
+042/133	ruth	1	r u t h
+042/135	ruth	1	r u t h
+042/137	ruth	1	r u t h
+042/139	ruth	1	r u t h
+042/141	rut	1	r u t
+042/143	rut	1	r u t
+042/145	rut	1	r u t
+042/147	ruth	1	r u t h
+042/149	ruth	1	r u t h
+042/151	rudh	1	r u d h
+042/157	rood	1	r oo d
+042/159	rod	1	r o d
+042/161	rod	1	r o d
+043/033	roth	1	r o t h
+043/035	road	1	r oa d
+043/037	raud	1	r au d
+043/039	raud	1	r au d
+043/041	raud	1	r au d
+043/043	rah	1	r ah
+043/045	roh	1	r oh
+043/047	roh	1	r oh
+043/049	roa	1	r oa
+043/051	roh	1	r oh
+043/053	ro	1	r o
+043/055	roh	1	r oh
+043/057	ro	1	r o
+043/059	ro	1	r o
+043/061	roh	1	r oh
+043/063	roh	1	r oh
+043/065	reoh	1	r eoh
+043/067	reo	1	r eo
+043/069	ro	1	r o
+043/071	ruh	1	r uh
+043/073	ro	1	r o
+043/075	roh	1	r oh
+043/077	roh	1	r oh
+043/079	roh	1	r oh
+043/081	ro	1	r o
+043/083	roh	1	r oh
+043/085	roh	1	r oh
+043/087	roh	1	r oh
+043/089	roij	1	r oi j
+043/091	roj	1	r o j
+043/093	roej	1	r oe j
+043/095	rohj	1	r oh j
+043/097	rohd	1	r oh d
+043/099	rod	1	r o d
+043/101	rod	1	r o d
+043/103	rod	1	r o d
+043/105	rod	1	r o d
+043/107	rod	1	r o d
+043/109	rod	1	r o d
+043/111	rot	1	r o t
+043/113	rod	1	r o d
+043/115	rodh	1	r o d h
+043/117	rod	1	r o d
+043/119	rod	1	r o d
+043/121	rod	1	r o d
+043/123	rod	1	r o d
+043/125	roth	1	r o t h
+043/127	roth	1	r o t h
+043/129	roth	1	r o t h
+043/131	rut	1	r u t
+043/133	rut	1	r u t
+043/135	rut	1	r u t
+043/137	ruth	1	r u t h
+043/141	rut	1	r u t
+043/143	rut	1	r u t
+043/145	rut	1	r u t
+043/151	roth	1	r o t h
+043/153	ruth	1	r u t h
+043/159	rot	1	r o t
+043/161	rod	1	r o d
+044/033	raud	1	r au d
+044/035	raud	1	r au d
+044/039	raud	1	r au d
+044/041	ror	1	r o r
+044/043	ra	1	r a
+044/045	roah	1	r oah
+044/047	ro	1	r o
+044/049	roh	1	r oh
+044/051	rauh	1	r auh
+044/053	räut	1	r äu t
+044/055	rääu	1	r ääu
+044/057	reo	1	r eo
+044/059	roh	1	r oh
+044/061	reau	1	r eau
+044/063	röoh	1	r öoh
+044/065	reo	1	r eo
+044/067	räu	1	r äu
+044/069	ruo	1	r uo
+044/071	ru	1	r u
+044/073	ro	1	r o
+044/075	roh	1	r oh
+044/077	rou	1	r ou
+044/079	roh	1	r oh
+044/081	roh	1	r oh
+044/083	roh	1	r oh
+044/085	roh	1	r oh
+044/087	roh	1	r oh
+044/089	rod	1	r o d
+044/091	rod	1	r o d
+044/093	rod	1	r o d
+044/095	rod	1	r o d
+044/097	rod	1	r o d
+044/099	rod	1	r o d
+044/101	rod	1	r o d
+044/103	rod	1	r o d
+044/105	rod	1	r o d
+044/107	rohd	1	r oh d
+044/109	rod	1	r o d
+044/111	rod	1	r o d
+044/113	rod	1	r o d
+044/115	rodh	1	r o d h
+044/117	rod	1	r o d
+044/119	rod	1	r o d
+044/121	roth	1	r o t h
+044/123	roth	1	r o t h
+044/125	roth	1	r o t h
+044/127	roth	1	r o t h
+044/129	roth	1	r o t h
+044/131	ruth	1	r u t h
+044/133	ruth	1	r u t h
+044/135	ruth	1	r u t h
+044/137	ruth	1	r u t h
+044/141	ruth	1	r u t h
+044/143	ruth	1	r u t h
+044/145	ruth	1	r u t h
+044/149	rut	1	r u t
+044/151	ruth	1	r u t h
+044/153	ruth	1	r u t h
+045/033	rod	1	r o d
+045/035	raud	1	r au d
+045/037	raud	1	r au d
+045/039	raud	1	r au d
+045/041	raoh	1	r aoh
+045/043	roa	1	r oa
+045/045	raoh	1	r aoh
+045/047	roh	1	r oh
+045/049	rauh	1	r auh
+045/051	räo	1	r äo
+045/053	roh	1	r oh
+045/055	räou	1	r äou
+045/057	ro	1	r o
+045/059	räu	1	r äu
+045/061	räu	1	r äu
+045/063	riau	1	r iau
+045/065	roh	1	r oh
+045/067	reu	1	r eu
+045/069	roth	1	r o t h
+045/071	ro	1	r o
+045/073	ro	1	r o
+045/075	roh	1	r oh
+045/077	roh	1	r oh
+045/079	roh	1	r oh
+045/081	roh	1	r oh
+045/083	ro	1	r o
+045/085	ro	1	r o
+045/087	ro	1	r o
+045/089	rod	1	r o d
+045/091	rod	1	r o d
+045/093	rod	1	r o d
+045/095	rod	1	r o d
+045/097	rod	1	r o d
+045/099	rod	1	r o d
+045/101	rod	1	r o d
+045/103	roig	1	r oi g
+045/105	rod	1	r o d
+045/107	rod	1	r o d
+045/109	rod	1	r o d
+045/111	rod	1	r o d
+045/113	roth	1	r o t h
+045/115	roth	1	r o t h
+045/117	rod	1	r o d
+045/119	roth	1	r o t h
+045/121	roth	1	r o t h
+045/123	roth	1	r o t h
+045/125	roth	1	r o t h
+045/127	roth	1	r o t h
+045/129	ruth	1	r u t h
+045/131	ruth	1	r u t h
+045/133	ruth	1	r u t h
+045/135	ruth	1	r u t h
+045/137	ruth	1	r u t h
+045/139	ruth	1	r u t h
+045/141	rut	1	r u t
+045/143	ruth	1	r u t h
+045/145	ruth	1	r u t h
+045/155	ruth	1	r u t h
+046/031	roht	1	r oh t
+046/033	raud	1	r au d
+046/035	raud	1	r au d
+046/037	raud	1	r au d
+046/039	raud	1	r au d
+046/041	raud	1	r au d
+046/043	NA	NA	-
+046/045	rö	1	r ö
+046/047	rau	1	r au
+046/049	rau	1	r au
+046/051	rau	1	r au
+046/053	räu	1	r äu
+046/055	räu	1	r äu
+046/057	rau	1	r au
+046/059	rau	1	r au
+046/061	rau	1	r au
+046/063	reäu	1	r eäu
+046/065	räo	1	r äo
+046/067	röih	1	r öih
+046/069	roh	1	r oh
+046/071	roh	1	r oh
+046/073	roh	1	r oh
+046/075	ro	1	r o
+046/077	roh	1	r oh
+046/079	ro	1	r o
+046/081	roh	1	r oh
+046/083	ro	1	r o
+046/085	roh	1	r oh
+046/087	roh	1	r oh
+046/089	rod	1	r o d
+046/091	rohd	1	r oh d
+046/093	rohd	1	r oh d
+046/095	rod	1	r o d
+046/097	rohd	1	r oh d
+046/099	rod	1	r o d
+046/101	rod	1	r o d
+046/103	rod	1	r o d
+046/105	rod	1	r o d
+046/107	rod	1	r o d
+046/109	rod	1	r o d
+046/111	rod	1	r o d
+046/113	rot	1	r o t
+046/115	roth	1	r o t h
+046/117	roth	1	r o t h
+046/119	roth	1	r o t h
+046/121	roth	1	r o t h
+046/123	roth	1	r o t h
+046/125	roth	1	r o t h
+046/127	roth	1	r o t h
+046/129	ruth	1	r u t h
+046/131	ruth	1	r u t h
+046/133	ruth	1	r u t h
+046/135	ruth	1	r u t h
+046/137	ruth	1	r u t h
+046/139	rauth	1	r au t h
+046/141	roth	1	r o t h
+046/143	ruth	1	r u t h
+046/155	ruth	1	r u t h
+047/031	rod	1	r o d
+047/033	roh	1	r oh
+047/035	raud	1	r au d
+047/037	raud	1	r au d
+047/039	raud	1	r au d
+047/041	raud	1	r au d
+047/043	rau	1	r au
+047/045	rau	1	r au
+047/047	rauh	1	r auh
+047/049	riau	1	r iau
+047/051	rauh	1	r auh
+047/053	rä	1	r ä
+047/055	rauh	1	r auh
+047/057	rau	1	r au
+047/059	rau	1	r au
+047/061	rau	1	r au
+047/063	räu	1	r äu
+047/065	rau	1	r au
+047/067	räuh	1	r äuh
+047/069	ruh	1	r uh
+047/071	roh	1	r oh
+047/073	ru	1	r u
+047/075	ruh	1	r uh
+047/077	roh	1	r oh
+047/079	roh	1	r oh
+047/081	roh	1	r oh
+047/083	ro	1	r o
+047/085	ro	1	r o
+047/087	ro	1	r o
+047/089	rood	1	r oo d
+047/091	roth	1	r o t h
+047/093	rod	1	r o d
+047/095	rohr	1	r oh r
+047/097	rod	1	r o d
+047/099	rohd	1	r oh d
+047/101	rod	1	r o d
+047/103	ro	1	r o
+047/105	rod	1	r o d
+047/107	rod	1	r o d
+047/109	rod	1	r o d
+047/111	rod	1	r o d
+047/113	rod	1	r o d
+047/115	roth	1	r o t h
+047/117	roth	1	r o t h
+047/119	roth	1	r o t h
+047/123	roth	1	r o t h
+047/125	roth	1	r o t h
+047/127	roth	1	r o t h
+047/129	ruth	1	r u t h
+047/131	roth	1	r o t h
+047/133	routh	1	r ou t h
+047/135	ruth	1	r u t h
+047/137	ruth	1	r u t h
+047/139	roth	1	r o t h
+047/141	raut	1	r au t
+047/147	raut	1	r au t
+047/149	raut	1	r au t
+047/151	raut	1	r au t
+047/159	ruth	1	r u t h
+048/021	roj	1	r o j
+048/023	rooj	1	r oo j
+048/027	rod	1	r o d
+048/029	rood	1	r oo d
+048/031	rod	1	r o d
+048/033	raud	1	r au d
+048/035	raur	1	r au r
+048/037	raud	1	r au d
+048/039	raud	1	r au d
+048/041	rauhr	1	r auh r
+048/045	rou	1	r ou
+048/047	rau	1	r au
+048/049	rauh	1	r auh
+048/051	rau	1	r au
+048/053	rauh	1	r auh
+048/055	rau	1	r au
+048/057	rauh	1	r auh
+048/059	rau	1	r au
+048/061	rau	1	r au
+048/063	rauh	1	r auh
+048/065	rauh	1	r auh
+048/067	rau	1	r au
+048/069	ro	1	r o
+048/071	ruth	1	r u t h
+048/073	rouh	1	r ouh
+048/075	ruo	1	r uo
+048/077	roh	1	r oh
+048/079	ro	1	r o
+048/081	ro	1	r o
+048/083	roo	1	r oo
+048/085	ro	1	r o
+048/087	rod	1	r o d
+048/089	roth	1	r o t h
+048/091	ruoth	1	r uo t h
+048/093	road	1	r oa d
+048/095	roth	1	r o t h
+048/099	roth	1	r o t h
+048/101	rot	1	r o t
+048/103	rod	1	r o d
+048/105	rod	1	r o d
+048/107	rod	1	r o d
+048/109	rohd	1	r oh d
+048/111	rood	1	r oo d
+048/113	roth	1	r o t h
+048/115	rot	1	r o t
+048/119	rot	1	r o t
+048/123	roth	1	r o t h
+048/125	roth	1	r o t h
+048/127	ruth	1	r u t h
+048/129	ruth	1	r u t h
+048/131	raoth	1	r ao t h
+048/133	rauth	1	r au t h
+048/135	rauth	1	r au t h
+048/137	routh	1	r ou t h
+048/139	roth	1	r o t h
+048/141	rauth	1	r au t h
+048/143	raut	1	r au t
+048/145	raut	1	r au t
+048/147	raut	1	r au t
+048/153	raut	1	r au t
+048/157	rauth	1	r au t h
+048/159	ruth	1	r u t h
+049/019	roj	1	r o j
+049/021	roj	1	r o j
+049/023	roj	1	r o j
+049/025	roij	1	r oi j
+049/027	rood	1	r oo d
+049/029	rod	1	r o d
+049/031	rod	1	r o d
+049/033	rod	1	r o d
+049/035	rod	1	r o d
+049/037	rood	1	r oo d
+049/039	rood	1	r oo d
+049/041	rau	1	r au
+049/043	rau	1	r au
+049/045	rau	1	r au
+049/047	rau	1	r au
+049/049	rau	1	r au
+049/051	räu	1	r äu
+049/053	rau	1	r au
+049/055	räu	1	r äu
+049/057	NA	NA	-
+049/059	rau	1	r au
+049/061	rauh	1	r auh
+049/063	rau	1	r au
+049/065	rau	1	r au
+049/067	rau	1	r au
+049/069	ro	1	r o
+049/071	roh	1	r oh
+049/073	ruth	1	r u t h
+049/077	roh	1	r oh
+049/079	ro	1	r o
+049/081	rohd	1	r oh d
+049/083	ro	1	r o
+049/085	rod	1	r o d
+049/087	roeth	1	r oe t h
+049/089	roth	1	r o t h
+049/091	ruot	1	r uo t
+049/093	roth	1	r o t h
+049/095	roth	1	r o t h
+049/097	roth	1	r o t h
+049/099	roth	1	r o t h
+049/101	roth	1	r o t h
+049/103	roath	1	r oa t h
+049/105	rod	1	r o d
+049/107	rod	1	r o d
+049/109	rodh	1	r o d h
+049/111	roth	1	r o t h
+049/113	rohd	1	r oh d
+049/115	roth	1	r o t h
+049/117	rot	1	r o t
+049/119	roth	1	r o t h
+049/121	rot	1	r o t
+049/123	rot	1	r o t
+049/125	roth	1	r o t h
+049/127	ruth	1	r u t h
+049/129	ruth	1	r u t h
+049/131	ruth	1	r u t h
+049/133	raut	1	r au t
+049/135	rauuth	1	r auu t h
+049/137	rauth	1	r au t h
+049/139	routh	1	r ou t h
+049/141	rauth	1	r au t h
+049/143	raut	1	r au t
+049/145	rauth	1	r au t h
+049/147	rauth	1	r au t h
+049/151	raut	1	r au t
+050/021	roi	1	r oi
+050/023	ror	1	r o r
+050/025	roj	1	r o j
+050/027	roj	1	r o j
+050/029	roh	1	r oh
+050/031	rod	1	r o d
+050/033	rohd	1	r oh d
+050/035	roh	1	r oh
+050/037	roud	1	r ou d
+050/039	ro	1	r o
+050/041	rau	1	r au
+050/043	rau	1	r au
+050/047	rau	1	r au
+050/049	rauh	1	r auh
+050/051	rau	1	r au
+050/053	rau	1	r au
+050/055	rauh	1	r auh
+050/057	rau	1	r au
+050/059	rau	1	r au
+050/061	roah	1	r oah
+050/063	raah	1	r aah
+050/065	rauh	1	r auh
+050/067	rah	1	r ah
+050/069	räu	1	r äu
+050/071	roh	1	r oh
+050/073	roh	1	r oh
+050/075	ruth	1	r u t h
+050/077	rood	1	r oo d
+050/079	roth	1	r o t h
+050/081	rod	1	r o d
+050/083	rod	1	r o d
+050/085	rod	1	r o d
+050/087	roth	1	r o t h
+050/089	ruth	1	r u t h
+050/091	rath	1	r a t h
+050/093	ruet	1	r ue t
+050/095	roth	1	r o t h
+050/097	roth	1	r o t h
+050/099	rod	1	r o d
+050/101	roth	1	r o t h
+050/103	rot	1	r o t
+050/105	roth	1	r o t h
+050/107	roth	1	r o t h
+050/109	rod	1	r o d
+050/111	rod	1	r o d
+050/113	rohd	1	r oh d
+050/115	roth	1	r o t h
+050/117	rod	1	r o d
+050/119	rot	1	r o t
+050/121	roth	1	r o t h
+050/125	NA	NA	-
+050/127	ruth	1	r u t h
+050/129	ruth	1	r u t h
+050/131	ruth	1	r u t h
+050/133	rauth	1	r au t h
+050/135	rauth	1	r au t h
+050/137	rauth	1	r au t h
+050/139	raut	1	r au t
+050/141	raut	1	r au t
+050/143	rauth	1	r au t h
+050/145	runden	1	r u n d e n
+050/147	raut	1	r au t
+050/149	rauth	1	r au t h
+050/151	raut	1	r au t
+050/155	raut	1	r au t
+050/157	rauth	1	r au t h
+050/159	raut	1	r au t
+050/161	rut	1	r u t
+051/023	roj	1	r o j
+051/025	roj	1	r o j
+051/027	roj	1	r o j
+051/029	roj	1	r o j
+051/031	roh	1	r oh
+051/033	roh	1	r oh
+051/035	rou	1	r ou
+051/037	rou	1	r ou
+051/039	raur	1	r au r
+051/041	räu	1	r äu
+051/043	räeuh	1	r äeuh
+051/045	räuh	1	r äuh
+051/047	räu	1	r äu
+051/049	rau	1	r au
+051/051	rauh	1	r auh
+051/053	rauh	1	r auh
+051/055	rau	1	r au
+051/057	rauh	1	r auh
+051/059	rah	1	r ah
+051/061	rau	1	r au
+051/063	rah	1	r ah
+051/065	rag	1	r a g
+051/067	rah	1	r ah
+051/069	raag	1	r aa g
+051/071	ra	1	r a
+051/073	raor	1	r ao r
+051/075	roth	1	r o t h
+051/077	rod	1	r o d
+051/079	roth	1	r o t h
+051/081	rod	1	r o d
+051/083	rath	1	r a t h
+051/085	ruth	1	r u t h
+051/087	ruth	1	r u t h
+051/089	roth	1	r o t h
+051/091	roth	1	r o t h
+051/093	roth	1	r o t h
+051/095	roth	1	r o t h
+051/097	roth	1	r o t h
+051/099	ruht	1	r uh t
+051/101	rot	1	r o t
+051/103	roth	1	r o t h
+051/105	roth	1	r o t h
+051/107	roth	1	r o t h
+051/109	roth	1	r o t h
+051/111	roth	1	r o t h
+051/113	roth	1	r o t h
+051/115	roth	1	r o t h
+051/117	roth	1	r o t h
+051/119	rot	1	r o t
+051/121	roth	1	r o t h
+051/123	roth	1	r o t h
+051/125	ruth	1	r u t h
+051/127	ruth	1	r u t h
+051/129	ruth	1	r u t h
+051/131	ruth	1	r u t h
+051/133	ruth	1	r u t h
+051/135	rauth	1	r au t h
+051/137	raut	1	r au t
+051/139	raut	1	r au t
+051/141	rauth	1	r au t h
+051/143	raut	1	r au t
+051/145	raut	1	r au t
+051/147	rauuth	1	r auu t h
+051/149	rauth	1	r au t h
+051/151	raut	1	r au t
+051/153	raut	1	r au t
+051/155	raut	1	r au t
+051/157	rauth	1	r au t h
+052/023	roj	1	r o j
+052/025	roj	1	r o j
+052/027	roij	1	r oi j
+052/029	roj	1	r o j
+052/031	roh	1	r oh
+052/033	ro	1	r o
+052/035	rooh	1	r ooh
+052/037	riau	1	r iau
+052/039	räu	1	r äu
+052/041	räüh	1	r äüh
+052/043	räu	1	r äu
+052/045	räu	1	r äu
+052/047	reu	1	r eu
+052/049	reoi	1	r eoi
+052/051	rau	1	r au
+052/053	räh	1	r äh
+052/057	rauh	1	r auh
+052/059	rä	1	r ä
+052/061	rau	1	r au
+052/063	rah	1	r ah
+052/065	rah	1	r ah
+052/067	ra	1	r a
+052/069	rag	1	r a g
+052/071	rah	1	r ah
+052/073	rah	1	r ah
+052/075	raat	1	r aa t
+052/077	roth	1	r o t h
+052/079	rat	1	r a t
+052/081	rat	1	r a t
+052/083	rut	1	r u t
+052/085	rud	1	r u d
+052/087	ruht	1	r uh t
+052/089	roth	1	r o t h
+052/091	roth	1	r o t h
+052/093	ruoth	1	r uo t h
+052/095	roth	1	r o t h
+052/097	ruett	1	r ue tt
+052/099	roth	1	r o t h
+052/101	roth	1	r o t h
+052/103	roth	1	r o t h
+052/105	roth	1	r o t h
+052/107	roth	1	r o t h
+052/109	roth	1	r o t h
+052/111	roth	1	r o t h
+052/113	roth	1	r o t h
+052/115	roth	1	r o t h
+052/117	roth	1	r o t h
+052/121	roth	1	r o t h
+052/123	roth	1	r o t h
+052/125	ruth	1	r u t h
+052/127	ruth	1	r u t h
+052/129	ruth	1	r u t h
+052/131	rut	1	r u t
+052/133	ruth	1	r u t h
+052/135	ruth	1	r u t h
+052/137	rauth	1	r au t h
+052/139	rauth	1	r au t h
+052/141	rauth	1	r au t h
+052/143	ruth	1	r u t h
+052/145	rauth	1	r au t h
+052/147	rauth	1	r au t h
+052/149	rauth	1	r au t h
+052/151	rauth	1	r au t h
+052/153	rauth	1	r au t h
+052/155	rauth	1	r au t h
+052/157	rauth	1	r au t h
+052/159	rauth	1	r au t h
+053/023	roi	1	r oi
+053/025	roi	1	r oi
+053/027	roh	1	r oh
+053/029	roo	1	r oo
+053/031	roat	1	r oa t
+053/033	ro	1	r o
+053/035	rau	1	r au
+053/037	rau	1	r au
+053/039	räu	1	r äu
+053/041	roih	1	r oih
+053/043	räu	1	r äu
+053/045	räu	1	r äu
+053/047	NA	NA	-
+053/049	räu	1	r äu
+053/051	reih	1	r eih
+053/053	räuh	1	r äuh
+053/055	rauh	1	r auh
+053/057	rau	1	r au
+053/059	rau	1	r au
+053/061	raud	1	r au d
+053/063	rah	1	r ah
+053/065	rah	1	r ah
+053/067	rah	1	r ah
+053/069	rah	1	r ah
+053/071	rooh	1	r ooh
+053/073	raah	1	r aah
+053/075	rath	1	r a t h
+053/077	rath	1	r a t h
+053/079	rath	1	r a t h
+053/081	roud	1	r ou d
+053/083	ruuth	1	r uu t h
+053/085	ruth	1	r u t h
+053/087	ruth	1	r u t h
+053/089	ruth	1	r u t h
+053/091	roth	1	r o t h
+053/093	rud	1	r u d
+053/095	rot	1	r o t
+053/097	roth	1	r o t h
+053/099	ruäth	1	r uä t h
+053/101	ruoth	1	r uo t h
+053/103	roth	1	r o t h
+053/105	ruet	1	r ue t
+053/107	rueth	1	r ue t h
+053/109	ruth	1	r u t h
+053/111	ruäth	1	r uä t h
+053/113	ruth	1	r u t h
+053/115	rut	1	r u t
+053/121	rot	1	r o t
+053/123	rut	1	r u t
+053/125	roth	1	r o t h
+053/127	ruth	1	r u t h
+053/129	ruth	1	r u t h
+053/131	ruht	1	r uh t
+053/133	ruth	1	r u t h
+053/135	ruth	1	r u t h
+053/137	raut	1	r au t
+053/139	raut	1	r au t
+053/141	rauth	1	r au t h
+053/143	rauth	1	r au t h
+053/145	rauth	1	r au t h
+053/147	rauth	1	r au t h
+053/149	raut	1	r au t
+053/151	roth	1	r o t h
+053/153	rauth	1	r au t h
+053/155	rauth	1	r au t h
+053/157	roth	1	r o t h
+054/023	ru	1	r u
+054/025	ruy	1	r uy
+054/027	rohd	1	r oh d
+054/029	rod	1	r o d
+054/031	ro	1	r o
+054/033	roh	1	r oh
+054/035	roh	1	r oh
+054/037	ro	1	r o
+054/039	rou	1	r ou
+054/041	ro	1	r o
+054/043	räu	1	r äu
+054/045	NA	NA	-
+054/047	räu	1	r äu
+054/049	räu	1	r äu
+054/051	räu	1	r äu
+054/053	raud	1	r au d
+054/055	raud	1	r au d
+054/057	raud	1	r au d
+054/059	raud	1	r au d
+054/061	roth	1	r o t h
+054/063	rod	1	r o d
+054/065	rah	1	r ah
+054/067	rod	1	r o d
+054/069	rod	1	r o d
+054/071	rath	1	r a t h
+054/073	rath	1	r a t h
+054/075	raat	1	r aa t
+054/077	rad	1	r a d
+054/079	ruth	1	r u t h
+054/081	ruth	1	r u t h
+054/083	ruth	1	r u t h
+054/085	ruth	1	r u t h
+054/087	ruth	1	r u t h
+054/089	rud	1	r u d
+054/091	rud	1	r u d
+054/093	ruht	1	r uh t
+054/095	ruth	1	r u t h
+054/097	rood	1	r oo d
+054/099	roth	1	r o t h
+054/101	ruth	1	r u t h
+054/103	rud	1	r u d
+054/105	ruth	1	r u t h
+054/107	ruäth	1	r uä t h
+054/109	ruth	1	r u t h
+054/111	ruäth	1	r uä t h
+054/113	ruet	1	r ue t
+054/115	rut	1	r u t
+054/117	ruod	1	r uo d
+054/119	ruth	1	r u t h
+054/121	rot	1	r o t
+054/123	ruth	1	r u t h
+054/125	ruth	1	r u t h
+054/127	ruht	1	r uh t
+054/131	ruth	1	r u t h
+054/133	ruth	1	r u t h
+054/135	ruth	1	r u t h
+054/137	roth	1	r o t h
+054/139	rauth	1	r au t h
+054/141	rauth	1	r au t h
+054/143	raut	1	r au t
+054/145	rauth	1	r au t h
+054/147	raut	1	r au t
+054/149	raut	1	r au t
+054/151	rauth	1	r au t h
+054/153	rauth	1	r au t h
+054/155	roauth	1	r oau t h
+054/157	raut	1	r au t
+054/159	ruth	1	r u t h
+054/161	ruth	1	r u t h
+054/163	rod	1	r o d
+055/023	ru	1	r u
+055/025	ru	1	r u
+055/027	ru	1	r u
+055/029	rod	1	r o d
+055/031	rued	1	r ue d
+055/033	ruad	1	r ua d
+055/035	roh	1	r oh
+055/037	roa	1	r oa
+055/039	rou	1	r ou
+055/041	rou	1	r ou
+055/043	rääu	1	r ääu
+055/045	räuh	1	r äuh
+055/047	räu	1	r äu
+055/049	rau	1	r au
+055/051	raud	1	r au d
+055/053	raud	1	r au d
+055/055	raud	1	r au d
+055/057	raud	1	r au d
+055/059	rauth	1	r au t h
+055/061	ruoth	1	r uo t h
+055/063	roth	1	r o t h
+055/065	rur	1	r u r
+055/067	routh	1	r ou t h
+055/069	rod	1	r o d
+055/071	rooth	1	r oo t h
+055/073	roat	1	r oa t
+055/075	routh	1	r ou t h
+055/077	ruhd	1	r uh d
+055/079	routh	1	r ou t h
+055/081	ruth	1	r u t h
+055/083	rout	1	r ou t
+055/085	ruth	1	r u t h
+055/087	roth	1	r o t h
+055/089	ruth	1	r u t h
+055/091	ruth	1	r u t h
+055/093	ruth	1	r u t h
+055/095	ruth	1	r u t h
+055/097	rod	1	r o d
+055/099	rod	1	r o d
+055/101	ruth	1	r u t h
+055/103	ruath	1	r ua t h
+055/105	ruud	1	r uu d
+055/107	rueth	1	r ue t h
+055/109	rued	1	r ue d
+055/111	ruth	1	r u t h
+055/113	ruath	1	r ua t h
+055/115	ruth	1	r u t h
+055/117	ruth	1	r u t h
+055/119	ruth	1	r u t h
+055/123	rut	1	r u t
+055/125	ruth	1	r u t h
+055/127	ruth	1	r u t h
+055/131	ruth	1	r u t h
+055/133	rut	1	r u t
+055/135	ruth	1	r u t h
+055/137	ruth	1	r u t h
+055/139	ruth	1	r u t h
+055/141	roth	1	r o t h
+055/143	roth	1	r o t h
+055/145	rauth	1	r au t h
+055/147	rauth	1	r au t h
+055/149	rauth	1	r au t h
+055/151	raut	1	r au t
+055/153	rauth	1	r au t h
+055/155	raut	1	r au t
+055/157	roth	1	r o t h
+055/159	ruht	1	r uh t
+055/161	roth	1	r o t h
+056/021	ruh	1	r uh
+056/023	ru	1	r u
+056/025	ru	1	r u
+056/027	ru	1	r u
+056/029	rood	1	r oo d
+056/031	rod	1	r o d
+056/033	ruäd	1	r uä d
+056/035	ro	1	r o
+056/037	rou	1	r ou
+056/039	rou	1	r ou
+056/041	ruau	1	r uau
+056/043	reoh	1	r eoh
+056/045	rau	1	r au
+056/047	räu	1	r äu
+056/049	reiu	1	r eiu
+056/051	räu	1	r äu
+056/053	raud	1	r au d
+056/055	raud	1	r au d
+056/057	raud	1	r au d
+056/059	ror	1	r o r
+056/061	ror	1	r o r
+056/063	ror	1	r o r
+056/065	rot	1	r o t
+056/067	rud	1	r u d
+056/069	roth	1	r o t h
+056/071	raut	1	r au t
+056/073	ruth	1	r u t h
+056/075	rueth	1	r ue t h
+056/077	rud	1	r u d
+056/079	rueth	1	r ue t h
+056/081	routh	1	r ou t h
+056/083	ruth	1	r u t h
+056/085	ruth	1	r u t h
+056/087	ruth	1	r u t h
+056/089	rud	1	r u d
+056/091	rud	1	r u d
+056/093	ruth	1	r u t h
+056/095	ruth	1	r u t h
+056/097	ruth	1	r u t h
+056/099	ruth	1	r u t h
+056/101	rueth	1	r ue t h
+056/103	ruoth	1	r uo t h
+056/105	ruhet	1	r u h e t
+056/107	rund	1	r u n d
+056/109	ruhet	1	r u h e t
+056/111	rut	1	r u t
+056/113	ruuitt	1	r uui tt
+056/115	ruth	1	r u t h
+056/117	ruth	1	r u t h
+056/121	roth	1	r o t h
+056/123	rut	1	r u t
+056/125	ruuth	1	r uu t h
+056/127	ruth	1	r u t h
+056/129	ruth	1	r u t h
+056/131	ruth	1	r u t h
+056/133	ruth	1	r u t h
+056/135	ruth	1	r u t h
+056/137	ruth	1	r u t h
+056/139	ruth	1	r u t h
+056/141	ruth	1	r u t h
+056/143	ruth	1	r u t h
+056/145	ruoth	1	r uo t h
+056/147	rauth	1	r au t h
+056/149	rauth	1	r au t h
+056/151	raut	1	r au t
+056/153	rauth	1	r au t h
+056/155	raouth	1	r aou t h
+056/157	roth	1	r o t h
+056/159	ruth	1	r u t h
+056/161	ruth	1	r u t h
+057/021	ru	1	r u
+057/023	ru	1	r u
+057/025	ru	1	r u
+057/027	ruet	1	r ue t
+057/029	ruht	1	r uh t
+057/031	ruhd	1	r uh d
+057/033	rud	1	r u d
+057/035	rud	1	r u d
+057/037	ro	1	r o
+057/039	roh	1	r oh
+057/041	ro	1	r o
+057/043	reuh	1	r euh
+057/045	räu	1	r äu
+057/047	räu	1	r äu
+057/049	räü	1	r äü
+057/051	NA	NA	-
+057/053	raud	1	r au d
+057/055	rodd	1	r o dd
+057/057	ror	1	r o r
+057/059	ror	1	r o r
+057/061	ror	1	r o r
+057/063	ror	1	r o r
+057/065	roth	1	r o t h
+057/067	ruth	1	r u t h
+057/069	roth	1	r o t h
+057/071	röth	1	r ö t h
+057/073	rueth	1	r ue t h
+057/075	ruat	1	r ua t
+057/077	rued	1	r ue d
+057/079	rueth	1	r ue t h
+057/081	ruet	1	r ue t
+057/083	ruht	1	r uh t
+057/085	reud	1	r eu d
+057/087	roth	1	r o t h
+057/089	ruth	1	r u t h
+057/091	ruth	1	r u t h
+057/093	ruth	1	r u t h
+057/095	ruth	1	r u t h
+057/097	ruth	1	r u t h
+057/099	ruth	1	r u t h
+057/101	ruth	1	r u t h
+057/103	ruth	1	r u t h
+057/105	roth	1	r o t h
+057/107	ruth	1	r u t h
+057/109	roth	1	r o t h
+057/111	ruth	1	r u t h
+057/113	ruth	1	r u t h
+057/115	roth	1	r o t h
+057/117	rud	1	r u d
+057/119	ruth	1	r u t h
+057/121	ruth	1	r u t h
+057/123	ruth	1	r u t h
+057/125	ruth	1	r u t h
+057/127	ruth	1	r u t h
+057/129	ruth	1	r u t h
+057/131	ruth	1	r u t h
+057/133	ruth	1	r u t h
+057/135	ruith	1	r ui t h
+057/137	rut	1	r u t
+057/139	ruth	1	r u t h
+057/141	ruth	1	r u t h
+057/143	ruth	1	r u t h
+057/145	ruth	1	r u t h
+057/147	ruth	1	r u t h
+057/149	roth	1	r o t h
+057/151	rauth	1	r au t h
+057/153	raut	1	r au t
+057/155	rauth	1	r au t h
+057/157	roth	1	r o t h
+057/159	ruth	1	r u t h
+057/161	roth	1	r o t h
+058/019	ruu	1	r uu
+058/021	ru	1	r u
+058/023	ru	1	r u
+058/025	ruh	1	r uh
+058/027	rud	1	r u d
+058/029	ruet	1	r ue t
+058/031	rut	1	r u t
+058/033	rud	1	r u d
+058/035	rud	1	r u d
+058/037	rued	1	r ue d
+058/039	ro	1	r o
+058/041	roh	1	r oh
+058/043	ro	1	r o
+058/045	räuh	1	r äuh
+058/047	rod	1	r o d
+058/049	ror	1	r o r
+058/051	röh	1	r öh
+058/053	ror	1	r o r
+058/055	ror	1	r o r
+058/057	rohr	1	r oh r
+058/059	roor	1	r oo r
+058/061	ror	1	r o r
+058/063	rohr	1	r oh r
+058/065	rohr	1	r oh r
+058/067	rod	1	r o d
+058/069	roth	1	r o t h
+058/071	schienen	1	sch ie n e n
+058/073	roeth	1	r oe t h
+058/075	rueth	1	r ue t h
+058/077	ruth	1	r u t h
+058/079	ruat	1	r ua t
+058/081	ruäd	1	r uä d
+058/083	ruth	1	r u t h
+058/085	ruth	1	r u t h
+058/087	ruth	1	r u t h
+058/089	ruth	1	r u t h
+058/091	rud	1	r u d
+058/093	ruth	1	r u t h
+058/095	ruth	1	r u t h
+058/097	rud	1	r u d
+058/099	ruth	1	r u t h
+058/101	ruth	1	r u t h
+058/103	ruth	1	r u t h
+058/105	ruth	1	r u t h
+058/107	ruth	1	r u t h
+058/109	ruth	1	r u t h
+058/111	ruth	1	r u t h
+058/113	roth	1	r o t h
+058/115	roth	1	r o t h
+058/117	ruth	1	r u t h
+058/119	rut	1	r u t
+058/121	rut	1	r u t
+058/123	ruht	1	r uh t
+058/125	ruth	1	r u t h
+058/127	ruth	1	r u t h
+058/129	ruth	1	r u t h
+058/131	ruth	1	r u t h
+058/133	ruith	1	r ui t h
+058/135	ruith	1	r ui t h
+058/137	ruith	1	r ui t h
+058/139	ruth	1	r u t h
+058/141	rut	1	r u t
+058/143	ruth	1	r u t h
+058/145	ruth	1	r u t h
+058/147	roth	1	r o t h
+058/149	ruth	1	r u t h
+058/151	roth	1	r o t h
+058/153	ruth	1	r u t h
+058/155	ruth	1	r u t h
+058/157	rut	1	r u t
+058/159	ruth	1	r u t h
+059/019	ruo	1	r uo
+059/021	ruh	1	r uh
+059/023	ru	1	r u
+059/025	rut	1	r u t
+059/027	rud	1	r u d
+059/029	rud	1	r u d
+059/031	ruhd	1	r uh d
+059/033	ruhd	1	r uh d
+059/035	ruhd	1	r uh d
+059/037	roh	1	r oh
+059/039	ro	1	r o
+059/041	roo	1	r oo
+059/043	ruähr	1	r uäh r
+059/045	roar	1	r oa r
+059/047	rohr	1	r oh r
+059/049	ror	1	r o r
+059/051	rohr	1	r oh r
+059/053	ror	1	r o r
+059/055	ror	1	r o r
+059/057	ror	1	r o r
+059/059	ror	1	r o r
+059/061	rohr	1	r oh r
+059/063	ror	1	r o r
+059/065	ror	1	r o r
+059/067	rohr	1	r oh r
+059/069	rut	1	r u t
+059/071	ruth	1	r u t h
+059/073	ruth	1	r u t h
+059/075	ruhed	1	r u h e d
+059/077	roth	1	r o t h
+059/079	ruoth	1	r uo t h
+059/081	ruth	1	r u t h
+059/083	ruth	1	r u t h
+059/085	ruth	1	r u t h
+059/087	ruth	1	r u t h
+059/089	ruth	1	r u t h
+059/091	ruth	1	r u t h
+059/093	ruth	1	r u t h
+059/095	roth	1	r o t h
+059/097	rud	1	r u d
+059/099	ruht	1	r uh t
+059/101	rüth	1	r ü t h
+059/103	ruhd	1	r uh d
+059/105	ruth	1	r u t h
+059/107	ruhd	1	r uh d
+059/109	rud	1	r u d
+059/111	ruth	1	r u t h
+059/113	ruth	1	r u t h
+059/115	ruth	1	r u t h
+059/117	rut	1	r u t
+059/119	ruth	1	r u t h
+059/121	rut	1	r u t
+059/123	ruth	1	r u t h
+059/125	ruth	1	r u t h
+059/127	ruth	1	r u t h
+059/129	rut	1	r u t
+059/131	rut	1	r u t
+059/133	ruth	1	r u t h
+059/135	ruth	1	r u t h
+059/137	ruth	1	r u t h
+059/139	ruth	1	r u t h
+059/141	ruth	1	r u t h
+059/143	ruth	1	r u t h
+059/145	ruth	1	r u t h
+059/147	ruth	1	r u t h
+059/149	ruth	1	r u t h
+059/151	ruth	1	r u t h
+059/153	ruth	1	r u t h
+059/155	ruth	1	r u t h
+059/157	ruth	1	r u t h
+059/159	ruth	1	r u t h
+059/161	ruth	1	r u t h
+059/165	rut	1	r u t
+059/169	rut	1	r u t
+060/021	ru	1	r u
+060/023	ruäd	1	r uä d
+060/025	rut	1	r u t
+060/027	rud	1	r u d
+060/029	rud	1	r u d
+060/031	ruhd	1	r uh d
+060/033	ruhd	1	r uh d
+060/035	ruhd	1	r uh d
+060/037	rud	1	r u d
+060/039	rohd	1	r oh d
+060/041	rur	1	r u r
+060/043	rur	1	r u r
+060/045	ror	1	r o r
+060/047	ruhr	1	r uh r
+060/049	rur	1	r u r
+060/051	ruhr	1	r uh r
+060/053	rur	1	r u r
+060/055	ror	1	r o r
+060/057	rohr	1	r oh r
+060/059	ror	1	r o r
+060/061	rohr	1	r oh r
+060/063	rohr	1	r oh r
+060/065	ror	1	r o r
+060/067	ror	1	r o r
+060/069	ruth	1	r u t h
+060/071	roth	1	r o t h
+060/073	roth	1	r o t h
+060/075	rueth	1	r ue t h
+060/077	rued	1	r ue d
+060/079	ruäth	1	r uä t h
+060/081	ruaath	1	r uaa t h
+060/083	rud	1	r u d
+060/085	ruth	1	r u t h
+060/087	ruth	1	r u t h
+060/089	ruth	1	r u t h
+060/091	ruth	1	r u t h
+060/093	ruth	1	r u t h
+060/095	ruth	1	r u t h
+060/097	ruth	1	r u t h
+060/099	ruth	1	r u t h
+060/101	ruth	1	r u t h
+060/103	roth	1	r o t h
+060/105	ruth	1	r u t h
+060/107	ruth	1	r u t h
+060/109	rud	1	r u d
+060/111	ruth	1	r u t h
+060/113	ruth	1	r u t h
+060/115	rud	1	r u d
+060/117	ruth	1	r u t h
+060/119	rot	1	r o t
+060/121	rot	1	r o t
+060/123	rut	1	r u t
+060/125	ruth	1	r u t h
+060/127	ruht	1	r uh t
+060/129	rut	1	r u t
+060/131	rout	1	r ou t
+060/135	ruth	1	r u t h
+060/137	roth	1	r o t h
+060/139	ruth	1	r u t h
+060/141	ruth	1	r u t h
+060/143	ruth	1	r u t h
+060/145	rut	1	r u t
+060/147	ruth	1	r u t h
+060/149	ruth	1	r u t h
+060/151	ruth	1	r u t h
+060/153	ruth	1	r u t h
+060/155	ruth	1	r u t h
+060/157	root	1	r oo t
+060/159	ruth	1	r u t h
+060/163	rut	1	r u t
+060/165	NA	NA	-
+061/021	ru	1	r u
+061/023	ruh	1	r uh
+061/025	ruht	1	r uh t
+061/027	rut	1	r u t
+061/029	rud	1	r u d
+061/031	ruth	1	r u t h
+061/033	ruhd	1	r uh d
+061/035	rud	1	r u d
+061/037	ruhd	1	r uh d
+061/039	rueed	1	r uee d
+061/041	rur	1	r u r
+061/043	rur	1	r u r
+061/045	rur	1	r u r
+061/047	rur	1	r u r
+061/049	ruhr	1	r uh r
+061/051	rur	1	r u r
+061/053	rur	1	r u r
+061/055	ruhr	1	r uh r
+061/057	rod	1	r o d
+061/059	ror	1	r o r
+061/061	ror	1	r o r
+061/063	ror	1	r o r
+061/065	rohr	1	r oh r
+061/067	roth	1	r o t h
+061/069	roth	1	r o t h
+061/071	roth	1	r o t h
+061/073	roth	1	r o t h
+061/075	rod	1	r o d
+061/077	rueth	1	r ue t h
+061/079	ruoth	1	r uo t h
+061/081	ruat	1	r ua t
+061/083	ruth	1	r u t h
+061/085	ruth	1	r u t h
+061/087	ruth	1	r u t h
+061/089	ruth	1	r u t h
+061/091	ruth	1	r u t h
+061/093	ruth	1	r u t h
+061/095	ruth	1	r u t h
+061/097	ruth	1	r u t h
+061/099	ruht	1	r uh t
+061/101	ruth	1	r u t h
+061/103	roth	1	r o t h
+061/105	ruth	1	r u t h
+061/107	rud	1	r u d
+061/109	roth	1	r o t h
+061/111	ruth	1	r u t h
+061/113	ruth	1	r u t h
+061/115	rut	1	r u t
+061/117	rot	1	r o t
+061/119	ruut	1	r uu t
+061/121	rot	1	r o t
+061/123	rut	1	r u t
+061/125	ruut	1	r uu t
+061/127	rut	1	r u t
+061/129	ruut	1	r uu t
+061/131	rut	1	r u t
+061/133	ruht	1	r uh t
+061/137	ruth	1	r u t h
+061/139	ruth	1	r u t h
+061/141	ruth	1	r u t h
+061/143	ruth	1	r u t h
+061/145	rut	1	r u t
+061/147	ruth	1	r u t h
+061/149	ruht	1	r uh t
+061/151	ruth	1	r u t h
+061/153	ruth	1	r u t h
+061/155	ruth	1	r u t h
+061/157	rutt	1	r u tt
+061/159	ruth	1	r u t h
+061/161	ruth	1	r u t h
+061/165	NA	NA	-
+062/021	ru	1	r u
+062/023	ruht	1	r uh t
+062/025	rut	1	r u t
+062/027	ruhd	1	r uh d
+062/029	ruhd	1	r uh d
+062/031	rued	1	r ue d
+062/033	ruud	1	r uu d
+062/035	rut	1	r u t
+062/037	rut	1	r u t
+062/039	rur	1	r u r
+062/041	rur	1	r u r
+062/043	rur	1	r u r
+062/045	rur	1	r u r
+062/047	rur	1	r u r
+062/049	ruhr	1	r uh r
+062/051	ruhr	1	r uh r
+062/053	roor	1	r oo r
+062/055	ruhr	1	r uh r
+062/057	ruhd	1	r uh d
+062/059	ror	1	r o r
+062/061	rohr	1	r oh r
+062/063	roth	1	r o t h
+062/065	roth	1	r o t h
+062/067	roth	1	r o t h
+062/069	roth	1	r o t h
+062/071	ruth	1	r u t h
+062/073	rud	1	r u d
+062/075	roet	1	r oe t
+062/077	rutt	1	r u tt
+062/079	ruth	1	r u t h
+062/081	ruoth	1	r uo t h
+062/083	ruet	1	r ue t
+062/085	ruth	1	r u t h
+062/087	rut	1	r u t
+062/089	ruhd	1	r uh d
+062/091	rued	1	r ue d
+062/093	ruth	1	r u t h
+062/095	ruth	1	r u t h
+062/097	ruth	1	r u t h
+062/099	ruth	1	r u t h
+062/101	ruth	1	r u t h
+062/103	ruth	1	r u t h
+062/105	ruth	1	r u t h
+062/107	ruth	1	r u t h
+062/109	ruth	1	r u t h
+062/111	rut	1	r u t
+062/113	rut	1	r u t
+062/115	rot	1	r o t
+062/117	rot	1	r o t
+062/119	rod	1	r o d
+062/121	rot	1	r o t
+062/123	rut	1	r u t
+062/125	ruut	1	r uu t
+062/127	rut	1	r u t
+062/129	rut	1	r u t
+062/131	rut	1	r u t
+062/133	ruut	1	r uu t
+062/135	rut	1	r u t
+062/137	ruut	1	r uu t
+062/139	rut	1	r u t
+062/141	rut	1	r u t
+062/143	ruth	1	r u t h
+062/145	ruth	1	r u t h
+062/147	ruth	1	r u t h
+062/149	ruth	1	r u t h
+062/151	ruth	1	r u t h
+062/153	routh	1	r ou t h
+062/155	ruth	1	r u t h
+062/157	rut	1	r u t
+062/159	ruth	1	r u t h
+062/161	ruth	1	r u t h
+063/021	ruh	1	r uh
+063/023	rut	1	r u t
+063/025	rud	1	r u d
+063/027	rued	1	r ue d
+063/029	ruet	1	r ue t
+063/031	rued	1	r ue d
+063/033	rud	1	r u d
+063/035	rud	1	r u d
+063/037	rut	1	r u t
+063/039	ruhl	1	r uh l
+063/041	ruth	1	r u t h
+063/043	rur	1	r u r
+063/045	ruhr	1	r uh r
+063/047	rur	1	r u r
+063/049	rur	1	r u r
+063/051	rur	1	r u r
+063/053	ruhr	1	r uh r
+063/055	ruhr	1	r uh r
+063/057	rur	1	r u r
+063/059	ruth	1	r u t h
+063/061	ror	1	r o r
+063/063	roth	1	r o t h
+063/065	roth	1	r o t h
+063/067	rod	1	r o d
+063/069	roth	1	r o t h
+063/071	ruth	1	r u t h
+063/073	ruith	1	r ui t h
+063/075	ruit	1	r ui t
+063/077	ruet	1	r ue t
+063/079	ruoth	1	r uo t h
+063/081	ruhet	1	r u h e t
+063/083	rueth	1	r ue t h
+063/085	ruth	1	r u t h
+063/087	ruth	1	r u t h
+063/089	ruth	1	r u t h
+063/091	ruth	1	r u t h
+063/093	roth	1	r o t h
+063/095	ruoth	1	r uo t h
+063/097	rueth	1	r ue t h
+063/099	ruth	1	r u t h
+063/101	ruth	1	r u t h
+063/103	ruud	1	r uu d
+063/105	ruth	1	r u t h
+063/107	ruth	1	r u t h
+063/109	rod	1	r o d
+063/111	rout	1	r ou t
+063/113	rut	1	r u t
+063/115	rut	1	r u t
+063/117	rut	1	r u t
+063/119	ruut	1	r uu t
+063/121	rut	1	r u t
+063/123	ruut	1	r uu t
+063/125	rut	1	r u t
+063/127	rut	1	r u t
+063/135	rut	1	r u t
+063/137	rut	1	r u t
+063/139	rut	1	r u t
+063/141	rut	1	r u t
+063/143	ruut	1	r uu t
+063/145	rut	1	r u t
+063/147	ruth	1	r u t h
+063/149	ruth	1	r u t h
+063/151	ruth	1	r u t h
+063/153	ruth	1	r u t h
+063/155	ruth	1	r u t h
+063/157	ruth	1	r u t h
+063/159	ruth	1	r u t h
+063/161	ruth	1	r u t h
+063/163	ruth	1	r u t h
+063/165	ruth	1	r u t h
+064/023	rud	1	r u d
+064/025	ruht	1	r uh t
+064/027	rued	1	r ue d
+064/029	rud	1	r u d
+064/031	ruöd	1	r uö d
+064/033	roed	1	r oe d
+064/035	rud	1	r u d
+064/037	rur	1	r u r
+064/039	ruhl	1	r uh l
+064/041	rur	1	r u r
+064/043	rur	1	r u r
+064/045	rur	1	r u r
+064/047	rur	1	r u r
+064/049	ruhr	1	r uh r
+064/051	ruhr	1	r uh r
+064/053	ruhr	1	r uh r
+064/055	rur	1	r u r
+064/057	ruur	1	r uu r
+064/059	rued	1	r ue d
+064/061	roth	1	r o t h
+064/063	rod	1	r o d
+064/065	roth	1	r o t h
+064/067	roth	1	r o t h
+064/069	rod	1	r o d
+064/071	ruth	1	r u t h
+064/073	ruhit	1	r u h i t
+064/075	ruet	1	r ue t
+064/077	ruöt	1	r uö t
+064/079	ruth	1	r u t h
+064/081	ruath	1	r ua t h
+064/083	rat	1	r a t
+064/085	roth	1	r o t h
+064/087	ruth	1	r u t h
+064/089	ruth	1	r u t h
+064/091	ruth	1	r u t h
+064/093	ruäth	1	r uä t h
+064/095	ruth	1	r u t h
+064/097	ruet	1	r ue t
+064/099	ruth	1	r u t h
+064/101	ruth	1	r u t h
+064/103	ruuth	1	r uu t h
+064/105	ruth	1	r u t h
+064/107	rut	1	r u t
+064/109	rut	1	r u t
+064/111	rut	1	r u t
+064/113	rut	1	r u t
+064/115	rut	1	r u t
+064/117	rut	1	r u t
+064/119	rut	1	r u t
+064/121	rut	1	r u t
+064/123	rut	1	r u t
+064/125	rut	1	r u t
+064/127	rut	1	r u t
+064/135	rut	1	r u t
+064/137	ruut	1	r uu t
+064/139	rut	1	r u t
+064/141	rut	1	r u t
+064/143	rut	1	r u t
+064/145	rut	1	r u t
+064/147	ruth	1	r u t h
+064/149	ruth	1	r u t h
+064/151	ruth	1	r u t h
+064/153	ruth	1	r u t h
+064/155	rut	1	r u t
+064/157	ruth	1	r u t h
+064/159	ruth	1	r u t h
+065/021	runden	1	r u n d e n
+065/023	rued	1	r ue d
+065/025	rued	1	r ue d
+065/027	rued	1	r ue d
+065/029	rued	1	r ue d
+065/031	rud	1	r u d
+065/033	ruet	1	r ue t
+065/035	rud	1	r u d
+065/037	rud	1	r u d
+065/039	rud	1	r u d
+065/041	ruuhr	1	r uuh r
+065/043	rur	1	r u r
+065/045	rur	1	r u r
+065/047	rur	1	r u r
+065/049	ruhr	1	r uh r
+065/051	rur	1	r u r
+065/053	ruut	1	r uu t
+065/055	rur	1	r u r
+065/057	ruhr	1	r uh r
+065/059	ruhr	1	r uh r
+065/061	rod	1	r o d
+065/063	ror	1	r o r
+065/065	roth	1	r o t h
+065/067	roth	1	r o t h
+065/069	ruht	1	r uh t
+065/071	rut	1	r u t
+065/073	ruut	1	r uu t
+065/075	ruäth	1	r uä t h
+065/077	roth	1	r o t h
+065/079	rutt	1	r u tt
+065/081	roth	1	r o t h
+065/083	ratt	1	r a tt
+065/085	ruhd	1	r uh d
+065/087	ruhd	1	r uh d
+065/089	ruth	1	r u t h
+065/091	ruth	1	r u t h
+065/093	roth	1	r o t h
+065/095	ruth	1	r u t h
+065/097	ruut	1	r uu t
+065/101	rud	1	r u d
+065/103	ruth	1	r u t h
+065/105	rut	1	r u t
+065/107	rut	1	r u t
+065/109	rut	1	r u t
+065/111	rut	1	r u t
+065/113	ruud	1	r uu d
+065/115	ruht	1	r uh t
+065/121	rut	1	r u t
+065/123	rut	1	r u t
+065/137	rut	1	r u t
+065/139	rut	1	r u t
+065/143	ruth	1	r u t h
+065/145	roth	1	r o t h
+065/147	ruth	1	r u t h
+065/149	ruth	1	r u t h
+065/151	rut	1	r u t
+065/153	ruth	1	r u t h
+065/155	ruth	1	r u t h
+065/157	ruth	1	r u t h
+065/159	ruth	1	r u t h
+066/021	rukd	1	r u k d
+066/023	rukd	1	r u k d
+066/025	rued	1	r ue d
+066/027	rut	1	r u t
+066/029	rut	1	r u t
+066/031	rud	1	r u d
+066/033	rud	1	r u d
+066/035	rut	1	r u t
+066/037	rur	1	r u r
+066/039	ruhd	1	r uh d
+066/041	rurr	1	r u rr
+066/043	rur	1	r u r
+066/045	rur	1	r u r
+066/047	rur	1	r u r
+066/049	rur	1	r u r
+066/051	rour	1	r ou r
+066/053	rur	1	r u r
+066/055	rur	1	r u r
+066/057	rur	1	r u r
+066/059	roith	1	r oi t h
+066/061	ror	1	r o r
+066/063	rorh	1	r o r h
+066/065	ror	1	r o r
+066/067	rot	1	r o t
+066/069	ruot	1	r uo t
+066/071	ruat	1	r ua t
+066/073	roat	1	r oa t
+066/075	roth	1	r o t h
+066/077	rath	1	r a t h
+066/079	rott	1	r o tt
+066/081	roth	1	r o t h
+066/083	ruth	1	r u t h
+066/085	ruot	1	r uo t
+066/087	rut	1	r u t
+066/089	ruth	1	r u t h
+066/091	ruth	1	r u t h
+066/093	rueth	1	r ue t h
+066/095	ruäth	1	r uä t h
+066/097	rooth	1	r oo t h
+066/099	rut	1	r u t
+066/101	rut	1	r u t
+066/103	rut	1	r u t
+066/105	rut	1	r u t
+066/107	rot	1	r o t
+066/109	rot	1	r o t
+066/111	rot	1	r o t
+066/113	ruut	1	r uu t
+066/121	rut	1	r u t
+066/139	rut	1	r u t
+066/143	rut	1	r u t
+066/145	ruth	1	r u t h
+066/147	ruth	1	r u t h
+066/149	ruth	1	r u t h
+066/151	ruth	1	r u t h
+066/153	ruut	1	r uu t
+066/155	rut	1	r u t
+066/157	ruth	1	r u t h
+066/159	rut	1	r u t
+066/161	rut	1	r u t
+066/163	routh	1	r ou t h
+067/021	ruhd	1	r uh d
+067/023	rukd	1	r u k d
+067/025	rud	1	r u d
+067/027	rud	1	r u d
+067/029	rud	1	r u d
+067/031	rut	1	r u t
+067/033	rud	1	r u d
+067/035	rud	1	r u d
+067/037	ruth	1	r u t h
+067/039	rur	1	r u r
+067/041	rur	1	r u r
+067/043	rur	1	r u r
+067/045	rur	1	r u r
+067/047	ruhr	1	r uh r
+067/049	rur	1	r u r
+067/051	rur	1	r u r
+067/053	rur	1	r u r
+067/055	rour	1	r ou r
+067/057	ruuhr	1	r uuh r
+067/059	rur	1	r u r
+067/061	roth	1	r o t h
+067/063	ror	1	r o r
+067/065	rot	1	r o t
+067/067	roat	1	r oa t
+067/069	roit	1	r oi t
+067/071	routh	1	r ou t h
+067/073	roat	1	r oa t
+067/075	rot	1	r o t
+067/077	roth	1	r o t h
+067/079	rurth	1	r u r t h
+067/081	rueth	1	r ue t h
+067/083	ruhet	1	r u h e t
+067/085	ruoth	1	r uo t h
+067/087	ruth	1	r u t h
+067/089	rut	1	r u t
+067/091	rot	1	r o t
+067/093	raut	1	r au t
+067/095	raut	1	r au t
+067/097	rout	1	r ou t
+067/099	raau	1	r aau
+067/101	rou	1	r ou
+067/103	rout	1	r ou t
+067/105	rout	1	r ou t
+067/107	rot	1	r o t
+067/109	rot	1	r o t
+067/111	root	1	r oo t
+067/113	rut	1	r u t
+067/143	rut	1	r u t
+067/145	rut	1	r u t
+067/147	ruth	1	r u t h
+067/149	roth	1	r o t h
+067/151	roth	1	r o t h
+067/153	rut	1	r u t
+067/155	rut	1	r u t
+067/157	rut	1	r u t
+067/159	ruth	1	r u t h
+067/161	ruoth	1	r uo t h
+067/163	ruth	1	r u t h
+067/165	ruth	1	r u t h
+067/177	ruth	1	r u t h
+068/021	rutd	1	r u t d
+068/023	ruckt	1	r u ck t
+068/025	rud	1	r u d
+068/027	rud	1	r u d
+068/029	rud	1	r u d
+068/031	rud	1	r u d
+068/033	rud	1	r u d
+068/035	rud	1	r u d
+068/037	rur	1	r u r
+068/039	rur	1	r u r
+068/041	rur	1	r u r
+068/043	rur	1	r u r
+068/045	rur	1	r u r
+068/047	ruhr	1	r uh r
+068/049	rour	1	r ou r
+068/051	ruhr	1	r uh r
+068/053	ruhr	1	r uh r
+068/055	ruhr	1	r uh r
+068/057	ruhr	1	r uh r
+068/059	rud	1	r u d
+068/061	roth	1	r o t h
+068/063	roat	1	r oa t
+068/065	rot	1	r o t
+068/067	rout	1	r ou t
+068/069	rot	1	r o t
+068/071	roat	1	r oa t
+068/073	roat	1	r oa t
+068/075	roth	1	r o t h
+068/077	ruuat	1	r uua t
+068/079	ruat	1	r ua t
+068/081	ruoth	1	r uo t h
+068/083	ruet	1	r ue t
+068/085	rut	1	r u t
+068/087	ruat	1	r ua t
+068/089	rut	1	r u t
+068/091	ruat	1	r ua t
+068/093	rout	1	r ou t
+068/095	rau	1	r au
+068/097	rou	1	r ou
+068/099	rou	1	r ou
+068/101	rou	1	r ou
+068/103	raut	1	r au t
+068/105	roud	1	r ou d
+068/107	rout	1	r ou t
+068/109	rot	1	r o t
+068/111	rot	1	r o t
+068/145	rut	1	r u t
+068/147	rut	1	r u t
+068/149	roth	1	r o t h
+068/151	rut	1	r u t
+068/153	ruot	1	r uo t
+068/155	rut	1	r u t
+068/157	rut	1	r u t
+068/159	ruot	1	r uo t
+068/161	rut	1	r u t
+068/165	ruth	1	r u t h
+069/019	rugd	1	r u g d
+069/023	rud	1	r u d
+069/025	rugg	1	r u gg
+069/027	rud	1	r u d
+069/029	ruhd	1	r uh d
+069/031	rud	1	r u d
+069/033	rud	1	r u d
+069/035	rur	1	r u r
+069/037	ror	1	r o r
+069/039	rohr	1	r oh r
+069/041	ror	1	r o r
+069/043	ruhr	1	r uh r
+069/045	rur	1	r u r
+069/047	ruhr	1	r uh r
+069/049	ruhr	1	r uh r
+069/051	rod	1	r o d
+069/053	roth	1	r o t h
+069/055	ruth	1	r u t h
+069/057	rur	1	r u r
+069/059	roth	1	r o t h
+069/061	roth	1	r o t h
+069/063	roat	1	r oa t
+069/065	roat	1	r oa t
+069/067	roat	1	r oa t
+069/069	roat	1	r oa t
+069/071	raat	1	r aa t
+069/073	roat	1	r oa t
+069/075	rat	1	r a t
+069/077	rot	1	r o t
+069/079	ruet	1	r ue t
+069/081	rot	1	r o t
+069/083	rut	1	r u t
+069/085	rut	1	r u t
+069/087	ruet	1	r ue t
+069/089	rundn	1	r u n d n
+069/091	rot	1	r o t
+069/093	raout	1	r aou t
+069/095	rou	1	r ou
+069/097	raut	1	r au t
+069/099	rou	1	r ou
+069/101	rou	1	r ou
+069/103	rou	1	r ou
+069/105	raut	1	r au t
+069/107	raot	1	r ao t
+069/109	rot	1	r o t
+069/111	rot	1	r o t
+069/147	rut	1	r u t
+069/149	rot	1	r o t
+069/151	rut	1	r u t
+069/153	ruot	1	r uo t
+069/157	rut	1	r u t
+069/159	routh	1	r ou t h
+069/161	ruet	1	r ue t
+069/163	ruth	1	r u t h
+069/165	rot	1	r o t
+070/019	roud	1	r ou d
+070/023	rukd	1	r u k d
+070/025	ruckt	1	r u ck t
+070/027	ruid	1	r ui d
+070/029	rud	1	r u d
+070/031	roud	1	r ou d
+070/033	rur	1	r u r
+070/035	ruhl	1	r uh l
+070/037	rur	1	r u r
+070/039	ror	1	r o r
+070/041	rohr	1	r oh r
+070/043	rohr	1	r oh r
+070/045	rod	1	r o d
+070/047	rur	1	r u r
+070/049	rur	1	r u r
+070/051	ruth	1	r u t h
+070/053	rod	1	r o d
+070/055	rour	1	r ou r
+070/057	rour	1	r ou r
+070/059	rour	1	r ou r
+070/061	rot	1	r o t
+070/063	rot	1	r o t
+070/065	rot	1	r o t
+070/067	roat	1	r oa t
+070/069	rat	1	r a t
+070/071	rot	1	r o t
+070/073	roat	1	r oa t
+070/075	roet	1	r oe t
+070/077	roht	1	r oh t
+070/079	ruet	1	r ue t
+070/081	raaet	1	r aae t
+070/083	rut	1	r u t
+070/085	rut	1	r u t
+070/087	rut	1	r u t
+070/089	rut	1	r u t
+070/091	rout	1	r ou t
+070/093	raut	1	r au t
+070/095	rout	1	r ou t
+070/097	rou	1	r ou
+070/099	rou	1	r ou
+070/101	rou	1	r ou
+070/103	rout	1	r ou t
+070/105	raot	1	r ao t
+070/107	rao	1	r ao
+070/109	rout	1	r ou t
+070/111	rout	1	r ou t
+070/145	rut	1	r u t
+070/147	rut	1	r u t
+070/149	rut	1	r u t
+070/151	ruot	1	r uo t
+070/153	rot	1	r o t
+070/155	ruuet	1	r uue t
+070/157	rüt	1	r ü t
+070/159	rout	1	r ou t
+070/161	rot	1	r o t
+070/163	ruth	1	r u t h
+070/165	rut	1	r u t
+071/017	ruod	1	r uo d
+071/019	ruot	1	r uo t
+071/021	rud	1	r u d
+071/023	rudd	1	r u dd
+071/025	rudd	1	r u dd
+071/027	ruckt	1	r u ck t
+071/029	rud	1	r u d
+071/031	roud	1	r ou d
+071/033	rood	1	r oo d
+071/035	rohr	1	r oh r
+071/037	roor	1	r oo r
+071/039	rour	1	r ou r
+071/041	rohr	1	r oh r
+071/043	rohr	1	r oh r
+071/045	ror	1	r o r
+071/047	rohr	1	r oh r
+071/049	ror	1	r o r
+071/051	ror	1	r o r
+071/053	rour	1	r ou r
+071/055	roar	1	r oa r
+071/057	rout	1	r ou t
+071/059	rour	1	r ou r
+071/063	roät	1	r oä t
+071/065	roat	1	r oa t
+071/067	rot	1	r o t
+071/069	rut	1	r u t
+071/071	roat	1	r oa t
+071/073	roat	1	r oa t
+071/075	roat	1	r oa t
+071/077	rot	1	r o t
+071/079	rut	1	r u t
+071/081	rut	1	r u t
+071/083	rut	1	r u t
+071/085	rut	1	r u t
+071/087	rut	1	r u t
+071/089	rut	1	r u t
+071/091	roud	1	r ou d
+071/093	raod	1	r ao d
+071/095	raou	1	r aou
+071/097	rou	1	r ou
+071/099	rou	1	r ou
+071/101	rou	1	r ou
+071/103	rou	1	r ou
+071/105	rou	1	r ou
+071/145	rut	1	r u t
+071/147	rut	1	r u t
+071/149	rut	1	r u t
+071/151	root	1	r oo t
+071/153	ruat	1	r ua t
+071/155	rot	1	r o t
+071/157	rut	1	r u t
+071/159	rut	1	r u t
+071/161	rut	1	r u t
+071/163	rot	1	r o t
+071/177	ruut	1	r uu t
+071/179	rot	1	r o t
+072/017	rood	1	r oo d
+072/019	ruod	1	r uo d
+072/021	ruuot	1	r uuo t
+072/023	rudd	1	r u dd
+072/025	rudd	1	r u dd
+072/027	rud	1	r u d
+072/029	rud	1	r u d
+072/031	rod	1	r o d
+072/033	roh	1	r oh
+072/035	ror	1	r o r
+072/037	ror	1	r o r
+072/039	rohr	1	r oh r
+072/041	ror	1	r o r
+072/043	roth	1	r o t h
+072/045	ror	1	r o r
+072/047	rohr	1	r oh r
+072/049	rohr	1	r oh r
+072/051	rood	1	r oo d
+072/053	rour	1	r ou r
+072/055	rour	1	r ou r
+072/057	rour	1	r ou r
+072/059	rour	1	r ou r
+072/061	roat	1	r oa t
+072/063	roat	1	r oa t
+072/065	rad	1	r a d
+072/067	roat	1	r oa t
+072/069	raat	1	r aa t
+072/071	roat	1	r oa t
+072/073	roat	1	r oa t
+072/075	roet	1	r oe t
+072/077	rot	1	r o t
+072/079	rot	1	r o t
+072/081	rot	1	r o t
+072/083	NA	NA	-
+072/085	rot	1	r o t
+072/087	rut	1	r u t
+072/089	roth	1	r o t h
+072/091	raüd	1	r aü d
+072/093	roat	1	r oa t
+072/095	rout	1	r ou t
+072/097	raut	1	r au t
+072/099	rout	1	r ou t
+072/101	rou	1	r ou
+072/103	rao	1	r ao
+072/105	raod	1	r ao d
+072/107	rout	1	r ou t
+072/145	rut	1	r u t
+072/147	rut	1	r u t
+072/149	rut	1	r u t
+072/151	ruht	1	r uh t
+072/153	rout	1	r ou t
+072/155	ruot	1	r uo t
+072/157	rot	1	r o t
+072/159	ruet	1	r ue t
+072/161	rout	1	r ou t
+072/177	rut	1	r u t
+072/179	rot	1	r o t
+072/181	roit	1	r oi t
+073/017	roud	1	r ou d
+073/019	rut	1	r u t
+073/021	rouud	1	r ouu d
+073/023	ruod	1	r uo d
+073/025	rudd	1	r u dd
+073/027	rud	1	r u d
+073/029	rohd	1	r oh d
+073/031	rodh	1	r o d h
+073/033	ror	1	r o r
+073/035	rohr	1	r oh r
+073/037	rohr	1	r oh r
+073/039	rohr	1	r oh r
+073/041	ruhr	1	r uh r
+073/043	ror	1	r o r
+073/045	ror	1	r o r
+073/047	ror	1	r o r
+073/049	ror	1	r o r
+073/051	roor	1	r oo r
+073/053	rohr	1	r oh r
+073/055	rour	1	r ou r
+073/057	rouhr	1	r ouh r
+073/059	runde	1	r u n d e
+073/061	roud	1	r ou d
+073/063	roat	1	r oa t
+073/065	roat	1	r oa t
+073/067	roat	1	r oa t
+073/069	roat	1	r oa t
+073/071	roat	1	r oa t
+073/073	roat	1	r oa t
+073/075	rot	1	r o t
+073/077	rot	1	r o t
+073/079	root	1	r oo t
+073/081	rot	1	r o t
+073/083	rüt	1	r ü t
+073/085	rot	1	r o t
+073/087	ro	1	r o
+073/089	rout	1	r ou t
+073/091	rout	1	r ou t
+073/093	räud	1	r äu d
+073/095	räut	1	r äu t
+073/097	rout	1	r ou t
+073/099	rout	1	r ou t
+073/101	rot	1	r o t
+073/103	root	1	r oo t
+073/105	raot	1	r ao t
+073/107	rout	1	r ou t
+073/145	rut	1	r u t
+073/147	rut	1	r u t
+073/149	rut	1	r u t
+073/151	rut	1	r u t
+073/153	rut	1	r u t
+073/155	ruat	1	r ua t
+073/157	rut	1	r u t
+073/159	rout	1	r ou t
+073/161	ruet	1	r ue t
+073/163	rot	1	r o t
+073/165	rot	1	r o t
+073/175	NA	NA	-
+073/177	röüt	1	r öü t
+074/019	ruot	1	r uo t
+074/021	rot	1	r o t
+074/023	roud	1	r ou d
+074/025	root	1	r oo t
+074/027	ruth	1	r u t h
+074/029	ruhd	1	r uh d
+074/031	rodh	1	r o d h
+074/033	ror	1	r o r
+074/035	ror	1	r o r
+074/037	rohr	1	r oh r
+074/039	ruer	1	r ue r
+074/041	ror	1	r o r
+074/043	ror	1	r o r
+074/045	ror	1	r o r
+074/047	ror	1	r o r
+074/049	roaur	1	r oau r
+074/051	rohr	1	r oh r
+074/053	rour	1	r ou r
+074/055	raour	1	r aou r
+074/057	roud	1	r ou d
+074/059	rout	1	r ou t
+074/061	rod	1	r o d
+074/063	rod	1	r o d
+074/065	rood	1	r oo d
+074/067	roath	1	r oa t h
+074/069	rat	1	r a t
+074/071	raat	1	r aa t
+074/073	rat	1	r a t
+074/075	rat	1	r a t
+074/077	rot	1	r o t
+074/079	rot	1	r o t
+074/081	rot	1	r o t
+074/083	rot	1	r o t
+074/085	raoud	1	r aou d
+074/087	rout	1	r ou t
+074/089	raud	1	r au d
+074/091	rout	1	r ou t
+074/093	raout	1	r aou t
+074/095	rout	1	r ou t
+074/097	rout	1	r ou t
+074/099	root	1	r oo t
+074/101	root	1	r oo t
+074/103	rou	1	r ou
+074/105	rout	1	r ou t
+074/107	roo	1	r oo
+074/109	rout	1	r ou t
+074/145	rut	1	r u t
+074/147	rut	1	r u t
+074/149	rut	1	r u t
+074/153	runten	1	r u n t e n
+074/155	rout	1	r ou t
+074/157	rot	1	r o t
+074/159	rot	1	r o t
+074/161	rut	1	r u t
+074/163	ruoth	1	r uo t h
+074/165	rut	1	r u t
+075/019	ruod	1	r uo d
+075/021	rod	1	r o d
+075/023	ruud	1	r uu d
+075/025	ruod	1	r uo d
+075/027	roud	1	r ou d
+075/029	rod	1	r o d
+075/031	rud	1	r u d
+075/033	rod	1	r o d
+075/035	ror	1	r o r
+075/037	ror	1	r o r
+075/039	rohr	1	r oh r
+075/041	rohr	1	r oh r
+075/043	ror	1	r o r
+075/045	ror	1	r o r
+075/047	rohr	1	r oh r
+075/049	rohd	1	r oh d
+075/051	rohr	1	r oh r
+075/053	rour	1	r ou r
+075/055	roud	1	r ou d
+075/057	rour	1	r ou r
+075/059	rout	1	r ou t
+075/061	roud	1	r ou d
+075/063	rot	1	r o t
+075/065	rot	1	r o t
+075/067	roat	1	r oa t
+075/069	rath	1	r a t h
+075/071	roat	1	r oa t
+075/073	rot	1	r o t
+075/075	rat	1	r a t
+075/077	rot	1	r o t
+075/079	rot	1	r o t
+075/081	roth	1	r o t h
+075/083	rout	1	r ou t
+075/085	rout	1	r ou t
+075/087	routh	1	r ou t h
+075/089	roat	1	r oa t
+075/091	rout	1	r ou t
+075/093	raout	1	r aou t
+075/095	räut	1	r äu t
+075/097	raout	1	r aou t
+075/099	raut	1	r au t
+075/101	rout	1	r ou t
+075/103	roo	1	r oo
+075/105	rau	1	r au
+075/107	rou	1	r ou
+075/135	hrejut	1	h r e j u t
+075/145	rut	1	r u t
+075/147	rut	1	r u t
+075/149	rut	1	r u t
+075/155	rut	1	r u t
+075/157	rot	1	r o t
+075/159	rut	1	r u t
+075/161	rout	1	r ou t
+075/163	ruet	1	r ue t
+075/165	rot	1	r o t
+076/019	NA	NA	-
+076/021	roudd	1	r ou dd
+076/023	ruod	1	r uo d
+076/025	röud	1	r öu d
+076/027	rud	1	r u d
+076/029	rud	1	r u d
+076/033	roth	1	r o t h
+076/035	rohr	1	r oh r
+076/037	ror	1	r o r
+076/039	rod	1	r o d
+076/041	rohr	1	r oh r
+076/043	rohr	1	r oh r
+076/045	ror	1	r o r
+076/047	ror	1	r o r
+076/049	rour	1	r ou r
+076/051	roud	1	r ou d
+076/053	rour	1	r ou r
+076/055	rour	1	r ou r
+076/057	rour	1	r ou r
+076/059	roud	1	r ou d
+076/061	roud	1	r ou d
+076/063	roud	1	r ou d
+076/065	rot	1	r o t
+076/067	rot	1	r o t
+076/069	rot	1	r o t
+076/071	roet	1	r oe t
+076/073	roat	1	r oa t
+076/075	rat	1	r a t
+076/077	roat	1	r oa t
+076/079	rout	1	r ou t
+076/081	rout	1	r ou t
+076/083	raut	1	r au t
+076/085	rout	1	r ou t
+076/087	rou	1	r ou
+076/089	raut	1	r au t
+076/091	roud	1	r ou d
+076/093	roed	1	r oe d
+076/095	rout	1	r ou t
+076/097	rout	1	r ou t
+076/099	roud	1	r ou d
+076/101	rout	1	r ou t
+076/103	roat	1	r oa t
+076/135	rout	1	r ou t
+076/137	hräut	1	h r äu t
+076/149	rut	1	r u t
+076/151	ruut	1	r uu t
+076/155	rut	1	r u t
+076/161	rot	1	r o t
+076/163	rot	1	r o t
+076/165	rut	1	r u t
+077/019	röt	1	r ö t
+077/021	rood	1	r oo d
+077/023	roeth	1	r oe t h
+077/025	rooud	1	r oou d
+077/027	rud	1	r u d
+077/029	rod	1	r o d
+077/031	rod	1	r o d
+077/033	rohr	1	r oh r
+077/035	rohr	1	r oh r
+077/037	ror	1	r o r
+077/039	rohr	1	r oh r
+077/041	ror	1	r o r
+077/043	roor	1	r oo r
+077/047	roor	1	r oo r
+077/049	rod	1	r o d
+077/051	rour	1	r ou r
+077/053	roul	1	r ou l
+077/055	roul	1	r ou l
+077/057	rout	1	r ou t
+077/059	roud	1	r ou d
+077/061	roud	1	r ou d
+077/063	rod	1	r o d
+077/065	road	1	r oa d
+077/067	rot	1	r o t
+077/069	rod	1	r o d
+077/071	roat	1	r oa t
+077/073	rat	1	r a t
+077/075	rat	1	r a t
+077/077	roet	1	r oe t
+077/079	rout	1	r ou t
+077/081	rauth	1	r au t h
+077/083	röit	1	r öi t
+077/085	rout	1	r ou t
+077/087	rout	1	r ou t
+077/089	rout	1	r ou t
+077/091	raut	1	r au t
+077/093	roud	1	r ou d
+077/095	rout	1	r ou t
+077/097	raut	1	r au t
+077/099	raud	1	r au d
+077/101	roud	1	r ou d
+077/103	rout	1	r ou t
+077/135	rout	1	r ou t
+077/137	raut	1	r au t
+078/021	rud	1	r u d
+078/023	rod	1	r o d
+078/025	rud	1	r u d
+078/027	roud	1	r ou d
+078/029	rod	1	r o d
+078/031	rod	1	r o d
+078/033	ror	1	r o r
+078/035	ror	1	r o r
+078/037	ror	1	r o r
+078/039	rod	1	r o d
+078/041	ror	1	r o r
+078/045	rour	1	r ou r
+078/047	rout	1	r ou t
+078/049	roud	1	r ou d
+078/051	roud	1	r ou d
+078/053	rod	1	r o d
+078/055	roul	1	r ou l
+078/057	rout	1	r ou t
+078/059	roud	1	r ou d
+078/061	roudd	1	r ou dd
+078/063	rout	1	r ou t
+078/065	rot	1	r o t
+078/067	road	1	r oa d
+078/069	rod	1	r o d
+078/071	road	1	r oa d
+078/073	roat	1	r oa t
+078/075	rot	1	r o t
+078/077	rot	1	r o t
+078/079	rot	1	r o t
+078/081	raut	1	r au t
+078/083	roat	1	r oa t
+078/085	roud	1	r ou d
+078/087	raaud	1	r aau d
+078/089	raud	1	r au d
+078/091	rout	1	r ou t
+078/093	raaut	1	r aau t
+078/095	rout	1	r ou t
+078/097	raud	1	r au d
+078/099	raud	1	r au d
+078/101	rout	1	r ou t
+078/103	raut	1	r au t
+078/105	raaut	1	r aau t
+078/135	rout	1	r ou t
+078/193	rot	1	r o t
+079/021	rot	1	r o t
+079/023	rod	1	r o d
+079/025	rod	1	r o d
+079/027	rod	1	r o d
+079/029	roth	1	r o t h
+079/031	rot	1	r o t
+079/033	roth	1	r o t h
+079/035	rod	1	r o d
+079/037	rohr	1	r oh r
+079/039	rohr	1	r oh r
+079/043	roor	1	r oo r
+079/045	ror	1	r o r
+079/047	roud	1	r ou d
+079/049	rot	1	r o t
+079/051	roud	1	r ou d
+079/053	rout	1	r ou t
+079/055	rohd	1	r oh d
+079/057	rout	1	r ou t
+079/059	roud	1	r ou d
+079/061	rod	1	r o d
+079/063	rod	1	r o d
+079/065	roth	1	r o t h
+079/067	rot	1	r o t
+079/069	roedd	1	r oe dd
+079/071	roat	1	r oa t
+079/073	roat	1	r oa t
+079/075	roat	1	r oa t
+079/077	roat	1	r oa t
+079/079	rout	1	r ou t
+079/081	rout	1	r ou t
+079/083	rout	1	r ou t
+079/085	roud	1	r ou d
+079/087	rout	1	r ou t
+079/089	roud	1	r ou d
+079/091	rout	1	r ou t
+079/093	rot	1	r o t
+079/095	rout	1	r ou t
+079/097	rout	1	r ou t
+079/099	raud	1	r au d
+079/101	raud	1	r au d
+079/103	rout	1	r ou t
+079/105	rout	1	r ou t
+079/107	rauot	1	r auo t
+079/133	rot	1	r o t
+079/135	raut	1	r au t
+079/193	räud	1	r äu d
+079/195	reud	1	r eu d
+079/197	rut	1	r u t
+080/025	rod	1	r o d
+080/027	rod	1	r o d
+080/029	rohd	1	r oh d
+080/031	rohd	1	r oh d
+080/033	rood	1	r oo d
+080/035	ror	1	r o r
+080/037	road	1	r oa d
+080/039	ror	1	r o r
+080/041	ror	1	r o r
+080/043	ror	1	r o r
+080/045	roud	1	r ou d
+080/047	rowr	1	r o w r
+080/049	rod	1	r o d
+080/051	roud	1	r ou d
+080/053	rod	1	r o d
+080/055	rood	1	r oo d
+080/057	roud	1	r ou d
+080/059	roud	1	r ou d
+080/061	root	1	r oo t
+080/063	rod	1	r o d
+080/065	rot	1	r o t
+080/067	rooad	1	r ooa d
+080/069	rot	1	r o t
+080/071	roat	1	r oa t
+080/073	roat	1	r oa t
+080/075	rot	1	r o t
+080/077	roath	1	r oa t h
+080/079	routh	1	r ou t h
+080/081	rout	1	r ou t
+080/083	roud	1	r ou d
+080/085	rout	1	r ou t
+080/087	röut	1	r öu t
+080/089	rout	1	r ou t
+080/091	roout	1	r oou t
+080/093	rout	1	r ou t
+080/095	rout	1	r ou t
+080/097	road	1	r oa d
+080/099	rout	1	r ou t
+080/101	roud	1	r ou d
+080/103	raut	1	r au t
+080/105	rout	1	r ou t
+080/107	rout	1	r ou t
+080/109	roud	1	r ou d
+080/127	roit	1	r oi t
+080/147	rot	1	r o t
+080/151	rot	1	r o t
+080/153	rot	1	r o t
+080/193	räud	1	r äu d
+080/195	räud	1	r äu d
+081/025	rod	1	r o d
+081/027	rot	1	r o t
+081/029	rot	1	r o t
+081/031	rod	1	r o d
+081/033	rood	1	r oo d
+081/035	rod	1	r o d
+081/037	rot	1	r o t
+081/039	ror	1	r o r
+081/043	rour	1	r ou r
+081/045	rour	1	r ou r
+081/047	röur	1	r öu r
+081/049	rod	1	r o d
+081/051	rood	1	r oo d
+081/053	rod	1	r o d
+081/055	rod	1	r o d
+081/057	rod	1	r o d
+081/059	rood	1	r oo d
+081/061	road	1	r oa d
+081/063	rot	1	r o t
+081/065	roat	1	r oa t
+081/067	rooad	1	r ooa d
+081/069	roat	1	r oa t
+081/071	road	1	r oa d
+081/073	roth	1	r o t h
+081/075	root	1	r oo t
+081/077	roat	1	r oa t
+081/079	raod	1	r ao d
+081/081	raau	1	r aau
+081/083	rout	1	r ou t
+081/085	raout	1	r aou t
+081/087	rout	1	r ou t
+081/089	raut	1	r au t
+081/091	rout	1	r ou t
+081/093	rout	1	r ou t
+081/095	raout	1	r aou t
+081/097	rout	1	r ou t
+081/099	roaut	1	r oau t
+081/101	raud	1	r au d
+081/103	rout	1	r ou t
+081/105	routh	1	r ou t h
+081/107	rout	1	r ou t
+081/109	rout	1	r ou t
+081/111	rout	1	r ou t
+081/127	roid	1	r oi d
+081/129	röit	1	r öi t
+081/133	roit	1	r oi t
+081/147	root	1	r oo t
+081/191	räut	1	r äu t
+081/193	reud	1	r eu d
+081/195	roud	1	r ou d
+082/027	rooth	1	r oo t h
+082/029	rood	1	r oo d
+082/031	roth	1	r o t h
+082/033	rod	1	r o d
+082/035	rod	1	r o d
+082/037	rod	1	r o d
+082/039	rod	1	r o d
+082/041	rod	1	r o d
+082/043	rod	1	r o d
+082/045	rour	1	r ou r
+082/047	rod	1	r o d
+082/049	rot	1	r o t
+082/051	rod	1	r o d
+082/053	rood	1	r oo d
+082/055	rot	1	r o t
+082/057	roet	1	r oe t
+082/059	raud	1	r au d
+082/061	rot	1	r o t
+082/063	rod	1	r o d
+082/065	road	1	r oa d
+082/067	roat	1	r oa t
+082/069	rooat	1	r ooa t
+082/071	roat	1	r oa t
+082/073	roat	1	r oa t
+082/075	rot	1	r o t
+082/077	rout	1	r ou t
+082/079	rout	1	r ou t
+082/081	rout	1	r ou t
+082/083	rout	1	r ou t
+082/085	roit	1	r oi t
+082/087	rout	1	r ou t
+082/089	raud	1	r au d
+082/091	rout	1	r ou t
+082/093	rout	1	r ou t
+082/095	roud	1	r ou d
+082/097	rout	1	r ou t
+082/099	rod	1	r o d
+082/101	rout	1	r ou t
+082/103	roud	1	r ou d
+082/105	raot	1	r ao t
+082/107	roud	1	r ou d
+082/111	rout	1	r ou t
+082/113	roud	1	r ou d
+082/117	roud	1	r ou d
+082/129	roid	1	r oi d
+082/131	roit	1	r oi t
+082/133	roid	1	r oi d
+082/135	roet	1	r oe t
+082/145	rot	1	r o t
+082/147	rot	1	r o t
+082/191	raud	1	r au d
+082/195	räud	1	r äu d
+083/027	rod	1	r o d
+083/029	rot	1	r o t
+083/031	rod	1	r o d
+083/033	rod	1	r o d
+083/035	rot	1	r o t
+083/037	rot	1	r o t
+083/039	rod	1	r o d
+083/041	rod	1	r o d
+083/043	rood	1	r oo d
+083/045	rot	1	r o t
+083/047	rod	1	r o d
+083/049	rod	1	r o d
+083/051	rod	1	r o d
+083/053	rod	1	r o d
+083/055	rood	1	r oo d
+083/057	raud	1	r au d
+083/059	raod	1	r ao d
+083/061	raod	1	r ao d
+083/063	raud	1	r au d
+083/065	road	1	r oa d
+083/067	roat	1	r oa t
+083/069	roat	1	r oa t
+083/071	roat	1	r oa t
+083/073	roat	1	r oa t
+083/075	rooad	1	r ooa d
+083/077	rout	1	r ou t
+083/079	rout	1	r ou t
+083/081	rout	1	r ou t
+083/083	rot	1	r o t
+083/085	rout	1	r ou t
+083/087	roouud	1	r oouu d
+083/089	rot	1	r o t
+083/091	roaut	1	r oau t
+083/093	raoud	1	r aou d
+083/095	roud	1	r ou d
+083/097	raot	1	r ao t
+083/099	räut	1	r äu t
+083/101	rout	1	r ou t
+083/103	räud	1	r äu d
+083/105	rout	1	r ou t
+083/107	rot	1	r o t
+083/111	rout	1	r ou t
+083/113	rout	1	r ou t
+083/115	rod	1	r o d
+083/117	roi	1	r oi
+083/119	roid	1	r oi d
+083/121	rod	1	r o d
+083/129	rot	1	r o t
+083/131	rod	1	r o d
+083/133	roit	1	r oi t
+083/135	roid	1	r oi d
+083/139	rod	1	r o d
+083/143	rod	1	r o d
+083/145	rod	1	r o d
+083/147	rot	1	r o t
+083/149	rout	1	r ou t
+083/173	ruut	1	r uu t
+083/195	raud	1	r au d
+084/031	rod	1	r o d
+084/033	rod	1	r o d
+084/035	rod	1	r o d
+084/037	rod	1	r o d
+084/039	rod	1	r o d
+084/041	rot	1	r o t
+084/043	roth	1	r o t h
+084/045	rot	1	r o t
+084/047	rod	1	r o d
+084/049	rod	1	r o d
+084/051	rot	1	r o t
+084/053	NA	NA	-
+084/055	rot	1	r o t
+084/057	raod	1	r ao d
+084/059	raoth	1	r ao t h
+084/061	raod	1	r ao d
+084/063	raod	1	r ao d
+084/065	raod	1	r ao d
+084/067	roat	1	r oa t
+084/069	roat	1	r oa t
+084/071	rot	1	r o t
+084/073	road	1	r oa d
+084/075	roat	1	r oa t
+084/077	rout	1	r ou t
+084/079	roaut	1	r oau t
+084/081	rot	1	r o t
+084/083	rout	1	r ou t
+084/085	raut	1	r au t
+084/087	rout	1	r ou t
+084/089	routh	1	r ou t h
+084/091	roud	1	r ou d
+084/093	raout	1	r aou t
+084/095	roud	1	r ou d
+084/097	raot	1	r ao t
+084/099	raut	1	r au t
+084/101	rout	1	r ou t
+084/103	roud	1	r ou d
+084/105	roud	1	r ou d
+084/107	raut	1	r au t
+084/109	rout	1	r ou t
+084/111	roud	1	r ou d
+084/113	roud	1	r ou d
+084/115	roud	1	r ou d
+084/117	roit	1	r oi t
+084/119	roid	1	r oi d
+084/129	rot	1	r o t
+084/131	rod	1	r o d
+084/133	rod	1	r o d
+084/135	rot	1	r o t
+084/137	rot	1	r o t
+084/139	NA	NA	-
+084/141	rot	1	r o t
+084/143	rot	1	r o t
+084/145	rod	1	r o d
+084/147	rot	1	r o t
+084/149	rod	1	r o d
+084/171	ruut	1	r uu t
+084/173	root	1	r oo t
+084/195	rod	1	r o d
+085/031	rohd	1	r oh d
+085/033	rot	1	r o t
+085/035	rod	1	r o d
+085/037	roth	1	r o t h
+085/039	rod	1	r o d
+085/041	root	1	r oo t
+085/043	rot	1	r o t
+085/045	ruudh	1	r uu d h
+085/047	rod	1	r o d
+085/049	rod	1	r o d
+085/051	raud	1	r au d
+085/053	raud	1	r au d
+085/055	raut	1	r au t
+085/057	rod	1	r o d
+085/059	rod	1	r o d
+085/061	raud	1	r au d
+085/063	raod	1	r ao d
+085/065	raod	1	r ao d
+085/067	raot	1	r ao t
+085/069	roat	1	r oa t
+085/071	roat	1	r oa t
+085/073	road	1	r oa d
+085/075	rot	1	r o t
+085/077	roat	1	r oa t
+085/079	roat	1	r oa t
+085/081	rout	1	r ou t
+085/083	rout	1	r ou t
+085/085	rout	1	r ou t
+085/087	raot	1	r ao t
+085/089	roth	1	r o t h
+085/091	rot	1	r o t
+085/093	rout	1	r ou t
+085/095	raud	1	r au d
+085/097	rot	1	r o t
+085/101	roud	1	r ou d
+085/103	rout	1	r ou t
+085/105	räud	1	r äu d
+085/107	rout	1	r ou t
+085/109	roud	1	r ou d
+085/111	räut	1	r äu t
+085/113	roit	1	r oi t
+085/115	roid	1	r oi d
+085/117	roid	1	r oi d
+085/119	roid	1	r oi d
+085/121	roid	1	r oi d
+085/123	roid	1	r oi d
+085/125	rot	1	r o t
+085/127	rod	1	r o d
+085/129	rod	1	r o d
+085/131	rod	1	r o d
+085/133	rot	1	r o t
+085/135	rod	1	r o d
+085/137	rot	1	r o t
+085/139	rot	1	r o t
+085/141	rod	1	r o d
+085/143	rod	1	r o d
+085/145	rod	1	r o d
+085/147	rot	1	r o t
+085/149	rod	1	r o d
+085/175	hreut	1	h r eu t
+085/193	rood	1	r oo d
+085/197	rood	1	r oo d
+086/033	rot	1	r o t
+086/035	rod	1	r o d
+086/037	roth	1	r o t h
+086/039	rot	1	r o t
+086/041	roth	1	r o t h
+086/043	rod	1	r o d
+086/045	rot	1	r o t
+086/047	rot	1	r o t
+086/049	rot	1	r o t
+086/051	raot	1	r ao t
+086/053	raaud	1	r aau d
+086/055	raud	1	r au d
+086/057	raud	1	r au d
+086/059	raud	1	r au d
+086/061	raud	1	r au d
+086/063	raud	1	r au d
+086/065	raod	1	r ao d
+086/067	raud	1	r au d
+086/069	road	1	r oa d
+086/071	roat	1	r oa t
+086/073	roat	1	r oa t
+086/075	road	1	r oa d
+086/077	roat	1	r oa t
+086/079	roat	1	r oa t
+086/081	rout	1	r ou t
+086/083	rot	1	r o t
+086/085	rot	1	r o t
+086/087	roud	1	r ou d
+086/089	rot	1	r o t
+086/091	rot	1	r o t
+086/093	raod	1	r ao d
+086/095	rout	1	r ou t
+086/097	roaid	1	r oai d
+086/099	roud	1	r ou d
+086/101	roud	1	r ou d
+086/103	roat	1	r oa t
+086/105	road	1	r oa d
+086/107	raut	1	r au t
+086/109	rot	1	r o t
+086/111	raot	1	r ao t
+086/113	reot	1	r eo t
+086/115	reot	1	r eo t
+086/117	roid	1	r oi d
+086/119	roid	1	r oi d
+086/121	rod	1	r o d
+086/123	roid	1	r oi d
+086/125	roit	1	r oi t
+086/127	rot	1	r o t
+086/129	rot	1	r o t
+086/131	rod	1	r o d
+086/133	rot	1	r o t
+086/135	rod	1	r o d
+086/137	rod	1	r o d
+086/139	rod	1	r o d
+086/141	rod	1	r o d
+086/143	rod	1	r o d
+086/145	rod	1	r o d
+086/147	rod	1	r o d
+086/149	rot	1	r o t
+086/151	rot	1	r o t
+086/175	reut	1	r eu t
+086/197	rot	1	r o t
+086/199	rou	1	r ou
+087/033	rod	1	r o d
+087/035	ruth	1	r u t h
+087/037	rot	1	r o t
+087/039	rut	1	r u t
+087/041	rot	1	r o t
+087/043	rot	1	r o t
+087/045	rot	1	r o t
+087/049	raut	1	r au t
+087/051	raot	1	r ao t
+087/053	raod	1	r ao d
+087/055	raud	1	r au d
+087/057	raod	1	r ao d
+087/059	raaut	1	r aau t
+087/061	raod	1	r ao d
+087/063	raud	1	r au d
+087/065	raud	1	r au d
+087/067	raud	1	r au d
+087/069	road	1	r oa d
+087/071	road	1	r oa d
+087/073	roat	1	r oa t
+087/075	roat	1	r oa t
+087/077	road	1	r oa d
+087/079	roat	1	r oa t
+087/081	roat	1	r oa t
+087/083	roat	1	r oa t
+087/085	rout	1	r ou t
+087/087	roud	1	r ou d
+087/089	roud	1	r ou d
+087/091	raut	1	r au t
+087/093	roaud	1	r oau d
+087/095	rod	1	r o d
+087/097	road	1	r oa d
+087/099	ruut	1	r uu t
+087/101	rod	1	r o d
+087/103	rod	1	r o d
+087/105	road	1	r oa d
+087/107	roid	1	r oi d
+087/109	rot	1	r o t
+087/111	reod	1	r eo d
+087/113	reot	1	r eo t
+087/115	reod	1	r eo d
+087/117	roid	1	r oi d
+087/119	roid	1	r oi d
+087/121	röi	1	r öi
+087/123	roit	1	r oi t
+087/125	rot	1	r o t
+087/127	rout	1	r ou t
+087/129	rot	1	r o t
+087/133	rod	1	r o d
+087/135	rot	1	r o t
+087/137	rot	1	r o t
+087/139	rod	1	r o d
+087/141	rot	1	r o t
+087/143	rod	1	r o d
+087/145	rod	1	r o d
+087/147	rod	1	r o d
+087/149	rod	1	r o d
+087/151	rod	1	r o d
+088/035	rud	1	r u d
+088/037	roth	1	r o t h
+088/039	roth	1	r o t h
+088/041	rud	1	r u d
+088/043	rod	1	r o d
+088/045	rot	1	r o t
+088/047	raut	1	r au t
+088/049	rood	1	r oo d
+088/051	raud	1	r au d
+088/053	raod	1	r ao d
+088/055	raod	1	r ao d
+088/057	root	1	r oo t
+088/059	raod	1	r ao d
+088/061	raud	1	r au d
+088/063	raut	1	r au t
+088/065	raut	1	r au t
+088/067	raut	1	r au t
+088/069	road	1	r oa d
+088/071	roed	1	r oe d
+088/073	roaat	1	r oaa t
+088/075	road	1	r oa d
+088/077	road	1	r oa d
+088/079	rot	1	r o t
+088/081	roat	1	r oa t
+088/083	roat	1	r oa t
+088/085	rod	1	r o d
+088/087	rod	1	r o d
+088/089	rot	1	r o t
+088/091	rout	1	r ou t
+088/093	raout	1	r aou t
+088/095	roud	1	r ou d
+088/097	rout	1	r ou t
+088/099	raauut	1	r aauu t
+088/101	roud	1	r ou d
+088/103	roud	1	r ou d
+088/105	roat	1	r oa t
+088/107	rot	1	r o t
+088/109	raod	1	r ao d
+088/113	reod	1	r eo d
+088/115	reot	1	r eo t
+088/117	reot	1	r eo t
+088/121	roid	1	r oi d
+088/123	rod	1	r o d
+088/127	rod	1	r o d
+088/129	rod	1	r o d
+088/131	rod	1	r o d
+088/137	rod	1	r o d
+088/139	rod	1	r o d
+088/141	rod	1	r o d
+088/143	rot	1	r o t
+088/145	rod	1	r o d
+088/147	rod	1	r o d
+088/149	rot	1	r o t
+089/035	ruth	1	r u t h
+089/037	rud	1	r u d
+089/039	rod	1	r o d
+089/041	rut	1	r u t
+089/043	rod	1	r o d
+089/045	rod	1	r o d
+089/047	raod	1	r ao d
+089/049	raot	1	r ao t
+089/051	raodd	1	r ao dd
+089/053	rod	1	r o d
+089/055	raut	1	r au t
+089/057	raud	1	r au d
+089/059	raod	1	r ao d
+089/061	raut	1	r au t
+089/063	NA	NA	-
+089/065	raud	1	r au d
+089/067	rout	1	r ou t
+089/069	roat	1	r oa t
+089/071	roat	1	r oa t
+089/073	road	1	r oa d
+089/075	roat	1	r oa t
+089/077	roat	1	r oa t
+089/079	roath	1	r oa t h
+089/081	roat	1	r oa t
+089/083	road	1	r oa d
+089/085	rod	1	r o d
+089/087	roth	1	r o t h
+089/089	rod	1	r o d
+089/091	roud	1	r ou d
+089/093	rout	1	r ou t
+089/095	roud	1	r ou d
+089/097	rod	1	r o d
+089/099	rot	1	r o t
+089/101	rot	1	r o t
+089/103	rout	1	r ou t
+089/105	räud	1	r äu d
+089/107	rod	1	r o d
+089/109	rod	1	r o d
+089/111	rout	1	r ou t
+089/113	road	1	r oa d
+089/115	reot	1	r eo t
+089/117	reod	1	r eo d
+089/119	raad	1	r aa d
+089/121	roid	1	r oi d
+089/123	reot	1	r eo t
+089/125	roid	1	r oi d
+089/127	rot	1	r o t
+089/129	rod	1	r o d
+089/131	rod	1	r o d
+089/133	rot	1	r o t
+089/135	rod	1	r o d
+089/137	rod	1	r o d
+089/139	rod	1	r o d
+089/141	rot	1	r o t
+089/143	rod	1	r o d
+089/145	rod	1	r o d
+089/147	rod	1	r o d
+089/149	rot	1	r o t
+090/035	rod	1	r o d
+090/037	rud	1	r u d
+090/039	roth	1	r o t h
+090/041	rod	1	r o d
+090/043	rod	1	r o d
+090/045	rood	1	r oo d
+090/047	rot	1	r o t
+090/049	raut	1	r au t
+090/051	raot	1	r ao t
+090/053	raud	1	r au d
+090/055	raut	1	r au t
+090/057	raot	1	r ao t
+090/059	raut	1	r au t
+090/061	raut	1	r au t
+090/063	raud	1	r au d
+090/065	raut	1	r au t
+090/067	raot	1	r ao t
+090/069	roat	1	r oa t
+090/071	roath	1	r oa t h
+090/073	roat	1	r oa t
+090/075	roat	1	r oa t
+090/077	roat	1	r oa t
+090/079	roat	1	r oa t
+090/081	roat	1	r oa t
+090/083	roat	1	r oa t
+090/085	roat	1	r oa t
+090/087	rot	1	r o t
+090/089	rout	1	r ou t
+090/091	raut	1	r au t
+090/093	rout	1	r ou t
+090/095	roud	1	r ou d
+090/097	roud	1	r ou d
+090/099	rout	1	r ou t
+090/101	roaad	1	r oaa d
+090/103	roud	1	r ou d
+090/105	rod	1	r o d
+090/107	road	1	r oa d
+090/109	räut	1	r äu t
+090/111	räot	1	r äo t
+090/113	rot	1	r o t
+090/115	reod	1	r eo d
+090/119	reot	1	r eo t
+090/121	reod	1	r eo d
+090/123	raot	1	r ao t
+090/125	rod	1	r o d
+090/127	rot	1	r o t
+090/129	rod	1	r o d
+090/131	rot	1	r o t
+090/133	rod	1	r o d
+090/135	rot	1	r o t
+090/137	rot	1	r o t
+090/139	rot	1	r o t
+090/141	rod	1	r o d
+090/143	rood	1	r oo d
+090/145	rod	1	r o d
+090/147	rod	1	r o d
+090/149	rod	1	r o d
+090/151	rod	1	r o d
+091/035	rod	1	r o d
+091/037	rot	1	r o t
+091/039	rod	1	r o d
+091/041	rot	1	r o t
+091/043	rod	1	r o d
+091/045	rod	1	r o d
+091/047	roat	1	r oa t
+091/049	rodd	1	r o dd
+091/051	raod	1	r ao d
+091/053	raot	1	r ao t
+091/055	raut	1	r au t
+091/057	raut	1	r au t
+091/059	raot	1	r ao t
+091/061	raut	1	r au t
+091/063	raut	1	r au t
+091/065	raudd	1	r au dd
+091/067	raot	1	r ao t
+091/069	raut	1	r au t
+091/071	rooat	1	r ooa t
+091/073	road	1	r oa d
+091/075	roat	1	r oa t
+091/077	road	1	r oa d
+091/079	roat	1	r oa t
+091/081	rot	1	r o t
+091/083	roat	1	r oa t
+091/085	roat	1	r oa t
+091/087	roth	1	r o t h
+091/091	rot	1	r o t
+091/093	rout	1	r ou t
+091/095	rod	1	r o d
+091/097	rooad	1	r ooa d
+091/099	roat	1	r oa t
+091/101	NA	NA	-
+091/103	rod	1	r o d
+091/105	raod	1	r ao d
+091/107	roid	1	r oi d
+091/109	rod	1	r o d
+091/111	roid	1	r oi d
+091/113	reot	1	r eo t
+091/115	rod	1	r o d
+091/117	reot	1	r eo t
+091/119	reot	1	r eo t
+091/121	rod	1	r o d
+091/125	rot	1	r o t
+091/129	rod	1	r o d
+091/131	rod	1	r o d
+091/133	rod	1	r o d
+091/135	rod	1	r o d
+091/137	rot	1	r o t
+091/139	rot	1	r o t
+091/141	rot	1	r o t
+091/143	rod	1	r o d
+091/145	rod	1	r o d
+091/147	rod	1	r o d
+091/149	rod	1	r o d
+091/151	rod	1	r o d
+091/155	rood	1	r oo d
+092/033	rot	1	r o t
+092/035	rot	1	r o t
+092/037	rut	1	r u t
+092/039	ruud	1	r uu d
+092/041	rood	1	r oo d
+092/043	rot	1	r o t
+092/045	root	1	r oo t
+092/047	rot	1	r o t
+092/049	rot	1	r o t
+092/051	raut	1	r au t
+092/053	raot	1	r ao t
+092/055	raud	1	r au d
+092/057	raut	1	r au t
+092/059	raut	1	r au t
+092/061	raut	1	r au t
+092/063	raaot	1	r aao t
+092/065	rauth	1	r au t h
+092/067	raut	1	r au t
+092/069	rod	1	r o d
+092/071	NA	NA	-
+092/073	roat	1	r oa t
+092/075	road	1	r oa d
+092/077	rooat	1	r ooa t
+092/079	roat	1	r oa t
+092/081	roat	1	r oa t
+092/083	roat	1	r oa t
+092/085	rod	1	r o d
+092/087	rout	1	r ou t
+092/089	roud	1	r ou d
+092/091	rod	1	r o d
+092/093	rod	1	r o d
+092/095	rouid	1	r oui d
+092/097	rod	1	r o d
+092/099	roid	1	r oi d
+092/101	road	1	r oa d
+092/103	rod	1	r o d
+092/105	raaoud	1	r aaou d
+092/107	roat	1	r oa t
+092/109	räd	1	r ä d
+092/111	rot	1	r o t
+092/113	rout	1	r ou t
+092/115	reot	1	r eo t
+092/117	reod	1	r eo d
+092/119	roit	1	r oi t
+092/121	rot	1	r o t
+092/123	road	1	r oa d
+092/125	rot	1	r o t
+092/127	rod	1	r o d
+092/129	rod	1	r o d
+092/131	rot	1	r o t
+092/133	rod	1	r o d
+092/135	rot	1	r o t
+092/137	rod	1	r o d
+092/139	rod	1	r o d
+092/141	rod	1	r o d
+092/143	rod	1	r o d
+092/145	raad	1	r aa d
+092/147	rod	1	r o d
+092/149	rod	1	r o d
+092/151	rod	1	r o d
+093/035	rod	1	r o d
+093/037	rod	1	r o d
+093/039	rut	1	r u t
+093/041	rot	1	r o t
+093/043	rot	1	r o t
+093/045	rot	1	r o t
+093/047	rod	1	r o d
+093/049	rot	1	r o t
+093/051	rohd	1	r oh d
+093/053	raut	1	r au t
+093/055	raud	1	r au d
+093/057	raut	1	r au t
+093/059	raut	1	r au t
+093/061	raot	1	r ao t
+093/063	root	1	r oo t
+093/065	rot	1	r o t
+093/067	rod	1	r o d
+093/069	rodd	1	r o dd
+093/071	roat	1	r oa t
+093/073	roat	1	r oa t
+093/075	roth	1	r o t h
+093/077	roat	1	r oa t
+093/079	roat	1	r oa t
+093/081	road	1	r oa d
+093/083	roat	1	r oa t
+093/085	rout	1	r ou t
+093/087	rot	1	r o t
+093/089	NA	NA	-
+093/091	rot	1	r o t
+093/093	raod	1	r ao d
+093/095	rout	1	r ou t
+093/097	rot	1	r o t
+093/099	rod	1	r o d
+093/101	rout	1	r ou t
+093/103	rot	1	r o t
+093/105	rot	1	r o t
+093/109	roud	1	r ou d
+093/111	rad	1	r a d
+093/113	reaod	1	r eao d
+093/115	rot	1	r o t
+093/117	rot	1	r o t
+093/119	rod	1	r o d
+093/121	roid	1	r oi d
+093/123	rod	1	r o d
+093/125	rod	1	r o d
+093/127	rod	1	r o d
+093/129	rod	1	r o d
+093/131	rod	1	r o d
+093/133	rod	1	r o d
+093/137	rot	1	r o t
+093/139	rod	1	r o d
+093/143	rod	1	r o d
+093/145	rod	1	r o d
+093/147	rod	1	r o d
+093/149	rot	1	r o t
+093/151	rod	1	r o d
+093/153	roht	1	r oh t
+093/155	rot	1	r o t
+094/033	ruot	1	r uo t
+094/035	root	1	r oo t
+094/037	rot	1	r o t
+094/039	rot	1	r o t
+094/041	rod	1	r o d
+094/043	rood	1	r oo d
+094/045	ro	1	r o
+094/047	rot	1	r o t
+094/049	rot	1	r o t
+094/051	rot	1	r o t
+094/053	raut	1	r au t
+094/055	raut	1	r au t
+094/057	rot	1	r o t
+094/059	rodd	1	r o dd
+094/061	raut	1	r au t
+094/063	rot	1	r o t
+094/065	rot	1	r o t
+094/067	rod	1	r o d
+094/069	rohd	1	r oh d
+094/071	roat	1	r oa t
+094/073	roat	1	r oa t
+094/075	roat	1	r oa t
+094/077	roaad	1	r oaa d
+094/079	roat	1	r oa t
+094/081	rot	1	r o t
+094/083	rot	1	r o t
+094/085	roat	1	r oa t
+094/087	roud	1	r ou d
+094/089	rout	1	r ou t
+094/091	rout	1	r ou t
+094/093	rout	1	r ou t
+094/095	rod	1	r o d
+094/097	reod	1	r eo d
+094/099	rod	1	r o d
+094/101	rood	1	r oo d
+094/103	roud	1	r ou d
+094/105	rod	1	r o d
+094/107	rod	1	r o d
+094/109	rooid	1	r ooi d
+094/111	rod	1	r o d
+094/113	rot	1	r o t
+094/115	read	1	r ea d
+094/117	rad	1	r a d
+094/119	rot	1	r o t
+094/121	raod	1	r ao d
+094/123	rod	1	r o d
+094/125	rod	1	r o d
+094/127	rod	1	r o d
+094/129	rot	1	r o t
+094/131	rod	1	r o d
+094/133	rot	1	r o t
+094/135	rod	1	r o d
+094/137	rod	1	r o d
+094/139	rod	1	r o d
+094/141	rot	1	r o t
+094/143	rot	1	r o t
+094/145	rot	1	r o t
+094/147	rod	1	r o d
+094/149	rot	1	r o t
+094/151	rot	1	r o t
+094/153	rot	1	r o t
+095/031	rot	1	r o t
+095/033	roth	1	r o t h
+095/035	rod	1	r o d
+095/037	roth	1	r o t h
+095/039	rot	1	r o t
+095/041	root	1	r oo t
+095/043	rot	1	r o t
+095/045	rod	1	r o d
+095/047	rod	1	r o d
+095/049	rood	1	r oo d
+095/051	rot	1	r o t
+095/053	rot	1	r o t
+095/055	roth	1	r o t h
+095/057	rod	1	r o d
+095/059	rot	1	r o t
+095/061	rot	1	r o t
+095/063	rot	1	r o t
+095/065	rot	1	r o t
+095/067	rot	1	r o t
+095/069	NA	NA	-
+095/071	rot	1	r o t
+095/073	rot	1	r o t
+095/075	roat	1	r oa t
+095/077	rot	1	r o t
+095/079	roat	1	r oa t
+095/081	roat	1	r oa t
+095/083	roat	1	r oa t
+095/085	rod	1	r o d
+095/087	rod	1	r o d
+095/089	rooud	1	r oou d
+095/091	roud	1	r ou d
+095/093	rot	1	r o t
+095/095	roud	1	r ou d
+095/097	rout	1	r ou t
+095/099	rout	1	r ou t
+095/101	rod	1	r o d
+095/103	rod	1	r o d
+095/105	roth	1	r o t h
+095/107	rod	1	r o d
+095/109	roat	1	r oa t
+095/111	roid	1	r oi d
+095/113	reot	1	r eo t
+095/115	reot	1	r eo t
+095/117	rot	1	r o t
+095/119	road	1	r oa d
+095/121	rot	1	r o t
+095/123	rot	1	r o t
+095/125	rod	1	r o d
+095/129	rod	1	r o d
+095/131	rood	1	r oo d
+095/133	rot	1	r o t
+095/139	rot	1	r o t
+095/141	rod	1	r o d
+095/143	rod	1	r o d
+095/145	rot	1	r o t
+095/147	rod	1	r o d
+095/149	rot	1	r o t
+095/151	rot	1	r o t
+095/153	rod	1	r o d
+095/155	rot	1	r o t
+096/031	rot	1	r o t
+096/033	rot	1	r o t
+096/035	root	1	r oo t
+096/037	rot	1	r o t
+096/039	roth	1	r o t h
+096/041	rot	1	r o t
+096/043	rod	1	r o d
+096/045	rot	1	r o t
+096/047	roth	1	r o t h
+096/049	rot	1	r o t
+096/051	roth	1	r o t h
+096/053	rot	1	r o t
+096/055	rot	1	r o t
+096/057	rot	1	r o t
+096/059	rot	1	r o t
+096/061	rot	1	r o t
+096/063	roth	1	r o t h
+096/065	rot	1	r o t
+096/067	rot	1	r o t
+096/069	roat	1	r oa t
+096/071	rot	1	r o t
+096/075	roath	1	r oa t h
+096/077	roat	1	r oa t
+096/079	rooat	1	r ooa t
+096/081	roat	1	r oa t
+096/083	road	1	r oa d
+096/085	roit	1	r oi t
+096/087	roud	1	r ou d
+096/089	roud	1	r ou d
+096/091	roud	1	r ou d
+096/093	raoud	1	r aou d
+096/095	rod	1	r o d
+096/097	rot	1	r o t
+096/099	roud	1	r ou d
+096/101	rod	1	r o d
+096/103	rout	1	r ou t
+096/105	roat	1	r oa t
+096/107	rot	1	r o t
+096/109	rod	1	r o d
+096/111	rod	1	r o d
+096/113	reoad	1	r eoa d
+096/115	räot	1	r äo t
+096/117	rod	1	r o d
+096/119	rod	1	r o d
+096/121	rod	1	r o d
+096/123	rondö	1	r o n d ö
+096/125	rod	1	r o d
+096/129	rod	1	r o d
+096/131	rod	1	r o d
+096/135	rod	1	r o d
+096/137	rot	1	r o t
+096/139	rod	1	r o d
+096/141	rot	1	r o t
+096/143	rot	1	r o t
+096/145	rot	1	r o t
+096/147	rot	1	r o t
+096/151	rood	1	r oo d
+096/153	rot	1	r o t
+096/155	rod	1	r o d
+097/031	roat	1	r oa t
+097/033	rod	1	r o d
+097/035	rot	1	r o t
+097/037	rood	1	r oo d
+097/039	rod	1	r o d
+097/041	rot	1	r o t
+097/043	rod	1	r o d
+097/045	rod	1	r o d
+097/047	roth	1	r o t h
+097/049	rod	1	r o d
+097/051	rot	1	r o t
+097/053	rot	1	r o t
+097/055	rot	1	r o t
+097/057	rodd	1	r o dd
+097/059	rood	1	r oo d
+097/061	root	1	r oo t
+097/063	rodd	1	r o dd
+097/065	rot	1	r o t
+097/067	rot	1	r o t
+097/069	root	1	r oo t
+097/071	rot	1	r o t
+097/073	roat	1	r oa t
+097/075	roat	1	r oa t
+097/077	roat	1	r oa t
+097/079	roath	1	r oa t h
+097/081	roat	1	r oa t
+097/083	road	1	r oa d
+097/085	road	1	r oa d
+097/087	roout	1	r oou t
+097/089	rout	1	r ou t
+097/091	rooud	1	r oou d
+097/093	rout	1	r ou t
+097/095	roud	1	r ou d
+097/097	roat	1	r oa t
+097/099	NA	NA	-
+097/103	rot	1	r o t
+097/105	rout	1	r ou t
+097/107	rod	1	r o d
+097/109	roud	1	r ou d
+097/113	roud	1	r ou d
+097/125	rod	1	r o d
+097/131	rodt	1	r o d t
+097/133	rot	1	r o t
+097/139	rod	1	r o d
+097/141	rot	1	r o t
+097/143	rot	1	r o t
+097/145	rot	1	r o t
+097/149	rot	1	r o t
+097/153	rot	1	r o t
+098/033	rot	1	r o t
+098/035	rood	1	r oo d
+098/037	roht	1	r oh t
+098/039	rot	1	r o t
+098/041	rot	1	r o t
+098/043	rot	1	r o t
+098/045	root	1	r oo t
+098/047	rot	1	r o t
+098/049	rot	1	r o t
+098/051	rot	1	r o t
+098/053	rod	1	r o d
+098/055	rot	1	r o t
+098/057	rod	1	r o d
+098/059	rot	1	r o t
+098/061	rot	1	r o t
+098/063	rot	1	r o t
+098/065	rot	1	r o t
+098/067	rot	1	r o t
+098/069	rot	1	r o t
+098/071	rot	1	r o t
+098/073	rot	1	r o t
+098/075	roat	1	r oa t
+098/077	rot	1	r o t
+098/079	roat	1	r oa t
+098/081	roat	1	r oa t
+098/083	roat	1	r oa t
+098/085	roath	1	r oa t h
+098/087	raud	1	r au d
+098/089	rod	1	r o d
+098/091	roud	1	r ou d
+098/093	roud	1	r ou d
+098/095	rout	1	r ou t
+098/097	roat	1	r oa t
+098/103	rot	1	r o t
+098/105	roud	1	r ou d
+098/107	rout	1	r ou t
+098/109	rot	1	r o t
+098/111	rod	1	r o d
+098/119	rod	1	r o d
+098/123	rod	1	r o d
+098/125	rot	1	r o t
+098/127	rod	1	r o d
+098/135	rod	1	r o d
+098/137	rot	1	r o t
+098/139	rot	1	r o t
+098/141	rot	1	r o t
+098/143	rot	1	r o t
+098/145	rot	1	r o t
+098/147	rot	1	r o t
+098/149	rot	1	r o t
+098/151	rod	1	r o d
+099/033	rot	1	r o t
+099/035	rot	1	r o t
+099/037	rod	1	r o d
+099/039	rod	1	r o d
+099/041	rot	1	r o t
+099/043	rot	1	r o t
+099/045	rot	1	r o t
+099/047	rod	1	r o d
+099/049	rod	1	r o d
+099/051	root	1	r oo t
+099/053	rot	1	r o t
+099/055	rot	1	r o t
+099/057	rot	1	r o t
+099/059	rot	1	r o t
+099/063	rot	1	r o t
+099/065	rot	1	r o t
+099/067	rot	1	r o t
+099/069	roth	1	r o t h
+099/071	road	1	r oa d
+099/073	rot	1	r o t
+099/075	road	1	r oa d
+099/077	roath	1	r oa t h
+099/081	roat	1	r oa t
+099/083	roat	1	r oa t
+099/085	roat	1	r oa t
+099/089	roud	1	r ou d
+099/093	rauod	1	r auo d
+099/095	rod	1	r o d
+099/099	raut	1	r au t
+099/101	raut	1	r au t
+099/103	roath	1	r oa t h
+099/105	raut	1	r au t
+099/107	roat	1	r oa t
+099/109	rot	1	r o t
+099/111	rod	1	r o d
+099/113	hrot	1	h r o t
+099/121	rod	1	r o d
+099/123	rout	1	r ou t
+099/125	rot	1	r o t
+099/131	rot	1	r o t
+099/137	rod	1	r o d
+099/139	rot	1	r o t
+099/141	rod	1	r o d
+099/143	roud	1	r ou d
+099/145	rot	1	r o t
+099/147	rot	1	r o t
+100/033	rot	1	r o t
+100/035	rot	1	r o t
+100/037	roth	1	r o t h
+100/039	root	1	r oo t
+100/041	rot	1	r o t
+100/043	root	1	r oo t
+100/045	rot	1	r o t
+100/049	root	1	r oo t
+100/051	rot	1	r o t
+100/053	rot	1	r o t
+100/055	rot	1	r o t
+100/057	rot	1	r o t
+100/059	rot	1	r o t
+100/061	root	1	r oo t
+100/065	rot	1	r o t
+100/067	rot	1	r o t
+100/069	rod	1	r o d
+100/071	roat	1	r oa t
+100/073	roat	1	r oa t
+100/075	roat	1	r oa t
+100/077	roat	1	r oa t
+100/081	roat	1	r oa t
+100/083	roat	1	r oa t
+100/089	ruad	1	r ua d
+100/093	ruadt	1	r ua d t
+100/095	rout	1	r ou t
+100/097	roud	1	r ou d
+100/099	rot	1	r o t
+100/101	rout	1	r ou t
+100/109	rot	1	r o t
+100/111	rout	1	r ou t
+100/113	roud	1	r ou d
+100/115	rot	1	r o t
+100/117	rot	1	r o t
+100/119	rot	1	r o t
+100/121	rot	1	r o t
+100/125	rout	1	r ou t
+100/127	rot	1	r o t
+100/129	rot	1	r o t
+100/133	rot	1	r o t
+100/135	rot	1	r o t
+100/141	rod	1	r o d
+100/143	rod	1	r o d
+100/145	NA	NA	-
+101/035	roth	1	r o t h
+101/037	rot	1	r o t
+101/039	rot	1	r o t
+101/041	rot	1	r o t
+101/043	rot	1	r o t
+101/045	root	1	r oo t
+101/047	root	1	r oo t
+101/049	rot	1	r o t
+101/051	root	1	r oo t
+101/053	rot	1	r o t
+101/055	rot	1	r o t
+101/057	rot	1	r o t
+101/059	rot	1	r o t
+101/061	rot	1	r o t
+101/063	rouet	1	r oue t
+101/065	rot	1	r o t
+101/067	rot	1	r o t
+101/071	roat	1	r oa t
+101/075	roat	1	r oa t
+101/077	roat	1	r oa t
+101/079	roat	1	r oa t
+101/081	roat	1	r oa t
+101/091	ruad	1	r ua d
+101/093	ruad	1	r ua d
+101/095	road	1	r oa d
+101/097	roud	1	r ou d
+101/099	rout	1	r ou t
+101/101	rod	1	r o d
+101/103	rot	1	r o t
+101/107	rod	1	r o d
+101/109	hrout	1	h r ou t
+101/113	rot	1	r o t
+101/115	rot	1	r o t
+101/121	rod	1	r o d
+101/125	rot	1	r o t
+101/129	roat	1	r oa t
+101/131	rod	1	r o d
+101/133	rot	1	r o t
+101/137	roat	1	r oa t
+101/139	rot	1	r o t
+101/141	rot	1	r o t
+101/143	root	1	r oo t
+101/145	rod	1	r o d
+101/147	rot	1	r o t
+102/037	rot	1	r o t
+102/039	rot	1	r o t
+102/041	rot	1	r o t
+102/043	rot	1	r o t
+102/045	root	1	r oo t
+102/047	root	1	r oo t
+102/049	root	1	r oo t
+102/051	rot	1	r o t
+102/053	rod	1	r o d
+102/055	rot	1	r o t
+102/057	rot	1	r o t
+102/059	rot	1	r o t
+102/061	rot	1	r o t
+102/063	rot	1	r o t
+102/065	rot	1	r o t
+102/067	rot	1	r o t
+102/069	rodd	1	r o dd
+102/071	roat	1	r oa t
+102/073	roat	1	r oa t
+102/075	roat	1	r oa t
+102/077	roat	1	r oa t
+102/079	roat	1	r oa t
+102/081	roat	1	r oa t
+102/083	roat	1	r oa t
+102/089	ruad	1	r ua d
+102/091	road	1	r oa d
+102/093	ruat	1	r ua t
+102/095	roud	1	r ou d
+102/097	rout	1	r ou t
+102/099	roud	1	r ou d
+102/103	rod	1	r o d
+102/107	rott	1	r o tt
+102/109	rot	1	r o t
+102/113	rot	1	r o t
+102/115	rot	1	r o t
+102/127	roat	1	r oa t
+102/129	rot	1	r o t
+102/131	rot	1	r o t
+102/135	rout	1	r ou t
+102/137	rot	1	r o t
+102/139	rot	1	r o t
+102/141	rot	1	r o t
+102/143	root	1	r oo t
+102/145	rod	1	r o d
+103/039	rot	1	r o t
+103/041	rot	1	r o t
+103/043	root	1	r oo t
+103/045	rot	1	r o t
+103/047	root	1	r oo t
+103/049	NA	NA	-
+103/051	rot	1	r o t
+103/053	rot	1	r o t
+103/055	root	1	r oo t
+103/057	rot	1	r o t
+103/059	rot	1	r o t
+103/063	rot	1	r o t
+103/065	rot	1	r o t
+103/067	rot	1	r o t
+103/069	rot	1	r o t
+103/071	rot	1	r o t
+103/073	ruath	1	r ua t h
+103/075	roat	1	r oa t
+103/077	roat	1	r oa t
+103/079	roat	1	r oa t
+103/081	roat	1	r oa t
+103/083	roat	1	r oa t
+103/085	roat	1	r oa t
+103/087	roat	1	r oa t
+103/089	roat	1	r oa t
+103/091	roat	1	r oa t
+103/097	rod	1	r o d
+103/099	rod	1	r o d
+103/101	roud	1	r ou d
+103/105	rod	1	r o d
+103/107	root	1	r oo t
+103/111	rot	1	r o t
+103/121	roat	1	r oa t
+103/125	roat	1	r oa t
+103/127	roat	1	r oa t
+103/131	road	1	r oa d
+103/133	roat	1	r oa t
+103/135	rot	1	r o t
+103/137	roat	1	r oa t
+103/139	rout	1	r ou t
+103/141	rot	1	r o t
+103/143	rot	1	r o t
+103/145	rod	1	r o d
+104/033	rot	1	r o t
+104/035	rot	1	r o t
+104/037	rot	1	r o t
+104/039	root	1	r oo t
+104/041	rot	1	r o t
+104/043	rot	1	r o t
+104/045	rot	1	r o t
+104/047	root	1	r oo t
+104/049	root	1	r oo t
+104/051	rot	1	r o t
+104/053	rout	1	r ou t
+104/055	rot	1	r o t
+104/057	rot	1	r o t
+104/059	rot	1	r o t
+104/061	roat	1	r oa t
+104/063	rot	1	r o t
+104/065	rot	1	r o t
+104/067	rodd	1	r o dd
+104/071	ruat	1	r ua t
+104/075	roat	1	r oa t
+104/077	roat	1	r oa t
+104/079	roat	1	r oa t
+104/081	roat	1	r oa t
+104/083	roat	1	r oa t
+104/085	roat	1	r oa t
+104/091	NA	NA	-
+104/095	rot	1	r o t
+104/101	rot	1	r o t
+104/103	rot	1	r o t
+104/107	rat	1	r a t
+104/111	hroat	1	h r oa t
+104/113	roat	1	r oa t
+104/119	roat	1	r oa t
+104/121	roat	1	r oa t
+104/123	rooat	1	r ooa t
+104/125	roat	1	r oa t
+104/127	roat	1	r oa t
+104/131	roat	1	r oa t
+104/133	roat	1	r oa t
+104/135	roat	1	r oa t
+104/137	rot	1	r o t
+104/139	rot	1	r o t
+104/141	road	1	r oa d
+104/143	rod	1	r o d
+104/145	rod	1	r o d
+105/031	rot	1	r o t
+105/033	rot	1	r o t
+105/035	rot	1	r o t
+105/037	rot	1	r o t
+105/039	rot	1	r o t
+105/041	rot	1	r o t
+105/043	rot	1	r o t
+105/045	rot	1	r o t
+105/047	rot	1	r o t
+105/049	root	1	r oo t
+105/051	rout	1	r ou t
+105/053	rout	1	r ou t
+105/055	root	1	r oo t
+105/057	rot	1	r o t
+105/059	rot	1	r o t
+105/061	roät	1	r oä t
+105/063	rot	1	r o t
+105/065	rot	1	r o t
+105/067	rot	1	r o t
+105/069	rot	1	r o t
+105/071	roat	1	r oa t
+105/073	roat	1	r oa t
+105/075	roat	1	r oa t
+105/077	rot	1	r o t
+105/079	roat	1	r oa t
+105/081	roat	1	r oa t
+105/085	roat	1	r oa t
+105/087	roat	1	r oa t
+105/089	roat	1	r oa t
+105/103	rot	1	r o t
+105/105	rot	1	r o t
+105/111	roat	1	r oa t
+105/113	roat	1	r oa t
+105/115	roat	1	r oa t
+105/117	roat	1	r oa t
+105/119	roat	1	r oa t
+105/121	roat	1	r oa t
+105/125	roat	1	r oa t
+105/127	roat	1	r oa t
+105/131	rot	1	r o t
+105/133	rot	1	r o t
+105/135	roat	1	r oa t
+105/137	rot	1	r o t
+105/141	rot	1	r o t
+105/143	rod	1	r o d
+105/145	rot	1	r o t
+106/033	rot	1	r o t
+106/035	rot	1	r o t
+106/037	rot	1	r o t
+106/039	rot	1	r o t
+106/041	rot	1	r o t
+106/043	rot	1	r o t
+106/045	rot	1	r o t
+106/047	root	1	r oo t
+106/049	rot	1	r o t
+106/051	rot	1	r o t
+106/053	rot	1	r o t
+106/057	rot	1	r o t
+106/061	rout	1	r ou t
+106/063	rot	1	r o t
+106/067	NA	NA	-
+106/071	rot	1	r o t
+106/073	roat	1	r oa t
+106/075	roat	1	r oa t
+106/077	roat	1	r oa t
+106/079	roat	1	r oa t
+106/081	roath	1	r oa t h
+106/085	roat	1	r oa t
+106/087	roat	1	r oa t
+106/093	roat	1	r oa t
+106/097	rot	1	r o t
+106/099	roet	1	r oe t
+106/103	rot	1	r o t
+106/111	roat	1	r oa t
+106/115	roat	1	r oa t
+106/121	roat	1	r oa t
+106/123	rout	1	r ou t
+106/125	roat	1	r oa t
+106/129	roat	1	r oa t
+106/131	roat	1	r oa t
+106/133	roat	1	r oa t
+106/135	roat	1	r oa t
+106/137	rod	1	r o d
+106/139	rot	1	r o t
+106/141	rot	1	r o t
+106/143	rod	1	r o d
+106/145	rot	1	r o t
+107/033	rot	1	r o t
+107/035	roh	1	r oh
+107/037	rot	1	r o t
+107/039	NA	NA	-
+107/041	rot	1	r o t
+107/043	rot	1	r o t
+107/045	rot	1	r o t
+107/047	rot	1	r o t
+107/049	rot	1	r o t
+107/051	rot	1	r o t
+107/053	rot	1	r o t
+107/057	rot	1	r o t
+107/059	rot	1	r o t
+107/063	rot	1	r o t
+107/065	rot	1	r o t
+107/071	roat	1	r oa t
+107/075	root	1	r oo t
+107/081	rath	1	r a t h
+107/085	roat	1	r oa t
+107/087	roat	1	r oa t
+107/089	rot	1	r o t
+107/091	ruet	1	r ue t
+107/097	röt	1	r ö t
+107/099	röt	1	r ö t
+107/103	hrot	1	h r o t
+107/105	roat	1	r oa t
+107/107	roath	1	r oa t h
+107/111	roat	1	r oa t
+107/119	roat	1	r oa t
+107/121	roat	1	r oa t
+107/123	roat	1	r oa t
+107/125	roat	1	r oa t
+107/127	roat	1	r oa t
+107/129	roat	1	r oa t
+107/131	roat	1	r oa t
+107/133	roat	1	r oa t
+107/135	roat	1	r oa t
+107/137	roud	1	r ou d
+107/139	roat	1	r oa t
+107/141	roat	1	r oa t
+107/143	rod	1	r o d
+108/033	rot	1	r o t
+108/035	rot	1	r o t
+108/037	rot	1	r o t
+108/039	rot	1	r o t
+108/041	rot	1	r o t
+108/043	rot	1	r o t
+108/047	rot	1	r o t
+108/049	rot	1	r o t
+108/063	root	1	r oo t
+108/065	rot	1	r o t
+108/067	rot	1	r o t
+108/075	roat	1	r oa t
+108/079	rot	1	r o t
+108/081	roat	1	r oa t
+108/085	rod	1	r o d
+108/087	rud	1	r u d
+108/091	röat	1	r öa t
+108/099	röet	1	r öe t
+108/101	roet	1	r oe t
+108/103	rot	1	r o t
+108/105	roet	1	r oe t
+108/109	roet	1	r oe t
+108/111	roat	1	r oa t
+108/113	roat	1	r oa t
+108/117	rot	1	r o t
+108/119	roat	1	r oa t
+108/121	roat	1	r oa t
+108/123	roat	1	r oa t
+108/125	roat	1	r oa t
+108/127	roat	1	r oa t
+108/129	rot	1	r o t
+108/131	roat	1	r oa t
+108/133	roat	1	r oa t
+108/135	rot	1	r o t
+108/137	roat	1	r oa t
+108/139	roat	1	r oa t
+108/141	roat	1	r oa t
+109/035	rot	1	r o t
+109/037	rot	1	r o t
+109/039	rot	1	r o t
+109/041	rot	1	r o t
+109/043	rot	1	r o t
+109/045	rot	1	r o t
+109/049	rot	1	r o t
+109/053	rot	1	r o t
+109/061	rot	1	r o t
+109/063	rot	1	r o t
+109/065	rot	1	r o t
+109/067	rot	1	r o t
+109/075	roat	1	r oa t
+109/083	roat	1	r oa t
+109/087	ruot	1	r uo t
+109/089	roat	1	r oa t
+109/091	roat	1	r oa t
+109/093	ruat	1	r ua t
+109/095	roat	1	r oa t
+109/097	roat	1	r oa t
+109/099	root	1	r oo t
+109/101	rooet	1	r ooe t
+109/103	rout	1	r ou t
+109/107	roat	1	r oa t
+109/109	roat	1	r oa t
+109/111	roet	1	r oe t
+109/113	roat	1	r oa t
+109/115	roat	1	r oa t
+109/117	roat	1	r oa t
+109/119	roaat	1	r oaa t
+109/121	roat	1	r oa t
+109/123	roat	1	r oa t
+109/125	roat	1	r oa t
+109/127	roat	1	r oa t
+109/129	roat	1	r oa t
+109/131	roat	1	r oa t
+109/133	roat	1	r oa t
+109/135	roat	1	r oa t
+109/137	rout	1	r ou t
+109/139	ruat	1	r ua t
+110/035	roet	1	r oe t
+110/039	rot	1	r o t
+110/041	rot	1	r o t
+110/043	rot	1	r o t
+110/045	rot	1	r o t
+110/047	rot	1	r o t
+110/049	rot	1	r o t
+110/057	rot	1	r o t
+110/061	rout	1	r ou t
+110/065	rot	1	r o t
+110/075	roat	1	r oa t
+110/079	roat	1	r oa t
+110/081	roat	1	r oa t
+110/083	roat	1	r oa t
+110/087	roat	1	r oa t
+110/089	roat	1	r oa t
+110/091	roat	1	r oa t
+110/093	roat	1	r oa t
+110/095	roat	1	r oa t
+110/097	roat	1	r oa t
+110/099	roit	1	r oi t
+110/101	rot	1	r o t
+110/105	roat	1	r oa t
+110/107	rot	1	r o t
+110/111	roat	1	r oa t
+110/113	roat	1	r oa t
+110/115	roat	1	r oa t
+110/117	rot	1	r o t
+110/119	roat	1	r oa t
+110/121	roat	1	r oa t
+110/125	rot	1	r o t
+110/127	rot	1	r o t
+110/129	roat	1	r oa t
+110/131	roat	1	r oa t
+110/133	roat	1	r oa t
+110/135	roat	1	r oa t
+110/137	roat	1	r oa t
+110/139	roat	1	r oa t
+111/035	ruot	1	r uo t
+111/037	roet	1	r oe t
+111/039	rot	1	r o t
+111/041	rot	1	r o t
+111/043	rot	1	r o t
+111/045	rot	1	r o t
+111/059	rot	1	r o t
+111/073	roat	1	r oa t
+111/075	roat	1	r oa t
+111/077	roat	1	r oa t
+111/079	roat	1	r oa t
+111/081	roat	1	r oa t
+111/083	roat	1	r oa t
+111/087	roat	1	r oa t
+111/089	roat	1	r oa t
+111/105	roat	1	r oa t
+111/107	roat	1	r oa t
+111/109	roat	1	r oa t
+111/111	roat	1	r oa t
+111/113	roat	1	r oa t
+111/115	rot	1	r o t
+111/117	rot	1	r o t
+111/119	rot	1	r o t
+111/121	roat	1	r oa t
+111/123	rot	1	r o t
+111/125	rot	1	r o t
+112/037	roet	1	r oe t
+112/039	rot	1	r o t
+112/041	rot	1	r o t
+112/043	rot	1	r o t
+112/047	rot	1	r o t
+112/059	root	1	r oo t
+112/061	rot	1	r o t
+112/063	rout	1	r ou t
+112/075	roat	1	r oa t
+112/081	roat	1	r oa t
+112/083	roat	1	r oa t
+112/085	roat	1	r oa t
+112/111	rot	1	r o t
+112/115	rot	1	r o t
+112/117	rot	1	r o t
+112/119	rot	1	r o t
+113/035	rot	1	r o t
+113/037	roet	1	r oe t
+113/039	rot	1	r o t
+113/047	rot	1	r o t
+113/079	roat	1	r oa t
+113/081	roat	1	r oa t
+113/083	roat	1	r oa t
+113/085	roat	1	r oa t
+113/087	roat	1	r oa t
+113/121	rot	1	r o t
+113/123	rot	1	r o t
+114/035	rot	1	r o t
+114/045	rot	1	r o t
+114/083	roat	1	r oa t
+114/085	roat	1	r oa t
+115/041	rot	1	r o t
+115/043	rot	1	r o t
+115/045	rot	1	r o t
+115/083	roat	1	r oa t
+115/085	roat	1	r oa t
+116/043	rot	1	r o t
+116/045	rot	1	r o t
+116/083	roat	1	r oa t
+117/043	rot	1	r o t
+117/045	rot	1	r o t
+118/041	rot	1	r o t
+119/083	NA	NA	-
+120/085	root	1	r oo t
+121/127	roat	1	r oa t
+122/127	roat	1	r oa t
+122/129	roat	1	r oa t
+123/081	rot	1	r o t
+123/123	roat	1	r oa t
+123/125	roat	1	r oa t
+123/127	roat	1	r oa t
+123/129	roat	1	r oa t
+124/125	roat	1	r oa t
+124/127	roat	1	r oa t
+124/129	roat	1	r oa t

@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	köhg	1	k öh g
+002/201	keeg	1	k ee g
+002/203	kög	1	k ö g
+002/205	kühg	1	k üh g
+003/203	kög	1	k ö g
+003/205	keeg	1	k ee g
+004/205	kög	1	k ö g
+005/205	keeg	1	k ee g
+005/207	kög	1	k ö g
+006/205	köhg	1	k öh g
+006/207	keg	1	k e g
+007/205	köög	1	k öö g
+007/207	keg	1	k e g
+007/209	köög	1	k öö g
+007/211	kög	1	k ö g
+008/199	keeg	1	k ee g
+008/203	kög	1	k ö g
+008/205	keg	1	k e g
+008/207	kög	1	k ö g
+008/209	kög	1	k ö g
+008/211	kej	1	k e j
+008/213	keeg	1	k ee g
+009/199	keeg	1	k ee g
+009/203	köj	1	k ö j
+009/207	köög	1	k öö g
+009/209	keeg	1	k ee g
+009/211	keg	1	k e g
+009/213	kög	1	k ö g
+009/215	köhg	1	k öh g
+009/217	kög	1	k ö g
+010/195	kög	1	k ö g
+010/203	kög	1	k ö g
+010/207	kög	1	k ö g
+010/209	köh	1	k öh
+010/211	kehg	1	k eh g
+010/213	keeg	1	k ee g
+010/215	keeg	1	k ee g
+010/217	kög	1	k ö g
+010/219	keg	1	k e g
+011/049	kinn	1	k i nn
+011/053	ko	1	k o
+011/055	ko	1	k o
+011/057	ko	1	k o
+011/059	ko	1	k o
+011/061	kö	1	k ö
+011/063	kö	1	k ö
+011/065	kö	1	k ö
+011/067	kü	1	k ü
+011/069	ko	1	k o
+011/187	keg	1	k e g
+011/189	käg	1	k ä g
+011/191	kög	1	k ö g
+011/195	kög	1	k ö g
+011/197	köhg	1	k öh g
+011/203	kög	1	k ö g
+011/205	köhg	1	k öh g
+011/207	keeg	1	k ee g
+011/209	kööch	1	k öö ch
+011/211	köch	1	k ö ch
+011/213	keeg	1	k ee g
+011/215	keeg	1	k ee g
+011/217	köhj	1	k öh j
+011/219	kög	1	k ö g
+012/047	kinn	1	k i nn
+012/049	kiin	1	k ii n
+012/051	ki	1	k i
+012/053	kör	1	k ö r
+012/055	kör	1	k ö r
+012/057	kor	1	k o r
+012/059	ko	1	k o
+012/061	ko	1	k o
+012/063	ko	1	k o
+012/065	ko	1	k o
+012/067	ky	1	k y
+012/069	kü	1	k ü
+012/187	kög	1	k ö g
+012/189	kej	1	k e j
+012/191	köch	1	k ö ch
+012/193	kög	1	k ö g
+012/195	keeg	1	k ee g
+012/197	keeg	1	k ee g
+012/199	kög	1	k ö g
+012/201	keg	1	k e g
+012/203	kög	1	k ö g
+012/205	kög	1	k ö g
+012/207	köh	1	k öh
+012/209	keeg	1	k ee g
+012/211	keeg	1	k ee g
+012/213	keeg	1	k ee g
+012/215	kög	1	k ö g
+012/217	keg	1	k e g
+012/219	köhg	1	k öh g
+012/221	keeg	1	k ee g
+012/223	keg	1	k e g
+013/051	kih	1	k ih
+013/053	ke	1	k e
+013/055	kee	1	k ee
+013/057	ko	1	k o
+013/059	kö	1	k ö
+013/061	köh	1	k öh
+013/063	köh	1	k öh
+013/065	köh	1	k öh
+013/067	köh	1	k öh
+013/161	kei	1	k ei
+013/163	keih	1	k eih
+013/165	keih	1	k eih
+013/167	keh	1	k eh
+013/187	keeg	1	k ee g
+013/189	keg	1	k e g
+013/191	keg	1	k e g
+013/193	kög	1	k ö g
+013/195	keeg	1	k ee g
+013/197	köj	1	k ö j
+013/199	keehg	1	k eeh g
+013/201	kög	1	k ö g
+013/203	keg	1	k e g
+013/207	köhj	1	k öh j
+013/209	kög	1	k ö g
+013/211	kög	1	k ö g
+013/213	keeg	1	k ee g
+013/215	keg	1	k e g
+013/217	keeg	1	k ee g
+013/219	köj	1	k ö j
+013/221	keg	1	k e g
+013/223	kehg	1	k eh g
+014/047	ki	1	k i
+014/049	ki	1	k i
+014/051	kee	1	k ee
+014/053	kii	1	k ii
+014/055	ke	1	k e
+014/057	keh	1	k eh
+014/059	köh	1	k öh
+014/061	köh	1	k öh
+014/063	köh	1	k öh
+014/065	köh	1	k öh
+014/067	köh	1	k öh
+014/109	käuh	1	k äuh
+014/159	keih	1	k eih
+014/161	keihg	1	k eih g
+014/163	keih	1	k eih
+014/165	keih	1	k eih
+014/167	keh	1	k eh
+014/169	keh	1	k eh
+014/187	keeg	1	k ee g
+014/189	köhg	1	k öh g
+014/191	keg	1	k e g
+014/193	kög	1	k ö g
+014/195	keeg	1	k ee g
+014/197	keg	1	k e g
+014/199	kehg	1	k eh g
+014/201	kög	1	k ö g
+014/203	keg	1	k e g
+014/205	kög	1	k ö g
+014/207	keg	1	k e g
+014/209	köhg	1	k öh g
+014/211	keeg	1	k ee g
+014/213	kög	1	k ö g
+014/215	kehg	1	k eh g
+014/217	köhg	1	k öh g
+014/219	keeg	1	k ee g
+014/221	keeg	1	k ee g
+015/049	ki	1	k i
+015/051	ki	1	k i
+015/053	ki	1	k i
+015/055	ke	1	k e
+015/057	käy	1	k äy
+015/059	köh	1	k öh
+015/061	köh	1	k öh
+015/063	köh	1	k öh
+015/065	kö	1	k ö
+015/067	köö	1	k öö
+015/105	käuh	1	k äuh
+015/107	käug	1	k äu g
+015/109	käuh	1	k äuh
+015/151	keh	1	k eh
+015/153	keih	1	k eih
+015/155	keh	1	k eh
+015/157	kai	1	k ai
+015/159	keih	1	k eih
+015/161	keih	1	k eih
+015/163	kei	1	k ei
+015/165	keih	1	k eih
+015/167	keh	1	k eh
+015/169	koh	1	k oh
+015/173	köj	1	k ö j
+015/187	köoch	1	k öo ch
+015/191	kehg	1	k eh g
+015/193	keeg	1	k ee g
+015/195	keeg	1	k ee g
+015/197	keg	1	k e g
+015/199	keeg	1	k ee g
+015/201	kög	1	k ö g
+015/203	keeg	1	k ee g
+015/205	keg	1	k e g
+015/207	keg	1	k e g
+015/209	keg	1	k e g
+015/211	kög	1	k ö g
+015/213	kög	1	k ö g
+015/215	koeg	1	k oe g
+015/217	kög	1	k ö g
+015/219	keeg	1	k ee g
+015/221	kög	1	k ö g
+016/051	kie	1	k ie
+016/055	kie	1	k ie
+016/057	keu	1	k eu
+016/059	köh	1	k öh
+016/061	köh	1	k öh
+016/063	kö	1	k ö
+016/065	köh	1	k öh
+016/067	köh	1	k öh
+016/081	köh	1	k öh
+016/083	köih	1	k öih
+016/105	keu	1	k eu
+016/107	käuh	1	k äuh
+016/109	käuh	1	k äuh
+016/111	keu	1	k eu
+016/145	köh	1	k öh
+016/147	köj	1	k ö j
+016/149	köh	1	k öh
+016/151	keeg	1	k ee g
+016/153	koe	1	k oe
+016/155	kei	1	k ei
+016/157	keih	1	k eih
+016/159	keih	1	k eih
+016/161	keih	1	k eih
+016/163	kei	1	k ei
+016/165	köh	1	k öh
+016/167	keh	1	k eh
+016/187	keg	1	k e g
+016/189	keg	1	k e g
+016/191	keeg	1	k ee g
+016/193	keeg	1	k ee g
+016/195	keg	1	k e g
+016/197	kög	1	k ö g
+016/199	keeg	1	k ee g
+016/201	kög	1	k ö g
+016/203	kög	1	k ö g
+016/205	kög	1	k ö g
+016/209	keeg	1	k ee g
+016/211	keeg	1	k ee g
+016/213	kög	1	k ö g
+016/215	keeg	1	k ee g
+016/217	kög	1	k ö g
+016/219	keeg	1	k ee g
+017/055	keu	1	k eu
+017/057	keuh	1	k euh
+017/059	keu	1	k eu
+017/061	köh	1	k öh
+017/063	köh	1	k öh
+017/065	köh	1	k öh
+017/067	keu	1	k eu
+017/069	köh	1	k öh
+017/081	keu	1	k eu
+017/083	köh	1	k öh
+017/099	käuh	1	k äuh
+017/101	käuh	1	k äuh
+017/103	keu	1	k eu
+017/107	käüj	1	k äü j
+017/109	käu	1	k äu
+017/145	köhj	1	k öh j
+017/147	köj	1	k ö j
+017/149	köh	1	k öh
+017/151	köh	1	k öh
+017/153	keh	1	k eh
+017/155	köh	1	k öh
+017/157	keih	1	k eih
+017/159	keih	1	k eih
+017/161	kei	1	k ei
+017/163	keih	1	k eih
+017/165	käu	1	k äu
+017/169	keeh	1	k eeh
+017/171	keh	1	k eh
+017/183	keg	1	k e g
+017/185	kög	1	k ö g
+017/187	kög	1	k ö g
+017/189	keeg	1	k ee g
+017/191	kehg	1	k eh g
+017/193	keg	1	k e g
+017/195	keg	1	k e g
+017/197	keeg	1	k ee g
+017/199	keg	1	k e g
+017/201	keg	1	k e g
+017/203	kög	1	k ö g
+017/205	kög	1	k ö g
+017/207	keg	1	k e g
+017/209	keg	1	k e g
+017/211	keeg	1	k ee g
+017/213	kög	1	k ö g
+017/215	keg	1	k e g
+017/217	kög	1	k ö g
+017/219	kög	1	k ö g
+018/051	keuh	1	k euh
+018/053	keu	1	k eu
+018/055	käu	1	k äu
+018/057	köi	1	k öi
+018/059	köh	1	k öh
+018/061	köh	1	k öh
+018/063	köh	1	k öh
+018/065	köh	1	k öh
+018/067	käuh	1	k äuh
+018/069	köh	1	k öh
+018/071	köh	1	k öh
+018/073	köö	1	k öö
+018/075	köh	1	k öh
+018/079	köüg	1	k öü g
+018/081	keuh	1	k euh
+018/097	käuh	1	k äuh
+018/099	käug	1	k äu g
+018/103	keuh	1	k euh
+018/105	keuh	1	k euh
+018/107	käu	1	k äu
+018/109	käuh	1	k äuh
+018/111	käuh	1	k äuh
+018/143	kösch	1	k ö sch
+018/145	köh	1	k öh
+018/147	köj	1	k ö j
+018/149	keh	1	k eh
+018/151	ke	1	k e
+018/153	keh	1	k eh
+018/155	köeh	1	k öeh
+018/157	keih	1	k eih
+018/159	keih	1	k eih
+018/161	keih	1	k eih
+018/163	kei	1	k ei
+018/165	keih	1	k eih
+018/169	kej	1	k e j
+018/171	keej	1	k ee j
+018/173	keg	1	k e g
+018/181	kehg	1	k eh g
+018/185	keg	1	k e g
+018/187	keeg	1	k ee g
+018/189	keeg	1	k ee g
+018/191	kög	1	k ö g
+018/193	kög	1	k ö g
+018/195	keg	1	k e g
+018/197	kög	1	k ö g
+018/199	keeg	1	k ee g
+018/201	kög	1	k ö g
+018/203	keeg	1	k ee g
+018/205	keg	1	k e g
+018/207	kög	1	k ö g
+018/209	kög	1	k ö g
+018/211	keg	1	k e g
+018/213	keeg	1	k ee g
+018/215	köch	1	k ö ch
+018/219	keeg	1	k ee g
+019/051	keuh	1	k euh
+019/053	keuh	1	k euh
+019/055	keu	1	k eu
+019/057	käu	1	k äu
+019/059	köh	1	k öh
+019/061	köh	1	k öh
+019/063	köh	1	k öh
+019/065	köh	1	k öh
+019/067	köh	1	k öh
+019/069	köh	1	k öh
+019/071	keu	1	k eu
+019/073	köh	1	k öh
+019/075	kö	1	k ö
+019/077	köh	1	k öh
+019/079	kög	1	k ö g
+019/081	keug	1	k eu g
+019/097	käuh	1	k äuh
+019/099	käu	1	k äu
+019/101	käuh	1	k äuh
+019/103	keuh	1	k euh
+019/105	käu	1	k äu
+019/107	käu	1	k äu
+019/109	käuh	1	k äuh
+019/143	köh	1	k öh
+019/145	kösch	1	k ö sch
+019/147	kög	1	k ö g
+019/149	köh	1	k öh
+019/151	keh	1	k eh
+019/153	keg	1	k e g
+019/155	keh	1	k eh
+019/157	keh	1	k eh
+019/159	keih	1	k eih
+019/161	keih	1	k eih
+019/163	keih	1	k eih
+019/165	keih	1	k eih
+019/167	kehg	1	k eh g
+019/169	kög	1	k ö g
+019/171	kög	1	k ö g
+019/173	keeg	1	k ee g
+019/175	keg	1	k e g
+019/177	körj	1	k ö r j
+019/179	köeg	1	k öe g
+019/181	keej	1	k ee j
+019/183	köj	1	k ö j
+019/185	keg	1	k e g
+019/187	kög	1	k ö g
+019/189	kehg	1	k eh g
+019/191	kehj	1	k eh j
+019/193	keg	1	k e g
+019/195	kech	1	k e ch
+019/197	kehg	1	k eh g
+019/199	keg	1	k e g
+019/201	keg	1	k e g
+019/203	keg	1	k e g
+019/205	kög	1	k ö g
+019/207	kög	1	k ö g
+019/209	keg	1	k e g
+019/211	keeg	1	k ee g
+019/213	kög	1	k ö g
+019/215	kög	1	k ö g
+019/217	kög	1	k ö g
+019/219	keg	1	k e g
+020/043	ke	1	k e
+020/053	käuh	1	k äuh
+020/055	köh	1	k öh
+020/057	käu	1	k äu
+020/059	keu	1	k eu
+020/061	keuh	1	k euh
+020/063	köi	1	k öi
+020/065	köh	1	k öh
+020/067	köh	1	k öh
+020/069	köh	1	k öh
+020/071	köh	1	k öh
+020/073	köh	1	k öh
+020/075	köh	1	k öh
+020/077	köh	1	k öh
+020/079	kög	1	k ö g
+020/081	köig	1	k öi g
+020/095	käuh	1	k äuh
+020/097	käuh	1	k äuh
+020/099	keuh	1	k euh
+020/101	keuh	1	k euh
+020/103	käu	1	k äu
+020/105	käuh	1	k äuh
+020/107	käuh	1	k äuh
+020/135	keig	1	k ei g
+020/137	kög	1	k ö g
+020/139	kög	1	k ö g
+020/141	keuj	1	k eu j
+020/143	kög	1	k ö g
+020/145	kög	1	k ö g
+020/147	keg	1	k e g
+020/149	kehgh	1	k eh g h
+020/151	keh	1	k eh
+020/153	keeh	1	k eeh
+020/155	käi	1	k äi
+020/157	keih	1	k eih
+020/159	keih	1	k eih
+020/161	keih	1	k eih
+020/163	keij	1	k ei j
+020/165	keij	1	k ei j
+020/167	keig	1	k ei g
+020/169	krosse	1	k r o ss e
+020/171	keg	1	k e g
+020/173	keeg	1	k ee g
+020/175	kehj	1	k eh j
+020/177	keg	1	k e g
+020/179	keg	1	k e g
+020/181	keej	1	k ee j
+020/183	keeg	1	k ee g
+020/185	kög	1	k ö g
+020/187	küh	1	k üh
+020/189	keg	1	k e g
+020/191	köög	1	k öö g
+020/193	keg	1	k e g
+020/195	keg	1	k e g
+020/197	kög	1	k ö g
+020/199	kög	1	k ö g
+020/201	köhg	1	k öh g
+020/203	keeg	1	k ee g
+020/205	köj	1	k ö j
+020/207	köhg	1	k öh g
+020/209	keg	1	k e g
+020/211	keg	1	k e g
+020/213	kög	1	k ö g
+020/215	kech	1	k e ch
+020/217	kög	1	k ö g
+020/219	keeg	1	k ee g
+021/055	köh	1	k öh
+021/057	keu	1	k eu
+021/059	keu	1	k eu
+021/061	köh	1	k öh
+021/063	koe	1	k oe
+021/065	köh	1	k öh
+021/067	kö	1	k ö
+021/069	köh	1	k öh
+021/071	köh	1	k öh
+021/073	köh	1	k öh
+021/075	keuch	1	k eu ch
+021/077	köch	1	k ö ch
+021/079	kööch	1	k öö ch
+021/087	käuh	1	k äuh
+021/089	keu	1	k eu
+021/091	käuh	1	k äuh
+021/093	keu	1	k eu
+021/095	käuh	1	k äuh
+021/097	keuh	1	k euh
+021/099	käuh	1	k äuh
+021/101	käuh	1	k äuh
+021/103	käuh	1	k äuh
+021/105	käu	1	k äu
+021/107	käuh	1	k äuh
+021/109	käu	1	k äu
+021/111	keuh	1	k euh
+021/113	käu	1	k äu
+021/131	kög	1	k ö g
+021/133	köj	1	k ö j
+021/135	köhj	1	k öh j
+021/137	köög	1	k öö g
+021/139	köhg	1	k öh g
+021/141	köhg	1	k öh g
+021/143	köch	1	k ö ch
+021/145	köhg	1	k öh g
+021/147	kög	1	k ö g
+021/149	köj	1	k ö j
+021/151	keh	1	k eh
+021/153	keh	1	k eh
+021/155	köh	1	k öh
+021/157	keih	1	k eih
+021/159	keih	1	k eih
+021/163	kaig	1	k ai g
+021/165	keih	1	k eih
+021/167	keig	1	k ei g
+021/169	keeg	1	k ee g
+021/171	keg	1	k e g
+021/173	keh	1	k eh
+021/175	köh	1	k öh
+021/177	keh	1	k eh
+021/179	kög	1	k ö g
+021/181	keg	1	k e g
+021/183	kehg	1	k eh g
+021/185	küh	1	k üh
+021/187	küh	1	k üh
+021/189	küh	1	k üh
+021/191	keh	1	k eh
+021/193	küh	1	k üh
+021/195	küh	1	k üh
+021/197	kih	1	k ih
+021/199	keg	1	k e g
+021/201	köhg	1	k öh g
+021/203	kehg	1	k eh g
+021/205	keg	1	k e g
+021/207	keg	1	k e g
+021/211	kög	1	k ö g
+021/215	keeg	1	k ee g
+021/217	kög	1	k ö g
+021/219	keeg	1	k ee g
+022/055	keuh	1	k euh
+022/057	köh	1	k öh
+022/059	keu	1	k eu
+022/061	köh	1	k öh
+022/063	köh	1	k öh
+022/065	köh	1	k öh
+022/067	köh	1	k öh
+022/069	köh	1	k öh
+022/071	kö	1	k ö
+022/073	käu	1	k äu
+022/075	köh	1	k öh
+022/077	kööch	1	k öö ch
+022/087	keuh	1	k euh
+022/089	käuh	1	k äuh
+022/091	käuh	1	k äuh
+022/093	käuj	1	k äu j
+022/095	keuh	1	k euh
+022/097	käuh	1	k äuh
+022/099	käuh	1	k äuh
+022/101	käuh	1	k äuh
+022/103	käu	1	k äu
+022/105	käuh	1	k äuh
+022/107	käuh	1	k äuh
+022/109	käuh	1	k äuh
+022/111	käuh	1	k äuh
+022/113	käuh	1	k äuh
+022/115	keuh	1	k euh
+022/127	kög	1	k ö g
+022/129	köh	1	k öh
+022/131	kög	1	k ö g
+022/133	kög	1	k ö g
+022/135	kög	1	k ö g
+022/137	köj	1	k ö j
+022/139	kög	1	k ö g
+022/141	kög	1	k ö g
+022/143	kög	1	k ö g
+022/145	kej	1	k e j
+022/147	keej	1	k ee j
+022/149	koig	1	k oi g
+022/151	kehg	1	k eh g
+022/153	köh	1	k öh
+022/155	keg	1	k e g
+022/157	keg	1	k e g
+022/159	käug	1	k äu g
+022/165	keih	1	k eih
+022/167	keig	1	k ei g
+022/169	köhg	1	k öh g
+022/171	keeh	1	k eeh
+022/173	keh	1	k eh
+022/175	koj	1	k o j
+022/177	keg	1	k e g
+022/179	keeg	1	k ee g
+022/181	köj	1	k ö j
+022/183	küh	1	k üh
+022/185	kih	1	k ih
+022/187	küh	1	k üh
+022/189	kieh	1	k ieh
+022/191	küh	1	k üh
+022/193	küh	1	k üh
+022/195	küh	1	k üh
+022/197	küh	1	k üh
+022/199	küh	1	k üh
+022/201	keeg	1	k ee g
+022/203	kög	1	k ö g
+022/205	kehg	1	k eh g
+022/209	keej	1	k ee j
+022/211	keg	1	k e g
+022/215	keeg	1	k ee g
+022/217	köhg	1	k öh g
+022/219	kög	1	k ö g
+023/055	köh	1	k öh
+023/059	keu	1	k eu
+023/061	kö	1	k ö
+023/063	köh	1	k öh
+023/065	köh	1	k öh
+023/067	köh	1	k öh
+023/069	köi	1	k öi
+023/071	käu	1	k äu
+023/073	köh	1	k öh
+023/075	köhg	1	k öh g
+023/077	köüch	1	k öü ch
+023/079	köh	1	k öh
+023/081	köj	1	k ö j
+023/083	köhj	1	k öh j
+023/085	käuh	1	k äuh
+023/087	köh	1	k öh
+023/089	käu	1	k äu
+023/091	käu	1	k äu
+023/093	käuh	1	k äuh
+023/095	käuh	1	k äuh
+023/097	käuh	1	k äuh
+023/099	keuh	1	k euh
+023/101	käuh	1	k äuh
+023/103	keuh	1	k euh
+023/105	käuh	1	k äuh
+023/107	käuh	1	k äuh
+023/109	keuh	1	k euh
+023/111	käuh	1	k äuh
+023/113	keuh	1	k euh
+023/115	käuh	1	k äuh
+023/117	keuh	1	k euh
+023/121	köh	1	k öh
+023/123	keu	1	k eu
+023/125	käuh	1	k äuh
+023/127	köh	1	k öh
+023/129	köhg	1	k öh g
+023/131	köh	1	k öh
+023/133	kög	1	k ö g
+023/135	köhg	1	k öh g
+023/137	köög	1	k öö g
+023/139	kög	1	k ö g
+023/141	kög	1	k ö g
+023/143	köhg	1	k öh g
+023/145	keg	1	k e g
+023/147	keg	1	k e g
+023/149	keg	1	k e g
+023/151	kög	1	k ö g
+023/153	köög	1	k öö g
+023/155	kij	1	k i j
+023/165	keig	1	k ei g
+023/167	keig	1	k ei g
+023/169	keeg	1	k ee g
+023/175	kög	1	k ö g
+023/177	kieh	1	k ieh
+023/179	küh	1	k üh
+023/181	kih	1	k ih
+023/183	küüh	1	k üüh
+023/185	kieh	1	k ieh
+023/187	küh	1	k üh
+023/189	küh	1	k üh
+023/191	küh	1	k üh
+023/193	küh	1	k üh
+023/195	küh	1	k üh
+023/197	küh	1	k üh
+023/199	keg	1	k e g
+023/201	kej	1	k e j
+023/203	keg	1	k e g
+023/205	kög	1	k ö g
+023/207	keg	1	k e g
+023/215	kög	1	k ö g
+023/217	keeg	1	k ee g
+024/053	käu	1	k äu
+024/057	keu	1	k eu
+024/059	köh	1	k öh
+024/061	köh	1	k öh
+024/063	köh	1	k öh
+024/065	köh	1	k öh
+024/067	köh	1	k öh
+024/069	köh	1	k öh
+024/071	keuch	1	k eu ch
+024/073	kaög	1	k aö g
+024/075	köh	1	k öh
+024/077	käuh	1	k äuh
+024/079	köh	1	k öh
+024/081	köh	1	k öh
+024/083	keu	1	k eu
+024/085	köi	1	k öi
+024/087	käuh	1	k äuh
+024/089	köh	1	k öh
+024/091	käuh	1	k äuh
+024/093	käuh	1	k äuh
+024/095	keuh	1	k euh
+024/097	käuh	1	k äuh
+024/099	käuh	1	k äuh
+024/101	käuh	1	k äuh
+024/103	käuh	1	k äuh
+024/105	käuh	1	k äuh
+024/107	keu	1	k eu
+024/109	käuh	1	k äuh
+024/111	keu	1	k eu
+024/113	keu	1	k eu
+024/115	keu	1	k eu
+024/117	käuh	1	k äuh
+024/119	käuh	1	k äuh
+024/121	köh	1	k öh
+024/123	käuh	1	k äuh
+024/125	keuh	1	k euh
+024/127	keuh	1	k euh
+024/129	kög	1	k ö g
+024/131	köh	1	k öh
+024/133	kög	1	k ö g
+024/135	köhg	1	k öh g
+024/137	kög	1	k ö g
+024/139	köhg	1	k öh g
+024/141	köög	1	k öö g
+024/143	koeg	1	k oe g
+024/145	koig	1	k oi g
+024/147	kög	1	k ö g
+024/149	kög	1	k ö g
+024/151	köug	1	k öu g
+024/153	küg	1	k ü g
+024/155	köj	1	k ö j
+024/163	tchoij	1	t ch oi j
+024/165	tcheig	1	t ch ei g
+024/167	keig	1	k ei g
+024/169	tchöig	1	t ch öi g
+024/171	keih	1	k eih
+024/175	keg	1	k e g
+024/179	kih	1	k ih
+024/181	küh	1	k üh
+024/183	kieh	1	k ieh
+024/185	küüh	1	k üüh
+024/187	küh	1	k üh
+024/189	kih	1	k ih
+024/191	küh	1	k üh
+024/193	küh	1	k üh
+024/195	küh	1	k üh
+024/197	küh	1	k üh
+024/199	küh	1	k üh
+024/201	köj	1	k ö j
+024/203	kög	1	k ö g
+024/217	keg	1	k e g
+024/221	kehg	1	k eh g
+025/043	kier	1	k ie r
+025/051	keu	1	k eu
+025/053	keu	1	k eu
+025/055	keuh	1	k euh
+025/057	keuh	1	k euh
+025/059	kech	1	k e ch
+025/061	köh	1	k öh
+025/063	köh	1	k öh
+025/065	köh	1	k öh
+025/067	köh	1	k öh
+025/069	keuh	1	k euh
+025/071	kööh	1	k ööh
+025/073	köü	1	k öü
+025/075	köh	1	k öh
+025/077	köh	1	k öh
+025/079	köi	1	k öi
+025/081	köh	1	k öh
+025/083	köhj	1	k öh j
+025/085	keuh	1	k euh
+025/087	käuh	1	k äuh
+025/089	käuh	1	k äuh
+025/091	köüh	1	k öüh
+025/093	käu	1	k äu
+025/095	keuh	1	k euh
+025/099	keuh	1	k euh
+025/101	käuh	1	k äuh
+025/103	käuh	1	k äuh
+025/105	käuh	1	k äuh
+025/107	keuh	1	k euh
+025/109	keuh	1	k euh
+025/111	käu	1	k äu
+025/113	käu	1	k äu
+025/115	köh	1	k öh
+025/123	köj	1	k ö j
+025/125	käuh	1	k äuh
+025/127	keuh	1	k euh
+025/129	köh	1	k öh
+025/131	kög	1	k ö g
+025/133	kög	1	k ö g
+025/135	kög	1	k ö g
+025/137	kög	1	k ö g
+025/139	kög	1	k ö g
+025/141	kög	1	k ö g
+025/143	kög	1	k ö g
+025/145	koig	1	k oi g
+025/147	koij	1	k oi j
+025/149	kög	1	k ö g
+025/151	köug	1	k öu g
+025/153	köig	1	k öi g
+025/155	keug	1	k eu g
+025/157	kouj	1	k ou j
+025/159	keg	1	k e g
+025/177	kög	1	k ö g
+025/179	küh	1	k üh
+025/181	küh	1	k üh
+025/183	kih	1	k ih
+025/185	kieh	1	k ieh
+025/187	küh	1	k üh
+025/189	küh	1	k üh
+025/191	küh	1	k üh
+026/031	koj	1	k o j
+026/033	koj	1	k o j
+026/037	koi	1	k oi
+026/041	käu	1	k äu
+026/043	keu	1	k eu
+026/045	keu	1	k eu
+026/051	keuh	1	k euh
+026/053	keu	1	k eu
+026/055	käuh	1	k äuh
+026/057	keih	1	k eih
+026/059	keih	1	k eih
+026/061	keu	1	k eu
+026/063	köh	1	k öh
+026/065	köh	1	k öh
+026/067	köh	1	k öh
+026/069	köh	1	k öh
+026/071	köh	1	k öh
+026/073	käuh	1	k äuh
+026/075	keuh	1	k euh
+026/077	käuh	1	k äuh
+026/079	köh	1	k öh
+026/081	käuh	1	k äuh
+026/083	kööj	1	k öö j
+026/085	käuh	1	k äuh
+026/087	käu	1	k äu
+026/089	köh	1	k öh
+026/091	käuh	1	k äuh
+026/093	keu	1	k eu
+026/095	keuh	1	k euh
+026/097	käuh	1	k äuh
+026/099	keuh	1	k euh
+026/101	käug	1	k äu g
+026/103	käuh	1	k äuh
+026/105	käuh	1	k äuh
+026/107	keuh	1	k euh
+026/109	käuh	1	k äuh
+026/111	keuh	1	k euh
+026/113	köh	1	k öh
+026/115	kög	1	k ö g
+026/117	kög	1	k ö g
+026/119	kög	1	k ö g
+026/123	keuh	1	k euh
+026/125	köh	1	k öh
+026/127	köög	1	k öö g
+026/129	köhj	1	k öh j
+026/131	kög	1	k ö g
+026/133	köög	1	k öö g
+026/135	kööch	1	k öö ch
+026/137	köhj	1	k öh j
+026/139	käuj	1	k äu j
+026/141	köh	1	k öh
+026/143	köj	1	k ö j
+026/145	kög	1	k ö g
+026/147	köhg	1	k öh g
+026/153	kög	1	k ö g
+026/155	koaj	1	k oa j
+026/157	keug	1	k eu g
+026/159	keug	1	k eu g
+026/161	köög	1	k öö g
+026/165	keg	1	k e g
+026/173	keih	1	k eih
+026/175	köhg	1	k öh g
+026/177	keh	1	k eh
+026/179	kög	1	k ö g
+026/181	küh	1	k üh
+026/183	küh	1	k üh
+026/185	küh	1	k üh
+026/187	küh	1	k üh
+026/189	küh	1	k üh
+027/027	kauj	1	k au j
+027/035	koj	1	k o j
+027/037	kiöj	1	k iö j
+027/039	köö	1	k öö
+027/041	keu	1	k eu
+027/043	käu	1	k äu
+027/045	keu	1	k eu
+027/047	käu	1	k äu
+027/051	keu	1	k eu
+027/053	keuh	1	k euh
+027/055	keih	1	k eih
+027/057	keih	1	k eih
+027/059	keih	1	k eih
+027/061	keuh	1	k euh
+027/063	köhd	1	k öh d
+027/065	köh	1	k öh
+027/067	köh	1	k öh
+027/069	köh	1	k öh
+027/071	keuh	1	k euh
+027/073	käuh	1	k äuh
+027/075	käuh	1	k äuh
+027/077	käu	1	k äu
+027/079	käuh	1	k äuh
+027/081	köj	1	k ö j
+027/083	köh	1	k öh
+027/085	köh	1	k öh
+027/087	käu	1	k äu
+027/089	käu	1	k äu
+027/091	keuh	1	k euh
+027/093	käuh	1	k äuh
+027/095	käuh	1	k äuh
+027/099	käuh	1	k äuh
+027/101	keuh	1	k euh
+027/103	käu	1	k äu
+027/105	käuh	1	k äuh
+027/107	kööch	1	k öö ch
+027/109	käuh	1	k äuh
+027/111	köhch	1	k öh ch
+027/113	käuh	1	k äuh
+027/115	kög	1	k ö g
+027/117	kög	1	k ö g
+027/119	köhg	1	k öh g
+027/123	kög	1	k ö g
+027/125	kög	1	k ö g
+027/127	keuj	1	k eu j
+027/129	käug	1	k äu g
+027/131	kög	1	k ö g
+027/135	kög	1	k ö g
+027/137	keuj	1	k eu j
+027/139	koeug	1	k oeu g
+027/141	kög	1	k ö g
+027/143	kuig	1	k ui g
+027/145	kuig	1	k ui g
+027/147	kög	1	k ö g
+027/149	keeg	1	k ee g
+027/151	keug	1	k eu g
+027/153	keug	1	k eu g
+027/155	keuhg	1	k euh g
+027/157	keoig	1	k eoi g
+027/159	keuh	1	k euh
+027/161	kog	1	k o g
+027/167	kööj	1	k öö j
+027/171	keeg	1	k ee g
+027/173	keg	1	k e g
+027/175	keh	1	k eh
+027/177	kehg	1	k eh g
+027/179	tchej	1	t ch e j
+027/181	keig	1	k ei g
+027/183	kih	1	k ih
+027/185	kih	1	k ih
+028/033	koj	1	k o j
+028/035	kooj	1	k oo j
+028/037	kööj	1	k öö j
+028/039	keu	1	k eu
+028/041	keuj	1	k eu j
+028/043	keu	1	k eu
+028/045	keu	1	k eu
+028/047	keu	1	k eu
+028/049	keuh	1	k euh
+028/051	keu	1	k eu
+028/053	keih	1	k eih
+028/055	keih	1	k eih
+028/057	köh	1	k öh
+028/059	keih	1	k eih
+028/061	keih	1	k eih
+028/063	keih	1	k eih
+028/065	köh	1	k öh
+028/067	keuh	1	k euh
+028/069	köh	1	k öh
+028/071	köi	1	k öi
+028/073	käuh	1	k äuh
+028/075	keuh	1	k euh
+028/077	keuh	1	k euh
+028/079	keu	1	k eu
+028/081	keu	1	k eu
+028/083	käuh	1	k äuh
+028/085	käuh	1	k äuh
+028/087	käuh	1	k äuh
+028/089	keuh	1	k euh
+028/091	köhj	1	k öh j
+028/093	köj	1	k ö j
+028/095	käuh	1	k äuh
+028/097	käuh	1	k äuh
+028/099	käug	1	k äu g
+028/103	keuh	1	k euh
+028/105	käu	1	k äu
+028/107	keuh	1	k euh
+028/109	keu	1	k eu
+028/111	keu	1	k eu
+028/113	köhg	1	k öh g
+028/115	kög	1	k ö g
+028/117	kög	1	k ö g
+028/119	kög	1	k ö g
+028/121	kög	1	k ö g
+028/123	köj	1	k ö j
+028/125	köhg	1	k öh g
+028/127	käug	1	k äu g
+028/129	keug	1	k eu g
+028/131	käuh	1	k äuh
+028/133	keuj	1	k eu j
+028/135	kög	1	k ö g
+028/137	käug	1	k äu g
+028/139	kög	1	k ö g
+028/141	kög	1	k ö g
+028/143	kühg	1	k üh g
+028/145	kueg	1	k ue g
+028/147	köhg	1	k öh g
+028/151	koij	1	k oi j
+028/153	kög	1	k ö g
+028/155	keüg	1	k eü g
+028/157	koig	1	k oi g
+028/159	dschäuj	1	d sch äu j
+028/161	keug	1	k eu g
+028/165	keug	1	k eu g
+028/169	käh	1	k äh
+028/171	keeg	1	k ee g
+028/173	kehj	1	k eh j
+028/175	keeg	1	k ee g
+028/177	kej	1	k e j
+028/179	käg	1	k ä g
+028/181	käh	1	k äh
+028/183	kieh	1	k ieh
+028/185	küh	1	k üh
+029/033	koij	1	k oi j
+029/035	kauj	1	k au j
+029/037	koj	1	k o j
+029/039	kohj	1	k oh j
+029/043	keu	1	k eu
+029/045	kei	1	k ei
+029/047	keuh	1	k euh
+029/049	keu	1	k eu
+029/051	keu	1	k eu
+029/053	kei	1	k ei
+029/055	keih	1	k eih
+029/057	kei	1	k ei
+029/059	keih	1	k eih
+029/061	keih	1	k eih
+029/065	käuh	1	k äuh
+029/067	keuh	1	k euh
+029/069	keuh	1	k euh
+029/071	köh	1	k öh
+029/073	käuh	1	k äuh
+029/075	keuh	1	k euh
+029/077	kööh	1	k ööh
+029/079	käu	1	k äu
+029/081	käu	1	k äu
+029/083	keu	1	k eu
+029/085	köh	1	k öh
+029/087	käuh	1	k äuh
+029/089	käu	1	k äu
+029/091	keuh	1	k euh
+029/093	käuh	1	k äuh
+029/095	käuh	1	k äuh
+029/097	käuh	1	k äuh
+029/099	käuh	1	k äuh
+029/101	keuh	1	k euh
+029/103	käuh	1	k äuh
+029/105	keu	1	k eu
+029/107	keu	1	k eu
+029/109	käuh	1	k äuh
+029/111	keu	1	k eu
+029/113	köög	1	k öö g
+029/115	kög	1	k ö g
+029/117	kög	1	k ö g
+029/119	köj	1	k ö j
+029/121	kögh	1	k ö g h
+029/123	kög	1	k ö g
+029/125	kög	1	k ö g
+029/127	käug	1	k äu g
+029/129	käug	1	k äu g
+029/131	köhg	1	k öh g
+029/133	käuj	1	k äu j
+029/135	köj	1	k ö j
+029/137	kög	1	k ö g
+029/139	köj	1	k ö j
+029/141	köhg	1	k öh g
+029/143	küj	1	k ü j
+029/145	köhg	1	k öh g
+029/147	köhg	1	k öh g
+029/149	tjoij	1	t j oi j
+029/151	tschog	1	t sch o g
+029/153	keug	1	k eu g
+029/155	keug	1	k eu g
+029/157	tchog	1	t ch o g
+029/159	tschoj	1	t sch o j
+029/161	chojch	1	ch o j ch
+029/163	koij	1	k oi j
+029/165	tjäuj	1	t j äu j
+029/167	keg	1	k e g
+029/169	ceg	1	c e g
+029/171	käj	1	k ä j
+029/173	käg	1	k ä g
+029/175	kög	1	k ö g
+029/177	tcheig	1	t ch ei g
+029/181	keej	1	k ee j
+030/033	kauj	1	k au j
+030/035	kauj	1	k au j
+030/037	keuj	1	k eu j
+030/039	koj	1	k o j
+030/041	keij	1	k ei j
+030/043	keih	1	k eih
+030/045	keih	1	k eih
+030/047	keu	1	k eu
+030/049	keuh	1	k euh
+030/051	keu	1	k eu
+030/053	keih	1	k eih
+030/055	keuh	1	k euh
+030/057	keuh	1	k euh
+030/059	kei	1	k ei
+030/061	kei	1	k ei
+030/065	köh	1	k öh
+030/067	keu	1	k eu
+030/071	köh	1	k öh
+030/073	keu	1	k eu
+030/075	küh	1	k üh
+030/077	keuh	1	k euh
+030/079	käu	1	k äu
+030/081	keuh	1	k euh
+030/083	keu	1	k eu
+030/085	käui	1	k äui
+030/087	käu	1	k äu
+030/089	käuh	1	k äuh
+030/091	käu	1	k äu
+030/093	käuh	1	k äuh
+030/095	käu	1	k äu
+030/097	käuh	1	k äuh
+030/099	käuh	1	k äuh
+030/101	keu	1	k eu
+030/103	käuh	1	k äuh
+030/105	köh	1	k öh
+030/107	keu	1	k eu
+030/109	köh	1	k öh
+030/111	köhg	1	k öh g
+030/113	köch	1	k ö ch
+030/115	köhj	1	k öh j
+030/117	köög	1	k öö g
+030/119	kög	1	k ö g
+030/121	kög	1	k ö g
+030/123	köhg	1	k öh g
+030/125	kög	1	k ö g
+030/127	kög	1	k ö g
+030/129	köj	1	k ö j
+030/131	käug	1	k äu g
+030/133	kög	1	k ö g
+030/135	kög	1	k ö g
+030/137	kög	1	k ö g
+030/139	kög	1	k ö g
+030/141	kög	1	k ö g
+030/143	käg	1	k ä g
+030/145	kög	1	k ö g
+030/147	küj	1	k ü j
+030/149	küg	1	k ü g
+030/151	keug	1	k eu g
+030/153	käug	1	k äu g
+030/155	keug	1	k eu g
+030/157	tcheug	1	t ch eu g
+030/159	tscheög	1	t sch eö g
+030/161	kög	1	k ö g
+030/163	kögh	1	k ö g h
+030/165	zäug	1	z äu g
+030/167	köhg	1	k öh g
+030/169	köhg	1	k öh g
+030/171	kög	1	k ö g
+030/173	keg	1	k e g
+030/175	tscheeg	1	t sch ee g
+030/177	keg	1	k e g
+030/179	kög	1	k ö g
+030/181	tchiej	1	t ch ie j
+030/183	tcheg	1	t ch e g
+031/035	kouj	1	k ou j
+031/037	kooj	1	k oo j
+031/039	kauj	1	k au j
+031/041	koj	1	k o j
+031/043	keu	1	k eu
+031/045	kai	1	k ai
+031/047	keuh	1	k euh
+031/049	keuh	1	k euh
+031/051	käu	1	k äu
+031/053	keu	1	k eu
+031/055	keih	1	k eih
+031/057	keuh	1	k euh
+031/059	kei	1	k ei
+031/061	kei	1	k ei
+031/063	kai	1	k ai
+031/065	keui	1	k eui
+031/067	köh	1	k öh
+031/069	koih	1	k oih
+031/071	käuh	1	k äuh
+031/073	köh	1	k öh
+031/075	keuh	1	k euh
+031/077	käuh	1	k äuh
+031/079	käuh	1	k äuh
+031/081	köi	1	k öi
+031/083	käu	1	k äu
+031/085	käu	1	k äu
+031/087	keu	1	k eu
+031/089	keuh	1	k euh
+031/091	käuh	1	k äuh
+031/093	köh	1	k öh
+031/095	köh	1	k öh
+031/097	käu	1	k äu
+031/099	käuh	1	k äuh
+031/101	keuh	1	k euh
+031/103	kö	1	k ö
+031/105	kög	1	k ö g
+031/107	käu	1	k äu
+031/109	köch	1	k ö ch
+031/111	köhg	1	k öh g
+031/113	kööj	1	k öö j
+031/115	köhj	1	k öh j
+031/117	kög	1	k ö g
+031/119	kög	1	k ö g
+031/121	köhg	1	k öh g
+031/123	köhg	1	k öh g
+031/125	köhg	1	k öh g
+031/127	köhj	1	k öh j
+031/129	kög	1	k ö g
+031/131	kög	1	k ö g
+031/133	kööj	1	k öö j
+031/135	kög	1	k ö g
+031/137	kööj	1	k öö j
+031/139	köj	1	k ö j
+031/141	kög	1	k ö g
+031/143	kög	1	k ö g
+031/145	köög	1	k öö g
+031/147	keug	1	k eu g
+031/149	köög	1	k öö g
+031/151	keug	1	k eu g
+031/153	tschoig	1	t sch oi g
+031/155	kojg	1	k o j g
+031/157	koig	1	k oi g
+031/159	koig	1	k oi g
+031/161	kog	1	k o g
+031/163	keug	1	k eu g
+031/167	kög	1	k ö g
+031/169	küh	1	k üh
+031/171	küh	1	k üh
+031/173	kieh	1	k ieh
+031/175	tchej	1	t ch e j
+031/177	köj	1	k ö j
+031/179	tchög	1	t ch ö g
+032/035	kooj	1	k oo j
+032/037	koej	1	k oe j
+032/039	koj	1	k o j
+032/041	keih	1	k eih
+032/043	keih	1	k eih
+032/045	kaih	1	k aih
+032/047	keih	1	k eih
+032/049	kei	1	k ei
+032/051	keuh	1	k euh
+032/053	kai	1	k ai
+032/055	keu	1	k eu
+032/057	keuh	1	k euh
+032/059	kai	1	k ai
+032/061	kei	1	k ei
+032/065	keui	1	k eui
+032/069	keu	1	k eu
+032/071	keuh	1	k euh
+032/073	käu	1	k äu
+032/075	köh	1	k öh
+032/077	koih	1	k oih
+032/079	köi	1	k öi
+032/081	köh	1	k öh
+032/083	köüh	1	k öüh
+032/085	keü	1	k eü
+032/087	keuh	1	k euh
+032/089	keuh	1	k euh
+032/091	käuh	1	k äuh
+032/093	kööh	1	k ööh
+032/095	köh	1	k öh
+032/097	köh	1	k öh
+032/099	köh	1	k öh
+032/101	köh	1	k öh
+032/103	köh	1	k öh
+032/105	köhch	1	k öh ch
+032/107	köch	1	k ö ch
+032/111	kög	1	k ö g
+032/113	köj	1	k ö j
+032/115	köhg	1	k öh g
+032/117	köhg	1	k öh g
+032/119	kög	1	k ö g
+032/121	köög	1	k öö g
+032/123	kög	1	k ö g
+032/125	köög	1	k öö g
+032/127	köög	1	k öö g
+032/129	kög	1	k ö g
+032/131	köög	1	k öö g
+032/133	kög	1	k ö g
+032/135	köchj	1	k ö ch j
+032/139	köj	1	k ö j
+032/141	kög	1	k ö g
+032/143	kög	1	k ö g
+032/145	kög	1	k ö g
+032/147	küg	1	k ü g
+032/149	küig	1	k üi g
+032/151	küg	1	k ü g
+032/153	tchuj	1	t ch u j
+032/157	kög	1	k ö g
+032/159	kög	1	k ö g
+032/161	tchooj	1	t ch oo j
+032/163	keöch	1	k eö ch
+032/167	köij	1	k öi j
+032/169	kiah	1	k iah
+032/171	kia	1	k ia
+032/173	küh	1	k üh
+032/175	kähg	1	k äh g
+032/177	tchög	1	t ch ö g
+032/179	tkög	1	t k ö g
+032/181	keeg	1	k ee g
+032/183	keig	1	k ei g
+033/035	kei	1	k ei
+033/037	kouj	1	k ou j
+033/039	kooej	1	k ooe j
+033/041	kei	1	k ei
+033/043	kei	1	k ei
+033/045	kei	1	k ei
+033/047	koi	1	k oi
+033/049	keu	1	k eu
+033/051	kei	1	k ei
+033/053	keu	1	k eu
+033/055	käuh	1	k äuh
+033/057	kaih	1	k aih
+033/059	keih	1	k eih
+033/061	keih	1	k eih
+033/063	kahr	1	k ah r
+033/065	kaih	1	k aih
+033/067	kei	1	k ei
+033/069	keih	1	k eih
+033/071	keu	1	k eu
+033/073	keuh	1	k euh
+033/075	käuh	1	k äuh
+033/077	keih	1	k eih
+033/079	köh	1	k öh
+033/081	köh	1	k öh
+033/083	keuh	1	k euh
+033/085	käuh	1	k äuh
+033/087	köh	1	k öh
+033/089	keug	1	k eu g
+033/091	köhi	1	k ö h i
+033/093	köuh	1	k öuh
+033/095	köhg	1	k öh g
+033/097	köh	1	k öh
+033/099	köj	1	k ö j
+033/101	kög	1	k ö g
+033/103	kög	1	k ö g
+033/105	köhg	1	k öh g
+033/107	köhj	1	k öh j
+033/109	kög	1	k ö g
+033/111	kööj	1	k öö j
+033/113	köech	1	k öe ch
+033/115	köhj	1	k öh j
+033/117	köig	1	k öi g
+033/119	köög	1	k öö g
+033/121	kög	1	k ö g
+033/123	köj	1	k ö j
+033/125	köeg	1	k öe g
+033/127	kög	1	k ö g
+033/129	kög	1	k ö g
+033/131	kög	1	k ö g
+033/133	köch	1	k ö ch
+033/135	köj	1	k ö j
+033/137	kög	1	k ö g
+033/139	köj	1	k ö j
+033/141	kög	1	k ö g
+033/143	kujj	1	k u jj
+033/145	küj	1	k ü j
+033/147	köj	1	k ö j
+033/149	kög	1	k ö g
+033/151	kög	1	k ö g
+033/153	küg	1	k ü g
+033/155	köj	1	k ö j
+033/159	keuj	1	k eu j
+033/161	keug	1	k eu g
+033/163	keug	1	k eu g
+033/165	köhg	1	k öh g
+033/167	köhj	1	k öh j
+033/169	köhg	1	k öh g
+033/173	kej	1	k e j
+033/175	kög	1	k ö g
+033/177	keg	1	k e g
+034/035	kaih	1	k aih
+034/039	kei	1	k ei
+034/041	kei	1	k ei
+034/043	kai	1	k ai
+034/045	keu	1	k eu
+034/047	keu	1	k eu
+034/049	keuh	1	k euh
+034/051	keu	1	k eu
+034/053	koi	1	k oi
+034/055	käu	1	k äu
+034/057	kei	1	k ei
+034/059	kei	1	k ei
+034/061	kai	1	k ai
+034/063	keih	1	k eih
+034/065	keih	1	k eih
+034/067	keih	1	k eih
+034/069	keuh	1	k euh
+034/071	keuh	1	k euh
+034/073	köh	1	k öh
+034/075	käu	1	k äu
+034/077	koih	1	k oih
+034/079	küh	1	k üh
+034/081	käuh	1	k äuh
+034/083	köh	1	k öh
+034/085	käuh	1	k äuh
+034/087	köh	1	k öh
+034/089	köhg	1	k öh g
+034/091	köi	1	k öi
+034/093	kööj	1	k öö j
+034/095	köch	1	k ö ch
+034/097	köh	1	k öh
+034/099	kohj	1	k oh j
+034/101	köhg	1	k öh g
+034/103	köh	1	k öh
+034/105	kög	1	k ö g
+034/107	kög	1	k ö g
+034/109	köch	1	k ö ch
+034/111	kög	1	k ö g
+034/113	kög	1	k ö g
+034/115	köhg	1	k öh g
+034/117	kög	1	k ö g
+034/119	kög	1	k ö g
+034/121	kög	1	k ö g
+034/125	köög	1	k öö g
+034/127	köj	1	k ö j
+034/129	köhj	1	k öh j
+034/131	kög	1	k ö g
+034/133	köhj	1	k öh j
+034/135	kujj	1	k u jj
+034/137	köj	1	k ö j
+034/139	koj	1	k o j
+034/141	kög	1	k ö g
+034/143	köj	1	k ö j
+034/145	kök	1	k ö k
+034/147	küch	1	k ü ch
+034/149	köjch	1	k ö j ch
+034/151	kög	1	k ö g
+034/155	kög	1	k ö g
+034/157	kög	1	k ö g
+034/161	köij	1	k öi j
+034/163	käuj	1	k äu j
+034/165	kög	1	k ö g
+034/167	küch	1	k ü ch
+034/169	kög	1	k ö g
+034/173	kej	1	k e j
+035/035	kei	1	k ei
+035/037	kaj	1	k a j
+035/039	kei	1	k ei
+035/041	kaij	1	k ai j
+035/043	keih	1	k eih
+035/045	kayg	1	k ay g
+035/047	keu	1	k eu
+035/049	keuh	1	k euh
+035/051	käu	1	k äu
+035/053	keih	1	k eih
+035/055	keieih	1	k eieih
+035/057	keih	1	k eih
+035/059	keih	1	k eih
+035/061	kei	1	k ei
+035/063	kei	1	k ei
+035/065	keih	1	k eih
+035/067	keuh	1	k euh
+035/069	köh	1	k öh
+035/071	keuh	1	k euh
+035/073	keuh	1	k euh
+035/075	keih	1	k eih
+035/077	keih	1	k eih
+035/079	küh	1	k üh
+035/081	küh	1	k üh
+035/083	küh	1	k üh
+035/085	köh	1	k öh
+035/087	köh	1	k öh
+035/089	köh	1	k öh
+035/091	köj	1	k ö j
+035/093	köh	1	k öh
+035/095	köög	1	k öö g
+035/097	kög	1	k ö g
+035/099	köch	1	k ö ch
+035/101	köj	1	k ö j
+035/103	kög	1	k ö g
+035/105	köh	1	k öh
+035/107	köh	1	k öh
+035/109	kög	1	k ö g
+035/111	kööch	1	k öö ch
+035/113	kög	1	k ö g
+035/115	köhg	1	k öh g
+035/117	köhj	1	k öh j
+035/121	kög	1	k ö g
+035/123	köh	1	k öh
+035/125	köj	1	k ö j
+035/127	koaj	1	k oa j
+035/129	köj	1	k ö j
+035/133	kuij	1	k ui j
+035/135	kugg	1	k u gg
+035/137	kujj	1	k u jj
+035/139	kög	1	k ö g
+035/141	koijj	1	k oi jj
+035/143	köhj	1	k öh j
+035/145	köj	1	k ö j
+035/147	köh	1	k öh
+035/149	köj	1	k ö j
+035/151	kog	1	k o g
+035/153	kühj	1	k üh j
+035/155	köügh	1	k öü g h
+035/157	küh	1	k üh
+035/165	köhj	1	k öh j
+035/167	köj	1	k ö j
+035/169	kög	1	k ö g
+035/171	köj	1	k ö j
+035/173	kög	1	k ö g
+036/033	kai	1	k ai
+036/035	kaih	1	k aih
+036/039	kai	1	k ai
+036/041	kai	1	k ai
+036/043	kaih	1	k aih
+036/045	keih	1	k eih
+036/047	käu	1	k äu
+036/049	kei	1	k ei
+036/051	keu	1	k eu
+036/053	keuh	1	k euh
+036/055	kei	1	k ei
+036/057	keih	1	k eih
+036/059	kei	1	k ei
+036/061	keih	1	k eih
+036/063	keih	1	k eih
+036/065	kai	1	k ai
+036/067	käu	1	k äu
+036/069	keih	1	k eih
+036/071	keih	1	k eih
+036/073	käu	1	k äu
+036/075	keih	1	k eih
+036/077	kei	1	k ei
+036/079	köh	1	k öh
+036/081	köh	1	k öh
+036/083	köh	1	k öh
+036/085	köh	1	k öh
+036/087	kö	1	k ö
+036/089	köh	1	k öh
+036/091	köh	1	k öh
+036/095	köög	1	k öö g
+036/097	köih	1	k öih
+036/099	köj	1	k ö j
+036/101	köj	1	k ö j
+036/103	köh	1	k öh
+036/105	köh	1	k öh
+036/107	köh	1	k öh
+036/109	köh	1	k öh
+036/111	köh	1	k öh
+036/113	köh	1	k öh
+036/115	kö	1	k ö
+036/117	kö	1	k ö
+036/119	köh	1	k öh
+036/121	köh	1	k öh
+036/123	käuh	1	k äuh
+036/125	kojj	1	k o jj
+036/127	küh	1	k üh
+036/129	köj	1	k ö j
+036/133	kööj	1	k öö j
+036/135	keuh	1	k euh
+036/137	koy	1	k oy
+036/139	kui	1	k ui
+036/141	kuij	1	k ui j
+036/143	koj	1	k o j
+036/147	köög	1	k öö g
+036/149	köij	1	k öi j
+036/151	kög	1	k ö g
+036/153	köch	1	k ö ch
+036/155	kög	1	k ö g
+036/161	kög	1	k ö g
+036/163	köj	1	k ö j
+036/165	kiech	1	k ie ch
+036/167	köj	1	k ö j
+036/169	kög	1	k ö g
+036/171	kög	1	k ö g
+037/033	köu	1	k öu
+037/035	kei	1	k ei
+037/037	kei	1	k ei
+037/039	kai	1	k ai
+037/041	kai	1	k ai
+037/043	kaih	1	k aih
+037/045	kei	1	k ei
+037/047	keih	1	k eih
+037/049	keih	1	k eih
+037/051	kei	1	k ei
+037/053	käu	1	k äu
+037/055	kei	1	k ei
+037/057	keih	1	k eih
+037/059	kei	1	k ei
+037/061	kei	1	k ei
+037/063	kei	1	k ei
+037/065	käih	1	k äih
+037/067	keu	1	k eu
+037/069	keuh	1	k euh
+037/071	käu	1	k äu
+037/073	käu	1	k äu
+037/075	käu	1	k äu
+037/077	käuh	1	k äuh
+037/079	köh	1	k öh
+037/081	köh	1	k öh
+037/083	köh	1	k öh
+037/085	köh	1	k öh
+037/087	köh	1	k öh
+037/089	kööh	1	k ööh
+037/091	köh	1	k öh
+037/093	köh	1	k öh
+037/095	köhj	1	k öh j
+037/097	kög	1	k ö g
+037/099	kög	1	k ö g
+037/101	köhj	1	k öh j
+037/105	köh	1	k öh
+037/107	kööh	1	k ööh
+037/109	köh	1	k öh
+037/111	köhg	1	k öh g
+037/113	köh	1	k öh
+037/115	köh	1	k öh
+037/117	küh	1	k üh
+037/119	kö	1	k ö
+037/121	kieh	1	k ieh
+037/123	keu	1	k eu
+037/125	keu	1	k eu
+037/127	käu	1	k äu
+037/129	kojj	1	k o jj
+037/131	kieh	1	k ieh
+037/133	kih	1	k ih
+037/135	keu	1	k eu
+037/137	kogg	1	k o gg
+037/139	kuih	1	k uih
+037/141	koj	1	k o j
+037/145	koj	1	k o j
+037/147	köjch	1	k ö j ch
+037/149	küg	1	k ü g
+037/151	kög	1	k ö g
+037/153	köüj	1	k öü j
+037/155	küj	1	k ü j
+037/157	küch	1	k ü ch
+037/159	kouj	1	k ou j
+037/163	kög	1	k ö g
+037/171	köj	1	k ö j
+038/033	kai	1	k ai
+038/035	käi	1	k äi
+038/037	keih	1	k eih
+038/039	kai	1	k ai
+038/041	kai	1	k ai
+038/043	bäiste	1	b äi s t e
+038/045	keih	1	k eih
+038/047	kei	1	k ei
+038/049	keih	1	k eih
+038/051	kei	1	k ei
+038/053	kai	1	k ai
+038/055	kai	1	k ai
+038/057	kei	1	k ei
+038/059	kei	1	k ei
+038/061	kei	1	k ei
+038/063	kei	1	k ei
+038/065	käu	1	k äu
+038/067	koih	1	k oih
+038/069	keu	1	k eu
+038/071	keu	1	k eu
+038/073	käuh	1	k äuh
+038/075	käuh	1	k äuh
+038/077	käu	1	k äu
+038/079	keuh	1	k euh
+038/081	köh	1	k öh
+038/083	keuh	1	k euh
+038/085	köh	1	k öh
+038/087	köh	1	k öh
+038/089	köh	1	k öh
+038/091	köh	1	k öh
+038/093	kög	1	k ö g
+038/095	köh	1	k öh
+038/097	köh	1	k öh
+038/099	köh	1	k öh
+038/101	köh	1	k öh
+038/103	köh	1	k öh
+038/105	köh	1	k öh
+038/107	köh	1	k öh
+038/109	köh	1	k öh
+038/111	köh	1	k öh
+038/113	köh	1	k öh
+038/115	keeh	1	k eeh
+038/117	kög	1	k ö g
+038/119	keeh	1	k eeh
+038/121	kih	1	k ih
+038/123	koi	1	k oi
+038/125	käu	1	k äu
+038/127	koi	1	k oi
+038/129	köh	1	k öh
+038/131	kieh	1	k ieh
+038/133	kih	1	k ih
+038/135	keu	1	k eu
+038/145	köüj	1	k öü j
+038/147	köüg	1	k öü g
+038/149	küg	1	k ü g
+038/151	köj	1	k ö j
+038/153	köj	1	k ö j
+038/155	küg	1	k ü g
+038/159	küjch	1	k ü j ch
+038/161	kög	1	k ö g
+038/163	küj	1	k ü j
+039/029	ko	1	k o
+039/031	kuh	1	k uh
+039/033	kei	1	k ei
+039/035	kei	1	k ei
+039/037	käih	1	k äih
+039/039	käu	1	k äu
+039/041	kei	1	k ei
+039/043	baiste	1	b ai s t e
+039/045	kai	1	k ai
+039/047	keih	1	k eih
+039/049	keih	1	k eih
+039/051	keih	1	k eih
+039/053	kei	1	k ei
+039/055	kei	1	k ei
+039/057	keih	1	k eih
+039/059	kei	1	k ei
+039/061	kei	1	k ei
+039/063	keu	1	k eu
+039/065	keu	1	k eu
+039/067	keu	1	k eu
+039/069	keih	1	k eih
+039/071	käu	1	k äu
+039/073	käu	1	k äu
+039/075	köh	1	k öh
+039/077	käu	1	k äu
+039/079	köh	1	k öh
+039/081	köh	1	k öh
+039/083	köh	1	k öh
+039/085	köh	1	k öh
+039/087	kög	1	k ö g
+039/089	köj	1	k ö j
+039/091	köh	1	k öh
+039/093	köh	1	k öh
+039/095	köh	1	k öh
+039/097	köh	1	k öh
+039/099	köh	1	k öh
+039/101	köh	1	k öh
+039/103	köh	1	k öh
+039/105	köh	1	k öh
+039/107	köh	1	k öh
+039/109	köh	1	k öh
+039/111	köh	1	k öh
+039/113	köh	1	k öh
+039/115	keh	1	k eh
+039/117	köh	1	k öh
+039/119	koi	1	k oi
+039/121	küh	1	k üh
+039/123	kieh	1	k ieh
+039/125	keu	1	k eu
+039/127	kih	1	k ih
+039/129	kih	1	k ih
+039/131	kih	1	k ih
+039/133	keh	1	k eh
+039/135	keih	1	k eih
+039/137	kugg	1	k u gg
+039/139	keh	1	k eh
+039/149	küig	1	k üi g
+039/151	köj	1	k ö j
+039/153	küg	1	k ü g
+039/155	kojch	1	k o j ch
+040/029	beeste	1	b ee s t e
+040/031	koh	1	k oh
+040/033	köj	1	k ö j
+040/035	käu	1	k äu
+040/037	keuj	1	k eu j
+040/039	käuj	1	k äu j
+040/041	kö	1	k ö
+040/043	kaij	1	k ai j
+040/045	köhj	1	k öh j
+040/047	köj	1	k ö j
+040/049	keih	1	k eih
+040/051	kei	1	k ei
+040/053	kei	1	k ei
+040/055	kei	1	k ei
+040/057	kei	1	k ei
+040/059	kei	1	k ei
+040/061	keu	1	k eu
+040/063	käu	1	k äu
+040/065	keuh	1	k euh
+040/067	keu	1	k eu
+040/069	käuh	1	k äuh
+040/071	keu	1	k eu
+040/073	kaaj	1	k aa j
+040/075	keu	1	k eu
+040/077	keu	1	k eu
+040/079	köh	1	k öh
+040/081	keuh	1	k euh
+040/083	keuh	1	k euh
+040/085	köh	1	k öh
+040/087	köü	1	k öü
+040/089	köih	1	k öih
+040/091	köi	1	k öi
+040/093	köh	1	k öh
+040/095	köh	1	k öh
+040/097	kö	1	k ö
+040/099	köh	1	k öh
+040/101	köh	1	k öh
+040/103	köh	1	k öh
+040/105	köh	1	k öh
+040/107	küh	1	k üh
+040/109	kih	1	k ih
+040/111	köh	1	k öh
+040/113	köh	1	k öh
+040/115	koij	1	k oi j
+040/119	küh	1	k üh
+040/121	küh	1	k üh
+040/123	käu	1	k äu
+040/125	kih	1	k ih
+040/127	kieh	1	k ieh
+040/129	kih	1	k ih
+040/131	kih	1	k ih
+040/133	köh	1	k öh
+040/135	keh	1	k eh
+040/137	ke	1	k e
+040/141	kieh	1	k ieh
+040/143	kieh	1	k ieh
+040/149	kieh	1	k ieh
+040/153	kööch	1	k öö ch
+040/155	köch	1	k ö ch
+041/031	kohn	1	k oh n
+041/033	köh	1	k öh
+041/035	käuh	1	k äuh
+041/037	käj	1	k ä j
+041/039	keu	1	k eu
+041/041	kaih	1	k aih
+041/043	köh	1	k öh
+041/045	kögg	1	k ö gg
+041/047	köj	1	k ö j
+041/049	keih	1	k eih
+041/051	keih	1	k eih
+041/053	kei	1	k ei
+041/055	kai	1	k ai
+041/057	keu	1	k eu
+041/059	kei	1	k ei
+041/061	käu	1	k äu
+041/063	keuh	1	k euh
+041/065	käu	1	k äu
+041/067	kei	1	k ei
+041/069	keih	1	k eih
+041/071	käuh	1	k äuh
+041/073	keu	1	k eu
+041/075	kai	1	k ai
+041/077	käu	1	k äu
+041/079	käu	1	k äu
+041/081	köh	1	k öh
+041/083	köh	1	k öh
+041/085	köh	1	k öh
+041/087	köh	1	k öh
+041/089	köih	1	k öih
+041/091	köh	1	k öh
+041/093	köh	1	k öh
+041/095	köh	1	k öh
+041/097	köh	1	k öh
+041/099	köh	1	k öh
+041/101	köh	1	k öh
+041/103	köh	1	k öh
+041/105	köh	1	k öh
+041/107	köh	1	k öh
+041/109	käuh	1	k äuh
+041/111	kieh	1	k ieh
+041/113	köh	1	k öh
+041/115	köh	1	k öh
+041/117	keu	1	k eu
+041/119	kih	1	k ih
+041/121	küh	1	k üh
+041/123	kieh	1	k ieh
+041/125	kih	1	k ih
+041/127	kie	1	k ie
+041/129	küh	1	k üh
+041/131	kih	1	k ih
+041/133	keh	1	k eh
+041/135	kieh	1	k ieh
+041/139	küh	1	k üh
+041/141	kih	1	k ih
+041/145	kih	1	k ih
+041/147	küh	1	k üh
+041/153	küg	1	k ü g
+041/155	kühch	1	k üh ch
+041/157	keu	1	k eu
+041/159	kühg	1	k üh g
+041/161	kög	1	k ö g
+042/033	keu	1	k eu
+042/035	keu	1	k eu
+042/037	käu	1	k äu
+042/039	keu	1	k eu
+042/041	köe	1	k öe
+042/043	kögg	1	k ö gg
+042/045	kögg	1	k ö gg
+042/047	kögg	1	k ö gg
+042/051	kouh	1	k ouh
+042/053	koi	1	k oi
+042/055	kai	1	k ai
+042/057	keih	1	k eih
+042/059	ka	1	k a
+042/061	kah	1	k ah
+042/063	kah	1	k ah
+042/065	köh	1	k öh
+042/067	köh	1	k öh
+042/069	keu	1	k eu
+042/071	keuh	1	k euh
+042/073	käu	1	k äu
+042/075	käuh	1	k äuh
+042/077	käuh	1	k äuh
+042/079	keuh	1	k euh
+042/081	kauh	1	k auh
+042/083	köh	1	k öh
+042/085	köh	1	k öh
+042/087	kög	1	k ö g
+042/089	köhj	1	k öh j
+042/091	kög	1	k ö g
+042/093	köh	1	k öh
+042/095	köh	1	k öh
+042/097	köh	1	k öh
+042/099	köh	1	k öh
+042/101	köh	1	k öh
+042/103	köh	1	k öh
+042/105	kih	1	k ih
+042/107	köh	1	k öh
+042/109	köh	1	k öh
+042/111	köh	1	k öh
+042/113	keu	1	k eu
+042/115	koi	1	k oi
+042/117	keuh	1	k euh
+042/119	kie	1	k ie
+042/121	kih	1	k ih
+042/123	kie	1	k ie
+042/125	kih	1	k ih
+042/127	kieh	1	k ieh
+042/129	kih	1	k ih
+042/131	kih	1	k ih
+042/133	küh	1	k üh
+042/135	kih	1	k ih
+042/137	kih	1	k ih
+042/139	küh	1	k üh
+042/141	küh	1	k üh
+042/143	küh	1	k üh
+042/145	küh	1	k üh
+042/147	küh	1	k üh
+042/149	küh	1	k üh
+042/151	küh	1	k üh
+042/157	köuj	1	k öu j
+042/159	kühg	1	k üh g
+042/161	köj	1	k ö j
+043/033	köh	1	k öh
+043/035	köe	1	k öe
+043/037	keih	1	k eih
+043/039	kaih	1	k aih
+043/041	köh	1	k öh
+043/043	kögg	1	k ö gg
+043/045	kögg	1	k ö gg
+043/047	keu	1	k eu
+043/049	kö	1	k ö
+043/051	keu	1	k eu
+043/053	köh	1	k öh
+043/055	keih	1	k eih
+043/057	kah	1	k ah
+043/059	kei	1	k ei
+043/061	keih	1	k eih
+043/063	kai	1	k ai
+043/065	kei	1	k ei
+043/067	ka	1	k a
+043/069	käu	1	k äu
+043/071	kai	1	k ai
+043/073	käeuh	1	k äeuh
+043/075	koi	1	k oi
+043/077	keu	1	k eu
+043/079	keu	1	k eu
+043/081	käuh	1	k äuh
+043/083	keuh	1	k euh
+043/085	käu	1	k äu
+043/087	keih	1	k eih
+043/089	köj	1	k ö j
+043/091	köh	1	k öh
+043/093	köh	1	k öh
+043/095	köh	1	k öh
+043/097	köh	1	k öh
+043/099	köh	1	k öh
+043/101	köh	1	k öh
+043/103	köh	1	k öh
+043/105	köh	1	k öh
+043/107	köh	1	k öh
+043/109	küeh	1	k üeh
+043/111	köh	1	k öh
+043/113	kojh	1	k o j h
+043/115	keu	1	k eu
+043/117	koi	1	k oi
+043/119	kih	1	k ih
+043/121	kieh	1	k ieh
+043/123	küh	1	k üh
+043/125	küh	1	k üh
+043/127	kieh	1	k ieh
+043/129	küh	1	k üh
+043/131	kü	1	k ü
+043/133	küh	1	k üh
+043/135	küh	1	k üh
+043/137	kih	1	k ih
+043/141	kieh	1	k ieh
+043/143	kih	1	k ih
+043/145	kih	1	k ih
+043/151	küh	1	k üh
+043/153	küh	1	k üh
+043/159	küj	1	k ü j
+043/161	küh	1	k üh
+044/033	köh	1	k öh
+044/035	köh	1	k öh
+044/039	küh	1	k üh
+044/041	kögg	1	k ö gg
+044/043	kögg	1	k ö gg
+044/045	kögg	1	k ö gg
+044/047	kögg	1	k ö gg
+044/049	kö	1	k ö
+044/051	koig	1	k oi g
+044/053	koih	1	k oih
+044/055	kai	1	k ai
+044/057	ka	1	k a
+044/059	käu	1	k äu
+044/061	keih	1	k eih
+044/063	keih	1	k eih
+044/065	kai	1	k ai
+044/067	kah	1	k ah
+044/069	käuh	1	k äuh
+044/071	käu	1	k äu
+044/073	ka	1	k a
+044/075	keuh	1	k euh
+044/077	keu	1	k eu
+044/079	keu	1	k eu
+044/081	käuh	1	k äuh
+044/083	keu	1	k eu
+044/085	käuh	1	k äuh
+044/087	keih	1	k eih
+044/089	köh	1	k öh
+044/091	köh	1	k öh
+044/093	köh	1	k öh
+044/095	köh	1	k öh
+044/097	köh	1	k öh
+044/099	köh	1	k öh
+044/101	köh	1	k öh
+044/103	käuh	1	k äuh
+044/105	küh	1	k üh
+044/107	köh	1	k öh
+044/109	köh	1	k öh
+044/111	köh	1	k öh
+044/113	käu	1	k äu
+044/115	keu	1	k eu
+044/117	keu	1	k eu
+044/119	keu	1	k eu
+044/121	kih	1	k ih
+044/123	kie	1	k ie
+044/125	kieh	1	k ieh
+044/127	köh	1	k öh
+044/129	kih	1	k ih
+044/131	küh	1	k üh
+044/133	küh	1	k üh
+044/135	kieh	1	k ieh
+044/137	kieh	1	k ieh
+044/141	kih	1	k ih
+044/143	kih	1	k ih
+044/145	küh	1	k üh
+044/149	kieh	1	k ieh
+044/151	küh	1	k üh
+044/153	küh	1	k üh
+045/033	köi	1	k öi
+045/035	köh	1	k öh
+045/037	küh	1	k üh
+045/039	küh	1	k üh
+045/041	kögg	1	k ö gg
+045/043	kögg	1	k ö gg
+045/045	kögg	1	k ö gg
+045/047	kög	1	k ö g
+045/049	kögg	1	k ö gg
+045/051	kööj	1	k öö j
+045/053	köüh	1	k öüh
+045/055	koih	1	k oih
+045/057	kah	1	k ah
+045/059	keu	1	k eu
+045/061	käeh	1	k äeh
+045/063	kiäu	1	k iäu
+045/065	keih	1	k eih
+045/067	kah	1	k ah
+045/069	keih	1	k eih
+045/071	käu	1	k äu
+045/073	kieu	1	k ieu
+045/075	koih	1	k oih
+045/077	keu	1	k eu
+045/079	keu	1	k eu
+045/081	käuh	1	k äuh
+045/083	keuh	1	k euh
+045/085	käu	1	k äu
+045/087	koi	1	k oi
+045/089	keh	1	k eh
+045/091	kah	1	k ah
+045/093	keh	1	k eh
+045/095	köh	1	k öh
+045/097	köh	1	k öh
+045/099	köh	1	k öh
+045/101	köh	1	k öh
+045/103	kü	1	k ü
+045/105	kih	1	k ih
+045/107	kih	1	k ih
+045/109	köh	1	k öh
+045/111	keuh	1	k euh
+045/113	kih	1	k ih
+045/115	kih	1	k ih
+045/117	kih	1	k ih
+045/119	küh	1	k üh
+045/121	kieh	1	k ieh
+045/123	kih	1	k ih
+045/125	kih	1	k ih
+045/127	ki	1	k i
+045/129	küj	1	k ü j
+045/131	küh	1	k üh
+045/133	kih	1	k ih
+045/135	kih	1	k ih
+045/137	kih	1	k ih
+045/139	küh	1	k üh
+045/141	kih	1	k ih
+045/143	küh	1	k üh
+045/145	küh	1	k üh
+045/155	kieh	1	k ieh
+046/031	köüh	1	k öüh
+046/033	köh	1	k öh
+046/035	küh	1	k üh
+046/037	NA	NA	-
+046/039	küh	1	k üh
+046/041	küh	1	k üh
+046/043	köj	1	k ö j
+046/045	küch	1	k ü ch
+046/047	käug	1	k äu g
+046/049	koögg	1	k oö gg
+046/051	keogg	1	k eo gg
+046/053	koig	1	k oi g
+046/055	kögg	1	k ö gg
+046/057	kögg	1	k ö gg
+046/059	kei	1	k ei
+046/061	keih	1	k eih
+046/063	käu	1	k äu
+046/065	kai	1	k ai
+046/067	kei	1	k ei
+046/069	keu	1	k eu
+046/071	käu	1	k äu
+046/073	keuih	1	k euih
+046/075	keu	1	k eu
+046/077	käu	1	k äu
+046/079	keu	1	k eu
+046/081	keuh	1	k euh
+046/083	käu	1	k äu
+046/085	koi	1	k oi
+046/087	keu	1	k eu
+046/089	keg	1	k e g
+046/091	keh	1	k eh
+046/093	keh	1	k eh
+046/095	keh	1	k eh
+046/097	keh	1	k eh
+046/099	ke	1	k e
+046/101	keh	1	k eh
+046/103	kieh	1	k ieh
+046/105	ki	1	k i
+046/107	kih	1	k ih
+046/109	küh	1	k üh
+046/111	küj	1	k ü j
+046/113	kieh	1	k ieh
+046/115	kih	1	k ih
+046/117	kih	1	k ih
+046/119	kie	1	k ie
+046/121	kih	1	k ih
+046/123	ki	1	k i
+046/125	kieh	1	k ieh
+046/127	kieh	1	k ieh
+046/129	küh	1	k üh
+046/131	küh	1	k üh
+046/133	kih	1	k ih
+046/135	kih	1	k ih
+046/137	kih	1	k ih
+046/139	kü	1	k ü
+046/141	küh	1	k üh
+046/143	küh	1	k üh
+046/155	küh	1	k üh
+047/031	köij	1	k öi j
+047/033	küj	1	k ü j
+047/035	küh	1	k üh
+047/037	küj	1	k ü j
+047/039	küh	1	k üh
+047/041	küh	1	k üh
+047/043	küh	1	k üh
+047/045	köh	1	k öh
+047/047	kögg	1	k ö gg
+047/049	kiäug	1	k iäu g
+047/051	koij	1	k oi j
+047/053	koigg	1	k oi gg
+047/055	kögg	1	k ö gg
+047/057	koijj	1	k oi jj
+047/059	kei	1	k ei
+047/061	kaei	1	k aei
+047/063	kei	1	k ei
+047/065	keuh	1	k euh
+047/067	kaih	1	k aih
+047/069	kai	1	k ai
+047/071	käuh	1	k äuh
+047/073	keu	1	k eu
+047/075	keu	1	k eu
+047/077	käuh	1	k äuh
+047/079	käuh	1	k äuh
+047/081	keuh	1	k euh
+047/083	käu	1	k äu
+047/085	keu	1	k eu
+047/087	käu	1	k äu
+047/089	kei	1	k ei
+047/091	keuh	1	k euh
+047/093	keh	1	k eh
+047/095	keh	1	k eh
+047/097	kei	1	k ei
+047/099	kie	1	k ie
+047/101	keh	1	k eh
+047/103	kih	1	k ih
+047/105	kieh	1	k ieh
+047/107	küh	1	k üh
+047/109	kie	1	k ie
+047/111	kiej	1	k ie j
+047/113	küj	1	k ü j
+047/115	keih	1	k eih
+047/117	kie	1	k ie
+047/119	kieh	1	k ieh
+047/123	kih	1	k ih
+047/125	kih	1	k ih
+047/127	kieh	1	k ieh
+047/129	ki	1	k i
+047/131	kih	1	k ih
+047/133	küh	1	k üh
+047/135	kie	1	k ie
+047/137	küh	1	k üh
+047/139	kih	1	k ih
+047/141	küh	1	k üh
+047/147	kjüh	1	k j üh
+047/149	kieh	1	k ieh
+047/151	küh	1	k üh
+047/159	kieh	1	k ieh
+048/021	kuww	1	k u ww
+048/023	kuw	1	k u w
+048/027	küij	1	k üi j
+048/029	koij	1	k oi j
+048/031	küy	1	k üy
+048/033	köh	1	k öh
+048/035	küh	1	k üh
+048/037	kü	1	k ü
+048/039	küh	1	k üh
+048/041	küh	1	k üh
+048/045	küöh	1	k üöh
+048/047	kögg	1	k ö gg
+048/049	kögg	1	k ö gg
+048/051	köj	1	k ö j
+048/053	kogg	1	k o gg
+048/055	kojj	1	k o jj
+048/057	kogg	1	k o gg
+048/059	koi	1	k oi
+048/061	kei	1	k ei
+048/063	köch	1	k ö ch
+048/065	keih	1	k eih
+048/067	keih	1	k eih
+048/069	kaü	1	k aü
+048/071	kieh	1	k ieh
+048/073	keih	1	k eih
+048/075	käu	1	k äu
+048/077	keuh	1	k euh
+048/079	käu	1	k äu
+048/081	käu	1	k äu
+048/083	käu	1	k äu
+048/085	käu	1	k äu
+048/087	keuh	1	k euh
+048/089	kieh	1	k ieh
+048/091	kih	1	k ih
+048/093	köh	1	k öh
+048/095	kih	1	k ih
+048/099	kih	1	k ih
+048/101	kieh	1	k ieh
+048/103	kieh	1	k ieh
+048/105	kih	1	k ih
+048/107	küh	1	k üh
+048/109	kieh	1	k ieh
+048/111	kii	1	k ii
+048/113	kieh	1	k ieh
+048/115	kie	1	k ie
+048/119	küh	1	k üh
+048/123	kih	1	k ih
+048/125	kieh	1	k ieh
+048/127	kieh	1	k ieh
+048/129	küh	1	k üh
+048/131	küh	1	k üh
+048/133	kieh	1	k ieh
+048/135	küh	1	k üh
+048/137	küh	1	k üh
+048/139	ki	1	k i
+048/141	kih	1	k ih
+048/143	kih	1	k ih
+048/145	kü	1	k ü
+048/147	küh	1	k üh
+048/153	küh	1	k üh
+048/157	kieh	1	k ieh
+048/159	küh	1	k üh
+049/019	kuw	1	k u w
+049/021	kuww	1	k u ww
+049/023	beeste	1	b ee s t e
+049/025	ko	1	k o
+049/027	köj	1	k ö j
+049/029	köi	1	k öi
+049/031	köy	1	k öy
+049/033	köi	1	k öi
+049/035	kaih	1	k aih
+049/037	kaih	1	k aih
+049/039	köh	1	k öh
+049/041	kaih	1	k aih
+049/043	kei	1	k ei
+049/045	kögg	1	k ö gg
+049/047	kögg	1	k ö gg
+049/049	kögg	1	k ö gg
+049/051	kögg	1	k ö gg
+049/053	kögg	1	k ö gg
+049/055	kögg	1	k ö gg
+049/057	kögg	1	k ö gg
+049/059	kögg	1	k ö gg
+049/061	koih	1	k oih
+049/063	keu	1	k eu
+049/065	keuh	1	k euh
+049/067	käh	1	k äh
+049/069	keig	1	k ei g
+049/071	kai	1	k ai
+049/073	kich	1	k i ch
+049/077	käuh	1	k äuh
+049/079	käu	1	k äu
+049/081	keuh	1	k euh
+049/083	käu	1	k äu
+049/085	keh	1	k eh
+049/087	kih	1	k ih
+049/089	kieh	1	k ieh
+049/091	kieh	1	k ieh
+049/093	küh	1	k üh
+049/095	kih	1	k ih
+049/097	kieh	1	k ieh
+049/099	kie	1	k ie
+049/101	kij	1	k i j
+049/103	kühch	1	k üh ch
+049/105	kich	1	k i ch
+049/107	ki	1	k i
+049/109	kie	1	k ie
+049/111	küh	1	k üh
+049/113	kieh	1	k ieh
+049/115	küh	1	k üh
+049/117	kieh	1	k ieh
+049/119	kieh	1	k ieh
+049/121	kieh	1	k ieh
+049/123	kie	1	k ie
+049/125	kih	1	k ih
+049/127	kieh	1	k ieh
+049/129	kih	1	k ih
+049/131	kieh	1	k ieh
+049/133	kih	1	k ih
+049/135	kih	1	k ih
+049/137	kih	1	k ih
+049/139	kih	1	k ih
+049/141	küh	1	k üh
+049/143	kih	1	k ih
+049/145	kih	1	k ih
+049/147	kih	1	k ih
+049/151	kih	1	k ih
+050/021	ku	1	k u
+050/023	kih	1	k ih
+050/025	kuw	1	k u w
+050/027	kuh	1	k uh
+050/029	köh	1	k öh
+050/031	küj	1	k ü j
+050/033	keih	1	k eih
+050/035	kai	1	k ai
+050/037	kai	1	k ai
+050/039	keih	1	k eih
+050/041	kaih	1	k aih
+050/043	kaih	1	k aih
+050/047	kögg	1	k ö gg
+050/049	kögg	1	k ö gg
+050/051	kögg	1	k ö gg
+050/053	kögg	1	k ö gg
+050/055	kögg	1	k ö gg
+050/057	köjj	1	k ö jj
+050/059	kögg	1	k ö gg
+050/061	kögg	1	k ö gg
+050/063	käuh	1	k äuh
+050/065	kei	1	k ei
+050/067	kai	1	k ai
+050/069	kah	1	k ah
+050/071	käu	1	k äu
+050/073	keig	1	k ei g
+050/075	kih	1	k ih
+050/077	käuh	1	k äuh
+050/079	kiw	1	k i w
+050/081	kiw	1	k i w
+050/083	keeh	1	k eeh
+050/085	keg	1	k e g
+050/087	küh	1	k üh
+050/089	kiew	1	k ie w
+050/091	kih	1	k ih
+050/093	kih	1	k ih
+050/095	kih	1	k ih
+050/097	kieh	1	k ieh
+050/099	kih	1	k ih
+050/101	küch	1	k ü ch
+050/103	kiich	1	k ii ch
+050/105	kieg	1	k ie g
+050/107	kieg	1	k ie g
+050/109	kiej	1	k ie j
+050/111	kieh	1	k ieh
+050/113	kieh	1	k ieh
+050/115	kieh	1	k ieh
+050/117	kih	1	k ih
+050/119	kih	1	k ih
+050/121	kieh	1	k ieh
+050/125	kih	1	k ih
+050/127	kieh	1	k ieh
+050/129	kih	1	k ih
+050/131	kih	1	k ih
+050/133	kih	1	k ih
+050/135	kih	1	k ih
+050/137	kih	1	k ih
+050/139	kieh	1	k ieh
+050/141	kih	1	k ih
+050/143	kih	1	k ih
+050/145	kih	1	k ih
+050/147	kih	1	k ih
+050/149	kih	1	k ih
+050/151	kih	1	k ih
+050/155	kih	1	k ih
+050/157	kieh	1	k ieh
+050/159	kih	1	k ih
+050/161	küh	1	k üh
+051/023	kuw	1	k u w
+051/025	kuh	1	k uh
+051/027	köh	1	k öh
+051/029	koj	1	k o j
+051/031	käu	1	k äu
+051/033	kaih	1	k aih
+051/035	kai	1	k ai
+051/037	kai	1	k ai
+051/039	kai	1	k ai
+051/041	kai	1	k ai
+051/043	kögg	1	k ö gg
+051/045	kögg	1	k ö gg
+051/047	kögg	1	k ö gg
+051/049	kögg	1	k ö gg
+051/051	kögg	1	k ö gg
+051/053	kögg	1	k ö gg
+051/055	kögg	1	k ö gg
+051/057	kögg	1	k ö gg
+051/059	kögg	1	k ö gg
+051/061	kög	1	k ö g
+051/063	koih	1	k oih
+051/065	käü	1	k äü
+051/067	keu	1	k eu
+051/069	keug	1	k eu g
+051/071	keu	1	k eu
+051/073	kaig	1	k ai g
+051/075	kiew	1	k ie w
+051/077	keuh	1	k euh
+051/079	kiew	1	k ie w
+051/081	kieb	1	k ie b
+051/083	keb	1	k e b
+051/085	kuw	1	k u w
+051/087	kiiw	1	k ii w
+051/089	kieh	1	k ieh
+051/091	kih	1	k ih
+051/093	kih	1	k ih
+051/095	kih	1	k ih
+051/097	kieh	1	k ieh
+051/099	kih	1	k ih
+051/101	kih	1	k ih
+051/103	kiej	1	k ie j
+051/105	kig	1	k i g
+051/107	kih	1	k ih
+051/109	kih	1	k ih
+051/111	kieh	1	k ieh
+051/113	kie	1	k ie
+051/115	kih	1	k ih
+051/117	kih	1	k ih
+051/119	kih	1	k ih
+051/121	kih	1	k ih
+051/123	kieh	1	k ieh
+051/125	kieh	1	k ieh
+051/127	kih	1	k ih
+051/129	kih	1	k ih
+051/131	ki	1	k i
+051/133	kih	1	k ih
+051/135	kih	1	k ih
+051/137	kih	1	k ih
+051/139	kieh	1	k ieh
+051/141	kieh	1	k ieh
+051/143	kieh	1	k ieh
+051/145	kih	1	k ih
+051/147	kih	1	k ih
+051/149	küh	1	k üh
+051/151	kih	1	k ih
+051/153	küh	1	k üh
+051/155	küh	1	k üh
+051/157	kieh	1	k ieh
+052/023	kuh	1	k uh
+052/025	kuw	1	k u w
+052/027	keu	1	k eu
+052/029	küh	1	k üh
+052/031	keuh	1	k euh
+052/033	kai	1	k ai
+052/035	kei	1	k ei
+052/037	kai	1	k ai
+052/039	kai	1	k ai
+052/041	keih	1	k eih
+052/043	kögg	1	k ö gg
+052/045	kögg	1	k ö gg
+052/047	kögg	1	k ö gg
+052/049	kögg	1	k ö gg
+052/051	köjj	1	k ö jj
+052/053	kögg	1	k ö gg
+052/057	kög	1	k ö g
+052/059	kögg	1	k ö gg
+052/061	kögg	1	k ö gg
+052/063	keu	1	k eu
+052/065	käuh	1	k äuh
+052/067	käu	1	k äu
+052/069	keuj	1	k eu j
+052/071	keuh	1	k euh
+052/073	keuh	1	k euh
+052/075	keeiw	1	k eei w
+052/077	koub	1	k ou b
+052/079	käiw	1	k äi w
+052/081	kib	1	k i b
+052/083	kih	1	k ih
+052/085	kiew	1	k ie w
+052/087	kihw	1	k ih w
+052/089	kihw	1	k ih w
+052/091	küh	1	k üh
+052/093	kiew	1	k ie w
+052/095	ki	1	k i
+052/097	ki	1	k i
+052/099	kiew	1	k ie w
+052/101	kiew	1	k ie w
+052/103	kih	1	k ih
+052/105	kieh	1	k ieh
+052/107	kih	1	k ih
+052/109	kih	1	k ih
+052/111	kih	1	k ih
+052/113	küh	1	k üh
+052/115	kieh	1	k ieh
+052/117	küh	1	k üh
+052/121	kieh	1	k ieh
+052/123	kieh	1	k ieh
+052/125	kih	1	k ih
+052/127	kieh	1	k ieh
+052/129	kih	1	k ih
+052/131	ki	1	k i
+052/133	kieh	1	k ieh
+052/135	kih	1	k ih
+052/137	kih	1	k ih
+052/139	kih	1	k ih
+052/141	kih	1	k ih
+052/143	kieh	1	k ieh
+052/145	kieh	1	k ieh
+052/147	küh	1	k üh
+052/149	küh	1	k üh
+052/151	kieh	1	k ieh
+052/153	kieh	1	k ieh
+052/155	kih	1	k ih
+052/157	kih	1	k ih
+052/159	kih	1	k ih
+053/023	keu	1	k eu
+053/025	köh	1	k öh
+053/027	küh	1	k üh
+053/029	küh	1	k üh
+053/031	köi	1	k öi
+053/033	kai	1	k ai
+053/035	kaih	1	k aih
+053/037	kaih	1	k aih
+053/039	kai	1	k ai
+053/041	kai	1	k ai
+053/043	kögg	1	k ö gg
+053/045	köjj	1	k ö jj
+053/047	kögg	1	k ö gg
+053/049	kögg	1	k ö gg
+053/051	kögg	1	k ö gg
+053/053	kögg	1	k ö gg
+053/055	kögg	1	k ö gg
+053/057	kögg	1	k ö gg
+053/059	keuchch	1	k eu ch ch
+053/061	kögg	1	k ö gg
+053/063	kau	1	k au
+053/065	koi	1	k oi
+053/067	käuh	1	k äuh
+053/069	käuh	1	k äuh
+053/071	keuh	1	k euh
+053/073	käu	1	k äu
+053/075	käiw	1	k äi w
+053/077	keiw	1	k ei w
+053/079	kew	1	k e w
+053/081	käib	1	k äi b
+053/083	kihw	1	k ih w
+053/085	kiw	1	k i w
+053/087	kiew	1	k ie w
+053/089	kihw	1	k ih w
+053/091	kieh	1	k ieh
+053/093	kiew	1	k ie w
+053/095	kiew	1	k ie w
+053/097	kiew	1	k ie w
+053/099	kieb	1	k ie b
+053/101	kiew	1	k ie w
+053/103	kie	1	k ie
+053/105	kieh	1	k ieh
+053/107	kieh	1	k ieh
+053/109	kih	1	k ih
+053/111	kih	1	k ih
+053/113	kih	1	k ih
+053/115	kieh	1	k ieh
+053/121	kih	1	k ih
+053/123	kieh	1	k ieh
+053/125	kih	1	k ih
+053/127	kih	1	k ih
+053/129	kieh	1	k ieh
+053/131	kih	1	k ih
+053/133	küh	1	k üh
+053/135	kih	1	k ih
+053/137	kih	1	k ih
+053/139	ki	1	k i
+053/141	kieh	1	k ieh
+053/143	kieh	1	k ieh
+053/145	kih	1	k ih
+053/147	ki	1	k i
+053/149	kih	1	k ih
+053/151	kih	1	k ih
+053/153	küh	1	k üh
+053/155	kih	1	k ih
+053/157	kieh	1	k ieh
+054/023	köj	1	k ö j
+054/025	küh	1	k üh
+054/027	küh	1	k üh
+054/029	köh	1	k öh
+054/031	köh	1	k öh
+054/033	köh	1	k öh
+054/035	keih	1	k eih
+054/037	kai	1	k ai
+054/039	kai	1	k ai
+054/041	kei	1	k ei
+054/043	kögg	1	k ö gg
+054/045	kögg	1	k ö gg
+054/047	kögg	1	k ö gg
+054/049	kögg	1	k ö gg
+054/051	kögg	1	k ö gg
+054/053	kögg	1	k ö gg
+054/055	kögg	1	k ö gg
+054/057	kögg	1	k ö gg
+054/059	koijj	1	k oi jj
+054/061	köh	1	k öh
+054/063	küw	1	k ü w
+054/065	keu	1	k eu
+054/067	küw	1	k ü w
+054/069	kiw	1	k i w
+054/071	kiw	1	k i w
+054/073	köiw	1	k öi w
+054/075	keiib	1	k eii b
+054/077	käiw	1	k äi w
+054/079	käiw	1	k äi w
+054/081	kih	1	k ih
+054/083	kiw	1	k i w
+054/085	kiew	1	k ie w
+054/087	kieb	1	k ie b
+054/089	küw	1	k ü w
+054/091	kieb	1	k ie b
+054/093	kiew	1	k ie w
+054/095	kiw	1	k i w
+054/097	gieh	1	g ieh
+054/099	kiew	1	k ie w
+054/101	kieh	1	k ieh
+054/103	ki	1	k i
+054/105	kih	1	k ih
+054/107	kih	1	k ih
+054/109	kih	1	k ih
+054/111	kieh	1	k ieh
+054/113	kih	1	k ih
+054/115	ki	1	k i
+054/117	ki	1	k i
+054/119	kih	1	k ih
+054/121	kih	1	k ih
+054/123	kieh	1	k ieh
+054/125	kih	1	k ih
+054/127	kih	1	k ih
+054/131	küh	1	k üh
+054/133	küh	1	k üh
+054/135	kieh	1	k ieh
+054/137	küh	1	k üh
+054/139	ki	1	k i
+054/141	kieh	1	k ieh
+054/143	kih	1	k ih
+054/145	küh	1	k üh
+054/147	küh	1	k üh
+054/149	kih	1	k ih
+054/151	kih	1	k ih
+054/153	kih	1	k ih
+054/155	kih	1	k ih
+054/157	kieh	1	k ieh
+054/159	kih	1	k ih
+054/161	kih	1	k ih
+054/163	köeg	1	k öe g
+055/023	köj	1	k ö j
+055/025	köü	1	k öü
+055/027	köh	1	k öh
+055/029	köh	1	k öh
+055/031	küh	1	k üh
+055/033	köh	1	k öh
+055/035	käu	1	k äu
+055/037	käu	1	k äu
+055/039	käu	1	k äu
+055/041	käuh	1	k äuh
+055/043	kögg	1	k ö gg
+055/045	köjj	1	k ö jj
+055/047	kögg	1	k ö gg
+055/049	kögg	1	k ö gg
+055/051	küögg	1	k üö gg
+055/053	köjj	1	k ö jj
+055/055	kögg	1	k ö gg
+055/057	köhw	1	k öh w
+055/059	köhw	1	k öh w
+055/061	kühw	1	k üh w
+055/063	kiw	1	k i w
+055/065	kühw	1	k üh w
+055/067	kiew	1	k ie w
+055/069	keuw	1	k eu w
+055/071	küv	1	k ü v
+055/073	küaw	1	k üa w
+055/075	käib	1	k äi b
+055/077	kaiiw	1	k aii w
+055/079	käib	1	k äi b
+055/081	keb	1	k e b
+055/083	käiw	1	k äi w
+055/085	kiw	1	k i w
+055/087	kieb	1	k ie b
+055/089	kib	1	k i b
+055/091	kühw	1	k üh w
+055/093	kiew	1	k ie w
+055/095	kiew	1	k ie w
+055/097	giew	1	g ie w
+055/099	kib	1	k i b
+055/101	küb	1	k ü b
+055/103	kiehw	1	k ieh w
+055/105	kih	1	k ih
+055/107	kih	1	k ih
+055/109	kih	1	k ih
+055/111	kieh	1	k ieh
+055/113	kih	1	k ih
+055/115	küh	1	k üh
+055/117	küh	1	k üh
+055/119	küh	1	k üh
+055/123	küh	1	k üh
+055/125	kieh	1	k ieh
+055/127	kieh	1	k ieh
+055/131	kih	1	k ih
+055/133	ki	1	k i
+055/135	kih	1	k ih
+055/137	kih	1	k ih
+055/139	kih	1	k ih
+055/141	kieh	1	k ieh
+055/143	kie	1	k ie
+055/145	kieh	1	k ieh
+055/147	küh	1	k üh
+055/149	kih	1	k ih
+055/151	ki	1	k i
+055/153	kih	1	k ih
+055/155	kih	1	k ih
+055/157	NA	NA	-
+055/159	kieh	1	k ieh
+055/161	kij	1	k i j
+056/021	keuj	1	k eu j
+056/023	köh	1	k öh
+056/025	kö	1	k ö
+056/027	köih	1	k öih
+056/029	köö	1	k öö
+056/031	köh	1	k öh
+056/033	küäh	1	k üäh
+056/035	käu	1	k äu
+056/037	käuh	1	k äuh
+056/039	kei	1	k ei
+056/041	keu	1	k eu
+056/043	käuh	1	k äuh
+056/045	kei	1	k ei
+056/047	kögg	1	k ö gg
+056/049	kögg	1	k ö gg
+056/051	kögg	1	k ö gg
+056/053	kögg	1	k ö gg
+056/055	kögg	1	k ö gg
+056/057	köhw	1	k öh w
+056/059	kiw	1	k i w
+056/061	kiw	1	k i w
+056/063	kiw	1	k i w
+056/065	kiw	1	k i w
+056/067	kiw	1	k i w
+056/069	kiew	1	k ie w
+056/071	koib	1	k oi b
+056/073	käiw	1	k äi w
+056/075	käib	1	k äi b
+056/077	keiib	1	k eii b
+056/079	käew	1	k äe w
+056/081	käiw	1	k äi w
+056/083	kiehw	1	k ieh w
+056/085	küw	1	k ü w
+056/087	kihw	1	k ih w
+056/089	kiew	1	k ie w
+056/091	kiew	1	k ie w
+056/093	kihw	1	k ih w
+056/095	kiw	1	k i w
+056/097	kiew	1	k ie w
+056/099	kih	1	k ih
+056/101	kihw	1	k ih w
+056/103	kih	1	k ih
+056/105	kieb	1	k ie b
+056/107	kih	1	k ih
+056/109	kih	1	k ih
+056/111	kih	1	k ih
+056/113	kih	1	k ih
+056/115	küh	1	k üh
+056/117	kieh	1	k ieh
+056/121	kih	1	k ih
+056/123	kieh	1	k ieh
+056/125	kie	1	k ie
+056/127	kih	1	k ih
+056/129	kieh	1	k ieh
+056/131	kih	1	k ih
+056/133	küh	1	k üh
+056/135	kih	1	k ih
+056/137	kieh	1	k ieh
+056/139	kieh	1	k ieh
+056/141	kih	1	k ih
+056/143	kieh	1	k ieh
+056/145	ki	1	k i
+056/147	kich	1	k i ch
+056/149	kih	1	k ih
+056/151	kih	1	k ih
+056/153	kih	1	k ih
+056/155	kieh	1	k ieh
+056/157	kih	1	k ih
+056/159	kieh	1	k ieh
+056/161	kieh	1	k ieh
+057/021	köi	1	k öi
+057/023	köi	1	k öi
+057/025	köih	1	k öih
+057/027	köh	1	k öh
+057/029	köh	1	k öh
+057/031	küh	1	k üh
+057/033	küh	1	k üh
+057/035	köh	1	k öh
+057/037	käu	1	k äu
+057/039	keih	1	k eih
+057/041	kei	1	k ei
+057/043	kai	1	k ai
+057/045	keuh	1	k euh
+057/047	kaih	1	k aih
+057/049	kägg	1	k ä gg
+057/051	kih	1	k ih
+057/053	köjj	1	k ö jj
+057/055	küw	1	k ü w
+057/057	kiww	1	k i ww
+057/059	kiw	1	k i w
+057/061	kiw	1	k i w
+057/063	kiww	1	k i ww
+057/065	küw	1	k ü w
+057/067	kiew	1	k ie w
+057/069	küw	1	k ü w
+057/071	keww	1	k e ww
+057/073	käiw	1	k äi w
+057/075	koiw	1	k oi w
+057/077	käiw	1	k äi w
+057/079	käiw	1	k äi w
+057/081	kieb	1	k ie b
+057/083	kihb	1	k ih b
+057/085	kieb	1	k ie b
+057/087	küb	1	k ü b
+057/089	kiew	1	k ie w
+057/091	kieb	1	k ie b
+057/093	kiew	1	k ie w
+057/095	kib	1	k i b
+057/097	kiw	1	k i w
+057/099	kih	1	k ih
+057/101	kih	1	k ih
+057/103	kih	1	k ih
+057/105	kieh	1	k ieh
+057/107	kieh	1	k ieh
+057/109	kih	1	k ih
+057/111	kih	1	k ih
+057/113	kih	1	k ih
+057/115	kih	1	k ih
+057/117	kih	1	k ih
+057/119	kieh	1	k ieh
+057/121	küh	1	k üh
+057/123	kih	1	k ih
+057/125	kieh	1	k ieh
+057/127	kih	1	k ih
+057/129	ki	1	k i
+057/131	kie	1	k ie
+057/133	kieh	1	k ieh
+057/135	kieh	1	k ieh
+057/137	kieh	1	k ieh
+057/139	kieh	1	k ieh
+057/141	kih	1	k ih
+057/143	kih	1	k ih
+057/145	kieh	1	k ieh
+057/147	kih	1	k ih
+057/149	kih	1	k ih
+057/151	kih	1	k ih
+057/153	kih	1	k ih
+057/155	kih	1	k ih
+057/157	kieh	1	k ieh
+057/159	kih	1	k ih
+057/161	kih	1	k ih
+058/019	keu	1	k eu
+058/021	köh	1	k öh
+058/023	köi	1	k öi
+058/025	köh	1	k öh
+058/027	köh	1	k öh
+058/029	köh	1	k öh
+058/031	köh	1	k öh
+058/033	köh	1	k öh
+058/035	köh	1	k öh
+058/037	köh	1	k öh
+058/039	käu	1	k äu
+058/041	käu	1	k äu
+058/043	kai	1	k ai
+058/045	käuh	1	k äuh
+058/047	kih	1	k ih
+058/049	kih	1	k ih
+058/051	kih	1	k ih
+058/053	küh	1	k üh
+058/055	kih	1	k ih
+058/057	kiww	1	k i ww
+058/059	kiww	1	k i ww
+058/061	kiww	1	k i ww
+058/063	kiw	1	k i w
+058/065	kiew	1	k ie w
+058/067	kiew	1	k ie w
+058/069	keh	1	k eh
+058/071	kieh	1	k ieh
+058/073	kih	1	k ih
+058/075	keeiw	1	k eei w
+058/077	kiöw	1	k iö w
+058/079	kiaw	1	k ia w
+058/081	kiäw	1	k iä w
+058/083	kühw	1	k üh w
+058/085	küw	1	k ü w
+058/087	kieb	1	k ie b
+058/089	kiw	1	k i w
+058/091	kiib	1	k ii b
+058/093	kiew	1	k ie w
+058/095	kib	1	k i b
+058/097	kiew	1	k ie w
+058/099	kih	1	k ih
+058/101	kih	1	k ih
+058/103	küw	1	k ü w
+058/105	kih	1	k ih
+058/107	kieh	1	k ieh
+058/109	kih	1	k ih
+058/111	kih	1	k ih
+058/113	kie	1	k ie
+058/115	kih	1	k ih
+058/117	küh	1	k üh
+058/119	kieh	1	k ieh
+058/121	kih	1	k ih
+058/123	kih	1	k ih
+058/125	kieh	1	k ieh
+058/127	kih	1	k ih
+058/129	kii	1	k ii
+058/131	kih	1	k ih
+058/133	kih	1	k ih
+058/135	kih	1	k ih
+058/137	kieh	1	k ieh
+058/139	kieh	1	k ieh
+058/141	kih	1	k ih
+058/143	kich	1	k i ch
+058/145	kih	1	k ih
+058/147	kih	1	k ih
+058/149	kih	1	k ih
+058/151	kie	1	k ie
+058/153	kih	1	k ih
+058/155	küh	1	k üh
+058/157	kij	1	k i j
+058/159	kih	1	k ih
+059/019	köh	1	k öh
+059/021	köh	1	k öh
+059/023	kö	1	k ö
+059/025	köh	1	k öh
+059/027	köh	1	k öh
+059/029	köh	1	k öh
+059/031	köh	1	k öh
+059/033	köh	1	k öh
+059/035	köh	1	k öh
+059/037	küh	1	k üh
+059/039	köh	1	k öh
+059/041	küü	1	k üü
+059/043	köh	1	k öh
+059/045	köh	1	k öh
+059/047	kieh	1	k ieh
+059/049	ki	1	k i
+059/051	kieh	1	k ieh
+059/053	kieh	1	k ieh
+059/055	kih	1	k ih
+059/057	kiew	1	k ie w
+059/059	kiw	1	k i w
+059/061	kiw	1	k i w
+059/063	kiw	1	k i w
+059/065	kieh	1	k ieh
+059/067	kiew	1	k ie w
+059/069	kih	1	k ih
+059/071	keh	1	k eh
+059/073	keh	1	k eh
+059/075	kiw	1	k i w
+059/077	kih	1	k ih
+059/079	kieeb	1	k iee b
+059/081	kiew	1	k ie w
+059/083	küb	1	k ü b
+059/085	küb	1	k ü b
+059/087	kieb	1	k ie b
+059/089	kiw	1	k i w
+059/091	kieb	1	k ie b
+059/093	kiew	1	k ie w
+059/095	kiew	1	k ie w
+059/097	kie	1	k ie
+059/099	kieh	1	k ieh
+059/101	kih	1	k ih
+059/103	kih	1	k ih
+059/105	kih	1	k ih
+059/107	kih	1	k ih
+059/109	kih	1	k ih
+059/111	kih	1	k ih
+059/113	kih	1	k ih
+059/115	kieh	1	k ieh
+059/117	kih	1	k ih
+059/119	kih	1	k ih
+059/121	kih	1	k ih
+059/123	kih	1	k ih
+059/125	kih	1	k ih
+059/127	kih	1	k ih
+059/129	kieh	1	k ieh
+059/131	kieh	1	k ieh
+059/133	kih	1	k ih
+059/135	küh	1	k üh
+059/137	kih	1	k ih
+059/139	kih	1	k ih
+059/141	kih	1	k ih
+059/143	kieh	1	k ieh
+059/145	küh	1	k üh
+059/147	ki	1	k i
+059/149	kih	1	k ih
+059/151	kih	1	k ih
+059/153	küh	1	k üh
+059/155	küh	1	k üh
+059/157	küh	1	k üh
+059/159	küh	1	k üh
+059/161	kih	1	k ih
+059/165	kih	1	k ih
+059/169	kih	1	k ih
+060/021	köü	1	k öü
+060/023	kö	1	k ö
+060/025	köh	1	k öh
+060/027	köh	1	k öh
+060/029	köh	1	k öh
+060/031	köh	1	k öh
+060/033	köh	1	k öh
+060/035	köh	1	k öh
+060/037	köh	1	k öh
+060/039	küh	1	k üh
+060/041	köh	1	k öh
+060/043	küh	1	k üh
+060/045	keh	1	k eh
+060/047	koih	1	k oih
+060/049	koih	1	k oih
+060/051	kih	1	k ih
+060/053	küh	1	k üh
+060/055	küh	1	k üh
+060/057	kih	1	k ih
+060/059	keiw	1	k ei w
+060/061	keiv	1	k ei v
+060/063	küh	1	k üh
+060/065	kih	1	k ih
+060/067	keh	1	k eh
+060/069	keh	1	k eh
+060/071	kieh	1	k ieh
+060/073	küh	1	k üh
+060/075	küh	1	k üh
+060/077	kiew	1	k ie w
+060/079	kiäb	1	k iä b
+060/081	kiaaw	1	k iaa w
+060/083	kieb	1	k ie b
+060/085	kiew	1	k ie w
+060/087	kieb	1	k ie b
+060/089	küw	1	k ü w
+060/091	küh	1	k üh
+060/093	kieh	1	k ieh
+060/095	kih	1	k ih
+060/097	kieh	1	k ieh
+060/099	kieh	1	k ieh
+060/101	kih	1	k ih
+060/103	kih	1	k ih
+060/105	kih	1	k ih
+060/107	kieh	1	k ieh
+060/109	kieh	1	k ieh
+060/111	kih	1	k ih
+060/113	kih	1	k ih
+060/115	kih	1	k ih
+060/117	kih	1	k ih
+060/119	kiej	1	k ie j
+060/121	kieh	1	k ieh
+060/123	kij	1	k i j
+060/125	kih	1	k ih
+060/127	kie	1	k ie
+060/129	kieh	1	k ieh
+060/131	kieh	1	k ieh
+060/135	kih	1	k ih
+060/137	kih	1	k ih
+060/139	kieh	1	k ieh
+060/141	kih	1	k ih
+060/143	kih	1	k ih
+060/145	kie	1	k ie
+060/147	kie	1	k ie
+060/149	küh	1	k üh
+060/151	kieh	1	k ieh
+060/153	kieh	1	k ieh
+060/155	kih	1	k ih
+060/157	ki	1	k i
+060/159	kih	1	k ih
+060/163	kieh	1	k ieh
+060/165	küh	1	k üh
+061/021	köi	1	k öi
+061/023	köh	1	k öh
+061/025	köh	1	k öh
+061/027	köh	1	k öh
+061/029	köh	1	k öh
+061/031	köh	1	k öh
+061/033	köh	1	k öh
+061/035	kö	1	k ö
+061/037	köh	1	k öh
+061/039	köh	1	k öh
+061/041	köh	1	k öh
+061/043	köh	1	k öh
+061/045	köh	1	k öh
+061/047	koi	1	k oi
+061/049	kojh	1	k o j h
+061/051	käu	1	k äu
+061/053	käih	1	k äih
+061/055	kooih	1	k ooih
+061/057	kih	1	k ih
+061/059	küh	1	k üh
+061/061	kieh	1	k ieh
+061/063	kih	1	k ih
+061/065	kieh	1	k ieh
+061/067	keh	1	k eh
+061/069	koh	1	k oh
+061/071	küh	1	k üh
+061/073	küh	1	k üh
+061/075	küü	1	k üü
+061/077	kieh	1	k ieh
+061/079	kiaw	1	k ia w
+061/081	kiaw	1	k ia w
+061/083	kieb	1	k ie b
+061/085	kih	1	k ih
+061/087	kiew	1	k ie w
+061/089	kieh	1	k ieh
+061/091	kih	1	k ih
+061/093	kih	1	k ih
+061/095	kieh	1	k ieh
+061/097	kieh	1	k ieh
+061/099	kih	1	k ih
+061/101	kih	1	k ih
+061/103	kih	1	k ih
+061/105	kih	1	k ih
+061/107	kih	1	k ih
+061/109	kih	1	k ih
+061/111	kih	1	k ih
+061/113	kih	1	k ih
+061/115	kih	1	k ih
+061/117	kih	1	k ih
+061/119	kiih	1	k iih
+061/121	ki	1	k i
+061/123	ki	1	k i
+061/125	kieh	1	k ieh
+061/127	kie	1	k ie
+061/129	kii	1	k ii
+061/131	kie	1	k ie
+061/133	kie	1	k ie
+061/137	kieh	1	k ieh
+061/139	kieh	1	k ieh
+061/141	kieh	1	k ieh
+061/143	kih	1	k ih
+061/145	kie	1	k ie
+061/147	kie	1	k ie
+061/149	kih	1	k ih
+061/151	kih	1	k ih
+061/153	kih	1	k ih
+061/155	kieh	1	k ieh
+061/157	kih	1	k ih
+061/159	kieh	1	k ieh
+061/161	kieh	1	k ieh
+061/165	kiih	1	k iih
+062/021	keu	1	k eu
+062/023	kö	1	k ö
+062/025	köh	1	k öh
+062/027	köh	1	k öh
+062/029	köh	1	k öh
+062/031	köh	1	k öh
+062/033	köh	1	k öh
+062/035	köh	1	k öh
+062/037	köh	1	k öh
+062/039	köh	1	k öh
+062/041	köh	1	k öh
+062/043	köh	1	k öh
+062/045	koj	1	k o j
+062/047	kouj	1	k ou j
+062/049	koi	1	k oi
+062/051	koih	1	k oih
+062/053	koüh	1	k oüh
+062/055	koih	1	k oih
+062/057	käih	1	k äih
+062/059	kih	1	k ih
+062/061	kieh	1	k ieh
+062/063	keh	1	k eh
+062/065	keh	1	k eh
+062/067	keh	1	k eh
+062/069	küh	1	k üh
+062/071	käh	1	k äh
+062/073	küü	1	k üü
+062/075	küh	1	k üh
+062/077	ki	1	k i
+062/079	kih	1	k ih
+062/081	kiäb	1	k iä b
+062/083	kiw	1	k i w
+062/085	kih	1	k ih
+062/087	kieh	1	k ieh
+062/089	kieh	1	k ieh
+062/091	kih	1	k ih
+062/093	kih	1	k ih
+062/095	kieh	1	k ieh
+062/097	kih	1	k ih
+062/099	kieh	1	k ieh
+062/101	kih	1	k ih
+062/103	kieh	1	k ieh
+062/105	kieh	1	k ieh
+062/107	kieh	1	k ieh
+062/109	kih	1	k ih
+062/111	kih	1	k ih
+062/113	kieh	1	k ieh
+062/115	kiej	1	k ie j
+062/117	kieh	1	k ieh
+062/119	ki	1	k i
+062/121	ki	1	k i
+062/123	kie	1	k ie
+062/125	kii	1	k ii
+062/127	kieh	1	k ieh
+062/129	ki	1	k i
+062/131	kie	1	k ie
+062/133	kieh	1	k ieh
+062/135	kiij	1	k ii j
+062/137	kii	1	k ii
+062/139	küj	1	k ü j
+062/141	küh	1	k üh
+062/143	kih	1	k ih
+062/145	küh	1	k üh
+062/147	ki	1	k i
+062/149	kih	1	k ih
+062/151	kih	1	k ih
+062/153	kieh	1	k ieh
+062/155	kieh	1	k ieh
+062/157	ki	1	k i
+062/159	kih	1	k ih
+062/161	küh	1	k üh
+063/021	kü	1	k ü
+063/023	köh	1	k öh
+063/025	köh	1	k öh
+063/027	köh	1	k öh
+063/029	köh	1	k öh
+063/031	köh	1	k öh
+063/033	köh	1	k öh
+063/035	köh	1	k öh
+063/037	köh	1	k öh
+063/039	keh	1	k eh
+063/041	köh	1	k öh
+063/043	käch	1	k ä ch
+063/045	köj	1	k ö j
+063/047	koih	1	k oih
+063/049	keu	1	k eu
+063/051	keuh	1	k euh
+063/053	koi	1	k oi
+063/055	koi	1	k oi
+063/057	koih	1	k oih
+063/059	kih	1	k ih
+063/061	küh	1	k üh
+063/063	keh	1	k eh
+063/065	köh	1	k öh
+063/067	köh	1	k öh
+063/069	keh	1	k eh
+063/071	küh	1	k üh
+063/073	küh	1	k üh
+063/075	küh	1	k üh
+063/077	küh	1	k üh
+063/079	kew	1	k e w
+063/081	kieb	1	k ie b
+063/083	kiew	1	k ie w
+063/085	kieh	1	k ieh
+063/087	kieh	1	k ieh
+063/089	küh	1	k üh
+063/091	keeih	1	k eeih
+063/093	kiih	1	k iih
+063/095	kih	1	k ih
+063/097	kieh	1	k ieh
+063/099	kieh	1	k ieh
+063/101	kih	1	k ih
+063/103	kii	1	k ii
+063/105	kieh	1	k ieh
+063/107	kieh	1	k ieh
+063/109	kih	1	k ih
+063/111	kie	1	k ie
+063/113	kieh	1	k ieh
+063/115	ki	1	k i
+063/117	kih	1	k ih
+063/119	kii	1	k ii
+063/121	ki	1	k i
+063/123	kij	1	k i j
+063/125	kih	1	k ih
+063/127	kie	1	k ie
+063/135	kieh	1	k ieh
+063/137	kie	1	k ie
+063/139	kieh	1	k ieh
+063/141	kie	1	k ie
+063/143	ki	1	k i
+063/145	ki	1	k i
+063/147	kiih	1	k iih
+063/149	kieh	1	k ieh
+063/151	kie	1	k ie
+063/153	kieh	1	k ieh
+063/155	kih	1	k ih
+063/157	kih	1	k ih
+063/159	kih	1	k ih
+063/161	kih	1	k ih
+063/163	kih	1	k ih
+063/165	küh	1	k üh
+064/023	köh	1	k öh
+064/025	köh	1	k öh
+064/027	köh	1	k öh
+064/029	köh	1	k öh
+064/031	köh	1	k öh
+064/033	köh	1	k öh
+064/035	köh	1	k öh
+064/037	keh	1	k eh
+064/039	keh	1	k eh
+064/041	keeh	1	k eeh
+064/043	käih	1	k äih
+064/045	keuh	1	k euh
+064/047	koj	1	k o j
+064/049	koih	1	k oih
+064/051	keuh	1	k euh
+064/053	koih	1	k oih
+064/055	kuih	1	k uih
+064/057	keu	1	k eu
+064/059	küh	1	k üh
+064/061	kih	1	k ih
+064/063	keh	1	k eh
+064/065	köh	1	k öh
+064/067	köh	1	k öh
+064/069	küh	1	k üh
+064/071	küh	1	k üh
+064/073	küh	1	k üh
+064/075	küh	1	k üh
+064/077	küh	1	k üh
+064/079	kieb	1	k ie b
+064/081	kiaw	1	k ia w
+064/083	kih	1	k ih
+064/085	kih	1	k ih
+064/087	kih	1	k ih
+064/089	kih	1	k ih
+064/091	küh	1	k üh
+064/093	kih	1	k ih
+064/095	kih	1	k ih
+064/097	kih	1	k ih
+064/099	kieh	1	k ieh
+064/101	kih	1	k ih
+064/103	ki	1	k i
+064/105	kih	1	k ih
+064/107	kieh	1	k ieh
+064/109	ki	1	k i
+064/111	kieh	1	k ieh
+064/113	kieh	1	k ieh
+064/115	kih	1	k ih
+064/117	kih	1	k ih
+064/119	kih	1	k ih
+064/121	kie	1	k ie
+064/123	kij	1	k i j
+064/125	ki	1	k i
+064/127	kij	1	k i j
+064/135	kih	1	k ih
+064/137	kieh	1	k ieh
+064/139	kij	1	k i j
+064/141	kiej	1	k ie j
+064/143	kieh	1	k ieh
+064/145	ki	1	k i
+064/147	kih	1	k ih
+064/149	kih	1	k ih
+064/151	küh	1	k üh
+064/153	kih	1	k ih
+064/155	ki	1	k i
+064/157	kih	1	k ih
+064/159	kih	1	k ih
+065/021	köch	1	k ö ch
+065/023	köh	1	k öh
+065/025	köh	1	k öh
+065/027	köh	1	k öh
+065/029	köh	1	k öh
+065/031	köh	1	k öh
+065/033	köh	1	k öh
+065/035	köh	1	k öh
+065/037	keh	1	k eh
+065/039	keh	1	k eh
+065/041	köh	1	k öh
+065/043	käih	1	k äih
+065/045	kuih	1	k uih
+065/047	koih	1	k oih
+065/049	koi	1	k oi
+065/051	koih	1	k oih
+065/053	käuh	1	k äuh
+065/055	koih	1	k oih
+065/057	koih	1	k oih
+065/059	keui	1	k eui
+065/061	kih	1	k ih
+065/063	köh	1	k öh
+065/065	küh	1	k üh
+065/067	küh	1	k üh
+065/069	küh	1	k üh
+065/071	küh	1	k üh
+065/073	kü	1	k ü
+065/075	küh	1	k üh
+065/077	küh	1	k üh
+065/079	küh	1	k üh
+065/081	kih	1	k ih
+065/083	kih	1	k ih
+065/085	kej	1	k e j
+065/087	köih	1	k öih
+065/089	köih	1	k öih
+065/091	köüh	1	k öüh
+065/093	kieh	1	k ieh
+065/095	kih	1	k ih
+065/097	kii	1	k ii
+065/101	kieh	1	k ieh
+065/103	kieh	1	k ieh
+065/105	kih	1	k ih
+065/107	kieh	1	k ieh
+065/109	kih	1	k ih
+065/111	kih	1	k ih
+065/113	kie	1	k ie
+065/115	kih	1	k ih
+065/121	ki	1	k i
+065/123	kie	1	k ie
+065/137	kieh	1	k ieh
+065/139	kieh	1	k ieh
+065/143	kih	1	k ih
+065/145	küh	1	k üh
+065/147	kieh	1	k ieh
+065/149	kih	1	k ih
+065/151	kieh	1	k ieh
+065/153	kih	1	k ih
+065/155	kieh	1	k ieh
+065/157	ki	1	k i
+065/159	kih	1	k ih
+066/021	köh	1	k öh
+066/023	köh	1	k öh
+066/025	köh	1	k öh
+066/027	köh	1	k öh
+066/029	küh	1	k üh
+066/031	köh	1	k öh
+066/033	köh	1	k öh
+066/035	köh	1	k öh
+066/037	köh	1	k öh
+066/039	keh	1	k eh
+066/041	kej	1	k e j
+066/043	käi	1	k äi
+066/045	koih	1	k oih
+066/047	koih	1	k oih
+066/049	koi	1	k oi
+066/051	koüh	1	k oüh
+066/053	koih	1	k oih
+066/055	keuh	1	k euh
+066/057	keu	1	k eu
+066/059	käih	1	k äih
+066/061	küh	1	k üh
+066/063	küh	1	k üh
+066/065	küh	1	k üh
+066/067	küh	1	k üh
+066/069	küh	1	k üh
+066/071	köü	1	k öü
+066/073	küh	1	k üh
+066/075	küh	1	k üh
+066/077	küh	1	k üh
+066/079	küh	1	k üh
+066/081	küh	1	k üh
+066/083	küh	1	k üh
+066/085	köi	1	k öi
+066/087	kejh	1	k e j h
+066/089	käih	1	k äih
+066/091	käih	1	k äih
+066/093	kih	1	k ih
+066/095	kih	1	k ih
+066/097	kih	1	k ih
+066/099	kih	1	k ih
+066/101	kih	1	k ih
+066/103	kih	1	k ih
+066/105	kieh	1	k ieh
+066/107	kih	1	k ih
+066/109	küh	1	k üh
+066/111	kie	1	k ie
+066/113	kih	1	k ih
+066/121	ki	1	k i
+066/139	kieh	1	k ieh
+066/143	kieh	1	k ieh
+066/145	küh	1	k üh
+066/147	kie	1	k ie
+066/149	kih	1	k ih
+066/151	kih	1	k ih
+066/153	kii	1	k ii
+066/155	kih	1	k ih
+066/157	küh	1	k üh
+066/159	kieh	1	k ieh
+066/161	kih	1	k ih
+066/163	ki	1	k i
+067/021	köh	1	k öh
+067/023	köh	1	k öh
+067/025	köh	1	k öh
+067/027	köh	1	k öh
+067/029	küh	1	k üh
+067/031	köh	1	k öh
+067/033	köh	1	k öh
+067/035	köh	1	k öh
+067/037	keeh	1	k eeh
+067/039	köh	1	k öh
+067/041	käih	1	k äih
+067/043	käih	1	k äih
+067/045	küi	1	k üi
+067/047	kuih	1	k uih
+067/049	koih	1	k oih
+067/051	keu	1	k eu
+067/053	keuh	1	k euh
+067/055	käuh	1	k äuh
+067/057	keuh	1	k euh
+067/059	koi	1	k oi
+067/061	kieh	1	k ieh
+067/063	küh	1	k üh
+067/065	küh	1	k üh
+067/067	küüh	1	k üüh
+067/069	kü	1	k ü
+067/071	küh	1	k üh
+067/073	käuh	1	k äuh
+067/075	küh	1	k üh
+067/077	küh	1	k üh
+067/079	küh	1	k üh
+067/081	küh	1	k üh
+067/083	küh	1	k üh
+067/085	küh	1	k üh
+067/087	käih	1	k äih
+067/089	käih	1	k äih
+067/091	kih	1	k ih
+067/093	köi	1	k öi
+067/095	keeh	1	k eeh
+067/097	köih	1	k öih
+067/099	köih	1	k öih
+067/101	kej	1	k e j
+067/103	köüh	1	k öüh
+067/105	köj	1	k ö j
+067/107	kih	1	k ih
+067/109	kih	1	k ih
+067/111	kieeh	1	k ieeh
+067/113	kiih	1	k iih
+067/143	ki	1	k i
+067/145	kieh	1	k ieh
+067/147	kih	1	k ih
+067/149	kie	1	k ie
+067/151	ki	1	k i
+067/153	kih	1	k ih
+067/155	kih	1	k ih
+067/157	kij	1	k i j
+067/159	kieh	1	k ieh
+067/161	kieh	1	k ieh
+067/163	kih	1	k ih
+067/165	kih	1	k ih
+067/177	kih	1	k ih
+068/021	keh	1	k eh
+068/023	kieh	1	k ieh
+068/025	ki	1	k i
+068/027	keh	1	k eh
+068/029	köh	1	k öh
+068/031	köh	1	k öh
+068/033	keh	1	k eh
+068/035	keh	1	k eh
+068/037	keh	1	k eh
+068/039	küh	1	k üh
+068/041	käih	1	k äih
+068/043	kejh	1	k e j h
+068/045	küh	1	k üh
+068/047	kih	1	k ih
+068/049	käüh	1	k äüh
+068/051	käuh	1	k äuh
+068/053	keuh	1	k euh
+068/055	käuh	1	k äuh
+068/057	keuh	1	k euh
+068/059	käuh	1	k äuh
+068/061	küh	1	k üh
+068/063	küh	1	k üh
+068/065	küh	1	k üh
+068/067	küh	1	k üh
+068/069	küh	1	k üh
+068/071	küh	1	k üh
+068/073	küh	1	k üh
+068/075	küh	1	k üh
+068/077	küh	1	k üh
+068/079	küh	1	k üh
+068/081	küh	1	k üh
+068/083	küüh	1	k üüh
+068/085	kih	1	k ih
+068/087	küh	1	k üh
+068/089	kih	1	k ih
+068/091	kih	1	k ih
+068/093	köih	1	k öih
+068/095	kei	1	k ei
+068/097	käi	1	k äi
+068/099	köih	1	k öih
+068/101	köi	1	k öi
+068/103	köih	1	k öih
+068/105	köj	1	k ö j
+068/107	köih	1	k öih
+068/109	kieh	1	k ieh
+068/111	kih	1	k ih
+068/145	kij	1	k i j
+068/147	kih	1	k ih
+068/149	ki	1	k i
+068/151	kieh	1	k ieh
+068/153	kieh	1	k ieh
+068/155	kij	1	k i j
+068/157	kichj	1	k i ch j
+068/159	kih	1	k ih
+068/161	kih	1	k ih
+068/165	kieh	1	k ieh
+069/019	kä	1	k ä
+069/023	keh	1	k eh
+069/025	küh	1	k üh
+069/027	keh	1	k eh
+069/029	kih	1	k ih
+069/031	kieh	1	k ieh
+069/033	köh	1	k öh
+069/035	köh	1	k öh
+069/037	kih	1	k ih
+069/039	küh	1	k üh
+069/041	ki	1	k i
+069/043	kih	1	k ih
+069/045	kih	1	k ih
+069/047	kih	1	k ih
+069/049	käih	1	k äih
+069/051	kieh	1	k ieh
+069/053	kih	1	k ih
+069/055	käih	1	k äih
+069/057	koih	1	k oih
+069/059	küh	1	k üh
+069/061	küh	1	k üh
+069/063	küh	1	k üh
+069/065	küh	1	k üh
+069/067	küh	1	k üh
+069/069	küh	1	k üh
+069/071	küh	1	k üh
+069/073	küh	1	k üh
+069/075	küh	1	k üh
+069/077	küh	1	k üh
+069/079	küh	1	k üh
+069/081	küh	1	k üh
+069/083	küh	1	k üh
+069/085	kih	1	k ih
+069/087	küh	1	k üh
+069/089	kieh	1	k ieh
+069/091	köh	1	k öh
+069/093	köih	1	k öih
+069/095	köih	1	k öih
+069/097	köih	1	k öih
+069/099	köi	1	k öi
+069/101	köih	1	k öih
+069/103	köih	1	k öih
+069/105	köih	1	k öih
+069/107	kaih	1	k aih
+069/109	koü	1	k oü
+069/111	kih	1	k ih
+069/147	ki	1	k i
+069/149	kieh	1	k ieh
+069/151	kieh	1	k ieh
+069/153	kih	1	k ih
+069/157	kieh	1	k ieh
+069/159	kih	1	k ih
+069/161	kiih	1	k iih
+069/163	kih	1	k ih
+069/165	kih	1	k ih
+070/019	kei	1	k ei
+070/023	kih	1	k ih
+070/025	kieh	1	k ieh
+070/027	keh	1	k eh
+070/029	keh	1	k eh
+070/031	keh	1	k eh
+070/033	keh	1	k eh
+070/035	keh	1	k eh
+070/037	keh	1	k eh
+070/039	kih	1	k ih
+070/041	kih	1	k ih
+070/043	küh	1	k üh
+070/045	ki	1	k i
+070/047	kih	1	k ih
+070/049	käih	1	k äih
+070/051	kejh	1	k e j h
+070/053	kih	1	k ih
+070/055	kieh	1	k ieh
+070/057	kih	1	k ih
+070/059	kih	1	k ih
+070/061	küh	1	k üh
+070/063	küh	1	k üh
+070/065	küh	1	k üh
+070/067	küh	1	k üh
+070/069	küh	1	k üh
+070/071	küh	1	k üh
+070/073	küh	1	k üh
+070/075	küh	1	k üh
+070/077	küh	1	k üh
+070/079	küh	1	k üh
+070/081	küh	1	k üh
+070/083	küh	1	k üh
+070/085	kieh	1	k ieh
+070/087	kih	1	k ih
+070/089	kii	1	k ii
+070/091	köj	1	k ö j
+070/093	köi	1	k öi
+070/095	köih	1	k öih
+070/097	köih	1	k öih
+070/099	köih	1	k öih
+070/101	köi	1	k öi
+070/103	käi	1	k äi
+070/105	kej	1	k e j
+070/107	käi	1	k äi
+070/109	käj	1	k ä j
+070/111	kej	1	k e j
+070/145	kieh	1	k ieh
+070/147	ki	1	k i
+070/149	kiej	1	k ie j
+070/151	kieh	1	k ieh
+070/153	kih	1	k ih
+070/155	kii	1	k ii
+070/157	kih	1	k ih
+070/159	kih	1	k ih
+070/161	kih	1	k ih
+070/163	kieh	1	k ieh
+070/165	küh	1	k üh
+071/017	ke	1	k e
+071/019	kei	1	k ei
+071/021	ki	1	k i
+071/023	keh	1	k eh
+071/025	keh	1	k eh
+071/027	keh	1	k eh
+071/029	keh	1	k eh
+071/031	keh	1	k eh
+071/033	köih	1	k öih
+071/035	kieh	1	k ieh
+071/037	kih	1	k ih
+071/039	kih	1	k ih
+071/041	kieh	1	k ieh
+071/043	kih	1	k ih
+071/045	kieh	1	k ieh
+071/047	kieh	1	k ieh
+071/049	kih	1	k ih
+071/051	kih	1	k ih
+071/053	kih	1	k ih
+071/055	kih	1	k ih
+071/057	ki	1	k i
+071/059	kih	1	k ih
+071/063	küh	1	k üh
+071/065	küh	1	k üh
+071/067	küh	1	k üh
+071/069	küh	1	k üh
+071/071	küah	1	k üah
+071/073	küh	1	k üh
+071/075	küh	1	k üh
+071/077	küh	1	k üh
+071/079	köh	1	k öh
+071/081	küh	1	k üh
+071/083	küh	1	k üh
+071/085	küh	1	k üh
+071/087	kih	1	k ih
+071/089	kih	1	k ih
+071/091	köü	1	k öü
+071/093	köüh	1	k öüh
+071/095	köi	1	k öi
+071/097	köih	1	k öih
+071/099	kei	1	k ei
+071/101	kei	1	k ei
+071/103	käi	1	k äi
+071/105	käi	1	k äi
+071/145	kieh	1	k ieh
+071/147	kieh	1	k ieh
+071/149	ki	1	k i
+071/151	kieh	1	k ieh
+071/153	kih	1	k ih
+071/155	kih	1	k ih
+071/157	kieh	1	k ieh
+071/159	kih	1	k ih
+071/161	ki	1	k i
+071/163	ki	1	k i
+071/177	kii	1	k ii
+071/179	küh	1	k üh
+072/017	ke	1	k e
+072/019	keh	1	k eh
+072/021	ke	1	k e
+072/023	kei	1	k ei
+072/025	keh	1	k eh
+072/027	keh	1	k eh
+072/029	keh	1	k eh
+072/031	käih	1	k äih
+072/033	käih	1	k äih
+072/035	kieh	1	k ieh
+072/037	kieh	1	k ieh
+072/039	kih	1	k ih
+072/041	kih	1	k ih
+072/043	kieh	1	k ieh
+072/045	kih	1	k ih
+072/047	kih	1	k ih
+072/049	kieh	1	k ieh
+072/051	kih	1	k ih
+072/053	kih	1	k ih
+072/055	kih	1	k ih
+072/057	kih	1	k ih
+072/059	kih	1	k ih
+072/061	küh	1	k üh
+072/063	küh	1	k üh
+072/065	küah	1	k üah
+072/067	küh	1	k üh
+072/069	küh	1	k üh
+072/071	küah	1	k üah
+072/073	küh	1	k üh
+072/075	küh	1	k üh
+072/077	küh	1	k üh
+072/079	küh	1	k üh
+072/081	küh	1	k üh
+072/083	küh	1	k üh
+072/085	küh	1	k üh
+072/087	kieh	1	k ieh
+072/089	küh	1	k üh
+072/091	köih	1	k öih
+072/093	küah	1	k üah
+072/095	kir	1	k i r
+072/097	köih	1	k öih
+072/099	köüh	1	k öüh
+072/101	köj	1	k ö j
+072/103	köi	1	k öi
+072/105	käih	1	k äih
+072/107	köi	1	k öi
+072/145	kuj	1	k u j
+072/147	kih	1	k ih
+072/149	koj	1	k o j
+072/151	keeih	1	k eeih
+072/153	kieh	1	k ieh
+072/155	küh	1	k üh
+072/157	kih	1	k ih
+072/159	kih	1	k ih
+072/161	kih	1	k ih
+072/177	ki	1	k i
+072/179	kieh	1	k ieh
+072/181	köi	1	k öi
+073/017	ke	1	k e
+073/019	keh	1	k eh
+073/021	ke	1	k e
+073/023	käi	1	k äi
+073/025	käh	1	k äh
+073/027	kih	1	k ih
+073/029	kieh	1	k ieh
+073/031	käih	1	k äih
+073/033	kih	1	k ih
+073/035	käih	1	k äih
+073/037	kieh	1	k ieh
+073/039	kej	1	k e j
+073/041	kih	1	k ih
+073/043	kieh	1	k ieh
+073/045	kih	1	k ih
+073/047	kih	1	k ih
+073/049	kih	1	k ih
+073/051	kih	1	k ih
+073/053	kih	1	k ih
+073/055	kih	1	k ih
+073/057	kih	1	k ih
+073/059	kih	1	k ih
+073/061	keeh	1	k eeh
+073/063	küh	1	k üh
+073/065	küh	1	k üh
+073/067	küh	1	k üh
+073/069	küh	1	k üh
+073/071	küh	1	k üh
+073/073	küh	1	k üh
+073/075	küh	1	k üh
+073/077	kiih	1	k iih
+073/079	küh	1	k üh
+073/081	küh	1	k üh
+073/083	küh	1	k üh
+073/085	köh	1	k öh
+073/087	küh	1	k üh
+073/089	köüh	1	k öüh
+073/091	köi	1	k öi
+073/093	köi	1	k öi
+073/095	köü	1	k öü
+073/097	köi	1	k öi
+073/099	köi	1	k öi
+073/101	köih	1	k öih
+073/103	käih	1	k äih
+073/105	keih	1	k eih
+073/107	köi	1	k öi
+073/145	kui	1	k ui
+073/147	kuih	1	k uih
+073/149	käi	1	k äi
+073/151	kaj	1	k a j
+073/153	kih	1	k ih
+073/155	kih	1	k ih
+073/157	kiih	1	k iih
+073/159	kih	1	k ih
+073/161	kieh	1	k ieh
+073/163	kih	1	k ih
+073/165	kih	1	k ih
+073/175	küh	1	k üh
+073/177	kii	1	k ii
+074/019	keu	1	k eu
+074/021	keh	1	k eh
+074/023	ke	1	k e
+074/025	kee	1	k ee
+074/027	kieh	1	k ieh
+074/029	kaih	1	k aih
+074/031	keeih	1	k eeih
+074/033	käih	1	k äih
+074/035	kieh	1	k ieh
+074/037	kiej	1	k ie j
+074/039	kieh	1	k ieh
+074/041	kieh	1	k ieh
+074/043	kih	1	k ih
+074/045	kih	1	k ih
+074/047	kih	1	k ih
+074/049	kih	1	k ih
+074/051	kih	1	k ih
+074/053	kih	1	k ih
+074/055	kih	1	k ih
+074/057	kih	1	k ih
+074/059	küh	1	k üh
+074/061	küh	1	k üh
+074/063	küh	1	k üh
+074/065	küh	1	k üh
+074/067	küh	1	k üh
+074/069	küh	1	k üh
+074/071	küh	1	k üh
+074/073	küh	1	k üh
+074/075	küh	1	k üh
+074/077	kieh	1	k ieh
+074/079	küh	1	k üh
+074/081	köh	1	k öh
+074/083	küh	1	k üh
+074/085	köih	1	k öih
+074/087	köi	1	k öi
+074/089	küah	1	k üah
+074/091	köi	1	k öi
+074/093	köi	1	k öi
+074/095	käih	1	k äih
+074/097	köü	1	k öü
+074/099	köi	1	k öi
+074/101	käi	1	k äi
+074/103	käih	1	k äih
+074/105	käj	1	k ä j
+074/107	käi	1	k äi
+074/109	kei	1	k ei
+074/145	kui	1	k ui
+074/147	käi	1	k äi
+074/149	kai	1	k ai
+074/153	kih	1	k ih
+074/155	kii	1	k ii
+074/157	kieh	1	k ieh
+074/159	ki	1	k i
+074/161	kii	1	k ii
+074/163	kieh	1	k ieh
+074/165	kieh	1	k ieh
+075/019	keh	1	k eh
+075/021	ke	1	k e
+075/023	ki	1	k i
+075/025	keh	1	k eh
+075/027	käih	1	k äih
+075/029	keih	1	k eih
+075/031	käih	1	k äih
+075/033	kih	1	k ih
+075/035	kih	1	k ih
+075/037	kieh	1	k ieh
+075/039	kih	1	k ih
+075/041	kih	1	k ih
+075/043	kih	1	k ih
+075/045	küh	1	k üh
+075/047	kieh	1	k ieh
+075/049	kih	1	k ih
+075/051	kih	1	k ih
+075/053	kih	1	k ih
+075/055	kih	1	k ih
+075/057	kih	1	k ih
+075/059	küh	1	k üh
+075/061	küh	1	k üh
+075/063	küh	1	k üh
+075/065	küh	1	k üh
+075/067	küh	1	k üh
+075/069	küh	1	k üh
+075/071	küh	1	k üh
+075/073	kieh	1	k ieh
+075/075	küh	1	k üh
+075/077	küh	1	k üh
+075/079	küh	1	k üh
+075/081	kih	1	k ih
+075/083	köih	1	k öih
+075/085	köih	1	k öih
+075/087	köüh	1	k öüh
+075/089	käi	1	k äi
+075/091	köih	1	k öih
+075/093	köih	1	k öih
+075/095	käih	1	k äih
+075/097	köih	1	k öih
+075/099	köih	1	k öih
+075/101	käih	1	k äih
+075/103	käih	1	k äih
+075/105	kej	1	k e j
+075/107	käih	1	k äih
+075/135	koj	1	k o j
+075/145	kuih	1	k uih
+075/147	kuj	1	k u j
+075/149	kieh	1	k ieh
+075/155	kih	1	k ih
+075/157	kieh	1	k ieh
+075/159	kieh	1	k ieh
+075/161	kih	1	k ih
+075/163	kih	1	k ih
+075/165	kih	1	k ih
+076/019	ke	1	k e
+076/021	keh	1	k eh
+076/023	ki	1	k i
+076/025	ke	1	k e
+076/027	keh	1	k eh
+076/029	keh	1	k eh
+076/033	küh	1	k üh
+076/035	kieh	1	k ieh
+076/037	kih	1	k ih
+076/039	kih	1	k ih
+076/041	kih	1	k ih
+076/043	kih	1	k ih
+076/045	kii	1	k ii
+076/047	kih	1	k ih
+076/049	kiih	1	k iih
+076/051	kiih	1	k iih
+076/053	kih	1	k ih
+076/055	kih	1	k ih
+076/057	ki	1	k i
+076/059	ki	1	k i
+076/061	küh	1	k üh
+076/063	küh	1	k üh
+076/065	küh	1	k üh
+076/067	küh	1	k üh
+076/069	küah	1	k üah
+076/071	kü	1	k ü
+076/073	küh	1	k üh
+076/075	kih	1	k ih
+076/077	küh	1	k üh
+076/079	käih	1	k äih
+076/081	köih	1	k öih
+076/083	köih	1	k öih
+076/085	köih	1	k öih
+076/087	köih	1	k öih
+076/089	köih	1	k öih
+076/091	köüh	1	k öüh
+076/093	kejh	1	k e j h
+076/095	köi	1	k öi
+076/097	keih	1	k eih
+076/099	köih	1	k öih
+076/101	käi	1	k äi
+076/103	köih	1	k öih
+076/135	kej	1	k e j
+076/137	kooj	1	k oo j
+076/149	kieh	1	k ieh
+076/151	kii	1	k ii
+076/155	kih	1	k ih
+076/161	kih	1	k ih
+076/163	kieh	1	k ieh
+076/165	kieh	1	k ieh
+077/019	keih	1	k eih
+077/021	kee	1	k ee
+077/023	keii	1	k eii
+077/025	kei	1	k ei
+077/027	keh	1	k eh
+077/029	keeih	1	k eeih
+077/031	keuh	1	k euh
+077/033	kih	1	k ih
+077/035	kieh	1	k ieh
+077/037	kih	1	k ih
+077/039	kih	1	k ih
+077/041	kih	1	k ih
+077/043	kih	1	k ih
+077/047	kih	1	k ih
+077/049	kih	1	k ih
+077/051	kieh	1	k ieh
+077/053	kieh	1	k ieh
+077/055	kieh	1	k ieh
+077/057	küh	1	k üh
+077/059	kih	1	k ih
+077/061	küh	1	k üh
+077/063	küh	1	k üh
+077/065	kih	1	k ih
+077/067	ki	1	k i
+077/069	kiah	1	k iah
+077/071	küh	1	k üh
+077/073	küh	1	k üh
+077/075	kieh	1	k ieh
+077/077	küh	1	k üh
+077/079	köih	1	k öih
+077/081	köih	1	k öih
+077/083	köih	1	k öih
+077/085	köih	1	k öih
+077/087	köih	1	k öih
+077/089	köih	1	k öih
+077/091	köih	1	k öih
+077/093	kei	1	k ei
+077/095	köih	1	k öih
+077/097	köü	1	k öü
+077/099	kaaü	1	k aaü
+077/101	köih	1	k öih
+077/103	kej	1	k e j
+077/135	kej	1	k e j
+077/137	käih	1	k äih
+078/021	ke	1	k e
+078/023	kih	1	k ih
+078/025	keh	1	k eh
+078/027	keih	1	k eih
+078/029	keh	1	k eh
+078/031	kih	1	k ih
+078/033	kih	1	k ih
+078/035	kih	1	k ih
+078/037	kih	1	k ih
+078/039	kih	1	k ih
+078/041	kieh	1	k ieh
+078/045	kieh	1	k ieh
+078/047	kih	1	k ih
+078/049	kih	1	k ih
+078/051	kih	1	k ih
+078/053	kieh	1	k ieh
+078/055	kih	1	k ih
+078/057	kih	1	k ih
+078/059	küh	1	k üh
+078/061	kih	1	k ih
+078/063	kih	1	k ih
+078/065	küh	1	k üh
+078/067	küh	1	k üh
+078/069	küh	1	k üh
+078/071	kü	1	k ü
+078/073	küü	1	k üü
+078/075	küh	1	k üh
+078/077	küh	1	k üh
+078/079	käih	1	k äih
+078/081	köi	1	k öi
+078/083	köih	1	k öih
+078/085	köi	1	k öi
+078/087	kööi	1	k ööi
+078/089	köh	1	k öh
+078/091	kaüh	1	k aüh
+078/093	köih	1	k öih
+078/095	köih	1	k öih
+078/097	köi	1	k öi
+078/099	käi	1	k äi
+078/101	köih	1	k öih
+078/103	käih	1	k äih
+078/105	köi	1	k öi
+078/135	kej	1	k e j
+078/193	khi	1	k h i
+079/021	keih	1	k eih
+079/023	kieh	1	k ieh
+079/025	ki	1	k i
+079/027	käih	1	k äih
+079/029	kih	1	k ih
+079/031	kih	1	k ih
+079/033	kih	1	k ih
+079/035	kii	1	k ii
+079/037	kih	1	k ih
+079/039	kih	1	k ih
+079/043	küh	1	k üh
+079/045	kih	1	k ih
+079/047	kih	1	k ih
+079/049	kih	1	k ih
+079/051	kiih	1	k iih
+079/053	kieh	1	k ieh
+079/055	kih	1	k ih
+079/057	ki	1	k i
+079/059	kii	1	k ii
+079/061	kih	1	k ih
+079/063	kiah	1	k iah
+079/065	kiah	1	k iah
+079/067	küah	1	k üah
+079/069	kiäh	1	k iäh
+079/071	küah	1	k üah
+079/073	küh	1	k üh
+079/075	küh	1	k üh
+079/077	kih	1	k ih
+079/079	käi	1	k äi
+079/081	köih	1	k öih
+079/083	köih	1	k öih
+079/085	keü	1	k eü
+079/087	köih	1	k öih
+079/089	köi	1	k öi
+079/091	kaüh	1	k aüh
+079/093	köih	1	k öih
+079/095	köi	1	k öi
+079/097	käih	1	k äih
+079/099	käih	1	k äih
+079/101	käi	1	k äi
+079/103	käüh	1	k äüh
+079/105	kej	1	k e j
+079/107	keij	1	k ei j
+079/133	köüh	1	k öüh
+079/135	käi	1	k äi
+079/193	kieh	1	k ieh
+079/195	kih	1	k ih
+079/197	tjih	1	t j ih
+080/025	käi	1	k äi
+080/027	käi	1	k äi
+080/029	kieh	1	k ieh
+080/031	küh	1	k üh
+080/033	kih	1	k ih
+080/035	ki	1	k i
+080/037	ki	1	k i
+080/039	kih	1	k ih
+080/041	kih	1	k ih
+080/043	kih	1	k ih
+080/045	kih	1	k ih
+080/047	kih	1	k ih
+080/049	kiih	1	k iih
+080/051	kie	1	k ie
+080/053	kih	1	k ih
+080/055	kih	1	k ih
+080/057	kih	1	k ih
+080/059	kih	1	k ih
+080/061	kii	1	k ii
+080/063	küh	1	k üh
+080/065	küah	1	k üah
+080/067	ki	1	k i
+080/069	ki	1	k i
+080/071	küh	1	k üh
+080/073	ki	1	k i
+080/075	kiah	1	k iah
+080/077	kiah	1	k iah
+080/079	käih	1	k äih
+080/081	köüh	1	k öüh
+080/083	köi	1	k öi
+080/085	köih	1	k öih
+080/087	käüh	1	k äüh
+080/089	köi	1	k öi
+080/091	kööi	1	k ööi
+080/093	kaü	1	k aü
+080/095	käi	1	k äi
+080/097	käii	1	k äii
+080/099	köi	1	k öi
+080/101	keö	1	k eö
+080/103	kaüh	1	k aüh
+080/105	köih	1	k öih
+080/107	kej	1	k e j
+080/109	köih	1	k öih
+080/127	küah	1	k üah
+080/147	kih	1	k ih
+080/151	kü	1	k ü
+080/153	ki	1	k i
+080/193	kih	1	k ih
+080/195	kiih	1	k iih
+081/025	keeh	1	k eeh
+081/027	kih	1	k ih
+081/029	kieh	1	k ieh
+081/031	kih	1	k ih
+081/033	keeh	1	k eeh
+081/035	kieh	1	k ieh
+081/037	kieh	1	k ieh
+081/039	kih	1	k ih
+081/043	kih	1	k ih
+081/045	kieh	1	k ieh
+081/047	kiih	1	k iih
+081/049	kieh	1	k ieh
+081/051	kiih	1	k iih
+081/053	kih	1	k ih
+081/055	kih	1	k ih
+081/057	ki	1	k i
+081/059	kih	1	k ih
+081/061	ki	1	k i
+081/063	küh	1	k üh
+081/065	ki	1	k i
+081/067	kii	1	k ii
+081/069	ki	1	k i
+081/071	ki	1	k i
+081/073	küah	1	k üah
+081/075	küh	1	k üh
+081/077	kieh	1	k ieh
+081/079	kaüh	1	k aüh
+081/081	kaai	1	k aai
+081/083	koüh	1	k oüh
+081/085	kaih	1	k aih
+081/087	köi	1	k öi
+081/089	kaü	1	k aü
+081/091	köüh	1	k öüh
+081/093	küh	1	k üh
+081/095	küih	1	k üih
+081/097	käi	1	k äi
+081/099	keü	1	k eü
+081/101	kei	1	k ei
+081/103	käij	1	k äi j
+081/105	köi	1	k öi
+081/107	kejh	1	k e j h
+081/109	ki	1	k i
+081/111	kiah	1	k iah
+081/127	kij	1	k i j
+081/129	kier	1	k ie r
+081/133	küh	1	k üh
+081/147	khi	1	k h i
+081/191	kiih	1	k iih
+081/193	kii	1	k ii
+081/195	kih	1	k ih
+082/027	keeh	1	k eeh
+082/029	kieh	1	k ieh
+082/031	ki	1	k i
+082/033	keh	1	k eh
+082/035	kih	1	k ih
+082/037	keh	1	k eh
+082/039	kih	1	k ih
+082/041	kieh	1	k ieh
+082/043	kih	1	k ih
+082/045	kieh	1	k ieh
+082/047	kih	1	k ih
+082/049	kieh	1	k ieh
+082/051	kih	1	k ih
+082/053	ki	1	k i
+082/055	kiah	1	k iah
+082/057	ki	1	k i
+082/059	kih	1	k ih
+082/061	kiah	1	k iah
+082/063	kih	1	k ih
+082/065	ki	1	k i
+082/067	ki	1	k i
+082/069	kü	1	k ü
+082/071	küah	1	k üah
+082/073	küh	1	k üh
+082/075	küh	1	k üh
+082/077	kü	1	k ü
+082/079	keüh	1	k eüh
+082/081	köh	1	k öh
+082/083	käi	1	k äi
+082/085	köih	1	k öih
+082/087	köih	1	k öih
+082/089	kai	1	k ai
+082/091	köüh	1	k öüh
+082/093	keih	1	k eih
+082/095	kööih	1	k ööih
+082/097	keih	1	k eih
+082/099	köh	1	k öh
+082/101	kaih	1	k aih
+082/103	käi	1	k äi
+082/105	käi	1	k äi
+082/107	kü	1	k ü
+082/111	ki	1	k i
+082/113	ki	1	k i
+082/117	ki	1	k i
+082/129	ki	1	k i
+082/131	ki	1	k i
+082/133	ki	1	k i
+082/135	kij	1	k i j
+082/145	kir	1	k i r
+082/147	küah	1	k üah
+082/191	kih	1	k ih
+082/195	kih	1	k ih
+083/027	keh	1	k eh
+083/029	kih	1	k ih
+083/031	kih	1	k ih
+083/033	keh	1	k eh
+083/035	keäh	1	k eäh
+083/037	kih	1	k ih
+083/039	kieh	1	k ieh
+083/041	kij	1	k i j
+083/043	kiih	1	k iih
+083/045	kih	1	k ih
+083/047	kih	1	k ih
+083/049	kih	1	k ih
+083/051	kih	1	k ih
+083/053	kiah	1	k iah
+083/055	kii	1	k ii
+083/057	kiah	1	k iah
+083/059	ki	1	k i
+083/061	ki	1	k i
+083/063	kiah	1	k iah
+083/065	küh	1	k üh
+083/067	ki	1	k i
+083/069	ki	1	k i
+083/071	kü	1	k ü
+083/073	ki	1	k i
+083/075	küah	1	k üah
+083/077	küh	1	k üh
+083/079	köi	1	k öi
+083/081	köih	1	k öih
+083/083	keh	1	k eh
+083/085	käi	1	k äi
+083/087	kü	1	k ü
+083/089	küh	1	k üh
+083/091	köeuh	1	k öeuh
+083/093	käih	1	k äih
+083/095	kei	1	k ei
+083/097	käih	1	k äih
+083/099	käi	1	k äi
+083/101	kääih	1	k ääih
+083/103	kei	1	k ei
+083/105	käi	1	k äi
+083/107	küh	1	k üh
+083/111	ki	1	k i
+083/113	ki	1	k i
+083/115	ki	1	k i
+083/117	ki	1	k i
+083/119	ki	1	k i
+083/121	küah	1	k üah
+083/129	kiah	1	k iah
+083/131	ki	1	k i
+083/133	kühr	1	k üh r
+083/135	ki	1	k i
+083/139	kiah	1	k iah
+083/143	küah	1	k üah
+083/145	ki	1	k i
+083/147	ki	1	k i
+083/149	kih	1	k ih
+083/173	kii	1	k ii
+083/195	kih	1	k ih
+084/031	kih	1	k ih
+084/033	kieh	1	k ieh
+084/035	keh	1	k eh
+084/037	keh	1	k eh
+084/039	keh	1	k eh
+084/041	käi	1	k äi
+084/043	kih	1	k ih
+084/045	kih	1	k ih
+084/047	kih	1	k ih
+084/049	kii	1	k ii
+084/051	kih	1	k ih
+084/053	kih	1	k ih
+084/055	kih	1	k ih
+084/057	ki	1	k i
+084/059	kiah	1	k iah
+084/061	kiah	1	k iah
+084/063	ki	1	k i
+084/065	kii	1	k ii
+084/067	ki	1	k i
+084/069	ki	1	k i
+084/071	ki	1	k i
+084/073	kü	1	k ü
+084/075	küah	1	k üah
+084/077	küh	1	k üh
+084/079	küh	1	k üh
+084/081	kei	1	k ei
+084/083	küh	1	k üh
+084/085	käih	1	k äih
+084/087	köi	1	k öi
+084/089	küah	1	k üah
+084/091	ki	1	k i
+084/093	käi	1	k äi
+084/095	köi	1	k öi
+084/097	käi	1	k äi
+084/099	käi	1	k äi
+084/101	küh	1	k üh
+084/103	käi	1	k äi
+084/105	ki	1	k i
+084/107	keü	1	k eü
+084/109	küah	1	k üah
+084/111	küh	1	k üh
+084/113	ki	1	k i
+084/115	kiah	1	k iah
+084/117	ki	1	k i
+084/119	keich	1	k ei ch
+084/129	ki	1	k i
+084/131	ki	1	k i
+084/133	ki	1	k i
+084/135	küah	1	k üah
+084/137	ki	1	k i
+084/139	kiah	1	k iah
+084/141	küah	1	k üah
+084/143	kiah	1	k iah
+084/145	kiah	1	k iah
+084/147	ki	1	k i
+084/149	kiah	1	k iah
+084/171	khiih	1	k h iih
+084/173	kii	1	k ii
+084/195	kih	1	k ih
+085/031	kieh	1	k ieh
+085/033	kih	1	k ih
+085/035	keh	1	k eh
+085/037	käi	1	k äi
+085/039	keeih	1	k eeih
+085/041	kej	1	k e j
+085/043	kieh	1	k ieh
+085/045	keeh	1	k eeh
+085/047	kih	1	k ih
+085/049	kih	1	k ih
+085/051	kü	1	k ü
+085/053	ki	1	k i
+085/055	kih	1	k ih
+085/057	ki	1	k i
+085/059	kiah	1	k iah
+085/061	kiah	1	k iah
+085/063	ki	1	k i
+085/065	ki	1	k i
+085/067	ki	1	k i
+085/069	kiah	1	k iah
+085/071	ki	1	k i
+085/073	ki	1	k i
+085/075	küh	1	k üh
+085/077	kü	1	k ü
+085/079	küh	1	k üh
+085/081	kü	1	k ü
+085/083	keh	1	k eh
+085/085	küih	1	k üih
+085/087	kü	1	k ü
+085/089	küah	1	k üah
+085/091	kü	1	k ü
+085/093	kaüh	1	k aüh
+085/095	keih	1	k eih
+085/097	kej	1	k e j
+085/101	ki	1	k i
+085/103	ki	1	k i
+085/105	ki	1	k i
+085/107	kü	1	k ü
+085/109	ki	1	k i
+085/111	ki	1	k i
+085/113	küah	1	k üah
+085/115	küah	1	k üah
+085/117	kiah	1	k iah
+085/119	ki	1	k i
+085/121	ki	1	k i
+085/123	ki	1	k i
+085/125	ki	1	k i
+085/127	kih	1	k ih
+085/129	ki	1	k i
+085/131	kiah	1	k iah
+085/133	ki	1	k i
+085/135	ki	1	k i
+085/137	ki	1	k i
+085/139	kiah	1	k iah
+085/141	kiah	1	k iah
+085/143	ki	1	k i
+085/145	ki	1	k i
+085/147	kiah	1	k iah
+085/149	ki	1	k i
+085/175	koi	1	k oi
+085/193	kii	1	k ii
+085/197	kii	1	k ii
+086/033	keh	1	k eh
+086/035	keai	1	k eai
+086/037	kiej	1	k ie j
+086/039	ke	1	k e
+086/041	kej	1	k e j
+086/043	keh	1	k eh
+086/045	ki	1	k i
+086/047	ki	1	k i
+086/049	küh	1	k üh
+086/051	kiah	1	k iah
+086/053	kih	1	k ih
+086/055	ki	1	k i
+086/057	küah	1	k üah
+086/059	kih	1	k ih
+086/061	ki	1	k i
+086/063	ki	1	k i
+086/065	ki	1	k i
+086/067	kih	1	k ih
+086/069	ki	1	k i
+086/071	küah	1	k üah
+086/073	kü	1	k ü
+086/075	kü	1	k ü
+086/077	küah	1	k üah
+086/079	küah	1	k üah
+086/081	küh	1	k üh
+086/083	küh	1	k üh
+086/085	küah	1	k üah
+086/087	küah	1	k üah
+086/089	kü	1	k ü
+086/091	küah	1	k üah
+086/093	küh	1	k üh
+086/095	küüh	1	k üüh
+086/097	küah	1	k üah
+086/099	kü	1	k ü
+086/101	kü	1	k ü
+086/103	küah	1	k üah
+086/105	kü	1	k ü
+086/107	ki	1	k i
+086/109	küah	1	k üah
+086/111	küah	1	k üah
+086/113	kü	1	k ü
+086/115	küah	1	k üah
+086/117	ki	1	k i
+086/119	ki	1	k i
+086/121	ki	1	k i
+086/123	ki	1	k i
+086/125	kiah	1	k iah
+086/127	kiah	1	k iah
+086/129	ki	1	k i
+086/131	ki	1	k i
+086/133	küah	1	k üah
+086/135	ki	1	k i
+086/137	kiah	1	k iah
+086/139	kiah	1	k iah
+086/141	ki	1	k i
+086/143	kiah	1	k iah
+086/145	kiah	1	k iah
+086/147	ki	1	k i
+086/149	kiah	1	k iah
+086/151	küah	1	k üah
+086/175	kaai	1	k aai
+086/197	kih	1	k ih
+086/199	küh	1	k üh
+087/033	kih	1	k ih
+087/035	keeh	1	k eeh
+087/037	ki	1	k i
+087/039	ki	1	k i
+087/041	kiej	1	k ie j
+087/043	ki	1	k i
+087/045	ki	1	k i
+087/049	kih	1	k ih
+087/051	kiah	1	k iah
+087/053	ki	1	k i
+087/055	ki	1	k i
+087/057	ki	1	k i
+087/059	küah	1	k üah
+087/061	ki	1	k i
+087/063	ki	1	k i
+087/065	ki	1	k i
+087/067	ki	1	k i
+087/069	kii	1	k ii
+087/071	ki	1	k i
+087/073	küah	1	k üah
+087/075	küh	1	k üh
+087/077	küah	1	k üah
+087/079	küh	1	k üh
+087/081	kih	1	k ih
+087/083	ki	1	k i
+087/085	küah	1	k üah
+087/087	küü	1	k üü
+087/089	kiah	1	k iah
+087/091	küah	1	k üah
+087/093	küah	1	k üah
+087/095	kü	1	k ü
+087/097	kü	1	k ü
+087/099	küah	1	k üah
+087/101	küah	1	k üah
+087/103	küh	1	k üh
+087/105	kiah	1	k iah
+087/107	küah	1	k üah
+087/109	kü	1	k ü
+087/111	kü	1	k ü
+087/113	NA	NA	-
+087/115	ki	1	k i
+087/117	ki	1	k i
+087/119	küah	1	k üah
+087/121	ki	1	k i
+087/123	ki	1	k i
+087/125	küah	1	k üah
+087/127	ki	1	k i
+087/129	kü	1	k ü
+087/133	ki	1	k i
+087/135	kiah	1	k iah
+087/137	ki	1	k i
+087/139	ki	1	k i
+087/141	ki	1	k i
+087/143	ki	1	k i
+087/145	kiah	1	k iah
+087/147	kir	1	k i r
+087/149	ki	1	k i
+087/151	küah	1	k üah
+088/035	ki	1	k i
+088/037	keh	1	k eh
+088/039	kiah	1	k iah
+088/041	kii	1	k ii
+088/043	kiäh	1	k iäh
+088/045	kieh	1	k ieh
+088/047	kii	1	k ii
+088/049	kii	1	k ii
+088/051	ki	1	k i
+088/053	kü	1	k ü
+088/055	kiah	1	k iah
+088/057	ki	1	k i
+088/059	kih	1	k ih
+088/061	küah	1	k üah
+088/063	kü	1	k ü
+088/065	ki	1	k i
+088/067	ki	1	k i
+088/069	ki	1	k i
+088/071	kih	1	k ih
+088/073	küh	1	k üh
+088/075	küh	1	k üh
+088/077	kü	1	k ü
+088/079	küah	1	k üah
+088/081	kü	1	k ü
+088/083	kiah	1	k iah
+088/085	küah	1	k üah
+088/087	küah	1	k üah
+088/089	küh	1	k üh
+088/091	küah	1	k üah
+088/093	kü	1	k ü
+088/095	küah	1	k üah
+088/097	kü	1	k ü
+088/099	kü	1	k ü
+088/101	kü	1	k ü
+088/103	kii	1	k ii
+088/105	ki	1	k i
+088/107	küh	1	k üh
+088/109	küah	1	k üah
+088/113	küah	1	k üah
+088/115	küah	1	k üah
+088/117	kiah	1	k iah
+088/121	kiah	1	k iah
+088/123	küah	1	k üah
+088/127	kiah	1	k iah
+088/129	ki	1	k i
+088/131	ki	1	k i
+088/137	kiah	1	k iah
+088/139	ki	1	k i
+088/141	ki	1	k i
+088/143	ki	1	k i
+088/145	kiah	1	k iah
+088/147	kiah	1	k iah
+088/149	kiah	1	k iah
+089/035	kiah	1	k iah
+089/037	ke	1	k e
+089/039	ki	1	k i
+089/041	keaij	1	k eai j
+089/043	ki	1	k i
+089/045	küj	1	k ü j
+089/047	ki	1	k i
+089/049	kih	1	k ih
+089/051	ki	1	k i
+089/053	kiah	1	k iah
+089/055	ki	1	k i
+089/057	ki	1	k i
+089/059	ki	1	k i
+089/061	ki	1	k i
+089/063	ki	1	k i
+089/065	ki	1	k i
+089/067	küh	1	k üh
+089/069	ki	1	k i
+089/071	küah	1	k üah
+089/073	küah	1	k üah
+089/075	küah	1	k üah
+089/077	küah	1	k üah
+089/079	küh	1	k üh
+089/081	küh	1	k üh
+089/083	kü	1	k ü
+089/085	küh	1	k üh
+089/087	küh	1	k üh
+089/089	kü	1	k ü
+089/091	kü	1	k ü
+089/093	ki	1	k i
+089/095	kü	1	k ü
+089/097	ki	1	k i
+089/099	kü	1	k ü
+089/101	küah	1	k üah
+089/103	ki	1	k i
+089/105	ki	1	k i
+089/107	ki	1	k i
+089/109	ki	1	k i
+089/111	ki	1	k i
+089/113	küah	1	k üah
+089/115	kü	1	k ü
+089/117	ki	1	k i
+089/119	ki	1	k i
+089/121	köah	1	k öah
+089/123	kü	1	k ü
+089/125	kü	1	k ü
+089/127	kü	1	k ü
+089/129	ki	1	k i
+089/131	ki	1	k i
+089/133	ki	1	k i
+089/135	ki	1	k i
+089/137	kiah	1	k iah
+089/139	kiah	1	k iah
+089/141	kir	1	k i r
+089/143	ki	1	k i
+089/145	kiah	1	k iah
+089/147	ki	1	k i
+089/149	ki	1	k i
+090/035	ki	1	k i
+090/037	kej	1	k e j
+090/039	ki	1	k i
+090/041	ke	1	k e
+090/043	kiah	1	k iah
+090/045	kiah	1	k iah
+090/047	küh	1	k üh
+090/049	kiah	1	k iah
+090/051	kieh	1	k ieh
+090/053	kiah	1	k iah
+090/055	kiah	1	k iah
+090/057	ki	1	k i
+090/059	küah	1	k üah
+090/061	küh	1	k üh
+090/063	kih	1	k ih
+090/065	küh	1	k üh
+090/067	kiah	1	k iah
+090/069	ki	1	k i
+090/071	kü	1	k ü
+090/073	kü	1	k ü
+090/075	kü	1	k ü
+090/077	kü	1	k ü
+090/079	küah	1	k üah
+090/081	küh	1	k üh
+090/083	küah	1	k üah
+090/085	küah	1	k üah
+090/087	kü	1	k ü
+090/089	ki	1	k i
+090/091	küh	1	k üh
+090/093	kiah	1	k iah
+090/095	kä	1	k ä
+090/097	kiah	1	k iah
+090/099	küah	1	k üah
+090/101	küh	1	k üh
+090/103	küah	1	k üah
+090/105	küah	1	k üah
+090/107	küah	1	k üah
+090/109	kiah	1	k iah
+090/111	kiah	1	k iah
+090/113	küah	1	k üah
+090/115	kiah	1	k iah
+090/119	ki	1	k i
+090/121	kiah	1	k iah
+090/123	ki	1	k i
+090/125	kü	1	k ü
+090/127	küah	1	k üah
+090/129	ki	1	k i
+090/131	kiah	1	k iah
+090/133	ki	1	k i
+090/135	kiah	1	k iah
+090/137	kiah	1	k iah
+090/139	ki	1	k i
+090/141	ki	1	k i
+090/143	ki	1	k i
+090/145	kiah	1	k iah
+090/147	ki	1	k i
+090/149	kiah	1	k iah
+090/151	ki	1	k i
+091/035	käj	1	k ä j
+091/037	ke	1	k e
+091/039	ke	1	k e
+091/041	ke	1	k e
+091/043	ki	1	k i
+091/045	ki	1	k i
+091/047	kiah	1	k iah
+091/049	ki	1	k i
+091/051	kih	1	k ih
+091/053	kiiah	1	k iiah
+091/055	ki	1	k i
+091/057	ki	1	k i
+091/059	ki	1	k i
+091/061	kü	1	k ü
+091/063	ki	1	k i
+091/065	kii	1	k ii
+091/067	ki	1	k i
+091/069	ki	1	k i
+091/071	kü	1	k ü
+091/073	kü	1	k ü
+091/075	küh	1	k üh
+091/077	küah	1	k üah
+091/079	kü	1	k ü
+091/081	küah	1	k üah
+091/083	küah	1	k üah
+091/085	küah	1	k üah
+091/087	kü	1	k ü
+091/091	küah	1	k üah
+091/093	küah	1	k üah
+091/095	küh	1	k üh
+091/097	kii	1	k ii
+091/099	ki	1	k i
+091/101	ki	1	k i
+091/103	kiaah	1	k iaah
+091/105	küah	1	k üah
+091/107	ki	1	k i
+091/109	küah	1	k üah
+091/111	ki	1	k i
+091/113	küah	1	k üah
+091/115	ki	1	k i
+091/117	ki	1	k i
+091/119	küah	1	k üah
+091/121	küah	1	k üah
+091/125	kü	1	k ü
+091/129	ki	1	k i
+091/131	küah	1	k üah
+091/133	kih	1	k ih
+091/135	küh	1	k üh
+091/137	ki	1	k i
+091/139	kiah	1	k iah
+091/141	ki	1	k i
+091/143	ki	1	k i
+091/145	kiah	1	k iah
+091/147	kiah	1	k iah
+091/149	ki	1	k i
+091/151	ki	1	k i
+091/155	kii	1	k ii
+092/033	kiäh	1	k iäh
+092/035	kiajh	1	k ia j h
+092/037	kiaj	1	k ia j
+092/039	kiaih	1	k iaih
+092/041	kiah	1	k iah
+092/043	küh	1	k üh
+092/045	chü	1	ch ü
+092/047	ki	1	k i
+092/049	ki	1	k i
+092/051	ki	1	k i
+092/053	kii	1	k ii
+092/055	kii	1	k ii
+092/057	kih	1	k ih
+092/059	ki	1	k i
+092/061	küah	1	k üah
+092/063	kij	1	k i j
+092/065	küh	1	k üh
+092/067	küh	1	k üh
+092/069	ki	1	k i
+092/071	ki	1	k i
+092/073	küah	1	k üah
+092/075	kü	1	k ü
+092/077	kü	1	k ü
+092/079	küh	1	k üh
+092/081	kiah	1	k iah
+092/083	küah	1	k üah
+092/085	küah	1	k üah
+092/087	küah	1	k üah
+092/089	kü	1	k ü
+092/091	kü	1	k ü
+092/093	ki	1	k i
+092/095	ki	1	k i
+092/097	ki	1	k i
+092/099	küah	1	k üah
+092/101	küi	1	k üi
+092/103	küah	1	k üah
+092/105	ki	1	k i
+092/107	küah	1	k üah
+092/109	ki	1	k i
+092/111	kiah	1	k iah
+092/113	küah	1	k üah
+092/115	küah	1	k üah
+092/117	kiah	1	k iah
+092/119	küah	1	k üah
+092/121	kiah	1	k iah
+092/123	kü	1	k ü
+092/125	kiah	1	k iah
+092/127	küah	1	k üah
+092/129	küah	1	k üah
+092/131	kiah	1	k iah
+092/133	kiah	1	k iah
+092/135	küah	1	k üah
+092/137	küah	1	k üah
+092/139	kü	1	k ü
+092/141	kiah	1	k iah
+092/143	kiah	1	k iah
+092/145	kii	1	k ii
+092/147	ki	1	k i
+092/149	kiah	1	k iah
+092/151	ki	1	k i
+093/035	kiaj	1	k ia j
+093/037	ki	1	k i
+093/039	ki	1	k i
+093/041	ki	1	k i
+093/043	kieh	1	k ieh
+093/045	küh	1	k üh
+093/047	kii	1	k ii
+093/049	kiaj	1	k ia j
+093/051	küihj	1	k üih j
+093/053	ki	1	k i
+093/055	ki	1	k i
+093/057	kiah	1	k iah
+093/059	ki	1	k i
+093/061	ki	1	k i
+093/063	kiih	1	k iih
+093/065	küh	1	k üh
+093/067	ki	1	k i
+093/069	ki	1	k i
+093/071	küh	1	k üh
+093/073	küah	1	k üah
+093/075	kü	1	k ü
+093/077	küh	1	k üh
+093/079	küah	1	k üah
+093/081	ki	1	k i
+093/083	küah	1	k üah
+093/085	kü	1	k ü
+093/087	küah	1	k üah
+093/089	kü	1	k ü
+093/091	kiah	1	k iah
+093/093	kü	1	k ü
+093/095	küah	1	k üah
+093/097	küah	1	k üah
+093/099	küah	1	k üah
+093/101	küh	1	k üh
+093/103	kü	1	k ü
+093/105	kiah	1	k iah
+093/109	ki	1	k i
+093/111	ki	1	k i
+093/113	kü	1	k ü
+093/115	küah	1	k üah
+093/117	kü	1	k ü
+093/119	ki	1	k i
+093/121	küah	1	k üah
+093/123	ki	1	k i
+093/125	ki	1	k i
+093/127	ki	1	k i
+093/129	küah	1	k üah
+093/131	kiah	1	k iah
+093/133	kü	1	k ü
+093/137	kiah	1	k iah
+093/139	ki	1	k i
+093/143	ki	1	k i
+093/145	ki	1	k i
+093/147	ki	1	k i
+093/149	kiah	1	k iah
+093/151	ki	1	k i
+093/153	ki	1	k i
+093/155	kiah	1	k iah
+094/033	kee	1	k ee
+094/035	ke	1	k e
+094/037	ki	1	k i
+094/039	kä	1	k ä
+094/041	chi	1	ch i
+094/043	ki	1	k i
+094/045	kieih	1	k ieih
+094/047	khi	1	k h i
+094/049	kiah	1	k iah
+094/051	kij	1	k i j
+094/053	ki	1	k i
+094/055	ki	1	k i
+094/057	khi	1	k h i
+094/059	ki	1	k i
+094/061	NA	NA	-
+094/063	küah	1	k üah
+094/065	ki	1	k i
+094/067	ki	1	k i
+094/069	kiah	1	k iah
+094/071	keah	1	k eah
+094/073	ki	1	k i
+094/075	küaah	1	k üaah
+094/077	kü	1	k ü
+094/079	küah	1	k üah
+094/081	küah	1	k üah
+094/083	kih	1	k ih
+094/085	kiüh	1	k iüh
+094/087	kiah	1	k iah
+094/089	küah	1	k üah
+094/091	küh	1	k üh
+094/093	kü	1	k ü
+094/095	ki	1	k i
+094/097	kü	1	k ü
+094/099	ki	1	k i
+094/101	ki	1	k i
+094/103	kiah	1	k iah
+094/105	ki	1	k i
+094/107	küah	1	k üah
+094/109	küah	1	k üah
+094/111	küah	1	k üah
+094/113	küah	1	k üah
+094/115	ki	1	k i
+094/117	kü	1	k ü
+094/119	küah	1	k üah
+094/121	kiah	1	k iah
+094/123	kiah	1	k iah
+094/125	ki	1	k i
+094/127	küah	1	k üah
+094/129	küah	1	k üah
+094/131	kiah	1	k iah
+094/133	ki	1	k i
+094/135	küah	1	k üah
+094/137	kü	1	k ü
+094/139	ki	1	k i
+094/141	kiah	1	k iah
+094/143	kiah	1	k iah
+094/145	küah	1	k üah
+094/147	ki	1	k i
+094/149	ki	1	k i
+094/151	ki	1	k i
+094/153	küah	1	k üah
+095/031	chiah	1	ch iah
+095/033	ki	1	k i
+095/035	ki	1	k i
+095/037	kiah	1	k iah
+095/039	ki	1	k i
+095/041	chi	1	ch i
+095/043	kü	1	k ü
+095/045	kü	1	k ü
+095/047	kij	1	k i j
+095/049	kiaj	1	k ia j
+095/051	ki	1	k i
+095/053	kih	1	k ih
+095/055	chi	1	ch i
+095/057	ki	1	k i
+095/059	ki	1	k i
+095/061	kiah	1	k iah
+095/063	kü	1	k ü
+095/065	ki	1	k i
+095/067	küh	1	k üh
+095/069	küah	1	k üah
+095/071	küh	1	k üh
+095/073	ki	1	k i
+095/075	ki	1	k i
+095/077	küah	1	k üah
+095/079	küah	1	k üah
+095/081	küah	1	k üah
+095/083	küh	1	k üh
+095/085	ki	1	k i
+095/087	ki	1	k i
+095/089	ki	1	k i
+095/091	küah	1	k üah
+095/093	küah	1	k üah
+095/095	kiah	1	k iah
+095/097	küah	1	k üah
+095/099	küah	1	k üah
+095/101	küah	1	k üah
+095/103	kiah	1	k iah
+095/105	küh	1	k üh
+095/107	küah	1	k üah
+095/109	kiah	1	k iah
+095/111	kü	1	k ü
+095/113	küah	1	k üah
+095/115	kiah	1	k iah
+095/117	kiah	1	k iah
+095/119	küah	1	k üah
+095/121	ki	1	k i
+095/123	ki	1	k i
+095/125	ki	1	k i
+095/129	kiah	1	k iah
+095/131	kiah	1	k iah
+095/133	küah	1	k üah
+095/139	ki	1	k i
+095/141	küah	1	k üah
+095/143	ki	1	k i
+095/145	ki	1	k i
+095/147	ki	1	k i
+095/149	kiah	1	k iah
+095/151	kiah	1	k iah
+095/153	ki	1	k i
+095/155	ki	1	k i
+096/031	ki	1	k i
+096/033	ki	1	k i
+096/035	kih	1	k ih
+096/037	ki	1	k i
+096/039	kiah	1	k iah
+096/041	chü	1	ch ü
+096/043	chü	1	ch ü
+096/045	ki	1	k i
+096/047	kiej	1	k ie j
+096/049	chüj	1	ch ü j
+096/051	chiäj	1	ch iä j
+096/053	ki	1	k i
+096/055	ki	1	k i
+096/057	kiäh	1	k iäh
+096/059	kü	1	k ü
+096/061	kü	1	k ü
+096/063	küh	1	k üh
+096/065	küh	1	k üh
+096/067	kü	1	k ü
+096/069	küh	1	k üh
+096/071	kiah	1	k iah
+096/075	küah	1	k üah
+096/077	kie	1	k ie
+096/079	ki	1	k i
+096/081	kü	1	k ü
+096/083	kiah	1	k iah
+096/085	küü	1	k üü
+096/087	ki	1	k i
+096/089	kü	1	k ü
+096/091	ki	1	k i
+096/093	kü	1	k ü
+096/095	ki	1	k i
+096/097	küah	1	k üah
+096/099	ki	1	k i
+096/101	küah	1	k üah
+096/103	küh	1	k üh
+096/105	küah	1	k üah
+096/107	küah	1	k üah
+096/109	kü	1	k ü
+096/111	ki	1	k i
+096/113	kir	1	k i r
+096/115	kiah	1	k iah
+096/117	kiah	1	k iah
+096/119	kiah	1	k iah
+096/121	kii	1	k ii
+096/123	kü	1	k ü
+096/125	khi	1	k h i
+096/129	küah	1	k üah
+096/131	kü	1	k ü
+096/135	kiah	1	k iah
+096/137	kiah	1	k iah
+096/139	ki	1	k i
+096/141	kiah	1	k iah
+096/143	ki	1	k i
+096/145	kiah	1	k iah
+096/147	khi	1	k h i
+096/151	ki	1	k i
+096/153	ki	1	k i
+096/155	khi	1	k h i
+097/031	ki	1	k i
+097/033	küah	1	k üah
+097/035	ki	1	k i
+097/037	ke	1	k e
+097/039	chiehj	1	ch ieh j
+097/041	chi	1	ch i
+097/043	chüh	1	ch üh
+097/045	chü	1	ch ü
+097/047	chü	1	ch ü
+097/049	chiäj	1	ch iä j
+097/051	chi	1	ch i
+097/053	cheah	1	ch eah
+097/055	ki	1	k i
+097/057	ki	1	k i
+097/059	ki	1	k i
+097/061	ki	1	k i
+097/063	küah	1	k üah
+097/065	küah	1	k üah
+097/067	küh	1	k üh
+097/069	ki	1	k i
+097/071	küh	1	k üh
+097/073	küah	1	k üah
+097/075	küah	1	k üah
+097/077	küah	1	k üah
+097/079	küah	1	k üah
+097/081	küah	1	k üah
+097/083	kiah	1	k iah
+097/085	küh	1	k üh
+097/087	kiah	1	k iah
+097/089	küah	1	k üah
+097/091	kiah	1	k iah
+097/093	ku	1	k u
+097/095	küh	1	k üh
+097/097	kü	1	k ü
+097/099	küh	1	k üh
+097/103	kü	1	k ü
+097/105	kiah	1	k iah
+097/107	küah	1	k üah
+097/109	ki	1	k i
+097/113	kiah	1	k iah
+097/125	kü	1	k ü
+097/131	ki	1	k i
+097/133	kiah	1	k iah
+097/139	ki	1	k i
+097/141	kiah	1	k iah
+097/143	küah	1	k üah
+097/145	khi	1	k h i
+097/149	kiah	1	k iah
+097/153	küah	1	k üah
+098/033	ke	1	k e
+098/035	kiah	1	k iah
+098/037	kiah	1	k iah
+098/039	chi	1	ch i
+098/041	chü	1	ch ü
+098/043	chü	1	ch ü
+098/045	kchü	1	k ch ü
+098/047	chü	1	ch ü
+098/049	chü	1	ch ü
+098/051	chü	1	ch ü
+098/053	chüj	1	ch ü j
+098/055	kie	1	k ie
+098/057	ki	1	k i
+098/059	ki	1	k i
+098/061	kiah	1	k iah
+098/063	ki	1	k i
+098/065	küh	1	k üh
+098/067	kä	1	k ä
+098/069	küh	1	k üh
+098/071	kiah	1	k iah
+098/073	kü	1	k ü
+098/075	küah	1	k üah
+098/077	ki	1	k i
+098/079	küh	1	k üh
+098/081	küah	1	k üah
+098/083	küah	1	k üah
+098/085	küah	1	k üah
+098/087	kü	1	k ü
+098/089	küah	1	k üah
+098/091	küah	1	k üah
+098/093	kü	1	k ü
+098/095	kü	1	k ü
+098/097	kü	1	k ü
+098/103	küh	1	k üh
+098/105	kiah	1	k iah
+098/107	kü	1	k ü
+098/109	küh	1	k üh
+098/111	küah	1	k üah
+098/119	kü	1	k ü
+098/123	kiah	1	k iah
+098/125	ki	1	k i
+098/127	kiah	1	k iah
+098/135	kiah	1	k iah
+098/137	ki	1	k i
+098/139	küah	1	k üah
+098/141	ki	1	k i
+098/143	ki	1	k i
+098/145	ki	1	k i
+098/147	ki	1	k i
+098/149	ki	1	k i
+098/151	kiah	1	k iah
+099/033	ki	1	k i
+099/035	ki	1	k i
+099/037	chi	1	ch i
+099/039	ki	1	k i
+099/041	chüij	1	ch üi j
+099/043	chü	1	ch ü
+099/045	chü	1	ch ü
+099/047	chü	1	ch ü
+099/049	chü	1	ch ü
+099/051	chüej	1	ch üe j
+099/053	chüj	1	ch ü j
+099/055	chü	1	ch ü
+099/057	chü	1	ch ü
+099/059	kü	1	k ü
+099/063	kiah	1	k iah
+099/065	kü	1	k ü
+099/067	kieh	1	k ieh
+099/069	kü	1	k ü
+099/071	küh	1	k üh
+099/073	küh	1	k üh
+099/075	kü	1	k ü
+099/077	kü	1	k ü
+099/081	küah	1	k üah
+099/083	kü	1	k ü
+099/085	kü	1	k ü
+099/089	ki	1	k i
+099/093	kü	1	k ü
+099/095	kiah	1	k iah
+099/099	küah	1	k üah
+099/101	küah	1	k üah
+099/103	küah	1	k üah
+099/105	kü	1	k ü
+099/107	kü	1	k ü
+099/109	küah	1	k üah
+099/111	ki	1	k i
+099/113	kiah	1	k iah
+099/121	kiah	1	k iah
+099/123	kiah	1	k iah
+099/125	küah	1	k üah
+099/131	ki	1	k i
+099/137	kiah	1	k iah
+099/139	kiah	1	k iah
+099/141	kiah	1	k iah
+099/143	ki	1	k i
+099/145	ki	1	k i
+099/147	ki	1	k i
+100/033	kiäh	1	k iäh
+100/035	ki	1	k i
+100/037	chi	1	ch i
+100/039	ki	1	k i
+100/041	chü	1	ch ü
+100/043	chü	1	ch ü
+100/045	chü	1	ch ü
+100/049	chü	1	ch ü
+100/051	chü	1	ch ü
+100/053	chü	1	ch ü
+100/055	chü	1	ch ü
+100/057	chüej	1	ch üe j
+100/059	chü	1	ch ü
+100/061	chü	1	ch ü
+100/065	küah	1	k üah
+100/067	ki	1	k i
+100/069	kü	1	k ü
+100/071	ki	1	k i
+100/073	küh	1	k üh
+100/075	kü	1	k ü
+100/077	kü	1	k ü
+100/081	küah	1	k üah
+100/083	ki	1	k i
+100/089	ki	1	k i
+100/093	kiah	1	k iah
+100/095	ki	1	k i
+100/097	ki	1	k i
+100/099	küah	1	k üah
+100/101	kiah	1	k iah
+100/109	ki	1	k i
+100/111	kieh	1	k ieh
+100/113	ki	1	k i
+100/115	kiah	1	k iah
+100/117	küah	1	k üah
+100/119	küah	1	k üah
+100/121	kiah	1	k iah
+100/125	ki	1	k i
+100/127	küah	1	k üah
+100/129	küah	1	k üah
+100/133	küh	1	k üh
+100/135	küah	1	k üah
+100/141	kiah	1	k iah
+100/143	ki	1	k i
+100/145	kiah	1	k iah
+101/035	chi	1	ch i
+101/037	chi	1	ch i
+101/039	chi	1	ch i
+101/041	chü	1	ch ü
+101/043	chü	1	ch ü
+101/045	chü	1	ch ü
+101/047	chü	1	ch ü
+101/049	chü	1	ch ü
+101/051	chü	1	ch ü
+101/053	chy	1	ch y
+101/055	chü	1	ch ü
+101/057	chü	1	ch ü
+101/059	chü	1	ch ü
+101/061	chü	1	ch ü
+101/063	chü	1	ch ü
+101/065	kü	1	k ü
+101/067	küh	1	k üh
+101/071	kieh	1	k ieh
+101/075	kü	1	k ü
+101/077	ki	1	k i
+101/079	küh	1	k üh
+101/081	kü	1	k ü
+101/091	ki	1	k i
+101/093	kiah	1	k iah
+101/095	kü	1	k ü
+101/097	kü	1	k ü
+101/099	kü	1	k ü
+101/101	ki	1	k i
+101/103	ki	1	k i
+101/107	kü	1	k ü
+101/109	küah	1	k üah
+101/113	ki	1	k i
+101/115	kiah	1	k iah
+101/121	ki	1	k i
+101/125	kiah	1	k iah
+101/129	kü	1	k ü
+101/131	küah	1	k üah
+101/133	küah	1	k üah
+101/137	ki	1	k i
+101/139	kiah	1	k iah
+101/141	ki	1	k i
+101/143	kü	1	k ü
+101/145	khi	1	k h i
+101/147	ki	1	k i
+102/037	chi	1	ch i
+102/039	chü	1	ch ü
+102/041	chü	1	ch ü
+102/043	chü	1	ch ü
+102/045	chü	1	ch ü
+102/047	chü	1	ch ü
+102/049	chü	1	ch ü
+102/051	chü	1	ch ü
+102/053	chü	1	ch ü
+102/055	chü	1	ch ü
+102/057	chü	1	ch ü
+102/059	chü	1	ch ü
+102/061	chü	1	ch ü
+102/063	chü	1	ch ü
+102/065	kü	1	k ü
+102/067	kü	1	k ü
+102/069	chü	1	ch ü
+102/071	küah	1	k üah
+102/073	ki	1	k i
+102/075	ki	1	k i
+102/077	kü	1	k ü
+102/079	ki	1	k i
+102/081	küah	1	k üah
+102/083	küah	1	k üah
+102/089	ki	1	k i
+102/091	kiah	1	k iah
+102/093	ki	1	k i
+102/095	ki	1	k i
+102/097	ku	1	k u
+102/099	kü	1	k ü
+102/103	ki	1	k i
+102/107	kü	1	k ü
+102/109	ki	1	k i
+102/113	küah	1	k üah
+102/115	kü	1	k ü
+102/127	küah	1	k üah
+102/129	kiah	1	k iah
+102/131	ki	1	k i
+102/135	küah	1	k üah
+102/137	küah	1	k üah
+102/139	kiah	1	k iah
+102/141	ki	1	k i
+102/143	ki	1	k i
+102/145	ki	1	k i
+103/039	chü	1	ch ü
+103/041	chü	1	ch ü
+103/043	chü	1	ch ü
+103/045	chü	1	ch ü
+103/047	chü	1	ch ü
+103/049	chü	1	ch ü
+103/051	chü	1	ch ü
+103/053	chü	1	ch ü
+103/055	chü	1	ch ü
+103/057	chü	1	ch ü
+103/059	chü	1	ch ü
+103/063	chü	1	ch ü
+103/065	kü	1	k ü
+103/067	kü	1	k ü
+103/069	kü	1	k ü
+103/071	kü	1	k ü
+103/073	küah	1	k üah
+103/075	ki	1	k i
+103/077	kiah	1	k iah
+103/079	kiah	1	k iah
+103/081	ki	1	k i
+103/083	kiah	1	k iah
+103/085	kiah	1	k iah
+103/087	kiah	1	k iah
+103/089	kiah	1	k iah
+103/091	küah	1	k üah
+103/097	kiah	1	k iah
+103/099	kiah	1	k iah
+103/101	ki	1	k i
+103/105	kü	1	k ü
+103/107	kchi	1	k ch i
+103/111	kü	1	k ü
+103/121	kiah	1	k iah
+103/125	küah	1	k üah
+103/127	kiah	1	k iah
+103/131	ki	1	k i
+103/133	kü	1	k ü
+103/135	küah	1	k üah
+103/137	kiah	1	k iah
+103/139	kiah	1	k iah
+103/141	kiah	1	k iah
+103/143	ki	1	k i
+103/145	ki	1	k i
+104/033	chü	1	ch ü
+104/035	chü	1	ch ü
+104/037	chü	1	ch ü
+104/039	chü	1	ch ü
+104/041	chü	1	ch ü
+104/043	chü	1	ch ü
+104/045	chü	1	ch ü
+104/047	chü	1	ch ü
+104/049	chü	1	ch ü
+104/051	chü	1	ch ü
+104/053	chü	1	ch ü
+104/055	chu	1	ch u
+104/057	chü	1	ch ü
+104/059	chü	1	ch ü
+104/061	chü	1	ch ü
+104/063	küah	1	k üah
+104/065	küah	1	k üah
+104/067	chü	1	ch ü
+104/071	ki	1	k i
+104/075	kiah	1	k iah
+104/077	ki	1	k i
+104/079	kü	1	k ü
+104/081	kieh	1	k ieh
+104/083	kiah	1	k iah
+104/085	kiah	1	k iah
+104/091	ki	1	k i
+104/095	ki	1	k i
+104/101	kiah	1	k iah
+104/103	küah	1	k üah
+104/107	ki	1	k i
+104/111	khi	1	k h i
+104/113	kü	1	k ü
+104/119	ki	1	k i
+104/121	ki	1	k i
+104/123	khii	1	k h ii
+104/125	ki	1	k i
+104/127	kiah	1	k iah
+104/131	kiah	1	k iah
+104/133	kü	1	k ü
+104/135	küah	1	k üah
+104/137	kiah	1	k iah
+104/139	kiah	1	k iah
+104/141	kiah	1	k iah
+104/143	ki	1	k i
+104/145	ki	1	k i
+105/031	chü	1	ch ü
+105/033	chü	1	ch ü
+105/035	chü	1	ch ü
+105/037	chü	1	ch ü
+105/039	chü	1	ch ü
+105/041	chü	1	ch ü
+105/043	chü	1	ch ü
+105/045	chü	1	ch ü
+105/047	chü	1	ch ü
+105/049	chü	1	ch ü
+105/051	chü	1	ch ü
+105/053	chü	1	ch ü
+105/055	chü	1	ch ü
+105/057	chü	1	ch ü
+105/059	chü	1	ch ü
+105/061	chü	1	ch ü
+105/063	kü	1	k ü
+105/065	kü	1	k ü
+105/067	küah	1	k üah
+105/069	kü	1	k ü
+105/071	kü	1	k ü
+105/073	kü	1	k ü
+105/075	ki	1	k i
+105/077	küah	1	k üah
+105/079	kiäh	1	k iäh
+105/081	ki	1	k i
+105/085	küah	1	k üah
+105/087	ku	1	k u
+105/089	küh	1	k üh
+105/103	küh	1	k üh
+105/105	kiah	1	k iah
+105/111	ki	1	k i
+105/113	kiah	1	k iah
+105/115	ki	1	k i
+105/117	kü	1	k ü
+105/119	küah	1	k üah
+105/121	ki	1	k i
+105/125	ki	1	k i
+105/127	küah	1	k üah
+105/131	küh	1	k üh
+105/133	ki	1	k i
+105/135	ki	1	k i
+105/137	kiah	1	k iah
+105/141	kiah	1	k iah
+105/143	ki	1	k i
+105/145	küh	1	k üh
+106/033	chü	1	ch ü
+106/035	chü	1	ch ü
+106/037	chü	1	ch ü
+106/039	chü	1	ch ü
+106/041	chü	1	ch ü
+106/043	chü	1	ch ü
+106/045	chü	1	ch ü
+106/047	chü	1	ch ü
+106/049	chü	1	ch ü
+106/051	chü	1	ch ü
+106/053	chü	1	ch ü
+106/057	chü	1	ch ü
+106/061	chü	1	ch ü
+106/063	chü	1	ch ü
+106/067	kü	1	k ü
+106/071	küah	1	k üah
+106/073	ki	1	k i
+106/075	kiah	1	k iah
+106/077	kiah	1	k iah
+106/079	küh	1	k üh
+106/081	kiah	1	k iah
+106/085	ki	1	k i
+106/087	ki	1	k i
+106/093	ki	1	k i
+106/097	kieh	1	k ieh
+106/099	ki	1	k i
+106/103	kü	1	k ü
+106/111	kü	1	k ü
+106/115	kiah	1	k iah
+106/121	kiah	1	k iah
+106/123	ki	1	k i
+106/125	kiah	1	k iah
+106/129	küah	1	k üah
+106/131	küah	1	k üah
+106/133	ki	1	k i
+106/135	kü	1	k ü
+106/137	küah	1	k üah
+106/139	küah	1	k üah
+106/141	kiah	1	k iah
+106/143	kiah	1	k iah
+106/145	ki	1	k i
+107/033	chü	1	ch ü
+107/035	chü	1	ch ü
+107/037	chü	1	ch ü
+107/039	chu	1	ch u
+107/041	chü	1	ch ü
+107/043	chü	1	ch ü
+107/045	chü	1	ch ü
+107/047	chieh	1	ch ieh
+107/049	chi	1	ch i
+107/051	chü	1	ch ü
+107/053	chü	1	ch ü
+107/057	chü	1	ch ü
+107/059	chü	1	ch ü
+107/063	chü	1	ch ü
+107/065	chü	1	ch ü
+107/071	küh	1	k üh
+107/075	kiah	1	k iah
+107/081	ku	1	k u
+107/085	kieh	1	k ieh
+107/087	ki	1	k i
+107/089	ki	1	k i
+107/091	ki	1	k i
+107/097	kih	1	k ih
+107/099	kieh	1	k ieh
+107/103	kij	1	k i j
+107/105	küah	1	k üah
+107/107	küah	1	k üah
+107/111	ki	1	k i
+107/119	kü	1	k ü
+107/121	kiah	1	k iah
+107/123	küah	1	k üah
+107/125	ki	1	k i
+107/127	ki	1	k i
+107/129	küah	1	k üah
+107/131	kiah	1	k iah
+107/133	küah	1	k üah
+107/135	kiah	1	k iah
+107/137	kiah	1	k iah
+107/139	küah	1	k üah
+107/141	ki	1	k i
+107/143	kiah	1	k iah
+108/033	chü	1	ch ü
+108/035	chü	1	ch ü
+108/037	chü	1	ch ü
+108/039	chü	1	ch ü
+108/041	chü	1	ch ü
+108/043	chü	1	ch ü
+108/047	chi	1	ch i
+108/049	chi	1	ch i
+108/063	kü	1	k ü
+108/065	chü	1	ch ü
+108/067	chü	1	ch ü
+108/075	kiah	1	k iah
+108/079	küh	1	k üh
+108/081	kü	1	k ü
+108/085	kiäh	1	k iäh
+108/087	ki	1	k i
+108/091	ki	1	k i
+108/099	küj	1	k ü j
+108/101	kieh	1	k ieh
+108/103	ki	1	k i
+108/105	ki	1	k i
+108/109	kü	1	k ü
+108/111	küh	1	k üh
+108/113	küah	1	k üah
+108/117	küah	1	k üah
+108/119	ki	1	k i
+108/121	kü	1	k ü
+108/123	ki	1	k i
+108/125	küah	1	k üah
+108/127	küah	1	k üah
+108/129	kiah	1	k iah
+108/131	kü	1	k ü
+108/133	küah	1	k üah
+108/135	küah	1	k üah
+108/137	kiah	1	k iah
+108/139	kiah	1	k iah
+108/141	kiah	1	k iah
+109/035	chü	1	ch ü
+109/037	chü	1	ch ü
+109/039	chü	1	ch ü
+109/041	chü	1	ch ü
+109/043	chü	1	ch ü
+109/045	chi	1	ch i
+109/049	chi	1	ch i
+109/053	chü	1	ch ü
+109/061	chi	1	ch i
+109/063	chü	1	ch ü
+109/065	chü	1	ch ü
+109/067	chü	1	ch ü
+109/075	ki	1	k i
+109/083	kü	1	k ü
+109/087	ki	1	k i
+109/089	ki	1	k i
+109/091	ki	1	k i
+109/093	ki	1	k i
+109/095	kiah	1	k iah
+109/097	ki	1	k i
+109/099	ki	1	k i
+109/101	ki	1	k i
+109/103	kü	1	k ü
+109/107	kü	1	k ü
+109/109	ki	1	k i
+109/111	kiäh	1	k iäh
+109/113	kiah	1	k iah
+109/115	kiah	1	k iah
+109/117	kiah	1	k iah
+109/119	kih	1	k ih
+109/121	kü	1	k ü
+109/123	küah	1	k üah
+109/125	ki	1	k i
+109/127	ki	1	k i
+109/129	küah	1	k üah
+109/131	kiah	1	k iah
+109/133	ki	1	k i
+109/135	ki	1	k i
+109/137	kü	1	k ü
+109/139	kiah	1	k iah
+110/035	chü	1	ch ü
+110/039	chü	1	ch ü
+110/041	chü	1	ch ü
+110/043	chi	1	ch i
+110/045	chieh	1	ch ieh
+110/047	chieh	1	ch ieh
+110/049	chee	1	ch ee
+110/057	chi	1	ch i
+110/061	chü	1	ch ü
+110/065	chü	1	ch ü
+110/075	ki	1	k i
+110/079	küh	1	k üh
+110/081	kü	1	k ü
+110/083	küh	1	k üh
+110/087	kchüah	1	k ch üah
+110/089	ki	1	k i
+110/091	ki	1	k i
+110/093	küh	1	k üh
+110/095	ki	1	k i
+110/097	kih	1	k ih
+110/099	ki	1	k i
+110/101	kih	1	k ih
+110/105	ki	1	k i
+110/107	küh	1	k üh
+110/111	ki	1	k i
+110/113	kiah	1	k iah
+110/115	ki	1	k i
+110/117	ki	1	k i
+110/119	kchi	1	k ch i
+110/121	kü	1	k ü
+110/125	ki	1	k i
+110/127	küah	1	k üah
+110/129	kü	1	k ü
+110/131	ki	1	k i
+110/133	kü	1	k ü
+110/135	ki	1	k i
+110/137	ki	1	k i
+110/139	küah	1	k üah
+111/035	chü	1	ch ü
+111/037	chü	1	ch ü
+111/039	chü	1	ch ü
+111/041	chü	1	ch ü
+111/043	chi	1	ch i
+111/045	chi	1	ch i
+111/059	chü	1	ch ü
+111/073	ki	1	k i
+111/075	ki	1	k i
+111/077	ki	1	k i
+111/079	ki	1	k i
+111/081	kiah	1	k iah
+111/083	ki	1	k i
+111/087	ki	1	k i
+111/089	ki	1	k i
+111/105	kiah	1	k iah
+111/107	kiah	1	k iah
+111/109	ki	1	k i
+111/111	kiah	1	k iah
+111/113	küah	1	k üah
+111/115	küah	1	k üah
+111/117	küh	1	k üh
+111/119	ki	1	k i
+111/121	kiah	1	k iah
+111/123	kih	1	k ih
+111/125	küah	1	k üah
+112/037	chü	1	ch ü
+112/039	chü	1	ch ü
+112/041	chü	1	ch ü
+112/043	chi	1	ch i
+112/047	chieh	1	ch ieh
+112/059	chü	1	ch ü
+112/061	chüah	1	ch üah
+112/063	chü	1	ch ü
+112/075	ki	1	k i
+112/081	ki	1	k i
+112/083	ki	1	k i
+112/085	ki	1	k i
+112/111	kü	1	k ü
+112/115	küah	1	k üah
+112/117	ki	1	k i
+112/119	kuäh	1	k uäh
+113/035	chü	1	ch ü
+113/037	chü	1	ch ü
+113/039	chü	1	ch ü
+113/047	chi	1	ch i
+113/079	ki	1	k i
+113/081	kü	1	k ü
+113/083	ki	1	k i
+113/085	kiah	1	k iah
+113/087	ki	1	k i
+113/121	küh	1	k üh
+113/123	küh	1	k üh
+114/035	chü	1	ch ü
+114/045	chieh	1	ch ieh
+114/083	ki	1	k i
+114/085	ki	1	k i
+115/041	chi	1	ch i
+115/043	chi	1	ch i
+115/045	chi	1	ch i
+115/083	ki	1	k i
+115/085	ki	1	k i
+116/043	chi	1	ch i
+116/045	chi	1	ch i
+116/083	kü	1	k ü
+117/043	chieh	1	ch ieh
+117/045	chi	1	ch i
+118/041	chü	1	ch ü
+119/083	küh	1	k üh
+120/085	küü	1	k üü
+121/127	kiu	1	k iu
+122/127	ki	1	k i
+122/129	ki	1	k i
+123/081	ku	1	k u
+123/123	ki	1	k i
+123/125	ki	1	k i
+123/127	ki	1	k i
+123/129	ki	1	k i
+124/125	ki	1	k i
+124/127	ki	1	k i
+124/129	ki	1	k i

@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	melk	1	m e l k
+002/201	melk	1	m e l k
+002/203	melk	1	m e l k
+002/205	melk	1	m e l k
+003/203	melk	1	m e l k
+003/205	melk	1	m e l k
+004/205	melk	1	m e l k
+005/205	mälk	1	m ä l k
+005/207	melk	1	m e l k
+006/205	melk	1	m e l k
+006/207	melk	1	m e l k
+007/205	melk	1	m e l k
+007/207	melk	1	m e l k
+007/209	melk	1	m e l k
+007/211	melk	1	m e l k
+008/199	melk	1	m e l k
+008/203	melk	1	m e l k
+008/205	melk	1	m e l k
+008/207	melk	1	m e l k
+008/209	melk	1	m e l k
+008/211	mälk	1	m ä l k
+008/213	melk	1	m e l k
+009/199	melck	1	m e l ck
+009/203	melk	1	m e l k
+009/207	melk	1	m e l k
+009/209	melk	1	m e l k
+009/211	melk	1	m e l k
+009/213	melk	1	m e l k
+009/215	melk	1	m e l k
+009/217	melk	1	m e l k
+010/195	melk	1	m e l k
+010/203	melk	1	m e l k
+010/207	melk	1	m e l k
+010/209	mälk	1	m ä l k
+010/211	melk	1	m e l k
+010/213	melk	1	m e l k
+010/215	melk	1	m e l k
+010/217	melk	1	m e l k
+010/219	melk	1	m e l k
+011/049	molk	1	m o l k
+011/053	mjelk	1	m j e l k
+011/055	mjolk	1	m j o l k
+011/057	mjolk	1	m j o l k
+011/059	mjilk	1	m j i l k
+011/061	molk	1	m o l k
+011/063	mjolk	1	m j o l k
+011/065	mjolk	1	m j o l k
+011/067	mjelk	1	m j e l k
+011/069	mjelk	1	m j e l k
+011/187	melk	1	m e l k
+011/189	mälk	1	m ä l k
+011/191	mellk	1	m e ll k
+011/195	melk	1	m e l k
+011/197	melk	1	m e l k
+011/203	melk	1	m e l k
+011/205	melk	1	m e l k
+011/207	mellk	1	m e ll k
+011/209	melk	1	m e l k
+011/211	melk	1	m e l k
+011/213	melk	1	m e l k
+011/215	melk	1	m e l k
+011/217	melk	1	m e l k
+011/219	melk	1	m e l k
+012/047	molk	1	m o l k
+012/049	molk	1	m o l k
+012/051	mulk	1	m u l k
+012/053	mjälk	1	m j ä l k
+012/055	mjelk	1	m j e l k
+012/057	mjolk	1	m j o l k
+012/059	mjelk	1	m j e l k
+012/061	mjolk	1	m j o l k
+012/063	mjelk	1	m j e l k
+012/065	mjolk	1	m j o l k
+012/067	mjelk	1	m j e l k
+012/069	mjelk	1	m j e l k
+012/187	melk	1	m e l k
+012/189	melk	1	m e l k
+012/191	melk	1	m e l k
+012/193	melk	1	m e l k
+012/195	melk	1	m e l k
+012/197	melk	1	m e l k
+012/199	melk	1	m e l k
+012/201	melk	1	m e l k
+012/203	melk	1	m e l k
+012/205	melk	1	m e l k
+012/207	melk	1	m e l k
+012/209	melk	1	m e l k
+012/211	melk	1	m e l k
+012/213	melk	1	m e l k
+012/215	melk	1	m e l k
+012/217	melk	1	m e l k
+012/219	melk	1	m e l k
+012/221	melk	1	m e l k
+012/223	melk	1	m e l k
+013/051	mulk	1	m u l k
+013/053	molk	1	m o l k
+013/055	mulk	1	m u l k
+013/057	mjilk	1	m j i l k
+013/059	mjälk	1	m j ä l k
+013/061	melk	1	m e l k
+013/063	mälk	1	m ä l k
+013/065	melk	1	m e l k
+013/067	melk	1	m e l k
+013/161	melk	1	m e l k
+013/163	melk	1	m e l k
+013/165	meelk	1	m ee l k
+013/167	malk	1	m a l k
+013/187	melk	1	m e l k
+013/189	melk	1	m e l k
+013/191	melk	1	m e l k
+013/193	melk	1	m e l k
+013/195	melk	1	m e l k
+013/197	melk	1	m e l k
+013/199	melk	1	m e l k
+013/201	melk	1	m e l k
+013/203	melk	1	m e l k
+013/207	mälk	1	m ä l k
+013/209	melk	1	m e l k
+013/211	melk	1	m e l k
+013/213	melk	1	m e l k
+013/215	melk	1	m e l k
+013/217	melk	1	m e l k
+013/219	mälk	1	m ä l k
+013/221	melk	1	m e l k
+013/223	melk	1	m e l k
+014/047	molk	1	m o l k
+014/049	molk	1	m o l k
+014/051	moolk	1	m oo l k
+014/053	molk	1	m o l k
+014/055	molk	1	m o l k
+014/057	molk	1	m o l k
+014/059	mälk	1	m ä l k
+014/061	melk	1	m e l k
+014/063	melk	1	m e l k
+014/065	melk	1	m e l k
+014/067	melk	1	m e l k
+014/109	melk	1	m e l k
+014/159	maelk	1	m ae l k
+014/161	malk	1	m a l k
+014/163	malk	1	m a l k
+014/165	mulk	1	m u l k
+014/167	melk	1	m e l k
+014/169	melk	1	m e l k
+014/187	melk	1	m e l k
+014/189	mälk	1	m ä l k
+014/191	melk	1	m e l k
+014/193	melk	1	m e l k
+014/195	melk	1	m e l k
+014/197	melk	1	m e l k
+014/199	mälk	1	m ä l k
+014/201	melk	1	m e l k
+014/203	melk	1	m e l k
+014/205	mälk	1	m ä l k
+014/207	melk	1	m e l k
+014/209	melk	1	m e l k
+014/211	melk	1	m e l k
+014/213	melk	1	m e l k
+014/215	mälk	1	m ä l k
+014/217	melk	1	m e l k
+014/219	melk	1	m e l k
+014/221	melk	1	m e l k
+015/049	molk	1	m o l k
+015/051	molk	1	m o l k
+015/053	molk	1	m o l k
+015/055	molk	1	m o l k
+015/057	mollk	1	m o ll k
+015/059	melk	1	m e l k
+015/061	melk	1	m e l k
+015/063	melk	1	m e l k
+015/065	melk	1	m e l k
+015/067	melk	1	m e l k
+015/105	melk	1	m e l k
+015/107	melk	1	m e l k
+015/109	melk	1	m e l k
+015/151	melk	1	m e l k
+015/153	melk	1	m e l k
+015/155	melk	1	m e l k
+015/157	melk	1	m e l k
+015/159	melk	1	m e l k
+015/161	melk	1	m e l k
+015/163	melk	1	m e l k
+015/165	melk	1	m e l k
+015/167	melk	1	m e l k
+015/169	melk	1	m e l k
+015/173	melk	1	m e l k
+015/187	melk	1	m e l k
+015/191	melk	1	m e l k
+015/193	melk	1	m e l k
+015/195	melk	1	m e l k
+015/197	mellk	1	m e ll k
+015/199	melk	1	m e l k
+015/201	melk	1	m e l k
+015/203	melk	1	m e l k
+015/205	melk	1	m e l k
+015/207	melk	1	m e l k
+015/209	melk	1	m e l k
+015/211	melk	1	m e l k
+015/213	melk	1	m e l k
+015/215	melk	1	m e l k
+015/217	melk	1	m e l k
+015/219	melk	1	m e l k
+015/221	melk	1	m e l k
+016/051	molk	1	m o l k
+016/055	molk	1	m o l k
+016/057	melk	1	m e l k
+016/059	melk	1	m e l k
+016/061	melk	1	m e l k
+016/063	melk	1	m e l k
+016/065	melk	1	m e l k
+016/067	melk	1	m e l k
+016/081	melk	1	m e l k
+016/083	melk	1	m e l k
+016/105	melk	1	m e l k
+016/107	melk	1	m e l k
+016/109	melk	1	m e l k
+016/111	melk	1	m e l k
+016/145	melk	1	m e l k
+016/147	mälk	1	m ä l k
+016/149	melk	1	m e l k
+016/151	melk	1	m e l k
+016/153	melk	1	m e l k
+016/155	melk	1	m e l k
+016/157	melk	1	m e l k
+016/159	melk	1	m e l k
+016/161	melk	1	m e l k
+016/163	melk	1	m e l k
+016/165	melk	1	m e l k
+016/167	melk	1	m e l k
+016/187	melk	1	m e l k
+016/189	mälk	1	m ä l k
+016/191	melk	1	m e l k
+016/193	melk	1	m e l k
+016/195	melk	1	m e l k
+016/197	melk	1	m e l k
+016/199	melk	1	m e l k
+016/201	melk	1	m e l k
+016/203	melk	1	m e l k
+016/205	melk	1	m e l k
+016/209	melk	1	m e l k
+016/211	melk	1	m e l k
+016/213	mälk	1	m ä l k
+016/215	melk	1	m e l k
+016/217	melk	1	m e l k
+016/219	melk	1	m e l k
+017/055	melk	1	m e l k
+017/057	melk	1	m e l k
+017/059	melk	1	m e l k
+017/061	melk	1	m e l k
+017/063	melk	1	m e l k
+017/065	melk	1	m e l k
+017/067	melk	1	m e l k
+017/069	melk	1	m e l k
+017/081	melk	1	m e l k
+017/083	melk	1	m e l k
+017/099	melk	1	m e l k
+017/101	melk	1	m e l k
+017/103	melk	1	m e l k
+017/107	melk	1	m e l k
+017/109	melk	1	m e l k
+017/145	melk	1	m e l k
+017/147	melk	1	m e l k
+017/149	melk	1	m e l k
+017/151	melk	1	m e l k
+017/153	melk	1	m e l k
+017/155	melk	1	m e l k
+017/157	melk	1	m e l k
+017/159	melk	1	m e l k
+017/161	melk	1	m e l k
+017/163	melk	1	m e l k
+017/165	mälk	1	m ä l k
+017/169	melk	1	m e l k
+017/171	mälk	1	m ä l k
+017/183	melk	1	m e l k
+017/185	melk	1	m e l k
+017/187	melk	1	m e l k
+017/189	melk	1	m e l k
+017/191	melk	1	m e l k
+017/193	melk	1	m e l k
+017/195	melk	1	m e l k
+017/197	melk	1	m e l k
+017/199	melk	1	m e l k
+017/201	melk	1	m e l k
+017/203	melk	1	m e l k
+017/205	melk	1	m e l k
+017/207	melk	1	m e l k
+017/209	melk	1	m e l k
+017/211	melk	1	m e l k
+017/213	melk	1	m e l k
+017/215	melk	1	m e l k
+017/217	melk	1	m e l k
+017/219	melk	1	m e l k
+018/051	melk	1	m e l k
+018/053	melk	1	m e l k
+018/055	melk	1	m e l k
+018/057	melk	1	m e l k
+018/059	melk	1	m e l k
+018/061	melk	1	m e l k
+018/063	melk	1	m e l k
+018/065	melk	1	m e l k
+018/067	melk	1	m e l k
+018/069	melk	1	m e l k
+018/071	melk	1	m e l k
+018/073	melk	1	m e l k
+018/075	melk	1	m e l k
+018/079	melk	1	m e l k
+018/081	melk	1	m e l k
+018/097	melk	1	m e l k
+018/099	melk	1	m e l k
+018/103	melk	1	m e l k
+018/105	melk	1	m e l k
+018/107	melk	1	m e l k
+018/109	melk	1	m e l k
+018/111	melk	1	m e l k
+018/143	melk	1	m e l k
+018/145	melk	1	m e l k
+018/147	melk	1	m e l k
+018/149	melk	1	m e l k
+018/151	melk	1	m e l k
+018/153	melk	1	m e l k
+018/155	melk	1	m e l k
+018/157	melk	1	m e l k
+018/159	melk	1	m e l k
+018/161	melk	1	m e l k
+018/163	mälk	1	m ä l k
+018/165	melk	1	m e l k
+018/169	malk	1	m a l k
+018/171	melk	1	m e l k
+018/173	mälk	1	m ä l k
+018/181	melk	1	m e l k
+018/185	melk	1	m e l k
+018/187	melk	1	m e l k
+018/189	melk	1	m e l k
+018/191	melk	1	m e l k
+018/193	melk	1	m e l k
+018/195	melk	1	m e l k
+018/197	melk	1	m e l k
+018/199	mälk	1	m ä l k
+018/201	melk	1	m e l k
+018/203	melk	1	m e l k
+018/205	melk	1	m e l k
+018/207	melk	1	m e l k
+018/209	melk	1	m e l k
+018/211	mälk	1	m ä l k
+018/213	melk	1	m e l k
+018/215	melk	1	m e l k
+018/219	melk	1	m e l k
+019/051	melk	1	m e l k
+019/053	melk	1	m e l k
+019/055	melk	1	m e l k
+019/057	melk	1	m e l k
+019/059	melk	1	m e l k
+019/061	melk	1	m e l k
+019/063	melk	1	m e l k
+019/065	melk	1	m e l k
+019/067	melk	1	m e l k
+019/069	melk	1	m e l k
+019/071	melk	1	m e l k
+019/073	melk	1	m e l k
+019/075	melk	1	m e l k
+019/077	melk	1	m e l k
+019/079	melk	1	m e l k
+019/081	melk	1	m e l k
+019/097	melk	1	m e l k
+019/099	melk	1	m e l k
+019/101	melk	1	m e l k
+019/103	melk	1	m e l k
+019/105	melk	1	m e l k
+019/107	melk	1	m e l k
+019/109	melk	1	m e l k
+019/143	melk	1	m e l k
+019/145	melk	1	m e l k
+019/147	melk	1	m e l k
+019/149	melk	1	m e l k
+019/151	melk	1	m e l k
+019/153	melk	1	m e l k
+019/155	melk	1	m e l k
+019/157	melk	1	m e l k
+019/159	melk	1	m e l k
+019/161	melk	1	m e l k
+019/163	melk	1	m e l k
+019/165	melk	1	m e l k
+019/167	melk	1	m e l k
+019/169	malk	1	m a l k
+019/171	melk	1	m e l k
+019/173	maelk	1	m ae l k
+019/175	malk	1	m a l k
+019/177	mälk	1	m ä l k
+019/179	melkk	1	m e l kk
+019/181	mälk	1	m ä l k
+019/183	melk	1	m e l k
+019/185	melk	1	m e l k
+019/187	melk	1	m e l k
+019/189	melk	1	m e l k
+019/191	melk	1	m e l k
+019/193	melk	1	m e l k
+019/195	melk	1	m e l k
+019/197	mälk	1	m ä l k
+019/199	melk	1	m e l k
+019/201	melk	1	m e l k
+019/203	melk	1	m e l k
+019/205	melk	1	m e l k
+019/207	melk	1	m e l k
+019/209	melk	1	m e l k
+019/211	melk	1	m e l k
+019/213	mälk	1	m ä l k
+019/215	melk	1	m e l k
+019/217	mälk	1	m ä l k
+019/219	melk	1	m e l k
+020/043	molk	1	m o l k
+020/053	melk	1	m e l k
+020/055	melk	1	m e l k
+020/057	melk	1	m e l k
+020/059	melck	1	m e l ck
+020/061	melk	1	m e l k
+020/063	mälk	1	m ä l k
+020/065	melk	1	m e l k
+020/067	melk	1	m e l k
+020/069	merk	1	m e r k
+020/071	melk	1	m e l k
+020/073	melk	1	m e l k
+020/075	melk	1	m e l k
+020/077	melk	1	m e l k
+020/079	melk	1	m e l k
+020/081	melk	1	m e l k
+020/095	melk	1	m e l k
+020/097	melk	1	m e l k
+020/099	melk	1	m e l k
+020/101	melk	1	m e l k
+020/103	melk	1	m e l k
+020/105	melk	1	m e l k
+020/107	melk	1	m e l k
+020/135	melk	1	m e l k
+020/137	melk	1	m e l k
+020/139	melk	1	m e l k
+020/141	melk	1	m e l k
+020/143	melk	1	m e l k
+020/145	melk	1	m e l k
+020/147	melk	1	m e l k
+020/149	melk	1	m e l k
+020/151	melk	1	m e l k
+020/153	melk	1	m e l k
+020/155	melk	1	m e l k
+020/157	melk	1	m e l k
+020/159	melk	1	m e l k
+020/161	mellk	1	m e ll k
+020/163	melk	1	m e l k
+020/165	melk	1	m e l k
+020/167	melk	1	m e l k
+020/169	melk	1	m e l k
+020/171	malk	1	m a l k
+020/173	melk	1	m e l k
+020/175	melk	1	m e l k
+020/177	malk	1	m a l k
+020/179	melk	1	m e l k
+020/181	mälk	1	m ä l k
+020/183	melk	1	m e l k
+020/185	melk	1	m e l k
+020/187	melch	1	m e l ch
+020/189	melk	1	m e l k
+020/191	melk	1	m e l k
+020/193	melk	1	m e l k
+020/195	melk	1	m e l k
+020/197	melk	1	m e l k
+020/199	melk	1	m e l k
+020/201	melk	1	m e l k
+020/203	melk	1	m e l k
+020/205	melk	1	m e l k
+020/207	melk	1	m e l k
+020/209	mälk	1	m ä l k
+020/211	mellk	1	m e ll k
+020/213	melk	1	m e l k
+020/215	melk	1	m e l k
+020/217	melk	1	m e l k
+020/219	melk	1	m e l k
+021/055	melk	1	m e l k
+021/057	mälk	1	m ä l k
+021/059	melk	1	m e l k
+021/061	melk	1	m e l k
+021/063	melk	1	m e l k
+021/065	melk	1	m e l k
+021/067	melk	1	m e l k
+021/069	melk	1	m e l k
+021/071	melk	1	m e l k
+021/073	mälk	1	m ä l k
+021/075	melk	1	m e l k
+021/077	melk	1	m e l k
+021/079	melk	1	m e l k
+021/087	melk	1	m e l k
+021/089	melk	1	m e l k
+021/091	melk	1	m e l k
+021/093	melk	1	m e l k
+021/095	melk	1	m e l k
+021/097	melk	1	m e l k
+021/099	melk	1	m e l k
+021/101	melk	1	m e l k
+021/103	melk	1	m e l k
+021/105	melk	1	m e l k
+021/107	melk	1	m e l k
+021/109	melk	1	m e l k
+021/111	melk	1	m e l k
+021/113	melk	1	m e l k
+021/131	melk	1	m e l k
+021/133	melk	1	m e l k
+021/135	melk	1	m e l k
+021/137	melk	1	m e l k
+021/139	melk	1	m e l k
+021/141	melk	1	m e l k
+021/143	melk	1	m e l k
+021/145	melk	1	m e l k
+021/147	melk	1	m e l k
+021/149	melk	1	m e l k
+021/151	melk	1	m e l k
+021/153	melk	1	m e l k
+021/155	mälk	1	m ä l k
+021/157	melk	1	m e l k
+021/159	melk	1	m e l k
+021/163	mälk	1	m ä l k
+021/165	melk	1	m e l k
+021/167	melk	1	m e l k
+021/169	melk	1	m e l k
+021/171	mälk	1	m ä l k
+021/173	melk	1	m e l k
+021/175	malk	1	m a l k
+021/177	melk	1	m e l k
+021/179	melk	1	m e l k
+021/181	melk	1	m e l k
+021/183	melk	1	m e l k
+021/185	mölch	1	m ö l ch
+021/187	mölch	1	m ö l ch
+021/189	melch	1	m e l ch
+021/191	mölch	1	m ö l ch
+021/193	mölch	1	m ö l ch
+021/195	mölch	1	m ö l ch
+021/197	mölch	1	m ö l ch
+021/199	melk	1	m e l k
+021/201	melk	1	m e l k
+021/203	melk	1	m e l k
+021/205	melk	1	m e l k
+021/207	melk	1	m e l k
+021/211	melk	1	m e l k
+021/215	melk	1	m e l k
+021/217	melk	1	m e l k
+021/219	melk	1	m e l k
+022/055	melk	1	m e l k
+022/057	melk	1	m e l k
+022/059	melk	1	m e l k
+022/061	melk	1	m e l k
+022/063	melk	1	m e l k
+022/065	meelg	1	m ee l g
+022/067	melk	1	m e l k
+022/069	melk	1	m e l k
+022/071	melk	1	m e l k
+022/073	melk	1	m e l k
+022/075	melk	1	m e l k
+022/077	melk	1	m e l k
+022/087	melk	1	m e l k
+022/089	melk	1	m e l k
+022/091	melk	1	m e l k
+022/093	melk	1	m e l k
+022/095	melk	1	m e l k
+022/097	melk	1	m e l k
+022/099	melk	1	m e l k
+022/101	melk	1	m e l k
+022/103	melk	1	m e l k
+022/105	melk	1	m e l k
+022/107	melk	1	m e l k
+022/109	melk	1	m e l k
+022/111	melk	1	m e l k
+022/113	melk	1	m e l k
+022/115	melk	1	m e l k
+022/127	melk	1	m e l k
+022/129	melk	1	m e l k
+022/131	melk	1	m e l k
+022/133	melk	1	m e l k
+022/135	melk	1	m e l k
+022/137	melk	1	m e l k
+022/139	melk	1	m e l k
+022/141	melk	1	m e l k
+022/143	melk	1	m e l k
+022/145	melk	1	m e l k
+022/147	melk	1	m e l k
+022/149	melk	1	m e l k
+022/151	melk	1	m e l k
+022/153	melk	1	m e l k
+022/155	melk	1	m e l k
+022/157	melk	1	m e l k
+022/159	mälk	1	m ä l k
+022/165	melk	1	m e l k
+022/167	melck	1	m e l ck
+022/169	melk	1	m e l k
+022/171	melk	1	m e l k
+022/173	mälk	1	m ä l k
+022/175	melk	1	m e l k
+022/177	mellk	1	m e ll k
+022/179	melk	1	m e l k
+022/181	melk	1	m e l k
+022/183	mölch	1	m ö l ch
+022/185	melch	1	m e l ch
+022/187	milch	1	m i l ch
+022/189	melch	1	m e l ch
+022/191	mölch	1	m ö l ch
+022/193	mölch	1	m ö l ch
+022/195	mölch	1	m ö l ch
+022/197	mölch	1	m ö l ch
+022/199	mölch	1	m ö l ch
+022/201	mellk	1	m e ll k
+022/203	melk	1	m e l k
+022/205	melk	1	m e l k
+022/209	mellk	1	m e ll k
+022/211	mellk	1	m e ll k
+022/215	melk	1	m e l k
+022/217	melk	1	m e l k
+022/219	melk	1	m e l k
+023/055	melk	1	m e l k
+023/059	melk	1	m e l k
+023/061	melk	1	m e l k
+023/063	melk	1	m e l k
+023/065	melk	1	m e l k
+023/067	merk	1	m e r k
+023/069	melk	1	m e l k
+023/071	melk	1	m e l k
+023/073	melk	1	m e l k
+023/075	melk	1	m e l k
+023/077	melk	1	m e l k
+023/079	melk	1	m e l k
+023/081	melk	1	m e l k
+023/083	melk	1	m e l k
+023/085	melk	1	m e l k
+023/087	melk	1	m e l k
+023/089	melk	1	m e l k
+023/091	melk	1	m e l k
+023/093	melk	1	m e l k
+023/095	melk	1	m e l k
+023/097	melk	1	m e l k
+023/099	melk	1	m e l k
+023/101	melk	1	m e l k
+023/103	melk	1	m e l k
+023/105	melk	1	m e l k
+023/107	melk	1	m e l k
+023/109	melk	1	m e l k
+023/111	melk	1	m e l k
+023/113	melk	1	m e l k
+023/115	melk	1	m e l k
+023/117	mälk	1	m ä l k
+023/121	melk	1	m e l k
+023/123	melk	1	m e l k
+023/125	melk	1	m e l k
+023/127	melk	1	m e l k
+023/129	melk	1	m e l k
+023/131	mälk	1	m ä l k
+023/133	melk	1	m e l k
+023/135	melk	1	m e l k
+023/137	melk	1	m e l k
+023/139	mälk	1	m ä l k
+023/141	melk	1	m e l k
+023/143	melk	1	m e l k
+023/145	melk	1	m e l k
+023/147	melk	1	m e l k
+023/149	melk	1	m e l k
+023/151	melk	1	m e l k
+023/153	melk	1	m e l k
+023/155	melk	1	m e l k
+023/165	melk	1	m e l k
+023/167	melk	1	m e l k
+023/169	meltch	1	m e l t ch
+023/175	malk	1	m a l k
+023/177	melch	1	m e l ch
+023/179	melch	1	m e l ch
+023/181	melch	1	m e l ch
+023/183	mölch	1	m ö l ch
+023/185	melch	1	m e l ch
+023/187	mölch	1	m ö l ch
+023/189	melch	1	m e l ch
+023/191	mölch	1	m ö l ch
+023/193	melch	1	m e l ch
+023/195	mälch	1	m ä l ch
+023/197	melch	1	m e l ch
+023/199	mälk	1	m ä l k
+023/201	melk	1	m e l k
+023/203	melk	1	m e l k
+023/205	melk	1	m e l k
+023/207	melk	1	m e l k
+023/215	melk	1	m e l k
+023/217	melk	1	m e l k
+024/053	melk	1	m e l k
+024/057	melk	1	m e l k
+024/059	melk	1	m e l k
+024/061	melk	1	m e l k
+024/063	melk	1	m e l k
+024/065	melk	1	m e l k
+024/067	melk	1	m e l k
+024/069	melk	1	m e l k
+024/071	melk	1	m e l k
+024/073	melk	1	m e l k
+024/075	melk	1	m e l k
+024/077	melk	1	m e l k
+024/079	melk	1	m e l k
+024/081	melk	1	m e l k
+024/083	melk	1	m e l k
+024/085	melk	1	m e l k
+024/087	melk	1	m e l k
+024/089	melk	1	m e l k
+024/091	melk	1	m e l k
+024/093	melk	1	m e l k
+024/095	melk	1	m e l k
+024/097	melk	1	m e l k
+024/099	melk	1	m e l k
+024/101	melk	1	m e l k
+024/103	melk	1	m e l k
+024/105	melk	1	m e l k
+024/107	melk	1	m e l k
+024/109	melk	1	m e l k
+024/111	melk	1	m e l k
+024/113	melk	1	m e l k
+024/115	melk	1	m e l k
+024/117	melk	1	m e l k
+024/119	melk	1	m e l k
+024/121	melk	1	m e l k
+024/123	melk	1	m e l k
+024/125	melk	1	m e l k
+024/127	melk	1	m e l k
+024/129	melk	1	m e l k
+024/131	melk	1	m e l k
+024/133	mels	1	m e l s
+024/135	melk	1	m e l k
+024/137	melk	1	m e l k
+024/139	melk	1	m e l k
+024/141	melk	1	m e l k
+024/143	melk	1	m e l k
+024/145	melk	1	m e l k
+024/147	melk	1	m e l k
+024/149	melk	1	m e l k
+024/151	melc	1	m e l c
+024/153	melk	1	m e l k
+024/155	melk	1	m e l k
+024/163	meltch	1	m e l t ch
+024/165	meltch	1	m e l t ch
+024/167	mälck	1	m ä l ck
+024/169	meltch	1	m e l t ch
+024/171	melk	1	m e l k
+024/175	melk	1	m e l k
+024/179	melch	1	m e l ch
+024/181	mölch	1	m ö l ch
+024/183	melch	1	m e l ch
+024/185	mölch	1	m ö l ch
+024/187	milch	1	m i l ch
+024/189	melch	1	m e l ch
+024/191	melch	1	m e l ch
+024/193	mölch	1	m ö l ch
+024/195	melch	1	m e l ch
+024/197	melch	1	m e l ch
+024/199	melch	1	m e l ch
+024/201	melk	1	m e l k
+024/203	melk	1	m e l k
+024/217	melk	1	m e l k
+024/221	mälk	1	m ä l k
+025/043	melk	1	m e l k
+025/051	melk	1	m e l k
+025/053	melk	1	m e l k
+025/055	melk	1	m e l k
+025/057	melk	1	m e l k
+025/059	melk	1	m e l k
+025/061	melk	1	m e l k
+025/063	merk	1	m e r k
+025/065	melk	1	m e l k
+025/067	melk	1	m e l k
+025/069	melk	1	m e l k
+025/071	melk	1	m e l k
+025/073	melk	1	m e l k
+025/075	melk	1	m e l k
+025/077	melk	1	m e l k
+025/079	melk	1	m e l k
+025/081	melk	1	m e l k
+025/083	melk	1	m e l k
+025/085	melk	1	m e l k
+025/087	melk	1	m e l k
+025/089	melk	1	m e l k
+025/091	melk	1	m e l k
+025/093	melk	1	m e l k
+025/095	melk	1	m e l k
+025/099	melk	1	m e l k
+025/101	melk	1	m e l k
+025/103	mälk	1	m ä l k
+025/105	melk	1	m e l k
+025/107	melk	1	m e l k
+025/109	melk	1	m e l k
+025/111	melk	1	m e l k
+025/113	melk	1	m e l k
+025/115	melk	1	m e l k
+025/123	melk	1	m e l k
+025/125	melk	1	m e l k
+025/127	melk	1	m e l k
+025/129	melk	1	m e l k
+025/131	melk	1	m e l k
+025/133	melk	1	m e l k
+025/135	melk	1	m e l k
+025/137	melk	1	m e l k
+025/139	melk	1	m e l k
+025/141	melk	1	m e l k
+025/143	melk	1	m e l k
+025/145	melk	1	m e l k
+025/147	melj	1	m e l j
+025/149	melk	1	m e l k
+025/151	melk	1	m e l k
+025/153	melk	1	m e l k
+025/155	melk	1	m e l k
+025/157	mälk	1	m ä l k
+025/159	melk	1	m e l k
+025/177	mölch	1	m ö l ch
+025/179	melch	1	m e l ch
+025/181	melch	1	m e l ch
+025/183	mölch	1	m ö l ch
+025/185	melch	1	m e l ch
+025/187	mölch	1	m ö l ch
+025/189	melch	1	m e l ch
+025/191	melch	1	m e l ch
+026/031	melk	1	m e l k
+026/033	melk	1	m e l k
+026/037	melk	1	m e l k
+026/041	melk	1	m e l k
+026/043	melk	1	m e l k
+026/045	melk	1	m e l k
+026/051	melk	1	m e l k
+026/053	melk	1	m e l k
+026/055	melk	1	m e l k
+026/057	melk	1	m e l k
+026/059	melk	1	m e l k
+026/061	melk	1	m e l k
+026/063	melk	1	m e l k
+026/065	melk	1	m e l k
+026/067	melk	1	m e l k
+026/069	melk	1	m e l k
+026/071	melk	1	m e l k
+026/073	melk	1	m e l k
+026/075	melk	1	m e l k
+026/077	melk	1	m e l k
+026/079	melk	1	m e l k
+026/081	melk	1	m e l k
+026/083	melk	1	m e l k
+026/085	melk	1	m e l k
+026/087	melk	1	m e l k
+026/089	melk	1	m e l k
+026/091	melk	1	m e l k
+026/093	melk	1	m e l k
+026/095	melk	1	m e l k
+026/097	melk	1	m e l k
+026/099	melk	1	m e l k
+026/101	melk	1	m e l k
+026/103	melk	1	m e l k
+026/105	melk	1	m e l k
+026/107	melk	1	m e l k
+026/109	melk	1	m e l k
+026/111	melk	1	m e l k
+026/113	melk	1	m e l k
+026/115	mellk	1	m e ll k
+026/117	melk	1	m e l k
+026/119	melk	1	m e l k
+026/123	melk	1	m e l k
+026/125	melk	1	m e l k
+026/127	melk	1	m e l k
+026/129	melk	1	m e l k
+026/131	melk	1	m e l k
+026/133	melk	1	m e l k
+026/135	melk	1	m e l k
+026/137	melk	1	m e l k
+026/139	melk	1	m e l k
+026/141	melk	1	m e l k
+026/143	melk	1	m e l k
+026/145	melk	1	m e l k
+026/147	melk	1	m e l k
+026/153	melk	1	m e l k
+026/155	mälk	1	m ä l k
+026/157	melk	1	m e l k
+026/159	melg	1	m e l g
+026/161	melk	1	m e l k
+026/165	melk	1	m e l k
+026/173	melk	1	m e l k
+026/175	melk	1	m e l k
+026/177	melk	1	m e l k
+026/179	melk	1	m e l k
+026/181	melch	1	m e l ch
+026/183	melch	1	m e l ch
+026/185	melch	1	m e l ch
+026/187	mölch	1	m ö l ch
+026/189	melch	1	m e l ch
+027/027	melk	1	m e l k
+027/035	melk	1	m e l k
+027/037	melk	1	m e l k
+027/039	melk	1	m e l k
+027/041	melk	1	m e l k
+027/043	melk	1	m e l k
+027/045	melk	1	m e l k
+027/047	melk	1	m e l k
+027/051	melk	1	m e l k
+027/053	melk	1	m e l k
+027/055	melk	1	m e l k
+027/057	melk	1	m e l k
+027/059	melk	1	m e l k
+027/061	melk	1	m e l k
+027/063	melk	1	m e l k
+027/065	melk	1	m e l k
+027/067	melk	1	m e l k
+027/069	melk	1	m e l k
+027/071	melk	1	m e l k
+027/073	melk	1	m e l k
+027/075	melk	1	m e l k
+027/077	melk	1	m e l k
+027/079	melk	1	m e l k
+027/081	melk	1	m e l k
+027/083	melk	1	m e l k
+027/085	melk	1	m e l k
+027/087	melk	1	m e l k
+027/089	melk	1	m e l k
+027/091	melk	1	m e l k
+027/093	melk	1	m e l k
+027/095	melk	1	m e l k
+027/099	melk	1	m e l k
+027/101	melk	1	m e l k
+027/103	melk	1	m e l k
+027/105	melk	1	m e l k
+027/107	melk	1	m e l k
+027/109	melk	1	m e l k
+027/111	melk	1	m e l k
+027/113	melk	1	m e l k
+027/115	mälk	1	m ä l k
+027/117	melk	1	m e l k
+027/119	mälk	1	m ä l k
+027/123	melk	1	m e l k
+027/125	melk	1	m e l k
+027/127	melk	1	m e l k
+027/129	melk	1	m e l k
+027/131	melk	1	m e l k
+027/135	melk	1	m e l k
+027/137	melk	1	m e l k
+027/139	melk	1	m e l k
+027/141	melk	1	m e l k
+027/143	melk	1	m e l k
+027/145	mäelk	1	m äe l k
+027/147	melk	1	m e l k
+027/149	melk	1	m e l k
+027/151	melk	1	m e l k
+027/153	mälk	1	m ä l k
+027/155	melk	1	m e l k
+027/157	meltsch	1	m e l t sch
+027/159	melck	1	m e l ck
+027/161	melk	1	m e l k
+027/167	melk	1	m e l k
+027/171	melk	1	m e l k
+027/173	melk	1	m e l k
+027/175	melk	1	m e l k
+027/177	melk	1	m e l k
+027/179	melkch	1	m e l k ch
+027/181	melk	1	m e l k
+027/183	melch	1	m e l ch
+027/185	melch	1	m e l ch
+028/033	melk	1	m e l k
+028/035	melk	1	m e l k
+028/037	melk	1	m e l k
+028/039	melk	1	m e l k
+028/041	melk	1	m e l k
+028/043	melk	1	m e l k
+028/045	melk	1	m e l k
+028/047	melk	1	m e l k
+028/049	melk	1	m e l k
+028/051	melk	1	m e l k
+028/053	melk	1	m e l k
+028/055	melk	1	m e l k
+028/057	melk	1	m e l k
+028/059	melk	1	m e l k
+028/061	merg	1	m e r g
+028/063	melk	1	m e l k
+028/065	merk	1	m e r k
+028/067	melk	1	m e l k
+028/069	melk	1	m e l k
+028/071	melk	1	m e l k
+028/073	melk	1	m e l k
+028/075	melk	1	m e l k
+028/077	melg	1	m e l g
+028/079	melk	1	m e l k
+028/081	mälk	1	m ä l k
+028/083	melk	1	m e l k
+028/085	melk	1	m e l k
+028/087	melk	1	m e l k
+028/089	melk	1	m e l k
+028/091	melk	1	m e l k
+028/093	melk	1	m e l k
+028/095	melk	1	m e l k
+028/097	melk	1	m e l k
+028/099	melk	1	m e l k
+028/103	melk	1	m e l k
+028/105	melk	1	m e l k
+028/107	melk	1	m e l k
+028/109	melk	1	m e l k
+028/111	melk	1	m e l k
+028/113	melk	1	m e l k
+028/115	melk	1	m e l k
+028/117	melk	1	m e l k
+028/119	melk	1	m e l k
+028/121	melk	1	m e l k
+028/123	melk	1	m e l k
+028/125	melk	1	m e l k
+028/127	melk	1	m e l k
+028/129	melk	1	m e l k
+028/131	melk	1	m e l k
+028/133	mälk	1	m ä l k
+028/135	melk	1	m e l k
+028/137	melk	1	m e l k
+028/139	melk	1	m e l k
+028/141	mälk	1	m ä l k
+028/143	melk	1	m e l k
+028/145	melk	1	m e l k
+028/147	melk	1	m e l k
+028/151	mälk	1	m ä l k
+028/153	meltch	1	m e l t ch
+028/155	melg	1	m e l g
+028/157	mälk	1	m ä l k
+028/159	meldsch	1	m e l d sch
+028/161	meltj	1	m e l t j
+028/165	mälk	1	m ä l k
+028/169	melk	1	m e l k
+028/171	melg	1	m e l g
+028/173	mählk	1	m äh l k
+028/175	melk	1	m e l k
+028/177	mälk	1	m ä l k
+028/179	melch	1	m e l ch
+028/181	mölch	1	m ö l ch
+028/183	melch	1	m e l ch
+028/185	melk	1	m e l k
+029/033	melk	1	m e l k
+029/035	melk	1	m e l k
+029/037	melk	1	m e l k
+029/039	melk	1	m e l k
+029/043	melk	1	m e l k
+029/045	melk	1	m e l k
+029/047	melk	1	m e l k
+029/049	melk	1	m e l k
+029/051	melk	1	m e l k
+029/053	melk	1	m e l k
+029/055	melk	1	m e l k
+029/057	melk	1	m e l k
+029/059	melk	1	m e l k
+029/061	melk	1	m e l k
+029/065	melk	1	m e l k
+029/067	melk	1	m e l k
+029/069	melk	1	m e l k
+029/071	melk	1	m e l k
+029/073	melk	1	m e l k
+029/075	melk	1	m e l k
+029/077	melk	1	m e l k
+029/079	melk	1	m e l k
+029/081	melk	1	m e l k
+029/083	melk	1	m e l k
+029/085	melk	1	m e l k
+029/087	melk	1	m e l k
+029/089	melk	1	m e l k
+029/091	melk	1	m e l k
+029/093	melk	1	m e l k
+029/095	melk	1	m e l k
+029/097	melk	1	m e l k
+029/099	melk	1	m e l k
+029/101	melk	1	m e l k
+029/103	melk	1	m e l k
+029/105	melk	1	m e l k
+029/107	melk	1	m e l k
+029/109	melk	1	m e l k
+029/111	melk	1	m e l k
+029/113	melk	1	m e l k
+029/115	melk	1	m e l k
+029/117	melk	1	m e l k
+029/119	melk	1	m e l k
+029/121	melk	1	m e l k
+029/123	melk	1	m e l k
+029/125	melk	1	m e l k
+029/127	melk	1	m e l k
+029/129	melk	1	m e l k
+029/131	melk	1	m e l k
+029/133	melk	1	m e l k
+029/135	melk	1	m e l k
+029/137	melk	1	m e l k
+029/139	melk	1	m e l k
+029/141	melk	1	m e l k
+029/143	melk	1	m e l k
+029/145	melk	1	m e l k
+029/147	melk	1	m e l k
+029/149	meltj	1	m e l t j
+029/151	melg	1	m e l g
+029/153	melg	1	m e l g
+029/155	mälk	1	m ä l k
+029/157	meltch	1	m e l t ch
+029/159	melk	1	m e l k
+029/161	mälk	1	m ä l k
+029/163	mällk	1	m ä ll k
+029/165	meltj	1	m e l t j
+029/167	melck	1	m e l ck
+029/169	melk	1	m e l k
+029/171	melj	1	m e l j
+029/173	melk	1	m e l k
+029/175	melk	1	m e l k
+029/177	meltch	1	m e l t ch
+029/181	melk	1	m e l k
+030/033	melk	1	m e l k
+030/035	melk	1	m e l k
+030/037	melk	1	m e l k
+030/039	melk	1	m e l k
+030/041	melk	1	m e l k
+030/043	melk	1	m e l k
+030/045	melk	1	m e l k
+030/047	melk	1	m e l k
+030/049	melk	1	m e l k
+030/051	melk	1	m e l k
+030/053	melk	1	m e l k
+030/055	melk	1	m e l k
+030/057	melk	1	m e l k
+030/059	melk	1	m e l k
+030/061	melk	1	m e l k
+030/065	melk	1	m e l k
+030/067	melk	1	m e l k
+030/071	melk	1	m e l k
+030/073	melk	1	m e l k
+030/075	melk	1	m e l k
+030/077	melkk	1	m e l kk
+030/079	melk	1	m e l k
+030/081	melk	1	m e l k
+030/083	melk	1	m e l k
+030/085	melk	1	m e l k
+030/087	melk	1	m e l k
+030/089	melk	1	m e l k
+030/091	melk	1	m e l k
+030/093	melk	1	m e l k
+030/095	melk	1	m e l k
+030/097	melk	1	m e l k
+030/099	melk	1	m e l k
+030/101	melk	1	m e l k
+030/103	melk	1	m e l k
+030/105	melk	1	m e l k
+030/107	melk	1	m e l k
+030/109	melk	1	m e l k
+030/111	melk	1	m e l k
+030/113	melk	1	m e l k
+030/115	melk	1	m e l k
+030/117	melk	1	m e l k
+030/119	melk	1	m e l k
+030/121	melk	1	m e l k
+030/123	melk	1	m e l k
+030/125	melk	1	m e l k
+030/127	melk	1	m e l k
+030/129	melk	1	m e l k
+030/131	melk	1	m e l k
+030/133	melk	1	m e l k
+030/135	melk	1	m e l k
+030/137	melk	1	m e l k
+030/139	melk	1	m e l k
+030/141	NA	NA	-
+030/143	melk	1	m e l k
+030/145	melk	1	m e l k
+030/147	mälk	1	m ä l k
+030/149	melk	1	m e l k
+030/151	melg	1	m e l g
+030/153	melg	1	m e l g
+030/155	mälg	1	m ä l g
+030/157	melk	1	m e l k
+030/159	meltsch	1	m e l t sch
+030/161	melk	1	m e l k
+030/163	melk	1	m e l k
+030/165	melz	1	m e l z
+030/167	melk	1	m e l k
+030/169	melk	1	m e l k
+030/171	melk	1	m e l k
+030/173	melk	1	m e l k
+030/175	meltch	1	m e l t ch
+030/177	NA	NA	-
+030/179	melk	1	m e l k
+030/181	meltch	1	m e l t ch
+030/183	meltch	1	m e l t ch
+031/035	melk	1	m e l k
+031/037	melk	1	m e l k
+031/039	melk	1	m e l k
+031/041	melk	1	m e l k
+031/043	melk	1	m e l k
+031/045	melk	1	m e l k
+031/047	melk	1	m e l k
+031/049	melk	1	m e l k
+031/051	melk	1	m e l k
+031/053	melk	1	m e l k
+031/055	melk	1	m e l k
+031/057	melk	1	m e l k
+031/059	melk	1	m e l k
+031/061	melk	1	m e l k
+031/063	melk	1	m e l k
+031/065	melk	1	m e l k
+031/067	melk	1	m e l k
+031/069	melk	1	m e l k
+031/071	melk	1	m e l k
+031/073	melk	1	m e l k
+031/075	meälk	1	m eä l k
+031/077	melk	1	m e l k
+031/079	melk	1	m e l k
+031/081	melk	1	m e l k
+031/083	melk	1	m e l k
+031/085	melk	1	m e l k
+031/087	melk	1	m e l k
+031/089	melk	1	m e l k
+031/091	melk	1	m e l k
+031/093	melk	1	m e l k
+031/095	mälk	1	m ä l k
+031/097	melk	1	m e l k
+031/099	melk	1	m e l k
+031/101	melk	1	m e l k
+031/103	melk	1	m e l k
+031/105	melk	1	m e l k
+031/107	melk	1	m e l k
+031/109	melk	1	m e l k
+031/111	melk	1	m e l k
+031/113	melk	1	m e l k
+031/115	melk	1	m e l k
+031/117	melk	1	m e l k
+031/119	melk	1	m e l k
+031/121	melk	1	m e l k
+031/123	melk	1	m e l k
+031/125	melk	1	m e l k
+031/127	melk	1	m e l k
+031/129	melk	1	m e l k
+031/131	melk	1	m e l k
+031/133	melk	1	m e l k
+031/135	melk	1	m e l k
+031/137	melk	1	m e l k
+031/139	melk	1	m e l k
+031/141	melk	1	m e l k
+031/143	melk	1	m e l k
+031/145	melk	1	m e l k
+031/147	melk	1	m e l k
+031/149	melk	1	m e l k
+031/151	melk	1	m e l k
+031/153	melk	1	m e l k
+031/155	melk	1	m e l k
+031/157	melk	1	m e l k
+031/159	tmelk	1	t m e l k
+031/161	melk	1	m e l k
+031/163	melk	1	m e l k
+031/167	melk	1	m e l k
+031/169	milich	1	m i l i ch
+031/171	milch	1	m i l ch
+031/173	milch	1	m i l ch
+031/175	melch	1	m e l ch
+031/177	melk	1	m e l k
+031/179	meltch	1	m e l t ch
+032/035	melk	1	m e l k
+032/037	melk	1	m e l k
+032/039	melk	1	m e l k
+032/041	melk	1	m e l k
+032/043	melk	1	m e l k
+032/045	melk	1	m e l k
+032/047	melk	1	m e l k
+032/049	melk	1	m e l k
+032/051	melk	1	m e l k
+032/053	melk	1	m e l k
+032/055	melk	1	m e l k
+032/057	melk	1	m e l k
+032/059	melk	1	m e l k
+032/061	melk	1	m e l k
+032/065	melk	1	m e l k
+032/069	melk	1	m e l k
+032/071	melk	1	m e l k
+032/073	melk	1	m e l k
+032/075	melk	1	m e l k
+032/077	melk	1	m e l k
+032/079	melk	1	m e l k
+032/081	melk	1	m e l k
+032/083	melk	1	m e l k
+032/085	melk	1	m e l k
+032/087	melk	1	m e l k
+032/089	melk	1	m e l k
+032/091	melk	1	m e l k
+032/093	melk	1	m e l k
+032/095	mälk	1	m ä l k
+032/097	melk	1	m e l k
+032/099	melk	1	m e l k
+032/101	melk	1	m e l k
+032/103	melk	1	m e l k
+032/105	melk	1	m e l k
+032/107	mälk	1	m ä l k
+032/111	melk	1	m e l k
+032/113	melk	1	m e l k
+032/115	melk	1	m e l k
+032/117	melk	1	m e l k
+032/119	melk	1	m e l k
+032/121	melk	1	m e l k
+032/123	melk	1	m e l k
+032/125	melk	1	m e l k
+032/127	melk	1	m e l k
+032/129	melk	1	m e l k
+032/131	melk	1	m e l k
+032/133	melk	1	m e l k
+032/135	mälk	1	m ä l k
+032/139	melk	1	m e l k
+032/141	melk	1	m e l k
+032/143	melk	1	m e l k
+032/145	melk	1	m e l k
+032/147	melk	1	m e l k
+032/149	melk	1	m e l k
+032/151	melk	1	m e l k
+032/153	melk	1	m e l k
+032/157	mälksch	1	m ä l k sch
+032/159	mälk	1	m ä l k
+032/161	meldj	1	m e l d j
+032/163	mälk	1	m ä l k
+032/167	melk	1	m e l k
+032/169	milch	1	m i l ch
+032/171	millich	1	m i ll i ch
+032/173	milch	1	m i l ch
+032/175	melk	1	m e l k
+032/177	melltch	1	m e ll t ch
+032/179	melck	1	m e l ck
+032/181	melk	1	m e l k
+032/183	melk	1	m e l k
+033/035	melk	1	m e l k
+033/037	melk	1	m e l k
+033/039	melk	1	m e l k
+033/041	melk	1	m e l k
+033/043	melk	1	m e l k
+033/045	melk	1	m e l k
+033/047	melk	1	m e l k
+033/049	melk	1	m e l k
+033/051	melk	1	m e l k
+033/053	melk	1	m e l k
+033/055	melk	1	m e l k
+033/057	melk	1	m e l k
+033/059	mäelk	1	m äe l k
+033/061	melk	1	m e l k
+033/063	melk	1	m e l k
+033/065	melk	1	m e l k
+033/067	melk	1	m e l k
+033/069	melk	1	m e l k
+033/071	melk	1	m e l k
+033/073	melk	1	m e l k
+033/075	melk	1	m e l k
+033/077	melk	1	m e l k
+033/079	melk	1	m e l k
+033/081	melk	1	m e l k
+033/083	melk	1	m e l k
+033/085	melk	1	m e l k
+033/087	melk	1	m e l k
+033/089	melk	1	m e l k
+033/091	melk	1	m e l k
+033/093	melk	1	m e l k
+033/095	melk	1	m e l k
+033/097	melk	1	m e l k
+033/099	melk	1	m e l k
+033/101	melk	1	m e l k
+033/103	melk	1	m e l k
+033/105	melk	1	m e l k
+033/107	melk	1	m e l k
+033/109	melk	1	m e l k
+033/111	melk	1	m e l k
+033/113	melk	1	m e l k
+033/115	melk	1	m e l k
+033/117	mälk	1	m ä l k
+033/119	melk	1	m e l k
+033/121	melk	1	m e l k
+033/123	melk	1	m e l k
+033/125	melk	1	m e l k
+033/127	melk	1	m e l k
+033/129	mälk	1	m ä l k
+033/131	melk	1	m e l k
+033/133	melk	1	m e l k
+033/135	melk	1	m e l k
+033/137	melk	1	m e l k
+033/139	melk	1	m e l k
+033/141	melk	1	m e l k
+033/143	melk	1	m e l k
+033/145	melk	1	m e l k
+033/147	melk	1	m e l k
+033/149	melk	1	m e l k
+033/151	melk	1	m e l k
+033/153	melk	1	m e l k
+033/155	melk	1	m e l k
+033/159	melk	1	m e l k
+033/161	melk	1	m e l k
+033/163	melk	1	m e l k
+033/165	melk	1	m e l k
+033/167	melk	1	m e l k
+033/169	melk	1	m e l k
+033/173	mälk	1	m ä l k
+033/175	melk	1	m e l k
+033/177	melk	1	m e l k
+034/035	mälk	1	m ä l k
+034/039	malek	1	m a l e k
+034/041	melk	1	m e l k
+034/043	melk	1	m e l k
+034/045	melk	1	m e l k
+034/047	melk	1	m e l k
+034/049	melk	1	m e l k
+034/051	melk	1	m e l k
+034/053	melk	1	m e l k
+034/055	melk	1	m e l k
+034/057	melk	1	m e l k
+034/059	melk	1	m e l k
+034/061	melk	1	m e l k
+034/063	melk	1	m e l k
+034/065	melk	1	m e l k
+034/067	melk	1	m e l k
+034/069	melk	1	m e l k
+034/071	melk	1	m e l k
+034/073	melk	1	m e l k
+034/075	melk	1	m e l k
+034/077	melk	1	m e l k
+034/079	melk	1	m e l k
+034/081	melk	1	m e l k
+034/083	melk	1	m e l k
+034/085	melk	1	m e l k
+034/087	melk	1	m e l k
+034/089	melk	1	m e l k
+034/091	melk	1	m e l k
+034/093	melk	1	m e l k
+034/095	melk	1	m e l k
+034/097	melk	1	m e l k
+034/099	melk	1	m e l k
+034/101	melk	1	m e l k
+034/103	melk	1	m e l k
+034/105	mälk	1	m ä l k
+034/107	melk	1	m e l k
+034/109	melk	1	m e l k
+034/111	melk	1	m e l k
+034/113	melk	1	m e l k
+034/115	mälk	1	m ä l k
+034/117	melk	1	m e l k
+034/119	melk	1	m e l k
+034/121	melk	1	m e l k
+034/125	melk	1	m e l k
+034/127	melk	1	m e l k
+034/129	melk	1	m e l k
+034/131	melk	1	m e l k
+034/133	melk	1	m e l k
+034/135	melk	1	m e l k
+034/137	mälk	1	m ä l k
+034/139	melk	1	m e l k
+034/141	melk	1	m e l k
+034/143	melk	1	m e l k
+034/145	mälk	1	m ä l k
+034/147	melk	1	m e l k
+034/149	melk	1	m e l k
+034/151	melk	1	m e l k
+034/155	melk	1	m e l k
+034/157	mälk	1	m ä l k
+034/161	melk	1	m e l k
+034/163	melk	1	m e l k
+034/165	melk	1	m e l k
+034/167	melk	1	m e l k
+034/169	mälk	1	m ä l k
+034/173	melk	1	m e l k
+035/035	melk	1	m e l k
+035/037	malek	1	m a l e k
+035/039	mellek	1	m e ll e k
+035/041	mällekk	1	m ä ll e kk
+035/043	mellek	1	m e ll e k
+035/045	melk	1	m e l k
+035/047	melk	1	m e l k
+035/049	melk	1	m e l k
+035/051	mälk	1	m ä l k
+035/053	melk	1	m e l k
+035/055	melk	1	m e l k
+035/057	melk	1	m e l k
+035/059	melk	1	m e l k
+035/061	melk	1	m e l k
+035/063	melk	1	m e l k
+035/065	melk	1	m e l k
+035/067	melk	1	m e l k
+035/069	melk	1	m e l k
+035/071	melk	1	m e l k
+035/073	melk	1	m e l k
+035/075	melk	1	m e l k
+035/077	melk	1	m e l k
+035/079	melk	1	m e l k
+035/081	melk	1	m e l k
+035/083	melk	1	m e l k
+035/085	melk	1	m e l k
+035/087	melk	1	m e l k
+035/089	melk	1	m e l k
+035/091	melk	1	m e l k
+035/093	mälk	1	m ä l k
+035/095	melk	1	m e l k
+035/097	melk	1	m e l k
+035/099	melk	1	m e l k
+035/101	melk	1	m e l k
+035/103	melk	1	m e l k
+035/105	melk	1	m e l k
+035/107	melk	1	m e l k
+035/109	melk	1	m e l k
+035/111	melk	1	m e l k
+035/113	melk	1	m e l k
+035/115	melk	1	m e l k
+035/117	melk	1	m e l k
+035/121	melk	1	m e l k
+035/123	melk	1	m e l k
+035/125	melk	1	m e l k
+035/127	melk	1	m e l k
+035/129	melk	1	m e l k
+035/133	melk	1	m e l k
+035/135	melk	1	m e l k
+035/137	melk	1	m e l k
+035/139	melk	1	m e l k
+035/141	melk	1	m e l k
+035/143	melk	1	m e l k
+035/145	melk	1	m e l k
+035/147	melk	1	m e l k
+035/149	melk	1	m e l k
+035/151	mälk	1	m ä l k
+035/153	melk	1	m e l k
+035/155	melk	1	m e l k
+035/157	mälk	1	m ä l k
+035/165	melk	1	m e l k
+035/167	melk	1	m e l k
+035/169	melk	1	m e l k
+035/171	melk	1	m e l k
+035/173	melk	1	m e l k
+036/033	mälk	1	m ä l k
+036/035	mälk	1	m ä l k
+036/039	melk	1	m e l k
+036/041	mälk	1	m ä l k
+036/043	melk	1	m e l k
+036/045	melk	1	m e l k
+036/047	melk	1	m e l k
+036/049	melk	1	m e l k
+036/051	melk	1	m e l k
+036/053	melk	1	m e l k
+036/055	melk	1	m e l k
+036/057	melk	1	m e l k
+036/059	melck	1	m e l ck
+036/061	melk	1	m e l k
+036/063	melk	1	m e l k
+036/065	melk	1	m e l k
+036/067	melk	1	m e l k
+036/069	melk	1	m e l k
+036/071	melk	1	m e l k
+036/073	melk	1	m e l k
+036/075	melk	1	m e l k
+036/077	melk	1	m e l k
+036/079	melk	1	m e l k
+036/081	melk	1	m e l k
+036/083	melk	1	m e l k
+036/085	melk	1	m e l k
+036/087	melk	1	m e l k
+036/089	melk	1	m e l k
+036/091	melk	1	m e l k
+036/095	melk	1	m e l k
+036/097	melk	1	m e l k
+036/099	melk	1	m e l k
+036/101	melk	1	m e l k
+036/103	melk	1	m e l k
+036/105	melk	1	m e l k
+036/107	melk	1	m e l k
+036/109	melk	1	m e l k
+036/111	melk	1	m e l k
+036/113	melk	1	m e l k
+036/115	melk	1	m e l k
+036/117	melk	1	m e l k
+036/119	melk	1	m e l k
+036/121	melk	1	m e l k
+036/123	melk	1	m e l k
+036/125	melk	1	m e l k
+036/127	melk	1	m e l k
+036/129	melk	1	m e l k
+036/133	melk	1	m e l k
+036/135	melk	1	m e l k
+036/137	melk	1	m e l k
+036/139	mälk	1	m ä l k
+036/141	melk	1	m e l k
+036/143	melk	1	m e l k
+036/147	melk	1	m e l k
+036/149	melk	1	m e l k
+036/151	mälk	1	m ä l k
+036/153	melk	1	m e l k
+036/155	melk	1	m e l k
+036/161	melk	1	m e l k
+036/163	mälk	1	m ä l k
+036/165	melk	1	m e l k
+036/167	melk	1	m e l k
+036/169	melk	1	m e l k
+036/171	melk	1	m e l k
+037/033	maelk	1	m ae l k
+037/035	melk	1	m e l k
+037/037	mellek	1	m e ll e k
+037/039	mälleck	1	m ä ll e ck
+037/041	melk	1	m e l k
+037/043	melk	1	m e l k
+037/045	melk	1	m e l k
+037/047	melk	1	m e l k
+037/049	mölk	1	m ö l k
+037/051	melk	1	m e l k
+037/053	melk	1	m e l k
+037/055	melk	1	m e l k
+037/057	melk	1	m e l k
+037/059	melk	1	m e l k
+037/061	melk	1	m e l k
+037/063	melk	1	m e l k
+037/065	melk	1	m e l k
+037/067	melk	1	m e l k
+037/069	melk	1	m e l k
+037/071	melk	1	m e l k
+037/073	melk	1	m e l k
+037/075	melk	1	m e l k
+037/077	melk	1	m e l k
+037/079	mäak	1	m äa k
+037/081	mälk	1	m ä l k
+037/083	melk	1	m e l k
+037/085	melk	1	m e l k
+037/087	melk	1	m e l k
+037/089	melk	1	m e l k
+037/091	melk	1	m e l k
+037/093	melk	1	m e l k
+037/095	melk	1	m e l k
+037/097	melk	1	m e l k
+037/099	melk	1	m e l k
+037/101	melk	1	m e l k
+037/105	melk	1	m e l k
+037/107	melk	1	m e l k
+037/109	melk	1	m e l k
+037/111	melk	1	m e l k
+037/113	melk	1	m e l k
+037/115	melk	1	m e l k
+037/117	melk	1	m e l k
+037/119	melk	1	m e l k
+037/121	melk	1	m e l k
+037/123	melk	1	m e l k
+037/125	melk	1	m e l k
+037/127	melk	1	m e l k
+037/129	mälk	1	m ä l k
+037/131	melk	1	m e l k
+037/133	melk	1	m e l k
+037/135	melk	1	m e l k
+037/137	melk	1	m e l k
+037/139	melk	1	m e l k
+037/141	melk	1	m e l k
+037/145	melk	1	m e l k
+037/147	melk	1	m e l k
+037/149	melk	1	m e l k
+037/151	melk	1	m e l k
+037/153	melk	1	m e l k
+037/155	melk	1	m e l k
+037/157	mellk	1	m e ll k
+037/159	melk	1	m e l k
+037/163	mälk	1	m ä l k
+037/171	melk	1	m e l k
+038/033	mälk	1	m ä l k
+038/035	mälk	1	m ä l k
+038/037	mällek	1	m ä ll e k
+038/039	mälleck	1	m ä ll e ck
+038/041	mälk	1	m ä l k
+038/043	melk	1	m e l k
+038/045	melk	1	m e l k
+038/047	melk	1	m e l k
+038/049	melk	1	m e l k
+038/051	melk	1	m e l k
+038/053	mölk	1	m ö l k
+038/055	melk	1	m e l k
+038/057	melk	1	m e l k
+038/059	melk	1	m e l k
+038/061	melk	1	m e l k
+038/063	melk	1	m e l k
+038/065	melk	1	m e l k
+038/067	melk	1	m e l k
+038/069	melk	1	m e l k
+038/071	melk	1	m e l k
+038/073	melk	1	m e l k
+038/075	melk	1	m e l k
+038/077	mälk	1	m ä l k
+038/079	melk	1	m e l k
+038/081	melk	1	m e l k
+038/083	mölk	1	m ö l k
+038/085	melk	1	m e l k
+038/087	melk	1	m e l k
+038/089	melk	1	m e l k
+038/091	melk	1	m e l k
+038/093	melk	1	m e l k
+038/095	melk	1	m e l k
+038/097	melk	1	m e l k
+038/099	melk	1	m e l k
+038/101	melk	1	m e l k
+038/103	mälk	1	m ä l k
+038/105	melk	1	m e l k
+038/107	melk	1	m e l k
+038/109	melk	1	m e l k
+038/111	melk	1	m e l k
+038/113	melk	1	m e l k
+038/115	melk	1	m e l k
+038/117	melk	1	m e l k
+038/119	melk	1	m e l k
+038/121	mälk	1	m ä l k
+038/123	melk	1	m e l k
+038/125	melk	1	m e l k
+038/127	melk	1	m e l k
+038/129	melk	1	m e l k
+038/131	mellk	1	m e ll k
+038/133	melk	1	m e l k
+038/135	melk	1	m e l k
+038/145	melk	1	m e l k
+038/147	melk	1	m e l k
+038/149	melk	1	m e l k
+038/151	melk	1	m e l k
+038/153	melk	1	m e l k
+038/155	melk	1	m e l k
+038/159	melk	1	m e l k
+038/161	melk	1	m e l k
+038/163	melk	1	m e l k
+039/029	melk	1	m e l k
+039/031	melk	1	m e l k
+039/033	mälk	1	m ä l k
+039/035	mälk	1	m ä l k
+039/037	mälk	1	m ä l k
+039/039	mälk	1	m ä l k
+039/041	mälk	1	m ä l k
+039/043	mälk	1	m ä l k
+039/045	melk	1	m e l k
+039/047	melk	1	m e l k
+039/049	melk	1	m e l k
+039/051	melk	1	m e l k
+039/053	melk	1	m e l k
+039/055	melk	1	m e l k
+039/057	melk	1	m e l k
+039/059	melk	1	m e l k
+039/061	melk	1	m e l k
+039/063	melk	1	m e l k
+039/065	melk	1	m e l k
+039/067	melk	1	m e l k
+039/069	melk	1	m e l k
+039/071	melk	1	m e l k
+039/073	melk	1	m e l k
+039/075	melk	1	m e l k
+039/077	melk	1	m e l k
+039/079	melk	1	m e l k
+039/081	melk	1	m e l k
+039/083	melk	1	m e l k
+039/085	melk	1	m e l k
+039/087	melk	1	m e l k
+039/089	melk	1	m e l k
+039/091	melk	1	m e l k
+039/093	melk	1	m e l k
+039/095	melk	1	m e l k
+039/097	melk	1	m e l k
+039/099	melk	1	m e l k
+039/101	melk	1	m e l k
+039/103	melk	1	m e l k
+039/105	melk	1	m e l k
+039/107	melk	1	m e l k
+039/109	melk	1	m e l k
+039/111	melk	1	m e l k
+039/113	melk	1	m e l k
+039/115	melk	1	m e l k
+039/117	melk	1	m e l k
+039/119	melk	1	m e l k
+039/121	melk	1	m e l k
+039/123	melk	1	m e l k
+039/125	melk	1	m e l k
+039/127	melk	1	m e l k
+039/129	melk	1	m e l k
+039/131	melch	1	m e l ch
+039/133	melch	1	m e l ch
+039/135	malch	1	m a l ch
+039/137	melk	1	m e l k
+039/139	milch	1	m i l ch
+039/149	miak	1	m ia k
+039/151	melk	1	m e l k
+039/153	miak	1	m ia k
+039/155	melk	1	m e l k
+040/029	melk	1	m e l k
+040/031	melk	1	m e l k
+040/033	mälk	1	m ä l k
+040/035	melk	1	m e l k
+040/037	melk	1	m e l k
+040/039	mälk	1	m ä l k
+040/041	melk	1	m e l k
+040/043	mälk	1	m ä l k
+040/045	meälk	1	m eä l k
+040/047	mälk	1	m ä l k
+040/049	melk	1	m e l k
+040/051	melk	1	m e l k
+040/053	melk	1	m e l k
+040/055	melk	1	m e l k
+040/057	melk	1	m e l k
+040/059	melk	1	m e l k
+040/061	melk	1	m e l k
+040/063	melk	1	m e l k
+040/065	melk	1	m e l k
+040/067	melk	1	m e l k
+040/069	melk	1	m e l k
+040/071	melk	1	m e l k
+040/073	melk	1	m e l k
+040/075	melk	1	m e l k
+040/077	melk	1	m e l k
+040/079	melk	1	m e l k
+040/081	melk	1	m e l k
+040/083	melk	1	m e l k
+040/085	melk	1	m e l k
+040/087	melk	1	m e l k
+040/089	melk	1	m e l k
+040/091	melk	1	m e l k
+040/093	melk	1	m e l k
+040/095	melk	1	m e l k
+040/097	melk	1	m e l k
+040/099	melk	1	m e l k
+040/101	melk	1	m e l k
+040/103	melk	1	m e l k
+040/105	melk	1	m e l k
+040/107	millich	1	m i ll i ch
+040/109	milch	1	m i l ch
+040/111	melk	1	m e l k
+040/113	melk	1	m e l k
+040/115	melk	1	m e l k
+040/119	melk	1	m e l k
+040/121	mälk	1	m ä l k
+040/123	melk	1	m e l k
+040/125	melk	1	m e l k
+040/127	melch	1	m e l ch
+040/129	milch	1	m i l ch
+040/131	melch	1	m e l ch
+040/133	melch	1	m e l ch
+040/135	melch	1	m e l ch
+040/137	melch	1	m e l ch
+040/141	milch	1	m i l ch
+040/143	milch	1	m i l ch
+040/149	milch	1	m i l ch
+040/153	melk	1	m e l k
+040/155	melk	1	m e l k
+041/031	melk	1	m e l k
+041/033	melk	1	m e l k
+041/035	melk	1	m e l k
+041/037	melk	1	m e l k
+041/039	mälk	1	m ä l k
+041/041	melk	1	m e l k
+041/043	melk	1	m e l k
+041/045	mialk	1	m ia l k
+041/047	miälk	1	m iä l k
+041/049	melk	1	m e l k
+041/051	melk	1	m e l k
+041/053	melk	1	m e l k
+041/055	melk	1	m e l k
+041/057	melk	1	m e l k
+041/059	melk	1	m e l k
+041/061	melk	1	m e l k
+041/063	melk	1	m e l k
+041/065	melk	1	m e l k
+041/067	melk	1	m e l k
+041/069	melk	1	m e l k
+041/071	melk	1	m e l k
+041/073	melk	1	m e l k
+041/075	melk	1	m e l k
+041/077	melk	1	m e l k
+041/079	melk	1	m e l k
+041/081	melk	1	m e l k
+041/083	melk	1	m e l k
+041/085	melk	1	m e l k
+041/087	melk	1	m e l k
+041/089	mälk	1	m ä l k
+041/091	melk	1	m e l k
+041/093	melk	1	m e l k
+041/095	melk	1	m e l k
+041/097	melk	1	m e l k
+041/099	melk	1	m e l k
+041/101	melk	1	m e l k
+041/103	melk	1	m e l k
+041/105	melk	1	m e l k
+041/107	melk	1	m e l k
+041/109	melk	1	m e l k
+041/111	milch	1	m i l ch
+041/113	melk	1	m e l k
+041/115	melk	1	m e l k
+041/117	melk	1	m e l k
+041/119	melk	1	m e l k
+041/121	melk	1	m e l k
+041/123	melk	1	m e l k
+041/125	melk	1	m e l k
+041/127	milch	1	m i l ch
+041/129	melch	1	m e l ch
+041/131	melch	1	m e l ch
+041/133	melch	1	m e l ch
+041/135	milch	1	m i l ch
+041/139	milch	1	m i l ch
+041/141	melk	1	m e l k
+041/145	milch	1	m i l ch
+041/147	milch	1	m i l ch
+041/153	melk	1	m e l k
+041/155	miak	1	m ia k
+041/157	melk	1	m e l k
+041/159	melk	1	m e l k
+041/161	melk	1	m e l k
+042/033	melk	1	m e l k
+042/035	melk	1	m e l k
+042/037	mälk	1	m ä l k
+042/039	melk	1	m e l k
+042/041	mälk	1	m ä l k
+042/043	merlk	1	m e r l k
+042/045	miölk	1	m iö l k
+042/047	meilk	1	m ei l k
+042/051	mehlk	1	m eh l k
+042/053	melk	1	m e l k
+042/055	melk	1	m e l k
+042/057	melk	1	m e l k
+042/059	melk	1	m e l k
+042/061	mälk	1	m ä l k
+042/063	melk	1	m e l k
+042/065	melk	1	m e l k
+042/067	melk	1	m e l k
+042/069	melk	1	m e l k
+042/071	mälk	1	m ä l k
+042/073	melk	1	m e l k
+042/075	melk	1	m e l k
+042/077	melk	1	m e l k
+042/079	melk	1	m e l k
+042/081	melk	1	m e l k
+042/083	melk	1	m e l k
+042/085	melk	1	m e l k
+042/087	melk	1	m e l k
+042/089	melk	1	m e l k
+042/091	melk	1	m e l k
+042/093	melk	1	m e l k
+042/095	melk	1	m e l k
+042/097	mälk	1	m ä l k
+042/099	mellick	1	m e ll i ck
+042/101	melk	1	m e l k
+042/103	milch	1	m i l ch
+042/105	milch	1	m i l ch
+042/107	mälek	1	m ä l e k
+042/109	melk	1	m e l k
+042/111	melk	1	m e l k
+042/113	melk	1	m e l k
+042/115	melk	1	m e l k
+042/117	melk	1	m e l k
+042/119	melk	1	m e l k
+042/121	melk	1	m e l k
+042/123	melk	1	m e l k
+042/125	melk	1	m e l k
+042/127	melch	1	m e l ch
+042/129	melch	1	m e l ch
+042/131	melch	1	m e l ch
+042/133	milch	1	m i l ch
+042/135	milch	1	m i l ch
+042/137	miloh	1	m i l oh
+042/139	milch	1	m i l ch
+042/141	milch	1	m i l ch
+042/143	milch	1	m i l ch
+042/145	milch	1	m i l ch
+042/147	milch	1	m i l ch
+042/149	milch	1	m i l ch
+042/151	milch	1	m i l ch
+042/157	melk	1	m e l k
+042/159	melk	1	m e l k
+042/161	melk	1	m e l k
+043/033	melk	1	m e l k
+043/035	melk	1	m e l k
+043/037	miälk	1	m iä l k
+043/039	miälk	1	m iä l k
+043/041	miälk	1	m iä l k
+043/043	miälk	1	m iä l k
+043/045	miählk	1	m iäh l k
+043/047	melk	1	m e l k
+043/049	miälk	1	m iä l k
+043/051	melk	1	m e l k
+043/053	melk	1	m e l k
+043/055	melk	1	m e l k
+043/057	melk	1	m e l k
+043/059	melk	1	m e l k
+043/061	melk	1	m e l k
+043/063	melk	1	m e l k
+043/065	melk	1	m e l k
+043/067	melk	1	m e l k
+043/069	melk	1	m e l k
+043/071	melk	1	m e l k
+043/073	melk	1	m e l k
+043/075	melk	1	m e l k
+043/077	melk	1	m e l k
+043/079	melk	1	m e l k
+043/081	melk	1	m e l k
+043/083	melk	1	m e l k
+043/085	melk	1	m e l k
+043/087	melk	1	m e l k
+043/089	melk	1	m e l k
+043/091	melk	1	m e l k
+043/093	melk	1	m e l k
+043/095	melk	1	m e l k
+043/097	melk	1	m e l k
+043/099	melk	1	m e l k
+043/101	melk	1	m e l k
+043/103	melk	1	m e l k
+043/105	melk	1	m e l k
+043/107	mellik	1	m e ll i k
+043/109	melk	1	m e l k
+043/111	melk	1	m e l k
+043/113	melk	1	m e l k
+043/115	melk	1	m e l k
+043/117	melk	1	m e l k
+043/119	milch	1	m i l ch
+043/121	melk	1	m e l k
+043/123	melch	1	m e l ch
+043/125	melch	1	m e l ch
+043/127	melch	1	m e l ch
+043/129	melch	1	m e l ch
+043/131	melch	1	m e l ch
+043/133	milch	1	m i l ch
+043/135	milch	1	m i l ch
+043/137	milch	1	m i l ch
+043/141	milch	1	m i l ch
+043/143	milch	1	m i l ch
+043/145	milch	1	m i l ch
+043/151	milch	1	m i l ch
+043/153	milch	1	m i l ch
+043/159	mjalk	1	m j a l k
+043/161	mialk	1	m ia l k
+044/033	miälck	1	m iä l ck
+044/035	miälk	1	m iä l k
+044/039	miälk	1	m iä l k
+044/041	miälk	1	m iä l k
+044/043	miälk	1	m iä l k
+044/045	mialk	1	m ia l k
+044/047	mielk	1	m ie l k
+044/049	miälk	1	m iä l k
+044/051	mielk	1	m ie l k
+044/053	melk	1	m e l k
+044/055	mälk	1	m ä l k
+044/057	meelk	1	m ee l k
+044/059	melk	1	m e l k
+044/061	melk	1	m e l k
+044/063	melk	1	m e l k
+044/065	melk	1	m e l k
+044/067	melk	1	m e l k
+044/069	melk	1	m e l k
+044/071	melk	1	m e l k
+044/073	melk	1	m e l k
+044/075	melk	1	m e l k
+044/077	melk	1	m e l k
+044/079	melk	1	m e l k
+044/081	melk	1	m e l k
+044/083	melk	1	m e l k
+044/085	melk	1	m e l k
+044/087	melk	1	m e l k
+044/089	melk	1	m e l k
+044/091	melk	1	m e l k
+044/093	melk	1	m e l k
+044/095	melk	1	m e l k
+044/097	melk	1	m e l k
+044/099	melk	1	m e l k
+044/101	melk	1	m e l k
+044/103	melk	1	m e l k
+044/105	meleck	1	m e l e ck
+044/107	melk	1	m e l k
+044/109	mälk	1	m ä l k
+044/111	melk	1	m e l k
+044/113	melk	1	m e l k
+044/115	milch	1	m i l ch
+044/117	melk	1	m e l k
+044/119	melk	1	m e l k
+044/121	melch	1	m e l ch
+044/123	melch	1	m e l ch
+044/125	mälch	1	m ä l ch
+044/127	melch	1	m e l ch
+044/129	milch	1	m i l ch
+044/131	milch	1	m i l ch
+044/133	milch	1	m i l ch
+044/135	milch	1	m i l ch
+044/137	milch	1	m i l ch
+044/141	milch	1	m i l ch
+044/143	milch	1	m i l ch
+044/145	milch	1	m i l ch
+044/149	milch	1	m i l ch
+044/151	mülch	1	m ü l ch
+044/153	milch	1	m i l ch
+045/033	mälk	1	m ä l k
+045/035	miälk	1	m iä l k
+045/037	miälk	1	m iä l k
+045/039	melk	1	m e l k
+045/041	miälk	1	m iä l k
+045/043	mielk	1	m ie l k
+045/045	mailk	1	m ai l k
+045/047	miälk	1	m iä l k
+045/049	miälk	1	m iä l k
+045/051	mielk	1	m ie l k
+045/053	melk	1	m e l k
+045/055	melk	1	m e l k
+045/057	melk	1	m e l k
+045/059	melk	1	m e l k
+045/061	melk	1	m e l k
+045/063	melk	1	m e l k
+045/065	melk	1	m e l k
+045/067	melk	1	m e l k
+045/069	melk	1	m e l k
+045/071	melk	1	m e l k
+045/073	melk	1	m e l k
+045/075	melk	1	m e l k
+045/077	melk	1	m e l k
+045/079	melk	1	m e l k
+045/081	melk	1	m e l k
+045/083	melk	1	m e l k
+045/085	melk	1	m e l k
+045/087	melk	1	m e l k
+045/089	melk	1	m e l k
+045/091	melk	1	m e l k
+045/093	melk	1	m e l k
+045/095	mellek	1	m e ll e k
+045/097	melk	1	m e l k
+045/099	melk	1	m e l k
+045/101	melk	1	m e l k
+045/103	melk	1	m e l k
+045/105	melk	1	m e l k
+045/107	melk	1	m e l k
+045/109	melck	1	m e l ck
+045/111	melk	1	m e l k
+045/113	melk	1	m e l k
+045/115	melch	1	m e l ch
+045/117	melk	1	m e l k
+045/119	melch	1	m e l ch
+045/121	melch	1	m e l ch
+045/123	melch	1	m e l ch
+045/125	melch	1	m e l ch
+045/127	melch	1	m e l ch
+045/129	milch	1	m i l ch
+045/131	milch	1	m i l ch
+045/133	milch	1	m i l ch
+045/135	milch	1	m i l ch
+045/137	milch	1	m i l ch
+045/139	milch	1	m i l ch
+045/141	milch	1	m i l ch
+045/143	milch	1	m i l ch
+045/145	milch	1	m i l ch
+045/155	milch	1	m i l ch
+046/031	mälk	1	m ä l k
+046/033	melk	1	m e l k
+046/035	mäilk	1	m äi l k
+046/037	miälk	1	m iä l k
+046/039	melk	1	m e l k
+046/041	miälk	1	m iä l k
+046/043	miälk	1	m iä l k
+046/045	mielk	1	m ie l k
+046/047	mialk	1	m ia l k
+046/049	miälk	1	m iä l k
+046/051	mialk	1	m ia l k
+046/053	mälk	1	m ä l k
+046/055	mälk	1	m ä l k
+046/057	melk	1	m e l k
+046/059	melk	1	m e l k
+046/061	melk	1	m e l k
+046/063	melk	1	m e l k
+046/065	melk	1	m e l k
+046/067	melk	1	m e l k
+046/069	melk	1	m e l k
+046/071	melk	1	m e l k
+046/073	melk	1	m e l k
+046/075	melk	1	m e l k
+046/077	melk	1	m e l k
+046/079	melk	1	m e l k
+046/081	melk	1	m e l k
+046/083	melk	1	m e l k
+046/085	melk	1	m e l k
+046/087	melk	1	m e l k
+046/089	melk	1	m e l k
+046/091	melk	1	m e l k
+046/093	melk	1	m e l k
+046/095	melk	1	m e l k
+046/097	melk	1	m e l k
+046/099	melk	1	m e l k
+046/101	mellk	1	m e ll k
+046/103	melk	1	m e l k
+046/105	melk	1	m e l k
+046/107	melk	1	m e l k
+046/109	melk	1	m e l k
+046/111	melk	1	m e l k
+046/113	melk	1	m e l k
+046/115	milch	1	m i l ch
+046/117	milch	1	m i l ch
+046/119	milch	1	m i l ch
+046/121	melch	1	m e l ch
+046/123	melch	1	m e l ch
+046/125	melch	1	m e l ch
+046/127	melch	1	m e l ch
+046/129	milch	1	m i l ch
+046/131	milch	1	m i l ch
+046/133	milch	1	m i l ch
+046/135	milch	1	m i l ch
+046/137	milch	1	m i l ch
+046/139	milch	1	m i l ch
+046/141	milch	1	m i l ch
+046/143	milch	1	m i l ch
+046/155	milch	1	m i l ch
+047/031	melk	1	m e l k
+047/033	melk	1	m e l k
+047/035	miärk	1	m iä r k
+047/037	miälk	1	m iä l k
+047/039	miälk	1	m iä l k
+047/041	miälk	1	m iä l k
+047/043	miälk	1	m iä l k
+047/045	miälk	1	m iä l k
+047/047	miälk	1	m iä l k
+047/049	mialk	1	m ia l k
+047/051	melk	1	m e l k
+047/053	mälk	1	m ä l k
+047/055	mälk	1	m ä l k
+047/057	mälk	1	m ä l k
+047/059	melk	1	m e l k
+047/061	melk	1	m e l k
+047/063	melk	1	m e l k
+047/065	melk	1	m e l k
+047/067	melk	1	m e l k
+047/069	melk	1	m e l k
+047/071	melk	1	m e l k
+047/073	mällek	1	m ä ll e k
+047/075	melek	1	m e l e k
+047/077	melk	1	m e l k
+047/079	mellek	1	m e ll e k
+047/081	melk	1	m e l k
+047/083	melk	1	m e l k
+047/085	melk	1	m e l k
+047/087	melk	1	m e l k
+047/089	melk	1	m e l k
+047/091	melk	1	m e l k
+047/093	melk	1	m e l k
+047/095	melk	1	m e l k
+047/097	milch	1	m i l ch
+047/099	milich	1	m i l i ch
+047/101	mälk	1	m ä l k
+047/103	melk	1	m e l k
+047/105	melk	1	m e l k
+047/107	melk	1	m e l k
+047/109	melk	1	m e l k
+047/111	melch	1	m e l ch
+047/113	melk	1	m e l k
+047/115	milch	1	m i l ch
+047/117	milch	1	m i l ch
+047/119	milch	1	m i l ch
+047/123	melch	1	m e l ch
+047/125	melch	1	m e l ch
+047/127	milch	1	m i l ch
+047/129	milch	1	m i l ch
+047/131	milch	1	m i l ch
+047/133	milch	1	m i l ch
+047/135	milch	1	m i l ch
+047/137	milch	1	m i l ch
+047/139	milch	1	m i l ch
+047/141	milch	1	m i l ch
+047/147	milch	1	m i l ch
+047/149	milch	1	m i l ch
+047/151	milch	1	m i l ch
+047/159	milch	1	m i l ch
+048/021	mälk	1	m ä l k
+048/023	melk	1	m e l k
+048/027	melk	1	m e l k
+048/029	melk	1	m e l k
+048/031	melk	1	m e l k
+048/033	melk	1	m e l k
+048/035	miälk	1	m iä l k
+048/037	miälk	1	m iä l k
+048/039	miälk	1	m iä l k
+048/041	miälk	1	m iä l k
+048/045	mialk	1	m ia l k
+048/047	miälk	1	m iä l k
+048/049	miälk	1	m iä l k
+048/051	miälk	1	m iä l k
+048/053	melk	1	m e l k
+048/055	mälk	1	m ä l k
+048/057	mälk	1	m ä l k
+048/059	mällek	1	m ä ll e k
+048/061	melk	1	m e l k
+048/063	melk	1	m e l k
+048/065	melk	1	m e l k
+048/067	melk	1	m e l k
+048/069	mellck	1	m e ll ck
+048/071	millich	1	m i ll i ch
+048/073	melk	1	m e l k
+048/075	melk	1	m e l k
+048/077	melk	1	m e l k
+048/079	melk	1	m e l k
+048/081	melk	1	m e l k
+048/083	melk	1	m e l k
+048/085	melk	1	m e l k
+048/087	melk	1	m e l k
+048/089	milch	1	m i l ch
+048/091	milch	1	m i l ch
+048/093	melk	1	m e l k
+048/095	milch	1	m i l ch
+048/099	milch	1	m i l ch
+048/101	milch	1	m i l ch
+048/103	milch	1	m i l ch
+048/105	melk	1	m e l k
+048/107	melk	1	m e l k
+048/109	melk	1	m e l k
+048/111	melk	1	m e l k
+048/113	milch	1	m i l ch
+048/115	millich	1	m i ll i ch
+048/119	milch	1	m i l ch
+048/123	melch	1	m e l ch
+048/125	melch	1	m e l ch
+048/127	milch	1	m i l ch
+048/129	milch	1	m i l ch
+048/131	milch	1	m i l ch
+048/133	milch	1	m i l ch
+048/135	milch	1	m i l ch
+048/137	milch	1	m i l ch
+048/139	milch	1	m i l ch
+048/141	milch	1	m i l ch
+048/143	miuuch	1	m iuu ch
+048/145	milch	1	m i l ch
+048/147	miulch	1	m iu l ch
+048/153	milch	1	m i l ch
+048/157	miuch	1	m iu ch
+048/159	milch	1	m i l ch
+049/019	rom	1	r o m
+049/021	melk	1	m e l k
+049/023	melk	1	m e l k
+049/025	melk	1	m e l k
+049/027	mälk	1	m ä l k
+049/029	melk	1	m e l k
+049/031	melk	1	m e l k
+049/033	mälk	1	m ä l k
+049/035	miälk	1	m iä l k
+049/037	miärlk	1	m iä r l k
+049/039	miälk	1	m iä l k
+049/041	miälk	1	m iä l k
+049/043	mialk	1	m ia l k
+049/045	miälk	1	m iä l k
+049/047	merlk	1	m e r l k
+049/049	miälk	1	m iä l k
+049/051	miälk	1	m iä l k
+049/053	miälk	1	m iä l k
+049/055	melk	1	m e l k
+049/057	milek	1	m i l e k
+049/059	mielek	1	m ie l e k
+049/061	melk	1	m e l k
+049/063	melk	1	m e l k
+049/065	melk	1	m e l k
+049/067	mälk	1	m ä l k
+049/069	mälk	1	m ä l k
+049/071	melk	1	m e l k
+049/073	millich	1	m i ll i ch
+049/077	melk	1	m e l k
+049/079	melk	1	m e l k
+049/081	melk	1	m e l k
+049/083	melk	1	m e l k
+049/085	melk	1	m e l k
+049/087	milch	1	m i l ch
+049/089	millich	1	m i ll i ch
+049/091	milch	1	m i l ch
+049/093	milch	1	m i l ch
+049/095	millich	1	m i ll i ch
+049/097	milch	1	m i l ch
+049/099	milch	1	m i l ch
+049/101	milch	1	m i l ch
+049/103	milch	1	m i l ch
+049/105	milch	1	m i l ch
+049/107	melk	1	m e l k
+049/109	melk	1	m e l k
+049/111	melk	1	m e l k
+049/113	melk	1	m e l k
+049/115	milch	1	m i l ch
+049/117	millich	1	m i ll i ch
+049/119	melch	1	m e l ch
+049/121	milch	1	m i l ch
+049/123	milich	1	m i l i ch
+049/125	melch	1	m e l ch
+049/127	milch	1	m i l ch
+049/129	milch	1	m i l ch
+049/131	milch	1	m i l ch
+049/133	milch	1	m i l ch
+049/135	milch	1	m i l ch
+049/137	milch	1	m i l ch
+049/139	milch	1	m i l ch
+049/141	miuch	1	m iu ch
+049/143	milch	1	m i l ch
+049/145	mieuch	1	m ieu ch
+049/147	milch	1	m i l ch
+049/151	muich	1	m ui ch
+050/021	melk	1	m e l k
+050/023	millich	1	m i ll i ch
+050/025	mälk	1	m ä l k
+050/027	mälk	1	m ä l k
+050/029	melk	1	m e l k
+050/031	melk	1	m e l k
+050/033	miälk	1	m iä l k
+050/035	miälk	1	m iä l k
+050/037	miälk	1	m iä l k
+050/039	mielk	1	m ie l k
+050/041	miälk	1	m iä l k
+050/043	miälk	1	m iä l k
+050/047	miälk	1	m iä l k
+050/049	mielk	1	m ie l k
+050/051	miälk	1	m iä l k
+050/053	miälk	1	m iä l k
+050/055	milk	1	m i l k
+050/057	millik	1	m i ll i k
+050/059	mielek	1	m ie l e k
+050/061	mileck	1	m i l e ck
+050/063	melk	1	m e l k
+050/065	melk	1	m e l k
+050/067	melk	1	m e l k
+050/069	melk	1	m e l k
+050/071	melk	1	m e l k
+050/073	melk	1	m e l k
+050/075	milch	1	m i l ch
+050/077	melk	1	m e l k
+050/079	mellich	1	m e ll i ch
+050/081	melch	1	m e l ch
+050/083	melk	1	m e l k
+050/085	melch	1	m e l ch
+050/087	melch	1	m e l ch
+050/089	mellich	1	m e ll i ch
+050/091	milch	1	m i l ch
+050/093	milich	1	m i l i ch
+050/095	milch	1	m i l ch
+050/097	milch	1	m i l ch
+050/099	milch	1	m i l ch
+050/101	milch	1	m i l ch
+050/103	milch	1	m i l ch
+050/105	milch	1	m i l ch
+050/107	melch	1	m e l ch
+050/109	mälch	1	m ä l ch
+050/111	melk	1	m e l k
+050/113	melk	1	m e l k
+050/115	milch	1	m i l ch
+050/117	milch	1	m i l ch
+050/119	milch	1	m i l ch
+050/121	milch	1	m i l ch
+050/125	milch	1	m i l ch
+050/127	milch	1	m i l ch
+050/129	milch	1	m i l ch
+050/131	milch	1	m i l ch
+050/133	milch	1	m i l ch
+050/135	milch	1	m i l ch
+050/137	milch	1	m i l ch
+050/139	milch	1	m i l ch
+050/141	milch	1	m i l ch
+050/143	miuch	1	m iu ch
+050/145	miuch	1	m iu ch
+050/147	milch	1	m i l ch
+050/149	milch	1	m i l ch
+050/151	milch	1	m i l ch
+050/155	milch	1	m i l ch
+050/157	milch	1	m i l ch
+050/159	milch	1	m i l ch
+050/161	millich	1	m i ll i ch
+051/023	melleck	1	m e ll e ck
+051/025	melk	1	m e l k
+051/027	mälk	1	m ä l k
+051/029	melk	1	m e l k
+051/031	melk	1	m e l k
+051/033	mälk	1	m ä l k
+051/035	mialk	1	m ia l k
+051/037	miälk	1	m iä l k
+051/039	miälk	1	m iä l k
+051/041	miälk	1	m iä l k
+051/043	miälk	1	m iä l k
+051/045	miälk	1	m iä l k
+051/047	miälk	1	m iä l k
+051/049	maelk	1	m ae l k
+051/051	miälk	1	m iä l k
+051/053	milk	1	m i l k
+051/055	mielk	1	m ie l k
+051/057	milk	1	m i l k
+051/059	milek	1	m i l e k
+051/061	melk	1	m e l k
+051/063	melk	1	m e l k
+051/065	melk	1	m e l k
+051/067	melk	1	m e l k
+051/069	melk	1	m e l k
+051/071	melk	1	m e l k
+051/073	melk	1	m e l k
+051/075	melch	1	m e l ch
+051/077	melek	1	m e l e k
+051/079	melch	1	m e l ch
+051/081	mellich	1	m e ll i ch
+051/083	melch	1	m e l ch
+051/085	melch	1	m e l ch
+051/087	melech	1	m e l e ch
+051/089	mälch	1	m ä l ch
+051/091	milch	1	m i l ch
+051/093	millich	1	m i ll i ch
+051/095	milch	1	m i l ch
+051/097	milch	1	m i l ch
+051/099	milch	1	m i l ch
+051/101	milch	1	m i l ch
+051/103	milch	1	m i l ch
+051/105	milch	1	m i l ch
+051/107	milch	1	m i l ch
+051/109	melch	1	m e l ch
+051/111	milch	1	m i l ch
+051/113	milch	1	m i l ch
+051/115	milch	1	m i l ch
+051/117	milch	1	m i l ch
+051/119	milch	1	m i l ch
+051/121	milch	1	m i l ch
+051/123	millich	1	m i ll i ch
+051/125	millich	1	m i ll i ch
+051/127	milch	1	m i l ch
+051/129	milch	1	m i l ch
+051/131	milch	1	m i l ch
+051/133	milch	1	m i l ch
+051/135	milch	1	m i l ch
+051/137	milch	1	m i l ch
+051/139	milch	1	m i l ch
+051/141	milch	1	m i l ch
+051/143	milch	1	m i l ch
+051/145	miuch	1	m iu ch
+051/147	milch	1	m i l ch
+051/149	milch	1	m i l ch
+051/151	milch	1	m i l ch
+051/153	milch	1	m i l ch
+051/155	milch	1	m i l ch
+051/157	milch	1	m i l ch
+052/023	melk	1	m e l k
+052/025	mälk	1	m ä l k
+052/027	melk	1	m e l k
+052/029	mälk	1	m ä l k
+052/031	melk	1	m e l k
+052/033	melk	1	m e l k
+052/035	mialk	1	m ia l k
+052/037	miälk	1	m iä l k
+052/039	miälk	1	m iä l k
+052/041	miälk	1	m iä l k
+052/043	miälk	1	m iä l k
+052/045	miälk	1	m iä l k
+052/047	mieälk	1	m ieä l k
+052/049	milk	1	m i l k
+052/051	milk	1	m i l k
+052/053	milk	1	m i l k
+052/057	millek	1	m i ll e k
+052/059	millek	1	m i ll e k
+052/061	milk	1	m i l k
+052/063	melk	1	m e l k
+052/065	melk	1	m e l k
+052/067	melk	1	m e l k
+052/069	melk	1	m e l k
+052/071	melk	1	m e l k
+052/073	melk	1	m e l k
+052/075	mälich	1	m ä l i ch
+052/077	mälch	1	m ä l ch
+052/079	melch	1	m e l ch
+052/081	mällich	1	m ä ll i ch
+052/083	mälch	1	m ä l ch
+052/085	melch	1	m e l ch
+052/087	mellich	1	m e ll i ch
+052/089	melch	1	m e l ch
+052/091	melch	1	m e l ch
+052/093	melch	1	m e l ch
+052/095	millich	1	m i ll i ch
+052/097	milich	1	m i l i ch
+052/099	melch	1	m e l ch
+052/101	milch	1	m i l ch
+052/103	milch	1	m i l ch
+052/105	milch	1	m i l ch
+052/107	milch	1	m i l ch
+052/109	milch	1	m i l ch
+052/111	melch	1	m e l ch
+052/113	milch	1	m i l ch
+052/115	milich	1	m i l i ch
+052/117	milch	1	m i l ch
+052/121	milch	1	m i l ch
+052/123	milich	1	m i l i ch
+052/125	milich	1	m i l i ch
+052/127	milch	1	m i l ch
+052/129	milch	1	m i l ch
+052/131	milch	1	m i l ch
+052/133	milch	1	m i l ch
+052/135	milch	1	m i l ch
+052/137	mioich	1	m ioi ch
+052/139	milch	1	m i l ch
+052/141	milch	1	m i l ch
+052/143	miolch	1	m io l ch
+052/145	milch	1	m i l ch
+052/147	milch	1	m i l ch
+052/149	milch	1	m i l ch
+052/151	milch	1	m i l ch
+052/153	milch	1	m i l ch
+052/155	milch	1	m i l ch
+052/157	milch	1	m i l ch
+052/159	milch	1	m i l ch
+053/023	melk	1	m e l k
+053/025	melk	1	m e l k
+053/027	mälk	1	m ä l k
+053/029	mälek	1	m ä l e k
+053/031	milk	1	m i l k
+053/033	miälk	1	m iä l k
+053/035	miälk	1	m iä l k
+053/037	miälk	1	m iä l k
+053/039	miälk	1	m iä l k
+053/041	miälk	1	m iä l k
+053/043	mielk	1	m ie l k
+053/045	meeilk	1	m eei l k
+053/047	miälk	1	m iä l k
+053/049	milk	1	m i l k
+053/051	milk	1	m i l k
+053/053	milk	1	m i l k
+053/055	milk	1	m i l k
+053/057	milk	1	m i l k
+053/059	milk	1	m i l k
+053/061	millek	1	m i ll e k
+053/063	melk	1	m e l k
+053/065	melk	1	m e l k
+053/067	melk	1	m e l k
+053/069	melk	1	m e l k
+053/071	melleck	1	m e ll e ck
+053/073	melk	1	m e l k
+053/075	mällich	1	m ä ll i ch
+053/077	mällich	1	m ä ll i ch
+053/079	mällich	1	m ä ll i ch
+053/081	mälch	1	m ä l ch
+053/083	melch	1	m e l ch
+053/085	melch	1	m e l ch
+053/087	melch	1	m e l ch
+053/089	mellich	1	m e ll i ch
+053/091	milich	1	m i l i ch
+053/093	melch	1	m e l ch
+053/095	melch	1	m e l ch
+053/097	milch	1	m i l ch
+053/099	melch	1	m e l ch
+053/101	millich	1	m i ll i ch
+053/103	milch	1	m i l ch
+053/105	milch	1	m i l ch
+053/107	milch	1	m i l ch
+053/109	milch	1	m i l ch
+053/111	millich	1	m i ll i ch
+053/113	milch	1	m i l ch
+053/115	milch	1	m i l ch
+053/121	milch	1	m i l ch
+053/123	milch	1	m i l ch
+053/125	milch	1	m i l ch
+053/127	milch	1	m i l ch
+053/129	milch	1	m i l ch
+053/131	milch	1	m i l ch
+053/133	milch	1	m i l ch
+053/135	milch	1	m i l ch
+053/137	milch	1	m i l ch
+053/139	milch	1	m i l ch
+053/141	milch	1	m i l ch
+053/143	milch	1	m i l ch
+053/145	milch	1	m i l ch
+053/147	milch	1	m i l ch
+053/149	milch	1	m i l ch
+053/151	millh	1	m i ll h
+053/153	milch	1	m i l ch
+053/155	milch	1	m i l ch
+053/157	milich	1	m i l i ch
+054/023	meelk	1	m ee l k
+054/025	melek	1	m e l e k
+054/027	melk	1	m e l k
+054/029	melk	1	m e l k
+054/031	melk	1	m e l k
+054/033	melk	1	m e l k
+054/035	mälk	1	m ä l k
+054/037	mälk	1	m ä l k
+054/039	miälk	1	m iä l k
+054/041	mälk	1	m ä l k
+054/043	miälk	1	m iä l k
+054/045	miälk	1	m iä l k
+054/047	mielk	1	m ie l k
+054/049	milk	1	m i l k
+054/051	milk	1	m i l k
+054/053	mielk	1	m ie l k
+054/055	milk	1	m i l k
+054/057	milk	1	m i l k
+054/059	milk	1	m i l k
+054/061	melch	1	m e l ch
+054/063	melch	1	m e l ch
+054/065	melk	1	m e l k
+054/067	melch	1	m e l ch
+054/069	melch	1	m e l ch
+054/071	mälch	1	m ä l ch
+054/073	mälch	1	m ä l ch
+054/075	mällj	1	m ä ll j
+054/077	mällich	1	m ä ll i ch
+054/079	mällich	1	m ä ll i ch
+054/081	mälch	1	m ä l ch
+054/083	mälch	1	m ä l ch
+054/085	melich	1	m e l i ch
+054/087	melch	1	m e l ch
+054/089	melch	1	m e l ch
+054/091	mellich	1	m e ll i ch
+054/093	melch	1	m e l ch
+054/095	melch	1	m e l ch
+054/097	milich	1	m i l i ch
+054/099	milch	1	m i l ch
+054/101	milch	1	m i l ch
+054/103	NA	NA	-
+054/105	milich	1	m i l i ch
+054/107	milch	1	m i l ch
+054/109	milch	1	m i l ch
+054/111	milch	1	m i l ch
+054/113	milich	1	m i l i ch
+054/115	milch	1	m i l ch
+054/117	milch	1	m i l ch
+054/119	milch	1	m i l ch
+054/121	milch	1	m i l ch
+054/123	milch	1	m i l ch
+054/125	milch	1	m i l ch
+054/127	milch	1	m i l ch
+054/131	milch	1	m i l ch
+054/133	milch	1	m i l ch
+054/135	milch	1	m i l ch
+054/137	milch	1	m i l ch
+054/139	milch	1	m i l ch
+054/141	milch	1	m i l ch
+054/143	milch	1	m i l ch
+054/145	milch	1	m i l ch
+054/147	milch	1	m i l ch
+054/149	milch	1	m i l ch
+054/151	milch	1	m i l ch
+054/153	milch	1	m i l ch
+054/155	milch	1	m i l ch
+054/157	milch	1	m i l ch
+054/159	milich	1	m i l i ch
+054/161	milch	1	m i l ch
+054/163	melk	1	m e l k
+055/023	meelk	1	m ee l k
+055/025	mellök	1	m e ll ö k
+055/027	melleck	1	m e ll e ck
+055/029	melk	1	m e l k
+055/031	melk	1	m e l k
+055/033	melk	1	m e l k
+055/035	melk	1	m e l k
+055/037	melk	1	m e l k
+055/039	miälk	1	m iä l k
+055/041	miälk	1	m iä l k
+055/043	miäilk	1	m iäi l k
+055/045	mielk	1	m ie l k
+055/047	millek	1	m i ll e k
+055/049	milk	1	m i l k
+055/051	milk	1	m i l k
+055/053	milk	1	m i l k
+055/055	milk	1	m i l k
+055/057	miälk	1	m iä l k
+055/059	mölk	1	m ö l k
+055/061	melch	1	m e l ch
+055/063	melch	1	m e l ch
+055/065	melch	1	m e l ch
+055/067	melch	1	m e l ch
+055/069	mälch	1	m ä l ch
+055/071	mälch	1	m ä l ch
+055/073	mälich	1	m ä l i ch
+055/075	mälch	1	m ä l ch
+055/077	mällch	1	m ä ll ch
+055/079	mälch	1	m ä l ch
+055/081	melch	1	m e l ch
+055/083	mälch	1	m ä l ch
+055/085	mellch	1	m e ll ch
+055/087	melch	1	m e l ch
+055/089	melch	1	m e l ch
+055/091	melch	1	m e l ch
+055/093	melch	1	m e l ch
+055/095	melch	1	m e l ch
+055/097	milch	1	m i l ch
+055/099	milich	1	m i l i ch
+055/101	milch	1	m i l ch
+055/103	milch	1	m i l ch
+055/105	milch	1	m i l ch
+055/107	milch	1	m i l ch
+055/109	millich	1	m i ll i ch
+055/111	milch	1	m i l ch
+055/113	milich	1	m i l i ch
+055/115	milch	1	m i l ch
+055/117	melch	1	m e l ch
+055/119	milch	1	m i l ch
+055/123	milch	1	m i l ch
+055/125	milch	1	m i l ch
+055/127	milch	1	m i l ch
+055/131	milch	1	m i l ch
+055/133	milch	1	m i l ch
+055/135	milch	1	m i l ch
+055/137	melch	1	m e l ch
+055/139	milch	1	m i l ch
+055/141	milch	1	m i l ch
+055/143	milch	1	m i l ch
+055/145	milch	1	m i l ch
+055/147	milch	1	m i l ch
+055/149	milch	1	m i l ch
+055/151	milch	1	m i l ch
+055/153	milch	1	m i l ch
+055/155	milch	1	m i l ch
+055/157	milch	1	m i l ch
+055/159	milich	1	m i l i ch
+055/161	milch	1	m i l ch
+056/021	melk	1	m e l k
+056/023	melk	1	m e l k
+056/025	meleck	1	m e l e ck
+056/027	melk	1	m e l k
+056/029	mellek	1	m e ll e k
+056/031	melk	1	m e l k
+056/033	melk	1	m e l k
+056/035	melk	1	m e l k
+056/037	mälk	1	m ä l k
+056/039	mialk	1	m ia l k
+056/041	miälk	1	m iä l k
+056/043	mielk	1	m ie l k
+056/045	milk	1	m i l k
+056/047	milek	1	m i l e k
+056/049	milek	1	m i l e k
+056/051	milk	1	m i l k
+056/053	mielk	1	m ie l k
+056/055	melk	1	m e l k
+056/057	melk	1	m e l k
+056/059	melch	1	m e l ch
+056/061	mälch	1	m ä l ch
+056/063	mälch	1	m ä l ch
+056/065	mälch	1	m ä l ch
+056/067	melch	1	m e l ch
+056/069	mälch	1	m ä l ch
+056/071	melch	1	m e l ch
+056/073	mälch	1	m ä l ch
+056/075	mälch	1	m ä l ch
+056/077	mällich	1	m ä ll i ch
+056/079	melch	1	m e l ch
+056/081	mälch	1	m ä l ch
+056/083	melch	1	m e l ch
+056/085	melch	1	m e l ch
+056/087	mälch	1	m ä l ch
+056/089	melch	1	m e l ch
+056/091	mälch	1	m ä l ch
+056/093	mellich	1	m e ll i ch
+056/095	melich	1	m e l i ch
+056/097	melch	1	m e l ch
+056/099	milch	1	m i l ch
+056/101	milch	1	m i l ch
+056/103	milch	1	m i l ch
+056/105	milch	1	m i l ch
+056/107	milch	1	m i l ch
+056/109	milch	1	m i l ch
+056/111	milch	1	m i l ch
+056/113	milch	1	m i l ch
+056/115	milch	1	m i l ch
+056/117	milch	1	m i l ch
+056/121	milch	1	m i l ch
+056/123	milch	1	m i l ch
+056/125	milch	1	m i l ch
+056/127	milch	1	m i l ch
+056/129	milch	1	m i l ch
+056/131	milch	1	m i l ch
+056/133	milch	1	m i l ch
+056/135	milch	1	m i l ch
+056/137	milch	1	m i l ch
+056/139	milch	1	m i l ch
+056/141	milch	1	m i l ch
+056/143	milch	1	m i l ch
+056/145	millich	1	m i ll i ch
+056/147	milch	1	m i l ch
+056/149	milch	1	m i l ch
+056/151	milch	1	m i l ch
+056/153	milch	1	m i l ch
+056/155	milich	1	m i l i ch
+056/157	milich	1	m i l i ch
+056/159	millich	1	m i ll i ch
+056/161	millich	1	m i ll i ch
+057/021	melk	1	m e l k
+057/023	melk	1	m e l k
+057/025	melk	1	m e l k
+057/027	melk	1	m e l k
+057/029	melech	1	m e l e ch
+057/031	milch	1	m i l ch
+057/033	milch	1	m i l ch
+057/035	mellch	1	m e ll ch
+057/037	melek	1	m e l e k
+057/039	miälk	1	m iä l k
+057/041	miilk	1	m ii l k
+057/043	milleck	1	m i ll e ck
+057/045	millek	1	m i ll e k
+057/047	milk	1	m i l k
+057/049	miellek	1	m ie ll e k
+057/051	milch	1	m i l ch
+057/053	melk	1	m e l k
+057/055	melch	1	m e l ch
+057/057	melch	1	m e l ch
+057/059	mälch	1	m ä l ch
+057/061	melch	1	m e l ch
+057/063	mälch	1	m ä l ch
+057/065	melch	1	m e l ch
+057/067	melich	1	m e l i ch
+057/069	melch	1	m e l ch
+057/071	melch	1	m e l ch
+057/073	mälch	1	m ä l ch
+057/075	mälch	1	m ä l ch
+057/077	mälech	1	m ä l e ch
+057/079	mälch	1	m ä l ch
+057/081	mälch	1	m ä l ch
+057/083	mälch	1	m ä l ch
+057/085	mälch	1	m ä l ch
+057/087	melch	1	m e l ch
+057/089	melich	1	m e l i ch
+057/091	melch	1	m e l ch
+057/093	melj	1	m e l j
+057/095	melch	1	m e l ch
+057/097	milch	1	m i l ch
+057/099	milch	1	m i l ch
+057/101	milch	1	m i l ch
+057/103	milch	1	m i l ch
+057/105	milch	1	m i l ch
+057/107	milch	1	m i l ch
+057/109	milch	1	m i l ch
+057/111	millich	1	m i ll i ch
+057/113	milch	1	m i l ch
+057/115	milch	1	m i l ch
+057/117	milch	1	m i l ch
+057/119	milch	1	m i l ch
+057/121	milch	1	m i l ch
+057/123	milch	1	m i l ch
+057/125	milch	1	m i l ch
+057/127	milch	1	m i l ch
+057/129	milch	1	m i l ch
+057/131	milch	1	m i l ch
+057/133	milch	1	m i l ch
+057/135	milch	1	m i l ch
+057/137	milch	1	m i l ch
+057/139	milch	1	m i l ch
+057/141	milch	1	m i l ch
+057/143	milch	1	m i l ch
+057/145	milch	1	m i l ch
+057/147	milch	1	m i l ch
+057/149	milch	1	m i l ch
+057/151	milch	1	m i l ch
+057/153	milch	1	m i l ch
+057/155	millich	1	m i ll i ch
+057/157	milch	1	m i l ch
+057/159	milch	1	m i l ch
+057/161	milich	1	m i l i ch
+058/019	melk	1	m e l k
+058/021	melk	1	m e l k
+058/023	melik	1	m e l i k
+058/025	melech	1	m e l e ch
+058/027	milech	1	m i l e ch
+058/029	millech	1	m i ll e ch
+058/031	milch	1	m i l ch
+058/033	milich	1	m i l i ch
+058/035	mellech	1	m e ll e ch
+058/037	melich	1	m e l i ch
+058/039	mielk	1	m ie l k
+058/041	mielk	1	m ie l k
+058/043	mielick	1	m ie l i ck
+058/045	millek	1	m i ll e k
+058/047	melch	1	m e l ch
+058/049	milch	1	m i l ch
+058/051	milch	1	m i l ch
+058/053	milch	1	m i l ch
+058/055	melch	1	m e l ch
+058/057	melch	1	m e l ch
+058/059	mälch	1	m ä l ch
+058/061	mälch	1	m ä l ch
+058/063	melch	1	m e l ch
+058/065	melch	1	m e l ch
+058/067	melch	1	m e l ch
+058/069	mellech	1	m e ll e ch
+058/071	melich	1	m e l i ch
+058/073	mälich	1	m ä l i ch
+058/075	mälch	1	m ä l ch
+058/077	mälch	1	m ä l ch
+058/079	mälch	1	m ä l ch
+058/081	mälg	1	m ä l g
+058/083	mälch	1	m ä l ch
+058/085	melch	1	m e l ch
+058/087	melch	1	m e l ch
+058/089	mälch	1	m ä l ch
+058/091	melch	1	m e l ch
+058/093	milch	1	m i l ch
+058/095	milch	1	m i l ch
+058/097	milch	1	m i l ch
+058/099	milch	1	m i l ch
+058/101	milch	1	m i l ch
+058/103	milch	1	m i l ch
+058/105	milch	1	m i l ch
+058/107	milch	1	m i l ch
+058/109	milch	1	m i l ch
+058/111	milch	1	m i l ch
+058/113	milch	1	m i l ch
+058/115	milch	1	m i l ch
+058/117	milch	1	m i l ch
+058/119	milch	1	m i l ch
+058/121	milch	1	m i l ch
+058/123	milch	1	m i l ch
+058/125	milch	1	m i l ch
+058/127	milch	1	m i l ch
+058/129	melch	1	m e l ch
+058/131	milch	1	m i l ch
+058/133	milch	1	m i l ch
+058/135	milch	1	m i l ch
+058/137	milch	1	m i l ch
+058/139	milch	1	m i l ch
+058/141	milch	1	m i l ch
+058/143	milch	1	m i l ch
+058/145	milch	1	m i l ch
+058/147	milch	1	m i l ch
+058/149	milch	1	m i l ch
+058/151	milch	1	m i l ch
+058/153	milch	1	m i l ch
+058/155	millich	1	m i ll i ch
+058/157	milich	1	m i l i ch
+058/159	millich	1	m i ll i ch
+059/019	melik	1	m e l i k
+059/021	melk	1	m e l k
+059/023	melech	1	m e l e ch
+059/025	milch	1	m i l ch
+059/027	milech	1	m i l e ch
+059/029	millech	1	m i ll e ch
+059/031	milch	1	m i l ch
+059/033	milch	1	m i l ch
+059/035	melich	1	m e l i ch
+059/037	mellich	1	m e ll i ch
+059/039	melch	1	m e l ch
+059/041	melec	1	m e l e c
+059/043	melch	1	m e l ch
+059/045	melch	1	m e l ch
+059/047	melich	1	m e l i ch
+059/049	melch	1	m e l ch
+059/051	melch	1	m e l ch
+059/053	melch	1	m e l ch
+059/055	melch	1	m e l ch
+059/057	melch	1	m e l ch
+059/059	mälch	1	m ä l ch
+059/061	mälch	1	m ä l ch
+059/063	melch	1	m e l ch
+059/065	melch	1	m e l ch
+059/067	milch	1	m i l ch
+059/069	melch	1	m e l ch
+059/071	melech	1	m e l e ch
+059/073	melech	1	m e l e ch
+059/075	mälleg	1	m ä ll e g
+059/077	melch	1	m e l ch
+059/079	mälch	1	m ä l ch
+059/081	melch	1	m e l ch
+059/083	mälch	1	m ä l ch
+059/085	mälch	1	m ä l ch
+059/087	mälch	1	m ä l ch
+059/089	melich	1	m e l i ch
+059/091	milch	1	m i l ch
+059/093	milch	1	m i l ch
+059/095	milch	1	m i l ch
+059/097	milch	1	m i l ch
+059/099	milch	1	m i l ch
+059/101	milch	1	m i l ch
+059/103	milch	1	m i l ch
+059/105	milch	1	m i l ch
+059/107	milch	1	m i l ch
+059/109	milch	1	m i l ch
+059/111	milch	1	m i l ch
+059/113	milch	1	m i l ch
+059/115	milch	1	m i l ch
+059/117	milch	1	m i l ch
+059/119	milch	1	m i l ch
+059/121	milch	1	m i l ch
+059/123	milch	1	m i l ch
+059/125	milch	1	m i l ch
+059/127	milch	1	m i l ch
+059/129	melch	1	m e l ch
+059/131	milch	1	m i l ch
+059/133	milch	1	m i l ch
+059/135	milch	1	m i l ch
+059/137	milch	1	m i l ch
+059/139	milch	1	m i l ch
+059/141	milch	1	m i l ch
+059/143	milch	1	m i l ch
+059/145	milch	1	m i l ch
+059/147	milch	1	m i l ch
+059/149	milch	1	m i l ch
+059/151	millich	1	m i ll i ch
+059/153	millich	1	m i ll i ch
+059/155	millich	1	m i ll i ch
+059/157	milich	1	m i l i ch
+059/159	millich	1	m i ll i ch
+059/161	milich	1	m i l i ch
+059/165	millich	1	m i ll i ch
+059/169	milich	1	m i l i ch
+060/021	melich	1	m e l i ch
+060/023	melech	1	m e l e ch
+060/025	meläch	1	m e l ä ch
+060/027	melech	1	m e l e ch
+060/029	melech	1	m e l e ch
+060/031	melech	1	m e l e ch
+060/033	mellech	1	m e ll e ch
+060/035	melch	1	m e l ch
+060/037	melich	1	m e l i ch
+060/039	mellig	1	m e ll i g
+060/041	mälech	1	m ä l e ch
+060/043	melch	1	m e l ch
+060/045	melch	1	m e l ch
+060/047	melch	1	m e l ch
+060/049	melch	1	m e l ch
+060/051	melche	1	m e l ch e
+060/053	melch	1	m e l ch
+060/055	melch	1	m e l ch
+060/057	melch	1	m e l ch
+060/059	melch	1	m e l ch
+060/061	melch	1	m e l ch
+060/063	melch	1	m e l ch
+060/065	melch	1	m e l ch
+060/067	melch	1	m e l ch
+060/069	melch	1	m e l ch
+060/071	melich	1	m e l i ch
+060/073	melch	1	m e l ch
+060/075	milich	1	m i l i ch
+060/077	mälch	1	m ä l ch
+060/079	mälch	1	m ä l ch
+060/081	melch	1	m e l ch
+060/083	mellich	1	m e ll i ch
+060/085	melch	1	m e l ch
+060/087	milch	1	m i l ch
+060/089	milch	1	m i l ch
+060/091	milch	1	m i l ch
+060/093	milch	1	m i l ch
+060/095	milch	1	m i l ch
+060/097	milch	1	m i l ch
+060/099	milch	1	m i l ch
+060/101	milch	1	m i l ch
+060/103	milch	1	m i l ch
+060/105	milch	1	m i l ch
+060/107	melch	1	m e l ch
+060/109	milch	1	m i l ch
+060/111	milch	1	m i l ch
+060/113	milch	1	m i l ch
+060/115	milch	1	m i l ch
+060/117	milch	1	m i l ch
+060/119	milch	1	m i l ch
+060/121	milch	1	m i l ch
+060/123	milch	1	m i l ch
+060/125	milch	1	m i l ch
+060/127	mölch	1	m ö l ch
+060/129	melch	1	m e l ch
+060/131	mölch	1	m ö l ch
+060/135	milch	1	m i l ch
+060/137	milch	1	m i l ch
+060/139	milch	1	m i l ch
+060/141	milch	1	m i l ch
+060/143	milch	1	m i l ch
+060/145	milch	1	m i l ch
+060/147	milch	1	m i l ch
+060/149	milch	1	m i l ch
+060/151	milch	1	m i l ch
+060/153	milch	1	m i l ch
+060/155	milch	1	m i l ch
+060/157	milch	1	m i l ch
+060/159	milch	1	m i l ch
+060/163	millich	1	m i ll i ch
+060/165	melich	1	m e l i ch
+061/021	milch	1	m i l ch
+061/023	melech	1	m e l e ch
+061/025	melech	1	m e l e ch
+061/027	melech	1	m e l e ch
+061/029	mellech	1	m e ll e ch
+061/031	melch	1	m e l ch
+061/033	melläch	1	m e ll ä ch
+061/035	mellech	1	m e ll e ch
+061/037	mellig	1	m e ll i g
+061/039	melech	1	m e l e ch
+061/041	mälich	1	m ä l i ch
+061/043	mellich	1	m e ll i ch
+061/045	melch	1	m e l ch
+061/047	melch	1	m e l ch
+061/049	melch	1	m e l ch
+061/051	melch	1	m e l ch
+061/053	melch	1	m e l ch
+061/055	mölch	1	m ö l ch
+061/057	mölch	1	m ö l ch
+061/059	mölch	1	m ö l ch
+061/061	melch	1	m e l ch
+061/063	melch	1	m e l ch
+061/065	milch	1	m i l ch
+061/067	mällich	1	m ä ll i ch
+061/069	melch	1	m e l ch
+061/071	möllich	1	m ö ll i ch
+061/073	mellich	1	m e ll i ch
+061/075	mellich	1	m e ll i ch
+061/077	melech	1	m e l e ch
+061/079	mällch	1	m ä ll ch
+061/081	mälch	1	m ä l ch
+061/083	melch	1	m e l ch
+061/085	milich	1	m i l i ch
+061/087	milich	1	m i l i ch
+061/089	milch	1	m i l ch
+061/091	milch	1	m i l ch
+061/093	milch	1	m i l ch
+061/095	milch	1	m i l ch
+061/097	milch	1	m i l ch
+061/099	milch	1	m i l ch
+061/101	milch	1	m i l ch
+061/103	milch	1	m i l ch
+061/105	milch	1	m i l ch
+061/107	milch	1	m i l ch
+061/109	milch	1	m i l ch
+061/111	milch	1	m i l ch
+061/113	milch	1	m i l ch
+061/115	milch	1	m i l ch
+061/117	milch	1	m i l ch
+061/119	milch	1	m i l ch
+061/121	milch	1	m i l ch
+061/123	milch	1	m i l ch
+061/125	milch	1	m i l ch
+061/127	milch	1	m i l ch
+061/129	milich	1	m i l i ch
+061/131	mölch	1	m ö l ch
+061/133	melch	1	m e l ch
+061/137	milch	1	m i l ch
+061/139	milch	1	m i l ch
+061/141	milch	1	m i l ch
+061/143	milch	1	m i l ch
+061/145	milch	1	m i l ch
+061/147	milch	1	m i l ch
+061/149	milch	1	m i l ch
+061/151	milch	1	m i l ch
+061/153	milch	1	m i l ch
+061/155	millich	1	m i ll i ch
+061/157	milch	1	m i l ch
+061/159	milch	1	m i l ch
+061/161	milich	1	m i l i ch
+061/165	milich	1	m i l i ch
+062/021	melch	1	m e l ch
+062/023	melich	1	m e l i ch
+062/025	melech	1	m e l e ch
+062/027	melech	1	m e l e ch
+062/029	melch	1	m e l ch
+062/031	melech	1	m e l e ch
+062/033	millech	1	m i ll e ch
+062/035	melech	1	m e l e ch
+062/037	melech	1	m e l e ch
+062/039	mellig	1	m e ll i g
+062/041	melich	1	m e l i ch
+062/043	milch	1	m i l ch
+062/045	milch	1	m i l ch
+062/047	melch	1	m e l ch
+062/049	melch	1	m e l ch
+062/051	melch	1	m e l ch
+062/053	melch	1	m e l ch
+062/055	melch	1	m e l ch
+062/057	melch	1	m e l ch
+062/059	melch	1	m e l ch
+062/061	melch	1	m e l ch
+062/063	melch	1	m e l ch
+062/065	melich	1	m e l i ch
+062/067	melich	1	m e l i ch
+062/069	melich	1	m e l i ch
+062/071	melch	1	m e l ch
+062/073	mellich	1	m e ll i ch
+062/075	melich	1	m e l i ch
+062/077	mellich	1	m e ll i ch
+062/079	melch	1	m e l ch
+062/081	mellch	1	m e ll ch
+062/083	melich	1	m e l i ch
+062/085	melich	1	m e l i ch
+062/087	milch	1	m i l ch
+062/089	milch	1	m i l ch
+062/091	milich	1	m i l i ch
+062/093	milch	1	m i l ch
+062/095	milich	1	m i l i ch
+062/097	milich	1	m i l i ch
+062/099	millich	1	m i ll i ch
+062/101	milich	1	m i l i ch
+062/103	millich	1	m i ll i ch
+062/105	milch	1	m i l ch
+062/107	milch	1	m i l ch
+062/109	milch	1	m i l ch
+062/111	milch	1	m i l ch
+062/113	milch	1	m i l ch
+062/115	melch	1	m e l ch
+062/117	milch	1	m i l ch
+062/119	melch	1	m e l ch
+062/121	milch	1	m i l ch
+062/123	milch	1	m i l ch
+062/125	mölch	1	m ö l ch
+062/127	melch	1	m e l ch
+062/129	melch	1	m e l ch
+062/131	mölch	1	m ö l ch
+062/133	melch	1	m e l ch
+062/135	melch	1	m e l ch
+062/137	milch	1	m i l ch
+062/139	melch	1	m e l ch
+062/141	milch	1	m i l ch
+062/143	milch	1	m i l ch
+062/145	milch	1	m i l ch
+062/147	milch	1	m i l ch
+062/149	milch	1	m i l ch
+062/151	milch	1	m i l ch
+062/153	milch	1	m i l ch
+062/155	milch	1	m i l ch
+062/157	milich	1	m i l i ch
+062/159	milch	1	m i l ch
+062/161	milich	1	m i l i ch
+063/021	milk	1	m i l k
+063/023	meleg	1	m e l e g
+063/025	melch	1	m e l ch
+063/027	melech	1	m e l e ch
+063/029	melech	1	m e l e ch
+063/031	mellech	1	m e ll e ch
+063/033	melch	1	m e l ch
+063/035	melech	1	m e l e ch
+063/037	melech	1	m e l e ch
+063/039	mällich	1	m ä ll i ch
+063/041	mälich	1	m ä l i ch
+063/043	milich	1	m i l i ch
+063/045	melch	1	m e l ch
+063/047	milch	1	m i l ch
+063/049	milch	1	m i l ch
+063/051	melch	1	m e l ch
+063/053	melch	1	m e l ch
+063/055	milch	1	m i l ch
+063/057	melch	1	m e l ch
+063/059	melch	1	m e l ch
+063/061	melch	1	m e l ch
+063/063	melg	1	m e l g
+063/065	mellich	1	m e ll i ch
+063/067	mellech	1	m e ll e ch
+063/069	mäilch	1	m äi l ch
+063/071	mellich	1	m e ll i ch
+063/073	melig	1	m e l i g
+063/075	melich	1	m e l i ch
+063/077	melich	1	m e l i ch
+063/079	melch	1	m e l ch
+063/081	melch	1	m e l ch
+063/083	mölch	1	m ö l ch
+063/085	milch	1	m i l ch
+063/087	milich	1	m i l i ch
+063/089	milich	1	m i l i ch
+063/091	milich	1	m i l i ch
+063/093	milich	1	m i l i ch
+063/095	millich	1	m i ll i ch
+063/097	millich	1	m i ll i ch
+063/099	millich	1	m i ll i ch
+063/101	millich	1	m i ll i ch
+063/103	milich	1	m i l i ch
+063/105	milch	1	m i l ch
+063/107	millich	1	m i ll i ch
+063/109	millich	1	m i ll i ch
+063/111	milch	1	m i l ch
+063/113	milch	1	m i l ch
+063/115	milch	1	m i l ch
+063/117	milch	1	m i l ch
+063/119	milch	1	m i l ch
+063/121	milich	1	m i l i ch
+063/123	milch	1	m i l ch
+063/125	milch	1	m i l ch
+063/127	milich	1	m i l i ch
+063/135	melch	1	m e l ch
+063/137	melch	1	m e l ch
+063/139	melch	1	m e l ch
+063/141	melch	1	m e l ch
+063/143	milch	1	m i l ch
+063/145	melch	1	m e l ch
+063/147	milch	1	m i l ch
+063/149	milch	1	m i l ch
+063/151	milch	1	m i l ch
+063/153	milch	1	m i l ch
+063/155	milch	1	m i l ch
+063/157	milch	1	m i l ch
+063/159	millich	1	m i ll i ch
+063/161	melch	1	m e l ch
+063/163	milch	1	m i l ch
+063/165	millich	1	m i ll i ch
+064/023	melich	1	m e l i ch
+064/025	melich	1	m e l i ch
+064/027	mellech	1	m e ll e ch
+064/029	melch	1	m e l ch
+064/031	mehlöj	1	m eh l ö j
+064/033	melech	1	m e l e ch
+064/035	melech	1	m e l e ch
+064/037	mälg	1	m ä l g
+064/039	mällich	1	m ä ll i ch
+064/041	melich	1	m e l i ch
+064/043	melch	1	m e l ch
+064/045	melg	1	m e l g
+064/047	melch	1	m e l ch
+064/049	melch	1	m e l ch
+064/051	melch	1	m e l ch
+064/053	melch	1	m e l ch
+064/055	melch	1	m e l ch
+064/057	melch	1	m e l ch
+064/059	melch	1	m e l ch
+064/061	melch	1	m e l ch
+064/063	mellich	1	m e ll i ch
+064/065	melich	1	m e l i ch
+064/067	melich	1	m e l i ch
+064/069	mällich	1	m ä ll i ch
+064/071	mellich	1	m e ll i ch
+064/073	melich	1	m e l i ch
+064/075	mellich	1	m e ll i ch
+064/077	mellich	1	m e ll i ch
+064/079	melch	1	m e l ch
+064/081	melch	1	m e l ch
+064/083	mellich	1	m e ll i ch
+064/085	milch	1	m i l ch
+064/087	milich	1	m i l i ch
+064/089	millich	1	m i ll i ch
+064/091	millig	1	m i ll i g
+064/093	millich	1	m i ll i ch
+064/095	milich	1	m i l i ch
+064/097	milich	1	m i l i ch
+064/099	millich	1	m i ll i ch
+064/101	millich	1	m i ll i ch
+064/103	millich	1	m i ll i ch
+064/105	milich	1	m i l i ch
+064/107	milich	1	m i l i ch
+064/109	milch	1	m i l ch
+064/111	millich	1	m i ll i ch
+064/113	millich	1	m i ll i ch
+064/115	milch	1	m i l ch
+064/117	milch	1	m i l ch
+064/119	milich	1	m i l i ch
+064/121	milch	1	m i l ch
+064/123	milch	1	m i l ch
+064/125	milch	1	m i l ch
+064/127	melch	1	m e l ch
+064/135	melch	1	m e l ch
+064/137	melch	1	m e l ch
+064/139	milch	1	m i l ch
+064/141	melch	1	m e l ch
+064/143	milch	1	m i l ch
+064/145	melch	1	m e l ch
+064/147	melch	1	m e l ch
+064/149	milch	1	m i l ch
+064/151	milch	1	m i l ch
+064/153	melch	1	m e l ch
+064/155	milch	1	m i l ch
+064/157	milch	1	m i l ch
+064/159	millich	1	m i ll i ch
+065/021	melech	1	m e l e ch
+065/023	melich	1	m e l i ch
+065/025	melech	1	m e l e ch
+065/027	melech	1	m e l e ch
+065/029	melech	1	m e l e ch
+065/031	meleg	1	m e l e g
+065/033	mellech	1	m e ll e ch
+065/035	melech	1	m e l e ch
+065/037	melich	1	m e l i ch
+065/039	mälich	1	m ä l i ch
+065/041	mälich	1	m ä l i ch
+065/043	melich	1	m e l i ch
+065/045	melch	1	m e l ch
+065/047	melch	1	m e l ch
+065/049	melch	1	m e l ch
+065/051	melch	1	m e l ch
+065/053	melch	1	m e l ch
+065/055	melch	1	m e l ch
+065/057	melch	1	m e l ch
+065/059	melch	1	m e l ch
+065/061	melch	1	m e l ch
+065/063	melich	1	m e l i ch
+065/065	mellich	1	m e ll i ch
+065/067	melich	1	m e l i ch
+065/069	milich	1	m i l i ch
+065/071	milich	1	m i l i ch
+065/073	melich	1	m e l i ch
+065/075	melch	1	m e l ch
+065/077	melch	1	m e l ch
+065/079	milich	1	m i l i ch
+065/081	milch	1	m i l ch
+065/083	mellich	1	m e ll i ch
+065/085	millich	1	m i ll i ch
+065/087	millich	1	m i ll i ch
+065/089	millich	1	m i ll i ch
+065/091	milich	1	m i l i ch
+065/093	millich	1	m i ll i ch
+065/095	milich	1	m i l i ch
+065/097	milch	1	m i l ch
+065/101	millich	1	m i ll i ch
+065/103	millich	1	m i ll i ch
+065/105	millich	1	m i ll i ch
+065/107	milich	1	m i l i ch
+065/109	millich	1	m i ll i ch
+065/111	milch	1	m i l ch
+065/113	milich	1	m i l i ch
+065/115	milich	1	m i l i ch
+065/121	milich	1	m i l i ch
+065/123	milch	1	m i l ch
+065/137	milch	1	m i l ch
+065/139	melch	1	m e l ch
+065/143	melch	1	m e l ch
+065/145	melch	1	m e l ch
+065/147	milch	1	m i l ch
+065/149	melch	1	m e l ch
+065/151	melch	1	m e l ch
+065/153	milch	1	m i l ch
+065/155	milch	1	m i l ch
+065/157	milch	1	m i l ch
+065/159	milch	1	m i l ch
+066/021	melch	1	m e l ch
+066/023	melch	1	m e l ch
+066/025	melich	1	m e l i ch
+066/027	melech	1	m e l e ch
+066/029	mellich	1	m e ll i ch
+066/031	melech	1	m e l e ch
+066/033	mellech	1	m e ll e ch
+066/035	melech	1	m e l e ch
+066/037	mellech	1	m e ll e ch
+066/039	mellich	1	m e ll i ch
+066/041	melch	1	m e l ch
+066/043	milich	1	m i l i ch
+066/045	milch	1	m i l ch
+066/047	melch	1	m e l ch
+066/049	melch	1	m e l ch
+066/051	melch	1	m e l ch
+066/053	melch	1	m e l ch
+066/055	melch	1	m e l ch
+066/057	melch	1	m e l ch
+066/059	melch	1	m e l ch
+066/061	melich	1	m e l i ch
+066/063	mellig	1	m e ll i g
+066/065	melich	1	m e l i ch
+066/067	melich	1	m e l i ch
+066/069	mellich	1	m e ll i ch
+066/071	milich	1	m i l i ch
+066/073	milich	1	m i l i ch
+066/075	mellich	1	m e ll i ch
+066/077	millich	1	m i ll i ch
+066/079	milich	1	m i l i ch
+066/081	milich	1	m i l i ch
+066/083	millich	1	m i ll i ch
+066/085	milig	1	m i l i g
+066/087	milich	1	m i l i ch
+066/089	milich	1	m i l i ch
+066/091	milch	1	m i l ch
+066/093	millich	1	m i ll i ch
+066/095	millich	1	m i ll i ch
+066/097	millich	1	m i ll i ch
+066/099	mlich	1	m l i ch
+066/101	millich	1	m i ll i ch
+066/103	milich	1	m i l i ch
+066/105	milich	1	m i l i ch
+066/107	millich	1	m i ll i ch
+066/109	milich	1	m i l i ch
+066/111	millich	1	m i ll i ch
+066/113	millich	1	m i ll i ch
+066/121	milich	1	m i l i ch
+066/139	melch	1	m e l ch
+066/143	milch	1	m i l ch
+066/145	milch	1	m i l ch
+066/147	melch	1	m e l ch
+066/149	melch	1	m e l ch
+066/151	melch	1	m e l ch
+066/153	meelch	1	m ee l ch
+066/155	melch	1	m e l ch
+066/157	melich	1	m e l i ch
+066/159	milch	1	m i l ch
+066/161	melch	1	m e l ch
+066/163	millich	1	m i ll i ch
+067/021	mellech	1	m e ll e ch
+067/023	mehlech	1	m eh l e ch
+067/025	melech	1	m e l e ch
+067/027	melch	1	m e l ch
+067/029	melich	1	m e l i ch
+067/031	melech	1	m e l e ch
+067/033	melch	1	m e l ch
+067/035	meelech	1	m ee l e ch
+067/037	mellich	1	m e ll i ch
+067/039	melich	1	m e l i ch
+067/041	melch	1	m e l ch
+067/043	milich	1	m i l i ch
+067/045	milch	1	m i l ch
+067/047	milch	1	m i l ch
+067/049	melch	1	m e l ch
+067/051	melch	1	m e l ch
+067/053	melch	1	m e l ch
+067/055	melch	1	m e l ch
+067/057	melch	1	m e l ch
+067/059	mölch	1	m ö l ch
+067/061	mellich	1	m e ll i ch
+067/063	mellich	1	m e ll i ch
+067/065	melich	1	m e l i ch
+067/067	milich	1	m i l i ch
+067/069	milich	1	m i l i ch
+067/071	mellech	1	m e ll e ch
+067/073	melich	1	m e l i ch
+067/075	milch	1	m i l ch
+067/077	milch	1	m i l ch
+067/079	milich	1	m i l i ch
+067/081	millich	1	m i ll i ch
+067/083	millich	1	m i ll i ch
+067/085	mili	1	m i l i
+067/087	milich	1	m i l i ch
+067/089	milich	1	m i l i ch
+067/091	millich	1	m i ll i ch
+067/093	milch	1	m i l ch
+067/095	milch	1	m i l ch
+067/097	mülch	1	m ü l ch
+067/099	mütch	1	m ü t ch
+067/101	mülch	1	m ü l ch
+067/103	milich	1	m i l i ch
+067/105	milich	1	m i l i ch
+067/107	milich	1	m i l i ch
+067/109	milich	1	m i l i ch
+067/111	millich	1	m i ll i ch
+067/113	millich	1	m i ll i ch
+067/143	melch	1	m e l ch
+067/145	melch	1	m e l ch
+067/147	milch	1	m i l ch
+067/149	melch	1	m e l ch
+067/151	melch	1	m e l ch
+067/153	melch	1	m e l ch
+067/155	melch	1	m e l ch
+067/157	mellich	1	m e ll i ch
+067/159	melch	1	m e l ch
+067/161	mellich	1	m e ll i ch
+067/163	melch	1	m e l ch
+067/165	melch	1	m e l ch
+067/177	milch	1	m i l ch
+068/021	mellich	1	m e ll i ch
+068/023	melesch	1	m e l e sch
+068/025	mellich	1	m e ll i ch
+068/027	melch	1	m e l ch
+068/029	mellech	1	m e ll e ch
+068/031	mölch	1	m ö l ch
+068/033	melech	1	m e l e ch
+068/035	melech	1	m e l e ch
+068/037	melich	1	m e l i ch
+068/039	möllich	1	m ö ll i ch
+068/041	melch	1	m e l ch
+068/043	milch	1	m i l ch
+068/045	milch	1	m i l ch
+068/047	melch	1	m e l ch
+068/049	milch	1	m i l ch
+068/051	melch	1	m e l ch
+068/053	melch	1	m e l ch
+068/055	melch	1	m e l ch
+068/057	melch	1	m e l ch
+068/059	mellich	1	m e ll i ch
+068/061	melich	1	m e l i ch
+068/063	mellich	1	m e ll i ch
+068/065	melich	1	m e l i ch
+068/067	melich	1	m e l i ch
+068/069	melich	1	m e l i ch
+068/071	milich	1	m i l i ch
+068/073	millich	1	m i ll i ch
+068/075	milich	1	m i l i ch
+068/077	milich	1	m i l i ch
+068/079	millich	1	m i ll i ch
+068/081	milich	1	m i l i ch
+068/083	millich	1	m i ll i ch
+068/085	milich	1	m i l i ch
+068/087	milich	1	m i l i ch
+068/089	milli	1	m i ll i
+068/091	milich	1	m i l i ch
+068/093	milch	1	m i l ch
+068/095	milch	1	m i l ch
+068/097	mülch	1	m ü l ch
+068/099	mülch	1	m ü l ch
+068/101	mülch	1	m ü l ch
+068/103	milch	1	m i l ch
+068/105	millich	1	m i ll i ch
+068/107	milech	1	m i l e ch
+068/109	milich	1	m i l i ch
+068/111	millich	1	m i ll i ch
+068/145	melch	1	m e l ch
+068/147	melch	1	m e l ch
+068/149	milch	1	m i l ch
+068/151	melich	1	m e l i ch
+068/153	mellich	1	m e ll i ch
+068/155	melich	1	m e l i ch
+068/157	mellich	1	m e ll i ch
+068/159	melich	1	m e l i ch
+068/161	mellich	1	m e ll i ch
+068/165	milich	1	m i l i ch
+069/019	melech	1	m e l e ch
+069/023	melch	1	m e l ch
+069/025	melich	1	m e l i ch
+069/027	mellich	1	m e ll i ch
+069/029	melech	1	m e l e ch
+069/031	mellich	1	m e ll i ch
+069/033	mellich	1	m e ll i ch
+069/035	melech	1	m e l e ch
+069/037	milich	1	m i l i ch
+069/039	mellich	1	m e ll i ch
+069/041	milch	1	m i l ch
+069/043	milch	1	m i l ch
+069/045	milch	1	m i l ch
+069/047	milch	1	m i l ch
+069/049	melch	1	m e l ch
+069/051	milch	1	m i l ch
+069/053	milch	1	m i l ch
+069/055	milch	1	m i l ch
+069/057	melich	1	m e l i ch
+069/059	mellich	1	m e ll i ch
+069/061	mellich	1	m e ll i ch
+069/063	melich	1	m e l i ch
+069/065	milich	1	m i l i ch
+069/067	milich	1	m i l i ch
+069/069	milch	1	m i l ch
+069/071	milich	1	m i l i ch
+069/073	milich	1	m i l i ch
+069/075	milich	1	m i l i ch
+069/077	millich	1	m i ll i ch
+069/079	milich	1	m i l i ch
+069/081	milch	1	m i l ch
+069/083	milich	1	m i l i ch
+069/085	milich	1	m i l i ch
+069/087	milich	1	m i l i ch
+069/089	milich	1	m i l i ch
+069/091	milch	1	m i l ch
+069/093	milch	1	m i l ch
+069/095	milch	1	m i l ch
+069/097	mülch	1	m ü l ch
+069/099	mlch	1	m l ch
+069/101	milch	1	m i l ch
+069/103	mülch	1	m ü l ch
+069/105	milch	1	m i l ch
+069/107	millech	1	m i ll e ch
+069/109	milich	1	m i l i ch
+069/111	milich	1	m i l i ch
+069/147	melch	1	m e l ch
+069/149	mellich	1	m e ll i ch
+069/151	melich	1	m e l i ch
+069/153	melech	1	m e l e ch
+069/157	mellich	1	m e ll i ch
+069/159	melch	1	m e l ch
+069/161	melich	1	m e l i ch
+069/163	melch	1	m e l ch
+069/165	melich	1	m e l i ch
+070/019	melich	1	m e l i ch
+070/023	melich	1	m e l i ch
+070/025	melich	1	m e l i ch
+070/027	melich	1	m e l i ch
+070/029	melech	1	m e l e ch
+070/031	melich	1	m e l i ch
+070/033	melich	1	m e l i ch
+070/035	mellich	1	m e ll i ch
+070/037	mellich	1	m e ll i ch
+070/039	milich	1	m i l i ch
+070/041	millich	1	m i ll i ch
+070/043	milch	1	m i l ch
+070/045	milch	1	m i l ch
+070/047	milch	1	m i l ch
+070/049	milch	1	m i l ch
+070/051	milich	1	m i l i ch
+070/053	milich	1	m i l i ch
+070/055	milch	1	m i l ch
+070/057	milich	1	m i l i ch
+070/059	milich	1	m i l i ch
+070/061	melich	1	m e l i ch
+070/063	milch	1	m i l ch
+070/065	milich	1	m i l i ch
+070/067	milich	1	m i l i ch
+070/069	milich	1	m i l i ch
+070/071	milich	1	m i l i ch
+070/073	milich	1	m i l i ch
+070/075	milch	1	m i l ch
+070/077	milich	1	m i l i ch
+070/079	milich	1	m i l i ch
+070/081	melich	1	m e l i ch
+070/083	milich	1	m i l i ch
+070/085	millich	1	m i ll i ch
+070/087	milich	1	m i l i ch
+070/089	milich	1	m i l i ch
+070/091	milich	1	m i l i ch
+070/093	mülch	1	m ü l ch
+070/095	milch	1	m i l ch
+070/097	mllch	1	m ll ch
+070/099	mülch	1	m ü l ch
+070/101	milch	1	m i l ch
+070/103	milch	1	m i l ch
+070/105	mlch	1	m l ch
+070/107	millech	1	m i ll e ch
+070/109	millich	1	m i ll i ch
+070/111	milich	1	m i l i ch
+070/145	mellich	1	m e ll i ch
+070/147	melch	1	m e l ch
+070/149	melch	1	m e l ch
+070/151	milich	1	m i l i ch
+070/153	mellich	1	m e ll i ch
+070/155	melich	1	m e l i ch
+070/157	mellich	1	m e ll i ch
+070/159	melich	1	m e l i ch
+070/161	mellich	1	m e ll i ch
+070/163	melch	1	m e l ch
+070/165	melch	1	m e l ch
+071/017	melech	1	m e l e ch
+071/019	melech	1	m e l e ch
+071/021	melich	1	m e l i ch
+071/023	melch	1	m e l ch
+071/025	melich	1	m e l i ch
+071/027	melich	1	m e l i ch
+071/029	mellig	1	m e ll i g
+071/031	melech	1	m e l e ch
+071/033	melich	1	m e l i ch
+071/035	milich	1	m i l i ch
+071/037	millich	1	m i ll i ch
+071/039	milich	1	m i l i ch
+071/041	millich	1	m i ll i ch
+071/043	millich	1	m i ll i ch
+071/045	millich	1	m i ll i ch
+071/047	millich	1	m i ll i ch
+071/049	milch	1	m i l ch
+071/051	milch	1	m i l ch
+071/053	milch	1	m i l ch
+071/055	milch	1	m i l ch
+071/057	millich	1	m i ll i ch
+071/059	milich	1	m i l i ch
+071/063	millich	1	m i ll i ch
+071/065	millich	1	m i ll i ch
+071/067	milich	1	m i l i ch
+071/069	milich	1	m i l i ch
+071/071	milch	1	m i l ch
+071/073	milich	1	m i l i ch
+071/075	milch	1	m i l ch
+071/077	milich	1	m i l i ch
+071/079	milich	1	m i l i ch
+071/081	milli	1	m i ll i
+071/083	millich	1	m i ll i ch
+071/085	milich	1	m i l i ch
+071/087	millich	1	m i ll i ch
+071/089	milch	1	m i l ch
+071/091	milch	1	m i l ch
+071/093	milch	1	m i l ch
+071/095	milch	1	m i l ch
+071/097	milch	1	m i l ch
+071/099	mlch	1	m l ch
+071/101	mlch	1	m l ch
+071/103	mülch	1	m ü l ch
+071/105	mülch	1	m ü l ch
+071/145	melich	1	m e l i ch
+071/147	millich	1	m i ll i ch
+071/149	melich	1	m e l i ch
+071/151	mellich	1	m e ll i ch
+071/153	mellich	1	m e ll i ch
+071/155	millich	1	m i ll i ch
+071/157	mellich	1	m e ll i ch
+071/159	melich	1	m e l i ch
+071/161	melich	1	m e l i ch
+071/163	milich	1	m i l i ch
+071/177	melich	1	m e l i ch
+071/179	milch	1	m i l ch
+072/017	mellech	1	m e ll e ch
+072/019	mellech	1	m e ll e ch
+072/021	melech	1	m e l e ch
+072/023	melich	1	m e l i ch
+072/025	mellich	1	m e ll i ch
+072/027	melich	1	m e l i ch
+072/029	melig	1	m e l i g
+072/031	mellich	1	m e ll i ch
+072/033	mellich	1	m e ll i ch
+072/035	milich	1	m i l i ch
+072/037	milich	1	m i l i ch
+072/039	millig	1	m i ll i g
+072/041	milch	1	m i l ch
+072/043	milich	1	m i l i ch
+072/045	millig	1	m i ll i g
+072/047	millich	1	m i ll i ch
+072/049	milch	1	m i l ch
+072/051	milch	1	m i l ch
+072/053	milch	1	m i l ch
+072/055	milch	1	m i l ch
+072/057	milch	1	m i l ch
+072/059	milich	1	m i l i ch
+072/061	milich	1	m i l i ch
+072/063	milch	1	m i l ch
+072/065	millich	1	m i ll i ch
+072/067	milich	1	m i l i ch
+072/069	millich	1	m i ll i ch
+072/071	milich	1	m i l i ch
+072/073	milich	1	m i l i ch
+072/075	milich	1	m i l i ch
+072/077	milch	1	m i l ch
+072/079	milich	1	m i l i ch
+072/081	milch	1	m i l ch
+072/083	milli	1	m i ll i
+072/085	milch	1	m i l ch
+072/087	milch	1	m i l ch
+072/089	milch	1	m i l ch
+072/091	milch	1	m i l ch
+072/093	milch	1	m i l ch
+072/095	milch	1	m i l ch
+072/097	milch	1	m i l ch
+072/099	milch	1	m i l ch
+072/101	mülch	1	m ü l ch
+072/103	mlch	1	m l ch
+072/105	milch	1	m i l ch
+072/107	mlch	1	m l ch
+072/145	millich	1	m i ll i ch
+072/147	millich	1	m i ll i ch
+072/149	millich	1	m i ll i ch
+072/151	millich	1	m i ll i ch
+072/153	mellich	1	m e ll i ch
+072/155	milich	1	m i l i ch
+072/157	mellech	1	m e ll e ch
+072/159	mellich	1	m e ll i ch
+072/161	melich	1	m e l i ch
+072/177	melich	1	m e l i ch
+072/179	milich	1	m i l i ch
+072/181	milch	1	m i l ch
+073/017	melech	1	m e l e ch
+073/019	melich	1	m e l i ch
+073/021	mellech	1	m e ll e ch
+073/023	melech	1	m e l e ch
+073/025	mellich	1	m e ll i ch
+073/027	melsch	1	m e l sch
+073/029	mölich	1	m ö l i ch
+073/031	mellich	1	m e ll i ch
+073/033	melich	1	m e l i ch
+073/035	melch	1	m e l ch
+073/037	milich	1	m i l i ch
+073/039	milich	1	m i l i ch
+073/041	millich	1	m i ll i ch
+073/043	millich	1	m i ll i ch
+073/045	millich	1	m i ll i ch
+073/047	millich	1	m i ll i ch
+073/049	milch	1	m i l ch
+073/051	milch	1	m i l ch
+073/053	milch	1	m i l ch
+073/055	millich	1	m i ll i ch
+073/057	milich	1	m i l i ch
+073/059	milich	1	m i l i ch
+073/061	milich	1	m i l i ch
+073/063	milich	1	m i l i ch
+073/065	milch	1	m i l ch
+073/067	milich	1	m i l i ch
+073/069	milich	1	m i l i ch
+073/071	milich	1	m i l i ch
+073/073	milich	1	m i l i ch
+073/075	milch	1	m i l ch
+073/077	milch	1	m i l ch
+073/079	milich	1	m i l i ch
+073/081	milch	1	m i l ch
+073/083	mili	1	m i l i
+073/085	mili	1	m i l i
+073/087	milch	1	m i l ch
+073/089	milch	1	m i l ch
+073/091	mlch	1	m l ch
+073/093	mlch	1	m l ch
+073/095	mlch	1	m l ch
+073/097	mülch	1	m ü l ch
+073/099	mülch	1	m ü l ch
+073/101	mülch	1	m ü l ch
+073/103	milch	1	m i l ch
+073/105	milch	1	m i l ch
+073/107	mlch	1	m l ch
+073/145	millich	1	m i ll i ch
+073/147	milich	1	m i l i ch
+073/149	milich	1	m i l i ch
+073/151	milich	1	m i l i ch
+073/153	melich	1	m e l i ch
+073/155	mellich	1	m e ll i ch
+073/157	mellich	1	m e ll i ch
+073/159	mellich	1	m e ll i ch
+073/161	mellich	1	m e ll i ch
+073/163	milich	1	m i l i ch
+073/165	milich	1	m i l i ch
+073/175	meliich	1	m e l ii ch
+073/177	millech	1	m i ll e ch
+074/019	mielech	1	m ie l e ch
+074/021	melich	1	m e l i ch
+074/023	melech	1	m e l e ch
+074/025	melech	1	m e l e ch
+074/027	melich	1	m e l i ch
+074/029	melich	1	m e l i ch
+074/031	melch	1	m e l ch
+074/033	melich	1	m e l i ch
+074/035	milch	1	m i l ch
+074/037	milich	1	m i l i ch
+074/039	milch	1	m i l ch
+074/041	millich	1	m i ll i ch
+074/043	millich	1	m i ll i ch
+074/045	milich	1	m i l i ch
+074/047	millich	1	m i ll i ch
+074/049	milich	1	m i l i ch
+074/051	milch	1	m i l ch
+074/053	milich	1	m i l i ch
+074/055	millich	1	m i ll i ch
+074/057	millig	1	m i ll i g
+074/059	milich	1	m i l i ch
+074/061	milch	1	m i l ch
+074/063	milch	1	m i l ch
+074/065	milich	1	m i l i ch
+074/067	milich	1	m i l i ch
+074/069	milch	1	m i l ch
+074/071	milich	1	m i l i ch
+074/073	milch	1	m i l ch
+074/075	milich	1	m i l i ch
+074/077	milich	1	m i l i ch
+074/079	milich	1	m i l i ch
+074/081	milich	1	m i l i ch
+074/083	milch	1	m i l ch
+074/085	mülch	1	m ü l ch
+074/087	mlch	1	m l ch
+074/089	milch	1	m i l ch
+074/091	mülch	1	m ü l ch
+074/093	mülch	1	m ü l ch
+074/095	milch	1	m i l ch
+074/097	milch	1	m i l ch
+074/099	mülch	1	m ü l ch
+074/101	mülch	1	m ü l ch
+074/103	mülch	1	m ü l ch
+074/105	mülch	1	m ü l ch
+074/107	mülch	1	m ü l ch
+074/109	mülch	1	m ü l ch
+074/145	mülich	1	m ü l i ch
+074/147	millich	1	m i ll i ch
+074/149	milich	1	m i l i ch
+074/153	millich	1	m i ll i ch
+074/155	milich	1	m i l i ch
+074/157	mellich	1	m e ll i ch
+074/159	mellich	1	m e ll i ch
+074/161	mäilich	1	m äi l i ch
+074/163	mellich	1	m e ll i ch
+074/165	mellich	1	m e ll i ch
+075/019	melech	1	m e l e ch
+075/021	melech	1	m e l e ch
+075/023	melech	1	m e l e ch
+075/025	melech	1	m e l e ch
+075/027	mäilch	1	m äi l ch
+075/029	mellig	1	m e ll i g
+075/031	melch	1	m e l ch
+075/033	melch	1	m e l ch
+075/035	milch	1	m i l ch
+075/037	milch	1	m i l ch
+075/039	milch	1	m i l ch
+075/041	millich	1	m i ll i ch
+075/043	milich	1	m i l i ch
+075/045	millich	1	m i ll i ch
+075/047	millich	1	m i ll i ch
+075/049	milich	1	m i l i ch
+075/051	millich	1	m i ll i ch
+075/053	milich	1	m i l i ch
+075/055	millich	1	m i ll i ch
+075/057	millig	1	m i ll i g
+075/059	milich	1	m i l i ch
+075/061	milich	1	m i l i ch
+075/063	milch	1	m i l ch
+075/065	milich	1	m i l i ch
+075/067	milich	1	m i l i ch
+075/069	milch	1	m i l ch
+075/071	milch	1	m i l ch
+075/073	milich	1	m i l i ch
+075/075	milch	1	m i l ch
+075/077	mülch	1	m ü l ch
+075/079	milich	1	m i l i ch
+075/081	milch	1	m i l ch
+075/083	mälch	1	m ä l ch
+075/085	milch	1	m i l ch
+075/087	milch	1	m i l ch
+075/089	milch	1	m i l ch
+075/091	milch	1	m i l ch
+075/093	milch	1	m i l ch
+075/095	mülch	1	m ü l ch
+075/097	milch	1	m i l ch
+075/099	mülch	1	m ü l ch
+075/101	milch	1	m i l ch
+075/103	mlch	1	m l ch
+075/105	mülch	1	m ü l ch
+075/107	mülch	1	m ü l ch
+075/135	mili	1	m i l i
+075/145	millich	1	m i ll i ch
+075/147	milich	1	m i l i ch
+075/149	milich	1	m i l i ch
+075/155	milich	1	m i l i ch
+075/157	melech	1	m e l e ch
+075/159	melich	1	m e l i ch
+075/161	melich	1	m e l i ch
+075/163	melech	1	m e l e ch
+075/165	mellich	1	m e ll i ch
+076/019	melech	1	m e l e ch
+076/021	melech	1	m e l e ch
+076/023	melech	1	m e l e ch
+076/025	melech	1	m e l e ch
+076/027	melch	1	m e l ch
+076/029	melch	1	m e l ch
+076/033	melch	1	m e l ch
+076/035	milch	1	m i l ch
+076/037	millich	1	m i ll i ch
+076/039	milich	1	m i l i ch
+076/041	millich	1	m i ll i ch
+076/043	millich	1	m i ll i ch
+076/045	millich	1	m i ll i ch
+076/047	millich	1	m i ll i ch
+076/049	milch	1	m i l ch
+076/051	millich	1	m i ll i ch
+076/053	milich	1	m i l i ch
+076/055	milich	1	m i l i ch
+076/057	milich	1	m i l i ch
+076/059	milich	1	m i l i ch
+076/061	milich	1	m i l i ch
+076/063	milch	1	m i l ch
+076/065	milich	1	m i l i ch
+076/067	milch	1	m i l ch
+076/069	milich	1	m i l i ch
+076/071	milch	1	m i l ch
+076/073	milch	1	m i l ch
+076/075	milch	1	m i l ch
+076/077	milch	1	m i l ch
+076/079	milch	1	m i l ch
+076/081	milch	1	m i l ch
+076/083	mlch	1	m l ch
+076/085	milch	1	m i l ch
+076/087	milch	1	m i l ch
+076/089	milch	1	m i l ch
+076/091	mülch	1	m ü l ch
+076/093	milch	1	m i l ch
+076/095	milch	1	m i l ch
+076/097	milch	1	m i l ch
+076/099	milch	1	m i l ch
+076/101	milch	1	m i l ch
+076/103	milch	1	m i l ch
+076/135	mili	1	m i l i
+076/137	milli	1	m i ll i
+076/149	melich	1	m e l i ch
+076/151	melich	1	m e l i ch
+076/155	milich	1	m i l i ch
+076/161	mellech	1	m e ll e ch
+076/163	melech	1	m e l e ch
+076/165	melech	1	m e l e ch
+077/019	melech	1	m e l e ch
+077/021	melich	1	m e l i ch
+077/023	melech	1	m e l e ch
+077/025	melch	1	m e l ch
+077/027	melech	1	m e l e ch
+077/029	melich	1	m e l i ch
+077/031	melich	1	m e l i ch
+077/033	milch	1	m i l ch
+077/035	milch	1	m i l ch
+077/037	millich	1	m i ll i ch
+077/039	millich	1	m i ll i ch
+077/041	millich	1	m i ll i ch
+077/043	milich	1	m i l i ch
+077/047	milich	1	m i l i ch
+077/049	milich	1	m i l i ch
+077/051	milich	1	m i l i ch
+077/053	millich	1	m i ll i ch
+077/055	millisch	1	m i ll i sch
+077/057	milich	1	m i l i ch
+077/059	millich	1	m i ll i ch
+077/061	milch	1	m i l ch
+077/063	millich	1	m i ll i ch
+077/065	milch	1	m i l ch
+077/067	milch	1	m i l ch
+077/069	milch	1	m i l ch
+077/071	milich	1	m i l i ch
+077/073	milch	1	m i l ch
+077/075	milch	1	m i l ch
+077/077	milch	1	m i l ch
+077/079	milich	1	m i l i ch
+077/081	milich	1	m i l i ch
+077/083	milch	1	m i l ch
+077/085	milch	1	m i l ch
+077/087	milli	1	m i ll i
+077/089	milch	1	m i l ch
+077/091	milch	1	m i l ch
+077/093	milch	1	m i l ch
+077/095	milch	1	m i l ch
+077/097	milch	1	m i l ch
+077/099	maüch	1	m aü ch
+077/101	mülch	1	m ü l ch
+077/103	mülch	1	m ü l ch
+077/135	mile	1	m i l e
+077/137	mile	1	m i l e
+078/021	melech	1	m e l e ch
+078/023	melch	1	m e l ch
+078/025	melch	1	m e l ch
+078/027	meilch	1	m ei l ch
+078/029	melch	1	m e l ch
+078/031	milich	1	m i l i ch
+078/033	milch	1	m i l ch
+078/035	milch	1	m i l ch
+078/037	millich	1	m i ll i ch
+078/039	milich	1	m i l i ch
+078/041	milich	1	m i l i ch
+078/045	millich	1	m i ll i ch
+078/047	millich	1	m i ll i ch
+078/049	millich	1	m i ll i ch
+078/051	millich	1	m i ll i ch
+078/053	milich	1	m i l i ch
+078/055	milich	1	m i l i ch
+078/057	milich	1	m i l i ch
+078/059	millich	1	m i ll i ch
+078/061	milich	1	m i l i ch
+078/063	milich	1	m i l i ch
+078/065	milch	1	m i l ch
+078/067	milch	1	m i l ch
+078/069	milich	1	m i l i ch
+078/071	milch	1	m i l ch
+078/073	milich	1	m i l i ch
+078/075	milch	1	m i l ch
+078/077	milch	1	m i l ch
+078/079	milch	1	m i l ch
+078/081	milch	1	m i l ch
+078/083	milch	1	m i l ch
+078/085	mülch	1	m ü l ch
+078/087	milch	1	m i l ch
+078/089	milch	1	m i l ch
+078/091	milch	1	m i l ch
+078/093	milch	1	m i l ch
+078/095	milch	1	m i l ch
+078/097	milch	1	m i l ch
+078/099	mil	1	m i l
+078/101	milch	1	m i l ch
+078/103	mill	1	m i ll
+078/105	mül	1	m ü l
+078/135	miele	1	m ie l e
+078/193	millich	1	m i ll i ch
+079/021	milich	1	m i l i ch
+079/023	melch	1	m e l ch
+079/025	mölch	1	m ö l ch
+079/027	melch	1	m e l ch
+079/029	melich	1	m e l i ch
+079/031	millich	1	m i ll i ch
+079/033	milich	1	m i l i ch
+079/035	milisch	1	m i l i sch
+079/037	milich	1	m i l i ch
+079/039	milich	1	m i l i ch
+079/043	millich	1	m i ll i ch
+079/045	milich	1	m i l i ch
+079/047	milich	1	m i l i ch
+079/049	milich	1	m i l i ch
+079/051	milich	1	m i l i ch
+079/053	milich	1	m i l i ch
+079/055	millich	1	m i ll i ch
+079/057	milich	1	m i l i ch
+079/059	milich	1	m i l i ch
+079/061	millich	1	m i ll i ch
+079/063	millich	1	m i ll i ch
+079/065	milich	1	m i l i ch
+079/067	milich	1	m i l i ch
+079/069	milch	1	m i l ch
+079/071	milich	1	m i l i ch
+079/073	milch	1	m i l ch
+079/075	milch	1	m i l ch
+079/077	milch	1	m i l ch
+079/079	müch	1	m ü ch
+079/081	milch	1	m i l ch
+079/083	milch	1	m i l ch
+079/085	milch	1	m i l ch
+079/087	milch	1	m i l ch
+079/089	milch	1	m i l ch
+079/091	mlch	1	m l ch
+079/093	milch	1	m i l ch
+079/095	mülch	1	m ü l ch
+079/097	milch	1	m i l ch
+079/099	mill	1	m i ll
+079/101	mil	1	m i l
+079/103	mül	1	m ü l
+079/105	müll	1	m ü ll
+079/107	mül	1	m ü l
+079/133	mili	1	m i l i
+079/135	mili	1	m i l i
+079/193	milich	1	m i l i ch
+079/195	melich	1	m e l i ch
+079/197	mäuich	1	m äui ch
+080/025	melch	1	m e l ch
+080/027	melch	1	m e l ch
+080/029	milch	1	m i l ch
+080/031	milich	1	m i l i ch
+080/033	millich	1	m i ll i ch
+080/035	milich	1	m i l i ch
+080/037	milich	1	m i l i ch
+080/039	milich	1	m i l i ch
+080/041	milich	1	m i l i ch
+080/043	milich	1	m i l i ch
+080/045	milich	1	m i l i ch
+080/047	millich	1	m i ll i ch
+080/049	millech	1	m i ll e ch
+080/051	milich	1	m i l i ch
+080/053	milich	1	m i l i ch
+080/055	milich	1	m i l i ch
+080/057	milich	1	m i l i ch
+080/059	millich	1	m i ll i ch
+080/061	millich	1	m i ll i ch
+080/063	millich	1	m i ll i ch
+080/065	milich	1	m i l i ch
+080/067	millich	1	m i ll i ch
+080/069	milich	1	m i l i ch
+080/071	milch	1	m i l ch
+080/073	milch	1	m i l ch
+080/075	milch	1	m i l ch
+080/077	milch	1	m i l ch
+080/079	milch	1	m i l ch
+080/081	mili	1	m i l i
+080/083	milch	1	m i l ch
+080/085	mülch	1	m ü l ch
+080/087	milch	1	m i l ch
+080/089	milch	1	m i l ch
+080/091	milch	1	m i l ch
+080/093	mülch	1	m ü l ch
+080/095	mil	1	m i l
+080/097	mil	1	m i l
+080/099	mill	1	m i ll
+080/101	mil	1	m i l
+080/103	mil	1	m i l
+080/105	möl	1	m ö l
+080/107	milch	1	m i l ch
+080/109	mill	1	m i ll
+080/127	mili	1	m i l i
+080/147	milich	1	m i l i ch
+080/151	milich	1	m i l i ch
+080/153	milach	1	m i l a ch
+080/193	melch	1	m e l ch
+080/195	mälich	1	m ä l i ch
+081/025	melch	1	m e l ch
+081/027	milch	1	m i l ch
+081/029	milch	1	m i l ch
+081/031	milch	1	m i l ch
+081/033	meelch	1	m ee l ch
+081/035	milich	1	m i l i ch
+081/037	milich	1	m i l i ch
+081/039	milich	1	m i l i ch
+081/043	milich	1	m i l i ch
+081/045	millich	1	m i ll i ch
+081/047	milich	1	m i l i ch
+081/049	milch	1	m i l ch
+081/051	milich	1	m i l i ch
+081/053	milich	1	m i l i ch
+081/055	milich	1	m i l i ch
+081/057	milech	1	m i l e ch
+081/059	milich	1	m i l i ch
+081/061	millich	1	m i ll i ch
+081/063	milch	1	m i l ch
+081/065	millich	1	m i ll i ch
+081/067	milch	1	m i l ch
+081/069	milich	1	m i l i ch
+081/071	milich	1	m i l i ch
+081/073	milch	1	m i l ch
+081/075	millch	1	m i ll ch
+081/077	milch	1	m i l ch
+081/079	milich	1	m i l i ch
+081/081	milch	1	m i l ch
+081/083	mülich	1	m ü l i ch
+081/085	milch	1	m i l ch
+081/087	milch	1	m i l ch
+081/089	mlch	1	m l ch
+081/091	milch	1	m i l ch
+081/093	milch	1	m i l ch
+081/095	milch	1	m i l ch
+081/097	mil	1	m i l
+081/099	mill	1	m i ll
+081/101	mui	1	m ui
+081/103	mil	1	m i l
+081/105	mil	1	m i l
+081/107	mil	1	m i l
+081/109	mil	1	m i l
+081/111	mil	1	m i l
+081/127	milli	1	m i ll i
+081/129	milli	1	m i ll i
+081/133	müli	1	m ü l i
+081/147	milich	1	m i l i ch
+081/191	mälich	1	m ä l i ch
+081/193	melich	1	m e l i ch
+081/195	mälich	1	m ä l i ch
+082/027	melich	1	m e l i ch
+082/029	milch	1	m i l ch
+082/031	melch	1	m e l ch
+082/033	melich	1	m e l i ch
+082/035	milich	1	m i l i ch
+082/037	melch	1	m e l ch
+082/039	milich	1	m i l i ch
+082/041	milch	1	m i l ch
+082/043	milch	1	m i l ch
+082/045	milich	1	m i l i ch
+082/047	milich	1	m i l i ch
+082/049	milich	1	m i l i ch
+082/051	milich	1	m i l i ch
+082/053	milch	1	m i l ch
+082/055	milech	1	m i l e ch
+082/057	milich	1	m i l i ch
+082/059	milech	1	m i l e ch
+082/061	milech	1	m i l e ch
+082/063	milich	1	m i l i ch
+082/065	millich	1	m i ll i ch
+082/067	milch	1	m i l ch
+082/069	milach	1	m i l a ch
+082/071	milch	1	m i l ch
+082/073	milch	1	m i l ch
+082/075	milich	1	m i l i ch
+082/077	milch	1	m i l ch
+082/079	milich	1	m i l i ch
+082/081	milich	1	m i l i ch
+082/083	milich	1	m i l i ch
+082/085	mülch	1	m ü l ch
+082/087	milch	1	m i l ch
+082/089	milch	1	m i l ch
+082/091	milch	1	m i l ch
+082/093	milch	1	m i l ch
+082/095	mihl	1	m ih l
+082/097	mul	1	m u l
+082/099	mil	1	m i l
+082/101	muil	1	m ui l
+082/103	mil	1	m i l
+082/105	mil	1	m i l
+082/107	mil	1	m i l
+082/111	mill	1	m i ll
+082/113	mil	1	m i l
+082/117	mil	1	m i l
+082/129	müli	1	m ü l i
+082/131	müli	1	m ü l i
+082/133	mülli	1	m ü ll i
+082/135	milie	1	m i l ie
+082/145	millä	1	m i ll ä
+082/147	milli	1	m i ll i
+082/191	melich	1	m e l i ch
+082/195	mällich	1	m ä ll i ch
+083/027	melich	1	m e l i ch
+083/029	milch	1	m i l ch
+083/031	melich	1	m e l i ch
+083/033	melech	1	m e l e ch
+083/035	melech	1	m e l e ch
+083/037	millich	1	m i ll i ch
+083/039	melch	1	m e l ch
+083/041	milich	1	m i l i ch
+083/043	millich	1	m i ll i ch
+083/045	milich	1	m i l i ch
+083/047	milch	1	m i l ch
+083/049	milich	1	m i l i ch
+083/051	milch	1	m i l ch
+083/053	milich	1	m i l i ch
+083/055	milch	1	m i l ch
+083/057	millech	1	m i ll e ch
+083/059	milech	1	m i l e ch
+083/061	milech	1	m i l e ch
+083/063	milch	1	m i l ch
+083/065	milich	1	m i l i ch
+083/067	mill	1	m i ll
+083/069	milch	1	m i l ch
+083/071	milach	1	m i l a ch
+083/073	milach	1	m i l a ch
+083/075	milch	1	m i l ch
+083/077	millich	1	m i ll i ch
+083/079	milch	1	m i l ch
+083/081	milich	1	m i l i ch
+083/083	milch	1	m i l ch
+083/085	müch	1	m ü ch
+083/087	müch	1	m ü ch
+083/089	milch	1	m i l ch
+083/091	meich	1	m ei ch
+083/093	mejch	1	m e j ch
+083/095	mul	1	m u l
+083/097	muhl	1	m uh l
+083/099	mäich	1	m äi ch
+083/101	mil	1	m i l
+083/103	mil	1	m i l
+083/105	mil	1	m i l
+083/107	mäich	1	m äi ch
+083/111	mil	1	m i l
+083/113	mill	1	m i ll
+083/115	mil	1	m i l
+083/117	mil	1	m i l
+083/119	mil	1	m i l
+083/121	milli	1	m i ll i
+083/129	müli	1	m ü l i
+083/131	mülli	1	m ü ll i
+083/133	möli	1	m ö l i
+083/135	mli	1	m l i
+083/139	mülle	1	m ü ll e
+083/143	müli	1	m ü l i
+083/145	mülli	1	m ü ll i
+083/147	mülli	1	m ü ll i
+083/149	millich	1	m i ll i ch
+083/173	melich	1	m e l i ch
+083/195	mellich	1	m e ll i ch
+084/031	milch	1	m i l ch
+084/033	millich	1	m i ll i ch
+084/035	melich	1	m e l i ch
+084/037	milch	1	m i l ch
+084/039	melch	1	m e l ch
+084/041	melich	1	m e l i ch
+084/043	mellich	1	m e ll i ch
+084/045	milch	1	m i l ch
+084/047	milich	1	m i l i ch
+084/049	milich	1	m i l i ch
+084/051	milich	1	m i l i ch
+084/053	millich	1	m i ll i ch
+084/055	milich	1	m i l i ch
+084/057	milech	1	m i l e ch
+084/059	milech	1	m i l e ch
+084/061	millech	1	m i ll e ch
+084/063	milach	1	m i l a ch
+084/065	millach	1	m i ll a ch
+084/067	milch	1	m i l ch
+084/069	milch	1	m i l ch
+084/071	milch	1	m i l ch
+084/073	milach	1	m i l a ch
+084/075	milach	1	m i l a ch
+084/077	milli	1	m i ll i
+084/079	milli	1	m i ll i
+084/081	müli	1	m ü l i
+084/083	milch	1	m i l ch
+084/085	mülli	1	m ü ll i
+084/087	milli	1	m i ll i
+084/089	mili	1	m i l i
+084/091	möjch	1	m ö j ch
+084/093	muich	1	m ui ch
+084/095	mül	1	m ü l
+084/097	mul	1	m u l
+084/099	mäich	1	m äi ch
+084/101	mili	1	m i l i
+084/103	mäich	1	m äi ch
+084/105	mili	1	m i l i
+084/107	mil	1	m i l
+084/109	mil	1	m i l
+084/111	mil	1	m i l
+084/113	mill	1	m i ll
+084/115	mull	1	m u ll
+084/117	midl	1	m i d l
+084/119	mil	1	m i l
+084/129	müli	1	m ü l i
+084/131	mülli	1	m ü ll i
+084/133	müli	1	m ü l i
+084/135	müli	1	m ü l i
+084/137	müli	1	m ü l i
+084/139	müle	1	m ü l e
+084/141	müch	1	m ü ch
+084/143	mühli	1	m üh l i
+084/145	müli	1	m ü l i
+084/147	mülli	1	m ü ll i
+084/149	müle	1	m ü l e
+084/171	mälech	1	m ä l e ch
+084/173	meli	1	m e l i
+084/195	mälich	1	m ä l i ch
+085/031	milich	1	m i l i ch
+085/033	milich	1	m i l i ch
+085/035	melch	1	m e l ch
+085/037	melich	1	m e l i ch
+085/039	melich	1	m e l i ch
+085/041	mällich	1	m ä ll i ch
+085/043	melch	1	m e l ch
+085/045	melech	1	m e l e ch
+085/047	millich	1	m i ll i ch
+085/049	milich	1	m i l i ch
+085/051	millich	1	m i ll i ch
+085/053	milich	1	m i l i ch
+085/055	milich	1	m i l i ch
+085/057	milich	1	m i l i ch
+085/059	milch	1	m i l ch
+085/061	milach	1	m i l a ch
+085/063	milach	1	m i l a ch
+085/065	milch	1	m i l ch
+085/067	milch	1	m i l ch
+085/069	milch	1	m i l ch
+085/071	milch	1	m i l ch
+085/073	milach	1	m i l a ch
+085/075	milach	1	m i l a ch
+085/077	milach	1	m i l a ch
+085/079	milli	1	m i ll i
+085/081	milli	1	m i ll i
+085/083	mäch	1	m ä ch
+085/085	milich	1	m i l i ch
+085/087	möi	1	m öi
+085/089	meich	1	m ei ch
+085/091	milch	1	m i l ch
+085/093	muich	1	m ui ch
+085/095	meich	1	m ei ch
+085/097	mul	1	m u l
+085/101	mil	1	m i l
+085/103	mill	1	m i ll
+085/105	mil	1	m i l
+085/107	mill	1	m i ll
+085/109	mill	1	m i ll
+085/111	mil	1	m i l
+085/113	milli	1	m i ll i
+085/115	mil	1	m i l
+085/117	mil	1	m i l
+085/119	mill	1	m i ll
+085/121	mili	1	m i l i
+085/123	mili	1	m i l i
+085/125	mülli	1	m ü ll i
+085/127	mülli	1	m ü ll i
+085/129	mülle	1	m ü ll e
+085/131	müli	1	m ü l i
+085/133	müli	1	m ü l i
+085/135	müli	1	m ü l i
+085/137	müli	1	m ü l i
+085/139	müli	1	m ü l i
+085/141	mülli	1	m ü ll i
+085/143	müli	1	m ü l i
+085/145	müli	1	m ü l i
+085/147	mülli	1	m ü ll i
+085/149	müli	1	m ü l i
+085/175	milech	1	m i l e ch
+085/193	melich	1	m e l i ch
+085/197	melich	1	m e l i ch
+086/033	milich	1	m i l i ch
+086/035	milch	1	m i l ch
+086/037	melich	1	m e l i ch
+086/039	melch	1	m e l ch
+086/041	melch	1	m e l ch
+086/043	melli	1	m e ll i
+086/045	milich	1	m i l i ch
+086/047	milich	1	m i l i ch
+086/049	milich	1	m i l i ch
+086/051	milech	1	m i l e ch
+086/053	milech	1	m i l e ch
+086/055	milech	1	m i l e ch
+086/057	miilich	1	m ii l i ch
+086/059	milach	1	m i l a ch
+086/061	milach	1	m i l a ch
+086/063	milch	1	m i l ch
+086/065	milch	1	m i l ch
+086/067	milch	1	m i l ch
+086/069	milch	1	m i l ch
+086/071	milch	1	m i l ch
+086/073	milch	1	m i l ch
+086/075	milch	1	m i l ch
+086/077	milach	1	m i l a ch
+086/079	milli	1	m i ll i
+086/081	müli	1	m ü l i
+086/083	millich	1	m i ll i ch
+086/085	mili	1	m i l i
+086/087	mölli	1	m ö ll i
+086/089	möich	1	m öi ch
+086/091	meeich	1	m eei ch
+086/093	mejch	1	m e j ch
+086/095	mil	1	m i l
+086/097	mil	1	m i l
+086/099	mil	1	m i l
+086/101	mil	1	m i l
+086/103	mil	1	m i l
+086/105	mil	1	m i l
+086/107	mil	1	m i l
+086/109	mil	1	m i l
+086/111	mill	1	m i ll
+086/113	mili	1	m i l i
+086/115	müli	1	m ü l i
+086/117	mil	1	m i l
+086/119	müj	1	m ü j
+086/121	müli	1	m ü l i
+086/123	milli	1	m i ll i
+086/125	milli	1	m i ll i
+086/127	müli	1	m ü l i
+086/129	mülli	1	m ü ll i
+086/131	müli	1	m ü l i
+086/133	mülli	1	m ü ll i
+086/135	müli	1	m ü l i
+086/137	müli	1	m ü l i
+086/139	müli	1	m ü l i
+086/141	müli	1	m ü l i
+086/143	müli	1	m ü l i
+086/145	müli	1	m ü l i
+086/147	müli	1	m ü l i
+086/149	mülli	1	m ü ll i
+086/151	mülch	1	m ü l ch
+086/175	milech	1	m i l e ch
+086/197	melich	1	m e l i ch
+086/199	milich	1	m i l i ch
+087/033	milch	1	m i l ch
+087/035	mellich	1	m e ll i ch
+087/037	melich	1	m e l i ch
+087/039	melich	1	m e l i ch
+087/041	milch	1	m i l ch
+087/043	melch	1	m e l ch
+087/045	milich	1	m i l i ch
+087/049	millech	1	m i ll e ch
+087/051	millech	1	m i ll e ch
+087/053	milech	1	m i l e ch
+087/055	milch	1	m i l ch
+087/057	milach	1	m i l a ch
+087/059	milach	1	m i l a ch
+087/061	milich	1	m i l i ch
+087/063	milach	1	m i l a ch
+087/065	miliach	1	m i l ia ch
+087/067	milch	1	m i l ch
+087/069	milch	1	m i l ch
+087/071	milch	1	m i l ch
+087/073	milch	1	m i l ch
+087/075	milch	1	m i l ch
+087/077	milli	1	m i ll i
+087/079	milli	1	m i ll i
+087/081	mühi	1	m ü h i
+087/083	milli	1	m i ll i
+087/085	möi	1	m öi
+087/087	müji	1	m ü j i
+087/089	moich	1	m oi ch
+087/091	muich	1	m ui ch
+087/093	mäich	1	m äi ch
+087/095	mil	1	m i l
+087/097	mil	1	m i l
+087/099	mil	1	m i l
+087/101	mili	1	m i l i
+087/103	mili	1	m i l i
+087/105	milli	1	m i ll i
+087/107	mil	1	m i l
+087/109	mil	1	m i l
+087/111	mil	1	m i l
+087/113	mili	1	m i l i
+087/115	müli	1	m ü l i
+087/117	mil	1	m i l
+087/119	mü	1	m ü
+087/121	mülch	1	m ü l ch
+087/123	mül	1	m ü l
+087/125	mülli	1	m ü ll i
+087/127	mühli	1	m üh l i
+087/129	müli	1	m ü l i
+087/133	müli	1	m ü l i
+087/135	milli	1	m i ll i
+087/137	milch	1	m i l ch
+087/139	müli	1	m ü l i
+087/141	müli	1	m ü l i
+087/143	müli	1	m ü l i
+087/145	müli	1	m ü l i
+087/147	mülli	1	m ü ll i
+087/149	müli	1	m ü l i
+087/151	mülch	1	m ü l ch
+088/035	melich	1	m e l i ch
+088/037	mellich	1	m e ll i ch
+088/039	melich	1	m e l i ch
+088/041	mellich	1	m e ll i ch
+088/043	milch	1	m i l ch
+088/045	milich	1	m i l i ch
+088/047	milch	1	m i l ch
+088/049	milch	1	m i l ch
+088/051	milech	1	m i l e ch
+088/053	milch	1	m i l ch
+088/055	milch	1	m i l ch
+088/057	millech	1	m i ll e ch
+088/059	milach	1	m i l a ch
+088/061	milch	1	m i l ch
+088/063	milech	1	m i l e ch
+088/065	milch	1	m i l ch
+088/067	mihl	1	m ih l
+088/069	milch	1	m i l ch
+088/071	milch	1	m i l ch
+088/073	mil	1	m i l
+088/075	mili	1	m i l i
+088/077	milli	1	m i ll i
+088/079	milli	1	m i ll i
+088/081	müli	1	m ü l i
+088/083	müli	1	m ü l i
+088/085	milli	1	m i ll i
+088/087	milli	1	m i ll i
+088/089	mäich	1	m äi ch
+088/091	meich	1	m ei ch
+088/093	meich	1	m ei ch
+088/095	mil	1	m i l
+088/097	milli	1	m i ll i
+088/099	mil	1	m i l
+088/101	mil	1	m i l
+088/103	mil	1	m i l
+088/105	muj	1	m u j
+088/107	mill	1	m i ll
+088/109	mili	1	m i l i
+088/113	milö	1	m i l ö
+088/115	müli	1	m ü l i
+088/117	müi	1	m üi
+088/121	mü	1	m ü
+088/123	müli	1	m ü l i
+088/127	müli	1	m ü l i
+088/129	müh	1	m üh
+088/131	müli	1	m ü l i
+088/137	müli	1	m ü l i
+088/139	müli	1	m ü l i
+088/141	müli	1	m ü l i
+088/143	müli	1	m ü l i
+088/145	müli	1	m ü l i
+088/147	müli	1	m ü l i
+088/149	müli	1	m ü l i
+089/035	milch	1	m i l ch
+089/037	melich	1	m e l i ch
+089/039	melich	1	m e l i ch
+089/041	melich	1	m e l i ch
+089/043	melch	1	m e l ch
+089/045	milch	1	m i l ch
+089/047	millich	1	m i ll i ch
+089/049	milch	1	m i l ch
+089/051	millech	1	m i ll e ch
+089/053	milch	1	m i l ch
+089/055	milch	1	m i l ch
+089/057	milach	1	m i l a ch
+089/059	milich	1	m i l i ch
+089/061	milch	1	m i l ch
+089/063	mill	1	m i ll
+089/065	mil	1	m i l
+089/067	mill	1	m i ll
+089/069	mil	1	m i l
+089/071	mil	1	m i l
+089/073	mil	1	m i l
+089/075	mill	1	m i ll
+089/077	milli	1	m i ll i
+089/079	mile	1	m i l e
+089/081	milli	1	m i ll i
+089/083	müi	1	m üi
+089/085	milich	1	m i l i ch
+089/087	milch	1	m i l ch
+089/089	mili	1	m i l i
+089/091	möich	1	m öi ch
+089/093	muich	1	m ui ch
+089/095	mil	1	m i l
+089/097	mili	1	m i l i
+089/099	mili	1	m i l i
+089/101	mil	1	m i l
+089/103	mill	1	m i ll
+089/105	milö	1	m i l ö
+089/107	mili	1	m i l i
+089/109	mülli	1	m ü ll i
+089/111	mili	1	m i l i
+089/113	mili	1	m i l i
+089/115	müle	1	m ü l e
+089/117	mü	1	m ü
+089/119	mü	1	m ü
+089/121	mü	1	m ü
+089/123	müli	1	m ü l i
+089/125	müli	1	m ü l i
+089/127	mü	1	m ü
+089/129	müch	1	m ü ch
+089/131	müch	1	m ü ch
+089/133	müli	1	m ü l i
+089/135	mülli	1	m ü ll i
+089/137	mülli	1	m ü ll i
+089/139	müli	1	m ü l i
+089/141	müli	1	m ü l i
+089/143	mühli	1	m üh l i
+089/145	müli	1	m ü l i
+089/147	mülli	1	m ü ll i
+089/149	müli	1	m ü l i
+090/035	melich	1	m e l i ch
+090/037	melich	1	m e l i ch
+090/039	melich	1	m e l i ch
+090/041	melich	1	m e l i ch
+090/043	milch	1	m i l ch
+090/045	miilich	1	m ii l i ch
+090/047	milich	1	m i l i ch
+090/049	milich	1	m i l i ch
+090/051	milich	1	m i l i ch
+090/053	milch	1	m i l ch
+090/055	milch	1	m i l ch
+090/057	milach	1	m i l a ch
+090/059	milach	1	m i l a ch
+090/061	milach	1	m i l a ch
+090/063	millach	1	m i ll a ch
+090/065	mill	1	m i ll
+090/067	miil	1	m ii l
+090/069	mihl	1	m ih l
+090/071	mil	1	m i l
+090/073	mill	1	m i ll
+090/075	mill	1	m i ll
+090/077	mill	1	m i ll
+090/079	milch	1	m i l ch
+090/081	mili	1	m i l i
+090/083	mui	1	m ui
+090/085	möüha	1	m öü h a
+090/087	milla	1	m i ll a
+090/089	möich	1	m öi ch
+090/091	mili	1	m i l i
+090/093	muih	1	m uih
+090/095	mil	1	m i l
+090/097	mil	1	m i l
+090/099	mil	1	m i l
+090/101	miil	1	m ii l
+090/103	milö	1	m i l ö
+090/105	milli	1	m i ll i
+090/107	mil	1	m i l
+090/109	milö	1	m i l ö
+090/111	milö	1	m i l ö
+090/113	mülö	1	m ü l ö
+090/115	müli	1	m ü l i
+090/119	müli	1	m ü l i
+090/121	mühl	1	m üh l
+090/123	müli	1	m ü l i
+090/125	mü	1	m ü
+090/127	mü	1	m ü
+090/129	müch	1	m ü ch
+090/131	müli	1	m ü l i
+090/133	müüli	1	m üü l i
+090/135	mülli	1	m ü ll i
+090/137	mühli	1	m üh l i
+090/139	müch	1	m ü ch
+090/141	müli	1	m ü l i
+090/143	müli	1	m ü l i
+090/145	müch	1	m ü ch
+090/147	müli	1	m ü l i
+090/149	müli	1	m ü l i
+090/151	mülch	1	m ü l ch
+091/035	melich	1	m e l i ch
+091/037	melich	1	m e l i ch
+091/039	mellich	1	m e ll i ch
+091/041	milich	1	m i l i ch
+091/043	milich	1	m i l i ch
+091/045	milch	1	m i l ch
+091/047	milch	1	m i l ch
+091/049	milich	1	m i l i ch
+091/051	millich	1	m i ll i ch
+091/053	milich	1	m i l i ch
+091/055	milch	1	m i l ch
+091/057	milch	1	m i l ch
+091/059	milch	1	m i l ch
+091/061	mill	1	m i ll
+091/063	mill	1	m i ll
+091/065	mill	1	m i ll
+091/067	mill	1	m i ll
+091/069	mill	1	m i ll
+091/071	mill	1	m i ll
+091/073	mill	1	m i ll
+091/075	mill	1	m i ll
+091/077	mil	1	m i l
+091/079	mill	1	m i ll
+091/081	mülli	1	m ü ll i
+091/083	mili	1	m i l i
+091/085	milch	1	m i l ch
+091/087	mili	1	m i l i
+091/091	milli	1	m i ll i
+091/093	muih	1	m uih
+091/095	mil	1	m i l
+091/097	mili	1	m i l i
+091/099	mili	1	m i l i
+091/101	mili	1	m i l i
+091/103	milli	1	m i ll i
+091/105	muich	1	m ui ch
+091/107	mili	1	m i l i
+091/109	mili	1	m i l i
+091/111	müli	1	m ü l i
+091/113	milö	1	m i l ö
+091/115	milch	1	m i l ch
+091/117	müle	1	m ü l e
+091/119	müli	1	m ü l i
+091/121	mül	1	m ü l
+091/125	mü	1	m ü
+091/129	müh	1	m üh
+091/131	mülli	1	m ü ll i
+091/133	müli	1	m ü l i
+091/135	müli	1	m ü l i
+091/137	müli	1	m ü l i
+091/139	mülli	1	m ü ll i
+091/141	müch	1	m ü ch
+091/143	müli	1	m ü l i
+091/145	müli	1	m ü l i
+091/147	müli	1	m ü l i
+091/149	müli	1	m ü l i
+091/151	müli	1	m ü l i
+091/155	müli	1	m ü l i
+092/033	melich	1	m e l i ch
+092/035	melch	1	m e l ch
+092/037	melch	1	m e l ch
+092/039	melach	1	m e l a ch
+092/041	milch	1	m i l ch
+092/043	milch	1	m i l ch
+092/045	milch	1	m i l ch
+092/047	milch	1	m i l ch
+092/049	milk	1	m i l k
+092/051	miillch	1	m ii ll ch
+092/053	milch	1	m i l ch
+092/055	milch	1	m i l ch
+092/057	milch	1	m i l ch
+092/059	milch	1	m i l ch
+092/061	milch	1	m i l ch
+092/063	mill	1	m i ll
+092/065	mill	1	m i ll
+092/067	mill	1	m i ll
+092/069	mil	1	m i l
+092/071	milch	1	m i l ch
+092/073	mill	1	m i ll
+092/075	mill	1	m i ll
+092/077	mill	1	m i ll
+092/079	mill	1	m i ll
+092/081	milli	1	m i ll i
+092/083	milli	1	m i ll i
+092/085	milli	1	m i ll i
+092/087	mili	1	m i l i
+092/089	muich	1	m ui ch
+092/091	möich	1	m öi ch
+092/093	mill	1	m i ll
+092/095	muich	1	m ui ch
+092/097	mili	1	m i l i
+092/099	mili	1	m i l i
+092/101	milli	1	m i ll i
+092/103	mili	1	m i l i
+092/105	milö	1	m i l ö
+092/107	milö	1	m i l ö
+092/109	mile	1	m i l e
+092/111	mili	1	m i l i
+092/113	milö	1	m i l ö
+092/115	müli	1	m ü l i
+092/117	müli	1	m ü l i
+092/119	müli	1	m ü l i
+092/121	müli	1	m ü l i
+092/123	mü	1	m ü
+092/125	müi	1	m üi
+092/127	mü	1	m ü
+092/129	müli	1	m ü l i
+092/131	mü	1	m ü
+092/133	müli	1	m ü l i
+092/135	müch	1	m ü ch
+092/137	mülli	1	m ü ll i
+092/139	mülli	1	m ü ll i
+092/141	müli	1	m ü l i
+092/143	müch	1	m ü ch
+092/145	mülle	1	m ü ll e
+092/147	müch	1	m ü ch
+092/149	müli	1	m ü l i
+092/151	mülch	1	m ü l ch
+093/035	melich	1	m e l i ch
+093/037	melich	1	m e l i ch
+093/039	melch	1	m e l ch
+093/041	milch	1	m i l ch
+093/043	milch	1	m i l ch
+093/045	milich	1	m i l i ch
+093/047	milich	1	m i l i ch
+093/049	milg	1	m i l g
+093/051	milk	1	m i l k
+093/053	milch	1	m i l ch
+093/055	milch	1	m i l ch
+093/057	milch	1	m i l ch
+093/059	milch	1	m i l ch
+093/061	mill	1	m i ll
+093/063	mill	1	m i ll
+093/065	mill	1	m i ll
+093/067	mill	1	m i ll
+093/069	mil	1	m i l
+093/071	mill	1	m i ll
+093/073	mill	1	m i ll
+093/075	mill	1	m i ll
+093/077	mill	1	m i ll
+093/079	milli	1	m i ll i
+093/081	milli	1	m i ll i
+093/083	mui	1	m ui
+093/085	milli	1	m i ll i
+093/087	mili	1	m i l i
+093/089	milli	1	m i ll i
+093/091	mili	1	m i l i
+093/093	mili	1	m i l i
+093/095	mili	1	m i l i
+093/097	milli	1	m i ll i
+093/099	mili	1	m i l i
+093/101	mili	1	m i l i
+093/103	mili	1	m i l i
+093/105	mili	1	m i l i
+093/109	mili	1	m i l i
+093/111	müli	1	m ü l i
+093/113	müli	1	m ü l i
+093/115	mili	1	m i l i
+093/117	müloe	1	m ü l oe
+093/119	müli	1	m ü l i
+093/121	mülö	1	m ü l ö
+093/123	müh	1	m üh
+093/125	mü	1	m ü
+093/127	müi	1	m üi
+093/129	müch	1	m ü ch
+093/131	müli	1	m ü l i
+093/133	mülli	1	m ü ll i
+093/137	müli	1	m ü l i
+093/139	müli	1	m ü l i
+093/143	müli	1	m ü l i
+093/145	müch	1	m ü ch
+093/147	müli	1	m ü l i
+093/149	mülch	1	m ü l ch
+093/151	müli	1	m ü l i
+093/153	müli	1	m ü l i
+093/155	mülli	1	m ü ll i
+094/033	melich	1	m e l i ch
+094/035	melich	1	m e l i ch
+094/037	melch	1	m e l ch
+094/039	melch	1	m e l ch
+094/041	melch	1	m e l ch
+094/043	milch	1	m i l ch
+094/045	milch	1	m i l ch
+094/047	milich	1	m i l i ch
+094/049	milch	1	m i l ch
+094/051	milch	1	m i l ch
+094/053	milk	1	m i l k
+094/055	milch	1	m i l ch
+094/057	milch	1	m i l ch
+094/059	milch	1	m i l ch
+094/061	mill	1	m i ll
+094/063	mil	1	m i l
+094/065	mil	1	m i l
+094/067	mill	1	m i ll
+094/069	mill	1	m i ll
+094/071	mill	1	m i ll
+094/073	mill	1	m i ll
+094/075	mill	1	m i ll
+094/077	muuhl	1	m uuh l
+094/079	mili	1	m i l i
+094/081	mui	1	m ui
+094/083	mui	1	m ui
+094/085	milli	1	m i ll i
+094/087	milli	1	m i ll i
+094/089	mili	1	m i l i
+094/091	mili	1	m i l i
+094/093	mili	1	m i l i
+094/095	muich	1	m ui ch
+094/097	mili	1	m i l i
+094/099	möich	1	m öi ch
+094/101	milli	1	m i ll i
+094/103	mili	1	m i l i
+094/105	mülö	1	m ü l ö
+094/107	mili	1	m i l i
+094/109	müli	1	m ü l i
+094/111	mülch	1	m ü l ch
+094/113	müli	1	m ü l i
+094/115	müli	1	m ü l i
+094/117	mülö	1	m ü l ö
+094/119	müli	1	m ü l i
+094/121	müch	1	m ü ch
+094/123	mü	1	m ü
+094/125	müi	1	m üi
+094/127	müli	1	m ü l i
+094/129	müch	1	m ü ch
+094/131	müli	1	m ü l i
+094/133	müli	1	m ü l i
+094/135	müli	1	m ü l i
+094/137	mülli	1	m ü ll i
+094/139	müli	1	m ü l i
+094/141	müli	1	m ü l i
+094/143	müch	1	m ü ch
+094/145	müch	1	m ü ch
+094/147	müli	1	m ü l i
+094/149	müli	1	m ü l i
+094/151	müch	1	m ü ch
+094/153	müli	1	m ü l i
+095/031	milch	1	m i l ch
+095/033	melich	1	m e l i ch
+095/035	melch	1	m e l ch
+095/037	melch	1	m e l ch
+095/039	melch	1	m e l ch
+095/041	milch	1	m i l ch
+095/043	milch	1	m i l ch
+095/045	milch	1	m i l ch
+095/047	millich	1	m i ll i ch
+095/049	milach	1	m i l a ch
+095/051	milch	1	m i l ch
+095/053	milch	1	m i l ch
+095/055	milch	1	m i l ch
+095/057	milch	1	m i l ch
+095/059	milch	1	m i l ch
+095/061	mill	1	m i ll
+095/063	mil	1	m i l
+095/065	mill	1	m i ll
+095/067	mill	1	m i ll
+095/069	mill	1	m i ll
+095/071	milch	1	m i l ch
+095/073	melch	1	m e l ch
+095/075	mill	1	m i ll
+095/077	mill	1	m i ll
+095/079	mulli	1	m u ll i
+095/081	muli	1	m u l i
+095/083	muui	1	m uui
+095/085	milli	1	m i ll i
+095/087	milli	1	m i ll i
+095/089	miili	1	m ii l i
+095/091	milli	1	m i ll i
+095/093	milli	1	m i ll i
+095/095	NA	NA	-
+095/097	milli	1	m i ll i
+095/099	milli	1	m i ll i
+095/101	milli	1	m i ll i
+095/103	milli	1	m i ll i
+095/105	milli	1	m i ll i
+095/107	milö	1	m i l ö
+095/109	mili	1	m i l i
+095/111	mülö	1	m ü l ö
+095/113	mülö	1	m ü l ö
+095/115	mülli	1	m ü ll i
+095/117	muuli	1	m uu l i
+095/119	mili	1	m i l i
+095/121	mü	1	m ü
+095/123	müli	1	m ü l i
+095/125	mü	1	m ü
+095/129	müch	1	m ü ch
+095/131	müch	1	m ü ch
+095/133	muli	1	m u l i
+095/139	müli	1	m ü l i
+095/141	müli	1	m ü l i
+095/143	müli	1	m ü l i
+095/145	müli	1	m ü l i
+095/147	mülli	1	m ü ll i
+095/149	müli	1	m ü l i
+095/151	müli	1	m ü l i
+095/153	müli	1	m ü l i
+095/155	müli	1	m ü l i
+096/031	milech	1	m i l e ch
+096/033	melich	1	m e l i ch
+096/035	melch	1	m e l ch
+096/037	melach	1	m e l a ch
+096/039	melch	1	m e l ch
+096/041	milch	1	m i l ch
+096/043	milch	1	m i l ch
+096/045	milch	1	m i l ch
+096/047	milch	1	m i l ch
+096/049	milch	1	m i l ch
+096/051	milch	1	m i l ch
+096/053	milch	1	m i l ch
+096/055	milch	1	m i l ch
+096/057	milch	1	m i l ch
+096/059	milach	1	m i l a ch
+096/061	milch	1	m i l ch
+096/063	mil	1	m i l
+096/065	mill	1	m i ll
+096/067	mil	1	m i l
+096/069	mill	1	m i ll
+096/071	mill	1	m i ll
+096/075	mill	1	m i ll
+096/077	mill	1	m i ll
+096/079	ml	1	m l
+096/081	miljö	1	m i l j ö
+096/083	mili	1	m i l i
+096/085	muich	1	m ui ch
+096/087	milch	1	m i l ch
+096/089	mili	1	m i l i
+096/091	mili	1	m i l i
+096/093	mili	1	m i l i
+096/095	milli	1	m i ll i
+096/097	mili	1	m i l i
+096/099	mili	1	m i l i
+096/101	mili	1	m i l i
+096/103	melli	1	m e ll i
+096/105	mili	1	m i l i
+096/107	mili	1	m i l i
+096/109	mich	1	m i ch
+096/111	milö	1	m i l ö
+096/113	müch	1	m ü ch
+096/115	müli	1	m ü l i
+096/117	mülö	1	m ü l ö
+096/119	mü	1	m ü
+096/121	mü	1	m ü
+096/123	mülö	1	m ü l ö
+096/125	müi	1	m üi
+096/129	müli	1	m ü l i
+096/131	müch	1	m ü ch
+096/135	milch	1	m i l ch
+096/137	müli	1	m ü l i
+096/139	müli	1	m ü l i
+096/141	mülch	1	m ü l ch
+096/143	müli	1	m ü l i
+096/145	müli	1	m ü l i
+096/147	müüli	1	m üü l i
+096/151	müli	1	m ü l i
+096/153	mülyi	1	m ü l yi
+096/155	mülich	1	m ü l i ch
+097/031	melech	1	m e l e ch
+097/033	milach	1	m i l a ch
+097/035	melaach	1	m e l aa ch
+097/037	melech	1	m e l e ch
+097/039	milch	1	m i l ch
+097/041	milch	1	m i l ch
+097/043	milch	1	m i l ch
+097/045	milch	1	m i l ch
+097/047	milch	1	m i l ch
+097/049	milch	1	m i l ch
+097/051	milch	1	m i l ch
+097/053	milch	1	m i l ch
+097/055	milch	1	m i l ch
+097/057	milch	1	m i l ch
+097/059	milch	1	m i l ch
+097/061	mill	1	m i ll
+097/063	mill	1	m i ll
+097/065	mill	1	m i ll
+097/067	mill	1	m i ll
+097/069	mil	1	m i l
+097/071	mill	1	m i ll
+097/073	mill	1	m i ll
+097/075	mill	1	m i ll
+097/077	mill	1	m i ll
+097/079	milch	1	m i l ch
+097/081	müli	1	m ü l i
+097/083	milli	1	m i ll i
+097/085	milli	1	m i ll i
+097/087	muuich	1	m uui ch
+097/089	milli	1	m i ll i
+097/091	mili	1	m i l i
+097/093	mili	1	m i l i
+097/095	milli	1	m i ll i
+097/097	mila	1	m i l a
+097/099	mili	1	m i l i
+097/103	mili	1	m i l i
+097/105	mili	1	m i l i
+097/107	mili	1	m i l i
+097/109	mili	1	m i l i
+097/113	mili	1	m i l i
+097/125	mülch	1	m ü l ch
+097/131	müch	1	m ü ch
+097/133	müch	1	m ü ch
+097/139	mülli	1	m ü ll i
+097/141	müilli	1	m üi ll i
+097/143	mülli	1	m ü ll i
+097/145	mülli	1	m ü ll i
+097/149	müli	1	m ü l i
+097/153	müli	1	m ü l i
+098/033	melch	1	m e l ch
+098/035	melch	1	m e l ch
+098/037	milch	1	m i l ch
+098/039	milch	1	m i l ch
+098/041	milch	1	m i l ch
+098/043	milch	1	m i l ch
+098/045	milich	1	m i l i ch
+098/047	milch	1	m i l ch
+098/049	milch	1	m i l ch
+098/051	milch	1	m i l ch
+098/053	milch	1	m i l ch
+098/055	milch	1	m i l ch
+098/057	milch	1	m i l ch
+098/059	milch	1	m i l ch
+098/061	milch	1	m i l ch
+098/063	mill	1	m i ll
+098/065	mill	1	m i ll
+098/067	mil	1	m i l
+098/069	mill	1	m i ll
+098/071	mil	1	m i l
+098/073	mill	1	m i ll
+098/075	mil	1	m i l
+098/077	mill	1	m i ll
+098/079	mili	1	m i l i
+098/081	mili	1	m i l i
+098/083	mili	1	m i l i
+098/085	mili	1	m i l i
+098/087	milch	1	m i l ch
+098/089	mili	1	m i l i
+098/091	mili	1	m i l i
+098/093	milli	1	m i ll i
+098/095	müich	1	m üi ch
+098/097	milli	1	m i ll i
+098/103	mili	1	m i l i
+098/105	milö	1	m i l ö
+098/107	milli	1	m i ll i
+098/109	milli	1	m i ll i
+098/111	mili	1	m i l i
+098/119	mü	1	m ü
+098/123	müch	1	m ü ch
+098/125	mülch	1	m ü l ch
+098/127	müch	1	m ü ch
+098/135	müch	1	m ü ch
+098/137	müli	1	m ü l i
+098/139	mülch	1	m ü l ch
+098/141	müch	1	m ü ch
+098/143	müli	1	m ü l i
+098/145	mülli	1	m ü ll i
+098/147	mülch	1	m ü l ch
+098/149	mülli	1	m ü ll i
+098/151	müli	1	m ü l i
+099/033	milch	1	m i l ch
+099/035	melch	1	m e l ch
+099/037	milch	1	m i l ch
+099/039	melch	1	m e l ch
+099/041	milch	1	m i l ch
+099/043	milch	1	m i l ch
+099/045	milch	1	m i l ch
+099/047	milch	1	m i l ch
+099/049	milch	1	m i l ch
+099/051	milch	1	m i l ch
+099/053	milech	1	m i l e ch
+099/055	milch	1	m i l ch
+099/057	milech	1	m i l e ch
+099/059	milch	1	m i l ch
+099/063	mill	1	m i ll
+099/065	mill	1	m i ll
+099/067	mill	1	m i ll
+099/069	mill	1	m i ll
+099/071	mill	1	m i ll
+099/073	mil	1	m i l
+099/075	mill	1	m i ll
+099/077	mill	1	m i ll
+099/081	milli	1	m i ll i
+099/083	milli	1	m i ll i
+099/085	mülch	1	m ü l ch
+099/089	muich	1	m ui ch
+099/093	müch	1	m ü ch
+099/095	müch	1	m ü ch
+099/099	muich	1	m ui ch
+099/101	mülch	1	m ü l ch
+099/103	mili	1	m i l i
+099/105	mili	1	m i l i
+099/107	mile	1	m i l e
+099/109	mila	1	m i l a
+099/111	mila	1	m i l a
+099/113	müli	1	m ü l i
+099/121	müch	1	m ü ch
+099/123	müli	1	m ü l i
+099/125	müch	1	m ü ch
+099/131	müch	1	m ü ch
+099/137	müch	1	m ü ch
+099/139	müli	1	m ü l i
+099/141	müch	1	m ü ch
+099/143	mülli	1	m ü ll i
+099/145	müli	1	m ü l i
+099/147	müüli	1	m üü l i
+100/033	milch	1	m i l ch
+100/035	melach	1	m e l a ch
+100/037	milch	1	m i l ch
+100/039	milch	1	m i l ch
+100/041	milch	1	m i l ch
+100/043	milch	1	m i l ch
+100/045	milch	1	m i l ch
+100/049	milch	1	m i l ch
+100/051	milch	1	m i l ch
+100/053	milch	1	m i l ch
+100/055	milch	1	m i l ch
+100/057	milch	1	m i l ch
+100/059	milech	1	m i l e ch
+100/061	milech	1	m i l e ch
+100/065	milch	1	m i l ch
+100/067	mill	1	m i ll
+100/069	mill	1	m i ll
+100/071	mil	1	m i l
+100/073	mil	1	m i l
+100/075	milch	1	m i l ch
+100/077	milch	1	m i l ch
+100/081	mili	1	m i l i
+100/083	milli	1	m i ll i
+100/089	müch	1	m ü ch
+100/093	müch	1	m ü ch
+100/095	müich	1	m üi ch
+100/097	muich	1	m ui ch
+100/099	muich	1	m ui ch
+100/101	mili	1	m i l i
+100/109	mü	1	m ü
+100/111	mili	1	m i l i
+100/113	milli	1	m i ll i
+100/115	milch	1	m i l ch
+100/117	muich	1	m ui ch
+100/119	mülch	1	m ü l ch
+100/121	mülch	1	m ü l ch
+100/125	milch	1	m i l ch
+100/127	mülch	1	m ü l ch
+100/129	mülch	1	m ü l ch
+100/133	milch	1	m i l ch
+100/135	mülch	1	m ü l ch
+100/141	mülli	1	m ü ll i
+100/143	mülli	1	m ü ll i
+100/145	müli	1	m ü l i
+101/035	milch	1	m i l ch
+101/037	milch	1	m i l ch
+101/039	milch	1	m i l ch
+101/041	milch	1	m i l ch
+101/043	milch	1	m i l ch
+101/045	milch	1	m i l ch
+101/047	milch	1	m i l ch
+101/049	milch	1	m i l ch
+101/051	milch	1	m i l ch
+101/053	milch	1	m i l ch
+101/055	milech	1	m i l e ch
+101/057	milch	1	m i l ch
+101/059	milch	1	m i l ch
+101/061	milch	1	m i l ch
+101/063	milch	1	m i l ch
+101/065	milch	1	m i l ch
+101/067	mil	1	m i l
+101/071	mill	1	m i ll
+101/075	milch	1	m i l ch
+101/077	milch	1	m i l ch
+101/079	milch	1	m i l ch
+101/081	mile	1	m i l e
+101/091	müich	1	m üi ch
+101/093	müch	1	m ü ch
+101/095	müch	1	m ü ch
+101/097	moich	1	m oi ch
+101/099	muich	1	m ui ch
+101/101	müch	1	m ü ch
+101/103	müch	1	m ü ch
+101/107	milch	1	m i l ch
+101/109	miich	1	m ii ch
+101/113	muich	1	m ui ch
+101/115	milch	1	m i l ch
+101/121	müch	1	m ü ch
+101/125	müch	1	m ü ch
+101/129	mülch	1	m ü l ch
+101/131	mülch	1	m ü l ch
+101/133	mülch	1	m ü l ch
+101/137	mülch	1	m ü l ch
+101/139	mülch	1	m ü l ch
+101/141	mülch	1	m ü l ch
+101/143	mülli	1	m ü ll i
+101/145	müli	1	m ü l i
+101/147	mülli	1	m ü ll i
+102/037	milch	1	m i l ch
+102/039	milch	1	m i l ch
+102/041	milch	1	m i l ch
+102/043	miuch	1	m iu ch
+102/045	milch	1	m i l ch
+102/047	miuwch	1	m iu w ch
+102/049	milch	1	m i l ch
+102/051	milch	1	m i l ch
+102/053	milch	1	m i l ch
+102/055	milch	1	m i l ch
+102/057	miläch	1	m i l ä ch
+102/059	milech	1	m i l e ch
+102/061	milech	1	m i l e ch
+102/063	milach	1	m i l a ch
+102/065	milch	1	m i l ch
+102/067	milk	1	m i l k
+102/069	milch	1	m i l ch
+102/071	mil	1	m i l
+102/073	milch	1	m i l ch
+102/075	milch	1	m i l ch
+102/077	milch	1	m i l ch
+102/079	milch	1	m i l ch
+102/081	milch	1	m i l ch
+102/083	mülch	1	m ü l ch
+102/089	milch	1	m i l ch
+102/091	müch	1	m ü ch
+102/093	müch	1	m ü ch
+102/095	müch	1	m ü ch
+102/097	müch	1	m ü ch
+102/099	milch	1	m i l ch
+102/103	müech	1	m üe ch
+102/107	müch	1	m ü ch
+102/109	miich	1	m ii ch
+102/113	moich	1	m oi ch
+102/115	mülch	1	m ü l ch
+102/127	mülch	1	m ü l ch
+102/129	müch	1	m ü ch
+102/131	milch	1	m i l ch
+102/135	mülch	1	m ü l ch
+102/137	milch	1	m i l ch
+102/139	mülli	1	m ü ll i
+102/141	mülli	1	m ü ll i
+102/143	mülli	1	m ü ll i
+102/145	müli	1	m ü l i
+103/039	möuch	1	m öu ch
+103/041	miuch	1	m iu ch
+103/043	mööuch	1	m ööu ch
+103/045	miuch	1	m iu ch
+103/047	miuch	1	m iu ch
+103/049	melch	1	m e l ch
+103/051	milch	1	m i l ch
+103/053	milch	1	m i l ch
+103/055	milch	1	m i l ch
+103/057	milch	1	m i l ch
+103/059	milch	1	m i l ch
+103/063	milech	1	m i l e ch
+103/065	milk	1	m i l k
+103/067	milk	1	m i l k
+103/069	milk	1	m i l k
+103/071	milch	1	m i l ch
+103/073	milch	1	m i l ch
+103/075	milch	1	m i l ch
+103/077	milch	1	m i l ch
+103/079	milch	1	m i l ch
+103/081	milch	1	m i l ch
+103/083	milch	1	m i l ch
+103/085	milch	1	m i l ch
+103/087	milch	1	m i l ch
+103/089	milch	1	m i l ch
+103/091	milch	1	m i l ch
+103/097	müch	1	m ü ch
+103/099	müich	1	m üi ch
+103/101	mili	1	m i l i
+103/105	müch	1	m ü ch
+103/107	mich	1	m i ch
+103/111	mich	1	m i ch
+103/121	mülch	1	m ü l ch
+103/125	mülch	1	m ü l ch
+103/127	mülch	1	m ü l ch
+103/131	mülch	1	m ü l ch
+103/133	mülch	1	m ü l ch
+103/135	mülch	1	m ü l ch
+103/137	mülch	1	m ü l ch
+103/139	müli	1	m ü l i
+103/141	müli	1	m ü l i
+103/143	müli	1	m ü l i
+103/145	mülli	1	m ü ll i
+104/033	miuch	1	m iu ch
+104/035	milch	1	m i l ch
+104/037	miuch	1	m iu ch
+104/039	milch	1	m i l ch
+104/041	möuch	1	m öu ch
+104/043	möuch	1	m öu ch
+104/045	möuch	1	m öu ch
+104/047	miuwch	1	m iu w ch
+104/049	miuwch	1	m iu w ch
+104/051	milch	1	m i l ch
+104/053	milch	1	m i l ch
+104/055	milch	1	m i l ch
+104/057	melch	1	m e l ch
+104/059	melch	1	m e l ch
+104/061	milech	1	m i l e ch
+104/063	milk	1	m i l k
+104/065	milk	1	m i l k
+104/067	milch	1	m i l ch
+104/071	milch	1	m i l ch
+104/075	milch	1	m i l ch
+104/077	milch	1	m i l ch
+104/079	milch	1	m i l ch
+104/081	milch	1	m i l ch
+104/083	milch	1	m i l ch
+104/085	milch	1	m i l ch
+104/091	milch	1	m i l ch
+104/095	müch	1	m ü ch
+104/101	mülch	1	m ü l ch
+104/103	müch	1	m ü ch
+104/107	müch	1	m ü ch
+104/111	mich	1	m i ch
+104/113	mich	1	m i ch
+104/119	mülch	1	m ü l ch
+104/121	mülch	1	m ü l ch
+104/123	mül	1	m ü l
+104/125	mülch	1	m ü l ch
+104/127	mülch	1	m ü l ch
+104/131	mülch	1	m ü l ch
+104/133	mülch	1	m ü l ch
+104/135	mülch	1	m ü l ch
+104/137	mülch	1	m ü l ch
+104/139	müli	1	m ü l i
+104/141	müli	1	m ü l i
+104/143	mülli	1	m ü ll i
+104/145	mühli	1	m üh l i
+105/031	miuch	1	m iu ch
+105/033	milch	1	m i l ch
+105/035	milch	1	m i l ch
+105/037	miuch	1	m iu ch
+105/039	miuch	1	m iu ch
+105/041	miuch	1	m iu ch
+105/043	meuch	1	m eu ch
+105/045	möuch	1	m öu ch
+105/047	möuch	1	m öu ch
+105/049	meuch	1	m eu ch
+105/051	milch	1	m i l ch
+105/053	milch	1	m i l ch
+105/055	milch	1	m i l ch
+105/057	milch	1	m i l ch
+105/059	milch	1	m i l ch
+105/061	miläch	1	m i l ä ch
+105/063	milch	1	m i l ch
+105/065	milch	1	m i l ch
+105/067	milk	1	m i l k
+105/069	milk	1	m i l k
+105/071	milch	1	m i l ch
+105/073	milch	1	m i l ch
+105/075	milch	1	m i l ch
+105/077	milch	1	m i l ch
+105/079	milch	1	m i l ch
+105/081	milch	1	m i l ch
+105/085	milch	1	m i l ch
+105/087	milch	1	m i l ch
+105/089	milch	1	m i l ch
+105/103	müch	1	m ü ch
+105/105	müich	1	m üi ch
+105/111	mich	1	m i ch
+105/113	mich	1	m i ch
+105/115	müch	1	m ü ch
+105/117	mülch	1	m ü l ch
+105/119	milch	1	m i l ch
+105/121	mi	1	m i
+105/125	milch	1	m i l ch
+105/127	mülch	1	m ü l ch
+105/131	milch	1	m i l ch
+105/133	milch	1	m i l ch
+105/135	mülch	1	m ü l ch
+105/137	mülch	1	m ü l ch
+105/141	müli	1	m ü l i
+105/143	müli	1	m ü l i
+105/145	müli	1	m ü l i
+106/033	miuch	1	m iu ch
+106/035	miuch	1	m iu ch
+106/037	miuch	1	m iu ch
+106/039	miuch	1	m iu ch
+106/041	müuch	1	m üu ch
+106/043	möuch	1	m öu ch
+106/045	müuch	1	m üu ch
+106/047	melch	1	m e l ch
+106/049	möuch	1	m öu ch
+106/051	milch	1	m i l ch
+106/053	milch	1	m i l ch
+106/057	milch	1	m i l ch
+106/061	milch	1	m i l ch
+106/063	milch	1	m i l ch
+106/067	milk	1	m i l k
+106/071	milch	1	m i l ch
+106/073	milch	1	m i l ch
+106/075	milch	1	m i l ch
+106/077	milch	1	m i l ch
+106/079	milch	1	m i l ch
+106/081	milch	1	m i l ch
+106/085	milch	1	m i l ch
+106/087	milch	1	m i l ch
+106/093	milch	1	m i l ch
+106/097	milach	1	m i l a ch
+106/099	milach	1	m i l a ch
+106/103	mile	1	m i l e
+106/111	mich	1	m i ch
+106/115	mich	1	m i ch
+106/121	mülch	1	m ü l ch
+106/123	mülch	1	m ü l ch
+106/125	mülch	1	m ü l ch
+106/129	mülch	1	m ü l ch
+106/131	mülch	1	m ü l ch
+106/133	mülch	1	m ü l ch
+106/135	milch	1	m i l ch
+106/137	milch	1	m i l ch
+106/139	milch	1	m i l ch
+106/141	mülch	1	m ü l ch
+106/143	müli	1	m ü l i
+106/145	müli	1	m ü l i
+107/033	miuch	1	m iu ch
+107/035	miuch	1	m iu ch
+107/037	milch	1	m i l ch
+107/039	miuch	1	m iu ch
+107/041	miuch	1	m iu ch
+107/043	miuch	1	m iu ch
+107/045	miuch	1	m iu ch
+107/047	milch	1	m i l ch
+107/049	milch	1	m i l ch
+107/051	milch	1	m i l ch
+107/053	milch	1	m i l ch
+107/057	milch	1	m i l ch
+107/059	milch	1	m i l ch
+107/063	milch	1	m i l ch
+107/065	milch	1	m i l ch
+107/071	milch	1	m i l ch
+107/075	milch	1	m i l ch
+107/081	milch	1	m i l ch
+107/085	milch	1	m i l ch
+107/087	milch	1	m i l ch
+107/089	milch	1	m i l ch
+107/091	milch	1	m i l ch
+107/097	milch	1	m i l ch
+107/099	milch	1	m i l ch
+107/103	mille	1	m i ll e
+107/105	mile	1	m i l e
+107/107	milch	1	m i l ch
+107/111	mülch	1	m ü l ch
+107/119	mülch	1	m ü l ch
+107/121	mlch	1	m l ch
+107/123	mülch	1	m ü l ch
+107/125	suppen	1	s u pp e n
+107/127	milli	1	m i ll i
+107/129	mülch	1	m ü l ch
+107/131	mülch	1	m ü l ch
+107/133	milch	1	m i l ch
+107/135	mülli	1	m ü ll i
+107/137	mülli	1	m ü ll i
+107/139	mülch	1	m ü l ch
+107/141	müch	1	m ü ch
+107/143	müli	1	m ü l i
+108/033	milch	1	m i l ch
+108/035	miuch	1	m iu ch
+108/037	miuch	1	m iu ch
+108/039	miuch	1	m iu ch
+108/041	miuch	1	m iu ch
+108/043	miuch	1	m iu ch
+108/047	milch	1	m i l ch
+108/049	milch	1	m i l ch
+108/063	milch	1	m i l ch
+108/065	milch	1	m i l ch
+108/067	milch	1	m i l ch
+108/075	milch	1	m i l ch
+108/079	milch	1	m i l ch
+108/081	milch	1	m i l ch
+108/085	milch	1	m i l ch
+108/087	milch	1	m i l ch
+108/091	milch	1	m i l ch
+108/099	milch	1	m i l ch
+108/101	milch	1	m i l ch
+108/103	miele	1	m ie l e
+108/105	mile	1	m i l e
+108/109	milech	1	m i l e ch
+108/111	mülch	1	m ü l ch
+108/113	milech	1	m i l e ch
+108/117	mulch	1	m u l ch
+108/119	mülch	1	m ü l ch
+108/121	milch	1	m i l ch
+108/123	milch	1	m i l ch
+108/125	milch	1	m i l ch
+108/127	milch	1	m i l ch
+108/129	mülch	1	m ü l ch
+108/131	müli	1	m ü l i
+108/133	mülch	1	m ü l ch
+108/135	milch	1	m i l ch
+108/137	mülch	1	m ü l ch
+108/139	mülch	1	m ü l ch
+108/141	mülch	1	m ü l ch
+109/035	miuch	1	m iu ch
+109/037	miuch	1	m iu ch
+109/039	miuch	1	m iu ch
+109/041	miuch	1	m iu ch
+109/043	miuch	1	m iu ch
+109/045	milch	1	m i l ch
+109/049	milch	1	m i l ch
+109/053	milch	1	m i l ch
+109/061	milch	1	m i l ch
+109/063	milch	1	m i l ch
+109/065	milch	1	m i l ch
+109/067	milch	1	m i l ch
+109/075	milch	1	m i l ch
+109/083	milch	1	m i l ch
+109/087	milch	1	m i l ch
+109/089	milch	1	m i l ch
+109/091	milch	1	m i l ch
+109/093	milch	1	m i l ch
+109/095	milch	1	m i l ch
+109/097	milch	1	m i l ch
+109/099	milch	1	m i l ch
+109/101	milch	1	m i l ch
+109/103	milch	1	m i l ch
+109/107	milach	1	m i l a ch
+109/109	milich	1	m i l i ch
+109/111	mülch	1	m ü l ch
+109/113	milach	1	m i l a ch
+109/115	milch	1	m i l ch
+109/117	milach	1	m i l a ch
+109/119	milach	1	m i l a ch
+109/121	milach	1	m i l a ch
+109/123	milch	1	m i l ch
+109/125	mülch	1	m ü l ch
+109/127	mülch	1	m ü l ch
+109/129	mülch	1	m ü l ch
+109/131	mülch	1	m ü l ch
+109/133	müli	1	m ü l i
+109/135	mlch	1	m l ch
+109/137	mülch	1	m ü l ch
+109/139	mülch	1	m ü l ch
+110/035	muuch	1	m uu ch
+110/039	miuch	1	m iu ch
+110/041	miuch	1	m iu ch
+110/043	milch	1	m i l ch
+110/045	milch	1	m i l ch
+110/047	milch	1	m i l ch
+110/049	milch	1	m i l ch
+110/057	milch	1	m i l ch
+110/061	milch	1	m i l ch
+110/065	milch	1	m i l ch
+110/075	milch	1	m i l ch
+110/079	milch	1	m i l ch
+110/081	milch	1	m i l ch
+110/083	milch	1	m i l ch
+110/087	milch	1	m i l ch
+110/089	milch	1	m i l ch
+110/091	milch	1	m i l ch
+110/093	milch	1	m i l ch
+110/095	milch	1	m i l ch
+110/097	milch	1	m i l ch
+110/099	milch	1	m i l ch
+110/101	mühl	1	m üh l
+110/105	milech	1	m i l e ch
+110/107	milich	1	m i l i ch
+110/111	mile	1	m i l e
+110/113	milach	1	m i l a ch
+110/115	milach	1	m i l a ch
+110/117	milch	1	m i l ch
+110/119	milach	1	m i l a ch
+110/121	milch	1	m i l ch
+110/125	mülch	1	m ü l ch
+110/127	milch	1	m i l ch
+110/129	mialch	1	m ia l ch
+110/131	mülch	1	m ü l ch
+110/133	müilch	1	m üi l ch
+110/135	milch	1	m i l ch
+110/137	mülch	1	m ü l ch
+110/139	müllch	1	m ü ll ch
+111/035	melch	1	m e l ch
+111/037	milch	1	m i l ch
+111/039	milch	1	m i l ch
+111/041	milch	1	m i l ch
+111/043	milch	1	m i l ch
+111/045	milch	1	m i l ch
+111/059	milch	1	m i l ch
+111/073	milach	1	m i l a ch
+111/075	milch	1	m i l ch
+111/077	milch	1	m i l ch
+111/079	milch	1	m i l ch
+111/081	milch	1	m i l ch
+111/083	milch	1	m i l ch
+111/087	milch	1	m i l ch
+111/089	milch	1	m i l ch
+111/105	milich	1	m i l i ch
+111/107	milach	1	m i l a ch
+111/109	milich	1	m i l i ch
+111/111	milich	1	m i l i ch
+111/113	milach	1	m i l a ch
+111/115	milch	1	m i l ch
+111/117	milch	1	m i l ch
+111/119	milch	1	m i l ch
+111/121	mülch	1	m ü l ch
+111/123	milch	1	m i l ch
+111/125	milch	1	m i l ch
+112/037	milch	1	m i l ch
+112/039	milch	1	m i l ch
+112/041	milch	1	m i l ch
+112/043	milch	1	m i l ch
+112/047	milch	1	m i l ch
+112/059	milch	1	m i l ch
+112/061	milch	1	m i l ch
+112/063	milch	1	m i l ch
+112/075	milch	1	m i l ch
+112/081	milch	1	m i l ch
+112/083	milch	1	m i l ch
+112/085	NA	NA	-
+112/111	milch	1	m i l ch
+112/115	milach	1	m i l a ch
+112/117	milch	1	m i l ch
+112/119	milch	1	m i l ch
+113/035	milch	1	m i l ch
+113/037	milch	1	m i l ch
+113/039	milch	1	m i l ch
+113/047	milch	1	m i l ch
+113/079	milch	1	m i l ch
+113/081	milch	1	m i l ch
+113/083	milch	1	m i l ch
+113/085	milch	1	m i l ch
+113/087	milch	1	m i l ch
+113/121	milch	1	m i l ch
+113/123	mülch	1	m ü l ch
+114/035	milch	1	m i l ch
+114/045	milch	1	m i l ch
+114/083	milch	1	m i l ch
+114/085	milch	1	m i l ch
+115/041	milch	1	m i l ch
+115/043	milch	1	m i l ch
+115/045	milch	1	m i l ch
+115/083	milch	1	m i l ch
+115/085	milch	1	m i l ch
+116/043	milch	1	m i l ch
+116/045	milch	1	m i l ch
+116/083	milch	1	m i l ch
+117/043	milch	1	m i l ch
+117/045	milch	1	m i l ch
+118/041	milch	1	m i l ch
+119/083	milch	1	m i l ch
+120/085	milch	1	m i l ch
+121/127	milich	1	m i l i ch
+122/127	milich	1	m i l i ch
+122/129	milich	1	m i l i ch
+123/081	milech	1	m i l e ch
+123/123	milich	1	m i l i ch
+123/125	milich	1	m i l i ch
+123/127	milich	1	m i l i ch
+123/129	milich	1	m i l i ch
+124/125	milich	1	m i l i ch
+124/127	milich	1	m i l i ch
+124/129	milich	1	m i l i ch

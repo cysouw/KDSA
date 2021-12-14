@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	un	1	u n
+002/201	un	1	u n
+002/203	on	1	o n
+002/205	onn	1	o nn
+003/203	on	1	o n
+003/205	ook	1	oo k
+004/205	onn	1	o nn
+005/205	un	1	u n
+005/207	on	1	o n
+006/205	un	1	u n
+006/207	uk	1	u k
+007/205	un	1	u n
+007/207	un	1	u n
+007/209	un	1	u n
+007/211	ok	1	o k
+008/199	un	1	u n
+008/203	und	1	u n d
+008/205	un	1	u n
+008/207	on	1	o n
+008/209	un	1	u n
+008/211	onn	1	o nn
+008/213	un	1	u n
+009/199	on	1	o n
+009/203	on	1	o n
+009/207	un	1	u n
+009/209	on	1	o n
+009/211	un	1	u n
+009/213	und	1	u n d
+009/215	un	1	u n
+009/217	on	1	o n
+010/195	on	1	o n
+010/203	un	1	u n
+010/207	un	1	u n
+010/209	onn	1	o nn
+010/211	onn	1	o nn
+010/213	un	1	u n
+010/215	on	1	o n
+010/217	ok	1	o k
+010/219	un	1	u n
+011/049	en	1	e n
+011/053	aa	1	aa
+011/055	aa	1	aa
+011/057	aa	1	aa
+011/059	ag	1	a g
+011/061	aa	1	aa
+011/063	od	1	o d
+011/065	aa	1	aa
+011/067	aa	1	aa
+011/069	og	1	o g
+011/187	on	1	o n
+011/189	on	1	o n
+011/191	onn	1	o nn
+011/195	on	1	o n
+011/197	onn	1	o nn
+011/203	on	1	o n
+011/205	onn	1	o nn
+011/207	un	1	u n
+011/209	unn	1	u nn
+011/211	onn	1	o nn
+011/213	on	1	o n
+011/215	un	1	u n
+011/217	un	1	u n
+011/219	onn	1	o nn
+012/047	en	1	e n
+012/049	en	1	e n
+012/051	en	1	e n
+012/053	a	1	a
+012/055	a	1	a
+012/057	a	1	a
+012/059	aa	1	aa
+012/061	aa	1	aa
+012/063	o	1	o
+012/065	aa	1	aa
+012/067	o	1	o
+012/069	og	1	o g
+012/187	un	1	u n
+012/189	unn	1	u nn
+012/191	un	1	u n
+012/193	on	1	o n
+012/195	on	1	o n
+012/197	onn	1	o nn
+012/199	onn	1	o nn
+012/201	on	1	o n
+012/203	on	1	o n
+012/205	on	1	o n
+012/207	on	1	o n
+012/209	onn	1	o nn
+012/211	un	1	u n
+012/213	un	1	u n
+012/215	unn	1	u nn
+012/217	onn	1	o nn
+012/219	on	1	o n
+012/221	un	1	u n
+012/223	on	1	o n
+013/051	en	1	e n
+013/053	en	1	e n
+013/055	en	1	e n
+013/057	aa	1	aa
+013/059	ä	1	ä
+013/061	und	1	u n d
+013/063	un	1	u n
+013/065	unn	1	u nn
+013/067	un	1	u n
+013/161	on	1	o n
+013/163	un	1	u n
+013/165	oh	1	oh
+013/167	un	1	u n
+013/187	onn	1	o nn
+013/189	onn	1	o nn
+013/191	onn	1	o nn
+013/193	onn	1	o nn
+013/195	NA	NA	-
+013/197	onn	1	o nn
+013/199	on	1	o n
+013/201	on	1	o n
+013/203	onn	1	o nn
+013/207	onn	1	o nn
+013/209	un	1	u n
+013/211	onn	1	o nn
+013/213	on	1	o n
+013/215	on	1	o n
+013/217	unn	1	u nn
+013/219	onn	1	o nn
+013/221	un	1	u n
+013/223	on	1	o n
+014/047	and	1	a n d
+014/049	an	1	a n
+014/051	an	1	a n
+014/053	en	1	e n
+014/055	en	1	e n
+014/057	en	1	e n
+014/059	un	1	u n
+014/061	un	1	u n
+014/063	un	1	u n
+014/065	un	1	u n
+014/067	un	1	u n
+014/109	un	1	u n
+014/159	o	1	o
+014/161	oo	1	oo
+014/163	oh	1	oh
+014/165	on	1	o n
+014/167	un	1	u n
+014/169	on	1	o n
+014/187	on	1	o n
+014/189	on	1	o n
+014/191	on	1	o n
+014/193	on	1	o n
+014/195	on	1	o n
+014/197	on	1	o n
+014/199	onn	1	o nn
+014/201	on	1	o n
+014/203	on	1	o n
+014/205	on	1	o n
+014/207	on	1	o n
+014/209	onn	1	o nn
+014/211	on	1	o n
+014/213	on	1	o n
+014/215	onn	1	o nn
+014/217	un	1	u n
+014/219	un	1	u n
+014/221	un	1	u n
+015/049	and	1	a n d
+015/051	end	1	e n d
+015/053	and	1	a n d
+015/055	en	1	e n
+015/057	unn	1	u nn
+015/059	und	1	u n d
+015/061	un	1	u n
+015/063	un	1	u n
+015/065	un	1	u n
+015/067	un	1	u n
+015/105	un	1	u n
+015/107	un	1	u n
+015/109	un	1	u n
+015/151	un	1	u n
+015/153	un	1	u n
+015/155	un	1	u n
+015/157	oh	1	oh
+015/159	o	1	o
+015/161	un	1	u n
+015/163	un	1	u n
+015/165	o	1	o
+015/167	on	1	o n
+015/169	un	1	u n
+015/173	on	1	o n
+015/187	onn	1	o nn
+015/191	on	1	o n
+015/193	on	1	o n
+015/195	onn	1	o nn
+015/197	on	1	o n
+015/199	on	1	o n
+015/201	on	1	o n
+015/203	onn	1	o nn
+015/205	on	1	o n
+015/207	on	1	o n
+015/209	on	1	o n
+015/211	unn	1	u nn
+015/213	on	1	o n
+015/215	on	1	o n
+015/217	on	1	o n
+015/219	on	1	o n
+015/221	un	1	u n
+016/051	ean	1	ea n
+016/055	un	1	u n
+016/057	un	1	u n
+016/059	un	1	u n
+016/061	un	1	u n
+016/063	un	1	u n
+016/065	un	1	u n
+016/067	un	1	u n
+016/081	unn	1	u nn
+016/083	un	1	u n
+016/105	unn	1	u nn
+016/107	un	1	u n
+016/109	un	1	u n
+016/111	unn	1	u nn
+016/145	un	1	u n
+016/147	un	1	u n
+016/149	un	1	u n
+016/151	un	1	u n
+016/153	un	1	u n
+016/155	un	1	u n
+016/157	o	1	o
+016/159	und	1	u n d
+016/161	NA	NA	-
+016/163	un	1	u n
+016/165	on	1	o n
+016/167	o	1	o
+016/187	on	1	o n
+016/189	on	1	o n
+016/191	on	1	o n
+016/193	onn	1	o nn
+016/195	on	1	o n
+016/197	onn	1	o nn
+016/199	onn	1	o nn
+016/201	on	1	o n
+016/203	onn	1	o nn
+016/205	on	1	o n
+016/209	unn	1	u nn
+016/211	on	1	o n
+016/213	und	1	u n d
+016/215	un	1	u n
+016/217	un	1	u n
+016/219	un	1	u n
+017/055	un	1	u n
+017/057	un	1	u n
+017/059	un	1	u n
+017/061	un	1	u n
+017/063	und	1	u n d
+017/065	un	1	u n
+017/067	und	1	u n d
+017/069	un	1	u n
+017/081	un	1	u n
+017/083	un	1	u n
+017/099	un	1	u n
+017/101	un	1	u n
+017/103	un	1	u n
+017/107	und	1	u n d
+017/109	un	1	u n
+017/145	un	1	u n
+017/147	un	1	u n
+017/149	un	1	u n
+017/151	un	1	u n
+017/153	u	1	u
+017/155	un	1	u n
+017/157	un	1	u n
+017/159	oh	1	oh
+017/161	un	1	u n
+017/163	o	1	o
+017/165	unt	1	u n t
+017/169	on	1	o n
+017/171	un	1	u n
+017/183	on	1	o n
+017/185	on	1	o n
+017/187	on	1	o n
+017/189	onn	1	o nn
+017/191	on	1	o n
+017/193	on	1	o n
+017/195	on	1	o n
+017/197	onn	1	o nn
+017/199	on	1	o n
+017/201	on	1	o n
+017/203	un	1	u n
+017/205	onn	1	o nn
+017/207	on	1	o n
+017/209	on	1	o n
+017/211	on	1	o n
+017/213	on	1	o n
+017/215	on	1	o n
+017/217	on	1	o n
+017/219	onn	1	o nn
+018/051	un	1	u n
+018/053	un	1	u n
+018/055	un	1	u n
+018/057	un	1	u n
+018/059	un	1	u n
+018/061	un	1	u n
+018/063	un	1	u n
+018/065	un	1	u n
+018/067	unn	1	u nn
+018/069	un	1	u n
+018/071	un	1	u n
+018/073	un	1	u n
+018/075	un	1	u n
+018/079	un	1	u n
+018/081	un	1	u n
+018/097	un	1	u n
+018/099	un	1	u n
+018/103	un	1	u n
+018/105	un	1	u n
+018/107	un	1	u n
+018/109	un	1	u n
+018/111	un	1	u n
+018/143	un	1	u n
+018/145	un	1	u n
+018/147	un	1	u n
+018/149	un	1	u n
+018/151	un	1	u n
+018/153	oh	1	oh
+018/155	ah	1	ah
+018/157	oa	1	oa
+018/159	o	1	o
+018/161	oah	1	oah
+018/163	o	1	o
+018/165	o	1	o
+018/169	on	1	o n
+018/171	on	1	o n
+018/173	on	1	o n
+018/181	onn	1	o nn
+018/185	on	1	o n
+018/187	on	1	o n
+018/189	onn	1	o nn
+018/191	onn	1	o nn
+018/193	on	1	o n
+018/195	on	1	o n
+018/197	onn	1	o nn
+018/199	onn	1	o nn
+018/201	on	1	o n
+018/203	on	1	o n
+018/205	un	1	u n
+018/207	ohn	1	oh n
+018/209	onn	1	o nn
+018/211	on	1	o n
+018/213	on	1	o n
+018/215	on	1	o n
+018/219	unn	1	u nn
+019/051	un	1	u n
+019/053	un	1	u n
+019/055	un	1	u n
+019/057	un	1	u n
+019/059	un	1	u n
+019/061	un	1	u n
+019/063	un	1	u n
+019/065	un	1	u n
+019/067	un	1	u n
+019/069	un	1	u n
+019/071	un	1	u n
+019/073	un	1	u n
+019/075	und	1	u n d
+019/077	un	1	u n
+019/079	unn	1	u nn
+019/081	un	1	u n
+019/097	un	1	u n
+019/099	unn	1	u nn
+019/101	un	1	u n
+019/103	und	1	u n d
+019/105	un	1	u n
+019/107	un	1	u n
+019/109	un	1	u n
+019/143	un	1	u n
+019/145	un	1	u n
+019/147	un	1	u n
+019/149	un	1	u n
+019/151	u	1	u
+019/153	u	1	u
+019/155	o	1	o
+019/157	un	1	u n
+019/159	o	1	o
+019/161	o	1	o
+019/163	o	1	o
+019/165	o	1	o
+019/167	o	1	o
+019/169	on	1	o n
+019/171	onn	1	o nn
+019/173	onn	1	o nn
+019/175	on	1	o n
+019/177	on	1	o n
+019/179	on	1	o n
+019/181	onn	1	o nn
+019/183	onn	1	o nn
+019/185	on	1	o n
+019/187	on	1	o n
+019/189	on	1	o n
+019/191	onn	1	o nn
+019/193	on	1	o n
+019/195	on	1	o n
+019/197	on	1	o n
+019/199	on	1	o n
+019/201	on	1	o n
+019/203	on	1	o n
+019/205	ok	1	o k
+019/207	on	1	o n
+019/209	on	1	o n
+019/211	un	1	u n
+019/213	onn	1	o nn
+019/215	on	1	o n
+019/217	onn	1	o nn
+019/219	on	1	o n
+020/043	en	1	e n
+020/053	un	1	u n
+020/055	un	1	u n
+020/057	un	1	u n
+020/059	unn	1	u nn
+020/061	un	1	u n
+020/063	unn	1	u nn
+020/065	un	1	u n
+020/067	un	1	u n
+020/069	un	1	u n
+020/071	un	1	u n
+020/073	un	1	u n
+020/075	un	1	u n
+020/077	un	1	u n
+020/079	un	1	u n
+020/081	un	1	u n
+020/095	un	1	u n
+020/097	und	1	u n d
+020/099	un	1	u n
+020/101	unn	1	u nn
+020/103	un	1	u n
+020/105	un	1	u n
+020/107	un	1	u n
+020/135	unn	1	u nn
+020/137	un	1	u n
+020/139	un	1	u n
+020/141	un	1	u n
+020/143	un	1	u n
+020/145	un	1	u n
+020/147	u	1	u
+020/149	un	1	u n
+020/151	u	1	u
+020/153	un	1	u n
+020/155	ou	1	ou
+020/157	o	1	o
+020/159	ou	1	ou
+020/161	onn	1	o nn
+020/163	o	1	o
+020/165	un	1	u n
+020/167	oh	1	oh
+020/169	on	1	o n
+020/171	on	1	o n
+020/173	on	1	o n
+020/175	on	1	o n
+020/177	on	1	o n
+020/179	on	1	o n
+020/181	on	1	o n
+020/183	onn	1	o nn
+020/185	on	1	o n
+020/187	on	1	o n
+020/189	on	1	o n
+020/191	on	1	o n
+020/193	on	1	o n
+020/195	on	1	o n
+020/197	onn	1	o nn
+020/199	on	1	o n
+020/201	onn	1	o nn
+020/203	onn	1	o nn
+020/205	on	1	o n
+020/207	onn	1	o nn
+020/209	on	1	o n
+020/211	on	1	o n
+020/213	onn	1	o nn
+020/215	on	1	o n
+020/217	on	1	o n
+020/219	on	1	o n
+021/055	un	1	u n
+021/057	un	1	u n
+021/059	un	1	u n
+021/061	un	1	u n
+021/063	un	1	u n
+021/065	un	1	u n
+021/067	un	1	u n
+021/069	un	1	u n
+021/071	und	1	u n d
+021/073	un	1	u n
+021/075	un	1	u n
+021/077	un	1	u n
+021/079	un	1	u n
+021/087	un	1	u n
+021/089	un	1	u n
+021/091	un	1	u n
+021/093	un	1	u n
+021/095	un	1	u n
+021/097	un	1	u n
+021/099	un	1	u n
+021/101	un	1	u n
+021/103	unn	1	u nn
+021/105	un	1	u n
+021/107	un	1	u n
+021/109	un	1	u n
+021/111	un	1	u n
+021/113	un	1	u n
+021/131	un	1	u n
+021/133	unn	1	u nn
+021/135	u	1	u
+021/137	uä	1	uä
+021/139	uh	1	uh
+021/141	un	1	u n
+021/143	o	1	o
+021/145	un	1	u n
+021/147	un	1	u n
+021/149	unn	1	u nn
+021/151	un	1	u n
+021/153	u	1	u
+021/155	oh	1	oh
+021/157	o	1	o
+021/159	o	1	o
+021/163	unt	1	u n t
+021/165	o	1	o
+021/167	uo	1	uo
+021/169	uk	1	u k
+021/171	on	1	o n
+021/173	on	1	o n
+021/175	on	1	o n
+021/177	onn	1	o nn
+021/179	on	1	o n
+021/181	ond	1	o n d
+021/183	on	1	o n
+021/185	onn	1	o nn
+021/187	onn	1	o nn
+021/189	un	1	u n
+021/191	onn	1	o nn
+021/193	on	1	o n
+021/195	onn	1	o nn
+021/197	on	1	o n
+021/199	on	1	o n
+021/201	ock	1	o ck
+021/203	on	1	o n
+021/205	onn	1	o nn
+021/207	un	1	u n
+021/211	un	1	u n
+021/215	on	1	o n
+021/217	un	1	u n
+021/219	un	1	u n
+022/055	un	1	u n
+022/057	un	1	u n
+022/059	un	1	u n
+022/061	un	1	u n
+022/063	unn	1	u nn
+022/065	und	1	u n d
+022/067	und	1	u n d
+022/069	unn	1	u nn
+022/071	un	1	u n
+022/073	unn	1	u nn
+022/075	un	1	u n
+022/077	un	1	u n
+022/087	un	1	u n
+022/089	un	1	u n
+022/091	un	1	u n
+022/093	un	1	u n
+022/095	un	1	u n
+022/097	un	1	u n
+022/099	un	1	u n
+022/101	un	1	u n
+022/103	un	1	u n
+022/105	NA	NA	-
+022/107	un	1	u n
+022/109	un	1	u n
+022/111	un	1	u n
+022/113	un	1	u n
+022/115	un	1	u n
+022/127	un	1	u n
+022/129	o	1	o
+022/131	u	1	u
+022/133	u	1	u
+022/135	u	1	u
+022/137	un	1	u n
+022/139	oh	1	oh
+022/141	un	1	u n
+022/143	un	1	u n
+022/145	ua	1	ua
+022/147	u	1	u
+022/149	u	1	u
+022/151	u	1	u
+022/153	und	1	u n d
+022/155	und	1	u n d
+022/157	o	1	o
+022/159	u	1	u
+022/165	o	1	o
+022/167	u	1	u
+022/169	on	1	o n
+022/171	un	1	u n
+022/173	on	1	o n
+022/175	enn	1	e nn
+022/177	onn	1	o nn
+022/179	on	1	o n
+022/181	on	1	o n
+022/183	onn	1	o nn
+022/185	on	1	o n
+022/187	on	1	o n
+022/189	onn	1	o nn
+022/191	on	1	o n
+022/193	onn	1	o nn
+022/195	on	1	o n
+022/197	onn	1	o nn
+022/199	onn	1	o nn
+022/201	on	1	o n
+022/203	onn	1	o nn
+022/205	on	1	o n
+022/209	on	1	o n
+022/211	ok	1	o k
+022/215	on	1	o n
+022/217	onn	1	o nn
+022/219	on	1	o n
+023/055	un	1	u n
+023/059	un	1	u n
+023/061	un	1	u n
+023/063	un	1	u n
+023/065	un	1	u n
+023/067	unn	1	u nn
+023/069	un	1	u n
+023/071	un	1	u n
+023/073	un	1	u n
+023/075	und	1	u n d
+023/077	un	1	u n
+023/079	un	1	u n
+023/081	un	1	u n
+023/083	un	1	u n
+023/085	un	1	u n
+023/087	un	1	u n
+023/089	un	1	u n
+023/091	und	1	u n d
+023/093	un	1	u n
+023/095	un	1	u n
+023/097	un	1	u n
+023/099	un	1	u n
+023/101	un	1	u n
+023/103	un	1	u n
+023/105	un	1	u n
+023/107	un	1	u n
+023/109	und	1	u n d
+023/111	un	1	u n
+023/113	un	1	u n
+023/115	un	1	u n
+023/117	un	1	u n
+023/121	u	1	u
+023/123	o	1	o
+023/125	o	1	o
+023/127	un	1	u n
+023/129	o	1	o
+023/131	oh	1	oh
+023/133	u	1	u
+023/135	un	1	u n
+023/137	u	1	u
+023/139	u	1	u
+023/141	unn	1	u nn
+023/143	u	1	u
+023/145	uh	1	uh
+023/147	uh	1	uh
+023/149	uu	1	uu
+023/151	unn	1	u nn
+023/153	un	1	u n
+023/155	u	1	u
+023/165	o	1	o
+023/167	oh	1	oh
+023/169	o	1	o
+023/175	on	1	o n
+023/177	on	1	o n
+023/179	on	1	o n
+023/181	NA	NA	-
+023/183	on	1	o n
+023/185	onn	1	o nn
+023/187	on	1	o n
+023/189	on	1	o n
+023/191	onn	1	o nn
+023/193	on	1	o n
+023/195	on	1	o n
+023/197	onn	1	o nn
+023/199	ok	1	o k
+023/201	on	1	o n
+023/203	on	1	o n
+023/205	on	1	o n
+023/207	on	1	o n
+023/215	on	1	o n
+023/217	on	1	o n
+024/053	unn	1	u nn
+024/057	un	1	u n
+024/059	un	1	u n
+024/061	un	1	u n
+024/063	un	1	u n
+024/065	unt	1	u n t
+024/067	und	1	u n d
+024/069	un	1	u n
+024/071	und	1	u n d
+024/073	un	1	u n
+024/075	und	1	u n d
+024/077	un	1	u n
+024/079	un	1	u n
+024/081	un	1	u n
+024/083	un	1	u n
+024/085	un	1	u n
+024/087	un	1	u n
+024/089	un	1	u n
+024/091	un	1	u n
+024/093	un	1	u n
+024/095	un	1	u n
+024/097	un	1	u n
+024/099	un	1	u n
+024/101	un	1	u n
+024/103	un	1	u n
+024/105	und	1	u n d
+024/107	unn	1	u nn
+024/109	un	1	u n
+024/111	un	1	u n
+024/113	NA	NA	-
+024/115	und	1	u n d
+024/117	un	1	u n
+024/119	un	1	u n
+024/121	o	1	o
+024/123	un	1	u n
+024/125	o	1	o
+024/127	o	1	o
+024/129	un	1	u n
+024/131	o	1	o
+024/133	ua	1	ua
+024/135	un	1	u n
+024/137	u	1	u
+024/139	u	1	u
+024/141	uh	1	uh
+024/143	und	1	u n d
+024/145	u	1	u
+024/147	un	1	u n
+024/149	u	1	u
+024/151	ou	1	ou
+024/153	u	1	u
+024/155	u	1	u
+024/163	un	1	u n
+024/165	u	1	u
+024/167	uk	1	u k
+024/169	un	1	u n
+024/171	un	1	u n
+024/175	on	1	o n
+024/179	onnd	1	o nn d
+024/181	un	1	u n
+024/183	on	1	o n
+024/185	on	1	o n
+024/187	onn	1	o nn
+024/189	on	1	o n
+024/191	on	1	o n
+024/193	och	1	o ch
+024/195	on	1	o n
+024/197	on	1	o n
+024/199	on	1	o n
+024/201	on	1	o n
+024/203	on	1	o n
+024/217	un	1	u n
+024/221	onn	1	o nn
+025/043	un	1	u n
+025/051	unn	1	u nn
+025/053	und	1	u n d
+025/055	un	1	u n
+025/057	un	1	u n
+025/059	un	1	u n
+025/061	und	1	u n d
+025/063	un	1	u n
+025/065	un	1	u n
+025/067	un	1	u n
+025/069	un	1	u n
+025/071	un	1	u n
+025/073	un	1	u n
+025/075	un	1	u n
+025/077	un	1	u n
+025/079	un	1	u n
+025/081	un	1	u n
+025/083	un	1	u n
+025/085	un	1	u n
+025/087	un	1	u n
+025/089	un	1	u n
+025/091	un	1	u n
+025/093	un	1	u n
+025/095	un	1	u n
+025/099	un	1	u n
+025/101	un	1	u n
+025/103	un	1	u n
+025/105	und	1	u n d
+025/107	un	1	u n
+025/109	un	1	u n
+025/111	un	1	u n
+025/113	un	1	u n
+025/115	unn	1	u nn
+025/123	un	1	u n
+025/125	o	1	o
+025/127	o	1	o
+025/129	o	1	o
+025/131	un	1	u n
+025/133	un	1	u n
+025/135	un	1	u n
+025/137	u	1	u
+025/139	o	1	o
+025/141	o	1	o
+025/143	un	1	u n
+025/145	u	1	u
+025/147	u	1	u
+025/149	un	1	u n
+025/151	u	1	u
+025/153	u	1	u
+025/155	u	1	u
+025/157	u	1	u
+025/159	on	1	o n
+025/177	on	1	o n
+025/179	on	1	o n
+025/181	onn	1	o nn
+025/183	on	1	o n
+025/185	onn	1	o nn
+025/187	onn	1	o nn
+025/189	och	1	o ch
+025/191	on	1	o n
+026/031	un	1	u n
+026/033	un	1	u n
+026/037	un	1	u n
+026/041	un	1	u n
+026/043	un	1	u n
+026/045	un	1	u n
+026/051	und	1	u n d
+026/053	un	1	u n
+026/055	un	1	u n
+026/057	un	1	u n
+026/059	un	1	u n
+026/061	un	1	u n
+026/063	un	1	u n
+026/065	un	1	u n
+026/067	un	1	u n
+026/069	un	1	u n
+026/071	un	1	u n
+026/073	un	1	u n
+026/075	und	1	u n d
+026/077	un	1	u n
+026/079	un	1	u n
+026/081	un	1	u n
+026/083	un	1	u n
+026/085	unn	1	u nn
+026/087	un	1	u n
+026/089	un	1	u n
+026/091	un	1	u n
+026/093	un	1	u n
+026/095	un	1	u n
+026/097	un	1	u n
+026/099	u	1	u
+026/101	und	1	u n d
+026/103	und	1	u n d
+026/105	un	1	u n
+026/107	un	1	u n
+026/109	un	1	u n
+026/111	un	1	u n
+026/113	unn	1	u nn
+026/115	unn	1	u nn
+026/117	un	1	u n
+026/119	un	1	u n
+026/123	oh	1	oh
+026/125	un	1	u n
+026/127	oo	1	oo
+026/129	o	1	o
+026/131	o	1	o
+026/133	o	1	o
+026/135	ua	1	ua
+026/137	uh	1	uh
+026/139	ua	1	ua
+026/141	un	1	u n
+026/143	ua	1	ua
+026/145	uh	1	uh
+026/147	un	1	u n
+026/153	u	1	u
+026/155	u	1	u
+026/157	u	1	u
+026/159	uh	1	uh
+026/161	u	1	u
+026/165	un	1	u n
+026/173	on	1	o n
+026/175	un	1	u n
+026/177	onn	1	o nn
+026/179	on	1	o n
+026/181	on	1	o n
+026/183	on	1	o n
+026/185	on	1	o n
+026/187	ond	1	o n d
+026/189	u	1	u
+027/027	un	1	u n
+027/035	un	1	u n
+027/037	un	1	u n
+027/039	un	1	u n
+027/041	un	1	u n
+027/043	un	1	u n
+027/045	un	1	u n
+027/047	un	1	u n
+027/051	und	1	u n d
+027/053	unn	1	u nn
+027/055	un	1	u n
+027/057	u	1	u
+027/059	un	1	u n
+027/061	un	1	u n
+027/063	un	1	u n
+027/065	un	1	u n
+027/067	un	1	u n
+027/069	un	1	u n
+027/071	un	1	u n
+027/073	un	1	u n
+027/075	un	1	u n
+027/077	un	1	u n
+027/079	un	1	u n
+027/081	un	1	u n
+027/083	un	1	u n
+027/085	un	1	u n
+027/087	un	1	u n
+027/089	und	1	u n d
+027/091	und	1	u n d
+027/093	un	1	u n
+027/095	un	1	u n
+027/099	un	1	u n
+027/101	un	1	u n
+027/103	und	1	u n d
+027/105	un	1	u n
+027/107	unn	1	u nn
+027/109	un	1	u n
+027/111	unn	1	u nn
+027/113	un	1	u n
+027/115	un	1	u n
+027/117	un	1	u n
+027/119	un	1	u n
+027/123	un	1	u n
+027/125	o	1	o
+027/127	u	1	u
+027/129	u	1	u
+027/131	u	1	u
+027/135	u	1	u
+027/137	u	1	u
+027/139	ou	1	ou
+027/141	oh	1	oh
+027/143	uh	1	uh
+027/145	oh	1	oh
+027/147	u	1	u
+027/149	uhh	1	u hh
+027/151	u	1	u
+027/153	uh	1	uh
+027/155	uh	1	uh
+027/157	u	1	u
+027/159	u	1	u
+027/161	u	1	u
+027/167	o	1	o
+027/171	on	1	o n
+027/173	on	1	o n
+027/175	on	1	o n
+027/177	on	1	o n
+027/179	onn	1	o nn
+027/181	on	1	o n
+027/183	unn	1	u nn
+027/185	on	1	o n
+028/033	un	1	u n
+028/035	un	1	u n
+028/037	un	1	u n
+028/039	un	1	u n
+028/041	un	1	u n
+028/043	und	1	u n d
+028/045	un	1	u n
+028/047	unn	1	u nn
+028/049	un	1	u n
+028/051	un	1	u n
+028/053	un	1	u n
+028/055	un	1	u n
+028/057	un	1	u n
+028/059	und	1	u n d
+028/061	un	1	u n
+028/063	un	1	u n
+028/065	und	1	u n d
+028/067	un	1	u n
+028/069	un	1	u n
+028/071	un	1	u n
+028/073	un	1	u n
+028/075	un	1	u n
+028/077	un	1	u n
+028/079	un	1	u n
+028/081	un	1	u n
+028/083	un	1	u n
+028/085	un	1	u n
+028/087	und	1	u n d
+028/089	un	1	u n
+028/091	un	1	u n
+028/093	un	1	u n
+028/095	un	1	u n
+028/097	und	1	u n d
+028/099	un	1	u n
+028/103	un	1	u n
+028/105	und	1	u n d
+028/107	un	1	u n
+028/109	un	1	u n
+028/111	un	1	u n
+028/113	un	1	u n
+028/115	un	1	u n
+028/117	und	1	u n d
+028/119	un	1	u n
+028/121	un	1	u n
+028/123	un	1	u n
+028/125	und	1	u n d
+028/127	un	1	u n
+028/129	u	1	u
+028/131	u	1	u
+028/133	o	1	o
+028/135	u	1	u
+028/137	o	1	o
+028/139	ua	1	ua
+028/141	o	1	o
+028/143	uh	1	uh
+028/145	un	1	u n
+028/147	o	1	o
+028/151	u	1	u
+028/153	u	1	u
+028/155	o	1	o
+028/157	u	1	u
+028/159	u	1	u
+028/161	u	1	u
+028/165	uh	1	uh
+028/169	u	1	u
+028/171	un	1	u n
+028/173	onn	1	o nn
+028/175	on	1	o n
+028/177	un	1	u n
+028/179	on	1	o n
+028/181	on	1	o n
+028/183	on	1	o n
+028/185	und	1	u n d
+029/033	un	1	u n
+029/035	un	1	u n
+029/037	un	1	u n
+029/039	un	1	u n
+029/043	un	1	u n
+029/045	un	1	u n
+029/047	un	1	u n
+029/049	un	1	u n
+029/051	un	1	u n
+029/053	und	1	u n d
+029/055	und	1	u n d
+029/057	un	1	u n
+029/059	und	1	u n d
+029/061	un	1	u n
+029/065	und	1	u n d
+029/067	un	1	u n
+029/069	unn	1	u nn
+029/071	und	1	u n d
+029/073	un	1	u n
+029/075	un	1	u n
+029/077	un	1	u n
+029/079	un	1	u n
+029/081	un	1	u n
+029/083	un	1	u n
+029/085	un	1	u n
+029/087	un	1	u n
+029/089	un	1	u n
+029/091	un	1	u n
+029/093	un	1	u n
+029/095	un	1	u n
+029/097	un	1	u n
+029/099	un	1	u n
+029/101	un	1	u n
+029/103	un	1	u n
+029/105	un	1	u n
+029/107	un	1	u n
+029/109	un	1	u n
+029/111	und	1	u n d
+029/113	un	1	u n
+029/115	un	1	u n
+029/117	un	1	u n
+029/119	un	1	u n
+029/121	un	1	u n
+029/123	un	1	u n
+029/125	uh	1	uh
+029/127	un	1	u n
+029/129	o	1	o
+029/131	un	1	u n
+029/133	ua	1	ua
+029/135	o	1	o
+029/137	u	1	u
+029/139	uh	1	uh
+029/141	u	1	u
+029/143	u	1	u
+029/145	u	1	u
+029/147	unn	1	u nn
+029/149	u	1	u
+029/151	u	1	u
+029/153	u	1	u
+029/155	u	1	u
+029/157	u	1	u
+029/159	u	1	u
+029/161	u	1	u
+029/163	u	1	u
+029/165	u	1	u
+029/167	uh	1	uh
+029/169	uh	1	uh
+029/171	o	1	o
+029/173	o	1	o
+029/175	o	1	o
+029/177	on	1	o n
+029/181	un	1	u n
+030/033	un	1	u n
+030/035	un	1	u n
+030/037	un	1	u n
+030/039	un	1	u n
+030/041	un	1	u n
+030/043	un	1	u n
+030/045	un	1	u n
+030/047	und	1	u n d
+030/049	un	1	u n
+030/051	un	1	u n
+030/053	un	1	u n
+030/055	un	1	u n
+030/057	un	1	u n
+030/059	un	1	u n
+030/061	un	1	u n
+030/065	und	1	u n d
+030/067	un	1	u n
+030/071	un	1	u n
+030/073	un	1	u n
+030/075	un	1	u n
+030/077	un	1	u n
+030/079	unn	1	u nn
+030/081	un	1	u n
+030/083	un	1	u n
+030/085	unn	1	u nn
+030/087	un	1	u n
+030/089	un	1	u n
+030/091	un	1	u n
+030/093	und	1	u n d
+030/095	un	1	u n
+030/097	un	1	u n
+030/099	un	1	u n
+030/101	un	1	u n
+030/103	un	1	u n
+030/105	un	1	u n
+030/107	un	1	u n
+030/109	un	1	u n
+030/111	un	1	u n
+030/113	un	1	u n
+030/115	un	1	u n
+030/117	un	1	u n
+030/119	un	1	u n
+030/121	un	1	u n
+030/123	o	1	o
+030/125	un	1	u n
+030/127	un	1	u n
+030/129	o	1	o
+030/131	un	1	u n
+030/133	und	1	u n d
+030/135	u	1	u
+030/137	uh	1	uh
+030/139	uh	1	uh
+030/141	o	1	o
+030/143	uh	1	uh
+030/145	u	1	u
+030/147	u	1	u
+030/149	u	1	u
+030/151	u	1	u
+030/153	u	1	u
+030/155	uh	1	uh
+030/157	u	1	u
+030/159	u	1	u
+030/161	uh	1	uh
+030/163	u	1	u
+030/165	u	1	u
+030/167	un	1	u n
+030/169	o	1	o
+030/171	on	1	o n
+030/173	on	1	o n
+030/175	o	1	o
+030/177	NA	NA	-
+030/179	o	1	o
+030/181	un	1	u n
+030/183	u	1	u
+031/035	un	1	u n
+031/037	un	1	u n
+031/039	un	1	u n
+031/041	un	1	u n
+031/043	un	1	u n
+031/045	un	1	u n
+031/047	un	1	u n
+031/049	un	1	u n
+031/051	unn	1	u nn
+031/053	un	1	u n
+031/055	unn	1	u nn
+031/057	u	1	u
+031/059	un	1	u n
+031/061	un	1	u n
+031/063	u	1	u
+031/065	un	1	u n
+031/067	un	1	u n
+031/069	un	1	u n
+031/071	und	1	u n d
+031/073	un	1	u n
+031/075	un	1	u n
+031/077	un	1	u n
+031/079	un	1	u n
+031/081	unn	1	u nn
+031/083	un	1	u n
+031/085	unn	1	u nn
+031/087	und	1	u n d
+031/089	un	1	u n
+031/091	un	1	u n
+031/093	unn	1	u nn
+031/095	un	1	u n
+031/097	un	1	u n
+031/099	un	1	u n
+031/101	un	1	u n
+031/103	un	1	u n
+031/105	un	1	u n
+031/107	un	1	u n
+031/109	un	1	u n
+031/111	u	1	u
+031/113	unn	1	u nn
+031/115	un	1	u n
+031/117	un	1	u n
+031/119	un	1	u n
+031/121	und	1	u n d
+031/123	un	1	u n
+031/125	un	1	u n
+031/127	unn	1	u nn
+031/129	u	1	u
+031/131	u	1	u
+031/133	un	1	u n
+031/135	u	1	u
+031/137	o	1	o
+031/139	uo	1	uo
+031/141	uh	1	uh
+031/143	on	1	o n
+031/145	u	1	u
+031/147	u	1	u
+031/149	u	1	u
+031/151	uh	1	uh
+031/153	ua	1	ua
+031/155	u	1	u
+031/157	u	1	u
+031/159	oh	1	oh
+031/161	uh	1	uh
+031/163	u	1	u
+031/167	on	1	o n
+031/169	un	1	u n
+031/171	on	1	o n
+031/173	un	1	u n
+031/175	o	1	o
+031/177	u	1	u
+031/179	o	1	o
+032/035	un	1	u n
+032/037	un	1	u n
+032/039	un	1	u n
+032/041	un	1	u n
+032/043	un	1	u n
+032/045	un	1	u n
+032/047	un	1	u n
+032/049	un	1	u n
+032/051	un	1	u n
+032/053	un	1	u n
+032/055	un	1	u n
+032/057	un	1	u n
+032/059	un	1	u n
+032/061	und	1	u n d
+032/065	un	1	u n
+032/069	u	1	u
+032/071	on	1	o n
+032/073	unn	1	u nn
+032/075	un	1	u n
+032/077	un	1	u n
+032/079	un	1	u n
+032/081	un	1	u n
+032/083	un	1	u n
+032/085	un	1	u n
+032/087	un	1	u n
+032/089	un	1	u n
+032/091	un	1	u n
+032/093	un	1	u n
+032/095	un	1	u n
+032/097	un	1	u n
+032/099	un	1	u n
+032/101	un	1	u n
+032/103	un	1	u n
+032/105	un	1	u n
+032/107	un	1	u n
+032/111	un	1	u n
+032/113	un	1	u n
+032/115	un	1	u n
+032/117	NA	NA	-
+032/119	un	1	u n
+032/121	un	1	u n
+032/123	un	1	u n
+032/125	unn	1	u nn
+032/127	un	1	u n
+032/129	u	1	u
+032/131	un	1	u n
+032/133	u	1	u
+032/135	u	1	u
+032/139	un	1	u n
+032/141	oh	1	oh
+032/143	o	1	o
+032/145	o	1	o
+032/147	u	1	u
+032/149	u	1	u
+032/151	o	1	o
+032/153	u	1	u
+032/157	o	1	o
+032/159	uh	1	uh
+032/161	u	1	u
+032/163	o	1	o
+032/167	o	1	o
+032/169	un	1	u n
+032/171	un	1	u n
+032/173	und	1	u n d
+032/175	o	1	o
+032/177	o	1	o
+032/179	uh	1	uh
+032/181	un	1	u n
+032/183	ock	1	o ck
+033/035	un	1	u n
+033/037	un	1	u n
+033/039	un	1	u n
+033/041	un	1	u n
+033/043	un	1	u n
+033/045	und	1	u n d
+033/047	un	1	u n
+033/049	un	1	u n
+033/051	un	1	u n
+033/053	un	1	u n
+033/055	un	1	u n
+033/057	und	1	u n d
+033/059	unn	1	u nn
+033/061	un	1	u n
+033/063	un	1	u n
+033/065	un	1	u n
+033/067	un	1	u n
+033/069	un	1	u n
+033/071	un	1	u n
+033/073	un	1	u n
+033/075	un	1	u n
+033/077	un	1	u n
+033/079	un	1	u n
+033/081	un	1	u n
+033/083	un	1	u n
+033/085	un	1	u n
+033/087	un	1	u n
+033/089	un	1	u n
+033/091	unn	1	u nn
+033/093	un	1	u n
+033/095	un	1	u n
+033/097	un	1	u n
+033/099	un	1	u n
+033/101	un	1	u n
+033/103	un	1	u n
+033/105	und	1	u n d
+033/107	un	1	u n
+033/109	un	1	u n
+033/111	un	1	u n
+033/113	un	1	u n
+033/115	un	1	u n
+033/117	un	1	u n
+033/119	un	1	u n
+033/121	un	1	u n
+033/123	un	1	u n
+033/125	unn	1	u nn
+033/127	u	1	u
+033/129	u	1	u
+033/131	un	1	u n
+033/133	und	1	u n d
+033/135	o	1	o
+033/137	o	1	o
+033/139	un	1	u n
+033/141	u	1	u
+033/143	u	1	u
+033/145	u	1	u
+033/147	o	1	o
+033/149	ou	1	ou
+033/151	un	1	u n
+033/153	u	1	u
+033/155	u	1	u
+033/159	u	1	u
+033/161	ou	1	ou
+033/163	u	1	u
+033/165	o	1	o
+033/167	onn	1	o nn
+033/169	onn	1	o nn
+033/173	on	1	o n
+033/175	o	1	o
+033/177	o	1	o
+034/035	un	1	u n
+034/039	un	1	u n
+034/041	un	1	u n
+034/043	un	1	u n
+034/045	un	1	u n
+034/047	un	1	u n
+034/049	unn	1	u nn
+034/051	un	1	u n
+034/053	un	1	u n
+034/055	un	1	u n
+034/057	un	1	u n
+034/059	un	1	u n
+034/061	un	1	u n
+034/063	un	1	u n
+034/065	un	1	u n
+034/067	un	1	u n
+034/069	un	1	u n
+034/071	un	1	u n
+034/073	un	1	u n
+034/075	un	1	u n
+034/077	un	1	u n
+034/079	un	1	u n
+034/081	un	1	u n
+034/083	un	1	u n
+034/085	un	1	u n
+034/087	un	1	u n
+034/089	un	1	u n
+034/091	un	1	u n
+034/093	un	1	u n
+034/095	un	1	u n
+034/097	un	1	u n
+034/099	un	1	u n
+034/101	un	1	u n
+034/103	un	1	u n
+034/105	un	1	u n
+034/107	un	1	u n
+034/109	un	1	u n
+034/111	un	1	u n
+034/113	un	1	u n
+034/115	un	1	u n
+034/117	un	1	u n
+034/119	un	1	u n
+034/121	un	1	u n
+034/125	un	1	u n
+034/127	un	1	u n
+034/129	un	1	u n
+034/131	un	1	u n
+034/133	un	1	u n
+034/135	u	1	u
+034/137	un	1	u n
+034/139	o	1	o
+034/141	u	1	u
+034/143	o	1	o
+034/145	o	1	o
+034/147	u	1	u
+034/149	o	1	o
+034/151	oh	1	oh
+034/155	u	1	u
+034/157	u	1	u
+034/161	ou	1	ou
+034/163	u	1	u
+034/165	o	1	o
+034/167	u	1	u
+034/169	NA	NA	-
+034/173	o	1	o
+035/035	un	1	u n
+035/037	un	1	u n
+035/039	un	1	u n
+035/041	un	1	u n
+035/043	un	1	u n
+035/045	un	1	u n
+035/047	un	1	u n
+035/049	un	1	u n
+035/051	un	1	u n
+035/053	un	1	u n
+035/055	un	1	u n
+035/057	und	1	u n d
+035/059	un	1	u n
+035/061	und	1	u n d
+035/063	und	1	u n d
+035/065	un	1	u n
+035/067	un	1	u n
+035/069	un	1	u n
+035/071	un	1	u n
+035/073	un	1	u n
+035/075	un	1	u n
+035/077	un	1	u n
+035/079	un	1	u n
+035/081	un	1	u n
+035/083	un	1	u n
+035/085	un	1	u n
+035/087	un	1	u n
+035/089	un	1	u n
+035/091	un	1	u n
+035/093	un	1	u n
+035/095	un	1	u n
+035/097	un	1	u n
+035/099	und	1	u n d
+035/101	un	1	u n
+035/103	un	1	u n
+035/105	un	1	u n
+035/107	un	1	u n
+035/109	unn	1	u nn
+035/111	und	1	u n d
+035/113	un	1	u n
+035/115	un	1	u n
+035/117	un	1	u n
+035/121	un	1	u n
+035/123	un	1	u n
+035/125	unn	1	u nn
+035/127	un	1	u n
+035/129	un	1	u n
+035/133	un	1	u n
+035/135	un	1	u n
+035/137	un	1	u n
+035/139	un	1	u n
+035/141	unn	1	u nn
+035/143	o	1	o
+035/145	o	1	o
+035/147	ut	1	u t
+035/149	o	1	o
+035/151	o	1	o
+035/153	o	1	o
+035/155	o	1	o
+035/157	o	1	o
+035/165	o	1	o
+035/167	o	1	o
+035/169	o	1	o
+035/171	onn	1	o nn
+035/173	o	1	o
+036/033	un	1	u n
+036/035	unn	1	u nn
+036/039	un	1	u n
+036/041	un	1	u n
+036/043	un	1	u n
+036/045	und	1	u n d
+036/047	un	1	u n
+036/049	un	1	u n
+036/051	un	1	u n
+036/053	un	1	u n
+036/055	un	1	u n
+036/057	un	1	u n
+036/059	und	1	u n d
+036/061	und	1	u n d
+036/063	un	1	u n
+036/065	un	1	u n
+036/067	NA	NA	-
+036/069	un	1	u n
+036/071	unn	1	u nn
+036/073	un	1	u n
+036/075	un	1	u n
+036/077	un	1	u n
+036/079	un	1	u n
+036/081	und	1	u n d
+036/083	un	1	u n
+036/085	un	1	u n
+036/087	un	1	u n
+036/089	un	1	u n
+036/091	un	1	u n
+036/095	un	1	u n
+036/097	un	1	u n
+036/099	NA	NA	-
+036/101	un	1	u n
+036/103	und	1	u n d
+036/105	un	1	u n
+036/107	un	1	u n
+036/109	uun	1	uu n
+036/111	unn	1	u nn
+036/113	un	1	u n
+036/115	un	1	u n
+036/117	un	1	u n
+036/119	un	1	u n
+036/121	unn	1	u nn
+036/123	und	1	u n d
+036/125	un	1	u n
+036/127	un	1	u n
+036/129	un	1	u n
+036/133	un	1	u n
+036/135	un	1	u n
+036/137	un	1	u n
+036/139	un	1	u n
+036/141	un	1	u n
+036/143	o	1	o
+036/147	o	1	o
+036/149	o	1	o
+036/151	u	1	u
+036/153	un	1	u n
+036/155	u	1	u
+036/161	o	1	o
+036/163	o	1	o
+036/165	o	1	o
+036/167	o	1	o
+036/169	oh	1	oh
+036/171	on	1	o n
+037/033	un	1	u n
+037/035	un	1	u n
+037/037	un	1	u n
+037/039	un	1	u n
+037/041	un	1	u n
+037/043	un	1	u n
+037/045	un	1	u n
+037/047	un	1	u n
+037/049	un	1	u n
+037/051	un	1	u n
+037/053	un	1	u n
+037/055	un	1	u n
+037/057	u	1	u
+037/059	un	1	u n
+037/061	un	1	u n
+037/063	un	1	u n
+037/065	un	1	u n
+037/067	un	1	u n
+037/069	un	1	u n
+037/071	un	1	u n
+037/073	un	1	u n
+037/075	un	1	u n
+037/077	un	1	u n
+037/079	un	1	u n
+037/081	un	1	u n
+037/083	und	1	u n d
+037/085	un	1	u n
+037/087	unn	1	u nn
+037/089	un	1	u n
+037/091	un	1	u n
+037/093	unn	1	u nn
+037/095	unn	1	u nn
+037/097	un	1	u n
+037/099	un	1	u n
+037/101	un	1	u n
+037/105	un	1	u n
+037/107	un	1	u n
+037/109	un	1	u n
+037/111	un	1	u n
+037/113	un	1	u n
+037/115	un	1	u n
+037/117	un	1	u n
+037/119	un	1	u n
+037/121	un	1	u n
+037/123	un	1	u n
+037/125	un	1	u n
+037/127	un	1	u n
+037/129	un	1	u n
+037/131	un	1	u n
+037/133	un	1	u n
+037/135	un	1	u n
+037/137	unn	1	u nn
+037/139	un	1	u n
+037/141	un	1	u n
+037/145	un	1	u n
+037/147	oh	1	oh
+037/149	un	1	u n
+037/151	o	1	o
+037/153	u	1	u
+037/155	u	1	u
+037/157	o	1	o
+037/159	o	1	o
+037/163	o	1	o
+037/171	oa	1	oa
+038/033	un	1	u n
+038/035	un	1	u n
+038/037	un	1	u n
+038/039	un	1	u n
+038/041	un	1	u n
+038/043	unn	1	u nn
+038/045	un	1	u n
+038/047	un	1	u n
+038/049	un	1	u n
+038/051	un	1	u n
+038/053	un	1	u n
+038/055	un	1	u n
+038/057	un	1	u n
+038/059	un	1	u n
+038/061	und	1	u n d
+038/063	un	1	u n
+038/065	un	1	u n
+038/067	un	1	u n
+038/069	un	1	u n
+038/071	und	1	u n d
+038/073	un	1	u n
+038/075	un	1	u n
+038/077	un	1	u n
+038/079	un	1	u n
+038/081	un	1	u n
+038/083	un	1	u n
+038/085	un	1	u n
+038/087	un	1	u n
+038/089	un	1	u n
+038/091	un	1	u n
+038/093	un	1	u n
+038/095	un	1	u n
+038/097	uun	1	uu n
+038/099	un	1	u n
+038/101	un	1	u n
+038/103	un	1	u n
+038/105	un	1	u n
+038/107	un	1	u n
+038/109	un	1	u n
+038/111	un	1	u n
+038/113	un	1	u n
+038/115	un	1	u n
+038/117	un	1	u n
+038/119	un	1	u n
+038/121	un	1	u n
+038/123	un	1	u n
+038/125	un	1	u n
+038/127	un	1	u n
+038/129	un	1	u n
+038/131	un	1	u n
+038/133	un	1	u n
+038/135	un	1	u n
+038/145	un	1	u n
+038/147	o	1	o
+038/149	o	1	o
+038/151	o	1	o
+038/153	oo	1	oo
+038/155	o	1	o
+038/159	o	1	o
+038/161	o	1	o
+038/163	o	1	o
+039/029	oa	1	oa
+039/031	en	1	e n
+039/033	un	1	u n
+039/035	un	1	u n
+039/037	un	1	u n
+039/039	un	1	u n
+039/041	un	1	u n
+039/043	un	1	u n
+039/045	un	1	u n
+039/047	unn	1	u nn
+039/049	un	1	u n
+039/051	un	1	u n
+039/053	un	1	u n
+039/055	un	1	u n
+039/057	un	1	u n
+039/059	un	1	u n
+039/061	un	1	u n
+039/063	un	1	u n
+039/065	un	1	u n
+039/067	un	1	u n
+039/069	und	1	u n d
+039/071	un	1	u n
+039/073	un	1	u n
+039/075	un	1	u n
+039/077	unn	1	u nn
+039/079	un	1	u n
+039/081	un	1	u n
+039/083	un	1	u n
+039/085	un	1	u n
+039/087	un	1	u n
+039/089	un	1	u n
+039/091	unn	1	u nn
+039/093	un	1	u n
+039/095	un	1	u n
+039/097	un	1	u n
+039/099	un	1	u n
+039/101	und	1	u n d
+039/103	und	1	u n d
+039/105	un	1	u n
+039/107	un	1	u n
+039/109	un	1	u n
+039/111	un	1	u n
+039/113	un	1	u n
+039/115	un	1	u n
+039/117	un	1	u n
+039/119	un	1	u n
+039/121	unn	1	u nn
+039/123	un	1	u n
+039/125	un	1	u n
+039/127	un	1	u n
+039/129	un	1	u n
+039/131	un	1	u n
+039/133	un	1	u n
+039/135	un	1	u n
+039/137	un	1	u n
+039/139	un	1	u n
+039/149	u	1	u
+039/151	o	1	o
+039/153	o	1	o
+039/155	o	1	o
+040/029	un	1	u n
+040/031	en	1	e n
+040/033	un	1	u n
+040/035	un	1	u n
+040/037	un	1	u n
+040/039	und	1	u n d
+040/041	un	1	u n
+040/043	und	1	u n d
+040/045	un	1	u n
+040/047	un	1	u n
+040/049	un	1	u n
+040/051	un	1	u n
+040/053	un	1	u n
+040/055	un	1	u n
+040/057	un	1	u n
+040/059	un	1	u n
+040/061	un	1	u n
+040/063	un	1	u n
+040/065	un	1	u n
+040/067	un	1	u n
+040/069	un	1	u n
+040/071	un	1	u n
+040/073	un	1	u n
+040/075	un	1	u n
+040/077	un	1	u n
+040/079	un	1	u n
+040/081	un	1	u n
+040/083	un	1	u n
+040/085	un	1	u n
+040/087	un	1	u n
+040/089	un	1	u n
+040/091	unn	1	u nn
+040/093	unn	1	u nn
+040/095	un	1	u n
+040/097	und	1	u n d
+040/099	un	1	u n
+040/101	un	1	u n
+040/103	un	1	u n
+040/105	un	1	u n
+040/107	un	1	u n
+040/109	un	1	u n
+040/111	un	1	u n
+040/113	un	1	u n
+040/115	un	1	u n
+040/119	und	1	u n d
+040/121	un	1	u n
+040/123	un	1	u n
+040/125	un	1	u n
+040/127	un	1	u n
+040/129	und	1	u n d
+040/131	un	1	u n
+040/133	und	1	u n d
+040/135	unnd	1	u nn d
+040/137	und	1	u n d
+040/141	un	1	u n
+040/143	ud	1	u d
+040/149	und	1	u n d
+040/153	o	1	o
+040/155	oh	1	oh
+041/031	un	1	u n
+041/033	un	1	u n
+041/035	un	1	u n
+041/037	un	1	u n
+041/039	un	1	u n
+041/041	un	1	u n
+041/043	un	1	u n
+041/045	un	1	u n
+041/047	un	1	u n
+041/049	un	1	u n
+041/051	un	1	u n
+041/053	un	1	u n
+041/055	un	1	u n
+041/057	un	1	u n
+041/059	und	1	u n d
+041/061	und	1	u n d
+041/063	un	1	u n
+041/065	un	1	u n
+041/067	un	1	u n
+041/069	und	1	u n d
+041/071	un	1	u n
+041/073	un	1	u n
+041/075	un	1	u n
+041/077	un	1	u n
+041/079	und	1	u n d
+041/081	unn	1	u nn
+041/083	un	1	u n
+041/085	un	1	u n
+041/087	un	1	u n
+041/089	un	1	u n
+041/091	un	1	u n
+041/093	un	1	u n
+041/095	un	1	u n
+041/097	unn	1	u nn
+041/099	un	1	u n
+041/101	un	1	u n
+041/103	un	1	u n
+041/105	un	1	u n
+041/107	un	1	u n
+041/109	un	1	u n
+041/111	un	1	u n
+041/113	un	1	u n
+041/115	un	1	u n
+041/117	un	1	u n
+041/119	un	1	u n
+041/121	un	1	u n
+041/123	un	1	u n
+041/125	un	1	u n
+041/127	un	1	u n
+041/129	un	1	u n
+041/131	und	1	u n d
+041/133	und	1	u n d
+041/135	und	1	u n d
+041/139	und	1	u n d
+041/141	und	1	u n d
+041/145	und	1	u n d
+041/147	und	1	u n d
+041/153	u	1	u
+041/155	u	1	u
+041/157	un	1	u n
+041/159	NA	NA	-
+041/161	o	1	o
+042/033	un	1	u n
+042/035	un	1	u n
+042/037	un	1	u n
+042/039	un	1	u n
+042/041	und	1	u n d
+042/043	un	1	u n
+042/045	un	1	u n
+042/047	un	1	u n
+042/051	un	1	u n
+042/053	un	1	u n
+042/055	un	1	u n
+042/057	un	1	u n
+042/059	un	1	u n
+042/061	on	1	o n
+042/063	un	1	u n
+042/065	un	1	u n
+042/067	un	1	u n
+042/069	un	1	u n
+042/071	un	1	u n
+042/073	un	1	u n
+042/075	un	1	u n
+042/077	un	1	u n
+042/079	un	1	u n
+042/081	u	1	u
+042/083	un	1	u n
+042/085	un	1	u n
+042/087	un	1	u n
+042/089	un	1	u n
+042/091	un	1	u n
+042/093	un	1	u n
+042/095	un	1	u n
+042/097	un	1	u n
+042/099	unn	1	u nn
+042/101	un	1	u n
+042/103	un	1	u n
+042/105	un	1	u n
+042/107	un	1	u n
+042/109	un	1	u n
+042/111	un	1	u n
+042/113	un	1	u n
+042/115	un	1	u n
+042/117	un	1	u n
+042/119	unn	1	u nn
+042/121	un	1	u n
+042/123	un	1	u n
+042/125	un	1	u n
+042/127	un	1	u n
+042/129	un	1	u n
+042/131	und	1	u n d
+042/133	und	1	u n d
+042/135	und	1	u n d
+042/137	un	1	u n
+042/139	und	1	u n d
+042/141	und	1	u n d
+042/143	und	1	u n d
+042/145	und	1	u n d
+042/147	und	1	u n d
+042/149	un	1	u n
+042/151	und	1	u n d
+042/157	o	1	o
+042/159	u	1	u
+042/161	u	1	u
+043/033	un	1	u n
+043/035	un	1	u n
+043/037	un	1	u n
+043/039	un	1	u n
+043/041	un	1	u n
+043/043	un	1	u n
+043/045	un	1	u n
+043/047	un	1	u n
+043/049	un	1	u n
+043/051	un	1	u n
+043/053	un	1	u n
+043/055	un	1	u n
+043/057	un	1	u n
+043/059	un	1	u n
+043/061	un	1	u n
+043/063	un	1	u n
+043/065	un	1	u n
+043/067	un	1	u n
+043/069	un	1	u n
+043/071	un	1	u n
+043/073	un	1	u n
+043/075	un	1	u n
+043/077	un	1	u n
+043/079	un	1	u n
+043/081	un	1	u n
+043/083	un	1	u n
+043/085	un	1	u n
+043/087	un	1	u n
+043/089	un	1	u n
+043/091	un	1	u n
+043/093	unn	1	u nn
+043/095	un	1	u n
+043/097	un	1	u n
+043/099	un	1	u n
+043/101	und	1	u n d
+043/103	un	1	u n
+043/105	un	1	u n
+043/107	und	1	u n d
+043/109	un	1	u n
+043/111	und	1	u n d
+043/113	un	1	u n
+043/115	un	1	u n
+043/117	un	1	u n
+043/119	und	1	u n d
+043/121	und	1	u n d
+043/123	un	1	u n
+043/125	und	1	u n d
+043/127	un	1	u n
+043/129	und	1	u n d
+043/131	ud	1	u d
+043/133	und	1	u n d
+043/135	und	1	u n d
+043/137	und	1	u n d
+043/141	un	1	u n
+043/143	und	1	u n d
+043/145	und	1	u n d
+043/151	und	1	u n d
+043/153	und	1	u n d
+043/159	un	1	u n
+043/161	ond	1	o n d
+044/033	un	1	u n
+044/035	un	1	u n
+044/039	NA	NA	-
+044/041	un	1	u n
+044/043	un	1	u n
+044/045	un	1	u n
+044/047	un	1	u n
+044/049	un	1	u n
+044/051	und	1	u n d
+044/053	un	1	u n
+044/055	un	1	u n
+044/057	un	1	u n
+044/059	un	1	u n
+044/061	un	1	u n
+044/063	un	1	u n
+044/065	unn	1	u nn
+044/067	un	1	u n
+044/069	un	1	u n
+044/071	un	1	u n
+044/073	un	1	u n
+044/075	un	1	u n
+044/077	un	1	u n
+044/079	un	1	u n
+044/081	un	1	u n
+044/083	un	1	u n
+044/085	un	1	u n
+044/087	un	1	u n
+044/089	un	1	u n
+044/091	un	1	u n
+044/093	und	1	u n d
+044/095	un	1	u n
+044/097	und	1	u n d
+044/099	un	1	u n
+044/101	unn	1	u nn
+044/103	un	1	u n
+044/105	un	1	u n
+044/107	unn	1	u nn
+044/109	un	1	u n
+044/111	un	1	u n
+044/113	un	1	u n
+044/115	un	1	u n
+044/117	un	1	u n
+044/119	un	1	u n
+044/121	unn	1	u nn
+044/123	un	1	u n
+044/125	un	1	u n
+044/127	und	1	u n d
+044/129	und	1	u n d
+044/131	und	1	u n d
+044/133	und	1	u n d
+044/135	und	1	u n d
+044/137	und	1	u n d
+044/141	und	1	u n d
+044/143	und	1	u n d
+044/145	und	1	u n d
+044/149	un	1	u n
+044/151	u	1	u
+044/153	und	1	u n d
+045/033	un	1	u n
+045/035	un	1	u n
+045/037	un	1	u n
+045/039	un	1	u n
+045/041	un	1	u n
+045/043	un	1	u n
+045/045	un	1	u n
+045/047	und	1	u n d
+045/049	un	1	u n
+045/051	un	1	u n
+045/053	un	1	u n
+045/055	un	1	u n
+045/057	un	1	u n
+045/059	un	1	u n
+045/061	unn	1	u nn
+045/063	unn	1	u nn
+045/065	un	1	u n
+045/067	unn	1	u nn
+045/069	un	1	u n
+045/071	unn	1	u nn
+045/073	un	1	u n
+045/075	un	1	u n
+045/077	un	1	u n
+045/079	un	1	u n
+045/081	un	1	u n
+045/083	un	1	u n
+045/085	un	1	u n
+045/087	un	1	u n
+045/089	un	1	u n
+045/091	un	1	u n
+045/093	unn	1	u nn
+045/095	un	1	u n
+045/097	un	1	u n
+045/099	un	1	u n
+045/101	und	1	u n d
+045/103	un	1	u n
+045/105	un	1	u n
+045/107	un	1	u n
+045/109	und	1	u n d
+045/111	un	1	u n
+045/113	un	1	u n
+045/115	un	1	u n
+045/117	un	1	u n
+045/119	un	1	u n
+045/121	un	1	u n
+045/123	und	1	u n d
+045/125	und	1	u n d
+045/127	und	1	u n d
+045/129	und	1	u n d
+045/131	und	1	u n d
+045/133	un	1	u n
+045/135	und	1	u n d
+045/137	und	1	u n d
+045/139	und	1	u n d
+045/141	un	1	u n
+045/143	un	1	u n
+045/145	und	1	u n d
+045/155	und	1	u n d
+046/031	un	1	u n
+046/033	un	1	u n
+046/035	un	1	u n
+046/037	un	1	u n
+046/039	un	1	u n
+046/041	un	1	u n
+046/043	un	1	u n
+046/045	und	1	u n d
+046/047	un	1	u n
+046/049	un	1	u n
+046/051	un	1	u n
+046/053	un	1	u n
+046/055	un	1	u n
+046/057	un	1	u n
+046/059	un	1	u n
+046/061	un	1	u n
+046/063	un	1	u n
+046/065	un	1	u n
+046/067	unn	1	u nn
+046/069	un	1	u n
+046/071	un	1	u n
+046/073	un	1	u n
+046/075	un	1	u n
+046/077	und	1	u n d
+046/079	un	1	u n
+046/081	un	1	u n
+046/083	un	1	u n
+046/085	un	1	u n
+046/087	un	1	u n
+046/089	un	1	u n
+046/091	un	1	u n
+046/093	un	1	u n
+046/095	un	1	u n
+046/097	un	1	u n
+046/099	un	1	u n
+046/101	unn	1	u nn
+046/103	un	1	u n
+046/105	un	1	u n
+046/107	un	1	u n
+046/109	un	1	u n
+046/111	un	1	u n
+046/113	un	1	u n
+046/115	NA	NA	-
+046/117	un	1	u n
+046/119	un	1	u n
+046/121	und	1	u n d
+046/123	un	1	u n
+046/125	und	1	u n d
+046/127	und	1	u n d
+046/129	und	1	u n d
+046/131	und	1	u n d
+046/133	un	1	u n
+046/135	un	1	u n
+046/137	und	1	u n d
+046/139	und	1	u n d
+046/141	und	1	u n d
+046/143	und	1	u n d
+046/155	und	1	u n d
+047/031	un	1	u n
+047/033	un	1	u n
+047/035	un	1	u n
+047/037	un	1	u n
+047/039	un	1	u n
+047/041	un	1	u n
+047/043	un	1	u n
+047/045	un	1	u n
+047/047	un	1	u n
+047/049	un	1	u n
+047/051	un	1	u n
+047/053	un	1	u n
+047/055	un	1	u n
+047/057	NA	NA	-
+047/059	un	1	u n
+047/061	un	1	u n
+047/063	un	1	u n
+047/065	und	1	u n d
+047/067	un	1	u n
+047/069	un	1	u n
+047/071	un	1	u n
+047/073	un	1	u n
+047/075	un	1	u n
+047/077	un	1	u n
+047/079	un	1	u n
+047/081	un	1	u n
+047/083	unn	1	u nn
+047/085	un	1	u n
+047/087	und	1	u n d
+047/089	un	1	u n
+047/091	un	1	u n
+047/093	und	1	u n d
+047/095	NA	NA	-
+047/097	un	1	u n
+047/099	un	1	u n
+047/101	un	1	u n
+047/103	un	1	u n
+047/105	unn	1	u nn
+047/107	un	1	u n
+047/109	un	1	u n
+047/111	un	1	u n
+047/113	un	1	u n
+047/115	un	1	u n
+047/117	un	1	u n
+047/119	u	1	u
+047/123	und	1	u n d
+047/125	und	1	u n d
+047/127	und	1	u n d
+047/129	und	1	u n d
+047/131	und	1	u n d
+047/133	und	1	u n d
+047/135	und	1	u n d
+047/137	und	1	u n d
+047/139	und	1	u n d
+047/141	und	1	u n d
+047/147	und	1	u n d
+047/149	und	1	u n d
+047/151	und	1	u n d
+047/159	und	1	u n d
+048/021	enn	1	e nn
+048/023	en	1	e n
+048/027	un	1	u n
+048/029	un	1	u n
+048/031	un	1	u n
+048/033	un	1	u n
+048/035	un	1	u n
+048/037	un	1	u n
+048/039	un	1	u n
+048/041	un	1	u n
+048/045	un	1	u n
+048/047	un	1	u n
+048/049	un	1	u n
+048/051	un	1	u n
+048/053	un	1	u n
+048/055	un	1	u n
+048/057	un	1	u n
+048/059	un	1	u n
+048/061	und	1	u n d
+048/063	un	1	u n
+048/065	un	1	u n
+048/067	un	1	u n
+048/069	unn	1	u nn
+048/071	un	1	u n
+048/073	un	1	u n
+048/075	un	1	u n
+048/077	un	1	u n
+048/079	un	1	u n
+048/081	un	1	u n
+048/083	NA	NA	-
+048/085	un	1	u n
+048/087	und	1	u n d
+048/089	un	1	u n
+048/091	un	1	u n
+048/093	un	1	u n
+048/095	unn	1	u nn
+048/099	un	1	u n
+048/101	un	1	u n
+048/103	unn	1	u nn
+048/105	un	1	u n
+048/107	un	1	u n
+048/109	NA	NA	-
+048/111	un	1	u n
+048/113	un	1	u n
+048/115	und	1	u n d
+048/119	und	1	u n d
+048/123	u	1	u
+048/125	und	1	u n d
+048/127	und	1	u n d
+048/129	u	1	u
+048/131	und	1	u n d
+048/133	u	1	u
+048/135	und	1	u n d
+048/137	und	1	u n d
+048/139	und	1	u n d
+048/141	und	1	u n d
+048/143	und	1	u n d
+048/145	und	1	u n d
+048/147	u	1	u
+048/153	und	1	u n d
+048/157	und	1	u n d
+048/159	und	1	u n d
+049/019	än	1	ä n
+049/021	än	1	ä n
+049/023	en	1	e n
+049/025	ein	1	ei n
+049/027	un	1	u n
+049/029	un	1	u n
+049/031	un	1	u n
+049/033	un	1	u n
+049/035	un	1	u n
+049/037	un	1	u n
+049/039	un	1	u n
+049/041	und	1	u n d
+049/043	un	1	u n
+049/045	unn	1	u nn
+049/047	un	1	u n
+049/049	un	1	u n
+049/051	un	1	u n
+049/053	un	1	u n
+049/055	un	1	u n
+049/057	un	1	u n
+049/059	un	1	u n
+049/061	un	1	u n
+049/063	un	1	u n
+049/065	un	1	u n
+049/067	un	1	u n
+049/069	un	1	u n
+049/071	un	1	u n
+049/073	un	1	u n
+049/077	un	1	u n
+049/079	un	1	u n
+049/081	unn	1	u nn
+049/083	un	1	u n
+049/085	un	1	u n
+049/087	un	1	u n
+049/089	un	1	u n
+049/091	un	1	u n
+049/093	unn	1	u nn
+049/095	un	1	u n
+049/097	un	1	u n
+049/099	un	1	u n
+049/101	unn	1	u nn
+049/103	un	1	u n
+049/105	un	1	u n
+049/107	unn	1	u nn
+049/109	un	1	u n
+049/111	un	1	u n
+049/113	un	1	u n
+049/115	un	1	u n
+049/117	und	1	u n d
+049/119	und	1	u n d
+049/121	u	1	u
+049/123	und	1	u n d
+049/125	und	1	u n d
+049/127	und	1	u n d
+049/129	un	1	u n
+049/131	un	1	u n
+049/133	u	1	u
+049/135	und	1	u n d
+049/137	und	1	u n d
+049/139	und	1	u n d
+049/141	u	1	u
+049/143	und	1	u n d
+049/145	und	1	u n d
+049/147	und	1	u n d
+049/151	und	1	u n d
+050/021	än	1	ä n
+050/023	un	1	u n
+050/025	on	1	o n
+050/027	enn	1	e nn
+050/029	onn	1	o nn
+050/031	und	1	u n d
+050/033	un	1	u n
+050/035	un	1	u n
+050/037	un	1	u n
+050/039	un	1	u n
+050/041	un	1	u n
+050/043	un	1	u n
+050/047	un	1	u n
+050/049	un	1	u n
+050/051	unn	1	u nn
+050/053	un	1	u n
+050/055	un	1	u n
+050/057	un	1	u n
+050/059	und	1	u n d
+050/061	un	1	u n
+050/063	un	1	u n
+050/065	un	1	u n
+050/067	un	1	u n
+050/069	un	1	u n
+050/071	un	1	u n
+050/073	un	1	u n
+050/075	un	1	u n
+050/077	un	1	u n
+050/079	un	1	u n
+050/081	und	1	u n d
+050/083	un	1	u n
+050/085	un	1	u n
+050/087	unn	1	u nn
+050/089	un	1	u n
+050/091	un	1	u n
+050/093	und	1	u n d
+050/095	un	1	u n
+050/097	un	1	u n
+050/099	un	1	u n
+050/101	un	1	u n
+050/103	un	1	u n
+050/105	un	1	u n
+050/107	un	1	u n
+050/109	unn	1	u nn
+050/111	un	1	u n
+050/113	un	1	u n
+050/115	un	1	u n
+050/117	un	1	u n
+050/119	hund	1	h u n d
+050/121	und	1	u n d
+050/125	un	1	u n
+050/127	und	1	u n d
+050/129	und	1	u n d
+050/131	unn	1	u nn
+050/133	und	1	u n d
+050/135	und	1	u n d
+050/137	und	1	u n d
+050/139	und	1	u n d
+050/141	und	1	u n d
+050/143	und	1	u n d
+050/145	u	1	u
+050/147	und	1	u n d
+050/149	und	1	u n d
+050/151	und	1	u n d
+050/155	und	1	u n d
+050/157	un	1	u n
+050/159	und	1	u n d
+050/161	und	1	u n d
+051/023	en	1	e n
+051/025	on	1	o n
+051/027	onn	1	o nn
+051/029	on	1	o n
+051/031	un	1	u n
+051/033	un	1	u n
+051/035	un	1	u n
+051/037	un	1	u n
+051/039	un	1	u n
+051/041	un	1	u n
+051/043	un	1	u n
+051/045	un	1	u n
+051/047	un	1	u n
+051/049	NA	NA	-
+051/051	un	1	u n
+051/053	un	1	u n
+051/055	un	1	u n
+051/057	un	1	u n
+051/059	un	1	u n
+051/061	un	1	u n
+051/063	NA	NA	-
+051/065	un	1	u n
+051/067	un	1	u n
+051/069	un	1	u n
+051/071	un	1	u n
+051/073	un	1	u n
+051/075	un	1	u n
+051/077	un	1	u n
+051/079	un	1	u n
+051/081	un	1	u n
+051/083	un	1	u n
+051/085	unn	1	u nn
+051/087	un	1	u n
+051/089	un	1	u n
+051/091	un	1	u n
+051/093	un	1	u n
+051/095	und	1	u n d
+051/097	un	1	u n
+051/099	unn	1	u nn
+051/101	un	1	u n
+051/103	un	1	u n
+051/105	un	1	u n
+051/107	un	1	u n
+051/109	un	1	u n
+051/111	un	1	u n
+051/113	und	1	u n d
+051/115	und	1	u n d
+051/117	hun	1	h u n
+051/119	und	1	u n d
+051/121	und	1	u n d
+051/123	un	1	u n
+051/125	und	1	u n d
+051/127	u	1	u
+051/129	und	1	u n d
+051/131	und	1	u n d
+051/133	und	1	u n d
+051/135	u	1	u
+051/137	und	1	u n d
+051/139	und	1	u n d
+051/141	u	1	u
+051/143	NA	NA	-
+051/145	u	1	u
+051/147	und	1	u n d
+051/149	und	1	u n d
+051/151	und	1	u n d
+051/153	und	1	u n d
+051/155	und	1	u n d
+051/157	u	1	u
+052/023	en	1	e n
+052/025	onn	1	o nn
+052/027	onn	1	o nn
+052/029	on	1	o n
+052/031	un	1	u n
+052/033	un	1	u n
+052/035	un	1	u n
+052/037	un	1	u n
+052/039	un	1	u n
+052/041	un	1	u n
+052/043	un	1	u n
+052/045	un	1	u n
+052/047	un	1	u n
+052/049	un	1	u n
+052/051	un	1	u n
+052/053	un	1	u n
+052/057	on	1	o n
+052/059	un	1	u n
+052/061	unn	1	u nn
+052/063	und	1	u n d
+052/065	un	1	u n
+052/067	un	1	u n
+052/069	un	1	u n
+052/071	un	1	u n
+052/073	un	1	u n
+052/075	un	1	u n
+052/077	unn	1	u nn
+052/079	un	1	u n
+052/081	un	1	u n
+052/083	un	1	u n
+052/085	un	1	u n
+052/087	un	1	u n
+052/089	un	1	u n
+052/091	un	1	u n
+052/093	un	1	u n
+052/095	und	1	u n d
+052/097	un	1	u n
+052/099	un	1	u n
+052/101	un	1	u n
+052/103	un	1	u n
+052/105	un	1	u n
+052/107	un	1	u n
+052/109	un	1	u n
+052/111	un	1	u n
+052/113	un	1	u n
+052/115	hund	1	h u n d
+052/117	u	1	u
+052/121	und	1	u n d
+052/123	und	1	u n d
+052/125	und	1	u n d
+052/127	u	1	u
+052/129	und	1	u n d
+052/131	und	1	u n d
+052/133	und	1	u n d
+052/135	und	1	u n d
+052/137	und	1	u n d
+052/139	und	1	u n d
+052/141	und	1	u n d
+052/143	und	1	u n d
+052/145	und	1	u n d
+052/147	und	1	u n d
+052/149	und	1	u n d
+052/151	unn	1	u nn
+052/153	und	1	u n d
+052/155	und	1	u n d
+052/157	und	1	u n d
+052/159	u	1	u
+053/023	en	1	e n
+053/025	än	1	ä n
+053/027	on	1	o n
+053/029	on	1	o n
+053/031	onn	1	o nn
+053/033	un	1	u n
+053/035	un	1	u n
+053/037	NA	NA	-
+053/039	un	1	u n
+053/041	un	1	u n
+053/043	un	1	u n
+053/045	un	1	u n
+053/047	un	1	u n
+053/049	un	1	u n
+053/051	und	1	u n d
+053/053	un	1	u n
+053/055	un	1	u n
+053/057	un	1	u n
+053/059	un	1	u n
+053/061	un	1	u n
+053/063	un	1	u n
+053/065	un	1	u n
+053/067	un	1	u n
+053/069	und	1	u n d
+053/071	un	1	u n
+053/073	un	1	u n
+053/075	un	1	u n
+053/077	un	1	u n
+053/079	un	1	u n
+053/081	un	1	u n
+053/083	unn	1	u nn
+053/085	un	1	u n
+053/087	unn	1	u nn
+053/089	un	1	u n
+053/091	un	1	u n
+053/093	un	1	u n
+053/095	un	1	u n
+053/097	un	1	u n
+053/099	un	1	u n
+053/101	un	1	u n
+053/103	unn	1	u nn
+053/105	unn	1	u nn
+053/107	un	1	u n
+053/109	un	1	u n
+053/111	un	1	u n
+053/113	und	1	u n d
+053/115	und	1	u n d
+053/121	un	1	u n
+053/123	u	1	u
+053/125	und	1	u n d
+053/127	und	1	u n d
+053/129	u	1	u
+053/131	und	1	u n d
+053/133	und	1	u n d
+053/135	un	1	u n
+053/137	un	1	u n
+053/139	und	1	u n d
+053/141	und	1	u n d
+053/143	und	1	u n d
+053/145	und	1	u n d
+053/147	und	1	u n d
+053/149	NA	NA	-
+053/151	und	1	u n d
+053/153	und	1	u n d
+053/155	unn	1	u nn
+053/157	u	1	u
+054/023	on	1	o n
+054/025	on	1	o n
+054/027	on	1	o n
+054/029	on	1	o n
+054/031	on	1	o n
+054/033	on	1	o n
+054/035	unn	1	u nn
+054/037	un	1	u n
+054/039	un	1	u n
+054/041	un	1	u n
+054/043	un	1	u n
+054/045	un	1	u n
+054/047	un	1	u n
+054/049	un	1	u n
+054/051	un	1	u n
+054/053	un	1	u n
+054/055	un	1	u n
+054/057	un	1	u n
+054/059	un	1	u n
+054/061	un	1	u n
+054/063	un	1	u n
+054/065	u	1	u
+054/067	un	1	u n
+054/069	un	1	u n
+054/071	un	1	u n
+054/073	un	1	u n
+054/075	un	1	u n
+054/077	un	1	u n
+054/079	un	1	u n
+054/081	un	1	u n
+054/083	un	1	u n
+054/085	un	1	u n
+054/087	un	1	u n
+054/089	unn	1	u nn
+054/091	unn	1	u nn
+054/093	unn	1	u nn
+054/095	un	1	u n
+054/097	un	1	u n
+054/099	un	1	u n
+054/101	un	1	u n
+054/103	un	1	u n
+054/105	un	1	u n
+054/107	un	1	u n
+054/109	un	1	u n
+054/111	un	1	u n
+054/113	un	1	u n
+054/115	und	1	u n d
+054/117	uond	1	uo n d
+054/119	und	1	u n d
+054/121	und	1	u n d
+054/123	und	1	u n d
+054/125	und	1	u n d
+054/127	und	1	u n d
+054/131	und	1	u n d
+054/133	und	1	u n d
+054/135	und	1	u n d
+054/137	und	1	u n d
+054/139	und	1	u n d
+054/141	und	1	u n d
+054/143	und	1	u n d
+054/145	und	1	u n d
+054/147	und	1	u n d
+054/149	und	1	u n d
+054/151	und	1	u n d
+054/153	u	1	u
+054/155	u	1	u
+054/157	und	1	u n d
+054/159	und	1	u n d
+054/161	und	1	u n d
+054/163	und	1	u n d
+055/023	än	1	ä n
+055/025	onn	1	o nn
+055/027	onn	1	o nn
+055/029	onn	1	o nn
+055/031	on	1	o n
+055/033	on	1	o n
+055/035	un	1	u n
+055/037	un	1	u n
+055/039	un	1	u n
+055/041	un	1	u n
+055/043	unn	1	u nn
+055/045	un	1	u n
+055/047	un	1	u n
+055/049	un	1	u n
+055/051	un	1	u n
+055/053	un	1	u n
+055/055	un	1	u n
+055/057	unn	1	u nn
+055/059	onn	1	o nn
+055/061	un	1	u n
+055/063	un	1	u n
+055/065	un	1	u n
+055/067	on	1	o n
+055/069	un	1	u n
+055/071	un	1	u n
+055/073	unn	1	u nn
+055/075	un	1	u n
+055/077	unn	1	u nn
+055/079	un	1	u n
+055/081	un	1	u n
+055/083	un	1	u n
+055/085	un	1	u n
+055/087	un	1	u n
+055/089	un	1	u n
+055/091	un	1	u n
+055/093	un	1	u n
+055/095	un	1	u n
+055/097	un	1	u n
+055/099	unn	1	u nn
+055/101	un	1	u n
+055/103	un	1	u n
+055/105	un	1	u n
+055/107	un	1	u n
+055/109	un	1	u n
+055/111	und	1	u n d
+055/113	un	1	u n
+055/115	ond	1	o n d
+055/117	un	1	u n
+055/119	un	1	u n
+055/123	und	1	u n d
+055/125	und	1	u n d
+055/127	und	1	u n d
+055/131	und	1	u n d
+055/133	und	1	u n d
+055/135	und	1	u n d
+055/137	und	1	u n d
+055/139	und	1	u n d
+055/141	und	1	u n d
+055/143	und	1	u n d
+055/145	und	1	u n d
+055/147	und	1	u n d
+055/149	und	1	u n d
+055/151	und	1	u n d
+055/153	und	1	u n d
+055/155	und	1	u n d
+055/157	und	1	u n d
+055/159	und	1	u n d
+055/161	und	1	u n d
+056/021	on	1	o n
+056/023	on	1	o n
+056/025	on	1	o n
+056/027	on	1	o n
+056/029	on	1	o n
+056/031	onn	1	o nn
+056/033	on	1	o n
+056/035	un	1	u n
+056/037	un	1	u n
+056/039	un	1	u n
+056/041	unn	1	u nn
+056/043	un	1	u n
+056/045	un	1	u n
+056/047	un	1	u n
+056/049	un	1	u n
+056/051	unn	1	u nn
+056/053	un	1	u n
+056/055	un	1	u n
+056/057	un	1	u n
+056/059	on	1	o n
+056/061	und	1	u n d
+056/063	on	1	o n
+056/065	un	1	u n
+056/067	un	1	u n
+056/069	un	1	u n
+056/071	un	1	u n
+056/073	unn	1	u nn
+056/075	un	1	u n
+056/077	unn	1	u nn
+056/079	un	1	u n
+056/081	unn	1	u nn
+056/083	u	1	u
+056/085	on	1	o n
+056/087	un	1	u n
+056/089	un	1	u n
+056/091	un	1	u n
+056/093	un	1	u n
+056/095	un	1	u n
+056/097	un	1	u n
+056/099	un	1	u n
+056/101	und	1	u n d
+056/103	und	1	u n d
+056/105	und	1	u n d
+056/107	un	1	u n
+056/109	unn	1	u nn
+056/111	un	1	u n
+056/113	und	1	u n d
+056/115	und	1	u n d
+056/117	und	1	u n d
+056/121	und	1	u n d
+056/123	und	1	u n d
+056/125	und	1	u n d
+056/127	und	1	u n d
+056/129	u	1	u
+056/131	u	1	u
+056/133	und	1	u n d
+056/135	u	1	u
+056/137	und	1	u n d
+056/139	und	1	u n d
+056/141	und	1	u n d
+056/143	und	1	u n d
+056/145	und	1	u n d
+056/147	und	1	u n d
+056/149	u	1	u
+056/151	und	1	u n d
+056/153	und	1	u n d
+056/155	und	1	u n d
+056/157	u	1	u
+056/159	und	1	u n d
+056/161	und	1	u n d
+057/021	on	1	o n
+057/023	on	1	o n
+057/025	unn	1	u nn
+057/027	on	1	o n
+057/029	un	1	u n
+057/031	onn	1	o nn
+057/033	on	1	o n
+057/035	on	1	o n
+057/037	on	1	o n
+057/039	un	1	u n
+057/041	un	1	u n
+057/043	un	1	u n
+057/045	un	1	u n
+057/047	un	1	u n
+057/049	un	1	u n
+057/051	unn	1	u nn
+057/053	un	1	u n
+057/055	un	1	u n
+057/057	onn	1	o nn
+057/059	un	1	u n
+057/061	onn	1	o nn
+057/063	on	1	o n
+057/065	un	1	u n
+057/067	un	1	u n
+057/069	on	1	o n
+057/071	un	1	u n
+057/073	un	1	u n
+057/075	u	1	u
+057/077	un	1	u n
+057/079	u	1	u
+057/081	o	1	o
+057/083	u	1	u
+057/085	on	1	o n
+057/087	un	1	u n
+057/089	un	1	u n
+057/091	un	1	u n
+057/093	un	1	u n
+057/095	unn	1	u nn
+057/097	un	1	u n
+057/099	und	1	u n d
+057/101	un	1	u n
+057/103	un	1	u n
+057/105	und	1	u n d
+057/107	un	1	u n
+057/109	un	1	u n
+057/111	un	1	u n
+057/113	un	1	u n
+057/115	und	1	u n d
+057/117	ond	1	o n d
+057/119	und	1	u n d
+057/121	und	1	u n d
+057/123	u	1	u
+057/125	und	1	u n d
+057/127	und	1	u n d
+057/129	und	1	u n d
+057/131	und	1	u n d
+057/133	u	1	u
+057/135	und	1	u n d
+057/137	un	1	u n
+057/139	u	1	u
+057/141	und	1	u n d
+057/143	u	1	u
+057/145	un	1	u n
+057/147	und	1	u n d
+057/149	und	1	u n d
+057/151	und	1	u n d
+057/153	u	1	u
+057/155	und	1	u n d
+057/157	und	1	u n d
+057/159	und	1	u n d
+057/161	und	1	u n d
+058/019	on	1	o n
+058/021	on	1	o n
+058/023	on	1	o n
+058/025	on	1	o n
+058/027	un	1	u n
+058/029	un	1	u n
+058/031	un	1	u n
+058/033	on	1	o n
+058/035	on	1	o n
+058/037	on	1	o n
+058/039	un	1	u n
+058/041	unt	1	u n t
+058/043	un	1	u n
+058/045	un	1	u n
+058/047	un	1	u n
+058/049	on	1	o n
+058/051	un	1	u n
+058/053	un	1	u n
+058/055	on	1	o n
+058/057	on	1	o n
+058/059	on	1	o n
+058/061	on	1	o n
+058/063	onn	1	o nn
+058/065	un	1	u n
+058/067	on	1	o n
+058/069	on	1	o n
+058/071	un	1	u n
+058/073	un	1	u n
+058/075	un	1	u n
+058/077	on	1	o n
+058/079	on	1	o n
+058/081	o	1	o
+058/083	on	1	o n
+058/085	on	1	o n
+058/087	un	1	u n
+058/089	un	1	u n
+058/091	un	1	u n
+058/093	un	1	u n
+058/095	un	1	u n
+058/097	unn	1	u nn
+058/099	un	1	u n
+058/101	un	1	u n
+058/103	un	1	u n
+058/105	un	1	u n
+058/107	un	1	u n
+058/109	un	1	u n
+058/111	un	1	u n
+058/113	un	1	u n
+058/115	un	1	u n
+058/117	und	1	u n d
+058/119	und	1	u n d
+058/121	und	1	u n d
+058/123	und	1	u n d
+058/125	und	1	u n d
+058/127	und	1	u n d
+058/129	und	1	u n d
+058/131	un	1	u n
+058/133	an	1	a n
+058/135	an	1	a n
+058/137	und	1	u n d
+058/139	un	1	u n
+058/141	und	1	u n d
+058/143	und	1	u n d
+058/145	und	1	u n d
+058/147	und	1	u n d
+058/149	und	1	u n d
+058/151	und	1	u n d
+058/153	und	1	u n d
+058/155	und	1	u n d
+058/157	und	1	u n d
+058/159	und	1	u n d
+059/019	en	1	e n
+059/021	on	1	o n
+059/023	on	1	o n
+059/025	on	1	o n
+059/027	un	1	u n
+059/029	un	1	u n
+059/031	un	1	u n
+059/033	unn	1	u nn
+059/035	onn	1	o nn
+059/037	un	1	u n
+059/039	on	1	o n
+059/041	un	1	u n
+059/043	onn	1	o nn
+059/045	on	1	o n
+059/047	on	1	o n
+059/049	on	1	o n
+059/051	und	1	u n d
+059/053	on	1	o n
+059/055	on	1	o n
+059/057	on	1	o n
+059/059	on	1	o n
+059/061	on	1	o n
+059/063	on	1	o n
+059/065	on	1	o n
+059/067	on	1	o n
+059/069	unn	1	u nn
+059/071	on	1	o n
+059/073	on	1	o n
+059/075	on	1	o n
+059/077	unn	1	u nn
+059/079	on	1	o n
+059/081	o	1	o
+059/083	on	1	o n
+059/085	on	1	o n
+059/087	onn	1	o nn
+059/089	un	1	u n
+059/091	un	1	u n
+059/093	un	1	u n
+059/095	un	1	u n
+059/097	un	1	u n
+059/099	unn	1	u nn
+059/101	un	1	u n
+059/103	un	1	u n
+059/105	un	1	u n
+059/107	unn	1	u nn
+059/109	un	1	u n
+059/111	und	1	u n d
+059/113	und	1	u n d
+059/115	unn	1	u nn
+059/117	un	1	u n
+059/119	und	1	u n d
+059/121	und	1	u n d
+059/123	und	1	u n d
+059/125	und	1	u n d
+059/127	und	1	u n d
+059/129	on	1	o n
+059/131	on	1	o n
+059/133	on	1	o n
+059/135	an	1	a n
+059/137	an	1	a n
+059/139	un	1	u n
+059/141	und	1	u n d
+059/143	on	1	o n
+059/145	und	1	u n d
+059/147	und	1	u n d
+059/149	un	1	u n
+059/151	und	1	u n d
+059/153	und	1	u n d
+059/155	und	1	u n d
+059/157	und	1	u n d
+059/159	und	1	u n d
+059/161	und	1	u n d
+059/165	u	1	u
+059/169	und	1	u n d
+060/021	on	1	o n
+060/023	on	1	o n
+060/025	on	1	o n
+060/027	on	1	o n
+060/029	on	1	o n
+060/031	on	1	o n
+060/033	on	1	o n
+060/035	on	1	o n
+060/037	on	1	o n
+060/039	on	1	o n
+060/041	on	1	o n
+060/043	und	1	u n d
+060/045	un	1	u n
+060/047	on	1	o n
+060/049	unn	1	u nn
+060/051	onn	1	o nn
+060/053	en	1	e n
+060/055	onn	1	o nn
+060/057	eon	1	eo n
+060/059	ö	1	ö
+060/061	enn	1	e nn
+060/063	on	1	o n
+060/065	onn	1	o nn
+060/067	onn	1	o nn
+060/069	on	1	o n
+060/071	un	1	u n
+060/073	unn	1	u nn
+060/075	un	1	u n
+060/077	on	1	o n
+060/079	un	1	u n
+060/081	onn	1	o nn
+060/083	unn	1	u nn
+060/085	on	1	o n
+060/087	un	1	u n
+060/089	un	1	u n
+060/091	un	1	u n
+060/093	unn	1	u nn
+060/095	un	1	u n
+060/097	un	1	u n
+060/099	un	1	u n
+060/101	un	1	u n
+060/103	un	1	u n
+060/105	un	1	u n
+060/107	unn	1	u nn
+060/109	unn	1	u nn
+060/111	un	1	u n
+060/113	un	1	u n
+060/115	unn	1	u nn
+060/117	NA	NA	-
+060/119	un	1	u n
+060/121	und	1	u n d
+060/123	u	1	u
+060/125	und	1	u n d
+060/127	und	1	u n d
+060/129	on	1	o n
+060/131	onn	1	o nn
+060/135	an	1	a n
+060/137	und	1	u n d
+060/139	und	1	u n d
+060/141	und	1	u n d
+060/143	und	1	u n d
+060/145	und	1	u n d
+060/147	und	1	u n d
+060/149	und	1	u n d
+060/151	und	1	u n d
+060/153	u	1	u
+060/155	und	1	u n d
+060/157	und	1	u n d
+060/159	und	1	u n d
+060/163	und	1	u n d
+060/165	u	1	u
+061/021	un	1	u n
+061/023	on	1	o n
+061/025	on	1	o n
+061/027	on	1	o n
+061/029	on	1	o n
+061/031	on	1	o n
+061/033	on	1	o n
+061/035	on	1	o n
+061/037	on	1	o n
+061/039	on	1	o n
+061/041	onn	1	o nn
+061/043	onn	1	o nn
+061/045	en	1	e n
+061/047	en	1	e n
+061/049	onn	1	o nn
+061/051	un	1	u n
+061/053	on	1	o n
+061/055	onn	1	o nn
+061/057	ön	1	ö n
+061/059	o	1	o
+061/061	o	1	o
+061/063	on	1	o n
+061/065	onn	1	o nn
+061/067	onn	1	o nn
+061/069	onn	1	o nn
+061/071	un	1	u n
+061/073	unn	1	u nn
+061/075	un	1	u n
+061/077	on	1	o n
+061/079	onn	1	o nn
+061/081	on	1	o n
+061/083	on	1	o n
+061/085	un	1	u n
+061/087	unn	1	u nn
+061/089	un	1	u n
+061/091	un	1	u n
+061/093	un	1	u n
+061/095	un	1	u n
+061/097	un	1	u n
+061/099	un	1	u n
+061/101	un	1	u n
+061/103	unn	1	u nn
+061/105	unn	1	u nn
+061/107	un	1	u n
+061/109	un	1	u n
+061/111	und	1	u n d
+061/113	un	1	u n
+061/115	und	1	u n d
+061/117	un	1	u n
+061/119	und	1	u n d
+061/121	und	1	u n d
+061/123	und	1	u n d
+061/125	und	1	u n d
+061/127	und	1	u n d
+061/129	unt	1	u n t
+061/131	und	1	u n d
+061/133	on	1	o n
+061/137	und	1	u n d
+061/139	un	1	u n
+061/141	und	1	u n d
+061/143	und	1	u n d
+061/145	und	1	u n d
+061/147	und	1	u n d
+061/149	und	1	u n d
+061/151	und	1	u n d
+061/153	und	1	u n d
+061/155	und	1	u n d
+061/157	und	1	u n d
+061/159	und	1	u n d
+061/161	un	1	u n
+061/165	und	1	u n d
+062/021	un	1	u n
+062/023	on	1	o n
+062/025	on	1	o n
+062/027	on	1	o n
+062/029	un	1	u n
+062/031	on	1	o n
+062/033	onn	1	o nn
+062/035	on	1	o n
+062/037	on	1	o n
+062/039	onn	1	o nn
+062/041	ön	1	ö n
+062/043	en	1	e n
+062/045	önn	1	ö nn
+062/047	en	1	e n
+062/049	en	1	e n
+062/051	ean	1	ea n
+062/053	önn	1	ö nn
+062/055	en	1	e n
+062/057	eärn	1	eä r n
+062/059	onn	1	o nn
+062/061	o	1	o
+062/063	on	1	o n
+062/065	on	1	o n
+062/067	oh	1	oh
+062/069	un	1	u n
+062/071	un	1	u n
+062/073	u	1	u
+062/075	on	1	o n
+062/077	onn	1	o nn
+062/079	un	1	u n
+062/081	on	1	o n
+062/083	on	1	o n
+062/085	on	1	o n
+062/087	un	1	u n
+062/089	on	1	o n
+062/091	un	1	u n
+062/093	unn	1	u nn
+062/095	un	1	u n
+062/097	un	1	u n
+062/099	un	1	u n
+062/101	un	1	u n
+062/103	onn	1	o nn
+062/105	un	1	u n
+062/107	un	1	u n
+062/109	un	1	u n
+062/111	un	1	u n
+062/113	un	1	u n
+062/115	unn	1	u nn
+062/117	un	1	u n
+062/119	un	1	u n
+062/121	un	1	u n
+062/123	und	1	u n d
+062/125	und	1	u n d
+062/127	on	1	o n
+062/129	und	1	u n d
+062/131	u	1	u
+062/133	on	1	o n
+062/135	on	1	o n
+062/137	on	1	o n
+062/139	on	1	o n
+062/141	und	1	u n d
+062/143	und	1	u n d
+062/145	un	1	u n
+062/147	u	1	u
+062/149	und	1	u n d
+062/151	und	1	u n d
+062/153	und	1	u n d
+062/155	und	1	u n d
+062/157	und	1	u n d
+062/159	und	1	u n d
+062/161	und	1	u n d
+063/021	än	1	ä n
+063/023	on	1	o n
+063/025	on	1	o n
+063/027	on	1	o n
+063/029	on	1	o n
+063/031	onn	1	o nn
+063/033	on	1	o n
+063/035	onn	1	o nn
+063/037	on	1	o n
+063/039	onn	1	o nn
+063/041	onn	1	o nn
+063/043	un	1	u n
+063/045	önn	1	ö nn
+063/047	enn	1	e nn
+063/049	unn	1	u nn
+063/051	ean	1	ea n
+063/053	en	1	e n
+063/055	eann	1	ea nn
+063/057	ern	1	e r n
+063/059	unn	1	u nn
+063/061	NA	NA	-
+063/063	onn	1	o nn
+063/065	onn	1	o nn
+063/067	on	1	o n
+063/069	on	1	o n
+063/071	un	1	u n
+063/073	on	1	o n
+063/075	on	1	o n
+063/077	o	1	o
+063/079	on	1	o n
+063/081	on	1	o n
+063/083	on	1	o n
+063/085	un	1	u n
+063/087	un	1	u n
+063/089	un	1	u n
+063/091	un	1	u n
+063/093	unn	1	u nn
+063/095	und	1	u n d
+063/097	unn	1	u nn
+063/099	un	1	u n
+063/101	un	1	u n
+063/103	un	1	u n
+063/105	unn	1	u nn
+063/107	un	1	u n
+063/109	un	1	u n
+063/111	un	1	u n
+063/113	un	1	u n
+063/115	un	1	u n
+063/117	un	1	u n
+063/119	und	1	u n d
+063/121	u	1	u
+063/123	und	1	u n d
+063/125	u	1	u
+063/127	u	1	u
+063/135	on	1	o n
+063/137	on	1	o n
+063/139	on	1	o n
+063/141	on	1	o n
+063/143	on	1	o n
+063/145	on	1	o n
+063/147	und	1	u n d
+063/149	u	1	u
+063/151	und	1	u n d
+063/153	und	1	u n d
+063/155	und	1	u n d
+063/157	und	1	u n d
+063/159	und	1	u n d
+063/161	ond	1	o n d
+063/163	und	1	u n d
+063/165	und	1	u n d
+064/023	on	1	o n
+064/025	on	1	o n
+064/027	on	1	o n
+064/029	on	1	o n
+064/031	on	1	o n
+064/033	un	1	u n
+064/035	on	1	o n
+064/037	und	1	u n d
+064/039	on	1	o n
+064/041	und	1	u n d
+064/043	un	1	u n
+064/045	en	1	e n
+064/047	un	1	u n
+064/049	irn	1	i r n
+064/051	en	1	e n
+064/053	ean	1	ea n
+064/055	ean	1	ea n
+064/057	eann	1	ea nn
+064/059	en	1	e n
+064/061	on	1	o n
+064/063	on	1	o n
+064/065	on	1	o n
+064/067	ohn	1	oh n
+064/069	oh	1	oh
+064/071	on	1	o n
+064/073	on	1	o n
+064/075	onn	1	o nn
+064/077	o	1	o
+064/079	un	1	u n
+064/081	an	1	a n
+064/083	un	1	u n
+064/085	unn	1	u nn
+064/087	un	1	u n
+064/089	un	1	u n
+064/091	un	1	u n
+064/093	un	1	u n
+064/095	und	1	u n d
+064/097	un	1	u n
+064/099	un	1	u n
+064/101	un	1	u n
+064/103	unn	1	u nn
+064/105	un	1	u n
+064/107	un	1	u n
+064/109	und	1	u n d
+064/111	un	1	u n
+064/113	und	1	u n d
+064/115	un	1	u n
+064/117	und	1	u n d
+064/119	und	1	u n d
+064/121	und	1	u n d
+064/123	und	1	u n d
+064/125	und	1	u n d
+064/127	on	1	o n
+064/135	an	1	a n
+064/137	ann	1	a nn
+064/139	un	1	u n
+064/141	oon	1	oo n
+064/143	NA	NA	-
+064/145	on	1	o n
+064/147	on	1	o n
+064/149	und	1	u n d
+064/151	und	1	u n d
+064/153	und	1	u n d
+064/155	u	1	u
+064/157	und	1	u n d
+064/159	und	1	u n d
+065/021	on	1	o n
+065/023	on	1	o n
+065/025	on	1	o n
+065/027	on	1	o n
+065/029	ond	1	o n d
+065/031	on	1	o n
+065/033	on	1	o n
+065/035	on	1	o n
+065/037	onn	1	o nn
+065/039	on	1	o n
+065/041	on	1	o n
+065/043	on	1	o n
+065/045	u	1	u
+065/047	enn	1	e nn
+065/049	eann	1	ea nn
+065/051	en	1	e n
+065/053	en	1	e n
+065/055	NA	NA	-
+065/057	ern	1	e r n
+065/059	onn	1	o nn
+065/061	on	1	o n
+065/063	o	1	o
+065/065	umd	1	u m d
+065/067	on	1	o n
+065/069	on	1	o n
+065/071	u	1	u
+065/073	o	1	o
+065/075	on	1	o n
+065/077	on	1	o n
+065/079	un	1	u n
+065/081	un	1	u n
+065/083	un	1	u n
+065/085	un	1	u n
+065/087	unn	1	u nn
+065/089	un	1	u n
+065/091	und	1	u n d
+065/093	un	1	u n
+065/095	un	1	u n
+065/097	und	1	u n d
+065/101	un	1	u n
+065/103	unn	1	u nn
+065/105	on	1	o n
+065/107	un	1	u n
+065/109	unn	1	u nn
+065/111	un	1	u n
+065/113	un	1	u n
+065/115	und	1	u n d
+065/121	und	1	u n d
+065/123	und	1	u n d
+065/137	oon	1	oo n
+065/139	an	1	a n
+065/143	on	1	o n
+065/145	on	1	o n
+065/147	und	1	u n d
+065/149	onn	1	o nn
+065/151	on	1	o n
+065/153	ond	1	o n d
+065/155	und	1	u n d
+065/157	und	1	u n d
+065/159	und	1	u n d
+066/021	u	1	u
+066/023	on	1	o n
+066/025	an	1	a n
+066/027	onn	1	o nn
+066/029	un	1	u n
+066/031	un	1	u n
+066/033	unn	1	u nn
+066/035	on	1	o n
+066/037	onn	1	o nn
+066/039	onn	1	o nn
+066/041	unn	1	u nn
+066/043	un	1	u n
+066/045	un	1	u n
+066/047	en	1	e n
+066/049	en	1	e n
+066/051	oand	1	oa n d
+066/053	un	1	u n
+066/055	ean	1	ea n
+066/057	ean	1	ea n
+066/059	onn	1	o nn
+066/061	on	1	o n
+066/063	on	1	o n
+066/065	o	1	o
+066/067	un	1	u n
+066/069	onn	1	o nn
+066/071	un	1	u n
+066/073	un	1	u n
+066/075	on	1	o n
+066/077	un	1	u n
+066/079	un	1	u n
+066/081	un	1	u n
+066/083	un	1	u n
+066/085	un	1	u n
+066/087	und	1	u n d
+066/089	un	1	u n
+066/091	und	1	u n d
+066/093	und	1	u n d
+066/095	u	1	u
+066/097	unn	1	u nn
+066/099	un	1	u n
+066/101	on	1	o n
+066/103	un	1	u n
+066/105	un	1	u n
+066/107	und	1	u n d
+066/109	und	1	u n d
+066/111	un	1	u n
+066/113	und	1	u n d
+066/121	und	1	u n d
+066/139	an	1	a n
+066/143	on	1	o n
+066/145	und	1	u n d
+066/147	on	1	o n
+066/149	on	1	o n
+066/151	oaann	1	oaa nn
+066/153	on	1	o n
+066/155	on	1	o n
+066/157	und	1	u n d
+066/159	und	1	u n d
+066/161	und	1	u n d
+066/163	un	1	u n
+067/021	on	1	o n
+067/023	on	1	o n
+067/025	on	1	o n
+067/027	u	1	u
+067/029	un	1	u n
+067/031	ann	1	a nn
+067/033	on	1	o n
+067/035	on	1	o n
+067/037	on	1	o n
+067/039	un	1	u n
+067/041	unn	1	u nn
+067/043	un	1	u n
+067/045	NA	NA	-
+067/047	unn	1	u nn
+067/049	en	1	e n
+067/051	un	1	u n
+067/053	uen	1	ue n
+067/055	ean	1	ea n
+067/057	ean	1	ea n
+067/059	inn	1	i nn
+067/061	on	1	o n
+067/063	on	1	o n
+067/065	on	1	o n
+067/067	un	1	u n
+067/069	und	1	u n d
+067/071	u	1	u
+067/073	und	1	u n d
+067/075	un	1	u n
+067/077	un	1	u n
+067/079	und	1	u n d
+067/081	unn	1	u nn
+067/083	un	1	u n
+067/085	und	1	u n d
+067/087	u	1	u
+067/089	und	1	u n d
+067/091	und	1	u n d
+067/093	u	1	u
+067/095	u	1	u
+067/097	u	1	u
+067/099	u	1	u
+067/101	u	1	u
+067/103	u	1	u
+067/105	o	1	o
+067/107	un	1	u n
+067/109	und	1	u n d
+067/111	und	1	u n d
+067/113	un	1	u n
+067/143	on	1	o n
+067/145	on	1	o n
+067/147	un	1	u n
+067/149	onn	1	o nn
+067/151	on	1	o n
+067/153	oan	1	oa n
+067/155	und	1	u n d
+067/157	ond	1	o n d
+067/159	ond	1	o n d
+067/161	uond	1	uo n d
+067/163	und	1	u n d
+067/165	und	1	u n d
+067/177	u	1	u
+068/021	on	1	o n
+068/023	onn	1	o nn
+068/025	en	1	e n
+068/027	onn	1	o nn
+068/029	onn	1	o nn
+068/031	un	1	u n
+068/033	unn	1	u nn
+068/035	un	1	u n
+068/037	un	1	u n
+068/039	unn	1	u nn
+068/041	unn	1	u nn
+068/043	un	1	u n
+068/045	unn	1	u nn
+068/047	enn	1	e nn
+068/049	in	1	i n
+068/051	ian	1	ia n
+068/053	un	1	u n
+068/055	ean	1	ea n
+068/057	ean	1	ea n
+068/059	un	1	u n
+068/061	on	1	o n
+068/063	un	1	u n
+068/065	on	1	o n
+068/067	un	1	u n
+068/069	unn	1	u nn
+068/071	un	1	u n
+068/073	and	1	a n d
+068/075	un	1	u n
+068/077	u	1	u
+068/079	un	1	u n
+068/081	un	1	u n
+068/083	und	1	u n d
+068/085	unn	1	u nn
+068/087	und	1	u n d
+068/089	und	1	u n d
+068/091	u	1	u
+068/093	u	1	u
+068/095	und	1	u n d
+068/097	u	1	u
+068/099	u	1	u
+068/101	u	1	u
+068/103	o	1	o
+068/105	o	1	o
+068/107	u	1	u
+068/109	und	1	u n d
+068/111	un	1	u n
+068/145	on	1	o n
+068/147	oon	1	oo n
+068/149	on	1	o n
+068/151	on	1	o n
+068/153	oan	1	oa n
+068/155	oud	1	ou d
+068/157	ound	1	ou n d
+068/159	uond	1	uo n d
+068/161	ond	1	o n d
+068/165	ond	1	o n d
+069/019	on	1	o n
+069/023	an	1	a n
+069/025	u	1	u
+069/027	un	1	u n
+069/029	u	1	u
+069/031	unn	1	u nn
+069/033	un	1	u n
+069/035	un	1	u n
+069/037	unn	1	u nn
+069/039	on	1	o n
+069/041	un	1	u n
+069/043	on	1	o n
+069/045	ann	1	a nn
+069/047	unn	1	u nn
+069/049	und	1	u n d
+069/051	unn	1	u nn
+069/053	un	1	u n
+069/055	und	1	u n d
+069/057	un	1	u n
+069/059	an	1	a n
+069/061	un	1	u n
+069/063	un	1	u n
+069/065	und	1	u n d
+069/067	un	1	u n
+069/069	un	1	u n
+069/071	un	1	u n
+069/073	un	1	u n
+069/075	und	1	u n d
+069/077	un	1	u n
+069/079	und	1	u n d
+069/081	und	1	u n d
+069/083	und	1	u n d
+069/085	u	1	u
+069/087	u	1	u
+069/089	und	1	u n d
+069/091	und	1	u n d
+069/093	und	1	u n d
+069/095	u	1	u
+069/097	u	1	u
+069/099	u	1	u
+069/101	u	1	u
+069/103	u	1	u
+069/105	o	1	o
+069/107	und	1	u n d
+069/109	und	1	u n d
+069/111	und	1	u n d
+069/147	oon	1	oo n
+069/149	NA	NA	-
+069/151	on	1	o n
+069/153	on	1	o n
+069/157	und	1	u n d
+069/159	ound	1	ou n d
+069/161	ont	1	o n t
+069/163	ond	1	o n d
+069/165	und	1	u n d
+070/019	an	1	a n
+070/023	on	1	o n
+070/025	un	1	u n
+070/027	en	1	e n
+070/029	u	1	u
+070/031	un	1	u n
+070/033	on	1	o n
+070/035	en	1	e n
+070/037	on	1	o n
+070/039	unn	1	u nn
+070/041	un	1	u n
+070/043	un	1	u n
+070/045	un	1	u n
+070/047	un	1	u n
+070/049	un	1	u n
+070/051	un	1	u n
+070/053	un	1	u n
+070/055	unn	1	u nn
+070/057	und	1	u n d
+070/059	un	1	u n
+070/061	NA	NA	-
+070/063	un	1	u n
+070/065	und	1	u n d
+070/067	un	1	u n
+070/069	u	1	u
+070/071	und	1	u n d
+070/073	und	1	u n d
+070/075	un	1	u n
+070/077	und	1	u n d
+070/079	und	1	u n d
+070/081	und	1	u n d
+070/083	und	1	u n d
+070/085	un	1	u n
+070/087	und	1	u n d
+070/089	und	1	u n d
+070/091	und	1	u n d
+070/093	und	1	u n d
+070/095	u	1	u
+070/097	u	1	u
+070/099	u	1	u
+070/101	u	1	u
+070/103	o	1	o
+070/105	u	1	u
+070/107	u	1	u
+070/109	und	1	u n d
+070/111	und	1	u n d
+070/145	un	1	u n
+070/147	on	1	o n
+070/149	on	1	o n
+070/151	on	1	o n
+070/153	on	1	o n
+070/155	un	1	u n
+070/157	onnd	1	o nn d
+070/159	ound	1	ou n d
+070/161	ond	1	o n d
+070/163	ond	1	o n d
+070/165	ond	1	o n d
+071/017	an	1	a n
+071/019	ann	1	a nn
+071/021	aan	1	aa n
+071/023	an	1	a n
+071/025	ann	1	a nn
+071/027	enn	1	e nn
+071/029	un	1	u n
+071/031	on	1	o n
+071/033	on	1	o n
+071/035	unn	1	u nn
+071/037	un	1	u n
+071/039	unn	1	u nn
+071/041	un	1	u n
+071/043	un	1	u n
+071/045	unn	1	u nn
+071/047	un	1	u n
+071/049	unn	1	u nn
+071/051	un	1	u n
+071/053	un	1	u n
+071/055	un	1	u n
+071/057	un	1	u n
+071/059	un	1	u n
+071/063	un	1	u n
+071/065	un	1	u n
+071/067	und	1	u n d
+071/069	un	1	u n
+071/071	und	1	u n d
+071/073	und	1	u n d
+071/075	und	1	u n d
+071/077	und	1	u n d
+071/079	un	1	u n
+071/081	u	1	u
+071/083	u	1	u
+071/085	und	1	u n d
+071/087	und	1	u n d
+071/089	und	1	u n d
+071/091	u	1	u
+071/093	u	1	u
+071/095	und	1	u n d
+071/097	und	1	u n d
+071/099	u	1	u
+071/101	u	1	u
+071/103	u	1	u
+071/105	und	1	u n d
+071/145	un	1	u n
+071/147	un	1	u n
+071/149	oun	1	ou n
+071/151	on	1	o n
+071/153	oan	1	oa n
+071/155	und	1	u n d
+071/157	und	1	u n d
+071/159	NA	NA	-
+071/161	und	1	u n d
+071/163	und	1	u n d
+071/177	an	1	a n
+071/179	und	1	u n d
+072/017	an	1	a n
+072/019	an	1	a n
+072/021	an	1	a n
+072/023	an	1	a n
+072/025	ann	1	a nn
+072/027	on	1	o n
+072/029	unn	1	u nn
+072/031	onn	1	o nn
+072/033	on	1	o n
+072/035	on	1	o n
+072/037	un	1	u n
+072/039	un	1	u n
+072/041	un	1	u n
+072/043	un	1	u n
+072/045	unn	1	u nn
+072/047	unn	1	u nn
+072/049	unn	1	u nn
+072/051	unn	1	u nn
+072/053	unn	1	u nn
+072/055	unn	1	u nn
+072/057	un	1	u n
+072/059	un	1	u n
+072/061	un	1	u n
+072/063	un	1	u n
+072/065	un	1	u n
+072/067	un	1	u n
+072/069	unn	1	u nn
+072/071	un	1	u n
+072/073	und	1	u n d
+072/075	u	1	u
+072/077	und	1	u n d
+072/079	NA	NA	-
+072/081	NA	NA	-
+072/083	und	1	u n d
+072/085	und	1	u n d
+072/087	und	1	u n d
+072/089	und	1	u n d
+072/091	u	1	u
+072/093	und	1	u n d
+072/095	und	1	u n d
+072/097	und	1	u n d
+072/099	u	1	u
+072/101	u	1	u
+072/103	und	1	u n d
+072/105	und	1	u n d
+072/107	und	1	u n d
+072/145	un	1	u n
+072/147	un	1	u n
+072/149	un	1	u n
+072/151	und	1	u n d
+072/153	und	1	u n d
+072/155	und	1	u n d
+072/157	un	1	u n
+072/159	ond	1	o n d
+072/161	oand	1	oa n d
+072/177	an	1	a n
+072/179	un	1	u n
+072/181	und	1	u n d
+073/017	an	1	a n
+073/019	an	1	a n
+073/021	an	1	a n
+073/023	an	1	a n
+073/025	an	1	a n
+073/027	on	1	o n
+073/029	unn	1	u nn
+073/031	un	1	u n
+073/033	on	1	o n
+073/035	un	1	u n
+073/037	unn	1	u nn
+073/039	unn	1	u nn
+073/041	un	1	u n
+073/043	unn	1	u nn
+073/045	unn	1	u nn
+073/047	un	1	u n
+073/049	un	1	u n
+073/051	un	1	u n
+073/053	un	1	u n
+073/055	unn	1	u nn
+073/057	unn	1	u nn
+073/059	unn	1	u nn
+073/061	un	1	u n
+073/063	un	1	u n
+073/065	un	1	u n
+073/067	un	1	u n
+073/069	un	1	u n
+073/071	und	1	u n d
+073/073	on	1	o n
+073/075	und	1	u n d
+073/077	und	1	u n d
+073/079	und	1	u n d
+073/081	und	1	u n d
+073/083	und	1	u n d
+073/085	und	1	u n d
+073/087	und	1	u n d
+073/089	und	1	u n d
+073/091	und	1	u n d
+073/093	und	1	u n d
+073/095	und	1	u n d
+073/097	und	1	u n d
+073/099	u	1	u
+073/101	und	1	u n d
+073/103	und	1	u n d
+073/105	und	1	u n d
+073/107	und	1	u n d
+073/145	und	1	u n d
+073/147	un	1	u n
+073/149	un	1	u n
+073/151	un	1	u n
+073/153	un	1	u n
+073/155	un	1	u n
+073/157	NA	NA	-
+073/159	ount	1	ou n t
+073/161	ond	1	o n d
+073/163	on	1	o n
+073/165	un	1	u n
+073/175	an	1	a n
+073/177	an	1	a n
+074/019	ann	1	a nn
+074/021	ann	1	a nn
+074/023	an	1	a n
+074/025	an	1	a n
+074/027	un	1	u n
+074/029	on	1	o n
+074/031	on	1	o n
+074/033	onn	1	o nn
+074/035	un	1	u n
+074/037	un	1	u n
+074/039	un	1	u n
+074/041	un	1	u n
+074/043	un	1	u n
+074/045	unn	1	u nn
+074/047	unn	1	u nn
+074/049	un	1	u n
+074/051	unn	1	u nn
+074/053	un	1	u n
+074/055	un	1	u n
+074/057	unn	1	u nn
+074/059	unn	1	u nn
+074/061	unn	1	u nn
+074/063	un	1	u n
+074/065	un	1	u n
+074/067	un	1	u n
+074/069	und	1	u n d
+074/071	und	1	u n d
+074/073	und	1	u n d
+074/075	und	1	u n d
+074/077	und	1	u n d
+074/079	und	1	u n d
+074/081	und	1	u n d
+074/083	und	1	u n d
+074/085	und	1	u n d
+074/087	und	1	u n d
+074/089	u	1	u
+074/091	und	1	u n d
+074/093	und	1	u n d
+074/095	u	1	u
+074/097	und	1	u n d
+074/099	und	1	u n d
+074/101	u	1	u
+074/103	u	1	u
+074/105	und	1	u n d
+074/107	und	1	u n d
+074/109	und	1	u n d
+074/145	un	1	u n
+074/147	un	1	u n
+074/149	un	1	u n
+074/153	un	1	u n
+074/155	und	1	u n d
+074/157	und	1	u n d
+074/159	uind	1	ui n d
+074/161	on	1	o n
+074/163	oan	1	oa n
+074/165	un	1	u n
+075/019	an	1	a n
+075/021	an	1	a n
+075/023	an	1	a n
+075/025	an	1	a n
+075/027	onn	1	o nn
+075/029	on	1	o n
+075/031	on	1	o n
+075/033	un	1	u n
+075/035	un	1	u n
+075/037	un	1	u n
+075/039	un	1	u n
+075/041	unn	1	u nn
+075/043	und	1	u n d
+075/045	un	1	u n
+075/047	unn	1	u nn
+075/049	unn	1	u nn
+075/051	un	1	u n
+075/053	un	1	u n
+075/055	unn	1	u nn
+075/057	unn	1	u nn
+075/059	un	1	u n
+075/061	un	1	u n
+075/063	unn	1	u nn
+075/065	un	1	u n
+075/067	und	1	u n d
+075/069	und	1	u n d
+075/071	und	1	u n d
+075/073	und	1	u n d
+075/075	und	1	u n d
+075/077	und	1	u n d
+075/079	und	1	u n d
+075/081	und	1	u n d
+075/083	und	1	u n d
+075/085	und	1	u n d
+075/087	u	1	u
+075/089	und	1	u n d
+075/091	und	1	u n d
+075/093	und	1	u n d
+075/095	und	1	u n d
+075/097	und	1	u n d
+075/099	NA	NA	-
+075/101	u	1	u
+075/103	und	1	u n d
+075/105	und	1	u n d
+075/107	und	1	u n d
+075/135	u	1	u
+075/145	und	1	u n d
+075/147	und	1	u n d
+075/149	un	1	u n
+075/155	NA	NA	-
+075/157	un	1	u n
+075/159	un	1	u n
+075/161	on	1	o n
+075/163	oan	1	oa n
+075/165	NA	NA	-
+076/019	a	1	a
+076/021	an	1	a n
+076/023	an	1	a n
+076/025	ann	1	a nn
+076/027	on	1	o n
+076/029	on	1	o n
+076/033	un	1	u n
+076/035	un	1	u n
+076/037	unn	1	u nn
+076/039	un	1	u n
+076/041	unn	1	u nn
+076/043	unn	1	u nn
+076/045	unn	1	u nn
+076/047	unn	1	u nn
+076/049	unn	1	u nn
+076/051	unn	1	u nn
+076/053	un	1	u n
+076/055	un	1	u n
+076/057	un	1	u n
+076/059	un	1	u n
+076/061	unn	1	u nn
+076/063	unn	1	u nn
+076/065	un	1	u n
+076/067	und	1	u n d
+076/069	und	1	u n d
+076/071	und	1	u n d
+076/073	und	1	u n d
+076/075	und	1	u n d
+076/077	und	1	u n d
+076/079	und	1	u n d
+076/081	und	1	u n d
+076/083	und	1	u n d
+076/085	und	1	u n d
+076/087	und	1	u n d
+076/089	und	1	u n d
+076/091	und	1	u n d
+076/093	und	1	u n d
+076/095	u	1	u
+076/097	u	1	u
+076/099	u	1	u
+076/101	und	1	u n d
+076/103	und	1	u n d
+076/135	und	1	u n d
+076/137	u	1	u
+076/149	un	1	u n
+076/151	un	1	u n
+076/155	und	1	u n d
+076/161	on	1	o n
+076/163	on	1	o n
+076/165	on	1	o n
+077/019	an	1	a n
+077/021	an	1	a n
+077/023	an	1	a n
+077/025	a	1	a
+077/027	on	1	o n
+077/029	on	1	o n
+077/031	ond	1	o n d
+077/033	un	1	u n
+077/035	unn	1	u nn
+077/037	unn	1	u nn
+077/039	un	1	u n
+077/041	unn	1	u nn
+077/043	unn	1	u nn
+077/047	un	1	u n
+077/049	und	1	u n d
+077/051	unn	1	u nn
+077/053	unn	1	u nn
+077/055	unn	1	u nn
+077/057	un	1	u n
+077/059	un	1	u n
+077/061	un	1	u n
+077/063	un	1	u n
+077/065	und	1	u n d
+077/067	u	1	u
+077/069	unn	1	u nn
+077/071	u	1	u
+077/073	un	1	u n
+077/075	und	1	u n d
+077/077	und	1	u n d
+077/079	und	1	u n d
+077/081	und	1	u n d
+077/083	und	1	u n d
+077/085	u	1	u
+077/087	und	1	u n d
+077/089	und	1	u n d
+077/091	und	1	u n d
+077/093	und	1	u n d
+077/095	und	1	u n d
+077/097	u	1	u
+077/099	u	1	u
+077/101	und	1	u n d
+077/103	und	1	u n d
+077/135	und	1	u n d
+077/137	und	1	u n d
+078/021	an	1	a n
+078/023	an	1	a n
+078/025	an	1	a n
+078/027	on	1	o n
+078/029	onn	1	o nn
+078/031	un	1	u n
+078/033	unn	1	u nn
+078/035	unn	1	u nn
+078/037	unn	1	u nn
+078/039	unn	1	u nn
+078/041	unn	1	u nn
+078/045	unn	1	u nn
+078/047	unn	1	u nn
+078/049	unn	1	u nn
+078/051	unn	1	u nn
+078/053	unn	1	u nn
+078/055	un	1	u n
+078/057	un	1	u n
+078/059	unn	1	u nn
+078/061	un	1	u n
+078/063	un	1	u n
+078/065	un	1	u n
+078/067	und	1	u n d
+078/069	u	1	u
+078/071	und	1	u n d
+078/073	und	1	u n d
+078/075	unn	1	u nn
+078/077	und	1	u n d
+078/079	u	1	u
+078/081	und	1	u n d
+078/083	und	1	u n d
+078/085	und	1	u n d
+078/087	und	1	u n d
+078/089	und	1	u n d
+078/091	u	1	u
+078/093	u	1	u
+078/095	und	1	u n d
+078/097	und	1	u n d
+078/099	und	1	u n d
+078/101	und	1	u n d
+078/103	und	1	u n d
+078/105	und	1	u n d
+078/135	und	1	u n d
+078/193	unt	1	u n t
+079/021	on	1	o n
+079/023	an	1	a n
+079/025	an	1	a n
+079/027	on	1	o n
+079/029	onn	1	o nn
+079/031	unn	1	u nn
+079/033	un	1	u n
+079/035	un	1	u n
+079/037	un	1	u n
+079/039	un	1	u n
+079/043	unn	1	u nn
+079/045	und	1	u n d
+079/047	unn	1	u nn
+079/049	unn	1	u nn
+079/051	unn	1	u nn
+079/053	un	1	u n
+079/055	unn	1	u nn
+079/057	un	1	u n
+079/059	un	1	u n
+079/061	un	1	u n
+079/063	u	1	u
+079/065	u	1	u
+079/067	und	1	u n d
+079/069	u	1	u
+079/071	und	1	u n d
+079/073	und	1	u n d
+079/075	und	1	u n d
+079/077	und	1	u n d
+079/079	und	1	u n d
+079/081	und	1	u n d
+079/083	und	1	u n d
+079/085	und	1	u n d
+079/087	und	1	u n d
+079/089	und	1	u n d
+079/091	u	1	u
+079/093	und	1	u n d
+079/095	und	1	u n d
+079/097	und	1	u n d
+079/099	u	1	u
+079/101	und	1	u n d
+079/103	und	1	u n d
+079/105	und	1	u n d
+079/107	und	1	u n d
+079/133	und	1	u n d
+079/135	und	1	u n d
+079/193	unt	1	u n t
+079/195	u	1	u
+079/197	unt	1	u n t
+080/025	on	1	o n
+080/027	un	1	u n
+080/029	un	1	u n
+080/031	un	1	u n
+080/033	unn	1	u nn
+080/035	unn	1	u nn
+080/037	un	1	u n
+080/039	un	1	u n
+080/041	un	1	u n
+080/043	unn	1	u nn
+080/045	unn	1	u nn
+080/047	unn	1	u nn
+080/049	unn	1	u nn
+080/051	und	1	u n d
+080/053	unn	1	u nn
+080/055	un	1	u n
+080/057	unn	1	u nn
+080/059	unn	1	u nn
+080/061	und	1	u n d
+080/063	u	1	u
+080/065	und	1	u n d
+080/067	und	1	u n d
+080/069	und	1	u n d
+080/071	un	1	u n
+080/073	und	1	u n d
+080/075	und	1	u n d
+080/077	und	1	u n d
+080/079	und	1	u n d
+080/081	und	1	u n d
+080/083	und	1	u n d
+080/085	und	1	u n d
+080/087	und	1	u n d
+080/089	und	1	u n d
+080/091	und	1	u n d
+080/093	u	1	u
+080/095	und	1	u n d
+080/097	und	1	u n d
+080/099	und	1	u n d
+080/101	u	1	u
+080/103	und	1	u n d
+080/105	und	1	u n d
+080/107	und	1	u n d
+080/109	und	1	u n d
+080/127	un	1	u n
+080/147	und	1	u n d
+080/151	und	1	u n d
+080/153	und	1	u n d
+080/193	u	1	u
+080/195	und	1	u n d
+081/025	on	1	o n
+081/027	un	1	u n
+081/029	un	1	u n
+081/031	unn	1	u nn
+081/033	un	1	u n
+081/035	un	1	u n
+081/037	un	1	u n
+081/039	un	1	u n
+081/043	un	1	u n
+081/045	un	1	u n
+081/047	unn	1	u nn
+081/049	un	1	u n
+081/051	unn	1	u nn
+081/053	unn	1	u nn
+081/055	un	1	u n
+081/057	on	1	o n
+081/059	unn	1	u nn
+081/061	unn	1	u nn
+081/063	u	1	u
+081/065	und	1	u n d
+081/067	und	1	u n d
+081/069	und	1	u n d
+081/071	und	1	u n d
+081/073	und	1	u n d
+081/075	und	1	u n d
+081/077	und	1	u n d
+081/079	u	1	u
+081/081	u	1	u
+081/083	und	1	u n d
+081/085	und	1	u n d
+081/087	u	1	u
+081/089	und	1	u n d
+081/091	und	1	u n d
+081/093	und	1	u n d
+081/095	und	1	u n d
+081/097	und	1	u n d
+081/099	und	1	u n d
+081/101	u	1	u
+081/103	u	1	u
+081/105	und	1	u n d
+081/107	und	1	u n d
+081/109	und	1	u n d
+081/111	und	1	u n d
+081/127	un	1	u n
+081/129	un	1	u n
+081/133	and	1	a n d
+081/147	und	1	u n d
+081/191	ond	1	o n d
+081/193	un	1	u n
+081/195	ond	1	o n d
+082/027	uon	1	uo n
+082/029	un	1	u n
+082/031	on	1	o n
+082/033	on	1	o n
+082/035	un	1	u n
+082/037	onn	1	o nn
+082/039	unn	1	u nn
+082/041	unn	1	u nn
+082/043	un	1	u n
+082/045	un	1	u n
+082/047	unn	1	u nn
+082/049	un	1	u n
+082/051	un	1	u n
+082/053	onn	1	o nn
+082/055	on	1	o n
+082/057	onn	1	o nn
+082/059	ond	1	o n d
+082/061	ond	1	o n d
+082/063	und	1	u n d
+082/065	and	1	a n d
+082/067	und	1	u n d
+082/069	u	1	u
+082/071	ond	1	o n d
+082/073	und	1	u n d
+082/075	und	1	u n d
+082/077	und	1	u n d
+082/079	un	1	u n
+082/081	und	1	u n d
+082/083	und	1	u n d
+082/085	u	1	u
+082/087	NA	NA	-
+082/089	und	1	u n d
+082/091	u	1	u
+082/093	und	1	u n d
+082/095	u	1	u
+082/097	und	1	u n d
+082/099	und	1	u n d
+082/101	u	1	u
+082/103	und	1	u n d
+082/105	und	1	u n d
+082/107	und	1	u n d
+082/111	und	1	u n d
+082/113	und	1	u n d
+082/117	und	1	u n d
+082/129	un	1	u n
+082/131	un	1	u n
+082/133	u	1	u
+082/135	und	1	u n d
+082/145	und	1	u n d
+082/147	und	1	u n d
+082/191	and	1	a n d
+082/195	und	1	u n d
+083/027	onn	1	o nn
+083/029	und	1	u n d
+083/031	un	1	u n
+083/033	un	1	u n
+083/035	un	1	u n
+083/037	un	1	u n
+083/039	un	1	u n
+083/041	und	1	u n d
+083/043	un	1	u n
+083/045	un	1	u n
+083/047	unn	1	u nn
+083/049	un	1	u n
+083/051	unn	1	u nn
+083/053	un	1	u n
+083/055	onn	1	o nn
+083/057	onn	1	o nn
+083/059	ond	1	o n d
+083/061	ond	1	o n d
+083/063	ond	1	o n d
+083/065	ond	1	o n d
+083/067	und	1	u n d
+083/069	ond	1	o n d
+083/071	ond	1	o n d
+083/073	on	1	o n
+083/075	u	1	u
+083/077	und	1	u n d
+083/079	und	1	u n d
+083/081	und	1	u n d
+083/083	u	1	u
+083/085	und	1	u n d
+083/087	u	1	u
+083/089	und	1	u n d
+083/091	NA	NA	-
+083/093	und	1	u n d
+083/095	und	1	u n d
+083/097	und	1	u n d
+083/099	u	1	u
+083/101	und	1	u n d
+083/103	und	1	u n d
+083/105	und	1	u n d
+083/107	und	1	u n d
+083/111	und	1	u n d
+083/113	und	1	u n d
+083/115	u	1	u
+083/117	und	1	u n d
+083/119	und	1	u n d
+083/121	und	1	u n d
+083/129	und	1	u n d
+083/131	und	1	u n d
+083/133	und	1	u n d
+083/135	und	1	u n d
+083/139	un	1	u n
+083/143	und	1	u n d
+083/145	und	1	u n d
+083/147	und	1	u n d
+083/149	und	1	u n d
+083/173	und	1	u n d
+083/195	und	1	u n d
+084/031	unn	1	u nn
+084/033	un	1	u n
+084/035	un	1	u n
+084/037	unn	1	u nn
+084/039	unn	1	u nn
+084/041	un	1	u n
+084/043	un	1	u n
+084/045	un	1	u n
+084/047	un	1	u n
+084/049	un	1	u n
+084/051	on	1	o n
+084/053	onn	1	o nn
+084/055	on	1	o n
+084/057	ond	1	o n d
+084/059	ond	1	o n d
+084/061	ond	1	o n d
+084/063	ond	1	o n d
+084/065	ond	1	o n d
+084/067	ond	1	o n d
+084/069	und	1	u n d
+084/071	und	1	u n d
+084/073	ond	1	o n d
+084/075	und	1	u n d
+084/077	und	1	u n d
+084/079	u	1	u
+084/081	und	1	u n d
+084/083	u	1	u
+084/085	und	1	u n d
+084/087	u	1	u
+084/089	und	1	u n d
+084/091	und	1	u n d
+084/093	und	1	u n d
+084/095	und	1	u n d
+084/097	und	1	u n d
+084/099	und	1	u n d
+084/101	u	1	u
+084/103	und	1	u n d
+084/105	und	1	u n d
+084/107	und	1	u n d
+084/109	und	1	u n d
+084/111	und	1	u n d
+084/113	und	1	u n d
+084/115	und	1	u n d
+084/117	und	1	u n d
+084/119	und	1	u n d
+084/129	und	1	u n d
+084/131	und	1	u n d
+084/133	und	1	u n d
+084/135	und	1	u n d
+084/137	und	1	u n d
+084/139	und	1	u n d
+084/141	und	1	u n d
+084/143	und	1	u n d
+084/145	und	1	u n d
+084/147	u	1	u
+084/149	und	1	u n d
+084/171	unt	1	u n t
+084/173	ont	1	o n t
+084/195	ound	1	ou n d
+085/031	un	1	u n
+085/033	un	1	u n
+085/035	un	1	u n
+085/037	un	1	u n
+085/039	un	1	u n
+085/041	un	1	u n
+085/043	on	1	o n
+085/045	un	1	u n
+085/047	un	1	u n
+085/049	unn	1	u nn
+085/051	on	1	o n
+085/053	on	1	o n
+085/055	NA	NA	-
+085/057	ond	1	o n d
+085/059	ond	1	o n d
+085/061	ond	1	o n d
+085/063	ond	1	o n d
+085/065	ond	1	o n d
+085/067	ond	1	o n d
+085/069	und	1	u n d
+085/071	ond	1	o n d
+085/073	ond	1	o n d
+085/075	ond	1	o n d
+085/077	ond	1	o n d
+085/079	u	1	u
+085/081	und	1	u n d
+085/083	u	1	u
+085/085	und	1	u n d
+085/087	NA	NA	-
+085/089	u	1	u
+085/091	und	1	u n d
+085/093	und	1	u n d
+085/095	und	1	u n d
+085/097	u	1	u
+085/101	u	1	u
+085/103	und	1	u n d
+085/105	und	1	u n d
+085/107	u	1	u
+085/109	und	1	u n d
+085/111	und	1	u n d
+085/113	und	1	u n d
+085/115	und	1	u n d
+085/117	und	1	u n d
+085/119	und	1	u n d
+085/121	und	1	u n d
+085/123	und	1	u n d
+085/125	und	1	u n d
+085/127	und	1	u n d
+085/129	und	1	u n d
+085/131	und	1	u n d
+085/133	u	1	u
+085/135	u	1	u
+085/137	und	1	u n d
+085/139	und	1	u n d
+085/141	und	1	u n d
+085/143	und	1	u n d
+085/145	u	1	u
+085/147	u	1	u
+085/149	und	1	u n d
+085/175	iunt	1	iu n t
+085/193	unt	1	u n t
+085/197	unt	1	u n t
+086/033	u	1	u
+086/035	un	1	u n
+086/037	un	1	u n
+086/039	an	1	a n
+086/041	onn	1	o nn
+086/043	on	1	o n
+086/045	un	1	u n
+086/047	unn	1	u nn
+086/049	un	1	u n
+086/051	on	1	o n
+086/053	on	1	o n
+086/055	ond	1	o n d
+086/057	ond	1	o n d
+086/059	and	1	a n d
+086/061	ond	1	o n d
+086/063	ond	1	o n d
+086/065	our	1	ou r
+086/067	ond	1	o n d
+086/069	u	1	u
+086/071	ond	1	o n d
+086/073	und	1	u n d
+086/075	ond	1	o n d
+086/077	and	1	a n d
+086/079	u	1	u
+086/081	u	1	u
+086/083	u	1	u
+086/085	und	1	u n d
+086/087	und	1	u n d
+086/089	und	1	u n d
+086/091	und	1	u n d
+086/093	u	1	u
+086/095	und	1	u n d
+086/097	und	1	u n d
+086/099	und	1	u n d
+086/101	u	1	u
+086/103	u	1	u
+086/105	u	1	u
+086/107	und	1	u n d
+086/109	und	1	u n d
+086/111	und	1	u n d
+086/113	u	1	u
+086/115	und	1	u n d
+086/117	und	1	u n d
+086/119	und	1	u n d
+086/121	und	1	u n d
+086/123	und	1	u n d
+086/125	und	1	u n d
+086/127	und	1	u n d
+086/129	und	1	u n d
+086/131	und	1	u n d
+086/133	und	1	u n d
+086/135	u	1	u
+086/137	und	1	u n d
+086/139	un	1	u n
+086/141	und	1	u n d
+086/143	und	1	u n d
+086/145	u	1	u
+086/147	und	1	u n d
+086/149	und	1	u n d
+086/151	u	1	u
+086/175	aunt	1	au n t
+086/197	ont	1	o n t
+086/199	ond	1	o n d
+087/033	un	1	u n
+087/035	un	1	u n
+087/037	on	1	o n
+087/039	un	1	u n
+087/041	un	1	u n
+087/043	on	1	o n
+087/045	un	1	u n
+087/049	onn	1	o nn
+087/051	onn	1	o nn
+087/053	onn	1	o nn
+087/055	ond	1	o n d
+087/057	ond	1	o n d
+087/059	ond	1	o n d
+087/061	ond	1	o n d
+087/063	ond	1	o n d
+087/065	ond	1	o n d
+087/067	u	1	u
+087/069	ond	1	o n d
+087/071	ond	1	o n d
+087/073	und	1	u n d
+087/075	und	1	u n d
+087/077	und	1	u n d
+087/079	u	1	u
+087/081	u	1	u
+087/083	und	1	u n d
+087/085	unt	1	u n t
+087/087	u	1	u
+087/089	u	1	u
+087/091	u	1	u
+087/093	u	1	u
+087/095	und	1	u n d
+087/097	u	1	u
+087/099	und	1	u n d
+087/101	und	1	u n d
+087/103	und	1	u n d
+087/105	und	1	u n d
+087/107	und	1	u n d
+087/109	und	1	u n d
+087/111	u	1	u
+087/113	u	1	u
+087/115	und	1	u n d
+087/117	und	1	u n d
+087/119	u	1	u
+087/121	und	1	u n d
+087/123	und	1	u n d
+087/125	und	1	u n d
+087/127	und	1	u n d
+087/129	und	1	u n d
+087/133	und	1	u n d
+087/135	und	1	u n d
+087/137	und	1	u n d
+087/139	und	1	u n d
+087/141	und	1	u n d
+087/143	und	1	u n d
+087/145	und	1	u n d
+087/147	und	1	u n d
+087/149	und	1	u n d
+087/151	und	1	u n d
+088/035	u	1	u
+088/037	un	1	u n
+088/039	un	1	u n
+088/041	un	1	u n
+088/043	un	1	u n
+088/045	un	1	u n
+088/047	und	1	u n d
+088/049	ond	1	o n d
+088/051	ond	1	o n d
+088/053	ond	1	o n d
+088/055	ond	1	o n d
+088/057	ond	1	o n d
+088/059	ond	1	o n d
+088/061	ond	1	o n d
+088/063	ond	1	o n d
+088/065	u	1	u
+088/067	ond	1	o n d
+088/069	ond	1	o n d
+088/071	u	1	u
+088/073	NA	NA	-
+088/075	und	1	u n d
+088/077	und	1	u n d
+088/079	u	1	u
+088/081	und	1	u n d
+088/083	und	1	u n d
+088/085	u	1	u
+088/087	und	1	u n d
+088/089	und	1	u n d
+088/091	und	1	u n d
+088/093	und	1	u n d
+088/095	und	1	u n d
+088/097	u	1	u
+088/099	und	1	u n d
+088/101	und	1	u n d
+088/103	und	1	u n d
+088/105	u	1	u
+088/107	und	1	u n d
+088/109	und	1	u n d
+088/113	u	1	u
+088/115	und	1	u n d
+088/117	und	1	u n d
+088/121	und	1	u n d
+088/123	und	1	u n d
+088/127	und	1	u n d
+088/129	und	1	u n d
+088/131	und	1	u n d
+088/137	u	1	u
+088/139	und	1	u n d
+088/141	und	1	u n d
+088/143	und	1	u n d
+088/145	und	1	u n d
+088/147	und	1	u n d
+088/149	und	1	u n d
+089/035	u	1	u
+089/037	un	1	u n
+089/039	a	1	a
+089/041	un	1	u n
+089/043	on	1	o n
+089/045	und	1	u n d
+089/047	onn	1	o nn
+089/049	ont	1	o n t
+089/051	ond	1	o n d
+089/053	ond	1	o n d
+089/055	u	1	u
+089/057	und	1	u n d
+089/059	und	1	u n d
+089/061	und	1	u n d
+089/063	ond	1	o n d
+089/065	ond	1	o n d
+089/067	u	1	u
+089/069	ond	1	o n d
+089/071	NA	NA	-
+089/073	und	1	u n d
+089/075	und	1	u n d
+089/077	und	1	u n d
+089/079	ond	1	o n d
+089/081	und	1	u n d
+089/083	und	1	u n d
+089/085	unn	1	u nn
+089/087	und	1	u n d
+089/089	u	1	u
+089/091	u	1	u
+089/093	und	1	u n d
+089/095	u	1	u
+089/097	und	1	u n d
+089/099	und	1	u n d
+089/101	und	1	u n d
+089/103	u	1	u
+089/105	u	1	u
+089/107	u	1	u
+089/109	und	1	u n d
+089/111	und	1	u n d
+089/113	u	1	u
+089/115	u	1	u
+089/117	und	1	u n d
+089/119	un	1	u n
+089/121	und	1	u n d
+089/123	NA	NA	-
+089/125	NA	NA	-
+089/127	und	1	u n d
+089/129	u	1	u
+089/131	und	1	u n d
+089/133	u	1	u
+089/135	und	1	u n d
+089/137	u	1	u
+089/139	und	1	u n d
+089/141	u	1	u
+089/143	und	1	u n d
+089/145	und	1	u n d
+089/147	und	1	u n d
+089/149	und	1	u n d
+090/035	o	1	o
+090/037	unn	1	u nn
+090/039	un	1	u n
+090/041	un	1	u n
+090/043	und	1	u n d
+090/045	un	1	u n
+090/047	un	1	u n
+090/049	ond	1	o n d
+090/051	ond	1	o n d
+090/053	und	1	u n d
+090/055	und	1	u n d
+090/057	ond	1	o n d
+090/059	ond	1	o n d
+090/061	ond	1	o n d
+090/063	ond	1	o n d
+090/065	ond	1	o n d
+090/067	ond	1	o n d
+090/069	und	1	u n d
+090/071	u	1	u
+090/073	u	1	u
+090/075	u	1	u
+090/077	un	1	u n
+090/079	und	1	u n d
+090/081	und	1	u n d
+090/083	u	1	u
+090/085	und	1	u n d
+090/087	und	1	u n d
+090/089	und	1	u n d
+090/091	und	1	u n d
+090/093	und	1	u n d
+090/095	und	1	u n d
+090/097	u	1	u
+090/099	und	1	u n d
+090/101	und	1	u n d
+090/103	u	1	u
+090/105	und	1	u n d
+090/107	und	1	u n d
+090/109	und	1	u n d
+090/111	u	1	u
+090/113	und	1	u n d
+090/115	und	1	u n d
+090/119	und	1	u n d
+090/121	und	1	u n d
+090/123	u	1	u
+090/125	und	1	u n d
+090/127	und	1	u n d
+090/129	und	1	u n d
+090/131	u	1	u
+090/133	und	1	u n d
+090/135	und	1	u n d
+090/137	und	1	u n d
+090/139	und	1	u n d
+090/141	und	1	u n d
+090/143	und	1	u n d
+090/145	und	1	u n d
+090/147	und	1	u n d
+090/149	u	1	u
+090/151	und	1	u n d
+091/035	u	1	u
+091/037	un	1	u n
+091/039	unn	1	u nn
+091/041	u	1	u
+091/043	un	1	u n
+091/045	un	1	u n
+091/047	un	1	u n
+091/049	un	1	u n
+091/051	ond	1	o n d
+091/053	ond	1	o n d
+091/055	ond	1	o n d
+091/057	u	1	u
+091/059	und	1	u n d
+091/061	und	1	u n d
+091/063	und	1	u n d
+091/065	ond	1	o n d
+091/067	ond	1	o n d
+091/069	ond	1	o n d
+091/071	ond	1	o n d
+091/073	u	1	u
+091/075	u	1	u
+091/077	und	1	u n d
+091/079	u	1	u
+091/081	un	1	u n
+091/083	und	1	u n d
+091/085	und	1	u n d
+091/087	und	1	u n d
+091/091	un	1	u n
+091/093	und	1	u n d
+091/095	und	1	u n d
+091/097	und	1	u n d
+091/099	und	1	u n d
+091/101	und	1	u n d
+091/103	NA	NA	-
+091/105	u	1	u
+091/107	u	1	u
+091/109	u	1	u
+091/111	und	1	u n d
+091/113	und	1	u n d
+091/115	u	1	u
+091/117	u	1	u
+091/119	u	1	u
+091/121	u	1	u
+091/125	und	1	u n d
+091/129	und	1	u n d
+091/131	und	1	u n d
+091/133	und	1	u n d
+091/135	u	1	u
+091/137	u	1	u
+091/139	u	1	u
+091/141	und	1	u n d
+091/143	u	1	u
+091/145	und	1	u n d
+091/147	und	1	u n d
+091/149	und	1	u n d
+091/151	und	1	u n d
+091/155	unt	1	u n t
+092/033	un	1	u n
+092/035	onn	1	o nn
+092/037	un	1	u n
+092/039	un	1	u n
+092/041	un	1	u n
+092/043	un	1	u n
+092/045	un	1	u n
+092/047	un	1	u n
+092/049	und	1	u n d
+092/051	und	1	u n d
+092/053	und	1	u n d
+092/055	ond	1	o n d
+092/057	ond	1	o n d
+092/059	u	1	u
+092/061	u	1	u
+092/063	und	1	u n d
+092/065	und	1	u n d
+092/067	u	1	u
+092/069	ond	1	o n d
+092/071	und	1	u n d
+092/073	u	1	u
+092/075	unu	1	u n u
+092/077	u	1	u
+092/079	und	1	u n d
+092/081	und	1	u n d
+092/083	und	1	u n d
+092/085	u	1	u
+092/087	und	1	u n d
+092/089	u	1	u
+092/091	un	1	u n
+092/093	und	1	u n d
+092/095	u	1	u
+092/097	und	1	u n d
+092/099	und	1	u n d
+092/101	u	1	u
+092/103	u	1	u
+092/105	un	1	u n
+092/107	und	1	u n d
+092/109	und	1	u n d
+092/111	und	1	u n d
+092/113	und	1	u n d
+092/115	und	1	u n d
+092/117	und	1	u n d
+092/119	u	1	u
+092/121	und	1	u n d
+092/123	u	1	u
+092/125	und	1	u n d
+092/127	und	1	u n d
+092/129	und	1	u n d
+092/131	und	1	u n d
+092/133	und	1	u n d
+092/135	u	1	u
+092/137	u	1	u
+092/139	und	1	u n d
+092/141	und	1	u n d
+092/143	und	1	u n d
+092/145	und	1	u n d
+092/147	u	1	u
+092/149	und	1	u n d
+092/151	und	1	u n d
+093/035	un	1	u n
+093/037	on	1	o n
+093/039	unn	1	u nn
+093/041	un	1	u n
+093/043	un	1	u n
+093/045	unn	1	u nn
+093/047	un	1	u n
+093/049	ond	1	o n d
+093/051	und	1	u n d
+093/053	u	1	u
+093/055	und	1	u n d
+093/057	und	1	u n d
+093/059	und	1	u n d
+093/061	ond	1	o n d
+093/063	ond	1	o n d
+093/065	u	1	u
+093/067	ond	1	o n d
+093/069	ond	1	o n d
+093/071	u	1	u
+093/073	u	1	u
+093/075	und	1	u n d
+093/077	ond	1	o n d
+093/079	ond	1	o n d
+093/081	ond	1	o n d
+093/083	u	1	u
+093/085	u	1	u
+093/087	u	1	u
+093/089	u	1	u
+093/091	u	1	u
+093/093	und	1	u n d
+093/095	und	1	u n d
+093/097	u	1	u
+093/099	und	1	u n d
+093/101	u	1	u
+093/103	und	1	u n d
+093/105	u	1	u
+093/109	und	1	u n d
+093/111	und	1	u n d
+093/113	und	1	u n d
+093/115	u	1	u
+093/117	und	1	u n d
+093/119	u	1	u
+093/121	und	1	u n d
+093/123	und	1	u n d
+093/125	und	1	u n d
+093/127	und	1	u n d
+093/129	u	1	u
+093/131	und	1	u n d
+093/133	und	1	u n d
+093/137	und	1	u n d
+093/139	u	1	u
+093/143	und	1	u n d
+093/145	und	1	u n d
+093/147	u	1	u
+093/149	und	1	u n d
+093/151	und	1	u n d
+093/153	und	1	u n d
+093/155	und	1	u n d
+094/033	u	1	u
+094/035	un	1	u n
+094/037	un	1	u n
+094/039	un	1	u n
+094/041	un	1	u n
+094/043	unn	1	u nn
+094/045	un	1	u n
+094/047	un	1	u n
+094/049	und	1	u n d
+094/051	und	1	u n d
+094/053	und	1	u n d
+094/055	u	1	u
+094/057	und	1	u n d
+094/059	und	1	u n d
+094/061	ond	1	o n d
+094/063	u	1	u
+094/065	u	1	u
+094/067	ond	1	o n d
+094/069	und	1	u n d
+094/071	u	1	u
+094/073	und	1	u n d
+094/075	und	1	u n d
+094/077	und	1	u n d
+094/079	u	1	u
+094/081	und	1	u n d
+094/083	un	1	u n
+094/085	und	1	u n d
+094/087	und	1	u n d
+094/089	u	1	u
+094/091	und	1	u n d
+094/093	und	1	u n d
+094/095	und	1	u n d
+094/097	u	1	u
+094/099	und	1	u n d
+094/101	und	1	u n d
+094/103	und	1	u n d
+094/105	und	1	u n d
+094/107	und	1	u n d
+094/109	und	1	u n d
+094/111	und	1	u n d
+094/113	und	1	u n d
+094/115	und	1	u n d
+094/117	und	1	u n d
+094/119	und	1	u n d
+094/121	und	1	u n d
+094/123	und	1	u n d
+094/125	und	1	u n d
+094/127	und	1	u n d
+094/129	und	1	u n d
+094/131	und	1	u n d
+094/133	u	1	u
+094/135	u	1	u
+094/137	un	1	u n
+094/139	und	1	u n d
+094/141	und	1	u n d
+094/143	und	1	u n d
+094/145	und	1	u n d
+094/147	und	1	u n d
+094/149	und	1	u n d
+094/151	und	1	u n d
+094/153	und	1	u n d
+095/031	un	1	u n
+095/033	un	1	u n
+095/035	unn	1	u nn
+095/037	un	1	u n
+095/039	un	1	u n
+095/041	un	1	u n
+095/043	un	1	u n
+095/045	un	1	u n
+095/047	un	1	u n
+095/049	und	1	u n d
+095/051	ond	1	o n d
+095/053	und	1	u n d
+095/055	und	1	u n d
+095/057	und	1	u n d
+095/059	und	1	u n d
+095/061	und	1	u n d
+095/063	u	1	u
+095/065	und	1	u n d
+095/067	u	1	u
+095/069	und	1	u n d
+095/071	und	1	u n d
+095/073	u	1	u
+095/075	und	1	u n d
+095/077	und	1	u n d
+095/079	u	1	u
+095/081	und	1	u n d
+095/083	und	1	u n d
+095/085	u	1	u
+095/087	u	1	u
+095/089	und	1	u n d
+095/091	und	1	u n d
+095/093	u	1	u
+095/095	und	1	u n d
+095/097	NA	NA	-
+095/099	und	1	u n d
+095/101	und	1	u n d
+095/103	und	1	u n d
+095/105	und	1	u n d
+095/107	und	1	u n d
+095/109	und	1	u n d
+095/111	und	1	u n d
+095/113	und	1	u n d
+095/115	u	1	u
+095/117	und	1	u n d
+095/119	und	1	u n d
+095/121	und	1	u n d
+095/123	und	1	u n d
+095/125	und	1	u n d
+095/129	u	1	u
+095/131	und	1	u n d
+095/133	und	1	u n d
+095/139	und	1	u n d
+095/141	und	1	u n d
+095/143	u	1	u
+095/145	und	1	u n d
+095/147	und	1	u n d
+095/149	und	1	u n d
+095/151	und	1	u n d
+095/153	unt	1	u n t
+095/155	und	1	u n d
+096/031	un	1	u n
+096/033	o	1	o
+096/035	on	1	o n
+096/037	un	1	u n
+096/039	un	1	u n
+096/041	NA	NA	-
+096/043	und	1	u n d
+096/045	un	1	u n
+096/047	und	1	u n d
+096/049	und	1	u n d
+096/051	u	1	u
+096/053	und	1	u n d
+096/055	und	1	u n d
+096/057	und	1	u n d
+096/059	und	1	u n d
+096/061	ond	1	o n d
+096/063	u	1	u
+096/065	und	1	u n d
+096/067	u	1	u
+096/069	u	1	u
+096/071	und	1	u n d
+096/075	NA	NA	-
+096/077	und	1	u n d
+096/079	u	1	u
+096/081	u	1	u
+096/083	und	1	u n d
+096/085	un	1	u n
+096/087	und	1	u n d
+096/089	u	1	u
+096/091	un	1	u n
+096/093	und	1	u n d
+096/095	und	1	u n d
+096/097	und	1	u n d
+096/099	und	1	u n d
+096/101	u	1	u
+096/103	u	1	u
+096/105	und	1	u n d
+096/107	und	1	u n d
+096/109	und	1	u n d
+096/111	und	1	u n d
+096/113	und	1	u n d
+096/115	und	1	u n d
+096/117	und	1	u n d
+096/119	u	1	u
+096/121	und	1	u n d
+096/123	und	1	u n d
+096/125	und	1	u n d
+096/129	u	1	u
+096/131	und	1	u n d
+096/135	und	1	u n d
+096/137	NA	NA	-
+096/139	und	1	u n d
+096/141	und	1	u n d
+096/143	und	1	u n d
+096/145	und	1	u n d
+096/147	unt	1	u n t
+096/151	und	1	u n d
+096/153	und	1	u n d
+096/155	und	1	u n d
+097/031	un	1	u n
+097/033	un	1	u n
+097/035	un	1	u n
+097/037	onn	1	o nn
+097/039	un	1	u n
+097/041	un	1	u n
+097/043	un	1	u n
+097/045	un	1	u n
+097/047	u	1	u
+097/049	und	1	u n d
+097/051	und	1	u n d
+097/053	und	1	u n d
+097/055	und	1	u n d
+097/057	unnd	1	u nn d
+097/059	und	1	u n d
+097/061	und	1	u n d
+097/063	u	1	u
+097/065	u	1	u
+097/067	u	1	u
+097/069	ond	1	o n d
+097/071	ond	1	o n d
+097/073	u	1	u
+097/075	und	1	u n d
+097/077	und	1	u n d
+097/079	u	1	u
+097/081	u	1	u
+097/083	und	1	u n d
+097/085	und	1	u n d
+097/087	un	1	u n
+097/089	und	1	u n d
+097/091	und	1	u n d
+097/093	und	1	u n d
+097/095	und	1	u n d
+097/097	und	1	u n d
+097/099	u	1	u
+097/103	un	1	u n
+097/105	u	1	u
+097/107	und	1	u n d
+097/109	und	1	u n d
+097/113	und	1	u n d
+097/125	u	1	u
+097/131	und	1	u n d
+097/133	und	1	u n d
+097/139	und	1	u n d
+097/141	u	1	u
+097/143	und	1	u n d
+097/145	u	1	u
+097/149	u	1	u
+097/153	und	1	u n d
+098/033	un	1	u n
+098/035	NA	NA	-
+098/037	un	1	u n
+098/039	un	1	u n
+098/041	u	1	u
+098/043	und	1	u n d
+098/045	u	1	u
+098/047	und	1	u n d
+098/049	und	1	u n d
+098/051	und	1	u n d
+098/053	un	1	u n
+098/055	und	1	u n d
+098/057	und	1	u n d
+098/059	und	1	u n d
+098/061	und	1	u n d
+098/063	ond	1	o n d
+098/065	u	1	u
+098/067	und	1	u n d
+098/069	u	1	u
+098/071	und	1	u n d
+098/073	und	1	u n d
+098/075	u	1	u
+098/077	und	1	u n d
+098/079	u	1	u
+098/081	und	1	u n d
+098/083	und	1	u n d
+098/085	und	1	u n d
+098/087	un	1	u n
+098/089	und	1	u n d
+098/091	ua	1	ua
+098/093	und	1	u n d
+098/095	und	1	u n d
+098/097	ond	1	o n d
+098/103	und	1	u n d
+098/105	und	1	u n d
+098/107	und	1	u n d
+098/109	und	1	u n d
+098/111	u	1	u
+098/119	und	1	u n d
+098/123	u	1	u
+098/125	und	1	u n d
+098/127	und	1	u n d
+098/135	und	1	u n d
+098/137	un	1	u n
+098/139	u	1	u
+098/141	und	1	u n d
+098/143	und	1	u n d
+098/145	und	1	u n d
+098/147	und	1	u n d
+098/149	und	1	u n d
+098/151	und	1	u n d
+099/033	un	1	u n
+099/035	un	1	u n
+099/037	unn	1	u nn
+099/039	unn	1	u nn
+099/041	un	1	u n
+099/043	und	1	u n d
+099/045	un	1	u n
+099/047	un	1	u n
+099/049	un	1	u n
+099/051	und	1	u n d
+099/053	und	1	u n d
+099/055	un	1	u n
+099/057	ond	1	o n d
+099/059	und	1	u n d
+099/063	und	1	u n d
+099/065	ond	1	o n d
+099/067	u	1	u
+099/069	und	1	u n d
+099/071	u	1	u
+099/073	u	1	u
+099/075	u	1	u
+099/077	u	1	u
+099/081	und	1	u n d
+099/083	u	1	u
+099/085	un	1	u n
+099/089	und	1	u n d
+099/093	und	1	u n d
+099/095	u	1	u
+099/099	und	1	u n d
+099/101	und	1	u n d
+099/103	u	1	u
+099/105	und	1	u n d
+099/107	und	1	u n d
+099/109	und	1	u n d
+099/111	und	1	u n d
+099/113	und	1	u n d
+099/121	und	1	u n d
+099/123	und	1	u n d
+099/125	und	1	u n d
+099/131	und	1	u n d
+099/137	und	1	u n d
+099/139	und	1	u n d
+099/141	u	1	u
+099/143	und	1	u n d
+099/145	u	1	u
+099/147	und	1	u n d
+100/033	un	1	u n
+100/035	un	1	u n
+100/037	un	1	u n
+100/039	und	1	u n d
+100/041	und	1	u n d
+100/043	und	1	u n d
+100/045	und	1	u n d
+100/049	ond	1	o n d
+100/051	und	1	u n d
+100/053	und	1	u n d
+100/055	und	1	u n d
+100/057	ond	1	o n d
+100/059	und	1	u n d
+100/061	und	1	u n d
+100/065	und	1	u n d
+100/067	und	1	u n d
+100/069	und	1	u n d
+100/071	und	1	u n d
+100/073	und	1	u n d
+100/075	u	1	u
+100/077	und	1	u n d
+100/081	u	1	u
+100/083	u	1	u
+100/089	un	1	u n
+100/093	und	1	u n d
+100/095	und	1	u n d
+100/097	und	1	u n d
+100/099	und	1	u n d
+100/101	NA	NA	-
+100/109	und	1	u n d
+100/111	und	1	u n d
+100/113	u	1	u
+100/115	u	1	u
+100/117	und	1	u n d
+100/119	u	1	u
+100/121	und	1	u n d
+100/125	und	1	u n d
+100/127	und	1	u n d
+100/129	und	1	u n d
+100/133	und	1	u n d
+100/135	u	1	u
+100/141	und	1	u n d
+100/143	und	1	u n d
+100/145	und	1	u n d
+101/035	unn	1	u nn
+101/037	un	1	u n
+101/039	und	1	u n d
+101/041	und	1	u n d
+101/043	NA	NA	-
+101/045	und	1	u n d
+101/047	und	1	u n d
+101/049	und	1	u n d
+101/051	und	1	u n d
+101/053	und	1	u n d
+101/055	und	1	u n d
+101/057	und	1	u n d
+101/059	und	1	u n d
+101/061	ond	1	o n d
+101/063	ond	1	o n d
+101/065	und	1	u n d
+101/067	und	1	u n d
+101/071	und	1	u n d
+101/075	und	1	u n d
+101/077	und	1	u n d
+101/079	und	1	u n d
+101/081	un	1	u n
+101/091	und	1	u n d
+101/093	und	1	u n d
+101/095	u	1	u
+101/097	und	1	u n d
+101/099	und	1	u n d
+101/101	und	1	u n d
+101/103	und	1	u n d
+101/107	und	1	u n d
+101/109	und	1	u n d
+101/113	und	1	u n d
+101/115	u	1	u
+101/121	und	1	u n d
+101/125	und	1	u n d
+101/129	und	1	u n d
+101/131	u	1	u
+101/133	und	1	u n d
+101/137	und	1	u n d
+101/139	und	1	u n d
+101/141	u	1	u
+101/143	und	1	u n d
+101/145	ent	1	e n t
+101/147	und	1	u n d
+102/037	un	1	u n
+102/039	und	1	u n d
+102/041	und	1	u n d
+102/043	und	1	u n d
+102/045	und	1	u n d
+102/047	und	1	u n d
+102/049	und	1	u n d
+102/051	un	1	u n
+102/053	und	1	u n d
+102/055	und	1	u n d
+102/057	und	1	u n d
+102/059	und	1	u n d
+102/061	ond	1	o n d
+102/063	ond	1	o n d
+102/065	und	1	u n d
+102/067	und	1	u n d
+102/069	ond	1	o n d
+102/071	u	1	u
+102/073	und	1	u n d
+102/075	und	1	u n d
+102/077	und	1	u n d
+102/079	u	1	u
+102/081	un	1	u n
+102/083	u	1	u
+102/089	und	1	u n d
+102/091	u	1	u
+102/093	u	1	u
+102/095	und	1	u n d
+102/097	und	1	u n d
+102/099	und	1	u n d
+102/103	und	1	u n d
+102/107	und	1	u n d
+102/109	und	1	u n d
+102/113	u	1	u
+102/115	und	1	u n d
+102/127	und	1	u n d
+102/129	u	1	u
+102/131	und	1	u n d
+102/135	und	1	u n d
+102/137	u	1	u
+102/139	NA	NA	-
+102/141	und	1	u n d
+102/143	und	1	u n d
+102/145	unt	1	u n t
+103/039	u	1	u
+103/041	und	1	u n d
+103/043	und	1	u n d
+103/045	und	1	u n d
+103/047	u	1	u
+103/049	and	1	a n d
+103/051	und	1	u n d
+103/053	und	1	u n d
+103/055	un	1	u n
+103/057	und	1	u n d
+103/059	und	1	u n d
+103/063	und	1	u n d
+103/065	und	1	u n d
+103/067	und	1	u n d
+103/069	und	1	u n d
+103/071	und	1	u n d
+103/073	und	1	u n d
+103/075	u	1	u
+103/077	und	1	u n d
+103/079	und	1	u n d
+103/081	u	1	u
+103/083	und	1	u n d
+103/085	und	1	u n d
+103/087	u	1	u
+103/089	und	1	u n d
+103/091	und	1	u n d
+103/097	u	1	u
+103/099	u	1	u
+103/101	und	1	u n d
+103/105	und	1	u n d
+103/107	unt	1	u n t
+103/111	und	1	u n d
+103/121	und	1	u n d
+103/125	und	1	u n d
+103/127	und	1	u n d
+103/131	und	1	u n d
+103/133	und	1	u n d
+103/135	und	1	u n d
+103/137	und	1	u n d
+103/139	u	1	u
+103/141	und	1	u n d
+103/143	und	1	u n d
+103/145	und	1	u n d
+104/033	und	1	u n d
+104/035	u	1	u
+104/037	und	1	u n d
+104/039	und	1	u n d
+104/041	u	1	u
+104/043	ond	1	o n d
+104/045	ond	1	o n d
+104/047	un	1	u n
+104/049	und	1	u n d
+104/051	und	1	u n d
+104/053	und	1	u n d
+104/055	und	1	u n d
+104/057	ond	1	o n d
+104/059	ond	1	o n d
+104/061	und	1	u n d
+104/063	und	1	u n d
+104/065	und	1	u n d
+104/067	und	1	u n d
+104/071	u	1	u
+104/075	und	1	u n d
+104/077	un	1	u n
+104/079	und	1	u n d
+104/081	und	1	u n d
+104/083	und	1	u n d
+104/085	und	1	u n d
+104/091	und	1	u n d
+104/095	und	1	u n d
+104/101	u	1	u
+104/103	und	1	u n d
+104/107	und	1	u n d
+104/111	und	1	u n d
+104/113	und	1	u n d
+104/119	und	1	u n d
+104/121	und	1	u n d
+104/123	undd	1	u n dd
+104/125	und	1	u n d
+104/127	und	1	u n d
+104/131	und	1	u n d
+104/133	u	1	u
+104/135	und	1	u n d
+104/137	und	1	u n d
+104/139	und	1	u n d
+104/141	und	1	u n d
+104/143	und	1	u n d
+104/145	und	1	u n d
+105/031	u	1	u
+105/033	un	1	u n
+105/035	und	1	u n d
+105/037	und	1	u n d
+105/039	u	1	u
+105/041	u	1	u
+105/043	ond	1	o n d
+105/045	ond	1	o n d
+105/047	ond	1	o n d
+105/049	ond	1	o n d
+105/051	u	1	u
+105/053	und	1	u n d
+105/055	und	1	u n d
+105/057	und	1	u n d
+105/059	und	1	u n d
+105/061	un	1	u n
+105/063	und	1	u n d
+105/065	und	1	u n d
+105/067	und	1	u n d
+105/069	u	1	u
+105/071	und	1	u n d
+105/073	und	1	u n d
+105/075	und	1	u n d
+105/077	u	1	u
+105/079	und	1	u n d
+105/081	u	1	u
+105/085	und	1	u n d
+105/087	und	1	u n d
+105/089	u	1	u
+105/103	und	1	u n d
+105/105	un	1	u n
+105/111	und	1	u n d
+105/113	und	1	u n d
+105/115	und	1	u n d
+105/117	un	1	u n
+105/119	und	1	u n d
+105/121	und	1	u n d
+105/125	u	1	u
+105/127	und	1	u n d
+105/131	und	1	u n d
+105/133	und	1	u n d
+105/135	und	1	u n d
+105/137	und	1	u n d
+105/141	und	1	u n d
+105/143	u	1	u
+105/145	und	1	u n d
+106/033	und	1	u n d
+106/035	u	1	u
+106/037	u	1	u
+106/039	u	1	u
+106/041	u	1	u
+106/043	ond	1	o n d
+106/045	und	1	u n d
+106/047	ond	1	o n d
+106/049	ond	1	o n d
+106/051	und	1	u n d
+106/053	und	1	u n d
+106/057	und	1	u n d
+106/061	NA	NA	-
+106/063	NA	NA	-
+106/067	u	1	u
+106/071	und	1	u n d
+106/073	und	1	u n d
+106/075	und	1	u n d
+106/077	und	1	u n d
+106/079	und	1	u n d
+106/081	und	1	u n d
+106/085	und	1	u n d
+106/087	und	1	u n d
+106/093	und	1	u n d
+106/097	und	1	u n d
+106/099	und	1	u n d
+106/103	und	1	u n d
+106/111	und	1	u n d
+106/115	u	1	u
+106/121	u	1	u
+106/123	und	1	u n d
+106/125	und	1	u n d
+106/129	und	1	u n d
+106/131	und	1	u n d
+106/133	und	1	u n d
+106/135	und	1	u n d
+106/137	u	1	u
+106/139	u	1	u
+106/141	u	1	u
+106/143	und	1	u n d
+106/145	unt	1	u n t
+107/033	u	1	u
+107/035	u	1	u
+107/037	u	1	u
+107/039	u	1	u
+107/041	u	1	u
+107/043	u	1	u
+107/045	uond	1	uo n d
+107/047	und	1	u n d
+107/049	und	1	u n d
+107/051	u	1	u
+107/053	und	1	u n d
+107/057	und	1	u n d
+107/059	und	1	u n d
+107/063	unt	1	u n t
+107/065	und	1	u n d
+107/071	und	1	u n d
+107/075	u	1	u
+107/081	und	1	u n d
+107/085	und	1	u n d
+107/087	und	1	u n d
+107/089	und	1	u n d
+107/091	u	1	u
+107/097	u	1	u
+107/099	u	1	u
+107/103	unt	1	u n t
+107/105	und	1	u n d
+107/107	und	1	u n d
+107/111	und	1	u n d
+107/119	und	1	u n d
+107/121	und	1	u n d
+107/123	NA	NA	-
+107/125	unt	1	u n t
+107/127	NA	NA	-
+107/129	und	1	u n d
+107/131	und	1	u n d
+107/133	und	1	u n d
+107/135	und	1	u n d
+107/137	u	1	u
+107/139	und	1	u n d
+107/141	und	1	u n d
+107/143	und	1	u n d
+108/033	un	1	u n
+108/035	u	1	u
+108/037	u	1	u
+108/039	u	1	u
+108/041	u	1	u
+108/043	u	1	u
+108/047	und	1	u n d
+108/049	u	1	u
+108/063	unt	1	u n t
+108/065	NA	NA	-
+108/067	NA	NA	-
+108/075	und	1	u n d
+108/079	und	1	u n d
+108/081	und	1	u n d
+108/085	und	1	u n d
+108/087	unt	1	u n t
+108/091	und	1	u n d
+108/099	und	1	u n d
+108/101	und	1	u n d
+108/103	und	1	u n d
+108/105	und	1	u n d
+108/109	und	1	u n d
+108/111	u	1	u
+108/113	und	1	u n d
+108/117	und	1	u n d
+108/119	u	1	u
+108/121	u	1	u
+108/123	u	1	u
+108/125	und	1	u n d
+108/127	und	1	u n d
+108/129	und	1	u n d
+108/131	u	1	u
+108/133	und	1	u n d
+108/135	und	1	u n d
+108/137	und	1	u n d
+108/139	und	1	u n d
+108/141	u	1	u
+109/035	u	1	u
+109/037	u	1	u
+109/039	u	1	u
+109/041	u	1	u
+109/043	un	1	u n
+109/045	und	1	u n d
+109/049	und	1	u n d
+109/053	und	1	u n d
+109/061	un	1	u n
+109/063	und	1	u n d
+109/065	und	1	u n d
+109/067	u	1	u
+109/075	und	1	u n d
+109/083	und	1	u n d
+109/087	unt	1	u n t
+109/089	unt	1	u n t
+109/091	unt	1	u n t
+109/093	unt	1	u n t
+109/095	und	1	u n d
+109/097	und	1	u n d
+109/099	und	1	u n d
+109/101	unt	1	u n t
+109/103	und	1	u n d
+109/107	und	1	u n d
+109/109	u	1	u
+109/111	u	1	u
+109/113	und	1	u n d
+109/115	u	1	u
+109/117	und	1	u n d
+109/119	und	1	u n d
+109/121	und	1	u n d
+109/123	und	1	u n d
+109/125	und	1	u n d
+109/127	und	1	u n d
+109/129	und	1	u n d
+109/131	und	1	u n d
+109/133	und	1	u n d
+109/135	ound	1	ou n d
+109/137	und	1	u n d
+109/139	u	1	u
+110/035	u	1	u
+110/039	u	1	u
+110/041	u	1	u
+110/043	und	1	u n d
+110/045	u	1	u
+110/047	und	1	u n d
+110/049	und	1	u n d
+110/057	und	1	u n d
+110/061	und	1	u n d
+110/065	und	1	u n d
+110/075	u	1	u
+110/079	und	1	u n d
+110/081	und	1	u n d
+110/083	und	1	u n d
+110/087	und	1	u n d
+110/089	und	1	u n d
+110/091	u	1	u
+110/093	und	1	u n d
+110/095	und	1	u n d
+110/097	und	1	u n d
+110/099	und	1	u n d
+110/101	u	1	u
+110/105	und	1	u n d
+110/107	und	1	u n d
+110/111	und	1	u n d
+110/113	und	1	u n d
+110/115	u	1	u
+110/117	und	1	u n d
+110/119	unt	1	u n t
+110/121	u	1	u
+110/125	und	1	u n d
+110/127	u	1	u
+110/129	und	1	u n d
+110/131	und	1	u n d
+110/133	und	1	u n d
+110/135	und	1	u n d
+110/137	und	1	u n d
+110/139	und	1	u n d
+111/035	o	1	o
+111/037	u	1	u
+111/039	u	1	u
+111/041	u	1	u
+111/043	un	1	u n
+111/045	u	1	u
+111/059	und	1	u n d
+111/073	un	1	u n
+111/075	unt	1	u n t
+111/077	u	1	u
+111/079	u	1	u
+111/081	u	1	u
+111/083	und	1	u n d
+111/087	und	1	u n d
+111/089	u	1	u
+111/105	u	1	u
+111/107	und	1	u n d
+111/109	und	1	u n d
+111/111	u	1	u
+111/113	NA	NA	-
+111/115	und	1	u n d
+111/117	und	1	u n d
+111/119	unt	1	u n t
+111/121	und	1	u n d
+111/123	und	1	u n d
+111/125	u	1	u
+112/037	u	1	u
+112/039	u	1	u
+112/041	u	1	u
+112/043	u	1	u
+112/047	und	1	u n d
+112/059	u	1	u
+112/061	u	1	u
+112/063	u	1	u
+112/075	und	1	u n d
+112/081	unt	1	u n t
+112/083	und	1	u n d
+112/085	unt	1	u n t
+112/111	und	1	u n d
+112/115	u	1	u
+112/117	und	1	u n d
+112/119	und	1	u n d
+113/035	und	1	u n d
+113/037	u	1	u
+113/039	u	1	u
+113/047	und	1	u n d
+113/079	unt	1	u n t
+113/081	unt	1	u n t
+113/083	unt	1	u n t
+113/085	und	1	u n d
+113/087	und	1	u n d
+113/121	und	1	u n d
+113/123	u	1	u
+114/035	u	1	u
+114/045	und	1	u n d
+114/083	und	1	u n d
+114/085	und	1	u n d
+115/041	und	1	u n d
+115/043	NA	NA	-
+115/045	und	1	u n d
+115/083	und	1	u n d
+115/085	und	1	u n d
+116/043	und	1	u n d
+116/045	und	1	u n d
+116/083	und	1	u n d
+117/043	und	1	u n d
+117/045	und	1	u n d
+118/041	und	1	u n d
+119/083	on	1	o n
+120/085	unt	1	u n t
+121/127	und	1	u n d
+122/127	und	1	u n d
+122/129	und	1	u n d
+123/081	unt	1	u n t
+123/123	und	1	u n d
+123/125	un	1	u n
+123/127	und	1	u n d
+123/129	und	1	u n d
+124/125	und	1	u n d
+124/127	und	1	u n d
+124/129	und	1	u n d

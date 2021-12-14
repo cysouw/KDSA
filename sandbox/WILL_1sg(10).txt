@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	wöll	1	w ö ll
+002/201	wöll	1	w ö ll
+002/203	well	1	w e ll
+002/205	wöll	1	w ö ll
+003/203	well	1	w e ll
+003/205	well	1	w e ll
+004/205	wöll	1	w ö ll
+005/205	well	1	w e ll
+005/207	wöll	1	w ö ll
+006/205	well	1	w e ll
+006/207	wel	1	w e l
+007/205	well	1	w e ll
+007/207	well	1	w e ll
+007/209	wöll	1	w ö ll
+007/211	wöl	1	w ö l
+008/199	wöell	1	w öe ll
+008/203	war	1	w a r
+008/205	well	1	w e ll
+008/207	well	1	w e ll
+008/209	wel	1	w e l
+008/211	wöll	1	w ö ll
+008/213	well	1	w e ll
+009/199	well	1	w e ll
+009/203	wöll	1	w ö ll
+009/207	well	1	w e ll
+009/209	well	1	w e ll
+009/211	well	1	w e ll
+009/213	wöll	1	w ö ll
+009/215	well	1	w e ll
+009/217	wel	1	w e l
+010/195	well	1	w e ll
+010/203	well	1	w e ll
+010/207	wöll	1	w ö ll
+010/209	wöl	1	w ö l
+010/211	well	1	w e ll
+010/213	well	1	w e ll
+010/215	well	1	w e ll
+010/217	wel	1	w e l
+010/219	wöll	1	w ö ll
+011/049	well	1	w e ll
+011/053	wil	1	w i l
+011/055	wil	1	w i l
+011/057	wil	1	w i l
+011/059	wil	1	w i l
+011/061	wil	1	w i l
+011/063	wil	1	w i l
+011/065	wel	1	w e l
+011/067	will	1	w i ll
+011/069	wil	1	w i l
+011/187	well	1	w e ll
+011/189	wöll	1	w ö ll
+011/191	wöll	1	w ö ll
+011/195	wel	1	w e l
+011/197	well	1	w e ll
+011/203	well	1	w e ll
+011/205	wöll	1	w ö ll
+011/207	well	1	w e ll
+011/209	well	1	w e ll
+011/211	well	1	w e ll
+011/213	well	1	w e ll
+011/215	well	1	w e ll
+011/217	wöll	1	w ö ll
+011/219	wöll	1	w ö ll
+012/047	well	1	w e ll
+012/049	well	1	w e ll
+012/051	well	1	w e ll
+012/053	will	1	w i ll
+012/055	wil	1	w i l
+012/057	wil	1	w i l
+012/059	wil	1	w i l
+012/061	wil	1	w i l
+012/063	wil	1	w i l
+012/065	wil	1	w i l
+012/067	wil	1	w i l
+012/069	wil	1	w i l
+012/187	wöll	1	w ö ll
+012/189	wöll	1	w ö ll
+012/191	wöll	1	w ö ll
+012/193	wöll	1	w ö ll
+012/195	well	1	w e ll
+012/197	wöll	1	w ö ll
+012/199	wöll	1	w ö ll
+012/201	well	1	w e ll
+012/203	well	1	w e ll
+012/205	wöll	1	w ö ll
+012/207	well	1	w e ll
+012/209	well	1	w e ll
+012/211	wöl	1	w ö l
+012/213	well	1	w e ll
+012/215	well	1	w e ll
+012/217	wöll	1	w ö ll
+012/219	wöll	1	w ö ll
+012/221	wel	1	w e l
+012/223	well	1	w e ll
+013/051	well	1	w e ll
+013/053	wal	1	w a l
+013/055	wal	1	w a l
+013/057	wil	1	w i l
+013/059	will	1	w i ll
+013/061	will	1	w i ll
+013/063	will	1	w i ll
+013/065	will	1	w i ll
+013/067	will	1	w i ll
+013/161	well	1	w e ll
+013/163	well	1	w e ll
+013/165	wel	1	w e l
+013/167	well	1	w e ll
+013/187	well	1	w e ll
+013/189	well	1	w e ll
+013/191	wöll	1	w ö ll
+013/193	wöll	1	w ö ll
+013/195	well	1	w e ll
+013/197	wöll	1	w ö ll
+013/199	wöll	1	w ö ll
+013/201	well	1	w e ll
+013/203	well	1	w e ll
+013/207	war	1	w a r
+013/209	well	1	w e ll
+013/211	wöll	1	w ö ll
+013/213	wel	1	w e l
+013/215	wel	1	w e l
+013/217	wöll	1	w ö ll
+013/219	wöll	1	w ö ll
+013/221	wel	1	w e l
+013/223	wöll	1	w ö ll
+014/047	wal	1	w a l
+014/049	wal	1	w a l
+014/051	wall	1	w a ll
+014/053	wall	1	w a ll
+014/055	wall	1	w a ll
+014/057	wall	1	w a ll
+014/059	will	1	w i ll
+014/061	will	1	w i ll
+014/063	will	1	w i ll
+014/065	will	1	w i ll
+014/067	will	1	w i ll
+014/109	will	1	w i ll
+014/159	well	1	w e ll
+014/161	well	1	w e ll
+014/163	well	1	w e ll
+014/165	well	1	w e ll
+014/167	well	1	w e ll
+014/169	well	1	w e ll
+014/187	wöll	1	w ö ll
+014/189	well	1	w e ll
+014/191	well	1	w e ll
+014/193	wöll	1	w ö ll
+014/195	wöll	1	w ö ll
+014/197	well	1	w e ll
+014/199	well	1	w e ll
+014/201	wöll	1	w ö ll
+014/203	wöll	1	w ö ll
+014/205	wöll	1	w ö ll
+014/207	wel	1	w e l
+014/209	wöll	1	w ö ll
+014/211	will	1	w i ll
+014/213	wöll	1	w ö ll
+014/215	well	1	w e ll
+014/217	wöll	1	w ö ll
+014/219	will	1	w i ll
+014/221	wel	1	w e l
+015/049	wal	1	w a l
+015/051	wal	1	w a l
+015/053	wal	1	w a l
+015/055	wall	1	w a ll
+015/057	wall	1	w a ll
+015/059	will	1	w i ll
+015/061	will	1	w i ll
+015/063	will	1	w i ll
+015/065	will	1	w i ll
+015/067	will	1	w i ll
+015/105	will	1	w i ll
+015/107	will	1	w i ll
+015/109	will	1	w i ll
+015/151	will	1	w i ll
+015/153	will	1	w i ll
+015/155	will	1	w i ll
+015/157	will	1	w i ll
+015/159	will	1	w i ll
+015/161	will	1	w i ll
+015/163	will	1	w i ll
+015/165	well	1	w e ll
+015/167	well	1	w e ll
+015/169	well	1	w e ll
+015/173	will	1	w i ll
+015/187	wöll	1	w ö ll
+015/191	well	1	w e ll
+015/193	wöll	1	w ö ll
+015/195	wöll	1	w ö ll
+015/197	wöll	1	w ö ll
+015/199	wa	1	w a
+015/201	wöll	1	w ö ll
+015/203	well	1	w e ll
+015/205	woll	1	w o ll
+015/207	wöll	1	w ö ll
+015/209	wöll	1	w ö ll
+015/211	wöll	1	w ö ll
+015/213	wöll	1	w ö ll
+015/215	wer	1	w e r
+015/217	wöll	1	w ö ll
+015/219	wöll	1	w ö ll
+015/221	wöll	1	w ö ll
+016/051	wall	1	w a ll
+016/055	wal	1	w a l
+016/057	will	1	w i ll
+016/059	will	1	w i ll
+016/061	will	1	w i ll
+016/063	will	1	w i ll
+016/065	will	1	w i ll
+016/067	will	1	w i ll
+016/081	will	1	w i ll
+016/083	will	1	w i ll
+016/105	will	1	w i ll
+016/107	will	1	w i ll
+016/109	will	1	w i ll
+016/111	will	1	w i ll
+016/145	will	1	w i ll
+016/147	will	1	w i ll
+016/149	will	1	w i ll
+016/151	will	1	w i ll
+016/153	will	1	w i ll
+016/155	will	1	w i ll
+016/157	will	1	w i ll
+016/159	will	1	w i ll
+016/161	will	1	w i ll
+016/163	will	1	w i ll
+016/165	wel	1	w e l
+016/167	well	1	w e ll
+016/187	wel	1	w e l
+016/189	NA	NA	-
+016/191	well	1	w e ll
+016/193	wöll	1	w ö ll
+016/195	well	1	w e ll
+016/197	wöll	1	w ö ll
+016/199	wöll	1	w ö ll
+016/201	well	1	w e ll
+016/203	wöll	1	w ö ll
+016/205	wöll	1	w ö ll
+016/209	will	1	w i ll
+016/211	wöll	1	w ö ll
+016/213	wöll	1	w ö ll
+016/215	well	1	w e ll
+016/217	wöll	1	w ö ll
+016/219	wöll	1	w ö ll
+017/055	will	1	w i ll
+017/057	will	1	w i ll
+017/059	will	1	w i ll
+017/061	will	1	w i ll
+017/063	will	1	w i ll
+017/065	will	1	w i ll
+017/067	will	1	w i ll
+017/069	wüll	1	w ü ll
+017/081	will	1	w i ll
+017/083	will	1	w i ll
+017/099	will	1	w i ll
+017/101	will	1	w i ll
+017/103	will	1	w i ll
+017/107	will	1	w i ll
+017/109	will	1	w i ll
+017/145	will	1	w i ll
+017/147	will	1	w i ll
+017/149	will	1	w i ll
+017/151	will	1	w i ll
+017/153	will	1	w i ll
+017/155	will	1	w i ll
+017/157	will	1	w i ll
+017/159	will	1	w i ll
+017/161	will	1	w i ll
+017/163	wöll	1	w ö ll
+017/165	will	1	w i ll
+017/169	will	1	w i ll
+017/171	well	1	w e ll
+017/183	well	1	w e ll
+017/185	wa	1	w a
+017/187	well	1	w e ll
+017/189	woll	1	w o ll
+017/191	well	1	w e ll
+017/193	wöll	1	w ö ll
+017/195	wel	1	w e l
+017/197	well	1	w e ll
+017/199	well	1	w e ll
+017/201	well	1	w e ll
+017/203	war	1	w a r
+017/205	wöll	1	w ö ll
+017/207	well	1	w e ll
+017/209	well	1	w e ll
+017/211	well	1	w e ll
+017/213	wöll	1	w ö ll
+017/215	well	1	w e ll
+017/217	well	1	w e ll
+017/219	well	1	w e ll
+018/051	will	1	w i ll
+018/053	will	1	w i ll
+018/055	will	1	w i ll
+018/057	will	1	w i ll
+018/059	will	1	w i ll
+018/061	will	1	w i ll
+018/063	well	1	w e ll
+018/065	well	1	w e ll
+018/067	well	1	w e ll
+018/069	well	1	w e ll
+018/071	will	1	w i ll
+018/073	wil	1	w i l
+018/075	will	1	w i ll
+018/079	will	1	w i ll
+018/081	will	1	w i ll
+018/097	will	1	w i ll
+018/099	will	1	w i ll
+018/103	will	1	w i ll
+018/105	will	1	w i ll
+018/107	will	1	w i ll
+018/109	will	1	w i ll
+018/111	will	1	w i ll
+018/143	will	1	w i ll
+018/145	will	1	w i ll
+018/147	will	1	w i ll
+018/149	will	1	w i ll
+018/151	will	1	w i ll
+018/153	will	1	w i ll
+018/155	will	1	w i ll
+018/157	will	1	w i ll
+018/159	will	1	w i ll
+018/161	will	1	w i ll
+018/163	well	1	w e ll
+018/165	well	1	w e ll
+018/169	well	1	w e ll
+018/171	well	1	w e ll
+018/173	well	1	w e ll
+018/181	well	1	w e ll
+018/185	waet	1	w ae t
+018/187	wöll	1	w ö ll
+018/189	wull	1	w u ll
+018/191	wöll	1	w ö ll
+018/193	well	1	w e ll
+018/195	wöll	1	w ö ll
+018/197	wöll	1	w ö ll
+018/199	well	1	w e ll
+018/201	well	1	w e ll
+018/203	well	1	w e ll
+018/205	well	1	w e ll
+018/207	wöll	1	w ö ll
+018/209	wöll	1	w ö ll
+018/211	well	1	w e ll
+018/213	woell	1	w oe ll
+018/215	well	1	w e ll
+018/219	woell	1	w oe ll
+019/051	will	1	w i ll
+019/053	will	1	w i ll
+019/055	will	1	w i ll
+019/057	will	1	w i ll
+019/059	will	1	w i ll
+019/061	will	1	w i ll
+019/063	will	1	w i ll
+019/065	will	1	w i ll
+019/067	will	1	w i ll
+019/069	will	1	w i ll
+019/071	will	1	w i ll
+019/073	will	1	w i ll
+019/075	will	1	w i ll
+019/077	will	1	w i ll
+019/079	will	1	w i ll
+019/081	will	1	w i ll
+019/097	will	1	w i ll
+019/099	will	1	w i ll
+019/101	will	1	w i ll
+019/103	will	1	w i ll
+019/105	will	1	w i ll
+019/107	will	1	w i ll
+019/109	will	1	w i ll
+019/143	will	1	w i ll
+019/145	will	1	w i ll
+019/147	will	1	w i ll
+019/149	will	1	w i ll
+019/151	will	1	w i ll
+019/153	will	1	w i ll
+019/155	will	1	w i ll
+019/157	war	1	w a r
+019/159	well	1	w e ll
+019/161	will	1	w i ll
+019/163	well	1	w e ll
+019/165	will	1	w i ll
+019/167	well	1	w e ll
+019/169	well	1	w e ll
+019/171	well	1	w e ll
+019/173	well	1	w e ll
+019/175	well	1	w e ll
+019/177	wäll	1	w ä ll
+019/179	wöll	1	w ö ll
+019/181	well	1	w e ll
+019/183	wöll	1	w ö ll
+019/185	well	1	w e ll
+019/187	wöll	1	w ö ll
+019/189	well	1	w e ll
+019/191	well	1	w e ll
+019/193	well	1	w e ll
+019/195	wöll	1	w ö ll
+019/197	well	1	w e ll
+019/199	well	1	w e ll
+019/201	wel	1	w e l
+019/203	well	1	w e ll
+019/205	well	1	w e ll
+019/207	NA	NA	-
+019/209	wel	1	w e l
+019/211	well	1	w e ll
+019/213	well	1	w e ll
+019/215	well	1	w e ll
+019/217	wöll	1	w ö ll
+019/219	well	1	w e ll
+020/043	well	1	w e ll
+020/053	will	1	w i ll
+020/055	will	1	w i ll
+020/057	will	1	w i ll
+020/059	wüll	1	w ü ll
+020/061	well	1	w e ll
+020/063	wöll	1	w ö ll
+020/065	wöll	1	w ö ll
+020/067	will	1	w i ll
+020/069	will	1	w i ll
+020/071	will	1	w i ll
+020/073	will	1	w i ll
+020/075	will	1	w i ll
+020/077	well	1	w e ll
+020/079	will	1	w i ll
+020/081	wil	1	w i l
+020/095	will	1	w i ll
+020/097	will	1	w i ll
+020/099	will	1	w i ll
+020/101	will	1	w i ll
+020/103	will	1	w i ll
+020/105	will	1	w i ll
+020/107	will	1	w i ll
+020/135	will	1	w i ll
+020/137	will	1	w i ll
+020/139	will	1	w i ll
+020/141	will	1	w i ll
+020/143	wüll	1	w ü ll
+020/145	will	1	w i ll
+020/147	will	1	w i ll
+020/149	will	1	w i ll
+020/151	will	1	w i ll
+020/153	will	1	w i ll
+020/155	will	1	w i ll
+020/157	will	1	w i ll
+020/159	will	1	w i ll
+020/161	will	1	w i ll
+020/163	will	1	w i ll
+020/165	will	1	w i ll
+020/167	well	1	w e ll
+020/169	wöll	1	w ö ll
+020/171	well	1	w e ll
+020/173	well	1	w e ll
+020/175	well	1	w e ll
+020/177	well	1	w e ll
+020/179	wel	1	w e l
+020/181	well	1	w e ll
+020/183	well	1	w e ll
+020/185	well	1	w e ll
+020/187	well	1	w e ll
+020/189	well	1	w e ll
+020/191	well	1	w e ll
+020/193	wel	1	w e l
+020/195	well	1	w e ll
+020/197	wöll	1	w ö ll
+020/199	wöll	1	w ö ll
+020/201	wöll	1	w ö ll
+020/203	wa	1	w a
+020/205	wöll	1	w ö ll
+020/207	wöll	1	w ö ll
+020/209	well	1	w e ll
+020/211	wel	1	w e l
+020/213	wöll	1	w ö ll
+020/215	well	1	w e ll
+020/217	wöll	1	w ö ll
+020/219	well	1	w e ll
+021/055	well	1	w e ll
+021/057	will	1	w i ll
+021/059	will	1	w i ll
+021/061	will	1	w i ll
+021/063	will	1	w i ll
+021/065	well	1	w e ll
+021/067	will	1	w i ll
+021/069	will	1	w i ll
+021/071	will	1	w i ll
+021/073	will	1	w i ll
+021/075	will	1	w i ll
+021/077	will	1	w i ll
+021/079	will	1	w i ll
+021/087	will	1	w i ll
+021/089	will	1	w i ll
+021/091	will	1	w i ll
+021/093	wil	1	w i l
+021/095	will	1	w i ll
+021/097	will	1	w i ll
+021/099	will	1	w i ll
+021/101	will	1	w i ll
+021/103	will	1	w i ll
+021/105	will	1	w i ll
+021/107	will	1	w i ll
+021/109	will	1	w i ll
+021/111	will	1	w i ll
+021/113	will	1	w i ll
+021/131	will	1	w i ll
+021/133	will	1	w i ll
+021/135	will	1	w i ll
+021/137	will	1	w i ll
+021/139	wi	1	w i
+021/141	will	1	w i ll
+021/143	will	1	w i ll
+021/145	wi	1	w i
+021/147	will	1	w i ll
+021/149	will	1	w i ll
+021/151	will	1	w i ll
+021/153	will	1	w i ll
+021/155	will	1	w i ll
+021/157	will	1	w i ll
+021/159	will	1	w i ll
+021/163	wäll	1	w ä ll
+021/165	will	1	w i ll
+021/167	will	1	w i ll
+021/169	wel	1	w e l
+021/171	well	1	w e ll
+021/173	well	1	w e ll
+021/175	well	1	w e ll
+021/177	well	1	w e ll
+021/179	well	1	w e ll
+021/181	well	1	w e ll
+021/183	will	1	w i ll
+021/185	wöll	1	w ö ll
+021/187	wöll	1	w ö ll
+021/189	well	1	w e ll
+021/191	wöll	1	w ö ll
+021/193	wöll	1	w ö ll
+021/195	wöll	1	w ö ll
+021/197	wöll	1	w ö ll
+021/199	wel	1	w e l
+021/201	wöll	1	w ö ll
+021/203	will	1	w i ll
+021/205	well	1	w e ll
+021/207	well	1	w e ll
+021/211	well	1	w e ll
+021/215	well	1	w e ll
+021/217	well	1	w e ll
+021/219	well	1	w e ll
+022/055	will	1	w i ll
+022/057	will	1	w i ll
+022/059	will	1	w i ll
+022/061	well	1	w e ll
+022/063	well	1	w e ll
+022/065	weel	1	w ee l
+022/067	well	1	w e ll
+022/069	wöll	1	w ö ll
+022/071	will	1	w i ll
+022/073	will	1	w i ll
+022/075	will	1	w i ll
+022/077	will	1	w i ll
+022/087	will	1	w i ll
+022/089	will	1	w i ll
+022/091	will	1	w i ll
+022/093	will	1	w i ll
+022/095	will	1	w i ll
+022/097	will	1	w i ll
+022/099	will	1	w i ll
+022/101	will	1	w i ll
+022/103	will	1	w i ll
+022/105	will	1	w i ll
+022/107	will	1	w i ll
+022/109	will	1	w i ll
+022/111	will	1	w i ll
+022/113	will	1	w i ll
+022/115	will	1	w i ll
+022/127	will	1	w i ll
+022/129	will	1	w i ll
+022/131	wi	1	w i
+022/133	wi	1	w i
+022/135	will	1	w i ll
+022/137	will	1	w i ll
+022/139	will	1	w i ll
+022/141	will	1	w i ll
+022/143	will	1	w i ll
+022/145	wi	1	w i
+022/147	wi	1	w i
+022/149	wi	1	w i
+022/151	will	1	w i ll
+022/153	will	1	w i ll
+022/155	will	1	w i ll
+022/157	will	1	w i ll
+022/159	wi	1	w i
+022/165	will	1	w i ll
+022/167	will	1	w i ll
+022/169	well	1	w e ll
+022/171	well	1	w e ll
+022/173	well	1	w e ll
+022/175	well	1	w e ll
+022/177	wöll	1	w ö ll
+022/179	well	1	w e ll
+022/181	well	1	w e ll
+022/183	wöll	1	w ö ll
+022/185	well	1	w e ll
+022/187	well	1	w e ll
+022/189	well	1	w e ll
+022/191	wöll	1	w ö ll
+022/193	wöll	1	w ö ll
+022/195	well	1	w e ll
+022/197	wöll	1	w ö ll
+022/199	wöll	1	w ö ll
+022/201	wöll	1	w ö ll
+022/203	wel	1	w e l
+022/205	wöll	1	w ö ll
+022/209	wöll	1	w ö ll
+022/211	well	1	w e ll
+022/215	well	1	w e ll
+022/217	wöll	1	w ö ll
+022/219	wöll	1	w ö ll
+023/055	will	1	w i ll
+023/059	will	1	w i ll
+023/061	wil	1	w i l
+023/063	wull	1	w u ll
+023/065	well	1	w e ll
+023/067	will	1	w i ll
+023/069	will	1	w i ll
+023/071	will	1	w i ll
+023/073	will	1	w i ll
+023/075	will	1	w i ll
+023/077	will	1	w i ll
+023/079	will	1	w i ll
+023/081	will	1	w i ll
+023/083	will	1	w i ll
+023/085	will	1	w i ll
+023/087	will	1	w i ll
+023/089	will	1	w i ll
+023/091	will	1	w i ll
+023/093	will	1	w i ll
+023/095	will	1	w i ll
+023/097	will	1	w i ll
+023/099	will	1	w i ll
+023/101	will	1	w i ll
+023/103	will	1	w i ll
+023/105	will	1	w i ll
+023/107	will	1	w i ll
+023/109	will	1	w i ll
+023/111	will	1	w i ll
+023/113	will	1	w i ll
+023/115	will	1	w i ll
+023/117	will	1	w i ll
+023/121	will	1	w i ll
+023/123	will	1	w i ll
+023/125	wi	1	w i
+023/127	will	1	w i ll
+023/129	wi	1	w i
+023/131	wi	1	w i
+023/133	will	1	w i ll
+023/135	will	1	w i ll
+023/137	will	1	w i ll
+023/139	wi	1	w i
+023/141	will	1	w i ll
+023/143	wi	1	w i
+023/145	wih	1	w ih
+023/147	wie	1	w ie
+023/149	wi	1	w i
+023/151	will	1	w i ll
+023/153	will	1	w i ll
+023/155	wa	1	w a
+023/165	will	1	w i ll
+023/167	wil	1	w i l
+023/169	will	1	w i ll
+023/175	well	1	w e ll
+023/177	well	1	w e ll
+023/179	well	1	w e ll
+023/181	well	1	w e ll
+023/183	wöll	1	w ö ll
+023/185	wöll	1	w ö ll
+023/187	wöll	1	w ö ll
+023/189	well	1	w e ll
+023/191	wöll	1	w ö ll
+023/193	well	1	w e ll
+023/195	wäll	1	w ä ll
+023/197	wel	1	w e l
+023/199	well	1	w e ll
+023/201	wöll	1	w ö ll
+023/203	wel	1	w e l
+023/205	wöl	1	w ö l
+023/207	well	1	w e ll
+023/215	well	1	w e ll
+023/217	well	1	w e ll
+024/053	will	1	w i ll
+024/057	will	1	w i ll
+024/059	will	1	w i ll
+024/061	well	1	w e ll
+024/063	well	1	w e ll
+024/065	will	1	w i ll
+024/067	well	1	w e ll
+024/069	will	1	w i ll
+024/071	will	1	w i ll
+024/073	will	1	w i ll
+024/075	well	1	w e ll
+024/077	will	1	w i ll
+024/079	will	1	w i ll
+024/081	will	1	w i ll
+024/083	will	1	w i ll
+024/085	will	1	w i ll
+024/087	will	1	w i ll
+024/089	will	1	w i ll
+024/091	will	1	w i ll
+024/093	will	1	w i ll
+024/095	will	1	w i ll
+024/097	will	1	w i ll
+024/099	will	1	w i ll
+024/101	will	1	w i ll
+024/103	will	1	w i ll
+024/105	will	1	w i ll
+024/107	will	1	w i ll
+024/109	will	1	w i ll
+024/111	will	1	w i ll
+024/113	will	1	w i ll
+024/115	will	1	w i ll
+024/117	will	1	w i ll
+024/119	will	1	w i ll
+024/121	will	1	w i ll
+024/123	will	1	w i ll
+024/125	will	1	w i ll
+024/127	will	1	w i ll
+024/129	wüh	1	w üh
+024/131	will	1	w i ll
+024/133	will	1	w i ll
+024/135	will	1	w i ll
+024/137	will	1	w i ll
+024/139	wil	1	w i l
+024/141	wi	1	w i
+024/143	will	1	w i ll
+024/145	wi	1	w i
+024/147	will	1	w i ll
+024/149	wi	1	w i
+024/151	wa	1	w a
+024/153	wa	1	w a
+024/155	wi	1	w i
+024/163	will	1	w i ll
+024/165	will	1	w i ll
+024/167	will	1	w i ll
+024/169	will	1	w i ll
+024/171	will	1	w i ll
+024/175	well	1	w e ll
+024/179	well	1	w e ll
+024/181	wöll	1	w ö ll
+024/183	well	1	w e ll
+024/185	wöll	1	w ö ll
+024/187	wöll	1	w ö ll
+024/189	well	1	w e ll
+024/191	well	1	w e ll
+024/193	wöll	1	w ö ll
+024/195	wel	1	w e l
+024/197	well	1	w e ll
+024/199	wa	1	w a
+024/201	wöll	1	w ö ll
+024/203	wel	1	w e l
+024/217	well	1	w e ll
+024/221	wöll	1	w ö ll
+025/043	wull	1	w u ll
+025/051	will	1	w i ll
+025/053	will	1	w i ll
+025/055	will	1	w i ll
+025/057	will	1	w i ll
+025/059	will	1	w i ll
+025/061	wöll	1	w ö ll
+025/063	well	1	w e ll
+025/065	will	1	w i ll
+025/067	wüll	1	w ü ll
+025/069	will	1	w i ll
+025/071	will	1	w i ll
+025/073	will	1	w i ll
+025/075	will	1	w i ll
+025/077	will	1	w i ll
+025/079	will	1	w i ll
+025/081	will	1	w i ll
+025/083	will	1	w i ll
+025/085	will	1	w i ll
+025/087	will	1	w i ll
+025/089	will	1	w i ll
+025/091	will	1	w i ll
+025/093	will	1	w i ll
+025/095	will	1	w i ll
+025/099	will	1	w i ll
+025/101	will	1	w i ll
+025/103	will	1	w i ll
+025/105	will	1	w i ll
+025/107	will	1	w i ll
+025/109	will	1	w i ll
+025/111	will	1	w i ll
+025/113	will	1	w i ll
+025/115	will	1	w i ll
+025/123	will	1	w i ll
+025/125	will	1	w i ll
+025/127	wih	1	w ih
+025/129	will	1	w i ll
+025/131	wi	1	w i
+025/133	will	1	w i ll
+025/135	will	1	w i ll
+025/137	wü	1	w ü
+025/139	wü	1	w ü
+025/141	wi	1	w i
+025/143	wi	1	w i
+025/145	wi	1	w i
+025/147	wi	1	w i
+025/149	will	1	w i ll
+025/151	wi	1	w i
+025/153	wi	1	w i
+025/155	wa	1	w a
+025/157	wi	1	w i
+025/159	well	1	w e ll
+025/177	well	1	w e ll
+025/179	well	1	w e ll
+025/181	wel	1	w e l
+025/183	wöl	1	w ö l
+025/185	well	1	w e ll
+025/187	wöll	1	w ö ll
+025/189	well	1	w e ll
+025/191	well	1	w e ll
+026/031	will	1	w i ll
+026/033	will	1	w i ll
+026/037	will	1	w i ll
+026/041	will	1	w i ll
+026/043	will	1	w i ll
+026/045	will	1	w i ll
+026/051	will	1	w i ll
+026/053	will	1	w i ll
+026/055	wüll	1	w ü ll
+026/057	will	1	w i ll
+026/059	will	1	w i ll
+026/061	will	1	w i ll
+026/063	will	1	w i ll
+026/065	will	1	w i ll
+026/067	well	1	w e ll
+026/069	will	1	w i ll
+026/071	will	1	w i ll
+026/073	will	1	w i ll
+026/075	will	1	w i ll
+026/077	will	1	w i ll
+026/079	will	1	w i ll
+026/081	will	1	w i ll
+026/083	will	1	w i ll
+026/085	will	1	w i ll
+026/087	will	1	w i ll
+026/089	will	1	w i ll
+026/091	will	1	w i ll
+026/093	will	1	w i ll
+026/095	will	1	w i ll
+026/097	will	1	w i ll
+026/099	will	1	w i ll
+026/101	will	1	w i ll
+026/103	will	1	w i ll
+026/105	will	1	w i ll
+026/107	will	1	w i ll
+026/109	will	1	w i ll
+026/111	will	1	w i ll
+026/113	will	1	w i ll
+026/115	will	1	w i ll
+026/117	will	1	w i ll
+026/119	will	1	w i ll
+026/123	will	1	w i ll
+026/125	will	1	w i ll
+026/127	will	1	w i ll
+026/129	will	1	w i ll
+026/131	will	1	w i ll
+026/133	will	1	w i ll
+026/135	wi	1	w i
+026/137	wü	1	w ü
+026/139	wi	1	w i
+026/141	will	1	w i ll
+026/143	wi	1	w i
+026/145	wi	1	w i
+026/147	wil	1	w i l
+026/153	wa	1	w a
+026/155	wi	1	w i
+026/157	wie	1	w ie
+026/159	wi	1	w i
+026/161	wi	1	w i
+026/165	will	1	w i ll
+026/173	wel	1	w e l
+026/175	will	1	w i ll
+026/177	war	1	w a r
+026/179	well	1	w e ll
+026/181	well	1	w e ll
+026/183	well	1	w e ll
+026/185	well	1	w e ll
+026/187	wöll	1	w ö ll
+026/189	will	1	w i ll
+027/027	will	1	w i ll
+027/035	wil	1	w i l
+027/037	will	1	w i ll
+027/039	will	1	w i ll
+027/041	will	1	w i ll
+027/043	will	1	w i ll
+027/045	will	1	w i ll
+027/047	will	1	w i ll
+027/051	will	1	w i ll
+027/053	will	1	w i ll
+027/055	will	1	w i ll
+027/057	well	1	w e ll
+027/059	will	1	w i ll
+027/061	will	1	w i ll
+027/063	well	1	w e ll
+027/065	will	1	w i ll
+027/067	well	1	w e ll
+027/069	will	1	w i ll
+027/071	will	1	w i ll
+027/073	will	1	w i ll
+027/075	will	1	w i ll
+027/077	will	1	w i ll
+027/079	will	1	w i ll
+027/081	will	1	w i ll
+027/083	will	1	w i ll
+027/085	will	1	w i ll
+027/087	will	1	w i ll
+027/089	will	1	w i ll
+027/091	will	1	w i ll
+027/093	will	1	w i ll
+027/095	will	1	w i ll
+027/099	will	1	w i ll
+027/101	will	1	w i ll
+027/103	will	1	w i ll
+027/105	will	1	w i ll
+027/107	will	1	w i ll
+027/109	will	1	w i ll
+027/111	will	1	w i ll
+027/113	will	1	w i ll
+027/115	will	1	w i ll
+027/117	will	1	w i ll
+027/119	will	1	w i ll
+027/123	will	1	w i ll
+027/125	wi	1	w i
+027/127	wi	1	w i
+027/129	wi	1	w i
+027/131	wi	1	w i
+027/135	wi	1	w i
+027/137	wi	1	w i
+027/139	wü	1	w ü
+027/141	weh	1	w eh
+027/143	wi	1	w i
+027/145	wie	1	w ie
+027/147	wi	1	w i
+027/149	wi	1	w i
+027/151	wi	1	w i
+027/153	wi	1	w i
+027/155	wie	1	w ie
+027/157	wi	1	w i
+027/159	wi	1	w i
+027/161	we	1	w e
+027/167	wa	1	w a
+027/171	well	1	w e ll
+027/173	well	1	w e ll
+027/175	wel	1	w e l
+027/177	well	1	w e ll
+027/179	well	1	w e ll
+027/181	well	1	w e ll
+027/183	well	1	w e ll
+027/185	well	1	w e ll
+028/033	will	1	w i ll
+028/035	wil	1	w i l
+028/037	will	1	w i ll
+028/039	will	1	w i ll
+028/041	will	1	w i ll
+028/043	will	1	w i ll
+028/045	will	1	w i ll
+028/047	will	1	w i ll
+028/049	will	1	w i ll
+028/051	will	1	w i ll
+028/053	will	1	w i ll
+028/055	will	1	w i ll
+028/057	will	1	w i ll
+028/059	will	1	w i ll
+028/061	will	1	w i ll
+028/063	will	1	w i ll
+028/065	will	1	w i ll
+028/067	will	1	w i ll
+028/069	will	1	w i ll
+028/071	will	1	w i ll
+028/073	will	1	w i ll
+028/075	will	1	w i ll
+028/077	will	1	w i ll
+028/079	will	1	w i ll
+028/081	will	1	w i ll
+028/083	will	1	w i ll
+028/085	will	1	w i ll
+028/087	will	1	w i ll
+028/089	will	1	w i ll
+028/091	will	1	w i ll
+028/093	will	1	w i ll
+028/095	will	1	w i ll
+028/097	will	1	w i ll
+028/099	will	1	w i ll
+028/103	will	1	w i ll
+028/105	will	1	w i ll
+028/107	will	1	w i ll
+028/109	will	1	w i ll
+028/111	will	1	w i ll
+028/113	will	1	w i ll
+028/115	will	1	w i ll
+028/117	will	1	w i ll
+028/119	wüll	1	w ü ll
+028/121	will	1	w i ll
+028/123	will	1	w i ll
+028/125	will	1	w i ll
+028/127	will	1	w i ll
+028/129	wi	1	w i
+028/131	wi	1	w i
+028/133	wi	1	w i
+028/135	wi	1	w i
+028/137	we	1	w e
+028/139	wü	1	w ü
+028/141	wi	1	w i
+028/143	wih	1	w ih
+028/145	wi	1	w i
+028/147	will	1	w i ll
+028/151	wih	1	w ih
+028/153	wa	1	w a
+028/155	wi	1	w i
+028/157	wah	1	w ah
+028/159	wi	1	w i
+028/161	wa	1	w a
+028/165	wi	1	w i
+028/169	wi	1	w i
+028/171	well	1	w e ll
+028/173	well	1	w e ll
+028/175	well	1	w e ll
+028/177	well	1	w e ll
+028/179	well	1	w e ll
+028/181	well	1	w e ll
+028/183	wel	1	w e l
+028/185	well	1	w e ll
+029/033	wil	1	w i l
+029/035	wil	1	w i l
+029/037	will	1	w i ll
+029/039	will	1	w i ll
+029/043	will	1	w i ll
+029/045	will	1	w i ll
+029/047	will	1	w i ll
+029/049	will	1	w i ll
+029/051	will	1	w i ll
+029/053	well	1	w e ll
+029/055	well	1	w e ll
+029/057	will	1	w i ll
+029/059	will	1	w i ll
+029/061	will	1	w i ll
+029/065	will	1	w i ll
+029/067	will	1	w i ll
+029/069	will	1	w i ll
+029/071	will	1	w i ll
+029/073	will	1	w i ll
+029/075	will	1	w i ll
+029/077	will	1	w i ll
+029/079	will	1	w i ll
+029/081	will	1	w i ll
+029/083	will	1	w i ll
+029/085	will	1	w i ll
+029/087	will	1	w i ll
+029/089	will	1	w i ll
+029/091	will	1	w i ll
+029/093	will	1	w i ll
+029/095	will	1	w i ll
+029/097	will	1	w i ll
+029/099	will	1	w i ll
+029/101	will	1	w i ll
+029/103	will	1	w i ll
+029/105	will	1	w i ll
+029/107	will	1	w i ll
+029/109	will	1	w i ll
+029/111	will	1	w i ll
+029/113	will	1	w i ll
+029/115	will	1	w i ll
+029/117	will	1	w i ll
+029/119	will	1	w i ll
+029/121	wi	1	w i
+029/123	will	1	w i ll
+029/125	will	1	w i ll
+029/127	will	1	w i ll
+029/129	wi	1	w i
+029/131	will	1	w i ll
+029/133	will	1	w i ll
+029/135	wi	1	w i
+029/137	wi	1	w i
+029/139	wüh	1	w üh
+029/141	wi	1	w i
+029/143	wi	1	w i
+029/145	wih	1	w ih
+029/147	wi	1	w i
+029/149	wi	1	w i
+029/151	wi	1	w i
+029/153	wi	1	w i
+029/155	wi	1	w i
+029/157	wih	1	w ih
+029/159	wi	1	w i
+029/161	wi	1	w i
+029/163	wi	1	w i
+029/165	wi	1	w i
+029/167	wih	1	w ih
+029/169	wi	1	w i
+029/171	wäll	1	w ä ll
+029/173	wöll	1	w ö ll
+029/175	wa	1	w a
+029/177	we	1	w e
+029/181	will	1	w i ll
+030/033	wil	1	w i l
+030/035	wil	1	w i l
+030/037	wil	1	w i l
+030/039	wil	1	w i l
+030/041	will	1	w i ll
+030/043	will	1	w i ll
+030/045	will	1	w i ll
+030/047	will	1	w i ll
+030/049	will	1	w i ll
+030/051	will	1	w i ll
+030/053	will	1	w i ll
+030/055	will	1	w i ll
+030/057	will	1	w i ll
+030/059	will	1	w i ll
+030/061	will	1	w i ll
+030/065	will	1	w i ll
+030/067	will	1	w i ll
+030/071	will	1	w i ll
+030/073	will	1	w i ll
+030/075	will	1	w i ll
+030/077	will	1	w i ll
+030/079	will	1	w i ll
+030/081	will	1	w i ll
+030/083	will	1	w i ll
+030/085	will	1	w i ll
+030/087	will	1	w i ll
+030/089	will	1	w i ll
+030/091	will	1	w i ll
+030/093	will	1	w i ll
+030/095	will	1	w i ll
+030/097	will	1	w i ll
+030/099	will	1	w i ll
+030/101	will	1	w i ll
+030/103	will	1	w i ll
+030/105	will	1	w i ll
+030/107	will	1	w i ll
+030/109	will	1	w i ll
+030/111	will	1	w i ll
+030/113	will	1	w i ll
+030/115	will	1	w i ll
+030/117	will	1	w i ll
+030/119	will	1	w i ll
+030/121	will	1	w i ll
+030/123	will	1	w i ll
+030/125	wi	1	w i
+030/127	wi	1	w i
+030/129	wi	1	w i
+030/131	wi	1	w i
+030/133	wia	1	w ia
+030/135	wi	1	w i
+030/137	wi	1	w i
+030/139	wi	1	w i
+030/141	wi	1	w i
+030/143	wi	1	w i
+030/145	wi	1	w i
+030/147	wi	1	w i
+030/149	wi	1	w i
+030/151	wi	1	w i
+030/153	wih	1	w ih
+030/155	wahd	1	w ah d
+030/157	wi	1	w i
+030/159	wi	1	w i
+030/161	wi	1	w i
+030/163	will	1	w i ll
+030/165	wi	1	w i
+030/167	will	1	w i ll
+030/169	well	1	w e ll
+030/171	will	1	w i ll
+030/173	wel	1	w e l
+030/175	we	1	w e
+030/177	wa	1	w a
+030/179	wa	1	w a
+030/181	will	1	w i ll
+030/183	wi	1	w i
+031/035	wil	1	w i l
+031/037	will	1	w i ll
+031/039	wil	1	w i l
+031/041	will	1	w i ll
+031/043	will	1	w i ll
+031/045	will	1	w i ll
+031/047	will	1	w i ll
+031/049	will	1	w i ll
+031/051	will	1	w i ll
+031/053	will	1	w i ll
+031/055	will	1	w i ll
+031/057	will	1	w i ll
+031/059	will	1	w i ll
+031/061	will	1	w i ll
+031/063	wüll	1	w ü ll
+031/065	will	1	w i ll
+031/067	will	1	w i ll
+031/069	will	1	w i ll
+031/071	will	1	w i ll
+031/073	will	1	w i ll
+031/075	will	1	w i ll
+031/077	will	1	w i ll
+031/079	will	1	w i ll
+031/081	will	1	w i ll
+031/083	will	1	w i ll
+031/085	will	1	w i ll
+031/087	will	1	w i ll
+031/089	will	1	w i ll
+031/091	will	1	w i ll
+031/093	will	1	w i ll
+031/095	will	1	w i ll
+031/097	will	1	w i ll
+031/099	will	1	w i ll
+031/101	will	1	w i ll
+031/103	will	1	w i ll
+031/105	will	1	w i ll
+031/107	will	1	w i ll
+031/109	will	1	w i ll
+031/111	will	1	w i ll
+031/113	will	1	w i ll
+031/115	will	1	w i ll
+031/117	will	1	w i ll
+031/119	wi	1	w i
+031/121	will	1	w i ll
+031/123	will	1	w i ll
+031/125	will	1	w i ll
+031/127	wi	1	w i
+031/129	wi	1	w i
+031/131	wi	1	w i
+031/133	wi	1	w i
+031/135	wi	1	w i
+031/137	wi	1	w i
+031/139	wi	1	w i
+031/141	wi	1	w i
+031/143	wa	1	w a
+031/145	wi	1	w i
+031/147	wi	1	w i
+031/149	wi	1	w i
+031/151	wah	1	w ah
+031/153	wia	1	w ia
+031/155	wi	1	w i
+031/157	wah	1	w ah
+031/159	we	1	w e
+031/161	wi	1	w i
+031/163	wü	1	w ü
+031/167	well	1	w e ll
+031/169	will	1	w i ll
+031/171	will	1	w i ll
+031/173	will	1	w i ll
+031/175	wä	1	w ä
+031/177	wa	1	w a
+031/179	wa	1	w a
+032/035	will	1	w i ll
+032/037	will	1	w i ll
+032/039	will	1	w i ll
+032/041	will	1	w i ll
+032/043	will	1	w i ll
+032/045	wüll	1	w ü ll
+032/047	will	1	w i ll
+032/049	will	1	w i ll
+032/051	will	1	w i ll
+032/053	will	1	w i ll
+032/055	will	1	w i ll
+032/057	will	1	w i ll
+032/059	will	1	w i ll
+032/061	will	1	w i ll
+032/065	will	1	w i ll
+032/069	will	1	w i ll
+032/071	wil	1	w i l
+032/073	will	1	w i ll
+032/075	will	1	w i ll
+032/077	will	1	w i ll
+032/079	will	1	w i ll
+032/081	will	1	w i ll
+032/083	will	1	w i ll
+032/085	NA	NA	-
+032/087	will	1	w i ll
+032/089	will	1	w i ll
+032/091	will	1	w i ll
+032/093	will	1	w i ll
+032/095	wil	1	w i l
+032/097	will	1	w i ll
+032/099	will	1	w i ll
+032/101	will	1	w i ll
+032/103	will	1	w i ll
+032/105	will	1	w i ll
+032/107	will	1	w i ll
+032/111	will	1	w i ll
+032/113	will	1	w i ll
+032/115	will	1	w i ll
+032/117	will	1	w i ll
+032/119	wi	1	w i
+032/121	will	1	w i ll
+032/123	will	1	w i ll
+032/125	will	1	w i ll
+032/127	wi	1	w i
+032/129	will	1	w i ll
+032/131	we	1	w e
+032/133	wi	1	w i
+032/135	wi	1	w i
+032/139	wi	1	w i
+032/141	we	1	w e
+032/143	wi	1	w i
+032/145	wi	1	w i
+032/147	wi	1	w i
+032/149	wi	1	w i
+032/151	NA	NA	-
+032/153	wi	1	w i
+032/157	we	1	w e
+032/159	wyh	1	w yh
+032/161	wi	1	w i
+032/163	we	1	w e
+032/167	wöll	1	w ö ll
+032/169	will	1	w i ll
+032/171	will	1	w i ll
+032/173	will	1	w i ll
+032/175	we	1	w e
+032/177	we	1	w e
+032/179	wi	1	w i
+032/181	will	1	w i ll
+032/183	wee	1	w ee
+033/035	will	1	w i ll
+033/037	will	1	w i ll
+033/039	will	1	w i ll
+033/041	will	1	w i ll
+033/043	will	1	w i ll
+033/045	will	1	w i ll
+033/047	will	1	w i ll
+033/049	will	1	w i ll
+033/051	will	1	w i ll
+033/053	will	1	w i ll
+033/055	will	1	w i ll
+033/057	will	1	w i ll
+033/059	will	1	w i ll
+033/061	will	1	w i ll
+033/063	will	1	w i ll
+033/065	will	1	w i ll
+033/067	will	1	w i ll
+033/069	will	1	w i ll
+033/071	will	1	w i ll
+033/073	will	1	w i ll
+033/075	will	1	w i ll
+033/077	will	1	w i ll
+033/079	will	1	w i ll
+033/081	will	1	w i ll
+033/083	will	1	w i ll
+033/085	will	1	w i ll
+033/087	will	1	w i ll
+033/089	will	1	w i ll
+033/091	will	1	w i ll
+033/093	will	1	w i ll
+033/095	will	1	w i ll
+033/097	woll	1	w o ll
+033/099	will	1	w i ll
+033/101	will	1	w i ll
+033/103	will	1	w i ll
+033/105	will	1	w i ll
+033/107	will	1	w i ll
+033/109	will	1	w i ll
+033/111	will	1	w i ll
+033/113	will	1	w i ll
+033/115	will	1	w i ll
+033/117	will	1	w i ll
+033/119	will	1	w i ll
+033/121	will	1	w i ll
+033/123	will	1	w i ll
+033/125	wi	1	w i
+033/127	wi	1	w i
+033/129	wi	1	w i
+033/131	wi	1	w i
+033/133	will	1	w i ll
+033/135	wi	1	w i
+033/137	wö	1	w ö
+033/139	wi	1	w i
+033/141	wi	1	w i
+033/143	wi	1	w i
+033/145	wi	1	w i
+033/147	wi	1	w i
+033/149	wi	1	w i
+033/151	wi	1	w i
+033/153	wi	1	w i
+033/155	wi	1	w i
+033/159	wa	1	w a
+033/161	we	1	w e
+033/163	wi	1	w i
+033/165	well	1	w e ll
+033/167	well	1	w e ll
+033/169	well	1	w e ll
+033/173	well	1	w e ll
+033/175	wö	1	w ö
+033/177	we	1	w e
+034/035	will	1	w i ll
+034/039	will	1	w i ll
+034/041	will	1	w i ll
+034/043	will	1	w i ll
+034/045	will	1	w i ll
+034/047	will	1	w i ll
+034/049	will	1	w i ll
+034/051	will	1	w i ll
+034/053	will	1	w i ll
+034/055	wüll	1	w ü ll
+034/057	will	1	w i ll
+034/059	wil	1	w i l
+034/061	will	1	w i ll
+034/063	will	1	w i ll
+034/065	will	1	w i ll
+034/067	will	1	w i ll
+034/069	will	1	w i ll
+034/071	will	1	w i ll
+034/073	will	1	w i ll
+034/075	will	1	w i ll
+034/077	will	1	w i ll
+034/079	will	1	w i ll
+034/081	will	1	w i ll
+034/083	will	1	w i ll
+034/085	will	1	w i ll
+034/087	will	1	w i ll
+034/089	will	1	w i ll
+034/091	will	1	w i ll
+034/093	will	1	w i ll
+034/095	will	1	w i ll
+034/097	will	1	w i ll
+034/099	will	1	w i ll
+034/101	will	1	w i ll
+034/103	will	1	w i ll
+034/105	will	1	w i ll
+034/107	will	1	w i ll
+034/109	will	1	w i ll
+034/111	will	1	w i ll
+034/113	will	1	w i ll
+034/115	will	1	w i ll
+034/117	will	1	w i ll
+034/119	will	1	w i ll
+034/121	will	1	w i ll
+034/125	will	1	w i ll
+034/127	will	1	w i ll
+034/129	will	1	w i ll
+034/131	will	1	w i ll
+034/133	will	1	w i ll
+034/135	wi	1	w i
+034/137	will	1	w i ll
+034/139	we	1	w e
+034/141	wee	1	w ee
+034/143	wi	1	w i
+034/145	we	1	w e
+034/147	wad	1	w a d
+034/149	wi	1	w i
+034/151	wad	1	w a d
+034/155	wi	1	w i
+034/157	wa	1	w a
+034/161	we	1	w e
+034/163	wi	1	w i
+034/165	wi	1	w i
+034/167	wy	1	w y
+034/169	wäll	1	w ä ll
+034/173	well	1	w e ll
+035/035	wil	1	w i l
+035/037	wil	1	w i l
+035/039	will	1	w i ll
+035/041	will	1	w i ll
+035/043	will	1	w i ll
+035/045	will	1	w i ll
+035/047	will	1	w i ll
+035/049	will	1	w i ll
+035/051	will	1	w i ll
+035/053	will	1	w i ll
+035/055	will	1	w i ll
+035/057	will	1	w i ll
+035/059	will	1	w i ll
+035/061	will	1	w i ll
+035/063	will	1	w i ll
+035/065	will	1	w i ll
+035/067	will	1	w i ll
+035/069	will	1	w i ll
+035/071	will	1	w i ll
+035/073	will	1	w i ll
+035/075	will	1	w i ll
+035/077	will	1	w i ll
+035/079	will	1	w i ll
+035/081	will	1	w i ll
+035/083	will	1	w i ll
+035/085	will	1	w i ll
+035/087	will	1	w i ll
+035/089	will	1	w i ll
+035/091	will	1	w i ll
+035/093	will	1	w i ll
+035/095	will	1	w i ll
+035/097	will	1	w i ll
+035/099	will	1	w i ll
+035/101	will	1	w i ll
+035/103	will	1	w i ll
+035/105	will	1	w i ll
+035/107	will	1	w i ll
+035/109	will	1	w i ll
+035/111	will	1	w i ll
+035/113	will	1	w i ll
+035/115	will	1	w i ll
+035/117	will	1	w i ll
+035/121	will	1	w i ll
+035/123	will	1	w i ll
+035/125	will	1	w i ll
+035/127	will	1	w i ll
+035/129	will	1	w i ll
+035/133	will	1	w i ll
+035/135	will	1	w i ll
+035/137	will	1	w i ll
+035/139	will	1	w i ll
+035/141	will	1	w i ll
+035/143	wi	1	w i
+035/145	wi	1	w i
+035/147	we	1	w e
+035/149	wi	1	w i
+035/151	we	1	w e
+035/153	wi	1	w i
+035/155	wi	1	w i
+035/157	wa	1	w a
+035/165	will	1	w i ll
+035/167	wi	1	w i
+035/169	wah	1	w ah
+035/171	well	1	w e ll
+035/173	well	1	w e ll
+036/033	will	1	w i ll
+036/035	will	1	w i ll
+036/039	will	1	w i ll
+036/041	will	1	w i ll
+036/043	will	1	w i ll
+036/045	will	1	w i ll
+036/047	will	1	w i ll
+036/049	will	1	w i ll
+036/051	will	1	w i ll
+036/053	will	1	w i ll
+036/055	will	1	w i ll
+036/057	will	1	w i ll
+036/059	will	1	w i ll
+036/061	will	1	w i ll
+036/063	will	1	w i ll
+036/065	will	1	w i ll
+036/067	wil	1	w i l
+036/069	will	1	w i ll
+036/071	will	1	w i ll
+036/073	will	1	w i ll
+036/075	will	1	w i ll
+036/077	will	1	w i ll
+036/079	will	1	w i ll
+036/081	will	1	w i ll
+036/083	will	1	w i ll
+036/085	will	1	w i ll
+036/087	will	1	w i ll
+036/089	will	1	w i ll
+036/091	will	1	w i ll
+036/095	will	1	w i ll
+036/097	will	1	w i ll
+036/099	will	1	w i ll
+036/101	will	1	w i ll
+036/103	woll	1	w o ll
+036/105	will	1	w i ll
+036/107	will	1	w i ll
+036/109	will	1	w i ll
+036/111	will	1	w i ll
+036/113	will	1	w i ll
+036/115	will	1	w i ll
+036/117	will	1	w i ll
+036/119	will	1	w i ll
+036/121	will	1	w i ll
+036/123	will	1	w i ll
+036/125	will	1	w i ll
+036/127	will	1	w i ll
+036/129	will	1	w i ll
+036/133	will	1	w i ll
+036/135	will	1	w i ll
+036/137	will	1	w i ll
+036/139	will	1	w i ll
+036/141	will	1	w i ll
+036/143	wa	1	w a
+036/147	we	1	w e
+036/149	will	1	w i ll
+036/151	wa	1	w a
+036/153	will	1	w i ll
+036/155	wa	1	w a
+036/161	will	1	w i ll
+036/163	will	1	w i ll
+036/165	wäll	1	w ä ll
+036/167	well	1	w e ll
+036/169	wa	1	w a
+036/171	well	1	w e ll
+037/033	will	1	w i ll
+037/035	will	1	w i ll
+037/037	will	1	w i ll
+037/039	will	1	w i ll
+037/041	will	1	w i ll
+037/043	will	1	w i ll
+037/045	will	1	w i ll
+037/047	wil	1	w i l
+037/049	will	1	w i ll
+037/051	will	1	w i ll
+037/053	wüll	1	w ü ll
+037/055	will	1	w i ll
+037/057	will	1	w i ll
+037/059	will	1	w i ll
+037/061	will	1	w i ll
+037/063	will	1	w i ll
+037/065	will	1	w i ll
+037/067	will	1	w i ll
+037/069	will	1	w i ll
+037/071	will	1	w i ll
+037/073	will	1	w i ll
+037/075	will	1	w i ll
+037/077	will	1	w i ll
+037/079	wi	1	w i
+037/081	will	1	w i ll
+037/083	will	1	w i ll
+037/085	will	1	w i ll
+037/087	will	1	w i ll
+037/089	will	1	w i ll
+037/091	will	1	w i ll
+037/093	will	1	w i ll
+037/095	will	1	w i ll
+037/097	will	1	w i ll
+037/099	will	1	w i ll
+037/101	will	1	w i ll
+037/105	will	1	w i ll
+037/107	will	1	w i ll
+037/109	will	1	w i ll
+037/111	will	1	w i ll
+037/113	will	1	w i ll
+037/115	will	1	w i ll
+037/117	will	1	w i ll
+037/119	will	1	w i ll
+037/121	will	1	w i ll
+037/123	will	1	w i ll
+037/125	will	1	w i ll
+037/127	will	1	w i ll
+037/129	will	1	w i ll
+037/131	will	1	w i ll
+037/133	will	1	w i ll
+037/135	will	1	w i ll
+037/137	will	1	w i ll
+037/139	will	1	w i ll
+037/141	well	1	w e ll
+037/145	wa	1	w a
+037/147	wi	1	w i
+037/149	wi	1	w i
+037/151	we	1	w e
+037/153	wi	1	w i
+037/155	wi	1	w i
+037/157	wi	1	w i
+037/159	war	1	w a r
+037/163	wa	1	w a
+037/171	well	1	w e ll
+038/033	will	1	w i ll
+038/035	will	1	w i ll
+038/037	will	1	w i ll
+038/039	will	1	w i ll
+038/041	wil	1	w i l
+038/043	will	1	w i ll
+038/045	will	1	w i ll
+038/047	will	1	w i ll
+038/049	will	1	w i ll
+038/051	will	1	w i ll
+038/053	will	1	w i ll
+038/055	will	1	w i ll
+038/057	will	1	w i ll
+038/059	will	1	w i ll
+038/061	will	1	w i ll
+038/063	will	1	w i ll
+038/065	will	1	w i ll
+038/067	will	1	w i ll
+038/069	will	1	w i ll
+038/071	will	1	w i ll
+038/073	will	1	w i ll
+038/075	will	1	w i ll
+038/077	will	1	w i ll
+038/079	will	1	w i ll
+038/081	will	1	w i ll
+038/083	will	1	w i ll
+038/085	will	1	w i ll
+038/087	will	1	w i ll
+038/089	will	1	w i ll
+038/091	will	1	w i ll
+038/093	will	1	w i ll
+038/095	will	1	w i ll
+038/097	will	1	w i ll
+038/099	will	1	w i ll
+038/101	will	1	w i ll
+038/103	will	1	w i ll
+038/105	will	1	w i ll
+038/107	will	1	w i ll
+038/109	will	1	w i ll
+038/111	will	1	w i ll
+038/113	will	1	w i ll
+038/115	will	1	w i ll
+038/117	will	1	w i ll
+038/119	will	1	w i ll
+038/121	will	1	w i ll
+038/123	will	1	w i ll
+038/125	will	1	w i ll
+038/127	will	1	w i ll
+038/129	will	1	w i ll
+038/131	will	1	w i ll
+038/133	will	1	w i ll
+038/135	will	1	w i ll
+038/145	wa	1	w a
+038/147	wi	1	w i
+038/149	we	1	w e
+038/151	wa	1	w a
+038/153	wi	1	w i
+038/155	wi	1	w i
+038/159	wi	1	w i
+038/161	we	1	w e
+038/163	wa	1	w a
+039/029	wil	1	w i l
+039/031	wil	1	w i l
+039/033	will	1	w i ll
+039/035	will	1	w i ll
+039/037	will	1	w i ll
+039/039	will	1	w i ll
+039/041	will	1	w i ll
+039/043	will	1	w i ll
+039/045	will	1	w i ll
+039/047	will	1	w i ll
+039/049	will	1	w i ll
+039/051	will	1	w i ll
+039/053	will	1	w i ll
+039/055	will	1	w i ll
+039/057	will	1	w i ll
+039/059	will	1	w i ll
+039/061	will	1	w i ll
+039/063	will	1	w i ll
+039/065	will	1	w i ll
+039/067	will	1	w i ll
+039/069	will	1	w i ll
+039/071	will	1	w i ll
+039/073	will	1	w i ll
+039/075	will	1	w i ll
+039/077	will	1	w i ll
+039/079	will	1	w i ll
+039/081	will	1	w i ll
+039/083	will	1	w i ll
+039/085	will	1	w i ll
+039/087	will	1	w i ll
+039/089	will	1	w i ll
+039/091	will	1	w i ll
+039/093	will	1	w i ll
+039/095	will	1	w i ll
+039/097	will	1	w i ll
+039/099	will	1	w i ll
+039/101	will	1	w i ll
+039/103	will	1	w i ll
+039/105	will	1	w i ll
+039/107	will	1	w i ll
+039/109	will	1	w i ll
+039/111	will	1	w i ll
+039/113	will	1	w i ll
+039/115	will	1	w i ll
+039/117	will	1	w i ll
+039/119	woll	1	w o ll
+039/121	will	1	w i ll
+039/123	will	1	w i ll
+039/125	will	1	w i ll
+039/127	will	1	w i ll
+039/129	will	1	w i ll
+039/131	will	1	w i ll
+039/133	ward	1	w a r d
+039/135	will	1	w i ll
+039/137	will	1	w i ll
+039/139	will	1	w i ll
+039/149	wy	1	w y
+039/151	wa	1	w a
+039/153	wa	1	w a
+039/155	wi	1	w i
+040/029	will	1	w i ll
+040/031	will	1	w i ll
+040/033	will	1	w i ll
+040/035	will	1	w i ll
+040/037	will	1	w i ll
+040/039	will	1	w i ll
+040/041	will	1	w i ll
+040/043	will	1	w i ll
+040/045	will	1	w i ll
+040/047	will	1	w i ll
+040/049	will	1	w i ll
+040/051	will	1	w i ll
+040/053	will	1	w i ll
+040/055	will	1	w i ll
+040/057	will	1	w i ll
+040/059	will	1	w i ll
+040/061	will	1	w i ll
+040/063	will	1	w i ll
+040/065	will	1	w i ll
+040/067	will	1	w i ll
+040/069	will	1	w i ll
+040/071	will	1	w i ll
+040/073	will	1	w i ll
+040/075	will	1	w i ll
+040/077	will	1	w i ll
+040/079	will	1	w i ll
+040/081	will	1	w i ll
+040/083	will	1	w i ll
+040/085	will	1	w i ll
+040/087	will	1	w i ll
+040/089	will	1	w i ll
+040/091	will	1	w i ll
+040/093	will	1	w i ll
+040/095	will	1	w i ll
+040/097	will	1	w i ll
+040/099	will	1	w i ll
+040/101	will	1	w i ll
+040/103	will	1	w i ll
+040/105	will	1	w i ll
+040/107	will	1	w i ll
+040/109	will	1	w i ll
+040/111	will	1	w i ll
+040/113	will	1	w i ll
+040/115	will	1	w i ll
+040/119	will	1	w i ll
+040/121	will	1	w i ll
+040/123	will	1	w i ll
+040/125	will	1	w i ll
+040/127	will	1	w i ll
+040/129	will	1	w i ll
+040/131	will	1	w i ll
+040/133	will	1	w i ll
+040/135	well	1	w e ll
+040/137	will	1	w i ll
+040/141	will	1	w i ll
+040/143	will	1	w i ll
+040/149	will	1	w i ll
+040/153	wa	1	w a
+040/155	we	1	w e
+041/031	wil	1	w i l
+041/033	wil	1	w i l
+041/035	will	1	w i ll
+041/037	will	1	w i ll
+041/039	will	1	w i ll
+041/041	will	1	w i ll
+041/043	will	1	w i ll
+041/045	will	1	w i ll
+041/047	will	1	w i ll
+041/049	will	1	w i ll
+041/051	woll	1	w o ll
+041/053	will	1	w i ll
+041/055	will	1	w i ll
+041/057	will	1	w i ll
+041/059	will	1	w i ll
+041/061	will	1	w i ll
+041/063	will	1	w i ll
+041/065	will	1	w i ll
+041/067	will	1	w i ll
+041/069	will	1	w i ll
+041/071	will	1	w i ll
+041/073	will	1	w i ll
+041/075	will	1	w i ll
+041/077	will	1	w i ll
+041/079	will	1	w i ll
+041/081	will	1	w i ll
+041/083	will	1	w i ll
+041/085	wyl	1	w y l
+041/087	will	1	w i ll
+041/089	will	1	w i ll
+041/091	will	1	w i ll
+041/093	will	1	w i ll
+041/095	will	1	w i ll
+041/097	will	1	w i ll
+041/099	will	1	w i ll
+041/101	will	1	w i ll
+041/103	will	1	w i ll
+041/105	will	1	w i ll
+041/107	will	1	w i ll
+041/109	will	1	w i ll
+041/111	will	1	w i ll
+041/113	will	1	w i ll
+041/115	will	1	w i ll
+041/117	will	1	w i ll
+041/119	will	1	w i ll
+041/121	will	1	w i ll
+041/123	will	1	w i ll
+041/125	will	1	w i ll
+041/127	will	1	w i ll
+041/129	will	1	w i ll
+041/131	will	1	w i ll
+041/133	will	1	w i ll
+041/135	will	1	w i ll
+041/139	will	1	w i ll
+041/141	will	1	w i ll
+041/145	will	1	w i ll
+041/147	will	1	w i ll
+041/153	wi	1	w i
+041/155	wi	1	w i
+041/157	will	1	w i ll
+041/159	wi	1	w i
+041/161	we	1	w e
+042/033	will	1	w i ll
+042/035	will	1	w i ll
+042/037	will	1	w i ll
+042/039	will	1	w i ll
+042/041	will	1	w i ll
+042/043	wil	1	w i l
+042/045	will	1	w i ll
+042/047	will	1	w i ll
+042/051	will	1	w i ll
+042/053	well	1	w e ll
+042/055	will	1	w i ll
+042/057	will	1	w i ll
+042/059	will	1	w i ll
+042/061	will	1	w i ll
+042/063	will	1	w i ll
+042/065	will	1	w i ll
+042/067	will	1	w i ll
+042/069	will	1	w i ll
+042/071	will	1	w i ll
+042/073	will	1	w i ll
+042/075	will	1	w i ll
+042/077	will	1	w i ll
+042/079	will	1	w i ll
+042/081	will	1	w i ll
+042/083	will	1	w i ll
+042/085	will	1	w i ll
+042/087	will	1	w i ll
+042/089	will	1	w i ll
+042/091	will	1	w i ll
+042/093	will	1	w i ll
+042/095	will	1	w i ll
+042/097	will	1	w i ll
+042/099	will	1	w i ll
+042/101	will	1	w i ll
+042/103	will	1	w i ll
+042/105	will	1	w i ll
+042/107	will	1	w i ll
+042/109	will	1	w i ll
+042/111	will	1	w i ll
+042/113	will	1	w i ll
+042/115	will	1	w i ll
+042/117	will	1	w i ll
+042/119	will	1	w i ll
+042/121	will	1	w i ll
+042/123	will	1	w i ll
+042/125	will	1	w i ll
+042/127	will	1	w i ll
+042/129	will	1	w i ll
+042/131	will	1	w i ll
+042/133	will	1	w i ll
+042/135	will	1	w i ll
+042/137	will	1	w i ll
+042/139	warsch	1	w a r sch
+042/141	will	1	w i ll
+042/143	ward	1	w a r d
+042/145	will	1	w i ll
+042/147	will	1	w i ll
+042/149	will	1	w i ll
+042/151	wil	1	w i l
+042/157	wi	1	w i
+042/159	will	1	w i ll
+042/161	wi	1	w i
+043/033	will	1	w i ll
+043/035	will	1	w i ll
+043/037	will	1	w i ll
+043/039	well	1	w e ll
+043/041	will	1	w i ll
+043/043	will	1	w i ll
+043/045	will	1	w i ll
+043/047	will	1	w i ll
+043/049	will	1	w i ll
+043/051	will	1	w i ll
+043/053	will	1	w i ll
+043/055	woll	1	w o ll
+043/057	will	1	w i ll
+043/059	will	1	w i ll
+043/061	will	1	w i ll
+043/063	will	1	w i ll
+043/065	will	1	w i ll
+043/067	will	1	w i ll
+043/069	will	1	w i ll
+043/071	will	1	w i ll
+043/073	will	1	w i ll
+043/075	will	1	w i ll
+043/077	will	1	w i ll
+043/079	will	1	w i ll
+043/081	will	1	w i ll
+043/083	will	1	w i ll
+043/085	will	1	w i ll
+043/087	will	1	w i ll
+043/089	will	1	w i ll
+043/091	will	1	w i ll
+043/093	will	1	w i ll
+043/095	will	1	w i ll
+043/097	will	1	w i ll
+043/099	will	1	w i ll
+043/101	will	1	w i ll
+043/103	will	1	w i ll
+043/105	will	1	w i ll
+043/107	will	1	w i ll
+043/109	will	1	w i ll
+043/111	will	1	w i ll
+043/113	will	1	w i ll
+043/115	will	1	w i ll
+043/117	will	1	w i ll
+043/119	will	1	w i ll
+043/121	will	1	w i ll
+043/123	will	1	w i ll
+043/125	will	1	w i ll
+043/127	will	1	w i ll
+043/129	will	1	w i ll
+043/131	will	1	w i ll
+043/133	will	1	w i ll
+043/135	war	1	w a r
+043/137	will	1	w i ll
+043/141	will	1	w i ll
+043/143	will	1	w i ll
+043/145	will	1	w i ll
+043/151	wa	1	w a
+043/153	will	1	w i ll
+043/159	will	1	w i ll
+043/161	we	1	w e
+044/033	will	1	w i ll
+044/035	will	1	w i ll
+044/039	will	1	w i ll
+044/041	will	1	w i ll
+044/043	will	1	w i ll
+044/045	will	1	w i ll
+044/047	will	1	w i ll
+044/049	will	1	w i ll
+044/051	will	1	w i ll
+044/053	will	1	w i ll
+044/055	will	1	w i ll
+044/057	will	1	w i ll
+044/059	will	1	w i ll
+044/061	will	1	w i ll
+044/063	will	1	w i ll
+044/065	will	1	w i ll
+044/067	will	1	w i ll
+044/069	will	1	w i ll
+044/071	will	1	w i ll
+044/073	will	1	w i ll
+044/075	will	1	w i ll
+044/077	will	1	w i ll
+044/079	will	1	w i ll
+044/081	will	1	w i ll
+044/083	will	1	w i ll
+044/085	will	1	w i ll
+044/087	will	1	w i ll
+044/089	will	1	w i ll
+044/091	will	1	w i ll
+044/093	will	1	w i ll
+044/095	will	1	w i ll
+044/097	will	1	w i ll
+044/099	will	1	w i ll
+044/101	will	1	w i ll
+044/103	will	1	w i ll
+044/105	will	1	w i ll
+044/107	will	1	w i ll
+044/109	will	1	w i ll
+044/111	will	1	w i ll
+044/113	will	1	w i ll
+044/115	will	1	w i ll
+044/117	will	1	w i ll
+044/119	will	1	w i ll
+044/121	will	1	w i ll
+044/123	will	1	w i ll
+044/125	wahr	1	w ah r
+044/127	will	1	w i ll
+044/129	will	1	w i ll
+044/131	will	1	w i ll
+044/133	will	1	w i ll
+044/135	will	1	w i ll
+044/137	will	1	w i ll
+044/141	wall	1	w a ll
+044/143	will	1	w i ll
+044/145	will	1	w i ll
+044/149	waa	1	w aa
+044/151	will	1	w i ll
+044/153	will	1	w i ll
+045/033	will	1	w i ll
+045/035	will	1	w i ll
+045/037	will	1	w i ll
+045/039	will	1	w i ll
+045/041	will	1	w i ll
+045/043	will	1	w i ll
+045/045	will	1	w i ll
+045/047	will	1	w i ll
+045/049	will	1	w i ll
+045/051	wi	1	w i
+045/053	will	1	w i ll
+045/055	will	1	w i ll
+045/057	will	1	w i ll
+045/059	well	1	w e ll
+045/061	will	1	w i ll
+045/063	will	1	w i ll
+045/065	will	1	w i ll
+045/067	will	1	w i ll
+045/069	will	1	w i ll
+045/071	will	1	w i ll
+045/073	will	1	w i ll
+045/075	will	1	w i ll
+045/077	will	1	w i ll
+045/079	will	1	w i ll
+045/081	will	1	w i ll
+045/083	will	1	w i ll
+045/085	will	1	w i ll
+045/087	will	1	w i ll
+045/089	will	1	w i ll
+045/091	will	1	w i ll
+045/093	will	1	w i ll
+045/095	will	1	w i ll
+045/097	will	1	w i ll
+045/099	will	1	w i ll
+045/101	will	1	w i ll
+045/103	will	1	w i ll
+045/105	will	1	w i ll
+045/107	will	1	w i ll
+045/109	will	1	w i ll
+045/111	will	1	w i ll
+045/113	will	1	w i ll
+045/115	will	1	w i ll
+045/117	will	1	w i ll
+045/119	will	1	w i ll
+045/121	will	1	w i ll
+045/123	will	1	w i ll
+045/125	will	1	w i ll
+045/127	will	1	w i ll
+045/129	will	1	w i ll
+045/131	war	1	w a r
+045/133	will	1	w i ll
+045/135	will	1	w i ll
+045/137	will	1	w i ll
+045/139	will	1	w i ll
+045/141	will	1	w i ll
+045/143	will	1	w i ll
+045/145	well	1	w e ll
+045/155	will	1	w i ll
+046/031	will	1	w i ll
+046/033	will	1	w i ll
+046/035	will	1	w i ll
+046/037	will	1	w i ll
+046/039	will	1	w i ll
+046/041	will	1	w i ll
+046/043	NA	NA	-
+046/045	will	1	w i ll
+046/047	will	1	w i ll
+046/049	will	1	w i ll
+046/051	wil	1	w i l
+046/053	will	1	w i ll
+046/055	will	1	w i ll
+046/057	will	1	w i ll
+046/059	will	1	w i ll
+046/061	will	1	w i ll
+046/063	will	1	w i ll
+046/065	will	1	w i ll
+046/067	will	1	w i ll
+046/069	will	1	w i ll
+046/071	will	1	w i ll
+046/073	will	1	w i ll
+046/075	will	1	w i ll
+046/077	will	1	w i ll
+046/079	will	1	w i ll
+046/081	will	1	w i ll
+046/083	will	1	w i ll
+046/085	will	1	w i ll
+046/087	will	1	w i ll
+046/089	will	1	w i ll
+046/091	will	1	w i ll
+046/093	will	1	w i ll
+046/095	will	1	w i ll
+046/097	will	1	w i ll
+046/099	will	1	w i ll
+046/101	will	1	w i ll
+046/103	will	1	w i ll
+046/105	will	1	w i ll
+046/107	will	1	w i ll
+046/109	will	1	w i ll
+046/111	will	1	w i ll
+046/113	wer	1	w e r
+046/115	will	1	w i ll
+046/117	NA	NA	-
+046/119	will	1	w i ll
+046/121	will	1	w i ll
+046/123	will	1	w i ll
+046/125	will	1	w i ll
+046/127	will	1	w i ll
+046/129	will	1	w i ll
+046/131	will	1	w i ll
+046/133	will	1	w i ll
+046/135	will	1	w i ll
+046/137	will	1	w i ll
+046/139	will	1	w i ll
+046/141	will	1	w i ll
+046/143	will	1	w i ll
+046/155	will	1	w i ll
+047/031	will	1	w i ll
+047/033	will	1	w i ll
+047/035	will	1	w i ll
+047/037	will	1	w i ll
+047/039	will	1	w i ll
+047/041	will	1	w i ll
+047/043	will	1	w i ll
+047/045	will	1	w i ll
+047/047	will	1	w i ll
+047/049	will	1	w i ll
+047/051	will	1	w i ll
+047/053	will	1	w i ll
+047/055	will	1	w i ll
+047/057	will	1	w i ll
+047/059	will	1	w i ll
+047/061	will	1	w i ll
+047/063	will	1	w i ll
+047/065	will	1	w i ll
+047/067	will	1	w i ll
+047/069	will	1	w i ll
+047/071	will	1	w i ll
+047/073	wil	1	w i l
+047/075	will	1	w i ll
+047/077	will	1	w i ll
+047/079	will	1	w i ll
+047/081	will	1	w i ll
+047/083	wäll	1	w ä ll
+047/085	will	1	w i ll
+047/087	will	1	w i ll
+047/089	will	1	w i ll
+047/091	will	1	w i ll
+047/093	will	1	w i ll
+047/095	will	1	w i ll
+047/097	will	1	w i ll
+047/099	will	1	w i ll
+047/101	will	1	w i ll
+047/103	will	1	w i ll
+047/105	will	1	w i ll
+047/107	will	1	w i ll
+047/109	will	1	w i ll
+047/111	will	1	w i ll
+047/113	will	1	w i ll
+047/115	will	1	w i ll
+047/117	will	1	w i ll
+047/119	wär	1	w ä r
+047/123	will	1	w i ll
+047/125	will	1	w i ll
+047/127	will	1	w i ll
+047/129	will	1	w i ll
+047/131	will	1	w i ll
+047/133	will	1	w i ll
+047/135	will	1	w i ll
+047/137	wiel	1	w ie l
+047/139	wehl	1	w eh l
+047/141	well	1	w e ll
+047/147	wjil	1	w j i l
+047/149	well	1	w e ll
+047/151	will	1	w i ll
+047/159	will	1	w i ll
+048/021	well	1	w e ll
+048/023	sall	1	s a ll
+048/027	will	1	w i ll
+048/029	will	1	w i ll
+048/031	will	1	w i ll
+048/033	will	1	w i ll
+048/035	will	1	w i ll
+048/037	will	1	w i ll
+048/039	will	1	w i ll
+048/041	will	1	w i ll
+048/045	well	1	w e ll
+048/047	will	1	w i ll
+048/049	will	1	w i ll
+048/051	will	1	w i ll
+048/053	will	1	w i ll
+048/055	will	1	w i ll
+048/057	will	1	w i ll
+048/059	will	1	w i ll
+048/061	will	1	w i ll
+048/063	will	1	w i ll
+048/065	will	1	w i ll
+048/067	will	1	w i ll
+048/069	will	1	w i ll
+048/071	will	1	w i ll
+048/073	will	1	w i ll
+048/075	will	1	w i ll
+048/077	will	1	w i ll
+048/079	will	1	w i ll
+048/081	will	1	w i ll
+048/083	will	1	w i ll
+048/085	will	1	w i ll
+048/087	will	1	w i ll
+048/089	will	1	w i ll
+048/091	will	1	w i ll
+048/093	will	1	w i ll
+048/095	will	1	w i ll
+048/099	will	1	w i ll
+048/101	will	1	w i ll
+048/103	will	1	w i ll
+048/105	will	1	w i ll
+048/107	will	1	w i ll
+048/109	will	1	w i ll
+048/111	will	1	w i ll
+048/113	will	1	w i ll
+048/115	will	1	w i ll
+048/119	will	1	w i ll
+048/123	will	1	w i ll
+048/125	will	1	w i ll
+048/127	will	1	w i ll
+048/129	will	1	w i ll
+048/131	will	1	w i ll
+048/133	will	1	w i ll
+048/135	well	1	w e ll
+048/137	will	1	w i ll
+048/139	will	1	w i ll
+048/141	weöll	1	w eö ll
+048/143	well	1	w e ll
+048/145	well	1	w e ll
+048/147	well	1	w e ll
+048/153	will	1	w i ll
+048/157	will	1	w i ll
+048/159	will	1	w i ll
+049/019	well	1	w e ll
+049/021	wel	1	w e l
+049/023	will	1	w i ll
+049/025	will	1	w i ll
+049/027	will	1	w i ll
+049/029	will	1	w i ll
+049/031	will	1	w i ll
+049/033	will	1	w i ll
+049/035	will	1	w i ll
+049/037	will	1	w i ll
+049/039	will	1	w i ll
+049/041	will	1	w i ll
+049/043	will	1	w i ll
+049/045	will	1	w i ll
+049/047	will	1	w i ll
+049/049	will	1	w i ll
+049/051	will	1	w i ll
+049/053	will	1	w i ll
+049/055	will	1	w i ll
+049/057	will	1	w i ll
+049/059	will	1	w i ll
+049/061	will	1	w i ll
+049/063	will	1	w i ll
+049/065	will	1	w i ll
+049/067	will	1	w i ll
+049/069	will	1	w i ll
+049/071	will	1	w i ll
+049/073	will	1	w i ll
+049/077	will	1	w i ll
+049/079	will	1	w i ll
+049/081	will	1	w i ll
+049/083	will	1	w i ll
+049/085	will	1	w i ll
+049/087	will	1	w i ll
+049/089	will	1	w i ll
+049/091	will	1	w i ll
+049/093	will	1	w i ll
+049/095	will	1	w i ll
+049/097	will	1	w i ll
+049/099	will	1	w i ll
+049/101	will	1	w i ll
+049/103	will	1	w i ll
+049/105	will	1	w i ll
+049/107	will	1	w i ll
+049/109	will	1	w i ll
+049/111	will	1	w i ll
+049/113	will	1	w i ll
+049/115	will	1	w i ll
+049/117	will	1	w i ll
+049/119	wer	1	w e r
+049/121	will	1	w i ll
+049/123	will	1	w i ll
+049/125	will	1	w i ll
+049/127	will	1	w i ll
+049/129	will	1	w i ll
+049/131	will	1	w i ll
+049/133	will	1	w i ll
+049/135	will	1	w i ll
+049/137	well	1	w e ll
+049/139	will	1	w i ll
+049/141	well	1	w e ll
+049/143	well	1	w e ll
+049/145	well	1	w e ll
+049/147	will	1	w i ll
+049/151	NA	NA	-
+050/021	sall	1	s a ll
+050/023	will	1	w i ll
+050/025	well	1	w e ll
+050/027	well	1	w e ll
+050/029	well	1	w e ll
+050/031	will	1	w i ll
+050/033	will	1	w i ll
+050/035	well	1	w e ll
+050/037	will	1	w i ll
+050/039	will	1	w i ll
+050/041	well	1	w e ll
+050/043	will	1	w i ll
+050/047	will	1	w i ll
+050/049	will	1	w i ll
+050/051	will	1	w i ll
+050/053	will	1	w i ll
+050/055	will	1	w i ll
+050/057	will	1	w i ll
+050/059	will	1	w i ll
+050/061	will	1	w i ll
+050/063	will	1	w i ll
+050/065	will	1	w i ll
+050/067	will	1	w i ll
+050/069	will	1	w i ll
+050/071	will	1	w i ll
+050/073	will	1	w i ll
+050/075	will	1	w i ll
+050/077	will	1	w i ll
+050/079	will	1	w i ll
+050/081	will	1	w i ll
+050/083	will	1	w i ll
+050/085	wär	1	w ä r
+050/087	will	1	w i ll
+050/089	will	1	w i ll
+050/091	will	1	w i ll
+050/093	will	1	w i ll
+050/095	will	1	w i ll
+050/097	will	1	w i ll
+050/099	will	1	w i ll
+050/101	will	1	w i ll
+050/103	vil	1	v i l
+050/105	will	1	w i ll
+050/107	will	1	w i ll
+050/109	will	1	w i ll
+050/111	will	1	w i ll
+050/113	will	1	w i ll
+050/115	will	1	w i ll
+050/117	will	1	w i ll
+050/119	will	1	w i ll
+050/121	will	1	w i ll
+050/125	wär	1	w ä r
+050/127	will	1	w i ll
+050/129	will	1	w i ll
+050/131	war	1	w a r
+050/133	will	1	w i ll
+050/135	well	1	w e ll
+050/137	wöll	1	w ö ll
+050/139	well	1	w e ll
+050/141	will	1	w i ll
+050/143	well	1	w e ll
+050/145	wäll	1	w ä ll
+050/147	wähl	1	w äh l
+050/149	will	1	w i ll
+050/151	wäl	1	w ä l
+050/155	war	1	w a r
+050/157	will	1	w i ll
+050/159	will	1	w i ll
+050/161	will	1	w i ll
+051/023	will	1	w i ll
+051/025	well	1	w e ll
+051/027	well	1	w e ll
+051/029	well	1	w e ll
+051/031	will	1	w i ll
+051/033	well	1	w e ll
+051/035	well	1	w e ll
+051/037	well	1	w e ll
+051/039	will	1	w i ll
+051/041	well	1	w e ll
+051/043	wel	1	w e l
+051/045	well	1	w e ll
+051/047	well	1	w e ll
+051/049	will	1	w i ll
+051/051	will	1	w i ll
+051/053	well	1	w e ll
+051/055	will	1	w i ll
+051/057	will	1	w i ll
+051/059	will	1	w i ll
+051/061	will	1	w i ll
+051/063	will	1	w i ll
+051/065	will	1	w i ll
+051/067	will	1	w i ll
+051/069	will	1	w i ll
+051/071	will	1	w i ll
+051/073	will	1	w i ll
+051/075	will	1	w i ll
+051/077	will	1	w i ll
+051/079	will	1	w i ll
+051/081	will	1	w i ll
+051/083	well	1	w e ll
+051/085	will	1	w i ll
+051/087	will	1	w i ll
+051/089	will	1	w i ll
+051/091	will	1	w i ll
+051/093	will	1	w i ll
+051/095	will	1	w i ll
+051/097	will	1	w i ll
+051/099	well	1	w e ll
+051/101	will	1	w i ll
+051/103	will	1	w i ll
+051/105	will	1	w i ll
+051/107	will	1	w i ll
+051/109	will	1	w i ll
+051/111	will	1	w i ll
+051/113	will	1	w i ll
+051/115	will	1	w i ll
+051/117	will	1	w i ll
+051/119	wär	1	w ä r
+051/121	will	1	w i ll
+051/123	will	1	w i ll
+051/125	will	1	w i ll
+051/127	wiel	1	w ie l
+051/129	will	1	w i ll
+051/131	will	1	w i ll
+051/133	will	1	w i ll
+051/135	well	1	w e ll
+051/137	weil	1	w ei l
+051/139	well	1	w e ll
+051/141	well	1	w e ll
+051/143	wäll	1	w ä ll
+051/145	wäll	1	w ä ll
+051/147	weel	1	w ee l
+051/149	well	1	w e ll
+051/151	will	1	w i ll
+051/153	weil	1	w ei l
+051/155	weil	1	w ei l
+051/157	war	1	w a r
+052/023	well	1	w e ll
+052/025	well	1	w e ll
+052/027	well	1	w e ll
+052/029	well	1	w e ll
+052/031	well	1	w e ll
+052/033	well	1	w e ll
+052/035	wel	1	w e l
+052/037	wuell	1	w ue ll
+052/039	well	1	w e ll
+052/041	well	1	w e ll
+052/043	well	1	w e ll
+052/045	woll	1	w o ll
+052/047	well	1	w e ll
+052/049	well	1	w e ll
+052/051	will	1	w i ll
+052/053	will	1	w i ll
+052/057	well	1	w e ll
+052/059	well	1	w e ll
+052/061	will	1	w i ll
+052/063	will	1	w i ll
+052/065	will	1	w i ll
+052/067	will	1	w i ll
+052/069	will	1	w i ll
+052/071	will	1	w i ll
+052/073	will	1	w i ll
+052/075	will	1	w i ll
+052/077	will	1	w i ll
+052/079	will	1	w i ll
+052/081	will	1	w i ll
+052/083	wäll	1	w ä ll
+052/085	will	1	w i ll
+052/087	will	1	w i ll
+052/089	will	1	w i ll
+052/091	will	1	w i ll
+052/093	will	1	w i ll
+052/095	will	1	w i ll
+052/097	will	1	w i ll
+052/099	will	1	w i ll
+052/101	will	1	w i ll
+052/103	will	1	w i ll
+052/105	will	1	w i ll
+052/107	will	1	w i ll
+052/109	will	1	w i ll
+052/111	will	1	w i ll
+052/113	will	1	w i ll
+052/115	will	1	w i ll
+052/117	will	1	w i ll
+052/121	will	1	w i ll
+052/123	will	1	w i ll
+052/125	will	1	w i ll
+052/127	will	1	w i ll
+052/129	wihl	1	w ih l
+052/131	will	1	w i ll
+052/133	will	1	w i ll
+052/135	will	1	w i ll
+052/137	wejll	1	w e j ll
+052/139	well	1	w e ll
+052/141	well	1	w e ll
+052/143	wäl	1	w ä l
+052/145	well	1	w e ll
+052/147	weel	1	w ee l
+052/149	wäll	1	w ä ll
+052/151	well	1	w e ll
+052/153	weil	1	w ei l
+052/155	well	1	w e ll
+052/157	weil	1	w ei l
+052/159	weil	1	w ei l
+053/023	well	1	w e ll
+053/025	wäll	1	w ä ll
+053/027	well	1	w e ll
+053/029	well	1	w e ll
+053/031	will	1	w i ll
+053/033	well	1	w e ll
+053/035	well	1	w e ll
+053/037	well	1	w e ll
+053/039	well	1	w e ll
+053/041	well	1	w e ll
+053/043	well	1	w e ll
+053/045	well	1	w e ll
+053/047	well	1	w e ll
+053/049	well	1	w e ll
+053/051	well	1	w e ll
+053/053	wiel	1	w ie l
+053/055	will	1	w i ll
+053/057	will	1	w i ll
+053/059	will	1	w i ll
+053/061	will	1	w i ll
+053/063	will	1	w i ll
+053/065	will	1	w i ll
+053/067	will	1	w i ll
+053/069	will	1	w i ll
+053/071	will	1	w i ll
+053/073	will	1	w i ll
+053/075	will	1	w i ll
+053/077	well	1	w e ll
+053/079	will	1	w i ll
+053/081	will	1	w i ll
+053/083	will	1	w i ll
+053/085	will	1	w i ll
+053/087	will	1	w i ll
+053/089	will	1	w i ll
+053/091	will	1	w i ll
+053/093	will	1	w i ll
+053/095	will	1	w i ll
+053/097	will	1	w i ll
+053/099	will	1	w i ll
+053/101	will	1	w i ll
+053/103	will	1	w i ll
+053/105	will	1	w i ll
+053/107	will	1	w i ll
+053/109	will	1	w i ll
+053/111	will	1	w i ll
+053/113	will	1	w i ll
+053/115	will	1	w i ll
+053/121	will	1	w i ll
+053/123	will	1	w i ll
+053/125	wär	1	w ä r
+053/127	wihl	1	w ih l
+053/129	wiel	1	w ie l
+053/131	will	1	w i ll
+053/133	will	1	w i ll
+053/135	wil	1	w i l
+053/137	well	1	w e ll
+053/139	war	1	w a r
+053/141	will	1	w i ll
+053/143	well	1	w e ll
+053/145	will	1	w i ll
+053/147	well	1	w e ll
+053/149	wäll	1	w ä ll
+053/151	weil	1	w ei l
+053/153	weil	1	w ei l
+053/155	weil	1	w ei l
+053/157	wehl	1	w eh l
+054/023	well	1	w e ll
+054/025	well	1	w e ll
+054/027	well	1	w e ll
+054/029	well	1	w e ll
+054/031	wel	1	w e l
+054/033	well	1	w e ll
+054/035	well	1	w e ll
+054/037	well	1	w e ll
+054/039	woll	1	w o ll
+054/041	well	1	w e ll
+054/043	well	1	w e ll
+054/045	well	1	w e ll
+054/047	well	1	w e ll
+054/049	wel	1	w e l
+054/051	well	1	w e ll
+054/053	will	1	w i ll
+054/055	will	1	w i ll
+054/057	will	1	w i ll
+054/059	will	1	w i ll
+054/061	wüll	1	w ü ll
+054/063	well	1	w e ll
+054/065	will	1	w i ll
+054/067	well	1	w e ll
+054/069	well	1	w e ll
+054/071	wüll	1	w ü ll
+054/073	wäll	1	w ä ll
+054/075	wäll	1	w ä ll
+054/077	wäll	1	w ä ll
+054/079	wüll	1	w ü ll
+054/081	wäll	1	w ä ll
+054/083	will	1	w i ll
+054/085	will	1	w i ll
+054/087	will	1	w i ll
+054/089	will	1	w i ll
+054/091	will	1	w i ll
+054/093	will	1	w i ll
+054/095	will	1	w i ll
+054/097	will	1	w i ll
+054/099	will	1	w i ll
+054/101	will	1	w i ll
+054/103	will	1	w i ll
+054/105	will	1	w i ll
+054/107	will	1	w i ll
+054/109	will	1	w i ll
+054/111	will	1	w i ll
+054/113	will	1	w i ll
+054/115	will	1	w i ll
+054/117	wiell	1	w ie ll
+054/119	well	1	w e ll
+054/121	will	1	w i ll
+054/123	will	1	w i ll
+054/125	will	1	w i ll
+054/127	wil	1	w i l
+054/131	will	1	w i ll
+054/133	will	1	w i ll
+054/135	will	1	w i ll
+054/137	weel	1	w ee l
+054/139	will	1	w i ll
+054/141	will	1	w i ll
+054/143	weil	1	w ei l
+054/145	weil	1	w ei l
+054/147	will	1	w i ll
+054/149	weil	1	w ei l
+054/151	well	1	w e ll
+054/153	weel	1	w ee l
+054/155	weel	1	w ee l
+054/157	weil	1	w ei l
+054/159	will	1	w i ll
+054/161	wiel	1	w ie l
+054/163	will	1	w i ll
+055/023	well	1	w e ll
+055/025	well	1	w e ll
+055/027	well	1	w e ll
+055/029	well	1	w e ll
+055/031	well	1	w e ll
+055/033	well	1	w e ll
+055/035	wel	1	w e l
+055/037	wäll	1	w ä ll
+055/039	well	1	w e ll
+055/041	well	1	w e ll
+055/043	well	1	w e ll
+055/045	well	1	w e ll
+055/047	well	1	w e ll
+055/049	well	1	w e ll
+055/051	will	1	w i ll
+055/053	will	1	w i ll
+055/055	will	1	w i ll
+055/057	will	1	w i ll
+055/059	will	1	w i ll
+055/061	well	1	w e ll
+055/063	well	1	w e ll
+055/065	well	1	w e ll
+055/067	wäll	1	w ä ll
+055/069	well	1	w e ll
+055/071	wäl	1	w ä l
+055/073	wäll	1	w ä ll
+055/075	wäll	1	w ä ll
+055/077	wäll	1	w ä ll
+055/079	wäll	1	w ä ll
+055/081	wäll	1	w ä ll
+055/083	wäll	1	w ä ll
+055/085	well	1	w e ll
+055/087	will	1	w i ll
+055/089	will	1	w i ll
+055/091	will	1	w i ll
+055/093	will	1	w i ll
+055/095	will	1	w i ll
+055/097	will	1	w i ll
+055/099	will	1	w i ll
+055/101	will	1	w i ll
+055/103	will	1	w i ll
+055/105	will	1	w i ll
+055/107	will	1	w i ll
+055/109	will	1	w i ll
+055/111	will	1	w i ll
+055/113	will	1	w i ll
+055/115	will	1	w i ll
+055/117	well	1	w e ll
+055/119	will	1	w i ll
+055/123	will	1	w i ll
+055/125	will	1	w i ll
+055/127	will	1	w i ll
+055/131	will	1	w i ll
+055/133	wiil	1	w ii l
+055/135	war	1	w a r
+055/137	will	1	w i ll
+055/139	will	1	w i ll
+055/141	weel	1	w ee l
+055/143	wel	1	w e l
+055/145	weil	1	w ei l
+055/147	weil	1	w ei l
+055/149	will	1	w i ll
+055/151	waill	1	w ai ll
+055/153	weil	1	w ei l
+055/155	weil	1	w ei l
+055/157	will	1	w i ll
+055/159	wiel	1	w ie l
+055/161	will	1	w i ll
+056/021	well	1	w e ll
+056/023	well	1	w e ll
+056/025	well	1	w e ll
+056/027	well	1	w e ll
+056/029	well	1	w e ll
+056/031	well	1	w e ll
+056/033	well	1	w e ll
+056/035	well	1	w e ll
+056/037	well	1	w e ll
+056/039	well	1	w e ll
+056/041	well	1	w e ll
+056/043	well	1	w e ll
+056/045	well	1	w e ll
+056/047	well	1	w e ll
+056/049	well	1	w e ll
+056/051	well	1	w e ll
+056/053	will	1	w i ll
+056/055	will	1	w i ll
+056/057	will	1	w i ll
+056/059	well	1	w e ll
+056/061	wäll	1	w ä ll
+056/063	wäll	1	w ä ll
+056/065	wäll	1	w ä ll
+056/067	wall	1	w a ll
+056/069	wäll	1	w ä ll
+056/071	woull	1	w ou ll
+056/073	wäll	1	w ä ll
+056/075	wäll	1	w ä ll
+056/077	wäll	1	w ä ll
+056/079	well	1	w e ll
+056/081	wäll	1	w ä ll
+056/083	well	1	w e ll
+056/085	well	1	w e ll
+056/087	well	1	w e ll
+056/089	will	1	w i ll
+056/091	will	1	w i ll
+056/093	will	1	w i ll
+056/095	well	1	w e ll
+056/097	will	1	w i ll
+056/099	will	1	w i ll
+056/101	will	1	w i ll
+056/103	will	1	w i ll
+056/105	will	1	w i ll
+056/107	will	1	w i ll
+056/109	will	1	w i ll
+056/111	well	1	w e ll
+056/113	will	1	w i ll
+056/115	will	1	w i ll
+056/117	will	1	w i ll
+056/121	will	1	w i ll
+056/123	will	1	w i ll
+056/125	will	1	w i ll
+056/127	will	1	w i ll
+056/129	will	1	w i ll
+056/131	wiel	1	w ie l
+056/133	will	1	w i ll
+056/135	will	1	w i ll
+056/137	wiel	1	w ie l
+056/139	wil	1	w i l
+056/141	will	1	w i ll
+056/143	wel	1	w e l
+056/145	wel	1	w e l
+056/147	weil	1	w ei l
+056/149	wail	1	w ai l
+056/151	weel	1	w ee l
+056/153	weill	1	w ei ll
+056/155	well	1	w e ll
+056/157	wehl	1	w eh l
+056/159	will	1	w i ll
+056/161	will	1	w i ll
+057/021	well	1	w e ll
+057/023	well	1	w e ll
+057/025	well	1	w e ll
+057/027	well	1	w e ll
+057/029	well	1	w e ll
+057/031	well	1	w e ll
+057/033	well	1	w e ll
+057/035	well	1	w e ll
+057/037	well	1	w e ll
+057/039	well	1	w e ll
+057/041	well	1	w e ll
+057/043	well	1	w e ll
+057/045	well	1	w e ll
+057/047	well	1	w e ll
+057/049	well	1	w e ll
+057/051	well	1	w e ll
+057/053	will	1	w i ll
+057/055	will	1	w i ll
+057/057	well	1	w e ll
+057/059	well	1	w e ll
+057/061	well	1	w e ll
+057/063	wäll	1	w ä ll
+057/065	well	1	w e ll
+057/067	well	1	w e ll
+057/069	well	1	w e ll
+057/071	well	1	w e ll
+057/073	wäll	1	w ä ll
+057/075	wäll	1	w ä ll
+057/077	wäll	1	w ä ll
+057/079	well	1	w e ll
+057/081	wäll	1	w ä ll
+057/083	wäll	1	w ä ll
+057/085	well	1	w e ll
+057/087	well	1	w e ll
+057/089	will	1	w i ll
+057/091	will	1	w i ll
+057/093	will	1	w i ll
+057/095	wool	1	w oo l
+057/097	will	1	w i ll
+057/099	will	1	w i ll
+057/101	woll	1	w o ll
+057/103	will	1	w i ll
+057/105	will	1	w i ll
+057/107	will	1	w i ll
+057/109	will	1	w i ll
+057/111	will	1	w i ll
+057/113	will	1	w i ll
+057/115	will	1	w i ll
+057/117	will	1	w i ll
+057/119	will	1	w i ll
+057/121	will	1	w i ll
+057/123	will	1	w i ll
+057/125	will	1	w i ll
+057/127	war	1	w a r
+057/129	will	1	w i ll
+057/131	will	1	w i ll
+057/133	will	1	w i ll
+057/135	wiel	1	w ie l
+057/137	war	1	w a r
+057/139	wiel	1	w ie l
+057/141	wiel	1	w ie l
+057/143	will	1	w i ll
+057/145	wihl	1	w ih l
+057/147	wehl	1	w eh l
+057/149	wail	1	w ai l
+057/151	weil	1	w ei l
+057/153	weil	1	w ei l
+057/155	weil	1	w ei l
+057/157	will	1	w i ll
+057/159	wiel	1	w ie l
+057/161	will	1	w i ll
+058/019	wel	1	w e l
+058/021	well	1	w e ll
+058/023	well	1	w e ll
+058/025	wel	1	w e l
+058/027	well	1	w e ll
+058/029	wel	1	w e l
+058/031	well	1	w e ll
+058/033	well	1	w e ll
+058/035	well	1	w e ll
+058/037	wehl	1	w eh l
+058/039	well	1	w e ll
+058/041	well	1	w e ll
+058/043	well	1	w e ll
+058/045	wäll	1	w ä ll
+058/047	wäll	1	w ä ll
+058/049	wäll	1	w ä ll
+058/051	wäll	1	w ä ll
+058/053	wäll	1	w ä ll
+058/055	well	1	w e ll
+058/057	well	1	w e ll
+058/059	well	1	w e ll
+058/061	wäll	1	w ä ll
+058/063	well	1	w e ll
+058/065	wäll	1	w ä ll
+058/067	wäll	1	w ä ll
+058/069	well	1	w e ll
+058/071	will	1	w i ll
+058/073	will	1	w i ll
+058/075	wäll	1	w ä ll
+058/077	wäll	1	w ä ll
+058/079	wäll	1	w ä ll
+058/081	wäll	1	w ä ll
+058/083	wäll	1	w ä ll
+058/085	wäll	1	w ä ll
+058/087	wäll	1	w ä ll
+058/089	will	1	w i ll
+058/091	will	1	w i ll
+058/093	will	1	w i ll
+058/095	will	1	w i ll
+058/097	well	1	w e ll
+058/099	will	1	w i ll
+058/101	will	1	w i ll
+058/103	will	1	w i ll
+058/105	will	1	w i ll
+058/107	will	1	w i ll
+058/109	will	1	w i ll
+058/111	well	1	w e ll
+058/113	will	1	w i ll
+058/115	will	1	w i ll
+058/117	will	1	w i ll
+058/119	will	1	w i ll
+058/121	will	1	w i ll
+058/123	wihs	1	w ih s
+058/125	wihs	1	w ih s
+058/127	wil	1	w i l
+058/129	wiel	1	w ie l
+058/131	will	1	w i ll
+058/133	will	1	w i ll
+058/135	wiel	1	w ie l
+058/137	wiel	1	w ie l
+058/139	weil	1	w ei l
+058/141	wiel	1	w ie l
+058/143	wil	1	w i l
+058/145	wihl	1	w ih l
+058/147	wehl	1	w eh l
+058/149	wehl	1	w eh l
+058/151	wehl	1	w eh l
+058/153	wiel	1	w ie l
+058/155	wiel	1	w ie l
+058/157	will	1	w i ll
+058/159	wiel	1	w ie l
+059/019	will	1	w i ll
+059/021	well	1	w e ll
+059/023	well	1	w e ll
+059/025	wel	1	w e l
+059/027	well	1	w e ll
+059/029	well	1	w e ll
+059/031	well	1	w e ll
+059/033	well	1	w e ll
+059/035	well	1	w e ll
+059/037	well	1	w e ll
+059/039	wel	1	w e l
+059/041	wel	1	w e l
+059/043	well	1	w e ll
+059/045	well	1	w e ll
+059/047	well	1	w e ll
+059/049	well	1	w e ll
+059/051	wäll	1	w ä ll
+059/053	well	1	w e ll
+059/055	wäll	1	w ä ll
+059/057	wel	1	w e l
+059/059	wäll	1	w ä ll
+059/061	wäll	1	w ä ll
+059/063	well	1	w e ll
+059/065	well	1	w e ll
+059/067	well	1	w e ll
+059/069	äi	1	äi
+059/071	well	1	w e ll
+059/073	well	1	w e ll
+059/075	well	1	w e ll
+059/077	will	1	w i ll
+059/079	wäll	1	w ä ll
+059/081	wäll	1	w ä ll
+059/083	wäll	1	w ä ll
+059/085	wäll	1	w ä ll
+059/087	wäll	1	w ä ll
+059/089	well	1	w e ll
+059/091	will	1	w i ll
+059/093	will	1	w i ll
+059/095	will	1	w i ll
+059/097	will	1	w i ll
+059/099	will	1	w i ll
+059/101	will	1	w i ll
+059/103	will	1	w i ll
+059/105	will	1	w i ll
+059/107	will	1	w i ll
+059/109	sulls	1	s u ll s
+059/111	will	1	w i ll
+059/113	will	1	w i ll
+059/115	will	1	w i ll
+059/117	währsch	1	w äh r sch
+059/119	will	1	w i ll
+059/121	wie	1	w ie
+059/123	will	1	w i ll
+059/125	will	1	w i ll
+059/127	will	1	w i ll
+059/129	well	1	w e ll
+059/131	will	1	w i ll
+059/133	will	1	w i ll
+059/135	wihl	1	w ih l
+059/137	warsch	1	w a r sch
+059/139	wiel	1	w ie l
+059/141	wiel	1	w ie l
+059/143	wiel	1	w ie l
+059/145	wiel	1	w ie l
+059/147	wiel	1	w ie l
+059/149	will	1	w i ll
+059/151	wiel	1	w ie l
+059/153	wihl	1	w ih l
+059/155	will	1	w i ll
+059/157	warsch	1	w a r sch
+059/159	will	1	w i ll
+059/161	will	1	w i ll
+059/165	will	1	w i ll
+059/169	will	1	w i ll
+060/021	well	1	w e ll
+060/023	weel	1	w ee l
+060/025	wel	1	w e l
+060/027	well	1	w e ll
+060/029	well	1	w e ll
+060/031	well	1	w e ll
+060/033	well	1	w e ll
+060/035	well	1	w e ll
+060/037	well	1	w e ll
+060/039	wel	1	w e l
+060/041	wöll	1	w ö ll
+060/043	well	1	w e ll
+060/045	well	1	w e ll
+060/047	will	1	w i ll
+060/049	will	1	w i ll
+060/051	woll	1	w o ll
+060/053	will	1	w i ll
+060/055	well	1	w e ll
+060/057	well	1	w e ll
+060/059	wäll	1	w ä ll
+060/061	well	1	w e ll
+060/063	well	1	w e ll
+060/065	well	1	w e ll
+060/067	well	1	w e ll
+060/069	well	1	w e ll
+060/071	well	1	w e ll
+060/073	wir	1	w i r
+060/075	wehl	1	w eh l
+060/077	wäll	1	w ä ll
+060/079	wäll	1	w ä ll
+060/081	well	1	w e ll
+060/083	well	1	w e ll
+060/085	well	1	w e ll
+060/087	will	1	w i ll
+060/089	will	1	w i ll
+060/091	will	1	w i ll
+060/093	will	1	w i ll
+060/095	will	1	w i ll
+060/097	will	1	w i ll
+060/099	will	1	w i ll
+060/101	will	1	w i ll
+060/103	will	1	w i ll
+060/105	will	1	w i ll
+060/107	well	1	w e ll
+060/109	will	1	w i ll
+060/111	will	1	w i ll
+060/113	will	1	w i ll
+060/115	will	1	w i ll
+060/117	will	1	w i ll
+060/119	wia	1	w ia
+060/121	wie	1	w ie
+060/123	will	1	w i ll
+060/125	will	1	w i ll
+060/127	well	1	w e ll
+060/129	well	1	w e ll
+060/131	NA	NA	-
+060/135	will	1	w i ll
+060/137	will	1	w i ll
+060/139	wiel	1	w ie l
+060/141	wiel	1	w ie l
+060/143	wihl	1	w ih l
+060/145	wiel	1	w ie l
+060/147	wihl	1	w ih l
+060/149	wil	1	w i l
+060/151	warsch	1	w a r sch
+060/153	wiel	1	w ie l
+060/155	wiel	1	w ie l
+060/157	wil	1	w i l
+060/159	wiel	1	w ie l
+060/163	will	1	w i ll
+060/165	well	1	w e ll
+061/021	will	1	w i ll
+061/023	well	1	w e ll
+061/025	well	1	w e ll
+061/027	wel	1	w e l
+061/029	well	1	w e ll
+061/031	well	1	w e ll
+061/033	well	1	w e ll
+061/035	well	1	w e ll
+061/037	well	1	w e ll
+061/039	well	1	w e ll
+061/041	wll	1	w ll
+061/043	well	1	w e ll
+061/045	well	1	w e ll
+061/047	will	1	w i ll
+061/049	will	1	w i ll
+061/051	will	1	w i ll
+061/053	will	1	w i ll
+061/055	will	1	w i ll
+061/057	wöll	1	w ö ll
+061/059	wöl	1	w ö l
+061/061	wäll	1	w ä ll
+061/063	well	1	w e ll
+061/065	will	1	w i ll
+061/067	well	1	w e ll
+061/069	well	1	w e ll
+061/071	wöll	1	w ö ll
+061/073	will	1	w i ll
+061/075	will	1	w i ll
+061/077	well	1	w e ll
+061/079	wäll	1	w ä ll
+061/081	wäll	1	w ä ll
+061/083	well	1	w e ll
+061/085	will	1	w i ll
+061/087	will	1	w i ll
+061/089	will	1	w i ll
+061/091	will	1	w i ll
+061/093	will	1	w i ll
+061/095	will	1	w i ll
+061/097	will	1	w i ll
+061/099	will	1	w i ll
+061/101	will	1	w i ll
+061/103	will	1	w i ll
+061/105	wäll	1	w ä ll
+061/107	will	1	w i ll
+061/109	will	1	w i ll
+061/111	will	1	w i ll
+061/113	will	1	w i ll
+061/115	will	1	w i ll
+061/117	wi	1	w i
+061/119	waa	1	w aa
+061/121	wie	1	w ie
+061/123	well	1	w e ll
+061/125	will	1	w i ll
+061/127	wöll	1	w ö ll
+061/129	will	1	w i ll
+061/131	warsch	1	w a r sch
+061/133	well	1	w e ll
+061/137	wiel	1	w ie l
+061/139	wiehl	1	w ieh l
+061/141	wiel	1	w ie l
+061/143	wiel	1	w ie l
+061/145	wiehl	1	w ieh l
+061/147	will	1	w i ll
+061/149	wiehl	1	w ieh l
+061/151	wil	1	w i l
+061/153	wiel	1	w ie l
+061/155	wiehl	1	w ieh l
+061/157	will	1	w i ll
+061/159	wiel	1	w ie l
+061/161	wiel	1	w ie l
+061/165	will	1	w i ll
+062/021	well	1	w e ll
+062/023	well	1	w e ll
+062/025	well	1	w e ll
+062/027	wel	1	w e l
+062/029	well	1	w e ll
+062/031	well	1	w e ll
+062/033	wäll	1	w ä ll
+062/035	well	1	w e ll
+062/037	well	1	w e ll
+062/039	well	1	w e ll
+062/041	wäll	1	w ä ll
+062/043	wöll	1	w ö ll
+062/045	will	1	w i ll
+062/047	will	1	w i ll
+062/049	will	1	w i ll
+062/051	will	1	w i ll
+062/053	will	1	w i ll
+062/055	will	1	w i ll
+062/057	will	1	w i ll
+062/059	well	1	w e ll
+062/061	wäll	1	w ä ll
+062/063	well	1	w e ll
+062/065	well	1	w e ll
+062/067	will	1	w i ll
+062/069	will	1	w i ll
+062/071	well	1	w e ll
+062/073	will	1	w i ll
+062/075	witt	1	w i tt
+062/077	wehl	1	w eh l
+062/079	wäll	1	w ä ll
+062/081	wäll	1	w ä ll
+062/083	wäll	1	w ä ll
+062/085	well	1	w e ll
+062/087	will	1	w i ll
+062/089	will	1	w i ll
+062/091	will	1	w i ll
+062/093	will	1	w i ll
+062/095	will	1	w i ll
+062/097	will	1	w i ll
+062/099	will	1	w i ll
+062/101	will	1	w i ll
+062/103	well	1	w e ll
+062/105	will	1	w i ll
+062/107	will	1	w i ll
+062/109	will	1	w i ll
+062/111	will	1	w i ll
+062/113	will	1	w i ll
+062/115	we	1	w e
+062/117	wie	1	w ie
+062/119	wä	1	w ä
+062/121	we	1	w e
+062/123	will	1	w i ll
+062/125	wöll	1	w ö ll
+062/127	well	1	w e ll
+062/129	warch	1	w a r ch
+062/131	will	1	w i ll
+062/133	wa	1	w a
+062/135	well	1	w e ll
+062/137	wiil	1	w ii l
+062/139	will	1	w i ll
+062/141	wiell	1	w ie ll
+062/143	wiehl	1	w ieh l
+062/145	wöhl	1	w öh l
+062/147	wihl	1	w ih l
+062/149	wil	1	w i l
+062/151	wihl	1	w ih l
+062/153	will	1	w i ll
+062/155	wiel	1	w ie l
+062/157	will	1	w i ll
+062/159	wil	1	w i l
+062/161	wihl	1	w ih l
+063/021	will	1	w i ll
+063/023	well	1	w e ll
+063/025	wöll	1	w ö ll
+063/027	well	1	w e ll
+063/029	well	1	w e ll
+063/031	well	1	w e ll
+063/033	woll	1	w o ll
+063/035	well	1	w e ll
+063/037	well	1	w e ll
+063/039	wäll	1	w ä ll
+063/041	well	1	w e ll
+063/043	well	1	w e ll
+063/045	wöll	1	w ö ll
+063/047	will	1	w i ll
+063/049	will	1	w i ll
+063/051	will	1	w i ll
+063/053	will	1	w i ll
+063/055	will	1	w i ll
+063/057	will	1	w i ll
+063/059	well	1	w e ll
+063/061	well	1	w e ll
+063/063	well	1	w e ll
+063/065	will	1	w i ll
+063/067	will	1	w i ll
+063/069	will	1	w i ll
+063/071	will	1	w i ll
+063/073	will	1	w i ll
+063/075	well	1	w e ll
+063/077	well	1	w e ll
+063/079	well	1	w e ll
+063/081	weel	1	w ee l
+063/083	wäll	1	w ä ll
+063/085	will	1	w i ll
+063/087	will	1	w i ll
+063/089	will	1	w i ll
+063/091	will	1	w i ll
+063/093	will	1	w i ll
+063/095	will	1	w i ll
+063/097	will	1	w i ll
+063/099	wärsch	1	w ä r sch
+063/101	will	1	w i ll
+063/103	wil	1	w i l
+063/105	will	1	w i ll
+063/107	will	1	w i ll
+063/109	will	1	w i ll
+063/111	will	1	w i ll
+063/113	will	1	w i ll
+063/115	will	1	w i ll
+063/117	will	1	w i ll
+063/119	war	1	w a r
+063/121	will	1	w i ll
+063/123	waaor	1	w aao r
+063/125	war	1	w a r
+063/127	will	1	w i ll
+063/135	well	1	w e ll
+063/137	will	1	w i ll
+063/139	will	1	w i ll
+063/141	waa	1	w aa
+063/143	wil	1	w i l
+063/145	wa	1	w a
+063/147	wiihl	1	w iih l
+063/149	wiel	1	w ie l
+063/151	wiel	1	w ie l
+063/153	wiel	1	w ie l
+063/155	wil	1	w i l
+063/157	wiel	1	w ie l
+063/159	wiel	1	w ie l
+063/161	will	1	w i ll
+063/163	wil	1	w i l
+063/165	will	1	w i ll
+064/023	well	1	w e ll
+064/025	wehl	1	w eh l
+064/027	well	1	w e ll
+064/029	well	1	w e ll
+064/031	NA	NA	-
+064/033	wel	1	w e l
+064/035	well	1	w e ll
+064/037	well	1	w e ll
+064/039	wäll	1	w ä ll
+064/041	well	1	w e ll
+064/043	well	1	w e ll
+064/045	will	1	w i ll
+064/047	will	1	w i ll
+064/049	will	1	w i ll
+064/051	will	1	w i ll
+064/053	will	1	w i ll
+064/055	will	1	w i ll
+064/057	will	1	w i ll
+064/059	well	1	w e ll
+064/061	well	1	w e ll
+064/063	well	1	w e ll
+064/065	will	1	w i ll
+064/067	will	1	w i ll
+064/069	will	1	w i ll
+064/071	will	1	w i ll
+064/073	will	1	w i ll
+064/075	will	1	w i ll
+064/077	will	1	w i ll
+064/079	will	1	w i ll
+064/081	weäl	1	w eä l
+064/083	will	1	w i ll
+064/085	will	1	w i ll
+064/087	will	1	w i ll
+064/089	will	1	w i ll
+064/091	will	1	w i ll
+064/093	will	1	w i ll
+064/095	will	1	w i ll
+064/097	will	1	w i ll
+064/099	will	1	w i ll
+064/101	will	1	w i ll
+064/103	will	1	w i ll
+064/105	will	1	w i ll
+064/107	will	1	w i ll
+064/109	well	1	w e ll
+064/111	waar	1	w aa r
+064/113	will	1	w i ll
+064/115	will	1	w i ll
+064/117	will	1	w i ll
+064/119	will	1	w i ll
+064/121	will	1	w i ll
+064/123	war	1	w a r
+064/125	will	1	w i ll
+064/127	will	1	w i ll
+064/135	well	1	w e ll
+064/137	will	1	w i ll
+064/139	will	1	w i ll
+064/141	war	1	w a r
+064/143	wil	1	w i l
+064/145	wil	1	w i l
+064/147	wel	1	w e l
+064/149	wiel	1	w ie l
+064/151	wiel	1	w ie l
+064/153	wihl	1	w ih l
+064/155	will	1	w i ll
+064/157	wiel	1	w ie l
+064/159	wil	1	w i l
+065/021	wel	1	w e l
+065/023	well	1	w e ll
+065/025	wel	1	w e l
+065/027	well	1	w e ll
+065/029	well	1	w e ll
+065/031	well	1	w e ll
+065/033	well	1	w e ll
+065/035	well	1	w e ll
+065/037	well	1	w e ll
+065/039	well	1	w e ll
+065/041	wöll	1	w ö ll
+065/043	well	1	w e ll
+065/045	will	1	w i ll
+065/047	will	1	w i ll
+065/049	will	1	w i ll
+065/051	will	1	w i ll
+065/053	will	1	w i ll
+065/055	will	1	w i ll
+065/057	will	1	w i ll
+065/059	will	1	w i ll
+065/061	well	1	w e ll
+065/063	well	1	w e ll
+065/065	well	1	w e ll
+065/067	well	1	w e ll
+065/069	will	1	w i ll
+065/071	will	1	w i ll
+065/073	wil	1	w i l
+065/075	will	1	w i ll
+065/077	will	1	w i ll
+065/079	will	1	w i ll
+065/081	will	1	w i ll
+065/083	well	1	w e ll
+065/085	will	1	w i ll
+065/087	will	1	w i ll
+065/089	will	1	w i ll
+065/091	will	1	w i ll
+065/093	will	1	w i ll
+065/095	will	1	w i ll
+065/097	wil	1	w i l
+065/101	will	1	w i ll
+065/103	will	1	w i ll
+065/105	will	1	w i ll
+065/107	well	1	w e ll
+065/109	will	1	w i ll
+065/111	will	1	w i ll
+065/113	war	1	w a r
+065/115	will	1	w i ll
+065/121	will	1	w i ll
+065/123	will	1	w i ll
+065/137	will	1	w i ll
+065/139	wel	1	w e l
+065/143	wiel	1	w ie l
+065/145	well	1	w e ll
+065/147	wihl	1	w ih l
+065/149	wiel	1	w ie l
+065/151	wiel	1	w ie l
+065/153	wil	1	w i l
+065/155	wiel	1	w ie l
+065/157	will	1	w i ll
+065/159	wiel	1	w ie l
+066/021	well	1	w e ll
+066/023	will	1	w i ll
+066/025	wel	1	w e l
+066/027	well	1	w e ll
+066/029	NA	NA	-
+066/031	well	1	w e ll
+066/033	well	1	w e ll
+066/035	well	1	w e ll
+066/037	well	1	w e ll
+066/039	well	1	w e ll
+066/041	well	1	w e ll
+066/043	well	1	w e ll
+066/045	will	1	w i ll
+066/047	will	1	w i ll
+066/049	will	1	w i ll
+066/051	will	1	w i ll
+066/053	wiell	1	w ie ll
+066/055	will	1	w i ll
+066/057	will	1	w i ll
+066/059	will	1	w i ll
+066/061	well	1	w e ll
+066/063	well	1	w e ll
+066/065	well	1	w e ll
+066/067	well	1	w e ll
+066/069	wäll	1	w ä ll
+066/071	will	1	w i ll
+066/073	will	1	w i ll
+066/075	will	1	w i ll
+066/077	will	1	w i ll
+066/079	will	1	w i ll
+066/081	will	1	w i ll
+066/083	will	1	w i ll
+066/085	will	1	w i ll
+066/087	will	1	w i ll
+066/089	will	1	w i ll
+066/091	will	1	w i ll
+066/093	will	1	w i ll
+066/095	will	1	w i ll
+066/097	will	1	w i ll
+066/099	wll	1	w ll
+066/101	war	1	w a r
+066/103	will	1	w i ll
+066/105	well	1	w e ll
+066/107	will	1	w i ll
+066/109	will	1	w i ll
+066/111	will	1	w i ll
+066/113	will	1	w i ll
+066/121	will	1	w i ll
+066/139	well	1	w e ll
+066/143	war	1	w a r
+066/145	wihl	1	w ih l
+066/147	wiel	1	w ie l
+066/149	will	1	w i ll
+066/151	wiel	1	w ie l
+066/153	wil	1	w i l
+066/155	wil	1	w i l
+066/157	wiel	1	w ie l
+066/159	war	1	w a r
+066/161	wihl	1	w ih l
+066/163	will	1	w i ll
+067/021	well	1	w e ll
+067/023	well	1	w e ll
+067/025	well	1	w e ll
+067/027	well	1	w e ll
+067/029	well	1	w e ll
+067/031	well	1	w e ll
+067/033	well	1	w e ll
+067/035	weell	1	w ee ll
+067/037	well	1	w e ll
+067/039	well	1	w e ll
+067/041	NA	NA	-
+067/043	will	1	w i ll
+067/045	well	1	w e ll
+067/047	will	1	w i ll
+067/049	will	1	w i ll
+067/051	will	1	w i ll
+067/053	will	1	w i ll
+067/055	will	1	w i ll
+067/057	will	1	w i ll
+067/059	will	1	w i ll
+067/061	well	1	w e ll
+067/063	well	1	w e ll
+067/065	well	1	w e ll
+067/067	will	1	w i ll
+067/069	will	1	w i ll
+067/071	well	1	w e ll
+067/073	will	1	w i ll
+067/075	will	1	w i ll
+067/077	will	1	w i ll
+067/079	will	1	w i ll
+067/081	will	1	w i ll
+067/083	will	1	w i ll
+067/085	will	1	w i ll
+067/087	will	1	w i ll
+067/089	will	1	w i ll
+067/091	will	1	w i ll
+067/093	will	1	w i ll
+067/095	will	1	w i ll
+067/097	will	1	w i ll
+067/099	wü	1	w ü
+067/101	wül	1	w ü l
+067/103	wüll	1	w ü ll
+067/105	will	1	w i ll
+067/107	will	1	w i ll
+067/109	will	1	w i ll
+067/111	wer	1	w e r
+067/113	will	1	w i ll
+067/143	will	1	w i ll
+067/145	will	1	w i ll
+067/147	wil	1	w i l
+067/149	wehl	1	w eh l
+067/151	wehl	1	w eh l
+067/153	wiel	1	w ie l
+067/155	wiel	1	w ie l
+067/157	weel	1	w ee l
+067/159	wiel	1	w ie l
+067/161	wiel	1	w ie l
+067/163	will	1	w i ll
+067/165	well	1	w e ll
+067/177	wil	1	w i l
+068/021	well	1	w e ll
+068/023	well	1	w e ll
+068/025	well	1	w e ll
+068/027	well	1	w e ll
+068/029	well	1	w e ll
+068/031	wöll	1	w ö ll
+068/033	well	1	w e ll
+068/035	well	1	w e ll
+068/037	well	1	w e ll
+068/039	will	1	w i ll
+068/041	will	1	w i ll
+068/043	will	1	w i ll
+068/045	will	1	w i ll
+068/047	will	1	w i ll
+068/049	will	1	w i ll
+068/051	will	1	w i ll
+068/053	will	1	w i ll
+068/055	will	1	w i ll
+068/057	will	1	w i ll
+068/059	will	1	w i ll
+068/061	will	1	w i ll
+068/063	will	1	w i ll
+068/065	well	1	w e ll
+068/067	will	1	w i ll
+068/069	will	1	w i ll
+068/071	will	1	w i ll
+068/073	will	1	w i ll
+068/075	will	1	w i ll
+068/077	will	1	w i ll
+068/079	will	1	w i ll
+068/081	will	1	w i ll
+068/083	will	1	w i ll
+068/085	will	1	w i ll
+068/087	will	1	w i ll
+068/089	will	1	w i ll
+068/091	will	1	w i ll
+068/093	will	1	w i ll
+068/095	wi	1	w i
+068/097	wül	1	w ü l
+068/099	wüll	1	w ü ll
+068/101	NA	NA	-
+068/103	will	1	w i ll
+068/105	wüll	1	w ü ll
+068/107	will	1	w i ll
+068/109	wea	1	w ea
+068/111	will	1	w i ll
+068/145	well	1	w e ll
+068/147	war	1	w a r
+068/149	wel	1	w e l
+068/151	wel	1	w e l
+068/153	war	1	w a r
+068/155	will	1	w i ll
+068/157	will	1	w i ll
+068/159	wiel	1	w ie l
+068/161	well	1	w e ll
+068/165	will	1	w i ll
+069/019	will	1	w i ll
+069/023	well	1	w e ll
+069/025	well	1	w e ll
+069/027	well	1	w e ll
+069/029	well	1	w e ll
+069/031	well	1	w e ll
+069/033	well	1	w e ll
+069/035	well	1	w e ll
+069/037	will	1	w i ll
+069/039	well	1	w e ll
+069/041	will	1	w i ll
+069/043	will	1	w i ll
+069/045	will	1	w i ll
+069/047	will	1	w i ll
+069/049	will	1	w i ll
+069/051	will	1	w i ll
+069/053	will	1	w i ll
+069/055	will	1	w i ll
+069/057	well	1	w e ll
+069/059	well	1	w e ll
+069/061	well	1	w e ll
+069/063	well	1	w e ll
+069/065	will	1	w i ll
+069/067	will	1	w i ll
+069/069	well	1	w e ll
+069/071	will	1	w i ll
+069/073	will	1	w i ll
+069/075	will	1	w i ll
+069/077	will	1	w i ll
+069/079	will	1	w i ll
+069/081	will	1	w i ll
+069/083	will	1	w i ll
+069/085	will	1	w i ll
+069/087	will	1	w i ll
+069/089	will	1	w i ll
+069/091	will	1	w i ll
+069/093	will	1	w i ll
+069/095	will	1	w i ll
+069/097	wüll	1	w ü ll
+069/099	wl	1	w l
+069/101	will	1	w i ll
+069/103	will	1	w i ll
+069/105	will	1	w i ll
+069/107	will	1	w i ll
+069/109	will	1	w i ll
+069/111	will	1	w i ll
+069/147	will	1	w i ll
+069/149	wel	1	w e l
+069/151	war	1	w a r
+069/153	well	1	w e ll
+069/157	wiell	1	w ie ll
+069/159	wiel	1	w ie l
+069/161	well	1	w e ll
+069/163	wihl	1	w ih l
+069/165	will	1	w i ll
+070/019	will	1	w i ll
+070/023	well	1	w e ll
+070/025	well	1	w e ll
+070/027	well	1	w e ll
+070/029	well	1	w e ll
+070/031	well	1	w e ll
+070/033	well	1	w e ll
+070/035	well	1	w e ll
+070/037	well	1	w e ll
+070/039	will	1	w i ll
+070/041	will	1	w i ll
+070/043	will	1	w i ll
+070/045	will	1	w i ll
+070/047	will	1	w i ll
+070/049	will	1	w i ll
+070/051	will	1	w i ll
+070/053	will	1	w i ll
+070/055	will	1	w i ll
+070/057	will	1	w i ll
+070/059	well	1	w e ll
+070/061	well	1	w e ll
+070/063	will	1	w i ll
+070/065	will	1	w i ll
+070/067	will	1	w i ll
+070/069	will	1	w i ll
+070/071	will	1	w i ll
+070/073	will	1	w i ll
+070/075	will	1	w i ll
+070/077	will	1	w i ll
+070/079	will	1	w i ll
+070/081	will	1	w i ll
+070/083	will	1	w i ll
+070/085	will	1	w i ll
+070/087	will	1	w i ll
+070/089	will	1	w i ll
+070/091	will	1	w i ll
+070/093	will	1	w i ll
+070/095	wüll	1	w ü ll
+070/097	wll	1	w ll
+070/099	wüll	1	w ü ll
+070/101	wül	1	w ü l
+070/103	wia	1	w ia
+070/105	wl	1	w l
+070/107	will	1	w i ll
+070/109	will	1	w i ll
+070/111	wer	1	w e r
+070/145	war	1	w a r
+070/147	will	1	w i ll
+070/149	waa	1	w aa
+070/151	will	1	w i ll
+070/153	well	1	w e ll
+070/155	waar	1	w aa r
+070/157	wiel	1	w ie l
+070/159	wijl	1	w i j l
+070/161	well	1	w e ll
+070/163	wihl	1	w ih l
+070/165	well	1	w e ll
+071/017	NA	NA	-
+071/019	wel	1	w e l
+071/021	wel	1	w e l
+071/023	well	1	w e ll
+071/025	well	1	w e ll
+071/027	well	1	w e ll
+071/029	wöll	1	w ö ll
+071/031	well	1	w e ll
+071/033	well	1	w e ll
+071/035	will	1	w i ll
+071/037	will	1	w i ll
+071/039	will	1	w i ll
+071/041	will	1	w i ll
+071/043	will	1	w i ll
+071/045	will	1	w i ll
+071/047	will	1	w i ll
+071/049	well	1	w e ll
+071/051	will	1	w i ll
+071/053	will	1	w i ll
+071/055	will	1	w i ll
+071/057	will	1	w i ll
+071/059	well	1	w e ll
+071/063	will	1	w i ll
+071/065	will	1	w i ll
+071/067	will	1	w i ll
+071/069	will	1	w i ll
+071/071	will	1	w i ll
+071/073	will	1	w i ll
+071/075	will	1	w i ll
+071/077	will	1	w i ll
+071/079	will	1	w i ll
+071/081	will	1	w i ll
+071/083	will	1	w i ll
+071/085	will	1	w i ll
+071/087	will	1	w i ll
+071/089	will	1	w i ll
+071/091	will	1	w i ll
+071/093	wüll	1	w ü ll
+071/095	will	1	w i ll
+071/097	will	1	w i ll
+071/099	wl	1	w l
+071/101	wl	1	w l
+071/103	wia	1	w ia
+071/105	wül	1	w ü l
+071/145	wa	1	w a
+071/147	well	1	w e ll
+071/149	war	1	w a r
+071/151	well	1	w e ll
+071/153	war	1	w a r
+071/155	wüj	1	w ü j
+071/157	wö	1	w ö
+071/159	wial	1	w ia l
+071/161	war	1	w a r
+071/163	wer	1	w e r
+071/177	wil	1	w i l
+071/179	will	1	w i ll
+072/017	well	1	w e ll
+072/019	wel	1	w e l
+072/021	well	1	w e ll
+072/023	wel	1	w e l
+072/025	well	1	w e ll
+072/027	NA	NA	-
+072/029	well	1	w e ll
+072/031	well	1	w e ll
+072/033	will	1	w i ll
+072/035	will	1	w i ll
+072/037	will	1	w i ll
+072/039	will	1	w i ll
+072/041	will	1	w i ll
+072/043	will	1	w i ll
+072/045	will	1	w i ll
+072/047	will	1	w i ll
+072/049	will	1	w i ll
+072/051	will	1	w i ll
+072/053	will	1	w i ll
+072/055	will	1	w i ll
+072/057	will	1	w i ll
+072/059	will	1	w i ll
+072/061	will	1	w i ll
+072/063	will	1	w i ll
+072/065	will	1	w i ll
+072/067	will	1	w i ll
+072/069	will	1	w i ll
+072/071	will	1	w i ll
+072/073	will	1	w i ll
+072/075	will	1	w i ll
+072/077	will	1	w i ll
+072/079	will	1	w i ll
+072/081	will	1	w i ll
+072/083	wüll	1	w ü ll
+072/085	will	1	w i ll
+072/087	will	1	w i ll
+072/089	will	1	w i ll
+072/091	will	1	w i ll
+072/093	will	1	w i ll
+072/095	will	1	w i ll
+072/097	will	1	w i ll
+072/099	wül	1	w ü l
+072/101	wül	1	w ü l
+072/103	wll	1	w ll
+072/105	will	1	w i ll
+072/107	wl	1	w l
+072/145	wjesch	1	w j e sch
+072/147	will	1	w i ll
+072/149	wej	1	w e j
+072/151	well	1	w e ll
+072/153	war	1	w a r
+072/155	wül	1	w ü l
+072/157	wa	1	w a
+072/159	wiel	1	w ie l
+072/161	wll	1	w ll
+072/177	wejl	1	w e j l
+072/179	will	1	w i ll
+072/181	weil	1	w ei l
+073/017	well	1	w e ll
+073/019	well	1	w e ll
+073/021	wel	1	w e l
+073/023	wel	1	w e l
+073/025	well	1	w e ll
+073/027	wöll	1	w ö ll
+073/029	well	1	w e ll
+073/031	well	1	w e ll
+073/033	well	1	w e ll
+073/035	well	1	w e ll
+073/037	will	1	w i ll
+073/039	will	1	w i ll
+073/041	wöll	1	w ö ll
+073/043	will	1	w i ll
+073/045	will	1	w i ll
+073/047	will	1	w i ll
+073/049	will	1	w i ll
+073/051	will	1	w i ll
+073/053	will	1	w i ll
+073/055	will	1	w i ll
+073/057	will	1	w i ll
+073/059	will	1	w i ll
+073/061	will	1	w i ll
+073/063	will	1	w i ll
+073/065	will	1	w i ll
+073/067	will	1	w i ll
+073/069	will	1	w i ll
+073/071	will	1	w i ll
+073/073	will	1	w i ll
+073/075	will	1	w i ll
+073/077	will	1	w i ll
+073/079	will	1	w i ll
+073/081	will	1	w i ll
+073/083	will	1	w i ll
+073/085	will	1	w i ll
+073/087	will	1	w i ll
+073/089	will	1	w i ll
+073/091	will	1	w i ll
+073/093	wl	1	w l
+073/095	will	1	w i ll
+073/097	will	1	w i ll
+073/099	wül	1	w ü l
+073/101	wül	1	w ü l
+073/103	will	1	w i ll
+073/105	will	1	w i ll
+073/107	wll	1	w ll
+073/145	wa	1	w a
+073/147	we	1	w e
+073/149	wä	1	w ä
+073/151	wejll	1	w e j ll
+073/153	well	1	w e ll
+073/155	wel	1	w e l
+073/157	wüh	1	w üh
+073/159	wöel	1	w öe l
+073/161	well	1	w e ll
+073/163	will	1	w i ll
+073/165	will	1	w i ll
+073/175	wel	1	w e l
+073/177	weil	1	w ei l
+074/019	well	1	w e ll
+074/021	well	1	w e ll
+074/023	wel	1	w e l
+074/025	well	1	w e ll
+074/027	well	1	w e ll
+074/029	well	1	w e ll
+074/031	well	1	w e ll
+074/033	well	1	w e ll
+074/035	will	1	w i ll
+074/037	well	1	w e ll
+074/039	will	1	w i ll
+074/041	will	1	w i ll
+074/043	will	1	w i ll
+074/045	will	1	w i ll
+074/047	will	1	w i ll
+074/049	will	1	w i ll
+074/051	will	1	w i ll
+074/053	will	1	w i ll
+074/055	will	1	w i ll
+074/057	will	1	w i ll
+074/059	will	1	w i ll
+074/061	will	1	w i ll
+074/063	will	1	w i ll
+074/065	will	1	w i ll
+074/067	will	1	w i ll
+074/069	will	1	w i ll
+074/071	will	1	w i ll
+074/073	will	1	w i ll
+074/075	will	1	w i ll
+074/077	will	1	w i ll
+074/079	will	1	w i ll
+074/081	will	1	w i ll
+074/083	will	1	w i ll
+074/085	wüll	1	w ü ll
+074/087	wll	1	w ll
+074/089	will	1	w i ll
+074/091	will	1	w i ll
+074/093	wül	1	w ü l
+074/095	will	1	w i ll
+074/097	will	1	w i ll
+074/099	wül	1	w ü l
+074/101	wie	1	w ie
+074/103	wüll	1	w ü ll
+074/105	wüll	1	w ü ll
+074/107	wia	1	w ia
+074/109	wüll	1	w ü ll
+074/145	wä	1	w ä
+074/147	weasch	1	w ea sch
+074/149	wa	1	w a
+074/153	well	1	w e ll
+074/155	wer	1	w e r
+074/157	war	1	w a r
+074/159	weoll	1	w eo ll
+074/161	wi	1	w i
+074/163	wiäll	1	w iä ll
+074/165	will	1	w i ll
+075/019	vel	1	v e l
+075/021	wöll	1	w ö ll
+075/023	wel	1	w e l
+075/025	well	1	w e ll
+075/027	well	1	w e ll
+075/029	well	1	w e ll
+075/031	well	1	w e ll
+075/033	well	1	w e ll
+075/035	will	1	w i ll
+075/037	will	1	w i ll
+075/039	will	1	w i ll
+075/041	will	1	w i ll
+075/043	will	1	w i ll
+075/045	will	1	w i ll
+075/047	will	1	w i ll
+075/049	will	1	w i ll
+075/051	will	1	w i ll
+075/053	will	1	w i ll
+075/055	will	1	w i ll
+075/057	will	1	w i ll
+075/059	will	1	w i ll
+075/061	will	1	w i ll
+075/063	will	1	w i ll
+075/065	will	1	w i ll
+075/067	will	1	w i ll
+075/069	will	1	w i ll
+075/071	will	1	w i ll
+075/073	will	1	w i ll
+075/075	well	1	w e ll
+075/077	will	1	w i ll
+075/079	will	1	w i ll
+075/081	will	1	w i ll
+075/083	will	1	w i ll
+075/085	will	1	w i ll
+075/087	will	1	w i ll
+075/089	will	1	w i ll
+075/091	will	1	w i ll
+075/093	will	1	w i ll
+075/095	will	1	w i ll
+075/097	will	1	w i ll
+075/099	wüll	1	w ü ll
+075/101	NA	NA	-
+075/103	wll	1	w ll
+075/105	wil	1	w i l
+075/107	wüll	1	w ü ll
+075/135	bi	1	b i
+075/145	weh	1	w eh
+075/147	bej	1	b e j
+075/149	NA	NA	-
+075/155	will	1	w i ll
+075/157	well	1	w e ll
+075/159	wiel	1	w ie l
+075/161	wel	1	w e l
+075/163	wiel	1	w ie l
+075/165	wär	1	w ä r
+076/019	wel	1	w e l
+076/021	will	1	w i ll
+076/023	well	1	w e ll
+076/025	well	1	w e ll
+076/027	well	1	w e ll
+076/029	well	1	w e ll
+076/033	well	1	w e ll
+076/035	will	1	w i ll
+076/037	will	1	w i ll
+076/039	will	1	w i ll
+076/041	will	1	w i ll
+076/043	will	1	w i ll
+076/045	will	1	w i ll
+076/047	will	1	w i ll
+076/049	will	1	w i ll
+076/051	will	1	w i ll
+076/053	will	1	w i ll
+076/055	will	1	w i ll
+076/057	will	1	w i ll
+076/059	will	1	w i ll
+076/061	will	1	w i ll
+076/063	will	1	w i ll
+076/065	will	1	w i ll
+076/067	will	1	w i ll
+076/069	will	1	w i ll
+076/071	will	1	w i ll
+076/073	will	1	w i ll
+076/075	will	1	w i ll
+076/077	will	1	w i ll
+076/079	will	1	w i ll
+076/081	will	1	w i ll
+076/083	will	1	w i ll
+076/085	will	1	w i ll
+076/087	will	1	w i ll
+076/089	will	1	w i ll
+076/091	wil	1	w i l
+076/093	will	1	w i ll
+076/095	NA	NA	-
+076/097	will	1	w i ll
+076/099	will	1	w i ll
+076/101	wüll	1	w ü ll
+076/103	will	1	w i ll
+076/135	wüll	1	w ü ll
+076/137	will	1	w i ll
+076/149	bell	1	b e ll
+076/151	bel	1	b e l
+076/155	will	1	w i ll
+076/161	weoll	1	w eo ll
+076/163	war	1	w a r
+076/165	wel	1	w e l
+077/019	well	1	w e ll
+077/021	wel	1	w e l
+077/023	well	1	w e ll
+077/025	wel	1	w e l
+077/027	well	1	w e ll
+077/029	well	1	w e ll
+077/031	wel	1	w e l
+077/033	will	1	w i ll
+077/035	well	1	w e ll
+077/037	will	1	w i ll
+077/039	will	1	w i ll
+077/041	will	1	w i ll
+077/043	will	1	w i ll
+077/047	will	1	w i ll
+077/049	will	1	w i ll
+077/051	will	1	w i ll
+077/053	will	1	w i ll
+077/055	will	1	w i ll
+077/057	will	1	w i ll
+077/059	will	1	w i ll
+077/061	will	1	w i ll
+077/063	will	1	w i ll
+077/065	will	1	w i ll
+077/067	will	1	w i ll
+077/069	will	1	w i ll
+077/071	will	1	w i ll
+077/073	will	1	w i ll
+077/075	wil	1	w i l
+077/077	will	1	w i ll
+077/079	will	1	w i ll
+077/081	will	1	w i ll
+077/083	will	1	w i ll
+077/085	will	1	w i ll
+077/087	will	1	w i ll
+077/089	will	1	w i ll
+077/091	wll	1	w ll
+077/093	will	1	w i ll
+077/095	will	1	w i ll
+077/097	will	1	w i ll
+077/099	will	1	w i ll
+077/101	wül	1	w ü l
+077/103	will	1	w i ll
+077/135	wü	1	w ü
+077/137	wül	1	w ü l
+078/021	wel	1	w e l
+078/023	well	1	w e ll
+078/025	well	1	w e ll
+078/027	well	1	w e ll
+078/029	well	1	w e ll
+078/031	will	1	w i ll
+078/033	will	1	w i ll
+078/035	will	1	w i ll
+078/037	wüll	1	w ü ll
+078/039	will	1	w i ll
+078/041	will	1	w i ll
+078/045	will	1	w i ll
+078/047	will	1	w i ll
+078/049	will	1	w i ll
+078/051	will	1	w i ll
+078/053	will	1	w i ll
+078/055	will	1	w i ll
+078/057	will	1	w i ll
+078/059	will	1	w i ll
+078/061	will	1	w i ll
+078/063	will	1	w i ll
+078/065	will	1	w i ll
+078/067	will	1	w i ll
+078/069	will	1	w i ll
+078/071	will	1	w i ll
+078/073	wüll	1	w ü ll
+078/075	will	1	w i ll
+078/077	will	1	w i ll
+078/079	will	1	w i ll
+078/081	will	1	w i ll
+078/083	will	1	w i ll
+078/085	wüll	1	w ü ll
+078/087	will	1	w i ll
+078/089	will	1	w i ll
+078/091	wül	1	w ü l
+078/093	will	1	w i ll
+078/095	wül	1	w ü l
+078/097	will	1	w i ll
+078/099	wil	1	w i l
+078/101	will	1	w i ll
+078/103	will	1	w i ll
+078/105	wül	1	w ü l
+078/135	wir	1	w i r
+078/193	will	1	w i ll
+079/021	well	1	w e ll
+079/023	well	1	w e ll
+079/025	wöll	1	w ö ll
+079/027	NA	NA	-
+079/029	well	1	w e ll
+079/031	will	1	w i ll
+079/033	will	1	w i ll
+079/035	wil	1	w i l
+079/037	will	1	w i ll
+079/039	will	1	w i ll
+079/043	will	1	w i ll
+079/045	will	1	w i ll
+079/047	will	1	w i ll
+079/049	will	1	w i ll
+079/051	will	1	w i ll
+079/053	will	1	w i ll
+079/055	will	1	w i ll
+079/057	will	1	w i ll
+079/059	will	1	w i ll
+079/061	will	1	w i ll
+079/063	will	1	w i ll
+079/065	will	1	w i ll
+079/067	will	1	w i ll
+079/069	will	1	w i ll
+079/071	will	1	w i ll
+079/073	will	1	w i ll
+079/075	will	1	w i ll
+079/077	will	1	w i ll
+079/079	wü	1	w ü
+079/081	will	1	w i ll
+079/083	will	1	w i ll
+079/085	wöll	1	w ö ll
+079/087	will	1	w i ll
+079/089	will	1	w i ll
+079/091	wll	1	w ll
+079/093	will	1	w i ll
+079/095	will	1	w i ll
+079/097	will	1	w i ll
+079/099	will	1	w i ll
+079/101	will	1	w i ll
+079/103	wöll	1	w ö ll
+079/105	NA	NA	-
+079/107	will	1	w i ll
+079/133	wül	1	w ü l
+079/135	will	1	w i ll
+079/193	will	1	w i ll
+079/195	well	1	w e ll
+079/197	wäu	1	w äu
+080/025	wel	1	w e l
+080/027	well	1	w e ll
+080/029	will	1	w i ll
+080/031	will	1	w i ll
+080/033	will	1	w i ll
+080/035	will	1	w i ll
+080/037	will	1	w i ll
+080/039	will	1	w i ll
+080/041	will	1	w i ll
+080/043	will	1	w i ll
+080/045	will	1	w i ll
+080/047	will	1	w i ll
+080/049	will	1	w i ll
+080/051	will	1	w i ll
+080/053	will	1	w i ll
+080/055	will	1	w i ll
+080/057	will	1	w i ll
+080/059	will	1	w i ll
+080/061	will	1	w i ll
+080/063	will	1	w i ll
+080/065	will	1	w i ll
+080/067	will	1	w i ll
+080/069	will	1	w i ll
+080/071	will	1	w i ll
+080/073	will	1	w i ll
+080/075	will	1	w i ll
+080/077	will	1	w i ll
+080/079	will	1	w i ll
+080/081	will	1	w i ll
+080/083	will	1	w i ll
+080/085	wüll	1	w ü ll
+080/087	will	1	w i ll
+080/089	will	1	w i ll
+080/091	will	1	w i ll
+080/093	well	1	w e ll
+080/095	will	1	w i ll
+080/097	will	1	w i ll
+080/099	will	1	w i ll
+080/101	wö	1	w ö
+080/103	wa	1	w a
+080/105	mag	1	m a g
+080/107	will	1	w i ll
+080/109	wöll	1	w ö ll
+080/127	will	1	w i ll
+080/147	will	1	w i ll
+080/151	bill	1	b i ll
+080/153	bl	1	b l
+080/193	well	1	w e ll
+080/195	waas	1	w aa s
+081/025	well	1	w e ll
+081/027	will	1	w i ll
+081/029	will	1	w i ll
+081/031	will	1	w i ll
+081/033	well	1	w e ll
+081/035	will	1	w i ll
+081/037	will	1	w i ll
+081/039	will	1	w i ll
+081/043	will	1	w i ll
+081/045	will	1	w i ll
+081/047	will	1	w i ll
+081/049	will	1	w i ll
+081/051	will	1	w i ll
+081/053	will	1	w i ll
+081/055	will	1	w i ll
+081/057	will	1	w i ll
+081/059	will	1	w i ll
+081/061	will	1	w i ll
+081/063	will	1	w i ll
+081/065	will	1	w i ll
+081/067	will	1	w i ll
+081/069	will	1	w i ll
+081/071	will	1	w i ll
+081/073	will	1	w i ll
+081/075	will	1	w i ll
+081/077	will	1	w i ll
+081/079	will	1	w i ll
+081/081	will	1	w i ll
+081/083	will	1	w i ll
+081/085	wil	1	w i l
+081/087	will	1	w i ll
+081/089	will	1	w i ll
+081/091	will	1	w i ll
+081/093	will	1	w i ll
+081/095	will	1	w i ll
+081/097	will	1	w i ll
+081/099	will	1	w i ll
+081/101	weii	1	w eii
+081/103	wij	1	w i j
+081/105	will	1	w i ll
+081/107	wöll	1	w ö ll
+081/109	wia	1	w ia
+081/111	NA	NA	-
+081/127	wl	1	w l
+081/129	wll	1	w ll
+081/133	wüll	1	w ü ll
+081/147	bhill	1	b h i ll
+081/191	well	1	w e ll
+081/193	wee	1	w ee
+081/195	well	1	w e ll
+082/027	well	1	w e ll
+082/029	will	1	w i ll
+082/031	weell	1	w ee ll
+082/033	well	1	w e ll
+082/035	will	1	w i ll
+082/037	well	1	w e ll
+082/039	well	1	w e ll
+082/041	will	1	w i ll
+082/043	will	1	w i ll
+082/045	will	1	w i ll
+082/047	will	1	w i ll
+082/049	will	1	w i ll
+082/051	will	1	w i ll
+082/053	will	1	w i ll
+082/055	will	1	w i ll
+082/057	will	1	w i ll
+082/059	will	1	w i ll
+082/061	will	1	w i ll
+082/063	will	1	w i ll
+082/065	will	1	w i ll
+082/067	will	1	w i ll
+082/069	will	1	w i ll
+082/071	will	1	w i ll
+082/073	will	1	w i ll
+082/075	will	1	w i ll
+082/077	will	1	w i ll
+082/079	will	1	w i ll
+082/081	will	1	w i ll
+082/083	will	1	w i ll
+082/085	will	1	w i ll
+082/087	will	1	w i ll
+082/089	NA	NA	-
+082/091	will	1	w i ll
+082/093	will	1	w i ll
+082/095	will	1	w i ll
+082/097	will	1	w i ll
+082/099	will	1	w i ll
+082/101	wil	1	w i l
+082/103	NA	NA	-
+082/105	wü	1	w ü
+082/107	wä	1	w ä
+082/111	wia	1	w ia
+082/113	wui	1	w ui
+082/117	bül	1	b ü l
+082/129	wül	1	w ü l
+082/131	wird	1	w i r d
+082/133	wüll	1	w ü ll
+082/135	will	1	w i ll
+082/145	wüll	1	w ü ll
+082/147	wüll	1	w ü ll
+082/191	wüll	1	w ü ll
+082/195	well	1	w e ll
+083/027	well	1	w e ll
+083/029	will	1	w i ll
+083/031	well	1	w e ll
+083/033	well	1	w e ll
+083/035	well	1	w e ll
+083/037	will	1	w i ll
+083/039	well	1	w e ll
+083/041	will	1	w i ll
+083/043	will	1	w i ll
+083/045	will	1	w i ll
+083/047	will	1	w i ll
+083/049	will	1	w i ll
+083/051	will	1	w i ll
+083/053	will	1	w i ll
+083/055	will	1	w i ll
+083/057	will	1	w i ll
+083/059	will	1	w i ll
+083/061	will	1	w i ll
+083/063	will	1	w i ll
+083/065	will	1	w i ll
+083/067	will	1	w i ll
+083/069	will	1	w i ll
+083/071	will	1	w i ll
+083/073	NA	NA	-
+083/075	will	1	w i ll
+083/077	will	1	w i ll
+083/079	will	1	w i ll
+083/081	will	1	w i ll
+083/083	will	1	w i ll
+083/085	wü	1	w ü
+083/087	wü	1	w ü
+083/089	will	1	w i ll
+083/091	NA	NA	-
+083/093	will	1	w i ll
+083/095	will	1	w i ll
+083/097	well	1	w e ll
+083/099	wii	1	w ii
+083/101	will	1	w i ll
+083/103	wüi	1	w üi
+083/105	wö	1	w ö
+083/107	wä	1	w ä
+083/111	wia	1	w ia
+083/113	wi	1	w i
+083/115	wül	1	w ü l
+083/117	wia	1	w ia
+083/119	wüll	1	w ü ll
+083/121	wll	1	w ll
+083/129	wüll	1	w ü ll
+083/131	wü	1	w ü
+083/133	wüll	1	w ü ll
+083/135	wl	1	w l
+083/139	wir	1	w i r
+083/143	wül	1	w ü l
+083/145	wüll	1	w ü ll
+083/147	wüll	1	w ü ll
+083/149	will	1	w i ll
+083/173	NA	NA	-
+083/195	well	1	w e ll
+084/031	well	1	w e ll
+084/033	will	1	w i ll
+084/035	well	1	w e ll
+084/037	well	1	w e ll
+084/039	well	1	w e ll
+084/041	wel	1	w e l
+084/043	well	1	w e ll
+084/045	will	1	w i ll
+084/047	will	1	w i ll
+084/049	will	1	w i ll
+084/051	will	1	w i ll
+084/053	will	1	w i ll
+084/055	will	1	w i ll
+084/057	will	1	w i ll
+084/059	will	1	w i ll
+084/061	will	1	w i ll
+084/063	will	1	w i ll
+084/065	will	1	w i ll
+084/067	will	1	w i ll
+084/069	will	1	w i ll
+084/071	will	1	w i ll
+084/073	will	1	w i ll
+084/075	will	1	w i ll
+084/077	will	1	w i ll
+084/079	will	1	w i ll
+084/081	wüll	1	w ü ll
+084/083	will	1	w i ll
+084/085	wüll	1	w ü ll
+084/087	will	1	w i ll
+084/089	wüll	1	w ü ll
+084/091	weij	1	w ei j
+084/093	wej	1	w e j
+084/095	will	1	w i ll
+084/097	wüll	1	w ü ll
+084/099	wä	1	w ä
+084/101	wui	1	w ui
+084/103	wei	1	w ei
+084/105	wall	1	w a ll
+084/107	wei	1	w ei
+084/109	weii	1	w eii
+084/111	weel	1	w ee l
+084/113	wü	1	w ü
+084/115	wül	1	w ü l
+084/117	will	1	w i ll
+084/119	wüll	1	w ü ll
+084/129	wü	1	w ü
+084/131	NA	NA	-
+084/133	wü	1	w ü
+084/135	wüll	1	w ü ll
+084/137	wui	1	w ui
+084/139	wia	1	w ia
+084/141	wü	1	w ü
+084/143	wüll	1	w ü ll
+084/145	wül	1	w ü l
+084/147	wühl	1	w üh l
+084/149	wü	1	w ü
+084/171	bee	1	b ee
+084/173	be	1	b e
+084/195	bell	1	b e ll
+085/031	well	1	w e ll
+085/033	will	1	w i ll
+085/035	will	1	w i ll
+085/037	will	1	w i ll
+085/039	wüll	1	w ü ll
+085/041	well	1	w e ll
+085/043	well	1	w e ll
+085/045	well	1	w e ll
+085/047	will	1	w i ll
+085/049	will	1	w i ll
+085/051	will	1	w i ll
+085/053	will	1	w i ll
+085/055	will	1	w i ll
+085/057	will	1	w i ll
+085/059	will	1	w i ll
+085/061	will	1	w i ll
+085/063	will	1	w i ll
+085/065	will	1	w i ll
+085/067	wil	1	w i l
+085/069	will	1	w i ll
+085/071	will	1	w i ll
+085/073	will	1	w i ll
+085/075	will	1	w i ll
+085/077	will	1	w i ll
+085/079	will	1	w i ll
+085/081	will	1	w i ll
+085/083	wüll	1	w ü ll
+085/085	will	1	w i ll
+085/087	will	1	w i ll
+085/089	wei	1	w ei
+085/091	wil	1	w i l
+085/093	wuill	1	w ui ll
+085/095	will	1	w i ll
+085/097	wül	1	w ü l
+085/101	will	1	w i ll
+085/103	wüll	1	w ü ll
+085/105	NA	NA	-
+085/107	wei	1	w ei
+085/109	will	1	w i ll
+085/111	NA	NA	-
+085/113	will	1	w i ll
+085/115	wül	1	w ü l
+085/117	wüll	1	w ü ll
+085/119	wl	1	w l
+085/121	will	1	w i ll
+085/123	wl	1	w l
+085/125	wia	1	w ia
+085/127	wüll	1	w ü ll
+085/129	wü	1	w ü
+085/131	mag	1	m a g
+085/133	wüi	1	w üi
+085/135	wir	1	w i r
+085/137	will	1	w i ll
+085/139	wü	1	w ü
+085/141	wia	1	w ia
+085/143	wü	1	w ü
+085/145	wüll	1	w ü ll
+085/147	wüll	1	w ü ll
+085/149	wüh	1	w üh
+085/175	mok	1	m o k
+085/193	bel	1	b e l
+085/197	bel	1	b e l
+086/033	will	1	w i ll
+086/035	well	1	w e ll
+086/037	well	1	w e ll
+086/039	will	1	w i ll
+086/041	weell	1	w ee ll
+086/043	well	1	w e ll
+086/045	will	1	w i ll
+086/047	will	1	w i ll
+086/049	will	1	w i ll
+086/051	will	1	w i ll
+086/053	will	1	w i ll
+086/055	will	1	w i ll
+086/057	will	1	w i ll
+086/059	will	1	w i ll
+086/061	will	1	w i ll
+086/063	will	1	w i ll
+086/065	will	1	w i ll
+086/067	will	1	w i ll
+086/069	will	1	w i ll
+086/071	wil	1	w i l
+086/073	will	1	w i ll
+086/075	will	1	w i ll
+086/077	will	1	w i ll
+086/079	will	1	w i ll
+086/081	wül	1	w ü l
+086/083	will	1	w i ll
+086/085	will	1	w i ll
+086/087	wöi	1	w öi
+086/089	wöi	1	w öi
+086/091	weei	1	w eei
+086/093	wej	1	w e j
+086/095	wuui	1	w uui
+086/097	weu	1	w eu
+086/099	wui	1	w ui
+086/101	wei	1	w ei
+086/103	wöl	1	w ö l
+086/105	wä	1	w ä
+086/107	wü	1	w ü
+086/109	woi	1	w oi
+086/111	well	1	w e ll
+086/113	will	1	w i ll
+086/115	wu	1	w u
+086/117	wüll	1	w ü ll
+086/119	wüi	1	w üi
+086/121	wog	1	w o g
+086/123	wü	1	w ü
+086/125	wü	1	w ü
+086/127	wü	1	w ü
+086/129	will	1	w i ll
+086/131	wü	1	w ü
+086/133	will	1	w i ll
+086/135	wia	1	w ia
+086/137	wüll	1	w ü ll
+086/139	will	1	w i ll
+086/141	wü	1	w ü
+086/143	wü	1	w ü
+086/145	wü	1	w ü
+086/147	wir	1	w i r
+086/149	wull	1	w u ll
+086/151	wull	1	w u ll
+086/175	beil	1	b ei l
+086/197	bell	1	b e ll
+086/199	NA	NA	-
+087/033	well	1	w e ll
+087/035	well	1	w e ll
+087/037	well	1	w e ll
+087/039	well	1	w e ll
+087/041	will	1	w i ll
+087/043	well	1	w e ll
+087/045	will	1	w i ll
+087/049	will	1	w i ll
+087/051	will	1	w i ll
+087/053	will	1	w i ll
+087/055	will	1	w i ll
+087/057	will	1	w i ll
+087/059	will	1	w i ll
+087/061	will	1	w i ll
+087/063	will	1	w i ll
+087/065	will	1	w i ll
+087/067	will	1	w i ll
+087/069	will	1	w i ll
+087/071	will	1	w i ll
+087/073	will	1	w i ll
+087/075	will	1	w i ll
+087/077	will	1	w i ll
+087/079	will	1	w i ll
+087/081	wi	1	w i
+087/083	will	1	w i ll
+087/085	will	1	w i ll
+087/087	wüi	1	w üi
+087/089	woil	1	w oi l
+087/091	wüi	1	w üi
+087/093	wei	1	w ei
+087/095	wui	1	w ui
+087/097	wäi	1	w äi
+087/099	NA	NA	-
+087/101	wei	1	w ei
+087/103	wei	1	w ei
+087/105	wej	1	w e j
+087/107	NA	NA	-
+087/109	weei	1	w eei
+087/111	wei	1	w ei
+087/113	wöj	1	w ö j
+087/115	wir	1	w i r
+087/117	wia	1	w ia
+087/119	wia	1	w ia
+087/121	wia	1	w ia
+087/123	wia	1	w ia
+087/125	wüll	1	w ü ll
+087/127	wü	1	w ü
+087/129	wüll	1	w ü ll
+087/133	wü	1	w ü
+087/135	will	1	w i ll
+087/137	wül	1	w ü l
+087/139	wü	1	w ü
+087/141	wüll	1	w ü ll
+087/143	NA	NA	-
+087/145	wü	1	w ü
+087/147	wü	1	w ü
+087/149	wü	1	w ü
+087/151	wüll	1	w ü ll
+088/035	well	1	w e ll
+088/037	well	1	w e ll
+088/039	well	1	w e ll
+088/041	well	1	w e ll
+088/043	will	1	w i ll
+088/045	will	1	w i ll
+088/047	will	1	w i ll
+088/049	will	1	w i ll
+088/051	will	1	w i ll
+088/053	will	1	w i ll
+088/055	will	1	w i ll
+088/057	will	1	w i ll
+088/059	will	1	w i ll
+088/061	will	1	w i ll
+088/063	will	1	w i ll
+088/065	will	1	w i ll
+088/067	will	1	w i ll
+088/069	will	1	w i ll
+088/071	will	1	w i ll
+088/073	will	1	w i ll
+088/075	will	1	w i ll
+088/077	will	1	w i ll
+088/079	will	1	w i ll
+088/081	wui	1	w ui
+088/083	wül	1	w ü l
+088/085	wia	1	w ia
+088/087	wei	1	w ei
+088/089	will	1	w i ll
+088/091	wöi	1	w öi
+088/093	wel	1	w e l
+088/095	wei	1	w ei
+088/097	wui	1	w ui
+088/099	NA	NA	-
+088/101	weü	1	w eü
+088/103	wöi	1	w öi
+088/105	wui	1	w ui
+088/107	wei	1	w ei
+088/109	wöi	1	w öi
+088/113	wü	1	w ü
+088/115	wül	1	w ü l
+088/117	NA	NA	-
+088/121	wü	1	w ü
+088/123	wüll	1	w ü ll
+088/127	wü	1	w ü
+088/129	wü	1	w ü
+088/131	wü	1	w ü
+088/137	wü	1	w ü
+088/139	wü	1	w ü
+088/141	wü	1	w ü
+088/143	wüll	1	w ü ll
+088/145	NA	NA	-
+088/147	wü	1	w ü
+088/149	wü	1	w ü
+089/035	well	1	w e ll
+089/037	well	1	w e ll
+089/039	well	1	w e ll
+089/041	well	1	w e ll
+089/043	wüll	1	w ü ll
+089/045	will	1	w i ll
+089/047	will	1	w i ll
+089/049	will	1	w i ll
+089/051	will	1	w i ll
+089/053	will	1	w i ll
+089/055	will	1	w i ll
+089/057	will	1	w i ll
+089/059	will	1	w i ll
+089/061	will	1	w i ll
+089/063	well	1	w e ll
+089/065	will	1	w i ll
+089/067	will	1	w i ll
+089/069	will	1	w i ll
+089/071	will	1	w i ll
+089/073	will	1	w i ll
+089/075	will	1	w i ll
+089/077	will	1	w i ll
+089/079	will	1	w i ll
+089/081	wüi	1	w üi
+089/083	wül	1	w ü l
+089/085	will	1	w i ll
+089/087	will	1	w i ll
+089/089	will	1	w i ll
+089/091	wöll	1	w ö ll
+089/093	wui	1	w ui
+089/095	wöü	1	w öü
+089/097	wil	1	w i l
+089/099	wei	1	w ei
+089/101	mäch	1	m ä ch
+089/103	wäi	1	w äi
+089/105	wui	1	w ui
+089/107	wui	1	w ui
+089/109	NA	NA	-
+089/111	wüll	1	w ü ll
+089/113	wül	1	w ü l
+089/115	will	1	w i ll
+089/117	wü	1	w ü
+089/119	wia	1	w ia
+089/121	wüi	1	w üi
+089/123	NA	NA	-
+089/125	NA	NA	-
+089/127	wül	1	w ü l
+089/129	wü	1	w ü
+089/131	wü	1	w ü
+089/133	wui	1	w ui
+089/135	wü	1	w ü
+089/137	wia	1	w ia
+089/139	NA	NA	-
+089/141	wüll	1	w ü ll
+089/143	wüi	1	w üi
+089/145	wü	1	w ü
+089/147	wia	1	w ia
+089/149	wü	1	w ü
+090/035	well	1	w e ll
+090/037	well	1	w e ll
+090/039	well	1	w e ll
+090/041	well	1	w e ll
+090/043	will	1	w i ll
+090/045	will	1	w i ll
+090/047	will	1	w i ll
+090/049	will	1	w i ll
+090/051	will	1	w i ll
+090/053	will	1	w i ll
+090/055	will	1	w i ll
+090/057	will	1	w i ll
+090/059	will	1	w i ll
+090/061	will	1	w i ll
+090/063	will	1	w i ll
+090/065	will	1	w i ll
+090/067	will	1	w i ll
+090/069	will	1	w i ll
+090/071	will	1	w i ll
+090/073	will	1	w i ll
+090/075	will	1	w i ll
+090/077	will	1	w i ll
+090/079	will	1	w i ll
+090/081	will	1	w i ll
+090/083	wui	1	w ui
+090/085	NA	NA	-
+090/087	will	1	w i ll
+090/089	wöi	1	w öi
+090/091	wei	1	w ei
+090/093	wui	1	w ui
+090/095	wäi	1	w äi
+090/097	woi	1	w oi
+090/099	will	1	w i ll
+090/101	wai	1	w ai
+090/103	wui	1	w ui
+090/105	wui	1	w ui
+090/107	NA	NA	-
+090/109	NA	NA	-
+090/111	wü	1	w ü
+090/113	NA	NA	-
+090/115	will	1	w i ll
+090/119	wül	1	w ü l
+090/121	NA	NA	-
+090/123	wia	1	w ia
+090/125	NA	NA	-
+090/127	will	1	w i ll
+090/129	wüll	1	w ü ll
+090/131	wir	1	w i r
+090/133	mag	1	m a g
+090/135	wia	1	w ia
+090/137	wüll	1	w ü ll
+090/139	will	1	w i ll
+090/141	wü	1	w ü
+090/143	wü	1	w ü
+090/145	wia	1	w ia
+090/147	wia	1	w ia
+090/149	wü	1	w ü
+090/151	wierd	1	w ie r d
+091/035	well	1	w e ll
+091/037	well	1	w e ll
+091/039	well	1	w e ll
+091/041	well	1	w e ll
+091/043	will	1	w i ll
+091/045	will	1	w i ll
+091/047	will	1	w i ll
+091/049	will	1	w i ll
+091/051	will	1	w i ll
+091/053	will	1	w i ll
+091/055	will	1	w i ll
+091/057	will	1	w i ll
+091/059	will	1	w i ll
+091/061	will	1	w i ll
+091/063	will	1	w i ll
+091/065	will	1	w i ll
+091/067	will	1	w i ll
+091/069	will	1	w i ll
+091/071	will	1	w i ll
+091/073	will	1	w i ll
+091/075	will	1	w i ll
+091/077	will	1	w i ll
+091/079	will	1	w i ll
+091/081	will	1	w i ll
+091/083	wui	1	w ui
+091/085	will	1	w i ll
+091/087	will	1	w i ll
+091/091	will	1	w i ll
+091/093	wui	1	w ui
+091/095	wui	1	w ui
+091/097	wüi	1	w üi
+091/099	weii	1	w eii
+091/101	wui	1	w ui
+091/103	wui	1	w ui
+091/105	NA	NA	-
+091/107	NA	NA	-
+091/109	wui	1	w ui
+091/111	wü	1	w ü
+091/113	wia	1	w ia
+091/115	NA	NA	-
+091/117	wü	1	w ü
+091/119	wia	1	w ia
+091/121	will	1	w i ll
+091/125	wü	1	w ü
+091/129	wü	1	w ü
+091/131	well	1	w e ll
+091/133	wü	1	w ü
+091/135	wü	1	w ü
+091/137	wia	1	w ia
+091/139	wü	1	w ü
+091/141	wü	1	w ü
+091/143	wü	1	w ü
+091/145	wü	1	w ü
+091/147	wü	1	w ü
+091/149	wü	1	w ü
+091/151	NA	NA	-
+091/155	wi	1	w i
+092/033	well	1	w e ll
+092/035	well	1	w e ll
+092/037	well	1	w e ll
+092/039	well	1	w e ll
+092/041	will	1	w i ll
+092/043	will	1	w i ll
+092/045	will	1	w i ll
+092/047	will	1	w i ll
+092/049	will	1	w i ll
+092/051	will	1	w i ll
+092/053	will	1	w i ll
+092/055	will	1	w i ll
+092/057	well	1	w e ll
+092/059	will	1	w i ll
+092/061	will	1	w i ll
+092/063	will	1	w i ll
+092/065	will	1	w i ll
+092/067	will	1	w i ll
+092/069	will	1	w i ll
+092/071	will	1	w i ll
+092/073	will	1	w i ll
+092/075	will	1	w i ll
+092/077	will	1	w i ll
+092/079	will	1	w i ll
+092/081	wui	1	w ui
+092/083	will	1	w i ll
+092/085	will	1	w i ll
+092/087	wui	1	w ui
+092/089	wüi	1	w üi
+092/091	wui	1	w ui
+092/093	wui	1	w ui
+092/095	wui	1	w ui
+092/097	will	1	w i ll
+092/099	woi	1	w oi
+092/101	wer	1	w e r
+092/103	wer	1	w e r
+092/105	NA	NA	-
+092/107	will	1	w i ll
+092/109	will	1	w i ll
+092/111	wi	1	w i
+092/113	will	1	w i ll
+092/115	wü	1	w ü
+092/117	wü	1	w ü
+092/119	NA	NA	-
+092/121	wer	1	w e r
+092/123	will	1	w i ll
+092/125	wü	1	w ü
+092/127	wia	1	w ia
+092/129	wüi	1	w üi
+092/131	wü	1	w ü
+092/133	wü	1	w ü
+092/135	wer	1	w e r
+092/137	wül	1	w ü l
+092/139	wia	1	w ia
+092/141	wia	1	w ia
+092/143	wü	1	w ü
+092/145	wüil	1	w üi l
+092/147	wir	1	w i r
+092/149	wü	1	w ü
+092/151	wüll	1	w ü ll
+093/035	well	1	w e ll
+093/037	well	1	w e ll
+093/039	well	1	w e ll
+093/041	will	1	w i ll
+093/043	will	1	w i ll
+093/045	will	1	w i ll
+093/047	will	1	w i ll
+093/049	will	1	w i ll
+093/051	will	1	w i ll
+093/053	will	1	w i ll
+093/055	will	1	w i ll
+093/057	will	1	w i ll
+093/059	will	1	w i ll
+093/061	will	1	w i ll
+093/063	will	1	w i ll
+093/065	will	1	w i ll
+093/067	will	1	w i ll
+093/069	will	1	w i ll
+093/071	will	1	w i ll
+093/073	will	1	w i ll
+093/075	will	1	w i ll
+093/077	will	1	w i ll
+093/079	will	1	w i ll
+093/081	will	1	w i ll
+093/083	wi	1	w i
+093/085	wui	1	w ui
+093/087	wui	1	w ui
+093/089	wui	1	w ui
+093/091	will	1	w i ll
+093/093	wui	1	w ui
+093/095	wui	1	w ui
+093/097	wui	1	w ui
+093/099	will	1	w i ll
+093/101	wui	1	w ui
+093/103	maog	1	m ao g
+093/105	NA	NA	-
+093/109	wea	1	w ea
+093/111	wü	1	w ü
+093/113	mecht	1	m e ch t
+093/115	will	1	w i ll
+093/117	wü	1	w ü
+093/119	NA	NA	-
+093/121	wüll	1	w ü ll
+093/123	wül	1	w ü l
+093/125	wia	1	w ia
+093/127	wüi	1	w üi
+093/129	wüll	1	w ü ll
+093/131	wü	1	w ü
+093/133	wia	1	w ia
+093/137	wü	1	w ü
+093/139	will	1	w i ll
+093/143	wea	1	w ea
+093/145	wü	1	w ü
+093/147	wüll	1	w ü ll
+093/149	wül	1	w ü l
+093/151	wia	1	w ia
+093/153	wüll	1	w ü ll
+093/155	wül	1	w ü l
+094/033	wel	1	w e l
+094/035	well	1	w e ll
+094/037	well	1	w e ll
+094/039	well	1	w e ll
+094/041	well	1	w e ll
+094/043	will	1	w i ll
+094/045	will	1	w i ll
+094/047	will	1	w i ll
+094/049	will	1	w i ll
+094/051	will	1	w i ll
+094/053	will	1	w i ll
+094/055	will	1	w i ll
+094/057	will	1	w i ll
+094/059	will	1	w i ll
+094/061	will	1	w i ll
+094/063	will	1	w i ll
+094/065	will	1	w i ll
+094/067	will	1	w i ll
+094/069	will	1	w i ll
+094/071	will	1	w i ll
+094/073	will	1	w i ll
+094/075	will	1	w i ll
+094/077	wüll	1	w ü ll
+094/079	wüi	1	w üi
+094/081	wui	1	w ui
+094/083	wui	1	w ui
+094/085	wui	1	w ui
+094/087	mog	1	m o g
+094/089	wui	1	w ui
+094/091	wui	1	w ui
+094/093	wui	1	w ui
+094/095	wui	1	w ui
+094/097	wui	1	w ui
+094/099	wui	1	w ui
+094/101	weij	1	w ei j
+094/103	will	1	w i ll
+094/105	wü	1	w ü
+094/107	NA	NA	-
+094/109	wü	1	w ü
+094/111	wül	1	w ü l
+094/113	will	1	w i ll
+094/115	will	1	w i ll
+094/117	wir	1	w i r
+094/119	wüll	1	w ü ll
+094/121	NA	NA	-
+094/123	NA	NA	-
+094/125	wü	1	w ü
+094/127	wül	1	w ü l
+094/129	wüi	1	w üi
+094/131	wü	1	w ü
+094/133	wüll	1	w ü ll
+094/135	will	1	w i ll
+094/137	wü	1	w ü
+094/139	wüll	1	w ü ll
+094/141	wüh	1	w üh
+094/143	wü	1	w ü
+094/145	NA	NA	-
+094/147	wüll	1	w ü ll
+094/149	wü	1	w ü
+094/151	wü	1	w ü
+094/153	wüll	1	w ü ll
+095/031	well	1	w e ll
+095/033	well	1	w e ll
+095/035	well	1	w e ll
+095/037	well	1	w e ll
+095/039	well	1	w e ll
+095/041	will	1	w i ll
+095/043	will	1	w i ll
+095/045	will	1	w i ll
+095/047	will	1	w i ll
+095/049	wil	1	w i l
+095/051	will	1	w i ll
+095/053	will	1	w i ll
+095/055	will	1	w i ll
+095/057	will	1	w i ll
+095/059	will	1	w i ll
+095/061	NA	NA	-
+095/063	will	1	w i ll
+095/065	will	1	w i ll
+095/067	will	1	w i ll
+095/069	will	1	w i ll
+095/071	will	1	w i ll
+095/073	will	1	w i ll
+095/075	will	1	w i ll
+095/077	will	1	w i ll
+095/079	will	1	w i ll
+095/081	will	1	w i ll
+095/083	wui	1	w ui
+095/085	mog	1	m o g
+095/087	wui	1	w ui
+095/089	will	1	w i ll
+095/091	NA	NA	-
+095/093	will	1	w i ll
+095/095	wöi	1	w öi
+095/097	wöi	1	w öi
+095/099	wui	1	w ui
+095/101	will	1	w i ll
+095/103	wü	1	w ü
+095/105	wü	1	w ü
+095/107	wi	1	w i
+095/109	wea	1	w ea
+095/111	wü	1	w ü
+095/113	wüll	1	w ü ll
+095/115	will	1	w i ll
+095/117	wird	1	w i r d
+095/119	will	1	w i ll
+095/121	will	1	w i ll
+095/123	wül	1	w ü l
+095/125	wü	1	w ü
+095/129	wü	1	w ü
+095/131	wü	1	w ü
+095/133	wir	1	w i r
+095/139	wüll	1	w ü ll
+095/141	wia	1	w ia
+095/143	wül	1	w ü l
+095/145	wü	1	w ü
+095/147	wü	1	w ü
+095/149	wü	1	w ü
+095/151	wüll	1	w ü ll
+095/153	wüll	1	w ü ll
+095/155	wül	1	w ü l
+096/031	will	1	w i ll
+096/033	well	1	w e ll
+096/035	will	1	w i ll
+096/037	well	1	w e ll
+096/039	well	1	w e ll
+096/041	will	1	w i ll
+096/043	will	1	w i ll
+096/045	will	1	w i ll
+096/047	will	1	w i ll
+096/049	will	1	w i ll
+096/051	will	1	w i ll
+096/053	will	1	w i ll
+096/055	will	1	w i ll
+096/057	will	1	w i ll
+096/059	will	1	w i ll
+096/061	will	1	w i ll
+096/063	will	1	w i ll
+096/065	will	1	w i ll
+096/067	will	1	w i ll
+096/069	will	1	w i ll
+096/071	will	1	w i ll
+096/075	will	1	w i ll
+096/077	will	1	w i ll
+096/079	wöll	1	w ö ll
+096/081	wui	1	w ui
+096/083	will	1	w i ll
+096/085	wui	1	w ui
+096/087	will	1	w i ll
+096/089	well	1	w e ll
+096/091	wil	1	w i l
+096/093	wui	1	w ui
+096/095	wöü	1	w öü
+096/097	will	1	w i ll
+096/099	wü	1	w ü
+096/101	wi	1	w i
+096/103	will	1	w i ll
+096/105	war	1	w a r
+096/107	wi	1	w i
+096/109	wü	1	w ü
+096/111	NA	NA	-
+096/113	wü	1	w ü
+096/115	NA	NA	-
+096/117	NA	NA	-
+096/119	will	1	w i ll
+096/121	wü	1	w ü
+096/123	wia	1	w ia
+096/125	wüi	1	w üi
+096/129	wü	1	w ü
+096/131	wia	1	w ia
+096/135	wia	1	w ia
+096/137	NA	NA	-
+096/139	wül	1	w ü l
+096/141	wüll	1	w ü ll
+096/143	wü	1	w ü
+096/145	wüll	1	w ü ll
+096/147	wüü	1	w üü
+096/151	wül	1	w ü l
+096/153	wü	1	w ü
+096/155	wüi	1	w üi
+097/031	well	1	w e ll
+097/033	will	1	w i ll
+097/035	well	1	w e ll
+097/037	well	1	w e ll
+097/039	will	1	w i ll
+097/041	will	1	w i ll
+097/043	will	1	w i ll
+097/045	will	1	w i ll
+097/047	will	1	w i ll
+097/049	will	1	w i ll
+097/051	will	1	w i ll
+097/053	will	1	w i ll
+097/055	will	1	w i ll
+097/057	will	1	w i ll
+097/059	will	1	w i ll
+097/061	will	1	w i ll
+097/063	will	1	w i ll
+097/065	will	1	w i ll
+097/067	will	1	w i ll
+097/069	will	1	w i ll
+097/071	will	1	w i ll
+097/073	will	1	w i ll
+097/075	will	1	w i ll
+097/077	will	1	w i ll
+097/079	will	1	w i ll
+097/081	wüll	1	w ü ll
+097/083	will	1	w i ll
+097/085	will	1	w i ll
+097/087	wüi	1	w üi
+097/089	will	1	w i ll
+097/091	will	1	w i ll
+097/093	wä	1	w ä
+097/095	woi	1	w oi
+097/097	wia	1	w ia
+097/099	will	1	w i ll
+097/103	wia	1	w ia
+097/105	wir	1	w i r
+097/107	NA	NA	-
+097/109	NA	NA	-
+097/113	NA	NA	-
+097/125	wüll	1	w ü ll
+097/131	wüll	1	w ü ll
+097/133	wü	1	w ü
+097/139	wü	1	w ü
+097/141	wüi	1	w üi
+097/143	will	1	w i ll
+097/145	wüll	1	w ü ll
+097/149	will	1	w i ll
+097/153	wüll	1	w ü ll
+098/033	well	1	w e ll
+098/035	well	1	w e ll
+098/037	well	1	w e ll
+098/039	will	1	w i ll
+098/041	will	1	w i ll
+098/043	will	1	w i ll
+098/045	will	1	w i ll
+098/047	will	1	w i ll
+098/049	will	1	w i ll
+098/051	will	1	w i ll
+098/053	will	1	w i ll
+098/055	will	1	w i ll
+098/057	will	1	w i ll
+098/059	will	1	w i ll
+098/061	will	1	w i ll
+098/063	will	1	w i ll
+098/065	will	1	w i ll
+098/067	will	1	w i ll
+098/069	will	1	w i ll
+098/071	will	1	w i ll
+098/073	will	1	w i ll
+098/075	will	1	w i ll
+098/077	will	1	w i ll
+098/079	will	1	w i ll
+098/081	wui	1	w ui
+098/083	wui	1	w ui
+098/085	NA	NA	-
+098/087	wui	1	w ui
+098/089	wil	1	w i l
+098/091	woit	1	w oi t
+098/093	wia	1	w ia
+098/095	wüi	1	w üi
+098/097	will	1	w i ll
+098/103	wiell	1	w ie ll
+098/105	NA	NA	-
+098/107	NA	NA	-
+098/109	mog	1	m o g
+098/111	will	1	w i ll
+098/119	NA	NA	-
+098/123	wü	1	w ü
+098/125	wüll	1	w ü ll
+098/127	wü	1	w ü
+098/135	wüll	1	w ü ll
+098/137	wui	1	w ui
+098/139	will	1	w i ll
+098/141	wir	1	w i r
+098/143	wül	1	w ü l
+098/145	wüll	1	w ü ll
+098/147	wül	1	w ü l
+098/149	wüll	1	w ü ll
+098/151	wia	1	w ia
+099/033	will	1	w i ll
+099/035	well	1	w e ll
+099/037	will	1	w i ll
+099/039	well	1	w e ll
+099/041	will	1	w i ll
+099/043	will	1	w i ll
+099/045	will	1	w i ll
+099/047	will	1	w i ll
+099/049	will	1	w i ll
+099/051	will	1	w i ll
+099/053	will	1	w i ll
+099/055	wott	1	w o tt
+099/057	will	1	w i ll
+099/059	will	1	w i ll
+099/063	will	1	w i ll
+099/065	will	1	w i ll
+099/067	will	1	w i ll
+099/069	will	1	w i ll
+099/071	will	1	w i ll
+099/073	will	1	w i ll
+099/075	will	1	w i ll
+099/077	will	1	w i ll
+099/081	will	1	w i ll
+099/083	will	1	w i ll
+099/085	will	1	w i ll
+099/089	wui	1	w ui
+099/093	wü	1	w ü
+099/095	will	1	w i ll
+099/099	wui	1	w ui
+099/101	wüll	1	w ü ll
+099/103	NA	NA	-
+099/105	wie	1	w ie
+099/107	NA	NA	-
+099/109	wer	1	w e r
+099/111	wü	1	w ü
+099/113	wü	1	w ü
+099/121	wü	1	w ü
+099/123	wü	1	w ü
+099/125	wü	1	w ü
+099/131	wüll	1	w ü ll
+099/137	wü	1	w ü
+099/139	wüll	1	w ü ll
+099/141	wü	1	w ü
+099/143	wü	1	w ü
+099/145	wü	1	w ü
+099/147	wiä	1	w iä
+100/033	will	1	w i ll
+100/035	well	1	w e ll
+100/037	well	1	w e ll
+100/039	will	1	w i ll
+100/041	will	1	w i ll
+100/043	will	1	w i ll
+100/045	will	1	w i ll
+100/049	wott	1	w o tt
+100/051	will	1	w i ll
+100/053	wott	1	w o tt
+100/055	will	1	w i ll
+100/057	will	1	w i ll
+100/059	will	1	w i ll
+100/061	will	1	w i ll
+100/065	will	1	w i ll
+100/067	will	1	w i ll
+100/069	will	1	w i ll
+100/071	wil	1	w i l
+100/073	will	1	w i ll
+100/075	will	1	w i ll
+100/077	will	1	w i ll
+100/081	NA	NA	-
+100/083	will	1	w i ll
+100/089	wü	1	w ü
+100/093	wü	1	w ü
+100/095	wüi	1	w üi
+100/097	wui	1	w ui
+100/099	wu	1	w u
+100/101	wea	1	w ea
+100/109	wü	1	w ü
+100/111	will	1	w i ll
+100/113	wüll	1	w ü ll
+100/115	wär	1	w ä r
+100/117	wui	1	w ui
+100/119	wir	1	w i r
+100/121	wia	1	w ia
+100/125	wül	1	w ü l
+100/127	wir	1	w i r
+100/129	NA	NA	-
+100/133	wia	1	w ia
+100/135	wüll	1	w ü ll
+100/141	wüll	1	w ü ll
+100/143	wül	1	w ü l
+100/145	wül	1	w ü l
+101/035	well	1	w e ll
+101/037	will	1	w i ll
+101/039	will	1	w i ll
+101/041	will	1	w i ll
+101/043	will	1	w i ll
+101/045	will	1	w i ll
+101/047	wott	1	w o tt
+101/049	will	1	w i ll
+101/051	wil	1	w i l
+101/053	wil	1	w i l
+101/055	will	1	w i ll
+101/057	will	1	w i ll
+101/059	wil	1	w i l
+101/061	will	1	w i ll
+101/063	will	1	w i ll
+101/065	will	1	w i ll
+101/067	will	1	w i ll
+101/071	will	1	w i ll
+101/075	will	1	w i ll
+101/077	will	1	w i ll
+101/079	will	1	w i ll
+101/081	NA	NA	-
+101/091	wüi	1	w üi
+101/093	NA	NA	-
+101/095	wü	1	w ü
+101/097	wai	1	w ai
+101/099	wü	1	w ü
+101/101	NA	NA	-
+101/103	NA	NA	-
+101/107	wü	1	w ü
+101/109	wüi	1	w üi
+101/113	wui	1	w ui
+101/115	will	1	w i ll
+101/121	wia	1	w ia
+101/125	wir	1	w i r
+101/129	wie	1	w ie
+101/131	wüll	1	w ü ll
+101/133	wüll	1	w ü ll
+101/137	wüll	1	w ü ll
+101/139	wüll	1	w ü ll
+101/141	wül	1	w ü l
+101/143	wuul	1	w uu l
+101/145	wül	1	w ü l
+101/147	NA	NA	-
+102/037	will	1	w i ll
+102/039	will	1	w i ll
+102/041	will	1	w i ll
+102/043	will	1	w i ll
+102/045	will	1	w i ll
+102/047	wott	1	w o tt
+102/049	will	1	w i ll
+102/051	wott	1	w o tt
+102/053	wott	1	w o tt
+102/055	wott	1	w o tt
+102/057	will	1	w i ll
+102/059	will	1	w i ll
+102/061	will	1	w i ll
+102/063	will	1	w i ll
+102/065	will	1	w i ll
+102/067	will	1	w i ll
+102/069	will	1	w i ll
+102/071	wüll	1	w ü ll
+102/073	will	1	w i ll
+102/075	will	1	w i ll
+102/077	will	1	w i ll
+102/079	will	1	w i ll
+102/081	will	1	w i ll
+102/083	NA	NA	-
+102/089	will	1	w i ll
+102/091	wea	1	w ea
+102/093	wea	1	w ea
+102/095	wü	1	w ü
+102/097	will	1	w i ll
+102/099	will	1	w i ll
+102/103	wij	1	w i j
+102/107	wii	1	w ii
+102/109	wii	1	w ii
+102/113	wui	1	w ui
+102/115	wul	1	w u l
+102/127	wüll	1	w ü ll
+102/129	wüll	1	w ü ll
+102/131	wü	1	w ü
+102/135	wül	1	w ü l
+102/137	will	1	w i ll
+102/139	wüll	1	w ü ll
+102/141	wüll	1	w ü ll
+102/143	wüll	1	w ü ll
+102/145	wül	1	w ü l
+103/039	wott	1	w o tt
+103/041	wott	1	w o tt
+103/043	wott	1	w o tt
+103/045	wott	1	w o tt
+103/047	wott	1	w o tt
+103/049	well	1	w e ll
+103/051	will	1	w i ll
+103/053	will	1	w i ll
+103/055	will	1	w i ll
+103/057	will	1	w i ll
+103/059	NA	NA	-
+103/063	will	1	w i ll
+103/065	will	1	w i ll
+103/067	will	1	w i ll
+103/069	will	1	w i ll
+103/071	will	1	w i ll
+103/073	will	1	w i ll
+103/075	will	1	w i ll
+103/077	will	1	w i ll
+103/079	will	1	w i ll
+103/081	wer	1	w e r
+103/083	will	1	w i ll
+103/085	will	1	w i ll
+103/087	will	1	w i ll
+103/089	wearch	1	w ea r ch
+103/091	will	1	w i ll
+103/097	wear	1	w ea r
+103/099	wü	1	w ü
+103/101	wea	1	w ea
+103/105	NA	NA	-
+103/107	NA	NA	-
+103/111	wer	1	w e r
+103/121	NA	NA	-
+103/125	wir	1	w i r
+103/127	wer	1	w e r
+103/131	wia	1	w ia
+103/133	wüll	1	w ü ll
+103/135	wüll	1	w ü ll
+103/137	wüll	1	w ü ll
+103/139	wüll	1	w ü ll
+103/141	wül	1	w ü l
+103/143	wül	1	w ü l
+103/145	wül	1	w ü l
+104/033	wott	1	w o tt
+104/035	wott	1	w o tt
+104/037	wie	1	w ie
+104/039	wott	1	w o tt
+104/041	wott	1	w o tt
+104/043	wod	1	w o d
+104/045	wöu	1	w öu
+104/047	wot	1	w o t
+104/049	winw	1	w i n w
+104/051	will	1	w i ll
+104/053	will	1	w i ll
+104/055	will	1	w i ll
+104/057	will	1	w i ll
+104/059	well	1	w e ll
+104/061	will	1	w i ll
+104/063	will	1	w i ll
+104/065	will	1	w i ll
+104/067	will	1	w i ll
+104/071	will	1	w i ll
+104/075	wil	1	w i l
+104/077	will	1	w i ll
+104/079	will	1	w i ll
+104/081	will	1	w i ll
+104/083	will	1	w i ll
+104/085	will	1	w i ll
+104/091	weach	1	w ea ch
+104/095	wüh	1	w üh
+104/101	wer	1	w e r
+104/103	wü	1	w ü
+104/107	wer	1	w e r
+104/111	wii	1	w ii
+104/113	wi	1	w i
+104/119	wüll	1	w ü ll
+104/121	NA	NA	-
+104/123	wül	1	w ü l
+104/125	wia	1	w ia
+104/127	wüll	1	w ü ll
+104/131	wüll	1	w ü ll
+104/133	well	1	w e ll
+104/135	wül	1	w ü l
+104/137	wüll	1	w ü ll
+104/139	wüll	1	w ü ll
+104/141	wüll	1	w ü ll
+104/143	wül	1	w ü l
+104/145	wüll	1	w ü ll
+105/031	wott	1	w o tt
+105/033	will	1	w i ll
+105/035	wott	1	w o tt
+105/037	wott	1	w o tt
+105/039	wiu	1	w iu
+105/041	wiu	1	w iu
+105/043	wöu	1	w öu
+105/045	wöu	1	w öu
+105/047	well	1	w e ll
+105/049	wott	1	w o tt
+105/051	will	1	w i ll
+105/053	will	1	w i ll
+105/055	will	1	w i ll
+105/057	will	1	w i ll
+105/059	will	1	w i ll
+105/061	wott	1	w o tt
+105/063	will	1	w i ll
+105/065	will	1	w i ll
+105/067	well	1	w e ll
+105/069	will	1	w i ll
+105/071	will	1	w i ll
+105/073	will	1	w i ll
+105/075	will	1	w i ll
+105/077	will	1	w i ll
+105/079	will	1	w i ll
+105/081	will	1	w i ll
+105/085	NA	NA	-
+105/087	will	1	w i ll
+105/089	will	1	w i ll
+105/103	wü	1	w ü
+105/105	wü	1	w ü
+105/111	wü	1	w ü
+105/113	wi	1	w i
+105/115	will	1	w i ll
+105/117	wül	1	w ü l
+105/119	wei	1	w ei
+105/121	wel	1	w e l
+105/125	wüll	1	w ü ll
+105/127	wüa	1	w üa
+105/131	wir	1	w i r
+105/133	wüll	1	w ü ll
+105/135	wüll	1	w ü ll
+105/137	wüll	1	w ü ll
+105/141	wirt	1	w i r t
+105/143	wül	1	w ü l
+105/145	will	1	w i ll
+106/033	wott	1	w o tt
+106/035	wiu	1	w iu
+106/037	wüu	1	w üu
+106/039	viu	1	v iu
+106/041	wott	1	w o tt
+106/043	wou	1	w ou
+106/045	wüu	1	w üu
+106/047	well	1	w e ll
+106/049	wou	1	w ou
+106/051	will	1	w i ll
+106/053	will	1	w i ll
+106/057	will	1	w i ll
+106/061	will	1	w i ll
+106/063	will	1	w i ll
+106/067	will	1	w i ll
+106/071	will	1	w i ll
+106/073	will	1	w i ll
+106/075	will	1	w i ll
+106/077	will	1	w i ll
+106/079	will	1	w i ll
+106/081	will	1	w i ll
+106/085	wear	1	w ea r
+106/087	wear	1	w ea r
+106/093	wil	1	w i l
+106/097	will	1	w i ll
+106/099	will	1	w i ll
+106/103	will	1	w i ll
+106/111	wi	1	w i
+106/115	wer	1	w e r
+106/121	wer	1	w e r
+106/123	wüll	1	w ü ll
+106/125	wüll	1	w ü ll
+106/129	NA	NA	-
+106/131	wüll	1	w ü ll
+106/133	wül	1	w ü l
+106/135	wüll	1	w ü ll
+106/137	wia	1	w ia
+106/139	wil	1	w i l
+106/141	wüll	1	w ü ll
+106/143	wül	1	w ü l
+106/145	wüll	1	w ü ll
+107/033	wott	1	w o tt
+107/035	wott	1	w o tt
+107/037	wott	1	w o tt
+107/039	win	1	w i n
+107/041	wiu	1	w iu
+107/043	wott	1	w o tt
+107/045	wott	1	w o tt
+107/047	will	1	w i ll
+107/049	will	1	w i ll
+107/051	will	1	w i ll
+107/053	will	1	w i ll
+107/057	will	1	w i ll
+107/059	NA	NA	-
+107/063	will	1	w i ll
+107/065	will	1	w i ll
+107/071	will	1	w i ll
+107/075	will	1	w i ll
+107/081	will	1	w i ll
+107/085	wear	1	w ea r
+107/087	will	1	w i ll
+107/089	will	1	w i ll
+107/091	will	1	w i ll
+107/097	NA	NA	-
+107/099	will	1	w i ll
+107/103	will	1	w i ll
+107/105	NA	NA	-
+107/107	will	1	w i ll
+107/111	wer	1	w e r
+107/119	will	1	w i ll
+107/121	NA	NA	-
+107/123	wül	1	w ü l
+107/125	NA	NA	-
+107/127	will	1	w i ll
+107/129	NA	NA	-
+107/131	wüll	1	w ü ll
+107/133	wüll	1	w ü ll
+107/135	wüll	1	w ü ll
+107/137	wüll	1	w ü ll
+107/139	wüll	1	w ü ll
+107/141	wüll	1	w ü ll
+107/143	wüll	1	w ü ll
+108/033	wot	1	w o t
+108/035	wot	1	w o t
+108/037	wott	1	w o tt
+108/039	wott	1	w o tt
+108/041	wott	1	w o tt
+108/043	wiu	1	w iu
+108/047	will	1	w i ll
+108/049	will	1	w i ll
+108/063	will	1	w i ll
+108/065	will	1	w i ll
+108/067	will	1	w i ll
+108/075	will	1	w i ll
+108/079	will	1	w i ll
+108/081	will	1	w i ll
+108/085	will	1	w i ll
+108/087	will	1	w i ll
+108/091	will	1	w i ll
+108/099	wea	1	w ea
+108/101	will	1	w i ll
+108/103	will	1	w i ll
+108/105	will	1	w i ll
+108/109	will	1	w i ll
+108/111	wer	1	w e r
+108/113	wir	1	w i r
+108/117	werd	1	w e r d
+108/119	wüll	1	w ü ll
+108/121	wüll	1	w ü ll
+108/123	will	1	w i ll
+108/125	will	1	w i ll
+108/127	will	1	w i ll
+108/129	will	1	w i ll
+108/131	wia	1	w ia
+108/133	wüll	1	w ü ll
+108/135	wüll	1	w ü ll
+108/137	wül	1	w ü l
+108/139	wüll	1	w ü ll
+108/141	wüll	1	w ü ll
+109/035	wott	1	w o tt
+109/037	wott	1	w o tt
+109/039	wiu	1	w iu
+109/041	wiu	1	w iu
+109/043	wiu	1	w iu
+109/045	will	1	w i ll
+109/049	will	1	w i ll
+109/053	will	1	w i ll
+109/061	will	1	w i ll
+109/063	will	1	w i ll
+109/065	will	1	w i ll
+109/067	will	1	w i ll
+109/075	will	1	w i ll
+109/083	will	1	w i ll
+109/087	will	1	w i ll
+109/089	will	1	w i ll
+109/091	will	1	w i ll
+109/093	wer	1	w e r
+109/095	will	1	w i ll
+109/097	will	1	w i ll
+109/099	will	1	w i ll
+109/101	will	1	w i ll
+109/103	will	1	w i ll
+109/107	will	1	w i ll
+109/109	NA	NA	-
+109/111	wear	1	w ea r
+109/113	wer	1	w e r
+109/115	will	1	w i ll
+109/117	wer	1	w e r
+109/119	will	1	w i ll
+109/121	will	1	w i ll
+109/123	will	1	w i ll
+109/125	wir	1	w i r
+109/127	wüll	1	w ü ll
+109/129	wüll	1	w ü ll
+109/131	wül	1	w ü l
+109/133	wüll	1	w ü ll
+109/135	wll	1	w ll
+109/137	wüll	1	w ü ll
+109/139	wüll	1	w ü ll
+110/035	wot	1	w o t
+110/039	wiu	1	w iu
+110/041	wiu	1	w iu
+110/043	will	1	w i ll
+110/045	will	1	w i ll
+110/047	will	1	w i ll
+110/049	will	1	w i ll
+110/057	will	1	w i ll
+110/061	will	1	w i ll
+110/065	will	1	w i ll
+110/075	will	1	w i ll
+110/079	will	1	w i ll
+110/081	will	1	w i ll
+110/083	will	1	w i ll
+110/087	will	1	w i ll
+110/089	will	1	w i ll
+110/091	wear	1	w ea r
+110/093	will	1	w i ll
+110/095	will	1	w i ll
+110/097	will	1	w i ll
+110/099	will	1	w i ll
+110/101	will	1	w i ll
+110/105	will	1	w i ll
+110/107	will	1	w i ll
+110/111	wear	1	w ea r
+110/113	will	1	w i ll
+110/115	NA	NA	-
+110/117	will	1	w i ll
+110/119	NA	NA	-
+110/121	will	1	w i ll
+110/125	will	1	w i ll
+110/127	will	1	w i ll
+110/129	will	1	w i ll
+110/131	wer	1	w e r
+110/133	wüll	1	w ü ll
+110/135	wüll	1	w ü ll
+110/137	wir	1	w i r
+110/139	will	1	w i ll
+111/035	well	1	w e ll
+111/037	will	1	w i ll
+111/039	wott	1	w o tt
+111/041	will	1	w i ll
+111/043	wil	1	w i l
+111/045	will	1	w i ll
+111/059	well	1	w e ll
+111/073	wil	1	w i l
+111/075	wil	1	w i l
+111/077	will	1	w i ll
+111/079	will	1	w i ll
+111/081	will	1	w i ll
+111/083	will	1	w i ll
+111/087	NA	NA	-
+111/089	will	1	w i ll
+111/105	will	1	w i ll
+111/107	we	1	w e
+111/109	wer	1	w e r
+111/111	will	1	w i ll
+111/113	NA	NA	-
+111/115	will	1	w i ll
+111/117	will	1	w i ll
+111/119	bil	1	b i l
+111/121	wear	1	w ea r
+111/123	wäll	1	w ä ll
+111/125	will	1	w i ll
+112/037	woll	1	w o ll
+112/039	will	1	w i ll
+112/041	will	1	w i ll
+112/043	will	1	w i ll
+112/047	will	1	w i ll
+112/059	will	1	w i ll
+112/061	will	1	w i ll
+112/063	will	1	w i ll
+112/075	NA	NA	-
+112/081	will	1	w i ll
+112/083	wäar	1	w äa r
+112/085	will	1	w i ll
+112/111	will	1	w i ll
+112/115	will	1	w i ll
+112/117	will	1	w i ll
+112/119	will	1	w i ll
+113/035	wott	1	w o tt
+113/037	wüll	1	w ü ll
+113/039	will	1	w i ll
+113/047	will	1	w i ll
+113/079	will	1	w i ll
+113/081	wil	1	w i l
+113/083	mög	1	m ö g
+113/085	will	1	w i ll
+113/087	will	1	w i ll
+113/121	will	1	w i ll
+113/123	wott	1	w o tt
+114/035	will	1	w i ll
+114/045	will	1	w i ll
+114/083	will	1	w i ll
+114/085	will	1	w i ll
+115/041	will	1	w i ll
+115/043	wear	1	w ea r
+115/045	will	1	w i ll
+115/083	will	1	w i ll
+115/085	will	1	w i ll
+116/043	will	1	w i ll
+116/045	will	1	w i ll
+116/083	will	1	w i ll
+117/043	will	1	w i ll
+117/045	wil	1	w i l
+118/041	NA	NA	-
+119/083	will	1	w i ll
+120/085	vil	1	v i l
+121/127	bill	1	b i ll
+122/127	vi	1	v i
+122/129	bell	1	b e ll
+123/081	vi	1	v i
+123/123	bell	1	b e ll
+123/125	bell	1	b e ll
+123/127	bill	1	b i ll
+123/129	bell	1	b e ll
+124/125	bill	1	b i ll
+124/127	bill	1	b i ll
+124/129	bill	1	b i ll

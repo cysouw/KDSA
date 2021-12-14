@@ -60,9 +60,10 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 
 		# Spellings for legend
 		freq <- table(align)
-		selLegend <- names(sort(freq, decreasing = TRUE)[1:min(length(cols),10)])
-		selLegend <- selLegend[order(cmdscale(dist(vowelDecom))[selLegend,1])]
+		selLegend <- names(sort(freq, decreasing = TRUE)[1:min(length(cols),15)])
+		# selLegend <- selLegend[order(cmdscale(dist(vowelDecom))[selLegend,1])]
 		colLegend <- cols[selLegend]
+		selLegend <- paste0(selLegend, " (", freq[selLegend], ")")
 		textLegend <- paste0("<h3>", title, " ('", center, "')</h3><br>Frequent spellings")
 
 	} else {
@@ -78,10 +79,11 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 		cols <- c("grey", brewer.pal(12, "Set3"), rep("#A9A9A9",times=20))
 		cols <- cols[1:length(consonants)]
 		names(cols) <- consonants
+		
 		allCols <- cols[align]
 
-		selLegend <- paste0(consonants, " (", freq, ")")
 		colLegend <- cols
+		selLegend <- paste0(consonants, " (", freq, ")")
 		textLegend <- paste0("<h3>", title, " ('", center, "')</h3><br>Spellings")
 	}
 

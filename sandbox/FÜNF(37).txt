@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	fiew	1	f ie w
+002/201	fif	1	f i f
+002/203	fief	1	f ie f
+002/205	fyf	1	f y f
+003/203	fief	1	f ie f
+003/205	fünf	1	f ü n f
+004/205	füf	1	f ü f
+005/205	füf	1	f ü f
+005/207	fief	1	f ie f
+006/205	fiew	1	f ie w
+006/207	füf	1	f ü f
+007/205	fünf	1	f ü n f
+007/207	füf	1	f ü f
+007/209	fief	1	f ie f
+007/211	fönf	1	f ö n f
+008/199	fief	1	f ie f
+008/203	fünf	1	f ü n f
+008/205	füf	1	f ü f
+008/207	fönf	1	f ö n f
+008/209	fief	1	f ie f
+008/211	füf	1	f ü f
+008/213	finf	1	f i n f
+009/199	fihf	1	f ih f
+009/203	fief	1	f ie f
+009/207	fief	1	f ie f
+009/209	fief	1	f ie f
+009/211	fiev	1	f ie v
+009/213	füf	1	f ü f
+009/215	füw	1	f ü w
+009/217	füf	1	f ü f
+010/195	füf	1	f ü f
+010/203	füf	1	f ü f
+010/207	füf	1	f ü f
+010/209	füf	1	f ü f
+010/211	fünf	1	f ü n f
+010/213	fünf	1	f ü n f
+010/215	fünf	1	f ü n f
+010/217	fünf	1	f ü n f
+010/219	fömf	1	f ö m f
+011/049	fiff	1	f i ff
+011/053	fem	1	f e m
+011/055	fam	1	f a m
+011/057	NA	NA	-
+011/059	fem	1	f e m
+011/061	fem	1	f e m
+011/063	fem	1	f e m
+011/065	fem	1	f e m
+011/067	fem	1	f e m
+011/069	fem	1	f e m
+011/187	fief	1	f ie f
+011/189	fiw	1	f i w
+011/191	füf	1	f ü f
+011/195	finf	1	f i n f
+011/197	fief	1	f ie f
+011/203	füf	1	f ü f
+011/205	füf	1	f ü f
+011/207	fief	1	f ie f
+011/209	fief	1	f ie f
+011/211	füf	1	f ü f
+011/213	femf	1	f e m f
+011/215	fümf	1	f ü m f
+011/217	füf	1	f ü f
+011/219	fünf	1	f ü n f
+012/047	fif	1	f i f
+012/049	fif	1	f i f
+012/051	fiew	1	f ie w
+012/053	fem	1	f e m
+012/055	fem	1	f e m
+012/057	fam	1	f a m
+012/059	fem	1	f e m
+012/061	fem	1	f e m
+012/063	fem	1	f e m
+012/065	fem	1	f e m
+012/067	fem	1	f e m
+012/069	fem	1	f e m
+012/187	füf	1	f ü f
+012/189	fif	1	f i f
+012/191	vew	1	v e w
+012/193	fief	1	f ie f
+012/195	fief	1	f ie f
+012/197	fief	1	f ie f
+012/199	füf	1	f ü f
+012/201	füf	1	f ü f
+012/203	fief	1	f ie f
+012/205	füf	1	f ü f
+012/207	füf	1	f ü f
+012/209	fief	1	f ie f
+012/211	füf	1	f ü f
+012/213	fünf	1	f ü n f
+012/215	fünf	1	f ü n f
+012/217	fünf	1	f ü n f
+012/219	fönf	1	f ö n f
+012/221	fünf	1	f ü n f
+012/223	fenf	1	f e n f
+013/051	fiev	1	f ie v
+013/053	fiw	1	f i w
+013/055	fiif	1	f ii f
+013/057	fem	1	f e m
+013/059	fem	1	f e m
+013/061	fif	1	f i f
+013/063	fif	1	f i f
+013/065	fief	1	f ie f
+013/067	fif	1	f i f
+013/161	fief	1	f ie f
+013/163	fief	1	f ie f
+013/165	füf	1	f ü f
+013/167	füf	1	f ü f
+013/187	fief	1	f ie f
+013/189	fief	1	f ie f
+013/191	fief	1	f ie f
+013/193	fief	1	f ie f
+013/195	füf	1	f ü f
+013/197	fiif	1	f ii f
+013/199	fief	1	f ie f
+013/201	fief	1	f ie f
+013/203	füf	1	f ü f
+013/207	fief	1	f ie f
+013/209	fief	1	f ie f
+013/211	fünf	1	f ü n f
+013/213	fünf	1	f ü n f
+013/215	fünf	1	f ü n f
+013/217	fünf	1	f ü n f
+013/219	fümf	1	f ü m f
+013/221	fümf	1	f ü m f
+013/223	fünf	1	f ü n f
+014/047	fiiv	1	f ii v
+014/049	fiiw	1	f ii w
+014/051	fiew	1	f ie w
+014/053	fiew	1	f ie w
+014/055	fief	1	f ie f
+014/057	fief	1	f ie f
+014/059	füf	1	f ü f
+014/061	fif	1	f i f
+014/063	fief	1	f ie f
+014/065	fiif	1	f ii f
+014/067	fief	1	f ie f
+014/109	fief	1	f ie f
+014/159	fif	1	f i f
+014/161	fief	1	f ie f
+014/163	fief	1	f ie f
+014/165	füf	1	f ü f
+014/167	füf	1	f ü f
+014/169	fief	1	f ie f
+014/187	fief	1	f ie f
+014/189	vief	1	v ie f
+014/191	füf	1	f ü f
+014/193	füf	1	f ü f
+014/195	fiif	1	f ii f
+014/197	fif	1	f i f
+014/199	fief	1	f ie f
+014/201	füf	1	f ü f
+014/203	fif	1	f i f
+014/205	füf	1	f ü f
+014/207	fief	1	f ie f
+014/209	füf	1	f ü f
+014/211	fünf	1	f ü n f
+014/213	fünf	1	f ü n f
+014/215	foüf	1	f oü f
+014/217	fümf	1	f ü m f
+014/219	fünf	1	f ü n f
+014/221	finf	1	f i n f
+015/049	fiiv	1	f ii v
+015/051	fiv	1	f i v
+015/053	fiiv	1	f ii v
+015/055	fiew	1	f ie w
+015/057	fief	1	f ie f
+015/059	fief	1	f ie f
+015/061	fief	1	f ie f
+015/063	fif	1	f i f
+015/065	fif	1	f i f
+015/067	fief	1	f ie f
+015/105	fief	1	f ie f
+015/107	fief	1	f ie f
+015/109	fief	1	f ie f
+015/151	füf	1	f ü f
+015/153	fief	1	f ie f
+015/155	füf	1	f ü f
+015/157	füv	1	f ü v
+015/159	fif	1	f i f
+015/161	fief	1	f ie f
+015/163	füf	1	f ü f
+015/165	fief	1	f ie f
+015/167	fif	1	f i f
+015/169	füf	1	f ü f
+015/173	fiv	1	f i v
+015/187	fünv	1	f ü n v
+015/191	fiev	1	f ie v
+015/193	fief	1	f ie f
+015/195	fif	1	f i f
+015/197	fief	1	f ie f
+015/199	vief	1	v ie f
+015/201	fief	1	f ie f
+015/203	fief	1	f ie f
+015/205	fief	1	f ie f
+015/207	fief	1	f ie f
+015/209	füf	1	f ü f
+015/211	füf	1	f ü f
+015/213	fünf	1	f ü n f
+015/215	fief	1	f ie f
+015/217	fönf	1	f ö n f
+015/219	fenf	1	f e n f
+015/221	fönf	1	f ö n f
+016/051	fief	1	f ie f
+016/055	fiew	1	f ie w
+016/057	fif	1	f i f
+016/059	fief	1	f ie f
+016/061	fief	1	f ie f
+016/063	fiif	1	f ii f
+016/065	fif	1	f i f
+016/067	füf	1	f ü f
+016/081	fif	1	f i f
+016/083	fief	1	f ie f
+016/105	fiev	1	f ie v
+016/107	fief	1	f ie f
+016/109	fif	1	f i f
+016/111	fief	1	f ie f
+016/145	fief	1	f ie f
+016/147	fiew	1	f ie w
+016/149	fif	1	f i f
+016/151	fif	1	f i f
+016/153	fief	1	f ie f
+016/155	fiew	1	f ie w
+016/157	füf	1	f ü f
+016/159	vihv	1	v ih v
+016/161	fief	1	f ie f
+016/163	fif	1	f i f
+016/165	füf	1	f ü f
+016/167	füw	1	f ü w
+016/187	fief	1	f ie f
+016/189	fif	1	f i f
+016/191	fief	1	f ie f
+016/193	fief	1	f ie f
+016/195	füf	1	f ü f
+016/197	füf	1	f ü f
+016/199	füf	1	f ü f
+016/201	fief	1	f ie f
+016/203	fief	1	f ie f
+016/205	füf	1	f ü f
+016/209	fönf	1	f ö n f
+016/211	fünf	1	f ü n f
+016/213	fänf	1	f ä n f
+016/215	fenf	1	f e n f
+016/217	fönf	1	f ö n f
+016/219	fümf	1	f ü m f
+017/055	fief	1	f ie f
+017/057	fif	1	f i f
+017/059	fief	1	f ie f
+017/061	fief	1	f ie f
+017/063	NA	NA	-
+017/065	fief	1	f ie f
+017/067	fief	1	f ie f
+017/069	fief	1	f ie f
+017/081	fief	1	f ie f
+017/083	fief	1	f ie f
+017/099	fief	1	f ie f
+017/101	vief	1	v ie f
+017/103	fif	1	f i f
+017/107	fif	1	f i f
+017/109	fif	1	f i f
+017/145	fif	1	f i f
+017/147	fif	1	f i f
+017/149	füf	1	f ü f
+017/151	füf	1	f ü f
+017/153	füf	1	f ü f
+017/155	fif	1	f i f
+017/157	fiev	1	f ie v
+017/159	füf	1	f ü f
+017/161	füf	1	f ü f
+017/163	fif	1	f i f
+017/165	fif	1	f i f
+017/169	viev	1	v ie v
+017/171	fief	1	f ie f
+017/183	fiew	1	f ie w
+017/185	füf	1	f ü f
+017/187	füf	1	f ü f
+017/189	füf	1	f ü f
+017/191	fes	1	f e s
+017/193	füf	1	f ü f
+017/195	fäf	1	f ä f
+017/197	fief	1	f ie f
+017/199	füf	1	f ü f
+017/201	füf	1	f ü f
+017/203	fühf	1	f üh f
+017/205	füf	1	f ü f
+017/207	fief	1	f ie f
+017/209	fünf	1	f ü n f
+017/211	fömf	1	f ö m f
+017/213	fömf	1	f ö m f
+017/215	fönf	1	f ö n f
+017/217	fünf	1	f ü n f
+017/219	fenf	1	f e n f
+018/051	fief	1	f ie f
+018/053	fief	1	f ie f
+018/055	fief	1	f ie f
+018/057	fiif	1	f ii f
+018/059	fief	1	f ie f
+018/061	fief	1	f ie f
+018/063	fief	1	f ie f
+018/065	fief	1	f ie f
+018/067	fief	1	f ie f
+018/069	fief	1	f ie f
+018/071	fief	1	f ie f
+018/073	fif	1	f i f
+018/075	fiif	1	f ii f
+018/079	fief	1	f ie f
+018/081	fief	1	f ie f
+018/097	fief	1	f ie f
+018/099	fief	1	f ie f
+018/103	fief	1	f ie f
+018/105	fief	1	f ie f
+018/107	fief	1	f ie f
+018/109	fief	1	f ie f
+018/111	fief	1	f ie f
+018/143	fief	1	f ie f
+018/145	fif	1	f i f
+018/147	fief	1	f ie f
+018/149	fiw	1	f i w
+018/151	fiw	1	f i w
+018/153	fief	1	f ie f
+018/155	fief	1	f ie f
+018/157	fief	1	f ie f
+018/159	fief	1	f ie f
+018/161	fief	1	f ie f
+018/163	füf	1	f ü f
+018/165	fief	1	f ie f
+018/169	fief	1	f ie f
+018/171	fiif	1	f ii f
+018/173	füf	1	f ü f
+018/181	fief	1	f ie f
+018/185	fiv	1	f i v
+018/187	fief	1	f ie f
+018/189	fiew	1	f ie w
+018/191	fif	1	f i f
+018/193	füf	1	f ü f
+018/195	füf	1	f ü f
+018/197	fief	1	f ie f
+018/199	fif	1	f i f
+018/201	fif	1	f i f
+018/203	fief	1	f ie f
+018/205	füv	1	f ü v
+018/207	füf	1	f ü f
+018/209	fönf	1	f ö n f
+018/211	fenf	1	f e n f
+018/213	foenf	1	f oe n f
+018/215	fönf	1	f ö n f
+018/219	fönf	1	f ö n f
+019/051	fief	1	f ie f
+019/053	fief	1	f ie f
+019/055	fief	1	f ie f
+019/057	fief	1	f ie f
+019/059	fiv	1	f i v
+019/061	fief	1	f ie f
+019/063	fiif	1	f ii f
+019/065	fif	1	f i f
+019/067	fief	1	f ie f
+019/069	fief	1	f ie f
+019/071	fief	1	f ie f
+019/073	fief	1	f ie f
+019/075	füf	1	f ü f
+019/077	fief	1	f ie f
+019/079	fief	1	f ie f
+019/081	fief	1	f ie f
+019/097	fief	1	f ie f
+019/099	fief	1	f ie f
+019/101	fief	1	f ie f
+019/103	fif	1	f i f
+019/105	fief	1	f ie f
+019/107	vief	1	v ie f
+019/109	fief	1	f ie f
+019/143	fif	1	f i f
+019/145	fiew	1	f ie w
+019/147	fiev	1	f ie v
+019/149	fif	1	f i f
+019/151	fiw	1	f i w
+019/153	fief	1	f ie f
+019/155	fief	1	f ie f
+019/157	füf	1	f ü f
+019/159	füf	1	f ü f
+019/161	fif	1	f i f
+019/163	füf	1	f ü f
+019/165	fief	1	f ie f
+019/167	füf	1	f ü f
+019/169	fif	1	f i f
+019/171	fif	1	f i f
+019/173	fief	1	f ie f
+019/175	fief	1	f ie f
+019/177	fief	1	f ie f
+019/179	fief	1	f ie f
+019/181	fief	1	f ie f
+019/183	fiew	1	f ie w
+019/185	füf	1	f ü f
+019/187	füf	1	f ü f
+019/189	fif	1	f i f
+019/191	fief	1	f ie f
+019/193	fif	1	f i f
+019/195	füf	1	f ü f
+019/197	fief	1	f ie f
+019/199	fief	1	f ie f
+019/201	fif	1	f i f
+019/203	fif	1	f i f
+019/205	füf	1	f ü f
+019/207	fief	1	f ie f
+019/209	fif	1	f i f
+019/211	femf	1	f e m f
+019/213	fönf	1	f ö n f
+019/215	fenf	1	f e n f
+019/217	fömmf	1	f ö mm f
+019/219	fenf	1	f e n f
+020/043	fiv	1	f i v
+020/053	fief	1	f ie f
+020/055	fiv	1	f i v
+020/057	fief	1	f ie f
+020/059	fief	1	f ie f
+020/061	fief	1	f ie f
+020/063	fiif	1	f ii f
+020/065	fief	1	f ie f
+020/067	fief	1	f ie f
+020/069	fif	1	f i f
+020/071	fif	1	f i f
+020/073	fief	1	f ie f
+020/075	fief	1	f ie f
+020/077	fief	1	f ie f
+020/079	fief	1	f ie f
+020/081	fief	1	f ie f
+020/095	fif	1	f i f
+020/097	fief	1	f ie f
+020/099	fief	1	f ie f
+020/101	fiif	1	f ii f
+020/103	fief	1	f ie f
+020/105	fief	1	f ie f
+020/107	fif	1	f i f
+020/135	fänf	1	f ä n f
+020/137	fief	1	f ie f
+020/139	fif	1	f i f
+020/141	fif	1	f i f
+020/143	fif	1	f i f
+020/145	fiv	1	f i v
+020/147	fief	1	f ie f
+020/149	fiew	1	f ie w
+020/151	füf	1	f ü f
+020/153	NA	NA	-
+020/155	füf	1	f ü f
+020/157	fief	1	f ie f
+020/159	fief	1	f ie f
+020/161	fief	1	f ie f
+020/163	fif	1	f i f
+020/165	fief	1	f ie f
+020/167	fif	1	f i f
+020/169	fief	1	f ie f
+020/171	fief	1	f ie f
+020/173	fihf	1	f ih f
+020/175	füf	1	f ü f
+020/177	fief	1	f ie f
+020/179	fief	1	f ie f
+020/181	fiev	1	f ie v
+020/183	füf	1	f ü f
+020/185	füf	1	f ü f
+020/187	fenf	1	f e n f
+020/189	fif	1	f i f
+020/191	fiiw	1	f ii w
+020/193	fief	1	f ie f
+020/195	vief	1	v ie f
+020/197	fif	1	f i f
+020/199	füf	1	f ü f
+020/201	fief	1	f ie f
+020/203	fif	1	f i f
+020/205	fief	1	f ie f
+020/207	fünf	1	f ü n f
+020/209	fenf	1	f e n f
+020/211	fünf	1	f ü n f
+020/213	fönf	1	f ö n f
+020/215	finf	1	f i n f
+020/217	fünf	1	f ü n f
+020/219	fenf	1	f e n f
+021/055	fief	1	f ie f
+021/057	fief	1	f ie f
+021/059	fief	1	f ie f
+021/061	fief	1	f ie f
+021/063	fif	1	f i f
+021/065	feif	1	f ei f
+021/067	fief	1	f ie f
+021/069	fief	1	f ie f
+021/071	fief	1	f ie f
+021/073	fief	1	f ie f
+021/075	fief	1	f ie f
+021/077	fief	1	f ie f
+021/079	fief	1	f ie f
+021/087	fief	1	f ie f
+021/089	fief	1	f ie f
+021/091	fif	1	f i f
+021/093	fief	1	f ie f
+021/095	fiew	1	f ie w
+021/097	fief	1	f ie f
+021/099	fif	1	f i f
+021/101	fief	1	f ie f
+021/103	fif	1	f i f
+021/105	fif	1	f i f
+021/107	fif	1	f i f
+021/109	fihf	1	f ih f
+021/111	fief	1	f ie f
+021/113	fief	1	f ie f
+021/131	fiv	1	f i v
+021/133	fiw	1	f i w
+021/135	fief	1	f ie f
+021/137	fif	1	f i f
+021/139	fiew	1	f ie w
+021/141	fief	1	f ie f
+021/143	vief	1	v ie f
+021/145	faif	1	f ai f
+021/147	fief	1	f ie f
+021/149	foif	1	f oi f
+021/151	fiv	1	f i v
+021/153	fief	1	f ie f
+021/155	füf	1	f ü f
+021/157	fief	1	f ie f
+021/159	füf	1	f ü f
+021/163	fief	1	f ie f
+021/165	fif	1	f i f
+021/167	füf	1	f ü f
+021/169	füf	1	f ü f
+021/171	fief	1	f ie f
+021/173	fif	1	f i f
+021/175	füf	1	f ü f
+021/177	fief	1	f ie f
+021/179	füf	1	f ü f
+021/181	fief	1	f ie f
+021/183	fif	1	f i f
+021/185	fönf	1	f ö n f
+021/187	fönf	1	f ö n f
+021/189	fenf	1	f e n f
+021/191	fönf	1	f ö n f
+021/193	fenf	1	f e n f
+021/195	fönf	1	f ö n f
+021/197	fönf	1	f ö n f
+021/199	füf	1	f ü f
+021/201	fief	1	f ie f
+021/203	fief	1	f ie f
+021/205	fief	1	f ie f
+021/207	fiw	1	f i w
+021/211	fönf	1	f ö n f
+021/215	fenf	1	f e n f
+021/217	fenf	1	f e n f
+021/219	fenf	1	f e n f
+022/055	fief	1	f ie f
+022/057	fief	1	f ie f
+022/059	fief	1	f ie f
+022/061	fief	1	f ie f
+022/063	fiev	1	f ie v
+022/065	NA	NA	-
+022/067	fief	1	f ie f
+022/069	fief	1	f ie f
+022/071	fif	1	f i f
+022/073	fief	1	f ie f
+022/075	fief	1	f ie f
+022/077	fief	1	f ie f
+022/087	fiv	1	f i v
+022/089	fief	1	f ie f
+022/091	fief	1	f ie f
+022/093	fif	1	f i f
+022/095	fief	1	f ie f
+022/097	fief	1	f ie f
+022/099	fief	1	f ie f
+022/101	fief	1	f ie f
+022/103	fief	1	f ie f
+022/105	fief	1	f ie f
+022/107	fief	1	f ie f
+022/109	vief	1	v ie f
+022/111	fief	1	f ie f
+022/113	fihf	1	f ih f
+022/115	fief	1	f ie f
+022/127	vief	1	v ie f
+022/129	fief	1	f ie f
+022/131	fief	1	f ie f
+022/133	fief	1	f ie f
+022/135	fiew	1	f ie w
+022/137	fif	1	f i f
+022/139	vief	1	v ie f
+022/141	fief	1	f ie f
+022/143	feiw	1	f ei w
+022/145	feif	1	f ei f
+022/147	feiv	1	f ei v
+022/149	foiw	1	f oi w
+022/151	fuif	1	f ui f
+022/153	füf	1	f ü f
+022/155	fiew	1	f ie w
+022/157	fif	1	f i f
+022/159	vief	1	v ie f
+022/165	fief	1	f ie f
+022/167	füf	1	f ü f
+022/169	füf	1	f ü f
+022/171	fief	1	f ie f
+022/173	fief	1	f ie f
+022/175	fief	1	f ie f
+022/177	fief	1	f ie f
+022/179	fief	1	f ie f
+022/181	fief	1	f ie f
+022/183	fönf	1	f ö n f
+022/185	fauf	1	f au f
+022/187	NA	NA	-
+022/189	fenf	1	f e n f
+022/191	fönf	1	f ö n f
+022/193	fenf	1	f e n f
+022/195	fönf	1	f ö n f
+022/197	fünf	1	f ü n f
+022/199	fönf	1	f ö n f
+022/201	füf	1	f ü f
+022/203	füf	1	f ü f
+022/205	füf	1	f ü f
+022/209	fönf	1	f ö n f
+022/211	fenf	1	f e n f
+022/215	fenf	1	f e n f
+022/217	füf	1	f ü f
+022/219	fönf	1	f ö n f
+023/055	fief	1	f ie f
+023/059	fief	1	f ie f
+023/061	fief	1	f ie f
+023/063	fief	1	f ie f
+023/065	fief	1	f ie f
+023/067	fiev	1	f ie v
+023/069	fif	1	f i f
+023/071	fif	1	f i f
+023/073	fiif	1	f ii f
+023/075	fiw	1	f i w
+023/077	fif	1	f i f
+023/079	fiew	1	f ie w
+023/081	fief	1	f ie f
+023/083	fief	1	f ie f
+023/085	fief	1	f ie f
+023/087	fief	1	f ie f
+023/089	fiiw	1	f ii w
+023/091	fiev	1	f ie v
+023/093	fief	1	f ie f
+023/095	fief	1	f ie f
+023/097	fiew	1	f ie w
+023/099	fief	1	f ie f
+023/101	fief	1	f ie f
+023/103	fief	1	f ie f
+023/105	fief	1	f ie f
+023/107	fief	1	f ie f
+023/109	fief	1	f ie f
+023/111	fiv	1	f i v
+023/113	fief	1	f ie f
+023/115	fiew	1	f ie w
+023/117	fiew	1	f ie w
+023/121	fief	1	f ie f
+023/123	fief	1	f ie f
+023/125	fief	1	f ie f
+023/127	vief	1	v ie f
+023/129	fiev	1	f ie v
+023/131	vief	1	v ie f
+023/133	fief	1	f ie f
+023/135	fif	1	f i f
+023/137	fief	1	f ie f
+023/139	fiew	1	f ie w
+023/141	fief	1	f ie f
+023/143	fief	1	f ie f
+023/145	fef	1	f e f
+023/147	feif	1	f ei f
+023/149	faiw	1	f ai w
+023/151	fief	1	f ie f
+023/153	fiif	1	f ii f
+023/155	fif	1	f i f
+023/165	fief	1	f ie f
+023/167	fief	1	f ie f
+023/169	vief	1	v ie f
+023/175	füf	1	f ü f
+023/177	fenf	1	f e n f
+023/179	fenf	1	f e n f
+023/181	finf	1	f i n f
+023/183	fönf	1	f ö n f
+023/185	fenf	1	f e n f
+023/187	fönf	1	f ö n f
+023/189	fönf	1	f ö n f
+023/191	fönf	1	f ö n f
+023/193	fenf	1	f e n f
+023/195	fänf	1	f ä n f
+023/197	fenf	1	f e n f
+023/199	fief	1	f ie f
+023/201	füf	1	f ü f
+023/203	füf	1	f ü f
+023/205	füf	1	f ü f
+023/207	fönf	1	f ö n f
+023/215	füff	1	f ü ff
+023/217	NA	NA	-
+024/053	fief	1	f ie f
+024/057	fief	1	f ie f
+024/059	fief	1	f ie f
+024/061	fief	1	f ie f
+024/063	fif	1	f i f
+024/065	fif	1	f i f
+024/067	fief	1	f ie f
+024/069	fif	1	f i f
+024/071	fief	1	f ie f
+024/073	fief	1	f ie f
+024/075	fief	1	f ie f
+024/077	viev	1	v ie v
+024/079	fief	1	f ie f
+024/081	fief	1	f ie f
+024/083	fif	1	f i f
+024/085	fief	1	f ie f
+024/087	fief	1	f ie f
+024/089	fihw	1	f ih w
+024/091	fief	1	f ie f
+024/093	fiew	1	f ie w
+024/095	fief	1	f ie f
+024/097	fief	1	f ie f
+024/099	füv	1	f ü v
+024/101	fief	1	f ie f
+024/103	fief	1	f ie f
+024/105	fief	1	f ie f
+024/107	fief	1	f ie f
+024/109	fief	1	f ie f
+024/111	fief	1	f ie f
+024/113	fif	1	f i f
+024/115	vief	1	v ie f
+024/117	fief	1	f ie f
+024/119	fief	1	f ie f
+024/121	fiew	1	f ie w
+024/123	fief	1	f ie f
+024/125	fief	1	f ie f
+024/127	fif	1	f i f
+024/129	fif	1	f i f
+024/131	fief	1	f ie f
+024/133	fief	1	f ie f
+024/135	fif	1	f i f
+024/137	fief	1	f ie f
+024/139	fiew	1	f ie w
+024/141	fief	1	f ie f
+024/143	füw	1	f ü w
+024/145	fiew	1	f ie w
+024/147	fiw	1	f i w
+024/149	feif	1	f ei f
+024/151	fief	1	f ie f
+024/153	fif	1	f i f
+024/155	füf	1	f ü f
+024/163	fief	1	f ie f
+024/165	fief	1	f ie f
+024/167	vief	1	v ie f
+024/169	fief	1	f ie f
+024/171	fäf	1	f ä f
+024/175	fief	1	f ie f
+024/179	fönf	1	f ö n f
+024/181	fönf	1	f ö n f
+024/183	fenf	1	f e n f
+024/185	fönf	1	f ö n f
+024/187	NA	NA	-
+024/189	fenf	1	f e n f
+024/191	fenf	1	f e n f
+024/193	fönf	1	f ö n f
+024/195	fenf	1	f e n f
+024/197	fenf	1	f e n f
+024/199	fenf	1	f e n f
+024/201	füf	1	f ü f
+024/203	füf	1	f ü f
+024/217	fenf	1	f e n f
+024/221	fühf	1	f üh f
+025/043	vief	1	v ie f
+025/051	fief	1	f ie f
+025/053	fief	1	f ie f
+025/055	fief	1	f ie f
+025/057	fiv	1	f i v
+025/059	fief	1	f ie f
+025/061	fief	1	f ie f
+025/063	fief	1	f ie f
+025/065	fief	1	f ie f
+025/067	fief	1	f ie f
+025/069	fif	1	f i f
+025/071	fief	1	f ie f
+025/073	fif	1	f i f
+025/075	fief	1	f ie f
+025/077	fief	1	f ie f
+025/079	fief	1	f ie f
+025/081	fief	1	f ie f
+025/083	fief	1	f ie f
+025/085	vief	1	v ie f
+025/087	fief	1	f ie f
+025/089	fief	1	f ie f
+025/091	fief	1	f ie f
+025/093	vief	1	v ie f
+025/095	fief	1	f ie f
+025/099	fief	1	f ie f
+025/101	fief	1	f ie f
+025/103	vief	1	v ie f
+025/105	fief	1	f ie f
+025/107	fief	1	f ie f
+025/109	fif	1	f i f
+025/111	fif	1	f i f
+025/113	fief	1	f ie f
+025/115	fief	1	f ie f
+025/123	fief	1	f ie f
+025/125	fief	1	f ie f
+025/127	view	1	v ie w
+025/129	fief	1	f ie f
+025/131	fif	1	f i f
+025/133	füf	1	f ü f
+025/135	fief	1	f ie f
+025/137	fiw	1	f i w
+025/139	fif	1	f i f
+025/141	fief	1	f ie f
+025/143	fief	1	f ie f
+025/145	fiew	1	f ie w
+025/147	fef	1	f e f
+025/149	fiew	1	f ie w
+025/151	fif	1	f i f
+025/153	fief	1	f ie f
+025/155	fief	1	f ie f
+025/157	füf	1	f ü f
+025/159	fief	1	f ie f
+025/177	füf	1	f ü f
+025/179	fenf	1	f e n f
+025/181	fönnf	1	f ö nn f
+025/183	fönf	1	f ö n f
+025/185	fenf	1	f e n f
+025/187	fönf	1	f ö n f
+025/189	fenf	1	f e n f
+025/191	fänf	1	f ä n f
+026/031	fief	1	f ie f
+026/033	fief	1	f ie f
+026/037	fief	1	f ie f
+026/041	fief	1	f ie f
+026/043	fiew	1	f ie w
+026/045	fief	1	f ie f
+026/051	fief	1	f ie f
+026/053	fief	1	f ie f
+026/055	fief	1	f ie f
+026/057	fief	1	f ie f
+026/059	fif	1	f i f
+026/061	fief	1	f ie f
+026/063	fiev	1	f ie v
+026/065	fif	1	f i f
+026/067	vief	1	v ie f
+026/069	fief	1	f ie f
+026/071	fief	1	f ie f
+026/073	fief	1	f ie f
+026/075	fief	1	f ie f
+026/077	vief	1	v ie f
+026/079	fief	1	f ie f
+026/081	fihw	1	f ih w
+026/083	fief	1	f ie f
+026/085	fiev	1	f ie v
+026/087	fief	1	f ie f
+026/089	fif	1	f i f
+026/091	fif	1	f i f
+026/093	fief	1	f ie f
+026/095	fief	1	f ie f
+026/097	fief	1	f ie f
+026/099	fief	1	f ie f
+026/101	fief	1	f ie f
+026/103	fief	1	f ie f
+026/105	fiew	1	f ie w
+026/107	fief	1	f ie f
+026/109	fief	1	f ie f
+026/111	fief	1	f ie f
+026/113	fif	1	f i f
+026/115	fiv	1	f i v
+026/117	fiv	1	f i v
+026/119	fif	1	f i f
+026/123	vief	1	v ie f
+026/125	fief	1	f ie f
+026/127	fief	1	f ie f
+026/129	fief	1	f ie f
+026/131	fief	1	f ie f
+026/133	fief	1	f ie f
+026/135	fief	1	f ie f
+026/137	fief	1	f ie f
+026/139	fief	1	f ie f
+026/141	fiw	1	f i w
+026/143	fif	1	f i f
+026/145	fif	1	f i f
+026/147	vif	1	v i f
+026/153	fief	1	f ie f
+026/155	fiaw	1	f ia w
+026/157	fief	1	f ie f
+026/159	fünf	1	f ü n f
+026/161	füf	1	f ü f
+026/165	fümf	1	f ü m f
+026/173	fif	1	f i f
+026/175	füf	1	f ü f
+026/177	fief	1	f ie f
+026/179	füf	1	f ü f
+026/181	fönf	1	f ö n f
+026/183	fönf	1	f ö n f
+026/185	feenf	1	f ee n f
+026/187	fönf	1	f ö n f
+026/189	fünf	1	f ü n f
+027/027	fiew	1	f ie w
+027/035	fief	1	f ie f
+027/037	fief	1	f ie f
+027/039	fief	1	f ie f
+027/041	fief	1	f ie f
+027/043	fief	1	f ie f
+027/045	fief	1	f ie f
+027/047	fief	1	f ie f
+027/051	fief	1	f ie f
+027/053	fiv	1	f i v
+027/055	fief	1	f ie f
+027/057	fiev	1	f ie v
+027/059	fief	1	f ie f
+027/061	fief	1	f ie f
+027/063	fief	1	f ie f
+027/065	fief	1	f ie f
+027/067	fif	1	f i f
+027/069	fif	1	f i f
+027/071	fief	1	f ie f
+027/073	fief	1	f ie f
+027/075	fief	1	f ie f
+027/077	fif	1	f i f
+027/079	fief	1	f ie f
+027/081	fief	1	f ie f
+027/083	fief	1	f ie f
+027/085	fiew	1	f ie w
+027/087	fief	1	f ie f
+027/089	fief	1	f ie f
+027/091	fief	1	f ie f
+027/093	fief	1	f ie f
+027/095	fief	1	f ie f
+027/099	fief	1	f ie f
+027/101	fief	1	f ie f
+027/103	fief	1	f ie f
+027/105	fief	1	f ie f
+027/107	fief	1	f ie f
+027/109	fif	1	f i f
+027/111	fief	1	f ie f
+027/113	fif	1	f i f
+027/115	fief	1	f ie f
+027/117	fief	1	f ie f
+027/119	fiev	1	f ie v
+027/123	fief	1	f ie f
+027/125	fif	1	f i f
+027/127	fif	1	f i f
+027/129	fif	1	f i f
+027/131	fief	1	f ie f
+027/135	fif	1	f i f
+027/137	fiw	1	f i w
+027/139	fief	1	f ie f
+027/141	fief	1	f ie f
+027/143	fif	1	f i f
+027/145	fief	1	f ie f
+027/147	fiv	1	f i v
+027/149	fief	1	f ie f
+027/151	fif	1	f i f
+027/153	fif	1	f i f
+027/155	fief	1	f ie f
+027/157	fief	1	f ie f
+027/159	vief	1	v ie f
+027/161	fif	1	f i f
+027/167	fief	1	f ie f
+027/171	vief	1	v ie f
+027/173	füf	1	f ü f
+027/175	fif	1	f i f
+027/177	fief	1	f ie f
+027/179	fiw	1	f i w
+027/181	füf	1	f ü f
+027/183	fenf	1	f e n f
+027/185	fenf	1	f e n f
+028/033	fif	1	f i f
+028/035	fiif	1	f ii f
+028/037	fief	1	f ie f
+028/039	fif	1	f i f
+028/041	fif	1	f i f
+028/043	fief	1	f ie f
+028/045	fif	1	f i f
+028/047	fief	1	f ie f
+028/049	fief	1	f ie f
+028/051	fief	1	f ie f
+028/053	fief	1	f ie f
+028/055	fief	1	f ie f
+028/057	fief	1	f ie f
+028/059	fiev	1	f ie v
+028/061	fief	1	f ie f
+028/063	fief	1	f ie f
+028/065	fief	1	f ie f
+028/067	fiew	1	f ie w
+028/069	fiif	1	f ii f
+028/071	fief	1	f ie f
+028/073	fief	1	f ie f
+028/075	fiev	1	f ie v
+028/077	fief	1	f ie f
+028/079	fief	1	f ie f
+028/081	fief	1	f ie f
+028/083	fif	1	f i f
+028/085	fief	1	f ie f
+028/087	fiw	1	f i w
+028/089	fief	1	f ie f
+028/091	fief	1	f ie f
+028/093	fiev	1	f ie v
+028/095	fief	1	f ie f
+028/097	vief	1	v ie f
+028/099	fief	1	f ie f
+028/103	fif	1	f i f
+028/105	fief	1	f ie f
+028/107	fief	1	f ie f
+028/109	fief	1	f ie f
+028/111	fief	1	f ie f
+028/113	fief	1	f ie f
+028/115	fiew	1	f ie w
+028/117	vief	1	v ie f
+028/119	fief	1	f ie f
+028/121	fief	1	f ie f
+028/123	fief	1	f ie f
+028/125	fief	1	f ie f
+028/127	fief	1	f ie f
+028/129	fief	1	f ie f
+028/131	fiew	1	f ie w
+028/133	fif	1	f i f
+028/135	fiew	1	f ie w
+028/137	fif	1	f i f
+028/139	fif	1	f i f
+028/141	fif	1	f i f
+028/143	fief	1	f ie f
+028/145	fif	1	f i f
+028/147	fif	1	f i f
+028/151	fief	1	f ie f
+028/153	fif	1	f i f
+028/155	fief	1	f ie f
+028/157	füf	1	f ü f
+028/159	fiw	1	f i w
+028/161	fief	1	f ie f
+028/165	fief	1	f ie f
+028/169	fief	1	f ie f
+028/171	fühf	1	f üh f
+028/173	fief	1	f ie f
+028/175	fief	1	f ie f
+028/177	fief	1	f ie f
+028/179	fief	1	f ie f
+028/181	fönf	1	f ö n f
+028/183	fenf	1	f e n f
+028/185	fenf	1	f e n f
+029/033	vief	1	v ie f
+029/035	vief	1	v ie f
+029/037	fiv	1	f i v
+029/039	fief	1	f ie f
+029/043	fief	1	f ie f
+029/045	fief	1	f ie f
+029/047	fief	1	f ie f
+029/049	fiv	1	f i v
+029/051	fiif	1	f ii f
+029/053	fief	1	f ie f
+029/055	fief	1	f ie f
+029/057	fiew	1	f ie w
+029/059	fif	1	f i f
+029/061	fief	1	f ie f
+029/065	fief	1	f ie f
+029/067	fief	1	f ie f
+029/069	fief	1	f ie f
+029/071	fiif	1	f ii f
+029/073	viev	1	v ie v
+029/075	fif	1	f i f
+029/077	fiew	1	f ie w
+029/079	fief	1	f ie f
+029/081	fief	1	f ie f
+029/083	vief	1	v ie f
+029/085	fief	1	f ie f
+029/087	fiw	1	f i w
+029/089	fief	1	f ie f
+029/091	fief	1	f ie f
+029/093	fief	1	f ie f
+029/095	fief	1	f ie f
+029/097	fief	1	f ie f
+029/099	fief	1	f ie f
+029/101	fief	1	f ie f
+029/103	fief	1	f ie f
+029/105	fief	1	f ie f
+029/107	fief	1	f ie f
+029/109	fief	1	f ie f
+029/111	fif	1	f i f
+029/113	fief	1	f ie f
+029/115	fünf	1	f ü n f
+029/117	finf	1	f i n f
+029/119	fief	1	f ie f
+029/121	fief	1	f ie f
+029/123	fiw	1	f i w
+029/125	vief	1	v ie f
+029/127	fief	1	f ie f
+029/129	fief	1	f ie f
+029/131	fief	1	f ie f
+029/133	fif	1	f i f
+029/135	fiw	1	f i w
+029/137	fiv	1	f i v
+029/139	fyf	1	f y f
+029/141	fief	1	f ie f
+029/143	fif	1	f i f
+029/145	fif	1	f i f
+029/147	fief	1	f ie f
+029/149	fief	1	f ie f
+029/151	fif	1	f i f
+029/153	fief	1	f ie f
+029/155	fif	1	f i f
+029/157	füf	1	f ü f
+029/159	fif	1	f i f
+029/161	fief	1	f ie f
+029/163	fif	1	f i f
+029/165	fief	1	f ie f
+029/167	füf	1	f ü f
+029/169	füf	1	f ü f
+029/171	füf	1	f ü f
+029/173	fief	1	f ie f
+029/175	fief	1	f ie f
+029/177	fif	1	f i f
+029/181	füf	1	f ü f
+030/033	vief	1	v ie f
+030/035	vief	1	v ie f
+030/037	vief	1	v ie f
+030/039	fief	1	f ie f
+030/041	fiev	1	f ie v
+030/043	fief	1	f ie f
+030/045	fif	1	f i f
+030/047	fief	1	f ie f
+030/049	fief	1	f ie f
+030/051	fief	1	f ie f
+030/053	fief	1	f ie f
+030/055	fief	1	f ie f
+030/057	fief	1	f ie f
+030/059	fief	1	f ie f
+030/061	fief	1	f ie f
+030/065	fief	1	f ie f
+030/067	fief	1	f ie f
+030/071	fief	1	f ie f
+030/073	fief	1	f ie f
+030/075	fief	1	f ie f
+030/077	fiev	1	f ie v
+030/079	fief	1	f ie f
+030/081	fief	1	f ie f
+030/083	fief	1	f ie f
+030/085	fief	1	f ie f
+030/087	fief	1	f ie f
+030/089	fif	1	f i f
+030/091	fif	1	f i f
+030/093	fief	1	f ie f
+030/095	fif	1	f i f
+030/097	fiew	1	f ie w
+030/099	fiew	1	f ie w
+030/101	fif	1	f i f
+030/103	fief	1	f ie f
+030/105	fief	1	f ie f
+030/107	fief	1	f ie f
+030/109	fief	1	f ie f
+030/111	fief	1	f ie f
+030/113	füf	1	f ü f
+030/115	fief	1	f ie f
+030/117	fieef	1	f iee f
+030/119	fief	1	f ie f
+030/121	fiv	1	f i v
+030/123	fif	1	f i f
+030/125	fiv	1	f i v
+030/127	fief	1	f ie f
+030/129	fief	1	f ie f
+030/131	fif	1	f i f
+030/133	fief	1	f ie f
+030/135	fief	1	f ie f
+030/137	fimf	1	f i m f
+030/139	fief	1	f ie f
+030/141	fif	1	f i f
+030/143	fif	1	f i f
+030/145	fif	1	f i f
+030/147	fif	1	f i f
+030/149	viw	1	v i w
+030/151	vif	1	v i f
+030/153	fif	1	f i f
+030/155	fief	1	f ie f
+030/157	fiv	1	f i v
+030/159	fief	1	f ie f
+030/161	vief	1	v ie f
+030/163	fif	1	f i f
+030/165	fiv	1	f i v
+030/167	füf	1	f ü f
+030/169	füf	1	f ü f
+030/171	füf	1	f ü f
+030/173	fiew	1	f ie w
+030/175	fiew	1	f ie w
+030/177	füf	1	f ü f
+030/179	füf	1	f ü f
+030/181	fief	1	f ie f
+030/183	fief	1	f ie f
+031/035	fief	1	f ie f
+031/037	fief	1	f ie f
+031/039	vief	1	v ie f
+031/041	fief	1	f ie f
+031/043	fif	1	f i f
+031/045	fief	1	f ie f
+031/047	fief	1	f ie f
+031/049	fief	1	f ie f
+031/051	fif	1	f i f
+031/053	fief	1	f ie f
+031/055	fief	1	f ie f
+031/057	fief	1	f ie f
+031/059	fief	1	f ie f
+031/061	fief	1	f ie f
+031/063	fiev	1	f ie v
+031/065	fief	1	f ie f
+031/067	fief	1	f ie f
+031/069	fief	1	f ie f
+031/071	fief	1	f ie f
+031/073	fief	1	f ie f
+031/075	fief	1	f ie f
+031/077	fief	1	f ie f
+031/079	fif	1	f i f
+031/081	fiev	1	f ie v
+031/083	fiif	1	f ii f
+031/085	fiif	1	f ii f
+031/087	vief	1	v ie f
+031/089	fief	1	f ie f
+031/091	fief	1	f ie f
+031/093	fief	1	f ie f
+031/095	fief	1	f ie f
+031/097	fief	1	f ie f
+031/099	fief	1	f ie f
+031/101	fief	1	f ie f
+031/103	fif	1	f i f
+031/105	fief	1	f ie f
+031/107	fief	1	f ie f
+031/109	fiv	1	f i v
+031/111	funf	1	f u n f
+031/113	fünf	1	f ü n f
+031/115	vief	1	v ie f
+031/117	fief	1	f ie f
+031/119	fiew	1	f ie w
+031/121	fief	1	f ie f
+031/123	fief	1	f ie f
+031/125	fif	1	f i f
+031/127	fief	1	f ie f
+031/129	fiew	1	f ie w
+031/131	fief	1	f ie f
+031/133	view	1	v ie w
+031/135	fif	1	f i f
+031/137	fiv	1	f i v
+031/139	fief	1	f ie f
+031/141	fif	1	f i f
+031/143	fief	1	f ie f
+031/145	fiif	1	f ii f
+031/147	fif	1	f i f
+031/149	föff	1	f ö ff
+031/151	fiff	1	f i ff
+031/153	fif	1	f i f
+031/155	fief	1	f ie f
+031/157	fif	1	f i f
+031/159	füf	1	f ü f
+031/161	fif	1	f i f
+031/163	fief	1	f ie f
+031/167	fief	1	f ie f
+031/169	fünf	1	f ü n f
+031/171	fenf	1	f e n f
+031/173	fünf	1	f ü n f
+031/175	fiv	1	f i v
+031/177	fif	1	f i f
+031/179	füf	1	f ü f
+032/035	vief	1	v ie f
+032/037	vief	1	v ie f
+032/039	fief	1	f ie f
+032/041	fief	1	f ie f
+032/043	fief	1	f ie f
+032/045	fief	1	f ie f
+032/047	füf	1	f ü f
+032/049	fief	1	f ie f
+032/051	fief	1	f ie f
+032/053	fief	1	f ie f
+032/055	fief	1	f ie f
+032/057	vif	1	v i f
+032/059	vief	1	v ie f
+032/061	fif	1	f i f
+032/065	fief	1	f ie f
+032/069	fief	1	f ie f
+032/071	fiew	1	f ie w
+032/073	fiw	1	f i w
+032/075	fief	1	f ie f
+032/077	fief	1	f ie f
+032/079	fief	1	f ie f
+032/081	fief	1	f ie f
+032/083	fief	1	f ie f
+032/085	viev	1	v ie v
+032/087	fief	1	f ie f
+032/089	fif	1	f i f
+032/091	fif	1	f i f
+032/093	fiw	1	f i w
+032/095	fiew	1	f ie w
+032/097	fief	1	f ie f
+032/099	fief	1	f ie f
+032/101	fif	1	f i f
+032/103	fief	1	f ie f
+032/105	fief	1	f ie f
+032/107	fünf	1	f ü n f
+032/111	fünf	1	f ü n f
+032/113	fünf	1	f ü n f
+032/115	fief	1	f ie f
+032/117	NA	NA	-
+032/119	fief	1	f ie f
+032/121	fief	1	f ie f
+032/123	fünf	1	f ü n f
+032/125	fif	1	f i f
+032/127	fief	1	f ie f
+032/129	fief	1	f ie f
+032/131	fief	1	f ie f
+032/133	fief	1	f ie f
+032/135	fiv	1	f i v
+032/139	fief	1	f ie f
+032/141	vif	1	v i f
+032/143	fief	1	f ie f
+032/145	fif	1	f i f
+032/147	fif	1	f i f
+032/149	fif	1	f i f
+032/151	fiev	1	f ie v
+032/153	fif	1	f i f
+032/157	fief	1	f ie f
+032/159	fif	1	f i f
+032/161	vief	1	v ie f
+032/163	fief	1	f ie f
+032/167	füf	1	f ü f
+032/169	fünf	1	f ü n f
+032/171	fenf	1	f e n f
+032/173	fünf	1	f ü n f
+032/175	füf	1	f ü f
+032/177	fühf	1	f üh f
+032/179	fief	1	f ie f
+032/181	füf	1	f ü f
+032/183	füf	1	f ü f
+033/035	fiv	1	f i v
+033/037	vief	1	v ie f
+033/039	fief	1	f ie f
+033/041	fief	1	f ie f
+033/043	fief	1	f ie f
+033/045	fiew	1	f ie w
+033/047	fief	1	f ie f
+033/049	fief	1	f ie f
+033/051	fief	1	f ie f
+033/053	fief	1	f ie f
+033/055	fiew	1	f ie w
+033/057	fief	1	f ie f
+033/059	fief	1	f ie f
+033/061	fief	1	f ie f
+033/063	fief	1	f ie f
+033/065	fief	1	f ie f
+033/067	fief	1	f ie f
+033/069	fief	1	f ie f
+033/071	fief	1	f ie f
+033/073	fief	1	f ie f
+033/075	fief	1	f ie f
+033/077	fief	1	f ie f
+033/079	fief	1	f ie f
+033/081	fief	1	f ie f
+033/083	fief	1	f ie f
+033/085	fief	1	f ie f
+033/087	fief	1	f ie f
+033/089	vief	1	v ie f
+033/091	fief	1	f ie f
+033/093	fief	1	f ie f
+033/095	fief	1	f ie f
+033/097	fief	1	f ie f
+033/099	fief	1	f ie f
+033/101	fief	1	f ie f
+033/103	fief	1	f ie f
+033/105	fünf	1	f ü n f
+033/107	fünf	1	f ü n f
+033/109	fief	1	f ie f
+033/111	fünf	1	f ü n f
+033/113	fünf	1	f ü n f
+033/115	fünf	1	f ü n f
+033/117	fünf	1	f ü n f
+033/119	fünf	1	f ü n f
+033/121	fünf	1	f ü n f
+033/123	fief	1	f ie f
+033/125	fief	1	f ie f
+033/127	fiew	1	f ie w
+033/129	fief	1	f ie f
+033/131	fif	1	f i f
+033/133	fünf	1	f ü n f
+033/135	fünf	1	f ü n f
+033/137	fünf	1	f ü n f
+033/139	fünf	1	f ü n f
+033/141	fünf	1	f ü n f
+033/143	fif	1	f i f
+033/145	fiev	1	f ie v
+033/147	fif	1	f i f
+033/149	fif	1	f i f
+033/151	fief	1	f ie f
+033/153	fief	1	f ie f
+033/155	fiw	1	f i w
+033/159	fief	1	f ie f
+033/161	fif	1	f i f
+033/163	fief	1	f ie f
+033/165	fief	1	f ie f
+033/167	fiw	1	f i w
+033/169	fif	1	f i f
+033/173	fiw	1	f i w
+033/175	fief	1	f ie f
+033/177	füf	1	f ü f
+034/035	fief	1	f ie f
+034/039	fief	1	f ie f
+034/041	fif	1	f i f
+034/043	fief	1	f ie f
+034/045	fif	1	f i f
+034/047	fief	1	f ie f
+034/049	fief	1	f ie f
+034/051	fief	1	f ie f
+034/053	fif	1	f i f
+034/055	fif	1	f i f
+034/057	fief	1	f ie f
+034/059	fief	1	f ie f
+034/061	fief	1	f ie f
+034/063	fief	1	f ie f
+034/065	fief	1	f ie f
+034/067	fiif	1	f ii f
+034/069	fief	1	f ie f
+034/071	fief	1	f ie f
+034/073	fief	1	f ie f
+034/075	fief	1	f ie f
+034/077	fief	1	f ie f
+034/079	fief	1	f ie f
+034/081	fiew	1	f ie w
+034/083	fief	1	f ie f
+034/085	fiw	1	f i w
+034/087	fief	1	f ie f
+034/089	fief	1	f ie f
+034/091	fief	1	f ie f
+034/093	fief	1	f ie f
+034/095	fünf	1	f ü n f
+034/097	fiw	1	f i w
+034/099	fief	1	f ie f
+034/101	fief	1	f ie f
+034/103	fünf	1	f ü n f
+034/105	fünf	1	f ü n f
+034/107	fief	1	f ie f
+034/109	fünf	1	f ü n f
+034/111	fünf	1	f ü n f
+034/113	fünf	1	f ü n f
+034/115	finf	1	f i n f
+034/117	fünf	1	f ü n f
+034/119	fünf	1	f ü n f
+034/121	fief	1	f ie f
+034/125	fif	1	f i f
+034/127	fünf	1	f ü n f
+034/129	fünf	1	f ü n f
+034/131	fünf	1	f ü n f
+034/133	fiv	1	f i v
+034/135	fief	1	f ie f
+034/137	fünf	1	f ü n f
+034/139	fünf	1	f ü n f
+034/141	fief	1	f ie f
+034/143	fief	1	f ie f
+034/145	fif	1	f i f
+034/147	füf	1	f ü f
+034/149	füf	1	f ü f
+034/151	vief	1	v ie f
+034/155	fif	1	f i f
+034/157	fif	1	f i f
+034/161	fiw	1	f i w
+034/163	fiew	1	f ie w
+034/165	fif	1	f i f
+034/167	fief	1	f ie f
+034/169	fief	1	f ie f
+034/173	fif	1	f i f
+035/035	fif	1	f i f
+035/037	fief	1	f ie f
+035/039	fief	1	f ie f
+035/041	fief	1	f ie f
+035/043	fief	1	f ie f
+035/045	fief	1	f ie f
+035/047	fihf	1	f ih f
+035/049	fif	1	f i f
+035/051	fiv	1	f i v
+035/053	fief	1	f ie f
+035/055	fief	1	f ie f
+035/057	fiif	1	f ii f
+035/059	fief	1	f ie f
+035/061	fif	1	f i f
+035/063	fief	1	f ie f
+035/065	fief	1	f ie f
+035/067	fief	1	f ie f
+035/069	fief	1	f ie f
+035/071	fief	1	f ie f
+035/073	fief	1	f ie f
+035/075	fief	1	f ie f
+035/077	fiehf	1	f ieh f
+035/079	fiv	1	f i v
+035/081	fiew	1	f ie w
+035/083	fief	1	f ie f
+035/085	fief	1	f ie f
+035/087	fief	1	f ie f
+035/089	fief	1	f ie f
+035/091	fief	1	f ie f
+035/093	fief	1	f ie f
+035/095	fief	1	f ie f
+035/097	fief	1	f ie f
+035/099	fief	1	f ie f
+035/101	fief	1	f ie f
+035/103	fünf	1	f ü n f
+035/105	fünf	1	f ü n f
+035/107	fünf	1	f ü n f
+035/109	fünf	1	f ü n f
+035/111	fünf	1	f ü n f
+035/113	fünf	1	f ü n f
+035/115	fünf	1	f ü n f
+035/117	fümf	1	f ü m f
+035/121	fünf	1	f ü n f
+035/123	fünf	1	f ü n f
+035/125	füf	1	f ü f
+035/127	fünf	1	f ü n f
+035/129	fünf	1	f ü n f
+035/133	fünf	1	f ü n f
+035/135	fünf	1	f ü n f
+035/137	fünf	1	f ü n f
+035/139	fünf	1	f ü n f
+035/141	fiew	1	f ie w
+035/143	fief	1	f ie f
+035/145	fief	1	f ie f
+035/147	fief	1	f ie f
+035/149	fif	1	f i f
+035/151	fif	1	f i f
+035/153	fif	1	f i f
+035/155	fif	1	f i f
+035/157	füf	1	f ü f
+035/165	fief	1	f ie f
+035/167	firv	1	f i r v
+035/169	füf	1	f ü f
+035/171	fief	1	f ie f
+035/173	füf	1	f ü f
+036/033	vief	1	v ie f
+036/035	fief	1	f ie f
+036/039	fief	1	f ie f
+036/041	fief	1	f ie f
+036/043	fif	1	f i f
+036/045	fief	1	f ie f
+036/047	fief	1	f ie f
+036/049	fief	1	f ie f
+036/051	fif	1	f i f
+036/053	fief	1	f ie f
+036/055	fief	1	f ie f
+036/057	fief	1	f ie f
+036/059	vif	1	v i f
+036/061	fief	1	f ie f
+036/063	fief	1	f ie f
+036/065	fief	1	f ie f
+036/067	fif	1	f i f
+036/069	fiev	1	f ie v
+036/071	fif	1	f i f
+036/073	fief	1	f ie f
+036/075	fief	1	f ie f
+036/077	fief	1	f ie f
+036/079	fief	1	f ie f
+036/081	fiif	1	f ii f
+036/083	fief	1	f ie f
+036/085	fief	1	f ie f
+036/087	fif	1	f i f
+036/089	fief	1	f ie f
+036/091	fief	1	f ie f
+036/095	fief	1	f ie f
+036/097	fief	1	f ie f
+036/099	fief	1	f ie f
+036/101	fünf	1	f ü n f
+036/103	fünf	1	f ü n f
+036/105	fünf	1	f ü n f
+036/107	fünf	1	f ü n f
+036/109	fümf	1	f ü m f
+036/111	fünf	1	f ü n f
+036/113	fünf	1	f ü n f
+036/115	fünf	1	f ü n f
+036/117	fümf	1	f ü m f
+036/119	fünf	1	f ü n f
+036/121	fünf	1	f ü n f
+036/123	fünf	1	f ü n f
+036/125	finf	1	f i n f
+036/127	fünf	1	f ü n f
+036/129	fünf	1	f ü n f
+036/133	fiev	1	f ie v
+036/135	fünf	1	f ü n f
+036/137	fünf	1	f ü n f
+036/139	fünf	1	f ü n f
+036/141	fünf	1	f ü n f
+036/143	fif	1	f i f
+036/147	fief	1	f ie f
+036/149	fif	1	f i f
+036/151	fief	1	f ie f
+036/153	füf	1	f ü f
+036/155	fiev	1	f ie v
+036/161	fif	1	f i f
+036/163	fif	1	f i f
+036/165	fief	1	f ie f
+036/167	fiv	1	f i v
+036/169	fief	1	f ie f
+036/171	füf	1	f ü f
+037/033	fief	1	f ie f
+037/035	fif	1	f i f
+037/037	fief	1	f ie f
+037/039	fief	1	f ie f
+037/041	vief	1	v ie f
+037/043	fief	1	f ie f
+037/045	fif	1	f i f
+037/047	fiev	1	f ie v
+037/049	fief	1	f ie f
+037/051	fief	1	f ie f
+037/053	fief	1	f ie f
+037/055	fif	1	f i f
+037/057	fif	1	f i f
+037/059	vief	1	v ie f
+037/061	fief	1	f ie f
+037/063	fief	1	f ie f
+037/065	fief	1	f ie f
+037/067	fiif	1	f ii f
+037/069	fief	1	f ie f
+037/071	fief	1	f ie f
+037/073	fief	1	f ie f
+037/075	fief	1	f ie f
+037/077	fief	1	f ie f
+037/079	fief	1	f ie f
+037/081	fiev	1	f ie v
+037/083	fief	1	f ie f
+037/085	fief	1	f ie f
+037/087	fiew	1	f ie w
+037/089	fiv	1	f i v
+037/091	fief	1	f ie f
+037/093	fünn	1	f ü nn
+037/095	fünf	1	f ü n f
+037/097	fief	1	f ie f
+037/099	fünf	1	f ü n f
+037/101	fünf	1	f ü n f
+037/105	fünf	1	f ü n f
+037/107	fünf	1	f ü n f
+037/109	fünf	1	f ü n f
+037/111	fünf	1	f ü n f
+037/113	fünf	1	f ü n f
+037/115	fünf	1	f ü n f
+037/117	fünf	1	f ü n f
+037/119	finf	1	f i n f
+037/121	fünf	1	f ü n f
+037/123	fünf	1	f ü n f
+037/125	fünf	1	f ü n f
+037/127	finew	1	f i n e w
+037/129	fünf	1	f ü n f
+037/131	finf	1	f i n f
+037/133	fünf	1	f ü n f
+037/135	fünf	1	f ü n f
+037/137	fünf	1	f ü n f
+037/139	fünf	1	f ü n f
+037/141	fünf	1	f ü n f
+037/145	vief	1	v ie f
+037/147	fiff	1	f i ff
+037/149	füf	1	f ü f
+037/151	fif	1	f i f
+037/153	fief	1	f ie f
+037/155	fiw	1	f i w
+037/157	fief	1	f ie f
+037/159	wijew	1	w i j e w
+037/163	fiv	1	f i v
+037/171	fiw	1	f i w
+038/033	fief	1	f ie f
+038/035	fif	1	f i f
+038/037	fief	1	f ie f
+038/039	fief	1	f ie f
+038/041	fiew	1	f ie w
+038/043	fiv	1	f i v
+038/045	fief	1	f ie f
+038/047	fief	1	f ie f
+038/049	fif	1	f i f
+038/051	fief	1	f ie f
+038/053	fief	1	f ie f
+038/055	fiv	1	f i v
+038/057	fif	1	f i f
+038/059	fief	1	f ie f
+038/061	fief	1	f ie f
+038/063	fief	1	f ie f
+038/065	fief	1	f ie f
+038/067	fief	1	f ie f
+038/069	fief	1	f ie f
+038/071	fief	1	f ie f
+038/073	fief	1	f ie f
+038/075	fiev	1	f ie v
+038/077	fief	1	f ie f
+038/079	fief	1	f ie f
+038/081	fies	1	f ie s
+038/083	fief	1	f ie f
+038/085	fief	1	f ie f
+038/087	fiew	1	f ie w
+038/089	fief	1	f ie f
+038/091	fif	1	f i f
+038/093	vief	1	v ie f
+038/095	fünf	1	f ü n f
+038/097	fünf	1	f ü n f
+038/099	fünf	1	f ü n f
+038/101	fünf	1	f ü n f
+038/103	fünf	1	f ü n f
+038/105	fünf	1	f ü n f
+038/107	fünf	1	f ü n f
+038/109	fünf	1	f ü n f
+038/111	fünf	1	f ü n f
+038/113	fünf	1	f ü n f
+038/115	fünf	1	f ü n f
+038/117	fünf	1	f ü n f
+038/119	fünf	1	f ü n f
+038/121	finf	1	f i n f
+038/123	fünf	1	f ü n f
+038/125	fünf	1	f ü n f
+038/127	fünf	1	f ü n f
+038/129	fünf	1	f ü n f
+038/131	fünf	1	f ü n f
+038/133	finf	1	f i n f
+038/135	finf	1	f i n f
+038/145	fief	1	f ie f
+038/147	fif	1	f i f
+038/149	fif	1	f i f
+038/151	fief	1	f ie f
+038/153	fif	1	f i f
+038/155	fief	1	f ie f
+038/159	fif	1	f i f
+038/161	fiw	1	f i w
+038/163	fiev	1	f ie v
+039/029	vief	1	v ie f
+039/031	vief	1	v ie f
+039/033	vief	1	v ie f
+039/035	vif	1	v i f
+039/037	fief	1	f ie f
+039/039	fief	1	f ie f
+039/041	fief	1	f ie f
+039/043	fiew	1	f ie w
+039/045	fiev	1	f ie v
+039/047	vief	1	v ie f
+039/049	vief	1	v ie f
+039/051	fif	1	f i f
+039/053	fiv	1	f i v
+039/055	fief	1	f ie f
+039/057	fiev	1	f ie v
+039/059	fiew	1	f ie w
+039/061	fief	1	f ie f
+039/063	fief	1	f ie f
+039/065	vief	1	v ie f
+039/067	vief	1	v ie f
+039/069	fief	1	f ie f
+039/071	fief	1	f ie f
+039/073	fief	1	f ie f
+039/075	fif	1	f i f
+039/077	fif	1	f i f
+039/079	fif	1	f i f
+039/081	fief	1	f ie f
+039/083	fief	1	f ie f
+039/085	fief	1	f ie f
+039/087	fiew	1	f ie w
+039/089	fief	1	f ie f
+039/091	fief	1	f ie f
+039/093	fünf	1	f ü n f
+039/095	fünf	1	f ü n f
+039/097	fünf	1	f ü n f
+039/099	fünf	1	f ü n f
+039/101	fünf	1	f ü n f
+039/103	fünf	1	f ü n f
+039/105	fünf	1	f ü n f
+039/107	fünf	1	f ü n f
+039/109	fünf	1	f ü n f
+039/111	fünf	1	f ü n f
+039/113	fünf	1	f ü n f
+039/115	fünf	1	f ü n f
+039/117	fünf	1	f ü n f
+039/119	fünf	1	f ü n f
+039/121	fünf	1	f ü n f
+039/123	fünf	1	f ü n f
+039/125	fünf	1	f ü n f
+039/127	fünf	1	f ü n f
+039/129	fünf	1	f ü n f
+039/131	fünf	1	f ü n f
+039/133	fünf	1	f ü n f
+039/135	fünf	1	f ü n f
+039/137	fünf	1	f ü n f
+039/139	funf	1	f u n f
+039/149	fif	1	f i f
+039/151	fif	1	f i f
+039/153	fif	1	f i f
+039/155	fief	1	f ie f
+040/029	fief	1	f ie f
+040/031	fief	1	f ie f
+040/033	fief	1	f ie f
+040/035	fief	1	f ie f
+040/037	fif	1	f i f
+040/039	viif	1	v ii f
+040/041	vyf	1	v y f
+040/043	fief	1	f ie f
+040/045	fief	1	f ie f
+040/047	fif	1	f i f
+040/049	fief	1	f ie f
+040/051	fief	1	f ie f
+040/053	fief	1	f ie f
+040/055	fief	1	f ie f
+040/057	fief	1	f ie f
+040/059	vief	1	v ie f
+040/061	fief	1	f ie f
+040/063	fief	1	f ie f
+040/065	fiäf	1	f iä f
+040/067	fief	1	f ie f
+040/069	finf	1	f i n f
+040/071	veir	1	v ei r
+040/073	fief	1	f ie f
+040/075	fief	1	f ie f
+040/077	fief	1	f ie f
+040/079	fiäf	1	f iä f
+040/081	finf	1	f i n f
+040/083	fief	1	f ie f
+040/085	fiv	1	f i v
+040/087	fünf	1	f ü n f
+040/089	fünf	1	f ü n f
+040/091	fünf	1	f ü n f
+040/093	fünf	1	f ü n f
+040/095	fünf	1	f ü n f
+040/097	fünf	1	f ü n f
+040/099	fünf	1	f ü n f
+040/101	fünf	1	f ü n f
+040/103	fünf	1	f ü n f
+040/105	fünf	1	f ü n f
+040/107	finf	1	f i n f
+040/109	fünf	1	f ü n f
+040/111	fünf	1	f ü n f
+040/113	fünf	1	f ü n f
+040/115	fünf	1	f ü n f
+040/119	fünf	1	f ü n f
+040/121	fünf	1	f ü n f
+040/123	finf	1	f i n f
+040/125	fünf	1	f ü n f
+040/127	fief	1	f ie f
+040/129	finf	1	f i n f
+040/131	finf	1	f i n f
+040/133	fünf	1	f ü n f
+040/135	finf	1	f i n f
+040/137	fünf	1	f ü n f
+040/141	fünf	1	f ü n f
+040/143	fünf	1	f ü n f
+040/149	funf	1	f u n f
+040/153	fief	1	f ie f
+040/155	fif	1	f i f
+041/031	fief	1	f ie f
+041/033	fif	1	f i f
+041/035	fief	1	f ie f
+041/037	fief	1	f ie f
+041/039	vief	1	v ie f
+041/041	fief	1	f ie f
+041/043	fief	1	f ie f
+041/045	fiäf	1	f iä f
+041/047	fief	1	f ie f
+041/049	fief	1	f ie f
+041/051	füf	1	f ü f
+041/053	fief	1	f ie f
+041/055	fiv	1	f i v
+041/057	fief	1	f ie f
+041/059	fief	1	f ie f
+041/061	fief	1	f ie f
+041/063	fief	1	f ie f
+041/065	fif	1	f i f
+041/067	fief	1	f ie f
+041/069	fief	1	f ie f
+041/071	fief	1	f ie f
+041/073	fief	1	f ie f
+041/075	fief	1	f ie f
+041/077	fief	1	f ie f
+041/079	fief	1	f ie f
+041/081	fif	1	f i f
+041/083	vief	1	v ie f
+041/085	fif	1	f i f
+041/087	fünf	1	f ü n f
+041/089	fünf	1	f ü n f
+041/091	fünf	1	f ü n f
+041/093	fünf	1	f ü n f
+041/095	fünf	1	f ü n f
+041/097	fünf	1	f ü n f
+041/099	fünf	1	f ü n f
+041/101	fünf	1	f ü n f
+041/103	fünf	1	f ü n f
+041/105	fünf	1	f ü n f
+041/107	fünf	1	f ü n f
+041/109	fief	1	f ie f
+041/111	finf	1	f i n f
+041/113	fünf	1	f ü n f
+041/115	fünf	1	f ü n f
+041/117	fünf	1	f ü n f
+041/119	finf	1	f i n f
+041/121	finf	1	f i n f
+041/123	finf	1	f i n f
+041/125	fünf	1	f ü n f
+041/127	fienf	1	f ie n f
+041/129	fünf	1	f ü n f
+041/131	vier	1	v ie r
+041/133	fümf	1	f ü m f
+041/135	fief	1	f ie f
+041/139	fünf	1	f ü n f
+041/141	fünf	1	f ü n f
+041/145	finf	1	f i n f
+041/147	fünf	1	f ü n f
+041/153	fiv	1	f i v
+041/155	fif	1	f i f
+041/157	fünf	1	f ü n f
+041/159	fief	1	f ie f
+041/161	fif	1	f i f
+042/033	vif	1	v i f
+042/035	fiv	1	f i v
+042/037	fief	1	f ie f
+042/039	fiev	1	f ie v
+042/041	fiev	1	f ie v
+042/043	fief	1	f ie f
+042/045	fief	1	f ie f
+042/047	viev	1	v ie v
+042/051	vief	1	v ie f
+042/053	fief	1	f ie f
+042/055	fief	1	f ie f
+042/057	füf	1	f ü f
+042/059	fief	1	f ie f
+042/061	feif	1	f ei f
+042/063	fief	1	f ie f
+042/065	fief	1	f ie f
+042/067	fief	1	f ie f
+042/069	fif	1	f i f
+042/071	fif	1	f i f
+042/073	vief	1	v ie f
+042/075	fief	1	f ie f
+042/077	fief	1	f ie f
+042/079	fief	1	f ie f
+042/081	fief	1	f ie f
+042/083	fief	1	f ie f
+042/085	fiew	1	f ie w
+042/087	fünf	1	f ü n f
+042/089	fünf	1	f ü n f
+042/091	fünf	1	f ü n f
+042/093	fünf	1	f ü n f
+042/095	fünf	1	f ü n f
+042/097	fünf	1	f ü n f
+042/099	fünf	1	f ü n f
+042/101	fünf	1	f ü n f
+042/103	finf	1	f i n f
+042/105	finf	1	f i n f
+042/107	fünf	1	f ü n f
+042/109	füaf	1	f üa f
+042/111	fünf	1	f ü n f
+042/113	fünf	1	f ü n f
+042/115	fünf	1	f ü n f
+042/117	finf	1	f i n f
+042/119	fünf	1	f ü n f
+042/121	fief	1	f ie f
+042/123	fünf	1	f ü n f
+042/125	fünf	1	f ü n f
+042/127	finf	1	f i n f
+042/129	finf	1	f i n f
+042/131	finf	1	f i n f
+042/133	fünf	1	f ü n f
+042/135	fünf	1	f ü n f
+042/137	fünw	1	f ü n w
+042/139	fienf	1	f ie n f
+042/141	fünf	1	f ü n f
+042/143	fünf	1	f ü n f
+042/145	finf	1	f i n f
+042/147	fünf	1	f ü n f
+042/149	fünf	1	f ü n f
+042/151	fünf	1	f ü n f
+042/157	fiew	1	f ie w
+042/159	fiff	1	f i ff
+042/161	fief	1	f ie f
+043/033	fief	1	f ie f
+043/035	fief	1	f ie f
+043/037	vief	1	v ie f
+043/039	fief	1	f ie f
+043/041	viev	1	v ie v
+043/043	fief	1	f ie f
+043/045	fief	1	f ie f
+043/047	vief	1	v ie f
+043/049	fief	1	f ie f
+043/051	fief	1	f ie f
+043/053	fiev	1	f ie v
+043/055	fif	1	f i f
+043/057	fief	1	f ie f
+043/059	fiew	1	f ie w
+043/061	fief	1	f ie f
+043/063	fief	1	f ie f
+043/065	fief	1	f ie f
+043/067	füef	1	f üe f
+043/069	fäif	1	f äi f
+043/071	fäif	1	f äi f
+043/073	fief	1	f ie f
+043/075	fief	1	f ie f
+043/077	fief	1	f ie f
+043/079	fief	1	f ie f
+043/081	viev	1	v ie v
+043/083	fümf	1	f ü m f
+043/085	fünf	1	f ü n f
+043/087	finf	1	f i n f
+043/089	fünf	1	f ü n f
+043/091	fünf	1	f ü n f
+043/093	fünf	1	f ü n f
+043/095	fünef	1	f ü n e f
+043/097	fünf	1	f ü n f
+043/099	fünf	1	f ü n f
+043/101	fünf	1	f ü n f
+043/103	fünf	1	f ü n f
+043/105	fünf	1	f ü n f
+043/107	fünf	1	f ü n f
+043/109	fünf	1	f ü n f
+043/111	fünf	1	f ü n f
+043/113	fünf	1	f ü n f
+043/115	finf	1	f i n f
+043/117	fünf	1	f ü n f
+043/119	fünf	1	f ü n f
+043/121	fünf	1	f ü n f
+043/123	fünf	1	f ü n f
+043/125	fünf	1	f ü n f
+043/127	fünf	1	f ü n f
+043/129	fünf	1	f ü n f
+043/131	fünf	1	f ü n f
+043/133	fünf	1	f ü n f
+043/135	fünf	1	f ü n f
+043/137	fünf	1	f ü n f
+043/141	fünf	1	f ü n f
+043/143	finf	1	f i n f
+043/145	fünf	1	f ü n f
+043/151	fünf	1	f ü n f
+043/153	fünf	1	f ü n f
+043/159	fiev	1	f ie v
+043/161	füf	1	f ü f
+044/033	fief	1	f ie f
+044/035	fief	1	f ie f
+044/039	fief	1	f ie f
+044/041	fiif	1	f ii f
+044/043	fiw	1	f i w
+044/045	fief	1	f ie f
+044/047	fief	1	f ie f
+044/049	fief	1	f ie f
+044/051	fuif	1	f ui f
+044/053	fuif	1	f ui f
+044/055	fuif	1	f ui f
+044/057	fif	1	f i f
+044/059	fyf	1	f y f
+044/061	fief	1	f ie f
+044/063	fäif	1	f äi f
+044/065	fäif	1	f äi f
+044/067	föif	1	f öi f
+044/069	füif	1	f üi f
+044/071	vief	1	v ie f
+044/073	feif	1	f ei f
+044/075	fief	1	f ie f
+044/077	fäif	1	f äi f
+044/079	fif	1	f i f
+044/081	fünf	1	f ü n f
+044/083	fünf	1	f ü n f
+044/085	fünf	1	f ü n f
+044/087	fünf	1	f ü n f
+044/089	fünf	1	f ü n f
+044/091	fünf	1	f ü n f
+044/093	fünf	1	f ü n f
+044/095	fünf	1	f ü n f
+044/097	fünf	1	f ü n f
+044/099	fünnef	1	f ü nn e f
+044/101	fünf	1	f ü n f
+044/103	fünf	1	f ü n f
+044/105	fünef	1	f ü n e f
+044/107	fümf	1	f ü m f
+044/109	fünf	1	f ü n f
+044/111	fünf	1	f ü n f
+044/113	fünf	1	f ü n f
+044/115	fünf	1	f ü n f
+044/117	finf	1	f i n f
+044/119	fünf	1	f ü n f
+044/121	finf	1	f i n f
+044/123	finf	1	f i n f
+044/125	fünf	1	f ü n f
+044/127	fünf	1	f ü n f
+044/129	fünf	1	f ü n f
+044/131	fünf	1	f ü n f
+044/133	finf	1	f i n f
+044/135	fünf	1	f ü n f
+044/137	finf	1	f i n f
+044/141	fünf	1	f ü n f
+044/143	finf	1	f i n f
+044/145	fünf	1	f ü n f
+044/149	finf	1	f i n f
+044/151	fünf	1	f ü n f
+044/153	fünf	1	f ü n f
+045/033	fief	1	f ie f
+045/035	fief	1	f ie f
+045/037	fief	1	f ie f
+045/039	vief	1	v ie f
+045/041	vief	1	v ie f
+045/043	fiv	1	f i v
+045/045	fiev	1	f ie v
+045/047	fief	1	f ie f
+045/049	fief	1	f ie f
+045/051	fuif	1	f ui f
+045/053	fief	1	f ie f
+045/055	füif	1	f üi f
+045/057	fäif	1	f äi f
+045/059	föif	1	f öi f
+045/061	feif	1	f ei f
+045/063	feif	1	f ei f
+045/065	feif	1	f ei f
+045/067	föif	1	f öi f
+045/069	föif	1	f öi f
+045/071	fäif	1	f äi f
+045/073	faif	1	f ai f
+045/075	feif	1	f ei f
+045/077	fif	1	f i f
+045/079	fief	1	f ie f
+045/081	fünf	1	f ü n f
+045/083	fünnef	1	f ü nn e f
+045/085	fünf	1	f ü n f
+045/087	fünf	1	f ü n f
+045/089	fünf	1	f ü n f
+045/091	fünf	1	f ü n f
+045/093	finf	1	f i n f
+045/095	fünef	1	f ü n e f
+045/097	fünf	1	f ü n f
+045/099	fünnef	1	f ü nn e f
+045/101	fünf	1	f ü n f
+045/103	fünf	1	f ü n f
+045/105	finnef	1	f i nn e f
+045/107	fünf	1	f ü n f
+045/109	fünf	1	f ü n f
+045/111	fünf	1	f ü n f
+045/113	fümf	1	f ü m f
+045/115	finf	1	f i n f
+045/117	fünf	1	f ü n f
+045/119	fünf	1	f ü n f
+045/121	fünf	1	f ü n f
+045/123	funf	1	f u n f
+045/125	fünf	1	f ü n f
+045/127	finf	1	f i n f
+045/129	fünf	1	f ü n f
+045/131	fünf	1	f ü n f
+045/133	funf	1	f u n f
+045/135	finf	1	f i n f
+045/137	fimf	1	f i m f
+045/139	fünf	1	f ü n f
+045/141	fünf	1	f ü n f
+045/143	finf	1	f i n f
+045/145	fünf	1	f ü n f
+045/155	fief	1	f ie f
+046/031	finf	1	f i n f
+046/033	fif	1	f i f
+046/035	fief	1	f ie f
+046/037	fiew	1	f ie w
+046/039	fief	1	f ie f
+046/041	fief	1	f ie f
+046/043	fif	1	f i f
+046/045	fuüf	1	f uü f
+046/047	fuif	1	f ui f
+046/049	fuif	1	f ui f
+046/051	fief	1	f ie f
+046/053	füif	1	f üi f
+046/055	füf	1	f ü f
+046/057	feuf	1	f eu f
+046/059	fief	1	f ie f
+046/061	fuif	1	f ui f
+046/063	fäif	1	f äi f
+046/065	föif	1	f öi f
+046/067	föiff	1	f öi ff
+046/069	fäif	1	f äi f
+046/071	fäif	1	f äi f
+046/073	feuif	1	f eui f
+046/075	fäif	1	f äi f
+046/077	fiev	1	f ie v
+046/079	fief	1	f ie f
+046/081	fünnf	1	f ü nn f
+046/083	fünf	1	f ü n f
+046/085	fünf	1	f ü n f
+046/087	fünf	1	f ü n f
+046/089	funf	1	f u n f
+046/091	fünf	1	f ü n f
+046/093	fünf	1	f ü n f
+046/095	fünf	1	f ü n f
+046/097	fünf	1	f ü n f
+046/099	fünf	1	f ü n f
+046/101	fünf	1	f ü n f
+046/103	finf	1	f i n f
+046/105	fünf	1	f ü n f
+046/107	fünf	1	f ü n f
+046/109	fünf	1	f ü n f
+046/111	fünf	1	f ü n f
+046/113	fünf	1	f ü n f
+046/115	finf	1	f i n f
+046/117	fünf	1	f ü n f
+046/119	finf	1	f i n f
+046/121	fünf	1	f ü n f
+046/123	finf	1	f i n f
+046/125	fünf	1	f ü n f
+046/127	finf	1	f i n f
+046/129	fünf	1	f ü n f
+046/131	fünf	1	f ü n f
+046/133	fümf	1	f ü m f
+046/135	finf	1	f i n f
+046/137	finf	1	f i n f
+046/139	fünf	1	f ü n f
+046/141	fünf	1	f ü n f
+046/143	fünf	1	f ü n f
+046/155	fauf	1	f au f
+047/031	fief	1	f ie f
+047/033	fief	1	f ie f
+047/035	fief	1	f ie f
+047/037	fif	1	f i f
+047/039	fief	1	f ie f
+047/041	fief	1	f ie f
+047/043	fief	1	f ie f
+047/045	fief	1	f ie f
+047/047	fäif	1	f äi f
+047/049	fief	1	f ie f
+047/051	fuif	1	f ui f
+047/053	füif	1	f üi f
+047/055	fuif	1	f ui f
+047/057	fuif	1	f ui f
+047/059	fief	1	f ie f
+047/061	fäif	1	f äi f
+047/063	fäif	1	f äi f
+047/065	fäif	1	f äi f
+047/067	föif	1	f öi f
+047/069	fif	1	f i f
+047/071	fief	1	f ie f
+047/073	fäif	1	f äi f
+047/075	feif	1	f ei f
+047/077	fünef	1	f ü n e f
+047/079	fünf	1	f ü n f
+047/081	fünf	1	f ü n f
+047/083	fünf	1	f ü n f
+047/085	finf	1	f i n f
+047/087	finf	1	f i n f
+047/089	fief	1	f ie f
+047/091	fünf	1	f ü n f
+047/093	fünf	1	f ü n f
+047/095	fünf	1	f ü n f
+047/097	finf	1	f i n f
+047/099	fünf	1	f ü n f
+047/101	fünf	1	f ü n f
+047/103	finnef	1	f i nn e f
+047/105	finf	1	f i n f
+047/107	fünf	1	f ü n f
+047/109	fünf	1	f ü n f
+047/111	finf	1	f i n f
+047/113	finf	1	f i n f
+047/115	fünf	1	f ü n f
+047/117	finf	1	f i n f
+047/119	fünf	1	f ü n f
+047/123	finf	1	f i n f
+047/125	finf	1	f i n f
+047/127	fünf	1	f ü n f
+047/129	fünf	1	f ü n f
+047/131	finf	1	f i n f
+047/133	fimf	1	f i m f
+047/135	finf	1	f i n f
+047/137	finf	1	f i n f
+047/139	finf	1	f i n f
+047/141	fünf	1	f ü n f
+047/147	fünf	1	f ü n f
+047/149	fümf	1	f ü m f
+047/151	fünf	1	f ü n f
+047/159	fümf	1	f ü m f
+048/021	feif	1	f ei f
+048/023	fiff	1	f i ff
+048/027	fif	1	f i f
+048/029	fif	1	f i f
+048/031	fif	1	f i f
+048/033	fiew	1	f ie w
+048/035	fief	1	f ie f
+048/037	fiif	1	f ii f
+048/039	fief	1	f ie f
+048/041	fiev	1	f ie v
+048/045	fief	1	f ie f
+048/047	feiv	1	f ei v
+048/049	fäiv	1	f äi v
+048/051	feif	1	f ei f
+048/053	füf	1	f ü f
+048/055	füif	1	f üi f
+048/057	fuif	1	f ui f
+048/059	fouif	1	f oui f
+048/061	fäif	1	f äi f
+048/063	fief	1	f ie f
+048/065	fäif	1	f äi f
+048/067	fäiw	1	f äi w
+048/069	väif	1	v äi f
+048/071	finf	1	f i n f
+048/073	fief	1	f ie f
+048/075	fief	1	f ie f
+048/077	fünf	1	f ü n f
+048/079	fünw	1	f ü n w
+048/081	fünf	1	f ü n f
+048/083	finf	1	f i n f
+048/085	fünf	1	f ü n f
+048/087	finef	1	f i n e f
+048/089	finnef	1	f i nn e f
+048/091	fünf	1	f ü n f
+048/093	finf	1	f i n f
+048/095	finf	1	f i n f
+048/099	fünf	1	f ü n f
+048/101	fünf	1	f ü n f
+048/103	finf	1	f i n f
+048/105	fünf	1	f ü n f
+048/107	fünf	1	f ü n f
+048/109	finf	1	f i n f
+048/111	finf	1	f i n f
+048/113	fünf	1	f ü n f
+048/115	fimf	1	f i m f
+048/119	fünf	1	f ü n f
+048/123	finf	1	f i n f
+048/125	fimf	1	f i m f
+048/127	fünf	1	f ü n f
+048/129	fünf	1	f ü n f
+048/131	fünf	1	f ü n f
+048/133	finf	1	f i n f
+048/135	fimf	1	f i m f
+048/137	finf	1	f i n f
+048/139	fimf	1	f i m f
+048/141	fimf	1	f i m f
+048/143	finf	1	f i n f
+048/145	fümf	1	f ü m f
+048/147	fünf	1	f ü n f
+048/153	finf	1	f i n f
+048/157	fümf	1	f ü m f
+048/159	fünf	1	f ü n f
+049/019	feif	1	f ei f
+049/021	fiff	1	f i ff
+049/023	fif	1	f i f
+049/025	füf	1	f ü f
+049/027	fif	1	f i f
+049/029	fif	1	f i f
+049/031	vief	1	v ie f
+049/033	fief	1	f ie f
+049/035	fiev	1	f ie v
+049/037	fief	1	f ie f
+049/039	fiev	1	f ie v
+049/041	fief	1	f ie f
+049/043	fief	1	f ie f
+049/045	fif	1	f i f
+049/047	fiif	1	f ii f
+049/049	fäif	1	f äi f
+049/051	fuif	1	f ui f
+049/053	fäif	1	f äi f
+049/055	fuif	1	f ui f
+049/057	föif	1	f öi f
+049/059	fuif	1	f ui f
+049/061	foif	1	f oi f
+049/063	fööiv	1	f ööi v
+049/065	foif	1	f oi f
+049/067	foif	1	f oi f
+049/069	fäif	1	f äi f
+049/071	fäif	1	f äi f
+049/073	finf	1	f i n f
+049/077	fünf	1	f ü n f
+049/079	finnef	1	f i nn e f
+049/081	finf	1	f i n f
+049/083	fünf	1	f ü n f
+049/085	fünf	1	f ü n f
+049/087	finef	1	f i n e f
+049/089	finf	1	f i n f
+049/091	finf	1	f i n f
+049/093	finf	1	f i n f
+049/095	finf	1	f i n f
+049/097	fünf	1	f ü n f
+049/099	finf	1	f i n f
+049/101	finf	1	f i n f
+049/103	fünf	1	f ü n f
+049/105	finf	1	f i n f
+049/107	fimf	1	f i m f
+049/109	fünf	1	f ü n f
+049/111	fünf	1	f ü n f
+049/113	finf	1	f i n f
+049/115	fünf	1	f ü n f
+049/117	finf	1	f i n f
+049/119	fimf	1	f i m f
+049/121	fünf	1	f ü n f
+049/123	fümf	1	f ü m f
+049/125	finf	1	f i n f
+049/127	finf	1	f i n f
+049/129	fünf	1	f ü n f
+049/131	fünf	1	f ü n f
+049/133	fimf	1	f i m f
+049/135	fimf	1	f i m f
+049/137	fünf	1	f ü n f
+049/139	fünf	1	f ü n f
+049/141	fünf	1	f ü n f
+049/143	finf	1	f i n f
+049/145	finf	1	f i n f
+049/147	fimf	1	f i m f
+049/151	fünf	1	f ü n f
+050/021	fif	1	f i f
+050/023	fönf	1	f ö n f
+050/025	fiff	1	f i ff
+050/027	fiff	1	f i ff
+050/029	fiff	1	f i ff
+050/031	fief	1	f ie f
+050/033	fief	1	f ie f
+050/035	fief	1	f ie f
+050/037	fief	1	f ie f
+050/039	fif	1	f i f
+050/041	fiev	1	f ie v
+050/043	fief	1	f ie f
+050/047	fäif	1	f äi f
+050/049	fuif	1	f ui f
+050/051	füef	1	f üe f
+050/053	fyf	1	f y f
+050/055	feif	1	f ei f
+050/057	fieif	1	f iei f
+050/059	feif	1	f ei f
+050/061	fieif	1	f iei f
+050/063	feeif	1	f eei f
+050/065	fief	1	f ie f
+050/067	fäif	1	f äi f
+050/069	fäif	1	f äi f
+050/071	fäif	1	f äi f
+050/073	fief	1	f ie f
+050/075	finf	1	f i n f
+050/077	fünef	1	f ü n e f
+050/079	finf	1	f i n f
+050/081	finf	1	f i n f
+050/083	finf	1	f i n f
+050/085	fünef	1	f ü n e f
+050/087	finf	1	f i n f
+050/089	finnef	1	f i nn e f
+050/091	finf	1	f i n f
+050/093	fünf	1	f ü n f
+050/095	finf	1	f i n f
+050/097	fünf	1	f ü n f
+050/099	fünf	1	f ü n f
+050/101	fünf	1	f ü n f
+050/103	finf	1	f i n f
+050/105	fünf	1	f ü n f
+050/107	finf	1	f i n f
+050/109	fimf	1	f i m f
+050/111	fünf	1	f ü n f
+050/113	finf	1	f i n f
+050/115	fünf	1	f ü n f
+050/117	finf	1	f i n f
+050/119	fünf	1	f ü n f
+050/121	finf	1	f i n f
+050/125	finf	1	f i n f
+050/127	fimf	1	f i m f
+050/129	fünf	1	f ü n f
+050/131	finf	1	f i n f
+050/133	fünf	1	f ü n f
+050/135	fünf	1	f ü n f
+050/137	finf	1	f i n f
+050/139	finf	1	f i n f
+050/141	fimf	1	f i m f
+050/143	fimf	1	f i m f
+050/145	fimf	1	f i m f
+050/147	finf	1	f i n f
+050/149	finf	1	f i n f
+050/151	finf	1	f i n f
+050/155	finf	1	f i n f
+050/157	fünf	1	f ü n f
+050/159	finf	1	f i n f
+050/161	fünf	1	f ü n f
+051/023	fif	1	f i f
+051/025	fif	1	f i f
+051/027	fiff	1	f i ff
+051/029	fiff	1	f i ff
+051/031	vief	1	v ie f
+051/033	fief	1	f ie f
+051/035	fief	1	f ie f
+051/037	fief	1	f ie f
+051/039	fief	1	f ie f
+051/041	fäif	1	f äi f
+051/043	fiov	1	f io v
+051/045	fuif	1	f ui f
+051/047	fuif	1	f ui f
+051/049	fuif	1	f ui f
+051/051	fäif	1	f äi f
+051/053	feiif	1	f eii f
+051/055	föif	1	f öi f
+051/057	fif	1	f i f
+051/059	feif	1	f ei f
+051/061	fif	1	f i f
+051/063	föif	1	f öi f
+051/065	fäif	1	f äi f
+051/067	fif	1	f i f
+051/069	fief	1	f ie f
+051/071	fief	1	f ie f
+051/073	fiew	1	f ie w
+051/075	finf	1	f i n f
+051/077	finf	1	f i n f
+051/079	finf	1	f i n f
+051/081	finf	1	f i n f
+051/083	fünf	1	f ü n f
+051/085	fief	1	f ie f
+051/087	füev	1	f üe v
+051/089	fünf	1	f ü n f
+051/091	fünf	1	f ü n f
+051/093	fienf	1	f ie n f
+051/095	finf	1	f i n f
+051/097	finf	1	f i n f
+051/099	fief	1	f ie f
+051/101	fümf	1	f ü m f
+051/103	fimf	1	f i m f
+051/105	fünf	1	f ü n f
+051/107	finf	1	f i n f
+051/109	finf	1	f i n f
+051/111	fünf	1	f ü n f
+051/113	finf	1	f i n f
+051/115	finf	1	f i n f
+051/117	fünf	1	f ü n f
+051/119	finf	1	f i n f
+051/121	finf	1	f i n f
+051/123	finf	1	f i n f
+051/125	finf	1	f i n f
+051/127	fünf	1	f ü n f
+051/129	fünf	1	f ü n f
+051/131	finf	1	f i n f
+051/133	finf	1	f i n f
+051/135	finf	1	f i n f
+051/137	finf	1	f i n f
+051/139	fümf	1	f ü m f
+051/141	fimf	1	f i m f
+051/143	finf	1	f i n f
+051/145	finf	1	f i n f
+051/147	fimf	1	f i m f
+051/149	fümf	1	f ü m f
+051/151	fünf	1	f ü n f
+051/153	fümf	1	f ü m f
+051/155	fünf	1	f ü n f
+051/157	fünf	1	f ü n f
+052/023	fif	1	f i f
+052/025	fiff	1	f i ff
+052/027	fiff	1	f i ff
+052/029	fif	1	f i f
+052/031	fief	1	f ie f
+052/033	vief	1	v ie f
+052/035	fief	1	f ie f
+052/037	fief	1	f ie f
+052/039	fiew	1	f ie w
+052/041	fäif	1	f äi f
+052/043	feif	1	f ei f
+052/045	fuif	1	f ui f
+052/047	fuif	1	f ui f
+052/049	fuuif	1	f uui f
+052/051	fäif	1	f äi f
+052/053	fyf	1	f y f
+052/057	fif	1	f i f
+052/059	fäif	1	f äi f
+052/061	fief	1	f ie f
+052/063	füf	1	f ü f
+052/065	fief	1	f ie f
+052/067	fief	1	f ie f
+052/069	fief	1	f ie f
+052/071	fief	1	f ie f
+052/073	fihf	1	f ih f
+052/075	finnef	1	f i nn e f
+052/077	finf	1	f i n f
+052/079	fünf	1	f ü n f
+052/081	fünf	1	f ü n f
+052/083	finf	1	f i n f
+052/085	finf	1	f i n f
+052/087	finef	1	f i n e f
+052/089	finf	1	f i n f
+052/091	fünf	1	f ü n f
+052/093	fünf	1	f ü n f
+052/095	finf	1	f i n f
+052/097	finf	1	f i n f
+052/099	finf	1	f i n f
+052/101	funf	1	f u n f
+052/103	finf	1	f i n f
+052/105	finf	1	f i n f
+052/107	finf	1	f i n f
+052/109	finf	1	f i n f
+052/111	fimf	1	f i m f
+052/113	fünf	1	f ü n f
+052/115	finf	1	f i n f
+052/117	fünf	1	f ü n f
+052/121	fünf	1	f ü n f
+052/123	fünf	1	f ü n f
+052/125	fimf	1	f i m f
+052/127	fünf	1	f ü n f
+052/129	fünf	1	f ü n f
+052/131	fünf	1	f ü n f
+052/133	fünf	1	f ü n f
+052/135	fimf	1	f i m f
+052/137	fimf	1	f i m f
+052/139	fünf	1	f ü n f
+052/141	fimf	1	f i m f
+052/143	fimf	1	f i m f
+052/145	fünf	1	f ü n f
+052/147	fimf	1	f i m f
+052/149	fünf	1	f ü n f
+052/151	finpf	1	f i n p f
+052/153	finf	1	f i n f
+052/155	finf	1	f i n f
+052/157	fimpf	1	f i m p f
+052/159	finf	1	f i n f
+053/023	fif	1	f i f
+053/025	fiev	1	f ie v
+053/027	fief	1	f ie f
+053/029	fiff	1	f i ff
+053/031	fief	1	f ie f
+053/033	fief	1	f ie f
+053/035	fiiw	1	f ii w
+053/037	vief	1	v ie f
+053/039	fief	1	f ie f
+053/041	feif	1	f ei f
+053/043	fäif	1	f äi f
+053/045	feeif	1	f eei f
+053/047	fuif	1	f ui f
+053/049	fuif	1	f ui f
+053/051	feif	1	f ei f
+053/053	viäw	1	v iä w
+053/055	fiev	1	f ie v
+053/057	fief	1	f ie f
+053/059	fief	1	f ie f
+053/061	fief	1	f ie f
+053/063	fief	1	f ie f
+053/065	fief	1	f ie f
+053/067	fiv	1	f i v
+053/069	fiev	1	f ie v
+053/071	fiif	1	f ii f
+053/073	finnef	1	f i nn e f
+053/075	finef	1	f i n e f
+053/077	finaff	1	f i n a ff
+053/079	finf	1	f i n f
+053/081	finf	1	f i n f
+053/083	finf	1	f i n f
+053/085	finf	1	f i n f
+053/087	finf	1	f i n f
+053/089	finnef	1	f i nn e f
+053/091	finf	1	f i n f
+053/093	finf	1	f i n f
+053/095	fünf	1	f ü n f
+053/097	finf	1	f i n f
+053/099	fünf	1	f ü n f
+053/101	finf	1	f i n f
+053/103	finf	1	f i n f
+053/105	fünf	1	f ü n f
+053/107	fünf	1	f ü n f
+053/109	finf	1	f i n f
+053/111	finf	1	f i n f
+053/113	fimf	1	f i m f
+053/115	fimf	1	f i m f
+053/121	finf	1	f i n f
+053/123	finf	1	f i n f
+053/125	fimf	1	f i m f
+053/127	finf	1	f i n f
+053/129	finf	1	f i n f
+053/131	finf	1	f i n f
+053/133	fünf	1	f ü n f
+053/135	finf	1	f i n f
+053/137	fimf	1	f i m f
+053/139	finf	1	f i n f
+053/141	fimf	1	f i m f
+053/143	fimf	1	f i m f
+053/145	fünf	1	f ü n f
+053/147	fimf	1	f i m f
+053/149	fünf	1	f ü n f
+053/151	fimpf	1	f i m p f
+053/153	fünf	1	f ü n f
+053/155	fimf	1	f i m f
+053/157	fümff	1	f ü m ff
+054/023	fief	1	f ie f
+054/025	viev	1	v ie v
+054/027	fönef	1	f ö n e f
+054/029	fönf	1	f ö n f
+054/031	fief	1	f ie f
+054/033	fief	1	f ie f
+054/035	fiev	1	f ie v
+054/037	fief	1	f ie f
+054/039	fief	1	f ie f
+054/041	fif	1	f i f
+054/043	fäif	1	f äi f
+054/045	feyf	1	f ey f
+054/047	fuif	1	f ui f
+054/049	fuif	1	f ui f
+054/051	föif	1	f öi f
+054/053	fäif	1	f äi f
+054/055	fif	1	f i f
+054/057	fief	1	f ie f
+054/059	fief	1	f ie f
+054/061	fünf	1	f ü n f
+054/063	fenf	1	f e n f
+054/065	fiif	1	f ii f
+054/067	fünf	1	f ü n f
+054/069	fünf	1	f ü n f
+054/071	finf	1	f i n f
+054/073	finf	1	f i n f
+054/075	finf	1	f i n f
+054/077	finf	1	f i n f
+054/079	fünf	1	f ü n f
+054/081	finf	1	f i n f
+054/083	finf	1	f i n f
+054/085	finf	1	f i n f
+054/087	finf	1	f i n f
+054/089	fünf	1	f ü n f
+054/091	finnef	1	f i nn e f
+054/093	finf	1	f i n f
+054/095	finf	1	f i n f
+054/097	finf	1	f i n f
+054/099	fimf	1	f i m f
+054/101	finf	1	f i n f
+054/103	finf	1	f i n f
+054/105	finf	1	f i n f
+054/107	finf	1	f i n f
+054/109	finf	1	f i n f
+054/111	finf	1	f i n f
+054/113	finf	1	f i n f
+054/115	fimf	1	f i m f
+054/117	femf	1	f e m f
+054/119	fenf	1	f e n f
+054/121	finf	1	f i n f
+054/123	fimf	1	f i m f
+054/125	fimf	1	f i m f
+054/127	fünf	1	f ü n f
+054/131	finf	1	f i n f
+054/133	fünf	1	f ü n f
+054/135	finf	1	f i n f
+054/137	fünf	1	f ü n f
+054/139	finf	1	f i n f
+054/141	finf	1	f i n f
+054/143	fimf	1	f i m f
+054/145	fünf	1	f ü n f
+054/147	fünf	1	f ü n f
+054/149	finf	1	f i n f
+054/151	fünf	1	f ü n f
+054/153	fünf	1	f ü n f
+054/155	finf	1	f i n f
+054/157	fünf	1	f ü n f
+054/159	fauf	1	f au f
+054/161	finf	1	f i n f
+054/163	vief	1	v ie f
+055/023	fif	1	f i f
+055/025	fihv	1	f ih v
+055/027	fönf	1	f ö n f
+055/029	fönf	1	f ö n f
+055/031	fouf	1	f ou f
+055/033	fouf	1	f ou f
+055/035	fief	1	f ie f
+055/037	fief	1	f ie f
+055/039	fief	1	f ie f
+055/041	feeiv	1	f eei v
+055/043	fäyf	1	f äy f
+055/045	fäif	1	f äi f
+055/047	fäif	1	f äi f
+055/049	fäiw	1	f äi w
+055/051	fief	1	f ie f
+055/053	fiev	1	f ie v
+055/055	fif	1	f i f
+055/057	fief	1	f ie f
+055/059	fief	1	f ie f
+055/061	fünf	1	f ü n f
+055/063	fünf	1	f ü n f
+055/065	fünf	1	f ü n f
+055/067	fünf	1	f ü n f
+055/069	fünf	1	f ü n f
+055/071	fünf	1	f ü n f
+055/073	finf	1	f i n f
+055/075	fünf	1	f ü n f
+055/077	fünf	1	f ü n f
+055/079	finf	1	f i n f
+055/081	fünf	1	f ü n f
+055/083	fünf	1	f ü n f
+055/085	finf	1	f i n f
+055/087	finf	1	f i n f
+055/089	funf	1	f u n f
+055/091	finf	1	f i n f
+055/093	finf	1	f i n f
+055/095	fünf	1	f ü n f
+055/097	fimpf	1	f i m p f
+055/099	fimf	1	f i m f
+055/101	finf	1	f i n f
+055/103	finf	1	f i n f
+055/105	fimf	1	f i m f
+055/107	fimf	1	f i m f
+055/109	finf	1	f i n f
+055/111	fimf	1	f i m f
+055/113	fimf	1	f i m f
+055/115	finf	1	f i n f
+055/117	fünf	1	f ü n f
+055/119	fünf	1	f ü n f
+055/123	fümf	1	f ü m f
+055/125	fünf	1	f ü n f
+055/127	fünf	1	f ü n f
+055/131	fünf	1	f ü n f
+055/133	fimf	1	f i m f
+055/135	fimf	1	f i m f
+055/137	finf	1	f i n f
+055/139	fimf	1	f i m f
+055/141	finf	1	f i n f
+055/143	finf	1	f i n f
+055/145	fümf	1	f ü m f
+055/147	finf	1	f i n f
+055/149	fimf	1	f i m f
+055/151	fimf	1	f i m f
+055/153	fimf	1	f i m f
+055/155	fünf	1	f ü n f
+055/157	finf	1	f i n f
+055/159	fünf	1	f ü n f
+055/161	finf	1	f i n f
+056/021	fief	1	f ie f
+056/023	fief	1	f ie f
+056/025	föneef	1	f ö n ee f
+056/027	fönnef	1	f ö nn e f
+056/029	vönnef	1	v ö nn e f
+056/031	fönf	1	f ö n f
+056/033	fouv	1	f ou v
+056/035	fief	1	f ie f
+056/037	fief	1	f ie f
+056/039	fiev	1	f ie v
+056/041	fif	1	f i f
+056/043	fief	1	f ie f
+056/045	fief	1	f ie f
+056/047	föif	1	f öi f
+056/049	feif	1	f ei f
+056/051	fyf	1	f y f
+056/053	fief	1	f ie f
+056/055	fief	1	f ie f
+056/057	fief	1	f ie f
+056/059	fenf	1	f e n f
+056/061	fenf	1	f e n f
+056/063	fenf	1	f e n f
+056/065	fünf	1	f ü n f
+056/067	fünf	1	f ü n f
+056/069	fenf	1	f e n f
+056/071	fünf	1	f ü n f
+056/073	fünf	1	f ü n f
+056/075	finf	1	f i n f
+056/077	finf	1	f i n f
+056/079	finf	1	f i n f
+056/081	finf	1	f i n f
+056/083	fenf	1	f e n f
+056/085	fünef	1	f ü n e f
+056/087	finf	1	f i n f
+056/089	finf	1	f i n f
+056/091	finf	1	f i n f
+056/093	finf	1	f i n f
+056/095	fenf	1	f e n f
+056/097	finf	1	f i n f
+056/099	finf	1	f i n f
+056/101	fimf	1	f i m f
+056/103	finf	1	f i n f
+056/105	fünf	1	f ü n f
+056/107	finf	1	f i n f
+056/109	finf	1	f i n f
+056/111	finf	1	f i n f
+056/113	fimf	1	f i m f
+056/115	fenf	1	f e n f
+056/117	finf	1	f i n f
+056/121	fünf	1	f ü n f
+056/123	fimf	1	f i m f
+056/125	fimf	1	f i m f
+056/127	fimf	1	f i m f
+056/129	finf	1	f i n f
+056/131	fimf	1	f i m f
+056/133	fünf	1	f ü n f
+056/135	finf	1	f i n f
+056/137	fimf	1	f i m f
+056/139	finf	1	f i n f
+056/141	finf	1	f i n f
+056/143	finf	1	f i n f
+056/145	finf	1	f i n f
+056/147	finf	1	f i n f
+056/149	fimf	1	f i m f
+056/151	fimf	1	f i m f
+056/153	fümf	1	f ü m f
+056/155	fünf	1	f ü n f
+056/157	fimf	1	f i m f
+056/159	finf	1	f i n f
+056/161	fünf	1	f ü n f
+057/021	fiv	1	f i v
+057/023	viv	1	v i v
+057/025	fönf	1	f ö n f
+057/027	fönef	1	f ö n e f
+057/029	fönef	1	f ö n e f
+057/031	fönf	1	f ö n f
+057/033	fouf	1	f ou f
+057/035	fönf	1	f ö n f
+057/037	fivv	1	f i vv
+057/039	viev	1	v ie v
+057/041	fiif	1	f ii f
+057/043	fief	1	f ie f
+057/045	fief	1	f ie f
+057/047	feyf	1	f ey f
+057/049	feif	1	f ei f
+057/051	fimf	1	f i m f
+057/053	fief	1	f ie f
+057/055	fünf	1	f ü n f
+057/057	fünf	1	f ü n f
+057/059	fünf	1	f ü n f
+057/061	fenf	1	f e n f
+057/063	fenf	1	f e n f
+057/065	fünf	1	f ü n f
+057/067	fünf	1	f ü n f
+057/069	fönf	1	f ö n f
+057/071	fünf	1	f ü n f
+057/073	fenf	1	f e n f
+057/075	finf	1	f i n f
+057/077	finf	1	f i n f
+057/079	fenf	1	f e n f
+057/081	fenf	1	f e n f
+057/083	fenf	1	f e n f
+057/085	fenf	1	f e n f
+057/087	fünf	1	f ü n f
+057/089	fünf	1	f ü n f
+057/091	finf	1	f i n f
+057/093	funf	1	f u n f
+057/095	finf	1	f i n f
+057/097	finf	1	f i n f
+057/099	finf	1	f i n f
+057/101	finf	1	f i n f
+057/103	fünf	1	f ü n f
+057/105	finf	1	f i n f
+057/107	fünf	1	f ü n f
+057/109	finf	1	f i n f
+057/111	fünf	1	f ü n f
+057/113	fimf	1	f i m f
+057/115	fünf	1	f ü n f
+057/117	fünf	1	f ü n f
+057/119	fünf	1	f ü n f
+057/121	funf	1	f u n f
+057/123	finf	1	f i n f
+057/125	fimf	1	f i m f
+057/127	fimf	1	f i m f
+057/129	fimf	1	f i m f
+057/131	fimf	1	f i m f
+057/133	fümf	1	f ü m f
+057/135	fimf	1	f i m f
+057/137	finf	1	f i n f
+057/139	finf	1	f i n f
+057/141	fimf	1	f i m f
+057/143	finf	1	f i n f
+057/145	finf	1	f i n f
+057/147	fief	1	f ie f
+057/149	fünf	1	f ü n f
+057/151	fümf	1	f ü m f
+057/153	fimf	1	f i m f
+057/155	fimf	1	f i m f
+057/157	finf	1	f i n f
+057/159	fünf	1	f ü n f
+057/161	finf	1	f i n f
+058/019	viif	1	v ii f
+058/021	viev	1	v ie v
+058/023	fief	1	f ie f
+058/025	fönef	1	f ö n e f
+058/027	fünef	1	f ü n e f
+058/029	fönef	1	f ö n e f
+058/031	fönf	1	f ö n f
+058/033	fönf	1	f ö n f
+058/035	fönef	1	f ö n e f
+058/037	fönef	1	f ö n e f
+058/039	fief	1	f ie f
+058/041	fief	1	f ie f
+058/043	fief	1	f ie f
+058/045	fiev	1	f ie v
+058/047	fenf	1	f e n f
+058/049	fünf	1	f ü n f
+058/051	fünf	1	f ü n f
+058/053	fönf	1	f ö n f
+058/055	fenf	1	f e n f
+058/057	fenf	1	f e n f
+058/059	fenf	1	f e n f
+058/061	fenf	1	f e n f
+058/063	fenf	1	f e n f
+058/065	fenf	1	f e n f
+058/067	femf	1	f e m f
+058/069	fenef	1	f e n e f
+058/071	fümf	1	f ü m f
+058/073	finef	1	f i n e f
+058/075	fünf	1	f ü n f
+058/077	fünf	1	f ü n f
+058/079	fenf	1	f e n f
+058/081	fenf	1	f e n f
+058/083	fönf	1	f ö n f
+058/085	fenf	1	f e n f
+058/087	fünf	1	f ü n f
+058/089	finf	1	f i n f
+058/091	finf	1	f i n f
+058/093	finf	1	f i n f
+058/095	finf	1	f i n f
+058/097	finf	1	f i n f
+058/099	fünf	1	f ü n f
+058/101	finf	1	f i n f
+058/103	finf	1	f i n f
+058/105	finf	1	f i n f
+058/107	finf	1	f i n f
+058/109	fimf	1	f i m f
+058/111	finf	1	f i n f
+058/113	finf	1	f i n f
+058/115	finf	1	f i n f
+058/117	fünf	1	f ü n f
+058/119	fimf	1	f i m f
+058/121	fömf	1	f ö m f
+058/123	finf	1	f i n f
+058/125	finf	1	f i n f
+058/127	finf	1	f i n f
+058/129	fenif	1	f e n i f
+058/131	finf	1	f i n f
+058/133	femf	1	f e m f
+058/135	fimf	1	f i m f
+058/137	fimf	1	f i m f
+058/139	fünf	1	f ü n f
+058/141	finf	1	f i n f
+058/143	finf	1	f i n f
+058/145	finf	1	f i n f
+058/147	fimf	1	f i m f
+058/149	finf	1	f i n f
+058/151	fimf	1	f i m f
+058/153	finf	1	f i n f
+058/155	fümf	1	f ü m f
+058/157	fimf	1	f i m f
+058/159	fümf	1	f ü m f
+059/019	fief	1	f ie f
+059/021	fönf	1	f ö n f
+059/023	vönef	1	v ö n e f
+059/025	fünf	1	f ü n f
+059/027	fünief	1	f ü n ie f
+059/029	fünnef	1	f ü nn e f
+059/031	fünf	1	f ü n f
+059/033	fenf	1	f e n f
+059/035	fönnff	1	f ö nn ff
+059/037	fönf	1	f ö n f
+059/039	fönf	1	f ö n f
+059/041	vönev	1	v ö n e v
+059/043	fönf	1	f ö n f
+059/045	fönf	1	f ö n f
+059/047	fenf	1	f e n f
+059/049	fenf	1	f e n f
+059/051	fünf	1	f ü n f
+059/053	fenf	1	f e n f
+059/055	fenf	1	f e n f
+059/057	fenf	1	f e n f
+059/059	fenf	1	f e n f
+059/061	fönf	1	f ö n f
+059/063	fenf	1	f e n f
+059/065	fenf	1	f e n f
+059/067	fenf	1	f e n f
+059/069	finf	1	f i n f
+059/071	fönnef	1	f ö nn e f
+059/073	fenef	1	f e n e f
+059/075	fonf	1	f o n f
+059/077	fönf	1	f ö n f
+059/079	fenf	1	f e n f
+059/081	fenf	1	f e n f
+059/083	fönf	1	f ö n f
+059/085	fönf	1	f ö n f
+059/087	finf	1	f i n f
+059/089	finef	1	f i n e f
+059/091	finf	1	f i n f
+059/093	finf	1	f i n f
+059/095	fünf	1	f ü n f
+059/097	fünf	1	f ü n f
+059/099	funf	1	f u n f
+059/101	finf	1	f i n f
+059/103	fünf	1	f ü n f
+059/105	fünf	1	f ü n f
+059/107	finf	1	f i n f
+059/109	finf	1	f i n f
+059/111	finf	1	f i n f
+059/113	finf	1	f i n f
+059/115	fimf	1	f i m f
+059/117	fünf	1	f ü n f
+059/119	fünf	1	f ü n f
+059/121	fimf	1	f i m f
+059/123	finf	1	f i n f
+059/125	finf	1	f i n f
+059/127	fimf	1	f i m f
+059/129	feinf	1	f ei n f
+059/131	finnf	1	f i nn f
+059/133	fünf	1	f ü n f
+059/135	fimf	1	f i m f
+059/137	fimf	1	f i m f
+059/139	firnf	1	f i r n f
+059/141	firnf	1	f i r n f
+059/143	fimf	1	f i m f
+059/145	fünf	1	f ü n f
+059/147	fünf	1	f ü n f
+059/149	finf	1	f i n f
+059/151	finf	1	f i n f
+059/153	fimf	1	f i m f
+059/155	fünf	1	f ü n f
+059/157	fimf	1	f i m f
+059/159	fünf	1	f ü n f
+059/161	fünf	1	f ü n f
+059/165	fünf	1	f ü n f
+059/169	finf	1	f i n f
+060/021	fönf	1	f ö n f
+060/023	fonaf	1	f o n a f
+060/025	fönäf	1	f ö n ä f
+060/027	fönf	1	f ö n f
+060/029	fömf	1	f ö m f
+060/031	föuef	1	f öue f
+060/033	vönef	1	v ö n e f
+060/035	fönf	1	f ö n f
+060/037	fünnf	1	f ü nn f
+060/039	fönf	1	f ö n f
+060/041	fönf	1	f ö n f
+060/043	fünf	1	f ü n f
+060/045	fenf	1	f e n f
+060/047	fünf	1	f ü n f
+060/049	finf	1	f i n f
+060/051	finf	1	f i n f
+060/053	fünf	1	f ü n f
+060/055	finf	1	f i n f
+060/057	finf	1	f i n f
+060/059	fenf	1	f e n f
+060/061	fenf	1	f e n f
+060/063	fenf	1	f e n f
+060/065	fenf	1	f e n f
+060/067	fenf	1	f e n f
+060/069	fenf	1	f e n f
+060/071	fenf	1	f e n f
+060/073	fönf	1	f ö n f
+060/075	fönf	1	f ö n f
+060/077	fenf	1	f e n f
+060/079	finf	1	f i n f
+060/081	fenf	1	f e n f
+060/083	fenf	1	f e n f
+060/085	fönf	1	f ö n f
+060/087	fünf	1	f ü n f
+060/089	fünf	1	f ü n f
+060/091	finf	1	f i n f
+060/093	fünf	1	f ü n f
+060/095	fimf	1	f i m f
+060/097	finf	1	f i n f
+060/099	fimf	1	f i m f
+060/101	fünf	1	f ü n f
+060/103	finf	1	f i n f
+060/105	finf	1	f i n f
+060/107	fenf	1	f e n f
+060/109	finf	1	f i n f
+060/111	fienf	1	f ie n f
+060/113	fimf	1	f i m f
+060/115	fimf	1	f i m f
+060/117	fenf	1	f e n f
+060/119	fünf	1	f ü n f
+060/121	fünf	1	f ü n f
+060/123	fimf	1	f i m f
+060/125	finf	1	f i n f
+060/127	fömf	1	f ö m f
+060/129	femf	1	f e m f
+060/131	fömf	1	f ö m f
+060/135	finf	1	f i n f
+060/137	fimf	1	f i m f
+060/139	fimf	1	f i m f
+060/141	funf	1	f u n f
+060/143	fimf	1	f i m f
+060/145	fimf	1	f i m f
+060/147	fimf	1	f i m f
+060/149	fimf	1	f i m f
+060/151	fimf	1	f i m f
+060/153	fimf	1	f i m f
+060/155	fimf	1	f i m f
+060/157	fimf	1	f i m f
+060/159	finf	1	f i n f
+060/163	fünf	1	f ü n f
+060/165	fünf	1	f ü n f
+061/021	fönf	1	f ö n f
+061/023	fönef	1	f ö n e f
+061/025	fönef	1	f ö n e f
+061/027	fönef	1	f ö n e f
+061/029	fönnef	1	f ö nn e f
+061/031	foüf	1	f oü f
+061/033	fönäw	1	f ö n ä w
+061/035	fömf	1	f ö m f
+061/037	fünnef	1	f ü nn e f
+061/039	fönef	1	f ö n e f
+061/041	fönef	1	f ö n e f
+061/043	fönf	1	f ö n f
+061/045	fünf	1	f ü n f
+061/047	fünf	1	f ü n f
+061/049	fünf	1	f ü n f
+061/051	finf	1	f i n f
+061/053	fiaf	1	f ia f
+061/055	füaf	1	f üa f
+061/057	fünf	1	f ü n f
+061/059	fünf	1	f ü n f
+061/061	fenf	1	f e n f
+061/063	fenf	1	f e n f
+061/065	fünf	1	f ü n f
+061/067	fenf	1	f e n f
+061/069	fenf	1	f e n f
+061/071	fönnef	1	f ö nn e f
+061/073	fönnef	1	f ö nn e f
+061/075	fonef	1	f o n e f
+061/077	fenef	1	f e n e f
+061/079	fenef	1	f e n e f
+061/081	fenf	1	f e n f
+061/083	fenf	1	f e n f
+061/085	funf	1	f u n f
+061/087	finf	1	f i n f
+061/089	finf	1	f i n f
+061/091	finf	1	f i n f
+061/093	finf	1	f i n f
+061/095	fimpf	1	f i m p f
+061/097	fimf	1	f i m f
+061/099	finf	1	f i n f
+061/101	finf	1	f i n f
+061/103	fimf	1	f i m f
+061/105	fimf	1	f i m f
+061/107	fimbf	1	f i m b f
+061/109	finf	1	f i n f
+061/111	finf	1	f i n f
+061/113	fünf	1	f ü n f
+061/115	femf	1	f e m f
+061/117	finf	1	f i n f
+061/119	fimf	1	f i m f
+061/121	fimf	1	f i m f
+061/123	femf	1	f e m f
+061/125	fimf	1	f i m f
+061/127	fimf	1	f i m f
+061/129	fömf	1	f ö m f
+061/131	fömf	1	f ö m f
+061/133	femf	1	f e m f
+061/137	finf	1	f i n f
+061/139	finf	1	f i n f
+061/141	fimf	1	f i m f
+061/143	finf	1	f i n f
+061/145	finf	1	f i n f
+061/147	fünf	1	f ü n f
+061/149	fimf	1	f i m f
+061/151	finf	1	f i n f
+061/153	fimf	1	f i m f
+061/155	fimf	1	f i m f
+061/157	fimf	1	f i m f
+061/159	fimf	1	f i m f
+061/161	finf	1	f i n f
+061/165	fünf	1	f ü n f
+062/021	NA	NA	-
+062/023	fönef	1	f ö n e f
+062/025	fönef	1	f ö n e f
+062/027	fönf	1	f ö n f
+062/029	foüf	1	f oü f
+062/031	fönnef	1	f ö nn e f
+062/033	fönnef	1	f ö nn e f
+062/035	fönef	1	f ö n e f
+062/037	fönef	1	f ö n e f
+062/039	fönneff	1	f ö nn e ff
+062/041	fönef	1	f ö n e f
+062/043	fünf	1	f ü n f
+062/045	fenf	1	f e n f
+062/047	fünf	1	f ü n f
+062/049	finf	1	f i n f
+062/051	fünf	1	f ü n f
+062/053	fünf	1	f ü n f
+062/055	finf	1	f i n f
+062/057	fünf	1	f ü n f
+062/059	fünnf	1	f ü nn f
+062/061	fennef	1	f e nn e f
+062/063	fenf	1	f e n f
+062/065	fenf	1	f e n f
+062/067	fenf	1	f e n f
+062/069	fönf	1	f ö n f
+062/071	fönef	1	f ö n e f
+062/073	fönef	1	f ö n e f
+062/075	fönef	1	f ö n e f
+062/077	fönf	1	f ö n f
+062/079	fünf	1	f ü n f
+062/081	fönf	1	f ö n f
+062/083	fenf	1	f e n f
+062/085	fenf	1	f e n f
+062/087	finf	1	f i n f
+062/089	fimf	1	f i m f
+062/091	funpf	1	f u n p f
+062/093	finf	1	f i n f
+062/095	fimf	1	f i m f
+062/097	fümf	1	f ü m f
+062/099	finf	1	f i n f
+062/101	finf	1	f i n f
+062/103	femf	1	f e m f
+062/105	finf	1	f i n f
+062/107	fimf	1	f i m f
+062/109	finf	1	f i n f
+062/111	finf	1	f i n f
+062/113	finf	1	f i n f
+062/115	fimpf	1	f i m p f
+062/117	finf	1	f i n f
+062/119	fimf	1	f i m f
+062/121	fimf	1	f i m f
+062/123	finf	1	f i n f
+062/125	fimf	1	f i m f
+062/127	fenef	1	f e n e f
+062/129	fömf	1	f ö m f
+062/131	fömf	1	f ö m f
+062/133	femf	1	f e m f
+062/135	femf	1	f e m f
+062/137	femf	1	f e m f
+062/139	femf	1	f e m f
+062/141	fünf	1	f ü n f
+062/143	finf	1	f i n f
+062/145	fimf	1	f i m f
+062/147	finf	1	f i n f
+062/149	fimf	1	f i m f
+062/151	fümf	1	f ü m f
+062/153	fimf	1	f i m f
+062/155	fimf	1	f i m f
+062/157	fümf	1	f ü m f
+062/159	finf	1	f i n f
+062/161	fünf	1	f ü n f
+063/021	fouf	1	f ou f
+063/023	fönef	1	f ö n e f
+063/025	fönf	1	f ö n f
+063/027	fönnef	1	f ö nn e f
+063/029	fönnef	1	f ö nn e f
+063/031	fönnef	1	f ö nn e f
+063/033	fönf	1	f ö n f
+063/035	fönef	1	f ö n e f
+063/037	fünf	1	f ü n f
+063/039	fenf	1	f e n f
+063/041	föef	1	f öe f
+063/043	fenf	1	f e n f
+063/045	fönef	1	f ö n e f
+063/047	finf	1	f i n f
+063/049	finf	1	f i n f
+063/051	finf	1	f i n f
+063/053	finf	1	f i n f
+063/055	finf	1	f i n f
+063/057	fünf	1	f ü n f
+063/059	fenf	1	f e n f
+063/061	fünf	1	f ü n f
+063/063	fenf	1	f e n f
+063/065	fönnef	1	f ö nn e f
+063/067	föneff	1	f ö n e ff
+063/069	fönf	1	f ö n f
+063/071	fönnef	1	f ö nn e f
+063/073	fönef	1	f ö n e f
+063/075	fonf	1	f o n f
+063/077	fonef	1	f o n e f
+063/079	fönf	1	f ö n f
+063/081	fenf	1	f e n f
+063/083	fönf	1	f ö n f
+063/085	fünf	1	f ü n f
+063/087	fimf	1	f i m f
+063/089	fimf	1	f i m f
+063/091	fünf	1	f ü n f
+063/093	fimpf	1	f i m p f
+063/095	fünf	1	f ü n f
+063/097	fimf	1	f i m f
+063/099	fimpf	1	f i m p f
+063/101	fimf	1	f i m f
+063/103	fimf	1	f i m f
+063/105	fünf	1	f ü n f
+063/107	fünf	1	f ü n f
+063/109	finf	1	f i n f
+063/111	finf	1	f i n f
+063/113	finf	1	f i n f
+063/115	finf	1	f i n f
+063/117	finf	1	f i n f
+063/119	fimf	1	f i m f
+063/121	finf	1	f i n f
+063/123	föemf	1	f öe m f
+063/125	fünf	1	f ü n f
+063/127	fünf	1	f ü n f
+063/135	femf	1	f e m f
+063/137	femf	1	f e m f
+063/139	femf	1	f e m f
+063/141	fenf	1	f e n f
+063/143	fenf	1	f e n f
+063/145	femf	1	f e m f
+063/147	fimf	1	f i m f
+063/149	fümf	1	f ü m f
+063/151	fimf	1	f i m f
+063/153	fünf	1	f ü n f
+063/155	finf	1	f i n f
+063/157	fimf	1	f i m f
+063/159	finf	1	f i n f
+063/161	fenf	1	f e n f
+063/163	finf	1	f i n f
+063/165	fünf	1	f ü n f
+064/023	föuef	1	f öue f
+064/025	fönnef	1	f ö nn e f
+064/027	fönef	1	f ö n e f
+064/029	fonf	1	f o n f
+064/031	fönnöv	1	f ö nn ö v
+064/033	fönf	1	f ö n f
+064/035	fönef	1	f ö n e f
+064/037	finf	1	f i n f
+064/039	fenf	1	f e n f
+064/041	fenf	1	f e n f
+064/043	fenf	1	f e n f
+064/045	fünf	1	f ü n f
+064/047	fünf	1	f ü n f
+064/049	finf	1	f i n f
+064/051	finf	1	f i n f
+064/053	fünf	1	f ü n f
+064/055	finf	1	f i n f
+064/057	fenef	1	f e n e f
+064/059	fennäf	1	f e nn ä f
+064/061	fenf	1	f e n f
+064/063	fänef	1	f ä n e f
+064/065	fönf	1	f ö n f
+064/067	fänef	1	f ä n e f
+064/069	fönnef	1	f ö nn e f
+064/071	fönnef	1	f ö nn e f
+064/073	fönef	1	f ö n e f
+064/075	fänef	1	f ä n e f
+064/077	fönnöff	1	f ö nn ö ff
+064/079	fenf	1	f e n f
+064/081	fenf	1	f e n f
+064/083	fenf	1	f e n f
+064/085	fimpf	1	f i m p f
+064/087	finf	1	f i n f
+064/089	finf	1	f i n f
+064/091	fünf	1	f ü n f
+064/093	fimf	1	f i m f
+064/095	fimf	1	f i m f
+064/097	fimf	1	f i m f
+064/099	fimf	1	f i m f
+064/101	fimf	1	f i m f
+064/103	fimf	1	f i m f
+064/105	fimf	1	f i m f
+064/107	fümf	1	f ü m f
+064/109	finf	1	f i n f
+064/111	fünf	1	f ü n f
+064/113	finf	1	f i n f
+064/115	finf	1	f i n f
+064/117	fimf	1	f i m f
+064/119	finf	1	f i n f
+064/121	finf	1	f i n f
+064/123	fimf	1	f i m f
+064/125	fmf	1	f m f
+064/127	femf	1	f e m f
+064/135	femf	1	f e m f
+064/137	fenf	1	f e n f
+064/139	finf	1	f i n f
+064/141	fenf	1	f e n f
+064/143	femf	1	f e m f
+064/145	femf	1	f e m f
+064/147	fenf	1	f e n f
+064/149	fimf	1	f i m f
+064/151	fünf	1	f ü n f
+064/153	fümf	1	f ü m f
+064/155	fimf	1	f i m f
+064/157	finf	1	f i n f
+064/159	finf	1	f i n f
+065/021	fönf	1	f ö n f
+065/023	fönf	1	f ö n f
+065/025	fönf	1	f ö n f
+065/027	fönef	1	f ö n e f
+065/029	fönef	1	f ö n e f
+065/031	fonäf	1	f o n ä f
+065/033	fännf	1	f ä nn f
+065/035	fönef	1	f ö n e f
+065/037	fenef	1	f e n e f
+065/039	fennef	1	f e nn e f
+065/041	fönf	1	f ö n f
+065/043	finef	1	f i n e f
+065/045	fünf	1	f ü n f
+065/047	finf	1	f i n f
+065/049	finf	1	f i n f
+065/051	finf	1	f i n f
+065/053	finf	1	f i n f
+065/055	fünf	1	f ü n f
+065/057	fünneff	1	f ü nn e ff
+065/059	finnef	1	f i nn e f
+065/061	fenf	1	f e n f
+065/063	fönef	1	f ö n e f
+065/065	fönnef	1	f ö nn e f
+065/067	fönnef	1	f ö nn e f
+065/069	fünef	1	f ü n e f
+065/071	fönef	1	f ö n e f
+065/073	fönf	1	f ö n f
+065/075	fönf	1	f ö n f
+065/077	fünf	1	f ü n f
+065/079	fünf	1	f ü n f
+065/081	fenf	1	f e n f
+065/083	femf	1	f e m f
+065/085	fünf	1	f ü n f
+065/087	fuif	1	f ui f
+065/089	fümf	1	f ü m f
+065/091	fünf	1	f ü n f
+065/093	fimf	1	f i m f
+065/095	finf	1	f i n f
+065/097	fimf	1	f i m f
+065/101	fimf	1	f i m f
+065/103	fimpf	1	f i m p f
+065/105	femf	1	f e m f
+065/107	fimf	1	f i m f
+065/109	fimf	1	f i m f
+065/111	fimf	1	f i m f
+065/113	fimf	1	f i m f
+065/115	fimf	1	f i m f
+065/121	finf	1	f i n f
+065/123	fünf	1	f ü n f
+065/137	fimf	1	f i m f
+065/139	femf	1	f e m f
+065/143	fenf	1	f e n f
+065/145	fenf	1	f e n f
+065/147	finf	1	f i n f
+065/149	fenpf	1	f e n p f
+065/151	femf	1	f e m f
+065/153	finf	1	f i n f
+065/155	finf	1	f i n f
+065/157	fimf	1	f i m f
+065/159	fimf	1	f i m f
+066/021	fünf	1	f ü n f
+066/023	fönf	1	f ö n f
+066/025	fönf	1	f ö n f
+066/027	fünef	1	f ü n e f
+066/029	fünf	1	f ü n f
+066/031	fonef	1	f o n e f
+066/033	foineaf	1	f oi n ea f
+066/035	fünef	1	f ü n e f
+066/037	fönnef	1	f ö nn e f
+066/039	fennef	1	f e nn e f
+066/041	fenf	1	f e n f
+066/043	fenf	1	f e n f
+066/045	finf	1	f i n f
+066/047	finf	1	f i n f
+066/049	fenf	1	f e n f
+066/051	fünf	1	f ü n f
+066/053	finf	1	f i n f
+066/055	finnef	1	f i nn e f
+066/057	finaf	1	f i n a f
+066/059	finef	1	f i n e f
+066/061	fenef	1	f e n e f
+066/063	fönef	1	f ö n e f
+066/065	fönef	1	f ö n e f
+066/067	fönaf	1	f ö n a f
+066/069	fünef	1	f ü n e f
+066/071	fünef	1	f ü n e f
+066/073	fünf	1	f ü n f
+066/075	fönf	1	f ö n f
+066/077	fümf	1	f ü m f
+066/079	fünf	1	f ü n f
+066/081	fümf	1	f ü m f
+066/083	fünf	1	f ü n f
+066/085	fünf	1	f ü n f
+066/087	fimf	1	f i m f
+066/089	fimf	1	f i m f
+066/091	fimpf	1	f i m p f
+066/093	finf	1	f i n f
+066/095	fünf	1	f ü n f
+066/097	fimf	1	f i m f
+066/099	fenf	1	f e n f
+066/101	fenf	1	f e n f
+066/103	fimf	1	f i m f
+066/105	femf	1	f e m f
+066/107	fimf	1	f i m f
+066/109	fömf	1	f ö m f
+066/111	fimpf	1	f i m p f
+066/113	finf	1	f i n f
+066/121	finf	1	f i n f
+066/139	femf	1	f e m f
+066/143	femf	1	f e m f
+066/145	femf	1	f e m f
+066/147	femf	1	f e m f
+066/149	fenf	1	f e n f
+066/151	femf	1	f e m f
+066/153	femf	1	f e m f
+066/155	femf	1	f e m f
+066/157	fenf	1	f e n f
+066/159	fimf	1	f i m f
+066/161	fenf	1	f e n f
+066/163	finf	1	f i n f
+067/021	fönnef	1	f ö nn e f
+067/023	wönef	1	w ö n e f
+067/025	fenf	1	f e n f
+067/027	fönf	1	f ö n f
+067/029	fönnef	1	f ö nn e f
+067/031	fünf	1	f ü n f
+067/033	fönnef	1	f ö nn e f
+067/035	fünef	1	f ü n e f
+067/037	fenf	1	f e n f
+067/039	fünef	1	f ü n e f
+067/041	fünf	1	f ü n f
+067/043	fenf	1	f e n f
+067/045	finf	1	f i n f
+067/047	finf	1	f i n f
+067/049	finf	1	f i n f
+067/051	fünf	1	f ü n f
+067/053	fünf	1	f ü n f
+067/055	fünf	1	f ü n f
+067/057	finf	1	f i n f
+067/059	fünef	1	f ü n e f
+067/061	fenef	1	f e n e f
+067/063	fönef	1	f ö n e f
+067/065	fönef	1	f ö n e f
+067/067	fünf	1	f ü n f
+067/069	fünef	1	f ü n e f
+067/071	fünnaf	1	f ü nn a f
+067/073	fönaf	1	f ö n a f
+067/075	fünef	1	f ü n e f
+067/077	fünf	1	f ü n f
+067/079	fünf	1	f ü n f
+067/081	fünf	1	f ü n f
+067/083	fünef	1	f ü n e f
+067/085	fünf	1	f ü n f
+067/087	fümf	1	f ü m f
+067/089	fünf	1	f ü n f
+067/091	fümf	1	f ü m f
+067/093	fünf	1	f ü n f
+067/095	finf	1	f i n f
+067/097	fümf	1	f ü m f
+067/099	finf	1	f i n f
+067/101	fimbf	1	f i m b f
+067/103	fimf	1	f i m f
+067/105	füf	1	f ü f
+067/107	finf	1	f i n f
+067/109	finf	1	f i n f
+067/111	fimf	1	f i m f
+067/113	fimf	1	f i m f
+067/143	fenf	1	f e n f
+067/145	femf	1	f e m f
+067/147	fimf	1	f i m f
+067/149	fenf	1	f e n f
+067/151	femf	1	f e m f
+067/153	fenf	1	f e n f
+067/155	femf	1	f e m f
+067/157	fenf	1	f e n f
+067/159	fenf	1	f e n f
+067/161	fenf	1	f e n f
+067/163	femf	1	f e m f
+067/165	fünf	1	f ü n f
+067/177	finef	1	f i n e f
+068/021	fenf	1	f e n f
+068/023	fönf	1	f ö n f
+068/025	finf	1	f i n f
+068/027	fönnef	1	f ö nn e f
+068/029	fönnef	1	f ö nn e f
+068/031	fünf	1	f ü n f
+068/033	finf	1	f i n f
+068/035	finnef	1	f i nn e f
+068/037	fünef	1	f ü n e f
+068/039	fünf	1	f ü n f
+068/041	fünf	1	f ü n f
+068/043	fünf	1	f ü n f
+068/045	fimf	1	f i m f
+068/047	fünf	1	f ü n f
+068/049	fenf	1	f e n f
+068/051	finf	1	f i n f
+068/053	finf	1	f i n f
+068/055	fünf	1	f ü n f
+068/057	finf	1	f i n f
+068/059	finf	1	f i n f
+068/061	fönf	1	f ö n f
+068/063	fönnef	1	f ö nn e f
+068/065	fönef	1	f ö n e f
+068/067	fünf	1	f ü n f
+068/069	fünaf	1	f ü n a f
+068/071	fänef	1	f ä n e f
+068/073	fenaf	1	f e n a f
+068/075	fünaf	1	f ü n a f
+068/077	fünf	1	f ü n f
+068/079	fümf	1	f ü m f
+068/081	fümf	1	f ü m f
+068/083	fümf	1	f ü m f
+068/085	fünf	1	f ü n f
+068/087	fümf	1	f ü m f
+068/089	fimf	1	f i m f
+068/091	fimf	1	f i m f
+068/093	finef	1	f i n e f
+068/095	fimf	1	f i m f
+068/097	finf	1	f i n f
+068/099	fif	1	f i f
+068/101	fif	1	f i f
+068/103	fünf	1	f ü n f
+068/105	fimf	1	f i m f
+068/107	fünf	1	f ü n f
+068/109	fimpf	1	f i m p f
+068/111	fimf	1	f i m f
+068/145	femf	1	f e m f
+068/147	fempf	1	f e m p f
+068/149	fimf	1	f i m f
+068/151	femf	1	f e m f
+068/153	femf	1	f e m f
+068/155	femf	1	f e m f
+068/157	femf	1	f e m f
+068/159	femf	1	f e m f
+068/161	fenf	1	f e n f
+068/165	fünf	1	f ü n f
+069/019	fenef	1	f e n e f
+069/023	fennef	1	f e nn e f
+069/025	fenf	1	f e n f
+069/027	fenf	1	f e n f
+069/029	fenef	1	f e n e f
+069/031	finnef	1	f i nn e f
+069/033	fumf	1	f u m f
+069/035	fünf	1	f ü n f
+069/037	finf	1	f i n f
+069/039	fünef	1	f ü n e f
+069/041	finf	1	f i n f
+069/043	fenf	1	f e n f
+069/045	fünf	1	f ü n f
+069/047	finf	1	f i n f
+069/049	finf	1	f i n f
+069/051	fünf	1	f ü n f
+069/053	finf	1	f i n f
+069/055	finf	1	f i n f
+069/057	finef	1	f i n e f
+069/059	fünef	1	f ü n e f
+069/061	fünf	1	f ü n f
+069/063	fünf	1	f ü n f
+069/065	fünaf	1	f ü n a f
+069/067	fünf	1	f ü n f
+069/069	fünaf	1	f ü n a f
+069/071	fünnaf	1	f ü nn a f
+069/073	fünaf	1	f ü n a f
+069/075	fünf	1	f ü n f
+069/077	fümf	1	f ü m f
+069/079	fümf	1	f ü m f
+069/081	fenf	1	f e n f
+069/083	fünf	1	f ü n f
+069/085	fümf	1	f ü m f
+069/087	fümpf	1	f ü m p f
+069/089	fimf	1	f i m f
+069/091	finf	1	f i n f
+069/093	fümpf	1	f ü m p f
+069/095	fünf	1	f ü n f
+069/097	fif	1	f i f
+069/099	finf	1	f i n f
+069/101	finf	1	f i n f
+069/103	finf	1	f i n f
+069/105	finf	1	f i n f
+069/107	fimf	1	f i m f
+069/109	fünf	1	f ü n f
+069/111	finf	1	f i n f
+069/147	femf	1	f e m f
+069/149	fömf	1	f ö m f
+069/151	finf	1	f i n f
+069/153	fenf	1	f e n f
+069/157	femf	1	f e m f
+069/159	fenf	1	f e n f
+069/161	femf	1	f e m f
+069/163	femf	1	f e m f
+069/165	finf	1	f i n f
+070/019	fenef	1	f e n e f
+070/023	finf	1	f i n f
+070/025	finef	1	f i n e f
+070/027	finef	1	f i n e f
+070/029	fenef	1	f e n e f
+070/031	fenf	1	f e n f
+070/033	fünf	1	f ü n f
+070/035	fenf	1	f e n f
+070/037	fenf	1	f e n f
+070/039	finf	1	f i n f
+070/041	fünnf	1	f ü nn f
+070/043	fünf	1	f ü n f
+070/045	finf	1	f i n f
+070/047	finf	1	f i n f
+070/049	fünf	1	f ü n f
+070/051	fünf	1	f ü n f
+070/053	finf	1	f i n f
+070/055	fünf	1	f ü n f
+070/057	finf	1	f i n f
+070/059	finf	1	f i n f
+070/061	fönnf	1	f ö nn f
+070/063	fünf	1	f ü n f
+070/065	fünef	1	f ü n e f
+070/067	fünef	1	f ü n e f
+070/069	fenef	1	f e n e f
+070/071	fünf	1	f ü n f
+070/073	fünaf	1	f ü n a f
+070/075	fünf	1	f ü n f
+070/077	fümf	1	f ü m f
+070/079	fümf	1	f ü m f
+070/081	funf	1	f u n f
+070/083	fümf	1	f ü m f
+070/085	fimf	1	f i m f
+070/087	fimpf	1	f i m p f
+070/089	fimpf	1	f i m p f
+070/091	fimf	1	f i m f
+070/093	fümf	1	f ü m f
+070/095	füf	1	f ü f
+070/097	füf	1	f ü f
+070/099	fif	1	f i f
+070/101	fünf	1	f ü n f
+070/103	finf	1	f i n f
+070/105	finf	1	f i n f
+070/107	fünf	1	f ü n f
+070/109	finf	1	f i n f
+070/111	fünf	1	f ü n f
+070/145	femf	1	f e m f
+070/147	femf	1	f e m f
+070/149	fempf	1	f e m p f
+070/151	femf	1	f e m f
+070/153	femf	1	f e m f
+070/155	fimf	1	f i m f
+070/157	femf	1	f e m f
+070/159	femf	1	f e m f
+070/161	femf	1	f e m f
+070/163	femf	1	f e m f
+070/165	femf	1	f e m f
+071/017	venef	1	v e n e f
+071/019	fenf	1	f e n f
+071/021	fenef	1	f e n e f
+071/023	fenef	1	f e n e f
+071/025	fenf	1	f e n f
+071/027	feenf	1	f ee n f
+071/029	finnf	1	f i nn f
+071/031	fenef	1	f e n e f
+071/033	fennef	1	f e nn e f
+071/035	finef	1	f i n e f
+071/037	finnef	1	f i nn e f
+071/039	finef	1	f i n e f
+071/041	finnef	1	f i nn e f
+071/043	finef	1	f i n e f
+071/045	fünf	1	f ü n f
+071/047	finf	1	f i n f
+071/049	finf	1	f i n f
+071/051	finf	1	f i n f
+071/053	finf	1	f i n f
+071/055	finf	1	f i n f
+071/057	finf	1	f i n f
+071/059	finef	1	f i n e f
+071/063	fünef	1	f ü n e f
+071/065	fünaf	1	f ü n a f
+071/067	fünf	1	f ü n f
+071/069	fünef	1	f ü n e f
+071/071	fünf	1	f ü n f
+071/073	fünaf	1	f ü n a f
+071/075	funf	1	f u n f
+071/077	fümf	1	f ü m f
+071/079	fümf	1	f ü m f
+071/081	fünf	1	f ü n f
+071/083	fünf	1	f ü n f
+071/085	fünf	1	f ü n f
+071/087	fünf	1	f ü n f
+071/089	fünf	1	f ü n f
+071/091	fünf	1	f ü n f
+071/093	fünf	1	f ü n f
+071/095	fünf	1	f ü n f
+071/097	fümf	1	f ü m f
+071/099	fünf	1	f ü n f
+071/101	fimf	1	f i m f
+071/103	füf	1	f ü f
+071/105	fünf	1	f ü n f
+071/145	finf	1	f i n f
+071/147	fimf	1	f i m f
+071/149	fömf	1	f ö m f
+071/151	femf	1	f e m f
+071/153	femf	1	f e m f
+071/155	fimf	1	f i m f
+071/157	femf	1	f e m f
+071/159	femf	1	f e m f
+071/161	femf	1	f e m f
+071/163	finf	1	f i n f
+071/177	femf	1	f e m f
+071/179	fünf	1	f ü n f
+072/017	fenef	1	f e n e f
+072/019	fenef	1	f e n e f
+072/021	fenf	1	f e n f
+072/023	fenef	1	f e n e f
+072/025	fenf	1	f e n f
+072/027	fenef	1	f e n e f
+072/029	fenf	1	f e n f
+072/031	fenef	1	f e n e f
+072/033	finnef	1	f i nn e f
+072/035	finf	1	f i n f
+072/037	finf	1	f i n f
+072/039	finnef	1	f i nn e f
+072/041	finef	1	f i n e f
+072/043	finf	1	f i n f
+072/045	finf	1	f i n f
+072/047	finf	1	f i n f
+072/049	finf	1	f i n f
+072/051	finf	1	f i n f
+072/053	finf	1	f i n f
+072/055	finf	1	f i n f
+072/057	finf	1	f i n f
+072/059	finf	1	f i n f
+072/061	fünf	1	f ü n f
+072/063	fünpf	1	f ü n p f
+072/065	fünef	1	f ü n e f
+072/067	fünaf	1	f ü n a f
+072/069	fümf	1	f ü m f
+072/071	fünef	1	f ü n e f
+072/073	fünaf	1	f ü n a f
+072/075	fümf	1	f ü m f
+072/077	fänf	1	f ä n f
+072/079	fünf	1	f ü n f
+072/081	fümf	1	f ü m f
+072/083	fünf	1	f ü n f
+072/085	fümf	1	f ü m f
+072/087	fünf	1	f ü n f
+072/089	fümf	1	f ü m f
+072/091	fümf	1	f ü m f
+072/093	fünf	1	f ü n f
+072/095	fünf	1	f ü n f
+072/097	fünf	1	f ü n f
+072/099	fünf	1	f ü n f
+072/101	fif	1	f i f
+072/103	fünf	1	f ü n f
+072/105	fünf	1	f ü n f
+072/107	füf	1	f ü f
+072/145	fimf	1	f i m f
+072/147	finf	1	f i n f
+072/149	fimf	1	f i m f
+072/151	finf	1	f i n f
+072/153	fimf	1	f i m f
+072/155	finf	1	f i n f
+072/157	fimf	1	f i m f
+072/159	fömf	1	f ö m f
+072/161	femf	1	f e m f
+072/177	fönf	1	f ö n f
+072/179	finf	1	f i n f
+072/181	finf	1	f i n f
+073/017	fenef	1	f e n e f
+073/019	fenef	1	f e n e f
+073/021	fenef	1	f e n e f
+073/023	fenef	1	f e n e f
+073/025	fennef	1	f e nn e f
+073/027	fönf	1	f ö n f
+073/029	fenf	1	f e n f
+073/031	fennef	1	f e nn e f
+073/033	fenef	1	f e n e f
+073/035	finnf	1	f i nn f
+073/037	finf	1	f i n f
+073/039	finnef	1	f i nn e f
+073/041	finnef	1	f i nn e f
+073/043	finf	1	f i n f
+073/045	finef	1	f i n e f
+073/047	finf	1	f i n f
+073/049	finf	1	f i n f
+073/051	finf	1	f i n f
+073/053	finf	1	f i n f
+073/055	finf	1	f i n f
+073/057	finf	1	f i n f
+073/059	finf	1	f i n f
+073/061	fünf	1	f ü n f
+073/063	fünf	1	f ü n f
+073/065	fünf	1	f ü n f
+073/067	fünf	1	f ü n f
+073/069	fünef	1	f ü n e f
+073/071	fünf	1	f ü n f
+073/073	fümf	1	f ü m f
+073/075	fümf	1	f ü m f
+073/077	fimf	1	f i m f
+073/079	fümf	1	f ü m f
+073/081	fänf	1	f ä n f
+073/083	fünf	1	f ü n f
+073/085	finf	1	f i n f
+073/087	fümf	1	f ü m f
+073/089	fimpf	1	f i m p f
+073/091	fünf	1	f ü n f
+073/093	fimf	1	f i m f
+073/095	fümf	1	f ü m f
+073/097	fünf	1	f ü n f
+073/099	fünf	1	f ü n f
+073/101	fimf	1	f i m f
+073/103	füf	1	f ü f
+073/105	fünf	1	f ü n f
+073/107	füf	1	f ü f
+073/145	fünf	1	f ü n f
+073/147	finf	1	f i n f
+073/149	fimf	1	f i m f
+073/151	finf	1	f i n f
+073/153	fünf	1	f ü n f
+073/155	fünf	1	f ü n f
+073/157	femf	1	f e m f
+073/159	fäenf	1	f äe n f
+073/161	fenf	1	f e n f
+073/163	finf	1	f i n f
+073/165	femf	1	f e m f
+073/175	fenf	1	f e n f
+073/177	fimf	1	f i m f
+074/019	fenef	1	f e n e f
+074/021	feneff	1	f e n e ff
+074/023	fenef	1	f e n e f
+074/025	fenef	1	f e n e f
+074/027	finf	1	f i n f
+074/029	fenef	1	f e n e f
+074/031	fenef	1	f e n e f
+074/033	fenf	1	f e n f
+074/035	finef	1	f i n e f
+074/037	finnef	1	f i nn e f
+074/039	finef	1	f i n e f
+074/041	finnef	1	f i nn e f
+074/043	finf	1	f i n f
+074/045	finf	1	f i n f
+074/047	finf	1	f i n f
+074/049	finf	1	f i n f
+074/051	finf	1	f i n f
+074/053	finf	1	f i n f
+074/055	finf	1	f i n f
+074/057	finf	1	f i n f
+074/059	fümf	1	f ü m f
+074/061	fenf	1	f e n f
+074/063	fünf	1	f ü n f
+074/065	fünf	1	f ü n f
+074/067	fünf	1	f ü n f
+074/069	fiepf	1	f ie p f
+074/071	fünf	1	f ü n f
+074/073	fünef	1	f ü n e f
+074/075	fünf	1	f ü n f
+074/077	fünnäf	1	f ü nn ä f
+074/079	fünef	1	f ü n e f
+074/081	fünef	1	f ü n e f
+074/083	fünf	1	f ü n f
+074/085	finf	1	f i n f
+074/087	fümf	1	f ü m f
+074/089	fünf	1	f ü n f
+074/091	fünf	1	f ü n f
+074/093	fimpf	1	f i m p f
+074/095	fünf	1	f ü n f
+074/097	sechs	1	s e ch s
+074/099	fimf	1	f i m f
+074/101	fimf	1	f i m f
+074/103	fünf	1	f ü n f
+074/105	fünf	1	f ü n f
+074/107	finf	1	f i n f
+074/109	fünf	1	f ü n f
+074/145	fünf	1	f ü n f
+074/147	finf	1	f i n f
+074/149	fimf	1	f i m f
+074/153	fimf	1	f i m f
+074/155	fimf	1	f i m f
+074/157	femf	1	f e m f
+074/159	fömf	1	f ö m f
+074/161	fäimpf	1	f äi m p f
+074/163	femf	1	f e m f
+074/165	femf	1	f e m f
+075/019	fenef	1	f e n e f
+075/021	fönef	1	f ö n e f
+075/023	fenef	1	f e n e f
+075/025	fenef	1	f e n e f
+075/027	fäinf	1	f äi n f
+075/029	fenf	1	f e n f
+075/031	fünef	1	f ü n e f
+075/033	fenf	1	f e n f
+075/035	finef	1	f i n e f
+075/037	finnef	1	f i nn e f
+075/039	finf	1	f i n f
+075/041	finf	1	f i n f
+075/043	finf	1	f i n f
+075/045	finf	1	f i n f
+075/047	finf	1	f i n f
+075/049	finf	1	f i n f
+075/051	finf	1	f i n f
+075/053	finf	1	f i n f
+075/055	finf	1	f i n f
+075/057	finf	1	f i n f
+075/059	fünf	1	f ü n f
+075/061	fünf	1	f ü n f
+075/063	fünf	1	f ü n f
+075/065	fünf	1	f ü n f
+075/067	fünf	1	f ü n f
+075/069	fünf	1	f ü n f
+075/071	fünf	1	f ü n f
+075/073	fünef	1	f ü n e f
+075/075	fünef	1	f ü n e f
+075/077	fünef	1	f ü n e f
+075/079	fünf	1	f ü n f
+075/081	fünf	1	f ü n f
+075/083	fünaf	1	f ü n a f
+075/085	finf	1	f i n f
+075/087	fünf	1	f ü n f
+075/089	funf	1	f u n f
+075/091	füf	1	f ü f
+075/093	fünf	1	f ü n f
+075/095	fünf	1	f ü n f
+075/097	femf	1	f e m f
+075/099	fünf	1	f ü n f
+075/101	fünf	1	f ü n f
+075/103	füf	1	f ü f
+075/105	NA	NA	-
+075/107	fünf	1	f ü n f
+075/135	femf	1	f e m f
+075/145	fünf	1	f ü n f
+075/147	fünf	1	f ü n f
+075/149	fimpf	1	f i m p f
+075/155	finf	1	f i n f
+075/157	fimf	1	f i m f
+075/159	finf	1	f i n f
+075/161	femf	1	f e m f
+075/163	femf	1	f e m f
+075/165	fönf	1	f ö n f
+076/019	fenef	1	f e n e f
+076/021	fenef	1	f e n e f
+076/023	fenef	1	f e n e f
+076/025	fenef	1	f e n e f
+076/027	feneff	1	f e n e ff
+076/029	fenf	1	f e n f
+076/033	fenf	1	f e n f
+076/035	finf	1	f i n f
+076/037	fimf	1	f i m f
+076/039	finf	1	f i n f
+076/041	finf	1	f i n f
+076/043	finf	1	f i n f
+076/045	finf	1	f i n f
+076/047	finf	1	f i n f
+076/049	finf	1	f i n f
+076/051	fiinif	1	f ii n i f
+076/053	finf	1	f i n f
+076/055	finf	1	f i n f
+076/057	finf	1	f i n f
+076/059	fünf	1	f ü n f
+076/061	fünf	1	f ü n f
+076/063	fünf	1	f ü n f
+076/065	fünf	1	f ü n f
+076/067	fünf	1	f ü n f
+076/069	fünf	1	f ü n f
+076/071	fünf	1	f ü n f
+076/073	fünnf	1	f ü nn f
+076/075	finnaff	1	f i nn a ff
+076/077	fänf	1	f ä n f
+076/079	finnef	1	f i nn e f
+076/081	fünef	1	f ü n e f
+076/083	fünf	1	f ü n f
+076/085	fünf	1	f ü n f
+076/087	fimpf	1	f i m p f
+076/089	fänf	1	f ä n f
+076/091	fimf	1	f i m f
+076/093	finf	1	f i n f
+076/095	fimf	1	f i m f
+076/097	füf	1	f ü f
+076/099	finf	1	f i n f
+076/101	fünf	1	f ü n f
+076/103	fünf	1	f ü n f
+076/135	fejmf	1	f e j m f
+076/137	fäf	1	f ä f
+076/149	finf	1	f i n f
+076/151	femf	1	f e m f
+076/155	finf	1	f i n f
+076/161	femf	1	f e m f
+076/163	fempf	1	f e m p f
+076/165	femf	1	f e m f
+077/019	fönöf	1	f ö n ö f
+077/021	fenef	1	f e n e f
+077/023	fenef	1	f e n e f
+077/025	fenf	1	f e n f
+077/027	fenf	1	f e n f
+077/029	fenf	1	f e n f
+077/031	fönef	1	f ö n e f
+077/033	finef	1	f i n e f
+077/035	fenf	1	f e n f
+077/037	fenneff	1	f e nn e ff
+077/039	finf	1	f i n f
+077/041	finf	1	f i n f
+077/043	finf	1	f i n f
+077/047	finf	1	f i n f
+077/049	finf	1	f i n f
+077/051	finf	1	f i n f
+077/053	finf	1	f i n f
+077/055	finf	1	f i n f
+077/057	fünef	1	f ü n e f
+077/059	finf	1	f i n f
+077/061	fimf	1	f i m f
+077/063	fünf	1	f ü n f
+077/065	fünf	1	f ü n f
+077/067	finf	1	f i n f
+077/069	finf	1	f i n f
+077/071	finf	1	f i n f
+077/073	fünf	1	f ü n f
+077/075	finf	1	f i n f
+077/077	fünef	1	f ü n e f
+077/079	fünef	1	f ü n e f
+077/081	fünf	1	f ü n f
+077/083	finf	1	f i n f
+077/085	fünf	1	f ü n f
+077/087	fünf	1	f ü n f
+077/089	fünf	1	f ü n f
+077/091	fünf	1	f ü n f
+077/093	fünf	1	f ü n f
+077/095	fümf	1	f ü m f
+077/097	fümf	1	f ü m f
+077/099	finf	1	f i n f
+077/101	fünf	1	f ü n f
+077/103	fif	1	f i f
+077/135	finf	1	f i n f
+077/137	fenf	1	f e n f
+078/021	fenef	1	f e n e f
+078/023	finf	1	f i n f
+078/025	fenef	1	f e n e f
+078/027	fenf	1	f e n f
+078/029	fenef	1	f e n e f
+078/031	finf	1	f i n f
+078/033	fenef	1	f e n e f
+078/035	finf	1	f i n f
+078/037	finf	1	f i n f
+078/039	finf	1	f i n f
+078/041	finef	1	f i n e f
+078/045	finf	1	f i n f
+078/047	finf	1	f i n f
+078/049	finf	1	f i n f
+078/051	finf	1	f i n f
+078/053	fimf	1	f i m f
+078/055	finf	1	f i n f
+078/057	finf	1	f i n f
+078/059	finf	1	f i n f
+078/061	finf	1	f i n f
+078/063	finnpf	1	f i nn p f
+078/065	fünf	1	f ü n f
+078/067	fünf	1	f ü n f
+078/069	fünf	1	f ü n f
+078/071	finf	1	f i n f
+078/073	finnef	1	f i nn e f
+078/075	fünf	1	f ü n f
+078/077	fünf	1	f ü n f
+078/079	fünef	1	f ü n e f
+078/081	fünef	1	f ü n e f
+078/083	finf	1	f i n f
+078/085	fünf	1	f ü n f
+078/087	fünf	1	f ü n f
+078/089	fünf	1	f ü n f
+078/091	fünf	1	f ü n f
+078/093	fünf	1	f ü n f
+078/095	fünf	1	f ü n f
+078/097	fümf	1	f ü m f
+078/099	fünf	1	f ü n f
+078/101	fünf	1	f ü n f
+078/103	fünf	1	f ü n f
+078/105	fünf	1	f ü n f
+078/135	fünf	1	f ü n f
+078/193	fünf	1	f ü n f
+079/021	fönf	1	f ö n f
+079/023	fenef	1	f e n e f
+079/025	fenf	1	f e n f
+079/027	fenf	1	f e n f
+079/029	finf	1	f i n f
+079/031	finef	1	f i n e f
+079/033	finef	1	f i n e f
+079/035	finef	1	f i n e f
+079/037	finf	1	f i n f
+079/039	finf	1	f i n f
+079/043	finf	1	f i n f
+079/045	finf	1	f i n f
+079/047	finf	1	f i n f
+079/049	finf	1	f i n f
+079/051	finf	1	f i n f
+079/053	finf	1	f i n f
+079/055	finf	1	f i n f
+079/057	finf	1	f i n f
+079/059	finf	1	f i n f
+079/061	finf	1	f i n f
+079/063	fimf	1	f i m f
+079/065	finf	1	f i n f
+079/067	finf	1	f i n f
+079/069	finf	1	f i n f
+079/071	finf	1	f i n f
+079/073	fünf	1	f ü n f
+079/075	fünf	1	f ü n f
+079/077	fimf	1	f i m f
+079/079	finaf	1	f i n a f
+079/081	finnäf	1	f i nn ä f
+079/083	fünf	1	f ü n f
+079/085	fümf	1	f ü m f
+079/087	fünf	1	f ü n f
+079/089	fimf	1	f i m f
+079/091	fümf	1	f ü m f
+079/093	fünf	1	f ü n f
+079/095	fünf	1	f ü n f
+079/097	fünf	1	f ü n f
+079/099	fünf	1	f ü n f
+079/101	fimf	1	f i m f
+079/103	fümf	1	f ü m f
+079/105	fimbf	1	f i m b f
+079/107	fünf	1	f ü n f
+079/133	fünf	1	f ü n f
+079/135	fünf	1	f ü n f
+079/193	fönf	1	f ö n f
+079/195	fänf	1	f ä n f
+079/197	fönf	1	f ö n f
+080/025	fennef	1	f e nn e f
+080/027	fenf	1	f e n f
+080/029	finf	1	f i n f
+080/031	finef	1	f i n e f
+080/033	fünf	1	f ü n f
+080/035	finnef	1	f i nn e f
+080/037	funef	1	f u n e f
+080/039	finf	1	f i n f
+080/041	finf	1	f i n f
+080/043	finf	1	f i n f
+080/045	finf	1	f i n f
+080/047	finf	1	f i n f
+080/049	finf	1	f i n f
+080/051	finf	1	f i n f
+080/053	finf	1	f i n f
+080/055	finf	1	f i n f
+080/057	finf	1	f i n f
+080/059	finf	1	f i n f
+080/061	finf	1	f i n f
+080/063	fünf	1	f ü n f
+080/065	finf	1	f i n f
+080/067	finf	1	f i n f
+080/069	finf	1	f i n f
+080/071	fünf	1	f ü n f
+080/073	finf	1	f i n f
+080/075	finef	1	f i n e f
+080/077	fünf	1	f ü n f
+080/079	fünef	1	f ü n e f
+080/081	fünf	1	f ü n f
+080/083	fünf	1	f ü n f
+080/085	fimf	1	f i m f
+080/087	finf	1	f i n f
+080/089	fänf	1	f ä n f
+080/091	finf	1	f i n f
+080/093	fänf	1	f ä n f
+080/095	finf	1	f i n f
+080/097	finf	1	f i n f
+080/099	fümf	1	f ü m f
+080/101	fimf	1	f i m f
+080/103	fümf	1	f ü m f
+080/105	füf	1	f ü f
+080/107	füf	1	f ü f
+080/109	fünf	1	f ü n f
+080/127	finf	1	f i n f
+080/147	fimf	1	f i m f
+080/151	fünf	1	f ü n f
+080/153	fünf	1	f ü n f
+080/193	fänf	1	f ä n f
+080/195	fänf	1	f ä n f
+081/025	fenf	1	f e n f
+081/027	finef	1	f i n e f
+081/029	finef	1	f i n e f
+081/031	finaf	1	f i n a f
+081/033	fenf	1	f e n f
+081/035	finef	1	f i n e f
+081/037	finnef	1	f i nn e f
+081/039	finf	1	f i n f
+081/043	finf	1	f i n f
+081/045	finf	1	f i n f
+081/047	finnf	1	f i nn f
+081/049	finf	1	f i n f
+081/051	finf	1	f i n f
+081/053	finf	1	f i n f
+081/055	fenf	1	f e n f
+081/057	fenf	1	f e n f
+081/059	finf	1	f i n f
+081/061	finf	1	f i n f
+081/063	finf	1	f i n f
+081/065	finf	1	f i n f
+081/067	finf	1	f i n f
+081/069	finf	1	f i n f
+081/071	finf	1	f i n f
+081/073	fünf	1	f ü n f
+081/075	fünf	1	f ü n f
+081/077	finef	1	f i n e f
+081/079	fünaf	1	f ü n a f
+081/081	fünaf	1	f ü n a f
+081/083	fünaf	1	f ü n a f
+081/085	finf	1	f i n f
+081/087	fümf	1	f ü m f
+081/089	fünf	1	f ü n f
+081/091	fümf	1	f ü m f
+081/093	fünf	1	f ü n f
+081/095	fümf	1	f ü m f
+081/097	fünf	1	f ü n f
+081/099	NA	NA	-
+081/101	fünf	1	f ü n f
+081/103	fünf	1	f ü n f
+081/105	fünf	1	f ü n f
+081/107	finf	1	f i n f
+081/109	finf	1	f i n f
+081/111	finf	1	f i n f
+081/127	fümf	1	f ü m f
+081/129	finf	1	f i n f
+081/133	fünf	1	f ü n f
+081/147	fimf	1	f i m f
+081/191	fänf	1	f ä n f
+081/193	fenf	1	f e n f
+081/195	fänf	1	f ä n f
+082/027	feenf	1	f ee n f
+082/029	finf	1	f i n f
+082/031	fenf	1	f e n f
+082/033	fenf	1	f e n f
+082/035	finef	1	f i n e f
+082/037	fenf	1	f e n f
+082/039	finf	1	f i n f
+082/041	finf	1	f i n f
+082/043	finf	1	f i n f
+082/045	finf	1	f i n f
+082/047	finf	1	f i n f
+082/049	fenf	1	f e n f
+082/051	finf	1	f i n f
+082/053	fenf	1	f e n f
+082/055	fenf	1	f e n f
+082/057	fenf	1	f e n f
+082/059	feif	1	f ei f
+082/061	fenf	1	f e n f
+082/063	fenf	1	f e n f
+082/065	fenf	1	f e n f
+082/067	finf	1	f i n f
+082/069	fenf	1	f e n f
+082/071	fennf	1	f e nn f
+082/073	fünf	1	f ü n f
+082/075	fünef	1	f ü n e f
+082/077	finf	1	f i n f
+082/079	fünef	1	f ü n e f
+082/081	fünef	1	f ü n e f
+082/083	fünnef	1	f ü nn e f
+082/085	fimf	1	f i m f
+082/087	fünf	1	f ü n f
+082/089	finf	1	f i n f
+082/091	finf	1	f i n f
+082/093	fünf	1	f ü n f
+082/095	fünf	1	f ü n f
+082/097	fenf	1	f e n f
+082/099	fünf	1	f ü n f
+082/101	fimpf	1	f i m p f
+082/103	fimf	1	f i m f
+082/105	fimf	1	f i m f
+082/107	fünf	1	f ü n f
+082/111	finf	1	f i n f
+082/113	fimf	1	f i m f
+082/117	fünf	1	f ü n f
+082/129	finf	1	f i n f
+082/131	fimf	1	f i m f
+082/133	fimf	1	f i m f
+082/135	finf	1	f i n f
+082/145	fimf	1	f i m f
+082/147	finf	1	f i n f
+082/191	fänf	1	f ä n f
+082/195	fänf	1	f ä n f
+083/027	finf	1	f i n f
+083/029	finf	1	f i n f
+083/031	fenf	1	f e n f
+083/033	fenaff	1	f e n a ff
+083/035	fenf	1	f e n f
+083/037	finf	1	f i n f
+083/039	fenf	1	f e n f
+083/041	finef	1	f i n e f
+083/043	finf	1	f i n f
+083/045	finf	1	f i n f
+083/047	finf	1	f i n f
+083/049	finf	1	f i n f
+083/051	finf	1	f i n f
+083/053	fenf	1	f e n f
+083/055	fenf	1	f e n f
+083/057	feif	1	f ei f
+083/059	falf	1	f a l f
+083/061	faef	1	f ae f
+083/063	faäf	1	f aä f
+083/065	fenf	1	f e n f
+083/067	feef	1	f ee f
+083/069	fenf	1	f e n f
+083/071	fef	1	f e f
+083/073	fenf	1	f e n f
+083/075	fenf	1	f e n f
+083/077	fünf	1	f ü n f
+083/079	fünef	1	f ü n e f
+083/081	fünaf	1	f ü n a f
+083/083	fünf	1	f ü n f
+083/085	fimpf	1	f i m p f
+083/087	finf	1	f i n f
+083/089	fünf	1	f ü n f
+083/091	fünf	1	f ü n f
+083/093	fünf	1	f ü n f
+083/095	fimf	1	f i m f
+083/097	finf	1	f i n f
+083/099	fimf	1	f i m f
+083/101	fünf	1	f ü n f
+083/103	fünf	1	f ü n f
+083/105	fünf	1	f ü n f
+083/107	fünf	1	f ü n f
+083/111	fimf	1	f i m f
+083/113	femf	1	f e m f
+083/115	fümf	1	f ü m f
+083/117	fimf	1	f i m f
+083/119	finf	1	f i n f
+083/121	fünf	1	f ü n f
+083/129	fünf	1	f ü n f
+083/131	fünf	1	f ü n f
+083/133	fimf	1	f i m f
+083/135	finf	1	f i n f
+083/139	fmf	1	f m f
+083/143	finf	1	f i n f
+083/145	fimf	1	f i m f
+083/147	finf	1	f i n f
+083/149	finf	1	f i n f
+083/173	fimf	1	f i m f
+083/195	fenf	1	f e n f
+084/031	femf	1	f e m f
+084/033	finf	1	f i n f
+084/035	fenf	1	f e n f
+084/037	fenef	1	f e n e f
+084/039	fenf	1	f e n f
+084/041	fenef	1	f e n e f
+084/043	fenf	1	f e n f
+084/045	finf	1	f i n f
+084/047	finf	1	f i n f
+084/049	finf	1	f i n f
+084/051	fenf	1	f e n f
+084/053	fenf	1	f e n f
+084/055	fenf	1	f e n f
+084/057	faif	1	f ai f
+084/059	faef	1	f ae f
+084/061	faef	1	f ae f
+084/063	feif	1	f ei f
+084/065	faef	1	f ae f
+084/067	fimf	1	f i m f
+084/069	fenf	1	f e n f
+084/071	fäf	1	f ä f
+084/073	fäf	1	f ä f
+084/075	fef	1	f e f
+084/077	fümpf	1	f ü m p f
+084/079	fünf	1	f ü n f
+084/081	fimf	1	f i m f
+084/083	fümpf	1	f ü m p f
+084/085	fünf	1	f ü n f
+084/087	fünf	1	f ü n f
+084/089	fünf	1	f ü n f
+084/091	fimf	1	f i m f
+084/093	fünf	1	f ü n f
+084/095	fümf	1	f ü m f
+084/097	fimf	1	f i m f
+084/099	fümpf	1	f ü m p f
+084/101	fenf	1	f e n f
+084/103	fimf	1	f i m f
+084/105	fümf	1	f ü m f
+084/107	fünf	1	f ü n f
+084/109	fünf	1	f ü n f
+084/111	fünf	1	f ü n f
+084/113	fimf	1	f i m f
+084/115	fünf	1	f ü n f
+084/117	fimf	1	f i m f
+084/119	fimf	1	f i m f
+084/129	fumf	1	f u m f
+084/131	fimf	1	f i m f
+084/133	finf	1	f i n f
+084/135	fimf	1	f i m f
+084/137	fimpf	1	f i m p f
+084/139	femf	1	f e m f
+084/141	fümf	1	f ü m f
+084/143	finf	1	f i n f
+084/145	fimf	1	f i m f
+084/147	finf	1	f i n f
+084/149	finf	1	f i n f
+084/171	wenf	1	w e n f
+084/173	wemf	1	w e m f
+084/195	fenf	1	f e n f
+085/031	finf	1	f i n f
+085/033	finaf	1	f i n a f
+085/035	fenf	1	f e n f
+085/037	fenf	1	f e n f
+085/039	fänaf	1	f ä n a f
+085/041	feaf	1	f ea f
+085/043	fenf	1	f e n f
+085/045	fenf	1	f e n f
+085/047	finf	1	f i n f
+085/049	finf	1	f i n f
+085/051	fenf	1	f e n f
+085/053	feif	1	f ei f
+085/055	feif	1	f ei f
+085/057	feif	1	f ei f
+085/059	fenf	1	f e n f
+085/061	feif	1	f ei f
+085/063	faef	1	f ae f
+085/065	feif	1	f ei f
+085/067	faef	1	f ae f
+085/069	faif	1	f ai f
+085/071	fef	1	f e f
+085/073	feef	1	f ee f
+085/075	feenf	1	f ee n f
+085/077	fenaf	1	f e n a f
+085/079	fümf	1	f ü m f
+085/081	fenf	1	f e n f
+085/083	fänf	1	f ä n f
+085/085	fünf	1	f ü n f
+085/087	fimf	1	f i m f
+085/089	fünf	1	f ü n f
+085/091	fünf	1	f ü n f
+085/093	fünf	1	f ü n f
+085/095	fünf	1	f ü n f
+085/097	fünf	1	f ü n f
+085/101	finf	1	f i n f
+085/103	finf	1	f i n f
+085/105	fimpf	1	f i m p f
+085/107	fünf	1	f ü n f
+085/109	fimf	1	f i m f
+085/111	finf	1	f i n f
+085/113	funf	1	f u n f
+085/115	fimf	1	f i m f
+085/117	finf	1	f i n f
+085/119	fimf	1	f i m f
+085/121	NA	NA	-
+085/123	fimf	1	f i m f
+085/125	fimf	1	f i m f
+085/127	finf	1	f i n f
+085/129	fünf	1	f ü n f
+085/131	fimf	1	f i m f
+085/133	fünf	1	f ü n f
+085/135	fimf	1	f i m f
+085/137	fünf	1	f ü n f
+085/139	fünf	1	f ü n f
+085/141	finf	1	f i n f
+085/143	fimf	1	f i m f
+085/145	fimf	1	f i m f
+085/147	fiaf	1	f ia f
+085/149	fimf	1	f i m f
+085/175	wemf	1	w e m f
+085/193	fenf	1	f e n f
+085/197	fenf	1	f e n f
+086/033	fenaf	1	f e n a f
+086/035	fenf	1	f e n f
+086/037	fenef	1	f e n e f
+086/039	fenf	1	f e n f
+086/041	fengf	1	f e ng f
+086/043	fenf	1	f e n f
+086/045	finf	1	f i n f
+086/047	finf	1	f i n f
+086/049	funf	1	f u n f
+086/051	faif	1	f ai f
+086/053	feif	1	f ei f
+086/055	feif	1	f ei f
+086/057	feif	1	f ei f
+086/059	feif	1	f ei f
+086/061	faif	1	f ai f
+086/063	feif	1	f ei f
+086/065	faef	1	f ae f
+086/067	faef	1	f ae f
+086/069	feif	1	f ei f
+086/071	faif	1	f ai f
+086/073	füüf	1	f üü f
+086/075	feef	1	f ee f
+086/077	fönf	1	f ö n f
+086/079	fünf	1	f ü n f
+086/081	fünef	1	f ü n e f
+086/083	finf	1	f i n f
+086/085	fünf	1	f ü n f
+086/087	fümf	1	f ü m f
+086/089	fünf	1	f ü n f
+086/091	finf	1	f i n f
+086/093	fünf	1	f ü n f
+086/095	fünf	1	f ü n f
+086/097	fünf	1	f ü n f
+086/099	fünf	1	f ü n f
+086/101	fümf	1	f ü m f
+086/103	fümf	1	f ü m f
+086/105	fümf	1	f ü m f
+086/107	fünpf	1	f ü n p f
+086/109	finss	1	f i n ss
+086/111	fünf	1	f ü n f
+086/113	fünf	1	f ü n f
+086/115	fünf	1	f ü n f
+086/117	fimf	1	f i m f
+086/119	finf	1	f i n f
+086/121	funf	1	f u n f
+086/123	fimf	1	f i m f
+086/125	fümpf	1	f ü m p f
+086/127	fümp	1	f ü m p
+086/129	finf	1	f i n f
+086/131	finf	1	f i n f
+086/133	fünf	1	f ü n f
+086/135	fimf	1	f i m f
+086/137	fimf	1	f i m f
+086/139	fimf	1	f i m f
+086/141	finf	1	f i n f
+086/143	fimf	1	f i m f
+086/145	fimf	1	f i m f
+086/147	fimf	1	f i m f
+086/149	fimf	1	f i m f
+086/151	fimpf	1	f i m p f
+086/175	wemf	1	w e m f
+086/197	fenf	1	f e n f
+086/199	fenf	1	f e n f
+087/033	finf	1	f i n f
+087/035	fenf	1	f e n f
+087/037	fenef	1	f e n e f
+087/039	fenaf	1	f e n a f
+087/041	fünf	1	f ü n f
+087/043	fenf	1	f e n f
+087/045	finf	1	f i n f
+087/049	feif	1	f ei f
+087/051	faef	1	f ae f
+087/053	faef	1	f ae f
+087/055	feif	1	f ei f
+087/057	faef	1	f ae f
+087/059	faif	1	f ai f
+087/061	feif	1	f ei f
+087/063	feif	1	f ei f
+087/065	feif	1	f ei f
+087/067	feif	1	f ei f
+087/069	feuf	1	f eu f
+087/071	faef	1	f ae f
+087/073	femf	1	f e m f
+087/075	fünf	1	f ü n f
+087/077	fünf	1	f ü n f
+087/079	fünf	1	f ü n f
+087/081	fuif	1	f ui f
+087/083	finf	1	f i n f
+087/085	fuunf	1	f uu n f
+087/087	fünf	1	f ü n f
+087/089	fünf	1	f ü n f
+087/091	fäef	1	f äe f
+087/093	fünf	1	f ü n f
+087/095	fümf	1	f ü m f
+087/097	fünf	1	f ü n f
+087/099	fünf	1	f ü n f
+087/101	fünf	1	f ü n f
+087/103	fünf	1	f ü n f
+087/105	fimf	1	f i m f
+087/107	fünf	1	f ü n f
+087/109	fünf	1	f ü n f
+087/111	fünf	1	f ü n f
+087/113	fämf	1	f ä m f
+087/115	finf	1	f i n f
+087/117	fäinf	1	f äi n f
+087/119	finf	1	f i n f
+087/121	fimf	1	f i m f
+087/123	fimf	1	f i m f
+087/125	finf	1	f i n f
+087/127	fünf	1	f ü n f
+087/129	finf	1	f i n f
+087/133	fimf	1	f i m f
+087/135	finf	1	f i n f
+087/137	fümf	1	f ü m f
+087/139	finf	1	f i n f
+087/141	finf	1	f i n f
+087/143	finif	1	f i n i f
+087/145	fimf	1	f i m f
+087/147	fimf	1	f i m f
+087/149	fempf	1	f e m p f
+087/151	fünf	1	f ü n f
+088/035	fenf	1	f e n f
+088/037	fenaf	1	f e n a f
+088/039	fenef	1	f e n e f
+088/041	fenf	1	f e n f
+088/043	finf	1	f i n f
+088/045	finef	1	f i n e f
+088/047	feif	1	f ei f
+088/049	feif	1	f ei f
+088/051	feif	1	f ei f
+088/053	fuef	1	f ue f
+088/055	fanf	1	f a n f
+088/057	feif	1	f ei f
+088/059	feif	1	f ei f
+088/061	feif	1	f ei f
+088/063	feif	1	f ei f
+088/065	feif	1	f ei f
+088/067	faef	1	f ae f
+088/069	feif	1	f ei f
+088/071	feif	1	f ei f
+088/073	fümf	1	f ü m f
+088/075	femf	1	f e m f
+088/077	fempf	1	f e m p f
+088/079	fünpf	1	f ü n p f
+088/081	femf	1	f e m f
+088/083	feenf	1	f ee n f
+088/085	fümf	1	f ü m f
+088/087	fimf	1	f i m f
+088/089	fünf	1	f ü n f
+088/091	fümf	1	f ü m f
+088/093	fünf	1	f ü n f
+088/095	fünf	1	f ü n f
+088/097	fimf	1	f i m f
+088/099	fünf	1	f ü n f
+088/101	finf	1	f i n f
+088/103	NA	NA	-
+088/105	finf	1	f i n f
+088/107	fimf	1	f i m f
+088/109	fümf	1	f ü m f
+088/113	fünf	1	f ü n f
+088/115	fimf	1	f i m f
+088/117	finf	1	f i n f
+088/121	fimf	1	f i m f
+088/123	fünf	1	f ü n f
+088/127	fümf	1	f ü m f
+088/129	fümf	1	f ü m f
+088/131	fimf	1	f i m f
+088/137	fimf	1	f i m f
+088/139	fimf	1	f i m f
+088/141	fimf	1	f i m f
+088/143	finf	1	f i n f
+088/145	fimf	1	f i m f
+088/147	fimf	1	f i m f
+088/149	fimf	1	f i m f
+089/035	feuf	1	f eu f
+089/037	fenf	1	f e n f
+089/039	fenf	1	f e n f
+089/041	fenaf	1	f e n a f
+089/043	fenf	1	f e n f
+089/045	finf	1	f i n f
+089/047	fenf	1	f e n f
+089/049	feif	1	f ei f
+089/051	fanf	1	f a n f
+089/053	fenf	1	f e n f
+089/055	faef	1	f ae f
+089/057	feif	1	f ei f
+089/059	faef	1	f ae f
+089/061	faif	1	f ai f
+089/063	feinf	1	f ei n f
+089/065	feif	1	f ei f
+089/067	faif	1	f ai f
+089/069	feinf	1	f ei n f
+089/071	faif	1	f ai f
+089/073	fünf	1	f ü n f
+089/075	fünf	1	f ü n f
+089/077	fünf	1	f ü n f
+089/079	fenf	1	f e n f
+089/081	fünf	1	f ü n f
+089/083	fimf	1	f i m f
+089/085	fünf	1	f ü n f
+089/087	fünf	1	f ü n f
+089/089	fünf	1	f ü n f
+089/091	fünf	1	f ü n f
+089/093	finaf	1	f i n a f
+089/095	fimf	1	f i m f
+089/097	finf	1	f i n f
+089/099	fünf	1	f ü n f
+089/101	fünf	1	f ü n f
+089/103	fimf	1	f i m f
+089/105	finf	1	f i n f
+089/107	funf	1	f u n f
+089/109	finf	1	f i n f
+089/111	fünf	1	f ü n f
+089/113	fünf	1	f ü n f
+089/115	fümf	1	f ü m f
+089/117	finf	1	f i n f
+089/119	fümf	1	f ü m f
+089/121	fämf	1	f ä m f
+089/123	fümf	1	f ü m f
+089/125	finf	1	f i n f
+089/127	füngf	1	f ü ng f
+089/129	finf	1	f i n f
+089/131	fümgf	1	f ü m g f
+089/133	fümf	1	f ü m f
+089/135	fümf	1	f ü m f
+089/137	fümf	1	f ü m f
+089/139	fimf	1	f i m f
+089/141	finf	1	f i n f
+089/143	fimf	1	f i m f
+089/145	fimf	1	f i m f
+089/147	fimf	1	f i m f
+089/149	fimf	1	f i m f
+090/035	fenf	1	f e n f
+090/037	fenf	1	f e n f
+090/039	fenf	1	f e n f
+090/041	fenf	1	f e n f
+090/043	finf	1	f i n f
+090/045	fiinaf	1	f ii n a f
+090/047	fünf	1	f ü n f
+090/049	feif	1	f ei f
+090/051	faef	1	f ae f
+090/053	faif	1	f ai f
+090/055	faif	1	f ai f
+090/057	faef	1	f ae f
+090/059	feif	1	f ei f
+090/061	feif	1	f ei f
+090/063	feif	1	f ei f
+090/065	feif	1	f ei f
+090/067	feif	1	f ei f
+090/069	faif	1	f ai f
+090/071	feuf	1	f eu f
+090/073	faif	1	f ai f
+090/075	fünf	1	f ü n f
+090/077	fempf	1	f e m p f
+090/079	fenf	1	f e n f
+090/081	finf	1	f i n f
+090/083	fünf	1	f ü n f
+090/085	fnf	1	f n f
+090/087	fenf	1	f e n f
+090/089	fünf	1	f ü n f
+090/091	finf	1	f i n f
+090/093	finf	1	f i n f
+090/095	finf	1	f i n f
+090/097	fünf	1	f ü n f
+090/099	fünf	1	f ü n f
+090/101	fuunf	1	f uu n f
+090/103	fümf	1	f ü m f
+090/105	fünf	1	f ü n f
+090/107	fünf	1	f ü n f
+090/109	fünf	1	f ü n f
+090/111	finf	1	f i n f
+090/113	fünf	1	f ü n f
+090/115	fümf	1	f ü m f
+090/119	fümf	1	f ü m f
+090/121	fünf	1	f ü n f
+090/123	fümf	1	f ü m f
+090/125	fümf	1	f ü m f
+090/127	fümf	1	f ü m f
+090/129	finf	1	f i n f
+090/131	fünf	1	f ü n f
+090/133	zwoa	1	z w oa
+090/135	fimf	1	f i m f
+090/137	fümf	1	f ü m f
+090/139	fümf	1	f ü m f
+090/141	finf	1	f i n f
+090/143	fimf	1	f i m f
+090/145	finf	1	f i n f
+090/147	fimf	1	f i m f
+090/149	fimf	1	f i m f
+090/151	fimf	1	f i m f
+091/035	femf	1	f e m f
+091/037	fenf	1	f e n f
+091/039	fennf	1	f e nn f
+091/041	fenf	1	f e n f
+091/043	finf	1	f i n f
+091/045	finf	1	f i n f
+091/047	finf	1	f i n f
+091/049	finf	1	f i n f
+091/051	feif	1	f ei f
+091/053	feif	1	f ei f
+091/055	veif	1	v ei f
+091/057	feif	1	f ei f
+091/059	faif	1	f ai f
+091/061	feif	1	f ei f
+091/063	faif	1	f ai f
+091/065	feif	1	f ei f
+091/067	feif	1	f ei f
+091/069	faif	1	f ai f
+091/071	faif	1	f ai f
+091/073	femf	1	f e m f
+091/075	femf	1	f e m f
+091/077	fünf	1	f ü n f
+091/079	fünf	1	f ü n f
+091/081	fimf	1	f i m f
+091/083	fümf	1	f ü m f
+091/085	fümf	1	f ü m f
+091/087	fünf	1	f ü n f
+091/091	fünf	1	f ü n f
+091/093	finf	1	f i n f
+091/095	fünf	1	f ü n f
+091/097	finf	1	f i n f
+091/099	fümf	1	f ü m f
+091/101	fimf	1	f i m f
+091/103	fimf	1	f i m f
+091/105	fünf	1	f ü n f
+091/107	fimf	1	f i m f
+091/109	finf	1	f i n f
+091/111	fümf	1	f ü m f
+091/113	fünf	1	f ü n f
+091/115	finf	1	f i n f
+091/117	fimf	1	f i m f
+091/119	fünf	1	f ü n f
+091/121	fünf	1	f ü n f
+091/125	fünf	1	f ü n f
+091/129	fümf	1	f ü m f
+091/131	funf	1	f u n f
+091/133	fünf	1	f ü n f
+091/135	fümf	1	f ü m f
+091/137	fümf	1	f ü m f
+091/139	fünf	1	f ü n f
+091/141	fimf	1	f i m f
+091/143	fimpf	1	f i m p f
+091/145	fimf	1	f i m f
+091/147	fimf	1	f i m f
+091/149	fimf	1	f i m f
+091/151	fimf	1	f i m f
+091/155	fiimf	1	f ii m f
+092/033	feinf	1	f ei n f
+092/035	finf	1	f i n f
+092/037	fempf	1	f e m p f
+092/039	fenf	1	f e n f
+092/041	finf	1	f i n f
+092/043	fünf	1	f ü n f
+092/045	fümf	1	f ü m f
+092/047	finf	1	f i n f
+092/049	finf	1	f i n f
+092/051	fef	1	f e f
+092/053	feäf	1	f eä f
+092/055	feif	1	f ei f
+092/057	feif	1	f ei f
+092/059	faif	1	f ai f
+092/061	feif	1	f ei f
+092/063	feif	1	f ei f
+092/065	faif	1	f ai f
+092/067	feiif	1	f eii f
+092/069	feif	1	f ei f
+092/071	finf	1	f i n f
+092/073	feif	1	f ei f
+092/075	fümf	1	f ü m f
+092/077	fenf	1	f e n f
+092/079	fünf	1	f ü n f
+092/081	fimf	1	f i m f
+092/083	fünf	1	f ü n f
+092/085	fünf	1	f ü n f
+092/087	fünf	1	f ü n f
+092/089	fümf	1	f ü m f
+092/091	fümf	1	f ü m f
+092/093	fünf	1	f ü n f
+092/095	fünf	1	f ü n f
+092/097	fünf	1	f ü n f
+092/099	fünf	1	f ü n f
+092/101	fünf	1	f ü n f
+092/103	fünf	1	f ü n f
+092/105	fimf	1	f i m f
+092/107	fimf	1	f i m f
+092/109	fümf	1	f ü m f
+092/111	finf	1	f i n f
+092/113	fümf	1	f ü m f
+092/115	fimf	1	f i m f
+092/117	fümf	1	f ü m f
+092/119	fünf	1	f ü n f
+092/121	fimf	1	f i m f
+092/123	fünf	1	f ü n f
+092/125	finf	1	f i n f
+092/127	fumf	1	f u m f
+092/129	fümf	1	f ü m f
+092/131	fümf	1	f ü m f
+092/133	fümf	1	f ü m f
+092/135	finf	1	f i n f
+092/137	fimf	1	f i m f
+092/139	fünf	1	f ü n f
+092/141	fimf	1	f i m f
+092/143	fünf	1	f ü n f
+092/145	fümf	1	f ü m f
+092/147	fimf	1	f i m f
+092/149	fümpf	1	f ü m p f
+092/151	finf	1	f i n f
+093/035	fempf	1	f e m p f
+093/037	femf	1	f e m f
+093/039	femf	1	f e m f
+093/041	finf	1	f i n f
+093/043	finf	1	f i n f
+093/045	fümpf	1	f ü m p f
+093/047	finf	1	f i n f
+093/049	fif	1	f i f
+093/051	füüf	1	f üü f
+093/053	fiif	1	f ii f
+093/055	feif	1	f ei f
+093/057	faief	1	f aie f
+093/059	faef	1	f ae f
+093/061	faef	1	f ae f
+093/063	faaef	1	f aae f
+093/065	feaf	1	f ea f
+093/067	femf	1	f e m f
+093/069	faif	1	f ai f
+093/071	faif	1	f ai f
+093/073	faif	1	f ai f
+093/075	feüf	1	f eü f
+093/077	femf	1	f e m f
+093/079	fünf	1	f ü n f
+093/081	fünf	1	f ü n f
+093/083	fünf	1	f ü n f
+093/085	finf	1	f i n f
+093/087	funf	1	f u n f
+093/089	fümf	1	f ü m f
+093/091	funf	1	f u n f
+093/093	fünf	1	f ü n f
+093/095	finf	1	f i n f
+093/097	fünf	1	f ü n f
+093/099	fünf	1	f ü n f
+093/101	fünf	1	f ü n f
+093/103	fünf	1	f ü n f
+093/105	fimf	1	f i m f
+093/109	finf	1	f i n f
+093/111	finf	1	f i n f
+093/113	fümf	1	f ü m f
+093/115	fünf	1	f ü n f
+093/117	fümf	1	f ü m f
+093/119	finf	1	f i n f
+093/121	finf	1	f i n f
+093/123	fünf	1	f ü n f
+093/125	fümf	1	f ü m f
+093/127	finf	1	f i n f
+093/129	fimf	1	f i m f
+093/131	fumpf	1	f u m p f
+093/133	fünf	1	f ü n f
+093/137	finf	1	f i n f
+093/139	fünf	1	f ü n f
+093/143	femf	1	f e m f
+093/145	fimf	1	f i m f
+093/147	fümpf	1	f ü m p f
+093/149	fimf	1	f i m f
+093/151	fimf	1	f i m f
+093/153	fümf	1	f ü m f
+093/155	fünf	1	f ü n f
+094/033	fäif	1	f äi f
+094/035	femf	1	f e m f
+094/037	fenf	1	f e n f
+094/039	fenf	1	f e n f
+094/041	fenf	1	f e n f
+094/043	finf	1	f i n f
+094/045	finf	1	f i n f
+094/047	finf	1	f i n f
+094/049	finf	1	f i n f
+094/051	fif	1	f i f
+094/053	fünf	1	f ü n f
+094/055	feif	1	f ei f
+094/057	feif	1	f ei f
+094/059	femf	1	f e m f
+094/061	fünf	1	f ü n f
+094/063	fünf	1	f ü n f
+094/065	fenf	1	f e n f
+094/067	feif	1	f ei f
+094/069	faif	1	f ai f
+094/071	feif	1	f ei f
+094/073	feif	1	f ei f
+094/075	feif	1	f ei f
+094/077	fauf	1	f au f
+094/079	fünf	1	f ü n f
+094/081	finf	1	f i n f
+094/083	fünf	1	f ü n f
+094/085	fümf	1	f ü m f
+094/087	fümf	1	f ü m f
+094/089	fünf	1	f ü n f
+094/091	fimf	1	f i m f
+094/093	fimf	1	f i m f
+094/095	fünf	1	f ü n f
+094/097	fünf	1	f ü n f
+094/099	fimf	1	f i m f
+094/101	fimf	1	f i m f
+094/103	fimf	1	f i m f
+094/105	fimf	1	f i m f
+094/107	fünf	1	f ü n f
+094/109	fümf	1	f ü m f
+094/111	finf	1	f i n f
+094/113	fünf	1	f ü n f
+094/115	fünf	1	f ü n f
+094/117	fünf	1	f ü n f
+094/119	fünf	1	f ü n f
+094/121	fimf	1	f i m f
+094/123	fimf	1	f i m f
+094/125	fümf	1	f ü m f
+094/127	fünf	1	f ü n f
+094/129	funf	1	f u n f
+094/131	fümf	1	f ü m f
+094/133	fümf	1	f ü m f
+094/135	fünf	1	f ü n f
+094/137	fünf	1	f ü n f
+094/139	fimf	1	f i m f
+094/141	fimf	1	f i m f
+094/143	finf	1	f i n f
+094/145	fimpf	1	f i m p f
+094/147	finf	1	f i n f
+094/149	fimpf	1	f i m p f
+094/151	fimf	1	f i m f
+094/153	finf	1	f i n f
+095/031	feinf	1	f ei n f
+095/033	fenf	1	f e n f
+095/035	femf	1	f e m f
+095/037	fempf	1	f e m p f
+095/039	femf	1	f e m f
+095/041	fimf	1	f i m f
+095/043	fünf	1	f ü n f
+095/045	fünf	1	f ü n f
+095/047	finf	1	f i n f
+095/049	fiif	1	f ii f
+095/051	fif	1	f i f
+095/053	finf	1	f i n f
+095/055	feif	1	f ei f
+095/057	finf	1	f i n f
+095/059	fimf	1	f i m f
+095/061	feif	1	f ei f
+095/063	faif	1	f ai f
+095/065	feif	1	f ei f
+095/067	feif	1	f ei f
+095/069	faaif	1	f aai f
+095/071	feif	1	f ei f
+095/073	feif	1	f ei f
+095/075	femf	1	f e m f
+095/077	faif	1	f ai f
+095/079	finf	1	f i n f
+095/081	fünf	1	f ü n f
+095/083	fünf	1	f ü n f
+095/085	fümpf	1	f ü m p f
+095/087	funif	1	f u n i f
+095/089	fimpf	1	f i m p f
+095/091	fimf	1	f i m f
+095/093	fünf	1	f ü n f
+095/095	finf	1	f i n f
+095/097	fünf	1	f ü n f
+095/099	finf	1	f i n f
+095/101	fünf	1	f ü n f
+095/103	fimf	1	f i m f
+095/105	finnf	1	f i nn f
+095/107	fümf	1	f ü m f
+095/109	fümf	1	f ü m f
+095/111	fimf	1	f i m f
+095/113	fimf	1	f i m f
+095/115	fimf	1	f i m f
+095/117	fünf	1	f ü n f
+095/119	finf	1	f i n f
+095/121	zwölfi	1	z w ö l f i
+095/123	fünf	1	f ü n f
+095/125	fümbf	1	f ü m b f
+095/129	fimf	1	f i m f
+095/131	fümpf	1	f ü m p f
+095/133	fümf	1	f ü m f
+095/139	finf	1	f i n f
+095/141	fimf	1	f i m f
+095/143	fimf	1	f i m f
+095/145	fimf	1	f i m f
+095/147	fimf	1	f i m f
+095/149	finf	1	f i n f
+095/151	fimpf	1	f i m p f
+095/153	fünf	1	f ü n f
+095/155	ihri	1	ih r i
+096/031	fimf	1	f i m f
+096/033	fempf	1	f e m p f
+096/035	femf	1	f e m f
+096/037	femf	1	f e m f
+096/039	femf	1	f e m f
+096/041	fünf	1	f ü n f
+096/043	fümpf	1	f ü m p f
+096/045	fiif	1	f ii f
+096/047	fif	1	f i f
+096/049	fif	1	f i f
+096/051	fef	1	f e f
+096/053	fimf	1	f i m f
+096/055	fimf	1	f i m f
+096/057	fünf	1	f ü n f
+096/059	finf	1	f i n f
+096/061	fünf	1	f ü n f
+096/063	füf	1	f ü f
+096/065	fümf	1	f ü m f
+096/067	fuef	1	f ue f
+096/069	feif	1	f ei f
+096/071	feif	1	f ei f
+096/075	faif	1	f ai f
+096/077	fünf	1	f ü n f
+096/079	finf	1	f i n f
+096/081	fümf	1	f ü m f
+096/083	fimf	1	f i m f
+096/085	fümf	1	f ü m f
+096/087	fünf	1	f ü n f
+096/089	fümf	1	f ü m f
+096/091	fimf	1	f i m f
+096/093	fünf	1	f ü n f
+096/095	fümf	1	f ü m f
+096/097	fünf	1	f ü n f
+096/099	fimpf	1	f i m p f
+096/101	fünf	1	f ü n f
+096/103	fünf	1	f ü n f
+096/105	fünf	1	f ü n f
+096/107	fünf	1	f ü n f
+096/109	fünf	1	f ü n f
+096/111	finf	1	f i n f
+096/113	fimf	1	f i m f
+096/115	fimf	1	f i m f
+096/117	fünf	1	f ü n f
+096/119	funf	1	f u n f
+096/121	fünf	1	f ü n f
+096/123	fümf	1	f ü m f
+096/125	fimf	1	f i m f
+096/129	fümf	1	f ü m f
+096/131	fünf	1	f ü n f
+096/135	fimf	1	f i m f
+096/137	fenf	1	f e n f
+096/139	finf	1	f i n f
+096/141	fünf	1	f ü n f
+096/143	fünf	1	f ü n f
+096/145	fimf	1	f i m f
+096/147	fimf	1	f i m f
+096/151	fupf	1	f u p f
+096/153	finf	1	f i n f
+096/155	fümf	1	f ü m f
+097/031	feinf	1	f ei n f
+097/033	fimf	1	f i m f
+097/035	fenf	1	f e n f
+097/037	feimf	1	f ei m f
+097/039	feif	1	f ei f
+097/041	fümf	1	f ü m f
+097/043	fümpf	1	f ü m p f
+097/045	feif	1	f ei f
+097/047	füf	1	f ü f
+097/049	fiif	1	f ii f
+097/051	fünf	1	f ü n f
+097/053	fünf	1	f ü n f
+097/055	finf	1	f i n f
+097/057	fimmf	1	f i mm f
+097/059	finf	1	f i n f
+097/061	finf	1	f i n f
+097/063	fomf	1	f o m f
+097/065	fümf	1	f ü m f
+097/067	füanf	1	f üa n f
+097/069	feif	1	f ei f
+097/071	feif	1	f ei f
+097/073	feuf	1	f eu f
+097/075	feif	1	f ei f
+097/077	fenf	1	f e n f
+097/079	finf	1	f i n f
+097/081	fünf	1	f ü n f
+097/083	fimf	1	f i m f
+097/085	funf	1	f u n f
+097/087	fümf	1	f ü m f
+097/089	fünf	1	f ü n f
+097/091	fünf	1	f ü n f
+097/093	fünf	1	f ü n f
+097/095	fünf	1	f ü n f
+097/097	fünf	1	f ü n f
+097/099	fünf	1	f ü n f
+097/103	fünf	1	f ü n f
+097/105	fumf	1	f u m f
+097/107	fünf	1	f ü n f
+097/109	funf	1	f u n f
+097/113	fimf	1	f i m f
+097/125	funf	1	f u n f
+097/131	finf	1	f i n f
+097/133	fünf	1	f ü n f
+097/139	fimpf	1	f i m p f
+097/141	fümf	1	f ü m f
+097/143	fünf	1	f ü n f
+097/145	fünf	1	f ü n f
+097/149	finf	1	f i n f
+097/153	finf	1	f i n f
+098/033	femf	1	f e m f
+098/035	femf	1	f e m f
+098/037	femf	1	f e m f
+098/039	femf	1	f e m f
+098/041	fünf	1	f ü n f
+098/043	fümf	1	f ü m f
+098/045	fümpf	1	f ü m p f
+098/047	füüf	1	f üü f
+098/049	fäf	1	f ä f
+098/051	feif	1	f ei f
+098/053	füf	1	f ü f
+098/055	fimf	1	f i m f
+098/057	finf	1	f i n f
+098/059	fimf	1	f i m f
+098/061	finf	1	f i n f
+098/063	finf	1	f i n f
+098/065	fünf	1	f ü n f
+098/067	fimf	1	f i m f
+098/069	fünf	1	f ü n f
+098/071	fimf	1	f i m f
+098/073	faif	1	f ai f
+098/075	fcif	1	f c i f
+098/077	fcif	1	f c i f
+098/079	fünf	1	f ü n f
+098/081	finf	1	f i n f
+098/083	finf	1	f i n f
+098/085	fünf	1	f ü n f
+098/087	finf	1	f i n f
+098/089	fünf	1	f ü n f
+098/091	fümf	1	f ü m f
+098/093	finf	1	f i n f
+098/095	fümf	1	f ü m f
+098/097	fünf	1	f ü n f
+098/103	fünf	1	f ü n f
+098/105	fimf	1	f i m f
+098/107	fünf	1	f ü n f
+098/109	finf	1	f i n f
+098/111	funf	1	f u n f
+098/119	fimf	1	f i m f
+098/123	fimf	1	f i m f
+098/125	fimpf	1	f i m p f
+098/127	fimpf	1	f i m p f
+098/135	fimf	1	f i m f
+098/137	finf	1	f i n f
+098/139	finf	1	f i n f
+098/141	fimf	1	f i m f
+098/143	finf	1	f i n f
+098/145	finf	1	f i n f
+098/147	finf	1	f i n f
+098/149	finf	1	f i n f
+098/151	fif	1	f i f
+099/033	fimf	1	f i m f
+099/035	femf	1	f e m f
+099/037	feyf	1	f ey f
+099/039	fenf	1	f e n f
+099/041	fünf	1	f ü n f
+099/043	fenf	1	f e n f
+099/045	fümpf	1	f ü m p f
+099/047	feuf	1	f eu f
+099/049	füf	1	f ü f
+099/051	füüf	1	f üü f
+099/053	füf	1	f ü f
+099/055	füüf	1	f üü f
+099/057	füüf	1	f üü f
+099/059	fünf	1	f ü n f
+099/063	fünf	1	f ü n f
+099/065	füf	1	f ü f
+099/067	fif	1	f i f
+099/069	fünf	1	f ü n f
+099/071	fünf	1	f ü n f
+099/073	fünf	1	f ü n f
+099/075	faif	1	f ai f
+099/077	feif	1	f ei f
+099/081	fümf	1	f ü m f
+099/083	fünf	1	f ü n f
+099/085	fünf	1	f ü n f
+099/089	fünf	1	f ü n f
+099/093	fimf	1	f i m f
+099/095	fimf	1	f i m f
+099/099	fünf	1	f ü n f
+099/101	fümf	1	f ü m f
+099/103	zwölaf	1	z w ö l a f
+099/105	fümf	1	f ü m f
+099/107	finf	1	f i n f
+099/109	finf	1	f i n f
+099/111	fimf	1	f i m f
+099/113	fimpf	1	f i m p f
+099/121	fimf	1	f i m f
+099/123	fümpf	1	f ü m p f
+099/125	fümpf	1	f ü m p f
+099/131	finf	1	f i n f
+099/137	fimf	1	f i m f
+099/139	fimf	1	f i m f
+099/141	fünf	1	f ü n f
+099/143	finf	1	f i n f
+099/145	fümf	1	f ü m f
+099/147	fimpf	1	f i m p f
+100/033	fimf	1	f i m f
+100/035	femff	1	f e m ff
+100/037	feif	1	f ei f
+100/039	fimf	1	f i m f
+100/041	fümpf	1	f ü m p f
+100/043	föif	1	f öi f
+100/045	fenf	1	f e n f
+100/049	fenf	1	f e n f
+100/051	füf	1	f ü f
+100/053	feuf	1	f eu f
+100/055	füf	1	f ü f
+100/057	füf	1	f ü f
+100/059	füf	1	f ü f
+100/061	füf	1	f ü f
+100/065	fimf	1	f i m f
+100/067	fif	1	f i f
+100/069	fümf	1	f ü m f
+100/071	fimpf	1	f i m p f
+100/073	fünf	1	f ü n f
+100/075	fimf	1	f i m f
+100/077	fimf	1	f i m f
+100/081	finf	1	f i n f
+100/083	fünf	1	f ü n f
+100/089	finf	1	f i n f
+100/093	fimf	1	f i m f
+100/095	fimpf	1	f i m p f
+100/097	fimf	1	f i m f
+100/099	fünf	1	f ü n f
+100/101	fünf	1	f ü n f
+100/109	fümf	1	f ü m f
+100/111	fümf	1	f ü m f
+100/113	finf	1	f i n f
+100/115	fünf	1	f ü n f
+100/117	fümf	1	f ü m f
+100/119	fünf	1	f ü n f
+100/121	fümf	1	f ü m f
+100/125	fümf	1	f ü m f
+100/127	fünf	1	f ü n f
+100/129	fimpf	1	f i m p f
+100/133	finf	1	f i n f
+100/135	finf	1	f i n f
+100/141	fünf	1	f ü n f
+100/143	finf	1	f i n f
+100/145	finf	1	f i n f
+101/035	feif	1	f ei f
+101/037	feif	1	f ei f
+101/039	feif	1	f ei f
+101/041	feuf	1	f eu f
+101/043	föif	1	f öi f
+101/045	föif	1	f öi f
+101/047	föif	1	f öi f
+101/049	föif	1	f öi f
+101/051	füef	1	f üe f
+101/053	föif	1	f öi f
+101/055	füf	1	f ü f
+101/057	füf	1	f ü f
+101/059	fuf	1	f u f
+101/061	föf	1	f ö f
+101/063	fümf	1	f ü m f
+101/065	füf	1	f ü f
+101/067	fümf	1	f ü m f
+101/071	fünf	1	f ü n f
+101/075	fümf	1	f ü m f
+101/077	fümf	1	f ü m f
+101/079	fümf	1	f ü m f
+101/081	fünf	1	f ü n f
+101/091	fümf	1	f ü m f
+101/093	fimf	1	f i m f
+101/095	fimf	1	f i m f
+101/097	finf	1	f i n f
+101/099	finf	1	f i n f
+101/101	fumf	1	f u m f
+101/103	fimf	1	f i m f
+101/107	fünf	1	f ü n f
+101/109	fimf	1	f i m f
+101/113	fimf	1	f i m f
+101/115	fimpf	1	f i m p f
+101/121	fimf	1	f i m f
+101/125	fimpf	1	f i m p f
+101/129	fimpf	1	f i m p f
+101/131	fünf	1	f ü n f
+101/133	fimf	1	f i m f
+101/137	fimf	1	f i m f
+101/139	fümpf	1	f ü m p f
+101/141	fimpf	1	f i m p f
+101/143	fimf	1	f i m f
+101/145	fümf	1	f ü m f
+101/147	finf	1	f i n f
+102/037	föif	1	f öi f
+102/039	föif	1	f öi f
+102/041	feuf	1	f eu f
+102/043	föif	1	f öi f
+102/045	fümf	1	f ü m f
+102/047	föif	1	f öi f
+102/049	föif	1	f öi f
+102/051	föif	1	f öi f
+102/053	föif	1	f öi f
+102/055	feuf	1	f eu f
+102/057	füf	1	f ü f
+102/059	föf	1	f ö f
+102/061	föf	1	f ö f
+102/063	foof	1	f oo f
+102/065	füf	1	f ü f
+102/067	fümf	1	f ü m f
+102/069	füf	1	f ü f
+102/071	fümpf	1	f ü m p f
+102/073	fimf	1	f i m f
+102/075	fimf	1	f i m f
+102/077	fümf	1	f ü m f
+102/079	finf	1	f i n f
+102/081	fimf	1	f i m f
+102/083	fümf	1	f ü m f
+102/089	fümf	1	f ü m f
+102/091	funf	1	f u n f
+102/093	fimf	1	f i m f
+102/095	fümf	1	f ü m f
+102/097	funf	1	f u n f
+102/099	fümf	1	f ü m f
+102/103	finf	1	f i n f
+102/107	fümf	1	f ü m f
+102/109	fünf	1	f ü n f
+102/113	fimpf	1	f i m p f
+102/115	fünf	1	f ü n f
+102/127	fümpf	1	f ü m p f
+102/129	fimf	1	f i m f
+102/131	fünf	1	f ü n f
+102/135	finf	1	f i n f
+102/137	finf	1	f i n f
+102/139	fempf	1	f e m p f
+102/141	feif	1	f ei f
+102/143	finf	1	f i n f
+102/145	finf	1	f i n f
+103/039	fuf	1	f u f
+103/041	föif	1	f öi f
+103/043	föif	1	f öi f
+103/045	föif	1	f öi f
+103/047	föif	1	f öi f
+103/049	feuf	1	f eu f
+103/051	feuf	1	f eu f
+103/053	feuf	1	f eu f
+103/055	feuf	1	f eu f
+103/057	füf	1	f ü f
+103/059	füf	1	f ü f
+103/063	föf	1	f ö f
+103/065	füf	1	f ü f
+103/067	fünf	1	f ü n f
+103/069	fünf	1	f ü n f
+103/071	füf	1	f ü f
+103/073	fümf	1	f ü m f
+103/075	fimbf	1	f i m b f
+103/077	finf	1	f i n f
+103/079	fimf	1	f i m f
+103/081	fünf	1	f ü n f
+103/083	finf	1	f i n f
+103/085	fimf	1	f i m f
+103/087	fimf	1	f i m f
+103/089	finf	1	f i n f
+103/091	fünf	1	f ü n f
+103/097	fimf	1	f i m f
+103/099	fimf	1	f i m f
+103/101	fimgf	1	f i m g f
+103/105	fimf	1	f i m f
+103/107	fimpf	1	f i m p f
+103/111	fimf	1	f i m f
+103/121	fümpf	1	f ü m p f
+103/125	fimf	1	f i m f
+103/127	fimf	1	f i m f
+103/131	fimf	1	f i m f
+103/133	finf	1	f i n f
+103/135	fünf	1	f ü n f
+103/137	finf	1	f i n f
+103/139	fimpf	1	f i m p f
+103/141	fümf	1	f ü m f
+103/143	finf	1	f i n f
+103/145	fünf	1	f ü n f
+104/033	fuf	1	f u f
+104/035	füf	1	f ü f
+104/037	föif	1	f öi f
+104/039	fümf	1	f ü m f
+104/041	föif	1	f öi f
+104/043	föif	1	f öi f
+104/045	föif	1	f öi f
+104/047	fööif	1	f ööi f
+104/049	föif	1	f öi f
+104/051	füf	1	f ü f
+104/053	füüf	1	f üü f
+104/055	füf	1	f ü f
+104/057	föf	1	f ö f
+104/059	föf	1	f ö f
+104/061	föf	1	f ö f
+104/063	füf	1	f ü f
+104/065	füf	1	f ü f
+104/067	füf	1	f ü f
+104/071	fümpf	1	f ü m p f
+104/075	finf	1	f i n f
+104/077	finf	1	f i n f
+104/079	fünf	1	f ü n f
+104/081	fünf	1	f ü n f
+104/083	finf	1	f i n f
+104/085	fünf	1	f ü n f
+104/091	fimf	1	f i m f
+104/095	finf	1	f i n f
+104/101	fumf	1	f u m f
+104/103	fümf	1	f ü m f
+104/107	finf	1	f i n f
+104/111	fimf	1	f i m f
+104/113	fümf	1	f ü m f
+104/119	fimf	1	f i m f
+104/121	fimf	1	f i m f
+104/123	fumpf	1	f u m p f
+104/125	fümbf	1	f ü m b f
+104/127	fünf	1	f ü n f
+104/131	finf	1	f i n f
+104/133	fumf	1	f u m f
+104/135	fimf	1	f i m f
+104/137	fünf	1	f ü n f
+104/139	fünf	1	f ü n f
+104/141	fünf	1	f ü n f
+104/143	finf	1	f i n f
+104/145	finf	1	f i n f
+105/031	föif	1	f öi f
+105/033	füf	1	f ü f
+105/035	fuf	1	f u f
+105/037	föif	1	f öi f
+105/039	föif	1	f öi f
+105/041	föif	1	f öi f
+105/043	föif	1	f öi f
+105/045	föif	1	f öi f
+105/047	föif	1	f öi f
+105/049	föif	1	f öi f
+105/051	füf	1	f ü f
+105/053	füf	1	f ü f
+105/055	füüf	1	f üü f
+105/057	füüf	1	f üü f
+105/059	fuf	1	f u f
+105/061	füf	1	f ü f
+105/063	füf	1	f ü f
+105/065	fuf	1	f u f
+105/067	füf	1	f ü f
+105/069	füf	1	f ü f
+105/071	fümf	1	f ü m f
+105/073	fimf	1	f i m f
+105/075	fimf	1	f i m f
+105/077	fünf	1	f ü n f
+105/079	fümf	1	f ü m f
+105/081	finf	1	f i n f
+105/085	fümpf	1	f ü m p f
+105/087	fünf	1	f ü n f
+105/089	fünf	1	f ü n f
+105/103	fümf	1	f ü m f
+105/105	fimf	1	f i m f
+105/111	finf	1	f i n f
+105/113	fimpf	1	f i m p f
+105/115	fünf	1	f ü n f
+105/117	fünf	1	f ü n f
+105/119	fümf	1	f ü m f
+105/121	fuunf	1	f uu n f
+105/125	finf	1	f i n f
+105/127	fünf	1	f ü n f
+105/131	finf	1	f i n f
+105/133	fümpf	1	f ü m p f
+105/135	funf	1	f u n f
+105/137	fimf	1	f i m f
+105/141	fünf	1	f ü n f
+105/143	finf	1	f i n f
+105/145	finf	1	f i n f
+106/033	föif	1	f öi f
+106/035	föif	1	f öi f
+106/037	föif	1	f öi f
+106/039	föif	1	f öi f
+106/041	füif	1	f üi f
+106/043	föif	1	f öi f
+106/045	füf	1	f ü f
+106/047	füf	1	f ü f
+106/049	föif	1	f öi f
+106/051	füüf	1	f üü f
+106/053	füüf	1	f üü f
+106/057	füf	1	f ü f
+106/061	füf	1	f ü f
+106/063	füf	1	f ü f
+106/067	füf	1	f ü f
+106/071	fünf	1	f ü n f
+106/073	finf	1	f i n f
+106/075	finf	1	f i n f
+106/077	finf	1	f i n f
+106/079	fünf	1	f ü n f
+106/081	finf	1	f i n f
+106/085	fimf	1	f i m f
+106/087	fimf	1	f i m f
+106/093	finf	1	f i n f
+106/097	fünf	1	f ü n f
+106/099	wiea	1	w iea
+106/103	fünf	1	f ü n f
+106/111	fümf	1	f ü m f
+106/115	fimf	1	f i m f
+106/121	fümf	1	f ü m f
+106/123	fimf	1	f i m f
+106/125	fünf	1	f ü n f
+106/129	fumbf	1	f u m b f
+106/131	finf	1	f i n f
+106/133	fümigf	1	f ü m i g f
+106/135	fimpf	1	f i m p f
+106/137	fünf	1	f ü n f
+106/139	fümf	1	f ü m f
+106/141	fünf	1	f ü n f
+106/143	finf	1	f i n f
+106/145	finf	1	f i n f
+107/033	föif	1	f öi f
+107/035	föif	1	f öi f
+107/037	füf	1	f ü f
+107/039	foif	1	f oi f
+107/041	föif	1	f öi f
+107/043	föif	1	f öi f
+107/045	füöf	1	f üö f
+107/047	fijf	1	f i j f
+107/049	fiif	1	f ii f
+107/051	füf	1	f ü f
+107/053	füf	1	f ü f
+107/057	füf	1	f ü f
+107/059	füf	1	f ü f
+107/063	füf	1	f ü f
+107/065	füf	1	f ü f
+107/071	fümf	1	f ü m f
+107/075	fünf	1	f ü n f
+107/081	fünf	1	f ü n f
+107/085	finf	1	f i n f
+107/087	finf	1	f i n f
+107/089	finf	1	f i n f
+107/091	finf	1	f i n f
+107/097	fünf	1	f ü n f
+107/099	finf	1	f i n f
+107/103	fünf	1	f ü n f
+107/105	finf	1	f i n f
+107/107	fünf	1	f ü n f
+107/111	fünf	1	f ü n f
+107/119	fünf	1	f ü n f
+107/121	fümf	1	f ü m f
+107/123	fünf	1	f ü n f
+107/125	fünf	1	f ü n f
+107/127	fünf	1	f ü n f
+107/129	fimf	1	f i m f
+107/131	fimf	1	f i m f
+107/133	finf	1	f i n f
+107/135	fünf	1	f ü n f
+107/137	fimgf	1	f i m g f
+107/139	funf	1	f u n f
+107/141	fimf	1	f i m f
+107/143	finf	1	f i n f
+108/033	föif	1	f öi f
+108/035	föif	1	f öi f
+108/037	feuf	1	f eu f
+108/039	föif	1	f öi f
+108/041	föif	1	f öi f
+108/043	föif	1	f öi f
+108/047	füf	1	f ü f
+108/049	füf	1	f ü f
+108/063	füüf	1	f üü f
+108/065	füf	1	f ü f
+108/067	füf	1	f ü f
+108/075	fimf	1	f i m f
+108/079	fungf	1	f u ng f
+108/081	fimf	1	f i m f
+108/085	finf	1	f i n f
+108/087	finf	1	f i n f
+108/091	finf	1	f i n f
+108/099	fimf	1	f i m f
+108/101	fünf	1	f ü n f
+108/103	zwälf	1	z w ä l f
+108/105	fünf	1	f ü n f
+108/109	finf	1	f i n f
+108/111	funf	1	f u n f
+108/113	fimf	1	f i m f
+108/117	funf	1	f u n f
+108/119	finf	1	f i n f
+108/121	funf	1	f u n f
+108/123	fünf	1	f ü n f
+108/125	fimf	1	f i m f
+108/127	fünf	1	f ü n f
+108/129	fünf	1	f ü n f
+108/131	finf	1	f i n f
+108/133	fümf	1	f ü m f
+108/135	fimf	1	f i m f
+108/137	fimf	1	f i m f
+108/139	fimpf	1	f i m p f
+108/141	fünf	1	f ü n f
+109/035	füf	1	f ü f
+109/037	füf	1	f ü f
+109/039	föif	1	f öi f
+109/041	föif	1	f öi f
+109/043	föif	1	f öi f
+109/045	fiif	1	f ii f
+109/049	fuif	1	f ui f
+109/053	fif	1	f i f
+109/061	fimf	1	f i m f
+109/063	fuf	1	f u f
+109/065	füf	1	f ü f
+109/067	füf	1	f ü f
+109/075	fimpf	1	f i m p f
+109/083	fünf	1	f ü n f
+109/087	finf	1	f i n f
+109/089	finf	1	f i n f
+109/091	fimf	1	f i m f
+109/093	fonf	1	f o n f
+109/095	finf	1	f i n f
+109/097	finf	1	f i n f
+109/099	finf	1	f i n f
+109/101	finf	1	f i n f
+109/103	fünf	1	f ü n f
+109/107	fünf	1	f ü n f
+109/109	fünf	1	f ü n f
+109/111	fünf	1	f ü n f
+109/113	fünf	1	f ü n f
+109/115	finf	1	f i n f
+109/117	finf	1	f i n f
+109/119	finf	1	f i n f
+109/121	finf	1	f i n f
+109/123	finf	1	f i n f
+109/125	fünf	1	f ü n f
+109/127	fünf	1	f ü n f
+109/129	fümf	1	f ü m f
+109/131	fümf	1	f ü m f
+109/133	fimpf	1	f i m p f
+109/135	fimf	1	f i m f
+109/137	fimf	1	f i m f
+109/139	fimgf	1	f i m g f
+110/035	füf	1	f ü f
+110/039	füf	1	f ü f
+110/041	fuf	1	f u f
+110/043	fif	1	f i f
+110/045	fif	1	f i f
+110/047	füf	1	f ü f
+110/049	fiif	1	f ii f
+110/057	fif	1	f i f
+110/061	füf	1	f ü f
+110/065	fif	1	f i f
+110/075	fimf	1	f i m f
+110/079	fünf	1	f ü n f
+110/081	fünf	1	f ü n f
+110/083	fünf	1	f ü n f
+110/087	fimpf	1	f i m p f
+110/089	finf	1	f i n f
+110/091	fünf	1	f ü n f
+110/093	fümf	1	f ü m f
+110/095	füa	1	f üa
+110/097	fünf	1	f ü n f
+110/099	wier	1	w ie r
+110/101	finf	1	f i n f
+110/105	fümf	1	f ü m f
+110/107	fünf	1	f ü n f
+110/111	finf	1	f i n f
+110/113	fimf	1	f i m f
+110/115	finf	1	f i n f
+110/117	finf	1	f i n f
+110/119	fimf	1	f i m f
+110/121	fünf	1	f ü n f
+110/125	fünf	1	f ü n f
+110/127	fünf	1	f ü n f
+110/129	fünf	1	f ü n f
+110/131	fimpf	1	f i m p f
+110/133	fämf	1	f ä m f
+110/135	finf	1	f i n f
+110/137	fünf	1	f ü n f
+110/139	fimmpf	1	f i mm p f
+111/035	föf	1	f ö f
+111/037	fuf	1	f u f
+111/039	füüf	1	f üü f
+111/041	fuuf	1	f uu f
+111/043	fief	1	f ie f
+111/045	füf	1	f ü f
+111/059	füf	1	f ü f
+111/073	fimpf	1	f i m p f
+111/075	fimpf	1	f i m p f
+111/077	finf	1	f i n f
+111/079	fimbf	1	f i m b f
+111/081	fünf	1	f ü n f
+111/083	finf	1	f i n f
+111/087	finf	1	f i n f
+111/089	finf	1	f i n f
+111/105	finf	1	f i n f
+111/107	finf	1	f i n f
+111/109	funf	1	f u n f
+111/111	finf	1	f i n f
+111/113	fünf	1	f ü n f
+111/115	finf	1	f i n f
+111/117	fünf	1	f ü n f
+111/119	finf	1	f i n f
+111/121	fünf	1	f ü n f
+111/123	finf	1	f i n f
+111/125	fünf	1	f ü n f
+112/037	füf	1	f ü f
+112/039	föf	1	f ö f
+112/041	föf	1	f ö f
+112/043	fiif	1	f ii f
+112/047	füf	1	f ü f
+112/059	füüf	1	f üü f
+112/061	füf	1	f ü f
+112/063	füf	1	f ü f
+112/075	fimlef	1	f i m l e f
+112/081	finf	1	f i n f
+112/083	fimpf	1	f i m p f
+112/085	fünpf	1	f ü n p f
+112/111	finf	1	f i n f
+112/115	fünf	1	f ü n f
+112/117	finf	1	f i n f
+112/119	fünf	1	f ü n f
+113/035	füf	1	f ü f
+113/037	füf	1	f ü f
+113/039	föf	1	f ö f
+113/047	füf	1	f ü f
+113/079	fünf	1	f ü n f
+113/081	fünf	1	f ü n f
+113/083	finf	1	f i n f
+113/085	finf	1	f i n f
+113/087	finf	1	f i n f
+113/121	fünf	1	f ü n f
+113/123	fünf	1	f ü n f
+114/035	füf	1	f ü f
+114/045	füf	1	f ü f
+114/083	finf	1	f i n f
+114/085	fimf	1	f i m f
+115/041	füf	1	f ü f
+115/043	füf	1	f ü f
+115/045	füf	1	f ü f
+115/083	finf	1	f i n f
+115/085	finf	1	f i n f
+116/043	füf	1	f ü f
+116/045	zwelf	1	z w e l f
+116/083	fünf	1	f ü n f
+117/043	füf	1	f ü f
+117/045	fuif	1	f ui f
+118/041	füf	1	f ü f
+119/083	fünf	1	f ü n f
+120/085	vüf	1	v ü f
+121/127	wemf	1	w e m f
+122/127	wenf	1	w e n f
+122/129	winf	1	w i n f
+123/081	finf	1	f i n f
+123/123	wunf	1	w u n f
+123/125	wenf	1	w e n f
+123/127	femf	1	f e m f
+123/129	wimf	1	w i m f
+124/125	wennf	1	w e nn f
+124/127	wenf	1	w e n f
+124/129	wenf	1	w e n f

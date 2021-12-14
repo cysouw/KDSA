@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	pep	1	p e p
+002/201	päp	1	p ä p
+002/203	pep	1	p e p
+002/205	pep	1	p e p
+003/203	pep	1	p e p
+003/205	päp	1	p ä p
+004/205	päp	1	p ä p
+005/205	päp	1	p ä p
+005/207	pep	1	p e p
+006/205	pähp	1	p äh p
+006/207	pep	1	p e p
+007/205	päp	1	p ä p
+007/207	päp	1	p ä p
+007/209	päp	1	p ä p
+007/211	päp	1	p ä p
+008/199	päp	1	p ä p
+008/203	päp	1	p ä p
+008/205	päpp	1	p ä pp
+008/207	pep	1	p e p
+008/209	pep	1	p e p
+008/211	päp	1	p ä p
+008/213	päp	1	p ä p
+009/199	päp	1	p ä p
+009/203	päp	1	p ä p
+009/207	päp	1	p ä p
+009/209	päp	1	p ä p
+009/211	päp	1	p ä p
+009/213	päp	1	p ä p
+009/215	päp	1	p ä p
+009/217	pep	1	p e p
+010/195	pep	1	p e p
+010/203	päp	1	p ä p
+010/207	päp	1	p ä p
+010/209	päp	1	p ä p
+010/211	päp	1	p ä p
+010/213	päp	1	p ä p
+010/215	pep	1	p e p
+010/217	pep	1	p e p
+010/219	päp	1	p ä p
+011/049	peb	1	p e b
+011/053	pew	1	p e w
+011/055	pew	1	p e w
+011/057	peff	1	p e ff
+011/059	piff	1	p i ff
+011/061	piff	1	p i ff
+011/063	peff	1	p e ff
+011/065	peff	1	p e ff
+011/067	peff	1	p e ff
+011/069	peff	1	p e ff
+011/187	pepp	1	p e pp
+011/189	päp	1	p ä p
+011/191	pääp	1	p ää p
+011/195	pep	1	p e p
+011/197	peep	1	p ee p
+011/203	päp	1	p ä p
+011/205	päp	1	p ä p
+011/207	päp	1	p ä p
+011/209	pääp	1	p ää p
+011/211	pep	1	p e p
+011/213	peep	1	p ee p
+011/215	päp	1	p ä p
+011/217	päp	1	p ä p
+011/219	päp	1	p ä p
+012/047	peep	1	p ee p
+012/049	peep	1	p ee p
+012/051	pepp	1	p e pp
+012/053	peff	1	p e ff
+012/055	peff	1	p e ff
+012/057	pevv	1	p e vv
+012/059	peff	1	p e ff
+012/061	peff	1	p e ff
+012/063	peff	1	p e ff
+012/065	peff	1	p e ff
+012/067	peff	1	p e ff
+012/069	peff	1	p e ff
+012/187	päp	1	p ä p
+012/189	päp	1	p ä p
+012/191	päp	1	p ä p
+012/193	pap	1	p a p
+012/195	päp	1	p ä p
+012/197	päp	1	p ä p
+012/199	päp	1	p ä p
+012/201	päp	1	p ä p
+012/203	päp	1	p ä p
+012/205	peep	1	p ee p
+012/207	pähp	1	p äh p
+012/209	päp	1	p ä p
+012/211	päp	1	p ä p
+012/213	päp	1	p ä p
+012/215	päp	1	p ä p
+012/217	päp	1	p ä p
+012/219	pep	1	p e p
+012/221	päp	1	p ä p
+012/223	päp	1	p ä p
+013/051	pöb	1	p ö b
+013/053	paaw	1	p aa w
+013/055	paaw	1	p aa w
+013/057	piff	1	p i ff
+013/059	peff	1	p e ff
+013/061	päb	1	p ä b
+013/063	päb	1	p ä b
+013/065	päb	1	p ä b
+013/067	päb	1	p ä b
+013/161	pep	1	p e p
+013/163	pep	1	p e p
+013/165	pep	1	p e p
+013/167	päp	1	p ä p
+013/187	päp	1	p ä p
+013/189	peep	1	p ee p
+013/191	pep	1	p e p
+013/193	päp	1	p ä p
+013/195	päp	1	p ä p
+013/197	päp	1	p ä p
+013/199	päp	1	p ä p
+013/201	pep	1	p e p
+013/203	pep	1	p e p
+013/207	paep	1	p ae p
+013/209	päp	1	p ä p
+013/211	päp	1	p ä p
+013/213	päp	1	p ä p
+013/215	päp	1	p ä p
+013/217	päp	1	p ä p
+013/219	päp	1	p ä p
+013/221	pep	1	p e p
+013/223	päp	1	p ä p
+014/047	pöbb	1	p ö bb
+014/049	pöbb	1	p ö bb
+014/051	pebb	1	p e bb
+014/053	perw	1	p e r w
+014/055	päw	1	p ä w
+014/057	päw	1	p ä w
+014/059	päp	1	p ä p
+014/061	päb	1	p ä b
+014/063	päp	1	p ä p
+014/065	päp	1	p ä p
+014/067	pähp	1	p äh p
+014/109	päp	1	p ä p
+014/159	päp	1	p ä p
+014/161	päp	1	p ä p
+014/163	päp	1	p ä p
+014/165	pep	1	p e p
+014/167	pep	1	p e p
+014/169	päp	1	p ä p
+014/187	päp	1	p ä p
+014/189	pehp	1	p eh p
+014/191	pep	1	p e p
+014/193	päp	1	p ä p
+014/195	peep	1	p ee p
+014/197	pep	1	p e p
+014/199	päp	1	p ä p
+014/201	päp	1	p ä p
+014/203	päp	1	p ä p
+014/205	pep	1	p e p
+014/207	päp	1	p ä p
+014/209	päp	1	p ä p
+014/211	pep	1	p e p
+014/213	pep	1	p e p
+014/215	päp	1	p ä p
+014/217	päp	1	p ä p
+014/219	päp	1	p ä p
+014/221	päp	1	p ä p
+015/049	pöbb	1	p ö bb
+015/051	pevv	1	p e vv
+015/053	pevv	1	p e vv
+015/055	pew	1	p e w
+015/057	päb	1	p ä b
+015/059	pepp	1	p e pp
+015/061	päp	1	p ä p
+015/063	päb	1	p ä b
+015/065	pep	1	p e p
+015/067	päp	1	p ä p
+015/105	päp	1	p ä p
+015/107	päp	1	p ä p
+015/109	päp	1	p ä p
+015/151	päp	1	p ä p
+015/153	päp	1	p ä p
+015/155	päp	1	p ä p
+015/157	pep	1	p e p
+015/159	päp	1	p ä p
+015/161	pep	1	p e p
+015/163	päp	1	p ä p
+015/165	päp	1	p ä p
+015/167	pep	1	p e p
+015/169	pepp	1	p e pp
+015/173	päp	1	p ä p
+015/187	päp	1	p ä p
+015/191	pep	1	p e p
+015/193	päp	1	p ä p
+015/195	päp	1	p ä p
+015/197	päp	1	p ä p
+015/199	paep	1	p ae p
+015/201	päp	1	p ä p
+015/203	pep	1	p e p
+015/205	päp	1	p ä p
+015/207	päp	1	p ä p
+015/209	päp	1	p ä p
+015/211	päp	1	p ä p
+015/213	päp	1	p ä p
+015/215	päp	1	p ä p
+015/217	pep	1	p e p
+015/219	päp	1	p ä p
+015/221	pep	1	p e p
+016/051	peww	1	p e ww
+016/055	pebb	1	p e bb
+016/057	päb	1	p ä b
+016/059	päb	1	p ä b
+016/061	peeb	1	p ee b
+016/063	peb	1	p e b
+016/065	päp	1	p ä p
+016/067	päb	1	p ä b
+016/081	pääbb	1	p ää bb
+016/083	päp	1	p ä p
+016/105	päp	1	p ä p
+016/107	päp	1	p ä p
+016/109	paep	1	p ae p
+016/111	peepp	1	p ee pp
+016/145	päp	1	p ä p
+016/147	päp	1	p ä p
+016/149	päp	1	p ä p
+016/151	päp	1	p ä p
+016/153	päp	1	p ä p
+016/155	päp	1	p ä p
+016/157	pep	1	p e p
+016/159	päp	1	p ä p
+016/161	päp	1	p ä p
+016/163	päp	1	p ä p
+016/165	pep	1	p e p
+016/167	päpp	1	p ä pp
+016/187	pep	1	p e p
+016/189	päp	1	p ä p
+016/191	päp	1	p ä p
+016/193	peap	1	p ea p
+016/195	päp	1	p ä p
+016/197	päp	1	p ä p
+016/199	päp	1	p ä p
+016/201	päp	1	p ä p
+016/203	päp	1	p ä p
+016/205	päp	1	p ä p
+016/209	päf	1	p ä f
+016/211	päp	1	p ä p
+016/213	päp	1	p ä p
+016/215	pepp	1	p e pp
+016/217	päp	1	p ä p
+016/219	päp	1	p ä p
+017/055	peep	1	p ee p
+017/057	päp	1	p ä p
+017/059	päb	1	p ä b
+017/061	päp	1	p ä p
+017/063	päp	1	p ä p
+017/065	peb	1	p e b
+017/067	pep	1	p e p
+017/069	päp	1	p ä p
+017/081	pep	1	p e p
+017/083	päp	1	p ä p
+017/099	päp	1	p ä p
+017/101	päp	1	p ä p
+017/103	päp	1	p ä p
+017/107	päp	1	p ä p
+017/109	päp	1	p ä p
+017/145	päp	1	p ä p
+017/147	päp	1	p ä p
+017/149	päp	1	p ä p
+017/151	päp	1	p ä p
+017/153	päp	1	p ä p
+017/155	päp	1	p ä p
+017/157	päp	1	p ä p
+017/159	pep	1	p e p
+017/161	päp	1	p ä p
+017/163	päp	1	p ä p
+017/165	päp	1	p ä p
+017/169	pep	1	p e p
+017/171	pep	1	p e p
+017/183	pep	1	p e p
+017/185	päp	1	p ä p
+017/187	päp	1	p ä p
+017/189	päp	1	p ä p
+017/191	pep	1	p e p
+017/193	päp	1	p ä p
+017/195	päp	1	p ä p
+017/197	päp	1	p ä p
+017/199	päp	1	p ä p
+017/201	päp	1	p ä p
+017/203	päp	1	p ä p
+017/205	päp	1	p ä p
+017/207	pep	1	p e p
+017/209	pep	1	p e p
+017/211	päp	1	p ä p
+017/213	päp	1	p ä p
+017/215	pep	1	p e p
+017/217	päp	1	p ä p
+017/219	päp	1	p ä p
+018/051	päp	1	p ä p
+018/053	päp	1	p ä p
+018/055	päp	1	p ä p
+018/057	peep	1	p ee p
+018/059	päp	1	p ä p
+018/061	päb	1	p ä b
+018/063	pep	1	p e p
+018/065	päb	1	p ä b
+018/067	päp	1	p ä p
+018/069	peb	1	p e b
+018/071	peb	1	p e b
+018/073	peep	1	p ee p
+018/075	päp	1	p ä p
+018/079	peb	1	p e b
+018/081	pep	1	p e p
+018/097	päp	1	p ä p
+018/099	päp	1	p ä p
+018/103	päp	1	p ä p
+018/105	päp	1	p ä p
+018/107	päp	1	p ä p
+018/109	päp	1	p ä p
+018/111	päp	1	p ä p
+018/143	päp	1	p ä p
+018/145	pep	1	p e p
+018/147	päp	1	p ä p
+018/149	päp	1	p ä p
+018/151	päp	1	p ä p
+018/153	päp	1	p ä p
+018/155	päb	1	p ä b
+018/157	päp	1	p ä p
+018/159	pep	1	p e p
+018/161	päp	1	p ä p
+018/163	päp	1	p ä p
+018/165	pep	1	p e p
+018/169	pep	1	p e p
+018/171	päp	1	p ä p
+018/173	päp	1	p ä p
+018/181	päp	1	p ä p
+018/185	päp	1	p ä p
+018/187	päp	1	p ä p
+018/189	peep	1	p ee p
+018/191	päp	1	p ä p
+018/193	pep	1	p e p
+018/195	pep	1	p e p
+018/197	päp	1	p ä p
+018/199	päp	1	p ä p
+018/201	päp	1	p ä p
+018/203	pep	1	p e p
+018/205	pep	1	p e p
+018/207	pep	1	p e p
+018/209	päp	1	p ä p
+018/211	päp	1	p ä p
+018/213	paep	1	p ae p
+018/215	päp	1	p ä p
+018/219	päp	1	p ä p
+019/051	päp	1	p ä p
+019/053	päb	1	p ä b
+019/055	pep	1	p e p
+019/057	peb	1	p e b
+019/059	päp	1	p ä p
+019/061	päb	1	p ä b
+019/063	pep	1	p e p
+019/065	pep	1	p e p
+019/067	pep	1	p e p
+019/069	pep	1	p e p
+019/071	pähp	1	p äh p
+019/073	pep	1	p e p
+019/075	päb	1	p ä b
+019/077	peb	1	p e b
+019/079	päp	1	p ä p
+019/081	päp	1	p ä p
+019/097	päp	1	p ä p
+019/099	päb	1	p ä b
+019/101	pep	1	p e p
+019/103	päp	1	p ä p
+019/105	päp	1	p ä p
+019/107	päp	1	p ä p
+019/109	päp	1	p ä p
+019/143	päp	1	p ä p
+019/145	päb	1	p ä b
+019/147	päp	1	p ä p
+019/149	päp	1	p ä p
+019/151	päp	1	p ä p
+019/153	päp	1	p ä p
+019/155	pep	1	p e p
+019/157	pep	1	p e p
+019/159	peep	1	p ee p
+019/161	pep	1	p e p
+019/163	pep	1	p e p
+019/165	pehp	1	p eh p
+019/167	päp	1	p ä p
+019/169	päp	1	p ä p
+019/171	pep	1	p e p
+019/173	peep	1	p ee p
+019/175	pep	1	p e p
+019/177	päp	1	p ä p
+019/179	päp	1	p ä p
+019/181	päp	1	p ä p
+019/183	päp	1	p ä p
+019/185	päp	1	p ä p
+019/187	päp	1	p ä p
+019/189	pep	1	p e p
+019/191	päp	1	p ä p
+019/193	pep	1	p e p
+019/195	päp	1	p ä p
+019/197	päp	1	p ä p
+019/199	pep	1	p e p
+019/201	päp	1	p ä p
+019/203	pep	1	p e p
+019/205	päp	1	p ä p
+019/207	päp	1	p ä p
+019/209	päp	1	p ä p
+019/211	päp	1	p ä p
+019/213	päp	1	p ä p
+019/215	pep	1	p e p
+019/217	päp	1	p ä p
+019/219	päp	1	p ä p
+020/043	pöpp	1	p ö pp
+020/053	pep	1	p e p
+020/055	pep	1	p e p
+020/057	päb	1	p ä b
+020/059	päb	1	p ä b
+020/061	päb	1	p ä b
+020/063	pep	1	p e p
+020/065	pep	1	p e p
+020/067	pep	1	p e p
+020/069	päb	1	p ä b
+020/071	pep	1	p e p
+020/073	päp	1	p ä p
+020/075	pep	1	p e p
+020/077	peb	1	p e b
+020/079	pep	1	p e p
+020/081	päp	1	p ä p
+020/095	päb	1	p ä b
+020/097	päp	1	p ä p
+020/099	päp	1	p ä p
+020/101	päp	1	p ä p
+020/103	päp	1	p ä p
+020/105	päp	1	p ä p
+020/107	päp	1	p ä p
+020/135	päpp	1	p ä pp
+020/137	päp	1	p ä p
+020/139	päp	1	p ä p
+020/141	päp	1	p ä p
+020/143	päp	1	p ä p
+020/145	pep	1	p e p
+020/147	päp	1	p ä p
+020/149	päp	1	p ä p
+020/151	päp	1	p ä p
+020/153	päp	1	p ä p
+020/155	päp	1	p ä p
+020/157	päp	1	p ä p
+020/159	pep	1	p e p
+020/161	pep	1	p e p
+020/163	pep	1	p e p
+020/165	pep	1	p e p
+020/167	pep	1	p e p
+020/169	pep	1	p e p
+020/171	päp	1	p ä p
+020/173	päp	1	p ä p
+020/175	päp	1	p ä p
+020/177	päp	1	p ä p
+020/179	pep	1	p e p
+020/181	päp	1	p ä p
+020/183	päp	1	p ä p
+020/185	pep	1	p e p
+020/187	pfeff	1	p f e ff
+020/189	pep	1	p e p
+020/191	peep	1	p ee p
+020/193	päp	1	p ä p
+020/195	päp	1	p ä p
+020/197	päp	1	p ä p
+020/199	päp	1	p ä p
+020/201	päp	1	p ä p
+020/203	päp	1	p ä p
+020/205	päp	1	p ä p
+020/207	päp	1	p ä p
+020/209	päp	1	p ä p
+020/211	päp	1	p ä p
+020/213	päp	1	p ä p
+020/215	päp	1	p ä p
+020/217	päp	1	p ä p
+020/219	päp	1	p ä p
+021/055	pep	1	p e p
+021/057	päp	1	p ä p
+021/059	päp	1	p ä p
+021/061	päp	1	p ä p
+021/063	päp	1	p ä p
+021/065	pep	1	p e p
+021/067	pep	1	p e p
+021/069	päp	1	p ä p
+021/071	pep	1	p e p
+021/073	päp	1	p ä p
+021/075	päpp	1	p ä pp
+021/077	päp	1	p ä p
+021/079	päp	1	p ä p
+021/087	päp	1	p ä p
+021/089	päp	1	p ä p
+021/091	päp	1	p ä p
+021/093	pääp	1	p ää p
+021/095	päp	1	p ä p
+021/097	päp	1	p ä p
+021/099	päp	1	p ä p
+021/101	päp	1	p ä p
+021/103	päp	1	p ä p
+021/105	päp	1	p ä p
+021/107	päp	1	p ä p
+021/109	päb	1	p ä b
+021/111	päbb	1	p ä bb
+021/113	päp	1	p ä p
+021/131	päp	1	p ä p
+021/133	päp	1	p ä p
+021/135	päp	1	p ä p
+021/137	päp	1	p ä p
+021/139	pääp	1	p ää p
+021/141	päp	1	p ä p
+021/143	päp	1	p ä p
+021/145	päp	1	p ä p
+021/147	päp	1	p ä p
+021/149	päp	1	p ä p
+021/151	päp	1	p ä p
+021/153	päpp	1	p ä pp
+021/155	päp	1	p ä p
+021/157	päp	1	p ä p
+021/159	pep	1	p e p
+021/163	päp	1	p ä p
+021/165	pep	1	p e p
+021/167	pep	1	p e p
+021/169	pepp	1	p e pp
+021/171	pep	1	p e p
+021/173	pep	1	p e p
+021/175	pep	1	p e p
+021/177	päp	1	p ä p
+021/179	päp	1	p ä p
+021/181	päp	1	p ä p
+021/183	päp	1	p ä p
+021/185	pfeff	1	p f e ff
+021/187	feff	1	f e ff
+021/189	pfeeff	1	p f ee ff
+021/191	feff	1	f e ff
+021/193	pfeff	1	p f e ff
+021/195	pfeff	1	p f e ff
+021/197	pfeff	1	p f e ff
+021/199	päp	1	p ä p
+021/201	peip	1	p ei p
+021/203	pep	1	p e p
+021/205	pehp	1	p eh p
+021/207	pep	1	p e p
+021/211	pep	1	p e p
+021/215	päp	1	p ä p
+021/217	päp	1	p ä p
+021/219	päp	1	p ä p
+022/055	päp	1	p ä p
+022/057	päp	1	p ä p
+022/059	poep	1	p oe p
+022/061	päp	1	p ä p
+022/063	peb	1	p e b
+022/065	peb	1	p e b
+022/067	päp	1	p ä p
+022/069	peep	1	p ee p
+022/071	päb	1	p ä b
+022/073	päp	1	p ä p
+022/075	päp	1	p ä p
+022/077	päp	1	p ä p
+022/087	päp	1	p ä p
+022/089	päp	1	p ä p
+022/091	päp	1	p ä p
+022/093	päp	1	p ä p
+022/095	päp	1	p ä p
+022/097	päb	1	p ä b
+022/099	päp	1	p ä p
+022/101	pääp	1	p ää p
+022/103	päp	1	p ä p
+022/105	päp	1	p ä p
+022/107	päp	1	p ä p
+022/109	päp	1	p ä p
+022/111	päp	1	p ä p
+022/113	päp	1	p ä p
+022/115	päp	1	p ä p
+022/127	päp	1	p ä p
+022/129	päp	1	p ä p
+022/131	pep	1	p e p
+022/133	päp	1	p ä p
+022/135	päp	1	p ä p
+022/137	päp	1	p ä p
+022/139	päp	1	p ä p
+022/141	päp	1	p ä p
+022/143	päp	1	p ä p
+022/145	päp	1	p ä p
+022/147	päp	1	p ä p
+022/149	päp	1	p ä p
+022/151	päp	1	p ä p
+022/153	päp	1	p ä p
+022/155	päp	1	p ä p
+022/157	päp	1	p ä p
+022/159	pähp	1	p äh p
+022/165	pep	1	p e p
+022/167	pehp	1	p eh p
+022/169	pep	1	p e p
+022/171	peep	1	p ee p
+022/173	pep	1	p e p
+022/175	peep	1	p ee p
+022/177	pep	1	p e p
+022/179	päp	1	p ä p
+022/181	pep	1	p e p
+022/183	feff	1	f e ff
+022/185	faff	1	f a ff
+022/187	feff	1	f e ff
+022/189	pfeff	1	p f e ff
+022/191	pfeff	1	p f e ff
+022/193	pfeff	1	p f e ff
+022/195	pfeff	1	p f e ff
+022/197	feff	1	f e ff
+022/199	feff	1	f e ff
+022/201	päp	1	p ä p
+022/203	pep	1	p e p
+022/205	pep	1	p e p
+022/209	päp	1	p ä p
+022/211	päp	1	p ä p
+022/215	päp	1	p ä p
+022/217	päp	1	p ä p
+022/219	päp	1	p ä p
+023/055	pep	1	p e p
+023/059	päp	1	p ä p
+023/061	päp	1	p ä p
+023/063	päp	1	p ä p
+023/065	päp	1	p ä p
+023/067	päb	1	p ä b
+023/069	päp	1	p ä p
+023/071	päp	1	p ä p
+023/073	pep	1	p e p
+023/075	päp	1	p ä p
+023/077	päpb	1	p ä p b
+023/079	päp	1	p ä p
+023/081	päp	1	p ä p
+023/083	päp	1	p ä p
+023/085	päp	1	p ä p
+023/087	päb	1	p ä b
+023/089	päp	1	p ä p
+023/091	päp	1	p ä p
+023/093	päp	1	p ä p
+023/095	pep	1	p e p
+023/097	päpb	1	p ä p b
+023/099	päp	1	p ä p
+023/101	päp	1	p ä p
+023/103	päb	1	p ä b
+023/105	päp	1	p ä p
+023/107	päp	1	p ä p
+023/109	päp	1	p ä p
+023/111	päp	1	p ä p
+023/113	päbb	1	p ä bb
+023/115	päp	1	p ä p
+023/117	päp	1	p ä p
+023/121	päp	1	p ä p
+023/123	pap	1	p a p
+023/125	päp	1	p ä p
+023/127	päp	1	p ä p
+023/129	peip	1	p ei p
+023/131	päp	1	p ä p
+023/133	päp	1	p ä p
+023/135	päp	1	p ä p
+023/137	päp	1	p ä p
+023/139	päp	1	p ä p
+023/141	päp	1	p ä p
+023/143	päp	1	p ä p
+023/145	päp	1	p ä p
+023/147	päp	1	p ä p
+023/149	pepp	1	p e pp
+023/151	päp	1	p ä p
+023/153	pep	1	p e p
+023/155	pep	1	p e p
+023/165	pep	1	p e p
+023/167	pep	1	p e p
+023/169	pep	1	p e p
+023/175	pep	1	p e p
+023/177	feff	1	f e ff
+023/179	feff	1	f e ff
+023/181	pfeff	1	p f e ff
+023/183	feff	1	f e ff
+023/185	pfeff	1	p f e ff
+023/187	pfeff	1	p f e ff
+023/189	pfeff	1	p f e ff
+023/191	pfeff	1	p f e ff
+023/193	pfeff	1	p f e ff
+023/195	pff	1	p ff
+023/197	pfeff	1	p f e ff
+023/199	pehp	1	p eh p
+023/201	päp	1	p ä p
+023/203	pep	1	p e p
+023/205	päp	1	p ä p
+023/207	päp	1	p ä p
+023/215	pep	1	p e p
+023/217	pep	1	p e p
+024/053	päp	1	p ä p
+024/057	paep	1	p ae p
+024/059	pep	1	p e p
+024/061	päb	1	p ä b
+024/063	pep	1	p e p
+024/065	päp	1	p ä p
+024/067	päp	1	p ä p
+024/069	päb	1	p ä b
+024/071	pep	1	p e p
+024/073	päb	1	p ä b
+024/075	päp	1	p ä p
+024/077	peb	1	p e b
+024/079	pep	1	p e p
+024/081	päp	1	p ä p
+024/083	päp	1	p ä p
+024/085	päb	1	p ä b
+024/087	päp	1	p ä p
+024/089	päp	1	p ä p
+024/091	päp	1	p ä p
+024/093	päp	1	p ä p
+024/095	päp	1	p ä p
+024/097	päb	1	p ä b
+024/099	pääp	1	p ää p
+024/101	päp	1	p ä p
+024/103	päp	1	p ä p
+024/105	päb	1	p ä b
+024/107	päp	1	p ä p
+024/109	päp	1	p ä p
+024/111	päpb	1	p ä p b
+024/113	päp	1	p ä p
+024/115	päp	1	p ä p
+024/117	päp	1	p ä p
+024/119	päp	1	p ä p
+024/121	pep	1	p e p
+024/123	päp	1	p ä p
+024/125	päp	1	p ä p
+024/127	päp	1	p ä p
+024/129	päp	1	p ä p
+024/131	päp	1	p ä p
+024/133	päp	1	p ä p
+024/135	päp	1	p ä p
+024/137	päp	1	p ä p
+024/139	päp	1	p ä p
+024/141	päp	1	p ä p
+024/143	päp	1	p ä p
+024/145	päp	1	p ä p
+024/147	päp	1	p ä p
+024/149	päp	1	p ä p
+024/151	päp	1	p ä p
+024/153	päp	1	p ä p
+024/155	päp	1	p ä p
+024/163	pääp	1	p ää p
+024/165	päp	1	p ä p
+024/167	pep	1	p e p
+024/169	pähp	1	p äh p
+024/171	pep	1	p e p
+024/175	pep	1	p e p
+024/179	feff	1	f e ff
+024/181	pfeff	1	p f e ff
+024/183	pfeff	1	p f e ff
+024/185	feff	1	f e ff
+024/187	pfeff	1	p f e ff
+024/189	feff	1	f e ff
+024/191	feff	1	f e ff
+024/193	pfeff	1	p f e ff
+024/195	feff	1	f e ff
+024/197	feff	1	f e ff
+024/199	pfeff	1	p f e ff
+024/201	peep	1	p ee p
+024/203	pep	1	p e p
+024/217	päp	1	p ä p
+024/221	pähp	1	p äh p
+025/043	päp	1	p ä p
+025/051	päp	1	p ä p
+025/053	päp	1	p ä p
+025/055	päp	1	p ä p
+025/057	pep	1	p e p
+025/059	päp	1	p ä p
+025/061	peep	1	p ee p
+025/063	päp	1	p ä p
+025/065	päp	1	p ä p
+025/067	pep	1	p e p
+025/069	pep	1	p e p
+025/071	päp	1	p ä p
+025/073	päp	1	p ä p
+025/075	päp	1	p ä p
+025/077	päp	1	p ä p
+025/079	pep	1	p e p
+025/081	päp	1	p ä p
+025/083	päp	1	p ä p
+025/085	pep	1	p e p
+025/087	päp	1	p ä p
+025/089	päp	1	p ä p
+025/091	päp	1	p ä p
+025/093	pääp	1	p ää p
+025/095	päp	1	p ä p
+025/099	päp	1	p ä p
+025/101	päp	1	p ä p
+025/103	päp	1	p ä p
+025/105	päp	1	p ä p
+025/107	päp	1	p ä p
+025/109	päp	1	p ä p
+025/111	päp	1	p ä p
+025/113	päp	1	p ä p
+025/115	päp	1	p ä p
+025/123	päp	1	p ä p
+025/125	päp	1	p ä p
+025/127	päp	1	p ä p
+025/129	päp	1	p ä p
+025/131	päp	1	p ä p
+025/133	pep	1	p e p
+025/135	pep	1	p e p
+025/137	päp	1	p ä p
+025/139	päp	1	p ä p
+025/141	päp	1	p ä p
+025/143	päp	1	p ä p
+025/145	päp	1	p ä p
+025/147	pep	1	p e p
+025/149	päp	1	p ä p
+025/151	päp	1	p ä p
+025/153	päp	1	p ä p
+025/155	päp	1	p ä p
+025/157	pöp	1	p ö p
+025/159	pep	1	p e p
+025/177	feff	1	f e ff
+025/179	pfeff	1	p f e ff
+025/181	feff	1	f e ff
+025/183	pfeff	1	p f e ff
+025/185	pfeff	1	p f e ff
+025/187	pfeff	1	p f e ff
+025/189	pfef	1	p f e f
+025/191	feff	1	f e ff
+026/031	päp	1	p ä p
+026/033	päp	1	p ä p
+026/037	pöp	1	p ö p
+026/041	päp	1	p ä p
+026/043	päp	1	p ä p
+026/045	päp	1	p ä p
+026/051	päp	1	p ä p
+026/053	päp	1	p ä p
+026/055	päp	1	p ä p
+026/057	pep	1	p e p
+026/059	pep	1	p e p
+026/061	päp	1	p ä p
+026/063	päp	1	p ä p
+026/065	pep	1	p e p
+026/067	päp	1	p ä p
+026/069	peb	1	p e b
+026/071	peb	1	p e b
+026/073	päp	1	p ä p
+026/075	päp	1	p ä p
+026/077	päp	1	p ä p
+026/079	päp	1	p ä p
+026/081	päp	1	p ä p
+026/083	päp	1	p ä p
+026/085	päb	1	p ä b
+026/087	päp	1	p ä p
+026/089	pep	1	p e p
+026/091	päp	1	p ä p
+026/093	päp	1	p ä p
+026/095	päp	1	p ä p
+026/097	päpp	1	p ä pp
+026/099	päpb	1	p ä p b
+026/101	päp	1	p ä p
+026/103	pep	1	p e p
+026/105	päp	1	p ä p
+026/107	pep	1	p e p
+026/109	päp	1	p ä p
+026/111	päp	1	p ä p
+026/113	päp	1	p ä p
+026/115	päb	1	p ä b
+026/117	päp	1	p ä p
+026/119	päp	1	p ä p
+026/123	päp	1	p ä p
+026/125	päp	1	p ä p
+026/127	päp	1	p ä p
+026/129	päp	1	p ä p
+026/131	päp	1	p ä p
+026/133	päp	1	p ä p
+026/135	päp	1	p ä p
+026/137	pähp	1	p äh p
+026/139	päep	1	p äe p
+026/141	päp	1	p ä p
+026/143	päp	1	p ä p
+026/145	päp	1	p ä p
+026/147	päp	1	p ä p
+026/153	pep	1	p e p
+026/155	päp	1	p ä p
+026/157	pepp	1	p e pp
+026/159	pep	1	p e p
+026/161	päp	1	p ä p
+026/165	pep	1	p e p
+026/173	pep	1	p e p
+026/175	pep	1	p e p
+026/177	pep	1	p e p
+026/179	peep	1	p ee p
+026/181	feff	1	f e ff
+026/183	pfeff	1	p f e ff
+026/185	pfeeff	1	p f ee ff
+026/187	pfeff	1	p f e ff
+026/189	pfeff	1	p f e ff
+027/027	pep	1	p e p
+027/035	päp	1	p ä p
+027/037	päp	1	p ä p
+027/039	päp	1	p ä p
+027/041	päp	1	p ä p
+027/043	pep	1	p e p
+027/045	päp	1	p ä p
+027/047	päp	1	p ä p
+027/051	päp	1	p ä p
+027/053	päp	1	p ä p
+027/055	pep	1	p e p
+027/057	päp	1	p ä p
+027/059	pep	1	p e p
+027/061	pep	1	p e p
+027/063	peb	1	p e b
+027/065	pep	1	p e p
+027/067	päp	1	p ä p
+027/069	pop	1	p o p
+027/071	pep	1	p e p
+027/073	päp	1	p ä p
+027/075	päb	1	p ä b
+027/077	päp	1	p ä p
+027/079	päb	1	p ä b
+027/081	päp	1	p ä p
+027/083	pääp	1	p ää p
+027/085	päp	1	p ä p
+027/087	päp	1	p ä p
+027/089	päp	1	p ä p
+027/091	päp	1	p ä p
+027/093	päp	1	p ä p
+027/095	päp	1	p ä p
+027/099	päp	1	p ä p
+027/101	päp	1	p ä p
+027/103	päp	1	p ä p
+027/105	päp	1	p ä p
+027/107	päp	1	p ä p
+027/109	päp	1	p ä p
+027/111	päp	1	p ä p
+027/113	päp	1	p ä p
+027/115	pääp	1	p ää p
+027/117	päp	1	p ä p
+027/119	paeip	1	p aei p
+027/123	päp	1	p ä p
+027/125	päp	1	p ä p
+027/127	päp	1	p ä p
+027/129	päp	1	p ä p
+027/131	päp	1	p ä p
+027/135	päp	1	p ä p
+027/137	päp	1	p ä p
+027/139	päp	1	p ä p
+027/141	peipp	1	p ei pp
+027/143	paip	1	p ai p
+027/145	päp	1	p ä p
+027/147	päp	1	p ä p
+027/149	päp	1	p ä p
+027/151	päpp	1	p ä pp
+027/153	päp	1	p ä p
+027/155	pähp	1	p äh p
+027/157	päp	1	p ä p
+027/159	pep	1	p e p
+027/161	pep	1	p e p
+027/167	paep	1	p ae p
+027/171	pep	1	p e p
+027/173	pep	1	p e p
+027/175	pep	1	p e p
+027/177	päp	1	p ä p
+027/179	pep	1	p e p
+027/181	päp	1	p ä p
+027/183	pfeff	1	p f e ff
+027/185	feff	1	f e ff
+028/033	päp	1	p ä p
+028/035	pääp	1	p ää p
+028/037	päp	1	p ä p
+028/039	päp	1	p ä p
+028/041	päp	1	p ä p
+028/043	päp	1	p ä p
+028/045	päp	1	p ä p
+028/047	päp	1	p ä p
+028/049	päp	1	p ä p
+028/051	päp	1	p ä p
+028/053	pep	1	p e p
+028/055	päp	1	p ä p
+028/057	pep	1	p e p
+028/059	päp	1	p ä p
+028/061	päb	1	p ä b
+028/063	pep	1	p e p
+028/065	pep	1	p e p
+028/067	pep	1	p e p
+028/069	pep	1	p e p
+028/071	päb	1	p ä b
+028/073	päb	1	p ä b
+028/075	päb	1	p ä b
+028/077	päp	1	p ä p
+028/079	päp	1	p ä p
+028/081	päp	1	p ä p
+028/083	pep	1	p e p
+028/085	päp	1	p ä p
+028/087	päp	1	p ä p
+028/089	päp	1	p ä p
+028/091	päp	1	p ä p
+028/093	päp	1	p ä p
+028/095	päp	1	p ä p
+028/097	päp	1	p ä p
+028/099	päp	1	p ä p
+028/103	pep	1	p e p
+028/105	päp	1	p ä p
+028/107	päp	1	p ä p
+028/109	päp	1	p ä p
+028/111	päp	1	p ä p
+028/113	päp	1	p ä p
+028/115	päp	1	p ä p
+028/117	päp	1	p ä p
+028/119	pep	1	p e p
+028/121	päp	1	p ä p
+028/123	päp	1	p ä p
+028/125	päp	1	p ä p
+028/127	pep	1	p e p
+028/129	pääp	1	p ää p
+028/131	päp	1	p ä p
+028/133	päap	1	p äa p
+028/135	päp	1	p ä p
+028/137	paep	1	p ae p
+028/139	päp	1	p ä p
+028/141	peip	1	p ei p
+028/143	peip	1	p ei p
+028/145	paip	1	p ai p
+028/147	päp	1	p ä p
+028/151	päp	1	p ä p
+028/153	päp	1	p ä p
+028/155	päp	1	p ä p
+028/157	päp	1	p ä p
+028/159	peäp	1	p eä p
+028/161	päp	1	p ä p
+028/165	päp	1	p ä p
+028/169	peep	1	p ee p
+028/171	pep	1	p e p
+028/173	pähp	1	p äh p
+028/175	päp	1	p ä p
+028/177	päj	1	p ä j
+028/179	pep	1	p e p
+028/181	pfeff	1	p f e ff
+028/183	feff	1	f e ff
+028/185	feff	1	f e ff
+029/033	pep	1	p e p
+029/035	pep	1	p e p
+029/037	päp	1	p ä p
+029/039	päp	1	p ä p
+029/043	päp	1	p ä p
+029/045	päp	1	p ä p
+029/047	päp	1	p ä p
+029/049	päp	1	p ä p
+029/051	päp	1	p ä p
+029/053	päp	1	p ä p
+029/055	pep	1	p e p
+029/057	päp	1	p ä p
+029/059	päp	1	p ä p
+029/061	pep	1	p e p
+029/065	päb	1	p ä b
+029/067	peb	1	p e b
+029/069	pep	1	p e p
+029/071	päp	1	p ä p
+029/073	päp	1	p ä p
+029/075	päp	1	p ä p
+029/077	päp	1	p ä p
+029/079	päp	1	p ä p
+029/081	päp	1	p ä p
+029/083	päb	1	p ä b
+029/085	päp	1	p ä p
+029/087	päb	1	p ä b
+029/089	päp	1	p ä p
+029/091	päp	1	p ä p
+029/093	päp	1	p ä p
+029/095	päp	1	p ä p
+029/097	päp	1	p ä p
+029/099	päp	1	p ä p
+029/101	päp	1	p ä p
+029/103	peep	1	p ee p
+029/105	päp	1	p ä p
+029/107	päp	1	p ä p
+029/109	päp	1	p ä p
+029/111	päp	1	p ä p
+029/113	päp	1	p ä p
+029/115	päp	1	p ä p
+029/117	päp	1	p ä p
+029/119	päp	1	p ä p
+029/121	päp	1	p ä p
+029/123	päp	1	p ä p
+029/125	pep	1	p e p
+029/127	pep	1	p e p
+029/129	päp	1	p ä p
+029/131	päp	1	p ä p
+029/133	päp	1	p ä p
+029/135	peep	1	p ee p
+029/137	päp	1	p ä p
+029/139	peip	1	p ei p
+029/141	peip	1	p ei p
+029/143	peip	1	p ei p
+029/145	peip	1	p ei p
+029/147	päp	1	p ä p
+029/149	peip	1	p ei p
+029/151	päp	1	p ä p
+029/153	päp	1	p ä p
+029/155	päp	1	p ä p
+029/157	päp	1	p ä p
+029/159	päpp	1	p ä pp
+029/161	päp	1	p ä p
+029/163	päp	1	p ä p
+029/165	päp	1	p ä p
+029/167	päp	1	p ä p
+029/169	pep	1	p e p
+029/171	päp	1	p ä p
+029/173	pep	1	p e p
+029/175	päp	1	p ä p
+029/177	NA	NA	-
+029/181	päp	1	p ä p
+030/033	pep	1	p e p
+030/035	pep	1	p e p
+030/037	pep	1	p e p
+030/039	pep	1	p e p
+030/041	päp	1	p ä p
+030/043	päp	1	p ä p
+030/045	päp	1	p ä p
+030/047	päp	1	p ä p
+030/049	päp	1	p ä p
+030/051	päp	1	p ä p
+030/053	päp	1	p ä p
+030/055	pep	1	p e p
+030/057	päp	1	p ä p
+030/059	päp	1	p ä p
+030/061	päp	1	p ä p
+030/065	päp	1	p ä p
+030/067	päp	1	p ä p
+030/071	pep	1	p e p
+030/073	päp	1	p ä p
+030/075	päp	1	p ä p
+030/077	päp	1	p ä p
+030/079	päp	1	p ä p
+030/081	päp	1	p ä p
+030/083	päp	1	p ä p
+030/085	päb	1	p ä b
+030/087	päp	1	p ä p
+030/089	päp	1	p ä p
+030/091	päp	1	p ä p
+030/093	päp	1	p ä p
+030/095	päp	1	p ä p
+030/097	päp	1	p ä p
+030/099	päp	1	p ä p
+030/101	päb	1	p ä b
+030/103	päp	1	p ä p
+030/105	päp	1	p ä p
+030/107	peäp	1	p eä p
+030/109	päp	1	p ä p
+030/111	päp	1	p ä p
+030/113	päp	1	p ä p
+030/115	päp	1	p ä p
+030/117	päp	1	p ä p
+030/119	päp	1	p ä p
+030/121	päp	1	p ä p
+030/123	päp	1	p ä p
+030/125	päp	1	p ä p
+030/127	peip	1	p ei p
+030/129	päp	1	p ä p
+030/131	päp	1	p ä p
+030/133	päp	1	p ä p
+030/135	peip	1	p ei p
+030/137	peip	1	p ei p
+030/139	päp	1	p ä p
+030/141	peip	1	p ei p
+030/143	peip	1	p ei p
+030/145	peip	1	p ei p
+030/147	peip	1	p ei p
+030/149	päp	1	p ä p
+030/151	päp	1	p ä p
+030/153	päp	1	p ä p
+030/155	päp	1	p ä p
+030/157	päp	1	p ä p
+030/159	päp	1	p ä p
+030/161	päp	1	p ä p
+030/163	päp	1	p ä p
+030/165	pep	1	p e p
+030/167	pep	1	p e p
+030/169	päp	1	p ä p
+030/171	pep	1	p e p
+030/173	phäp	1	p h ä p
+030/175	päp	1	p ä p
+030/177	pep	1	p e p
+030/179	päp	1	p ä p
+030/181	pepp	1	p e pp
+030/183	päp	1	p ä p
+031/035	pep	1	p e p
+031/037	pep	1	p e p
+031/039	paep	1	p ae p
+031/041	päp	1	p ä p
+031/043	päp	1	p ä p
+031/045	päp	1	p ä p
+031/047	päp	1	p ä p
+031/049	päp	1	p ä p
+031/051	päp	1	p ä p
+031/053	pöpp	1	p ö pp
+031/055	päp	1	p ä p
+031/057	päp	1	p ä p
+031/059	pep	1	p e p
+031/061	päp	1	p ä p
+031/063	pep	1	p e p
+031/065	päp	1	p ä p
+031/067	päp	1	p ä p
+031/069	päp	1	p ä p
+031/071	päp	1	p ä p
+031/073	päp	1	p ä p
+031/075	päp	1	p ä p
+031/077	päp	1	p ä p
+031/079	päp	1	p ä p
+031/081	pääp	1	p ää p
+031/083	päb	1	p ä b
+031/085	pep	1	p e p
+031/087	päb	1	p ä b
+031/089	päp	1	p ä p
+031/091	päp	1	p ä p
+031/093	päp	1	p ä p
+031/095	päp	1	p ä p
+031/097	päp	1	p ä p
+031/099	päp	1	p ä p
+031/101	päb	1	p ä b
+031/103	päp	1	p ä p
+031/105	päp	1	p ä p
+031/107	päp	1	p ä p
+031/109	päp	1	p ä p
+031/111	päp	1	p ä p
+031/113	päp	1	p ä p
+031/115	päp	1	p ä p
+031/117	päp	1	p ä p
+031/119	päp	1	p ä p
+031/121	päp	1	p ä p
+031/123	päp	1	p ä p
+031/125	päp	1	p ä p
+031/127	päp	1	p ä p
+031/129	peip	1	p ei p
+031/131	peip	1	p ei p
+031/133	peip	1	p ei p
+031/135	peip	1	p ei p
+031/137	pep	1	p e p
+031/139	peip	1	p ei p
+031/141	peip	1	p ei p
+031/143	peip	1	p ei p
+031/145	peip	1	p ei p
+031/147	paip	1	p ai p
+031/149	peip	1	p ei p
+031/151	päp	1	p ä p
+031/153	päp	1	p ä p
+031/155	päp	1	p ä p
+031/157	pääp	1	p ää p
+031/159	päp	1	p ä p
+031/161	päp	1	p ä p
+031/163	päp	1	p ä p
+031/167	pep	1	p e p
+031/169	pfeff	1	p f e ff
+031/171	pfeff	1	p f e ff
+031/173	pfeff	1	p f e ff
+031/175	päp	1	p ä p
+031/177	pääp	1	p ää p
+031/179	päp	1	p ä p
+032/035	pep	1	p e p
+032/037	pep	1	p e p
+032/039	pep	1	p e p
+032/041	päp	1	p ä p
+032/043	päep	1	p äe p
+032/045	päp	1	p ä p
+032/047	päp	1	p ä p
+032/049	päp	1	p ä p
+032/051	päp	1	p ä p
+032/053	pöäp	1	p öä p
+032/055	päp	1	p ä p
+032/057	päp	1	p ä p
+032/059	pep	1	p e p
+032/061	pep	1	p e p
+032/065	päp	1	p ä p
+032/069	päp	1	p ä p
+032/071	pääp	1	p ää p
+032/073	päp	1	p ä p
+032/075	päp	1	p ä p
+032/077	päb	1	p ä b
+032/079	päb	1	p ä b
+032/081	päp	1	p ä p
+032/083	päp	1	p ä p
+032/085	päp	1	p ä p
+032/087	päb	1	p ä b
+032/089	päp	1	p ä p
+032/091	päp	1	p ä p
+032/093	päp	1	p ä p
+032/095	päp	1	p ä p
+032/097	päp	1	p ä p
+032/099	päp	1	p ä p
+032/101	päp	1	p ä p
+032/103	päp	1	p ä p
+032/105	päp	1	p ä p
+032/107	päp	1	p ä p
+032/111	päp	1	p ä p
+032/113	päp	1	p ä p
+032/115	päp	1	p ä p
+032/117	päp	1	p ä p
+032/119	päp	1	p ä p
+032/121	päp	1	p ä p
+032/123	päp	1	p ä p
+032/125	päp	1	p ä p
+032/127	pep	1	p e p
+032/129	peip	1	p ei p
+032/131	paip	1	p ai p
+032/133	peep	1	p ee p
+032/135	päp	1	p ä p
+032/139	päp	1	p ä p
+032/141	peip	1	p ei p
+032/143	paip	1	p ai p
+032/145	peip	1	p ei p
+032/147	peip	1	p ei p
+032/149	peip	1	p ei p
+032/151	peip	1	p ei p
+032/153	peip	1	p ei p
+032/157	päp	1	p ä p
+032/159	päp	1	p ä p
+032/161	päp	1	p ä p
+032/163	päp	1	p ä p
+032/167	päp	1	p ä p
+032/169	pfeff	1	p f e ff
+032/171	feff	1	f e ff
+032/173	pfeff	1	p f e ff
+032/175	pepp	1	p e pp
+032/177	pehp	1	p eh p
+032/179	päp	1	p ä p
+032/181	peep	1	p ee p
+032/183	pehp	1	p eh p
+033/035	peep	1	p ee p
+033/037	pep	1	p e p
+033/039	peep	1	p ee p
+033/041	päp	1	p ä p
+033/043	päp	1	p ä p
+033/045	päp	1	p ä p
+033/047	päp	1	p ä p
+033/049	päp	1	p ä p
+033/051	päp	1	p ä p
+033/053	päp	1	p ä p
+033/055	päp	1	p ä p
+033/057	päp	1	p ä p
+033/059	pähp	1	p äh p
+033/061	päp	1	p ä p
+033/063	päp	1	p ä p
+033/065	päp	1	p ä p
+033/067	päp	1	p ä p
+033/069	päp	1	p ä p
+033/071	päb	1	p ä b
+033/073	päp	1	p ä p
+033/075	poip	1	p oi p
+033/077	pep	1	p e p
+033/079	päp	1	p ä p
+033/081	päp	1	p ä p
+033/083	päp	1	p ä p
+033/085	päp	1	p ä p
+033/087	päp	1	p ä p
+033/089	päp	1	p ä p
+033/091	päp	1	p ä p
+033/093	päp	1	p ä p
+033/095	päp	1	p ä p
+033/097	päp	1	p ä p
+033/099	päp	1	p ä p
+033/101	päp	1	p ä p
+033/103	pep	1	p e p
+033/105	päp	1	p ä p
+033/107	päp	1	p ä p
+033/109	paip	1	p ai p
+033/111	päp	1	p ä p
+033/113	päp	1	p ä p
+033/115	päp	1	p ä p
+033/117	päp	1	p ä p
+033/119	päp	1	p ä p
+033/121	päp	1	p ä p
+033/123	päp	1	p ä p
+033/125	päp	1	p ä p
+033/127	päp	1	p ä p
+033/129	päp	1	p ä p
+033/131	päp	1	p ä p
+033/133	päp	1	p ä p
+033/135	päp	1	p ä p
+033/137	päp	1	p ä p
+033/139	päp	1	p ä p
+033/141	peip	1	p ei p
+033/143	peip	1	p ei p
+033/145	peip	1	p ei p
+033/147	peip	1	p ei p
+033/149	peip	1	p ei p
+033/151	peip	1	p ei p
+033/153	peipp	1	p ei pp
+033/155	peip	1	p ei p
+033/159	pep	1	p e p
+033/161	päp	1	p ä p
+033/163	päp	1	p ä p
+033/165	pep	1	p e p
+033/167	päp	1	p ä p
+033/169	pep	1	p e p
+033/173	peep	1	p ee p
+033/175	päap	1	p äa p
+033/177	pep	1	p e p
+034/035	pähp	1	p äh p
+034/039	pep	1	p e p
+034/041	päp	1	p ä p
+034/043	pähp	1	p äh p
+034/045	päp	1	p ä p
+034/047	päp	1	p ä p
+034/049	päp	1	p ä p
+034/051	päp	1	p ä p
+034/053	päp	1	p ä p
+034/055	päp	1	p ä p
+034/057	päp	1	p ä p
+034/059	päp	1	p ä p
+034/061	pep	1	p e p
+034/063	päp	1	p ä p
+034/065	pep	1	p e p
+034/067	pep	1	p e p
+034/069	päp	1	p ä p
+034/071	päp	1	p ä p
+034/073	päp	1	p ä p
+034/075	päp	1	p ä p
+034/077	päp	1	p ä p
+034/079	päp	1	p ä p
+034/081	pep	1	p e p
+034/083	päp	1	p ä p
+034/085	päp	1	p ä p
+034/087	päp	1	p ä p
+034/089	päp	1	p ä p
+034/091	päp	1	p ä p
+034/093	päp	1	p ä p
+034/095	päp	1	p ä p
+034/097	päp	1	p ä p
+034/099	pähp	1	p äh p
+034/101	päp	1	p ä p
+034/103	päp	1	p ä p
+034/105	päp	1	p ä p
+034/107	päp	1	p ä p
+034/109	päp	1	p ä p
+034/111	päp	1	p ä p
+034/113	päp	1	p ä p
+034/115	päp	1	p ä p
+034/117	päp	1	p ä p
+034/119	päp	1	p ä p
+034/121	päp	1	p ä p
+034/125	pääp	1	p ää p
+034/127	päp	1	p ä p
+034/129	pep	1	p e p
+034/131	pep	1	p e p
+034/133	päp	1	p ä p
+034/135	päp	1	p ä p
+034/137	päp	1	p ä p
+034/139	peip	1	p ei p
+034/141	peipp	1	p ei pp
+034/143	peip	1	p ei p
+034/145	peip	1	p ei p
+034/147	peipp	1	p ei pp
+034/149	peip	1	p ei p
+034/151	peip	1	p ei p
+034/155	peip	1	p ei p
+034/157	paip	1	p ai p
+034/161	päp	1	p ä p
+034/163	päp	1	p ä p
+034/165	pep	1	p e p
+034/167	pejp	1	p e j p
+034/169	peep	1	p ee p
+034/173	päp	1	p ä p
+035/035	päp	1	p ä p
+035/037	pep	1	p e p
+035/039	päp	1	p ä p
+035/041	pääp	1	p ää p
+035/043	päp	1	p ä p
+035/045	päp	1	p ä p
+035/047	päp	1	p ä p
+035/049	päp	1	p ä p
+035/051	pep	1	p e p
+035/053	pep	1	p e p
+035/055	päp	1	p ä p
+035/057	päp	1	p ä p
+035/059	päp	1	p ä p
+035/061	pep	1	p e p
+035/063	päp	1	p ä p
+035/065	päp	1	p ä p
+035/067	päp	1	p ä p
+035/069	päp	1	p ä p
+035/071	pep	1	p e p
+035/073	päb	1	p ä b
+035/075	päp	1	p ä p
+035/077	päp	1	p ä p
+035/079	päp	1	p ä p
+035/081	päpb	1	p ä p b
+035/083	päbb	1	p ä bb
+035/085	päp	1	p ä p
+035/087	päp	1	p ä p
+035/089	päb	1	p ä b
+035/091	päp	1	p ä p
+035/093	päp	1	p ä p
+035/095	päp	1	p ä p
+035/097	päp	1	p ä p
+035/099	päp	1	p ä p
+035/101	päp	1	p ä p
+035/103	päp	1	p ä p
+035/105	päp	1	p ä p
+035/107	päp	1	p ä p
+035/109	pep	1	p e p
+035/111	päp	1	p ä p
+035/113	päp	1	p ä p
+035/115	päp	1	p ä p
+035/117	päp	1	p ä p
+035/121	pep	1	p e p
+035/123	pep	1	p e p
+035/125	päp	1	p ä p
+035/127	päp	1	p ä p
+035/129	pep	1	p e p
+035/133	päp	1	p ä p
+035/135	päp	1	p ä p
+035/137	päp	1	p ä p
+035/139	päp	1	p ä p
+035/141	peip	1	p ei p
+035/143	peip	1	p ei p
+035/145	peip	1	p ei p
+035/147	peip	1	p ei p
+035/149	peip	1	p ei p
+035/151	paip	1	p ai p
+035/153	peip	1	p ei p
+035/155	peip	1	p ei p
+035/157	päip	1	p äi p
+035/165	päp	1	p ä p
+035/167	päap	1	p äa p
+035/169	päp	1	p ä p
+035/171	peäp	1	p eä p
+035/173	pep	1	p e p
+036/033	päp	1	p ä p
+036/035	päp	1	p ä p
+036/039	päp	1	p ä p
+036/041	päp	1	p ä p
+036/043	päp	1	p ä p
+036/045	päp	1	p ä p
+036/047	päp	1	p ä p
+036/049	päp	1	p ä p
+036/051	päp	1	p ä p
+036/053	päp	1	p ä p
+036/055	päp	1	p ä p
+036/057	päp	1	p ä p
+036/059	päp	1	p ä p
+036/061	päp	1	p ä p
+036/063	pep	1	p e p
+036/065	päb	1	p ä b
+036/067	päp	1	p ä p
+036/069	päp	1	p ä p
+036/071	pöp	1	p ö p
+036/073	päb	1	p ä b
+036/075	päb	1	p ä b
+036/077	peb	1	p e b
+036/079	pep	1	p e p
+036/081	päp	1	p ä p
+036/083	päp	1	p ä p
+036/085	pep	1	p e p
+036/087	päp	1	p ä p
+036/089	päp	1	p ä p
+036/091	päp	1	p ä p
+036/095	päp	1	p ä p
+036/097	päp	1	p ä p
+036/099	päp	1	p ä p
+036/101	pep	1	p e p
+036/103	päp	1	p ä p
+036/105	päp	1	p ä p
+036/107	peäp	1	p eä p
+036/109	peäp	1	p eä p
+036/111	peäp	1	p eä p
+036/113	päp	1	p ä p
+036/115	päp	1	p ä p
+036/117	päp	1	p ä p
+036/119	päp	1	p ä p
+036/121	peäp	1	p eä p
+036/123	päp	1	p ä p
+036/125	pääp	1	p ää p
+036/127	päp	1	p ä p
+036/129	päp	1	p ä p
+036/133	pääp	1	p ää p
+036/135	päp	1	p ä p
+036/137	päp	1	p ä p
+036/139	päp	1	p ä p
+036/141	peip	1	p ei p
+036/143	peip	1	p ei p
+036/147	peip	1	p ei p
+036/149	peip	1	p ei p
+036/151	peip	1	p ei p
+036/153	peip	1	p ei p
+036/155	peip	1	p ei p
+036/161	päp	1	p ä p
+036/163	peip	1	p ei p
+036/165	päp	1	p ä p
+036/167	pep	1	p e p
+036/169	pep	1	p e p
+036/171	pep	1	p e p
+037/033	päp	1	p ä p
+037/035	pep	1	p e p
+037/037	päp	1	p ä p
+037/039	päp	1	p ä p
+037/041	päp	1	p ä p
+037/043	päp	1	p ä p
+037/045	päp	1	p ä p
+037/047	päp	1	p ä p
+037/049	päp	1	p ä p
+037/051	pep	1	p e p
+037/053	päp	1	p ä p
+037/055	päp	1	p ä p
+037/057	päp	1	p ä p
+037/059	päp	1	p ä p
+037/061	päp	1	p ä p
+037/063	päp	1	p ä p
+037/065	päb	1	p ä b
+037/067	päp	1	p ä p
+037/069	päp	1	p ä p
+037/071	päb	1	p ä b
+037/073	pöpp	1	p ö pp
+037/075	pöbb	1	p ö bb
+037/077	pepp	1	p e pp
+037/079	päp	1	p ä p
+037/081	päp	1	p ä p
+037/083	peb	1	p e b
+037/085	päp	1	p ä p
+037/087	päb	1	p ä b
+037/089	päp	1	p ä p
+037/091	päp	1	p ä p
+037/093	päp	1	p ä p
+037/095	päp	1	p ä p
+037/097	päp	1	p ä p
+037/099	päp	1	p ä p
+037/101	päp	1	p ä p
+037/105	päp	1	p ä p
+037/107	päp	1	p ä p
+037/109	päp	1	p ä p
+037/111	päp	1	p ä p
+037/113	päp	1	p ä p
+037/115	pähp	1	p äh p
+037/117	päep	1	p äe p
+037/119	päp	1	p ä p
+037/121	peäp	1	p eä p
+037/123	päp	1	p ä p
+037/125	päp	1	p ä p
+037/127	päp	1	p ä p
+037/129	päp	1	p ä p
+037/131	päp	1	p ä p
+037/133	piääp	1	p iää p
+037/135	päp	1	p ä p
+037/137	päp	1	p ä p
+037/139	päp	1	p ä p
+037/141	pep	1	p e p
+037/145	peip	1	p ei p
+037/147	peipp	1	p ei pp
+037/149	peip	1	p ei p
+037/151	peip	1	p ei p
+037/153	peip	1	p ei p
+037/155	peip	1	p ei p
+037/157	peip	1	p ei p
+037/159	pejp	1	p e j p
+037/163	peip	1	p ei p
+037/171	päp	1	p ä p
+038/033	päip	1	p äi p
+038/035	päp	1	p ä p
+038/037	päp	1	p ä p
+038/039	päp	1	p ä p
+038/041	päp	1	p ä p
+038/043	pep	1	p e p
+038/045	päp	1	p ä p
+038/047	päp	1	p ä p
+038/049	prp	1	p r p
+038/051	päp	1	p ä p
+038/053	päp	1	p ä p
+038/055	päp	1	p ä p
+038/057	päp	1	p ä p
+038/059	päp	1	p ä p
+038/061	päp	1	p ä p
+038/063	päp	1	p ä p
+038/065	pöpp	1	p ö pp
+038/067	pöpp	1	p ö pp
+038/069	pöpp	1	p ö pp
+038/071	pepp	1	p e pp
+038/073	pöpp	1	p ö pp
+038/075	pöpp	1	p ö pp
+038/077	pepp	1	p e pp
+038/079	päpp	1	p ä pp
+038/081	päp	1	p ä p
+038/083	päp	1	p ä p
+038/085	päp	1	p ä p
+038/087	päp	1	p ä p
+038/089	päp	1	p ä p
+038/091	päp	1	p ä p
+038/093	päp	1	p ä p
+038/095	päp	1	p ä p
+038/097	päp	1	p ä p
+038/099	päp	1	p ä p
+038/101	peäp	1	p eä p
+038/103	päap	1	p äa p
+038/105	pöäp	1	p öä p
+038/107	pähp	1	p äh p
+038/109	päp	1	p ä p
+038/111	pähp	1	p äh p
+038/113	päp	1	p ä p
+038/115	päp	1	p ä p
+038/117	päp	1	p ä p
+038/119	päp	1	p ä p
+038/121	päp	1	p ä p
+038/123	peäp	1	p eä p
+038/125	päp	1	p ä p
+038/127	päp	1	p ä p
+038/129	päp	1	p ä p
+038/131	pfeff	1	p f e ff
+038/133	päp	1	p ä p
+038/135	päp	1	p ä p
+038/145	peip	1	p ei p
+038/147	peip	1	p ei p
+038/149	peip	1	p ei p
+038/151	peip	1	p ei p
+038/153	päip	1	p äi p
+038/155	peip	1	p ei p
+038/159	peip	1	p ei p
+038/161	peip	1	p ei p
+038/163	peipp	1	p ei pp
+039/029	pöpp	1	p ö pp
+039/031	pöpp	1	p ö pp
+039/033	päp	1	p ä p
+039/035	päp	1	p ä p
+039/037	päp	1	p ä p
+039/039	päp	1	p ä p
+039/041	peep	1	p ee p
+039/043	päp	1	p ä p
+039/045	päp	1	p ä p
+039/047	päp	1	p ä p
+039/049	päp	1	p ä p
+039/051	pep	1	p e p
+039/053	päp	1	p ä p
+039/055	päp	1	p ä p
+039/057	päp	1	p ä p
+039/059	päp	1	p ä p
+039/061	päp	1	p ä p
+039/063	pep	1	p e p
+039/065	pirp	1	p i r p
+039/067	pöpp	1	p ö pp
+039/069	päp	1	p ä p
+039/071	pöpp	1	p ö pp
+039/073	pepp	1	p e pp
+039/075	pöpp	1	p ö pp
+039/077	pöpp	1	p ö pp
+039/079	päp	1	p ä p
+039/081	päp	1	p ä p
+039/083	päp	1	p ä p
+039/085	päp	1	p ä p
+039/087	päp	1	p ä p
+039/089	päp	1	p ä p
+039/091	päp	1	p ä p
+039/093	päp	1	p ä p
+039/095	pähp	1	p äh p
+039/097	pep	1	p e p
+039/099	peäp	1	p eä p
+039/101	päp	1	p ä p
+039/103	pep	1	p e p
+039/105	peäp	1	p eä p
+039/107	peäp	1	p eä p
+039/109	peäp	1	p eä p
+039/111	peäp	1	p eä p
+039/113	päp	1	p ä p
+039/115	peäp	1	p eä p
+039/117	peäp	1	p eä p
+039/119	pep	1	p e p
+039/121	piäp	1	p iä p
+039/123	päp	1	p ä p
+039/125	päp	1	p ä p
+039/127	päp	1	p ä p
+039/129	päp	1	p ä p
+039/131	feff	1	f e ff
+039/133	pfaff	1	p f a ff
+039/135	pfaff	1	p f a ff
+039/137	pfaff	1	p f a ff
+039/139	pfaff	1	p f a ff
+039/149	peip	1	p ei p
+039/151	peip	1	p ei p
+039/153	peip	1	p ei p
+039/155	peip	1	p ei p
+040/029	pöpp	1	p ö pp
+040/031	pöpp	1	p ö pp
+040/033	pöpp	1	p ö pp
+040/035	pepp	1	p e pp
+040/037	pöpp	1	p ö pp
+040/039	pep	1	p e p
+040/041	pepp	1	p e pp
+040/043	pep	1	p e p
+040/045	peäpp	1	p eä pp
+040/047	pepp	1	p e pp
+040/049	perp	1	p e r p
+040/051	päp	1	p ä p
+040/053	päp	1	p ä p
+040/055	päp	1	p ä p
+040/057	päp	1	p ä p
+040/059	päp	1	p ä p
+040/061	päp	1	p ä p
+040/063	pep	1	p e p
+040/065	peäp	1	p eä p
+040/067	pepp	1	p e pp
+040/069	pepp	1	p e pp
+040/071	pepp	1	p e pp
+040/073	pepp	1	p e pp
+040/075	pepp	1	p e pp
+040/077	pepp	1	p e pp
+040/079	päp	1	p ä p
+040/081	päp	1	p ä p
+040/083	päp	1	p ä p
+040/085	päp	1	p ä p
+040/087	päp	1	p ä p
+040/089	päp	1	p ä p
+040/091	päp	1	p ä p
+040/093	päp	1	p ä p
+040/095	päp	1	p ä p
+040/097	pöäp	1	p öä p
+040/099	päep	1	p äe p
+040/101	peäp	1	p eä p
+040/103	päep	1	p äe p
+040/105	päp	1	p ä p
+040/107	feff	1	f e ff
+040/109	feff	1	f e ff
+040/111	peäp	1	p eä p
+040/113	päp	1	p ä p
+040/115	päp	1	p ä p
+040/119	pep	1	p e p
+040/121	päp	1	p ä p
+040/123	päp	1	p ä p
+040/125	peff	1	p e ff
+040/127	pfeff	1	p f e ff
+040/129	fäff	1	f ä ff
+040/131	feff	1	f e ff
+040/133	faff	1	f a ff
+040/135	faff	1	f a ff
+040/137	faff	1	f a ff
+040/141	pfaff	1	p f a ff
+040/143	pfaff	1	p f a ff
+040/149	faff	1	f a ff
+040/153	peip	1	p ei p
+040/155	peip	1	p ei p
+041/031	pöpp	1	p ö pp
+041/033	pepp	1	p e pp
+041/035	pepp	1	p e pp
+041/037	pöpp	1	p ö pp
+041/039	päpp	1	p ä pp
+041/041	pepp	1	p e pp
+041/043	pepp	1	p e pp
+041/045	piäp	1	p iä p
+041/047	piep	1	p ie p
+041/049	pöpp	1	p ö pp
+041/051	pep	1	p e p
+041/053	peap	1	p ea p
+041/055	pääp	1	p ää p
+041/057	peep	1	p ee p
+041/059	peep	1	p ee p
+041/061	peep	1	p ee p
+041/063	pep	1	p e p
+041/065	pepp	1	p e pp
+041/067	pepp	1	p e pp
+041/069	pepp	1	p e pp
+041/071	pöpp	1	p ö pp
+041/073	pepp	1	p e pp
+041/075	pepp	1	p e pp
+041/077	pepp	1	p e pp
+041/079	pepp	1	p e pp
+041/081	päp	1	p ä p
+041/083	päp	1	p ä p
+041/085	päp	1	p ä p
+041/087	päp	1	p ä p
+041/089	pep	1	p e p
+041/091	päp	1	p ä p
+041/093	päp	1	p ä p
+041/095	pähp	1	p äh p
+041/097	päp	1	p ä p
+041/099	peäp	1	p eä p
+041/101	peäp	1	p eä p
+041/103	päap	1	p äa p
+041/105	päep	1	p äe p
+041/107	päp	1	p ä p
+041/109	pep	1	p e p
+041/111	pfeff	1	p f e ff
+041/113	päap	1	p äa p
+041/115	päep	1	p äe p
+041/117	päp	1	p ä p
+041/119	päp	1	p ä p
+041/121	päp	1	p ä p
+041/123	piäp	1	p iä p
+041/125	peff	1	p e ff
+041/127	fäff	1	f ä ff
+041/129	feff	1	f e ff
+041/131	feff	1	f e ff
+041/133	faff	1	f a ff
+041/135	faff	1	f a ff
+041/139	pfaff	1	p f a ff
+041/141	pfaff	1	p f a ff
+041/145	faff	1	f a ff
+041/147	faff	1	f a ff
+041/153	peip	1	p ei p
+041/155	päp	1	p ä p
+041/157	päp	1	p ä p
+041/159	peip	1	p ei p
+041/161	peup	1	p eu p
+042/033	pepp	1	p e pp
+042/035	pepp	1	p e pp
+042/037	pepp	1	p e pp
+042/039	pepp	1	p e pp
+042/041	piärp	1	p iä r p
+042/043	pep	1	p e p
+042/045	pip	1	p i p
+042/047	päpp	1	p ä pp
+042/051	piirp	1	p ii r p
+042/053	pierp	1	p ie r p
+042/055	pep	1	p e p
+042/057	piäp	1	p iä p
+042/059	pirp	1	p i r p
+042/061	pehp	1	p eh p
+042/063	pep	1	p e p
+042/065	pepp	1	p e pp
+042/067	pepp	1	p e pp
+042/069	pepp	1	p e pp
+042/071	pepp	1	p e pp
+042/073	pöpp	1	p ö pp
+042/075	päpp	1	p ä pp
+042/077	pöpp	1	p ö pp
+042/079	pöpp	1	p ö pp
+042/081	pöpp	1	p ö pp
+042/083	pepp	1	p e pp
+042/085	päp	1	p ä p
+042/087	päp	1	p ä p
+042/089	päp	1	p ä p
+042/091	päp	1	p ä p
+042/093	pep	1	p e p
+042/095	peäp	1	p eä p
+042/097	päp	1	p ä p
+042/099	peäp	1	p eä p
+042/101	päp	1	p ä p
+042/103	päp	1	p ä p
+042/105	feff	1	f e ff
+042/107	pöp	1	p ö p
+042/109	päop	1	p äo p
+042/111	päep	1	p äe p
+042/113	feff	1	f e ff
+042/115	peff	1	p e ff
+042/117	päp	1	p ä p
+042/119	päp	1	p ä p
+042/121	päp	1	p ä p
+042/123	peff	1	p e ff
+042/125	päff	1	p ä ff
+042/127	peff	1	p e ff
+042/129	feff	1	f e ff
+042/131	pfaff	1	p f a ff
+042/133	faff	1	f a ff
+042/135	faff	1	f a ff
+042/137	faff	1	f a ff
+042/139	pfaff	1	p f a ff
+042/141	faff	1	f a ff
+042/143	faff	1	f a ff
+042/145	pfaff	1	p f a ff
+042/147	pfaff	1	p f a ff
+042/149	pfaff	1	p f a ff
+042/151	fäff	1	f ä ff
+042/157	peip	1	p ei p
+042/159	peip	1	p ei p
+042/161	päp	1	p ä p
+043/033	pepp	1	p e pp
+043/035	pepp	1	p e pp
+043/037	piäp	1	p iä p
+043/039	piäp	1	p iä p
+043/041	piäpp	1	p iä pp
+043/043	piäp	1	p iä p
+043/045	piep	1	p ie p
+043/047	pirp	1	p i r p
+043/049	piäp	1	p iä p
+043/051	pep	1	p e p
+043/053	piep	1	p ie p
+043/055	piäp	1	p iä p
+043/057	peep	1	p ee p
+043/059	pep	1	p e p
+043/061	piep	1	p ie p
+043/063	peep	1	p ee p
+043/065	pepp	1	p e pp
+043/067	pepp	1	p e pp
+043/069	pepp	1	p e pp
+043/071	pöpp	1	p ö pp
+043/073	pöpp	1	p ö pp
+043/075	pöpp	1	p ö pp
+043/077	pepp	1	p e pp
+043/079	pöpp	1	p ö pp
+043/081	pöpp	1	p ö pp
+043/083	päpp	1	p ä pp
+043/085	pepp	1	p e pp
+043/087	pepp	1	p e pp
+043/089	päp	1	p ä p
+043/091	päp	1	p ä p
+043/093	päp	1	p ä p
+043/095	päep	1	p äe p
+043/097	päp	1	p ä p
+043/099	peäp	1	p eä p
+043/101	pähp	1	p äh p
+043/103	päep	1	p äe p
+043/105	pääp	1	p ää p
+043/107	päp	1	p ä p
+043/109	päp	1	p ä p
+043/111	peäp	1	p eä p
+043/113	peff	1	p e ff
+043/115	peff	1	p e ff
+043/117	feff	1	f e ff
+043/119	pfeff	1	p f e ff
+043/121	peff	1	p e ff
+043/123	paff	1	p a ff
+043/125	pfaff	1	p f a ff
+043/127	feff	1	f e ff
+043/129	pfaff	1	p f a ff
+043/131	pfaff	1	p f a ff
+043/133	faff	1	f a ff
+043/135	faff	1	f a ff
+043/137	faff	1	f a ff
+043/141	faff	1	f a ff
+043/143	pfaff	1	p f a ff
+043/145	pfaff	1	p f a ff
+043/151	pfeff	1	p f e ff
+043/153	faff	1	f a ff
+043/159	pejp	1	p e j p
+043/161	pep	1	p e p
+044/033	piäpp	1	p iä pp
+044/035	piäpp	1	p iä pp
+044/039	piäp	1	p iä p
+044/041	piäp	1	p iä p
+044/043	piep	1	p ie p
+044/045	piäp	1	p iä p
+044/047	piäp	1	p iä p
+044/049	piäp	1	p iä p
+044/051	pieep	1	p iee p
+044/053	piep	1	p ie p
+044/055	perp	1	p e r p
+044/057	peep	1	p ee p
+044/059	peep	1	p ee p
+044/061	pieep	1	p iee p
+044/063	pepp	1	p e pp
+044/065	pepp	1	p e pp
+044/067	pepp	1	p e pp
+044/069	pöpp	1	p ö pp
+044/071	pöpp	1	p ö pp
+044/073	pöpp	1	p ö pp
+044/075	pepp	1	p e pp
+044/077	pöpp	1	p ö pp
+044/079	pöpp	1	p ö pp
+044/081	pöpp	1	p ö pp
+044/083	pöpp	1	p ö pp
+044/085	pöpp	1	p ö pp
+044/087	pepp	1	p e pp
+044/089	päp	1	p ä p
+044/091	päp	1	p ä p
+044/093	peäp	1	p eä p
+044/095	päp	1	p ä p
+044/097	päp	1	p ä p
+044/099	peäp	1	p eä p
+044/101	peäp	1	p eä p
+044/103	peep	1	p ee p
+044/105	päep	1	p äe p
+044/107	peähp	1	p eäh p
+044/109	päp	1	p ä p
+044/111	päp	1	p ä p
+044/113	peff	1	p e ff
+044/115	pfeff	1	p f e ff
+044/117	päff	1	p ä ff
+044/119	päff	1	p ä ff
+044/121	faff	1	f a ff
+044/123	paff	1	p a ff
+044/125	paff	1	p a ff
+044/127	pfaff	1	p f a ff
+044/129	pfeff	1	p f e ff
+044/131	pfaff	1	p f a ff
+044/133	pfaff	1	p f a ff
+044/135	faff	1	f a ff
+044/137	faff	1	f a ff
+044/141	pfaff	1	p f a ff
+044/143	faff	1	f a ff
+044/145	pfaff	1	p f a ff
+044/149	faff	1	f a ff
+044/151	faff	1	f a ff
+044/153	faff	1	f a ff
+045/033	piäp	1	p iä p
+045/035	piäp	1	p iä p
+045/037	piäp	1	p iä p
+045/039	päp	1	p ä p
+045/041	piäpp	1	p iä pp
+045/043	piäp	1	p iä p
+045/045	piep	1	p ie p
+045/047	piäp	1	p iä p
+045/049	pärp	1	p ä r p
+045/051	piep	1	p ie p
+045/053	piep	1	p ie p
+045/055	pöpp	1	p ö pp
+045/057	pep	1	p e p
+045/059	pep	1	p e p
+045/061	peep	1	p ee p
+045/063	pepp	1	p e pp
+045/065	pepp	1	p e pp
+045/067	pepp	1	p e pp
+045/069	pepp	1	p e pp
+045/071	pöpp	1	p ö pp
+045/073	pöpp	1	p ö pp
+045/075	pepp	1	p e pp
+045/077	pepp	1	p e pp
+045/079	pöpp	1	p ö pp
+045/081	pöpp	1	p ö pp
+045/083	pepp	1	p e pp
+045/085	pepp	1	p e pp
+045/087	pepp	1	p e pp
+045/089	päp	1	p ä p
+045/091	päp	1	p ä p
+045/093	päp	1	p ä p
+045/095	peap	1	p ea p
+045/097	päp	1	p ä p
+045/099	peäp	1	p eä p
+045/101	päep	1	p äe p
+045/103	päp	1	p ä p
+045/105	päp	1	p ä p
+045/107	pep	1	p e p
+045/109	peäp	1	p eä p
+045/111	peff	1	p e ff
+045/113	feff	1	f e ff
+045/115	pfeff	1	p f e ff
+045/117	pfeff	1	p f e ff
+045/119	pfäff	1	p f ä ff
+045/121	pfeff	1	p f e ff
+045/123	faff	1	f a ff
+045/125	pfaff	1	p f a ff
+045/127	pfaff	1	p f a ff
+045/129	pfaff	1	p f a ff
+045/131	pfaff	1	p f a ff
+045/133	faff	1	f a ff
+045/135	pfaff	1	p f a ff
+045/137	faff	1	f a ff
+045/139	faff	1	f a ff
+045/141	faff	1	f a ff
+045/143	faff	1	f a ff
+045/145	pfaff	1	p f a ff
+045/155	pfaff	1	p f a ff
+046/031	päp	1	p ä p
+046/033	pepp	1	p e pp
+046/035	päipp	1	p äi pp
+046/037	piäp	1	p iä p
+046/039	peop	1	p eo p
+046/041	piäp	1	p iä p
+046/043	piäp	1	p iä p
+046/045	pirp	1	p i r p
+046/047	pirp	1	p i r p
+046/049	piep	1	p ie p
+046/051	piep	1	p ie p
+046/053	pöpp	1	p ö pp
+046/055	pöpp	1	p ö pp
+046/057	pöpp	1	p ö pp
+046/059	pep	1	p e p
+046/061	pep	1	p e p
+046/063	pöpp	1	p ö pp
+046/065	pepp	1	p e pp
+046/067	pöpp	1	p ö pp
+046/069	pepp	1	p e pp
+046/071	pöpp	1	p ö pp
+046/073	pöpp	1	p ö pp
+046/075	pepp	1	p e pp
+046/077	pepp	1	p e pp
+046/079	pöpp	1	p ö pp
+046/081	pöpp	1	p ö pp
+046/083	pepp	1	p e pp
+046/085	pepp	1	p e pp
+046/087	pepp	1	p e pp
+046/089	päp	1	p ä p
+046/091	päp	1	p ä p
+046/093	päp	1	p ä p
+046/095	päp	1	p ä p
+046/097	pep	1	p e p
+046/099	päp	1	p ä p
+046/101	peäp	1	p eä p
+046/103	päp	1	p ä p
+046/105	peäp	1	p eä p
+046/107	päep	1	p äe p
+046/109	päp	1	p ä p
+046/111	peff	1	p e ff
+046/113	feff	1	f e ff
+046/115	feff	1	f e ff
+046/117	feff	1	f e ff
+046/119	feff	1	f e ff
+046/121	faff	1	f a ff
+046/123	faff	1	f a ff
+046/125	faff	1	f a ff
+046/127	faff	1	f a ff
+046/129	faff	1	f a ff
+046/131	pfaff	1	p f a ff
+046/133	faff	1	f a ff
+046/135	pfaff	1	p f a ff
+046/137	faff	1	f a ff
+046/139	faff	1	f a ff
+046/141	faff	1	f a ff
+046/143	faff	1	f a ff
+046/155	faff	1	f a ff
+047/031	päp	1	p ä p
+047/033	päp	1	p ä p
+047/035	piäp	1	p iä p
+047/037	piäp	1	p iä p
+047/039	piäp	1	p iä p
+047/041	piäp	1	p iä p
+047/043	piäpp	1	p iä pp
+047/045	piäpp	1	p iä pp
+047/047	piäpp	1	p iä pp
+047/049	piäp	1	p iä p
+047/051	pöpp	1	p ö pp
+047/053	pöpp	1	p ö pp
+047/055	pepp	1	p e pp
+047/057	pöpp	1	p ö pp
+047/059	pep	1	p e p
+047/061	pepp	1	p e pp
+047/063	pepp	1	p e pp
+047/065	pepp	1	p e pp
+047/067	pöpp	1	p ö pp
+047/069	pöpp	1	p ö pp
+047/071	pöpp	1	p ö pp
+047/073	päpp	1	p ä pp
+047/075	pepp	1	p e pp
+047/077	pepp	1	p e pp
+047/079	pepp	1	p e pp
+047/081	pöpp	1	p ö pp
+047/083	pepp	1	p e pp
+047/085	pepp	1	p e pp
+047/087	pepp	1	p e pp
+047/089	peep	1	p ee p
+047/091	peep	1	p ee p
+047/093	päep	1	p äe p
+047/095	pöp	1	p ö p
+047/097	päap	1	p äa p
+047/099	feff	1	f e ff
+047/101	päap	1	p äa p
+047/103	päp	1	p ä p
+047/105	päp	1	p ä p
+047/107	peäp	1	p eä p
+047/109	päff	1	p ä ff
+047/111	feff	1	f e ff
+047/113	feff	1	f e ff
+047/115	feff	1	f e ff
+047/117	feff	1	f e ff
+047/119	feff	1	f e ff
+047/123	faff	1	f a ff
+047/125	pfaff	1	p f a ff
+047/127	pfaff	1	p f a ff
+047/129	pfaff	1	p f a ff
+047/131	pfaff	1	p f a ff
+047/133	pfaff	1	p f a ff
+047/135	pfaff	1	p f a ff
+047/137	pfaff	1	p f a ff
+047/139	faff	1	f a ff
+047/141	pfaff	1	p f a ff
+047/147	faff	1	f a ff
+047/149	faff	1	f a ff
+047/151	faff	1	f a ff
+047/159	pfaff	1	p f a ff
+048/021	päp	1	p ä p
+048/023	päp	1	p ä p
+048/027	päp	1	p ä p
+048/029	päp	1	p ä p
+048/031	päp	1	p ä p
+048/033	päpp	1	p ä pp
+048/035	piäpp	1	p iä pp
+048/037	piäp	1	p iä p
+048/039	piäp	1	p iä p
+048/041	piäp	1	p iä p
+048/045	piäp	1	p iä p
+048/047	piäpp	1	p iä pp
+048/049	piäp	1	p iä p
+048/051	piäp	1	p iä p
+048/053	pöpp	1	p ö pp
+048/055	pöpp	1	p ö pp
+048/057	pöpp	1	p ö pp
+048/059	pöpp	1	p ö pp
+048/061	pepp	1	p e pp
+048/063	pöpp	1	p ö pp
+048/065	pöpp	1	p ö pp
+048/067	pöpp	1	p ö pp
+048/069	pöpp	1	p ö pp
+048/071	pfaff	1	p f a ff
+048/073	pepp	1	p e pp
+048/075	pöpp	1	p ö pp
+048/077	pöpp	1	p ö pp
+048/079	pöpp	1	p ö pp
+048/081	pepp	1	p e pp
+048/083	pepp	1	p e pp
+048/085	pepp	1	p e pp
+048/087	pepp	1	p e pp
+048/089	feff	1	f e ff
+048/091	feff	1	f e ff
+048/093	päp	1	p ä p
+048/095	feff	1	f e ff
+048/099	feff	1	f e ff
+048/101	feff	1	f e ff
+048/103	feff	1	f e ff
+048/105	päp	1	p ä p
+048/107	pef	1	p e f
+048/109	peff	1	p e ff
+048/111	peff	1	p e ff
+048/113	pfeff	1	p f e ff
+048/115	feff	1	f e ff
+048/119	pfeff	1	p f e ff
+048/123	faff	1	f a ff
+048/125	faff	1	f a ff
+048/127	faff	1	f a ff
+048/129	pfaff	1	p f a ff
+048/131	pfaff	1	p f a ff
+048/133	faff	1	f a ff
+048/135	pfaff	1	p f a ff
+048/137	pfaff	1	p f a ff
+048/139	faff	1	f a ff
+048/141	faff	1	f a ff
+048/143	faff	1	f a ff
+048/145	faff	1	f a ff
+048/147	faff	1	f a ff
+048/153	pfaff	1	p f a ff
+048/157	pfaff	1	p f a ff
+048/159	faff	1	f a ff
+049/019	pääp	1	p ää p
+049/021	päp	1	p ä p
+049/023	päp	1	p ä p
+049/025	päp	1	p ä p
+049/027	pääp	1	p ää p
+049/029	päp	1	p ä p
+049/031	pep	1	p e p
+049/033	päp	1	p ä p
+049/035	piäp	1	p iä p
+049/037	piärp	1	p iä r p
+049/039	piäp	1	p iä p
+049/041	peäep	1	p eäe p
+049/043	piäp	1	p iä p
+049/045	piäpp	1	p iä pp
+049/047	pirp	1	p i r p
+049/049	piäpp	1	p iä pp
+049/051	piäp	1	p iä p
+049/053	pip	1	p i p
+049/055	piep	1	p ie p
+049/057	piep	1	p ie p
+049/059	piep	1	p ie p
+049/061	pöpp	1	p ö pp
+049/063	pöpp	1	p ö pp
+049/065	pöpp	1	p ö pp
+049/067	päpp	1	p ä pp
+049/069	pöpp	1	p ö pp
+049/071	pöpp	1	p ö pp
+049/073	pfaff	1	p f a ff
+049/077	pepp	1	p e pp
+049/079	pepp	1	p e pp
+049/081	pepp	1	p e pp
+049/083	pepp	1	p e pp
+049/085	pepp	1	p e pp
+049/087	feff	1	f e ff
+049/089	feff	1	f e ff
+049/091	feff	1	f e ff
+049/093	feff	1	f e ff
+049/095	feff	1	f e ff
+049/097	feff	1	f e ff
+049/099	feff	1	f e ff
+049/101	feff	1	f e ff
+049/103	feff	1	f e ff
+049/105	feff	1	f e ff
+049/107	feff	1	f e ff
+049/109	peff	1	p e ff
+049/111	peff	1	p e ff
+049/113	feff	1	f e ff
+049/115	feff	1	f e ff
+049/117	feff	1	f e ff
+049/119	feff	1	f e ff
+049/121	pfeff	1	p f e ff
+049/123	pfeff	1	p f e ff
+049/125	faff	1	f a ff
+049/127	pfaff	1	p f a ff
+049/129	faff	1	f a ff
+049/131	pfaff	1	p f a ff
+049/133	faff	1	f a ff
+049/135	faff	1	f a ff
+049/137	pfaff	1	p f a ff
+049/139	faff	1	f a ff
+049/141	pfaff	1	p f a ff
+049/143	faff	1	f a ff
+049/145	faff	1	f a ff
+049/147	faff	1	f a ff
+049/151	pfaff	1	p f a ff
+050/021	päp	1	p ä p
+050/023	peff	1	p e ff
+050/025	päp	1	p ä p
+050/027	päp	1	p ä p
+050/029	pep	1	p e p
+050/031	pääp	1	p ää p
+050/033	piäpp	1	p iä pp
+050/035	piäpp	1	p iä pp
+050/037	piäpp	1	p iä pp
+050/039	piep	1	p ie p
+050/041	piäpp	1	p iä pp
+050/043	piäp	1	p iä p
+050/047	piäp	1	p iä p
+050/049	piep	1	p ie p
+050/051	pip	1	p i p
+050/053	piep	1	p ie p
+050/055	pipp	1	p i pp
+050/057	pip	1	p i p
+050/059	piep	1	p ie p
+050/061	piep	1	p ie p
+050/063	pöpp	1	p ö pp
+050/065	pöpp	1	p ö pp
+050/067	pöpp	1	p ö pp
+050/069	pepp	1	p e pp
+050/071	pöpp	1	p ö pp
+050/073	pöpp	1	p ö pp
+050/075	pfaff	1	p f a ff
+050/077	pepp	1	p e pp
+050/079	faff	1	f a ff
+050/081	feff	1	f e ff
+050/083	pepp	1	p e pp
+050/085	feff	1	f e ff
+050/087	feff	1	f e ff
+050/089	faff	1	f a ff
+050/091	feff	1	f e ff
+050/093	feff	1	f e ff
+050/095	fäff	1	f ä ff
+050/097	feff	1	f e ff
+050/099	feff	1	f e ff
+050/101	feff	1	f e ff
+050/103	feff	1	f e ff
+050/105	feff	1	f e ff
+050/107	feff	1	f e ff
+050/109	fäff	1	f ä ff
+050/111	peff	1	p e ff
+050/113	paff	1	p a ff
+050/115	feff	1	f e ff
+050/117	feff	1	f e ff
+050/119	feff	1	f e ff
+050/121	feff	1	f e ff
+050/125	pfeff	1	p f e ff
+050/127	pfaff	1	p f a ff
+050/129	faff	1	f a ff
+050/131	faff	1	f a ff
+050/133	pfaff	1	p f a ff
+050/135	pfaff	1	p f a ff
+050/137	faff	1	f a ff
+050/139	faff	1	f a ff
+050/141	pfaff	1	p f a ff
+050/143	pfaff	1	p f a ff
+050/145	pfaff	1	p f a ff
+050/147	faff	1	f a ff
+050/149	pfaff	1	p f a ff
+050/151	faff	1	f a ff
+050/155	faff	1	f a ff
+050/157	pfaff	1	p f a ff
+050/159	faff	1	f a ff
+050/161	faff	1	f a ff
+051/023	pääp	1	p ää p
+051/025	päp	1	p ä p
+051/027	pep	1	p e p
+051/029	pep	1	p e p
+051/031	päpp	1	p ä pp
+051/033	päpp	1	p ä pp
+051/035	piapp	1	p ia pp
+051/037	piäpp	1	p iä pp
+051/039	piäp	1	p iä p
+051/041	piäpp	1	p iä pp
+051/043	piäpp	1	p iä pp
+051/045	piäp	1	p iä p
+051/047	piäp	1	p iä p
+051/049	pepp	1	p e pp
+051/051	piäp	1	p iä p
+051/053	pipp	1	p i pp
+051/055	piep	1	p ie p
+051/057	pipp	1	p i pp
+051/059	piep	1	p ie p
+051/061	pep	1	p e p
+051/063	pöpp	1	p ö pp
+051/065	pepp	1	p e pp
+051/067	pöpp	1	p ö pp
+051/069	pöpp	1	p ö pp
+051/071	pöpp	1	p ö pp
+051/073	pöpp	1	p ö pp
+051/075	pfaff	1	p f a ff
+051/077	pepp	1	p e pp
+051/079	fäff	1	f ä ff
+051/081	feff	1	f e ff
+051/083	fäff	1	f ä ff
+051/085	fäff	1	f ä ff
+051/087	fäff	1	f ä ff
+051/089	fäff	1	f ä ff
+051/091	feff	1	f e ff
+051/093	feff	1	f e ff
+051/095	feff	1	f e ff
+051/097	feff	1	f e ff
+051/099	fäff	1	f ä ff
+051/101	feff	1	f e ff
+051/103	feff	1	f e ff
+051/105	pfeff	1	p f e ff
+051/107	fäff	1	f ä ff
+051/109	feff	1	f e ff
+051/111	weff	1	w e ff
+051/113	pfeff	1	p f e ff
+051/115	feff	1	f e ff
+051/117	pfeff	1	p f e ff
+051/119	feff	1	f e ff
+051/121	feff	1	f e ff
+051/123	feff	1	f e ff
+051/125	pfaff	1	p f a ff
+051/127	faff	1	f a ff
+051/129	faff	1	f a ff
+051/131	pfaff	1	p f a ff
+051/133	pfaff	1	p f a ff
+051/135	pfaff	1	p f a ff
+051/137	faff	1	f a ff
+051/139	faff	1	f a ff
+051/141	pfaff	1	p f a ff
+051/143	pfaff	1	p f a ff
+051/145	faff	1	f a ff
+051/147	faff	1	f a ff
+051/149	faff	1	f a ff
+051/151	pfaff	1	p f a ff
+051/153	pfaff	1	p f a ff
+051/155	pfaff	1	p f a ff
+051/157	faff	1	f a ff
+052/023	pähp	1	p äh p
+052/025	pääp	1	p ää p
+052/027	päp	1	p ä p
+052/029	päp	1	p ä p
+052/031	päpp	1	p ä pp
+052/033	päpp	1	p ä pp
+052/035	piapp	1	p ia pp
+052/037	piäpp	1	p iä pp
+052/039	piäp	1	p iä p
+052/041	piäp	1	p iä p
+052/043	piäpp	1	p iä pp
+052/045	piäp	1	p iä p
+052/047	piäep	1	p iäe p
+052/049	piäp	1	p iä p
+052/051	piäp	1	p iä p
+052/053	piäp	1	p iä p
+052/057	pipp	1	p i pp
+052/059	pipp	1	p i pp
+052/061	pipp	1	p i pp
+052/063	pepp	1	p e pp
+052/065	pöpp	1	p ö pp
+052/067	pepp	1	p e pp
+052/069	pöpp	1	p ö pp
+052/071	pöpp	1	p ö pp
+052/073	pehp	1	p eh p
+052/075	feff	1	f e ff
+052/077	faff	1	f a ff
+052/079	vaff	1	v a ff
+052/081	faäff	1	f aä ff
+052/083	faff	1	f a ff
+052/085	fäff	1	f ä ff
+052/087	faff	1	f a ff
+052/089	fäff	1	f ä ff
+052/091	pfeff	1	p f e ff
+052/093	fäff	1	f ä ff
+052/095	fäff	1	f ä ff
+052/097	feff	1	f e ff
+052/099	feff	1	f e ff
+052/101	fäff	1	f ä ff
+052/103	pfeff	1	p f e ff
+052/105	fäff	1	f ä ff
+052/107	feff	1	f e ff
+052/109	feff	1	f e ff
+052/111	feff	1	f e ff
+052/113	pfeff	1	p f e ff
+052/115	feff	1	f e ff
+052/117	pfeff	1	p f e ff
+052/121	pfeff	1	p f e ff
+052/123	pfeff	1	p f e ff
+052/125	pfaff	1	p f a ff
+052/127	faff	1	f a ff
+052/129	faff	1	f a ff
+052/131	pfaff	1	p f a ff
+052/133	pfaff	1	p f a ff
+052/135	faff	1	f a ff
+052/137	faff	1	f a ff
+052/139	pfaff	1	p f a ff
+052/141	faff	1	f a ff
+052/143	faff	1	f a ff
+052/145	pfaff	1	p f a ff
+052/147	faff	1	f a ff
+052/149	faff	1	f a ff
+052/151	faff	1	f a ff
+052/153	faff	1	f a ff
+052/155	faff	1	f a ff
+052/157	pfaff	1	p f a ff
+052/159	faw	1	f a w
+053/023	päp	1	p ä p
+053/025	päp	1	p ä p
+053/027	päp	1	p ä p
+053/029	päp	1	p ä p
+053/031	peep	1	p ee p
+053/033	piäp	1	p iä p
+053/035	piäpp	1	p iä pp
+053/037	piäpp	1	p iä pp
+053/039	piäp	1	p iä p
+053/041	piäp	1	p iä p
+053/043	piäpp	1	p iä pp
+053/045	piäp	1	p iä p
+053/047	piäp	1	p iä p
+053/049	piäp	1	p iä p
+053/051	piäpp	1	p iä pp
+053/053	piäp	1	p iä p
+053/055	piapp	1	p ia pp
+053/057	piepp	1	p ie pp
+053/059	pipp	1	p i pp
+053/061	piepp	1	p ie pp
+053/063	pep	1	p e p
+053/065	piep	1	p ie p
+053/067	pep	1	p e p
+053/069	pep	1	p e p
+053/071	peep	1	p ee p
+053/073	pfeff	1	p f e ff
+053/075	faff	1	f a ff
+053/077	fäff	1	f ä ff
+053/079	pfoff	1	p f o ff
+053/081	faff	1	f a ff
+053/083	faäff	1	f aä ff
+053/085	faff	1	f a ff
+053/087	fäff	1	f ä ff
+053/089	fäff	1	f ä ff
+053/091	fäff	1	f ä ff
+053/093	feff	1	f e ff
+053/095	fäff	1	f ä ff
+053/097	fäff	1	f ä ff
+053/099	fäff	1	f ä ff
+053/101	fäff	1	f ä ff
+053/103	feff	1	f e ff
+053/105	faff	1	f a ff
+053/107	faff	1	f a ff
+053/109	pfaff	1	p f a ff
+053/111	fäff	1	f ä ff
+053/113	faff	1	f a ff
+053/115	pfaff	1	p f a ff
+053/121	feff	1	f e ff
+053/123	faff	1	f a ff
+053/125	fäff	1	f ä ff
+053/127	faff	1	f a ff
+053/129	faff	1	f a ff
+053/131	faff	1	f a ff
+053/133	pfaff	1	p f a ff
+053/135	pfaff	1	p f a ff
+053/137	faff	1	f a ff
+053/139	faff	1	f a ff
+053/141	faff	1	f a ff
+053/143	pfaff	1	p f a ff
+053/145	faff	1	f a ff
+053/147	faff	1	f a ff
+053/149	pfaff	1	p f a ff
+053/151	faff	1	f a ff
+053/153	faff	1	f a ff
+053/155	faff	1	f a ff
+053/157	faff	1	f a ff
+054/023	peäp	1	p eä p
+054/025	päip	1	p äi p
+054/027	pähp	1	p äh p
+054/029	peff	1	p e ff
+054/031	pep	1	p e p
+054/033	päp	1	p ä p
+054/035	piapp	1	p ia pp
+054/037	piäpp	1	p iä pp
+054/039	piäpp	1	p iä pp
+054/041	pierp	1	p ie r p
+054/043	piäp	1	p iä p
+054/045	piäpp	1	p iä pp
+054/047	piäep	1	p iäe p
+054/049	piäp	1	p iä p
+054/051	piäp	1	p iä p
+054/053	piäpp	1	p iä pp
+054/055	piäpp	1	p iä pp
+054/057	pepp	1	p e pp
+054/059	pipp	1	p i pp
+054/061	päff	1	p ä ff
+054/063	peff	1	p e ff
+054/065	peep	1	p ee p
+054/067	pfeff	1	p f e ff
+054/069	feff	1	f e ff
+054/071	fääff	1	f ää ff
+054/073	faff	1	f a ff
+054/075	faaff	1	f aa ff
+054/077	fäff	1	f ä ff
+054/079	faff	1	f a ff
+054/081	fäff	1	f ä ff
+054/083	fäff	1	f ä ff
+054/085	fäff	1	f ä ff
+054/087	fäff	1	f ä ff
+054/089	fäff	1	f ä ff
+054/091	fäff	1	f ä ff
+054/093	fäff	1	f ä ff
+054/095	fäff	1	f ä ff
+054/097	feff	1	f e ff
+054/099	feff	1	f e ff
+054/101	fäff	1	f ä ff
+054/103	faff	1	f a ff
+054/105	faff	1	f a ff
+054/107	faäff	1	f aä ff
+054/109	fäff	1	f ä ff
+054/111	faeff	1	f ae ff
+054/113	faäff	1	f aä ff
+054/115	faff	1	f a ff
+054/117	pfaff	1	p f a ff
+054/119	faff	1	f a ff
+054/121	feff	1	f e ff
+054/123	faff	1	f a ff
+054/125	pfaff	1	p f a ff
+054/127	faff	1	f a ff
+054/131	pfaff	1	p f a ff
+054/133	faff	1	f a ff
+054/135	pfaff	1	p f a ff
+054/137	pfaff	1	p f a ff
+054/139	pfaff	1	p f a ff
+054/141	faff	1	f a ff
+054/143	faff	1	f a ff
+054/145	faff	1	f a ff
+054/147	faff	1	f a ff
+054/149	faff	1	f a ff
+054/151	faff	1	f a ff
+054/153	faff	1	f a ff
+054/155	pfaff	1	p f a ff
+054/157	pfaff	1	p f a ff
+054/159	faff	1	f a ff
+054/161	faff	1	f a ff
+054/163	peäp	1	p eä p
+055/023	peäp	1	p eä p
+055/025	päöp	1	p äö p
+055/027	peep	1	p ee p
+055/029	päff	1	p ä ff
+055/031	päff	1	p ä ff
+055/033	päff	1	p ä ff
+055/035	piäp	1	p iä p
+055/037	piäp	1	p iä p
+055/039	piäp	1	p iä p
+055/041	piäpp	1	p iä pp
+055/043	piäip	1	p iäi p
+055/045	piäp	1	p iä p
+055/047	piäpp	1	p iä pp
+055/049	piäp	1	p iä p
+055/051	piäpp	1	p iä pp
+055/053	pepp	1	p e pp
+055/055	piäpp	1	p iä pp
+055/057	piäpp	1	p iä pp
+055/059	pähp	1	p äh p
+055/061	pfeff	1	p f e ff
+055/063	päff	1	p ä ff
+055/065	feff	1	f e ff
+055/067	pfäff	1	p f ä ff
+055/069	fäff	1	f ä ff
+055/071	feff	1	f e ff
+055/073	fäff	1	f ä ff
+055/075	faff	1	f a ff
+055/077	faff	1	f a ff
+055/079	faff	1	f a ff
+055/081	faff	1	f a ff
+055/083	fäff	1	f ä ff
+055/085	fäff	1	f ä ff
+055/087	fäff	1	f ä ff
+055/089	faeff	1	f ae ff
+055/091	fäff	1	f ä ff
+055/093	fäff	1	f ä ff
+055/095	fäff	1	f ä ff
+055/097	fäff	1	f ä ff
+055/099	fäff	1	f ä ff
+055/101	faff	1	f a ff
+055/103	faff	1	f a ff
+055/105	fäff	1	f ä ff
+055/107	fäff	1	f ä ff
+055/109	fäff	1	f ä ff
+055/111	pfaff	1	p f a ff
+055/113	pfaff	1	p f a ff
+055/115	pfaff	1	p f a ff
+055/117	faff	1	f a ff
+055/119	pfaff	1	p f a ff
+055/123	pfaff	1	p f a ff
+055/125	faff	1	f a ff
+055/127	faff	1	f a ff
+055/131	pfaff	1	p f a ff
+055/133	faff	1	f a ff
+055/135	faff	1	f a ff
+055/137	pfaff	1	p f a ff
+055/139	pfaff	1	p f a ff
+055/141	faff	1	f a ff
+055/143	faff	1	f a ff
+055/145	faff	1	f a ff
+055/147	faff	1	f a ff
+055/149	faff	1	f a ff
+055/151	faff	1	f a ff
+055/153	faff	1	f a ff
+055/155	faff	1	f a ff
+055/157	pfaff	1	p f a ff
+055/159	pfaff	1	p f a ff
+055/161	fäff	1	f ä ff
+056/021	päp	1	p ä p
+056/023	peäp	1	p eä p
+056/025	päeep	1	p äee p
+056/027	peff	1	p e ff
+056/029	peff	1	p e ff
+056/031	päff	1	p ä ff
+056/033	peff	1	p e ff
+056/035	peff	1	p e ff
+056/037	piäpp	1	p iä pp
+056/039	piapp	1	p ia pp
+056/041	piaäp	1	p iaä p
+056/043	piäpp	1	p iä pp
+056/045	piäp	1	p iä p
+056/047	piäpp	1	p iä pp
+056/049	piäp	1	p iä p
+056/051	piäp	1	p iä p
+056/053	pep	1	p e p
+056/055	päp	1	p ä p
+056/057	päpp	1	p ä pp
+056/059	päff	1	p ä ff
+056/061	peff	1	p e ff
+056/063	peff	1	p e ff
+056/065	peff	1	p e ff
+056/067	fäff	1	f ä ff
+056/069	feff	1	f e ff
+056/071	faff	1	f a ff
+056/073	faff	1	f a ff
+056/075	faff	1	f a ff
+056/077	faff	1	f a ff
+056/079	faff	1	f a ff
+056/081	faff	1	f a ff
+056/083	faff	1	f a ff
+056/085	faff	1	f a ff
+056/087	faff	1	f a ff
+056/089	faff	1	f a ff
+056/091	faff	1	f a ff
+056/093	faff	1	f a ff
+056/095	fäff	1	f ä ff
+056/097	fäff	1	f ä ff
+056/099	faff	1	f a ff
+056/101	fäff	1	f ä ff
+056/103	pfaff	1	p f a ff
+056/105	faff	1	f a ff
+056/107	pfaff	1	p f a ff
+056/109	pfäff	1	p f ä ff
+056/111	pfaff	1	p f a ff
+056/113	pfaff	1	p f a ff
+056/115	pfaff	1	p f a ff
+056/117	faff	1	f a ff
+056/121	pfeff	1	p f e ff
+056/123	pfaff	1	p f a ff
+056/125	faff	1	f a ff
+056/127	pfaff	1	p f a ff
+056/129	pfaff	1	p f a ff
+056/131	pfaff	1	p f a ff
+056/133	pfaff	1	p f a ff
+056/135	pfaff	1	p f a ff
+056/137	faff	1	f a ff
+056/139	faff	1	f a ff
+056/141	faff	1	f a ff
+056/143	faff	1	f a ff
+056/145	pfaff	1	p f a ff
+056/147	pfaff	1	p f a ff
+056/149	faff	1	f a ff
+056/151	faff	1	f a ff
+056/153	faff	1	f a ff
+056/155	faff	1	f a ff
+056/157	faff	1	f a ff
+056/159	faff	1	f a ff
+056/161	faff	1	f a ff
+057/021	päp	1	p ä p
+057/023	piäp	1	p iä p
+057/025	päep	1	p äe p
+057/027	päf	1	p ä f
+057/029	päf	1	p ä f
+057/031	peff	1	p e ff
+057/033	peff	1	p e ff
+057/035	päff	1	p ä ff
+057/037	peff	1	p e ff
+057/039	piap	1	p ia p
+057/041	piapp	1	p ia pp
+057/043	piäpp	1	p iä pp
+057/045	pieipp	1	p iei pp
+057/047	piäp	1	p iä p
+057/049	piäpp	1	p iä pp
+057/051	paff	1	p a ff
+057/053	päp	1	p ä p
+057/055	peff	1	p e ff
+057/057	päff	1	p ä ff
+057/059	päff	1	p ä ff
+057/061	peff	1	p e ff
+057/063	peff	1	p e ff
+057/065	peff	1	p e ff
+057/067	fäff	1	f ä ff
+057/069	feff	1	f e ff
+057/071	faff	1	f a ff
+057/073	faff	1	f a ff
+057/075	faff	1	f a ff
+057/077	faff	1	f a ff
+057/079	faff	1	f a ff
+057/081	faff	1	f a ff
+057/083	fäff	1	f ä ff
+057/085	fäff	1	f ä ff
+057/087	faff	1	f a ff
+057/089	fäff	1	f ä ff
+057/091	faff	1	f a ff
+057/093	faff	1	f a ff
+057/095	faff	1	f a ff
+057/097	bfaff	1	b f a ff
+057/099	pfaff	1	p f a ff
+057/101	pfeff	1	p f e ff
+057/103	pfaff	1	p f a ff
+057/105	pfeff	1	p f e ff
+057/107	pfaff	1	p f a ff
+057/109	feff	1	f e ff
+057/111	pfaff	1	p f a ff
+057/113	pfäff	1	p f ä ff
+057/115	pfaff	1	p f a ff
+057/117	pfaff	1	p f a ff
+057/119	faff	1	f a ff
+057/121	pfaff	1	p f a ff
+057/123	pfaff	1	p f a ff
+057/125	pfaff	1	p f a ff
+057/127	pfaff	1	p f a ff
+057/129	pfaff	1	p f a ff
+057/131	pfaff	1	p f a ff
+057/133	faff	1	f a ff
+057/135	faff	1	f a ff
+057/137	pfaff	1	p f a ff
+057/139	faff	1	f a ff
+057/141	faff	1	f a ff
+057/143	pfaff	1	p f a ff
+057/145	faff	1	f a ff
+057/147	faff	1	f a ff
+057/149	faff	1	f a ff
+057/151	faff	1	f a ff
+057/153	pfaff	1	p f a ff
+057/155	faff	1	f a ff
+057/157	pfaff	1	p f a ff
+057/159	pfaff	1	p f a ff
+057/161	feff	1	f e ff
+058/019	päp	1	p ä p
+058/021	pääp	1	p ää p
+058/023	pähp	1	p äh p
+058/025	päf	1	p ä f
+058/027	peff	1	p e ff
+058/029	peff	1	p e ff
+058/031	peff	1	p e ff
+058/033	peff	1	p e ff
+058/035	peff	1	p e ff
+058/037	peff	1	p e ff
+058/039	päepp	1	p äe pp
+058/041	piäp	1	p iä p
+058/043	piapp	1	p ia pp
+058/045	piäpp	1	p iä pp
+058/047	päff	1	p ä ff
+058/049	päff	1	p ä ff
+058/051	peff	1	p e ff
+058/053	paff	1	p a ff
+058/055	peff	1	p e ff
+058/057	päff	1	p ä ff
+058/059	päff	1	p ä ff
+058/061	peff	1	p e ff
+058/063	peff	1	p e ff
+058/065	paäff	1	p aä ff
+058/067	fäff	1	f ä ff
+058/069	pfäff	1	p f ä ff
+058/071	feff	1	f e ff
+058/073	fäff	1	f ä ff
+058/075	faff	1	f a ff
+058/077	faff	1	f a ff
+058/079	faff	1	f a ff
+058/081	faff	1	f a ff
+058/083	fäff	1	f ä ff
+058/085	faff	1	f a ff
+058/087	faff	1	f a ff
+058/089	faaff	1	f aa ff
+058/091	faff	1	f a ff
+058/093	faff	1	f a ff
+058/095	faff	1	f a ff
+058/097	faff	1	f a ff
+058/099	pfaff	1	p f a ff
+058/101	pfaff	1	p f a ff
+058/103	fäff	1	f ä ff
+058/105	pfaff	1	p f a ff
+058/107	pfaff	1	p f a ff
+058/109	pfäff	1	p f ä ff
+058/111	pfaff	1	p f a ff
+058/113	fäff	1	f ä ff
+058/115	pfäff	1	p f ä ff
+058/117	pfaff	1	p f a ff
+058/119	pfaff	1	p f a ff
+058/121	pfaff	1	p f a ff
+058/123	pfaff	1	p f a ff
+058/125	pfaff	1	p f a ff
+058/127	pfaff	1	p f a ff
+058/129	pfaff	1	p f a ff
+058/131	pfaff	1	p f a ff
+058/133	faff	1	f a ff
+058/135	faff	1	f a ff
+058/137	pfaff	1	p f a ff
+058/139	pfaff	1	p f a ff
+058/141	pfaff	1	p f a ff
+058/143	faff	1	f a ff
+058/145	faff	1	f a ff
+058/147	faff	1	f a ff
+058/149	pfaff	1	p f a ff
+058/151	faff	1	f a ff
+058/153	pfaff	1	p f a ff
+058/155	faff	1	f a ff
+058/157	faff	1	f a ff
+058/159	faff	1	f a ff
+059/019	päp	1	p ä p
+059/021	päep	1	p äe p
+059/023	päf	1	p ä f
+059/025	peff	1	p e ff
+059/027	päff	1	p ä ff
+059/029	peff	1	p e ff
+059/031	peff	1	p e ff
+059/033	peff	1	p e ff
+059/035	peff	1	p e ff
+059/037	peff	1	p e ff
+059/039	peff	1	p e ff
+059/041	pev	1	p e v
+059/043	päeff	1	p äe ff
+059/045	päff	1	p ä ff
+059/047	peäff	1	p eä ff
+059/049	päff	1	p ä ff
+059/051	peff	1	p e ff
+059/053	peff	1	p e ff
+059/055	peff	1	p e ff
+059/057	peff	1	p e ff
+059/059	peff	1	p e ff
+059/061	päff	1	p ä ff
+059/063	peff	1	p e ff
+059/065	paeff	1	p ae ff
+059/067	pfäaff	1	p f äa ff
+059/069	pfäff	1	p f ä ff
+059/071	pfeff	1	p f e ff
+059/073	pfaff	1	p f a ff
+059/075	fawf	1	f a w f
+059/077	feff	1	f e ff
+059/079	faff	1	f a ff
+059/081	fäff	1	f ä ff
+059/083	pfäff	1	p f ä ff
+059/085	faeff	1	f ae ff
+059/087	faeff	1	f ae ff
+059/089	fäff	1	f ä ff
+059/091	faff	1	f a ff
+059/093	faff	1	f a ff
+059/095	faff	1	f a ff
+059/097	faff	1	f a ff
+059/099	pfaff	1	p f a ff
+059/101	pfaff	1	p f a ff
+059/103	pfaff	1	p f a ff
+059/105	pfeff	1	p f e ff
+059/107	pfaff	1	p f a ff
+059/109	pfaff	1	p f a ff
+059/111	pfäff	1	p f ä ff
+059/113	pfaff	1	p f a ff
+059/115	pfaff	1	p f a ff
+059/117	pfaff	1	p f a ff
+059/119	pfaff	1	p f a ff
+059/121	pfaff	1	p f a ff
+059/123	pfaff	1	p f a ff
+059/125	pfaff	1	p f a ff
+059/127	faff	1	f a ff
+059/129	pfaff	1	p f a ff
+059/131	pfaff	1	p f a ff
+059/133	pfaff	1	p f a ff
+059/135	pfaff	1	p f a ff
+059/137	faff	1	f a ff
+059/139	pfaff	1	p f a ff
+059/141	pfäff	1	p f ä ff
+059/143	pfaff	1	p f a ff
+059/145	faff	1	f a ff
+059/147	faff	1	f a ff
+059/149	faff	1	f a ff
+059/151	faff	1	f a ff
+059/153	faff	1	f a ff
+059/155	faff	1	f a ff
+059/157	pfaff	1	p f a ff
+059/159	pfaff	1	p f a ff
+059/161	pfaff	1	p f a ff
+059/165	fäff	1	f ä ff
+059/169	feff	1	f e ff
+060/021	peff	1	p e ff
+060/023	päuf	1	p äu f
+060/025	päf	1	p ä f
+060/027	pewf	1	p e w f
+060/029	päf	1	p ä f
+060/031	päf	1	p ä f
+060/033	peff	1	p e ff
+060/035	peff	1	p e ff
+060/037	peff	1	p e ff
+060/039	peef	1	p ee f
+060/041	peff	1	p e ff
+060/043	pef	1	p e f
+060/045	peff	1	p e ff
+060/047	päff	1	p ä ff
+060/049	päeff	1	p äe ff
+060/051	päff	1	p ä ff
+060/053	peff	1	p e ff
+060/055	päff	1	p ä ff
+060/057	päeff	1	p äe ff
+060/059	päff	1	p ä ff
+060/061	päff	1	p ä ff
+060/063	peff	1	p e ff
+060/065	päff	1	p ä ff
+060/067	päff	1	p ä ff
+060/069	pfäff	1	p f ä ff
+060/071	pfaeff	1	p f ae ff
+060/073	pfaaff	1	p f aa ff
+060/075	pfeff	1	p f e ff
+060/077	faff	1	f a ff
+060/079	faff	1	f a ff
+060/081	pfaaff	1	p f aa ff
+060/083	pfaff	1	p f a ff
+060/085	pfaff	1	p f a ff
+060/087	faff	1	f a ff
+060/089	faff	1	f a ff
+060/091	faff	1	f a ff
+060/093	faff	1	f a ff
+060/095	vaff	1	v a ff
+060/097	pfaff	1	p f a ff
+060/099	pfaff	1	p f a ff
+060/101	pfaff	1	p f a ff
+060/103	pfaff	1	p f a ff
+060/105	pfaff	1	p f a ff
+060/107	pfaff	1	p f a ff
+060/109	pfaff	1	p f a ff
+060/111	pfaff	1	p f a ff
+060/113	pfäff	1	p f ä ff
+060/115	pfaff	1	p f a ff
+060/117	pfaff	1	p f a ff
+060/119	pfaff	1	p f a ff
+060/121	pfaff	1	p f a ff
+060/123	pfaff	1	p f a ff
+060/125	pfaff	1	p f a ff
+060/127	pfaff	1	p f a ff
+060/129	pfaff	1	p f a ff
+060/131	pfaff	1	p f a ff
+060/135	pfaff	1	p f a ff
+060/137	feff	1	f e ff
+060/139	faff	1	f a ff
+060/141	pfaff	1	p f a ff
+060/143	pfaff	1	p f a ff
+060/145	faff	1	f a ff
+060/147	faff	1	f a ff
+060/149	pfaff	1	p f a ff
+060/151	pfaff	1	p f a ff
+060/153	faff	1	f a ff
+060/155	faff	1	f a ff
+060/157	pfef	1	p f e f
+060/159	faff	1	f a ff
+060/163	pfaff	1	p f a ff
+060/165	pfaff	1	p f a ff
+061/021	päf	1	p ä f
+061/023	peff	1	p e ff
+061/025	päef	1	p äe f
+061/027	päv	1	p ä v
+061/029	päef	1	p äe f
+061/031	päef	1	p äe f
+061/033	peff	1	p e ff
+061/035	peff	1	p e ff
+061/037	päff	1	p ä ff
+061/039	peff	1	p e ff
+061/041	päff	1	p ä ff
+061/043	päff	1	p ä ff
+061/045	peff	1	p e ff
+061/047	päff	1	p ä ff
+061/049	peff	1	p e ff
+061/051	päff	1	p ä ff
+061/053	peff	1	p e ff
+061/055	pöeff	1	p öe ff
+061/057	päff	1	p ä ff
+061/059	paäff	1	p aä ff
+061/061	päff	1	p ä ff
+061/063	päff	1	p ä ff
+061/065	peff	1	p e ff
+061/067	päff	1	p ä ff
+061/069	pfäff	1	p f ä ff
+061/071	pfäff	1	p f ä ff
+061/073	pfäff	1	p f ä ff
+061/075	pfäff	1	p f ä ff
+061/077	pfaeff	1	p f ae ff
+061/079	faff	1	f a ff
+061/081	faff	1	f a ff
+061/083	faff	1	f a ff
+061/085	faff	1	f a ff
+061/087	faff	1	f a ff
+061/089	faff	1	f a ff
+061/091	faff	1	f a ff
+061/093	pfaff	1	p f a ff
+061/095	pfaff	1	p f a ff
+061/097	pfaff	1	p f a ff
+061/099	pfaff	1	p f a ff
+061/101	pfaaff	1	p f aa ff
+061/103	pfeff	1	p f e ff
+061/105	pfaff	1	p f a ff
+061/107	pfaff	1	p f a ff
+061/109	pfaff	1	p f a ff
+061/111	pfaff	1	p f a ff
+061/113	pfaff	1	p f a ff
+061/115	pfaff	1	p f a ff
+061/117	pfaff	1	p f a ff
+061/119	pfaff	1	p f a ff
+061/121	pfaff	1	p f a ff
+061/123	pfaff	1	p f a ff
+061/125	pfaff	1	p f a ff
+061/127	pfaff	1	p f a ff
+061/129	pfaff	1	p f a ff
+061/131	pfaff	1	p f a ff
+061/133	pfaff	1	p f a ff
+061/137	pfaff	1	p f a ff
+061/139	pfaff	1	p f a ff
+061/141	pfaff	1	p f a ff
+061/143	pfaff	1	p f a ff
+061/145	faff	1	f a ff
+061/147	faff	1	f a ff
+061/149	faff	1	f a ff
+061/151	pfaff	1	p f a ff
+061/153	faff	1	f a ff
+061/155	faff	1	f a ff
+061/157	faff	1	f a ff
+061/159	faff	1	f a ff
+061/161	faff	1	f a ff
+061/165	fäff	1	f ä ff
+062/021	peff	1	p e ff
+062/023	päff	1	p ä ff
+062/025	päf	1	p ä f
+062/027	peff	1	p e ff
+062/029	peff	1	p e ff
+062/031	peff	1	p e ff
+062/033	päff	1	p ä ff
+062/035	peff	1	p e ff
+062/037	peff	1	p e ff
+062/039	pfeff	1	p f e ff
+062/041	peff	1	p e ff
+062/043	peaff	1	p ea ff
+062/045	peff	1	p e ff
+062/047	peff	1	p e ff
+062/049	päiff	1	p äi ff
+062/051	peaff	1	p ea ff
+062/053	peff	1	p e ff
+062/055	peäff	1	p eä ff
+062/057	päff	1	p ä ff
+062/059	päff	1	p ä ff
+062/061	päff	1	p ä ff
+062/063	päff	1	p ä ff
+062/065	päff	1	p ä ff
+062/067	päff	1	p ä ff
+062/069	pfeff	1	p f e ff
+062/071	pfäff	1	p f ä ff
+062/073	pfäff	1	p f ä ff
+062/075	feff	1	f e ff
+062/077	pfaff	1	p f a ff
+062/079	faff	1	f a ff
+062/081	pfoff	1	p f o ff
+062/083	faff	1	f a ff
+062/085	faff	1	f a ff
+062/087	faff	1	f a ff
+062/089	faff	1	f a ff
+062/091	pfaff	1	p f a ff
+062/093	pfaff	1	p f a ff
+062/095	pfaff	1	p f a ff
+062/097	pfäff	1	p f ä ff
+062/099	pfääff	1	p f ää ff
+062/101	pfaff	1	p f a ff
+062/103	pfaff	1	p f a ff
+062/105	pfaff	1	p f a ff
+062/107	pfaff	1	p f a ff
+062/109	pfaff	1	p f a ff
+062/111	pfaff	1	p f a ff
+062/113	pfaff	1	p f a ff
+062/115	pfaff	1	p f a ff
+062/117	pfaff	1	p f a ff
+062/119	pfaff	1	p f a ff
+062/121	pfaff	1	p f a ff
+062/123	pfaff	1	p f a ff
+062/125	pfaff	1	p f a ff
+062/127	pfaff	1	p f a ff
+062/129	pfaff	1	p f a ff
+062/131	pfaff	1	p f a ff
+062/133	pfaff	1	p f a ff
+062/135	pfaff	1	p f a ff
+062/137	pfaff	1	p f a ff
+062/139	pfaff	1	p f a ff
+062/141	faff	1	f a ff
+062/143	pfaff	1	p f a ff
+062/145	pfaff	1	p f a ff
+062/147	faff	1	f a ff
+062/149	faff	1	f a ff
+062/151	faff	1	f a ff
+062/153	pfaff	1	p f a ff
+062/155	faff	1	f a ff
+062/157	pfaff	1	p f a ff
+062/159	faff	1	f a ff
+062/161	pfaff	1	p f a ff
+063/021	peif	1	p ei f
+063/023	pähf	1	p äh f
+063/025	päff	1	p ä ff
+063/027	pef	1	p e f
+063/029	päff	1	p ä ff
+063/031	peff	1	p e ff
+063/033	päef	1	p äe f
+063/035	päf	1	p ä f
+063/037	bäf	1	b ä f
+063/039	pääff	1	p ää ff
+063/041	peff	1	p e ff
+063/043	päf	1	p ä f
+063/045	peff	1	p e ff
+063/047	peff	1	p e ff
+063/049	peff	1	p e ff
+063/051	peaff	1	p ea ff
+063/053	peff	1	p e ff
+063/055	päaff	1	p äa ff
+063/057	perf	1	p e r f
+063/059	päff	1	p ä ff
+063/061	päff	1	p ä ff
+063/063	päff	1	p ä ff
+063/065	peff	1	p e ff
+063/067	pfäff	1	p f ä ff
+063/069	pfäff	1	p f ä ff
+063/071	pfäff	1	p f ä ff
+063/073	pfäff	1	p f ä ff
+063/075	pfeff	1	p f e ff
+063/077	pfeff	1	p f e ff
+063/079	faff	1	f a ff
+063/081	faff	1	f a ff
+063/083	pfaff	1	p f a ff
+063/085	faff	1	f a ff
+063/087	pfaff	1	p f a ff
+063/089	pfaff	1	p f a ff
+063/091	pfaaff	1	p f aa ff
+063/093	pfaff	1	p f a ff
+063/095	pfaff	1	p f a ff
+063/097	pfaff	1	p f a ff
+063/099	pfäff	1	p f ä ff
+063/101	pfaff	1	p f a ff
+063/103	pfaff	1	p f a ff
+063/105	pfaff	1	p f a ff
+063/107	pfaff	1	p f a ff
+063/109	pfaff	1	p f a ff
+063/111	pfaff	1	p f a ff
+063/113	pfaff	1	p f a ff
+063/115	pfaff	1	p f a ff
+063/117	pfaff	1	p f a ff
+063/119	pfaff	1	p f a ff
+063/121	faff	1	f a ff
+063/123	pfaff	1	p f a ff
+063/125	pfaff	1	p f a ff
+063/127	pfaff	1	p f a ff
+063/135	pfaff	1	p f a ff
+063/137	pfaff	1	p f a ff
+063/139	pfaff	1	p f a ff
+063/141	pfaff	1	p f a ff
+063/143	pfaff	1	p f a ff
+063/145	pfaff	1	p f a ff
+063/147	faff	1	f a ff
+063/149	faff	1	f a ff
+063/151	faff	1	f a ff
+063/153	pfaff	1	p f a ff
+063/155	faff	1	f a ff
+063/157	faff	1	f a ff
+063/159	pfaff	1	p f a ff
+063/161	pfaff	1	p f a ff
+063/163	pfeff	1	p f e ff
+063/165	pfaff	1	p f a ff
+064/023	päff	1	p ä ff
+064/025	peif	1	p ei f
+064/027	päff	1	p ä ff
+064/029	peff	1	p e ff
+064/031	päv	1	p ä v
+064/033	pef	1	p e f
+064/035	päf	1	p ä f
+064/037	päf	1	p ä f
+064/039	päff	1	p ä ff
+064/041	päff	1	p ä ff
+064/043	päf	1	p ä f
+064/045	päf	1	p ä f
+064/047	poff	1	p o ff
+064/049	perf	1	p e r f
+064/051	päeff	1	p äe ff
+064/053	peaff	1	p ea ff
+064/055	peaff	1	p ea ff
+064/057	peaff	1	p ea ff
+064/059	päff	1	p ä ff
+064/061	päff	1	p ä ff
+064/063	päff	1	p ä ff
+064/065	poff	1	p o ff
+064/067	pfeff	1	p f e ff
+064/069	pfaäff	1	p f aä ff
+064/071	pfeff	1	p f e ff
+064/073	pfeff	1	p f e ff
+064/075	pfeff	1	p f e ff
+064/077	pfeff	1	p f e ff
+064/079	pfaff	1	p f a ff
+064/081	faff	1	f a ff
+064/083	pfaff	1	p f a ff
+064/085	pfaff	1	p f a ff
+064/087	pfaaff	1	p f aa ff
+064/089	pfaff	1	p f a ff
+064/091	pfeff	1	p f e ff
+064/093	pfaff	1	p f a ff
+064/095	pfeff	1	p f e ff
+064/097	pfeff	1	p f e ff
+064/099	pfaff	1	p f a ff
+064/101	pfaff	1	p f a ff
+064/103	pfaaff	1	p f aa ff
+064/105	pfaff	1	p f a ff
+064/107	pfaff	1	p f a ff
+064/109	pfaff	1	p f a ff
+064/111	pfaff	1	p f a ff
+064/113	faff	1	f a ff
+064/115	faff	1	f a ff
+064/117	pfaff	1	p f a ff
+064/119	faff	1	f a ff
+064/121	pfaff	1	p f a ff
+064/123	pfaff	1	p f a ff
+064/125	pfaff	1	p f a ff
+064/127	pfaff	1	p f a ff
+064/135	pfaff	1	p f a ff
+064/137	pfaff	1	p f a ff
+064/139	pfaff	1	p f a ff
+064/141	pfaff	1	p f a ff
+064/143	pfaff	1	p f a ff
+064/145	pfaff	1	p f a ff
+064/147	pfaff	1	p f a ff
+064/149	faff	1	f a ff
+064/151	pfaff	1	p f a ff
+064/153	faff	1	f a ff
+064/155	faff	1	f a ff
+064/157	faff	1	f a ff
+064/159	pfaff	1	p f a ff
+065/021	peff	1	p e ff
+065/023	päff	1	p ä ff
+065/025	peff	1	p e ff
+065/027	päff	1	p ä ff
+065/029	peff	1	p e ff
+065/031	pef	1	p e f
+065/033	päf	1	p ä f
+065/035	peef	1	p ee f
+065/037	peff	1	p e ff
+065/039	peff	1	p e ff
+065/041	päf	1	p ä f
+065/043	päf	1	p ä f
+065/045	piähf	1	p iäh f
+065/047	päff	1	p ä ff
+065/049	päff	1	p ä ff
+065/051	päff	1	p ä ff
+065/053	päff	1	p ä ff
+065/055	peaff	1	p ea ff
+065/057	peaff	1	p ea ff
+065/059	päaff	1	p äa ff
+065/061	päff	1	p ä ff
+065/063	päff	1	p ä ff
+065/065	päff	1	p ä ff
+065/067	pfäff	1	p f ä ff
+065/069	pfäff	1	p f ä ff
+065/071	pfäff	1	p f ä ff
+065/073	pfäff	1	p f ä ff
+065/075	pfeff	1	p f e ff
+065/077	pfeff	1	p f e ff
+065/079	pfaff	1	p f a ff
+065/081	pfäff	1	p f ä ff
+065/083	pfaff	1	p f a ff
+065/085	pfaff	1	p f a ff
+065/087	pfoff	1	p f o ff
+065/089	pfaff	1	p f a ff
+065/091	pfeff	1	p f e ff
+065/093	pfeff	1	p f e ff
+065/095	pfeff	1	p f e ff
+065/097	pfäf	1	p f ä f
+065/101	pfaff	1	p f a ff
+065/103	pfaff	1	p f a ff
+065/105	pfaff	1	p f a ff
+065/107	pfaff	1	p f a ff
+065/109	pfaff	1	p f a ff
+065/111	pfeff	1	p f e ff
+065/113	pfaff	1	p f a ff
+065/115	faff	1	f a ff
+065/121	pfaff	1	p f a ff
+065/123	pfaff	1	p f a ff
+065/137	pfaff	1	p f a ff
+065/139	pfaff	1	p f a ff
+065/143	pfaff	1	p f a ff
+065/145	pfaff	1	p f a ff
+065/147	pfaff	1	p f a ff
+065/149	faff	1	f a ff
+065/151	pfaff	1	p f a ff
+065/153	faff	1	f a ff
+065/155	faff	1	f a ff
+065/157	fäff	1	f ä ff
+065/159	pfaff	1	p f a ff
+066/021	pähf	1	p äh f
+066/023	päf	1	p ä f
+066/025	päf	1	p ä f
+066/027	peff	1	p e ff
+066/029	päf	1	p ä f
+066/031	päf	1	p ä f
+066/033	paf	1	p a f
+066/035	päerf	1	p äe r f
+066/037	pöff	1	p ö ff
+066/039	peff	1	p e ff
+066/041	päff	1	p ä ff
+066/043	peff	1	p e ff
+066/045	peff	1	p e ff
+066/047	peff	1	p e ff
+066/049	peff	1	p e ff
+066/051	pearff	1	p ea r ff
+066/053	püeff	1	p üe ff
+066/055	peaff	1	p ea ff
+066/057	päff	1	p ä ff
+066/059	peff	1	p e ff
+066/061	peff	1	p e ff
+066/063	peff	1	p e ff
+066/065	päff	1	p ä ff
+066/067	pöff	1	p ö ff
+066/069	pfäff	1	p f ä ff
+066/071	pföff	1	p f ö ff
+066/073	pföff	1	p f ö ff
+066/075	pföff	1	p f ö ff
+066/077	pfeeff	1	p f ee ff
+066/079	pfäff	1	p f ä ff
+066/081	pfaff	1	p f a ff
+066/083	pfaff	1	p f a ff
+066/085	pfeff	1	p f e ff
+066/087	pfeff	1	p f e ff
+066/089	feff	1	f e ff
+066/091	pfeff	1	p f e ff
+066/093	pfeff	1	p f e ff
+066/095	pfeff	1	p f e ff
+066/097	pfäff	1	p f ä ff
+066/099	pfaff	1	p f a ff
+066/101	pfaff	1	p f a ff
+066/103	pfaff	1	p f a ff
+066/105	pfaff	1	p f a ff
+066/107	pfeff	1	p f e ff
+066/109	pfeff	1	p f e ff
+066/111	pfeff	1	p f e ff
+066/113	pfeff	1	p f e ff
+066/121	pfaff	1	p f a ff
+066/139	pfaff	1	p f a ff
+066/143	pfaff	1	p f a ff
+066/145	pfaff	1	p f a ff
+066/147	pfaff	1	p f a ff
+066/149	pfaff	1	p f a ff
+066/151	pfaff	1	p f a ff
+066/153	faf	1	f a f
+066/155	faff	1	f a ff
+066/157	faff	1	f a ff
+066/159	faff	1	f a ff
+066/161	faff	1	f a ff
+066/163	feff	1	f e ff
+067/021	peff	1	p e ff
+067/023	pähf	1	p äh f
+067/025	peff	1	p e ff
+067/027	peff	1	p e ff
+067/029	päf	1	p ä f
+067/031	peff	1	p e ff
+067/033	perf	1	p e r f
+067/035	pääf	1	p ää f
+067/037	päff	1	p ä ff
+067/039	peff	1	p e ff
+067/041	peff	1	p e ff
+067/043	peff	1	p e ff
+067/045	päff	1	p ä ff
+067/047	peff	1	p e ff
+067/049	peff	1	p e ff
+067/051	perf	1	p e r f
+067/053	peaff	1	p ea ff
+067/055	päff	1	p ä ff
+067/057	peaff	1	p ea ff
+067/059	päff	1	p ä ff
+067/061	päff	1	p ä ff
+067/063	peff	1	p e ff
+067/065	peff	1	p e ff
+067/067	pföff	1	p f ö ff
+067/069	pföff	1	p f ö ff
+067/071	pföff	1	p f ö ff
+067/073	pföff	1	p f ö ff
+067/075	pföff	1	p f ö ff
+067/077	pfaff	1	p f a ff
+067/079	pfaff	1	p f a ff
+067/081	pfäff	1	p f ä ff
+067/083	pfaff	1	p f a ff
+067/085	pfeff	1	p f e ff
+067/087	pfeff	1	p f e ff
+067/089	pfeff	1	p f e ff
+067/091	pfäff	1	p f ä ff
+067/093	pfeff	1	p f e ff
+067/095	pfeff	1	p f e ff
+067/097	pfeff	1	p f e ff
+067/099	pfeff	1	p f e ff
+067/101	pfäff	1	p f ä ff
+067/103	pfäff	1	p f ä ff
+067/105	pfeff	1	p f e ff
+067/107	pfeff	1	p f e ff
+067/109	pfeff	1	p f e ff
+067/111	pfeff	1	p f e ff
+067/113	pfeff	1	p f e ff
+067/143	pfaff	1	p f a ff
+067/145	pfaff	1	p f a ff
+067/147	pfaff	1	p f a ff
+067/149	pfaff	1	p f a ff
+067/151	pfaff	1	p f a ff
+067/153	pfaff	1	p f a ff
+067/155	pfaff	1	p f a ff
+067/157	pfaff	1	p f a ff
+067/159	faff	1	f a ff
+067/161	faff	1	f a ff
+067/163	faff	1	f a ff
+067/165	faff	1	f a ff
+067/177	pfaff	1	p f a ff
+068/021	päf	1	p ä f
+068/023	peff	1	p e ff
+068/025	pehf	1	p eh f
+068/027	peif	1	p ei f
+068/029	päf	1	p ä f
+068/031	päf	1	p ä f
+068/033	päerf	1	p äe r f
+068/035	paäef	1	p aäe f
+068/037	peff	1	p e ff
+068/039	peff	1	p e ff
+068/041	peff	1	p e ff
+068/043	peff	1	p e ff
+068/045	peff	1	p e ff
+068/047	päff	1	p ä ff
+068/049	peff	1	p e ff
+068/051	päaff	1	p äa ff
+068/053	peff	1	p e ff
+068/055	päaff	1	p äa ff
+068/057	peaff	1	p ea ff
+068/059	peff	1	p e ff
+068/061	pöff	1	p ö ff
+068/063	pföff	1	p f ö ff
+068/065	pfeff	1	p f e ff
+068/067	pfäff	1	p f ä ff
+068/069	pföff	1	p f ö ff
+068/071	pföff	1	p f ö ff
+068/073	pföff	1	p f ö ff
+068/075	pfaff	1	p f a ff
+068/077	pfaff	1	p f a ff
+068/079	pfaff	1	p f a ff
+068/081	pfaff	1	p f a ff
+068/083	pfäff	1	p f ä ff
+068/085	pfäff	1	p f ä ff
+068/087	pfeff	1	p f e ff
+068/089	pfäff	1	p f ä ff
+068/091	pfäff	1	p f ä ff
+068/093	NA	NA	-
+068/095	pfäff	1	p f ä ff
+068/097	pfäf	1	p f ä f
+068/099	pfeff	1	p f e ff
+068/101	pfäff	1	p f ä ff
+068/103	pfeff	1	p f e ff
+068/105	pfeff	1	p f e ff
+068/107	pfeff	1	p f e ff
+068/109	pfeff	1	p f e ff
+068/111	pfeff	1	p f e ff
+068/145	pfaff	1	p f a ff
+068/147	pfaff	1	p f a ff
+068/149	faff	1	f a ff
+068/151	pfaff	1	p f a ff
+068/153	pfaff	1	p f a ff
+068/155	pfaff	1	p f a ff
+068/157	pfaff	1	p f a ff
+068/159	faff	1	f a ff
+068/161	faff	1	f a ff
+068/165	feff	1	f e ff
+069/019	peff	1	p e ff
+069/023	peff	1	p e ff
+069/025	päf	1	p ä f
+069/027	pef	1	p e f
+069/029	päf	1	p ä f
+069/031	pähf	1	p äh f
+069/033	peäf	1	p eä f
+069/035	pähf	1	p äh f
+069/037	peff	1	p e ff
+069/039	peff	1	p e ff
+069/041	peff	1	p e ff
+069/043	peff	1	p e ff
+069/045	peff	1	p e ff
+069/047	peff	1	p e ff
+069/049	päff	1	p ä ff
+069/051	peff	1	p e ff
+069/053	peff	1	p e ff
+069/055	peff	1	p e ff
+069/057	pheff	1	p h e ff
+069/059	peff	1	p e ff
+069/061	peff	1	p e ff
+069/063	päff	1	p ä ff
+069/065	pföff	1	p f ö ff
+069/067	pföff	1	p f ö ff
+069/069	pföff	1	p f ö ff
+069/071	pföff	1	p f ö ff
+069/073	pföff	1	p f ö ff
+069/075	pfaff	1	p f a ff
+069/077	pfaff	1	p f a ff
+069/079	pfäff	1	p f ä ff
+069/081	pfeff	1	p f e ff
+069/083	pfeff	1	p f e ff
+069/085	pfeff	1	p f e ff
+069/087	pfäff	1	p f ä ff
+069/089	pfeff	1	p f e ff
+069/091	pfeff	1	p f e ff
+069/093	pfeff	1	p f e ff
+069/095	pfeff	1	p f e ff
+069/097	pfeff	1	p f e ff
+069/099	pfeff	1	p f e ff
+069/101	pfeff	1	p f e ff
+069/103	pfeff	1	p f e ff
+069/105	pfeff	1	p f e ff
+069/107	pfeff	1	p f e ff
+069/109	pfeff	1	p f e ff
+069/111	pfeff	1	p f e ff
+069/147	pfaff	1	p f a ff
+069/149	pfaff	1	p f a ff
+069/151	pfaff	1	p f a ff
+069/153	pfaff	1	p f a ff
+069/157	pfaff	1	p f a ff
+069/159	faff	1	f a ff
+069/161	faf	1	f a f
+069/163	faff	1	f a ff
+069/165	pfaff	1	p f a ff
+070/019	peff	1	p e ff
+070/023	pfäf	1	p f ä f
+070/025	pähf	1	p äh f
+070/027	päf	1	p ä f
+070/029	pef	1	p e f
+070/031	pef	1	p e f
+070/033	peff	1	p e ff
+070/035	peff	1	p e ff
+070/037	peff	1	p e ff
+070/039	peff	1	p e ff
+070/041	peff	1	p e ff
+070/043	peff	1	p e ff
+070/045	peff	1	p e ff
+070/047	peff	1	p e ff
+070/049	peff	1	p e ff
+070/051	peff	1	p e ff
+070/053	peff	1	p e ff
+070/055	peff	1	p e ff
+070/057	peff	1	p e ff
+070/059	peff	1	p e ff
+070/061	peff	1	p e ff
+070/063	pföff	1	p f ö ff
+070/065	pfäff	1	p f ä ff
+070/067	pfaff	1	p f a ff
+070/069	pfaff	1	p f a ff
+070/071	pfaff	1	p f a ff
+070/073	pfaff	1	p f a ff
+070/075	pfaaff	1	p f aa ff
+070/077	pfäff	1	p f ä ff
+070/079	pfeff	1	p f e ff
+070/081	pfeff	1	p f e ff
+070/083	pfeff	1	p f e ff
+070/085	pfäff	1	p f ä ff
+070/087	pfäff	1	p f ä ff
+070/089	pfeff	1	p f e ff
+070/091	pfeff	1	p f e ff
+070/093	pfäff	1	p f ä ff
+070/095	pfeff	1	p f e ff
+070/097	pfäff	1	p f ä ff
+070/099	pfäff	1	p f ä ff
+070/101	pfeff	1	p f e ff
+070/103	pfeff	1	p f e ff
+070/105	pfäf	1	p f ä f
+070/107	pfeff	1	p f e ff
+070/109	pfeff	1	p f e ff
+070/111	pfeff	1	p f e ff
+070/145	pfaff	1	p f a ff
+070/147	pfaff	1	p f a ff
+070/149	pfaff	1	p f a ff
+070/151	pfaff	1	p f a ff
+070/153	pfaff	1	p f a ff
+070/155	pfaf	1	p f a f
+070/157	pfaff	1	p f a ff
+070/159	faff	1	f a ff
+070/161	faff	1	f a ff
+070/163	faff	1	f a ff
+070/165	faff	1	f a ff
+071/017	peef	1	p ee f
+071/019	pef	1	p e f
+071/021	peff	1	p e ff
+071/023	päv	1	p ä v
+071/025	päf	1	p ä f
+071/027	peef	1	p ee f
+071/029	päf	1	p ä f
+071/031	peaf	1	p ea f
+071/033	pääf	1	p ää f
+071/035	peff	1	p e ff
+071/037	peff	1	p e ff
+071/039	peff	1	p e ff
+071/041	peff	1	p e ff
+071/043	peff	1	p e ff
+071/045	peff	1	p e ff
+071/047	peff	1	p e ff
+071/049	peff	1	p e ff
+071/051	peff	1	p e ff
+071/053	päff	1	p ä ff
+071/055	peff	1	p e ff
+071/057	peff	1	p e ff
+071/059	peff	1	p e ff
+071/063	paff	1	p a ff
+071/065	pfaff	1	p f a ff
+071/067	pfeff	1	p f e ff
+071/069	pfaff	1	p f a ff
+071/071	pfaff	1	p f a ff
+071/073	pfaff	1	p f a ff
+071/075	pfaff	1	p f a ff
+071/077	pfaff	1	p f a ff
+071/079	pfeff	1	p f e ff
+071/081	pfäff	1	p f ä ff
+071/083	pfäff	1	p f ä ff
+071/085	pfeff	1	p f e ff
+071/087	pfeff	1	p f e ff
+071/089	pfeff	1	p f e ff
+071/091	pfeff	1	p f e ff
+071/093	pfeff	1	p f e ff
+071/095	pfeff	1	p f e ff
+071/097	pfeff	1	p f e ff
+071/099	pfeff	1	p f e ff
+071/101	pfef	1	p f e f
+071/103	pfeff	1	p f e ff
+071/105	pfef	1	p f e f
+071/145	pfaff	1	p f a ff
+071/147	pfaff	1	p f a ff
+071/149	pfaff	1	p f a ff
+071/151	pfeff	1	p f e ff
+071/153	pfaff	1	p f a ff
+071/155	pfaff	1	p f a ff
+071/157	pfaff	1	p f a ff
+071/159	faff	1	f a ff
+071/161	faff	1	f a ff
+071/163	feff	1	f e ff
+071/177	wirz	1	w i r z
+071/179	pfeff	1	p f e ff
+072/017	peff	1	p e ff
+072/019	peff	1	p e ff
+072/021	peff	1	p e ff
+072/023	päff	1	p ä ff
+072/025	päf	1	p ä f
+072/027	peaf	1	p ea f
+072/029	pef	1	p e f
+072/031	peaf	1	p ea f
+072/033	peff	1	p e ff
+072/035	peff	1	p e ff
+072/037	peff	1	p e ff
+072/039	peff	1	p e ff
+072/041	peff	1	p e ff
+072/043	peff	1	p e ff
+072/045	peff	1	p e ff
+072/047	peff	1	p e ff
+072/049	peff	1	p e ff
+072/051	peff	1	p e ff
+072/053	päff	1	p ä ff
+072/055	peff	1	p e ff
+072/057	peff	1	p e ff
+072/059	peff	1	p e ff
+072/061	pfäff	1	p f ä ff
+072/063	pfaff	1	p f a ff
+072/065	pfaff	1	p f a ff
+072/067	pfaff	1	p f a ff
+072/069	pfaff	1	p f a ff
+072/071	pfaff	1	p f a ff
+072/073	pfaff	1	p f a ff
+072/075	pfaff	1	p f a ff
+072/077	pfeff	1	p f e ff
+072/079	pfäff	1	p f ä ff
+072/081	pfäff	1	p f ä ff
+072/083	pfeff	1	p f e ff
+072/085	pfeff	1	p f e ff
+072/087	pfeff	1	p f e ff
+072/089	pfeff	1	p f e ff
+072/091	pfeff	1	p f e ff
+072/093	pfeff	1	p f e ff
+072/095	pfeff	1	p f e ff
+072/097	pfäff	1	p f ä ff
+072/099	pfeff	1	p f e ff
+072/101	pfeff	1	p f e ff
+072/103	pfeff	1	p f e ff
+072/105	pfeff	1	p f e ff
+072/107	pfeff	1	p f e ff
+072/145	pfaff	1	p f a ff
+072/147	pfaff	1	p f a ff
+072/149	pfäff	1	p f ä ff
+072/151	pfeff	1	p f e ff
+072/153	pfaff	1	p f a ff
+072/155	pfaff	1	p f a ff
+072/157	pfaff	1	p f a ff
+072/159	faff	1	f a ff
+072/161	faff	1	f a ff
+072/177	faff	1	f a ff
+072/179	pfeff	1	p f e ff
+072/181	pfeff	1	p f e ff
+073/017	peff	1	p e ff
+073/019	peff	1	p e ff
+073/021	peff	1	p e ff
+073/023	peff	1	p e ff
+073/025	peef	1	p ee f
+073/027	peff	1	p e ff
+073/029	peaf	1	p ea f
+073/031	päaff	1	p äa ff
+073/033	peff	1	p e ff
+073/035	peff	1	p e ff
+073/037	peff	1	p e ff
+073/039	peff	1	p e ff
+073/041	päff	1	p ä ff
+073/043	peff	1	p e ff
+073/045	peff	1	p e ff
+073/047	peff	1	p e ff
+073/049	peff	1	p e ff
+073/051	peff	1	p e ff
+073/053	peff	1	p e ff
+073/055	peff	1	p e ff
+073/057	päff	1	p ä ff
+073/059	peff	1	p e ff
+073/061	peff	1	p e ff
+073/063	pfaff	1	p f a ff
+073/065	pfaff	1	p f a ff
+073/067	pfaff	1	p f a ff
+073/069	pfaff	1	p f a ff
+073/071	pfaff	1	p f a ff
+073/073	pfaff	1	p f a ff
+073/075	pfäff	1	p f ä ff
+073/077	pfeff	1	p f e ff
+073/079	pfeeff	1	p f ee ff
+073/081	pfeff	1	p f e ff
+073/083	pfeff	1	p f e ff
+073/085	pfeff	1	p f e ff
+073/087	pfeff	1	p f e ff
+073/089	pfeff	1	p f e ff
+073/091	pfeff	1	p f e ff
+073/093	pfeff	1	p f e ff
+073/095	pfeff	1	p f e ff
+073/097	pfäf	1	p f ä f
+073/099	pfoff	1	p f o ff
+073/101	pfeff	1	p f e ff
+073/103	pfeff	1	p f e ff
+073/105	pfeff	1	p f e ff
+073/107	pfäff	1	p f ä ff
+073/145	pfaff	1	p f a ff
+073/147	pfaff	1	p f a ff
+073/149	pfäff	1	p f ä ff
+073/151	fäff	1	f ä ff
+073/153	pfeff	1	p f e ff
+073/155	pfaff	1	p f a ff
+073/157	pfaff	1	p f a ff
+073/159	pfaff	1	p f a ff
+073/161	faff	1	f a ff
+073/163	pfaff	1	p f a ff
+073/165	faff	1	f a ff
+073/175	pfaff	1	p f a ff
+073/177	faff	1	f a ff
+074/019	peff	1	p e ff
+074/021	peff	1	p e ff
+074/023	peff	1	p e ff
+074/025	pef	1	p e f
+074/027	poef	1	p oe f
+074/029	päf	1	p ä f
+074/031	peeaf	1	p eea f
+074/033	peff	1	p e ff
+074/035	peff	1	p e ff
+074/037	peff	1	p e ff
+074/039	peff	1	p e ff
+074/041	päff	1	p ä ff
+074/043	peff	1	p e ff
+074/045	peff	1	p e ff
+074/047	päff	1	p ä ff
+074/049	päff	1	p ä ff
+074/051	peff	1	p e ff
+074/053	peff	1	p e ff
+074/055	peff	1	p e ff
+074/057	peff	1	p e ff
+074/059	peff	1	p e ff
+074/061	pfeff	1	p f e ff
+074/063	pfeff	1	p f e ff
+074/065	pfaff	1	p f a ff
+074/067	pfaff	1	p f a ff
+074/069	pfaff	1	p f a ff
+074/071	pfaff	1	p f a ff
+074/073	pfeff	1	p f e ff
+074/075	pfeff	1	p f e ff
+074/077	pfäff	1	p f ä ff
+074/079	pfäff	1	p f ä ff
+074/081	pfäff	1	p f ä ff
+074/083	pfeff	1	p f e ff
+074/085	pfeff	1	p f e ff
+074/087	pfäff	1	p f ä ff
+074/089	pfeff	1	p f e ff
+074/091	pfeff	1	p f e ff
+074/093	pfäff	1	p f ä ff
+074/095	pfeff	1	p f e ff
+074/097	pfeeff	1	p f ee ff
+074/099	pfäff	1	p f ä ff
+074/101	pfäf	1	p f ä f
+074/103	pfeff	1	p f e ff
+074/105	pfeff	1	p f e ff
+074/107	pfeff	1	p f e ff
+074/109	pfeff	1	p f e ff
+074/145	pfaff	1	p f a ff
+074/147	pfäff	1	p f ä ff
+074/149	pfäff	1	p f ä ff
+074/153	feff	1	f e ff
+074/155	pfeff	1	p f e ff
+074/157	pfaff	1	p f a ff
+074/159	pfaff	1	p f a ff
+074/161	faff	1	f a ff
+074/163	faff	1	f a ff
+074/165	faff	1	f a ff
+075/019	peff	1	p e ff
+075/021	peff	1	p e ff
+075/023	peff	1	p e ff
+075/025	peef	1	p ee f
+075/027	päif	1	p äi f
+075/029	peaf	1	p ea f
+075/031	pääf	1	p ää f
+075/033	peff	1	p e ff
+075/035	peff	1	p e ff
+075/037	peff	1	p e ff
+075/039	peff	1	p e ff
+075/041	päff	1	p ä ff
+075/043	peff	1	p e ff
+075/045	peff	1	p e ff
+075/047	peff	1	p e ff
+075/049	peff	1	p e ff
+075/051	peff	1	p e ff
+075/053	peff	1	p e ff
+075/055	peff	1	p e ff
+075/057	peff	1	p e ff
+075/059	peff	1	p e ff
+075/061	pfeff	1	p f e ff
+075/063	pfeff	1	p f e ff
+075/065	pfeff	1	p f e ff
+075/067	pfaff	1	p f a ff
+075/069	pfaff	1	p f a ff
+075/071	pfaff	1	p f a ff
+075/073	pfeff	1	p f e ff
+075/075	pfeff	1	p f e ff
+075/077	pfeff	1	p f e ff
+075/079	pfeff	1	p f e ff
+075/081	pfeff	1	p f e ff
+075/083	pfeff	1	p f e ff
+075/085	pfeff	1	p f e ff
+075/087	pfäff	1	p f ä ff
+075/089	pfäff	1	p f ä ff
+075/091	pfeff	1	p f e ff
+075/093	pfeff	1	p f e ff
+075/095	pfeff	1	p f e ff
+075/097	pfeff	1	p f e ff
+075/099	pfeff	1	p f e ff
+075/101	pfeff	1	p f e ff
+075/103	pfeff	1	p f e ff
+075/105	pfeff	1	p f e ff
+075/107	pfeff	1	p f e ff
+075/135	fejf	1	f e j f
+075/145	pfaff	1	p f a ff
+075/147	pfaff	1	p f a ff
+075/149	pfeff	1	p f e ff
+075/155	feff	1	f e ff
+075/157	pfeff	1	p f e ff
+075/159	pfaff	1	p f a ff
+075/161	faff	1	f a ff
+075/163	faff	1	f a ff
+075/165	fäff	1	f ä ff
+076/019	peff	1	p e ff
+076/021	peff	1	p e ff
+076/023	peff	1	p e ff
+076/025	peff	1	p e ff
+076/027	paäf	1	p aä f
+076/029	pef	1	p e f
+076/033	päff	1	p ä ff
+076/035	peff	1	p e ff
+076/037	peff	1	p e ff
+076/039	peff	1	p e ff
+076/041	peff	1	p e ff
+076/043	päff	1	p ä ff
+076/045	peff	1	p e ff
+076/047	päff	1	p ä ff
+076/049	peff	1	p e ff
+076/051	peff	1	p e ff
+076/053	peff	1	p e ff
+076/055	peff	1	p e ff
+076/057	peff	1	p e ff
+076/059	peff	1	p e ff
+076/061	peff	1	p e ff
+076/063	pfeff	1	p f e ff
+076/065	pfeff	1	p f e ff
+076/067	pfeff	1	p f e ff
+076/069	pfaff	1	p f a ff
+076/071	pfeff	1	p f e ff
+076/073	pfeff	1	p f e ff
+076/075	pfeff	1	p f e ff
+076/077	pfeff	1	p f e ff
+076/079	pfeff	1	p f e ff
+076/081	NA	NA	-
+076/083	pfeff	1	p f e ff
+076/085	pfeff	1	p f e ff
+076/087	pfeff	1	p f e ff
+076/089	pfeff	1	p f e ff
+076/091	pfäff	1	p f ä ff
+076/093	pfeff	1	p f e ff
+076/095	pfef	1	p f e f
+076/097	pfeff	1	p f e ff
+076/099	pfeff	1	p f e ff
+076/101	pfeff	1	p f e ff
+076/103	pfeff	1	p f e ff
+076/135	gfeff	1	g f e ff
+076/137	kfäff	1	k f ä ff
+076/149	faff	1	f a ff
+076/151	faf	1	f a f
+076/155	feff	1	f e ff
+076/161	faff	1	f a ff
+076/163	faff	1	f a ff
+076/165	faff	1	f a ff
+077/019	peff	1	p e ff
+077/021	peff	1	p e ff
+077/023	peeff	1	p ee ff
+077/025	peff	1	p e ff
+077/027	pef	1	p e f
+077/029	peff	1	p e ff
+077/031	peff	1	p e ff
+077/033	päff	1	p ä ff
+077/035	peff	1	p e ff
+077/037	peff	1	p e ff
+077/039	peff	1	p e ff
+077/041	peff	1	p e ff
+077/043	peff	1	p e ff
+077/047	peff	1	p e ff
+077/049	peff	1	p e ff
+077/051	peff	1	p e ff
+077/053	peff	1	p e ff
+077/055	peff	1	p e ff
+077/057	peff	1	p e ff
+077/059	pfeff	1	p f e ff
+077/061	pfeff	1	p f e ff
+077/063	pfeff	1	p f e ff
+077/065	pfeff	1	p f e ff
+077/067	pfeff	1	p f e ff
+077/069	pfeff	1	p f e ff
+077/071	pfeff	1	p f e ff
+077/073	pfeff	1	p f e ff
+077/075	pfeff	1	p f e ff
+077/077	pfeff	1	p f e ff
+077/079	pfeff	1	p f e ff
+077/081	pfeff	1	p f e ff
+077/083	pfeff	1	p f e ff
+077/085	pfeff	1	p f e ff
+077/087	pfeff	1	p f e ff
+077/089	pfäff	1	p f ä ff
+077/091	pfeff	1	p f e ff
+077/093	pfäff	1	p f ä ff
+077/095	pfäff	1	p f ä ff
+077/097	pfeff	1	p f e ff
+077/099	pfäff	1	p f ä ff
+077/101	pfeff	1	p f e ff
+077/103	pfeff	1	p f e ff
+077/135	gfeff	1	g f e ff
+077/137	gfeff	1	g f e ff
+078/021	peff	1	p e ff
+078/023	peff	1	p e ff
+078/025	peff	1	p e ff
+078/027	peff	1	p e ff
+078/029	peff	1	p e ff
+078/031	peff	1	p e ff
+078/033	peff	1	p e ff
+078/035	peff	1	p e ff
+078/037	päff	1	p ä ff
+078/039	peff	1	p e ff
+078/041	peff	1	p e ff
+078/045	peff	1	p e ff
+078/047	peff	1	p e ff
+078/049	peff	1	p e ff
+078/051	peff	1	p e ff
+078/053	peff	1	p e ff
+078/055	peff	1	p e ff
+078/057	pfeff	1	p f e ff
+078/059	pfeff	1	p f e ff
+078/061	pfeff	1	p f e ff
+078/063	pfäff	1	p f ä ff
+078/065	pfeff	1	p f e ff
+078/067	pfeff	1	p f e ff
+078/069	pfeff	1	p f e ff
+078/071	pfeff	1	p f e ff
+078/073	pfäff	1	p f ä ff
+078/075	pfeff	1	p f e ff
+078/077	pfeff	1	p f e ff
+078/079	pfeff	1	p f e ff
+078/081	pfeff	1	p f e ff
+078/083	pfeff	1	p f e ff
+078/085	pfeff	1	p f e ff
+078/087	pfäff	1	p f ä ff
+078/089	pfeff	1	p f e ff
+078/091	pfeff	1	p f e ff
+078/093	pfäff	1	p f ä ff
+078/095	pfäff	1	p f ä ff
+078/097	pfäff	1	p f ä ff
+078/099	pfeff	1	p f e ff
+078/101	pfäff	1	p f ä ff
+078/103	pfäff	1	p f ä ff
+078/105	pfäf	1	p f ä f
+078/135	pfeff	1	p f e ff
+078/193	pheff	1	p h e ff
+079/021	peff	1	p e ff
+079/023	peff	1	p e ff
+079/025	peff	1	p e ff
+079/027	päff	1	p ä ff
+079/029	peff	1	p e ff
+079/031	peff	1	p e ff
+079/033	peff	1	p e ff
+079/035	pef	1	p e f
+079/037	peff	1	p e ff
+079/039	peff	1	p e ff
+079/043	peff	1	p e ff
+079/045	päff	1	p ä ff
+079/047	päff	1	p ä ff
+079/049	päff	1	p ä ff
+079/051	peff	1	p e ff
+079/053	pfeff	1	p f e ff
+079/055	pfeff	1	p f e ff
+079/057	pfeff	1	p f e ff
+079/059	pfeff	1	p f e ff
+079/061	pfeff	1	p f e ff
+079/063	pfäff	1	p f ä ff
+079/065	pfeff	1	p f e ff
+079/067	pfeff	1	p f e ff
+079/069	pfeff	1	p f e ff
+079/071	pfeff	1	p f e ff
+079/073	pfeff	1	p f e ff
+079/075	pfeff	1	p f e ff
+079/077	pfäff	1	p f ä ff
+079/079	pfeff	1	p f e ff
+079/081	pfeff	1	p f e ff
+079/083	pfeff	1	p f e ff
+079/085	pfeff	1	p f e ff
+079/087	pfeff	1	p f e ff
+079/089	pfäff	1	p f ä ff
+079/091	pfeff	1	p f e ff
+079/093	pfeff	1	p f e ff
+079/095	pfäff	1	p f ä ff
+079/097	pfäff	1	p f ä ff
+079/099	pfäff	1	p f ä ff
+079/101	pfääff	1	p f ää ff
+079/103	pfäff	1	p f ä ff
+079/105	pfäff	1	p f ä ff
+079/107	pfäff	1	p f ä ff
+079/133	pfeff	1	p f e ff
+079/135	pfeff	1	p f e ff
+079/193	faff	1	f a ff
+079/195	tfaff	1	t f a ff
+079/197	tfaff	1	t f a ff
+080/025	peff	1	p e ff
+080/027	peff	1	p e ff
+080/029	peff	1	p e ff
+080/031	peff	1	p e ff
+080/033	peff	1	p e ff
+080/035	päff	1	p ä ff
+080/037	peff	1	p e ff
+080/039	peff	1	p e ff
+080/041	peff	1	p e ff
+080/043	peff	1	p e ff
+080/045	peff	1	p e ff
+080/047	peff	1	p e ff
+080/049	pfeff	1	p f e ff
+080/051	pfeff	1	p f e ff
+080/053	pfeff	1	p f e ff
+080/055	pfeff	1	p f e ff
+080/057	pfeff	1	p f e ff
+080/059	pfäff	1	p f ä ff
+080/061	pfeeff	1	p f ee ff
+080/063	pfeff	1	p f e ff
+080/065	pfeff	1	p f e ff
+080/067	pfäff	1	p f ä ff
+080/069	pfeff	1	p f e ff
+080/071	pfeff	1	p f e ff
+080/073	pfeff	1	p f e ff
+080/075	pfeff	1	p f e ff
+080/077	pfeff	1	p f e ff
+080/079	pfeff	1	p f e ff
+080/081	pfeff	1	p f e ff
+080/083	pfäff	1	p f ä ff
+080/085	pfeff	1	p f e ff
+080/087	pfeff	1	p f e ff
+080/089	pfäff	1	p f ä ff
+080/091	pfäff	1	p f ä ff
+080/093	pfäf	1	p f ä f
+080/095	pfeff	1	p f e ff
+080/097	pfäff	1	p f ä ff
+080/099	pfäff	1	p f ä ff
+080/101	pfäff	1	p f ä ff
+080/103	pfeff	1	p f e ff
+080/105	pfäff	1	p f ä ff
+080/107	pfeff	1	p f e ff
+080/109	pfeff	1	p f e ff
+080/127	pfäiff	1	p f äi ff
+080/147	feff	1	f e ff
+080/151	fejf	1	f e j f
+080/153	pfaiff	1	p f ai ff
+080/193	pfaff	1	p f a ff
+080/195	tfaff	1	t f a ff
+081/025	peff	1	p e ff
+081/027	päff	1	p ä ff
+081/029	peff	1	p e ff
+081/031	päff	1	p ä ff
+081/033	peff	1	p e ff
+081/035	peff	1	p e ff
+081/037	päff	1	p ä ff
+081/039	peff	1	p e ff
+081/043	peff	1	p e ff
+081/045	peff	1	p e ff
+081/047	peff	1	p e ff
+081/049	pfeff	1	p f e ff
+081/051	pfeff	1	p f e ff
+081/053	pfeff	1	p f e ff
+081/055	pfeff	1	p f e ff
+081/057	pfeff	1	p f e ff
+081/059	pfäff	1	p f ä ff
+081/061	pfeff	1	p f e ff
+081/063	pfeff	1	p f e ff
+081/065	pfeff	1	p f e ff
+081/067	pfeff	1	p f e ff
+081/069	pfäff	1	p f ä ff
+081/071	pfeff	1	p f e ff
+081/073	pfeff	1	p f e ff
+081/075	pfeff	1	p f e ff
+081/077	pfeff	1	p f e ff
+081/079	pfäff	1	p f ä ff
+081/081	phefh	1	p h e f h
+081/083	pfäff	1	p f ä ff
+081/085	pfeff	1	p f e ff
+081/087	pfeff	1	p f e ff
+081/089	pfeeff	1	p f ee ff
+081/091	pfeff	1	p f e ff
+081/093	pfoff	1	p f o ff
+081/095	pfäff	1	p f ä ff
+081/097	pfäff	1	p f ä ff
+081/099	pfäff	1	p f ä ff
+081/101	pfäf	1	p f ä f
+081/103	pfäff	1	p f ä ff
+081/105	pfeff	1	p f e ff
+081/107	pfäff	1	p f ä ff
+081/109	pfeff	1	p f e ff
+081/111	pfeff	1	p f e ff
+081/127	pfeiff	1	p f ei ff
+081/129	pfäif	1	p f äi f
+081/133	pfeff	1	p f e ff
+081/147	faif	1	f ai f
+081/191	pfaff	1	p f a ff
+081/193	tfef	1	t f e f
+081/195	twaff	1	t w a ff
+082/027	feeff	1	f ee ff
+082/029	peff	1	p e ff
+082/031	peff	1	p e ff
+082/033	peff	1	p e ff
+082/035	peff	1	p e ff
+082/037	peff	1	p e ff
+082/039	päff	1	p ä ff
+082/041	pfaff	1	p f a ff
+082/043	pfeff	1	p f e ff
+082/045	peff	1	p e ff
+082/047	päff	1	p ä ff
+082/049	pfeff	1	p f e ff
+082/051	pfeff	1	p f e ff
+082/053	pfeff	1	p f e ff
+082/055	pfäff	1	p f ä ff
+082/057	pfeff	1	p f e ff
+082/059	pfeff	1	p f e ff
+082/061	pfäff	1	p f ä ff
+082/063	pfeff	1	p f e ff
+082/065	pfeff	1	p f e ff
+082/067	pfeff	1	p f e ff
+082/069	pfeff	1	p f e ff
+082/071	pfäff	1	p f ä ff
+082/073	pfeff	1	p f e ff
+082/075	pfeff	1	p f e ff
+082/077	pfeff	1	p f e ff
+082/079	pfeff	1	p f e ff
+082/081	pfeff	1	p f e ff
+082/083	pfeff	1	p f e ff
+082/085	pfeff	1	p f e ff
+082/087	pfeff	1	p f e ff
+082/089	pfäff	1	p f ä ff
+082/091	pfäff	1	p f ä ff
+082/093	pfeff	1	p f e ff
+082/095	pfäff	1	p f ä ff
+082/097	pfäff	1	p f ä ff
+082/099	pfäff	1	p f ä ff
+082/101	pfäff	1	p f ä ff
+082/103	pfeff	1	p f e ff
+082/105	pfeff	1	p f e ff
+082/107	pfäff	1	p f ä ff
+082/111	pfeff	1	p f e ff
+082/113	pfäiff	1	p f äi ff
+082/117	pfeff	1	p f e ff
+082/129	pfäif	1	p f äi f
+082/131	pfäif	1	p f äi f
+082/133	pfaiff	1	p f ai ff
+082/135	pfejf	1	p f e j f
+082/145	pfäif	1	p f äi f
+082/147	pfeff	1	p f e ff
+082/191	tfaff	1	t f a ff
+082/195	tfeff	1	t f e ff
+083/027	peff	1	p e ff
+083/029	peff	1	p e ff
+083/031	peff	1	p e ff
+083/033	päff	1	p ä ff
+083/035	päff	1	p ä ff
+083/037	peff	1	p e ff
+083/039	pfaff	1	p f a ff
+083/041	pfaff	1	p f a ff
+083/043	pfaff	1	p f a ff
+083/045	pfaff	1	p f a ff
+083/047	pfeff	1	p f e ff
+083/049	pfäff	1	p f ä ff
+083/051	pfeff	1	p f e ff
+083/053	pfeff	1	p f e ff
+083/055	pfeff	1	p f e ff
+083/057	pfäff	1	p f ä ff
+083/059	pfäff	1	p f ä ff
+083/061	pfeff	1	p f e ff
+083/063	pfeff	1	p f e ff
+083/065	pfeff	1	p f e ff
+083/067	pfeff	1	p f e ff
+083/069	pfeff	1	p f e ff
+083/071	pfeff	1	p f e ff
+083/073	pfeff	1	p f e ff
+083/075	pfeff	1	p f e ff
+083/077	pfeff	1	p f e ff
+083/079	pfeff	1	p f e ff
+083/081	pfeff	1	p f e ff
+083/083	pfeff	1	p f e ff
+083/085	pfäff	1	p f ä ff
+083/087	pfääff	1	p f ää ff
+083/089	pfeff	1	p f e ff
+083/091	pfeff	1	p f e ff
+083/093	pfäff	1	p f ä ff
+083/095	pfeff	1	p f e ff
+083/097	pfeff	1	p f e ff
+083/099	pfäff	1	p f ä ff
+083/101	pfäff	1	p f ä ff
+083/103	pfäf	1	p f ä f
+083/105	pfeff	1	p f e ff
+083/107	pfeff	1	p f e ff
+083/111	pfeff	1	p f e ff
+083/113	pfeff	1	p f e ff
+083/115	pfeff	1	p f e ff
+083/117	pfäif	1	p f äi f
+083/119	pfeif	1	p f ei f
+083/121	pfejff	1	p f e j ff
+083/129	pfeff	1	p f e ff
+083/131	pfeff	1	p f e ff
+083/133	pfeff	1	p f e ff
+083/135	pfeiff	1	p f ei ff
+083/139	pfeff	1	p f e ff
+083/143	pfäiff	1	p f äi ff
+083/145	pfeiff	1	p f ei ff
+083/147	pfeff	1	p f e ff
+083/149	pfeff	1	p f e ff
+083/173	gaschtüp	1	g a sch t ü p
+083/195	feff	1	f e ff
+084/031	peff	1	p e ff
+084/033	peff	1	p e ff
+084/035	päff	1	p ä ff
+084/037	peff	1	p e ff
+084/039	pfaff	1	p f a ff
+084/041	pfaff	1	p f a ff
+084/043	pfaff	1	p f a ff
+084/045	pfeff	1	p f e ff
+084/047	pfeff	1	p f e ff
+084/049	pfäff	1	p f ä ff
+084/051	pfeff	1	p f e ff
+084/053	pfeff	1	p f e ff
+084/055	pfeff	1	p f e ff
+084/057	pfeff	1	p f e ff
+084/059	pfeff	1	p f e ff
+084/061	pfeff	1	p f e ff
+084/063	pfeff	1	p f e ff
+084/065	pfeff	1	p f e ff
+084/067	pfeff	1	p f e ff
+084/069	pfeff	1	p f e ff
+084/071	pfeff	1	p f e ff
+084/073	pfeff	1	p f e ff
+084/075	pfeff	1	p f e ff
+084/077	pfaff	1	p f a ff
+084/079	pfeff	1	p f e ff
+084/081	pfäff	1	p f ä ff
+084/083	pfeff	1	p f e ff
+084/085	pfäf	1	p f ä f
+084/087	pfeff	1	p f e ff
+084/089	pfäff	1	p f ä ff
+084/091	pfeff	1	p f e ff
+084/093	pfeff	1	p f e ff
+084/095	pfeff	1	p f e ff
+084/097	pfäff	1	p f ä ff
+084/099	pfäff	1	p f ä ff
+084/101	pfeff	1	p f e ff
+084/103	pfeff	1	p f e ff
+084/105	pfeff	1	p f e ff
+084/107	pfeff	1	p f e ff
+084/109	pfeff	1	p f e ff
+084/111	pfeff	1	p f e ff
+084/113	pfeff	1	p f e ff
+084/115	pfejff	1	p f e j ff
+084/117	pfejf	1	p f e j f
+084/119	pfeiff	1	p f ei ff
+084/129	pfeeiff	1	p f eei ff
+084/131	pfeff	1	p f e ff
+084/133	pfef	1	p f e f
+084/135	pfeff	1	p f e ff
+084/137	pfeff	1	p f e ff
+084/139	pfeff	1	p f e ff
+084/141	pfeff	1	p f e ff
+084/143	pfeff	1	p f e ff
+084/145	pfeff	1	p f e ff
+084/147	pfeff	1	p f e ff
+084/149	pfeff	1	p f e ff
+084/171	gastäp	1	g a s t ä p
+084/173	fef	1	f e f
+084/195	fäf	1	f ä f
+085/031	peff	1	p e ff
+085/033	peff	1	p e ff
+085/035	peff	1	p e ff
+085/037	pfaff	1	p f a ff
+085/039	pfaff	1	p f a ff
+085/041	pfäff	1	p f ä ff
+085/043	pfeff	1	p f e ff
+085/045	pfaff	1	p f a ff
+085/047	pfeff	1	p f e ff
+085/049	pfäff	1	p f ä ff
+085/051	pfeff	1	p f e ff
+085/053	pfäff	1	p f ä ff
+085/055	pfeff	1	p f e ff
+085/057	pfeff	1	p f e ff
+085/059	pfeff	1	p f e ff
+085/061	pfeff	1	p f e ff
+085/063	pfeff	1	p f e ff
+085/065	pfeff	1	p f e ff
+085/067	pfäf	1	p f ä f
+085/069	pfeff	1	p f e ff
+085/071	pfaff	1	p f a ff
+085/073	pfeff	1	p f e ff
+085/075	pfeff	1	p f e ff
+085/077	pfäff	1	p f ä ff
+085/079	pfeff	1	p f e ff
+085/081	pfeff	1	p f e ff
+085/083	pfäf	1	p f ä f
+085/085	pfeff	1	p f e ff
+085/087	pfeff	1	p f e ff
+085/089	pfeff	1	p f e ff
+085/091	pfäff	1	p f ä ff
+085/093	pfäff	1	p f ä ff
+085/095	pfeff	1	p f e ff
+085/097	pfeff	1	p f e ff
+085/101	pfeff	1	p f e ff
+085/103	pfäff	1	p f ä ff
+085/105	pfeff	1	p f e ff
+085/107	pfeff	1	p f e ff
+085/109	pfeff	1	p f e ff
+085/111	pfeff	1	p f e ff
+085/113	pfeff	1	p f e ff
+085/115	pfeff	1	p f e ff
+085/117	NA	NA	-
+085/119	pfeff	1	p f e ff
+085/121	pfeef	1	p f ee f
+085/123	pfejf	1	p f e j f
+085/125	pfeiff	1	p f ei ff
+085/127	pfef	1	p f e f
+085/129	pfeff	1	p f e ff
+085/131	pfeff	1	p f e ff
+085/133	pfeff	1	p f e ff
+085/135	pfeff	1	p f e ff
+085/137	pfeff	1	p f e ff
+085/139	pfeff	1	p f e ff
+085/141	pfeff	1	p f e ff
+085/143	pfeff	1	p f e ff
+085/145	pfeff	1	p f e ff
+085/147	pfeff	1	p f e ff
+085/149	pfeff	1	p f e ff
+085/175	fef	1	f e f
+085/193	pfef	1	p f e f
+085/197	pfef	1	p f e f
+086/033	peff	1	p e ff
+086/035	pfaff	1	p f a ff
+086/037	pfäff	1	p f ä ff
+086/039	pfäff	1	p f ä ff
+086/041	pfäff	1	p f ä ff
+086/043	pfaff	1	p f a ff
+086/045	pfeff	1	p f e ff
+086/047	pfeff	1	p f e ff
+086/049	pfeff	1	p f e ff
+086/051	pfeff	1	p f e ff
+086/053	pfeff	1	p f e ff
+086/055	pfeff	1	p f e ff
+086/057	pfeff	1	p f e ff
+086/059	pfeff	1	p f e ff
+086/061	pfeff	1	p f e ff
+086/063	pfeff	1	p f e ff
+086/065	pfeff	1	p f e ff
+086/067	pfeff	1	p f e ff
+086/069	pfeff	1	p f e ff
+086/071	pfeff	1	p f e ff
+086/073	pfeff	1	p f e ff
+086/075	pfeff	1	p f e ff
+086/077	pfeff	1	p f e ff
+086/079	pfeff	1	p f e ff
+086/081	pfäff	1	p f ä ff
+086/083	peff	1	p e ff
+086/085	pfeeff	1	p f ee ff
+086/087	pfäff	1	p f ä ff
+086/089	pfeff	1	p f e ff
+086/091	pfeff	1	p f e ff
+086/093	pfeff	1	p f e ff
+086/095	pfeeff	1	p f ee ff
+086/097	pfeff	1	p f e ff
+086/099	pfäff	1	p f ä ff
+086/101	pfäff	1	p f ä ff
+086/103	pfeff	1	p f e ff
+086/105	pfeff	1	p f e ff
+086/107	pfeff	1	p f e ff
+086/109	pfeff	1	p f e ff
+086/111	pfeff	1	p f e ff
+086/113	pfeff	1	p f e ff
+086/115	pfeff	1	p f e ff
+086/117	pfäff	1	p f ä ff
+086/119	pfejff	1	p f e j ff
+086/121	pfeff	1	p f e ff
+086/123	pfeiff	1	p f ei ff
+086/125	pfäiff	1	p f äi ff
+086/127	pfeff	1	p f e ff
+086/129	pfeff	1	p f e ff
+086/131	pfeff	1	p f e ff
+086/133	pfeff	1	p f e ff
+086/135	pfeff	1	p f e ff
+086/137	pfeff	1	p f e ff
+086/139	pfeff	1	p f e ff
+086/141	pfeff	1	p f e ff
+086/143	pfeff	1	p f e ff
+086/145	pfeff	1	p f e ff
+086/147	pfeff	1	p f e ff
+086/149	pfeff	1	p f e ff
+086/151	pfeff	1	p f e ff
+086/175	fef	1	f e f
+086/197	pfeff	1	p f e ff
+086/199	fef	1	f e f
+087/033	peff	1	p e ff
+087/035	pfeff	1	p f e ff
+087/037	pfaff	1	p f a ff
+087/039	pfaf	1	p f a f
+087/041	pfeff	1	p f e ff
+087/043	pfäff	1	p f ä ff
+087/045	pfeff	1	p f e ff
+087/049	pfeff	1	p f e ff
+087/051	pfeff	1	p f e ff
+087/053	pfeff	1	p f e ff
+087/055	pfeff	1	p f e ff
+087/057	pfäff	1	p f ä ff
+087/059	pfeff	1	p f e ff
+087/061	pfeff	1	p f e ff
+087/063	pfeff	1	p f e ff
+087/065	pfeff	1	p f e ff
+087/067	pfeff	1	p f e ff
+087/069	pfeff	1	p f e ff
+087/071	pfäff	1	p f ä ff
+087/073	pfeff	1	p f e ff
+087/075	pfeff	1	p f e ff
+087/077	pfeff	1	p f e ff
+087/079	pfeff	1	p f e ff
+087/081	pfeff	1	p f e ff
+087/083	pfeff	1	p f e ff
+087/085	pfeff	1	p f e ff
+087/087	pfäff	1	p f ä ff
+087/089	pfeff	1	p f e ff
+087/091	pfäff	1	p f ä ff
+087/093	pfäff	1	p f ä ff
+087/095	pfäff	1	p f ä ff
+087/097	pfeff	1	p f e ff
+087/099	pfeff	1	p f e ff
+087/101	pfeff	1	p f e ff
+087/103	pfef	1	p f e f
+087/105	pfeff	1	p f e ff
+087/107	pfeff	1	p f e ff
+087/109	pfeff	1	p f e ff
+087/111	pfeff	1	p f e ff
+087/113	pfaff	1	p f a ff
+087/115	pföff	1	p f ö ff
+087/117	pfäif	1	p f äi f
+087/119	pfeiff	1	p f ei ff
+087/121	pfäiff	1	p f äi ff
+087/123	pfeff	1	p f e ff
+087/125	pfeff	1	p f e ff
+087/127	pfeff	1	p f e ff
+087/129	pfejf	1	p f e j f
+087/133	pfeff	1	p f e ff
+087/135	pfeff	1	p f e ff
+087/137	pfeff	1	p f e ff
+087/139	pfeff	1	p f e ff
+087/141	pfeff	1	p f e ff
+087/143	pfeff	1	p f e ff
+087/145	pfeff	1	p f e ff
+087/147	pfeff	1	p f e ff
+087/149	pfef	1	p f e f
+087/151	pfeff	1	p f e ff
+088/035	pfaff	1	p f a ff
+088/037	pfaff	1	p f a ff
+088/039	pfaff	1	p f a ff
+088/041	pfaff	1	p f a ff
+088/043	pfäff	1	p f ä ff
+088/045	pfeff	1	p f e ff
+088/047	pfäff	1	p f ä ff
+088/049	pfeff	1	p f e ff
+088/051	pfeff	1	p f e ff
+088/053	pfaff	1	p f a ff
+088/055	pfeff	1	p f e ff
+088/057	pfeff	1	p f e ff
+088/059	pfeff	1	p f e ff
+088/061	pfäff	1	p f ä ff
+088/063	pfeff	1	p f e ff
+088/065	pfeff	1	p f e ff
+088/067	pfeff	1	p f e ff
+088/069	pfeff	1	p f e ff
+088/071	pfäff	1	p f ä ff
+088/073	pfeff	1	p f e ff
+088/075	pfeff	1	p f e ff
+088/077	pfeff	1	p f e ff
+088/079	pfeff	1	p f e ff
+088/081	pfäff	1	p f ä ff
+088/083	pfeff	1	p f e ff
+088/085	pfeff	1	p f e ff
+088/087	pfaff	1	p f a ff
+088/089	pfeff	1	p f e ff
+088/091	pfeff	1	p f e ff
+088/093	pfäff	1	p f ä ff
+088/095	pfäff	1	p f ä ff
+088/097	pfeff	1	p f e ff
+088/099	pfeff	1	p f e ff
+088/101	pfeff	1	p f e ff
+088/103	pfeff	1	p f e ff
+088/105	pfef	1	p f e f
+088/107	pfeff	1	p f e ff
+088/109	pfääff	1	p f ää ff
+088/113	pföff	1	p f ö ff
+088/115	pfeff	1	p f e ff
+088/117	pfeff	1	p f e ff
+088/121	pfeiff	1	p f ei ff
+088/123	pfeff	1	p f e ff
+088/127	pfeff	1	p f e ff
+088/129	pfef	1	p f e f
+088/131	pfeff	1	p f e ff
+088/137	pfeff	1	p f e ff
+088/139	pfeff	1	p f e ff
+088/141	pfeff	1	p f e ff
+088/143	pfeff	1	p f e ff
+088/145	pfeff	1	p f e ff
+088/147	pfeff	1	p f e ff
+088/149	pfeff	1	p f e ff
+089/035	pfaff	1	p f a ff
+089/037	pfaff	1	p f a ff
+089/039	pfaff	1	p f a ff
+089/041	NA	NA	-
+089/043	pfäff	1	p f ä ff
+089/045	pfeff	1	p f e ff
+089/047	pfeff	1	p f e ff
+089/049	pfeff	1	p f e ff
+089/051	pfeff	1	p f e ff
+089/053	pfeff	1	p f e ff
+089/055	pfeff	1	p f e ff
+089/057	pfaff	1	p f a ff
+089/059	pfeff	1	p f e ff
+089/061	pfeff	1	p f e ff
+089/063	pfeaf	1	p f ea f
+089/065	pfaff	1	p f a ff
+089/067	pfeff	1	p f e ff
+089/069	pfeff	1	p f e ff
+089/071	pfeff	1	p f e ff
+089/073	pfeff	1	p f e ff
+089/075	pfeff	1	p f e ff
+089/077	pfeff	1	p f e ff
+089/079	pfeff	1	p f e ff
+089/081	pfeff	1	p f e ff
+089/083	pfäff	1	p f ä ff
+089/085	pfeff	1	p f e ff
+089/087	pfeff	1	p f e ff
+089/089	pfeff	1	p f e ff
+089/091	pfeff	1	p f e ff
+089/093	pfäff	1	p f ä ff
+089/095	pfeff	1	p f e ff
+089/097	pfäff	1	p f ä ff
+089/099	pfeff	1	p f e ff
+089/101	pfeff	1	p f e ff
+089/103	pfeff	1	p f e ff
+089/105	pfääiff	1	p f ääi ff
+089/107	pfef	1	p f e f
+089/109	pfeff	1	p f e ff
+089/111	pfeff	1	p f e ff
+089/113	pfeff	1	p f e ff
+089/115	pfeff	1	p f e ff
+089/117	pfeff	1	p f e ff
+089/119	pfeeff	1	p f ee ff
+089/121	bföff	1	b f ö ff
+089/123	pfeff	1	p f e ff
+089/125	pfeff	1	p f e ff
+089/127	pfeff	1	p f e ff
+089/129	pfeff	1	p f e ff
+089/131	pfeff	1	p f e ff
+089/133	pfefh	1	p f e f h
+089/135	pfeff	1	p f e ff
+089/137	pfeff	1	p f e ff
+089/139	pfeff	1	p f e ff
+089/141	pfeff	1	p f e ff
+089/143	pfeff	1	p f e ff
+089/145	pfeff	1	p f e ff
+089/147	pfeff	1	p f e ff
+089/149	pfeff	1	p f e ff
+090/035	pfaff	1	p f a ff
+090/037	pfaff	1	p f a ff
+090/039	pfaff	1	p f a ff
+090/041	pfaff	1	p f a ff
+090/043	pfeff	1	p f e ff
+090/045	pfeff	1	p f e ff
+090/047	pfeff	1	p f e ff
+090/049	pfeff	1	p f e ff
+090/051	pfeff	1	p f e ff
+090/053	pfeff	1	p f e ff
+090/055	pfeaff	1	p f ea ff
+090/057	pfeaff	1	p f ea ff
+090/059	pfeaff	1	p f ea ff
+090/061	pfäff	1	p f ä ff
+090/063	pfeff	1	p f e ff
+090/065	pfäff	1	p f ä ff
+090/067	pfeff	1	p f e ff
+090/069	pfeff	1	p f e ff
+090/071	pfeff	1	p f e ff
+090/073	pfeff	1	p f e ff
+090/075	pfeaff	1	p f ea ff
+090/077	pfeff	1	p f e ff
+090/079	pfeff	1	p f e ff
+090/081	pfeff	1	p f e ff
+090/083	pfeff	1	p f e ff
+090/085	pfääff	1	p f ää ff
+090/087	pfeff	1	p f e ff
+090/089	pfeff	1	p f e ff
+090/091	pfäff	1	p f ä ff
+090/093	pfeff	1	p f e ff
+090/095	pfeff	1	p f e ff
+090/097	pfeff	1	p f e ff
+090/099	pfeff	1	p f e ff
+090/101	pfeff	1	p f e ff
+090/103	pfeff	1	p f e ff
+090/105	pfeff	1	p f e ff
+090/107	pfeff	1	p f e ff
+090/109	pfeff	1	p f e ff
+090/111	pfeff	1	p f e ff
+090/113	pfeff	1	p f e ff
+090/115	pföff	1	p f ö ff
+090/119	pfeff	1	p f e ff
+090/121	pföff	1	p f ö ff
+090/123	pfeff	1	p f e ff
+090/125	pfeff	1	p f e ff
+090/127	pfeff	1	p f e ff
+090/129	pfeff	1	p f e ff
+090/131	pfeff	1	p f e ff
+090/133	pfeff	1	p f e ff
+090/135	pfeff	1	p f e ff
+090/137	pfeff	1	p f e ff
+090/139	pfeff	1	p f e ff
+090/141	pfeiff	1	p f ei ff
+090/143	pfef	1	p f e f
+090/145	pfeff	1	p f e ff
+090/147	pfeff	1	p f e ff
+090/149	pfeff	1	p f e ff
+090/151	pfeff	1	p f e ff
+091/035	pfaff	1	p f a ff
+091/037	pfaff	1	p f a ff
+091/039	pfaff	1	p f a ff
+091/041	pfaff	1	p f a ff
+091/043	pfäff	1	p f ä ff
+091/045	pfeff	1	p f e ff
+091/047	pfeff	1	p f e ff
+091/049	pfäff	1	p f ä ff
+091/051	pfeff	1	p f e ff
+091/053	pfeff	1	p f e ff
+091/055	pfeff	1	p f e ff
+091/057	pfeaff	1	p f ea ff
+091/059	pfiaff	1	p f ia ff
+091/061	pfeff	1	p f e ff
+091/063	pfeff	1	p f e ff
+091/065	pfeff	1	p f e ff
+091/067	pfeff	1	p f e ff
+091/069	pfeff	1	p f e ff
+091/071	pfeff	1	p f e ff
+091/073	pfeff	1	p f e ff
+091/075	pfeff	1	p f e ff
+091/077	pfeff	1	p f e ff
+091/079	pfoff	1	p f o ff
+091/081	pföff	1	p f ö ff
+091/083	pfäff	1	p f ä ff
+091/085	pföff	1	p f ö ff
+091/087	pfäff	1	p f ä ff
+091/091	pfeff	1	p f e ff
+091/093	pfeff	1	p f e ff
+091/095	pfeff	1	p f e ff
+091/097	pfeff	1	p f e ff
+091/099	pfeff	1	p f e ff
+091/101	pfeff	1	p f e ff
+091/103	pfäff	1	p f ä ff
+091/105	pfeff	1	p f e ff
+091/107	pfeff	1	p f e ff
+091/109	pfeff	1	p f e ff
+091/111	pfeff	1	p f e ff
+091/113	pfeff	1	p f e ff
+091/115	pfeff	1	p f e ff
+091/117	pfeff	1	p f e ff
+091/119	pföff	1	p f ö ff
+091/121	pfeff	1	p f e ff
+091/125	pföff	1	p f ö ff
+091/129	pfeff	1	p f e ff
+091/131	pfeff	1	p f e ff
+091/133	pfeff	1	p f e ff
+091/135	pfeff	1	p f e ff
+091/137	pöff	1	p ö ff
+091/139	pfeff	1	p f e ff
+091/141	pfeff	1	p f e ff
+091/143	pfeff	1	p f e ff
+091/145	pfeff	1	p f e ff
+091/147	pfeff	1	p f e ff
+091/149	pfeff	1	p f e ff
+091/151	pfef	1	p f e f
+091/155	pfef	1	p f e f
+092/033	pfäff	1	p f ä ff
+092/035	pfaff	1	p f a ff
+092/037	pfaff	1	p f a ff
+092/039	pfaff	1	p f a ff
+092/041	pfaff	1	p f a ff
+092/043	pfeff	1	p f e ff
+092/045	pfeff	1	p f e ff
+092/047	pfäff	1	p f ä ff
+092/049	pfeff	1	p f e ff
+092/051	pfäff	1	p f ä ff
+092/053	pfäff	1	p f ä ff
+092/055	pfeaff	1	p f ea ff
+092/057	pfeff	1	p f e ff
+092/059	pfiaff	1	p f ia ff
+092/061	pfeaff	1	p f ea ff
+092/063	pfäeff	1	p f äe ff
+092/065	pfeaff	1	p f ea ff
+092/067	pfeff	1	p f e ff
+092/069	pfeff	1	p f e ff
+092/071	pfeff	1	p f e ff
+092/073	pfeff	1	p f e ff
+092/075	pfeff	1	p f e ff
+092/077	pfeff	1	p f e ff
+092/079	pföff	1	p f ö ff
+092/081	päff	1	p ä ff
+092/083	pfeff	1	p f e ff
+092/085	pfeff	1	p f e ff
+092/087	pfäff	1	p f ä ff
+092/089	pfeff	1	p f e ff
+092/091	pfeff	1	p f e ff
+092/093	pfef	1	p f e f
+092/095	pfäff	1	p f ä ff
+092/097	pfeff	1	p f e ff
+092/099	pfeff	1	p f e ff
+092/101	pfeff	1	p f e ff
+092/103	pfeff	1	p f e ff
+092/105	gföf	1	g f ö f
+092/107	pfeff	1	p f e ff
+092/109	pfeff	1	p f e ff
+092/111	pfeff	1	p f e ff
+092/113	pföff	1	p f ö ff
+092/115	pfeff	1	p f e ff
+092/117	pfeff	1	p f e ff
+092/119	pfeff	1	p f e ff
+092/121	pfeff	1	p f e ff
+092/123	pfeff	1	p f e ff
+092/125	pfeff	1	p f e ff
+092/127	pfeff	1	p f e ff
+092/129	pfeff	1	p f e ff
+092/131	pfeff	1	p f e ff
+092/133	pfeiff	1	p f ei ff
+092/135	pfeff	1	p f e ff
+092/137	pfeff	1	p f e ff
+092/139	pfeff	1	p f e ff
+092/141	pfeff	1	p f e ff
+092/143	pfeff	1	p f e ff
+092/145	pfeff	1	p f e ff
+092/147	pfeff	1	p f e ff
+092/149	pfeff	1	p f e ff
+092/151	NA	NA	-
+093/035	pfaff	1	p f a ff
+093/037	pfaff	1	p f a ff
+093/039	pfaff	1	p f a ff
+093/041	pfäff	1	p f ä ff
+093/043	pfeff	1	p f e ff
+093/045	pfeff	1	p f e ff
+093/047	pfeff	1	p f e ff
+093/049	pfeff	1	p f e ff
+093/051	pfeff	1	p f e ff
+093/053	pfeaf	1	p f ea f
+093/055	pfeaff	1	p f ea ff
+093/057	pfiäff	1	p f iä ff
+093/059	pfeaff	1	p f ea ff
+093/061	pfäff	1	p f ä ff
+093/063	pfeaff	1	p f ea ff
+093/065	pfeff	1	p f e ff
+093/067	pfäaf	1	p f äa f
+093/069	pfeaff	1	p f ea ff
+093/071	pfeff	1	p f e ff
+093/073	pfeff	1	p f e ff
+093/075	pfeff	1	p f e ff
+093/077	pföff	1	p f ö ff
+093/079	pfeff	1	p f e ff
+093/081	pfeff	1	p f e ff
+093/083	pfäff	1	p f ä ff
+093/085	pfeff	1	p f e ff
+093/087	pfeff	1	p f e ff
+093/089	pfeff	1	p f e ff
+093/091	pfeff	1	p f e ff
+093/093	pfeff	1	p f e ff
+093/095	pfeff	1	p f e ff
+093/097	pfeff	1	p f e ff
+093/099	pfeff	1	p f e ff
+093/101	pfäff	1	p f ä ff
+093/103	pfeff	1	p f e ff
+093/105	pfeff	1	p f e ff
+093/109	pfeff	1	p f e ff
+093/111	pfeff	1	p f e ff
+093/113	pföff	1	p f ö ff
+093/115	pfeff	1	p f e ff
+093/117	pfef	1	p f e f
+093/119	pfeff	1	p f e ff
+093/121	pföff	1	p f ö ff
+093/123	pfeff	1	p f e ff
+093/125	pfeff	1	p f e ff
+093/127	bfef	1	b f e f
+093/129	pfeff	1	p f e ff
+093/131	pfeff	1	p f e ff
+093/133	pfeff	1	p f e ff
+093/137	pfeff	1	p f e ff
+093/139	pfeff	1	p f e ff
+093/143	pfeff	1	p f e ff
+093/145	pfeff	1	p f e ff
+093/147	pfeff	1	p f e ff
+093/149	pfeff	1	p f e ff
+093/151	pfeff	1	p f e ff
+093/153	NA	NA	-
+093/155	pfeiff	1	p f ei ff
+094/033	pfaff	1	p f a ff
+094/035	pfaff	1	p f a ff
+094/037	pfaff	1	p f a ff
+094/039	pfaff	1	p f a ff
+094/041	pfäff	1	p f ä ff
+094/043	pfäff	1	p f ä ff
+094/045	pfeff	1	p f e ff
+094/047	pfeff	1	p f e ff
+094/049	pfeff	1	p f e ff
+094/051	pfeff	1	p f e ff
+094/053	pfäaff	1	p f äa ff
+094/055	pfäaff	1	p f äa ff
+094/057	pfeaff	1	p f ea ff
+094/059	pfeaff	1	p f ea ff
+094/061	pfeaff	1	p f ea ff
+094/063	pfeff	1	p f e ff
+094/065	pfeff	1	p f e ff
+094/067	pfäaff	1	p f äa ff
+094/069	pfeaff	1	p f ea ff
+094/071	pfeaff	1	p f ea ff
+094/073	pfeaf	1	p f ea f
+094/075	pfeff	1	p f e ff
+094/077	pfeff	1	p f e ff
+094/079	pfeff	1	p f e ff
+094/081	pfeff	1	p f e ff
+094/083	pfäff	1	p f ä ff
+094/085	pfäff	1	p f ä ff
+094/087	pfäf	1	p f ä f
+094/089	pfäff	1	p f ä ff
+094/091	pfeff	1	p f e ff
+094/093	pfeeff	1	p f ee ff
+094/095	pfeff	1	p f e ff
+094/097	pfeff	1	p f e ff
+094/099	pfeff	1	p f e ff
+094/101	pfeff	1	p f e ff
+094/103	pfeff	1	p f e ff
+094/105	pföff	1	p f ö ff
+094/107	pföff	1	p f ö ff
+094/109	pföff	1	p f ö ff
+094/111	pfeff	1	p f e ff
+094/113	pfeff	1	p f e ff
+094/115	pfeff	1	p f e ff
+094/117	pföff	1	p f ö ff
+094/119	pfeff	1	p f e ff
+094/121	pföff	1	p f ö ff
+094/123	pfeff	1	p f e ff
+094/125	pfeff	1	p f e ff
+094/127	pfeff	1	p f e ff
+094/129	pfeff	1	p f e ff
+094/131	pfeff	1	p f e ff
+094/133	pfeff	1	p f e ff
+094/135	pfeff	1	p f e ff
+094/137	pfeff	1	p f e ff
+094/139	pfeff	1	p f e ff
+094/141	pfeff	1	p f e ff
+094/143	pfeff	1	p f e ff
+094/145	bfef	1	b f e f
+094/147	pfeiff	1	p f ei ff
+094/149	pfeff	1	p f e ff
+094/151	pfeff	1	p f e ff
+094/153	pfeff	1	p f e ff
+095/031	pfoff	1	p f o ff
+095/033	pfäff	1	p f ä ff
+095/035	pfaff	1	p f a ff
+095/037	pfaff	1	p f a ff
+095/039	pfaff	1	p f a ff
+095/041	pfeff	1	p f e ff
+095/043	pfeff	1	p f e ff
+095/045	pfeff	1	p f e ff
+095/047	pfeff	1	p f e ff
+095/049	pfeff	1	p f e ff
+095/051	pfeff	1	p f e ff
+095/053	pfeff	1	p f e ff
+095/055	pfeaff	1	p f ea ff
+095/057	pfäaff	1	p f äa ff
+095/059	pfeäff	1	p f eä ff
+095/061	pfeaff	1	p f ea ff
+095/063	pfeaff	1	p f ea ff
+095/065	pfäaff	1	p f äa ff
+095/067	pfeff	1	p f e ff
+095/069	pfeff	1	p f e ff
+095/071	pfeaff	1	p f ea ff
+095/073	pfeaf	1	p f ea f
+095/075	pfeff	1	p f e ff
+095/077	pfeff	1	p f e ff
+095/079	pfeff	1	p f e ff
+095/081	pföff	1	p f ö ff
+095/083	pfeff	1	p f e ff
+095/085	pfäff	1	p f ä ff
+095/087	pfäff	1	p f ä ff
+095/089	pfeff	1	p f e ff
+095/091	pfäff	1	p f ä ff
+095/093	pfeff	1	p f e ff
+095/095	pfeff	1	p f e ff
+095/097	pfeff	1	p f e ff
+095/099	pfeff	1	p f e ff
+095/101	pfeff	1	p f e ff
+095/103	pfeff	1	p f e ff
+095/105	pfeff	1	p f e ff
+095/107	pfeff	1	p f e ff
+095/109	pfoff	1	p f o ff
+095/111	pfoff	1	p f o ff
+095/113	pfeff	1	p f e ff
+095/115	pfäif	1	p f äi f
+095/117	pfeff	1	p f e ff
+095/119	pfeff	1	p f e ff
+095/121	pfeff	1	p f e ff
+095/123	pfeff	1	p f e ff
+095/125	pfeff	1	p f e ff
+095/129	pfeff	1	p f e ff
+095/131	pfeff	1	p f e ff
+095/133	pfeff	1	p f e ff
+095/139	pfeff	1	p f e ff
+095/141	pfeff	1	p f e ff
+095/143	pfeff	1	p f e ff
+095/145	pfeff	1	p f e ff
+095/147	pfeff	1	p f e ff
+095/149	pfeff	1	p f e ff
+095/151	pfeff	1	p f e ff
+095/153	pfeff	1	p f e ff
+095/155	NA	NA	-
+096/031	pfaff	1	p f a ff
+096/033	pfaff	1	p f a ff
+096/035	pfaaff	1	p f aa ff
+096/037	pfaff	1	p f a ff
+096/039	pfaff	1	p f a ff
+096/041	pfäff	1	p f ä ff
+096/043	pfeff	1	p f e ff
+096/045	pfeff	1	p f e ff
+096/047	pfeff	1	p f e ff
+096/049	pfeff	1	p f e ff
+096/051	pfeff	1	p f e ff
+096/053	pfeff	1	p f e ff
+096/055	pfäff	1	p f ä ff
+096/057	pfeff	1	p f e ff
+096/059	pfäaff	1	p f äa ff
+096/061	pfäaff	1	p f äa ff
+096/063	pfeff	1	p f e ff
+096/065	pfäaff	1	p f äa ff
+096/067	pfeff	1	p f e ff
+096/069	pfeaff	1	p f ea ff
+096/071	pfeaff	1	p f ea ff
+096/075	pfeff	1	p f e ff
+096/077	pföff	1	p f ö ff
+096/079	pföff	1	p f ö ff
+096/081	pfeff	1	p f e ff
+096/083	pfeff	1	p f e ff
+096/085	pfääff	1	p f ää ff
+096/087	pfeff	1	p f e ff
+096/089	pfäff	1	p f ä ff
+096/091	pfäff	1	p f ä ff
+096/093	pfef	1	p f e f
+096/095	pfeff	1	p f e ff
+096/097	pfeff	1	p f e ff
+096/099	pfeff	1	p f e ff
+096/101	pfeff	1	p f e ff
+096/103	pfeff	1	p f e ff
+096/105	pfeff	1	p f e ff
+096/107	pfeff	1	p f e ff
+096/109	pfeff	1	p f e ff
+096/111	pfeff	1	p f e ff
+096/113	pfeff	1	p f e ff
+096/115	pfeff	1	p f e ff
+096/117	pfeff	1	p f e ff
+096/119	pfeff	1	p f e ff
+096/121	pfef	1	p f e f
+096/123	pföff	1	p f ö ff
+096/125	bföff	1	b f ö ff
+096/129	pfeff	1	p f e ff
+096/131	pfeff	1	p f e ff
+096/135	pfeff	1	p f e ff
+096/137	pfeff	1	p f e ff
+096/139	pfeff	1	p f e ff
+096/141	pfeff	1	p f e ff
+096/143	pfeff	1	p f e ff
+096/145	pfeff	1	p f e ff
+096/147	pfeff	1	p f e ff
+096/151	pfeef	1	p f ee f
+096/153	NA	NA	-
+096/155	pfeff	1	p f e ff
+097/031	pfäff	1	p f ä ff
+097/033	pfaff	1	p f a ff
+097/035	pfaff	1	p f a ff
+097/037	pfaff	1	p f a ff
+097/039	pfäff	1	p f ä ff
+097/041	pfäff	1	p f ä ff
+097/043	pfeff	1	p f e ff
+097/045	pfeff	1	p f e ff
+097/047	pfäff	1	p f ä ff
+097/049	pfäff	1	p f ä ff
+097/051	pfeff	1	p f e ff
+097/053	pfeff	1	p f e ff
+097/055	pfeff	1	p f e ff
+097/057	pfeaff	1	p f ea ff
+097/059	pfeaf	1	p f ea f
+097/061	pfeaff	1	p f ea ff
+097/063	pfeff	1	p f e ff
+097/065	pfeaff	1	p f ea ff
+097/067	pfeaff	1	p f ea ff
+097/069	pfeaff	1	p f ea ff
+097/071	pfeaff	1	p f ea ff
+097/073	pfeaf	1	p f ea f
+097/075	pfeff	1	p f e ff
+097/077	pfeff	1	p f e ff
+097/079	pföff	1	p f ö ff
+097/081	pfeff	1	p f e ff
+097/083	pfeff	1	p f e ff
+097/085	pfeff	1	p f e ff
+097/087	pfeff	1	p f e ff
+097/089	pfeff	1	p f e ff
+097/091	pfäff	1	p f ä ff
+097/093	pfäf	1	p f ä f
+097/095	pfäff	1	p f ä ff
+097/097	pfeff	1	p f e ff
+097/099	pfeff	1	p f e ff
+097/103	pfef	1	p f e f
+097/105	pfeff	1	p f e ff
+097/107	pfeff	1	p f e ff
+097/109	pfeff	1	p f e ff
+097/113	NA	NA	-
+097/125	pfeff	1	p f e ff
+097/131	pfeff	1	p f e ff
+097/133	pfeff	1	p f e ff
+097/139	pföff	1	p f ö ff
+097/141	pfeff	1	p f e ff
+097/143	pfeff	1	p f e ff
+097/145	pfäiff	1	p f äi ff
+097/149	pfeff	1	p f e ff
+097/153	pfäiff	1	p f äi ff
+098/033	pfaff	1	p f a ff
+098/035	pfaff	1	p f a ff
+098/037	pfaff	1	p f a ff
+098/039	pfaff	1	p f a ff
+098/041	pfeff	1	p f e ff
+098/043	pfeff	1	p f e ff
+098/045	pfeff	1	p f e ff
+098/047	pfäff	1	p f ä ff
+098/049	pfäff	1	p f ä ff
+098/051	pfeff	1	p f e ff
+098/053	pfeff	1	p f e ff
+098/055	pfeff	1	p f e ff
+098/057	pfäaff	1	p f äa ff
+098/059	pfäaff	1	p f äa ff
+098/061	pfeaff	1	p f ea ff
+098/063	pfeff	1	p f e ff
+098/065	pfeff	1	p f e ff
+098/067	pfeaff	1	p f ea ff
+098/069	pfäff	1	p f ä ff
+098/071	pfaaff	1	p f aa ff
+098/073	pfeaff	1	p f ea ff
+098/075	pföff	1	p f ö ff
+098/077	pfeff	1	p f e ff
+098/079	pfeff	1	p f e ff
+098/081	pfeff	1	p f e ff
+098/083	pfeff	1	p f e ff
+098/085	pfeff	1	p f e ff
+098/087	pfeff	1	p f e ff
+098/089	pfeff	1	p f e ff
+098/091	pfeff	1	p f e ff
+098/093	pfeff	1	p f e ff
+098/095	pfeff	1	p f e ff
+098/097	pfeff	1	p f e ff
+098/103	pfoff	1	p f o ff
+098/105	pfeff	1	p f e ff
+098/107	pfeff	1	p f e ff
+098/109	pfeff	1	p f e ff
+098/111	pföff	1	p f ö ff
+098/119	pföff	1	p f ö ff
+098/123	pfef	1	p f e f
+098/125	pfeff	1	p f e ff
+098/127	pfeff	1	p f e ff
+098/135	pfeff	1	p f e ff
+098/137	pfeff	1	p f e ff
+098/139	pfeff	1	p f e ff
+098/141	pfeff	1	p f e ff
+098/143	pfeff	1	p f e ff
+098/145	pfeff	1	p f e ff
+098/147	pfeiff	1	p f ei ff
+098/149	pfeiff	1	p f ei ff
+098/151	pfäif	1	p f äi f
+099/033	pfaff	1	p f a ff
+099/035	pfaff	1	p f a ff
+099/037	pfaff	1	p f a ff
+099/039	pfaff	1	p f a ff
+099/041	pfeff	1	p f e ff
+099/043	pfäff	1	p f ä ff
+099/045	pfeff	1	p f e ff
+099/047	pfeff	1	p f e ff
+099/049	pfäff	1	p f ä ff
+099/051	pfeff	1	p f e ff
+099/053	pfeff	1	p f e ff
+099/055	pfäff	1	p f ä ff
+099/057	pfeff	1	p f e ff
+099/059	pfeff	1	p f e ff
+099/063	pfäaff	1	p f äa ff
+099/065	pfäff	1	p f ä ff
+099/067	pfiaff	1	p f ia ff
+099/069	pfeaff	1	p f ea ff
+099/071	pfeaf	1	p f ea f
+099/073	pfeaf	1	p f ea f
+099/075	pföff	1	p f ö ff
+099/077	pföff	1	p f ö ff
+099/081	pföff	1	p f ö ff
+099/083	pfeff	1	p f e ff
+099/085	pfeff	1	p f e ff
+099/089	pfeff	1	p f e ff
+099/093	pfeff	1	p f e ff
+099/095	pfeff	1	p f e ff
+099/099	pfeff	1	p f e ff
+099/101	pfeff	1	p f e ff
+099/103	pfeff	1	p f e ff
+099/105	pfäff	1	p f ä ff
+099/107	pfäff	1	p f ä ff
+099/109	pfeff	1	p f e ff
+099/111	pfeff	1	p f e ff
+099/113	pföff	1	p f ö ff
+099/121	pfeff	1	p f e ff
+099/123	pfäiff	1	p f äi ff
+099/125	pfeff	1	p f e ff
+099/131	pfeff	1	p f e ff
+099/137	pfäiff	1	p f äi ff
+099/139	pfeff	1	p f e ff
+099/141	pfeff	1	p f e ff
+099/143	pfeff	1	p f e ff
+099/145	pfeiff	1	p f ei ff
+099/147	pfeiff	1	p f ei ff
+100/033	pfaff	1	p f a ff
+100/035	pfaff	1	p f a ff
+100/037	pfaff	1	p f a ff
+100/039	pfäf	1	p f ä f
+100/041	pfäff	1	p f ä ff
+100/043	pfäff	1	p f ä ff
+100/045	pfäff	1	p f ä ff
+100/049	pfäff	1	p f ä ff
+100/051	pfäff	1	p f ä ff
+100/053	pfäff	1	p f ä ff
+100/055	pfäff	1	p f ä ff
+100/057	pfeff	1	p f e ff
+100/059	pfeff	1	p f e ff
+100/061	pfeff	1	p f e ff
+100/065	pfeaff	1	p f ea ff
+100/067	pfeaff	1	p f ea ff
+100/069	pfeaf	1	p f ea f
+100/071	pfeaf	1	p f ea f
+100/073	pfeaff	1	p f ea ff
+100/075	pfeff	1	p f e ff
+100/077	pföff	1	p f ö ff
+100/081	pfeff	1	p f e ff
+100/083	pfeff	1	p f e ff
+100/089	pfeff	1	p f e ff
+100/093	pfeff	1	p f e ff
+100/095	pfeff	1	p f e ff
+100/097	pfeff	1	p f e ff
+100/099	pföff	1	p f ö ff
+100/101	pfeff	1	p f e ff
+100/109	pfeff	1	p f e ff
+100/111	pfeff	1	p f e ff
+100/113	pfeff	1	p f e ff
+100/115	pfeff	1	p f e ff
+100/117	pfeff	1	p f e ff
+100/119	pfeff	1	p f e ff
+100/121	pfeff	1	p f e ff
+100/125	pfeff	1	p f e ff
+100/127	pfeff	1	p f e ff
+100/129	pfeff	1	p f e ff
+100/133	pfef	1	p f e f
+100/135	pfoff	1	p f o ff
+100/141	pfeff	1	p f e ff
+100/143	pfäiff	1	p f äi ff
+100/145	pfeiff	1	p f ei ff
+101/035	pfaff	1	p f a ff
+101/037	pfeff	1	p f e ff
+101/039	pfäff	1	p f ä ff
+101/041	pfäff	1	p f ä ff
+101/043	pfäff	1	p f ä ff
+101/045	pfäff	1	p f ä ff
+101/047	pfäff	1	p f ä ff
+101/049	pfäff	1	p f ä ff
+101/051	pfäf	1	p f ä f
+101/053	pfeff	1	p f e ff
+101/055	pfäff	1	p f ä ff
+101/057	pfeff	1	p f e ff
+101/059	pfäff	1	p f ä ff
+101/061	pfeff	1	p f e ff
+101/063	pfeeff	1	p f ee ff
+101/065	pfeff	1	p f e ff
+101/067	pfeff	1	p f e ff
+101/071	pfeaff	1	p f ea ff
+101/075	pfeff	1	p f e ff
+101/077	pföff	1	p f ö ff
+101/079	pföff	1	p f ö ff
+101/081	pfeff	1	p f e ff
+101/091	pfeff	1	p f e ff
+101/093	pfeff	1	p f e ff
+101/095	pfeff	1	p f e ff
+101/097	pfeff	1	p f e ff
+101/099	pfeff	1	p f e ff
+101/101	pfeff	1	p f e ff
+101/103	pfeff	1	p f e ff
+101/107	pfeff	1	p f e ff
+101/109	pfeff	1	p f e ff
+101/113	pfeff	1	p f e ff
+101/115	pfeff	1	p f e ff
+101/121	pfeff	1	p f e ff
+101/125	pfäff	1	p f ä ff
+101/129	pfeff	1	p f e ff
+101/131	pfeff	1	p f e ff
+101/133	pfäif	1	p f äi f
+101/137	pfeff	1	p f e ff
+101/139	pfeff	1	p f e ff
+101/141	pfeff	1	p f e ff
+101/143	pfeff	1	p f e ff
+101/145	pfeiff	1	p f ei ff
+101/147	pfäiff	1	p f äi ff
+102/037	pfäff	1	p f ä ff
+102/039	pfäff	1	p f ä ff
+102/041	pfäff	1	p f ä ff
+102/043	pfäff	1	p f ä ff
+102/045	pfäff	1	p f ä ff
+102/047	pfäff	1	p f ä ff
+102/049	pfäff	1	p f ä ff
+102/051	pfäff	1	p f ä ff
+102/053	pfäff	1	p f ä ff
+102/055	pfäff	1	p f ä ff
+102/057	pfeff	1	p f e ff
+102/059	pfeff	1	p f e ff
+102/061	pfeff	1	p f e ff
+102/063	pfeff	1	p f e ff
+102/065	pfeaff	1	p f ea ff
+102/067	pfäaf	1	p f äa f
+102/069	pfaff	1	p f a ff
+102/071	pfeaff	1	p f ea ff
+102/073	pföff	1	p f ö ff
+102/075	pföff	1	p f ö ff
+102/077	pföff	1	p f ö ff
+102/079	pföff	1	p f ö ff
+102/081	pföff	1	p f ö ff
+102/083	pföff	1	p f ö ff
+102/089	pfäff	1	p f ä ff
+102/091	pfeff	1	p f e ff
+102/093	pfeff	1	p f e ff
+102/095	pföff	1	p f ö ff
+102/097	pfeff	1	p f e ff
+102/099	pfeff	1	p f e ff
+102/103	pfeff	1	p f e ff
+102/107	pfeff	1	p f e ff
+102/109	pfeff	1	p f e ff
+102/113	pfeff	1	p f e ff
+102/115	pfeff	1	p f e ff
+102/127	pfäiff	1	p f äi ff
+102/129	pfeff	1	p f e ff
+102/131	pfeiff	1	p f ei ff
+102/135	pfäiff	1	p f äi ff
+102/137	pfeff	1	p f e ff
+102/139	pfeff	1	p f e ff
+102/141	pfeff	1	p f e ff
+102/143	pfeff	1	p f e ff
+102/145	pfaiff	1	p f ai ff
+103/039	pfäff	1	p f ä ff
+103/041	pfäff	1	p f ä ff
+103/043	pfäff	1	p f ä ff
+103/045	pfäff	1	p f ä ff
+103/047	pfäff	1	p f ä ff
+103/049	pföff	1	p f ö ff
+103/051	pfäff	1	p f ä ff
+103/053	pfäff	1	p f ä ff
+103/055	pfäff	1	p f ä ff
+103/057	pfeff	1	p f e ff
+103/059	pfäff	1	p f ä ff
+103/063	pfeff	1	p f e ff
+103/065	pfeaff	1	p f ea ff
+103/067	pfeaf	1	p f ea f
+103/069	pfeaff	1	p f ea ff
+103/071	pfäff	1	p f ä ff
+103/073	pfeff	1	p f e ff
+103/075	pfeff	1	p f e ff
+103/077	pfeff	1	p f e ff
+103/079	pföff	1	p f ö ff
+103/081	pfeff	1	p f e ff
+103/083	pfeff	1	p f e ff
+103/085	pföff	1	p f ö ff
+103/087	pfeff	1	p f e ff
+103/089	pfeff	1	p f e ff
+103/091	pföff	1	p f ö ff
+103/097	pfeff	1	p f e ff
+103/099	pfeff	1	p f e ff
+103/101	pfeff	1	p f e ff
+103/105	pfeff	1	p f e ff
+103/107	pfef	1	p f e f
+103/111	pfeff	1	p f e ff
+103/121	pfeff	1	p f e ff
+103/125	pfeff	1	p f e ff
+103/127	pfeff	1	p f e ff
+103/131	pfäif	1	p f äi f
+103/133	pfeff	1	p f e ff
+103/135	pfeff	1	p f e ff
+103/137	pfeff	1	p f e ff
+103/139	pfeff	1	p f e ff
+103/141	pfeiff	1	p f ei ff
+103/143	pfeiff	1	p f ei ff
+103/145	pfeiff	1	p f ei ff
+104/033	pfäff	1	p f ä ff
+104/035	pfäff	1	p f ä ff
+104/037	pfäff	1	p f ä ff
+104/039	pfäff	1	p f ä ff
+104/041	pfäff	1	p f ä ff
+104/043	pfäff	1	p f ä ff
+104/045	pfäff	1	p f ä ff
+104/047	pfäff	1	p f ä ff
+104/049	pfäff	1	p f ä ff
+104/051	pfäff	1	p f ä ff
+104/053	pfäff	1	p f ä ff
+104/055	pfäff	1	p f ä ff
+104/057	pfäff	1	p f ä ff
+104/059	pfeff	1	p f e ff
+104/061	pfeff	1	p f e ff
+104/063	pfeff	1	p f e ff
+104/065	pfeff	1	p f e ff
+104/067	pfäff	1	p f ä ff
+104/071	pföff	1	p f ö ff
+104/075	pfeff	1	p f e ff
+104/077	pfeff	1	p f e ff
+104/079	pföff	1	p f ö ff
+104/081	pfeff	1	p f e ff
+104/083	pföff	1	p f ö ff
+104/085	pföff	1	p f ö ff
+104/091	pföff	1	p f ö ff
+104/095	pfeff	1	p f e ff
+104/101	pfeff	1	p f e ff
+104/103	pfeff	1	p f e ff
+104/107	pfeeff	1	p f ee ff
+104/111	pfeff	1	p f e ff
+104/113	pfeff	1	p f e ff
+104/119	pfeff	1	p f e ff
+104/121	pfeff	1	p f e ff
+104/123	pfeef	1	p f ee f
+104/125	bfef	1	b f e f
+104/127	pfeff	1	p f e ff
+104/131	feff	1	f e ff
+104/133	pfäiff	1	p f äi ff
+104/135	pfäiff	1	p f äi ff
+104/137	pfeff	1	p f e ff
+104/139	pfaff	1	p f a ff
+104/141	pfeiff	1	p f ei ff
+104/143	pfeff	1	p f e ff
+104/145	pfeif	1	p f ei f
+105/031	pfäff	1	p f ä ff
+105/033	pfäff	1	p f ä ff
+105/035	pfäff	1	p f ä ff
+105/037	pfäff	1	p f ä ff
+105/039	pfäff	1	p f ä ff
+105/041	pfäff	1	p f ä ff
+105/043	pfäff	1	p f ä ff
+105/045	pfäff	1	p f ä ff
+105/047	pfäff	1	p f ä ff
+105/049	pfäff	1	p f ä ff
+105/051	pfäff	1	p f ä ff
+105/053	pfäff	1	p f ä ff
+105/055	pfäff	1	p f ä ff
+105/057	pfäff	1	p f ä ff
+105/059	pfäff	1	p f ä ff
+105/061	pfeff	1	p f e ff
+105/063	pfeff	1	p f e ff
+105/065	pfeff	1	p f e ff
+105/067	pfeaff	1	p f ea ff
+105/069	pfäff	1	p f ä ff
+105/071	pföff	1	p f ö ff
+105/073	pföff	1	p f ö ff
+105/075	pföff	1	p f ö ff
+105/077	pföff	1	p f ö ff
+105/079	pföff	1	p f ö ff
+105/081	pföff	1	p f ö ff
+105/085	pföff	1	p f ö ff
+105/087	pföff	1	p f ö ff
+105/089	pföff	1	p f ö ff
+105/103	pfeff	1	p f e ff
+105/105	pfeff	1	p f e ff
+105/111	pfeff	1	p f e ff
+105/113	pfeff	1	p f e ff
+105/115	pfeff	1	p f e ff
+105/117	pfef	1	p f e f
+105/119	pfef	1	p f e f
+105/121	pfeff	1	p f e ff
+105/125	pfäiff	1	p f äi ff
+105/127	pfeff	1	p f e ff
+105/131	pfeff	1	p f e ff
+105/133	pfeff	1	p f e ff
+105/135	pfeff	1	p f e ff
+105/137	gfeff	1	g f e ff
+105/141	pfeff	1	p f e ff
+105/143	gfeff	1	g f e ff
+105/145	pfeif	1	p f ei f
+106/033	pfäff	1	p f ä ff
+106/035	pfäff	1	p f ä ff
+106/037	pfäff	1	p f ä ff
+106/039	pfäff	1	p f ä ff
+106/041	pfäff	1	p f ä ff
+106/043	pfäff	1	p f ä ff
+106/045	pfäff	1	p f ä ff
+106/047	föff	1	f ö ff
+106/049	pfäff	1	p f ä ff
+106/051	pfäff	1	p f ä ff
+106/053	pfäff	1	p f ä ff
+106/057	pfeff	1	p f e ff
+106/061	pfäff	1	p f ä ff
+106/063	pfäff	1	p f ä ff
+106/067	pfäff	1	p f ä ff
+106/071	pföff	1	p f ö ff
+106/073	pföff	1	p f ö ff
+106/075	pföff	1	p f ö ff
+106/077	pföff	1	p f ö ff
+106/079	pfeff	1	p f e ff
+106/081	pföff	1	p f ö ff
+106/085	pfeff	1	p f e ff
+106/087	pfeff	1	p f e ff
+106/093	pfeff	1	p f e ff
+106/097	pföff	1	p f ö ff
+106/099	pföff	1	p f ö ff
+106/103	pfeiff	1	p f ei ff
+106/111	pföff	1	p f ö ff
+106/115	pfeff	1	p f e ff
+106/121	pfef	1	p f e f
+106/123	pfef	1	p f e f
+106/125	pfef	1	p f e f
+106/129	pfeff	1	p f e ff
+106/131	gfeff	1	g f e ff
+106/133	pfeff	1	p f e ff
+106/135	pfeff	1	p f e ff
+106/137	pfäiff	1	p f äi ff
+106/139	pfeif	1	p f ei f
+106/141	pfäiff	1	p f äi ff
+106/143	pfeiiff	1	p f eii ff
+106/145	pfaiff	1	p f ai ff
+107/033	pfoff	1	p f o ff
+107/035	pfäff	1	p f ä ff
+107/037	pfäff	1	p f ä ff
+107/039	pfaaff	1	p f aa ff
+107/041	pfäff	1	p f ä ff
+107/043	pfäff	1	p f ä ff
+107/045	pfaff	1	p f a ff
+107/047	pfäff	1	p f ä ff
+107/049	pfäff	1	p f ä ff
+107/051	pfäff	1	p f ä ff
+107/053	pfaaff	1	p f aa ff
+107/057	pfeff	1	p f e ff
+107/059	pfeff	1	p f e ff
+107/063	pfäff	1	p f ä ff
+107/065	pföff	1	p f ö ff
+107/071	pföff	1	p f ö ff
+107/075	pföff	1	p f ö ff
+107/081	pföff	1	p f ö ff
+107/085	pfeff	1	p f e ff
+107/087	pfeff	1	p f e ff
+107/089	pfeff	1	p f e ff
+107/091	pfeff	1	p f e ff
+107/097	NA	NA	-
+107/099	pfeff	1	p f e ff
+107/103	pfejf	1	p f e j f
+107/105	pföff	1	p f ö ff
+107/107	pföff	1	p f ö ff
+107/111	pfeff	1	p f e ff
+107/119	pföf	1	p f ö f
+107/121	pfef	1	p f e f
+107/123	pfef	1	p f e f
+107/125	NA	NA	-
+107/127	pfeff	1	p f e ff
+107/129	gfeff	1	g f e ff
+107/131	gfeff	1	g f e ff
+107/133	pfeff	1	p f e ff
+107/135	pfeff	1	p f e ff
+107/137	pfeff	1	p f e ff
+107/139	pfeff	1	p f e ff
+107/141	gfeff	1	g f e ff
+107/143	pfeff	1	p f e ff
+108/033	pfäff	1	p f ä ff
+108/035	pfäff	1	p f ä ff
+108/037	pfäff	1	p f ä ff
+108/039	pfäff	1	p f ä ff
+108/041	pfäff	1	p f ä ff
+108/043	pfäff	1	p f ä ff
+108/047	pfäff	1	p f ä ff
+108/049	pfäff	1	p f ä ff
+108/063	pfäff	1	p f ä ff
+108/065	pfäff	1	p f ä ff
+108/067	pfäff	1	p f ä ff
+108/075	pföff	1	p f ö ff
+108/079	pföff	1	p f ö ff
+108/081	pfeff	1	p f e ff
+108/085	pfeff	1	p f e ff
+108/087	pfeff	1	p f e ff
+108/091	pfeff	1	p f e ff
+108/099	pföif	1	p f öi f
+108/101	pföiff	1	p f öi ff
+108/103	pfeff	1	p f e ff
+108/105	pfeff	1	p f e ff
+108/109	pföf	1	p f ö f
+108/111	pfef	1	p f e f
+108/113	pfeff	1	p f e ff
+108/117	pfeff	1	p f e ff
+108/119	pfef	1	p f e f
+108/121	pfef	1	p f e f
+108/123	pfeff	1	p f e ff
+108/125	pfef	1	p f e f
+108/127	pfeff	1	p f e ff
+108/129	gfeff	1	g f e ff
+108/131	pfeff	1	p f e ff
+108/133	pfäiff	1	p f äi ff
+108/135	pfeff	1	p f e ff
+108/137	peff	1	p e ff
+108/139	pfeiff	1	p f ei ff
+108/141	pfeff	1	p f e ff
+109/035	pfäff	1	p f ä ff
+109/037	pfäff	1	p f ä ff
+109/039	pfäff	1	p f ä ff
+109/041	pfäff	1	p f ä ff
+109/043	pfäff	1	p f ä ff
+109/045	pfäff	1	p f ä ff
+109/049	pfäff	1	p f ä ff
+109/053	pfäff	1	p f ä ff
+109/061	pfäff	1	p f ä ff
+109/063	pfäff	1	p f ä ff
+109/065	pfäff	1	p f ä ff
+109/067	pfäff	1	p f ä ff
+109/075	pfef	1	p f e f
+109/083	pfeff	1	p f e ff
+109/087	pfeff	1	p f e ff
+109/089	pfeff	1	p f e ff
+109/091	pfeff	1	p f e ff
+109/093	pfeff	1	p f e ff
+109/095	pfeff	1	p f e ff
+109/097	pfeff	1	p f e ff
+109/099	pfeff	1	p f e ff
+109/101	pfeif	1	p f ei f
+109/103	pfeff	1	p f e ff
+109/107	pföf	1	p f ö f
+109/109	NA	NA	-
+109/111	pföff	1	p f ö ff
+109/113	pfef	1	p f e f
+109/115	pfef	1	p f e f
+109/117	pfeef	1	p f ee f
+109/119	pfeff	1	p f e ff
+109/121	pfeff	1	p f e ff
+109/123	pföff	1	p f ö ff
+109/125	pfef	1	p f e f
+109/127	pfef	1	p f e f
+109/129	gfeff	1	g f e ff
+109/131	pfeff	1	p f e ff
+109/133	pfeff	1	p f e ff
+109/135	pfäif	1	p f äi f
+109/137	gfeff	1	g f e ff
+109/139	pfeff	1	p f e ff
+110/035	pföff	1	p f ö ff
+110/039	pfäff	1	p f ä ff
+110/041	pfaaff	1	p f aa ff
+110/043	pfäff	1	p f ä ff
+110/045	pfäff	1	p f ä ff
+110/047	pfäff	1	p f ä ff
+110/049	pfäff	1	p f ä ff
+110/057	pfaff	1	p f a ff
+110/061	pfäff	1	p f ä ff
+110/065	pfäff	1	p f ä ff
+110/075	pfeff	1	p f e ff
+110/079	pfeff	1	p f e ff
+110/081	pfeff	1	p f e ff
+110/083	pfeff	1	p f e ff
+110/087	pfeff	1	p f e ff
+110/089	pföff	1	p f ö ff
+110/091	pfeff	1	p f e ff
+110/093	pfeff	1	p f e ff
+110/095	pfeff	1	p f e ff
+110/097	pfeff	1	p f e ff
+110/099	pfaff	1	p f a ff
+110/101	pföf	1	p f ö f
+110/105	pföif	1	p f öi f
+110/107	pföff	1	p f ö ff
+110/111	pföf	1	p f ö f
+110/113	pfef	1	p f e f
+110/115	pfef	1	p f e f
+110/117	pfeef	1	p f ee f
+110/119	pföf	1	p f ö f
+110/121	pfeff	1	p f e ff
+110/125	pfef	1	p f e f
+110/127	pfeff	1	p f e ff
+110/129	pfeff	1	p f e ff
+110/131	gfeff	1	g f e ff
+110/133	pfeff	1	p f e ff
+110/135	pfeff	1	p f e ff
+110/137	pfeff	1	p f e ff
+110/139	pfeff	1	p f e ff
+111/035	pfäff	1	p f ä ff
+111/037	pfäff	1	p f ä ff
+111/039	pfäff	1	p f ä ff
+111/041	pfaaff	1	p f aa ff
+111/043	pfäff	1	p f ä ff
+111/045	pföff	1	p f ö ff
+111/059	pfäff	1	p f ä ff
+111/073	pfef	1	p f e f
+111/075	pfef	1	p f e f
+111/077	pfeff	1	p f e ff
+111/079	pfeff	1	p f e ff
+111/081	pfeff	1	p f e ff
+111/083	pfeff	1	p f e ff
+111/087	pföff	1	p f ö ff
+111/089	pfef	1	p f e f
+111/105	pfäif	1	p f äi f
+111/107	pfeff	1	p f e ff
+111/109	pfef	1	p f e f
+111/111	pföf	1	p f ö f
+111/113	pfeff	1	p f e ff
+111/115	pfeff	1	p f e ff
+111/117	pföff	1	p f ö ff
+111/119	pfeef	1	p f ee f
+111/121	pef	1	p e f
+111/123	pfäff	1	p f ä ff
+111/125	pfeff	1	p f e ff
+112/037	pfäff	1	p f ä ff
+112/039	pföff	1	p f ö ff
+112/041	pfäff	1	p f ä ff
+112/043	pfäff	1	p f ä ff
+112/047	pfäff	1	p f ä ff
+112/059	pfäff	1	p f ä ff
+112/061	pfäff	1	p f ä ff
+112/063	pfäff	1	p f ä ff
+112/075	pfeff	1	p f e ff
+112/081	pfeff	1	p f e ff
+112/083	pfeff	1	p f e ff
+112/085	pfeff	1	p f e ff
+112/111	pfef	1	p f e f
+112/115	pfeff	1	p f e ff
+112/117	pfeff	1	p f e ff
+112/119	pfef	1	p f e f
+113/035	pfäff	1	p f ä ff
+113/037	pfäff	1	p f ä ff
+113/039	pfäff	1	p f ä ff
+113/047	pfäff	1	p f ä ff
+113/079	pfeff	1	p f e ff
+113/081	pfef	1	p f e f
+113/083	pföff	1	p f ö ff
+113/085	pfeff	1	p f e ff
+113/087	pfäff	1	p f ä ff
+113/121	pfeff	1	p f e ff
+113/123	pfeff	1	p f e ff
+114/035	pfäff	1	p f ä ff
+114/045	pfäff	1	p f ä ff
+114/083	pfeif	1	p f ei f
+114/085	pfeeff	1	p f ee ff
+115/041	pfäff	1	p f ä ff
+115/043	pfäff	1	p f ä ff
+115/045	pfäff	1	p f ä ff
+115/083	pfeif	1	p f ei f
+115/085	pfeif	1	p f ei f
+116/043	pfäff	1	p f ä ff
+116/045	pfäff	1	p f ä ff
+116/083	pföff	1	p f ö ff
+117/043	pfäff	1	p f ä ff
+117/045	pfäff	1	p f ä ff
+118/041	pfäff	1	p f ä ff
+119/083	feff	1	f e ff
+120/085	fef	1	f e f
+121/127	pfaff	1	p f a ff
+122/127	pfaff	1	p f a ff
+122/129	pfaff	1	p f a ff
+123/081	pfef	1	p f e f
+123/123	pfaff	1	p f a ff
+123/125	pfaff	1	p f a ff
+123/127	pfaff	1	p f a ff
+123/129	pfaff	1	p f a ff
+124/125	pfaff	1	p f a ff
+124/127	pfaff	1	p f a ff
+124/129	pfeff	1	p f e ff

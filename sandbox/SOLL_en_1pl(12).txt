@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	sull	1	s u ll
+002/201	sull	1	s u ll
+002/203	sull	1	s u ll
+002/205	sull	1	s u ll
+003/203	sull	1	s u ll
+003/205	soll	1	s o ll
+004/205	sull	1	s u ll
+005/205	sull	1	s u ll
+005/207	soll	1	s o ll
+006/205	sull	1	s u ll
+006/207	sull	1	s u ll
+007/205	soll	1	s o ll
+007/207	sull	1	s u ll
+007/209	sull	1	s u ll
+007/211	sull	1	s u ll
+008/199	sull	1	s u ll
+008/203	soll	1	s o ll
+008/205	sull	1	s u ll
+008/207	soll	1	s o ll
+008/209	sull	1	s u ll
+008/211	sull	1	s u ll
+008/213	soll	1	s o ll
+009/199	sull	1	s u ll
+009/203	sull	1	s u ll
+009/207	soll	1	s o ll
+009/209	sull	1	s u ll
+009/211	sull	1	s u ll
+009/213	sull	1	s u ll
+009/215	sull	1	s u ll
+009/217	sull	1	s u ll
+010/195	sull	1	s u ll
+010/203	sull	1	s u ll
+010/207	sull	1	s u ll
+010/209	sull	1	s u ll
+010/211	sull	1	s u ll
+010/213	sull	1	s u ll
+010/215	sull	1	s u ll
+010/217	soll	1	s o ll
+010/219	soll	1	s o ll
+011/049	skel	1	s k e l
+011/053	ska	1	s k a
+011/055	ska	1	s k a
+011/057	skal	1	s k a l
+011/059	skal	1	s k a l
+011/061	ska	1	s k a
+011/063	ska	1	s k a
+011/065	ska	1	s k a
+011/067	ska	1	s k a
+011/069	ska	1	s k a
+011/187	sull	1	s u ll
+011/189	sull	1	s u ll
+011/191	sull	1	s u ll
+011/195	sull	1	s u ll
+011/197	sull	1	s u ll
+011/203	sull	1	s u ll
+011/205	sull	1	s u ll
+011/207	sull	1	s u ll
+011/209	sull	1	s u ll
+011/211	sull	1	s u ll
+011/213	sull	1	s u ll
+011/215	soll	1	s o ll
+011/217	sull	1	s u ll
+011/219	soll	1	s o ll
+012/047	skell	1	s k e ll
+012/049	skell	1	s k e ll
+012/051	skell	1	s k e ll
+012/053	ska	1	s k a
+012/055	ska	1	s k a
+012/057	skal	1	s k a l
+012/059	ska	1	s k a
+012/061	ska	1	s k a
+012/063	ska	1	s k a
+012/065	skal	1	s k a l
+012/067	ska	1	s k a
+012/069	ska	1	s k a
+012/187	sull	1	s u ll
+012/189	sull	1	s u ll
+012/191	sull	1	s u ll
+012/193	sull	1	s u ll
+012/195	sull	1	s u ll
+012/197	sull	1	s u ll
+012/199	sull	1	s u ll
+012/201	sull	1	s u ll
+012/203	sull	1	s u ll
+012/205	sull	1	s u ll
+012/207	soll	1	s o ll
+012/209	sull	1	s u ll
+012/211	sul	1	s u l
+012/213	sull	1	s u ll
+012/215	soll	1	s o ll
+012/217	sull	1	s u ll
+012/219	soll	1	s o ll
+012/221	soll	1	s o ll
+012/223	sull	1	s u ll
+013/051	skell	1	s k e ll
+013/053	sha	1	s h a
+013/055	scha	1	sch a
+013/057	skal	1	s k a l
+013/059	skal	1	s k a l
+013/061	schö	1	sch ö
+013/063	schü	1	sch ü
+013/065	schöll	1	sch ö ll
+013/067	schöll	1	sch ö ll
+013/161	sähl	1	s äh l
+013/163	säl	1	s ä l
+013/165	sel	1	s e l
+013/167	soll	1	s o ll
+013/187	siull	1	s iu ll
+013/189	soll	1	s o ll
+013/191	sull	1	s u ll
+013/193	sull	1	s u ll
+013/195	sull	1	s u ll
+013/197	sull	1	s u ll
+013/199	sull	1	s u ll
+013/201	sull	1	s u ll
+013/203	sull	1	s u ll
+013/207	sull	1	s u ll
+013/209	sull	1	s u ll
+013/211	sull	1	s u ll
+013/213	sull	1	s u ll
+013/215	sull	1	s u ll
+013/217	soll	1	s o ll
+013/219	sull	1	s u ll
+013/221	soll	1	s o ll
+013/223	soll	1	s o ll
+014/047	skal	1	s k a l
+014/049	skel	1	s k e l
+014/051	skell	1	s k e ll
+014/053	sche	1	sch e
+014/055	schä	1	sch ä
+014/057	ska	1	s k a
+014/059	schüll	1	sch ü ll
+014/061	schö	1	sch ö
+014/063	schöl	1	sch ö l
+014/065	schöll	1	sch ö ll
+014/067	schöll	1	sch ö ll
+014/109	säl	1	s ä l
+014/159	sal	1	s a l
+014/161	sähl	1	s äh l
+014/163	sahl	1	s ah l
+014/165	saal	1	s aa l
+014/167	sel	1	s e l
+014/169	soll	1	s o ll
+014/187	sull	1	s u ll
+014/189	sull	1	s u ll
+014/191	sull	1	s u ll
+014/193	sull	1	s u ll
+014/195	sull	1	s u ll
+014/197	sull	1	s u ll
+014/199	sull	1	s u ll
+014/201	sull	1	s u ll
+014/203	sull	1	s u ll
+014/205	sull	1	s u ll
+014/207	sul	1	s u l
+014/209	sull	1	s u ll
+014/211	sull	1	s u ll
+014/213	soll	1	s o ll
+014/215	soll	1	s o ll
+014/217	soll	1	s o ll
+014/219	soll	1	s o ll
+014/221	soll	1	s o ll
+015/049	skal	1	s k a l
+015/051	ski	1	s k i
+015/053	ski	1	s k i
+015/055	sche	1	sch e
+015/057	schei	1	sch ei
+015/059	schö	1	sch ö
+015/061	schöl	1	sch ö l
+015/063	schöll	1	sch ö ll
+015/065	schö	1	sch ö
+015/067	schull	1	sch u ll
+015/105	säöl	1	s äö l
+015/107	säll	1	s ä ll
+015/109	säl	1	s ä l
+015/151	säl	1	s ä l
+015/153	säl	1	s ä l
+015/155	säl	1	s ä l
+015/157	sel	1	s e l
+015/159	sall	1	s a ll
+015/161	sääl	1	s ää l
+015/163	säl	1	s ä l
+015/165	säl	1	s ä l
+015/167	sel	1	s e l
+015/169	sal	1	s a l
+015/173	säl	1	s ä l
+015/187	soll	1	s o ll
+015/191	sull	1	s u ll
+015/193	sull	1	s u ll
+015/195	sull	1	s u ll
+015/197	sull	1	s u ll
+015/199	sull	1	s u ll
+015/201	sull	1	s u ll
+015/203	sull	1	s u ll
+015/205	sull	1	s u ll
+015/207	sull	1	s u ll
+015/209	sull	1	s u ll
+015/211	sull	1	s u ll
+015/213	sull	1	s u ll
+015/215	sull	1	s u ll
+015/217	soll	1	s o ll
+015/219	soll	1	s o ll
+015/221	soll	1	s o ll
+016/051	ske	1	s k e
+016/055	sche	1	sch e
+016/057	schö	1	sch ö
+016/059	schö	1	sch ö
+016/061	schö	1	sch ö
+016/063	schöll	1	sch ö ll
+016/065	schö	1	sch ö
+016/067	schül	1	sch ü l
+016/081	schö	1	sch ö
+016/083	schöl	1	sch ö l
+016/105	söäll	1	s öä ll
+016/107	söll	1	s ö ll
+016/109	sael	1	s ae l
+016/111	säll	1	s ä ll
+016/145	schaul	1	sch au l
+016/147	scheul	1	sch eu l
+016/149	schäl	1	sch ä l
+016/151	schäl	1	sch ä l
+016/153	schäl	1	sch ä l
+016/155	säl	1	s ä l
+016/157	säl	1	s ä l
+016/159	sel	1	s e l
+016/161	säl	1	s ä l
+016/163	säl	1	s ä l
+016/165	sel	1	s e l
+016/167	säll	1	s ä ll
+016/187	sell	1	s e ll
+016/189	sull	1	s u ll
+016/191	sall	1	s a ll
+016/193	sull	1	s u ll
+016/195	sull	1	s u ll
+016/197	sull	1	s u ll
+016/199	sall	1	s a ll
+016/201	sull	1	s u ll
+016/203	sull	1	s u ll
+016/205	sull	1	s u ll
+016/209	soll	1	s o ll
+016/211	sull	1	s u ll
+016/213	soll	1	s o ll
+016/215	soll	1	s o ll
+016/217	sull	1	s u ll
+016/219	soll	1	s o ll
+017/055	schä	1	sch ä
+017/057	scho	1	sch o
+017/059	schä	1	sch ä
+017/061	schüll	1	sch ü ll
+017/063	söll	1	s ö ll
+017/065	schöll	1	sch ö ll
+017/067	schöll	1	sch ö ll
+017/069	schall	1	sch a ll
+017/081	schäh	1	sch äh
+017/083	schüll	1	sch ü ll
+017/099	säll	1	s ä ll
+017/101	säl	1	s ä l
+017/103	säll	1	s ä ll
+017/107	säl	1	s ä l
+017/109	söl	1	s ö l
+017/145	sel	1	s e l
+017/147	scheul	1	sch eu l
+017/149	schäl	1	sch ä l
+017/151	schäl	1	sch ä l
+017/153	schäl	1	sch ä l
+017/155	säl	1	s ä l
+017/157	säl	1	s ä l
+017/159	säll	1	s ä ll
+017/161	saal	1	s aa l
+017/163	sähl	1	s äh l
+017/165	sall	1	s a ll
+017/169	sull	1	s u ll
+017/171	sal	1	s a l
+017/183	säl	1	s ä l
+017/185	sall	1	s a ll
+017/187	söl	1	s ö l
+017/189	soll	1	s o ll
+017/191	sull	1	s u ll
+017/193	sull	1	s u ll
+017/195	sul	1	s u l
+017/197	sull	1	s u ll
+017/199	sull	1	s u ll
+017/201	sull	1	s u ll
+017/203	sull	1	s u ll
+017/205	sull	1	s u ll
+017/207	sull	1	s u ll
+017/209	sull	1	s u ll
+017/211	sull	1	s u ll
+017/213	sull	1	s u ll
+017/215	sull	1	s u ll
+017/217	sull	1	s u ll
+017/219	soll	1	s o ll
+018/051	schä	1	sch ä
+018/053	schäl	1	sch ä l
+018/055	schö	1	sch ö
+018/057	schö	1	sch ö
+018/059	schüll	1	sch ü ll
+018/061	schöll	1	sch ö ll
+018/063	schüll	1	sch ü ll
+018/065	schüll	1	sch ü ll
+018/067	schüll	1	sch ü ll
+018/069	schöl	1	sch ö l
+018/071	schöll	1	sch ö ll
+018/073	schö	1	sch ö
+018/075	schül	1	sch ü l
+018/079	schö	1	sch ö
+018/081	schüll	1	sch ü ll
+018/097	säll	1	s ä ll
+018/099	säl	1	s ä l
+018/103	säöl	1	s äö l
+018/105	säöl	1	s äö l
+018/107	säl	1	s ä l
+018/109	säl	1	s ä l
+018/111	sal	1	s a l
+018/143	schall	1	sch a ll
+018/145	schöll	1	sch ö ll
+018/147	scholl	1	sch o ll
+018/149	schäl	1	sch ä l
+018/151	schäl	1	sch ä l
+018/153	schäl	1	sch ä l
+018/155	sall	1	s a ll
+018/157	sähl	1	s äh l
+018/159	sall	1	s a ll
+018/161	säl	1	s ä l
+018/163	söll	1	s ö ll
+018/165	säl	1	s ä l
+018/169	sell	1	s e ll
+018/171	säl	1	s ä l
+018/173	saal	1	s aa l
+018/181	säl	1	s ä l
+018/185	sall	1	s a ll
+018/187	sull	1	s u ll
+018/189	sall	1	s a ll
+018/191	sall	1	s a ll
+018/193	sull	1	s u ll
+018/195	sull	1	s u ll
+018/197	sull	1	s u ll
+018/199	sull	1	s u ll
+018/201	sull	1	s u ll
+018/203	sull	1	s u ll
+018/205	sull	1	s u ll
+018/207	sull	1	s u ll
+018/209	sull	1	s u ll
+018/211	sull	1	s u ll
+018/213	sull	1	s u ll
+018/215	sull	1	s u ll
+018/219	sull	1	s u ll
+019/051	schö	1	sch ö
+019/053	schä	1	sch ä
+019/055	schä	1	sch ä
+019/057	schö	1	sch ö
+019/059	schäll	1	sch ä ll
+019/061	schö	1	sch ö
+019/063	schäll	1	sch ä ll
+019/065	schüll	1	sch ü ll
+019/067	schöl	1	sch ö l
+019/069	schül	1	sch ü l
+019/071	schü	1	sch ü
+019/073	schall	1	sch a ll
+019/075	schöll	1	sch ö ll
+019/077	schöl	1	sch ö l
+019/079	schüll	1	sch ü ll
+019/081	schüll	1	sch ü ll
+019/097	söll	1	s ö ll
+019/099	säl	1	s ä l
+019/101	sall	1	s a ll
+019/103	säl	1	s ä l
+019/105	söll	1	s ö ll
+019/107	sähl	1	s äh l
+019/109	säl	1	s ä l
+019/143	scheual	1	sch eua l
+019/145	schöll	1	sch ö ll
+019/147	schäl	1	sch ä l
+019/149	schäl	1	sch ä l
+019/151	schäl	1	sch ä l
+019/153	schäl	1	sch ä l
+019/155	schell	1	sch e ll
+019/157	schäl	1	sch ä l
+019/159	säl	1	s ä l
+019/161	sel	1	s e l
+019/163	sel	1	s e l
+019/165	sehl	1	s eh l
+019/167	sehl	1	s eh l
+019/169	sell	1	s e ll
+019/171	sall	1	s a ll
+019/173	seel	1	s ee l
+019/175	sell	1	s e ll
+019/177	säl	1	s ä l
+019/179	sähl	1	s äh l
+019/181	saal	1	s aa l
+019/183	sall	1	s a ll
+019/185	sell	1	s e ll
+019/187	sull	1	s u ll
+019/189	sall	1	s a ll
+019/191	sull	1	s u ll
+019/193	sull	1	s u ll
+019/195	sull	1	s u ll
+019/197	sull	1	s u ll
+019/199	sull	1	s u ll
+019/201	sull	1	s u ll
+019/203	sull	1	s u ll
+019/205	sull	1	s u ll
+019/207	sul	1	s u l
+019/209	sull	1	s u ll
+019/211	sull	1	s u ll
+019/213	sull	1	s u ll
+019/215	sull	1	s u ll
+019/217	sull	1	s u ll
+019/219	sull	1	s u ll
+020/043	skel	1	s k e l
+020/053	schüll	1	sch ü ll
+020/055	schüll	1	sch ü ll
+020/057	schüll	1	sch ü ll
+020/059	schüll	1	sch ü ll
+020/061	schül	1	sch ü l
+020/063	schöll	1	sch ö ll
+020/065	schöll	1	sch ö ll
+020/067	schüll	1	sch ü ll
+020/069	schüll	1	sch ü ll
+020/071	schöll	1	sch ö ll
+020/073	schüll	1	sch ü ll
+020/075	schäll	1	sch ä ll
+020/077	schöll	1	sch ö ll
+020/079	schüll	1	sch ü ll
+020/081	schül	1	sch ü l
+020/095	säl	1	s ä l
+020/097	säll	1	s ä ll
+020/099	säll	1	s ä ll
+020/101	säöl	1	s äö l
+020/103	säl	1	s ä l
+020/105	säl	1	s ä l
+020/107	säl	1	s ä l
+020/135	säl	1	s ä l
+020/137	schöäl	1	sch öä l
+020/139	schö	1	sch ö
+020/141	scheu	1	sch eu
+020/143	scheul	1	sch eu l
+020/145	scheul	1	sch eu l
+020/147	schäl	1	sch ä l
+020/149	schähl	1	sch äh l
+020/151	schell	1	sch e ll
+020/153	scheel	1	sch ee l
+020/155	schäl	1	sch ä l
+020/157	säl	1	s ä l
+020/159	säl	1	s ä l
+020/161	sull	1	s u ll
+020/163	sal	1	s a l
+020/165	säl	1	s ä l
+020/167	sel	1	s e l
+020/169	süll	1	s ü ll
+020/171	sel	1	s e l
+020/173	säl	1	s ä l
+020/175	säl	1	s ä l
+020/177	säl	1	s ä l
+020/179	sell	1	s e ll
+020/181	sell	1	s e ll
+020/183	soll	1	s o ll
+020/185	sall	1	s a ll
+020/187	sull	1	s u ll
+020/189	sull	1	s u ll
+020/191	sal	1	s a l
+020/193	sull	1	s u ll
+020/195	sull	1	s u ll
+020/197	sull	1	s u ll
+020/199	sull	1	s u ll
+020/201	sull	1	s u ll
+020/203	sull	1	s u ll
+020/205	sull	1	s u ll
+020/207	sull	1	s u ll
+020/209	sull	1	s u ll
+020/211	sull	1	s u ll
+020/213	sull	1	s u ll
+020/215	sull	1	s u ll
+020/217	sull	1	s u ll
+020/219	sull	1	s u ll
+021/055	schüll	1	sch ü ll
+021/057	schö	1	sch ö
+021/059	schäll	1	sch ä ll
+021/061	schöll	1	sch ö ll
+021/063	schüll	1	sch ü ll
+021/065	schöll	1	sch ö ll
+021/067	schüll	1	sch ü ll
+021/069	schöll	1	sch ö ll
+021/071	schül	1	sch ü l
+021/073	schall	1	sch a ll
+021/075	schöll	1	sch ö ll
+021/077	schöll	1	sch ö ll
+021/079	schöll	1	sch ö ll
+021/087	säl	1	s ä l
+021/089	süol	1	s üo l
+021/091	säll	1	s ä ll
+021/093	säl	1	s ä l
+021/095	sal	1	s a l
+021/097	söll	1	s ö ll
+021/099	sooll	1	s oo ll
+021/101	säl	1	s ä l
+021/103	söl	1	s ö l
+021/105	söll	1	s ö ll
+021/107	säl	1	s ä l
+021/109	söll	1	s ö ll
+021/111	sall	1	s a ll
+021/113	sähl	1	s äh l
+021/131	schall	1	sch a ll
+021/133	scho	1	sch o
+021/135	schol	1	sch o l
+021/137	schoal	1	sch oa l
+021/139	scho	1	sch o
+021/141	scheuel	1	sch eue l
+021/143	scholl	1	sch o ll
+021/145	scholl	1	sch o ll
+021/147	schöl	1	sch ö l
+021/149	schäl	1	sch ä l
+021/151	schäl	1	sch ä l
+021/153	schäl	1	sch ä l
+021/155	schääl	1	sch ää l
+021/157	säl	1	s ä l
+021/159	säl	1	s ä l
+021/163	säl	1	s ä l
+021/165	sehl	1	s eh l
+021/167	säl	1	s ä l
+021/169	sel	1	s e l
+021/171	sel	1	s e l
+021/173	sull	1	s u ll
+021/175	sall	1	s a ll
+021/177	sähl	1	s äh l
+021/179	säl	1	s ä l
+021/181	sell	1	s e ll
+021/183	sall	1	s a ll
+021/185	sull	1	s u ll
+021/187	sull	1	s u ll
+021/189	sull	1	s u ll
+021/191	sull	1	s u ll
+021/193	sull	1	s u ll
+021/195	sull	1	s u ll
+021/197	sull	1	s u ll
+021/199	sull	1	s u ll
+021/201	sull	1	s u ll
+021/203	sull	1	s u ll
+021/205	sull	1	s u ll
+021/207	sul	1	s u l
+021/211	sull	1	s u ll
+021/215	sull	1	s u ll
+021/217	soll	1	s o ll
+021/219	sull	1	s u ll
+022/055	schöll	1	sch ö ll
+022/057	schüll	1	sch ü ll
+022/059	schäll	1	sch ä ll
+022/061	schöll	1	sch ö ll
+022/063	schöll	1	sch ö ll
+022/065	schö	1	sch ö
+022/067	schöll	1	sch ö ll
+022/069	schö	1	sch ö
+022/071	schöll	1	sch ö ll
+022/073	schüll	1	sch ü ll
+022/075	schüll	1	sch ü ll
+022/077	schöll	1	sch ö ll
+022/087	säl	1	s ä l
+022/089	säll	1	s ä ll
+022/091	säöl	1	s äö l
+022/093	säl	1	s ä l
+022/095	säll	1	s ä ll
+022/097	säll	1	s ä ll
+022/099	söll	1	s ö ll
+022/101	säll	1	s ä ll
+022/103	sähl	1	s äh l
+022/105	säll	1	s ä ll
+022/107	sall	1	s a ll
+022/109	säl	1	s ä l
+022/111	säl	1	s ä l
+022/113	säl	1	s ä l
+022/115	sähl	1	s äh l
+022/127	scho	1	sch o
+022/129	scholl	1	sch o ll
+022/131	scholl	1	sch o ll
+022/133	schö	1	sch ö
+022/135	scho	1	sch o
+022/137	schu	1	sch u
+022/139	scho	1	sch o
+022/141	schäu	1	sch äu
+022/143	schäul	1	sch äu l
+022/145	scheu	1	sch eu
+022/147	schäul	1	sch äu l
+022/149	schaul	1	sch au l
+022/151	schäl	1	sch ä l
+022/153	schäl	1	sch ä l
+022/155	sähl	1	s äh l
+022/157	säl	1	s ä l
+022/159	söl	1	s ö l
+022/165	sehl	1	s eh l
+022/167	sehl	1	s eh l
+022/169	säl	1	s ä l
+022/171	seel	1	s ee l
+022/173	sull	1	s u ll
+022/175	sell	1	s e ll
+022/177	sull	1	s u ll
+022/179	sull	1	s u ll
+022/181	sull	1	s u ll
+022/183	sull	1	s u ll
+022/185	sull	1	s u ll
+022/187	sull	1	s u ll
+022/189	sull	1	s u ll
+022/191	sull	1	s u ll
+022/193	sull	1	s u ll
+022/195	sull	1	s u ll
+022/197	sull	1	s u ll
+022/199	sull	1	s u ll
+022/201	sull	1	s u ll
+022/203	sull	1	s u ll
+022/205	sull	1	s u ll
+022/209	sull	1	s u ll
+022/211	sol	1	s o l
+022/215	sull	1	s u ll
+022/217	sull	1	s u ll
+022/219	soll	1	s o ll
+023/055	schöll	1	sch ö ll
+023/059	schä	1	sch ä
+023/061	schöll	1	sch ö ll
+023/063	schüll	1	sch ü ll
+023/065	schöll	1	sch ö ll
+023/067	schöll	1	sch ö ll
+023/069	schüll	1	sch ü ll
+023/071	schüll	1	sch ü ll
+023/073	schöl	1	sch ö l
+023/075	schöll	1	sch ö ll
+023/077	schüll	1	sch ü ll
+023/079	söll	1	s ö ll
+023/081	säöl	1	s äö l
+023/083	söäl	1	s öä l
+023/085	säll	1	s ä ll
+023/087	säl	1	s ä l
+023/089	säl	1	s ä l
+023/091	säl	1	s ä l
+023/093	säl	1	s ä l
+023/095	säll	1	s ä ll
+023/097	sael	1	s ae l
+023/099	säl	1	s ä l
+023/101	säl	1	s ä l
+023/103	sall	1	s a ll
+023/105	säl	1	s ä l
+023/107	söl	1	s ö l
+023/109	söäl	1	s öä l
+023/111	säll	1	s ä ll
+023/113	sähl	1	s äh l
+023/115	NA	NA	-
+023/117	süll	1	s ü ll
+023/121	säl	1	s ä l
+023/123	soel	1	s oe l
+023/125	scholl	1	sch o ll
+023/127	schöl	1	sch ö l
+023/129	scheul	1	sch eu l
+023/131	schöll	1	sch ö ll
+023/133	schol	1	sch o l
+023/135	schoal	1	sch oa l
+023/137	scholl	1	sch o ll
+023/139	schoa	1	sch oa
+023/141	scholl	1	sch o ll
+023/143	schoul	1	sch ou l
+023/145	scheul	1	sch eu l
+023/147	scheul	1	sch eu l
+023/149	schöahl	1	sch öah l
+023/151	schäl	1	sch ä l
+023/153	schäl	1	sch ä l
+023/155	schäh	1	sch äh
+023/165	sell	1	s e ll
+023/167	sehl	1	s eh l
+023/169	seel	1	s ee l
+023/175	sall	1	s a ll
+023/177	sall	1	s a ll
+023/179	sull	1	s u ll
+023/181	sull	1	s u ll
+023/183	sull	1	s u ll
+023/185	sull	1	s u ll
+023/187	sull	1	s u ll
+023/189	sull	1	s u ll
+023/191	sull	1	s u ll
+023/193	sull	1	s u ll
+023/195	sull	1	s u ll
+023/197	sull	1	s u ll
+023/199	sull	1	s u ll
+023/201	sull	1	s u ll
+023/203	sull	1	s u ll
+023/205	sull	1	s u ll
+023/207	sull	1	s u ll
+023/215	sul	1	s u l
+023/217	soll	1	s o ll
+024/053	schaä	1	sch aä
+024/057	schüll	1	sch ü ll
+024/059	schüll	1	sch ü ll
+024/061	schöll	1	sch ö ll
+024/063	schöll	1	sch ö ll
+024/065	söll	1	s ö ll
+024/067	schöll	1	sch ö ll
+024/069	schöll	1	sch ö ll
+024/071	schüll	1	sch ü ll
+024/073	schüll	1	sch ü ll
+024/075	schall	1	sch a ll
+024/077	söll	1	s ö ll
+024/079	säul	1	s äu l
+024/081	saell	1	s ae ll
+024/083	säl	1	s ä l
+024/085	säl	1	s ä l
+024/087	säl	1	s ä l
+024/089	sähl	1	s äh l
+024/091	säl	1	s ä l
+024/093	säöl	1	s äö l
+024/095	säll	1	s ä ll
+024/097	säl	1	s ä l
+024/099	sähl	1	s äh l
+024/101	sall	1	s a ll
+024/103	säl	1	s ä l
+024/105	söä	1	s öä
+024/107	säöll	1	s äö ll
+024/109	söll	1	s ö ll
+024/111	sall	1	s a ll
+024/113	säl	1	s ä l
+024/115	söll	1	s ö ll
+024/117	söl	1	s ö l
+024/119	säl	1	s ä l
+024/121	söl	1	s ö l
+024/123	söhl	1	s öh l
+024/125	schäul	1	sch äu l
+024/127	seull	1	s eu ll
+024/129	schöl	1	sch ö l
+024/131	scholl	1	sch o ll
+024/133	schoäl	1	sch oä l
+024/135	scheoll	1	sch eo ll
+024/137	scho	1	sch o
+024/139	scholl	1	sch o ll
+024/141	schööl	1	sch öö l
+024/143	schöoll	1	sch öo ll
+024/145	scheul	1	sch eu l
+024/147	scholl	1	sch o ll
+024/149	scheu	1	sch eu
+024/151	scho	1	sch o
+024/153	scho	1	sch o
+024/155	soo	1	s oo
+024/163	sull	1	s u ll
+024/165	seal	1	s ea l
+024/167	säl	1	s ä l
+024/169	sähl	1	s äh l
+024/171	säl	1	s ä l
+024/175	sehl	1	s eh l
+024/179	sull	1	s u ll
+024/181	sull	1	s u ll
+024/183	sull	1	s u ll
+024/185	sull	1	s u ll
+024/187	sull	1	s u ll
+024/189	sull	1	s u ll
+024/191	sull	1	s u ll
+024/193	sull	1	s u ll
+024/195	soll	1	s o ll
+024/197	sull	1	s u ll
+024/199	sul	1	s u l
+024/201	sull	1	s u ll
+024/203	sul	1	s u l
+024/217	sul	1	s u l
+024/221	sull	1	s u ll
+025/043	sill	1	s i ll
+025/051	schä	1	sch ä
+025/053	schö	1	sch ö
+025/055	schä	1	sch ä
+025/057	schüll	1	sch ü ll
+025/059	schöll	1	sch ö ll
+025/061	schöl	1	sch ö l
+025/063	schäo	1	sch äo
+025/065	schöll	1	sch ö ll
+025/067	schüll	1	sch ü ll
+025/069	schöll	1	sch ö ll
+025/071	schül	1	sch ü l
+025/073	schü	1	sch ü
+025/075	schül	1	sch ü l
+025/077	säl	1	s ä l
+025/079	säl	1	s ä l
+025/081	säll	1	s ä ll
+025/083	söll	1	s ö ll
+025/085	söll	1	s ö ll
+025/087	säl	1	s ä l
+025/089	säl	1	s ä l
+025/091	söähl	1	s öäh l
+025/093	sääl	1	s ää l
+025/095	söhl	1	s öh l
+025/099	söl	1	s ö l
+025/101	säl	1	s ä l
+025/103	söhl	1	s öh l
+025/105	sael	1	s ae l
+025/107	söl	1	s ö l
+025/109	säl	1	s ä l
+025/111	söäl	1	s öä l
+025/113	söl	1	s ö l
+025/115	söhl	1	s öh l
+025/123	söl	1	s ö l
+025/125	söäl	1	s öä l
+025/127	scholl	1	sch o ll
+025/129	söl	1	s ö l
+025/131	scholl	1	sch o ll
+025/133	schöl	1	sch ö l
+025/135	scho	1	sch o
+025/137	scheul	1	sch eu l
+025/139	schoa	1	sch oa
+025/141	schoa	1	sch oa
+025/143	scha	1	sch a
+025/145	scho	1	sch o
+025/147	schoa	1	sch oa
+025/149	schol	1	sch o l
+025/151	schöll	1	sch ö ll
+025/153	schö	1	sch ö
+025/155	scho	1	sch o
+025/157	so	1	s o
+025/159	sull	1	s u ll
+025/177	sall	1	s a ll
+025/179	sull	1	s u ll
+025/181	sull	1	s u ll
+025/183	sull	1	s u ll
+025/185	sull	1	s u ll
+025/187	sull	1	s u ll
+025/189	sull	1	s u ll
+025/191	sull	1	s u ll
+026/031	sull	1	s u ll
+026/033	sall	1	s a ll
+026/037	sö	1	s ö
+026/041	schöl	1	sch ö l
+026/043	schöl	1	sch ö l
+026/045	sgöl	1	s g ö l
+026/051	schö	1	sch ö
+026/053	schä	1	sch ä
+026/055	schüll	1	sch ü ll
+026/057	schüll	1	sch ü ll
+026/059	so	1	s o
+026/061	schö	1	sch ö
+026/063	schöll	1	sch ö ll
+026/065	schüll	1	sch ü ll
+026/067	schöl	1	sch ö l
+026/069	schöl	1	sch ö l
+026/071	schüll	1	sch ü ll
+026/073	schü	1	sch ü
+026/075	söll	1	s ö ll
+026/077	säl	1	s ä l
+026/079	säl	1	s ä l
+026/081	säl	1	s ä l
+026/083	säl	1	s ä l
+026/085	säll	1	s ä ll
+026/087	säll	1	s ä ll
+026/089	säl	1	s ä l
+026/091	säl	1	s ä l
+026/093	säl	1	s ä l
+026/095	söll	1	s ö ll
+026/097	säll	1	s ä ll
+026/099	säll	1	s ä ll
+026/101	säl	1	s ä l
+026/103	säl	1	s ä l
+026/105	säl	1	s ä l
+026/107	söll	1	s ö ll
+026/109	söhl	1	s öh l
+026/111	säl	1	s ä l
+026/113	söall	1	s öa ll
+026/115	söäl	1	s öä l
+026/117	söäl	1	s öä l
+026/119	söll	1	s ö ll
+026/123	schöll	1	sch ö ll
+026/125	schöll	1	sch ö ll
+026/127	scholl	1	sch o ll
+026/129	schäöl	1	sch äö l
+026/131	schäöl	1	sch äö l
+026/133	scha	1	sch a
+026/135	schöa	1	sch öa
+026/137	schoa	1	sch oa
+026/139	schoa	1	sch oa
+026/141	schäl	1	sch ä l
+026/143	scheul	1	sch eu l
+026/145	scholl	1	sch o ll
+026/147	scha	1	sch a
+026/153	NA	NA	-
+026/155	schoa	1	sch oa
+026/157	soll	1	s o ll
+026/159	sah	1	s ah
+026/161	so	1	s o
+026/165	säl	1	s ä l
+026/173	sell	1	s e ll
+026/175	sull	1	s u ll
+026/177	sehl	1	s eh l
+026/179	soll	1	s o ll
+026/181	sull	1	s u ll
+026/183	sull	1	s u ll
+026/185	sull	1	s u ll
+026/187	sull	1	s u ll
+026/189	soll	1	s o ll
+027/027	söl	1	s ö l
+027/035	sööl	1	s öö l
+027/037	siöhl	1	s iöh l
+027/039	sgöll	1	s g ö ll
+027/041	schöl	1	sch ö l
+027/043	schäl	1	sch ä l
+027/045	schäl	1	sch ä l
+027/047	ssgääl	1	ss g ää l
+027/051	schöh	1	sch öh
+027/053	schä	1	sch ä
+027/055	schüll	1	sch ü ll
+027/057	schää	1	sch ää
+027/059	schö	1	sch ö
+027/061	schöh	1	sch öh
+027/063	schä	1	sch ä
+027/065	schöll	1	sch ö ll
+027/067	schäll	1	sch ä ll
+027/069	söll	1	s ö ll
+027/071	schüll	1	sch ü ll
+027/073	schüll	1	sch ü ll
+027/075	so	1	s o
+027/077	sööl	1	s öö l
+027/079	söl	1	s ö l
+027/081	sääl	1	s ää l
+027/083	söäl	1	s öä l
+027/085	säl	1	s ä l
+027/087	sael	1	s ae l
+027/089	säl	1	s ä l
+027/091	NA	NA	-
+027/093	söll	1	s ö ll
+027/095	söäll	1	s öä ll
+027/099	säll	1	s ä ll
+027/101	söhl	1	s öh l
+027/103	säl	1	s ä l
+027/105	säl	1	s ä l
+027/107	söll	1	s ö ll
+027/109	säl	1	s ä l
+027/111	söhl	1	s öh l
+027/113	söäl	1	s öä l
+027/115	söll	1	s ö ll
+027/117	soäl	1	s oä l
+027/119	söll	1	s ö ll
+027/123	söahl	1	s öah l
+027/125	soel	1	s oe l
+027/127	schöll	1	sch ö ll
+027/129	schaö	1	sch aö
+027/131	schöa	1	sch öa
+027/135	schö	1	sch ö
+027/137	scho	1	sch o
+027/139	scheu	1	sch eu
+027/141	schö	1	sch ö
+027/143	schoau	1	sch oau
+027/145	säl	1	s ä l
+027/147	schou	1	sch ou
+027/149	schöul	1	sch öu l
+027/151	scholl	1	sch o ll
+027/153	soh	1	s oh
+027/155	soo	1	s oo
+027/157	soll	1	s o ll
+027/159	söh	1	s öh
+027/161	scho	1	sch o
+027/167	schaul	1	sch au l
+027/171	sehl	1	s eh l
+027/173	sel	1	s e l
+027/175	sull	1	s u ll
+027/177	sull	1	s u ll
+027/179	soll	1	s o ll
+027/181	sull	1	s u ll
+027/183	sull	1	s u ll
+027/185	sull	1	s u ll
+028/033	sul	1	s u l
+028/035	säöl	1	s äö l
+028/037	schöl	1	sch ö l
+028/039	schöö	1	sch öö
+028/041	sgöl	1	s g ö l
+028/043	schäöl	1	sch äö l
+028/045	schae	1	sch ae
+028/047	sgäl	1	s g ä l
+028/049	schöl	1	sch ö l
+028/051	schö	1	sch ö
+028/053	schöll	1	sch ö ll
+028/055	schöö	1	sch öö
+028/057	schüll	1	sch ü ll
+028/059	schüll	1	sch ü ll
+028/061	schüll	1	sch ü ll
+028/063	schöll	1	sch ö ll
+028/065	schöll	1	sch ö ll
+028/067	schöl	1	sch ö l
+028/069	sö	1	s ö
+028/071	söll	1	s ö ll
+028/073	schöö	1	sch öö
+028/075	schööl	1	sch öö l
+028/077	söll	1	s ö ll
+028/079	säl	1	s ä l
+028/081	söäll	1	s öä ll
+028/083	sül	1	s ü l
+028/085	saell	1	s ae ll
+028/087	söäl	1	s öä l
+028/089	söll	1	s ö ll
+028/091	säll	1	s ä ll
+028/093	sael	1	s ae l
+028/095	säl	1	s ä l
+028/097	säl	1	s ä l
+028/099	söäl	1	s öä l
+028/103	söll	1	s ö ll
+028/105	säl	1	s ä l
+028/107	säl	1	s ä l
+028/109	söahl	1	s öah l
+028/111	söäl	1	s öä l
+028/113	söal	1	s öa l
+028/115	sööl	1	s öö l
+028/117	söll	1	s ö ll
+028/119	söll	1	s ö ll
+028/121	söl	1	s ö l
+028/123	söh	1	s öh
+028/125	söll	1	s ö ll
+028/127	schäul	1	sch äu l
+028/129	schö	1	sch ö
+028/131	schöll	1	sch ö ll
+028/133	schö	1	sch ö
+028/135	schäu	1	sch äu
+028/137	schö	1	sch ö
+028/139	schoä	1	sch oä
+028/141	schö	1	sch ö
+028/143	schö	1	sch ö
+028/145	schou	1	sch ou
+028/147	schöll	1	sch ö ll
+028/151	schöl	1	sch ö l
+028/153	schol	1	sch o l
+028/155	schoo	1	sch oo
+028/157	schol	1	sch o l
+028/159	sei	1	s ei
+028/161	scho	1	sch o
+028/165	soll	1	s o ll
+028/169	seel	1	s ee l
+028/171	seel	1	s ee l
+028/173	sähl	1	s äh l
+028/175	seel	1	s ee l
+028/177	säel	1	s äe l
+028/179	säl	1	s ä l
+028/181	söll	1	s ö ll
+028/183	sull	1	s u ll
+028/185	sull	1	s u ll
+029/033	zeul	1	z eu l
+029/035	zöl	1	z ö l
+029/037	söl	1	s ö l
+029/039	schall	1	sch a ll
+029/043	schäöl	1	sch äö l
+029/045	schäöl	1	sch äö l
+029/047	schöl	1	sch ö l
+029/049	schäl	1	sch ä l
+029/051	schö	1	sch ö
+029/053	schö	1	sch ö
+029/055	schöh	1	sch öh
+029/057	schäö	1	sch äö
+029/059	schüll	1	sch ü ll
+029/061	schüll	1	sch ü ll
+029/065	schü	1	sch ü
+029/067	schöll	1	sch ö ll
+029/069	schüll	1	sch ü ll
+029/071	söll	1	s ö ll
+029/073	sä	1	s ä
+029/075	schöö	1	sch öö
+029/077	söäll	1	s öä ll
+029/079	säl	1	s ä l
+029/081	säl	1	s ä l
+029/083	säöl	1	s äö l
+029/085	säl	1	s ä l
+029/087	söll	1	s ö ll
+029/089	säll	1	s ä ll
+029/091	sael	1	s ae l
+029/093	säl	1	s ä l
+029/095	säl	1	s ä l
+029/097	säl	1	s ä l
+029/099	säl	1	s ä l
+029/101	säl	1	s ä l
+029/103	säll	1	s ä ll
+029/105	söll	1	s ö ll
+029/107	sall	1	s a ll
+029/109	säll	1	s ä ll
+029/111	söll	1	s ö ll
+029/113	söhl	1	s öh l
+029/115	söl	1	s ö l
+029/117	sühl	1	s üh l
+029/119	söl	1	s ö l
+029/121	sa	1	s a
+029/123	söäl	1	s öä l
+029/125	sö	1	s ö
+029/127	schäul	1	sch äu l
+029/129	schöll	1	sch ö ll
+029/131	schöl	1	sch ö l
+029/133	schö	1	sch ö
+029/135	schö	1	sch ö
+029/137	schö	1	sch ö
+029/139	schö	1	sch ö
+029/141	schöa	1	sch öa
+029/143	schöö	1	sch öö
+029/145	schö	1	sch ö
+029/147	schö	1	sch ö
+029/149	scho	1	sch o
+029/151	schu	1	sch u
+029/153	scho	1	sch o
+029/155	schol	1	sch o l
+029/157	scha	1	sch a
+029/159	scholl	1	sch o ll
+029/161	scha	1	sch a
+029/163	schol	1	sch o l
+029/165	scho	1	sch o
+029/167	söl	1	s ö l
+029/169	sel	1	s e l
+029/171	säl	1	s ä l
+029/173	säl	1	s ä l
+029/175	söll	1	s ö ll
+029/177	sä	1	s ä
+029/181	säll	1	s ä ll
+030/033	sööl	1	s öö l
+030/035	söl	1	s ö l
+030/037	söl	1	s ö l
+030/039	sö	1	s ö
+030/041	schööl	1	sch öö l
+030/043	schöäl	1	sch öä l
+030/045	schöl	1	sch ö l
+030/047	schö	1	sch ö
+030/049	schä	1	sch ä
+030/051	schöll	1	sch ö ll
+030/053	schäh	1	sch äh
+030/055	schö	1	sch ö
+030/057	schöl	1	sch ö l
+030/059	schöl	1	sch ö l
+030/061	schüll	1	sch ü ll
+030/065	schüll	1	sch ü ll
+030/067	süll	1	s ü ll
+030/071	süll	1	s ü ll
+030/073	schöll	1	sch ö ll
+030/075	schöll	1	sch ö ll
+030/077	säl	1	s ä l
+030/079	sää	1	s ää
+030/081	söll	1	s ö ll
+030/083	säl	1	s ä l
+030/085	soäl	1	s oä l
+030/087	säll	1	s ä ll
+030/089	sähl	1	s äh l
+030/091	sael	1	s ae l
+030/093	söll	1	s ö ll
+030/095	säl	1	s ä l
+030/097	säl	1	s ä l
+030/099	säol	1	s äo l
+030/101	säl	1	s ä l
+030/103	sähl	1	s äh l
+030/105	söäl	1	s öä l
+030/107	säl	1	s ä l
+030/109	säl	1	s ä l
+030/111	säöl	1	s äö l
+030/113	söl	1	s ö l
+030/115	sööhl	1	s ööh l
+030/117	säll	1	s ä ll
+030/119	söal	1	s öa l
+030/121	söl	1	s ö l
+030/123	söal	1	s öa l
+030/125	söäl	1	s öä l
+030/127	schöll	1	sch ö ll
+030/129	schö	1	sch ö
+030/131	schäöl	1	sch äö l
+030/133	schöa	1	sch öa
+030/135	schö	1	sch ö
+030/137	sö	1	s ö
+030/139	schö	1	sch ö
+030/141	schö	1	sch ö
+030/143	schö	1	sch ö
+030/145	schöö	1	sch öö
+030/147	schö	1	sch ö
+030/149	schohl	1	sch oh l
+030/151	scho	1	sch o
+030/153	schah	1	sch ah
+030/155	schohl	1	sch oh l
+030/157	scho	1	sch o
+030/159	schol	1	sch o l
+030/161	scho	1	sch o
+030/163	scho	1	sch o
+030/165	schol	1	sch o l
+030/167	sohl	1	s oh l
+030/169	sea	1	s ea
+030/171	sel	1	s e l
+030/173	säl	1	s ä l
+030/175	se	1	s e
+030/177	sel	1	s e l
+030/179	sä	1	s ä
+030/181	soll	1	s o ll
+030/183	säl	1	s ä l
+031/035	söl	1	s ö l
+031/037	sööl	1	s öö l
+031/039	schö	1	sch ö
+031/041	söä	1	s öä
+031/043	schähl	1	sch äh l
+031/045	schäl	1	sch ä l
+031/047	schä	1	sch ä
+031/049	schä	1	sch ä
+031/051	schö	1	sch ö
+031/053	schö	1	sch ö
+031/055	schö	1	sch ö
+031/057	schöll	1	sch ö ll
+031/059	schöll	1	sch ö ll
+031/061	schül	1	sch ü l
+031/063	süll	1	s ü ll
+031/065	schüll	1	sch ü ll
+031/067	söll	1	s ö ll
+031/069	schöll	1	sch ö ll
+031/071	schül	1	sch ü l
+031/073	soll	1	s o ll
+031/075	schöll	1	sch ö ll
+031/077	söll	1	s ö ll
+031/079	schöll	1	sch ö ll
+031/081	söäll	1	s öä ll
+031/083	sall	1	s a ll
+031/085	soll	1	s o ll
+031/087	säl	1	s ä l
+031/089	sall	1	s a ll
+031/091	söäl	1	s öä l
+031/093	süll	1	s ü ll
+031/095	söll	1	s ö ll
+031/097	söll	1	s ö ll
+031/099	söll	1	s ö ll
+031/101	söll	1	s ö ll
+031/103	säöl	1	s äö l
+031/105	säl	1	s ä l
+031/107	soäl	1	s oä l
+031/109	söll	1	s ö ll
+031/111	söll	1	s ö ll
+031/113	söll	1	s ö ll
+031/115	söl	1	s ö l
+031/117	söl	1	s ö l
+031/119	söll	1	s ö ll
+031/121	söä	1	s öä
+031/123	schö	1	sch ö
+031/125	söll	1	s ö ll
+031/127	söä	1	s öä
+031/129	schö	1	sch ö
+031/131	schüll	1	sch ü ll
+031/133	scheul	1	sch eu l
+031/135	scha	1	sch a
+031/137	scha	1	sch a
+031/139	scheu	1	sch eu
+031/141	schö	1	sch ö
+031/143	schö	1	sch ö
+031/145	schö	1	sch ö
+031/147	schoo	1	sch oo
+031/149	schö	1	sch ö
+031/151	scho	1	sch o
+031/153	schoal	1	sch oa l
+031/155	schol	1	sch o l
+031/157	schol	1	sch o l
+031/159	scho	1	sch o
+031/161	scho	1	sch o
+031/163	scho	1	sch o
+031/167	sä	1	s ä
+031/169	soll	1	s o ll
+031/171	soll	1	s o ll
+031/173	soll	1	s o ll
+031/175	säl	1	s ä l
+031/177	söl	1	s ö l
+031/179	seh	1	s eh
+032/035	söl	1	s ö l
+032/037	söl	1	s ö l
+032/039	sööl	1	s öö l
+032/041	schö	1	sch ö
+032/043	schöel	1	sch öe l
+032/045	schgöh	1	sch g öh
+032/047	schä	1	sch ä
+032/049	schäl	1	sch ä l
+032/051	schäl	1	sch ä l
+032/053	schö	1	sch ö
+032/055	schöh	1	sch öh
+032/057	schöäl	1	sch öä l
+032/059	schüll	1	sch ü ll
+032/061	schüll	1	sch ü ll
+032/065	schüll	1	sch ü ll
+032/069	schül	1	sch ü l
+032/071	schöll	1	sch ö ll
+032/073	söll	1	s ö ll
+032/075	söll	1	s ö ll
+032/077	schüll	1	sch ü ll
+032/079	schöll	1	sch ö ll
+032/081	schöll	1	sch ö ll
+032/083	söl	1	s ö l
+032/085	säll	1	s ä ll
+032/087	söll	1	s ö ll
+032/089	söll	1	s ö ll
+032/091	söll	1	s ö ll
+032/093	söll	1	s ö ll
+032/095	sai	1	s ai
+032/097	söll	1	s ö ll
+032/099	söll	1	s ö ll
+032/101	söll	1	s ö ll
+032/103	sääll	1	s ää ll
+032/105	söll	1	s ö ll
+032/107	soll	1	s o ll
+032/111	söl	1	s ö l
+032/113	söll	1	s ö ll
+032/115	söal	1	s öa l
+032/117	söäl	1	s öä l
+032/119	söl	1	s ö l
+032/121	sol	1	s o l
+032/123	söäl	1	s öä l
+032/125	schöäh	1	sch öäh
+032/127	schö	1	sch ö
+032/129	schö	1	sch ö
+032/131	schöll	1	sch ö ll
+032/133	schöä	1	sch öä
+032/135	scholl	1	sch o ll
+032/139	schöll	1	sch ö ll
+032/141	schö	1	sch ö
+032/143	schö	1	sch ö
+032/145	schö	1	sch ö
+032/147	schö	1	sch ö
+032/149	schö	1	sch ö
+032/151	schäu	1	sch äu
+032/153	scho	1	sch o
+032/157	scho	1	sch o
+032/159	schoh	1	sch oh
+032/161	schoo	1	sch oo
+032/163	schah	1	sch ah
+032/167	sää	1	s ää
+032/169	soll	1	s o ll
+032/171	soll	1	s o ll
+032/173	soll	1	s o ll
+032/175	se	1	s e
+032/177	söll	1	s ö ll
+032/179	söh	1	s öh
+032/181	sall	1	s a ll
+032/183	sal	1	s a l
+033/035	schöll	1	sch ö ll
+033/037	söl	1	s ö l
+033/039	sö	1	s ö
+033/041	schö	1	sch ö
+033/043	schall	1	sch a ll
+033/045	schää	1	sch ää
+033/047	schö	1	sch ö
+033/049	schä	1	sch ä
+033/051	schäl	1	sch ä l
+033/053	sgä	1	s g ä
+033/055	schö	1	sch ö
+033/057	schö	1	sch ö
+033/059	schüll	1	sch ü ll
+033/061	söll	1	s ö ll
+033/063	schö	1	sch ö
+033/065	schüll	1	sch ü ll
+033/067	schüll	1	sch ü ll
+033/069	schüll	1	sch ü ll
+033/071	schüll	1	sch ü ll
+033/073	schöll	1	sch ö ll
+033/075	söll	1	s ö ll
+033/077	schüll	1	sch ü ll
+033/079	schöll	1	sch ö ll
+033/081	söll	1	s ö ll
+033/083	säl	1	s ä l
+033/085	soll	1	s o ll
+033/087	söll	1	s ö ll
+033/089	söll	1	s ö ll
+033/091	söll	1	s ö ll
+033/093	söll	1	s ö ll
+033/095	söll	1	s ö ll
+033/097	söll	1	s ö ll
+033/099	söll	1	s ö ll
+033/101	soll	1	s o ll
+033/103	söll	1	s ö ll
+033/105	söll	1	s ö ll
+033/107	soll	1	s o ll
+033/109	söl	1	s ö l
+033/111	söll	1	s ö ll
+033/113	söäll	1	s öä ll
+033/115	söl	1	s ö l
+033/117	söhl	1	s öh l
+033/119	söhl	1	s öh l
+033/121	söäl	1	s öä l
+033/123	soll	1	s o ll
+033/125	sö	1	s ö
+033/127	sö	1	s ö
+033/129	söl	1	s ö l
+033/131	schöll	1	sch ö ll
+033/133	söll	1	s ö ll
+033/135	scho	1	sch o
+033/137	schall	1	sch a ll
+033/139	sö	1	s ö
+033/141	schö	1	sch ö
+033/143	schö	1	sch ö
+033/145	schö	1	sch ö
+033/147	schö	1	sch ö
+033/149	schö	1	sch ö
+033/151	schä	1	sch ä
+033/153	söll	1	s ö ll
+033/155	schol	1	sch o l
+033/159	scho	1	sch o
+033/161	schö	1	sch ö
+033/163	scho	1	sch o
+033/165	söhl	1	s öh l
+033/167	sö	1	s ö
+033/169	sö	1	s ö
+033/173	sehl	1	s eh l
+033/175	soll	1	s o ll
+033/177	se	1	s e
+034/035	schöhl	1	sch öh l
+034/039	schöl	1	sch ö l
+034/041	schäl	1	sch ä l
+034/043	schähl	1	sch äh l
+034/045	schäl	1	sch ä l
+034/047	schä	1	sch ä
+034/049	schöä	1	sch öä
+034/051	schö	1	sch ö
+034/053	schöl	1	sch ö l
+034/055	schä	1	sch ä
+034/057	scho	1	sch o
+034/059	schä	1	sch ä
+034/061	schüll	1	sch ü ll
+034/063	schel	1	sch e l
+034/065	schöll	1	sch ö ll
+034/067	schüll	1	sch ü ll
+034/069	schü	1	sch ü
+034/071	schöll	1	sch ö ll
+034/073	süll	1	s ü ll
+034/075	ssöll	1	ss ö ll
+034/077	schöll	1	sch ö ll
+034/079	schöl	1	sch ö l
+034/081	schöll	1	sch ö ll
+034/083	schöll	1	sch ö ll
+034/085	söll	1	s ö ll
+034/087	söll	1	s ö ll
+034/089	söll	1	s ö ll
+034/091	söll	1	s ö ll
+034/093	söll	1	s ö ll
+034/095	söll	1	s ö ll
+034/097	säll	1	s ä ll
+034/099	söll	1	s ö ll
+034/101	söll	1	s ö ll
+034/103	söll	1	s ö ll
+034/105	söll	1	s ö ll
+034/107	sahl	1	s ah l
+034/109	söll	1	s ö ll
+034/111	söll	1	s ö ll
+034/113	sööl	1	s öö l
+034/115	söll	1	s ö ll
+034/117	söl	1	s ö l
+034/119	söll	1	s ö ll
+034/121	soel	1	s oe l
+034/125	sööll	1	s öö ll
+034/127	söl	1	s ö l
+034/129	söl	1	s ö l
+034/131	sell	1	s e ll
+034/133	schö	1	sch ö
+034/135	sö	1	s ö
+034/137	söll	1	s ö ll
+034/139	schö	1	sch ö
+034/141	schöö	1	sch öö
+034/143	schö	1	sch ö
+034/145	schö	1	sch ö
+034/147	schö	1	sch ö
+034/149	schö	1	sch ö
+034/151	schö	1	sch ö
+034/155	schö	1	sch ö
+034/157	schö	1	sch ö
+034/161	schö	1	sch ö
+034/163	soal	1	s oa l
+034/165	söl	1	s ö l
+034/167	sall	1	s a ll
+034/169	söö	1	s öö
+034/173	säl	1	s ä l
+035/035	schöll	1	sch ö ll
+035/037	schöl	1	sch ö l
+035/039	schöll	1	sch ö ll
+035/041	schööl	1	sch öö l
+035/043	schäll	1	sch ä ll
+035/045	schä	1	sch ä
+035/047	schäöl	1	sch äö l
+035/049	schäh	1	sch äh
+035/051	schö	1	sch ö
+035/053	schö	1	sch ö
+035/055	schö	1	sch ö
+035/057	schüll	1	sch ü ll
+035/059	schüll	1	sch ü ll
+035/061	schä	1	sch ä
+035/063	schöll	1	sch ö ll
+035/065	schö	1	sch ö
+035/067	söll	1	s ö ll
+035/069	schüll	1	sch ü ll
+035/071	schöll	1	sch ö ll
+035/073	schö	1	sch ö
+035/075	söll	1	s ö ll
+035/077	schöll	1	sch ö ll
+035/079	schöll	1	sch ö ll
+035/081	söll	1	s ö ll
+035/083	schöll	1	sch ö ll
+035/085	schöl	1	sch ö l
+035/087	söll	1	s ö ll
+035/089	söll	1	s ö ll
+035/091	söl	1	s ö l
+035/093	säll	1	s ä ll
+035/095	sall	1	s a ll
+035/097	söll	1	s ö ll
+035/099	soll	1	s o ll
+035/101	söll	1	s ö ll
+035/103	söll	1	s ö ll
+035/105	sall	1	s a ll
+035/107	söll	1	s ö ll
+035/109	söll	1	s ö ll
+035/111	söll	1	s ö ll
+035/113	söhl	1	s öh l
+035/115	söhl	1	s öh l
+035/117	söhl	1	s öh l
+035/121	sall	1	s a ll
+035/123	söll	1	s ö ll
+035/125	säl	1	s ä l
+035/127	söäl	1	s öä l
+035/129	söl	1	s ö l
+035/133	söl	1	s ö l
+035/135	söll	1	s ö ll
+035/137	söhl	1	s öh l
+035/139	sö	1	s ö
+035/141	schö	1	sch ö
+035/143	schal	1	sch a l
+035/145	schö	1	sch ö
+035/147	schö	1	sch ö
+035/149	schö	1	sch ö
+035/151	scha	1	sch a
+035/153	schall	1	sch a ll
+035/155	schö	1	sch ö
+035/157	sche	1	sch e
+035/165	sö	1	s ö
+035/167	sö	1	s ö
+035/169	sö	1	s ö
+035/171	söl	1	s ö l
+035/173	sell	1	s e ll
+036/033	schöl	1	sch ö l
+036/035	schöl	1	sch ö l
+036/039	schöll	1	sch ö ll
+036/041	schöll	1	sch ö ll
+036/043	schäl	1	sch ä l
+036/045	schäl	1	sch ä l
+036/047	schä	1	sch ä
+036/049	schäl	1	sch ä l
+036/051	schö	1	sch ö
+036/053	schö	1	sch ö
+036/055	schüll	1	sch ü ll
+036/057	schüll	1	sch ü ll
+036/059	schö	1	sch ö
+036/061	schüll	1	sch ü ll
+036/063	schü	1	sch ü
+036/065	schöll	1	sch ö ll
+036/067	schü	1	sch ü
+036/069	schö	1	sch ö
+036/071	schöll	1	sch ö ll
+036/073	schall	1	sch a ll
+036/075	schöll	1	sch ö ll
+036/077	schöll	1	sch ö ll
+036/079	schöll	1	sch ö ll
+036/081	schöll	1	sch ö ll
+036/083	schöll	1	sch ö ll
+036/085	söll	1	s ö ll
+036/087	söll	1	s ö ll
+036/089	NA	NA	-
+036/091	söll	1	s ö ll
+036/095	söl	1	s ö l
+036/097	söll	1	s ö ll
+036/099	söll	1	s ö ll
+036/101	söll	1	s ö ll
+036/103	sall	1	s a ll
+036/105	söll	1	s ö ll
+036/107	söll	1	s ö ll
+036/109	söll	1	s ö ll
+036/111	söll	1	s ö ll
+036/113	söäl	1	s öä l
+036/115	säöl	1	s äö l
+036/117	söll	1	s ö ll
+036/119	söl	1	s ö l
+036/121	söäl	1	s öä l
+036/123	söl	1	s ö l
+036/125	säl	1	s ä l
+036/127	säll	1	s ä ll
+036/129	söll	1	s ö ll
+036/133	söäl	1	s öä l
+036/135	söll	1	s ö ll
+036/137	seel	1	s ee l
+036/139	sähl	1	s äh l
+036/141	scha	1	sch a
+036/143	schö	1	sch ö
+036/147	schö	1	sch ö
+036/149	schall	1	sch a ll
+036/151	schö	1	sch ö
+036/153	schall	1	sch a ll
+036/155	scha	1	sch a
+036/161	soll	1	s o ll
+036/163	schall	1	sch a ll
+036/165	NA	NA	-
+036/167	söo	1	s öo
+036/169	sö	1	s ö
+036/171	sell	1	s e ll
+037/033	schall	1	sch a ll
+037/035	söll	1	s ö ll
+037/037	schöll	1	sch ö ll
+037/039	schöl	1	sch ö l
+037/041	sschöl	1	ss ch ö l
+037/043	schä	1	sch ä
+037/045	schä	1	sch ä
+037/047	schä	1	sch ä
+037/049	sö	1	s ö
+037/051	sschöh	1	ss ch öh
+037/053	schö	1	sch ö
+037/055	schö	1	sch ö
+037/057	schö	1	sch ö
+037/059	schö	1	sch ö
+037/061	schü	1	sch ü
+037/063	scho	1	sch o
+037/065	schöl	1	sch ö l
+037/067	schö	1	sch ö
+037/069	schö	1	sch ö
+037/071	schö	1	sch ö
+037/073	schö	1	sch ö
+037/075	schö	1	sch ö
+037/077	schöll	1	sch ö ll
+037/079	soo	1	s oo
+037/081	soo	1	s oo
+037/083	söll	1	s ö ll
+037/085	soll	1	s o ll
+037/087	söll	1	s ö ll
+037/089	säll	1	s ä ll
+037/091	söl	1	s ö l
+037/093	söll	1	s ö ll
+037/095	söll	1	s ö ll
+037/097	söll	1	s ö ll
+037/099	söll	1	s ö ll
+037/101	söäll	1	s öä ll
+037/105	söll	1	s ö ll
+037/107	sall	1	s a ll
+037/109	söl	1	s ö l
+037/111	söll	1	s ö ll
+037/113	soll	1	s o ll
+037/115	sell	1	s e ll
+037/117	säul	1	s äu l
+037/119	säll	1	s ä ll
+037/121	seäll	1	s eä ll
+037/123	sell	1	s e ll
+037/125	säll	1	s ä ll
+037/127	säl	1	s ä l
+037/129	sell	1	s e ll
+037/131	sell	1	s e ll
+037/133	siäl	1	s iä l
+037/135	säl	1	s ä l
+037/137	sall	1	s a ll
+037/139	sähl	1	s äh l
+037/141	schall	1	sch a ll
+037/145	scha	1	sch a
+037/147	scha	1	sch a
+037/149	schö	1	sch ö
+037/151	schö	1	sch ö
+037/153	scha	1	sch a
+037/155	schö	1	sch ö
+037/157	scha	1	sch a
+037/159	schö	1	sch ö
+037/163	schö	1	sch ö
+037/171	söll	1	s ö ll
+038/033	schöil	1	sch öi l
+038/035	schäl	1	sch ä l
+038/037	schaöl	1	sch aö l
+038/039	schöll	1	sch ö ll
+038/041	söäl	1	s öä l
+038/043	schö	1	sch ö
+038/045	schäl	1	sch ä l
+038/047	schäl	1	sch ä l
+038/049	schöll	1	sch ö ll
+038/051	schoe	1	sch oe
+038/053	schöll	1	sch ö ll
+038/055	schö	1	sch ö
+038/057	schöll	1	sch ö ll
+038/059	schüll	1	sch ü ll
+038/061	schü	1	sch ü
+038/063	schüll	1	sch ü ll
+038/065	so	1	s o
+038/067	schül	1	sch ü l
+038/069	schü	1	sch ü
+038/071	schö	1	sch ö
+038/073	schö	1	sch ö
+038/075	söll	1	s ö ll
+038/077	schö	1	sch ö
+038/079	schö	1	sch ö
+038/081	soll	1	s o ll
+038/083	soll	1	s o ll
+038/085	soll	1	s o ll
+038/087	söll	1	s ö ll
+038/089	soll	1	s o ll
+038/091	sall	1	s a ll
+038/093	sall	1	s a ll
+038/095	söll	1	s ö ll
+038/097	soll	1	s o ll
+038/099	söll	1	s ö ll
+038/101	söll	1	s ö ll
+038/103	söel	1	s öe l
+038/105	söll	1	s ö ll
+038/107	söäl	1	s öä l
+038/109	sööl	1	s öö l
+038/111	söäl	1	s öä l
+038/113	söll	1	s ö ll
+038/115	sell	1	s e ll
+038/117	söll	1	s ö ll
+038/119	sell	1	s e ll
+038/121	sell	1	s e ll
+038/123	seäl	1	s eä l
+038/125	söäl	1	s öä l
+038/127	säll	1	s ä ll
+038/129	sall	1	s a ll
+038/131	sell	1	s e ll
+038/133	seäl	1	s eä l
+038/135	sell	1	s e ll
+038/145	seh	1	s eh
+038/147	schö	1	sch ö
+038/149	schöll	1	sch ö ll
+038/151	schö	1	sch ö
+038/153	scho	1	sch o
+038/155	scha	1	sch a
+038/159	schöll	1	sch ö ll
+038/161	schö	1	sch ö
+038/163	schöll	1	sch ö ll
+039/029	sul	1	s u l
+039/031	söll	1	s ö ll
+039/033	söll	1	s ö ll
+039/035	säöl	1	s äö l
+039/037	schäl	1	sch ä l
+039/039	schöl	1	sch ö l
+039/041	schö	1	sch ö
+039/043	scho	1	sch o
+039/045	schäöl	1	sch äö l
+039/047	schä	1	sch ä
+039/049	schäl	1	sch ä l
+039/051	schä	1	sch ä
+039/053	schül	1	sch ü l
+039/055	schüll	1	sch ü ll
+039/057	schü	1	sch ü
+039/059	schüll	1	sch ü ll
+039/061	schü	1	sch ü
+039/063	schül	1	sch ü l
+039/065	schü	1	sch ü
+039/067	schü	1	sch ü
+039/069	schöll	1	sch ö ll
+039/071	schö	1	sch ö
+039/073	schö	1	sch ö
+039/075	schö	1	sch ö
+039/077	schö	1	sch ö
+039/079	sol	1	s o l
+039/081	söll	1	s ö ll
+039/083	soll	1	s o ll
+039/085	söll	1	s ö ll
+039/087	söll	1	s ö ll
+039/089	söll	1	s ö ll
+039/091	söll	1	s ö ll
+039/093	söll	1	s ö ll
+039/095	söll	1	s ö ll
+039/097	söll	1	s ö ll
+039/099	sall	1	s a ll
+039/101	söll	1	s ö ll
+039/103	söll	1	s ö ll
+039/105	soll	1	s o ll
+039/107	söll	1	s ö ll
+039/109	sall	1	s a ll
+039/111	söäl	1	s öä l
+039/113	söll	1	s ö ll
+039/115	söll	1	s ö ll
+039/117	sell	1	s e ll
+039/119	sell	1	s e ll
+039/121	sell	1	s e ll
+039/123	sell	1	s e ll
+039/125	sell	1	s e ll
+039/127	säl	1	s ä l
+039/129	sell	1	s e ll
+039/131	sell	1	s e ll
+039/133	sell	1	s e ll
+039/135	sell	1	s e ll
+039/137	soll	1	s o ll
+039/139	sell	1	s e ll
+039/149	scha	1	sch a
+039/151	schöll	1	sch ö ll
+039/153	schall	1	sch a ll
+039/155	scha	1	sch a
+040/029	söll	1	s ö ll
+040/031	söll	1	s ö ll
+040/033	sö	1	s ö
+040/035	söll	1	s ö ll
+040/037	söll	1	s ö ll
+040/039	schöl	1	sch ö l
+040/041	soll	1	s o ll
+040/043	schö	1	sch ö
+040/045	schö	1	sch ö
+040/047	schö	1	sch ö
+040/049	schö	1	sch ö
+040/051	schöl	1	sch ö l
+040/053	scheu	1	sch eu
+040/055	schüll	1	sch ü ll
+040/057	schü	1	sch ü
+040/059	schü	1	sch ü
+040/061	schül	1	sch ü l
+040/063	schü	1	sch ü
+040/065	schü	1	sch ü
+040/067	schü	1	sch ü
+040/069	sü	1	s ü
+040/071	schü	1	sch ü
+040/073	schi	1	sch i
+040/075	schül	1	sch ü l
+040/077	schüll	1	sch ü ll
+040/079	söll	1	s ö ll
+040/081	söll	1	s ö ll
+040/083	söll	1	s ö ll
+040/085	söll	1	s ö ll
+040/087	söll	1	s ö ll
+040/089	söll	1	s ö ll
+040/091	söll	1	s ö ll
+040/093	söll	1	s ö ll
+040/095	söll	1	s ö ll
+040/097	söll	1	s ö ll
+040/099	söll	1	s ö ll
+040/101	söll	1	s ö ll
+040/103	söll	1	s ö ll
+040/105	söll	1	s ö ll
+040/107	soll	1	s o ll
+040/109	soll	1	s o ll
+040/111	sall	1	s a ll
+040/113	sell	1	s e ll
+040/115	söll	1	s ö ll
+040/119	sell	1	s e ll
+040/121	sell	1	s e ll
+040/123	soll	1	s o ll
+040/125	sell	1	s e ll
+040/127	sell	1	s e ll
+040/129	sell	1	s e ll
+040/131	söll	1	s ö ll
+040/133	soll	1	s o ll
+040/135	sel	1	s e l
+040/137	soll	1	s o ll
+040/141	sull	1	s u ll
+040/143	sell	1	s e ll
+040/149	soll	1	s o ll
+040/153	sche	1	sch e
+040/155	scha	1	sch a
+041/031	soll	1	s o ll
+041/033	söl	1	s ö l
+041/035	söll	1	s ö ll
+041/037	söll	1	s ö ll
+041/039	sö	1	s ö
+041/041	schö	1	sch ö
+041/043	schö	1	sch ö
+041/045	schöal	1	sch öa l
+041/047	sschiö	1	ss ch iö
+041/049	söll	1	s ö ll
+041/051	schül	1	sch ü l
+041/053	schö	1	sch ö
+041/055	scheu	1	sch eu
+041/057	schöl	1	sch ö l
+041/059	schöl	1	sch ö l
+041/061	schü	1	sch ü
+041/063	schü	1	sch ü
+041/065	schü	1	sch ü
+041/067	schü	1	sch ü
+041/069	schö	1	sch ö
+041/071	schü	1	sch ü
+041/073	schü	1	sch ü
+041/075	schül	1	sch ü l
+041/077	schö	1	sch ö
+041/079	schüll	1	sch ü ll
+041/081	söll	1	s ö ll
+041/083	soll	1	s o ll
+041/085	söll	1	s ö ll
+041/087	soll	1	s o ll
+041/089	söll	1	s ö ll
+041/091	söll	1	s ö ll
+041/093	söll	1	s ö ll
+041/095	söll	1	s ö ll
+041/097	söll	1	s ö ll
+041/099	söll	1	s ö ll
+041/101	söll	1	s ö ll
+041/103	söll	1	s ö ll
+041/105	söll	1	s ö ll
+041/107	söll	1	s ö ll
+041/109	söll	1	s ö ll
+041/111	soll	1	s o ll
+041/113	sull	1	s u ll
+041/115	säal	1	s äa l
+041/117	sell	1	s e ll
+041/119	sell	1	s e ll
+041/121	sell	1	s e ll
+041/123	sel	1	s e l
+041/125	sell	1	s e ll
+041/127	sell	1	s e ll
+041/129	söll	1	s ö ll
+041/131	sell	1	s e ll
+041/133	sell	1	s e ll
+041/135	sell	1	s e ll
+041/139	sull	1	s u ll
+041/141	sull	1	s u ll
+041/145	sull	1	s u ll
+041/147	sell	1	s e ll
+041/153	scha	1	sch a
+041/155	schö	1	sch ö
+041/157	säal	1	s äa l
+041/159	schö	1	sch ö
+041/161	scha	1	sch a
+042/033	söll	1	s ö ll
+042/035	söll	1	s ö ll
+042/037	söll	1	s ö ll
+042/039	sö	1	s ö
+042/041	süöl	1	s üö l
+042/043	söll	1	s ö ll
+042/045	schüell	1	sch üe ll
+042/047	süll	1	s ü ll
+042/051	schööell	1	sch ööe ll
+042/053	schü	1	sch ü
+042/055	schö	1	sch ö
+042/057	schüll	1	sch ü ll
+042/059	schö	1	sch ö
+042/061	schöo	1	sch öo
+042/063	schöl	1	sch ö l
+042/065	söll	1	s ö ll
+042/067	schül	1	sch ü l
+042/069	schü	1	sch ü
+042/071	schü	1	sch ü
+042/073	schüll	1	sch ü ll
+042/075	schüll	1	sch ü ll
+042/077	sül	1	s ü l
+042/079	süll	1	s ü ll
+042/081	sül	1	s ü l
+042/083	soll	1	s o ll
+042/085	söll	1	s ö ll
+042/087	soll	1	s o ll
+042/089	söll	1	s ö ll
+042/091	soll	1	s o ll
+042/093	söll	1	s ö ll
+042/095	söll	1	s ö ll
+042/097	süll	1	s ü ll
+042/099	süll	1	s ü ll
+042/101	sell	1	s e ll
+042/103	sall	1	s a ll
+042/105	soll	1	s o ll
+042/107	söl	1	s ö l
+042/109	söll	1	s ö ll
+042/111	söäl	1	s öä l
+042/113	sell	1	s e ll
+042/115	soll	1	s o ll
+042/117	soll	1	s o ll
+042/119	sall	1	s a ll
+042/121	sell	1	s e ll
+042/123	sall	1	s a ll
+042/125	sell	1	s e ll
+042/127	sell	1	s e ll
+042/129	sell	1	s e ll
+042/131	sell	1	s e ll
+042/133	söll	1	s ö ll
+042/135	soll	1	s o ll
+042/137	sell	1	s e ll
+042/139	sell	1	s e ll
+042/141	sell	1	s e ll
+042/143	sell	1	s e ll
+042/145	sull	1	s u ll
+042/147	soll	1	s o ll
+042/149	sell	1	s e ll
+042/151	sull	1	s u ll
+042/157	schöll	1	sch ö ll
+042/159	schöll	1	sch ö ll
+042/161	schall	1	sch a ll
+043/033	söll	1	s ö ll
+043/035	söll	1	s ö ll
+043/037	sühl	1	s üh l
+043/039	sü	1	s ü
+043/041	sö	1	s ö
+043/043	säö	1	s äö
+043/045	süö	1	s üö
+043/047	schol	1	sch o l
+043/049	schüöll	1	sch üö ll
+043/051	schö	1	sch ö
+043/053	schü	1	sch ü
+043/055	schö	1	sch ö
+043/057	schöh	1	sch öh
+043/059	schö	1	sch ö
+043/061	schöll	1	sch ö ll
+043/063	schall	1	sch a ll
+043/065	schöll	1	sch ö ll
+043/067	schü	1	sch ü
+043/069	schüll	1	sch ü ll
+043/071	schüll	1	sch ü ll
+043/073	schöll	1	sch ö ll
+043/075	schöüll	1	sch öü ll
+043/077	süll	1	s ü ll
+043/079	süll	1	s ü ll
+043/081	söll	1	s ö ll
+043/083	söll	1	s ö ll
+043/085	söll	1	s ö ll
+043/087	soll	1	s o ll
+043/089	soll	1	s o ll
+043/091	söll	1	s ö ll
+043/093	söll	1	s ö ll
+043/095	söll	1	s ö ll
+043/097	süll	1	s ü ll
+043/099	söll	1	s ö ll
+043/101	söll	1	s ö ll
+043/103	sall	1	s a ll
+043/105	söäl	1	s öä l
+043/107	söll	1	s ö ll
+043/109	sal	1	s a l
+043/111	soll	1	s o ll
+043/113	sell	1	s e ll
+043/115	sell	1	s e ll
+043/117	sell	1	s e ll
+043/119	söll	1	s ö ll
+043/121	sell	1	s e ll
+043/123	sall	1	s a ll
+043/125	soll	1	s o ll
+043/127	sell	1	s e ll
+043/129	sell	1	s e ll
+043/131	sull	1	s u ll
+043/133	soll	1	s o ll
+043/135	sell	1	s e ll
+043/137	sell	1	s e ll
+043/141	sell	1	s e ll
+043/143	sill	1	s i ll
+043/145	soll	1	s o ll
+043/151	soll	1	s o ll
+043/153	sell	1	s e ll
+043/159	schall	1	sch a ll
+043/161	scho	1	sch o
+044/033	süll	1	s ü ll
+044/035	süöll	1	s üö ll
+044/039	süel	1	s üe l
+044/041	süö	1	s üö
+044/043	siö	1	s iö
+044/045	siöhl	1	s iöh l
+044/047	shö	1	s h ö
+044/049	schüöll	1	sch üö ll
+044/051	sü	1	s ü
+044/053	schö	1	sch ö
+044/055	sall	1	s a ll
+044/057	schööl	1	sch öö l
+044/059	sschöl	1	ss ch ö l
+044/061	schöö	1	sch öö
+044/063	söll	1	s ö ll
+044/065	söll	1	s ö ll
+044/067	schüll	1	sch ü ll
+044/069	schüll	1	sch ü ll
+044/071	sul	1	s u l
+044/073	schüll	1	sch ü ll
+044/075	schüll	1	sch ü ll
+044/077	söll	1	s ö ll
+044/079	sül	1	s ü l
+044/081	soll	1	s o ll
+044/083	soll	1	s o ll
+044/085	soll	1	s o ll
+044/087	soll	1	s o ll
+044/089	soll	1	s o ll
+044/091	sall	1	s a ll
+044/093	soll	1	s o ll
+044/095	süll	1	s ü ll
+044/097	süll	1	s ü ll
+044/099	söäl	1	s öä l
+044/101	söähl	1	s öäh l
+044/103	säl	1	s ä l
+044/105	säul	1	s äu l
+044/107	söähl	1	s öäh l
+044/109	soll	1	s o ll
+044/111	söhl	1	s öh l
+044/113	soll	1	s o ll
+044/115	sell	1	s e ll
+044/117	sell	1	s e ll
+044/119	söll	1	s ö ll
+044/121	sell	1	s e ll
+044/123	sell	1	s e ll
+044/125	sell	1	s e ll
+044/127	sell	1	s e ll
+044/129	sell	1	s e ll
+044/131	sell	1	s e ll
+044/133	sell	1	s e ll
+044/135	sell	1	s e ll
+044/137	sell	1	s e ll
+044/141	sel	1	s e l
+044/143	sell	1	s e ll
+044/145	sull	1	s u ll
+044/149	sull	1	s u ll
+044/151	sull	1	s u ll
+044/153	sell	1	s e ll
+045/033	sü	1	s ü
+045/035	süell	1	s üe ll
+045/037	sall	1	s a ll
+045/039	söll	1	s ö ll
+045/041	süö	1	s üö
+045/043	sü	1	s ü
+045/045	sö	1	s ö
+045/047	sö	1	s ö
+045/049	su	1	s u
+045/051	sü	1	s ü
+045/053	sö	1	s ö
+045/055	sü	1	s ü
+045/057	schö	1	sch ö
+045/059	schöll	1	sch ö ll
+045/061	schöhl	1	sch öh l
+045/063	schöll	1	sch ö ll
+045/065	söll	1	s ö ll
+045/067	süll	1	s ü ll
+045/069	schüll	1	sch ü ll
+045/071	söll	1	s ö ll
+045/073	süll	1	s ü ll
+045/075	sil	1	s i l
+045/077	söll	1	s ö ll
+045/079	süll	1	s ü ll
+045/081	sal	1	s a l
+045/083	söll	1	s ö ll
+045/085	soll	1	s o ll
+045/087	soll	1	s o ll
+045/089	soll	1	s o ll
+045/091	soll	1	s o ll
+045/093	soll	1	s o ll
+045/095	soäl	1	s oä l
+045/097	säl	1	s ä l
+045/099	söäl	1	s öä l
+045/101	säel	1	s äe l
+045/103	söll	1	s ö ll
+045/105	sähl	1	s äh l
+045/107	sel	1	s e l
+045/109	söhl	1	s öh l
+045/111	sell	1	s e ll
+045/113	sell	1	s e ll
+045/115	soll	1	s o ll
+045/117	sell	1	s e ll
+045/119	sell	1	s e ll
+045/121	sell	1	s e ll
+045/123	sell	1	s e ll
+045/125	sall	1	s a ll
+045/127	sull	1	s u ll
+045/129	sell	1	s e ll
+045/131	sell	1	s e ll
+045/133	sell	1	s e ll
+045/135	sell	1	s e ll
+045/137	säll	1	s ä ll
+045/139	sull	1	s u ll
+045/141	sell	1	s e ll
+045/143	sull	1	s u ll
+045/145	sull	1	s u ll
+045/155	sell	1	s e ll
+046/031	säö	1	s äö
+046/033	süll	1	s ü ll
+046/035	soll	1	s o ll
+046/037	söll	1	s ö ll
+046/039	söll	1	s ö ll
+046/041	sö	1	s ö
+046/043	schö	1	sch ö
+046/045	sö	1	s ö
+046/047	so	1	s o
+046/049	süö	1	s üö
+046/051	süu	1	s üu
+046/053	sü	1	s ü
+046/055	sü	1	s ü
+046/057	schü	1	sch ü
+046/059	schöl	1	sch ö l
+046/061	scholl	1	sch o ll
+046/063	söll	1	s ö ll
+046/065	söll	1	s ö ll
+046/067	söll	1	s ö ll
+046/069	sell	1	s e ll
+046/071	söll	1	s ö ll
+046/073	süll	1	s ü ll
+046/075	sill	1	s i ll
+046/077	söll	1	s ö ll
+046/079	söll	1	s ö ll
+046/081	söll	1	s ö ll
+046/083	soll	1	s o ll
+046/085	soll	1	s o ll
+046/087	soll	1	s o ll
+046/089	soll	1	s o ll
+046/091	soll	1	s o ll
+046/093	soll	1	s o ll
+046/095	sel	1	s e l
+046/097	säl	1	s ä l
+046/099	säl	1	s ä l
+046/101	sähl	1	s äh l
+046/103	sell	1	s e ll
+046/105	seäll	1	s eä ll
+046/107	säl	1	s ä l
+046/109	säl	1	s ä l
+046/111	soll	1	s o ll
+046/113	sell	1	s e ll
+046/115	sell	1	s e ll
+046/117	soll	1	s o ll
+046/119	soll	1	s o ll
+046/121	säl	1	s ä l
+046/123	sell	1	s e ll
+046/125	sell	1	s e ll
+046/127	sell	1	s e ll
+046/129	sell	1	s e ll
+046/131	sell	1	s e ll
+046/133	sell	1	s e ll
+046/135	sell	1	s e ll
+046/137	soll	1	s o ll
+046/139	sull	1	s u ll
+046/141	sull	1	s u ll
+046/143	sull	1	s u ll
+046/155	soull	1	s ou ll
+047/031	sö	1	s ö
+047/033	soll	1	s o ll
+047/035	söll	1	s ö ll
+047/037	säll	1	s ä ll
+047/039	söll	1	s ö ll
+047/041	söll	1	s ö ll
+047/043	so	1	s o
+047/045	ssö	1	ss ö
+047/047	sö	1	s ö
+047/049	sü	1	s ü
+047/051	sü	1	s ü
+047/053	sü	1	s ü
+047/055	ssö	1	ss ö
+047/057	sö	1	s ö
+047/059	schöh	1	sch öh
+047/061	söhl	1	s öh l
+047/063	söll	1	s ö ll
+047/065	söll	1	s ö ll
+047/067	söll	1	s ö ll
+047/069	söl	1	s ö l
+047/071	söll	1	s ö ll
+047/073	sell	1	s e ll
+047/075	sell	1	s e ll
+047/077	söll	1	s ö ll
+047/079	söll	1	s ö ll
+047/081	söll	1	s ö ll
+047/083	soll	1	s o ll
+047/085	soll	1	s o ll
+047/087	soll	1	s o ll
+047/089	soll	1	s o ll
+047/091	soll	1	s o ll
+047/093	sell	1	s e ll
+047/095	soll	1	s o ll
+047/097	säal	1	s äa l
+047/099	seäl	1	s eä l
+047/101	säl	1	s ä l
+047/103	säl	1	s ä l
+047/105	sähl	1	s äh l
+047/107	säll	1	s ä ll
+047/109	soll	1	s o ll
+047/111	sell	1	s e ll
+047/113	soll	1	s o ll
+047/115	soll	1	s o ll
+047/117	sell	1	s e ll
+047/119	soll	1	s o ll
+047/123	sell	1	s e ll
+047/125	sell	1	s e ll
+047/127	sel	1	s e l
+047/129	sell	1	s e ll
+047/131	sell	1	s e ll
+047/133	sull	1	s u ll
+047/135	sell	1	s e ll
+047/137	sull	1	s u ll
+047/139	sull	1	s u ll
+047/141	su	1	s u
+047/147	sull	1	s u ll
+047/149	sull	1	s u ll
+047/151	sull	1	s u ll
+047/159	sull	1	s u ll
+048/021	sö	1	s ö
+048/023	söll	1	s ö ll
+048/027	söll	1	s ö ll
+048/029	söll	1	s ö ll
+048/031	söl	1	s ö l
+048/033	söll	1	s ö ll
+048/035	sö	1	s ö
+048/037	sö	1	s ö
+048/039	söll	1	s ö ll
+048/041	so	1	s o
+048/045	söll	1	s ö ll
+048/047	sö	1	s ö
+048/049	sö	1	s ö
+048/051	sö	1	s ö
+048/053	sö	1	s ö
+048/055	sö	1	s ö
+048/057	sö	1	s ö
+048/059	sö	1	s ö
+048/061	schöl	1	sch ö l
+048/063	sül	1	s ü l
+048/065	sül	1	s ü l
+048/067	söll	1	s ö ll
+048/069	söll	1	s ö ll
+048/071	soll	1	s o ll
+048/073	soll	1	s o ll
+048/075	söll	1	s ö ll
+048/077	söll	1	s ö ll
+048/079	söll	1	s ö ll
+048/081	soll	1	s o ll
+048/083	soll	1	s o ll
+048/085	soll	1	s o ll
+048/087	soll	1	s o ll
+048/089	soll	1	s o ll
+048/091	soll	1	s o ll
+048/093	säl	1	s ä l
+048/095	soll	1	s o ll
+048/099	sell	1	s e ll
+048/101	sell	1	s e ll
+048/103	sell	1	s e ll
+048/105	säl	1	s ä l
+048/107	sell	1	s e ll
+048/109	sell	1	s e ll
+048/111	sell	1	s e ll
+048/113	soll	1	s o ll
+048/115	soll	1	s o ll
+048/119	soll	1	s o ll
+048/123	sell	1	s e ll
+048/125	sell	1	s e ll
+048/127	sell	1	s e ll
+048/129	sell	1	s e ll
+048/131	sull	1	s u ll
+048/133	sull	1	s u ll
+048/135	sull	1	s u ll
+048/137	sull	1	s u ll
+048/139	sull	1	s u ll
+048/141	sull	1	s u ll
+048/143	sull	1	s u ll
+048/145	sull	1	s u ll
+048/147	sull	1	s u ll
+048/153	sull	1	s u ll
+048/157	soll	1	s o ll
+048/159	soll	1	s o ll
+049/019	soll	1	s o ll
+049/021	soll	1	s o ll
+049/023	söll	1	s ö ll
+049/025	söll	1	s ö ll
+049/027	sö	1	s ö
+049/029	söll	1	s ö ll
+049/031	sö	1	s ö
+049/033	söll	1	s ö ll
+049/035	sü	1	s ü
+049/037	söll	1	s ö ll
+049/039	söll	1	s ö ll
+049/041	sö	1	s ö
+049/043	söll	1	s ö ll
+049/045	sö	1	s ö
+049/047	söö	1	s öö
+049/049	sü	1	s ü
+049/051	soll	1	s o ll
+049/053	sö	1	s ö
+049/055	sall	1	s a ll
+049/057	sü	1	s ü
+049/059	sö	1	s ö
+049/061	süll	1	s ü ll
+049/063	söll	1	s ö ll
+049/065	söll	1	s ö ll
+049/067	söll	1	s ö ll
+049/069	soll	1	s o ll
+049/071	sall	1	s a ll
+049/073	soll	1	s o ll
+049/077	soll	1	s o ll
+049/079	soll	1	s o ll
+049/081	soll	1	s o ll
+049/083	soll	1	s o ll
+049/085	soll	1	s o ll
+049/087	soll	1	s o ll
+049/089	soll	1	s o ll
+049/091	soll	1	s o ll
+049/093	soll	1	s o ll
+049/095	soll	1	s o ll
+049/097	soll	1	s o ll
+049/099	sill	1	s i ll
+049/101	sell	1	s e ll
+049/103	soll	1	s o ll
+049/105	sall	1	s a ll
+049/107	sell	1	s e ll
+049/109	sell	1	s e ll
+049/111	sall	1	s a ll
+049/113	sall	1	s a ll
+049/115	soll	1	s o ll
+049/117	soll	1	s o ll
+049/119	soll	1	s o ll
+049/121	sull	1	s u ll
+049/123	soll	1	s o ll
+049/125	sel	1	s e l
+049/127	söll	1	s ö ll
+049/129	soll	1	s o ll
+049/131	sull	1	s u ll
+049/133	sull	1	s u ll
+049/135	sull	1	s u ll
+049/137	sull	1	s u ll
+049/139	sull	1	s u ll
+049/141	sull	1	s u ll
+049/143	sull	1	s u ll
+049/145	sull	1	s u ll
+049/147	sull	1	s u ll
+049/151	su	1	s u
+050/021	soll	1	s o ll
+050/023	soll	1	s o ll
+050/025	soll	1	s o ll
+050/027	söll	1	s ö ll
+050/029	sall	1	s a ll
+050/031	söll	1	s ö ll
+050/033	süll	1	s ü ll
+050/035	sö	1	s ö
+050/037	sö	1	s ö
+050/039	sö	1	s ö
+050/041	soll	1	s o ll
+050/043	sö	1	s ö
+050/047	söll	1	s ö ll
+050/049	sö	1	s ö
+050/051	so	1	s o
+050/053	sö	1	s ö
+050/055	sü	1	s ü
+050/057	süll	1	s ü ll
+050/059	so	1	s o
+050/061	sall	1	s a ll
+050/063	söll	1	s ö ll
+050/065	söll	1	s ö ll
+050/067	söll	1	s ö ll
+050/069	söll	1	s ö ll
+050/071	söll	1	s ö ll
+050/073	söll	1	s ö ll
+050/075	soll	1	s o ll
+050/077	soll	1	s o ll
+050/079	se	1	s e
+050/081	soll	1	s o ll
+050/083	soll	1	s o ll
+050/085	sel	1	s e l
+050/087	soll	1	s o ll
+050/089	soll	1	s o ll
+050/091	so	1	s o
+050/093	soll	1	s o ll
+050/095	sill	1	s i ll
+050/097	soll	1	s o ll
+050/099	sell	1	s e ll
+050/101	sell	1	s e ll
+050/103	sell	1	s e ll
+050/105	sell	1	s e ll
+050/107	sell	1	s e ll
+050/109	söll	1	s ö ll
+050/111	sall	1	s a ll
+050/113	sell	1	s e ll
+050/115	soll	1	s o ll
+050/117	soll	1	s o ll
+050/119	soll	1	s o ll
+050/121	soll	1	s o ll
+050/125	soll	1	s o ll
+050/127	sull	1	s u ll
+050/129	sill	1	s i ll
+050/131	sill	1	s i ll
+050/133	sull	1	s u ll
+050/135	sull	1	s u ll
+050/137	sull	1	s u ll
+050/139	sull	1	s u ll
+050/141	sull	1	s u ll
+050/143	sull	1	s u ll
+050/145	sull	1	s u ll
+050/147	sull	1	s u ll
+050/149	sull	1	s u ll
+050/151	sull	1	s u ll
+050/155	sull	1	s u ll
+050/157	sull	1	s u ll
+050/159	sull	1	s u ll
+050/161	sull	1	s u ll
+051/023	soll	1	s o ll
+051/025	soll	1	s o ll
+051/027	söll	1	s ö ll
+051/029	söll	1	s ö ll
+051/031	söll	1	s ö ll
+051/033	sö	1	s ö
+051/035	sö	1	s ö
+051/037	sö	1	s ö
+051/039	söll	1	s ö ll
+051/041	sü	1	s ü
+051/043	sü	1	s ü
+051/045	sö	1	s ö
+051/047	ssö	1	ss ö
+051/049	sö	1	s ö
+051/051	NA	NA	-
+051/053	süll	1	s ü ll
+051/055	sü	1	s ü
+051/057	sö	1	s ö
+051/059	sö	1	s ö
+051/061	so	1	s o
+051/063	sühl	1	s üh l
+051/065	suill	1	s ui ll
+051/067	söll	1	s ö ll
+051/069	soll	1	s o ll
+051/071	söl	1	s ö l
+051/073	söll	1	s ö ll
+051/075	söll	1	s ö ll
+051/077	soll	1	s o ll
+051/079	sell	1	s e ll
+051/081	su	1	s u
+051/083	se	1	s e
+051/085	sell	1	s e ll
+051/087	sell	1	s e ll
+051/089	soll	1	s o ll
+051/091	soll	1	s o ll
+051/093	soll	1	s o ll
+051/095	soll	1	s o ll
+051/097	soll	1	s o ll
+051/099	sell	1	s e ll
+051/101	sell	1	s e ll
+051/103	soll	1	s o ll
+051/105	sell	1	s e ll
+051/107	sell	1	s e ll
+051/109	soll	1	s o ll
+051/111	soll	1	s o ll
+051/113	soll	1	s o ll
+051/115	soll	1	s o ll
+051/117	soll	1	s o ll
+051/119	soll	1	s o ll
+051/121	soll	1	s o ll
+051/123	sull	1	s u ll
+051/125	sell	1	s e ll
+051/127	sul	1	s u l
+051/129	sill	1	s i ll
+051/131	süll	1	s ü ll
+051/133	sul	1	s u l
+051/135	sull	1	s u ll
+051/137	sull	1	s u ll
+051/139	sull	1	s u ll
+051/141	sull	1	s u ll
+051/143	sull	1	s u ll
+051/145	sull	1	s u ll
+051/147	sull	1	s u ll
+051/149	sull	1	s u ll
+051/151	sull	1	s u ll
+051/153	sull	1	s u ll
+051/155	sull	1	s u ll
+051/157	sull	1	s u ll
+052/023	söll	1	s ö ll
+052/025	söll	1	s ö ll
+052/027	soll	1	s o ll
+052/029	soll	1	s o ll
+052/031	sö	1	s ö
+052/033	sö	1	s ö
+052/035	so	1	s o
+052/037	sö	1	s ö
+052/039	sö	1	s ö
+052/041	sö	1	s ö
+052/043	sö	1	s ö
+052/045	sö	1	s ö
+052/047	ssö	1	ss ö
+052/049	sö	1	s ö
+052/051	sö	1	s ö
+052/053	sö	1	s ö
+052/057	sö	1	s ö
+052/059	sö	1	s ö
+052/061	sö	1	s ö
+052/063	süll	1	s ü ll
+052/065	söll	1	s ö ll
+052/067	söll	1	s ö ll
+052/069	soll	1	s o ll
+052/071	ssoll	1	ss o ll
+052/073	sel	1	s e l
+052/075	se	1	s e
+052/077	sill	1	s i ll
+052/079	söll	1	s ö ll
+052/081	se	1	s e
+052/083	sell	1	s e ll
+052/085	sell	1	s e ll
+052/087	sell	1	s e ll
+052/089	sell	1	s e ll
+052/091	soll	1	s o ll
+052/093	soll	1	s o ll
+052/095	soll	1	s o ll
+052/097	sell	1	s e ll
+052/099	sell	1	s e ll
+052/101	soll	1	s o ll
+052/103	sell	1	s e ll
+052/105	sell	1	s e ll
+052/107	sell	1	s e ll
+052/109	sell	1	s e ll
+052/111	sell	1	s e ll
+052/113	sall	1	s a ll
+052/115	soll	1	s o ll
+052/117	soll	1	s o ll
+052/121	soll	1	s o ll
+052/123	soll	1	s o ll
+052/125	sull	1	s u ll
+052/127	sull	1	s u ll
+052/129	sull	1	s u ll
+052/131	sill	1	s i ll
+052/133	sill	1	s i ll
+052/135	sull	1	s u ll
+052/137	su	1	s u
+052/139	sull	1	s u ll
+052/141	sull	1	s u ll
+052/143	sul	1	s u l
+052/145	sull	1	s u ll
+052/147	sul	1	s u l
+052/149	sull	1	s u ll
+052/151	sull	1	s u ll
+052/153	soll	1	s o ll
+052/155	sull	1	s u ll
+052/157	sull	1	s u ll
+052/159	sull	1	s u ll
+053/023	soll	1	s o ll
+053/025	söll	1	s ö ll
+053/027	soll	1	s o ll
+053/029	sall	1	s a ll
+053/031	ssöll	1	ss ö ll
+053/033	sö	1	s ö
+053/035	sö	1	s ö
+053/037	sö	1	s ö
+053/039	sö	1	s ö
+053/041	so	1	s o
+053/043	sö	1	s ö
+053/045	söll	1	s ö ll
+053/047	söll	1	s ö ll
+053/049	sö	1	s ö
+053/051	so	1	s o
+053/053	soll	1	s o ll
+053/055	so	1	s o
+053/057	so	1	s o
+053/059	so	1	s o
+053/061	sö	1	s ö
+053/063	sö	1	s ö
+053/065	ssühl	1	ss üh l
+053/067	söl	1	s ö l
+053/069	söl	1	s ö l
+053/071	sill	1	s i ll
+053/073	se	1	s e
+053/075	su	1	s u
+053/077	su	1	s u
+053/079	sell	1	s e ll
+053/081	sell	1	s e ll
+053/083	sell	1	s e ll
+053/085	soll	1	s o ll
+053/087	sell	1	s e ll
+053/089	sull	1	s u ll
+053/091	soll	1	s o ll
+053/093	sell	1	s e ll
+053/095	sell	1	s e ll
+053/097	sell	1	s e ll
+053/099	sell	1	s e ll
+053/101	sull	1	s u ll
+053/103	sell	1	s e ll
+053/105	sell	1	s e ll
+053/107	sull	1	s u ll
+053/109	sell	1	s e ll
+053/111	sell	1	s e ll
+053/113	sull	1	s u ll
+053/115	sull	1	s u ll
+053/121	soull	1	s ou ll
+053/123	sull	1	s u ll
+053/125	sull	1	s u ll
+053/127	sull	1	s u ll
+053/129	sill	1	s i ll
+053/131	sill	1	s i ll
+053/133	soll	1	s o ll
+053/135	sell	1	s e ll
+053/137	sull	1	s u ll
+053/139	sull	1	s u ll
+053/141	sull	1	s u ll
+053/143	sull	1	s u ll
+053/145	sull	1	s u ll
+053/147	sull	1	s u ll
+053/149	sull	1	s u ll
+053/151	sull	1	s u ll
+053/153	sull	1	s u ll
+053/155	sull	1	s u ll
+053/157	sull	1	s u ll
+054/023	sall	1	s a ll
+054/025	soll	1	s o ll
+054/027	soll	1	s o ll
+054/029	soll	1	s o ll
+054/031	soll	1	s o ll
+054/033	söll	1	s ö ll
+054/035	sö	1	s ö
+054/037	sö	1	s ö
+054/039	sö	1	s ö
+054/041	sö	1	s ö
+054/043	sö	1	s ö
+054/045	söll	1	s ö ll
+054/047	sso	1	ss o
+054/049	soll	1	s o ll
+054/051	so	1	s o
+054/053	soll	1	s o ll
+054/055	so	1	s o
+054/057	so	1	s o
+054/059	so	1	s o
+054/061	su	1	s u
+054/063	so	1	s o
+054/065	söl	1	s ö l
+054/067	sü	1	s ü
+054/069	su	1	s u
+054/071	su	1	s u
+054/073	su	1	s u
+054/075	su	1	s u
+054/077	su	1	s u
+054/079	su	1	s u
+054/081	sill	1	s i ll
+054/083	sell	1	s e ll
+054/085	sell	1	s e ll
+054/087	sell	1	s e ll
+054/089	sall	1	s a ll
+054/091	sell	1	s e ll
+054/093	sell	1	s e ll
+054/095	sell	1	s e ll
+054/097	soll	1	s o ll
+054/099	soll	1	s o ll
+054/101	sull	1	s u ll
+054/103	sull	1	s u ll
+054/105	sull	1	s u ll
+054/107	sell	1	s e ll
+054/109	sell	1	s e ll
+054/111	sall	1	s a ll
+054/113	sill	1	s i ll
+054/115	sull	1	s u ll
+054/117	suoll	1	s uo ll
+054/119	soll	1	s o ll
+054/121	soll	1	s o ll
+054/123	sull	1	s u ll
+054/125	sill	1	s i ll
+054/127	sill	1	s i ll
+054/131	sull	1	s u ll
+054/133	sill	1	s i ll
+054/135	sill	1	s i ll
+054/137	sull	1	s u ll
+054/139	sull	1	s u ll
+054/141	sull	1	s u ll
+054/143	sull	1	s u ll
+054/145	sull	1	s u ll
+054/147	sull	1	s u ll
+054/149	sull	1	s u ll
+054/151	sull	1	s u ll
+054/153	soll	1	s o ll
+054/155	sull	1	s u ll
+054/157	sull	1	s u ll
+054/159	sull	1	s u ll
+054/161	sull	1	s u ll
+054/163	söl	1	s ö l
+055/023	sall	1	s a ll
+055/025	soll	1	s o ll
+055/027	soll	1	s o ll
+055/029	soll	1	s o ll
+055/031	söll	1	s ö ll
+055/033	ssöll	1	ss ö ll
+055/035	sö	1	s ö
+055/037	so	1	s o
+055/039	so	1	s o
+055/041	so	1	s o
+055/043	sö	1	s ö
+055/045	so	1	s o
+055/047	soll	1	s o ll
+055/049	soll	1	s o ll
+055/051	so	1	s o
+055/053	so	1	s o
+055/055	so	1	s o
+055/057	sö	1	s ö
+055/059	su	1	s u
+055/061	su	1	s u
+055/063	su	1	s u
+055/065	su	1	s u
+055/067	su	1	s u
+055/069	su	1	s u
+055/071	su	1	s u
+055/073	su	1	s u
+055/075	NA	NA	-
+055/077	su	1	s u
+055/079	su	1	s u
+055/081	sell	1	s e ll
+055/083	sull	1	s u ll
+055/085	sull	1	s u ll
+055/087	soll	1	s o ll
+055/089	sell	1	s e ll
+055/091	sell	1	s e ll
+055/093	sull	1	s u ll
+055/095	sell	1	s e ll
+055/097	soll	1	s o ll
+055/099	sell	1	s e ll
+055/101	sull	1	s u ll
+055/103	sell	1	s e ll
+055/105	sul	1	s u l
+055/107	säll	1	s ä ll
+055/109	sil	1	s i l
+055/111	sill	1	s i ll
+055/113	sull	1	s u ll
+055/115	si	1	s i
+055/117	sull	1	s u ll
+055/119	sull	1	s u ll
+055/123	sell	1	s e ll
+055/125	sill	1	s i ll
+055/127	sull	1	s u ll
+055/131	sill	1	s i ll
+055/133	sil	1	s i l
+055/135	sull	1	s u ll
+055/137	sill	1	s i ll
+055/139	sull	1	s u ll
+055/141	sull	1	s u ll
+055/143	sull	1	s u ll
+055/145	sull	1	s u ll
+055/147	sull	1	s u ll
+055/149	sull	1	s u ll
+055/151	sull	1	s u ll
+055/153	sull	1	s u ll
+055/155	sull	1	s u ll
+055/157	sull	1	s u ll
+055/159	sull	1	s u ll
+055/161	soll	1	s o ll
+056/021	söll	1	s ö ll
+056/023	söll	1	s ö ll
+056/025	soll	1	s o ll
+056/027	soll	1	s o ll
+056/029	soll	1	s o ll
+056/031	soll	1	s o ll
+056/033	soll	1	s o ll
+056/035	sö	1	s ö
+056/037	so	1	s o
+056/039	so	1	s o
+056/041	so	1	s o
+056/043	soll	1	s o ll
+056/045	so	1	s o
+056/047	sall	1	s a ll
+056/049	NA	NA	-
+056/051	sall	1	s a ll
+056/053	soll	1	s o ll
+056/055	sö	1	s ö
+056/057	sö	1	s ö
+056/059	su	1	s u
+056/061	su	1	s u
+056/063	so	1	s o
+056/065	so	1	s o
+056/067	su	1	s u
+056/069	su	1	s u
+056/071	su	1	s u
+056/073	su	1	s u
+056/075	su	1	s u
+056/077	su	1	s u
+056/079	su	1	s u
+056/081	su	1	s u
+056/083	sull	1	s u ll
+056/085	soll	1	s o ll
+056/087	soll	1	s o ll
+056/089	sull	1	s u ll
+056/091	sull	1	s u ll
+056/093	sull	1	s u ll
+056/095	sell	1	s e ll
+056/097	sull	1	s u ll
+056/099	sull	1	s u ll
+056/101	sull	1	s u ll
+056/103	sell	1	s e ll
+056/105	sill	1	s i ll
+056/107	sull	1	s u ll
+056/109	sill	1	s i ll
+056/111	sill	1	s i ll
+056/113	sill	1	s i ll
+056/115	si	1	s i
+056/117	sull	1	s u ll
+056/121	sull	1	s u ll
+056/123	soll	1	s o ll
+056/125	sill	1	s i ll
+056/127	sill	1	s i ll
+056/129	sull	1	s u ll
+056/131	sull	1	s u ll
+056/133	sull	1	s u ll
+056/135	sull	1	s u ll
+056/137	sill	1	s i ll
+056/139	sull	1	s u ll
+056/141	sull	1	s u ll
+056/143	sull	1	s u ll
+056/145	sull	1	s u ll
+056/147	sull	1	s u ll
+056/149	sull	1	s u ll
+056/151	sull	1	s u ll
+056/153	sull	1	s u ll
+056/155	sull	1	s u ll
+056/157	sull	1	s u ll
+056/159	sull	1	s u ll
+056/161	sull	1	s u ll
+057/021	soll	1	s o ll
+057/023	soll	1	s o ll
+057/025	soll	1	s o ll
+057/027	soll	1	s o ll
+057/029	süll	1	s ü ll
+057/031	söll	1	s ö ll
+057/033	söll	1	s ö ll
+057/035	söll	1	s ö ll
+057/037	soll	1	s o ll
+057/039	ssu	1	ss u
+057/041	so	1	s o
+057/043	so	1	s o
+057/045	so	1	s o
+057/047	so	1	s o
+057/049	so	1	s o
+057/051	sie	1	s ie
+057/053	söll	1	s ö ll
+057/055	sü	1	s ü
+057/057	so	1	s o
+057/059	su	1	s u
+057/061	su	1	s u
+057/063	su	1	s u
+057/065	so	1	s o
+057/067	sa	1	s a
+057/069	so	1	s o
+057/071	su	1	s u
+057/073	su	1	s u
+057/075	su	1	s u
+057/077	su	1	s u
+057/079	su	1	s u
+057/081	su	1	s u
+057/083	su	1	s u
+057/085	so	1	s o
+057/087	soll	1	s o ll
+057/089	sull	1	s u ll
+057/091	sull	1	s u ll
+057/093	sull	1	s u ll
+057/095	sull	1	s u ll
+057/097	sull	1	s u ll
+057/099	sull	1	s u ll
+057/101	sull	1	s u ll
+057/103	sull	1	s u ll
+057/105	soll	1	s o ll
+057/107	sull	1	s u ll
+057/109	sull	1	s u ll
+057/111	sull	1	s u ll
+057/113	sull	1	s u ll
+057/115	soll	1	s o ll
+057/117	si	1	s i
+057/119	säll	1	s ä ll
+057/121	si	1	s i
+057/123	si	1	s i
+057/125	sill	1	s i ll
+057/127	sull	1	s u ll
+057/129	sill	1	s i ll
+057/131	sull	1	s u ll
+057/133	sull	1	s u ll
+057/135	sill	1	s i ll
+057/137	sill	1	s i ll
+057/139	sull	1	s u ll
+057/141	sull	1	s u ll
+057/143	sull	1	s u ll
+057/145	sull	1	s u ll
+057/147	sull	1	s u ll
+057/149	sull	1	s u ll
+057/151	sull	1	s u ll
+057/153	sull	1	s u ll
+057/155	sull	1	s u ll
+057/157	soll	1	s o ll
+057/159	sull	1	s u ll
+057/161	sull	1	s u ll
+058/019	sau	1	s au
+058/021	sall	1	s a ll
+058/023	sall	1	s a ll
+058/025	sol	1	s o l
+058/027	sü	1	s ü
+058/029	sü	1	s ü
+058/031	söll	1	s ö ll
+058/033	soll	1	s o ll
+058/035	sö	1	s ö
+058/037	sohll	1	s oh ll
+058/039	sü	1	s ü
+058/041	sull	1	s u ll
+058/043	su	1	s u
+058/045	so	1	s o
+058/047	se	1	s e
+058/049	si	1	s i
+058/051	si	1	s i
+058/053	si	1	s i
+058/055	si	1	s i
+058/057	sü	1	s ü
+058/059	so	1	s o
+058/061	su	1	s u
+058/063	su	1	s u
+058/065	su	1	s u
+058/067	so	1	s o
+058/069	so	1	s o
+058/071	so	1	s o
+058/073	so	1	s o
+058/075	su	1	s u
+058/077	so	1	s o
+058/079	so	1	s o
+058/081	su	1	s u
+058/083	so	1	s o
+058/085	soll	1	s o ll
+058/087	su	1	s u
+058/089	sull	1	s u ll
+058/091	sull	1	s u ll
+058/093	sull	1	s u ll
+058/095	sull	1	s u ll
+058/097	sull	1	s u ll
+058/099	sull	1	s u ll
+058/101	soll	1	s o ll
+058/103	sull	1	s u ll
+058/105	sull	1	s u ll
+058/107	sull	1	s u ll
+058/109	sell	1	s e ll
+058/111	sull	1	s u ll
+058/113	soll	1	s o ll
+058/115	soll	1	s o ll
+058/117	si	1	s i
+058/119	so	1	s o
+058/121	sö	1	s ö
+058/123	sull	1	s u ll
+058/125	sill	1	s i ll
+058/127	sull	1	s u ll
+058/129	sull	1	s u ll
+058/131	soal	1	s oa l
+058/133	si	1	s i
+058/135	sill	1	s i ll
+058/137	sull	1	s u ll
+058/139	sull	1	s u ll
+058/141	sull	1	s u ll
+058/143	sull	1	s u ll
+058/145	sull	1	s u ll
+058/147	sull	1	s u ll
+058/149	sull	1	s u ll
+058/151	sull	1	s u ll
+058/153	sull	1	s u ll
+058/155	sull	1	s u ll
+058/157	sull	1	s u ll
+058/159	sill	1	s i ll
+059/019	soi	1	s oi
+059/021	soe	1	s oe
+059/023	soll	1	s o ll
+059/025	sü	1	s ü
+059/027	süll	1	s ü ll
+059/029	sü	1	s ü
+059/031	soll	1	s o ll
+059/033	süll	1	s ü ll
+059/035	soll	1	s o ll
+059/037	sull	1	s u ll
+059/039	soll	1	s o ll
+059/041	sal	1	s a l
+059/043	so	1	s o
+059/045	so	1	s o
+059/047	si	1	s i
+059/049	si	1	s i
+059/051	si	1	s i
+059/053	si	1	s i
+059/055	si	1	s i
+059/057	so	1	s o
+059/059	so	1	s o
+059/061	su	1	s u
+059/063	su	1	s u
+059/065	so	1	s o
+059/067	su	1	s u
+059/069	su	1	s u
+059/071	so	1	s o
+059/073	so	1	s o
+059/075	so	1	s o
+059/077	soll	1	s o ll
+059/079	so	1	s o
+059/081	soll	1	s o ll
+059/083	su	1	s u
+059/085	so	1	s o
+059/087	soll	1	s o ll
+059/089	darf	1	d a r f
+059/091	sull	1	s u ll
+059/093	soll	1	s o ll
+059/095	sull	1	s u ll
+059/097	sull	1	s u ll
+059/099	sull	1	s u ll
+059/101	sull	1	s u ll
+059/103	sull	1	s u ll
+059/105	sill	1	s i ll
+059/107	sill	1	s i ll
+059/109	sill	1	s i ll
+059/111	soll	1	s o ll
+059/113	sull	1	s u ll
+059/115	süll	1	s ü ll
+059/117	sull	1	s u ll
+059/119	su	1	s u
+059/121	se	1	s e
+059/123	sill	1	s i ll
+059/125	sill	1	s i ll
+059/127	sull	1	s u ll
+059/129	süll	1	s ü ll
+059/131	soll	1	s o ll
+059/133	sill	1	s i ll
+059/135	sull	1	s u ll
+059/137	sill	1	s i ll
+059/139	sull	1	s u ll
+059/141	sol	1	s o l
+059/143	sill	1	s i ll
+059/145	sul	1	s u l
+059/147	sull	1	s u ll
+059/149	sull	1	s u ll
+059/151	sill	1	s i ll
+059/153	soull	1	s ou ll
+059/155	sull	1	s u ll
+059/157	sil	1	s i l
+059/159	sull	1	s u ll
+059/161	sull	1	s u ll
+059/165	sull	1	s u ll
+059/169	sull	1	s u ll
+060/021	sou	1	s ou
+060/023	sool	1	s oo l
+060/025	soll	1	s o ll
+060/027	soll	1	s o ll
+060/029	soll	1	s o ll
+060/031	soll	1	s o ll
+060/033	soll	1	s o ll
+060/035	soll	1	s o ll
+060/037	soll	1	s o ll
+060/039	sull	1	s u ll
+060/041	soll	1	s o ll
+060/043	su	1	s u
+060/045	soll	1	s o ll
+060/047	souu	1	s ouu
+060/049	si	1	s i
+060/051	si	1	s i
+060/053	si	1	s i
+060/055	si	1	s i
+060/057	si	1	s i
+060/059	so	1	s o
+060/061	so	1	s o
+060/063	so	1	s o
+060/065	so	1	s o
+060/067	sa	1	s a
+060/069	so	1	s o
+060/071	su	1	s u
+060/073	so	1	s o
+060/075	su	1	s u
+060/077	so	1	s o
+060/079	su	1	s u
+060/081	so	1	s o
+060/083	su	1	s u
+060/085	su	1	s u
+060/087	soll	1	s o ll
+060/089	sull	1	s u ll
+060/091	sull	1	s u ll
+060/093	sull	1	s u ll
+060/095	sull	1	s u ll
+060/097	sull	1	s u ll
+060/099	sull	1	s u ll
+060/101	sull	1	s u ll
+060/103	soll	1	s o ll
+060/105	sill	1	s i ll
+060/107	sull	1	s u ll
+060/109	sull	1	s u ll
+060/111	sill	1	s i ll
+060/113	sull	1	s u ll
+060/115	sull	1	s u ll
+060/117	soll	1	s o ll
+060/119	si	1	s i
+060/121	si	1	s i
+060/123	soll	1	s o ll
+060/125	sill	1	s i ll
+060/127	soll	1	s o ll
+060/129	soll	1	s o ll
+060/131	söll	1	s ö ll
+060/135	sull	1	s u ll
+060/137	sull	1	s u ll
+060/139	sill	1	s i ll
+060/141	sill	1	s i ll
+060/143	sull	1	s u ll
+060/145	sull	1	s u ll
+060/147	sull	1	s u ll
+060/149	sull	1	s u ll
+060/151	sull	1	s u ll
+060/153	sil	1	s i l
+060/155	sull	1	s u ll
+060/157	sul	1	s u l
+060/159	sull	1	s u ll
+060/163	sull	1	s u ll
+060/165	soull	1	s ou ll
+061/021	soll	1	s o ll
+061/023	soll	1	s o ll
+061/025	söll	1	s ö ll
+061/027	soll	1	s o ll
+061/029	soll	1	s o ll
+061/031	soll	1	s o ll
+061/033	soll	1	s o ll
+061/035	soll	1	s o ll
+061/037	sall	1	s a ll
+061/039	soll	1	s o ll
+061/041	soll	1	s o ll
+061/043	so	1	s o
+061/045	su	1	s u
+061/047	souu	1	s ouu
+061/049	so	1	s o
+061/051	si	1	s i
+061/053	soll	1	s o ll
+061/055	se	1	s e
+061/057	si	1	s i
+061/059	so	1	s o
+061/061	so	1	s o
+061/063	so	1	s o
+061/065	so	1	s o
+061/067	so	1	s o
+061/069	so	1	s o
+061/071	su	1	s u
+061/073	so	1	s o
+061/075	so	1	s o
+061/077	so	1	s o
+061/079	so	1	s o
+061/081	so	1	s o
+061/083	so	1	s o
+061/085	sul	1	s u l
+061/087	sull	1	s u ll
+061/089	sull	1	s u ll
+061/091	sull	1	s u ll
+061/093	sull	1	s u ll
+061/095	sull	1	s u ll
+061/097	sull	1	s u ll
+061/099	sull	1	s u ll
+061/101	sull	1	s u ll
+061/103	soll	1	s o ll
+061/105	sull	1	s u ll
+061/107	sill	1	s i ll
+061/109	sull	1	s u ll
+061/111	sull	1	s u ll
+061/113	sill	1	s i ll
+061/115	sull	1	s u ll
+061/117	si	1	s i
+061/119	si	1	s i
+061/121	si	1	s i
+061/123	soll	1	s o ll
+061/125	soll	1	s o ll
+061/127	sull	1	s u ll
+061/129	soll	1	s o ll
+061/131	söll	1	s ö ll
+061/133	sell	1	s e ll
+061/137	siel	1	s ie l
+061/139	sill	1	s i ll
+061/141	sull	1	s u ll
+061/143	sill	1	s i ll
+061/145	sull	1	s u ll
+061/147	sull	1	s u ll
+061/149	sull	1	s u ll
+061/151	sull	1	s u ll
+061/153	sill	1	s i ll
+061/155	sill	1	s i ll
+061/157	sull	1	s u ll
+061/159	sull	1	s u ll
+061/161	sull	1	s u ll
+061/165	säll	1	s ä ll
+062/021	sou	1	s ou
+062/023	söll	1	s ö ll
+062/025	soll	1	s o ll
+062/027	soll	1	s o ll
+062/029	soll	1	s o ll
+062/031	soll	1	s o ll
+062/033	soll	1	s o ll
+062/035	soll	1	s o ll
+062/037	soll	1	s o ll
+062/039	soll	1	s o ll
+062/041	soll	1	s o ll
+062/043	sö	1	s ö
+062/045	so	1	s o
+062/047	so	1	s o
+062/049	so	1	s o
+062/051	so	1	s o
+062/053	so	1	s o
+062/055	soll	1	s o ll
+062/057	si	1	s i
+062/059	soll	1	s o ll
+062/061	soll	1	s o ll
+062/063	so	1	s o
+062/065	so	1	s o
+062/067	so	1	s o
+062/069	soll	1	s o ll
+062/071	sol	1	s o l
+062/073	so	1	s o
+062/075	so	1	s o
+062/077	so	1	s o
+062/079	sall	1	s a ll
+062/081	soll	1	s o ll
+062/083	so	1	s o
+062/085	soll	1	s o ll
+062/087	sul	1	s u l
+062/089	soll	1	s o ll
+062/091	sull	1	s u ll
+062/093	sull	1	s u ll
+062/095	sell	1	s e ll
+062/097	sull	1	s u ll
+062/099	sell	1	s e ll
+062/101	sull	1	s u ll
+062/103	sell	1	s e ll
+062/105	soll	1	s o ll
+062/107	soll	1	s o ll
+062/109	sull	1	s u ll
+062/111	soll	1	s o ll
+062/113	sull	1	s u ll
+062/115	si	1	s i
+062/117	si	1	s i
+062/119	su	1	s u
+062/121	si	1	s i
+062/123	sell	1	s e ll
+062/125	soll	1	s o ll
+062/127	soll	1	s o ll
+062/129	sell	1	s e ll
+062/131	söll	1	s ö ll
+062/133	se	1	s e
+062/135	se	1	s e
+062/137	sell	1	s e ll
+062/139	sell	1	s e ll
+062/141	sill	1	s i ll
+062/143	sill	1	s i ll
+062/145	sell	1	s e ll
+062/147	sull	1	s u ll
+062/149	sill	1	s i ll
+062/151	sill	1	s i ll
+062/153	sull	1	s u ll
+062/155	sull	1	s u ll
+062/157	sull	1	s u ll
+062/159	sill	1	s i ll
+062/161	soll	1	s o ll
+063/021	söll	1	s ö ll
+063/023	söh	1	s öh
+063/025	soll	1	s o ll
+063/027	soll	1	s o ll
+063/029	soll	1	s o ll
+063/031	soll	1	s o ll
+063/033	soll	1	s o ll
+063/035	soll	1	s o ll
+063/037	soll	1	s o ll
+063/039	soll	1	s o ll
+063/041	soll	1	s o ll
+063/043	so	1	s o
+063/045	su	1	s u
+063/047	so	1	s o
+063/049	so	1	s o
+063/051	so	1	s o
+063/053	soll	1	s o ll
+063/055	se	1	s e
+063/057	si	1	s i
+063/059	soll	1	s o ll
+063/061	soll	1	s o ll
+063/063	so	1	s o
+063/065	soll	1	s o ll
+063/067	so	1	s o
+063/069	so	1	s o
+063/071	soll	1	s o ll
+063/073	so	1	s o
+063/075	so	1	s o
+063/077	so	1	s o
+063/079	so	1	s o
+063/081	so	1	s o
+063/083	so	1	s o
+063/085	soll	1	s o ll
+063/087	sull	1	s u ll
+063/089	sull	1	s u ll
+063/091	soll	1	s o ll
+063/093	sell	1	s e ll
+063/095	sell	1	s e ll
+063/097	sell	1	s e ll
+063/099	sell	1	s e ll
+063/101	sell	1	s e ll
+063/103	sol	1	s o l
+063/105	sull	1	s u ll
+063/107	soll	1	s o ll
+063/109	soll	1	s o ll
+063/111	sul	1	s u l
+063/113	sull	1	s u ll
+063/115	sull	1	s u ll
+063/117	su	1	s u
+063/119	sull	1	s u ll
+063/121	si	1	s i
+063/123	soll	1	s o ll
+063/125	soll	1	s o ll
+063/127	soll	1	s o ll
+063/135	soll	1	s o ll
+063/137	sell	1	s e ll
+063/139	sell	1	s e ll
+063/141	sell	1	s e ll
+063/143	sell	1	s e ll
+063/145	sel	1	s e l
+063/147	sull	1	s u ll
+063/149	sull	1	s u ll
+063/151	sil	1	s i l
+063/153	sil	1	s i l
+063/155	sill	1	s i ll
+063/157	sull	1	s u ll
+063/159	sill	1	s i ll
+063/161	soll	1	s o ll
+063/163	sull	1	s u ll
+063/165	sull	1	s u ll
+064/023	söll	1	s ö ll
+064/025	sohll	1	s oh ll
+064/027	soll	1	s o ll
+064/029	soll	1	s o ll
+064/031	soll	1	s o ll
+064/033	soll	1	s o ll
+064/035	säll	1	s ä ll
+064/037	soll	1	s o ll
+064/039	soll	1	s o ll
+064/041	soll	1	s o ll
+064/043	soll	1	s o ll
+064/045	so	1	s o
+064/047	so	1	s o
+064/049	so	1	s o
+064/051	so	1	s o
+064/053	so	1	s o
+064/055	se	1	s e
+064/057	so	1	s o
+064/059	soll	1	s o ll
+064/061	so	1	s o
+064/063	saoll	1	s ao ll
+064/065	soi	1	s oi
+064/067	soll	1	s o ll
+064/069	so	1	s o
+064/071	so	1	s o
+064/073	so	1	s o
+064/075	söll	1	s ö ll
+064/077	söll	1	s ö ll
+064/079	soll	1	s o ll
+064/081	NA	NA	-
+064/083	soll	1	s o ll
+064/085	soll	1	s o ll
+064/087	sull	1	s u ll
+064/089	söll	1	s ö ll
+064/091	söll	1	s ö ll
+064/093	sell	1	s e ll
+064/095	sell	1	s e ll
+064/097	sell	1	s e ll
+064/099	sell	1	s e ll
+064/101	sell	1	s e ll
+064/103	söll	1	s ö ll
+064/105	sell	1	s e ll
+064/107	sel	1	s e l
+064/109	sell	1	s e ll
+064/111	sell	1	s e ll
+064/113	sull	1	s u ll
+064/115	sull	1	s u ll
+064/117	sull	1	s u ll
+064/119	su	1	s u
+064/121	si	1	s i
+064/123	süll	1	s ü ll
+064/125	soll	1	s o ll
+064/127	soll	1	s o ll
+064/135	sell	1	s e ll
+064/137	söll	1	s ö ll
+064/139	sel	1	s e l
+064/141	sell	1	s e ll
+064/143	sell	1	s e ll
+064/145	sell	1	s e ll
+064/147	sell	1	s e ll
+064/149	sill	1	s i ll
+064/151	sull	1	s u ll
+064/153	sell	1	s e ll
+064/155	sil	1	s i l
+064/157	sull	1	s u ll
+064/159	sull	1	s u ll
+065/021	soll	1	s o ll
+065/023	soll	1	s o ll
+065/025	soll	1	s o ll
+065/027	soll	1	s o ll
+065/029	soll	1	s o ll
+065/031	soll	1	s o ll
+065/033	soll	1	s o ll
+065/035	soll	1	s o ll
+065/037	soll	1	s o ll
+065/039	soll	1	s o ll
+065/041	soll	1	s o ll
+065/043	soll	1	s o ll
+065/045	so	1	s o
+065/047	su	1	s u
+065/049	so	1	s o
+065/051	so	1	s o
+065/053	so	1	s o
+065/055	NA	NA	-
+065/057	so	1	s o
+065/059	soll	1	s o ll
+065/061	so	1	s o
+065/063	so	1	s o
+065/065	soll	1	s o ll
+065/067	sall	1	s a ll
+065/069	soll	1	s o ll
+065/071	söll	1	s ö ll
+065/073	söll	1	s ö ll
+065/075	söll	1	s ö ll
+065/077	söll	1	s ö ll
+065/079	söll	1	s ö ll
+065/081	sell	1	s e ll
+065/083	sell	1	s e ll
+065/085	soll	1	s o ll
+065/087	sell	1	s e ll
+065/089	sell	1	s e ll
+065/091	söll	1	s ö ll
+065/093	sell	1	s e ll
+065/095	sell	1	s e ll
+065/097	sel	1	s e l
+065/101	sell	1	s e ll
+065/103	sell	1	s e ll
+065/105	sell	1	s e ll
+065/107	sell	1	s e ll
+065/109	sell	1	s e ll
+065/111	sull	1	s u ll
+065/113	sull	1	s u ll
+065/115	sull	1	s u ll
+065/121	sull	1	s u ll
+065/123	soll	1	s o ll
+065/137	sull	1	s u ll
+065/139	sell	1	s e ll
+065/143	sell	1	s e ll
+065/145	sell	1	s e ll
+065/147	sull	1	s u ll
+065/149	sell	1	s e ll
+065/151	sel	1	s e l
+065/153	sel	1	s e l
+065/155	sull	1	s u ll
+065/157	sull	1	s u ll
+065/159	sil	1	s i l
+066/021	soll	1	s o ll
+066/023	soll	1	s o ll
+066/025	soll	1	s o ll
+066/027	soll	1	s o ll
+066/029	sall	1	s a ll
+066/031	soll	1	s o ll
+066/033	soll	1	s o ll
+066/035	soll	1	s o ll
+066/037	söll	1	s ö ll
+066/039	soll	1	s o ll
+066/041	sull	1	s u ll
+066/043	soll	1	s o ll
+066/045	soll	1	s o ll
+066/047	su	1	s u
+066/049	so	1	s o
+066/051	soll	1	s o ll
+066/053	so	1	s o
+066/055	so	1	s o
+066/057	soll	1	s o ll
+066/059	soll	1	s o ll
+066/061	so	1	s o
+066/063	soll	1	s o ll
+066/065	soll	1	s o ll
+066/067	söll	1	s ö ll
+066/069	soll	1	s o ll
+066/071	söll	1	s ö ll
+066/073	söll	1	s ö ll
+066/075	söll	1	s ö ll
+066/077	söll	1	s ö ll
+066/079	soll	1	s o ll
+066/081	söll	1	s ö ll
+066/083	söll	1	s ö ll
+066/085	schöll	1	sch ö ll
+066/087	sell	1	s e ll
+066/089	sell	1	s e ll
+066/091	sell	1	s e ll
+066/093	söll	1	s ö ll
+066/095	sell	1	s e ll
+066/097	soll	1	s o ll
+066/099	sell	1	s e ll
+066/101	sell	1	s e ll
+066/103	soll	1	s o ll
+066/105	sell	1	s e ll
+066/107	soll	1	s o ll
+066/109	soll	1	s o ll
+066/111	sell	1	s e ll
+066/113	sull	1	s u ll
+066/121	sull	1	s u ll
+066/139	seell	1	s ee ll
+066/143	sell	1	s e ll
+066/145	sell	1	s e ll
+066/147	sell	1	s e ll
+066/149	sell	1	s e ll
+066/151	sell	1	s e ll
+066/153	sel	1	s e l
+066/155	sell	1	s e ll
+066/157	söll	1	s ö ll
+066/159	sill	1	s i ll
+066/161	sel	1	s e l
+066/163	soull	1	s ou ll
+067/021	soll	1	s o ll
+067/023	soll	1	s o ll
+067/025	soll	1	s o ll
+067/027	soll	1	s o ll
+067/029	soll	1	s o ll
+067/031	soll	1	s o ll
+067/033	soll	1	s o ll
+067/035	söll	1	s ö ll
+067/037	sell	1	s e ll
+067/039	söll	1	s ö ll
+067/041	sull	1	s u ll
+067/043	soll	1	s o ll
+067/045	soll	1	s o ll
+067/047	soll	1	s o ll
+067/049	su	1	s u
+067/051	soll	1	s o ll
+067/053	su	1	s u
+067/055	sell	1	s e ll
+067/057	soll	1	s o ll
+067/059	soll	1	s o ll
+067/061	soll	1	s o ll
+067/063	soll	1	s o ll
+067/065	söll	1	s ö ll
+067/067	söll	1	s ö ll
+067/069	süll	1	s ü ll
+067/071	söll	1	s ö ll
+067/073	soll	1	s o ll
+067/075	söll	1	s ö ll
+067/077	söll	1	s ö ll
+067/079	söll	1	s ö ll
+067/081	söll	1	s ö ll
+067/083	soll	1	s o ll
+067/085	soll	1	s o ll
+067/087	sell	1	s e ll
+067/089	sell	1	s e ll
+067/091	soll	1	s o ll
+067/093	söll	1	s ö ll
+067/095	sell	1	s e ll
+067/097	se	1	s e
+067/099	söll	1	s ö ll
+067/101	söl	1	s ö l
+067/103	soll	1	s o ll
+067/105	söll	1	s ö ll
+067/107	sell	1	s e ll
+067/109	sall	1	s a ll
+067/111	soll	1	s o ll
+067/113	soll	1	s o ll
+067/143	sel	1	s e l
+067/145	sel	1	s e l
+067/147	soll	1	s o ll
+067/149	sell	1	s e ll
+067/151	sell	1	s e ll
+067/153	sell	1	s e ll
+067/155	sel	1	s e l
+067/157	sel	1	s e l
+067/159	sell	1	s e ll
+067/161	sill	1	s i ll
+067/163	sel	1	s e l
+067/165	sill	1	s i ll
+067/177	sill	1	s i ll
+068/021	soll	1	s o ll
+068/023	soll	1	s o ll
+068/025	soll	1	s o ll
+068/027	soll	1	s o ll
+068/029	soll	1	s o ll
+068/031	soll	1	s o ll
+068/033	sall	1	s a ll
+068/035	söll	1	s ö ll
+068/037	sell	1	s e ll
+068/039	sull	1	s u ll
+068/041	sull	1	s u ll
+068/043	soll	1	s o ll
+068/045	soll	1	s o ll
+068/047	su	1	s u
+068/049	soll	1	s o ll
+068/051	soll	1	s o ll
+068/053	sull	1	s u ll
+068/055	soll	1	s o ll
+068/057	soall	1	s oa ll
+068/059	soll	1	s o ll
+068/061	soll	1	s o ll
+068/063	soll	1	s o ll
+068/065	söll	1	s ö ll
+068/067	dörf	1	d ö r f
+068/069	söll	1	s ö ll
+068/071	söll	1	s ö ll
+068/073	söll	1	s ö ll
+068/075	söll	1	s ö ll
+068/077	söll	1	s ö ll
+068/079	söll	1	s ö ll
+068/081	söll	1	s ö ll
+068/083	soll	1	s o ll
+068/085	soll	1	s o ll
+068/087	söll	1	s ö ll
+068/089	sell	1	s e ll
+068/091	soll	1	s o ll
+068/093	soll	1	s o ll
+068/095	sell	1	s e ll
+068/097	sel	1	s e l
+068/099	söll	1	s ö ll
+068/101	soll	1	s o ll
+068/103	soll	1	s o ll
+068/105	söll	1	s ö ll
+068/107	soi	1	s oi
+068/109	soll	1	s o ll
+068/111	soll	1	s o ll
+068/145	sell	1	s e ll
+068/147	sell	1	s e ll
+068/149	sill	1	s i ll
+068/151	sell	1	s e ll
+068/153	sel	1	s e l
+068/155	sel	1	s e l
+068/157	soll	1	s o ll
+068/159	sell	1	s e ll
+068/161	sel	1	s e l
+068/165	soll	1	s o ll
+069/019	soll	1	s o ll
+069/023	soll	1	s o ll
+069/025	soll	1	s o ll
+069/027	soll	1	s o ll
+069/029	soll	1	s o ll
+069/031	soll	1	s o ll
+069/033	soll	1	s o ll
+069/035	soll	1	s o ll
+069/037	sill	1	s i ll
+069/039	soll	1	s o ll
+069/041	su	1	s u
+069/043	soll	1	s o ll
+069/045	soll	1	s o ll
+069/047	soll	1	s o ll
+069/049	soll	1	s o ll
+069/051	soll	1	s o ll
+069/053	soll	1	s o ll
+069/055	soll	1	s o ll
+069/057	soll	1	s o ll
+069/059	soll	1	s o ll
+069/061	soll	1	s o ll
+069/063	soll	1	s o ll
+069/065	söll	1	s ö ll
+069/067	söll	1	s ö ll
+069/069	söll	1	s ö ll
+069/071	söll	1	s ö ll
+069/073	söll	1	s ö ll
+069/075	söll	1	s ö ll
+069/077	söll	1	s ö ll
+069/079	soll	1	s o ll
+069/081	söll	1	s ö ll
+069/083	söll	1	s ö ll
+069/085	soll	1	s o ll
+069/087	söll	1	s ö ll
+069/089	sell	1	s e ll
+069/091	sell	1	s e ll
+069/093	söll	1	s ö ll
+069/095	söll	1	s ö ll
+069/097	söll	1	s ö ll
+069/099	soll	1	s o ll
+069/101	soll	1	s o ll
+069/103	soll	1	s o ll
+069/105	soll	1	s o ll
+069/107	soll	1	s o ll
+069/109	soll	1	s o ll
+069/111	soll	1	s o ll
+069/147	sell	1	s e ll
+069/149	sell	1	s e ll
+069/151	söll	1	s ö ll
+069/153	söll	1	s ö ll
+069/157	söll	1	s ö ll
+069/159	sil	1	s i l
+069/161	sul	1	s u l
+069/163	sell	1	s e ll
+069/165	soll	1	s o ll
+070/019	soll	1	s o ll
+070/023	soll	1	s o ll
+070/025	soll	1	s o ll
+070/027	kunnen	1	k u nn e n
+070/029	soll	1	s o ll
+070/031	soll	1	s o ll
+070/033	soll	1	s o ll
+070/035	sell	1	s e ll
+070/037	sell	1	s e ll
+070/039	sill	1	s i ll
+070/041	soll	1	s o ll
+070/043	soll	1	s o ll
+070/045	sall	1	s a ll
+070/047	soll	1	s o ll
+070/049	su	1	s u
+070/051	soll	1	s o ll
+070/053	sell	1	s e ll
+070/055	soll	1	s o ll
+070/057	soll	1	s o ll
+070/059	soll	1	s o ll
+070/061	soll	1	s o ll
+070/063	soll	1	s o ll
+070/065	söll	1	s ö ll
+070/067	söll	1	s ö ll
+070/069	söll	1	s ö ll
+070/071	söll	1	s ö ll
+070/073	söll	1	s ö ll
+070/075	söll	1	s ö ll
+070/077	söll	1	s ö ll
+070/079	soll	1	s o ll
+070/081	söll	1	s ö ll
+070/083	söll	1	s ö ll
+070/085	söll	1	s ö ll
+070/087	soll	1	s o ll
+070/089	soll	1	s o ll
+070/091	sel	1	s e l
+070/093	soll	1	s o ll
+070/095	soll	1	s o ll
+070/097	schöll	1	sch ö ll
+070/099	soll	1	s o ll
+070/101	soll	1	s o ll
+070/103	soll	1	s o ll
+070/105	sol	1	s o l
+070/107	soll	1	s o ll
+070/109	sell	1	s e ll
+070/111	soi	1	s oi
+070/145	sell	1	s e ll
+070/147	sell	1	s e ll
+070/149	sell	1	s e ll
+070/151	sel	1	s e l
+070/153	soll	1	s o ll
+070/155	schoyy	1	sch oyy
+070/157	soll	1	s o ll
+070/159	sel	1	s e l
+070/161	sol	1	s o l
+070/163	sell	1	s e ll
+070/165	soll	1	s o ll
+071/017	soll	1	s o ll
+071/019	soll	1	s o ll
+071/021	soll	1	s o ll
+071/023	soll	1	s o ll
+071/025	soll	1	s o ll
+071/027	soll	1	s o ll
+071/029	soll	1	s o ll
+071/031	soll	1	s o ll
+071/033	sell	1	s e ll
+071/035	sall	1	s a ll
+071/037	soll	1	s o ll
+071/039	soll	1	s o ll
+071/041	sall	1	s a ll
+071/043	soll	1	s o ll
+071/045	soll	1	s o ll
+071/047	soll	1	s o ll
+071/049	sell	1	s e ll
+071/051	soll	1	s o ll
+071/053	sell	1	s e ll
+071/055	soll	1	s o ll
+071/057	soll	1	s o ll
+071/059	soll	1	s o ll
+071/063	söll	1	s ö ll
+071/065	söll	1	s ö ll
+071/067	söll	1	s ö ll
+071/069	söll	1	s ö ll
+071/071	söll	1	s ö ll
+071/073	söll	1	s ö ll
+071/075	söll	1	s ö ll
+071/077	söll	1	s ö ll
+071/079	söll	1	s ö ll
+071/081	soll	1	s o ll
+071/083	soll	1	s o ll
+071/085	söll	1	s ö ll
+071/087	soll	1	s o ll
+071/089	soll	1	s o ll
+071/091	soll	1	s o ll
+071/093	soll	1	s o ll
+071/095	soll	1	s o ll
+071/097	soll	1	s o ll
+071/099	sol	1	s o l
+071/101	sol	1	s o l
+071/103	sol	1	s o l
+071/105	soll	1	s o ll
+071/145	sell	1	s e ll
+071/147	sell	1	s e ll
+071/149	sell	1	s e ll
+071/151	soll	1	s o ll
+071/153	sel	1	s e l
+071/155	soj	1	s o j
+071/157	söi	1	s öi
+071/159	soll	1	s o ll
+071/161	soll	1	s o ll
+071/163	soll	1	s o ll
+071/177	sou	1	s ou
+071/179	soll	1	s o ll
+072/017	soll	1	s o ll
+072/019	soll	1	s o ll
+072/021	soll	1	s o ll
+072/023	soll	1	s o ll
+072/025	soll	1	s o ll
+072/027	soll	1	s o ll
+072/029	soll	1	s o ll
+072/031	soll	1	s o ll
+072/033	sell	1	s e ll
+072/035	sell	1	s e ll
+072/037	sull	1	s u ll
+072/039	soll	1	s o ll
+072/041	soll	1	s o ll
+072/043	soll	1	s o ll
+072/045	soll	1	s o ll
+072/047	soll	1	s o ll
+072/049	säll	1	s ä ll
+072/051	soll	1	s o ll
+072/053	soll	1	s o ll
+072/055	sell	1	s e ll
+072/057	sull	1	s u ll
+072/059	soll	1	s o ll
+072/061	söll	1	s ö ll
+072/063	söll	1	s ö ll
+072/065	söll	1	s ö ll
+072/067	söll	1	s ö ll
+072/069	söll	1	s ö ll
+072/071	söll	1	s ö ll
+072/073	söll	1	s ö ll
+072/075	söll	1	s ö ll
+072/077	soll	1	s o ll
+072/079	söll	1	s ö ll
+072/081	söll	1	s ö ll
+072/083	söll	1	s ö ll
+072/085	söll	1	s ö ll
+072/087	sell	1	s e ll
+072/089	sell	1	s e ll
+072/091	soll	1	s o ll
+072/093	soll	1	s o ll
+072/095	soll	1	s o ll
+072/097	soll	1	s o ll
+072/099	soll	1	s o ll
+072/101	soll	1	s o ll
+072/103	soll	1	s o ll
+072/105	soll	1	s o ll
+072/107	soll	1	s o ll
+072/145	sche	1	sch e
+072/147	sell	1	s e ll
+072/149	sell	1	s e ll
+072/151	sell	1	s e ll
+072/153	söell	1	s öe ll
+072/155	söl	1	s ö l
+072/157	sel	1	s e l
+072/159	soll	1	s o ll
+072/161	soll	1	s o ll
+072/177	sell	1	s e ll
+072/179	soll	1	s o ll
+072/181	sol	1	s o l
+073/017	soll	1	s o ll
+073/019	soll	1	s o ll
+073/021	soll	1	s o ll
+073/023	soll	1	s o ll
+073/025	soll	1	s o ll
+073/027	soll	1	s o ll
+073/029	soll	1	s o ll
+073/031	soll	1	s o ll
+073/033	soll	1	s o ll
+073/035	sell	1	s e ll
+073/037	soll	1	s o ll
+073/039	soll	1	s o ll
+073/041	soll	1	s o ll
+073/043	soll	1	s o ll
+073/045	soll	1	s o ll
+073/047	soll	1	s o ll
+073/049	soll	1	s o ll
+073/051	soll	1	s o ll
+073/053	soll	1	s o ll
+073/055	soll	1	s o ll
+073/057	soll	1	s o ll
+073/059	sell	1	s e ll
+073/061	soll	1	s o ll
+073/063	soll	1	s o ll
+073/065	söll	1	s ö ll
+073/067	söll	1	s ö ll
+073/069	söll	1	s ö ll
+073/071	söll	1	s ö ll
+073/073	sell	1	s e ll
+073/075	soll	1	s o ll
+073/077	sell	1	s e ll
+073/079	soll	1	s o ll
+073/081	söll	1	s ö ll
+073/083	söll	1	s ö ll
+073/085	söll	1	s ö ll
+073/087	sell	1	s e ll
+073/089	soll	1	s o ll
+073/091	soll	1	s o ll
+073/093	soll	1	s o ll
+073/095	sol	1	s o l
+073/097	soll	1	s o ll
+073/099	soll	1	s o ll
+073/101	soll	1	s o ll
+073/103	soll	1	s o ll
+073/105	söll	1	s ö ll
+073/107	soll	1	s o ll
+073/145	sche	1	sch e
+073/147	schu	1	sch u
+073/149	sell	1	s e ll
+073/151	sell	1	s e ll
+073/153	soll	1	s o ll
+073/155	soll	1	s o ll
+073/157	sull	1	s u ll
+073/159	soll	1	s o ll
+073/161	soll	1	s o ll
+073/163	sell	1	s e ll
+073/165	soll	1	s o ll
+073/175	söll	1	s ö ll
+073/177	söll	1	s ö ll
+074/019	söll	1	s ö ll
+074/021	soll	1	s o ll
+074/023	soll	1	s o ll
+074/025	soll	1	s o ll
+074/027	soll	1	s o ll
+074/029	soll	1	s o ll
+074/031	soll	1	s o ll
+074/033	sell	1	s e ll
+074/035	soll	1	s o ll
+074/037	soll	1	s o ll
+074/039	soll	1	s o ll
+074/041	soll	1	s o ll
+074/043	soll	1	s o ll
+074/045	soll	1	s o ll
+074/047	soll	1	s o ll
+074/049	se	1	s e
+074/051	soll	1	s o ll
+074/053	soll	1	s o ll
+074/055	soll	1	s o ll
+074/057	soll	1	s o ll
+074/059	soll	1	s o ll
+074/061	söll	1	s ö ll
+074/063	söll	1	s ö ll
+074/065	soll	1	s o ll
+074/067	söll	1	s ö ll
+074/069	sell	1	s e ll
+074/071	söll	1	s ö ll
+074/073	soll	1	s o ll
+074/075	sell	1	s e ll
+074/077	sell	1	s e ll
+074/079	sell	1	s e ll
+074/081	soll	1	s o ll
+074/083	söll	1	s ö ll
+074/085	soll	1	s o ll
+074/087	soll	1	s o ll
+074/089	soll	1	s o ll
+074/091	soll	1	s o ll
+074/093	sol	1	s o l
+074/095	soll	1	s o ll
+074/097	soll	1	s o ll
+074/099	soll	1	s o ll
+074/101	soll	1	s o ll
+074/103	soll	1	s o ll
+074/105	soll	1	s o ll
+074/107	sol	1	s o l
+074/109	soll	1	s o ll
+074/145	schä	1	sch ä
+074/147	sell	1	s e ll
+074/149	sel	1	s e l
+074/153	sell	1	s e ll
+074/155	sull	1	s u ll
+074/157	soll	1	s o ll
+074/159	sell	1	s e ll
+074/161	säil	1	s äi l
+074/163	sell	1	s e ll
+074/165	sell	1	s e ll
+075/019	soll	1	s o ll
+075/021	soll	1	s o ll
+075/023	soll	1	s o ll
+075/025	soll	1	s o ll
+075/027	soll	1	s o ll
+075/029	soll	1	s o ll
+075/031	sell	1	s e ll
+075/033	soll	1	s o ll
+075/035	soll	1	s o ll
+075/037	NA	NA	-
+075/039	soll	1	s o ll
+075/041	soll	1	s o ll
+075/043	soll	1	s o ll
+075/045	soll	1	s o ll
+075/047	soll	1	s o ll
+075/049	soll	1	s o ll
+075/051	soll	1	s o ll
+075/053	soll	1	s o ll
+075/055	soll	1	s o ll
+075/057	soll	1	s o ll
+075/059	söll	1	s ö ll
+075/061	soll	1	s o ll
+075/063	soll	1	s o ll
+075/065	söll	1	s ö ll
+075/067	söll	1	s ö ll
+075/069	söll	1	s ö ll
+075/071	söll	1	s ö ll
+075/073	sel	1	s e l
+075/075	sell	1	s e ll
+075/077	soll	1	s o ll
+075/079	soll	1	s o ll
+075/081	sell	1	s e ll
+075/083	soll	1	s o ll
+075/085	soll	1	s o ll
+075/087	soll	1	s o ll
+075/089	sell	1	s e ll
+075/091	soll	1	s o ll
+075/093	soll	1	s o ll
+075/095	soll	1	s o ll
+075/097	soll	1	s o ll
+075/099	soll	1	s o ll
+075/101	soll	1	s o ll
+075/103	soll	1	s o ll
+075/105	soll	1	s o ll
+075/107	soll	1	s o ll
+075/135	sooll	1	s oo ll
+075/145	sche	1	sch e
+075/147	sche	1	sch e
+075/149	sell	1	s e ll
+075/155	soll	1	s o ll
+075/157	sell	1	s e ll
+075/159	soll	1	s o ll
+075/161	sel	1	s e l
+075/163	sell	1	s e ll
+075/165	söll	1	s ö ll
+076/019	soll	1	s o ll
+076/021	soll	1	s o ll
+076/023	soll	1	s o ll
+076/025	soll	1	s o ll
+076/027	soll	1	s o ll
+076/029	soll	1	s o ll
+076/033	soll	1	s o ll
+076/035	sull	1	s u ll
+076/037	soll	1	s o ll
+076/039	soll	1	s o ll
+076/041	soll	1	s o ll
+076/043	soll	1	s o ll
+076/045	soll	1	s o ll
+076/047	soll	1	s o ll
+076/049	soll	1	s o ll
+076/051	soll	1	s o ll
+076/053	soll	1	s o ll
+076/055	soll	1	s o ll
+076/057	soll	1	s o ll
+076/059	soll	1	s o ll
+076/061	soll	1	s o ll
+076/063	soll	1	s o ll
+076/065	soll	1	s o ll
+076/067	söll	1	s ö ll
+076/069	söll	1	s ö ll
+076/071	soll	1	s o ll
+076/073	soll	1	s o ll
+076/075	soll	1	s o ll
+076/077	soll	1	s o ll
+076/079	soll	1	s o ll
+076/081	soll	1	s o ll
+076/083	soll	1	s o ll
+076/085	soll	1	s o ll
+076/087	soll	1	s o ll
+076/089	soll	1	s o ll
+076/091	soll	1	s o ll
+076/093	soll	1	s o ll
+076/095	soll	1	s o ll
+076/097	soll	1	s o ll
+076/099	soll	1	s o ll
+076/101	sul	1	s u l
+076/103	soll	1	s o ll
+076/135	sull	1	s u ll
+076/137	school	1	sch oo l
+076/149	sell	1	s e ll
+076/151	sel	1	s e l
+076/155	sell	1	s e ll
+076/161	sell	1	s e ll
+076/163	soll	1	s o ll
+076/165	sel	1	s e l
+077/019	soll	1	s o ll
+077/021	sell	1	s e ll
+077/023	sooll	1	s oo ll
+077/025	soll	1	s o ll
+077/027	soll	1	s o ll
+077/029	soll	1	s o ll
+077/031	soll	1	s o ll
+077/033	soll	1	s o ll
+077/035	soll	1	s o ll
+077/037	soll	1	s o ll
+077/039	soll	1	s o ll
+077/041	soll	1	s o ll
+077/043	soll	1	s o ll
+077/047	soll	1	s o ll
+077/049	soll	1	s o ll
+077/051	soll	1	s o ll
+077/053	soll	1	s o ll
+077/055	soll	1	s o ll
+077/057	soll	1	s o ll
+077/059	soll	1	s o ll
+077/061	soll	1	s o ll
+077/063	soll	1	s o ll
+077/065	soll	1	s o ll
+077/067	sell	1	s e ll
+077/069	sell	1	s e ll
+077/071	sell	1	s e ll
+077/073	sel	1	s e l
+077/075	soll	1	s o ll
+077/077	soll	1	s o ll
+077/079	soll	1	s o ll
+077/081	soll	1	s o ll
+077/083	soll	1	s o ll
+077/085	soll	1	s o ll
+077/087	soll	1	s o ll
+077/089	soll	1	s o ll
+077/091	soll	1	s o ll
+077/093	soll	1	s o ll
+077/095	soll	1	s o ll
+077/097	soll	1	s o ll
+077/099	soi	1	s oi
+077/101	soll	1	s o ll
+077/103	soll	1	s o ll
+077/135	soj	1	s o j
+077/137	schöl	1	sch ö l
+078/021	soll	1	s o ll
+078/023	soll	1	s o ll
+078/025	soll	1	s o ll
+078/027	soll	1	s o ll
+078/029	soll	1	s o ll
+078/031	soll	1	s o ll
+078/033	soll	1	s o ll
+078/035	soll	1	s o ll
+078/037	soll	1	s o ll
+078/039	soll	1	s o ll
+078/041	soll	1	s o ll
+078/045	sell	1	s e ll
+078/047	sell	1	s e ll
+078/049	soll	1	s o ll
+078/051	soll	1	s o ll
+078/053	soll	1	s o ll
+078/055	soll	1	s o ll
+078/057	soll	1	s o ll
+078/059	soll	1	s o ll
+078/061	soll	1	s o ll
+078/063	soll	1	s o ll
+078/065	soll	1	s o ll
+078/067	sell	1	s e ll
+078/069	söll	1	s ö ll
+078/071	söll	1	s ö ll
+078/073	soll	1	s o ll
+078/075	soll	1	s o ll
+078/077	soll	1	s o ll
+078/079	soll	1	s o ll
+078/081	soll	1	s o ll
+078/083	soll	1	s o ll
+078/085	soll	1	s o ll
+078/087	soll	1	s o ll
+078/089	sol	1	s o l
+078/091	soll	1	s o ll
+078/093	soll	1	s o ll
+078/095	soll	1	s o ll
+078/097	soll	1	s o ll
+078/099	sol	1	s o l
+078/101	sol	1	s o l
+078/103	soll	1	s o ll
+078/105	soll	1	s o ll
+078/135	soll	1	s o ll
+078/193	soll	1	s o ll
+079/021	soll	1	s o ll
+079/023	soll	1	s o ll
+079/025	soll	1	s o ll
+079/027	soll	1	s o ll
+079/029	soll	1	s o ll
+079/031	soll	1	s o ll
+079/033	soll	1	s o ll
+079/035	sol	1	s o l
+079/037	soll	1	s o ll
+079/039	soll	1	s o ll
+079/043	soll	1	s o ll
+079/045	sell	1	s e ll
+079/047	sell	1	s e ll
+079/049	soll	1	s o ll
+079/051	soll	1	s o ll
+079/053	soll	1	s o ll
+079/055	soll	1	s o ll
+079/057	soll	1	s o ll
+079/059	soll	1	s o ll
+079/061	soll	1	s o ll
+079/063	soll	1	s o ll
+079/065	soll	1	s o ll
+079/067	soll	1	s o ll
+079/069	sell	1	s e ll
+079/071	sell	1	s e ll
+079/073	soll	1	s o ll
+079/075	soll	1	s o ll
+079/077	soll	1	s o ll
+079/079	soll	1	s o ll
+079/081	soll	1	s o ll
+079/083	soll	1	s o ll
+079/085	soll	1	s o ll
+079/087	soll	1	s o ll
+079/089	soll	1	s o ll
+079/091	sell	1	s e ll
+079/093	soll	1	s o ll
+079/095	soll	1	s o ll
+079/097	soll	1	s o ll
+079/099	soll	1	s o ll
+079/101	soll	1	s o ll
+079/103	sol	1	s o l
+079/105	soll	1	s o ll
+079/107	soll	1	s o ll
+079/133	sol	1	s o l
+079/135	schöl	1	sch ö l
+079/193	soll	1	s o ll
+079/195	soll	1	s o ll
+079/197	sou	1	s ou
+080/025	soll	1	s o ll
+080/027	soll	1	s o ll
+080/029	soll	1	s o ll
+080/031	soll	1	s o ll
+080/033	soll	1	s o ll
+080/035	soll	1	s o ll
+080/037	soll	1	s o ll
+080/039	sell	1	s e ll
+080/041	sell	1	s e ll
+080/043	soll	1	s o ll
+080/045	sell	1	s e ll
+080/047	sell	1	s e ll
+080/049	soll	1	s o ll
+080/051	soll	1	s o ll
+080/053	soll	1	s o ll
+080/055	soll	1	s o ll
+080/057	soll	1	s o ll
+080/059	soll	1	s o ll
+080/061	soll	1	s o ll
+080/063	soll	1	s o ll
+080/065	söll	1	s ö ll
+080/067	sell	1	s e ll
+080/069	sell	1	s e ll
+080/071	soll	1	s o ll
+080/073	soll	1	s o ll
+080/075	soll	1	s o ll
+080/077	soll	1	s o ll
+080/079	soll	1	s o ll
+080/081	soll	1	s o ll
+080/083	soll	1	s o ll
+080/085	soll	1	s o ll
+080/087	soll	1	s o ll
+080/089	soll	1	s o ll
+080/091	soll	1	s o ll
+080/093	soll	1	s o ll
+080/095	soll	1	s o ll
+080/097	sol	1	s o l
+080/099	soll	1	s o ll
+080/101	soö	1	s oö
+080/103	soö	1	s oö
+080/105	soll	1	s o ll
+080/107	soll	1	s o ll
+080/109	sooll	1	s oo ll
+080/127	sull	1	s u ll
+080/147	sull	1	s u ll
+080/151	schel	1	sch e l
+080/153	schuull	1	sch uu ll
+080/193	soll	1	s o ll
+080/195	soll	1	s o ll
+081/025	soll	1	s o ll
+081/027	mum	1	m u m
+081/029	soll	1	s o ll
+081/031	soll	1	s o ll
+081/033	soll	1	s o ll
+081/035	soll	1	s o ll
+081/037	soll	1	s o ll
+081/039	soll	1	s o ll
+081/043	sell	1	s e ll
+081/045	sell	1	s e ll
+081/047	sell	1	s e ll
+081/049	soll	1	s o ll
+081/051	soll	1	s o ll
+081/053	soll	1	s o ll
+081/055	soll	1	s o ll
+081/057	soll	1	s o ll
+081/059	soll	1	s o ll
+081/061	sell	1	s e ll
+081/063	soll	1	s o ll
+081/065	soll	1	s o ll
+081/067	soll	1	s o ll
+081/069	soll	1	s o ll
+081/071	sell	1	s e ll
+081/073	soll	1	s o ll
+081/075	soll	1	s o ll
+081/077	soll	1	s o ll
+081/079	soll	1	s o ll
+081/081	soll	1	s o ll
+081/083	soll	1	s o ll
+081/085	soll	1	s o ll
+081/087	soll	1	s o ll
+081/089	soll	1	s o ll
+081/091	soll	1	s o ll
+081/093	soll	1	s o ll
+081/095	soll	1	s o ll
+081/097	soll	1	s o ll
+081/099	soll	1	s o ll
+081/101	soll	1	s o ll
+081/103	soi	1	s oi
+081/105	soll	1	s o ll
+081/107	soll	1	s o ll
+081/109	soi	1	s oi
+081/111	soll	1	s o ll
+081/127	sull	1	s u ll
+081/129	sull	1	s u ll
+081/133	soul	1	s ou l
+081/147	sull	1	s u ll
+081/191	sul	1	s u l
+081/193	sol	1	s o l
+081/195	soll	1	s o ll
+082/027	muuö	1	m uuö
+082/029	so	1	s o
+082/031	soll	1	s o ll
+082/033	soll	1	s o ll
+082/035	soll	1	s o ll
+082/037	soll	1	s o ll
+082/039	soll	1	s o ll
+082/041	soll	1	s o ll
+082/043	sell	1	s e ll
+082/045	sell	1	s e ll
+082/047	sell	1	s e ll
+082/049	soll	1	s o ll
+082/051	soll	1	s o ll
+082/053	soll	1	s o ll
+082/055	soll	1	s o ll
+082/057	soll	1	s o ll
+082/059	soll	1	s o ll
+082/061	soll	1	s o ll
+082/063	soll	1	s o ll
+082/065	sell	1	s e ll
+082/067	soll	1	s o ll
+082/069	soll	1	s o ll
+082/071	soll	1	s o ll
+082/073	soll	1	s o ll
+082/075	soll	1	s o ll
+082/077	soll	1	s o ll
+082/079	soll	1	s o ll
+082/081	soll	1	s o ll
+082/083	soll	1	s o ll
+082/085	soll	1	s o ll
+082/087	soll	1	s o ll
+082/089	soll	1	s o ll
+082/091	soll	1	s o ll
+082/093	soll	1	s o ll
+082/095	soll	1	s o ll
+082/097	soll	1	s o ll
+082/099	soll	1	s o ll
+082/101	soil	1	s oi l
+082/103	sooj	1	s oo j
+082/105	soi	1	s oi
+082/107	soi	1	s oi
+082/111	sui	1	s ui
+082/113	sul	1	s u l
+082/117	sull	1	s u ll
+082/129	sul	1	s u l
+082/131	sul	1	s u l
+082/133	sull	1	s u ll
+082/135	sul	1	s u l
+082/145	sull	1	s u ll
+082/147	sull	1	s u ll
+082/191	soll	1	s o ll
+082/195	soll	1	s o ll
+083/027	so	1	s o
+083/029	muss	1	m u ss
+083/031	soll	1	s o ll
+083/033	soll	1	s o ll
+083/035	soll	1	s o ll
+083/037	soll	1	s o ll
+083/039	soll	1	s o ll
+083/041	soll	1	s o ll
+083/043	sell	1	s e ll
+083/045	sell	1	s e ll
+083/047	soll	1	s o ll
+083/049	soll	1	s o ll
+083/051	soll	1	s o ll
+083/053	soll	1	s o ll
+083/055	soll	1	s o ll
+083/057	soll	1	s o ll
+083/059	soll	1	s o ll
+083/061	soll	1	s o ll
+083/063	soll	1	s o ll
+083/065	soll	1	s o ll
+083/067	soll	1	s o ll
+083/069	soll	1	s o ll
+083/071	soll	1	s o ll
+083/073	soll	1	s o ll
+083/075	soll	1	s o ll
+083/077	soll	1	s o ll
+083/079	soll	1	s o ll
+083/081	soll	1	s o ll
+083/083	soll	1	s o ll
+083/085	soll	1	s o ll
+083/087	soil	1	s oi l
+083/089	soll	1	s o ll
+083/091	soll	1	s o ll
+083/093	soll	1	s o ll
+083/095	soll	1	s o ll
+083/097	soll	1	s o ll
+083/099	soi	1	s oi
+083/101	soi	1	s oi
+083/103	soi	1	s oi
+083/105	soi	1	s oi
+083/107	soi	1	s oi
+083/111	sui	1	s ui
+083/113	sui	1	s ui
+083/115	sul	1	s u l
+083/117	sui	1	s ui
+083/119	sull	1	s u ll
+083/121	sull	1	s u ll
+083/129	soll	1	s o ll
+083/131	sui	1	s ui
+083/133	sull	1	s u ll
+083/135	soul	1	s ou l
+083/139	soll	1	s o ll
+083/143	soul	1	s ou l
+083/145	sull	1	s u ll
+083/147	sull	1	s u ll
+083/149	sull	1	s u ll
+083/173	söl	1	s ö l
+083/195	soll	1	s o ll
+084/031	soll	1	s o ll
+084/033	soll	1	s o ll
+084/035	soll	1	s o ll
+084/037	soll	1	s o ll
+084/039	sell	1	s e ll
+084/041	sell	1	s e ll
+084/043	soll	1	s o ll
+084/045	soll	1	s o ll
+084/047	soll	1	s o ll
+084/049	soll	1	s o ll
+084/051	soll	1	s o ll
+084/053	soll	1	s o ll
+084/055	soll	1	s o ll
+084/057	soll	1	s o ll
+084/059	soll	1	s o ll
+084/061	soll	1	s o ll
+084/063	soll	1	s o ll
+084/065	soll	1	s o ll
+084/067	soll	1	s o ll
+084/069	soll	1	s o ll
+084/071	soll	1	s o ll
+084/073	soll	1	s o ll
+084/075	soll	1	s o ll
+084/077	soll	1	s o ll
+084/079	sull	1	s u ll
+084/081	soll	1	s o ll
+084/083	soll	1	s o ll
+084/085	soll	1	s o ll
+084/087	soll	1	s o ll
+084/089	sall	1	s a ll
+084/091	soi	1	s oi
+084/093	soi	1	s oi
+084/095	soll	1	s o ll
+084/097	soll	1	s o ll
+084/099	soi	1	s oi
+084/101	soi	1	s oi
+084/103	soä	1	s oä
+084/105	soll	1	s o ll
+084/107	soi	1	s oi
+084/109	soi	1	s oi
+084/111	soi	1	s oi
+084/113	sui	1	s ui
+084/115	sull	1	s u ll
+084/117	sui	1	s ui
+084/119	sull	1	s u ll
+084/129	soi	1	s oi
+084/131	soi	1	s oi
+084/133	soi	1	s oi
+084/135	soill	1	s oi ll
+084/137	soll	1	s o ll
+084/139	soöll	1	s oö ll
+084/141	sol	1	s o l
+084/143	soll	1	s o ll
+084/145	soll	1	s o ll
+084/147	söll	1	s ö ll
+084/149	söl	1	s ö l
+084/171	sä	1	s ä
+084/173	see	1	s ee
+084/195	soll	1	s o ll
+085/031	soll	1	s o ll
+085/033	soll	1	s o ll
+085/035	soll	1	s o ll
+085/037	sell	1	s e ll
+085/039	sall	1	s a ll
+085/041	soll	1	s o ll
+085/043	soll	1	s o ll
+085/045	soll	1	s o ll
+085/047	soll	1	s o ll
+085/049	soll	1	s o ll
+085/051	soll	1	s o ll
+085/053	soll	1	s o ll
+085/055	soll	1	s o ll
+085/057	soll	1	s o ll
+085/059	soll	1	s o ll
+085/061	soll	1	s o ll
+085/063	soll	1	s o ll
+085/065	soll	1	s o ll
+085/067	sol	1	s o l
+085/069	soll	1	s o ll
+085/071	soll	1	s o ll
+085/073	soll	1	s o ll
+085/075	soll	1	s o ll
+085/077	soll	1	s o ll
+085/079	sull	1	s u ll
+085/081	soll	1	s o ll
+085/083	soll	1	s o ll
+085/085	soll	1	s o ll
+085/087	müass	1	m üa ss
+085/089	soi	1	s oi
+085/091	sol	1	s o l
+085/093	soi	1	s oi
+085/095	soll	1	s o ll
+085/097	soi	1	s oi
+085/101	soi	1	s oi
+085/103	soll	1	s o ll
+085/105	soi	1	s oi
+085/107	soö	1	s oö
+085/109	soö	1	s oö
+085/111	soi	1	s oi
+085/113	soll	1	s o ll
+085/115	sul	1	s u l
+085/117	sull	1	s u ll
+085/119	sull	1	s u ll
+085/121	soll	1	s o ll
+085/123	sull	1	s u ll
+085/125	sull	1	s u ll
+085/127	soll	1	s o ll
+085/129	soll	1	s o ll
+085/131	soi	1	s oi
+085/133	so	1	s o
+085/135	sol	1	s o l
+085/137	soi	1	s oi
+085/139	soll	1	s o ll
+085/141	soul	1	s ou l
+085/143	soj	1	s o j
+085/145	sol	1	s o l
+085/147	soll	1	s o ll
+085/149	soll	1	s o ll
+085/175	sil	1	s i l
+085/193	sol	1	s o l
+085/197	sol	1	s o l
+086/033	soll	1	s o ll
+086/035	soll	1	s o ll
+086/037	soll	1	s o ll
+086/039	sell	1	s e ll
+086/041	sell	1	s e ll
+086/043	sell	1	s e ll
+086/045	sell	1	s e ll
+086/047	soll	1	s o ll
+086/049	soll	1	s o ll
+086/051	soll	1	s o ll
+086/053	soll	1	s o ll
+086/055	soll	1	s o ll
+086/057	soll	1	s o ll
+086/059	soll	1	s o ll
+086/061	soll	1	s o ll
+086/063	soll	1	s o ll
+086/065	soll	1	s o ll
+086/067	soll	1	s o ll
+086/069	soll	1	s o ll
+086/071	soll	1	s o ll
+086/073	soll	1	s o ll
+086/075	soll	1	s o ll
+086/077	soll	1	s o ll
+086/079	soll	1	s o ll
+086/081	sull	1	s u ll
+086/083	soll	1	s o ll
+086/085	sull	1	s u ll
+086/087	soi	1	s oi
+086/089	soi	1	s oi
+086/091	soll	1	s o ll
+086/093	soi	1	s oi
+086/095	sooi	1	s ooi
+086/097	soi	1	s oi
+086/099	soi	1	s oi
+086/101	soi	1	s oi
+086/103	soll	1	s o ll
+086/105	soi	1	s oi
+086/107	soi	1	s oi
+086/109	soi	1	s oi
+086/111	soi	1	s oi
+086/113	soll	1	s o ll
+086/115	soll	1	s o ll
+086/117	sull	1	s u ll
+086/119	sui	1	s ui
+086/121	sui	1	s ui
+086/123	sull	1	s u ll
+086/125	sull	1	s u ll
+086/127	soll	1	s o ll
+086/129	sul	1	s u l
+086/131	soi	1	s oi
+086/133	soll	1	s o ll
+086/135	soi	1	s oi
+086/137	soll	1	s o ll
+086/139	sol	1	s o l
+086/141	soi	1	s oi
+086/143	soi	1	s oi
+086/145	soll	1	s o ll
+086/147	soü	1	s oü
+086/149	soll	1	s o ll
+086/151	soll	1	s o ll
+086/175	sil	1	s i l
+086/197	soll	1	s o ll
+086/199	soll	1	s o ll
+087/033	soll	1	s o ll
+087/035	soll	1	s o ll
+087/037	soll	1	s o ll
+087/039	sel	1	s e l
+087/041	soll	1	s o ll
+087/043	soll	1	s o ll
+087/045	soll	1	s o ll
+087/049	soll	1	s o ll
+087/051	soll	1	s o ll
+087/053	soll	1	s o ll
+087/055	soll	1	s o ll
+087/057	soll	1	s o ll
+087/059	soll	1	s o ll
+087/061	soll	1	s o ll
+087/063	soll	1	s o ll
+087/065	soll	1	s o ll
+087/067	soll	1	s o ll
+087/069	soll	1	s o ll
+087/071	soll	1	s o ll
+087/073	soll	1	s o ll
+087/075	soll	1	s o ll
+087/077	so	1	s o
+087/079	soll	1	s o ll
+087/081	soi	1	s oi
+087/083	soll	1	s o ll
+087/085	soll	1	s o ll
+087/087	soi	1	s oi
+087/089	soi	1	s oi
+087/091	soi	1	s oi
+087/093	soi	1	s oi
+087/095	soi	1	s oi
+087/097	soi	1	s oi
+087/099	soö	1	s oö
+087/101	soi	1	s oi
+087/103	soi	1	s oi
+087/105	soj	1	s o j
+087/107	soi	1	s oi
+087/109	soi	1	s oi
+087/111	soll	1	s o ll
+087/113	soll	1	s o ll
+087/115	soll	1	s o ll
+087/117	sull	1	s u ll
+087/119	sull	1	s u ll
+087/121	sul	1	s u l
+087/123	sull	1	s u ll
+087/125	sei	1	s ei
+087/127	soi	1	s oi
+087/129	sull	1	s u ll
+087/133	soi	1	s oi
+087/135	soll	1	s o ll
+087/137	soll	1	s o ll
+087/139	soi	1	s oi
+087/141	soll	1	s o ll
+087/143	soö	1	s oö
+087/145	sooll	1	s oo ll
+087/147	soi	1	s oi
+087/149	so	1	s o
+087/151	soll	1	s o ll
+088/035	säll	1	s ä ll
+088/037	sell	1	s e ll
+088/039	sell	1	s e ll
+088/041	sell	1	s e ll
+088/043	sol	1	s o l
+088/045	soll	1	s o ll
+088/047	soll	1	s o ll
+088/049	soll	1	s o ll
+088/051	soll	1	s o ll
+088/053	soll	1	s o ll
+088/055	soll	1	s o ll
+088/057	sell	1	s e ll
+088/059	sell	1	s e ll
+088/061	soll	1	s o ll
+088/063	soll	1	s o ll
+088/065	soll	1	s o ll
+088/067	soll	1	s o ll
+088/069	soll	1	s o ll
+088/071	soll	1	s o ll
+088/073	so	1	s o
+088/075	so	1	s o
+088/077	so	1	s o
+088/079	soll	1	s o ll
+088/081	soi	1	s oi
+088/083	söll	1	s ö ll
+088/085	soi	1	s oi
+088/087	soi	1	s oi
+088/089	soll	1	s o ll
+088/091	sol	1	s o l
+088/093	soi	1	s oi
+088/095	soi	1	s oi
+088/097	soi	1	s oi
+088/099	soi	1	s oi
+088/101	soi	1	s oi
+088/103	sooi	1	s ooi
+088/105	soj	1	s o j
+088/107	soi	1	s oi
+088/109	soi	1	s oi
+088/113	soi	1	s oi
+088/115	soll	1	s o ll
+088/117	soal	1	s oa l
+088/121	sui	1	s ui
+088/123	soll	1	s o ll
+088/127	soi	1	s oi
+088/129	soi	1	s oi
+088/131	soi	1	s oi
+088/137	soll	1	s o ll
+088/139	soi	1	s oi
+088/141	soj	1	s o j
+088/143	soll	1	s o ll
+088/145	soi	1	s oi
+088/147	soü	1	s oü
+088/149	sol	1	s o l
+089/035	sell	1	s e ll
+089/037	sell	1	s e ll
+089/039	säll	1	s ä ll
+089/041	säll	1	s ä ll
+089/043	soll	1	s o ll
+089/045	sell	1	s e ll
+089/047	soll	1	s o ll
+089/049	soll	1	s o ll
+089/051	soll	1	s o ll
+089/053	soll	1	s o ll
+089/055	soll	1	s o ll
+089/057	soll	1	s o ll
+089/059	soll	1	s o ll
+089/061	soll	1	s o ll
+089/063	soll	1	s o ll
+089/065	soll	1	s o ll
+089/067	soll	1	s o ll
+089/069	soll	1	s o ll
+089/071	soll	1	s o ll
+089/073	sol	1	s o l
+089/075	so	1	s o
+089/077	sell	1	s e ll
+089/079	soll	1	s o ll
+089/081	soi	1	s oi
+089/083	soi	1	s oi
+089/085	soll	1	s o ll
+089/087	soll	1	s o ll
+089/089	soi	1	s oi
+089/091	söi	1	s öi
+089/093	soi	1	s oi
+089/095	soi	1	s oi
+089/097	soll	1	s o ll
+089/099	soi	1	s oi
+089/101	soll	1	s o ll
+089/103	soi	1	s oi
+089/105	soö	1	s oö
+089/107	soi	1	s oi
+089/109	soll	1	s o ll
+089/111	soll	1	s o ll
+089/113	soll	1	s o ll
+089/115	soll	1	s o ll
+089/117	soi	1	s oi
+089/119	soi	1	s oi
+089/121	soü	1	s oü
+089/123	soll	1	s o ll
+089/125	soi	1	s oi
+089/127	sou	1	s ou
+089/129	soi	1	s oi
+089/131	soi	1	s oi
+089/133	soi	1	s oi
+089/135	soi	1	s oi
+089/137	soi	1	s oi
+089/139	soi	1	s oi
+089/141	soll	1	s o ll
+089/143	soi	1	s oi
+089/145	soi	1	s oi
+089/147	soi	1	s oi
+089/149	sou	1	s ou
+090/035	sell	1	s e ll
+090/037	säll	1	s ä ll
+090/039	soll	1	s o ll
+090/041	soll	1	s o ll
+090/043	soll	1	s o ll
+090/045	sooll	1	s oo ll
+090/047	soll	1	s o ll
+090/049	soll	1	s o ll
+090/051	soll	1	s o ll
+090/053	soll	1	s o ll
+090/055	soll	1	s o ll
+090/057	soll	1	s o ll
+090/059	soll	1	s o ll
+090/061	soll	1	s o ll
+090/063	soll	1	s o ll
+090/065	soll	1	s o ll
+090/067	soll	1	s o ll
+090/069	soll	1	s o ll
+090/071	soll	1	s o ll
+090/073	soll	1	s o ll
+090/075	soll	1	s o ll
+090/077	soll	1	s o ll
+090/079	soll	1	s o ll
+090/081	soll	1	s o ll
+090/083	soi	1	s oi
+090/085	soi	1	s oi
+090/087	soll	1	s o ll
+090/089	soi	1	s oi
+090/091	soi	1	s oi
+090/093	soi	1	s oi
+090/095	soi	1	s oi
+090/097	soi	1	s oi
+090/099	soll	1	s o ll
+090/101	soi	1	s oi
+090/103	soi	1	s oi
+090/105	deaf	1	d ea f
+090/107	soi	1	s oi
+090/109	soll	1	s o ll
+090/111	soi	1	s oi
+090/113	sol	1	s o l
+090/115	soll	1	s o ll
+090/119	soel	1	s oe l
+090/121	sol	1	s o l
+090/123	söe	1	s öe
+090/125	soi	1	s oi
+090/127	soll	1	s o ll
+090/129	soll	1	s o ll
+090/131	soll	1	s o ll
+090/133	soi	1	s oi
+090/135	soi	1	s oi
+090/137	so	1	s o
+090/139	soll	1	s o ll
+090/141	soi	1	s oi
+090/143	so	1	s o
+090/145	sui	1	s ui
+090/147	soi	1	s oi
+090/149	soi	1	s oi
+090/151	soil	1	s oi l
+091/035	soll	1	s o ll
+091/037	soll	1	s o ll
+091/039	soll	1	s o ll
+091/041	soll	1	s o ll
+091/043	soll	1	s o ll
+091/045	soll	1	s o ll
+091/047	soll	1	s o ll
+091/049	soll	1	s o ll
+091/051	soll	1	s o ll
+091/053	soll	1	s o ll
+091/055	soll	1	s o ll
+091/057	soll	1	s o ll
+091/059	soll	1	s o ll
+091/061	soll	1	s o ll
+091/063	soll	1	s o ll
+091/065	soll	1	s o ll
+091/067	soll	1	s o ll
+091/069	sall	1	s a ll
+091/071	soll	1	s o ll
+091/073	soll	1	s o ll
+091/075	soll	1	s o ll
+091/077	soll	1	s o ll
+091/079	soll	1	s o ll
+091/081	soll	1	s o ll
+091/083	soi	1	s oi
+091/085	soll	1	s o ll
+091/087	soi	1	s oi
+091/091	so	1	s o
+091/093	so	1	s o
+091/095	so	1	s o
+091/097	so	1	s o
+091/099	soo	1	s oo
+091/101	soi	1	s oi
+091/103	soi	1	s oi
+091/105	soll	1	s o ll
+091/107	soi	1	s oi
+091/109	soll	1	s o ll
+091/111	soi	1	s oi
+091/113	soll	1	s o ll
+091/115	soll	1	s o ll
+091/117	soi	1	s oi
+091/119	soll	1	s o ll
+091/121	sol	1	s o l
+091/125	soi	1	s oi
+091/129	soi	1	s oi
+091/131	soll	1	s o ll
+091/133	soll	1	s o ll
+091/135	soi	1	s oi
+091/137	sol	1	s o l
+091/139	soi	1	s oi
+091/141	soll	1	s o ll
+091/143	soi	1	s oi
+091/145	so	1	s o
+091/147	soll	1	s o ll
+091/149	soi	1	s oi
+091/151	soi	1	s oi
+091/155	sol	1	s o l
+092/033	soll	1	s o ll
+092/035	soll	1	s o ll
+092/037	soll	1	s o ll
+092/039	soll	1	s o ll
+092/041	soll	1	s o ll
+092/043	soll	1	s o ll
+092/045	söll	1	s ö ll
+092/047	soll	1	s o ll
+092/049	soll	1	s o ll
+092/051	soll	1	s o ll
+092/053	soll	1	s o ll
+092/055	soll	1	s o ll
+092/057	soll	1	s o ll
+092/059	soll	1	s o ll
+092/061	soll	1	s o ll
+092/063	soll	1	s o ll
+092/065	soll	1	s o ll
+092/067	soll	1	s o ll
+092/069	soll	1	s o ll
+092/071	soll	1	s o ll
+092/073	soll	1	s o ll
+092/075	soll	1	s o ll
+092/077	soll	1	s o ll
+092/079	soii	1	s oii
+092/081	soi	1	s oi
+092/083	soll	1	s o ll
+092/085	soll	1	s o ll
+092/087	soi	1	s oi
+092/089	so	1	s o
+092/091	soi	1	s oi
+092/093	soi	1	s oi
+092/095	soi	1	s oi
+092/097	soi	1	s oi
+092/099	soi	1	s oi
+092/101	so	1	s o
+092/103	sol	1	s o l
+092/105	ssoi	1	ss oi
+092/107	soll	1	s o ll
+092/109	soll	1	s o ll
+092/111	soll	1	s o ll
+092/113	soll	1	s o ll
+092/115	soll	1	s o ll
+092/117	soll	1	s o ll
+092/119	soll	1	s o ll
+092/121	soill	1	s oi ll
+092/123	soll	1	s o ll
+092/125	soi	1	s oi
+092/127	soll	1	s o ll
+092/129	soi	1	s oi
+092/131	so	1	s o
+092/133	sui	1	s ui
+092/135	soi	1	s oi
+092/137	soll	1	s o ll
+092/139	soll	1	s o ll
+092/141	sol	1	s o l
+092/143	soll	1	s o ll
+092/145	sool	1	s oo l
+092/147	soj	1	s o j
+092/149	soi	1	s oi
+092/151	soll	1	s o ll
+093/035	soll	1	s o ll
+093/037	soll	1	s o ll
+093/039	soll	1	s o ll
+093/041	soll	1	s o ll
+093/043	soll	1	s o ll
+093/045	soll	1	s o ll
+093/047	soll	1	s o ll
+093/049	soll	1	s o ll
+093/051	so	1	s o
+093/053	soll	1	s o ll
+093/055	soll	1	s o ll
+093/057	soll	1	s o ll
+093/059	soll	1	s o ll
+093/061	soll	1	s o ll
+093/063	soll	1	s o ll
+093/065	soll	1	s o ll
+093/067	soll	1	s o ll
+093/069	soll	1	s o ll
+093/071	soll	1	s o ll
+093/073	soll	1	s o ll
+093/075	soll	1	s o ll
+093/077	soll	1	s o ll
+093/079	soll	1	s o ll
+093/081	soll	1	s o ll
+093/083	sol	1	s o l
+093/085	soi	1	s oi
+093/087	so	1	s o
+093/089	so	1	s o
+093/091	so	1	s o
+093/093	so	1	s o
+093/095	soil	1	s oi l
+093/097	soi	1	s oi
+093/099	soll	1	s o ll
+093/101	soi	1	s oi
+093/103	sol	1	s o l
+093/105	soi	1	s oi
+093/109	so	1	s o
+093/111	so	1	s o
+093/113	soll	1	s o ll
+093/115	soll	1	s o ll
+093/117	soi	1	s oi
+093/119	so	1	s o
+093/121	soll	1	s o ll
+093/123	soll	1	s o ll
+093/125	soi	1	s oi
+093/127	so	1	s o
+093/129	soll	1	s o ll
+093/131	soi	1	s oi
+093/133	so	1	s o
+093/137	so	1	s o
+093/139	soll	1	s o ll
+093/143	soi	1	s oi
+093/145	sol	1	s o l
+093/147	soi	1	s oi
+093/149	soll	1	s o ll
+093/151	so	1	s o
+093/153	soll	1	s o ll
+093/155	sull	1	s u ll
+094/033	sell	1	s e ll
+094/035	soll	1	s o ll
+094/037	soll	1	s o ll
+094/039	soll	1	s o ll
+094/041	soll	1	s o ll
+094/043	soll	1	s o ll
+094/045	soll	1	s o ll
+094/047	mia	1	m ia
+094/049	soll	1	s o ll
+094/051	moass	1	m oa ss
+094/053	soll	1	s o ll
+094/055	soll	1	s o ll
+094/057	soll	1	s o ll
+094/059	soll	1	s o ll
+094/061	soll	1	s o ll
+094/063	soll	1	s o ll
+094/065	soll	1	s o ll
+094/067	soll	1	s o ll
+094/069	soll	1	s o ll
+094/071	soll	1	s o ll
+094/073	soll	1	s o ll
+094/075	soll	1	s o ll
+094/077	soll	1	s o ll
+094/079	soll	1	s o ll
+094/081	sol	1	s o l
+094/083	soll	1	s o ll
+094/085	soi	1	s oi
+094/087	so	1	s o
+094/089	söil	1	s öi l
+094/091	soi	1	s oi
+094/093	so	1	s o
+094/095	so	1	s o
+094/097	so	1	s o
+094/099	so	1	s o
+094/101	soij	1	s oi j
+094/103	soill	1	s oi ll
+094/105	soi	1	s oi
+094/107	soll	1	s o ll
+094/109	soi	1	s oi
+094/111	soll	1	s o ll
+094/113	lass	1	l a ss
+094/115	soll	1	s o ll
+094/117	soll	1	s o ll
+094/119	soll	1	s o ll
+094/121	sol	1	s o l
+094/123	soi	1	s oi
+094/125	soi	1	s oi
+094/127	soa	1	s oa
+094/129	sooi	1	s ooi
+094/131	soi	1	s oi
+094/133	soll	1	s o ll
+094/135	soll	1	s o ll
+094/137	soll	1	s o ll
+094/139	sul	1	s u l
+094/141	soll	1	s o ll
+094/143	soi	1	s oi
+094/145	soi	1	s oi
+094/147	soll	1	s o ll
+094/149	soö	1	s oö
+094/151	söi	1	s öi
+094/153	soll	1	s o ll
+095/031	sull	1	s u ll
+095/033	soll	1	s o ll
+095/035	sell	1	s e ll
+095/037	sell	1	s e ll
+095/039	sol	1	s o l
+095/041	soll	1	s o ll
+095/043	soll	1	s o ll
+095/045	so	1	s o
+095/047	soll	1	s o ll
+095/049	so	1	s o
+095/051	mo	1	m o
+095/053	soll	1	s o ll
+095/055	so	1	s o
+095/057	mo	1	m o
+095/059	soll	1	s o ll
+095/061	soll	1	s o ll
+095/063	soll	1	s o ll
+095/065	soll	1	s o ll
+095/067	soll	1	s o ll
+095/069	soll	1	s o ll
+095/071	soll	1	s o ll
+095/073	soll	1	s o ll
+095/075	soll	1	s o ll
+095/077	soll	1	s o ll
+095/079	soll	1	s o ll
+095/081	soll	1	s o ll
+095/083	soll	1	s o ll
+095/085	soi	1	s oi
+095/087	soi	1	s oi
+095/089	sooi	1	s ooi
+095/091	soi	1	s oi
+095/093	soll	1	s o ll
+095/095	miass	1	m ia ss
+095/097	soi	1	s oi
+095/099	so	1	s o
+095/101	so	1	s o
+095/103	mu	1	m u
+095/105	sol	1	s o l
+095/107	soll	1	s o ll
+095/109	soll	1	s o ll
+095/111	soi	1	s oi
+095/113	soll	1	s o ll
+095/115	NA	NA	-
+095/117	soll	1	s o ll
+095/119	soll	1	s o ll
+095/121	soll	1	s o ll
+095/123	soll	1	s o ll
+095/125	soi	1	s oi
+095/129	soa	1	s oa
+095/131	sol	1	s o l
+095/133	soll	1	s o ll
+095/139	sol	1	s o l
+095/141	soll	1	s o ll
+095/143	soll	1	s o ll
+095/145	sel	1	s e l
+095/147	soll	1	s o ll
+095/149	suü	1	s uü
+095/151	soull	1	s ou ll
+095/153	soll	1	s o ll
+095/155	soll	1	s o ll
+096/031	sell	1	s e ll
+096/033	sell	1	s e ll
+096/035	sooll	1	s oo ll
+096/037	soll	1	s o ll
+096/039	säll	1	s ä ll
+096/041	soll	1	s o ll
+096/043	mia	1	m ia
+096/045	soll	1	s o ll
+096/047	soll	1	s o ll
+096/049	mi	1	m i
+096/051	soll	1	s o ll
+096/053	soll	1	s o ll
+096/055	mo	1	m o
+096/057	soll	1	s o ll
+096/059	soll	1	s o ll
+096/061	soll	1	s o ll
+096/063	sell	1	s e ll
+096/065	soll	1	s o ll
+096/067	soll	1	s o ll
+096/069	soll	1	s o ll
+096/071	soll	1	s o ll
+096/075	soll	1	s o ll
+096/077	soll	1	s o ll
+096/079	sol	1	s o l
+096/081	soll	1	s o ll
+096/083	soll	1	s o ll
+096/085	miöss	1	m iö ss
+096/087	soi	1	s oi
+096/089	sou	1	s ou
+096/091	so	1	s o
+096/093	soi	1	s oi
+096/095	so	1	s o
+096/097	soll	1	s o ll
+096/099	soi	1	s oi
+096/101	soll	1	s o ll
+096/103	soll	1	s o ll
+096/105	soll	1	s o ll
+096/107	soil	1	s oi l
+096/109	soll	1	s o ll
+096/111	soi	1	s oi
+096/113	so	1	s o
+096/115	miass	1	m ia ss
+096/117	soill	1	s oi ll
+096/119	soi	1	s oi
+096/121	so	1	s o
+096/123	so	1	s o
+096/125	sol	1	s o l
+096/129	soi	1	s oi
+096/131	so	1	s o
+096/135	soll	1	s o ll
+096/137	soll	1	s o ll
+096/139	soll	1	s o ll
+096/141	soll	1	s o ll
+096/143	soi	1	s oi
+096/145	soul	1	s ou l
+096/147	su	1	s u
+096/151	sojl	1	s o j l
+096/153	sohj	1	s oh j
+096/155	suil	1	s ui l
+097/031	soll	1	s o ll
+097/033	soll	1	s o ll
+097/035	so	1	s o
+097/037	soll	1	s o ll
+097/039	soll	1	s o ll
+097/041	soll	1	s o ll
+097/043	muass	1	m ua ss
+097/045	söll	1	s ö ll
+097/047	sö	1	s ö
+097/049	se	1	s e
+097/051	mo	1	m o
+097/053	sö	1	s ö
+097/055	mo	1	m o
+097/057	soll	1	s o ll
+097/059	soll	1	s o ll
+097/061	sol	1	s o l
+097/063	we	1	w e
+097/065	soll	1	s o ll
+097/067	soll	1	s o ll
+097/069	soll	1	s o ll
+097/071	soll	1	s o ll
+097/073	soll	1	s o ll
+097/075	soll	1	s o ll
+097/077	sall	1	s a ll
+097/079	soll	1	s o ll
+097/081	soll	1	s o ll
+097/083	soll	1	s o ll
+097/085	soi	1	s oi
+097/087	sooi	1	s ooi
+097/089	soll	1	s o ll
+097/091	soi	1	s oi
+097/093	so	1	s o
+097/095	so	1	s o
+097/097	sui	1	s ui
+097/099	mu	1	m u
+097/103	sol	1	s o l
+097/105	soi	1	s oi
+097/107	soi	1	s oi
+097/109	so	1	s o
+097/113	soll	1	s o ll
+097/125	soll	1	s o ll
+097/131	soll	1	s o ll
+097/133	soi	1	s oi
+097/139	so	1	s o
+097/141	sui	1	s ui
+097/143	soll	1	s o ll
+097/145	sull	1	s u ll
+097/149	soll	1	s o ll
+097/153	soll	1	s o ll
+098/033	soll	1	s o ll
+098/035	müass	1	m üa ss
+098/037	säll	1	s ä ll
+098/039	sell	1	s e ll
+098/041	muass	1	m ua ss
+098/043	mü	1	m ü
+098/045	söll	1	s ö ll
+098/047	müm	1	m ü m
+098/049	mü	1	m ü
+098/051	söll	1	s ö ll
+098/053	möm	1	m ö m
+098/055	soll	1	s o ll
+098/057	mo	1	m o
+098/059	soll	1	s o ll
+098/061	soll	1	s o ll
+098/063	soll	1	s o ll
+098/065	soll	1	s o ll
+098/067	soll	1	s o ll
+098/069	soll	1	s o ll
+098/071	soll	1	s o ll
+098/073	soll	1	s o ll
+098/075	soll	1	s o ll
+098/077	soll	1	s o ll
+098/079	soll	1	s o ll
+098/081	soa	1	s oa
+098/083	sol	1	s o l
+098/085	sool	1	s oo l
+098/087	soi	1	s oi
+098/089	soll	1	s o ll
+098/091	soi	1	s oi
+098/093	soll	1	s o ll
+098/095	soi	1	s oi
+098/097	so	1	s o
+098/103	soll	1	s o ll
+098/105	mua	1	m ua
+098/107	soi	1	s oi
+098/109	söll	1	s ö ll
+098/111	soi	1	s oi
+098/119	soll	1	s o ll
+098/123	soll	1	s o ll
+098/125	sull	1	s u ll
+098/127	sol	1	s o l
+098/135	sull	1	s u ll
+098/137	min	1	m i n
+098/139	sall	1	s a ll
+098/141	soll	1	s o ll
+098/143	sull	1	s u ll
+098/145	sull	1	s u ll
+098/147	soll	1	s o ll
+098/149	seoll	1	s eo ll
+098/151	soi	1	s oi
+099/033	soll	1	s o ll
+099/035	soll	1	s o ll
+099/037	säll	1	s ä ll
+099/039	sell	1	s e ll
+099/041	mö	1	m ö
+099/043	mü	1	m ü
+099/045	mie	1	m ie
+099/047	söll	1	s ö ll
+099/049	soll	1	s o ll
+099/051	söl	1	s ö l
+099/053	söll	1	s ö ll
+099/055	söl	1	s ö l
+099/057	söll	1	s ö ll
+099/059	sol	1	s o l
+099/063	soll	1	s o ll
+099/065	soll	1	s o ll
+099/067	soll	1	s o ll
+099/069	soll	1	s o ll
+099/071	soll	1	s o ll
+099/073	soll	1	s o ll
+099/075	soll	1	s o ll
+099/077	soll	1	s o ll
+099/081	soll	1	s o ll
+099/083	soll	1	s o ll
+099/085	soll	1	s o ll
+099/089	soi	1	s oi
+099/093	sö	1	s ö
+099/095	soi	1	s oi
+099/099	so	1	s o
+099/101	soll	1	s o ll
+099/103	soö	1	s oö
+099/105	soi	1	s oi
+099/107	soi	1	s oi
+099/109	so	1	s o
+099/111	miass	1	m ia ss
+099/113	sol	1	s o l
+099/121	sui	1	s ui
+099/123	su	1	s u
+099/125	soi	1	s oi
+099/131	soll	1	s o ll
+099/137	sui	1	s ui
+099/139	soll	1	s o ll
+099/141	sui	1	s ui
+099/143	su	1	s u
+099/145	sull	1	s u ll
+099/147	sul	1	s u l
+100/033	soll	1	s o ll
+100/035	sell	1	s e ll
+100/037	sell	1	s e ll
+100/039	soll	1	s o ll
+100/041	mie	1	m ie
+100/043	mü	1	m ü
+100/045	sell	1	s e ll
+100/049	müä	1	m üä
+100/051	söll	1	s ö ll
+100/053	mü	1	m ü
+100/055	söl	1	s ö l
+100/057	söll	1	s ö ll
+100/059	söl	1	s ö l
+100/061	sell	1	s e ll
+100/065	soll	1	s o ll
+100/067	soll	1	s o ll
+100/069	soll	1	s o ll
+100/071	soll	1	s o ll
+100/073	NA	NA	-
+100/075	söll	1	s ö ll
+100/077	soll	1	s o ll
+100/081	sul	1	s u l
+100/083	soll	1	s o ll
+100/089	sö	1	s ö
+100/093	soi	1	s oi
+100/095	sö	1	s ö
+100/097	soi	1	s oi
+100/099	soll	1	s o ll
+100/101	soll	1	s o ll
+100/109	soll	1	s o ll
+100/111	soi	1	s oi
+100/113	soll	1	s o ll
+100/115	soall	1	s oa ll
+100/117	soll	1	s o ll
+100/119	sull	1	s u ll
+100/121	sull	1	s u ll
+100/125	soul	1	s ou l
+100/127	sull	1	s u ll
+100/129	sull	1	s u ll
+100/133	soll	1	s o ll
+100/135	suull	1	s uu ll
+100/141	süll	1	s ü ll
+100/143	sull	1	s u ll
+100/145	sul	1	s u l
+101/035	mia	1	m ia
+101/037	söll	1	s ö ll
+101/039	sell	1	s e ll
+101/041	sell	1	s e ll
+101/043	söll	1	s ö ll
+101/045	müe	1	m üe
+101/047	sel	1	s e l
+101/049	sell	1	s e ll
+101/051	sol	1	s o l
+101/053	söl	1	s ö l
+101/055	söll	1	s ö ll
+101/057	söll	1	s ö ll
+101/059	söll	1	s ö ll
+101/061	söll	1	s ö ll
+101/063	sol	1	s o l
+101/065	soll	1	s o ll
+101/067	söll	1	s ö ll
+101/071	söll	1	s ö ll
+101/075	soll	1	s o ll
+101/077	soll	1	s o ll
+101/079	soll	1	s o ll
+101/081	sull	1	s u ll
+101/091	söi	1	s öi
+101/093	sou	1	s ou
+101/095	su	1	s u
+101/097	soi	1	s oi
+101/099	soi	1	s oi
+101/101	miass	1	m ia ss
+101/103	sö	1	s ö
+101/107	soi	1	s oi
+101/109	sö	1	s ö
+101/113	soi	1	s oi
+101/115	sull	1	s u ll
+101/121	soil	1	s oi l
+101/125	sull	1	s u ll
+101/129	sell	1	s e ll
+101/131	sull	1	s u ll
+101/133	soll	1	s o ll
+101/137	daf	1	d a f
+101/139	sull	1	s u ll
+101/141	sull	1	s u ll
+101/143	sull	1	s u ll
+101/145	sul	1	s u l
+101/147	sul	1	s u l
+102/037	sell	1	s e ll
+102/039	sell	1	s e ll
+102/041	sell	1	s e ll
+102/043	söll	1	s ö ll
+102/045	söl	1	s ö l
+102/047	müem	1	m üe m
+102/049	sol	1	s o l
+102/051	söll	1	s ö ll
+102/053	müö	1	m üö
+102/055	sell	1	s e ll
+102/057	söll	1	s ö ll
+102/059	söll	1	s ö ll
+102/061	söl	1	s ö l
+102/063	söll	1	s ö ll
+102/065	söll	1	s ö ll
+102/067	söll	1	s ö ll
+102/069	söll	1	s ö ll
+102/071	soll	1	s o ll
+102/073	söll	1	s ö ll
+102/075	söll	1	s ö ll
+102/077	söll	1	s ö ll
+102/079	soll	1	s o ll
+102/081	soll	1	s o ll
+102/083	soll	1	s o ll
+102/089	soi	1	s oi
+102/091	soi	1	s oi
+102/093	sö	1	s ö
+102/095	soi	1	s oi
+102/097	sooll	1	s oo ll
+102/099	soll	1	s o ll
+102/103	soj	1	s o j
+102/107	soi	1	s oi
+102/109	sol	1	s o l
+102/113	so	1	s o
+102/115	soll	1	s o ll
+102/127	sull	1	s u ll
+102/129	sull	1	s u ll
+102/131	sull	1	s u ll
+102/135	sul	1	s u l
+102/137	soll	1	s o ll
+102/139	sull	1	s u ll
+102/141	sull	1	s u ll
+102/143	sull	1	s u ll
+102/145	sul	1	s u l
+103/039	sö	1	s ö
+103/041	sö	1	s ö
+103/043	sö	1	s ö
+103/045	müe	1	m üe
+103/047	sau	1	s au
+103/049	müe	1	m üe
+103/051	sell	1	s e ll
+103/053	söll	1	s ö ll
+103/055	müe	1	m üe
+103/057	söl	1	s ö l
+103/059	söll	1	s ö ll
+103/063	söl	1	s ö l
+103/065	söll	1	s ö ll
+103/067	söl	1	s ö l
+103/069	söll	1	s ö ll
+103/071	söll	1	s ö ll
+103/073	söll	1	s ö ll
+103/075	soll	1	s o ll
+103/077	sell	1	s e ll
+103/079	soll	1	s o ll
+103/081	sell	1	s e ll
+103/083	soll	1	s o ll
+103/085	soll	1	s o ll
+103/087	soll	1	s o ll
+103/089	soll	1	s o ll
+103/091	soll	1	s o ll
+103/097	sö	1	s ö
+103/099	söl	1	s ö l
+103/101	soj	1	s o j
+103/105	soi	1	s oi
+103/107	so	1	s o
+103/111	soi	1	s oi
+103/121	sull	1	s u ll
+103/125	sell	1	s e ll
+103/127	söll	1	s ö ll
+103/131	sul	1	s u l
+103/133	soll	1	s o ll
+103/135	sull	1	s u ll
+103/137	sull	1	s u ll
+103/139	soll	1	s o ll
+103/141	sull	1	s u ll
+103/143	sul	1	s u l
+103/145	sul	1	s u l
+104/033	sö	1	s ö
+104/035	söll	1	s ö ll
+104/037	sö	1	s ö
+104/039	söll	1	s ö ll
+104/041	sö	1	s ö
+104/043	söll	1	s ö ll
+104/045	sö	1	s ö
+104/047	sö	1	s ö
+104/049	müem	1	m üe m
+104/051	söll	1	s ö ll
+104/053	chö	1	ch ö
+104/055	sell	1	s e ll
+104/057	söll	1	s ö ll
+104/059	söll	1	s ö ll
+104/061	söll	1	s ö ll
+104/063	söll	1	s ö ll
+104/065	söll	1	s ö ll
+104/067	söll	1	s ö ll
+104/071	soll	1	s o ll
+104/075	sell	1	s e ll
+104/077	soll	1	s o ll
+104/079	soll	1	s o ll
+104/081	soll	1	s o ll
+104/083	soll	1	s o ll
+104/085	soll	1	s o ll
+104/091	soll	1	s o ll
+104/095	soö	1	s oö
+104/101	soi	1	s oi
+104/103	soi	1	s oi
+104/107	so	1	s o
+104/111	sooll	1	s oo ll
+104/113	sö	1	s ö
+104/119	sull	1	s u ll
+104/121	soll	1	s o ll
+104/123	sul	1	s u l
+104/125	söl	1	s ö l
+104/127	soll	1	s o ll
+104/131	si	1	s i
+104/133	soull	1	s ou ll
+104/135	sul	1	s u l
+104/137	sull	1	s u ll
+104/139	sull	1	s u ll
+104/141	sull	1	s u ll
+104/143	sul	1	s u l
+104/145	sull	1	s u ll
+105/031	so	1	s o
+105/033	söi	1	s öi
+105/035	sou	1	s ou
+105/037	söü	1	s öü
+105/039	söu	1	s öu
+105/041	sö	1	s ö
+105/043	soll	1	s o ll
+105/045	NA	NA	-
+105/047	sell	1	s e ll
+105/049	müem	1	m üe m
+105/051	söll	1	s ö ll
+105/053	sell	1	s e ll
+105/055	müö	1	m üö
+105/057	söl	1	s ö l
+105/059	soll	1	s o ll
+105/061	söll	1	s ö ll
+105/063	söll	1	s ö ll
+105/065	sell	1	s e ll
+105/067	söll	1	s ö ll
+105/069	söll	1	s ö ll
+105/071	söll	1	s ö ll
+105/073	söll	1	s ö ll
+105/075	söll	1	s ö ll
+105/077	soll	1	s o ll
+105/079	söll	1	s ö ll
+105/081	soll	1	s o ll
+105/085	soll	1	s o ll
+105/087	soll	1	s o ll
+105/089	soll	1	s o ll
+105/103	soi	1	s oi
+105/105	so	1	s o
+105/111	so	1	s o
+105/113	soi	1	s oi
+105/115	sol	1	s o l
+105/117	soul	1	s ou l
+105/119	sull	1	s u ll
+105/121	sul	1	s u l
+105/125	soll	1	s o ll
+105/127	soull	1	s ou ll
+105/131	soll	1	s o ll
+105/133	sul	1	s u l
+105/135	sull	1	s u ll
+105/137	soll	1	s o ll
+105/141	sull	1	s u ll
+105/143	suil	1	s ui l
+105/145	soll	1	s o ll
+106/033	söu	1	s öu
+106/035	sö	1	s ö
+106/037	sö	1	s ö
+106/039	sö	1	s ö
+106/041	sou	1	s ou
+106/043	söu	1	s öu
+106/045	sö	1	s ö
+106/047	söl	1	s ö l
+106/049	sell	1	s e ll
+106/051	muäs	1	m uä s
+106/053	söll	1	s ö ll
+106/057	söl	1	s ö l
+106/061	söll	1	s ö ll
+106/063	söll	1	s ö ll
+106/067	söll	1	s ö ll
+106/071	söll	1	s ö ll
+106/073	söll	1	s ö ll
+106/075	söll	1	s ö ll
+106/077	soll	1	s o ll
+106/079	söll	1	s ö ll
+106/081	söll	1	s ö ll
+106/085	miast	1	m ia s t
+106/087	sell	1	s e ll
+106/093	soll	1	s o ll
+106/097	scho	1	sch o
+106/099	soll	1	s o ll
+106/103	soll	1	s o ll
+106/111	soll	1	s o ll
+106/115	sö	1	s ö
+106/121	sul	1	s u l
+106/123	sull	1	s u ll
+106/125	sul	1	s u l
+106/129	sull	1	s u ll
+106/131	sull	1	s u ll
+106/133	sul	1	s u l
+106/135	sull	1	s u ll
+106/137	sull	1	s u ll
+106/139	sul	1	s u l
+106/141	sull	1	s u ll
+106/143	sul	1	s u l
+106/145	sull	1	s u ll
+107/033	söi	1	s öi
+107/035	sö	1	s ö
+107/037	soll	1	s o ll
+107/039	söu	1	s öu
+107/041	sö	1	s ö
+107/043	sö	1	s ö
+107/045	söll	1	s ö ll
+107/047	söll	1	s ö ll
+107/049	sell	1	s e ll
+107/051	söll	1	s ö ll
+107/053	söll	1	s ö ll
+107/057	söll	1	s ö ll
+107/059	söll	1	s ö ll
+107/063	söll	1	s ö ll
+107/065	söll	1	s ö ll
+107/071	söll	1	s ö ll
+107/075	söll	1	s ö ll
+107/081	soll	1	s o ll
+107/085	soll	1	s o ll
+107/087	sö	1	s ö
+107/089	so	1	s o
+107/091	sö	1	s ö
+107/097	so	1	s o
+107/099	sogg	1	s o gg
+107/103	soll	1	s o ll
+107/105	soll	1	s o ll
+107/107	soll	1	s o ll
+107/111	soll	1	s o ll
+107/119	soll	1	s o ll
+107/121	sol	1	s o l
+107/123	soll	1	s o ll
+107/125	schua	1	sch ua
+107/127	sul	1	s u l
+107/129	sö	1	s ö
+107/131	so	1	s o
+107/133	sull	1	s u ll
+107/135	soul	1	s ou l
+107/137	sull	1	s u ll
+107/139	sull	1	s u ll
+107/141	sull	1	s u ll
+107/143	sull	1	s u ll
+108/033	söi	1	s öi
+108/035	söu	1	s öu
+108/037	sü	1	s ü
+108/039	söu	1	s öu
+108/041	sö	1	s ö
+108/043	sou	1	s ou
+108/047	sell	1	s e ll
+108/049	sell	1	s e ll
+108/063	söll	1	s ö ll
+108/065	söll	1	s ö ll
+108/067	söll	1	s ö ll
+108/075	soll	1	s o ll
+108/079	söll	1	s ö ll
+108/081	soll	1	s o ll
+108/085	sal	1	s a l
+108/087	soll	1	s o ll
+108/091	sö	1	s ö
+108/099	soll	1	s o ll
+108/101	soll	1	s o ll
+108/103	soll	1	s o ll
+108/105	soll	1	s o ll
+108/109	soll	1	s o ll
+108/111	schöll	1	sch ö ll
+108/113	soll	1	s o ll
+108/117	soll	1	s o ll
+108/119	soll	1	s o ll
+108/121	soll	1	s o ll
+108/123	soll	1	s o ll
+108/125	sa	1	s a
+108/127	sull	1	s u ll
+108/129	sull	1	s u ll
+108/131	sull	1	s u ll
+108/133	söi	1	s öi
+108/135	sull	1	s u ll
+108/137	sull	1	s u ll
+108/139	sull	1	s u ll
+108/141	suul	1	s uu l
+109/035	süü	1	s üü
+109/037	sü	1	s ü
+109/039	sou	1	s ou
+109/041	söu	1	s öu
+109/043	sö	1	s ö
+109/045	sei	1	s ei
+109/049	soll	1	s o ll
+109/053	soll	1	s o ll
+109/061	sell	1	s e ll
+109/063	söll	1	s ö ll
+109/065	söll	1	s ö ll
+109/067	söll	1	s ö ll
+109/075	so	1	s o
+109/083	soll	1	s o ll
+109/087	soll	1	s o ll
+109/089	soll	1	s o ll
+109/091	sel	1	s e l
+109/093	se	1	s e
+109/095	sö	1	s ö
+109/097	soll	1	s o ll
+109/099	so	1	s o
+109/101	sol	1	s o l
+109/103	soll	1	s o ll
+109/107	soll	1	s o ll
+109/109	NA	NA	-
+109/111	soll	1	s o ll
+109/113	soll	1	s o ll
+109/115	schol	1	sch o l
+109/117	sol	1	s o l
+109/119	soll	1	s o ll
+109/121	soll	1	s o ll
+109/123	soll	1	s o ll
+109/125	soll	1	s o ll
+109/127	sull	1	s u ll
+109/129	sull	1	s u ll
+109/131	sull	1	s u ll
+109/133	sä	1	s ä
+109/135	sul	1	s u l
+109/137	sull	1	s u ll
+109/139	sull	1	s u ll
+110/035	sü	1	s ü
+110/039	söu	1	s öu
+110/041	soou	1	s oou
+110/043	sell	1	s e ll
+110/045	sell	1	s e ll
+110/047	sell	1	s e ll
+110/049	sell	1	s e ll
+110/057	sell	1	s e ll
+110/061	soll	1	s o ll
+110/065	sell	1	s e ll
+110/075	soll	1	s o ll
+110/079	soll	1	s o ll
+110/081	soll	1	s o ll
+110/083	soll	1	s o ll
+110/087	soll	1	s o ll
+110/089	söll	1	s ö ll
+110/091	se	1	s e
+110/093	sol	1	s o l
+110/095	soll	1	s o ll
+110/097	sa	1	s a
+110/099	so	1	s o
+110/101	soll	1	s o ll
+110/105	soll	1	s o ll
+110/107	schul	1	sch u l
+110/111	soll	1	s o ll
+110/113	schol	1	sch o l
+110/115	schual	1	sch ua l
+110/117	sol	1	s o l
+110/119	sol	1	s o l
+110/121	soll	1	s o ll
+110/125	soll	1	s o ll
+110/127	soll	1	s o ll
+110/129	sull	1	s u ll
+110/131	so	1	s o
+110/133	soull	1	s ou ll
+110/135	sull	1	s u ll
+110/137	sull	1	s u ll
+110/139	sull	1	s u ll
+111/035	söi	1	s öi
+111/037	sol	1	s o l
+111/039	söll	1	s ö ll
+111/041	soll	1	s o ll
+111/043	sell	1	s e ll
+111/045	sell	1	s e ll
+111/059	söll	1	s ö ll
+111/073	sol	1	s o l
+111/075	sol	1	s o l
+111/077	soll	1	s o ll
+111/079	soll	1	s o ll
+111/081	soll	1	s o ll
+111/083	soll	1	s o ll
+111/087	soll	1	s o ll
+111/089	söll	1	s ö ll
+111/105	sol	1	s o l
+111/107	soll	1	s o ll
+111/109	sull	1	s u ll
+111/111	soll	1	s o ll
+111/113	soll	1	s o ll
+111/115	soll	1	s o ll
+111/117	soll	1	s o ll
+111/119	sol	1	s o l
+111/121	soll	1	s o ll
+111/123	soll	1	s o ll
+111/125	soll	1	s o ll
+112/037	sell	1	s e ll
+112/039	söll	1	s ö ll
+112/041	söll	1	s ö ll
+112/043	sell	1	s e ll
+112/047	sell	1	s e ll
+112/059	söll	1	s ö ll
+112/061	soll	1	s o ll
+112/063	sö	1	s ö
+112/075	soll	1	s o ll
+112/081	soll	1	s o ll
+112/083	soll	1	s o ll
+112/085	soll	1	s o ll
+112/111	soll	1	s o ll
+112/115	soll	1	s o ll
+112/117	soll	1	s o ll
+112/119	sell	1	s e ll
+113/035	söll	1	s ö ll
+113/037	sel	1	s e l
+113/039	söll	1	s ö ll
+113/047	sel	1	s e l
+113/079	sol	1	s o l
+113/081	sol	1	s o l
+113/083	soll	1	s o ll
+113/085	soll	1	s o ll
+113/087	soll	1	s o ll
+113/121	soll	1	s o ll
+113/123	derf	1	d e r f
+114/035	söll	1	s ö ll
+114/045	sell	1	s e ll
+114/083	soll	1	s o ll
+114/085	soll	1	s o ll
+115/041	sell	1	s e ll
+115/043	sell	1	s e ll
+115/045	sell	1	s e ll
+115/083	soull	1	s ou ll
+115/085	soll	1	s o ll
+116/043	sell	1	s e ll
+116/045	sell	1	s e ll
+116/083	sell	1	s e ll
+117/043	sell	1	s e ll
+117/045	sell	1	s e ll
+118/041	sell	1	s e ll
+119/083	soll	1	s o ll
+120/085	NA	NA	-
+121/127	shöll	1	s h ö ll
+122/127	scholl	1	sch o ll
+122/129	sholl	1	s h o ll
+123/081	NA	NA	-
+123/123	shöll	1	s h ö ll
+123/125	bell	1	b e ll
+123/127	shöll	1	s h ö ll
+123/129	sholl	1	s h o ll
+124/125	sholl	1	s h o ll
+124/127	sholl	1	s h o ll
+124/129	sholl	1	s h o ll

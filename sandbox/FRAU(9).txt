@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	fru	1	f r u
+002/201	fru	1	f r u
+002/203	fru	1	f r u
+002/205	fruh	1	f r uh
+003/203	fru	1	f r u
+003/205	fru	1	f r u
+004/205	fru	1	f r u
+005/205	fru	1	f r u
+005/207	fru	1	f r u
+006/205	fruh	1	f r uh
+006/207	fru	1	f r u
+007/205	fru	1	f r u
+007/207	fru	1	f r u
+007/209	fruu	1	f r uu
+007/211	fru	1	f r u
+008/199	fruh	1	f r uh
+008/203	fru	1	f r u
+008/205	fru	1	f r u
+008/207	fru	1	f r u
+008/209	fru	1	f r u
+008/211	fru	1	f r u
+008/213	fru	1	f r u
+009/199	fru	1	f r u
+009/203	fru	1	f r u
+009/207	fru	1	f r u
+009/209	fru	1	f r u
+009/211	fruu	1	f r uu
+009/213	fruh	1	f r uh
+009/215	fru	1	f r u
+009/217	fru	1	f r u
+010/195	fru	1	f r u
+010/203	fru	1	f r u
+010/207	fru	1	f r u
+010/209	fru	1	f r u
+010/211	fru	1	f r u
+010/213	fru	1	f r u
+010/215	fru	1	f r u
+010/217	fru	1	f r u
+010/219	fru	1	f r u
+011/049	wüf	1	w ü f
+011/053	kuen	1	k ue n
+011/055	kuhn	1	k uh n
+011/057	kuun	1	k uu n
+011/059	kuen	1	k ue n
+011/061	kuen	1	k ue n
+011/063	kuun	1	k uu n
+011/065	kuhn	1	k uh n
+011/067	kuen	1	k ue n
+011/069	kuen	1	k ue n
+011/187	fru	1	f r u
+011/189	fru	1	f r u
+011/191	fru	1	f r u
+011/195	fru	1	f r u
+011/197	fruh	1	f r uh
+011/203	fru	1	f r u
+011/205	fru	1	f r u
+011/207	fru	1	f r u
+011/209	fruh	1	f r uh
+011/211	fru	1	f r u
+011/213	fru	1	f r u
+011/215	fru	1	f r u
+011/217	fru	1	f r u
+011/219	fru	1	f r u
+012/047	wüf	1	w ü f
+012/049	wüf	1	w ü f
+012/051	wöf	1	w ö f
+012/053	kun	1	k u n
+012/055	kun	1	k u n
+012/057	kun	1	k u n
+012/059	kuen	1	k ue n
+012/061	kun	1	k u n
+012/063	kuen	1	k ue n
+012/065	kuun	1	k uu n
+012/067	kuhn	1	k uh n
+012/069	kuun	1	k uu n
+012/187	fru	1	f r u
+012/189	fru	1	f r u
+012/191	fru	1	f r u
+012/193	fru	1	f r u
+012/195	fru	1	f r u
+012/197	fru	1	f r u
+012/199	fru	1	f r u
+012/201	fru	1	f r u
+012/203	fru	1	f r u
+012/205	fru	1	f r u
+012/207	fru	1	f r u
+012/209	fru	1	f r u
+012/211	fru	1	f r u
+012/213	fru	1	f r u
+012/215	fruh	1	f r uh
+012/217	fru	1	f r u
+012/219	fru	1	f r u
+012/221	fru	1	f r u
+012/223	fru	1	f r u
+013/051	wüff	1	w ü ff
+013/053	wüsset	1	w ü ss e t
+013/055	wüf	1	w ü f
+013/057	kuun	1	k uu n
+013/059	kuun	1	k uu n
+013/061	fru	1	f r u
+013/063	fru	1	f r u
+013/065	fru	1	f r u
+013/067	fru	1	f r u
+013/161	fru	1	f r u
+013/163	fru	1	f r u
+013/165	fru	1	f r u
+013/167	fru	1	f r u
+013/187	fru	1	f r u
+013/189	fru	1	f r u
+013/191	fru	1	f r u
+013/193	fru	1	f r u
+013/195	fru	1	f r u
+013/197	frue	1	f r ue
+013/199	fru	1	f r u
+013/201	fru	1	f r u
+013/203	fru	1	f r u
+013/207	fruh	1	f r uh
+013/209	fru	1	f r u
+013/211	fru	1	f r u
+013/213	fru	1	f r u
+013/215	fru	1	f r u
+013/217	fruh	1	f r uh
+013/219	fruu	1	f r uu
+013/221	fru	1	f r u
+013/223	fru	1	f r u
+014/047	wüf	1	w ü f
+014/049	wüf	1	w ü f
+014/051	wüff	1	w ü ff
+014/053	wüff	1	w ü ff
+014/055	wöf	1	w ö f
+014/057	wüw	1	w ü w
+014/059	fru	1	f r u
+014/061	fru	1	f r u
+014/063	fru	1	f r u
+014/065	fru	1	f r u
+014/067	fru	1	f r u
+014/109	fru	1	f r u
+014/159	fru	1	f r u
+014/161	fru	1	f r u
+014/163	fru	1	f r u
+014/165	fruu	1	f r uu
+014/167	fru	1	f r u
+014/169	fru	1	f r u
+014/187	fru	1	f r u
+014/189	fruh	1	f r uh
+014/191	fru	1	f r u
+014/193	fru	1	f r u
+014/195	fruu	1	f r uu
+014/197	fru	1	f r u
+014/199	fruh	1	f r uh
+014/201	fru	1	f r u
+014/203	fru	1	f r u
+014/205	fru	1	f r u
+014/207	fru	1	f r u
+014/209	fruh	1	f r uh
+014/211	fru	1	f r u
+014/213	fru	1	f r u
+014/215	fru	1	f r u
+014/217	fruh	1	f r uh
+014/219	fruh	1	f r uh
+014/221	fru	1	f r u
+015/049	wüf	1	w ü f
+015/051	wüf	1	w ü f
+015/053	wüf	1	w ü f
+015/055	wüff	1	w ü ff
+015/057	wöff	1	w ö ff
+015/059	fru	1	f r u
+015/061	fruu	1	f r uu
+015/063	fru	1	f r u
+015/065	fru	1	f r u
+015/067	fru	1	f r u
+015/105	fru	1	f r u
+015/107	fru	1	f r u
+015/109	fru	1	f r u
+015/151	fru	1	f r u
+015/153	fru	1	f r u
+015/155	fru	1	f r u
+015/157	fru	1	f r u
+015/159	fruh	1	f r uh
+015/161	frug	1	f r u g
+015/163	fru	1	f r u
+015/165	fru	1	f r u
+015/167	fruh	1	f r uh
+015/169	fru	1	f r u
+015/173	fru	1	f r u
+015/187	fru	1	f r u
+015/191	fru	1	f r u
+015/193	fru	1	f r u
+015/195	fru	1	f r u
+015/197	fru	1	f r u
+015/199	fru	1	f r u
+015/201	fru	1	f r u
+015/203	fru	1	f r u
+015/205	fru	1	f r u
+015/207	fruh	1	f r uh
+015/209	fru	1	f r u
+015/211	fru	1	f r u
+015/213	fru	1	f r u
+015/215	fru	1	f r u
+015/217	fru	1	f r u
+015/219	fruu	1	f r uu
+015/221	fru	1	f r u
+016/051	wüff	1	w ü ff
+016/055	wüf	1	w ü f
+016/057	fru	1	f r u
+016/059	fru	1	f r u
+016/061	fru	1	f r u
+016/063	fru	1	f r u
+016/065	fru	1	f r u
+016/067	fru	1	f r u
+016/081	fro	1	f r o
+016/083	frou	1	f r ou
+016/105	fru	1	f r u
+016/107	fru	1	f r u
+016/109	fru	1	f r u
+016/111	fru	1	f r u
+016/145	frua	1	f r ua
+016/147	fruwa	1	f r u w a
+016/149	frua	1	f r ua
+016/151	fru	1	f r u
+016/153	fru	1	f r u
+016/155	fruh	1	f r uh
+016/157	fru	1	f r u
+016/159	fruh	1	f r uh
+016/161	fru	1	f r u
+016/163	fru	1	f r u
+016/165	fru	1	f r u
+016/167	fru	1	f r u
+016/187	fru	1	f r u
+016/189	fru	1	f r u
+016/191	fru	1	f r u
+016/193	fru	1	f r u
+016/195	fru	1	f r u
+016/197	fruh	1	f r uh
+016/199	fru	1	f r u
+016/201	fru	1	f r u
+016/203	fru	1	f r u
+016/205	fru	1	f r u
+016/209	fru	1	f r u
+016/211	fru	1	f r u
+016/213	fru	1	f r u
+016/215	fru	1	f r u
+016/217	fru	1	f r u
+016/219	fruh	1	f r uh
+017/055	fru	1	f r u
+017/057	fru	1	f r u
+017/059	frau	1	f r au
+017/061	fru	1	f r u
+017/063	fru	1	f r u
+017/065	fru	1	f r u
+017/067	fru	1	f r u
+017/069	fru	1	f r u
+017/081	fru	1	f r u
+017/083	fru	1	f r u
+017/099	fru	1	f r u
+017/101	fru	1	f r u
+017/103	fru	1	f r u
+017/107	fru	1	f r u
+017/109	fru	1	f r u
+017/145	fru	1	f r u
+017/147	fru	1	f r u
+017/149	fru	1	f r u
+017/151	fru	1	f r u
+017/153	fru	1	f r u
+017/155	fru	1	f r u
+017/157	fru	1	f r u
+017/159	fru	1	f r u
+017/161	fru	1	f r u
+017/163	fru	1	f r u
+017/165	fru	1	f r u
+017/169	fruu	1	f r uu
+017/171	fru	1	f r u
+017/183	fru	1	f r u
+017/185	fru	1	f r u
+017/187	fru	1	f r u
+017/189	fruh	1	f r uh
+017/191	fru	1	f r u
+017/193	fru	1	f r u
+017/195	fru	1	f r u
+017/197	fru	1	f r u
+017/199	fru	1	f r u
+017/201	fru	1	f r u
+017/203	fruh	1	f r uh
+017/205	fru	1	f r u
+017/207	fru	1	f r u
+017/209	fru	1	f r u
+017/211	fru	1	f r u
+017/213	fru	1	f r u
+017/215	fru	1	f r u
+017/217	fru	1	f r u
+017/219	fru	1	f r u
+018/051	fru	1	f r u
+018/053	fru	1	f r u
+018/055	fru	1	f r u
+018/057	fruu	1	f r uu
+018/059	fru	1	f r u
+018/061	fru	1	f r u
+018/063	fru	1	f r u
+018/065	fru	1	f r u
+018/067	fru	1	f r u
+018/069	fra	1	f r a
+018/071	fru	1	f r u
+018/073	frou	1	f r ou
+018/075	fro	1	f r o
+018/079	fru	1	f r u
+018/081	fru	1	f r u
+018/097	fru	1	f r u
+018/099	fru	1	f r u
+018/103	fru	1	f r u
+018/105	fru	1	f r u
+018/107	fru	1	f r u
+018/109	fru	1	f r u
+018/111	fru	1	f r u
+018/143	fru	1	f r u
+018/145	fru	1	f r u
+018/147	fruwe	1	f r u w e
+018/149	fru	1	f r u
+018/151	fru	1	f r u
+018/153	fru	1	f r u
+018/155	fru	1	f r u
+018/157	friu	1	f r iu
+018/159	fruh	1	f r uh
+018/161	fruh	1	f r uh
+018/163	fru	1	f r u
+018/165	fru	1	f r u
+018/169	fru	1	f r u
+018/171	fruu	1	f r uu
+018/173	fru	1	f r u
+018/181	fruh	1	f r uh
+018/185	fru	1	f r u
+018/187	fru	1	f r u
+018/189	fru	1	f r u
+018/191	fru	1	f r u
+018/193	fru	1	f r u
+018/195	fru	1	f r u
+018/197	fruu	1	f r uu
+018/199	fru	1	f r u
+018/201	fru	1	f r u
+018/203	fru	1	f r u
+018/205	fru	1	f r u
+018/207	fru	1	f r u
+018/209	fru	1	f r u
+018/211	fru	1	f r u
+018/213	fru	1	f r u
+018/215	fru	1	f r u
+018/219	fru	1	f r u
+019/051	fru	1	f r u
+019/053	fru	1	f r u
+019/055	fru	1	f r u
+019/057	fru	1	f r u
+019/059	fru	1	f r u
+019/061	fru	1	f r u
+019/063	fru	1	f r u
+019/065	fru	1	f r u
+019/067	frou	1	f r ou
+019/069	fro	1	f r o
+019/071	fro	1	f r o
+019/073	fru	1	f r u
+019/075	fru	1	f r u
+019/077	fru	1	f r u
+019/079	fru	1	f r u
+019/081	fru	1	f r u
+019/097	fru	1	f r u
+019/099	fru	1	f r u
+019/101	fru	1	f r u
+019/103	fru	1	f r u
+019/105	fru	1	f r u
+019/107	fru	1	f r u
+019/109	fru	1	f r u
+019/143	frua	1	f r ua
+019/145	frugä	1	f r u g ä
+019/147	fru	1	f r u
+019/149	fru	1	f r u
+019/151	fru	1	f r u
+019/153	fruge	1	f r u g e
+019/155	frue	1	f r ue
+019/157	fru	1	f r u
+019/159	fru	1	f r u
+019/161	fru	1	f r u
+019/163	fru	1	f r u
+019/165	fruh	1	f r uh
+019/167	frug	1	f r u g
+019/169	fruh	1	f r uh
+019/171	fru	1	f r u
+019/173	fru	1	f r u
+019/175	fru	1	f r u
+019/177	fru	1	f r u
+019/179	fru	1	f r u
+019/181	fruu	1	f r uu
+019/183	fru	1	f r u
+019/185	fruh	1	f r uh
+019/187	fru	1	f r u
+019/189	fru	1	f r u
+019/191	fru	1	f r u
+019/193	fru	1	f r u
+019/195	fru	1	f r u
+019/197	fruh	1	f r uh
+019/199	fru	1	f r u
+019/201	fru	1	f r u
+019/203	fru	1	f r u
+019/205	fru	1	f r u
+019/207	fru	1	f r u
+019/209	fru	1	f r u
+019/211	fru	1	f r u
+019/213	fru	1	f r u
+019/215	fru	1	f r u
+019/217	fru	1	f r u
+019/219	fru	1	f r u
+020/043	wüff	1	w ü ff
+020/053	fru	1	f r u
+020/055	fru	1	f r u
+020/057	fru	1	f r u
+020/059	fra	1	f r a
+020/061	fru	1	f r u
+020/063	froo	1	f r oo
+020/065	frou	1	f r ou
+020/067	froh	1	f r oh
+020/069	fro	1	f r o
+020/071	fru	1	f r u
+020/073	fru	1	f r u
+020/075	froo	1	f r oo
+020/077	fru	1	f r u
+020/079	fru	1	f r u
+020/081	fru	1	f r u
+020/095	fru	1	f r u
+020/097	frug	1	f r u g
+020/099	fru	1	f r u
+020/101	fru	1	f r u
+020/103	fru	1	f r u
+020/105	fru	1	f r u
+020/107	fru	1	f r u
+020/135	frau	1	f r au
+020/137	fru	1	f r u
+020/139	fru	1	f r u
+020/141	fru	1	f r u
+020/143	frue	1	f r ue
+020/145	fruge	1	f r u g e
+020/147	fruge	1	f r u g e
+020/149	frugh	1	f r u g h
+020/151	fru	1	f r u
+020/153	fru	1	f r u
+020/155	fru	1	f r u
+020/157	fru	1	f r u
+020/159	fru	1	f r u
+020/161	fru	1	f r u
+020/163	fru	1	f r u
+020/165	frug	1	f r u g
+020/167	fruge	1	f r u g e
+020/169	fru	1	f r u
+020/171	fruh	1	f r uh
+020/173	fru	1	f r u
+020/175	fru	1	f r u
+020/177	fru	1	f r u
+020/179	fru	1	f r u
+020/181	fruh	1	f r uh
+020/183	fru	1	f r u
+020/185	fru	1	f r u
+020/187	frau	1	f r au
+020/189	fru	1	f r u
+020/191	fruu	1	f r uu
+020/193	fru	1	f r u
+020/195	fru	1	f r u
+020/197	fru	1	f r u
+020/199	fru	1	f r u
+020/201	frue	1	f r ue
+020/203	fru	1	f r u
+020/205	frue	1	f r ue
+020/207	fru	1	f r u
+020/209	fruh	1	f r uh
+020/211	fru	1	f r u
+020/213	fru	1	f r u
+020/215	fru	1	f r u
+020/217	fru	1	f r u
+020/219	fru	1	f r u
+021/055	fru	1	f r u
+021/057	fru	1	f r u
+021/059	fru	1	f r u
+021/061	frou	1	f r ou
+021/063	fro	1	f r o
+021/065	frou	1	f r ou
+021/067	fro	1	f r o
+021/069	frou	1	f r ou
+021/071	fro	1	f r o
+021/073	fru	1	f r u
+021/075	fru	1	f r u
+021/077	fru	1	f r u
+021/079	fru	1	f r u
+021/087	frug	1	f r u g
+021/089	fru	1	f r u
+021/091	fru	1	f r u
+021/093	fruuch	1	f r uu ch
+021/095	fru	1	f r u
+021/097	frug	1	f r u g
+021/099	fru	1	f r u
+021/101	fru	1	f r u
+021/103	fru	1	f r u
+021/105	fru	1	f r u
+021/107	fru	1	f r u
+021/109	fruh	1	f r uh
+021/111	fru	1	f r u
+021/113	fru	1	f r u
+021/131	fruwwe	1	f r u ww e
+021/133	fruua	1	f r uua
+021/135	fru	1	f r u
+021/137	fruu	1	f r uu
+021/139	fru	1	f r u
+021/141	frugga	1	f r u gg a
+021/143	frug	1	f r u g
+021/145	fruge	1	f r u g e
+021/147	fruge	1	f r u g e
+021/149	fruje	1	f r u j e
+021/151	fru	1	f r u
+021/153	frua	1	f r ua
+021/155	fruh	1	f r uh
+021/157	fru	1	f r u
+021/159	fru	1	f r u
+021/163	fru	1	f r u
+021/165	fru	1	f r u
+021/167	frug	1	f r u g
+021/169	frug	1	f r u g
+021/171	fru	1	f r u
+021/173	fru	1	f r u
+021/175	fru	1	f r u
+021/177	fruh	1	f r uh
+021/179	fru	1	f r u
+021/181	fru	1	f r u
+021/183	fru	1	f r u
+021/185	frau	1	f r au
+021/187	waib	1	w ai b
+021/189	frau	1	f r au
+021/191	frau	1	f r au
+021/193	frau	1	f r au
+021/195	frau	1	f r au
+021/197	frau	1	f r au
+021/199	fru	1	f r u
+021/201	wiew	1	w ie w
+021/203	fru	1	f r u
+021/205	fruh	1	f r uh
+021/207	fru	1	f r u
+021/211	fru	1	f r u
+021/215	fru	1	f r u
+021/217	fru	1	f r u
+021/219	fru	1	f r u
+022/055	fru	1	f r u
+022/057	fru	1	f r u
+022/059	fru	1	f r u
+022/061	fro	1	f r o
+022/063	frou	1	f r ou
+022/065	fru	1	f r u
+022/067	fru	1	f r u
+022/069	froo	1	f r oo
+022/071	fru	1	f r u
+022/073	fru	1	f r u
+022/075	fru	1	f r u
+022/077	fru	1	f r u
+022/087	frug	1	f r u g
+022/089	fru	1	f r u
+022/091	fru	1	f r u
+022/093	frug	1	f r u g
+022/095	fru	1	f r u
+022/097	fru	1	f r u
+022/099	fru	1	f r u
+022/101	frug	1	f r u g
+022/103	fru	1	f r u
+022/105	fru	1	f r u
+022/107	fru	1	f r u
+022/109	fru	1	f r u
+022/111	fru	1	f r u
+022/113	fru	1	f r u
+022/115	fruh	1	f r uh
+022/127	fru	1	f r u
+022/129	fru	1	f r u
+022/131	fruhe	1	f r u h e
+022/133	fruwe	1	f r u w e
+022/135	fru	1	f r u
+022/137	fruge	1	f r u g e
+022/139	frug	1	f r u g
+022/141	fru	1	f r u
+022/143	fru	1	f r u
+022/145	fruj	1	f r u j
+022/147	fruge	1	f r u g e
+022/149	fruge	1	f r u g e
+022/151	fruh	1	f r uh
+022/153	fru	1	f r u
+022/155	fruge	1	f r u g e
+022/157	fru	1	f r u
+022/159	frugä	1	f r u g ä
+022/165	frug	1	f r u g
+022/167	frug	1	f r u g
+022/169	fru	1	f r u
+022/171	fru	1	f r u
+022/173	fru	1	f r u
+022/175	fra	1	f r a
+022/177	fru	1	f r u
+022/179	fruh	1	f r uh
+022/181	fru	1	f r u
+022/183	frau	1	f r au
+022/185	frau	1	f r au
+022/187	frau	1	f r au
+022/189	frau	1	f r au
+022/191	frau	1	f r au
+022/193	frau	1	f r au
+022/195	frau	1	f r au
+022/197	frau	1	f r au
+022/199	waib	1	w ai b
+022/201	fru	1	f r u
+022/203	fru	1	f r u
+022/205	fru	1	f r u
+022/209	fruu	1	f r uu
+022/211	fru	1	f r u
+022/215	fraa	1	f r aa
+022/217	fruh	1	f r uh
+022/219	fru	1	f r u
+023/055	fru	1	f r u
+023/059	fru	1	f r u
+023/061	fru	1	f r u
+023/063	fru	1	f r u
+023/065	fro	1	f r o
+023/067	fro	1	f r o
+023/069	fro	1	f r o
+023/071	fru	1	f r u
+023/073	fru	1	f r u
+023/075	fru	1	f r u
+023/077	fru	1	f r u
+023/079	fru	1	f r u
+023/081	frug	1	f r u g
+023/083	frug	1	f r u g
+023/085	frug	1	f r u g
+023/087	frug	1	f r u g
+023/089	fru	1	f r u
+023/091	fruch	1	f r u ch
+023/093	fru	1	f r u
+023/095	fru	1	f r u
+023/097	fru	1	f r u
+023/099	fru	1	f r u
+023/101	fru	1	f r u
+023/103	frug	1	f r u g
+023/105	fru	1	f r u
+023/107	fru	1	f r u
+023/109	fru	1	f r u
+023/111	fru	1	f r u
+023/113	fru	1	f r u
+023/115	fru	1	f r u
+023/117	fru	1	f r u
+023/121	fru	1	f r u
+023/123	fru	1	f r u
+023/125	frue	1	f r ue
+023/127	fru	1	f r u
+023/129	fru	1	f r u
+023/131	fru	1	f r u
+023/133	fru	1	f r u
+023/135	frue	1	f r ue
+023/137	frug	1	f r u g
+023/139	fru	1	f r u
+023/141	frug	1	f r u g
+023/143	frug	1	f r u g
+023/145	frug	1	f r u g
+023/147	frug	1	f r u g
+023/149	fruja	1	f r u j a
+023/151	fruga	1	f r u g a
+023/153	fruug	1	f r uu g
+023/155	fruge	1	f r u g e
+023/165	frug	1	f r u g
+023/167	frug	1	f r u g
+023/169	frug	1	f r u g
+023/175	fru	1	f r u
+023/177	frau	1	f r au
+023/179	frau	1	f r au
+023/181	frau	1	f r au
+023/183	frau	1	f r au
+023/185	weib	1	w ei b
+023/187	frau	1	f r au
+023/189	frau	1	f r au
+023/191	frau	1	f r au
+023/193	frau	1	f r au
+023/195	frau	1	f r au
+023/197	frau	1	f r au
+023/199	froh	1	f r oh
+023/201	fru	1	f r u
+023/203	fru	1	f r u
+023/205	fru	1	f r u
+023/207	fruh	1	f r uh
+023/215	fru	1	f r u
+023/217	fru	1	f r u
+024/053	fro	1	f r o
+024/057	fru	1	f r u
+024/059	frau	1	f r au
+024/061	frau	1	f r au
+024/063	frau	1	f r au
+024/065	fro	1	f r o
+024/067	fru	1	f r u
+024/069	fru	1	f r u
+024/071	fruuch	1	f r uu ch
+024/073	fru	1	f r u
+024/075	fru	1	f r u
+024/077	fru	1	f r u
+024/079	fru	1	f r u
+024/081	fru	1	f r u
+024/083	fru	1	f r u
+024/085	frug	1	f r u g
+024/087	fru	1	f r u
+024/089	fruhg	1	f r uh g
+024/091	fru	1	f r u
+024/093	fru	1	f r u
+024/095	fru	1	f r u
+024/097	fru	1	f r u
+024/099	fru	1	f r u
+024/101	fru	1	f r u
+024/103	fru	1	f r u
+024/105	fruug	1	f r uu g
+024/107	fru	1	f r u
+024/109	frau	1	f r au
+024/111	fru	1	f r u
+024/113	fru	1	f r u
+024/115	fru	1	f r u
+024/117	fru	1	f r u
+024/119	fru	1	f r u
+024/121	fru	1	f r u
+024/123	fru	1	f r u
+024/125	fru	1	f r u
+024/127	fru	1	f r u
+024/129	frug	1	f r u g
+024/131	frue	1	f r ue
+024/133	frugä	1	f r u g ä
+024/135	fru	1	f r u
+024/137	fru	1	f r u
+024/139	fruhge	1	f r uh g e
+024/141	frugge	1	f r u gg e
+024/143	fruge	1	f r u g e
+024/145	fruge	1	f r u g e
+024/147	fru	1	f r u
+024/149	frug	1	f r u g
+024/151	fruch	1	f r u ch
+024/153	frugge	1	f r u gg e
+024/155	fruge	1	f r u g e
+024/163	frug	1	f r u g
+024/165	frugg	1	f r u gg
+024/167	frug	1	f r u g
+024/169	frugä	1	f r u g ä
+024/171	fru	1	f r u
+024/175	fru	1	f r u
+024/179	frau	1	f r au
+024/181	frau	1	f r au
+024/183	frau	1	f r au
+024/185	frau	1	f r au
+024/187	frau	1	f r au
+024/189	frau	1	f r au
+024/191	frau	1	f r au
+024/193	frau	1	f r au
+024/195	weib	1	w ei b
+024/197	frau	1	f r au
+024/199	frau	1	f r au
+024/201	frou	1	f r ou
+024/203	fru	1	f r u
+024/217	fru	1	f r u
+024/221	fruh	1	f r uh
+025/043	wüf	1	w ü f
+025/051	froo	1	f r oo
+025/053	fro	1	f r o
+025/055	fro	1	f r o
+025/057	frau	1	f r au
+025/059	frau	1	f r au
+025/061	frau	1	f r au
+025/063	frau	1	f r au
+025/065	frau	1	f r au
+025/067	frau	1	f r au
+025/069	fru	1	f r u
+025/071	fru	1	f r u
+025/073	fru	1	f r u
+025/075	fru	1	f r u
+025/077	fru	1	f r u
+025/079	fruu	1	f r uu
+025/081	frug	1	f r u g
+025/083	fru	1	f r u
+025/085	frug	1	f r u g
+025/087	fru	1	f r u
+025/089	fru	1	f r u
+025/091	fru	1	f r u
+025/093	fruu	1	f r uu
+025/095	fruch	1	f r u ch
+025/099	fru	1	f r u
+025/101	fru	1	f r u
+025/103	fru	1	f r u
+025/105	fru	1	f r u
+025/107	fru	1	f r u
+025/109	fru	1	f r u
+025/111	fru	1	f r u
+025/113	fru	1	f r u
+025/115	fru	1	f r u
+025/123	fru	1	f r u
+025/125	fruhe	1	f r u h e
+025/127	fru	1	f r u
+025/129	fru	1	f r u
+025/131	frug	1	f r u g
+025/133	fru	1	f r u
+025/135	fru	1	f r u
+025/137	frug	1	f r u g
+025/139	fru	1	f r u
+025/141	frug	1	f r u g
+025/143	fruha	1	f r u h a
+025/145	fruge	1	f r u g e
+025/147	fruge	1	f r u g e
+025/149	fru	1	f r u
+025/151	frug	1	f r u g
+025/153	frug	1	f r u g
+025/155	fruga	1	f r u g a
+025/157	frug	1	f r u g
+025/159	fru	1	f r u
+025/177	fru	1	f r u
+025/179	frau	1	f r au
+025/181	frau	1	f r au
+025/183	frau	1	f r au
+025/185	frau	1	f r au
+025/187	frau	1	f r au
+025/189	fru	1	f r u
+025/191	frau	1	f r au
+026/031	fro	1	f r o
+026/033	froo	1	f r oo
+026/037	fro	1	f r o
+026/041	froo	1	f r oo
+026/043	fro	1	f r o
+026/045	fro	1	f r o
+026/051	fruo	1	f r uo
+026/053	froo	1	f r oo
+026/055	fro	1	f r o
+026/057	frau	1	f r au
+026/059	frau	1	f r au
+026/061	frau	1	f r au
+026/063	frau	1	f r au
+026/065	frau	1	f r au
+026/067	frau	1	f r au
+026/069	fro	1	f r o
+026/071	fru	1	f r u
+026/073	fru	1	f r u
+026/075	fruh	1	f r uh
+026/077	fruch	1	f r u ch
+026/079	frug	1	f r u g
+026/081	fru	1	f r u
+026/083	fru	1	f r u
+026/085	fru	1	f r u
+026/087	frug	1	f r u g
+026/089	fru	1	f r u
+026/091	fru	1	f r u
+026/093	fra	1	f r a
+026/095	fru	1	f r u
+026/097	fru	1	f r u
+026/099	fruch	1	f r u ch
+026/101	fru	1	f r u
+026/103	fru	1	f r u
+026/105	fru	1	f r u
+026/107	fru	1	f r u
+026/109	fru	1	f r u
+026/111	fru	1	f r u
+026/113	fru	1	f r u
+026/115	fru	1	f r u
+026/117	fru	1	f r u
+026/119	fru	1	f r u
+026/123	fru	1	f r u
+026/125	fru	1	f r u
+026/127	fruja	1	f r u j a
+026/129	frujä	1	f r u j ä
+026/131	fru	1	f r u
+026/133	fruge	1	f r u g e
+026/135	frug	1	f r u g
+026/137	fruje	1	f r u j e
+026/139	frug	1	f r u g
+026/141	fruje	1	f r u j e
+026/143	fruge	1	f r u g e
+026/145	frug	1	f r u g
+026/147	fru	1	f r u
+026/153	frug	1	f r u g
+026/155	frug	1	f r u g
+026/157	frug	1	f r u g
+026/159	fruge	1	f r u g e
+026/161	frug	1	f r u g
+026/165	frau	1	f r au
+026/173	fru	1	f r u
+026/175	fru	1	f r u
+026/177	fru	1	f r u
+026/179	fru	1	f r u
+026/181	frau	1	f r au
+026/183	frau	1	f r au
+026/185	frau	1	f r au
+026/187	frau	1	f r au
+026/189	frau	1	f r au
+027/027	frau	1	f r au
+027/035	fro	1	f r o
+027/037	froou	1	f r oou
+027/039	fro	1	f r o
+027/041	froh	1	f r oh
+027/043	froo	1	f r oo
+027/045	froo	1	f r oo
+027/047	froo	1	f r oo
+027/051	fro	1	f r o
+027/053	froo	1	f r oo
+027/055	frau	1	f r au
+027/057	frau	1	f r au
+027/059	frau	1	f r au
+027/061	frau	1	f r au
+027/063	frau	1	f r au
+027/065	fru	1	f r u
+027/067	frau	1	f r au
+027/069	froo	1	f r oo
+027/071	fru	1	f r u
+027/073	fru	1	f r u
+027/075	fru	1	f r u
+027/077	fru	1	f r u
+027/079	frug	1	f r u g
+027/081	frug	1	f r u g
+027/083	frug	1	f r u g
+027/085	fru	1	f r u
+027/087	fru	1	f r u
+027/089	fru	1	f r u
+027/091	fru	1	f r u
+027/093	fru	1	f r u
+027/095	fru	1	f r u
+027/099	fru	1	f r u
+027/101	fru	1	f r u
+027/103	frug	1	f r u g
+027/105	fru	1	f r u
+027/107	fru	1	f r u
+027/109	fru	1	f r u
+027/111	fru	1	f r u
+027/113	fro	1	f r o
+027/115	fru	1	f r u
+027/117	fru	1	f r u
+027/119	fruh	1	f r uh
+027/123	fru	1	f r u
+027/125	fru	1	f r u
+027/127	fru	1	f r u
+027/129	fruge	1	f r u g e
+027/131	fruge	1	f r u g e
+027/135	frugga	1	f r u gg a
+027/137	fruge	1	f r u g e
+027/139	frugä	1	f r u g ä
+027/141	fruga	1	f r u g a
+027/143	frugge	1	f r u gg e
+027/145	frug	1	f r u g
+027/147	frugi	1	f r u g i
+027/149	frugee	1	f r u g ee
+027/151	frug	1	f r u g
+027/153	frug	1	f r u g
+027/155	frug	1	f r u g
+027/157	frug	1	f r u g
+027/159	frug	1	f r u g
+027/161	frug	1	f r u g
+027/167	frug	1	f r u g
+027/171	frug	1	f r u g
+027/173	fru	1	f r u
+027/175	fru	1	f r u
+027/177	fru	1	f r u
+027/179	wiw	1	w i w
+027/181	wiw	1	w i w
+027/183	frau	1	f r au
+027/185	frau	1	f r au
+028/033	fro	1	f r o
+028/035	froo	1	f r oo
+028/037	froo	1	f r oo
+028/039	froo	1	f r oo
+028/041	fro	1	f r o
+028/043	fro	1	f r o
+028/045	fro	1	f r o
+028/047	fro	1	f r o
+028/049	fro	1	f r o
+028/051	fro	1	f r o
+028/053	fro	1	f r o
+028/055	froo	1	f r oo
+028/057	fro	1	f r o
+028/059	froo	1	f r oo
+028/061	fro	1	f r o
+028/063	froo	1	f r oo
+028/065	fro	1	f r o
+028/067	fräu	1	f r äu
+028/069	fro	1	f r o
+028/071	frao	1	f r ao
+028/073	fru	1	f r u
+028/075	fruh	1	f r uh
+028/077	fru	1	f r u
+028/079	fru	1	f r u
+028/081	frug	1	f r u g
+028/083	fruch	1	f r u ch
+028/085	fru	1	f r u
+028/087	fru	1	f r u
+028/089	fru	1	f r u
+028/091	froh	1	f r oh
+028/093	frug	1	f r u g
+028/095	fru	1	f r u
+028/097	fru	1	f r u
+028/099	fru	1	f r u
+028/103	fru	1	f r u
+028/105	fru	1	f r u
+028/107	fru	1	f r u
+028/109	fru	1	f r u
+028/111	fruh	1	f r uh
+028/113	fro	1	f r o
+028/115	fru	1	f r u
+028/117	fru	1	f r u
+028/119	frug	1	f r u g
+028/121	fru	1	f r u
+028/123	fru	1	f r u
+028/125	fru	1	f r u
+028/127	fruug	1	f r uu g
+028/129	frugä	1	f r u g ä
+028/131	frug	1	f r u g
+028/133	fruga	1	f r u g a
+028/135	fruga	1	f r u g a
+028/137	frug	1	f r u g
+028/139	fruhgge	1	f r uh gg e
+028/141	fruga	1	f r u g a
+028/143	frugga	1	f r u gg a
+028/145	frug	1	f r u g
+028/147	fruge	1	f r u g e
+028/151	frugge	1	f r u gg e
+028/153	frugge	1	f r u gg e
+028/155	frug	1	f r u g
+028/157	frug	1	f r u g
+028/159	fruch	1	f r u ch
+028/161	frug	1	f r u g
+028/165	frug	1	f r u g
+028/169	frugg	1	f r u gg
+028/171	frug	1	f r u g
+028/173	frujj	1	f r u jj
+028/175	fruu	1	f r uu
+028/177	fruch	1	f r u ch
+028/179	frug	1	f r u g
+028/181	frau	1	f r au
+028/183	frau	1	f r au
+028/185	frau	1	f r au
+029/033	vrou	1	v r ou
+029/035	frau	1	f r au
+029/037	froo	1	f r oo
+029/039	froe	1	f r oe
+029/043	fro	1	f r o
+029/045	froo	1	f r oo
+029/047	fro	1	f r o
+029/049	froo	1	f r oo
+029/051	fro	1	f r o
+029/053	froo	1	f r oo
+029/055	fro	1	f r o
+029/057	fro	1	f r o
+029/059	fro	1	f r o
+029/061	froh	1	f r oh
+029/065	frau	1	f r au
+029/067	freo	1	f r eo
+029/069	frou	1	f r ou
+029/071	fro	1	f r o
+029/073	fru	1	f r u
+029/075	fruch	1	f r u ch
+029/077	fru	1	f r u
+029/079	fru	1	f r u
+029/081	fru	1	f r u
+029/083	frug	1	f r u g
+029/085	fru	1	f r u
+029/087	fru	1	f r u
+029/089	frug	1	f r u g
+029/091	fru	1	f r u
+029/093	fru	1	f r u
+029/095	fru	1	f r u
+029/097	fruh	1	f r uh
+029/099	fru	1	f r u
+029/101	fru	1	f r u
+029/103	fru	1	f r u
+029/105	fru	1	f r u
+029/107	fro	1	f r o
+029/109	froh	1	f r oh
+029/111	froh	1	f r oh
+029/113	fru	1	f r u
+029/115	fru	1	f r u
+029/117	fru	1	f r u
+029/119	fru	1	f r u
+029/121	fru	1	f r u
+029/123	fru	1	f r u
+029/125	fruh	1	f r uh
+029/127	frug	1	f r u g
+029/129	frug	1	f r u g
+029/131	frug	1	f r u g
+029/133	fru	1	f r u
+029/135	fruuga	1	f r uu g a
+029/137	fruge	1	f r u g e
+029/139	frugä	1	f r u g ä
+029/141	frugä	1	f r u g ä
+029/143	frug	1	f r u g
+029/145	fruga	1	f r u g a
+029/147	frug	1	f r u g
+029/149	frug	1	f r u g
+029/151	frug	1	f r u g
+029/153	frug	1	f r u g
+029/155	frug	1	f r u g
+029/157	fruge	1	f r u g e
+029/159	frug	1	f r u g
+029/161	fruk	1	f r u k
+029/163	frug	1	f r u g
+029/165	fruch	1	f r u ch
+029/167	frug	1	f r u g
+029/169	frug	1	f r u g
+029/171	fruch	1	f r u ch
+029/173	frug	1	f r u g
+029/175	frug	1	f r u g
+029/177	fru	1	f r u
+029/181	fru	1	f r u
+030/033	vrau	1	v r au
+030/035	vrau	1	v r au
+030/037	vrau	1	v r au
+030/039	fro	1	f r o
+030/041	froe	1	f r oe
+030/043	fro	1	f r o
+030/045	fro	1	f r o
+030/047	fro	1	f r o
+030/049	fro	1	f r o
+030/051	fro	1	f r o
+030/053	froh	1	f r oh
+030/055	fro	1	f r o
+030/057	fro	1	f r o
+030/059	fro	1	f r o
+030/061	fro	1	f r o
+030/065	fro	1	f r o
+030/067	frau	1	f r au
+030/071	fro	1	f r o
+030/073	fro	1	f r o
+030/075	fruch	1	f r u ch
+030/077	fru	1	f r u
+030/079	fru	1	f r u
+030/081	fru	1	f r u
+030/083	fru	1	f r u
+030/085	fruch	1	f r u ch
+030/087	fru	1	f r u
+030/089	frug	1	f r u g
+030/091	fru	1	f r u
+030/093	fru	1	f r u
+030/095	fru	1	f r u
+030/097	fru	1	f r u
+030/099	fru	1	f r u
+030/101	fru	1	f r u
+030/103	fru	1	f r u
+030/105	fru	1	f r u
+030/107	fro	1	f r o
+030/109	fru	1	f r u
+030/111	froh	1	f r oh
+030/113	fru	1	f r u
+030/115	fruh	1	f r uh
+030/117	fru	1	f r u
+030/119	fru	1	f r u
+030/121	fru	1	f r u
+030/123	fru	1	f r u
+030/125	fru	1	f r u
+030/127	fru	1	f r u
+030/129	fruj	1	f r u j
+030/131	frug	1	f r u g
+030/133	frug	1	f r u g
+030/135	frug	1	f r u g
+030/137	frug	1	f r u g
+030/139	frug	1	f r u g
+030/141	frug	1	f r u g
+030/143	fruga	1	f r u g a
+030/145	fruge	1	f r u g e
+030/147	frug	1	f r u g
+030/149	fruge	1	f r u g e
+030/151	frugä	1	f r u g ä
+030/153	frug	1	f r u g
+030/155	frug	1	f r u g
+030/157	frug	1	f r u g
+030/159	frug	1	f r u g
+030/161	frug	1	f r u g
+030/163	frug	1	f r u g
+030/165	frug	1	f r u g
+030/167	fru	1	f r u
+030/169	frug	1	f r u g
+030/171	fruge	1	f r u g e
+030/173	fruge	1	f r u g e
+030/175	frug	1	f r u g
+030/177	frug	1	f r u g
+030/179	frug	1	f r u g
+030/181	frug	1	f r u g
+030/183	frug	1	f r u g
+031/035	vrau	1	v r au
+031/037	vrau	1	v r au
+031/039	frau	1	f r au
+031/041	frau	1	f r au
+031/043	fro	1	f r o
+031/045	froo	1	f r oo
+031/047	fro	1	f r o
+031/049	fro	1	f r o
+031/051	fro	1	f r o
+031/053	fro	1	f r o
+031/055	fro	1	f r o
+031/057	fro	1	f r o
+031/059	fro	1	f r o
+031/061	fro	1	f r o
+031/063	fro	1	f r o
+031/065	fraou	1	f r aou
+031/067	fro	1	f r o
+031/069	frao	1	f r ao
+031/071	fru	1	f r u
+031/073	froo	1	f r oo
+031/075	frou	1	f r ou
+031/077	frau	1	f r au
+031/079	frau	1	f r au
+031/081	fruch	1	f r u ch
+031/083	fru	1	f r u
+031/085	fru	1	f r u
+031/087	fruch	1	f r u ch
+031/089	fru	1	f r u
+031/091	fruh	1	f r uh
+031/093	fruh	1	f r uh
+031/095	frau	1	f r au
+031/097	fru	1	f r u
+031/099	fru	1	f r u
+031/101	frau	1	f r au
+031/103	fru	1	f r u
+031/105	fru	1	f r u
+031/107	fru	1	f r u
+031/109	fro	1	f r o
+031/111	fru	1	f r u
+031/113	fru	1	f r u
+031/115	fru	1	f r u
+031/117	fru	1	f r u
+031/119	fru	1	f r u
+031/121	fru	1	f r u
+031/123	fru	1	f r u
+031/125	fru	1	f r u
+031/127	fruhj	1	f r uh j
+031/129	frug	1	f r u g
+031/131	frug	1	f r u g
+031/133	fruga	1	f r u g a
+031/135	fruga	1	f r u g a
+031/137	frugga	1	f r u gg a
+031/139	frug	1	f r u g
+031/141	fruge	1	f r u g e
+031/143	frug	1	f r u g
+031/145	fruga	1	f r u g a
+031/147	frugä	1	f r u g ä
+031/149	fruugge	1	f r uu gg e
+031/151	frugä	1	f r u g ä
+031/153	frug	1	f r u g
+031/155	frug	1	f r u g
+031/157	frugg	1	f r u gg
+031/159	frugge	1	f r u gg e
+031/161	frugge	1	f r u gg e
+031/163	frug	1	f r u g
+031/167	frug	1	f r u g
+031/169	weib	1	w ei b
+031/171	frou	1	f r ou
+031/173	frau	1	f r au
+031/175	frug	1	f r u g
+031/177	frug	1	f r u g
+031/179	fru	1	f r u
+032/035	froo	1	f r oo
+032/037	vrau	1	v r au
+032/039	frau	1	f r au
+032/041	fro	1	f r o
+032/043	frao	1	f r ao
+032/045	fro	1	f r o
+032/047	fro	1	f r o
+032/049	fro	1	f r o
+032/051	fro	1	f r o
+032/053	froh	1	f r oh
+032/055	fro	1	f r o
+032/057	fro	1	f r o
+032/059	froh	1	f r oh
+032/061	fro	1	f r o
+032/065	fraou	1	f r aou
+032/069	froo	1	f r oo
+032/071	frou	1	f r ou
+032/073	frau	1	f r au
+032/075	froo	1	f r oo
+032/077	frou	1	f r ou
+032/079	frao	1	f r ao
+032/081	fro	1	f r o
+032/083	fruch	1	f r u ch
+032/085	frau	1	f r au
+032/087	frau	1	f r au
+032/089	frau	1	f r au
+032/091	frau	1	f r au
+032/093	frau	1	f r au
+032/095	frau	1	f r au
+032/097	frau	1	f r au
+032/099	frau	1	f r au
+032/101	frau	1	f r au
+032/103	fru	1	f r u
+032/105	fru	1	f r u
+032/107	frau	1	f r au
+032/111	fru	1	f r u
+032/113	fru	1	f r u
+032/115	fru	1	f r u
+032/117	fru	1	f r u
+032/119	fru	1	f r u
+032/121	fru	1	f r u
+032/123	fru	1	f r u
+032/125	frug	1	f r u g
+032/127	frug	1	f r u g
+032/129	frug	1	f r u g
+032/131	frugga	1	f r u gg a
+032/133	frug	1	f r u g
+032/135	fru	1	f r u
+032/139	fru	1	f r u
+032/141	frug	1	f r u g
+032/143	frugge	1	f r u gg e
+032/145	frugge	1	f r u gg e
+032/147	fruge	1	f r u g e
+032/149	fruge	1	f r u g e
+032/151	frug	1	f r u g
+032/153	frug	1	f r u g
+032/157	frug	1	f r u g
+032/159	fruk	1	f r u k
+032/161	frug	1	f r u g
+032/163	fruch	1	f r u ch
+032/167	fruhje	1	f r uh j e
+032/169	weib	1	w ei b
+032/171	frau	1	f r au
+032/173	frau	1	f r au
+032/175	frug	1	f r u g
+032/177	frug	1	f r u g
+032/179	frug	1	f r u g
+032/181	fruu	1	f r uu
+032/183	frug	1	f r u g
+033/035	frau	1	f r au
+033/037	vrau	1	v r au
+033/039	frau	1	f r au
+033/041	frou	1	f r ou
+033/043	minsch	1	m i n sch
+033/045	fro	1	f r o
+033/047	fro	1	f r o
+033/049	fro	1	f r o
+033/051	fro	1	f r o
+033/053	fro	1	f r o
+033/055	fro	1	f r o
+033/057	froo	1	f r oo
+033/059	frou	1	f r ou
+033/061	froo	1	f r oo
+033/063	fro	1	f r o
+033/065	fro	1	f r o
+033/067	frau	1	f r au
+033/069	froh	1	f r oh
+033/071	fro	1	f r o
+033/073	fro	1	f r o
+033/075	frou	1	f r ou
+033/077	frou	1	f r ou
+033/079	frou	1	f r ou
+033/081	fro	1	f r o
+033/083	fru	1	f r u
+033/085	frau	1	f r au
+033/087	frau	1	f r au
+033/089	frau	1	f r au
+033/091	frau	1	f r au
+033/093	frau	1	f r au
+033/095	frau	1	f r au
+033/097	frau	1	f r au
+033/099	frau	1	f r au
+033/101	frau	1	f r au
+033/103	frau	1	f r au
+033/105	frau	1	f r au
+033/107	frau	1	f r au
+033/109	frau	1	f r au
+033/111	frou	1	f r ou
+033/113	fruh	1	f r uh
+033/115	fru	1	f r u
+033/117	fru	1	f r u
+033/119	fru	1	f r u
+033/121	fru	1	f r u
+033/123	fru	1	f r u
+033/125	fru	1	f r u
+033/127	fruh	1	f r uh
+033/129	frug	1	f r u g
+033/131	fru	1	f r u
+033/133	fru	1	f r u
+033/135	frug	1	f r u g
+033/137	frugg	1	f r u gg
+033/139	fru	1	f r u
+033/141	fruga	1	f r u g a
+033/143	frug	1	f r u g
+033/145	fruuga	1	f r uu g a
+033/147	fruga	1	f r u g a
+033/149	fruga	1	f r u g a
+033/151	fruga	1	f r u g a
+033/153	fruga	1	f r u g a
+033/155	fruga	1	f r u g a
+033/159	fruga	1	f r u g a
+033/161	fruga	1	f r u g a
+033/163	fruge	1	f r u g e
+033/165	fruch	1	f r u ch
+033/167	frug	1	f r u g
+033/169	frug	1	f r u g
+033/173	frug	1	f r u g
+033/175	fru	1	f r u
+033/177	wif	1	w i f
+034/035	frau	1	f r au
+034/039	frou	1	f r ou
+034/041	frou	1	f r ou
+034/043	fräu	1	f r äu
+034/045	fro	1	f r o
+034/047	fro	1	f r o
+034/049	froh	1	f r oh
+034/051	fro	1	f r o
+034/053	froo	1	f r oo
+034/055	fro	1	f r o
+034/057	fro	1	f r o
+034/059	fro	1	f r o
+034/061	fro	1	f r o
+034/063	fro	1	f r o
+034/065	fro	1	f r o
+034/067	freu	1	f r eu
+034/069	frau	1	f r au
+034/071	froh	1	f r oh
+034/073	fro	1	f r o
+034/075	froo	1	f r oo
+034/077	frou	1	f r ou
+034/079	fro	1	f r o
+034/081	fru	1	f r u
+034/083	fro	1	f r o
+034/085	frau	1	f r au
+034/087	frau	1	f r au
+034/089	frah	1	f r ah
+034/091	frau	1	f r au
+034/093	frau	1	f r au
+034/095	frau	1	f r au
+034/097	frau	1	f r au
+034/099	frau	1	f r au
+034/101	frau	1	f r au
+034/103	frau	1	f r au
+034/105	frau	1	f r au
+034/107	frau	1	f r au
+034/109	frau	1	f r au
+034/111	fru	1	f r u
+034/113	fru	1	f r u
+034/115	fru	1	f r u
+034/117	fru	1	f r u
+034/119	fru	1	f r u
+034/121	fru	1	f r u
+034/125	fru	1	f r u
+034/127	fru	1	f r u
+034/129	fruh	1	f r uh
+034/131	fru	1	f r u
+034/133	fru	1	f r u
+034/135	frug	1	f r u g
+034/137	früjä	1	f r ü j ä
+034/139	frugga	1	f r u gg a
+034/141	frug	1	f r u g
+034/143	frug	1	f r u g
+034/145	frug	1	f r u g
+034/147	frug	1	f r u g
+034/149	frug	1	f r u g
+034/151	fruk	1	f r u k
+034/155	fruge	1	f r u g e
+034/157	frugä	1	f r u g ä
+034/161	frug	1	f r u g
+034/163	frug	1	f r u g
+034/165	frugge	1	f r u gg e
+034/167	frug	1	f r u g
+034/169	frugge	1	f r u gg e
+034/173	frug	1	f r u g
+035/035	fro	1	f r o
+035/037	fro	1	f r o
+035/039	frou	1	f r ou
+035/041	wief	1	w ie f
+035/043	wief	1	w ie f
+035/045	wief	1	w ie f
+035/047	fro	1	f r o
+035/049	fro	1	f r o
+035/051	frou	1	f r ou
+035/053	fro	1	f r o
+035/055	froau	1	f r oau
+035/057	fro	1	f r o
+035/059	froh	1	f r oh
+035/061	frou	1	f r ou
+035/063	fro	1	f r o
+035/065	frääu	1	f r ääu
+035/067	frau	1	f r au
+035/069	fro	1	f r o
+035/071	fro	1	f r o
+035/073	fräu	1	f r äu
+035/075	frou	1	f r ou
+035/077	frou	1	f r ou
+035/079	fru	1	f r u
+035/081	fru	1	f r u
+035/083	fru	1	f r u
+035/085	froh	1	f r oh
+035/087	frou	1	f r ou
+035/089	frau	1	f r au
+035/091	fruu	1	f r uu
+035/093	frau	1	f r au
+035/095	fru	1	f r u
+035/097	frau	1	f r au
+035/099	frau	1	f r au
+035/101	frau	1	f r au
+035/103	frau	1	f r au
+035/105	frau	1	f r au
+035/107	frau	1	f r au
+035/109	frau	1	f r au
+035/111	frau	1	f r au
+035/113	fra	1	f r a
+035/115	fru	1	f r u
+035/117	fru	1	f r u
+035/121	fru	1	f r u
+035/123	fru	1	f r u
+035/125	fru	1	f r u
+035/127	fru	1	f r u
+035/129	fru	1	f r u
+035/133	fruch	1	f r u ch
+035/135	fru	1	f r u
+035/137	fru	1	f r u
+035/139	frug	1	f r u g
+035/141	frug	1	f r u g
+035/143	fruhgg	1	f r uh gg
+035/145	frug	1	f r u g
+035/147	frug	1	f r u g
+035/149	frug	1	f r u g
+035/151	frug	1	f r u g
+035/153	frug	1	f r u g
+035/155	fruk	1	f r u k
+035/157	fruk	1	f r u k
+035/165	fru	1	f r u
+035/167	frug	1	f r u g
+035/169	fruuge	1	f r uu g e
+035/171	frug	1	f r u g
+035/173	frug	1	f r u g
+036/033	frau	1	f r au
+036/035	frau	1	f r au
+036/039	frou	1	f r ou
+036/041	frau	1	f r au
+036/043	frau	1	f r au
+036/045	frau	1	f r au
+036/047	froo	1	f r oo
+036/049	fro	1	f r o
+036/051	fro	1	f r o
+036/053	fro	1	f r o
+036/055	froo	1	f r oo
+036/057	frou	1	f r ou
+036/059	fro	1	f r o
+036/061	fräu	1	f r äu
+036/063	frau	1	f r au
+036/065	frou	1	f r ou
+036/067	frau	1	f r au
+036/069	froau	1	f r oau
+036/071	fro	1	f r o
+036/073	froo	1	f r oo
+036/075	frau	1	f r au
+036/077	frau	1	f r au
+036/079	fro	1	f r o
+036/081	fruu	1	f r uu
+036/083	fro	1	f r o
+036/085	frou	1	f r ou
+036/087	froau	1	f r oau
+036/089	froau	1	f r oau
+036/091	frau	1	f r au
+036/095	frau	1	f r au
+036/097	frau	1	f r au
+036/099	frau	1	f r au
+036/101	frau	1	f r au
+036/103	frau	1	f r au
+036/105	fru	1	f r u
+036/107	frau	1	f r au
+036/109	frau	1	f r au
+036/111	frauh	1	f r auh
+036/113	frug	1	f r u g
+036/115	frujj	1	f r u jj
+036/117	frou	1	f r ou
+036/119	fru	1	f r u
+036/121	fruh	1	f r uh
+036/123	fruh	1	f r uh
+036/125	fru	1	f r u
+036/127	fru	1	f r u
+036/129	fru	1	f r u
+036/133	fru	1	f r u
+036/135	fru	1	f r u
+036/137	fru	1	f r u
+036/139	fruh	1	f r uh
+036/141	frugg	1	f r u gg
+036/143	frug	1	f r u g
+036/147	fruk	1	f r u k
+036/149	frug	1	f r u g
+036/151	frug	1	f r u g
+036/153	fruk	1	f r u k
+036/155	frug	1	f r u g
+036/161	frugg	1	f r u gg
+036/163	froug	1	f r ou g
+036/165	fruch	1	f r u ch
+036/167	frug	1	f r u g
+036/169	frug	1	f r u g
+036/171	frug	1	f r u g
+037/033	frau	1	f r au
+037/035	fro	1	f r o
+037/037	frou	1	f r ou
+037/039	frau	1	f r au
+037/041	frau	1	f r au
+037/043	frau	1	f r au
+037/045	frou	1	f r ou
+037/047	fru	1	f r u
+037/049	fraou	1	f r aou
+037/051	froeu	1	f r oeu
+037/053	fro	1	f r o
+037/055	fro	1	f r o
+037/057	fro	1	f r o
+037/059	frou	1	f r ou
+037/061	fru	1	f r u
+037/063	fru	1	f r u
+037/065	frou	1	f r ou
+037/067	frau	1	f r au
+037/069	frau	1	f r au
+037/071	frau	1	f r au
+037/073	frau	1	f r au
+037/075	frau	1	f r au
+037/077	frau	1	f r au
+037/079	frau	1	f r au
+037/081	frou	1	f r ou
+037/083	frau	1	f r au
+037/085	froau	1	f r oau
+037/087	frou	1	f r ou
+037/089	frou	1	f r ou
+037/091	fru	1	f r u
+037/093	frau	1	f r au
+037/095	frau	1	f r au
+037/097	frau	1	f r au
+037/099	frau	1	f r au
+037/101	froau	1	f r oau
+037/105	frau	1	f r au
+037/107	fru	1	f r u
+037/109	frau	1	f r au
+037/111	frau	1	f r au
+037/113	fru	1	f r u
+037/115	fru	1	f r u
+037/117	frue	1	f r ue
+037/119	fru	1	f r u
+037/121	fru	1	f r u
+037/123	fru	1	f r u
+037/125	fru	1	f r u
+037/127	fru	1	f r u
+037/129	fru	1	f r u
+037/131	fru	1	f r u
+037/133	frau	1	f r au
+037/135	fru	1	f r u
+037/137	fru	1	f r u
+037/139	fruh	1	f r uh
+037/141	frug	1	f r u g
+037/145	fruk	1	f r u k
+037/147	frugg	1	f r u gg
+037/149	frug	1	f r u g
+037/151	frug	1	f r u g
+037/153	fru	1	f r u
+037/155	frug	1	f r u g
+037/157	frug	1	f r u g
+037/159	wruck	1	w r u ck
+037/163	frugg	1	f r u gg
+037/171	fru	1	f r u
+038/033	frou	1	f r ou
+038/035	frou	1	f r ou
+038/037	frau	1	f r au
+038/039	frau	1	f r au
+038/041	frau	1	f r au
+038/043	frau	1	f r au
+038/045	frau	1	f r au
+038/047	fro	1	f r o
+038/049	frou	1	f r ou
+038/051	fru	1	f r u
+038/053	frou	1	f r ou
+038/055	frou	1	f r ou
+038/057	fraou	1	f r aou
+038/059	frou	1	f r ou
+038/061	frou	1	f r ou
+038/063	fro	1	f r o
+038/065	frau	1	f r au
+038/067	frau	1	f r au
+038/069	fru	1	f r u
+038/071	fru	1	f r u
+038/073	frau	1	f r au
+038/075	frau	1	f r au
+038/077	frau	1	f r au
+038/079	frau	1	f r au
+038/081	fru	1	f r u
+038/083	frau	1	f r au
+038/085	frau	1	f r au
+038/087	frau	1	f r au
+038/089	frau	1	f r au
+038/091	frau	1	f r au
+038/093	frau	1	f r au
+038/095	frau	1	f r au
+038/097	frau	1	f r au
+038/099	frau	1	f r au
+038/101	frau	1	f r au
+038/103	frau	1	f r au
+038/105	fru	1	f r u
+038/107	frau	1	f r au
+038/109	frau	1	f r au
+038/111	frau	1	f r au
+038/113	fru	1	f r u
+038/115	fru	1	f r u
+038/117	fru	1	f r u
+038/119	fro	1	f r o
+038/121	fru	1	f r u
+038/123	fru	1	f r u
+038/125	fru	1	f r u
+038/127	fru	1	f r u
+038/129	fru	1	f r u
+038/131	frau	1	f r au
+038/133	frau	1	f r au
+038/135	frau	1	f r au
+038/145	frug	1	f r u g
+038/147	fruk	1	f r u k
+038/149	frug	1	f r u g
+038/151	frug	1	f r u g
+038/153	frugg	1	f r u gg
+038/155	frug	1	f r u g
+038/159	frug	1	f r u g
+038/161	frug	1	f r u g
+038/163	frug	1	f r u g
+039/029	vrau	1	v r au
+039/031	fraur	1	f r au r
+039/033	frau	1	f r au
+039/035	frau	1	f r au
+039/037	froh	1	f r oh
+039/039	frau	1	f r au
+039/041	frou	1	f r ou
+039/043	frou	1	f r ou
+039/045	frau	1	f r au
+039/047	frou	1	f r ou
+039/049	froh	1	f r oh
+039/051	frou	1	f r ou
+039/053	fro	1	f r o
+039/055	frou	1	f r ou
+039/057	fro	1	f r o
+039/059	frou	1	f r ou
+039/061	froo	1	f r oo
+039/063	fru	1	f r u
+039/065	fru	1	f r u
+039/067	frou	1	f r ou
+039/069	fru	1	f r u
+039/071	fru	1	f r u
+039/073	frau	1	f r au
+039/075	frau	1	f r au
+039/077	frau	1	f r au
+039/079	frau	1	f r au
+039/081	frau	1	f r au
+039/083	frau	1	f r au
+039/085	frou	1	f r ou
+039/087	frau	1	f r au
+039/089	frau	1	f r au
+039/091	froau	1	f r oau
+039/093	frau	1	f r au
+039/095	frau	1	f r au
+039/097	frau	1	f r au
+039/099	frau	1	f r au
+039/101	frau	1	f r au
+039/103	frau	1	f r au
+039/105	frau	1	f r au
+039/107	frau	1	f r au
+039/109	frau	1	f r au
+039/111	frau	1	f r au
+039/113	frau	1	f r au
+039/115	froj	1	f r o j
+039/117	frou	1	f r ou
+039/119	fru	1	f r u
+039/121	fro	1	f r o
+039/123	fru	1	f r u
+039/125	fru	1	f r u
+039/127	fru	1	f r u
+039/129	frau	1	f r au
+039/131	frau	1	f r au
+039/133	fro	1	f r o
+039/135	froh	1	f r oh
+039/137	fruh	1	f r uh
+039/139	weib	1	w ei b
+039/149	frug	1	f r u g
+039/151	frug	1	f r u g
+039/153	frug	1	f r u g
+039/155	frugg	1	f r u gg
+040/029	vrouw	1	v r ou w
+040/031	vrau	1	v r au
+040/033	frau	1	f r au
+040/035	fru	1	f r u
+040/037	vrouw	1	v r ou w
+040/039	frau	1	f r au
+040/041	frau	1	f r au
+040/043	frou	1	f r ou
+040/045	fruw	1	f r u w
+040/047	frubb	1	f r u bb
+040/049	fro	1	f r o
+040/051	fröe	1	f r öe
+040/053	frau	1	f r au
+040/055	frou	1	f r ou
+040/057	frau	1	f r au
+040/059	frou	1	f r ou
+040/061	fruu	1	f r uu
+040/063	fru	1	f r u
+040/065	fru	1	f r u
+040/067	fru	1	f r u
+040/069	fru	1	f r u
+040/071	fru	1	f r u
+040/073	frü	1	f r ü
+040/075	fru	1	f r u
+040/077	fru	1	f r u
+040/079	fro	1	f r o
+040/081	froau	1	f r oau
+040/083	froau	1	f r oau
+040/085	frau	1	f r au
+040/087	frau	1	f r au
+040/089	frau	1	f r au
+040/091	frau	1	f r au
+040/093	frauu	1	f r auu
+040/095	frau	1	f r au
+040/097	fru	1	f r u
+040/099	frau	1	f r au
+040/101	frau	1	f r au
+040/103	frau	1	f r au
+040/105	frauh	1	f r auh
+040/107	frau	1	f r au
+040/109	frau	1	f r au
+040/111	fru	1	f r u
+040/113	fru	1	f r u
+040/115	frau	1	f r au
+040/119	fru	1	f r u
+040/121	fruä	1	f r uä
+040/123	fru	1	f r u
+040/125	frau	1	f r au
+040/127	frau	1	f r au
+040/129	frau	1	f r au
+040/131	frau	1	f r au
+040/133	weiw	1	w ei w
+040/135	froa	1	f r oa
+040/137	fro	1	f r o
+040/141	froh	1	f r oh
+040/143	froh	1	f r oh
+040/149	frau	1	f r au
+040/153	frug	1	f r u g
+040/155	fruk	1	f r u k
+041/031	frau	1	f r au
+041/033	frau	1	f r au
+041/035	frau	1	f r au
+041/037	frau	1	f r au
+041/039	fruw	1	f r u w
+041/041	fru	1	f r u
+041/043	fruw	1	f r u w
+041/045	frubb	1	f r u bb
+041/047	fruww	1	f r u ww
+041/049	fru	1	f r u
+041/051	fru	1	f r u
+041/053	frou	1	f r ou
+041/055	frou	1	f r ou
+041/057	frou	1	f r ou
+041/059	frou	1	f r ou
+041/061	fru	1	f r u
+041/063	fru	1	f r u
+041/065	fru	1	f r u
+041/067	fru	1	f r u
+041/069	fru	1	f r u
+041/071	fru	1	f r u
+041/073	fru	1	f r u
+041/075	frü	1	f r ü
+041/077	fru	1	f r u
+041/079	fru	1	f r u
+041/081	frou	1	f r ou
+041/083	frou	1	f r ou
+041/085	frau	1	f r au
+041/087	frau	1	f r au
+041/089	frauu	1	f r auu
+041/091	frau	1	f r au
+041/093	frau	1	f r au
+041/095	frau	1	f r au
+041/097	frau	1	f r au
+041/099	frau	1	f r au
+041/101	frau	1	f r au
+041/103	frau	1	f r au
+041/105	frau	1	f r au
+041/107	frau	1	f r au
+041/109	fru	1	f r u
+041/111	frau	1	f r au
+041/113	fru	1	f r u
+041/115	fru	1	f r u
+041/117	fru	1	f r u
+041/119	fru	1	f r u
+041/121	fru	1	f r u
+041/123	fru	1	f r u
+041/125	frau	1	f r au
+041/127	frau	1	f r au
+041/129	frau	1	f r au
+041/131	frau	1	f r au
+041/133	fro	1	f r o
+041/135	fro	1	f r o
+041/139	fro	1	f r o
+041/141	weiw	1	w ei w
+041/145	frau	1	f r au
+041/147	frau	1	f r au
+041/153	frug	1	f r u g
+041/155	frug	1	f r u g
+041/157	fruh	1	f r uh
+041/159	frug	1	f r u g
+041/161	frug	1	f r u g
+042/033	frau	1	f r au
+042/035	frau	1	f r au
+042/037	frau	1	f r au
+042/039	vrau	1	v r au
+042/041	fruw	1	f r u w
+042/043	fruw	1	f r u w
+042/045	frubb	1	f r u bb
+042/047	fruw	1	f r u w
+042/051	wiew	1	w ie w
+042/053	freo	1	f r eo
+042/055	frau	1	f r au
+042/057	fräu	1	f r äu
+042/059	fru	1	f r u
+042/061	friu	1	f r iu
+042/063	fru	1	f r u
+042/065	fru	1	f r u
+042/067	fru	1	f r u
+042/069	fru	1	f r u
+042/071	fru	1	f r u
+042/073	frü	1	f r ü
+042/075	fru	1	f r u
+042/077	fru	1	f r u
+042/079	fru	1	f r u
+042/081	fru	1	f r u
+042/083	fru	1	f r u
+042/085	fru	1	f r u
+042/087	frau	1	f r au
+042/089	fru	1	f r u
+042/091	frau	1	f r au
+042/093	frau	1	f r au
+042/095	frau	1	f r au
+042/097	frau	1	f r au
+042/099	frau	1	f r au
+042/101	frau	1	f r au
+042/103	fru	1	f r u
+042/105	frau	1	f r au
+042/107	frau	1	f r au
+042/109	frau	1	f r au
+042/111	frau	1	f r au
+042/113	frau	1	f r au
+042/115	frau	1	f r au
+042/117	fru	1	f r u
+042/119	fru	1	f r u
+042/121	fru	1	f r u
+042/123	frau	1	f r au
+042/125	frau	1	f r au
+042/127	frau	1	f r au
+042/129	frau	1	f r au
+042/131	weib	1	w ei b
+042/133	frou	1	f r ou
+042/135	fro	1	f r o
+042/137	fro	1	f r o
+042/139	frau	1	f r au
+042/141	fro	1	f r o
+042/143	waib	1	w ai b
+042/145	froh	1	f r oh
+042/147	foh	1	f oh
+042/149	fro	1	f r o
+042/151	fro	1	f r o
+042/157	frug	1	f r u g
+042/159	frug	1	f r u g
+042/161	frug	1	f r u g
+043/033	frau	1	f r au
+043/035	frau	1	f r au
+043/037	frau	1	f r au
+043/039	frau	1	f r au
+043/041	frau	1	f r au
+043/043	fruw	1	f r u w
+043/045	frubb	1	f r u bb
+043/047	frub	1	f r u b
+043/049	fruww	1	f r u ww
+043/051	wiew	1	w ie w
+043/053	fru	1	f r u
+043/055	frau	1	f r au
+043/057	fru	1	f r u
+043/059	fru	1	f r u
+043/061	fru	1	f r u
+043/063	fru	1	f r u
+043/065	fru	1	f r u
+043/067	fru	1	f r u
+043/069	fru	1	f r u
+043/071	frau	1	f r au
+043/073	fruh	1	f r uh
+043/075	fru	1	f r u
+043/077	fru	1	f r u
+043/079	fru	1	f r u
+043/081	fru	1	f r u
+043/083	fruh	1	f r uh
+043/085	fru	1	f r u
+043/087	fru	1	f r u
+043/089	fru	1	f r u
+043/091	fru	1	f r u
+043/093	frau	1	f r au
+043/095	frau	1	f r au
+043/097	frau	1	f r au
+043/099	frau	1	f r au
+043/101	frau	1	f r au
+043/103	frau	1	f r au
+043/105	frau	1	f r au
+043/107	frau	1	f r au
+043/109	frou	1	f r ou
+043/111	frau	1	f r au
+043/113	frau	1	f r au
+043/115	frau	1	f r au
+043/117	frau	1	f r au
+043/119	frau	1	f r au
+043/121	fru	1	f r u
+043/123	frau	1	f r au
+043/125	frau	1	f r au
+043/127	frau	1	f r au
+043/129	frau	1	f r au
+043/131	froo	1	f r oo
+043/133	fro	1	f r o
+043/135	frou	1	f r ou
+043/137	froo	1	f r oo
+043/141	waib	1	w ai b
+043/143	frau	1	f r au
+043/145	fro	1	f r o
+043/151	fra	1	f r a
+043/153	froh	1	f r oh
+043/159	frug	1	f r u g
+043/161	frug	1	f r u g
+044/033	frau	1	f r au
+044/035	frau	1	f r au
+044/039	frau	1	f r au
+044/041	fruww	1	f r u ww
+044/043	fruww	1	f r u ww
+044/045	frubb	1	f r u bb
+044/047	fruww	1	f r u ww
+044/049	fruww	1	f r u ww
+044/051	frubb	1	f r u bb
+044/053	freu	1	f r eu
+044/055	friu	1	f r iu
+044/057	fruu	1	f r uu
+044/059	fru	1	f r u
+044/061	friu	1	f r iu
+044/063	fru	1	f r u
+044/065	fru	1	f r u
+044/067	friu	1	f r iu
+044/069	friu	1	f r iu
+044/071	fru	1	f r u
+044/073	friu	1	f r iu
+044/075	fru	1	f r u
+044/077	fru	1	f r u
+044/079	fru	1	f r u
+044/081	fru	1	f r u
+044/083	fru	1	f r u
+044/085	fruh	1	f r uh
+044/087	fru	1	f r u
+044/089	frau	1	f r au
+044/091	frau	1	f r au
+044/093	frau	1	f r au
+044/095	frau	1	f r au
+044/097	frau	1	f r au
+044/099	frau	1	f r au
+044/101	frau	1	f r au
+044/103	frau	1	f r au
+044/105	froau	1	f r oau
+044/107	frau	1	f r au
+044/109	frau	1	f r au
+044/111	frau	1	f r au
+044/113	frau	1	f r au
+044/115	frau	1	f r au
+044/117	frou	1	f r ou
+044/119	fru	1	f r u
+044/121	frau	1	f r au
+044/123	frau	1	f r au
+044/125	fru	1	f r u
+044/127	weib	1	w ei b
+044/129	frau	1	f r au
+044/131	froo	1	f r oo
+044/133	fro	1	f r o
+044/135	froh	1	f r oh
+044/137	fro	1	f r o
+044/141	froh	1	f r oh
+044/143	fro	1	f r o
+044/145	fro	1	f r o
+044/149	weib	1	w ei b
+044/151	fro	1	f r o
+044/153	froh	1	f r oh
+045/033	fro	1	f r o
+045/035	frau	1	f r au
+045/037	frau	1	f r au
+045/039	frau	1	f r au
+045/041	fruww	1	f r u ww
+045/043	fruww	1	f r u ww
+045/045	frouww	1	f r ou ww
+045/047	fruww	1	f r u ww
+045/049	fruww	1	f r u ww
+045/051	frübb	1	f r ü bb
+045/053	frubb	1	f r u bb
+045/055	fruww	1	f r u ww
+045/057	friu	1	f r iu
+045/059	fru	1	f r u
+045/061	friu	1	f r iu
+045/063	friu	1	f r iu
+045/065	friu	1	f r iu
+045/067	friu	1	f r iu
+045/069	friu	1	f r iu
+045/071	friuh	1	f r iuh
+045/073	fru	1	f r u
+045/075	frau	1	f r au
+045/077	fru	1	f r u
+045/079	fru	1	f r u
+045/081	fru	1	f r u
+045/083	fru	1	f r u
+045/085	fru	1	f r u
+045/087	fru	1	f r u
+045/089	fru	1	f r u
+045/091	frau	1	f r au
+045/093	frau	1	f r au
+045/095	froau	1	f r oau
+045/097	fru	1	f r u
+045/099	frau	1	f r au
+045/101	fraou	1	f r aou
+045/103	frau	1	f r au
+045/105	frau	1	f r au
+045/107	frau	1	f r au
+045/109	frau	1	f r au
+045/111	frau	1	f r au
+045/113	frau	1	f r au
+045/115	frau	1	f r au
+045/117	frau	1	f r au
+045/119	frau	1	f r au
+045/121	frau	1	f r au
+045/123	frau	1	f r au
+045/125	frau	1	f r au
+045/127	fro	1	f r o
+045/129	frau	1	f r au
+045/131	frau	1	f r au
+045/133	fro	1	f r o
+045/135	fro	1	f r o
+045/137	froo	1	f r oo
+045/139	fro	1	f r o
+045/141	frou	1	f r ou
+045/143	froh	1	f r oh
+045/145	froh	1	f r oh
+045/155	frau	1	f r au
+046/031	fraou	1	f r aou
+046/033	frau	1	f r au
+046/035	frau	1	f r au
+046/037	frau	1	f r au
+046/039	frau	1	f r au
+046/041	frau	1	f r au
+046/043	fruww	1	f r u ww
+046/045	frub	1	f r u b
+046/047	frubb	1	f r u bb
+046/049	frubb	1	f r u bb
+046/051	frubb	1	f r u bb
+046/053	früw	1	f r ü w
+046/055	frum	1	f r u m
+046/057	fruw	1	f r u w
+046/059	fru	1	f r u
+046/061	fru	1	f r u
+046/063	fru	1	f r u
+046/065	friu	1	f r iu
+046/067	friu	1	f r iu
+046/069	frou	1	f r ou
+046/071	friu	1	f r iu
+046/073	friu	1	f r iu
+046/075	fröu	1	f r öu
+046/077	fru	1	f r u
+046/079	fru	1	f r u
+046/081	fru	1	f r u
+046/083	fru	1	f r u
+046/085	fru	1	f r u
+046/087	fru	1	f r u
+046/089	fru	1	f r u
+046/091	frau	1	f r au
+046/093	frau	1	f r au
+046/095	frau	1	f r au
+046/097	frau	1	f r au
+046/099	frau	1	f r au
+046/101	frau	1	f r au
+046/103	fru	1	f r u
+046/105	fro	1	f r o
+046/107	frau	1	f r au
+046/109	frau	1	f r au
+046/111	frou	1	f r ou
+046/113	frau	1	f r au
+046/115	frau	1	f r au
+046/117	frau	1	f r au
+046/119	frau	1	f r au
+046/121	frau	1	f r au
+046/123	weibe	1	w ei b e
+046/125	frau	1	f r au
+046/127	weibe	1	w ei b e
+046/129	frau	1	f r au
+046/131	frau	1	f r au
+046/133	froh	1	f r oh
+046/135	wäbe	1	w ä b e
+046/137	fro	1	f r o
+046/139	frau	1	f r au
+046/141	frau	1	f r au
+046/143	frou	1	f r ou
+046/155	frou	1	f r ou
+047/031	froau	1	f r oau
+047/033	froh	1	f r oh
+047/035	frau	1	f r au
+047/037	frau	1	f r au
+047/039	frau	1	f r au
+047/041	frau	1	f r au
+047/043	frau	1	f r au
+047/045	frau	1	f r au
+047/047	frugg	1	f r u gg
+047/049	fruww	1	f r u ww
+047/051	friu	1	f r iu
+047/053	frübb	1	f r ü bb
+047/055	frugg	1	f r u gg
+047/057	fribb	1	f r i bb
+047/059	fruh	1	f r uh
+047/061	fräu	1	f r äu
+047/063	fröu	1	f r öu
+047/065	friu	1	f r iu
+047/067	frui	1	f r ui
+047/069	fru	1	f r u
+047/071	fru	1	f r u
+047/073	friu	1	f r iu
+047/075	fräu	1	f r äu
+047/077	fru	1	f r u
+047/079	fru	1	f r u
+047/081	fruh	1	f r uh
+047/083	fru	1	f r u
+047/085	fruu	1	f r uu
+047/087	fru	1	f r u
+047/089	fru	1	f r u
+047/091	fru	1	f r u
+047/093	frau	1	f r au
+047/095	frua	1	f r ua
+047/097	frau	1	f r au
+047/099	froa	1	f r oa
+047/101	froua	1	f r oua
+047/103	fru	1	f r u
+047/105	froo	1	f r oo
+047/107	frou	1	f r ou
+047/109	frou	1	f r ou
+047/111	frau	1	f r au
+047/113	frau	1	f r au
+047/115	frau	1	f r au
+047/117	frau	1	f r au
+047/119	frau	1	f r au
+047/123	frau	1	f r au
+047/125	weibe	1	w ei b e
+047/127	frau	1	f r au
+047/129	frau	1	f r au
+047/131	wäbe	1	w ä b e
+047/133	frau	1	f r au
+047/135	froo	1	f r oo
+047/137	froo	1	f r oo
+047/139	frau	1	f r au
+047/141	frau	1	f r au
+047/147	froo	1	f r oo
+047/149	froo	1	f r oo
+047/151	fro	1	f r o
+047/159	frou	1	f r ou
+048/021	frouw	1	f r ou w
+048/023	frau	1	f r au
+048/027	vrouw	1	v r ou w
+048/029	frou	1	f r ou
+048/031	frou	1	f r ou
+048/033	frau	1	f r au
+048/035	frau	1	f r au
+048/037	frau	1	f r au
+048/039	frau	1	f r au
+048/041	frau	1	f r au
+048/045	frau	1	f r au
+048/047	frau	1	f r au
+048/049	frugg	1	f r u gg
+048/051	fruw	1	f r u w
+048/053	frugj	1	f r u g j
+048/055	friuj	1	f r iu j
+048/057	friu	1	f r iu
+048/059	friu	1	f r iu
+048/061	frou	1	f r ou
+048/063	fru	1	f r u
+048/065	friu	1	f r iu
+048/067	friu	1	f r iu
+048/069	frou	1	f r ou
+048/071	froh	1	f r oh
+048/073	frou	1	f r ou
+048/075	frou	1	f r ou
+048/077	fru	1	f r u
+048/079	fru	1	f r u
+048/081	fru	1	f r u
+048/083	fruh	1	f r uh
+048/085	fru	1	f r u
+048/087	fru	1	f r u
+048/089	frau	1	f r au
+048/091	frau	1	f r au
+048/093	fru	1	f r u
+048/095	frau	1	f r au
+048/099	frau	1	f r au
+048/101	fra	1	f r a
+048/103	frau	1	f r au
+048/105	frou	1	f r ou
+048/107	frau	1	f r au
+048/109	frau	1	f r au
+048/111	frau	1	f r au
+048/113	frau	1	f r au
+048/115	frau	1	f r au
+048/119	frau	1	f r au
+048/123	frau	1	f r au
+048/125	frau	1	f r au
+048/127	frau	1	f r au
+048/129	frau	1	f r au
+048/131	frau	1	f r au
+048/133	frau	1	f r au
+048/135	frau	1	f r au
+048/137	frau	1	f r au
+048/139	frau	1	f r au
+048/141	froa	1	f r oa
+048/143	froo	1	f r oo
+048/145	frou	1	f r ou
+048/147	froh	1	f r oh
+048/153	fro	1	f r o
+048/157	frou	1	f r ou
+048/159	frau	1	f r au
+049/019	frau	1	f r au
+049/021	frau	1	f r au
+049/023	frau	1	f r au
+049/025	frau	1	f r au
+049/027	frou	1	f r ou
+049/029	frou	1	f r ou
+049/031	frau	1	f r au
+049/033	frau	1	f r au
+049/035	frau	1	f r au
+049/037	frau	1	f r au
+049/039	frau	1	f r au
+049/041	frau	1	f r au
+049/043	frau	1	f r au
+049/045	frugg	1	f r u gg
+049/047	frau	1	f r au
+049/049	frugg	1	f r u gg
+049/051	frugg	1	f r u gg
+049/053	frugg	1	f r u gg
+049/055	frugg	1	f r u gg
+049/057	frugg	1	f r u gg
+049/059	frugg	1	f r u gg
+049/061	friu	1	f r iu
+049/063	friiu	1	f r iiu
+049/065	friu	1	f r iu
+049/067	friu	1	f r iu
+049/069	fru	1	f r u
+049/071	frou	1	f r ou
+049/073	fra	1	f r a
+049/077	fru	1	f r u
+049/079	fru	1	f r u
+049/081	fru	1	f r u
+049/083	fru	1	f r u
+049/085	fru	1	f r u
+049/087	frau	1	f r au
+049/089	frau	1	f r au
+049/091	frau	1	f r au
+049/093	frau	1	f r au
+049/095	fro	1	f r o
+049/097	fra	1	f r a
+049/099	fra	1	f r a
+049/101	frau	1	f r au
+049/103	frau	1	f r au
+049/105	frau	1	f r au
+049/107	frau	1	f r au
+049/109	frau	1	f r au
+049/111	frau	1	f r au
+049/113	frou	1	f r ou
+049/115	frau	1	f r au
+049/117	frau	1	f r au
+049/119	frau	1	f r au
+049/121	frau	1	f r au
+049/123	frau	1	f r au
+049/125	weiwe	1	w ei w e
+049/127	weibe	1	w ei b e
+049/129	frau	1	f r au
+049/131	froh	1	f r oh
+049/133	fruu	1	f r uu
+049/135	frau	1	f r au
+049/137	frau	1	f r au
+049/139	frau	1	f r au
+049/141	froa	1	f r oa
+049/143	froa	1	f r oa
+049/145	froau	1	f r oau
+049/147	fro	1	f r o
+049/151	froo	1	f r oo
+050/021	vrau	1	v r au
+050/023	fra	1	f r a
+050/025	frau	1	f r au
+050/027	frau	1	f r au
+050/029	frau	1	f r au
+050/031	frou	1	f r ou
+050/033	frau	1	f r au
+050/035	frau	1	f r au
+050/037	frau	1	f r au
+050/039	frau	1	f r au
+050/041	frau	1	f r au
+050/043	frau	1	f r au
+050/047	frügg	1	f r ü gg
+050/049	frug	1	f r u g
+050/051	frugg	1	f r u gg
+050/053	frugg	1	f r u gg
+050/055	frugg	1	f r u gg
+050/057	frujj	1	f r u jj
+050/059	frugg	1	f r u gg
+050/061	frugg	1	f r u gg
+050/063	friu	1	f r iu
+050/065	frö	1	f r ö
+050/067	fru	1	f r u
+050/069	fräu	1	f r äu
+050/071	froü	1	f r oü
+050/073	fru	1	f r u
+050/075	fra	1	f r a
+050/077	fru	1	f r u
+050/079	frau	1	f r au
+050/081	fru	1	f r u
+050/083	fru	1	f r u
+050/085	frau	1	f r au
+050/087	fraw	1	f r a w
+050/089	frau	1	f r au
+050/091	fra	1	f r a
+050/093	fraa	1	f r aa
+050/095	froa	1	f r oa
+050/097	fra	1	f r a
+050/099	fra	1	f r a
+050/101	frau	1	f r au
+050/103	frau	1	f r au
+050/105	frau	1	f r au
+050/107	frau	1	f r au
+050/109	frau	1	f r au
+050/111	frau	1	f r au
+050/113	frau	1	f r au
+050/115	frau	1	f r au
+050/117	frau	1	f r au
+050/119	fra	1	f r a
+050/121	frau	1	f r au
+050/125	frau	1	f r au
+050/127	frau	1	f r au
+050/129	fro	1	f r o
+050/131	fro	1	f r o
+050/133	frau	1	f r au
+050/135	frau	1	f r au
+050/137	frau	1	f r au
+050/139	froa	1	f r oa
+050/141	froa	1	f r oa
+050/143	froa	1	f r oa
+050/145	froa	1	f r oa
+050/147	froh	1	f r oh
+050/149	froh	1	f r oh
+050/151	froo	1	f r oo
+050/155	fro	1	f r o
+050/157	weebe	1	w ee b e
+050/159	fro	1	f r o
+050/161	fro	1	f r o
+051/023	frauw	1	f r au w
+051/025	frau	1	f r au
+051/027	frau	1	f r au
+051/029	frau	1	f r au
+051/031	frau	1	f r au
+051/033	frau	1	f r au
+051/035	frau	1	f r au
+051/037	frau	1	f r au
+051/039	frau	1	f r au
+051/041	frau	1	f r au
+051/043	frau	1	f r au
+051/045	frogg	1	f r o gg
+051/047	frogg	1	f r o gg
+051/049	frugg	1	f r u gg
+051/051	frugg	1	f r u gg
+051/053	frogg	1	f r o gg
+051/055	frugg	1	f r u gg
+051/057	frugg	1	f r u gg
+051/059	frugg	1	f r u gg
+051/061	fruw	1	f r u w
+051/063	friu	1	f r iu
+051/065	friu	1	f r iu
+051/067	fröu	1	f r öu
+051/069	fröuw	1	f r öu w
+051/071	fro	1	f r o
+051/073	fru	1	f r u
+051/075	frau	1	f r au
+051/077	fru	1	f r u
+051/079	frau	1	f r au
+051/081	fru	1	f r u
+051/083	frau	1	f r au
+051/085	frau	1	f r au
+051/087	frää	1	f r ää
+051/089	frau	1	f r au
+051/091	fra	1	f r a
+051/093	fra	1	f r a
+051/095	froa	1	f r oa
+051/097	fraa	1	f r aa
+051/099	frah	1	f r ah
+051/101	frah	1	f r ah
+051/103	fra	1	f r a
+051/105	frah	1	f r ah
+051/107	fra	1	f r a
+051/109	frau	1	f r au
+051/111	frau	1	f r au
+051/113	frau	1	f r au
+051/115	frau	1	f r au
+051/117	frau	1	f r au
+051/119	frau	1	f r au
+051/121	frau	1	f r au
+051/123	frau	1	f r au
+051/125	frau	1	f r au
+051/127	fro	1	f r o
+051/129	froh	1	f r oh
+051/131	froh	1	f r oh
+051/133	froa	1	f r oa
+051/135	frau	1	f r au
+051/137	frau	1	f r au
+051/139	froa	1	f r oa
+051/141	froa	1	f r oa
+051/143	frou	1	f r ou
+051/145	frou	1	f r ou
+051/147	frau	1	f r au
+051/149	froa	1	f r oa
+051/151	froa	1	f r oa
+051/153	froh	1	f r oh
+051/155	froh	1	f r oh
+051/157	froo	1	f r oo
+052/023	frauw	1	f r au w
+052/025	vrauw	1	v r au w
+052/027	frau	1	f r au
+052/029	frau	1	f r au
+052/031	frau	1	f r au
+052/033	fräu	1	f r äu
+052/035	frau	1	f r au
+052/037	frau	1	f r au
+052/039	frau	1	f r au
+052/041	frau	1	f r au
+052/043	frau	1	f r au
+052/045	frau	1	f r au
+052/047	frugg	1	f r u gg
+052/049	frugg	1	f r u gg
+052/051	frujj	1	f r u jj
+052/053	frogg	1	f r o gg
+052/057	frogg	1	f r o gg
+052/059	frogg	1	f r o gg
+052/061	frugg	1	f r u gg
+052/063	fru	1	f r u
+052/065	fröu	1	f r öu
+052/067	fru	1	f r u
+052/069	frou	1	f r ou
+052/071	fro	1	f r o
+052/073	frouh	1	f r ouh
+052/075	frau	1	f r au
+052/077	frau	1	f r au
+052/079	frau	1	f r au
+052/081	frau	1	f r au
+052/083	frau	1	f r au
+052/085	frau	1	f r au
+052/087	frau	1	f r au
+052/089	frau	1	f r au
+052/091	fraa	1	f r aa
+052/093	fraa	1	f r aa
+052/095	fra	1	f r a
+052/097	frah	1	f r ah
+052/099	fra	1	f r a
+052/101	fra	1	f r a
+052/103	fra	1	f r a
+052/105	fraa	1	f r aa
+052/107	frah	1	f r ah
+052/109	frah	1	f r ah
+052/111	frau	1	f r au
+052/113	frau	1	f r au
+052/115	frau	1	f r au
+052/117	frau	1	f r au
+052/121	frau	1	f r au
+052/123	frau	1	f r au
+052/125	frau	1	f r au
+052/127	froo	1	f r oo
+052/129	fro	1	f r o
+052/131	fro	1	f r o
+052/133	fro	1	f r o
+052/135	fro	1	f r o
+052/137	frauh	1	f r auh
+052/139	froa	1	f r oa
+052/141	frau	1	f r au
+052/143	fro	1	f r o
+052/145	fro	1	f r o
+052/147	froa	1	f r oa
+052/149	froa	1	f r oa
+052/151	froa	1	f r oa
+052/153	froa	1	f r oa
+052/155	frooh	1	f r ooh
+052/157	froah	1	f r oah
+052/159	frau	1	f r au
+053/023	frau	1	f r au
+053/025	frau	1	f r au
+053/027	frau	1	f r au
+053/029	frau	1	f r au
+053/031	frau	1	f r au
+053/033	frau	1	f r au
+053/035	frau	1	f r au
+053/037	frauh	1	f r auh
+053/039	frau	1	f r au
+053/041	frau	1	f r au
+053/043	frau	1	f r au
+053/045	frau	1	f r au
+053/047	frugg	1	f r u gg
+053/049	frugg	1	f r u gg
+053/051	frugg	1	f r u gg
+053/053	frugg	1	f r u gg
+053/055	frugg	1	f r u gg
+053/057	frugg	1	f r u gg
+053/059	frugg	1	f r u gg
+053/061	frugg	1	f r u gg
+053/063	fru	1	f r u
+053/065	fröu	1	f r öu
+053/067	frou	1	f r ou
+053/069	fro	1	f r o
+053/071	fru	1	f r u
+053/073	fru	1	f r u
+053/075	frau	1	f r au
+053/077	frau	1	f r au
+053/079	frau	1	f r au
+053/081	frau	1	f r au
+053/083	frau	1	f r au
+053/085	frau	1	f r au
+053/087	fräh	1	f r äh
+053/089	frau	1	f r au
+053/091	frau	1	f r au
+053/093	fraa	1	f r aa
+053/095	fra	1	f r a
+053/097	fraa	1	f r aa
+053/099	fraa	1	f r aa
+053/101	fra	1	f r a
+053/103	frau	1	f r au
+053/105	froa	1	f r oa
+053/107	fra	1	f r a
+053/109	fra	1	f r a
+053/111	fra	1	f r a
+053/113	fra	1	f r a
+053/115	fra	1	f r a
+053/121	frau	1	f r au
+053/123	froh	1	f r oh
+053/125	frau	1	f r au
+053/127	fro	1	f r o
+053/129	froo	1	f r oo
+053/131	froh	1	f r oh
+053/133	froh	1	f r oh
+053/135	frau	1	f r au
+053/137	fro	1	f r o
+053/139	fro	1	f r o
+053/141	fro	1	f r o
+053/143	froa	1	f r oa
+053/145	fro	1	f r o
+053/147	froa	1	f r oa
+053/149	froa	1	f r oa
+053/151	fro	1	f r o
+053/153	froa	1	f r oa
+053/155	froh	1	f r oh
+053/157	fraau	1	f r aau
+054/023	frau	1	f r au
+054/025	vrau	1	v r au
+054/027	frou	1	f r ou
+054/029	frau	1	f r au
+054/031	frau	1	f r au
+054/033	frau	1	f r au
+054/035	frau	1	f r au
+054/037	frau	1	f r au
+054/039	frau	1	f r au
+054/041	frau	1	f r au
+054/043	frau	1	f r au
+054/045	frau	1	f r au
+054/047	frugg	1	f r u gg
+054/049	frugg	1	f r u gg
+054/051	frugg	1	f r u gg
+054/053	frugg	1	f r u gg
+054/055	frugg	1	f r u gg
+054/057	frugg	1	f r u gg
+054/059	frugg	1	f r u gg
+054/061	frogg	1	f r o gg
+054/063	frau	1	f r au
+054/065	fro	1	f r o
+054/067	frau	1	f r au
+054/069	frau	1	f r au
+054/071	frau	1	f r au
+054/073	frau	1	f r au
+054/075	frauw	1	f r au w
+054/077	frauw	1	f r au w
+054/079	frau	1	f r au
+054/081	frau	1	f r au
+054/083	frau	1	f r au
+054/085	frau	1	f r au
+054/087	frä	1	f r ä
+054/089	fraa	1	f r aa
+054/091	fra	1	f r a
+054/093	frah	1	f r ah
+054/095	fra	1	f r a
+054/097	frau	1	f r au
+054/099	froh	1	f r oh
+054/101	fraa	1	f r aa
+054/103	fra	1	f r a
+054/105	frah	1	f r ah
+054/107	fraä	1	f r aä
+054/109	frä	1	f r ä
+054/111	frä	1	f r ä
+054/113	fraä	1	f r aä
+054/115	fraa	1	f r aa
+054/117	frao	1	f r ao
+054/119	frau	1	f r au
+054/121	frau	1	f r au
+054/123	frau	1	f r au
+054/125	froh	1	f r oh
+054/127	froo	1	f r oo
+054/131	froh	1	f r oh
+054/133	froh	1	f r oh
+054/135	frau	1	f r au
+054/137	frau	1	f r au
+054/139	froa	1	f r oa
+054/141	fruo	1	f r uo
+054/143	froo	1	f r oo
+054/145	froa	1	f r oa
+054/147	fro	1	f r o
+054/149	froa	1	f r oa
+054/151	froa	1	f r oa
+054/153	weebe	1	w ee b e
+054/155	fro	1	f r o
+054/157	frau	1	f r au
+054/159	froo	1	f r oo
+054/161	fro	1	f r o
+054/163	fru	1	f r u
+055/023	fraw	1	f r a w
+055/025	frau	1	f r au
+055/027	frau	1	f r au
+055/029	frau	1	f r au
+055/031	frau	1	f r au
+055/033	frau	1	f r au
+055/035	wiewe	1	w ie w e
+055/037	frau	1	f r au
+055/039	frau	1	f r au
+055/041	frau	1	f r au
+055/043	frau	1	f r au
+055/045	frau	1	f r au
+055/047	frau	1	f r au
+055/049	frugg	1	f r u gg
+055/051	fruogg	1	f r uo gg
+055/053	frugg	1	f r u gg
+055/055	frugg	1	f r u gg
+055/057	frugg	1	f r u gg
+055/059	frooh	1	f r ooh
+055/061	frau	1	f r au
+055/063	frau	1	f r au
+055/065	frau	1	f r au
+055/067	freu	1	f r eu
+055/069	frau	1	f r au
+055/071	freuw	1	f r eu w
+055/073	fräuiw	1	f r äui w
+055/075	frauw	1	f r au w
+055/077	frauw	1	f r au w
+055/079	fraub	1	f r au b
+055/081	frau	1	f r au
+055/083	frau	1	f r au
+055/085	frau	1	f r au
+055/087	froa	1	f r oa
+055/089	fra	1	f r a
+055/091	fra	1	f r a
+055/093	fraa	1	f r aa
+055/095	fra	1	f r a
+055/097	frau	1	f r au
+055/099	fraa	1	f r aa
+055/101	frah	1	f r ah
+055/103	fra	1	f r a
+055/105	frau	1	f r au
+055/107	frä	1	f r ä
+055/109	frä	1	f r ä
+055/111	fra	1	f r a
+055/113	frah	1	f r ah
+055/115	fra	1	f r a
+055/117	frau	1	f r au
+055/119	frau	1	f r au
+055/123	froh	1	f r oh
+055/125	frou	1	f r ou
+055/127	froo	1	f r oo
+055/131	froh	1	f r oh
+055/133	fro	1	f r o
+055/135	fro	1	f r o
+055/137	fro	1	f r o
+055/139	frau	1	f r au
+055/141	frau	1	f r au
+055/143	fro	1	f r o
+055/145	froa	1	f r oa
+055/147	frou	1	f r ou
+055/149	froa	1	f r oa
+055/151	frau	1	f r au
+055/153	froa	1	f r oa
+055/155	frau	1	f r au
+055/157	frau	1	f r au
+055/159	fro	1	f r o
+055/161	frau	1	f r au
+056/021	frau	1	f r au
+056/023	fraw	1	f r a w
+056/025	frau	1	f r au
+056/027	frau	1	f r au
+056/029	frou	1	f r ou
+056/031	frau	1	f r au
+056/033	frau	1	f r au
+056/035	frau	1	f r au
+056/037	frau	1	f r au
+056/039	frau	1	f r au
+056/041	frau	1	f r au
+056/043	frau	1	f r au
+056/045	frau	1	f r au
+056/047	frugg	1	f r u gg
+056/049	frugg	1	f r u gg
+056/051	frogg	1	f r o gg
+056/053	frugg	1	f r u gg
+056/055	frogg	1	f r o gg
+056/057	frugg	1	f r u gg
+056/059	froch	1	f r o ch
+056/061	frogg	1	f r o gg
+056/063	froch	1	f r o ch
+056/065	frai	1	f r ai
+056/067	frei	1	f r ei
+056/069	fräu	1	f r äu
+056/071	froib	1	f r oi b
+056/073	fräuiw	1	f r äui w
+056/075	frauw	1	f r au w
+056/077	frauw	1	f r au w
+056/079	frauw	1	f r au w
+056/081	frau	1	f r au
+056/083	frau	1	f r au
+056/085	fra	1	f r a
+056/087	fra	1	f r a
+056/089	froh	1	f r oh
+056/091	frah	1	f r ah
+056/093	froh	1	f r oh
+056/095	fra	1	f r a
+056/097	fra	1	f r a
+056/099	fra	1	f r a
+056/101	fra	1	f r a
+056/103	frah	1	f r ah
+056/105	fraa	1	f r aa
+056/107	frau	1	f r au
+056/109	fruä	1	f r uä
+056/111	frä	1	f r ä
+056/113	fra	1	f r a
+056/115	froa	1	f r oa
+056/117	fro	1	f r o
+056/121	frau	1	f r au
+056/123	frau	1	f r au
+056/125	froo	1	f r oo
+056/127	froh	1	f r oh
+056/129	froo	1	f r oo
+056/131	fro	1	f r o
+056/133	froo	1	f r oo
+056/135	frau	1	f r au
+056/137	froa	1	f r oa
+056/139	froau	1	f r oau
+056/141	frau	1	f r au
+056/143	frau	1	f r au
+056/145	frau	1	f r au
+056/147	frau	1	f r au
+056/149	frau	1	f r au
+056/151	frau	1	f r au
+056/153	froua	1	f r oua
+056/155	fraou	1	f r aou
+056/157	frau	1	f r au
+056/159	frooh	1	f r ooh
+056/161	froh	1	f r oh
+057/021	frau	1	f r au
+057/023	frau	1	f r au
+057/025	frau	1	f r au
+057/027	frau	1	f r au
+057/029	frau	1	f r au
+057/031	frau	1	f r au
+057/033	frau	1	f r au
+057/035	frau	1	f r au
+057/037	frau	1	f r au
+057/039	frau	1	f r au
+057/041	frau	1	f r au
+057/043	frau	1	f r au
+057/045	frau	1	f r au
+057/047	frau	1	f r au
+057/049	frugg	1	f r u gg
+057/051	fra	1	f r a
+057/053	frogg	1	f r o gg
+057/055	frou	1	f r ou
+057/057	frogg	1	f r o gg
+057/059	fro	1	f r o
+057/061	frä	1	f r ä
+057/063	fraug	1	f r au g
+057/065	frei	1	f r ei
+057/067	frei	1	f r ei
+057/069	fräu	1	f r äu
+057/071	fräu	1	f r äu
+057/073	fräuw	1	f r äu w
+057/075	frauw	1	f r au w
+057/077	frauw	1	f r au w
+057/079	frauw	1	f r au w
+057/081	frau	1	f r au
+057/083	frah	1	f r ah
+057/085	fra	1	f r a
+057/087	fra	1	f r a
+057/089	frah	1	f r ah
+057/091	fro	1	f r o
+057/093	fra	1	f r a
+057/095	fro	1	f r o
+057/097	fro	1	f r o
+057/099	fra	1	f r a
+057/101	frau	1	f r au
+057/103	fra	1	f r a
+057/105	frau	1	f r au
+057/107	frah	1	f r ah
+057/109	frau	1	f r au
+057/111	frau	1	f r au
+057/113	fraa	1	f r aa
+057/115	fra	1	f r a
+057/117	froa	1	f r oa
+057/119	frau	1	f r au
+057/121	froh	1	f r oh
+057/123	froh	1	f r oh
+057/125	froo	1	f r oo
+057/127	froo	1	f r oo
+057/129	fro	1	f r o
+057/131	froh	1	f r oh
+057/133	froo	1	f r oo
+057/135	fruoa	1	f r uoa
+057/137	frau	1	f r au
+057/139	frau	1	f r au
+057/141	frau	1	f r au
+057/143	frau	1	f r au
+057/145	fro	1	f r o
+057/147	frau	1	f r au
+057/149	frau	1	f r au
+057/151	frau	1	f r au
+057/153	frau	1	f r au
+057/155	frau	1	f r au
+057/157	frau	1	f r au
+057/159	froo	1	f r oo
+057/161	frau	1	f r au
+058/019	fröu	1	f r öu
+058/021	frau	1	f r au
+058/023	frau	1	f r au
+058/025	frau	1	f r au
+058/027	frau	1	f r au
+058/029	frau	1	f r au
+058/031	frau	1	f r au
+058/033	frau	1	f r au
+058/035	frau	1	f r au
+058/037	frau	1	f r au
+058/039	frau	1	f r au
+058/041	frau	1	f r au
+058/043	frau	1	f r au
+058/045	frau	1	f r au
+058/047	frah	1	f r ah
+058/049	frä	1	f r ä
+058/051	fräh	1	f r äh
+058/053	fra	1	f r a
+058/055	frä	1	f r ä
+058/057	frogg	1	f r o gg
+058/059	fröö	1	f r öö
+058/061	fröh	1	f r öh
+058/063	fräh	1	f r äh
+058/065	frei	1	f r ei
+058/067	frei	1	f r ei
+058/069	frau	1	f r au
+058/071	frau	1	f r au
+058/073	fraub	1	f r au b
+058/075	frauw	1	f r au w
+058/077	frauw	1	f r au w
+058/079	frauw	1	f r au w
+058/081	frauw	1	f r au w
+058/083	frau	1	f r au
+058/085	frah	1	f r ah
+058/087	frau	1	f r au
+058/089	fro	1	f r o
+058/091	froo	1	f r oo
+058/093	froh	1	f r oh
+058/095	froa	1	f r oa
+058/097	froh	1	f r oh
+058/099	fro	1	f r o
+058/101	fra	1	f r a
+058/103	fra	1	f r a
+058/105	froo	1	f r oo
+058/107	fraa	1	f r aa
+058/109	fra	1	f r a
+058/111	fra	1	f r a
+058/113	frau	1	f r au
+058/115	frau	1	f r au
+058/117	frau	1	f r au
+058/119	frou	1	f r ou
+058/121	frou	1	f r ou
+058/123	froh	1	f r oh
+058/125	fro	1	f r o
+058/127	froh	1	f r oh
+058/129	froh	1	f r oh
+058/131	froh	1	f r oh
+058/133	froh	1	f r oh
+058/135	frau	1	f r au
+058/137	frau	1	f r au
+058/139	frau	1	f r au
+058/141	frau	1	f r au
+058/143	frau	1	f r au
+058/145	frau	1	f r au
+058/147	frau	1	f r au
+058/149	frou	1	f r ou
+058/151	frau	1	f r au
+058/153	froo	1	f r oo
+058/155	frau	1	f r au
+058/157	fro	1	f r o
+058/159	frau	1	f r au
+059/019	frou	1	f r ou
+059/021	frau	1	f r au
+059/023	vrouw	1	v r ou w
+059/025	frau	1	f r au
+059/027	frau	1	f r au
+059/029	frau	1	f r au
+059/031	frau	1	f r au
+059/033	frau	1	f r au
+059/035	frau	1	f r au
+059/037	frau	1	f r au
+059/039	frau	1	f r au
+059/041	vraauu	1	v r aauu
+059/043	frou	1	f r ou
+059/045	fro	1	f r o
+059/047	frah	1	f r ah
+059/049	fra	1	f r a
+059/051	fraa	1	f r aa
+059/053	frä	1	f r ä
+059/055	frä	1	f r ä
+059/057	freh	1	f r eh
+059/059	frö	1	f r ö
+059/061	frö	1	f r ö
+059/063	fro	1	f r o
+059/065	frai	1	f r ai
+059/067	frei	1	f r ei
+059/069	frai	1	f r ai
+059/071	fräi	1	f r äi
+059/073	frau	1	f r au
+059/075	frau	1	f r au
+059/077	frau	1	f r au
+059/079	frau	1	f r au
+059/081	frau	1	f r au
+059/083	frau	1	f r au
+059/085	fro	1	f r o
+059/087	frau	1	f r au
+059/089	fro	1	f r o
+059/091	fro	1	f r o
+059/093	fro	1	f r o
+059/095	froh	1	f r oh
+059/097	froh	1	f r oh
+059/099	froh	1	f r oh
+059/101	fra	1	f r a
+059/103	frau	1	f r au
+059/105	froh	1	f r oh
+059/107	fra	1	f r a
+059/109	fra	1	f r a
+059/111	fra	1	f r a
+059/113	frau	1	f r au
+059/115	fraa	1	f r aa
+059/117	fraah	1	f r aah
+059/119	fra	1	f r a
+059/121	frou	1	f r ou
+059/123	frohn	1	f r oh n
+059/125	froh	1	f r oh
+059/127	frau	1	f r au
+059/129	frau	1	f r au
+059/131	frau	1	f r au
+059/133	frau	1	f r au
+059/135	frau	1	f r au
+059/137	frau	1	f r au
+059/139	frau	1	f r au
+059/141	frau	1	f r au
+059/143	frau	1	f r au
+059/145	fro	1	f r o
+059/147	fro	1	f r o
+059/149	froo	1	f r oo
+059/151	fro	1	f r o
+059/153	fro	1	f r o
+059/155	froo	1	f r oo
+059/157	waibe	1	w ai b e
+059/159	frau	1	f r au
+059/161	frau	1	f r au
+059/165	frau	1	f r au
+059/169	frau	1	f r au
+060/021	frau	1	f r au
+060/023	frau	1	f r au
+060/025	frau	1	f r au
+060/027	frau	1	f r au
+060/029	frau	1	f r au
+060/031	frau	1	f r au
+060/033	frau	1	f r au
+060/035	frau	1	f r au
+060/037	frau	1	f r au
+060/039	frou	1	f r ou
+060/041	frau	1	f r au
+060/043	frau	1	f r au
+060/045	frau	1	f r au
+060/047	fra	1	f r a
+060/049	fra	1	f r a
+060/051	fraa	1	f r aa
+060/053	fraa	1	f r aa
+060/055	frä	1	f r ä
+060/057	fraa	1	f r aa
+060/059	frä	1	f r ä
+060/061	frä	1	f r ä
+060/063	frau	1	f r au
+060/065	frau	1	f r au
+060/067	frau	1	f r au
+060/069	fröü	1	f r öü
+060/071	fraü	1	f r aü
+060/073	frau	1	f r au
+060/075	frau	1	f r au
+060/077	frau	1	f r au
+060/079	frau	1	f r au
+060/081	froww	1	f r o ww
+060/083	frao	1	f r ao
+060/085	fra	1	f r a
+060/087	fro	1	f r o
+060/089	fro	1	f r o
+060/091	fra	1	f r a
+060/093	fra	1	f r a
+060/095	froh	1	f r oh
+060/097	froh	1	f r oh
+060/099	fra	1	f r a
+060/101	fra	1	f r a
+060/103	fro	1	f r o
+060/105	fro	1	f r o
+060/107	frah	1	f r ah
+060/109	frah	1	f r ah
+060/111	fra	1	f r a
+060/113	fra	1	f r a
+060/115	frau	1	f r au
+060/117	fra	1	f r a
+060/119	fra	1	f r a
+060/121	froo	1	f r oo
+060/123	frou	1	f r ou
+060/125	froo	1	f r oo
+060/127	frou	1	f r ou
+060/129	frau	1	f r au
+060/131	frau	1	f r au
+060/135	frau	1	f r au
+060/137	frau	1	f r au
+060/139	frau	1	f r au
+060/141	frau	1	f r au
+060/143	frau	1	f r au
+060/145	fro	1	f r o
+060/147	froh	1	f r oh
+060/149	fro	1	f r o
+060/151	fro	1	f r o
+060/153	fro	1	f r o
+060/155	froh	1	f r oh
+060/157	frou	1	f r ou
+060/159	froo	1	f r oo
+060/163	frau	1	f r au
+060/165	frau	1	f r au
+061/021	vrau	1	v r au
+061/023	frau	1	f r au
+061/025	frau	1	f r au
+061/027	frau	1	f r au
+061/029	frau	1	f r au
+061/031	frau	1	f r au
+061/033	frau	1	f r au
+061/035	frau	1	f r au
+061/037	frau	1	f r au
+061/039	frau	1	f r au
+061/041	frau	1	f r au
+061/043	frau	1	f r au
+061/045	frau	1	f r au
+061/047	fraa	1	f r aa
+061/049	fra	1	f r a
+061/051	fra	1	f r a
+061/053	fra	1	f r a
+061/055	frä	1	f r ä
+061/057	fraa	1	f r aa
+061/059	fräj	1	f r ä j
+061/061	frä	1	f r ä
+061/063	frau	1	f r au
+061/065	frau	1	f r au
+061/067	frau	1	f r au
+061/069	frau	1	f r au
+061/071	fraau	1	f r aau
+061/073	frau	1	f r au
+061/075	frau	1	f r au
+061/077	frow	1	f r o w
+061/079	froww	1	f r o ww
+061/081	froww	1	f r o ww
+061/083	frah	1	f r ah
+061/085	froh	1	f r oh
+061/087	froh	1	f r oh
+061/089	fra	1	f r a
+061/091	fra	1	f r a
+061/093	fra	1	f r a
+061/095	fra	1	f r a
+061/097	fra	1	f r a
+061/099	frah	1	f r ah
+061/101	fraa	1	f r aa
+061/103	frau	1	f r au
+061/105	fro	1	f r o
+061/107	froh	1	f r oh
+061/109	fra	1	f r a
+061/111	fro	1	f r o
+061/113	fraa	1	f r aa
+061/115	fra	1	f r a
+061/117	fraa	1	f r aa
+061/119	weibe	1	w ei b e
+061/121	fra	1	f r a
+061/123	frou	1	f r ou
+061/125	frou	1	f r ou
+061/127	frou	1	f r ou
+061/129	frou	1	f r ou
+061/131	frou	1	f r ou
+061/133	weibe	1	w ei b e
+061/137	frau	1	f r au
+061/139	frau	1	f r au
+061/141	frau	1	f r au
+061/143	frau	1	f r au
+061/145	frau	1	f r au
+061/147	fro	1	f r o
+061/149	froh	1	f r oh
+061/151	fro	1	f r o
+061/153	froo	1	f r oo
+061/155	frau	1	f r au
+061/157	frau	1	f r au
+061/159	wäbe	1	w ä b e
+061/161	frau	1	f r au
+061/165	weib	1	w ei b
+062/021	frou	1	f r ou
+062/023	frau	1	f r au
+062/025	frau	1	f r au
+062/027	frau	1	f r au
+062/029	frau	1	f r au
+062/031	frau	1	f r au
+062/033	frau	1	f r au
+062/035	frau	1	f r au
+062/037	frau	1	f r au
+062/039	frau	1	f r au
+062/041	frau	1	f r au
+062/043	frau	1	f r au
+062/045	fra	1	f r a
+062/047	fra	1	f r a
+062/049	fra	1	f r a
+062/051	frah	1	f r ah
+062/053	fra	1	f r a
+062/055	fräh	1	f r äh
+062/057	fra	1	f r a
+062/059	fra	1	f r a
+062/061	fräh	1	f r äh
+062/063	frau	1	f r au
+062/065	frau	1	f r au
+062/067	frau	1	f r au
+062/069	frau	1	f r au
+062/071	frau	1	f r au
+062/073	frau	1	f r au
+062/075	fraa	1	f r aa
+062/077	frow	1	f r o w
+062/079	frow	1	f r o w
+062/081	froww	1	f r o ww
+062/083	fra	1	f r a
+062/085	fra	1	f r a
+062/087	fra	1	f r a
+062/089	frah	1	f r ah
+062/091	fraa	1	f r aa
+062/093	fra	1	f r a
+062/095	fra	1	f r a
+062/097	frau	1	f r au
+062/099	frää	1	f r ää
+062/101	fra	1	f r a
+062/103	fraa	1	f r aa
+062/105	fra	1	f r a
+062/107	fra	1	f r a
+062/109	fro	1	f r o
+062/111	fra	1	f r a
+062/113	fraa	1	f r aa
+062/115	fraa	1	f r aa
+062/117	fra	1	f r a
+062/119	fra	1	f r a
+062/121	NA	NA	-
+062/123	frou	1	f r ou
+062/125	fro	1	f r o
+062/127	frou	1	f r ou
+062/129	frou	1	f r ou
+062/131	frou	1	f r ou
+062/133	froh	1	f r oh
+062/135	weiba	1	w ei b a
+062/137	frau	1	f r au
+062/139	frau	1	f r au
+062/141	frau	1	f r au
+062/143	fro	1	f r o
+062/145	frau	1	f r au
+062/147	fro	1	f r o
+062/149	fro	1	f r o
+062/151	froh	1	f r oh
+062/153	frau	1	f r au
+062/155	fro	1	f r o
+062/157	frau	1	f r au
+062/159	frau	1	f r au
+062/161	frau	1	f r au
+063/021	frouh	1	f r ouh
+063/023	frau	1	f r au
+063/025	frau	1	f r au
+063/027	frau	1	f r au
+063/029	frau	1	f r au
+063/031	frau	1	f r au
+063/033	frau	1	f r au
+063/035	frau	1	f r au
+063/037	frau	1	f r au
+063/039	frau	1	f r au
+063/041	frau	1	f r au
+063/043	fra	1	f r a
+063/045	fraw	1	f r a w
+063/047	fra	1	f r a
+063/049	fraa	1	f r aa
+063/051	fraa	1	f r aa
+063/053	fraa	1	f r aa
+063/055	fraa	1	f r aa
+063/057	fra	1	f r a
+063/059	fra	1	f r a
+063/061	fraa	1	f r aa
+063/063	frau	1	f r au
+063/065	frau	1	f r au
+063/067	frau	1	f r au
+063/069	frau	1	f r au
+063/071	frau	1	f r au
+063/073	frah	1	f r ah
+063/075	fra	1	f r a
+063/077	fra	1	f r a
+063/079	froww	1	f r o ww
+063/081	fro	1	f r o
+063/083	fra	1	f r a
+063/085	fra	1	f r a
+063/087	frae	1	f r ae
+063/089	fra	1	f r a
+063/091	fraa	1	f r aa
+063/093	fra	1	f r a
+063/095	fra	1	f r a
+063/097	fra	1	f r a
+063/099	fräh	1	f r äh
+063/101	fra	1	f r a
+063/103	fra	1	f r a
+063/105	fraa	1	f r aa
+063/107	fra	1	f r a
+063/109	fra	1	f r a
+063/111	fraa	1	f r aa
+063/113	fraa	1	f r aa
+063/115	fraa	1	f r aa
+063/117	fra	1	f r a
+063/119	fraau	1	f r aau
+063/121	fraa	1	f r aa
+063/123	frou	1	f r ou
+063/125	frou	1	f r ou
+063/127	frou	1	f r ou
+063/135	frau	1	f r au
+063/137	frau	1	f r au
+063/139	frau	1	f r au
+063/141	frau	1	f r au
+063/143	frau	1	f r au
+063/145	weiwe	1	w ei w e
+063/147	frou	1	f r ou
+063/149	fro	1	f r o
+063/151	fro	1	f r o
+063/153	fro	1	f r o
+063/155	fro	1	f r o
+063/157	frau	1	f r au
+063/159	frau	1	f r au
+063/161	frau	1	f r au
+063/163	frau	1	f r au
+063/165	frau	1	f r au
+064/023	frau	1	f r au
+064/025	frau	1	f r au
+064/027	frau	1	f r au
+064/029	frau	1	f r au
+064/031	frau	1	f r au
+064/033	frau	1	f r au
+064/035	froh	1	f r oh
+064/037	frau	1	f r au
+064/039	frau	1	f r au
+064/041	frau	1	f r au
+064/043	fra	1	f r a
+064/045	frah	1	f r ah
+064/047	fraa	1	f r aa
+064/049	fra	1	f r a
+064/051	fraa	1	f r aa
+064/053	fraa	1	f r aa
+064/055	fra	1	f r a
+064/057	fraa	1	f r aa
+064/059	fra	1	f r a
+064/061	fra	1	f r a
+064/063	frau	1	f r au
+064/065	frau	1	f r au
+064/067	frau	1	f r au
+064/069	frau	1	f r au
+064/071	fraw	1	f r a w
+064/073	frah	1	f r ah
+064/075	frah	1	f r ah
+064/077	fra	1	f r a
+064/079	frobb	1	f r o bb
+064/081	fröbb	1	f r ö bb
+064/083	fraa	1	f r aa
+064/085	fraa	1	f r aa
+064/087	fra	1	f r a
+064/089	fra	1	f r a
+064/091	fraa	1	f r aa
+064/093	fra	1	f r a
+064/095	fraa	1	f r aa
+064/097	fra	1	f r a
+064/099	fra	1	f r a
+064/101	fra	1	f r a
+064/103	fraa	1	f r aa
+064/105	fra	1	f r a
+064/107	fra	1	f r a
+064/109	fra	1	f r a
+064/111	frau	1	f r au
+064/113	fra	1	f r a
+064/115	fraa	1	f r aa
+064/117	frau	1	f r au
+064/119	fraa	1	f r aa
+064/121	frou	1	f r ou
+064/123	frou	1	f r ou
+064/125	frou	1	f r ou
+064/127	frou	1	f r ou
+064/135	fraa	1	f r aa
+064/137	frau	1	f r au
+064/139	frau	1	f r au
+064/141	weiwe	1	w ei w e
+064/143	frau	1	f r au
+064/145	frau	1	f r au
+064/147	frau	1	f r au
+064/149	frau	1	f r au
+064/151	frau	1	f r au
+064/153	frau	1	f r au
+064/155	frau	1	f r au
+064/157	frau	1	f r au
+064/159	frau	1	f r au
+065/021	frau	1	f r au
+065/023	frau	1	f r au
+065/025	frau	1	f r au
+065/027	frau	1	f r au
+065/029	frau	1	f r au
+065/031	frau	1	f r au
+065/033	frau	1	f r au
+065/035	frau	1	f r au
+065/037	frou	1	f r ou
+065/039	frau	1	f r au
+065/041	frau	1	f r au
+065/043	fra	1	f r a
+065/045	fraa	1	f r aa
+065/047	fraa	1	f r aa
+065/049	frah	1	f r ah
+065/051	fraa	1	f r aa
+065/053	fraa	1	f r aa
+065/055	fraa	1	f r aa
+065/057	fra	1	f r a
+065/059	fraa	1	f r aa
+065/061	fra	1	f r a
+065/063	frau	1	f r au
+065/065	frau	1	f r au
+065/067	frauu	1	f r auu
+065/069	fraa	1	f r aa
+065/071	fra	1	f r a
+065/073	fraa	1	f r aa
+065/075	fra	1	f r a
+065/077	fra	1	f r a
+065/079	fra	1	f r a
+065/081	frah	1	f r ah
+065/083	fra	1	f r a
+065/085	fro	1	f r o
+065/087	frah	1	f r ah
+065/089	fraäh	1	f r aäh
+065/091	fra	1	f r a
+065/093	fraa	1	f r aa
+065/095	fräh	1	f r äh
+065/097	frau	1	f r au
+065/101	fra	1	f r a
+065/103	fraa	1	f r aa
+065/105	fraa	1	f r aa
+065/107	fraa	1	f r aa
+065/109	fraa	1	f r aa
+065/111	fra	1	f r a
+065/113	fraa	1	f r aa
+065/115	fra	1	f r a
+065/121	fra	1	f r a
+065/123	frou	1	f r ou
+065/137	frau	1	f r au
+065/139	frau	1	f r au
+065/143	frau	1	f r au
+065/145	frau	1	f r au
+065/147	frau	1	f r au
+065/149	frau	1	f r au
+065/151	frau	1	f r au
+065/153	frau	1	f r au
+065/155	frau	1	f r au
+065/157	frau	1	f r au
+065/159	frau	1	f r au
+066/021	frau	1	f r au
+066/023	frau	1	f r au
+066/025	frau	1	f r au
+066/027	frau	1	f r au
+066/029	frau	1	f r au
+066/031	frau	1	f r au
+066/033	froh	1	f r oh
+066/035	froah	1	f r oah
+066/037	fraa	1	f r aa
+066/039	frau	1	f r au
+066/041	fraa	1	f r aa
+066/043	fraa	1	f r aa
+066/045	fra	1	f r a
+066/047	fra	1	f r a
+066/049	fraa	1	f r aa
+066/051	fraa	1	f r aa
+066/053	fraa	1	f r aa
+066/055	fraa	1	f r aa
+066/057	frah	1	f r ah
+066/059	fra	1	f r a
+066/061	fra	1	f r a
+066/063	frah	1	f r ah
+066/065	frau	1	f r au
+066/067	fraa	1	f r aa
+066/069	fra	1	f r a
+066/071	fra	1	f r a
+066/073	fra	1	f r a
+066/075	fra	1	f r a
+066/077	free	1	f r ee
+066/079	fraa	1	f r aa
+066/081	fra	1	f r a
+066/083	frah	1	f r ah
+066/085	fra	1	f r a
+066/087	fraa	1	f r aa
+066/089	fra	1	f r a
+066/091	fraa	1	f r aa
+066/093	frä	1	f r ä
+066/095	frau	1	f r au
+066/097	fraa	1	f r aa
+066/099	fraa	1	f r aa
+066/101	fra	1	f r a
+066/103	frah	1	f r ah
+066/105	frah	1	f r ah
+066/107	frau	1	f r au
+066/109	frau	1	f r au
+066/111	fraa	1	f r aa
+066/113	fraa	1	f r aa
+066/121	fra	1	f r a
+066/139	frau	1	f r au
+066/143	frau	1	f r au
+066/145	frau	1	f r au
+066/147	frau	1	f r au
+066/149	frau	1	f r au
+066/151	frau	1	f r au
+066/153	weibe	1	w ei b e
+066/155	frau	1	f r au
+066/157	froa	1	f r oa
+066/159	frau	1	f r au
+066/161	fro	1	f r o
+066/163	frau	1	f r au
+067/021	frau	1	f r au
+067/023	frau	1	f r au
+067/025	frau	1	f r au
+067/027	frau	1	f r au
+067/029	frau	1	f r au
+067/031	frau	1	f r au
+067/033	fro	1	f r o
+067/035	frau	1	f r au
+067/037	fraa	1	f r aa
+067/039	fra	1	f r a
+067/041	frah	1	f r ah
+067/043	frah	1	f r ah
+067/045	fra	1	f r a
+067/047	fraa	1	f r aa
+067/049	fra	1	f r a
+067/051	fraa	1	f r aa
+067/053	fra	1	f r a
+067/055	fraa	1	f r aa
+067/057	fraa	1	f r aa
+067/059	fra	1	f r a
+067/061	fra	1	f r a
+067/063	fraa	1	f r aa
+067/065	fraa	1	f r aa
+067/067	fraa	1	f r aa
+067/069	fra	1	f r a
+067/071	fraa	1	f r aa
+067/073	fra	1	f r a
+067/075	fra	1	f r a
+067/077	fra	1	f r a
+067/079	fra	1	f r a
+067/081	fra	1	f r a
+067/083	fra	1	f r a
+067/085	fra	1	f r a
+067/087	fraa	1	f r aa
+067/089	fra	1	f r a
+067/091	fra	1	f r a
+067/093	frau	1	f r au
+067/095	frau	1	f r au
+067/097	frau	1	f r au
+067/099	frau	1	f r au
+067/101	frau	1	f r au
+067/103	frau	1	f r au
+067/105	fra	1	f r a
+067/107	frau	1	f r au
+067/109	fra	1	f r a
+067/111	fraa	1	f r aa
+067/113	fraa	1	f r aa
+067/143	xn	1	x n
+067/145	frau	1	f r au
+067/147	frau	1	f r au
+067/149	frau	1	f r au
+067/151	fra	1	f r a
+067/153	weibe	1	w ei b e
+067/155	frau	1	f r au
+067/157	frau	1	f r au
+067/159	froa	1	f r oa
+067/161	froa	1	f r oa
+067/163	fro	1	f r o
+067/165	frou	1	f r ou
+067/177	frou	1	f r ou
+068/021	frau	1	f r au
+068/023	frau	1	f r au
+068/025	frau	1	f r au
+068/027	frau	1	f r au
+068/029	frau	1	f r au
+068/031	frau	1	f r au
+068/033	frau	1	f r au
+068/035	fra	1	f r a
+068/037	fraa	1	f r aa
+068/039	fra	1	f r a
+068/041	fra	1	f r a
+068/043	fra	1	f r a
+068/045	fra	1	f r a
+068/047	fraa	1	f r aa
+068/049	fra	1	f r a
+068/051	frah	1	f r ah
+068/053	fraa	1	f r aa
+068/055	fra	1	f r a
+068/057	fraa	1	f r aa
+068/059	fraa	1	f r aa
+068/061	fra	1	f r a
+068/063	fraa	1	f r aa
+068/065	fra	1	f r a
+068/067	fra	1	f r a
+068/069	fraa	1	f r aa
+068/071	fraa	1	f r aa
+068/073	fra	1	f r a
+068/075	fraa	1	f r aa
+068/077	fra	1	f r a
+068/079	frah	1	f r ah
+068/081	fra	1	f r a
+068/083	fraa	1	f r aa
+068/085	frah	1	f r ah
+068/087	fra	1	f r a
+068/089	fraa	1	f r aa
+068/091	frau	1	f r au
+068/093	frau	1	f r au
+068/095	frau	1	f r au
+068/097	wei	1	w ei
+068/099	frau	1	f r au
+068/101	frau	1	f r au
+068/103	frau	1	f r au
+068/105	mahm	1	m ah m
+068/107	frau	1	f r au
+068/109	frau	1	f r au
+068/111	fraa	1	f r aa
+068/145	frau	1	f r au
+068/147	weiwe	1	w ei w e
+068/149	fra	1	f r a
+068/151	fra	1	f r a
+068/153	frao	1	f r ao
+068/155	frau	1	f r au
+068/157	fra	1	f r a
+068/159	frau	1	f r au
+068/161	frau	1	f r au
+068/165	frau	1	f r au
+069/019	frau	1	f r au
+069/023	frau	1	f r au
+069/025	frau	1	f r au
+069/027	fra	1	f r a
+069/029	frau	1	f r au
+069/031	frau	1	f r au
+069/033	frau	1	f r au
+069/035	fra	1	f r a
+069/037	fra	1	f r a
+069/039	fraa	1	f r aa
+069/041	frah	1	f r ah
+069/043	fra	1	f r a
+069/045	fraa	1	f r aa
+069/047	frah	1	f r ah
+069/049	fraa	1	f r aa
+069/051	fraa	1	f r aa
+069/053	fraa	1	f r aa
+069/055	fraa	1	f r aa
+069/057	fraa	1	f r aa
+069/059	fraa	1	f r aa
+069/061	fraa	1	f r aa
+069/063	fra	1	f r a
+069/065	fraa	1	f r aa
+069/067	fra	1	f r a
+069/069	fra	1	f r a
+069/071	fra	1	f r a
+069/073	fraa	1	f r aa
+069/075	fra	1	f r a
+069/077	fra	1	f r a
+069/079	fraa	1	f r aa
+069/081	fra	1	f r a
+069/083	fra	1	f r a
+069/085	fra	1	f r a
+069/087	fra	1	f r a
+069/089	fraa	1	f r aa
+069/091	fraa	1	f r aa
+069/093	fra	1	f r a
+069/095	frau	1	f r au
+069/097	wei	1	w ei
+069/099	frau	1	f r au
+069/101	frau	1	f r au
+069/103	frau	1	f r au
+069/105	frau	1	f r au
+069/107	frau	1	f r au
+069/109	fra	1	f r a
+069/111	frau	1	f r au
+069/147	frau	1	f r au
+069/149	frau	1	f r au
+069/151	fra	1	f r a
+069/153	weib	1	w ei b
+069/157	fra	1	f r a
+069/159	frau	1	f r au
+069/161	frau	1	f r au
+069/163	fraa	1	f r aa
+069/165	weibe	1	w ei b e
+070/019	fraa	1	f r aa
+070/023	frao	1	f r ao
+070/025	frau	1	f r au
+070/027	fra	1	f r a
+070/029	fra	1	f r a
+070/031	frah	1	f r ah
+070/033	frau	1	f r au
+070/035	fra	1	f r a
+070/037	fra	1	f r a
+070/039	fraa	1	f r aa
+070/041	fraa	1	f r aa
+070/043	fra	1	f r a
+070/045	fra	1	f r a
+070/047	fraa	1	f r aa
+070/049	frah	1	f r ah
+070/051	fraa	1	f r aa
+070/053	fra	1	f r a
+070/055	fraa	1	f r aa
+070/057	fra	1	f r a
+070/059	fra	1	f r a
+070/061	fra	1	f r a
+070/063	fra	1	f r a
+070/065	fra	1	f r a
+070/067	fra	1	f r a
+070/069	frah	1	f r ah
+070/071	fra	1	f r a
+070/073	fra	1	f r a
+070/075	fraa	1	f r aa
+070/077	fra	1	f r a
+070/079	fra	1	f r a
+070/081	fraa	1	f r aa
+070/083	fra	1	f r a
+070/085	fra	1	f r a
+070/087	fra	1	f r a
+070/089	fra	1	f r a
+070/091	frau	1	f r au
+070/093	frau	1	f r au
+070/095	frau	1	f r au
+070/097	frau	1	f r au
+070/099	frau	1	f r au
+070/101	wei	1	w ei
+070/103	mouma	1	m ou m a
+070/105	NA	NA	-
+070/107	frau	1	f r au
+070/109	frau	1	f r au
+070/111	frau	1	f r au
+070/145	frau	1	f r au
+070/147	frau	1	f r au
+070/149	frau	1	f r au
+070/151	fraa	1	f r aa
+070/153	fra	1	f r a
+070/155	frau	1	f r au
+070/157	fra	1	f r a
+070/159	fra	1	f r a
+070/161	frau	1	f r au
+070/163	frah	1	f r ah
+070/165	fra	1	f r a
+071/017	fraa	1	f r aa
+071/019	fraa	1	f r aa
+071/021	fra	1	f r a
+071/023	fraa	1	f r aa
+071/025	fra	1	f r a
+071/027	fra	1	f r a
+071/029	fra	1	f r a
+071/031	frau	1	f r au
+071/033	fraa	1	f r aa
+071/035	fraa	1	f r aa
+071/037	fra	1	f r a
+071/039	fraa	1	f r aa
+071/041	fra	1	f r a
+071/043	fra	1	f r a
+071/045	fraa	1	f r aa
+071/047	fraa	1	f r aa
+071/049	fraa	1	f r aa
+071/051	fraa	1	f r aa
+071/053	fraa	1	f r aa
+071/055	frah	1	f r ah
+071/057	fraa	1	f r aa
+071/059	fra	1	f r a
+071/063	fraa	1	f r aa
+071/065	fraa	1	f r aa
+071/067	fra	1	f r a
+071/069	fraa	1	f r aa
+071/071	fra	1	f r a
+071/073	fra	1	f r a
+071/075	fra	1	f r a
+071/077	fra	1	f r a
+071/079	fra	1	f r a
+071/081	fra	1	f r a
+071/083	fra	1	f r a
+071/085	fra	1	f r a
+071/087	fra	1	f r a
+071/089	fraa	1	f r aa
+071/091	frau	1	f r au
+071/093	frau	1	f r au
+071/095	frau	1	f r au
+071/097	frau	1	f r au
+071/099	frau	1	f r au
+071/101	frau	1	f r au
+071/103	frau	1	f r au
+071/105	frau	1	f r au
+071/145	frau	1	f r au
+071/147	frau	1	f r au
+071/149	frau	1	f r au
+071/151	frau	1	f r au
+071/153	fra	1	f r a
+071/155	frau	1	f r au
+071/157	fra	1	f r a
+071/159	fra	1	f r a
+071/161	fra	1	f r a
+071/163	frau	1	f r au
+071/177	bouf	1	b ou f
+071/179	weib	1	w ei b
+072/017	fraa	1	f r aa
+072/019	fra	1	f r a
+072/021	fraa	1	f r aa
+072/023	fra	1	f r a
+072/025	fra	1	f r a
+072/027	fra	1	f r a
+072/029	fraa	1	f r aa
+072/031	frau	1	f r au
+072/033	fra	1	f r a
+072/035	fra	1	f r a
+072/037	fra	1	f r a
+072/039	fraa	1	f r aa
+072/041	fra	1	f r a
+072/043	fraa	1	f r aa
+072/045	fraa	1	f r aa
+072/047	frah	1	f r ah
+072/049	fraa	1	f r aa
+072/051	frah	1	f r ah
+072/053	frah	1	f r ah
+072/055	fraa	1	f r aa
+072/057	fraa	1	f r aa
+072/059	fraa	1	f r aa
+072/061	fraah	1	f r aah
+072/063	fra	1	f r a
+072/065	fraa	1	f r aa
+072/067	fra	1	f r a
+072/069	fraa	1	f r aa
+072/071	fraa	1	f r aa
+072/073	fraa	1	f r aa
+072/075	fra	1	f r a
+072/077	fra	1	f r a
+072/079	fraa	1	f r aa
+072/081	fraa	1	f r aa
+072/083	fra	1	f r a
+072/085	fra	1	f r a
+072/087	fra	1	f r a
+072/089	fra	1	f r a
+072/091	frau	1	f r au
+072/093	frau	1	f r au
+072/095	frau	1	f r au
+072/097	frau	1	f r au
+072/099	wai	1	w ai
+072/101	NA	NA	-
+072/103	frau	1	f r au
+072/105	wei	1	w ei
+072/107	frau	1	f r au
+072/145	fro	1	f r o
+072/147	frau	1	f r au
+072/149	fraau	1	f r aau
+072/151	fraau	1	f r aau
+072/153	fra	1	f r a
+072/155	fra	1	f r a
+072/157	fra	1	f r a
+072/159	fraa	1	f r aa
+072/161	frau	1	f r au
+072/177	fra	1	f r a
+072/179	frau	1	f r au
+072/181	weib	1	w ei b
+073/017	fraa	1	f r aa
+073/019	fra	1	f r a
+073/021	fra	1	f r a
+073/023	fraa	1	f r aa
+073/025	fra	1	f r a
+073/027	fra	1	f r a
+073/029	frau	1	f r au
+073/031	frau	1	f r au
+073/033	fra	1	f r a
+073/035	frau	1	f r au
+073/037	fraa	1	f r aa
+073/039	fra	1	f r a
+073/041	fraa	1	f r aa
+073/043	frah	1	f r ah
+073/045	fra	1	f r a
+073/047	fraa	1	f r aa
+073/049	fraa	1	f r aa
+073/051	fra	1	f r a
+073/053	fraa	1	f r aa
+073/055	frah	1	f r ah
+073/057	fraa	1	f r aa
+073/059	fraa	1	f r aa
+073/061	froo	1	f r oo
+073/063	fra	1	f r a
+073/065	fra	1	f r a
+073/067	fraa	1	f r aa
+073/069	fra	1	f r a
+073/071	fra	1	f r a
+073/073	fraa	1	f r aa
+073/075	fra	1	f r a
+073/077	fraa	1	f r aa
+073/079	fraa	1	f r aa
+073/081	fra	1	f r a
+073/083	fra	1	f r a
+073/085	fra	1	f r a
+073/087	fraa	1	f r aa
+073/089	fra	1	f r a
+073/091	frau	1	f r au
+073/093	frau	1	f r au
+073/095	frau	1	f r au
+073/097	frau	1	f r au
+073/099	frau	1	f r au
+073/101	frau	1	f r au
+073/103	frao	1	f r ao
+073/105	frau	1	f r au
+073/107	frau	1	f r au
+073/145	fro	1	f r o
+073/147	fro	1	f r o
+073/149	fräu	1	f r äu
+073/151	frau	1	f r au
+073/153	frau	1	f r au
+073/155	frau	1	f r au
+073/157	fraa	1	f r aa
+073/159	fra	1	f r a
+073/161	fra	1	f r a
+073/163	fra	1	f r a
+073/165	frau	1	f r au
+073/175	bob	1	b o b
+073/177	fraa	1	f r aa
+074/019	frua	1	f r ua
+074/021	fraa	1	f r aa
+074/023	fro	1	f r o
+074/025	fra	1	f r a
+074/027	fraa	1	f r aa
+074/029	frah	1	f r ah
+074/031	frah	1	f r ah
+074/033	frauh	1	f r auh
+074/035	frau	1	f r au
+074/037	frah	1	f r ah
+074/039	fraa	1	f r aa
+074/041	fraa	1	f r aa
+074/043	fra	1	f r a
+074/045	fra	1	f r a
+074/047	fraa	1	f r aa
+074/049	fra	1	f r a
+074/051	frah	1	f r ah
+074/053	fraa	1	f r aa
+074/055	fraa	1	f r aa
+074/057	fraa	1	f r aa
+074/059	fra	1	f r a
+074/061	fraa	1	f r aa
+074/063	fra	1	f r a
+074/065	fraa	1	f r aa
+074/067	fra	1	f r a
+074/069	fraa	1	f r aa
+074/071	fraa	1	f r aa
+074/073	fraa	1	f r aa
+074/075	fra	1	f r a
+074/077	fraa	1	f r aa
+074/079	fraa	1	f r aa
+074/081	fra	1	f r a
+074/083	fraa	1	f r aa
+074/085	frau	1	f r au
+074/087	frau	1	f r au
+074/089	frau	1	f r au
+074/091	frau	1	f r au
+074/093	frau	1	f r au
+074/095	frau	1	f r au
+074/097	frau	1	f r au
+074/099	frau	1	f r au
+074/101	frau	1	f r au
+074/103	frau	1	f r au
+074/105	frau	1	f r au
+074/107	wai	1	w ai
+074/109	moum	1	m ou m
+074/145	fro	1	f r o
+074/147	weievolk	1	w eie v o l k
+074/149	fraa	1	f r aa
+074/153	frau	1	f r au
+074/155	frau	1	f r au
+074/157	fra	1	f r a
+074/159	frao	1	f r ao
+074/161	frau	1	f r au
+074/163	frao	1	f r ao
+074/165	fra	1	f r a
+075/019	fra	1	f r a
+075/021	fra	1	f r a
+075/023	froo	1	f r oo
+075/025	fraa	1	f r aa
+075/027	fraa	1	f r aa
+075/029	frah	1	f r ah
+075/031	fra	1	f r a
+075/033	fra	1	f r a
+075/035	frau	1	f r au
+075/037	fra	1	f r a
+075/039	fra	1	f r a
+075/041	frä	1	f r ä
+075/043	fraa	1	f r aa
+075/045	fra	1	f r a
+075/047	frah	1	f r ah
+075/049	fraa	1	f r aa
+075/051	fraa	1	f r aa
+075/053	fra	1	f r a
+075/055	fra	1	f r a
+075/057	fraa	1	f r aa
+075/059	fraa	1	f r aa
+075/061	fra	1	f r a
+075/063	fra	1	f r a
+075/065	fra	1	f r a
+075/067	fra	1	f r a
+075/069	fra	1	f r a
+075/071	fraa	1	f r aa
+075/073	fraa	1	f r aa
+075/075	fra	1	f r a
+075/077	fraa	1	f r aa
+075/079	fra	1	f r a
+075/081	fra	1	f r a
+075/083	fra	1	f r a
+075/085	frau	1	f r au
+075/087	frau	1	f r au
+075/089	frau	1	f r au
+075/091	frau	1	f r au
+075/093	frau	1	f r au
+075/095	frau	1	f r au
+075/097	frau	1	f r au
+075/099	frau	1	f r au
+075/101	wei	1	w ei
+075/103	frau	1	f r au
+075/105	frau	1	f r au
+075/107	frau	1	f r au
+075/135	frau	1	f r au
+075/145	froo	1	f r oo
+075/147	fro	1	f r o
+075/149	bietin	1	b ie t i n
+075/155	frau	1	f r au
+075/157	weib	1	w ei b
+075/159	fra	1	f r a
+075/161	weib	1	w ei b
+075/163	frao	1	f r ao
+075/165	mahm	1	m ah m
+076/019	fra	1	f r a
+076/021	fro	1	f r o
+076/023	fro	1	f r o
+076/025	fraa	1	f r aa
+076/027	frah	1	f r ah
+076/029	fra	1	f r a
+076/033	fra	1	f r a
+076/035	fra	1	f r a
+076/037	fra	1	f r a
+076/039	fra	1	f r a
+076/041	fraa	1	f r aa
+076/043	fraa	1	f r aa
+076/045	fraa	1	f r aa
+076/047	fraa	1	f r aa
+076/049	fraa	1	f r aa
+076/051	fraa	1	f r aa
+076/053	fra	1	f r a
+076/055	fra	1	f r a
+076/057	fra	1	f r a
+076/059	fra	1	f r a
+076/061	fraa	1	f r aa
+076/063	fraa	1	f r aa
+076/065	fra	1	f r a
+076/067	fra	1	f r a
+076/069	fra	1	f r a
+076/071	fra	1	f r a
+076/073	fra	1	f r a
+076/075	fraa	1	f r aa
+076/077	fra	1	f r a
+076/079	frau	1	f r au
+076/081	frau	1	f r au
+076/083	frau	1	f r au
+076/085	frau	1	f r au
+076/087	frau	1	f r au
+076/089	frau	1	f r au
+076/091	frau	1	f r au
+076/093	frau	1	f r au
+076/095	frau	1	f r au
+076/097	frau	1	f r au
+076/099	frau	1	f r au
+076/101	frau	1	f r au
+076/103	frau	1	f r au
+076/135	frau	1	f r au
+076/137	waajp	1	w aa j p
+076/149	frau	1	f r au
+076/151	frau	1	f r au
+076/155	frau	1	f r au
+076/161	frao	1	f r ao
+076/163	waib	1	w ai b
+076/165	frau	1	f r au
+077/019	froo	1	f r oo
+077/021	froo	1	f r oo
+077/023	fraa	1	f r aa
+077/025	fraa	1	f r aa
+077/027	fra	1	f r a
+077/029	fra	1	f r a
+077/031	fräu	1	f r äu
+077/033	fra	1	f r a
+077/035	fraw	1	f r a w
+077/037	fraa	1	f r aa
+077/039	fra	1	f r a
+077/041	fraa	1	f r aa
+077/043	fraa	1	f r aa
+077/047	fraa	1	f r aa
+077/049	fraa	1	f r aa
+077/051	fraa	1	f r aa
+077/053	frah	1	f r ah
+077/055	fraa	1	f r aa
+077/057	fraa	1	f r aa
+077/059	fraa	1	f r aa
+077/061	fraa	1	f r aa
+077/063	fra	1	f r a
+077/065	fraa	1	f r aa
+077/067	fra	1	f r a
+077/069	fraa	1	f r aa
+077/071	fraa	1	f r aa
+077/073	fra	1	f r a
+077/075	fra	1	f r a
+077/077	fraa	1	f r aa
+077/079	frau	1	f r au
+077/081	frau	1	f r au
+077/083	frah	1	f r ah
+077/085	frau	1	f r au
+077/087	frah	1	f r ah
+077/089	frau	1	f r au
+077/091	frau	1	f r au
+077/093	frau	1	f r au
+077/095	frau	1	f r au
+077/097	frau	1	f r au
+077/099	fraa	1	f r aa
+077/101	frau	1	f r au
+077/103	frau	1	f r au
+077/135	frau	1	f r au
+077/137	weib	1	w ei b
+078/021	fra	1	f r a
+078/023	fra	1	f r a
+078/025	fra	1	f r a
+078/027	fraa	1	f r aa
+078/029	fraa	1	f r aa
+078/031	frau	1	f r au
+078/033	fraau	1	f r aau
+078/035	fraa	1	f r aa
+078/037	fraa	1	f r aa
+078/039	fraa	1	f r aa
+078/041	fraa	1	f r aa
+078/045	fra	1	f r a
+078/047	fraa	1	f r aa
+078/049	fraa	1	f r aa
+078/051	fraa	1	f r aa
+078/053	fraa	1	f r aa
+078/055	fraa	1	f r aa
+078/057	fra	1	f r a
+078/059	fra	1	f r a
+078/061	fra	1	f r a
+078/063	fra	1	f r a
+078/065	fra	1	f r a
+078/067	fraa	1	f r aa
+078/069	fra	1	f r a
+078/071	fraa	1	f r aa
+078/073	fra	1	f r a
+078/075	fra	1	f r a
+078/077	fraa	1	f r aa
+078/079	frau	1	f r au
+078/081	frau	1	f r au
+078/083	frau	1	f r au
+078/085	frau	1	f r au
+078/087	wei	1	w ei
+078/089	frauu	1	f r auu
+078/091	frau	1	f r au
+078/093	frau	1	f r au
+078/095	frau	1	f r au
+078/097	fro	1	f r o
+078/099	fra	1	f r a
+078/101	wei	1	w ei
+078/103	fro	1	f r o
+078/105	fraa	1	f r aa
+078/135	weib	1	w ei b
+078/193	frau	1	f r au
+079/021	fra	1	f r a
+079/023	fra	1	f r a
+079/025	fraa	1	f r aa
+079/027	frah	1	f r ah
+079/029	fraa	1	f r aa
+079/031	fraa	1	f r aa
+079/033	fra	1	f r a
+079/035	fraa	1	f r aa
+079/037	frah	1	f r ah
+079/039	fra	1	f r a
+079/043	fraa	1	f r aa
+079/045	fräh	1	f r äh
+079/047	frä	1	f r ä
+079/049	fraa	1	f r aa
+079/051	frao	1	f r ao
+079/053	fraa	1	f r aa
+079/055	fraa	1	f r aa
+079/057	fra	1	f r a
+079/059	fraa	1	f r aa
+079/061	fraa	1	f r aa
+079/063	fraa	1	f r aa
+079/065	fraa	1	f r aa
+079/067	fraa	1	f r aa
+079/069	fraa	1	f r aa
+079/071	fraa	1	f r aa
+079/073	fra	1	f r a
+079/075	fraa	1	f r aa
+079/077	fraa	1	f r aa
+079/079	frau	1	f r au
+079/081	frau	1	f r au
+079/083	frau	1	f r au
+079/085	fraa	1	f r aa
+079/087	frau	1	f r au
+079/089	frau	1	f r au
+079/091	frau	1	f r au
+079/093	frau	1	f r au
+079/095	fra	1	f r a
+079/097	fra	1	f r a
+079/099	fra	1	f r a
+079/101	fra	1	f r a
+079/103	frau	1	f r au
+079/105	wai	1	w ai
+079/107	wei	1	w ei
+079/133	frau	1	f r au
+079/135	frau	1	f r au
+079/193	fraa	1	f r aa
+079/195	fra	1	f r a
+079/197	weib	1	w ei b
+080/025	frau	1	f r au
+080/027	frau	1	f r au
+080/029	fraa	1	f r aa
+080/031	fra	1	f r a
+080/033	frau	1	f r au
+080/035	fraa	1	f r aa
+080/037	fraa	1	f r aa
+080/039	fraa	1	f r aa
+080/041	frää	1	f r ää
+080/043	frää	1	f r ää
+080/045	fräh	1	f r äh
+080/047	frä	1	f r ä
+080/049	fraa	1	f r aa
+080/051	fraa	1	f r aa
+080/053	fraa	1	f r aa
+080/055	fraa	1	f r aa
+080/057	fraa	1	f r aa
+080/059	fraa	1	f r aa
+080/061	fraa	1	f r aa
+080/063	fraa	1	f r aa
+080/065	fra	1	f r a
+080/067	fraa	1	f r aa
+080/069	fraa	1	f r aa
+080/071	frau	1	f r au
+080/073	fra	1	f r a
+080/075	fraa	1	f r aa
+080/077	fraa	1	f r aa
+080/079	weib	1	w ei b
+080/081	frau	1	f r au
+080/083	os	1	o s
+080/085	wei	1	w ei
+080/087	frau	1	f r au
+080/089	frau	1	f r au
+080/091	frau	1	f r au
+080/093	frau	1	f r au
+080/095	frau	1	f r au
+080/097	frau	1	f r au
+080/099	fra	1	f r a
+080/101	frau	1	f r au
+080/103	frau	1	f r au
+080/105	wei	1	w ei
+080/107	frau	1	f r au
+080/109	frau	1	f r au
+080/127	wei	1	w ei
+080/147	frau	1	f r au
+080/151	baj	1	b a j
+080/153	frou	1	f r ou
+080/193	fra	1	f r a
+080/195	fraa	1	f r aa
+081/025	frou	1	f r ou
+081/027	froi	1	f r oi
+081/029	frau	1	f r au
+081/031	frau	1	f r au
+081/033	frau	1	f r au
+081/035	frau	1	f r au
+081/037	frau	1	f r au
+081/039	fra	1	f r a
+081/043	frä	1	f r ä
+081/045	frä	1	f r ä
+081/047	frä	1	f r ä
+081/049	fra	1	f r a
+081/051	fraa	1	f r aa
+081/053	fraa	1	f r aa
+081/055	fraa	1	f r aa
+081/057	fraa	1	f r aa
+081/059	fraa	1	f r aa
+081/061	fraa	1	f r aa
+081/063	fraa	1	f r aa
+081/065	fra	1	f r a
+081/067	fraa	1	f r aa
+081/069	fra	1	f r a
+081/071	fraa	1	f r aa
+081/073	weib	1	w ei b
+081/075	frau	1	f r au
+081/077	fra	1	f r a
+081/079	frau	1	f r au
+081/081	frau	1	f r au
+081/083	frau	1	f r au
+081/085	frau	1	f r au
+081/087	frau	1	f r au
+081/089	frau	1	f r au
+081/091	frau	1	f r au
+081/093	frau	1	f r au
+081/095	wei	1	w ei
+081/097	frau	1	f r au
+081/099	frau	1	f r au
+081/101	wei	1	w ei
+081/103	fra	1	f r a
+081/105	fraa	1	f r aa
+081/107	wei	1	w ei
+081/109	frau	1	f r au
+081/111	wei	1	w ei
+081/127	wei	1	w ei
+081/129	NA	NA	-
+081/133	frau	1	f r au
+081/147	frau	1	f r au
+081/191	waiep	1	w aie p
+081/193	woje	1	w o j e
+081/195	frau	1	f r au
+082/027	frööi	1	f r ööi
+082/029	fröiw	1	f r öi w
+082/031	fra	1	f r a
+082/033	frau	1	f r au
+082/035	frau	1	f r au
+082/037	frau	1	f r au
+082/039	frau	1	f r au
+082/041	fraau	1	f r aau
+082/043	fraa	1	f r aa
+082/045	frää	1	f r ää
+082/047	fraa	1	f r aa
+082/049	fraa	1	f r aa
+082/051	fra	1	f r a
+082/053	fraa	1	f r aa
+082/055	fraa	1	f r aa
+082/057	fra	1	f r a
+082/059	frau	1	f r au
+082/061	weib	1	w ei b
+082/063	fraa	1	f r aa
+082/065	frah	1	f r ah
+082/067	fra	1	f r a
+082/069	weib	1	w ei b
+082/071	fro	1	f r o
+082/073	fra	1	f r a
+082/075	fra	1	f r a
+082/077	fra	1	f r a
+082/079	frau	1	f r au
+082/081	fra	1	f r a
+082/083	wei	1	w ei
+082/085	wei	1	w ei
+082/087	frau	1	f r au
+082/089	frau	1	f r au
+082/091	frau	1	f r au
+082/093	frau	1	f r au
+082/095	frau	1	f r au
+082/097	frau	1	f r au
+082/099	frau	1	f r au
+082/101	frau	1	f r au
+082/103	froo	1	f r oo
+082/105	fra	1	f r a
+082/107	frau	1	f r au
+082/111	frau	1	f r au
+082/113	frau	1	f r au
+082/117	frau	1	f r au
+082/129	frau	1	f r au
+082/131	frau	1	f r au
+082/133	wai	1	w ai
+082/135	wej	1	w e j
+082/145	frau	1	f r au
+082/147	frau	1	f r au
+082/191	frau	1	f r au
+082/195	frau	1	f r au
+083/027	froi	1	f r oi
+083/029	froi	1	f r oi
+083/031	frau	1	f r au
+083/033	fräu	1	f r äu
+083/035	frau	1	f r au
+083/037	frau	1	f r au
+083/039	frau	1	f r au
+083/041	frau	1	f r au
+083/043	fraa	1	f r aa
+083/045	fra	1	f r a
+083/047	fraa	1	f r aa
+083/049	fra	1	f r a
+083/051	fra	1	f r a
+083/053	fraa	1	f r aa
+083/055	frau	1	f r au
+083/057	frau	1	f r au
+083/059	frao	1	f r ao
+083/061	frao	1	f r ao
+083/063	frau	1	f r au
+083/065	fraa	1	f r aa
+083/067	frau	1	f r au
+083/069	froo	1	f r oo
+083/071	fro	1	f r o
+083/073	froh	1	f r oh
+083/075	froo	1	f r oo
+083/077	fraa	1	f r aa
+083/079	frau	1	f r au
+083/081	weib	1	w ei b
+083/083	frau	1	f r au
+083/085	frau	1	f r au
+083/087	frau	1	f r au
+083/089	frau	1	f r au
+083/091	frau	1	f r au
+083/093	frau	1	f r au
+083/095	frau	1	f r au
+083/097	frau	1	f r au
+083/099	frau	1	f r au
+083/101	frau	1	f r au
+083/103	fro	1	f r o
+083/105	fra	1	f r a
+083/107	frau	1	f r au
+083/111	wei	1	w ei
+083/113	wei	1	w ei
+083/115	frau	1	f r au
+083/117	wei	1	w ei
+083/119	frau	1	f r au
+083/121	frau	1	f r au
+083/129	wai	1	w ai
+083/131	frau	1	f r au
+083/133	frau	1	f r au
+083/135	frau	1	f r au
+083/139	wei	1	w ei
+083/143	basl	1	b a s l
+083/145	frau	1	f r au
+083/147	frau	1	f r au
+083/149	basl	1	b a s l
+083/173	waep	1	w ae p
+083/195	frau	1	f r au
+084/031	fraau	1	f r aau
+084/033	frau	1	f r au
+084/035	fraw	1	f r a w
+084/037	frau	1	f r au
+084/039	frau	1	f r au
+084/041	fräu	1	f r äu
+084/043	frau	1	f r au
+084/045	frau	1	f r au
+084/047	fraa	1	f r aa
+084/049	fraa	1	f r aa
+084/051	fra	1	f r a
+084/053	fraa	1	f r aa
+084/055	frau	1	f r au
+084/057	frau	1	f r au
+084/059	frau	1	f r au
+084/061	frao	1	f r ao
+084/063	frao	1	f r ao
+084/065	frau	1	f r au
+084/067	frau	1	f r au
+084/069	weib	1	w ei b
+084/071	fro	1	f r o
+084/073	froo	1	f r oo
+084/075	fro	1	f r o
+084/077	frau	1	f r au
+084/079	frau	1	f r au
+084/081	frau	1	f r au
+084/083	frau	1	f r au
+084/085	frau	1	f r au
+084/087	frau	1	f r au
+084/089	frau	1	f r au
+084/091	frau	1	f r au
+084/093	froau	1	f r oau
+084/095	frau	1	f r au
+084/097	frau	1	f r au
+084/099	frau	1	f r au
+084/101	fra	1	f r a
+084/103	fra	1	f r a
+084/105	frau	1	f r au
+084/107	frau	1	f r au
+084/109	frau	1	f r au
+084/111	wei	1	w ei
+084/113	frau	1	f r au
+084/115	frau	1	f r au
+084/117	frau	1	f r au
+084/119	frau	1	f r au
+084/129	frau	1	f r au
+084/131	wei	1	w ei
+084/133	frau	1	f r au
+084/135	frau	1	f r au
+084/137	frau	1	f r au
+084/139	frau	1	f r au
+084/141	frou	1	f r ou
+084/143	basl	1	b a s l
+084/145	basl	1	b a s l
+084/147	frau	1	f r au
+084/149	frau	1	f r au
+084/171	wra	1	w r a
+084/173	baep	1	b ae p
+084/195	fra	1	f r a
+085/031	frau	1	f r au
+085/033	frau	1	f r au
+085/035	frau	1	f r au
+085/037	fräui	1	f r äui
+085/039	frau	1	f r au
+085/041	frau	1	f r au
+085/043	frau	1	f r au
+085/045	frau	1	f r au
+085/047	fraa	1	f r aa
+085/049	frau	1	f r au
+085/051	frau	1	f r au
+085/053	frau	1	f r au
+085/055	frau	1	f r au
+085/057	frau	1	f r au
+085/059	frau	1	f r au
+085/061	frau	1	f r au
+085/063	frao	1	f r ao
+085/065	frau	1	f r au
+085/067	frau	1	f r au
+085/069	frau	1	f r au
+085/071	fro	1	f r o
+085/073	froo	1	f r oo
+085/075	froo	1	f r oo
+085/077	froh	1	f r oh
+085/079	frau	1	f r au
+085/081	frau	1	f r au
+085/083	frau	1	f r au
+085/085	frau	1	f r au
+085/087	frau	1	f r au
+085/089	frau	1	f r au
+085/091	frau	1	f r au
+085/093	frau	1	f r au
+085/095	frau	1	f r au
+085/097	frau	1	f r au
+085/101	weii	1	w eii
+085/103	wei	1	w ei
+085/105	frau	1	f r au
+085/107	frau	1	f r au
+085/109	wei	1	w ei
+085/111	wei	1	w ei
+085/113	frau	1	f r au
+085/115	wei	1	w ei
+085/117	frau	1	f r au
+085/119	beirin	1	b ei r i n
+085/121	frau	1	f r au
+085/123	frau	1	f r au
+085/125	frau	1	f r au
+085/127	frau	1	f r au
+085/129	wei	1	w ei
+085/131	frau	1	f r au
+085/133	wei	1	w ei
+085/135	frau	1	f r au
+085/137	wei	1	w ei
+085/139	wei	1	w ei
+085/141	frau	1	f r au
+085/143	wei	1	w ei
+085/145	wei	1	w ei
+085/147	vei	1	v ei
+085/149	basel	1	b a s e l
+085/175	wrau	1	w r au
+085/193	fraa	1	f r aa
+085/197	fraa	1	f r aa
+086/033	frau	1	f r au
+086/035	fräu	1	f r äu
+086/037	fräu	1	f r äu
+086/039	frau	1	f r au
+086/041	frau	1	f r au
+086/043	fröj	1	f r ö j
+086/045	frau	1	f r au
+086/047	fräu	1	f r äu
+086/049	fra	1	f r a
+086/051	weib	1	w ei b
+086/053	frau	1	f r au
+086/055	frau	1	f r au
+086/057	frau	1	f r au
+086/059	weib	1	w ei b
+086/061	frau	1	f r au
+086/063	frau	1	f r au
+086/065	frau	1	f r au
+086/067	frau	1	f r au
+086/069	frau	1	f r au
+086/071	frau	1	f r au
+086/073	fro	1	f r o
+086/075	froo	1	f r oo
+086/077	frau	1	f r au
+086/079	frau	1	f r au
+086/081	frau	1	f r au
+086/083	froa	1	f r oa
+086/085	frau	1	f r au
+086/087	frau	1	f r au
+086/089	wei	1	w ei
+086/091	frau	1	f r au
+086/093	frau	1	f r au
+086/095	frau	1	f r au
+086/097	frau	1	f r au
+086/099	frau	1	f r au
+086/101	frau	1	f r au
+086/103	wei	1	w ei
+086/105	frau	1	f r au
+086/107	frau	1	f r au
+086/109	frau	1	f r au
+086/111	wei	1	w ei
+086/113	frau	1	f r au
+086/115	frau	1	f r au
+086/117	wei	1	w ei
+086/119	wei	1	w ei
+086/121	frau	1	f r au
+086/123	frau	1	f r au
+086/125	frau	1	f r au
+086/127	wei	1	w ei
+086/129	frau	1	f r au
+086/131	wei	1	w ei
+086/133	frau	1	f r au
+086/135	wei	1	w ei
+086/137	frau	1	f r au
+086/139	frau	1	f r au
+086/141	frau	1	f r au
+086/143	frau	1	f r au
+086/145	frau	1	f r au
+086/147	frau	1	f r au
+086/149	wei	1	w ei
+086/151	frau	1	f r au
+086/175	wrau	1	w r au
+086/197	fra	1	f r a
+086/199	beib	1	b ei b
+087/033	frau	1	f r au
+087/035	frau	1	f r au
+087/037	frau	1	f r au
+087/039	frau	1	f r au
+087/041	frau	1	f r au
+087/043	frau	1	f r au
+087/045	frau	1	f r au
+087/049	frau	1	f r au
+087/051	frau	1	f r au
+087/053	frao	1	f r ao
+087/055	frau	1	f r au
+087/057	frau	1	f r au
+087/059	frau	1	f r au
+087/061	frau	1	f r au
+087/063	frau	1	f r au
+087/065	frau	1	f r au
+087/067	frau	1	f r au
+087/069	frau	1	f r au
+087/071	frau	1	f r au
+087/073	frau	1	f r au
+087/075	frau	1	f r au
+087/077	fro	1	f r o
+087/079	frau	1	f r au
+087/081	frau	1	f r au
+087/083	frau	1	f r au
+087/085	frau	1	f r au
+087/087	frau	1	f r au
+087/089	frau	1	f r au
+087/091	frau	1	f r au
+087/093	frau	1	f r au
+087/095	frau	1	f r au
+087/097	frau	1	f r au
+087/099	frau	1	f r au
+087/101	frau	1	f r au
+087/103	frau	1	f r au
+087/105	frau	1	f r au
+087/107	frau	1	f r au
+087/109	frau	1	f r au
+087/111	frau	1	f r au
+087/113	frau	1	f r au
+087/115	frau	1	f r au
+087/117	frau	1	f r au
+087/119	wei	1	w ei
+087/121	frau	1	f r au
+087/123	frau	1	f r au
+087/125	frau	1	f r au
+087/127	frau	1	f r au
+087/129	frau	1	f r au
+087/133	frau	1	f r au
+087/135	frau	1	f r au
+087/137	frau	1	f r au
+087/139	frau	1	f r au
+087/141	wei	1	w ei
+087/143	frau	1	f r au
+087/145	wei	1	w ei
+087/147	wei	1	w ei
+087/149	frau	1	f r au
+087/151	frau	1	f r au
+088/035	fräu	1	f r äu
+088/037	fraui	1	f r aui
+088/039	fräui	1	f r äui
+088/041	freu	1	f r eu
+088/043	frau	1	f r au
+088/045	frau	1	f r au
+088/047	frau	1	f r au
+088/049	frau	1	f r au
+088/051	frau	1	f r au
+088/053	frau	1	f r au
+088/055	frau	1	f r au
+088/057	frao	1	f r ao
+088/059	frau	1	f r au
+088/061	frau	1	f r au
+088/063	frau	1	f r au
+088/065	frau	1	f r au
+088/067	frau	1	f r au
+088/069	frau	1	f r au
+088/071	frau	1	f r au
+088/073	weub	1	w eu b
+088/075	fro	1	f r o
+088/077	froo	1	f r oo
+088/079	fra	1	f r a
+088/081	frau	1	f r au
+088/083	frau	1	f r au
+088/085	frau	1	f r au
+088/087	frau	1	f r au
+088/089	frau	1	f r au
+088/091	frau	1	f r au
+088/093	frau	1	f r au
+088/095	frau	1	f r au
+088/097	frau	1	f r au
+088/099	frau	1	f r au
+088/101	frau	1	f r au
+088/103	wei	1	w ei
+088/105	frau	1	f r au
+088/107	frau	1	f r au
+088/109	frau	1	f r au
+088/113	frau	1	f r au
+088/115	frau	1	f r au
+088/117	NA	NA	-
+088/121	frau	1	f r au
+088/123	wei	1	w ei
+088/127	frau	1	f r au
+088/129	wei	1	w ei
+088/131	frau	1	f r au
+088/137	frau	1	f r au
+088/139	frau	1	f r au
+088/141	frau	1	f r au
+088/143	frau	1	f r au
+088/145	frau	1	f r au
+088/147	frau	1	f r au
+088/149	frau	1	f r au
+089/035	frau	1	f r au
+089/037	frau	1	f r au
+089/039	frau	1	f r au
+089/041	fräui	1	f r äui
+089/043	frau	1	f r au
+089/045	frau	1	f r au
+089/047	frao	1	f r ao
+089/049	frau	1	f r au
+089/051	frao	1	f r ao
+089/053	frau	1	f r au
+089/055	frau	1	f r au
+089/057	frau	1	f r au
+089/059	frao	1	f r ao
+089/061	frau	1	f r au
+089/063	frau	1	f r au
+089/065	frau	1	f r au
+089/067	frau	1	f r au
+089/069	frau	1	f r au
+089/071	frau	1	f r au
+089/073	frau	1	f r au
+089/075	frau	1	f r au
+089/077	frau	1	f r au
+089/079	fro	1	f r o
+089/081	frau	1	f r au
+089/083	frau	1	f r au
+089/085	frau	1	f r au
+089/087	fra	1	f r a
+089/089	frau	1	f r au
+089/091	frau	1	f r au
+089/093	frau	1	f r au
+089/095	frau	1	f r au
+089/097	frau	1	f r au
+089/099	frau	1	f r au
+089/101	frau	1	f r au
+089/103	frau	1	f r au
+089/105	wei	1	w ei
+089/107	frau	1	f r au
+089/109	frau	1	f r au
+089/111	NA	NA	-
+089/113	frau	1	f r au
+089/115	frau	1	f r au
+089/117	frau	1	f r au
+089/119	frau	1	f r au
+089/121	weib	1	w ei b
+089/123	frau	1	f r au
+089/125	frau	1	f r au
+089/127	frau	1	f r au
+089/129	frau	1	f r au
+089/131	frau	1	f r au
+089/133	frau	1	f r au
+089/135	frau	1	f r au
+089/137	frau	1	f r au
+089/139	wei	1	w ei
+089/141	frau	1	f r au
+089/143	frau	1	f r au
+089/145	frau	1	f r au
+089/147	frau	1	f r au
+089/149	frau	1	f r au
+090/035	fraui	1	f r aui
+090/037	fräuj	1	f r äu j
+090/039	fräi	1	f r äi
+090/041	fraüi	1	f r aüi
+090/043	frau	1	f r au
+090/045	frau	1	f r au
+090/047	frou	1	f r ou
+090/049	frau	1	f r au
+090/051	frao	1	f r ao
+090/053	frau	1	f r au
+090/055	frau	1	f r au
+090/057	frau	1	f r au
+090/059	frau	1	f r au
+090/061	frau	1	f r au
+090/063	frau	1	f r au
+090/065	frau	1	f r au
+090/067	frao	1	f r ao
+090/069	frau	1	f r au
+090/071	frau	1	f r au
+090/073	frau	1	f r au
+090/075	frau	1	f r au
+090/077	weib	1	w ei b
+090/079	fro	1	f r o
+090/081	frau	1	f r au
+090/083	frau	1	f r au
+090/085	wei	1	w ei
+090/087	frau	1	f r au
+090/089	frau	1	f r au
+090/091	frau	1	f r au
+090/093	frau	1	f r au
+090/095	wei	1	w ei
+090/097	frau	1	f r au
+090/099	frau	1	f r au
+090/101	frau	1	f r au
+090/103	frau	1	f r au
+090/105	frau	1	f r au
+090/107	wei	1	w ei
+090/109	frau	1	f r au
+090/111	frau	1	f r au
+090/113	frau	1	f r au
+090/115	frau	1	f r au
+090/119	frau	1	f r au
+090/121	frau	1	f r au
+090/123	frau	1	f r au
+090/125	frau	1	f r au
+090/127	frau	1	f r au
+090/129	wei	1	w ei
+090/131	frau	1	f r au
+090/133	wai	1	w ai
+090/135	frau	1	f r au
+090/137	frau	1	f r au
+090/139	frau	1	f r au
+090/141	frau	1	f r au
+090/143	wä	1	w ä
+090/145	frau	1	f r au
+090/147	wei	1	w ei
+090/149	frau	1	f r au
+090/151	frau	1	f r au
+091/035	fraui	1	f r aui
+091/037	freu	1	f r eu
+091/039	fraj	1	f r a j
+091/041	fraui	1	f r aui
+091/043	frau	1	f r au
+091/045	frau	1	f r au
+091/047	frau	1	f r au
+091/049	weib	1	w ei b
+091/051	weib	1	w ei b
+091/053	frao	1	f r ao
+091/055	frau	1	f r au
+091/057	frau	1	f r au
+091/059	frau	1	f r au
+091/061	frau	1	f r au
+091/063	frau	1	f r au
+091/065	frau	1	f r au
+091/067	frau	1	f r au
+091/069	weib	1	w ei b
+091/071	frau	1	f r au
+091/073	frau	1	f r au
+091/075	frau	1	f r au
+091/077	weib	1	w ei b
+091/079	frau	1	f r au
+091/081	wei	1	w ei
+091/083	frau	1	f r au
+091/085	frau	1	f r au
+091/087	frau	1	f r au
+091/091	frau	1	f r au
+091/093	frau	1	f r au
+091/095	frau	1	f r au
+091/097	wei	1	w ei
+091/099	frau	1	f r au
+091/101	frau	1	f r au
+091/103	frau	1	f r au
+091/105	frau	1	f r au
+091/107	wei	1	w ei
+091/109	frau	1	f r au
+091/111	frau	1	f r au
+091/113	wei	1	w ei
+091/115	frau	1	f r au
+091/117	wei	1	w ei
+091/119	frau	1	f r au
+091/121	frau	1	f r au
+091/125	frau	1	f r au
+091/129	frau	1	f r au
+091/131	frau	1	f r au
+091/133	frau	1	f r au
+091/135	frau	1	f r au
+091/137	frau	1	f r au
+091/139	frau	1	f r au
+091/141	frau	1	f r au
+091/143	frau	1	f r au
+091/145	wei	1	w ei
+091/147	frau	1	f r au
+091/149	frau	1	f r au
+091/151	frau	1	f r au
+091/155	frau	1	f r au
+092/033	frau	1	f r au
+092/035	fraui	1	f r aui
+092/037	frai	1	f r ai
+092/039	frai	1	f r ai
+092/041	frau	1	f r au
+092/043	frau	1	f r au
+092/045	frau	1	f r au
+092/047	wib	1	w i b
+092/049	wiib	1	w ii b
+092/051	frau	1	f r au
+092/053	frao	1	f r ao
+092/055	frau	1	f r au
+092/057	frau	1	f r au
+092/059	frau	1	f r au
+092/061	frau	1	f r au
+092/063	frao	1	f r ao
+092/065	frau	1	f r au
+092/067	frau	1	f r au
+092/069	frau	1	f r au
+092/071	frau	1	f r au
+092/073	frau	1	f r au
+092/075	frau	1	f r au
+092/077	frau	1	f r au
+092/079	fro	1	f r o
+092/081	frau	1	f r au
+092/083	frau	1	f r au
+092/085	frau	1	f r au
+092/087	frau	1	f r au
+092/089	frau	1	f r au
+092/091	frau	1	f r au
+092/093	wei	1	w ei
+092/095	frau	1	f r au
+092/097	frau	1	f r au
+092/099	frau	1	f r au
+092/101	frau	1	f r au
+092/103	frau	1	f r au
+092/105	frau	1	f r au
+092/107	frau	1	f r au
+092/109	frau	1	f r au
+092/111	frau	1	f r au
+092/113	frau	1	f r au
+092/115	wei	1	w ei
+092/117	frau	1	f r au
+092/119	frau	1	f r au
+092/121	frau	1	f r au
+092/123	frau	1	f r au
+092/125	frau	1	f r au
+092/127	frau	1	f r au
+092/129	frau	1	f r au
+092/131	wei	1	w ei
+092/133	frau	1	f r au
+092/135	frau	1	f r au
+092/137	wei	1	w ei
+092/139	frau	1	f r au
+092/141	frau	1	f r au
+092/143	frau	1	f r au
+092/145	frau	1	f r au
+092/147	frau	1	f r au
+092/149	frau	1	f r au
+092/151	frau	1	f r au
+093/035	froy	1	f r oy
+093/037	fraui	1	f r aui
+093/039	fräi	1	f r äi
+093/041	frai	1	f r ai
+093/043	frau	1	f r au
+093/045	wieb	1	w ie b
+093/047	frau	1	f r au
+093/049	wieb	1	w ie b
+093/051	wiib	1	w ii b
+093/053	frau	1	f r au
+093/055	frau	1	f r au
+093/057	frau	1	f r au
+093/059	frao	1	f r ao
+093/061	frao	1	f r ao
+093/063	frao	1	f r ao
+093/065	frau	1	f r au
+093/067	frau	1	f r au
+093/069	frau	1	f r au
+093/071	frau	1	f r au
+093/073	weib	1	w ei b
+093/075	frau	1	f r au
+093/077	weib	1	w ei b
+093/079	wei	1	w ei
+093/081	frau	1	f r au
+093/083	frau	1	f r au
+093/085	frau	1	f r au
+093/087	frau	1	f r au
+093/089	frau	1	f r au
+093/091	frau	1	f r au
+093/093	frau	1	f r au
+093/095	wei	1	w ei
+093/097	frau	1	f r au
+093/099	frau	1	f r au
+093/101	wei	1	w ei
+093/103	frau	1	f r au
+093/105	frau	1	f r au
+093/109	frau	1	f r au
+093/111	frau	1	f r au
+093/113	frau	1	f r au
+093/115	frou	1	f r ou
+093/117	frau	1	f r au
+093/119	frau	1	f r au
+093/121	frau	1	f r au
+093/123	wei	1	w ei
+093/125	frau	1	f r au
+093/127	frau	1	f r au
+093/129	frau	1	f r au
+093/131	frau	1	f r au
+093/133	frau	1	f r au
+093/137	frau	1	f r au
+093/139	frrau	1	f rr au
+093/143	frau	1	f r au
+093/145	frau	1	f r au
+093/147	frau	1	f r au
+093/149	frau	1	f r au
+093/151	frau	1	f r au
+093/153	frau	1	f r au
+093/155	frau	1	f r au
+094/033	froi	1	f r oi
+094/035	fröi	1	f r öi
+094/037	froi	1	f r oi
+094/039	frai	1	f r ai
+094/041	frau	1	f r au
+094/043	frau	1	f r au
+094/045	frau	1	f r au
+094/047	wiäb	1	w iä b
+094/049	frau	1	f r au
+094/051	frau	1	f r au
+094/053	weib	1	w ei b
+094/055	frau	1	f r au
+094/057	frau	1	f r au
+094/059	frau	1	f r au
+094/061	frau	1	f r au
+094/063	frau	1	f r au
+094/065	frau	1	f r au
+094/067	frau	1	f r au
+094/069	frau	1	f r au
+094/071	frau	1	f r au
+094/073	frau	1	f r au
+094/075	frau	1	f r au
+094/077	frau	1	f r au
+094/079	frau	1	f r au
+094/081	frau	1	f r au
+094/083	frau	1	f r au
+094/085	frau	1	f r au
+094/087	frau	1	f r au
+094/089	frau	1	f r au
+094/091	frau	1	f r au
+094/093	frau	1	f r au
+094/095	frau	1	f r au
+094/097	frau	1	f r au
+094/099	frau	1	f r au
+094/101	frau	1	f r au
+094/103	frau	1	f r au
+094/105	frau	1	f r au
+094/107	frau	1	f r au
+094/109	frau	1	f r au
+094/111	frau	1	f r au
+094/113	frau	1	f r au
+094/115	frau	1	f r au
+094/117	frau	1	f r au
+094/119	frau	1	f r au
+094/121	frau	1	f r au
+094/123	frau	1	f r au
+094/125	frau	1	f r au
+094/127	frau	1	f r au
+094/129	frau	1	f r au
+094/131	wei	1	w ei
+094/133	frau	1	f r au
+094/135	frau	1	f r au
+094/137	frau	1	f r au
+094/139	frau	1	f r au
+094/141	frau	1	f r au
+094/143	frau	1	f r au
+094/145	oidn	1	oi d n
+094/147	moam	1	m oa m
+094/149	frau	1	f r au
+094/151	frau	1	f r au
+094/153	mahm	1	m ah m
+095/031	frau	1	f r au
+095/033	froi	1	f r oi
+095/035	frai	1	f r ai
+095/037	froi	1	f r oi
+095/039	frai	1	f r ai
+095/041	frau	1	f r au
+095/043	frau	1	f r au
+095/045	wieb	1	w ie b
+095/047	wiib	1	w ii b
+095/049	wiib	1	w ii b
+095/051	wieb	1	w ie b
+095/053	frau	1	f r au
+095/055	wieb	1	w ie b
+095/057	frau	1	f r au
+095/059	weib	1	w ei b
+095/061	frau	1	f r au
+095/063	frau	1	f r au
+095/065	frau	1	f r au
+095/067	frau	1	f r au
+095/069	frau	1	f r au
+095/071	frau	1	f r au
+095/073	frau	1	f r au
+095/075	frau	1	f r au
+095/077	frau	1	f r au
+095/079	frau	1	f r au
+095/081	frau	1	f r au
+095/083	frau	1	f r au
+095/085	wei	1	w ei
+095/087	wei	1	w ei
+095/089	frau	1	f r au
+095/091	wei	1	w ei
+095/093	frau	1	f r au
+095/095	weib	1	w ei b
+095/097	frau	1	f r au
+095/099	frau	1	f r au
+095/101	frau	1	f r au
+095/103	frau	1	f r au
+095/105	frau	1	f r au
+095/107	frau	1	f r au
+095/109	frau	1	f r au
+095/111	frau	1	f r au
+095/113	frau	1	f r au
+095/115	frau	1	f r au
+095/117	wei	1	w ei
+095/119	frau	1	f r au
+095/121	wei	1	w ei
+095/123	frau	1	f r au
+095/125	frau	1	f r au
+095/129	frau	1	f r au
+095/131	frau	1	f r au
+095/133	frau	1	f r au
+095/139	frau	1	f r au
+095/141	frau	1	f r au
+095/143	frau	1	f r au
+095/145	frau	1	f r au
+095/147	frau	1	f r au
+095/149	frau	1	f r au
+095/151	frau	1	f r au
+095/153	frau	1	f r au
+095/155	frau	1	f r au
+096/031	frai	1	f r ai
+096/033	fräi	1	f r äi
+096/035	frau	1	f r au
+096/037	frai	1	f r ai
+096/039	fraü	1	f r aü
+096/041	frau	1	f r au
+096/043	frau	1	f r au
+096/045	frau	1	f r au
+096/047	frau	1	f r au
+096/049	frau	1	f r au
+096/051	frau	1	f r au
+096/053	frau	1	f r au
+096/055	frou	1	f r ou
+096/057	frau	1	f r au
+096/059	frau	1	f r au
+096/061	wib	1	w i b
+096/063	frau	1	f r au
+096/065	frau	1	f r au
+096/067	frau	1	f r au
+096/069	frau	1	f r au
+096/071	frau	1	f r au
+096/075	weib	1	w ei b
+096/077	frau	1	f r au
+096/079	frau	1	f r au
+096/081	frau	1	f r au
+096/083	frau	1	f r au
+096/085	frau	1	f r au
+096/087	frau	1	f r au
+096/089	frau	1	f r au
+096/091	wei	1	w ei
+096/093	frau	1	f r au
+096/095	frau	1	f r au
+096/097	frau	1	f r au
+096/099	frau	1	f r au
+096/101	frau	1	f r au
+096/103	frau	1	f r au
+096/105	frau	1	f r au
+096/107	frau	1	f r au
+096/109	frau	1	f r au
+096/111	frau	1	f r au
+096/113	frau	1	f r au
+096/115	weib	1	w ei b
+096/117	frau	1	f r au
+096/119	frau	1	f r au
+096/121	frau	1	f r au
+096/123	frau	1	f r au
+096/125	frau	1	f r au
+096/129	frau	1	f r au
+096/131	frau	1	f r au
+096/135	frau	1	f r au
+096/137	frau	1	f r au
+096/139	frau	1	f r au
+096/141	frau	1	f r au
+096/143	weib	1	w ei b
+096/145	frau	1	f r au
+096/147	frau	1	f r au
+096/151	frau	1	f r au
+096/153	frau	1	f r au
+096/155	frau	1	f r au
+097/031	frau	1	f r au
+097/033	fräi	1	f r äi
+097/035	froi	1	f r oi
+097/037	frau	1	f r au
+097/039	frau	1	f r au
+097/041	frau	1	f r au
+097/043	frau	1	f r au
+097/045	frau	1	f r au
+097/047	frau	1	f r au
+097/049	frau	1	f r au
+097/051	frou	1	f r ou
+097/053	frau	1	f r au
+097/055	wib	1	w i b
+097/057	frou	1	f r ou
+097/059	frau	1	f r au
+097/061	wiib	1	w ii b
+097/063	wib	1	w i b
+097/065	frou	1	f r ou
+097/067	frau	1	f r au
+097/069	frao	1	f r ao
+097/071	frau	1	f r au
+097/073	frau	1	f r au
+097/075	frau	1	f r au
+097/077	frau	1	f r au
+097/079	frau	1	f r au
+097/081	frau	1	f r au
+097/083	frau	1	f r au
+097/085	frau	1	f r au
+097/087	fra	1	f r a
+097/089	frau	1	f r au
+097/091	frau	1	f r au
+097/093	wai	1	w ai
+097/095	frau	1	f r au
+097/097	frau	1	f r au
+097/099	frau	1	f r au
+097/103	frau	1	f r au
+097/105	frau	1	f r au
+097/107	frau	1	f r au
+097/109	frau	1	f r au
+097/113	frau	1	f r au
+097/125	frau	1	f r au
+097/131	frau	1	f r au
+097/133	frau	1	f r au
+097/139	moam	1	m oa m
+097/141	frau	1	f r au
+097/143	frau	1	f r au
+097/145	frau	1	f r au
+097/149	frau	1	f r au
+097/153	wei	1	w ei
+098/033	froi	1	f r oi
+098/035	frau	1	f r au
+098/037	fraui	1	f r aui
+098/039	fraü	1	f r aü
+098/041	frau	1	f r au
+098/043	frau	1	f r au
+098/045	frau	1	f r au
+098/047	frau	1	f r au
+098/049	frau	1	f r au
+098/051	frau	1	f r au
+098/053	frou	1	f r ou
+098/055	frou	1	f r ou
+098/057	frou	1	f r ou
+098/059	frau	1	f r au
+098/061	frau	1	f r au
+098/063	frau	1	f r au
+098/065	frau	1	f r au
+098/067	frou	1	f r ou
+098/069	wieb	1	w ie b
+098/071	wiib	1	w ii b
+098/073	frau	1	f r au
+098/075	weib	1	w ei b
+098/077	weib	1	w ei b
+098/079	frau	1	f r au
+098/081	frau	1	f r au
+098/083	frau	1	f r au
+098/085	frau	1	f r au
+098/087	frau	1	f r au
+098/089	frau	1	f r au
+098/091	frau	1	f r au
+098/093	frau	1	f r au
+098/095	frau	1	f r au
+098/097	frau	1	f r au
+098/103	frau	1	f r au
+098/105	NA	NA	-
+098/107	frau	1	f r au
+098/109	altn	1	a l t n
+098/111	frau	1	f r au
+098/119	weib	1	w ei b
+098/123	frau	1	f r au
+098/125	frau	1	f r au
+098/127	frau	1	f r au
+098/135	frau	1	f r au
+098/137	frau	1	f r au
+098/139	frau	1	f r au
+098/141	frau	1	f r au
+098/143	frau	1	f r au
+098/145	frau	1	f r au
+098/147	moam	1	m oa m
+098/149	frau	1	f r au
+098/151	frau	1	f r au
+099/033	frai	1	f r ai
+099/035	froi	1	f r oi
+099/037	froy	1	f r oy
+099/039	frau	1	f r au
+099/041	frau	1	f r au
+099/043	frau	1	f r au
+099/045	frau	1	f r au
+099/047	frau	1	f r au
+099/049	frau	1	f r au
+099/051	frau	1	f r au
+099/053	frou	1	f r ou
+099/055	frau	1	f r au
+099/057	frau	1	f r au
+099/059	frau	1	f r au
+099/063	frau	1	f r au
+099/065	wiib	1	w ii b
+099/067	frou	1	f r ou
+099/069	wib	1	w i b
+099/071	frou	1	f r ou
+099/073	weib	1	w ei b
+099/075	frau	1	f r au
+099/077	frau	1	f r au
+099/081	frau	1	f r au
+099/083	frau	1	f r au
+099/085	frau	1	f r au
+099/089	frau	1	f r au
+099/093	frau	1	f r au
+099/095	weiwas	1	w ei w a s
+099/099	frau	1	f r au
+099/101	frau	1	f r au
+099/103	altn	1	a l t n
+099/105	frau	1	f r au
+099/107	auetn	1	aue t n
+099/109	frau	1	f r au
+099/111	weib	1	w ei b
+099/113	frau	1	f r au
+099/121	frau	1	f r au
+099/123	frau	1	f r au
+099/125	frau	1	f r au
+099/131	frau	1	f r au
+099/137	frau	1	f r au
+099/139	frau	1	f r au
+099/141	frau	1	f r au
+099/143	frau	1	f r au
+099/145	frau	1	f r au
+099/147	frau	1	f r au
+100/033	fraü	1	f r aü
+100/035	frauü	1	f r auü
+100/037	fräi	1	f r äi
+100/039	frau	1	f r au
+100/041	frau	1	f r au
+100/043	frau	1	f r au
+100/045	frau	1	f r au
+100/049	frau	1	f r au
+100/051	frau	1	f r au
+100/053	frau	1	f r au
+100/055	frau	1	f r au
+100/057	frau	1	f r au
+100/059	frau	1	f r au
+100/061	frau	1	f r au
+100/065	frau	1	f r au
+100/067	frou	1	f r ou
+100/069	frau	1	f r au
+100/071	frouu	1	f r ouu
+100/073	frou	1	f r ou
+100/075	frou	1	f r ou
+100/077	frau	1	f r au
+100/081	frau	1	f r au
+100/083	frau	1	f r au
+100/089	frau	1	f r au
+100/093	frau	1	f r au
+100/095	frau	1	f r au
+100/097	frau	1	f r au
+100/099	frau	1	f r au
+100/101	frau	1	f r au
+100/109	frau	1	f r au
+100/111	frau	1	f r au
+100/113	weib	1	w ei b
+100/115	weib	1	w ei b
+100/117	frau	1	f r au
+100/119	frau	1	f r au
+100/121	frau	1	f r au
+100/125	frau	1	f r au
+100/127	frau	1	f r au
+100/129	frau	1	f r au
+100/133	muada	1	m ua d a
+100/135	frau	1	f r au
+100/141	frau	1	f r au
+100/143	frau	1	f r au
+100/145	muam	1	m ua m
+101/035	fraai	1	f r aai
+101/037	frau	1	f r au
+101/039	frau	1	f r au
+101/041	frau	1	f r au
+101/043	frau	1	f r au
+101/045	frau	1	f r au
+101/047	frau	1	f r au
+101/049	frau	1	f r au
+101/051	frau	1	f r au
+101/053	frau	1	f r au
+101/055	frau	1	f r au
+101/057	frau	1	f r au
+101/059	frau	1	f r au
+101/061	frau	1	f r au
+101/063	frou	1	f r ou
+101/065	frou	1	f r ou
+101/067	frou	1	f r ou
+101/071	fräu	1	f r äu
+101/075	frou	1	f r ou
+101/077	frau	1	f r au
+101/079	frau	1	f r au
+101/081	wei	1	w ei
+101/091	gsellin	1	g s e ll i n
+101/093	frau	1	f r au
+101/095	gsoin	1	g s oi n
+101/097	frau	1	f r au
+101/099	frau	1	f r au
+101/101	frau	1	f r au
+101/103	NA	NA	-
+101/107	frau	1	f r au
+101/109	frauh	1	f r auh
+101/113	frau	1	f r au
+101/115	frau	1	f r au
+101/121	frau	1	f r au
+101/125	oltn	1	o l t n
+101/129	frau	1	f r au
+101/131	frau	1	f r au
+101/133	frau	1	f r au
+101/137	olta	1	o l t a
+101/139	frau	1	f r au
+101/141	frau	1	f r au
+101/143	frau	1	f r au
+101/145	frau	1	f r au
+101/147	muam	1	m ua m
+102/037	frau	1	f r au
+102/039	frau	1	f r au
+102/041	frau	1	f r au
+102/043	frau	1	f r au
+102/045	frau	1	f r au
+102/047	fra	1	f r a
+102/049	fräu	1	f r äu
+102/051	frä	1	f r ä
+102/053	frau	1	f r au
+102/055	frau	1	f r au
+102/057	frau	1	f r au
+102/059	frau	1	f r au
+102/061	frau	1	f r au
+102/063	frau	1	f r au
+102/065	frou	1	f r ou
+102/067	frou	1	f r ou
+102/069	wib	1	w i b
+102/071	wib	1	w i b
+102/073	wai	1	w ai
+102/075	frau	1	f r au
+102/077	frau	1	f r au
+102/079	frau	1	f r au
+102/081	frau	1	f r au
+102/083	frau	1	f r au
+102/089	frau	1	f r au
+102/091	weib	1	w ei b
+102/093	frau	1	f r au
+102/095	frau	1	f r au
+102/097	frau	1	f r au
+102/099	frau	1	f r au
+102/103	frau	1	f r au
+102/107	weib	1	w ei b
+102/109	frau	1	f r au
+102/113	frau	1	f r au
+102/115	frau	1	f r au
+102/127	frau	1	f r au
+102/129	frau	1	f r au
+102/131	frau	1	f r au
+102/135	frau	1	f r au
+102/137	frau	1	f r au
+102/139	frau	1	f r au
+102/141	frau	1	f r au
+102/143	frau	1	f r au
+102/145	frau	1	f r au
+103/039	frou	1	f r ou
+103/041	frau	1	f r au
+103/043	frou	1	f r ou
+103/045	frou	1	f r ou
+103/047	frau	1	f r au
+103/049	frau	1	f r au
+103/051	frau	1	f r au
+103/053	frau	1	f r au
+103/055	frau	1	f r au
+103/057	frau	1	f r au
+103/059	frou	1	f r ou
+103/063	frou	1	f r ou
+103/065	frou	1	f r ou
+103/067	wib	1	w i b
+103/069	frou	1	f r ou
+103/071	wib	1	w i b
+103/073	frau	1	f r au
+103/075	wai	1	w ai
+103/077	frau	1	f r au
+103/079	weib	1	w ei b
+103/081	frau	1	f r au
+103/083	frau	1	f r au
+103/085	frau	1	f r au
+103/087	weibetz	1	w ei b e t z
+103/089	gsellin	1	g s e ll i n
+103/091	gsöllin	1	g s ö ll i n
+103/097	gsöen	1	g s öe n
+103/099	frau	1	f r au
+103/101	frau	1	f r au
+103/105	frau	1	f r au
+103/107	frau	1	f r au
+103/111	frau	1	f r au
+103/121	frau	1	f r au
+103/125	frau	1	f r au
+103/127	frau	1	f r au
+103/131	frao	1	f r ao
+103/133	frau	1	f r au
+103/135	frau	1	f r au
+103/137	frau	1	f r au
+103/139	frau	1	f r au
+103/141	frau	1	f r au
+103/143	muam	1	m ua m
+103/145	frau	1	f r au
+104/033	frou	1	f r ou
+104/035	frou	1	f r ou
+104/037	frau	1	f r au
+104/039	frau	1	f r au
+104/041	frou	1	f r ou
+104/043	frau	1	f r au
+104/045	frou	1	f r ou
+104/047	frou	1	f r ou
+104/049	fräw	1	f r ä w
+104/051	frau	1	f r au
+104/053	frau	1	f r au
+104/055	frau	1	f r au
+104/057	frau	1	f r au
+104/059	frau	1	f r au
+104/061	frou	1	f r ou
+104/063	frau	1	f r au
+104/065	frau	1	f r au
+104/067	frau	1	f r au
+104/071	frau	1	f r au
+104/075	frauu	1	f r auu
+104/077	frau	1	f r au
+104/079	frau	1	f r au
+104/081	frau	1	f r au
+104/083	frau	1	f r au
+104/085	frau	1	f r au
+104/091	gsöllin	1	g s ö ll i n
+104/095	frau	1	f r au
+104/101	frau	1	f r au
+104/103	frau	1	f r au
+104/107	frau	1	f r au
+104/111	frao	1	f r ao
+104/113	frau	1	f r au
+104/119	frau	1	f r au
+104/121	frau	1	f r au
+104/123	frau	1	f r au
+104/125	frau	1	f r au
+104/127	frau	1	f r au
+104/131	muata	1	m ua t a
+104/133	frau	1	f r au
+104/135	frau	1	f r au
+104/137	frau	1	f r au
+104/139	frau	1	f r au
+104/141	mouam	1	m oua m
+104/143	frau	1	f r au
+104/145	frau	1	f r au
+105/031	frou	1	f r ou
+105/033	frau	1	f r au
+105/035	frou	1	f r ou
+105/037	frou	1	f r ou
+105/039	frou	1	f r ou
+105/041	frou	1	f r ou
+105/043	frou	1	f r ou
+105/045	frau	1	f r au
+105/047	frou	1	f r ou
+105/049	frau	1	f r au
+105/051	frau	1	f r au
+105/053	frau	1	f r au
+105/055	frau	1	f r au
+105/057	frau	1	f r au
+105/059	frau	1	f r au
+105/061	frou	1	f r ou
+105/063	frau	1	f r au
+105/065	wib	1	w i b
+105/067	frau	1	f r au
+105/069	wib	1	w i b
+105/071	weiböz	1	w ei b ö z
+105/073	frau	1	f r au
+105/075	frau	1	f r au
+105/077	frau	1	f r au
+105/079	frau	1	f r au
+105/081	frau	1	f r au
+105/085	frau	1	f r au
+105/087	frau	1	f r au
+105/089	frau	1	f r au
+105/103	oitn	1	oi t n
+105/105	frau	1	f r au
+105/111	frau	1	f r au
+105/113	frau	1	f r au
+105/115	frau	1	f r au
+105/117	frou	1	f r ou
+105/119	NA	NA	-
+105/121	frau	1	f r au
+105/125	frau	1	f r au
+105/127	frau	1	f r au
+105/131	frau	1	f r au
+105/133	frau	1	f r au
+105/135	frau	1	f r au
+105/137	frau	1	f r au
+105/141	moam	1	m oa m
+105/143	frau	1	f r au
+105/145	frau	1	f r au
+106/033	frou	1	f r ou
+106/035	frou	1	f r ou
+106/037	frou	1	f r ou
+106/039	frou	1	f r ou
+106/041	frau	1	f r au
+106/043	frou	1	f r ou
+106/045	frou	1	f r ou
+106/047	frau	1	f r au
+106/049	frau	1	f r au
+106/051	frau	1	f r au
+106/053	frau	1	f r au
+106/057	frau	1	f r au
+106/061	frau	1	f r au
+106/063	frau	1	f r au
+106/067	wib	1	w i b
+106/071	frau	1	f r au
+106/073	weibats	1	w ei b a t s
+106/075	frau	1	f r au
+106/077	frau	1	f r au
+106/079	frau	1	f r au
+106/081	weiwatn	1	w ei w a t n
+106/085	weibes	1	w ei b e s
+106/087	frau	1	f r au
+106/093	frau	1	f r au
+106/097	frau	1	f r au
+106/099	NA	NA	-
+106/103	frau	1	f r au
+106/111	frau	1	f r au
+106/115	frau	1	f r au
+106/121	frau	1	f r au
+106/123	frau	1	f r au
+106/125	muatta	1	m ua tt a
+106/129	frau	1	f r au
+106/131	frau	1	f r au
+106/133	frau	1	f r au
+106/135	frau	1	f r au
+106/137	frau	1	f r au
+106/139	frau	1	f r au
+106/141	frau	1	f r au
+106/143	frau	1	f r au
+106/145	muam	1	m ua m
+107/033	frau	1	f r au
+107/035	frou	1	f r ou
+107/037	frou	1	f r ou
+107/039	frau	1	f r au
+107/041	frou	1	f r ou
+107/043	frou	1	f r ou
+107/045	frou	1	f r ou
+107/047	fräu	1	f r äu
+107/049	frai	1	f r ai
+107/051	frau	1	f r au
+107/053	frau	1	f r au
+107/057	frau	1	f r au
+107/059	frau	1	f r au
+107/063	frau	1	f r au
+107/065	frau	1	f r au
+107/071	frau	1	f r au
+107/075	frau	1	f r au
+107/081	frau	1	f r au
+107/085	weiwis	1	w ei w i s
+107/087	weibis	1	w ei b i s
+107/089	frau	1	f r au
+107/091	weibe	1	w ei b e
+107/097	weibischin	1	w ei b i sch i n
+107/099	oltn	1	o l t n
+107/103	frau	1	f r au
+107/105	weiba	1	w ei b a
+107/107	frau	1	f r au
+107/111	frau	1	f r au
+107/119	frau	1	f r au
+107/121	frau	1	f r au
+107/123	frau	1	f r au
+107/125	frau	1	f r au
+107/127	frau	1	f r au
+107/129	muada	1	m ua d a
+107/131	frau	1	f r au
+107/133	frau	1	f r au
+107/135	frau	1	f r au
+107/137	frau	1	f r au
+107/139	frau	1	f r au
+107/141	frau	1	f r au
+107/143	frau	1	f r au
+108/033	frou	1	f r ou
+108/035	frou	1	f r ou
+108/037	frau	1	f r au
+108/039	frou	1	f r ou
+108/041	frau	1	f r au
+108/043	frou	1	f r ou
+108/047	fraiw	1	f r ai w
+108/049	frai	1	f r ai
+108/063	frou	1	f r ou
+108/065	frau	1	f r au
+108/067	frau	1	f r au
+108/075	weibaz	1	w ei b a z
+108/079	frau	1	f r au
+108/081	frau	1	f r au
+108/085	frau	1	f r au
+108/087	frau	1	f r au
+108/091	frau	1	f r au
+108/099	frau	1	f r au
+108/101	frau	1	f r au
+108/103	frau	1	f r au
+108/105	menschen	1	m e n sch e n
+108/109	frau	1	f r au
+108/111	frau	1	f r au
+108/113	frau	1	f r au
+108/117	frau	1	f r au
+108/119	frau	1	f r au
+108/121	frau	1	f r au
+108/123	frau	1	f r au
+108/125	frau	1	f r au
+108/127	frau	1	f r au
+108/129	frau	1	f r au
+108/131	sei	1	s ei
+108/133	frau	1	f r au
+108/135	frau	1	f r au
+108/137	frau	1	f r au
+108/139	frau	1	f r au
+108/141	frau	1	f r au
+109/035	frou	1	f r ou
+109/037	frou	1	f r ou
+109/039	frou	1	f r ou
+109/041	frau	1	f r au
+109/043	frou	1	f r ou
+109/045	froww	1	f r o ww
+109/049	fräu	1	f r äu
+109/053	fräu	1	f r äu
+109/061	frou	1	f r ou
+109/063	frau	1	f r au
+109/065	wib	1	w i b
+109/067	frau	1	f r au
+109/075	frau	1	f r au
+109/083	oltn	1	o l t n
+109/087	frau	1	f r au
+109/089	frau	1	f r au
+109/091	frau	1	f r au
+109/093	frau	1	f r au
+109/095	frau	1	f r au
+109/097	frau	1	f r au
+109/099	frau	1	f r au
+109/101	frau	1	f r au
+109/103	frau	1	f r au
+109/107	frau	1	f r au
+109/109	muatta	1	m ua tt a
+109/111	frau	1	f r au
+109/113	frau	1	f r au
+109/115	frau	1	f r au
+109/117	frau	1	f r au
+109/119	frau	1	f r au
+109/121	frau	1	f r au
+109/123	oltn	1	o l t n
+109/125	frau	1	f r au
+109/127	frau	1	f r au
+109/129	frau	1	f r au
+109/131	frau	1	f r au
+109/133	weiberr	1	w ei b e rr
+109/135	frau	1	f r au
+109/137	frau	1	f r au
+109/139	frau	1	f r au
+110/035	frau	1	f r au
+110/039	frou	1	f r ou
+110/041	frau	1	f r au
+110/043	frou	1	f r ou
+110/045	frow	1	f r o w
+110/047	frou	1	f r ou
+110/049	frow	1	f r o w
+110/057	wib	1	w i b
+110/061	frau	1	f r au
+110/065	frau	1	f r au
+110/075	frau	1	f r au
+110/079	frau	1	f r au
+110/081	NA	NA	-
+110/083	frau	1	f r au
+110/087	frau	1	f r au
+110/089	frau	1	f r au
+110/091	weibilan	1	w ei b i l a n
+110/093	muito	1	m ui t o
+110/095	frau	1	f r au
+110/097	frau	1	f r au
+110/099	oltn	1	o l t n
+110/101	frau	1	f r au
+110/105	frau	1	f r au
+110/107	frau	1	f r au
+110/111	frau	1	f r au
+110/113	frau	1	f r au
+110/115	frau	1	f r au
+110/117	frau	1	f r au
+110/119	frau	1	f r au
+110/121	frau	1	f r au
+110/125	frau	1	f r au
+110/127	ihr	1	ih r
+110/129	wabn	1	w a b n
+110/131	muata	1	m ua t a
+110/133	frau	1	f r au
+110/135	wamm	1	w a mm
+110/137	frau	1	f r au
+110/139	frau	1	f r au
+111/035	frau	1	f r au
+111/037	frau	1	f r au
+111/039	frou	1	f r ou
+111/041	frou	1	f r ou
+111/043	frou	1	f r ou
+111/045	frouw	1	f r ou w
+111/059	frau	1	f r au
+111/073	frau	1	f r au
+111/075	frau	1	f r au
+111/077	weibats	1	w ei b a t s
+111/079	weibez	1	w ei b e z
+111/081	frau	1	f r au
+111/083	frau	1	f r au
+111/087	muatr	1	m ua t r
+111/089	frau	1	f r au
+111/105	frab	1	f r a b
+111/107	frau	1	f r au
+111/109	frau	1	f r au
+111/111	frau	1	f r au
+111/113	frau	1	f r au
+111/115	frau	1	f r au
+111/117	frau	1	f r au
+111/119	frau	1	f r au
+111/121	frau	1	f r au
+111/123	frau	1	f r au
+111/125	frau	1	f r au
+112/037	frou	1	f r ou
+112/039	frow	1	f r o w
+112/041	frou	1	f r ou
+112/043	frou	1	f r ou
+112/047	firüw	1	f i r ü w
+112/059	frau	1	f r au
+112/061	frau	1	f r au
+112/063	frau	1	f r au
+112/075	olt	1	o l t
+112/081	frau	1	f r au
+112/083	frau	1	f r au
+112/085	frau	1	f r au
+112/111	frau	1	f r au
+112/115	frau	1	f r au
+112/117	frau	1	f r au
+112/119	frau	1	f r au
+113/035	frou	1	f r ou
+113/037	frow	1	f r o w
+113/039	frou	1	f r ou
+113/047	fröw	1	f r ö w
+113/079	frau	1	f r au
+113/081	frau	1	f r au
+113/083	frau	1	f r au
+113/085	frau	1	f r au
+113/087	frau	1	f r au
+113/121	frau	1	f r au
+113/123	frau	1	f r au
+114/035	frauw	1	f r au w
+114/045	freuw	1	f r eu w
+114/083	frau	1	f r au
+114/085	frau	1	f r au
+115/041	frou	1	f r ou
+115/043	frow	1	f r o w
+115/045	frouw	1	f r ou w
+115/083	frau	1	f r au
+115/085	frau	1	f r au
+116/043	frow	1	f r o w
+116/045	frow	1	f r o w
+116/083	frau	1	f r au
+117/043	froi	1	f r oi
+117/045	frow	1	f r o w
+118/041	frauw	1	f r au w
+119/083	frau	1	f r au
+120/085	waibe	1	w ai b e
+121/127	wra	1	w r a
+122/127	wra	1	w r a
+122/129	wra	1	w r a
+123/081	waib	1	w ai b
+123/123	wapn	1	w a p n
+123/125	frau	1	f r au
+123/127	fra	1	f r a
+123/129	wra	1	w r a
+124/125	fra	1	f r a
+124/127	wrar	1	w r a r
+124/129	wra	1	w r a

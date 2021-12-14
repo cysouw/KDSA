@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	driew	1	d r ie w
+002/201	driw	1	d r i w
+002/203	driew	1	d r ie w
+002/205	dryw	1	d r y w
+003/203	driew	1	d r ie w
+003/205	dryw	1	d r y w
+004/205	driew	1	d r ie w
+005/205	driew	1	d r ie w
+005/207	driw	1	d r i w
+006/205	drihw	1	d r ih w
+006/207	driew	1	d r ie w
+007/205	driew	1	d r ie w
+007/207	driw	1	d r i w
+007/209	driew	1	d r ie w
+007/211	driew	1	d r ie w
+008/199	driew	1	d r ie w
+008/203	driew	1	d r ie w
+008/205	driw	1	d r i w
+008/207	driw	1	d r i w
+008/209	driew	1	d r ie w
+008/211	drüw	1	d r ü w
+008/213	driw	1	d r i w
+009/199	driew	1	d r ie w
+009/203	driew	1	d r ie w
+009/207	driew	1	d r ie w
+009/209	driew	1	d r ie w
+009/211	driew	1	d r ie w
+009/213	triew	1	t r ie w
+009/215	driew	1	d r ie w
+009/217	driw	1	d r i w
+010/195	driw	1	d r i w
+010/203	driew	1	d r ie w
+010/207	driew	1	d r ie w
+010/209	drüw	1	d r ü w
+010/211	driew	1	d r ie w
+010/213	driew	1	d r ie w
+010/215	driw	1	d r i w
+010/217	driew	1	d r ie w
+010/219	driw	1	d r i w
+011/049	drief	1	d r ie f
+011/053	driv	1	d r i v
+011/055	NA	NA	-
+011/057	dryv	1	d r y v
+011/059	dryw	1	d r y w
+011/061	dryv	1	d r y v
+011/063	dryv	1	d r y v
+011/065	dryv	1	d r y v
+011/067	drüw	1	d r ü w
+011/069	NA	NA	-
+011/187	driw	1	d r i w
+011/189	driw	1	d r i w
+011/191	driw	1	d r i w
+011/195	driew	1	d r ie w
+011/197	driew	1	d r ie w
+011/203	driew	1	d r ie w
+011/205	driew	1	d r ie w
+011/207	driew	1	d r ie w
+011/209	driew	1	d r ie w
+011/211	driew	1	d r ie w
+011/213	driiw	1	d r ii w
+011/215	driew	1	d r ie w
+011/217	driew	1	d r ie w
+011/219	driw	1	d r i w
+012/047	driiw	1	d r ii w
+012/049	driif	1	d r ii f
+012/051	dröw	1	d r ö w
+012/053	driu	1	d r iu
+012/055	dryv	1	d r y v
+012/057	dryw	1	d r y w
+012/059	goe	1	g oe
+012/061	goe	1	g oe
+012/063	goe	1	g oe
+012/065	dryv	1	d r y v
+012/067	dryv	1	d r y v
+012/069	drüw	1	d r ü w
+012/187	drüw	1	d r ü w
+012/189	driw	1	d r i w
+012/191	driew	1	d r ie w
+012/193	drüw	1	d r ü w
+012/195	driw	1	d r i w
+012/197	driew	1	d r ie w
+012/199	driew	1	d r ie w
+012/201	driew	1	d r ie w
+012/203	drim	1	d r i m
+012/205	drüw	1	d r ü w
+012/207	driew	1	d r ie w
+012/209	driew	1	d r ie w
+012/211	driw	1	d r i w
+012/213	driew	1	d r ie w
+012/215	driew	1	d r ie w
+012/217	driew	1	d r ie w
+012/219	driew	1	d r ie w
+012/221	driew	1	d r ie w
+012/223	driew	1	d r ie w
+013/051	driv	1	d r i v
+013/053	driww	1	d r i ww
+013/055	driw	1	d r i w
+013/057	dryv	1	d r y v
+013/059	drüw	1	d r ü w
+013/061	driew	1	d r ie w
+013/063	driem	1	d r ie m
+013/065	driim	1	d r ii m
+013/067	drim	1	d r i m
+013/161	driew	1	d r ie w
+013/163	driw	1	d r i w
+013/165	drüw	1	d r ü w
+013/167	driev	1	d r ie v
+013/187	driew	1	d r ie w
+013/189	driew	1	d r ie w
+013/191	driew	1	d r ie w
+013/193	driew	1	d r ie w
+013/195	driew	1	d r ie w
+013/197	driw	1	d r i w
+013/199	driew	1	d r ie w
+013/201	driew	1	d r ie w
+013/203	driw	1	d r i w
+013/207	driew	1	d r ie w
+013/209	driw	1	d r i w
+013/211	drüw	1	d r ü w
+013/213	driew	1	d r ie w
+013/215	driw	1	d r i w
+013/217	driew	1	d r ie w
+013/219	driew	1	d r ie w
+013/221	driew	1	d r ie w
+013/223	driew	1	d r ie w
+014/047	driv	1	d r i v
+014/049	driw	1	d r i w
+014/051	driew	1	d r ie w
+014/053	driw	1	d r i w
+014/055	drivv	1	d r i vv
+014/057	dün	1	d ü n
+014/059	driim	1	d r ii m
+014/061	driem	1	d r ie m
+014/063	driew	1	d r ie w
+014/065	driw	1	d r i w
+014/067	driehm	1	d r ieh m
+014/109	driew	1	d r ie w
+014/159	driew	1	d r ie w
+014/161	driw	1	d r i w
+014/163	driew	1	d r ie w
+014/165	driw	1	d r i w
+014/167	driew	1	d r ie w
+014/169	driew	1	d r ie w
+014/187	driew	1	d r ie w
+014/189	driew	1	d r ie w
+014/191	driw	1	d r i w
+014/193	driew	1	d r ie w
+014/195	driw	1	d r i w
+014/197	driw	1	d r i w
+014/199	driw	1	d r i w
+014/201	driew	1	d r ie w
+014/203	driew	1	d r ie w
+014/205	driew	1	d r ie w
+014/207	driew	1	d r ie w
+014/209	driew	1	d r ie w
+014/211	driew	1	d r ie w
+014/213	driw	1	d r i w
+014/215	driew	1	d r ie w
+014/217	driew	1	d r ie w
+014/219	driew	1	d r ie w
+014/221	driew	1	d r ie w
+015/049	driv	1	d r i v
+015/051	drivv	1	d r i vv
+015/053	driv	1	d r i v
+015/055	driww	1	d r i ww
+015/057	drew	1	d r e w
+015/059	drieb	1	d r ie b
+015/061	drihm	1	d r ih m
+015/063	driew	1	d r ie w
+015/065	driw	1	d r i w
+015/067	driw	1	d r i w
+015/105	drieb	1	d r ie b
+015/107	drieb	1	d r ie b
+015/109	drib	1	d r i b
+015/151	driw	1	d r i w
+015/153	driw	1	d r i w
+015/155	triew	1	t r ie w
+015/157	driw	1	d r i w
+015/159	driw	1	d r i w
+015/161	driw	1	d r i w
+015/163	drüw	1	d r ü w
+015/165	driew	1	d r ie w
+015/167	driew	1	d r ie w
+015/169	triw	1	t r i w
+015/173	driw	1	d r i w
+015/187	drüw	1	d r ü w
+015/191	driew	1	d r ie w
+015/193	driew	1	d r ie w
+015/195	driw	1	d r i w
+015/197	driew	1	d r ie w
+015/199	triew	1	t r ie w
+015/201	drüw	1	d r ü w
+015/203	driew	1	d r ie w
+015/205	driew	1	d r ie w
+015/207	driew	1	d r ie w
+015/209	driew	1	d r ie w
+015/211	driew	1	d r ie w
+015/213	driew	1	d r ie w
+015/215	NA	NA	-
+015/217	driew	1	d r ie w
+015/219	driw	1	d r i w
+015/221	driew	1	d r ie w
+016/051	driww	1	d r i ww
+016/055	driv	1	d r i v
+016/057	driw	1	d r i w
+016/059	driem	1	d r ie m
+016/061	driem	1	d r ie m
+016/063	drim	1	d r i m
+016/065	driv	1	d r i v
+016/067	driim	1	d r ii m
+016/081	drib	1	d r i b
+016/083	drieb	1	d r ie b
+016/105	drieb	1	d r ie b
+016/107	drieb	1	d r ie b
+016/109	drieb	1	d r ie b
+016/111	drieb	1	d r ie b
+016/145	driew	1	d r ie w
+016/147	drief	1	d r ie f
+016/149	driw	1	d r i w
+016/151	driw	1	d r i w
+016/153	driw	1	d r i w
+016/155	driw	1	d r i w
+016/157	driw	1	d r i w
+016/159	driw	1	d r i w
+016/161	driew	1	d r ie w
+016/163	driw	1	d r i w
+016/165	triw	1	t r i w
+016/167	triw	1	t r i w
+016/187	driw	1	d r i w
+016/189	driw	1	d r i w
+016/191	driw	1	d r i w
+016/193	driew	1	d r ie w
+016/195	driw	1	d r i w
+016/197	driew	1	d r ie w
+016/199	driew	1	d r ie w
+016/201	driew	1	d r ie w
+016/203	driw	1	d r i w
+016/205	driew	1	d r ie w
+016/209	driew	1	d r ie w
+016/211	driew	1	d r ie w
+016/213	driew	1	d r ie w
+016/215	driew	1	d r ie w
+016/217	driw	1	d r i w
+016/219	driw	1	d r i w
+017/055	driew	1	d r ie w
+017/057	drib	1	d r i b
+017/059	drim	1	d r i m
+017/061	driem	1	d r ie m
+017/063	drim	1	d r i m
+017/065	driv	1	d r i v
+017/067	driem	1	d r ie m
+017/069	driev	1	d r ie v
+017/081	driem	1	d r ie m
+017/083	drib	1	d r i b
+017/099	drieb	1	d r ie b
+017/101	driew	1	d r ie w
+017/103	drieb	1	d r ie b
+017/107	drib	1	d r i b
+017/109	driew	1	d r ie w
+017/145	driew	1	d r ie w
+017/147	driw	1	d r i w
+017/149	drif	1	d r i f
+017/151	driw	1	d r i w
+017/153	driew	1	d r ie w
+017/155	driw	1	d r i w
+017/157	driw	1	d r i w
+017/159	triw	1	t r i w
+017/161	driw	1	d r i w
+017/163	driw	1	d r i w
+017/165	driw	1	d r i w
+017/169	driew	1	d r ie w
+017/171	driew	1	d r ie w
+017/183	driw	1	d r i w
+017/185	driew	1	d r ie w
+017/187	driev	1	d r ie v
+017/189	driew	1	d r ie w
+017/191	driw	1	d r i w
+017/193	driw	1	d r i w
+017/195	driw	1	d r i w
+017/197	driew	1	d r ie w
+017/199	driw	1	d r i w
+017/201	driw	1	d r i w
+017/203	driw	1	d r i w
+017/205	driew	1	d r ie w
+017/207	driw	1	d r i w
+017/209	driew	1	d r ie w
+017/211	driw	1	d r i w
+017/213	driew	1	d r ie w
+017/215	driew	1	d r ie w
+017/217	driew	1	d r ie w
+017/219	driw	1	d r i w
+018/051	driem	1	d r ie m
+018/053	drim	1	d r i m
+018/055	driem	1	d r ie m
+018/057	driib	1	d r ii b
+018/059	drieb	1	d r ie b
+018/061	driim	1	d r ii m
+018/063	NA	NA	-
+018/065	driw	1	d r i w
+018/067	driem	1	d r ie m
+018/069	driem	1	d r ie m
+018/071	driew	1	d r ie w
+018/073	driw	1	d r i w
+018/075	dreen	1	d r ee n
+018/079	driem	1	d r ie m
+018/081	drib	1	d r i b
+018/097	driev	1	d r ie v
+018/099	drib	1	d r i b
+018/103	drieb	1	d r ie b
+018/105	drieb	1	d r ie b
+018/107	drieb	1	d r ie b
+018/109	drieb	1	d r ie b
+018/111	driew	1	d r ie w
+018/143	driew	1	d r ie w
+018/145	driew	1	d r ie w
+018/147	driew	1	d r ie w
+018/149	driw	1	d r i w
+018/151	driw	1	d r i w
+018/153	driew	1	d r ie w
+018/155	drin	1	d r i n
+018/157	driew	1	d r ie w
+018/159	driew	1	d r ie w
+018/161	driw	1	d r i w
+018/163	driw	1	d r i w
+018/165	driew	1	d r ie w
+018/169	driew	1	d r ie w
+018/171	driiw	1	d r ii w
+018/173	driw	1	d r i w
+018/181	driw	1	d r i w
+018/185	driw	1	d r i w
+018/187	driew	1	d r ie w
+018/189	driew	1	d r ie w
+018/191	driw	1	d r i w
+018/193	driw	1	d r i w
+018/195	driw	1	d r i w
+018/197	driew	1	d r ie w
+018/199	driw	1	d r i w
+018/201	driw	1	d r i w
+018/203	driew	1	d r ie w
+018/205	driew	1	d r ie w
+018/207	driew	1	d r ie w
+018/209	driw	1	d r i w
+018/211	driw	1	d r i w
+018/213	driiw	1	d r ii w
+018/215	driew	1	d r ie w
+018/219	driew	1	d r ie w
+019/051	drieb	1	d r ie b
+019/053	driew	1	d r ie w
+019/055	driw	1	d r i w
+019/057	driw	1	d r i w
+019/059	vörhemm	1	v ö r h e mm
+019/061	driw	1	d r i w
+019/063	driw	1	d r i w
+019/065	driew	1	d r ie w
+019/067	driew	1	d r ie w
+019/069	triw	1	t r i w
+019/071	mak	1	m a k
+019/073	driw	1	d r i w
+019/075	drim	1	d r i m
+019/077	trieb	1	t r ie b
+019/079	driew	1	d r ie w
+019/081	drieb	1	d r ie b
+019/097	drieb	1	d r ie b
+019/099	drieb	1	d r ie b
+019/101	driem	1	d r ie m
+019/103	drieb	1	d r ie b
+019/105	drib	1	d r i b
+019/107	drib	1	d r i b
+019/109	drieb	1	d r ie b
+019/143	driev	1	d r ie v
+019/145	driw	1	d r i w
+019/147	driew	1	d r ie w
+019/149	driw	1	d r i w
+019/151	driw	1	d r i w
+019/153	driw	1	d r i w
+019/155	driew	1	d r ie w
+019/157	driew	1	d r ie w
+019/159	driw	1	d r i w
+019/161	driw	1	d r i w
+019/163	driw	1	d r i w
+019/165	driew	1	d r ie w
+019/167	driw	1	d r i w
+019/169	driw	1	d r i w
+019/171	driw	1	d r i w
+019/173	driw	1	d r i w
+019/175	driw	1	d r i w
+019/177	drief	1	d r ie f
+019/179	driew	1	d r ie w
+019/181	driew	1	d r ie w
+019/183	driew	1	d r ie w
+019/185	driew	1	d r ie w
+019/187	drüw	1	d r ü w
+019/189	driw	1	d r i w
+019/191	driew	1	d r ie w
+019/193	driw	1	d r i w
+019/195	driev	1	d r ie v
+019/197	driew	1	d r ie w
+019/199	driew	1	d r ie w
+019/201	driw	1	d r i w
+019/203	driw	1	d r i w
+019/205	driew	1	d r ie w
+019/207	driew	1	d r ie w
+019/209	driw	1	d r i w
+019/211	driew	1	d r ie w
+019/213	driew	1	d r ie w
+019/215	driew	1	d r ie w
+019/217	driew	1	d r ie w
+019/219	driw	1	d r i w
+020/043	driw	1	d r i w
+020/053	drieb	1	d r ie b
+020/055	driew	1	d r ie w
+020/057	drieb	1	d r ie b
+020/059	drieb	1	d r ie b
+020/061	drim	1	d r i m
+020/063	driem	1	d r ie m
+020/065	drihm	1	d r ih m
+020/067	NA	NA	-
+020/069	drieb	1	d r ie b
+020/071	driem	1	d r ie m
+020/073	drib	1	d r i b
+020/075	driem	1	d r ie m
+020/077	driem	1	d r ie m
+020/079	drib	1	d r i b
+020/081	driw	1	d r i w
+020/095	drieb	1	d r ie b
+020/097	drieb	1	d r ie b
+020/099	drieb	1	d r ie b
+020/101	drib	1	d r i b
+020/103	drieb	1	d r ie b
+020/105	drieb	1	d r ie b
+020/107	drieb	1	d r ie b
+020/135	driew	1	d r ie w
+020/137	driew	1	d r ie w
+020/139	driw	1	d r i w
+020/141	driw	1	d r i w
+020/143	driw	1	d r i w
+020/145	driw	1	d r i w
+020/147	driw	1	d r i w
+020/149	driew	1	d r ie w
+020/151	driw	1	d r i w
+020/153	driw	1	d r i w
+020/155	drüw	1	d r ü w
+020/157	driew	1	d r ie w
+020/159	driw	1	d r i w
+020/161	driw	1	d r i w
+020/163	driv	1	d r i v
+020/165	driew	1	d r ie w
+020/167	driew	1	d r ie w
+020/169	triew	1	t r ie w
+020/171	driw	1	d r i w
+020/173	driw	1	d r i w
+020/175	driew	1	d r ie w
+020/177	driw	1	d r i w
+020/179	driew	1	d r ie w
+020/181	driew	1	d r ie w
+020/183	driew	1	d r ie w
+020/185	driw	1	d r i w
+020/187	treiw	1	t r ei w
+020/189	driew	1	d r ie w
+020/191	driiw	1	d r ii w
+020/193	driew	1	d r ie w
+020/195	driw	1	d r i w
+020/197	driew	1	d r ie w
+020/199	driw	1	d r i w
+020/201	driew	1	d r ie w
+020/203	driw	1	d r i w
+020/205	driw	1	d r i w
+020/207	driew	1	d r ie w
+020/209	driew	1	d r ie w
+020/211	drief	1	d r ie f
+020/213	driew	1	d r ie w
+020/215	driw	1	d r i w
+020/217	driew	1	d r ie w
+020/219	driev	1	d r ie v
+021/055	driev	1	d r ie v
+021/057	drib	1	d r i b
+021/059	driem	1	d r ie m
+021/061	drib	1	d r i b
+021/063	driv	1	d r i v
+021/065	färhem	1	f ä r h e m
+021/067	driem	1	d r ie m
+021/069	drib	1	d r i b
+021/071	driem	1	d r ie m
+021/073	driem	1	d r ie m
+021/075	drim	1	d r i m
+021/077	drib	1	d r i b
+021/079	driw	1	d r i w
+021/087	drieb	1	d r ie b
+021/089	drieb	1	d r ie b
+021/091	drieb	1	d r ie b
+021/093	drib	1	d r i b
+021/095	driw	1	d r i w
+021/097	drieb	1	d r ie b
+021/099	drib	1	d r i b
+021/101	drib	1	d r i b
+021/103	drieb	1	d r ie b
+021/105	drib	1	d r i b
+021/107	drib	1	d r i b
+021/109	drim	1	d r i m
+021/111	drieb	1	d r ie b
+021/113	drib	1	d r i b
+021/131	driew	1	d r ie w
+021/133	driw	1	d r i w
+021/135	driw	1	d r i w
+021/137	driw	1	d r i w
+021/139	driiw	1	d r ii w
+021/141	driw	1	d r i w
+021/143	driew	1	d r ie w
+021/145	draiw	1	d r ai w
+021/147	driw	1	d r i w
+021/149	droiw	1	d r oi w
+021/151	driw	1	d r i w
+021/153	driw	1	d r i w
+021/155	triw	1	t r i w
+021/157	driew	1	d r ie w
+021/159	driew	1	d r ie w
+021/163	driew	1	d r ie w
+021/165	driw	1	d r i w
+021/167	drüw	1	d r ü w
+021/169	driw	1	d r i w
+021/171	driew	1	d r ie w
+021/173	triw	1	t r i w
+021/175	driew	1	d r ie w
+021/177	driew	1	d r ie w
+021/179	drüw	1	d r ü w
+021/181	driew	1	d r ie w
+021/183	driew	1	d r ie w
+021/185	treib	1	t r ei b
+021/187	traib	1	t r ai b
+021/189	treib	1	t r ei b
+021/191	treiw	1	t r ei w
+021/193	treiw	1	t r ei w
+021/195	treiw	1	t r ei w
+021/197	traiw	1	t r ai w
+021/199	driew	1	d r ie w
+021/201	driew	1	d r ie w
+021/203	triew	1	t r ie w
+021/205	driew	1	d r ie w
+021/207	driw	1	d r i w
+021/211	driw	1	d r i w
+021/215	driw	1	d r i w
+021/217	driw	1	d r i w
+021/219	driw	1	d r i w
+022/055	driev	1	d r ie v
+022/057	driew	1	d r ie w
+022/059	driw	1	d r i w
+022/061	driem	1	d r ie m
+022/063	driem	1	d r ie m
+022/065	drib	1	d r i b
+022/067	driw	1	d r i w
+022/069	driw	1	d r i w
+022/071	driw	1	d r i w
+022/073	drib	1	d r i b
+022/075	drib	1	d r i b
+022/077	drib	1	d r i b
+022/087	driw	1	d r i w
+022/089	drieb	1	d r ie b
+022/091	drieb	1	d r ie b
+022/093	driw	1	d r i w
+022/095	drieb	1	d r ie b
+022/097	drieb	1	d r ie b
+022/099	drieb	1	d r ie b
+022/101	drib	1	d r i b
+022/103	drieb	1	d r ie b
+022/105	drieb	1	d r ie b
+022/107	drieb	1	d r ie b
+022/109	drib	1	d r i b
+022/111	drieb	1	d r ie b
+022/113	drieb	1	d r ie b
+022/115	drib	1	d r i b
+022/127	driew	1	d r ie w
+022/129	driew	1	d r ie w
+022/131	driw	1	d r i w
+022/133	driew	1	d r ie w
+022/135	driw	1	d r i w
+022/137	driw	1	d r i w
+022/139	driew	1	d r ie w
+022/141	driw	1	d r i w
+022/143	driew	1	d r ie w
+022/145	dreiw	1	d r ei w
+022/147	dreiw	1	d r ei w
+022/149	driew	1	d r ie w
+022/151	druiw	1	d r ui w
+022/153	drüw	1	d r ü w
+022/155	driew	1	d r ie w
+022/157	driew	1	d r ie w
+022/159	driw	1	d r i w
+022/165	driw	1	d r i w
+022/167	driew	1	d r ie w
+022/169	driw	1	d r i w
+022/171	driw	1	d r i w
+022/173	driew	1	d r ie w
+022/175	driew	1	d r ie w
+022/177	triew	1	t r ie w
+022/179	driew	1	d r ie w
+022/181	driew	1	d r ie w
+022/183	treib	1	t r ei b
+022/185	treib	1	t r ei b
+022/187	treib	1	t r ei b
+022/189	treib	1	t r ei b
+022/191	treiw	1	t r ei w
+022/193	treiw	1	t r ei w
+022/195	traiw	1	t r ai w
+022/197	treib	1	t r ei b
+022/199	treiw	1	t r ei w
+022/201	driew	1	d r ie w
+022/203	driw	1	d r i w
+022/205	triew	1	t r ie w
+022/209	driiw	1	d r ii w
+022/211	driew	1	d r ie w
+022/215	driiw	1	d r ii w
+022/217	drihw	1	d r ih w
+022/219	driw	1	d r i w
+023/055	drieb	1	d r ie b
+023/059	drieb	1	d r ie b
+023/061	driv	1	d r i v
+023/063	driw	1	d r i w
+023/065	vöhewn	1	v ö h e w n
+023/067	drieb	1	d r ie b
+023/069	drib	1	d r i b
+023/071	driw	1	d r i w
+023/073	driw	1	d r i w
+023/075	drieb	1	d r ie b
+023/077	driw	1	d r i w
+023/079	driw	1	d r i w
+023/081	drieb	1	d r ie b
+023/083	drieb	1	d r ie b
+023/085	drieb	1	d r ie b
+023/087	drieb	1	d r ie b
+023/089	drib	1	d r i b
+023/091	drib	1	d r i b
+023/093	drieb	1	d r ie b
+023/095	driw	1	d r i w
+023/097	drib	1	d r i b
+023/099	drieb	1	d r ie b
+023/101	drieb	1	d r ie b
+023/103	drieb	1	d r ie b
+023/105	driew	1	d r ie w
+023/107	drim	1	d r i m
+023/109	drieb	1	d r ie b
+023/111	driem	1	d r ie m
+023/113	driem	1	d r ie m
+023/115	drieb	1	d r ie b
+023/117	drieb	1	d r ie b
+023/121	driem	1	d r ie m
+023/123	driw	1	d r i w
+023/125	driew	1	d r ie w
+023/127	driw	1	d r i w
+023/129	driew	1	d r ie w
+023/131	driw	1	d r i w
+023/133	driw	1	d r i w
+023/135	driw	1	d r i w
+023/137	driew	1	d r ie w
+023/139	driew	1	d r ie w
+023/141	driew	1	d r ie w
+023/143	driw	1	d r i w
+023/145	dreiw	1	d r ei w
+023/147	dreiw	1	d r ei w
+023/149	triv	1	t r i v
+023/151	driew	1	d r ie w
+023/153	driw	1	d r i w
+023/155	driw	1	d r i w
+023/165	driew	1	d r ie w
+023/167	driw	1	d r i w
+023/169	driw	1	d r i w
+023/175	driw	1	d r i w
+023/177	mache	1	m a ch e
+023/179	treib	1	t r ei b
+023/181	treib	1	t r ei b
+023/183	treib	1	t r ei b
+023/185	treib	1	t r ei b
+023/187	treib	1	t r ei b
+023/189	treib	1	t r ei b
+023/191	treiw	1	t r ei w
+023/193	treib	1	t r ei b
+023/195	treiw	1	t r ei w
+023/197	trew	1	t r e w
+023/199	drehw	1	d r eh w
+023/201	driew	1	d r ie w
+023/203	driew	1	d r ie w
+023/205	driew	1	d r ie w
+023/207	drüw	1	d r ü w
+023/215	drib	1	d r i b
+023/217	triew	1	t r ie w
+024/053	drieb	1	d r ie b
+024/057	drib	1	d r i b
+024/059	driw	1	d r i w
+024/061	drib	1	d r i b
+024/063	färhem	1	f ä r h e m
+024/065	drib	1	d r i b
+024/067	drieb	1	d r ie b
+024/069	driw	1	d r i w
+024/071	drieb	1	d r ie b
+024/073	driew	1	d r ie w
+024/075	driew	1	d r ie w
+024/077	drieb	1	d r ie b
+024/079	NA	NA	-
+024/081	driem	1	d r ie m
+024/083	drib	1	d r i b
+024/085	drieb	1	d r ie b
+024/087	driew	1	d r ie w
+024/089	drihb	1	d r ih b
+024/091	driew	1	d r ie w
+024/093	drieb	1	d r ie b
+024/095	drib	1	d r i b
+024/097	driw	1	d r i w
+024/099	drieb	1	d r ie b
+024/101	driew	1	d r ie w
+024/103	drieb	1	d r ie b
+024/105	driem	1	d r ie m
+024/107	drieb	1	d r ie b
+024/109	driem	1	d r ie m
+024/111	drieb	1	d r ie b
+024/113	drieb	1	d r ie b
+024/115	trib	1	t r i b
+024/117	drieb	1	d r ie b
+024/119	driew	1	d r ie w
+024/121	driew	1	d r ie w
+024/123	driw	1	d r i w
+024/125	driw	1	d r i w
+024/127	driew	1	d r ie w
+024/129	driw	1	d r i w
+024/131	driew	1	d r ie w
+024/133	driew	1	d r ie w
+024/135	driew	1	d r ie w
+024/137	driw	1	d r i w
+024/139	drihw	1	d r ih w
+024/141	driw	1	d r i w
+024/143	drüw	1	d r ü w
+024/145	dräw	1	d r ä w
+024/147	driew	1	d r ie w
+024/149	dreiw	1	d r ei w
+024/151	driw	1	d r i w
+024/153	driew	1	d r ie w
+024/155	driw	1	d r i w
+024/163	driw	1	d r i w
+024/165	driw	1	d r i w
+024/167	driw	1	d r i w
+024/169	driew	1	d r ie w
+024/171	driw	1	d r i w
+024/175	driw	1	d r i w
+024/179	treib	1	t r ei b
+024/181	treib	1	t r ei b
+024/183	treib	1	t r ei b
+024/185	treib	1	t r ei b
+024/187	treib	1	t r ei b
+024/189	treib	1	t r ei b
+024/191	treiw	1	t r ei w
+024/193	treiw	1	t r ei w
+024/195	treiw	1	t r ei w
+024/197	treiw	1	t r ei w
+024/199	treiw	1	t r ei w
+024/201	driiw	1	d r ii w
+024/203	driw	1	d r i w
+024/217	driw	1	d r i w
+024/221	drüw	1	d r ü w
+025/043	driew	1	d r ie w
+025/051	driem	1	d r ie m
+025/053	drieb	1	d r ie b
+025/055	drib	1	d r i b
+025/057	drieb	1	d r ie b
+025/059	driew	1	d r ie w
+025/061	driev	1	d r ie v
+025/063	driew	1	d r ie w
+025/065	drieb	1	d r ie b
+025/067	driew	1	d r ie w
+025/069	driv	1	d r i v
+025/071	drieb	1	d r ie b
+025/073	drib	1	d r i b
+025/075	drieb	1	d r ie b
+025/077	drieb	1	d r ie b
+025/079	drieb	1	d r ie b
+025/081	drieb	1	d r ie b
+025/083	driw	1	d r i w
+025/085	drieb	1	d r ie b
+025/087	drieb	1	d r ie b
+025/089	drieb	1	d r ie b
+025/091	drihb	1	d r ih b
+025/093	drieb	1	d r ie b
+025/095	drieb	1	d r ie b
+025/099	drib	1	d r i b
+025/101	driew	1	d r ie w
+025/103	driev	1	d r ie v
+025/105	driem	1	d r ie m
+025/107	driw	1	d r i w
+025/109	drib	1	d r i b
+025/111	driem	1	d r ie m
+025/113	driw	1	d r i w
+025/115	drieb	1	d r ie b
+025/123	drieb	1	d r ie b
+025/125	driew	1	d r ie w
+025/127	driew	1	d r ie w
+025/129	driew	1	d r ie w
+025/131	driw	1	d r i w
+025/133	driew	1	d r ie w
+025/135	driw	1	d r i w
+025/137	driew	1	d r ie w
+025/139	driev	1	d r ie v
+025/141	driew	1	d r ie w
+025/143	drief	1	d r ie f
+025/145	driw	1	d r i w
+025/147	driw	1	d r i w
+025/149	driw	1	d r i w
+025/151	driw	1	d r i w
+025/153	driw	1	d r i w
+025/155	driew	1	d r ie w
+025/157	driew	1	d r ie w
+025/159	driew	1	d r ie w
+025/177	driew	1	d r ie w
+025/179	treib	1	t r ei b
+025/181	treib	1	t r ei b
+025/183	treib	1	t r ei b
+025/185	treib	1	t r ei b
+025/187	treib	1	t r ei b
+025/189	treib	1	t r ei b
+025/191	treiw	1	t r ei w
+026/031	drieb	1	d r ie b
+026/033	drieb	1	d r ie b
+026/037	driv	1	d r i v
+026/041	drieb	1	d r ie b
+026/043	driw	1	d r i w
+026/045	driew	1	d r ie w
+026/051	drieb	1	d r ie b
+026/053	driem	1	d r ie m
+026/055	trieb	1	t r ie b
+026/057	drieb	1	d r ie b
+026/059	drib	1	d r i b
+026/061	drieb	1	d r ie b
+026/063	drib	1	d r i b
+026/065	driw	1	d r i w
+026/067	drieb	1	d r ie b
+026/069	drieb	1	d r ie b
+026/071	driew	1	d r ie w
+026/073	driew	1	d r ie w
+026/075	drieb	1	d r ie b
+026/077	drieb	1	d r ie b
+026/079	drieb	1	d r ie b
+026/081	drihb	1	d r ih b
+026/083	driew	1	d r ie w
+026/085	driew	1	d r ie w
+026/087	driew	1	d r ie w
+026/089	drib	1	d r i b
+026/091	drieb	1	d r ie b
+026/093	drieb	1	d r ie b
+026/095	drieb	1	d r ie b
+026/097	drieb	1	d r ie b
+026/099	drieb	1	d r ie b
+026/101	drieb	1	d r ie b
+026/103	drieb	1	d r ie b
+026/105	drieb	1	d r ie b
+026/107	drieb	1	d r ie b
+026/109	driew	1	d r ie w
+026/111	drib	1	d r i b
+026/113	drieb	1	d r ie b
+026/115	drim	1	d r i m
+026/117	drieb	1	d r ie b
+026/119	driw	1	d r i w
+026/123	driew	1	d r ie w
+026/125	driev	1	d r ie v
+026/127	driew	1	d r ie w
+026/129	driew	1	d r ie w
+026/131	driew	1	d r ie w
+026/133	driw	1	d r i w
+026/135	driew	1	d r ie w
+026/137	mauke	1	m au k e
+026/139	driw	1	d r i w
+026/141	driw	1	d r i w
+026/143	driw	1	d r i w
+026/145	driw	1	d r i w
+026/147	driw	1	d r i w
+026/153	triew	1	t r ie w
+026/155	driw	1	d r i w
+026/157	driew	1	d r ie w
+026/159	driew	1	d r ie w
+026/161	driew	1	d r ie w
+026/165	drieb	1	d r ie b
+026/173	driw	1	d r i w
+026/175	driew	1	d r ie w
+026/177	driw	1	d r i w
+026/179	drüw	1	d r ü w
+026/181	mache	1	m a ch e
+026/183	treib	1	t r ei b
+026/185	mache	1	m a ch e
+026/187	treib	1	t r ei b
+026/189	treib	1	t r ei b
+027/027	driev	1	d r ie v
+027/035	drif	1	d r i f
+027/037	driew	1	d r ie w
+027/039	drieb	1	d r ie b
+027/041	drif	1	d r i f
+027/043	drieb	1	d r ie b
+027/045	drieb	1	d r ie b
+027/047	driew	1	d r ie w
+027/051	drieb	1	d r ie b
+027/053	vörrhemm	1	v ö rr h e mm
+027/055	drieb	1	d r ie b
+027/057	drieb	1	d r ie b
+027/059	drieb	1	d r ie b
+027/061	drieb	1	d r ie b
+027/063	driw	1	d r i w
+027/065	drieb	1	d r ie b
+027/067	driv	1	d r i v
+027/069	vörhem	1	v ö r h e m
+027/071	drieb	1	d r ie b
+027/073	drieb	1	d r ie b
+027/075	drieb	1	d r ie b
+027/077	drib	1	d r i b
+027/079	drieb	1	d r ie b
+027/081	drieb	1	d r ie b
+027/083	drieb	1	d r ie b
+027/085	makn	1	m a k n
+027/087	drieb	1	d r ie b
+027/089	driiw	1	d r ii w
+027/091	drieb	1	d r ie b
+027/093	drieb	1	d r ie b
+027/095	driw	1	d r i w
+027/099	drieb	1	d r ie b
+027/101	drieb	1	d r ie b
+027/103	driem	1	d r ie m
+027/105	drieb	1	d r ie b
+027/107	driem	1	d r ie m
+027/109	drim	1	d r i m
+027/111	driem	1	d r ie m
+027/113	driw	1	d r i w
+027/115	driw	1	d r i w
+027/117	driew	1	d r ie w
+027/119	drib	1	d r i b
+027/123	drieb	1	d r ie b
+027/125	driw	1	d r i w
+027/127	driw	1	d r i w
+027/129	driw	1	d r i w
+027/131	driw	1	d r i w
+027/135	driw	1	d r i w
+027/137	driw	1	d r i w
+027/139	driew	1	d r ie w
+027/141	driew	1	d r ie w
+027/143	driw	1	d r i w
+027/145	driew	1	d r ie w
+027/147	driw	1	d r i w
+027/149	driew	1	d r ie w
+027/151	driw	1	d r i w
+027/153	driw	1	d r i w
+027/155	driw	1	d r i w
+027/157	driw	1	d r i w
+027/159	driew	1	d r ie w
+027/161	drif	1	d r i f
+027/167	driw	1	d r i w
+027/171	driw	1	d r i w
+027/173	driw	1	d r i w
+027/175	driw	1	d r i w
+027/177	driew	1	d r ie w
+027/179	driew	1	d r ie w
+027/181	driw	1	d r i w
+027/183	treib	1	t r ei b
+027/185	treib	1	t r ei b
+028/033	drib	1	d r i b
+028/035	driiw	1	d r ii w
+028/037	NA	NA	-
+028/039	driif	1	d r ii f
+028/041	drif	1	d r i f
+028/043	trieb	1	t r ie b
+028/045	driw	1	d r i w
+028/047	drib	1	d r i b
+028/049	drieb	1	d r ie b
+028/051	driev	1	d r ie v
+028/053	drieb	1	d r ie b
+028/055	drieb	1	d r ie b
+028/057	drief	1	d r ie f
+028/059	drib	1	d r i b
+028/061	drieb	1	d r ie b
+028/063	drieb	1	d r ie b
+028/065	drieb	1	d r ie b
+028/067	drieb	1	d r ie b
+028/069	drib	1	d r i b
+028/071	drieb	1	d r ie b
+028/073	drieb	1	d r ie b
+028/075	drieh	1	d r ieh
+028/077	drieb	1	d r ie b
+028/079	drieb	1	d r ie b
+028/081	drieb	1	d r ie b
+028/083	driw	1	d r i w
+028/085	drieb	1	d r ie b
+028/087	drieb	1	d r ie b
+028/089	driw	1	d r i w
+028/091	drieb	1	d r ie b
+028/093	driew	1	d r ie w
+028/095	driew	1	d r ie w
+028/097	drib	1	d r i b
+028/099	drieb	1	d r ie b
+028/103	driem	1	d r ie m
+028/105	drib	1	d r i b
+028/107	drieb	1	d r ie b
+028/109	drieb	1	d r ie b
+028/111	drim	1	d r i m
+028/113	drieb	1	d r ie b
+028/115	drieb	1	d r ie b
+028/117	drieb	1	d r ie b
+028/119	driew	1	d r ie w
+028/121	drib	1	d r i b
+028/123	drib	1	d r i b
+028/125	driew	1	d r ie w
+028/127	driew	1	d r ie w
+028/129	driew	1	d r ie w
+028/131	driew	1	d r ie w
+028/133	driw	1	d r i w
+028/135	driw	1	d r i w
+028/137	driw	1	d r i w
+028/139	driew	1	d r ie w
+028/141	driw	1	d r i w
+028/143	driw	1	d r i w
+028/145	driew	1	d r ie w
+028/147	driw	1	d r i w
+028/151	driw	1	d r i w
+028/153	driw	1	d r i w
+028/155	driw	1	d r i w
+028/157	driv	1	d r i v
+028/159	driew	1	d r ie w
+028/161	driw	1	d r i w
+028/165	driew	1	d r ie w
+028/169	driew	1	d r ie w
+028/171	driew	1	d r ie w
+028/173	driew	1	d r ie w
+028/175	driw	1	d r i w
+028/177	driew	1	d r ie w
+028/179	driew	1	d r ie w
+028/181	treib	1	t r ei b
+028/183	treib	1	t r ei b
+028/185	treib	1	t r ei b
+029/033	NA	NA	-
+029/035	driev	1	d r ie v
+029/037	driv	1	d r i v
+029/039	drieb	1	d r ie b
+029/043	driw	1	d r i w
+029/045	driew	1	d r ie w
+029/047	driew	1	d r ie w
+029/049	drieb	1	d r ie b
+029/051	driw	1	d r i w
+029/053	drieb	1	d r ie b
+029/055	drieb	1	d r ie b
+029/057	drieb	1	d r ie b
+029/059	drib	1	d r i b
+029/061	drieb	1	d r ie b
+029/065	driem	1	d r ie m
+029/067	drieb	1	d r ie b
+029/069	maokn	1	m ao k n
+029/071	drib	1	d r i b
+029/073	NA	NA	-
+029/075	drieb	1	d r ie b
+029/077	drieb	1	d r ie b
+029/079	drib	1	d r i b
+029/081	drieb	1	d r ie b
+029/083	drib	1	d r i b
+029/085	driem	1	d r ie m
+029/087	driem	1	d r ie m
+029/089	driw	1	d r i w
+029/091	drieb	1	d r ie b
+029/093	driw	1	d r i w
+029/095	drieb	1	d r ie b
+029/097	drieb	1	d r ie b
+029/099	driew	1	d r ie w
+029/101	drieb	1	d r ie b
+029/103	driw	1	d r i w
+029/105	drieb	1	d r ie b
+029/107	utömn	1	u t ö m n
+029/109	drib	1	d r i b
+029/111	drieb	1	d r ie b
+029/113	drieb	1	d r ie b
+029/115	driem	1	d r ie m
+029/117	driw	1	d r i w
+029/119	drim	1	d r i m
+029/121	drib	1	d r i b
+029/123	driew	1	d r ie w
+029/125	drieb	1	d r ie b
+029/127	driew	1	d r ie w
+029/129	driew	1	d r ie w
+029/131	driew	1	d r ie w
+029/133	driw	1	d r i w
+029/135	driw	1	d r i w
+029/137	driv	1	d r i v
+029/139	driw	1	d r i w
+029/141	driew	1	d r ie w
+029/143	driw	1	d r i w
+029/145	driw	1	d r i w
+029/147	driew	1	d r ie w
+029/149	driw	1	d r i w
+029/151	driw	1	d r i w
+029/153	driw	1	d r i w
+029/155	driew	1	d r ie w
+029/157	driw	1	d r i w
+029/159	driew	1	d r ie w
+029/161	drüf	1	d r ü f
+029/163	driw	1	d r i w
+029/165	driew	1	d r ie w
+029/167	drief	1	d r ie f
+029/169	driw	1	d r i w
+029/171	driw	1	d r i w
+029/173	driew	1	d r ie w
+029/175	driew	1	d r ie w
+029/177	driw	1	d r i w
+029/181	drieb	1	d r ie b
+030/033	NA	NA	-
+030/035	driev	1	d r ie v
+030/037	maken	1	m a k e n
+030/039	drieb	1	d r ie b
+030/041	driev	1	d r ie v
+030/043	maakn	1	m aa k n
+030/045	driv	1	d r i v
+030/047	drib	1	d r i b
+030/049	drieb	1	d r ie b
+030/051	drib	1	d r i b
+030/053	drieb	1	d r ie b
+030/055	drieb	1	d r ie b
+030/057	drib	1	d r i b
+030/059	drieb	1	d r ie b
+030/061	drieb	1	d r ie b
+030/065	NA	NA	-
+030/067	drieb	1	d r ie b
+030/071	drib	1	d r i b
+030/073	driem	1	d r ie m
+030/075	drieb	1	d r ie b
+030/077	driem	1	d r ie m
+030/079	drieb	1	d r ie b
+030/081	drieb	1	d r ie b
+030/083	maken	1	m a k e n
+030/085	driem	1	d r ie m
+030/087	drieb	1	d r ie b
+030/089	drieb	1	d r ie b
+030/091	drieb	1	d r ie b
+030/093	drib	1	d r i b
+030/095	driem	1	d r ie m
+030/097	driem	1	d r ie m
+030/099	drib	1	d r i b
+030/101	drib	1	d r i b
+030/103	drihm	1	d r ih m
+030/105	drieb	1	d r ie b
+030/107	driew	1	d r ie w
+030/109	drieb	1	d r ie b
+030/111	drim	1	d r i m
+030/113	drib	1	d r i b
+030/115	drieb	1	d r ie b
+030/117	drieb	1	d r ie b
+030/119	drib	1	d r i b
+030/121	drib	1	d r i b
+030/123	drib	1	d r i b
+030/125	drib	1	d r i b
+030/127	driew	1	d r ie w
+030/129	driw	1	d r i w
+030/131	driw	1	d r i w
+030/133	driw	1	d r i w
+030/135	driw	1	d r i w
+030/137	driw	1	d r i w
+030/139	driw	1	d r i w
+030/141	driw	1	d r i w
+030/143	driew	1	d r ie w
+030/145	driw	1	d r i w
+030/147	driw	1	d r i w
+030/149	driew	1	d r ie w
+030/151	driw	1	d r i w
+030/153	driew	1	d r ie w
+030/155	driew	1	d r ie w
+030/157	driw	1	d r i w
+030/159	driw	1	d r i w
+030/161	driw	1	d r i w
+030/163	driew	1	d r ie w
+030/165	mauke	1	m au k e
+030/167	driev	1	d r ie v
+030/169	driew	1	d r ie w
+030/171	driew	1	d r ie w
+030/173	driw	1	d r i w
+030/175	driw	1	d r i w
+030/177	driew	1	d r ie w
+030/179	driew	1	d r ie w
+030/181	driew	1	d r ie w
+030/183	driw	1	d r i w
+031/035	driev	1	d r ie v
+031/037	driev	1	d r ie v
+031/039	driev	1	d r ie v
+031/041	drib	1	d r i b
+031/043	driv	1	d r i v
+031/045	drieb	1	d r ie b
+031/047	driew	1	d r ie w
+031/049	driew	1	d r ie w
+031/051	vahemm	1	v a h e mm
+031/053	drib	1	d r i b
+031/055	driw	1	d r i w
+031/057	driw	1	d r i w
+031/059	driw	1	d r i w
+031/061	drib	1	d r i b
+031/063	driv	1	d r i v
+031/065	drieb	1	d r ie b
+031/067	drieb	1	d r ie b
+031/069	drieb	1	d r ie b
+031/071	drib	1	d r i b
+031/073	drib	1	d r i b
+031/075	driem	1	d r ie m
+031/077	drib	1	d r i b
+031/079	driv	1	d r i v
+031/081	driem	1	d r ie m
+031/083	driib	1	d r ii b
+031/085	driw	1	d r i w
+031/087	drieb	1	d r ie b
+031/089	drieb	1	d r ie b
+031/091	drieb	1	d r ie b
+031/093	drieb	1	d r ie b
+031/095	trieb	1	t r ie b
+031/097	driem	1	d r ie m
+031/099	drieb	1	d r ie b
+031/101	drieb	1	d r ie b
+031/103	drib	1	d r i b
+031/105	drib	1	d r i b
+031/107	drim	1	d r i m
+031/109	drim	1	d r i m
+031/111	driew	1	d r ie w
+031/113	drieb	1	d r ie b
+031/115	drib	1	d r i b
+031/117	drieb	1	d r ie b
+031/119	drieb	1	d r ie b
+031/121	drieb	1	d r ie b
+031/123	driew	1	d r ie w
+031/125	driew	1	d r ie w
+031/127	driw	1	d r i w
+031/129	driw	1	d r i w
+031/131	triw	1	t r i w
+031/133	driw	1	d r i w
+031/135	driw	1	d r i w
+031/137	driw	1	d r i w
+031/139	driw	1	d r i w
+031/141	driw	1	d r i w
+031/143	driew	1	d r ie w
+031/145	driw	1	d r i w
+031/147	driw	1	d r i w
+031/149	driew	1	d r ie w
+031/151	driw	1	d r i w
+031/153	driw	1	d r i w
+031/155	driw	1	d r i w
+031/157	driiw	1	d r ii w
+031/159	driw	1	d r i w
+031/161	driew	1	d r ie w
+031/163	driw	1	d r i w
+031/167	driew	1	d r ie w
+031/169	treib	1	t r ei b
+031/171	treib	1	t r ei b
+031/173	dreib	1	d r ei b
+031/175	driew	1	d r ie w
+031/177	driw	1	d r i w
+031/179	driw	1	d r i w
+032/035	driev	1	d r ie v
+032/037	driv	1	d r i v
+032/039	driev	1	d r ie v
+032/041	drieb	1	d r ie b
+032/043	drieb	1	d r ie b
+032/045	dohn	1	d oh n
+032/047	driw	1	d r i w
+032/049	driew	1	d r ie w
+032/051	driw	1	d r i w
+032/053	driew	1	d r ie w
+032/055	drieb	1	d r ie b
+032/057	drieb	1	d r ie b
+032/059	driehm	1	d r ieh m
+032/061	driem	1	d r ie m
+032/065	drieb	1	d r ie b
+032/069	drieb	1	d r ie b
+032/071	drieb	1	d r ie b
+032/073	drieb	1	d r ie b
+032/075	drieb	1	d r ie b
+032/077	driem	1	d r ie m
+032/079	makn	1	m a k n
+032/081	drib	1	d r i b
+032/083	drieb	1	d r ie b
+032/085	drib	1	d r i b
+032/087	drib	1	d r i b
+032/089	drim	1	d r i m
+032/091	drim	1	d r i m
+032/093	driw	1	d r i w
+032/095	drihm	1	d r ih m
+032/097	driem	1	d r ie m
+032/099	driew	1	d r ie w
+032/101	drib	1	d r i b
+032/103	drieb	1	d r ie b
+032/105	drieb	1	d r ie b
+032/107	driew	1	d r ie w
+032/111	drieb	1	d r ie b
+032/113	drieb	1	d r ie b
+032/115	drieb	1	d r ie b
+032/117	driew	1	d r ie w
+032/119	drieb	1	d r ie b
+032/121	drib	1	d r i b
+032/123	driew	1	d r ie w
+032/125	driw	1	d r i w
+032/127	driw	1	d r i w
+032/129	driew	1	d r ie w
+032/131	driew	1	d r ie w
+032/133	driw	1	d r i w
+032/135	driew	1	d r ie w
+032/139	driw	1	d r i w
+032/141	driew	1	d r ie w
+032/143	driw	1	d r i w
+032/145	driew	1	d r ie w
+032/147	driw	1	d r i w
+032/149	driw	1	d r i w
+032/151	driw	1	d r i w
+032/153	drihw	1	d r ih w
+032/157	driw	1	d r i w
+032/159	driew	1	d r ie w
+032/161	driew	1	d r ie w
+032/163	driew	1	d r ie w
+032/167	triew	1	t r ie w
+032/169	triew	1	t r ie w
+032/171	dräiw	1	d r äi w
+032/173	treib	1	t r ei b
+032/175	driw	1	d r i w
+032/177	driw	1	d r i w
+032/179	driew	1	d r ie w
+032/181	dryw	1	d r y w
+032/183	triew	1	t r ie w
+033/035	driiw	1	d r ii w
+033/037	driev	1	d r ie v
+033/039	drieb	1	d r ie b
+033/041	doun	1	d ou n
+033/043	driw	1	d r i w
+033/045	driw	1	d r i w
+033/047	driew	1	d r ie w
+033/049	driew	1	d r ie w
+033/051	drieb	1	d r ie b
+033/053	drib	1	d r i b
+033/055	driew	1	d r ie w
+033/057	drieb	1	d r ie b
+033/059	drieb	1	d r ie b
+033/061	drieb	1	d r ie b
+033/063	driehm	1	d r ieh m
+033/065	drieb	1	d r ie b
+033/067	drib	1	d r i b
+033/069	drieb	1	d r ie b
+033/071	drieb	1	d r ie b
+033/073	drieb	1	d r ie b
+033/075	driew	1	d r ie w
+033/077	driem	1	d r ie m
+033/079	drieb	1	d r ie b
+033/081	driem	1	d r ie m
+033/083	driew	1	d r ie w
+033/085	driw	1	d r i w
+033/087	drieb	1	d r ie b
+033/089	driw	1	d r i w
+033/091	driem	1	d r ie m
+033/093	driew	1	d r ie w
+033/095	drieb	1	d r ie b
+033/097	drieb	1	d r ie b
+033/099	driw	1	d r i w
+033/101	drieb	1	d r ie b
+033/103	driew	1	d r ie w
+033/105	driew	1	d r ie w
+033/107	drieb	1	d r ie b
+033/109	drieb	1	d r ie b
+033/111	drieb	1	d r ie b
+033/113	drieb	1	d r ie b
+033/115	driew	1	d r ie w
+033/117	driew	1	d r ie w
+033/119	drieb	1	d r ie b
+033/121	drib	1	d r i b
+033/123	driew	1	d r ie w
+033/125	driev	1	d r ie v
+033/127	driw	1	d r i w
+033/129	driew	1	d r ie w
+033/131	driev	1	d r ie v
+033/133	driw	1	d r i w
+033/135	driew	1	d r ie w
+033/137	driew	1	d r ie w
+033/139	driew	1	d r ie w
+033/141	driw	1	d r i w
+033/143	driv	1	d r i v
+033/145	driew	1	d r ie w
+033/147	driw	1	d r i w
+033/149	driw	1	d r i w
+033/151	driw	1	d r i w
+033/153	driw	1	d r i w
+033/155	driw	1	d r i w
+033/159	driw	1	d r i w
+033/161	driew	1	d r ie w
+033/163	driw	1	d r i w
+033/165	driw	1	d r i w
+033/167	driew	1	d r ie w
+033/169	driw	1	d r i w
+033/173	drüw	1	d r ü w
+033/175	driew	1	d r ie w
+033/177	driw	1	d r i w
+034/035	driehw	1	d r ieh w
+034/039	driew	1	d r ie w
+034/041	driw	1	d r i w
+034/043	driew	1	d r ie w
+034/045	driw	1	d r i w
+034/047	driew	1	d r ie w
+034/049	drieb	1	d r ie b
+034/051	vorrhemm	1	v o rr h e mm
+034/053	drib	1	d r i b
+034/055	trieb	1	t r ie b
+034/057	driew	1	d r ie w
+034/059	drieb	1	d r ie b
+034/061	drib	1	d r i b
+034/063	drib	1	d r i b
+034/065	driew	1	d r ie w
+034/067	drib	1	d r i b
+034/069	driv	1	d r i v
+034/071	driem	1	d r ie m
+034/073	driw	1	d r i w
+034/075	driem	1	d r ie m
+034/077	driem	1	d r ie m
+034/079	drieb	1	d r ie b
+034/081	drieb	1	d r ie b
+034/083	driem	1	d r ie m
+034/085	drib	1	d r i b
+034/087	drieb	1	d r ie b
+034/089	drieb	1	d r ie b
+034/091	driem	1	d r ie m
+034/093	driem	1	d r ie m
+034/095	driew	1	d r ie w
+034/097	driw	1	d r i w
+034/099	driew	1	d r ie w
+034/101	driew	1	d r ie w
+034/103	drieb	1	d r ie b
+034/105	drib	1	d r i b
+034/107	driew	1	d r ie w
+034/109	drieb	1	d r ie b
+034/111	driew	1	d r ie w
+034/113	driib	1	d r ii b
+034/115	driew	1	d r ie w
+034/117	driew	1	d r ie w
+034/119	driew	1	d r ie w
+034/121	driew	1	d r ie w
+034/125	driew	1	d r ie w
+034/127	driew	1	d r ie w
+034/129	driew	1	d r ie w
+034/131	triw	1	t r i w
+034/133	driw	1	d r i w
+034/135	driew	1	d r ie w
+034/137	driw	1	d r i w
+034/139	driew	1	d r ie w
+034/141	driw	1	d r i w
+034/143	driw	1	d r i w
+034/145	driew	1	d r ie w
+034/147	driw	1	d r i w
+034/149	driw	1	d r i w
+034/151	driew	1	d r ie w
+034/155	driew	1	d r ie w
+034/157	driw	1	d r i w
+034/161	driw	1	d r i w
+034/163	driew	1	d r ie w
+034/165	driv	1	d r i v
+034/167	driew	1	d r ie w
+034/169	driw	1	d r i w
+034/173	moke	1	m o k e
+035/035	driiw	1	d r ii w
+035/037	driew	1	d r ie w
+035/039	driew	1	d r ie w
+035/041	driew	1	d r ie w
+035/043	drief	1	d r ie f
+035/045	driw	1	d r i w
+035/047	driw	1	d r i w
+035/049	driw	1	d r i w
+035/051	drieb	1	d r ie b
+035/053	drib	1	d r i b
+035/055	drieb	1	d r ie b
+035/057	drieb	1	d r ie b
+035/059	driw	1	d r i w
+035/061	driw	1	d r i w
+035/063	drib	1	d r i b
+035/065	drihm	1	d r ih m
+035/067	drieb	1	d r ie b
+035/069	driw	1	d r i w
+035/071	driw	1	d r i w
+035/073	drie	1	d r ie
+035/075	drie	1	d r ie
+035/077	drie	1	d r ie
+035/079	drieb	1	d r ie b
+035/081	drib	1	d r i b
+035/083	drieb	1	d r ie b
+035/085	driem	1	d r ie m
+035/087	drib	1	d r i b
+035/089	drie	1	d r ie
+035/091	driew	1	d r ie w
+035/093	drieb	1	d r ie b
+035/095	driew	1	d r ie w
+035/097	driw	1	d r i w
+035/099	driew	1	d r ie w
+035/101	driew	1	d r ie w
+035/103	driw	1	d r i w
+035/105	driew	1	d r ie w
+035/107	driew	1	d r ie w
+035/109	driew	1	d r ie w
+035/111	drib	1	d r i b
+035/113	drieb	1	d r ie b
+035/115	drib	1	d r i b
+035/117	drieb	1	d r ie b
+035/121	driew	1	d r ie w
+035/123	driw	1	d r i w
+035/125	driew	1	d r ie w
+035/127	driew	1	d r ie w
+035/129	driw	1	d r i w
+035/133	driew	1	d r ie w
+035/135	driw	1	d r i w
+035/137	driew	1	d r ie w
+035/139	driw	1	d r i w
+035/141	driw	1	d r i w
+035/143	driew	1	d r ie w
+035/145	driew	1	d r ie w
+035/147	driw	1	d r i w
+035/149	driev	1	d r ie v
+035/151	driew	1	d r ie w
+035/153	driw	1	d r i w
+035/155	driw	1	d r i w
+035/157	driw	1	d r i w
+035/165	driew	1	d r ie w
+035/167	driw	1	d r i w
+035/169	driew	1	d r ie w
+035/171	driw	1	d r i w
+035/173	driew	1	d r ie w
+036/033	driew	1	d r ie w
+036/035	driew	1	d r ie w
+036/039	driew	1	d r ie w
+036/041	driw	1	d r i w
+036/043	driv	1	d r i v
+036/045	driv	1	d r i v
+036/047	driew	1	d r ie w
+036/049	drieb	1	d r ie b
+036/051	driev	1	d r ie v
+036/053	drieb	1	d r ie b
+036/055	driw	1	d r i w
+036/057	drieb	1	d r ie b
+036/059	drieb	1	d r ie b
+036/061	driew	1	d r ie w
+036/063	driw	1	d r i w
+036/065	drie	1	d r ie
+036/067	dri	1	d r i
+036/069	driew	1	d r ie w
+036/071	NA	NA	-
+036/073	drie	1	d r ie
+036/075	driev	1	d r ie v
+036/077	drim	1	d r i m
+036/079	drieb	1	d r ie b
+036/081	driib	1	d r ii b
+036/083	drieb	1	d r ie b
+036/085	driw	1	d r i w
+036/087	drib	1	d r i b
+036/089	driew	1	d r ie w
+036/091	driew	1	d r ie w
+036/095	driew	1	d r ie w
+036/097	driew	1	d r ie w
+036/099	driew	1	d r ie w
+036/101	driew	1	d r ie w
+036/103	driew	1	d r ie w
+036/105	driew	1	d r ie w
+036/107	driw	1	d r i w
+036/109	driew	1	d r ie w
+036/111	driw	1	d r i w
+036/113	driew	1	d r ie w
+036/115	driw	1	d r i w
+036/117	triew	1	t r ie w
+036/119	driew	1	d r ie w
+036/121	driew	1	d r ie w
+036/123	driew	1	d r ie w
+036/125	driiw	1	d r ii w
+036/127	driew	1	d r ie w
+036/129	driew	1	d r ie w
+036/133	driew	1	d r ie w
+036/135	driw	1	d r i w
+036/137	driw	1	d r i w
+036/139	driew	1	d r ie w
+036/141	driw	1	d r i w
+036/143	driw	1	d r i w
+036/147	driw	1	d r i w
+036/149	driew	1	d r ie w
+036/151	driew	1	d r ie w
+036/153	driw	1	d r i w
+036/155	NA	NA	-
+036/161	driew	1	d r ie w
+036/163	driw	1	d r i w
+036/165	driw	1	d r i w
+036/167	driw	1	d r i w
+036/169	driw	1	d r i w
+036/171	drif	1	d r i f
+037/033	driew	1	d r ie w
+037/035	driw	1	d r i w
+037/037	driew	1	d r ie w
+037/039	driew	1	d r ie w
+037/041	driiw	1	d r ii w
+037/043	driew	1	d r ie w
+037/045	driw	1	d r i w
+037/047	driw	1	d r i w
+037/049	driw	1	d r i w
+037/051	drieb	1	d r ie b
+037/053	driw	1	d r i w
+037/055	drib	1	d r i b
+037/057	driw	1	d r i w
+037/059	drie	1	d r ie
+037/061	drieb	1	d r ie b
+037/063	drie	1	d r ie
+037/065	drih	1	d r ih
+037/067	drii	1	d r ii
+037/069	drieb	1	d r ie b
+037/071	drie	1	d r ie
+037/073	drie	1	d r ie
+037/075	drieb	1	d r ie b
+037/077	drie	1	d r ie
+037/079	drieh	1	d r ieh
+037/081	drie	1	d r ie
+037/083	drie	1	d r ie
+037/085	driew	1	d r ie w
+037/087	driew	1	d r ie w
+037/089	driw	1	d r i w
+037/091	driw	1	d r i w
+037/093	drioh	1	d r ioh
+037/095	drieb	1	d r ie b
+037/097	driw	1	d r i w
+037/099	driew	1	d r ie w
+037/101	drieew	1	d r iee w
+037/105	driw	1	d r i w
+037/107	driib	1	d r ii b
+037/109	drir	1	d r i r
+037/111	driew	1	d r ie w
+037/113	driew	1	d r ie w
+037/115	triew	1	t r ie w
+037/117	driew	1	d r ie w
+037/119	driew	1	d r ie w
+037/121	driew	1	d r ie w
+037/123	driw	1	d r i w
+037/125	driew	1	d r ie w
+037/127	driew	1	d r ie w
+037/129	driew	1	d r ie w
+037/131	driew	1	d r ie w
+037/133	dreiw	1	d r ei w
+037/135	driw	1	d r i w
+037/137	driw	1	d r i w
+037/139	driew	1	d r ie w
+037/141	driw	1	d r i w
+037/145	driew	1	d r ie w
+037/147	driw	1	d r i w
+037/149	driw	1	d r i w
+037/151	driw	1	d r i w
+037/153	driew	1	d r ie w
+037/155	driw	1	d r i w
+037/157	driew	1	d r ie w
+037/159	driw	1	d r i w
+037/163	driw	1	d r i w
+037/171	driw	1	d r i w
+038/033	driew	1	d r ie w
+038/035	driew	1	d r ie w
+038/037	driw	1	d r i w
+038/039	driew	1	d r ie w
+038/041	driew	1	d r ie w
+038/043	driw	1	d r i w
+038/045	driw	1	d r i w
+038/047	driv	1	d r i v
+038/049	drim	1	d r i m
+038/051	drim	1	d r i m
+038/053	driw	1	d r i w
+038/055	driw	1	d r i w
+038/057	driw	1	d r i w
+038/059	drieb	1	d r ie b
+038/061	drieb	1	d r ie b
+038/063	driw	1	d r i w
+038/065	driw	1	d r i w
+038/067	drieb	1	d r ie b
+038/069	drieh	1	d r ieh
+038/071	drieb	1	d r ie b
+038/073	driw	1	d r i w
+038/075	driem	1	d r ie m
+038/077	drie	1	d r ie
+038/079	driew	1	d r ie w
+038/081	drie	1	d r ie
+038/083	drie	1	d r ie
+038/085	driew	1	d r ie w
+038/087	driew	1	d r ie w
+038/089	driew	1	d r ie w
+038/091	driw	1	d r i w
+038/093	driew	1	d r ie w
+038/095	driu	1	d r iu
+038/097	driew	1	d r ie w
+038/099	driew	1	d r ie w
+038/101	driew	1	d r ie w
+038/103	driw	1	d r i w
+038/105	driew	1	d r ie w
+038/107	driew	1	d r ie w
+038/109	drib	1	d r i b
+038/111	driw	1	d r i w
+038/113	driw	1	d r i w
+038/115	drüw	1	d r ü w
+038/117	driew	1	d r ie w
+038/119	driw	1	d r i w
+038/121	driv	1	d r i v
+038/123	driew	1	d r ie w
+038/125	driew	1	d r ie w
+038/127	driew	1	d r ie w
+038/129	drüw	1	d r ü w
+038/131	dreiw	1	d r ei w
+038/133	dreiw	1	d r ei w
+038/135	dreiw	1	d r ei w
+038/145	driw	1	d r i w
+038/147	driw	1	d r i w
+038/149	driw	1	d r i w
+038/151	driw	1	d r i w
+038/153	driw	1	d r i w
+038/155	driw	1	d r i w
+038/159	driw	1	d r i w
+038/161	driw	1	d r i w
+038/163	drew	1	d r e w
+039/029	NA	NA	-
+039/031	driev	1	d r ie v
+039/033	driew	1	d r ie w
+039/035	driw	1	d r i w
+039/037	driew	1	d r ie w
+039/039	driew	1	d r ie w
+039/041	driw	1	d r i w
+039/043	driw	1	d r i w
+039/045	driw	1	d r i w
+039/047	trüw	1	t r ü w
+039/049	driw	1	d r i w
+039/051	driw	1	d r i w
+039/053	drib	1	d r i b
+039/055	driw	1	d r i w
+039/057	drieb	1	d r ie b
+039/059	driew	1	d r ie w
+039/061	drieb	1	d r ie b
+039/063	drieb	1	d r ie b
+039/065	driew	1	d r ie w
+039/067	drie	1	d r ie
+039/069	drie	1	d r ie
+039/071	driew	1	d r ie w
+039/073	drih	1	d r ih
+039/075	drieb	1	d r ie b
+039/077	drie	1	d r ie
+039/079	drib	1	d r i b
+039/081	drie	1	d r ie
+039/083	drie	1	d r ie
+039/085	dri	1	d r i
+039/087	driew	1	d r ie w
+039/089	driew	1	d r ie w
+039/091	driew	1	d r ie w
+039/093	driev	1	d r ie v
+039/095	drieu	1	d r ieu
+039/097	driew	1	d r ie w
+039/099	driew	1	d r ie w
+039/101	drief	1	d r ie f
+039/103	driw	1	d r i w
+039/105	driew	1	d r ie w
+039/107	driew	1	d r ie w
+039/109	drieb	1	d r ie b
+039/111	driw	1	d r i w
+039/113	driew	1	d r ie w
+039/115	driw	1	d r i w
+039/117	driew	1	d r ie w
+039/119	driew	1	d r ie w
+039/121	drüw	1	d r ü w
+039/123	driew	1	d r ie w
+039/125	driew	1	d r ie w
+039/127	driew	1	d r ie w
+039/129	driew	1	d r ie w
+039/131	treiw	1	t r ei w
+039/133	treiw	1	t r ei w
+039/135	treib	1	t r ei b
+039/137	treib	1	t r ei b
+039/139	treib	1	t r ei b
+039/149	driw	1	d r i w
+039/151	driw	1	d r i w
+039/153	driw	1	d r i w
+039/155	driew	1	d r ie w
+040/029	driev	1	d r ie v
+040/031	driew	1	d r ie w
+040/033	driew	1	d r ie w
+040/035	driew	1	d r ie w
+040/037	driev	1	d r ie v
+040/039	driew	1	d r ie w
+040/041	driw	1	d r i w
+040/043	driw	1	d r i w
+040/045	driew	1	d r ie w
+040/047	drib	1	d r i b
+040/049	driew	1	d r ie w
+040/051	driew	1	d r ie w
+040/053	driew	1	d r ie w
+040/055	driem	1	d r ie m
+040/057	drii	1	d r ii
+040/059	driew	1	d r ie w
+040/061	drieb	1	d r ie b
+040/063	drieb	1	d r ie b
+040/065	drieb	1	d r ie b
+040/067	driw	1	d r i w
+040/069	drieb	1	d r ie b
+040/071	drieb	1	d r ie b
+040/073	drie	1	d r ie
+040/075	trieb	1	t r ie b
+040/077	driem	1	d r ie m
+040/079	drie	1	d r ie
+040/081	drie	1	d r ie
+040/083	drie	1	d r ie
+040/085	drie	1	d r ie
+040/087	driu	1	d r iu
+040/089	driuh	1	d r iuh
+040/091	driu	1	d r iu
+040/093	moaken	1	m oa k e n
+040/095	driw	1	d r i w
+040/097	driew	1	d r ie w
+040/099	driew	1	d r ie w
+040/101	driw	1	d r i w
+040/103	driew	1	d r ie w
+040/105	driew	1	d r ie w
+040/107	dreib	1	d r ei b
+040/109	dreib	1	d r ei b
+040/111	driew	1	d r ie w
+040/113	driew	1	d r ie w
+040/115	driw	1	d r i w
+040/119	driew	1	d r ie w
+040/121	drihw	1	d r ih w
+040/123	drieb	1	d r ie b
+040/125	dreiw	1	d r ei w
+040/127	dreiw	1	d r ei w
+040/129	treiw	1	t r ei w
+040/131	treiw	1	t r ei w
+040/133	treiw	1	t r ei w
+040/135	treib	1	t r ei b
+040/137	treib	1	t r ei b
+040/141	treib	1	t r ei b
+040/143	treib	1	t r ei b
+040/149	treib	1	t r ei b
+040/153	driw	1	d r i w
+040/155	driw	1	d r i w
+041/031	driew	1	d r ie w
+041/033	driev	1	d r ie v
+041/035	driew	1	d r ie w
+041/037	driew	1	d r ie w
+041/039	driew	1	d r ie w
+041/041	driew	1	d r ie w
+041/043	driew	1	d r ie w
+041/045	drieb	1	d r ie b
+041/047	drieb	1	d r ie b
+041/049	drieb	1	d r ie b
+041/051	drieb	1	d r ie b
+041/053	drieb	1	d r ie b
+041/055	drib	1	d r i b
+041/057	drib	1	d r i b
+041/059	driew	1	d r ie w
+041/061	driw	1	d r i w
+041/063	driw	1	d r i w
+041/065	driiw	1	d r ii w
+041/067	driew	1	d r ie w
+041/069	driev	1	d r ie v
+041/071	driew	1	d r ie w
+041/073	drieb	1	d r ie b
+041/075	drieb	1	d r ie b
+041/077	drie	1	d r ie
+041/079	drieb	1	d r ie b
+041/081	drie	1	d r ie
+041/083	dri	1	d r i
+041/085	NA	NA	-
+041/087	drieb	1	d r ie b
+041/089	drihu	1	d r i h u
+041/091	driu	1	d r iu
+041/093	driw	1	d r i w
+041/095	driu	1	d r iu
+041/097	driew	1	d r ie w
+041/099	driw	1	d r i w
+041/101	driew	1	d r ie w
+041/103	driew	1	d r ie w
+041/105	driw	1	d r i w
+041/107	driv	1	d r i v
+041/109	driev	1	d r ie v
+041/111	dreib	1	d r ei b
+041/113	driew	1	d r ie w
+041/115	driew	1	d r ie w
+041/117	driew	1	d r ie w
+041/119	driev	1	d r ie v
+041/121	driw	1	d r i w
+041/123	driew	1	d r ie w
+041/125	dreiw	1	d r ei w
+041/127	dreiw	1	d r ei w
+041/129	treiw	1	t r ei w
+041/131	treib	1	t r ei b
+041/133	treib	1	t r ei b
+041/135	treib	1	t r ei b
+041/139	treib	1	t r ei b
+041/141	treb	1	t r e b
+041/145	treib	1	t r ei b
+041/147	traib	1	t r ai b
+041/153	driw	1	d r i w
+041/155	driw	1	d r i w
+041/157	drüf	1	d r ü f
+041/159	driw	1	d r i w
+041/161	driw	1	d r i w
+042/033	driew	1	d r ie w
+042/035	driw	1	d r i w
+042/037	driew	1	d r ie w
+042/039	driev	1	d r ie v
+042/041	drieb	1	d r ie b
+042/043	driw	1	d r i w
+042/045	driib	1	d r ii b
+042/047	driev	1	d r ie v
+042/051	drib	1	d r i b
+042/053	drieb	1	d r ie b
+042/055	drieb	1	d r ie b
+042/057	driäb	1	d r iä b
+042/059	driem	1	d r ie m
+042/061	driew	1	d r ie w
+042/063	driew	1	d r ie w
+042/065	driw	1	d r i w
+042/067	driew	1	d r ie w
+042/069	driem	1	d r ie m
+042/071	driw	1	d r i w
+042/073	drieb	1	d r ie b
+042/075	driem	1	d r ie m
+042/077	drieb	1	d r ie b
+042/079	drieb	1	d r ie b
+042/081	trieb	1	t r ie b
+042/083	drim	1	d r i m
+042/085	drieb	1	d r ie b
+042/087	driu	1	d r iu
+042/089	drieb	1	d r ie b
+042/091	drihu	1	d r i h u
+042/093	driew	1	d r ie w
+042/095	drieb	1	d r ie b
+042/097	drieb	1	d r ie b
+042/099	driew	1	d r ie w
+042/101	driew	1	d r ie w
+042/103	drieb	1	d r ie b
+042/105	dreih	1	d r eih
+042/107	driw	1	d r i w
+042/109	driw	1	d r i w
+042/111	driew	1	d r ie w
+042/113	driew	1	d r ie w
+042/115	driew	1	d r ie w
+042/117	driew	1	d r ie w
+042/119	driew	1	d r ie w
+042/121	driew	1	d r ie w
+042/123	dreiw	1	d r ei w
+042/125	dreiw	1	d r ei w
+042/127	dreiw	1	d r ei w
+042/129	treiw	1	t r ei w
+042/131	treib	1	t r ei b
+042/133	treib	1	t r ei b
+042/135	treib	1	t r ei b
+042/137	traib	1	t r ai b
+042/139	treib	1	t r ei b
+042/141	traib	1	t r ai b
+042/143	hoin	1	h oi n
+042/145	treib	1	t r ei b
+042/147	traib	1	t r ai b
+042/149	treib	1	t r ei b
+042/151	macha	1	m a ch a
+042/157	driw	1	d r i w
+042/159	driew	1	d r ie w
+042/161	driew	1	d r ie w
+043/033	driew	1	d r ie w
+043/035	driew	1	d r ie w
+043/037	driew	1	d r ie w
+043/039	driew	1	d r ie w
+043/041	drieb	1	d r ie b
+043/043	driew	1	d r ie w
+043/045	drib	1	d r i b
+043/047	drib	1	d r i b
+043/049	driiw	1	d r ii w
+043/051	triew	1	t r ie w
+043/053	drieb	1	d r ie b
+043/055	driew	1	d r ie w
+043/057	driew	1	d r ie w
+043/059	driew	1	d r ie w
+043/061	driem	1	d r ie m
+043/063	driew	1	d r ie w
+043/065	drieb	1	d r ie b
+043/067	drieb	1	d r ie b
+043/069	drieb	1	d r ie b
+043/071	dräi	1	d r äi
+043/073	drieb	1	d r ie b
+043/075	drib	1	d r i b
+043/077	drieb	1	d r ie b
+043/079	drieb	1	d r ie b
+043/081	drieb	1	d r ie b
+043/083	drieb	1	d r ie b
+043/085	drie	1	d r ie
+043/087	drib	1	d r i b
+043/089	drie	1	d r ie
+043/091	driem	1	d r ie m
+043/093	drib	1	d r i b
+043/095	drie	1	d r ie
+043/097	drieb	1	d r ie b
+043/099	driew	1	d r ie w
+043/101	driw	1	d r i w
+043/103	driew	1	d r ie w
+043/105	driew	1	d r ie w
+043/107	triew	1	t r ie w
+043/109	driew	1	d r ie w
+043/111	driw	1	d r i w
+043/113	driew	1	d r ie w
+043/115	driew	1	d r ie w
+043/117	driew	1	d r ie w
+043/119	trei	1	t r ei
+043/121	driew	1	d r ie w
+043/123	dreiw	1	d r ei w
+043/125	treib	1	t r ei b
+043/127	treinb	1	t r ei n b
+043/129	treib	1	t r ei b
+043/131	treib	1	t r ei b
+043/133	treib	1	t r ei b
+043/135	treib	1	t r ei b
+043/137	traib	1	t r ai b
+043/141	traib	1	t r ai b
+043/143	treib	1	t r ei b
+043/145	traib	1	t r ai b
+043/151	treib	1	t r ei b
+043/153	treib	1	t r ei b
+043/159	driw	1	d r i w
+043/161	trieb	1	t r ie b
+044/033	driw	1	d r i w
+044/035	drief	1	d r ie f
+044/039	driew	1	d r ie w
+044/041	drib	1	d r i b
+044/043	driw	1	d r i w
+044/045	drieb	1	d r ie b
+044/047	drieb	1	d r ie b
+044/049	driw	1	d r i w
+044/051	druib	1	d r ui b
+044/053	druib	1	d r ui b
+044/055	druib	1	d r ui b
+044/057	dri	1	d r i
+044/059	driew	1	d r ie w
+044/061	driew	1	d r ie w
+044/063	dreib	1	d r ei b
+044/065	drüiw	1	d r üi w
+044/067	dröib	1	d r öi b
+044/069	druiw	1	d r ui w
+044/071	driw	1	d r i w
+044/073	dreim	1	d r ei m
+044/075	drieb	1	d r ie b
+044/077	dräim	1	d r äi m
+044/079	drib	1	d r i b
+044/081	drieb	1	d r ie b
+044/083	drieb	1	d r ie b
+044/085	drieb	1	d r ie b
+044/087	drieh	1	d r ieh
+044/089	driw	1	d r i w
+044/091	drieb	1	d r ie b
+044/093	driew	1	d r ie w
+044/095	drie	1	d r ie
+044/097	dri	1	d r i
+044/099	drieb	1	d r ie b
+044/101	drieb	1	d r ie b
+044/103	drieb	1	d r ie b
+044/105	driew	1	d r ie w
+044/107	driew	1	d r ie w
+044/109	driw	1	d r i w
+044/111	driew	1	d r ie w
+044/113	driew	1	d r ie w
+044/115	driew	1	d r ie w
+044/117	dreuw	1	d r eu w
+044/119	dreiw	1	d r ei w
+044/121	treiw	1	t r ei w
+044/123	treiw	1	t r ei w
+044/125	treiw	1	t r ei w
+044/127	treib	1	t r ei b
+044/129	treib	1	t r ei b
+044/131	treib	1	t r ei b
+044/133	traib	1	t r ai b
+044/135	traib	1	t r ai b
+044/137	traib	1	t r ai b
+044/141	traib	1	t r ai b
+044/143	traib	1	t r ai b
+044/145	traib	1	t r ai b
+044/149	treib	1	t r ei b
+044/151	träb	1	t r ä b
+044/153	treib	1	t r ei b
+045/033	driew	1	d r ie w
+045/035	driew	1	d r ie w
+045/037	driew	1	d r ie w
+045/039	driew	1	d r ie w
+045/041	driew	1	d r ie w
+045/043	driew	1	d r ie w
+045/045	driew	1	d r ie w
+045/047	driew	1	d r ie w
+045/049	driv	1	d r i v
+045/051	druib	1	d r ui b
+045/053	drieb	1	d r ie b
+045/055	drüib	1	d r üi b
+045/057	träiw	1	t r äi w
+045/059	troiw	1	t r oi w
+045/061	drei	1	d r ei
+045/063	drui	1	d r ui
+045/065	dreum	1	d r eu m
+045/067	dröiw	1	d r öi w
+045/069	dröib	1	d r öi b
+045/071	dräiw	1	d r äi w
+045/073	drai	1	d r ai
+045/075	dreib	1	d r ei b
+045/077	drieb	1	d r ie b
+045/079	drieb	1	d r ie b
+045/081	drih	1	d r ih
+045/083	drieb	1	d r ie b
+045/085	maken	1	m a k e n
+045/087	drieb	1	d r ie b
+045/089	drieb	1	d r ie b
+045/091	drieb	1	d r ie b
+045/093	triew	1	t r ie w
+045/095	drieb	1	d r ie b
+045/097	drieb	1	d r ie b
+045/099	drieb	1	d r ie b
+045/101	drieb	1	d r ie b
+045/103	driu	1	d r iu
+045/105	driew	1	d r ie w
+045/107	driew	1	d r ie w
+045/109	triw	1	t r i w
+045/111	driew	1	d r ie w
+045/113	dreib	1	d r ei b
+045/115	dreib	1	d r ei b
+045/117	dreiw	1	d r ei w
+045/119	treiw	1	t r ei w
+045/121	treiw	1	t r ei w
+045/123	treiw	1	t r ei w
+045/125	treiw	1	t r ei w
+045/127	traib	1	t r ai b
+045/129	treib	1	t r ei b
+045/131	treib	1	t r ei b
+045/133	treib	1	t r ei b
+045/135	treib	1	t r ei b
+045/137	traib	1	t r ai b
+045/139	traib	1	t r ai b
+045/141	treib	1	t r ei b
+045/143	treib	1	t r ei b
+045/145	traib	1	t r ai b
+045/155	traib	1	t r ai b
+046/031	driew	1	d r ie w
+046/033	driv	1	d r i v
+046/035	driw	1	d r i w
+046/037	driew	1	d r ie w
+046/039	driev	1	d r ie v
+046/041	maken	1	m a k e n
+046/043	driw	1	d r i w
+046/045	druib	1	d r ui b
+046/047	drib	1	d r i b
+046/049	druib	1	d r ui b
+046/051	driw	1	d r i w
+046/053	drüiw	1	d r üi w
+046/055	druib	1	d r ui b
+046/057	dröib	1	d r öi b
+046/059	driew	1	d r ie w
+046/061	druib	1	d r ui b
+046/063	dreim	1	d r ei m
+046/065	dröiw	1	d r öi w
+046/067	dröiw	1	d r öi w
+046/069	dreib	1	d r ei b
+046/071	dreib	1	d r ei b
+046/073	dreuib	1	d r eui b
+046/075	dreib	1	d r ei b
+046/077	drieb	1	d r ie b
+046/079	driib	1	d r ii b
+046/081	drieb	1	d r ie b
+046/083	drib	1	d r i b
+046/085	drieb	1	d r ie b
+046/087	driew	1	d r ie w
+046/089	drieb	1	d r ie b
+046/091	drieb	1	d r ie b
+046/093	triem	1	t r ie m
+046/095	trieb	1	t r ie b
+046/097	trie	1	t r ie
+046/099	drieb	1	d r ie b
+046/101	drieb	1	d r ie b
+046/103	driw	1	d r i w
+046/105	driew	1	d r ie w
+046/107	driew	1	d r ie w
+046/109	driew	1	d r ie w
+046/111	drieb	1	d r ie b
+046/113	drieb	1	d r ie b
+046/115	dreib	1	d r ei b
+046/117	treib	1	t r ei b
+046/119	traib	1	t r ai b
+046/121	treib	1	t r ei b
+046/123	treib	1	t r ei b
+046/125	treib	1	t r ei b
+046/127	treib	1	t r ei b
+046/129	treib	1	t r ei b
+046/131	treib	1	t r ei b
+046/133	traib	1	t r ai b
+046/135	träb	1	t r ä b
+046/137	treib	1	t r ei b
+046/139	machen	1	m a ch e n
+046/141	treib	1	t r ei b
+046/143	treib	1	t r ei b
+046/155	träib	1	t r äi b
+047/031	driew	1	d r ie w
+047/033	driew	1	d r ie w
+047/035	driew	1	d r ie w
+047/037	driw	1	d r i w
+047/039	driew	1	d r ie w
+047/041	driw	1	d r i w
+047/043	driew	1	d r ie w
+047/045	driew	1	d r ie w
+047/047	dräiw	1	d r äi w
+047/049	driew	1	d r ie w
+047/051	drui	1	d r ui
+047/053	drüib	1	d r üi b
+047/055	druib	1	d r ui b
+047/057	drüib	1	d r üi b
+047/059	drie	1	d r ie
+047/061	träim	1	t r äi m
+047/063	dräib	1	d r äi b
+047/065	dräib	1	d r äi b
+047/067	dröiw	1	d r öi w
+047/069	drib	1	d r i b
+047/071	drüh	1	d r üh
+047/073	dräi	1	d r äi
+047/075	dräi	1	d r äi
+047/077	drieb	1	d r ie b
+047/079	driw	1	d r i w
+047/081	drieb	1	d r ie b
+047/083	trieb	1	t r ie b
+047/085	driiw	1	d r ii w
+047/087	driem	1	d r ie m
+047/089	drieb	1	d r ie b
+047/091	driem	1	d r ie m
+047/093	drie	1	d r ie
+047/095	drie	1	d r ie
+047/097	drie	1	d r ie
+047/099	drii	1	d r ii
+047/101	drüb	1	d r ü b
+047/103	drie	1	d r ie
+047/105	trieb	1	t r ie b
+047/107	triew	1	t r ie w
+047/109	drieb	1	d r ie b
+047/111	drieb	1	d r ie b
+047/113	driev	1	d r ie v
+047/115	treib	1	t r ei b
+047/117	treib	1	t r ei b
+047/119	treib	1	t r ei b
+047/123	treiw	1	t r ei w
+047/125	treib	1	t r ei b
+047/127	treib	1	t r ei b
+047/129	treib	1	t r ei b
+047/131	träb	1	t r ä b
+047/133	treb	1	t r e b
+047/135	treib	1	t r ei b
+047/137	treb	1	t r e b
+047/139	treb	1	t r e b
+047/141	treb	1	t r e b
+047/147	trejb	1	t r e j b
+047/149	treb	1	t r e b
+047/151	treb	1	t r e b
+047/159	treib	1	t r ei b
+048/021	driew	1	d r ie w
+048/023	driew	1	d r ie w
+048/027	driev	1	d r ie v
+048/029	driew	1	d r ie w
+048/031	driw	1	d r i w
+048/033	driw	1	d r i w
+048/035	drie	1	d r ie
+048/037	drib	1	d r i b
+048/039	driew	1	d r ie w
+048/041	driew	1	d r ie w
+048/045	driv	1	d r i v
+048/047	dreib	1	d r ei b
+048/049	dreib	1	d r ei b
+048/051	drei	1	d r ei
+048/053	drü	1	d r ü
+048/055	drüib	1	d r üi b
+048/057	druim	1	d r ui m
+048/059	droui	1	d r oui
+048/061	dräib	1	d r äi b
+048/063	drieb	1	d r ie b
+048/065	draib	1	d r ai b
+048/067	dräiw	1	d r äi w
+048/069	dräib	1	d r äi b
+048/071	dreih	1	d r eih
+048/073	dräib	1	d r äi b
+048/075	drieb	1	d r ie b
+048/077	drieb	1	d r ie b
+048/079	drieb	1	d r ie b
+048/081	drieb	1	d r ie b
+048/083	drihb	1	d r ih b
+048/085	drieb	1	d r ie b
+048/087	drieb	1	d r ie b
+048/089	dreib	1	d r ei b
+048/091	treim	1	t r ei m
+048/093	trib	1	t r i b
+048/095	dreib	1	d r ei b
+048/099	trei	1	t r ei
+048/101	treib	1	t r ei b
+048/103	drie	1	d r ie
+048/105	drieb	1	d r ie b
+048/107	drieb	1	d r ie b
+048/109	drieb	1	d r ie b
+048/111	driiw	1	d r ii w
+048/113	dreib	1	d r ei b
+048/115	treib	1	t r ei b
+048/119	treib	1	t r ei b
+048/123	träiw	1	t r äi w
+048/125	treiw	1	t r ei w
+048/127	treib	1	t r ei b
+048/129	treib	1	t r ei b
+048/131	trehb	1	t r eh b
+048/133	treb	1	t r e b
+048/135	treeb	1	t r ee b
+048/137	träb	1	t r ä b
+048/139	trehb	1	t r eh b
+048/141	treb	1	t r e b
+048/143	treeb	1	t r ee b
+048/145	treb	1	t r e b
+048/147	treb	1	t r e b
+048/153	treib	1	t r ei b
+048/157	treb	1	t r e b
+048/159	treib	1	t r ei b
+049/019	moake	1	m oa k e
+049/021	driev	1	d r ie v
+049/023	driw	1	d r i w
+049/025	driew	1	d r ie w
+049/027	driw	1	d r i w
+049/029	driw	1	d r i w
+049/031	driew	1	d r ie w
+049/033	driew	1	d r ie w
+049/035	driew	1	d r ie w
+049/037	drib	1	d r i b
+049/039	driev	1	d r ie v
+049/041	drief	1	d r ie f
+049/043	driw	1	d r i w
+049/045	dräiw	1	d r äi w
+049/047	dreeb	1	d r ee b
+049/049	dräiw	1	d r äi w
+049/051	dreiw	1	d r ei w
+049/053	dreiw	1	d r ei w
+049/055	druib	1	d r ui b
+049/057	dröiw	1	d r öi w
+049/059	druiw	1	d r ui w
+049/061	droib	1	d r oi b
+049/063	drööib	1	d r ööi b
+049/065	droib	1	d r oi b
+049/067	droiw	1	d r oi w
+049/069	dräiw	1	d r äi w
+049/071	dräib	1	d r äi b
+049/073	dreih	1	d r eih
+049/077	trieb	1	t r ie b
+049/079	drieb	1	d r ie b
+049/081	drieb	1	d r ie b
+049/083	drieb	1	d r ie b
+049/085	trieb	1	t r ie b
+049/087	trei	1	t r ei
+049/089	mache	1	m a ch e
+049/091	treiw	1	t r ei w
+049/093	treib	1	t r ei b
+049/095	trei	1	t r ei
+049/097	treib	1	t r ei b
+049/099	trei	1	t r ei
+049/101	treib	1	t r ei b
+049/103	treiw	1	t r ei w
+049/105	trieb	1	t r ie b
+049/107	drie	1	d r ie
+049/109	drie	1	d r ie
+049/111	machen	1	m a ch e n
+049/113	drieb	1	d r ie b
+049/115	treib	1	t r ei b
+049/117	treib	1	t r ei b
+049/119	machen	1	m a ch e n
+049/121	treib	1	t r ei b
+049/123	treib	1	t r ei b
+049/125	treib	1	t r ei b
+049/127	treib	1	t r ei b
+049/129	treib	1	t r ei b
+049/131	treib	1	t r ei b
+049/133	treb	1	t r e b
+049/135	treb	1	t r e b
+049/137	treb	1	t r e b
+049/139	treeb	1	t r ee b
+049/141	treeb	1	t r ee b
+049/143	treeb	1	t r ee b
+049/145	treb	1	t r e b
+049/147	träb	1	t r ä b
+049/151	treb	1	t r e b
+050/021	driew	1	d r ie w
+050/023	treiw	1	t r ei w
+050/025	driew	1	d r ie w
+050/027	driew	1	d r ie w
+050/029	driew	1	d r ie w
+050/031	driw	1	d r i w
+050/033	driew	1	d r ie w
+050/035	driv	1	d r i v
+050/037	driem	1	d r ie m
+050/039	driew	1	d r ie w
+050/041	drieb	1	d r ie b
+050/043	driew	1	d r ie w
+050/047	dräiw	1	d r äi w
+050/049	truiw	1	t r ui w
+050/051	dreiw	1	d r ei w
+050/053	driew	1	d r ie w
+050/055	dreiw	1	d r ei w
+050/057	drieiw	1	d r iei w
+050/059	dreiw	1	d r ei w
+050/061	drieiw	1	d r iei w
+050/063	dreeib	1	d r eei b
+050/065	drim	1	d r i m
+050/067	drieb	1	d r ie b
+050/069	dräib	1	d r äi b
+050/071	dräim	1	d r äi m
+050/073	drim	1	d r i m
+050/075	trei	1	t r ei
+050/077	drieb	1	d r ie b
+050/079	drib	1	d r i b
+050/081	drieb	1	d r ie b
+050/083	driib	1	d r ii b
+050/085	trieb	1	t r ie b
+050/087	treib	1	t r ei b
+050/089	träim	1	t r äi m
+050/091	treim	1	t r ei m
+050/093	treim	1	t r ei m
+050/095	treib	1	t r ei b
+050/097	treib	1	t r ei b
+050/099	trei	1	t r ei
+050/101	treib	1	t r ei b
+050/103	treib	1	t r ei b
+050/105	trei	1	t r ei
+050/107	drieb	1	d r ie b
+050/109	trieb	1	t r ie b
+050/111	driew	1	d r ie w
+050/113	drieb	1	d r ie b
+050/115	treib	1	t r ei b
+050/117	treib	1	t r ei b
+050/119	machen	1	m a ch e n
+050/121	treib	1	t r ei b
+050/125	treib	1	t r ei b
+050/127	treib	1	t r ei b
+050/129	traib	1	t r ai b
+050/131	treib	1	t r ei b
+050/133	trehb	1	t r eh b
+050/135	treb	1	t r e b
+050/137	treb	1	t r e b
+050/139	NA	NA	-
+050/141	treb	1	t r e b
+050/143	treeb	1	t r ee b
+050/145	treb	1	t r e b
+050/147	trehb	1	t r eh b
+050/149	treb	1	t r e b
+050/151	treeb	1	t r ee b
+050/155	träib	1	t r äi b
+050/157	treib	1	t r ei b
+050/159	treb	1	t r e b
+050/161	treib	1	t r ei b
+051/023	driev	1	d r ie v
+051/025	driw	1	d r i w
+051/027	driw	1	d r i w
+051/029	driew	1	d r ie w
+051/031	driv	1	d r i v
+051/033	driw	1	d r i w
+051/035	driw	1	d r i w
+051/037	driew	1	d r ie w
+051/039	driew	1	d r ie w
+051/041	dräiw	1	d r äi w
+051/043	druib	1	d r ui b
+051/045	druiw	1	d r ui w
+051/047	druiw	1	d r ui w
+051/049	druiw	1	d r ui w
+051/051	dreiw	1	d r ei w
+051/053	dreiiw	1	d r eii w
+051/055	dröiw	1	d r öi w
+051/057	driw	1	d r i w
+051/059	dreiw	1	d r ei w
+051/061	driiw	1	d r ii w
+051/063	dröim	1	d r öi m
+051/065	dräib	1	d r äi b
+051/067	driem	1	d r ie m
+051/069	driim	1	d r ii m
+051/071	drieb	1	d r ie b
+051/073	driew	1	d r ie w
+051/075	triew	1	t r ie w
+051/077	drieb	1	d r ie b
+051/079	trieb	1	t r ie b
+051/081	driew	1	d r ie w
+051/083	trieb	1	t r ie b
+051/085	treib	1	t r ei b
+051/087	treib	1	t r ei b
+051/089	treib	1	t r ei b
+051/091	treib	1	t r ei b
+051/093	treih	1	t r eih
+051/095	drei	1	d r ei
+051/097	trei	1	t r ei
+051/099	trei	1	t r ei
+051/101	treim	1	t r ei m
+051/103	dreib	1	d r ei b
+051/105	treib	1	t r ei b
+051/107	treib	1	t r ei b
+051/109	treib	1	t r ei b
+051/111	treib	1	t r ei b
+051/113	treib	1	t r ei b
+051/115	treib	1	t r ei b
+051/117	treib	1	t r ei b
+051/119	machen	1	m a ch e n
+051/121	treib	1	t r ei b
+051/123	treib	1	t r ei b
+051/125	treib	1	t r ei b
+051/127	treib	1	t r ei b
+051/129	treib	1	t r ei b
+051/131	treib	1	t r ei b
+051/133	treb	1	t r e b
+051/135	treeb	1	t r ee b
+051/137	treb	1	t r e b
+051/139	treb	1	t r e b
+051/141	treb	1	t r e b
+051/143	treb	1	t r e b
+051/145	treb	1	t r e b
+051/147	treeb	1	t r ee b
+051/149	treib	1	t r ei b
+051/151	treeb	1	t r ee b
+051/153	treeb	1	t r ee b
+051/155	treeb	1	t r ee b
+051/157	treb	1	t r e b
+052/023	NA	NA	-
+052/025	driev	1	d r ie v
+052/027	drief	1	d r ie f
+052/029	driv	1	d r i v
+052/031	driew	1	d r ie w
+052/033	driew	1	d r ie w
+052/035	driew	1	d r ie w
+052/037	driew	1	d r ie w
+052/039	driew	1	d r ie w
+052/041	dräiw	1	d r äi w
+052/043	dreiw	1	d r ei w
+052/045	druiw	1	d r ui w
+052/047	druiw	1	d r ui w
+052/049	druiw	1	d r ui w
+052/051	dräiw	1	d r äi w
+052/053	dryw	1	d r y w
+052/057	dreiw	1	d r ei w
+052/059	dräiw	1	d r äi w
+052/061	driew	1	d r ie w
+052/063	trieb	1	t r ie b
+052/065	drim	1	d r i m
+052/067	drie	1	d r ie
+052/069	drieh	1	d r ieh
+052/071	driew	1	d r ie w
+052/073	driw	1	d r i w
+052/075	triib	1	t r ii b
+052/077	trieb	1	t r ie b
+052/079	drieb	1	d r ie b
+052/081	trieb	1	t r ie b
+052/083	trieb	1	t r ie b
+052/085	treiw	1	t r ei w
+052/087	machn	1	m a ch n
+052/089	trei	1	t r ei
+052/091	treib	1	t r ei b
+052/093	treib	1	t r ei b
+052/095	dreim	1	d r ei m
+052/097	dreih	1	d r eih
+052/099	trei	1	t r ei
+052/101	treib	1	t r ei b
+052/103	dreib	1	d r ei b
+052/105	treib	1	t r ei b
+052/107	treib	1	t r ei b
+052/109	treib	1	t r ei b
+052/111	treib	1	t r ei b
+052/113	treib	1	t r ei b
+052/115	treib	1	t r ei b
+052/117	treib	1	t r ei b
+052/121	traib	1	t r ai b
+052/123	treib	1	t r ei b
+052/125	treib	1	t r ei b
+052/127	treib	1	t r ei b
+052/129	teeib	1	t eei b
+052/131	treib	1	t r ei b
+052/133	treib	1	t r ei b
+052/135	treib	1	t r ei b
+052/137	treeb	1	t r ee b
+052/139	treb	1	t r e b
+052/141	treb	1	t r e b
+052/143	treb	1	t r e b
+052/145	treib	1	t r ei b
+052/147	treeb	1	t r ee b
+052/149	treb	1	t r e b
+052/151	treeb	1	t r ee b
+052/153	traib	1	t r ai b
+052/155	treeb	1	t r ee b
+052/157	treb	1	t r e b
+052/159	traib	1	t r ai b
+053/023	make	1	m a k e
+053/025	driev	1	d r ie v
+053/027	macken	1	m a ck e n
+053/029	driiw	1	d r ii w
+053/031	driew	1	d r ie w
+053/033	driew	1	d r ie w
+053/035	driiw	1	d r ii w
+053/037	driehw	1	d r ieh w
+053/039	driw	1	d r i w
+053/041	driew	1	d r ie w
+053/043	maken	1	m a k e n
+053/045	dreeiw	1	d r eei w
+053/047	druiw	1	d r ui w
+053/049	druiw	1	d r ui w
+053/051	dreib	1	d r ei b
+053/053	dräib	1	d r äi b
+053/055	driew	1	d r ie w
+053/057	driew	1	d r ie w
+053/059	driew	1	d r ie w
+053/061	drieb	1	d r ie b
+053/063	drieb	1	d r ie b
+053/065	driem	1	d r ie m
+053/067	drim	1	d r i m
+053/069	drie	1	d r ie
+053/071	driew	1	d r ie w
+053/073	trie	1	t r ie
+053/075	trieb	1	t r ie b
+053/077	triew	1	t r ie w
+053/079	trieb	1	t r ie b
+053/081	trieb	1	t r ie b
+053/083	trieb	1	t r ie b
+053/085	treib	1	t r ei b
+053/087	treib	1	t r ei b
+053/089	treim	1	t r ei m
+053/091	dreib	1	d r ei b
+053/093	dreim	1	d r ei m
+053/095	treib	1	t r ei b
+053/097	treim	1	t r ei m
+053/099	trei	1	t r ei
+053/101	dreib	1	d r ei b
+053/103	treib	1	t r ei b
+053/105	trei	1	t r ei
+053/107	treib	1	t r ei b
+053/109	treib	1	t r ei b
+053/111	trei	1	t r ei
+053/113	treib	1	t r ei b
+053/115	machen	1	m a ch e n
+053/121	treib	1	t r ei b
+053/123	treib	1	t r ei b
+053/125	treib	1	t r ei b
+053/127	treib	1	t r ei b
+053/129	machen	1	m a ch e n
+053/131	treib	1	t r ei b
+053/133	treib	1	t r ei b
+053/135	NA	NA	-
+053/137	treb	1	t r e b
+053/139	treb	1	t r e b
+053/141	treb	1	t r e b
+053/143	träib	1	t r äi b
+053/145	treb	1	t r e b
+053/147	treeb	1	t r ee b
+053/149	treib	1	t r ei b
+053/151	trehb	1	t r eh b
+053/153	treb	1	t r e b
+053/155	treb	1	t r e b
+053/157	treb	1	t r e b
+054/023	driev	1	d r ie v
+054/025	driev	1	d r ie v
+054/027	driev	1	d r ie v
+054/029	driew	1	d r ie w
+054/031	driev	1	d r ie v
+054/033	driew	1	d r ie w
+054/035	driw	1	d r i w
+054/037	driw	1	d r i w
+054/039	driw	1	d r i w
+054/041	dreiw	1	d r ei w
+054/043	dräiw	1	d r äi w
+054/045	dreyw	1	d r ey w
+054/047	druiw	1	d r ui w
+054/049	druiw	1	d r ui w
+054/051	dröiw	1	d r öi w
+054/053	dräiww	1	d r äi ww
+054/055	driw	1	d r i w
+054/057	driw	1	d r i w
+054/059	maken	1	m a k e n
+054/061	trieb	1	t r ie b
+054/063	driew	1	d r ie w
+054/065	drieb	1	d r ie b
+054/067	trieb	1	t r ie b
+054/069	trieb	1	t r ie b
+054/071	trieb	1	t r ie b
+054/073	triw	1	t r i w
+054/075	triiw	1	t r ii w
+054/077	driiw	1	d r ii w
+054/079	trieb	1	t r ie b
+054/081	trieb	1	t r ie b
+054/083	trieb	1	t r ie b
+054/085	traiw	1	t r ai w
+054/087	treib	1	t r ei b
+054/089	treiw	1	t r ei w
+054/091	drei	1	d r ei
+054/093	trei	1	t r ei
+054/095	trei	1	t r ei
+054/097	drei	1	d r ei
+054/099	trei	1	t r ei
+054/101	trei	1	t r ei
+054/103	treib	1	t r ei b
+054/105	trei	1	t r ei
+054/107	treim	1	t r ei m
+054/109	trei	1	t r ei
+054/111	trei	1	t r ei
+054/113	treib	1	t r ei b
+054/115	treib	1	t r ei b
+054/117	drei	1	d r ei
+054/119	treib	1	t r ei b
+054/121	machn	1	m a ch n
+054/123	machen	1	m a ch e n
+054/125	treib	1	t r ei b
+054/127	treib	1	t r ei b
+054/131	treib	1	t r ei b
+054/133	treib	1	t r ei b
+054/135	treib	1	t r ei b
+054/137	träb	1	t r ä b
+054/139	treb	1	t r e b
+054/141	treb	1	t r e b
+054/143	treeb	1	t r ee b
+054/145	treb	1	t r e b
+054/147	treb	1	t r e b
+054/149	treb	1	t r e b
+054/151	treb	1	t r e b
+054/153	treeb	1	t r ee b
+054/155	treeib	1	t r eei b
+054/157	treeb	1	t r ee b
+054/159	treib	1	t r ei b
+054/161	treib	1	t r ei b
+054/163	driew	1	d r ie w
+055/023	driev	1	d r ie v
+055/025	NA	NA	-
+055/027	driev	1	d r ie v
+055/029	drief	1	d r ie f
+055/031	driw	1	d r i w
+055/033	driew	1	d r ie w
+055/035	driew	1	d r ie w
+055/037	triew	1	t r ie w
+055/039	driew	1	d r ie w
+055/041	dreeiw	1	d r eei w
+055/043	dräyw	1	d r äy w
+055/045	dräiw	1	d r äi w
+055/047	dräiw	1	d r äi w
+055/049	dräiw	1	d r äi w
+055/051	drieb	1	d r ie b
+055/053	driew	1	d r ie w
+055/055	driw	1	d r i w
+055/057	driew	1	d r ie w
+055/059	trieb	1	t r ie b
+055/061	treiw	1	t r ei w
+055/063	triw	1	t r i w
+055/065	triew	1	t r ie w
+055/067	triew	1	t r ie w
+055/069	trieb	1	t r ie b
+055/071	triew	1	t r ie w
+055/073	triw	1	t r i w
+055/075	trieb	1	t r ie b
+055/077	triäb	1	t r iä b
+055/079	trieb	1	t r ie b
+055/081	trieb	1	t r ie b
+055/083	trib	1	t r i b
+055/085	treib	1	t r ei b
+055/087	treib	1	t r ei b
+055/089	trei	1	t r ei
+055/091	treib	1	t r ei b
+055/093	trei	1	t r ei
+055/095	treiw	1	t r ei w
+055/097	drei	1	d r ei
+055/099	machen	1	m a ch e n
+055/101	trei	1	t r ei
+055/103	treib	1	t r ei b
+055/105	drei	1	d r ei
+055/107	treib	1	t r ei b
+055/109	drei	1	d r ei
+055/111	trei	1	t r ei
+055/113	trei	1	t r ei
+055/115	treib	1	t r ei b
+055/117	dreib	1	d r ei b
+055/119	NA	NA	-
+055/123	treib	1	t r ei b
+055/125	treib	1	t r ei b
+055/127	treib	1	t r ei b
+055/131	treib	1	t r ei b
+055/133	treib	1	t r ei b
+055/135	träb	1	t r ä b
+055/137	träb	1	t r ä b
+055/139	träb	1	t r ä b
+055/141	treeb	1	t r ee b
+055/143	treb	1	t r e b
+055/145	treb	1	t r e b
+055/147	treb	1	t r e b
+055/149	machn	1	m a ch n
+055/151	treeb	1	t r ee b
+055/153	treb	1	t r e b
+055/155	treib	1	t r ei b
+055/157	treb	1	t r e b
+055/159	treib	1	t r ei b
+055/161	treib	1	t r ei b
+056/021	driev	1	d r ie v
+056/023	driev	1	d r ie v
+056/025	driev	1	d r ie v
+056/027	drief	1	d r ie f
+056/029	driiw	1	d r ii w
+056/031	drief	1	d r ie f
+056/033	driw	1	d r i w
+056/035	driew	1	d r ie w
+056/037	driew	1	d r ie w
+056/039	driew	1	d r ie w
+056/041	driew	1	d r ie w
+056/043	driew	1	d r ie w
+056/045	driew	1	d r ie w
+056/047	dräiw	1	d r äi w
+056/049	dreiw	1	d r ei w
+056/051	dryw	1	d r y w
+056/053	driew	1	d r ie w
+056/055	driw	1	d r i w
+056/057	drieb	1	d r ie b
+056/059	triew	1	t r ie w
+056/061	triew	1	t r ie w
+056/063	driew	1	d r ie w
+056/065	trieb	1	t r ie b
+056/067	trib	1	t r i b
+056/069	trieb	1	t r ie b
+056/071	trieb	1	t r ie b
+056/073	trieb	1	t r ie b
+056/075	trieb	1	t r ie b
+056/077	drieb	1	d r ie b
+056/079	trieb	1	t r ie b
+056/081	triib	1	t r ii b
+056/083	triew	1	t r ie w
+056/085	treiw	1	t r ei w
+056/087	treib	1	t r ei b
+056/089	treiw	1	t r ei w
+056/091	dreib	1	d r ei b
+056/093	treiw	1	t r ei w
+056/095	treib	1	t r ei b
+056/097	treim	1	t r ei m
+056/099	trei	1	t r ei
+056/101	treib	1	t r ei b
+056/103	trei	1	t r ei
+056/105	trei	1	t r ei
+056/107	drei	1	d r ei
+056/109	trei	1	t r ei
+056/111	treim	1	t r ei m
+056/113	treib	1	t r ei b
+056/115	treib	1	t r ei b
+056/117	machen	1	m a ch e n
+056/121	treib	1	t r ei b
+056/123	treib	1	t r ei b
+056/125	treib	1	t r ei b
+056/127	dreib	1	d r ei b
+056/129	NA	NA	-
+056/131	treib	1	t r ei b
+056/133	treib	1	t r ei b
+056/135	treib	1	t r ei b
+056/137	träb	1	t r ä b
+056/139	träb	1	t r ä b
+056/141	treib	1	t r ei b
+056/143	treeb	1	t r ee b
+056/145	treb	1	t r e b
+056/147	treb	1	t r e b
+056/149	treb	1	t r e b
+056/151	treb	1	t r e b
+056/153	treeb	1	t r ee b
+056/155	treeb	1	t r ee b
+056/157	treb	1	t r e b
+056/159	träb	1	t r ä b
+056/161	treib	1	t r ei b
+057/021	drif	1	d r i f
+057/023	driv	1	d r i v
+057/025	drihv	1	d r ih v
+057/027	driev	1	d r ie v
+057/029	driev	1	d r ie v
+057/031	driew	1	d r ie w
+057/033	driew	1	d r ie w
+057/035	drihw	1	d r ih w
+057/037	driew	1	d r ie w
+057/039	driew	1	d r ie w
+057/041	driiw	1	d r ii w
+057/043	driw	1	d r i w
+057/045	driew	1	d r ie w
+057/047	treyw	1	t r ey w
+057/049	dreiw	1	d r ei w
+057/051	dreiw	1	d r ei w
+057/053	drieb	1	d r ie b
+057/055	träib	1	t r äi b
+057/057	treiw	1	t r ei w
+057/059	träib	1	t r äi b
+057/061	trieb	1	t r ie b
+057/063	driew	1	d r ie w
+057/065	triew	1	t r ie w
+057/067	trieb	1	t r ie b
+057/069	triew	1	t r ie w
+057/071	mache	1	m a ch e
+057/073	triew	1	t r ie w
+057/075	triw	1	t r i w
+057/077	driiw	1	d r ii w
+057/079	trieb	1	t r ie b
+057/081	trieb	1	t r ie b
+057/083	machen	1	m a ch e n
+057/085	treib	1	t r ei b
+057/087	treib	1	t r ei b
+057/089	treiw	1	t r ei w
+057/091	treim	1	t r ei m
+057/093	treiw	1	t r ei w
+057/095	treib	1	t r ei b
+057/097	moche	1	m o ch e
+057/099	treib	1	t r ei b
+057/101	trei	1	t r ei
+057/103	treib	1	t r ei b
+057/105	treib	1	t r ei b
+057/107	trei	1	t r ei
+057/109	treib	1	t r ei b
+057/111	treib	1	t r ei b
+057/113	trei	1	t r ei
+057/115	treib	1	t r ei b
+057/117	trei	1	t r ei
+057/119	treib	1	t r ei b
+057/121	treib	1	t r ei b
+057/123	treib	1	t r ei b
+057/125	treib	1	t r ei b
+057/127	dreib	1	d r ei b
+057/129	treib	1	t r ei b
+057/131	dreib	1	d r ei b
+057/133	machen	1	m a ch e n
+057/135	träib	1	t r äi b
+057/137	macha	1	m a ch a
+057/139	treib	1	t r ei b
+057/141	treib	1	t r ei b
+057/143	treib	1	t r ei b
+057/145	treib	1	t r ei b
+057/147	machen	1	m a ch e n
+057/149	treb	1	t r e b
+057/151	treb	1	t r e b
+057/153	treeb	1	t r ee b
+057/155	treeb	1	t r ee b
+057/157	treeb	1	t r ee b
+057/159	treib	1	t r ei b
+057/161	treib	1	t r ei b
+058/019	driv	1	d r i v
+058/021	driev	1	d r ie v
+058/023	driev	1	d r ie v
+058/025	driev	1	d r ie v
+058/027	drief	1	d r ie f
+058/029	drief	1	d r ie f
+058/031	driev	1	d r ie v
+058/033	driev	1	d r ie v
+058/035	drief	1	d r ie f
+058/037	driev	1	d r ie v
+058/039	driew	1	d r ie w
+058/041	driew	1	d r ie w
+058/043	drieb	1	d r ie b
+058/045	driew	1	d r ie w
+058/047	treiw	1	t r ei w
+058/049	treiw	1	t r ei w
+058/051	dreiw	1	d r ei w
+058/053	treiw	1	t r ei w
+058/055	treiw	1	t r ei w
+058/057	träiw	1	t r äi w
+058/059	träiw	1	t r äi w
+058/061	trieb	1	t r ie b
+058/063	driw	1	d r i w
+058/065	driew	1	d r ie w
+058/067	driew	1	d r ie w
+058/069	trib	1	t r i b
+058/071	trieb	1	t r ie b
+058/073	trieb	1	t r ie b
+058/075	triib	1	t r ii b
+058/077	trieb	1	t r ie b
+058/079	drieb	1	d r ie b
+058/081	trieb	1	t r ie b
+058/083	treib	1	t r ei b
+058/085	treib	1	t r ei b
+058/087	treib	1	t r ei b
+058/089	treib	1	t r ei b
+058/091	moche	1	m o ch e
+058/093	treib	1	t r ei b
+058/095	treib	1	t r ei b
+058/097	treib	1	t r ei b
+058/099	treib	1	t r ei b
+058/101	trei	1	t r ei
+058/103	treib	1	t r ei b
+058/105	treib	1	t r ei b
+058/107	trei	1	t r ei
+058/109	trei	1	t r ei
+058/111	trei	1	t r ei
+058/113	trei	1	t r ei
+058/115	treib	1	t r ei b
+058/117	treib	1	t r ei b
+058/119	NA	NA	-
+058/121	treib	1	t r ei b
+058/123	treib	1	t r ei b
+058/125	dreib	1	d r ei b
+058/127	dreib	1	d r ei b
+058/129	NA	NA	-
+058/131	treib	1	t r ei b
+058/133	treib	1	t r ei b
+058/135	treib	1	t r ei b
+058/137	träib	1	t r äi b
+058/139	treib	1	t r ei b
+058/141	treib	1	t r ei b
+058/143	treib	1	t r ei b
+058/145	treib	1	t r ei b
+058/147	treib	1	t r ei b
+058/149	treeb	1	t r ee b
+058/151	treib	1	t r ei b
+058/153	treib	1	t r ei b
+058/155	treib	1	t r ei b
+058/157	machn	1	m a ch n
+058/159	treib	1	t r ei b
+059/019	driew	1	d r ie w
+059/021	drief	1	d r ie f
+059/023	driv	1	d r i v
+059/025	drif	1	d r i f
+059/027	drief	1	d r ie f
+059/029	driv	1	d r i v
+059/031	driew	1	d r ie w
+059/033	driew	1	d r ie w
+059/035	drief	1	d r ie f
+059/037	driev	1	d r ie v
+059/039	driew	1	d r ie w
+059/041	driiw	1	d r ii w
+059/043	triew	1	t r ie w
+059/045	triw	1	t r i w
+059/047	treiw	1	t r ei w
+059/049	mache	1	m a ch e
+059/051	treiw	1	t r ei w
+059/053	treiw	1	t r ei w
+059/055	treiw	1	t r ei w
+059/057	trejw	1	t r e j w
+059/059	träiw	1	t r äi w
+059/061	driew	1	d r ie w
+059/063	triw	1	t r i w
+059/065	trieb	1	t r ie b
+059/067	triw	1	t r i w
+059/069	trieb	1	t r ie b
+059/071	trieb	1	t r ie b
+059/073	trieb	1	t r ie b
+059/075	trieb	1	t r ie b
+059/077	treib	1	t r ei b
+059/079	trib	1	t r i b
+059/081	traiw	1	t r ai w
+059/083	treib	1	t r ei b
+059/085	treib	1	t r ei b
+059/087	treib	1	t r ei b
+059/089	treib	1	t r ei b
+059/091	träb	1	t r ä b
+059/093	treib	1	t r ei b
+059/095	treib	1	t r ei b
+059/097	drei	1	d r ei
+059/099	treib	1	t r ei b
+059/101	trei	1	t r ei
+059/103	dreih	1	d r eih
+059/105	trei	1	t r ei
+059/107	drei	1	d r ei
+059/109	drei	1	d r ei
+059/111	machn	1	m a ch n
+059/113	trei	1	t r ei
+059/115	treib	1	t r ei b
+059/117	NA	NA	-
+059/119	machen	1	m a ch e n
+059/121	treib	1	t r ei b
+059/123	treib	1	t r ei b
+059/125	treib	1	t r ei b
+059/127	treib	1	t r ei b
+059/129	NA	NA	-
+059/131	NA	NA	-
+059/133	treib	1	t r ei b
+059/135	treib	1	t r ei b
+059/137	treib	1	t r ei b
+059/139	treib	1	t r ei b
+059/141	treib	1	t r ei b
+059/143	treib	1	t r ei b
+059/145	machn	1	m a ch n
+059/147	treib	1	t r ei b
+059/149	treib	1	t r ei b
+059/151	treib	1	t r ei b
+059/153	treib	1	t r ei b
+059/155	treib	1	t r ei b
+059/157	treib	1	t r ei b
+059/159	treb	1	t r e b
+059/161	treib	1	t r ei b
+059/165	treb	1	t r e b
+059/169	machen	1	m a ch e n
+060/021	driev	1	d r ie v
+060/023	drif	1	d r i f
+060/025	drif	1	d r i f
+060/027	drief	1	d r ie f
+060/029	driev	1	d r ie v
+060/031	drief	1	d r ie f
+060/033	drief	1	d r ie f
+060/035	driev	1	d r ie v
+060/037	driew	1	d r ie w
+060/039	driew	1	d r ie w
+060/041	treiw	1	t r ei w
+060/043	triew	1	t r ie w
+060/045	triew	1	t r ie w
+060/047	treiw	1	t r ei w
+060/049	NA	NA	-
+060/051	treiw	1	t r ei w
+060/053	treiw	1	t r ei w
+060/055	treiw	1	t r ei w
+060/057	treiw	1	t r ei w
+060/059	treiw	1	t r ei w
+060/061	treiw	1	t r ei w
+060/063	trie	1	t r ie
+060/065	trie	1	t r ie
+060/067	dri	1	d r i
+060/069	trie	1	t r ie
+060/071	trie	1	t r ie
+060/073	trie	1	t r ie
+060/075	trieb	1	t r ie b
+060/077	trieb	1	t r ie b
+060/079	trieb	1	t r ie b
+060/081	mache	1	m a ch e
+060/083	treib	1	t r ei b
+060/085	treib	1	t r ei b
+060/087	traib	1	t r ai b
+060/089	treib	1	t r ei b
+060/091	träw	1	t r ä w
+060/093	träb	1	t r ä b
+060/095	treib	1	t r ei b
+060/097	treib	1	t r ei b
+060/099	treib	1	t r ei b
+060/101	trei	1	t r ei
+060/103	treib	1	t r ei b
+060/105	trei	1	t r ei
+060/107	mochen	1	m o ch e n
+060/109	drai	1	d r ai
+060/111	trei	1	t r ei
+060/113	trei	1	t r ei
+060/115	trei	1	t r ei
+060/117	treib	1	t r ei b
+060/119	treib	1	t r ei b
+060/121	treib	1	t r ei b
+060/123	machn	1	m a ch n
+060/125	dreib	1	d r ei b
+060/127	treib	1	t r ei b
+060/129	treib	1	t r ei b
+060/131	machn	1	m a ch n
+060/135	treib	1	t r ei b
+060/137	treib	1	t r ei b
+060/139	treib	1	t r ei b
+060/141	treib	1	t r ei b
+060/143	treib	1	t r ei b
+060/145	treib	1	t r ei b
+060/147	treib	1	t r ei b
+060/149	treib	1	t r ei b
+060/151	treib	1	t r ei b
+060/153	machen	1	m a ch e n
+060/155	treib	1	t r ei b
+060/157	traib	1	t r ai b
+060/159	triäb	1	t r iä b
+060/163	treib	1	t r ei b
+060/165	treib	1	t r ei b
+061/021	driiv	1	d r ii v
+061/023	drief	1	d r ie f
+061/025	driev	1	d r ie v
+061/027	driev	1	d r ie v
+061/029	drief	1	d r ie f
+061/031	driev	1	d r ie v
+061/033	driew	1	d r ie w
+061/035	driew	1	d r ie w
+061/037	drief	1	d r ie f
+061/039	trieew	1	t r iee w
+061/041	treiw	1	t r ei w
+061/043	dräiw	1	d r äi w
+061/045	treiw	1	t r ei w
+061/047	treiw	1	t r ei w
+061/049	treiw	1	t r ei w
+061/051	traw	1	t r a w
+061/053	dreiw	1	d r ei w
+061/055	treiw	1	t r ei w
+061/057	treiw	1	t r ei w
+061/059	dreiw	1	d r ei w
+061/061	träiw	1	t r äi w
+061/063	trie	1	t r ie
+061/065	trieh	1	t r ieh
+061/067	trieh	1	t r ieh
+061/069	tri	1	t r i
+061/071	trii	1	t r ii
+061/073	trie	1	t r ie
+061/075	trih	1	t r ih
+061/077	trieb	1	t r ie b
+061/079	trieb	1	t r ie b
+061/081	triw	1	t r i w
+061/083	treib	1	t r ei b
+061/085	treib	1	t r ei b
+061/087	treib	1	t r ei b
+061/089	treib	1	t r ei b
+061/091	träb	1	t r ä b
+061/093	treib	1	t r ei b
+061/095	trei	1	t r ei
+061/097	treiw	1	t r ei w
+061/099	treib	1	t r ei b
+061/101	treib	1	t r ei b
+061/103	trei	1	t r ei
+061/105	trei	1	t r ei
+061/107	drei	1	d r ei
+061/109	drei	1	d r ei
+061/111	trei	1	t r ei
+061/113	trei	1	t r ei
+061/115	trei	1	t r ei
+061/117	trei	1	t r ei
+061/119	treib	1	t r ei b
+061/121	mache	1	m a ch e
+061/123	treib	1	t r ei b
+061/125	treib	1	t r ei b
+061/127	machn	1	m a ch n
+061/129	treib	1	t r ei b
+061/131	NA	NA	-
+061/133	treib	1	t r ei b
+061/137	treib	1	t r ei b
+061/139	treib	1	t r ei b
+061/141	treib	1	t r ei b
+061/143	treib	1	t r ei b
+061/145	treib	1	t r ei b
+061/147	treib	1	t r ei b
+061/149	treib	1	t r ei b
+061/151	treib	1	t r ei b
+061/153	treib	1	t r ei b
+061/155	treib	1	t r ei b
+061/157	träb	1	t r ä b
+061/159	treäb	1	t r eä b
+061/161	treäb	1	t r eä b
+061/165	NA	NA	-
+062/021	triev	1	t r ie v
+062/023	drief	1	d r ie f
+062/025	driev	1	d r ie v
+062/027	driew	1	d r ie w
+062/029	driew	1	d r ie w
+062/031	driew	1	d r ie w
+062/033	driew	1	d r ie w
+062/035	driv	1	d r i v
+062/037	driev	1	d r ie v
+062/039	dreiw	1	d r ei w
+062/041	treib	1	t r ei b
+062/043	treiw	1	t r ei w
+062/045	treiw	1	t r ei w
+062/047	treib	1	t r ei b
+062/049	treiw	1	t r ei w
+062/051	treiw	1	t r ei w
+062/053	dreiw	1	d r ei w
+062/055	treiw	1	t r ei w
+062/057	dreiw	1	d r ei w
+062/059	treiw	1	t r ei w
+062/061	treiw	1	t r ei w
+062/063	trie	1	t r ie
+062/065	trie	1	t r ie
+062/067	drie	1	d r ie
+062/069	trie	1	t r ie
+062/071	tri	1	t r i
+062/073	drii	1	d r ii
+062/075	trie	1	t r ie
+062/077	treib	1	t r ei b
+062/079	treib	1	t r ei b
+062/081	trib	1	t r i b
+062/083	treib	1	t r ei b
+062/085	treib	1	t r ei b
+062/087	treib	1	t r ei b
+062/089	dreib	1	d r ei b
+062/091	trä	1	t r ä
+062/093	trä	1	t r ä
+062/095	trei	1	t r ei
+062/097	trei	1	t r ei
+062/099	trei	1	t r ei
+062/101	drei	1	d r ei
+062/103	trei	1	t r ei
+062/105	machn	1	m a ch n
+062/107	trei	1	t r ei
+062/109	trei	1	t r ei
+062/111	NA	NA	-
+062/113	trei	1	t r ei
+062/115	trei	1	t r ei
+062/117	trei	1	t r ei
+062/119	mochn	1	m o ch n
+062/121	NA	NA	-
+062/123	machn	1	m a ch n
+062/125	machn	1	m a ch n
+062/127	treib	1	t r ei b
+062/129	treib	1	t r ei b
+062/131	NA	NA	-
+062/133	treib	1	t r ei b
+062/135	treib	1	t r ei b
+062/137	treiw	1	t r ei w
+062/139	treiw	1	t r ei w
+062/141	treib	1	t r ei b
+062/143	treib	1	t r ei b
+062/145	treib	1	t r ei b
+062/147	treib	1	t r ei b
+062/149	treib	1	t r ei b
+062/151	treib	1	t r ei b
+062/153	treib	1	t r ei b
+062/155	treib	1	t r ei b
+062/157	treib	1	t r ei b
+062/159	treeb	1	t r ee b
+062/161	treib	1	t r ei b
+063/021	driev	1	d r ie v
+063/023	driew	1	d r ie w
+063/025	drief	1	d r ie f
+063/027	driev	1	d r ie v
+063/029	driew	1	d r ie w
+063/031	maeche	1	m ae ch e
+063/033	driew	1	d r ie w
+063/035	driew	1	d r ie w
+063/037	driw	1	d r i w
+063/039	träiw	1	t r äi w
+063/041	trejw	1	t r e j w
+063/043	träiw	1	t r äi w
+063/045	treib	1	t r ei b
+063/047	treiw	1	t r ei w
+063/049	treiw	1	t r ei w
+063/051	treiw	1	t r ei w
+063/053	treiw	1	t r ei w
+063/055	treiw	1	t r ei w
+063/057	treiw	1	t r ei w
+063/059	treiw	1	t r ei w
+063/061	traiw	1	t r ai w
+063/063	trie	1	t r ie
+063/065	trie	1	t r ie
+063/067	drie	1	d r ie
+063/069	tri	1	t r i
+063/071	trie	1	t r ie
+063/073	treib	1	t r ei b
+063/075	treib	1	t r ei b
+063/077	traib	1	t r ai b
+063/079	trieb	1	t r ie b
+063/081	trieb	1	t r ie b
+063/083	treiw	1	t r ei w
+063/085	treib	1	t r ei b
+063/087	treiw	1	t r ei w
+063/089	träb	1	t r ä b
+063/091	trei	1	t r ei
+063/093	trei	1	t r ei
+063/095	machn	1	m a ch n
+063/097	machn	1	m a ch n
+063/099	trei	1	t r ei
+063/101	trei	1	t r ei
+063/103	drei	1	d r ei
+063/105	trei	1	t r ei
+063/107	treib	1	t r ei b
+063/109	drei	1	d r ei
+063/111	trei	1	t r ei
+063/113	trei	1	t r ei
+063/115	treib	1	t r ei b
+063/117	treib	1	t r ei b
+063/119	treib	1	t r ei b
+063/121	mochn	1	m o ch n
+063/123	NA	NA	-
+063/125	treib	1	t r ei b
+063/127	machn	1	m a ch n
+063/135	treib	1	t r ei b
+063/137	treiw	1	t r ei w
+063/139	NA	NA	-
+063/141	treiw	1	t r ei w
+063/143	NA	NA	-
+063/145	NA	NA	-
+063/147	treib	1	t r ei b
+063/149	treib	1	t r ei b
+063/151	treib	1	t r ei b
+063/153	treib	1	t r ei b
+063/155	treib	1	t r ei b
+063/157	treib	1	t r ei b
+063/159	treib	1	t r ei b
+063/161	treib	1	t r ei b
+063/163	treib	1	t r ei b
+063/165	treib	1	t r ei b
+064/023	driv	1	d r i v
+064/025	triev	1	t r ie v
+064/027	driv	1	d r i v
+064/029	driew	1	d r ie w
+064/031	driev	1	d r ie v
+064/033	driew	1	d r ie w
+064/035	dreiw	1	d r ei w
+064/037	treiw	1	t r ei w
+064/039	träiw	1	t r äi w
+064/041	träib	1	t r äi b
+064/043	treib	1	t r ei b
+064/045	treiw	1	t r ei w
+064/047	treib	1	t r ei b
+064/049	dreiw	1	d r ei w
+064/051	treiw	1	t r ei w
+064/053	treiw	1	t r ei w
+064/055	treib	1	t r ei b
+064/057	treiw	1	t r ei w
+064/059	NA	NA	-
+064/061	treiw	1	t r ei w
+064/063	trie	1	t r ie
+064/065	trie	1	t r ie
+064/067	tri	1	t r i
+064/069	dräi	1	d r äi
+064/071	trei	1	t r ei
+064/073	NA	NA	-
+064/075	treib	1	t r ei b
+064/077	treib	1	t r ei b
+064/079	treib	1	t r ei b
+064/081	trieb	1	t r ie b
+064/083	treib	1	t r ei b
+064/085	treib	1	t r ei b
+064/087	treib	1	t r ei b
+064/089	trei	1	t r ei
+064/091	treib	1	t r ei b
+064/093	trei	1	t r ei
+064/095	trei	1	t r ei
+064/097	trei	1	t r ei
+064/099	trei	1	t r ei
+064/101	trei	1	t r ei
+064/103	machn	1	m a ch n
+064/105	treib	1	t r ei b
+064/107	trei	1	t r ei
+064/109	trei	1	t r ei
+064/111	NA	NA	-
+064/113	trei	1	t r ei
+064/115	trei	1	t r ei
+064/117	NA	NA	-
+064/119	mochn	1	m o ch n
+064/121	treib	1	t r ei b
+064/123	treib	1	t r ei b
+064/125	treib	1	t r ei b
+064/127	treib	1	t r ei b
+064/135	treiw	1	t r ei w
+064/137	treiw	1	t r ei w
+064/139	treiw	1	t r ei w
+064/141	treib	1	t r ei b
+064/143	traiw	1	t r ai w
+064/145	NA	NA	-
+064/147	treib	1	t r ei b
+064/149	treib	1	t r ei b
+064/151	treib	1	t r ei b
+064/153	treib	1	t r ei b
+064/155	treib	1	t r ei b
+064/157	treib	1	t r ei b
+064/159	treib	1	t r ei b
+065/021	drief	1	d r ie f
+065/023	driev	1	d r ie v
+065/025	driew	1	d r ie w
+065/027	driew	1	d r ie w
+065/029	drief	1	d r ie f
+065/031	driew	1	d r ie w
+065/033	triw	1	t r i w
+065/035	treiw	1	t r ei w
+065/037	dräiw	1	d r äi w
+065/039	treuw	1	t r eu w
+065/041	träw	1	t r ä w
+065/043	treiw	1	t r ei w
+065/045	traiw	1	t r ai w
+065/047	treiw	1	t r ei w
+065/049	draiw	1	d r ai w
+065/051	draiw	1	d r ai w
+065/053	dreiw	1	d r ei w
+065/055	treiw	1	t r ei w
+065/057	treiw	1	t r ei w
+065/059	traihw	1	t r aih w
+065/061	treiw	1	t r ei w
+065/063	trie	1	t r ie
+065/065	trie	1	t r ie
+065/067	treii	1	t r eii
+065/069	trei	1	t r ei
+065/071	trei	1	t r ei
+065/073	treip	1	t r ei p
+065/075	treib	1	t r ei b
+065/077	treib	1	t r ei b
+065/079	treib	1	t r ei b
+065/081	treib	1	t r ei b
+065/083	treib	1	t r ei b
+065/085	treib	1	t r ei b
+065/087	drei	1	d r ei
+065/089	trei	1	t r ei
+065/091	trei	1	t r ei
+065/093	treib	1	t r ei b
+065/095	trei	1	t r ei
+065/097	trei	1	t r ei
+065/101	drei	1	d r ei
+065/103	trei	1	t r ei
+065/105	trei	1	t r ei
+065/107	trei	1	t r ei
+065/109	NA	NA	-
+065/111	treib	1	t r ei b
+065/113	NA	NA	-
+065/115	treib	1	t r ei b
+065/121	treib	1	t r ei b
+065/123	treib	1	t r ei b
+065/137	NA	NA	-
+065/139	treiw	1	t r ei w
+065/143	treiw	1	t r ei w
+065/145	treiw	1	t r ei w
+065/147	treib	1	t r ei b
+065/149	treib	1	t r ei b
+065/151	treib	1	t r ei b
+065/153	treib	1	t r ei b
+065/155	treib	1	t r ei b
+065/157	treib	1	t r ei b
+065/159	treib	1	t r ei b
+066/021	dreif	1	d r ei f
+066/023	dreif	1	d r ei f
+066/025	driw	1	d r i w
+066/027	drief	1	d r ie f
+066/029	NA	NA	-
+066/031	dreiw	1	d r ei w
+066/033	dreiw	1	d r ei w
+066/035	treiw	1	t r ei w
+066/037	dreiw	1	d r ei w
+066/039	treiw	1	t r ei w
+066/041	treiw	1	t r ei w
+066/043	treiw	1	t r ei w
+066/045	dreiw	1	d r ei w
+066/047	treiw	1	t r ei w
+066/049	treiw	1	t r ei w
+066/051	treiw	1	t r ei w
+066/053	treiw	1	t r ei w
+066/055	dreiw	1	d r ei w
+066/057	treiw	1	t r ei w
+066/059	treib	1	t r ei b
+066/061	treib	1	t r ei b
+066/063	treib	1	t r ei b
+066/065	trei	1	t r ei
+066/067	treib	1	t r ei b
+066/069	trei	1	t r ei
+066/071	trei	1	t r ei
+066/073	treib	1	t r ei b
+066/075	treib	1	t r ei b
+066/077	treib	1	t r ei b
+066/079	treib	1	t r ei b
+066/081	treib	1	t r ei b
+066/083	treib	1	t r ei b
+066/085	treib	1	t r ei b
+066/087	trei	1	t r ei
+066/089	trei	1	t r ei
+066/091	trei	1	t r ei
+066/093	treib	1	t r ei b
+066/095	treib	1	t r ei b
+066/097	NA	NA	-
+066/099	trei	1	t r ei
+066/101	machn	1	m a ch n
+066/103	trei	1	t r ei
+066/105	trei	1	t r ei
+066/107	trei	1	t r ei
+066/109	treib	1	t r ei b
+066/111	muchn	1	m u ch n
+066/113	trei	1	t r ei
+066/121	traib	1	t r ai b
+066/139	treiw	1	t r ei w
+066/143	treiw	1	t r ei w
+066/145	treib	1	t r ei b
+066/147	treiw	1	t r ei w
+066/149	treib	1	t r ei b
+066/151	treiw	1	t r ei w
+066/153	NA	NA	-
+066/155	treib	1	t r ei b
+066/157	treib	1	t r ei b
+066/159	NA	NA	-
+066/161	treib	1	t r ei b
+066/163	treib	1	t r ei b
+067/021	drehw	1	d r eh w
+067/023	drejv	1	d r e j v
+067/025	treiw	1	t r ei w
+067/027	dreiw	1	d r ei w
+067/029	dreiw	1	d r ei w
+067/031	treiw	1	t r ei w
+067/033	treiw	1	t r ei w
+067/035	dreiw	1	d r ei w
+067/037	treiw	1	t r ei w
+067/039	treiw	1	t r ei w
+067/041	treiw	1	t r ei w
+067/043	treiw	1	t r ei w
+067/045	treiw	1	t r ei w
+067/047	treiw	1	t r ei w
+067/049	treiw	1	t r ei w
+067/051	treiw	1	t r ei w
+067/053	treiw	1	t r ei w
+067/055	treiw	1	t r ei w
+067/057	traib	1	t r ai b
+067/059	treiw	1	t r ei w
+067/061	treib	1	t r ei b
+067/063	dreib	1	d r ei b
+067/065	treib	1	t r ei b
+067/067	trei	1	t r ei
+067/069	trei	1	t r ei
+067/071	trei	1	t r ei
+067/073	treib	1	t r ei b
+067/075	treib	1	t r ei b
+067/077	treib	1	t r ei b
+067/079	treib	1	t r ei b
+067/081	treib	1	t r ei b
+067/083	mach	1	m a ch
+067/085	treib	1	t r ei b
+067/087	treib	1	t r ei b
+067/089	trei	1	t r ei
+067/091	sa	1	s a
+067/093	trei	1	t r ei
+067/095	traib	1	t r ai b
+067/097	machen	1	m a ch e n
+067/099	trei	1	t r ei
+067/101	mochn	1	m o ch n
+067/103	trei	1	t r ei
+067/105	NA	NA	-
+067/107	mochen	1	m o ch e n
+067/109	NA	NA	-
+067/111	mochn	1	m o ch n
+067/113	trei	1	t r ei
+067/143	NA	NA	-
+067/145	treib	1	t r ei b
+067/147	treib	1	t r ei b
+067/149	treib	1	t r ei b
+067/151	treiw	1	t r ei w
+067/153	treib	1	t r ei b
+067/155	treib	1	t r ei b
+067/157	NA	NA	-
+067/159	treib	1	t r ei b
+067/161	treib	1	t r ei b
+067/163	treib	1	t r ei b
+067/165	treib	1	t r ei b
+067/177	treib	1	t r ei b
+068/021	dreiv	1	d r ei v
+068/023	treiw	1	t r ei w
+068/025	dreiw	1	d r ei w
+068/027	treiw	1	t r ei w
+068/029	treiw	1	t r ei w
+068/031	treuf	1	t r eu f
+068/033	treuw	1	t r eu w
+068/035	treuw	1	t r eu w
+068/037	treuw	1	t r eu w
+068/039	treiw	1	t r ei w
+068/041	treiw	1	t r ei w
+068/043	treiw	1	t r ei w
+068/045	treib	1	t r ei b
+068/047	treiw	1	t r ei w
+068/049	treiw	1	t r ei w
+068/051	dreiw	1	d r ei w
+068/053	treiw	1	t r ei w
+068/055	treiw	1	t r ei w
+068/057	traiw	1	t r ai w
+068/059	treiw	1	t r ei w
+068/061	dreiw	1	d r ei w
+068/063	treib	1	t r ei b
+068/065	treib	1	t r ei b
+068/067	treib	1	t r ei b
+068/069	treib	1	t r ei b
+068/071	mach	1	m a ch
+068/073	treib	1	t r ei b
+068/075	treib	1	t r ei b
+068/077	treib	1	t r ei b
+068/079	treib	1	t r ei b
+068/081	treib	1	t r ei b
+068/083	trei	1	t r ei
+068/085	treib	1	t r ei b
+068/087	trei	1	t r ei
+068/089	treib	1	t r ei b
+068/091	trei	1	t r ei
+068/093	trei	1	t r ei
+068/095	NA	NA	-
+068/097	drei	1	d r ei
+068/099	NA	NA	-
+068/101	treib	1	t r ei b
+068/103	NA	NA	-
+068/105	NA	NA	-
+068/107	trei	1	t r ei
+068/109	mochn	1	m o ch n
+068/111	trei	1	t r ei
+068/145	treiw	1	t r ei w
+068/147	NA	NA	-
+068/149	trei	1	t r ei
+068/151	tun	1	t u n
+068/153	trei	1	t r ei
+068/155	treib	1	t r ei b
+068/157	treib	1	t r ei b
+068/159	treib	1	t r ei b
+068/161	treib	1	t r ei b
+068/165	treib	1	t r ei b
+069/019	dreiw	1	d r ei w
+069/023	dreiw	1	d r ei w
+069/025	dreuw	1	d r eu w
+069/027	dräiw	1	d r äi w
+069/029	dreiw	1	d r ei w
+069/031	treiw	1	t r ei w
+069/033	dreiw	1	d r ei w
+069/035	träiw	1	t r äi w
+069/037	dräiw	1	d r äi w
+069/039	dreiw	1	d r ei w
+069/041	traiw	1	t r ai w
+069/043	treiw	1	t r ei w
+069/045	treiw	1	t r ei w
+069/047	treib	1	t r ei b
+069/049	treiw	1	t r ei w
+069/051	treiw	1	t r ei w
+069/053	dreiw	1	d r ei w
+069/055	treiw	1	t r ei w
+069/057	treib	1	t r ei b
+069/059	treib	1	t r ei b
+069/061	treib	1	t r ei b
+069/063	treib	1	t r ei b
+069/065	traib	1	t r ai b
+069/067	treib	1	t r ei b
+069/069	drei	1	d r ei
+069/071	trei	1	t r ei
+069/073	trei	1	t r ei
+069/075	treib	1	t r ei b
+069/077	treib	1	t r ei b
+069/079	treib	1	t r ei b
+069/081	trei	1	t r ei
+069/083	treib	1	t r ei b
+069/085	trei	1	t r ei
+069/087	trei	1	t r ei
+069/089	trei	1	t r ei
+069/091	trei	1	t r ei
+069/093	treib	1	t r ei b
+069/095	trei	1	t r ei
+069/097	trei	1	t r ei
+069/099	trei	1	t r ei
+069/101	treib	1	t r ei b
+069/103	trei	1	t r ei
+069/105	treib	1	t r ei b
+069/107	machn	1	m a ch n
+069/109	sei	1	s ei
+069/111	mochn	1	m o ch n
+069/147	sein	1	s ei n
+069/149	trei	1	t r ei
+069/151	treib	1	t r ei b
+069/153	treib	1	t r ei b
+069/157	trei	1	t r ei
+069/159	treib	1	t r ei b
+069/161	treib	1	t r ei b
+069/163	treiw	1	t r ei w
+069/165	treib	1	t r ei b
+070/019	dreiw	1	d r ei w
+070/023	treiv	1	t r ei v
+070/025	treiw	1	t r ei w
+070/027	dreiw	1	d r ei w
+070/029	treiw	1	t r ei w
+070/031	treiw	1	t r ei w
+070/033	treiw	1	t r ei w
+070/035	treiw	1	t r ei w
+070/037	treiw	1	t r ei w
+070/039	treiw	1	t r ei w
+070/041	dreiw	1	d r ei w
+070/043	dreiw	1	d r ei w
+070/045	treib	1	t r ei b
+070/047	treiw	1	t r ei w
+070/049	treiw	1	t r ei w
+070/051	treiw	1	t r ei w
+070/053	treiw	1	t r ei w
+070/055	treiw	1	t r ei w
+070/057	dreiw	1	d r ei w
+070/059	treib	1	t r ei b
+070/061	treib	1	t r ei b
+070/063	treib	1	t r ei b
+070/065	treib	1	t r ei b
+070/067	trei	1	t r ei
+070/069	treib	1	t r ei b
+070/071	treib	1	t r ei b
+070/073	treib	1	t r ei b
+070/075	treib	1	t r ei b
+070/077	treib	1	t r ei b
+070/079	treib	1	t r ei b
+070/081	treib	1	t r ei b
+070/083	trei	1	t r ei
+070/085	trei	1	t r ei
+070/087	trei	1	t r ei
+070/089	trei	1	t r ei
+070/091	trei	1	t r ei
+070/093	treib	1	t r ei b
+070/095	machn	1	m a ch n
+070/097	treih	1	t r eih
+070/099	treib	1	t r ei b
+070/101	NA	NA	-
+070/103	NA	NA	-
+070/105	NA	NA	-
+070/107	trei	1	t r ei
+070/109	trei	1	t r ei
+070/111	trei	1	t r ei
+070/145	NA	NA	-
+070/147	NA	NA	-
+070/149	NA	NA	-
+070/151	mochn	1	m o ch n
+070/153	treib	1	t r ei b
+070/155	traee	1	t r aee
+070/157	treib	1	t r ei b
+070/159	trei	1	t r ei
+070/161	treib	1	t r ei b
+070/163	treiw	1	t r ei w
+070/165	treiw	1	t r ei w
+071/017	maan	1	m aa n
+071/019	dreiw	1	d r ei w
+071/021	dreiw	1	d r ei w
+071/023	dreiw	1	d r ei w
+071/025	treiw	1	t r ei w
+071/027	treiw	1	t r ei w
+071/029	treif	1	t r ei f
+071/031	treiw	1	t r ei w
+071/033	treiw	1	t r ei w
+071/035	treiw	1	t r ei w
+071/037	dreiw	1	d r ei w
+071/039	treiw	1	t r ei w
+071/041	treiw	1	t r ei w
+071/043	treiw	1	t r ei w
+071/045	dreiw	1	d r ei w
+071/047	dräw	1	d r ä w
+071/049	dreiw	1	d r ei w
+071/051	dreiw	1	d r ei w
+071/053	dreiw	1	d r ei w
+071/055	treib	1	t r ei b
+071/057	treib	1	t r ei b
+071/059	treib	1	t r ei b
+071/063	treib	1	t r ei b
+071/065	treib	1	t r ei b
+071/067	treib	1	t r ei b
+071/069	trei	1	t r ei
+071/071	treib	1	t r ei b
+071/073	treib	1	t r ei b
+071/075	moach	1	m oa ch
+071/077	treib	1	t r ei b
+071/079	trei	1	t r ei
+071/081	trei	1	t r ei
+071/083	trei	1	t r ei
+071/085	trei	1	t r ei
+071/087	trei	1	t r ei
+071/089	treib	1	t r ei b
+071/091	treib	1	t r ei b
+071/093	treib	1	t r ei b
+071/095	trei	1	t r ei
+071/097	macha	1	m a ch a
+071/099	treib	1	t r ei b
+071/101	trei	1	t r ei
+071/103	machn	1	m a ch n
+071/105	trei	1	t r ei
+071/145	sei	1	s ei
+071/147	trei	1	t r ei
+071/149	treib	1	t r ei b
+071/151	treib	1	t r ei b
+071/153	treib	1	t r ei b
+071/155	NA	NA	-
+071/157	trei	1	t r ei
+071/159	trei	1	t r ei
+071/161	mochn	1	m o ch n
+071/163	NA	NA	-
+071/177	trai	1	t r ai
+071/179	treib	1	t r ei b
+072/017	dreiw	1	d r ei w
+072/019	dreiw	1	d r ei w
+072/021	dreew	1	d r ee w
+072/023	draiw	1	d r ai w
+072/025	treiw	1	t r ei w
+072/027	treiw	1	t r ei w
+072/029	treiw	1	t r ei w
+072/031	treiw	1	t r ei w
+072/033	treiw	1	t r ei w
+072/035	treiw	1	t r ei w
+072/037	NA	NA	-
+072/039	dreiw	1	d r ei w
+072/041	treiw	1	t r ei w
+072/043	dreiw	1	d r ei w
+072/045	dreiw	1	d r ei w
+072/047	dreiw	1	d r ei w
+072/049	treib	1	t r ei b
+072/051	treiw	1	t r ei w
+072/053	dreiw	1	d r ei w
+072/055	mache	1	m a ch e
+072/057	treiw	1	t r ei w
+072/059	treib	1	t r ei b
+072/061	treib	1	t r ei b
+072/063	mach	1	m a ch
+072/065	treib	1	t r ei b
+072/067	treib	1	t r ei b
+072/069	treib	1	t r ei b
+072/071	mach	1	m a ch
+072/073	trei	1	t r ei
+072/075	treib	1	t r ei b
+072/077	treib	1	t r ei b
+072/079	trei	1	t r ei
+072/081	treib	1	t r ei b
+072/083	trei	1	t r ei
+072/085	treib	1	t r ei b
+072/087	treib	1	t r ei b
+072/089	trei	1	t r ei
+072/091	trei	1	t r ei
+072/093	treib	1	t r ei b
+072/095	trei	1	t r ei
+072/097	treib	1	t r ei b
+072/099	trei	1	t r ei
+072/101	NA	NA	-
+072/103	trei	1	t r ei
+072/105	NA	NA	-
+072/107	treib	1	t r ei b
+072/145	treib	1	t r ei b
+072/147	trei	1	t r ei
+072/149	traj	1	t r a j
+072/151	treib	1	t r ei b
+072/153	NA	NA	-
+072/155	treib	1	t r ei b
+072/157	mochn	1	m o ch n
+072/159	treib	1	t r ei b
+072/161	trei	1	t r ei
+072/177	träj	1	t r ä j
+072/179	treib	1	t r ei b
+072/181	treib	1	t r ei b
+073/017	dreiw	1	d r ei w
+073/019	dreiw	1	d r ei w
+073/021	dreiw	1	d r ei w
+073/023	dreiw	1	d r ei w
+073/025	dreiw	1	d r ei w
+073/027	dreiw	1	d r ei w
+073/029	treiw	1	t r ei w
+073/031	treiw	1	t r ei w
+073/033	treiw	1	t r ei w
+073/035	träiw	1	t r äi w
+073/037	treiw	1	t r ei w
+073/039	dreiw	1	d r ei w
+073/041	treiw	1	t r ei w
+073/043	dreiw	1	d r ei w
+073/045	treiw	1	t r ei w
+073/047	treib	1	t r ei b
+073/049	treiw	1	t r ei w
+073/051	dreiw	1	d r ei w
+073/053	dreiw	1	d r ei w
+073/055	macha	1	m a ch a
+073/057	dreiw	1	d r ei w
+073/059	dreiw	1	d r ei w
+073/061	dreiw	1	d r ei w
+073/063	treib	1	t r ei b
+073/065	treib	1	t r ei b
+073/067	treib	1	t r ei b
+073/069	treib	1	t r ei b
+073/071	treib	1	t r ei b
+073/073	treib	1	t r ei b
+073/075	treib	1	t r ei b
+073/077	NA	NA	-
+073/079	trei	1	t r ei
+073/081	treib	1	t r ei b
+073/083	treiw	1	t r ei w
+073/085	trei	1	t r ei
+073/087	trei	1	t r ei
+073/089	treib	1	t r ei b
+073/091	treib	1	t r ei b
+073/093	trei	1	t r ei
+073/095	dreib	1	d r ei b
+073/097	trei	1	t r ei
+073/099	trei	1	t r ei
+073/101	trei	1	t r ei
+073/103	trei	1	t r ei
+073/105	trei	1	t r ei
+073/107	treib	1	t r ei b
+073/145	trei	1	t r ei
+073/147	trei	1	t r ei
+073/149	trei	1	t r ei
+073/151	trei	1	t r ei
+073/153	treib	1	t r ei b
+073/155	treib	1	t r ei b
+073/157	NA	NA	-
+073/159	treib	1	t r ei b
+073/161	treib	1	t r ei b
+073/163	treib	1	t r ei b
+073/165	treib	1	t r ei b
+073/175	trej	1	t r e j
+073/177	trej	1	t r e j
+074/019	dreiw	1	d r ei w
+074/021	dreiw	1	d r ei w
+074/023	machen	1	m a ch e n
+074/025	dreiw	1	d r ei w
+074/027	treiw	1	t r ei w
+074/029	treiw	1	t r ei w
+074/031	treiw	1	t r ei w
+074/033	treiw	1	t r ei w
+074/035	treiw	1	t r ei w
+074/037	treiw	1	t r ei w
+074/039	treiw	1	t r ei w
+074/041	treiw	1	t r ei w
+074/043	treiw	1	t r ei w
+074/045	treiw	1	t r ei w
+074/047	treiw	1	t r ei w
+074/049	dreiw	1	d r ei w
+074/051	dreiw	1	d r ei w
+074/053	dreiw	1	d r ei w
+074/055	treiw	1	t r ei w
+074/057	dreiw	1	d r ei w
+074/059	traib	1	t r ai b
+074/061	treiw	1	t r ei w
+074/063	treiw	1	t r ei w
+074/065	treib	1	t r ei b
+074/067	treib	1	t r ei b
+074/069	treib	1	t r ei b
+074/071	trei	1	t r ei
+074/073	treib	1	t r ei b
+074/075	trei	1	t r ei
+074/077	trei	1	t r ei
+074/079	treu	1	t r eu
+074/081	treib	1	t r ei b
+074/083	trai	1	t r ai
+074/085	trei	1	t r ei
+074/087	treib	1	t r ei b
+074/089	treib	1	t r ei b
+074/091	trei	1	t r ei
+074/093	treib	1	t r ei b
+074/095	treib	1	t r ei b
+074/097	treib	1	t r ei b
+074/099	NA	NA	-
+074/101	trei	1	t r ei
+074/103	trei	1	t r ei
+074/105	trei	1	t r ei
+074/107	trei	1	t r ei
+074/109	NA	NA	-
+074/145	NA	NA	-
+074/147	NA	NA	-
+074/149	machn	1	m a ch n
+074/153	NA	NA	-
+074/155	mochen	1	m o ch e n
+074/157	treib	1	t r ei b
+074/159	treib	1	t r ei b
+074/161	traib	1	t r ai b
+074/163	treiw	1	t r ei w
+074/165	treib	1	t r ei b
+075/019	dreiv	1	d r ei v
+075/021	dreiw	1	d r ei w
+075/023	dreiw	1	d r ei w
+075/025	dreiw	1	d r ei w
+075/027	treiw	1	t r ei w
+075/029	treiw	1	t r ei w
+075/031	dreiw	1	d r ei w
+075/033	dreiw	1	d r ei w
+075/035	machn	1	m a ch n
+075/037	treiw	1	t r ei w
+075/039	dreiw	1	d r ei w
+075/041	treib	1	t r ei b
+075/043	treiw	1	t r ei w
+075/045	dreiw	1	d r ei w
+075/047	dreiw	1	d r ei w
+075/049	treiw	1	t r ei w
+075/051	dreiw	1	d r ei w
+075/053	dreib	1	d r ei b
+075/055	treiw	1	t r ei w
+075/057	dreiw	1	d r ei w
+075/059	treib	1	t r ei b
+075/061	treiw	1	t r ei w
+075/063	treib	1	t r ei b
+075/065	treib	1	t r ei b
+075/067	treib	1	t r ei b
+075/069	treib	1	t r ei b
+075/071	treib	1	t r ei b
+075/073	trei	1	t r ei
+075/075	trei	1	t r ei
+075/077	trei	1	t r ei
+075/079	trei	1	t r ei
+075/081	treib	1	t r ei b
+075/083	treib	1	t r ei b
+075/085	treib	1	t r ei b
+075/087	treib	1	t r ei b
+075/089	treib	1	t r ei b
+075/091	treib	1	t r ei b
+075/093	trei	1	t r ei
+075/095	treib	1	t r ei b
+075/097	treib	1	t r ei b
+075/099	trei	1	t r ei
+075/101	NA	NA	-
+075/103	NA	NA	-
+075/105	trei	1	t r ei
+075/107	träi	1	t r äi
+075/135	traj	1	t r a j
+075/145	treib	1	t r ei b
+075/147	treib	1	t r ei b
+075/149	NA	NA	-
+075/155	mochn	1	m o ch n
+075/157	treib	1	t r ei b
+075/159	mochn	1	m o ch n
+075/161	treib	1	t r ei b
+075/163	treiw	1	t r ei w
+075/165	NA	NA	-
+076/019	dreiw	1	d r ei w
+076/021	dreiw	1	d r ei w
+076/023	mächen	1	m ä ch e n
+076/025	dreiw	1	d r ei w
+076/027	dreiw	1	d r ei w
+076/029	treiw	1	t r ei w
+076/033	treiw	1	t r ei w
+076/035	treiw	1	t r ei w
+076/037	treiw	1	t r ei w
+076/039	treiw	1	t r ei w
+076/041	treiw	1	t r ei w
+076/043	machn	1	m a ch n
+076/045	mache	1	m a ch e
+076/047	dreiw	1	d r ei w
+076/049	dreiw	1	d r ei w
+076/051	dreiw	1	d r ei w
+076/053	dreiw	1	d r ei w
+076/055	treiw	1	t r ei w
+076/057	treiw	1	t r ei w
+076/059	treiw	1	t r ei w
+076/061	mache	1	m a ch e
+076/063	traiw	1	t r ai w
+076/065	treiw	1	t r ei w
+076/067	dreib	1	d r ei b
+076/069	treiw	1	t r ei w
+076/071	treib	1	t r ei b
+076/073	trei	1	t r ei
+076/075	trei	1	t r ei
+076/077	treib	1	t r ei b
+076/079	trei	1	t r ei
+076/081	treib	1	t r ei b
+076/083	trei	1	t r ei
+076/085	treib	1	t r ei b
+076/087	treib	1	t r ei b
+076/089	treib	1	t r ei b
+076/091	dreib	1	d r ei b
+076/093	dreib	1	d r ei b
+076/095	trei	1	t r ei
+076/097	trei	1	t r ei
+076/099	drei	1	d r ei
+076/101	NA	NA	-
+076/103	treib	1	t r ei b
+076/135	trei	1	t r ei
+076/137	traj	1	t r a j
+076/149	treib	1	t r ei b
+076/151	traub	1	t r au b
+076/155	treib	1	t r ei b
+076/161	treiw	1	t r ei w
+076/163	treiw	1	t r ei w
+076/165	treiw	1	t r ei w
+077/019	NA	NA	-
+077/021	maan	1	m aa n
+077/023	dreiw	1	d r ei w
+077/025	maachen	1	m aa ch e n
+077/027	dreiw	1	d r ei w
+077/029	dreiw	1	d r ei w
+077/031	dreiv	1	d r ei v
+077/033	dreiw	1	d r ei w
+077/035	treiw	1	t r ei w
+077/037	treiw	1	t r ei w
+077/039	treiw	1	t r ei w
+077/041	treiw	1	t r ei w
+077/043	dreiw	1	d r ei w
+077/047	treiw	1	t r ei w
+077/049	dreiw	1	d r ei w
+077/051	draiw	1	d r ai w
+077/053	treiw	1	t r ei w
+077/055	treiw	1	t r ei w
+077/057	treiw	1	t r ei w
+077/059	treiw	1	t r ei w
+077/061	treiw	1	t r ei w
+077/063	NA	NA	-
+077/065	treiw	1	t r ei w
+077/067	traib	1	t r ai b
+077/069	NA	NA	-
+077/071	treiw	1	t r ei w
+077/073	treib	1	t r ei b
+077/075	treib	1	t r ei b
+077/077	treib	1	t r ei b
+077/079	treib	1	t r ei b
+077/081	treib	1	t r ei b
+077/083	treib	1	t r ei b
+077/085	treib	1	t r ei b
+077/087	trei	1	t r ei
+077/089	trei	1	t r ei
+077/091	treib	1	t r ei b
+077/093	trei	1	t r ei
+077/095	trei	1	t r ei
+077/097	trei	1	t r ei
+077/099	drä	1	d r ä
+077/101	NA	NA	-
+077/103	treib	1	t r ei b
+077/135	trei	1	t r ei
+077/137	treib	1	t r ei b
+078/021	treiw	1	t r ei w
+078/023	machen	1	m a ch e n
+078/025	dreiw	1	d r ei w
+078/027	treiw	1	t r ei w
+078/029	machen	1	m a ch e n
+078/031	treiw	1	t r ei w
+078/033	dreiw	1	d r ei w
+078/035	mache	1	m a ch e
+078/037	dreiw	1	d r ei w
+078/039	treiw	1	t r ei w
+078/041	dreiw	1	d r ei w
+078/045	treiw	1	t r ei w
+078/047	treib	1	t r ei b
+078/049	mache	1	m a ch e
+078/051	treiw	1	t r ei w
+078/053	dreiw	1	d r ei w
+078/055	dreiw	1	d r ei w
+078/057	dreiw	1	d r ei w
+078/059	treiw	1	t r ei w
+078/061	treiw	1	t r ei w
+078/063	treiw	1	t r ei w
+078/065	dreib	1	d r ei b
+078/067	traiw	1	t r ai w
+078/069	treiw	1	t r ei w
+078/071	treiw	1	t r ei w
+078/073	trei	1	t r ei
+078/075	trei	1	t r ei
+078/077	treib	1	t r ei b
+078/079	machen	1	m a ch e n
+078/081	trei	1	t r ei
+078/083	treib	1	t r ei b
+078/085	trei	1	t r ei
+078/087	tmeib	1	t m ei b
+078/089	treib	1	t r ei b
+078/091	drei	1	d r ei
+078/093	treib	1	t r ei b
+078/095	macha	1	m a ch a
+078/097	trei	1	t r ei
+078/099	träb	1	t r ä b
+078/101	trei	1	t r ei
+078/103	trä	1	t r ä
+078/105	träb	1	t r ä b
+078/135	NA	NA	-
+078/193	treib	1	t r ei b
+079/021	treif	1	t r ei f
+079/023	treiw	1	t r ei w
+079/025	treiw	1	t r ei w
+079/027	dreiw	1	d r ei w
+079/029	treiw	1	t r ei w
+079/031	treiw	1	t r ei w
+079/033	treiw	1	t r ei w
+079/035	mache	1	m a ch e
+079/037	treiw	1	t r ei w
+079/039	dreiw	1	d r ei w
+079/043	dreiw	1	d r ei w
+079/045	treiw	1	t r ei w
+079/047	treiw	1	t r ei w
+079/049	treiw	1	t r ei w
+079/051	dreiw	1	d r ei w
+079/053	treiw	1	t r ei w
+079/055	mache	1	m a ch e
+079/057	treiw	1	t r ei w
+079/059	treiw	1	t r ei w
+079/061	dreiw	1	d r ei w
+079/063	treiw	1	t r ei w
+079/065	traiw	1	t r ai w
+079/067	traiw	1	t r ai w
+079/069	draiw	1	d r ai w
+079/071	treib	1	t r ei b
+079/073	trei	1	t r ei
+079/075	treib	1	t r ei b
+079/077	treib	1	t r ei b
+079/079	trei	1	t r ei
+079/081	treib	1	t r ei b
+079/083	trei	1	t r ei
+079/085	tra	1	t r a
+079/087	trei	1	t r ei
+079/089	dreib	1	d r ei b
+079/091	trei	1	t r ei
+079/093	trei	1	t r ei
+079/095	trei	1	t r ei
+079/097	treib	1	t r ei b
+079/099	träb	1	t r ä b
+079/101	drä	1	d r ä
+079/103	drei	1	d r ei
+079/105	trei	1	t r ei
+079/107	trei	1	t r ei
+079/133	mochn	1	m o ch n
+079/135	treib	1	t r ei b
+079/193	NA	NA	-
+079/195	traib	1	t r ai b
+079/197	treib	1	t r ei b
+080/025	dreiw	1	d r ei w
+080/027	dreiw	1	d r ei w
+080/029	dreiw	1	d r ei w
+080/031	dreiw	1	d r ei w
+080/033	machn	1	m a ch n
+080/035	träiw	1	t r äi w
+080/037	treiw	1	t r ei w
+080/039	treib	1	t r ei b
+080/041	dreiw	1	d r ei w
+080/043	dreiw	1	d r ei w
+080/045	treiw	1	t r ei w
+080/047	dreiw	1	d r ei w
+080/049	treiw	1	t r ei w
+080/051	dreiw	1	d r ei w
+080/053	treiw	1	t r ei w
+080/055	treiw	1	t r ei w
+080/057	treiw	1	t r ei w
+080/059	dreiw	1	d r ei w
+080/061	treiw	1	t r ei w
+080/063	draiw	1	d r ai w
+080/065	treiw	1	t r ei w
+080/067	draiw	1	d r ai w
+080/069	macha	1	m a ch a
+080/071	treib	1	t r ei b
+080/073	treib	1	t r ei b
+080/075	trei	1	t r ei
+080/077	trei	1	t r ei
+080/079	trei	1	t r ei
+080/081	treib	1	t r ei b
+080/083	trei	1	t r ei
+080/085	trei	1	t r ei
+080/087	trei	1	t r ei
+080/089	treib	1	t r ei b
+080/091	treib	1	t r ei b
+080/093	treib	1	t r ei b
+080/095	treib	1	t r ei b
+080/097	drei	1	d r ei
+080/099	treib	1	t r ei b
+080/101	dräh	1	d r äh
+080/103	trei	1	t r ei
+080/105	tru	1	t r u
+080/107	trei	1	t r ei
+080/109	trei	1	t r ei
+080/127	treib	1	t r ei b
+080/147	mochn	1	m o ch n
+080/151	trai	1	t r ai
+080/153	mocha	1	m o ch a
+080/193	treib	1	t r ei b
+080/195	NA	NA	-
+081/025	drieb	1	d r ie b
+081/027	triw	1	t r i w
+081/029	driew	1	d r ie w
+081/031	driw	1	d r i w
+081/033	triiw	1	t r ii w
+081/035	triw	1	t r i w
+081/037	triw	1	t r i w
+081/039	treiw	1	t r ei w
+081/043	dreiw	1	d r ei w
+081/045	treiw	1	t r ei w
+081/047	dreiw	1	d r ei w
+081/049	dreib	1	d r ei b
+081/051	dräiw	1	d r äi w
+081/053	dreiw	1	d r ei w
+081/055	macha	1	m a ch a
+081/057	treiw	1	t r ei w
+081/059	treiw	1	t r ei w
+081/061	draiw	1	d r ai w
+081/063	treiw	1	t r ei w
+081/065	dreiw	1	d r ei w
+081/067	traaiw	1	t r aai w
+081/069	treiw	1	t r ei w
+081/071	macha	1	m a ch a
+081/073	treib	1	t r ei b
+081/075	treib	1	t r ei b
+081/077	treib	1	t r ei b
+081/079	trei	1	t r ei
+081/081	dreib	1	d r ei b
+081/083	treib	1	t r ei b
+081/085	trei	1	t r ei
+081/087	trei	1	t r ei
+081/089	trei	1	t r ei
+081/091	trei	1	t r ei
+081/093	treib	1	t r ei b
+081/095	dreib	1	d r ei b
+081/097	trei	1	t r ei
+081/099	trei	1	t r ei
+081/101	träi	1	t r äi
+081/103	träb	1	t r ä b
+081/105	trab	1	t r a b
+081/107	trei	1	t r ei
+081/109	trei	1	t r ei
+081/111	NA	NA	-
+081/127	trei	1	t r ei
+081/129	NA	NA	-
+081/133	trei	1	t r ei
+081/147	treib	1	t r ei b
+081/191	mochn	1	m o ch n
+081/193	NA	NA	-
+081/195	mochen	1	m o ch e n
+082/027	driiw	1	d r ii w
+082/029	driew	1	d r ie w
+082/031	driew	1	d r ie w
+082/033	triib	1	t r ii b
+082/035	triw	1	t r i w
+082/037	driew	1	d r ie w
+082/039	driw	1	d r i w
+082/041	driew	1	d r ie w
+082/043	mache	1	m a ch e
+082/045	dreiw	1	d r ei w
+082/047	treiw	1	t r ei w
+082/049	treiw	1	t r ei w
+082/051	dreiw	1	d r ei w
+082/053	treiw	1	t r ei w
+082/055	treiw	1	t r ei w
+082/057	dreiw	1	d r ei w
+082/059	treiw	1	t r ei w
+082/061	treib	1	t r ei b
+082/063	treiw	1	t r ei w
+082/065	traiw	1	t r ai w
+082/067	treiw	1	t r ei w
+082/069	treib	1	t r ei b
+082/071	treib	1	t r ei b
+082/073	treib	1	t r ei b
+082/075	treib	1	t r ei b
+082/077	treib	1	t r ei b
+082/079	trei	1	t r ei
+082/081	trei	1	t r ei
+082/083	treib	1	t r ei b
+082/085	trei	1	t r ei
+082/087	trei	1	t r ei
+082/089	trei	1	t r ei
+082/091	trei	1	t r ei
+082/093	treib	1	t r ei b
+082/095	trei	1	t r ei
+082/097	treib	1	t r ei b
+082/099	treib	1	t r ei b
+082/101	trei	1	t r ei
+082/103	trä	1	t r ä
+082/105	trää	1	t r ää
+082/107	trei	1	t r ei
+082/111	NA	NA	-
+082/113	treib	1	t r ei b
+082/117	trei	1	t r ei
+082/129	mocha	1	m o ch a
+082/131	trei	1	t r ei
+082/133	NA	NA	-
+082/135	treib	1	t r ei b
+082/145	trai	1	t r ai
+082/147	treib	1	t r ei b
+082/191	traib	1	t r ai b
+082/195	treib	1	t r ei b
+083/027	driw	1	d r i w
+083/029	driew	1	d r ie w
+083/031	machn	1	m a ch n
+083/033	driw	1	d r i w
+083/035	triew	1	t r ie w
+083/037	driew	1	d r ie w
+083/039	driew	1	d r ie w
+083/041	triw	1	t r i w
+083/043	dreiw	1	d r ei w
+083/045	treiw	1	t r ei w
+083/047	trieb	1	t r ie b
+083/049	macha	1	m a ch a
+083/051	treib	1	t r ei b
+083/053	dreiw	1	d r ei w
+083/055	treiw	1	t r ei w
+083/057	treib	1	t r ei b
+083/059	dreib	1	d r ei b
+083/061	dreiw	1	d r ei w
+083/063	treib	1	t r ei b
+083/065	dreib	1	d r ei b
+083/067	dreib	1	d r ei b
+083/069	treib	1	t r ei b
+083/071	treib	1	t r ei b
+083/073	treib	1	t r ei b
+083/075	treib	1	t r ei b
+083/077	treib	1	t r ei b
+083/079	trei	1	t r ei
+083/081	treib	1	t r ei b
+083/083	trei	1	t r ei
+083/085	trei	1	t r ei
+083/087	trai	1	t r ai
+083/089	treib	1	t r ei b
+083/091	treib	1	t r ei b
+083/093	treib	1	t r ei b
+083/095	treib	1	t r ei b
+083/097	drei	1	d r ei
+083/099	drei	1	d r ei
+083/101	treib	1	t r ei b
+083/103	trä	1	t r ä
+083/105	trei	1	t r ei
+083/107	trei	1	t r ei
+083/111	trei	1	t r ei
+083/113	trei	1	t r ei
+083/115	trei	1	t r ei
+083/117	NA	NA	-
+083/119	trei	1	t r ei
+083/121	treib	1	t r ei b
+083/129	treib	1	t r ei b
+083/131	trei	1	t r ei
+083/133	treib	1	t r ei b
+083/135	mocha	1	m o ch a
+083/139	treib	1	t r ei b
+083/143	trei	1	t r ei
+083/145	mocha	1	m o ch a
+083/147	mochn	1	m o ch n
+083/149	mochn	1	m o ch n
+083/173	trae	1	t r ae
+083/195	treib	1	t r ei b
+084/031	triw	1	t r i w
+084/033	triw	1	t r i w
+084/035	driw	1	d r i w
+084/037	driw	1	d r i w
+084/039	driiw	1	d r ii w
+084/041	triw	1	t r i w
+084/043	triew	1	t r ie w
+084/045	driw	1	d r i w
+084/047	triew	1	t r ie w
+084/049	dreiw	1	d r ei w
+084/051	treb	1	t r e b
+084/053	dreiw	1	d r ei w
+084/055	treib	1	t r ei b
+084/057	dreib	1	d r ei b
+084/059	treib	1	t r ei b
+084/061	treib	1	t r ei b
+084/063	treib	1	t r ei b
+084/065	dreib	1	d r ei b
+084/067	treib	1	t r ei b
+084/069	treib	1	t r ei b
+084/071	treib	1	t r ei b
+084/073	treib	1	t r ei b
+084/075	treib	1	t r ei b
+084/077	treub	1	t r eu b
+084/079	treib	1	t r ei b
+084/081	NA	NA	-
+084/083	trei	1	t r ei
+084/085	trei	1	t r ei
+084/087	trei	1	t r ei
+084/089	treib	1	t r ei b
+084/091	trei	1	t r ei
+084/093	trei	1	t r ei
+084/095	trei	1	t r ei
+084/097	drei	1	d r ei
+084/099	trei	1	t r ei
+084/101	trä	1	t r ä
+084/103	trä	1	t r ä
+084/105	NA	NA	-
+084/107	treib	1	t r ei b
+084/109	trei	1	t r ei
+084/111	trei	1	t r ei
+084/113	trei	1	t r ei
+084/115	treib	1	t r ei b
+084/117	treib	1	t r ei b
+084/119	mochn	1	m o ch n
+084/129	treib	1	t r ei b
+084/131	drei	1	d r ei
+084/133	drei	1	d r ei
+084/135	treib	1	t r ei b
+084/137	treib	1	t r ei b
+084/139	treib	1	t r ei b
+084/141	treib	1	t r ei b
+084/143	treib	1	t r ei b
+084/145	NA	NA	-
+084/147	trei	1	t r ei
+084/149	trei	1	t r ei
+084/171	trai	1	t r ai
+084/173	NA	NA	-
+084/195	treib	1	t r ei b
+085/031	driww	1	d r i ww
+085/033	triw	1	t r i w
+085/035	driw	1	d r i w
+085/037	triw	1	t r i w
+085/039	driw	1	d r i w
+085/041	triew	1	t r ie w
+085/043	mache	1	m a ch e
+085/045	driiw	1	d r ii w
+085/047	treiw	1	t r ei w
+085/049	driew	1	d r ie w
+085/051	dreiw	1	d r ei w
+085/053	treib	1	t r ei b
+085/055	treiw	1	t r ei w
+085/057	treib	1	t r ei b
+085/059	treib	1	t r ei b
+085/061	dreib	1	d r ei b
+085/063	macha	1	m a ch a
+085/065	treib	1	t r ei b
+085/067	treib	1	t r ei b
+085/069	treib	1	t r ei b
+085/071	macha	1	m a ch a
+085/073	treib	1	t r ei b
+085/075	treib	1	t r ei b
+085/077	treib	1	t r ei b
+085/079	treib	1	t r ei b
+085/081	treib	1	t r ei b
+085/083	trei	1	t r ei
+085/085	treib	1	t r ei b
+085/087	trei	1	t r ei
+085/089	trei	1	t r ei
+085/091	trei	1	t r ei
+085/093	moacha	1	m oa ch a
+085/095	treib	1	t r ei b
+085/097	dreib	1	d r ei b
+085/101	treib	1	t r ei b
+085/103	moche	1	m o ch e
+085/105	mocha	1	m o ch a
+085/107	trei	1	t r ei
+085/109	trei	1	t r ei
+085/111	trei	1	t r ei
+085/113	trei	1	t r ei
+085/115	mocha	1	m o ch a
+085/117	trei	1	t r ei
+085/119	trei	1	t r ei
+085/121	NA	NA	-
+085/123	träb	1	t r ä b
+085/125	treib	1	t r ei b
+085/127	treib	1	t r ei b
+085/129	treib	1	t r ei b
+085/131	mocha	1	m o ch a
+085/133	treib	1	t r ei b
+085/135	dreib	1	d r ei b
+085/137	trerb	1	t r e r b
+085/139	treib	1	t r ei b
+085/141	trei	1	t r ei
+085/143	trei	1	t r ei
+085/145	mocha	1	m o ch a
+085/147	treib	1	t r ei b
+085/149	treib	1	t r ei b
+085/175	mochng	1	m o ch ng
+085/193	traeb	1	t r ae b
+085/197	traeb	1	t r ae b
+086/033	triew	1	t r ie w
+086/035	driew	1	d r ie w
+086/037	triw	1	t r i w
+086/039	driw	1	d r i w
+086/041	triv	1	t r i v
+086/043	triw	1	t r i w
+086/045	triib	1	t r ii b
+086/047	triw	1	t r i w
+086/049	triw	1	t r i w
+086/051	macha	1	m a ch a
+086/053	treiw	1	t r ei w
+086/055	dreib	1	d r ei b
+086/057	treib	1	t r ei b
+086/059	treib	1	t r ei b
+086/061	treib	1	t r ei b
+086/063	treib	1	t r ei b
+086/065	treib	1	t r ei b
+086/067	treib	1	t r ei b
+086/069	treib	1	t r ei b
+086/071	treib	1	t r ei b
+086/073	treib	1	t r ei b
+086/075	treib	1	t r ei b
+086/077	macha	1	m a ch a
+086/079	treib	1	t r ei b
+086/081	dreih	1	d r eih
+086/083	treib	1	t r ei b
+086/085	treib	1	t r ei b
+086/087	drei	1	d r ei
+086/089	trei	1	t r ei
+086/091	trei	1	t r ei
+086/093	treib	1	t r ei b
+086/095	drei	1	d r ei
+086/097	macha	1	m a ch a
+086/099	mocha	1	m o ch a
+086/101	trei	1	t r ei
+086/103	trei	1	t r ei
+086/105	trei	1	t r ei
+086/107	treib	1	t r ei b
+086/109	drei	1	d r ei
+086/111	trei	1	t r ei
+086/113	treib	1	t r ei b
+086/115	treib	1	t r ei b
+086/117	NA	NA	-
+086/119	trei	1	t r ei
+086/121	mocha	1	m o ch a
+086/123	trei	1	t r ei
+086/125	trei	1	t r ei
+086/127	mocha	1	m o ch a
+086/129	treib	1	t r ei b
+086/131	drei	1	d r ei
+086/133	treib	1	t r ei b
+086/135	trei	1	t r ei
+086/137	treib	1	t r ei b
+086/139	trei	1	t r ei
+086/141	mocha	1	m o ch a
+086/143	NA	NA	-
+086/145	treib	1	t r ei b
+086/147	trei	1	t r ei
+086/149	treib	1	t r ei b
+086/151	treib	1	t r ei b
+086/175	trae	1	t r ae
+086/197	trei	1	t r ei
+086/199	trei	1	t r ei
+087/033	drieb	1	d r ie b
+087/035	triew	1	t r ie w
+087/037	mache	1	m a ch e
+087/039	triw	1	t r i w
+087/041	triew	1	t r ie w
+087/043	driw	1	d r i w
+087/045	trib	1	t r i b
+087/049	treiw	1	t r ei w
+087/051	treiw	1	t r ei w
+087/053	dreib	1	d r ei b
+087/055	treib	1	t r ei b
+087/057	dreib	1	d r ei b
+087/059	treib	1	t r ei b
+087/061	NA	NA	-
+087/063	treib	1	t r ei b
+087/065	treib	1	t r ei b
+087/067	treib	1	t r ei b
+087/069	dreib	1	d r ei b
+087/071	dreib	1	d r ei b
+087/073	macha	1	m a ch a
+087/075	treib	1	t r ei b
+087/077	dreib	1	d r ei b
+087/079	treib	1	t r ei b
+087/081	trei	1	t r ei
+087/083	treib	1	t r ei b
+087/085	treib	1	t r ei b
+087/087	drei	1	d r ei
+087/089	drei	1	d r ei
+087/091	trei	1	t r ei
+087/093	trei	1	t r ei
+087/095	drei	1	d r ei
+087/097	trei	1	t r ei
+087/099	trei	1	t r ei
+087/101	dreib	1	d r ei b
+087/103	seia	1	s eia
+087/105	drei	1	d r ei
+087/107	treib	1	t r ei b
+087/109	mocha	1	m o ch a
+087/111	treib	1	t r ei b
+087/113	treib	1	t r ei b
+087/115	trei	1	t r ei
+087/117	träi	1	t r äi
+087/119	trei	1	t r ei
+087/121	trei	1	t r ei
+087/123	treib	1	t r ei b
+087/125	NA	NA	-
+087/127	mocha	1	m o ch a
+087/129	treib	1	t r ei b
+087/133	treii	1	t r eii
+087/135	treib	1	t r ei b
+087/137	treib	1	t r ei b
+087/139	trei	1	t r ei
+087/141	mocha	1	m o ch a
+087/143	trei	1	t r ei
+087/145	NA	NA	-
+087/147	treib	1	t r ei b
+087/149	trei	1	t r ei
+087/151	treib	1	t r ei b
+088/035	driw	1	d r i w
+088/037	triew	1	t r ie w
+088/039	triw	1	t r i w
+088/041	driw	1	d r i w
+088/043	driw	1	d r i w
+088/045	driew	1	d r ie w
+088/047	treib	1	t r ei b
+088/049	dreib	1	d r ei b
+088/051	treib	1	t r ei b
+088/053	treib	1	t r ei b
+088/055	dreib	1	d r ei b
+088/057	treib	1	t r ei b
+088/059	treib	1	t r ei b
+088/061	dreib	1	d r ei b
+088/063	treib	1	t r ei b
+088/065	treib	1	t r ei b
+088/067	treib	1	t r ei b
+088/069	dreib	1	d r ei b
+088/071	dreib	1	d r ei b
+088/073	treub	1	t r eu b
+088/075	treub	1	t r eu b
+088/077	treib	1	t r ei b
+088/079	treib	1	t r ei b
+088/081	trei	1	t r ei
+088/083	trei	1	t r ei
+088/085	treib	1	t r ei b
+088/087	drei	1	d r ei
+088/089	treib	1	t r ei b
+088/091	trei	1	t r ei
+088/093	trei	1	t r ei
+088/095	trei	1	t r ei
+088/097	treib	1	t r ei b
+088/099	trei	1	t r ei
+088/101	trei	1	t r ei
+088/103	trei	1	t r ei
+088/105	trei	1	t r ei
+088/107	treib	1	t r ei b
+088/109	trei	1	t r ei
+088/113	trei	1	t r ei
+088/115	trei	1	t r ei
+088/117	NA	NA	-
+088/121	trei	1	t r ei
+088/123	treib	1	t r ei b
+088/127	trei	1	t r ei
+088/129	treib	1	t r ei b
+088/131	treib	1	t r ei b
+088/137	mocha	1	m o ch a
+088/139	treib	1	t r ei b
+088/141	drei	1	d r ei
+088/143	mocha	1	m o ch a
+088/145	drei	1	d r ei
+088/147	trei	1	t r ei
+088/149	treib	1	t r ei b
+089/035	treiv	1	t r ei v
+089/037	drih	1	d r ih
+089/039	driw	1	d r i w
+089/041	driw	1	d r i w
+089/043	triw	1	t r i w
+089/045	trib	1	t r i b
+089/047	treib	1	t r ei b
+089/049	dreib	1	d r ei b
+089/051	dreib	1	d r ei b
+089/053	treib	1	t r ei b
+089/055	treib	1	t r ei b
+089/057	treib	1	t r ei b
+089/059	dreib	1	d r ei b
+089/061	treib	1	t r ei b
+089/063	treib	1	t r ei b
+089/065	treib	1	t r ei b
+089/067	treib	1	t r ei b
+089/069	dreib	1	d r ei b
+089/071	NA	NA	-
+089/073	treub	1	t r eu b
+089/075	treib	1	t r ei b
+089/077	dreib	1	d r ei b
+089/079	treib	1	t r ei b
+089/081	treib	1	t r ei b
+089/083	trei	1	t r ei
+089/085	dreiw	1	d r ei w
+089/087	treib	1	t r ei b
+089/089	trei	1	t r ei
+089/091	drei	1	d r ei
+089/093	NA	NA	-
+089/095	drei	1	d r ei
+089/097	trei	1	t r ei
+089/099	trei	1	t r ei
+089/101	trei	1	t r ei
+089/103	treib	1	t r ei b
+089/105	drei	1	d r ei
+089/107	mocha	1	m o ch a
+089/109	treib	1	t r ei b
+089/111	NA	NA	-
+089/113	treib	1	t r ei b
+089/115	trei	1	t r ei
+089/117	mocha	1	m o ch a
+089/119	NA	NA	-
+089/121	drei	1	d r ei
+089/123	NA	NA	-
+089/125	trei	1	t r ei
+089/127	trei	1	t r ei
+089/129	NA	NA	-
+089/131	treib	1	t r ei b
+089/133	trei	1	t r ei
+089/135	drei	1	d r ei
+089/137	treib	1	t r ei b
+089/139	mocha	1	m o ch a
+089/141	trei	1	t r ei
+089/143	trei	1	t r ei
+089/145	NA	NA	-
+089/147	mochn	1	m o ch n
+089/149	trei	1	t r ei
+090/035	macha	1	m a ch a
+090/037	driw	1	d r i w
+090/039	triiw	1	t r ii w
+090/041	macha	1	m a ch a
+090/043	triew	1	t r ie w
+090/045	triib	1	t r ii b
+090/047	triew	1	t r ie w
+090/049	treib	1	t r ei b
+090/051	dreib	1	d r ei b
+090/053	dreib	1	d r ei b
+090/055	dreib	1	d r ei b
+090/057	treib	1	t r ei b
+090/059	treib	1	t r ei b
+090/061	treib	1	t r ei b
+090/063	dreib	1	d r ei b
+090/065	treib	1	t r ei b
+090/067	treib	1	t r ei b
+090/069	treib	1	t r ei b
+090/071	treib	1	t r ei b
+090/073	dreub	1	d r eu b
+090/075	treib	1	t r ei b
+090/077	treib	1	t r ei b
+090/079	treib	1	t r ei b
+090/081	treib	1	t r ei b
+090/083	treib	1	t r ei b
+090/085	NA	NA	-
+090/087	treib	1	t r ei b
+090/089	macha	1	m a ch a
+090/091	drei	1	d r ei
+090/093	trei	1	t r ei
+090/095	NA	NA	-
+090/097	trei	1	t r ei
+090/099	treib	1	t r ei b
+090/101	treib	1	t r ei b
+090/103	trei	1	t r ei
+090/105	trei	1	t r ei
+090/107	NA	NA	-
+090/109	treib	1	t r ei b
+090/111	treib	1	t r ei b
+090/113	treib	1	t r ei b
+090/115	trei	1	t r ei
+090/119	mocha	1	m o ch a
+090/121	trei	1	t r ei
+090/123	trei	1	t r ei
+090/125	macha	1	m a ch a
+090/127	treib	1	t r ei b
+090/129	mocha	1	m o ch a
+090/131	treib	1	t r ei b
+090/133	draib	1	d r ai b
+090/135	trei	1	t r ei
+090/137	NA	NA	-
+090/139	treib	1	t r ei b
+090/141	trei	1	t r ei
+090/143	NA	NA	-
+090/145	dreib	1	d r ei b
+090/147	NA	NA	-
+090/149	trei	1	t r ei
+090/151	mocha	1	m o ch a
+091/035	driw	1	d r i w
+091/037	triw	1	t r i w
+091/039	drihw	1	d r ih w
+091/041	triw	1	t r i w
+091/043	driw	1	d r i w
+091/045	triew	1	t r ie w
+091/047	trieb	1	t r ie b
+091/049	treiw	1	t r ei w
+091/051	dreib	1	d r ei b
+091/053	dreib	1	d r ei b
+091/055	treib	1	t r ei b
+091/057	treib	1	t r ei b
+091/059	treib	1	t r ei b
+091/061	treib	1	t r ei b
+091/063	treib	1	t r ei b
+091/065	treib	1	t r ei b
+091/067	treib	1	t r ei b
+091/069	treib	1	t r ei b
+091/071	treub	1	t r eu b
+091/073	dreib	1	d r ei b
+091/075	dreib	1	d r ei b
+091/077	dreib	1	d r ei b
+091/079	hau	1	h au
+091/081	trei	1	t r ei
+091/083	treib	1	t r ei b
+091/085	treib	1	t r ei b
+091/087	trei	1	t r ei
+091/091	trei	1	t r ei
+091/093	trei	1	t r ei
+091/095	treib	1	t r ei b
+091/097	drei	1	d r ei
+091/099	NA	NA	-
+091/101	trei	1	t r ei
+091/103	drei	1	d r ei
+091/105	mache	1	m a ch e
+091/107	NA	NA	-
+091/109	macha	1	m a ch a
+091/111	treib	1	t r ei b
+091/113	NA	NA	-
+091/115	macha	1	m a ch a
+091/117	macha	1	m a ch a
+091/119	treib	1	t r ei b
+091/121	treib	1	t r ei b
+091/125	treib	1	t r ei b
+091/129	trei	1	t r ei
+091/131	treib	1	t r ei b
+091/133	trei	1	t r ei
+091/135	trei	1	t r ei
+091/137	dreib	1	d r ei b
+091/139	NA	NA	-
+091/141	macha	1	m a ch a
+091/143	treib	1	t r ei b
+091/145	mocha	1	m o ch a
+091/147	drei	1	d r ei
+091/149	mocha	1	m o ch a
+091/151	mochn	1	m o ch n
+091/155	trai	1	t r ai
+092/033	trihw	1	t r ih w
+092/035	macha	1	m a ch a
+092/037	triw	1	t r i w
+092/039	triew	1	t r ie w
+092/041	triw	1	t r i w
+092/043	triib	1	t r ii b
+092/045	machn	1	m a ch n
+092/047	drieb	1	d r ie b
+092/049	triw	1	t r i w
+092/051	treib	1	t r ei b
+092/053	treib	1	t r ei b
+092/055	dreib	1	d r ei b
+092/057	treib	1	t r ei b
+092/059	mai	1	m ai
+092/061	treib	1	t r ei b
+092/063	treib	1	t r ei b
+092/065	NA	NA	-
+092/067	treib	1	t r ei b
+092/069	dreib	1	d r ei b
+092/071	treib	1	t r ei b
+092/073	dreib	1	d r ei b
+092/075	treib	1	t r ei b
+092/077	NA	NA	-
+092/079	treib	1	t r ei b
+092/081	treib	1	t r ei b
+092/083	trei	1	t r ei
+092/085	dreib	1	d r ei b
+092/087	treib	1	t r ei b
+092/089	drei	1	d r ei
+092/091	drei	1	d r ei
+092/093	treib	1	t r ei b
+092/095	trei	1	t r ei
+092/097	trei	1	t r ei
+092/099	trei	1	t r ei
+092/101	dreib	1	d r ei b
+092/103	trei	1	t r ei
+092/105	NA	NA	-
+092/107	macha	1	m a ch a
+092/109	trei	1	t r ei
+092/111	treib	1	t r ei b
+092/113	treib	1	t r ei b
+092/115	treib	1	t r ei b
+092/117	NA	NA	-
+092/119	NA	NA	-
+092/121	macha	1	m a ch a
+092/123	macha	1	m a ch a
+092/125	trei	1	t r ei
+092/127	treib	1	t r ei b
+092/129	trei	1	t r ei
+092/131	trei	1	t r ei
+092/133	trei	1	t r ei
+092/135	trei	1	t r ei
+092/137	NA	NA	-
+092/139	NA	NA	-
+092/141	trei	1	t r ei
+092/143	treib	1	t r ei b
+092/145	machn	1	m a ch n
+092/147	trei	1	t r ei
+092/149	treib	1	t r ei b
+092/151	treib	1	t r ei b
+093/035	trib	1	t r i b
+093/037	triiw	1	t r ii w
+093/039	macha	1	m a ch a
+093/041	trib	1	t r i b
+093/043	drieb	1	d r ie b
+093/045	trieb	1	t r ie b
+093/047	triew	1	t r ie w
+093/049	trieb	1	t r ie b
+093/051	trieb	1	t r ie b
+093/053	trieb	1	t r ie b
+093/055	dreib	1	d r ei b
+093/057	NA	NA	-
+093/059	treib	1	t r ei b
+093/061	treib	1	t r ei b
+093/063	treib	1	t r ei b
+093/065	treib	1	t r ei b
+093/067	macha	1	m a ch a
+093/069	dreib	1	d r ei b
+093/071	treib	1	t r ei b
+093/073	treib	1	t r ei b
+093/075	dreib	1	d r ei b
+093/077	NA	NA	-
+093/079	treiw	1	t r ei w
+093/081	dreiw	1	d r ei w
+093/083	treib	1	t r ei b
+093/085	trei	1	t r ei
+093/087	macha	1	m a ch a
+093/089	treib	1	t r ei b
+093/091	dreib	1	d r ei b
+093/093	trei	1	t r ei
+093/095	trei	1	t r ei
+093/097	treib	1	t r ei b
+093/099	treib	1	t r ei b
+093/101	treib	1	t r ei b
+093/103	trei	1	t r ei
+093/105	trei	1	t r ei
+093/109	trei	1	t r ei
+093/111	NA	NA	-
+093/113	mocha	1	m o ch a
+093/115	treib	1	t r ei b
+093/117	mocha	1	m o ch a
+093/119	mocha	1	m o ch a
+093/121	treib	1	t r ei b
+093/123	treib	1	t r ei b
+093/125	trei	1	t r ei
+093/127	drai	1	d r ai
+093/129	treib	1	t r ei b
+093/131	trei	1	t r ei
+093/133	moche	1	m o ch e
+093/137	trei	1	t r ei
+093/139	treib	1	t r ei b
+093/143	drai	1	d r ai
+093/145	trei	1	t r ei
+093/147	moge	1	m o g e
+093/149	treib	1	t r ei b
+093/151	trei	1	t r ei
+093/153	mochn	1	m o ch n
+093/155	trei	1	t r ei
+094/033	mache	1	m a ch e
+094/035	triiw	1	t r ii w
+094/037	triew	1	t r ie w
+094/039	triw	1	t r i w
+094/041	triib	1	t r ii b
+094/043	driiw	1	d r ii w
+094/045	triew	1	t r ie w
+094/047	drieb	1	d r ie b
+094/049	triw	1	t r i w
+094/051	mache	1	m a ch e
+094/053	treib	1	t r ei b
+094/055	treib	1	t r ei b
+094/057	treib	1	t r ei b
+094/059	dreib	1	d r ei b
+094/061	treib	1	t r ei b
+094/063	treib	1	t r ei b
+094/065	treib	1	t r ei b
+094/067	treib	1	t r ei b
+094/069	dreib	1	d r ei b
+094/071	treib	1	t r ei b
+094/073	treib	1	t r ei b
+094/075	treib	1	t r ei b
+094/077	dreib	1	d r ei b
+094/079	treib	1	t r ei b
+094/081	trei	1	t r ei
+094/083	trei	1	t r ei
+094/085	trei	1	t r ei
+094/087	trei	1	t r ei
+094/089	NA	NA	-
+094/091	drei	1	d r ei
+094/093	trei	1	t r ei
+094/095	drei	1	d r ei
+094/097	trei	1	t r ei
+094/099	drei	1	d r ei
+094/101	drei	1	d r ei
+094/103	NA	NA	-
+094/105	trei	1	t r ei
+094/107	treib	1	t r ei b
+094/109	macha	1	m a ch a
+094/111	treib	1	t r ei b
+094/113	NA	NA	-
+094/115	treib	1	t r ei b
+094/117	anstöln	1	a n s t ö l n
+094/119	treib	1	t r ei b
+094/121	macha	1	m a ch a
+094/123	NA	NA	-
+094/125	treib	1	t r ei b
+094/127	treib	1	t r ei b
+094/129	mocha	1	m o ch a
+094/131	NA	NA	-
+094/133	mochn	1	m o ch n
+094/135	treib	1	t r ei b
+094/137	treib	1	t r ei b
+094/139	trei	1	t r ei
+094/141	mocha	1	m o ch a
+094/143	treib	1	t r ei b
+094/145	NA	NA	-
+094/147	NA	NA	-
+094/149	treib	1	t r ei b
+094/151	trei	1	t r ei
+094/153	NA	NA	-
+095/031	trib	1	t r i b
+095/033	trib	1	t r i b
+095/035	triw	1	t r i w
+095/037	triw	1	t r i w
+095/039	driw	1	d r i w
+095/041	triib	1	t r ii b
+095/043	macha	1	m a ch a
+095/045	trieb	1	t r ie b
+095/047	driw	1	d r i w
+095/049	drib	1	d r i b
+095/051	drieb	1	d r ie b
+095/053	trieb	1	t r ie b
+095/055	treib	1	t r ei b
+095/057	dreib	1	d r ei b
+095/059	NA	NA	-
+095/061	NA	NA	-
+095/063	treib	1	t r ei b
+095/065	treib	1	t r ei b
+095/067	treib	1	t r ei b
+095/069	treib	1	t r ei b
+095/071	macha	1	m a ch a
+095/073	dreib	1	d r ei b
+095/075	dreub	1	d r eu b
+095/077	macha	1	m a ch a
+095/079	treiw	1	t r ei w
+095/081	treib	1	t r ei b
+095/083	trei	1	t r ei
+095/085	trei	1	t r ei
+095/087	tri	1	t r i
+095/089	drei	1	d r ei
+095/091	NA	NA	-
+095/093	treib	1	t r ei b
+095/095	trei	1	t r ei
+095/097	trei	1	t r ei
+095/099	drei	1	d r ei
+095/101	dreib	1	d r ei b
+095/103	treib	1	t r ei b
+095/105	machn	1	m a ch n
+095/107	NA	NA	-
+095/109	trei	1	t r ei
+095/111	trei	1	t r ei
+095/113	macha	1	m a ch a
+095/115	trei	1	t r ei
+095/117	macha	1	m a ch a
+095/119	machn	1	m a ch n
+095/121	treib	1	t r ei b
+095/123	trei	1	t r ei
+095/125	draü	1	d r aü
+095/129	treib	1	t r ei b
+095/131	trei	1	t r ei
+095/133	NA	NA	-
+095/139	trei	1	t r ei
+095/141	NA	NA	-
+095/143	mochn	1	m o ch n
+095/145	trei	1	t r ei
+095/147	macha	1	m a ch a
+095/149	trei	1	t r ei
+095/151	treib	1	t r ei b
+095/153	treib	1	t r ei b
+095/155	treib	1	t r ei b
+096/031	driew	1	d r ie w
+096/033	triew	1	t r ie w
+096/035	triw	1	t r i w
+096/037	triv	1	t r i v
+096/039	triw	1	t r i w
+096/041	triib	1	t r ii b
+096/043	NA	NA	-
+096/045	driib	1	d r ii b
+096/047	trieb	1	t r ie b
+096/049	trib	1	t r i b
+096/051	trieb	1	t r ie b
+096/053	trieb	1	t r ie b
+096/055	trieb	1	t r ie b
+096/057	trieb	1	t r ie b
+096/059	treib	1	t r ei b
+096/061	drib	1	d r i b
+096/063	trieb	1	t r ie b
+096/065	NA	NA	-
+096/067	treib	1	t r ei b
+096/069	treib	1	t r ei b
+096/071	treib	1	t r ei b
+096/075	treib	1	t r ei b
+096/077	dreib	1	d r ei b
+096/079	traib	1	t r ai b
+096/081	dreib	1	d r ei b
+096/083	trei	1	t r ei
+096/085	drei	1	d r ei
+096/087	trei	1	t r ei
+096/089	treib	1	t r ei b
+096/091	drei	1	d r ei
+096/093	macha	1	m a ch a
+096/095	trei	1	t r ei
+096/097	macha	1	m a ch a
+096/099	trei	1	t r ei
+096/101	treib	1	t r ei b
+096/103	treib	1	t r ei b
+096/105	NA	NA	-
+096/107	treib	1	t r ei b
+096/109	treib	1	t r ei b
+096/111	maacha	1	m aa ch a
+096/113	moacha	1	m oa ch a
+096/115	mocha	1	m o ch a
+096/117	NA	NA	-
+096/119	traib	1	t r ai b
+096/121	treib	1	t r ei b
+096/123	drai	1	d r ai
+096/125	drei	1	d r ei
+096/129	trei	1	t r ei
+096/131	trei	1	t r ei
+096/135	NA	NA	-
+096/137	NA	NA	-
+096/139	trai	1	t r ai
+096/141	trei	1	t r ei
+096/143	NA	NA	-
+096/145	trei	1	t r ei
+096/147	trei	1	t r ei
+096/151	teib	1	t ei b
+096/153	trei	1	t r ei
+096/155	trei	1	t r ei
+097/031	triiw	1	t r ii w
+097/033	triw	1	t r i w
+097/035	triw	1	t r i w
+097/037	triiw	1	t r ii w
+097/039	drieb	1	d r ie b
+097/041	machn	1	m a ch n
+097/043	driib	1	d r ii b
+097/045	trib	1	t r i b
+097/047	trib	1	t r i b
+097/049	driib	1	d r ii b
+097/051	triib	1	t r ii b
+097/053	trieb	1	t r ie b
+097/055	macha	1	m a ch a
+097/057	trib	1	t r i b
+097/059	driib	1	d r ii b
+097/061	triib	1	t r ii b
+097/063	drib	1	d r i b
+097/065	trib	1	t r i b
+097/067	treib	1	t r ei b
+097/069	treib	1	t r ei b
+097/071	treib	1	t r ei b
+097/073	NA	NA	-
+097/075	treib	1	t r ei b
+097/077	macha	1	m a ch a
+097/079	treib	1	t r ei b
+097/081	treib	1	t r ei b
+097/083	trei	1	t r ei
+097/085	drei	1	d r ei
+097/087	trei	1	t r ei
+097/089	macha	1	m a ch a
+097/091	trei	1	t r ei
+097/093	macha	1	m a ch a
+097/095	trei	1	t r ei
+097/097	macha	1	m a ch a
+097/099	macha	1	m a ch a
+097/103	treib	1	t r ei b
+097/105	trei	1	t r ei
+097/107	toa	1	t oa
+097/109	macha	1	m a ch a
+097/113	NA	NA	-
+097/125	sein	1	s ei n
+097/131	treib	1	t r ei b
+097/133	trei	1	t r ei
+097/139	treib	1	t r ei b
+097/141	trei	1	t r ei
+097/143	treib	1	t r ei b
+097/145	trei	1	t r ei
+097/149	treib	1	t r ei b
+097/153	treib	1	t r ei b
+098/033	triw	1	t r i w
+098/035	driw	1	d r i w
+098/037	triw	1	t r i w
+098/039	trieb	1	t r ie b
+098/041	trib	1	t r i b
+098/043	trib	1	t r i b
+098/045	drib	1	d r i b
+098/047	trib	1	t r i b
+098/049	trib	1	t r i b
+098/051	trib	1	t r i b
+098/053	drieb	1	d r ie b
+098/055	trib	1	t r i b
+098/057	drib	1	d r i b
+098/059	triib	1	t r ii b
+098/061	macha	1	m a ch a
+098/063	trib	1	t r i b
+098/065	NA	NA	-
+098/067	trib	1	t r i b
+098/069	NA	NA	-
+098/071	triib	1	t r ii b
+098/073	mache	1	m a ch e
+098/075	treib	1	t r ei b
+098/077	dreib	1	d r ei b
+098/079	treib	1	t r ei b
+098/081	trei	1	t r ei
+098/083	trei	1	t r ei
+098/085	NA	NA	-
+098/087	macha	1	m a ch a
+098/089	dreib	1	d r ei b
+098/091	trei	1	t r ei
+098/093	drei	1	d r ei
+098/095	treib	1	t r ei b
+098/097	macha	1	m a ch a
+098/103	treib	1	t r ei b
+098/105	trei	1	t r ei
+098/107	treib	1	t r ei b
+098/109	macha	1	m a ch a
+098/111	mocha	1	m o ch a
+098/119	NA	NA	-
+098/123	trei	1	t r ei
+098/125	NA	NA	-
+098/127	NA	NA	-
+098/135	NA	NA	-
+098/137	machn	1	m a ch n
+098/139	treib	1	t r ei b
+098/141	trei	1	t r ei
+098/143	treib	1	t r ei b
+098/145	treib	1	t r ei b
+098/147	mochn	1	m o ch n
+098/149	trei	1	t r ei
+098/151	trei	1	t r ei
+099/033	triw	1	t r i w
+099/035	trieb	1	t r ie b
+099/037	drieb	1	d r ie b
+099/039	triib	1	t r ii b
+099/041	trieb	1	t r ie b
+099/043	driib	1	d r ii b
+099/045	trieb	1	t r ie b
+099/047	macha	1	m a ch a
+099/049	drib	1	d r i b
+099/051	triib	1	t r ii b
+099/053	NA	NA	-
+099/055	teib	1	t ei b
+099/057	trieb	1	t r ie b
+099/059	trieb	1	t r ie b
+099/063	trib	1	t r i b
+099/065	triib	1	t r ii b
+099/067	trib	1	t r i b
+099/069	trieb	1	t r ie b
+099/071	treib	1	t r ei b
+099/073	NA	NA	-
+099/075	treib	1	t r ei b
+099/077	NA	NA	-
+099/081	NA	NA	-
+099/083	trei	1	t r ei
+099/085	treib	1	t r ei b
+099/089	drei	1	d r ei
+099/093	trei	1	t r ei
+099/095	machn	1	m a ch n
+099/099	treib	1	t r ei b
+099/101	treib	1	t r ei b
+099/103	NA	NA	-
+099/105	trei	1	t r ei
+099/107	machn	1	m a ch n
+099/109	NA	NA	-
+099/111	macha	1	m a ch a
+099/113	trei	1	t r ei
+099/121	trei	1	t r ei
+099/123	trei	1	t r ei
+099/125	trei	1	t r ei
+099/131	treib	1	t r ei b
+099/137	mocha	1	m o ch a
+099/139	trei	1	t r ei
+099/141	trei	1	t r ei
+099/143	mochn	1	m o ch n
+099/145	trei	1	t r ei
+099/147	NA	NA	-
+100/033	triw	1	t r i w
+100/035	trib	1	t r i b
+100/037	trieb	1	t r ie b
+100/039	trib	1	t r i b
+100/041	triib	1	t r ii b
+100/043	mache	1	m a ch e
+100/045	NA	NA	-
+100/049	NA	NA	-
+100/051	triib	1	t r ii b
+100/053	triib	1	t r ii b
+100/055	trib	1	t r i b
+100/057	trib	1	t r i b
+100/059	mache	1	m a ch e
+100/061	triib	1	t r ii b
+100/065	trieb	1	t r ie b
+100/067	trib	1	t r i b
+100/069	trieb	1	t r ie b
+100/071	trib	1	t r i b
+100/073	macha	1	m a ch a
+100/075	treib	1	t r ei b
+100/077	draib	1	d r ai b
+100/081	trei	1	t r ei
+100/083	treib	1	t r ei b
+100/089	NA	NA	-
+100/093	trei	1	t r ei
+100/095	trei	1	t r ei
+100/097	trei	1	t r ei
+100/099	trei	1	t r ei
+100/101	NA	NA	-
+100/109	treib	1	t r ei b
+100/111	trei	1	t r ei
+100/113	treib	1	t r ei b
+100/115	treib	1	t r ei b
+100/117	NA	NA	-
+100/119	mochn	1	m o ch n
+100/121	moche	1	m o ch e
+100/125	treib	1	t r ei b
+100/127	treib	1	t r ei b
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	treib	1	t r ei b
+100/141	mocha	1	m o ch a
+100/143	mocha	1	m o ch a
+100/145	trei	1	t r ei
+101/035	triib	1	t r ii b
+101/037	triib	1	t r ii b
+101/039	mache	1	m a ch e
+101/041	driib	1	d r ii b
+101/043	aschtelle	1	a sch t e ll e
+101/045	triib	1	t r ii b
+101/047	trüb	1	t r ü b
+101/049	mache	1	m a ch e
+101/051	triib	1	t r ii b
+101/053	trib	1	t r i b
+101/055	mache	1	m a ch e
+101/057	trib	1	t r i b
+101/059	trib	1	t r i b
+101/061	trieb	1	t r ie b
+101/063	triib	1	t r ii b
+101/065	trib	1	t r i b
+101/067	trib	1	t r i b
+101/071	trieb	1	t r ie b
+101/075	treib	1	t r ei b
+101/077	treib	1	t r ei b
+101/079	treib	1	t r ei b
+101/081	treib	1	t r ei b
+101/091	machn	1	m a ch n
+101/093	drei	1	d r ei
+101/095	NA	NA	-
+101/097	treib	1	t r ei b
+101/099	NA	NA	-
+101/101	NA	NA	-
+101/103	NA	NA	-
+101/107	machn	1	m a ch n
+101/109	trei	1	t r ei
+101/113	mochn	1	m o ch n
+101/115	mochn	1	m o ch n
+101/121	NA	NA	-
+101/125	NA	NA	-
+101/129	treib	1	t r ei b
+101/131	mochn	1	m o ch n
+101/133	treib	1	t r ei b
+101/137	NA	NA	-
+101/139	treib	1	t r ei b
+101/141	treib	1	t r ei b
+101/143	treib	1	t r ei b
+101/145	trai	1	t r ai
+101/147	trei	1	t r ei
+102/037	trib	1	t r i b
+102/039	mache	1	m a ch e
+102/041	triib	1	t r ii b
+102/043	triib	1	t r ii b
+102/045	triib	1	t r ii b
+102/047	macha	1	m a ch a
+102/049	triib	1	t r ii b
+102/051	mache	1	m a ch e
+102/053	trüb	1	t r ü b
+102/055	trib	1	t r i b
+102/057	trieb	1	t r ie b
+102/059	trib	1	t r i b
+102/061	NA	NA	-
+102/063	trieb	1	t r ie b
+102/065	trib	1	t r i b
+102/067	trieb	1	t r ie b
+102/069	drib	1	d r i b
+102/071	trieb	1	t r ie b
+102/073	treib	1	t r ei b
+102/075	treib	1	t r ei b
+102/077	treib	1	t r ei b
+102/079	NA	NA	-
+102/081	treib	1	t r ei b
+102/083	treib	1	t r ei b
+102/089	trei	1	t r ei
+102/091	treib	1	t r ei b
+102/093	trei	1	t r ei
+102/095	NA	NA	-
+102/097	treib	1	t r ei b
+102/099	NA	NA	-
+102/103	trei	1	t r ei
+102/107	NA	NA	-
+102/109	treib	1	t r ei b
+102/113	trei	1	t r ei
+102/115	NA	NA	-
+102/127	mochn	1	m o ch n
+102/129	mochn	1	m o ch n
+102/131	treib	1	t r ei b
+102/135	mochn	1	m o ch n
+102/137	treib	1	t r ei b
+102/139	NA	NA	-
+102/141	treib	1	t r ei b
+102/143	trai	1	t r ai
+102/145	trai	1	t r ai
+103/039	NA	NA	-
+103/041	trib	1	t r i b
+103/043	trüb	1	t r ü b
+103/045	triib	1	t r ii b
+103/047	triib	1	t r ii b
+103/049	mache	1	m a ch e
+103/051	trib	1	t r i b
+103/053	trib	1	t r i b
+103/055	triib	1	t r ii b
+103/057	mache	1	m a ch e
+103/059	machä	1	m a ch ä
+103/063	trib	1	t r i b
+103/065	trib	1	t r i b
+103/067	trib	1	t r i b
+103/069	trieb	1	t r ie b
+103/071	treib	1	t r ei b
+103/073	NA	NA	-
+103/075	treib	1	t r ei b
+103/077	treib	1	t r ei b
+103/079	treib	1	t r ei b
+103/081	treib	1	t r ei b
+103/083	machen	1	m a ch e n
+103/085	moachn	1	m oa ch n
+103/087	tuan	1	t ua n
+103/089	treib	1	t r ei b
+103/091	trei	1	t r ei
+103/097	NA	NA	-
+103/099	NA	NA	-
+103/101	NA	NA	-
+103/105	trei	1	t r ei
+103/107	mochn	1	m o ch n
+103/111	treib	1	t r ei b
+103/121	mochn	1	m o ch n
+103/125	NA	NA	-
+103/127	mochn	1	m o ch n
+103/131	drei	1	d r ei
+103/133	NA	NA	-
+103/135	treib	1	t r ei b
+103/137	treib	1	t r ei b
+103/139	trei	1	t r ei
+103/141	trei	1	t r ei
+103/143	trei	1	t r ei
+103/145	NA	NA	-
+104/033	trib	1	t r i b
+104/035	tryb	1	t r y b
+104/037	due	1	d ue
+104/039	triib	1	t r ii b
+104/041	trib	1	t r i b
+104/043	trieb	1	t r ie b
+104/045	trib	1	t r i b
+104/047	mache	1	m a ch e
+104/049	triib	1	t r ii b
+104/051	trib	1	t r i b
+104/053	NA	NA	-
+104/055	trib	1	t r i b
+104/057	tryb	1	t r y b
+104/059	trib	1	t r i b
+104/061	NA	NA	-
+104/063	trieb	1	t r ie b
+104/065	trieb	1	t r ie b
+104/067	macha	1	m a ch a
+104/071	treiw	1	t r ei w
+104/075	traib	1	t r ai b
+104/077	treib	1	t r ei b
+104/079	treib	1	t r ei b
+104/081	treib	1	t r ei b
+104/083	treib	1	t r ei b
+104/085	treib	1	t r ei b
+104/091	mochn	1	m o ch n
+104/095	trei	1	t r ei
+104/101	treib	1	t r ei b
+104/103	trei	1	t r ei
+104/107	trei	1	t r ei
+104/111	mächn	1	m ä ch n
+104/113	trei	1	t r ei
+104/119	treib	1	t r ei b
+104/121	machn	1	m a ch n
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	mochn	1	m o ch n
+104/131	treib	1	t r ei b
+104/133	NA	NA	-
+104/135	toan	1	t oa n
+104/137	treib	1	t r ei b
+104/139	treib	1	t r ei b
+104/141	mocha	1	m o ch a
+104/143	trai	1	t r ai
+104/145	trai	1	t r ai
+105/031	tryb	1	t r y b
+105/033	trieb	1	t r ie b
+105/035	mache	1	m a ch e
+105/037	NA	NA	-
+105/039	trieb	1	t r ie b
+105/041	mache	1	m a ch e
+105/043	trieb	1	t r ie b
+105/045	trib	1	t r i b
+105/047	trihb	1	t r ih b
+105/049	triib	1	t r ii b
+105/051	tryb	1	t r y b
+105/053	tryb	1	t r y b
+105/055	tryb	1	t r y b
+105/057	trüb	1	t r ü b
+105/059	triib	1	t r ii b
+105/061	trib	1	t r i b
+105/063	trib	1	t r i b
+105/065	trib	1	t r i b
+105/067	trib	1	t r i b
+105/069	trieb	1	t r ie b
+105/071	mäga	1	m ä g a
+105/073	trib	1	t r i b
+105/075	treib	1	t r ei b
+105/077	treib	1	t r ei b
+105/079	treib	1	t r ei b
+105/081	treib	1	t r ei b
+105/085	treib	1	t r ei b
+105/087	treib	1	t r ei b
+105/089	treib	1	t r ei b
+105/103	trei	1	t r ei
+105/105	trei	1	t r ei
+105/111	machn	1	m a ch n
+105/113	treib	1	t r ei b
+105/115	treib	1	t r ei b
+105/117	NA	NA	-
+105/119	mochn	1	m o ch n
+105/121	mochn	1	m o ch n
+105/125	NA	NA	-
+105/127	treib	1	t r ei b
+105/131	treib	1	t r ei b
+105/133	trei	1	t r ei
+105/135	treib	1	t r ei b
+105/137	treib	1	t r ei b
+105/141	treib	1	t r ei b
+105/143	mocha	1	m o ch a
+105/145	trab	1	t r a b
+106/033	frib	1	f r i b
+106/035	mache	1	m a ch e
+106/037	mache	1	m a ch e
+106/039	mache	1	m a ch e
+106/041	trib	1	t r i b
+106/043	trib	1	t r i b
+106/045	tue	1	t ue
+106/047	triib	1	t r ii b
+106/049	triib	1	t r ii b
+106/051	triib	1	t r ii b
+106/053	tryb	1	t r y b
+106/057	triib	1	t r ii b
+106/061	triib	1	t r ii b
+106/063	trib	1	t r i b
+106/067	trieb	1	t r ie b
+106/071	treib	1	t r ei b
+106/073	treib	1	t r ei b
+106/075	traib	1	t r ai b
+106/077	treib	1	t r ei b
+106/079	treib	1	t r ei b
+106/081	treib	1	t r ei b
+106/085	treib	1	t r ei b
+106/087	NA	NA	-
+106/093	traib	1	t r ai b
+106/097	treib	1	t r ei b
+106/099	NA	NA	-
+106/103	treib	1	t r ei b
+106/111	treib	1	t r ei b
+106/115	mochn	1	m o ch n
+106/121	treib	1	t r ei b
+106/123	treib	1	t r ei b
+106/125	treib	1	t r ei b
+106/129	NA	NA	-
+106/131	NA	NA	-
+106/133	treib	1	t r ei b
+106/135	toan	1	t oa n
+106/137	mochn	1	m o ch n
+106/139	treib	1	t r ei b
+106/141	treib	1	t r ei b
+106/143	treib	1	t r ei b
+106/145	tra	1	t r a
+107/033	trib	1	t r i b
+107/035	trib	1	t r i b
+107/037	tryb	1	t r y b
+107/039	mache	1	m a ch e
+107/041	tryb	1	t r y b
+107/043	trieb	1	t r ie b
+107/045	trib	1	t r i b
+107/047	tryb	1	t r y b
+107/049	mache	1	m a ch e
+107/051	trib	1	t r i b
+107/053	tuä	1	t uä
+107/057	triib	1	t r ii b
+107/059	trib	1	t r i b
+107/063	drib	1	d r i b
+107/065	machen	1	m a ch e n
+107/071	treib	1	t r ei b
+107/075	treib	1	t r ei b
+107/081	treib	1	t r ei b
+107/085	treib	1	t r ei b
+107/087	treib	1	t r ei b
+107/089	treib	1	t r ei b
+107/091	treib	1	t r ei b
+107/097	mochin	1	m o ch i n
+107/099	treib	1	t r ei b
+107/103	treib	1	t r ei b
+107/105	NA	NA	-
+107/107	treib	1	t r ei b
+107/111	treib	1	t r ei b
+107/119	treib	1	t r ei b
+107/121	treib	1	t r ei b
+107/123	machn	1	m a ch n
+107/125	NA	NA	-
+107/127	NA	NA	-
+107/129	NA	NA	-
+107/131	trei	1	t r ei
+107/133	treib	1	t r ei b
+107/135	mochn	1	m o ch n
+107/137	trei	1	t r ei
+107/139	treib	1	t r ei b
+107/141	trei	1	t r ei
+107/143	mochn	1	m o ch n
+108/033	trib	1	t r i b
+108/035	NA	NA	-
+108/037	mache	1	m a ch e
+108/039	tryb	1	t r y b
+108/041	tue	1	t ue
+108/043	trib	1	t r i b
+108/047	triib	1	t r ii b
+108/049	treib	1	t r ei b
+108/063	NA	NA	-
+108/065	trieb	1	t r ie b
+108/067	trieb	1	t r ie b
+108/075	treib	1	t r ei b
+108/079	mochn	1	m o ch n
+108/081	treib	1	t r ei b
+108/085	mochen	1	m o ch e n
+108/087	traib	1	t r ai b
+108/091	tia	1	t ia
+108/099	NA	NA	-
+108/101	treib	1	t r ei b
+108/103	treib	1	t r ei b
+108/105	treib	1	t r ei b
+108/109	treib	1	t r ei b
+108/111	treib	1	t r ei b
+108/113	mochn	1	m o ch n
+108/117	NA	NA	-
+108/119	treib	1	t r ei b
+108/121	NA	NA	-
+108/123	treib	1	t r ei b
+108/125	treib	1	t r ei b
+108/127	treib	1	t r ei b
+108/129	trei	1	t r ei
+108/131	mochn	1	m o ch n
+108/133	treib	1	t r ei b
+108/135	treib	1	t r ei b
+108/137	treib	1	t r ei b
+108/139	treib	1	t r ei b
+108/141	treib	1	t r ei b
+109/035	trib	1	t r i b
+109/037	tryb	1	t r y b
+109/039	triib	1	t r ii b
+109/041	trib	1	t r i b
+109/043	trib	1	t r i b
+109/045	triib	1	t r ii b
+109/049	treib	1	t r ei b
+109/053	trieb	1	t r ie b
+109/061	trib	1	t r i b
+109/063	trib	1	t r i b
+109/065	trib	1	t r i b
+109/067	triib	1	t r ii b
+109/075	machn	1	m a ch n
+109/083	tian	1	t ia n
+109/087	traib	1	t r ai b
+109/089	NA	NA	-
+109/091	traib	1	t r ai b
+109/093	treib	1	t r ei b
+109/095	NA	NA	-
+109/097	treib	1	t r ei b
+109/099	treib	1	t r ei b
+109/101	traiw	1	t r ai w
+109/103	treib	1	t r ei b
+109/107	treib	1	t r ei b
+109/109	NA	NA	-
+109/111	machn	1	m a ch n
+109/113	treib	1	t r ei b
+109/115	treib	1	t r ei b
+109/117	NA	NA	-
+109/119	treib	1	t r ei b
+109/121	treib	1	t r ei b
+109/123	NA	NA	-
+109/125	treib	1	t r ei b
+109/127	NA	NA	-
+109/129	NA	NA	-
+109/131	treib	1	t r ei b
+109/133	toa	1	t oa
+109/135	traib	1	t r ai b
+109/137	mochn	1	m o ch n
+109/139	treib	1	t r ei b
+110/035	trib	1	t r i b
+110/039	trib	1	t r i b
+110/041	trib	1	t r i b
+110/043	trib	1	t r i b
+110/045	trib	1	t r i b
+110/047	triib	1	t r ii b
+110/049	triib	1	t r ii b
+110/057	trib	1	t r i b
+110/061	trieb	1	t r ie b
+110/065	trib	1	t r i b
+110/075	machn	1	m a ch n
+110/079	NA	NA	-
+110/081	treib	1	t r ei b
+110/083	treib	1	t r ei b
+110/087	treib	1	t r ei b
+110/089	traib	1	t r ai b
+110/091	tion	1	t io n
+110/093	treib	1	t r ei b
+110/095	treib	1	t r ei b
+110/097	treib	1	t r ei b
+110/099	mochn	1	m o ch n
+110/101	treib	1	t r ei b
+110/105	treib	1	t r ei b
+110/107	treib	1	t r ei b
+110/111	treib	1	t r ei b
+110/113	treib	1	t r ei b
+110/115	mochn	1	m o ch n
+110/117	mochn	1	m o ch n
+110/119	traib	1	t r ai b
+110/121	NA	NA	-
+110/125	treib	1	t r ei b
+110/127	machn	1	m a ch n
+110/129	NA	NA	-
+110/131	NA	NA	-
+110/133	treib	1	t r ei b
+110/135	treib	1	t r ei b
+110/137	NA	NA	-
+110/139	mochn	1	m o ch n
+111/035	trieb	1	t r ie b
+111/037	tryb	1	t r y b
+111/039	trib	1	t r i b
+111/041	trib	1	t r i b
+111/043	tuen	1	t ue n
+111/045	triib	1	t r ii b
+111/059	trib	1	t r i b
+111/073	treib	1	t r ei b
+111/075	machn	1	m a ch n
+111/077	treib	1	t r ei b
+111/079	treib	1	t r ei b
+111/081	treib	1	t r ei b
+111/083	treib	1	t r ei b
+111/087	aufüarn	1	au f üa r n
+111/089	treib	1	t r ei b
+111/105	trei	1	t r ei
+111/107	treib	1	t r ei b
+111/109	machn	1	m a ch n
+111/111	treib	1	t r ei b
+111/113	machn	1	m a ch n
+111/115	NA	NA	-
+111/117	maachen	1	m aa ch e n
+111/119	traib	1	t r ai b
+111/121	NA	NA	-
+111/123	treib	1	t r ei b
+111/125	trei	1	t r ei
+112/037	trib	1	t r i b
+112/039	trib	1	t r i b
+112/041	trib	1	t r i b
+112/043	triib	1	t r ii b
+112/047	trib	1	t r i b
+112/059	macha	1	m a ch a
+112/061	trib	1	t r i b
+112/063	trib	1	t r i b
+112/075	NA	NA	-
+112/081	treib	1	t r ei b
+112/083	tia	1	t ia
+112/085	mochn	1	m o ch n
+112/111	treib	1	t r ei b
+112/115	treib	1	t r ei b
+112/117	treib	1	t r ei b
+112/119	treib	1	t r ei b
+113/035	tuen	1	t ue n
+113/037	trib	1	t r i b
+113/039	trib	1	t r i b
+113/047	trib	1	t r i b
+113/079	trei	1	t r ei
+113/081	traib	1	t r ai b
+113/083	treib	1	t r ei b
+113/085	trai	1	t r ai
+113/087	tia	1	t ia
+113/121	treib	1	t r ei b
+113/123	treib	1	t r ei b
+114/035	trib	1	t r i b
+114/045	trib	1	t r i b
+114/083	mochn	1	m o ch n
+114/085	machen	1	m a ch e n
+115/041	trib	1	t r i b
+115/043	trib	1	t r i b
+115/045	trib	1	t r i b
+115/083	mochn	1	m o ch n
+115/085	mochn	1	m o ch n
+116/043	machu	1	m a ch u
+116/045	machn	1	m a ch n
+116/083	traib	1	t r ai b
+117/043	trib	1	t r i b
+117/045	trib	1	t r i b
+118/041	trib	1	t r i b
+119/083	treib	1	t r ei b
+120/085	NA	NA	-
+121/127	treib	1	t r ei b
+122/127	traib	1	t r ai b
+122/129	treib	1	t r ei b
+123/081	NA	NA	-
+123/123	treib	1	t r ei b
+123/125	treib	1	t r ei b
+123/127	treib	1	t r ei b
+123/129	treib	1	t r ei b
+124/125	treib	1	t r ei b
+124/127	treib	1	t r ei b
+124/129	treib	1	t r ei b

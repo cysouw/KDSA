@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	neg	1	n e g
+002/201	neeg	1	n ee g
+002/203	nög	1	n ö g
+002/205	nähg	1	n äh g
+003/203	nög	1	n ö g
+003/205	neeg	1	n ee g
+004/205	nög	1	n ö g
+005/205	neeg	1	n ee g
+005/207	neg	1	n e g
+006/205	nehg	1	n eh g
+006/207	neg	1	n e g
+007/205	neeg	1	n ee g
+007/207	neeg	1	n ee g
+007/209	neg	1	n e g
+007/211	nög	1	n ö g
+008/199	neeg	1	n ee g
+008/203	neeg	1	n ee g
+008/205	neg	1	n e g
+008/207	nög	1	n ö g
+008/209	neg	1	n e g
+008/211	nög	1	n ö g
+008/213	neg	1	n e g
+009/199	neeg	1	n ee g
+009/203	neej	1	n ee j
+009/207	neg	1	n e g
+009/209	neeg	1	n ee g
+009/211	neeg	1	n ee g
+009/213	nög	1	n ö g
+009/215	nög	1	n ö g
+009/217	neg	1	n e g
+010/195	neg	1	n e g
+010/203	neg	1	n e g
+010/207	neeg	1	n ee g
+010/209	nög	1	n ö g
+010/211	nehg	1	n eh g
+010/213	neg	1	n e g
+010/215	neeg	1	n ee g
+010/217	neg	1	n e g
+010/219	neg	1	n e g
+011/049	sie	1	s ie
+011/053	syrte	1	s y r t e
+011/055	sy	1	s y
+011/057	sy	1	s y
+011/059	sy	1	s y
+011/061	sy	1	s y
+011/063	sy	1	s y
+011/065	NA	NA	-
+011/067	sy	1	s y
+011/069	sye	1	s ye
+011/187	neg	1	n e g
+011/189	näg	1	n ä g
+011/191	neg	1	n e g
+011/195	neg	1	n e g
+011/197	neg	1	n e g
+011/203	nög	1	n ö g
+011/205	nög	1	n ö g
+011/207	neeg	1	n ee g
+011/209	neeg	1	n ee g
+011/211	nög	1	n ö g
+011/213	neeg	1	n ee g
+011/215	neeg	1	n ee g
+011/217	näj	1	n ä j
+011/219	neg	1	n e g
+012/047	klarmaaken	1	k l a r m aa k e n
+012/049	sii	1	s ii
+012/051	seie	1	s eie
+012/053	süj	1	s ü j
+012/055	sy	1	s y
+012/057	sy	1	s y
+012/059	sy	1	s y
+012/061	sye	1	s ye
+012/063	sy	1	s y
+012/065	sye	1	s ye
+012/067	sy	1	s y
+012/069	sü	1	s ü
+012/187	nög	1	n ö g
+012/189	neg	1	n e g
+012/191	neg	1	n e g
+012/193	neg	1	n e g
+012/195	neeg	1	n ee g
+012/197	neg	1	n e g
+012/199	nög	1	n ö g
+012/201	neg	1	n e g
+012/203	neg	1	n e g
+012/205	neeg	1	n ee g
+012/207	rendmoake	1	r e n d m oa k e
+012/209	neg	1	n e g
+012/211	neeg	1	n ee g
+012/213	neeg	1	n ee g
+012/215	neeg	1	n ee g
+012/217	neeg	1	n ee g
+012/219	nehg	1	n eh g
+012/221	neeg	1	n ee g
+012/223	neg	1	n e g
+013/051	seie	1	s eie
+013/053	saie	1	s aie
+013/055	maage	1	m aa g e
+013/057	sye	1	s ye
+013/059	süe	1	s üe
+013/061	neih	1	n eih
+013/063	nei	1	n ei
+013/065	neih	1	n eih
+013/067	nei	1	n ei
+013/161	neig	1	n ei g
+013/163	neig	1	n ei g
+013/165	neig	1	n ei g
+013/167	neih	1	n eih
+013/187	neeg	1	n ee g
+013/189	neeg	1	n ee g
+013/191	neg	1	n e g
+013/193	nehg	1	n eh g
+013/195	neg	1	n e g
+013/197	neeg	1	n ee g
+013/199	neeg	1	n ee g
+013/201	näg	1	n ä g
+013/203	neg	1	n e g
+013/207	neeg	1	n ee g
+013/209	nehg	1	n eh g
+013/211	neg	1	n e g
+013/213	neg	1	n e g
+013/215	neg	1	n e g
+013/217	neg	1	n e g
+013/219	neeg	1	n ee g
+013/221	neg	1	n e g
+013/223	neeg	1	n ee g
+014/047	sai	1	s ai
+014/049	sie	1	s ie
+014/051	sai	1	s ai
+014/053	seie	1	s eie
+014/055	seje	1	s e j e
+014/057	seie	1	s eie
+014/059	nei	1	n ei
+014/061	nei	1	n ei
+014/063	nei	1	n ei
+014/065	nei	1	n ei
+014/067	nei	1	n ei
+014/109	neig	1	n ei g
+014/159	neig	1	n ei g
+014/161	neig	1	n ei g
+014/163	neig	1	n ei g
+014/165	neig	1	n ei g
+014/167	neih	1	n eih
+014/169	niej	1	n ie j
+014/187	neeg	1	n ee g
+014/189	nehg	1	n eh g
+014/191	neg	1	n e g
+014/193	neeg	1	n ee g
+014/195	neeg	1	n ee g
+014/197	neg	1	n e g
+014/199	rehdmoake	1	r eh d m oa k e
+014/201	nög	1	n ö g
+014/203	neg	1	n e g
+014/205	nög	1	n ö g
+014/207	neg	1	n e g
+014/209	nöhg	1	n öh g
+014/211	nehg	1	n eh g
+014/213	nög	1	n ö g
+014/215	neg	1	n e g
+014/217	nöhg	1	n öh g
+014/219	neeg	1	n ee g
+014/221	neeg	1	n ee g
+015/049	sai	1	s ai
+015/051	saie	1	s aie
+015/053	saie	1	s aie
+015/055	seie	1	s eie
+015/057	sai	1	s ai
+015/059	nei	1	n ei
+015/061	neih	1	n eih
+015/063	nei	1	n ei
+015/065	neih	1	n eih
+015/067	nei	1	n ei
+015/105	neig	1	n ei g
+015/107	neig	1	n ei g
+015/109	neig	1	n ei g
+015/151	nea	1	n ea
+015/153	nei	1	n ei
+015/155	näh	1	n äh
+015/157	nei	1	n ei
+015/159	neih	1	n eih
+015/161	neig	1	n ei g
+015/163	neih	1	n eih
+015/165	neig	1	n ei g
+015/167	neig	1	n ei g
+015/169	neih	1	n eih
+015/173	neih	1	n eih
+015/187	nög	1	n ö g
+015/191	nehg	1	n eh g
+015/193	neeg	1	n ee g
+015/195	neg	1	n e g
+015/197	neg	1	n e g
+015/199	neg	1	n e g
+015/201	nög	1	n ö g
+015/203	neeg	1	n ee g
+015/205	neeg	1	n ee g
+015/207	neg	1	n e g
+015/209	neg	1	n e g
+015/211	neg	1	n e g
+015/213	neg	1	n e g
+015/215	NA	NA	-
+015/217	nög	1	n ö g
+015/219	neeg	1	n ee g
+015/221	NA	NA	-
+016/051	sei	1	s ei
+016/055	säie	1	s äie
+016/057	neih	1	n eih
+016/059	neih	1	n eih
+016/061	neih	1	n eih
+016/063	nei	1	n ei
+016/065	neih	1	n eih
+016/067	nei	1	n ei
+016/081	nei	1	n ei
+016/083	neih	1	n eih
+016/105	neig	1	n ei g
+016/107	neig	1	n ei g
+016/109	neig	1	n ei g
+016/111	neig	1	n ei g
+016/145	nä	1	n ä
+016/147	nej	1	n e j
+016/149	nej	1	n e j
+016/151	neg	1	n e g
+016/153	nä	1	n ä
+016/155	nei	1	n ei
+016/157	neih	1	n eih
+016/159	nei	1	n ei
+016/161	neig	1	n ei g
+016/163	neig	1	n ei g
+016/165	neih	1	n eih
+016/167	NA	NA	-
+016/187	neg	1	n e g
+016/189	neg	1	n e g
+016/191	nej	1	n e j
+016/193	neg	1	n e g
+016/195	neg	1	n e g
+016/197	nög	1	n ö g
+016/199	neg	1	n e g
+016/201	neeg	1	n ee g
+016/203	nej	1	n e j
+016/205	neeg	1	n ee g
+016/209	neeg	1	n ee g
+016/211	neeg	1	n ee g
+016/213	nög	1	n ö g
+016/215	neeg	1	n ee g
+016/217	neg	1	n e g
+016/219	neeg	1	n ee g
+017/055	nei	1	n ei
+017/057	neih	1	n eih
+017/059	neih	1	n eih
+017/061	nei	1	n ei
+017/063	neih	1	n eih
+017/065	neih	1	n eih
+017/067	NA	NA	-
+017/069	neih	1	n eih
+017/081	neih	1	n eih
+017/083	neih	1	n eih
+017/099	neig	1	n ei g
+017/101	neig	1	n ei g
+017/103	neig	1	n ei g
+017/107	neig	1	n ei g
+017/109	neig	1	n ei g
+017/145	neig	1	n ei g
+017/147	nej	1	n e j
+017/149	ne	1	n e
+017/151	neh	1	n eh
+017/153	näh	1	n äh
+017/155	näh	1	n äh
+017/157	nei	1	n ei
+017/159	neih	1	n eih
+017/161	nei	1	n ei
+017/163	neih	1	n eih
+017/165	nai	1	n ai
+017/169	naih	1	n aih
+017/171	nei	1	n ei
+017/183	neg	1	n e g
+017/185	nög	1	n ö g
+017/187	neg	1	n e g
+017/189	neg	1	n e g
+017/191	neg	1	n e g
+017/193	neg	1	n e g
+017/195	neg	1	n e g
+017/197	neeg	1	n ee g
+017/199	neg	1	n e g
+017/201	neg	1	n e g
+017/203	NA	NA	-
+017/205	neg	1	n e g
+017/207	neg	1	n e g
+017/209	neg	1	n e g
+017/211	neeg	1	n ee g
+017/213	neeg	1	n ee g
+017/215	neg	1	n e g
+017/217	neg	1	n e g
+017/219	neg	1	n e g
+018/051	neih	1	n eih
+018/053	nei	1	n ei
+018/055	neih	1	n eih
+018/057	nei	1	n ei
+018/059	neih	1	n eih
+018/061	nei	1	n ei
+018/063	nei	1	n ei
+018/065	nei	1	n ei
+018/067	neih	1	n eih
+018/069	nei	1	n ei
+018/071	NA	NA	-
+018/073	nai	1	n ai
+018/075	neih	1	n eih
+018/079	neih	1	n eih
+018/081	neih	1	n eih
+018/097	neig	1	n ei g
+018/099	neig	1	n ei g
+018/103	neig	1	n ei g
+018/105	neig	1	n ei g
+018/107	neig	1	n ei g
+018/109	neig	1	n ei g
+018/111	neig	1	n ei g
+018/143	ne	1	n e
+018/145	neg	1	n e g
+018/147	nej	1	n e j
+018/149	ne	1	n e
+018/151	ne	1	n e
+018/153	neh	1	n eh
+018/155	nej	1	n e j
+018/157	nei	1	n ei
+018/159	neih	1	n eih
+018/161	neih	1	n eih
+018/163	nei	1	n ei
+018/165	neig	1	n ei g
+018/169	naj	1	n a j
+018/171	nei	1	n ei
+018/173	neih	1	n eih
+018/181	nei	1	n ei
+018/185	neg	1	n e g
+018/187	neg	1	n e g
+018/189	neeg	1	n ee g
+018/191	neg	1	n e g
+018/193	neg	1	n e g
+018/195	neg	1	n e g
+018/197	neeg	1	n ee g
+018/199	neeg	1	n ee g
+018/201	neg	1	n e g
+018/203	neg	1	n e g
+018/205	neg	1	n e g
+018/207	neg	1	n e g
+018/209	neg	1	n e g
+018/211	neg	1	n e g
+018/213	neeg	1	n ee g
+018/215	neg	1	n e g
+018/219	neeg	1	n ee g
+019/051	nei	1	n ei
+019/053	neih	1	n eih
+019/055	nei	1	n ei
+019/057	nei	1	n ei
+019/059	nei	1	n ei
+019/061	nei	1	n ei
+019/063	nei	1	n ei
+019/065	neih	1	n eih
+019/067	nai	1	n ai
+019/069	nei	1	n ei
+019/071	nei	1	n ei
+019/073	nei	1	n ei
+019/075	nei	1	n ei
+019/077	neih	1	n eih
+019/079	neih	1	n eih
+019/081	neih	1	n eih
+019/097	neid	1	n ei d
+019/099	neig	1	n ei g
+019/101	neig	1	n ei g
+019/103	neig	1	n ei g
+019/105	neig	1	n ei g
+019/107	neig	1	n ei g
+019/109	neig	1	n ei g
+019/143	ne	1	n e
+019/145	nej	1	n e j
+019/147	neg	1	n e g
+019/149	neg	1	n e g
+019/151	nä	1	n ä
+019/153	neh	1	n eh
+019/155	näh	1	n äh
+019/157	näh	1	n äh
+019/159	neig	1	n ei g
+019/161	neih	1	n eih
+019/163	nei	1	n ei
+019/165	neih	1	n eih
+019/167	nägg	1	n ä gg
+019/169	neih	1	n eih
+019/171	nei	1	n ei
+019/173	nei	1	n ei
+019/175	neih	1	n eih
+019/177	nei	1	n ei
+019/179	nei	1	n ei
+019/181	neej	1	n ee j
+019/183	neeg	1	n ee g
+019/185	neg	1	n e g
+019/187	neg	1	n e g
+019/189	NA	NA	-
+019/191	nej	1	n e j
+019/193	neg	1	n e g
+019/195	neg	1	n e g
+019/197	nehg	1	n eh g
+019/199	neg	1	n e g
+019/201	neg	1	n e g
+019/203	neg	1	n e g
+019/205	neg	1	n e g
+019/207	neg	1	n e g
+019/209	neeg	1	n ee g
+019/211	neeg	1	n ee g
+019/213	neg	1	n e g
+019/215	neg	1	n e g
+019/217	nög	1	n ö g
+019/219	neg	1	n e g
+020/043	sai	1	s ai
+020/053	neih	1	n eih
+020/055	nei	1	n ei
+020/057	neih	1	n eih
+020/059	neih	1	n eih
+020/061	neih	1	n eih
+020/063	nei	1	n ei
+020/065	neih	1	n eih
+020/067	nei	1	n ei
+020/069	neih	1	n eih
+020/071	neih	1	n eih
+020/073	neih	1	n eih
+020/075	neih	1	n eih
+020/077	neih	1	n eih
+020/079	neih	1	n eih
+020/081	neih	1	n eih
+020/095	nei	1	n ei
+020/097	neih	1	n eih
+020/099	neig	1	n ei g
+020/101	neig	1	n ei g
+020/103	neig	1	n ei g
+020/105	neig	1	n ei g
+020/107	neig	1	n ei g
+020/135	neig	1	n ei g
+020/137	neg	1	n e g
+020/139	neg	1	n e g
+020/141	nejj	1	n e jj
+020/143	nej	1	n e j
+020/145	NA	NA	-
+020/147	neg	1	n e g
+020/149	neg	1	n e g
+020/151	näh	1	n äh
+020/153	neh	1	n eh
+020/155	näh	1	n äh
+020/157	neig	1	n ei g
+020/159	neig	1	n ei g
+020/161	neig	1	n ei g
+020/163	nej	1	n e j
+020/165	neg	1	n e g
+020/167	näg	1	n ä g
+020/169	neg	1	n e g
+020/171	neh	1	n eh
+020/173	neih	1	n eih
+020/175	neih	1	n eih
+020/177	nei	1	n ei
+020/179	nei	1	n ei
+020/181	nei	1	n ei
+020/183	nög	1	n ö g
+020/185	neg	1	n e g
+020/187	neh	1	n eh
+020/189	neg	1	n e g
+020/191	nög	1	n ö g
+020/193	neg	1	n e g
+020/195	neg	1	n e g
+020/197	neg	1	n e g
+020/199	neg	1	n e g
+020/201	neeg	1	n ee g
+020/203	neg	1	n e g
+020/205	NA	NA	-
+020/207	neg	1	n e g
+020/209	neg	1	n e g
+020/211	neeg	1	n ee g
+020/213	neeg	1	n ee g
+020/215	neg	1	n e g
+020/217	neg	1	n e g
+020/219	neeg	1	n ee g
+021/055	neih	1	n eih
+021/057	neih	1	n eih
+021/059	neih	1	n eih
+021/061	neih	1	n eih
+021/063	neih	1	n eih
+021/065	nai	1	n ai
+021/067	neih	1	n eih
+021/069	neih	1	n eih
+021/071	neih	1	n eih
+021/073	neih	1	n eih
+021/075	neih	1	n eih
+021/077	neih	1	n eih
+021/079	neid	1	n ei d
+021/087	neid	1	n ei d
+021/089	neid	1	n ei d
+021/091	neih	1	n eih
+021/093	nei	1	n ei
+021/095	neid	1	n ei d
+021/097	neih	1	n eih
+021/099	neid	1	n ei d
+021/101	nei	1	n ei
+021/103	neig	1	n ei g
+021/105	neig	1	n ei g
+021/107	neig	1	n ei g
+021/109	neig	1	n ei g
+021/111	neig	1	n ei g
+021/113	neig	1	n ei g
+021/131	neg	1	n e g
+021/133	neg	1	n e g
+021/135	nej	1	n e j
+021/137	neeg	1	n ee g
+021/139	negg	1	n e gg
+021/141	neg	1	n e g
+021/143	nech	1	n e ch
+021/145	nehj	1	n eh j
+021/147	neg	1	n e g
+021/149	nej	1	n e j
+021/151	neh	1	n eh
+021/153	neh	1	n eh
+021/155	nigg	1	n i gg
+021/157	neig	1	n ei g
+021/159	neig	1	n ei g
+021/163	neeg	1	n ee g
+021/165	negg	1	n e gg
+021/167	nigg	1	n i gg
+021/169	nei	1	n ei
+021/171	nei	1	n ei
+021/173	nei	1	n ei
+021/175	naih	1	n aih
+021/177	neih	1	n eih
+021/179	neih	1	n eih
+021/181	nei	1	n ei
+021/183	neg	1	n e g
+021/185	näh	1	n äh
+021/187	näh	1	n äh
+021/189	NA	NA	-
+021/191	näh	1	n äh
+021/193	näh	1	n äh
+021/195	näh	1	n äh
+021/197	näh	1	n äh
+021/199	neg	1	n e g
+021/201	neg	1	n e g
+021/203	neg	1	n e g
+021/205	neg	1	n e g
+021/207	neg	1	n e g
+021/211	neeg	1	n ee g
+021/215	neg	1	n e g
+021/217	neg	1	n e g
+021/219	neeg	1	n ee g
+022/055	neih	1	n eih
+022/057	NA	NA	-
+022/059	neih	1	n eih
+022/061	neih	1	n eih
+022/063	neih	1	n eih
+022/065	neih	1	n eih
+022/067	neih	1	n eih
+022/069	nei	1	n ei
+022/071	neih	1	n eih
+022/073	neih	1	n eih
+022/075	nei	1	n ei
+022/077	neid	1	n ei d
+022/087	neid	1	n ei d
+022/089	neid	1	n ei d
+022/091	neid	1	n ei d
+022/093	neid	1	n ei d
+022/095	neid	1	n ei d
+022/097	neid	1	n ei d
+022/099	neig	1	n ei g
+022/101	neig	1	n ei g
+022/103	neig	1	n ei g
+022/105	neig	1	n ei g
+022/107	neig	1	n ei g
+022/109	neig	1	n ei g
+022/111	neig	1	n ei g
+022/113	neig	1	n ei g
+022/115	neig	1	n ei g
+022/127	negg	1	n e gg
+022/129	neh	1	n eh
+022/131	neg	1	n e g
+022/133	neg	1	n e g
+022/135	NA	NA	-
+022/137	neg	1	n e g
+022/139	neg	1	n e g
+022/141	neg	1	n e g
+022/143	neg	1	n e g
+022/145	nej	1	n e j
+022/147	neh	1	n eh
+022/149	neg	1	n e g
+022/151	neg	1	n e g
+022/153	NA	NA	-
+022/155	niäg	1	n iä g
+022/157	neeg	1	n ee g
+022/159	näg	1	n ä g
+022/165	nij	1	n i j
+022/167	nähg	1	n äh g
+022/169	NA	NA	-
+022/171	nei	1	n ei
+022/173	neih	1	n eih
+022/175	neih	1	n eih
+022/177	ni	1	n i
+022/179	nei	1	n ei
+022/181	nei	1	n ei
+022/183	näh	1	n äh
+022/185	neh	1	n eh
+022/187	näh	1	n äh
+022/189	näh	1	n äh
+022/191	näh	1	n äh
+022/193	näh	1	n äh
+022/195	nä	1	n ä
+022/197	nä	1	n ä
+022/199	näh	1	n äh
+022/201	neeg	1	n ee g
+022/203	neg	1	n e g
+022/205	nög	1	n ö g
+022/209	neeg	1	n ee g
+022/211	NA	NA	-
+022/215	nüg	1	n ü g
+022/217	nöhg	1	n öh g
+022/219	neg	1	n e g
+023/055	neih	1	n eih
+023/059	nei	1	n ei
+023/061	neih	1	n eih
+023/063	neih	1	n eih
+023/065	neih	1	n eih
+023/067	neih	1	n eih
+023/069	neid	1	n ei d
+023/071	neih	1	n eih
+023/073	neih	1	n eih
+023/075	neid	1	n ei d
+023/077	nei	1	n ei
+023/079	nei	1	n ei
+023/081	nehd	1	n eh d
+023/083	ned	1	n e d
+023/085	neid	1	n ei d
+023/087	neth	1	n e t h
+023/089	neid	1	n ei d
+023/091	neid	1	n ei d
+023/093	neid	1	n ei d
+023/095	neih	1	n eih
+023/097	neid	1	n ei d
+023/099	neig	1	n ei g
+023/101	neih	1	n eih
+023/103	neid	1	n ei d
+023/105	neig	1	n ei g
+023/107	neig	1	n ei g
+023/109	neig	1	n ei g
+023/111	neig	1	n ei g
+023/113	neig	1	n ei g
+023/115	neig	1	n ei g
+023/117	neig	1	n ei g
+023/121	neg	1	n e g
+023/123	näi	1	n äi
+023/125	nej	1	n e j
+023/127	näh	1	n äh
+023/129	nä	1	n ä
+023/131	neh	1	n eh
+023/133	neg	1	n e g
+023/135	neg	1	n e g
+023/137	negg	1	n e gg
+023/139	nej	1	n e j
+023/141	negg	1	n e gg
+023/143	nehg	1	n eh g
+023/145	neg	1	n e g
+023/147	neg	1	n e g
+023/149	nej	1	n e j
+023/151	neg	1	n e g
+023/153	neg	1	n e g
+023/155	nijj	1	n i jj
+023/165	näg	1	n ä g
+023/167	nigg	1	n i gg
+023/169	neih	1	n eih
+023/175	nei	1	n ei
+023/177	NA	NA	-
+023/179	näh	1	n äh
+023/181	näh	1	n äh
+023/183	näh	1	n äh
+023/185	näh	1	n äh
+023/187	näh	1	n äh
+023/189	näh	1	n äh
+023/191	näh	1	n äh
+023/193	näh	1	n äh
+023/195	näh	1	n äh
+023/197	näh	1	n äh
+023/199	nehg	1	n eh g
+023/201	neg	1	n e g
+023/203	neg	1	n e g
+023/205	nög	1	n ö g
+023/207	neg	1	n e g
+023/215	neg	1	n e g
+023/217	neg	1	n e g
+024/053	neih	1	n eih
+024/057	neih	1	n eih
+024/059	nei	1	n ei
+024/061	nai	1	n ai
+024/063	neih	1	n eih
+024/065	neih	1	n eih
+024/067	neih	1	n eih
+024/069	nei	1	n ei
+024/071	nei	1	n ei
+024/073	neih	1	n eih
+024/075	nei	1	n ei
+024/077	neih	1	n eih
+024/079	naih	1	n aih
+024/081	nehd	1	n eh d
+024/083	neih	1	n eih
+024/085	nehd	1	n eh d
+024/087	neih	1	n eih
+024/089	nehd	1	n eh d
+024/091	neid	1	n ei d
+024/093	neid	1	n ei d
+024/095	neih	1	n eih
+024/097	neih	1	n eih
+024/099	neid	1	n ei d
+024/101	neid	1	n ei d
+024/103	neig	1	n ei g
+024/105	nei	1	n ei
+024/107	neig	1	n ei g
+024/109	neig	1	n ei g
+024/111	neig	1	n ei g
+024/113	neig	1	n ei g
+024/115	neeg	1	n ee g
+024/117	neig	1	n ei g
+024/119	neig	1	n ei g
+024/121	näh	1	n äh
+024/123	neh	1	n eh
+024/125	neih	1	n eih
+024/127	naih	1	n aih
+024/129	negg	1	n e gg
+024/131	nä	1	n ä
+024/133	negg	1	n e gg
+024/135	neg	1	n e g
+024/137	neg	1	n e g
+024/139	neegg	1	n ee gg
+024/141	neg	1	n e g
+024/143	näg	1	n ä g
+024/145	neg	1	n e g
+024/147	neg	1	n e g
+024/149	neg	1	n e g
+024/151	näg	1	n ä g
+024/153	näg	1	n ä g
+024/155	nig	1	n i g
+024/163	nehj	1	n eh j
+024/165	nig	1	n i g
+024/167	nig	1	n i g
+024/169	nähg	1	n äh g
+024/171	neih	1	n eih
+024/175	nei	1	n ei
+024/179	nä	1	n ä
+024/181	näh	1	n äh
+024/183	nä	1	n ä
+024/185	näh	1	n äh
+024/187	näh	1	n äh
+024/189	näh	1	n äh
+024/191	näh	1	n äh
+024/193	näh	1	n äh
+024/195	näh	1	n äh
+024/197	näh	1	n äh
+024/199	näh	1	n äh
+024/201	näj	1	n ä j
+024/203	neg	1	n e g
+024/217	neg	1	n e g
+024/221	neeg	1	n ee g
+025/043	sieh	1	s ieh
+025/051	nei	1	n ei
+025/053	neih	1	n eih
+025/055	nei	1	n ei
+025/057	neih	1	n eih
+025/059	neih	1	n eih
+025/061	nei	1	n ei
+025/063	neih	1	n eih
+025/065	nei	1	n ei
+025/067	neih	1	n eih
+025/069	neih	1	n eih
+025/071	neih	1	n eih
+025/073	nei	1	n ei
+025/075	neih	1	n eih
+025/077	neid	1	n ei d
+025/079	ned	1	n e d
+025/081	nehd	1	n eh d
+025/083	nei	1	n ei
+025/085	neih	1	n eih
+025/087	neid	1	n ei d
+025/089	neid	1	n ei d
+025/091	nei	1	n ei
+025/093	neig	1	n ei g
+025/095	neih	1	n eih
+025/099	NA	NA	-
+025/101	neih	1	n eih
+025/103	neigg	1	n ei gg
+025/105	neig	1	n ei g
+025/107	neg	1	n e g
+025/109	neig	1	n ei g
+025/111	neig	1	n ei g
+025/113	neig	1	n ei g
+025/115	neig	1	n ei g
+025/123	näj	1	n ä j
+025/125	neig	1	n ei g
+025/127	negg	1	n e gg
+025/129	näh	1	n äh
+025/131	neg	1	n e g
+025/133	neg	1	n e g
+025/135	neg	1	n e g
+025/137	neg	1	n e g
+025/139	neg	1	n e g
+025/141	neg	1	n e g
+025/143	negg	1	n e gg
+025/145	niej	1	n ie j
+025/147	nej	1	n e j
+025/149	neg	1	n e g
+025/151	näg	1	n ä g
+025/153	NA	NA	-
+025/155	neg	1	n e g
+025/157	neg	1	n e g
+025/159	nei	1	n ei
+025/177	nei	1	n ei
+025/179	näh	1	n äh
+025/181	näh	1	n äh
+025/183	näh	1	n äh
+025/185	näh	1	n äh
+025/187	näh	1	n äh
+025/189	näh	1	n äh
+025/191	näh	1	n äh
+026/031	nei	1	n ei
+026/033	nei	1	n ei
+026/037	neid	1	n ei d
+026/041	nei	1	n ei
+026/043	neid	1	n ei d
+026/045	nei	1	n ei
+026/051	nei	1	n ei
+026/053	nei	1	n ei
+026/055	neih	1	n eih
+026/057	neih	1	n eih
+026/059	neih	1	n eih
+026/061	neih	1	n eih
+026/063	neih	1	n eih
+026/065	neih	1	n eih
+026/067	nei	1	n ei
+026/069	neih	1	n eih
+026/071	neih	1	n eih
+026/073	neh	1	n eh
+026/075	neeh	1	n eeh
+026/077	nehd	1	n eh d
+026/079	ned	1	n e d
+026/081	neid	1	n ei d
+026/083	net	1	n e t
+026/085	neid	1	n ei d
+026/087	neht	1	n eh t
+026/089	ne	1	n e
+026/091	neig	1	n ei g
+026/093	neid	1	n ei d
+026/095	neid	1	n ei d
+026/097	neih	1	n eih
+026/099	neid	1	n ei d
+026/101	neig	1	n ei g
+026/103	neig	1	n ei g
+026/105	neig	1	n ei g
+026/107	neid	1	n ei d
+026/109	neig	1	n ei g
+026/111	neig	1	n ei g
+026/113	neig	1	n ei g
+026/115	näg	1	n ä g
+026/117	näg	1	n ä g
+026/119	näh	1	n äh
+026/123	näh	1	n äh
+026/125	näg	1	n ä g
+026/127	negg	1	n e gg
+026/129	nehj	1	n eh j
+026/131	neg	1	n e g
+026/133	näg	1	n ä g
+026/135	nej	1	n e j
+026/137	nej	1	n e j
+026/139	nej	1	n e j
+026/141	nej	1	n e j
+026/143	neg	1	n e g
+026/145	nig	1	n i g
+026/147	neg	1	n e g
+026/153	näg	1	n ä g
+026/155	nej	1	n e j
+026/157	näg	1	n ä g
+026/159	näg	1	n ä g
+026/161	neeg	1	n ee g
+026/165	nög	1	n ö g
+026/173	nei	1	n ei
+026/175	näg	1	n ä g
+026/177	nei	1	n ei
+026/179	näg	1	n ä g
+026/181	näh	1	n äh
+026/183	näh	1	n äh
+026/185	näh	1	n äh
+026/187	näh	1	n äh
+026/189	näh	1	n äh
+027/027	nei	1	n ei
+027/035	nei	1	n ei
+027/037	nei	1	n ei
+027/039	neih	1	n eih
+027/041	NA	NA	-
+027/043	nei	1	n ei
+027/045	neid	1	n ei d
+027/047	nei	1	n ei
+027/051	neih	1	n eih
+027/053	nei	1	n ei
+027/055	neih	1	n eih
+027/057	neih	1	n eih
+027/059	neih	1	n eih
+027/061	neih	1	n eih
+027/063	neih	1	n eih
+027/065	nei	1	n ei
+027/067	neih	1	n eih
+027/069	neih	1	n eih
+027/071	neih	1	n eih
+027/073	ned	1	n e d
+027/075	neht	1	n eh t
+027/077	nee	1	n ee
+027/079	neid	1	n ei d
+027/081	net	1	n e t
+027/083	ned	1	n e d
+027/085	neid	1	n ei d
+027/087	neid	1	n ei d
+027/089	neid	1	n ei d
+027/091	neid	1	n ei d
+027/093	neid	1	n ei d
+027/095	neih	1	n eih
+027/099	neig	1	n ei g
+027/101	neid	1	n ei d
+027/103	nei	1	n ei
+027/105	neih	1	n eih
+027/107	neig	1	n ei g
+027/109	neig	1	n ei g
+027/111	neig	1	n ei g
+027/113	neig	1	n ei g
+027/115	näg	1	n ä g
+027/117	näj	1	n ä j
+027/119	näg	1	n ä g
+027/123	näg	1	n ä g
+027/125	neg	1	n e g
+027/127	nej	1	n e j
+027/129	neg	1	n e g
+027/131	nehg	1	n eh g
+027/135	näj	1	n ä j
+027/137	NA	NA	-
+027/139	neeg	1	n ee g
+027/141	näg	1	n ä g
+027/143	neg	1	n e g
+027/145	neg	1	n e g
+027/147	neg	1	n e g
+027/149	neeg	1	n ee g
+027/151	näg	1	n ä g
+027/153	neg	1	n e g
+027/155	nej	1	n e j
+027/157	nääj	1	n ää j
+027/159	nehj	1	n eh j
+027/161	neg	1	n e g
+027/167	neeg	1	n ee g
+027/171	neih	1	n eih
+027/173	nei	1	n ei
+027/175	neih	1	n eih
+027/177	neih	1	n eih
+027/179	nejj	1	n e jj
+027/181	neg	1	n e g
+027/183	näh	1	n äh
+027/185	näh	1	n äh
+028/033	nei	1	n ei
+028/035	nei	1	n ei
+028/037	nei	1	n ei
+028/039	nei	1	n ei
+028/041	nei	1	n ei
+028/043	nei	1	n ei
+028/045	nei	1	n ei
+028/047	nei	1	n ei
+028/049	neih	1	n eih
+028/051	neih	1	n eih
+028/053	neih	1	n eih
+028/055	neih	1	n eih
+028/057	neih	1	n eih
+028/059	neih	1	n eih
+028/061	nai	1	n ai
+028/063	nei	1	n ei
+028/065	neih	1	n eih
+028/067	neid	1	n ei d
+028/069	nei	1	n ei
+028/071	neid	1	n ei d
+028/073	neh	1	n eh
+028/075	neeh	1	n eeh
+028/077	näd	1	n ä d
+028/079	neih	1	n eih
+028/081	neid	1	n ei d
+028/083	need	1	n ee d
+028/085	ned	1	n e d
+028/087	nei	1	n ei
+028/089	nej	1	n e j
+028/091	naj	1	n a j
+028/093	nej	1	n e j
+028/095	neid	1	n ei d
+028/097	neid	1	n ei d
+028/099	neih	1	n eih
+028/103	neih	1	n eih
+028/105	neih	1	n eih
+028/107	neig	1	n ei g
+028/109	neig	1	n ei g
+028/111	neig	1	n ei g
+028/113	neig	1	n ei g
+028/115	näg	1	n ä g
+028/117	näg	1	n ä g
+028/119	näg	1	n ä g
+028/121	näg	1	n ä g
+028/123	näg	1	n ä g
+028/125	neg	1	n e g
+028/127	neg	1	n e g
+028/129	nehj	1	n eh j
+028/131	neg	1	n e g
+028/133	neehj	1	n eeh j
+028/135	neeg	1	n ee g
+028/137	näg	1	n ä g
+028/139	neg	1	n e g
+028/141	näg	1	n ä g
+028/143	mäg	1	m ä g
+028/145	neg	1	n e g
+028/147	nehg	1	n eh g
+028/151	negg	1	n e gg
+028/153	neg	1	n e g
+028/155	neg	1	n e g
+028/157	neg	1	n e g
+028/159	näj	1	n ä j
+028/161	nehj	1	n eh j
+028/165	neg	1	n e g
+028/169	NA	NA	-
+028/171	neih	1	n eih
+028/173	nai	1	n ai
+028/175	neih	1	n eih
+028/177	näj	1	n ä j
+028/179	näj	1	n ä j
+028/181	näh	1	n äh
+028/183	neh	1	n eh
+028/185	näh	1	n äh
+029/033	nai	1	n ai
+029/035	nei	1	n ei
+029/037	nei	1	n ei
+029/039	nei	1	n ei
+029/043	nei	1	n ei
+029/045	neih	1	n eih
+029/047	neih	1	n eih
+029/049	NA	NA	-
+029/051	neih	1	n eih
+029/053	NA	NA	-
+029/055	neih	1	n eih
+029/057	neih	1	n eih
+029/059	NA	NA	-
+029/061	neih	1	n eih
+029/065	neih	1	n eih
+029/067	i	1	i
+029/069	neih	1	n eih
+029/071	nei	1	n ei
+029/073	neh	1	n eh
+029/075	näth	1	n ä t h
+029/077	neh	1	n eh
+029/079	nei	1	n ei
+029/081	neih	1	n eih
+029/083	neh	1	n eh
+029/085	nee	1	n ee
+029/087	NA	NA	-
+029/089	neh	1	n eh
+029/091	neid	1	n ei d
+029/093	neid	1	n ei d
+029/095	neid	1	n ei d
+029/097	neihd	1	n eih d
+029/099	neid	1	n ei d
+029/101	neih	1	n eih
+029/103	neih	1	n eih
+029/105	neig	1	n ei g
+029/107	neig	1	n ei g
+029/109	neig	1	n ei g
+029/111	neig	1	n ei g
+029/113	näg	1	n ä g
+029/115	näg	1	n ä g
+029/117	näg	1	n ä g
+029/119	näg	1	n ä g
+029/121	näg	1	n ä g
+029/123	näg	1	n ä g
+029/125	neg	1	n e g
+029/127	neg	1	n e g
+029/129	neg	1	n e g
+029/131	nehg	1	n eh g
+029/133	nej	1	n e j
+029/135	näg	1	n ä g
+029/137	näg	1	n ä g
+029/139	näj	1	n ä j
+029/141	näg	1	n ä g
+029/143	näj	1	n ä j
+029/145	näg	1	n ä g
+029/147	nähg	1	n äh g
+029/149	nej	1	n e j
+029/151	NA	NA	-
+029/153	näg	1	n ä g
+029/155	neg	1	n e g
+029/157	neg	1	n e g
+029/159	näj	1	n ä j
+029/161	nejch	1	n e j ch
+029/163	nej	1	n e j
+029/165	neej	1	n ee j
+029/167	nej	1	n e j
+029/169	nig	1	n i g
+029/171	neih	1	n eih
+029/173	nei	1	n ei
+029/175	nei	1	n ei
+029/177	nej	1	n e j
+029/181	näg	1	n ä g
+030/033	neij	1	n ei j
+030/035	neij	1	n ei j
+030/037	neij	1	n ei j
+030/039	nei	1	n ei
+030/041	nei	1	n ei
+030/043	neih	1	n eih
+030/045	NA	NA	-
+030/047	nei	1	n ei
+030/049	NA	NA	-
+030/051	nei	1	n ei
+030/053	neih	1	n eih
+030/055	nih	1	n ih
+030/057	neih	1	n eih
+030/059	nei	1	n ei
+030/061	neih	1	n eih
+030/065	neih	1	n eih
+030/067	nei	1	n ei
+030/071	nei	1	n ei
+030/073	nei	1	n ei
+030/075	ned	1	n e d
+030/077	neih	1	n eih
+030/079	nei	1	n ei
+030/081	nei	1	n ei
+030/083	neih	1	n eih
+030/085	NA	NA	-
+030/087	nej	1	n e j
+030/089	nehd	1	n eh d
+030/091	neid	1	n ei d
+030/093	NA	NA	-
+030/095	neih	1	n eih
+030/097	nei	1	n ei
+030/099	neig	1	n ei g
+030/101	nei	1	n ei
+030/103	neig	1	n ei g
+030/105	neig	1	n ei g
+030/107	neig	1	n ei g
+030/109	neig	1	n ei g
+030/111	neig	1	n ei g
+030/113	näg	1	n ä g
+030/115	nähg	1	n äh g
+030/117	näg	1	n ä g
+030/119	näg	1	n ä g
+030/121	näg	1	n ä g
+030/123	näg	1	n ä g
+030/125	näg	1	n ä g
+030/127	nähg	1	n äh g
+030/129	näj	1	n ä j
+030/131	neg	1	n e g
+030/133	nej	1	n e j
+030/135	näj	1	n ä j
+030/137	nig	1	n i g
+030/139	näg	1	n ä g
+030/141	näg	1	n ä g
+030/143	näg	1	n ä g
+030/145	nääg	1	n ää g
+030/147	näg	1	n ä g
+030/149	neg	1	n e g
+030/151	neg	1	n e g
+030/153	näg	1	n ä g
+030/155	neeg	1	n ee g
+030/157	nej	1	n e j
+030/159	neg	1	n e g
+030/161	näg	1	n ä g
+030/163	nej	1	n e j
+030/165	näg	1	n ä g
+030/167	näg	1	n ä g
+030/169	neih	1	n eih
+030/171	näh	1	n äh
+030/173	neih	1	n eih
+030/175	nedg	1	n e d g
+030/177	negg	1	n e gg
+030/179	negg	1	n e gg
+030/181	nij	1	n i j
+030/183	nigg	1	n i gg
+031/035	NA	NA	-
+031/037	neij	1	n ei j
+031/039	neih	1	n eih
+031/041	nei	1	n ei
+031/043	nei	1	n ei
+031/045	nei	1	n ei
+031/047	nei	1	n ei
+031/049	neih	1	n eih
+031/051	neih	1	n eih
+031/053	neih	1	n eih
+031/055	neih	1	n eih
+031/057	neih	1	n eih
+031/059	nei	1	n ei
+031/061	neih	1	n eih
+031/063	nei	1	n ei
+031/065	nei	1	n ei
+031/067	neih	1	n eih
+031/069	neih	1	n eih
+031/071	neih	1	n eih
+031/073	neih	1	n eih
+031/075	nei	1	n ei
+031/077	nei	1	n ei
+031/079	neih	1	n eih
+031/081	nei	1	n ei
+031/083	neet	1	n ee t
+031/085	ned	1	n e d
+031/087	neid	1	n ei d
+031/089	neet	1	n ee t
+031/091	neih	1	n eih
+031/093	nei	1	n ei
+031/095	naih	1	n aih
+031/097	nei	1	n ei
+031/099	neid	1	n ei d
+031/101	neid	1	n ei d
+031/103	nei	1	n ei
+031/105	neig	1	n ei g
+031/107	neig	1	n ei g
+031/109	naig	1	n ai g
+031/111	näg	1	n ä g
+031/113	näg	1	n ä g
+031/115	näj	1	n ä j
+031/117	näj	1	n ä j
+031/119	näg	1	n ä g
+031/121	näg	1	n ä g
+031/123	nähg	1	n äh g
+031/125	näg	1	n ä g
+031/127	näg	1	n ä g
+031/129	neij	1	n ei j
+031/131	näg	1	n ä g
+031/133	näj	1	n ä j
+031/135	näj	1	n ä j
+031/137	näj	1	n ä j
+031/139	näj	1	n ä j
+031/141	näg	1	n ä g
+031/143	näg	1	n ä g
+031/145	näg	1	n ä g
+031/147	nög	1	n ö g
+031/149	näg	1	n ä g
+031/151	neg	1	n e g
+031/153	neg	1	n e g
+031/155	nähg	1	n äh g
+031/157	neeg	1	n ee g
+031/159	NA	NA	-
+031/161	neg	1	n e g
+031/163	neg	1	n e g
+031/167	neih	1	n eih
+031/169	nah	1	n ah
+031/171	neh	1	n eh
+031/173	näh	1	n äh
+031/175	nigg	1	n i gg
+031/177	nigg	1	n i gg
+031/179	nig	1	n i g
+032/035	neij	1	n ei j
+032/037	ny	1	n y
+032/039	nei	1	n ei
+032/041	neih	1	n eih
+032/043	NA	NA	-
+032/045	NA	NA	-
+032/047	NA	NA	-
+032/049	nei	1	n ei
+032/051	nei	1	n ei
+032/053	neih	1	n eih
+032/055	NA	NA	-
+032/057	neih	1	n eih
+032/059	nei	1	n ei
+032/061	neih	1	n eih
+032/065	nei	1	n ei
+032/069	nei	1	n ei
+032/071	naih	1	n aih
+032/073	näih	1	n äih
+032/075	nei	1	n ei
+032/077	neih	1	n eih
+032/079	neih	1	n eih
+032/081	nai	1	n ai
+032/083	nei	1	n ei
+032/085	nei	1	n ei
+032/087	neih	1	n eih
+032/089	näh	1	n äh
+032/091	näh	1	n äh
+032/093	näh	1	n äh
+032/095	NA	NA	-
+032/097	näh	1	n äh
+032/099	näh	1	n äh
+032/101	neih	1	n eih
+032/103	neig	1	n ei g
+032/105	neih	1	n eih
+032/107	näg	1	n ä g
+032/111	näg	1	n ä g
+032/113	näg	1	n ä g
+032/115	näj	1	n ä j
+032/117	nähj	1	n äh j
+032/119	näg	1	n ä g
+032/121	näg	1	n ä g
+032/123	näg	1	n ä g
+032/125	näg	1	n ä g
+032/127	näj	1	n ä j
+032/129	näg	1	n ä g
+032/131	näj	1	n ä j
+032/133	neg	1	n e g
+032/135	näj	1	n ä j
+032/139	näj	1	n ä j
+032/141	näg	1	n ä g
+032/143	nej	1	n e j
+032/145	näg	1	n ä g
+032/147	näg	1	n ä g
+032/149	näg	1	n ä g
+032/151	neg	1	n e g
+032/153	neeg	1	n ee g
+032/157	näg	1	n ä g
+032/159	neg	1	n e g
+032/161	neej	1	n ee j
+032/163	näj	1	n ä j
+032/167	neih	1	n eih
+032/169	näh	1	n äh
+032/171	näh	1	n äh
+032/173	näh	1	n äh
+032/175	neg	1	n e g
+032/177	negg	1	n e gg
+032/179	nej	1	n e j
+032/181	neeg	1	n ee g
+032/183	neg	1	n e g
+033/035	nei	1	n ei
+033/037	nai	1	n ai
+033/039	nei	1	n ei
+033/041	nei	1	n ei
+033/043	nei	1	n ei
+033/045	NA	NA	-
+033/047	NA	NA	-
+033/049	nei	1	n ei
+033/051	nei	1	n ei
+033/053	nei	1	n ei
+033/055	neih	1	n eih
+033/057	nei	1	n ei
+033/059	neih	1	n eih
+033/061	neih	1	n eih
+033/063	NA	NA	-
+033/065	neih	1	n eih
+033/067	nei	1	n ei
+033/069	neih	1	n eih
+033/071	neih	1	n eih
+033/073	neih	1	n eih
+033/075	neih	1	n eih
+033/077	neih	1	n eih
+033/079	nei	1	n ei
+033/081	neih	1	n eih
+033/083	nei	1	n ei
+033/085	näh	1	n äh
+033/087	näh	1	n äh
+033/089	näh	1	n äh
+033/091	näh	1	n äh
+033/093	näh	1	n äh
+033/095	näh	1	n äh
+033/097	nähg	1	n äh g
+033/099	näj	1	n ä j
+033/101	nähg	1	n äh g
+033/103	nöch	1	n ö ch
+033/105	näg	1	n ä g
+033/107	näj	1	n ä j
+033/109	näg	1	n ä g
+033/111	näg	1	n ä g
+033/113	nähg	1	n äh g
+033/115	näg	1	n ä g
+033/117	nähg	1	n äh g
+033/119	näg	1	n ä g
+033/121	näg	1	n ä g
+033/123	neg	1	n e g
+033/125	näg	1	n ä g
+033/127	näg	1	n ä g
+033/129	näg	1	n ä g
+033/131	näg	1	n ä g
+033/133	näj	1	n ä j
+033/135	näj	1	n ä j
+033/137	näg	1	n ä g
+033/139	näj	1	n ä j
+033/141	näg	1	n ä g
+033/143	näj	1	n ä j
+033/145	nähj	1	n äh j
+033/147	nähj	1	n äh j
+033/149	näg	1	n ä g
+033/151	neig	1	n ei g
+033/153	näg	1	n ä g
+033/155	neeg	1	n ee g
+033/159	nej	1	n e j
+033/161	neg	1	n e g
+033/163	nehg	1	n eh g
+033/165	nähg	1	n äh g
+033/167	nehg	1	n eh g
+033/169	neg	1	n e g
+033/173	näg	1	n ä g
+033/175	neg	1	n e g
+033/177	näg	1	n ä g
+034/035	naih	1	n aih
+034/039	neih	1	n eih
+034/041	nei	1	n ei
+034/043	nai	1	n ai
+034/045	nei	1	n ei
+034/047	nei	1	n ei
+034/049	neih	1	n eih
+034/051	neih	1	n eih
+034/053	nai	1	n ai
+034/055	nei	1	n ei
+034/057	nei	1	n ei
+034/059	nei	1	n ei
+034/061	neih	1	n eih
+034/063	nei	1	n ei
+034/065	neih	1	n eih
+034/067	nei	1	n ei
+034/069	neih	1	n eih
+034/071	nei	1	n ei
+034/073	neih	1	n eih
+034/075	neih	1	n eih
+034/077	neih	1	n eih
+034/079	neih	1	n eih
+034/081	neih	1	n eih
+034/083	nei	1	n ei
+034/085	näh	1	n äh
+034/087	näh	1	n äh
+034/089	nüg	1	n ü g
+034/091	näh	1	n äh
+034/093	nähj	1	n äh j
+034/095	näg	1	n ä g
+034/097	NA	NA	-
+034/099	nähj	1	n äh j
+034/101	näg	1	n ä g
+034/103	näg	1	n ä g
+034/105	näg	1	n ä g
+034/107	näg	1	n ä g
+034/109	näj	1	n ä j
+034/111	näg	1	n ä g
+034/113	näg	1	n ä g
+034/115	NA	NA	-
+034/117	näg	1	n ä g
+034/119	näg	1	n ä g
+034/121	näg	1	n ä g
+034/125	näg	1	n ä g
+034/127	näj	1	n ä j
+034/129	näj	1	n ä j
+034/131	neg	1	n e g
+034/133	nähj	1	n äh j
+034/135	nej	1	n e j
+034/137	näj	1	n ä j
+034/139	näj	1	n ä j
+034/141	näj	1	n ä j
+034/143	näj	1	n ä j
+034/145	näj	1	n ä j
+034/147	näj	1	n ä j
+034/149	näj	1	n ä j
+034/151	näg	1	n ä g
+034/155	näg	1	n ä g
+034/157	nähj	1	n äh j
+034/161	nej	1	n e j
+034/163	neej	1	n ee j
+034/165	nägg	1	n ä gg
+034/167	nej	1	n e j
+034/169	näg	1	n ä g
+034/173	näj	1	n ä j
+035/035	nei	1	n ei
+035/037	neih	1	n eih
+035/039	nei	1	n ei
+035/041	nai	1	n ai
+035/043	neih	1	n eih
+035/045	nai	1	n ai
+035/047	nei	1	n ei
+035/049	nei	1	n ei
+035/051	nei	1	n ei
+035/053	neih	1	n eih
+035/055	neih	1	n eih
+035/057	neih	1	n eih
+035/059	neih	1	n eih
+035/061	nei	1	n ei
+035/063	neih	1	n eih
+035/065	nei	1	n ei
+035/067	naih	1	n aih
+035/069	nei	1	n ei
+035/071	nei	1	n ei
+035/073	nei	1	n ei
+035/075	neih	1	n eih
+035/077	nei	1	n ei
+035/079	neih	1	n eih
+035/081	neih	1	n eih
+035/083	neih	1	n eih
+035/085	neih	1	n eih
+035/087	näg	1	n ä g
+035/089	näg	1	n ä g
+035/091	nöch	1	n ö ch
+035/093	näh	1	n äh
+035/095	näg	1	n ä g
+035/097	näj	1	n ä j
+035/099	näj	1	n ä j
+035/101	näj	1	n ä j
+035/103	näg	1	n ä g
+035/105	nähj	1	n äh j
+035/107	näg	1	n ä g
+035/109	näg	1	n ä g
+035/111	näg	1	n ä g
+035/113	näg	1	n ä g
+035/115	näg	1	n ä g
+035/117	näj	1	n ä j
+035/121	näg	1	n ä g
+035/123	näg	1	n ä g
+035/125	nähj	1	n äh j
+035/127	näj	1	n ä j
+035/129	näj	1	n ä j
+035/133	näj	1	n ä j
+035/135	näg	1	n ä g
+035/137	nähj	1	n äh j
+035/139	näg	1	n ä g
+035/141	näj	1	n ä j
+035/143	nähj	1	n äh j
+035/145	näg	1	n ä g
+035/147	näj	1	n ä j
+035/149	näj	1	n ä j
+035/151	näg	1	n ä g
+035/153	nähg	1	n äh g
+035/155	nägh	1	n ä g h
+035/157	näg	1	n ä g
+035/165	näj	1	n ä j
+035/167	nej	1	n e j
+035/169	näg	1	n ä g
+035/171	nejj	1	n e jj
+035/173	näg	1	n ä g
+036/033	nai	1	n ai
+036/035	neih	1	n eih
+036/039	neih	1	n eih
+036/041	nei	1	n ei
+036/043	nai	1	n ai
+036/045	neih	1	n eih
+036/047	nei	1	n ei
+036/049	neih	1	n eih
+036/051	nei	1	n ei
+036/053	neih	1	n eih
+036/055	neih	1	n eih
+036/057	nei	1	n ei
+036/059	neih	1	n eih
+036/061	neih	1	n eih
+036/063	neih	1	n eih
+036/065	neih	1	n eih
+036/067	neih	1	n eih
+036/069	neih	1	n eih
+036/071	nei	1	n ei
+036/073	neih	1	n eih
+036/075	neih	1	n eih
+036/077	nei	1	n ei
+036/079	neih	1	n eih
+036/081	nei	1	n ei
+036/083	neih	1	n eih
+036/085	näh	1	n äh
+036/087	nä	1	n ä
+036/089	näh	1	n äh
+036/091	näj	1	n ä j
+036/095	näg	1	n ä g
+036/097	näg	1	n ä g
+036/099	näj	1	n ä j
+036/101	näj	1	n ä j
+036/103	näj	1	n ä j
+036/105	näg	1	n ä g
+036/107	näg	1	n ä g
+036/109	nähg	1	n äh g
+036/111	näh	1	n äh
+036/113	näh	1	n äh
+036/115	näj	1	n ä j
+036/117	näh	1	n äh
+036/119	näh	1	n äh
+036/121	näh	1	n äh
+036/123	näh	1	n äh
+036/125	nä	1	n ä
+036/127	näg	1	n ä g
+036/129	näj	1	n ä j
+036/133	nääj	1	n ää j
+036/135	näh	1	n äh
+036/137	näg	1	n ä g
+036/139	nähj	1	n äh j
+036/141	näj	1	n ä j
+036/143	näj	1	n ä j
+036/147	näg	1	n ä g
+036/149	näj	1	n ä j
+036/151	neig	1	n ei g
+036/153	näg	1	n ä g
+036/155	neg	1	n e g
+036/161	näg	1	n ä g
+036/163	neg	1	n e g
+036/165	näch	1	n ä ch
+036/167	näch	1	n ä ch
+036/169	mok	1	m o k
+036/171	nähg	1	n äh g
+037/033	nei	1	n ei
+037/035	nei	1	n ei
+037/037	neih	1	n eih
+037/039	nai	1	n ai
+037/041	neih	1	n eih
+037/043	naih	1	n aih
+037/045	nei	1	n ei
+037/047	naj	1	n a j
+037/049	neih	1	n eih
+037/051	neih	1	n eih
+037/053	neih	1	n eih
+037/055	nei	1	n ei
+037/057	maken	1	m a k e n
+037/059	nei	1	n ei
+037/061	nei	1	n ei
+037/063	neih	1	n eih
+037/065	nai	1	n ai
+037/067	nai	1	n ai
+037/069	nei	1	n ei
+037/071	neih	1	n eih
+037/073	nai	1	n ai
+037/075	neih	1	n eih
+037/077	naih	1	n aih
+037/079	naih	1	n aih
+037/081	nai	1	n ai
+037/083	näh	1	n äh
+037/085	näh	1	n äh
+037/087	näi	1	n äi
+037/089	nai	1	n ai
+037/091	näg	1	n ä g
+037/093	näj	1	n ä j
+037/095	nähj	1	n äh j
+037/097	näg	1	n ä g
+037/099	näg	1	n ä g
+037/101	näh	1	n äh
+037/105	näh	1	n äh
+037/107	näj	1	n ä j
+037/109	näh	1	n äh
+037/111	moaken	1	m oa k e n
+037/113	näah	1	n äah
+037/115	näh	1	n äh
+037/117	näh	1	n äh
+037/119	näh	1	n äh
+037/121	näh	1	n äh
+037/123	näh	1	n äh
+037/125	näh	1	n äh
+037/127	näh	1	n äh
+037/129	niäj	1	n iä j
+037/131	näg	1	n ä g
+037/133	näg	1	n ä g
+037/135	näg	1	n ä g
+037/137	näg	1	n ä g
+037/139	nähj	1	n äh j
+037/141	näj	1	n ä j
+037/145	näg	1	n ä g
+037/147	näj	1	n ä j
+037/149	neig	1	n ei g
+037/151	näg	1	n ä g
+037/153	näj	1	n ä j
+037/155	neij	1	n ei j
+037/157	näj	1	n ä j
+037/159	nej	1	n e j
+037/163	näg	1	n ä g
+037/171	negg	1	n e gg
+038/033	nai	1	n ai
+038/035	nei	1	n ei
+038/037	nei	1	n ei
+038/039	nai	1	n ai
+038/041	nai	1	n ai
+038/043	nai	1	n ai
+038/045	neih	1	n eih
+038/047	neih	1	n eih
+038/049	neih	1	n eih
+038/051	nei	1	n ei
+038/053	nai	1	n ai
+038/055	naih	1	n aih
+038/057	maken	1	m a k e n
+038/059	nei	1	n ei
+038/061	nei	1	n ei
+038/063	nei	1	n ei
+038/065	neih	1	n eih
+038/067	naih	1	n aih
+038/069	neih	1	n eih
+038/071	neih	1	n eih
+038/073	näh	1	n äh
+038/075	neih	1	n eih
+038/077	nah	1	n ah
+038/079	narh	1	n a r h
+038/081	naai	1	n aai
+038/083	naih	1	n aih
+038/085	näh	1	n äh
+038/087	nä	1	n ä
+038/089	nai	1	n ai
+038/091	näg	1	n ä g
+038/093	näg	1	n ä g
+038/095	neäj	1	n eä j
+038/097	näj	1	n ä j
+038/099	nä	1	n ä
+038/101	naäh	1	n aäh
+038/103	nä	1	n ä
+038/105	näh	1	n äh
+038/107	nääh	1	n ääh
+038/109	näh	1	n äh
+038/111	näh	1	n äh
+038/113	näh	1	n äh
+038/115	näh	1	n äh
+038/117	nähg	1	n äh g
+038/119	näh	1	n äh
+038/121	näj	1	n ä j
+038/123	näh	1	n äh
+038/125	näh	1	n äh
+038/127	nä	1	n ä
+038/129	näh	1	n äh
+038/131	näh	1	n äh
+038/133	nähj	1	n äh j
+038/135	moaken	1	m oa k e n
+038/145	näj	1	n ä j
+038/147	näg	1	n ä g
+038/149	näg	1	n ä g
+038/151	nehj	1	n eh j
+038/153	näj	1	n ä j
+038/155	näg	1	n ä g
+038/159	naj	1	n a j
+038/161	neg	1	n e g
+038/163	näg	1	n ä g
+039/029	neij	1	n ei j
+039/031	nai	1	n ai
+039/033	maken	1	m a k e n
+039/035	nei	1	n ei
+039/037	nei	1	n ei
+039/039	neih	1	n eih
+039/041	nei	1	n ei
+039/043	nei	1	n ei
+039/045	nei	1	n ei
+039/047	neih	1	n eih
+039/049	maken	1	m a k e n
+039/051	nei	1	n ei
+039/053	nei	1	n ei
+039/055	nei	1	n ei
+039/057	neih	1	n eih
+039/059	nei	1	n ei
+039/061	neih	1	n eih
+039/063	nei	1	n ei
+039/065	narr	1	n a rr
+039/067	neih	1	n eih
+039/069	nei	1	n ei
+039/071	nei	1	n ei
+039/073	naih	1	n aih
+039/075	näh	1	n äh
+039/077	nei	1	n ei
+039/079	nei	1	n ei
+039/081	neih	1	n eih
+039/083	nei	1	n ei
+039/085	näh	1	n äh
+039/087	näg	1	n ä g
+039/089	neäj	1	n eä j
+039/091	näi	1	n äi
+039/093	näh	1	n äh
+039/095	moaken	1	m oa k e n
+039/097	näh	1	n äh
+039/099	näh	1	n äh
+039/101	näh	1	n äh
+039/103	näh	1	n äh
+039/105	näh	1	n äh
+039/107	näig	1	n äi g
+039/109	nää	1	n ää
+039/111	näh	1	n äh
+039/113	näh	1	n äh
+039/115	nöi	1	n öi
+039/117	näh	1	n äh
+039/119	nähj	1	n äh j
+039/121	näh	1	n äh
+039/123	näh	1	n äh
+039/125	nääh	1	n ääh
+039/127	näh	1	n äh
+039/129	näg	1	n ä g
+039/131	näj	1	n ä j
+039/133	näh	1	n äh
+039/135	näh	1	n äh
+039/137	näh	1	n äh
+039/139	näh	1	n äh
+039/149	näj	1	n ä j
+039/151	näj	1	n ä j
+039/153	neg	1	n e g
+039/155	näj	1	n ä j
+040/029	neij	1	n ei j
+040/031	näj	1	n ä j
+040/033	nai	1	n ai
+040/035	neih	1	n eih
+040/037	naij	1	n ai j
+040/039	neih	1	n eih
+040/041	ney	1	n ey
+040/043	nai	1	n ai
+040/045	neij	1	n ei j
+040/047	nei	1	n ei
+040/049	neih	1	n eih
+040/051	nei	1	n ei
+040/053	neih	1	n eih
+040/055	nei	1	n ei
+040/057	nei	1	n ei
+040/059	neih	1	n eih
+040/061	nei	1	n ei
+040/063	nei	1	n ei
+040/065	neih	1	n eih
+040/067	maken	1	m a k e n
+040/069	neih	1	n eih
+040/071	neih	1	n eih
+040/073	nei	1	n ei
+040/075	nah	1	n ah
+040/077	nei	1	n ei
+040/079	neih	1	n eih
+040/081	neih	1	n eih
+040/083	nai	1	n ai
+040/085	naih	1	n aih
+040/087	neih	1	n eih
+040/089	näih	1	n äih
+040/091	neij	1	n ei j
+040/093	nähi	1	n ä h i
+040/095	näeh	1	n äeh
+040/097	näh	1	n äh
+040/099	näh	1	n äh
+040/101	näh	1	n äh
+040/103	näh	1	n äh
+040/105	näh	1	n äh
+040/107	neh	1	n eh
+040/109	neh	1	n eh
+040/111	näh	1	n äh
+040/113	näh	1	n äh
+040/115	näg	1	n ä g
+040/119	näh	1	n äh
+040/121	näh	1	n äh
+040/123	näh	1	n äh
+040/125	neä	1	n eä
+040/127	nähg	1	n äh g
+040/129	näh	1	n äh
+040/131	nah	1	n ah
+040/133	niä	1	n iä
+040/135	neä	1	n eä
+040/137	nah	1	n ah
+040/141	näh	1	n äh
+040/143	näh	1	n äh
+040/149	näh	1	n äh
+040/153	näg	1	n ä g
+040/155	näj	1	n ä j
+041/031	näj	1	n ä j
+041/033	näj	1	n ä j
+041/035	neih	1	n eih
+041/037	nei	1	n ei
+041/039	nei	1	n ei
+041/041	naih	1	n aih
+041/043	naih	1	n aih
+041/045	negg	1	n e gg
+041/047	nei	1	n ei
+041/049	neih	1	n eih
+041/051	nai	1	n ai
+041/053	neih	1	n eih
+041/055	neih	1	n eih
+041/057	neih	1	n eih
+041/059	nei	1	n ei
+041/061	naih	1	n aih
+041/063	näuh	1	n äuh
+041/065	naa	1	n aa
+041/067	nei	1	n ei
+041/069	neih	1	n eih
+041/071	nei	1	n ei
+041/073	neih	1	n eih
+041/075	nai	1	n ai
+041/077	nei	1	n ei
+041/079	nai	1	n ai
+041/081	neih	1	n eih
+041/083	nei	1	n ei
+041/085	nai	1	n ai
+041/087	näh	1	n äh
+041/089	näh	1	n äh
+041/091	näh	1	n äh
+041/093	näh	1	n äh
+041/095	näh	1	n äh
+041/097	näh	1	n äh
+041/099	näh	1	n äh
+041/101	näh	1	n äh
+041/103	näh	1	n äh
+041/105	näh	1	n äh
+041/107	näh	1	n äh
+041/109	näg	1	n ä g
+041/111	näj	1	n ä j
+041/113	näh	1	n äh
+041/115	näh	1	n äh
+041/117	näh	1	n äh
+041/119	näj	1	n ä j
+041/121	nä	1	n ä
+041/123	näj	1	n ä j
+041/125	neh	1	n eh
+041/127	näg	1	n ä g
+041/129	näh	1	n äh
+041/131	näh	1	n äh
+041/133	näh	1	n äh
+041/135	neh	1	n eh
+041/139	näih	1	n äih
+041/141	näh	1	n äh
+041/145	näh	1	n äh
+041/147	näh	1	n äh
+041/153	näg	1	n ä g
+041/155	näj	1	n ä j
+041/157	näh	1	n äh
+041/159	nähg	1	n äh g
+041/161	neg	1	n e g
+042/033	nei	1	n ei
+042/035	nei	1	n ei
+042/037	nai	1	n ai
+042/039	nei	1	n ei
+042/041	nai	1	n ai
+042/043	nägg	1	n ä gg
+042/045	negg	1	n e gg
+042/047	nägg	1	n ä gg
+042/051	nai	1	n ai
+042/053	nai	1	n ai
+042/055	neih	1	n eih
+042/057	naih	1	n aih
+042/059	nah	1	n ah
+042/061	nah	1	n ah
+042/063	nah	1	n ah
+042/065	nei	1	n ei
+042/067	nah	1	n ah
+042/069	nah	1	n ah
+042/071	neih	1	n eih
+042/073	neih	1	n eih
+042/075	neih	1	n eih
+042/077	neih	1	n eih
+042/079	nei	1	n ei
+042/081	nei	1	n ei
+042/083	nei	1	n ei
+042/085	neih	1	n eih
+042/087	näg	1	n ä g
+042/089	nähj	1	n äh j
+042/091	näg	1	n ä g
+042/093	näh	1	n äh
+042/095	näh	1	n äh
+042/097	nä	1	n ä
+042/099	nä	1	n ä
+042/101	näh	1	n äh
+042/103	näh	1	n äh
+042/105	neh	1	n eh
+042/107	nih	1	n ih
+042/109	näh	1	n äh
+042/111	nä	1	n ä
+042/113	näj	1	n ä j
+042/115	näj	1	n ä j
+042/117	näg	1	n ä g
+042/119	näj	1	n ä j
+042/121	näj	1	n ä j
+042/123	nä	1	n ä
+042/125	niäj	1	n iä j
+042/127	näh	1	n äh
+042/129	näch	1	n ä ch
+042/131	näh	1	n äh
+042/133	näh	1	n äh
+042/135	näh	1	n äh
+042/137	näh	1	n äh
+042/139	näh	1	n äh
+042/141	näh	1	n äh
+042/143	näh	1	n äh
+042/145	niäh	1	n iäh
+042/147	näh	1	n äh
+042/149	näh	1	n äh
+042/151	näh	1	n äh
+042/157	näj	1	n ä j
+042/159	näg	1	n ä g
+042/161	näj	1	n ä j
+043/033	maken	1	m a k e n
+043/035	naj	1	n a j
+043/037	neih	1	n eih
+043/039	naih	1	n aih
+043/041	naih	1	n aih
+043/043	nägg	1	n ä gg
+043/045	nägg	1	n ä gg
+043/047	nei	1	n ei
+043/049	nei	1	n ei
+043/051	nei	1	n ei
+043/053	nei	1	n ei
+043/055	neih	1	n eih
+043/057	nah	1	n ah
+043/059	nei	1	n ei
+043/061	nai	1	n ai
+043/063	nai	1	n ai
+043/065	nei	1	n ei
+043/067	maken	1	m a k e n
+043/069	naih	1	n aih
+043/071	naih	1	n aih
+043/073	neih	1	n eih
+043/075	naih	1	n aih
+043/077	nei	1	n ei
+043/079	neih	1	n eih
+043/081	nei	1	n ei
+043/083	neih	1	n eih
+043/085	neih	1	n eih
+043/087	neih	1	n eih
+043/089	nai	1	n ai
+043/091	nä	1	n ä
+043/093	näh	1	n äh
+043/095	näh	1	n äh
+043/097	näh	1	n äh
+043/099	näh	1	n äh
+043/101	näh	1	n äh
+043/103	näh	1	n äh
+043/105	näh	1	n äh
+043/107	näh	1	n äh
+043/109	nä	1	n ä
+043/111	näh	1	n äh
+043/113	näg	1	n ä g
+043/115	nähj	1	n äh j
+043/117	nähj	1	n äh j
+043/119	näg	1	n ä g
+043/121	näj	1	n ä j
+043/123	naich	1	n ai ch
+043/125	näh	1	n äh
+043/127	niä	1	n iä
+043/129	nieh	1	n ieh
+043/131	näg	1	n ä g
+043/133	näh	1	n äh
+043/135	machn	1	m a ch n
+043/137	niäh	1	n iäh
+043/141	näh	1	n äh
+043/143	näh	1	n äh
+043/145	naäh	1	n aäh
+043/151	näh	1	n äh
+043/153	näh	1	n äh
+043/159	näj	1	n ä j
+043/161	näg	1	n ä g
+044/033	neih	1	n eih
+044/035	neih	1	n eih
+044/039	neih	1	n eih
+044/041	nägg	1	n ä gg
+044/043	nägg	1	n ä gg
+044/045	nägg	1	n ä gg
+044/047	nei	1	n ei
+044/049	nei	1	n ei
+044/051	naig	1	n ai g
+044/053	neieg	1	n eie g
+044/055	maken	1	m a k e n
+044/057	nei	1	n ei
+044/059	na	1	n a
+044/061	nei	1	n ei
+044/063	neih	1	n eih
+044/065	nei	1	n ei
+044/067	nah	1	n ah
+044/069	naih	1	n aih
+044/071	neu	1	n eu
+044/073	nah	1	n ah
+044/075	neih	1	n eih
+044/077	neih	1	n eih
+044/079	nei	1	n ei
+044/081	neih	1	n eih
+044/083	neih	1	n eih
+044/085	neih	1	n eih
+044/087	neih	1	n eih
+044/089	näh	1	n äh
+044/091	näh	1	n äh
+044/093	näh	1	n äh
+044/095	näh	1	n äh
+044/097	näh	1	n äh
+044/099	näh	1	n äh
+044/101	näh	1	n äh
+044/103	näh	1	n äh
+044/105	näh	1	n äh
+044/107	näh	1	n äh
+044/109	näh	1	n äh
+044/111	näh	1	n äh
+044/113	nähj	1	n äh j
+044/115	näj	1	n ä j
+044/117	näj	1	n ä j
+044/119	näj	1	n ä j
+044/121	naj	1	n a j
+044/123	naj	1	n a j
+044/125	nahj	1	n ah j
+044/127	näj	1	n ä j
+044/129	näh	1	n äh
+044/131	nah	1	n ah
+044/133	näh	1	n äh
+044/135	näh	1	n äh
+044/137	näh	1	n äh
+044/141	niäh	1	n iäh
+044/143	niäh	1	n iäh
+044/145	neah	1	n eah
+044/149	machn	1	m a ch n
+044/151	niäh	1	n iäh
+044/153	näh	1	n äh
+045/033	näi	1	n äi
+045/035	nei	1	n ei
+045/037	nei	1	n ei
+045/039	nei	1	n ei
+045/041	neih	1	n eih
+045/043	nägg	1	n ä gg
+045/045	nägg	1	n ä gg
+045/047	nägg	1	n ä gg
+045/049	neig	1	n ei g
+045/051	nei	1	n ei
+045/053	nei	1	n ei
+045/055	nägg	1	n ä gg
+045/057	nah	1	n ah
+045/059	nei	1	n ei
+045/061	nä	1	n ä
+045/063	nai	1	n ai
+045/065	nei	1	n ei
+045/067	nah	1	n ah
+045/069	nah	1	n ah
+045/071	nei	1	n ei
+045/073	naih	1	n aih
+045/075	neih	1	n eih
+045/077	nei	1	n ei
+045/079	nei	1	n ei
+045/081	neih	1	n eih
+045/083	neih	1	n eih
+045/085	nei	1	n ei
+045/087	nai	1	n ai
+045/089	neih	1	n eih
+045/091	nä	1	n ä
+045/093	näh	1	n äh
+045/095	näh	1	n äh
+045/097	näh	1	n äh
+045/099	näh	1	n äh
+045/101	näh	1	n äh
+045/103	näh	1	n äh
+045/105	näh	1	n äh
+045/107	nä	1	n ä
+045/109	näh	1	n äh
+045/111	näg	1	n ä g
+045/113	nähj	1	n äh j
+045/115	näj	1	n ä j
+045/117	näg	1	n ä g
+045/119	näj	1	n ä j
+045/121	näj	1	n ä j
+045/123	naj	1	n a j
+045/125	naj	1	n a j
+045/127	niäh	1	n iäh
+045/129	nih	1	n ih
+045/131	näh	1	n äh
+045/133	machen	1	m a ch e n
+045/135	näh	1	n äh
+045/137	näh	1	n äh
+045/139	niä	1	n iä
+045/141	niäh	1	n iäh
+045/143	nah	1	n ah
+045/145	niäh	1	n iäh
+045/155	näh	1	n äh
+046/031	neijh	1	n ei j h
+046/033	neih	1	n eih
+046/035	nei	1	n ei
+046/037	neih	1	n eih
+046/039	naih	1	n aih
+046/041	naih	1	n aih
+046/043	neih	1	n eih
+046/045	nägg	1	n ä gg
+046/047	neig	1	n ei g
+046/049	naigg	1	n ai gg
+046/051	naijj	1	n ai jj
+046/053	naigg	1	n ai gg
+046/055	nagg	1	n a gg
+046/057	nägg	1	n ä gg
+046/059	nei	1	n ei
+046/061	nai	1	n ai
+046/063	nai	1	n ai
+046/065	naih	1	n aih
+046/067	nei	1	n ei
+046/069	neih	1	n eih
+046/071	nei	1	n ei
+046/073	naih	1	n aih
+046/075	nei	1	n ei
+046/077	neih	1	n eih
+046/079	nei	1	n ei
+046/081	neih	1	n eih
+046/083	neih	1	n eih
+046/085	nei	1	n ei
+046/087	nei	1	n ei
+046/089	näj	1	n ä j
+046/091	näh	1	n äh
+046/093	näh	1	n äh
+046/095	näh	1	n äh
+046/097	näh	1	n äh
+046/099	näh	1	n äh
+046/101	näh	1	n äh
+046/103	moaken	1	m oa k e n
+046/105	näh	1	n äh
+046/107	näg	1	n ä g
+046/109	näh	1	n äh
+046/111	näh	1	n äh
+046/113	näj	1	n ä j
+046/115	näch	1	n ä ch
+046/117	neh	1	n eh
+046/119	näj	1	n ä j
+046/121	näj	1	n ä j
+046/123	naij	1	n ai j
+046/125	naj	1	n a j
+046/127	niäh	1	n iäh
+046/129	näh	1	n äh
+046/131	nieh	1	n ieh
+046/133	näh	1	n äh
+046/135	niä	1	n iä
+046/137	näh	1	n äh
+046/139	niä	1	n iä
+046/141	näh	1	n äh
+046/143	niäh	1	n iäh
+046/155	näh	1	n äh
+047/031	neij	1	n ei j
+047/033	nei	1	n ei
+047/035	nai	1	n ai
+047/037	nai	1	n ai
+047/039	naih	1	n aih
+047/041	naih	1	n aih
+047/043	neih	1	n eih
+047/045	nai	1	n ai
+047/047	nagg	1	n a gg
+047/049	niaig	1	n iai g
+047/051	neij	1	n ei j
+047/053	naigg	1	n ai gg
+047/055	nägg	1	n ä gg
+047/057	naijj	1	n ai jj
+047/059	nei	1	n ei
+047/061	neih	1	n eih
+047/063	nei	1	n ei
+047/065	neih	1	n eih
+047/067	naih	1	n aih
+047/069	nah	1	n ah
+047/071	nai	1	n ai
+047/073	nai	1	n ai
+047/075	näih	1	n äih
+047/077	nei	1	n ei
+047/079	nei	1	n ei
+047/081	neih	1	n eih
+047/083	nei	1	n ei
+047/085	nei	1	n ei
+047/087	nei	1	n ei
+047/089	nei	1	n ei
+047/091	neig	1	n ei g
+047/093	näh	1	n äh
+047/095	näh	1	n äh
+047/097	nä	1	n ä
+047/099	nä	1	n ä
+047/101	näh	1	n äh
+047/103	näh	1	n äh
+047/105	nähj	1	n äh j
+047/107	nähg	1	n äh g
+047/109	nähj	1	n äh j
+047/111	näj	1	n ä j
+047/113	näh	1	n äh
+047/115	näh	1	n äh
+047/117	näj	1	n ä j
+047/119	näj	1	n ä j
+047/123	naj	1	n a j
+047/125	nahj	1	n ah j
+047/127	niäh	1	n iäh
+047/129	NA	NA	-
+047/131	niah	1	n iah
+047/133	niah	1	n iah
+047/135	näh	1	n äh
+047/137	näh	1	n äh
+047/139	niäh	1	n iäh
+047/141	niäh	1	n iäh
+047/147	niäh	1	n iäh
+047/149	niäh	1	n iäh
+047/151	niäh	1	n iäh
+047/159	näh	1	n äh
+048/021	nähj	1	n äh j
+048/023	näj	1	n ä j
+048/027	näij	1	n äi j
+048/029	neih	1	n eih
+048/031	naih	1	n aih
+048/033	nei	1	n ei
+048/035	nei	1	n ei
+048/037	nei	1	n ei
+048/039	naih	1	n aih
+048/041	neih	1	n eih
+048/045	nai	1	n ai
+048/047	neih	1	n eih
+048/049	nagg	1	n a gg
+048/051	naj	1	n a j
+048/053	nagj	1	n a g j
+048/055	najj	1	n a jj
+048/057	nagg	1	n a gg
+048/059	nai	1	n ai
+048/061	neih	1	n eih
+048/063	neih	1	n eih
+048/065	nei	1	n ei
+048/067	neih	1	n eih
+048/069	nei	1	n ei
+048/071	neh	1	n eh
+048/073	neih	1	n eih
+048/075	neih	1	n eih
+048/077	neih	1	n eih
+048/079	neih	1	n eih
+048/081	neih	1	n eih
+048/083	neih	1	n eih
+048/085	neih	1	n eih
+048/087	neih	1	n eih
+048/089	näh	1	n äh
+048/091	näh	1	n äh
+048/093	näh	1	n äh
+048/095	näj	1	n ä j
+048/099	neh	1	n eh
+048/101	näj	1	n ä j
+048/103	näj	1	n ä j
+048/105	nähg	1	n äh g
+048/107	näj	1	n ä j
+048/109	näj	1	n ä j
+048/111	nääij	1	n ääi j
+048/113	näj	1	n ä j
+048/115	näj	1	n ä j
+048/119	näh	1	n äh
+048/123	nehj	1	n eh j
+048/125	nag	1	n a g
+048/127	näh	1	n äh
+048/129	näh	1	n äh
+048/131	näh	1	n äh
+048/133	niah	1	n iah
+048/135	niäh	1	n iäh
+048/137	machen	1	m a ch e n
+048/139	nie	1	n ie
+048/141	niäh	1	n iäh
+048/143	niä	1	n iä
+048/145	niä	1	n iä
+048/147	niäh	1	n iäh
+048/153	niäh	1	n iäh
+048/157	njä	1	n j ä
+048/159	niä	1	n iä
+049/019	näj	1	n ä j
+049/021	näj	1	n ä j
+049/023	neij	1	n ei j
+049/025	neih	1	n eih
+049/027	näi	1	n äi
+049/029	nei	1	n ei
+049/031	nei	1	n ei
+049/033	nai	1	n ai
+049/035	nei	1	n ei
+049/037	nei	1	n ei
+049/039	nai	1	n ai
+049/041	niech	1	n ie ch
+049/043	nei	1	n ei
+049/045	NA	NA	-
+049/047	nägg	1	n ä gg
+049/049	nagg	1	n a gg
+049/051	nägg	1	n ä gg
+049/053	nägg	1	n ä gg
+049/055	nägg	1	n ä gg
+049/057	nägg	1	n ä gg
+049/059	nägg	1	n ä gg
+049/061	neih	1	n eih
+049/063	nei	1	n ei
+049/065	neih	1	n eih
+049/067	näh	1	n äh
+049/069	neig	1	n ei g
+049/071	nehg	1	n eh g
+049/073	nea	1	n ea
+049/077	naih	1	n aih
+049/079	nei	1	n ei
+049/081	neih	1	n eih
+049/083	neih	1	n eih
+049/085	neih	1	n eih
+049/087	neh	1	n eh
+049/089	neh	1	n eh
+049/091	ne	1	n e
+049/093	neh	1	n eh
+049/095	neh	1	n eh
+049/097	neh	1	n eh
+049/099	ne	1	n e
+049/101	neh	1	n eh
+049/103	näh	1	n äh
+049/105	neh	1	n eh
+049/107	neh	1	n eh
+049/109	näg	1	n ä g
+049/111	näg	1	n ä g
+049/113	näh	1	n äh
+049/115	näh	1	n äh
+049/117	näh	1	n äh
+049/119	näh	1	n äh
+049/121	näh	1	n äh
+049/123	näh	1	n äh
+049/125	naj	1	n a j
+049/127	näh	1	n äh
+049/129	näh	1	n äh
+049/131	näh	1	n äh
+049/133	näh	1	n äh
+049/135	ni	1	n i
+049/137	niäh	1	n iäh
+049/139	niäh	1	n iäh
+049/141	niäh	1	n iäh
+049/143	niäh	1	n iäh
+049/145	nieh	1	n ieh
+049/147	näh	1	n äh
+049/151	näh	1	n äh
+050/021	neij	1	n ei j
+050/023	näh	1	n äh
+050/025	näj	1	n ä j
+050/027	näh	1	n äh
+050/029	näh	1	n äh
+050/031	näj	1	n ä j
+050/033	neih	1	n eih
+050/035	nai	1	n ai
+050/037	nei	1	n ei
+050/039	neih	1	n eih
+050/041	neih	1	n eih
+050/043	neih	1	n eih
+050/047	nägg	1	n ä gg
+050/049	näg	1	n ä g
+050/051	nägg	1	n ä gg
+050/053	niägg	1	n iä gg
+050/055	NA	NA	-
+050/057	näjj	1	n ä jj
+050/059	negg	1	n e gg
+050/061	nägg	1	n ä gg
+050/063	näg	1	n ä g
+050/065	näg	1	n ä g
+050/067	nah	1	n ah
+050/069	näg	1	n ä g
+050/071	nehg	1	n eh g
+050/073	neg	1	n e g
+050/075	nea	1	n ea
+050/077	neig	1	n ei g
+050/079	neh	1	n eh
+050/081	neh	1	n eh
+050/083	nei	1	n ei
+050/085	neh	1	n eh
+050/087	neh	1	n eh
+050/089	nieh	1	n ieh
+050/091	neh	1	n eh
+050/093	nee	1	n ee
+050/095	neh	1	n eh
+050/097	näh	1	n äh
+050/099	neh	1	n eh
+050/101	neh	1	n eh
+050/103	ne	1	n e
+050/105	neh	1	n eh
+050/107	neh	1	n eh
+050/109	neh	1	n eh
+050/111	näh	1	n äh
+050/113	neh	1	n eh
+050/115	näj	1	n ä j
+050/117	neh	1	n eh
+050/119	neh	1	n eh
+050/121	neh	1	n eh
+050/125	näh	1	n äh
+050/127	näh	1	n äh
+050/129	niah	1	n iah
+050/131	näh	1	n äh
+050/133	nieh	1	n ieh
+050/135	niäh	1	n iäh
+050/137	niäh	1	n iäh
+050/139	niäh	1	n iäh
+050/141	niäh	1	n iäh
+050/143	niäh	1	n iäh
+050/145	näh	1	n äh
+050/147	niäh	1	n iäh
+050/149	näh	1	n äh
+050/151	niä	1	n iä
+050/155	niäh	1	n iäh
+050/157	näh	1	n äh
+050/159	niä	1	n iä
+050/161	niäh	1	n iäh
+051/023	näh	1	n äh
+051/025	näj	1	n ä j
+051/027	näj	1	n ä j
+051/029	nähj	1	n äh j
+051/031	näh	1	n äh
+051/033	naih	1	n aih
+051/035	nai	1	n ai
+051/037	neih	1	n eih
+051/039	neih	1	n eih
+051/041	naig	1	n ai g
+051/043	näj	1	n ä j
+051/045	nägg	1	n ä gg
+051/047	nägg	1	n ä gg
+051/049	nägg	1	n ä gg
+051/051	nägg	1	n ä gg
+051/053	näig	1	n äi g
+051/055	nägg	1	n ä gg
+051/057	nägg	1	n ä gg
+051/059	negg	1	n e gg
+051/061	negg	1	n e gg
+051/063	naeg	1	n ae g
+051/065	näg	1	n ä g
+051/067	näg	1	n ä g
+051/069	näg	1	n ä g
+051/071	nä	1	n ä
+051/073	näg	1	n ä g
+051/075	neh	1	n eh
+051/077	naj	1	n a j
+051/079	neh	1	n eh
+051/081	neh	1	n eh
+051/083	neh	1	n eh
+051/085	nieh	1	n ieh
+051/087	niih	1	n iih
+051/089	neh	1	n eh
+051/091	neh	1	n eh
+051/093	neh	1	n eh
+051/095	ne	1	n e
+051/097	neh	1	n eh
+051/099	näh	1	n äh
+051/101	neh	1	n eh
+051/103	ne	1	n e
+051/105	neh	1	n eh
+051/107	neh	1	n eh
+051/109	neh	1	n eh
+051/111	neh	1	n eh
+051/113	neh	1	n eh
+051/115	näh	1	n äh
+051/117	näh	1	n äh
+051/119	ne	1	n e
+051/121	näh	1	n äh
+051/123	neh	1	n eh
+051/125	niä	1	n iä
+051/127	niäh	1	n iäh
+051/129	nih	1	n ih
+051/131	näh	1	n äh
+051/133	niäh	1	n iäh
+051/135	ni	1	n i
+051/137	nä	1	n ä
+051/139	ni	1	n i
+051/141	nie	1	n ie
+051/143	niäh	1	n iäh
+051/145	niä	1	n iä
+051/147	niäh	1	n iäh
+051/149	niäh	1	n iäh
+051/151	niäh	1	n iäh
+051/153	niäh	1	n iäh
+051/155	näih	1	n äih
+051/157	niäh	1	n iäh
+052/023	näj	1	n ä j
+052/025	näej	1	n äe j
+052/027	näij	1	n äi j
+052/029	näj	1	n ä j
+052/031	neih	1	n eih
+052/033	nei	1	n ei
+052/035	nei	1	n ei
+052/037	nai	1	n ai
+052/039	naig	1	n ai g
+052/041	neig	1	n ei g
+052/043	negg	1	n e gg
+052/045	nägg	1	n ä gg
+052/047	nägg	1	n ä gg
+052/049	negg	1	n e gg
+052/051	näjj	1	n ä jj
+052/053	nägg	1	n ä gg
+052/057	negg	1	n e gg
+052/059	nägg	1	n ä gg
+052/061	nägg	1	n ä gg
+052/063	näg	1	n ä g
+052/065	näg	1	n ä g
+052/067	näj	1	n ä j
+052/069	näj	1	n ä j
+052/071	näh	1	n äh
+052/073	nah	1	n ah
+052/075	näh	1	n äh
+052/077	neh	1	n eh
+052/079	näh	1	n äh
+052/081	näh	1	n äh
+052/083	nie	1	n ie
+052/085	nie	1	n ie
+052/087	nih	1	n ih
+052/089	nieh	1	n ieh
+052/091	neh	1	n eh
+052/093	nieh	1	n ieh
+052/095	neh	1	n eh
+052/097	ne	1	n e
+052/099	neh	1	n eh
+052/101	neh	1	n eh
+052/103	neh	1	n eh
+052/105	ne	1	n e
+052/107	neh	1	n eh
+052/109	neh	1	n eh
+052/111	neeh	1	n eeh
+052/113	neh	1	n eh
+052/115	machen	1	m a ch e n
+052/117	näh	1	n äh
+052/121	näh	1	n äh
+052/123	näh	1	n äh
+052/125	näh	1	n äh
+052/127	niäh	1	n iäh
+052/129	niäh	1	n iäh
+052/131	nieh	1	n ieh
+052/133	niäh	1	n iäh
+052/135	näh	1	n äh
+052/137	niäh	1	n iäh
+052/139	nih	1	n ih
+052/141	nih	1	n ih
+052/143	nih	1	n ih
+052/145	näh	1	n äh
+052/147	niäh	1	n iäh
+052/149	ni	1	n i
+052/151	niäh	1	n iäh
+052/153	näh	1	n äh
+052/155	nah	1	n ah
+052/157	näh	1	n äh
+052/159	näh	1	n äh
+053/023	neij	1	n ei j
+053/025	näh	1	n äh
+053/027	neij	1	n ei j
+053/029	neei	1	n eei
+053/031	näi	1	n äi
+053/033	nai	1	n ai
+053/035	naih	1	n aih
+053/037	neig	1	n ei g
+053/039	niag	1	n ia g
+053/041	maken	1	m a k e n
+053/043	nägg	1	n ä gg
+053/045	näjj	1	n ä jj
+053/047	nägg	1	n ä gg
+053/049	nägg	1	n ä gg
+053/051	näch	1	n ä ch
+053/053	nägg	1	n ä gg
+053/055	nägg	1	n ä gg
+053/057	nägg	1	n ä gg
+053/059	neigg	1	n ei gg
+053/061	neigg	1	n ei gg
+053/063	nähj	1	n äh j
+053/065	näg	1	n ä g
+053/067	näg	1	n ä g
+053/069	näj	1	n ä j
+053/071	nääj	1	n ää j
+053/073	näj	1	n ä j
+053/075	näh	1	n äh
+053/077	näw	1	n ä w
+053/079	näh	1	n äh
+053/081	nieh	1	n ieh
+053/083	nih	1	n ih
+053/085	neh	1	n eh
+053/087	nieh	1	n ieh
+053/089	nieh	1	n ieh
+053/091	näh	1	n äh
+053/093	nieh	1	n ieh
+053/095	neh	1	n eh
+053/097	neh	1	n eh
+053/099	nih	1	n ih
+053/101	nieh	1	n ieh
+053/103	näh	1	n äh
+053/105	nie	1	n ie
+053/107	nah	1	n ah
+053/109	nih	1	n ih
+053/111	nih	1	n ih
+053/113	näh	1	n äh
+053/115	näh	1	n äh
+053/121	neh	1	n eh
+053/123	niäh	1	n iäh
+053/125	näh	1	n äh
+053/127	niäh	1	n iäh
+053/129	niäh	1	n iäh
+053/131	niä	1	n iä
+053/133	nih	1	n ih
+053/135	näh	1	n äh
+053/137	niäh	1	n iäh
+053/139	näh	1	n äh
+053/141	nieh	1	n ieh
+053/143	niäh	1	n iäh
+053/145	nieh	1	n ieh
+053/147	näh	1	n äh
+053/149	niäh	1	n iäh
+053/151	niäh	1	n iäh
+053/153	näh	1	n äh
+053/155	näh	1	n äh
+053/157	niäh	1	n iäh
+054/023	ni	1	n i
+054/025	neih	1	n eih
+054/027	nee	1	n ee
+054/029	neh	1	n eh
+054/031	nei	1	n ei
+054/033	nei	1	n ei
+054/035	maken	1	m a k e n
+054/037	nägg	1	n ä gg
+054/039	neig	1	n ei g
+054/041	neig	1	n ei g
+054/043	nägg	1	n ä gg
+054/045	näjj	1	n ä jj
+054/047	nägg	1	n ä gg
+054/049	nägg	1	n ä gg
+054/051	nägg	1	n ä gg
+054/053	nägg	1	n ä gg
+054/055	nägg	1	n ä gg
+054/057	nägg	1	n ä gg
+054/059	naij	1	n ai j
+054/061	nä	1	n ä
+054/063	neh	1	n eh
+054/065	näg	1	n ä g
+054/067	neh	1	n eh
+054/069	neh	1	n eh
+054/071	näh	1	n äh
+054/073	näh	1	n äh
+054/075	nää	1	n ää
+054/077	näh	1	n äh
+054/079	neh	1	n eh
+054/081	nieh	1	n ieh
+054/083	nieh	1	n ieh
+054/085	nieh	1	n ieh
+054/087	nih	1	n ih
+054/089	nieh	1	n ieh
+054/091	nie	1	n ie
+054/093	nieh	1	n ieh
+054/095	näh	1	n äh
+054/097	nä	1	n ä
+054/099	näh	1	n äh
+054/101	näh	1	n äh
+054/103	ne	1	n e
+054/105	nieh	1	n ieh
+054/107	niä	1	n iä
+054/109	nih	1	n ih
+054/111	niäh	1	n iäh
+054/113	niäh	1	n iäh
+054/115	niäh	1	n iäh
+054/117	näh	1	n äh
+054/119	näh	1	n äh
+054/121	näh	1	n äh
+054/123	näh	1	n äh
+054/125	niäh	1	n iäh
+054/127	näh	1	n äh
+054/131	näh	1	n äh
+054/133	niäh	1	n iäh
+054/135	ni	1	n i
+054/137	nieah	1	n ieah
+054/139	niä	1	n iä
+054/141	niäh	1	n iäh
+054/143	niäh	1	n iäh
+054/145	niä	1	n iä
+054/147	nih	1	n ih
+054/149	niäh	1	n iäh
+054/151	niäh	1	n iäh
+054/153	niäh	1	n iäh
+054/155	näh	1	n äh
+054/157	näh	1	n äh
+054/159	näh	1	n äh
+054/161	näh	1	n äh
+054/163	näg	1	n ä g
+055/023	ni	1	n i
+055/025	niö	1	n iö
+055/027	nie	1	n ie
+055/029	niö	1	n iö
+055/031	nie	1	n ie
+055/033	nei	1	n ei
+055/035	näh	1	n äh
+055/037	näg	1	n ä g
+055/039	nääg	1	n ää g
+055/041	naaig	1	n aai g
+055/043	nägg	1	n ä gg
+055/045	näjj	1	n ä jj
+055/047	nägg	1	n ä gg
+055/049	nägg	1	n ä gg
+055/051	nägg	1	n ä gg
+055/053	näjj	1	n ä jj
+055/055	nägg	1	n ä gg
+055/057	nägg	1	n ä gg
+055/059	mahken	1	m ah k e n
+055/061	näh	1	n äh
+055/063	nä	1	n ä
+055/065	näh	1	n äh
+055/067	neih	1	n eih
+055/069	neh	1	n eh
+055/071	neeh	1	n eeh
+055/073	näh	1	n äh
+055/075	nöi	1	n öi
+055/077	näi	1	n äi
+055/079	näih	1	n äih
+055/081	neh	1	n eh
+055/083	näi	1	n äi
+055/085	nih	1	n ih
+055/087	flicke	1	f l i ck e
+055/089	näh	1	n äh
+055/091	nih	1	n ih
+055/093	nieh	1	n ieh
+055/095	nieh	1	n ieh
+055/097	neh	1	n eh
+055/099	machen	1	m a ch e n
+055/101	näh	1	n äh
+055/103	neh	1	n eh
+055/105	nii	1	n ii
+055/107	nieh	1	n ieh
+055/109	nih	1	n ih
+055/111	niäh	1	n iäh
+055/113	niäh	1	n iäh
+055/115	näh	1	n äh
+055/117	näh	1	n äh
+055/119	machen	1	m a ch e n
+055/123	njäh	1	n j äh
+055/125	näh	1	n äh
+055/127	ni	1	n i
+055/131	näh	1	n äh
+055/133	niä	1	n iä
+055/135	machn	1	m a ch n
+055/137	machn	1	m a ch n
+055/139	niäh	1	n iäh
+055/141	niäh	1	n iäh
+055/143	nieh	1	n ieh
+055/145	nieh	1	n ieh
+055/147	niäh	1	n iäh
+055/149	näh	1	n äh
+055/151	näh	1	n äh
+055/153	nih	1	n ih
+055/155	näh	1	n äh
+055/157	näh	1	n äh
+055/159	niäh	1	n iäh
+055/161	näh	1	n äh
+056/021	nie	1	n ie
+056/023	nih	1	n ih
+056/025	nie	1	n ie
+056/027	maken	1	m a k e n
+056/029	nii	1	n ii
+056/031	neh	1	n eh
+056/033	neh	1	n eh
+056/035	nei	1	n ei
+056/037	näg	1	n ä g
+056/039	näg	1	n ä g
+056/041	näg	1	n ä g
+056/043	nägg	1	n ä gg
+056/045	nägg	1	n ä gg
+056/047	nägg	1	n ä gg
+056/049	maken	1	m a k e n
+056/051	nägg	1	n ä gg
+056/053	nägg	1	n ä gg
+056/055	nägg	1	n ä gg
+056/057	nägg	1	n ä gg
+056/059	näh	1	n äh
+056/061	neh	1	n eh
+056/063	neh	1	n eh
+056/065	neh	1	n eh
+056/067	nih	1	n ih
+056/069	neh	1	n eh
+056/071	nieh	1	n ieh
+056/073	nieh	1	n ieh
+056/075	nih	1	n ih
+056/077	niäh	1	n iäh
+056/079	nieh	1	n ieh
+056/081	näi	1	n äi
+056/083	nieh	1	n ieh
+056/085	flicke	1	f l i ck e
+056/087	flecke	1	f l e ck e
+056/089	flicke	1	f l i ck e
+056/091	nie	1	n ie
+056/093	nieh	1	n ieh
+056/095	mache	1	m a ch e
+056/097	näh	1	n äh
+056/099	näh	1	n äh
+056/101	ni	1	n i
+056/103	neh	1	n eh
+056/105	nih	1	n ih
+056/107	nih	1	n ih
+056/109	nih	1	n ih
+056/111	nieh	1	n ieh
+056/113	näh	1	n äh
+056/115	näh	1	n äh
+056/117	njäh	1	n j äh
+056/121	näh	1	n äh
+056/123	näh	1	n äh
+056/125	niiäh	1	n iiäh
+056/127	näh	1	n äh
+056/129	näh	1	n äh
+056/131	nii	1	n ii
+056/133	niäh	1	n iäh
+056/135	nih	1	n ih
+056/137	niäh	1	n iäh
+056/139	näh	1	n äh
+056/141	niah	1	n iah
+056/143	nieh	1	n ieh
+056/145	niäh	1	n iäh
+056/147	näh	1	n äh
+056/149	ne	1	n e
+056/151	niäh	1	n iäh
+056/153	näih	1	n äih
+056/155	näh	1	n äh
+056/157	näh	1	n äh
+056/159	näh	1	n äh
+056/161	niäh	1	n iäh
+057/021	nih	1	n ih
+057/023	ni	1	n i
+057/025	ni	1	n i
+057/027	nie	1	n ie
+057/029	nih	1	n ih
+057/031	nä	1	n ä
+057/033	näh	1	n äh
+057/035	nä	1	n ä
+057/037	näj	1	n ä j
+057/039	nä	1	n ä
+057/041	nä	1	n ä
+057/043	nägg	1	n ä gg
+057/045	neigg	1	n ei gg
+057/047	näegg	1	n äe gg
+057/049	nägg	1	n ä gg
+057/051	neh	1	n eh
+057/053	näjj	1	n ä jj
+057/055	näh	1	n äh
+057/057	neh	1	n eh
+057/059	neh	1	n eh
+057/061	neh	1	n eh
+057/063	neh	1	n eh
+057/065	neh	1	n eh
+057/067	neh	1	n eh
+057/069	neh	1	n eh
+057/071	neh	1	n eh
+057/073	nieh	1	n ieh
+057/075	niah	1	n iah
+057/077	nieh	1	n ieh
+057/079	nieh	1	n ieh
+057/081	niä	1	n iä
+057/083	neh	1	n eh
+057/085	nieh	1	n ieh
+057/087	flicke	1	f l i ck e
+057/089	flicke	1	f l i ck e
+057/091	nih	1	n ih
+057/093	näh	1	n äh
+057/095	nih	1	n ih
+057/097	nieh	1	n ieh
+057/099	näh	1	n äh
+057/101	neh	1	n eh
+057/103	neh	1	n eh
+057/105	näh	1	n äh
+057/107	näh	1	n äh
+057/109	näh	1	n äh
+057/111	machn	1	m a ch n
+057/113	neh	1	n eh
+057/115	näh	1	n äh
+057/117	näh	1	n äh
+057/119	njäh	1	n j äh
+057/121	niäh	1	n iäh
+057/123	näh	1	n äh
+057/125	niäh	1	n iäh
+057/127	näh	1	n äh
+057/129	näh	1	n äh
+057/131	niäh	1	n iäh
+057/133	niäh	1	n iäh
+057/135	niäh	1	n iäh
+057/137	macha	1	m a ch a
+057/139	niäh	1	n iäh
+057/141	nieh	1	n ieh
+057/143	nieh	1	n ieh
+057/145	niäh	1	n iäh
+057/147	niäh	1	n iäh
+057/149	nä	1	n ä
+057/151	niah	1	n iah
+057/153	näh	1	n äh
+057/155	näh	1	n äh
+057/157	man	1	m a n
+057/159	näh	1	n äh
+057/161	näh	1	n äh
+058/019	nih	1	n ih
+058/021	nieh	1	n ieh
+058/023	nieh	1	n ieh
+058/025	nie	1	n ie
+058/027	nih	1	n ih
+058/029	nie	1	n ie
+058/031	nieh	1	n ieh
+058/033	näh	1	n äh
+058/035	näj	1	n ä j
+058/037	näh	1	n äh
+058/039	näg	1	n ä g
+058/041	näh	1	n äh
+058/043	neg	1	n e g
+058/045	nägg	1	n ä gg
+058/047	neh	1	n eh
+058/049	neh	1	n eh
+058/051	neh	1	n eh
+058/053	neh	1	n eh
+058/055	näh	1	n äh
+058/057	neh	1	n eh
+058/059	neh	1	n eh
+058/061	neh	1	n eh
+058/063	neh	1	n eh
+058/065	neh	1	n eh
+058/067	neh	1	n eh
+058/069	näh	1	n äh
+058/071	nieb	1	n ie b
+058/073	nieb	1	n ie b
+058/075	nii	1	n ii
+058/077	nieh	1	n ieh
+058/079	nia	1	n ia
+058/081	nieh	1	n ieh
+058/083	nieh	1	n ieh
+058/085	nieh	1	n ieh
+058/087	nieh	1	n ieh
+058/089	nieh	1	n ieh
+058/091	nii	1	n ii
+058/093	nieh	1	n ieh
+058/095	nieh	1	n ieh
+058/097	nih	1	n ih
+058/099	näh	1	n äh
+058/101	näh	1	n äh
+058/103	niäh	1	n iäh
+058/105	neh	1	n eh
+058/107	näh	1	n äh
+058/109	näh	1	n äh
+058/111	näh	1	n äh
+058/113	ne	1	n e
+058/115	näh	1	n äh
+058/117	näh	1	n äh
+058/119	näh	1	n äh
+058/121	machn	1	m a ch n
+058/123	näh	1	n äh
+058/125	näh	1	n äh
+058/127	niäh	1	n iäh
+058/129	niäh	1	n iäh
+058/131	nih	1	n ih
+058/133	näah	1	n äah
+058/135	niah	1	n iah
+058/137	nih	1	n ih
+058/139	nieh	1	n ieh
+058/141	niäh	1	n iäh
+058/143	näh	1	n äh
+058/145	niäh	1	n iäh
+058/147	nie	1	n ie
+058/149	näh	1	n äh
+058/151	näh	1	n äh
+058/153	niäh	1	n iäh
+058/155	näh	1	n äh
+058/157	niäh	1	n iäh
+058/159	niäh	1	n iäh
+059/019	nieh	1	n ieh
+059/021	make	1	m a k e
+059/023	nie	1	n ie
+059/025	nigg	1	n i gg
+059/027	nie	1	n ie
+059/029	nie	1	n ie
+059/031	nieh	1	n ieh
+059/033	näh	1	n äh
+059/035	näg	1	n ä g
+059/037	näg	1	n ä g
+059/039	näh	1	n äh
+059/041	nee	1	n ee
+059/043	näj	1	n ä j
+059/045	näg	1	n ä g
+059/047	neh	1	n eh
+059/049	neh	1	n eh
+059/051	nieh	1	n ieh
+059/053	mache	1	m a ch e
+059/055	neh	1	n eh
+059/057	neh	1	n eh
+059/059	neh	1	n eh
+059/061	neh	1	n eh
+059/063	neh	1	n eh
+059/065	mach	1	m a ch
+059/067	neh	1	n eh
+059/069	neh	1	n eh
+059/071	neb	1	n e b
+059/073	nieb	1	n ie b
+059/075	nieb	1	n ie b
+059/077	neh	1	n eh
+059/079	nih	1	n ih
+059/081	nih	1	n ih
+059/083	nieh	1	n ieh
+059/085	nieh	1	n ieh
+059/087	neh	1	n eh
+059/089	flicke	1	f l i ck e
+059/091	näh	1	n äh
+059/093	flicke	1	f l i ck e
+059/095	flicke	1	f l i ck e
+059/097	nieh	1	n ieh
+059/099	flicke	1	f l i ck e
+059/101	neh	1	n eh
+059/103	machn	1	m a ch n
+059/105	neh	1	n eh
+059/107	näh	1	n äh
+059/109	machn	1	m a ch n
+059/111	machn	1	m a ch n
+059/113	näh	1	n äh
+059/115	naah	1	n aah
+059/117	neh	1	n eh
+059/119	näh	1	n äh
+059/121	näh	1	n äh
+059/123	näh	1	n äh
+059/125	näh	1	n äh
+059/127	njäh	1	n j äh
+059/129	neäh	1	n eäh
+059/131	njä	1	n j ä
+059/133	näh	1	n äh
+059/135	neh	1	n eh
+059/137	näh	1	n äh
+059/139	niäh	1	n iäh
+059/141	näh	1	n äh
+059/143	näh	1	n äh
+059/145	niäh	1	n iäh
+059/147	niä	1	n iä
+059/149	niäh	1	n iäh
+059/151	näh	1	n äh
+059/153	niäh	1	n iäh
+059/155	näh	1	n äh
+059/157	niäh	1	n iäh
+059/159	näh	1	n äh
+059/161	näh	1	n äh
+059/165	ne	1	n e
+059/169	näh	1	n äh
+060/021	nieh	1	n ieh
+060/023	nia	1	n ia
+060/025	nid	1	n i d
+060/027	nij	1	n i j
+060/029	nieh	1	n ieh
+060/031	nijj	1	n i jj
+060/033	ni	1	n i
+060/035	niäh	1	n iäh
+060/037	näh	1	n äh
+060/039	näh	1	n äh
+060/041	när	1	n ä r
+060/043	näh	1	n äh
+060/045	näh	1	n äh
+060/047	neh	1	n eh
+060/049	nehj	1	n eh j
+060/051	nih	1	n ih
+060/053	nig	1	n i g
+060/055	näh	1	n äh
+060/057	neh	1	n eh
+060/059	näh	1	n äh
+060/061	neh	1	n eh
+060/063	näh	1	n äh
+060/065	näh	1	n äh
+060/067	näh	1	n äh
+060/069	näh	1	n äh
+060/071	näh	1	n äh
+060/073	näh	1	n äh
+060/075	nieeb	1	n iee b
+060/077	nie	1	n ie
+060/079	nih	1	n ih
+060/081	niaah	1	n iaah
+060/083	mache	1	m a ch e
+060/085	niew	1	n ie w
+060/087	neh	1	n eh
+060/089	neh	1	n eh
+060/091	neh	1	n eh
+060/093	mache	1	m a ch e
+060/095	nih	1	n ih
+060/097	nieh	1	n ieh
+060/099	neh	1	n eh
+060/101	neh	1	n eh
+060/103	neh	1	n eh
+060/105	näh	1	n äh
+060/107	näh	1	n äh
+060/109	neh	1	n eh
+060/111	näh	1	n äh
+060/113	niäh	1	n iäh
+060/115	näh	1	n äh
+060/117	näh	1	n äh
+060/119	nej	1	n e j
+060/121	nej	1	n e j
+060/123	machn	1	m a ch n
+060/125	näh	1	n äh
+060/127	njäh	1	n j äh
+060/129	neäh	1	n eäh
+060/131	machn	1	m a ch n
+060/135	neh	1	n eh
+060/137	näh	1	n äh
+060/139	niäh	1	n iäh
+060/141	niäh	1	n iäh
+060/143	näh	1	n äh
+060/145	näh	1	n äh
+060/147	näh	1	n äh
+060/149	näh	1	n äh
+060/151	macha	1	m a ch a
+060/153	niäh	1	n iäh
+060/155	näh	1	n äh
+060/157	nä	1	n ä
+060/159	näh	1	n äh
+060/163	näh	1	n äh
+060/165	näh	1	n äh
+061/021	niä	1	n iä
+061/023	nie	1	n ie
+061/025	nied	1	n ie d
+061/027	nie	1	n ie
+061/029	nih	1	n ih
+061/031	nih	1	n ih
+061/033	nie	1	n ie
+061/035	nau	1	n au
+061/037	näh	1	n äh
+061/039	näd	1	n ä d
+061/041	näh	1	n äh
+061/043	näh	1	n äh
+061/045	näh	1	n äh
+061/047	neh	1	n eh
+061/049	neh	1	n eh
+061/051	nih	1	n ih
+061/053	nijj	1	n i jj
+061/055	nöh	1	n öh
+061/057	näh	1	n äh
+061/059	naj	1	n a j
+061/061	mache	1	m a ch e
+061/063	NA	NA	-
+061/065	näh	1	n äh
+061/067	näh	1	n äh
+061/069	näh	1	n äh
+061/071	näh	1	n äh
+061/073	näh	1	n äh
+061/075	näh	1	n äh
+061/077	niew	1	n ie w
+061/079	nia	1	n ia
+061/081	niä	1	n iä
+061/083	nieh	1	n ieh
+061/085	flicke	1	f l i ck e
+061/087	niew	1	n ie w
+061/089	neh	1	n eh
+061/091	moche	1	m o ch e
+061/093	neh	1	n eh
+061/095	neh	1	n eh
+061/097	neh	1	n eh
+061/099	neh	1	n eh
+061/101	neh	1	n eh
+061/103	neh	1	n eh
+061/105	neh	1	n eh
+061/107	neh	1	n eh
+061/109	flickn	1	f l i ck n
+061/111	machen	1	m a ch e n
+061/113	näh	1	n äh
+061/115	näh	1	n äh
+061/117	näi	1	n äi
+061/119	mochn	1	m o ch n
+061/121	nejh	1	n e j h
+061/123	neh	1	n eh
+061/125	neh	1	n eh
+061/127	näh	1	n äh
+061/129	nä	1	n ä
+061/131	näh	1	n äh
+061/133	näh	1	n äh
+061/137	neh	1	n eh
+061/139	näh	1	n äh
+061/141	näh	1	n äh
+061/143	näh	1	n äh
+061/145	näh	1	n äh
+061/147	näh	1	n äh
+061/149	näh	1	n äh
+061/151	näh	1	n äh
+061/153	näh	1	n äh
+061/155	näh	1	n äh
+061/157	nä	1	n ä
+061/159	machen	1	m a ch e n
+061/161	näh	1	n äh
+061/165	neh	1	n eh
+062/021	nie	1	n ie
+062/023	nie	1	n ie
+062/025	nihd	1	n ih d
+062/027	nih	1	n ih
+062/029	nigg	1	n i gg
+062/031	nä	1	n ä
+062/033	niää	1	n iää
+062/035	näh	1	n äh
+062/037	näh	1	n äh
+062/039	näh	1	n äh
+062/041	näh	1	n äh
+062/043	näh	1	n äh
+062/045	näh	1	n äh
+062/047	ne	1	n e
+062/049	neh	1	n eh
+062/051	näh	1	n äh
+062/053	näih	1	n äih
+062/055	neh	1	n eh
+062/057	neh	1	n eh
+062/059	näw	1	n ä w
+062/061	nähw	1	n äh w
+062/063	magon	1	m a g o n
+062/065	näh	1	n äh
+062/067	näh	1	n äh
+062/069	näh	1	n äh
+062/071	näh	1	n äh
+062/073	nee	1	n ee
+062/075	näa	1	n äa
+062/077	nieb	1	n ie b
+062/079	nih	1	n ih
+062/081	flecke	1	f l e ck e
+062/083	nieb	1	n ie b
+062/085	näh	1	n äh
+062/087	nah	1	n ah
+062/089	neh	1	n eh
+062/091	neh	1	n eh
+062/093	neh	1	n eh
+062/095	neh	1	n eh
+062/097	mechen	1	m e ch e n
+062/099	neh	1	n eh
+062/101	neh	1	n eh
+062/103	neh	1	n eh
+062/105	neh	1	n eh
+062/107	neh	1	n eh
+062/109	neh	1	n eh
+062/111	mochn	1	m o ch n
+062/113	neh	1	n eh
+062/115	nej	1	n e j
+062/117	näih	1	n äih
+062/119	nej	1	n e j
+062/121	nej	1	n e j
+062/123	nej	1	n e j
+062/125	nee	1	n ee
+062/127	näh	1	n äh
+062/129	näh	1	n äh
+062/131	näh	1	n äh
+062/133	näh	1	n äh
+062/135	nee	1	n ee
+062/137	neh	1	n eh
+062/139	ne	1	n e
+062/141	neeh	1	n eeh
+062/143	neh	1	n eh
+062/145	neh	1	n eh
+062/147	niah	1	n iah
+062/149	näh	1	n äh
+062/151	näh	1	n äh
+062/153	näh	1	n äh
+062/155	näh	1	n äh
+062/157	näh	1	n äh
+062/159	näh	1	n äh
+062/161	näh	1	n äh
+063/021	nieh	1	n ieh
+063/023	nie	1	n ie
+063/025	nie	1	n ie
+063/027	näh	1	n äh
+063/029	näh	1	n äh
+063/031	näh	1	n äh
+063/033	näh	1	n äh
+063/035	näh	1	n äh
+063/037	näh	1	n äh
+063/039	näh	1	n äh
+063/041	näh	1	n äh
+063/043	näh	1	n äh
+063/045	maache	1	m aa ch e
+063/047	neh	1	n eh
+063/049	neh	1	n eh
+063/051	nej	1	n e j
+063/053	neh	1	n eh
+063/055	nä	1	n ä
+063/057	new	1	n e w
+063/059	neh	1	n eh
+063/061	näh	1	n äh
+063/063	näh	1	n äh
+063/065	neh	1	n eh
+063/067	näh	1	n äh
+063/069	näh	1	n äh
+063/071	näh	1	n äh
+063/073	neh	1	n eh
+063/075	fleck	1	f l e ck
+063/077	fleck	1	f l e ck
+063/079	flecke	1	f l e ck e
+063/081	näh	1	n äh
+063/083	flöcke	1	f l ö ck e
+063/085	neh	1	n eh
+063/087	neh	1	n eh
+063/089	näh	1	n äh
+063/091	naah	1	n aah
+063/093	neeh	1	n eeh
+063/095	neh	1	n eh
+063/097	machn	1	m a ch n
+063/099	neh	1	n eh
+063/101	neh	1	n eh
+063/103	neeh	1	n eeh
+063/105	neh	1	n eh
+063/107	neh	1	n eh
+063/109	näh	1	n äh
+063/111	ne	1	n e
+063/113	näh	1	n äh
+063/115	neh	1	n eh
+063/117	nej	1	n e j
+063/119	mochn	1	m o ch n
+063/121	nej	1	n e j
+063/123	machn	1	m a ch n
+063/125	näh	1	n äh
+063/127	näh	1	n äh
+063/135	näh	1	n äh
+063/137	neh	1	n eh
+063/139	macha	1	m a ch a
+063/141	nee	1	n ee
+063/143	neh	1	n eh
+063/145	macha	1	m a ch a
+063/147	näh	1	n äh
+063/149	näh	1	n äh
+063/151	näh	1	n äh
+063/153	macha	1	m a ch a
+063/155	näh	1	n äh
+063/157	näh	1	n äh
+063/159	näh	1	n äh
+063/161	näh	1	n äh
+063/163	näh	1	n äh
+063/165	näh	1	n äh
+064/023	nih	1	n ih
+064/025	machen	1	m a ch e n
+064/027	nä	1	n ä
+064/029	näh	1	n äh
+064/031	näö	1	n äö
+064/033	näh	1	n äh
+064/035	näh	1	n äh
+064/037	näh	1	n äh
+064/039	näh	1	n äh
+064/041	näh	1	n äh
+064/043	neh	1	n eh
+064/045	näh	1	n äh
+064/047	näh	1	n äh
+064/049	neh	1	n eh
+064/051	neh	1	n eh
+064/053	neh	1	n eh
+064/055	nehw	1	n eh w
+064/057	neew	1	n ee w
+064/059	neh	1	n eh
+064/061	näh	1	n äh
+064/063	näh	1	n äh
+064/065	näh	1	n äh
+064/067	näh	1	n äh
+064/069	fleck	1	f l e ck
+064/071	näh	1	n äh
+064/073	näh	1	n äh
+064/075	näheb	1	n ä h e b
+064/077	fleck	1	f l e ck
+064/079	flicke	1	f l i ck e
+064/081	flecke	1	f l e ck e
+064/083	neh	1	n eh
+064/085	flicke	1	f l i ck e
+064/087	nöh	1	n öh
+064/089	neh	1	n eh
+064/091	nöh	1	n öh
+064/093	neh	1	n eh
+064/095	neh	1	n eh
+064/097	neh	1	n eh
+064/099	neh	1	n eh
+064/101	nea	1	n ea
+064/103	neeh	1	n eeh
+064/105	neh	1	n eh
+064/107	neä	1	n eä
+064/109	nee	1	n ee
+064/111	nej	1	n e j
+064/113	näh	1	n äh
+064/115	näh	1	n äh
+064/117	nej	1	n e j
+064/119	nej	1	n e j
+064/121	ne	1	n e
+064/123	näh	1	n äh
+064/125	neh	1	n eh
+064/127	näh	1	n äh
+064/135	neeh	1	n eeh
+064/137	mocha	1	m o ch a
+064/139	neh	1	n eh
+064/141	neh	1	n eh
+064/143	neh	1	n eh
+064/145	neh	1	n eh
+064/147	neh	1	n eh
+064/149	macha	1	m a ch a
+064/151	näh	1	n äh
+064/153	neh	1	n eh
+064/155	neh	1	n eh
+064/157	neh	1	n eh
+064/159	näh	1	n äh
+065/021	mache	1	m a ch e
+065/023	bötze	1	b ö t z e
+065/025	näh	1	n äh
+065/027	näh	1	n äh
+065/029	näh	1	n äh
+065/031	näh	1	n äh
+065/033	mäche	1	m ä ch e
+065/035	nä	1	n ä
+065/037	näh	1	n äh
+065/039	näh	1	n äh
+065/041	näh	1	n äh
+065/043	näh	1	n äh
+065/045	machen	1	m a ch e n
+065/047	näh	1	n äh
+065/049	neea	1	n eea
+065/051	näw	1	n ä w
+065/053	nä	1	n ä
+065/055	neew	1	n ee w
+065/057	new	1	n e w
+065/059	neh	1	n eh
+065/061	näh	1	n äh
+065/063	näh	1	n äh
+065/065	näh	1	n äh
+065/067	näh	1	n äh
+065/069	flick	1	f l i ck
+065/071	näh	1	n äh
+065/073	neeä	1	n eeä
+065/075	neä	1	n eä
+065/077	moch	1	m o ch
+065/079	näh	1	n äh
+065/081	neh	1	n eh
+065/083	neh	1	n eh
+065/085	nih	1	n ih
+065/087	neh	1	n eh
+065/089	näh	1	n äh
+065/091	nöh	1	n öh
+065/093	neh	1	n eh
+065/095	neh	1	n eh
+065/097	nee	1	n ee
+065/101	neh	1	n eh
+065/103	neh	1	n eh
+065/105	neh	1	n eh
+065/107	ne	1	n e
+065/109	nee	1	n ee
+065/111	mochn	1	m o ch n
+065/113	mochn	1	m o ch n
+065/115	nej	1	n e j
+065/121	neeh	1	n eeh
+065/123	näh	1	n äh
+065/137	neh	1	n eh
+065/139	ne	1	n e
+065/143	neh	1	n eh
+065/145	neh	1	n eh
+065/147	näh	1	n äh
+065/149	neh	1	n eh
+065/151	neh	1	n eh
+065/153	neh	1	n eh
+065/155	näh	1	n äh
+065/157	näh	1	n äh
+065/159	näh	1	n äh
+066/021	nigg	1	n i gg
+066/023	bötzen	1	b ö t z e n
+066/025	näh	1	n äh
+066/027	näh	1	n äh
+066/029	mache	1	m a ch e
+066/031	näh	1	n äh
+066/033	näh	1	n äh
+066/035	maache	1	m aa ch e
+066/037	nähj	1	n äh j
+066/039	näj	1	n ä j
+066/041	näh	1	n äh
+066/043	näh	1	n äh
+066/045	nehj	1	n eh j
+066/047	neh	1	n eh
+066/049	näh	1	n äh
+066/051	new	1	n e w
+066/053	new	1	n e w
+066/055	new	1	n e w
+066/057	ne	1	n e
+066/059	nähw	1	n äh w
+066/061	näh	1	n äh
+066/063	näh	1	n äh
+066/065	näh	1	n äh
+066/067	näh	1	n äh
+066/069	mach	1	m a ch
+066/071	flick	1	f l i ck
+066/073	mach	1	m a ch
+066/075	näh	1	n äh
+066/077	flick	1	f l i ck
+066/079	näh	1	n äh
+066/081	mach	1	m a ch
+066/083	mach	1	m a ch
+066/085	nee	1	n ee
+066/087	näi	1	n äi
+066/089	näh	1	n äh
+066/091	näi	1	n äi
+066/093	näh	1	n äh
+066/095	näh	1	n äh
+066/097	neeh	1	n eeh
+066/099	neh	1	n eh
+066/101	machn	1	m a ch n
+066/103	neh	1	n eh
+066/105	ne	1	n e
+066/107	mochn	1	m o ch n
+066/109	nä	1	n ä
+066/111	nee	1	n ee
+066/113	neej	1	n ee j
+066/121	neh	1	n eh
+066/139	neeh	1	n eeh
+066/143	näh	1	n äh
+066/145	neh	1	n eh
+066/147	neh	1	n eh
+066/149	neh	1	n eh
+066/151	neh	1	n eh
+066/153	nee	1	n ee
+066/155	neh	1	n eh
+066/157	näh	1	n äh
+066/159	machcha	1	m a ch ch a
+066/161	neh	1	n eh
+066/163	näh	1	n äh
+067/021	böhzen	1	b öh z e n
+067/023	bötzen	1	b ö t z e n
+067/025	nih	1	n ih
+067/027	nä	1	n ä
+067/029	nä	1	n ä
+067/031	näh	1	n äh
+067/033	näh	1	n äh
+067/035	nä	1	n ä
+067/037	näj	1	n ä j
+067/039	näh	1	n äh
+067/041	nähj	1	n äh j
+067/043	nej	1	n e j
+067/045	mache	1	m a ch e
+067/047	näh	1	n äh
+067/049	neh	1	n eh
+067/051	new	1	n e w
+067/053	new	1	n e w
+067/055	new	1	n e w
+067/057	neh	1	n eh
+067/059	neh	1	n eh
+067/061	näw	1	n ä w
+067/063	näh	1	n äh
+067/065	flick	1	f l i ck
+067/067	fleick	1	f l ei ck
+067/069	näh	1	n äh
+067/071	mach	1	m a ch
+067/073	näh	1	n äh
+067/075	flick	1	f l i ck
+067/077	näh	1	n äh
+067/079	näh	1	n äh
+067/081	mach	1	m a ch
+067/083	flick	1	f l i ck
+067/085	neh	1	n eh
+067/087	nääh	1	n ääh
+067/089	näh	1	n äh
+067/091	maachn	1	m aa ch n
+067/093	naa	1	n aa
+067/095	näh	1	n äh
+067/097	nei	1	n ei
+067/099	naa	1	n aa
+067/101	nee	1	n ee
+067/103	nä	1	n ä
+067/105	ne	1	n e
+067/107	mochn	1	m o ch n
+067/109	ne	1	n e
+067/111	nee	1	n ee
+067/113	neej	1	n ee j
+067/143	macha	1	m a ch a
+067/145	näh	1	n äh
+067/147	neh	1	n eh
+067/149	neh	1	n eh
+067/151	neh	1	n eh
+067/153	näh	1	n äh
+067/155	neh	1	n eh
+067/157	neh	1	n eh
+067/159	neh	1	n eh
+067/161	neh	1	n eh
+067/163	neh	1	n eh
+067/165	neh	1	n eh
+067/177	neh	1	n eh
+068/021	beetzen	1	b ee t z e n
+068/023	maaschen	1	m aa sch e n
+068/025	bizen	1	b i z e n
+068/027	moden	1	m o d e n
+068/029	fleecken	1	f l ee ck e n
+068/031	näh	1	n äh
+068/033	nä	1	n ä
+068/035	näh	1	n äh
+068/037	nähj	1	n äh j
+068/039	näh	1	n äh
+068/041	machn	1	m a ch n
+068/043	näh	1	n äh
+068/045	näh	1	n äh
+068/047	nehj	1	n eh j
+068/049	näh	1	n äh
+068/051	neh	1	n eh
+068/053	new	1	n e w
+068/055	new	1	n e w
+068/057	neh	1	n eh
+068/059	ne	1	n e
+068/061	näh	1	n äh
+068/063	fläik	1	f l äi k
+068/065	mach	1	m a ch
+068/067	mach	1	m a ch
+068/069	näh	1	n äh
+068/071	flick	1	f l i ck
+068/073	flick	1	f l i ck
+068/075	flick	1	f l i ck
+068/077	nah	1	n ah
+068/079	na	1	n a
+068/081	nah	1	n ah
+068/083	nee	1	n ee
+068/085	neh	1	n eh
+068/087	neh	1	n eh
+068/089	neh	1	n eh
+068/091	neh	1	n eh
+068/093	nah	1	n ah
+068/095	nah	1	n ah
+068/097	mochn	1	m o ch n
+068/099	nah	1	n ah
+068/101	nah	1	n ah
+068/103	nah	1	n ah
+068/105	nej	1	n e j
+068/107	nä	1	n ä
+068/109	ne	1	n e
+068/111	nee	1	n ee
+068/145	näh	1	n äh
+068/147	näh	1	n äh
+068/149	neh	1	n eh
+068/151	mochn	1	m o ch n
+068/153	neh	1	n eh
+068/155	neh	1	n eh
+068/157	neh	1	n eh
+068/159	neh	1	n eh
+068/161	macha	1	m a ch a
+068/165	näh	1	n äh
+069/019	beetzen	1	b ee t z e n
+069/023	nih	1	n ih
+069/025	ni	1	n i
+069/027	nieh	1	n ieh
+069/029	nieh	1	n ieh
+069/031	näh	1	n äh
+069/033	nä	1	n ä
+069/035	näh	1	n äh
+069/037	näh	1	n äh
+069/039	mache	1	m a ch e
+069/041	neh	1	n eh
+069/043	näh	1	n äh
+069/045	neh	1	n eh
+069/047	neh	1	n eh
+069/049	näi	1	n äi
+069/051	näh	1	n äh
+069/053	neh	1	n eh
+069/055	neh	1	n eh
+069/057	neh	1	n eh
+069/059	neh	1	n eh
+069/061	neh	1	n eh
+069/063	fleck	1	f l e ck
+069/065	mach	1	m a ch
+069/067	mach	1	m a ch
+069/069	mach	1	m a ch
+069/071	mach	1	m a ch
+069/073	näh	1	n äh
+069/075	mach	1	m a ch
+069/077	naah	1	n aah
+069/079	ne	1	n e
+069/081	näh	1	n äh
+069/083	näh	1	n äh
+069/085	neh	1	n eh
+069/087	neh	1	n eh
+069/089	neh	1	n eh
+069/091	näh	1	n äh
+069/093	nääi	1	n ääi
+069/095	nah	1	n ah
+069/097	nah	1	n ah
+069/099	nah	1	n ah
+069/101	nah	1	n ah
+069/103	nah	1	n ah
+069/105	nah	1	n ah
+069/107	neh	1	n eh
+069/109	ne	1	n e
+069/111	ne	1	n e
+069/147	neh	1	n eh
+069/149	näh	1	n äh
+069/151	näh	1	n äh
+069/153	neh	1	n eh
+069/157	neh	1	n eh
+069/159	neh	1	n eh
+069/161	ne	1	n e
+069/163	neh	1	n eh
+069/165	macha	1	m a ch a
+070/019	biekse	1	b ie k s e
+070/023	nih	1	n ih
+070/025	nih	1	n ih
+070/027	bessen	1	b e ss e n
+070/029	nih	1	n ih
+070/031	ni	1	n i
+070/033	näh	1	n äh
+070/035	näh	1	n äh
+070/037	näh	1	n äh
+070/039	näh	1	n äh
+070/041	näh	1	n äh
+070/043	näh	1	n äh
+070/045	ne	1	n e
+070/047	näh	1	n äh
+070/049	näh	1	n äh
+070/051	näh	1	n äh
+070/053	neh	1	n eh
+070/055	neh	1	n eh
+070/057	neh	1	n eh
+070/059	neh	1	n eh
+070/061	neh	1	n eh
+070/063	näh	1	n äh
+070/065	näh	1	n äh
+070/067	moach	1	m oa ch
+070/069	mach	1	m a ch
+070/071	näh	1	n äh
+070/073	näd	1	n ä d
+070/075	moch	1	m o ch
+070/077	näh	1	n äh
+070/079	näh	1	n äh
+070/081	neh	1	n eh
+070/083	ne	1	n e
+070/085	neh	1	n eh
+070/087	neh	1	n eh
+070/089	nej	1	n e j
+070/091	naj	1	n a j
+070/093	na	1	n a
+070/095	moch	1	m o ch
+070/097	nah	1	n ah
+070/099	mochn	1	m o ch n
+070/101	nah	1	n ah
+070/103	mochn	1	m o ch n
+070/105	nah	1	n ah
+070/107	nah	1	n ah
+070/109	ne	1	n e
+070/111	nee	1	n ee
+070/145	ne	1	n e
+070/147	neh	1	n eh
+070/149	näh	1	n äh
+070/151	nej	1	n e j
+070/153	neh	1	n eh
+070/155	nee	1	n ee
+070/157	näh	1	n äh
+070/159	neh	1	n eh
+070/161	neh	1	n eh
+070/163	näh	1	n äh
+070/165	neh	1	n eh
+071/017	bikzen	1	b i k z e n
+071/019	bicksen	1	b i ck s e n
+071/021	bietzen	1	b ie t z e n
+071/023	nieh	1	n ieh
+071/025	nieh	1	n ieh
+071/027	nieh	1	n ieh
+071/029	nieh	1	n ieh
+071/031	neih	1	n eih
+071/033	neh	1	n eh
+071/035	neh	1	n eh
+071/037	näh	1	n äh
+071/039	näh	1	n äh
+071/041	neh	1	n eh
+071/043	neh	1	n eh
+071/045	nej	1	n e j
+071/047	neh	1	n eh
+071/049	neh	1	n eh
+071/051	nej	1	n e j
+071/053	neh	1	n eh
+071/055	näh	1	n äh
+071/057	neh	1	n eh
+071/059	nee	1	n ee
+071/063	neäb	1	n eä b
+071/065	moach	1	m oa ch
+071/067	flick	1	f l i ck
+071/069	näh	1	n äh
+071/071	näh	1	n äh
+071/073	nä	1	n ä
+071/075	moag	1	m oa g
+071/077	moach	1	m oa ch
+071/079	näh	1	n äh
+071/081	naah	1	n aah
+071/083	machn	1	m a ch n
+071/085	machn	1	m a ch n
+071/087	näh	1	n äh
+071/089	neh	1	n eh
+071/091	na	1	n a
+071/093	nah	1	n ah
+071/095	nah	1	n ah
+071/097	nah	1	n ah
+071/099	nah	1	n ah
+071/101	naa	1	n aa
+071/103	nah	1	n ah
+071/105	na	1	n a
+071/145	ne	1	n e
+071/147	ne	1	n e
+071/149	näh	1	n äh
+071/151	neh	1	n eh
+071/153	moachn	1	m oa ch n
+071/155	nej	1	n e j
+071/157	neh	1	n eh
+071/159	neh	1	n eh
+071/161	nee	1	n ee
+071/163	machn	1	m a ch n
+071/177	nee	1	n ee
+071/179	näh	1	n äh
+072/017	maachen	1	m aa ch e n
+072/019	maaen	1	m aae n
+072/021	nee	1	n ee
+072/023	beitzen	1	b ei t z e n
+072/025	bezen	1	b e z e n
+072/027	bäizen	1	b äi z e n
+072/029	maachen	1	m aa ch e n
+072/031	neh	1	n eh
+072/033	neh	1	n eh
+072/035	näh	1	n äh
+072/037	näh	1	n äh
+072/039	näh	1	n äh
+072/041	näh	1	n äh
+072/043	näh	1	n äh
+072/045	neh	1	n eh
+072/047	mache	1	m a ch e
+072/049	mache	1	m a ch e
+072/051	neh	1	n eh
+072/053	neh	1	n eh
+072/055	neh	1	n eh
+072/057	neh	1	n eh
+072/059	naah	1	n aah
+072/061	flicka	1	f l i ck a
+072/063	neh	1	n eh
+072/065	näh	1	n äh
+072/067	nä	1	n ä
+072/069	mach	1	m a ch
+072/071	mach	1	m a ch
+072/073	näh	1	n äh
+072/075	näh	1	n äh
+072/077	näh	1	n äh
+072/079	näh	1	n äh
+072/081	näh	1	n äh
+072/083	näh	1	n äh
+072/085	näh	1	n äh
+072/087	neh	1	n eh
+072/089	neh	1	n eh
+072/091	näh	1	n äh
+072/093	nä	1	n ä
+072/095	na	1	n a
+072/097	nah	1	n ah
+072/099	nah	1	n ah
+072/101	machn	1	m a ch n
+072/103	nah	1	n ah
+072/105	nah	1	n ah
+072/107	nah	1	n ah
+072/145	nah	1	n ah
+072/147	neh	1	n eh
+072/149	nee	1	n ee
+072/151	näh	1	n äh
+072/153	neh	1	n eh
+072/155	neh	1	n eh
+072/157	mochn	1	m o ch n
+072/159	neh	1	n eh
+072/161	neh	1	n eh
+072/177	neh	1	n eh
+072/179	näh	1	n äh
+072/181	nah	1	n ah
+073/017	nee	1	n ee
+073/019	maachen	1	m aa ch e n
+073/021	bitzen	1	b i t z e n
+073/023	näi	1	n äi
+073/025	niih	1	n iih
+073/027	nih	1	n ih
+073/029	neh	1	n eh
+073/031	maachen	1	m aa ch e n
+073/033	näh	1	n äh
+073/035	näh	1	n äh
+073/037	näh	1	n äh
+073/039	mache	1	m a ch e
+073/041	neh	1	n eh
+073/043	neh	1	n eh
+073/045	neh	1	n eh
+073/047	neh	1	n eh
+073/049	nej	1	n e j
+073/051	nej	1	n e j
+073/053	mache	1	m a ch e
+073/055	ne	1	n e
+073/057	neh	1	n eh
+073/059	neh	1	n eh
+073/061	nöh	1	n öh
+073/063	flick	1	f l i ck
+073/065	mach	1	m a ch
+073/067	mach	1	m a ch
+073/069	nä	1	n ä
+073/071	näh	1	n äh
+073/073	mach	1	m a ch
+073/075	näh	1	n äh
+073/077	neh	1	n eh
+073/079	naah	1	n aah
+073/081	machn	1	m a ch n
+073/083	neh	1	n eh
+073/085	machn	1	m a ch n
+073/087	neh	1	n eh
+073/089	näah	1	n äah
+073/091	nad	1	n a d
+073/093	nah	1	n ah
+073/095	naah	1	n aah
+073/097	nah	1	n ah
+073/099	na	1	n a
+073/101	nah	1	n ah
+073/103	naah	1	n aah
+073/105	nah	1	n ah
+073/107	nah	1	n ah
+073/145	nah	1	n ah
+073/147	nah	1	n ah
+073/149	ne	1	n e
+073/151	näj	1	n ä j
+073/153	neh	1	n eh
+073/155	nej	1	n e j
+073/157	näh	1	n äh
+073/159	näeh	1	n äeh
+073/161	näh	1	n äh
+073/163	machr	1	m a ch r
+073/165	neh	1	n eh
+073/175	neh	1	n eh
+073/177	nee	1	n ee
+074/019	bitzen	1	b i t z e n
+074/021	neh	1	n eh
+074/023	bitzen	1	b i t z e n
+074/025	betzen	1	b e t z e n
+074/027	nieh	1	n ieh
+074/029	maachen	1	m aa ch e n
+074/031	neh	1	n eh
+074/033	neh	1	n eh
+074/035	neh	1	n eh
+074/037	nä	1	n ä
+074/039	neh	1	n eh
+074/041	neh	1	n eh
+074/043	neh	1	n eh
+074/045	neh	1	n eh
+074/047	neh	1	n eh
+074/049	nej	1	n e j
+074/051	neh	1	n eh
+074/053	näih	1	n äih
+074/055	mache	1	m a ch e
+074/057	neh	1	n eh
+074/059	näh	1	n äh
+074/061	machn	1	m a ch n
+074/063	mocha	1	m o ch a
+074/065	flick	1	f l i ck
+074/067	näh	1	n äh
+074/069	näh	1	n äh
+074/071	näh	1	n äh
+074/073	näh	1	n äh
+074/075	näh	1	n äh
+074/077	nej	1	n e j
+074/079	nah	1	n ah
+074/081	machn	1	m a ch n
+074/083	neh	1	n eh
+074/085	näih	1	n äih
+074/087	näih	1	n äih
+074/089	nah	1	n ah
+074/091	nah	1	n ah
+074/093	nah	1	n ah
+074/095	nah	1	n ah
+074/097	naa	1	n aa
+074/099	mochng	1	m o ch ng
+074/101	naah	1	n aah
+074/103	na	1	n a
+074/105	nah	1	n ah
+074/107	nah	1	n ah
+074/109	nah	1	n ah
+074/145	nah	1	n ah
+074/147	mochn	1	m o ch n
+074/149	nä	1	n ä
+074/153	neh	1	n eh
+074/155	nää	1	n ää
+074/157	neh	1	n eh
+074/159	neh	1	n eh
+074/161	ne	1	n e
+074/163	neh	1	n eh
+074/165	neh	1	n eh
+075/019	bitzen	1	b i t z e n
+075/021	neh	1	n eh
+075/023	biezen	1	b ie z e n
+075/025	beitzen	1	b ei t z e n
+075/027	näi	1	n äi
+075/029	neh	1	n eh
+075/031	maachen	1	m aa ch e n
+075/033	näh	1	n äh
+075/035	nä	1	n ä
+075/037	naah	1	n aah
+075/039	näh	1	n äh
+075/041	neh	1	n eh
+075/043	machn	1	m a ch n
+075/045	neh	1	n eh
+075/047	neh	1	n eh
+075/049	neh	1	n eh
+075/051	näihj	1	n äih j
+075/053	neh	1	n eh
+075/055	neh	1	n eh
+075/057	neh	1	n eh
+075/059	nöh	1	n öh
+075/061	nöh	1	n öh
+075/063	mache	1	m a ch e
+075/065	näh	1	n äh
+075/067	moach	1	m oa ch
+075/069	mach	1	m a ch
+075/071	näh	1	n äh
+075/073	näh	1	n äh
+075/075	näh	1	n äh
+075/077	neh	1	n eh
+075/079	näh	1	n äh
+075/081	neh	1	n eh
+075/083	näh	1	n äh
+075/085	neh	1	n eh
+075/087	näh	1	n äh
+075/089	nah	1	n ah
+075/091	nah	1	n ah
+075/093	nah	1	n ah
+075/095	nah	1	n ah
+075/097	nah	1	n ah
+075/099	machn	1	m a ch n
+075/101	mochn	1	m o ch n
+075/103	nah	1	n ah
+075/105	nah	1	n ah
+075/107	mochn	1	m o ch n
+075/135	nej	1	n e j
+075/145	nah	1	n ah
+075/147	nah	1	n ah
+075/149	nej	1	n e j
+075/155	nah	1	n ah
+075/157	nej	1	n e j
+075/159	näh	1	n äh
+075/161	näh	1	n äh
+075/163	näh	1	n äh
+075/165	mache	1	m a ch e
+076/019	bitzen	1	b i t z e n
+076/021	bitzen	1	b i t z e n
+076/023	maachen	1	m aa ch e n
+076/025	maan	1	m aa n
+076/027	beizen	1	b ei z e n
+076/029	neh	1	n eh
+076/033	näh	1	n äh
+076/035	mache	1	m a ch e
+076/037	nä	1	n ä
+076/039	neh	1	n eh
+076/041	neh	1	n eh
+076/043	ne	1	n e
+076/045	mache	1	m a ch e
+076/047	nee	1	n ee
+076/049	näh	1	n äh
+076/051	ne	1	n e
+076/053	ne	1	n e
+076/055	nee	1	n ee
+076/057	näh	1	n äh
+076/059	nee	1	n ee
+076/061	mache	1	m a ch e
+076/063	nö	1	n ö
+076/065	näh	1	n äh
+076/067	näh	1	n äh
+076/069	macha	1	m a ch a
+076/071	näh	1	n äh
+076/073	machn	1	m a ch n
+076/075	machng	1	m a ch ng
+076/077	näh	1	n äh
+076/079	neh	1	n eh
+076/081	näh	1	n äh
+076/083	machng	1	m a ch ng
+076/085	machn	1	m a ch n
+076/087	neh	1	n eh
+076/089	nah	1	n ah
+076/091	neh	1	n eh
+076/093	nah	1	n ah
+076/095	nah	1	n ah
+076/097	nah	1	n ah
+076/099	nah	1	n ah
+076/101	nah	1	n ah
+076/103	nah	1	n ah
+076/135	nah	1	n ah
+076/137	näj	1	n ä j
+076/149	neh	1	n eh
+076/151	nä	1	n ä
+076/155	nej	1	n e j
+076/161	neh	1	n eh
+076/163	näi	1	n äi
+076/165	näh	1	n äh
+077/019	betzen	1	b e t z e n
+077/021	nee	1	n ee
+077/023	nei	1	n ei
+077/025	maachen	1	m aa ch e n
+077/027	neh	1	n eh
+077/029	näh	1	n äh
+077/031	neh	1	n eh
+077/033	neh	1	n eh
+077/035	näh	1	n äh
+077/037	mache	1	m a ch e
+077/039	neh	1	n eh
+077/041	nah	1	n ah
+077/043	neeh	1	n eeh
+077/047	neh	1	n eh
+077/049	neh	1	n eh
+077/051	näh	1	n äh
+077/053	neh	1	n eh
+077/055	näj	1	n ä j
+077/057	näih	1	n äih
+077/059	nee	1	n ee
+077/061	nö	1	n ö
+077/063	mache	1	m a ch e
+077/065	näh	1	n äh
+077/067	macha	1	m a ch a
+077/069	näh	1	n äh
+077/071	näab	1	n äa b
+077/073	machn	1	m a ch n
+077/075	näh	1	n äh
+077/077	näh	1	n äh
+077/079	neh	1	n eh
+077/081	näh	1	n äh
+077/083	machn	1	m a ch n
+077/085	machn	1	m a ch n
+077/087	nah	1	n ah
+077/089	macha	1	m a ch a
+077/091	nah	1	n ah
+077/093	na	1	n a
+077/095	nah	1	n ah
+077/097	nah	1	n ah
+077/099	nah	1	n ah
+077/101	nah	1	n ah
+077/103	mochn	1	m o ch n
+077/135	neh	1	n eh
+077/137	näh	1	n äh
+078/021	bitzen	1	b i t z e n
+078/023	bitzen	1	b i t z e n
+078/025	machen	1	m a ch e n
+078/027	neh	1	n eh
+078/029	näh	1	n äh
+078/031	näh	1	n äh
+078/033	näh	1	n äh
+078/035	näh	1	n äh
+078/037	nähj	1	n äh j
+078/039	neh	1	n eh
+078/041	na	1	n a
+078/045	neh	1	n eh
+078/047	neh	1	n eh
+078/049	nah	1	n ah
+078/051	nä	1	n ä
+078/053	neh	1	n eh
+078/055	neh	1	n eh
+078/057	nah	1	n ah
+078/059	nee	1	n ee
+078/061	näh	1	n äh
+078/063	macha	1	m a ch a
+078/065	näh	1	n äh
+078/067	näaw	1	n äa w
+078/069	näw	1	n ä w
+078/071	nääw	1	n ää w
+078/073	näh	1	n äh
+078/075	machn	1	m a ch n
+078/077	machn	1	m a ch n
+078/079	näh	1	n äh
+078/081	nä	1	n ä
+078/083	neeh	1	n eeh
+078/085	nah	1	n ah
+078/087	naah	1	n aah
+078/089	nah	1	n ah
+078/091	nah	1	n ah
+078/093	naah	1	n aah
+078/095	neh	1	n eh
+078/097	macha	1	m a ch a
+078/099	mocha	1	m o ch a
+078/101	naah	1	n aah
+078/103	nah	1	n ah
+078/105	nah	1	n ah
+078/135	mochn	1	m o ch n
+078/193	nej	1	n e j
+079/021	machen	1	m a ch e n
+079/023	machen	1	m a ch e n
+079/025	bitzen	1	b i t z e n
+079/027	näh	1	n äh
+079/029	näh	1	n äh
+079/031	näh	1	n äh
+079/033	mache	1	m a ch e
+079/035	nee	1	n ee
+079/037	nähj	1	n äh j
+079/039	mache	1	m a ch e
+079/043	neh	1	n eh
+079/045	näj	1	n ä j
+079/047	neh	1	n eh
+079/049	neh	1	n eh
+079/051	ne	1	n e
+079/053	näh	1	n äh
+079/055	mache	1	m a ch e
+079/057	ne	1	n e
+079/059	näi	1	n äi
+079/061	näh	1	n äh
+079/063	näw	1	n ä w
+079/065	näw	1	n ä w
+079/067	näh	1	n äh
+079/069	näw	1	n ä w
+079/071	näab	1	n äa b
+079/073	NA	NA	-
+079/075	neh	1	n eh
+079/077	näh	1	n äh
+079/079	neh	1	n eh
+079/081	neh	1	n eh
+079/083	machn	1	m a ch n
+079/085	naah	1	n aah
+079/087	nah	1	n ah
+079/089	nah	1	n ah
+079/091	nah	1	n ah
+079/093	nah	1	n ah
+079/095	macha	1	m a ch a
+079/097	nah	1	n ah
+079/099	nah	1	n ah
+079/101	nah	1	n ah
+079/103	mocht	1	m o ch t
+079/105	naa	1	n aa
+079/107	nah	1	n ah
+079/133	näh	1	n äh
+079/135	näh	1	n äh
+079/193	nej	1	n e j
+079/195	näh	1	n äh
+079/197	machn	1	m a ch n
+080/025	näh	1	n äh
+080/027	näh	1	n äh
+080/029	näh	1	n äh
+080/031	nä	1	n ä
+080/033	mache	1	m a ch e
+080/035	neeh	1	n eeh
+080/037	ne	1	n e
+080/039	neeh	1	n eeh
+080/041	nej	1	n e j
+080/043	mache	1	m a ch e
+080/045	näh	1	n äh
+080/047	neh	1	n eh
+080/049	neh	1	n eh
+080/051	nä	1	n ä
+080/053	näh	1	n äh
+080/055	ne	1	n e
+080/057	näh	1	n äh
+080/059	näh	1	n äh
+080/061	macha	1	m a ch a
+080/063	näw	1	n ä w
+080/065	macha	1	m a ch a
+080/067	näaw	1	n äa w
+080/069	näaw	1	n äa w
+080/071	näaw	1	n äa w
+080/073	neab	1	n ea b
+080/075	näh	1	n äh
+080/077	näah	1	n äah
+080/079	näh	1	n äh
+080/081	nah	1	n ah
+080/083	nah	1	n ah
+080/085	mocha	1	m o ch a
+080/087	nah	1	n ah
+080/089	nah	1	n ah
+080/091	nah	1	n ah
+080/093	na	1	n a
+080/095	nah	1	n ah
+080/097	mocha	1	m o ch a
+080/099	macha	1	m a ch a
+080/101	nah	1	n ah
+080/103	nah	1	n ah
+080/105	nah	1	n ah
+080/107	nah	1	n ah
+080/109	mocha	1	m o ch a
+080/127	nah	1	n ah
+080/147	nah	1	n ah
+080/151	nah	1	n ah
+080/153	moga	1	m o g a
+080/193	nah	1	n ah
+080/195	näi	1	n äi
+081/025	näg	1	n ä g
+081/027	nähj	1	n äh j
+081/029	nähj	1	n äh j
+081/031	näj	1	n ä j
+081/033	näh	1	n äh
+081/035	näh	1	n äh
+081/037	näh	1	n äh
+081/039	neh	1	n eh
+081/043	neeh	1	n eeh
+081/045	ne	1	n e
+081/047	neh	1	n eh
+081/049	neh	1	n eh
+081/051	näh	1	n äh
+081/053	näh	1	n äh
+081/055	macha	1	m a ch a
+081/057	nä	1	n ä
+081/059	näh	1	n äh
+081/061	machan	1	m a ch a n
+081/063	näh	1	n äh
+081/065	näh	1	n äh
+081/067	neeäw	1	n eeä w
+081/069	näaw	1	n äa w
+081/071	macha	1	m a ch a
+081/073	macha	1	m a ch a
+081/075	näh	1	n äh
+081/077	nä	1	n ä
+081/079	machn	1	m a ch n
+081/081	naah	1	n aah
+081/083	nah	1	n ah
+081/085	nah	1	n ah
+081/087	nah	1	n ah
+081/089	nah	1	n ah
+081/091	nah	1	n ah
+081/093	na	1	n a
+081/095	nah	1	n ah
+081/097	naah	1	n aah
+081/099	bringa	1	b r i ng a
+081/101	mocht	1	m o ch t
+081/103	nah	1	n ah
+081/105	naah	1	n aah
+081/107	nah	1	n ah
+081/109	nah	1	n ah
+081/111	moocha	1	m oo ch a
+081/127	mochä	1	m o ch ä
+081/129	mocha	1	m o ch a
+081/133	nah	1	n ah
+081/147	naa	1	n aa
+081/191	näj	1	n ä j
+081/193	nee	1	n ee
+081/195	näj	1	n ä j
+082/027	nääh	1	n ääh
+082/029	näh	1	n äh
+082/031	näh	1	n äh
+082/033	näij	1	n äi j
+082/035	nää	1	n ää
+082/037	mache	1	m a ch e
+082/039	näj	1	n ä j
+082/041	näj	1	n ä j
+082/043	neech	1	n ee ch
+082/045	neeh	1	n eeh
+082/047	nä	1	n ä
+082/049	näh	1	n äh
+082/051	näh	1	n äh
+082/053	nä	1	n ä
+082/055	näh	1	n äh
+082/057	näh	1	n äh
+082/059	näh	1	n äh
+082/061	nä	1	n ä
+082/063	näh	1	n äh
+082/065	näab	1	n äa b
+082/067	näaw	1	n äa w
+082/069	nai	1	n ai
+082/071	näh	1	n äh
+082/073	näh	1	n äh
+082/075	näh	1	n äh
+082/077	neh	1	n eh
+082/079	naah	1	n aah
+082/081	macha	1	m a ch a
+082/083	näh	1	n äh
+082/085	nah	1	n ah
+082/087	nah	1	n ah
+082/089	nah	1	n ah
+082/091	nah	1	n ah
+082/093	nah	1	n ah
+082/095	nah	1	n ah
+082/097	nah	1	n ah
+082/099	moga	1	m o g a
+082/101	nah	1	n ah
+082/103	mocha	1	m o ch a
+082/105	na	1	n a
+082/107	nah	1	n ah
+082/111	nah	1	n ah
+082/113	mocha	1	m o ch a
+082/117	naa	1	n aa
+082/129	moocha	1	m oo ch a
+082/131	nah	1	n ah
+082/133	naa	1	n aa
+082/135	nah	1	n ah
+082/145	nah	1	n ah
+082/147	mochn	1	m o ch n
+082/191	näih	1	n äih
+082/195	näih	1	n äih
+083/027	nai	1	n ai
+083/029	nääj	1	n ää j
+083/031	näij	1	n äi j
+083/033	näj	1	n ä j
+083/035	näj	1	n ä j
+083/037	näj	1	n ä j
+083/039	naj	1	n a j
+083/041	naij	1	n ai j
+083/043	neej	1	n ee j
+083/045	nähj	1	n äh j
+083/047	näg	1	n ä g
+083/049	nai	1	n ai
+083/051	näh	1	n äh
+083/053	näh	1	n äh
+083/055	nah	1	n ah
+083/057	nä	1	n ä
+083/059	nää	1	n ää
+083/061	nä	1	n ä
+083/063	näh	1	n äh
+083/065	naj	1	n a j
+083/067	nai	1	n ai
+083/069	nä	1	n ä
+083/071	macha	1	m a ch a
+083/073	nä	1	n ä
+083/075	na	1	n a
+083/077	macha	1	m a ch a
+083/079	nah	1	n ah
+083/081	näh	1	n äh
+083/083	nah	1	n ah
+083/085	nah	1	n ah
+083/087	naah	1	n aah
+083/089	na	1	n a
+083/091	nah	1	n ah
+083/093	na	1	n a
+083/095	naa	1	n aa
+083/097	nah	1	n ah
+083/099	naah	1	n aah
+083/101	mocha	1	m o ch a
+083/103	nah	1	n ah
+083/105	nah	1	n ah
+083/107	nah	1	n ah
+083/111	nah	1	n ah
+083/113	nah	1	n ah
+083/115	nah	1	n ah
+083/117	na	1	n a
+083/119	na	1	n a
+083/121	nah	1	n ah
+083/129	mocha	1	m o ch a
+083/131	na	1	n a
+083/133	neh	1	n eh
+083/135	nah	1	n ah
+083/139	nah	1	n ah
+083/143	nah	1	n ah
+083/145	nah	1	n ah
+083/147	nah	1	n ah
+083/149	naah	1	n aah
+083/173	nä	1	n ä
+083/195	nej	1	n e j
+084/031	nähg	1	n äh g
+084/033	nähj	1	n äh j
+084/035	näj	1	n ä j
+084/037	näij	1	n äi j
+084/039	naj	1	n a j
+084/041	naaj	1	n aa j
+084/043	naaj	1	n aa j
+084/045	macha	1	m a ch a
+084/047	näg	1	n ä g
+084/049	macha	1	m a ch a
+084/051	nä	1	n ä
+084/053	näh	1	n äh
+084/055	näh	1	n äh
+084/057	näh	1	n äh
+084/059	näh	1	n äh
+084/061	macha	1	m a ch a
+084/063	macha	1	m a ch a
+084/065	näh	1	n äh
+084/067	nae	1	n ae
+084/069	macha	1	m a ch a
+084/071	näh	1	n äh
+084/073	näh	1	n äh
+084/075	nä	1	n ä
+084/077	näh	1	n äh
+084/079	näh	1	n äh
+084/081	macha	1	m a ch a
+084/083	naah	1	n aah
+084/085	nah	1	n ah
+084/087	nah	1	n ah
+084/089	macha	1	m a ch a
+084/091	mocha	1	m o ch a
+084/093	na	1	n a
+084/095	nah	1	n ah
+084/097	nah	1	n ah
+084/099	na	1	n a
+084/101	mocha	1	m o ch a
+084/103	nah	1	n ah
+084/105	naa	1	n aa
+084/107	nah	1	n ah
+084/109	nah	1	n ah
+084/111	nah	1	n ah
+084/113	na	1	n a
+084/115	nah	1	n ah
+084/117	mocha	1	m o ch a
+084/119	nah	1	n ah
+084/129	nah	1	n ah
+084/131	mocha	1	m o ch a
+084/133	nah	1	n ah
+084/135	nah	1	n ah
+084/137	nah	1	n ah
+084/139	naah	1	n aah
+084/141	näh	1	n äh
+084/143	nah	1	n ah
+084/145	mocha	1	m o ch a
+084/147	nah	1	n ah
+084/149	mocha	1	m o ch a
+084/171	näh	1	n äh
+084/173	naa	1	n aa
+084/195	näh	1	n äh
+085/031	naj	1	n a j
+085/033	näh	1	n äh
+085/035	naj	1	n a j
+085/037	naj	1	n a j
+085/039	naj	1	n a j
+085/041	näj	1	n ä j
+085/043	näij	1	n äi j
+085/045	mache	1	m a ch e
+085/047	nääg	1	n ää g
+085/049	nai	1	n ai
+085/051	näij	1	n äi j
+085/053	naeh	1	n aeh
+085/055	näh	1	n äh
+085/057	macha	1	m a ch a
+085/059	näh	1	n äh
+085/061	näh	1	n äh
+085/063	macha	1	m a ch a
+085/065	macha	1	m a ch a
+085/067	macha	1	m a ch a
+085/069	naih	1	n aih
+085/071	macha	1	m a ch a
+085/073	näh	1	n äh
+085/075	näh	1	n äh
+085/077	nä	1	n ä
+085/079	nah	1	n ah
+085/081	nä	1	n ä
+085/083	nah	1	n ah
+085/085	nah	1	n ah
+085/087	macha	1	m a ch a
+085/089	naa	1	n aa
+085/091	na	1	n a
+085/093	nah	1	n ah
+085/095	nah	1	n ah
+085/097	nah	1	n ah
+085/101	macha	1	m a ch a
+085/103	mocht	1	m o ch t
+085/105	mocha	1	m o ch a
+085/107	na	1	n a
+085/109	na	1	n a
+085/111	nah	1	n ah
+085/113	macha	1	m a ch a
+085/115	mocha	1	m o ch a
+085/117	na	1	n a
+085/119	nah	1	n ah
+085/121	nah	1	n ah
+085/123	nah	1	n ah
+085/125	mocha	1	m o ch a
+085/127	nah	1	n ah
+085/129	nah	1	n ah
+085/131	nah	1	n ah
+085/133	na	1	n a
+085/135	mocha	1	m o ch a
+085/137	mocha	1	m o ch a
+085/139	naah	1	n aah
+085/141	nah	1	n ah
+085/143	na	1	n a
+085/145	mocha	1	m o ch a
+085/147	nah	1	n ah
+085/149	nah	1	n ah
+085/175	nii	1	n ii
+085/193	nee	1	n ee
+085/197	nee	1	n ee
+086/033	näj	1	n ä j
+086/035	naj	1	n a j
+086/037	nääj	1	n ää j
+086/039	naj	1	n a j
+086/041	näj	1	n ä j
+086/043	nai	1	n ai
+086/045	nai	1	n ai
+086/047	näj	1	n ä j
+086/049	naih	1	n aih
+086/051	nai	1	n ai
+086/053	nääh	1	n ääh
+086/055	nä	1	n ä
+086/057	näh	1	n äh
+086/059	macha	1	m a ch a
+086/061	macha	1	m a ch a
+086/063	näh	1	n äh
+086/065	näh	1	n äh
+086/067	macha	1	m a ch a
+086/069	naih	1	n aih
+086/071	naih	1	n aih
+086/073	macha	1	m a ch a
+086/075	nä	1	n ä
+086/077	näh	1	n äh
+086/079	näh	1	n äh
+086/081	naah	1	n aah
+086/083	neh	1	n eh
+086/085	näh	1	n äh
+086/087	nah	1	n ah
+086/089	mocha	1	m o ch a
+086/091	nah	1	n ah
+086/093	nah	1	n ah
+086/095	nah	1	n ah
+086/097	macht	1	m a ch t
+086/099	mocht	1	m o ch t
+086/101	nah	1	n ah
+086/103	nah	1	n ah
+086/105	nah	1	n ah
+086/107	na	1	n a
+086/109	nah	1	n ah
+086/111	nah	1	n ah
+086/113	nah	1	n ah
+086/115	nah	1	n ah
+086/117	mocho	1	m o ch o
+086/119	nah	1	n ah
+086/121	naa	1	n aa
+086/123	nah	1	n ah
+086/125	nah	1	n ah
+086/127	nah	1	n ah
+086/129	nah	1	n ah
+086/131	nah	1	n ah
+086/133	nah	1	n ah
+086/135	nah	1	n ah
+086/137	nah	1	n ah
+086/139	nah	1	n ah
+086/141	nah	1	n ah
+086/143	mocha	1	m o ch a
+086/145	nah	1	n ah
+086/147	nah	1	n ah
+086/149	mocha	1	m o ch a
+086/151	nah	1	n ah
+086/175	nii	1	n ii
+086/197	näh	1	n äh
+086/199	machen	1	m a ch e n
+087/033	nähj	1	n äh j
+087/035	näj	1	n ä j
+087/037	naj	1	n a j
+087/039	nah	1	n ah
+087/041	neij	1	n ei j
+087/043	neij	1	n ei j
+087/045	näh	1	n äh
+087/049	naj	1	n a j
+087/051	naej	1	n ae j
+087/053	nah	1	n ah
+087/055	näh	1	n äh
+087/057	nä	1	n ä
+087/059	näh	1	n äh
+087/061	mache	1	m a ch e
+087/063	näh	1	n äh
+087/065	macha	1	m a ch a
+087/067	nä	1	n ä
+087/069	näh	1	n äh
+087/071	naij	1	n ai j
+087/073	neh	1	n eh
+087/075	nääh	1	n ääh
+087/077	macha	1	m a ch a
+087/079	macha	1	m a ch a
+087/081	nah	1	n ah
+087/083	na	1	n a
+087/085	macha	1	m a ch a
+087/087	macha	1	m a ch a
+087/089	macht	1	m a ch t
+087/091	nah	1	n ah
+087/093	nah	1	n ah
+087/095	na	1	n a
+087/097	nah	1	n ah
+087/099	nah	1	n ah
+087/101	nah	1	n ah
+087/103	nah	1	n ah
+087/105	nah	1	n ah
+087/107	macha	1	m a ch a
+087/109	mocha	1	m o ch a
+087/111	mocha	1	m o ch a
+087/113	nah	1	n ah
+087/115	na	1	n a
+087/117	nah	1	n ah
+087/119	nah	1	n ah
+087/121	nah	1	n ah
+087/123	nah	1	n ah
+087/125	mocha	1	m o ch a
+087/127	na	1	n a
+087/129	mocha	1	m o ch a
+087/133	naa	1	n aa
+087/135	nah	1	n ah
+087/137	nah	1	n ah
+087/139	na	1	n a
+087/141	nah	1	n ah
+087/143	naa	1	n aa
+087/145	nah	1	n ah
+087/147	nah	1	n ah
+087/149	mocha	1	m o ch a
+087/151	näh	1	n äh
+088/035	naj	1	n a j
+088/037	naij	1	n ai j
+088/039	nahj	1	n ah j
+088/041	naaj	1	n aa j
+088/043	machä	1	m a ch ä
+088/045	mache	1	m a ch e
+088/047	naih	1	n aih
+088/049	naai	1	n aai
+088/051	mache	1	m a ch e
+088/053	macha	1	m a ch a
+088/055	naih	1	n aih
+088/057	macha	1	m a ch a
+088/059	näh	1	n äh
+088/061	macha	1	m a ch a
+088/063	macha	1	m a ch a
+088/065	näh	1	n äh
+088/067	näh	1	n äh
+088/069	näh	1	n äh
+088/071	naih	1	n aih
+088/073	neih	1	n eih
+088/075	näh	1	n äh
+088/077	näh	1	n äh
+088/079	näh	1	n äh
+088/081	nah	1	n ah
+088/083	nah	1	n ah
+088/085	macha	1	m a ch a
+088/087	macha	1	m a ch a
+088/089	nah	1	n ah
+088/091	nah	1	n ah
+088/093	nah	1	n ah
+088/095	nah	1	n ah
+088/097	mocha	1	m o ch a
+088/099	nah	1	n ah
+088/101	mocha	1	m o ch a
+088/103	nah	1	n ah
+088/105	na	1	n a
+088/107	nah	1	n ah
+088/109	naah	1	n aah
+088/113	nah	1	n ah
+088/115	nah	1	n ah
+088/117	nah	1	n ah
+088/121	nah	1	n ah
+088/123	nah	1	n ah
+088/127	nah	1	n ah
+088/129	nah	1	n ah
+088/131	nah	1	n ah
+088/137	naah	1	n aah
+088/139	mocha	1	m o ch a
+088/141	na	1	n a
+088/143	mocha	1	m o ch a
+088/145	nah	1	n ah
+088/147	nah	1	n ah
+088/149	nah	1	n ah
+089/035	nah	1	n ah
+089/037	naaj	1	n aa j
+089/039	näij	1	n äi j
+089/041	naij	1	n ai j
+089/043	näj	1	n ä j
+089/045	nai	1	n ai
+089/047	naaj	1	n aa j
+089/049	nahj	1	n ah j
+089/051	nae	1	n ae
+089/053	näh	1	n äh
+089/055	nae	1	n ae
+089/057	näh	1	n äh
+089/059	näh	1	n äh
+089/061	macha	1	m a ch a
+089/063	nah	1	n ah
+089/065	näh	1	n äh
+089/067	näh	1	n äh
+089/069	näh	1	n äh
+089/071	näh	1	n äh
+089/073	naaij	1	n aai j
+089/075	nai	1	n ai
+089/077	näh	1	n äh
+089/079	näh	1	n äh
+089/081	nah	1	n ah
+089/083	nah	1	n ah
+089/085	näh	1	n äh
+089/087	näh	1	n äh
+089/089	nah	1	n ah
+089/091	nah	1	n ah
+089/093	mocht	1	m o ch t
+089/095	nah	1	n ah
+089/097	macha	1	m a ch a
+089/099	nah	1	n ah
+089/101	macha	1	m a ch a
+089/103	macha	1	m a ch a
+089/105	na	1	n a
+089/107	nah	1	n ah
+089/109	nah	1	n ah
+089/111	nah	1	n ah
+089/113	nah	1	n ah
+089/115	nah	1	n ah
+089/117	nah	1	n ah
+089/119	maachn	1	m aa ch n
+089/121	na	1	n a
+089/123	nah	1	n ah
+089/125	mocha	1	m o ch a
+089/127	nah	1	n ah
+089/129	nah	1	n ah
+089/131	na	1	n a
+089/133	na	1	n a
+089/135	mocha	1	m o ch a
+089/137	naah	1	n aah
+089/139	mocha	1	m o ch a
+089/141	nah	1	n ah
+089/143	nah	1	n ah
+089/145	nah	1	n ah
+089/147	nah	1	n ah
+089/149	na	1	n a
+090/035	naj	1	n a j
+090/037	naj	1	n a j
+090/039	naaj	1	n aa j
+090/041	naj	1	n a j
+090/043	nai	1	n ai
+090/045	naih	1	n aih
+090/047	nai	1	n ai
+090/049	naih	1	n aih
+090/051	naeh	1	n aeh
+090/053	näh	1	n äh
+090/055	nah	1	n ah
+090/057	nae	1	n ae
+090/059	näh	1	n äh
+090/061	näh	1	n äh
+090/063	näh	1	n äh
+090/065	näh	1	n äh
+090/067	näh	1	n äh
+090/069	nääh	1	n ääh
+090/071	näh	1	n äh
+090/073	nai	1	n ai
+090/075	nä	1	n ä
+090/077	naih	1	n aih
+090/079	näh	1	n äh
+090/081	nah	1	n ah
+090/083	nah	1	n ah
+090/085	macht	1	m a ch t
+090/087	nah	1	n ah
+090/089	macha	1	m a ch a
+090/091	nah	1	n ah
+090/093	naah	1	n aah
+090/095	macha	1	m a ch a
+090/097	nah	1	n ah
+090/099	mocha	1	m o ch a
+090/101	moocha	1	m oo ch a
+090/103	nah	1	n ah
+090/105	nah	1	n ah
+090/107	macha	1	m a ch a
+090/109	nah	1	n ah
+090/111	nah	1	n ah
+090/113	nah	1	n ah
+090/115	nah	1	n ah
+090/119	naah	1	n aah
+090/121	noh	1	n oh
+090/123	mocha	1	m o ch a
+090/125	nah	1	n ah
+090/127	nah	1	n ah
+090/129	nah	1	n ah
+090/131	nah	1	n ah
+090/133	naa	1	n aa
+090/135	mocha	1	m o ch a
+090/137	nah	1	n ah
+090/139	naah	1	n aah
+090/141	no	1	n o
+090/143	na	1	n a
+090/145	nah	1	n ah
+090/147	na	1	n a
+090/149	nah	1	n ah
+090/151	na	1	n a
+091/035	naaj	1	n aa j
+091/037	näi	1	n äi
+091/039	nahj	1	n ah j
+091/041	näi	1	n äi
+091/043	naj	1	n a j
+091/045	naj	1	n a j
+091/047	nai	1	n ai
+091/049	nai	1	n ai
+091/051	näh	1	n äh
+091/053	näh	1	n äh
+091/055	näh	1	n äh
+091/057	nä	1	n ä
+091/059	nä	1	n ä
+091/061	macha	1	m a ch a
+091/063	nä	1	n ä
+091/065	nee	1	n ee
+091/067	näh	1	n äh
+091/069	näh	1	n äh
+091/071	näh	1	n äh
+091/073	naaij	1	n aai j
+091/075	macha	1	m a ch a
+091/077	nai	1	n ai
+091/079	näh	1	n äh
+091/081	näh	1	n äh
+091/083	nah	1	n ah
+091/085	nah	1	n ah
+091/087	nah	1	n ah
+091/091	nah	1	n ah
+091/093	naah	1	n aah
+091/095	NA	NA	-
+091/097	na	1	n a
+091/099	na	1	n a
+091/101	mocha	1	m o ch a
+091/103	machaa	1	m a ch aa
+091/105	machn	1	m a ch n
+091/107	macha	1	m a ch a
+091/109	nah	1	n ah
+091/111	no	1	n o
+091/113	nah	1	n ah
+091/115	nah	1	n ah
+091/117	nah	1	n ah
+091/119	nah	1	n ah
+091/121	na	1	n a
+091/125	nah	1	n ah
+091/129	nah	1	n ah
+091/131	nah	1	n ah
+091/133	nah	1	n ah
+091/135	nah	1	n ah
+091/137	NA	NA	-
+091/139	nah	1	n ah
+091/141	machn	1	m a ch n
+091/143	na	1	n a
+091/145	nah	1	n ah
+091/147	nah	1	n ah
+091/149	nah	1	n ah
+091/151	no	1	n o
+091/155	naa	1	n aa
+092/033	näj	1	n ä j
+092/035	naj	1	n a j
+092/037	naj	1	n a j
+092/039	naj	1	n a j
+092/041	naai	1	n aai
+092/043	naih	1	n aih
+092/045	nai	1	n ai
+092/047	nai	1	n ai
+092/049	naj	1	n a j
+092/051	nai	1	n ai
+092/053	mache	1	m a ch e
+092/055	nah	1	n ah
+092/057	näh	1	n äh
+092/059	nä	1	n ä
+092/061	näh	1	n äh
+092/063	nää	1	n ää
+092/065	macha	1	m a ch a
+092/067	nää	1	n ää
+092/069	näh	1	n äh
+092/071	macha	1	m a ch a
+092/073	nai	1	n ai
+092/075	nei	1	n ei
+092/077	naai	1	n aai
+092/079	macha	1	m a ch a
+092/081	nah	1	n ah
+092/083	nah	1	n ah
+092/085	nah	1	n ah
+092/087	nah	1	n ah
+092/089	nah	1	n ah
+092/091	nah	1	n ah
+092/093	nah	1	n ah
+092/095	nah	1	n ah
+092/097	na	1	n a
+092/099	nah	1	n ah
+092/101	nah	1	n ah
+092/103	macha	1	m a ch a
+092/105	na	1	n a
+092/107	mocha	1	m o ch a
+092/109	na	1	n a
+092/111	nah	1	n ah
+092/113	macha	1	m a ch a
+092/115	nah	1	n ah
+092/117	na	1	n a
+092/119	nah	1	n ah
+092/121	mochn	1	m o ch n
+092/123	macha	1	m a ch a
+092/125	nah	1	n ah
+092/127	nah	1	n ah
+092/129	mochn	1	m o ch n
+092/131	nah	1	n ah
+092/133	nah	1	n ah
+092/135	mochn	1	m o ch n
+092/137	mocha	1	m o ch a
+092/139	mocha	1	m o ch a
+092/141	nah	1	n ah
+092/143	nah	1	n ah
+092/145	na	1	n a
+092/147	nah	1	n ah
+092/149	nah	1	n ah
+092/151	nah	1	n ah
+093/035	naaj	1	n aa j
+093/037	naaj	1	n aa j
+093/039	näi	1	n äi
+093/041	näi	1	n äi
+093/043	nääi	1	n ääi
+093/045	macha	1	m a ch a
+093/047	nai	1	n ai
+093/049	naj	1	n a j
+093/051	nahj	1	n ah j
+093/053	nä	1	n ä
+093/055	nää	1	n ää
+093/057	näh	1	n äh
+093/059	näh	1	n äh
+093/061	macho	1	m a ch o
+093/063	nä	1	n ä
+093/065	näh	1	n äh
+093/067	nä	1	n ä
+093/069	macha	1	m a ch a
+093/071	näh	1	n äh
+093/073	macha	1	m a ch a
+093/075	nai	1	n ai
+093/077	näh	1	n äh
+093/079	näh	1	n äh
+093/081	neh	1	n eh
+093/083	nah	1	n ah
+093/085	nah	1	n ah
+093/087	macha	1	m a ch a
+093/089	nah	1	n ah
+093/091	nah	1	n ah
+093/093	mocha	1	m o ch a
+093/095	nah	1	n ah
+093/097	macha	1	m a ch a
+093/099	nah	1	n ah
+093/101	nah	1	n ah
+093/103	mocht	1	m o ch t
+093/105	nah	1	n ah
+093/109	macha	1	m a ch a
+093/111	nah	1	n ah
+093/113	nah	1	n ah
+093/115	nah	1	n ah
+093/117	na	1	n a
+093/119	nah	1	n ah
+093/121	nah	1	n ah
+093/123	nah	1	n ah
+093/125	na	1	n a
+093/127	mocha	1	m o ch a
+093/129	nah	1	n ah
+093/131	nah	1	n ah
+093/133	noh	1	n oh
+093/137	noh	1	n oh
+093/139	ma	1	m a
+093/143	nah	1	n ah
+093/145	neh	1	n eh
+093/147	mochn	1	m o ch n
+093/149	nah	1	n ah
+093/151	nah	1	n ah
+093/153	nah	1	n ah
+093/155	nah	1	n ah
+094/033	naai	1	n aai
+094/035	näi	1	n äi
+094/037	naaij	1	n aai j
+094/039	näj	1	n ä j
+094/041	näij	1	n äi j
+094/043	naaj	1	n aa j
+094/045	näih	1	n äih
+094/047	nei	1	n ei
+094/049	nai	1	n ai
+094/051	neih	1	n eih
+094/053	nai	1	n ai
+094/055	näh	1	n äh
+094/057	näh	1	n äh
+094/059	macha	1	m a ch a
+094/061	näh	1	n äh
+094/063	nä	1	n ä
+094/065	macha	1	m a ch a
+094/067	nää	1	n ää
+094/069	nä	1	n ä
+094/071	nah	1	n ah
+094/073	macha	1	m a ch a
+094/075	nääh	1	n ääh
+094/077	näh	1	n äh
+094/079	macha	1	m a ch a
+094/081	nah	1	n ah
+094/083	nah	1	n ah
+094/085	na	1	n a
+094/087	nah	1	n ah
+094/089	näh	1	n äh
+094/091	nah	1	n ah
+094/093	nah	1	n ah
+094/095	nah	1	n ah
+094/097	macha	1	m a ch a
+094/099	nah	1	n ah
+094/101	naah	1	n aah
+094/103	na	1	n a
+094/105	nah	1	n ah
+094/107	nah	1	n ah
+094/109	nah	1	n ah
+094/111	nah	1	n ah
+094/113	macha	1	m a ch a
+094/115	nah	1	n ah
+094/117	flicka	1	f l i ck a
+094/119	nah	1	n ah
+094/121	nah	1	n ah
+094/123	mocha	1	m o ch a
+094/125	na	1	n a
+094/127	nah	1	n ah
+094/129	mocha	1	m o ch a
+094/131	nah	1	n ah
+094/133	nah	1	n ah
+094/135	nah	1	n ah
+094/137	nah	1	n ah
+094/139	nah	1	n ah
+094/141	nah	1	n ah
+094/143	nah	1	n ah
+094/145	nah	1	n ah
+094/147	mocha	1	m o ch a
+094/149	nah	1	n ah
+094/151	nah	1	n ah
+094/153	nah	1	n ah
+095/031	naj	1	n a j
+095/033	näi	1	n äi
+095/035	nai	1	n ai
+095/037	naj	1	n a j
+095/039	naj	1	n a j
+095/041	naj	1	n a j
+095/043	nai	1	n ai
+095/045	naih	1	n aih
+095/047	nai	1	n ai
+095/049	näi	1	n äi
+095/051	macha	1	m a ch a
+095/053	näih	1	n äih
+095/055	nei	1	n ei
+095/057	nä	1	n ä
+095/059	macha	1	m a ch a
+095/061	macha	1	m a ch a
+095/063	näh	1	n äh
+095/065	nä	1	n ä
+095/067	näh	1	n äh
+095/069	macha	1	m a ch a
+095/071	näh	1	n äh
+095/073	macha	1	m a ch a
+095/075	näh	1	n äh
+095/077	macha	1	m a ch a
+095/079	macha	1	m a ch a
+095/081	macha	1	m a ch a
+095/083	nah	1	n ah
+095/085	nah	1	n ah
+095/087	macha	1	m a ch a
+095/089	naa	1	n aa
+095/091	macha	1	m a ch a
+095/093	nah	1	n ah
+095/095	nah	1	n ah
+095/097	macha	1	m a ch a
+095/099	nah	1	n ah
+095/101	naah	1	n aah
+095/103	nah	1	n ah
+095/105	nah	1	n ah
+095/107	naah	1	n aah
+095/109	mocha	1	m o ch a
+095/111	na	1	n a
+095/113	mocha	1	m o ch a
+095/115	nah	1	n ah
+095/117	nah	1	n ah
+095/119	nah	1	n ah
+095/121	nah	1	n ah
+095/123	nah	1	n ah
+095/125	na	1	n a
+095/129	nah	1	n ah
+095/131	noh	1	n oh
+095/133	mocha	1	m o ch a
+095/139	neh	1	n eh
+095/141	nah	1	n ah
+095/143	nah	1	n ah
+095/145	nah	1	n ah
+095/147	nah	1	n ah
+095/149	mocha	1	m o ch a
+095/151	nah	1	n ah
+095/153	nah	1	n ah
+095/155	nah	1	n ah
+096/031	naj	1	n a j
+096/033	näi	1	n äi
+096/035	naaj	1	n aa j
+096/037	nai	1	n ai
+096/039	nai	1	n ai
+096/041	nei	1	n ei
+096/043	nai	1	n ai
+096/045	naai	1	n aai
+096/047	nai	1	n ai
+096/049	nai	1	n ai
+096/051	mache	1	m a ch e
+096/053	nai	1	n ai
+096/055	näh	1	n äh
+096/057	näh	1	n äh
+096/059	nä	1	n ä
+096/061	macha	1	m a ch a
+096/063	näh	1	n äh
+096/065	na	1	n a
+096/067	mocha	1	m o ch a
+096/069	näh	1	n äh
+096/071	macha	1	m a ch a
+096/075	macha	1	m a ch a
+096/077	näh	1	n äh
+096/079	näh	1	n äh
+096/081	nah	1	n ah
+096/083	machn	1	m a ch n
+096/085	macha	1	m a ch a
+096/087	na	1	n a
+096/089	na	1	n a
+096/091	macha	1	m a ch a
+096/093	naah	1	n aah
+096/095	macha	1	m a ch a
+096/097	nah	1	n ah
+096/099	nah	1	n ah
+096/101	moachan	1	m oa ch a n
+096/103	nah	1	n ah
+096/105	macha	1	m a ch a
+096/107	na	1	n a
+096/109	macha	1	m a ch a
+096/111	nah	1	n ah
+096/113	nah	1	n ah
+096/115	nah	1	n ah
+096/117	mocha	1	m o ch a
+096/119	nah	1	n ah
+096/121	na	1	n a
+096/123	na	1	n a
+096/125	na	1	n a
+096/129	na	1	n a
+096/131	nah	1	n ah
+096/135	nah	1	n ah
+096/137	mocha	1	m o ch a
+096/139	na	1	n a
+096/141	mochn	1	m o ch n
+096/143	mocha	1	m o ch a
+096/145	nah	1	n ah
+096/147	na	1	n a
+096/151	naa	1	n aa
+096/153	nah	1	n ah
+096/155	nah	1	n ah
+097/031	mache	1	m a ch e
+097/033	nai	1	n ai
+097/035	nahj	1	n ah j
+097/037	nai	1	n ai
+097/039	naih	1	n aih
+097/041	naih	1	n aih
+097/043	naih	1	n aih
+097/045	nai	1	n ai
+097/047	mache	1	m a ch e
+097/049	naj	1	n a j
+097/051	nai	1	n ai
+097/053	naai	1	n aai
+097/055	nai	1	n ai
+097/057	nai	1	n ai
+097/059	nää	1	n ää
+097/061	nä	1	n ä
+097/063	näh	1	n äh
+097/065	näi	1	n äi
+097/067	mache	1	m a ch e
+097/069	nä	1	n ä
+097/071	näh	1	n äh
+097/073	näh	1	n äh
+097/075	näh	1	n äh
+097/077	macha	1	m a ch a
+097/079	näh	1	n äh
+097/081	macha	1	m a ch a
+097/083	nah	1	n ah
+097/085	mache	1	m a ch e
+097/087	nah	1	n ah
+097/089	macha	1	m a ch a
+097/091	macha	1	m a ch a
+097/093	macha	1	m a ch a
+097/095	nah	1	n ah
+097/097	macha	1	m a ch a
+097/099	macha	1	m a ch a
+097/103	na	1	n a
+097/105	nah	1	n ah
+097/107	mocha	1	m o ch a
+097/109	nah	1	n ah
+097/113	na	1	n a
+097/125	nah	1	n ah
+097/131	nah	1	n ah
+097/133	nah	1	n ah
+097/139	naa	1	n aa
+097/141	na	1	n a
+097/143	nah	1	n ah
+097/145	nah	1	n ah
+097/149	mocha	1	m o ch a
+097/153	nah	1	n ah
+098/033	macha	1	m a ch a
+098/035	naaj	1	n aa j
+098/037	nah	1	n ah
+098/039	naj	1	n a j
+098/041	nähj	1	n äh j
+098/043	naih	1	n aih
+098/045	nai	1	n ai
+098/047	naai	1	n aai
+098/049	mache	1	m a ch e
+098/051	näh	1	n äh
+098/053	nei	1	n ei
+098/055	näh	1	n äh
+098/057	naai	1	n aai
+098/059	nä	1	n ä
+098/061	macha	1	m a ch a
+098/063	macha	1	m a ch a
+098/065	macha	1	m a ch a
+098/067	näh	1	n äh
+098/069	macha	1	m a ch a
+098/071	macha	1	m a ch a
+098/073	näh	1	n äh
+098/075	mache	1	m a ch e
+098/077	mache	1	m a ch e
+098/079	näh	1	n äh
+098/081	nah	1	n ah
+098/083	nah	1	n ah
+098/085	macha	1	m a ch a
+098/087	nah	1	n ah
+098/089	nah	1	n ah
+098/091	nah	1	n ah
+098/093	ma	1	m a
+098/095	machn	1	m a ch n
+098/097	machn	1	m a ch n
+098/103	nah	1	n ah
+098/105	mochn	1	m o ch n
+098/107	nah	1	n ah
+098/109	nah	1	n ah
+098/111	nah	1	n ah
+098/119	flicka	1	f l i ck a
+098/123	nah	1	n ah
+098/125	mocha	1	m o ch a
+098/127	mocha	1	m o ch a
+098/135	nah	1	n ah
+098/137	nah	1	n ah
+098/139	nah	1	n ah
+098/141	nah	1	n ah
+098/143	mocha	1	m o ch a
+098/145	nah	1	n ah
+098/147	näh	1	n äh
+098/149	nah	1	n ah
+098/151	mocha	1	m o ch a
+099/033	nai	1	n ai
+099/035	nai	1	n ai
+099/037	nay	1	n ay
+099/039	nai	1	n ai
+099/041	naij	1	n ai j
+099/043	naai	1	n aai
+099/045	mache	1	m a ch e
+099/047	nai	1	n ai
+099/049	nai	1	n ai
+099/051	naai	1	n aai
+099/053	nei	1	n ei
+099/055	näi	1	n äi
+099/057	näi	1	n äi
+099/059	näh	1	n äh
+099/063	nähj	1	n äh j
+099/065	nei	1	n ei
+099/067	nei	1	n ei
+099/069	nei	1	n ei
+099/071	macha	1	m a ch a
+099/073	näh	1	n äh
+099/075	nai	1	n ai
+099/077	näh	1	n äh
+099/081	naa	1	n aa
+099/083	nah	1	n ah
+099/085	nah	1	n ah
+099/089	nah	1	n ah
+099/093	nah	1	n ah
+099/095	nah	1	n ah
+099/099	nah	1	n ah
+099/101	nah	1	n ah
+099/103	macha	1	m a ch a
+099/105	macha	1	m a ch a
+099/107	nah	1	n ah
+099/109	NA	NA	-
+099/111	ma	1	m a
+099/113	nah	1	n ah
+099/121	mocha	1	m o ch a
+099/123	nah	1	n ah
+099/125	nah	1	n ah
+099/131	nah	1	n ah
+099/137	nah	1	n ah
+099/139	nah	1	n ah
+099/141	nah	1	n ah
+099/143	nah	1	n ah
+099/145	nah	1	n ah
+099/147	mocha	1	m o ch a
+100/033	naj	1	n a j
+100/035	nai	1	n ai
+100/037	nah	1	n ah
+100/039	nai	1	n ai
+100/041	nei	1	n ei
+100/043	nääij	1	n ääi j
+100/045	näi	1	n äi
+100/049	näi	1	n äi
+100/051	näij	1	n äi j
+100/053	büeze	1	b üe z e
+100/055	nei	1	n ei
+100/057	nei	1	n ei
+100/059	neij	1	n ei j
+100/061	näi	1	n äi
+100/065	nei	1	n ei
+100/067	nei	1	n ei
+100/069	nei	1	n ei
+100/071	neh	1	n eh
+100/073	nah	1	n ah
+100/075	näj	1	n ä j
+100/077	näh	1	n äh
+100/081	na	1	n a
+100/083	nah	1	n ah
+100/089	nah	1	n ah
+100/093	nah	1	n ah
+100/095	machn	1	m a ch n
+100/097	nah	1	n ah
+100/099	moachn	1	m oa ch n
+100/101	nah	1	n ah
+100/109	nah	1	n ah
+100/111	nah	1	n ah
+100/113	nah	1	n ah
+100/115	mocha	1	m o ch a
+100/117	nah	1	n ah
+100/119	mochn	1	m o ch n
+100/121	nah	1	n ah
+100/125	nah	1	n ah
+100/127	nah	1	n ah
+100/129	nah	1	n ah
+100/133	nah	1	n ah
+100/135	nah	1	n ah
+100/141	nah	1	n ah
+100/143	nah	1	n ah
+100/145	mochaand	1	m o ch aa n d
+101/035	nai	1	n ai
+101/037	näi	1	n äi
+101/039	näij	1	n äi j
+101/041	näi	1	n äi
+101/043	näi	1	n äi
+101/045	mache	1	m a ch e
+101/047	näij	1	n äi j
+101/049	neij	1	n ei j
+101/051	büeze	1	b üe z e
+101/053	mache	1	m a ch e
+101/055	nai	1	n ai
+101/057	nei	1	n ei
+101/059	nai	1	n ai
+101/061	naai	1	n aai
+101/063	neei	1	n eei
+101/065	neii	1	n eii
+101/067	nähij	1	n ä h i j
+101/071	näh	1	n äh
+101/075	mache	1	m a ch e
+101/077	näj	1	n ä j
+101/079	naah	1	n aah
+101/081	machn	1	m a ch n
+101/091	na	1	n a
+101/093	mochn	1	m o ch n
+101/095	mochn	1	m o ch n
+101/097	naah	1	n aah
+101/099	nah	1	n ah
+101/101	nah	1	n ah
+101/103	mochn	1	m o ch n
+101/107	na	1	n a
+101/109	mochn	1	m o ch n
+101/113	mochn	1	m o ch n
+101/115	nah	1	n ah
+101/121	mochn	1	m o ch n
+101/125	nah	1	n ah
+101/129	nah	1	n ah
+101/131	nah	1	n ah
+101/133	nah	1	n ah
+101/137	nah	1	n ah
+101/139	nah	1	n ah
+101/141	näh	1	n äh
+101/143	noh	1	n oh
+101/145	naa	1	n aa
+101/147	naa	1	n aa
+102/037	näij	1	n äi j
+102/039	machä	1	m a ch ä
+102/041	näi	1	n äi
+102/043	näij	1	n äi j
+102/045	näi	1	n äi
+102/047	nääi	1	n ääi
+102/049	ne	1	n e
+102/051	büeze	1	b üe z e
+102/053	büözö	1	b üö z ö
+102/055	büeze	1	b üe z e
+102/057	nei	1	n ei
+102/059	büeze	1	b üe z e
+102/061	näj	1	n ä j
+102/063	machaa	1	m a ch aa
+102/065	nä	1	n ä
+102/067	nei	1	n ei
+102/069	nei	1	n ei
+102/071	neih	1	n eih
+102/073	naj	1	n a j
+102/075	naj	1	n a j
+102/077	naj	1	n a j
+102/079	näh	1	n äh
+102/081	nah	1	n ah
+102/083	nah	1	n ah
+102/089	nah	1	n ah
+102/091	mochn	1	m o ch n
+102/093	nah	1	n ah
+102/095	mochn	1	m o ch n
+102/097	nah	1	n ah
+102/099	machn	1	m a ch n
+102/103	machn	1	m a ch n
+102/107	mochn	1	m o ch n
+102/109	nah	1	n ah
+102/113	nah	1	n ah
+102/115	na	1	n a
+102/127	na	1	n a
+102/129	nah	1	n ah
+102/131	nah	1	n ah
+102/135	na	1	n a
+102/137	nah	1	n ah
+102/139	nah	1	n ah
+102/141	nah	1	n ah
+102/143	nah	1	n ah
+102/145	na	1	n a
+103/039	nai	1	n ai
+103/041	naai	1	n aai
+103/043	näj	1	n ä j
+103/045	näi	1	n äi
+103/047	nääi	1	n ääi
+103/049	büeze	1	b üe z e
+103/051	büeze	1	b üe z e
+103/053	näj	1	n ä j
+103/055	büeze	1	b üe z e
+103/057	büetze	1	b üe t z e
+103/059	machä	1	m a ch ä
+103/063	nei	1	n ei
+103/065	nai	1	n ai
+103/067	nei	1	n ei
+103/069	nei	1	n ei
+103/071	näj	1	n ä j
+103/073	nah	1	n ah
+103/075	nai	1	n ai
+103/077	nahj	1	n ah j
+103/079	nah	1	n ah
+103/081	nah	1	n ah
+103/083	nah	1	n ah
+103/085	nah	1	n ah
+103/087	moachn	1	m oa ch n
+103/089	mochn	1	m o ch n
+103/091	nah	1	n ah
+103/097	nah	1	n ah
+103/099	mochn	1	m o ch n
+103/101	na	1	n a
+103/105	nah	1	n ah
+103/107	naa	1	n aa
+103/111	mochn	1	m o ch n
+103/121	nah	1	n ah
+103/125	nah	1	n ah
+103/127	nah	1	n ah
+103/131	nah	1	n ah
+103/133	nah	1	n ah
+103/135	nah	1	n ah
+103/137	nah	1	n ah
+103/139	nah	1	n ah
+103/141	nah	1	n ah
+103/143	nah	1	n ah
+103/145	nah	1	n ah
+104/033	mache	1	m a ch e
+104/035	näij	1	n äi j
+104/037	näi	1	n äi
+104/039	nääj	1	n ää j
+104/041	näij	1	n äi j
+104/043	näi	1	n äi
+104/045	näi	1	n äi
+104/047	nääj	1	n ää j
+104/049	büetze	1	b üe t z e
+104/051	büözä	1	b üö z ä
+104/053	büeze	1	b üe z e
+104/055	näjj	1	n ä jj
+104/057	büätzä	1	b üä t z ä
+104/059	büeze	1	b üe z e
+104/061	näii	1	n äii
+104/063	nei	1	n ei
+104/065	nei	1	n ei
+104/067	macha	1	m a ch a
+104/071	nah	1	n ah
+104/075	moucha	1	m ou ch a
+104/077	naij	1	n ai j
+104/079	nah	1	n ah
+104/081	nah	1	n ah
+104/083	nah	1	n ah
+104/085	nah	1	n ah
+104/091	mocht	1	m o ch t
+104/095	nah	1	n ah
+104/101	nah	1	n ah
+104/103	machn	1	m a ch n
+104/107	noh	1	n oh
+104/111	naa	1	n aa
+104/113	nah	1	n ah
+104/119	nah	1	n ah
+104/121	mochn	1	m o ch n
+104/123	naa	1	n aa
+104/125	mochn	1	m o ch n
+104/127	nah	1	n ah
+104/131	nah	1	n ah
+104/133	na	1	n a
+104/135	nah	1	n ah
+104/137	nah	1	n ah
+104/139	nah	1	n ah
+104/141	nah	1	n ah
+104/143	nah	1	n ah
+104/145	nah	1	n ah
+105/031	näij	1	n äi j
+105/033	näi	1	n äi
+105/035	mache	1	m a ch e
+105/037	mache	1	m a ch e
+105/039	näi	1	n äi
+105/041	näj	1	n ä j
+105/043	näi	1	n äi
+105/045	büeze	1	b üe z e
+105/047	nähi	1	n ä h i
+105/049	büezze	1	b üe zz e
+105/051	näj	1	n ä j
+105/053	büetzä	1	b üe t z ä
+105/055	büözzä	1	b üö zz ä
+105/057	büäzä	1	b üä z ä
+105/059	näi	1	n äi
+105/061	büetze	1	b üe t z e
+105/063	nej	1	n e j
+105/065	näj	1	n ä j
+105/067	nei	1	n ei
+105/069	nei	1	n ei
+105/071	maacha	1	m aa ch a
+105/073	nahj	1	n ah j
+105/075	naj	1	n a j
+105/077	nai	1	n ai
+105/079	flickn	1	f l i ck n
+105/081	nah	1	n ah
+105/085	na	1	n a
+105/087	nah	1	n ah
+105/089	mocht	1	m o ch t
+105/103	na	1	n a
+105/105	nah	1	n ah
+105/111	nah	1	n ah
+105/113	nah	1	n ah
+105/115	näh	1	n äh
+105/117	nah	1	n ah
+105/119	mochn	1	m o ch n
+105/121	nah	1	n ah
+105/125	nah	1	n ah
+105/127	nah	1	n ah
+105/131	nah	1	n ah
+105/133	nah	1	n ah
+105/135	nah	1	n ah
+105/137	nah	1	n ah
+105/141	mochn	1	m o ch n
+105/143	nah	1	n ah
+105/145	nah	1	n ah
+106/033	näi	1	n äi
+106/035	nähj	1	n äh j
+106/037	näj	1	n ä j
+106/039	näi	1	n äi
+106/041	näj	1	n ä j
+106/043	büeze	1	b üe z e
+106/045	büetze	1	b üe t z e
+106/047	nääij	1	n ääi j
+106/049	näi	1	n äi
+106/051	büötzä	1	b üö t z ä
+106/053	büezä	1	b üe z ä
+106/057	büetzä	1	b üe t z ä
+106/061	büäzä	1	b üä z ä
+106/063	büeza	1	b üe z a
+106/067	naj	1	n a j
+106/071	nahj	1	n ah j
+106/073	naj	1	n a j
+106/075	nai	1	n ai
+106/077	nah	1	n ah
+106/079	mochn	1	m o ch n
+106/081	flickn	1	f l i ck n
+106/085	machn	1	m a ch n
+106/087	machn	1	m a ch n
+106/093	mochn	1	m o ch n
+106/097	nah	1	n ah
+106/099	mochn	1	m o ch n
+106/103	nah	1	n ah
+106/111	nah	1	n ah
+106/115	nah	1	n ah
+106/121	nah	1	n ah
+106/123	na	1	n a
+106/125	mochn	1	m o ch n
+106/129	mochn	1	m o ch n
+106/131	nah	1	n ah
+106/133	nah	1	n ah
+106/135	nah	1	n ah
+106/137	nah	1	n ah
+106/139	nah	1	n ah
+106/141	nah	1	n ah
+106/143	nah	1	n ah
+106/145	nah	1	n ah
+107/033	näi	1	n äi
+107/035	näi	1	n äi
+107/037	näi	1	n äi
+107/039	näi	1	n äi
+107/041	näj	1	n ä j
+107/043	näj	1	n ä j
+107/045	näij	1	n äi j
+107/047	näih	1	n äih
+107/049	biätze	1	b iä t z e
+107/051	büetze	1	b üe t z e
+107/053	büätzä	1	b üä t z ä
+107/057	büäzä	1	b üä z ä
+107/059	büeze	1	b üe z e
+107/063	büezä	1	b üe z ä
+107/065	büezen	1	b üe z e n
+107/071	nahj	1	n ah j
+107/075	nahj	1	n ah j
+107/081	nah	1	n ah
+107/085	nah	1	n ah
+107/087	mochn	1	m o ch n
+107/089	na	1	n a
+107/091	mochn	1	m o ch n
+107/097	mochin	1	m o ch i n
+107/099	nah	1	n ah
+107/103	nah	1	n ah
+107/105	nah	1	n ah
+107/107	nah	1	n ah
+107/111	nad	1	n a d
+107/119	na	1	n a
+107/121	mocha	1	m o ch a
+107/123	nah	1	n ah
+107/125	mohn	1	m oh n
+107/127	nah	1	n ah
+107/129	nah	1	n ah
+107/131	nah	1	n ah
+107/133	nah	1	n ah
+107/135	nah	1	n ah
+107/137	nah	1	n ah
+107/139	nah	1	n ah
+107/141	nah	1	n ah
+107/143	machn	1	m a ch n
+108/033	näi	1	n äi
+108/035	näj	1	n ä j
+108/037	näi	1	n äi
+108/039	näj	1	n ä j
+108/041	macht	1	m a ch t
+108/043	näi	1	n äi
+108/047	biaza	1	b ia z a
+108/049	biäzä	1	b iä z ä
+108/063	büatza	1	b üa t z a
+108/065	büezen	1	b üe z e n
+108/067	büezen	1	b üe z e n
+108/075	nai	1	n ai
+108/079	mochn	1	m o ch n
+108/081	mochn	1	m o ch n
+108/085	na	1	n a
+108/087	naa	1	n aa
+108/091	mochn	1	m o ch n
+108/099	NA	NA	-
+108/101	nah	1	n ah
+108/103	nah	1	n ah
+108/105	nah	1	n ah
+108/109	na	1	n a
+108/111	maochn	1	m ao ch n
+108/113	nah	1	n ah
+108/117	mochn	1	m o ch n
+108/119	nah	1	n ah
+108/121	nah	1	n ah
+108/123	na	1	n a
+108/125	nah	1	n ah
+108/127	nah	1	n ah
+108/129	nah	1	n ah
+108/131	mochn	1	m o ch n
+108/133	nah	1	n ah
+108/135	nah	1	n ah
+108/137	nah	1	n ah
+108/139	nah	1	n ah
+108/141	nah	1	n ah
+109/035	nei	1	n ei
+109/037	näi	1	n äi
+109/039	näij	1	n äi j
+109/041	näih	1	n äih
+109/043	näi	1	n äi
+109/045	biätzä	1	b iä t z ä
+109/049	biezä	1	b ie z ä
+109/053	büezä	1	b üe z ä
+109/061	näj	1	n ä j
+109/063	buaza	1	b ua z a
+109/065	büatza	1	b üa t z a
+109/067	büäzä	1	b üä z ä
+109/075	naj	1	n a j
+109/083	mochn	1	m o ch n
+109/087	naa	1	n aa
+109/089	nah	1	n ah
+109/091	nah	1	n ah
+109/093	na	1	n a
+109/095	nad	1	n a d
+109/097	nah	1	n ah
+109/099	mochn	1	m o ch n
+109/101	mochn	1	m o ch n
+109/103	mochn	1	m o ch n
+109/107	nah	1	n ah
+109/109	mochn	1	m o ch n
+109/111	nah	1	n ah
+109/113	mohn	1	m oh n
+109/115	nah	1	n ah
+109/117	nah	1	n ah
+109/119	nah	1	n ah
+109/121	nah	1	n ah
+109/123	nah	1	n ah
+109/125	nah	1	n ah
+109/127	nah	1	n ah
+109/129	nah	1	n ah
+109/131	nah	1	n ah
+109/133	nah	1	n ah
+109/135	nah	1	n ah
+109/137	nah	1	n ah
+109/139	nah	1	n ah
+110/035	nei	1	n ei
+110/039	näi	1	n äi
+110/041	nei	1	n ei
+110/043	näi	1	n äi
+110/045	machen	1	m a ch e n
+110/047	näj	1	n ä j
+110/049	beessen	1	b ee ss e n
+110/057	bieza	1	b ie z a
+110/061	büezen	1	b üe z e n
+110/065	neh	1	n eh
+110/075	nai	1	n ai
+110/079	mochn	1	m o ch n
+110/081	nah	1	n ah
+110/083	nah	1	n ah
+110/087	mochn	1	m o ch n
+110/089	nah	1	n ah
+110/091	mochn	1	m o ch n
+110/093	nat	1	n a t
+110/095	nad	1	n a d
+110/097	nahd	1	n ah d
+110/099	mochn	1	m o ch n
+110/101	nah	1	n ah
+110/105	näh	1	n äh
+110/107	nah	1	n ah
+110/111	nah	1	n ah
+110/113	nah	1	n ah
+110/115	nah	1	n ah
+110/117	naa	1	n aa
+110/119	mochn	1	m o ch n
+110/121	nah	1	n ah
+110/125	nah	1	n ah
+110/127	nah	1	n ah
+110/129	nah	1	n ah
+110/131	nah	1	n ah
+110/133	nah	1	n ah
+110/135	nah	1	n ah
+110/137	nah	1	n ah
+110/139	mochn	1	m o ch n
+111/035	niä	1	n iä
+111/037	neäy	1	n eäy
+111/039	nej	1	n e j
+111/041	neij	1	n ei j
+111/043	biessen	1	b ie ss e n
+111/045	nai	1	n ai
+111/059	büäza	1	b üä z a
+111/073	nei	1	n ei
+111/075	mochn	1	m o ch n
+111/077	nah	1	n ah
+111/079	nah	1	n ah
+111/081	nah	1	n ah
+111/083	na	1	n a
+111/087	mochn	1	m o ch n
+111/089	na	1	n a
+111/105	mochn	1	m o ch n
+111/107	nah	1	n ah
+111/109	na	1	n a
+111/111	nah	1	n ah
+111/113	nah	1	n ah
+111/115	nah	1	n ah
+111/117	nah	1	n ah
+111/119	naa	1	n aa
+111/121	machn	1	m a ch n
+111/123	nah	1	n ah
+111/125	nah	1	n ah
+112/037	nej	1	n e j
+112/039	nej	1	n e j
+112/041	ney	1	n ey
+112/043	näij	1	n äi j
+112/047	näj	1	n ä j
+112/059	büeza	1	b üe z a
+112/061	büatza	1	b üa t z a
+112/063	macha	1	m a ch a
+112/075	mochn	1	m o ch n
+112/081	na	1	n a
+112/083	nah	1	n ah
+112/085	naa	1	n aa
+112/111	nah	1	n ah
+112/115	nah	1	n ah
+112/117	machan	1	m a ch a n
+112/119	nah	1	n ah
+113/035	neeij	1	n eei j
+113/037	niiej	1	n iie j
+113/039	nei	1	n ei
+113/047	biäzä	1	b iä z ä
+113/079	nah	1	n ah
+113/081	naa	1	n aa
+113/083	na	1	n a
+113/085	na	1	n a
+113/087	na	1	n a
+113/121	nah	1	n ah
+113/123	nah	1	n ah
+114/035	niej	1	n ie j
+114/045	biezu	1	b ie z u
+114/083	na	1	n a
+114/085	mochen	1	m o ch e n
+115/041	biezn	1	b ie z n
+115/043	biezu	1	b ie z u
+115/045	näj	1	n ä j
+115/083	na	1	n a
+115/085	nah	1	n ah
+116/043	biezu	1	b ie z u
+116/045	biazu	1	b ia z u
+116/083	nah	1	n ah
+117/043	nej	1	n e j
+117/045	biäzu	1	b iä z u
+118/041	beezu	1	b ee z u
+119/083	näh	1	n äh
+120/085	keereaus	1	k ee r eau s
+121/127	nah	1	n ah
+122/127	mochen	1	m o ch e n
+122/129	muchn	1	m u ch n
+123/081	machen	1	m a ch e n
+123/123	vlickn	1	v l i ck n
+123/125	nah	1	n ah
+123/127	nah	1	n ah
+123/129	nah	1	n ah
+124/125	nah	1	n ah
+124/127	nah	1	n ah
+124/129	mochn	1	m o ch n

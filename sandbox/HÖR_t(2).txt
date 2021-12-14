@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	horch	1	h o r ch
+002/201	her	1	h e r
+002/203	hör	1	h ö r
+002/205	hör	1	h ö r
+003/203	hör	1	h ö r
+003/205	hör	1	h ö r
+004/205	hör	1	h ö r
+005/205	hör	1	h ö r
+005/207	hör	1	h ö r
+006/205	horch	1	h o r ch
+006/207	hör	1	h ö r
+007/205	hör	1	h ö r
+007/207	hör	1	h ö r
+007/209	hör	1	h ö r
+007/211	horch	1	h o r ch
+008/199	hör	1	h ö r
+008/203	hör	1	h ö r
+008/205	her	1	h e r
+008/207	horch	1	h o r ch
+008/209	horch	1	h o r ch
+008/211	hör	1	h ö r
+008/213	hör	1	h ö r
+009/199	heer	1	h ee r
+009/203	horch	1	h o r ch
+009/207	hör	1	h ö r
+009/209	hör	1	h ö r
+009/211	hör	1	h ö r
+009/213	hör	1	h ö r
+009/215	hör	1	h ö r
+009/217	hör	1	h ö r
+010/195	hö	1	h ö
+010/203	hör	1	h ö r
+010/207	hör	1	h ö r
+010/209	hör	1	h ö r
+010/211	horch	1	h o r ch
+010/213	her	1	h e r
+010/215	hör	1	h ö r
+010/217	hör	1	h ö r
+010/219	horch	1	h o r ch
+011/049	hal	1	h a l
+011/053	hor	1	h o r
+011/055	hor	1	h o r
+011/057	holl	1	h o ll
+011/059	horr	1	h o rr
+011/061	hör	1	h ö r
+011/063	hör	1	h ö r
+011/065	höh	1	h öh
+011/067	hall	1	h a ll
+011/069	hor	1	h o r
+011/187	höa	1	h öa
+011/189	här	1	h ä r
+011/191	hea	1	h ea
+011/195	hör	1	h ö r
+011/197	höa	1	h öa
+011/203	her	1	h e r
+011/205	hör	1	h ö r
+011/207	heer	1	h ee r
+011/209	horch	1	h o r ch
+011/211	hör	1	h ö r
+011/213	horch	1	h o r ch
+011/215	heer	1	h ee r
+011/217	her	1	h e r
+011/219	hör	1	h ö r
+012/047	hal	1	h a l
+012/049	hal	1	h a l
+012/051	hal	1	h a l
+012/053	hör	1	h ö r
+012/055	hörr	1	h ö rr
+012/057	hör	1	h ö r
+012/059	hor	1	h o r
+012/061	hör	1	h ö r
+012/063	hor	1	h o r
+012/065	her	1	h e r
+012/067	holle	1	h o ll e
+012/069	hö	1	h ö
+012/187	hör	1	h ö r
+012/189	hör	1	h ö r
+012/191	hör	1	h ö r
+012/193	hör	1	h ö r
+012/195	hea	1	h ea
+012/197	hör	1	h ö r
+012/199	hör	1	h ö r
+012/201	hö	1	h ö
+012/203	hea	1	h ea
+012/205	hör	1	h ö r
+012/207	hör	1	h ö r
+012/209	hör	1	h ö r
+012/211	hör	1	h ö r
+012/213	hör	1	h ö r
+012/215	hör	1	h ö r
+012/217	horch	1	h o r ch
+012/219	hör	1	h ö r
+012/221	horch	1	h o r ch
+012/223	horch	1	h o r ch
+013/051	hal	1	h a l
+013/053	haal	1	h aa l
+013/055	haal	1	h aa l
+013/057	ho	1	h o
+013/059	ho	1	h o
+013/061	hör	1	h ö r
+013/063	hör	1	h ö r
+013/065	höl	1	h ö l
+013/067	hör	1	h ö r
+013/161	hör	1	h ö r
+013/163	hör	1	h ö r
+013/165	hör	1	h ö r
+013/167	hör	1	h ö r
+013/187	horch	1	h o r ch
+013/189	hör	1	h ö r
+013/191	hea	1	h ea
+013/193	höe	1	h öe
+013/195	hea	1	h ea
+013/197	hör	1	h ö r
+013/199	hör	1	h ö r
+013/201	hör	1	h ö r
+013/203	höa	1	h öa
+013/207	horch	1	h o r ch
+013/209	hör	1	h ö r
+013/211	horch	1	h o r ch
+013/213	hör	1	h ö r
+013/215	hör	1	h ö r
+013/217	hör	1	h ö r
+013/219	hör	1	h ö r
+013/221	hör	1	h ö r
+013/223	horch	1	h o r ch
+014/047	hal	1	h a l
+014/049	hiar	1	h ia r
+014/051	hal	1	h a l
+014/053	hal	1	h a l
+014/055	hal	1	h a l
+014/057	hal	1	h a l
+014/059	hör	1	h ö r
+014/061	hol	1	h o l
+014/063	hör	1	h ö r
+014/065	hör	1	h ö r
+014/067	hör	1	h ö r
+014/109	höl	1	h ö l
+014/159	her	1	h e r
+014/161	her	1	h e r
+014/163	hör	1	h ö r
+014/165	hör	1	h ö r
+014/167	her	1	h e r
+014/169	her	1	h e r
+014/187	hör	1	h ö r
+014/189	hea	1	h ea
+014/191	hö	1	h ö
+014/193	höa	1	h öa
+014/195	hör	1	h ö r
+014/197	hea	1	h ea
+014/199	hör	1	h ö r
+014/201	horch	1	h o r ch
+014/203	höa	1	h öa
+014/205	hör	1	h ö r
+014/207	hör	1	h ö r
+014/209	hör	1	h ö r
+014/211	horch	1	h o r ch
+014/213	hör	1	h ö r
+014/215	hör	1	h ö r
+014/217	hör	1	h ö r
+014/219	horch	1	h o r ch
+014/221	horch	1	h o r ch
+015/049	hal	1	h a l
+015/051	hiar	1	h ia r
+015/053	hal	1	h a l
+015/055	hal	1	h a l
+015/057	hahl	1	h ah l
+015/059	häl	1	h ä l
+015/061	häl	1	h ä l
+015/063	hör	1	h ö r
+015/065	hör	1	h ö r
+015/067	hör	1	h ö r
+015/105	hür	1	h ü r
+015/107	höl	1	h ö l
+015/109	hür	1	h ü r
+015/151	hea	1	h ea
+015/153	her	1	h e r
+015/155	hör	1	h ö r
+015/157	hör	1	h ö r
+015/159	her	1	h e r
+015/161	her	1	h e r
+015/163	hel	1	h e l
+015/165	hör	1	h ö r
+015/167	her	1	h e r
+015/169	hör	1	h ö r
+015/173	hör	1	h ö r
+015/187	höe	1	h öe
+015/191	hea	1	h ea
+015/193	hör	1	h ö r
+015/195	hea	1	h ea
+015/197	hör	1	h ö r
+015/199	heer	1	h ee r
+015/201	höa	1	h öa
+015/203	hör	1	h ö r
+015/205	hörh	1	h ö r h
+015/207	horch	1	h o r ch
+015/209	horch	1	h o r ch
+015/211	hör	1	h ö r
+015/213	horch	1	h o r ch
+015/215	hör	1	h ö r
+015/217	hör	1	h ö r
+015/219	hör	1	h ö r
+015/221	hör	1	h ö r
+016/051	hahl	1	h ah l
+016/055	hier	1	h ie r
+016/057	hel	1	h e l
+016/059	höll	1	h ö ll
+016/061	hör	1	h ö r
+016/063	höl	1	h ö l
+016/065	höl	1	h ö l
+016/067	hör	1	h ö r
+016/081	hör	1	h ö r
+016/083	höll	1	h ö ll
+016/105	hür	1	h ü r
+016/107	hür	1	h ü r
+016/109	hür	1	h ü r
+016/111	hür	1	h ü r
+016/145	hör	1	h ö r
+016/147	höe	1	h öe
+016/149	höö	1	h öö
+016/151	hee	1	h ee
+016/153	hö	1	h ö
+016/155	höh	1	h öh
+016/157	her	1	h e r
+016/159	her	1	h e r
+016/161	hör	1	h ö r
+016/163	her	1	h e r
+016/165	hör	1	h ö r
+016/167	hör	1	h ö r
+016/187	hea	1	h ea
+016/189	hea	1	h ea
+016/191	hör	1	h ö r
+016/193	höa	1	h öa
+016/195	höa	1	h öa
+016/197	höa	1	h öa
+016/199	hoe	1	h oe
+016/201	hea	1	h ea
+016/203	hea	1	h ea
+016/205	höa	1	h öa
+016/209	horch	1	h o r ch
+016/211	horch	1	h o r ch
+016/213	horch	1	h o r ch
+016/215	hör	1	h ö r
+016/217	horch	1	h o r ch
+016/219	hör	1	h ö r
+017/055	hal	1	h a l
+017/057	häl	1	h ä l
+017/059	häl	1	h ä l
+017/061	höl	1	h ö l
+017/063	hör	1	h ö r
+017/065	här	1	h ä r
+017/067	höl	1	h ö l
+017/069	hör	1	h ö r
+017/081	höl	1	h ö l
+017/083	holl	1	h o ll
+017/099	hür	1	h ü r
+017/101	hür	1	h ü r
+017/103	hür	1	h ü r
+017/107	hür	1	h ü r
+017/109	hur	1	h u r
+017/145	hör	1	h ö r
+017/147	höe	1	h öe
+017/149	hör	1	h ö r
+017/151	hil	1	h i l
+017/153	hil	1	h i l
+017/155	hör	1	h ö r
+017/157	her	1	h e r
+017/159	hör	1	h ö r
+017/161	hör	1	h ö r
+017/163	her	1	h e r
+017/165	hör	1	h ö r
+017/169	hör	1	h ö r
+017/171	her	1	h e r
+017/183	höa	1	h öa
+017/185	hea	1	h ea
+017/187	höa	1	h öa
+017/189	höa	1	h öa
+017/191	hoa	1	h oa
+017/193	hea	1	h ea
+017/195	hoa	1	h oa
+017/197	hea	1	h ea
+017/199	höa	1	h öa
+017/201	hör	1	h ö r
+017/203	horch	1	h o r ch
+017/205	horch	1	h o r ch
+017/207	hör	1	h ö r
+017/209	hör	1	h ö r
+017/211	horch	1	h o r ch
+017/213	hör	1	h ö r
+017/215	horch	1	h o r ch
+017/217	horch	1	h o r ch
+017/219	hör	1	h ö r
+018/051	häl	1	h ä l
+018/053	häl	1	h ä l
+018/055	hör	1	h ö r
+018/057	hol	1	h o l
+018/059	häl	1	h ä l
+018/061	holl	1	h o ll
+018/063	höl	1	h ö l
+018/065	höll	1	h ö ll
+018/067	höll	1	h ö ll
+018/069	höl	1	h ö l
+018/071	hör	1	h ö r
+018/073	höl	1	h ö l
+018/075	höl	1	h ö l
+018/079	hür	1	h ü r
+018/081	hör	1	h ö r
+018/097	hör	1	h ö r
+018/099	hür	1	h ü r
+018/103	hüe	1	h üe
+018/105	hüe	1	h üe
+018/107	hür	1	h ü r
+018/109	hür	1	h ü r
+018/111	hür	1	h ü r
+018/143	höö	1	h öö
+018/145	hör	1	h ö r
+018/147	hüll	1	h ü ll
+018/149	höe	1	h öe
+018/151	höe	1	h öe
+018/153	höe	1	h öe
+018/155	hüe	1	h üe
+018/157	hör	1	h ö r
+018/159	hoor	1	h oo r
+018/161	hör	1	h ö r
+018/163	hör	1	h ö r
+018/165	hör	1	h ö r
+018/169	hör	1	h ö r
+018/171	heer	1	h ee r
+018/173	hör	1	h ö r
+018/181	heer	1	h ee r
+018/185	hoa	1	h oa
+018/187	hea	1	h ea
+018/189	hee	1	h ee
+018/191	hea	1	h ea
+018/193	höa	1	h öa
+018/195	hea	1	h ea
+018/197	hea	1	h ea
+018/199	hea	1	h ea
+018/201	hea	1	h ea
+018/203	harch	1	h a r ch
+018/205	horch	1	h o r ch
+018/207	höe	1	h öe
+018/209	hör	1	h ö r
+018/211	horch	1	h o r ch
+018/213	heer	1	h ee r
+018/215	harch	1	h a r ch
+018/219	hörch	1	h ö r ch
+019/051	hör	1	h ö r
+019/053	hääl	1	h ää l
+019/055	hol	1	h o l
+019/057	höl	1	h ö l
+019/059	höll	1	h ö ll
+019/061	hel	1	h e l
+019/063	hol	1	h o l
+019/065	hull	1	h u ll
+019/067	hör	1	h ö r
+019/069	hör	1	h ö r
+019/071	hör	1	h ö r
+019/073	höl	1	h ö l
+019/075	höld	1	h ö l d
+019/077	hör	1	h ö r
+019/079	hör	1	h ö r
+019/081	hür	1	h ü r
+019/097	höe	1	h öe
+019/099	hür	1	h ü r
+019/101	hür	1	h ü r
+019/103	hür	1	h ü r
+019/105	hür	1	h ü r
+019/107	hür	1	h ü r
+019/109	hür	1	h ü r
+019/143	häl	1	h ä l
+019/145	höd	1	h ö d
+019/147	höe	1	h öe
+019/149	hör	1	h ö r
+019/151	hil	1	h i l
+019/153	her	1	h e r
+019/155	hür	1	h ü r
+019/157	höm	1	h ö m
+019/159	hör	1	h ö r
+019/161	her	1	h e r
+019/163	hör	1	h ö r
+019/165	heer	1	h ee r
+019/167	hiä	1	h iä
+019/169	hör	1	h ö r
+019/171	hör	1	h ö r
+019/173	heer	1	h ee r
+019/175	hör	1	h ö r
+019/177	hör	1	h ö r
+019/179	hör	1	h ö r
+019/181	heer	1	h ee r
+019/183	höa	1	h öa
+019/185	hea	1	h ea
+019/187	hea	1	h ea
+019/189	höa	1	h öa
+019/191	höa	1	h öa
+019/193	her	1	h e r
+019/195	häa	1	h äa
+019/197	her	1	h e r
+019/199	höa	1	h öa
+019/201	hör	1	h ö r
+019/203	horch	1	h o r ch
+019/205	harch	1	h a r ch
+019/207	hör	1	h ö r
+019/209	horch	1	h o r ch
+019/211	heer	1	h ee r
+019/213	hör	1	h ö r
+019/215	hör	1	h ö r
+019/217	horch	1	h o r ch
+019/219	hör	1	h ö r
+020/043	heea	1	h eea
+020/053	hol	1	h o l
+020/055	höl	1	h ö l
+020/057	häll	1	h ä ll
+020/059	holl	1	h o ll
+020/061	hol	1	h o l
+020/063	hol	1	h o l
+020/065	holl	1	h o ll
+020/067	hör	1	h ö r
+020/069	höl	1	h ö l
+020/071	höl	1	h ö l
+020/073	höl	1	h ö l
+020/075	höl	1	h ö l
+020/077	höl	1	h ö l
+020/079	höll	1	h ö ll
+020/081	hüer	1	h üe r
+020/095	hür	1	h ü r
+020/097	hür	1	h ü r
+020/099	hüe	1	h üe
+020/101	hüe	1	h üe
+020/103	hü	1	h ü
+020/105	hüh	1	h üh
+020/107	hür	1	h ü r
+020/135	hör	1	h ö r
+020/137	höe	1	h öe
+020/139	hör	1	h ö r
+020/141	hooe	1	h ooe
+020/143	hö	1	h ö
+020/145	hö	1	h ö
+020/147	hee	1	h ee
+020/149	hö	1	h ö
+020/151	hee	1	h ee
+020/153	her	1	h e r
+020/155	höll	1	h ö ll
+020/157	heer	1	h ee r
+020/159	her	1	h e r
+020/161	hör	1	h ö r
+020/163	her	1	h e r
+020/165	hea	1	h ea
+020/167	höe	1	h öe
+020/169	här	1	h ä r
+020/171	hör	1	h ö r
+020/173	her	1	h e r
+020/175	hör	1	h ö r
+020/177	hör	1	h ö r
+020/179	hör	1	h ö r
+020/181	her	1	h e r
+020/183	höa	1	h öa
+020/185	höha	1	h ö h a
+020/187	hör	1	h ö r
+020/189	höa	1	h öa
+020/191	höa	1	h öa
+020/193	hea	1	h ea
+020/195	höa	1	h öa
+020/197	höa	1	h öa
+020/199	hea	1	h ea
+020/201	höä	1	h öä
+020/203	hea	1	h ea
+020/205	horch	1	h o r ch
+020/207	hör	1	h ö r
+020/209	horch	1	h o r ch
+020/211	horch	1	h o r ch
+020/213	her	1	h e r
+020/215	horch	1	h o r ch
+020/217	horch	1	h o r ch
+020/219	horch	1	h o r ch
+021/055	höl	1	h ö l
+021/057	hol	1	h o l
+021/059	holl	1	h o ll
+021/061	höll	1	h ö ll
+021/063	hül	1	h ü l
+021/065	hör	1	h ö r
+021/067	hör	1	h ö r
+021/069	hör	1	h ö r
+021/071	hör	1	h ö r
+021/073	höll	1	h ö ll
+021/075	höll	1	h ö ll
+021/077	höll	1	h ö ll
+021/079	höll	1	h ö ll
+021/087	hüe	1	h üe
+021/089	hüe	1	h üe
+021/091	hür	1	h ü r
+021/093	hüüe	1	h üüe
+021/095	hüa	1	h üa
+021/097	hühr	1	h üh r
+021/099	hür	1	h ü r
+021/101	höl	1	h ö l
+021/103	hür	1	h ü r
+021/105	hüa	1	h üa
+021/107	hür	1	h ü r
+021/109	hür	1	h ü r
+021/111	hür	1	h ü r
+021/113	hür	1	h ü r
+021/131	hor	1	h o r
+021/133	huull	1	h uu ll
+021/135	höe	1	h öe
+021/137	hör	1	h ö r
+021/139	höl	1	h ö l
+021/141	höe	1	h öe
+021/143	höe	1	h öe
+021/145	heue	1	h eue
+021/147	höe	1	h öe
+021/149	hör	1	h ö r
+021/151	her	1	h e r
+021/153	hill	1	h i ll
+021/155	hül	1	h ü l
+021/157	her	1	h e r
+021/159	hör	1	h ö r
+021/163	hör	1	h ö r
+021/165	hir	1	h i r
+021/167	hüe	1	h üe
+021/169	her	1	h e r
+021/171	hör	1	h ö r
+021/173	hör	1	h ö r
+021/175	hör	1	h ö r
+021/177	hör	1	h ö r
+021/179	hör	1	h ö r
+021/181	her	1	h e r
+021/183	höe	1	h öe
+021/185	hör	1	h ö r
+021/187	höa	1	h öa
+021/189	hoaa	1	h oaa
+021/191	höa	1	h öa
+021/193	höa	1	h öa
+021/195	höa	1	h öa
+021/197	höa	1	h öa
+021/199	höa	1	h öa
+021/201	hea	1	h ea
+021/203	hoarch	1	h oa r ch
+021/205	höa	1	h öa
+021/207	horch	1	h o r ch
+021/211	hör	1	h ö r
+021/215	hör	1	h ö r
+021/217	horch	1	h o r ch
+021/219	hör	1	h ö r
+022/055	höl	1	h ö l
+022/057	hol	1	h o l
+022/059	hol	1	h o l
+022/061	hol	1	h o l
+022/063	hol	1	h o l
+022/065	hol	1	h o l
+022/067	hol	1	h o l
+022/069	höll	1	h ö ll
+022/071	häl	1	h ä l
+022/073	höl	1	h ö l
+022/075	höll	1	h ö ll
+022/077	höl	1	h ö l
+022/087	hüe	1	h üe
+022/089	hür	1	h ü r
+022/091	hür	1	h ü r
+022/093	hür	1	h ü r
+022/095	hür	1	h ü r
+022/097	höll	1	h ö ll
+022/099	hör	1	h ö r
+022/101	hür	1	h ü r
+022/103	hür	1	h ü r
+022/105	hür	1	h ü r
+022/107	hür	1	h ü r
+022/109	l	1	l
+022/111	l	1	l
+022/113	l	1	l
+022/115	hüa	1	h üa
+022/127	höe	1	h öe
+022/129	höe	1	h öe
+022/131	hül	1	h ü l
+022/133	höe	1	h öe
+022/135	hül	1	h ü l
+022/137	höe	1	h öe
+022/139	höe	1	h öe
+022/141	höe	1	h öe
+022/143	höe	1	h öe
+022/145	höer	1	h öe r
+022/147	hel	1	h e l
+022/149	hoie	1	h oie
+022/151	heä	1	h eä
+022/153	hö	1	h ö
+022/155	heä	1	h eä
+022/157	heer	1	h ee r
+022/159	hö	1	h ö
+022/165	hie	1	h ie
+022/167	hüe	1	h üe
+022/169	hier	1	h ie r
+022/171	heer	1	h ee r
+022/173	hör	1	h ö r
+022/175	hör	1	h ö r
+022/177	hör	1	h ö r
+022/179	her	1	h e r
+022/181	hör	1	h ö r
+022/183	hor	1	h o r
+022/185	her	1	h e r
+022/187	hör	1	h ö r
+022/189	höa	1	h öa
+022/191	höa	1	h öa
+022/193	höa	1	h öa
+022/195	hea	1	h ea
+022/197	höa	1	h öa
+022/199	höa	1	h öa
+022/201	höa	1	h öa
+022/203	höa	1	h öa
+022/205	horch	1	h o r ch
+022/209	hör	1	h ö r
+022/211	horch	1	h o r ch
+022/215	hör	1	h ö r
+022/217	hör	1	h ö r
+022/219	hör	1	h ö r
+023/055	hol	1	h o l
+023/059	hul	1	h u l
+023/061	hol	1	h o l
+023/063	hör	1	h ö r
+023/065	hör	1	h ö r
+023/067	höll	1	h ö ll
+023/069	höl	1	h ö l
+023/071	höl	1	h ö l
+023/073	höl	1	h ö l
+023/075	höl	1	h ö l
+023/077	höl	1	h ö l
+023/079	höll	1	h ö ll
+023/081	hün	1	h ü n
+023/083	hür	1	h ü r
+023/085	hür	1	h ü r
+023/087	hür	1	h ü r
+023/089	hüe	1	h üe
+023/091	hüha	1	h ü h a
+023/093	hür	1	h ü r
+023/095	höl	1	h ö l
+023/097	hür	1	h ü r
+023/099	hüa	1	h üa
+023/101	höll	1	h ö ll
+023/103	hül	1	h ü l
+023/105	hür	1	h ü r
+023/107	hül	1	h ü l
+023/109	hür	1	h ü r
+023/111	hür	1	h ü r
+023/113	hüll	1	h ü ll
+023/115	hür	1	h ü r
+023/117	hür	1	h ü r
+023/121	hür	1	h ü r
+023/123	höe	1	h öe
+023/125	höe	1	h öe
+023/127	höhe	1	h ö h e
+023/129	hö	1	h ö
+023/131	höa	1	h öa
+023/133	höe	1	h öe
+023/135	hüll	1	h ü ll
+023/137	höa	1	h öa
+023/139	höe	1	h öe
+023/141	höe	1	h öe
+023/143	heur	1	h eu r
+023/145	heue	1	h eue
+023/147	höl	1	h ö l
+023/149	häue	1	h äue
+023/151	hil	1	h i l
+023/153	höa	1	h öa
+023/155	höe	1	h öe
+023/165	hör	1	h ö r
+023/167	hö	1	h ö
+023/169	hie	1	h ie
+023/175	hör	1	h ö r
+023/177	hör	1	h ö r
+023/179	hör	1	h ö r
+023/181	her	1	h e r
+023/183	hör	1	h ö r
+023/185	hör	1	h ö r
+023/187	hör	1	h ö r
+023/189	her	1	h e r
+023/191	höa	1	h öa
+023/193	höa	1	h öa
+023/195	häa	1	h äa
+023/197	höa	1	h öa
+023/199	hea	1	h ea
+023/201	hea	1	h ea
+023/203	hoa	1	h oa
+023/205	hör	1	h ö r
+023/207	horch	1	h o r ch
+023/215	horch	1	h o r ch
+023/217	horg	1	h o r g
+024/053	hör	1	h ö r
+024/057	hol	1	h o l
+024/059	höl	1	h ö l
+024/061	holl	1	h o ll
+024/063	hol	1	h o l
+024/065	höl	1	h ö l
+024/067	hol	1	h o l
+024/069	höl	1	h ö l
+024/071	höl	1	h ö l
+024/073	hör	1	h ö r
+024/075	hör	1	h ö r
+024/077	höll	1	h ö ll
+024/079	hur	1	h u r
+024/081	hur	1	h u r
+024/083	hür	1	h ü r
+024/085	höhl	1	h öh l
+024/087	hür	1	h ü r
+024/089	höl	1	h ö l
+024/091	hür	1	h ü r
+024/093	höll	1	h ö ll
+024/095	höl	1	h ö l
+024/097	höll	1	h ö ll
+024/099	höl	1	h ö l
+024/101	hür	1	h ü r
+024/103	hür	1	h ü r
+024/105	hüa	1	h üa
+024/107	hü	1	h ü
+024/109	hül	1	h ü l
+024/111	hül	1	h ü l
+024/113	hür	1	h ü r
+024/115	hür	1	h ü r
+024/117	hür	1	h ü r
+024/119	hür	1	h ü r
+024/121	hör	1	h ö r
+024/123	hür	1	h ü r
+024/125	höhe	1	h ö h e
+024/127	hoe	1	h oe
+024/129	höa	1	h öa
+024/131	höe	1	h öe
+024/133	höe	1	h öe
+024/135	hö	1	h ö
+024/137	höe	1	h öe
+024/139	höe	1	h öe
+024/141	höe	1	h öe
+024/143	höe	1	h öe
+024/145	heue	1	h eue
+024/147	hör	1	h ö r
+024/149	hör	1	h ö r
+024/151	hö	1	h ö
+024/153	hö	1	h ö
+024/155	hör	1	h ö r
+024/163	höe	1	h öe
+024/165	hiä	1	h iä
+024/167	höh	1	h öh
+024/169	hö	1	h ö
+024/171	hör	1	h ö r
+024/175	hör	1	h ö r
+024/179	heer	1	h ee r
+024/181	hör	1	h ö r
+024/183	hör	1	h ö r
+024/185	hör	1	h ö r
+024/187	hör	1	h ö r
+024/189	her	1	h e r
+024/191	höa	1	h öa
+024/193	höa	1	h öa
+024/195	höa	1	h öa
+024/197	hea	1	h ea
+024/199	hea	1	h ea
+024/201	höa	1	h öa
+024/203	hea	1	h ea
+024/217	hör	1	h ö r
+024/221	hör	1	h ö r
+025/043	hal	1	h a l
+025/051	hör	1	h ö r
+025/053	hör	1	h ö r
+025/055	hör	1	h ö r
+025/057	hör	1	h ö r
+025/059	hör	1	h ö r
+025/061	höl	1	h ö l
+025/063	holl	1	h o ll
+025/065	höll	1	h ö ll
+025/067	hör	1	h ö r
+025/069	hör	1	h ö r
+025/071	höl	1	h ö l
+025/073	hör	1	h ö r
+025/075	höl	1	h ö l
+025/077	hör	1	h ö r
+025/079	hür	1	h ü r
+025/081	hür	1	h ü r
+025/083	hüe	1	h üe
+025/085	hür	1	h ü r
+025/087	hür	1	h ü r
+025/089	höl	1	h ö l
+025/091	häö	1	h äö
+025/093	hüe	1	h üe
+025/095	hür	1	h ü r
+025/099	höl	1	h ö l
+025/101	höl	1	h ö l
+025/103	hör	1	h ö r
+025/105	hür	1	h ü r
+025/107	hör	1	h ö r
+025/109	hü	1	h ü
+025/111	hüe	1	h üe
+025/113	hür	1	h ü r
+025/115	hür	1	h ü r
+025/123	hör	1	h ö r
+025/125	höa	1	h öa
+025/127	höe	1	h öe
+025/129	hör	1	h ö r
+025/131	höe	1	h öe
+025/133	hör	1	h ö r
+025/135	hö	1	h ö
+025/137	hö	1	h ö
+025/139	höe	1	h öe
+025/141	höe	1	h öe
+025/143	höe	1	h öe
+025/145	hoie	1	h oie
+025/147	hoie	1	h oie
+025/149	hör	1	h ö r
+025/151	hö	1	h ö
+025/153	höe	1	h öe
+025/155	hö	1	h ö
+025/157	höe	1	h öe
+025/159	her	1	h e r
+025/177	hör	1	h ö r
+025/179	hür	1	h ü r
+025/181	hör	1	h ö r
+025/183	hör	1	h ö r
+025/185	hör	1	h ö r
+025/187	hör	1	h ö r
+025/189	hör	1	h ö r
+025/191	hea	1	h ea
+026/031	hör	1	h ö r
+026/033	hör	1	h ö r
+026/037	hör	1	h ö r
+026/041	holl	1	h o ll
+026/043	hol	1	h o l
+026/045	hör	1	h ö r
+026/051	hör	1	h ö r
+026/053	hör	1	h ö r
+026/055	hör	1	h ö r
+026/057	hör	1	h ö r
+026/059	hör	1	h ö r
+026/061	NA	NA	-
+026/063	holl	1	h o ll
+026/065	hör	1	h ö r
+026/067	hol	1	h o l
+026/069	holl	1	h o ll
+026/071	hör	1	h ö r
+026/073	hüll	1	h ü ll
+026/075	höl	1	h ö l
+026/077	höl	1	h ö l
+026/079	hüör	1	h üö r
+026/081	höl	1	h ö l
+026/083	hüe	1	h üe
+026/085	hüe	1	h üe
+026/087	höe	1	h öe
+026/089	hür	1	h ü r
+026/091	höl	1	h ö l
+026/093	höl	1	h ö l
+026/095	hür	1	h ü r
+026/097	hür	1	h ü r
+026/099	hööl	1	h öö l
+026/101	hüh	1	h üh
+026/103	hür	1	h ü r
+026/105	hüer	1	h üe r
+026/107	hür	1	h ü r
+026/109	hür	1	h ü r
+026/111	hüa	1	h üa
+026/113	hür	1	h ü r
+026/115	höa	1	h öa
+026/117	hör	1	h ö r
+026/119	hör	1	h ö r
+026/123	hör	1	h ö r
+026/125	hör	1	h ö r
+026/127	höe	1	h öe
+026/129	höe	1	h öe
+026/131	höe	1	h öe
+026/133	hö	1	h ö
+026/135	höh	1	h öh
+026/137	höe	1	h öe
+026/139	höe	1	h öe
+026/141	hör	1	h ö r
+026/143	hül	1	h ü l
+026/145	hör	1	h ö r
+026/147	höer	1	h öe r
+026/153	hö	1	h ö
+026/155	höa	1	h öa
+026/157	höe	1	h öe
+026/159	höe	1	h öe
+026/161	höe	1	h öe
+026/165	NA	NA	-
+026/173	hör	1	h ö r
+026/175	här	1	h ä r
+026/177	hör	1	h ö r
+026/179	hör	1	h ö r
+026/181	hor	1	h o r
+026/183	hör	1	h ö r
+026/185	höör	1	h öö r
+026/187	hör	1	h ö r
+026/189	hör	1	h ö r
+027/027	hör	1	h ö r
+027/035	hör	1	h ö r
+027/037	hol	1	h o l
+027/039	hör	1	h ö r
+027/041	holl	1	h o ll
+027/043	hol	1	h o l
+027/045	holl	1	h o ll
+027/047	hör	1	h ö r
+027/051	hör	1	h ö r
+027/053	NA	NA	-
+027/055	hör	1	h ö r
+027/057	hör	1	h ö r
+027/059	hör	1	h ö r
+027/061	hör	1	h ö r
+027/063	holl	1	h o ll
+027/065	höl	1	h ö l
+027/067	hal	1	h a l
+027/069	hör	1	h ö r
+027/071	hör	1	h ö r
+027/073	hör	1	h ö r
+027/075	hör	1	h ö r
+027/077	hör	1	h ö r
+027/079	hüa	1	h üa
+027/081	hür	1	h ü r
+027/083	hür	1	h ü r
+027/085	hür	1	h ü r
+027/087	hüe	1	h üe
+027/089	hür	1	h ü r
+027/091	höl	1	h ö l
+027/093	höl	1	h ö l
+027/095	hüer	1	h üe r
+027/099	hül	1	h ü l
+027/101	hüa	1	h üa
+027/103	hür	1	h ü r
+027/105	hür	1	h ü r
+027/107	hüer	1	h üe r
+027/109	hür	1	h ü r
+027/111	hür	1	h ü r
+027/113	hür	1	h ü r
+027/115	höa	1	h öa
+027/117	hör	1	h ö r
+027/119	hör	1	h ö r
+027/123	höh	1	h öh
+027/125	höe	1	h öe
+027/127	höe	1	h öe
+027/129	höe	1	h öe
+027/131	hö	1	h ö
+027/135	höi	1	h öi
+027/137	höe	1	h öe
+027/139	höe	1	h öe
+027/141	höhe	1	h ö h e
+027/143	höe	1	h öe
+027/145	höe	1	h öe
+027/147	hul	1	h u l
+027/149	hil	1	h i l
+027/151	hö	1	h ö
+027/153	hö	1	h ö
+027/155	höe	1	h öe
+027/157	höe	1	h öe
+027/159	höh	1	h öh
+027/161	hö	1	h ö
+027/167	höe	1	h öe
+027/171	höe	1	h öe
+027/173	hör	1	h ö r
+027/175	hör	1	h ö r
+027/177	her	1	h e r
+027/179	her	1	h e r
+027/181	höh	1	h öh
+027/183	hör	1	h ö r
+027/185	hör	1	h ö r
+028/033	hör	1	h ö r
+028/035	höll	1	h ö ll
+028/037	hör	1	h ö r
+028/039	hol	1	h o l
+028/041	hol	1	h o l
+028/043	höll	1	h ö ll
+028/045	höll	1	h ö ll
+028/047	hör	1	h ö r
+028/049	hol	1	h o l
+028/051	hal	1	h a l
+028/053	hör	1	h ö r
+028/055	hör	1	h ö r
+028/057	hör	1	h ö r
+028/059	hör	1	h ö r
+028/061	hür	1	h ü r
+028/063	hul	1	h u l
+028/065	hür	1	h ü r
+028/067	hol	1	h o l
+028/069	höl	1	h ö l
+028/071	hör	1	h ö r
+028/073	höhl	1	h öh l
+028/075	höl	1	h ö l
+028/077	hör	1	h ö r
+028/079	hür	1	h ü r
+028/081	höür	1	h öü r
+028/083	hür	1	h ü r
+028/085	hür	1	h ü r
+028/087	hüe	1	h üe
+028/089	hür	1	h ü r
+028/091	höl	1	h ö l
+028/093	hür	1	h ü r
+028/095	hür	1	h ü r
+028/097	hüh	1	h üh
+028/099	hüa	1	h üa
+028/103	hür	1	h ü r
+028/105	hühr	1	h üh r
+028/107	hür	1	h ü r
+028/109	hür	1	h ü r
+028/111	hüa	1	h üa
+028/113	hüa	1	h üa
+028/115	höa	1	h öa
+028/117	höe	1	h öe
+028/119	hör	1	h ö r
+028/121	hör	1	h ö r
+028/123	höe	1	h öe
+028/125	hö	1	h ö
+028/127	höe	1	h öe
+028/129	hör	1	h ö r
+028/131	höhe	1	h ö h e
+028/133	höe	1	h öe
+028/135	hör	1	h ö r
+028/137	hö	1	h ö
+028/139	höe	1	h öe
+028/141	höd	1	h ö d
+028/143	hö	1	h ö
+028/145	höe	1	h öe
+028/147	höe	1	h öe
+028/151	höh	1	h öh
+028/153	höh	1	h öh
+028/155	höt	1	h ö t
+028/157	hö	1	h ö
+028/159	höö	1	h öö
+028/161	hö	1	h ö
+028/165	höä	1	h öä
+028/169	hör	1	h ö r
+028/171	hee	1	h ee
+028/173	hüe	1	h üe
+028/175	heer	1	h ee r
+028/177	höer	1	h öe r
+028/179	he	1	h e
+028/181	hör	1	h ö r
+028/183	hör	1	h ö r
+028/185	hör	1	h ö r
+029/033	hol	1	h o l
+029/035	hol	1	h o l
+029/037	hör	1	h ö r
+029/039	hör	1	h ö r
+029/043	holl	1	h o ll
+029/045	holl	1	h o ll
+029/047	hol	1	h o l
+029/049	holl	1	h o ll
+029/051	holl	1	h o ll
+029/053	hör	1	h ö r
+029/055	hör	1	h ö r
+029/057	hör	1	h ö r
+029/059	hör	1	h ö r
+029/061	hör	1	h ö r
+029/065	hör	1	h ö r
+029/067	heur	1	h eu r
+029/069	hür	1	h ü r
+029/071	hör	1	h ö r
+029/073	höl	1	h ö l
+029/075	höhl	1	h öh l
+029/077	hüä	1	h üä
+029/079	höl	1	h ö l
+029/081	hüa	1	h üa
+029/083	höll	1	h ö ll
+029/085	höl	1	h ö l
+029/087	hür	1	h ü r
+029/089	höl	1	h ö l
+029/091	hür	1	h ü r
+029/093	hür	1	h ü r
+029/095	hür	1	h ü r
+029/097	hür	1	h ü r
+029/099	hür	1	h ü r
+029/101	hür	1	h ü r
+029/103	hür	1	h ü r
+029/105	hür	1	h ü r
+029/107	hür	1	h ü r
+029/109	hür	1	h ü r
+029/111	hüar	1	h üa r
+029/113	höar	1	h öa r
+029/115	höa	1	h öa
+029/117	hör	1	h ö r
+029/119	höa	1	h öa
+029/121	hör	1	h ö r
+029/123	hör	1	h ö r
+029/125	höe	1	h öe
+029/127	höe	1	h öe
+029/129	höe	1	h öe
+029/131	hör	1	h ö r
+029/133	hör	1	h ö r
+029/135	höii	1	h öii
+029/137	höe	1	h öe
+029/139	höe	1	h öe
+029/141	höi	1	h öi
+029/143	höi	1	h öi
+029/145	höi	1	h öi
+029/147	hö	1	h ö
+029/149	hö	1	h ö
+029/151	höre	1	h ö r e
+029/153	höe	1	h öe
+029/155	höe	1	h öe
+029/157	hö	1	h ö
+029/159	hö	1	h ö
+029/161	hö	1	h ö
+029/163	hö	1	h ö
+029/165	hö	1	h ö
+029/167	hö	1	h ö
+029/169	hee	1	h ee
+029/171	hee	1	h ee
+029/173	höe	1	h öe
+029/175	hör	1	h ö r
+029/177	hea	1	h ea
+029/181	höe	1	h öe
+030/033	hol	1	h o l
+030/035	hol	1	h o l
+030/037	NA	NA	-
+030/039	hör	1	h ö r
+030/041	hör	1	h ö r
+030/043	höör	1	h öö r
+030/045	hör	1	h ö r
+030/047	hör	1	h ö r
+030/049	hör	1	h ö r
+030/051	hör	1	h ö r
+030/053	hör	1	h ö r
+030/055	hör	1	h ö r
+030/057	hör	1	h ö r
+030/059	hör	1	h ö r
+030/061	hühr	1	h üh r
+030/065	hör	1	h ö r
+030/067	hör	1	h ö r
+030/071	hör	1	h ö r
+030/073	hör	1	h ö r
+030/075	höar	1	h öa r
+030/077	höll	1	h ö ll
+030/079	höl	1	h ö l
+030/081	höl	1	h ö l
+030/083	hör	1	h ö r
+030/085	hööl	1	h öö l
+030/087	hür	1	h ü r
+030/089	höl	1	h ö l
+030/091	hür	1	h ü r
+030/093	hül	1	h ü l
+030/095	hö	1	h ö
+030/097	hül	1	h ü l
+030/099	hür	1	h ü r
+030/101	hür	1	h ü r
+030/103	hür	1	h ü r
+030/105	hür	1	h ü r
+030/107	hür	1	h ü r
+030/109	hüa	1	h üa
+030/111	hüa	1	h üa
+030/113	hör	1	h ö r
+030/115	hör	1	h ö r
+030/117	hoa	1	h oa
+030/119	höa	1	h öa
+030/121	hör	1	h ö r
+030/123	hör	1	h ö r
+030/125	höe	1	h öe
+030/127	hör	1	h ö r
+030/129	höä	1	h öä
+030/131	höa	1	h öa
+030/133	höe	1	h öe
+030/135	höi	1	h öi
+030/137	hö	1	h ö
+030/139	höe	1	h öe
+030/141	hö	1	h ö
+030/143	höh	1	h öh
+030/145	höe	1	h öe
+030/147	hö	1	h ö
+030/149	höhe	1	h ö h e
+030/151	hö	1	h ö
+030/153	hö	1	h ö
+030/155	höe	1	h öe
+030/157	hö	1	h ö
+030/159	hö	1	h ö
+030/161	hö	1	h ö
+030/163	hö	1	h ö
+030/165	hö	1	h ö
+030/167	hör	1	h ö r
+030/169	höe	1	h öe
+030/171	höa	1	h öa
+030/173	hehe	1	h e h e
+030/175	höe	1	h öe
+030/177	höe	1	h öe
+030/179	hör	1	h ö r
+030/181	höhe	1	h ö h e
+030/183	hier	1	h ie r
+031/035	hol	1	h o l
+031/037	hol	1	h o l
+031/039	hör	1	h ö r
+031/041	holl	1	h o ll
+031/043	heer	1	h ee r
+031/045	holl	1	h o ll
+031/047	hol	1	h o l
+031/049	hol	1	h o l
+031/051	hol	1	h o l
+031/053	hör	1	h ö r
+031/055	hör	1	h ö r
+031/057	här	1	h ä r
+031/059	hör	1	h ö r
+031/061	hör	1	h ö r
+031/063	hör	1	h ö r
+031/065	hör	1	h ö r
+031/067	höe	1	h öe
+031/069	hör	1	h ö r
+031/071	höl	1	h ö l
+031/073	hör	1	h ö r
+031/075	hör	1	h ö r
+031/077	hör	1	h ö r
+031/079	höl	1	h ö l
+031/081	höe	1	h öe
+031/083	hööl	1	h öö l
+031/085	hür	1	h ü r
+031/087	hüe	1	h üe
+031/089	höl	1	h ö l
+031/091	hüür	1	h üü r
+031/093	hör	1	h ö r
+031/095	hör	1	h ö r
+031/097	höa	1	h öa
+031/099	hür	1	h ü r
+031/101	hüa	1	h üa
+031/103	hür	1	h ü r
+031/105	hür	1	h ü r
+031/107	hüa	1	h üa
+031/109	hür	1	h ü r
+031/111	hör	1	h ö r
+031/113	hör	1	h ö r
+031/115	hör	1	h ö r
+031/117	hör	1	h ö r
+031/119	höer	1	h öe r
+031/121	höhr	1	h öh r
+031/123	hör	1	h ö r
+031/125	hö	1	h ö
+031/127	hö	1	h ö
+031/129	höhi	1	h ö h i
+031/131	hör	1	h ö r
+031/133	höe	1	h öe
+031/135	höh	1	h öh
+031/137	höe	1	h öe
+031/139	höi	1	h öi
+031/141	hö	1	h ö
+031/143	höi	1	h öi
+031/145	höe	1	h öe
+031/147	höä	1	h öä
+031/149	höö	1	h öö
+031/151	höhe	1	h ö h e
+031/153	höa	1	h öa
+031/155	hö	1	h ö
+031/157	hö	1	h ö
+031/159	höe	1	h öe
+031/161	hö	1	h ö
+031/163	hö	1	h ö
+031/167	höe	1	h öe
+031/169	hör	1	h ö r
+031/171	hör	1	h ö r
+031/173	her	1	h e r
+031/175	höe	1	h öe
+031/177	hö	1	h ö
+031/179	höhe	1	h ö h e
+032/035	hör	1	h ö r
+032/037	NA	NA	-
+032/039	hör	1	h ö r
+032/041	hol	1	h o l
+032/043	haol	1	h ao l
+032/045	hol	1	h o l
+032/047	hör	1	h ö r
+032/049	hör	1	h ö r
+032/051	hör	1	h ö r
+032/053	hör	1	h ö r
+032/055	hör	1	h ö r
+032/057	hor	1	h o r
+032/059	hör	1	h ö r
+032/061	hör	1	h ö r
+032/065	hör	1	h ö r
+032/069	hör	1	h ö r
+032/071	hol	1	h o l
+032/073	hüör	1	h üö r
+032/075	hör	1	h ö r
+032/077	hör	1	h ö r
+032/079	hör	1	h ö r
+032/081	hör	1	h ö r
+032/083	höl	1	h ö l
+032/085	hüa	1	h üa
+032/087	höe	1	h öe
+032/089	höe	1	h öe
+032/091	hör	1	h ö r
+032/093	hör	1	h ö r
+032/095	höhä	1	h ö h ä
+032/097	hör	1	h ö r
+032/099	hör	1	h ö r
+032/101	hür	1	h ü r
+032/103	hüa	1	h üa
+032/105	hüa	1	h üa
+032/107	hüa	1	h üa
+032/111	höa	1	h öa
+032/113	hör	1	h ö r
+032/115	hoä	1	h oä
+032/117	hooa	1	h ooa
+032/119	höa	1	h öa
+032/121	hör	1	h ö r
+032/123	hör	1	h ö r
+032/125	hör	1	h ö r
+032/127	hör	1	h ö r
+032/129	hö	1	h ö
+032/131	höe	1	h öe
+032/133	höe	1	h öe
+032/135	hö	1	h ö
+032/139	hö	1	h ö
+032/141	höe	1	h öe
+032/143	hö	1	h ö
+032/145	hö	1	h ö
+032/147	hö	1	h ö
+032/149	höe	1	h öe
+032/151	hö	1	h ö
+032/153	hör	1	h ö r
+032/157	hö	1	h ö
+032/159	höe	1	h öe
+032/161	höh	1	h öh
+032/163	hö	1	h ö
+032/167	hehe	1	h e h e
+032/169	hör	1	h ö r
+032/171	hör	1	h ö r
+032/173	hör	1	h ö r
+032/175	heh	1	h eh
+032/177	höh	1	h öh
+032/179	hee	1	h ee
+032/181	hoer	1	h oe r
+032/183	ho	1	h o
+033/035	hör	1	h ö r
+033/037	hör	1	h ö r
+033/039	höör	1	h öö r
+033/041	hol	1	h o l
+033/043	hol	1	h o l
+033/045	hör	1	h ö r
+033/047	hör	1	h ö r
+033/049	hör	1	h ö r
+033/051	heer	1	h ee r
+033/053	hör	1	h ö r
+033/055	hör	1	h ö r
+033/057	hör	1	h ö r
+033/059	hör	1	h ö r
+033/061	hör	1	h ö r
+033/063	hör	1	h ö r
+033/065	hör	1	h ö r
+033/067	hör	1	h ö r
+033/069	hör	1	h ö r
+033/071	hör	1	h ö r
+033/073	hör	1	h ö r
+033/075	hör	1	h ö r
+033/077	hör	1	h ö r
+033/079	holl	1	h o ll
+033/081	hör	1	h ö r
+033/083	hür	1	h ü r
+033/085	härr	1	h ä rr
+033/087	hör	1	h ö r
+033/089	hör	1	h ö r
+033/091	hör	1	h ö r
+033/093	hör	1	h ö r
+033/095	hör	1	h ö r
+033/097	hör	1	h ö r
+033/099	hör	1	h ö r
+033/101	hör	1	h ö r
+033/103	hör	1	h ö r
+033/105	hör	1	h ö r
+033/107	hür	1	h ü r
+033/109	höa	1	h öa
+033/111	hüa	1	h üa
+033/113	hüa	1	h üa
+033/115	hüe	1	h üe
+033/117	hür	1	h ü r
+033/119	höa	1	h öa
+033/121	höa	1	h öa
+033/123	hoä	1	h oä
+033/125	höe	1	h öe
+033/127	höe	1	h öe
+033/129	höt	1	h ö t
+033/131	höe	1	h öe
+033/133	höhe	1	h ö h e
+033/135	höe	1	h öe
+033/137	hö	1	h ö
+033/139	hö	1	h ö
+033/141	höi	1	h öi
+033/143	höhe	1	h ö h e
+033/145	höö	1	h öö
+033/147	höe	1	h öe
+033/149	hö	1	h ö
+033/151	hö	1	h ö
+033/153	hö	1	h ö
+033/155	hö	1	h ö
+033/159	hö	1	h ö
+033/161	hö	1	h ö
+033/163	hö	1	h ö
+033/165	höh	1	h öh
+033/167	hör	1	h ö r
+033/169	höe	1	h öe
+033/173	höe	1	h öe
+033/175	hö	1	h ö
+033/177	hö	1	h ö
+034/035	hör	1	h ö r
+034/039	höer	1	h öe r
+034/041	hör	1	h ö r
+034/043	hör	1	h ö r
+034/045	hör	1	h ö r
+034/047	hör	1	h ö r
+034/049	hör	1	h ö r
+034/051	hör	1	h ö r
+034/053	höl	1	h ö l
+034/055	hor	1	h o r
+034/057	hör	1	h ö r
+034/059	hör	1	h ö r
+034/061	hör	1	h ö r
+034/063	höer	1	h öe r
+034/065	hör	1	h ö r
+034/067	hör	1	h ö r
+034/069	hör	1	h ö r
+034/071	hör	1	h ö r
+034/073	hör	1	h ö r
+034/075	hör	1	h ö r
+034/077	hör	1	h ö r
+034/079	hör	1	h ö r
+034/081	höl	1	h ö l
+034/083	holl	1	h o ll
+034/085	hör	1	h ö r
+034/087	hör	1	h ö r
+034/089	här	1	h ä r
+034/091	hör	1	h ö r
+034/093	hör	1	h ö r
+034/095	hör	1	h ö r
+034/097	höhr	1	h öh r
+034/099	höa	1	h öa
+034/101	hür	1	h ü r
+034/103	hür	1	h ü r
+034/105	hür	1	h ü r
+034/107	hür	1	h ü r
+034/109	hür	1	h ü r
+034/111	höa	1	h öa
+034/113	hüää	1	h üää
+034/115	hüer	1	h üe r
+034/117	hör	1	h ö r
+034/119	hör	1	h ö r
+034/121	hör	1	h ö r
+034/125	hör	1	h ö r
+034/127	hör	1	h ö r
+034/129	hör	1	h ö r
+034/131	höa	1	h öa
+034/133	höhe	1	h ö h e
+034/135	höi	1	h öi
+034/137	hö	1	h ö
+034/139	höhe	1	h ö h e
+034/141	höi	1	h öi
+034/143	höe	1	h öe
+034/145	höe	1	h öe
+034/147	hö	1	h ö
+034/149	höh	1	h öh
+034/151	hö	1	h ö
+034/155	höhe	1	h ö h e
+034/157	hö	1	h ö
+034/161	hö	1	h ö
+034/163	hö	1	h ö
+034/165	höe	1	h öe
+034/167	höe	1	h öe
+034/169	höe	1	h öe
+034/173	höe	1	h öe
+035/035	hoer	1	h oe r
+035/037	hör	1	h ö r
+035/039	hör	1	h ö r
+035/041	hal	1	h a l
+035/043	hör	1	h ö r
+035/045	hör	1	h ö r
+035/047	hör	1	h ö r
+035/049	hol	1	h o l
+035/051	hol	1	h o l
+035/053	hör	1	h ö r
+035/055	hör	1	h ö r
+035/057	hör	1	h ö r
+035/059	hol	1	h o l
+035/061	hör	1	h ö r
+035/063	hör	1	h ö r
+035/065	hör	1	h ö r
+035/067	hör	1	h ö r
+035/069	hör	1	h ö r
+035/071	hör	1	h ö r
+035/073	hör	1	h ö r
+035/075	hör	1	h ö r
+035/077	hör	1	h ö r
+035/079	hör	1	h ö r
+035/081	ör	1	ö r
+035/083	ör	1	ö r
+035/085	hör	1	h ö r
+035/087	hör	1	h ö r
+035/089	hör	1	h ö r
+035/091	hör	1	h ö r
+035/093	hör	1	h ö r
+035/095	hüä	1	h üä
+035/097	hör	1	h ö r
+035/099	hür	1	h ü r
+035/101	hür	1	h ü r
+035/103	hör	1	h ö r
+035/105	hür	1	h ü r
+035/107	hür	1	h ü r
+035/109	hür	1	h ü r
+035/111	hür	1	h ü r
+035/113	hür	1	h ü r
+035/115	hör	1	h ö r
+035/117	hür	1	h ü r
+035/121	hür	1	h ü r
+035/123	hür	1	h ü r
+035/125	hür	1	h ü r
+035/127	hür	1	h ü r
+035/129	här	1	h ä r
+035/133	hö	1	h ö
+035/135	höh	1	h öh
+035/137	hö	1	h ö
+035/139	höi	1	h öi
+035/141	höi	1	h öi
+035/143	höe	1	h öe
+035/145	höe	1	h öe
+035/147	hö	1	h ö
+035/149	höe	1	h öe
+035/151	hö	1	h ö
+035/153	hö	1	h ö
+035/155	hö	1	h ö
+035/157	hö	1	h ö
+035/165	höi	1	h öi
+035/167	höh	1	h öh
+035/169	höe	1	h öe
+035/171	hö	1	h ö
+035/173	höe	1	h öe
+036/033	höör	1	h öö r
+036/035	hör	1	h ö r
+036/039	hör	1	h ö r
+036/041	holl	1	h o ll
+036/043	holl	1	h o ll
+036/045	hör	1	h ö r
+036/047	hör	1	h ö r
+036/049	hör	1	h ö r
+036/051	hör	1	h ö r
+036/053	hör	1	h ö r
+036/055	hör	1	h ö r
+036/057	hör	1	h ö r
+036/059	hör	1	h ö r
+036/061	hör	1	h ö r
+036/063	hör	1	h ö r
+036/065	hör	1	h ö r
+036/067	hör	1	h ö r
+036/069	hör	1	h ö r
+036/071	latt	1	l a tt
+036/073	hör	1	h ö r
+036/075	hör	1	h ö r
+036/077	hör	1	h ö r
+036/079	ör	1	ö r
+036/081	ör	1	ö r
+036/083	ör	1	ö r
+036/085	hör	1	h ö r
+036/087	hör	1	h ö r
+036/089	hör	1	h ö r
+036/091	hör	1	h ö r
+036/095	hör	1	h ö r
+036/097	hür	1	h ü r
+036/099	hür	1	h ü r
+036/101	hür	1	h ü r
+036/103	hür	1	h ü r
+036/105	hür	1	h ü r
+036/107	hür	1	h ü r
+036/109	hür	1	h ü r
+036/111	hör	1	h ö r
+036/113	hör	1	h ö r
+036/115	hör	1	h ö r
+036/117	hür	1	h ü r
+036/119	hör	1	h ö r
+036/121	hür	1	h ü r
+036/123	hier	1	h ie r
+036/125	hier	1	h ie r
+036/127	hür	1	h ü r
+036/129	hür	1	h ü r
+036/133	hööe	1	h ööe
+036/135	hö	1	h ö
+036/137	hör	1	h ö r
+036/139	hö	1	h ö
+036/141	höe	1	h öe
+036/143	höe	1	h öe
+036/147	höh	1	h öh
+036/149	hö	1	h ö
+036/151	höh	1	h öh
+036/153	hö	1	h ö
+036/155	hö	1	h ö
+036/161	höe	1	h öe
+036/163	hö	1	h ö
+036/165	hö	1	h ö
+036/167	hö	1	h ö
+036/169	höe	1	h öe
+036/171	höh	1	h öh
+037/033	hör	1	h ö r
+037/035	hör	1	h ö r
+037/037	hör	1	h ö r
+037/039	hol	1	h o l
+037/041	hol	1	h o l
+037/043	holl	1	h o ll
+037/045	lett	1	l e tt
+037/047	här	1	h ä r
+037/049	hör	1	h ö r
+037/051	hör	1	h ö r
+037/053	hör	1	h ö r
+037/055	holl	1	h o ll
+037/057	hör	1	h ö r
+037/059	hol	1	h o l
+037/061	hör	1	h ö r
+037/063	hör	1	h ö r
+037/065	hör	1	h ö r
+037/067	hör	1	h ö r
+037/069	hör	1	h ö r
+037/071	hör	1	h ö r
+037/073	hör	1	h ö r
+037/075	hör	1	h ö r
+037/077	hör	1	h ö r
+037/079	heur	1	h eu r
+037/081	hör	1	h ö r
+037/083	hör	1	h ö r
+037/085	hör	1	h ö r
+037/087	hör	1	h ö r
+037/089	hör	1	h ö r
+037/091	hör	1	h ö r
+037/093	hür	1	h ü r
+037/095	höa	1	h öa
+037/097	hür	1	h ü r
+037/099	hür	1	h ü r
+037/101	hör	1	h ö r
+037/105	hör	1	h ö r
+037/107	hür	1	h ü r
+037/109	hör	1	h ö r
+037/111	hör	1	h ö r
+037/113	hör	1	h ö r
+037/115	hör	1	h ö r
+037/117	hiär	1	h iä r
+037/119	heer	1	h ee r
+037/121	hör	1	h ö r
+037/123	hür	1	h ü r
+037/125	hir	1	h i r
+037/127	hier	1	h ie r
+037/129	här	1	h ä r
+037/131	här	1	h ä r
+037/133	häier	1	h äie r
+037/135	hör	1	h ö r
+037/137	her	1	h e r
+037/139	hör	1	h ö r
+037/141	hö	1	h ö
+037/145	höh	1	h öh
+037/147	höe	1	h öe
+037/149	höe	1	h öe
+037/151	hä	1	h ä
+037/153	höe	1	h öe
+037/155	höe	1	h öe
+037/157	hö	1	h ö
+037/159	hö	1	h ö
+037/163	hö	1	h ö
+037/171	hö	1	h ö
+038/033	höa	1	h öa
+038/035	hör	1	h ö r
+038/037	hör	1	h ö r
+038/039	hal	1	h a l
+038/041	hör	1	h ö r
+038/043	hör	1	h ö r
+038/045	hör	1	h ö r
+038/047	hör	1	h ö r
+038/049	hör	1	h ö r
+038/051	hör	1	h ö r
+038/053	hör	1	h ö r
+038/055	hör	1	h ö r
+038/057	hör	1	h ö r
+038/059	hör	1	h ö r
+038/061	hör	1	h ö r
+038/063	hör	1	h ö r
+038/065	hör	1	h ö r
+038/067	hör	1	h ö r
+038/069	hör	1	h ö r
+038/071	hör	1	h ö r
+038/073	hör	1	h ö r
+038/075	hör	1	h ö r
+038/077	höä	1	h öä
+038/079	hör	1	h ö r
+038/081	hör	1	h ö r
+038/083	hör	1	h ö r
+038/085	hör	1	h ö r
+038/087	hör	1	h ö r
+038/089	hör	1	h ö r
+038/091	hör	1	h ö r
+038/093	hür	1	h ü r
+038/095	hüeä	1	h üeä
+038/097	hür	1	h ü r
+038/099	hör	1	h ö r
+038/101	hör	1	h ö r
+038/103	hör	1	h ö r
+038/105	hör	1	h ö r
+038/107	hör	1	h ö r
+038/109	hör	1	h ö r
+038/111	hör	1	h ö r
+038/113	hör	1	h ö r
+038/115	hier	1	h ie r
+038/117	hür	1	h ü r
+038/119	hier	1	h ie r
+038/121	hier	1	h ie r
+038/123	hür	1	h ü r
+038/125	hür	1	h ü r
+038/127	här	1	h ä r
+038/129	hör	1	h ö r
+038/131	höör	1	h öö r
+038/133	häir	1	h äi r
+038/135	her	1	h e r
+038/145	hö	1	h ö
+038/147	höh	1	h öh
+038/149	hö	1	h ö
+038/151	hö	1	h ö
+038/153	höö	1	h öö
+038/155	höi	1	h öi
+038/159	hö	1	h ö
+038/161	hö	1	h ö
+038/163	hö	1	h ö
+039/029	NA	NA	-
+039/031	hol	1	h o l
+039/033	hör	1	h ö r
+039/035	hör	1	h ö r
+039/037	hör	1	h ö r
+039/039	höl	1	h ö l
+039/041	hähr	1	h äh r
+039/043	här	1	h ä r
+039/045	hör	1	h ö r
+039/047	hör	1	h ö r
+039/049	hör	1	h ö r
+039/051	hol	1	h o l
+039/053	hör	1	h ö r
+039/055	hör	1	h ö r
+039/057	hör	1	h ö r
+039/059	hör	1	h ö r
+039/061	hör	1	h ö r
+039/063	hör	1	h ö r
+039/065	hör	1	h ö r
+039/067	hör	1	h ö r
+039/069	hör	1	h ö r
+039/071	hör	1	h ö r
+039/073	hör	1	h ö r
+039/075	hör	1	h ö r
+039/077	hör	1	h ö r
+039/079	hör	1	h ö r
+039/081	hör	1	h ö r
+039/083	hör	1	h ö r
+039/085	hör	1	h ö r
+039/087	hör	1	h ö r
+039/089	hör	1	h ö r
+039/091	hör	1	h ö r
+039/093	hür	1	h ü r
+039/095	hühr	1	h üh r
+039/097	hör	1	h ö r
+039/099	hör	1	h ö r
+039/101	hör	1	h ö r
+039/103	hür	1	h ü r
+039/105	hör	1	h ö r
+039/107	hüer	1	h üe r
+039/109	hür	1	h ü r
+039/111	hör	1	h ö r
+039/113	hör	1	h ö r
+039/115	höir	1	h öi r
+039/117	her	1	h e r
+039/119	hör	1	h ö r
+039/121	heer	1	h ee r
+039/123	hier	1	h ie r
+039/125	hier	1	h ie r
+039/127	her	1	h e r
+039/129	heär	1	h eä r
+039/131	her	1	h e r
+039/133	hier	1	h ie r
+039/135	hier	1	h ie r
+039/137	hier	1	h ie r
+039/139	hier	1	h ie r
+039/149	hö	1	h ö
+039/151	hö	1	h ö
+039/153	hö	1	h ö
+039/155	höe	1	h öe
+040/029	NA	NA	-
+040/031	haul	1	h au l
+040/033	hör	1	h ö r
+040/035	hör	1	h ö r
+040/037	hör	1	h ö r
+040/039	häa	1	h äa
+040/041	höll	1	h ö ll
+040/043	hör	1	h ö r
+040/045	hör	1	h ö r
+040/047	let	1	l e t
+040/049	hör	1	h ö r
+040/051	hör	1	h ö r
+040/053	ledd	1	l e dd
+040/055	hör	1	h ö r
+040/057	lätt	1	l ä tt
+040/059	hör	1	h ö r
+040/061	hör	1	h ö r
+040/063	hör	1	h ö r
+040/065	hör	1	h ö r
+040/067	hör	1	h ö r
+040/069	hör	1	h ö r
+040/071	hör	1	h ö r
+040/073	heer	1	h ee r
+040/075	hir	1	h i r
+040/077	hör	1	h ö r
+040/079	hör	1	h ö r
+040/081	hör	1	h ö r
+040/083	hör	1	h ö r
+040/085	hör	1	h ö r
+040/087	hür	1	h ü r
+040/089	hür	1	h ü r
+040/091	hör	1	h ö r
+040/093	höir	1	h öi r
+040/095	hür	1	h ü r
+040/097	hör	1	h ö r
+040/099	hör	1	h ö r
+040/101	hör	1	h ö r
+040/103	hör	1	h ö r
+040/105	hör	1	h ö r
+040/107	her	1	h e r
+040/109	her	1	h e r
+040/111	hür	1	h ü r
+040/113	hör	1	h ö r
+040/115	hir	1	h i r
+040/119	her	1	h e r
+040/121	holl	1	h o ll
+040/123	her	1	h e r
+040/125	her	1	h e r
+040/127	her	1	h e r
+040/129	hör	1	h ö r
+040/131	her	1	h e r
+040/133	hier	1	h ie r
+040/135	hir	1	h i r
+040/137	hür	1	h ü r
+040/141	hir	1	h i r
+040/143	hier	1	h ie r
+040/149	hir	1	h i r
+040/153	hö	1	h ö
+040/155	hö	1	h ö
+041/031	scheyt	1	sch ey t
+041/033	holl	1	h o ll
+041/035	hör	1	h ö r
+041/037	hör	1	h ö r
+041/039	höel	1	h öe l
+041/041	hör	1	h ö r
+041/043	höör	1	h öö r
+041/045	hör	1	h ö r
+041/047	höö	1	h öö
+041/049	hör	1	h ö r
+041/051	häur	1	h äu r
+041/053	hör	1	h ö r
+041/055	hör	1	h ö r
+041/057	hör	1	h ö r
+041/059	hör	1	h ö r
+041/061	hör	1	h ö r
+041/063	hör	1	h ö r
+041/065	heer	1	h ee r
+041/067	hür	1	h ü r
+041/069	hör	1	h ö r
+041/071	hör	1	h ö r
+041/073	hör	1	h ö r
+041/075	hör	1	h ö r
+041/077	hör	1	h ö r
+041/079	hör	1	h ö r
+041/081	hör	1	h ö r
+041/083	hör	1	h ö r
+041/085	hör	1	h ö r
+041/087	hör	1	h ö r
+041/089	hühr	1	h üh r
+041/091	hür	1	h ü r
+041/093	hür	1	h ü r
+041/095	hör	1	h ö r
+041/097	hör	1	h ö r
+041/099	hör	1	h ö r
+041/101	hör	1	h ö r
+041/103	hör	1	h ö r
+041/105	hür	1	h ü r
+041/107	hör	1	h ö r
+041/109	hör	1	h ö r
+041/111	her	1	h e r
+041/113	hör	1	h ö r
+041/115	hör	1	h ö r
+041/117	hör	1	h ö r
+041/119	her	1	h e r
+041/121	hör	1	h ö r
+041/123	her	1	h e r
+041/125	her	1	h e r
+041/127	hehr	1	h eh r
+041/129	hör	1	h ö r
+041/131	her	1	h e r
+041/133	hier	1	h ie r
+041/135	hier	1	h ie r
+041/139	hür	1	h ü r
+041/141	hir	1	h i r
+041/145	hir	1	h i r
+041/147	hirr	1	h i rr
+041/153	hö	1	h ö
+041/155	höh	1	h öh
+041/157	hir	1	h i r
+041/159	hö	1	h ö
+041/161	hö	1	h ö
+042/033	hör	1	h ö r
+042/035	här	1	h ä r
+042/037	hää	1	h ää
+042/039	hör	1	h ö r
+042/041	höär	1	h öä r
+042/043	hör	1	h ö r
+042/045	hör	1	h ö r
+042/047	här	1	h ä r
+042/051	hör	1	h ö r
+042/053	höer	1	h öe r
+042/055	hör	1	h ö r
+042/057	hör	1	h ö r
+042/059	hör	1	h ö r
+042/061	hühr	1	h üh r
+042/063	heur	1	h eu r
+042/065	hör	1	h ö r
+042/067	hür	1	h ü r
+042/069	här	1	h ä r
+042/071	hör	1	h ö r
+042/073	hör	1	h ö r
+042/075	hör	1	h ö r
+042/077	hör	1	h ö r
+042/079	hör	1	h ö r
+042/081	hör	1	h ö r
+042/083	hör	1	h ö r
+042/085	hör	1	h ö r
+042/087	hör	1	h ö r
+042/089	hör	1	h ö r
+042/091	hör	1	h ö r
+042/093	hör	1	h ö r
+042/095	hör	1	h ö r
+042/097	hör	1	h ö r
+042/099	hür	1	h ü r
+042/101	hör	1	h ö r
+042/103	hör	1	h ö r
+042/105	her	1	h e r
+042/107	hör	1	h ö r
+042/109	hör	1	h ö r
+042/111	hör	1	h ö r
+042/113	her	1	h e r
+042/115	her	1	h e r
+042/117	her	1	h e r
+042/119	her	1	h e r
+042/121	her	1	h e r
+042/123	her	1	h e r
+042/125	her	1	h e r
+042/127	hehr	1	h eh r
+042/129	heer	1	h ee r
+042/131	hier	1	h ie r
+042/133	här	1	h ä r
+042/135	här	1	h ä r
+042/137	här	1	h ä r
+042/139	hier	1	h ie r
+042/141	hier	1	h ie r
+042/143	hier	1	h ie r
+042/145	hier	1	h ie r
+042/147	hier	1	h ie r
+042/149	hür	1	h ü r
+042/151	hir	1	h i r
+042/157	höe	1	h öe
+042/159	höe	1	h öe
+042/161	hö	1	h ö
+043/033	haul	1	h au l
+043/035	hör	1	h ö r
+043/037	huol	1	h uo l
+043/039	hö	1	h ö
+043/041	hör	1	h ö r
+043/043	hör	1	h ö r
+043/045	höh	1	h öh
+043/047	hö	1	h ö
+043/049	hö	1	h ö
+043/051	hör	1	h ö r
+043/053	hör	1	h ö r
+043/055	hör	1	h ö r
+043/057	hör	1	h ö r
+043/059	hör	1	h ö r
+043/061	hör	1	h ö r
+043/063	heur	1	h eu r
+043/065	heur	1	h eu r
+043/067	hür	1	h ü r
+043/069	hüir	1	h üi r
+043/071	hür	1	h ü r
+043/073	hör	1	h ö r
+043/075	hör	1	h ö r
+043/077	hör	1	h ö r
+043/079	hör	1	h ö r
+043/081	hör	1	h ö r
+043/083	hör	1	h ö r
+043/085	hör	1	h ö r
+043/087	her	1	h e r
+043/089	hör	1	h ö r
+043/091	hor	1	h o r
+043/093	hör	1	h ö r
+043/095	hör	1	h ö r
+043/097	hör	1	h ö r
+043/099	hör	1	h ö r
+043/101	hör	1	h ö r
+043/103	hör	1	h ö r
+043/105	hör	1	h ö r
+043/107	hör	1	h ö r
+043/109	hör	1	h ö r
+043/111	hör	1	h ö r
+043/113	ehr	1	eh r
+043/115	hör	1	h ö r
+043/117	her	1	h e r
+043/119	hör	1	h ö r
+043/121	her	1	h e r
+043/123	hör	1	h ö r
+043/125	her	1	h e r
+043/127	her	1	h e r
+043/129	hör	1	h ö r
+043/131	hür	1	h ü r
+043/133	hör	1	h ö r
+043/135	här	1	h ä r
+043/137	här	1	h ä r
+043/141	hier	1	h ie r
+043/143	hier	1	h ie r
+043/145	hier	1	h ie r
+043/151	hör	1	h ö r
+043/153	hühr	1	h üh r
+043/159	hö	1	h ö
+043/161	hö	1	h ö
+044/033	höl	1	h ö l
+044/035	hör	1	h ö r
+044/039	höäl	1	h öä l
+044/041	häör	1	h äö r
+044/043	hör	1	h ö r
+044/045	höär	1	h öä r
+044/047	hör	1	h ö r
+044/049	hö	1	h ö
+044/051	hoier	1	h oie r
+044/053	hör	1	h ö r
+044/055	heir	1	h ei r
+044/057	hör	1	h ö r
+044/059	hör	1	h ö r
+044/061	här	1	h ä r
+044/063	hoir	1	h oi r
+044/065	höör	1	h öö r
+044/067	hüer	1	h üe r
+044/069	huir	1	h ui r
+044/071	höür	1	h öü r
+044/073	hör	1	h ö r
+044/075	hör	1	h ö r
+044/077	hör	1	h ö r
+044/079	hör	1	h ö r
+044/081	hör	1	h ö r
+044/083	hör	1	h ö r
+044/085	hör	1	h ö r
+044/087	hehr	1	h eh r
+044/089	hör	1	h ö r
+044/091	hör	1	h ö r
+044/093	hör	1	h ö r
+044/095	hör	1	h ö r
+044/097	hör	1	h ö r
+044/099	hör	1	h ö r
+044/101	hör	1	h ö r
+044/103	hör	1	h ö r
+044/105	höer	1	h öe r
+044/107	hör	1	h ö r
+044/109	hör	1	h ö r
+044/111	hör	1	h ö r
+044/113	eer	1	ee r
+044/115	hör	1	h ö r
+044/117	her	1	h e r
+044/119	här	1	h ä r
+044/121	her	1	h e r
+044/123	heer	1	h ee r
+044/125	her	1	h e r
+044/127	hor	1	h o r
+044/129	hor	1	h o r
+044/131	hir	1	h i r
+044/133	hirr	1	h i rr
+044/135	här	1	h ä r
+044/137	här	1	h ä r
+044/141	hier	1	h ie r
+044/143	hir	1	h i r
+044/145	hier	1	h ie r
+044/149	hir	1	h i r
+044/151	hürr	1	h ü rr
+044/153	hür	1	h ü r
+045/033	hör	1	h ö r
+045/035	häöl	1	h äö l
+045/037	hör	1	h ö r
+045/039	hör	1	h ö r
+045/041	höär	1	h öä r
+045/043	hör	1	h ö r
+045/045	hö	1	h ö
+045/047	hör	1	h ö r
+045/049	hör	1	h ö r
+045/051	heuer	1	h eue r
+045/053	häur	1	h äu r
+045/055	häur	1	h äu r
+045/057	hoier	1	h oie r
+045/059	heuer	1	h eue r
+045/061	häer	1	h äe r
+045/063	häuer	1	h äue r
+045/065	hür	1	h ü r
+045/067	hüer	1	h üe r
+045/069	hür	1	h ü r
+045/071	hör	1	h ö r
+045/073	hör	1	h ö r
+045/075	hier	1	h ie r
+045/077	hör	1	h ö r
+045/079	hör	1	h ö r
+045/081	hör	1	h ö r
+045/083	hör	1	h ö r
+045/085	hör	1	h ö r
+045/087	hör	1	h ö r
+045/089	heer	1	h ee r
+045/091	her	1	h e r
+045/093	här	1	h ä r
+045/095	hier	1	h ie r
+045/097	har	1	h a r
+045/099	hör	1	h ö r
+045/101	hör	1	h ö r
+045/103	hör	1	h ö r
+045/105	her	1	h e r
+045/107	hör	1	h ö r
+045/109	hör	1	h ö r
+045/111	hör	1	h ö r
+045/113	her	1	h e r
+045/115	her	1	h e r
+045/117	er	1	e r
+045/119	hör	1	h ö r
+045/121	hör	1	h ö r
+045/123	her	1	h e r
+045/125	hör	1	h ö r
+045/127	hier	1	h ie r
+045/129	hier	1	h ie r
+045/131	hir	1	h i r
+045/133	hir	1	h i r
+045/135	hier	1	h ie r
+045/137	hirr	1	h i rr
+045/139	hier	1	h ie r
+045/141	hör	1	h ö r
+045/143	hirr	1	h i rr
+045/145	hirr	1	h i rr
+045/155	hier	1	h ie r
+046/031	hör	1	h ö r
+046/033	hö	1	h ö
+046/035	höl	1	h ö l
+046/037	höär	1	h öä r
+046/039	heu	1	h eu
+046/041	här	1	h ä r
+046/043	hör	1	h ö r
+046/045	hör	1	h ö r
+046/047	hör	1	h ö r
+046/049	heier	1	h eie r
+046/051	hoea	1	h oea
+046/053	heuer	1	h eue r
+046/055	heuer	1	h eue r
+046/057	heier	1	h eie r
+046/059	heier	1	h eie r
+046/061	heir	1	h ei r
+046/063	häuer	1	h äue r
+046/065	hür	1	h ü r
+046/067	hür	1	h ü r
+046/069	her	1	h e r
+046/071	hör	1	h ö r
+046/073	hör	1	h ö r
+046/075	her	1	h e r
+046/077	hör	1	h ö r
+046/079	hör	1	h ö r
+046/081	hör	1	h ö r
+046/083	hör	1	h ö r
+046/085	heer	1	h ee r
+046/087	hör	1	h ö r
+046/089	hehr	1	h eh r
+046/091	hör	1	h ö r
+046/093	hör	1	h ö r
+046/095	her	1	h e r
+046/097	hör	1	h ö r
+046/099	hör	1	h ö r
+046/101	hier	1	h ie r
+046/103	hir	1	h i r
+046/105	her	1	h e r
+046/107	hör	1	h ö r
+046/109	heer	1	h ee r
+046/111	hör	1	h ö r
+046/113	er	1	e r
+046/115	ehr	1	eh r
+046/117	ör	1	ö r
+046/119	eer	1	ee r
+046/121	hör	1	h ö r
+046/123	her	1	h e r
+046/125	hör	1	h ö r
+046/127	her	1	h e r
+046/129	hier	1	h ie r
+046/131	hier	1	h ie r
+046/133	hürr	1	h ü rr
+046/135	hier	1	h ie r
+046/137	hir	1	h i r
+046/139	hir	1	h i r
+046/141	hier	1	h ie r
+046/143	hier	1	h ie r
+046/155	hör	1	h ö r
+047/031	höll	1	h ö ll
+047/033	hör	1	h ö r
+047/035	häör	1	h äö r
+047/037	höä	1	h öä
+047/039	höl	1	h ö l
+047/041	höer	1	h öe r
+047/043	höl	1	h ö l
+047/045	häö	1	h äö
+047/047	hör	1	h ö r
+047/049	hiär	1	h iä r
+047/051	heuer	1	h eue r
+047/053	häuer	1	h äue r
+047/055	heur	1	h eu r
+047/057	hoa	1	h oa
+047/059	heir	1	h ei r
+047/061	heir	1	h ei r
+047/063	heuer	1	h eue r
+047/065	hür	1	h ü r
+047/067	hör	1	h ö r
+047/069	hör	1	h ö r
+047/071	hör	1	h ö r
+047/073	hier	1	h ie r
+047/075	hier	1	h ie r
+047/077	hör	1	h ö r
+047/079	hör	1	h ö r
+047/081	hör	1	h ö r
+047/083	heer	1	h ee r
+047/085	hör	1	h ö r
+047/087	heer	1	h ee r
+047/089	heer	1	h ee r
+047/091	hör	1	h ö r
+047/093	heer	1	h ee r
+047/095	her	1	h e r
+047/097	heer	1	h ee r
+047/099	heer	1	h ee r
+047/101	her	1	h e r
+047/103	her	1	h e r
+047/105	heer	1	h ee r
+047/107	her	1	h e r
+047/109	her	1	h e r
+047/111	her	1	h e r
+047/113	hör	1	h ö r
+047/115	hör	1	h ö r
+047/117	eer	1	ee r
+047/119	ehr	1	eh r
+047/123	hor	1	h o r
+047/125	heer	1	h ee r
+047/127	heer	1	h ee r
+047/129	hier	1	h ie r
+047/131	hir	1	h i r
+047/133	herr	1	h e rr
+047/135	hier	1	h ie r
+047/137	hier	1	h ie r
+047/139	hirr	1	h i rr
+047/141	heir	1	h ei r
+047/147	hjer	1	h j e r
+047/149	hir	1	h i r
+047/151	hürr	1	h ü rr
+047/159	hier	1	h ie r
+048/021	hör	1	h ö r
+048/023	höör	1	h öö r
+048/027	NA	NA	-
+048/029	höa	1	h öa
+048/031	hoi	1	h oi
+048/033	hör	1	h ö r
+048/035	höl	1	h ö l
+048/037	häö	1	h äö
+048/039	häör	1	h äö r
+048/041	höl	1	h ö l
+048/045	höl	1	h ö l
+048/047	hör	1	h ö r
+048/049	hoa	1	h oa
+048/051	här	1	h ä r
+048/053	hor	1	h o r
+048/055	hoar	1	h oa r
+048/057	heur	1	h eu r
+048/059	har	1	h a r
+048/061	heir	1	h ei r
+048/063	hör	1	h ö r
+048/065	hehr	1	h eh r
+048/067	hör	1	h ö r
+048/069	hör	1	h ö r
+048/071	här	1	h ä r
+048/073	hier	1	h ie r
+048/075	hüör	1	h üö r
+048/077	hör	1	h ö r
+048/079	hör	1	h ö r
+048/081	hör	1	h ö r
+048/083	her	1	h e r
+048/085	hör	1	h ö r
+048/087	her	1	h e r
+048/089	hier	1	h ie r
+048/091	hier	1	h ie r
+048/093	her	1	h e r
+048/095	hör	1	h ö r
+048/099	her	1	h e r
+048/101	her	1	h e r
+048/103	her	1	h e r
+048/105	her	1	h e r
+048/107	hör	1	h ö r
+048/109	her	1	h e r
+048/111	hör	1	h ö r
+048/113	her	1	h e r
+048/115	här	1	h ä r
+048/119	hör	1	h ö r
+048/123	her	1	h e r
+048/125	her	1	h e r
+048/127	hier	1	h ie r
+048/129	hier	1	h ie r
+048/131	hir	1	h i r
+048/133	her	1	h e r
+048/135	hir	1	h i r
+048/137	herr	1	h e rr
+048/139	hürr	1	h ü rr
+048/141	hir	1	h i r
+048/143	här	1	h ä r
+048/145	hähr	1	h äh r
+048/147	här	1	h ä r
+048/153	hör	1	h ö r
+048/157	hir	1	h i r
+048/159	hirr	1	h i rr
+049/019	hör	1	h ö r
+049/021	hör	1	h ö r
+049/023	hör	1	h ö r
+049/025	hoer	1	h oe r
+049/027	hoer	1	h oe r
+049/029	höär	1	h öä r
+049/031	höll	1	h ö ll
+049/033	höe	1	h öe
+049/035	häöl	1	h äö l
+049/037	höl	1	h ö l
+049/039	höe	1	h öe
+049/041	höl	1	h ö l
+049/043	höael	1	h öae l
+049/045	hö	1	h ö
+049/047	höor	1	h öo r
+049/049	hör	1	h ö r
+049/051	hör	1	h ö r
+049/053	höer	1	h öe r
+049/055	hör	1	h ö r
+049/057	heuer	1	h eue r
+049/059	häuer	1	h äue r
+049/061	heier	1	h eie r
+049/063	hör	1	h ö r
+049/065	hör	1	h ö r
+049/067	här	1	h ä r
+049/069	hör	1	h ö r
+049/071	hür	1	h ü r
+049/073	här	1	h ä r
+049/077	her	1	h e r
+049/079	her	1	h e r
+049/081	hehr	1	h eh r
+049/083	her	1	h e r
+049/085	hör	1	h ö r
+049/087	her	1	h e r
+049/089	hier	1	h ie r
+049/091	hier	1	h ie r
+049/093	hier	1	h ie r
+049/095	hehr	1	h eh r
+049/097	her	1	h e r
+049/099	herr	1	h e rr
+049/101	her	1	h e r
+049/103	hüer	1	h üe r
+049/105	hör	1	h ö r
+049/107	her	1	h e r
+049/109	hör	1	h ö r
+049/111	hör	1	h ö r
+049/113	hör	1	h ö r
+049/115	hör	1	h ö r
+049/117	heer	1	h ee r
+049/119	ehr	1	eh r
+049/121	her	1	h e r
+049/123	hör	1	h ö r
+049/125	hor	1	h o r
+049/127	heer	1	h ee r
+049/129	hier	1	h ie r
+049/131	hier	1	h ie r
+049/133	her	1	h e r
+049/135	her	1	h e r
+049/137	hrir	1	h r i r
+049/139	hir	1	h i r
+049/141	här	1	h ä r
+049/143	heer	1	h ee r
+049/145	her	1	h e r
+049/147	her	1	h e r
+049/151	hör	1	h ö r
+050/021	hör	1	h ö r
+050/023	her	1	h e r
+050/025	hör	1	h ö r
+050/027	hör	1	h ö r
+050/029	hör	1	h ö r
+050/031	höa	1	h öa
+050/033	häl	1	h ä l
+050/035	höä	1	h öä
+050/037	hör	1	h ö r
+050/039	hör	1	h ö r
+050/041	höll	1	h ö ll
+050/043	höä	1	h öä
+050/047	häör	1	h äö r
+050/049	här	1	h ä r
+050/051	hör	1	h ö r
+050/053	hör	1	h ö r
+050/055	höer	1	h öe r
+050/057	hör	1	h ö r
+050/059	hör	1	h ö r
+050/061	höer	1	h öe r
+050/063	häör	1	h äö r
+050/065	här	1	h ä r
+050/067	höl	1	h ö l
+050/069	har	1	h a r
+050/071	hör	1	h ö r
+050/073	hör	1	h ö r
+050/075	hähr	1	h äh r
+050/077	her	1	h e r
+050/079	hör	1	h ö r
+050/081	her	1	h e r
+050/083	hör	1	h ö r
+050/085	hör	1	h ö r
+050/087	hör	1	h ö r
+050/089	heir	1	h ei r
+050/091	hier	1	h ie r
+050/093	hier	1	h ie r
+050/095	her	1	h e r
+050/097	hör	1	h ö r
+050/099	hör	1	h ö r
+050/101	hör	1	h ö r
+050/103	heer	1	h ee r
+050/105	her	1	h e r
+050/107	her	1	h e r
+050/109	her	1	h e r
+050/111	hör	1	h ö r
+050/113	heer	1	h ee r
+050/115	hör	1	h ö r
+050/117	her	1	h e r
+050/119	hör	1	h ö r
+050/121	hehr	1	h eh r
+050/125	hör	1	h ö r
+050/127	hier	1	h ie r
+050/129	hirr	1	h i rr
+050/131	her	1	h e r
+050/133	hör	1	h ö r
+050/135	hehr	1	h eh r
+050/137	heer	1	h ee r
+050/139	her	1	h e r
+050/141	här	1	h ä r
+050/143	här	1	h ä r
+050/145	hirr	1	h i rr
+050/147	här	1	h ä r
+050/149	hürr	1	h ü rr
+050/151	hör	1	h ö r
+050/155	hir	1	h i r
+050/157	hier	1	h ie r
+050/159	hir	1	h i r
+050/161	hir	1	h i r
+051/023	hör	1	h ö r
+051/025	hör	1	h ö r
+051/027	hör	1	h ö r
+051/029	hör	1	h ö r
+051/031	höl	1	h ö l
+051/033	höll	1	h ö ll
+051/035	höll	1	h ö ll
+051/037	höll	1	h ö ll
+051/039	haöl	1	h aö l
+051/041	hö	1	h ö
+051/043	höi	1	h öi
+051/045	hör	1	h ö r
+051/047	heör	1	h eö r
+051/049	hör	1	h ö r
+051/051	hör	1	h ö r
+051/053	höir	1	h öi r
+051/055	höhr	1	h öh r
+051/057	hör	1	h ö r
+051/059	hör	1	h ö r
+051/061	här	1	h ä r
+051/063	hahr	1	h ah r
+051/065	häör	1	h äö r
+051/067	hör	1	h ö r
+051/069	här	1	h ä r
+051/071	här	1	h ä r
+051/073	höll	1	h ö ll
+051/075	her	1	h e r
+051/077	her	1	h e r
+051/079	her	1	h e r
+051/081	her	1	h e r
+051/083	här	1	h ä r
+051/085	hier	1	h ie r
+051/087	hür	1	h ü r
+051/089	hier	1	h ie r
+051/091	hier	1	h ie r
+051/093	her	1	h e r
+051/095	hier	1	h ie r
+051/097	her	1	h e r
+051/099	hier	1	h ie r
+051/101	her	1	h e r
+051/103	her	1	h e r
+051/105	hör	1	h ö r
+051/107	hier	1	h ie r
+051/109	her	1	h e r
+051/111	her	1	h e r
+051/113	er	1	e r
+051/115	er	1	e r
+051/117	er	1	e r
+051/119	ör	1	ö r
+051/121	her	1	h e r
+051/123	heer	1	h ee r
+051/125	hier	1	h ie r
+051/127	hier	1	h ie r
+051/129	hier	1	h ie r
+051/131	här	1	h ä r
+051/133	hir	1	h i r
+051/135	hir	1	h i r
+051/137	her	1	h e r
+051/139	her	1	h e r
+051/141	här	1	h ä r
+051/143	hirr	1	h i rr
+051/145	hir	1	h i r
+051/147	heer	1	h ee r
+051/149	hir	1	h i r
+051/151	hir	1	h i r
+051/153	heir	1	h ei r
+051/155	heir	1	h ei r
+051/157	hair	1	h ai r
+052/023	hör	1	h ö r
+052/025	höör	1	h öö r
+052/027	hö	1	h ö
+052/029	hör	1	h ö r
+052/031	hör	1	h ö r
+052/033	höer	1	h öe r
+052/035	hö	1	h ö
+052/037	höe	1	h öe
+052/039	höär	1	h öä r
+052/041	hö	1	h ö
+052/043	höö	1	h öö
+052/045	höer	1	h öe r
+052/047	höer	1	h öe r
+052/049	hö	1	h ö
+052/051	hör	1	h ö r
+052/053	hör	1	h ö r
+052/057	hör	1	h ö r
+052/059	här	1	h ä r
+052/061	här	1	h ä r
+052/063	hör	1	h ö r
+052/065	här	1	h ä r
+052/067	höär	1	h öä r
+052/069	hör	1	h ö r
+052/071	her	1	h e r
+052/073	hahr	1	h ah r
+052/075	her	1	h e r
+052/077	hehr	1	h eh r
+052/079	hähr	1	h äh r
+052/081	här	1	h ä r
+052/083	hir	1	h i r
+052/085	hier	1	h ie r
+052/087	hihr	1	h ih r
+052/089	hier	1	h ie r
+052/091	hier	1	h ie r
+052/093	hier	1	h ie r
+052/095	heer	1	h ee r
+052/097	ör	1	ö r
+052/099	hör	1	h ö r
+052/101	hör	1	h ö r
+052/103	hör	1	h ö r
+052/105	heer	1	h ee r
+052/107	her	1	h e r
+052/109	hür	1	h ü r
+052/111	her	1	h e r
+052/113	heer	1	h ee r
+052/115	ehr	1	eh r
+052/117	hör	1	h ö r
+052/121	hör	1	h ö r
+052/123	ör	1	ö r
+052/125	hier	1	h ie r
+052/127	hier	1	h ie r
+052/129	hir	1	h i r
+052/131	hür	1	h ü r
+052/133	hyr	1	h y r
+052/135	hier	1	h ie r
+052/137	hähr	1	h äh r
+052/139	här	1	h ä r
+052/141	heir	1	h ei r
+052/143	hör	1	h ö r
+052/145	heär	1	h eä r
+052/147	hir	1	h i r
+052/149	hirr	1	h i rr
+052/151	härr	1	h ä rr
+052/153	heir	1	h ei r
+052/155	hirr	1	h i rr
+052/157	heir	1	h ei r
+052/159	heir	1	h ei r
+053/023	hör	1	h ö r
+053/025	hör	1	h ö r
+053/027	hör	1	h ö r
+053/029	hör	1	h ö r
+053/031	höa	1	h öa
+053/033	hö	1	h ö
+053/035	höar	1	h öa r
+053/037	höur	1	h öu r
+053/039	hör	1	h ö r
+053/041	hör	1	h ö r
+053/043	höer	1	h öe r
+053/045	hör	1	h ö r
+053/047	hoier	1	h oie r
+053/049	hö	1	h ö
+053/051	hör	1	h ö r
+053/053	hör	1	h ö r
+053/055	hiör	1	h iö r
+053/057	hör	1	h ö r
+053/059	heier	1	h eie r
+053/061	hör	1	h ö r
+053/063	här	1	h ä r
+053/065	här	1	h ä r
+053/067	höär	1	h öä r
+053/069	här	1	h ä r
+053/071	här	1	h ä r
+053/073	här	1	h ä r
+053/075	här	1	h ä r
+053/077	hähr	1	h äh r
+053/079	här	1	h ä r
+053/081	hier	1	h ie r
+053/083	hier	1	h ie r
+053/085	hir	1	h i r
+053/087	hier	1	h ie r
+053/089	hier	1	h ie r
+053/091	heer	1	h ee r
+053/093	hier	1	h ie r
+053/095	hier	1	h ie r
+053/097	hör	1	h ö r
+053/099	hier	1	h ie r
+053/101	hier	1	h ie r
+053/103	heer	1	h ee r
+053/105	hier	1	h ie r
+053/107	hier	1	h ie r
+053/109	hier	1	h ie r
+053/111	hiär	1	h iä r
+053/113	hier	1	h ie r
+053/115	hier	1	h ie r
+053/121	her	1	h e r
+053/123	hier	1	h ie r
+053/125	hehr	1	h eh r
+053/127	hir	1	h i r
+053/129	hier	1	h ie r
+053/131	hir	1	h i r
+053/133	hier	1	h ie r
+053/135	hier	1	h ie r
+053/137	häir	1	h äi r
+053/139	hör	1	h ö r
+053/141	hirr	1	h i rr
+053/143	heär	1	h eä r
+053/145	hirr	1	h i rr
+053/147	heir	1	h ei r
+053/149	hirr	1	h i rr
+053/151	hirr	1	h i rr
+053/153	heir	1	h ei r
+053/155	hirr	1	h i rr
+053/157	hürr	1	h ü rr
+054/023	hör	1	h ö r
+054/025	hür	1	h ü r
+054/027	höh	1	h öh
+054/029	hö	1	h ö
+054/031	hö	1	h ö
+054/033	hör	1	h ö r
+054/035	hör	1	h ö r
+054/037	höe	1	h öe
+054/039	höär	1	h öä r
+054/041	hör	1	h ö r
+054/043	höer	1	h öe r
+054/045	hör	1	h ö r
+054/047	höär	1	h öä r
+054/049	hör	1	h ö r
+054/051	hör	1	h ö r
+054/053	hör	1	h ö r
+054/055	hör	1	h ö r
+054/057	hör	1	h ö r
+054/059	hair	1	h ai r
+054/061	hör	1	h ö r
+054/063	her	1	h e r
+054/065	hör	1	h ö r
+054/067	hör	1	h ö r
+054/069	her	1	h e r
+054/071	hühr	1	h üh r
+054/073	hähr	1	h äh r
+054/075	här	1	h ä r
+054/077	här	1	h ä r
+054/079	hör	1	h ö r
+054/081	hier	1	h ie r
+054/083	hir	1	h i r
+054/085	hir	1	h i r
+054/087	hier	1	h ie r
+054/089	hier	1	h ie r
+054/091	hähr	1	h äh r
+054/093	hier	1	h ie r
+054/095	her	1	h e r
+054/097	heer	1	h ee r
+054/099	hier	1	h ie r
+054/101	hier	1	h ie r
+054/103	hier	1	h ie r
+054/105	hier	1	h ie r
+054/107	hier	1	h ie r
+054/109	hir	1	h i r
+054/111	hier	1	h ie r
+054/113	hir	1	h i r
+054/115	hier	1	h ie r
+054/117	hier	1	h ie r
+054/119	här	1	h ä r
+054/121	her	1	h e r
+054/123	her	1	h e r
+054/125	hier	1	h ie r
+054/127	heer	1	h ee r
+054/131	hör	1	h ö r
+054/133	hier	1	h ie r
+054/135	hier	1	h ie r
+054/137	hier	1	h ie r
+054/139	hir	1	h i r
+054/141	hirr	1	h i rr
+054/143	hirr	1	h i rr
+054/145	hirr	1	h i rr
+054/147	hir	1	h i r
+054/149	hair	1	h ai r
+054/151	hirr	1	h i rr
+054/153	heir	1	h ei r
+054/155	hirr	1	h i rr
+054/157	hier	1	h ie r
+054/159	hier	1	h ie r
+054/161	hör	1	h ö r
+054/163	hör	1	h ö r
+055/023	hörr	1	h ö rr
+055/025	hüör	1	h üö r
+055/027	hüe	1	h üe
+055/029	höö	1	h öö
+055/031	hü	1	h ü
+055/033	hüa	1	h üa
+055/035	hör	1	h ö r
+055/037	hör	1	h ö r
+055/039	hör	1	h ö r
+055/041	hö	1	h ö
+055/043	höi	1	h öi
+055/045	höer	1	h öe r
+055/047	hör	1	h ö r
+055/049	hör	1	h ö r
+055/051	häur	1	h äu r
+055/053	hör	1	h ö r
+055/055	hör	1	h ö r
+055/057	häür	1	h äü r
+055/059	hur	1	h u r
+055/061	her	1	h e r
+055/063	her	1	h e r
+055/065	her	1	h e r
+055/067	her	1	h e r
+055/069	hör	1	h ö r
+055/071	heer	1	h ee r
+055/073	häar	1	h äa r
+055/075	höier	1	h öie r
+055/077	hihr	1	h ih r
+055/079	heir	1	h ei r
+055/081	her	1	h e r
+055/083	heir	1	h ei r
+055/085	hir	1	h i r
+055/087	hier	1	h ie r
+055/089	hier	1	h ie r
+055/091	hier	1	h ie r
+055/093	hier	1	h ie r
+055/095	hier	1	h ie r
+055/097	her	1	h e r
+055/099	hiör	1	h iö r
+055/101	hier	1	h ie r
+055/103	hir	1	h i r
+055/105	hör	1	h ö r
+055/107	hier	1	h ie r
+055/109	hier	1	h ie r
+055/111	hür	1	h ü r
+055/113	hier	1	h ie r
+055/115	hir	1	h i r
+055/117	hir	1	h i r
+055/119	hier	1	h ie r
+055/123	hür	1	h ü r
+055/125	hier	1	h ie r
+055/127	hier	1	h ie r
+055/131	hier	1	h ie r
+055/133	hiir	1	h ii r
+055/135	hier	1	h ie r
+055/137	hir	1	h i r
+055/139	hier	1	h ie r
+055/141	hier	1	h ie r
+055/143	hier	1	h ie r
+055/145	heir	1	h ei r
+055/147	hoier	1	h oie r
+055/149	hoir	1	h oi r
+055/151	hair	1	h ai r
+055/153	hirr	1	h i rr
+055/155	hirr	1	h i rr
+055/157	hir	1	h i r
+055/159	hier	1	h ie r
+055/161	heer	1	h ee r
+056/021	hür	1	h ü r
+056/023	hür	1	h ü r
+056/025	hüe	1	h üe
+056/027	hüe	1	h üe
+056/029	höö	1	h öö
+056/031	hö	1	h ö
+056/033	hüe	1	h üe
+056/035	hüe	1	h üe
+056/037	höer	1	h öe r
+056/039	höa	1	h öa
+056/041	hö	1	h ö
+056/043	hör	1	h ö r
+056/045	hör	1	h ö r
+056/047	hör	1	h ö r
+056/049	hör	1	h ö r
+056/051	hör	1	h ö r
+056/053	heur	1	h eu r
+056/055	hör	1	h ö r
+056/057	hör	1	h ö r
+056/059	her	1	h e r
+056/061	her	1	h e r
+056/063	her	1	h e r
+056/065	hör	1	h ö r
+056/067	her	1	h e r
+056/069	her	1	h e r
+056/071	heir	1	h ei r
+056/073	hir	1	h i r
+056/075	hier	1	h ie r
+056/077	hier	1	h ie r
+056/079	hir	1	h i r
+056/081	häir	1	h äi r
+056/083	hier	1	h ie r
+056/085	hier	1	h ie r
+056/087	hier	1	h ie r
+056/089	hir	1	h i r
+056/091	hier	1	h ie r
+056/093	hier	1	h ie r
+056/095	hier	1	h ie r
+056/097	hier	1	h ie r
+056/099	hir	1	h i r
+056/101	hier	1	h ie r
+056/103	hier	1	h ie r
+056/105	hier	1	h ie r
+056/107	hir	1	h i r
+056/109	hier	1	h ie r
+056/111	hier	1	h ie r
+056/113	hier	1	h ie r
+056/115	hür	1	h ü r
+056/117	hier	1	h ie r
+056/121	här	1	h ä r
+056/123	hehr	1	h eh r
+056/125	hier	1	h ie r
+056/127	hier	1	h ie r
+056/129	hier	1	h ie r
+056/131	hier	1	h ie r
+056/133	hiär	1	h iä r
+056/135	hir	1	h i r
+056/137	hier	1	h ie r
+056/139	hier	1	h ie r
+056/141	hir	1	h i r
+056/143	hier	1	h ie r
+056/145	hir	1	h i r
+056/147	haier	1	h aie r
+056/149	her	1	h e r
+056/151	hair	1	h ai r
+056/153	heir	1	h ei r
+056/155	hir	1	h i r
+056/157	hir	1	h i r
+056/159	hirr	1	h i rr
+056/161	hier	1	h ie r
+057/021	hü	1	h ü
+057/023	hüer	1	h üe r
+057/025	hüe	1	h üe
+057/027	hüe	1	h üe
+057/029	hüh	1	h üh
+057/031	hühr	1	h üh r
+057/033	hür	1	h ü r
+057/035	hüe	1	h üe
+057/037	hör	1	h ö r
+057/039	hör	1	h ö r
+057/041	hör	1	h ö r
+057/043	hör	1	h ö r
+057/045	hör	1	h ö r
+057/047	här	1	h ä r
+057/049	hör	1	h ö r
+057/051	her	1	h e r
+057/053	höär	1	h öä r
+057/055	hör	1	h ö r
+057/057	her	1	h e r
+057/059	her	1	h e r
+057/061	hör	1	h ö r
+057/063	heer	1	h ee r
+057/065	hör	1	h ö r
+057/067	hir	1	h i r
+057/069	hör	1	h ö r
+057/071	her	1	h e r
+057/073	hier	1	h ie r
+057/075	hürr	1	h ü rr
+057/077	hier	1	h ie r
+057/079	hir	1	h i r
+057/081	hier	1	h ie r
+057/083	her	1	h e r
+057/085	hier	1	h ie r
+057/087	hier	1	h ie r
+057/089	hier	1	h ie r
+057/091	hier	1	h ie r
+057/093	hier	1	h ie r
+057/095	hier	1	h ie r
+057/097	hier	1	h ie r
+057/099	hir	1	h i r
+057/101	her	1	h e r
+057/103	hier	1	h ie r
+057/105	her	1	h e r
+057/107	hier	1	h ie r
+057/109	hör	1	h ö r
+057/111	här	1	h ä r
+057/113	hier	1	h ie r
+057/115	här	1	h ä r
+057/117	hir	1	h i r
+057/119	hier	1	h ie r
+057/121	hir	1	h i r
+057/123	hir	1	h i r
+057/125	hirr	1	h i rr
+057/127	hier	1	h ie r
+057/129	hier	1	h ie r
+057/131	hier	1	h ie r
+057/133	hir	1	h i r
+057/135	hier	1	h ie r
+057/137	hier	1	h ie r
+057/139	hier	1	h ie r
+057/141	hier	1	h ie r
+057/143	hier	1	h ie r
+057/145	hier	1	h ie r
+057/147	hir	1	h i r
+057/149	heir	1	h ei r
+057/151	hir	1	h i r
+057/153	hir	1	h i r
+057/155	heir	1	h ei r
+057/157	hirr	1	h i rr
+057/159	hir	1	h i r
+057/161	hier	1	h ie r
+058/019	hür	1	h ü r
+058/021	hüer	1	h üe r
+058/023	hür	1	h ü r
+058/025	hüe	1	h üe
+058/027	hüe	1	h üe
+058/029	hüe	1	h üe
+058/031	hö	1	h ö
+058/033	höe	1	h öe
+058/035	hüe	1	h üe
+058/037	hüe	1	h üe
+058/039	höer	1	h öe r
+058/041	höhr	1	h öh r
+058/043	hör	1	h ö r
+058/045	her	1	h e r
+058/047	här	1	h ä r
+058/049	här	1	h ä r
+058/051	härr	1	h ä rr
+058/053	härr	1	h ä rr
+058/055	här	1	h ä r
+058/057	hehr	1	h eh r
+058/059	heer	1	h ee r
+058/061	her	1	h e r
+058/063	her	1	h e r
+058/065	her	1	h e r
+058/067	hehr	1	h eh r
+058/069	hier	1	h ie r
+058/071	hir	1	h i r
+058/073	hir	1	h i r
+058/075	hier	1	h ie r
+058/077	hier	1	h ie r
+058/079	hier	1	h ie r
+058/081	hier	1	h ie r
+058/083	hier	1	h ie r
+058/085	hier	1	h ie r
+058/087	hir	1	h i r
+058/089	hier	1	h ie r
+058/091	hiir	1	h ii r
+058/093	hier	1	h ie r
+058/095	hier	1	h ie r
+058/097	hier	1	h ie r
+058/099	hier	1	h ie r
+058/101	hier	1	h ie r
+058/103	hier	1	h ie r
+058/105	hier	1	h ie r
+058/107	hier	1	h ie r
+058/109	hier	1	h ie r
+058/111	hier	1	h ie r
+058/113	hür	1	h ü r
+058/115	hör	1	h ö r
+058/117	hir	1	h i r
+058/119	hir	1	h i r
+058/121	hier	1	h ie r
+058/123	hir	1	h i r
+058/125	hir	1	h i r
+058/127	hier	1	h ie r
+058/129	hier	1	h ie r
+058/131	hier	1	h ie r
+058/133	hier	1	h ie r
+058/135	hier	1	h ie r
+058/137	hier	1	h ie r
+058/139	hier	1	h ie r
+058/141	hier	1	h ie r
+058/143	hier	1	h ie r
+058/145	hier	1	h ie r
+058/147	hehr	1	h eh r
+058/149	hier	1	h ie r
+058/151	hier	1	h ie r
+058/153	hier	1	h ie r
+058/155	hier	1	h ie r
+058/157	hir	1	h i r
+058/159	hier	1	h ie r
+059/019	höhr	1	h öh r
+059/021	hüe	1	h üe
+059/023	hüe	1	h üe
+059/025	hüe	1	h üe
+059/027	hüe	1	h üe
+059/029	hue	1	h ue
+059/031	höh	1	h öh
+059/033	hüh	1	h üh
+059/035	hue	1	h ue
+059/037	hör	1	h ö r
+059/039	hör	1	h ö r
+059/041	höör	1	h öö r
+059/043	hör	1	h ö r
+059/045	hör	1	h ö r
+059/047	her	1	h e r
+059/049	här	1	h ä r
+059/051	hör	1	h ö r
+059/053	hö	1	h ö
+059/055	herr	1	h e rr
+059/057	herr	1	h e rr
+059/059	her	1	h e r
+059/061	her	1	h e r
+059/063	her	1	h e r
+059/065	her	1	h e r
+059/067	her	1	h e r
+059/069	hir	1	h i r
+059/071	hiär	1	h iä r
+059/073	hir	1	h i r
+059/075	hier	1	h ie r
+059/077	her	1	h e r
+059/079	hir	1	h i r
+059/081	hiär	1	h iä r
+059/083	hier	1	h ie r
+059/085	hier	1	h ie r
+059/087	hier	1	h ie r
+059/089	hir	1	h i r
+059/091	hier	1	h ie r
+059/093	hier	1	h ie r
+059/095	hier	1	h ie r
+059/097	har	1	h a r
+059/099	hä	1	h ä
+059/101	hir	1	h i r
+059/103	hier	1	h ie r
+059/105	hiär	1	h iä r
+059/107	hir	1	h i r
+059/109	hier	1	h ie r
+059/111	hier	1	h ie r
+059/113	hier	1	h ie r
+059/115	hier	1	h ie r
+059/117	hier	1	h ie r
+059/119	hir	1	h i r
+059/121	hier	1	h ie r
+059/123	hir	1	h i r
+059/125	hir	1	h i r
+059/127	hier	1	h ie r
+059/129	hier	1	h ie r
+059/131	hür	1	h ü r
+059/133	hiehr	1	h ieh r
+059/135	hir	1	h i r
+059/137	hier	1	h ie r
+059/139	hier	1	h ie r
+059/141	hier	1	h ie r
+059/143	hier	1	h ie r
+059/145	hier	1	h ie r
+059/147	hier	1	h ie r
+059/149	hier	1	h ie r
+059/151	hier	1	h ie r
+059/153	hier	1	h ie r
+059/155	hir	1	h i r
+059/157	hier	1	h ie r
+059/159	hir	1	h i r
+059/161	hir	1	h i r
+059/165	hier	1	h ie r
+059/169	hier	1	h ie r
+060/021	hü	1	h ü
+060/023	hüä	1	h üä
+060/025	hüä	1	h üä
+060/027	hüe	1	h üe
+060/029	hüe	1	h üe
+060/031	hüe	1	h üe
+060/033	hüe	1	h üe
+060/035	hühr	1	h üh r
+060/037	hüä	1	h üä
+060/039	hör	1	h ö r
+060/041	hür	1	h ü r
+060/043	hür	1	h ü r
+060/045	her	1	h e r
+060/047	hir	1	h i r
+060/049	häl	1	h ä l
+060/051	ho	1	h o
+060/053	her	1	h e r
+060/055	härr	1	h ä rr
+060/057	he	1	h e
+060/059	hä	1	h ä
+060/061	he	1	h e
+060/063	her	1	h e r
+060/065	hir	1	h i r
+060/067	hir	1	h i r
+060/069	her	1	h e r
+060/071	hier	1	h ie r
+060/073	hür	1	h ü r
+060/075	hür	1	h ü r
+060/077	hiär	1	h iä r
+060/079	hiär	1	h iä r
+060/081	hier	1	h ie r
+060/083	hier	1	h ie r
+060/085	hür	1	h ü r
+060/087	hör	1	h ö r
+060/089	hier	1	h ie r
+060/091	hir	1	h i r
+060/093	heer	1	h ee r
+060/095	hir	1	h i r
+060/097	hier	1	h ie r
+060/099	hir	1	h i r
+060/101	här	1	h ä r
+060/103	hier	1	h ie r
+060/105	hir	1	h i r
+060/107	hähr	1	h äh r
+060/109	här	1	h ä r
+060/111	hier	1	h ie r
+060/113	hier	1	h ie r
+060/115	her	1	h e r
+060/117	hir	1	h i r
+060/119	hör	1	h ö r
+060/121	her	1	h e r
+060/123	hor	1	h o r
+060/125	hirr	1	h i rr
+060/127	hier	1	h ie r
+060/129	hir	1	h i r
+060/131	hier	1	h ie r
+060/135	hier	1	h ie r
+060/137	hier	1	h ie r
+060/139	hier	1	h ie r
+060/141	hier	1	h ie r
+060/143	hier	1	h ie r
+060/145	hir	1	h i r
+060/147	hier	1	h ie r
+060/149	här	1	h ä r
+060/151	hier	1	h ie r
+060/153	hier	1	h ie r
+060/155	hir	1	h i r
+060/157	häär	1	h ää r
+060/159	hier	1	h ie r
+060/163	hier	1	h ie r
+060/165	har	1	h a r
+061/021	hür	1	h ü r
+061/023	hö	1	h ö
+061/025	hüe	1	h üe
+061/027	hüe	1	h üe
+061/029	hüee	1	h üee
+061/031	hüe	1	h üe
+061/033	hüä	1	h üä
+061/035	hüe	1	h üe
+061/037	hühr	1	h üh r
+061/039	hür	1	h ü r
+061/041	hür	1	h ü r
+061/043	hüür	1	h üü r
+061/045	hür	1	h ü r
+061/047	hür	1	h ü r
+061/049	hir	1	h i r
+061/051	her	1	h e r
+061/053	her	1	h e r
+061/055	hö	1	h ö
+061/057	hörr	1	h ö rr
+061/059	hö	1	h ö
+061/061	hä	1	h ä
+061/063	her	1	h e r
+061/065	hür	1	h ü r
+061/067	heier	1	h eie r
+061/069	her	1	h e r
+061/071	her	1	h e r
+061/073	hür	1	h ü r
+061/075	hür	1	h ü r
+061/077	hir	1	h i r
+061/079	hier	1	h ie r
+061/081	hier	1	h ie r
+061/083	hier	1	h ie r
+061/085	hier	1	h ie r
+061/087	hier	1	h ie r
+061/089	hier	1	h ie r
+061/091	her	1	h e r
+061/093	här	1	h ä r
+061/095	her	1	h e r
+061/097	här	1	h ä r
+061/099	här	1	h ä r
+061/101	hör	1	h ö r
+061/103	här	1	h ä r
+061/105	här	1	h ä r
+061/107	här	1	h ä r
+061/109	hier	1	h ie r
+061/111	här	1	h ä r
+061/113	här	1	h ä r
+061/115	hir	1	h i r
+061/117	her	1	h e r
+061/119	hie	1	h ie
+061/121	hier	1	h ie r
+061/123	hier	1	h ie r
+061/125	hor	1	h o r
+061/127	hier	1	h ie r
+061/129	hiir	1	h ii r
+061/131	hier	1	h ie r
+061/133	hier	1	h ie r
+061/137	hier	1	h ie r
+061/139	hier	1	h ie r
+061/141	hier	1	h ie r
+061/143	hier	1	h ie r
+061/145	hier	1	h ie r
+061/147	hier	1	h ie r
+061/149	hier	1	h ie r
+061/151	hier	1	h ie r
+061/153	hier	1	h ie r
+061/155	hier	1	h ie r
+061/157	hier	1	h ie r
+061/159	hier	1	h ie r
+061/161	hier	1	h ie r
+061/165	hir	1	h i r
+062/021	hue	1	h ue
+062/023	hühr	1	h üh r
+062/025	hüe	1	h üe
+062/027	hüe	1	h üe
+062/029	hü	1	h ü
+062/031	hüe	1	h üe
+062/033	hüää	1	h üää
+062/035	hüe	1	h üe
+062/037	hüe	1	h üe
+062/039	hür	1	h ü r
+062/041	hür	1	h ü r
+062/043	hüer	1	h üe r
+062/045	hir	1	h i r
+062/047	hür	1	h ü r
+062/049	hie	1	h ie
+062/051	ho	1	h o
+062/053	hö	1	h ö
+062/055	heä	1	h eä
+062/057	hier	1	h ie r
+062/059	här	1	h ä r
+062/061	här	1	h ä r
+062/063	heie	1	h eie
+062/065	heier	1	h eie r
+062/067	heier	1	h eie r
+062/069	här	1	h ä r
+062/071	hö	1	h ö
+062/073	hüür	1	h üü r
+062/075	hür	1	h ü r
+062/077	hier	1	h ie r
+062/079	hihr	1	h ih r
+062/081	hier	1	h ie r
+062/083	hier	1	h ie r
+062/085	hier	1	h ie r
+062/087	hir	1	h i r
+062/089	hör	1	h ö r
+062/091	her	1	h e r
+062/093	här	1	h ä r
+062/095	här	1	h ä r
+062/097	här	1	h ä r
+062/099	här	1	h ä r
+062/101	här	1	h ä r
+062/103	här	1	h ä r
+062/105	här	1	h ä r
+062/107	här	1	h ä r
+062/109	her	1	h e r
+062/111	ward	1	w a r d
+062/113	hör	1	h ö r
+062/115	här	1	h ä r
+062/117	hia	1	h ia
+062/119	hiej	1	h ie j
+062/121	wad	1	w a d
+062/123	hier	1	h ie r
+062/125	hor	1	h o r
+062/127	hier	1	h ie r
+062/129	hier	1	h ie r
+062/131	horr	1	h o rr
+062/133	hee	1	h ee
+062/135	heer	1	h ee r
+062/137	hiir	1	h ii r
+062/139	hio	1	h io
+062/141	hier	1	h ie r
+062/143	hier	1	h ie r
+062/145	hier	1	h ie r
+062/147	hier	1	h ie r
+062/149	hier	1	h ie r
+062/151	hier	1	h ie r
+062/153	hier	1	h ie r
+062/155	hier	1	h ie r
+062/157	hier	1	h ie r
+062/159	hier	1	h ie r
+062/161	hier	1	h ie r
+063/021	hür	1	h ü r
+063/023	hörr	1	h ö rr
+063/025	hür	1	h ü r
+063/027	höe	1	h öe
+063/029	hüe	1	h üe
+063/031	hüe	1	h üe
+063/033	hüe	1	h üe
+063/035	hüe	1	h üe
+063/037	hö	1	h ö
+063/039	hier	1	h ie r
+063/041	hühr	1	h üh r
+063/043	hier	1	h ie r
+063/045	hür	1	h ü r
+063/047	her	1	h e r
+063/049	hör	1	h ö r
+063/051	her	1	h e r
+063/053	her	1	h e r
+063/055	hea	1	h ea
+063/057	hirr	1	h i rr
+063/059	hä	1	h ä
+063/061	heier	1	h eie r
+063/063	hörr	1	h ö rr
+063/065	heier	1	h eie r
+063/067	heier	1	h eie r
+063/069	heier	1	h eie r
+063/071	hür	1	h ü r
+063/073	hüer	1	h üe r
+063/075	hüe	1	h üe
+063/077	hür	1	h ü r
+063/079	hier	1	h ie r
+063/081	hier	1	h ie r
+063/083	hier	1	h ie r
+063/085	her	1	h e r
+063/087	hier	1	h ie r
+063/089	hör	1	h ö r
+063/091	här	1	h ä r
+063/093	haer	1	h ae r
+063/095	här	1	h ä r
+063/097	här	1	h ä r
+063/099	här	1	h ä r
+063/101	här	1	h ä r
+063/103	her	1	h e r
+063/105	här	1	h ä r
+063/107	her	1	h e r
+063/109	här	1	h ä r
+063/111	her	1	h e r
+063/113	her	1	h e r
+063/115	her	1	h e r
+063/117	hör	1	h ö r
+063/119	hea	1	h ea
+063/121	heer	1	h ee r
+063/123	hier	1	h ie r
+063/125	hier	1	h ie r
+063/127	hir	1	h i r
+063/135	här	1	h ä r
+063/137	hier	1	h ie r
+063/139	hier	1	h ie r
+063/141	hier	1	h ie r
+063/143	her	1	h e r
+063/145	här	1	h ä r
+063/147	hier	1	h ie r
+063/149	hier	1	h ie r
+063/151	hier	1	h ie r
+063/153	hier	1	h ie r
+063/155	hür	1	h ü r
+063/157	hier	1	h ie r
+063/159	hier	1	h ie r
+063/161	hier	1	h ie r
+063/163	hier	1	h ie r
+063/165	hör	1	h ö r
+064/023	hür	1	h ü r
+064/025	hür	1	h ü r
+064/027	hür	1	h ü r
+064/029	hür	1	h ü r
+064/031	hüe	1	h üe
+064/033	hüe	1	h üe
+064/035	hö	1	h ö
+064/037	hir	1	h i r
+064/039	hier	1	h ie r
+064/041	hier	1	h ie r
+064/043	her	1	h e r
+064/045	hier	1	h ie r
+064/047	hir	1	h i r
+064/049	hier	1	h ie r
+064/051	he	1	h e
+064/053	hörr	1	h ö rr
+064/055	hier	1	h ie r
+064/057	häär	1	h ää r
+064/059	he	1	h e
+064/061	heie	1	h eie
+064/063	heier	1	h eie r
+064/065	hier	1	h ie r
+064/067	heier	1	h eie r
+064/069	haier	1	h aie r
+064/071	hür	1	h ü r
+064/073	hür	1	h ü r
+064/075	hühr	1	h üh r
+064/077	hüö	1	h üö
+064/079	hier	1	h ie r
+064/081	hier	1	h ie r
+064/083	her	1	h e r
+064/085	her	1	h e r
+064/087	hör	1	h ö r
+064/089	här	1	h ä r
+064/091	hoer	1	h oe r
+064/093	här	1	h ä r
+064/095	här	1	h ä r
+064/097	här	1	h ä r
+064/099	här	1	h ä r
+064/101	här	1	h ä r
+064/103	haär	1	h aä r
+064/105	här	1	h ä r
+064/107	her	1	h e r
+064/109	här	1	h ä r
+064/111	her	1	h e r
+064/113	her	1	h e r
+064/115	her	1	h e r
+064/117	her	1	h e r
+064/119	her	1	h e r
+064/121	hir	1	h i r
+064/123	hir	1	h i r
+064/125	hier	1	h ie r
+064/127	ho	1	h o
+064/135	hä	1	h ä
+064/137	höö	1	h öö
+064/139	hier	1	h ie r
+064/141	hier	1	h ie r
+064/143	her	1	h e r
+064/145	här	1	h ä r
+064/147	här	1	h ä r
+064/149	hier	1	h ie r
+064/151	hier	1	h ie r
+064/153	hir	1	h i r
+064/155	hir	1	h i r
+064/157	hier	1	h ie r
+064/159	hir	1	h i r
+065/021	hür	1	h ü r
+065/023	hür	1	h ü r
+065/025	hüe	1	h üe
+065/027	hüer	1	h üe r
+065/029	hüe	1	h üe
+065/031	hüe	1	h üe
+065/033	hür	1	h ü r
+065/035	hüä	1	h üä
+065/037	hier	1	h ie r
+065/039	hier	1	h ie r
+065/041	hür	1	h ü r
+065/043	hir	1	h i r
+065/045	hör	1	h ö r
+065/047	hier	1	h ie r
+065/049	hier	1	h ie r
+065/051	hier	1	h ie r
+065/053	hör	1	h ö r
+065/055	hür	1	h ü r
+065/057	hier	1	h ie r
+065/059	hir	1	h i r
+065/061	hir	1	h i r
+065/063	heier	1	h eie r
+065/065	heier	1	h eie r
+065/067	heier	1	h eie r
+065/069	heier	1	h eie r
+065/071	hür	1	h ü r
+065/073	huär	1	h uä r
+065/075	hür	1	h ü r
+065/077	hör	1	h ö r
+065/079	här	1	h ä r
+065/081	hör	1	h ö r
+065/083	her	1	h e r
+065/085	heer	1	h ee r
+065/087	här	1	h ä r
+065/089	här	1	h ä r
+065/091	hör	1	h ö r
+065/093	hör	1	h ö r
+065/095	här	1	h ä r
+065/097	heer	1	h ee r
+065/101	här	1	h ä r
+065/103	här	1	h ä r
+065/105	NA	NA	-
+065/107	her	1	h e r
+065/109	här	1	h ä r
+065/111	heer	1	h ee r
+065/113	her	1	h e r
+065/115	her	1	h e r
+065/121	haar	1	h aa r
+065/123	hier	1	h ie r
+065/137	hör	1	h ö r
+065/139	hör	1	h ö r
+065/143	här	1	h ä r
+065/145	her	1	h e r
+065/147	hier	1	h ie r
+065/149	hir	1	h i r
+065/151	hier	1	h ie r
+065/153	hir	1	h i r
+065/155	hör	1	h ö r
+065/157	hier	1	h ie r
+065/159	hier	1	h ie r
+066/021	hür	1	h ü r
+066/023	hür	1	h ü r
+066/025	hür	1	h ü r
+066/027	hür	1	h ü r
+066/029	hür	1	h ü r
+066/031	hüer	1	h üe r
+066/033	hüa	1	h üa
+066/035	hür	1	h ü r
+066/037	hüe	1	h üe
+066/039	hia	1	h ia
+066/041	hir	1	h i r
+066/043	hia	1	h ia
+066/045	hier	1	h ie r
+066/047	her	1	h e r
+066/049	hir	1	h i r
+066/051	hihr	1	h ih r
+066/053	hier	1	h ie r
+066/055	hir	1	h i r
+066/057	hiar	1	h ia r
+066/059	här	1	h ä r
+066/061	heier	1	h eie r
+066/063	heie	1	h eie
+066/065	heier	1	h eie r
+066/067	heir	1	h ei r
+066/069	heiar	1	h eia r
+066/071	hür	1	h ü r
+066/073	hör	1	h ö r
+066/075	hür	1	h ü r
+066/077	här	1	h ä r
+066/079	hör	1	h ö r
+066/081	hüer	1	h üe r
+066/083	hör	1	h ö r
+066/085	hö	1	h ö
+066/087	heer	1	h ee r
+066/089	her	1	h e r
+066/091	hör	1	h ö r
+066/093	här	1	h ä r
+066/095	her	1	h e r
+066/097	här	1	h ä r
+066/099	här	1	h ä r
+066/101	her	1	h e r
+066/103	her	1	h e r
+066/105	her	1	h e r
+066/107	heer	1	h ee r
+066/109	här	1	h ä r
+066/111	heer	1	h ee r
+066/113	heer	1	h ee r
+066/121	her	1	h e r
+066/139	her	1	h e r
+066/143	här	1	h ä r
+066/145	här	1	h ä r
+066/147	här	1	h ä r
+066/149	här	1	h ä r
+066/151	här	1	h ä r
+066/153	hiir	1	h ii r
+066/155	hier	1	h ie r
+066/157	hier	1	h ie r
+066/159	hir	1	h i r
+066/161	hir	1	h i r
+066/163	här	1	h ä r
+067/021	hüer	1	h üe r
+067/023	hühr	1	h üh r
+067/025	hier	1	h ie r
+067/027	hür	1	h ü r
+067/029	hür	1	h ü r
+067/031	hür	1	h ü r
+067/033	hür	1	h ü r
+067/035	hür	1	h ü r
+067/037	hier	1	h ie r
+067/039	hür	1	h ü r
+067/041	hier	1	h ie r
+067/043	hier	1	h ie r
+067/045	hir	1	h i r
+067/047	hiir	1	h ii r
+067/049	her	1	h e r
+067/051	hir	1	h i r
+067/053	hier	1	h ie r
+067/055	hir	1	h i r
+067/057	hir	1	h i r
+067/059	hier	1	h ie r
+067/061	her	1	h e r
+067/063	heier	1	h eie r
+067/065	heier	1	h eie r
+067/067	hä	1	h ä
+067/069	höa	1	h öa
+067/071	höä	1	h öä
+067/073	hoar	1	h oa r
+067/075	hör	1	h ö r
+067/077	hör	1	h ö r
+067/079	hör	1	h ö r
+067/081	hör	1	h ö r
+067/083	hör	1	h ö r
+067/085	höö	1	h öö
+067/087	häer	1	h äe r
+067/089	hör	1	h ö r
+067/091	her	1	h e r
+067/093	häia	1	h äia
+067/095	hör	1	h ö r
+067/097	höiie	1	h öiie
+067/099	häiaa	1	h äiaa
+067/101	häja	1	h ä j a
+067/103	höia	1	h öia
+067/105	höijer	1	h öi j e r
+067/107	her	1	h e r
+067/109	hea	1	h ea
+067/111	heer	1	h ee r
+067/113	heer	1	h ee r
+067/143	heer	1	h ee r
+067/145	her	1	h e r
+067/147	här	1	h ä r
+067/149	här	1	h ä r
+067/151	här	1	h ä r
+067/153	hier	1	h ie r
+067/155	hier	1	h ie r
+067/157	her	1	h e r
+067/159	hier	1	h ie r
+067/161	hier	1	h ie r
+067/163	hier	1	h ie r
+067/165	hie	1	h ie
+067/177	hier	1	h ie r
+068/021	hir	1	h i r
+068/023	hier	1	h ie r
+068/025	he	1	h e
+068/027	hier	1	h ie r
+068/029	hür	1	h ü r
+068/031	hier	1	h ie r
+068/033	hir	1	h i r
+068/035	hier	1	h ie r
+068/037	hür	1	h ü r
+068/039	hür	1	h ü r
+068/041	hähr	1	h äh r
+068/043	hö	1	h ö
+068/045	hör	1	h ö r
+068/047	härr	1	h ä rr
+068/049	hir	1	h i r
+068/051	her	1	h e r
+068/053	hier	1	h ie r
+068/055	hier	1	h ie r
+068/057	hir	1	h i r
+068/059	hie	1	h ie
+068/061	höe	1	h öe
+068/063	höö	1	h öö
+068/065	heier	1	h eie r
+068/067	hör	1	h ö r
+068/069	höa	1	h öa
+068/071	hör	1	h ö r
+068/073	hör	1	h ö r
+068/075	hör	1	h ö r
+068/077	här	1	h ä r
+068/079	här	1	h ä r
+068/081	här	1	h ä r
+068/083	höe	1	h öe
+068/085	her	1	h e r
+068/087	hö	1	h ö
+068/089	höa	1	h öa
+068/091	her	1	h e r
+068/093	häia	1	h äia
+068/095	häiä	1	h äiä
+068/097	häia	1	h äia
+068/099	häia	1	h äia
+068/101	häi	1	h äi
+068/103	haia	1	h aia
+068/105	häj	1	h ä j
+068/107	häie	1	h äie
+068/109	hea	1	h ea
+068/111	hea	1	h ea
+068/145	här	1	h ä r
+068/147	här	1	h ä r
+068/149	hir	1	h i r
+068/151	her	1	h e r
+068/153	här	1	h ä r
+068/155	här	1	h ä r
+068/157	hir	1	h i r
+068/159	hier	1	h ie r
+068/161	hier	1	h ie r
+068/165	hier	1	h ie r
+069/019	hier	1	h ie r
+069/023	hier	1	h ie r
+069/025	hier	1	h ie r
+069/027	hier	1	h ie r
+069/029	hier	1	h ie r
+069/031	heer	1	h ee r
+069/033	hier	1	h ie r
+069/035	hia	1	h ia
+069/037	heer	1	h ee r
+069/039	her	1	h e r
+069/041	her	1	h e r
+069/043	her	1	h e r
+069/045	hör	1	h ö r
+069/047	heer	1	h ee r
+069/049	hir	1	h i r
+069/051	her	1	h e r
+069/053	heer	1	h ee r
+069/055	her	1	h e r
+069/057	hir	1	h i r
+069/059	häer	1	h äe r
+069/061	härr	1	h ä rr
+069/063	höa	1	h öa
+069/065	höa	1	h öa
+069/067	hör	1	h ö r
+069/069	höar	1	h öa r
+069/071	höar	1	h öa r
+069/073	här	1	h ä r
+069/075	höar	1	h öa r
+069/077	här	1	h ä r
+069/079	hö	1	h ö
+069/081	höe	1	h öe
+069/083	hör	1	h ö r
+069/085	her	1	h e r
+069/087	höö	1	h öö
+069/089	heer	1	h ee r
+069/091	hör	1	h ö r
+069/093	häier	1	h äie r
+069/095	häia	1	h äia
+069/097	häia	1	h äia
+069/099	höa	1	h öa
+069/101	häia	1	h äia
+069/103	haia	1	h aia
+069/105	heija	1	h ei j a
+069/107	haia	1	h aia
+069/109	hea	1	h ea
+069/111	här	1	h ä r
+069/147	här	1	h ä r
+069/149	her	1	h e r
+069/151	her	1	h e r
+069/153	hör	1	h ö r
+069/157	her	1	h e r
+069/159	her	1	h e r
+069/161	heer	1	h ee r
+069/163	hir	1	h i r
+069/165	hür	1	h ü r
+070/019	heer	1	h ee r
+070/023	hir	1	h i r
+070/025	hia	1	h ia
+070/027	hir	1	h i r
+070/029	her	1	h e r
+070/031	hier	1	h ie r
+070/033	hier	1	h ie r
+070/035	hör	1	h ö r
+070/037	hier	1	h ie r
+070/039	her	1	h e r
+070/041	hör	1	h ö r
+070/043	här	1	h ä r
+070/045	her	1	h e r
+070/047	her	1	h e r
+070/049	hir	1	h i r
+070/051	hir	1	h i r
+070/053	her	1	h e r
+070/055	hier	1	h ie r
+070/057	hir	1	h i r
+070/059	hier	1	h ie r
+070/061	höhr	1	h öh r
+070/063	hör	1	h ö r
+070/065	höar	1	h öa r
+070/067	hör	1	h ö r
+070/069	hör	1	h ö r
+070/071	hör	1	h ö r
+070/073	häör	1	h äö r
+070/075	hör	1	h ö r
+070/077	hör	1	h ö r
+070/079	höe	1	h öe
+070/081	hööe	1	h ööe
+070/083	höe	1	h öe
+070/085	hör	1	h ö r
+070/087	her	1	h e r
+070/089	hee	1	h ee
+070/091	hair	1	h ai r
+070/093	höia	1	h öia
+070/095	haia	1	h aia
+070/097	häiaa	1	h äiaa
+070/099	häia	1	h äia
+070/101	häia	1	h äia
+070/103	häia	1	h äia
+070/105	höija	1	h öi j a
+070/107	heja	1	h e j a
+070/109	heja	1	h e j a
+070/111	häär	1	h ää r
+070/145	her	1	h e r
+070/147	här	1	h ä r
+070/149	här	1	h ä r
+070/151	her	1	h e r
+070/153	hör	1	h ö r
+070/155	heer	1	h ee r
+070/157	hör	1	h ö r
+070/159	her	1	h e r
+070/161	här	1	h ä r
+070/163	hir	1	h i r
+070/165	hir	1	h i r
+071/017	heer	1	h ee r
+071/019	heier	1	h eie r
+071/021	heer	1	h ee r
+071/023	hier	1	h ie r
+071/025	hier	1	h ie r
+071/027	hier	1	h ie r
+071/029	her	1	h e r
+071/031	här	1	h ä r
+071/033	hiia	1	h iia
+071/035	heer	1	h ee r
+071/037	heer	1	h ee r
+071/039	heer	1	h ee r
+071/041	her	1	h e r
+071/043	her	1	h e r
+071/045	hör	1	h ö r
+071/047	hehr	1	h eh r
+071/049	her	1	h e r
+071/051	her	1	h e r
+071/053	hoer	1	h oe r
+071/055	hör	1	h ö r
+071/057	her	1	h e r
+071/059	her	1	h e r
+071/063	hör	1	h ö r
+071/065	höa	1	h öa
+071/067	hör	1	h ö r
+071/069	höar	1	h öa r
+071/071	höar	1	h öa r
+071/073	hör	1	h ö r
+071/075	här	1	h ä r
+071/077	höar	1	h öa r
+071/079	höe	1	h öe
+071/081	hö	1	h ö
+071/083	höe	1	h öe
+071/085	hör	1	h ö r
+071/087	her	1	h e r
+071/089	hea	1	h ea
+071/091	höa	1	h öa
+071/093	häüe	1	h äüe
+071/095	höia	1	h öia
+071/097	häia	1	h äia
+071/099	heia	1	h eia
+071/101	heir	1	h ei r
+071/103	höia	1	h öia
+071/105	häia	1	h äia
+071/145	hol	1	h o l
+071/147	heer	1	h ee r
+071/149	hier	1	h ie r
+071/151	hör	1	h ö r
+071/153	her	1	h e r
+071/155	hör	1	h ö r
+071/157	her	1	h e r
+071/159	här	1	h ä r
+071/161	her	1	h e r
+071/163	her	1	h e r
+071/177	hiir	1	h ii r
+071/179	här	1	h ä r
+072/017	heer	1	h ee r
+072/019	hell	1	h e ll
+072/021	hier	1	h ie r
+072/023	häll	1	h ä ll
+072/025	hihr	1	h ih r
+072/027	häl	1	h ä l
+072/029	her	1	h e r
+072/031	her	1	h e r
+072/033	heer	1	h ee r
+072/035	her	1	h e r
+072/037	her	1	h e r
+072/039	her	1	h e r
+072/041	heer	1	h ee r
+072/043	her	1	h e r
+072/045	hehr	1	h eh r
+072/047	här	1	h ä r
+072/049	her	1	h e r
+072/051	höa	1	h öa
+072/053	her	1	h e r
+072/055	heier	1	h eie r
+072/057	her	1	h e r
+072/059	heia	1	h eia
+072/061	hör	1	h ö r
+072/063	hör	1	h ö r
+072/065	höar	1	h öa r
+072/067	hör	1	h ö r
+072/069	häör	1	h äö r
+072/071	hör	1	h ö r
+072/073	hör	1	h ö r
+072/075	höer	1	h öe r
+072/077	hör	1	h ö r
+072/079	höe	1	h öe
+072/081	hör	1	h ö r
+072/083	hör	1	h ö r
+072/085	höa	1	h öa
+072/087	hea	1	h ea
+072/089	hoä	1	h oä
+072/091	häia	1	h äia
+072/093	hoer	1	h oe r
+072/095	hea	1	h ea
+072/097	häa	1	h äa
+072/099	häija	1	h äi j a
+072/101	häiä	1	h äiä
+072/103	höea	1	h öea
+072/105	höia	1	h öia
+072/107	häia	1	h äia
+072/145	hje	1	h j e
+072/147	her	1	h e r
+072/149	hä	1	h ä
+072/151	hehr	1	h eh r
+072/153	här	1	h ä r
+072/155	her	1	h e r
+072/157	här	1	h ä r
+072/159	her	1	h e r
+072/161	her	1	h e r
+072/177	hie	1	h ie
+072/179	her	1	h e r
+072/181	hier	1	h ie r
+073/017	hell	1	h e ll
+073/019	hiel	1	h ie l
+073/021	hill	1	h i ll
+073/023	hell	1	h e ll
+073/025	hiier	1	h iie r
+073/027	hör	1	h ö r
+073/029	hör	1	h ö r
+073/031	heer	1	h ee r
+073/033	her	1	h e r
+073/035	her	1	h e r
+073/037	her	1	h e r
+073/039	hör	1	h ö r
+073/041	heer	1	h ee r
+073/043	hör	1	h ö r
+073/045	her	1	h e r
+073/047	hör	1	h ö r
+073/049	hör	1	h ö r
+073/051	hör	1	h ö r
+073/053	hör	1	h ö r
+073/055	häjä	1	h ä j ä
+073/057	häje	1	h ä j e
+073/059	heer	1	h ee r
+073/061	hör	1	h ö r
+073/063	hör	1	h ö r
+073/065	hör	1	h ö r
+073/067	höar	1	h öa r
+073/069	höer	1	h öe r
+073/071	höar	1	h öa r
+073/073	här	1	h ä r
+073/075	hör	1	h ö r
+073/077	hee	1	h ee
+073/079	hö	1	h ö
+073/081	hör	1	h ö r
+073/083	höa	1	h öa
+073/085	hör	1	h ö r
+073/087	hia	1	h ia
+073/089	höir	1	h öi r
+073/091	haia	1	h aia
+073/093	häja	1	h ä j a
+073/095	häie	1	h äie
+073/097	hea	1	h ea
+073/099	höia	1	h öia
+073/101	häia	1	h äia
+073/103	häöa	1	h äöa
+073/105	haja	1	h a j a
+073/107	höia	1	h öia
+073/145	hje	1	h j e
+073/147	her	1	h e r
+073/149	här	1	h ä r
+073/151	här	1	h ä r
+073/153	her	1	h e r
+073/155	hör	1	h ö r
+073/157	hör	1	h ö r
+073/159	hör	1	h ö r
+073/161	her	1	h e r
+073/163	her	1	h e r
+073/165	häe	1	h äe
+073/175	hier	1	h ie r
+073/177	hiir	1	h ii r
+074/019	heer	1	h ee r
+074/021	heer	1	h ee r
+074/023	heer	1	h ee r
+074/025	heer	1	h ee r
+074/027	her	1	h e r
+074/029	lässt	1	l ä ss t
+074/031	her	1	h e r
+074/033	her	1	h e r
+074/035	heer	1	h ee r
+074/037	her	1	h e r
+074/039	hier	1	h ie r
+074/041	hör	1	h ö r
+074/043	her	1	h e r
+074/045	her	1	h e r
+074/047	her	1	h e r
+074/049	häje	1	h ä j e
+074/051	heer	1	h ee r
+074/053	häir	1	h äi r
+074/055	häi	1	h äi
+074/057	her	1	h e r
+074/059	hör	1	h ö r
+074/061	hör	1	h ö r
+074/063	hör	1	h ö r
+074/065	hör	1	h ö r
+074/067	hör	1	h ö r
+074/069	här	1	h ä r
+074/071	häär	1	h ää r
+074/073	här	1	h ä r
+074/075	här	1	h ä r
+074/077	her	1	h e r
+074/079	her	1	h e r
+074/081	hör	1	h ö r
+074/083	höa	1	h öa
+074/085	häier	1	h äie r
+074/087	häiia	1	h äiia
+074/089	haür	1	h aü r
+074/091	häia	1	h äia
+074/093	höia	1	h öia
+074/095	höia	1	h öia
+074/097	hööier	1	h ööie r
+074/099	häea	1	h äea
+074/101	häeä	1	h äeä
+074/103	häja	1	h ä j a
+074/105	höa	1	h öa
+074/107	häia	1	h äia
+074/109	heia	1	h eia
+074/145	her	1	h e r
+074/147	her	1	h e r
+074/149	här	1	h ä r
+074/153	her	1	h e r
+074/155	heer	1	h ee r
+074/157	her	1	h e r
+074/159	her	1	h e r
+074/161	heer	1	h ee r
+074/163	heä	1	h eä
+074/165	her	1	h e r
+075/019	häll	1	h ä ll
+075/021	hell	1	h e ll
+075/023	hell	1	h e ll
+075/025	heer	1	h ee r
+075/027	häir	1	h äi r
+075/029	hier	1	h ie r
+075/031	her	1	h e r
+075/033	her	1	h e r
+075/035	her	1	h e r
+075/037	hör	1	h ö r
+075/039	her	1	h e r
+075/041	hör	1	h ö r
+075/043	här	1	h ä r
+075/045	hör	1	h ö r
+075/047	heer	1	h ee r
+075/049	her	1	h e r
+075/051	häa	1	h äa
+075/053	häier	1	h äie r
+075/055	häa	1	h äa
+075/057	häier	1	h äie r
+075/059	hör	1	h ö r
+075/061	hör	1	h ö r
+075/063	hör	1	h ö r
+075/065	hör	1	h ö r
+075/067	höär	1	h öä r
+075/069	häör	1	h äö r
+075/071	höa	1	h öa
+075/073	her	1	h e r
+075/075	här	1	h ä r
+075/077	hör	1	h ö r
+075/079	hea	1	h ea
+075/081	hea	1	h ea
+075/083	höa	1	h öa
+075/085	häir	1	h äi r
+075/087	höa	1	h öa
+075/089	häia	1	h äia
+075/091	höer	1	h öe r
+075/093	häija	1	h äi j a
+075/095	häja	1	h ä j a
+075/097	häia	1	h äia
+075/099	häir	1	h äi r
+075/101	häia	1	h äia
+075/103	heja	1	h e j a
+075/105	haja	1	h a j a
+075/107	häia	1	h äia
+075/135	he	1	h e
+075/145	höa	1	h öa
+075/147	hor	1	h o r
+075/149	he	1	h e
+075/155	her	1	h e r
+075/157	her	1	h e r
+075/159	hör	1	h ö r
+075/161	hehr	1	h eh r
+075/163	häie	1	h äie
+075/165	her	1	h e r
+076/019	hell	1	h e ll
+076/021	heer	1	h ee r
+076/023	heer	1	h ee r
+076/025	hierr	1	h ie rr
+076/027	häll	1	h ä ll
+076/029	lesst	1	l e ss t
+076/033	hir	1	h i r
+076/035	her	1	h e r
+076/037	her	1	h e r
+076/039	hör	1	h ö r
+076/041	her	1	h e r
+076/043	här	1	h ä r
+076/045	hör	1	h ö r
+076/047	heer	1	h ee r
+076/049	her	1	h e r
+076/051	här	1	h ä r
+076/053	her	1	h e r
+076/055	här	1	h ä r
+076/057	hör	1	h ö r
+076/059	hör	1	h ö r
+076/061	hör	1	h ö r
+076/063	hör	1	h ö r
+076/065	hör	1	h ö r
+076/067	hör	1	h ö r
+076/069	här	1	h ä r
+076/071	här	1	h ä r
+076/073	här	1	h ä r
+076/075	här	1	h ä r
+076/077	höir	1	h öi r
+076/079	häiä	1	h äiä
+076/081	häir	1	h äi r
+076/083	heier	1	h eie r
+076/085	haier	1	h aie r
+076/087	häier	1	h äie r
+076/089	heia	1	h eia
+076/091	höia	1	h öia
+076/093	her	1	h e r
+076/095	höier	1	h öie r
+076/097	höa	1	h öa
+076/099	här	1	h ä r
+076/101	häia	1	h äia
+076/103	höie	1	h öie
+076/135	her	1	h e r
+076/137	hea	1	h ea
+076/149	hee	1	h ee
+076/151	her	1	h e r
+076/155	hehr	1	h eh r
+076/161	häe	1	h äe
+076/163	hä	1	h ä
+076/165	her	1	h e r
+077/019	häl	1	h ä l
+077/021	heer	1	h ee r
+077/023	heer	1	h ee r
+077/025	häll	1	h ä ll
+077/027	hir	1	h i r
+077/029	hier	1	h ie r
+077/031	hier	1	h ie r
+077/033	hör	1	h ö r
+077/035	her	1	h e r
+077/037	hör	1	h ö r
+077/039	her	1	h e r
+077/041	hör	1	h ö r
+077/043	heer	1	h ee r
+077/047	her	1	h e r
+077/049	her	1	h e r
+077/051	häär	1	h ää r
+077/053	här	1	h ä r
+077/055	her	1	h e r
+077/057	hör	1	h ö r
+077/059	her	1	h e r
+077/061	hör	1	h ö r
+077/063	hür	1	h ü r
+077/065	heer	1	h ee r
+077/067	hör	1	h ö r
+077/069	hör	1	h ö r
+077/071	hear	1	h ea r
+077/073	här	1	h ä r
+077/075	här	1	h ä r
+077/077	här	1	h ä r
+077/079	häier	1	h äie r
+077/081	häir	1	h äi r
+077/083	häir	1	h äi r
+077/085	höia	1	h öia
+077/087	häier	1	h äie r
+077/089	höia	1	h öia
+077/091	höia	1	h öia
+077/093	höia	1	h öia
+077/095	häia	1	h äia
+077/097	her	1	h e r
+077/099	heea	1	h eea
+077/101	häia	1	h äia
+077/103	her	1	h e r
+077/135	hea	1	h ea
+077/137	her	1	h e r
+078/021	heer	1	h ee r
+078/023	her	1	h e r
+078/025	häl	1	h ä l
+078/027	hir	1	h i r
+078/029	her	1	h e r
+078/031	her	1	h e r
+078/033	her	1	h e r
+078/035	heer	1	h ee r
+078/037	heer	1	h ee r
+078/039	heer	1	h ee r
+078/041	her	1	h e r
+078/045	her	1	h e r
+078/047	her	1	h e r
+078/049	heer	1	h ee r
+078/051	her	1	h e r
+078/053	hea	1	h ea
+078/055	her	1	h e r
+078/057	heer	1	h ee r
+078/059	här	1	h ä r
+078/061	heer	1	h ee r
+078/063	här	1	h ä r
+078/065	här	1	h ä r
+078/067	häär	1	h ää r
+078/069	här	1	h ä r
+078/071	häar	1	h äa r
+078/073	här	1	h ä r
+078/075	her	1	h e r
+078/077	häär	1	h ää r
+078/079	häer	1	h äe r
+078/081	häier	1	h äie r
+078/083	häir	1	h äi r
+078/085	höa	1	h öa
+078/087	heejee	1	h ee j ee
+078/089	her	1	h e r
+078/091	höier	1	h öie r
+078/093	här	1	h ä r
+078/095	hea	1	h ea
+078/097	hea	1	h ea
+078/099	häa	1	h äa
+078/101	hör	1	h ö r
+078/103	hiä	1	h iä
+078/105	hea	1	h ea
+078/135	hör	1	h ö r
+078/193	her	1	h e r
+079/021	losst	1	l o ss t
+079/023	her	1	h e r
+079/025	heer	1	h ee r
+079/027	her	1	h e r
+079/029	her	1	h e r
+079/031	her	1	h e r
+079/033	her	1	h e r
+079/035	heer	1	h ee r
+079/037	her	1	h e r
+079/039	her	1	h e r
+079/043	hör	1	h ö r
+079/045	hör	1	h ö r
+079/047	hör	1	h ö r
+079/049	hehr	1	h eh r
+079/051	här	1	h ä r
+079/053	här	1	h ä r
+079/055	her	1	h e r
+079/057	he	1	h e
+079/059	höa	1	h öa
+079/061	här	1	h ä r
+079/063	här	1	h ä r
+079/065	häär	1	h ää r
+079/067	här	1	h ä r
+079/069	här	1	h ä r
+079/071	häar	1	h äa r
+079/073	hear	1	h ea r
+079/075	här	1	h ä r
+079/077	här	1	h ä r
+079/079	hea	1	h ea
+079/081	häir	1	h äi r
+079/083	häier	1	h äie r
+079/085	heia	1	h eia
+079/087	hör	1	h ö r
+079/089	häia	1	h äia
+079/091	haia	1	h aia
+079/093	höo	1	h öo
+079/095	hea	1	h ea
+079/097	här	1	h ä r
+079/099	hea	1	h ea
+079/101	hea	1	h ea
+079/103	her	1	h e r
+079/105	häa	1	h äa
+079/107	hör	1	h ö r
+079/133	hör	1	h ö r
+079/135	hör	1	h ö r
+079/193	her	1	h e r
+079/195	här	1	h ä r
+079/197	här	1	h ä r
+080/025	lässt	1	l ä ss t
+080/027	lässt	1	l ä ss t
+080/029	losst	1	l o ss t
+080/031	her	1	h e r
+080/033	heer	1	h ee r
+080/035	här	1	h ä r
+080/037	her	1	h e r
+080/039	hör	1	h ö r
+080/041	hör	1	h ö r
+080/043	heer	1	h ee r
+080/045	hör	1	h ö r
+080/047	her	1	h e r
+080/049	hör	1	h ö r
+080/051	här	1	h ä r
+080/053	här	1	h ä r
+080/055	heer	1	h ee r
+080/057	här	1	h ä r
+080/059	här	1	h ä r
+080/061	häär	1	h ää r
+080/063	heer	1	h ee r
+080/065	här	1	h ä r
+080/067	här	1	h ä r
+080/069	här	1	h ä r
+080/071	höar	1	h öa r
+080/073	häar	1	h äa r
+080/075	hähr	1	h äh r
+080/077	höar	1	h öa r
+080/079	höiär	1	h öiä r
+080/081	höar	1	h öa r
+080/083	häie	1	h äie
+080/085	haie	1	h aie
+080/087	häja	1	h ä j a
+080/089	höa	1	h öa
+080/091	hööa	1	h ööa
+080/093	her	1	h e r
+080/095	her	1	h e r
+080/097	hea	1	h ea
+080/099	hör	1	h ö r
+080/101	höa	1	h öa
+080/103	höa	1	h öa
+080/105	höa	1	h öa
+080/107	hör	1	h ö r
+080/109	hö	1	h ö
+080/127	höa	1	h öa
+080/147	her	1	h e r
+080/151	her	1	h e r
+080/153	heaa	1	h eaa
+080/193	här	1	h ä r
+080/195	här	1	h ä r
+081/025	her	1	h e r
+081/027	her	1	h e r
+081/029	her	1	h e r
+081/031	lesst	1	l e ss t
+081/033	heer	1	h ee r
+081/035	her	1	h e r
+081/037	losst	1	l o ss t
+081/039	her	1	h e r
+081/043	her	1	h e r
+081/045	hör	1	h ö r
+081/047	hör	1	h ö r
+081/049	her	1	h e r
+081/051	her	1	h e r
+081/053	här	1	h ä r
+081/055	her	1	h e r
+081/057	her	1	h e r
+081/059	hör	1	h ö r
+081/061	her	1	h e r
+081/063	häär	1	h ää r
+081/065	hear	1	h ea r
+081/067	heear	1	h eea r
+081/069	häar	1	h äa r
+081/071	her	1	h e r
+081/073	hör	1	h ö r
+081/075	heer	1	h ee r
+081/077	her	1	h e r
+081/079	heja	1	h e j a
+081/081	haair	1	h aai r
+081/083	häie	1	h äie
+081/085	haaie	1	h aaie
+081/087	heia	1	h eia
+081/089	hea	1	h ea
+081/091	häa	1	h äa
+081/093	hör	1	h ö r
+081/095	hör	1	h ö r
+081/097	hör	1	h ö r
+081/099	hör	1	h ö r
+081/101	hieer	1	h iee r
+081/103	hör	1	h ö r
+081/105	höa	1	h öa
+081/107	hör	1	h ö r
+081/109	her	1	h e r
+081/111	hear	1	h ea r
+081/127	hea	1	h ea
+081/129	her	1	h e r
+081/133	hör	1	h ö r
+081/147	heer	1	h ee r
+081/191	her	1	h e r
+081/193	her	1	h e r
+081/195	her	1	h e r
+082/027	heea	1	h eea
+082/029	heer	1	h ee r
+082/031	här	1	h ä r
+082/033	heer	1	h ee r
+082/035	her	1	h e r
+082/037	losst	1	l o ss t
+082/039	her	1	h e r
+082/041	losd	1	l o s d
+082/043	heer	1	h ee r
+082/045	her	1	h e r
+082/047	heer	1	h ee r
+082/049	hör	1	h ö r
+082/051	her	1	h e r
+082/053	her	1	h e r
+082/055	her	1	h e r
+082/057	her	1	h e r
+082/059	haier	1	h aie r
+082/061	här	1	h ä r
+082/063	här	1	h ä r
+082/065	hear	1	h ea r
+082/067	hör	1	h ö r
+082/069	hear	1	h ea r
+082/071	höar	1	h öa r
+082/073	hääar	1	h ääa r
+082/075	hör	1	h ö r
+082/077	häier	1	h äie r
+082/079	häir	1	h äi r
+082/081	höier	1	h öie r
+082/083	häjer	1	h ä j e r
+082/085	höia	1	h öia
+082/087	her	1	h e r
+082/089	höa	1	h öa
+082/091	höa	1	h öa
+082/093	höa	1	h öa
+082/095	hör	1	h ö r
+082/097	höaar	1	h öaa r
+082/099	her	1	h e r
+082/101	hö	1	h ö
+082/103	hea	1	h ea
+082/105	her	1	h e r
+082/107	höa	1	h öa
+082/111	her	1	h e r
+082/113	her	1	h e r
+082/117	her	1	h e r
+082/129	hea	1	h ea
+082/131	her	1	h e r
+082/133	her	1	h e r
+082/135	hör	1	h ö r
+082/145	här	1	h ä r
+082/147	her	1	h e r
+082/191	här	1	h ä r
+082/195	her	1	h e r
+083/027	holl	1	h o ll
+083/029	her	1	h e r
+083/031	nolosse	1	n o l o ss e
+083/033	heer	1	h ee r
+083/035	her	1	h e r
+083/037	her	1	h e r
+083/039	her	1	h e r
+083/041	hör	1	h ö r
+083/043	lossd	1	l o ss d
+083/045	her	1	h e r
+083/047	her	1	h e r
+083/049	hör	1	h ö r
+083/051	här	1	h ä r
+083/053	här	1	h ä r
+083/055	hör	1	h ö r
+083/057	hajer	1	h a j e r
+083/059	haear	1	h aea r
+083/061	hajar	1	h a j a r
+083/063	haär	1	h aä r
+083/065	här	1	h ä r
+083/067	hear	1	h ea r
+083/069	häar	1	h äa r
+083/071	höar	1	h öa r
+083/073	höar	1	h öa r
+083/075	häar	1	h äa r
+083/077	häier	1	h äie r
+083/079	häer	1	h äe r
+083/081	häir	1	h äi r
+083/083	hea	1	h ea
+083/085	höia	1	h öia
+083/087	heeiaa	1	h eeiaa
+083/089	här	1	h ä r
+083/091	hea	1	h ea
+083/093	höa	1	h öa
+083/095	hea	1	h ea
+083/097	hör	1	h ö r
+083/099	hea	1	h ea
+083/101	hör	1	h ö r
+083/103	hör	1	h ö r
+083/105	höa	1	h öa
+083/107	her	1	h e r
+083/111	her	1	h e r
+083/113	höa	1	h öa
+083/115	her	1	h e r
+083/117	hea	1	h ea
+083/119	hea	1	h ea
+083/121	her	1	h e r
+083/129	her	1	h e r
+083/131	hea	1	h ea
+083/133	hör	1	h ö r
+083/135	her	1	h e r
+083/139	her	1	h e r
+083/143	her	1	h e r
+083/145	her	1	h e r
+083/147	her	1	h e r
+083/149	her	1	h e r
+083/173	hea	1	h ea
+083/195	her	1	h e r
+084/031	her	1	h e r
+084/033	hehr	1	h eh r
+084/035	her	1	h e r
+084/037	her	1	h e r
+084/039	her	1	h e r
+084/041	her	1	h e r
+084/043	her	1	h e r
+084/045	her	1	h e r
+084/047	her	1	h e r
+084/049	här	1	h ä r
+084/051	her	1	h e r
+084/053	hör	1	h ö r
+084/055	hör	1	h ö r
+084/057	haiaar	1	h aiaa r
+084/059	haäer	1	h aäe r
+084/061	haear	1	h aea r
+084/063	haiär	1	h aiä r
+084/065	haer	1	h ae r
+084/067	heär	1	h eä r
+084/069	höar	1	h öa r
+084/071	hör	1	h ö r
+084/073	häar	1	h äa r
+084/075	hear	1	h ea r
+084/077	hör	1	h ö r
+084/079	hair	1	h ai r
+084/081	höar	1	h öa r
+084/083	hör	1	h ö r
+084/085	hear	1	h ea r
+084/087	höa	1	h öa
+084/089	her	1	h e r
+084/091	hea	1	h ea
+084/093	höa	1	h öa
+084/095	hea	1	h ea
+084/097	hea	1	h ea
+084/099	hör	1	h ö r
+084/101	her	1	h e r
+084/103	her	1	h e r
+084/105	hea	1	h ea
+084/107	hea	1	h ea
+084/109	hea	1	h ea
+084/111	heng	1	h e ng
+084/113	hea	1	h ea
+084/115	heach	1	h ea ch
+084/117	her	1	h e r
+084/119	hör	1	h ö r
+084/129	hör	1	h ö r
+084/131	höa	1	h öa
+084/133	hea	1	h ea
+084/135	her	1	h e r
+084/137	her	1	h e r
+084/139	hea	1	h ea
+084/141	hör	1	h ö r
+084/143	hea	1	h ea
+084/145	her	1	h e r
+084/147	her	1	h e r
+084/149	hea	1	h ea
+084/171	häjä	1	h ä j ä
+084/173	hea	1	h ea
+084/195	häa	1	h äa
+085/031	her	1	h e r
+085/033	her	1	h e r
+085/035	her	1	h e r
+085/037	her	1	h e r
+085/039	hal	1	h a l
+085/041	heer	1	h ee r
+085/043	her	1	h e r
+085/045	hal	1	h a l
+085/047	her	1	h e r
+085/049	hör	1	h ö r
+085/051	häir	1	h äi r
+085/053	hair	1	h ai r
+085/055	haier	1	h aie r
+085/057	her	1	h e r
+085/059	her	1	h e r
+085/061	hair	1	h ai r
+085/063	haer	1	h ae r
+085/065	haer	1	h ae r
+085/067	haer	1	h ae r
+085/069	häar	1	h äa r
+085/071	häar	1	h äa r
+085/073	hear	1	h ea r
+085/075	hör	1	h ö r
+085/077	häar	1	h äa r
+085/079	hör	1	h ö r
+085/081	hea	1	h ea
+085/083	hea	1	h ea
+085/085	hör	1	h ö r
+085/087	her	1	h e r
+085/089	häa	1	h äa
+085/091	hör	1	h ö r
+085/093	hör	1	h ö r
+085/095	häa	1	h äa
+085/097	hea	1	h ea
+085/101	her	1	h e r
+085/103	hör	1	h ö r
+085/105	hea	1	h ea
+085/107	häng	1	h ä ng
+085/109	häng	1	h ä ng
+085/111	här	1	h ä r
+085/113	heng	1	h e ng
+085/115	her	1	h e r
+085/117	hör	1	h ö r
+085/119	her	1	h e r
+085/121	hör	1	h ö r
+085/123	heha	1	h e h a
+085/125	hör	1	h ö r
+085/127	her	1	h e r
+085/129	hör	1	h ö r
+085/131	her	1	h e r
+085/133	hea	1	h ea
+085/135	hear	1	h ea r
+085/137	hör	1	h ö r
+085/139	her	1	h e r
+085/141	hea	1	h ea
+085/143	hea	1	h ea
+085/145	her	1	h e r
+085/147	her	1	h e r
+085/149	här	1	h ä r
+085/175	heia	1	h eia
+085/193	hear	1	h ea r
+085/197	hea	1	h ea
+086/033	her	1	h e r
+086/035	her	1	h e r
+086/037	hehr	1	h eh r
+086/039	her	1	h e r
+086/041	her	1	h e r
+086/043	hör	1	h ö r
+086/045	heer	1	h ee r
+086/047	her	1	h e r
+086/049	här	1	h ä r
+086/051	haier	1	h aie r
+086/053	haair	1	h aai r
+086/055	haer	1	h ae r
+086/057	hair	1	h ai r
+086/059	hair	1	h ai r
+086/061	hair	1	h ai r
+086/063	hair	1	h ai r
+086/065	haer	1	h ae r
+086/067	hair	1	h ai r
+086/069	hear	1	h ea r
+086/071	häar	1	h äa r
+086/073	höar	1	h öa r
+086/075	hear	1	h ea r
+086/077	häar	1	h äa r
+086/079	hear	1	h ea r
+086/081	hear	1	h ea r
+086/083	här	1	h ä r
+086/085	höör	1	h öö r
+086/087	hea	1	h ea
+086/089	her	1	h e r
+086/091	her	1	h e r
+086/093	her	1	h e r
+086/095	hööa	1	h ööa
+086/097	hör	1	h ö r
+086/099	her	1	h e r
+086/101	her	1	h e r
+086/103	här	1	h ä r
+086/105	heer	1	h ee r
+086/107	hänk	1	h ä n k
+086/109	häng	1	h ä ng
+086/111	her	1	h e r
+086/113	her	1	h e r
+086/115	heng	1	h e ng
+086/117	hea	1	h ea
+086/119	heach	1	h ea ch
+086/121	hea	1	h ea
+086/123	her	1	h e r
+086/125	hea	1	h ea
+086/127	her	1	h e r
+086/129	här	1	h ä r
+086/131	hea	1	h ea
+086/133	hör	1	h ö r
+086/135	hör	1	h ö r
+086/137	hör	1	h ö r
+086/139	här	1	h ä r
+086/141	hör	1	h ö r
+086/143	her	1	h e r
+086/145	hör	1	h ö r
+086/147	her	1	h e r
+086/149	hör	1	h ö r
+086/151	höa	1	h öa
+086/175	haia	1	h aia
+086/197	hea	1	h ea
+086/199	höa	1	h öa
+087/033	hal	1	h a l
+087/035	hal	1	h a l
+087/037	her	1	h e r
+087/039	her	1	h e r
+087/041	her	1	h e r
+087/043	her	1	h e r
+087/045	her	1	h e r
+087/049	hör	1	h ö r
+087/051	heer	1	h ee r
+087/053	haer	1	h ae r
+087/055	hair	1	h ai r
+087/057	haer	1	h ae r
+087/059	haier	1	h aie r
+087/061	haer	1	h ae r
+087/063	hair	1	h ai r
+087/065	hair	1	h ai r
+087/067	hair	1	h ai r
+087/069	häar	1	h äa r
+087/071	hear	1	h ea r
+087/073	hear	1	h ea r
+087/075	hear	1	h ea r
+087/077	hear	1	h ea r
+087/079	höar	1	h öa r
+087/081	her	1	h e r
+087/083	hear	1	h ea r
+087/085	her	1	h e r
+087/087	hör	1	h ö r
+087/089	hear	1	h ea r
+087/091	her	1	h e r
+087/093	her	1	h e r
+087/095	höa	1	h öa
+087/097	höa	1	h öa
+087/099	hea	1	h ea
+087/101	hör	1	h ö r
+087/103	här	1	h ä r
+087/105	hea	1	h ea
+087/107	häe	1	h äe
+087/109	här	1	h ä r
+087/111	häng	1	h ä ng
+087/113	häng	1	h ä ng
+087/115	hör	1	h ö r
+087/117	heach	1	h ea ch
+087/119	heach	1	h ea ch
+087/121	hea	1	h ea
+087/123	hea	1	h ea
+087/125	hör	1	h ö r
+087/127	hea	1	h ea
+087/129	her	1	h e r
+087/133	her	1	h e r
+087/135	hör	1	h ö r
+087/137	her	1	h e r
+087/139	he	1	h e
+087/141	hör	1	h ö r
+087/143	her	1	h e r
+087/145	heer	1	h ee r
+087/147	her	1	h e r
+087/149	hea	1	h ea
+087/151	hör	1	h ö r
+088/035	her	1	h e r
+088/037	heer	1	h ee r
+088/039	her	1	h e r
+088/041	hehr	1	h eh r
+088/043	her	1	h e r
+088/045	hör	1	h ö r
+088/047	hair	1	h ai r
+088/049	hoor	1	h oo r
+088/051	hair	1	h ai r
+088/053	hair	1	h ai r
+088/055	hair	1	h ai r
+088/057	hair	1	h ai r
+088/059	haer	1	h ae r
+088/061	hai	1	h ai
+088/063	hair	1	h ai r
+088/065	hair	1	h ai r
+088/067	hair	1	h ai r
+088/069	häar	1	h äa r
+088/071	häer	1	h äe r
+088/073	höar	1	h öa r
+088/075	hear	1	h ea r
+088/077	hear	1	h ea r
+088/079	höar	1	h öa r
+088/081	hear	1	h ea r
+088/083	hear	1	h ea r
+088/085	hae	1	h ae
+088/087	här	1	h ä r
+088/089	hear	1	h ea r
+088/091	här	1	h ä r
+088/093	her	1	h e r
+088/095	her	1	h e r
+088/097	her	1	h e r
+088/099	he	1	h e
+088/101	hea	1	h ea
+088/103	hiia	1	h iia
+088/105	här	1	h ä r
+088/107	höa	1	h öa
+088/109	hea	1	h ea
+088/113	heng	1	h e ng
+088/115	her	1	h e r
+088/117	her	1	h e r
+088/121	hör	1	h ö r
+088/123	her	1	h e r
+088/127	hö	1	h ö
+088/129	här	1	h ä r
+088/131	hea	1	h ea
+088/137	her	1	h e r
+088/139	hea	1	h ea
+088/141	hör	1	h ö r
+088/143	hör	1	h ö r
+088/145	höa	1	h öa
+088/147	hea	1	h ea
+088/149	her	1	h e r
+089/035	hör	1	h ö r
+089/037	hal	1	h a l
+089/039	hör	1	h ö r
+089/041	hal	1	h a l
+089/043	hör	1	h ö r
+089/045	her	1	h e r
+089/047	heer	1	h ee r
+089/049	hor	1	h o r
+089/051	her	1	h e r
+089/053	her	1	h e r
+089/055	hai	1	h ai
+089/057	hair	1	h ai r
+089/059	hair	1	h ai r
+089/061	hair	1	h ai r
+089/063	hai	1	h ai
+089/065	hair	1	h ai r
+089/067	hair	1	h ai r
+089/069	häer	1	h äe r
+089/071	här	1	h ä r
+089/073	hear	1	h ea r
+089/075	hear	1	h ea r
+089/077	heear	1	h eea r
+089/079	hear	1	h ea r
+089/081	här	1	h ä r
+089/083	häa	1	h äa
+089/085	hör	1	h ö r
+089/087	hör	1	h ö r
+089/089	her	1	h e r
+089/091	her	1	h e r
+089/093	her	1	h e r
+089/095	höa	1	h öa
+089/097	hea	1	h ea
+089/099	her	1	h e r
+089/101	her	1	h e r
+089/103	hea	1	h ea
+089/105	höaa	1	h öaa
+089/107	her	1	h e r
+089/109	her	1	h e r
+089/111	heng	1	h e ng
+089/113	her	1	h e r
+089/115	haa	1	h aa
+089/117	her	1	h e r
+089/119	hea	1	h ea
+089/121	hea	1	h ea
+089/123	her	1	h e r
+089/125	her	1	h e r
+089/127	hör	1	h ö r
+089/129	hea	1	h ea
+089/131	her	1	h e r
+089/133	hör	1	h ö r
+089/135	hea	1	h ea
+089/137	her	1	h e r
+089/139	her	1	h e r
+089/141	her	1	h e r
+089/143	hea	1	h ea
+089/145	heä	1	h eä
+089/147	her	1	h e r
+089/149	hea	1	h ea
+090/035	her	1	h e r
+090/037	hal	1	h a l
+090/039	heer	1	h ee r
+090/041	her	1	h e r
+090/043	her	1	h e r
+090/045	heer	1	h ee r
+090/047	hör	1	h ö r
+090/049	hör	1	h ö r
+090/051	heer	1	h ee r
+090/053	her	1	h e r
+090/055	hair	1	h ai r
+090/057	hae	1	h ae
+090/059	hair	1	h ai r
+090/061	hair	1	h ai r
+090/063	hair	1	h ai r
+090/065	hair	1	h ai r
+090/067	hair	1	h ai r
+090/069	höa	1	h öa
+090/071	hear	1	h ea r
+090/073	hear	1	h ea r
+090/075	häar	1	h äa r
+090/077	hear	1	h ea r
+090/079	höar	1	h öa r
+090/081	här	1	h ä r
+090/083	hea	1	h ea
+090/085	här	1	h ä r
+090/087	hör	1	h ö r
+090/089	her	1	h e r
+090/091	her	1	h e r
+090/093	her	1	h e r
+090/095	her	1	h e r
+090/097	hea	1	h ea
+090/099	hea	1	h ea
+090/101	här	1	h ä r
+090/103	hear	1	h ea r
+090/105	her	1	h e r
+090/107	höa	1	h öa
+090/109	her	1	h e r
+090/111	hea	1	h ea
+090/113	her	1	h e r
+090/115	her	1	h e r
+090/119	hea	1	h ea
+090/121	her	1	h e r
+090/123	her	1	h e r
+090/125	hea	1	h ea
+090/127	her	1	h e r
+090/129	hör	1	h ö r
+090/131	hör	1	h ö r
+090/133	hea	1	h ea
+090/135	ha	1	h a
+090/137	her	1	h e r
+090/139	hea	1	h ea
+090/141	her	1	h e r
+090/143	hea	1	h ea
+090/145	hea	1	h ea
+090/147	hea	1	h ea
+090/149	her	1	h e r
+090/151	hea	1	h ea
+091/035	heer	1	h ee r
+091/037	hal	1	h a l
+091/039	heer	1	h ee r
+091/041	hör	1	h ö r
+091/043	hör	1	h ö r
+091/045	här	1	h ä r
+091/047	här	1	h ä r
+091/049	hör	1	h ö r
+091/051	heer	1	h ee r
+091/053	heer	1	h ee r
+091/055	hair	1	h ai r
+091/057	hair	1	h ai r
+091/059	hair	1	h ai r
+091/061	hai	1	h ai
+091/063	hae	1	h ae
+091/065	hai	1	h ai
+091/067	hae	1	h ae
+091/069	hai	1	h ai
+091/071	häa	1	h äa
+091/073	hear	1	h ea r
+091/075	hear	1	h ea r
+091/077	her	1	h e r
+091/079	hear	1	h ea r
+091/081	hear	1	h ea r
+091/083	her	1	h e r
+091/085	her	1	h e r
+091/087	hea	1	h ea
+091/091	her	1	h e r
+091/093	her	1	h e r
+091/095	häa	1	h äa
+091/097	her	1	h e r
+091/099	her	1	h e r
+091/101	her	1	h e r
+091/103	heaa	1	h eaa
+091/105	her	1	h e r
+091/107	her	1	h e r
+091/109	her	1	h e r
+091/111	her	1	h e r
+091/113	häng	1	h ä ng
+091/115	her	1	h e r
+091/117	heng	1	h e ng
+091/119	laassts	1	l aa ss t s
+091/121	her	1	h e r
+091/125	hea	1	h ea
+091/129	her	1	h e r
+091/131	hör	1	h ö r
+091/133	her	1	h e r
+091/135	göa	1	g öa
+091/137	her	1	h e r
+091/139	höa	1	h öa
+091/141	her	1	h e r
+091/143	her	1	h e r
+091/145	her	1	h e r
+091/147	her	1	h e r
+091/149	her	1	h e r
+091/151	hea	1	h ea
+091/155	her	1	h e r
+092/033	her	1	h e r
+092/035	hal	1	h a l
+092/037	här	1	h ä r
+092/039	her	1	h e r
+092/041	häär	1	h ää r
+092/043	hör	1	h ö r
+092/045	her	1	h e r
+092/047	her	1	h e r
+092/049	her	1	h e r
+092/051	he	1	h e
+092/053	heer	1	h ee r
+092/055	hair	1	h ai r
+092/057	hair	1	h ai r
+092/059	hair	1	h ai r
+092/061	hai	1	h ai
+092/063	lat	1	l a t
+092/065	hair	1	h ai r
+092/067	hair	1	h ai r
+092/069	heer	1	h ee r
+092/071	hear	1	h ea r
+092/073	hea	1	h ea
+092/075	här	1	h ä r
+092/077	heear	1	h eea r
+092/079	höar	1	h öa r
+092/081	här	1	h ä r
+092/083	hear	1	h ea r
+092/085	här	1	h ä r
+092/087	hör	1	h ö r
+092/089	her	1	h e r
+092/091	hea	1	h ea
+092/093	hea	1	h ea
+092/095	hör	1	h ö r
+092/097	hea	1	h ea
+092/099	her	1	h e r
+092/101	hör	1	h ö r
+092/103	her	1	h e r
+092/105	hea	1	h ea
+092/107	her	1	h e r
+092/109	her	1	h e r
+092/111	her	1	h e r
+092/113	her	1	h e r
+092/115	her	1	h e r
+092/117	her	1	h e r
+092/119	her	1	h e r
+092/121	hear	1	h ea r
+092/123	her	1	h e r
+092/125	her	1	h e r
+092/127	her	1	h e r
+092/129	hea	1	h ea
+092/131	her	1	h e r
+092/133	här	1	h ä r
+092/135	her	1	h e r
+092/137	her	1	h e r
+092/139	hör	1	h ö r
+092/141	her	1	h e r
+092/143	her	1	h e r
+092/145	hea	1	h ea
+092/147	her	1	h e r
+092/149	her	1	h e r
+092/151	her	1	h e r
+093/035	heer	1	h ee r
+093/037	her	1	h e r
+093/039	här	1	h ä r
+093/041	her	1	h e r
+093/043	her	1	h e r
+093/045	här	1	h ä r
+093/047	her	1	h e r
+093/049	her	1	h e r
+093/051	hör	1	h ö r
+093/053	her	1	h e r
+093/055	hair	1	h ai r
+093/057	haair	1	h aai r
+093/059	haer	1	h ae r
+093/061	haer	1	h ae r
+093/063	her	1	h e r
+093/065	hor	1	h o r
+093/067	her	1	h e r
+093/069	hör	1	h ö r
+093/071	hö	1	h ö
+093/073	höar	1	h öa r
+093/075	hear	1	h ea r
+093/077	hea	1	h ea
+093/079	hear	1	h ea r
+093/081	hea	1	h ea
+093/083	hea	1	h ea
+093/085	här	1	h ä r
+093/087	hör	1	h ö r
+093/089	hear	1	h ea r
+093/091	hä	1	h ä
+093/093	hea	1	h ea
+093/095	hear	1	h ea r
+093/097	höer	1	h öe r
+093/099	hear	1	h ea r
+093/101	här	1	h ä r
+093/103	her	1	h e r
+093/105	her	1	h e r
+093/109	her	1	h e r
+093/111	her	1	h e r
+093/113	hech	1	h e ch
+093/115	hör	1	h ö r
+093/117	her	1	h e r
+093/119	her	1	h e r
+093/121	her	1	h e r
+093/123	hör	1	h ö r
+093/125	hea	1	h ea
+093/127	hea	1	h ea
+093/129	hör	1	h ö r
+093/131	her	1	h e r
+093/133	her	1	h e r
+093/137	her	1	h e r
+093/139	her	1	h e r
+093/143	hea	1	h ea
+093/145	her	1	h e r
+093/147	höa	1	h öa
+093/149	her	1	h e r
+093/151	hea	1	h ea
+093/153	häa	1	h äa
+093/155	hea	1	h ea
+094/033	heer	1	h ee r
+094/035	her	1	h e r
+094/037	her	1	h e r
+094/039	her	1	h e r
+094/041	häär	1	h ää r
+094/043	här	1	h ä r
+094/045	hör	1	h ö r
+094/047	hör	1	h ö r
+094/049	heer	1	h ee r
+094/051	lot	1	l o t
+094/053	her	1	h e r
+094/055	heer	1	h ee r
+094/057	hair	1	h ai r
+094/059	hör	1	h ö r
+094/061	hair	1	h ai r
+094/063	her	1	h e r
+094/065	hae	1	h ae
+094/067	her	1	h e r
+094/069	höh	1	h öh
+094/071	hör	1	h ö r
+094/073	her	1	h e r
+094/075	hear	1	h ea r
+094/077	här	1	h ä r
+094/079	her	1	h e r
+094/081	her	1	h e r
+094/083	her	1	h e r
+094/085	här	1	h ä r
+094/087	här	1	h ä r
+094/089	hear	1	h ea r
+094/091	hear	1	h ea r
+094/093	hea	1	h ea
+094/095	häa	1	h äa
+094/097	här	1	h ä r
+094/099	he	1	h e
+094/101	heea	1	h eea
+094/103	hea	1	h ea
+094/105	hea	1	h ea
+094/107	her	1	h e r
+094/109	her	1	h e r
+094/111	her	1	h e r
+094/113	her	1	h e r
+094/115	her	1	h e r
+094/117	her	1	h e r
+094/119	her	1	h e r
+094/121	her	1	h e r
+094/123	hea	1	h ea
+094/125	her	1	h e r
+094/127	hea	1	h ea
+094/129	heer	1	h ee r
+094/131	her	1	h e r
+094/133	her	1	h e r
+094/135	hör	1	h ö r
+094/137	her	1	h e r
+094/139	her	1	h e r
+094/141	her	1	h e r
+094/143	hea	1	h ea
+094/145	hear	1	h ea r
+094/147	hör	1	h ö r
+094/149	her	1	h e r
+094/151	hea	1	h ea
+094/153	hea	1	h ea
+095/031	hal	1	h a l
+095/033	her	1	h e r
+095/035	her	1	h e r
+095/037	her	1	h e r
+095/039	her	1	h e r
+095/041	her	1	h e r
+095/043	hör	1	h ö r
+095/045	hör	1	h ö r
+095/047	hör	1	h ö r
+095/049	heer	1	h ee r
+095/051	hör	1	h ö r
+095/053	hör	1	h ö r
+095/055	hör	1	h ö r
+095/057	hör	1	h ö r
+095/059	he	1	h e
+095/061	hör	1	h ö r
+095/063	hör	1	h ö r
+095/065	her	1	h e r
+095/067	hö	1	h ö
+095/069	hör	1	h ö r
+095/071	hör	1	h ö r
+095/073	hör	1	h ö r
+095/075	hear	1	h ea r
+095/077	hear	1	h ea r
+095/079	her	1	h e r
+095/081	hear	1	h ea r
+095/083	hea	1	h ea
+095/085	höa	1	h öa
+095/087	hoa	1	h oa
+095/089	he	1	h e
+095/091	hea	1	h ea
+095/093	her	1	h e r
+095/095	her	1	h e r
+095/097	hea	1	h ea
+095/099	her	1	h e r
+095/101	hör	1	h ö r
+095/103	her	1	h e r
+095/105	hör	1	h ö r
+095/107	her	1	h e r
+095/109	her	1	h e r
+095/111	hea	1	h ea
+095/113	her	1	h e r
+095/115	her	1	h e r
+095/117	her	1	h e r
+095/119	her	1	h e r
+095/121	her	1	h e r
+095/123	hör	1	h ö r
+095/125	he	1	h e
+095/129	hea	1	h ea
+095/131	hea	1	h ea
+095/133	her	1	h e r
+095/139	her	1	h e r
+095/141	her	1	h e r
+095/143	her	1	h e r
+095/145	häa	1	h äa
+095/147	hea	1	h ea
+095/149	häa	1	h äa
+095/151	hea	1	h ea
+095/153	hea	1	h ea
+095/155	her	1	h e r
+096/031	hal	1	h a l
+096/033	her	1	h e r
+096/035	her	1	h e r
+096/037	heer	1	h ee r
+096/039	her	1	h e r
+096/041	hör	1	h ö r
+096/043	hör	1	h ö r
+096/045	her	1	h e r
+096/047	her	1	h e r
+096/049	hör	1	h ö r
+096/051	hör	1	h ö r
+096/053	her	1	h e r
+096/055	her	1	h e r
+096/057	her	1	h e r
+096/059	hör	1	h ö r
+096/061	her	1	h e r
+096/063	hor	1	h o r
+096/065	hör	1	h ö r
+096/067	NA	NA	-
+096/069	hör	1	h ö r
+096/071	he	1	h e
+096/075	här	1	h ä r
+096/077	hear	1	h ea r
+096/079	hoar	1	h oa r
+096/081	hea	1	h ea
+096/083	her	1	h e r
+096/085	her	1	h e r
+096/087	her	1	h e r
+096/089	her	1	h e r
+096/091	her	1	h e r
+096/093	hea	1	h ea
+096/095	här	1	h ä r
+096/097	her	1	h e r
+096/099	höah	1	h öah
+096/101	her	1	h e r
+096/103	här	1	h ä r
+096/105	hea	1	h ea
+096/107	hea	1	h ea
+096/109	her	1	h e r
+096/111	hea	1	h ea
+096/113	her	1	h e r
+096/115	her	1	h e r
+096/117	her	1	h e r
+096/119	hea	1	h ea
+096/121	hea	1	h ea
+096/123	hear	1	h ea r
+096/125	hea	1	h ea
+096/129	hear	1	h ea r
+096/131	hör	1	h ö r
+096/135	her	1	h e r
+096/137	her	1	h e r
+096/139	her	1	h e r
+096/141	her	1	h e r
+096/143	hea	1	h ea
+096/145	hea	1	h ea
+096/147	hee	1	h ee
+096/151	hea	1	h ea
+096/153	hea	1	h ea
+096/155	hea	1	h ea
+097/031	hal	1	h a l
+097/033	hal	1	h a l
+097/035	hal	1	h a l
+097/037	heer	1	h ee r
+097/039	hör	1	h ö r
+097/041	her	1	h e r
+097/043	hör	1	h ö r
+097/045	hor	1	h o r
+097/047	hör	1	h ö r
+097/049	her	1	h e r
+097/051	her	1	h e r
+097/053	hör	1	h ö r
+097/055	her	1	h e r
+097/057	her	1	h e r
+097/059	heer	1	h ee r
+097/061	heer	1	h ee r
+097/063	hör	1	h ö r
+097/065	hör	1	h ö r
+097/067	hör	1	h ö r
+097/069	hee	1	h ee
+097/071	hö	1	h ö
+097/073	hör	1	h ö r
+097/075	höar	1	h öa r
+097/077	hear	1	h ea r
+097/079	hear	1	h ea r
+097/081	här	1	h ä r
+097/083	här	1	h ä r
+097/085	hör	1	h ö r
+097/087	här	1	h ä r
+097/089	här	1	h ä r
+097/091	häch	1	h ä ch
+097/093	hea	1	h ea
+097/095	her	1	h e r
+097/097	hor	1	h o r
+097/099	her	1	h e r
+097/103	her	1	h e r
+097/105	her	1	h e r
+097/107	hea	1	h ea
+097/109	her	1	h e r
+097/113	NA	NA	-
+097/125	hear	1	h ea r
+097/131	hea	1	h ea
+097/133	her	1	h e r
+097/139	hear	1	h ea r
+097/141	her	1	h e r
+097/143	hör	1	h ö r
+097/145	här	1	h ä r
+097/149	her	1	h e r
+097/153	hear	1	h ea r
+098/033	her	1	h e r
+098/035	hool	1	h oo l
+098/037	her	1	h e r
+098/039	her	1	h e r
+098/041	hör	1	h ö r
+098/043	hör	1	h ö r
+098/045	höör	1	h öö r
+098/047	hör	1	h ö r
+098/049	hör	1	h ö r
+098/051	hör	1	h ö r
+098/053	hör	1	h ö r
+098/055	her	1	h e r
+098/057	heer	1	h ee r
+098/059	heer	1	h ee r
+098/061	hör	1	h ö r
+098/063	her	1	h e r
+098/065	hör	1	h ö r
+098/067	hör	1	h ö r
+098/069	hör	1	h ö r
+098/071	hör	1	h ö r
+098/073	hea	1	h ea
+098/075	hear	1	h ea r
+098/077	her	1	h e r
+098/079	höar	1	h öa r
+098/081	her	1	h e r
+098/083	her	1	h e r
+098/085	hör	1	h ö r
+098/087	haö	1	h aö
+098/089	her	1	h e r
+098/091	höer	1	h öe r
+098/093	heasch	1	h ea sch
+098/095	hea	1	h ea
+098/097	hör	1	h ö r
+098/103	hor	1	h o r
+098/105	hea	1	h ea
+098/107	her	1	h e r
+098/109	her	1	h e r
+098/111	her	1	h e r
+098/119	her	1	h e r
+098/123	hear	1	h ea r
+098/125	her	1	h e r
+098/127	hör	1	h ö r
+098/135	her	1	h e r
+098/137	her	1	h e r
+098/139	hör	1	h ö r
+098/141	hör	1	h ö r
+098/143	her	1	h e r
+098/145	här	1	h ä r
+098/147	hea	1	h ea
+098/149	hear	1	h ea r
+098/151	he	1	h e
+099/033	her	1	h e r
+099/035	her	1	h e r
+099/037	her	1	h e r
+099/039	heer	1	h ee r
+099/041	hör	1	h ö r
+099/043	hör	1	h ö r
+099/045	hör	1	h ö r
+099/047	hör	1	h ö r
+099/049	hör	1	h ö r
+099/051	höör	1	h öö r
+099/053	hör	1	h ö r
+099/055	höör	1	h öö r
+099/057	hör	1	h ö r
+099/059	hör	1	h ö r
+099/063	hör	1	h ö r
+099/065	heer	1	h ee r
+099/067	her	1	h e r
+099/069	här	1	h ä r
+099/071	höa	1	h öa
+099/073	hea	1	h ea
+099/075	hea	1	h ea
+099/077	hear	1	h ea r
+099/081	her	1	h e r
+099/083	hear	1	h ea r
+099/085	her	1	h e r
+099/089	hai	1	h ai
+099/093	heasch	1	h ea sch
+099/095	heasch	1	h ea sch
+099/099	hesch	1	h e sch
+099/101	her	1	h e r
+099/103	här	1	h ä r
+099/105	häa	1	h äa
+099/107	hea	1	h ea
+099/109	hear	1	h ea r
+099/111	her	1	h e r
+099/113	häng	1	h ä ng
+099/121	hea	1	h ea
+099/123	höa	1	h öa
+099/125	her	1	h e r
+099/131	her	1	h e r
+099/137	her	1	h e r
+099/139	hör	1	h ö r
+099/141	her	1	h e r
+099/143	her	1	h e r
+099/145	hea	1	h ea
+099/147	her	1	h e r
+100/033	hör	1	h ö r
+100/035	hal	1	h a l
+100/037	hör	1	h ö r
+100/039	her	1	h e r
+100/041	hör	1	h ö r
+100/043	höör	1	h öö r
+100/045	hör	1	h ö r
+100/049	höör	1	h öö r
+100/051	hör	1	h ö r
+100/053	hör	1	h ö r
+100/055	hör	1	h ö r
+100/057	hör	1	h ö r
+100/059	hör	1	h ö r
+100/061	höör	1	h öö r
+100/065	hör	1	h ö r
+100/067	her	1	h e r
+100/069	hör	1	h ö r
+100/071	hör	1	h ö r
+100/073	hoär	1	h oä r
+100/075	hear	1	h ea r
+100/077	hear	1	h ea r
+100/081	här	1	h ä r
+100/083	hear	1	h ea r
+100/089	heasch	1	h ea sch
+100/093	heasch	1	h ea sch
+100/095	hesch	1	h e sch
+100/097	hesch	1	h e sch
+100/099	heas	1	h ea s
+100/101	her	1	h e r
+100/109	hea	1	h ea
+100/111	her	1	h e r
+100/113	her	1	h e r
+100/115	hör	1	h ö r
+100/117	heach	1	h ea ch
+100/119	her	1	h e r
+100/121	hea	1	h ea
+100/125	hor	1	h o r
+100/127	her	1	h e r
+100/129	her	1	h e r
+100/133	her	1	h e r
+100/135	her	1	h e r
+100/141	hör	1	h ö r
+100/143	hea	1	h ea
+100/145	här	1	h ä r
+101/035	her	1	h e r
+101/037	hör	1	h ö r
+101/039	hör	1	h ö r
+101/041	hör	1	h ö r
+101/043	loht	1	l oh t
+101/045	höör	1	h öö r
+101/047	höör	1	h öö r
+101/049	hör	1	h ö r
+101/051	hoer	1	h oe r
+101/053	hör	1	h ö r
+101/055	hör	1	h ö r
+101/057	hör	1	h ö r
+101/059	hör	1	h ö r
+101/061	hör	1	h ö r
+101/063	höüer	1	h öüe r
+101/065	hör	1	h ö r
+101/067	hör	1	h ö r
+101/071	hear	1	h ea r
+101/075	hear	1	h ea r
+101/077	hear	1	h ea r
+101/079	häar	1	h äa r
+101/081	her	1	h e r
+101/091	heasch	1	h ea sch
+101/093	heasch	1	h ea sch
+101/095	heasch	1	h ea sch
+101/097	hersch	1	h e r sch
+101/099	hesch	1	h e sch
+101/101	hesch	1	h e sch
+101/103	hesch	1	h e sch
+101/107	höar	1	h öa r
+101/109	her	1	h e r
+101/113	hesch	1	h e sch
+101/115	hör	1	h ö r
+101/121	hea	1	h ea
+101/125	her	1	h e r
+101/129	hör	1	h ö r
+101/131	her	1	h e r
+101/133	hea	1	h ea
+101/137	hör	1	h ö r
+101/139	her	1	h e r
+101/141	her	1	h e r
+101/143	her	1	h e r
+101/145	hea	1	h ea
+101/147	hea	1	h ea
+102/037	hör	1	h ö r
+102/039	hör	1	h ö r
+102/041	hör	1	h ö r
+102/043	hör	1	h ö r
+102/045	hörr	1	h ö rr
+102/047	höör	1	h öö r
+102/049	hörr	1	h ö rr
+102/051	hör	1	h ö r
+102/053	hörr	1	h ö rr
+102/055	hör	1	h ö r
+102/057	hör	1	h ö r
+102/059	hör	1	h ö r
+102/061	hör	1	h ö r
+102/063	hör	1	h ö r
+102/065	hör	1	h ö r
+102/067	hör	1	h ö r
+102/069	hör	1	h ö r
+102/071	hear	1	h ea r
+102/073	hear	1	h ea r
+102/075	hear	1	h ea r
+102/077	höar	1	h öa r
+102/079	höar	1	h öa r
+102/081	hear	1	h ea r
+102/083	hear	1	h ea r
+102/089	höasch	1	h öa sch
+102/091	heasch	1	h ea sch
+102/093	heasch	1	h ea sch
+102/095	hearsch	1	h ea r sch
+102/097	hesch	1	h e sch
+102/099	hesch	1	h e sch
+102/103	hesch	1	h e sch
+102/107	hesch	1	h e sch
+102/109	heesch	1	h ee sch
+102/113	höa	1	h öa
+102/115	hesch	1	h e sch
+102/127	hea	1	h ea
+102/129	hea	1	h ea
+102/131	her	1	h e r
+102/135	her	1	h e r
+102/137	hör	1	h ö r
+102/139	hear	1	h ea r
+102/141	her	1	h e r
+102/143	hea	1	h ea
+102/145	heea	1	h eea
+103/039	hor	1	h o r
+103/041	hör	1	h ö r
+103/043	hörr	1	h ö rr
+103/045	hör	1	h ö r
+103/047	hörr	1	h ö rr
+103/049	hör	1	h ö r
+103/051	hörr	1	h ö rr
+103/053	hör	1	h ö r
+103/055	hör	1	h ö r
+103/057	hör	1	h ö r
+103/059	hör	1	h ö r
+103/063	hör	1	h ö r
+103/065	hör	1	h ö r
+103/067	hör	1	h ö r
+103/069	hör	1	h ö r
+103/071	hör	1	h ö r
+103/073	hear	1	h ea r
+103/075	här	1	h ä r
+103/077	hear	1	h ea r
+103/079	hear	1	h ea r
+103/081	hear	1	h ea r
+103/083	hear	1	h ea r
+103/085	hear	1	h ea r
+103/087	härsch	1	h ä r sch
+103/089	hear	1	h ea r
+103/091	heach	1	h ea ch
+103/097	heasch	1	h ea sch
+103/099	hesch	1	h e sch
+103/101	häa	1	h äa
+103/105	her	1	h e r
+103/107	heo	1	h eo
+103/111	hesch	1	h e sch
+103/121	her	1	h e r
+103/125	heng	1	h e ng
+103/127	hear	1	h ea r
+103/131	hea	1	h ea
+103/133	her	1	h e r
+103/135	hear	1	h ea r
+103/137	her	1	h e r
+103/139	hör	1	h ö r
+103/141	hea	1	h ea
+103/143	hoa	1	h oa
+103/145	hea	1	h ea
+104/033	hör	1	h ö r
+104/035	hör	1	h ö r
+104/037	hör	1	h ö r
+104/039	hör	1	h ö r
+104/041	hör	1	h ö r
+104/043	hör	1	h ö r
+104/045	hör	1	h ö r
+104/047	höörr	1	h öö rr
+104/049	hörr	1	h ö rr
+104/051	hör	1	h ö r
+104/053	hör	1	h ö r
+104/055	hör	1	h ö r
+104/057	hör	1	h ö r
+104/059	hör	1	h ö r
+104/061	höar	1	h öa r
+104/063	hör	1	h ö r
+104/065	hör	1	h ö r
+104/067	hör	1	h ö r
+104/071	hear	1	h ea r
+104/075	här	1	h ä r
+104/077	hear	1	h ea r
+104/079	hear	1	h ea r
+104/081	hearsch	1	h ea r sch
+104/083	hear	1	h ea r
+104/085	hearsch	1	h ea r sch
+104/091	hear	1	h ea r
+104/095	hesch	1	h e sch
+104/101	her	1	h e r
+104/103	hesch	1	h e sch
+104/107	he	1	h e
+104/111	hech	1	h e ch
+104/113	heach	1	h ea ch
+104/119	her	1	h e r
+104/121	hear	1	h ea r
+104/123	heea	1	h eea
+104/125	hea	1	h ea
+104/127	her	1	h e r
+104/131	heng	1	h e ng
+104/133	her	1	h e r
+104/135	hör	1	h ö r
+104/137	her	1	h e r
+104/139	hea	1	h ea
+104/141	hör	1	h ö r
+104/143	hea	1	h ea
+104/145	he	1	h e
+105/031	hör	1	h ö r
+105/033	hör	1	h ö r
+105/035	hör	1	h ö r
+105/037	hör	1	h ö r
+105/039	hör	1	h ö r
+105/041	hör	1	h ö r
+105/043	hör	1	h ö r
+105/045	hör	1	h ö r
+105/047	hör	1	h ö r
+105/049	hör	1	h ö r
+105/051	hör	1	h ö r
+105/053	hör	1	h ö r
+105/055	hör	1	h ö r
+105/057	hör	1	h ö r
+105/059	hör	1	h ö r
+105/061	her	1	h e r
+105/063	hör	1	h ö r
+105/065	hör	1	h ö r
+105/067	hör	1	h ö r
+105/069	hör	1	h ö r
+105/071	hear	1	h ea r
+105/073	hear	1	h ea r
+105/075	hear	1	h ea r
+105/077	hear	1	h ea r
+105/079	här	1	h ä r
+105/081	hearsch	1	h ea r sch
+105/085	hearsch	1	h ea r sch
+105/087	hearsch	1	h ea r sch
+105/089	heach	1	h ea ch
+105/103	hesch	1	h e sch
+105/105	häsch	1	h ä sch
+105/111	häch	1	h ä ch
+105/113	häch	1	h ä ch
+105/115	her	1	h e r
+105/117	her	1	h e r
+105/119	her	1	h e r
+105/121	her	1	h e r
+105/125	har	1	h a r
+105/127	höh	1	h öh
+105/131	hör	1	h ö r
+105/133	her	1	h e r
+105/135	her	1	h e r
+105/137	hear	1	h ea r
+105/141	her	1	h e r
+105/143	hör	1	h ö r
+105/145	her	1	h e r
+106/033	hör	1	h ö r
+106/035	hör	1	h ö r
+106/037	hör	1	h ö r
+106/039	hör	1	h ö r
+106/041	hör	1	h ö r
+106/043	hör	1	h ö r
+106/045	hör	1	h ö r
+106/047	hör	1	h ö r
+106/049	hör	1	h ö r
+106/051	hör	1	h ö r
+106/053	hör	1	h ö r
+106/057	hör	1	h ö r
+106/061	hör	1	h ö r
+106/063	hör	1	h ö r
+106/067	hör	1	h ö r
+106/071	hear	1	h ea r
+106/073	hear	1	h ea r
+106/075	hear	1	h ea r
+106/077	hear	1	h ea r
+106/079	hear	1	h ea r
+106/081	her	1	h e r
+106/085	hearsch	1	h ea r sch
+106/087	hearsch	1	h ea r sch
+106/093	hiasch	1	h ia sch
+106/097	heach	1	h ea ch
+106/099	hea	1	h ea
+106/103	hear	1	h ea r
+106/111	heach	1	h ea ch
+106/115	häch	1	h ä ch
+106/121	her	1	h e r
+106/123	her	1	h e r
+106/125	hör	1	h ö r
+106/129	hör	1	h ö r
+106/131	her	1	h e r
+106/133	hea	1	h ea
+106/135	här	1	h ä r
+106/137	hör	1	h ö r
+106/139	hör	1	h ö r
+106/141	hör	1	h ö r
+106/143	hea	1	h ea
+106/145	hea	1	h ea
+107/033	hoor	1	h oo r
+107/035	hör	1	h ö r
+107/037	hör	1	h ö r
+107/039	hör	1	h ö r
+107/041	hör	1	h ö r
+107/043	hör	1	h ö r
+107/045	hör	1	h ö r
+107/047	her	1	h e r
+107/049	her	1	h e r
+107/051	hör	1	h ö r
+107/053	hör	1	h ö r
+107/057	hör	1	h ö r
+107/059	hör	1	h ö r
+107/063	hör	1	h ö r
+107/065	hör	1	h ö r
+107/071	hear	1	h ea r
+107/075	hear	1	h ea r
+107/081	her	1	h e r
+107/085	hearsch	1	h ea r sch
+107/087	hearsch	1	h ea r sch
+107/089	höarsch	1	h öa r sch
+107/091	hiasch	1	h ia sch
+107/097	heersch	1	h ee r sch
+107/099	hersch	1	h e r sch
+107/103	her	1	h e r
+107/105	hör	1	h ö r
+107/107	her	1	h e r
+107/111	her	1	h e r
+107/119	her	1	h e r
+107/121	her	1	h e r
+107/123	hör	1	h ö r
+107/125	hear	1	h ea r
+107/127	hör	1	h ö r
+107/129	här	1	h ä r
+107/131	hör	1	h ö r
+107/133	her	1	h e r
+107/135	höar	1	h öa r
+107/137	her	1	h e r
+107/139	hör	1	h ö r
+107/141	her	1	h e r
+107/143	her	1	h e r
+108/033	hör	1	h ö r
+108/035	hör	1	h ö r
+108/037	hör	1	h ö r
+108/039	hör	1	h ö r
+108/041	hör	1	h ö r
+108/043	hör	1	h ö r
+108/047	her	1	h e r
+108/049	her	1	h e r
+108/063	höör	1	h öö r
+108/065	hör	1	h ö r
+108/067	hör	1	h ö r
+108/075	hear	1	h ea r
+108/079	hear	1	h ea r
+108/081	hear	1	h ea r
+108/085	hear	1	h ea r
+108/087	hiarsch	1	h ia r sch
+108/091	hearsch	1	h ea r sch
+108/099	hea	1	h ea
+108/101	hea	1	h ea
+108/103	her	1	h e r
+108/105	hea	1	h ea
+108/109	hear	1	h ea r
+108/111	heer	1	h ee r
+108/113	her	1	h e r
+108/117	her	1	h e r
+108/119	her	1	h e r
+108/121	här	1	h ä r
+108/123	her	1	h e r
+108/125	hear	1	h ea r
+108/127	hear	1	h ea r
+108/129	her	1	h e r
+108/131	höa	1	h öa
+108/133	hea	1	h ea
+108/135	hör	1	h ö r
+108/137	her	1	h e r
+108/139	hea	1	h ea
+108/141	här	1	h ä r
+109/035	hör	1	h ö r
+109/037	hör	1	h ö r
+109/039	hör	1	h ö r
+109/041	hör	1	h ö r
+109/043	hör	1	h ö r
+109/045	her	1	h e r
+109/049	hör	1	h ö r
+109/053	her	1	h e r
+109/061	her	1	h e r
+109/063	hör	1	h ö r
+109/065	hör	1	h ö r
+109/067	hör	1	h ö r
+109/075	hear	1	h ea r
+109/083	hear	1	h ea r
+109/087	hiarsch	1	h ia r sch
+109/089	hearsch	1	h ea r sch
+109/091	heearsch	1	h eea r sch
+109/093	hearsch	1	h ea r sch
+109/095	hearsch	1	h ea r sch
+109/097	heach	1	h ea ch
+109/099	höar	1	h öa r
+109/101	hea	1	h ea
+109/103	her	1	h e r
+109/107	her	1	h e r
+109/109	her	1	h e r
+109/111	här	1	h ä r
+109/113	her	1	h e r
+109/115	her	1	h e r
+109/117	her	1	h e r
+109/119	her	1	h e r
+109/121	her	1	h e r
+109/123	her	1	h e r
+109/125	hear	1	h ea r
+109/127	her	1	h e r
+109/129	her	1	h e r
+109/131	hear	1	h ea r
+109/133	hör	1	h ö r
+109/135	her	1	h e r
+109/137	her	1	h e r
+109/139	höar	1	h öa r
+110/035	hör	1	h ö r
+110/039	hör	1	h ö r
+110/041	hör	1	h ö r
+110/043	her	1	h e r
+110/045	her	1	h e r
+110/047	her	1	h e r
+110/049	heer	1	h ee r
+110/057	her	1	h e r
+110/061	heir	1	h ei r
+110/065	her	1	h e r
+110/075	hear	1	h ea r
+110/079	höar	1	h öa r
+110/081	hear	1	h ea r
+110/083	hear	1	h ea r
+110/087	hear	1	h ea r
+110/089	hear	1	h ea r
+110/091	hearsch	1	h ea r sch
+110/093	hasch	1	h a sch
+110/095	hear	1	h ea r
+110/097	hear	1	h ea r
+110/099	hear	1	h ea r
+110/101	hear	1	h ea r
+110/105	hör	1	h ö r
+110/107	her	1	h e r
+110/111	hear	1	h ea r
+110/113	hear	1	h ea r
+110/115	heer	1	h ee r
+110/117	her	1	h e r
+110/119	her	1	h e r
+110/121	hör	1	h ö r
+110/125	her	1	h e r
+110/127	her	1	h e r
+110/129	her	1	h e r
+110/131	her	1	h e r
+110/133	höa	1	h öa
+110/135	hör	1	h ö r
+110/137	heer	1	h ee r
+110/139	hear	1	h ea r
+111/035	hör	1	h ö r
+111/037	höär	1	h öä r
+111/039	hör	1	h ö r
+111/041	hör	1	h ö r
+111/043	her	1	h e r
+111/045	her	1	h e r
+111/059	hör	1	h ö r
+111/073	hear	1	h ea r
+111/075	hear	1	h ea r
+111/077	hear	1	h ea r
+111/079	hear	1	h ea r
+111/081	NA	NA	-
+111/083	hear	1	h ea r
+111/087	hear	1	h ea r
+111/089	hear	1	h ea r
+111/105	her	1	h e r
+111/107	her	1	h e r
+111/109	hör	1	h ö r
+111/111	her	1	h e r
+111/113	her	1	h e r
+111/115	her	1	h e r
+111/117	her	1	h e r
+111/119	her	1	h e r
+111/121	hear	1	h ea r
+111/123	her	1	h e r
+111/125	her	1	h e r
+112/037	hör	1	h ö r
+112/039	hör	1	h ö r
+112/041	hör	1	h ö r
+112/043	heer	1	h ee r
+112/047	her	1	h e r
+112/059	höör	1	h öö r
+112/061	hör	1	h ö r
+112/063	höar	1	h öa r
+112/075	hear	1	h ea r
+112/081	hear	1	h ea r
+112/083	her	1	h e r
+112/085	hear	1	h ea r
+112/111	her	1	h e r
+112/115	hör	1	h ö r
+112/117	her	1	h e r
+112/119	här	1	h ä r
+113/035	hör	1	h ö r
+113/037	höer	1	h öe r
+113/039	hör	1	h ö r
+113/047	her	1	h e r
+113/079	hear	1	h ea r
+113/081	her	1	h e r
+113/083	hear	1	h ea r
+113/085	hear	1	h ea r
+113/087	hear	1	h ea r
+113/121	her	1	h e r
+113/123	hör	1	h ö r
+114/035	hör	1	h ö r
+114/045	her	1	h e r
+114/083	hear	1	h ea r
+114/085	hear	1	h ea r
+115/041	her	1	h e r
+115/043	her	1	h e r
+115/045	her	1	h e r
+115/083	hear	1	h ea r
+115/085	hear	1	h ea r
+116/043	her	1	h e r
+116/045	her	1	h e r
+116/083	hear	1	h ea r
+117/043	her	1	h e r
+117/045	her	1	h e r
+118/041	her	1	h e r
+119/083	höar	1	h öa r
+120/085	haar	1	h aa r
+121/127	hear	1	h ea r
+122/127	her	1	h e r
+122/129	hear	1	h ea r
+123/081	NA	NA	-
+123/123	hear	1	h ea r
+123/125	hear	1	h ea r
+123/127	hear	1	h ea r
+123/129	hear	1	h ea r
+124/125	hear	1	h ea r
+124/127	hear	1	h ea r
+124/129	hear	1	h ea r

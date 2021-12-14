@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	es	1	e s
+002/201	öss	1	ö ss
+002/203	es	1	e s
+002/205	öss	1	ö ss
+003/203	es	1	e s
+003/205	ess	1	e ss
+004/205	ös	1	ö s
+005/205	ess	1	e ss
+005/207	es	1	e s
+006/205	ess	1	e ss
+006/207	es	1	e s
+007/205	ess	1	e ss
+007/207	es	1	e s
+007/209	ös	1	ö s
+007/211	ös	1	ö s
+008/199	oes	1	oe s
+008/203	ös	1	ö s
+008/205	es	1	e s
+008/207	es	1	e s
+008/209	es	1	e s
+008/211	öss	1	ö ss
+008/213	es	1	e s
+009/199	ess	1	e ss
+009/203	ös	1	ö s
+009/207	es	1	e s
+009/209	es	1	e s
+009/211	es	1	e s
+009/213	öss	1	ö ss
+009/215	ös	1	ö s
+009/217	es	1	e s
+010/195	ees	1	ee s
+010/203	es	1	e s
+010/207	öss	1	ö ss
+010/209	ös	1	ö s
+010/211	ös	1	ö s
+010/213	es	1	e s
+010/215	es	1	e s
+010/217	es	1	e s
+010/219	öss	1	ö ss
+011/049	es	1	e s
+011/053	er	1	e r
+011/055	o	1	o
+011/057	er	1	e r
+011/059	er	1	e r
+011/061	er	1	e r
+011/063	er	1	e r
+011/065	er	1	e r
+011/067	er	1	e r
+011/069	er	1	e r
+011/187	ös	1	ö s
+011/189	ös	1	ö s
+011/191	es	1	e s
+011/195	es	1	e s
+011/197	ess	1	e ss
+011/203	ös	1	ö s
+011/205	es	1	e s
+011/207	es	1	e s
+011/209	es	1	e s
+011/211	ess	1	e ss
+011/213	es	1	e s
+011/215	es	1	e s
+011/217	ös	1	ö s
+011/219	es	1	e s
+012/047	es	1	e s
+012/049	es	1	e s
+012/051	es	1	e s
+012/053	er	1	e r
+012/055	ä	1	ä
+012/057	er	1	e r
+012/059	e	1	e
+012/061	o	1	o
+012/063	e	1	e
+012/065	er	1	e r
+012/067	er	1	e r
+012/069	er	1	e r
+012/187	es	1	e s
+012/189	ös	1	ö s
+012/191	ös	1	ö s
+012/193	ös	1	ö s
+012/195	es	1	e s
+012/197	öss	1	ö ss
+012/199	es	1	e s
+012/201	es	1	e s
+012/203	es	1	e s
+012/205	ös	1	ö s
+012/207	öss	1	ö ss
+012/209	ess	1	e ss
+012/211	ös	1	ö s
+012/213	es	1	e s
+012/215	ess	1	e ss
+012/217	ös	1	ö s
+012/219	ös	1	ö s
+012/221	es	1	e s
+012/223	ess	1	e ss
+013/051	es	1	e s
+013/053	as	1	a s
+013/055	as	1	a s
+013/057	a	1	a
+013/059	her	1	h e r
+013/061	is	1	i s
+013/063	is	1	i s
+013/065	is	1	i s
+013/067	iss	1	i ss
+013/161	es	1	e s
+013/163	es	1	e s
+013/165	es	1	e s
+013/167	es	1	e s
+013/187	es	1	e s
+013/189	es	1	e s
+013/191	ess	1	e ss
+013/193	es	1	e s
+013/195	öss	1	ö ss
+013/197	es	1	e s
+013/199	es	1	e s
+013/201	es	1	e s
+013/203	es	1	e s
+013/207	öss	1	ö ss
+013/209	ess	1	e ss
+013/211	ös	1	ö s
+013/213	es	1	e s
+013/215	es	1	e s
+013/217	iss	1	i ss
+013/219	es	1	e s
+013/221	es	1	e s
+013/223	ös	1	ö s
+014/047	as	1	a s
+014/049	as	1	a s
+014/051	as	1	a s
+014/053	es	1	e s
+014/055	es	1	e s
+014/057	es	1	e s
+014/059	iss	1	i ss
+014/061	is	1	i s
+014/063	is	1	i s
+014/065	is	1	i s
+014/067	is	1	i s
+014/109	is	1	i s
+014/159	es	1	e s
+014/161	es	1	e s
+014/163	es	1	e s
+014/165	es	1	e s
+014/167	es	1	e s
+014/169	es	1	e s
+014/187	ös	1	ö s
+014/189	ess	1	e ss
+014/191	es	1	e s
+014/193	es	1	e s
+014/195	ös	1	ö s
+014/197	es	1	e s
+014/199	ess	1	e ss
+014/201	ös	1	ö s
+014/203	ös	1	ö s
+014/205	ös	1	ö s
+014/207	es	1	e s
+014/209	es	1	e s
+014/211	is	1	i s
+014/213	ös	1	ö s
+014/215	es	1	e s
+014/217	öss	1	ö ss
+014/219	ös	1	ö s
+014/221	es	1	e s
+015/049	as	1	a s
+015/051	is	1	i s
+015/053	is	1	i s
+015/055	es	1	e s
+015/057	iss	1	i ss
+015/059	is	1	i s
+015/061	is	1	i s
+015/063	is	1	i s
+015/065	is	1	i s
+015/067	is	1	i s
+015/105	is	1	i s
+015/107	iss	1	i ss
+015/109	is	1	i s
+015/151	is	1	i s
+015/153	iss	1	i ss
+015/155	is	1	i s
+015/157	is	1	i s
+015/159	is	1	i s
+015/161	is	1	i s
+015/163	is	1	i s
+015/165	es	1	e s
+015/167	es	1	e s
+015/169	es	1	e s
+015/173	is	1	i s
+015/187	öss	1	ö ss
+015/191	ess	1	e ss
+015/193	ös	1	ö s
+015/195	es	1	e s
+015/197	es	1	e s
+015/199	es	1	e s
+015/201	ös	1	ö s
+015/203	es	1	e s
+015/205	es	1	e s
+015/207	öss	1	ö ss
+015/209	es	1	e s
+015/211	öss	1	ö ss
+015/213	es	1	e s
+015/215	oes	1	oe s
+015/217	ös	1	ö s
+015/219	es	1	e s
+015/221	es	1	e s
+016/051	is	1	i s
+016/055	es	1	e s
+016/057	is	1	i s
+016/059	is	1	i s
+016/061	is	1	i s
+016/063	is	1	i s
+016/065	is	1	i s
+016/067	is	1	i s
+016/081	is	1	i s
+016/083	is	1	i s
+016/105	is	1	i s
+016/107	is	1	i s
+016/109	is	1	i s
+016/111	is	1	i s
+016/145	iss	1	i ss
+016/147	iss	1	i ss
+016/149	is	1	i s
+016/151	iss	1	i ss
+016/153	is	1	i s
+016/155	iss	1	i ss
+016/157	is	1	i s
+016/159	iss	1	i ss
+016/161	iss	1	i ss
+016/163	iss	1	i ss
+016/165	es	1	e s
+016/167	es	1	e s
+016/187	es	1	e s
+016/189	es	1	e s
+016/191	es	1	e s
+016/193	ös	1	ö s
+016/195	es	1	e s
+016/197	öss	1	ö ss
+016/199	ös	1	ö s
+016/201	ös	1	ö s
+016/203	öss	1	ö ss
+016/205	ös	1	ö s
+016/209	is	1	i s
+016/211	es	1	e s
+016/213	ess	1	e ss
+016/215	es	1	e s
+016/217	ös	1	ö s
+016/219	öss	1	ö ss
+017/055	is	1	i s
+017/057	is	1	i s
+017/059	iss	1	i ss
+017/061	is	1	i s
+017/063	is	1	i s
+017/065	is	1	i s
+017/067	ist	1	i s t
+017/069	is	1	i s
+017/081	ist	1	i s t
+017/083	is	1	i s
+017/099	is	1	i s
+017/101	is	1	i s
+017/103	iss	1	i ss
+017/107	is	1	i s
+017/109	iss	1	i ss
+017/145	iss	1	i ss
+017/147	is	1	i s
+017/149	is	1	i s
+017/151	iss	1	i ss
+017/153	is	1	i s
+017/155	is	1	i s
+017/157	is	1	i s
+017/159	is	1	i s
+017/161	is	1	i s
+017/163	es	1	e s
+017/165	iss	1	i ss
+017/169	is	1	i s
+017/171	es	1	e s
+017/183	es	1	e s
+017/185	ös	1	ö s
+017/187	es	1	e s
+017/189	es	1	e s
+017/191	es	1	e s
+017/193	es	1	e s
+017/195	es	1	e s
+017/197	es	1	e s
+017/199	es	1	e s
+017/201	ös	1	ö s
+017/203	is	1	i s
+017/205	öss	1	ö ss
+017/207	es	1	e s
+017/209	ess	1	e ss
+017/211	es	1	e s
+017/213	es	1	e s
+017/215	es	1	e s
+017/217	es	1	e s
+017/219	ös	1	ö s
+018/051	is	1	i s
+018/053	is	1	i s
+018/055	is	1	i s
+018/057	is	1	i s
+018/059	is	1	i s
+018/061	is	1	i s
+018/063	is	1	i s
+018/065	is	1	i s
+018/067	is	1	i s
+018/069	iss	1	i ss
+018/071	is	1	i s
+018/073	is	1	i s
+018/075	is	1	i s
+018/079	is	1	i s
+018/081	is	1	i s
+018/097	is	1	i s
+018/099	is	1	i s
+018/103	is	1	i s
+018/105	is	1	i s
+018/107	iss	1	i ss
+018/109	is	1	i s
+018/111	is	1	i s
+018/143	iss	1	i ss
+018/145	is	1	i s
+018/147	is	1	i s
+018/149	is	1	i s
+018/151	is	1	i s
+018/153	is	1	i s
+018/155	is	1	i s
+018/157	iss	1	i ss
+018/159	es	1	e s
+018/161	es	1	e s
+018/163	es	1	e s
+018/165	es	1	e s
+018/169	es	1	e s
+018/171	es	1	e s
+018/173	es	1	e s
+018/181	es	1	e s
+018/185	öss	1	ö ss
+018/187	ös	1	ö s
+018/189	es	1	e s
+018/191	öss	1	ö ss
+018/193	es	1	e s
+018/195	es	1	e s
+018/197	öss	1	ö ss
+018/199	es	1	e s
+018/201	es	1	e s
+018/203	es	1	e s
+018/205	es	1	e s
+018/207	es	1	e s
+018/209	ess	1	e ss
+018/211	es	1	e s
+018/213	es	1	e s
+018/215	es	1	e s
+018/219	oes	1	oe s
+019/051	is	1	i s
+019/053	is	1	i s
+019/055	is	1	i s
+019/057	is	1	i s
+019/059	is	1	i s
+019/061	is	1	i s
+019/063	is	1	i s
+019/065	is	1	i s
+019/067	is	1	i s
+019/069	is	1	i s
+019/071	is	1	i s
+019/073	is	1	i s
+019/075	is	1	i s
+019/077	is	1	i s
+019/079	is	1	i s
+019/081	iss	1	i ss
+019/097	is	1	i s
+019/099	iss	1	i ss
+019/101	is	1	i s
+019/103	is	1	i s
+019/105	is	1	i s
+019/107	is	1	i s
+019/109	is	1	i s
+019/143	is	1	i s
+019/145	is	1	i s
+019/147	iss	1	i ss
+019/149	is	1	i s
+019/151	is	1	i s
+019/153	is	1	i s
+019/155	ist	1	i s t
+019/157	is	1	i s
+019/159	es	1	e s
+019/161	is	1	i s
+019/163	ess	1	e ss
+019/165	is	1	i s
+019/167	es	1	e s
+019/169	es	1	e s
+019/171	es	1	e s
+019/173	es	1	e s
+019/175	is	1	i s
+019/177	es	1	e s
+019/179	es	1	e s
+019/181	es	1	e s
+019/183	öss	1	ö ss
+019/185	es	1	e s
+019/187	ös	1	ö s
+019/189	es	1	e s
+019/191	ess	1	e ss
+019/193	es	1	e s
+019/195	ös	1	ö s
+019/197	es	1	e s
+019/199	es	1	e s
+019/201	es	1	e s
+019/203	es	1	e s
+019/205	es	1	e s
+019/207	ös	1	ö s
+019/209	es	1	e s
+019/211	es	1	e s
+019/213	es	1	e s
+019/215	es	1	e s
+019/217	öss	1	ö ss
+019/219	es	1	e s
+020/043	es	1	e s
+020/053	is	1	i s
+020/055	is	1	i s
+020/057	iss	1	i ss
+020/059	is	1	i s
+020/061	iss	1	i ss
+020/063	is	1	i s
+020/065	is	1	i s
+020/067	iss	1	i ss
+020/069	is	1	i s
+020/071	iss	1	i ss
+020/073	is	1	i s
+020/075	is	1	i s
+020/077	is	1	i s
+020/079	is	1	i s
+020/081	is	1	i s
+020/095	is	1	i s
+020/097	is	1	i s
+020/099	is	1	i s
+020/101	is	1	i s
+020/103	is	1	i s
+020/105	is	1	i s
+020/107	is	1	i s
+020/135	is	1	i s
+020/137	is	1	i s
+020/139	is	1	i s
+020/141	iss	1	i ss
+020/143	is	1	i s
+020/145	is	1	i s
+020/147	is	1	i s
+020/149	is	1	i s
+020/151	is	1	i s
+020/153	is	1	i s
+020/155	is	1	i s
+020/157	is	1	i s
+020/159	is	1	i s
+020/161	ess	1	e ss
+020/163	es	1	e s
+020/165	is	1	i s
+020/167	ess	1	e ss
+020/169	es	1	e s
+020/171	ess	1	e ss
+020/173	es	1	e s
+020/175	es	1	e s
+020/177	is	1	i s
+020/179	es	1	e s
+020/181	es	1	e s
+020/183	ess	1	e ss
+020/185	es	1	e s
+020/187	es	1	e s
+020/189	es	1	e s
+020/191	es	1	e s
+020/193	es	1	e s
+020/195	es	1	e s
+020/197	ös	1	ö s
+020/199	ös	1	ö s
+020/201	öss	1	ö ss
+020/203	es	1	e s
+020/205	ös	1	ö s
+020/207	ös	1	ö s
+020/209	es	1	e s
+020/211	äs	1	ä s
+020/213	ess	1	e ss
+020/215	es	1	e s
+020/217	es	1	e s
+020/219	es	1	e s
+021/055	is	1	i s
+021/057	is	1	i s
+021/059	is	1	i s
+021/061	is	1	i s
+021/063	is	1	i s
+021/065	es	1	e s
+021/067	is	1	i s
+021/069	is	1	i s
+021/071	is	1	i s
+021/073	ist	1	i s t
+021/075	is	1	i s
+021/077	is	1	i s
+021/079	is	1	i s
+021/087	is	1	i s
+021/089	is	1	i s
+021/091	is	1	i s
+021/093	ihs	1	ih s
+021/095	is	1	i s
+021/097	is	1	i s
+021/099	is	1	i s
+021/101	is	1	i s
+021/103	is	1	i s
+021/105	is	1	i s
+021/107	is	1	i s
+021/109	is	1	i s
+021/111	is	1	i s
+021/113	is	1	i s
+021/131	is	1	i s
+021/133	iss	1	i ss
+021/135	is	1	i s
+021/137	is	1	i s
+021/139	is	1	i s
+021/141	is	1	i s
+021/143	iss	1	i ss
+021/145	iss	1	i ss
+021/147	is	1	i s
+021/149	is	1	i s
+021/151	is	1	i s
+021/153	iss	1	i ss
+021/155	is	1	i s
+021/157	iss	1	i ss
+021/159	is	1	i s
+021/163	is	1	i s
+021/165	is	1	i s
+021/167	is	1	i s
+021/169	es	1	e s
+021/171	es	1	e s
+021/173	es	1	e s
+021/175	es	1	e s
+021/177	es	1	e s
+021/179	es	1	e s
+021/181	es	1	e s
+021/183	es	1	e s
+021/185	ös	1	ö s
+021/187	öss	1	ö ss
+021/189	es	1	e s
+021/191	ös	1	ö s
+021/193	ess	1	e ss
+021/195	öss	1	ö ss
+021/197	öss	1	ö ss
+021/199	es	1	e s
+021/201	öss	1	ö ss
+021/203	is	1	i s
+021/205	es	1	e s
+021/207	es	1	e s
+021/211	es	1	e s
+021/215	es	1	e s
+021/217	es	1	e s
+021/219	es	1	e s
+022/055	is	1	i s
+022/057	is	1	i s
+022/059	is	1	i s
+022/061	is	1	i s
+022/063	es	1	e s
+022/065	est	1	e s t
+022/067	is	1	i s
+022/069	is	1	i s
+022/071	is	1	i s
+022/073	iss	1	i ss
+022/075	is	1	i s
+022/077	is	1	i s
+022/087	is	1	i s
+022/089	is	1	i s
+022/091	is	1	i s
+022/093	is	1	i s
+022/095	is	1	i s
+022/097	is	1	i s
+022/099	is	1	i s
+022/101	is	1	i s
+022/103	is	1	i s
+022/105	is	1	i s
+022/107	iss	1	i ss
+022/109	is	1	i s
+022/111	is	1	i s
+022/113	is	1	i s
+022/115	iss	1	i ss
+022/127	iss	1	i ss
+022/129	is	1	i s
+022/131	is	1	i s
+022/133	is	1	i s
+022/135	is	1	i s
+022/137	iss	1	i ss
+022/139	is	1	i s
+022/141	is	1	i s
+022/143	is	1	i s
+022/145	is	1	i s
+022/147	iss	1	i ss
+022/149	iss	1	i ss
+022/151	is	1	i s
+022/153	is	1	i s
+022/155	iss	1	i ss
+022/157	iss	1	i ss
+022/159	is	1	i s
+022/165	iss	1	i ss
+022/167	iss	1	i ss
+022/169	es	1	e s
+022/171	is	1	i s
+022/173	es	1	e s
+022/175	ess	1	e ss
+022/177	es	1	e s
+022/179	es	1	e s
+022/181	es	1	e s
+022/183	öss	1	ö ss
+022/185	ess	1	e ss
+022/187	ös	1	ö s
+022/189	es	1	e s
+022/191	ös	1	ö s
+022/193	es	1	e s
+022/195	ös	1	ö s
+022/197	ös	1	ö s
+022/199	ös	1	ö s
+022/201	ös	1	ö s
+022/203	es	1	e s
+022/205	es	1	e s
+022/209	es	1	e s
+022/211	äs	1	ä s
+022/215	es	1	e s
+022/217	öss	1	ö ss
+022/219	ös	1	ö s
+023/055	is	1	i s
+023/059	is	1	i s
+023/061	is	1	i s
+023/063	is	1	i s
+023/065	is	1	i s
+023/067	is	1	i s
+023/069	is	1	i s
+023/071	is	1	i s
+023/073	is	1	i s
+023/075	iss	1	i ss
+023/077	is	1	i s
+023/079	is	1	i s
+023/081	is	1	i s
+023/083	is	1	i s
+023/085	is	1	i s
+023/087	is	1	i s
+023/089	is	1	i s
+023/091	is	1	i s
+023/093	is	1	i s
+023/095	is	1	i s
+023/097	is	1	i s
+023/099	is	1	i s
+023/101	is	1	i s
+023/103	is	1	i s
+023/105	is	1	i s
+023/107	is	1	i s
+023/109	iss	1	i ss
+023/111	is	1	i s
+023/113	iss	1	i ss
+023/115	is	1	i s
+023/117	is	1	i s
+023/121	is	1	i s
+023/123	is	1	i s
+023/125	is	1	i s
+023/127	is	1	i s
+023/129	iss	1	i ss
+023/131	is	1	i s
+023/133	is	1	i s
+023/135	iss	1	i ss
+023/137	is	1	i s
+023/139	is	1	i s
+023/141	is	1	i s
+023/143	is	1	i s
+023/145	is	1	i s
+023/147	is	1	i s
+023/149	is	1	i s
+023/151	is	1	i s
+023/153	is	1	i s
+023/155	is	1	i s
+023/165	is	1	i s
+023/167	is	1	i s
+023/169	es	1	e s
+023/175	es	1	e s
+023/177	es	1	e s
+023/179	es	1	e s
+023/181	äst	1	ä s t
+023/183	öss	1	ö ss
+023/185	öss	1	ö ss
+023/187	öss	1	ö ss
+023/189	es	1	e s
+023/191	öss	1	ö ss
+023/193	es	1	e s
+023/195	äs	1	ä s
+023/197	es	1	e s
+023/199	ess	1	e ss
+023/201	öss	1	ö ss
+023/203	es	1	e s
+023/205	es	1	e s
+023/207	es	1	e s
+023/215	es	1	e s
+023/217	is	1	i s
+024/053	is	1	i s
+024/057	is	1	i s
+024/059	is	1	i s
+024/061	is	1	i s
+024/063	iss	1	i ss
+024/065	is	1	i s
+024/067	is	1	i s
+024/069	is	1	i s
+024/071	is	1	i s
+024/073	is	1	i s
+024/075	is	1	i s
+024/077	is	1	i s
+024/079	is	1	i s
+024/081	is	1	i s
+024/083	is	1	i s
+024/085	is	1	i s
+024/087	is	1	i s
+024/089	is	1	i s
+024/091	is	1	i s
+024/093	is	1	i s
+024/095	is	1	i s
+024/097	is	1	i s
+024/099	is	1	i s
+024/101	is	1	i s
+024/103	is	1	i s
+024/105	is	1	i s
+024/107	iss	1	i ss
+024/109	is	1	i s
+024/111	is	1	i s
+024/113	is	1	i s
+024/115	is	1	i s
+024/117	is	1	i s
+024/119	is	1	i s
+024/121	iss	1	i ss
+024/123	is	1	i s
+024/125	is	1	i s
+024/127	iss	1	i ss
+024/129	is	1	i s
+024/131	iss	1	i ss
+024/133	is	1	i s
+024/135	is	1	i s
+024/137	iss	1	i ss
+024/139	iss	1	i ss
+024/141	iss	1	i ss
+024/143	iss	1	i ss
+024/145	is	1	i s
+024/147	is	1	i s
+024/149	is	1	i s
+024/151	is	1	i s
+024/153	is	1	i s
+024/155	is	1	i s
+024/163	is	1	i s
+024/165	is	1	i s
+024/167	is	1	i s
+024/169	iss	1	i ss
+024/171	is	1	i s
+024/175	es	1	e s
+024/179	ees	1	ee s
+024/181	es	1	e s
+024/183	es	1	e s
+024/185	öss	1	ö ss
+024/187	is	1	i s
+024/189	ös	1	ö s
+024/191	es	1	e s
+024/193	es	1	e s
+024/195	äs	1	ä s
+024/197	ess	1	e ss
+024/199	is	1	i s
+024/201	es	1	e s
+024/203	es	1	e s
+024/217	es	1	e s
+024/221	es	1	e s
+025/043	ist	1	i s t
+025/051	is	1	i s
+025/053	is	1	i s
+025/055	is	1	i s
+025/057	is	1	i s
+025/059	is	1	i s
+025/061	is	1	i s
+025/063	is	1	i s
+025/065	is	1	i s
+025/067	is	1	i s
+025/069	is	1	i s
+025/071	is	1	i s
+025/073	is	1	i s
+025/075	is	1	i s
+025/077	is	1	i s
+025/079	is	1	i s
+025/081	is	1	i s
+025/083	is	1	i s
+025/085	is	1	i s
+025/087	is	1	i s
+025/089	is	1	i s
+025/091	is	1	i s
+025/093	is	1	i s
+025/095	is	1	i s
+025/099	is	1	i s
+025/101	iss	1	i ss
+025/103	is	1	i s
+025/105	is	1	i s
+025/107	is	1	i s
+025/109	is	1	i s
+025/111	is	1	i s
+025/113	iss	1	i ss
+025/115	is	1	i s
+025/123	iss	1	i ss
+025/125	is	1	i s
+025/127	iss	1	i ss
+025/129	is	1	i s
+025/131	is	1	i s
+025/133	is	1	i s
+025/135	iss	1	i ss
+025/137	is	1	i s
+025/139	is	1	i s
+025/141	is	1	i s
+025/143	is	1	i s
+025/145	is	1	i s
+025/147	iss	1	i ss
+025/149	is	1	i s
+025/151	is	1	i s
+025/153	is	1	i s
+025/155	is	1	i s
+025/157	is	1	i s
+025/159	es	1	e s
+025/177	es	1	e s
+025/179	ess	1	e ss
+025/181	es	1	e s
+025/183	ös	1	ö s
+025/185	es	1	e s
+025/187	öss	1	ö ss
+025/189	es	1	e s
+025/191	öss	1	ö ss
+026/031	is	1	i s
+026/033	is	1	i s
+026/037	is	1	i s
+026/041	is	1	i s
+026/043	is	1	i s
+026/045	is	1	i s
+026/051	is	1	i s
+026/053	is	1	i s
+026/055	is	1	i s
+026/057	is	1	i s
+026/059	is	1	i s
+026/061	is	1	i s
+026/063	is	1	i s
+026/065	is	1	i s
+026/067	is	1	i s
+026/069	is	1	i s
+026/071	is	1	i s
+026/073	ist	1	i s t
+026/075	is	1	i s
+026/077	is	1	i s
+026/079	is	1	i s
+026/081	is	1	i s
+026/083	is	1	i s
+026/085	is	1	i s
+026/087	is	1	i s
+026/089	is	1	i s
+026/091	is	1	i s
+026/093	is	1	i s
+026/095	is	1	i s
+026/097	is	1	i s
+026/099	is	1	i s
+026/101	iss	1	i ss
+026/103	is	1	i s
+026/105	is	1	i s
+026/107	is	1	i s
+026/109	is	1	i s
+026/111	is	1	i s
+026/113	is	1	i s
+026/115	iss	1	i ss
+026/117	is	1	i s
+026/119	is	1	i s
+026/123	iss	1	i ss
+026/125	is	1	i s
+026/127	is	1	i s
+026/129	is	1	i s
+026/131	iss	1	i ss
+026/133	is	1	i s
+026/135	iss	1	i ss
+026/137	iss	1	i ss
+026/139	is	1	i s
+026/141	iss	1	i ss
+026/143	iss	1	i ss
+026/145	is	1	i s
+026/147	is	1	i s
+026/153	ist	1	i s t
+026/155	is	1	i s
+026/157	is	1	i s
+026/159	is	1	i s
+026/161	is	1	i s
+026/165	iss	1	i ss
+026/173	es	1	e s
+026/175	is	1	i s
+026/177	es	1	e s
+026/179	es	1	e s
+026/181	es	1	e s
+026/183	es	1	e s
+026/185	es	1	e s
+026/187	ös	1	ö s
+026/189	ist	1	i s t
+027/027	NA	NA	-
+027/035	is	1	i s
+027/037	is	1	i s
+027/039	is	1	i s
+027/041	is	1	i s
+027/043	is	1	i s
+027/045	is	1	i s
+027/047	is	1	i s
+027/051	is	1	i s
+027/053	iss	1	i ss
+027/055	is	1	i s
+027/057	is	1	i s
+027/059	is	1	i s
+027/061	is	1	i s
+027/063	iss	1	i ss
+027/065	is	1	i s
+027/067	is	1	i s
+027/069	is	1	i s
+027/071	is	1	i s
+027/073	is	1	i s
+027/075	is	1	i s
+027/077	is	1	i s
+027/079	is	1	i s
+027/081	is	1	i s
+027/083	is	1	i s
+027/085	is	1	i s
+027/087	iss	1	i ss
+027/089	is	1	i s
+027/091	is	1	i s
+027/093	is	1	i s
+027/095	iss	1	i ss
+027/099	is	1	i s
+027/101	is	1	i s
+027/103	is	1	i s
+027/105	is	1	i s
+027/107	iss	1	i ss
+027/109	is	1	i s
+027/111	is	1	i s
+027/113	is	1	i s
+027/115	is	1	i s
+027/117	is	1	i s
+027/119	is	1	i s
+027/123	is	1	i s
+027/125	is	1	i s
+027/127	is	1	i s
+027/129	iss	1	i ss
+027/131	is	1	i s
+027/135	iss	1	i ss
+027/137	iss	1	i ss
+027/139	iss	1	i ss
+027/141	is	1	i s
+027/143	is	1	i s
+027/145	iss	1	i ss
+027/147	is	1	i s
+027/149	iss	1	i ss
+027/151	ist	1	i s t
+027/153	is	1	i s
+027/155	is	1	i s
+027/157	is	1	i s
+027/159	is	1	i s
+027/161	is	1	i s
+027/167	is	1	i s
+027/171	is	1	i s
+027/173	es	1	e s
+027/175	es	1	e s
+027/177	es	1	e s
+027/179	ess	1	e ss
+027/181	ess	1	e ss
+027/183	es	1	e s
+027/185	ess	1	e ss
+028/033	is	1	i s
+028/035	is	1	i s
+028/037	is	1	i s
+028/039	is	1	i s
+028/041	is	1	i s
+028/043	is	1	i s
+028/045	is	1	i s
+028/047	iss	1	i ss
+028/049	is	1	i s
+028/051	is	1	i s
+028/053	is	1	i s
+028/055	is	1	i s
+028/057	is	1	i s
+028/059	is	1	i s
+028/061	is	1	i s
+028/063	iss	1	i ss
+028/065	ist	1	i s t
+028/067	is	1	i s
+028/069	is	1	i s
+028/071	is	1	i s
+028/073	is	1	i s
+028/075	ist	1	i s t
+028/077	is	1	i s
+028/079	is	1	i s
+028/081	is	1	i s
+028/083	is	1	i s
+028/085	is	1	i s
+028/087	is	1	i s
+028/089	is	1	i s
+028/091	is	1	i s
+028/093	is	1	i s
+028/095	is	1	i s
+028/097	is	1	i s
+028/099	is	1	i s
+028/103	is	1	i s
+028/105	is	1	i s
+028/107	is	1	i s
+028/109	is	1	i s
+028/111	is	1	i s
+028/113	is	1	i s
+028/115	is	1	i s
+028/117	iss	1	i ss
+028/119	is	1	i s
+028/121	is	1	i s
+028/123	is	1	i s
+028/125	iss	1	i ss
+028/127	is	1	i s
+028/129	iss	1	i ss
+028/131	is	1	i s
+028/133	iss	1	i ss
+028/135	is	1	i s
+028/137	is	1	i s
+028/139	iss	1	i ss
+028/141	is	1	i s
+028/143	is	1	i s
+028/145	is	1	i s
+028/147	is	1	i s
+028/151	iss	1	i ss
+028/153	iss	1	i ss
+028/155	iss	1	i ss
+028/157	iss	1	i ss
+028/159	is	1	i s
+028/161	is	1	i s
+028/165	is	1	i s
+028/169	is	1	i s
+028/171	es	1	e s
+028/173	ess	1	e ss
+028/175	es	1	e s
+028/177	ess	1	e ss
+028/179	es	1	e s
+028/181	es	1	e s
+028/183	iss	1	i ss
+028/185	es	1	e s
+029/033	is	1	i s
+029/035	is	1	i s
+029/037	is	1	i s
+029/039	is	1	i s
+029/043	is	1	i s
+029/045	iss	1	i ss
+029/047	is	1	i s
+029/049	is	1	i s
+029/051	is	1	i s
+029/053	ess	1	e ss
+029/055	is	1	i s
+029/057	is	1	i s
+029/059	is	1	i s
+029/061	is	1	i s
+029/065	is	1	i s
+029/067	is	1	i s
+029/069	iss	1	i ss
+029/071	is	1	i s
+029/073	is	1	i s
+029/075	is	1	i s
+029/077	is	1	i s
+029/079	is	1	i s
+029/081	is	1	i s
+029/083	is	1	i s
+029/085	is	1	i s
+029/087	is	1	i s
+029/089	iss	1	i ss
+029/091	iss	1	i ss
+029/093	is	1	i s
+029/095	is	1	i s
+029/097	is	1	i s
+029/099	is	1	i s
+029/101	is	1	i s
+029/103	iss	1	i ss
+029/105	is	1	i s
+029/107	is	1	i s
+029/109	is	1	i s
+029/111	is	1	i s
+029/113	is	1	i s
+029/115	is	1	i s
+029/117	is	1	i s
+029/119	is	1	i s
+029/121	is	1	i s
+029/123	is	1	i s
+029/125	is	1	i s
+029/127	is	1	i s
+029/129	is	1	i s
+029/131	iss	1	i ss
+029/133	is	1	i s
+029/135	is	1	i s
+029/137	is	1	i s
+029/139	iss	1	i ss
+029/141	iss	1	i ss
+029/143	is	1	i s
+029/145	is	1	i s
+029/147	is	1	i s
+029/149	is	1	i s
+029/151	is	1	i s
+029/153	is	1	i s
+029/155	is	1	i s
+029/157	iss	1	i ss
+029/159	is	1	i s
+029/161	is	1	i s
+029/163	is	1	i s
+029/165	is	1	i s
+029/167	iss	1	i ss
+029/169	is	1	i s
+029/171	es	1	e s
+029/173	ess	1	e ss
+029/175	es	1	e s
+029/177	es	1	e s
+029/181	is	1	i s
+030/033	is	1	i s
+030/035	is	1	i s
+030/037	is	1	i s
+030/039	is	1	i s
+030/041	is	1	i s
+030/043	is	1	i s
+030/045	is	1	i s
+030/047	is	1	i s
+030/049	is	1	i s
+030/051	is	1	i s
+030/053	is	1	i s
+030/055	iss	1	i ss
+030/057	is	1	i s
+030/059	is	1	i s
+030/061	is	1	i s
+030/065	is	1	i s
+030/067	is	1	i s
+030/071	is	1	i s
+030/073	is	1	i s
+030/075	is	1	i s
+030/077	is	1	i s
+030/079	is	1	i s
+030/081	is	1	i s
+030/083	is	1	i s
+030/085	iss	1	i ss
+030/087	is	1	i s
+030/089	is	1	i s
+030/091	is	1	i s
+030/093	is	1	i s
+030/095	is	1	i s
+030/097	is	1	i s
+030/099	is	1	i s
+030/101	iss	1	i ss
+030/103	is	1	i s
+030/105	iss	1	i ss
+030/107	ihs	1	ih s
+030/109	is	1	i s
+030/111	is	1	i s
+030/113	is	1	i s
+030/115	iss	1	i ss
+030/117	is	1	i s
+030/119	iss	1	i ss
+030/121	is	1	i s
+030/123	is	1	i s
+030/125	is	1	i s
+030/127	is	1	i s
+030/129	is	1	i s
+030/131	iss	1	i ss
+030/133	is	1	i s
+030/135	iss	1	i ss
+030/137	is	1	i s
+030/139	iss	1	i ss
+030/141	is	1	i s
+030/143	iss	1	i ss
+030/145	is	1	i s
+030/147	iss	1	i ss
+030/149	is	1	i s
+030/151	is	1	i s
+030/153	is	1	i s
+030/155	iss	1	i ss
+030/157	is	1	i s
+030/159	is	1	i s
+030/161	is	1	i s
+030/163	is	1	i s
+030/165	ist	1	i s t
+030/167	iss	1	i ss
+030/169	es	1	e s
+030/171	es	1	e s
+030/173	ess	1	e ss
+030/175	ess	1	e ss
+030/177	es	1	e s
+030/179	es	1	e s
+030/181	ist	1	i s t
+030/183	is	1	i s
+031/035	is	1	i s
+031/037	is	1	i s
+031/039	is	1	i s
+031/041	is	1	i s
+031/043	is	1	i s
+031/045	is	1	i s
+031/047	is	1	i s
+031/049	iss	1	i ss
+031/051	iss	1	i ss
+031/053	ist	1	i s t
+031/055	iss	1	i ss
+031/057	is	1	i s
+031/059	is	1	i s
+031/061	is	1	i s
+031/063	is	1	i s
+031/065	is	1	i s
+031/067	is	1	i s
+031/069	is	1	i s
+031/071	is	1	i s
+031/073	is	1	i s
+031/075	iss	1	i ss
+031/077	is	1	i s
+031/079	NA	NA	-
+031/081	is	1	i s
+031/083	is	1	i s
+031/085	is	1	i s
+031/087	is	1	i s
+031/089	is	1	i s
+031/091	is	1	i s
+031/093	is	1	i s
+031/095	is	1	i s
+031/097	is	1	i s
+031/099	is	1	i s
+031/101	is	1	i s
+031/103	is	1	i s
+031/105	is	1	i s
+031/107	iss	1	i ss
+031/109	is	1	i s
+031/111	iss	1	i ss
+031/113	is	1	i s
+031/115	is	1	i s
+031/117	iss	1	i ss
+031/119	is	1	i s
+031/121	is	1	i s
+031/123	is	1	i s
+031/125	is	1	i s
+031/127	iss	1	i ss
+031/129	is	1	i s
+031/131	is	1	i s
+031/133	is	1	i s
+031/135	is	1	i s
+031/137	iss	1	i ss
+031/139	is	1	i s
+031/141	is	1	i s
+031/143	is	1	i s
+031/145	is	1	i s
+031/147	is	1	i s
+031/149	is	1	i s
+031/151	is	1	i s
+031/153	is	1	i s
+031/155	iss	1	i ss
+031/157	is	1	i s
+031/159	iss	1	i ss
+031/161	is	1	i s
+031/163	is	1	i s
+031/167	es	1	e s
+031/169	isch	1	i sch
+031/171	isch	1	i sch
+031/173	isch	1	i sch
+031/175	äss	1	ä ss
+031/177	is	1	i s
+031/179	is	1	i s
+032/035	is	1	i s
+032/037	is	1	i s
+032/039	is	1	i s
+032/041	is	1	i s
+032/043	ist	1	i s t
+032/045	is	1	i s
+032/047	is	1	i s
+032/049	is	1	i s
+032/051	is	1	i s
+032/053	is	1	i s
+032/055	iss	1	i ss
+032/057	is	1	i s
+032/059	iss	1	i ss
+032/061	is	1	i s
+032/065	is	1	i s
+032/069	is	1	i s
+032/071	NA	NA	-
+032/073	is	1	i s
+032/075	is	1	i s
+032/077	iss	1	i ss
+032/079	NA	NA	-
+032/081	is	1	i s
+032/083	is	1	i s
+032/085	is	1	i s
+032/087	is	1	i s
+032/089	is	1	i s
+032/091	is	1	i s
+032/093	is	1	i s
+032/095	iss	1	i ss
+032/097	is	1	i s
+032/099	is	1	i s
+032/101	is	1	i s
+032/103	is	1	i s
+032/105	is	1	i s
+032/107	is	1	i s
+032/111	is	1	i s
+032/113	iss	1	i ss
+032/115	iss	1	i ss
+032/117	iss	1	i ss
+032/119	is	1	i s
+032/121	iss	1	i ss
+032/123	is	1	i s
+032/125	is	1	i s
+032/127	is	1	i s
+032/129	is	1	i s
+032/131	is	1	i s
+032/133	is	1	i s
+032/135	iss	1	i ss
+032/139	is	1	i s
+032/141	is	1	i s
+032/143	is	1	i s
+032/145	is	1	i s
+032/147	is	1	i s
+032/149	is	1	i s
+032/151	is	1	i s
+032/153	iss	1	i ss
+032/157	is	1	i s
+032/159	is	1	i s
+032/161	iss	1	i ss
+032/163	is	1	i s
+032/167	es	1	e s
+032/169	isch	1	i sch
+032/171	isch	1	i sch
+032/173	isch	1	i sch
+032/175	ess	1	e ss
+032/177	is	1	i s
+032/179	is	1	i s
+032/181	is	1	i s
+032/183	is	1	i s
+033/035	is	1	i s
+033/037	is	1	i s
+033/039	is	1	i s
+033/041	is	1	i s
+033/043	is	1	i s
+033/045	is	1	i s
+033/047	is	1	i s
+033/049	is	1	i s
+033/051	is	1	i s
+033/053	is	1	i s
+033/055	is	1	i s
+033/057	is	1	i s
+033/059	is	1	i s
+033/061	is	1	i s
+033/063	is	1	i s
+033/065	is	1	i s
+033/067	is	1	i s
+033/069	is	1	i s
+033/071	is	1	i s
+033/073	NA	NA	-
+033/075	NA	NA	-
+033/077	ist	1	i s t
+033/079	is	1	i s
+033/081	is	1	i s
+033/083	iss	1	i ss
+033/085	iss	1	i ss
+033/087	is	1	i s
+033/089	is	1	i s
+033/091	iss	1	i ss
+033/093	iss	1	i ss
+033/095	is	1	i s
+033/097	iss	1	i ss
+033/099	is	1	i s
+033/101	is	1	i s
+033/103	is	1	i s
+033/105	is	1	i s
+033/107	is	1	i s
+033/109	is	1	i s
+033/111	is	1	i s
+033/113	is	1	i s
+033/115	is	1	i s
+033/117	is	1	i s
+033/119	is	1	i s
+033/121	is	1	i s
+033/123	is	1	i s
+033/125	is	1	i s
+033/127	is	1	i s
+033/129	is	1	i s
+033/131	is	1	i s
+033/133	iss	1	i ss
+033/135	is	1	i s
+033/137	äs	1	ä s
+033/139	is	1	i s
+033/141	is	1	i s
+033/143	is	1	i s
+033/145	is	1	i s
+033/147	is	1	i s
+033/149	is	1	i s
+033/151	is	1	i s
+033/153	is	1	i s
+033/155	is	1	i s
+033/159	iss	1	i ss
+033/161	is	1	i s
+033/163	is	1	i s
+033/165	es	1	e s
+033/167	es	1	e s
+033/169	es	1	e s
+033/173	es	1	e s
+033/175	ös	1	ö s
+033/177	is	1	i s
+034/035	iss	1	i ss
+034/039	is	1	i s
+034/041	is	1	i s
+034/043	iss	1	i ss
+034/045	is	1	i s
+034/047	is	1	i s
+034/049	iss	1	i ss
+034/051	is	1	i s
+034/053	is	1	i s
+034/055	is	1	i s
+034/057	ist	1	i s t
+034/059	iss	1	i ss
+034/061	is	1	i s
+034/063	is	1	i s
+034/065	is	1	i s
+034/067	is	1	i s
+034/069	is	1	i s
+034/071	is	1	i s
+034/073	is	1	i s
+034/075	NA	NA	-
+034/077	NA	NA	-
+034/079	is	1	i s
+034/081	is	1	i s
+034/083	is	1	i s
+034/085	is	1	i s
+034/087	is	1	i s
+034/089	is	1	i s
+034/091	is	1	i s
+034/093	is	1	i s
+034/095	is	1	i s
+034/097	is	1	i s
+034/099	is	1	i s
+034/101	is	1	i s
+034/103	is	1	i s
+034/105	iss	1	i ss
+034/107	is	1	i s
+034/109	iss	1	i ss
+034/111	is	1	i s
+034/113	is	1	i s
+034/115	is	1	i s
+034/117	is	1	i s
+034/119	is	1	i s
+034/121	is	1	i s
+034/125	is	1	i s
+034/127	iss	1	i ss
+034/129	is	1	i s
+034/131	is	1	i s
+034/133	is	1	i s
+034/135	is	1	i s
+034/137	iss	1	i ss
+034/139	iss	1	i ss
+034/141	is	1	i s
+034/143	is	1	i s
+034/145	iss	1	i ss
+034/147	is	1	i s
+034/149	iss	1	i ss
+034/151	is	1	i s
+034/155	is	1	i s
+034/157	is	1	i s
+034/161	is	1	i s
+034/163	is	1	i s
+034/165	is	1	i s
+034/167	NA	NA	-
+034/169	äss	1	ä ss
+034/173	es	1	e s
+035/035	is	1	i s
+035/037	is	1	i s
+035/039	is	1	i s
+035/041	iss	1	i ss
+035/043	is	1	i s
+035/045	is	1	i s
+035/047	is	1	i s
+035/049	is	1	i s
+035/051	is	1	i s
+035/053	is	1	i s
+035/055	is	1	i s
+035/057	is	1	i s
+035/059	is	1	i s
+035/061	is	1	i s
+035/063	is	1	i s
+035/065	is	1	i s
+035/067	is	1	i s
+035/069	is	1	i s
+035/071	is	1	i s
+035/073	hett	1	h e tt
+035/075	is	1	i s
+035/077	is	1	i s
+035/079	het	1	h e t
+035/081	is	1	i s
+035/083	iss	1	i ss
+035/085	is	1	i s
+035/087	is	1	i s
+035/089	is	1	i s
+035/091	is	1	i s
+035/093	is	1	i s
+035/095	is	1	i s
+035/097	iss	1	i ss
+035/099	is	1	i s
+035/101	is	1	i s
+035/103	is	1	i s
+035/105	is	1	i s
+035/107	iss	1	i ss
+035/109	is	1	i s
+035/111	is	1	i s
+035/113	is	1	i s
+035/115	iss	1	i ss
+035/117	is	1	i s
+035/121	is	1	i s
+035/123	is	1	i s
+035/125	is	1	i s
+035/127	iss	1	i ss
+035/129	is	1	i s
+035/133	is	1	i s
+035/135	is	1	i s
+035/137	is	1	i s
+035/139	is	1	i s
+035/141	is	1	i s
+035/143	is	1	i s
+035/145	is	1	i s
+035/147	is	1	i s
+035/149	is	1	i s
+035/151	es	1	e s
+035/153	is	1	i s
+035/155	is	1	i s
+035/157	is	1	i s
+035/165	is	1	i s
+035/167	iss	1	i ss
+035/169	es	1	e s
+035/171	es	1	e s
+035/173	es	1	e s
+036/033	is	1	i s
+036/035	is	1	i s
+036/039	is	1	i s
+036/041	is	1	i s
+036/043	is	1	i s
+036/045	is	1	i s
+036/047	is	1	i s
+036/049	is	1	i s
+036/051	is	1	i s
+036/053	is	1	i s
+036/055	is	1	i s
+036/057	iss	1	i ss
+036/059	ist	1	i s t
+036/061	is	1	i s
+036/063	is	1	i s
+036/065	iss	1	i ss
+036/067	is	1	i s
+036/069	is	1	i s
+036/071	is	1	i s
+036/073	hät	1	h ä t
+036/075	is	1	i s
+036/077	is	1	i s
+036/079	ätt	1	ä tt
+036/081	ätt	1	ä tt
+036/083	iss	1	i ss
+036/085	is	1	i s
+036/087	is	1	i s
+036/089	is	1	i s
+036/091	is	1	i s
+036/095	is	1	i s
+036/097	iss	1	i ss
+036/099	iss	1	i ss
+036/101	is	1	i s
+036/103	is	1	i s
+036/105	is	1	i s
+036/107	is	1	i s
+036/109	is	1	i s
+036/111	iss	1	i ss
+036/113	is	1	i s
+036/115	is	1	i s
+036/117	is	1	i s
+036/119	is	1	i s
+036/121	iss	1	i ss
+036/123	is	1	i s
+036/125	is	1	i s
+036/127	is	1	i s
+036/129	is	1	i s
+036/133	is	1	i s
+036/135	is	1	i s
+036/137	is	1	i s
+036/139	is	1	i s
+036/141	is	1	i s
+036/143	is	1	i s
+036/147	is	1	i s
+036/149	is	1	i s
+036/151	iss	1	i ss
+036/153	is	1	i s
+036/155	is	1	i s
+036/161	is	1	i s
+036/163	is	1	i s
+036/165	es	1	e s
+036/167	es	1	e s
+036/169	es	1	e s
+036/171	es	1	e s
+037/033	iss	1	i ss
+037/035	is	1	i s
+037/037	is	1	i s
+037/039	is	1	i s
+037/041	is	1	i s
+037/043	iss	1	i ss
+037/045	is	1	i s
+037/047	is	1	i s
+037/049	is	1	i s
+037/051	iss	1	i ss
+037/053	is	1	i s
+037/055	is	1	i s
+037/057	is	1	i s
+037/059	iss	1	i ss
+037/061	is	1	i s
+037/063	iss	1	i ss
+037/065	is	1	i s
+037/067	is	1	i s
+037/069	is	1	i s
+037/071	is	1	i s
+037/073	is	1	i s
+037/075	is	1	i s
+037/077	is	1	i s
+037/079	is	1	i s
+037/081	is	1	i s
+037/083	is	1	i s
+037/085	is	1	i s
+037/087	iss	1	i ss
+037/089	is	1	i s
+037/091	is	1	i s
+037/093	iss	1	i ss
+037/095	iss	1	i ss
+037/097	is	1	i s
+037/099	is	1	i s
+037/101	is	1	i s
+037/105	is	1	i s
+037/107	is	1	i s
+037/109	ist	1	i s t
+037/111	isd	1	i s d
+037/113	is	1	i s
+037/115	is	1	i s
+037/117	iss	1	i ss
+037/119	iss	1	i ss
+037/121	is	1	i s
+037/123	iss	1	i ss
+037/125	iss	1	i ss
+037/127	is	1	i s
+037/129	is	1	i s
+037/131	is	1	i s
+037/133	iss	1	i ss
+037/135	is	1	i s
+037/137	iss	1	i ss
+037/139	iss	1	i ss
+037/141	is	1	i s
+037/145	iss	1	i ss
+037/147	is	1	i s
+037/149	is	1	i s
+037/151	is	1	i s
+037/153	is	1	i s
+037/155	is	1	i s
+037/157	iss	1	i ss
+037/159	ös	1	ö s
+037/163	is	1	i s
+037/171	is	1	i s
+038/033	is	1	i s
+038/035	iss	1	i ss
+038/037	is	1	i s
+038/039	is	1	i s
+038/041	is	1	i s
+038/043	is	1	i s
+038/045	is	1	i s
+038/047	is	1	i s
+038/049	iss	1	i ss
+038/051	is	1	i s
+038/053	is	1	i s
+038/055	is	1	i s
+038/057	is	1	i s
+038/059	iss	1	i ss
+038/061	iss	1	i ss
+038/063	is	1	i s
+038/065	is	1	i s
+038/067	is	1	i s
+038/069	is	1	i s
+038/071	iss	1	i ss
+038/073	is	1	i s
+038/075	is	1	i s
+038/077	is	1	i s
+038/079	is	1	i s
+038/081	is	1	i s
+038/083	iss	1	i ss
+038/085	is	1	i s
+038/087	is	1	i s
+038/089	is	1	i s
+038/091	is	1	i s
+038/093	iss	1	i ss
+038/095	iss	1	i ss
+038/097	is	1	i s
+038/099	is	1	i s
+038/101	is	1	i s
+038/103	is	1	i s
+038/105	is	1	i s
+038/107	is	1	i s
+038/109	is	1	i s
+038/111	is	1	i s
+038/113	is	1	i s
+038/115	is	1	i s
+038/117	iss	1	i ss
+038/119	is	1	i s
+038/121	is	1	i s
+038/123	iss	1	i ss
+038/125	is	1	i s
+038/127	is	1	i s
+038/129	is	1	i s
+038/131	is	1	i s
+038/133	is	1	i s
+038/135	is	1	i s
+038/145	is	1	i s
+038/147	is	1	i s
+038/149	es	1	e s
+038/151	is	1	i s
+038/153	es	1	e s
+038/155	is	1	i s
+038/159	is	1	i s
+038/161	is	1	i s
+038/163	iss	1	i ss
+039/029	is	1	i s
+039/031	is	1	i s
+039/033	is	1	i s
+039/035	is	1	i s
+039/037	is	1	i s
+039/039	is	1	i s
+039/041	is	1	i s
+039/043	iss	1	i ss
+039/045	is	1	i s
+039/047	iss	1	i ss
+039/049	is	1	i s
+039/051	is	1	i s
+039/053	is	1	i s
+039/055	is	1	i s
+039/057	is	1	i s
+039/059	is	1	i s
+039/061	is	1	i s
+039/063	is	1	i s
+039/065	is	1	i s
+039/067	is	1	i s
+039/069	is	1	i s
+039/071	iss	1	i ss
+039/073	iss	1	i ss
+039/075	iss	1	i ss
+039/077	is	1	i s
+039/079	is	1	i s
+039/081	is	1	i s
+039/083	is	1	i s
+039/085	is	1	i s
+039/087	is	1	i s
+039/089	iss	1	i ss
+039/091	is	1	i s
+039/093	is	1	i s
+039/095	is	1	i s
+039/097	is	1	i s
+039/099	is	1	i s
+039/101	is	1	i s
+039/103	is	1	i s
+039/105	is	1	i s
+039/107	is	1	i s
+039/109	is	1	i s
+039/111	is	1	i s
+039/113	ist	1	i s t
+039/115	is	1	i s
+039/117	is	1	i s
+039/119	is	1	i s
+039/121	is	1	i s
+039/123	is	1	i s
+039/125	is	1	i s
+039/127	iss	1	i ss
+039/129	is	1	i s
+039/131	iss	1	i ss
+039/133	is	1	i s
+039/135	iss	1	i ss
+039/137	iss	1	i ss
+039/139	is	1	i s
+039/149	is	1	i s
+039/151	is	1	i s
+039/153	iss	1	i ss
+039/155	is	1	i s
+040/029	is	1	i s
+040/031	is	1	i s
+040/033	is	1	i s
+040/035	is	1	i s
+040/037	is	1	i s
+040/039	is	1	i s
+040/041	is	1	i s
+040/043	is	1	i s
+040/045	is	1	i s
+040/047	is	1	i s
+040/049	is	1	i s
+040/051	is	1	i s
+040/053	iss	1	i ss
+040/055	is	1	i s
+040/057	is	1	i s
+040/059	is	1	i s
+040/061	is	1	i s
+040/063	is	1	i s
+040/065	is	1	i s
+040/067	is	1	i s
+040/069	is	1	i s
+040/071	iss	1	i ss
+040/073	is	1	i s
+040/075	is	1	i s
+040/077	iss	1	i ss
+040/079	iss	1	i ss
+040/081	is	1	i s
+040/083	is	1	i s
+040/085	iss	1	i ss
+040/087	is	1	i s
+040/089	is	1	i s
+040/091	iss	1	i ss
+040/093	iss	1	i ss
+040/095	is	1	i s
+040/097	is	1	i s
+040/099	is	1	i s
+040/101	is	1	i s
+040/103	is	1	i s
+040/105	is	1	i s
+040/107	iss	1	i ss
+040/109	is	1	i s
+040/111	is	1	i s
+040/113	is	1	i s
+040/115	is	1	i s
+040/119	is	1	i s
+040/121	is	1	i s
+040/123	is	1	i s
+040/125	is	1	i s
+040/127	is	1	i s
+040/129	is	1	i s
+040/131	iss	1	i ss
+040/133	iss	1	i ss
+040/135	is	1	i s
+040/137	is	1	i s
+040/141	is	1	i s
+040/143	is	1	i s
+040/149	iss	1	i ss
+040/153	iss	1	i ss
+040/155	is	1	i s
+041/031	is	1	i s
+041/033	is	1	i s
+041/035	is	1	i s
+041/037	is	1	i s
+041/039	is	1	i s
+041/041	is	1	i s
+041/043	is	1	i s
+041/045	is	1	i s
+041/047	is	1	i s
+041/049	is	1	i s
+041/051	es	1	e s
+041/053	is	1	i s
+041/055	is	1	i s
+041/057	is	1	i s
+041/059	iss	1	i ss
+041/061	is	1	i s
+041/063	is	1	i s
+041/065	is	1	i s
+041/067	is	1	i s
+041/069	is	1	i s
+041/071	is	1	i s
+041/073	is	1	i s
+041/075	is	1	i s
+041/077	is	1	i s
+041/079	is	1	i s
+041/081	is	1	i s
+041/083	is	1	i s
+041/085	is	1	i s
+041/087	ist	1	i s t
+041/089	is	1	i s
+041/091	iss	1	i ss
+041/093	is	1	i s
+041/095	is	1	i s
+041/097	iss	1	i ss
+041/099	is	1	i s
+041/101	is	1	i s
+041/103	is	1	i s
+041/105	is	1	i s
+041/107	is	1	i s
+041/109	het	1	h e t
+041/111	is	1	i s
+041/113	is	1	i s
+041/115	is	1	i s
+041/117	is	1	i s
+041/119	itt	1	i tt
+041/121	is	1	i s
+041/123	iss	1	i ss
+041/125	iss	1	i ss
+041/127	is	1	i s
+041/129	is	1	i s
+041/131	iss	1	i ss
+041/133	is	1	i s
+041/135	is	1	i s
+041/139	ist	1	i s t
+041/141	ist	1	i s t
+041/145	is	1	i s
+041/147	is	1	i s
+041/153	iss	1	i ss
+041/155	is	1	i s
+041/157	is	1	i s
+041/159	is	1	i s
+041/161	is	1	i s
+042/033	is	1	i s
+042/035	is	1	i s
+042/037	is	1	i s
+042/039	is	1	i s
+042/041	is	1	i s
+042/043	is	1	i s
+042/045	is	1	i s
+042/047	is	1	i s
+042/051	es	1	e s
+042/053	es	1	e s
+042/055	is	1	i s
+042/057	is	1	i s
+042/059	iss	1	i ss
+042/061	iss	1	i ss
+042/063	is	1	i s
+042/065	is	1	i s
+042/067	ist	1	i s t
+042/069	is	1	i s
+042/071	is	1	i s
+042/073	is	1	i s
+042/075	is	1	i s
+042/077	is	1	i s
+042/079	iss	1	i ss
+042/081	is	1	i s
+042/083	is	1	i s
+042/085	is	1	i s
+042/087	iss	1	i ss
+042/089	is	1	i s
+042/091	iss	1	i ss
+042/093	is	1	i s
+042/095	is	1	i s
+042/097	is	1	i s
+042/099	is	1	i s
+042/101	iss	1	i ss
+042/103	is	1	i s
+042/105	is	1	i s
+042/107	is	1	i s
+042/109	is	1	i s
+042/111	is	1	i s
+042/113	hat	1	h a t
+042/115	hat	1	h a t
+042/117	iss	1	i ss
+042/119	is	1	i s
+042/121	is	1	i s
+042/123	is	1	i s
+042/125	is	1	i s
+042/127	is	1	i s
+042/129	is	1	i s
+042/131	is	1	i s
+042/133	is	1	i s
+042/135	is	1	i s
+042/137	iss	1	i ss
+042/139	is	1	i s
+042/141	is	1	i s
+042/143	is	1	i s
+042/145	is	1	i s
+042/147	is	1	i s
+042/149	is	1	i s
+042/151	is	1	i s
+042/157	iss	1	i ss
+042/159	is	1	i s
+042/161	is	1	i s
+043/033	is	1	i s
+043/035	is	1	i s
+043/037	is	1	i s
+043/039	is	1	i s
+043/041	is	1	i s
+043/043	is	1	i s
+043/045	is	1	i s
+043/047	es	1	e s
+043/049	es	1	e s
+043/051	is	1	i s
+043/053	es	1	e s
+043/055	is	1	i s
+043/057	iss	1	i ss
+043/059	is	1	i s
+043/061	is	1	i s
+043/063	is	1	i s
+043/065	is	1	i s
+043/067	iss	1	i ss
+043/069	is	1	i s
+043/071	is	1	i s
+043/073	iss	1	i ss
+043/075	iss	1	i ss
+043/077	iss	1	i ss
+043/079	is	1	i s
+043/081	is	1	i s
+043/083	iss	1	i ss
+043/085	is	1	i s
+043/087	is	1	i s
+043/089	is	1	i s
+043/091	is	1	i s
+043/093	is	1	i s
+043/095	iss	1	i ss
+043/097	iss	1	i ss
+043/099	is	1	i s
+043/101	is	1	i s
+043/103	iss	1	i ss
+043/105	hät	1	h ä t
+043/107	is	1	i s
+043/109	is	1	i s
+043/111	is	1	i s
+043/113	is	1	i s
+043/115	hat	1	h a t
+043/117	is	1	i s
+043/119	ist	1	i s t
+043/121	is	1	i s
+043/123	iss	1	i ss
+043/125	ist	1	i s t
+043/127	is	1	i s
+043/129	ist	1	i s t
+043/131	is	1	i s
+043/133	ist	1	i s t
+043/135	is	1	i s
+043/137	iss	1	i ss
+043/141	is	1	i s
+043/143	is	1	i s
+043/145	is	1	i s
+043/151	ist	1	i s t
+043/153	is	1	i s
+043/159	is	1	i s
+043/161	et	1	e t
+044/033	is	1	i s
+044/035	is	1	i s
+044/039	is	1	i s
+044/041	is	1	i s
+044/043	is	1	i s
+044/045	is	1	i s
+044/047	is	1	i s
+044/049	es	1	e s
+044/051	es	1	e s
+044/053	es	1	e s
+044/055	es	1	e s
+044/057	iss	1	i ss
+044/059	iss	1	i ss
+044/061	es	1	e s
+044/063	is	1	i s
+044/065	iss	1	i ss
+044/067	is	1	i s
+044/069	is	1	i s
+044/071	is	1	i s
+044/073	is	1	i s
+044/075	is	1	i s
+044/077	is	1	i s
+044/079	is	1	i s
+044/081	iss	1	i ss
+044/083	is	1	i s
+044/085	is	1	i s
+044/087	is	1	i s
+044/089	is	1	i s
+044/091	is	1	i s
+044/093	iss	1	i ss
+044/095	is	1	i s
+044/097	is	1	i s
+044/099	iss	1	i ss
+044/101	iss	1	i ss
+044/103	is	1	i s
+044/105	iss	1	i ss
+044/107	is	1	i s
+044/109	is	1	i s
+044/111	hät	1	h ä t
+044/113	is	1	i s
+044/115	is	1	i s
+044/117	is	1	i s
+044/119	is	1	i s
+044/121	is	1	i s
+044/123	hat	1	h a t
+044/125	hat	1	h a t
+044/127	is	1	i s
+044/129	ist	1	i s t
+044/131	ist	1	i s t
+044/133	is	1	i s
+044/135	is	1	i s
+044/137	is	1	i s
+044/141	is	1	i s
+044/143	is	1	i s
+044/145	is	1	i s
+044/149	is	1	i s
+044/151	iss	1	i ss
+044/153	iss	1	i ss
+045/033	is	1	i s
+045/035	is	1	i s
+045/037	is	1	i s
+045/039	is	1	i s
+045/041	is	1	i s
+045/043	is	1	i s
+045/045	iss	1	i ss
+045/047	es	1	e s
+045/049	is	1	i s
+045/051	es	1	e s
+045/053	is	1	i s
+045/055	es	1	e s
+045/057	is	1	i s
+045/059	is	1	i s
+045/061	iss	1	i ss
+045/063	is	1	i s
+045/065	is	1	i s
+045/067	is	1	i s
+045/069	is	1	i s
+045/071	iss	1	i ss
+045/073	is	1	i s
+045/075	is	1	i s
+045/077	is	1	i s
+045/079	iss	1	i ss
+045/081	is	1	i s
+045/083	iss	1	i ss
+045/085	iss	1	i ss
+045/087	is	1	i s
+045/089	is	1	i s
+045/091	is	1	i s
+045/093	is	1	i s
+045/095	is	1	i s
+045/097	is	1	i s
+045/099	is	1	i s
+045/101	is	1	i s
+045/103	is	1	i s
+045/105	iss	1	i ss
+045/107	is	1	i s
+045/109	het	1	h e t
+045/111	iss	1	i ss
+045/113	is	1	i s
+045/115	is	1	i s
+045/117	is	1	i s
+045/119	iss	1	i ss
+045/121	is	1	i s
+045/123	iss	1	i ss
+045/125	ist	1	i s t
+045/127	is	1	i s
+045/129	is	1	i s
+045/131	is	1	i s
+045/133	is	1	i s
+045/135	is	1	i s
+045/137	is	1	i s
+045/139	is	1	i s
+045/141	is	1	i s
+045/143	ist	1	i s t
+045/145	is	1	i s
+045/155	ist	1	i s t
+046/031	is	1	i s
+046/033	is	1	i s
+046/035	is	1	i s
+046/037	is	1	i s
+046/039	is	1	i s
+046/041	is	1	i s
+046/043	is	1	i s
+046/045	is	1	i s
+046/047	es	1	e s
+046/049	es	1	e s
+046/051	es	1	e s
+046/053	ess	1	e ss
+046/055	es	1	e s
+046/057	es	1	e s
+046/059	is	1	i s
+046/061	is	1	i s
+046/063	is	1	i s
+046/065	is	1	i s
+046/067	is	1	i s
+046/069	is	1	i s
+046/071	is	1	i s
+046/073	is	1	i s
+046/075	is	1	i s
+046/077	is	1	i s
+046/079	is	1	i s
+046/081	is	1	i s
+046/083	is	1	i s
+046/085	is	1	i s
+046/087	iss	1	i ss
+046/089	is	1	i s
+046/091	iss	1	i ss
+046/093	is	1	i s
+046/095	is	1	i s
+046/097	is	1	i s
+046/099	ist	1	i s t
+046/101	iss	1	i ss
+046/103	is	1	i s
+046/105	is	1	i s
+046/107	het	1	h e t
+046/109	is	1	i s
+046/111	iss	1	i ss
+046/113	is	1	i s
+046/115	is	1	i s
+046/117	hat	1	h a t
+046/119	is	1	i s
+046/121	ist	1	i s t
+046/123	is	1	i s
+046/125	is	1	i s
+046/127	is	1	i s
+046/129	ist	1	i s t
+046/131	iss	1	i ss
+046/133	iss	1	i ss
+046/135	is	1	i s
+046/137	is	1	i s
+046/139	is	1	i s
+046/141	is	1	i s
+046/143	is	1	i s
+046/155	is	1	i s
+047/031	is	1	i s
+047/033	iss	1	i ss
+047/035	is	1	i s
+047/037	is	1	i s
+047/039	is	1	i s
+047/041	is	1	i s
+047/043	is	1	i s
+047/045	iss	1	i ss
+047/047	is	1	i s
+047/049	es	1	e s
+047/051	ess	1	e ss
+047/053	e	1	e
+047/055	e	1	e
+047/057	ess	1	e ss
+047/059	is	1	i s
+047/061	iss	1	i ss
+047/063	is	1	i s
+047/065	is	1	i s
+047/067	is	1	i s
+047/069	iss	1	i ss
+047/071	is	1	i s
+047/073	is	1	i s
+047/075	is	1	i s
+047/077	is	1	i s
+047/079	is	1	i s
+047/081	is	1	i s
+047/083	is	1	i s
+047/085	is	1	i s
+047/087	is	1	i s
+047/089	is	1	i s
+047/091	is	1	i s
+047/093	is	1	i s
+047/095	is	1	i s
+047/097	is	1	i s
+047/099	is	1	i s
+047/101	iss	1	i ss
+047/103	is	1	i s
+047/105	is	1	i s
+047/107	is	1	i s
+047/109	iss	1	i ss
+047/111	is	1	i s
+047/113	is	1	i s
+047/115	iss	1	i ss
+047/117	is	1	i s
+047/119	is	1	i s
+047/123	is	1	i s
+047/125	is	1	i s
+047/127	ist	1	i s t
+047/129	is	1	i s
+047/131	is	1	i s
+047/133	iss	1	i ss
+047/135	is	1	i s
+047/137	is	1	i s
+047/139	is	1	i s
+047/141	is	1	i s
+047/147	is	1	i s
+047/149	is	1	i s
+047/151	is	1	i s
+047/159	is	1	i s
+048/021	ess	1	e ss
+048/023	es	1	e s
+048/027	is	1	i s
+048/029	is	1	i s
+048/031	is	1	i s
+048/033	is	1	i s
+048/035	is	1	i s
+048/037	is	1	i s
+048/039	is	1	i s
+048/041	is	1	i s
+048/045	is	1	i s
+048/047	is	1	i s
+048/049	is	1	i s
+048/051	is	1	i s
+048/053	es	1	e s
+048/055	es	1	e s
+048/057	es	1	e s
+048/059	ess	1	e ss
+048/061	is	1	i s
+048/063	is	1	i s
+048/065	is	1	i s
+048/067	is	1	i s
+048/069	iss	1	i ss
+048/071	is	1	i s
+048/073	is	1	i s
+048/075	is	1	i s
+048/077	is	1	i s
+048/079	is	1	i s
+048/081	is	1	i s
+048/083	iss	1	i ss
+048/085	is	1	i s
+048/087	is	1	i s
+048/089	is	1	i s
+048/091	is	1	i s
+048/093	is	1	i s
+048/095	is	1	i s
+048/099	is	1	i s
+048/101	is	1	i s
+048/103	is	1	i s
+048/105	is	1	i s
+048/107	is	1	i s
+048/109	is	1	i s
+048/111	iss	1	i ss
+048/113	is	1	i s
+048/115	ist	1	i s t
+048/119	is	1	i s
+048/123	iss	1	i ss
+048/125	is	1	i s
+048/127	is	1	i s
+048/129	is	1	i s
+048/131	is	1	i s
+048/133	iss	1	i ss
+048/135	iss	1	i ss
+048/137	is	1	i s
+048/139	is	1	i s
+048/141	eiss	1	ei ss
+048/143	iss	1	i ss
+048/145	eis	1	ei s
+048/147	eis	1	ei s
+048/153	is	1	i s
+048/157	is	1	i s
+048/159	is	1	i s
+049/019	es	1	e s
+049/021	es	1	e s
+049/023	is	1	i s
+049/025	iss	1	i ss
+049/027	is	1	i s
+049/029	iss	1	i ss
+049/031	iss	1	i ss
+049/033	is	1	i s
+049/035	is	1	i s
+049/037	is	1	i s
+049/039	is	1	i s
+049/041	iss	1	i ss
+049/043	is	1	i s
+049/045	iss	1	i ss
+049/047	is	1	i s
+049/049	is	1	i s
+049/051	is	1	i s
+049/053	iss	1	i ss
+049/055	es	1	e s
+049/057	is	1	i s
+049/059	is	1	i s
+049/061	is	1	i s
+049/063	is	1	i s
+049/065	is	1	i s
+049/067	is	1	i s
+049/069	is	1	i s
+049/071	is	1	i s
+049/073	is	1	i s
+049/077	is	1	i s
+049/079	is	1	i s
+049/081	iss	1	i ss
+049/083	is	1	i s
+049/085	is	1	i s
+049/087	is	1	i s
+049/089	is	1	i s
+049/091	is	1	i s
+049/093	is	1	i s
+049/095	is	1	i s
+049/097	iss	1	i ss
+049/099	iss	1	i ss
+049/101	is	1	i s
+049/103	is	1	i s
+049/105	is	1	i s
+049/107	iss	1	i ss
+049/109	is	1	i s
+049/111	is	1	i s
+049/113	is	1	i s
+049/115	ist	1	i s t
+049/117	is	1	i s
+049/119	is	1	i s
+049/121	ist	1	i s t
+049/123	ist	1	i s t
+049/125	iss	1	i ss
+049/127	is	1	i s
+049/129	is	1	i s
+049/131	is	1	i s
+049/133	is	1	i s
+049/135	is	1	i s
+049/137	is	1	i s
+049/139	is	1	i s
+049/141	is	1	i s
+049/143	is	1	i s
+049/145	is	1	i s
+049/147	is	1	i s
+049/151	is	1	i s
+050/021	es	1	e s
+050/023	is	1	i s
+050/025	es	1	e s
+050/027	es	1	e s
+050/029	es	1	e s
+050/031	is	1	i s
+050/033	is	1	i s
+050/035	es	1	e s
+050/037	is	1	i s
+050/039	is	1	i s
+050/041	is	1	i s
+050/043	is	1	i s
+050/047	is	1	i s
+050/049	iss	1	i ss
+050/051	is	1	i s
+050/053	is	1	i s
+050/055	is	1	i s
+050/057	is	1	i s
+050/059	is	1	i s
+050/061	iss	1	i ss
+050/063	is	1	i s
+050/065	is	1	i s
+050/067	is	1	i s
+050/069	is	1	i s
+050/071	is	1	i s
+050/073	is	1	i s
+050/075	is	1	i s
+050/077	is	1	i s
+050/079	is	1	i s
+050/081	is	1	i s
+050/083	is	1	i s
+050/085	is	1	i s
+050/087	iss	1	i ss
+050/089	is	1	i s
+050/091	is	1	i s
+050/093	is	1	i s
+050/095	is	1	i s
+050/097	is	1	i s
+050/099	iss	1	i ss
+050/101	is	1	i s
+050/103	is	1	i s
+050/105	is	1	i s
+050/107	is	1	i s
+050/109	is	1	i s
+050/111	is	1	i s
+050/113	is	1	i s
+050/115	is	1	i s
+050/117	is	1	i s
+050/119	is	1	i s
+050/121	is	1	i s
+050/125	is	1	i s
+050/127	is	1	i s
+050/129	iss	1	i ss
+050/131	iss	1	i ss
+050/133	is	1	i s
+050/135	is	1	i s
+050/137	is	1	i s
+050/139	is	1	i s
+050/141	iss	1	i ss
+050/143	eis	1	ei s
+050/145	is	1	i s
+050/147	ihs	1	ih s
+050/149	is	1	i s
+050/151	is	1	i s
+050/155	is	1	i s
+050/157	is	1	i s
+050/159	is	1	i s
+050/161	is	1	i s
+051/023	es	1	e s
+051/025	ess	1	e ss
+051/027	öss	1	ö ss
+051/029	es	1	e s
+051/031	is	1	i s
+051/033	es	1	e s
+051/035	es	1	e s
+051/037	es	1	e s
+051/039	is	1	i s
+051/041	is	1	i s
+051/043	is	1	i s
+051/045	is	1	i s
+051/047	iss	1	i ss
+051/049	is	1	i s
+051/051	is	1	i s
+051/053	is	1	i s
+051/055	is	1	i s
+051/057	iss	1	i ss
+051/059	is	1	i s
+051/061	is	1	i s
+051/063	is	1	i s
+051/065	is	1	i s
+051/067	is	1	i s
+051/069	iss	1	i ss
+051/071	iss	1	i ss
+051/073	is	1	i s
+051/075	es	1	e s
+051/077	is	1	i s
+051/079	is	1	i s
+051/081	is	1	i s
+051/083	is	1	i s
+051/085	iss	1	i ss
+051/087	is	1	i s
+051/089	is	1	i s
+051/091	is	1	i s
+051/093	is	1	i s
+051/095	is	1	i s
+051/097	is	1	i s
+051/099	iss	1	i ss
+051/101	is	1	i s
+051/103	is	1	i s
+051/105	is	1	i s
+051/107	is	1	i s
+051/109	is	1	i s
+051/111	iss	1	i ss
+051/113	is	1	i s
+051/115	is	1	i s
+051/117	his	1	h i s
+051/119	is	1	i s
+051/121	iss	1	i ss
+051/123	iss	1	i ss
+051/125	is	1	i s
+051/127	is	1	i s
+051/129	is	1	i s
+051/131	s	1	s
+051/133	is	1	i s
+051/135	is	1	i s
+051/137	is	1	i s
+051/139	is	1	i s
+051/141	is	1	i s
+051/143	ihs	1	ih s
+051/145	eis	1	ei s
+051/147	ais	1	ai s
+051/149	eis	1	ei s
+051/151	is	1	i s
+051/153	is	1	i s
+051/155	ist	1	i s t
+051/157	ais	1	ai s
+052/023	es	1	e s
+052/025	es	1	e s
+052/027	es	1	e s
+052/029	öhs	1	öh s
+052/031	es	1	e s
+052/033	es	1	e s
+052/035	es	1	e s
+052/037	is	1	i s
+052/039	es	1	e s
+052/041	es	1	e s
+052/043	is	1	i s
+052/045	is	1	i s
+052/047	ies	1	ie s
+052/049	is	1	i s
+052/051	is	1	i s
+052/053	is	1	i s
+052/057	is	1	i s
+052/059	is	1	i s
+052/061	is	1	i s
+052/063	iss	1	i ss
+052/065	is	1	i s
+052/067	iss	1	i ss
+052/069	iss	1	i ss
+052/071	is	1	i s
+052/073	is	1	i s
+052/075	wär	1	w ä r
+052/077	äss	1	ä ss
+052/079	es	1	e s
+052/081	is	1	i s
+052/083	äss	1	ä ss
+052/085	is	1	i s
+052/087	iss	1	i ss
+052/089	is	1	i s
+052/091	is	1	i s
+052/093	iss	1	i ss
+052/095	is	1	i s
+052/097	is	1	i s
+052/099	is	1	i s
+052/101	iss	1	i ss
+052/103	iss	1	i ss
+052/105	is	1	i s
+052/107	iss	1	i ss
+052/109	iss	1	i ss
+052/111	iss	1	i ss
+052/113	is	1	i s
+052/115	iss	1	i ss
+052/117	ist	1	i s t
+052/121	ist	1	i s t
+052/123	his	1	h i s
+052/125	is	1	i s
+052/127	is	1	i s
+052/129	is	1	i s
+052/131	is	1	i s
+052/133	is	1	i s
+052/135	is	1	i s
+052/137	ais	1	ai s
+052/139	is	1	i s
+052/141	is	1	i s
+052/143	is	1	i s
+052/145	is	1	i s
+052/147	is	1	i s
+052/149	eis	1	ei s
+052/151	iss	1	i ss
+052/153	is	1	i s
+052/155	iss	1	i ss
+052/157	eis	1	ei s
+052/159	is	1	i s
+053/023	es	1	e s
+053/025	äs	1	ä s
+053/027	ös	1	ö s
+053/029	es	1	e s
+053/031	öss	1	ö ss
+053/033	es	1	e s
+053/035	es	1	e s
+053/037	es	1	e s
+053/039	es	1	e s
+053/041	es	1	e s
+053/043	is	1	i s
+053/045	is	1	i s
+053/047	iess	1	ie ss
+053/049	is	1	i s
+053/051	is	1	i s
+053/053	iss	1	i ss
+053/055	iss	1	i ss
+053/057	is	1	i s
+053/059	is	1	i s
+053/061	is	1	i s
+053/063	is	1	i s
+053/065	is	1	i s
+053/067	is	1	i s
+053/069	is	1	i s
+053/071	is	1	i s
+053/073	is	1	i s
+053/075	äs	1	ä s
+053/077	äss	1	ä ss
+053/079	äs	1	ä s
+053/081	äs	1	ä s
+053/083	is	1	i s
+053/085	is	1	i s
+053/087	is	1	i s
+053/089	is	1	i s
+053/091	is	1	i s
+053/093	is	1	i s
+053/095	is	1	i s
+053/097	is	1	i s
+053/099	is	1	i s
+053/101	is	1	i s
+053/103	iss	1	i ss
+053/105	iss	1	i ss
+053/107	is	1	i s
+053/109	iss	1	i ss
+053/111	is	1	i s
+053/113	iss	1	i ss
+053/115	is	1	i s
+053/121	is	1	i s
+053/123	is	1	i s
+053/125	iss	1	i ss
+053/127	is	1	i s
+053/129	is	1	i s
+053/131	iss	1	i ss
+053/133	is	1	i s
+053/135	is	1	i s
+053/137	ies	1	ie s
+053/139	is	1	i s
+053/141	eis	1	ei s
+053/143	is	1	i s
+053/145	is	1	i s
+053/147	ees	1	ee s
+053/149	is	1	i s
+053/151	is	1	i s
+053/153	is	1	i s
+053/155	iss	1	i ss
+053/157	iss	1	i ss
+054/023	es	1	e s
+054/025	es	1	e s
+054/027	es	1	e s
+054/029	es	1	e s
+054/031	ess	1	e ss
+054/033	es	1	e s
+054/035	es	1	e s
+054/037	es	1	e s
+054/039	es	1	e s
+054/041	es	1	e s
+054/043	es	1	e s
+054/045	is	1	i s
+054/047	ies	1	ie s
+054/049	iss	1	i ss
+054/051	iss	1	i ss
+054/053	is	1	i s
+054/055	iss	1	i ss
+054/057	is	1	i s
+054/059	is	1	i s
+054/061	es	1	e s
+054/063	äs	1	ä s
+054/065	is	1	i s
+054/067	es	1	e s
+054/069	ess	1	e ss
+054/071	ess	1	e ss
+054/073	äs	1	ä s
+054/075	äs	1	ä s
+054/077	äss	1	ä ss
+054/079	äss	1	ä ss
+054/081	äs	1	ä s
+054/083	äs	1	ä s
+054/085	es	1	e s
+054/087	es	1	e s
+054/089	iss	1	i ss
+054/091	is	1	i s
+054/093	iss	1	i ss
+054/095	is	1	i s
+054/097	is	1	i s
+054/099	is	1	i s
+054/101	is	1	i s
+054/103	is	1	i s
+054/105	iss	1	i ss
+054/107	is	1	i s
+054/109	is	1	i s
+054/111	is	1	i s
+054/113	is	1	i s
+054/115	is	1	i s
+054/117	is	1	i s
+054/119	is	1	i s
+054/121	ist	1	i s t
+054/123	is	1	i s
+054/125	is	1	i s
+054/127	is	1	i s
+054/131	is	1	i s
+054/133	is	1	i s
+054/135	is	1	i s
+054/137	is	1	i s
+054/139	is	1	i s
+054/141	ais	1	ai s
+054/143	eis	1	ei s
+054/145	eis	1	ei s
+054/147	is	1	i s
+054/149	eis	1	ei s
+054/151	iis	1	ii s
+054/153	is	1	i s
+054/155	is	1	i s
+054/157	is	1	i s
+054/159	is	1	i s
+054/161	is	1	i s
+054/163	is	1	i s
+055/023	es	1	e s
+055/025	ös	1	ö s
+055/027	ess	1	e ss
+055/029	es	1	e s
+055/031	es	1	e s
+055/033	es	1	e s
+055/035	äs	1	ä s
+055/037	äs	1	ä s
+055/039	es	1	e s
+055/041	es	1	e s
+055/043	is	1	i s
+055/045	iss	1	i ss
+055/047	iss	1	i ss
+055/049	is	1	i s
+055/051	is	1	i s
+055/053	is	1	i s
+055/055	is	1	i s
+055/057	iäs	1	iä s
+055/059	äss	1	ä ss
+055/061	ess	1	e ss
+055/063	es	1	e s
+055/065	es	1	e s
+055/067	es	1	e s
+055/069	es	1	e s
+055/071	es	1	e s
+055/073	äss	1	ä ss
+055/075	äs	1	ä s
+055/077	äss	1	ä ss
+055/079	äs	1	ä s
+055/081	es	1	e s
+055/083	äs	1	ä s
+055/085	is	1	i s
+055/087	es	1	e s
+055/089	is	1	i s
+055/091	is	1	i s
+055/093	is	1	i s
+055/095	iss	1	i ss
+055/097	is	1	i s
+055/099	is	1	i s
+055/101	is	1	i s
+055/103	is	1	i s
+055/105	is	1	i s
+055/107	is	1	i s
+055/109	iss	1	i ss
+055/111	is	1	i s
+055/113	iss	1	i ss
+055/115	is	1	i s
+055/117	is	1	i s
+055/119	is	1	i s
+055/123	iss	1	i ss
+055/125	is	1	i s
+055/127	is	1	i s
+055/131	is	1	i s
+055/133	iis	1	ii s
+055/135	is	1	i s
+055/137	is	1	i s
+055/139	is	1	i s
+055/141	is	1	i s
+055/143	is	1	i s
+055/145	eis	1	ei s
+055/147	eis	1	ei s
+055/149	is	1	i s
+055/151	is	1	i s
+055/153	eis	1	ei s
+055/155	is	1	i s
+055/157	is	1	i s
+055/159	ist	1	i s t
+055/161	iss	1	i ss
+056/021	es	1	e s
+056/023	es	1	e s
+056/025	ös	1	ö s
+056/027	es	1	e s
+056/029	es	1	e s
+056/031	ess	1	e ss
+056/033	es	1	e s
+056/035	ess	1	e ss
+056/037	es	1	e s
+056/039	es	1	e s
+056/041	es	1	e s
+056/043	ies	1	ie s
+056/045	ies	1	ie s
+056/047	is	1	i s
+056/049	is	1	i s
+056/051	is	1	i s
+056/053	ies	1	ie s
+056/055	es	1	e s
+056/057	is	1	i s
+056/059	öes	1	öe s
+056/061	es	1	e s
+056/063	es	1	e s
+056/065	äs	1	ä s
+056/067	es	1	e s
+056/069	äs	1	ä s
+056/071	es	1	e s
+056/073	äss	1	ä ss
+056/075	es	1	e s
+056/077	äs	1	ä s
+056/079	es	1	e s
+056/081	äs	1	ä s
+056/083	es	1	e s
+056/085	es	1	e s
+056/087	es	1	e s
+056/089	es	1	e s
+056/091	äs	1	ä s
+056/093	es	1	e s
+056/095	is	1	i s
+056/097	is	1	i s
+056/099	is	1	i s
+056/101	is	1	i s
+056/103	is	1	i s
+056/105	is	1	i s
+056/107	is	1	i s
+056/109	is	1	i s
+056/111	is	1	i s
+056/113	is	1	i s
+056/115	es	1	e s
+056/117	is	1	i s
+056/121	is	1	i s
+056/123	is	1	i s
+056/125	is	1	i s
+056/127	is	1	i s
+056/129	is	1	i s
+056/131	is	1	i s
+056/133	ist	1	i s t
+056/135	is	1	i s
+056/137	ihs	1	ih s
+056/139	is	1	i s
+056/141	is	1	i s
+056/143	is	1	i s
+056/145	is	1	i s
+056/147	ais	1	ai s
+056/149	is	1	i s
+056/151	ehs	1	eh s
+056/153	is	1	i s
+056/155	ais	1	ai s
+056/157	is	1	i s
+056/159	is	1	i s
+056/161	iss	1	i ss
+057/021	es	1	e s
+057/023	es	1	e s
+057/025	ess	1	e ss
+057/027	es	1	e s
+057/029	es	1	e s
+057/031	es	1	e s
+057/033	es	1	e s
+057/035	ehss	1	eh ss
+057/037	ess	1	e ss
+057/039	es	1	e s
+057/041	es	1	e s
+057/043	iss	1	i ss
+057/045	is	1	i s
+057/047	is	1	i s
+057/049	is	1	i s
+057/051	ess	1	e ss
+057/053	es	1	e s
+057/055	es	1	e s
+057/057	ess	1	e ss
+057/059	ess	1	e ss
+057/061	es	1	e s
+057/063	äs	1	ä s
+057/065	es	1	e s
+057/067	ess	1	e ss
+057/069	ess	1	e ss
+057/071	es	1	e s
+057/073	äs	1	ä s
+057/075	äs	1	ä s
+057/077	äss	1	ä ss
+057/079	es	1	e s
+057/081	äs	1	ä s
+057/083	äs	1	ä s
+057/085	ess	1	e ss
+057/087	es	1	e s
+057/089	es	1	e s
+057/091	is	1	i s
+057/093	is	1	i s
+057/095	ess	1	e ss
+057/097	is	1	i s
+057/099	is	1	i s
+057/101	is	1	i s
+057/103	is	1	i s
+057/105	is	1	i s
+057/107	is	1	i s
+057/109	is	1	i s
+057/111	iss	1	i ss
+057/113	is	1	i s
+057/115	is	1	i s
+057/117	is	1	i s
+057/119	is	1	i s
+057/121	is	1	i s
+057/123	iss	1	i ss
+057/125	is	1	i s
+057/127	ies	1	ie s
+057/129	is	1	i s
+057/131	iss	1	i ss
+057/133	iis	1	ii s
+057/135	ies	1	ie s
+057/137	ies	1	ie s
+057/139	ies	1	ie s
+057/141	ihs	1	ih s
+057/143	is	1	i s
+057/145	is	1	i s
+057/147	is	1	i s
+057/149	ais	1	ai s
+057/151	ehs	1	eh s
+057/153	ais	1	ai s
+057/155	ies	1	ie s
+057/157	is	1	i s
+057/159	ies	1	ie s
+057/161	is	1	i s
+058/019	es	1	e s
+058/021	es	1	e s
+058/023	es	1	e s
+058/025	es	1	e s
+058/027	es	1	e s
+058/029	ess	1	e ss
+058/031	es	1	e s
+058/033	es	1	e s
+058/035	es	1	e s
+058/037	ehs	1	eh s
+058/039	es	1	e s
+058/041	iäs	1	iä s
+058/043	es	1	e s
+058/045	is	1	i s
+058/047	es	1	e s
+058/049	äss	1	ä ss
+058/051	äss	1	ä ss
+058/053	ass	1	a ss
+058/055	ess	1	e ss
+058/057	es	1	e s
+058/059	es	1	e s
+058/061	es	1	e s
+058/063	ess	1	e ss
+058/065	äs	1	ä s
+058/067	ess	1	e ss
+058/069	ess	1	e ss
+058/071	es	1	e s
+058/073	es	1	e s
+058/075	äs	1	ä s
+058/077	äs	1	ä s
+058/079	äs	1	ä s
+058/081	äs	1	ä s
+058/083	es	1	e s
+058/085	es	1	e s
+058/087	es	1	e s
+058/089	äs	1	ä s
+058/091	es	1	e s
+058/093	iss	1	i ss
+058/095	is	1	i s
+058/097	is	1	i s
+058/099	is	1	i s
+058/101	is	1	i s
+058/103	is	1	i s
+058/105	is	1	i s
+058/107	is	1	i s
+058/109	is	1	i s
+058/111	is	1	i s
+058/113	is	1	i s
+058/115	is	1	i s
+058/117	is	1	i s
+058/119	is	1	i s
+058/121	iss	1	i ss
+058/123	iss	1	i ss
+058/125	iss	1	i ss
+058/127	iss	1	i ss
+058/129	es	1	e s
+058/131	es	1	e s
+058/133	es	1	e s
+058/135	es	1	e s
+058/137	ies	1	ie s
+058/139	is	1	i s
+058/141	iss	1	i ss
+058/143	iss	1	i ss
+058/145	iss	1	i ss
+058/147	ehs	1	eh s
+058/149	ies	1	ie s
+058/151	ees	1	ee s
+058/153	is	1	i s
+058/155	ies	1	ie s
+058/157	is	1	i s
+058/159	ies	1	ie s
+059/019	iss	1	i ss
+059/021	es	1	e s
+059/023	es	1	e s
+059/025	es	1	e s
+059/027	es	1	e s
+059/029	es	1	e s
+059/031	es	1	e s
+059/033	es	1	e s
+059/035	ess	1	e ss
+059/037	es	1	e s
+059/039	es	1	e s
+059/041	es	1	e s
+059/043	ess	1	e ss
+059/045	es	1	e s
+059/047	ess	1	e ss
+059/049	äs	1	ä s
+059/051	ess	1	e ss
+059/053	es	1	e s
+059/055	äss	1	ä ss
+059/057	es	1	e s
+059/059	äs	1	ä s
+059/061	es	1	e s
+059/063	es	1	e s
+059/065	äss	1	ä ss
+059/067	es	1	e s
+059/069	es	1	e s
+059/071	es	1	e s
+059/073	es	1	e s
+059/075	ess	1	e ss
+059/077	is	1	i s
+059/079	es	1	e s
+059/081	äs	1	ä s
+059/083	es	1	e s
+059/085	es	1	e s
+059/087	es	1	e s
+059/089	is	1	i s
+059/091	is	1	i s
+059/093	is	1	i s
+059/095	is	1	i s
+059/097	iss	1	i ss
+059/099	iss	1	i ss
+059/101	is	1	i s
+059/103	is	1	i s
+059/105	is	1	i s
+059/107	is	1	i s
+059/109	is	1	i s
+059/111	is	1	i s
+059/113	is	1	i s
+059/115	is	1	i s
+059/117	is	1	i s
+059/119	is	1	i s
+059/121	is	1	i s
+059/123	is	1	i s
+059/125	is	1	i s
+059/127	is	1	i s
+059/129	es	1	e s
+059/131	is	1	i s
+059/133	is	1	i s
+059/135	is	1	i s
+059/137	is	1	i s
+059/139	ihs	1	ih s
+059/141	is	1	i s
+059/143	ihs	1	ih s
+059/145	is	1	i s
+059/147	ies	1	ie s
+059/149	ehs	1	eh s
+059/151	ies	1	ie s
+059/153	is	1	i s
+059/155	is	1	i s
+059/157	is	1	i s
+059/159	is	1	i s
+059/161	is	1	i s
+059/165	ist	1	i s t
+059/169	iss	1	i ss
+060/021	es	1	e s
+060/023	es	1	e s
+060/025	ess	1	e ss
+060/027	ös	1	ö s
+060/029	ös	1	ö s
+060/031	öss	1	ö ss
+060/033	ös	1	ö s
+060/035	ös	1	ö s
+060/037	ess	1	e ss
+060/039	ess	1	e ss
+060/041	ös	1	ö s
+060/043	es	1	e s
+060/045	es	1	e s
+060/047	es	1	e s
+060/049	ess	1	e ss
+060/051	äss	1	ä ss
+060/053	es	1	e s
+060/055	ess	1	e ss
+060/057	eoss	1	eo ss
+060/059	ös	1	ö s
+060/061	es	1	e s
+060/063	es	1	e s
+060/065	ess	1	e ss
+060/067	es	1	e s
+060/069	es	1	e s
+060/071	es	1	e s
+060/073	is	1	i s
+060/075	ess	1	e ss
+060/077	es	1	e s
+060/079	es	1	e s
+060/081	es	1	e s
+060/083	is	1	i s
+060/085	ös	1	ö s
+060/087	is	1	i s
+060/089	is	1	i s
+060/091	iss	1	i ss
+060/093	is	1	i s
+060/095	is	1	i s
+060/097	is	1	i s
+060/099	is	1	i s
+060/101	is	1	i s
+060/103	is	1	i s
+060/105	iss	1	i ss
+060/107	es	1	e s
+060/109	is	1	i s
+060/111	is	1	i s
+060/113	is	1	i s
+060/115	is	1	i s
+060/117	is	1	i s
+060/119	is	1	i s
+060/121	iss	1	i ss
+060/123	is	1	i s
+060/125	iss	1	i ss
+060/127	es	1	e s
+060/129	es	1	e s
+060/131	ös	1	ö s
+060/135	is	1	i s
+060/137	is	1	i s
+060/139	is	1	i s
+060/141	is	1	i s
+060/143	ihs	1	ih s
+060/145	is	1	i s
+060/147	is	1	i s
+060/149	is	1	i s
+060/151	ies	1	ie s
+060/153	ies	1	ie s
+060/155	is	1	i s
+060/157	is	1	i s
+060/159	ihs	1	ih s
+060/163	ist	1	i s t
+060/165	ess	1	e ss
+061/021	is	1	i s
+061/023	ess	1	e ss
+061/025	es	1	e s
+061/027	ös	1	ö s
+061/029	ös	1	ö s
+061/031	ös	1	ö s
+061/033	öss	1	ö ss
+061/035	ös	1	ö s
+061/037	oss	1	o ss
+061/039	oss	1	o ss
+061/041	s	1	s
+061/043	ess	1	e ss
+061/045	es	1	e s
+061/047	ess	1	e ss
+061/049	ess	1	e ss
+061/051	ess	1	e ss
+061/053	ess	1	e ss
+061/055	öess	1	öe ss
+061/057	ös	1	ö s
+061/059	öss	1	ö ss
+061/061	ess	1	e ss
+061/063	es	1	e s
+061/065	is	1	i s
+061/067	ess	1	e ss
+061/069	es	1	e s
+061/071	äss	1	ä ss
+061/073	ihs	1	ih s
+061/075	is	1	i s
+061/077	es	1	e s
+061/079	es	1	e s
+061/081	es	1	e s
+061/083	es	1	e s
+061/085	is	1	i s
+061/087	iss	1	i ss
+061/089	is	1	i s
+061/091	is	1	i s
+061/093	is	1	i s
+061/095	is	1	i s
+061/097	is	1	i s
+061/099	is	1	i s
+061/101	is	1	i s
+061/103	is	1	i s
+061/105	is	1	i s
+061/107	is	1	i s
+061/109	is	1	i s
+061/111	is	1	i s
+061/113	is	1	i s
+061/115	is	1	i s
+061/117	äis	1	äi s
+061/119	ejs	1	e j s
+061/121	ejs	1	e j s
+061/123	es	1	e s
+061/125	is	1	i s
+061/127	is	1	i s
+061/129	ös	1	ö s
+061/131	ös	1	ö s
+061/133	es	1	e s
+061/137	is	1	i s
+061/139	is	1	i s
+061/141	is	1	i s
+061/143	is	1	i s
+061/145	is	1	i s
+061/147	is	1	i s
+061/149	is	1	i s
+061/151	is	1	i s
+061/153	is	1	i s
+061/155	is	1	i s
+061/157	is	1	i s
+061/159	ihs	1	ih s
+061/161	is	1	i s
+061/165	es	1	e s
+062/021	es	1	e s
+062/023	ös	1	ö s
+062/025	es	1	e s
+062/027	ös	1	ö s
+062/029	ös	1	ö s
+062/031	ös	1	ö s
+062/033	äss	1	ä ss
+062/035	ös	1	ö s
+062/037	äs	1	ä s
+062/039	ös	1	ö s
+062/041	öss	1	ö ss
+062/043	ess	1	e ss
+062/045	ess	1	e ss
+062/047	es	1	e s
+062/049	ess	1	e ss
+062/051	eas	1	ea s
+062/053	eess	1	ee ss
+062/055	eäss	1	eä ss
+062/057	ijs	1	i j s
+062/059	ess	1	e ss
+062/061	ess	1	e ss
+062/063	es	1	e s
+062/065	ess	1	e ss
+062/067	es	1	e s
+062/069	es	1	e s
+062/071	is	1	i s
+062/073	is	1	i s
+062/075	es	1	e s
+062/077	es	1	e s
+062/079	es	1	e s
+062/081	öss	1	ö ss
+062/083	es	1	e s
+062/085	es	1	e s
+062/087	is	1	i s
+062/089	ös	1	ö s
+062/091	iss	1	i ss
+062/093	is	1	i s
+062/095	is	1	i s
+062/097	is	1	i s
+062/099	is	1	i s
+062/101	is	1	i s
+062/103	iss	1	i ss
+062/105	iss	1	i ss
+062/107	is	1	i s
+062/109	is	1	i s
+062/111	is	1	i s
+062/113	is	1	i s
+062/115	es	1	e s
+062/117	is	1	i s
+062/119	ejs	1	e j s
+062/121	es	1	e s
+062/123	is	1	i s
+062/125	ös	1	ö s
+062/127	is	1	i s
+062/129	es	1	e s
+062/131	is	1	i s
+062/133	es	1	e s
+062/135	is	1	i s
+062/137	is	1	i s
+062/139	is	1	i s
+062/141	ihs	1	ih s
+062/143	ihs	1	ih s
+062/145	ies	1	ie s
+062/147	ihs	1	ih s
+062/149	ies	1	ie s
+062/151	ihss	1	ih ss
+062/153	ies	1	ie s
+062/155	is	1	i s
+062/157	is	1	i s
+062/159	is	1	i s
+062/161	is	1	i s
+063/021	is	1	i s
+063/023	ess	1	e ss
+063/025	es	1	e s
+063/027	ös	1	ö s
+063/029	ös	1	ö s
+063/031	ös	1	ö s
+063/033	ös	1	ö s
+063/035	es	1	e s
+063/037	äs	1	ä s
+063/039	ess	1	e ss
+063/041	es	1	e s
+063/043	es	1	e s
+063/045	öss	1	ö ss
+063/047	ess	1	e ss
+063/049	ess	1	e ss
+063/051	eas	1	ea s
+063/053	es	1	e s
+063/055	eass	1	ea ss
+063/057	ers	1	e r s
+063/059	is	1	i s
+063/061	is	1	i s
+063/063	ess	1	e ss
+063/065	ess	1	e ss
+063/067	ess	1	e ss
+063/069	ess	1	e ss
+063/071	is	1	i s
+063/073	is	1	i s
+063/075	is	1	i s
+063/077	is	1	i s
+063/079	es	1	e s
+063/081	iss	1	i ss
+063/083	ös	1	ö s
+063/085	is	1	i s
+063/087	is	1	i s
+063/089	is	1	i s
+063/091	is	1	i s
+063/093	is	1	i s
+063/095	is	1	i s
+063/097	is	1	i s
+063/099	iss	1	i ss
+063/101	iss	1	i ss
+063/103	is	1	i s
+063/105	iss	1	i ss
+063/107	is	1	i s
+063/109	is	1	i s
+063/111	is	1	i s
+063/113	is	1	i s
+063/115	is	1	i s
+063/117	is	1	i s
+063/119	is	1	i s
+063/121	is	1	i s
+063/123	is	1	i s
+063/125	is	1	i s
+063/127	is	1	i s
+063/135	is	1	i s
+063/137	is	1	i s
+063/139	is	1	i s
+063/141	iss	1	i ss
+063/143	is	1	i s
+063/145	is	1	i s
+063/147	iis	1	ii s
+063/149	ies	1	ie s
+063/151	ies	1	ie s
+063/153	ies	1	ie s
+063/155	is	1	i s
+063/157	is	1	i s
+063/159	is	1	i s
+063/161	is	1	i s
+063/163	ist	1	i s t
+063/165	össt	1	ö ss t
+064/023	es	1	e s
+064/025	es	1	e s
+064/027	ös	1	ö s
+064/029	es	1	e s
+064/031	oss	1	o ss
+064/033	os	1	o s
+064/035	es	1	e s
+064/037	is	1	i s
+064/039	ess	1	e ss
+064/041	ess	1	e ss
+064/043	ess	1	e ss
+064/045	ess	1	e ss
+064/047	es	1	e s
+064/049	irs	1	i r s
+064/051	es	1	e s
+064/053	eass	1	ea ss
+064/055	eass	1	ea ss
+064/057	eass	1	ea ss
+064/059	is	1	i s
+064/061	is	1	i s
+064/063	is	1	i s
+064/065	os	1	o s
+064/067	is	1	i s
+064/069	ess	1	e ss
+064/071	is	1	i s
+064/073	es	1	e s
+064/075	iss	1	i ss
+064/077	is	1	i s
+064/079	ess	1	e ss
+064/081	es	1	e s
+064/083	is	1	i s
+064/085	is	1	i s
+064/087	is	1	i s
+064/089	is	1	i s
+064/091	is	1	i s
+064/093	is	1	i s
+064/095	is	1	i s
+064/097	is	1	i s
+064/099	is	1	i s
+064/101	is	1	i s
+064/103	iss	1	i ss
+064/105	is	1	i s
+064/107	is	1	i s
+064/109	is	1	i s
+064/111	is	1	i s
+064/113	is	1	i s
+064/115	is	1	i s
+064/117	is	1	i s
+064/119	is	1	i s
+064/121	is	1	i s
+064/123	is	1	i s
+064/125	is	1	i s
+064/127	is	1	i s
+064/135	is	1	i s
+064/137	is	1	i s
+064/139	is	1	i s
+064/141	is	1	i s
+064/143	is	1	i s
+064/145	is	1	i s
+064/147	es	1	e s
+064/149	is	1	i s
+064/151	ihs	1	ih s
+064/153	is	1	i s
+064/155	is	1	i s
+064/157	is	1	i s
+064/159	iss	1	i ss
+065/021	os	1	o s
+065/023	es	1	e s
+065/025	oss	1	o ss
+065/027	os	1	o s
+065/029	os	1	o s
+065/031	os	1	o s
+065/033	os	1	o s
+065/035	es	1	e s
+065/037	ess	1	e ss
+065/039	ess	1	e ss
+065/041	es	1	e s
+065/043	ess	1	e ss
+065/045	äss	1	ä ss
+065/047	ess	1	e ss
+065/049	eass	1	ea ss
+065/051	ess	1	e ss
+065/053	is	1	i s
+065/055	eass	1	ea ss
+065/057	ers	1	e r s
+065/059	eas	1	ea s
+065/061	is	1	i s
+065/063	es	1	e s
+065/065	es	1	e s
+065/067	es	1	e s
+065/069	is	1	i s
+065/071	is	1	i s
+065/073	es	1	e s
+065/075	is	1	i s
+065/077	is	1	i s
+065/079	is	1	i s
+065/081	iss	1	i ss
+065/083	is	1	i s
+065/085	is	1	i s
+065/087	iss	1	i ss
+065/089	is	1	i s
+065/091	is	1	i s
+065/093	is	1	i s
+065/095	is	1	i s
+065/097	is	1	i s
+065/101	is	1	i s
+065/103	iss	1	i ss
+065/105	is	1	i s
+065/107	is	1	i s
+065/109	is	1	i s
+065/111	is	1	i s
+065/113	is	1	i s
+065/115	is	1	i s
+065/121	iss	1	i ss
+065/123	is	1	i s
+065/137	is	1	i s
+065/139	is	1	i s
+065/143	is	1	i s
+065/145	es	1	e s
+065/147	ihs	1	ih s
+065/149	is	1	i s
+065/151	is	1	i s
+065/153	is	1	i s
+065/155	is	1	i s
+065/157	is	1	i s
+065/159	is	1	i s
+066/021	oss	1	o ss
+066/023	os	1	o s
+066/025	os	1	o s
+066/027	ass	1	a ss
+066/029	öiss	1	öi ss
+066/031	os	1	o s
+066/033	oss	1	o ss
+066/035	es	1	e s
+066/037	ess	1	e ss
+066/039	es	1	e s
+066/041	ess	1	e ss
+066/043	is	1	i s
+066/045	es	1	e s
+066/047	ess	1	e ss
+066/049	ess	1	e ss
+066/051	eas	1	ea s
+066/053	eas	1	ea s
+066/055	eass	1	ea ss
+066/057	eas	1	ea s
+066/059	is	1	i s
+066/061	iss	1	i ss
+066/063	iss	1	i ss
+066/065	is	1	i s
+066/067	is	1	i s
+066/069	iss	1	i ss
+066/071	is	1	i s
+066/073	iss	1	i ss
+066/075	is	1	i s
+066/077	is	1	i s
+066/079	iis	1	ii s
+066/081	is	1	i s
+066/083	is	1	i s
+066/085	is	1	i s
+066/087	is	1	i s
+066/089	is	1	i s
+066/091	is	1	i s
+066/093	iss	1	i ss
+066/095	is	1	i s
+066/097	is	1	i s
+066/099	is	1	i s
+066/101	is	1	i s
+066/103	is	1	i s
+066/105	is	1	i s
+066/107	is	1	i s
+066/109	is	1	i s
+066/111	is	1	i s
+066/113	is	1	i s
+066/121	is	1	i s
+066/139	is	1	i s
+066/143	is	1	i s
+066/145	is	1	i s
+066/147	ihs	1	ih s
+066/149	is	1	i s
+066/151	ihs	1	ih s
+066/153	is	1	i s
+066/155	is	1	i s
+066/157	ies	1	ie s
+066/159	ihs	1	ih s
+066/161	iss	1	i ss
+066/163	iss	1	i ss
+067/021	os	1	o s
+067/023	oss	1	o ss
+067/025	as	1	a s
+067/027	os	1	o s
+067/029	os	1	o s
+067/031	es	1	e s
+067/033	es	1	e s
+067/035	ees	1	ee s
+067/037	es	1	e s
+067/039	ess	1	e ss
+067/041	ess	1	e ss
+067/043	ess	1	e ss
+067/045	is	1	i s
+067/047	iis	1	ii s
+067/049	ess	1	e ss
+067/051	irs	1	i r s
+067/053	eas	1	ea s
+067/055	eas	1	ea s
+067/057	eas	1	ea s
+067/059	iess	1	ie ss
+067/061	is	1	i s
+067/063	iss	1	i ss
+067/065	is	1	i s
+067/067	is	1	i s
+067/069	iss	1	i ss
+067/071	is	1	i s
+067/073	is	1	i s
+067/075	is	1	i s
+067/077	is	1	i s
+067/079	is	1	i s
+067/081	iss	1	i ss
+067/083	is	1	i s
+067/085	it	1	i t
+067/087	is	1	i s
+067/089	iss	1	i ss
+067/091	iss	1	i ss
+067/093	is	1	i s
+067/095	is	1	i s
+067/097	is	1	i s
+067/099	is	1	i s
+067/101	iis	1	ii s
+067/103	is	1	i s
+067/105	is	1	i s
+067/107	is	1	i s
+067/109	is	1	i s
+067/111	is	1	i s
+067/113	is	1	i s
+067/143	is	1	i s
+067/145	is	1	i s
+067/147	is	1	i s
+067/149	es	1	e s
+067/151	is	1	i s
+067/153	is	1	i s
+067/155	is	1	i s
+067/157	es	1	e s
+067/159	ess	1	e ss
+067/161	ies	1	ie s
+067/163	is	1	i s
+067/165	ess	1	e ss
+067/177	is	1	i s
+068/021	oss	1	o ss
+068/023	ass	1	a ss
+068/025	as	1	a s
+068/027	ass	1	a ss
+068/029	öss	1	ö ss
+068/031	oss	1	o ss
+068/033	oes	1	oe s
+068/035	es	1	e s
+068/037	es	1	e s
+068/039	äss	1	ä ss
+068/041	iss	1	i ss
+068/043	ess	1	e ss
+068/045	is	1	i s
+068/047	ess	1	e ss
+068/049	is	1	i s
+068/051	iass	1	ia ss
+068/053	ies	1	ie s
+068/055	eas	1	ea s
+068/057	eas	1	ea s
+068/059	ess	1	e ss
+068/061	is	1	i s
+068/063	iis	1	ii s
+068/065	is	1	i s
+068/067	is	1	i s
+068/069	is	1	i s
+068/071	is	1	i s
+068/073	is	1	i s
+068/075	is	1	i s
+068/077	is	1	i s
+068/079	is	1	i s
+068/081	is	1	i s
+068/083	is	1	i s
+068/085	is	1	i s
+068/087	is	1	i s
+068/089	is	1	i s
+068/091	is	1	i s
+068/093	is	1	i s
+068/095	is	1	i s
+068/097	is	1	i s
+068/099	is	1	i s
+068/101	is	1	i s
+068/103	is	1	i s
+068/105	is	1	i s
+068/107	is	1	i s
+068/109	is	1	i s
+068/111	is	1	i s
+068/145	is	1	i s
+068/147	is	1	i s
+068/149	ihs	1	ih s
+068/151	is	1	i s
+068/153	iess	1	ie ss
+068/155	is	1	i s
+068/157	ies	1	ie s
+068/159	ies	1	ie s
+068/161	es	1	e s
+068/165	ist	1	i s t
+069/019	os	1	o s
+069/023	ass	1	a ss
+069/025	ass	1	a ss
+069/027	ass	1	a ss
+069/029	ass	1	a ss
+069/031	oss	1	o ss
+069/033	oss	1	o ss
+069/035	es	1	e s
+069/037	iss	1	i ss
+069/039	es	1	e s
+069/041	iis	1	ii s
+069/043	is	1	i s
+069/045	ist	1	i s t
+069/047	iss	1	i ss
+069/049	es	1	e s
+069/051	iss	1	i ss
+069/053	is	1	i s
+069/055	is	1	i s
+069/057	is	1	i s
+069/059	is	1	i s
+069/061	is	1	i s
+069/063	is	1	i s
+069/065	is	1	i s
+069/067	iss	1	i ss
+069/069	is	1	i s
+069/071	it	1	i t
+069/073	is	1	i s
+069/075	is	1	i s
+069/077	is	1	i s
+069/079	is	1	i s
+069/081	is	1	i s
+069/083	is	1	i s
+069/085	is	1	i s
+069/087	is	1	i s
+069/089	is	1	i s
+069/091	is	1	i s
+069/093	is	1	i s
+069/095	is	1	i s
+069/097	ihs	1	ih s
+069/099	is	1	i s
+069/101	is	1	i s
+069/103	is	1	i s
+069/105	is	1	i s
+069/107	is	1	i s
+069/109	is	1	i s
+069/111	is	1	i s
+069/147	is	1	i s
+069/149	is	1	i s
+069/151	is	1	i s
+069/153	es	1	e s
+069/157	ies	1	ie s
+069/159	is	1	i s
+069/161	ess	1	e ss
+069/163	es	1	e s
+069/165	is	1	i s
+070/019	äss	1	ä ss
+070/023	as	1	a s
+070/025	ass	1	a ss
+070/027	ass	1	a ss
+070/029	as	1	a s
+070/031	as	1	a s
+070/033	es	1	e s
+070/035	ess	1	e ss
+070/037	es	1	e s
+070/039	iss	1	i ss
+070/041	iss	1	i ss
+070/043	is	1	i s
+070/045	iss	1	i ss
+070/047	is	1	i s
+070/049	ess	1	e ss
+070/051	iss	1	i ss
+070/053	is	1	i s
+070/055	is	1	i s
+070/057	is	1	i s
+070/059	iss	1	i ss
+070/061	is	1	i s
+070/063	is	1	i s
+070/065	iss	1	i ss
+070/067	is	1	i s
+070/069	iss	1	i ss
+070/071	is	1	i s
+070/073	it	1	i t
+070/075	is	1	i s
+070/077	ist	1	i s t
+070/079	is	1	i s
+070/081	is	1	i s
+070/083	is	1	i s
+070/085	is	1	i s
+070/087	is	1	i s
+070/089	is	1	i s
+070/091	is	1	i s
+070/093	is	1	i s
+070/095	is	1	i s
+070/097	ihs	1	ih s
+070/099	is	1	i s
+070/101	is	1	i s
+070/103	is	1	i s
+070/105	is	1	i s
+070/107	is	1	i s
+070/109	is	1	i s
+070/111	is	1	i s
+070/145	ias	1	ia s
+070/147	is	1	i s
+070/149	is	1	i s
+070/151	eas	1	ea s
+070/153	es	1	e s
+070/155	eess	1	ee ss
+070/157	ies	1	ie s
+070/159	ies	1	ie s
+070/161	es	1	e s
+070/163	es	1	e s
+070/165	es	1	e s
+071/017	ass	1	a ss
+071/019	ass	1	a ss
+071/021	ass	1	a ss
+071/023	as	1	a s
+071/025	ass	1	a ss
+071/027	ass	1	a ss
+071/029	as	1	a s
+071/031	as	1	a s
+071/033	es	1	e s
+071/035	is	1	i s
+071/037	is	1	i s
+071/039	is	1	i s
+071/041	is	1	i s
+071/043	iss	1	i ss
+071/045	iss	1	i ss
+071/047	is	1	i s
+071/049	ess	1	e ss
+071/051	es	1	e s
+071/053	is	1	i s
+071/055	is	1	i s
+071/057	is	1	i s
+071/059	os	1	o s
+071/063	is	1	i s
+071/065	is	1	i s
+071/067	is	1	i s
+071/069	it	1	i t
+071/071	it	1	i t
+071/073	it	1	i t
+071/075	it	1	i t
+071/077	is	1	i s
+071/079	is	1	i s
+071/081	is	1	i s
+071/083	is	1	i s
+071/085	is	1	i s
+071/087	iss	1	i ss
+071/089	iss	1	i ss
+071/091	is	1	i s
+071/093	is	1	i s
+071/095	is	1	i s
+071/097	is	1	i s
+071/099	is	1	i s
+071/101	is	1	i s
+071/103	is	1	i s
+071/105	is	1	i s
+071/145	is	1	i s
+071/147	is	1	i s
+071/149	is	1	i s
+071/151	ees	1	ee s
+071/153	ias	1	ia s
+071/155	ies	1	ie s
+071/157	es	1	e s
+071/159	ias	1	ia s
+071/161	is	1	i s
+071/163	is	1	i s
+071/177	ei	1	ei
+071/179	is	1	i s
+072/017	ass	1	a ss
+072/019	ass	1	a ss
+072/021	ass	1	a ss
+072/023	ass	1	a ss
+072/025	ass	1	a ss
+072/027	ass	1	a ss
+072/029	ass	1	a ss
+072/031	ass	1	a ss
+072/033	ees	1	ee s
+072/035	es	1	e s
+072/037	is	1	i s
+072/039	is	1	i s
+072/041	is	1	i s
+072/043	is	1	i s
+072/045	ess	1	e ss
+072/047	ess	1	e ss
+072/049	ess	1	e ss
+072/051	iss	1	i ss
+072/053	is	1	i s
+072/055	is	1	i s
+072/057	is	1	i s
+072/059	is	1	i s
+072/061	iss	1	i ss
+072/063	is	1	i s
+072/065	iss	1	i ss
+072/067	is	1	i s
+072/069	it	1	i t
+072/071	it	1	i t
+072/073	is	1	i s
+072/075	it	1	i t
+072/077	ist	1	i s t
+072/079	is	1	i s
+072/081	is	1	i s
+072/083	is	1	i s
+072/085	is	1	i s
+072/087	is	1	i s
+072/089	is	1	i s
+072/091	is	1	i s
+072/093	is	1	i s
+072/095	is	1	i s
+072/097	is	1	i s
+072/099	is	1	i s
+072/101	is	1	i s
+072/103	is	1	i s
+072/105	is	1	i s
+072/107	is	1	i s
+072/145	ejt	1	e j t
+072/147	ihs	1	ih s
+072/149	ejt	1	e j t
+072/151	eeis	1	eei s
+072/153	ies	1	ie s
+072/155	is	1	i s
+072/157	äs	1	ä s
+072/159	ies	1	ie s
+072/161	ijs	1	i j s
+072/177	ej	1	e j
+072/179	ist	1	i s t
+072/181	is	1	i s
+073/017	ass	1	a ss
+073/019	ass	1	a ss
+073/021	ass	1	a ss
+073/023	ass	1	a ss
+073/025	ass	1	a ss
+073/027	öss	1	ö ss
+073/029	ass	1	a ss
+073/031	ass	1	a ss
+073/033	ess	1	e ss
+073/035	is	1	i s
+073/037	iss	1	i ss
+073/039	is	1	i s
+073/041	is	1	i s
+073/043	ess	1	e ss
+073/045	ess	1	e ss
+073/047	is	1	i s
+073/049	es	1	e s
+073/051	es	1	e s
+073/053	ess	1	e ss
+073/055	is	1	i s
+073/057	iss	1	i ss
+073/059	is	1	i s
+073/061	is	1	i s
+073/063	is	1	i s
+073/065	is	1	i s
+073/067	is	1	i s
+073/069	it	1	i t
+073/071	it	1	i t
+073/073	it	1	i t
+073/075	is	1	i s
+073/077	is	1	i s
+073/079	is	1	i s
+073/081	is	1	i s
+073/083	is	1	i s
+073/085	iss	1	i ss
+073/087	is	1	i s
+073/089	is	1	i s
+073/091	is	1	i s
+073/093	is	1	i s
+073/095	is	1	i s
+073/097	is	1	i s
+073/099	is	1	i s
+073/101	is	1	i s
+073/103	it	1	i t
+073/105	is	1	i s
+073/107	is	1	i s
+073/145	ait	1	ai t
+073/147	est	1	e s t
+073/149	äis	1	äi s
+073/151	ejs	1	e j s
+073/153	is	1	i s
+073/155	ies	1	ie s
+073/157	is	1	i s
+073/159	äes	1	äe s
+073/161	es	1	e s
+073/163	is	1	i s
+073/165	is	1	i s
+073/175	ej	1	e j
+073/177	ej	1	e j
+074/019	ass	1	a ss
+074/021	ass	1	a ss
+074/023	as	1	a s
+074/025	ass	1	a ss
+074/027	es	1	e s
+074/029	ass	1	a ss
+074/031	eas	1	ea s
+074/033	eass	1	ea ss
+074/035	is	1	i s
+074/037	iss	1	i ss
+074/039	iss	1	i ss
+074/041	is	1	i s
+074/043	ess	1	e ss
+074/045	es	1	e s
+074/047	iss	1	i ss
+074/049	is	1	i s
+074/051	iss	1	i ss
+074/053	is	1	i s
+074/055	is	1	i s
+074/057	is	1	i s
+074/059	is	1	i s
+074/061	ist	1	i s t
+074/063	is	1	i s
+074/065	iit	1	ii t
+074/067	it	1	i t
+074/069	itt	1	i tt
+074/071	iit	1	ii t
+074/073	is	1	i s
+074/075	is	1	i s
+074/077	iss	1	i ss
+074/079	is	1	i s
+074/081	is	1	i s
+074/083	is	1	i s
+074/085	is	1	i s
+074/087	is	1	i s
+074/089	is	1	i s
+074/091	is	1	i s
+074/093	is	1	i s
+074/095	is	1	i s
+074/097	is	1	i s
+074/099	is	1	i s
+074/101	is	1	i s
+074/103	is	1	i s
+074/105	is	1	i s
+074/107	is	1	i s
+074/109	is	1	i s
+074/145	is	1	i s
+074/147	äit	1	äi t
+074/149	ait	1	ai t
+074/153	is	1	i s
+074/155	is	1	i s
+074/157	es	1	e s
+074/159	es	1	e s
+074/161	is	1	i s
+074/163	iäs	1	iä s
+074/165	is	1	i s
+075/019	ass	1	a ss
+075/021	as	1	a s
+075/023	ass	1	a ss
+075/025	ass	1	a ss
+075/027	es	1	e s
+075/029	ess	1	e ss
+075/031	es	1	e s
+075/033	es	1	e s
+075/035	iss	1	i ss
+075/037	is	1	i s
+075/039	iss	1	i ss
+075/041	ess	1	e ss
+075/043	ess	1	e ss
+075/045	es	1	e s
+075/047	iss	1	i ss
+075/049	is	1	i s
+075/051	is	1	i s
+075/053	is	1	i s
+075/055	is	1	i s
+075/057	is	1	i s
+075/059	is	1	i s
+075/061	is	1	i s
+075/063	iss	1	i ss
+075/065	it	1	i t
+075/067	it	1	i t
+075/069	it	1	i t
+075/071	it	1	i t
+075/073	iss	1	i ss
+075/075	is	1	i s
+075/077	is	1	i s
+075/079	is	1	i s
+075/081	is	1	i s
+075/083	is	1	i s
+075/085	is	1	i s
+075/087	is	1	i s
+075/089	is	1	i s
+075/091	is	1	i s
+075/093	is	1	i s
+075/095	is	1	i s
+075/097	is	1	i s
+075/099	is	1	i s
+075/101	is	1	i s
+075/103	is	1	i s
+075/105	is	1	i s
+075/107	is	1	i s
+075/135	ist	1	i s t
+075/145	es	1	e s
+075/147	ejs	1	e j s
+075/149	ät	1	ä t
+075/155	ies	1	ie s
+075/157	ehs	1	eh s
+075/159	is	1	i s
+075/161	ies	1	ie s
+075/163	ies	1	ie s
+075/165	hout	1	h ou t
+076/019	as	1	a s
+076/021	as	1	a s
+076/023	ass	1	a ss
+076/025	ass	1	a ss
+076/027	es	1	e s
+076/029	ess	1	e ss
+076/033	ess	1	e ss
+076/035	ess	1	e ss
+076/037	is	1	i s
+076/039	ess	1	e ss
+076/041	iss	1	i ss
+076/043	is	1	i s
+076/045	es	1	e s
+076/047	iss	1	i ss
+076/049	is	1	i s
+076/051	is	1	i s
+076/053	isch	1	i sch
+076/055	is	1	i s
+076/057	is	1	i s
+076/059	is	1	i s
+076/061	iss	1	i ss
+076/063	is	1	i s
+076/065	is	1	i s
+076/067	it	1	i t
+076/069	is	1	i s
+076/071	is	1	i s
+076/073	iss	1	i ss
+076/075	is	1	i s
+076/077	is	1	i s
+076/079	iss	1	i ss
+076/081	is	1	i s
+076/083	is	1	i s
+076/085	is	1	i s
+076/087	is	1	i s
+076/089	is	1	i s
+076/091	is	1	i s
+076/093	is	1	i s
+076/095	is	1	i s
+076/097	is	1	i s
+076/099	is	1	i s
+076/101	is	1	i s
+076/103	is	1	i s
+076/135	is	1	i s
+076/137	is	1	i s
+076/149	is	1	i s
+076/151	is	1	i s
+076/155	is	1	i s
+076/161	es	1	e s
+076/163	es	1	e s
+076/165	e	1	e
+077/019	ass	1	a ss
+077/021	as	1	a s
+077/023	aass	1	aa ss
+077/025	es	1	e s
+077/027	es	1	e s
+077/029	äss	1	ä ss
+077/031	ess	1	e ss
+077/033	iss	1	i ss
+077/035	es	1	e s
+077/037	is	1	i s
+077/039	iss	1	i ss
+077/041	is	1	i s
+077/043	iss	1	i ss
+077/047	is	1	i s
+077/049	iss	1	i ss
+077/051	iss	1	i ss
+077/053	isch	1	i sch
+077/055	is	1	i s
+077/057	isch	1	i sch
+077/059	isch	1	i sch
+077/061	is	1	i s
+077/063	is	1	i s
+077/065	is	1	i s
+077/067	is	1	i s
+077/069	iss	1	i ss
+077/071	is	1	i s
+077/073	is	1	i s
+077/075	is	1	i s
+077/077	is	1	i s
+077/079	is	1	i s
+077/081	is	1	i s
+077/083	is	1	i s
+077/085	is	1	i s
+077/087	is	1	i s
+077/089	is	1	i s
+077/091	is	1	i s
+077/093	is	1	i s
+077/095	is	1	i s
+077/097	is	1	i s
+077/099	is	1	i s
+077/101	is	1	i s
+077/103	is	1	i s
+077/135	is	1	i s
+077/137	ist	1	i s t
+078/021	as	1	a s
+078/023	as	1	a s
+078/025	ass	1	a ss
+078/027	ess	1	e ss
+078/029	ess	1	e ss
+078/031	iss	1	i ss
+078/033	iss	1	i ss
+078/035	is	1	i s
+078/037	iss	1	i ss
+078/039	is	1	i s
+078/041	ess	1	e ss
+078/045	esch	1	e sch
+078/047	esch	1	e sch
+078/049	isch	1	i sch
+078/051	isch	1	i sch
+078/053	is	1	i s
+078/055	isch	1	i sch
+078/057	isch	1	i sch
+078/059	isch	1	i sch
+078/061	isch	1	i sch
+078/063	is	1	i s
+078/065	iss	1	i ss
+078/067	is	1	i s
+078/069	is	1	i s
+078/071	is	1	i s
+078/073	is	1	i s
+078/075	iss	1	i ss
+078/077	is	1	i s
+078/079	is	1	i s
+078/081	is	1	i s
+078/083	is	1	i s
+078/085	is	1	i s
+078/087	is	1	i s
+078/089	ist	1	i s t
+078/091	is	1	i s
+078/093	ist	1	i s t
+078/095	is	1	i s
+078/097	is	1	i s
+078/099	is	1	i s
+078/101	is	1	i s
+078/103	is	1	i s
+078/105	is	1	i s
+078/135	ist	1	i s t
+078/193	isch	1	i sch
+079/021	ess	1	e ss
+079/023	as	1	a s
+079/025	ass	1	a ss
+079/027	es	1	e s
+079/029	ess	1	e ss
+079/031	is	1	i s
+079/033	iss	1	i ss
+079/035	isch	1	i sch
+079/037	iss	1	i ss
+079/039	is	1	i s
+079/043	isch	1	i sch
+079/045	esch	1	e sch
+079/047	esch	1	e sch
+079/049	isch	1	i sch
+079/051	isch	1	i sch
+079/053	isch	1	i sch
+079/055	isch	1	i sch
+079/057	isch	1	i sch
+079/059	isch	1	i sch
+079/061	isch	1	i sch
+079/063	isch	1	i sch
+079/065	isch	1	i sch
+079/067	is	1	i s
+079/069	is	1	i s
+079/071	is	1	i s
+079/073	is	1	i s
+079/075	is	1	i s
+079/077	is	1	i s
+079/079	is	1	i s
+079/081	is	1	i s
+079/083	is	1	i s
+079/085	is	1	i s
+079/087	is	1	i s
+079/089	is	1	i s
+079/091	is	1	i s
+079/093	is	1	i s
+079/095	is	1	i s
+079/097	is	1	i s
+079/099	is	1	i s
+079/101	is	1	i s
+079/103	is	1	i s
+079/105	is	1	i s
+079/107	is	1	i s
+079/133	is	1	i s
+079/135	ist	1	i s t
+079/193	is	1	i s
+079/195	äs	1	ä s
+079/197	äs	1	ä s
+080/025	ess	1	e ss
+080/027	ess	1	e ss
+080/029	isch	1	i sch
+080/031	is	1	i s
+080/033	isch	1	i sch
+080/035	iss	1	i ss
+080/037	is	1	i s
+080/039	isch	1	i sch
+080/041	esch	1	e sch
+080/043	isch	1	i sch
+080/045	eesch	1	ee sch
+080/047	esch	1	e sch
+080/049	isch	1	i sch
+080/051	isch	1	i sch
+080/053	isch	1	i sch
+080/055	isch	1	i sch
+080/057	isch	1	i sch
+080/059	isch	1	i sch
+080/061	isch	1	i sch
+080/063	isch	1	i sch
+080/065	isch	1	i sch
+080/067	iss	1	i ss
+080/069	is	1	i s
+080/071	isch	1	i sch
+080/073	is	1	i s
+080/075	is	1	i s
+080/077	is	1	i s
+080/079	is	1	i s
+080/081	is	1	i s
+080/083	is	1	i s
+080/085	iis	1	ii s
+080/087	is	1	i s
+080/089	is	1	i s
+080/091	is	1	i s
+080/093	is	1	i s
+080/095	is	1	i s
+080/097	isst	1	i ss t
+080/099	is	1	i s
+080/101	is	1	i s
+080/103	is	1	i s
+080/105	is	1	i s
+080/107	is	1	i s
+080/109	is	1	i s
+080/127	is	1	i s
+080/147	is	1	i s
+080/151	is	1	i s
+080/153	is	1	i s
+080/193	äs	1	ä s
+080/195	äs	1	ä s
+081/025	es	1	e s
+081/027	isch	1	i sch
+081/029	ist	1	i s t
+081/031	ischd	1	i sch d
+081/033	esch	1	e sch
+081/035	isch	1	i sch
+081/037	isch	1	i sch
+081/039	isch	1	i sch
+081/043	esch	1	e sch
+081/045	esch	1	e sch
+081/047	esch	1	e sch
+081/049	isch	1	i sch
+081/051	isch	1	i sch
+081/053	isch	1	i sch
+081/055	isch	1	i sch
+081/057	ischt	1	i sch t
+081/059	isch	1	i sch
+081/061	isch	1	i sch
+081/063	isch	1	i sch
+081/065	isch	1	i sch
+081/067	isch	1	i sch
+081/069	is	1	i s
+081/071	is	1	i s
+081/073	is	1	i s
+081/075	is	1	i s
+081/077	is	1	i s
+081/079	is	1	i s
+081/081	isz	1	i s z
+081/083	is	1	i s
+081/085	is	1	i s
+081/087	is	1	i s
+081/089	is	1	i s
+081/091	is	1	i s
+081/093	is	1	i s
+081/095	is	1	i s
+081/097	is	1	i s
+081/099	is	1	i s
+081/101	is	1	i s
+081/103	is	1	i s
+081/105	is	1	i s
+081/107	is	1	i s
+081/109	is	1	i s
+081/111	is	1	i s
+081/127	is	1	i s
+081/129	is	1	i s
+081/133	is	1	i s
+081/147	is	1	i s
+081/191	äs	1	ä s
+081/193	es	1	e s
+081/195	äs	1	ä s
+082/027	eesch	1	ee sch
+082/029	ischt	1	i sch t
+082/031	escht	1	e sch t
+082/033	esch	1	e sch
+082/035	ischt	1	i sch t
+082/037	esch	1	e sch
+082/039	isch	1	i sch
+082/041	isch	1	i sch
+082/043	isch	1	i sch
+082/045	esch	1	e sch
+082/047	isch	1	i sch
+082/049	isch	1	i sch
+082/051	isch	1	i sch
+082/053	isch	1	i sch
+082/055	ischt	1	i sch t
+082/057	isch	1	i sch
+082/059	isch	1	i sch
+082/061	ischt	1	i sch t
+082/063	ischt	1	i sch t
+082/065	ischt	1	i sch t
+082/067	isch	1	i sch
+082/069	ischd	1	i sch d
+082/071	ischt	1	i sch t
+082/073	is	1	i s
+082/075	is	1	i s
+082/077	iss	1	i ss
+082/079	is	1	i s
+082/081	iss	1	i ss
+082/083	is	1	i s
+082/085	is	1	i s
+082/087	is	1	i s
+082/089	is	1	i s
+082/091	is	1	i s
+082/093	is	1	i s
+082/095	is	1	i s
+082/097	is	1	i s
+082/099	is	1	i s
+082/101	is	1	i s
+082/103	iis	1	ii s
+082/105	is	1	i s
+082/107	is	1	i s
+082/111	is	1	i s
+082/113	is	1	i s
+082/117	is	1	i s
+082/129	is	1	i s
+082/131	is	1	i s
+082/133	is	1	i s
+082/135	is	1	i s
+082/145	is	1	i s
+082/147	ist	1	i s t
+082/191	äs	1	ä s
+082/195	äs	1	ä s
+083/027	escht	1	e sch t
+083/029	isch	1	i sch
+083/031	escht	1	e sch t
+083/033	esch	1	e sch
+083/035	esch	1	e sch
+083/037	isch	1	i sch
+083/039	isch	1	i sch
+083/041	isch	1	i sch
+083/043	isch	1	i sch
+083/045	isch	1	i sch
+083/047	isch	1	i sch
+083/049	isch	1	i sch
+083/051	ischt	1	i sch t
+083/053	ischt	1	i sch t
+083/055	ischd	1	i sch d
+083/057	isch	1	i sch
+083/059	ischt	1	i sch t
+083/061	ischt	1	i sch t
+083/063	ischt	1	i sch t
+083/065	ist	1	i s t
+083/067	ischt	1	i sch t
+083/069	ischt	1	i sch t
+083/071	isch	1	i sch
+083/073	ischt	1	i sch t
+083/075	is	1	i s
+083/077	iss	1	i ss
+083/079	is	1	i s
+083/081	is	1	i s
+083/083	is	1	i s
+083/085	is	1	i s
+083/087	is	1	i s
+083/089	is	1	i s
+083/091	is	1	i s
+083/093	is	1	i s
+083/095	is	1	i s
+083/097	is	1	i s
+083/099	is	1	i s
+083/101	is	1	i s
+083/103	is	1	i s
+083/105	is	1	i s
+083/107	is	1	i s
+083/111	is	1	i s
+083/113	is	1	i s
+083/115	is	1	i s
+083/117	is	1	i s
+083/119	is	1	i s
+083/121	is	1	i s
+083/129	is	1	i s
+083/131	is	1	i s
+083/133	is	1	i s
+083/135	is	1	i s
+083/139	is	1	i s
+083/143	is	1	i s
+083/145	is	1	i s
+083/147	is	1	i s
+083/149	is	1	i s
+083/173	ist	1	i s t
+083/195	es	1	e s
+084/031	escht	1	e sch t
+084/033	isch	1	i sch
+084/035	isch	1	i sch
+084/037	esch	1	e sch
+084/039	esch	1	e sch
+084/041	esch	1	e sch
+084/043	esch	1	e sch
+084/045	isch	1	i sch
+084/047	isch	1	i sch
+084/049	isch	1	i sch
+084/051	isch	1	i sch
+084/053	isch	1	i sch
+084/055	isch	1	i sch
+084/057	ischd	1	i sch d
+084/059	ischt	1	i sch t
+084/061	ischt	1	i sch t
+084/063	ischt	1	i sch t
+084/065	ischd	1	i sch d
+084/067	ist	1	i s t
+084/069	ischt	1	i sch t
+084/071	isch	1	i sch
+084/073	ischt	1	i sch t
+084/075	ischt	1	i sch t
+084/077	ist	1	i s t
+084/079	is	1	i s
+084/081	is	1	i s
+084/083	iss	1	i ss
+084/085	is	1	i s
+084/087	is	1	i s
+084/089	is	1	i s
+084/091	is	1	i s
+084/093	is	1	i s
+084/095	is	1	i s
+084/097	is	1	i s
+084/099	is	1	i s
+084/101	is	1	i s
+084/103	is	1	i s
+084/105	is	1	i s
+084/107	is	1	i s
+084/109	is	1	i s
+084/111	is	1	i s
+084/113	is	1	i s
+084/115	is	1	i s
+084/117	is	1	i s
+084/119	ist	1	i s t
+084/129	is	1	i s
+084/131	is	1	i s
+084/133	is	1	i s
+084/135	is	1	i s
+084/137	is	1	i s
+084/139	is	1	i s
+084/141	is	1	i s
+084/143	is	1	i s
+084/145	is	1	i s
+084/147	is	1	i s
+084/149	is	1	i s
+084/171	est	1	e s t
+084/173	ist	1	i s t
+084/195	äs	1	ä s
+085/031	isch	1	i sch
+085/033	isch	1	i sch
+085/035	esch	1	e sch
+085/037	esch	1	e sch
+085/039	esch	1	e sch
+085/041	esch	1	e sch
+085/043	esch	1	e sch
+085/045	esch	1	e sch
+085/047	isch	1	i sch
+085/049	isch	1	i sch
+085/051	isch	1	i sch
+085/053	ischt	1	i sch t
+085/055	ischt	1	i sch t
+085/057	ischt	1	i sch t
+085/059	ischt	1	i sch t
+085/061	ischt	1	i sch t
+085/063	ischd	1	i sch d
+085/065	ischt	1	i sch t
+085/067	ischt	1	i sch t
+085/069	ischt	1	i sch t
+085/071	ischt	1	i sch t
+085/073	ischt	1	i sch t
+085/075	isch	1	i sch
+085/077	ischt	1	i sch t
+085/079	ischt	1	i sch t
+085/081	is	1	i s
+085/083	is	1	i s
+085/085	es	1	e s
+085/087	is	1	i s
+085/089	is	1	i s
+085/091	is	1	i s
+085/093	is	1	i s
+085/095	is	1	i s
+085/097	is	1	i s
+085/101	is	1	i s
+085/103	is	1	i s
+085/105	is	1	i s
+085/107	is	1	i s
+085/109	is	1	i s
+085/111	is	1	i s
+085/113	is	1	i s
+085/115	is	1	i s
+085/117	is	1	i s
+085/119	is	1	i s
+085/121	is	1	i s
+085/123	is	1	i s
+085/125	is	1	i s
+085/127	is	1	i s
+085/129	is	1	i s
+085/131	is	1	i s
+085/133	is	1	i s
+085/135	is	1	i s
+085/137	is	1	i s
+085/139	is	1	i s
+085/141	is	1	i s
+085/143	is	1	i s
+085/145	is	1	i s
+085/147	is	1	i s
+085/149	is	1	i s
+085/175	eist	1	ei s t
+085/193	es	1	e s
+085/197	es	1	e s
+086/033	isch	1	i sch
+086/035	esch	1	e sch
+086/037	esch	1	e sch
+086/039	esch	1	e sch
+086/041	esch	1	e sch
+086/043	esch	1	e sch
+086/045	isch	1	i sch
+086/047	isch	1	i sch
+086/049	isch	1	i sch
+086/051	ist	1	i s t
+086/053	ischt	1	i sch t
+086/055	ischd	1	i sch d
+086/057	ischt	1	i sch t
+086/059	ischd	1	i sch d
+086/061	ischt	1	i sch t
+086/063	ischt	1	i sch t
+086/065	ischt	1	i sch t
+086/067	ist	1	i s t
+086/069	ischt	1	i sch t
+086/071	ischd	1	i sch d
+086/073	ischt	1	i sch t
+086/075	ischt	1	i sch t
+086/077	isch	1	i sch
+086/079	ischt	1	i sch t
+086/081	iss	1	i ss
+086/083	äs	1	ä s
+086/085	is	1	i s
+086/087	is	1	i s
+086/089	is	1	i s
+086/091	is	1	i s
+086/093	is	1	i s
+086/095	is	1	i s
+086/097	is	1	i s
+086/099	is	1	i s
+086/101	is	1	i s
+086/103	is	1	i s
+086/105	is	1	i s
+086/107	is	1	i s
+086/109	is	1	i s
+086/111	is	1	i s
+086/113	is	1	i s
+086/115	is	1	i s
+086/117	is	1	i s
+086/119	is	1	i s
+086/121	is	1	i s
+086/123	is	1	i s
+086/125	is	1	i s
+086/127	is	1	i s
+086/129	is	1	i s
+086/131	is	1	i s
+086/133	is	1	i s
+086/135	is	1	i s
+086/137	is	1	i s
+086/139	is	1	i s
+086/141	is	1	i s
+086/143	is	1	i s
+086/145	is	1	i s
+086/147	is	1	i s
+086/149	is	1	i s
+086/151	is	1	i s
+086/175	ist	1	i s t
+086/197	es	1	e s
+086/199	es	1	e s
+087/033	isch	1	i sch
+087/035	esch	1	e sch
+087/037	esch	1	e sch
+087/039	esch	1	e sch
+087/041	isch	1	i sch
+087/043	esch	1	e sch
+087/045	isch	1	i sch
+087/049	ischt	1	i sch t
+087/051	ischt	1	i sch t
+087/053	ischd	1	i sch d
+087/055	ischt	1	i sch t
+087/057	ischd	1	i sch d
+087/059	ist	1	i s t
+087/061	ist	1	i s t
+087/063	ischt	1	i sch t
+087/065	ischd	1	i sch d
+087/067	ist	1	i s t
+087/069	ischt	1	i sch t
+087/071	ischd	1	i sch d
+087/073	ischt	1	i sch t
+087/075	ischt	1	i sch t
+087/077	isch	1	i sch
+087/079	ist	1	i s t
+087/081	is	1	i s
+087/083	is	1	i s
+087/085	is	1	i s
+087/087	is	1	i s
+087/089	is	1	i s
+087/091	is	1	i s
+087/093	is	1	i s
+087/095	is	1	i s
+087/097	is	1	i s
+087/099	is	1	i s
+087/101	is	1	i s
+087/103	is	1	i s
+087/105	is	1	i s
+087/107	is	1	i s
+087/109	is	1	i s
+087/111	is	1	i s
+087/113	is	1	i s
+087/115	is	1	i s
+087/117	is	1	i s
+087/119	is	1	i s
+087/121	is	1	i s
+087/123	is	1	i s
+087/125	is	1	i s
+087/127	is	1	i s
+087/129	is	1	i s
+087/133	is	1	i s
+087/135	is	1	i s
+087/137	is	1	i s
+087/139	is	1	i s
+087/141	is	1	i s
+087/143	is	1	i s
+087/145	is	1	i s
+087/147	is	1	i s
+087/149	is	1	i s
+087/151	is	1	i s
+088/035	esch	1	e sch
+088/037	esch	1	e sch
+088/039	esch	1	e sch
+088/041	esch	1	e sch
+088/043	isst	1	i ss t
+088/045	ist	1	i s t
+088/047	ischt	1	i sch t
+088/049	ischt	1	i sch t
+088/051	ischt	1	i sch t
+088/053	ischt	1	i sch t
+088/055	isch	1	i sch
+088/057	ischt	1	i sch t
+088/059	ischt	1	i sch t
+088/061	ischt	1	i sch t
+088/063	ischt	1	i sch t
+088/065	ischt	1	i sch t
+088/067	ischt	1	i sch t
+088/069	ischd	1	i sch d
+088/071	ischt	1	i sch t
+088/073	ischt	1	i sch t
+088/075	isch	1	i sch
+088/077	ischt	1	i sch t
+088/079	ischt	1	i sch t
+088/081	is	1	i s
+088/083	is	1	i s
+088/085	is	1	i s
+088/087	is	1	i s
+088/089	is	1	i s
+088/091	is	1	i s
+088/093	is	1	i s
+088/095	is	1	i s
+088/097	is	1	i s
+088/099	is	1	i s
+088/101	is	1	i s
+088/103	is	1	i s
+088/105	is	1	i s
+088/107	is	1	i s
+088/109	is	1	i s
+088/113	is	1	i s
+088/115	is	1	i s
+088/117	is	1	i s
+088/121	is	1	i s
+088/123	is	1	i s
+088/127	is	1	i s
+088/129	is	1	i s
+088/131	is	1	i s
+088/137	is	1	i s
+088/139	is	1	i s
+088/141	is	1	i s
+088/143	is	1	i s
+088/145	is	1	i s
+088/147	is	1	i s
+088/149	is	1	i s
+089/035	isch	1	i sch
+089/037	esch	1	e sch
+089/039	esch	1	e sch
+089/041	esch	1	e sch
+089/043	esch	1	e sch
+089/045	ischt	1	i sch t
+089/047	ischt	1	i sch t
+089/049	ischt	1	i sch t
+089/051	ischt	1	i sch t
+089/053	ist	1	i s t
+089/055	ischt	1	i sch t
+089/057	ischt	1	i sch t
+089/059	ischt	1	i sch t
+089/061	ischt	1	i sch t
+089/063	ischt	1	i sch t
+089/065	ischt	1	i sch t
+089/067	ischt	1	i sch t
+089/069	ischt	1	i sch t
+089/071	ischt	1	i sch t
+089/073	ischt	1	i sch t
+089/075	ist	1	i s t
+089/077	ischt	1	i sch t
+089/079	isch	1	i sch
+089/081	is	1	i s
+089/083	is	1	i s
+089/085	iss	1	i ss
+089/087	isch	1	i sch
+089/089	is	1	i s
+089/091	is	1	i s
+089/093	NA	NA	-
+089/095	is	1	i s
+089/097	is	1	i s
+089/099	is	1	i s
+089/101	is	1	i s
+089/103	is	1	i s
+089/105	is	1	i s
+089/107	is	1	i s
+089/109	is	1	i s
+089/111	is	1	i s
+089/113	is	1	i s
+089/115	is	1	i s
+089/117	is	1	i s
+089/119	is	1	i s
+089/121	is	1	i s
+089/123	is	1	i s
+089/125	is	1	i s
+089/127	is	1	i s
+089/129	is	1	i s
+089/131	is	1	i s
+089/133	is	1	i s
+089/135	is	1	i s
+089/137	is	1	i s
+089/139	is	1	i s
+089/141	is	1	i s
+089/143	is	1	i s
+089/145	is	1	i s
+089/147	is	1	i s
+089/149	is	1	i s
+090/035	esch	1	e sch
+090/037	esch	1	e sch
+090/039	esch	1	e sch
+090/041	esch	1	e sch
+090/043	isch	1	i sch
+090/045	isch	1	i sch
+090/047	isch	1	i sch
+090/049	ischt	1	i sch t
+090/051	ischt	1	i sch t
+090/053	ist	1	i s t
+090/055	ist	1	i s t
+090/057	ist	1	i s t
+090/059	ischt	1	i sch t
+090/061	ischt	1	i sch t
+090/063	ischd	1	i sch d
+090/065	ischt	1	i sch t
+090/067	ischt	1	i sch t
+090/069	ischt	1	i sch t
+090/071	ischt	1	i sch t
+090/073	ischt	1	i sch t
+090/075	ischt	1	i sch t
+090/077	ischt	1	i sch t
+090/079	isch	1	i sch
+090/081	is	1	i s
+090/083	is	1	i s
+090/085	is	1	i s
+090/087	ist	1	i s t
+090/089	is	1	i s
+090/091	is	1	i s
+090/093	is	1	i s
+090/095	is	1	i s
+090/097	is	1	i s
+090/099	is	1	i s
+090/101	is	1	i s
+090/103	is	1	i s
+090/105	is	1	i s
+090/107	is	1	i s
+090/109	is	1	i s
+090/111	is	1	i s
+090/113	is	1	i s
+090/115	is	1	i s
+090/119	is	1	i s
+090/121	is	1	i s
+090/123	is	1	i s
+090/125	is	1	i s
+090/127	is	1	i s
+090/129	is	1	i s
+090/131	is	1	i s
+090/133	is	1	i s
+090/135	is	1	i s
+090/137	is	1	i s
+090/139	is	1	i s
+090/141	is	1	i s
+090/143	is	1	i s
+090/145	is	1	i s
+090/147	is	1	i s
+090/149	is	1	i s
+090/151	is	1	i s
+091/035	esch	1	e sch
+091/037	esch	1	e sch
+091/039	esch	1	e sch
+091/041	esch	1	e sch
+091/043	isch	1	i sch
+091/045	isch	1	i sch
+091/047	isch	1	i sch
+091/049	isch	1	i sch
+091/051	ischt	1	i sch t
+091/053	ist	1	i s t
+091/055	ischt	1	i sch t
+091/057	ischt	1	i sch t
+091/059	ischt	1	i sch t
+091/061	ischt	1	i sch t
+091/063	ischt	1	i sch t
+091/065	ist	1	i s t
+091/067	ischt	1	i sch t
+091/069	ischt	1	i sch t
+091/071	ischt	1	i sch t
+091/073	ischt	1	i sch t
+091/075	ischt	1	i sch t
+091/077	ist	1	i s t
+091/079	ischt	1	i sch t
+091/081	is	1	i s
+091/083	is	1	i s
+091/085	is	1	i s
+091/087	is	1	i s
+091/091	is	1	i s
+091/093	is	1	i s
+091/095	is	1	i s
+091/097	is	1	i s
+091/099	is	1	i s
+091/101	is	1	i s
+091/103	is	1	i s
+091/105	is	1	i s
+091/107	is	1	i s
+091/109	is	1	i s
+091/111	is	1	i s
+091/113	is	1	i s
+091/115	is	1	i s
+091/117	is	1	i s
+091/119	is	1	i s
+091/121	is	1	i s
+091/125	is	1	i s
+091/129	is	1	i s
+091/131	is	1	i s
+091/133	is	1	i s
+091/135	is	1	i s
+091/137	is	1	i s
+091/139	is	1	i s
+091/141	is	1	i s
+091/143	is	1	i s
+091/145	is	1	i s
+091/147	is	1	i s
+091/149	is	1	i s
+091/151	it	1	i t
+091/155	is	1	i s
+092/033	esch	1	e sch
+092/035	esch	1	e sch
+092/037	esch	1	e sch
+092/039	esch	1	e sch
+092/041	isch	1	i sch
+092/043	isch	1	i sch
+092/045	isch	1	i sch
+092/047	isch	1	i sch
+092/049	ischt	1	i sch t
+092/051	ischt	1	i sch t
+092/053	ist	1	i s t
+092/055	ischt	1	i sch t
+092/057	isch	1	i sch
+092/059	ischt	1	i sch t
+092/061	ist	1	i s t
+092/063	ischt	1	i sch t
+092/065	ischt	1	i sch t
+092/067	ist	1	i s t
+092/069	ischt	1	i sch t
+092/071	ischt	1	i sch t
+092/073	ischt	1	i sch t
+092/075	ischt	1	i sch t
+092/077	ischt	1	i sch t
+092/079	ist	1	i s t
+092/081	is	1	i s
+092/083	is	1	i s
+092/085	is	1	i s
+092/087	is	1	i s
+092/089	is	1	i s
+092/091	is	1	i s
+092/093	is	1	i s
+092/095	is	1	i s
+092/097	is	1	i s
+092/099	is	1	i s
+092/101	is	1	i s
+092/103	is	1	i s
+092/105	is	1	i s
+092/107	is	1	i s
+092/109	is	1	i s
+092/111	is	1	i s
+092/113	is	1	i s
+092/115	is	1	i s
+092/117	is	1	i s
+092/119	is	1	i s
+092/121	is	1	i s
+092/123	is	1	i s
+092/125	is	1	i s
+092/127	is	1	i s
+092/129	is	1	i s
+092/131	is	1	i s
+092/133	is	1	i s
+092/135	is	1	i s
+092/137	is	1	i s
+092/139	is	1	i s
+092/141	is	1	i s
+092/143	is	1	i s
+092/145	is	1	i s
+092/147	is	1	i s
+092/149	is	1	i s
+092/151	is	1	i s
+093/035	esch	1	e sch
+093/037	esch	1	e sch
+093/039	esch	1	e sch
+093/041	isch	1	i sch
+093/043	isch	1	i sch
+093/045	isch	1	i sch
+093/047	isch	1	i sch
+093/049	isch	1	i sch
+093/051	ischt	1	i sch t
+093/053	ischt	1	i sch t
+093/055	isch	1	i sch
+093/057	ischt	1	i sch t
+093/059	ischt	1	i sch t
+093/061	ischt	1	i sch t
+093/063	ischt	1	i sch t
+093/065	ischt	1	i sch t
+093/067	ischt	1	i sch t
+093/069	ischt	1	i sch t
+093/071	ischt	1	i sch t
+093/073	ischt	1	i sch t
+093/075	ist	1	i s t
+093/077	ischt	1	i sch t
+093/079	ischt	1	i sch t
+093/081	ischt	1	i sch t
+093/083	is	1	i s
+093/085	is	1	i s
+093/087	is	1	i s
+093/089	is	1	i s
+093/091	is	1	i s
+093/093	is	1	i s
+093/095	is	1	i s
+093/097	is	1	i s
+093/099	is	1	i s
+093/101	is	1	i s
+093/103	is	1	i s
+093/105	is	1	i s
+093/109	iss	1	i ss
+093/111	is	1	i s
+093/113	is	1	i s
+093/115	is	1	i s
+093/117	is	1	i s
+093/119	is	1	i s
+093/121	is	1	i s
+093/123	is	1	i s
+093/125	is	1	i s
+093/127	is	1	i s
+093/129	is	1	i s
+093/131	is	1	i s
+093/133	is	1	i s
+093/137	is	1	i s
+093/139	is	1	i s
+093/143	is	1	i s
+093/145	is	1	i s
+093/147	is	1	i s
+093/149	is	1	i s
+093/151	is	1	i s
+093/153	is	1	i s
+093/155	is	1	i s
+094/033	esch	1	e sch
+094/035	esch	1	e sch
+094/037	esch	1	e sch
+094/039	esch	1	e sch
+094/041	esch	1	e sch
+094/043	isch	1	i sch
+094/045	isch	1	i sch
+094/047	isch	1	i sch
+094/049	ischt	1	i sch t
+094/051	ischt	1	i sch t
+094/053	ischt	1	i sch t
+094/055	ischt	1	i sch t
+094/057	ischt	1	i sch t
+094/059	ist	1	i s t
+094/061	ischt	1	i sch t
+094/063	ischt	1	i sch t
+094/065	ischt	1	i sch t
+094/067	ischt	1	i sch t
+094/069	ist	1	i s t
+094/071	ischt	1	i sch t
+094/073	ischt	1	i sch t
+094/075	ischt	1	i sch t
+094/077	ischt	1	i sch t
+094/079	isch	1	i sch
+094/081	is	1	i s
+094/083	is	1	i s
+094/085	is	1	i s
+094/087	is	1	i s
+094/089	is	1	i s
+094/091	is	1	i s
+094/093	is	1	i s
+094/095	is	1	i s
+094/097	is	1	i s
+094/099	is	1	i s
+094/101	is	1	i s
+094/103	is	1	i s
+094/105	is	1	i s
+094/107	is	1	i s
+094/109	is	1	i s
+094/111	is	1	i s
+094/113	ist	1	i s t
+094/115	is	1	i s
+094/117	is	1	i s
+094/119	is	1	i s
+094/121	is	1	i s
+094/123	is	1	i s
+094/125	is	1	i s
+094/127	is	1	i s
+094/129	is	1	i s
+094/131	is	1	i s
+094/133	is	1	i s
+094/135	is	1	i s
+094/137	is	1	i s
+094/139	is	1	i s
+094/141	is	1	i s
+094/143	is	1	i s
+094/145	is	1	i s
+094/147	is	1	i s
+094/149	is	1	i s
+094/151	is	1	i s
+094/153	is	1	i s
+095/031	isch	1	i sch
+095/033	isch	1	i sch
+095/035	isch	1	i sch
+095/037	esch	1	e sch
+095/039	esch	1	e sch
+095/041	isch	1	i sch
+095/043	isch	1	i sch
+095/045	isch	1	i sch
+095/047	isch	1	i sch
+095/049	ischt	1	i sch t
+095/051	ischd	1	i sch d
+095/053	ischt	1	i sch t
+095/055	ischt	1	i sch t
+095/057	ischt	1	i sch t
+095/059	ischt	1	i sch t
+095/061	ischt	1	i sch t
+095/063	ist	1	i s t
+095/065	ischt	1	i sch t
+095/067	ischt	1	i sch t
+095/069	ischt	1	i sch t
+095/071	ischt	1	i sch t
+095/073	ist	1	i s t
+095/075	ischt	1	i sch t
+095/077	ist	1	i s t
+095/079	ischt	1	i sch t
+095/081	ischt	1	i sch t
+095/083	is	1	i s
+095/085	is	1	i s
+095/087	is	1	i s
+095/089	is	1	i s
+095/091	is	1	i s
+095/093	is	1	i s
+095/095	is	1	i s
+095/097	is	1	i s
+095/099	is	1	i s
+095/101	is	1	i s
+095/103	is	1	i s
+095/105	is	1	i s
+095/107	is	1	i s
+095/109	is	1	i s
+095/111	is	1	i s
+095/113	is	1	i s
+095/115	is	1	i s
+095/117	is	1	i s
+095/119	ist	1	i s t
+095/121	is	1	i s
+095/123	is	1	i s
+095/125	is	1	i s
+095/129	is	1	i s
+095/131	is	1	i s
+095/133	is	1	i s
+095/139	is	1	i s
+095/141	is	1	i s
+095/143	is	1	i s
+095/145	is	1	i s
+095/147	is	1	i s
+095/149	is	1	i s
+095/151	is	1	i s
+095/153	is	1	i s
+095/155	is	1	i s
+096/031	isch	1	i sch
+096/033	esch	1	e sch
+096/035	esch	1	e sch
+096/037	esch	1	e sch
+096/039	esch	1	e sch
+096/041	isch	1	i sch
+096/043	isch	1	i sch
+096/045	isch	1	i sch
+096/047	isch	1	i sch
+096/049	ischt	1	i sch t
+096/051	ist	1	i s t
+096/053	ischt	1	i sch t
+096/055	ischt	1	i sch t
+096/057	ischt	1	i sch t
+096/059	ischt	1	i sch t
+096/061	ischt	1	i sch t
+096/063	ist	1	i s t
+096/065	ischt	1	i sch t
+096/067	ischt	1	i sch t
+096/069	ischt	1	i sch t
+096/071	ischt	1	i sch t
+096/075	ischt	1	i sch t
+096/077	ischt	1	i sch t
+096/079	ischt	1	i sch t
+096/081	is	1	i s
+096/083	is	1	i s
+096/085	is	1	i s
+096/087	is	1	i s
+096/089	is	1	i s
+096/091	is	1	i s
+096/093	is	1	i s
+096/095	is	1	i s
+096/097	is	1	i s
+096/099	is	1	i s
+096/101	ist	1	i s t
+096/103	is	1	i s
+096/105	is	1	i s
+096/107	is	1	i s
+096/109	is	1	i s
+096/111	is	1	i s
+096/113	is	1	i s
+096/115	is	1	i s
+096/117	is	1	i s
+096/119	is	1	i s
+096/121	is	1	i s
+096/123	is	1	i s
+096/125	is	1	i s
+096/129	is	1	i s
+096/131	is	1	i s
+096/135	is	1	i s
+096/137	ist	1	i s t
+096/139	is	1	i s
+096/141	is	1	i s
+096/143	is	1	i s
+096/145	is	1	i s
+096/147	is	1	i s
+096/151	is	1	i s
+096/153	is	1	i s
+096/155	is	1	i s
+097/031	esch	1	e sch
+097/033	esch	1	e sch
+097/035	esch	1	e sch
+097/037	esch	1	e sch
+097/039	isch	1	i sch
+097/041	isch	1	i sch
+097/043	isch	1	i sch
+097/045	isch	1	i sch
+097/047	ischt	1	i sch t
+097/049	ischd	1	i sch d
+097/051	ischt	1	i sch t
+097/053	ischt	1	i sch t
+097/055	ischt	1	i sch t
+097/057	ischt	1	i sch t
+097/059	ischt	1	i sch t
+097/061	ischt	1	i sch t
+097/063	ischt	1	i sch t
+097/065	ist	1	i s t
+097/067	ischt	1	i sch t
+097/069	isch	1	i sch
+097/071	ischt	1	i sch t
+097/073	isch	1	i sch
+097/075	ischt	1	i sch t
+097/077	ischt	1	i sch t
+097/079	ischt	1	i sch t
+097/081	isch	1	i sch
+097/083	is	1	i s
+097/085	is	1	i s
+097/087	is	1	i s
+097/089	ist	1	i s t
+097/091	is	1	i s
+097/093	is	1	i s
+097/095	is	1	i s
+097/097	is	1	i s
+097/099	is	1	i s
+097/103	is	1	i s
+097/105	is	1	i s
+097/107	is	1	i s
+097/109	is	1	i s
+097/113	is	1	i s
+097/125	is	1	i s
+097/131	is	1	i s
+097/133	is	1	i s
+097/139	is	1	i s
+097/141	is	1	i s
+097/143	is	1	i s
+097/145	is	1	i s
+097/149	is	1	i s
+097/153	is	1	i s
+098/033	esch	1	e sch
+098/035	esch	1	e sch
+098/037	esch	1	e sch
+098/039	isch	1	i sch
+098/041	isch	1	i sch
+098/043	isch	1	i sch
+098/045	isch	1	i sch
+098/047	isch	1	i sch
+098/049	isch	1	i sch
+098/051	isch	1	i sch
+098/053	ischd	1	i sch d
+098/055	ischt	1	i sch t
+098/057	ischd	1	i sch d
+098/059	ischt	1	i sch t
+098/061	ischt	1	i sch t
+098/063	ischt	1	i sch t
+098/065	ist	1	i s t
+098/067	ischt	1	i sch t
+098/069	ischt	1	i sch t
+098/071	ischt	1	i sch t
+098/073	ischt	1	i sch t
+098/075	ist	1	i s t
+098/077	ischt	1	i sch t
+098/079	is	1	i s
+098/081	is	1	i s
+098/083	is	1	i s
+098/085	is	1	i s
+098/087	is	1	i s
+098/089	is	1	i s
+098/091	is	1	i s
+098/093	is	1	i s
+098/095	is	1	i s
+098/097	is	1	i s
+098/103	is	1	i s
+098/105	is	1	i s
+098/107	is	1	i s
+098/109	is	1	i s
+098/111	is	1	i s
+098/119	is	1	i s
+098/123	is	1	i s
+098/125	is	1	i s
+098/127	is	1	i s
+098/135	is	1	i s
+098/137	is	1	i s
+098/139	ist	1	i s t
+098/141	is	1	i s
+098/143	is	1	i s
+098/145	is	1	i s
+098/147	ist	1	i s t
+098/149	is	1	i s
+098/151	is	1	i s
+099/033	isch	1	i sch
+099/035	esch	1	e sch
+099/037	isch	1	i sch
+099/039	isch	1	i sch
+099/041	isch	1	i sch
+099/043	isch	1	i sch
+099/045	isch	1	i sch
+099/047	isch	1	i sch
+099/049	isch	1	i sch
+099/051	isch	1	i sch
+099/053	ischt	1	i sch t
+099/055	isch	1	i sch
+099/057	ischt	1	i sch t
+099/059	ischt	1	i sch t
+099/063	ischt	1	i sch t
+099/065	ischt	1	i sch t
+099/067	ischt	1	i sch t
+099/069	ischt	1	i sch t
+099/071	ischt	1	i sch t
+099/073	ischt	1	i sch t
+099/075	ischt	1	i sch t
+099/077	ist	1	i s t
+099/081	ist	1	i s t
+099/083	is	1	i s
+099/085	is	1	i s
+099/089	is	1	i s
+099/093	is	1	i s
+099/095	is	1	i s
+099/099	is	1	i s
+099/101	is	1	i s
+099/103	ist	1	i s t
+099/105	is	1	i s
+099/107	is	1	i s
+099/109	is	1	i s
+099/111	is	1	i s
+099/113	is	1	i s
+099/121	is	1	i s
+099/123	is	1	i s
+099/125	is	1	i s
+099/131	is	1	i s
+099/137	is	1	i s
+099/139	is	1	i s
+099/141	is	1	i s
+099/143	is	1	i s
+099/145	is	1	i s
+099/147	is	1	i s
+100/033	isch	1	i sch
+100/035	esch	1	e sch
+100/037	isch	1	i sch
+100/039	isch	1	i sch
+100/041	isch	1	i sch
+100/043	isch	1	i sch
+100/045	isch	1	i sch
+100/049	esch	1	e sch
+100/051	ischt	1	i sch t
+100/053	ischt	1	i sch t
+100/055	isch	1	i sch
+100/057	ist	1	i s t
+100/059	ischt	1	i sch t
+100/061	ischt	1	i sch t
+100/065	ischt	1	i sch t
+100/067	ischd	1	i sch d
+100/069	ischt	1	i sch t
+100/071	ischt	1	i sch t
+100/073	isch	1	i sch
+100/075	ischt	1	i sch t
+100/077	ischt	1	i sch t
+100/081	ischt	1	i sch t
+100/083	ischt	1	i sch t
+100/089	is	1	i s
+100/093	is	1	i s
+100/095	is	1	i s
+100/097	is	1	i s
+100/099	iss	1	i ss
+100/101	is	1	i s
+100/109	is	1	i s
+100/111	is	1	i s
+100/113	is	1	i s
+100/115	is	1	i s
+100/117	is	1	i s
+100/119	is	1	i s
+100/121	is	1	i s
+100/125	is	1	i s
+100/127	is	1	i s
+100/129	is	1	i s
+100/133	is	1	i s
+100/135	is	1	i s
+100/141	is	1	i s
+100/143	is	1	i s
+100/145	is	1	i s
+101/035	isch	1	i sch
+101/037	isch	1	i sch
+101/039	isch	1	i sch
+101/041	isch	1	i sch
+101/043	isch	1	i sch
+101/045	isch	1	i sch
+101/047	isch	1	i sch
+101/049	isch	1	i sch
+101/051	ischt	1	i sch t
+101/053	isch	1	i sch
+101/055	ischt	1	i sch t
+101/057	isch	1	i sch
+101/059	ist	1	i s t
+101/061	ischt	1	i sch t
+101/063	ischt	1	i sch t
+101/065	ist	1	i s t
+101/067	ischt	1	i sch t
+101/071	ischt	1	i sch t
+101/075	ischt	1	i sch t
+101/077	ischt	1	i sch t
+101/079	ischt	1	i sch t
+101/081	ischt	1	i sch t
+101/091	is	1	i s
+101/093	is	1	i s
+101/095	is	1	i s
+101/097	is	1	i s
+101/099	is	1	i s
+101/101	is	1	i s
+101/103	is	1	i s
+101/107	is	1	i s
+101/109	is	1	i s
+101/113	is	1	i s
+101/115	is	1	i s
+101/121	is	1	i s
+101/125	is	1	i s
+101/129	is	1	i s
+101/131	is	1	i s
+101/133	is	1	i s
+101/137	is	1	i s
+101/139	is	1	i s
+101/141	ist	1	i s t
+101/143	is	1	i s
+101/145	is	1	i s
+101/147	is	1	i s
+102/037	isch	1	i sch
+102/039	isch	1	i sch
+102/041	isch	1	i sch
+102/043	isch	1	i sch
+102/045	isch	1	i sch
+102/047	isch	1	i sch
+102/049	ischt	1	i sch t
+102/051	ischt	1	i sch t
+102/053	ischt	1	i sch t
+102/055	ischt	1	i sch t
+102/057	ischt	1	i sch t
+102/059	ischt	1	i sch t
+102/061	ischt	1	i sch t
+102/063	ist	1	i s t
+102/065	ischt	1	i sch t
+102/067	ist	1	i s t
+102/069	ischt	1	i sch t
+102/071	ischt	1	i sch t
+102/073	ischt	1	i sch t
+102/075	ischt	1	i sch t
+102/077	ischt	1	i sch t
+102/079	ischt	1	i sch t
+102/081	ischt	1	i sch t
+102/083	ist	1	i s t
+102/089	isch	1	i sch
+102/091	is	1	i s
+102/093	is	1	i s
+102/095	is	1	i s
+102/097	is	1	i s
+102/099	is	1	i s
+102/103	is	1	i s
+102/107	is	1	i s
+102/109	is	1	i s
+102/113	is	1	i s
+102/115	is	1	i s
+102/127	is	1	i s
+102/129	is	1	i s
+102/131	is	1	i s
+102/135	is	1	i s
+102/137	is	1	i s
+102/139	is	1	i s
+102/141	is	1	i s
+102/143	is	1	i s
+102/145	is	1	i s
+103/039	isch	1	i sch
+103/041	isch	1	i sch
+103/043	isch	1	i sch
+103/045	esch	1	e sch
+103/047	isch	1	i sch
+103/049	escht	1	e sch t
+103/051	ischt	1	i sch t
+103/053	isch	1	i sch
+103/055	ischt	1	i sch t
+103/057	ischt	1	i sch t
+103/059	ischt	1	i sch t
+103/063	ischt	1	i sch t
+103/065	ischt	1	i sch t
+103/067	ischt	1	i sch t
+103/069	ischt	1	i sch t
+103/071	ischt	1	i sch t
+103/073	ischt	1	i sch t
+103/075	ischt	1	i sch t
+103/077	ischt	1	i sch t
+103/079	isch	1	i sch
+103/081	isch	1	i sch
+103/083	ischt	1	i sch t
+103/085	ischt	1	i sch t
+103/087	ischt	1	i sch t
+103/089	ischt	1	i sch t
+103/091	ischt	1	i sch t
+103/097	is	1	i s
+103/099	is	1	i s
+103/101	is	1	i s
+103/105	is	1	i s
+103/107	ist	1	i s t
+103/111	is	1	i s
+103/121	is	1	i s
+103/125	is	1	i s
+103/127	is	1	i s
+103/131	is	1	i s
+103/133	is	1	i s
+103/135	is	1	i s
+103/137	is	1	i s
+103/139	is	1	i s
+103/141	is	1	i s
+103/143	is	1	i s
+103/145	iz	1	i z
+104/033	isch	1	i sch
+104/035	isch	1	i sch
+104/037	isch	1	i sch
+104/039	isch	1	i sch
+104/041	isch	1	i sch
+104/043	esch	1	e sch
+104/045	esch	1	e sch
+104/047	isch	1	i sch
+104/049	isch	1	i sch
+104/051	isch	1	i sch
+104/053	isch	1	i sch
+104/055	isch	1	i sch
+104/057	ischt	1	i sch t
+104/059	ischt	1	i sch t
+104/061	ischt	1	i sch t
+104/063	ischt	1	i sch t
+104/065	ischt	1	i sch t
+104/067	ist	1	i s t
+104/071	ischt	1	i sch t
+104/075	ischt	1	i sch t
+104/077	ischt	1	i sch t
+104/079	ischt	1	i sch t
+104/081	isch	1	i sch
+104/083	isch	1	i sch
+104/085	isch	1	i sch
+104/091	ischt	1	i sch t
+104/095	ist	1	i s t
+104/101	is	1	i s
+104/103	is	1	i s
+104/107	is	1	i s
+104/111	is	1	i s
+104/113	ist	1	i s t
+104/119	is	1	i s
+104/121	is	1	i s
+104/123	is	1	i s
+104/125	is	1	i s
+104/127	is	1	i s
+104/131	äs	1	ä s
+104/133	is	1	i s
+104/135	is	1	i s
+104/137	is	1	i s
+104/139	is	1	i s
+104/141	is	1	i s
+104/143	is	1	i s
+104/145	is	1	i s
+105/031	isch	1	i sch
+105/033	isch	1	i sch
+105/035	isch	1	i sch
+105/037	isch	1	i sch
+105/039	ischt	1	i sch t
+105/041	isch	1	i sch
+105/043	escht	1	e sch t
+105/045	ischt	1	i sch t
+105/047	esch	1	e sch
+105/049	esch	1	e sch
+105/051	ischt	1	i sch t
+105/053	isch	1	i sch
+105/055	ischt	1	i sch t
+105/057	isch	1	i sch
+105/059	ischt	1	i sch t
+105/061	ischt	1	i sch t
+105/063	ischt	1	i sch t
+105/065	ischt	1	i sch t
+105/067	ischt	1	i sch t
+105/069	ischt	1	i sch t
+105/071	ischt	1	i sch t
+105/073	ischt	1	i sch t
+105/075	ischt	1	i sch t
+105/077	isch	1	i sch
+105/079	ischt	1	i sch t
+105/081	ischt	1	i sch t
+105/085	isch	1	i sch
+105/087	ischt	1	i sch t
+105/089	ist	1	i s t
+105/103	is	1	i s
+105/105	is	1	i s
+105/111	is	1	i s
+105/113	is	1	i s
+105/115	is	1	i s
+105/117	is	1	i s
+105/119	is	1	i s
+105/121	is	1	i s
+105/125	is	1	i s
+105/127	is	1	i s
+105/131	is	1	i s
+105/133	is	1	i s
+105/135	is	1	i s
+105/137	is	1	i s
+105/141	is	1	i s
+105/143	is	1	i s
+105/145	es	1	e s
+106/033	isch	1	i sch
+106/035	isch	1	i sch
+106/037	isch	1	i sch
+106/039	isch	1	i sch
+106/041	isch	1	i sch
+106/043	esch	1	e sch
+106/045	isch	1	i sch
+106/047	esch	1	e sch
+106/049	esch	1	e sch
+106/051	isch	1	i sch
+106/053	isch	1	i sch
+106/057	isch	1	i sch
+106/061	ist	1	i s t
+106/063	ischt	1	i sch t
+106/067	ischt	1	i sch t
+106/071	ischt	1	i sch t
+106/073	ischt	1	i sch t
+106/075	ischt	1	i sch t
+106/077	ischt	1	i sch t
+106/079	ischt	1	i sch t
+106/081	ischt	1	i sch t
+106/085	ischt	1	i sch t
+106/087	isch	1	i sch
+106/093	ischt	1	i sch t
+106/097	ischt	1	i sch t
+106/099	isch	1	i sch
+106/103	ischt	1	i sch t
+106/111	is	1	i s
+106/115	is	1	i s
+106/121	is	1	i s
+106/123	is	1	i s
+106/125	is	1	i s
+106/129	is	1	i s
+106/131	is	1	i s
+106/133	is	1	i s
+106/135	is	1	i s
+106/137	is	1	i s
+106/139	is	1	i s
+106/141	is	1	i s
+106/143	is	1	i s
+106/145	es	1	e s
+107/033	isch	1	i sch
+107/035	isch	1	i sch
+107/037	isch	1	i sch
+107/039	isch	1	i sch
+107/041	ist	1	i s t
+107/043	isch	1	i sch
+107/045	ischt	1	i sch t
+107/047	ischt	1	i sch t
+107/049	isch	1	i sch
+107/051	isch	1	i sch
+107/053	isch	1	i sch
+107/057	ischt	1	i sch t
+107/059	ischt	1	i sch t
+107/063	icht	1	i ch t
+107/065	ischt	1	i sch t
+107/071	ischt	1	i sch t
+107/075	ischt	1	i sch t
+107/081	ischt	1	i sch t
+107/085	isch	1	i sch
+107/087	ischt	1	i sch t
+107/089	isch	1	i sch
+107/091	ischt	1	i sch t
+107/097	isch	1	i sch
+107/099	ischt	1	i sch t
+107/103	isch	1	i sch
+107/105	is	1	i s
+107/107	is	1	i s
+107/111	is	1	i s
+107/119	is	1	i s
+107/121	is	1	i s
+107/123	is	1	i s
+107/125	is	1	i s
+107/127	is	1	i s
+107/129	is	1	i s
+107/131	is	1	i s
+107/133	is	1	i s
+107/135	is	1	i s
+107/137	is	1	i s
+107/139	is	1	i s
+107/141	is	1	i s
+107/143	is	1	i s
+108/033	isch	1	i sch
+108/035	isch	1	i sch
+108/037	isch	1	i sch
+108/039	isch	1	i sch
+108/041	isch	1	i sch
+108/043	isch	1	i sch
+108/047	ischt	1	i sch t
+108/049	isch	1	i sch
+108/063	isch	1	i sch
+108/065	ischt	1	i sch t
+108/067	ischt	1	i sch t
+108/075	isch	1	i sch
+108/079	ischt	1	i sch t
+108/081	ischt	1	i sch t
+108/085	ist	1	i s t
+108/087	isch	1	i sch
+108/091	ischt	1	i sch t
+108/099	isch	1	i sch
+108/101	ischt	1	i sch t
+108/103	is	1	i s
+108/105	ischt	1	i sch t
+108/109	is	1	i s
+108/111	is	1	i s
+108/113	is	1	i s
+108/117	is	1	i s
+108/119	is	1	i s
+108/121	is	1	i s
+108/123	is	1	i s
+108/125	is	1	i s
+108/127	is	1	i s
+108/129	is	1	i s
+108/131	is	1	i s
+108/133	is	1	i s
+108/135	is	1	i s
+108/137	is	1	i s
+108/139	is	1	i s
+108/141	is	1	i s
+109/035	isch	1	i sch
+109/037	isch	1	i sch
+109/039	isch	1	i sch
+109/041	isch	1	i sch
+109/043	isch	1	i sch
+109/045	ischt	1	i sch t
+109/049	ist	1	i s t
+109/053	isch	1	i sch
+109/061	isch	1	i sch
+109/063	isch	1	i sch
+109/065	ischt	1	i sch t
+109/067	ischt	1	i sch t
+109/075	ist	1	i s t
+109/083	ischt	1	i sch t
+109/087	isch	1	i sch
+109/089	isch	1	i sch
+109/091	isch	1	i sch
+109/093	isch	1	i sch
+109/095	isch	1	i sch
+109/097	ischt	1	i sch t
+109/099	ist	1	i s t
+109/101	ischt	1	i sch t
+109/103	ist	1	i s t
+109/107	is	1	i s
+109/109	is	1	i s
+109/111	is	1	i s
+109/113	is	1	i s
+109/115	is	1	i s
+109/117	is	1	i s
+109/119	is	1	i s
+109/121	is	1	i s
+109/123	is	1	i s
+109/125	is	1	i s
+109/127	is	1	i s
+109/129	is	1	i s
+109/131	is	1	i s
+109/133	is	1	i s
+109/135	is	1	i s
+109/137	is	1	i s
+109/139	is	1	i s
+110/035	isch	1	i sch
+110/039	isch	1	i sch
+110/041	ischt	1	i sch t
+110/043	ischt	1	i sch t
+110/045	ischt	1	i sch t
+110/047	ischt	1	i sch t
+110/049	ischt	1	i sch t
+110/057	ist	1	i s t
+110/061	ischt	1	i sch t
+110/065	isch	1	i sch
+110/075	isch	1	i sch
+110/079	ist	1	i s t
+110/081	isch	1	i sch
+110/083	isch	1	i sch
+110/087	isch	1	i sch
+110/089	isch	1	i sch
+110/091	isch	1	i sch
+110/093	isch	1	i sch
+110/095	isch	1	i sch
+110/097	isch	1	i sch
+110/099	isch	1	i sch
+110/101	ist	1	i s t
+110/105	is	1	i s
+110/107	is	1	i s
+110/111	is	1	i s
+110/113	is	1	i s
+110/115	is	1	i s
+110/117	is	1	i s
+110/119	is	1	i s
+110/121	is	1	i s
+110/125	is	1	i s
+110/127	is	1	i s
+110/129	is	1	i s
+110/131	is	1	i s
+110/133	is	1	i s
+110/135	is	1	i s
+110/137	is	1	i s
+110/139	is	1	i s
+111/035	escht	1	e sch t
+111/037	ischt	1	i sch t
+111/039	ischt	1	i sch t
+111/041	isch	1	i sch
+111/043	ischt	1	i sch t
+111/045	ischt	1	i sch t
+111/059	ischt	1	i sch t
+111/073	isch	1	i sch
+111/075	isch	1	i sch
+111/077	ist	1	i s t
+111/079	isch	1	i sch
+111/081	isch	1	i sch
+111/083	isch	1	i sch
+111/087	is	1	i s
+111/089	isch	1	i sch
+111/105	is	1	i s
+111/107	is	1	i s
+111/109	is	1	i s
+111/111	is	1	i s
+111/113	is	1	i s
+111/115	is	1	i s
+111/117	is	1	i s
+111/119	is	1	i s
+111/121	is	1	i s
+111/123	is	1	i s
+111/125	is	1	i s
+112/037	ischt	1	i sch t
+112/039	ischt	1	i sch t
+112/041	ischt	1	i sch t
+112/043	ischt	1	i sch t
+112/047	ischt	1	i sch t
+112/059	isch	1	i sch
+112/061	ischt	1	i sch t
+112/063	ist	1	i s t
+112/075	isch	1	i sch
+112/081	ischt	1	i sch t
+112/083	isch	1	i sch
+112/085	isch	1	i sch
+112/111	is	1	i s
+112/115	is	1	i s
+112/117	is	1	i s
+112/119	is	1	i s
+113/035	ist	1	i s t
+113/037	ischt	1	i sch t
+113/039	ischt	1	i sch t
+113/047	ischt	1	i sch t
+113/079	ischt	1	i sch t
+113/081	ischt	1	i sch t
+113/083	isch	1	i sch
+113/085	isch	1	i sch
+113/087	isch	1	i sch
+113/121	ist	1	i s t
+113/123	is	1	i s
+114/035	isch	1	i sch
+114/045	ischt	1	i sch t
+114/083	isch	1	i sch
+114/085	ischt	1	i sch t
+115/041	ischt	1	i sch t
+115/043	ischt	1	i sch t
+115/045	ischt	1	i sch t
+115/083	isch	1	i sch
+115/085	ist	1	i s t
+116/043	ischt	1	i sch t
+116/045	ischt	1	i sch t
+116/083	isch	1	i sch
+117/043	ischt	1	i sch t
+117/045	ischt	1	i sch t
+118/041	ischt	1	i sch t
+119/083	iss	1	i ss
+120/085	is	1	i s
+121/127	ischt	1	i sch t
+122/127	ischt	1	i sch t
+122/129	ischt	1	i sch t
+123/081	ischt	1	i sch t
+123/123	ischt	1	i sch t
+123/125	ischt	1	i sch t
+123/127	ischt	1	i sch t
+123/129	ischt	1	i sch t
+124/125	ischt	1	i sch t
+124/127	ischt	1	i sch t
+124/129	ischt	1	i sch t

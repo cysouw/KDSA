@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	sien	1	s ie n
+002/201	sin	1	s i n
+002/203	sien	1	s ie n
+002/205	syn	1	s y n
+003/203	sien	1	s ie n
+003/205	syn	1	s y n
+004/205	sien	1	s ie n
+005/205	sien	1	s ie n
+005/207	sien	1	s ie n
+006/205	sien	1	s ie n
+006/207	sien	1	s ie n
+007/205	sien	1	s ie n
+007/207	sin	1	s i n
+007/209	syn	1	s y n
+007/211	sin	1	s i n
+008/199	sien	1	s ie n
+008/203	sin	1	s i n
+008/205	sin	1	s i n
+008/207	sin	1	s i n
+008/209	sien	1	s ie n
+008/211	sien	1	s ie n
+008/213	siin	1	s ii n
+009/199	sihn	1	s ih n
+009/203	sien	1	s ie n
+009/207	sin	1	s i n
+009/209	sien	1	s ie n
+009/211	sin	1	s i n
+009/213	sien	1	s ie n
+009/215	sinn	1	s i nn
+009/217	sin	1	s i n
+010/195	sien	1	s ie n
+010/203	sin	1	s i n
+010/207	sien	1	s ie n
+010/209	sün	1	s ü n
+010/211	sihn	1	s ih n
+010/213	sien	1	s ie n
+010/215	sin	1	s i n
+010/217	sien	1	s ie n
+010/219	sin	1	s i n
+011/049	sin	1	s i n
+011/053	sin	1	s i n
+011/055	sin	1	s i n
+011/057	hans	1	h a n s
+011/059	sin	1	s i n
+011/061	hans	1	h a n s
+011/063	hans	1	h a n s
+011/065	hans	1	h a n s
+011/067	min	1	m i n
+011/069	min	1	m i n
+011/187	sien	1	s ie n
+011/189	sin	1	s i n
+011/191	sin	1	s i n
+011/195	sin	1	s i n
+011/197	sien	1	s ie n
+011/203	sien	1	s ie n
+011/205	sien	1	s ie n
+011/207	sien	1	s ie n
+011/209	sien	1	s ie n
+011/211	sien	1	s ie n
+011/213	siin	1	s ii n
+011/215	sien	1	s ie n
+011/217	sien	1	s ie n
+011/219	sin	1	s i n
+012/047	sin	1	s i n
+012/049	sin	1	s i n
+012/051	sin	1	s i n
+012/053	sin	1	s i n
+012/055	sin	1	s i n
+012/057	sin	1	s i n
+012/059	sin	1	s i n
+012/061	hans	1	h a n s
+012/063	hans	1	h a n s
+012/065	hans	1	h a n s
+012/067	hans	1	h a n s
+012/069	hans	1	h a n s
+012/187	sin	1	s i n
+012/189	sin	1	s i n
+012/191	sien	1	s ie n
+012/193	sin	1	s i n
+012/195	sien	1	s ie n
+012/197	sien	1	s ie n
+012/199	sien	1	s ie n
+012/201	sie	1	s ie
+012/203	sin	1	s i n
+012/205	sin	1	s i n
+012/207	sien	1	s ie n
+012/209	sien	1	s ie n
+012/211	sien	1	s ie n
+012/213	sien	1	s ie n
+012/215	sien	1	s ie n
+012/217	sin	1	s i n
+012/219	sien	1	s ie n
+012/221	sien	1	s ie n
+012/223	sin	1	s i n
+013/051	senn	1	s e nn
+013/053	san	1	s a n
+013/055	san	1	s a n
+013/057	sin	1	s i n
+013/059	sin	1	s i n
+013/061	sin	1	s i n
+013/063	sin	1	s i n
+013/065	sien	1	s ie n
+013/067	sin	1	s i n
+013/161	sien	1	s ie n
+013/163	sien	1	s ie n
+013/165	sün	1	s ü n
+013/167	sien	1	s ie n
+013/187	sien	1	s ie n
+013/189	sien	1	s ie n
+013/191	sin	1	s i n
+013/193	sien	1	s ie n
+013/195	sien	1	s ie n
+013/197	sien	1	s ie n
+013/199	sien	1	s ie n
+013/201	sin	1	s i n
+013/203	sin	1	s i n
+013/207	sien	1	s ie n
+013/209	sien	1	s ie n
+013/211	sien	1	s ie n
+013/213	sien	1	s ie n
+013/215	sien	1	s ie n
+013/217	sien	1	s ie n
+013/219	sien	1	s ie n
+013/221	sien	1	s ie n
+013/223	sien	1	s ie n
+014/047	san	1	s a n
+014/049	san	1	s a n
+014/051	san	1	s a n
+014/053	sann	1	s a nn
+014/055	san	1	s a n
+014/057	san	1	s a n
+014/059	siin	1	s ii n
+014/061	sin	1	s i n
+014/063	sien	1	s ie n
+014/065	sin	1	s i n
+014/067	sien	1	s ie n
+014/109	sin	1	s i n
+014/159	sien	1	s ie n
+014/161	sien	1	s ie n
+014/163	sien	1	s ie n
+014/165	sien	1	s ie n
+014/167	sin	1	s i n
+014/169	sien	1	s ie n
+014/187	sien	1	s ie n
+014/189	siehn	1	s ieh n
+014/191	sin	1	s i n
+014/193	sien	1	s ie n
+014/195	siin	1	s ii n
+014/197	sin	1	s i n
+014/199	sien	1	s ie n
+014/201	sin	1	s i n
+014/203	sin	1	s i n
+014/205	jue	1	j ue
+014/207	sien	1	s ie n
+014/209	sihn	1	s ih n
+014/211	sien	1	s ie n
+014/213	sin	1	s i n
+014/215	sien	1	s ie n
+014/217	sien	1	s ie n
+014/219	sien	1	s ie n
+014/221	sien	1	s ie n
+015/049	san	1	s a n
+015/051	san	1	s a n
+015/053	san	1	s a n
+015/055	san	1	s a n
+015/057	sann	1	s a nn
+015/059	sin	1	s i n
+015/061	sien	1	s ie n
+015/063	sin	1	s i n
+015/065	sin	1	s i n
+015/067	sin	1	s i n
+015/105	sin	1	s i n
+015/107	sien	1	s ie n
+015/109	sin	1	s i n
+015/151	sia	1	s ia
+015/153	sien	1	s ie n
+015/155	sin	1	s i n
+015/157	sia	1	s ia
+015/159	sie	1	s ie
+015/161	sin	1	s i n
+015/163	sien	1	s ie n
+015/165	sien	1	s ie n
+015/167	seen	1	s ee n
+015/169	sin	1	s i n
+015/173	sin	1	s i n
+015/187	siehn	1	s ieh n
+015/191	sien	1	s ie n
+015/193	sien	1	s ie n
+015/195	sin	1	s i n
+015/197	sien	1	s ie n
+015/199	siin	1	s ii n
+015/201	sin	1	s i n
+015/203	sin	1	s i n
+015/205	sin	1	s i n
+015/207	sien	1	s ie n
+015/209	sin	1	s i n
+015/211	sin	1	s i n
+015/213	sin	1	s i n
+015/215	sien	1	s ie n
+015/217	sin	1	s i n
+015/219	siin	1	s ii n
+015/221	sien	1	s ie n
+016/051	saen	1	s ae n
+016/055	san	1	s a n
+016/057	sin	1	s i n
+016/059	sin	1	s i n
+016/061	sin	1	s i n
+016/063	sin	1	s i n
+016/065	sin	1	s i n
+016/067	sin	1	s i n
+016/081	sien	1	s ie n
+016/083	sin	1	s i n
+016/105	sin	1	s i n
+016/107	sien	1	s ie n
+016/109	sien	1	s ie n
+016/111	sinn	1	s i nn
+016/145	siea	1	s iea
+016/147	sia	1	s ia
+016/149	sia	1	s ia
+016/151	sia	1	s ia
+016/153	sia	1	s ia
+016/155	sia	1	s ia
+016/157	sia	1	s ia
+016/159	sia	1	s ia
+016/161	sie	1	s ie
+016/163	sin	1	s i n
+016/165	sen	1	s e n
+016/167	sin	1	s i n
+016/187	sin	1	s i n
+016/189	sin	1	s i n
+016/191	sin	1	s i n
+016/193	sien	1	s ie n
+016/195	sihn	1	s ih n
+016/197	sien	1	s ie n
+016/199	sien	1	s ie n
+016/201	sien	1	s ie n
+016/203	sin	1	s i n
+016/205	sien	1	s ie n
+016/209	sien	1	s ie n
+016/211	sien	1	s ie n
+016/213	sien	1	s ie n
+016/215	sien	1	s ie n
+016/217	sien	1	s ie n
+016/219	sien	1	s ie n
+017/055	sien	1	s ie n
+017/057	sin	1	s i n
+017/059	sin	1	s i n
+017/061	sien	1	s ie n
+017/063	sin	1	s i n
+017/065	sin	1	s i n
+017/067	sin	1	s i n
+017/069	sien	1	s ie n
+017/081	sihn	1	s ih n
+017/083	sien	1	s ie n
+017/099	sin	1	s i n
+017/101	sien	1	s ie n
+017/103	sien	1	s ie n
+017/107	sin	1	s i n
+017/109	sin	1	s i n
+017/145	sie	1	s ie
+017/147	sie	1	s ie
+017/149	siä	1	s iä
+017/151	siea	1	s iea
+017/153	sia	1	s ia
+017/155	sin	1	s i n
+017/157	sia	1	s ia
+017/159	siea	1	s iea
+017/161	seea	1	s eea
+017/163	sie	1	s ie
+017/165	sin	1	s i n
+017/169	sin	1	s i n
+017/171	sien	1	s ie n
+017/183	sin	1	s i n
+017/185	sien	1	s ie n
+017/187	sien	1	s ie n
+017/189	sien	1	s ie n
+017/191	sin	1	s i n
+017/193	sin	1	s i n
+017/195	sie	1	s ie
+017/197	siin	1	s ii n
+017/199	sin	1	s i n
+017/201	sin	1	s i n
+017/203	sihn	1	s ih n
+017/205	sien	1	s ie n
+017/207	sin	1	s i n
+017/209	sien	1	s ie n
+017/211	sin	1	s i n
+017/213	sien	1	s ie n
+017/215	sin	1	s i n
+017/217	sien	1	s ie n
+017/219	sien	1	s ie n
+018/051	siin	1	s ii n
+018/053	sin	1	s i n
+018/055	sin	1	s i n
+018/057	siin	1	s ii n
+018/059	sin	1	s i n
+018/061	siin	1	s ii n
+018/063	sin	1	s i n
+018/065	sinn	1	s i nn
+018/067	sien	1	s ie n
+018/069	sien	1	s ie n
+018/071	sin	1	s i n
+018/073	sin	1	s i n
+018/075	sin	1	s i n
+018/079	sien	1	s ie n
+018/081	sien	1	s ie n
+018/097	sien	1	s ie n
+018/099	sin	1	s i n
+018/103	sien	1	s ie n
+018/105	sien	1	s ie n
+018/107	siehn	1	s ieh n
+018/109	sin	1	s i n
+018/111	sien	1	s ie n
+018/143	sien	1	s ie n
+018/145	sien	1	s ie n
+018/147	siehn	1	s ieh n
+018/149	sia	1	s ia
+018/151	siä	1	s iä
+018/153	sie	1	s ie
+018/155	siä	1	s iä
+018/157	siea	1	s iea
+018/159	sia	1	s ia
+018/161	sieh	1	s ieh
+018/163	sie	1	s ie
+018/165	sien	1	s ie n
+018/169	sien	1	s ie n
+018/171	siin	1	s ii n
+018/173	sin	1	s i n
+018/181	sien	1	s ie n
+018/185	sin	1	s i n
+018/187	sien	1	s ie n
+018/189	sin	1	s i n
+018/191	sin	1	s i n
+018/193	sin	1	s i n
+018/195	sin	1	s i n
+018/197	sien	1	s ie n
+018/199	sin	1	s i n
+018/201	sien	1	s ie n
+018/203	sien	1	s ie n
+018/205	sin	1	s i n
+018/207	sin	1	s i n
+018/209	sin	1	s i n
+018/211	sin	1	s i n
+018/213	sin	1	s i n
+018/215	sien	1	s ie n
+018/219	sien	1	s ie n
+019/051	sien	1	s ie n
+019/053	sien	1	s ie n
+019/055	sin	1	s i n
+019/057	sin	1	s i n
+019/059	sin	1	s i n
+019/061	sien	1	s ie n
+019/063	sin	1	s i n
+019/065	sien	1	s ie n
+019/067	sin	1	s i n
+019/069	sin	1	s i n
+019/071	sien	1	s ie n
+019/073	sin	1	s i n
+019/075	sin	1	s i n
+019/077	sien	1	s ie n
+019/079	sien	1	s ie n
+019/081	sien	1	s ie n
+019/097	sin	1	s i n
+019/099	sin	1	s i n
+019/101	sin	1	s i n
+019/103	sin	1	s i n
+019/105	sien	1	s ie n
+019/107	sin	1	s i n
+019/109	sien	1	s ie n
+019/143	sia	1	s ia
+019/145	siä	1	s iä
+019/147	siee	1	s iee
+019/149	sie	1	s ie
+019/151	siä	1	s iä
+019/153	siä	1	s iä
+019/155	sin	1	s i n
+019/157	siee	1	s iee
+019/159	sin	1	s i n
+019/161	sia	1	s ia
+019/163	sie	1	s ie
+019/165	sie	1	s ie
+019/167	siehe	1	s ie h e
+019/169	sin	1	s i n
+019/171	sihn	1	s ih n
+019/173	sien	1	s ie n
+019/175	sien	1	s ie n
+019/177	sie	1	s ie
+019/179	sien	1	s ie n
+019/181	sien	1	s ie n
+019/183	sien	1	s ie n
+019/185	sin	1	s i n
+019/187	sin	1	s i n
+019/189	sin	1	s i n
+019/191	sien	1	s ie n
+019/193	sin	1	s i n
+019/195	sien	1	s ie n
+019/197	sien	1	s ie n
+019/199	sien	1	s ie n
+019/201	sin	1	s i n
+019/203	sin	1	s i n
+019/205	sien	1	s ie n
+019/207	sin	1	s i n
+019/209	sin	1	s i n
+019/211	sien	1	s ie n
+019/213	sien	1	s ie n
+019/215	sin	1	s i n
+019/217	sin	1	s i n
+019/219	sin	1	s i n
+020/043	ssiin	1	ss ii n
+020/053	sien	1	s ie n
+020/055	sin	1	s i n
+020/057	sien	1	s ie n
+020/059	sien	1	s ie n
+020/061	sin	1	s i n
+020/063	siin	1	s ii n
+020/065	sien	1	s ie n
+020/067	sien	1	s ie n
+020/069	sin	1	s i n
+020/071	siin	1	s ii n
+020/073	sien	1	s ie n
+020/075	sin	1	s i n
+020/077	sien	1	s ie n
+020/079	sin	1	s i n
+020/081	sien	1	s ie n
+020/095	sin	1	s i n
+020/097	sien	1	s ie n
+020/099	sinn	1	s i nn
+020/101	sihn	1	s ih n
+020/103	sien	1	s ie n
+020/105	sin	1	s i n
+020/107	sihn	1	s ih n
+020/135	siä	1	s iä
+020/137	sia	1	s ia
+020/139	sie	1	s ie
+020/141	sie	1	s ie
+020/143	sie	1	s ie
+020/145	sin	1	s i n
+020/147	siehe	1	s ie h e
+020/149	sieh	1	s ieh
+020/151	siä	1	s iä
+020/153	sie	1	s ie
+020/155	siee	1	s iee
+020/157	sie	1	s ie
+020/159	siä	1	s iä
+020/161	sien	1	s ie n
+020/163	sijn	1	s i j n
+020/165	siea	1	s iea
+020/167	sien	1	s ie n
+020/169	sin	1	s i n
+020/171	sin	1	s i n
+020/173	sin	1	s i n
+020/175	sien	1	s ie n
+020/177	sin	1	s i n
+020/179	sien	1	s ie n
+020/181	sien	1	s ie n
+020/183	sien	1	s ie n
+020/185	sien	1	s ie n
+020/187	sein	1	s ei n
+020/189	sin	1	s i n
+020/191	siin	1	s ii n
+020/193	sien	1	s ie n
+020/195	sin	1	s i n
+020/197	sin	1	s i n
+020/199	sin	1	s i n
+020/201	siin	1	s ii n
+020/203	sin	1	s i n
+020/205	sin	1	s i n
+020/207	sien	1	s ie n
+020/209	sien	1	s ie n
+020/211	sien	1	s ie n
+020/213	sien	1	s ie n
+020/215	sien	1	s ie n
+020/217	sin	1	s i n
+020/219	sien	1	s ie n
+021/055	sin	1	s i n
+021/057	sin	1	s i n
+021/059	sien	1	s ie n
+021/061	sien	1	s ie n
+021/063	sin	1	s i n
+021/065	sien	1	s ie n
+021/067	sin	1	s i n
+021/069	sin	1	s i n
+021/071	sien	1	s ie n
+021/073	sien	1	s ie n
+021/075	sin	1	s i n
+021/077	sin	1	s i n
+021/079	sin	1	s i n
+021/087	sien	1	s ie n
+021/089	sien	1	s ie n
+021/091	sien	1	s ie n
+021/093	siin	1	s ii n
+021/095	sien	1	s ie n
+021/097	sien	1	s ie n
+021/099	sin	1	s i n
+021/101	sien	1	s ie n
+021/103	sein	1	s ei n
+021/105	sin	1	s i n
+021/107	sihn	1	s ih n
+021/109	sien	1	s ie n
+021/111	sihn	1	s ih n
+021/113	sihn	1	s ih n
+021/131	syn	1	s y n
+021/133	sie	1	s ie
+021/135	sieh	1	s ieh
+021/137	sieä	1	s ieä
+021/139	sie	1	s ie
+021/141	sia	1	s ia
+021/143	sien	1	s ie n
+021/145	seie	1	s eie
+021/147	sie	1	s ie
+021/149	soi	1	s oi
+021/151	sie	1	s ie
+021/153	siä	1	s iä
+021/155	siäh	1	s iäh
+021/157	sien	1	s ie n
+021/159	sig	1	s i g
+021/163	sie	1	s ie
+021/165	sie	1	s ie
+021/167	sieä	1	s ieä
+021/169	sien	1	s ie n
+021/171	sien	1	s ie n
+021/173	sin	1	s i n
+021/175	sien	1	s ie n
+021/177	sin	1	s i n
+021/179	sin	1	s i n
+021/181	sin	1	s i n
+021/183	sien	1	s ie n
+021/185	sein	1	s ei n
+021/187	sain	1	s ai n
+021/189	sein	1	s ei n
+021/191	sein	1	s ei n
+021/193	sein	1	s ei n
+021/195	sain	1	s ai n
+021/197	sain	1	s ai n
+021/199	sin	1	s i n
+021/201	sien	1	s ie n
+021/203	sin	1	s i n
+021/205	siee	1	s iee
+021/207	sin	1	s i n
+021/211	sin	1	s i n
+021/215	sin	1	s i n
+021/217	sien	1	s ie n
+021/219	sin	1	s i n
+022/055	sien	1	s ie n
+022/057	sin	1	s i n
+022/059	sin	1	s i n
+022/061	sin	1	s i n
+022/063	sien	1	s ie n
+022/065	sin	1	s i n
+022/067	sien	1	s ie n
+022/069	sin	1	s i n
+022/071	sin	1	s i n
+022/073	sin	1	s i n
+022/075	sin	1	s i n
+022/077	sin	1	s i n
+022/087	sin	1	s i n
+022/089	sien	1	s ie n
+022/091	sien	1	s ie n
+022/093	sin	1	s i n
+022/095	sien	1	s ie n
+022/097	sien	1	s ie n
+022/099	sin	1	s i n
+022/101	sien	1	s ie n
+022/103	sien	1	s ie n
+022/105	sien	1	s ie n
+022/107	sien	1	s ie n
+022/109	sin	1	s i n
+022/111	sien	1	s ie n
+022/113	sihn	1	s ih n
+022/115	siehn	1	s ieh n
+022/127	siä	1	s iä
+022/129	sie	1	s ie
+022/131	siee	1	s iee
+022/133	siee	1	s iee
+022/135	siehe	1	s ie h e
+022/137	sie	1	s ie
+022/139	sieeh	1	s ieeh
+022/141	siä	1	s iä
+022/143	sin	1	s i n
+022/145	seie	1	s eie
+022/147	seie	1	s eie
+022/149	siee	1	s iee
+022/151	suiä	1	s uiä
+022/153	süa	1	s üa
+022/155	siee	1	s iee
+022/157	sia	1	s ia
+022/159	seiä	1	s eiä
+022/165	sieha	1	s ie h a
+022/167	siehe	1	s ie h e
+022/169	sin	1	s i n
+022/171	sin	1	s i n
+022/173	sien	1	s ie n
+022/175	sin	1	s i n
+022/177	sien	1	s ie n
+022/179	sien	1	s ie n
+022/181	sien	1	s ie n
+022/183	sein	1	s ei n
+022/185	sein	1	s ei n
+022/187	sein	1	s ei n
+022/189	sein	1	s ei n
+022/191	sein	1	s ei n
+022/193	sein	1	s ei n
+022/195	sein	1	s ei n
+022/197	sein	1	s ei n
+022/199	seina	1	s ei n a
+022/201	sien	1	s ie n
+022/203	sin	1	s i n
+022/205	sin	1	s i n
+022/209	sin	1	s i n
+022/211	sien	1	s ie n
+022/215	siin	1	s ii n
+022/217	sihn	1	s ih n
+022/219	sien	1	s ie n
+023/055	sin	1	s i n
+023/059	sin	1	s i n
+023/061	sin	1	s i n
+023/063	sien	1	s ie n
+023/065	sien	1	s ie n
+023/067	sin	1	s i n
+023/069	sien	1	s ie n
+023/071	sin	1	s i n
+023/073	siin	1	s ii n
+023/075	sien	1	s ie n
+023/077	sien	1	s ie n
+023/079	sien	1	s ie n
+023/081	sien	1	s ie n
+023/083	sien	1	s ie n
+023/085	sien	1	s ie n
+023/087	sien	1	s ie n
+023/089	sin	1	s i n
+023/091	sihn	1	s ih n
+023/093	sien	1	s ie n
+023/095	sin	1	s i n
+023/097	sien	1	s ie n
+023/099	sien	1	s ie n
+023/101	sin	1	s i n
+023/103	sien	1	s ie n
+023/105	sien	1	s ie n
+023/107	sin	1	s i n
+023/109	sien	1	s ie n
+023/111	sin	1	s i n
+023/113	sien	1	s ie n
+023/115	sien	1	s ie n
+023/117	sien	1	s ie n
+023/121	sie	1	s ie
+023/123	si	1	s i
+023/125	sie	1	s ie
+023/127	sien	1	s ie n
+023/129	sia	1	s ia
+023/131	sihä	1	s i h ä
+023/133	siee	1	s iee
+023/135	sie	1	s ie
+023/137	sieä	1	s ieä
+023/139	sieä	1	s ieä
+023/141	sieä	1	s ieä
+023/143	sihe	1	s i h e
+023/145	seia	1	s eia
+023/147	seia	1	s eia
+023/149	sia	1	s ia
+023/151	siea	1	s iea
+023/153	sii	1	s ii
+023/155	siie	1	s iie
+023/165	sie	1	s ie
+023/167	siehe	1	s ie h e
+023/169	siee	1	s iee
+023/175	min	1	m i n
+023/177	sai	1	s ai
+023/179	sein	1	s ei n
+023/181	sei	1	s ei
+023/183	sein	1	s ei n
+023/185	sein	1	s ei n
+023/187	sein	1	s ei n
+023/189	sein	1	s ei n
+023/191	sein	1	s ei n
+023/193	sein	1	s ei n
+023/195	sein	1	s ei n
+023/197	sein	1	s ei n
+023/199	sien	1	s ie n
+023/201	sien	1	s ie n
+023/203	sin	1	s i n
+023/205	sien	1	s ie n
+023/207	sien	1	s ie n
+023/215	sin	1	s i n
+023/217	sin	1	s i n
+024/053	siin	1	s ii n
+024/057	sin	1	s i n
+024/059	sin	1	s i n
+024/061	sien	1	s ie n
+024/063	sin	1	s i n
+024/065	sin	1	s i n
+024/067	sien	1	s ie n
+024/069	sin	1	s i n
+024/071	sien	1	s ie n
+024/073	sien	1	s ie n
+024/075	sin	1	s i n
+024/077	sien	1	s ie n
+024/079	sien	1	s ie n
+024/081	sien	1	s ie n
+024/083	sien	1	s ie n
+024/085	sien	1	s ie n
+024/087	sien	1	s ie n
+024/089	sihn	1	s ih n
+024/091	sien	1	s ie n
+024/093	sin	1	s i n
+024/095	sien	1	s ie n
+024/097	sien	1	s ie n
+024/099	siin	1	s ii n
+024/101	sien	1	s ie n
+024/103	sien	1	s ie n
+024/105	sien	1	s ie n
+024/107	sien	1	s ie n
+024/109	sien	1	s ie n
+024/111	sin	1	s i n
+024/113	sien	1	s ie n
+024/115	dein	1	d ei n
+024/117	sien	1	s ie n
+024/119	sin	1	s i n
+024/121	sin	1	s i n
+024/123	sia	1	s ia
+024/125	siä	1	s iä
+024/127	sie	1	s ie
+024/129	siä	1	s iä
+024/131	sieng	1	s ie ng
+024/133	sia	1	s ia
+024/135	siea	1	s iea
+024/137	sie	1	s ie
+024/139	sihn	1	s ih n
+024/141	sia	1	s ia
+024/143	siee	1	s iee
+024/145	see	1	s ee
+024/147	sie	1	s ie
+024/149	seie	1	s eie
+024/151	siehe	1	s ie h e
+024/153	siee	1	s iee
+024/155	siee	1	s iee
+024/163	siä	1	s iä
+024/165	sia	1	s ia
+024/167	sie	1	s ie
+024/169	siä	1	s iä
+024/171	sien	1	s ie n
+024/175	sin	1	s i n
+024/179	sein	1	s ei n
+024/181	sei	1	s ei
+024/183	sein	1	s ei n
+024/185	sein	1	s ei n
+024/187	sein	1	s ei n
+024/189	sei	1	s ei
+024/191	sein	1	s ei n
+024/193	sein	1	s ei n
+024/195	ehra	1	eh r a
+024/197	sein	1	s ei n
+024/199	sein	1	s ei n
+024/201	seen	1	s ee n
+024/203	sin	1	s i n
+024/217	sin	1	s i n
+024/221	sien	1	s ie n
+025/043	sien	1	s ie n
+025/051	sin	1	s i n
+025/053	sin	1	s i n
+025/055	sien	1	s ie n
+025/057	sin	1	s i n
+025/059	sien	1	s ie n
+025/061	sien	1	s ie n
+025/063	sin	1	s i n
+025/065	sien	1	s ie n
+025/067	sien	1	s ie n
+025/069	sin	1	s i n
+025/071	sien	1	s ie n
+025/073	sin	1	s i n
+025/075	sin	1	s i n
+025/077	sien	1	s ie n
+025/079	sien	1	s ie n
+025/081	siehn	1	s ieh n
+025/083	sien	1	s ie n
+025/085	sin	1	s i n
+025/087	sien	1	s ie n
+025/089	din	1	d i n
+025/091	sihn	1	s ih n
+025/093	sien	1	s ie n
+025/095	sien	1	s ie n
+025/099	sin	1	s i n
+025/101	sien	1	s ie n
+025/103	sien	1	s ie n
+025/105	sin	1	s i n
+025/107	sien	1	s ie n
+025/109	sin	1	s i n
+025/111	sien	1	s ie n
+025/113	sien	1	s ie n
+025/115	sien	1	s ie n
+025/123	si	1	s i
+025/125	sie	1	s ie
+025/127	sieeh	1	s ieeh
+025/129	sie	1	s ie
+025/131	siee	1	s iee
+025/133	sin	1	s i n
+025/135	siee	1	s iee
+025/137	siee	1	s iee
+025/139	sie	1	s ie
+025/141	sin	1	s i n
+025/143	sieä	1	s ieä
+025/145	sie	1	s ie
+025/147	sie	1	s ie
+025/149	sie	1	s ie
+025/151	sien	1	s ie n
+025/153	sio	1	s io
+025/155	siä	1	s iä
+025/157	siä	1	s iä
+025/159	sien	1	s ie n
+025/177	sien	1	s ie n
+025/179	sei	1	s ei
+025/181	sein	1	s ei n
+025/183	sein	1	s ei n
+025/185	sein	1	s ei n
+025/187	sein	1	s ei n
+025/189	sein	1	s ei n
+025/191	sain	1	s ai n
+026/031	sien	1	s ie n
+026/033	sien	1	s ie n
+026/037	sin	1	s i n
+026/041	sien	1	s ie n
+026/043	sien	1	s ie n
+026/045	sien	1	s ie n
+026/051	sien	1	s ie n
+026/053	sien	1	s ie n
+026/055	sien	1	s ie n
+026/057	sin	1	s i n
+026/059	sin	1	s i n
+026/061	sien	1	s ie n
+026/063	sien	1	s ie n
+026/065	sin	1	s i n
+026/067	sien	1	s ie n
+026/069	sien	1	s ie n
+026/071	sien	1	s ie n
+026/073	sin	1	s i n
+026/075	sien	1	s ie n
+026/077	sien	1	s ie n
+026/079	sin	1	s i n
+026/081	sien	1	s ie n
+026/083	sien	1	s ie n
+026/085	sien	1	s ie n
+026/087	sien	1	s ie n
+026/089	sien	1	s ie n
+026/091	sien	1	s ie n
+026/093	sien	1	s ie n
+026/095	sien	1	s ie n
+026/097	sin	1	s i n
+026/099	sien	1	s ie n
+026/101	sien	1	s ie n
+026/103	sin	1	s i n
+026/105	sin	1	s i n
+026/107	sien	1	s ie n
+026/109	sien	1	s ie n
+026/111	sin	1	s i n
+026/113	sien	1	s ie n
+026/115	sin	1	s i n
+026/117	sin	1	s i n
+026/119	sien	1	s ie n
+026/123	siehn	1	s ieh n
+026/125	sien	1	s ie n
+026/127	si	1	s i
+026/129	siä	1	s iä
+026/131	siea	1	s iea
+026/133	sie	1	s ie
+026/135	siea	1	s iea
+026/137	siee	1	s iee
+026/139	sia	1	s ia
+026/141	sie	1	s ie
+026/143	sia	1	s ia
+026/145	sihe	1	s i h e
+026/147	sin	1	s i n
+026/153	si	1	s i
+026/155	sia	1	s ia
+026/157	siä	1	s iä
+026/159	siehe	1	s ie h e
+026/161	sie	1	s ie
+026/165	sin	1	s i n
+026/173	sin	1	s i n
+026/175	sin	1	s i n
+026/177	si	1	s i
+026/179	sie	1	s ie
+026/181	sei	1	s ei
+026/183	sein	1	s ei n
+026/185	sai	1	s ai
+026/187	sein	1	s ei n
+026/189	sein	1	s ei n
+027/027	sien	1	s ie n
+027/035	sien	1	s ie n
+027/037	sien	1	s ie n
+027/039	sien	1	s ie n
+027/041	sien	1	s ie n
+027/043	sien	1	s ie n
+027/045	sin	1	s i n
+027/047	sien	1	s ie n
+027/051	sin	1	s i n
+027/053	sien	1	s ie n
+027/055	sien	1	s ie n
+027/057	sien	1	s ie n
+027/059	sien	1	s ie n
+027/061	sien	1	s ie n
+027/063	sien	1	s ie n
+027/065	sin	1	s i n
+027/067	sin	1	s i n
+027/069	din	1	d i n
+027/071	sien	1	s ie n
+027/073	sin	1	s i n
+027/075	sien	1	s ie n
+027/077	siin	1	s ii n
+027/079	sien	1	s ie n
+027/081	sien	1	s ie n
+027/083	sien	1	s ie n
+027/085	sien	1	s ie n
+027/087	sien	1	s ie n
+027/089	sihn	1	s ih n
+027/091	sien	1	s ie n
+027/093	sien	1	s ie n
+027/095	dien	1	d ie n
+027/099	sien	1	s ie n
+027/101	sien	1	s ie n
+027/103	sihn	1	s ih n
+027/105	sien	1	s ie n
+027/107	sien	1	s ie n
+027/109	sin	1	s i n
+027/111	sien	1	s ie n
+027/113	sin	1	s i n
+027/115	sin	1	s i n
+027/117	sien	1	s ie n
+027/119	sien	1	s ie n
+027/123	sin	1	s i n
+027/125	si	1	s i
+027/127	si	1	s i
+027/129	sie	1	s ie
+027/131	sie	1	s ie
+027/135	sia	1	s ia
+027/137	sie	1	s ie
+027/139	sia	1	s ia
+027/141	siea	1	s iea
+027/143	sie	1	s ie
+027/145	siae	1	s iae
+027/147	sie	1	s ie
+027/149	sin	1	s i n
+027/151	siä	1	s iä
+027/153	siä	1	s iä
+027/155	sia	1	s ia
+027/157	siä	1	s iä
+027/159	sia	1	s ia
+027/161	gug	1	g u g
+027/167	sie	1	s ie
+027/171	sihn	1	s ih n
+027/173	sin	1	s i n
+027/175	sin	1	s i n
+027/177	sien	1	s ie n
+027/179	sin	1	s i n
+027/181	se	1	s e
+027/183	sein	1	s ei n
+027/185	sein	1	s ei n
+028/033	sin	1	s i n
+028/035	siin	1	s ii n
+028/037	sien	1	s ie n
+028/039	siin	1	s ii n
+028/041	sin	1	s i n
+028/043	siin	1	s ii n
+028/045	sin	1	s i n
+028/047	sien	1	s ie n
+028/049	sin	1	s i n
+028/051	sien	1	s ie n
+028/053	sien	1	s ie n
+028/055	sin	1	s i n
+028/057	sien	1	s ie n
+028/059	sien	1	s ie n
+028/061	de	1	d e
+028/063	sien	1	s ie n
+028/065	sihn	1	s ih n
+028/067	sin	1	s i n
+028/069	sin	1	s i n
+028/071	sien	1	s ie n
+028/073	sien	1	s ie n
+028/075	sien	1	s ie n
+028/077	sien	1	s ie n
+028/079	sien	1	s ie n
+028/081	sien	1	s ie n
+028/083	sin	1	s i n
+028/085	sin	1	s i n
+028/087	sin	1	s i n
+028/089	sien	1	s ie n
+028/091	siehn	1	s ieh n
+028/093	sin	1	s i n
+028/095	sien	1	s ie n
+028/097	sien	1	s ie n
+028/099	sien	1	s ie n
+028/103	sin	1	s i n
+028/105	sien	1	s ie n
+028/107	sien	1	s ie n
+028/109	sien	1	s ie n
+028/111	sien	1	s ie n
+028/113	sien	1	s ie n
+028/115	sien	1	s ie n
+028/117	sin	1	s i n
+028/119	sien	1	s ie n
+028/121	sin	1	s i n
+028/123	sihn	1	s ih n
+028/125	si	1	s i
+028/127	si	1	s i
+028/129	siä	1	s iä
+028/131	sie	1	s ie
+028/133	siia	1	s iia
+028/135	sia	1	s ia
+028/137	sie	1	s ie
+028/139	sie	1	s ie
+028/141	sia	1	s ia
+028/143	siah	1	s iah
+028/145	siee	1	s iee
+028/147	sie	1	s ie
+028/151	sie	1	s ie
+028/153	siä	1	s iä
+028/155	sie	1	s ie
+028/157	sien	1	s ie n
+028/159	sie	1	s ie
+028/161	sieä	1	s ieä
+028/165	siea	1	s iea
+028/169	sie	1	s ie
+028/171	sien	1	s ie n
+028/173	sien	1	s ie n
+028/175	sihe	1	s i h e
+028/177	sijn	1	s i j n
+028/179	sin	1	s i n
+028/181	sei	1	s ei
+028/183	sein	1	s ei n
+028/185	sein	1	s ei n
+029/033	sien	1	s ie n
+029/035	sien	1	s ie n
+029/037	sien	1	s ie n
+029/039	sin	1	s i n
+029/043	sien	1	s ie n
+029/045	sien	1	s ie n
+029/047	sin	1	s i n
+029/049	sin	1	s i n
+029/051	sin	1	s i n
+029/053	sien	1	s ie n
+029/055	sien	1	s ie n
+029/057	sien	1	s ie n
+029/059	sin	1	s i n
+029/061	sien	1	s ie n
+029/065	sin	1	s i n
+029/067	sien	1	s ie n
+029/069	sien	1	s ie n
+029/071	sin	1	s i n
+029/073	sien	1	s ie n
+029/075	sin	1	s i n
+029/077	sien	1	s ie n
+029/079	sin	1	s i n
+029/081	sien	1	s ie n
+029/083	sien	1	s ie n
+029/085	sien	1	s ie n
+029/087	sien	1	s ie n
+029/089	siin	1	s ii n
+029/091	sin	1	s i n
+029/093	sien	1	s ie n
+029/095	sien	1	s ie n
+029/097	sien	1	s ie n
+029/099	sin	1	s i n
+029/101	sin	1	s i n
+029/103	sin	1	s i n
+029/105	sin	1	s i n
+029/107	sien	1	s ie n
+029/109	sin	1	s i n
+029/111	sien	1	s ie n
+029/113	sien	1	s ie n
+029/115	sin	1	s i n
+029/117	sin	1	s i n
+029/119	sihn	1	s ih n
+029/121	sien	1	s ie n
+029/123	sien	1	s ie n
+029/125	sih	1	s ih
+029/127	sie	1	s ie
+029/129	sie	1	s ie
+029/131	sia	1	s ia
+029/133	sin	1	s i n
+029/135	sia	1	s ia
+029/137	sia	1	s ia
+029/139	sya	1	s ya
+029/141	siä	1	s iä
+029/143	sia	1	s ia
+029/145	sia	1	s ia
+029/147	sieä	1	s ieä
+029/149	siä	1	s iä
+029/151	siä	1	s iä
+029/153	jug	1	j u g
+029/155	sia	1	s ia
+029/157	siä	1	s iä
+029/159	sin	1	s i n
+029/161	si	1	s i
+029/163	sijä	1	s i j ä
+029/165	sin	1	s i n
+029/167	sia	1	s ia
+029/169	sia	1	s ia
+029/171	siä	1	s iä
+029/173	sin	1	s i n
+029/175	siä	1	s iä
+029/177	sia	1	s ia
+029/181	sie	1	s ie
+030/033	sien	1	s ie n
+030/035	sien	1	s ie n
+030/037	sien	1	s ie n
+030/039	sien	1	s ie n
+030/041	sien	1	s ie n
+030/043	siin	1	s ii n
+030/045	sien	1	s ie n
+030/047	sien	1	s ie n
+030/049	sin	1	s i n
+030/051	sin	1	s i n
+030/053	sien	1	s ie n
+030/055	sien	1	s ie n
+030/057	sin	1	s i n
+030/059	sien	1	s ie n
+030/061	sien	1	s ie n
+030/065	sin	1	s i n
+030/067	sien	1	s ie n
+030/071	sien	1	s ie n
+030/073	sin	1	s i n
+030/075	sien	1	s ie n
+030/077	sien	1	s ie n
+030/079	sien	1	s ie n
+030/081	sien	1	s ie n
+030/083	sin	1	s i n
+030/085	sien	1	s ie n
+030/087	sien	1	s ie n
+030/089	sien	1	s ie n
+030/091	sien	1	s ie n
+030/093	sin	1	s i n
+030/095	sien	1	s ie n
+030/097	sin	1	s i n
+030/099	sien	1	s ie n
+030/101	sin	1	s i n
+030/103	sien	1	s ie n
+030/105	sien	1	s ie n
+030/107	sien	1	s ie n
+030/109	sien	1	s ie n
+030/111	sien	1	s ie n
+030/113	sien	1	s ie n
+030/115	sie	1	s ie
+030/117	sin	1	s i n
+030/119	sien	1	s ie n
+030/121	sin	1	s i n
+030/123	sien	1	s ie n
+030/125	sin	1	s i n
+030/127	sien	1	s ie n
+030/129	sie	1	s ie
+030/131	sie	1	s ie
+030/133	sie	1	s ie
+030/135	sia	1	s ia
+030/137	sia	1	s ia
+030/139	sia	1	s ia
+030/141	sia	1	s ia
+030/143	sia	1	s ia
+030/145	sia	1	s ia
+030/147	siä	1	s iä
+030/149	sihe	1	s i h e
+030/151	sieä	1	s ieä
+030/153	sieä	1	s ieä
+030/155	siä	1	s iä
+030/157	sia	1	s ia
+030/159	siä	1	s iä
+030/161	sia	1	s ia
+030/163	sihe	1	s i h e
+030/165	siee	1	s iee
+030/167	sihe	1	s i h e
+030/169	siee	1	s iee
+030/171	siehe	1	s ie h e
+030/173	siä	1	s iä
+030/175	jug	1	j u g
+030/177	siee	1	s iee
+030/179	sei	1	s ei
+030/181	siehe	1	s ie h e
+030/183	siä	1	s iä
+031/035	sien	1	s ie n
+031/037	sien	1	s ie n
+031/039	sien	1	s ie n
+031/041	sien	1	s ie n
+031/043	sin	1	s i n
+031/045	sien	1	s ie n
+031/047	sin	1	s i n
+031/049	sien	1	s ie n
+031/051	sin	1	s i n
+031/053	sin	1	s i n
+031/055	sien	1	s ie n
+031/057	sien	1	s ie n
+031/059	sin	1	s i n
+031/061	sien	1	s ie n
+031/063	sien	1	s ie n
+031/065	sien	1	s ie n
+031/067	sien	1	s ie n
+031/069	sin	1	s i n
+031/071	sin	1	s i n
+031/073	siin	1	s ii n
+031/075	sien	1	s ie n
+031/077	sin	1	s i n
+031/079	sin	1	s i n
+031/081	siin	1	s ii n
+031/083	siin	1	s ii n
+031/085	sin	1	s i n
+031/087	sien	1	s ie n
+031/089	sien	1	s ie n
+031/091	sien	1	s ie n
+031/093	sien	1	s ie n
+031/095	sien	1	s ie n
+031/097	sien	1	s ie n
+031/099	sien	1	s ie n
+031/101	sien	1	s ie n
+031/103	sin	1	s i n
+031/105	sin	1	s i n
+031/107	sin	1	s i n
+031/109	sin	1	s i n
+031/111	sin	1	s i n
+031/113	sin	1	s i n
+031/115	sien	1	s ie n
+031/117	si	1	s i
+031/119	sien	1	s ie n
+031/121	si	1	s i
+031/123	sie	1	s ie
+031/125	sin	1	s i n
+031/127	sien	1	s ie n
+031/129	siha	1	s i h a
+031/131	sia	1	s ia
+031/133	siea	1	s iea
+031/135	sia	1	s ia
+031/137	sia	1	s ia
+031/139	sia	1	s ia
+031/141	sia	1	s ia
+031/143	sia	1	s ia
+031/145	sia	1	s ia
+031/147	siä	1	s iä
+031/149	siä	1	s iä
+031/151	sihä	1	s i h ä
+031/153	siäa	1	s iäa
+031/155	sije	1	s i j e
+031/157	sie	1	s ie
+031/159	siehe	1	s ie h e
+031/161	siha	1	s i h a
+031/163	siehe	1	s ie h e
+031/167	sien	1	s ie n
+031/169	sein	1	s ei n
+031/171	sei	1	s ei
+031/173	sai	1	s ai
+031/175	sihe	1	s i h e
+031/177	siiä	1	s iiä
+031/179	siehe	1	s ie h e
+032/035	sien	1	s ie n
+032/037	sien	1	s ie n
+032/039	sien	1	s ie n
+032/041	sin	1	s i n
+032/043	sien	1	s ie n
+032/045	sin	1	s i n
+032/047	sien	1	s ie n
+032/049	sien	1	s ie n
+032/051	sien	1	s ie n
+032/053	sien	1	s ie n
+032/055	sien	1	s ie n
+032/057	sien	1	s ie n
+032/059	sien	1	s ie n
+032/061	sien	1	s ie n
+032/065	sien	1	s ie n
+032/069	sien	1	s ie n
+032/071	sien	1	s ie n
+032/073	sien	1	s ie n
+032/075	sin	1	s i n
+032/077	sien	1	s ie n
+032/079	sien	1	s ie n
+032/081	sin	1	s i n
+032/083	mien	1	m ie n
+032/085	sin	1	s i n
+032/087	sin	1	s i n
+032/089	sin	1	s i n
+032/091	din	1	d i n
+032/093	sin	1	s i n
+032/095	sihn	1	s ih n
+032/097	sien	1	s ie n
+032/099	sien	1	s ie n
+032/101	sin	1	s i n
+032/103	sien	1	s ie n
+032/105	sin	1	s i n
+032/107	sien	1	s ie n
+032/111	sien	1	s ie n
+032/113	sien	1	s ie n
+032/115	si	1	s i
+032/117	sien	1	s ie n
+032/119	si	1	s i
+032/121	sin	1	s i n
+032/123	sien	1	s ie n
+032/125	si	1	s i
+032/127	siä	1	s iä
+032/129	sin	1	s i n
+032/131	sia	1	s ia
+032/133	sia	1	s ia
+032/135	sia	1	s ia
+032/139	sin	1	s i n
+032/141	sia	1	s ia
+032/143	sia	1	s ia
+032/145	sie	1	s ie
+032/147	siä	1	s iä
+032/149	siä	1	s iä
+032/151	siä	1	s iä
+032/153	sie	1	s ie
+032/157	sihe	1	s i h e
+032/159	siä	1	s iä
+032/161	sie	1	s ie
+032/163	siä	1	s iä
+032/167	sihe	1	s i h e
+032/169	sei	1	s ei
+032/171	sei	1	s ei
+032/173	sein	1	s ei n
+032/175	sihe	1	s i h e
+032/177	sie	1	s ie
+032/179	sia	1	s ia
+032/181	syn	1	s y n
+032/183	siehe	1	s ie h e
+033/035	sien	1	s ie n
+033/037	sien	1	s ie n
+033/039	sien	1	s ie n
+033/041	sien	1	s ie n
+033/043	sien	1	s ie n
+033/045	sin	1	s i n
+033/047	sien	1	s ie n
+033/049	sin	1	s i n
+033/051	sien	1	s ie n
+033/053	sin	1	s i n
+033/055	sien	1	s ie n
+033/057	sien	1	s ie n
+033/059	sien	1	s ie n
+033/061	sin	1	s i n
+033/063	sien	1	s ie n
+033/065	sien	1	s ie n
+033/067	sin	1	s i n
+033/069	sihn	1	s ih n
+033/071	sien	1	s ie n
+033/073	sin	1	s i n
+033/075	ssien	1	ss ie n
+033/077	sien	1	s ie n
+033/079	sien	1	s ie n
+033/081	sien	1	s ie n
+033/083	sin	1	s i n
+033/085	sien	1	s ie n
+033/087	sin	1	s i n
+033/089	sien	1	s ie n
+033/091	sien	1	s ie n
+033/093	sien	1	s ie n
+033/095	sin	1	s i n
+033/097	sien	1	s ie n
+033/099	sien	1	s ie n
+033/101	sien	1	s ie n
+033/103	sin	1	s i n
+033/105	sien	1	s ie n
+033/107	sin	1	s i n
+033/109	sin	1	s i n
+033/111	sien	1	s ie n
+033/113	sien	1	s ie n
+033/115	sin	1	s i n
+033/117	sin	1	s i n
+033/119	si	1	s i
+033/121	sin	1	s i n
+033/123	sien	1	s ie n
+033/125	sien	1	s ie n
+033/127	sie	1	s ie
+033/129	sien	1	s ie n
+033/131	sihe	1	s i h e
+033/133	siea	1	s iea
+033/135	sin	1	s i n
+033/137	siö	1	s iö
+033/139	sien	1	s ie n
+033/141	sin	1	s i n
+033/143	sia	1	s ia
+033/145	siea	1	s iea
+033/147	sia	1	s ia
+033/149	si	1	s i
+033/151	sie	1	s ie
+033/153	sihä	1	s i h ä
+033/155	sie	1	s ie
+033/159	sia	1	s ia
+033/161	sihe	1	s i h e
+033/163	sie	1	s ie
+033/165	sie	1	s ie
+033/167	sie	1	s ie
+033/169	sie	1	s ie
+033/173	siee	1	s iee
+033/175	siö	1	s iö
+033/177	siee	1	s iee
+034/035	sien	1	s ie n
+034/039	sien	1	s ie n
+034/041	sin	1	s i n
+034/043	sien	1	s ie n
+034/045	sin	1	s i n
+034/047	sien	1	s ie n
+034/049	sien	1	s ie n
+034/051	sin	1	s i n
+034/053	sin	1	s i n
+034/055	sin	1	s i n
+034/057	sien	1	s ie n
+034/059	sien	1	s ie n
+034/061	sien	1	s ie n
+034/063	sien	1	s ie n
+034/065	sien	1	s ie n
+034/067	sien	1	s ie n
+034/069	sien	1	s ie n
+034/071	sien	1	s ie n
+034/073	sien	1	s ie n
+034/075	sien	1	s ie n
+034/077	sien	1	s ie n
+034/079	sin	1	s i n
+034/081	sien	1	s ie n
+034/083	sin	1	s i n
+034/085	sin	1	s i n
+034/087	sien	1	s ie n
+034/089	sien	1	s ie n
+034/091	sien	1	s ie n
+034/093	sien	1	s ie n
+034/095	sien	1	s ie n
+034/097	sien	1	s ie n
+034/099	siehn	1	s ieh n
+034/101	sien	1	s ie n
+034/103	sien	1	s ie n
+034/105	sin	1	s i n
+034/107	sien	1	s ie n
+034/109	sien	1	s ie n
+034/111	sien	1	s ie n
+034/113	siin	1	s ii n
+034/115	sin	1	s i n
+034/117	sien	1	s ie n
+034/119	sien	1	s ie n
+034/121	sien	1	s ie n
+034/125	sin	1	s i n
+034/127	sien	1	s ie n
+034/129	sie	1	s ie
+034/131	sin	1	s i n
+034/133	sien	1	s ie n
+034/135	sia	1	s ia
+034/137	siehä	1	s ie h ä
+034/139	siha	1	s i h a
+034/141	sia	1	s ia
+034/143	sia	1	s ia
+034/145	sia	1	s ia
+034/147	syo	1	s yo
+034/149	sio	1	s io
+034/151	siehe	1	s ie h e
+034/155	sie	1	s ie
+034/157	siä	1	s iä
+034/161	siä	1	s iä
+034/163	sie	1	s ie
+034/165	siehe	1	s ie h e
+034/167	sije	1	s i j e
+034/169	sihe	1	s i h e
+034/173	siä	1	s iä
+035/035	siin	1	s ii n
+035/037	sin	1	s i n
+035/039	sien	1	s ie n
+035/041	sien	1	s ie n
+035/043	sien	1	s ie n
+035/045	sien	1	s ie n
+035/047	sihn	1	s ih n
+035/049	sin	1	s i n
+035/051	sin	1	s i n
+035/053	sin	1	s i n
+035/055	sien	1	s ie n
+035/057	sin	1	s i n
+035/059	sien	1	s ie n
+035/061	sihn	1	s ih n
+035/063	sin	1	s i n
+035/065	sin	1	s i n
+035/067	sin	1	s i n
+035/069	sien	1	s ie n
+035/071	sien	1	s ie n
+035/073	sien	1	s ie n
+035/075	sien	1	s ie n
+035/077	szien	1	s z ie n
+035/079	sien	1	s ie n
+035/081	sien	1	s ie n
+035/083	sien	1	s ie n
+035/085	sien	1	s ie n
+035/087	sin	1	s i n
+035/089	sien	1	s ie n
+035/091	sien	1	s ie n
+035/093	sien	1	s ie n
+035/095	siin	1	s ii n
+035/097	sien	1	s ie n
+035/099	sien	1	s ie n
+035/101	sien	1	s ie n
+035/103	sien	1	s ie n
+035/105	sien	1	s ie n
+035/107	sien	1	s ie n
+035/109	sien	1	s ie n
+035/111	sien	1	s ie n
+035/113	sin	1	s i n
+035/115	sin	1	s i n
+035/117	sien	1	s ie n
+035/121	sin	1	s i n
+035/123	sin	1	s i n
+035/125	sin	1	s i n
+035/127	sien	1	s ie n
+035/129	sin	1	s i n
+035/133	siehe	1	s ie h e
+035/135	sieh	1	s ieh
+035/137	sia	1	s ia
+035/139	sia	1	s ia
+035/141	sio	1	s io
+035/143	sieo	1	s ieo
+035/145	sio	1	s io
+035/147	sio	1	s io
+035/149	sio	1	s io
+035/151	si	1	s i
+035/153	sije	1	s i j e
+035/155	sihe	1	s i h e
+035/157	sie	1	s ie
+035/165	sia	1	s ia
+035/167	siä	1	s iä
+035/169	siehn	1	s ieh n
+035/171	siä	1	s iä
+035/173	siehe	1	s ie h e
+036/033	sien	1	s ie n
+036/035	sien	1	s ie n
+036/039	sien	1	s ie n
+036/041	sin	1	s i n
+036/043	sin	1	s i n
+036/045	sien	1	s ie n
+036/047	sien	1	s ie n
+036/049	sien	1	s ie n
+036/051	sien	1	s ie n
+036/053	sin	1	s i n
+036/055	sin	1	s i n
+036/057	sien	1	s ie n
+036/059	sin	1	s i n
+036/061	sien	1	s ie n
+036/063	sien	1	s ie n
+036/065	sien	1	s ie n
+036/067	sin	1	s i n
+036/069	sien	1	s ie n
+036/071	sin	1	s i n
+036/073	sien	1	s ie n
+036/075	sien	1	s ie n
+036/077	sien	1	s ie n
+036/079	szien	1	s z ie n
+036/081	siin	1	s ii n
+036/083	sin	1	s i n
+036/085	sien	1	s ie n
+036/087	sin	1	s i n
+036/089	sien	1	s ie n
+036/091	sien	1	s ie n
+036/095	sien	1	s ie n
+036/097	sien	1	s ie n
+036/099	sien	1	s ie n
+036/101	sin	1	s i n
+036/103	sin	1	s i n
+036/105	sien	1	s ie n
+036/107	sin	1	s i n
+036/109	siehn	1	s ieh n
+036/111	sin	1	s i n
+036/113	sien	1	s ie n
+036/115	sien	1	s ie n
+036/117	sin	1	s i n
+036/119	sien	1	s ie n
+036/121	siehn	1	s ieh n
+036/123	sin	1	s i n
+036/125	sin	1	s i n
+036/127	sin	1	s i n
+036/129	sie	1	s ie
+036/133	siee	1	s iee
+036/135	si	1	s i
+036/137	sien	1	s ie n
+036/139	sie	1	s ie
+036/141	sia	1	s ia
+036/143	sio	1	s io
+036/147	sio	1	s io
+036/149	sieo	1	s ieo
+036/151	sio	1	s io
+036/153	sie	1	s ie
+036/155	siä	1	s iä
+036/161	sin	1	s i n
+036/163	siä	1	s iä
+036/165	sih	1	s ih
+036/167	sie	1	s ie
+036/169	sie	1	s ie
+036/171	sin	1	s i n
+037/033	sien	1	s ie n
+037/035	sin	1	s i n
+037/037	sin	1	s i n
+037/039	sien	1	s ie n
+037/041	sin	1	s i n
+037/043	sien	1	s ie n
+037/045	sin	1	s i n
+037/047	sihn	1	s ih n
+037/049	sien	1	s ie n
+037/051	sien	1	s ie n
+037/053	sien	1	s ie n
+037/055	sin	1	s i n
+037/057	sin	1	s i n
+037/059	sien	1	s ie n
+037/061	sien	1	s ie n
+037/063	sin	1	s i n
+037/065	sin	1	s i n
+037/067	siin	1	s ii n
+037/069	sien	1	s ie n
+037/071	sien	1	s ie n
+037/073	sien	1	s ie n
+037/075	sin	1	s i n
+037/077	sien	1	s ie n
+037/079	sin	1	s i n
+037/081	sien	1	s ie n
+037/083	sien	1	s ie n
+037/085	sien	1	s ie n
+037/087	sien	1	s ie n
+037/089	sien	1	s ie n
+037/091	sin	1	s i n
+037/093	sien	1	s ie n
+037/095	sien	1	s ie n
+037/097	sin	1	s i n
+037/099	sin	1	s i n
+037/101	sien	1	s ie n
+037/105	sin	1	s i n
+037/107	siin	1	s ii n
+037/109	sin	1	s i n
+037/111	sien	1	s ie n
+037/113	sin	1	s i n
+037/115	sin	1	s i n
+037/117	sin	1	s i n
+037/119	sin	1	s i n
+037/121	sien	1	s ie n
+037/123	sin	1	s i n
+037/125	siän	1	s iä n
+037/127	sien	1	s ie n
+037/129	sien	1	s ie n
+037/131	sin	1	s i n
+037/133	sein	1	s ei n
+037/135	sien	1	s ie n
+037/137	sin	1	s i n
+037/139	si	1	s i
+037/141	siä	1	s iä
+037/145	sieo	1	s ieo
+037/147	sio	1	s io
+037/149	sio	1	s io
+037/151	sihe	1	s i h e
+037/153	sio	1	s io
+037/155	sijo	1	s i j o
+037/157	siä	1	s iä
+037/159	syje	1	s y j e
+037/163	siä	1	s iä
+037/171	si	1	s i
+038/033	sin	1	s i n
+038/035	sien	1	s ie n
+038/037	sin	1	s i n
+038/039	sin	1	s i n
+038/041	sien	1	s ie n
+038/043	sin	1	s i n
+038/045	sien	1	s ie n
+038/047	sin	1	s i n
+038/049	sin	1	s i n
+038/051	sin	1	s i n
+038/053	sien	1	s ie n
+038/055	sin	1	s i n
+038/057	sin	1	s i n
+038/059	sin	1	s i n
+038/061	sien	1	s ie n
+038/063	sien	1	s ie n
+038/065	sien	1	s ie n
+038/067	sin	1	s i n
+038/069	sien	1	s ie n
+038/071	sin	1	s i n
+038/073	sien	1	s ie n
+038/075	sien	1	s ie n
+038/077	sin	1	s i n
+038/079	sihn	1	s ih n
+038/081	sien	1	s ie n
+038/083	sin	1	s i n
+038/085	sien	1	s ie n
+038/087	sien	1	s ie n
+038/089	sien	1	s ie n
+038/091	sin	1	s i n
+038/093	sien	1	s ie n
+038/095	sin	1	s i n
+038/097	sien	1	s ie n
+038/099	sien	1	s ie n
+038/101	sien	1	s ie n
+038/103	sien	1	s ie n
+038/105	sien	1	s ie n
+038/107	sien	1	s ie n
+038/109	sin	1	s i n
+038/111	sin	1	s i n
+038/113	sien	1	s ie n
+038/115	sien	1	s ie n
+038/117	sin	1	s i n
+038/119	sien	1	s ie n
+038/121	sin	1	s i n
+038/123	sien	1	s ie n
+038/125	sien	1	s ie n
+038/127	sien	1	s ie n
+038/129	sin	1	s i n
+038/131	sein	1	s ei n
+038/133	sein	1	s ei n
+038/135	sein	1	s ei n
+038/145	sio	1	s io
+038/147	sio	1	s io
+038/149	sieo	1	s ieo
+038/151	sieo	1	s ieo
+038/153	sin	1	s i n
+038/155	sio	1	s io
+038/159	sieo	1	s ieo
+038/161	sigä	1	s i g ä
+038/163	siä	1	s iä
+039/029	sien	1	s ie n
+039/031	sien	1	s ie n
+039/033	sien	1	s ie n
+039/035	sin	1	s i n
+039/037	sien	1	s ie n
+039/039	sien	1	s ie n
+039/041	sien	1	s ie n
+039/043	sin	1	s i n
+039/045	sien	1	s ie n
+039/047	sin	1	s i n
+039/049	sin	1	s i n
+039/051	sin	1	s i n
+039/053	sien	1	s ie n
+039/055	sien	1	s ie n
+039/057	sien	1	s ie n
+039/059	sien	1	s ie n
+039/061	sien	1	s ie n
+039/063	sien	1	s ie n
+039/065	dien	1	d ie n
+039/067	sien	1	s ie n
+039/069	sien	1	s ie n
+039/071	sien	1	s ie n
+039/073	sin	1	s i n
+039/075	sin	1	s i n
+039/077	sien	1	s ie n
+039/079	sin	1	s i n
+039/081	sien	1	s ie n
+039/083	sin	1	s i n
+039/085	sin	1	s i n
+039/087	sien	1	s ie n
+039/089	sien	1	s ie n
+039/091	sien	1	s ie n
+039/093	sin	1	s i n
+039/095	sien	1	s ie n
+039/097	sien	1	s ie n
+039/099	siin	1	s ii n
+039/101	sin	1	s i n
+039/103	sin	1	s i n
+039/105	sien	1	s ie n
+039/107	sin	1	s i n
+039/109	sien	1	s ie n
+039/111	sien	1	s ie n
+039/113	sien	1	s ie n
+039/115	sin	1	s i n
+039/117	sien	1	s ie n
+039/119	sin	1	s i n
+039/121	sien	1	s ie n
+039/123	sien	1	s ie n
+039/125	sin	1	s i n
+039/127	sien	1	s ie n
+039/129	sin	1	s i n
+039/131	sein	1	s ei n
+039/133	sein	1	s ei n
+039/135	sein	1	s ei n
+039/137	sein	1	s ei n
+039/139	sien	1	s ie n
+039/149	sio	1	s io
+039/151	sio	1	s io
+039/153	syjo	1	s y j o
+039/155	sie	1	s ie
+040/029	sien	1	s ie n
+040/031	sihn	1	s ih n
+040/033	sien	1	s ie n
+040/035	sin	1	s i n
+040/037	sien	1	s ie n
+040/039	sien	1	s ie n
+040/041	syn	1	s y n
+040/043	sin	1	s i n
+040/045	sien	1	s ie n
+040/047	sien	1	s ie n
+040/049	sien	1	s ie n
+040/051	sin	1	s i n
+040/053	sin	1	s i n
+040/055	sien	1	s ie n
+040/057	sien	1	s ie n
+040/059	sien	1	s ie n
+040/061	sien	1	s ie n
+040/063	sien	1	s ie n
+040/065	sien	1	s ie n
+040/067	sien	1	s ie n
+040/069	sin	1	s i n
+040/071	sien	1	s ie n
+040/073	sien	1	s ie n
+040/075	sien	1	s ie n
+040/077	sien	1	s ie n
+040/079	sien	1	s ie n
+040/081	sien	1	s ie n
+040/083	sien	1	s ie n
+040/085	sien	1	s ie n
+040/087	sien	1	s ie n
+040/089	sin	1	s i n
+040/091	sien	1	s ie n
+040/093	sien	1	s ie n
+040/095	sin	1	s i n
+040/097	sien	1	s ie n
+040/099	sien	1	s ie n
+040/101	sin	1	s i n
+040/103	sien	1	s ie n
+040/105	sien	1	s ie n
+040/107	sein	1	s ei n
+040/109	sein	1	s ei n
+040/111	sein	1	s ei n
+040/113	min	1	m i n
+040/115	sin	1	s i n
+040/119	sin	1	s i n
+040/121	sien	1	s ie n
+040/123	sien	1	s ie n
+040/125	sein	1	s ei n
+040/127	sein	1	s ei n
+040/129	sein	1	s ei n
+040/131	sein	1	s ei n
+040/133	sein	1	s ei n
+040/135	sein	1	s ei n
+040/137	sein	1	s ei n
+040/141	sein	1	s ei n
+040/143	sein	1	s ei n
+040/149	sein	1	s ei n
+040/153	sije	1	s i j e
+040/155	dijä	1	d i j ä
+041/031	sien	1	s ie n
+041/033	sin	1	s i n
+041/035	sin	1	s i n
+041/037	sien	1	s ie n
+041/039	sien	1	s ie n
+041/041	sien	1	s ie n
+041/043	sien	1	s ie n
+041/045	sien	1	s ie n
+041/047	sien	1	s ie n
+041/049	sien	1	s ie n
+041/051	sin	1	s i n
+041/053	sin	1	s i n
+041/055	sin	1	s i n
+041/057	sin	1	s i n
+041/059	sien	1	s ie n
+041/061	sien	1	s ie n
+041/063	sin	1	s i n
+041/065	sin	1	s i n
+041/067	sien	1	s ie n
+041/069	sien	1	s ie n
+041/071	sin	1	s i n
+041/073	sin	1	s i n
+041/075	sien	1	s ie n
+041/077	sien	1	s ie n
+041/079	sien	1	s ie n
+041/081	sien	1	s ie n
+041/083	sin	1	s i n
+041/085	sin	1	s i n
+041/087	sien	1	s ie n
+041/089	sien	1	s ie n
+041/091	sien	1	s ie n
+041/093	sihn	1	s ih n
+041/095	sin	1	s i n
+041/097	sin	1	s i n
+041/099	sien	1	s ie n
+041/101	sien	1	s ie n
+041/103	sien	1	s ie n
+041/105	sin	1	s i n
+041/107	sin	1	s i n
+041/109	dien	1	d ie n
+041/111	sein	1	s ei n
+041/113	sien	1	s ie n
+041/115	sin	1	s i n
+041/117	sien	1	s ie n
+041/119	sien	1	s ie n
+041/121	sin	1	s i n
+041/123	sien	1	s ie n
+041/125	sein	1	s ei n
+041/127	sein	1	s ei n
+041/129	sein	1	s ei n
+041/131	sein	1	s ei n
+041/133	sein	1	s ei n
+041/135	sen	1	s e n
+041/139	sein	1	s ei n
+041/141	sen	1	s e n
+041/145	sein	1	s ei n
+041/147	sai	1	s ai
+041/153	sieä	1	s ieä
+041/155	siä	1	s iä
+041/157	sien	1	s ie n
+041/159	siä	1	s iä
+041/161	sio	1	s io
+042/033	sien	1	s ie n
+042/035	sin	1	s i n
+042/037	sien	1	s ie n
+042/039	sin	1	s i n
+042/041	sin	1	s i n
+042/043	sin	1	s i n
+042/045	sien	1	s ie n
+042/047	sin	1	s i n
+042/051	sien	1	s ie n
+042/053	sin	1	s i n
+042/055	sien	1	s ie n
+042/057	sien	1	s ie n
+042/059	sin	1	s i n
+042/061	sien	1	s ie n
+042/063	sin	1	s i n
+042/065	sin	1	s i n
+042/067	sien	1	s ie n
+042/069	sien	1	s ie n
+042/071	sien	1	s ie n
+042/073	sien	1	s ie n
+042/075	sien	1	s ie n
+042/077	sien	1	s ie n
+042/079	sien	1	s ie n
+042/081	sien	1	s ie n
+042/083	sien	1	s ie n
+042/085	sin	1	s i n
+042/087	sien	1	s ie n
+042/089	sien	1	s ie n
+042/091	sin	1	s i n
+042/093	sien	1	s ie n
+042/095	sien	1	s ie n
+042/097	sihn	1	s ih n
+042/099	sin	1	s i n
+042/101	sin	1	s i n
+042/103	sien	1	s ie n
+042/105	sein	1	s ei n
+042/107	sin	1	s i n
+042/109	sin	1	s i n
+042/111	sien	1	s ie n
+042/113	sien	1	s ie n
+042/115	sien	1	s ie n
+042/117	sien	1	s ie n
+042/119	sien	1	s ie n
+042/121	sien	1	s ie n
+042/123	sein	1	s ei n
+042/125	sein	1	s ei n
+042/127	sein	1	s ei n
+042/129	sein	1	s ei n
+042/131	sein	1	s ei n
+042/133	sein	1	s ei n
+042/135	sein	1	s ei n
+042/137	sai	1	s ai
+042/139	sein	1	s ei n
+042/141	sai	1	s ai
+042/143	sai	1	s ai
+042/145	sei	1	s ei
+042/147	sai	1	s ai
+042/149	sei	1	s ei
+042/151	aier	1	aie r
+042/157	siä	1	s iä
+042/159	siehä	1	s ie h ä
+042/161	siä	1	s iä
+043/033	sien	1	s ie n
+043/035	sihn	1	s ih n
+043/037	sin	1	s i n
+043/039	sin	1	s i n
+043/041	sin	1	s i n
+043/043	sien	1	s ie n
+043/045	sihn	1	s ih n
+043/047	sien	1	s ie n
+043/049	siin	1	s ii n
+043/051	sien	1	s ie n
+043/053	sien	1	s ie n
+043/055	sin	1	s i n
+043/057	sihn	1	s ih n
+043/059	sin	1	s i n
+043/061	sien	1	s ie n
+043/063	sien	1	s ie n
+043/065	sien	1	s ie n
+043/067	sien	1	s ie n
+043/069	sien	1	s ie n
+043/071	säin	1	s äi n
+043/073	sien	1	s ie n
+043/075	sin	1	s i n
+043/077	sien	1	s ie n
+043/079	sien	1	s ie n
+043/081	sien	1	s ie n
+043/083	sien	1	s ie n
+043/085	sien	1	s ie n
+043/087	sin	1	s i n
+043/089	sin	1	s i n
+043/091	sin	1	s i n
+043/093	sin	1	s i n
+043/095	sin	1	s i n
+043/097	sien	1	s ie n
+043/099	sien	1	s ie n
+043/101	sin	1	s i n
+043/103	sien	1	s ie n
+043/105	sien	1	s ie n
+043/107	sin	1	s i n
+043/109	sien	1	s ie n
+043/111	sin	1	s i n
+043/113	sien	1	s ie n
+043/115	sien	1	s ie n
+043/117	sien	1	s ie n
+043/119	sein	1	s ei n
+043/121	sien	1	s ie n
+043/123	sein	1	s ei n
+043/125	sein	1	s ei n
+043/127	sin	1	s i n
+043/129	sein	1	s ei n
+043/131	sei	1	s ei
+043/133	sein	1	s ei n
+043/135	sein	1	s ei n
+043/137	sai	1	s ai
+043/141	sai	1	s ai
+043/143	sein	1	s ei n
+043/145	sai	1	s ai
+043/151	dei	1	d ei
+043/153	sei	1	s ei
+043/159	siög	1	s iö g
+043/161	se	1	s e
+044/033	sien	1	s ie n
+044/035	sien	1	s ie n
+044/039	sien	1	s ie n
+044/041	sin	1	s i n
+044/043	sin	1	s i n
+044/045	siän	1	s iä n
+044/047	ssin	1	ss i n
+044/049	sin	1	s i n
+044/051	suin	1	s ui n
+044/053	suin	1	s ui n
+044/055	suin	1	s ui n
+044/057	sin	1	s i n
+044/059	syn	1	s y n
+044/061	sien	1	s ie n
+044/063	sein	1	s ei n
+044/065	süin	1	s üi n
+044/067	soin	1	s oi n
+044/069	süin	1	s üi n
+044/071	sin	1	s i n
+044/073	sein	1	s ei n
+044/075	sien	1	s ie n
+044/077	sien	1	s ie n
+044/079	sin	1	s i n
+044/081	sien	1	s ie n
+044/083	sien	1	s ie n
+044/085	sien	1	s ie n
+044/087	sien	1	s ie n
+044/089	sien	1	s ie n
+044/091	sin	1	s i n
+044/093	sin	1	s i n
+044/095	sien	1	s ie n
+044/097	sin	1	s i n
+044/099	sien	1	s ie n
+044/101	sin	1	s i n
+044/103	sin	1	s i n
+044/105	sin	1	s i n
+044/107	sien	1	s ie n
+044/109	sin	1	s i n
+044/111	sien	1	s ie n
+044/113	sien	1	s ie n
+044/115	sien	1	s ie n
+044/117	seun	1	s eu n
+044/119	sien	1	s ie n
+044/121	sein	1	s ei n
+044/123	sein	1	s ei n
+044/125	sein	1	s ei n
+044/127	sein	1	s ei n
+044/129	sein	1	s ei n
+044/131	sei	1	s ei
+044/133	sei	1	s ei
+044/135	sain	1	s ai n
+044/137	sai	1	s ai
+044/141	sai	1	s ai
+044/143	sai	1	s ai
+044/145	sai	1	s ai
+044/149	sei	1	s ei
+044/151	sä	1	s ä
+044/153	sei	1	s ei
+045/033	sien	1	s ie n
+045/035	sien	1	s ie n
+045/037	sin	1	s i n
+045/039	sien	1	s ie n
+045/041	sin	1	s i n
+045/043	sien	1	s ie n
+045/045	sien	1	s ie n
+045/047	sin	1	s i n
+045/049	sin	1	s i n
+045/051	suin	1	s ui n
+045/053	sin	1	s i n
+045/055	süin	1	s üi n
+045/057	säin	1	s äi n
+045/059	soin	1	s oi n
+045/061	sein	1	s ei n
+045/063	sein	1	s ei n
+045/065	sein	1	s ei n
+045/067	söin	1	s öi n
+045/069	söin	1	s öi n
+045/071	säin	1	s äi n
+045/073	säin	1	s äi n
+045/075	sein	1	s ei n
+045/077	sien	1	s ie n
+045/079	sien	1	s ie n
+045/081	gu	1	g u
+045/083	sien	1	s ie n
+045/085	sin	1	s i n
+045/087	sien	1	s ie n
+045/089	sien	1	s ie n
+045/091	sin	1	s i n
+045/093	sien	1	s ie n
+045/095	sien	1	s ie n
+045/097	sien	1	s ie n
+045/099	sien	1	s ie n
+045/101	sin	1	s i n
+045/103	sien	1	s ie n
+045/105	sien	1	s ie n
+045/107	sin	1	s i n
+045/109	sin	1	s i n
+045/111	sien	1	s ie n
+045/113	sein	1	s ei n
+045/115	sein	1	s ei n
+045/117	sein	1	s ei n
+045/119	sein	1	s ei n
+045/121	sein	1	s ei n
+045/123	sein	1	s ei n
+045/125	sein	1	s ei n
+045/127	sein	1	s ei n
+045/129	sein	1	s ei n
+045/131	sei	1	s ei
+045/133	sei	1	s ei
+045/135	sei	1	s ei
+045/137	sai	1	s ai
+045/139	sai	1	s ai
+045/141	sei	1	s ei
+045/143	sai	1	s ai
+045/145	sai	1	s ai
+045/155	sai	1	s ai
+046/031	sien	1	s ie n
+046/033	sin	1	s i n
+046/035	sien	1	s ie n
+046/037	sie	1	s ie
+046/039	sien	1	s ie n
+046/041	sien	1	s ie n
+046/043	sin	1	s i n
+046/045	sin	1	s i n
+046/047	suin	1	s ui n
+046/049	suin	1	s ui n
+046/051	sin	1	s i n
+046/053	süin	1	s üi n
+046/055	sün	1	s ü n
+046/057	sein	1	s ei n
+046/059	sien	1	s ie n
+046/061	suin	1	s ui n
+046/063	sein	1	s ei n
+046/065	söin	1	s öi n
+046/067	söin	1	s öi n
+046/069	säin	1	s äi n
+046/071	säin	1	s äi n
+046/073	seuin	1	s eui n
+046/075	säin	1	s äi n
+046/077	sien	1	s ie n
+046/079	siin	1	s ii n
+046/081	sien	1	s ie n
+046/083	sin	1	s i n
+046/085	sin	1	s i n
+046/087	sien	1	s ie n
+046/089	sien	1	s ie n
+046/091	sien	1	s ie n
+046/093	sien	1	s ie n
+046/095	sien	1	s ie n
+046/097	sien	1	s ie n
+046/099	sien	1	s ie n
+046/101	sien	1	s ie n
+046/103	sihn	1	s ih n
+046/105	sin	1	s i n
+046/107	sien	1	s ie n
+046/109	sie	1	s ie
+046/111	sien	1	s ie n
+046/113	sien	1	s ie n
+046/115	sein	1	s ei n
+046/117	sein	1	s ei n
+046/119	sein	1	s ei n
+046/121	sein	1	s ei n
+046/123	sein	1	s ei n
+046/125	sein	1	s ei n
+046/127	sein	1	s ei n
+046/129	sein	1	s ei n
+046/131	sein	1	s ei n
+046/133	sai	1	s ai
+046/135	sä	1	s ä
+046/137	sei	1	s ei
+046/139	se	1	s e
+046/141	sein	1	s ei n
+046/143	sei	1	s ei
+046/155	säin	1	s äi n
+047/031	sin	1	s i n
+047/033	sihn	1	s ih n
+047/035	sien	1	s ie n
+047/037	sin	1	s i n
+047/039	sien	1	s ie n
+047/041	sin	1	s i n
+047/043	sien	1	s ie n
+047/045	sin	1	s i n
+047/047	sin	1	s i n
+047/049	sien	1	s ie n
+047/051	suin	1	s ui n
+047/053	süin	1	s üi n
+047/055	suin	1	s ui n
+047/057	süin	1	s üi n
+047/059	sien	1	s ie n
+047/061	säin	1	s äi n
+047/063	säin	1	s äi n
+047/065	säin	1	s äi n
+047/067	söin	1	s öi n
+047/069	sin	1	s i n
+047/071	sien	1	s ie n
+047/073	säin	1	s äi n
+047/075	säin	1	s äi n
+047/077	sien	1	s ie n
+047/079	sin	1	s i n
+047/081	sien	1	s ie n
+047/083	sien	1	s ie n
+047/085	siin	1	s ii n
+047/087	sien	1	s ie n
+047/089	sien	1	s ie n
+047/091	sien	1	s ie n
+047/093	sin	1	s i n
+047/095	sien	1	s ie n
+047/097	sien	1	s ie n
+047/099	siin	1	s ii n
+047/101	sin	1	s i n
+047/103	sien	1	s ie n
+047/105	siehn	1	s ieh n
+047/107	sihn	1	s ih n
+047/109	sien	1	s ie n
+047/111	sien	1	s ie n
+047/113	sien	1	s ie n
+047/115	sein	1	s ei n
+047/117	sein	1	s ei n
+047/119	sein	1	s ei n
+047/123	sein	1	s ei n
+047/125	sein	1	s ei n
+047/127	sein	1	s ei n
+047/129	sein	1	s ei n
+047/131	sä	1	s ä
+047/133	see	1	s ee
+047/135	sei	1	s ei
+047/137	sei	1	s ei
+047/139	säng	1	s ä ng
+047/141	sej	1	s e j
+047/147	sejn	1	s e j n
+047/149	see	1	s ee
+047/151	se	1	s e
+047/159	sei	1	s ei
+048/021	sinn	1	s i nn
+048/023	sin	1	s i n
+048/027	sien	1	s ie n
+048/029	sin	1	s i n
+048/031	sin	1	s i n
+048/033	sihn	1	s ih n
+048/035	sien	1	s ie n
+048/037	sin	1	s i n
+048/039	sien	1	s ie n
+048/041	sin	1	s i n
+048/045	sin	1	s i n
+048/047	sein	1	s ei n
+048/049	säin	1	s äi n
+048/051	sin	1	s i n
+048/053	sün	1	s ü n
+048/055	süin	1	s üi n
+048/057	suin	1	s ui n
+048/059	souin	1	s oui n
+048/061	säin	1	s äi n
+048/063	sien	1	s ie n
+048/065	säin	1	s äi n
+048/067	säin	1	s äi n
+048/069	säin	1	s äi n
+048/071	sei	1	s ei
+048/073	säin	1	s äi n
+048/075	sinn	1	s i nn
+048/077	sien	1	s ie n
+048/079	sin	1	s i n
+048/081	sien	1	s ie n
+048/083	sihn	1	s ih n
+048/085	sien	1	s ie n
+048/087	sien	1	s ie n
+048/089	sein	1	s ei n
+048/091	sein	1	s ei n
+048/093	sin	1	s i n
+048/095	sein	1	s ei n
+048/099	sein	1	s ei n
+048/101	sein	1	s ei n
+048/103	sien	1	s ie n
+048/105	sien	1	s ie n
+048/107	sin	1	s i n
+048/109	sien	1	s ie n
+048/111	siin	1	s ii n
+048/113	sein	1	s ei n
+048/115	sein	1	s ei n
+048/119	sein	1	s ei n
+048/123	sein	1	s ei n
+048/125	sein	1	s ei n
+048/127	sein	1	s ei n
+048/129	sein	1	s ei n
+048/131	sä	1	s ä
+048/133	see	1	s ee
+048/135	see	1	s ee
+048/137	sä	1	s ä
+048/139	seei	1	s eei
+048/141	se	1	s e
+048/143	see	1	s ee
+048/145	seh	1	s eh
+048/147	se	1	s e
+048/153	see	1	s ee
+048/157	se	1	s e
+048/159	sein	1	s ei n
+049/019	sin	1	s i n
+049/021	sin	1	s i n
+049/023	sin	1	s i n
+049/025	sien	1	s ie n
+049/027	sin	1	s i n
+049/029	sin	1	s i n
+049/031	sien	1	s ie n
+049/033	sien	1	s ie n
+049/035	sien	1	s ie n
+049/037	sin	1	s i n
+049/039	sien	1	s ie n
+049/041	sien	1	s ie n
+049/043	sin	1	s i n
+049/045	sin	1	s i n
+049/047	sien	1	s ie n
+049/049	sin	1	s i n
+049/051	suin	1	s ui n
+049/053	sein	1	s ei n
+049/055	suin	1	s ui n
+049/057	söin	1	s öi n
+049/059	suin	1	s ui n
+049/061	soin	1	s oi n
+049/063	sööin	1	s ööi n
+049/065	soin	1	s oi n
+049/067	soin	1	s oi n
+049/069	säin	1	s äi n
+049/071	säin	1	s äi n
+049/073	sei	1	s ei
+049/077	sien	1	s ie n
+049/079	sin	1	s i n
+049/081	sihn	1	s ih n
+049/083	sin	1	s i n
+049/085	sin	1	s i n
+049/087	sein	1	s ei n
+049/089	sein	1	s ei n
+049/091	sain	1	s ai n
+049/093	sein	1	s ei n
+049/095	sei	1	s ei
+049/097	sein	1	s ei n
+049/099	sein	1	s ei n
+049/101	sein	1	s ei n
+049/103	sein	1	s ei n
+049/105	sien	1	s ie n
+049/107	sien	1	s ie n
+049/109	sien	1	s ie n
+049/111	sien	1	s ie n
+049/113	sin	1	s i n
+049/115	sein	1	s ei n
+049/117	sein	1	s ei n
+049/119	sein	1	s ei n
+049/121	sein	1	s ei n
+049/123	sein	1	s ei n
+049/125	sein	1	s ei n
+049/127	sein	1	s ei n
+049/129	sei	1	s ei
+049/131	sei	1	s ei
+049/133	se	1	s e
+049/135	seh	1	s eh
+049/137	se	1	s e
+049/139	se	1	s e
+049/141	see	1	s ee
+049/143	se	1	s e
+049/145	se	1	s e
+049/147	sä	1	s ä
+049/151	see	1	s ee
+050/021	sinn	1	s i nn
+050/023	sei	1	s ei
+050/025	sinn	1	s i nn
+050/027	sinn	1	s i nn
+050/029	sinn	1	s i nn
+050/031	sin	1	s i n
+050/033	sien	1	s ie n
+050/035	sin	1	s i n
+050/037	sien	1	s ie n
+050/039	sin	1	s i n
+050/041	sien	1	s ie n
+050/043	jou	1	j ou
+050/047	seiin	1	s eii n
+050/049	suin	1	s ui n
+050/051	syn	1	s y n
+050/053	syn	1	s y n
+050/055	sein	1	s ei n
+050/057	säin	1	s äi n
+050/059	sein	1	s ei n
+050/061	siein	1	s iei n
+050/063	seein	1	s eei n
+050/065	sein	1	s ei n
+050/067	sain	1	s ai n
+050/069	säin	1	s äi n
+050/071	säin	1	s äi n
+050/073	sien	1	s ie n
+050/075	sei	1	s ei
+050/077	sien	1	s ie n
+050/079	sin	1	s i n
+050/081	sin	1	s i n
+050/083	siin	1	s ii n
+050/085	sin	1	s i n
+050/087	sein	1	s ei n
+050/089	säi	1	s äi
+050/091	sein	1	s ei n
+050/093	sei	1	s ei
+050/095	sein	1	s ei n
+050/097	sei	1	s ei
+050/099	sei	1	s ei
+050/101	sein	1	s ei n
+050/103	sein	1	s ei n
+050/105	sein	1	s ei n
+050/107	sien	1	s ie n
+050/109	sin	1	s i n
+050/111	sin	1	s i n
+050/113	siäen	1	s iäe n
+050/115	sein	1	s ei n
+050/117	sein	1	s ei n
+050/119	sein	1	s ei n
+050/121	sein	1	s ei n
+050/125	sein	1	s ei n
+050/127	sei	1	s ei
+050/129	sai	1	s ai
+050/131	sai	1	s ai
+050/133	seh	1	s eh
+050/135	se	1	s e
+050/137	se	1	s e
+050/139	see	1	s ee
+050/141	see	1	s ee
+050/143	sei	1	s ei
+050/145	se	1	s e
+050/147	se	1	s e
+050/149	sen	1	s e n
+050/151	see	1	s ee
+050/155	säi	1	s äi
+050/157	se	1	s e
+050/159	se	1	s e
+050/161	sei	1	s ei
+051/023	sin	1	s i n
+051/025	sin	1	s i n
+051/027	sinn	1	s i nn
+051/029	sin	1	s i n
+051/031	dien	1	d ie n
+051/033	sien	1	s ie n
+051/035	sin	1	s i n
+051/037	sin	1	s i n
+051/039	sihn	1	s ih n
+051/041	sein	1	s ei n
+051/043	suin	1	s ui n
+051/045	suin	1	s ui n
+051/047	suin	1	s ui n
+051/049	suin	1	s ui n
+051/051	sein	1	s ei n
+051/053	seiin	1	s eii n
+051/055	söin	1	s öi n
+051/057	sin	1	s i n
+051/059	sein	1	s ei n
+051/061	sin	1	s i n
+051/063	söin	1	s öi n
+051/065	säin	1	s äi n
+051/067	sin	1	s i n
+051/069	siin	1	s ii n
+051/071	sien	1	s ie n
+051/073	sin	1	s i n
+051/075	sinn	1	s i nn
+051/077	sien	1	s ie n
+051/079	sien	1	s ie n
+051/081	sien	1	s ie n
+051/083	sien	1	s ie n
+051/085	sei	1	s ei
+051/087	sei	1	s ei
+051/089	sein	1	s ei n
+051/091	sei	1	s ei
+051/093	sei	1	s ei
+051/095	sei	1	s ei
+051/097	sein	1	s ei n
+051/099	sei	1	s ei
+051/101	sei	1	s ei
+051/103	sei	1	s ei
+051/105	sein	1	s ei n
+051/107	sein	1	s ei n
+051/109	sein	1	s ei n
+051/111	sein	1	s ei n
+051/113	sein	1	s ei n
+051/115	sein	1	s ei n
+051/117	sein	1	s ei n
+051/119	sein	1	s ei n
+051/121	sein	1	s ei n
+051/123	sein	1	s ei n
+051/125	sei	1	s ei
+051/127	sei	1	s ei
+051/129	sei	1	s ei
+051/131	sei	1	s ei
+051/133	sei	1	s ei
+051/135	see	1	s ee
+051/137	see	1	s ee
+051/139	se	1	s e
+051/141	se	1	s e
+051/143	sei	1	s ei
+051/145	sä	1	s ä
+051/147	see	1	s ee
+051/149	see	1	s ee
+051/151	see	1	s ee
+051/153	see	1	s ee
+051/155	sei	1	s ei
+051/157	see	1	s ee
+052/023	sinn	1	s i nn
+052/025	sinn	1	s i nn
+052/027	sinn	1	s i nn
+052/029	sin	1	s i n
+052/031	sin	1	s i n
+052/033	sin	1	s i n
+052/035	sien	1	s ie n
+052/037	sin	1	s i n
+052/039	sihn	1	s ih n
+052/041	säin	1	s äi n
+052/043	sein	1	s ei n
+052/045	suin	1	s ui n
+052/047	muin	1	m ui n
+052/049	suin	1	s ui n
+052/051	säin	1	s äi n
+052/053	syn	1	s y n
+052/057	sein	1	s ei n
+052/059	säin	1	s äi n
+052/061	sien	1	s ie n
+052/063	sin	1	s i n
+052/065	sien	1	s ie n
+052/067	szien	1	s z ie n
+052/069	sien	1	s ie n
+052/071	sin	1	s i n
+052/073	sihn	1	s ih n
+052/075	sinn	1	s i nn
+052/077	sinn	1	s i nn
+052/079	sinn	1	s i nn
+052/081	sin	1	s i n
+052/083	sin	1	s i n
+052/085	sei	1	s ei
+052/087	sei	1	s ei
+052/089	sei	1	s ei
+052/091	sein	1	s ei n
+052/093	sei	1	s ei
+052/095	sei	1	s ei
+052/097	sei	1	s ei
+052/099	sei	1	s ei
+052/101	sein	1	s ei n
+052/103	sein	1	s ei n
+052/105	sei	1	s ei
+052/107	sei	1	s ei
+052/109	sei	1	s ei
+052/111	sein	1	s ei n
+052/113	sein	1	s ei n
+052/115	sein	1	s ei n
+052/117	sein	1	s ei n
+052/121	sein	1	s ei n
+052/123	sein	1	s ei n
+052/125	sei	1	s ei
+052/127	sei	1	s ei
+052/129	sei	1	s ei
+052/131	sei	1	s ei
+052/133	sein	1	s ei n
+052/135	sei	1	s ei
+052/137	se	1	s e
+052/139	se	1	s e
+052/141	se	1	s e
+052/143	se	1	s e
+052/145	sei	1	s ei
+052/147	see	1	s ee
+052/149	see	1	s ee
+052/151	seh	1	s eh
+052/153	säi	1	s äi
+052/155	see	1	s ee
+052/157	see	1	s ee
+052/159	sei	1	s ei
+053/023	sin	1	s i n
+053/025	sien	1	s ie n
+053/027	sin	1	s i n
+053/029	sin	1	s i n
+053/031	simm	1	s i mm
+053/033	sin	1	s i n
+053/035	sin	1	s i n
+053/037	sien	1	s ie n
+053/039	sien	1	s ie n
+053/041	min	1	m i n
+053/043	säin	1	s äi n
+053/045	seein	1	s eei n
+053/047	suin	1	s ui n
+053/049	suin	1	s ui n
+053/051	sein	1	s ei n
+053/053	säin	1	s äi n
+053/055	sin	1	s i n
+053/057	sien	1	s ie n
+053/059	sin	1	s i n
+053/061	sien	1	s ie n
+053/063	sien	1	s ie n
+053/065	ssin	1	ss i n
+053/067	sin	1	s i n
+053/069	sin	1	s i n
+053/071	siin	1	s ii n
+053/073	sien	1	s ie n
+053/075	sin	1	s i n
+053/077	sen	1	s e n
+053/079	sin	1	s i n
+053/081	sin	1	s i n
+053/083	si	1	s i
+053/085	sei	1	s ei
+053/087	sei	1	s ei
+053/089	sei	1	s ei
+053/091	sei	1	s ei
+053/093	sei	1	s ei
+053/095	sei	1	s ei
+053/097	sei	1	s ei
+053/099	sei	1	s ei
+053/101	sei	1	s ei
+053/103	sein	1	s ei n
+053/105	sei	1	s ei
+053/107	sei	1	s ei
+053/109	sei	1	s ei
+053/111	sein	1	s ei n
+053/113	sei	1	s ei
+053/115	sei	1	s ei
+053/121	sein	1	s ei n
+053/123	sei	1	s ei
+053/125	sei	1	s ei
+053/127	sei	1	s ei
+053/129	sei	1	s ei
+053/131	sei	1	s ei
+053/133	sei	1	s ei
+053/135	sei	1	s ei
+053/137	se	1	s e
+053/139	sei	1	s ei
+053/141	se	1	s e
+053/143	säi	1	s äi
+053/145	se	1	s e
+053/147	see	1	s ee
+053/149	mäi	1	m äi
+053/151	seh	1	s eh
+053/153	se	1	s e
+053/155	se	1	s e
+053/157	see	1	s ee
+054/023	sim	1	s i m
+054/025	sinn	1	s i nn
+054/027	si	1	s i
+054/029	si	1	s i
+054/031	sinn	1	s i nn
+054/033	sinn	1	s i nn
+054/035	sin	1	s i n
+054/037	sin	1	s i n
+054/039	sin	1	s i n
+054/041	sein	1	s ei n
+054/043	seiin	1	s eii n
+054/045	seyn	1	s ey n
+054/047	suin	1	s ui n
+054/049	suin	1	s ui n
+054/051	söin	1	s öi n
+054/053	säin	1	s äi n
+054/055	sin	1	s i n
+054/057	sin	1	s i n
+054/059	sien	1	s ie n
+054/061	sien	1	s ie n
+054/063	sin	1	s i n
+054/065	siin	1	s ii n
+054/067	sin	1	s i n
+054/069	sin	1	s i n
+054/071	sienn	1	s ie nn
+054/073	sin	1	s i n
+054/075	siin	1	s ii n
+054/077	sin	1	s i n
+054/079	sinn	1	s i nn
+054/081	si	1	s i
+054/083	si	1	s i
+054/085	sei	1	s ei
+054/087	sei	1	s ei
+054/089	sei	1	s ei
+054/091	sei	1	s ei
+054/093	sei	1	s ei
+054/095	sei	1	s ei
+054/097	sei	1	s ei
+054/099	sei	1	s ei
+054/101	sei	1	s ei
+054/103	sei	1	s ei
+054/105	sei	1	s ei
+054/107	sei	1	s ei
+054/109	sei	1	s ei
+054/111	sei	1	s ei
+054/113	sei	1	s ei
+054/115	sei	1	s ei
+054/117	sei	1	s ei
+054/119	sein	1	s ei n
+054/121	sein	1	s ei n
+054/123	sei	1	s ei
+054/125	sei	1	s ei
+054/127	sei	1	s ei
+054/131	sei	1	s ei
+054/133	sei	1	s ei
+054/135	säh	1	s äh
+054/137	sä	1	s ä
+054/139	se	1	s e
+054/141	se	1	s e
+054/143	see	1	s ee
+054/145	se	1	s e
+054/147	seen	1	s ee n
+054/149	se	1	s e
+054/151	se	1	s e
+054/153	se	1	s e
+054/155	seei	1	s eei
+054/157	se	1	s e
+054/159	sei	1	s ei
+054/161	sei	1	s ei
+054/163	sien	1	s ie n
+055/023	sim	1	s i m
+055/025	si	1	s i
+055/027	si	1	s i
+055/029	si	1	s i
+055/031	si	1	s i
+055/033	sin	1	s i n
+055/035	sin	1	s i n
+055/037	sien	1	s ie n
+055/039	sin	1	s i n
+055/041	seein	1	s eei n
+055/043	säyn	1	s äy n
+055/045	säin	1	s äi n
+055/047	säin	1	s äi n
+055/049	säin	1	s äi n
+055/051	sinn	1	s i nn
+055/053	sin	1	s i n
+055/055	sin	1	s i n
+055/057	sinn	1	s i nn
+055/059	sinn	1	s i nn
+055/061	sin	1	s i n
+055/063	sin	1	s i n
+055/065	sinn	1	s i nn
+055/067	sin	1	s i n
+055/069	sin	1	s i n
+055/071	sinn	1	s i nn
+055/073	sin	1	s i n
+055/075	sin	1	s i n
+055/077	sinn	1	s i nn
+055/079	si	1	s i
+055/081	si	1	s i
+055/083	si	1	s i
+055/085	sei	1	s ei
+055/087	sei	1	s ei
+055/089	sei	1	s ei
+055/091	sei	1	s ei
+055/093	sei	1	s ei
+055/095	sei	1	s ei
+055/097	sei	1	s ei
+055/099	sei	1	s ei
+055/101	sei	1	s ei
+055/103	sei	1	s ei
+055/105	sei	1	s ei
+055/107	sei	1	s ei
+055/109	sei	1	s ei
+055/111	sei	1	s ei
+055/113	sei	1	s ei
+055/115	sei	1	s ei
+055/117	sei	1	s ei
+055/119	sei	1	s ei
+055/123	sein	1	s ei n
+055/125	sei	1	s ei
+055/127	sei	1	s ei
+055/131	sei	1	s ei
+055/133	sei	1	s ei
+055/135	sä	1	s ä
+055/137	dä	1	d ä
+055/139	sei	1	s ei
+055/141	sei	1	s ei
+055/143	se	1	s e
+055/145	säh	1	s äh
+055/147	see	1	s ee
+055/149	see	1	s ee
+055/151	see	1	s ee
+055/153	se	1	s e
+055/155	se	1	s e
+055/157	se	1	s e
+055/159	sei	1	s ei
+055/161	sein	1	s ei n
+056/021	sinn	1	s i nn
+056/023	si	1	s i
+056/025	sin	1	s i n
+056/027	sie	1	s ie
+056/029	si	1	s i
+056/031	si	1	s i
+056/033	siehn	1	s ieh n
+056/035	sin	1	s i n
+056/037	sien	1	s ie n
+056/039	sien	1	s ie n
+056/041	sinn	1	s i nn
+056/043	syin	1	s yi n
+056/045	sien	1	s ie n
+056/047	säin	1	s äi n
+056/049	sein	1	s ei n
+056/051	sinn	1	s i nn
+056/053	sin	1	s i n
+056/055	sie	1	s ie
+056/057	sinn	1	s i nn
+056/059	sinn	1	s i nn
+056/061	sin	1	s i n
+056/063	sinn	1	s i nn
+056/065	sin	1	s i n
+056/067	sin	1	s i n
+056/069	sinn	1	s i nn
+056/071	sinn	1	s i nn
+056/073	sinn	1	s i nn
+056/075	sin	1	s i n
+056/077	sinn	1	s i nn
+056/079	sie	1	s ie
+056/081	si	1	s i
+056/083	si	1	s i
+056/085	sei	1	s ei
+056/087	sei	1	s ei
+056/089	sei	1	s ei
+056/091	sei	1	s ei
+056/093	sei	1	s ei
+056/095	sei	1	s ei
+056/097	sei	1	s ei
+056/099	sei	1	s ei
+056/101	sei	1	s ei
+056/103	sei	1	s ei
+056/105	sei	1	s ei
+056/107	sei	1	s ei
+056/109	sei	1	s ei
+056/111	sein	1	s ei n
+056/113	sei	1	s ei
+056/115	sei	1	s ei
+056/117	sei	1	s ei
+056/121	sei	1	s ei
+056/123	sei	1	s ei
+056/125	sei	1	s ei
+056/127	sei	1	s ei
+056/129	sei	1	s ei
+056/131	sei	1	s ei
+056/133	sei	1	s ei
+056/135	sei	1	s ei
+056/137	sä	1	s ä
+056/139	sä	1	s ä
+056/141	sei	1	s ei
+056/143	se	1	s e
+056/145	sei	1	s ei
+056/147	see	1	s ee
+056/149	se	1	s e
+056/151	se	1	s e
+056/153	see	1	s ee
+056/155	see	1	s ee
+056/157	se	1	s e
+056/159	sä	1	s ä
+056/161	sei	1	s ei
+057/021	si	1	s i
+057/023	si	1	s i
+057/025	sih	1	s ih
+057/027	si	1	s i
+057/029	si	1	s i
+057/031	sing	1	s i ng
+057/033	sinn	1	s i nn
+057/035	seng	1	s e ng
+057/037	sihn	1	s ih n
+057/039	sien	1	s ie n
+057/041	sin	1	s i n
+057/043	sien	1	s ie n
+057/045	sien	1	s ie n
+057/047	seyn	1	s ey n
+057/049	säin	1	s äi n
+057/051	säin	1	s äi n
+057/053	sin	1	s i n
+057/055	säin	1	s äi n
+057/057	säin	1	s äi n
+057/059	sing	1	s i ng
+057/061	sinn	1	s i nn
+057/063	sin	1	s i n
+057/065	sin	1	s i n
+057/067	sinn	1	s i nn
+057/069	sin	1	s i n
+057/071	sinn	1	s i nn
+057/073	sinn	1	s i nn
+057/075	sinn	1	s i nn
+057/077	sinn	1	s i nn
+057/079	si	1	s i
+057/081	si	1	s i
+057/083	si	1	s i
+057/085	sei	1	s ei
+057/087	sei	1	s ei
+057/089	sei	1	s ei
+057/091	sei	1	s ei
+057/093	sei	1	s ei
+057/095	säi	1	s äi
+057/097	sei	1	s ei
+057/099	sei	1	s ei
+057/101	sei	1	s ei
+057/103	sei	1	s ei
+057/105	sei	1	s ei
+057/107	sei	1	s ei
+057/109	sei	1	s ei
+057/111	sei	1	s ei
+057/113	sei	1	s ei
+057/115	sei	1	s ei
+057/117	sei	1	s ei
+057/119	sei	1	s ei
+057/121	sei	1	s ei
+057/123	sei	1	s ei
+057/125	sei	1	s ei
+057/127	sei	1	s ei
+057/129	se	1	s e
+057/131	sei	1	s ei
+057/133	sei	1	s ei
+057/135	sä	1	s ä
+057/137	sä	1	s ä
+057/139	sei	1	s ei
+057/141	sei	1	s ei
+057/143	sei	1	s ei
+057/145	sei	1	s ei
+057/147	sei	1	s ei
+057/149	se	1	s e
+057/151	see	1	s ee
+057/153	see	1	s ee
+057/155	se	1	s e
+057/157	seen	1	s ee n
+057/159	sei	1	s ei
+057/161	sei	1	s ei
+058/019	si	1	s i
+058/021	si	1	s i
+058/023	sen	1	s e n
+058/025	si	1	s i
+058/027	si	1	s i
+058/029	se	1	s e
+058/031	si	1	s i
+058/033	sim	1	s i m
+058/035	sien	1	s ie n
+058/037	se	1	s e
+058/039	sien	1	s ie n
+058/041	sin	1	s i n
+058/043	sien	1	s ie n
+058/045	sien	1	s ie n
+058/047	sei	1	s ei
+058/049	sei	1	s ei
+058/051	sai	1	s ai
+058/053	sei	1	s ei
+058/055	sei	1	s ei
+058/057	säin	1	s äi n
+058/059	sin	1	s i n
+058/061	sin	1	s i n
+058/063	sinn	1	s i nn
+058/065	sinn	1	s i nn
+058/067	sin	1	s i n
+058/069	sinn	1	s i nn
+058/071	sin	1	s i n
+058/073	sin	1	s i n
+058/075	sin	1	s i n
+058/077	sin	1	s i n
+058/079	si	1	s i
+058/081	si	1	s i
+058/083	sei	1	s ei
+058/085	sei	1	s ei
+058/087	sei	1	s ei
+058/089	sei	1	s ei
+058/091	sei	1	s ei
+058/093	sei	1	s ei
+058/095	sei	1	s ei
+058/097	sei	1	s ei
+058/099	sei	1	s ei
+058/101	sei	1	s ei
+058/103	sei	1	s ei
+058/105	sei	1	s ei
+058/107	sei	1	s ei
+058/109	sei	1	s ei
+058/111	sei	1	s ei
+058/113	sei	1	s ei
+058/115	sei	1	s ei
+058/117	sei	1	s ei
+058/119	sei	1	s ei
+058/121	sei	1	s ei
+058/123	sei	1	s ei
+058/125	sei	1	s ei
+058/127	sei	1	s ei
+058/129	sai	1	s ai
+058/131	sei	1	s ei
+058/133	sai	1	s ai
+058/135	se	1	s e
+058/137	säi	1	s äi
+058/139	sei	1	s ei
+058/141	sei	1	s ei
+058/143	sei	1	s ei
+058/145	sei	1	s ei
+058/147	sei	1	s ei
+058/149	see	1	s ee
+058/151	sei	1	s ei
+058/153	sei	1	s ei
+058/155	sei	1	s ei
+058/157	sei	1	s ei
+058/159	sei	1	s ei
+059/019	diene	1	d ie n e
+059/021	sie	1	s ie
+059/023	si	1	s i
+059/025	si	1	s i
+059/027	seng	1	s e ng
+059/029	sie	1	s ie
+059/031	si	1	s i
+059/033	sing	1	s i ng
+059/035	si	1	s i
+059/037	sing	1	s i ng
+059/039	seng	1	s e ng
+059/041	sin	1	s i n
+059/043	sinn	1	s i nn
+059/045	sin	1	s i n
+059/047	sei	1	s ei
+059/049	sein	1	s ei n
+059/051	sein	1	s ei n
+059/053	sei	1	s ei
+059/055	sei	1	s ei
+059/057	seng	1	s e ng
+059/059	seng	1	s e ng
+059/061	sing	1	s i ng
+059/063	sing	1	s i ng
+059/065	sinn	1	s i nn
+059/067	sin	1	s i n
+059/069	sinn	1	s i nn
+059/071	sin	1	s i n
+059/073	sin	1	s i n
+059/075	sinn	1	s i nn
+059/077	sei	1	s ei
+059/079	si	1	s i
+059/081	sai	1	s ai
+059/083	sei	1	s ei
+059/085	sei	1	s ei
+059/087	sei	1	s ei
+059/089	sei	1	s ei
+059/091	sä	1	s ä
+059/093	sei	1	s ei
+059/095	sei	1	s ei
+059/097	sei	1	s ei
+059/099	sei	1	s ei
+059/101	sei	1	s ei
+059/103	sei	1	s ei
+059/105	sei	1	s ei
+059/107	sei	1	s ei
+059/109	sei	1	s ei
+059/111	sei	1	s ei
+059/113	sei	1	s ei
+059/115	sei	1	s ei
+059/117	sei	1	s ei
+059/119	sei	1	s ei
+059/121	sei	1	s ei
+059/123	sei	1	s ei
+059/125	sei	1	s ei
+059/127	senn	1	s e nn
+059/129	sei	1	s ei
+059/131	saj	1	s a j
+059/133	sei	1	s ei
+059/135	sei	1	s ei
+059/137	sei	1	s ei
+059/139	sei	1	s ei
+059/141	sei	1	s ei
+059/143	sei	1	s ei
+059/145	sei	1	s ei
+059/147	sei	1	s ei
+059/149	sei	1	s ei
+059/151	sei	1	s ei
+059/153	sei	1	s ei
+059/155	sei	1	s ei
+059/157	sei	1	s ei
+059/159	se	1	s e
+059/161	sei	1	s ei
+059/165	see	1	s ee
+059/169	sei	1	s ei
+060/021	si	1	s i
+060/023	si	1	s i
+060/025	siä	1	s iä
+060/027	si	1	s i
+060/029	sie	1	s ie
+060/031	sih	1	s ih
+060/033	sie	1	s ie
+060/035	seng	1	s e ng
+060/037	seng	1	s e ng
+060/039	seng	1	s e ng
+060/041	seng	1	s e ng
+060/043	sie	1	s ie
+060/045	sinn	1	s i nn
+060/047	sei	1	s ei
+060/049	sei	1	s ei
+060/051	sei	1	s ei
+060/053	sei	1	s ei
+060/055	sei	1	s ei
+060/057	sei	1	s ei
+060/059	seng	1	s e ng
+060/061	seng	1	s e ng
+060/063	sie	1	s ie
+060/065	sinn	1	s i nn
+060/067	si	1	s i
+060/069	sie	1	s ie
+060/071	sie	1	s ie
+060/073	si	1	s i
+060/075	sin	1	s i n
+060/077	si	1	s i
+060/079	si	1	s i
+060/081	sie	1	s ie
+060/083	sei	1	s ei
+060/085	sei	1	s ei
+060/087	sai	1	s ai
+060/089	sei	1	s ei
+060/091	sä	1	s ä
+060/093	sä	1	s ä
+060/095	sei	1	s ei
+060/097	sei	1	s ei
+060/099	sei	1	s ei
+060/101	sei	1	s ei
+060/103	sei	1	s ei
+060/105	sei	1	s ei
+060/107	sei	1	s ei
+060/109	sai	1	s ai
+060/111	sei	1	s ei
+060/113	sei	1	s ei
+060/115	sei	1	s ei
+060/117	dei	1	d ei
+060/119	sei	1	s ei
+060/121	sei	1	s ei
+060/123	sei	1	s ei
+060/125	sei	1	s ei
+060/127	sei	1	s ei
+060/129	sei	1	s ei
+060/131	sei	1	s ei
+060/135	sei	1	s ei
+060/137	sei	1	s ei
+060/139	sei	1	s ei
+060/141	sei	1	s ei
+060/143	sei	1	s ei
+060/145	sei	1	s ei
+060/147	sei	1	s ei
+060/149	sei	1	s ei
+060/151	sei	1	s ei
+060/153	sei	1	s ei
+060/155	sei	1	s ei
+060/157	sai	1	s ai
+060/159	se	1	s e
+060/163	sein	1	s ei n
+060/165	sei	1	s ei
+061/021	sih	1	s ih
+061/023	sie	1	s ie
+061/025	sieh	1	s ieh
+061/027	sie	1	s ie
+061/029	si	1	s i
+061/031	se	1	s e
+061/033	se	1	s e
+061/035	se	1	s e
+061/037	sing	1	s i ng
+061/039	seng	1	s e ng
+061/041	seng	1	s e ng
+061/043	säi	1	s äi
+061/045	sei	1	s ei
+061/047	sei	1	s ei
+061/049	sei	1	s ei
+061/051	sai	1	s ai
+061/053	sein	1	s ei n
+061/055	sei	1	s ei
+061/057	sei	1	s ei
+061/059	sei	1	s ei
+061/061	seng	1	s e ng
+061/063	sinn	1	s i nn
+061/065	sinn	1	s i nn
+061/067	sinn	1	s i nn
+061/069	sie	1	s ie
+061/071	si	1	s i
+061/073	si	1	s i
+061/075	sih	1	s ih
+061/077	si	1	s i
+061/079	si	1	s i
+061/081	si	1	s i
+061/083	sei	1	s ei
+061/085	sei	1	s ei
+061/087	sei	1	s ei
+061/089	sei	1	s ei
+061/091	sa	1	s a
+061/093	sei	1	s ei
+061/095	sei	1	s ei
+061/097	sei	1	s ei
+061/099	sei	1	s ei
+061/101	sei	1	s ei
+061/103	sei	1	s ei
+061/105	sei	1	s ei
+061/107	sei	1	s ei
+061/109	sei	1	s ei
+061/111	sei	1	s ei
+061/113	sei	1	s ei
+061/115	sei	1	s ei
+061/117	sei	1	s ei
+061/119	sei	1	s ei
+061/121	sei	1	s ei
+061/123	sei	1	s ei
+061/125	sei	1	s ei
+061/127	sei	1	s ei
+061/129	sai	1	s ai
+061/131	sei	1	s ei
+061/133	sei	1	s ei
+061/137	sei	1	s ei
+061/139	sei	1	s ei
+061/141	sei	1	s ei
+061/143	sei	1	s ei
+061/145	sei	1	s ei
+061/147	sei	1	s ei
+061/149	sei	1	s ei
+061/151	sei	1	s ei
+061/153	sei	1	s ei
+061/155	sei	1	s ei
+061/157	sä	1	s ä
+061/159	säe	1	s äe
+061/161	sä	1	s ä
+061/165	sei	1	s ei
+062/021	si	1	s i
+062/023	si	1	s i
+062/025	seng	1	s e ng
+062/027	sie	1	s ie
+062/029	sie	1	s ie
+062/031	se	1	s e
+062/033	sing	1	s i ng
+062/035	seng	1	s e ng
+062/037	seng	1	s e ng
+062/039	sei	1	s ei
+062/041	sein	1	s ei n
+062/043	sei	1	s ei
+062/045	sej	1	s e j
+062/047	sei	1	s ei
+062/049	sei	1	s ei
+062/051	sei	1	s ei
+062/053	sei	1	s ei
+062/055	sei	1	s ei
+062/057	sei	1	s ei
+062/059	sei	1	s ei
+062/061	sei	1	s ei
+062/063	si	1	s i
+062/065	sin	1	s i n
+062/067	sin	1	s i n
+062/069	sinn	1	s i nn
+062/071	si	1	s i
+062/073	sii	1	s ii
+062/075	si	1	s i
+062/077	sei	1	s ei
+062/079	sei	1	s ei
+062/081	si	1	s i
+062/083	sei	1	s ei
+062/085	sei	1	s ei
+062/087	sei	1	s ei
+062/089	sä	1	s ä
+062/091	sä	1	s ä
+062/093	sei	1	s ei
+062/095	sei	1	s ei
+062/097	sei	1	s ei
+062/099	sei	1	s ei
+062/101	sei	1	s ei
+062/103	sei	1	s ei
+062/105	sei	1	s ei
+062/107	sei	1	s ei
+062/109	sei	1	s ei
+062/111	sei	1	s ei
+062/113	sei	1	s ei
+062/115	sei	1	s ei
+062/117	sei	1	s ei
+062/119	sei	1	s ei
+062/121	sei	1	s ei
+062/123	sei	1	s ei
+062/125	sei	1	s ei
+062/127	sei	1	s ei
+062/129	sei	1	s ei
+062/131	sei	1	s ei
+062/133	sei	1	s ei
+062/135	sei	1	s ei
+062/137	sei	1	s ei
+062/139	sei	1	s ei
+062/141	sei	1	s ei
+062/143	sei	1	s ei
+062/145	sei	1	s ei
+062/147	sei	1	s ei
+062/149	sei	1	s ei
+062/151	sei	1	s ei
+062/153	sei	1	s ei
+062/155	sei	1	s ei
+062/157	sei	1	s ei
+062/159	sen	1	s e n
+062/161	sei	1	s ei
+063/021	sien	1	s ie n
+063/023	sing	1	s i ng
+063/025	seng	1	s e ng
+063/027	se	1	s e
+063/029	se	1	s e
+063/031	me	1	m e
+063/033	se	1	s e
+063/035	seng	1	s e ng
+063/037	si	1	s i
+063/039	sei	1	s ei
+063/041	sei	1	s ei
+063/043	säi	1	s äi
+063/045	sei	1	s ei
+063/047	sai	1	s ai
+063/049	sei	1	s ei
+063/051	seih	1	s eih
+063/053	sei	1	s ei
+063/055	sai	1	s ai
+063/057	sei	1	s ei
+063/059	sei	1	s ei
+063/061	säi	1	s äi
+063/063	sii	1	s ii
+063/065	sinn	1	s i nn
+063/067	si	1	s i
+063/069	si	1	s i
+063/071	si	1	s i
+063/073	sei	1	s ei
+063/075	saa	1	s aa
+063/077	sei	1	s ei
+063/079	sie	1	s ie
+063/081	si	1	s i
+063/083	sei	1	s ei
+063/085	sei	1	s ei
+063/087	sei	1	s ei
+063/089	säi	1	s äi
+063/091	sei	1	s ei
+063/093	sei	1	s ei
+063/095	sei	1	s ei
+063/097	sei	1	s ei
+063/099	sei	1	s ei
+063/101	sei	1	s ei
+063/103	sei	1	s ei
+063/105	sei	1	s ei
+063/107	sei	1	s ei
+063/109	sei	1	s ei
+063/111	sei	1	s ei
+063/113	sei	1	s ei
+063/115	sei	1	s ei
+063/117	sei	1	s ei
+063/119	sei	1	s ei
+063/121	sei	1	s ei
+063/123	sei	1	s ei
+063/125	säi	1	s äi
+063/127	sai	1	s ai
+063/135	sei	1	s ei
+063/137	sei	1	s ei
+063/139	sei	1	s ei
+063/141	seij	1	s ei j
+063/143	säi	1	s äi
+063/145	sei	1	s ei
+063/147	sei	1	s ei
+063/149	sei	1	s ei
+063/151	sei	1	s ei
+063/153	sei	1	s ei
+063/155	sei	1	s ei
+063/157	sei	1	s ei
+063/159	sei	1	s ei
+063/161	sei	1	s ei
+063/163	sei	1	s ei
+063/165	sa	1	s a
+064/023	si	1	s i
+064/025	seng	1	s e ng
+064/027	se	1	s e
+064/029	se	1	s e
+064/031	se	1	s e
+064/033	si	1	s i
+064/035	sei	1	s ei
+064/037	sei	1	s ei
+064/039	sei	1	s ei
+064/041	sei	1	s ei
+064/043	sein	1	s ei n
+064/045	sei	1	s ei
+064/047	sein	1	s ei n
+064/049	sei	1	s ei
+064/051	sei	1	s ei
+064/053	sei	1	s ei
+064/055	sei	1	s ei
+064/057	sai	1	s ai
+064/059	seih	1	s eih
+064/061	sein	1	s ei n
+064/063	sinn	1	s i nn
+064/065	sin	1	s i n
+064/067	sin	1	s i n
+064/069	sinn	1	s i nn
+064/071	sei	1	s ei
+064/073	se	1	s e
+064/075	se	1	s e
+064/077	sei	1	s ei
+064/079	sei	1	s ei
+064/081	si	1	s i
+064/083	sei	1	s ei
+064/085	sei	1	s ei
+064/087	sei	1	s ei
+064/089	sei	1	s ei
+064/091	sei	1	s ei
+064/093	sei	1	s ei
+064/095	sei	1	s ei
+064/097	sei	1	s ei
+064/099	sei	1	s ei
+064/101	sei	1	s ei
+064/103	sei	1	s ei
+064/105	sei	1	s ei
+064/107	sei	1	s ei
+064/109	sei	1	s ei
+064/111	sei	1	s ei
+064/113	sei	1	s ei
+064/115	sei	1	s ei
+064/117	sei	1	s ei
+064/119	sai	1	s ai
+064/121	sei	1	s ei
+064/123	sei	1	s ei
+064/125	sei	1	s ei
+064/127	sei	1	s ei
+064/135	sei	1	s ei
+064/137	sei	1	s ei
+064/139	sei	1	s ei
+064/141	sei	1	s ei
+064/143	sei	1	s ei
+064/145	sei	1	s ei
+064/147	sei	1	s ei
+064/149	sei	1	s ei
+064/151	sei	1	s ei
+064/153	sei	1	s ei
+064/155	sei	1	s ei
+064/157	sei	1	s ei
+064/159	sei	1	s ei
+065/021	se	1	s e
+065/023	sie	1	s ie
+065/025	se	1	s e
+065/027	seh	1	s eh
+065/029	se	1	s e
+065/031	se	1	s e
+065/033	se	1	s e
+065/035	sei	1	s ei
+065/037	säin	1	s äi n
+065/039	sei	1	s ei
+065/041	sei	1	s ei
+065/043	säi	1	s äi
+065/045	san	1	s a n
+065/047	seih	1	s eih
+065/049	sain	1	s ai n
+065/051	sai	1	s ai
+065/053	sein	1	s ei n
+065/055	sai	1	s ai
+065/057	sain	1	s ai n
+065/059	sein	1	s ei n
+065/061	sai	1	s ai
+065/063	sin	1	s i n
+065/065	sinn	1	s i nn
+065/067	sen	1	s e n
+065/069	sei	1	s ei
+065/071	sa	1	s a
+065/073	sä	1	s ä
+065/075	sa	1	s a
+065/077	sei	1	s ei
+065/079	sei	1	s ei
+065/081	sei	1	s ei
+065/083	sei	1	s ei
+065/085	sei	1	s ei
+065/087	sei	1	s ei
+065/089	sei	1	s ei
+065/091	sei	1	s ei
+065/093	sei	1	s ei
+065/095	sei	1	s ei
+065/097	sei	1	s ei
+065/101	sei	1	s ei
+065/103	sei	1	s ei
+065/105	sei	1	s ei
+065/107	sei	1	s ei
+065/109	sei	1	s ei
+065/111	sei	1	s ei
+065/113	sei	1	s ei
+065/115	sei	1	s ei
+065/121	sei	1	s ei
+065/123	saj	1	s a j
+065/137	sei	1	s ei
+065/139	sei	1	s ei
+065/143	sei	1	s ei
+065/145	sei	1	s ei
+065/147	sei	1	s ei
+065/149	sei	1	s ei
+065/151	sei	1	s ei
+065/153	sei	1	s ei
+065/155	sei	1	s ei
+065/157	sei	1	s ei
+065/159	sei	1	s ei
+066/021	see	1	s ee
+066/023	se	1	s e
+066/025	se	1	s e
+066/027	seh	1	s eh
+066/029	seui	1	s eui
+066/031	se	1	s e
+066/033	sei	1	s ei
+066/035	sei	1	s ei
+066/037	sei	1	s ei
+066/039	sei	1	s ei
+066/041	sei	1	s ei
+066/043	sei	1	s ei
+066/045	sein	1	s ei n
+066/047	sei	1	s ei
+066/049	seij	1	s ei j
+066/051	seih	1	s eih
+066/053	sein	1	s ei n
+066/055	sei	1	s ei
+066/057	sai	1	s ai
+066/059	sai	1	s ai
+066/061	sei	1	s ei
+066/063	sein	1	s ei n
+066/065	sei	1	s ei
+066/067	sein	1	s ei n
+066/069	sei	1	s ei
+066/071	dei	1	d ei
+066/073	sei	1	s ei
+066/075	sei	1	s ei
+066/077	sei	1	s ei
+066/079	sei	1	s ei
+066/081	sei	1	s ei
+066/083	sei	1	s ei
+066/085	sä	1	s ä
+066/087	sei	1	s ei
+066/089	sei	1	s ei
+066/091	sei	1	s ei
+066/093	sei	1	s ei
+066/095	sei	1	s ei
+066/097	sei	1	s ei
+066/099	sei	1	s ei
+066/101	sei	1	s ei
+066/103	sei	1	s ei
+066/105	sei	1	s ei
+066/107	sei	1	s ei
+066/109	sei	1	s ei
+066/111	sei	1	s ei
+066/113	sei	1	s ei
+066/121	sai	1	s ai
+066/139	sei	1	s ei
+066/143	sei	1	s ei
+066/145	sei	1	s ei
+066/147	sei	1	s ei
+066/149	sei	1	s ei
+066/151	sei	1	s ei
+066/153	sei	1	s ei
+066/155	sei	1	s ei
+066/157	sei	1	s ei
+066/159	sei	1	s ei
+066/161	sei	1	s ei
+066/163	sei	1	s ei
+067/021	se	1	s e
+067/023	seh	1	s eh
+067/025	seu	1	s eu
+067/027	sei	1	s ei
+067/029	säi	1	s äi
+067/031	sei	1	s ei
+067/033	sei	1	s ei
+067/035	sei	1	s ei
+067/037	sei	1	s ei
+067/039	sei	1	s ei
+067/041	sei	1	s ei
+067/043	säi	1	s äi
+067/045	sei	1	s ei
+067/047	sei	1	s ei
+067/049	sei	1	s ei
+067/051	sei	1	s ei
+067/053	sai	1	s ai
+067/055	sei	1	s ei
+067/057	sai	1	s ai
+067/059	sai	1	s ai
+067/061	seu	1	s eu
+067/063	sein	1	s ei n
+067/065	sein	1	s ei n
+067/067	sei	1	s ei
+067/069	sai	1	s ai
+067/071	seieh	1	s eieh
+067/073	sei	1	s ei
+067/075	sei	1	s ei
+067/077	sei	1	s ei
+067/079	sei	1	s ei
+067/081	säi	1	s äi
+067/083	sei	1	s ei
+067/085	sei	1	s ei
+067/087	sei	1	s ei
+067/089	sei	1	s ei
+067/091	sei	1	s ei
+067/093	saa	1	s aa
+067/095	sei	1	s ei
+067/097	sei	1	s ei
+067/099	saa	1	s aa
+067/101	saa	1	s aa
+067/103	sa	1	s a
+067/105	sa	1	s a
+067/107	sei	1	s ei
+067/109	sei	1	s ei
+067/111	sei	1	s ei
+067/113	sei	1	s ei
+067/143	sei	1	s ei
+067/145	sei	1	s ei
+067/147	sei	1	s ei
+067/149	sei	1	s ei
+067/151	sei	1	s ei
+067/153	sei	1	s ei
+067/155	sei	1	s ei
+067/157	sei	1	s ei
+067/159	sei	1	s ei
+067/161	sei	1	s ei
+067/163	sei	1	s ei
+067/165	sei	1	s ei
+067/177	sei	1	s ei
+068/021	se	1	s e
+068/023	sei	1	s ei
+068/025	sei	1	s ei
+068/027	sä	1	s ä
+068/029	sei	1	s ei
+068/031	seu	1	s eu
+068/033	säi	1	s äi
+068/035	seu	1	s eu
+068/037	seu	1	s eu
+068/039	sei	1	s ei
+068/041	sai	1	s ai
+068/043	sei	1	s ei
+068/045	sein	1	s ei n
+068/047	seij	1	s ei j
+068/049	sei	1	s ei
+068/051	sai	1	s ai
+068/053	sei	1	s ei
+068/055	seih	1	s eih
+068/057	sein	1	s ei n
+068/059	sei	1	s ei
+068/061	sai	1	s ai
+068/063	sein	1	s ei n
+068/065	sei	1	s ei
+068/067	sei	1	s ei
+068/069	sei	1	s ei
+068/071	sei	1	s ei
+068/073	sei	1	s ei
+068/075	sei	1	s ei
+068/077	sei	1	s ei
+068/079	sei	1	s ei
+068/081	sei	1	s ei
+068/083	sein	1	s ei n
+068/085	sei	1	s ei
+068/087	sei	1	s ei
+068/089	sei	1	s ei
+068/091	sei	1	s ei
+068/093	sa	1	s a
+068/095	sa	1	s a
+068/097	san	1	s a n
+068/099	sa	1	s a
+068/101	sa	1	s a
+068/103	san	1	s a n
+068/105	sa	1	s a
+068/107	sei	1	s ei
+068/109	sei	1	s ei
+068/111	sei	1	s ei
+068/145	sei	1	s ei
+068/147	sei	1	s ei
+068/149	sai	1	s ai
+068/151	sei	1	s ei
+068/153	sei	1	s ei
+068/155	sei	1	s ei
+068/157	sei	1	s ei
+068/159	sai	1	s ai
+068/161	sei	1	s ei
+068/165	sei	1	s ei
+069/019	sei	1	s ei
+069/023	se	1	s e
+069/025	se	1	s e
+069/027	säi	1	s äi
+069/029	säi	1	s äi
+069/031	sei	1	s ei
+069/033	säi	1	s äi
+069/035	sei	1	s ei
+069/037	säi	1	s äi
+069/039	sei	1	s ei
+069/041	sei	1	s ei
+069/043	sei	1	s ei
+069/045	sei	1	s ei
+069/047	seih	1	s eih
+069/049	sei	1	s ei
+069/051	sein	1	s ei n
+069/053	sei	1	s ei
+069/055	sein	1	s ei n
+069/057	sa	1	s a
+069/059	sei	1	s ei
+069/061	sei	1	s ei
+069/063	sei	1	s ei
+069/065	sei	1	s ei
+069/067	sei	1	s ei
+069/069	sei	1	s ei
+069/071	sei	1	s ei
+069/073	sei	1	s ei
+069/075	sei	1	s ei
+069/077	sei	1	s ei
+069/079	sei	1	s ei
+069/081	sei	1	s ei
+069/083	sei	1	s ei
+069/085	sei	1	s ei
+069/087	sei	1	s ei
+069/089	sein	1	s ei n
+069/091	sei	1	s ei
+069/093	sei	1	s ei
+069/095	sa	1	s a
+069/097	sa	1	s a
+069/099	sa	1	s a
+069/101	sa	1	s a
+069/103	sa	1	s a
+069/105	sa	1	s a
+069/107	sei	1	s ei
+069/109	sei	1	s ei
+069/111	sei	1	s ei
+069/147	sei	1	s ei
+069/149	sei	1	s ei
+069/151	sei	1	s ei
+069/153	sei	1	s ei
+069/157	sei	1	s ei
+069/159	sei	1	s ei
+069/161	sei	1	s ei
+069/163	sei	1	s ei
+069/165	sei	1	s ei
+070/019	sei	1	s ei
+070/023	sui	1	s ui
+070/025	sei	1	s ei
+070/027	sei	1	s ei
+070/029	sei	1	s ei
+070/031	sei	1	s ei
+070/033	seu	1	s eu
+070/035	sei	1	s ei
+070/037	sei	1	s ei
+070/039	sei	1	s ei
+070/041	sei	1	s ei
+070/043	sei	1	s ei
+070/045	sei	1	s ei
+070/047	sei	1	s ei
+070/049	sei	1	s ei
+070/051	sein	1	s ei n
+070/053	sei	1	s ei
+070/055	sein	1	s ei n
+070/057	sei	1	s ei
+070/059	sa	1	s a
+070/061	sei	1	s ei
+070/063	sei	1	s ei
+070/065	sei	1	s ei
+070/067	sei	1	s ei
+070/069	sei	1	s ei
+070/071	sei	1	s ei
+070/073	sei	1	s ei
+070/075	sei	1	s ei
+070/077	sei	1	s ei
+070/079	sei	1	s ei
+070/081	sei	1	s ei
+070/083	sei	1	s ei
+070/085	sei	1	s ei
+070/087	seij	1	s ei j
+070/089	sei	1	s ei
+070/091	sai	1	s ai
+070/093	sai	1	s ai
+070/095	ma	1	m a
+070/097	sa	1	s a
+070/099	sa	1	s a
+070/101	sa	1	s a
+070/103	san	1	s a n
+070/105	sa	1	s a
+070/107	sa	1	s a
+070/109	sei	1	s ei
+070/111	saj	1	s a j
+070/145	sei	1	s ei
+070/147	sei	1	s ei
+070/149	sei	1	s ei
+070/151	sei	1	s ei
+070/153	sei	1	s ei
+070/155	saee	1	s aee
+070/157	sei	1	s ei
+070/159	sei	1	s ei
+070/161	sei	1	s ei
+070/163	sann	1	s a nn
+070/165	sei	1	s ei
+071/017	sein	1	s ei n
+071/019	sein	1	s ei n
+071/021	sei	1	s ei
+071/023	sei	1	s ei
+071/025	säi	1	s äi
+071/027	säi	1	s äi
+071/029	sei	1	s ei
+071/031	sei	1	s ei
+071/033	säi	1	s äi
+071/035	säi	1	s äi
+071/037	sei	1	s ei
+071/039	sei	1	s ei
+071/041	sei	1	s ei
+071/043	sei	1	s ei
+071/045	sein	1	s ei n
+071/047	sän	1	s ä n
+071/049	sei	1	s ei
+071/051	sa	1	s a
+071/053	sei	1	s ei
+071/055	seing	1	s ei ng
+071/057	sa	1	s a
+071/059	sa	1	s a
+071/063	sei	1	s ei
+071/065	sei	1	s ei
+071/067	sei	1	s ei
+071/069	sei	1	s ei
+071/071	sei	1	s ei
+071/073	sei	1	s ei
+071/075	sei	1	s ei
+071/077	sei	1	s ei
+071/079	sei	1	s ei
+071/081	sei	1	s ei
+071/083	sei	1	s ei
+071/085	seii	1	s eii
+071/087	sai	1	s ai
+071/089	sein	1	s ei n
+071/091	sa	1	s a
+071/093	sei	1	s ei
+071/095	sä	1	s ä
+071/097	sa	1	s a
+071/099	sa	1	s a
+071/101	sa	1	s a
+071/103	sa	1	s a
+071/105	sa	1	s a
+071/145	sei	1	s ei
+071/147	sei	1	s ei
+071/149	sei	1	s ei
+071/151	sei	1	s ei
+071/153	sei	1	s ei
+071/155	sei	1	s ei
+071/157	sei	1	s ei
+071/159	sei	1	s ei
+071/161	sei	1	s ei
+071/163	eiriger	1	ei r i g e r
+071/177	sei	1	s ei
+071/179	sei	1	s ei
+072/017	sei	1	s ei
+072/019	sei	1	s ei
+072/021	sei	1	s ei
+072/023	sei	1	s ei
+072/025	sei	1	s ei
+072/027	säin	1	s äi n
+072/029	sei	1	s ei
+072/031	sei	1	s ei
+072/033	säi	1	s äi
+072/035	sai	1	s ai
+072/037	säi	1	s äi
+072/039	sei	1	s ei
+072/041	sei	1	s ei
+072/043	sei	1	s ei
+072/045	sein	1	s ei n
+072/047	sei	1	s ei
+072/049	sein	1	s ei n
+072/051	sein	1	s ei n
+072/053	sai	1	s ai
+072/055	sei	1	s ei
+072/057	sei	1	s ei
+072/059	sa	1	s a
+072/061	sei	1	s ei
+072/063	sei	1	s ei
+072/065	sei	1	s ei
+072/067	sei	1	s ei
+072/069	sei	1	s ei
+072/071	sei	1	s ei
+072/073	sei	1	s ei
+072/075	sei	1	s ei
+072/077	sei	1	s ei
+072/079	sei	1	s ei
+072/081	sei	1	s ei
+072/083	sei	1	s ei
+072/085	sei	1	s ei
+072/087	sei	1	s ei
+072/089	sei	1	s ei
+072/091	sei	1	s ei
+072/093	sein	1	s ei n
+072/095	sai	1	s ai
+072/097	sa	1	s a
+072/099	sa	1	s a
+072/101	sa	1	s a
+072/103	sa	1	s a
+072/105	sa	1	s a
+072/107	sa	1	s a
+072/145	sei	1	s ei
+072/147	sei	1	s ei
+072/149	saaj	1	s aa j
+072/151	sei	1	s ei
+072/153	sei	1	s ei
+072/155	sei	1	s ei
+072/157	sei	1	s ei
+072/159	sei	1	s ei
+072/161	sei	1	s ei
+072/177	säj	1	s ä j
+072/179	sei	1	s ei
+072/181	sei	1	s ei
+073/017	sei	1	s ei
+073/019	se	1	s e
+073/021	seii	1	s eii
+073/023	säi	1	s äi
+073/025	säi	1	s äi
+073/027	sei	1	s ei
+073/029	sei	1	s ei
+073/031	sei	1	s ei
+073/033	sei	1	s ei
+073/035	säi	1	s äi
+073/037	sei	1	s ei
+073/039	sei	1	s ei
+073/041	sei	1	s ei
+073/043	sein	1	s ei n
+073/045	sein	1	s ei n
+073/047	sein	1	s ei n
+073/049	sein	1	s ei n
+073/051	sei	1	s ei
+073/053	sei	1	s ei
+073/055	säi	1	s äi
+073/057	sei	1	s ei
+073/059	sa	1	s a
+073/061	sa	1	s a
+073/063	sei	1	s ei
+073/065	sei	1	s ei
+073/067	sei	1	s ei
+073/069	sei	1	s ei
+073/071	sei	1	s ei
+073/073	sei	1	s ei
+073/075	sei	1	s ei
+073/077	sei	1	s ei
+073/079	sei	1	s ei
+073/081	sei	1	s ei
+073/083	sei	1	s ei
+073/085	NA	NA	-
+073/087	sei	1	s ei
+073/089	sei	1	s ei
+073/091	san	1	s a n
+073/093	sa	1	s a
+073/095	sa	1	s a
+073/097	sai	1	s ai
+073/099	sa	1	s a
+073/101	sa	1	s a
+073/103	sa	1	s a
+073/105	sa	1	s a
+073/107	sa	1	s a
+073/145	mei	1	m ei
+073/147	sei	1	s ei
+073/149	säi	1	s äi
+073/151	saj	1	s a j
+073/153	sei	1	s ei
+073/155	sei	1	s ei
+073/157	sei	1	s ei
+073/159	sei	1	s ei
+073/161	sei	1	s ei
+073/163	sei	1	s ei
+073/165	sei	1	s ei
+073/175	sej	1	s e j
+073/177	sej	1	s e j
+074/019	säin	1	s äi n
+074/021	sei	1	s ei
+074/023	sei	1	s ei
+074/025	sei	1	s ei
+074/027	sei	1	s ei
+074/029	sei	1	s ei
+074/031	seei	1	s eei
+074/033	sein	1	s ei n
+074/035	sei	1	s ei
+074/037	sei	1	s ei
+074/039	sei	1	s ei
+074/041	sein	1	s ei n
+074/043	sei	1	s ei
+074/045	sein	1	s ei n
+074/047	sei	1	s ei
+074/049	seu	1	s eu
+074/051	sei	1	s ei
+074/053	sai	1	s ai
+074/055	sei	1	s ei
+074/057	sein	1	s ei n
+074/059	sei	1	s ei
+074/061	saa	1	s aa
+074/063	sei	1	s ei
+074/065	sei	1	s ei
+074/067	sei	1	s ei
+074/069	sei	1	s ei
+074/071	sei	1	s ei
+074/073	sei	1	s ei
+074/075	sei	1	s ei
+074/077	sei	1	s ei
+074/079	sai	1	s ai
+074/081	sei	1	s ei
+074/083	sei	1	s ei
+074/085	sa	1	s a
+074/087	sein	1	s ei n
+074/089	sein	1	s ei n
+074/091	san	1	s a n
+074/093	sa	1	s a
+074/095	sei	1	s ei
+074/097	sei	1	s ei
+074/099	sa	1	s a
+074/101	sa	1	s a
+074/103	sa	1	s a
+074/105	sa	1	s a
+074/107	sa	1	s a
+074/109	sa	1	s a
+074/145	sei	1	s ei
+074/147	saa	1	s aa
+074/149	saa	1	s aa
+074/153	sei	1	s ei
+074/155	sei	1	s ei
+074/157	mei	1	m ei
+074/159	sei	1	s ei
+074/161	sai	1	s ai
+074/163	sei	1	s ei
+074/165	sei	1	s ei
+075/019	sei	1	s ei
+075/021	sei	1	s ei
+075/023	sei	1	s ei
+075/025	sein	1	s ei n
+075/027	säin	1	s äi n
+075/029	sei	1	s ei
+075/031	säin	1	s äi n
+075/033	sei	1	s ei
+075/035	säi	1	s äi
+075/037	sei	1	s ei
+075/039	sei	1	s ei
+075/041	sei	1	s ei
+075/043	sei	1	s ei
+075/045	sei	1	s ei
+075/047	sei	1	s ei
+075/049	sei	1	s ei
+075/051	sein	1	s ei n
+075/053	sei	1	s ei
+075/055	sei	1	s ei
+075/057	sein	1	s ei n
+075/059	sei	1	s ei
+075/061	sa	1	s a
+075/063	se	1	s e
+075/065	se	1	s e
+075/067	sei	1	s ei
+075/069	sei	1	s ei
+075/071	säi	1	s äi
+075/073	sei	1	s ei
+075/075	sa	1	s a
+075/077	sei	1	s ei
+075/079	sei	1	s ei
+075/081	sei	1	s ei
+075/083	sei	1	s ei
+075/085	sei	1	s ei
+075/087	sa	1	s a
+075/089	sa	1	s a
+075/091	sa	1	s a
+075/093	san	1	s a n
+075/095	sei	1	s ei
+075/097	sa	1	s a
+075/099	sa	1	s a
+075/101	sa	1	s a
+075/103	sa	1	s a
+075/105	sei	1	s ei
+075/107	sa	1	s a
+075/135	saj	1	s a j
+075/145	sei	1	s ei
+075/147	sei	1	s ei
+075/149	sei	1	s ei
+075/155	sei	1	s ei
+075/157	sei	1	s ei
+075/159	sei	1	s ei
+075/161	sei	1	s ei
+075/163	sei	1	s ei
+075/165	sai	1	s ai
+076/019	sei	1	s ei
+076/021	se	1	s e
+076/023	sei	1	s ei
+076/025	sei	1	s ei
+076/027	sei	1	s ei
+076/029	sei	1	s ei
+076/033	sei	1	s ei
+076/035	sei	1	s ei
+076/037	sei	1	s ei
+076/039	sei	1	s ei
+076/041	sei	1	s ei
+076/043	sei	1	s ei
+076/045	sei	1	s ei
+076/047	sei	1	s ei
+076/049	sei	1	s ei
+076/051	sein	1	s ei n
+076/053	sa	1	s a
+076/055	sa	1	s a
+076/057	sa	1	s a
+076/059	sei	1	s ei
+076/061	se	1	s e
+076/063	se	1	s e
+076/065	sein	1	s ei n
+076/067	sei	1	s ei
+076/069	se	1	s e
+076/071	se	1	s e
+076/073	sei	1	s ei
+076/075	sei	1	s ei
+076/077	sei	1	s ei
+076/079	sei	1	s ei
+076/081	sei	1	s ei
+076/083	sei	1	s ei
+076/085	sei	1	s ei
+076/087	sa	1	s a
+076/089	sei	1	s ei
+076/091	saa	1	s aa
+076/093	sa	1	s a
+076/095	sei	1	s ei
+076/097	sei	1	s ei
+076/099	sei	1	s ei
+076/101	sa	1	s a
+076/103	sa	1	s a
+076/135	sei	1	s ei
+076/137	saj	1	s a j
+076/149	sei	1	s ei
+076/151	sai	1	s ai
+076/155	sei	1	s ei
+076/161	sai	1	s ai
+076/163	sei	1	s ei
+076/165	san	1	s a n
+077/019	sein	1	s ei n
+077/021	sei	1	s ei
+077/023	sei	1	s ei
+077/025	sei	1	s ei
+077/027	sein	1	s ei n
+077/029	sei	1	s ei
+077/031	sei	1	s ei
+077/033	sei	1	s ei
+077/035	sei	1	s ei
+077/037	sein	1	s ei n
+077/039	sei	1	s ei
+077/041	sei	1	s ei
+077/043	seei	1	s eei
+077/047	sein	1	s ei n
+077/049	sein	1	s ei n
+077/051	sa	1	s a
+077/053	sa	1	s a
+077/055	sa	1	s a
+077/057	sa	1	s a
+077/059	se	1	s e
+077/061	se	1	s e
+077/063	se	1	s e
+077/065	san	1	s a n
+077/067	sai	1	s ai
+077/069	sä	1	s ä
+077/071	se	1	s e
+077/073	sa	1	s a
+077/075	sei	1	s ei
+077/077	sei	1	s ei
+077/079	sei	1	s ei
+077/081	sei	1	s ei
+077/083	sei	1	s ei
+077/085	säi	1	s äi
+077/087	sa	1	s a
+077/089	sei	1	s ei
+077/091	sa	1	s a
+077/093	sei	1	s ei
+077/095	sei	1	s ei
+077/097	sei	1	s ei
+077/099	sa	1	s a
+077/101	sa	1	s a
+077/103	sa	1	s a
+077/135	sei	1	s ei
+077/137	säi	1	s äi
+078/021	sei	1	s ei
+078/023	sei	1	s ei
+078/025	sei	1	s ei
+078/027	sei	1	s ei
+078/029	sei	1	s ei
+078/031	sei	1	s ei
+078/033	sei	1	s ei
+078/035	sei	1	s ei
+078/037	sei	1	s ei
+078/039	sei	1	s ei
+078/041	sei	1	s ei
+078/045	sann	1	s a nn
+078/047	san	1	s a n
+078/049	sa	1	s a
+078/051	sä	1	s ä
+078/053	sain	1	s ai n
+078/055	sa	1	s a
+078/057	sei	1	s ei
+078/059	se	1	s e
+078/061	sa	1	s a
+078/063	se	1	s e
+078/065	sa	1	s a
+078/067	sa	1	s a
+078/069	sa	1	s a
+078/071	sa	1	s a
+078/073	sa	1	s a
+078/075	sei	1	s ei
+078/077	sei	1	s ei
+078/079	mei	1	m ei
+078/081	sei	1	s ei
+078/083	sa	1	s a
+078/085	sa	1	s a
+078/087	saa	1	s aa
+078/089	sei	1	s ei
+078/091	sehin	1	s e h i n
+078/093	sei	1	s ei
+078/095	sei	1	s ei
+078/097	sei	1	s ei
+078/099	san	1	s a n
+078/101	sei	1	s ei
+078/103	sa	1	s a
+078/105	sa	1	s a
+078/135	sei	1	s ei
+078/193	sein	1	s ei n
+079/021	sei	1	s ei
+079/023	sei	1	s ei
+079/025	sei	1	s ei
+079/027	sei	1	s ei
+079/029	sei	1	s ei
+079/031	sei	1	s ei
+079/033	sei	1	s ei
+079/035	sae	1	s ae
+079/037	sei	1	s ei
+079/039	sei	1	s ei
+079/043	sei	1	s ei
+079/045	sei	1	s ei
+079/047	sei	1	s ei
+079/049	sein	1	s ei n
+079/051	sei	1	s ei
+079/053	sei	1	s ei
+079/055	sei	1	s ei
+079/057	sei	1	s ei
+079/059	sei	1	s ei
+079/061	sa	1	s a
+079/063	sa	1	s a
+079/065	sa	1	s a
+079/067	sa	1	s a
+079/069	sä	1	s ä
+079/071	sa	1	s a
+079/073	sei	1	s ei
+079/075	sei	1	s ei
+079/077	sei	1	s ei
+079/079	sei	1	s ei
+079/081	sein	1	s ei n
+079/083	sa	1	s a
+079/085	sei	1	s ei
+079/087	sei	1	s ei
+079/089	sa	1	s a
+079/091	sei	1	s ei
+079/093	sei	1	s ei
+079/095	seii	1	s eii
+079/097	sei	1	s ei
+079/099	sa	1	s a
+079/101	sa	1	s a
+079/103	sei	1	s ei
+079/105	sa	1	s a
+079/107	san	1	s a n
+079/133	sei	1	s ei
+079/135	sei	1	s ei
+079/193	sain	1	s ai n
+079/195	sain	1	s ai n
+079/197	sein	1	s ei n
+080/025	sinn	1	s i nn
+080/027	sin	1	s i n
+080/029	sei	1	s ei
+080/031	sei	1	s ei
+080/033	sin	1	s i n
+080/035	sei	1	s ei
+080/037	sei	1	s ei
+080/039	sei	1	s ei
+080/041	sei	1	s ei
+080/043	sei	1	s ei
+080/045	sein	1	s ei n
+080/047	sei	1	s ei
+080/049	sein	1	s ei n
+080/051	sai	1	s ai
+080/053	sei	1	s ei
+080/055	säi	1	s äi
+080/057	sei	1	s ei
+080/059	sai	1	s ai
+080/061	sa	1	s a
+080/063	sa	1	s a
+080/065	sei	1	s ei
+080/067	sa	1	s a
+080/069	sa	1	s a
+080/071	sa	1	s a
+080/073	sei	1	s ei
+080/075	sei	1	s ei
+080/077	sei	1	s ei
+080/079	seii	1	s eii
+080/081	sei	1	s ei
+080/083	san	1	s a n
+080/085	seii	1	s eii
+080/087	sei	1	s ei
+080/089	sa	1	s a
+080/091	sei	1	s ei
+080/093	sei	1	s ei
+080/095	sei	1	s ei
+080/097	sei	1	s ei
+080/099	sa	1	s a
+080/101	sa	1	s a
+080/103	sei	1	s ei
+080/105	sei	1	s ei
+080/107	sei	1	s ei
+080/109	sei	1	s ei
+080/127	sei	1	s ei
+080/147	sein	1	s ei n
+080/151	saj	1	s a j
+080/153	sei	1	s ei
+080/193	sein	1	s ei n
+080/195	sain	1	s ai n
+081/025	sin	1	s i n
+081/027	sin	1	s i n
+081/029	sin	1	s i n
+081/031	sinn	1	s i nn
+081/033	sin	1	s i n
+081/035	sin	1	s i n
+081/037	sin	1	s i n
+081/039	sein	1	s ei n
+081/043	sei	1	s ei
+081/045	sein	1	s ei n
+081/047	sei	1	s ei
+081/049	sei	1	s ei
+081/051	sai	1	s ai
+081/053	sei	1	s ei
+081/055	sei	1	s ei
+081/057	sei	1	s ei
+081/059	sei	1	s ei
+081/061	sein	1	s ei n
+081/063	sei	1	s ei
+081/065	sa	1	s a
+081/067	sa	1	s a
+081/069	sa	1	s a
+081/071	sa	1	s a
+081/073	sei	1	s ei
+081/075	sei	1	s ei
+081/077	sei	1	s ei
+081/079	sein	1	s ei n
+081/081	sein	1	s ei n
+081/083	sei	1	s ei
+081/085	sa	1	s a
+081/087	sa	1	s a
+081/089	sei	1	s ei
+081/091	sei	1	s ei
+081/093	seii	1	s eii
+081/095	san	1	s a n
+081/097	sei	1	s ei
+081/099	sa	1	s a
+081/101	sei	1	s ei
+081/103	maa	1	m aa
+081/105	sei	1	s ei
+081/107	sei	1	s ei
+081/109	saj	1	s a j
+081/111	sa	1	s a
+081/127	sei	1	s ei
+081/129	sei	1	s ei
+081/133	sei	1	s ei
+081/147	sei	1	s ei
+081/191	zain	1	z ai n
+081/193	soen	1	s oe n
+081/195	sein	1	s ei n
+082/027	sin	1	s i n
+082/029	sin	1	s i n
+082/031	sinn	1	s i nn
+082/033	sin	1	s i n
+082/035	sin	1	s i n
+082/037	sin	1	s i n
+082/039	sin	1	s i n
+082/041	sin	1	s i n
+082/043	sain	1	s ai n
+082/045	sei	1	s ei
+082/047	sei	1	s ei
+082/049	sein	1	s ei n
+082/051	sei	1	s ei
+082/053	sei	1	s ei
+082/055	sei	1	s ei
+082/057	sei	1	s ei
+082/059	sei	1	s ei
+082/061	sei	1	s ei
+082/063	sa	1	s a
+082/065	sei	1	s ei
+082/067	sei	1	s ei
+082/069	sei	1	s ei
+082/071	sei	1	s ei
+082/073	sei	1	s ei
+082/075	sei	1	s ei
+082/077	sei	1	s ei
+082/079	sa	1	s a
+082/081	so	1	s o
+082/083	sei	1	s ei
+082/085	sein	1	s ei n
+082/087	sei	1	s ei
+082/089	sei	1	s ei
+082/091	sei	1	s ei
+082/093	sei	1	s ei
+082/095	sei	1	s ei
+082/097	sein	1	s ei n
+082/099	sei	1	s ei
+082/101	sei	1	s ei
+082/103	sa	1	s a
+082/105	sei	1	s ei
+082/107	sei	1	s ei
+082/111	sei	1	s ei
+082/113	sa	1	s a
+082/117	sei	1	s ei
+082/129	sei	1	s ei
+082/131	sei	1	s ei
+082/133	sain	1	s ai n
+082/135	sahi	1	s a h i
+082/145	sai	1	s ai
+082/147	sei	1	s ei
+082/191	sain	1	s ai n
+082/195	sein	1	s ei n
+083/027	sinn	1	s i nn
+083/029	sin	1	s i n
+083/031	sinn	1	s i nn
+083/033	sin	1	s i n
+083/035	sin	1	s i n
+083/037	sin	1	s i n
+083/039	sin	1	s i n
+083/041	sinn	1	s i nn
+083/043	sein	1	s ei n
+083/045	sei	1	s ei
+083/047	sei	1	s ei
+083/049	sei	1	s ei
+083/051	sei	1	s ei
+083/053	sei	1	s ei
+083/055	sei	1	s ei
+083/057	sei	1	s ei
+083/059	sae	1	s ae
+083/061	sae	1	s ae
+083/063	sei	1	s ei
+083/065	sei	1	s ei
+083/067	sei	1	s ei
+083/069	sae	1	s ae
+083/071	sae	1	s ae
+083/073	sei	1	s ei
+083/075	sei	1	s ei
+083/077	sa	1	s a
+083/079	sa	1	s a
+083/081	sei	1	s ei
+083/083	sei	1	s ei
+083/085	sei	1	s ei
+083/087	sai	1	s ai
+083/089	sei	1	s ei
+083/091	sei	1	s ei
+083/093	sei	1	s ei
+083/095	sei	1	s ei
+083/097	sein	1	s ei n
+083/099	sei	1	s ei
+083/101	sei	1	s ei
+083/103	sei	1	s ei
+083/105	sei	1	s ei
+083/107	sein	1	s ei n
+083/111	sa	1	s a
+083/113	sai	1	s ai
+083/115	so	1	s o
+083/117	sa	1	s a
+083/119	sa	1	s a
+083/121	sa	1	s a
+083/129	sei	1	s ei
+083/131	seii	1	s eii
+083/133	sei	1	s ei
+083/135	sei	1	s ei
+083/139	sei	1	s ei
+083/143	sei	1	s ei
+083/145	sei	1	s ei
+083/147	sein	1	s ei n
+083/149	seiin	1	s eii n
+083/173	zae	1	z ae
+083/195	sein	1	s ei n
+084/031	sinn	1	s i nn
+084/033	sin	1	s i n
+084/035	sinn	1	s i nn
+084/037	sin	1	s i n
+084/039	siin	1	s ii n
+084/041	sin	1	s i n
+084/043	sien	1	s ie n
+084/045	sinn	1	s i nn
+084/047	sei	1	s ei
+084/049	sei	1	s ei
+084/051	sei	1	s ei
+084/053	sei	1	s ei
+084/055	sei	1	s ei
+084/057	sai	1	s ai
+084/059	sae	1	s ae
+084/061	sae	1	s ae
+084/063	sei	1	s ei
+084/065	sae	1	s ae
+084/067	sei	1	s ei
+084/069	sei	1	s ei
+084/071	sei	1	s ei
+084/073	sei	1	s ei
+084/075	sei	1	s ei
+084/077	sein	1	s ei n
+084/079	sei	1	s ei
+084/081	sei	1	s ei
+084/083	sei	1	s ei
+084/085	sei	1	s ei
+084/087	sein	1	s ei n
+084/089	sei	1	s ei
+084/091	sei	1	s ei
+084/093	sei	1	s ei
+084/095	sei	1	s ei
+084/097	sei	1	s ei
+084/099	sei	1	s ei
+084/101	sa	1	s a
+084/103	sei	1	s ei
+084/105	sein	1	s ei n
+084/107	sa	1	s a
+084/109	sein	1	s ei n
+084/111	sa	1	s a
+084/113	sa	1	s a
+084/115	sa	1	s a
+084/117	sa	1	s a
+084/119	sa	1	s a
+084/129	sei	1	s ei
+084/131	sei	1	s ei
+084/133	säi	1	s äi
+084/135	sei	1	s ei
+084/137	sei	1	s ei
+084/139	sei	1	s ei
+084/141	sein	1	s ei n
+084/143	sei	1	s ei
+084/145	sei	1	s ei
+084/147	sei	1	s ei
+084/149	sei	1	s ei
+084/171	zai	1	z ai
+084/173	zae	1	z ae
+084/195	sei	1	s ei
+085/031	sinn	1	s i nn
+085/033	si	1	s i
+085/035	sin	1	s i n
+085/037	sin	1	s i n
+085/039	sin	1	s i n
+085/041	sin	1	s i n
+085/043	sin	1	s i n
+085/045	sin	1	s i n
+085/047	sei	1	s ei
+085/049	si	1	s i
+085/051	sei	1	s ei
+085/053	sae	1	s ae
+085/055	sei	1	s ei
+085/057	sei	1	s ei
+085/059	sei	1	s ei
+085/061	sei	1	s ei
+085/063	sae	1	s ae
+085/065	sei	1	s ei
+085/067	sae	1	s ae
+085/069	sei	1	s ei
+085/071	sae	1	s ae
+085/073	seii	1	s eii
+085/075	sei	1	s ei
+085/077	sei	1	s ei
+085/079	sei	1	s ei
+085/081	sei	1	s ei
+085/083	sei	1	s ei
+085/085	sei	1	s ei
+085/087	sei	1	s ei
+085/089	sei	1	s ei
+085/091	sei	1	s ei
+085/093	sei	1	s ei
+085/095	sei	1	s ei
+085/097	sei	1	s ei
+085/101	sei	1	s ei
+085/103	sei	1	s ei
+085/105	sei	1	s ei
+085/107	säi	1	s äi
+085/109	sai	1	s ai
+085/111	san	1	s a n
+085/113	sain	1	s ai n
+085/115	sa	1	s a
+085/117	sa	1	s a
+085/119	sa	1	s a
+085/121	sei	1	s ei
+085/123	sä	1	s ä
+085/125	sei	1	s ei
+085/127	sein	1	s ei n
+085/129	sei	1	s ei
+085/131	sai	1	s ai
+085/133	sei	1	s ei
+085/135	sei	1	s ei
+085/137	sei	1	s ei
+085/139	seii	1	s eii
+085/141	säi	1	s äi
+085/143	sein	1	s ei n
+085/145	sei	1	s ei
+085/147	sei	1	s ei
+085/149	seij	1	s ei j
+085/175	zui	1	z ui
+085/193	sae	1	s ae
+085/197	sae	1	s ae
+086/033	si	1	s i
+086/035	sin	1	s i n
+086/037	sin	1	s i n
+086/039	sin	1	s i n
+086/041	sin	1	s i n
+086/043	sin	1	s i n
+086/045	si	1	s i
+086/047	sing	1	s i ng
+086/049	si	1	s i
+086/051	sei	1	s ei
+086/053	sei	1	s ei
+086/055	sei	1	s ei
+086/057	sei	1	s ei
+086/059	sei	1	s ei
+086/061	sai	1	s ai
+086/063	sai	1	s ai
+086/065	sae	1	s ae
+086/067	sei	1	s ei
+086/069	sei	1	s ei
+086/071	sai	1	s ai
+086/073	sae	1	s ae
+086/075	sei	1	s ei
+086/077	sei	1	s ei
+086/079	sei	1	s ei
+086/081	sei	1	s ei
+086/083	sei	1	s ei
+086/085	seii	1	s eii
+086/087	sei	1	s ei
+086/089	sei	1	s ei
+086/091	sei	1	s ei
+086/093	sei	1	s ei
+086/095	sei	1	s ei
+086/097	sei	1	s ei
+086/099	sei	1	s ei
+086/101	sei	1	s ei
+086/103	sei	1	s ei
+086/105	sei	1	s ei
+086/107	sei	1	s ei
+086/109	sa	1	s a
+086/111	sei	1	s ei
+086/113	sa	1	s a
+086/115	sei	1	s ei
+086/117	so	1	s o
+086/119	sa	1	s a
+086/121	sai	1	s ai
+086/123	sei	1	s ei
+086/125	sei	1	s ei
+086/127	sein	1	s ei n
+086/129	sei	1	s ei
+086/131	sei	1	s ei
+086/133	sein	1	s ei n
+086/135	sei	1	s ei
+086/137	sei	1	s ei
+086/139	sä	1	s ä
+086/141	sai	1	s ai
+086/143	sein	1	s ei n
+086/145	sein	1	s ei n
+086/147	sen	1	s e n
+086/149	sei	1	s ei
+086/151	sein	1	s ei n
+086/175	sae	1	s ae
+086/197	sei	1	s ei
+086/199	sei	1	s ei
+087/033	si	1	s i
+087/035	sinn	1	s i nn
+087/037	sin	1	s i n
+087/039	sin	1	s i n
+087/041	sin	1	s i n
+087/043	sinn	1	s i nn
+087/045	si	1	s i
+087/049	sei	1	s ei
+087/051	sae	1	s ae
+087/053	sei	1	s ei
+087/055	sei	1	s ei
+087/057	sae	1	s ae
+087/059	sei	1	s ei
+087/061	sei	1	s ei
+087/063	sei	1	s ei
+087/065	sei	1	s ei
+087/067	sei	1	s ei
+087/069	sei	1	s ei
+087/071	sei	1	s ei
+087/073	sei	1	s ei
+087/075	sei	1	s ei
+087/077	sei	1	s ei
+087/079	sei	1	s ei
+087/081	sei	1	s ei
+087/083	sei	1	s ei
+087/085	sein	1	s ei n
+087/087	sei	1	s ei
+087/089	sei	1	s ei
+087/091	sei	1	s ei
+087/093	sei	1	s ei
+087/095	sei	1	s ei
+087/097	sei	1	s ei
+087/099	sei	1	s ei
+087/101	sei	1	s ei
+087/103	seii	1	s eii
+087/105	sei	1	s ei
+087/107	sein	1	s ei n
+087/109	sei	1	s ei
+087/111	sei	1	s ei
+087/113	sa	1	s a
+087/115	sei	1	s ei
+087/117	sei	1	s ei
+087/119	sa	1	s a
+087/121	säi	1	s äi
+087/123	sei	1	s ei
+087/125	sei	1	s ei
+087/127	seng	1	s e ng
+087/129	sei	1	s ei
+087/133	sein	1	s ei n
+087/135	sein	1	s ei n
+087/137	sei	1	s ei
+087/139	sei	1	s ei
+087/141	sei	1	s ei
+087/143	sei	1	s ei
+087/145	seei	1	s eei
+087/147	sen	1	s e n
+087/149	sej	1	s e j
+087/151	sein	1	s ei n
+088/035	si	1	s i
+088/037	si	1	s i
+088/039	sinn	1	s i nn
+088/041	sinn	1	s i nn
+088/043	si	1	s i
+088/045	sinn	1	s i nn
+088/047	sei	1	s ei
+088/049	sei	1	s ei
+088/051	sei	1	s ei
+088/053	sei	1	s ei
+088/055	sei	1	s ei
+088/057	sei	1	s ei
+088/059	sei	1	s ei
+088/061	sei	1	s ei
+088/063	sei	1	s ei
+088/065	sei	1	s ei
+088/067	sai	1	s ai
+088/069	sei	1	s ei
+088/071	sei	1	s ei
+088/073	sei	1	s ei
+088/075	sai	1	s ai
+088/077	sei	1	s ei
+088/079	sei	1	s ei
+088/081	sei	1	s ei
+088/083	sein	1	s ei n
+088/085	sai	1	s ai
+088/087	sei	1	s ei
+088/089	sei	1	s ei
+088/091	seu	1	s eu
+088/093	sei	1	s ei
+088/095	sei	1	s ei
+088/097	sein	1	s ei n
+088/099	sei	1	s ei
+088/101	sei	1	s ei
+088/103	sei	1	s ei
+088/105	sei	1	s ei
+088/107	sei	1	s ei
+088/109	sein	1	s ei n
+088/113	sei	1	s ei
+088/115	sei	1	s ei
+088/117	sein	1	s ei n
+088/121	sei	1	s ei
+088/123	sei	1	s ei
+088/127	sei	1	s ei
+088/129	sein	1	s ei n
+088/131	sei	1	s ei
+088/137	sei	1	s ei
+088/139	se	1	s e
+088/141	sen	1	s e n
+088/143	sei	1	s ei
+088/145	sei	1	s ei
+088/147	sai	1	s ai
+088/149	sei	1	s ei
+089/035	si	1	s i
+089/037	sin	1	s i n
+089/039	si	1	s i
+089/041	sinn	1	s i nn
+089/043	sin	1	s i n
+089/045	si	1	s i
+089/047	sei	1	s ei
+089/049	sei	1	s ei
+089/051	sei	1	s ei
+089/053	sae	1	s ae
+089/055	sae	1	s ae
+089/057	sei	1	s ei
+089/059	sae	1	s ae
+089/061	sei	1	s ei
+089/063	sei	1	s ei
+089/065	sei	1	s ei
+089/067	sei	1	s ei
+089/069	sein	1	s ei n
+089/071	sei	1	s ei
+089/073	sai	1	s ai
+089/075	sei	1	s ei
+089/077	sei	1	s ei
+089/079	sei	1	s ei
+089/081	sei	1	s ei
+089/083	sei	1	s ei
+089/085	sei	1	s ei
+089/087	sei	1	s ei
+089/089	sei	1	s ei
+089/091	sei	1	s ei
+089/093	sei	1	s ei
+089/095	sei	1	s ei
+089/097	sei	1	s ei
+089/099	seii	1	s eii
+089/101	sei	1	s ei
+089/103	sei	1	s ei
+089/105	saö	1	s aö
+089/107	sei	1	s ei
+089/109	sei	1	s ei
+089/111	sei	1	s ei
+089/113	sein	1	s ei n
+089/115	seii	1	s eii
+089/117	sae	1	s ae
+089/119	säi	1	s äi
+089/121	sei	1	s ei
+089/123	sei	1	s ei
+089/125	sei	1	s ei
+089/127	sei	1	s ei
+089/129	sei	1	s ei
+089/131	sei	1	s ei
+089/133	sei	1	s ei
+089/135	sei	1	s ei
+089/137	sei	1	s ei
+089/139	sei	1	s ei
+089/141	sei	1	s ei
+089/143	sein	1	s ei n
+089/145	sei	1	s ei
+089/147	säin	1	s äi n
+089/149	sei	1	s ei
+090/035	si	1	s i
+090/037	sinn	1	s i nn
+090/039	si	1	s i
+090/041	sin	1	s i n
+090/043	si	1	s i
+090/045	sii	1	s ii
+090/047	si	1	s i
+090/049	sei	1	s ei
+090/051	sae	1	s ae
+090/053	sai	1	s ai
+090/055	sei	1	s ei
+090/057	sei	1	s ei
+090/059	sei	1	s ei
+090/061	sai	1	s ai
+090/063	sei	1	s ei
+090/065	sei	1	s ei
+090/067	sei	1	s ei
+090/069	sei	1	s ei
+090/071	sei	1	s ei
+090/073	sei	1	s ei
+090/075	sei	1	s ei
+090/077	sei	1	s ei
+090/079	sei	1	s ei
+090/081	enkar	1	e n k a r
+090/083	sei	1	s ei
+090/085	sei	1	s ei
+090/087	sein	1	s ei n
+090/089	sei	1	s ei
+090/091	sein	1	s ei n
+090/093	sei	1	s ei
+090/095	sei	1	s ei
+090/097	sei	1	s ei
+090/099	sei	1	s ei
+090/101	sai	1	s ai
+090/103	sei	1	s ei
+090/105	sei	1	s ei
+090/107	sei	1	s ei
+090/109	sein	1	s ei n
+090/111	sei	1	s ei
+090/113	sein	1	s ei n
+090/115	sei	1	s ei
+090/119	sei	1	s ei
+090/121	sei	1	s ei
+090/123	sei	1	s ei
+090/125	sei	1	s ei
+090/127	sei	1	s ei
+090/129	sei	1	s ei
+090/131	sei	1	s ei
+090/133	sai	1	s ai
+090/135	sei	1	s ei
+090/137	sein	1	s ei n
+090/139	seei	1	s eei
+090/141	sei	1	s ei
+090/143	sä	1	s ä
+090/145	sei	1	s ei
+090/147	sei	1	s ei
+090/149	sei	1	s ei
+090/151	sei	1	s ei
+091/035	si	1	s i
+091/037	si	1	s i
+091/039	sinn	1	s i nn
+091/041	si	1	s i
+091/043	si	1	s i
+091/045	si	1	s i
+091/047	si	1	s i
+091/049	sei	1	s ei
+091/051	sei	1	s ei
+091/053	sei	1	s ei
+091/055	sei	1	s ei
+091/057	sei	1	s ei
+091/059	sai	1	s ai
+091/061	sei	1	s ei
+091/063	sei	1	s ei
+091/065	sei	1	s ei
+091/067	sae	1	s ae
+091/069	sai	1	s ai
+091/071	sai	1	s ai
+091/073	sei	1	s ei
+091/075	sai	1	s ai
+091/077	sei	1	s ei
+091/079	sei	1	s ei
+091/081	sei	1	s ei
+091/083	sei	1	s ei
+091/085	sei	1	s ei
+091/087	sein	1	s ei n
+091/091	sei	1	s ei
+091/093	sei	1	s ei
+091/095	sei	1	s ei
+091/097	sei	1	s ei
+091/099	sein	1	s ei n
+091/101	sei	1	s ei
+091/103	sei	1	s ei
+091/105	sei	1	s ei
+091/107	sa	1	s a
+091/109	sein	1	s ei n
+091/111	sei	1	s ei
+091/113	sa	1	s a
+091/115	sei	1	s ei
+091/117	sei	1	s ei
+091/119	sei	1	s ei
+091/121	sein	1	s ei n
+091/125	sei	1	s ei
+091/129	sei	1	s ei
+091/131	sei	1	s ei
+091/133	sein	1	s ei n
+091/135	sei	1	s ei
+091/137	se	1	s e
+091/139	sei	1	s ei
+091/141	sei	1	s ei
+091/143	sei	1	s ei
+091/145	seiö	1	s eiö
+091/147	sei	1	s ei
+091/149	säi	1	s äi
+091/151	sä	1	s ä
+091/155	sai	1	s ai
+092/033	si	1	s i
+092/035	si	1	s i
+092/037	si	1	s i
+092/039	si	1	s i
+092/041	sie	1	s ie
+092/043	si	1	s i
+092/045	si	1	s i
+092/047	si	1	s i
+092/049	sin	1	s i n
+092/051	senn	1	s e nn
+092/053	seä	1	s eä
+092/055	sei	1	s ei
+092/057	sei	1	s ei
+092/059	sai	1	s ai
+092/061	sai	1	s ai
+092/063	sei	1	s ei
+092/065	sai	1	s ai
+092/067	sei	1	s ei
+092/069	sei	1	s ei
+092/071	sei	1	s ei
+092/073	sei	1	s ei
+092/075	sei	1	s ei
+092/077	sei	1	s ei
+092/079	sein	1	s ei n
+092/081	sei	1	s ei
+092/083	sei	1	s ei
+092/085	sei	1	s ei
+092/087	sei	1	s ei
+092/089	sei	1	s ei
+092/091	sei	1	s ei
+092/093	sei	1	s ei
+092/095	sei	1	s ei
+092/097	sein	1	s ei n
+092/099	sei	1	s ei
+092/101	sei	1	s ei
+092/103	sei	1	s ei
+092/105	sei	1	s ei
+092/107	sein	1	s ei n
+092/109	sa	1	s a
+092/111	sei	1	s ei
+092/113	sei	1	s ei
+092/115	sei	1	s ei
+092/117	sa	1	s a
+092/119	sei	1	s ei
+092/121	sein	1	s ei n
+092/123	sein	1	s ei n
+092/125	sei	1	s ei
+092/127	sei	1	s ei
+092/129	sei	1	s ei
+092/131	sei	1	s ei
+092/133	sei	1	s ei
+092/135	säi	1	s äi
+092/137	sei	1	s ei
+092/139	sei	1	s ei
+092/141	sei	1	s ei
+092/143	sein	1	s ei n
+092/145	sei	1	s ei
+092/147	se	1	s e
+092/149	sei	1	s ei
+092/151	sei	1	s ei
+093/035	si	1	s i
+093/037	si	1	s i
+093/039	si	1	s i
+093/041	si	1	s i
+093/043	si	1	s i
+093/045	si	1	s i
+093/047	si	1	s i
+093/049	sin	1	s i n
+093/051	sin	1	s i n
+093/053	si	1	s i
+093/055	sei	1	s ei
+093/057	sei	1	s ei
+093/059	sae	1	s ae
+093/061	sae	1	s ae
+093/063	saae	1	s aae
+093/065	sei	1	s ei
+093/067	sein	1	s ei n
+093/069	sein	1	s ei n
+093/071	sei	1	s ei
+093/073	sei	1	s ei
+093/075	sei	1	s ei
+093/077	sei	1	s ei
+093/079	sei	1	s ei
+093/081	sei	1	s ei
+093/083	sei	1	s ei
+093/085	sei	1	s ei
+093/087	sein	1	s ei n
+093/089	sei	1	s ei
+093/091	sei	1	s ei
+093/093	sei	1	s ei
+093/095	enka	1	e n k a
+093/097	sei	1	s ei
+093/099	sein	1	s ei n
+093/101	sei	1	s ei
+093/103	sei	1	s ei
+093/105	sei	1	s ei
+093/109	sa	1	s a
+093/111	sa	1	s a
+093/113	sei	1	s ei
+093/115	sein	1	s ei n
+093/117	sai	1	s ai
+093/119	den	1	d e n
+093/121	sein	1	s ei n
+093/123	sei	1	s ei
+093/125	sei	1	s ei
+093/127	sai	1	s ai
+093/129	sein	1	s ei n
+093/131	sein	1	s ei n
+093/133	sei	1	s ei
+093/137	sei	1	s ei
+093/139	sei	1	s ei
+093/143	sei	1	s ei
+093/145	sei	1	s ei
+093/147	sei	1	s ei
+093/149	sein	1	s ei n
+093/151	ssei	1	ss ei
+093/153	ssei	1	ss ei
+093/155	sei	1	s ei
+094/033	si	1	s i
+094/035	si	1	s i
+094/037	si	1	s i
+094/039	si	1	s i
+094/041	sii	1	s ii
+094/043	si	1	s i
+094/045	si	1	s i
+094/047	mi	1	m i
+094/049	sin	1	s i n
+094/051	sin	1	s i n
+094/053	sinn	1	s i nn
+094/055	sin	1	s i n
+094/057	sei	1	s ei
+094/059	sein	1	s ei n
+094/061	sei	1	s ei
+094/063	sei	1	s ei
+094/065	sae	1	s ae
+094/067	sein	1	s ei n
+094/069	sai	1	s ai
+094/071	sei	1	s ei
+094/073	sei	1	s ei
+094/075	sei	1	s ei
+094/077	seih	1	s eih
+094/079	sei	1	s ei
+094/081	seii	1	s eii
+094/083	sei	1	s ei
+094/085	sei	1	s ei
+094/087	sei	1	s ei
+094/089	sein	1	s ei n
+094/091	sei	1	s ei
+094/093	sei	1	s ei
+094/095	sei	1	s ei
+094/097	sei	1	s ei
+094/099	sei	1	s ei
+094/101	sei	1	s ei
+094/103	sai	1	s ai
+094/105	sa	1	s a
+094/107	sein	1	s ei n
+094/109	sei	1	s ei
+094/111	sei	1	s ei
+094/113	sein	1	s ei n
+094/115	sei	1	s ei
+094/117	sein	1	s ei n
+094/119	sei	1	s ei
+094/121	sein	1	s ei n
+094/123	sei	1	s ei
+094/125	sei	1	s ei
+094/127	sei	1	s ei
+094/129	sei	1	s ei
+094/131	sei	1	s ei
+094/133	sein	1	s ei n
+094/135	sein	1	s ei n
+094/137	sei	1	s ei
+094/139	sei	1	s ei
+094/141	sei	1	s ei
+094/143	sei	1	s ei
+094/145	seii	1	s eii
+094/147	sei	1	s ei
+094/149	sei	1	s ei
+094/151	sei	1	s ei
+094/153	sein	1	s ei n
+095/031	si	1	s i
+095/033	si	1	s i
+095/035	si	1	s i
+095/037	sie	1	s ie
+095/039	si	1	s i
+095/041	si	1	s i
+095/043	si	1	s i
+095/045	sin	1	s i n
+095/047	si	1	s i
+095/049	sin	1	s i n
+095/051	senn	1	s e nn
+095/053	sin	1	s i n
+095/055	sei	1	s ei
+095/057	sei	1	s ei
+095/059	sei	1	s ei
+095/061	sei	1	s ei
+095/063	sain	1	s ai n
+095/065	sei	1	s ei
+095/067	sei	1	s ei
+095/069	saae	1	s aae
+095/071	sei	1	s ei
+095/073	sei	1	s ei
+095/075	sei	1	s ei
+095/077	sei	1	s ei
+095/079	sei	1	s ei
+095/081	sei	1	s ei
+095/083	sei	1	s ei
+095/085	sai	1	s ai
+095/087	sei	1	s ei
+095/089	sei	1	s ei
+095/091	sei	1	s ei
+095/093	sei	1	s ei
+095/095	sei	1	s ei
+095/097	sein	1	s ei n
+095/099	sei	1	s ei
+095/101	sei	1	s ei
+095/103	sei	1	s ei
+095/105	sei	1	s ei
+095/107	seinn	1	s ei nn
+095/109	sei	1	s ei
+095/111	sein	1	s ei n
+095/113	sein	1	s ei n
+095/115	sei	1	s ei
+095/117	sei	1	s ei
+095/119	sein	1	s ei n
+095/121	sai	1	s ai
+095/123	sei	1	s ei
+095/125	sa	1	s a
+095/129	sei	1	s ei
+095/131	sei	1	s ei
+095/133	sei	1	s ei
+095/139	sei	1	s ei
+095/141	sein	1	s ei n
+095/143	sei	1	s ei
+095/145	sai	1	s ai
+095/147	sei	1	s ei
+095/149	sei	1	s ei
+095/151	sai	1	s ai
+095/153	sei	1	s ei
+095/155	sein	1	s ei n
+096/031	si	1	s i
+096/033	si	1	s i
+096/035	sii	1	s ii
+096/037	si	1	s i
+096/039	si	1	s i
+096/041	sii	1	s ii
+096/043	si	1	s i
+096/045	sin	1	s i n
+096/047	sin	1	s i n
+096/049	sin	1	s i n
+096/051	sin	1	s i n
+096/053	sinn	1	s i nn
+096/055	sin	1	s i n
+096/057	sin	1	s i n
+096/059	sain	1	s ai n
+096/061	sing	1	s i ng
+096/063	sing	1	s i ng
+096/065	sai	1	s ai
+096/067	sae	1	s ae
+096/069	sei	1	s ei
+096/071	sei	1	s ei
+096/075	sei	1	s ei
+096/077	sei	1	s ei
+096/079	sei	1	s ei
+096/081	sei	1	s ei
+096/083	sei	1	s ei
+096/085	sein	1	s ei n
+096/087	sai	1	s ai
+096/089	sei	1	s ei
+096/091	sei	1	s ei
+096/093	sein	1	s ei n
+096/095	sei	1	s ei
+096/097	sei	1	s ei
+096/099	sei	1	s ei
+096/101	sein	1	s ei n
+096/103	sei	1	s ei
+096/105	sei	1	s ei
+096/107	sei	1	s ei
+096/109	sei	1	s ei
+096/111	sa	1	s a
+096/113	saan	1	s aa n
+096/115	sa	1	s a
+096/117	sei	1	s ei
+096/119	sai	1	s ai
+096/121	sei	1	s ei
+096/123	sain	1	s ai n
+096/125	sei	1	s ei
+096/129	säin	1	s äi n
+096/131	sei	1	s ei
+096/135	seei	1	s eei
+096/137	sei	1	s ei
+096/139	sei	1	s ei
+096/141	sei	1	s ei
+096/143	sei	1	s ei
+096/145	sei	1	s ei
+096/147	seei	1	s eei
+096/151	saan	1	s aa n
+096/153	sein	1	s ei n
+096/155	sei	1	s ei
+097/031	si	1	s i
+097/033	si	1	s i
+097/035	si	1	s i
+097/037	si	1	s i
+097/039	sii	1	s ii
+097/041	si	1	s i
+097/043	sin	1	s i n
+097/045	si	1	s i
+097/047	sin	1	s i n
+097/049	sin	1	s i n
+097/051	sin	1	s i n
+097/053	sin	1	s i n
+097/055	sin	1	s i n
+097/057	sinn	1	s i nn
+097/059	sin	1	s i n
+097/061	sing	1	s i ng
+097/063	sing	1	s i ng
+097/065	sing	1	s i ng
+097/067	sei	1	s ei
+097/069	sei	1	s ei
+097/071	sei	1	s ei
+097/073	sei	1	s ei
+097/075	sei	1	s ei
+097/077	sei	1	s ei
+097/079	sein	1	s ei n
+097/081	sei	1	s ei
+097/083	sei	1	s ei
+097/085	sei	1	s ei
+097/087	sai	1	s ai
+097/089	sei	1	s ei
+097/091	sai	1	s ai
+097/093	sai	1	s ai
+097/095	sei	1	s ei
+097/097	sein	1	s ei n
+097/099	sei	1	s ei
+097/103	seiin	1	s eii n
+097/105	sei	1	s ei
+097/107	sei	1	s ei
+097/109	sei	1	s ei
+097/113	mein	1	m ei n
+097/125	sein	1	s ei n
+097/131	sai	1	s ai
+097/133	sei	1	s ei
+097/139	sei	1	s ei
+097/141	sei	1	s ei
+097/143	sein	1	s ei n
+097/145	se	1	s e
+097/149	sei	1	s ei
+097/153	sei	1	s ei
+098/033	si	1	s i
+098/035	si	1	s i
+098/037	si	1	s i
+098/039	si	1	s i
+098/041	si	1	s i
+098/043	sin	1	s i n
+098/045	sin	1	s i n
+098/047	sin	1	s i n
+098/049	si	1	s i
+098/051	sin	1	s i n
+098/053	sin	1	s i n
+098/055	sin	1	s i n
+098/057	sinn	1	s i nn
+098/059	sin	1	s i n
+098/061	sin	1	s i n
+098/063	sing	1	s i ng
+098/065	si	1	s i
+098/067	si	1	s i
+098/069	sing	1	s i ng
+098/071	sei	1	s ei
+098/073	sei	1	s ei
+098/075	sei	1	s ei
+098/077	sai	1	s ai
+098/079	sei	1	s ei
+098/081	sei	1	s ei
+098/083	sei	1	s ei
+098/085	sei	1	s ei
+098/087	saö	1	s aö
+098/089	sein	1	s ei n
+098/091	sei	1	s ei
+098/093	sei	1	s ei
+098/095	sei	1	s ei
+098/097	sei	1	s ei
+098/103	sei	1	s ei
+098/105	sei	1	s ei
+098/107	sei	1	s ei
+098/109	sei	1	s ei
+098/111	sei	1	s ei
+098/119	sei	1	s ei
+098/123	sein	1	s ei n
+098/125	sei	1	s ei
+098/127	sein	1	s ei n
+098/135	sei	1	s ei
+098/137	sein	1	s ei n
+098/139	sein	1	s ei n
+098/141	sein	1	s ei n
+098/143	sein	1	s ei n
+098/145	sei	1	s ei
+098/147	sei	1	s ei
+098/149	sei	1	s ei
+098/151	sei	1	s ei
+099/033	si	1	s i
+099/035	si	1	s i
+099/037	si	1	s i
+099/039	si	1	s i
+099/041	si	1	s i
+099/043	sin	1	s i n
+099/045	si	1	s i
+099/047	sin	1	s i n
+099/049	si	1	s i
+099/051	sin	1	s i n
+099/053	sin	1	s i n
+099/055	sin	1	s i n
+099/057	sin	1	s i n
+099/059	sin	1	s i n
+099/063	si	1	s i
+099/065	siin	1	s ii n
+099/067	si	1	s i
+099/069	sing	1	s i ng
+099/071	sei	1	s ei
+099/073	sain	1	s ai n
+099/075	sei	1	s ei
+099/077	sei	1	s ei
+099/081	sei	1	s ei
+099/083	sei	1	s ei
+099/085	sei	1	s ei
+099/089	sei	1	s ei
+099/093	sei	1	s ei
+099/095	sei	1	s ei
+099/099	sei	1	s ei
+099/101	sein	1	s ei n
+099/103	sei	1	s ei
+099/105	sei	1	s ei
+099/107	sei	1	s ei
+099/109	sei	1	s ei
+099/111	sein	1	s ei n
+099/113	sein	1	s ei n
+099/121	sei	1	s ei
+099/123	sei	1	s ei
+099/125	sei	1	s ei
+099/131	sei	1	s ei
+099/137	sei	1	s ei
+099/139	sein	1	s ei n
+099/141	sein	1	s ei n
+099/143	sei	1	s ei
+099/145	sei	1	s ei
+099/147	sei	1	s ei
+100/033	si	1	s i
+100/035	si	1	s i
+100/037	si	1	s i
+100/039	si	1	s i
+100/041	sii	1	s ii
+100/043	sii	1	s ii
+100/045	sin	1	s i n
+100/049	siin	1	s ii n
+100/051	sin	1	s i n
+100/053	sin	1	s i n
+100/055	sin	1	s i n
+100/057	sin	1	s i n
+100/059	sin	1	s i n
+100/061	sin	1	s i n
+100/065	sin	1	s i n
+100/067	sie	1	s ie
+100/069	sing	1	s i ng
+100/071	sing	1	s i ng
+100/073	sing	1	s i ng
+100/075	sei	1	s ei
+100/077	sei	1	s ei
+100/081	sei	1	s ei
+100/083	sei	1	s ei
+100/089	sei	1	s ei
+100/093	sei	1	s ei
+100/095	sei	1	s ei
+100/097	sei	1	s ei
+100/099	sei	1	s ei
+100/101	sei	1	s ei
+100/109	sei	1	s ei
+100/111	sei	1	s ei
+100/113	sei	1	s ei
+100/115	sei	1	s ei
+100/117	sei	1	s ei
+100/119	sei	1	s ei
+100/121	sein	1	s ei n
+100/125	säi	1	s äi
+100/127	sei	1	s ei
+100/129	sei	1	s ei
+100/133	sei	1	s ei
+100/135	sei	1	s ei
+100/141	sein	1	s ei n
+100/143	sein	1	s ei n
+100/145	sei	1	s ei
+101/035	si	1	s i
+101/037	sin	1	s i n
+101/039	sy	1	s y
+101/041	si	1	s i
+101/043	si	1	s i
+101/045	sin	1	s i n
+101/047	sin	1	s i n
+101/049	sin	1	s i n
+101/051	siin	1	s ii n
+101/053	sin	1	s i n
+101/055	sin	1	s i n
+101/057	sin	1	s i n
+101/059	sin	1	s i n
+101/061	sin	1	s i n
+101/063	sin	1	s i n
+101/065	sin	1	s i n
+101/067	sing	1	s i ng
+101/071	sing	1	s i ng
+101/075	sei	1	s ei
+101/077	sein	1	s ei n
+101/079	sei	1	s ei
+101/081	sei	1	s ei
+101/091	sei	1	s ei
+101/093	sei	1	s ei
+101/095	sei	1	s ei
+101/097	seii	1	s eii
+101/099	sein	1	s ei n
+101/101	saö	1	s aö
+101/103	sei	1	s ei
+101/107	sei	1	s ei
+101/109	sein	1	s ei n
+101/113	sei	1	s ei
+101/115	sein	1	s ei n
+101/121	sei	1	s ei
+101/125	sei	1	s ei
+101/129	sein	1	s ei n
+101/131	sei	1	s ei
+101/133	seii	1	s eii
+101/137	sein	1	s ei n
+101/139	sei	1	s ei
+101/141	sein	1	s ei n
+101/143	sein	1	s ei n
+101/145	sai	1	s ai
+101/147	sei	1	s ei
+102/037	si	1	s i
+102/039	si	1	s i
+102/041	sii	1	s ii
+102/043	sy	1	s y
+102/045	sii	1	s ii
+102/047	si	1	s i
+102/049	si	1	s i
+102/051	sin	1	s i n
+102/053	siin	1	s ii n
+102/055	sin	1	s i n
+102/057	sin	1	s i n
+102/059	sin	1	s i n
+102/061	sinn	1	s i nn
+102/063	sin	1	s i n
+102/065	sin	1	s i n
+102/067	sinn	1	s i nn
+102/069	schin	1	sch i n
+102/071	ding	1	d i ng
+102/073	sei	1	s ei
+102/075	saai	1	s aai
+102/077	sei	1	s ei
+102/079	sein	1	s ei n
+102/081	sei	1	s ei
+102/083	sei	1	s ei
+102/089	sei	1	s ei
+102/091	sei	1	s ei
+102/093	sei	1	s ei
+102/095	sei	1	s ei
+102/097	sei	1	s ei
+102/099	sei	1	s ei
+102/103	seh	1	s eh
+102/107	sei	1	s ei
+102/109	sei	1	s ei
+102/113	sei	1	s ei
+102/115	sein	1	s ei n
+102/127	sei	1	s ei
+102/129	sei	1	s ei
+102/131	sei	1	s ei
+102/135	sein	1	s ei n
+102/137	sei	1	s ei
+102/139	sei	1	s ei
+102/141	sei	1	s ei
+102/143	sai	1	s ai
+102/145	sai	1	s ai
+103/039	si	1	s i
+103/041	si	1	s i
+103/043	si	1	s i
+103/045	si	1	s i
+103/047	si	1	s i
+103/049	sin	1	s i n
+103/051	sin	1	s i n
+103/053	sin	1	s i n
+103/055	sin	1	s i n
+103/057	sin	1	s i n
+103/059	sin	1	s i n
+103/063	sinn	1	s i nn
+103/065	sin	1	s i n
+103/067	sin	1	s i n
+103/069	sinn	1	s i nn
+103/071	schin	1	sch i n
+103/073	sei	1	s ei
+103/075	sain	1	s ai n
+103/077	sei	1	s ei
+103/079	sei	1	s ei
+103/081	sei	1	s ei
+103/083	sei	1	s ei
+103/085	sei	1	s ei
+103/087	sei	1	s ei
+103/089	sein	1	s ei n
+103/091	sei	1	s ei
+103/097	sei	1	s ei
+103/099	sei	1	s ei
+103/101	sei	1	s ei
+103/105	sei	1	s ei
+103/107	sai	1	s ai
+103/111	sei	1	s ei
+103/121	sein	1	s ei n
+103/125	sei	1	s ei
+103/127	sei	1	s ei
+103/131	sai	1	s ai
+103/133	sa	1	s a
+103/135	sein	1	s ei n
+103/137	sein	1	s ei n
+103/139	sei	1	s ei
+103/141	sei	1	s ei
+103/143	sei	1	s ei
+103/145	sei	1	s ei
+104/033	sy	1	s y
+104/035	si	1	s i
+104/037	sy	1	s y
+104/039	si	1	s i
+104/041	si	1	s i
+104/043	si	1	s i
+104/045	si	1	s i
+104/047	si	1	s i
+104/049	si	1	s i
+104/051	si	1	s i
+104/053	sy	1	s y
+104/055	sin	1	s i n
+104/057	sinn	1	s i nn
+104/059	sin	1	s i n
+104/061	sin	1	s i n
+104/063	sin	1	s i n
+104/065	sin	1	s i n
+104/067	shin	1	s h i n
+104/071	sei	1	s ei
+104/075	sai	1	s ai
+104/077	sei	1	s ei
+104/079	sei	1	s ei
+104/081	sei	1	s ei
+104/083	sei	1	s ei
+104/085	sai	1	s ai
+104/091	sei	1	s ei
+104/095	seih	1	s eih
+104/101	sei	1	s ei
+104/103	sei	1	s ei
+104/107	sei	1	s ei
+104/111	sae	1	s ae
+104/113	sei	1	s ei
+104/119	sei	1	s ei
+104/121	sai	1	s ai
+104/123	sai	1	s ai
+104/125	sai	1	s ai
+104/127	sei	1	s ei
+104/131	sei	1	s ei
+104/133	sai	1	s ai
+104/135	sei	1	s ei
+104/137	sai	1	s ai
+104/139	sai	1	s ai
+104/141	sein	1	s ei n
+104/143	sai	1	s ai
+104/145	sai	1	s ai
+105/031	sy	1	s y
+105/033	si	1	s i
+105/035	si	1	s i
+105/037	si	1	s i
+105/039	si	1	s i
+105/041	si	1	s i
+105/043	sy	1	s y
+105/045	si	1	s i
+105/047	si	1	s i
+105/049	si	1	s i
+105/051	sy	1	s y
+105/053	sy	1	s y
+105/055	sy	1	s y
+105/057	si	1	s i
+105/059	sin	1	s i n
+105/061	sinn	1	s i nn
+105/063	sin	1	s i n
+105/065	sin	1	s i n
+105/067	sin	1	s i n
+105/069	sin	1	s i n
+105/071	sei	1	s ei
+105/073	sei	1	s ei
+105/075	sei	1	s ei
+105/077	sei	1	s ei
+105/079	sei	1	s ei
+105/081	sei	1	s ei
+105/085	sei	1	s ei
+105/087	se	1	s e
+105/089	sein	1	s ei n
+105/103	sei	1	s ei
+105/105	sei	1	s ei
+105/111	sei	1	s ei
+105/113	sei	1	s ei
+105/115	sein	1	s ei n
+105/117	sein	1	s ei n
+105/119	sei	1	s ei
+105/121	sei	1	s ei
+105/125	sei	1	s ei
+105/127	sei	1	s ei
+105/131	sein	1	s ei n
+105/133	sai	1	s ai
+105/135	sei	1	s ei
+105/137	sei	1	s ei
+105/141	sai	1	s ai
+105/143	säi	1	s äi
+105/145	sa	1	s a
+106/033	si	1	s i
+106/035	si	1	s i
+106/037	si	1	s i
+106/039	si	1	s i
+106/041	si	1	s i
+106/043	si	1	s i
+106/045	si	1	s i
+106/047	si	1	s i
+106/049	si	1	s i
+106/051	sii	1	s ii
+106/053	sy	1	s y
+106/057	si	1	s i
+106/061	sii	1	s ii
+106/063	si	1	s i
+106/067	sin	1	s i n
+106/071	sei	1	s ei
+106/073	sei	1	s ei
+106/075	sai	1	s ai
+106/077	sein	1	s ei n
+106/079	sei	1	s ei
+106/081	sei	1	s ei
+106/085	sein	1	s ei n
+106/087	sei	1	s ei
+106/093	sai	1	s ai
+106/097	sei	1	s ei
+106/099	sei	1	s ei
+106/103	sei	1	s ei
+106/111	sei	1	s ei
+106/115	sei	1	s ei
+106/121	sein	1	s ei n
+106/123	sei	1	s ei
+106/125	sei	1	s ei
+106/129	sei	1	s ei
+106/131	sei	1	s ei
+106/133	sei	1	s ei
+106/135	sei	1	s ei
+106/137	sai	1	s ai
+106/139	sai	1	s ai
+106/141	sei	1	s ei
+106/143	sein	1	s ei n
+106/145	sa	1	s a
+107/033	si	1	s i
+107/035	si	1	s i
+107/037	sy	1	s y
+107/039	si	1	s i
+107/041	sy	1	s y
+107/043	si	1	s i
+107/045	si	1	s i
+107/047	si	1	s i
+107/049	si	1	s i
+107/051	si	1	s i
+107/053	si	1	s i
+107/057	si	1	s i
+107/059	sin	1	s i n
+107/063	schi	1	sch i
+107/065	schin	1	sch i n
+107/071	sei	1	s ei
+107/075	sein	1	s ei n
+107/081	sei	1	s ei
+107/085	sein	1	s ei n
+107/087	sein	1	s ei n
+107/089	sain	1	s ai n
+107/091	sei	1	s ei
+107/097	sei	1	s ei
+107/099	sei	1	s ei
+107/103	sei	1	s ei
+107/105	sei	1	s ei
+107/107	sei	1	s ei
+107/111	sei	1	s ei
+107/119	sei	1	s ei
+107/121	sei	1	s ei
+107/123	sei	1	s ei
+107/125	sai	1	s ai
+107/127	sei	1	s ei
+107/129	sei	1	s ei
+107/131	seii	1	s eii
+107/133	sein	1	s ei n
+107/135	sae	1	s ae
+107/137	sei	1	s ei
+107/139	sei	1	s ei
+107/141	sei	1	s ei
+107/143	sei	1	s ei
+108/033	si	1	s i
+108/035	si	1	s i
+108/037	si	1	s i
+108/039	sy	1	s y
+108/041	si	1	s i
+108/043	si	1	s i
+108/047	sii	1	s ii
+108/049	sin	1	s i n
+108/063	siin	1	s ii n
+108/065	schin	1	sch i n
+108/067	schiin	1	sch ii n
+108/075	sei	1	s ei
+108/079	sein	1	s ei n
+108/081	sein	1	s ei n
+108/085	sein	1	s ei n
+108/087	sai	1	s ai
+108/091	sain	1	s ai n
+108/099	sei	1	s ei
+108/101	sei	1	s ei
+108/103	sei	1	s ei
+108/105	sei	1	s ei
+108/109	sei	1	s ei
+108/111	sei	1	s ei
+108/113	sei	1	s ei
+108/117	sei	1	s ei
+108/119	sei	1	s ei
+108/121	sei	1	s ei
+108/123	sei	1	s ei
+108/125	sei	1	s ei
+108/127	sei	1	s ei
+108/129	sei	1	s ei
+108/131	sei	1	s ei
+108/133	sei	1	s ei
+108/135	sein	1	s ei n
+108/137	sei	1	s ei
+108/139	säin	1	s äi n
+108/141	sei	1	s ei
+109/035	si	1	s i
+109/037	sy	1	s y
+109/039	si	1	s i
+109/041	si	1	s i
+109/043	si	1	s i
+109/045	si	1	s i
+109/049	sei	1	s ei
+109/053	sie	1	s ie
+109/061	si	1	s i
+109/063	si	1	s i
+109/065	schin	1	sch i n
+109/067	schim	1	sch i m
+109/075	sai	1	s ai
+109/083	sein	1	s ei n
+109/087	sai	1	s ai
+109/089	sai	1	s ai
+109/091	sai	1	s ai
+109/093	sei	1	s ei
+109/095	sain	1	s ai n
+109/097	sei	1	s ei
+109/099	sei	1	s ei
+109/101	sai	1	s ai
+109/103	sei	1	s ei
+109/107	sei	1	s ei
+109/109	sei	1	s ei
+109/111	sei	1	s ei
+109/113	sei	1	s ei
+109/115	sei	1	s ei
+109/117	sei	1	s ei
+109/119	sei	1	s ei
+109/121	sei	1	s ei
+109/123	sei	1	s ei
+109/125	sei	1	s ei
+109/127	sei	1	s ei
+109/129	sei	1	s ei
+109/131	sein	1	s ei n
+109/133	sai	1	s ai
+109/135	sei	1	s ei
+109/137	sein	1	s ei n
+109/139	sei	1	s ei
+110/035	si	1	s i
+110/039	si	1	s i
+110/041	si	1	s i
+110/043	sin	1	s i n
+110/045	sin	1	s i n
+110/047	siin	1	s ii n
+110/049	sin	1	s i n
+110/057	schi	1	sch i
+110/061	schin	1	sch i n
+110/065	schin	1	sch i n
+110/075	sai	1	s ai
+110/079	sei	1	s ei
+110/081	sein	1	s ei n
+110/083	sein	1	s ei n
+110/087	sei	1	s ei
+110/089	sein	1	s ei n
+110/091	sein	1	s ei n
+110/093	sei	1	s ei
+110/095	sei	1	s ei
+110/097	sei	1	s ei
+110/099	sei	1	s ei
+110/101	sei	1	s ei
+110/105	sei	1	s ei
+110/107	sei	1	s ei
+110/111	sei	1	s ei
+110/113	sei	1	s ei
+110/115	sei	1	s ei
+110/117	sei	1	s ei
+110/119	sai	1	s ai
+110/121	sei	1	s ei
+110/125	sein	1	s ei n
+110/127	sei	1	s ei
+110/129	sei	1	s ei
+110/131	sei	1	s ei
+110/133	sei	1	s ei
+110/135	sei	1	s ei
+110/137	sei	1	s ei
+110/139	sei	1	s ei
+111/035	sin	1	s i n
+111/037	sy	1	s y
+111/039	si	1	s i
+111/041	si	1	s i
+111/043	sin	1	s i n
+111/045	si	1	s i
+111/059	schi	1	sch i
+111/073	sei	1	s ei
+111/075	sai	1	s ai
+111/077	sein	1	s ei n
+111/079	sein	1	s ei n
+111/081	sein	1	s ei n
+111/083	sein	1	s ei n
+111/087	sein	1	s ei n
+111/089	sei	1	s ei
+111/105	sei	1	s ei
+111/107	sei	1	s ei
+111/109	sei	1	s ei
+111/111	sei	1	s ei
+111/113	sei	1	s ei
+111/115	sei	1	s ei
+111/117	sei	1	s ei
+111/119	sai	1	s ai
+111/121	sei	1	s ei
+111/123	sai	1	s ai
+111/125	sei	1	s ei
+112/037	si	1	s i
+112/039	si	1	s i
+112/041	si	1	s i
+112/043	sin	1	s i n
+112/047	schin	1	sch i n
+112/059	schii	1	sch ii
+112/061	schi	1	sch i
+112/063	schin	1	sch i n
+112/075	mei	1	m ei
+112/081	sai	1	s ai
+112/083	sein	1	s ei n
+112/085	sei	1	s ei
+112/111	sei	1	s ei
+112/115	sei	1	s ei
+112/117	sei	1	s ei
+112/119	sei	1	s ei
+113/035	si	1	s i
+113/037	si	1	s i
+113/039	si	1	s i
+113/047	schin	1	sch i n
+113/079	sei	1	s ei
+113/081	sai	1	s ai
+113/083	sei	1	s ei
+113/085	sai	1	s ai
+113/087	sein	1	s ei n
+113/121	sein	1	s ei n
+113/123	sei	1	s ei
+114/035	sin	1	s i n
+114/045	schin	1	sch i n
+114/083	sai	1	s ai
+114/085	sai	1	s ai
+115/041	schi	1	sch i
+115/043	schin	1	sch i n
+115/045	schin	1	sch i n
+115/083	sai	1	s ai
+115/085	sei	1	s ei
+116/043	schi	1	sch i
+116/045	schin	1	sch i n
+116/083	sein	1	s ei n
+117/043	schin	1	sch i n
+117/045	schin	1	sch i n
+118/041	schin	1	sch i n
+119/083	sei	1	s ei
+120/085	sain	1	s ai n
+121/127	shein	1	s h ei n
+122/127	shain	1	s h ai n
+122/129	shein	1	s h ei n
+123/081	sai	1	s ai
+123/123	shein	1	s h ei n
+123/125	shein	1	s h ei n
+123/127	shein	1	s h ei n
+123/129	shein	1	s h ei n
+124/125	shein	1	s h ei n
+124/127	shein	1	s h ei n
+124/129	shein	1	s h ei n

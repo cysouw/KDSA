@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	ons	1	o n s
+002/201	ons	1	o n s
+002/203	ons	1	o n s
+002/205	ons	1	o n s
+003/203	ons	1	o n s
+003/205	onns	1	o nn s
+004/205	ons	1	o n s
+005/205	onns	1	o nn s
+005/207	ons	1	o n s
+006/205	ons	1	o n s
+006/207	ons	1	o n s
+007/205	ons	1	o n s
+007/207	ons	1	o n s
+007/209	ons	1	o n s
+007/211	ons	1	o n s
+008/199	ons	1	o n s
+008/203	ons	1	o n s
+008/205	ons	1	o n s
+008/207	ons	1	o n s
+008/209	ons	1	o n s
+008/211	onns	1	o nn s
+008/213	ons	1	o n s
+009/199	ons	1	o n s
+009/203	ons	1	o n s
+009/207	ons	1	o n s
+009/209	ons	1	o n s
+009/211	ons	1	o n s
+009/213	ons	1	o n s
+009/215	ons	1	o n s
+009/217	ons	1	o n s
+010/195	ons	1	o n s
+010/203	ons	1	o n s
+010/207	onns	1	o nn s
+010/209	ones	1	o n e s
+010/211	ons	1	o n s
+010/213	ons	1	o n s
+010/215	ons	1	o n s
+010/217	ons	1	o n s
+010/219	ons	1	o n s
+011/049	üs	1	ü s
+011/053	vos	1	v o s
+011/055	vos	1	v o s
+011/057	vos	1	v o s
+011/059	wos	1	w o s
+011/061	vos	1	v o s
+011/063	vos	1	v o s
+011/065	vos	1	v o s
+011/067	wos	1	w o s
+011/069	vos	1	v o s
+011/187	ons	1	o n s
+011/189	ons	1	o n s
+011/191	onns	1	o nn s
+011/195	ons	1	o n s
+011/197	ons	1	o n s
+011/203	ons	1	o n s
+011/205	ons	1	o n s
+011/207	NA	NA	-
+011/209	ons	1	o n s
+011/211	ons	1	o n s
+011/213	ons	1	o n s
+011/215	ons	1	o n s
+011/217	ons	1	o n s
+011/219	onns	1	o nn s
+012/047	üs	1	ü s
+012/049	üüs	1	üü s
+012/051	ös	1	ö s
+012/053	was	1	w a s
+012/055	vos	1	v o s
+012/057	vos	1	v o s
+012/059	vos	1	v o s
+012/061	vos	1	v o s
+012/063	vos	1	v o s
+012/065	vos	1	v o s
+012/067	vos	1	v o s
+012/069	wos	1	w o s
+012/187	ons	1	o n s
+012/189	ons	1	o n s
+012/191	ons	1	o n s
+012/193	ons	1	o n s
+012/195	ons	1	o n s
+012/197	onns	1	o nn s
+012/199	ons	1	o n s
+012/201	ons	1	o n s
+012/203	ons	1	o n s
+012/205	ons	1	o n s
+012/207	ons	1	o n s
+012/209	onns	1	o nn s
+012/211	ons	1	o n s
+012/213	ons	1	o n s
+012/215	onns	1	o nn s
+012/217	onns	1	o nn s
+012/219	ons	1	o n s
+012/221	onns	1	o nn s
+012/223	onz	1	o n z
+013/051	ös	1	ö s
+013/053	üs	1	ü s
+013/055	üs	1	ü s
+013/057	vos	1	v o s
+013/059	wos	1	w o s
+013/061	uns	1	u n s
+013/063	uns	1	u n s
+013/065	uns	1	u n s
+013/067	uns	1	u n s
+013/161	uns	1	u n s
+013/163	uns	1	u n s
+013/165	uns	1	u n s
+013/167	uns	1	u n s
+013/187	ons	1	o n s
+013/189	ons	1	o n s
+013/191	onns	1	o nn s
+013/193	ons	1	o n s
+013/195	onns	1	o nn s
+013/197	onns	1	o nn s
+013/199	ons	1	o n s
+013/201	ons	1	o n s
+013/203	onns	1	o nn s
+013/207	ons	1	o n s
+013/209	ons	1	o n s
+013/211	ons	1	o n s
+013/213	ons	1	o n s
+013/215	ons	1	o n s
+013/217	onns	1	o nn s
+013/219	ons	1	o n s
+013/221	ons	1	o n s
+013/223	ons	1	o n s
+014/047	us	1	u s
+014/049	üs	1	ü s
+014/051	üs	1	ü s
+014/053	üs	1	ü s
+014/055	ös	1	ö s
+014/057	üs	1	ü s
+014/059	uns	1	u n s
+014/061	uns	1	u n s
+014/063	uns	1	u n s
+014/065	uns	1	u n s
+014/067	uns	1	u n s
+014/109	uns	1	u n s
+014/159	uns	1	u n s
+014/161	uns	1	u n s
+014/163	uns	1	u n s
+014/165	uns	1	u n s
+014/167	uns	1	u n s
+014/169	ons	1	o n s
+014/187	ons	1	o n s
+014/189	NA	NA	-
+014/191	ons	1	o n s
+014/193	ons	1	o n s
+014/195	ons	1	o n s
+014/197	ons	1	o n s
+014/199	NA	NA	-
+014/201	ons	1	o n s
+014/203	ons	1	o n s
+014/205	ons	1	o n s
+014/207	ons	1	o n s
+014/209	ons	1	o n s
+014/211	ons	1	o n s
+014/213	uns	1	u n s
+014/215	ons	1	o n s
+014/217	ons	1	o n s
+014/219	uns	1	u n s
+014/221	ons	1	o n s
+015/049	üs	1	ü s
+015/051	us	1	u s
+015/053	üs	1	ü s
+015/055	üss	1	ü ss
+015/057	üs	1	ü s
+015/059	uns	1	u n s
+015/061	uns	1	u n s
+015/063	uns	1	u n s
+015/065	uns	1	u n s
+015/067	uns	1	u n s
+015/105	uns	1	u n s
+015/107	uns	1	u n s
+015/109	uns	1	u n s
+015/151	uas	1	ua s
+015/153	uns	1	u n s
+015/155	us	1	u s
+015/157	uns	1	u n s
+015/159	uns	1	u n s
+015/161	uns	1	u n s
+015/163	uns	1	u n s
+015/165	uns	1	u n s
+015/167	ons	1	o n s
+015/169	uns	1	u n s
+015/173	ons	1	o n s
+015/187	onns	1	o nn s
+015/191	ons	1	o n s
+015/193	ons	1	o n s
+015/195	onns	1	o nn s
+015/197	onns	1	o nn s
+015/199	ons	1	o n s
+015/201	ons	1	o n s
+015/203	onns	1	o nn s
+015/205	ons	1	o n s
+015/207	ons	1	o n s
+015/209	ons	1	o n s
+015/211	onns	1	o nn s
+015/213	ons	1	o n s
+015/215	onns	1	o nn s
+015/217	ons	1	o n s
+015/219	ons	1	o n s
+015/221	ons	1	o n s
+016/051	ös	1	ö s
+016/055	üs	1	ü s
+016/057	uns	1	u n s
+016/059	uns	1	u n s
+016/061	uns	1	u n s
+016/063	uns	1	u n s
+016/065	uns	1	u n s
+016/067	uns	1	u n s
+016/081	uns	1	u n s
+016/083	uns	1	u n s
+016/105	uns	1	u n s
+016/107	uns	1	u n s
+016/109	uns	1	u n s
+016/111	uns	1	u n s
+016/145	us	1	u s
+016/147	us	1	u s
+016/149	uus	1	uu s
+016/151	uuss	1	uu ss
+016/153	us	1	u s
+016/155	uns	1	u n s
+016/157	uns	1	u n s
+016/159	uns	1	u n s
+016/161	uns	1	u n s
+016/163	uns	1	u n s
+016/165	uns	1	u n s
+016/167	ons	1	o n s
+016/187	ons	1	o n s
+016/189	ons	1	o n s
+016/191	ons	1	o n s
+016/193	onns	1	o nn s
+016/195	ons	1	o n s
+016/197	onns	1	o nn s
+016/199	ons	1	o n s
+016/201	ons	1	o n s
+016/203	ons	1	o n s
+016/205	ons	1	o n s
+016/209	uns	1	u n s
+016/211	ons	1	o n s
+016/213	ons	1	o n s
+016/215	NA	NA	-
+016/217	ons	1	o n s
+016/219	ons	1	o n s
+017/055	uns	1	u n s
+017/057	uns	1	u n s
+017/059	uns	1	u n s
+017/061	uns	1	u n s
+017/063	uns	1	u n s
+017/065	uns	1	u n s
+017/067	uns	1	u n s
+017/069	uns	1	u n s
+017/081	uns	1	u n s
+017/083	uns	1	u n s
+017/099	uns	1	u n s
+017/101	uns	1	u n s
+017/103	uns	1	u n s
+017/107	uns	1	u n s
+017/109	uns	1	u n s
+017/145	uns	1	u n s
+017/147	us	1	u s
+017/149	us	1	u s
+017/151	us	1	u s
+017/153	us	1	u s
+017/155	uns	1	u n s
+017/157	uns	1	u n s
+017/159	uns	1	u n s
+017/161	uns	1	u n s
+017/163	uns	1	u n s
+017/165	us	1	u s
+017/169	ons	1	o n s
+017/171	ons	1	o n s
+017/183	ohs	1	oh s
+017/185	onns	1	o nn s
+017/187	ons	1	o n s
+017/189	ons	1	o n s
+017/191	ons	1	o n s
+017/193	ons	1	o n s
+017/195	ons	1	o n s
+017/197	onns	1	o nn s
+017/199	ons	1	o n s
+017/201	ons	1	o n s
+017/203	ons	1	o n s
+017/205	ons	1	o n s
+017/207	ons	1	o n s
+017/209	ons	1	o n s
+017/211	ons	1	o n s
+017/213	ons	1	o n s
+017/215	ons	1	o n s
+017/217	ons	1	o n s
+017/219	onns	1	o nn s
+018/051	uns	1	u n s
+018/053	uns	1	u n s
+018/055	uns	1	u n s
+018/057	uns	1	u n s
+018/059	uns	1	u n s
+018/061	uns	1	u n s
+018/063	uns	1	u n s
+018/065	uns	1	u n s
+018/067	uns	1	u n s
+018/069	uns	1	u n s
+018/071	uns	1	u n s
+018/073	uns	1	u n s
+018/075	uns	1	u n s
+018/079	uns	1	u n s
+018/081	uns	1	u n s
+018/097	uns	1	u n s
+018/099	uns	1	u n s
+018/103	uns	1	u n s
+018/105	uns	1	u n s
+018/107	uns	1	u n s
+018/109	uns	1	u n s
+018/111	uns	1	u n s
+018/143	us	1	u s
+018/145	us	1	u s
+018/147	us	1	u s
+018/149	us	1	u s
+018/151	us	1	u s
+018/153	us	1	u s
+018/155	us	1	u s
+018/157	os	1	o s
+018/159	uns	1	u n s
+018/161	ons	1	o n s
+018/163	ons	1	o n s
+018/165	uns	1	u n s
+018/169	ons	1	o n s
+018/171	ons	1	o n s
+018/173	ons	1	o n s
+018/181	onns	1	o nn s
+018/185	ons	1	o n s
+018/187	ons	1	o n s
+018/189	onns	1	o nn s
+018/191	ons	1	o n s
+018/193	ons	1	o n s
+018/195	ons	1	o n s
+018/197	ons	1	o n s
+018/199	ons	1	o n s
+018/201	os	1	o s
+018/203	ons	1	o n s
+018/205	ons	1	o n s
+018/207	ons	1	o n s
+018/209	onns	1	o nn s
+018/211	ons	1	o n s
+018/213	ons	1	o n s
+018/215	ons	1	o n s
+018/219	onns	1	o nn s
+019/051	uns	1	u n s
+019/053	uns	1	u n s
+019/055	uns	1	u n s
+019/057	uns	1	u n s
+019/059	uns	1	u n s
+019/061	uns	1	u n s
+019/063	uns	1	u n s
+019/065	uns	1	u n s
+019/067	uns	1	u n s
+019/069	uns	1	u n s
+019/071	uns	1	u n s
+019/073	uns	1	u n s
+019/075	uns	1	u n s
+019/077	uns	1	u n s
+019/079	uns	1	u n s
+019/081	uns	1	u n s
+019/097	uns	1	u n s
+019/099	uns	1	u n s
+019/101	uns	1	u n s
+019/103	uns	1	u n s
+019/105	uns	1	u n s
+019/107	uns	1	u n s
+019/109	uns	1	u n s
+019/143	us	1	u s
+019/145	us	1	u s
+019/147	us	1	u s
+019/149	us	1	u s
+019/151	us	1	u s
+019/153	us	1	u s
+019/155	us	1	u s
+019/157	us	1	u s
+019/159	uns	1	u n s
+019/161	uns	1	u n s
+019/163	uns	1	u n s
+019/165	uns	1	u n s
+019/167	ons	1	o n s
+019/169	ons	1	o n s
+019/171	oans	1	oa n s
+019/173	onns	1	o nn s
+019/175	ons	1	o n s
+019/177	onns	1	o nn s
+019/179	onns	1	o nn s
+019/181	onns	1	o nn s
+019/183	ons	1	o n s
+019/185	ons	1	o n s
+019/187	ons	1	o n s
+019/189	ons	1	o n s
+019/191	ons	1	o n s
+019/193	ons	1	o n s
+019/195	ons	1	o n s
+019/197	ons	1	o n s
+019/199	ons	1	o n s
+019/201	ons	1	o n s
+019/203	ons	1	o n s
+019/205	NA	NA	-
+019/207	ons	1	o n s
+019/209	ons	1	o n s
+019/211	ons	1	o n s
+019/213	ons	1	o n s
+019/215	ons	1	o n s
+019/217	ons	1	o n s
+019/219	ons	1	o n s
+020/043	es	1	e s
+020/053	uns	1	u n s
+020/055	uns	1	u n s
+020/057	uns	1	u n s
+020/059	uns	1	u n s
+020/061	uns	1	u n s
+020/063	uns	1	u n s
+020/065	uns	1	u n s
+020/067	uns	1	u n s
+020/069	uns	1	u n s
+020/071	uns	1	u n s
+020/073	uns	1	u n s
+020/075	uns	1	u n s
+020/077	uns	1	u n s
+020/079	uns	1	u n s
+020/081	uns	1	u n s
+020/095	uns	1	u n s
+020/097	NA	NA	-
+020/099	uns	1	u n s
+020/101	uns	1	u n s
+020/103	uns	1	u n s
+020/105	uns	1	u n s
+020/107	uns	1	u n s
+020/135	uns	1	u n s
+020/137	uss	1	u ss
+020/139	us	1	u s
+020/141	us	1	u s
+020/143	us	1	u s
+020/145	us	1	u s
+020/147	us	1	u s
+020/149	uhs	1	uh s
+020/151	NA	NA	-
+020/153	us	1	u s
+020/155	uss	1	u ss
+020/157	uns	1	u n s
+020/159	uns	1	u n s
+020/161	uns	1	u n s
+020/163	us	1	u s
+020/165	us	1	u s
+020/167	us	1	u s
+020/169	os	1	o s
+020/171	ons	1	o n s
+020/173	ons	1	o n s
+020/175	ons	1	o n s
+020/177	ons	1	o n s
+020/179	ons	1	o n s
+020/181	ons	1	o n s
+020/183	onns	1	o nn s
+020/185	ons	1	o n s
+020/187	ons	1	o n s
+020/189	ons	1	o n s
+020/191	ons	1	o n s
+020/193	ons	1	o n s
+020/195	ons	1	o n s
+020/197	ons	1	o n s
+020/199	ons	1	o n s
+020/201	ons	1	o n s
+020/203	ons	1	o n s
+020/205	ons	1	o n s
+020/207	ons	1	o n s
+020/209	ons	1	o n s
+020/211	ons	1	o n s
+020/213	onns	1	o nn s
+020/215	ons	1	o n s
+020/217	ons	1	o n s
+020/219	ons	1	o n s
+021/055	NA	NA	-
+021/057	uns	1	u n s
+021/059	NA	NA	-
+021/061	uns	1	u n s
+021/063	uns	1	u n s
+021/065	uns	1	u n s
+021/067	uns	1	u n s
+021/069	uns	1	u n s
+021/071	uns	1	u n s
+021/073	uns	1	u n s
+021/075	uns	1	u n s
+021/077	uns	1	u n s
+021/079	uns	1	u n s
+021/087	uns	1	u n s
+021/089	NA	NA	-
+021/091	uns	1	u n s
+021/093	uns	1	u n s
+021/095	uns	1	u n s
+021/097	uns	1	u n s
+021/099	uns	1	u n s
+021/101	uns	1	u n s
+021/103	uns	1	u n s
+021/105	uns	1	u n s
+021/107	uns	1	u n s
+021/109	uns	1	u n s
+021/111	uns	1	u n s
+021/113	uns	1	u n s
+021/131	us	1	u s
+021/133	uhs	1	uh s
+021/135	us	1	u s
+021/137	us	1	u s
+021/139	os	1	o s
+021/141	us	1	u s
+021/143	NA	NA	-
+021/145	uss	1	u ss
+021/147	us	1	u s
+021/149	us	1	u s
+021/151	us	1	u s
+021/153	us	1	u s
+021/155	NA	NA	-
+021/157	uns	1	u n s
+021/159	uns	1	u n s
+021/163	us	1	u s
+021/165	os	1	o s
+021/167	us	1	u s
+021/169	ons	1	o n s
+021/171	ons	1	o n s
+021/173	ons	1	o n s
+021/175	ons	1	o n s
+021/177	onns	1	o nn s
+021/179	ons	1	o n s
+021/181	ons	1	o n s
+021/183	ons	1	o n s
+021/185	onns	1	o nn s
+021/187	onns	1	o nn s
+021/189	ons	1	o n s
+021/191	ons	1	o n s
+021/193	ons	1	o n s
+021/195	ons	1	o n s
+021/197	ons	1	o n s
+021/199	ons	1	o n s
+021/201	ons	1	o n s
+021/203	ons	1	o n s
+021/205	onns	1	o nn s
+021/207	ons	1	o n s
+021/211	ons	1	o n s
+021/215	ons	1	o n s
+021/217	ons	1	o n s
+021/219	ons	1	o n s
+022/055	uns	1	u n s
+022/057	uns	1	u n s
+022/059	uns	1	u n s
+022/061	uns	1	u n s
+022/063	uns	1	u n s
+022/065	uns	1	u n s
+022/067	uns	1	u n s
+022/069	uns	1	u n s
+022/071	uns	1	u n s
+022/073	uns	1	u n s
+022/075	uns	1	u n s
+022/077	uns	1	u n s
+022/087	uns	1	u n s
+022/089	uns	1	u n s
+022/091	uns	1	u n s
+022/093	uns	1	u n s
+022/095	uns	1	u n s
+022/097	uns	1	u n s
+022/099	uns	1	u n s
+022/101	uns	1	u n s
+022/103	uns	1	u n s
+022/105	NA	NA	-
+022/107	NA	NA	-
+022/109	uns	1	u n s
+022/111	uns	1	u n s
+022/113	uns	1	u n s
+022/115	uns	1	u n s
+022/127	us	1	u s
+022/129	ons	1	o n s
+022/131	os	1	o s
+022/133	us	1	u s
+022/135	os	1	o s
+022/137	us	1	u s
+022/139	us	1	u s
+022/141	us	1	u s
+022/143	us	1	u s
+022/145	uas	1	ua s
+022/147	us	1	u s
+022/149	uss	1	u ss
+022/151	us	1	u s
+022/153	uus	1	uu s
+022/155	uns	1	u n s
+022/157	uns	1	u n s
+022/159	us	1	u s
+022/165	uns	1	u n s
+022/167	us	1	u s
+022/169	ons	1	o n s
+022/171	uns	1	u n s
+022/173	ons	1	o n s
+022/175	ons	1	o n s
+022/177	onns	1	o nn s
+022/179	ons	1	o n s
+022/181	ons	1	o n s
+022/183	onns	1	o nn s
+022/185	ons	1	o n s
+022/187	NA	NA	-
+022/189	ons	1	o n s
+022/191	ons	1	o n s
+022/193	ons	1	o n s
+022/195	NA	NA	-
+022/197	onns	1	o nn s
+022/199	ons	1	o n s
+022/201	ons	1	o n s
+022/203	onns	1	o nn s
+022/205	ons	1	o n s
+022/209	NA	NA	-
+022/211	NA	NA	-
+022/215	ons	1	o n s
+022/217	onns	1	o nn s
+022/219	ons	1	o n s
+023/055	uns	1	u n s
+023/059	uns	1	u n s
+023/061	uns	1	u n s
+023/063	uns	1	u n s
+023/065	uns	1	u n s
+023/067	uns	1	u n s
+023/069	uns	1	u n s
+023/071	uns	1	u n s
+023/073	uns	1	u n s
+023/075	uns	1	u n s
+023/077	uns	1	u n s
+023/079	uns	1	u n s
+023/081	uns	1	u n s
+023/083	uns	1	u n s
+023/085	uns	1	u n s
+023/087	uns	1	u n s
+023/089	uns	1	u n s
+023/091	uns	1	u n s
+023/093	uns	1	u n s
+023/095	uns	1	u n s
+023/097	uns	1	u n s
+023/099	uns	1	u n s
+023/101	uns	1	u n s
+023/103	uns	1	u n s
+023/105	uns	1	u n s
+023/107	uns	1	u n s
+023/109	uns	1	u n s
+023/111	uns	1	u n s
+023/113	uns	1	u n s
+023/115	uns	1	u n s
+023/117	uns	1	u n s
+023/121	uns	1	u n s
+023/123	os	1	o s
+023/125	os	1	o s
+023/127	oos	1	oo s
+023/129	os	1	o s
+023/131	ohs	1	oh s
+023/133	os	1	o s
+023/135	oos	1	oo s
+023/137	os	1	o s
+023/139	us	1	u s
+023/141	us	1	u s
+023/143	us	1	u s
+023/145	us	1	u s
+023/147	us	1	u s
+023/149	NA	NA	-
+023/151	us	1	u s
+023/153	uus	1	uu s
+023/155	us	1	u s
+023/165	os	1	o s
+023/167	os	1	o s
+023/169	uns	1	u n s
+023/175	ons	1	o n s
+023/177	ons	1	o n s
+023/179	ons	1	o n s
+023/181	ons	1	o n s
+023/183	onns	1	o nn s
+023/185	ons	1	o n s
+023/187	ons	1	o n s
+023/189	ons	1	o n s
+023/191	onns	1	o nn s
+023/193	ons	1	o n s
+023/195	ons	1	o n s
+023/197	ons	1	o n s
+023/199	uns	1	u n s
+023/201	ons	1	o n s
+023/203	ons	1	o n s
+023/205	ons	1	o n s
+023/207	ons	1	o n s
+023/215	ons	1	o n s
+023/217	ons	1	o n s
+024/053	uns	1	u n s
+024/057	uns	1	u n s
+024/059	uns	1	u n s
+024/061	uns	1	u n s
+024/063	uns	1	u n s
+024/065	uns	1	u n s
+024/067	uns	1	u n s
+024/069	uns	1	u n s
+024/071	uns	1	u n s
+024/073	uns	1	u n s
+024/075	uns	1	u n s
+024/077	uns	1	u n s
+024/079	uns	1	u n s
+024/081	uns	1	u n s
+024/083	uns	1	u n s
+024/085	uns	1	u n s
+024/087	uns	1	u n s
+024/089	uns	1	u n s
+024/091	uns	1	u n s
+024/093	uns	1	u n s
+024/095	uns	1	u n s
+024/097	uns	1	u n s
+024/099	uns	1	u n s
+024/101	uns	1	u n s
+024/103	NA	NA	-
+024/105	uns	1	u n s
+024/107	uns	1	u n s
+024/109	uns	1	u n s
+024/111	NA	NA	-
+024/113	uns	1	u n s
+024/115	uns	1	u n s
+024/117	uns	1	u n s
+024/119	uns	1	u n s
+024/121	uns	1	u n s
+024/123	oos	1	oo s
+024/125	oas	1	oa s
+024/127	ohs	1	oh s
+024/129	os	1	o s
+024/131	os	1	o s
+024/133	oos	1	oo s
+024/135	ous	1	ou s
+024/137	us	1	u s
+024/139	uss	1	u ss
+024/141	uos	1	uo s
+024/143	ues	1	ue s
+024/145	us	1	u s
+024/147	us	1	u s
+024/149	us	1	u s
+024/151	ous	1	ou s
+024/153	us	1	u s
+024/155	us	1	u s
+024/163	us	1	u s
+024/165	us	1	u s
+024/167	us	1	u s
+024/169	us	1	u s
+024/171	uns	1	u n s
+024/175	ons	1	o n s
+024/179	ons	1	o n s
+024/181	ons	1	o n s
+024/183	ons	1	o n s
+024/185	onns	1	o nn s
+024/187	onns	1	o nn s
+024/189	ons	1	o n s
+024/191	ons	1	o n s
+024/193	ons	1	o n s
+024/195	ons	1	o n s
+024/197	ons	1	o n s
+024/199	ons	1	o n s
+024/201	ons	1	o n s
+024/203	ons	1	o n s
+024/217	ons	1	o n s
+024/221	ons	1	o n s
+025/043	us	1	u s
+025/051	NA	NA	-
+025/053	uns	1	u n s
+025/055	uns	1	u n s
+025/057	uns	1	u n s
+025/059	uns	1	u n s
+025/061	uns	1	u n s
+025/063	uns	1	u n s
+025/065	uns	1	u n s
+025/067	uns	1	u n s
+025/069	uns	1	u n s
+025/071	uns	1	u n s
+025/073	uns	1	u n s
+025/075	uns	1	u n s
+025/077	uns	1	u n s
+025/079	uns	1	u n s
+025/081	uns	1	u n s
+025/083	uns	1	u n s
+025/085	NA	NA	-
+025/087	uns	1	u n s
+025/089	uns	1	u n s
+025/091	uns	1	u n s
+025/093	uns	1	u n s
+025/095	uns	1	u n s
+025/099	uns	1	u n s
+025/101	uns	1	u n s
+025/103	uns	1	u n s
+025/105	uns	1	u n s
+025/107	uns	1	u n s
+025/109	uns	1	u n s
+025/111	uns	1	u n s
+025/113	uns	1	u n s
+025/115	uns	1	u n s
+025/123	uns	1	u n s
+025/125	os	1	o s
+025/127	os	1	o s
+025/129	os	1	o s
+025/131	os	1	o s
+025/133	os	1	o s
+025/135	us	1	u s
+025/137	os	1	o s
+025/139	os	1	o s
+025/141	os	1	o s
+025/143	us	1	u s
+025/145	us	1	u s
+025/147	us	1	u s
+025/149	os	1	o s
+025/151	uns	1	u n s
+025/153	NA	NA	-
+025/155	us	1	u s
+025/157	us	1	u s
+025/159	ons	1	o n s
+025/177	ons	1	o n s
+025/179	ons	1	o n s
+025/181	onns	1	o nn s
+025/183	ons	1	o n s
+025/185	ons	1	o n s
+025/187	ons	1	o n s
+025/189	ons	1	o n s
+025/191	NA	NA	-
+026/031	uns	1	u n s
+026/033	uns	1	u n s
+026/037	uns	1	u n s
+026/041	uns	1	u n s
+026/043	uns	1	u n s
+026/045	uns	1	u n s
+026/051	uns	1	u n s
+026/053	uns	1	u n s
+026/055	uns	1	u n s
+026/057	uns	1	u n s
+026/059	uns	1	u n s
+026/061	uns	1	u n s
+026/063	uns	1	u n s
+026/065	uns	1	u n s
+026/067	uns	1	u n s
+026/069	uns	1	u n s
+026/071	uns	1	u n s
+026/073	uns	1	u n s
+026/075	uns	1	u n s
+026/077	uns	1	u n s
+026/079	uns	1	u n s
+026/081	uns	1	u n s
+026/083	uns	1	u n s
+026/085	uns	1	u n s
+026/087	uns	1	u n s
+026/089	uns	1	u n s
+026/091	uns	1	u n s
+026/093	uns	1	u n s
+026/095	uns	1	u n s
+026/097	uns	1	u n s
+026/099	uns	1	u n s
+026/101	uns	1	u n s
+026/103	uns	1	u n s
+026/105	uns	1	u n s
+026/107	uns	1	u n s
+026/109	uns	1	u n s
+026/111	uns	1	u n s
+026/113	uns	1	u n s
+026/115	unns	1	u nn s
+026/117	uns	1	u n s
+026/119	uns	1	u n s
+026/123	os	1	o s
+026/125	os	1	o s
+026/127	us	1	u s
+026/129	oos	1	oo s
+026/131	ons	1	o n s
+026/133	os	1	o s
+026/135	uss	1	u ss
+026/137	us	1	u s
+026/139	us	1	u s
+026/141	us	1	u s
+026/143	uos	1	uo s
+026/145	NA	NA	-
+026/147	us	1	u s
+026/153	us	1	u s
+026/155	us	1	u s
+026/157	us	1	u s
+026/159	us	1	u s
+026/161	uss	1	u ss
+026/165	uns	1	u n s
+026/173	ons	1	o n s
+026/175	us	1	u s
+026/177	onns	1	o nn s
+026/179	ons	1	o n s
+026/181	NA	NA	-
+026/183	ons	1	o n s
+026/185	ons	1	o n s
+026/187	ons	1	o n s
+026/189	uns	1	u n s
+027/027	uns	1	u n s
+027/035	uns	1	u n s
+027/037	NA	NA	-
+027/039	uns	1	u n s
+027/041	uns	1	u n s
+027/043	us	1	u s
+027/045	us	1	u s
+027/047	us	1	u s
+027/051	uns	1	u n s
+027/053	uns	1	u n s
+027/055	uns	1	u n s
+027/057	uns	1	u n s
+027/059	us	1	u s
+027/061	uns	1	u n s
+027/063	uns	1	u n s
+027/065	uns	1	u n s
+027/067	uns	1	u n s
+027/069	NA	NA	-
+027/071	uns	1	u n s
+027/073	uns	1	u n s
+027/075	uns	1	u n s
+027/077	uns	1	u n s
+027/079	uns	1	u n s
+027/081	uns	1	u n s
+027/083	uns	1	u n s
+027/085	uns	1	u n s
+027/087	uns	1	u n s
+027/089	uns	1	u n s
+027/091	uns	1	u n s
+027/093	uns	1	u n s
+027/095	uns	1	u n s
+027/099	uns	1	u n s
+027/101	uns	1	u n s
+027/103	uns	1	u n s
+027/105	uns	1	u n s
+027/107	uns	1	u n s
+027/109	uns	1	u n s
+027/111	uns	1	u n s
+027/113	uns	1	u n s
+027/115	uns	1	u n s
+027/117	uns	1	u n s
+027/119	uns	1	u n s
+027/123	uns	1	u n s
+027/125	oohs	1	ooh s
+027/127	oos	1	oo s
+027/129	os	1	o s
+027/131	os	1	o s
+027/135	os	1	o s
+027/137	us	1	u s
+027/139	uss	1	u ss
+027/141	us	1	u s
+027/143	us	1	u s
+027/145	uos	1	uo s
+027/147	us	1	u s
+027/149	uss	1	u ss
+027/151	us	1	u s
+027/153	us	1	u s
+027/155	us	1	u s
+027/157	uss	1	u ss
+027/159	us	1	u s
+027/161	us	1	u s
+027/167	uss	1	u ss
+027/171	ons	1	o n s
+027/173	ons	1	o n s
+027/175	ons	1	o n s
+027/177	ons	1	o n s
+027/179	us	1	u s
+027/181	os	1	o s
+027/183	ons	1	o n s
+027/185	ons	1	o n s
+028/033	NA	NA	-
+028/035	uns	1	u n s
+028/037	uns	1	u n s
+028/039	uns	1	u n s
+028/041	uns	1	u n s
+028/043	uns	1	u n s
+028/045	uns	1	u n s
+028/047	uss	1	u ss
+028/049	us	1	u s
+028/051	us	1	u s
+028/053	uns	1	u n s
+028/055	uss	1	u ss
+028/057	uns	1	u n s
+028/059	uns	1	u n s
+028/061	uns	1	u n s
+028/063	uns	1	u n s
+028/065	uns	1	u n s
+028/067	uns	1	u n s
+028/069	uns	1	u n s
+028/071	uns	1	u n s
+028/073	uns	1	u n s
+028/075	uns	1	u n s
+028/077	uns	1	u n s
+028/079	uns	1	u n s
+028/081	uns	1	u n s
+028/083	uns	1	u n s
+028/085	uns	1	u n s
+028/087	uns	1	u n s
+028/089	uns	1	u n s
+028/091	uns	1	u n s
+028/093	uns	1	u n s
+028/095	uns	1	u n s
+028/097	uns	1	u n s
+028/099	uns	1	u n s
+028/103	uns	1	u n s
+028/105	uns	1	u n s
+028/107	uns	1	u n s
+028/109	uns	1	u n s
+028/111	uns	1	u n s
+028/113	uns	1	u n s
+028/115	uns	1	u n s
+028/117	uns	1	u n s
+028/119	uns	1	u n s
+028/121	uns	1	u n s
+028/123	uns	1	u n s
+028/125	us	1	u s
+028/127	us	1	u s
+028/129	oos	1	oo s
+028/131	os	1	o s
+028/133	oos	1	oo s
+028/135	us	1	u s
+028/137	ohs	1	oh s
+028/139	ues	1	ue s
+028/141	os	1	o s
+028/143	os	1	o s
+028/145	us	1	u s
+028/147	us	1	u s
+028/151	us	1	u s
+028/153	us	1	u s
+028/155	us	1	u s
+028/157	us	1	u s
+028/159	uss	1	u ss
+028/161	us	1	u s
+028/165	us	1	u s
+028/169	us	1	u s
+028/171	ons	1	o n s
+028/173	onns	1	o nn s
+028/175	ons	1	o n s
+028/177	ons	1	o n s
+028/179	os	1	o s
+028/181	ons	1	o n s
+028/183	ons	1	o n s
+028/185	ons	1	o n s
+029/033	uns	1	u n s
+029/035	uns	1	u n s
+029/037	uns	1	u n s
+029/039	uns	1	u n s
+029/043	uns	1	u n s
+029/045	us	1	u s
+029/047	us	1	u s
+029/049	uss	1	u ss
+029/051	üs	1	ü s
+029/053	üss	1	ü ss
+029/055	uss	1	u ss
+029/057	uns	1	u n s
+029/059	uns	1	u n s
+029/061	uns	1	u n s
+029/065	uns	1	u n s
+029/067	uns	1	u n s
+029/069	uns	1	u n s
+029/071	uns	1	u n s
+029/073	uns	1	u n s
+029/075	uns	1	u n s
+029/077	uns	1	u n s
+029/079	uns	1	u n s
+029/081	uns	1	u n s
+029/083	uns	1	u n s
+029/085	uns	1	u n s
+029/087	uns	1	u n s
+029/089	uns	1	u n s
+029/091	uns	1	u n s
+029/093	uns	1	u n s
+029/095	uns	1	u n s
+029/097	uns	1	u n s
+029/099	uns	1	u n s
+029/101	uns	1	u n s
+029/103	uns	1	u n s
+029/105	uns	1	u n s
+029/107	uns	1	u n s
+029/109	uns	1	u n s
+029/111	uns	1	u n s
+029/113	uns	1	u n s
+029/115	uns	1	u n s
+029/117	uns	1	u n s
+029/119	uns	1	u n s
+029/121	uns	1	u n s
+029/123	uns	1	u n s
+029/125	oss	1	o ss
+029/127	us	1	u s
+029/129	uss	1	u ss
+029/131	oos	1	oo s
+029/133	os	1	o s
+029/135	NA	NA	-
+029/137	os	1	o s
+029/139	oss	1	o ss
+029/141	oos	1	oo s
+029/143	oos	1	oo s
+029/145	oos	1	oo s
+029/147	us	1	u s
+029/149	us	1	u s
+029/151	us	1	u s
+029/153	us	1	u s
+029/155	us	1	u s
+029/157	us	1	u s
+029/159	us	1	u s
+029/161	us	1	u s
+029/163	uss	1	u ss
+029/165	us	1	u s
+029/167	us	1	u s
+029/169	us	1	u s
+029/171	ons	1	o n s
+029/173	ons	1	o n s
+029/175	us	1	u s
+029/177	oss	1	o ss
+029/181	uns	1	u n s
+030/033	uns	1	u n s
+030/035	uns	1	u n s
+030/037	uns	1	u n s
+030/039	NA	NA	-
+030/041	uns	1	u n s
+030/043	us	1	u s
+030/045	us	1	u s
+030/047	us	1	u s
+030/049	us	1	u s
+030/051	uss	1	u ss
+030/053	ös	1	ö s
+030/055	NA	NA	-
+030/057	us	1	u s
+030/059	uns	1	u n s
+030/061	uns	1	u n s
+030/065	uns	1	u n s
+030/067	uns	1	u n s
+030/071	uns	1	u n s
+030/073	uns	1	u n s
+030/075	uns	1	u n s
+030/077	uns	1	u n s
+030/079	uns	1	u n s
+030/081	uns	1	u n s
+030/083	NA	NA	-
+030/085	uns	1	u n s
+030/087	uns	1	u n s
+030/089	uns	1	u n s
+030/091	uns	1	u n s
+030/093	uns	1	u n s
+030/095	uns	1	u n s
+030/097	uns	1	u n s
+030/099	uns	1	u n s
+030/101	uns	1	u n s
+030/103	uns	1	u n s
+030/105	uns	1	u n s
+030/107	uns	1	u n s
+030/109	uns	1	u n s
+030/111	uns	1	u n s
+030/113	uns	1	u n s
+030/115	uns	1	u n s
+030/117	uns	1	u n s
+030/119	uns	1	u n s
+030/121	uns	1	u n s
+030/123	os	1	o s
+030/125	os	1	o s
+030/127	oos	1	oo s
+030/129	os	1	o s
+030/131	us	1	u s
+030/133	oas	1	oa s
+030/135	os	1	o s
+030/137	us	1	u s
+030/139	us	1	u s
+030/141	os	1	o s
+030/143	oss	1	o ss
+030/145	oos	1	oo s
+030/147	os	1	o s
+030/149	us	1	u s
+030/151	uss	1	u ss
+030/153	us	1	u s
+030/155	us	1	u s
+030/157	us	1	u s
+030/159	us	1	u s
+030/161	uns	1	u n s
+030/163	us	1	u s
+030/165	NA	NA	-
+030/167	uss	1	u ss
+030/169	ons	1	o n s
+030/171	ons	1	o n s
+030/173	ons	1	o n s
+030/175	oss	1	o ss
+030/177	NA	NA	-
+030/179	os	1	o s
+030/181	us	1	u s
+030/183	us	1	u s
+031/035	uns	1	u n s
+031/037	uns	1	u n s
+031/039	uns	1	u n s
+031/041	uns	1	u n s
+031/043	us	1	u s
+031/045	us	1	u s
+031/047	us	1	u s
+031/049	us	1	u s
+031/051	uns	1	u n s
+031/053	üs	1	ü s
+031/055	uss	1	u ss
+031/057	uns	1	u n s
+031/059	uns	1	u n s
+031/061	uns	1	u n s
+031/063	us	1	u s
+031/065	us	1	u s
+031/067	uns	1	u n s
+031/069	uns	1	u n s
+031/071	uns	1	u n s
+031/073	uns	1	u n s
+031/075	uns	1	u n s
+031/077	uns	1	u n s
+031/079	uns	1	u n s
+031/081	uns	1	u n s
+031/083	uns	1	u n s
+031/085	uns	1	u n s
+031/087	uns	1	u n s
+031/089	uns	1	u n s
+031/091	uns	1	u n s
+031/093	uns	1	u n s
+031/095	uns	1	u n s
+031/097	uns	1	u n s
+031/099	uns	1	u n s
+031/101	uns	1	u n s
+031/103	uns	1	u n s
+031/105	uns	1	u n s
+031/107	uns	1	u n s
+031/109	uns	1	u n s
+031/111	uns	1	u n s
+031/113	uns	1	u n s
+031/115	uns	1	u n s
+031/117	uns	1	u n s
+031/119	uns	1	u n s
+031/121	uns	1	u n s
+031/123	us	1	u s
+031/125	oss	1	o ss
+031/127	os	1	o s
+031/129	os	1	o s
+031/131	os	1	o s
+031/133	oss	1	o ss
+031/135	os	1	o s
+031/137	os	1	o s
+031/139	os	1	o s
+031/141	us	1	u s
+031/143	oss	1	o ss
+031/145	os	1	o s
+031/147	us	1	u s
+031/149	os	1	o s
+031/151	us	1	u s
+031/153	uss	1	u ss
+031/155	us	1	u s
+031/157	us	1	u s
+031/159	NA	NA	-
+031/161	us	1	u s
+031/163	us	1	u s
+031/167	os	1	o s
+031/169	uns	1	u n s
+031/171	uns	1	u n s
+031/173	uns	1	u n s
+031/175	oss	1	o ss
+031/177	us	1	u s
+031/179	us	1	u s
+032/035	uns	1	u n s
+032/037	uns	1	u n s
+032/039	uns	1	u n s
+032/041	us	1	u s
+032/043	us	1	u s
+032/045	us	1	u s
+032/047	us	1	u s
+032/049	us	1	u s
+032/051	uss	1	u ss
+032/053	uss	1	u ss
+032/055	us	1	u s
+032/057	us	1	u s
+032/059	us	1	u s
+032/061	us	1	u s
+032/065	uns	1	u n s
+032/069	uhs	1	uh s
+032/071	uns	1	u n s
+032/073	uns	1	u n s
+032/075	uns	1	u n s
+032/077	uns	1	u n s
+032/079	uns	1	u n s
+032/081	uns	1	u n s
+032/083	uns	1	u n s
+032/085	uns	1	u n s
+032/087	uns	1	u n s
+032/089	uns	1	u n s
+032/091	uns	1	u n s
+032/093	uns	1	u n s
+032/095	uns	1	u n s
+032/097	uns	1	u n s
+032/099	uns	1	u n s
+032/101	uns	1	u n s
+032/103	uns	1	u n s
+032/105	uns	1	u n s
+032/107	uns	1	u n s
+032/111	uns	1	u n s
+032/113	uns	1	u n s
+032/115	uns	1	u n s
+032/117	uns	1	u n s
+032/119	uns	1	u n s
+032/121	uns	1	u n s
+032/123	us	1	u s
+032/125	uss	1	u ss
+032/127	oos	1	oo s
+032/129	os	1	o s
+032/131	NA	NA	-
+032/133	os	1	o s
+032/135	os	1	o s
+032/139	os	1	o s
+032/141	os	1	o s
+032/143	os	1	o s
+032/145	NA	NA	-
+032/147	os	1	o s
+032/149	os	1	o s
+032/151	us	1	u s
+032/153	us	1	u s
+032/157	us	1	u s
+032/159	us	1	u s
+032/161	NA	NA	-
+032/163	us	1	u s
+032/167	ons	1	o n s
+032/169	uns	1	u n s
+032/171	NA	NA	-
+032/173	uns	1	u n s
+032/175	os	1	o s
+032/177	os	1	o s
+032/179	us	1	u s
+032/181	oos	1	oo s
+032/183	ohs	1	oh s
+033/035	us	1	u s
+033/037	uns	1	u n s
+033/039	uns	1	u n s
+033/041	us	1	u s
+033/043	us	1	u s
+033/045	us	1	u s
+033/047	NA	NA	-
+033/049	us	1	u s
+033/051	us	1	u s
+033/053	uhs	1	uh s
+033/055	us	1	u s
+033/057	uss	1	u ss
+033/059	us	1	u s
+033/061	uns	1	u n s
+033/063	NA	NA	-
+033/065	us	1	u s
+033/067	us	1	u s
+033/069	uss	1	u ss
+033/071	uns	1	u n s
+033/073	uns	1	u n s
+033/075	uns	1	u n s
+033/077	uns	1	u n s
+033/079	uns	1	u n s
+033/081	uns	1	u n s
+033/083	uns	1	u n s
+033/085	uns	1	u n s
+033/087	uns	1	u n s
+033/089	uns	1	u n s
+033/091	uns	1	u n s
+033/093	uns	1	u n s
+033/095	uns	1	u n s
+033/097	uns	1	u n s
+033/099	uns	1	u n s
+033/101	uns	1	u n s
+033/103	uns	1	u n s
+033/105	uns	1	u n s
+033/107	NA	NA	-
+033/109	uns	1	u n s
+033/111	uns	1	u n s
+033/113	uns	1	u n s
+033/115	uns	1	u n s
+033/117	uns	1	u n s
+033/119	uns	1	u n s
+033/121	uns	1	u n s
+033/123	os	1	o s
+033/125	us	1	u s
+033/127	oos	1	oo s
+033/129	us	1	u s
+033/131	us	1	u s
+033/133	ous	1	ou s
+033/135	os	1	o s
+033/137	os	1	o s
+033/139	uns	1	u n s
+033/141	os	1	o s
+033/143	os	1	o s
+033/145	os	1	o s
+033/147	os	1	o s
+033/149	us	1	u s
+033/151	os	1	o s
+033/153	os	1	o s
+033/155	us	1	u s
+033/159	us	1	u s
+033/161	us	1	u s
+033/163	uss	1	u ss
+033/165	ohs	1	oh s
+033/167	os	1	o s
+033/169	ohs	1	oh s
+033/173	os	1	o s
+033/175	oss	1	o ss
+033/177	os	1	o s
+034/035	uss	1	u ss
+034/039	us	1	u s
+034/041	us	1	u s
+034/043	uss	1	u ss
+034/045	us	1	u s
+034/047	uss	1	u ss
+034/049	uss	1	u ss
+034/051	uss	1	u ss
+034/053	us	1	u s
+034/055	üs	1	ü s
+034/057	us	1	u s
+034/059	us	1	u s
+034/061	us	1	u s
+034/063	us	1	u s
+034/065	us	1	u s
+034/067	us	1	u s
+034/069	us	1	u s
+034/071	uns	1	u n s
+034/073	üns	1	ü n s
+034/075	uns	1	u n s
+034/077	NA	NA	-
+034/079	uns	1	u n s
+034/081	uns	1	u n s
+034/083	uns	1	u n s
+034/085	uns	1	u n s
+034/087	uns	1	u n s
+034/089	uns	1	u n s
+034/091	uns	1	u n s
+034/093	uns	1	u n s
+034/095	uns	1	u n s
+034/097	uns	1	u n s
+034/099	uns	1	u n s
+034/101	uns	1	u n s
+034/103	uns	1	u n s
+034/105	uns	1	u n s
+034/107	uns	1	u n s
+034/109	uns	1	u n s
+034/111	uns	1	u n s
+034/113	uns	1	u n s
+034/115	uns	1	u n s
+034/117	uns	1	u n s
+034/119	uns	1	u n s
+034/121	os	1	o s
+034/125	os	1	o s
+034/127	os	1	o s
+034/129	os	1	o s
+034/131	us	1	u s
+034/133	us	1	u s
+034/135	oos	1	oo s
+034/137	uns	1	u n s
+034/139	oss	1	o ss
+034/141	NA	NA	-
+034/143	os	1	o s
+034/145	os	1	o s
+034/147	us	1	u s
+034/149	os	1	o s
+034/151	os	1	o s
+034/155	os	1	o s
+034/157	oss	1	o ss
+034/161	us	1	u s
+034/163	us	1	u s
+034/165	uss	1	u ss
+034/167	os	1	o s
+034/169	oss	1	o ss
+034/173	os	1	o s
+035/035	us	1	u s
+035/037	us	1	u s
+035/039	us	1	u s
+035/041	uss	1	u ss
+035/043	us	1	u s
+035/045	us	1	u s
+035/047	us	1	u s
+035/049	us	1	u s
+035/051	NA	NA	-
+035/053	uns	1	u n s
+035/055	üss	1	ü ss
+035/057	us	1	u s
+035/059	uss	1	u ss
+035/061	us	1	u s
+035/063	us	1	u s
+035/065	us	1	u s
+035/067	us	1	u s
+035/069	us	1	u s
+035/071	us	1	u s
+035/073	üsch	1	ü sch
+035/075	uns	1	u n s
+035/077	üsk	1	ü s k
+035/079	uns	1	u n s
+035/081	uns	1	u n s
+035/083	uns	1	u n s
+035/085	uns	1	u n s
+035/087	uns	1	u n s
+035/089	uns	1	u n s
+035/091	uns	1	u n s
+035/093	uns	1	u n s
+035/095	uns	1	u n s
+035/097	uns	1	u n s
+035/099	uns	1	u n s
+035/101	uns	1	u n s
+035/103	uns	1	u n s
+035/105	uns	1	u n s
+035/107	uns	1	u n s
+035/109	uns	1	u n s
+035/111	uns	1	u n s
+035/113	uns	1	u n s
+035/115	uns	1	u n s
+035/117	uns	1	u n s
+035/121	os	1	o s
+035/123	os	1	o s
+035/125	oos	1	oo s
+035/127	uos	1	uo s
+035/129	os	1	o s
+035/133	os	1	o s
+035/135	os	1	o s
+035/137	oss	1	o ss
+035/139	oss	1	o ss
+035/141	oss	1	o ss
+035/143	oss	1	o ss
+035/145	os	1	o s
+035/147	os	1	o s
+035/149	os	1	o s
+035/151	os	1	o s
+035/153	os	1	o s
+035/155	oos	1	oo s
+035/157	os	1	o s
+035/165	oss	1	o ss
+035/167	uss	1	u ss
+035/169	os	1	o s
+035/171	os	1	o s
+035/173	os	1	o s
+036/033	us	1	u s
+036/035	uss	1	u ss
+036/039	us	1	u s
+036/041	us	1	u s
+036/043	us	1	u s
+036/045	us	1	u s
+036/047	us	1	u s
+036/049	us	1	u s
+036/051	üs	1	ü s
+036/053	üs	1	ü s
+036/055	üs	1	ü s
+036/057	us	1	u s
+036/059	us	1	u s
+036/061	us	1	u s
+036/063	us	1	u s
+036/065	uss	1	u ss
+036/067	us	1	u s
+036/069	us	1	u s
+036/071	us	1	u s
+036/073	üsk	1	ü s k
+036/075	uns	1	u n s
+036/077	üsk	1	ü s k
+036/079	üs	1	ü s
+036/081	uns	1	u n s
+036/083	uns	1	u n s
+036/085	uns	1	u n s
+036/087	uos	1	uo s
+036/089	uns	1	u n s
+036/091	uns	1	u n s
+036/095	uns	1	u n s
+036/097	uns	1	u n s
+036/099	uns	1	u n s
+036/101	uns	1	u n s
+036/103	uns	1	u n s
+036/105	uns	1	u n s
+036/107	uns	1	u n s
+036/109	uns	1	u n s
+036/111	uns	1	u n s
+036/113	uns	1	u n s
+036/115	uns	1	u n s
+036/117	uns	1	u n s
+036/119	uns	1	u n s
+036/121	uns	1	u n s
+036/123	uns	1	u n s
+036/125	uns	1	u n s
+036/127	uns	1	u n s
+036/129	os	1	o s
+036/133	NA	NA	-
+036/135	os	1	o s
+036/137	uns	1	u n s
+036/139	uns	1	u n s
+036/141	os	1	o s
+036/143	os	1	o s
+036/147	os	1	o s
+036/149	os	1	o s
+036/151	os	1	o s
+036/153	os	1	o s
+036/155	us	1	u s
+036/161	os	1	o s
+036/163	os	1	o s
+036/165	ohs	1	oh s
+036/167	os	1	o s
+036/169	us	1	u s
+036/171	os	1	o s
+037/033	NA	NA	-
+037/035	üs	1	ü s
+037/037	us	1	u s
+037/039	us	1	u s
+037/041	uus	1	uu s
+037/043	uss	1	u ss
+037/045	us	1	u s
+037/047	us	1	u s
+037/049	us	1	u s
+037/051	üss	1	ü ss
+037/053	üs	1	ü s
+037/055	us	1	u s
+037/057	us	1	u s
+037/059	us	1	u s
+037/061	us	1	u s
+037/063	us	1	u s
+037/065	us	1	u s
+037/067	us	1	u s
+037/069	us	1	u s
+037/071	us	1	u s
+037/073	üsch	1	ü sch
+037/075	üsch	1	ü sch
+037/077	üsk	1	ü s k
+037/079	uns	1	u n s
+037/081	uns	1	u n s
+037/083	uns	1	u n s
+037/085	uns	1	u n s
+037/087	uns	1	u n s
+037/089	uns	1	u n s
+037/091	uns	1	u n s
+037/093	uns	1	u n s
+037/095	uns	1	u n s
+037/097	uns	1	u n s
+037/099	uns	1	u n s
+037/101	uns	1	u n s
+037/105	uns	1	u n s
+037/107	uns	1	u n s
+037/109	uns	1	u n s
+037/111	uns	1	u n s
+037/113	uns	1	u n s
+037/115	uns	1	u n s
+037/117	uns	1	u n s
+037/119	uns	1	u n s
+037/121	uns	1	u n s
+037/123	uns	1	u n s
+037/125	uns	1	u n s
+037/127	uns	1	u n s
+037/129	uns	1	u n s
+037/131	us	1	u s
+037/133	uns	1	u n s
+037/135	os	1	o s
+037/137	uns	1	u n s
+037/139	uns	1	u n s
+037/141	uns	1	u n s
+037/145	oss	1	o ss
+037/147	os	1	o s
+037/149	os	1	o s
+037/151	os	1	o s
+037/153	oos	1	oo s
+037/155	os	1	o s
+037/157	os	1	o s
+037/159	NA	NA	-
+037/163	os	1	o s
+037/171	oos	1	oo s
+038/033	us	1	u s
+038/035	uss	1	u ss
+038/037	us	1	u s
+038/039	us	1	u s
+038/041	uss	1	u ss
+038/043	us	1	u s
+038/045	us	1	u s
+038/047	us	1	u s
+038/049	us	1	u s
+038/051	us	1	u s
+038/053	us	1	u s
+038/055	us	1	u s
+038/057	us	1	u s
+038/059	uss	1	u ss
+038/061	üsch	1	ü sch
+038/063	us	1	u s
+038/065	üsch	1	ü sch
+038/067	us	1	u s
+038/069	osch	1	o sch
+038/071	üsch	1	ü sch
+038/073	üsch	1	ü sch
+038/075	üsch	1	ü sch
+038/077	üsk	1	ü s k
+038/079	üsk	1	ü s k
+038/081	ous	1	ou s
+038/083	uns	1	u n s
+038/085	uns	1	u n s
+038/087	uns	1	u n s
+038/089	uns	1	u n s
+038/091	uns	1	u n s
+038/093	uns	1	u n s
+038/095	uns	1	u n s
+038/097	uns	1	u n s
+038/099	uns	1	u n s
+038/101	uns	1	u n s
+038/103	uns	1	u n s
+038/105	uns	1	u n s
+038/107	uns	1	u n s
+038/109	uns	1	u n s
+038/111	uns	1	u n s
+038/113	uns	1	u n s
+038/115	uns	1	u n s
+038/117	uns	1	u n s
+038/119	uns	1	u n s
+038/121	uns	1	u n s
+038/123	uns	1	u n s
+038/125	uns	1	u n s
+038/127	uns	1	u n s
+038/129	uns	1	u n s
+038/131	uns	1	u n s
+038/133	uns	1	u n s
+038/135	uns	1	u n s
+038/145	oos	1	oo s
+038/147	os	1	o s
+038/149	os	1	o s
+038/151	os	1	o s
+038/153	oos	1	oo s
+038/155	os	1	o s
+038/159	os	1	o s
+038/161	os	1	o s
+038/163	us	1	u s
+039/029	NA	NA	-
+039/031	ons	1	o n s
+039/033	us	1	u s
+039/035	uss	1	u ss
+039/037	us	1	u s
+039/039	us	1	u s
+039/041	uss	1	u ss
+039/043	uss	1	u ss
+039/045	us	1	u s
+039/047	uss	1	u ss
+039/049	us	1	u s
+039/051	us	1	u s
+039/053	us	1	u s
+039/055	us	1	u s
+039/057	us	1	u s
+039/059	üsk	1	ü s k
+039/061	üsch	1	ü sch
+039/063	üsch	1	ü sch
+039/065	üsch	1	ü sch
+039/067	us	1	u s
+039/069	uss	1	u ss
+039/071	üsch	1	ü sch
+039/073	üsch	1	ü sch
+039/075	üsch	1	ü sch
+039/077	üsch	1	ü sch
+039/079	üsch	1	ü sch
+039/081	uns	1	u n s
+039/083	uns	1	u n s
+039/085	uns	1	u n s
+039/087	uns	1	u n s
+039/089	uns	1	u n s
+039/091	uns	1	u n s
+039/093	uns	1	u n s
+039/095	uns	1	u n s
+039/097	uns	1	u n s
+039/099	uns	1	u n s
+039/101	uns	1	u n s
+039/103	uns	1	u n s
+039/105	uns	1	u n s
+039/107	uns	1	u n s
+039/109	uns	1	u n s
+039/111	uns	1	u n s
+039/113	uns	1	u n s
+039/115	uns	1	u n s
+039/117	uns	1	u n s
+039/119	us	1	u s
+039/121	uns	1	u n s
+039/123	uns	1	u n s
+039/125	uns	1	u n s
+039/127	uns	1	u n s
+039/129	uns	1	u n s
+039/131	uns	1	u n s
+039/133	uns	1	u n s
+039/135	uns	1	u n s
+039/137	uns	1	u n s
+039/139	uns	1	u n s
+039/149	os	1	o s
+039/151	os	1	o s
+039/153	uns	1	u n s
+039/155	us	1	u s
+040/029	uns	1	u n s
+040/031	ohs	1	oh s
+040/033	us	1	u s
+040/035	us	1	u s
+040/037	us	1	u s
+040/039	us	1	u s
+040/041	us	1	u s
+040/043	us	1	u s
+040/045	us	1	u s
+040/047	us	1	u s
+040/049	us	1	u s
+040/051	us	1	u s
+040/053	uss	1	u ss
+040/055	NA	NA	-
+040/057	us	1	u s
+040/059	üsch	1	ü sch
+040/061	üsch	1	ü sch
+040/063	üsch	1	ü sch
+040/065	üsch	1	ü sch
+040/067	üsch	1	ü sch
+040/069	uns	1	u n s
+040/071	üsch	1	ü sch
+040/073	isch	1	i sch
+040/075	üsch	1	ü sch
+040/077	üsch	1	ü sch
+040/079	üsch	1	ü sch
+040/081	uus	1	uu s
+040/083	us	1	u s
+040/085	uns	1	u n s
+040/087	uns	1	u n s
+040/089	uns	1	u n s
+040/091	uns	1	u n s
+040/093	unns	1	u nn s
+040/095	uns	1	u n s
+040/097	uns	1	u n s
+040/099	uns	1	u n s
+040/101	uns	1	u n s
+040/103	uns	1	u n s
+040/105	uns	1	u n s
+040/107	uns	1	u n s
+040/109	uns	1	u n s
+040/111	uns	1	u n s
+040/113	NA	NA	-
+040/115	uns	1	u n s
+040/119	uns	1	u n s
+040/121	uns	1	u n s
+040/123	uns	1	u n s
+040/125	uns	1	u n s
+040/127	uns	1	u n s
+040/129	NA	NA	-
+040/131	uns	1	u n s
+040/133	uns	1	u n s
+040/135	uns	1	u n s
+040/137	uns	1	u n s
+040/141	uns	1	u n s
+040/143	uns	1	u n s
+040/149	uns	1	u n s
+040/153	os	1	o s
+040/155	os	1	o s
+041/031	uns	1	u n s
+041/033	us	1	u s
+041/035	us	1	u s
+041/037	us	1	u s
+041/039	us	1	u s
+041/041	us	1	u s
+041/043	uss	1	u ss
+041/045	us	1	u s
+041/047	us	1	u s
+041/049	us	1	u s
+041/051	NA	NA	-
+041/053	us	1	u s
+041/055	us	1	u s
+041/057	üss	1	ü ss
+041/059	üsk	1	ü s k
+041/061	üsch	1	ü sch
+041/063	üsch	1	ü sch
+041/065	üsch	1	ü sch
+041/067	üsch	1	ü sch
+041/069	üsch	1	ü sch
+041/071	üsch	1	ü sch
+041/073	üsch	1	ü sch
+041/075	üsch	1	ü sch
+041/077	üsch	1	ü sch
+041/079	üsch	1	ü sch
+041/081	us	1	u s
+041/083	uns	1	u n s
+041/085	NA	NA	-
+041/087	us	1	u s
+041/089	uns	1	u n s
+041/091	uns	1	u n s
+041/093	uns	1	u n s
+041/095	uns	1	u n s
+041/097	uns	1	u n s
+041/099	uns	1	u n s
+041/101	uns	1	u n s
+041/103	uns	1	u n s
+041/105	uns	1	u n s
+041/107	uns	1	u n s
+041/109	uns	1	u n s
+041/111	uns	1	u n s
+041/113	uns	1	u n s
+041/115	NA	NA	-
+041/117	uns	1	u n s
+041/119	uns	1	u n s
+041/121	uns	1	u n s
+041/123	uns	1	u n s
+041/125	uns	1	u n s
+041/127	NA	NA	-
+041/129	uns	1	u n s
+041/131	uns	1	u n s
+041/133	uns	1	u n s
+041/135	ins	1	i n s
+041/139	ins	1	i n s
+041/141	uns	1	u n s
+041/145	uns	1	u n s
+041/147	ins	1	i n s
+041/153	us	1	u s
+041/155	os	1	o s
+041/157	uns	1	u n s
+041/159	us	1	u s
+041/161	os	1	o s
+042/033	us	1	u s
+042/035	us	1	u s
+042/037	us	1	u s
+042/039	us	1	u s
+042/041	us	1	u s
+042/043	us	1	u s
+042/045	us	1	u s
+042/047	us	1	u s
+042/051	us	1	u s
+042/053	us	1	u s
+042/055	us	1	u s
+042/057	üsch	1	ü sch
+042/059	NA	NA	-
+042/061	üsk	1	ü s k
+042/063	üsch	1	ü sch
+042/065	üsch	1	ü sch
+042/067	üsch	1	ü sch
+042/069	üsch	1	ü sch
+042/071	üsch	1	ü sch
+042/073	ösch	1	ö sch
+042/075	üsch	1	ü sch
+042/077	üsch	1	ü sch
+042/079	üsch	1	ü sch
+042/081	üsch	1	ü sch
+042/083	uns	1	u n s
+042/085	uns	1	u n s
+042/087	uns	1	u n s
+042/089	uns	1	u n s
+042/091	uns	1	u n s
+042/093	uns	1	u n s
+042/095	uns	1	u n s
+042/097	uns	1	u n s
+042/099	NA	NA	-
+042/101	uns	1	u n s
+042/103	uns	1	u n s
+042/105	uns	1	u n s
+042/107	uns	1	u n s
+042/109	uns	1	u n s
+042/111	uns	1	u n s
+042/113	uns	1	u n s
+042/115	uns	1	u n s
+042/117	uns	1	u n s
+042/119	uns	1	u n s
+042/121	uns	1	u n s
+042/123	uns	1	u n s
+042/125	uns	1	u n s
+042/127	uns	1	u n s
+042/129	uns	1	u n s
+042/131	NA	NA	-
+042/133	ins	1	i n s
+042/135	ins	1	i n s
+042/137	ins	1	i n s
+042/139	ins	1	i n s
+042/141	ins	1	i n s
+042/143	ins	1	i n s
+042/145	ins	1	i n s
+042/147	ins	1	i n s
+042/149	uns	1	u n s
+042/151	NA	NA	-
+042/157	oss	1	o ss
+042/159	ohs	1	oh s
+042/161	us	1	u s
+043/033	uns	1	u n s
+043/035	uns	1	u n s
+043/037	uns	1	u n s
+043/039	uus	1	uu s
+043/041	us	1	u s
+043/043	us	1	u s
+043/045	us	1	u s
+043/047	us	1	u s
+043/049	us	1	u s
+043/051	üs	1	ü s
+043/053	us	1	u s
+043/055	us	1	u s
+043/057	üsch	1	ü sch
+043/059	üsch	1	ü sch
+043/061	ösch	1	ö sch
+043/063	üsch	1	ü sch
+043/065	üsch	1	ü sch
+043/067	üsch	1	ü sch
+043/069	üsch	1	ü sch
+043/071	üsch	1	ü sch
+043/073	NA	NA	-
+043/075	öüsch	1	öü sch
+043/077	üsch	1	ü sch
+043/079	üsch	1	ü sch
+043/081	uns	1	u n s
+043/083	uns	1	u n s
+043/085	NA	NA	-
+043/087	uns	1	u n s
+043/089	uns	1	u n s
+043/091	uns	1	u n s
+043/093	uns	1	u n s
+043/095	uns	1	u n s
+043/097	uns	1	u n s
+043/099	uns	1	u n s
+043/101	uns	1	u n s
+043/103	uns	1	u n s
+043/105	uns	1	u n s
+043/107	uns	1	u n s
+043/109	uns	1	u n s
+043/111	uns	1	u n s
+043/113	uns	1	u n s
+043/115	uns	1	u n s
+043/117	uns	1	u n s
+043/119	uns	1	u n s
+043/121	uns	1	u n s
+043/123	uns	1	u n s
+043/125	uns	1	u n s
+043/127	uns	1	u n s
+043/129	uns	1	u n s
+043/131	ins	1	i n s
+043/133	ins	1	i n s
+043/135	ins	1	i n s
+043/137	ins	1	i n s
+043/141	ins	1	i n s
+043/143	uns	1	u n s
+043/145	ins	1	i n s
+043/151	uns	1	u n s
+043/153	uns	1	u n s
+043/159	os	1	o s
+043/161	os	1	o s
+044/033	us	1	u s
+044/035	us	1	u s
+044/039	us	1	u s
+044/041	us	1	u s
+044/043	us	1	u s
+044/045	us	1	u s
+044/047	us	1	u s
+044/049	us	1	u s
+044/051	us	1	u s
+044/053	us	1	u s
+044/055	us	1	u s
+044/057	üschk	1	ü sch k
+044/059	üsch	1	ü sch
+044/061	ös	1	ö s
+044/063	üsch	1	ü sch
+044/065	ösch	1	ö sch
+044/067	ösch	1	ö sch
+044/069	ösch	1	ö sch
+044/071	üsch	1	ü sch
+044/073	ösch	1	ö sch
+044/075	üsch	1	ü sch
+044/077	uns	1	u n s
+044/079	üsch	1	ü sch
+044/081	uns	1	u n s
+044/083	uns	1	u n s
+044/085	uns	1	u n s
+044/087	uns	1	u n s
+044/089	uns	1	u n s
+044/091	uns	1	u n s
+044/093	uns	1	u n s
+044/095	uns	1	u n s
+044/097	uns	1	u n s
+044/099	uns	1	u n s
+044/101	uns	1	u n s
+044/103	uns	1	u n s
+044/105	uns	1	u n s
+044/107	uns	1	u n s
+044/109	uns	1	u n s
+044/111	uns	1	u n s
+044/113	uns	1	u n s
+044/115	uns	1	u n s
+044/117	uns	1	u n s
+044/119	uns	1	u n s
+044/121	uns	1	u n s
+044/123	us	1	u s
+044/125	uns	1	u n s
+044/127	uns	1	u n s
+044/129	uns	1	u n s
+044/131	uns	1	u n s
+044/133	ins	1	i n s
+044/135	ins	1	i n s
+044/137	ins	1	i n s
+044/141	ins	1	i n s
+044/143	NA	NA	-
+044/145	üns	1	ü n s
+044/149	üns	1	ü n s
+044/151	üns	1	ü n s
+044/153	uns	1	u n s
+045/033	us	1	u s
+045/035	us	1	u s
+045/037	us	1	u s
+045/039	us	1	u s
+045/041	uss	1	u ss
+045/043	us	1	u s
+045/045	uss	1	u ss
+045/047	us	1	u s
+045/049	us	1	u s
+045/051	us	1	u s
+045/053	uss	1	u ss
+045/055	NA	NA	-
+045/057	üsk	1	ü s k
+045/059	ösch	1	ö sch
+045/061	ösch	1	ö sch
+045/063	ösch	1	ö sch
+045/065	üsch	1	ü sch
+045/067	ösch	1	ö sch
+045/069	ösch	1	ö sch
+045/071	ösch	1	ö sch
+045/073	üsch	1	ü sch
+045/075	üsch	1	ü sch
+045/077	uns	1	u n s
+045/079	üsch	1	ü sch
+045/081	uns	1	u n s
+045/083	uns	1	u n s
+045/085	uns	1	u n s
+045/087	uns	1	u n s
+045/089	uns	1	u n s
+045/091	uns	1	u n s
+045/093	uns	1	u n s
+045/095	uns	1	u n s
+045/097	uns	1	u n s
+045/099	uns	1	u n s
+045/101	uns	1	u n s
+045/103	uns	1	u n s
+045/105	uns	1	u n s
+045/107	uns	1	u n s
+045/109	NA	NA	-
+045/111	uns	1	u n s
+045/113	uns	1	u n s
+045/115	uns	1	u n s
+045/117	uns	1	u n s
+045/119	uns	1	u n s
+045/121	uns	1	u n s
+045/123	uns	1	u n s
+045/125	uss	1	u ss
+045/127	NA	NA	-
+045/129	ins	1	i n s
+045/131	uns	1	u n s
+045/133	NA	NA	-
+045/135	ins	1	i n s
+045/137	ins	1	i n s
+045/139	ins	1	i n s
+045/141	ins	1	i n s
+045/143	ins	1	i n s
+045/145	ins	1	i n s
+045/155	uns	1	u n s
+046/031	us	1	u s
+046/033	us	1	u s
+046/035	us	1	u s
+046/037	us	1	u s
+046/039	us	1	u s
+046/041	us	1	u s
+046/043	us	1	u s
+046/045	us	1	u s
+046/047	us	1	u s
+046/049	us	1	u s
+046/051	NA	NA	-
+046/053	uss	1	u ss
+046/055	us	1	u s
+046/057	usk	1	u s k
+046/059	ösch	1	ö sch
+046/061	ösch	1	ö sch
+046/063	ösch	1	ö sch
+046/065	ösch	1	ö sch
+046/067	ösch	1	ö sch
+046/069	esch	1	e sch
+046/071	esch	1	e sch
+046/073	üsch	1	ü sch
+046/075	esch	1	e sch
+046/077	uus	1	uu s
+046/079	üsch	1	ü sch
+046/081	uns	1	u n s
+046/083	uns	1	u n s
+046/085	uns	1	u n s
+046/087	uns	1	u n s
+046/089	uns	1	u n s
+046/091	uns	1	u n s
+046/093	uns	1	u n s
+046/095	uns	1	u n s
+046/097	uns	1	u n s
+046/099	NA	NA	-
+046/101	uns	1	u n s
+046/103	uns	1	u n s
+046/105	uns	1	u n s
+046/107	uns	1	u n s
+046/109	uns	1	u n s
+046/111	uns	1	u n s
+046/113	uns	1	u n s
+046/115	uns	1	u n s
+046/117	NA	NA	-
+046/119	uns	1	u n s
+046/121	uns	1	u n s
+046/123	uns	1	u n s
+046/125	uns	1	u n s
+046/127	uns	1	u n s
+046/129	uns	1	u n s
+046/131	NA	NA	-
+046/133	üns	1	ü n s
+046/135	ins	1	i n s
+046/137	ins	1	i n s
+046/139	ins	1	i n s
+046/141	ins	1	i n s
+046/143	üns	1	ü n s
+046/155	uns	1	u n s
+047/031	unss	1	u n ss
+047/033	uns	1	u n s
+047/035	uss	1	u ss
+047/037	uns	1	u n s
+047/039	uns	1	u n s
+047/041	us	1	u s
+047/043	us	1	u s
+047/045	uss	1	u ss
+047/047	us	1	u s
+047/049	us	1	u s
+047/051	us	1	u s
+047/053	us	1	u s
+047/055	us	1	u s
+047/057	uss	1	u ss
+047/059	ösch	1	ö sch
+047/061	ösch	1	ö sch
+047/063	ösch	1	ö sch
+047/065	ösch	1	ö sch
+047/067	ösch	1	ö sch
+047/069	ösch	1	ö sch
+047/071	ösch	1	ö sch
+047/073	iesch	1	ie sch
+047/075	unsch	1	u n sch
+047/077	unsch	1	u n sch
+047/079	unsch	1	u n sch
+047/081	unsch	1	u n sch
+047/083	uns	1	u n s
+047/085	uns	1	u n s
+047/087	uns	1	u n s
+047/089	uns	1	u n s
+047/091	uns	1	u n s
+047/093	uns	1	u n s
+047/095	uns	1	u n s
+047/097	uns	1	u n s
+047/099	uns	1	u n s
+047/101	uns	1	u n s
+047/103	uns	1	u n s
+047/105	uns	1	u n s
+047/107	uns	1	u n s
+047/109	uns	1	u n s
+047/111	uns	1	u n s
+047/113	uns	1	u n s
+047/115	uns	1	u n s
+047/117	uns	1	u n s
+047/119	NA	NA	-
+047/123	uns	1	u n s
+047/125	uns	1	u n s
+047/127	uns	1	u n s
+047/129	uns	1	u n s
+047/131	ins	1	i n s
+047/133	ins	1	i n s
+047/135	ins	1	i n s
+047/137	ins	1	i n s
+047/139	ins	1	i n s
+047/141	ins	1	i n s
+047/147	ins	1	i n s
+047/149	ins	1	i n s
+047/151	uns	1	u n s
+047/159	uns	1	u n s
+048/021	ons	1	o n s
+048/023	ons	1	o n s
+048/027	uns	1	u n s
+048/029	us	1	u s
+048/031	uns	1	u n s
+048/033	us	1	u s
+048/035	uss	1	u ss
+048/037	us	1	u s
+048/039	us	1	u s
+048/041	us	1	u s
+048/045	us	1	u s
+048/047	uns	1	u n s
+048/049	us	1	u s
+048/051	us	1	u s
+048/053	us	1	u s
+048/055	us	1	u s
+048/057	us	1	u s
+048/059	ösch	1	ö sch
+048/061	ösch	1	ö sch
+048/063	ösch	1	ö sch
+048/065	ösch	1	ö sch
+048/067	ösch	1	ö sch
+048/069	ösch	1	ö sch
+048/071	uns	1	u n s
+048/073	uns	1	u n s
+048/075	unsch	1	u n sch
+048/077	uns	1	u n s
+048/079	uns	1	u n s
+048/081	uns	1	u n s
+048/083	uns	1	u n s
+048/085	uns	1	u n s
+048/087	uns	1	u n s
+048/089	uns	1	u n s
+048/091	NA	NA	-
+048/093	uns	1	u n s
+048/095	uns	1	u n s
+048/099	uns	1	u n s
+048/101	uns	1	u n s
+048/103	uns	1	u n s
+048/105	uns	1	u n s
+048/107	uns	1	u n s
+048/109	uns	1	u n s
+048/111	uns	1	u n s
+048/113	NA	NA	-
+048/115	uns	1	u n s
+048/119	uns	1	u n s
+048/123	uns	1	u n s
+048/125	uns	1	u n s
+048/127	NA	NA	-
+048/129	ins	1	i n s
+048/131	ins	1	i n s
+048/133	ins	1	i n s
+048/135	ins	1	i n s
+048/137	ins	1	i n s
+048/139	uns	1	u n s
+048/141	ins	1	i n s
+048/143	ins	1	i n s
+048/145	ins	1	i n s
+048/147	ins	1	i n s
+048/153	ins	1	i n s
+048/157	ins	1	i n s
+048/159	uns	1	u n s
+049/019	ons	1	o n s
+049/021	ons	1	o n s
+049/023	uns	1	u n s
+049/025	uns	1	u n s
+049/027	uns	1	u n s
+049/029	uns	1	u n s
+049/031	us	1	u s
+049/033	uns	1	u n s
+049/035	us	1	u s
+049/037	us	1	u s
+049/039	us	1	u s
+049/041	us	1	u s
+049/043	us	1	u s
+049/045	uss	1	u ss
+049/047	uss	1	u ss
+049/049	us	1	u s
+049/051	us	1	u s
+049/053	us	1	u s
+049/055	us	1	u s
+049/057	us	1	u s
+049/059	us	1	u s
+049/061	ösch	1	ö sch
+049/063	ösch	1	ö sch
+049/065	ösch	1	ö sch
+049/067	äsch	1	ä sch
+049/069	ösch	1	ö sch
+049/071	ösch	1	ö sch
+049/073	uns	1	u n s
+049/077	uns	1	u n s
+049/079	uns	1	u n s
+049/081	uns	1	u n s
+049/083	uns	1	u n s
+049/085	uns	1	u n s
+049/087	uns	1	u n s
+049/089	uns	1	u n s
+049/091	NA	NA	-
+049/093	uns	1	u n s
+049/095	uns	1	u n s
+049/097	uns	1	u n s
+049/099	uns	1	u n s
+049/101	üns	1	ü n s
+049/103	uns	1	u n s
+049/105	uns	1	u n s
+049/107	uns	1	u n s
+049/109	uns	1	u n s
+049/111	uhs	1	uh s
+049/113	uns	1	u n s
+049/115	uns	1	u n s
+049/117	uns	1	u n s
+049/119	uns	1	u n s
+049/121	uns	1	u n s
+049/123	uns	1	u n s
+049/125	uns	1	u n s
+049/127	uns	1	u n s
+049/129	uns	1	u n s
+049/131	ins	1	i n s
+049/133	NA	NA	-
+049/135	ins	1	i n s
+049/137	ins	1	i n s
+049/139	ins	1	i n s
+049/141	ins	1	i n s
+049/143	ins	1	i n s
+049/145	ins	1	i n s
+049/147	uns	1	u n s
+049/151	ins	1	i n s
+050/021	ons	1	o n s
+050/023	uns	1	u n s
+050/025	ons	1	o n s
+050/027	ons	1	o n s
+050/029	ons	1	o n s
+050/031	ujis	1	u j i s
+050/033	uss	1	u ss
+050/035	us	1	u s
+050/037	us	1	u s
+050/039	us	1	u s
+050/041	us	1	u s
+050/043	us	1	u s
+050/047	us	1	u s
+050/049	NA	NA	-
+050/051	us	1	u s
+050/053	us	1	u s
+050/055	us	1	u s
+050/057	us	1	u s
+050/059	us	1	u s
+050/061	uss	1	u ss
+050/063	öseck	1	ö s e ck
+050/065	ösch	1	ö sch
+050/067	ösch	1	ö sch
+050/069	ösch	1	ö sch
+050/071	ösch	1	ö sch
+050/073	ösch	1	ö sch
+050/075	uns	1	u n s
+050/077	uns	1	u n s
+050/079	uns	1	u n s
+050/081	uns	1	u n s
+050/083	uns	1	u n s
+050/085	NA	NA	-
+050/087	NA	NA	-
+050/089	uns	1	u n s
+050/091	uns	1	u n s
+050/093	uns	1	u n s
+050/095	uns	1	u n s
+050/097	uns	1	u n s
+050/099	uns	1	u n s
+050/101	uns	1	u n s
+050/103	uns	1	u n s
+050/105	uns	1	u n s
+050/107	uns	1	u n s
+050/109	NA	NA	-
+050/111	uns	1	u n s
+050/113	uns	1	u n s
+050/115	uns	1	u n s
+050/117	uns	1	u n s
+050/119	uns	1	u n s
+050/121	NA	NA	-
+050/125	NA	NA	-
+050/127	uns	1	u n s
+050/129	ins	1	i n s
+050/131	ins	1	i n s
+050/133	ins	1	i n s
+050/135	ins	1	i n s
+050/137	ins	1	i n s
+050/139	ins	1	i n s
+050/141	ins	1	i n s
+050/143	ins	1	i n s
+050/145	ins	1	i n s
+050/147	ins	1	i n s
+050/149	ins	1	i n s
+050/151	ins	1	i n s
+050/155	uns	1	u n s
+050/157	ins	1	i n s
+050/159	uns	1	u n s
+050/161	uns	1	u n s
+051/023	ons	1	o n s
+051/025	ons	1	o n s
+051/027	onns	1	o nn s
+051/029	ons	1	o n s
+051/031	uns	1	u n s
+051/033	us	1	u s
+051/035	us	1	u s
+051/037	uss	1	u ss
+051/039	us	1	u s
+051/041	us	1	u s
+051/043	us	1	u s
+051/045	us	1	u s
+051/047	uass	1	ua ss
+051/049	NA	NA	-
+051/051	us	1	u s
+051/053	us	1	u s
+051/055	us	1	u s
+051/057	uss	1	u ss
+051/059	us	1	u s
+051/061	uns	1	u n s
+051/063	össeck	1	ö ss e ck
+051/065	öseck	1	ö s e ck
+051/067	ösek	1	ö s e k
+051/069	össek	1	ö ss e k
+051/071	öseck	1	ö s e ck
+051/073	össek	1	ö ss e k
+051/075	NA	NA	-
+051/077	uns	1	u n s
+051/079	uns	1	u n s
+051/081	uns	1	u n s
+051/083	uns	1	u n s
+051/085	uns	1	u n s
+051/087	uns	1	u n s
+051/089	uns	1	u n s
+051/091	uns	1	u n s
+051/093	uns	1	u n s
+051/095	uns	1	u n s
+051/097	uns	1	u n s
+051/099	uns	1	u n s
+051/101	uns	1	u n s
+051/103	uns	1	u n s
+051/105	uns	1	u n s
+051/107	uns	1	u n s
+051/109	NA	NA	-
+051/111	uns	1	u n s
+051/113	uns	1	u n s
+051/115	uns	1	u n s
+051/117	uns	1	u n s
+051/119	uns	1	u n s
+051/121	uns	1	u n s
+051/123	uns	1	u n s
+051/125	ins	1	i n s
+051/127	ins	1	i n s
+051/129	ins	1	i n s
+051/131	ins	1	i n s
+051/133	ins	1	i n s
+051/135	uns	1	u n s
+051/137	ins	1	i n s
+051/139	ins	1	i n s
+051/141	ins	1	i n s
+051/143	ins	1	i n s
+051/145	ins	1	i n s
+051/147	ins	1	i n s
+051/149	üns	1	ü n s
+051/151	NA	NA	-
+051/153	üns	1	ü n s
+051/155	ins	1	i n s
+051/157	ins	1	i n s
+052/023	ons	1	o n s
+052/025	ons	1	o n s
+052/027	ons	1	o n s
+052/029	ons	1	o n s
+052/031	us	1	u s
+052/033	us	1	u s
+052/035	us	1	u s
+052/037	us	1	u s
+052/039	us	1	u s
+052/041	us	1	u s
+052/043	ues	1	ue s
+052/045	us	1	u s
+052/047	uns	1	u n s
+052/049	NA	NA	-
+052/051	us	1	u s
+052/053	us	1	u s
+052/057	us	1	u s
+052/059	us	1	u s
+052/061	os	1	o s
+052/063	össig	1	ö ss i g
+052/065	össeck	1	ö ss e ck
+052/067	össek	1	ö ss e k
+052/069	öseck	1	ö s e ck
+052/071	öseck	1	ö s e ck
+052/073	essak	1	e ss a k
+052/075	uns	1	u n s
+052/077	uns	1	u n s
+052/079	uns	1	u n s
+052/081	uns	1	u n s
+052/083	uns	1	u n s
+052/085	uns	1	u n s
+052/087	uns	1	u n s
+052/089	uns	1	u n s
+052/091	uns	1	u n s
+052/093	uns	1	u n s
+052/095	uns	1	u n s
+052/097	uns	1	u n s
+052/099	uns	1	u n s
+052/101	uns	1	u n s
+052/103	uns	1	u n s
+052/105	uns	1	u n s
+052/107	uns	1	u n s
+052/109	uns	1	u n s
+052/111	uns	1	u n s
+052/113	uns	1	u n s
+052/115	uns	1	u n s
+052/117	uns	1	u n s
+052/121	uns	1	u n s
+052/123	uns	1	u n s
+052/125	uns	1	u n s
+052/127	ins	1	i n s
+052/129	ins	1	i n s
+052/131	ins	1	i n s
+052/133	ins	1	i n s
+052/135	ins	1	i n s
+052/137	ins	1	i n s
+052/139	NA	NA	-
+052/141	ins	1	i n s
+052/143	ins	1	i n s
+052/145	ins	1	i n s
+052/147	ins	1	i n s
+052/149	uns	1	u n s
+052/151	inns	1	i nn s
+052/153	ins	1	i n s
+052/155	ins	1	i n s
+052/157	ins	1	i n s
+052/159	uns	1	u n s
+053/023	us	1	u s
+053/025	os	1	o s
+053/027	os	1	o s
+053/029	os	1	o s
+053/031	uuss	1	uu ss
+053/033	us	1	u s
+053/035	us	1	u s
+053/037	us	1	u s
+053/039	us	1	u s
+053/041	us	1	u s
+053/043	ues	1	ue s
+053/045	uis	1	ui s
+053/047	uess	1	ue ss
+053/049	us	1	u s
+053/051	us	1	u s
+053/053	us	1	u s
+053/055	uss	1	u ss
+053/057	us	1	u s
+053/059	us	1	u s
+053/061	us	1	u s
+053/063	össeck	1	ö ss e ck
+053/065	NA	NA	-
+053/067	üssek	1	ü ss e k
+053/069	össek	1	ö ss e k
+053/071	esseck	1	e ss e ck
+053/073	uns	1	u n s
+053/075	NA	NA	-
+053/077	uns	1	u n s
+053/079	uns	1	u n s
+053/081	uns	1	u n s
+053/083	uns	1	u n s
+053/085	uns	1	u n s
+053/087	uns	1	u n s
+053/089	uns	1	u n s
+053/091	uns	1	u n s
+053/093	NA	NA	-
+053/095	uns	1	u n s
+053/097	NA	NA	-
+053/099	NA	NA	-
+053/101	uns	1	u n s
+053/103	uns	1	u n s
+053/105	uns	1	u n s
+053/107	uns	1	u n s
+053/109	uns	1	u n s
+053/111	uns	1	u n s
+053/113	uns	1	u n s
+053/115	uns	1	u n s
+053/121	uns	1	u n s
+053/123	ins	1	i n s
+053/125	uns	1	u n s
+053/127	ins	1	i n s
+053/129	ins	1	i n s
+053/131	ins	1	i n s
+053/133	ins	1	i n s
+053/135	üns	1	ü n s
+053/137	ins	1	i n s
+053/139	uns	1	u n s
+053/141	ins	1	i n s
+053/143	ins	1	i n s
+053/145	ins	1	i n s
+053/147	üns	1	ü n s
+053/149	ins	1	i n s
+053/151	ins	1	i n s
+053/153	ins	1	i n s
+053/155	ins	1	i n s
+053/157	ins	1	i n s
+054/023	os	1	o s
+054/025	oss	1	o ss
+054/027	os	1	o s
+054/029	uss	1	u ss
+054/031	NA	NA	-
+054/033	us	1	u s
+054/035	us	1	u s
+054/037	us	1	u s
+054/039	us	1	u s
+054/041	us	1	u s
+054/043	NA	NA	-
+054/045	us	1	u s
+054/047	ues	1	ue s
+054/049	us	1	u s
+054/051	us	1	u s
+054/053	uns	1	u n s
+054/055	uns	1	u n s
+054/057	uns	1	u n s
+054/059	us	1	u s
+054/061	uns	1	u n s
+054/063	uns	1	u n s
+054/065	us	1	u s
+054/067	uns	1	u n s
+054/069	uns	1	u n s
+054/071	uns	1	u n s
+054/073	uns	1	u n s
+054/075	uns	1	u n s
+054/077	uns	1	u n s
+054/079	uns	1	u n s
+054/081	uns	1	u n s
+054/083	uns	1	u n s
+054/085	uns	1	u n s
+054/087	uns	1	u n s
+054/089	uns	1	u n s
+054/091	uns	1	u n s
+054/093	uns	1	u n s
+054/095	uns	1	u n s
+054/097	uns	1	u n s
+054/099	uns	1	u n s
+054/101	uns	1	u n s
+054/103	uns	1	u n s
+054/105	NA	NA	-
+054/107	uns	1	u n s
+054/109	uns	1	u n s
+054/111	uns	1	u n s
+054/113	uns	1	u n s
+054/115	uns	1	u n s
+054/117	NA	NA	-
+054/119	uns	1	u n s
+054/121	uns	1	u n s
+054/123	uns	1	u n s
+054/125	uns	1	u n s
+054/127	ins	1	i n s
+054/131	ins	1	i n s
+054/133	ins	1	i n s
+054/135	ins	1	i n s
+054/137	ins	1	i n s
+054/139	ins	1	i n s
+054/141	ins	1	i n s
+054/143	ins	1	i n s
+054/145	ins	1	i n s
+054/147	ins	1	i n s
+054/149	ins	1	i n s
+054/151	ins	1	i n s
+054/153	ins	1	i n s
+054/155	ins	1	i n s
+054/157	ins	1	i n s
+054/159	uns	1	u n s
+054/161	uns	1	u n s
+054/163	uns	1	u n s
+055/023	os	1	o s
+055/025	oss	1	o ss
+055/027	oss	1	o ss
+055/029	NA	NA	-
+055/031	uss	1	u ss
+055/033	uss	1	u ss
+055/035	us	1	u s
+055/037	us	1	u s
+055/039	uns	1	u n s
+055/041	us	1	u s
+055/043	ues	1	ue s
+055/045	uss	1	u ss
+055/047	us	1	u s
+055/049	us	1	u s
+055/051	uns	1	u n s
+055/053	uns	1	u n s
+055/055	uns	1	u n s
+055/057	uns	1	u n s
+055/059	uns	1	u n s
+055/061	uns	1	u n s
+055/063	uns	1	u n s
+055/065	uns	1	u n s
+055/067	uns	1	u n s
+055/069	uns	1	u n s
+055/071	uns	1	u n s
+055/073	uns	1	u n s
+055/075	uns	1	u n s
+055/077	uns	1	u n s
+055/079	uns	1	u n s
+055/081	uns	1	u n s
+055/083	uns	1	u n s
+055/085	uns	1	u n s
+055/087	uns	1	u n s
+055/089	uns	1	u n s
+055/091	uns	1	u n s
+055/093	uns	1	u n s
+055/095	uns	1	u n s
+055/097	NA	NA	-
+055/099	uns	1	u n s
+055/101	uns	1	u n s
+055/103	uns	1	u n s
+055/105	uns	1	u n s
+055/107	uns	1	u n s
+055/109	uns	1	u n s
+055/111	uns	1	u n s
+055/113	uns	1	u n s
+055/115	ons	1	o n s
+055/117	uns	1	u n s
+055/119	uns	1	u n s
+055/123	uns	1	u n s
+055/125	uns	1	u n s
+055/127	uns	1	u n s
+055/131	uns	1	u n s
+055/133	NA	NA	-
+055/135	ins	1	i n s
+055/137	ins	1	i n s
+055/139	uns	1	u n s
+055/141	ins	1	i n s
+055/143	NA	NA	-
+055/145	uns	1	u n s
+055/147	ins	1	i n s
+055/149	NA	NA	-
+055/151	ins	1	i n s
+055/153	ins	1	i n s
+055/155	ins	1	i n s
+055/157	ins	1	i n s
+055/159	uns	1	u n s
+055/161	uns	1	u n s
+056/021	oss	1	o ss
+056/023	os	1	o s
+056/025	os	1	o s
+056/027	NA	NA	-
+056/029	us	1	u s
+056/031	ons	1	o n s
+056/033	us	1	u s
+056/035	oss	1	o ss
+056/037	uns	1	u n s
+056/039	uns	1	u n s
+056/041	uns	1	u n s
+056/043	uns	1	u n s
+056/045	uns	1	u n s
+056/047	uss	1	u ss
+056/049	us	1	u s
+056/051	uns	1	u n s
+056/053	uns	1	u n s
+056/055	uns	1	u n s
+056/057	uns	1	u n s
+056/059	NA	NA	-
+056/061	ens	1	e n s
+056/063	ons	1	o n s
+056/065	uns	1	u n s
+056/067	uns	1	u n s
+056/069	uns	1	u n s
+056/071	uns	1	u n s
+056/073	uns	1	u n s
+056/075	ons	1	o n s
+056/077	uns	1	u n s
+056/079	uns	1	u n s
+056/081	uns	1	u n s
+056/083	uns	1	u n s
+056/085	onns	1	o nn s
+056/087	uns	1	u n s
+056/089	uns	1	u n s
+056/091	uns	1	u n s
+056/093	uns	1	u n s
+056/095	onz	1	o n z
+056/097	uns	1	u n s
+056/099	uns	1	u n s
+056/101	uns	1	u n s
+056/103	unz	1	u n z
+056/105	uns	1	u n s
+056/107	uns	1	u n s
+056/109	uns	1	u n s
+056/111	uns	1	u n s
+056/113	uns	1	u n s
+056/115	uns	1	u n s
+056/117	uns	1	u n s
+056/121	uns	1	u n s
+056/123	uns	1	u n s
+056/125	uns	1	u n s
+056/127	uns	1	u n s
+056/129	uns	1	u n s
+056/131	ins	1	i n s
+056/133	uns	1	u n s
+056/135	inns	1	i nn s
+056/137	ins	1	i n s
+056/139	ins	1	i n s
+056/141	ins	1	i n s
+056/143	ins	1	i n s
+056/145	ins	1	i n s
+056/147	ins	1	i n s
+056/149	ins	1	i n s
+056/151	ins	1	i n s
+056/153	ins	1	i n s
+056/155	ins	1	i n s
+056/157	ins	1	i n s
+056/159	ins	1	i n s
+056/161	uns	1	u n s
+057/021	os	1	o s
+057/023	os	1	o s
+057/025	oss	1	o ss
+057/027	unges	1	u ng e s
+057/029	unges	1	u ng e s
+057/031	us	1	u s
+057/033	os	1	o s
+057/035	NA	NA	-
+057/037	ons	1	o n s
+057/039	NA	NA	-
+057/041	uns	1	u n s
+057/043	uns	1	u n s
+057/045	us	1	u s
+057/047	us	1	u s
+057/049	us	1	u s
+057/051	ins	1	i n s
+057/053	üns	1	ü n s
+057/055	üns	1	ü n s
+057/057	üns	1	ü n s
+057/059	ins	1	i n s
+057/061	ins	1	i n s
+057/063	ens	1	e n s
+057/065	ons	1	o n s
+057/067	uns	1	u n s
+057/069	uns	1	u n s
+057/071	uns	1	u n s
+057/073	onns	1	o nn s
+057/075	uns	1	u n s
+057/077	uns	1	u n s
+057/079	uns	1	u n s
+057/081	ons	1	o n s
+057/083	uns	1	u n s
+057/085	ons	1	o n s
+057/087	uns	1	u n s
+057/089	uns	1	u n s
+057/091	uns	1	u n s
+057/093	uns	1	u n s
+057/095	uns	1	u n s
+057/097	uns	1	u n s
+057/099	uns	1	u n s
+057/101	uns	1	u n s
+057/103	uns	1	u n s
+057/105	uns	1	u n s
+057/107	uns	1	u n s
+057/109	uns	1	u n s
+057/111	uns	1	u n s
+057/113	uns	1	u n s
+057/115	uns	1	u n s
+057/117	ons	1	o n s
+057/119	uns	1	u n s
+057/121	uns	1	u n s
+057/123	uns	1	u n s
+057/125	uns	1	u n s
+057/127	ins	1	i n s
+057/129	uns	1	u n s
+057/131	uns	1	u n s
+057/133	uns	1	u n s
+057/135	ins	1	i n s
+057/137	ins	1	i n s
+057/139	inns	1	i nn s
+057/141	ins	1	i n s
+057/143	inns	1	i nn s
+057/145	NA	NA	-
+057/147	inns	1	i nn s
+057/149	ins	1	i n s
+057/151	ins	1	i n s
+057/153	ins	1	i n s
+057/155	ins	1	i n s
+057/157	NA	NA	-
+057/159	ins	1	i n s
+057/161	uns	1	u n s
+058/019	os	1	o s
+058/021	os	1	o s
+058/023	os	1	o s
+058/025	os	1	o s
+058/027	os	1	o s
+058/029	onges	1	o ng e s
+058/031	us	1	u s
+058/033	oss	1	o ss
+058/035	oss	1	o ss
+058/037	ohss	1	oh ss
+058/039	uns	1	u n s
+058/041	uns	1	u n s
+058/043	uns	1	u n s
+058/045	uns	1	u n s
+058/047	ins	1	i n s
+058/049	ins	1	i n s
+058/051	ins	1	i n s
+058/053	ins	1	i n s
+058/055	ins	1	i n s
+058/057	ins	1	i n s
+058/059	ens	1	e n s
+058/061	ins	1	i n s
+058/063	inz	1	i n z
+058/065	uns	1	u n s
+058/067	ons	1	o n s
+058/069	onns	1	o nn s
+058/071	uns	1	u n s
+058/073	uns	1	u n s
+058/075	uns	1	u n s
+058/077	ons	1	o n s
+058/079	ons	1	o n s
+058/081	ons	1	o n s
+058/083	ons	1	o n s
+058/085	uns	1	u n s
+058/087	uns	1	u n s
+058/089	NA	NA	-
+058/091	uns	1	u n s
+058/093	uns	1	u n s
+058/095	uns	1	u n s
+058/097	uns	1	u n s
+058/099	uns	1	u n s
+058/101	uns	1	u n s
+058/103	uns	1	u n s
+058/105	uns	1	u n s
+058/107	uns	1	u n s
+058/109	uns	1	u n s
+058/111	uns	1	u n s
+058/113	uns	1	u n s
+058/115	uns	1	u n s
+058/117	uns	1	u n s
+058/119	NA	NA	-
+058/121	NA	NA	-
+058/123	uns	1	u n s
+058/125	uns	1	u n s
+058/127	uns	1	u n s
+058/129	uns	1	u n s
+058/131	uns	1	u n s
+058/133	ins	1	i n s
+058/135	ins	1	i n s
+058/137	ins	1	i n s
+058/139	ins	1	i n s
+058/141	ins	1	i n s
+058/143	uns	1	u n s
+058/145	ins	1	i n s
+058/147	ins	1	i n s
+058/149	ins	1	i n s
+058/151	ins	1	i n s
+058/153	ins	1	i n s
+058/155	ins	1	i n s
+058/157	ins	1	i n s
+058/159	ins	1	i n s
+059/019	uss	1	u ss
+059/021	os	1	o s
+059/023	os	1	o s
+059/025	os	1	o s
+059/027	ungs	1	u ng s
+059/029	oss	1	o ss
+059/031	uns	1	u n s
+059/033	uss	1	u ss
+059/035	oss	1	o ss
+059/037	aus	1	au s
+059/039	us	1	u s
+059/041	uus	1	uu s
+059/043	ohs	1	oh s
+059/045	os	1	o s
+059/047	ins	1	i n s
+059/049	ins	1	i n s
+059/051	ins	1	i n s
+059/053	ins	1	i n s
+059/055	ins	1	i n s
+059/057	ins	1	i n s
+059/059	ins	1	i n s
+059/061	ins	1	i n s
+059/063	ins	1	i n s
+059/065	ons	1	o n s
+059/067	uns	1	u n s
+059/069	uns	1	u n s
+059/071	ons	1	o n s
+059/073	ons	1	o n s
+059/075	onz	1	o n z
+059/077	ons	1	o n s
+059/079	ons	1	o n s
+059/081	uns	1	u n s
+059/083	NA	NA	-
+059/085	ons	1	o n s
+059/087	ons	1	o n s
+059/089	NA	NA	-
+059/091	uns	1	u n s
+059/093	ons	1	o n s
+059/095	uns	1	u n s
+059/097	uns	1	u n s
+059/099	uns	1	u n s
+059/101	uns	1	u n s
+059/103	us	1	u s
+059/105	uns	1	u n s
+059/107	ons	1	o n s
+059/109	uns	1	u n s
+059/111	NA	NA	-
+059/113	uns	1	u n s
+059/115	uns	1	u n s
+059/117	NA	NA	-
+059/119	uns	1	u n s
+059/121	uns	1	u n s
+059/123	uns	1	u n s
+059/125	uns	1	u n s
+059/127	uns	1	u n s
+059/129	ons	1	o n s
+059/131	uns	1	u n s
+059/133	uns	1	u n s
+059/135	ins	1	i n s
+059/137	ins	1	i n s
+059/139	ins	1	i n s
+059/141	ins	1	i n s
+059/143	ins	1	i n s
+059/145	uns	1	u n s
+059/147	ins	1	i n s
+059/149	ins	1	i n s
+059/151	ins	1	i n s
+059/153	ins	1	i n s
+059/155	ins	1	i n s
+059/157	ins	1	i n s
+059/159	üns	1	ü n s
+059/161	uns	1	u n s
+059/165	uns	1	u n s
+059/169	uns	1	u n s
+060/021	os	1	o s
+060/023	oos	1	oo s
+060/025	os	1	o s
+060/027	os	1	o s
+060/029	os	1	o s
+060/031	oss	1	o ss
+060/033	uhs	1	uh s
+060/035	aus	1	au s
+060/037	aus	1	au s
+060/039	us	1	u s
+060/041	ous	1	ou s
+060/043	us	1	u s
+060/045	os	1	o s
+060/047	ois	1	oi s
+060/049	ois	1	oi s
+060/051	äss	1	ä ss
+060/053	ins	1	i n s
+060/055	ins	1	i n s
+060/057	ins	1	i n s
+060/059	ins	1	i n s
+060/061	ins	1	i n s
+060/063	ons	1	o n s
+060/065	onns	1	o nn s
+060/067	ons	1	o n s
+060/069	ons	1	o n s
+060/071	ons	1	o n s
+060/073	ons	1	o n s
+060/075	uns	1	u n s
+060/077	ons	1	o n s
+060/079	uns	1	u n s
+060/081	ons	1	o n s
+060/083	NA	NA	-
+060/085	uns	1	u n s
+060/087	uns	1	u n s
+060/089	uns	1	u n s
+060/091	uns	1	u n s
+060/093	uns	1	u n s
+060/095	uns	1	u n s
+060/097	uns	1	u n s
+060/099	uns	1	u n s
+060/101	uns	1	u n s
+060/103	uns	1	u n s
+060/105	uns	1	u n s
+060/107	ons	1	o n s
+060/109	uns	1	u n s
+060/111	uns	1	u n s
+060/113	uns	1	u n s
+060/115	uns	1	u n s
+060/117	NA	NA	-
+060/119	uns	1	u n s
+060/121	uns	1	u n s
+060/123	NA	NA	-
+060/125	uns	1	u n s
+060/127	uns	1	u n s
+060/129	ons	1	o n s
+060/131	NA	NA	-
+060/135	ins	1	i n s
+060/137	uns	1	u n s
+060/139	ins	1	i n s
+060/141	ins	1	i n s
+060/143	ins	1	i n s
+060/145	ins	1	i n s
+060/147	ins	1	i n s
+060/149	ins	1	i n s
+060/151	NA	NA	-
+060/153	ins	1	i n s
+060/155	ins	1	i n s
+060/157	uns	1	u n s
+060/159	NA	NA	-
+060/163	uns	1	u n s
+060/165	uns	1	u n s
+061/021	os	1	o s
+061/023	oss	1	o ss
+061/025	oss	1	o ss
+061/027	os	1	o s
+061/029	os	1	o s
+061/031	os	1	o s
+061/033	oss	1	o ss
+061/035	us	1	u s
+061/037	ous	1	ou s
+061/039	uns	1	u n s
+061/041	ous	1	ou s
+061/043	os	1	o s
+061/045	us	1	u s
+061/047	us	1	u s
+061/049	ojs	1	o j s
+061/051	äus	1	äu s
+061/053	ins	1	i n s
+061/055	ins	1	i n s
+061/057	üns	1	ü n s
+061/059	ins	1	i n s
+061/061	ens	1	e n s
+061/063	ons	1	o n s
+061/065	ons	1	o n s
+061/067	NA	NA	-
+061/069	ons	1	o n s
+061/071	ons	1	o n s
+061/073	ons	1	o n s
+061/075	uns	1	u n s
+061/077	ons	1	o n s
+061/079	onns	1	o nn s
+061/081	ons	1	o n s
+061/083	ons	1	o n s
+061/085	uns	1	u n s
+061/087	uns	1	u n s
+061/089	uns	1	u n s
+061/091	uns	1	u n s
+061/093	uns	1	u n s
+061/095	uns	1	u n s
+061/097	uns	1	u n s
+061/099	uns	1	u n s
+061/101	uns	1	u n s
+061/103	uns	1	u n s
+061/105	uns	1	u n s
+061/107	uns	1	u n s
+061/109	NA	NA	-
+061/111	uns	1	u n s
+061/113	uns	1	u n s
+061/115	uns	1	u n s
+061/117	uns	1	u n s
+061/119	uns	1	u n s
+061/121	NA	NA	-
+061/123	uns	1	u n s
+061/125	NA	NA	-
+061/127	uns	1	u n s
+061/129	uns	1	u n s
+061/131	uns	1	u n s
+061/133	ons	1	o n s
+061/137	ins	1	i n s
+061/139	üns	1	ü n s
+061/141	ins	1	i n s
+061/143	ins	1	i n s
+061/145	ins	1	i n s
+061/147	ins	1	i n s
+061/149	ins	1	i n s
+061/151	ins	1	i n s
+061/153	ins	1	i n s
+061/155	ins	1	i n s
+061/157	ins	1	i n s
+061/159	ins	1	i n s
+061/161	ins	1	i n s
+061/165	ons	1	o n s
+062/021	os	1	o s
+062/023	os	1	o s
+062/025	os	1	o s
+062/027	os	1	o s
+062/029	us	1	u s
+062/031	os	1	o s
+062/033	onz	1	o n z
+062/035	us	1	u s
+062/037	us	1	u s
+062/039	os	1	o s
+062/041	os	1	o s
+062/043	os	1	o s
+062/045	uss	1	u ss
+062/047	us	1	u s
+062/049	ois	1	oi s
+062/051	eas	1	ea s
+062/053	ois	1	oi s
+062/055	NA	NA	-
+062/057	eäns	1	eä n s
+062/059	NA	NA	-
+062/061	ens	1	e n s
+062/063	ons	1	o n s
+062/065	ons	1	o n s
+062/067	NA	NA	-
+062/069	ons	1	o n s
+062/071	uns	1	u n s
+062/073	ons	1	o n s
+062/075	es	1	e s
+062/077	ons	1	o n s
+062/079	uns	1	u n s
+062/081	ons	1	o n s
+062/083	uns	1	u n s
+062/085	ons	1	o n s
+062/087	NA	NA	-
+062/089	ons	1	o n s
+062/091	uns	1	u n s
+062/093	uns	1	u n s
+062/095	uns	1	u n s
+062/097	uns	1	u n s
+062/099	uns	1	u n s
+062/101	uns	1	u n s
+062/103	onns	1	o nn s
+062/105	uns	1	u n s
+062/107	uns	1	u n s
+062/109	uns	1	u n s
+062/111	NA	NA	-
+062/113	NA	NA	-
+062/115	NA	NA	-
+062/117	uns	1	u n s
+062/119	uns	1	u n s
+062/121	NA	NA	-
+062/123	uns	1	u n s
+062/125	uns	1	u n s
+062/127	ons	1	o n s
+062/129	uns	1	u n s
+062/131	uns	1	u n s
+062/133	onz	1	o n z
+062/135	NA	NA	-
+062/137	ons	1	o n s
+062/139	ons	1	o n s
+062/141	ins	1	i n s
+062/143	ins	1	i n s
+062/145	uns	1	u n s
+062/147	ins	1	i n s
+062/149	ins	1	i n s
+062/151	ins	1	i n s
+062/153	ins	1	i n s
+062/155	ins	1	i n s
+062/157	üns	1	ü n s
+062/159	ins	1	i n s
+062/161	ins	1	i n s
+063/021	us	1	u s
+063/023	os	1	o s
+063/025	os	1	o s
+063/027	os	1	o s
+063/029	NA	NA	-
+063/031	oss	1	o ss
+063/033	NA	NA	-
+063/035	os	1	o s
+063/037	os	1	o s
+063/039	ss	1	ss
+063/041	oos	1	oo s
+063/043	us	1	u s
+063/045	us	1	u s
+063/047	uss	1	u ss
+063/049	uhs	1	uh s
+063/051	eus	1	eu s
+063/053	ons	1	o n s
+063/055	ihs	1	ih s
+063/057	is	1	i s
+063/059	ens	1	e n s
+063/061	ens	1	e n s
+063/063	onns	1	o nn s
+063/065	ons	1	o n s
+063/067	ons	1	o n s
+063/069	ons	1	o n s
+063/071	onns	1	o nn s
+063/073	ons	1	o n s
+063/075	ons	1	o n s
+063/077	NA	NA	-
+063/079	ons	1	o n s
+063/081	NA	NA	-
+063/083	ons	1	o n s
+063/085	uns	1	u n s
+063/087	uns	1	u n s
+063/089	uns	1	u n s
+063/091	uns	1	u n s
+063/093	uns	1	u n s
+063/095	uns	1	u n s
+063/097	uns	1	u n s
+063/099	NA	NA	-
+063/101	uns	1	u n s
+063/103	uns	1	u n s
+063/105	uns	1	u n s
+063/107	NA	NA	-
+063/109	uns	1	u n s
+063/111	NA	NA	-
+063/113	uns	1	u n s
+063/115	uns	1	u n s
+063/117	uns	1	u n s
+063/119	NA	NA	-
+063/121	uns	1	u n s
+063/123	uns	1	u n s
+063/125	NA	NA	-
+063/127	uns	1	u n s
+063/135	ons	1	o n s
+063/137	ons	1	o n s
+063/139	NA	NA	-
+063/141	NA	NA	-
+063/143	ons	1	o n s
+063/145	ons	1	o n s
+063/147	ins	1	i n s
+063/149	ins	1	i n s
+063/151	ins	1	i n s
+063/153	ins	1	i n s
+063/155	ins	1	i n s
+063/157	ins	1	i n s
+063/159	ins	1	i n s
+063/161	ens	1	e n s
+063/163	ins	1	i n s
+063/165	ins	1	i n s
+064/023	os	1	o s
+064/025	ohs	1	oh s
+064/027	oss	1	o ss
+064/029	us	1	u s
+064/031	oss	1	o ss
+064/033	os	1	o s
+064/035	us	1	u s
+064/037	os	1	o s
+064/039	es	1	e s
+064/041	oas	1	oa s
+064/043	us	1	u s
+064/045	us	1	u s
+064/047	NA	NA	-
+064/049	us	1	u s
+064/051	eus	1	eu s
+064/053	ouis	1	oui s
+064/055	us	1	u s
+064/057	uss	1	u ss
+064/059	ens	1	e n s
+064/061	ons	1	o n s
+064/063	ons	1	o n s
+064/065	ons	1	o n s
+064/067	ons	1	o n s
+064/069	ons	1	o n s
+064/071	ons	1	o n s
+064/073	ons	1	o n s
+064/075	onns	1	o nn s
+064/077	ons	1	o n s
+064/079	uns	1	u n s
+064/081	ons	1	o n s
+064/083	uns	1	u n s
+064/085	NA	NA	-
+064/087	uns	1	u n s
+064/089	uns	1	u n s
+064/091	uns	1	u n s
+064/093	uns	1	u n s
+064/095	uns	1	u n s
+064/097	uns	1	u n s
+064/099	uns	1	u n s
+064/101	uns	1	u n s
+064/103	uns	1	u n s
+064/105	uns	1	u n s
+064/107	uns	1	u n s
+064/109	uns	1	u n s
+064/111	NA	NA	-
+064/113	uns	1	u n s
+064/115	uns	1	u n s
+064/117	uns	1	u n s
+064/119	uns	1	u n s
+064/121	uns	1	u n s
+064/123	uns	1	u n s
+064/125	uns	1	u n s
+064/127	ons	1	o n s
+064/135	ons	1	o n s
+064/137	ons	1	o n s
+064/139	ons	1	o n s
+064/141	ons	1	o n s
+064/143	ons	1	o n s
+064/145	ons	1	o n s
+064/147	ons	1	o n s
+064/149	ins	1	i n s
+064/151	ins	1	i n s
+064/153	ens	1	e n s
+064/155	NA	NA	-
+064/157	ins	1	i n s
+064/159	ins	1	i n s
+065/021	os	1	o s
+065/023	os	1	o s
+065/025	oss	1	o ss
+065/027	os	1	o s
+065/029	os	1	o s
+065/031	os	1	o s
+065/033	os	1	o s
+065/035	os	1	o s
+065/037	uns	1	u n s
+065/039	os	1	o s
+065/041	as	1	a s
+065/043	os	1	o s
+065/045	uns	1	u n s
+065/047	uns	1	u n s
+065/049	es	1	e s
+065/051	uhs	1	uh s
+065/053	uus	1	uu s
+065/055	us	1	u s
+065/057	us	1	u s
+065/059	uss	1	u ss
+065/061	ons	1	o n s
+065/063	ons	1	o n s
+065/065	ons	1	o n s
+065/067	ons	1	o n s
+065/069	NA	NA	-
+065/071	uns	1	u n s
+065/073	ons	1	o n s
+065/075	ons	1	o n s
+065/077	uns	1	u n s
+065/079	uns	1	u n s
+065/081	uns	1	u n s
+065/083	uns	1	u n s
+065/085	uns	1	u n s
+065/087	uns	1	u n s
+065/089	uns	1	u n s
+065/091	uns	1	u n s
+065/093	uns	1	u n s
+065/095	uns	1	u n s
+065/097	uns	1	u n s
+065/101	uns	1	u n s
+065/103	uns	1	u n s
+065/105	ons	1	o n s
+065/107	uns	1	u n s
+065/109	NA	NA	-
+065/111	uns	1	u n s
+065/113	NA	NA	-
+065/115	uns	1	u n s
+065/121	uns	1	u n s
+065/123	uns	1	u n s
+065/137	NA	NA	-
+065/139	ouns	1	ou n s
+065/143	ons	1	o n s
+065/145	ons	1	o n s
+065/147	ins	1	i n s
+065/149	enns	1	e nn s
+065/151	ens	1	e n s
+065/153	ens	1	e n s
+065/155	ins	1	i n s
+065/157	uns	1	u n s
+065/159	inns	1	i nn s
+066/021	oos	1	oo s
+066/023	os	1	o s
+066/025	os	1	o s
+066/027	oss	1	o ss
+066/029	NA	NA	-
+066/031	os	1	o s
+066/033	os	1	o s
+066/035	uus	1	uu s
+066/037	uss	1	u ss
+066/039	ons	1	o n s
+066/041	uss	1	u ss
+066/043	os	1	o s
+066/045	uns	1	u n s
+066/047	uss	1	u ss
+066/049	uss	1	u ss
+066/051	uus	1	uu s
+066/053	NA	NA	-
+066/055	us	1	u s
+066/057	us	1	u s
+066/059	us	1	u s
+066/061	ons	1	o n s
+066/063	ons	1	o n s
+066/065	ons	1	o n s
+066/067	uns	1	u n s
+066/069	ons	1	o n s
+066/071	uns	1	u n s
+066/073	uns	1	u n s
+066/075	ons	1	o n s
+066/077	uns	1	u n s
+066/079	uns	1	u n s
+066/081	uns	1	u n s
+066/083	uns	1	u n s
+066/085	unnes	1	u nn e s
+066/087	uns	1	u n s
+066/089	uns	1	u n s
+066/091	unz	1	u n z
+066/093	uns	1	u n s
+066/095	uns	1	u n s
+066/097	uns	1	u n s
+066/099	uns	1	u n s
+066/101	uns	1	u n s
+066/103	uns	1	u n s
+066/105	uns	1	u n s
+066/107	uns	1	u n s
+066/109	uns	1	u n s
+066/111	uns	1	u n s
+066/113	NA	NA	-
+066/121	uns	1	u n s
+066/139	ons	1	o n s
+066/143	NA	NA	-
+066/145	ons	1	o n s
+066/147	ons	1	o n s
+066/149	ons	1	o n s
+066/151	onns	1	o nn s
+066/153	ens	1	e n s
+066/155	ens	1	e n s
+066/157	ens	1	e n s
+066/159	ins	1	i n s
+066/161	ons	1	o n s
+066/163	uns	1	u n s
+067/021	os	1	o s
+067/023	oss	1	o ss
+067/025	os	1	o s
+067/027	ohs	1	oh s
+067/029	us	1	u s
+067/031	os	1	o s
+067/033	os	1	o s
+067/035	uss	1	u ss
+067/037	ons	1	o n s
+067/039	ess	1	e ss
+067/041	os	1	o s
+067/043	us	1	u s
+067/045	uns	1	u n s
+067/047	uss	1	u ss
+067/049	us	1	u s
+067/051	uhs	1	uh s
+067/053	oas	1	oa s
+067/055	us	1	u s
+067/057	uus	1	uu s
+067/059	uss	1	u ss
+067/061	ons	1	o n s
+067/063	ons	1	o n s
+067/065	uns	1	u n s
+067/067	uns	1	u n s
+067/069	uns	1	u n s
+067/071	uns	1	u n s
+067/073	uns	1	u n s
+067/075	uns	1	u n s
+067/077	uns	1	u n s
+067/079	uns	1	u n s
+067/081	uns	1	u n s
+067/083	uns	1	u n s
+067/085	uns	1	u n s
+067/087	uns	1	u n s
+067/089	uns	1	u n s
+067/091	uns	1	u n s
+067/093	uns	1	u n s
+067/095	uns	1	u n s
+067/097	uns	1	u n s
+067/099	uns	1	u n s
+067/101	unz	1	u n z
+067/103	uns	1	u n s
+067/105	uns	1	u n s
+067/107	uns	1	u n s
+067/109	uns	1	u n s
+067/111	uns	1	u n s
+067/113	uns	1	u n s
+067/143	ons	1	o n s
+067/145	ons	1	o n s
+067/147	uns	1	u n s
+067/149	ons	1	o n s
+067/151	ons	1	o n s
+067/153	ens	1	e n s
+067/155	ens	1	e n s
+067/157	ons	1	o n s
+067/159	ons	1	o n s
+067/161	ons	1	o n s
+067/163	ons	1	o n s
+067/165	uns	1	u n s
+067/177	ins	1	i n s
+068/021	oss	1	o ss
+068/023	uss	1	u ss
+068/025	ohs	1	oh s
+068/027	oas	1	oa s
+068/029	os	1	o s
+068/031	ös	1	ö s
+068/033	oes	1	oe s
+068/035	us	1	u s
+068/037	us	1	u s
+068/039	us	1	u s
+068/041	us	1	u s
+068/043	NA	NA	-
+068/045	us	1	u s
+068/047	uss	1	u ss
+068/049	us	1	u s
+068/051	uns	1	u n s
+068/053	ues	1	ue s
+068/055	uhs	1	uh s
+068/057	us	1	u s
+068/059	ons	1	o n s
+068/061	ens	1	e n s
+068/063	uns	1	u n s
+068/065	ons	1	o n s
+068/067	NA	NA	-
+068/069	ons	1	o n s
+068/071	NA	NA	-
+068/073	uns	1	u n s
+068/075	uns	1	u n s
+068/077	uns	1	u n s
+068/079	uns	1	u n s
+068/081	uns	1	u n s
+068/083	NA	NA	-
+068/085	uns	1	u n s
+068/087	uns	1	u n s
+068/089	uns	1	u n s
+068/091	uns	1	u n s
+068/093	uns	1	u n s
+068/095	uns	1	u n s
+068/097	NA	NA	-
+068/099	us	1	u s
+068/101	uns	1	u n s
+068/103	uns	1	u n s
+068/105	NA	NA	-
+068/107	uns	1	u n s
+068/109	uns	1	u n s
+068/111	uns	1	u n s
+068/145	ons	1	o n s
+068/147	ons	1	o n s
+068/149	uns	1	u n s
+068/151	ons	1	o n s
+068/153	NA	NA	-
+068/155	ens	1	e n s
+068/157	NA	NA	-
+068/159	ons	1	o n s
+068/161	NA	NA	-
+068/165	uns	1	u n s
+069/019	eeis	1	eei s
+069/023	es	1	e s
+069/025	es	1	e s
+069/027	oos	1	oo s
+069/029	uss	1	u ss
+069/031	ohss	1	oh ss
+069/033	ess	1	e ss
+069/035	us	1	u s
+069/037	NA	NA	-
+069/039	us	1	u s
+069/041	us	1	u s
+069/043	ons	1	o n s
+069/045	uns	1	u n s
+069/047	uns	1	u n s
+069/049	NA	NA	-
+069/051	uns	1	u n s
+069/053	uns	1	u n s
+069/055	uns	1	u n s
+069/057	uns	1	u n s
+069/059	uns	1	u n s
+069/061	uns	1	u n s
+069/063	NA	NA	-
+069/065	uns	1	u n s
+069/067	uns	1	u n s
+069/069	uns	1	u n s
+069/071	uns	1	u n s
+069/073	uns	1	u n s
+069/075	uns	1	u n s
+069/077	uns	1	u n s
+069/079	uns	1	u n s
+069/081	uns	1	u n s
+069/083	uns	1	u n s
+069/085	uns	1	u n s
+069/087	uns	1	u n s
+069/089	uns	1	u n s
+069/091	uns	1	u n s
+069/093	uns	1	u n s
+069/095	uns	1	u n s
+069/097	us	1	u s
+069/099	uns	1	u n s
+069/101	uns	1	u n s
+069/103	us	1	u s
+069/105	uns	1	u n s
+069/107	uns	1	u n s
+069/109	uns	1	u n s
+069/111	uns	1	u n s
+069/147	ons	1	o n s
+069/149	NA	NA	-
+069/151	ons	1	o n s
+069/153	ons	1	o n s
+069/157	ons	1	o n s
+069/159	ons	1	o n s
+069/161	ons	1	o n s
+069/163	oins	1	oi n s
+069/165	uns	1	u n s
+070/019	eis	1	ei s
+070/023	is	1	i s
+070/025	ais	1	ai s
+070/027	es	1	e s
+070/029	us	1	u s
+070/031	us	1	u s
+070/033	us	1	u s
+070/035	us	1	u s
+070/037	oos	1	oo s
+070/039	us	1	u s
+070/041	us	1	u s
+070/043	us	1	u s
+070/045	uns	1	u n s
+070/047	NA	NA	-
+070/049	NA	NA	-
+070/051	uns	1	u n s
+070/053	uns	1	u n s
+070/055	ohns	1	oh n s
+070/057	uns	1	u n s
+070/059	uns	1	u n s
+070/061	os	1	o s
+070/063	uns	1	u n s
+070/065	uns	1	u n s
+070/067	uns	1	u n s
+070/069	NA	NA	-
+070/071	uns	1	u n s
+070/073	uns	1	u n s
+070/075	uns	1	u n s
+070/077	uns	1	u n s
+070/079	uns	1	u n s
+070/081	uns	1	u n s
+070/083	uns	1	u n s
+070/085	uns	1	u n s
+070/087	uns	1	u n s
+070/089	uns	1	u n s
+070/091	uns	1	u n s
+070/093	uns	1	u n s
+070/095	us	1	u s
+070/097	us	1	u s
+070/099	uns	1	u n s
+070/101	uns	1	u n s
+070/103	uns	1	u n s
+070/105	uns	1	u n s
+070/107	uns	1	u n s
+070/109	uns	1	u n s
+070/111	uns	1	u n s
+070/145	uns	1	u n s
+070/147	ons	1	o n s
+070/149	ons	1	o n s
+070/151	ons	1	o n s
+070/153	ons	1	o n s
+070/155	uns	1	u n s
+070/157	NA	NA	-
+070/159	ouns	1	ou n s
+070/161	ons	1	o n s
+070/163	oins	1	oi n s
+070/165	ons	1	o n s
+071/017	eeis	1	eei s
+071/019	eis	1	ei s
+071/021	eis	1	ei s
+071/023	ies	1	ie s
+071/025	ies	1	ie s
+071/027	ies	1	ie s
+071/029	us	1	u s
+071/031	os	1	o s
+071/033	es	1	e s
+071/035	us	1	u s
+071/037	uns	1	u n s
+071/039	us	1	u s
+071/041	uns	1	u n s
+071/043	uns	1	u n s
+071/045	uns	1	u n s
+071/047	uns	1	u n s
+071/049	uns	1	u n s
+071/051	uns	1	u n s
+071/053	uns	1	u n s
+071/055	uns	1	u n s
+071/057	uns	1	u n s
+071/059	uns	1	u n s
+071/063	NA	NA	-
+071/065	uns	1	u n s
+071/067	uns	1	u n s
+071/069	uns	1	u n s
+071/071	uns	1	u n s
+071/073	uns	1	u n s
+071/075	uns	1	u n s
+071/077	NA	NA	-
+071/079	NA	NA	-
+071/081	uns	1	u n s
+071/083	uns	1	u n s
+071/085	uns	1	u n s
+071/087	uns	1	u n s
+071/089	uns	1	u n s
+071/091	uns	1	u n s
+071/093	uns	1	u n s
+071/095	uns	1	u n s
+071/097	uns	1	u n s
+071/099	uns	1	u n s
+071/101	uns	1	u n s
+071/103	uns	1	u n s
+071/105	uns	1	u n s
+071/145	uns	1	u n s
+071/147	uns	1	u n s
+071/149	ouns	1	ou n s
+071/151	uns	1	u n s
+071/153	NA	NA	-
+071/155	uns	1	u n s
+071/157	ons	1	o n s
+071/159	NA	NA	-
+071/161	ons	1	o n s
+071/163	uns	1	u n s
+071/177	NA	NA	-
+071/179	uns	1	u n s
+072/017	eis	1	ei s
+072/019	eis	1	ei s
+072/021	eis	1	ei s
+072/023	ies	1	ie s
+072/025	ihss	1	ih ss
+072/027	ias	1	ia s
+072/029	s	1	s
+072/031	eess	1	ee ss
+072/033	es	1	e s
+072/035	us	1	u s
+072/037	us	1	u s
+072/039	us	1	u s
+072/041	NA	NA	-
+072/043	NA	NA	-
+072/045	NA	NA	-
+072/047	uns	1	u n s
+072/049	uns	1	u n s
+072/051	unns	1	u nn s
+072/053	uns	1	u n s
+072/055	os	1	o s
+072/057	uns	1	u n s
+072/059	os	1	o s
+072/061	es	1	e s
+072/063	uns	1	u n s
+072/065	uns	1	u n s
+072/067	uns	1	u n s
+072/069	uns	1	u n s
+072/071	uns	1	u n s
+072/073	uns	1	u n s
+072/075	uns	1	u n s
+072/077	uns	1	u n s
+072/079	uns	1	u n s
+072/081	uns	1	u n s
+072/083	uns	1	u n s
+072/085	uns	1	u n s
+072/087	uns	1	u n s
+072/089	uns	1	u n s
+072/091	uns	1	u n s
+072/093	uns	1	u n s
+072/095	uns	1	u n s
+072/097	uns	1	u n s
+072/099	uns	1	u n s
+072/101	uns	1	u n s
+072/103	uns	1	u n s
+072/105	uns	1	u n s
+072/107	uns	1	u n s
+072/145	uns	1	u n s
+072/147	uns	1	u n s
+072/149	uns	1	u n s
+072/151	uns	1	u n s
+072/153	ues	1	ue s
+072/155	uns	1	u n s
+072/157	uns	1	u n s
+072/159	ouns	1	ou n s
+072/161	oans	1	oa n s
+072/177	enz	1	e n z
+072/179	uns	1	u n s
+072/181	NA	NA	-
+073/017	eis	1	ei s
+073/019	ess	1	e ss
+073/021	eiis	1	eii s
+073/023	äis	1	äi s
+073/025	ies	1	ie s
+073/027	ons	1	o n s
+073/029	uhs	1	uh s
+073/031	oos	1	oo s
+073/033	us	1	u s
+073/035	us	1	u s
+073/037	uhs	1	uh s
+073/039	uns	1	u n s
+073/041	uns	1	u n s
+073/043	uns	1	u n s
+073/045	uns	1	u n s
+073/047	uns	1	u n s
+073/049	uns	1	u n s
+073/051	uns	1	u n s
+073/053	uns	1	u n s
+073/055	uns	1	u n s
+073/057	uns	1	u n s
+073/059	NA	NA	-
+073/061	uns	1	u n s
+073/063	uns	1	u n s
+073/065	uns	1	u n s
+073/067	uns	1	u n s
+073/069	uns	1	u n s
+073/071	uns	1	u n s
+073/073	ons	1	o n s
+073/075	NA	NA	-
+073/077	NA	NA	-
+073/079	NA	NA	-
+073/081	uns	1	u n s
+073/083	uns	1	u n s
+073/085	NA	NA	-
+073/087	uns	1	u n s
+073/089	uns	1	u n s
+073/091	uns	1	u n s
+073/093	uns	1	u n s
+073/095	uns	1	u n s
+073/097	uns	1	u n s
+073/099	uns	1	u n s
+073/101	uns	1	u n s
+073/103	uns	1	u n s
+073/105	uns	1	u n s
+073/107	NA	NA	-
+073/145	uns	1	u n s
+073/147	NA	NA	-
+073/149	uns	1	u n s
+073/151	uns	1	u n s
+073/153	uns	1	u n s
+073/155	uns	1	u n s
+073/157	uns	1	u n s
+073/159	NA	NA	-
+073/161	uns	1	u n s
+073/163	NA	NA	-
+073/165	uns	1	u n s
+073/175	ens	1	e n s
+073/177	ens	1	e n s
+074/019	äis	1	äi s
+074/021	eis	1	ei s
+074/023	eis	1	ei s
+074/025	is	1	i s
+074/027	ees	1	ee s
+074/029	us	1	u s
+074/031	uhs	1	uh s
+074/033	us	1	u s
+074/035	uhs	1	uh s
+074/037	uhs	1	uh s
+074/039	uns	1	u n s
+074/041	uns	1	u n s
+074/043	uns	1	u n s
+074/045	uns	1	u n s
+074/047	uns	1	u n s
+074/049	uns	1	u n s
+074/051	uns	1	u n s
+074/053	uns	1	u n s
+074/055	uns	1	u n s
+074/057	uns	1	u n s
+074/059	uns	1	u n s
+074/061	es	1	e s
+074/063	uns	1	u n s
+074/065	uns	1	u n s
+074/067	uns	1	u n s
+074/069	uns	1	u n s
+074/071	uns	1	u n s
+074/073	uns	1	u n s
+074/075	uns	1	u n s
+074/077	uns	1	u n s
+074/079	uns	1	u n s
+074/081	uns	1	u n s
+074/083	uns	1	u n s
+074/085	unds	1	u n d s
+074/087	uns	1	u n s
+074/089	uns	1	u n s
+074/091	uns	1	u n s
+074/093	uns	1	u n s
+074/095	uns	1	u n s
+074/097	uns	1	u n s
+074/099	uns	1	u n s
+074/101	NA	NA	-
+074/103	uns	1	u n s
+074/105	uns	1	u n s
+074/107	uns	1	u n s
+074/109	NA	NA	-
+074/145	es	1	e s
+074/147	NA	NA	-
+074/149	uns	1	u n s
+074/153	uns	1	u n s
+074/155	NA	NA	-
+074/157	es	1	e s
+074/159	ons	1	o n s
+074/161	NA	NA	-
+074/163	ons	1	o n s
+074/165	ons	1	o n s
+075/019	eis	1	ei s
+075/021	ons	1	o n s
+075/023	es	1	e s
+075/025	es	1	e s
+075/027	us	1	u s
+075/029	NA	NA	-
+075/031	us	1	u s
+075/033	us	1	u s
+075/035	uhs	1	uh s
+075/037	us	1	u s
+075/039	os	1	o s
+075/041	uns	1	u n s
+075/043	uns	1	u n s
+075/045	uns	1	u n s
+075/047	uns	1	u n s
+075/049	uns	1	u n s
+075/051	uns	1	u n s
+075/053	uns	1	u n s
+075/055	uns	1	u n s
+075/057	uns	1	u n s
+075/059	NA	NA	-
+075/061	uns	1	u n s
+075/063	uns	1	u n s
+075/065	uns	1	u n s
+075/067	uns	1	u n s
+075/069	NA	NA	-
+075/071	uns	1	u n s
+075/073	NA	NA	-
+075/075	uns	1	u n s
+075/077	es	1	e s
+075/079	uns	1	u n s
+075/081	uns	1	u n s
+075/083	uns	1	u n s
+075/085	uns	1	u n s
+075/087	uns	1	u n s
+075/089	uns	1	u n s
+075/091	uns	1	u n s
+075/093	uns	1	u n s
+075/095	uns	1	u n s
+075/097	uns	1	u n s
+075/099	uns	1	u n s
+075/101	NA	NA	-
+075/103	us	1	u s
+075/105	uns	1	u n s
+075/107	uns	1	u n s
+075/135	us	1	u s
+075/145	uns	1	u n s
+075/147	uns	1	u n s
+075/149	NA	NA	-
+075/155	uns	1	u n s
+075/157	uns	1	u n s
+075/159	uns	1	u n s
+075/161	ons	1	o n s
+075/163	ons	1	o n s
+075/165	uns	1	u n s
+076/019	eis	1	ei s
+076/021	eis	1	ei s
+076/023	eis	1	ei s
+076/025	is	1	i s
+076/027	os	1	o s
+076/029	os	1	o s
+076/033	us	1	u s
+076/035	uns	1	u n s
+076/037	uns	1	u n s
+076/039	uns	1	u n s
+076/041	uns	1	u n s
+076/043	uns	1	u n s
+076/045	uns	1	u n s
+076/047	uns	1	u n s
+076/049	uns	1	u n s
+076/051	uns	1	u n s
+076/053	uns	1	u n s
+076/055	NA	NA	-
+076/057	uns	1	u n s
+076/059	uns	1	u n s
+076/061	uns	1	u n s
+076/063	unsh	1	u n s h
+076/065	uns	1	u n s
+076/067	uns	1	u n s
+076/069	ins	1	i n s
+076/071	es	1	e s
+076/073	uns	1	u n s
+076/075	NA	NA	-
+076/077	es	1	e s
+076/079	uns	1	u n s
+076/081	uns	1	u n s
+076/083	uns	1	u n s
+076/085	uns	1	u n s
+076/087	uns	1	u n s
+076/089	uns	1	u n s
+076/091	uns	1	u n s
+076/093	uns	1	u n s
+076/095	uns	1	u n s
+076/097	uns	1	u n s
+076/099	uns	1	u n s
+076/101	NA	NA	-
+076/103	uns	1	u n s
+076/135	uns	1	u n s
+076/137	us	1	u s
+076/149	uns	1	u n s
+076/151	uns	1	u n s
+076/155	uns	1	u n s
+076/161	ons	1	o n s
+076/163	NA	NA	-
+076/165	NA	NA	-
+077/019	eis	1	ei s
+077/021	eis	1	ei s
+077/023	eiis	1	eii s
+077/025	ons	1	o n s
+077/027	os	1	o s
+077/029	us	1	u s
+077/031	uss	1	u ss
+077/033	os	1	o s
+077/035	uus	1	uu s
+077/037	NA	NA	-
+077/039	uns	1	u n s
+077/041	NA	NA	-
+077/043	uns	1	u n s
+077/047	uns	1	u n s
+077/049	uns	1	u n s
+077/051	uns	1	u n s
+077/053	uns	1	u n s
+077/055	uns	1	u n s
+077/057	uns	1	u n s
+077/059	unsch	1	u n sch
+077/061	uns	1	u n s
+077/063	NA	NA	-
+077/065	uns	1	u n s
+077/067	NA	NA	-
+077/069	uns	1	u n s
+077/071	NA	NA	-
+077/073	es	1	e s
+077/075	uns	1	u n s
+077/077	es	1	e s
+077/079	uns	1	u n s
+077/081	NA	NA	-
+077/083	uns	1	u n s
+077/085	uns	1	u n s
+077/087	uns	1	u n s
+077/089	uns	1	u n s
+077/091	uns	1	u n s
+077/093	uns	1	u n s
+077/095	uns	1	u n s
+077/097	uns	1	u n s
+077/099	uns	1	u n s
+077/101	uns	1	u n s
+077/103	uns	1	u n s
+077/135	uns	1	u n s
+077/137	uns	1	u n s
+078/021	eis	1	ei s
+078/023	eis	1	ei s
+078/025	us	1	u s
+078/027	ous	1	ou s
+078/029	ous	1	ou s
+078/031	us	1	u s
+078/033	uhs	1	uh s
+078/035	uns	1	u n s
+078/037	uns	1	u n s
+078/039	uns	1	u n s
+078/041	uns	1	u n s
+078/045	uns	1	u n s
+078/047	uns	1	u n s
+078/049	uns	1	u n s
+078/051	uns	1	u n s
+078/053	uns	1	u n s
+078/055	uns	1	u n s
+078/057	es	1	e s
+078/059	es	1	e s
+078/061	uns	1	u n s
+078/063	NA	NA	-
+078/065	uns	1	u n s
+078/067	uns	1	u n s
+078/069	uns	1	u n s
+078/071	uns	1	u n s
+078/073	uns	1	u n s
+078/075	es	1	e s
+078/077	uns	1	u n s
+078/079	uns	1	u n s
+078/081	uns	1	u n s
+078/083	us	1	u s
+078/085	uns	1	u n s
+078/087	uns	1	u n s
+078/089	uns	1	u n s
+078/091	uns	1	u n s
+078/093	uns	1	u n s
+078/095	uns	1	u n s
+078/097	uns	1	u n s
+078/099	uns	1	u n s
+078/101	NA	NA	-
+078/103	nuns	1	n u n s
+078/105	uns	1	u n s
+078/135	uns	1	u n s
+078/193	uns	1	u n s
+079/021	uns	1	u n s
+079/023	eis	1	ei s
+079/025	eis	1	ei s
+079/027	us	1	u s
+079/029	ons	1	o n s
+079/031	uns	1	u n s
+079/033	uns	1	u n s
+079/035	uns	1	u n s
+079/037	uns	1	u n s
+079/039	uns	1	u n s
+079/043	uns	1	u n s
+079/045	uns	1	u n s
+079/047	uns	1	u n s
+079/049	uns	1	u n s
+079/051	uns	1	u n s
+079/053	uns	1	u n s
+079/055	uns	1	u n s
+079/057	as	1	a s
+079/059	uns	1	u n s
+079/061	as	1	a s
+079/063	as	1	a s
+079/065	uns	1	u n s
+079/067	uns	1	u n s
+079/069	NA	NA	-
+079/071	uns	1	u n s
+079/073	uns	1	u n s
+079/075	uns	1	u n s
+079/077	uns	1	u n s
+079/079	as	1	a s
+079/081	uns	1	u n s
+079/083	uns	1	u n s
+079/085	uns	1	u n s
+079/087	uns	1	u n s
+079/089	uns	1	u n s
+079/091	uns	1	u n s
+079/093	uns	1	u n s
+079/095	uns	1	u n s
+079/097	uns	1	u n s
+079/099	nuns	1	n u n s
+079/101	NA	NA	-
+079/103	uns	1	u n s
+079/105	ous	1	ou s
+079/107	uns	1	u n s
+079/133	uns	1	u n s
+079/135	uns	1	u n s
+079/193	uns	1	u n s
+079/195	NA	NA	-
+079/197	ons	1	o n s
+080/025	us	1	u s
+080/027	us	1	u s
+080/029	uns	1	u n s
+080/031	uns	1	u n s
+080/033	uns	1	u n s
+080/035	uns	1	u n s
+080/037	NA	NA	-
+080/039	uns	1	u n s
+080/041	uns	1	u n s
+080/043	uns	1	u n s
+080/045	uns	1	u n s
+080/047	uns	1	u n s
+080/049	es	1	e s
+080/051	as	1	a s
+080/053	as	1	a s
+080/055	es	1	e s
+080/057	es	1	e s
+080/059	es	1	e s
+080/061	as	1	a s
+080/063	as	1	a s
+080/065	uns	1	u n s
+080/067	uns	1	u n s
+080/069	es	1	e s
+080/071	uns	1	u n s
+080/073	es	1	e s
+080/075	uns	1	u n s
+080/077	es	1	e s
+080/079	uns	1	u n s
+080/081	uns	1	u n s
+080/083	uns	1	u n s
+080/085	uns	1	u n s
+080/087	uns	1	u n s
+080/089	uns	1	u n s
+080/091	uns	1	u n s
+080/093	uns	1	u n s
+080/095	uns	1	u n s
+080/097	NA	NA	-
+080/099	uns	1	u n s
+080/101	uuns	1	uu n s
+080/103	uns	1	u n s
+080/105	uns	1	u n s
+080/107	uns	1	u n s
+080/109	uns	1	u n s
+080/127	ins	1	i n s
+080/147	uns	1	u n s
+080/151	ins	1	i n s
+080/153	nins	1	n i n s
+080/193	uns	1	u n s
+080/195	NA	NA	-
+081/025	ons	1	o n s
+081/027	us	1	u s
+081/029	uns	1	u n s
+081/031	us	1	u s
+081/033	uns	1	u n s
+081/035	uns	1	u n s
+081/037	uns	1	u n s
+081/039	uns	1	u n s
+081/043	uhs	1	uh s
+081/045	uns	1	u n s
+081/047	uns	1	u n s
+081/049	es	1	e s
+081/051	es	1	e s
+081/053	uns	1	u n s
+081/055	uns	1	u n s
+081/057	ons	1	o n s
+081/059	as	1	a s
+081/061	es	1	e s
+081/063	uns	1	u n s
+081/065	uns	1	u n s
+081/067	uns	1	u n s
+081/069	uns	1	u n s
+081/071	uns	1	u n s
+081/073	uns	1	u n s
+081/075	uns	1	u n s
+081/077	es	1	e s
+081/079	uns	1	u n s
+081/081	unsz	1	u n s z
+081/083	uns	1	u n s
+081/085	uns	1	u n s
+081/087	NA	NA	-
+081/089	uns	1	u n s
+081/091	uns	1	u n s
+081/093	uns	1	u n s
+081/095	NA	NA	-
+081/097	uns	1	u n s
+081/099	NA	NA	-
+081/101	NA	NA	-
+081/103	uns	1	u n s
+081/105	NA	NA	-
+081/107	uns	1	u n s
+081/109	NA	NA	-
+081/111	uns	1	u n s
+081/127	ins	1	i n s
+081/129	NA	NA	-
+081/133	ins	1	i n s
+081/147	ins	1	i n s
+081/191	NA	NA	-
+081/193	unts	1	u n t s
+081/195	NA	NA	-
+082/027	uns	1	u n s
+082/029	uus	1	uu s
+082/031	ons	1	o n s
+082/033	ons	1	o n s
+082/035	uns	1	u n s
+082/037	onns	1	o nn s
+082/039	uns	1	u n s
+082/041	es	1	e s
+082/043	NA	NA	-
+082/045	uns	1	u n s
+082/047	uns	1	u n s
+082/049	es	1	e s
+082/051	uns	1	u n s
+082/053	ons	1	o n s
+082/055	ons	1	o n s
+082/057	ons	1	o n s
+082/059	ons	1	o n s
+082/061	ons	1	o n s
+082/063	NA	NA	-
+082/065	as	1	a s
+082/067	aus	1	au s
+082/069	oos	1	oo s
+082/071	os	1	o s
+082/073	uns	1	u n s
+082/075	es	1	e s
+082/077	uns	1	u n s
+082/079	uns	1	u n s
+082/081	uns	1	u n s
+082/083	uns	1	u n s
+082/085	uns	1	u n s
+082/087	uns	1	u n s
+082/089	uns	1	u n s
+082/091	uns	1	u n s
+082/093	uns	1	u n s
+082/095	uns	1	u n s
+082/097	uns	1	u n s
+082/099	uns	1	u n s
+082/101	uns	1	u n s
+082/103	NA	NA	-
+082/105	uns	1	u n s
+082/107	uns	1	u n s
+082/111	NA	NA	-
+082/113	ons	1	o n s
+082/117	uns	1	u n s
+082/129	ins	1	i n s
+082/131	NA	NA	-
+082/133	ins	1	i n s
+082/135	ins	1	i n s
+082/145	ins	1	i n s
+082/147	ins	1	i n s
+082/191	uns	1	u n s
+082/195	uns	1	u n s
+083/027	os	1	o s
+083/029	us	1	u s
+083/031	NA	NA	-
+083/033	uns	1	u n s
+083/035	uns	1	u n s
+083/037	uns	1	u n s
+083/039	uns	1	u n s
+083/041	uns	1	u n s
+083/043	es	1	e s
+083/045	uns	1	u n s
+083/047	uns	1	u n s
+083/049	as	1	a s
+083/051	es	1	e s
+083/053	NA	NA	-
+083/055	ons	1	o n s
+083/057	as	1	a s
+083/059	as	1	a s
+083/061	oos	1	oo s
+083/063	os	1	o s
+083/065	os	1	o s
+083/067	uus	1	uu s
+083/069	oos	1	oo s
+083/071	os	1	o s
+083/073	os	1	o s
+083/075	uns	1	u n s
+083/077	es	1	e s
+083/079	uns	1	u n s
+083/081	uns	1	u n s
+083/083	uns	1	u n s
+083/085	uns	1	u n s
+083/087	uons	1	uo n s
+083/089	uns	1	u n s
+083/091	uns	1	u n s
+083/093	uns	1	u n s
+083/095	uns	1	u n s
+083/097	uns	1	u n s
+083/099	uns	1	u n s
+083/101	uns	1	u n s
+083/103	NA	NA	-
+083/105	uns	1	u n s
+083/107	uns	1	u n s
+083/111	uns	1	u n s
+083/113	NA	NA	-
+083/115	uns	1	u n s
+083/117	uns	1	u n s
+083/119	uns	1	u n s
+083/121	uns	1	u n s
+083/129	NA	NA	-
+083/131	uns	1	u n s
+083/133	uns	1	u n s
+083/135	ins	1	i n s
+083/139	uns	1	u n s
+083/143	NA	NA	-
+083/145	uns	1	u n s
+083/147	uns	1	u n s
+083/149	NA	NA	-
+083/173	NA	NA	-
+083/195	uns	1	u n s
+084/031	uns	1	u n s
+084/033	uns	1	u n s
+084/035	uns	1	u n s
+084/037	uns	1	u n s
+084/039	uns	1	u n s
+084/041	is	1	i s
+084/043	uns	1	u n s
+084/045	uns	1	u n s
+084/047	uns	1	u n s
+084/049	as	1	a s
+084/051	NA	NA	-
+084/053	is	1	i s
+084/055	ons	1	o n s
+084/057	NA	NA	-
+084/059	ons	1	o n s
+084/061	os	1	o s
+084/063	es	1	e s
+084/065	oos	1	oo s
+084/067	us	1	u s
+084/069	os	1	o s
+084/071	os	1	o s
+084/073	oos	1	oo s
+084/075	os	1	o s
+084/077	uns	1	u n s
+084/079	NA	NA	-
+084/081	uns	1	u n s
+084/083	uns	1	u n s
+084/085	uns	1	u n s
+084/087	uns	1	u n s
+084/089	uns	1	u n s
+084/091	uns	1	u n s
+084/093	uns	1	u n s
+084/095	uns	1	u n s
+084/097	uns	1	u n s
+084/099	uns	1	u n s
+084/101	uns	1	u n s
+084/103	uns	1	u n s
+084/105	uns	1	u n s
+084/107	uns	1	u n s
+084/109	uns	1	u n s
+084/111	nuns	1	n u n s
+084/113	uns	1	u n s
+084/115	NA	NA	-
+084/117	uns	1	u n s
+084/119	uns	1	u n s
+084/129	uns	1	u n s
+084/131	NA	NA	-
+084/133	uns	1	u n s
+084/135	uns	1	u n s
+084/137	uns	1	u n s
+084/139	uns	1	u n s
+084/141	uns	1	u n s
+084/143	uns	1	u n s
+084/145	uns	1	u n s
+084/147	uns	1	u n s
+084/149	uns	1	u n s
+084/171	uns	1	u n s
+084/173	ons	1	o n s
+084/195	ouns	1	ou n s
+085/031	uns	1	u n s
+085/033	uns	1	u n s
+085/035	uns	1	u n s
+085/037	uns	1	u n s
+085/039	uns	1	u n s
+085/041	ons	1	o n s
+085/043	ons	1	o n s
+085/045	uns	1	u n s
+085/047	es	1	e s
+085/049	NA	NA	-
+085/051	NA	NA	-
+085/053	os	1	o s
+085/055	as	1	a s
+085/057	ons	1	o n s
+085/059	ons	1	o n s
+085/061	os	1	o s
+085/063	os	1	o s
+085/065	oos	1	oo s
+085/067	uus	1	uu s
+085/069	us	1	u s
+085/071	os	1	o s
+085/073	oos	1	oo s
+085/075	os	1	o s
+085/077	oos	1	oo s
+085/079	uns	1	u n s
+085/081	NA	NA	-
+085/083	uns	1	u n s
+085/085	uns	1	u n s
+085/087	uns	1	u n s
+085/089	uns	1	u n s
+085/091	uns	1	u n s
+085/093	uns	1	u n s
+085/095	uns	1	u n s
+085/097	uns	1	u n s
+085/101	uns	1	u n s
+085/103	NA	NA	-
+085/105	uns	1	u n s
+085/107	uns	1	u n s
+085/109	uns	1	u n s
+085/111	uns	1	u n s
+085/113	NA	NA	-
+085/115	uns	1	u n s
+085/117	uns	1	u n s
+085/119	uns	1	u n s
+085/121	uns	1	u n s
+085/123	uns	1	u n s
+085/125	uns	1	u n s
+085/127	uns	1	u n s
+085/129	uns	1	u n s
+085/131	uns	1	u n s
+085/133	uns	1	u n s
+085/135	uns	1	u n s
+085/137	NA	NA	-
+085/139	NA	NA	-
+085/141	NA	NA	-
+085/143	ins	1	i n s
+085/145	NA	NA	-
+085/147	ins	1	i n s
+085/149	uns	1	u n s
+085/175	ums	1	u m s
+085/193	uns	1	u n s
+085/197	uns	1	u n s
+086/033	uns	1	u n s
+086/035	uns	1	u n s
+086/037	uns	1	u n s
+086/039	uns	1	u n s
+086/041	uns	1	u n s
+086/043	üns	1	ü n s
+086/045	uns	1	u n s
+086/047	uns	1	u n s
+086/049	uns	1	u n s
+086/051	NA	NA	-
+086/053	as	1	a s
+086/055	os	1	o s
+086/057	as	1	a s
+086/059	NA	NA	-
+086/061	es	1	e s
+086/063	as	1	a s
+086/065	os	1	o s
+086/067	oos	1	oo s
+086/069	os	1	o s
+086/071	ons	1	o n s
+086/073	us	1	u s
+086/075	oos	1	oo s
+086/077	ons	1	o n s
+086/079	uns	1	u n s
+086/081	uns	1	u n s
+086/083	uns	1	u n s
+086/085	uns	1	u n s
+086/087	uns	1	u n s
+086/089	uns	1	u n s
+086/091	uns	1	u n s
+086/093	uns	1	u n s
+086/095	uns	1	u n s
+086/097	uns	1	u n s
+086/099	uns	1	u n s
+086/101	uns	1	u n s
+086/103	uns	1	u n s
+086/105	uns	1	u n s
+086/107	uns	1	u n s
+086/109	uns	1	u n s
+086/111	uns	1	u n s
+086/113	NA	NA	-
+086/115	uns	1	u n s
+086/117	uns	1	u n s
+086/119	NA	NA	-
+086/121	NA	NA	-
+086/123	NA	NA	-
+086/125	uns	1	u n s
+086/127	uns	1	u n s
+086/129	uns	1	u n s
+086/131	uns	1	u n s
+086/133	uns	1	u n s
+086/135	NA	NA	-
+086/137	NA	NA	-
+086/139	uns	1	u n s
+086/141	uns	1	u n s
+086/143	NA	NA	-
+086/145	uns	1	u n s
+086/147	uns	1	u n s
+086/149	ins	1	i n s
+086/151	uns	1	u n s
+086/175	ums	1	u m s
+086/197	ons	1	o n s
+086/199	ons	1	o n s
+087/033	uns	1	u n s
+087/035	uns	1	u n s
+087/037	ons	1	o n s
+087/039	uns	1	u n s
+087/041	uns	1	u n s
+087/043	uns	1	u n s
+087/045	NA	NA	-
+087/049	NA	NA	-
+087/051	aos	1	ao s
+087/053	NA	NA	-
+087/055	os	1	o s
+087/057	oos	1	oo s
+087/059	aus	1	au s
+087/061	ons	1	o n s
+087/063	as	1	a s
+087/065	NA	NA	-
+087/067	oos	1	oo s
+087/069	os	1	o s
+087/071	oos	1	oo s
+087/073	us	1	u s
+087/075	uus	1	uu s
+087/077	os	1	o s
+087/079	uns	1	u n s
+087/081	uns	1	u n s
+087/083	uns	1	u n s
+087/085	uns	1	u n s
+087/087	uns	1	u n s
+087/089	uns	1	u n s
+087/091	uns	1	u n s
+087/093	uns	1	u n s
+087/095	uns	1	u n s
+087/097	uns	1	u n s
+087/099	uns	1	u n s
+087/101	uns	1	u n s
+087/103	uns	1	u n s
+087/105	uns	1	u n s
+087/107	uns	1	u n s
+087/109	uns	1	u n s
+087/111	uns	1	u n s
+087/113	uns	1	u n s
+087/115	uns	1	u n s
+087/117	uns	1	u n s
+087/119	uns	1	u n s
+087/121	uns	1	u n s
+087/123	uns	1	u n s
+087/125	NA	NA	-
+087/127	uns	1	u n s
+087/129	uns	1	u n s
+087/133	NA	NA	-
+087/135	uns	1	u n s
+087/137	uns	1	u n s
+087/139	uns	1	u n s
+087/141	NA	NA	-
+087/143	uns	1	u n s
+087/145	uns	1	u n s
+087/147	uns	1	u n s
+087/149	uns	1	u n s
+087/151	NA	NA	-
+088/035	uns	1	u n s
+088/037	öüns	1	öü n s
+088/039	ons	1	o n s
+088/041	NA	NA	-
+088/043	NA	NA	-
+088/045	uns	1	u n s
+088/047	eis	1	ei s
+088/049	eis	1	ei s
+088/051	aus	1	au s
+088/053	aus	1	au s
+088/055	aos	1	ao s
+088/057	aos	1	ao s
+088/059	uns	1	u n s
+088/061	aus	1	au s
+088/063	aus	1	au s
+088/065	uns	1	u n s
+088/067	os	1	o s
+088/069	os	1	o s
+088/071	uus	1	uu s
+088/073	NA	NA	-
+088/075	NA	NA	-
+088/077	oos	1	oo s
+088/079	uns	1	u n s
+088/081	uns	1	u n s
+088/083	ins	1	i n s
+088/085	uns	1	u n s
+088/087	uns	1	u n s
+088/089	uns	1	u n s
+088/091	uns	1	u n s
+088/093	uns	1	u n s
+088/095	uns	1	u n s
+088/097	NA	NA	-
+088/099	uns	1	u n s
+088/101	uns	1	u n s
+088/103	NA	NA	-
+088/105	uns	1	u n s
+088/107	uns	1	u n s
+088/109	uns	1	u n s
+088/113	NA	NA	-
+088/115	uns	1	u n s
+088/117	NA	NA	-
+088/121	uns	1	u n s
+088/123	ins	1	i n s
+088/127	uns	1	u n s
+088/129	uns	1	u n s
+088/131	uns	1	u n s
+088/137	uns	1	u n s
+088/139	uns	1	u n s
+088/141	uns	1	u n s
+088/143	NA	NA	-
+088/145	uns	1	u n s
+088/147	uns	1	u n s
+088/149	uns	1	u n s
+089/035	üns	1	ü n s
+089/037	uns	1	u n s
+089/039	uns	1	u n s
+089/041	uns	1	u n s
+089/043	ons	1	o n s
+089/045	is	1	i s
+089/047	eis	1	ei s
+089/049	eis	1	ei s
+089/051	aos	1	ao s
+089/053	aos	1	ao s
+089/055	aus	1	au s
+089/057	NA	NA	-
+089/059	aus	1	au s
+089/061	NA	NA	-
+089/063	eis	1	ei s
+089/065	eis	1	ei s
+089/067	us	1	u s
+089/069	oos	1	oo s
+089/071	os	1	o s
+089/073	uns	1	u n s
+089/075	us	1	u s
+089/077	uns	1	u n s
+089/079	ons	1	o n s
+089/081	uns	1	u n s
+089/083	uns	1	u n s
+089/085	NA	NA	-
+089/087	uns	1	u n s
+089/089	ins	1	i n s
+089/091	uns	1	u n s
+089/093	NA	NA	-
+089/095	uns	1	u n s
+089/097	uns	1	u n s
+089/099	uns	1	u n s
+089/101	uns	1	u n s
+089/103	NA	NA	-
+089/105	unz	1	u n z
+089/107	uns	1	u n s
+089/109	uns	1	u n s
+089/111	NA	NA	-
+089/113	uns	1	u n s
+089/115	uns	1	u n s
+089/117	NA	NA	-
+089/119	uns	1	u n s
+089/121	ins	1	i n s
+089/123	is	1	i s
+089/125	uns	1	u n s
+089/127	uns	1	u n s
+089/129	uns	1	u n s
+089/131	uns	1	u n s
+089/133	uns	1	u n s
+089/135	uns	1	u n s
+089/137	NA	NA	-
+089/139	uns	1	u n s
+089/141	uns	1	u n s
+089/143	uns	1	u n s
+089/145	NA	NA	-
+089/147	NA	NA	-
+089/149	uns	1	u n s
+090/035	ons	1	o n s
+090/037	uns	1	u n s
+090/039	uns	1	u n s
+090/041	ons	1	o n s
+090/043	uns	1	u n s
+090/045	uns	1	u n s
+090/047	is	1	i s
+090/049	eis	1	ei s
+090/051	eis	1	ei s
+090/053	aus	1	au s
+090/055	aus	1	au s
+090/057	aos	1	ao s
+090/059	aus	1	au s
+090/061	aus	1	au s
+090/063	eis	1	ei s
+090/065	es	1	e s
+090/067	NA	NA	-
+090/069	uns	1	u n s
+090/071	ous	1	ou s
+090/073	NA	NA	-
+090/075	uns	1	u n s
+090/077	uns	1	u n s
+090/079	uns	1	u n s
+090/081	NA	NA	-
+090/083	ins	1	i n s
+090/085	NA	NA	-
+090/087	ins	1	i n s
+090/089	NA	NA	-
+090/091	üns	1	ü n s
+090/093	uns	1	u n s
+090/095	uns	1	u n s
+090/097	uns	1	u n s
+090/099	uns	1	u n s
+090/101	uns	1	u n s
+090/103	uns	1	u n s
+090/105	uns	1	u n s
+090/107	uns	1	u n s
+090/109	ins	1	i n s
+090/111	uns	1	u n s
+090/113	NA	NA	-
+090/115	uns	1	u n s
+090/119	ins	1	i n s
+090/121	ins	1	i n s
+090/123	ins	1	i n s
+090/125	ins	1	i n s
+090/127	ins	1	i n s
+090/129	uns	1	u n s
+090/131	uns	1	u n s
+090/133	uns	1	u n s
+090/135	uns	1	u n s
+090/137	uns	1	u n s
+090/139	uns	1	u n s
+090/141	uns	1	u n s
+090/143	uuns	1	uu n s
+090/145	uns	1	u n s
+090/147	uns	1	u n s
+090/149	NA	NA	-
+090/151	uns	1	u n s
+091/035	NA	NA	-
+091/037	uns	1	u n s
+091/039	NA	NA	-
+091/041	uns	1	u n s
+091/043	NA	NA	-
+091/045	uns	1	u n s
+091/047	uns	1	u n s
+091/049	eis	1	ei s
+091/051	es	1	e s
+091/053	eis	1	ei s
+091/055	eis	1	ei s
+091/057	aus	1	au s
+091/059	aos	1	ao s
+091/061	üüs	1	üü s
+091/063	is	1	i s
+091/065	es	1	e s
+091/067	eis	1	ei s
+091/069	eis	1	ei s
+091/071	eus	1	eu s
+091/073	uns	1	u n s
+091/075	uns	1	u n s
+091/077	uns	1	u n s
+091/079	uns	1	u n s
+091/081	ins	1	i n s
+091/083	ins	1	i n s
+091/085	uns	1	u n s
+091/087	uns	1	u n s
+091/091	uns	1	u n s
+091/093	uns	1	u n s
+091/095	ins	1	i n s
+091/097	is	1	i s
+091/099	uns	1	u n s
+091/101	uns	1	u n s
+091/103	uns	1	u n s
+091/105	uns	1	u n s
+091/107	NA	NA	-
+091/109	uns	1	u n s
+091/111	ins	1	i n s
+091/113	uns	1	u n s
+091/115	NA	NA	-
+091/117	ins	1	i n s
+091/119	ins	1	i n s
+091/121	ins	1	i n s
+091/125	NA	NA	-
+091/129	uns	1	u n s
+091/131	uns	1	u n s
+091/133	uns	1	u n s
+091/135	uns	1	u n s
+091/137	uns	1	u n s
+091/139	uns	1	u n s
+091/141	uns	1	u n s
+091/143	uns	1	u n s
+091/145	NA	NA	-
+091/147	uns	1	u n s
+091/149	uns	1	u n s
+091/151	uns	1	u n s
+091/155	uns	1	u n s
+092/033	uns	1	u n s
+092/035	onns	1	o nn s
+092/037	uns	1	u n s
+092/039	uns	1	u n s
+092/041	uns	1	u n s
+092/043	uns	1	u n s
+092/045	iis	1	ii s
+092/047	is	1	i s
+092/049	is	1	i s
+092/051	es	1	e s
+092/053	aes	1	ae s
+092/055	es	1	e s
+092/057	NA	NA	-
+092/059	aus	1	au s
+092/061	eus	1	eu s
+092/063	NA	NA	-
+092/065	eis	1	ei s
+092/067	eis	1	ei s
+092/069	eis	1	ei s
+092/071	os	1	o s
+092/073	eis	1	ei s
+092/075	NA	NA	-
+092/077	uns	1	u n s
+092/079	uns	1	u n s
+092/081	us	1	u s
+092/083	üns	1	ü n s
+092/085	uuns	1	uu n s
+092/087	uns	1	u n s
+092/089	ins	1	i n s
+092/091	ins	1	i n s
+092/093	uns	1	u n s
+092/095	uns	1	u n s
+092/097	NA	NA	-
+092/099	ins	1	i n s
+092/101	uns	1	u n s
+092/103	uns	1	u n s
+092/105	ins	1	i n s
+092/107	ins	1	i n s
+092/109	ins	1	i n s
+092/111	NA	NA	-
+092/113	ins	1	i n s
+092/115	is	1	i s
+092/117	ins	1	i n s
+092/119	ins	1	i n s
+092/121	uns	1	u n s
+092/123	ins	1	i n s
+092/125	ins	1	i n s
+092/127	ins	1	i n s
+092/129	uns	1	u n s
+092/131	NA	NA	-
+092/133	uns	1	u n s
+092/135	uns	1	u n s
+092/137	uns	1	u n s
+092/139	NA	NA	-
+092/141	uns	1	u n s
+092/143	uns	1	u n s
+092/145	NA	NA	-
+092/147	uns	1	u n s
+092/149	uns	1	u n s
+092/151	uns	1	u n s
+093/035	uns	1	u n s
+093/037	ons	1	o n s
+093/039	is	1	i s
+093/041	uns	1	u n s
+093/043	iis	1	ii s
+093/045	üüs	1	üü s
+093/047	uns	1	u n s
+093/049	is	1	i s
+093/051	is	1	i s
+093/053	is	1	i s
+093/055	eis	1	ei s
+093/057	eis	1	ei s
+093/059	aus	1	au s
+093/061	eis	1	ei s
+093/063	eus	1	eu s
+093/065	uns	1	u n s
+093/067	eis	1	ei s
+093/069	eis	1	ei s
+093/071	eis	1	ei s
+093/073	uns	1	u n s
+093/075	üs	1	ü s
+093/077	eis	1	ei s
+093/079	ins	1	i n s
+093/081	ins	1	i n s
+093/083	üns	1	ü n s
+093/085	NA	NA	-
+093/087	uns	1	u n s
+093/089	NA	NA	-
+093/091	NA	NA	-
+093/093	uns	1	u n s
+093/095	NA	NA	-
+093/097	uns	1	u n s
+093/099	ins	1	i n s
+093/101	NA	NA	-
+093/103	ins	1	i n s
+093/105	uns	1	u n s
+093/109	ins	1	i n s
+093/111	NA	NA	-
+093/113	ins	1	i n s
+093/115	NA	NA	-
+093/117	ins	1	i n s
+093/119	NA	NA	-
+093/121	ins	1	i n s
+093/123	NA	NA	-
+093/125	uns	1	u n s
+093/127	uns	1	u n s
+093/129	NA	NA	-
+093/131	uns	1	u n s
+093/133	NA	NA	-
+093/137	uns	1	u n s
+093/139	uns	1	u n s
+093/143	NA	NA	-
+093/145	uns	1	u n s
+093/147	NA	NA	-
+093/149	uns	1	u n s
+093/151	uns	1	u n s
+093/153	uns	1	u n s
+093/155	NA	NA	-
+094/033	uus	1	uu s
+094/035	uns	1	u n s
+094/037	uns	1	u n s
+094/039	uns	1	u n s
+094/041	iss	1	i ss
+094/043	iis	1	ii s
+094/045	is	1	i s
+094/047	is	1	i s
+094/049	iis	1	ii s
+094/051	is	1	i s
+094/053	is	1	i s
+094/055	is	1	i s
+094/057	eis	1	ei s
+094/059	es	1	e s
+094/061	eis	1	ei s
+094/063	eis	1	ei s
+094/065	uns	1	u n s
+094/067	eis	1	ei s
+094/069	eis	1	ei s
+094/071	uns	1	u n s
+094/073	eis	1	ei s
+094/075	eus	1	eu s
+094/077	äis	1	äi s
+094/079	uns	1	u n s
+094/081	uns	1	u n s
+094/083	ins	1	i n s
+094/085	uns	1	u n s
+094/087	NA	NA	-
+094/089	ins	1	i n s
+094/091	ins	1	i n s
+094/093	üns	1	ü n s
+094/095	uns	1	u n s
+094/097	ins	1	i n s
+094/099	uns	1	u n s
+094/101	ins	1	i n s
+094/103	ins	1	i n s
+094/105	ins	1	i n s
+094/107	NA	NA	-
+094/109	ins	1	i n s
+094/111	NA	NA	-
+094/113	NA	NA	-
+094/115	ins	1	i n s
+094/117	ins	1	i n s
+094/119	ins	1	i n s
+094/121	ins	1	i n s
+094/123	ins	1	i n s
+094/125	uns	1	u n s
+094/127	NA	NA	-
+094/129	uns	1	u n s
+094/131	uns	1	u n s
+094/133	uns	1	u n s
+094/135	uns	1	u n s
+094/137	uns	1	u n s
+094/139	uns	1	u n s
+094/141	uns	1	u n s
+094/143	uns	1	u n s
+094/145	NA	NA	-
+094/147	uns	1	u n s
+094/149	uns	1	u n s
+094/151	uns	1	u n s
+094/153	uns	1	u n s
+095/031	is	1	i s
+095/033	uns	1	u n s
+095/035	uns	1	u n s
+095/037	uns	1	u n s
+095/039	uns	1	u n s
+095/041	uns	1	u n s
+095/043	uns	1	u n s
+095/045	üs	1	ü s
+095/047	is	1	i s
+095/049	iis	1	ii s
+095/051	es	1	e s
+095/053	is	1	i s
+095/055	iis	1	ii s
+095/057	eis	1	ei s
+095/059	eis	1	ei s
+095/061	eis	1	ei s
+095/063	eis	1	ei s
+095/065	eis	1	ei s
+095/067	eis	1	ei s
+095/069	NA	NA	-
+095/071	uns	1	u n s
+095/073	NA	NA	-
+095/075	eus	1	eu s
+095/077	eus	1	eu s
+095/079	ins	1	i n s
+095/081	ins	1	i n s
+095/083	uns	1	u n s
+095/085	uns	1	u n s
+095/087	uns	1	u n s
+095/089	ins	1	i n s
+095/091	ins	1	i n s
+095/093	uns	1	u n s
+095/095	ins	1	i n s
+095/097	NA	NA	-
+095/099	ins	1	i n s
+095/101	uns	1	u n s
+095/103	uns	1	u n s
+095/105	uns	1	u n s
+095/107	uns	1	u n s
+095/109	ins	1	i n s
+095/111	ins	1	i n s
+095/113	ins	1	i n s
+095/115	ins	1	i n s
+095/117	ins	1	i n s
+095/119	uns	1	u n s
+095/121	ins	1	i n s
+095/123	ins	1	i n s
+095/125	uns	1	u n s
+095/129	uns	1	u n s
+095/131	uns	1	u n s
+095/133	NA	NA	-
+095/139	uns	1	u n s
+095/141	uns	1	u n s
+095/143	uns	1	u n s
+095/145	uns	1	u n s
+095/147	uns	1	u n s
+095/149	uns	1	u n s
+095/151	uns	1	u n s
+095/153	uns	1	u n s
+095/155	uns	1	u n s
+096/031	uns	1	u n s
+096/033	uns	1	u n s
+096/035	ons	1	o n s
+096/037	uns	1	u n s
+096/039	uns	1	u n s
+096/041	is	1	i s
+096/043	is	1	i s
+096/045	is	1	i s
+096/047	is	1	i s
+096/049	is	1	i s
+096/051	üs	1	ü s
+096/053	uns	1	u n s
+096/055	uns	1	u n s
+096/057	uns	1	u n s
+096/059	uns	1	u n s
+096/061	is	1	i s
+096/063	is	1	i s
+096/065	eis	1	ei s
+096/067	eis	1	ei s
+096/069	eus	1	eu s
+096/071	eis	1	ei s
+096/075	eis	1	ei s
+096/077	ais	1	ai s
+096/079	eis	1	ei s
+096/081	ins	1	i n s
+096/083	ins	1	i n s
+096/085	ins	1	i n s
+096/087	uns	1	u n s
+096/089	uns	1	u n s
+096/091	NA	NA	-
+096/093	ins	1	i n s
+096/095	uns	1	u n s
+096/097	uns	1	u n s
+096/099	uns	1	u n s
+096/101	ins	1	i n s
+096/103	uns	1	u n s
+096/105	NA	NA	-
+096/107	uns	1	u n s
+096/109	uns	1	u n s
+096/111	ins	1	i n s
+096/113	ins	1	i n s
+096/115	ins	1	i n s
+096/117	ins	1	i n s
+096/119	ins	1	i n s
+096/121	ins	1	i n s
+096/123	ins	1	i n s
+096/125	uns	1	u n s
+096/129	uns	1	u n s
+096/131	uns	1	u n s
+096/135	uns	1	u n s
+096/137	NA	NA	-
+096/139	uns	1	u n s
+096/141	uns	1	u n s
+096/143	NA	NA	-
+096/145	ins	1	i n s
+096/147	uns	1	u n s
+096/151	ins	1	i n s
+096/153	uns	1	u n s
+096/155	uns	1	u n s
+097/031	uns	1	u n s
+097/033	uns	1	u n s
+097/035	is	1	i s
+097/037	onns	1	o nn s
+097/039	is	1	i s
+097/041	NA	NA	-
+097/043	iis	1	ii s
+097/045	is	1	i s
+097/047	is	1	i s
+097/049	iis	1	ii s
+097/051	is	1	i s
+097/053	üüs	1	üü s
+097/055	uns	1	u n s
+097/057	unns	1	u nn s
+097/059	is	1	i s
+097/061	iis	1	ii s
+097/063	is	1	i s
+097/065	is	1	i s
+097/067	eis	1	ei s
+097/069	eis	1	ei s
+097/071	ais	1	ai s
+097/073	eus	1	eu s
+097/075	eus	1	eu s
+097/077	uns	1	u n s
+097/079	ons	1	o n s
+097/081	NA	NA	-
+097/083	ins	1	i n s
+097/085	ins	1	i n s
+097/087	üns	1	ü n s
+097/089	ins	1	i n s
+097/091	ins	1	i n s
+097/093	NA	NA	-
+097/095	ins	1	i n s
+097/097	NA	NA	-
+097/099	NA	NA	-
+097/103	üns	1	ü n s
+097/105	uns	1	u n s
+097/107	NA	NA	-
+097/109	uns	1	u n s
+097/113	NA	NA	-
+097/125	ins	1	i n s
+097/131	uns	1	u n s
+097/133	uns	1	u n s
+097/139	uns	1	u n s
+097/141	ins	1	i n s
+097/143	uns	1	u n s
+097/145	ins	1	i n s
+097/149	NA	NA	-
+097/153	ins	1	i n s
+098/033	uns	1	u n s
+098/035	uns	1	u n s
+098/037	uns	1	u n s
+098/039	uns	1	u n s
+098/041	ins	1	i n s
+098/043	üs	1	ü s
+098/045	is	1	i s
+098/047	NA	NA	-
+098/049	üs	1	ü s
+098/051	üs	1	ü s
+098/053	üs	1	ü s
+098/055	is	1	i s
+098/057	uns	1	u n s
+098/059	iis	1	ii s
+098/061	is	1	i s
+098/063	ies	1	ie s
+098/065	is	1	i s
+098/067	is	1	i s
+098/069	is	1	i s
+098/071	iis	1	ii s
+098/073	NA	NA	-
+098/075	eus	1	eu s
+098/077	eus	1	eu s
+098/079	NA	NA	-
+098/081	uns	1	u n s
+098/083	uns	1	u n s
+098/085	NA	NA	-
+098/087	is	1	i s
+098/089	uns	1	u n s
+098/091	ins	1	i n s
+098/093	ins	1	i n s
+098/095	ins	1	i n s
+098/097	NA	NA	-
+098/103	üns	1	ü n s
+098/105	uns	1	u n s
+098/107	NA	NA	-
+098/109	NA	NA	-
+098/111	ins	1	i n s
+098/119	NA	NA	-
+098/123	NA	NA	-
+098/125	uns	1	u n s
+098/127	ins	1	i n s
+098/135	ins	1	i n s
+098/137	uns	1	u n s
+098/139	NA	NA	-
+098/141	NA	NA	-
+098/143	ins	1	i n s
+098/145	uns	1	u n s
+098/147	NA	NA	-
+098/149	ins	1	i n s
+098/151	iis	1	ii s
+099/033	uns	1	u n s
+099/035	uns	1	u n s
+099/037	es	1	e s
+099/039	is	1	i s
+099/041	es	1	e s
+099/043	äus	1	äu s
+099/045	üs	1	ü s
+099/047	NA	NA	-
+099/049	üs	1	ü s
+099/051	üüs	1	üü s
+099/053	us	1	u s
+099/055	üüs	1	üü s
+099/057	üs	1	ü s
+099/059	uns	1	u n s
+099/063	is	1	i s
+099/065	is	1	i s
+099/067	is	1	i s
+099/069	ihs	1	ih s
+099/071	NA	NA	-
+099/073	is	1	i s
+099/075	ais	1	ai s
+099/077	eis	1	ei s
+099/081	NA	NA	-
+099/083	NA	NA	-
+099/085	NA	NA	-
+099/089	ins	1	i n s
+099/093	ins	1	i n s
+099/095	NA	NA	-
+099/099	ins	1	i n s
+099/101	ins	1	i n s
+099/103	ins	1	i n s
+099/105	ins	1	i n s
+099/107	NA	NA	-
+099/109	ins	1	i n s
+099/111	ins	1	i n s
+099/113	ins	1	i n s
+099/121	is	1	i s
+099/123	uns	1	u n s
+099/125	unz	1	u n z
+099/131	uns	1	u n s
+099/137	uns	1	u n s
+099/139	ins	1	i n s
+099/141	uns	1	u n s
+099/143	ins	1	i n s
+099/145	NA	NA	-
+099/147	uns	1	u n s
+100/033	uns	1	u n s
+100/035	uns	1	u n s
+100/037	äis	1	äi s
+100/039	NA	NA	-
+100/041	üs	1	ü s
+100/043	ois	1	oi s
+100/045	eus	1	eu s
+100/049	NA	NA	-
+100/051	is	1	i s
+100/053	öis	1	öi s
+100/055	üs	1	ü s
+100/057	üs	1	ü s
+100/059	NA	NA	-
+100/061	üs	1	ü s
+100/065	is	1	i s
+100/067	is	1	i s
+100/069	is	1	i s
+100/071	is	1	i s
+100/073	üs	1	ü s
+100/075	is	1	i s
+100/077	eus	1	eu s
+100/081	uns	1	u n s
+100/083	ins	1	i n s
+100/089	ins	1	i n s
+100/093	ins	1	i n s
+100/095	ins	1	i n s
+100/097	NA	NA	-
+100/099	NA	NA	-
+100/101	NA	NA	-
+100/109	ins	1	i n s
+100/111	uns	1	u n s
+100/113	ins	1	i n s
+100/115	NA	NA	-
+100/117	ins	1	i n s
+100/119	ins	1	i n s
+100/121	NA	NA	-
+100/125	uns	1	u n s
+100/127	uns	1	u n s
+100/129	uns	1	u n s
+100/133	uns	1	u n s
+100/135	NA	NA	-
+100/141	NA	NA	-
+100/143	ins	1	i n s
+100/145	NA	NA	-
+101/035	eiss	1	ei ss
+101/037	eus	1	eu s
+101/039	eis	1	ei s
+101/041	eus	1	eu s
+101/043	NA	NA	-
+101/045	öis	1	öi s
+101/047	öis	1	öi s
+101/049	öis	1	öi s
+101/051	eus	1	eu s
+101/053	öis	1	öi s
+101/055	üs	1	ü s
+101/057	üs	1	ü s
+101/059	üs	1	ü s
+101/061	üs	1	ü s
+101/063	üüs	1	üü s
+101/065	üas	1	üa s
+101/067	üs	1	ü s
+101/071	iis	1	ii s
+101/075	üs	1	ü s
+101/077	eis	1	ei s
+101/079	üns	1	ü n s
+101/081	ins	1	i n s
+101/091	NA	NA	-
+101/093	üns	1	ü n s
+101/095	üns	1	ü n s
+101/097	ins	1	i n s
+101/099	ins	1	i n s
+101/101	ins	1	i n s
+101/103	ins	1	i n s
+101/107	uns	1	u n s
+101/109	ins	1	i n s
+101/113	ins	1	i n s
+101/115	uns	1	u n s
+101/121	NA	NA	-
+101/125	uns	1	u n s
+101/129	uns	1	u n s
+101/131	uns	1	u n s
+101/133	uns	1	u n s
+101/137	ins	1	i n s
+101/139	ins	1	i n s
+101/141	ins	1	i n s
+101/143	ins	1	i n s
+101/145	NA	NA	-
+101/147	uns	1	u n s
+102/037	öis	1	öi s
+102/039	öis	1	öi s
+102/041	is	1	i s
+102/043	öis	1	öi s
+102/045	öis	1	öi s
+102/047	is	1	i s
+102/049	öis	1	öi s
+102/051	is	1	i s
+102/053	NA	NA	-
+102/055	eus	1	eu s
+102/057	üs	1	ü s
+102/059	üs	1	ü s
+102/061	NA	NA	-
+102/063	NA	NA	-
+102/065	üs	1	ü s
+102/067	üs	1	ü s
+102/069	önsch	1	ö n sch
+102/071	is	1	i s
+102/073	ins	1	i n s
+102/075	ins	1	i n s
+102/077	ins	1	i n s
+102/079	NA	NA	-
+102/081	ins	1	i n s
+102/083	NA	NA	-
+102/089	ins	1	i n s
+102/091	NA	NA	-
+102/093	ins	1	i n s
+102/095	ins	1	i n s
+102/097	NA	NA	-
+102/099	ins	1	i n s
+102/103	ins	1	i n s
+102/107	uns	1	u n s
+102/109	ins	1	i n s
+102/113	NA	NA	-
+102/115	NA	NA	-
+102/127	uns	1	u n s
+102/129	ins	1	i n s
+102/131	uns	1	u n s
+102/135	ins	1	i n s
+102/137	ins	1	i n s
+102/139	ins	1	i n s
+102/141	ins	1	i n s
+102/143	ins	1	i n s
+102/145	NA	NA	-
+103/039	üs	1	ü s
+103/041	öüis	1	öüi s
+103/043	ööis	1	ööi s
+103/045	öis	1	öi s
+103/047	öis	1	öi s
+103/049	üs	1	ü s
+103/051	eus	1	eu s
+103/053	is	1	i s
+103/055	eus	1	eu s
+103/057	üs	1	ü s
+103/059	üs	1	ü s
+103/063	üs	1	ü s
+103/065	üs	1	ü s
+103/067	ös	1	ö s
+103/069	üs	1	ü s
+103/071	ünsch	1	ü n sch
+103/073	ins	1	i n s
+103/075	uns	1	u n s
+103/077	ins	1	i n s
+103/079	uns	1	u n s
+103/081	ins	1	i n s
+103/083	ins	1	i n s
+103/085	ins	1	i n s
+103/087	ins	1	i n s
+103/089	ins	1	i n s
+103/091	ins	1	i n s
+103/097	ins	1	i n s
+103/099	ins	1	i n s
+103/101	ins	1	i n s
+103/105	üns	1	ü n s
+103/107	ins	1	i n s
+103/111	ins	1	i n s
+103/121	uns	1	u n s
+103/125	uns	1	u n s
+103/127	ins	1	i n s
+103/131	uns	1	u n s
+103/133	NA	NA	-
+103/135	ins	1	i n s
+103/137	uns	1	u n s
+103/139	ins	1	i n s
+103/141	ins	1	i n s
+103/143	inz	1	i n z
+103/145	NA	NA	-
+104/033	üs	1	ü s
+104/035	üs	1	ü s
+104/037	üs	1	ü s
+104/039	is	1	i s
+104/041	NA	NA	-
+104/043	öis	1	öi s
+104/045	ois	1	oi s
+104/047	NA	NA	-
+104/049	öis	1	öi s
+104/051	üs	1	ü s
+104/053	NA	NA	-
+104/055	üs	1	ü s
+104/057	üs	1	ü s
+104/059	us	1	u s
+104/061	NA	NA	-
+104/063	üs	1	ü s
+104/065	us	1	u s
+104/067	üs	1	ü s
+104/071	ins	1	i n s
+104/075	ins	1	i n s
+104/077	ins	1	i n s
+104/079	ins	1	i n s
+104/081	ins	1	i n s
+104/083	ins	1	i n s
+104/085	ins	1	i n s
+104/091	NA	NA	-
+104/095	ins	1	i n s
+104/101	ins	1	i n s
+104/103	ins	1	i n s
+104/107	ins	1	i n s
+104/111	ins	1	i n s
+104/113	ins	1	i n s
+104/119	uns	1	u n s
+104/121	NA	NA	-
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	uns	1	u n s
+104/131	uns	1	u n s
+104/133	ins	1	i n s
+104/135	NA	NA	-
+104/137	ins	1	i n s
+104/139	ins	1	i n s
+104/141	ins	1	i n s
+104/143	is	1	i s
+104/145	ins	1	i n s
+105/031	üs	1	ü s
+105/033	NA	NA	-
+105/035	üs	1	ü s
+105/037	üs	1	ü s
+105/039	üs	1	ü s
+105/041	üs	1	ü s
+105/043	eus	1	eu s
+105/045	öis	1	öi s
+105/047	ühs	1	üh s
+105/049	NA	NA	-
+105/051	is	1	i s
+105/053	üüs	1	üü s
+105/055	üüs	1	üü s
+105/057	üüs	1	üü s
+105/059	üs	1	ü s
+105/061	üs	1	ü s
+105/063	üs	1	ü s
+105/065	üs	1	ü s
+105/067	üs	1	ü s
+105/069	üs	1	ü s
+105/071	ins	1	i n s
+105/073	üns	1	ü n s
+105/075	ins	1	i n s
+105/077	üns	1	ü n s
+105/079	ins	1	i n s
+105/081	ins	1	i n s
+105/085	NA	NA	-
+105/087	ins	1	i n s
+105/089	NA	NA	-
+105/103	ins	1	i n s
+105/105	ins	1	i n s
+105/111	ins	1	i n s
+105/113	uns	1	u n s
+105/115	uns	1	u n s
+105/117	uns	1	u n s
+105/119	uns	1	u n s
+105/121	uns	1	u n s
+105/125	uns	1	u n s
+105/127	NA	NA	-
+105/131	uns	1	u n s
+105/133	NA	NA	-
+105/135	ins	1	i n s
+105/137	NA	NA	-
+105/141	ins	1	i n s
+105/143	ins	1	i n s
+105/145	ins	1	i n s
+106/033	üs	1	ü s
+106/035	üs	1	ü s
+106/037	üs	1	ü s
+106/039	üs	1	ü s
+106/041	üüs	1	üü s
+106/043	üs	1	ü s
+106/045	NA	NA	-
+106/047	NA	NA	-
+106/049	öis	1	öi s
+106/051	NA	NA	-
+106/053	üs	1	ü s
+106/057	üs	1	ü s
+106/061	üs	1	ü s
+106/063	üs	1	ü s
+106/067	üs	1	ü s
+106/071	ins	1	i n s
+106/073	ins	1	i n s
+106/075	ins	1	i n s
+106/077	ins	1	i n s
+106/079	NA	NA	-
+106/081	ins	1	i n s
+106/085	ins	1	i n s
+106/087	NA	NA	-
+106/093	ins	1	i n s
+106/097	uns	1	u n s
+106/099	uns	1	u n s
+106/103	insch	1	i n sch
+106/111	NA	NA	-
+106/115	ins	1	i n s
+106/121	uns	1	u n s
+106/123	uns	1	u n s
+106/125	uns	1	u n s
+106/129	NA	NA	-
+106/131	uns	1	u n s
+106/133	uns	1	u n s
+106/135	ins	1	i n s
+106/137	ins	1	i n s
+106/139	NA	NA	-
+106/141	ins	1	i n s
+106/143	ins	1	i n s
+106/145	is	1	i s
+107/033	üs	1	ü s
+107/035	üs	1	ü s
+107/037	is	1	i s
+107/039	uus	1	uu s
+107/041	üs	1	ü s
+107/043	üs	1	ü s
+107/045	us	1	u s
+107/047	ijs	1	i j s
+107/049	iis	1	ii s
+107/051	NA	NA	-
+107/053	NA	NA	-
+107/057	üs	1	ü s
+107/059	NA	NA	-
+107/063	ünsch	1	ü n sch
+107/065	ünsch	1	ü n sch
+107/071	ins	1	i n s
+107/075	ins	1	i n s
+107/081	ins	1	i n s
+107/085	NA	NA	-
+107/087	ins	1	i n s
+107/089	ins	1	i n s
+107/091	ins	1	i n s
+107/097	NA	NA	-
+107/099	ins	1	i n s
+107/103	uns	1	u n s
+107/105	NA	NA	-
+107/107	uns	1	u n s
+107/111	NA	NA	-
+107/119	uns	1	u n s
+107/121	NA	NA	-
+107/123	uns	1	u n s
+107/125	NA	NA	-
+107/127	NA	NA	-
+107/129	NA	NA	-
+107/131	unz	1	u n z
+107/133	uns	1	u n s
+107/135	ins	1	i n s
+107/137	ins	1	i n s
+107/139	uns	1	u n s
+107/141	is	1	i s
+107/143	ins	1	i n s
+108/033	üs	1	ü s
+108/035	is	1	i s
+108/037	üs	1	ü s
+108/039	üs	1	ü s
+108/041	NA	NA	-
+108/043	üs	1	ü s
+108/047	NA	NA	-
+108/049	eiis	1	eii s
+108/063	üüs	1	üü s
+108/065	ünsch	1	ü n sch
+108/067	ünsch	1	ü n sch
+108/075	ins	1	i n s
+108/079	NA	NA	-
+108/081	ins	1	i n s
+108/085	ins	1	i n s
+108/087	ins	1	i n s
+108/091	ins	1	i n s
+108/099	NA	NA	-
+108/101	uns	1	u n s
+108/103	uns	1	u n s
+108/105	ins	1	i n s
+108/109	uns	1	u n s
+108/111	NA	NA	-
+108/113	ins	1	i n s
+108/117	uns	1	u n s
+108/119	uns	1	u n s
+108/121	NA	NA	-
+108/123	uns	1	u n s
+108/125	NA	NA	-
+108/127	uns	1	u n s
+108/129	uns	1	u n s
+108/131	üns	1	ü n s
+108/133	uns	1	u n s
+108/135	uns	1	u n s
+108/137	ins	1	i n s
+108/139	ins	1	i n s
+108/141	ins	1	i n s
+109/035	üüs	1	üü s
+109/037	üs	1	ü s
+109/039	üüs	1	üü s
+109/041	üs	1	ü s
+109/043	üs	1	ü s
+109/045	NA	NA	-
+109/049	uis	1	ui s
+109/053	NA	NA	-
+109/061	is	1	i s
+109/063	ünsch	1	ü n sch
+109/065	NA	NA	-
+109/067	NA	NA	-
+109/075	NA	NA	-
+109/083	ins	1	i n s
+109/087	ins	1	i n s
+109/089	ins	1	i n s
+109/091	ins	1	i n s
+109/093	ins	1	i n s
+109/095	NA	NA	-
+109/097	ins	1	i n s
+109/099	üns	1	ü n s
+109/101	NA	NA	-
+109/103	uns	1	u n s
+109/107	uns	1	u n s
+109/109	NA	NA	-
+109/111	uns	1	u n s
+109/113	uns	1	u n s
+109/115	ins	1	i n s
+109/117	uns	1	u n s
+109/119	NA	NA	-
+109/121	NA	NA	-
+109/123	uns	1	u n s
+109/125	uns	1	u n s
+109/127	uns	1	u n s
+109/129	uns	1	u n s
+109/131	uns	1	u n s
+109/133	NA	NA	-
+109/135	uns	1	u n s
+109/137	NA	NA	-
+109/139	ins	1	i n s
+110/035	üs	1	ü s
+110/039	üs	1	ü s
+110/041	uus	1	uu s
+110/043	is	1	i s
+110/045	is	1	i s
+110/047	iis	1	ii s
+110/049	NA	NA	-
+110/057	NA	NA	-
+110/061	insch	1	i n sch
+110/065	insch	1	i n sch
+110/075	inz	1	i n z
+110/079	NA	NA	-
+110/081	ins	1	i n s
+110/083	NA	NA	-
+110/087	NA	NA	-
+110/089	uns	1	u n s
+110/091	ins	1	i n s
+110/093	NA	NA	-
+110/095	ins	1	i n s
+110/097	ins	1	i n s
+110/099	NA	NA	-
+110/101	ins	1	i n s
+110/105	NA	NA	-
+110/107	uns	1	u n s
+110/111	uns	1	u n s
+110/113	uns	1	u n s
+110/115	uns	1	u n s
+110/117	uns	1	u n s
+110/119	uns	1	u n s
+110/121	NA	NA	-
+110/125	uns	1	u n s
+110/127	NA	NA	-
+110/129	NA	NA	-
+110/131	NA	NA	-
+110/133	NA	NA	-
+110/135	uns	1	u n s
+110/137	NA	NA	-
+110/139	ins	1	i n s
+111/035	NA	NA	-
+111/037	NA	NA	-
+111/039	üs	1	ü s
+111/041	NA	NA	-
+111/043	NA	NA	-
+111/045	üs	1	ü s
+111/059	önsch	1	ö n sch
+111/073	ins	1	i n s
+111/075	ints	1	i n t s
+111/077	inrs	1	i n r s
+111/079	NA	NA	-
+111/081	NA	NA	-
+111/083	ins	1	i n s
+111/087	üns	1	ü n s
+111/089	ins	1	i n s
+111/105	uns	1	u n s
+111/107	uns	1	u n s
+111/109	uns	1	u n s
+111/111	uns	1	u n s
+111/113	NA	NA	-
+111/115	NA	NA	-
+111/117	uns	1	u n s
+111/119	NA	NA	-
+111/121	ins	1	i n s
+111/123	uns	1	u n s
+111/125	uns	1	u n s
+112/037	NA	NA	-
+112/039	NA	NA	-
+112/041	üs	1	ü s
+112/043	iis	1	ii s
+112/047	insch	1	i n sch
+112/059	isch	1	i sch
+112/061	NA	NA	-
+112/063	ünsch	1	ü n sch
+112/075	NA	NA	-
+112/081	NA	NA	-
+112/083	NA	NA	-
+112/085	ins	1	i n s
+112/111	uns	1	u n s
+112/115	NA	NA	-
+112/117	uns	1	u n s
+112/119	uns	1	u n s
+113/035	üns	1	ü n s
+113/037	NA	NA	-
+113/039	üs	1	ü s
+113/047	insch	1	i n sch
+113/079	ins	1	i n s
+113/081	ins	1	i n s
+113/083	ins	1	i n s
+113/085	ins	1	i n s
+113/087	ins	1	i n s
+113/121	uns	1	u n s
+113/123	uns	1	u n s
+114/035	NA	NA	-
+114/045	insch	1	i n sch
+114/083	ins	1	i n s
+114/085	ins	1	i n s
+115/041	NA	NA	-
+115/043	NA	NA	-
+115/045	isch	1	i sch
+115/083	ins	1	i n s
+115/085	ins	1	i n s
+116/043	NA	NA	-
+116/045	isch	1	i sch
+116/083	ins	1	i n s
+117/043	isch	1	i sch
+117/045	isch	1	i sch
+118/041	isch	1	i sch
+119/083	üsch	1	ü sch
+120/085	NA	NA	-
+121/127	insch	1	i n sch
+122/127	insch	1	i n sch
+122/129	insch	1	i n sch
+123/081	NA	NA	-
+123/123	insch	1	i n sch
+123/125	insch	1	i n sch
+123/127	insch	1	i n sch
+123/129	insch	1	i n sch
+124/125	ensch	1	e n sch
+124/127	insch	1	i n sch
+124/129	insch	1	i n sch

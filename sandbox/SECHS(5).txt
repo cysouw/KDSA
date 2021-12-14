@@ -1,0 +1,5893 @@
+locations	strings	cognateID	alignments
+001/203	sess	1	s e ss
+002/201	sess	1	s e ss
+002/203	ses	1	s e s
+002/205	sess	1	s e ss
+003/203	ses	1	s e s
+003/205	sess	1	s e ss
+004/205	ses	1	s e s
+005/205	sess	1	s e ss
+005/207	sess	1	s e ss
+006/205	sess	1	s e ss
+006/207	ses	1	s e s
+007/205	sess	1	s e ss
+007/207	sess	1	s e ss
+007/209	sess	1	s e ss
+007/211	ses	1	s e s
+008/199	sess	1	s e ss
+008/203	ses	1	s e s
+008/205	ses	1	s e s
+008/207	sechs	1	s e ch s
+008/209	sess	1	s e ss
+008/211	sess	1	s e ss
+008/213	secks	1	s e ck s
+009/199	sess	1	s e ss
+009/203	sess	1	s e ss
+009/207	sess	1	s e ss
+009/209	sess	1	s e ss
+009/211	sess	1	s e ss
+009/213	ses	1	s e s
+009/215	söss	1	s ö ss
+009/217	seks	1	s e k s
+010/195	sess	1	s e ss
+010/203	ses	1	s e s
+010/207	sess	1	s e ss
+010/209	säs	1	s ä s
+010/211	sechs	1	s e ch s
+010/213	sechs	1	s e ch s
+010/215	seks	1	s e k s
+010/217	seks	1	s e k s
+010/219	secks	1	s e ck s
+011/049	sahs	1	s ah s
+011/053	seis	1	s ei s
+011/055	seis	1	s ei s
+011/057	seis	1	s ei s
+011/059	sejs	1	s e j s
+011/061	seis	1	s ei s
+011/063	seis	1	s ei s
+011/065	seis	1	s ei s
+011/067	seis	1	s ei s
+011/069	NA	NA	-
+011/187	sess	1	s e ss
+011/189	sess	1	s e ss
+011/191	NA	NA	-
+011/195	ses	1	s e s
+011/197	sess	1	s e ss
+011/203	secks	1	s e ck s
+011/205	sess	1	s e ss
+011/207	sess	1	s e ss
+011/209	sess	1	s e ss
+011/211	sechs	1	s e ch s
+011/213	sechs	1	s e ch s
+011/215	sechs	1	s e ch s
+011/217	sess	1	s e ss
+011/219	sechs	1	s e ch s
+012/047	sogs	1	s o g s
+012/049	soks	1	s o k s
+012/051	seeg	1	s ee g
+012/053	säis	1	s äi s
+012/055	sejs	1	s e j s
+012/057	sejs	1	s e j s
+012/059	seis	1	s ei s
+012/061	seis	1	s ei s
+012/063	seis	1	s ei s
+012/065	seis	1	s ei s
+012/067	seis	1	s ei s
+012/069	seis	1	s ei s
+012/187	sess	1	s e ss
+012/189	sess	1	s e ss
+012/191	säss	1	s ä ss
+012/193	sess	1	s e ss
+012/195	sess	1	s e ss
+012/197	sess	1	s e ss
+012/199	sess	1	s e ss
+012/201	ses	1	s e s
+012/203	ses	1	s e s
+012/205	sess	1	s e ss
+012/207	säss	1	s ä ss
+012/209	sehs	1	s eh s
+012/211	seks	1	s e k s
+012/213	sechs	1	s e ch s
+012/215	secks	1	s e ck s
+012/217	sechs	1	s e ch s
+012/219	sechs	1	s e ch s
+012/221	sechs	1	s e ch s
+012/223	sechs	1	s e ch s
+013/051	segs	1	s e g s
+013/053	seks	1	s e k s
+013/055	seks	1	s e k s
+013/057	seis	1	s ei s
+013/059	seg	1	s e g
+013/061	söss	1	s ö ss
+013/063	söss	1	s ö ss
+013/065	söss	1	s ö ss
+013/067	söss	1	s ö ss
+013/161	ses	1	s e s
+013/163	ses	1	s e s
+013/165	ses	1	s e s
+013/167	ses	1	s e s
+013/187	säss	1	s ä ss
+013/189	ses	1	s e s
+013/191	sess	1	s e ss
+013/193	sess	1	s e ss
+013/195	ses	1	s e s
+013/197	sess	1	s e ss
+013/199	sess	1	s e ss
+013/201	sess	1	s e ss
+013/203	sess	1	s e ss
+013/207	sess	1	s e ss
+013/209	sess	1	s e ss
+013/211	sechs	1	s e ch s
+013/213	sechs	1	s e ch s
+013/215	secks	1	s e ck s
+013/217	sechs	1	s e ch s
+013/219	sechs	1	s e ch s
+013/221	sechs	1	s e ch s
+013/223	sechs	1	s e ch s
+014/047	soks	1	s o k s
+014/049	säks	1	s ä k s
+014/051	secks	1	s e ck s
+014/053	sex	1	s e x
+014/055	seeks	1	s ee k s
+014/057	NA	NA	-
+014/059	söss	1	s ö ss
+014/061	sös	1	s ö s
+014/063	söss	1	s ö ss
+014/065	sös	1	s ö s
+014/067	söss	1	s ö ss
+014/109	söss	1	s ö ss
+014/159	sess	1	s e ss
+014/161	ses	1	s e s
+014/163	sahs	1	s ah s
+014/165	sess	1	s e ss
+014/167	ses	1	s e s
+014/169	sess	1	s e ss
+014/187	sess	1	s e ss
+014/189	ses	1	s e s
+014/191	ses	1	s e s
+014/193	sess	1	s e ss
+014/195	sess	1	s e ss
+014/197	ses	1	s e s
+014/199	sess	1	s e ss
+014/201	säss	1	s ä ss
+014/203	ses	1	s e s
+014/205	sess	1	s e ss
+014/207	ses	1	s e s
+014/209	ses	1	s e s
+014/211	sechs	1	s e ch s
+014/213	sechs	1	s e ch s
+014/215	sechs	1	s e ch s
+014/217	seks	1	s e k s
+014/219	sechs	1	s e ch s
+014/221	sechs	1	s e ch s
+015/049	säks	1	s ä k s
+015/051	segs	1	s e g s
+015/053	seghs	1	s e g h s
+015/055	seeks	1	s ee k s
+015/057	sichs	1	s i ch s
+015/059	söss	1	s ö ss
+015/061	söss	1	s ö ss
+015/063	söss	1	s ö ss
+015/065	söss	1	s ö ss
+015/067	söss	1	s ö ss
+015/105	söss	1	s ö ss
+015/107	söss	1	s ö ss
+015/109	söss	1	s ö ss
+015/151	sess	1	s e ss
+015/153	sess	1	s e ss
+015/155	ses	1	s e s
+015/157	sess	1	s e ss
+015/159	sess	1	s e ss
+015/161	sos	1	s o s
+015/163	sess	1	s e ss
+015/165	sess	1	s e ss
+015/167	ses	1	s e s
+015/169	sess	1	s e ss
+015/173	söss	1	s ö ss
+015/187	säss	1	s ä ss
+015/191	sess	1	s e ss
+015/193	sess	1	s e ss
+015/195	sess	1	s e ss
+015/197	ses	1	s e s
+015/199	NA	NA	-
+015/201	NA	NA	-
+015/203	sess	1	s e ss
+015/205	ses	1	s e s
+015/207	sess	1	s e ss
+015/209	sechs	1	s e ch s
+015/211	sess	1	s e ss
+015/213	sechs	1	s e ch s
+015/215	sechs	1	s e ch s
+015/217	sechs	1	s e ch s
+015/219	sechs	1	s e ch s
+015/221	NA	NA	-
+016/051	seks	1	s e k s
+016/055	seechs	1	s ee ch s
+016/057	söss	1	s ö ss
+016/059	söss	1	s ö ss
+016/061	söss	1	s ö ss
+016/063	sös	1	s ö s
+016/065	sös	1	s ö s
+016/067	söss	1	s ö ss
+016/081	söss	1	s ö ss
+016/083	söss	1	s ö ss
+016/105	söss	1	s ö ss
+016/107	söss	1	s ö ss
+016/109	söss	1	s ö ss
+016/111	söss	1	s ö ss
+016/145	sess	1	s e ss
+016/147	söss	1	s ö ss
+016/149	söss	1	s ö ss
+016/151	sess	1	s e ss
+016/153	söss	1	s ö ss
+016/155	sess	1	s e ss
+016/157	ses	1	s e s
+016/159	sess	1	s e ss
+016/161	söss	1	s ö ss
+016/163	sess	1	s e ss
+016/165	ses	1	s e s
+016/167	ses	1	s e s
+016/187	ses	1	s e s
+016/189	sess	1	s e ss
+016/191	ses	1	s e s
+016/193	sess	1	s e ss
+016/195	ses	1	s e s
+016/197	sess	1	s e ss
+016/199	sess	1	s e ss
+016/201	sess	1	s e ss
+016/203	sess	1	s e ss
+016/205	ses	1	s e s
+016/209	sechs	1	s e ch s
+016/211	sechs	1	s e ch s
+016/213	secks	1	s e ck s
+016/215	sechs	1	s e ch s
+016/217	sechs	1	s e ch s
+016/219	sechs	1	s e ch s
+017/055	sös	1	s ö s
+017/057	sös	1	s ö s
+017/059	söss	1	s ö ss
+017/061	süss	1	s ü ss
+017/063	sös	1	s ö s
+017/065	sös	1	s ö s
+017/067	sös	1	s ö s
+017/069	söss	1	s ö ss
+017/081	sös	1	s ö s
+017/083	sös	1	s ö s
+017/099	söss	1	s ö ss
+017/101	söss	1	s ö ss
+017/103	söss	1	s ö ss
+017/107	söss	1	s ö ss
+017/109	sös	1	s ö s
+017/145	ses	1	s e s
+017/147	sös	1	s ö s
+017/149	ses	1	s e s
+017/151	sess	1	s e ss
+017/153	sess	1	s e ss
+017/155	söss	1	s ö ss
+017/157	sess	1	s e ss
+017/159	ses	1	s e s
+017/161	sess	1	s e ss
+017/163	ses	1	s e s
+017/165	söss	1	s ö ss
+017/169	sähss	1	s äh ss
+017/171	ses	1	s e s
+017/183	sess	1	s e ss
+017/185	ses	1	s e s
+017/187	ses	1	s e s
+017/189	sess	1	s e ss
+017/191	sess	1	s e ss
+017/193	sess	1	s e ss
+017/195	ses	1	s e s
+017/197	sess	1	s e ss
+017/199	ses	1	s e s
+017/201	ses	1	s e s
+017/203	sess	1	s e ss
+017/205	sess	1	s e ss
+017/207	ses	1	s e s
+017/209	sechs	1	s e ch s
+017/211	sächs	1	s ä ch s
+017/213	sechs	1	s e ch s
+017/215	sechs	1	s e ch s
+017/217	sechs	1	s e ch s
+017/219	seks	1	s e k s
+018/051	siis	1	s ii s
+018/053	sös	1	s ö s
+018/055	söss	1	s ö ss
+018/057	sös	1	s ö s
+018/059	sös	1	s ö s
+018/061	sös	1	s ö s
+018/063	süss	1	s ü ss
+018/065	sös	1	s ö s
+018/067	söss	1	s ö ss
+018/069	NA	NA	-
+018/071	sös	1	s ö s
+018/073	süss	1	s ü ss
+018/075	süss	1	s ü ss
+018/079	söss	1	s ö ss
+018/081	söhs	1	s öh s
+018/097	söss	1	s ö ss
+018/099	sös	1	s ö s
+018/103	söss	1	s ö ss
+018/105	söss	1	s ö ss
+018/107	söss	1	s ö ss
+018/109	söss	1	s ö ss
+018/111	söss	1	s ö ss
+018/143	söss	1	s ö ss
+018/145	sös	1	s ö s
+018/147	söss	1	s ö ss
+018/149	ses	1	s e s
+018/151	ses	1	s e s
+018/153	ses	1	s e s
+018/155	söss	1	s ö ss
+018/157	sess	1	s e ss
+018/159	ses	1	s e s
+018/161	ses	1	s e s
+018/163	säs	1	s ä s
+018/165	sess	1	s e ss
+018/169	sas	1	s a s
+018/171	sess	1	s e ss
+018/173	ses	1	s e s
+018/181	sess	1	s e ss
+018/185	sess	1	s e ss
+018/187	ses	1	s e s
+018/189	NA	NA	-
+018/191	sess	1	s e ss
+018/193	ses	1	s e s
+018/195	ses	1	s e s
+018/197	sess	1	s e ss
+018/199	sess	1	s e ss
+018/201	sess	1	s e ss
+018/203	ses	1	s e s
+018/205	ses	1	s e s
+018/207	sess	1	s e ss
+018/209	sechs	1	s e ch s
+018/211	sechs	1	s e ch s
+018/213	sechs	1	s e ch s
+018/215	sechs	1	s e ch s
+018/219	sechs	1	s e ch s
+019/051	söss	1	s ö ss
+019/053	süss	1	s ü ss
+019/055	süss	1	s ü ss
+019/057	söss	1	s ö ss
+019/059	süs	1	s ü s
+019/061	söss	1	s ö ss
+019/063	süs	1	s ü s
+019/065	süss	1	s ü ss
+019/067	sühs	1	s üh s
+019/069	sös	1	s ö s
+019/071	söss	1	s ö ss
+019/073	söss	1	s ö ss
+019/075	söss	1	s ö ss
+019/077	söss	1	s ö ss
+019/079	sös	1	s ö s
+019/081	söss	1	s ö ss
+019/097	sös	1	s ö s
+019/099	söss	1	s ö ss
+019/101	sös	1	s ö s
+019/103	söhs	1	s öh s
+019/105	söhs	1	s öh s
+019/107	sös	1	s ö s
+019/109	söss	1	s ö ss
+019/143	söas	1	s öa s
+019/145	NA	NA	-
+019/147	söss	1	s ö ss
+019/149	ses	1	s e s
+019/151	sess	1	s e ss
+019/153	ses	1	s e s
+019/155	sess	1	s e ss
+019/157	NA	NA	-
+019/159	sess	1	s e ss
+019/161	ses	1	s e s
+019/163	ses	1	s e s
+019/165	sess	1	s e ss
+019/167	säs	1	s ä s
+019/169	sas	1	s a s
+019/171	sess	1	s e ss
+019/173	sess	1	s e ss
+019/175	säs	1	s ä s
+019/177	säss	1	s ä ss
+019/179	sess	1	s e ss
+019/181	sess	1	s e ss
+019/183	NA	NA	-
+019/185	ses	1	s e s
+019/187	säs	1	s ä s
+019/189	ses	1	s e s
+019/191	sess	1	s e ss
+019/193	ses	1	s e s
+019/195	säss	1	s ä ss
+019/197	sess	1	s e ss
+019/199	ses	1	s e s
+019/201	sess	1	s e ss
+019/203	ses	1	s e s
+019/205	ses	1	s e s
+019/207	ses	1	s e s
+019/209	sess	1	s e ss
+019/211	sechs	1	s e ch s
+019/213	sächs	1	s ä ch s
+019/215	seks	1	s e k s
+019/217	NA	NA	-
+019/219	sechs	1	s e ch s
+020/043	ssöss	1	ss ö ss
+020/053	süss	1	s ü ss
+020/055	söss	1	s ö ss
+020/057	süss	1	s ü ss
+020/059	süs	1	s ü s
+020/061	süs	1	s ü s
+020/063	söss	1	s ö ss
+020/065	söss	1	s ö ss
+020/067	söss	1	s ö ss
+020/069	sös	1	s ö s
+020/071	söss	1	s ö ss
+020/073	sös	1	s ö s
+020/075	sös	1	s ö s
+020/077	säs	1	s ä s
+020/079	söss	1	s ö ss
+020/081	söss	1	s ö ss
+020/095	sös	1	s ö s
+020/097	söss	1	s ö ss
+020/099	sös	1	s ö s
+020/101	söss	1	s ö ss
+020/103	säss	1	s ä ss
+020/105	söss	1	s ö ss
+020/107	söss	1	s ö ss
+020/135	sechs	1	s e ch s
+020/137	söss	1	s ö ss
+020/139	sös	1	s ö s
+020/141	söss	1	s ö ss
+020/143	söss	1	s ö ss
+020/145	ses	1	s e s
+020/147	sess	1	s e ss
+020/149	sess	1	s e ss
+020/151	ses	1	s e s
+020/153	ses	1	s e s
+020/155	sess	1	s e ss
+020/157	sess	1	s e ss
+020/159	ses	1	s e s
+020/161	sess	1	s e ss
+020/163	ses	1	s e s
+020/165	ses	1	s e s
+020/167	sess	1	s e ss
+020/169	sess	1	s e ss
+020/171	sess	1	s e ss
+020/173	säs	1	s ä s
+020/175	säs	1	s ä s
+020/177	sas	1	s a s
+020/179	ses	1	s e s
+020/181	säss	1	s ä ss
+020/183	sess	1	s e ss
+020/185	sess	1	s e ss
+020/187	sechs	1	s e ch s
+020/189	sess	1	s e ss
+020/191	ses	1	s e s
+020/193	ses	1	s e s
+020/195	sess	1	s e ss
+020/197	ses	1	s e s
+020/199	säs	1	s ä s
+020/201	sess	1	s e ss
+020/203	sess	1	s e ss
+020/205	sächs	1	s ä ch s
+020/207	sechs	1	s e ch s
+020/209	sechs	1	s e ch s
+020/211	sess	1	s e ss
+020/213	sechs	1	s e ch s
+020/215	sechs	1	s e ch s
+020/217	seks	1	s e k s
+020/219	sechs	1	s e ch s
+021/055	söss	1	s ö ss
+021/057	söss	1	s ö ss
+021/059	süss	1	s ü ss
+021/061	söss	1	s ö ss
+021/063	söss	1	s ö ss
+021/065	sös	1	s ö s
+021/067	söss	1	s ö ss
+021/069	söss	1	s ö ss
+021/071	süss	1	s ü ss
+021/073	sös	1	s ö s
+021/075	sös	1	s ö s
+021/077	söss	1	s ö ss
+021/079	söss	1	s ö ss
+021/087	sös	1	s ö s
+021/089	söss	1	s ö ss
+021/091	sös	1	s ö s
+021/093	söhs	1	s öh s
+021/095	söss	1	s ö ss
+021/097	söss	1	s ö ss
+021/099	sös	1	s ö s
+021/101	sös	1	s ö s
+021/103	sös	1	s ö s
+021/105	söss	1	s ö ss
+021/107	söss	1	s ö ss
+021/109	söss	1	s ö ss
+021/111	söss	1	s ö ss
+021/113	söss	1	s ö ss
+021/131	sös	1	s ö s
+021/133	söss	1	s ö ss
+021/135	söss	1	s ö ss
+021/137	sös	1	s ö s
+021/139	sös	1	s ö s
+021/141	söss	1	s ö ss
+021/143	sös	1	s ö s
+021/145	söss	1	s ö ss
+021/147	ses	1	s e s
+021/149	söss	1	s ö ss
+021/151	sess	1	s e ss
+021/153	sess	1	s e ss
+021/155	sess	1	s e ss
+021/157	ses	1	s e s
+021/159	sess	1	s e ss
+021/163	säss	1	s ä ss
+021/165	sess	1	s e ss
+021/167	ses	1	s e s
+021/169	sehs	1	s eh s
+021/171	sas	1	s a s
+021/173	ses	1	s e s
+021/175	säs	1	s ä s
+021/177	sess	1	s e ss
+021/179	ses	1	s e s
+021/181	sess	1	s e ss
+021/183	sess	1	s e ss
+021/185	sechs	1	s e ch s
+021/187	sechs	1	s e ch s
+021/189	sechs	1	s e ch s
+021/191	sechs	1	s e ch s
+021/193	sechs	1	s e ch s
+021/195	secks	1	s e ck s
+021/197	sechs	1	s e ch s
+021/199	sess	1	s e ss
+021/201	sess	1	s e ss
+021/203	sess	1	s e ss
+021/205	sess	1	s e ss
+021/207	ses	1	s e s
+021/211	sechs	1	s e ch s
+021/215	sechs	1	s e ch s
+021/217	sechs	1	s e ch s
+021/219	sechs	1	s e ch s
+022/055	syss	1	s y ss
+022/057	süss	1	s ü ss
+022/059	süs	1	s ü s
+022/061	söss	1	s ö ss
+022/063	söss	1	s ö ss
+022/065	NA	NA	-
+022/067	söss	1	s ö ss
+022/069	söss	1	s ö ss
+022/071	sös	1	s ö s
+022/073	säss	1	s ä ss
+022/075	söss	1	s ö ss
+022/077	sös	1	s ö s
+022/087	sös	1	s ö s
+022/089	söss	1	s ö ss
+022/091	söss	1	s ö ss
+022/093	söhs	1	s öh s
+022/095	söss	1	s ö ss
+022/097	sös	1	s ö s
+022/099	sös	1	s ö s
+022/101	sös	1	s ö s
+022/103	sös	1	s ö s
+022/105	sös	1	s ö s
+022/107	söss	1	s ö ss
+022/109	sös	1	s ö s
+022/111	söss	1	s ö ss
+022/113	söss	1	s ö ss
+022/115	söss	1	s ö ss
+022/127	söss	1	s ö ss
+022/129	sös	1	s ö s
+022/131	söss	1	s ö ss
+022/133	sös	1	s ö s
+022/135	söss	1	s ö ss
+022/137	söss	1	s ö ss
+022/139	sös	1	s ö s
+022/141	sös	1	s ö s
+022/143	sös	1	s ö s
+022/145	söss	1	s ö ss
+022/147	sess	1	s e ss
+022/149	söss	1	s ö ss
+022/151	ses	1	s e s
+022/153	sess	1	s e ss
+022/155	sess	1	s e ss
+022/157	ses	1	s e s
+022/159	sös	1	s ö s
+022/165	sess	1	s e ss
+022/167	sess	1	s e ss
+022/169	ses	1	s e s
+022/171	säss	1	s ä ss
+022/173	säs	1	s ä s
+022/175	sess	1	s e ss
+022/177	ses	1	s e s
+022/179	sass	1	s a ss
+022/181	sess	1	s e ss
+022/183	sechs	1	s e ch s
+022/185	sechs	1	s e ch s
+022/187	sechs	1	s e ch s
+022/189	sechs	1	s e ch s
+022/191	sechs	1	s e ch s
+022/193	sechs	1	s e ch s
+022/195	sechs	1	s e ch s
+022/197	sechs	1	s e ch s
+022/199	secks	1	s e ck s
+022/201	ses	1	s e s
+022/203	sess	1	s e ss
+022/205	ses	1	s e s
+022/209	sechs	1	s e ch s
+022/211	sechs	1	s e ch s
+022/215	sechs	1	s e ch s
+022/217	sess	1	s e ss
+022/219	sechs	1	s e ch s
+023/055	sös	1	s ö s
+023/059	süss	1	s ü ss
+023/061	sös	1	s ö s
+023/063	süss	1	s ü ss
+023/065	söss	1	s ö ss
+023/067	söss	1	s ö ss
+023/069	sös	1	s ö s
+023/071	söss	1	s ö ss
+023/073	sös	1	s ö s
+023/075	söss	1	s ö ss
+023/077	söss	1	s ö ss
+023/079	sös	1	s ö s
+023/081	sös	1	s ö s
+023/083	söss	1	s ö ss
+023/085	sös	1	s ö s
+023/087	sös	1	s ö s
+023/089	söhs	1	s öh s
+023/091	sös	1	s ö s
+023/093	söss	1	s ö ss
+023/095	sös	1	s ö s
+023/097	söss	1	s ö ss
+023/099	söss	1	s ö ss
+023/101	söss	1	s ö ss
+023/103	sös	1	s ö s
+023/105	söss	1	s ö ss
+023/107	ses	1	s e s
+023/109	sös	1	s ö s
+023/111	söss	1	s ö ss
+023/113	söss	1	s ö ss
+023/115	söss	1	s ö ss
+023/117	söss	1	s ö ss
+023/121	söss	1	s ö ss
+023/123	sös	1	s ö s
+023/125	söhs	1	s öh s
+023/127	söss	1	s ö ss
+023/129	sös	1	s ö s
+023/131	sös	1	s ö s
+023/133	söss	1	s ö ss
+023/135	ses	1	s e s
+023/137	sös	1	s ö s
+023/139	söss	1	s ö ss
+023/141	sös	1	s ö s
+023/143	ses	1	s e s
+023/145	ses	1	s e s
+023/147	ses	1	s e s
+023/149	ses	1	s e s
+023/151	söss	1	s ö ss
+023/153	sehs	1	s eh s
+023/155	ses	1	s e s
+023/165	sess	1	s e ss
+023/167	sehs	1	s eh s
+023/169	sess	1	s e ss
+023/175	sas	1	s a s
+023/177	sechs	1	s e ch s
+023/179	sechs	1	s e ch s
+023/181	sechs	1	s e ch s
+023/183	sechs	1	s e ch s
+023/185	sechs	1	s e ch s
+023/187	sechs	1	s e ch s
+023/189	sechs	1	s e ch s
+023/191	sechs	1	s e ch s
+023/193	sechs	1	s e ch s
+023/195	sehs	1	s eh s
+023/197	sechs	1	s e ch s
+023/199	sess	1	s e ss
+023/201	sess	1	s e ss
+023/203	NA	NA	-
+023/205	sess	1	s e ss
+023/207	sechs	1	s e ch s
+023/215	sechs	1	s e ch s
+023/217	sechs	1	s e ch s
+024/053	sös	1	s ö s
+024/057	süss	1	s ü ss
+024/059	süss	1	s ü ss
+024/061	sös	1	s ö s
+024/063	söss	1	s ö ss
+024/065	sös	1	s ö s
+024/067	söss	1	s ö ss
+024/069	säss	1	s ä ss
+024/071	süss	1	s ü ss
+024/073	söss	1	s ö ss
+024/075	söss	1	s ö ss
+024/077	sös	1	s ö s
+024/079	söss	1	s ö ss
+024/081	sös	1	s ö s
+024/083	söss	1	s ö ss
+024/085	söss	1	s ö ss
+024/087	söss	1	s ö ss
+024/089	sös	1	s ö s
+024/091	sös	1	s ö s
+024/093	söss	1	s ö ss
+024/095	söss	1	s ö ss
+024/097	sös	1	s ö s
+024/099	sös	1	s ö s
+024/101	söss	1	s ö ss
+024/103	sös	1	s ö s
+024/105	söss	1	s ö ss
+024/107	söss	1	s ö ss
+024/109	sös	1	s ö s
+024/111	sös	1	s ö s
+024/113	söss	1	s ö ss
+024/115	sös	1	s ö s
+024/117	söss	1	s ö ss
+024/119	söss	1	s ö ss
+024/121	söss	1	s ö ss
+024/123	söss	1	s ö ss
+024/125	sös	1	s ö s
+024/127	söss	1	s ö ss
+024/129	sös	1	s ö s
+024/131	söss	1	s ö ss
+024/133	söass	1	s öa ss
+024/135	söss	1	s ö ss
+024/137	söss	1	s ö ss
+024/139	söss	1	s ö ss
+024/141	söss	1	s ö ss
+024/143	sess	1	s e ss
+024/145	söss	1	s ö ss
+024/147	sös	1	s ö s
+024/149	ses	1	s e s
+024/151	sess	1	s e ss
+024/153	söss	1	s ö ss
+024/155	sess	1	s e ss
+024/163	söss	1	s ö ss
+024/165	sähs	1	s äh s
+024/167	sess	1	s e ss
+024/169	sess	1	s e ss
+024/171	ses	1	s e s
+024/175	sess	1	s e ss
+024/179	sechs	1	s e ch s
+024/181	sechs	1	s e ch s
+024/183	sechs	1	s e ch s
+024/185	sechs	1	s e ch s
+024/187	sechs	1	s e ch s
+024/189	sechs	1	s e ch s
+024/191	sechs	1	s e ch s
+024/193	sechs	1	s e ch s
+024/195	sechs	1	s e ch s
+024/197	sechs	1	s e ch s
+024/199	sechs	1	s e ch s
+024/201	sess	1	s e ss
+024/203	sess	1	s e ss
+024/217	sechs	1	s e ch s
+024/221	sechs	1	s e ch s
+025/043	sechs	1	s e ch s
+025/051	sös	1	s ö s
+025/053	säss	1	s ä ss
+025/055	sös	1	s ö s
+025/057	sös	1	s ö s
+025/059	söss	1	s ö ss
+025/061	söss	1	s ö ss
+025/063	sös	1	s ö s
+025/065	süs	1	s ü s
+025/067	süss	1	s ü ss
+025/069	süss	1	s ü ss
+025/071	söss	1	s ö ss
+025/073	sös	1	s ö s
+025/075	sös	1	s ö s
+025/077	söss	1	s ö ss
+025/079	söss	1	s ö ss
+025/081	sös	1	s ö s
+025/083	söss	1	s ö ss
+025/085	sös	1	s ö s
+025/087	sös	1	s ö s
+025/089	sös	1	s ö s
+025/091	söss	1	s ö ss
+025/093	söss	1	s ö ss
+025/095	söss	1	s ö ss
+025/099	söss	1	s ö ss
+025/101	söss	1	s ö ss
+025/103	söss	1	s ö ss
+025/105	söss	1	s ö ss
+025/107	sös	1	s ö s
+025/109	söss	1	s ö ss
+025/111	söss	1	s ö ss
+025/113	söss	1	s ö ss
+025/115	sös	1	s ö s
+025/123	söss	1	s ö ss
+025/125	sös	1	s ö s
+025/127	söss	1	s ö ss
+025/129	sös	1	s ö s
+025/131	söss	1	s ö ss
+025/133	sös	1	s ö s
+025/135	sess	1	s e ss
+025/137	sös	1	s ö s
+025/139	sös	1	s ö s
+025/141	söss	1	s ö ss
+025/143	sös	1	s ö s
+025/145	ses	1	s e s
+025/147	söss	1	s ö ss
+025/149	sös	1	s ö s
+025/151	sös	1	s ö s
+025/153	sös	1	s ö s
+025/155	söss	1	s ö ss
+025/157	sös	1	s ö s
+025/159	sess	1	s e ss
+025/177	ses	1	s e s
+025/179	sechs	1	s e ch s
+025/181	sechs	1	s e ch s
+025/183	sechs	1	s e ch s
+025/185	NA	NA	-
+025/187	secks	1	s e ck s
+025/189	sechs	1	s e ch s
+025/191	sechs	1	s e ch s
+026/031	ses	1	s e s
+026/033	ses	1	s e s
+026/037	sehs	1	s eh s
+026/041	ses	1	s e s
+026/043	sess	1	s e ss
+026/045	sess	1	s e ss
+026/051	sos	1	s o s
+026/053	soss	1	s o ss
+026/055	söss	1	s ö ss
+026/057	sös	1	s ö s
+026/059	söss	1	s ö ss
+026/061	süs	1	s ü s
+026/063	süss	1	s ü ss
+026/065	süss	1	s ü ss
+026/067	süss	1	s ü ss
+026/069	söss	1	s ö ss
+026/071	sös	1	s ö s
+026/073	sös	1	s ö s
+026/075	säs	1	s ä s
+026/077	sös	1	s ö s
+026/079	söss	1	s ö ss
+026/081	söss	1	s ö ss
+026/083	sös	1	s ö s
+026/085	söss	1	s ö ss
+026/087	söss	1	s ö ss
+026/089	sös	1	s ö s
+026/091	söss	1	s ö ss
+026/093	söss	1	s ö ss
+026/095	sös	1	s ö s
+026/097	söss	1	s ö ss
+026/099	NA	NA	-
+026/101	söss	1	s ö ss
+026/103	söss	1	s ö ss
+026/105	sös	1	s ö s
+026/107	sös	1	s ö s
+026/109	söss	1	s ö ss
+026/111	söss	1	s ö ss
+026/113	söss	1	s ö ss
+026/115	söss	1	s ö ss
+026/117	sös	1	s ö s
+026/119	sös	1	s ö s
+026/123	säss	1	s ä ss
+026/125	söchs	1	s ö ch s
+026/127	söss	1	s ö ss
+026/129	sös	1	s ö s
+026/131	sös	1	s ö s
+026/133	sös	1	s ö s
+026/135	söss	1	s ö ss
+026/137	söss	1	s ö ss
+026/139	söhs	1	s öh s
+026/141	NA	NA	-
+026/143	söss	1	s ö ss
+026/145	sös	1	s ö s
+026/147	sös	1	s ö s
+026/153	sös	1	s ö s
+026/155	söss	1	s ö ss
+026/157	söhs	1	s öh s
+026/159	sös	1	s ö s
+026/161	söss	1	s ö ss
+026/165	sechs	1	s e ch s
+026/173	sess	1	s e ss
+026/175	sess	1	s e ss
+026/177	sess	1	s e ss
+026/179	ses	1	s e s
+026/181	sechs	1	s e ch s
+026/183	sechs	1	s e ch s
+026/185	sechs	1	s e ch s
+026/187	sechs	1	s e ch s
+026/189	sechs	1	s e ch s
+027/027	ses	1	s e s
+027/035	ses	1	s e s
+027/037	säs	1	s ä s
+027/039	ses	1	s e s
+027/041	sess	1	s e ss
+027/043	sess	1	s e ss
+027/045	söss	1	s ö ss
+027/047	sess	1	s e ss
+027/051	soss	1	s o ss
+027/053	söss	1	s ö ss
+027/055	sös	1	s ö s
+027/057	söss	1	s ö ss
+027/059	söss	1	s ö ss
+027/061	sös	1	s ö s
+027/063	süss	1	s ü ss
+027/065	sös	1	s ö s
+027/067	sös	1	s ö s
+027/069	sös	1	s ö s
+027/071	söss	1	s ö ss
+027/073	söss	1	s ö ss
+027/075	sös	1	s ö s
+027/077	söss	1	s ö ss
+027/079	sös	1	s ö s
+027/081	söss	1	s ö ss
+027/083	söss	1	s ö ss
+027/085	söss	1	s ö ss
+027/087	söss	1	s ö ss
+027/089	söss	1	s ö ss
+027/091	söss	1	s ö ss
+027/093	söss	1	s ö ss
+027/095	söss	1	s ö ss
+027/099	sös	1	s ö s
+027/101	söss	1	s ö ss
+027/103	söss	1	s ö ss
+027/105	söss	1	s ö ss
+027/107	söss	1	s ö ss
+027/109	sös	1	s ö s
+027/111	söss	1	s ö ss
+027/113	söss	1	s ö ss
+027/115	söss	1	s ö ss
+027/117	sös	1	s ö s
+027/119	söss	1	s ö ss
+027/123	sös	1	s ö s
+027/125	sös	1	s ö s
+027/127	sös	1	s ö s
+027/129	söss	1	s ö ss
+027/131	sös	1	s ö s
+027/135	söss	1	s ö ss
+027/137	sös	1	s ö s
+027/139	söss	1	s ö ss
+027/141	sös	1	s ö s
+027/143	söss	1	s ö ss
+027/145	NA	NA	-
+027/147	sös	1	s ö s
+027/149	söss	1	s ö ss
+027/151	sös	1	s ö s
+027/153	söss	1	s ö ss
+027/155	soäs	1	s oä s
+027/157	säss	1	s ä ss
+027/159	sös	1	s ö s
+027/161	sos	1	s o s
+027/167	söss	1	s ö ss
+027/171	sös	1	s ö s
+027/173	NA	NA	-
+027/175	sess	1	s e ss
+027/177	sess	1	s e ss
+027/179	sess	1	s e ss
+027/181	sess	1	s e ss
+027/183	sechs	1	s e ch s
+027/185	sechs	1	s e ch s
+028/033	ses	1	s e s
+028/035	ses	1	s e s
+028/037	sess	1	s e ss
+028/039	ses	1	s e s
+028/041	sess	1	s e ss
+028/043	ses	1	s e s
+028/045	sess	1	s e ss
+028/047	sess	1	s e ss
+028/049	sas	1	s a s
+028/051	sess	1	s e ss
+028/053	söss	1	s ö ss
+028/055	söss	1	s ö ss
+028/057	süss	1	s ü ss
+028/059	söss	1	s ö ss
+028/061	süs	1	s ü s
+028/063	söss	1	s ö ss
+028/065	süs	1	s ü s
+028/067	söss	1	s ö ss
+028/069	söss	1	s ö ss
+028/071	söss	1	s ö ss
+028/073	sös	1	s ö s
+028/075	sös	1	s ö s
+028/077	sös	1	s ö s
+028/079	säss	1	s ä ss
+028/081	sös	1	s ö s
+028/083	sös	1	s ö s
+028/085	sös	1	s ö s
+028/087	söss	1	s ö ss
+028/089	sös	1	s ö s
+028/091	sös	1	s ö s
+028/093	söss	1	s ö ss
+028/095	söss	1	s ö ss
+028/097	sös	1	s ö s
+028/099	söss	1	s ö ss
+028/103	sös	1	s ö s
+028/105	sös	1	s ö s
+028/107	sös	1	s ö s
+028/109	sös	1	s ö s
+028/111	söss	1	s ö ss
+028/113	sös	1	s ö s
+028/115	söss	1	s ö ss
+028/117	söss	1	s ö ss
+028/119	NA	NA	-
+028/121	sös	1	s ö s
+028/123	sös	1	s ö s
+028/125	sööss	1	s öö ss
+028/127	sös	1	s ö s
+028/129	söss	1	s ö ss
+028/131	sös	1	s ö s
+028/133	söss	1	s ö ss
+028/135	ses	1	s e s
+028/137	söss	1	s ö ss
+028/139	söäss	1	s öä ss
+028/141	sös	1	s ö s
+028/143	söss	1	s ö ss
+028/145	söss	1	s ö ss
+028/147	söss	1	s ö ss
+028/151	söss	1	s ö ss
+028/153	söss	1	s ö ss
+028/155	söss	1	s ö ss
+028/157	sess	1	s e ss
+028/159	säss	1	s ä ss
+028/161	sös	1	s ö s
+028/165	säs	1	s ä s
+028/169	sehs	1	s eh s
+028/171	ses	1	s e s
+028/173	sähss	1	s äh ss
+028/175	ses	1	s e s
+028/177	söss	1	s ö ss
+028/179	ses	1	s e s
+028/181	sechs	1	s e ch s
+028/183	sechs	1	s e ch s
+028/185	sechs	1	s e ch s
+029/033	ses	1	s e s
+029/035	ses	1	s e s
+029/037	ses	1	s e s
+029/039	ses	1	s e s
+029/043	ses	1	s e s
+029/045	sess	1	s e ss
+029/047	ses	1	s e s
+029/049	soss	1	s o ss
+029/051	sos	1	s o s
+029/053	sas	1	s a s
+029/055	soss	1	s o ss
+029/057	söss	1	s ö ss
+029/059	süss	1	s ü ss
+029/061	süs	1	s ü s
+029/065	ses	1	s e s
+029/067	söss	1	s ö ss
+029/069	söss	1	s ö ss
+029/071	söss	1	s ö ss
+029/073	sös	1	s ö s
+029/075	sös	1	s ö s
+029/077	sös	1	s ö s
+029/079	söhs	1	s öh s
+029/081	söss	1	s ö ss
+029/083	söss	1	s ö ss
+029/085	sös	1	s ö s
+029/087	söss	1	s ö ss
+029/089	söss	1	s ö ss
+029/091	söss	1	s ö ss
+029/093	söss	1	s ö ss
+029/095	söss	1	s ö ss
+029/097	söss	1	s ö ss
+029/099	söss	1	s ö ss
+029/101	sös	1	s ö s
+029/103	söss	1	s ö ss
+029/105	sös	1	s ö s
+029/107	söss	1	s ö ss
+029/109	söss	1	s ö ss
+029/111	söss	1	s ö ss
+029/113	söss	1	s ö ss
+029/115	sös	1	s ö s
+029/117	söss	1	s ö ss
+029/119	söss	1	s ö ss
+029/121	sös	1	s ö s
+029/123	söss	1	s ö ss
+029/125	sös	1	s ö s
+029/127	sös	1	s ö s
+029/129	söss	1	s ö ss
+029/131	söss	1	s ö ss
+029/133	sös	1	s ö s
+029/135	sös	1	s ö s
+029/137	sös	1	s ö s
+029/139	soss	1	s o ss
+029/141	söss	1	s ö ss
+029/143	sös	1	s ö s
+029/145	söss	1	s ö ss
+029/147	soss	1	s o ss
+029/149	sös	1	s ö s
+029/151	söchs	1	s ö ch s
+029/153	sös	1	s ö s
+029/155	söss	1	s ö ss
+029/157	söss	1	s ö ss
+029/159	söss	1	s ö ss
+029/161	söss	1	s ö ss
+029/163	NA	NA	-
+029/165	sös	1	s ö s
+029/167	ses	1	s e s
+029/169	ses	1	s e s
+029/171	ses	1	s e s
+029/173	ses	1	s e s
+029/175	süss	1	s ü ss
+029/177	sess	1	s e ss
+029/181	ses	1	s e s
+030/033	ses	1	s e s
+030/035	ses	1	s e s
+030/037	sess	1	s e ss
+030/039	sess	1	s e ss
+030/041	ses	1	s e s
+030/043	sess	1	s e ss
+030/045	sess	1	s e ss
+030/047	ses	1	s e s
+030/049	sess	1	s e ss
+030/051	soss	1	s o ss
+030/053	söss	1	s ö ss
+030/055	soss	1	s o ss
+030/057	süss	1	s ü ss
+030/059	süs	1	s ü s
+030/061	süss	1	s ü ss
+030/065	süs	1	s ü s
+030/067	sös	1	s ö s
+030/071	sös	1	s ö s
+030/073	söhs	1	s öh s
+030/075	söss	1	s ö ss
+030/077	söss	1	s ö ss
+030/079	söss	1	s ö ss
+030/081	söss	1	s ö ss
+030/083	söss	1	s ö ss
+030/085	söss	1	s ö ss
+030/087	sös	1	s ö s
+030/089	sös	1	s ö s
+030/091	sös	1	s ö s
+030/093	sös	1	s ö s
+030/095	söhs	1	s öh s
+030/097	söhs	1	s öh s
+030/099	sös	1	s ö s
+030/101	söss	1	s ö ss
+030/103	söss	1	s ö ss
+030/105	söss	1	s ö ss
+030/107	söss	1	s ö ss
+030/109	söss	1	s ö ss
+030/111	sös	1	s ö s
+030/113	söss	1	s ö ss
+030/115	säss	1	s ä ss
+030/117	sass	1	s a ss
+030/119	sös	1	s ö s
+030/121	söss	1	s ö ss
+030/123	söss	1	s ö ss
+030/125	söss	1	s ö ss
+030/127	söss	1	s ö ss
+030/129	sös	1	s ö s
+030/131	söss	1	s ö ss
+030/133	söess	1	s öe ss
+030/135	söss	1	s ö ss
+030/137	söss	1	s ö ss
+030/139	sös	1	s ö s
+030/141	söss	1	s ö ss
+030/143	säss	1	s ä ss
+030/145	sös	1	s ö s
+030/147	söss	1	s ö ss
+030/149	sös	1	s ö s
+030/151	söss	1	s ö ss
+030/153	ses	1	s e s
+030/155	söss	1	s ö ss
+030/157	söss	1	s ö ss
+030/159	söss	1	s ö ss
+030/161	söss	1	s ö ss
+030/163	söss	1	s ö ss
+030/165	sess	1	s e ss
+030/167	sess	1	s e ss
+030/169	sess	1	s e ss
+030/171	ses	1	s e s
+030/173	säss	1	s ä ss
+030/175	säss	1	s ä ss
+030/177	ses	1	s e s
+030/179	ses	1	s e s
+030/181	ses	1	s e s
+030/183	sess	1	s e ss
+031/035	ses	1	s e s
+031/037	sess	1	s e ss
+031/039	ses	1	s e s
+031/041	ses	1	s e s
+031/043	sess	1	s e ss
+031/045	ses	1	s e s
+031/047	sess	1	s e ss
+031/049	sess	1	s e ss
+031/051	soss	1	s o ss
+031/053	sos	1	s o s
+031/055	soss	1	s o ss
+031/057	süss	1	s ü ss
+031/059	sös	1	s ö s
+031/061	süss	1	s ü ss
+031/063	sös	1	s ö s
+031/065	sös	1	s ö s
+031/067	sös	1	s ö s
+031/069	söss	1	s ö ss
+031/071	söss	1	s ö ss
+031/073	söss	1	s ö ss
+031/075	söss	1	s ö ss
+031/077	söss	1	s ö ss
+031/079	söss	1	s ö ss
+031/081	söss	1	s ö ss
+031/083	sös	1	s ö s
+031/085	söss	1	s ö ss
+031/087	söss	1	s ö ss
+031/089	süss	1	s ü ss
+031/091	söss	1	s ö ss
+031/093	söss	1	s ö ss
+031/095	NA	NA	-
+031/097	sös	1	s ö s
+031/099	sös	1	s ö s
+031/101	söss	1	s ö ss
+031/103	söss	1	s ö ss
+031/105	NA	NA	-
+031/107	söss	1	s ö ss
+031/109	sös	1	s ö s
+031/111	söss	1	s ö ss
+031/113	sechs	1	s e ch s
+031/115	söss	1	s ö ss
+031/117	söss	1	s ö ss
+031/119	sös	1	s ö s
+031/121	söss	1	s ö ss
+031/123	söss	1	s ö ss
+031/125	söss	1	s ö ss
+031/127	söss	1	s ö ss
+031/129	söss	1	s ö ss
+031/131	söss	1	s ö ss
+031/133	sös	1	s ö s
+031/135	söss	1	s ö ss
+031/137	söss	1	s ö ss
+031/139	söss	1	s ö ss
+031/141	sös	1	s ö s
+031/143	sös	1	s ö s
+031/145	sös	1	s ö s
+031/147	sös	1	s ö s
+031/149	söss	1	s ö ss
+031/151	söss	1	s ö ss
+031/153	söss	1	s ö ss
+031/155	sös	1	s ö s
+031/157	söss	1	s ö ss
+031/159	söss	1	s ö ss
+031/161	söss	1	s ö ss
+031/163	sös	1	s ö s
+031/167	ses	1	s e s
+031/169	NA	NA	-
+031/171	sechs	1	s e ch s
+031/173	sechs	1	s e ch s
+031/175	sess	1	s e ss
+031/177	sess	1	s e ss
+031/179	ses	1	s e s
+032/035	ses	1	s e s
+032/037	ses	1	s e s
+032/039	sess	1	s e ss
+032/041	sess	1	s e ss
+032/043	sess	1	s e ss
+032/045	sess	1	s e ss
+032/047	sess	1	s e ss
+032/049	sess	1	s e ss
+032/051	sess	1	s e ss
+032/053	soss	1	s o ss
+032/055	söss	1	s ö ss
+032/057	soss	1	s o ss
+032/059	süs	1	s ü s
+032/061	süs	1	s ü s
+032/065	süs	1	s ü s
+032/069	söss	1	s ö ss
+032/071	söss	1	s ö ss
+032/073	söss	1	s ö ss
+032/075	söss	1	s ö ss
+032/077	söss	1	s ö ss
+032/079	söss	1	s ö ss
+032/081	söss	1	s ö ss
+032/083	söss	1	s ö ss
+032/085	sös	1	s ö s
+032/087	sös	1	s ö s
+032/089	söss	1	s ö ss
+032/091	söss	1	s ö ss
+032/093	sös	1	s ö s
+032/095	sääs	1	s ää s
+032/097	söss	1	s ö ss
+032/099	söss	1	s ö ss
+032/101	söss	1	s ö ss
+032/103	söss	1	s ö ss
+032/105	söss	1	s ö ss
+032/107	sös	1	s ö s
+032/111	söss	1	s ö ss
+032/113	söss	1	s ö ss
+032/115	söss	1	s ö ss
+032/117	söss	1	s ö ss
+032/119	söss	1	s ö ss
+032/121	sechs	1	s e ch s
+032/123	sechs	1	s e ch s
+032/125	söss	1	s ö ss
+032/127	sös	1	s ö s
+032/129	sös	1	s ö s
+032/131	sös	1	s ö s
+032/133	NA	NA	-
+032/135	söss	1	s ö ss
+032/139	söss	1	s ö ss
+032/141	söss	1	s ö ss
+032/143	sös	1	s ö s
+032/145	ses	1	s e s
+032/147	söss	1	s ö ss
+032/149	söss	1	s ö ss
+032/151	sös	1	s ö s
+032/153	söss	1	s ö ss
+032/157	söss	1	s ö ss
+032/159	sös	1	s ö s
+032/161	söss	1	s ö ss
+032/163	söss	1	s ö ss
+032/167	säss	1	s ä ss
+032/169	sechs	1	s e ch s
+032/171	sechs	1	s e ch s
+032/173	sechs	1	s e ch s
+032/175	ses	1	s e s
+032/177	sess	1	s e ss
+032/179	sös	1	s ö s
+032/181	sess	1	s e ss
+032/183	ses	1	s e s
+033/035	ses	1	s e s
+033/037	ses	1	s e s
+033/039	ses	1	s e s
+033/041	ses	1	s e s
+033/043	ses	1	s e s
+033/045	sess	1	s e ss
+033/047	sess	1	s e ss
+033/049	sess	1	s e ss
+033/051	sess	1	s e ss
+033/053	sohs	1	s oh s
+033/055	soss	1	s o ss
+033/057	söss	1	s ö ss
+033/059	söss	1	s ö ss
+033/061	söss	1	s ö ss
+033/063	söss	1	s ö ss
+033/065	söss	1	s ö ss
+033/067	söss	1	s ö ss
+033/069	söss	1	s ö ss
+033/071	sös	1	s ö s
+033/073	söss	1	s ö ss
+033/075	sös	1	s ö s
+033/077	sös	1	s ö s
+033/079	söss	1	s ö ss
+033/081	söss	1	s ö ss
+033/083	söss	1	s ö ss
+033/085	söss	1	s ö ss
+033/087	sös	1	s ö s
+033/089	söss	1	s ö ss
+033/091	söss	1	s ö ss
+033/093	söss	1	s ö ss
+033/095	söss	1	s ö ss
+033/097	söss	1	s ö ss
+033/099	sös	1	s ö s
+033/101	söas	1	s öa s
+033/103	NA	NA	-
+033/105	söss	1	s ö ss
+033/107	söss	1	s ö ss
+033/109	söss	1	s ö ss
+033/111	sechs	1	s e ch s
+033/113	sechs	1	s e ch s
+033/115	sechs	1	s e ch s
+033/117	sechs	1	s e ch s
+033/119	sechs	1	s e ch s
+033/121	sechs	1	s e ch s
+033/123	sös	1	s ö s
+033/125	söss	1	s ö ss
+033/127	söss	1	s ö ss
+033/129	söss	1	s ö ss
+033/131	sös	1	s ö s
+033/133	sechs	1	s e ch s
+033/135	sechs	1	s e ch s
+033/137	sechs	1	s e ch s
+033/139	sechs	1	s e ch s
+033/141	söss	1	s ö ss
+033/143	söss	1	s ö ss
+033/145	sös	1	s ö s
+033/147	sös	1	s ö s
+033/149	sös	1	s ö s
+033/151	söss	1	s ö ss
+033/153	sös	1	s ö s
+033/155	sös	1	s ö s
+033/159	söss	1	s ö ss
+033/161	söss	1	s ö ss
+033/163	sess	1	s e ss
+033/165	sess	1	s e ss
+033/167	sös	1	s ö s
+033/169	ses	1	s e s
+033/173	ses	1	s e s
+033/175	sess	1	s e ss
+033/177	ses	1	s e s
+034/035	sess	1	s e ss
+034/039	sess	1	s e ss
+034/041	sess	1	s e ss
+034/043	sess	1	s e ss
+034/045	sess	1	s e ss
+034/047	sess	1	s e ss
+034/049	sess	1	s e ss
+034/051	sess	1	s e ss
+034/053	sess	1	s e ss
+034/055	ses	1	s e s
+034/057	ses	1	s e s
+034/059	söss	1	s ö ss
+034/061	söss	1	s ö ss
+034/063	sös	1	s ö s
+034/065	sös	1	s ö s
+034/067	söss	1	s ö ss
+034/069	söss	1	s ö ss
+034/071	söss	1	s ö ss
+034/073	söss	1	s ö ss
+034/075	söss	1	s ö ss
+034/077	söss	1	s ö ss
+034/079	sös	1	s ö s
+034/081	söss	1	s ö ss
+034/083	sös	1	s ö s
+034/085	söss	1	s ö ss
+034/087	söss	1	s ö ss
+034/089	sös	1	s ö s
+034/091	söss	1	s ö ss
+034/093	söss	1	s ö ss
+034/095	sös	1	s ö s
+034/097	söss	1	s ö ss
+034/099	sös	1	s ö s
+034/101	söss	1	s ö ss
+034/103	sechs	1	s e ch s
+034/105	sechs	1	s e ch s
+034/107	sös	1	s ö s
+034/109	sechs	1	s e ch s
+034/111	sechs	1	s e ch s
+034/113	NA	NA	-
+034/115	sechs	1	s e ch s
+034/117	sechs	1	s e ch s
+034/119	sehs	1	s eh s
+034/121	NA	NA	-
+034/125	sös	1	s ö s
+034/127	sechs	1	s e ch s
+034/129	sechs	1	s e ch s
+034/131	sös	1	s ö s
+034/133	söss	1	s ö ss
+034/135	sechs	1	s e ch s
+034/137	sechs	1	s e ch s
+034/139	sechs	1	s e ch s
+034/141	söss	1	s ö ss
+034/143	söss	1	s ö ss
+034/145	söss	1	s ö ss
+034/147	säss	1	s ä ss
+034/149	söss	1	s ö ss
+034/151	söss	1	s ö ss
+034/155	sös	1	s ö s
+034/157	söss	1	s ö ss
+034/161	sös	1	s ö s
+034/163	söss	1	s ö ss
+034/165	söss	1	s ö ss
+034/167	sos	1	s o s
+034/169	sess	1	s e ss
+034/173	säss	1	s ä ss
+035/035	sess	1	s e ss
+035/037	ses	1	s e s
+035/039	ses	1	s e s
+035/041	sess	1	s e ss
+035/043	sess	1	s e ss
+035/045	sess	1	s e ss
+035/047	sess	1	s e ss
+035/049	ses	1	s e s
+035/051	säss	1	s ä ss
+035/053	ses	1	s e s
+035/055	sehs	1	s eh s
+035/057	sess	1	s e ss
+035/059	säss	1	s ä ss
+035/061	ses	1	s e s
+035/063	söss	1	s ö ss
+035/065	sös	1	s ö s
+035/067	söss	1	s ö ss
+035/069	söss	1	s ö ss
+035/071	söss	1	s ö ss
+035/073	sös	1	s ö s
+035/075	sös	1	s ö s
+035/077	ssöhs	1	ss öh s
+035/079	sös	1	s ö s
+035/081	söss	1	s ö ss
+035/083	söss	1	s ö ss
+035/085	söhs	1	s öh s
+035/087	sös	1	s ö s
+035/089	sis	1	s i s
+035/091	söss	1	s ö ss
+035/093	söss	1	s ö ss
+035/095	söss	1	s ö ss
+035/097	söss	1	s ö ss
+035/099	söss	1	s ö ss
+035/101	söss	1	s ö ss
+035/103	sechs	1	s e ch s
+035/105	sechs	1	s e ch s
+035/107	sechs	1	s e ch s
+035/109	sechs	1	s e ch s
+035/111	sechs	1	s e ch s
+035/113	sechs	1	s e ch s
+035/115	sechs	1	s e ch s
+035/117	sechs	1	s e ch s
+035/121	sechs	1	s e ch s
+035/123	sechs	1	s e ch s
+035/125	säss	1	s ä ss
+035/127	sechs	1	s e ch s
+035/129	sechs	1	s e ch s
+035/133	sechs	1	s e ch s
+035/135	seks	1	s e k s
+035/137	sechs	1	s e ch s
+035/139	sechs	1	s e ch s
+035/141	sös	1	s ö s
+035/143	söss	1	s ö ss
+035/145	söss	1	s ö ss
+035/147	söchs	1	s ö ch s
+035/149	sös	1	s ö s
+035/151	sös	1	s ö s
+035/153	sös	1	s ö s
+035/155	sös	1	s ö s
+035/157	ses	1	s e s
+035/165	sös	1	s ö s
+035/167	söss	1	s ö ss
+035/169	sös	1	s ö s
+035/171	soss	1	s o ss
+035/173	ses	1	s e s
+036/033	ses	1	s e s
+036/035	sess	1	s e ss
+036/039	sess	1	s e ss
+036/041	ses	1	s e s
+036/043	ses	1	s e s
+036/045	ses	1	s e s
+036/047	ses	1	s e s
+036/049	sess	1	s e ss
+036/051	ses	1	s e s
+036/053	sess	1	s e ss
+036/055	ses	1	s e s
+036/057	sess	1	s e ss
+036/059	ses	1	s e s
+036/061	ses	1	s e s
+036/063	sess	1	s e ss
+036/065	söss	1	s ö ss
+036/067	ses	1	s e s
+036/069	ses	1	s e s
+036/071	sess	1	s e ss
+036/073	sös	1	s ö s
+036/075	söss	1	s ö ss
+036/077	sös	1	s ö s
+036/079	söss	1	s ö ss
+036/081	sös	1	s ö s
+036/083	söss	1	s ö ss
+036/085	söss	1	s ö ss
+036/087	sös	1	s ö s
+036/089	söss	1	s ö ss
+036/091	sös	1	s ö s
+036/095	sess	1	s e ss
+036/097	söäss	1	s öä ss
+036/099	sechs	1	s e ch s
+036/101	sechs	1	s e ch s
+036/103	sechs	1	s e ch s
+036/105	sechs	1	s e ch s
+036/107	sechs	1	s e ch s
+036/109	sächs	1	s ä ch s
+036/111	sechs	1	s e ch s
+036/113	sechs	1	s e ch s
+036/115	sechs	1	s e ch s
+036/117	sechs	1	s e ch s
+036/119	NA	NA	-
+036/121	sechs	1	s e ch s
+036/123	sächs	1	s ä ch s
+036/125	seks	1	s e k s
+036/127	sechs	1	s e ch s
+036/129	sechs	1	s e ch s
+036/133	sös	1	s ö s
+036/135	sess	1	s e ss
+036/137	sechs	1	s e ch s
+036/139	sechs	1	s e ch s
+036/141	sechs	1	s e ch s
+036/143	sös	1	s ö s
+036/147	sös	1	s ö s
+036/149	söss	1	s ö ss
+036/151	söss	1	s ö ss
+036/153	sess	1	s e ss
+036/155	söss	1	s ö ss
+036/161	sös	1	s ö s
+036/163	söss	1	s ö ss
+036/165	säss	1	s ä ss
+036/167	söss	1	s ö ss
+036/169	säs	1	s ä s
+036/171	ses	1	s e s
+037/033	sess	1	s e ss
+037/035	ses	1	s e s
+037/037	ses	1	s e s
+037/039	ses	1	s e s
+037/041	sess	1	s e ss
+037/043	sess	1	s e ss
+037/045	sess	1	s e ss
+037/047	sess	1	s e ss
+037/049	sös	1	s ö s
+037/051	sess	1	s e ss
+037/053	sess	1	s e ss
+037/055	sess	1	s e ss
+037/057	sess	1	s e ss
+037/059	sess	1	s e ss
+037/061	ses	1	s e s
+037/063	ses	1	s e s
+037/065	ses	1	s e s
+037/067	ses	1	s e s
+037/069	sess	1	s e ss
+037/071	sess	1	s e ss
+037/073	sess	1	s e ss
+037/075	sös	1	s ö s
+037/077	söss	1	s ö ss
+037/079	söss	1	s ö ss
+037/081	söss	1	s ö ss
+037/083	sös	1	s ö s
+037/085	sös	1	s ö s
+037/087	söss	1	s ö ss
+037/089	sös	1	s ö s
+037/091	sös	1	s ö s
+037/093	söss	1	s ö ss
+037/095	sechs	1	s e ch s
+037/097	söss	1	s ö ss
+037/099	sechs	1	s e ch s
+037/101	sechs	1	s e ch s
+037/105	sechs	1	s e ch s
+037/107	sös	1	s ö s
+037/109	sechs	1	s e ch s
+037/111	sechs	1	s e ch s
+037/113	sechs	1	s e ch s
+037/115	sechs	1	s e ch s
+037/117	NA	NA	-
+037/119	secks	1	s e ck s
+037/121	sechs	1	s e ch s
+037/123	seks	1	s e k s
+037/125	sächs	1	s ä ch s
+037/127	sechs	1	s e ch s
+037/129	sechs	1	s e ch s
+037/131	sechs	1	s e ch s
+037/133	sechs	1	s e ch s
+037/135	sechs	1	s e ch s
+037/137	sechs	1	s e ch s
+037/139	sechs	1	s e ch s
+037/141	sechs	1	s e ch s
+037/145	söss	1	s ö ss
+037/147	NA	NA	-
+037/149	sös	1	s ö s
+037/151	söss	1	s ö ss
+037/153	söss	1	s ö ss
+037/155	sös	1	s ö s
+037/157	söss	1	s ö ss
+037/159	söss	1	s ö ss
+037/163	söss	1	s ö ss
+037/171	söss	1	s ö ss
+038/033	sess	1	s e ss
+038/035	sess	1	s e ss
+038/037	sess	1	s e ss
+038/039	sess	1	s e ss
+038/041	sähs	1	s äh s
+038/043	sess	1	s e ss
+038/045	sees	1	s ee s
+038/047	ses	1	s e s
+038/049	soss	1	s o ss
+038/051	ses	1	s e s
+038/053	sess	1	s e ss
+038/055	sess	1	s e ss
+038/057	sess	1	s e ss
+038/059	sess	1	s e ss
+038/061	sess	1	s e ss
+038/063	sess	1	s e ss
+038/065	söss	1	s ö ss
+038/067	sess	1	s e ss
+038/069	ses	1	s e s
+038/071	sess	1	s e ss
+038/073	söss	1	s ö ss
+038/075	söss	1	s ö ss
+038/077	söss	1	s ö ss
+038/079	söss	1	s ö ss
+038/081	säes	1	s äe s
+038/083	söss	1	s ö ss
+038/085	sess	1	s e ss
+038/087	söss	1	s ö ss
+038/089	söss	1	s ö ss
+038/091	söss	1	s ö ss
+038/093	söss	1	s ö ss
+038/095	soss	1	s o ss
+038/097	NA	NA	-
+038/099	söss	1	s ö ss
+038/101	sechs	1	s e ch s
+038/103	sechs	1	s e ch s
+038/105	söss	1	s ö ss
+038/107	secks	1	s e ck s
+038/109	sechs	1	s e ch s
+038/111	sechs	1	s e ch s
+038/113	sechs	1	s e ch s
+038/115	sechs	1	s e ch s
+038/117	sechs	1	s e ch s
+038/119	sechs	1	s e ch s
+038/121	sechs	1	s e ch s
+038/123	sechs	1	s e ch s
+038/125	sächs	1	s ä ch s
+038/127	sechs	1	s e ch s
+038/129	sechs	1	s e ch s
+038/131	sechs	1	s e ch s
+038/133	sechs	1	s e ch s
+038/135	sechs	1	s e ch s
+038/145	sös	1	s ö s
+038/147	sös	1	s ö s
+038/149	söchs	1	s ö ch s
+038/151	sös	1	s ö s
+038/153	sös	1	s ö s
+038/155	söss	1	s ö ss
+038/159	ses	1	s e s
+038/161	sös	1	s ö s
+038/163	söss	1	s ö ss
+039/029	ses	1	s e s
+039/031	ses	1	s e s
+039/033	ses	1	s e s
+039/035	sess	1	s e ss
+039/037	ses	1	s e s
+039/039	sess	1	s e ss
+039/041	sess	1	s e ss
+039/043	sess	1	s e ss
+039/045	ses	1	s e s
+039/047	sess	1	s e ss
+039/049	sess	1	s e ss
+039/051	sess	1	s e ss
+039/053	ses	1	s e s
+039/055	ses	1	s e s
+039/057	ses	1	s e s
+039/059	sess	1	s e ss
+039/061	ses	1	s e s
+039/063	söss	1	s ö ss
+039/065	sess	1	s e ss
+039/067	ses	1	s e s
+039/069	sös	1	s ö s
+039/071	sess	1	s e ss
+039/073	sess	1	s e ss
+039/075	söss	1	s ö ss
+039/077	sös	1	s ö s
+039/079	sös	1	s ö s
+039/081	söss	1	s ö ss
+039/083	soes	1	s oe s
+039/085	sös	1	s ö s
+039/087	sös	1	s ö s
+039/089	söss	1	s ö ss
+039/091	söäs	1	s öä s
+039/093	söss	1	s ö ss
+039/095	sechs	1	s e ch s
+039/097	sös	1	s ö s
+039/099	söss	1	s ö ss
+039/101	sös	1	s ö s
+039/103	sechs	1	s e ch s
+039/105	sechs	1	s e ch s
+039/107	söss	1	s ö ss
+039/109	sechs	1	s e ch s
+039/111	sechs	1	s e ch s
+039/113	sechs	1	s e ch s
+039/115	sechs	1	s e ch s
+039/117	sechs	1	s e ch s
+039/119	NA	NA	-
+039/121	sechs	1	s e ch s
+039/123	sächs	1	s ä ch s
+039/125	sächs	1	s ä ch s
+039/127	sechs	1	s e ch s
+039/129	NA	NA	-
+039/131	sechs	1	s e ch s
+039/133	saigs	1	s ai g s
+039/135	sechs	1	s e ch s
+039/137	sechs	1	s e ch s
+039/139	sechs	1	s e ch s
+039/149	ses	1	s e s
+039/151	söss	1	s ö ss
+039/153	söss	1	s ö ss
+039/155	ses	1	s e s
+040/029	sess	1	s e ss
+040/031	NA	NA	-
+040/033	ses	1	s e s
+040/035	sess	1	s e ss
+040/037	ses	1	s e s
+040/039	ses	1	s e s
+040/041	sess	1	s e ss
+040/043	sess	1	s e ss
+040/045	ses	1	s e s
+040/047	sess	1	s e ss
+040/049	sess	1	s e ss
+040/051	ses	1	s e s
+040/053	sess	1	s e ss
+040/055	sess	1	s e ss
+040/057	sess	1	s e ss
+040/059	ses	1	s e s
+040/061	sess	1	s e ss
+040/063	ses	1	s e s
+040/065	sess	1	s e ss
+040/067	sess	1	s e ss
+040/069	ses	1	s e s
+040/071	sess	1	s e ss
+040/073	ses	1	s e s
+040/075	ses	1	s e s
+040/077	sehs	1	s eh s
+040/079	söss	1	s ö ss
+040/081	söss	1	s ö ss
+040/083	söss	1	s ö ss
+040/085	söss	1	s ö ss
+040/087	sös	1	s ö s
+040/089	sös	1	s ö s
+040/091	söss	1	s ö ss
+040/093	söss	1	s ö ss
+040/095	sechs	1	s e ch s
+040/097	ses	1	s e s
+040/099	sechs	1	s e ch s
+040/101	sechs	1	s e ch s
+040/103	sechs	1	s e ch s
+040/105	sechs	1	s e ch s
+040/107	sechs	1	s e ch s
+040/109	sechs	1	s e ch s
+040/111	sechs	1	s e ch s
+040/113	söss	1	s ö ss
+040/115	sechs	1	s e ch s
+040/119	sechs	1	s e ch s
+040/121	sächs	1	s ä ch s
+040/123	sechs	1	s e ch s
+040/125	sechs	1	s e ch s
+040/127	sechs	1	s e ch s
+040/129	sechs	1	s e ch s
+040/131	sechs	1	s e ch s
+040/133	säcks	1	s ä ck s
+040/135	sächs	1	s ä ch s
+040/137	sechs	1	s e ch s
+040/141	sechs	1	s e ch s
+040/143	sechs	1	s e ch s
+040/149	sechs	1	s e ch s
+040/153	säs	1	s ä s
+040/155	söss	1	s ö ss
+041/031	ses	1	s e s
+041/033	ses	1	s e s
+041/035	ses	1	s e s
+041/037	sehs	1	s eh s
+041/039	ses	1	s e s
+041/041	ses	1	s e s
+041/043	sess	1	s e ss
+041/045	sess	1	s e ss
+041/047	ssess	1	ss e ss
+041/049	sess	1	s e ss
+041/051	ses	1	s e s
+041/053	sess	1	s e ss
+041/055	ses	1	s e s
+041/057	säs	1	s ä s
+041/059	ses	1	s e s
+041/061	sess	1	s e ss
+041/063	sess	1	s e ss
+041/065	sess	1	s e ss
+041/067	sess	1	s e ss
+041/069	NA	NA	-
+041/071	ses	1	s e s
+041/073	ses	1	s e s
+041/075	ses	1	s e s
+041/077	sös	1	s ö s
+041/079	sess	1	s e ss
+041/081	söss	1	s ö ss
+041/083	söss	1	s ö ss
+041/085	sös	1	s ö s
+041/087	sechs	1	s e ch s
+041/089	söss	1	s ö ss
+041/091	sechs	1	s e ch s
+041/093	sechs	1	s e ch s
+041/095	sechs	1	s e ch s
+041/097	sechs	1	s e ch s
+041/099	sechs	1	s e ch s
+041/101	sechs	1	s e ch s
+041/103	sechs	1	s e ch s
+041/105	sechs	1	s e ch s
+041/107	sechs	1	s e ch s
+041/109	söss	1	s ö ss
+041/111	sechs	1	s e ch s
+041/113	sechs	1	s e ch s
+041/115	sechs	1	s e ch s
+041/117	sächs	1	s ä ch s
+041/119	sechs	1	s e ch s
+041/121	sechs	1	s e ch s
+041/123	sechs	1	s e ch s
+041/125	sechs	1	s e ch s
+041/127	sechs	1	s e ch s
+041/129	secks	1	s e ck s
+041/131	sechs	1	s e ch s
+041/133	NA	NA	-
+041/135	sechs	1	s e ch s
+041/139	sechs	1	s e ch s
+041/141	sechs	1	s e ch s
+041/145	sechs	1	s e ch s
+041/147	sechs	1	s e ch s
+041/153	söss	1	s ö ss
+041/155	söss	1	s ö ss
+041/157	sös	1	s ö s
+041/159	sös	1	s ö s
+041/161	sös	1	s ö s
+042/033	ses	1	s e s
+042/035	ses	1	s e s
+042/037	ses	1	s e s
+042/039	ses	1	s e s
+042/041	ses	1	s e s
+042/043	ses	1	s e s
+042/045	sess	1	s e ss
+042/047	sess	1	s e ss
+042/051	sess	1	s e ss
+042/053	sess	1	s e ss
+042/055	sess	1	s e ss
+042/057	ses	1	s e s
+042/059	ses	1	s e s
+042/061	sess	1	s e ss
+042/063	ses	1	s e s
+042/065	ses	1	s e s
+042/067	sess	1	s e ss
+042/069	sess	1	s e ss
+042/071	ses	1	s e s
+042/073	sess	1	s e ss
+042/075	sess	1	s e ss
+042/077	sess	1	s e ss
+042/079	sess	1	s e ss
+042/081	sess	1	s e ss
+042/083	söss	1	s ö ss
+042/085	söss	1	s ö ss
+042/087	sechs	1	s e ch s
+042/089	sechs	1	s e ch s
+042/091	sechs	1	s e ch s
+042/093	sechs	1	s e ch s
+042/095	sechs	1	s e ch s
+042/097	sechs	1	s e ch s
+042/099	sechs	1	s e ch s
+042/101	sechs	1	s e ch s
+042/103	sechs	1	s e ch s
+042/105	secks	1	s e ck s
+042/107	sechs	1	s e ch s
+042/109	sechs	1	s e ch s
+042/111	sechs	1	s e ch s
+042/113	sechs	1	s e ch s
+042/115	NA	NA	-
+042/117	säks	1	s ä k s
+042/119	sächs	1	s ä ch s
+042/121	sächs	1	s ä ch s
+042/123	sechs	1	s e ch s
+042/125	säxs	1	s ä x s
+042/127	secks	1	s e ck s
+042/129	sechs	1	s e ch s
+042/131	sechs	1	s e ch s
+042/133	sechs	1	s e ch s
+042/135	sechs	1	s e ch s
+042/137	sechs	1	s e ch s
+042/139	sechs	1	s e ch s
+042/141	NA	NA	-
+042/143	sechs	1	s e ch s
+042/145	NA	NA	-
+042/147	sechs	1	s e ch s
+042/149	sechs	1	s e ch s
+042/151	seks	1	s e k s
+042/157	söss	1	s ö ss
+042/159	sess	1	s e ss
+042/161	sös	1	s ö s
+043/033	ses	1	s e s
+043/035	sess	1	s e ss
+043/037	NA	NA	-
+043/039	säs	1	s ä s
+043/041	ses	1	s e s
+043/043	ses	1	s e s
+043/045	sess	1	s e ss
+043/047	sess	1	s e ss
+043/049	sess	1	s e ss
+043/051	ses	1	s e s
+043/053	ses	1	s e s
+043/055	sess	1	s e ss
+043/057	sess	1	s e ss
+043/059	sess	1	s e ss
+043/061	sess	1	s e ss
+043/063	ses	1	s e s
+043/065	ses	1	s e s
+043/067	ses	1	s e s
+043/069	sess	1	s e ss
+043/071	ses	1	s e s
+043/073	sess	1	s e ss
+043/075	säss	1	s ä ss
+043/077	sess	1	s e ss
+043/079	sess	1	s e ss
+043/081	ses	1	s e s
+043/083	sechs	1	s e ch s
+043/085	söss	1	s ö ss
+043/087	sechs	1	s e ch s
+043/089	sechs	1	s e ch s
+043/091	sechs	1	s e ch s
+043/093	sechs	1	s e ch s
+043/095	sechs	1	s e ch s
+043/097	sechs	1	s e ch s
+043/099	sechs	1	s e ch s
+043/101	sechs	1	s e ch s
+043/103	sechs	1	s e ch s
+043/105	NA	NA	-
+043/107	sechs	1	s e ch s
+043/109	sechs	1	s e ch s
+043/111	sechs	1	s e ch s
+043/113	sechs	1	s e ch s
+043/115	sechs	1	s e ch s
+043/117	seks	1	s e k s
+043/119	sechs	1	s e ch s
+043/121	sechs	1	s e ch s
+043/123	saichs	1	s ai ch s
+043/125	sechs	1	s e ch s
+043/127	sechs	1	s e ch s
+043/129	sechs	1	s e ch s
+043/131	sechs	1	s e ch s
+043/133	sechs	1	s e ch s
+043/135	sechs	1	s e ch s
+043/137	sechs	1	s e ch s
+043/141	sechs	1	s e ch s
+043/143	sechs	1	s e ch s
+043/145	sechs	1	s e ch s
+043/151	sechs	1	s e ch s
+043/153	sechs	1	s e ch s
+043/159	söss	1	s ö ss
+043/161	sess	1	s e ss
+044/033	ses	1	s e s
+044/035	ses	1	s e s
+044/039	ses	1	s e s
+044/041	sess	1	s e ss
+044/043	sess	1	s e ss
+044/045	ses	1	s e s
+044/047	sses	1	ss e s
+044/049	sess	1	s e ss
+044/051	ses	1	s e s
+044/053	sess	1	s e ss
+044/055	sess	1	s e ss
+044/057	sess	1	s e ss
+044/059	sess	1	s e ss
+044/061	sess	1	s e ss
+044/063	sess	1	s e ss
+044/065	sess	1	s e ss
+044/067	ses	1	s e s
+044/069	ses	1	s e s
+044/071	ses	1	s e s
+044/073	sess	1	s e ss
+044/075	ses	1	s e s
+044/077	sess	1	s e ss
+044/079	sös	1	s ö s
+044/081	sechs	1	s e ch s
+044/083	sös	1	s ö s
+044/085	sechs	1	s e ch s
+044/087	sechs	1	s e ch s
+044/089	sös	1	s ö s
+044/091	sechs	1	s e ch s
+044/093	sechs	1	s e ch s
+044/095	sechs	1	s e ch s
+044/097	sechs	1	s e ch s
+044/099	sechs	1	s e ch s
+044/101	sechs	1	s e ch s
+044/103	sechs	1	s e ch s
+044/105	sechs	1	s e ch s
+044/107	säks	1	s ä k s
+044/109	sechs	1	s e ch s
+044/111	sechs	1	s e ch s
+044/113	sechs	1	s e ch s
+044/115	sechs	1	s e ch s
+044/117	sächs	1	s ä ch s
+044/119	sechs	1	s e ch s
+044/121	sechs	1	s e ch s
+044/123	saüchs	1	s aü ch s
+044/125	saiks	1	s ai k s
+044/127	sechs	1	s e ch s
+044/129	sechs	1	s e ch s
+044/131	sechs	1	s e ch s
+044/133	sechs	1	s e ch s
+044/135	sechs	1	s e ch s
+044/137	saichs	1	s ai ch s
+044/141	sechs	1	s e ch s
+044/143	sechs	1	s e ch s
+044/145	sechs	1	s e ch s
+044/149	sechs	1	s e ch s
+044/151	sechs	1	s e ch s
+044/153	sechs	1	s e ch s
+045/033	sehs	1	s eh s
+045/035	sess	1	s e ss
+045/037	sess	1	s e ss
+045/039	sess	1	s e ss
+045/041	sess	1	s e ss
+045/043	sess	1	s e ss
+045/045	sess	1	s e ss
+045/047	sess	1	s e ss
+045/049	ses	1	s e s
+045/051	ses	1	s e s
+045/053	sess	1	s e ss
+045/055	sess	1	s e ss
+045/057	ses	1	s e s
+045/059	sess	1	s e ss
+045/061	sess	1	s e ss
+045/063	ses	1	s e s
+045/065	ses	1	s e s
+045/067	sess	1	s e ss
+045/069	ses	1	s e s
+045/071	sess	1	s e ss
+045/073	sess	1	s e ss
+045/075	sess	1	s e ss
+045/077	sess	1	s e ss
+045/079	sess	1	s e ss
+045/081	ses	1	s e s
+045/083	sess	1	s e ss
+045/085	sess	1	s e ss
+045/087	sechs	1	s e ch s
+045/089	sechs	1	s e ch s
+045/091	sechs	1	s e ch s
+045/093	sechs	1	s e ch s
+045/095	sechs	1	s e ch s
+045/097	sechs	1	s e ch s
+045/099	sechs	1	s e ch s
+045/101	sechs	1	s e ch s
+045/103	sechs	1	s e ch s
+045/105	sechs	1	s e ch s
+045/107	sechs	1	s e ch s
+045/109	sechs	1	s e ch s
+045/111	seks	1	s e k s
+045/113	sechs	1	s e ch s
+045/115	NA	NA	-
+045/117	sechs	1	s e ch s
+045/119	sechs	1	s e ch s
+045/121	sechs	1	s e ch s
+045/123	sächs	1	s ä ch s
+045/125	sechs	1	s e ch s
+045/127	sechs	1	s e ch s
+045/129	sechs	1	s e ch s
+045/131	sechs	1	s e ch s
+045/133	sechs	1	s e ch s
+045/135	sechs	1	s e ch s
+045/137	sechs	1	s e ch s
+045/139	sechs	1	s e ch s
+045/141	sechs	1	s e ch s
+045/143	sechs	1	s e ch s
+045/145	sechs	1	s e ch s
+045/155	sechs	1	s e ch s
+046/031	sess	1	s e ss
+046/033	säs	1	s ä s
+046/035	sess	1	s e ss
+046/037	ses	1	s e s
+046/039	sees	1	s ee s
+046/041	ses	1	s e s
+046/043	sess	1	s e ss
+046/045	NA	NA	-
+046/047	sess	1	s e ss
+046/049	ses	1	s e s
+046/051	ses	1	s e s
+046/053	sess	1	s e ss
+046/055	sess	1	s e ss
+046/057	sess	1	s e ss
+046/059	sess	1	s e ss
+046/061	ses	1	s e s
+046/063	ses	1	s e s
+046/065	sess	1	s e ss
+046/067	sess	1	s e ss
+046/069	ses	1	s e s
+046/071	sess	1	s e ss
+046/073	sess	1	s e ss
+046/075	sess	1	s e ss
+046/077	sess	1	s e ss
+046/079	sess	1	s e ss
+046/081	sess	1	s e ss
+046/083	söss	1	s ö ss
+046/085	sechs	1	s e ch s
+046/087	sechs	1	s e ch s
+046/089	sechs	1	s e ch s
+046/091	sechs	1	s e ch s
+046/093	sechs	1	s e ch s
+046/095	sechs	1	s e ch s
+046/097	sechs	1	s e ch s
+046/099	sechs	1	s e ch s
+046/101	sechs	1	s e ch s
+046/103	sechs	1	s e ch s
+046/105	sechs	1	s e ch s
+046/107	sechs	1	s e ch s
+046/109	sechs	1	s e ch s
+046/111	sechs	1	s e ch s
+046/113	sechs	1	s e ch s
+046/115	sechs	1	s e ch s
+046/117	sechs	1	s e ch s
+046/119	NA	NA	-
+046/121	sechs	1	s e ch s
+046/123	sechs	1	s e ch s
+046/125	sechs	1	s e ch s
+046/127	sechs	1	s e ch s
+046/129	sechs	1	s e ch s
+046/131	sechs	1	s e ch s
+046/133	sechs	1	s e ch s
+046/135	saigs	1	s ai g s
+046/137	sechs	1	s e ch s
+046/139	seks	1	s e k s
+046/141	sechs	1	s e ch s
+046/143	sechs	1	s e ch s
+046/155	sechs	1	s e ch s
+047/031	säss	1	s ä ss
+047/033	sehs	1	s eh s
+047/035	sess	1	s e ss
+047/037	ses	1	s e s
+047/039	säs	1	s ä s
+047/041	ses	1	s e s
+047/043	ses	1	s e s
+047/045	ssess	1	ss e ss
+047/047	säs	1	s ä s
+047/049	ses	1	s e s
+047/051	sess	1	s e ss
+047/053	sess	1	s e ss
+047/055	ses	1	s e s
+047/057	sess	1	s e ss
+047/059	sess	1	s e ss
+047/061	sess	1	s e ss
+047/063	sess	1	s e ss
+047/065	ses	1	s e s
+047/067	sess	1	s e ss
+047/069	sess	1	s e ss
+047/071	sess	1	s e ss
+047/073	ses	1	s e s
+047/075	sess	1	s e ss
+047/077	sess	1	s e ss
+047/079	söss	1	s ö ss
+047/081	ses	1	s e s
+047/083	sechs	1	s e ch s
+047/085	sechs	1	s e ch s
+047/087	sechs	1	s e ch s
+047/089	sechs	1	s e ch s
+047/091	sechs	1	s e ch s
+047/093	NA	NA	-
+047/095	sechs	1	s e ch s
+047/097	sechs	1	s e ch s
+047/099	sechs	1	s e ch s
+047/101	säcks	1	s ä ck s
+047/103	sechs	1	s e ch s
+047/105	sechs	1	s e ch s
+047/107	sechs	1	s e ch s
+047/109	sächs	1	s ä ch s
+047/111	sechs	1	s e ch s
+047/113	sechs	1	s e ch s
+047/115	sechs	1	s e ch s
+047/117	sechs	1	s e ch s
+047/119	NA	NA	-
+047/123	saichs	1	s ai ch s
+047/125	saichs	1	s ai ch s
+047/127	sechs	1	s e ch s
+047/129	sechs	1	s e ch s
+047/131	sachs	1	s a ch s
+047/133	sechs	1	s e ch s
+047/135	sechs	1	s e ch s
+047/137	sechs	1	s e ch s
+047/139	sächs	1	s ä ch s
+047/141	sechs	1	s e ch s
+047/147	sechs	1	s e ch s
+047/149	secks	1	s e ck s
+047/151	NA	NA	-
+047/159	sechs	1	s e ch s
+048/021	säss	1	s ä ss
+048/023	ses	1	s e s
+048/027	ses	1	s e s
+048/029	ses	1	s e s
+048/031	säs	1	s ä s
+048/033	sechs	1	s e ch s
+048/035	säs	1	s ä s
+048/037	säs	1	s ä s
+048/039	ses	1	s e s
+048/041	ses	1	s e s
+048/045	säss	1	s ä ss
+048/047	säss	1	s ä ss
+048/049	säss	1	s ä ss
+048/051	säss	1	s ä ss
+048/053	ses	1	s e s
+048/055	sess	1	s e ss
+048/057	ses	1	s e s
+048/059	sess	1	s e ss
+048/061	ses	1	s e s
+048/063	ses	1	s e s
+048/065	sess	1	s e ss
+048/067	sess	1	s e ss
+048/069	sess	1	s e ss
+048/071	sechs	1	s e ch s
+048/073	ses	1	s e s
+048/075	sess	1	s e ss
+048/077	ses	1	s e s
+048/079	sess	1	s e ss
+048/081	sess	1	s e ss
+048/083	secks	1	s e ck s
+048/085	sechs	1	s e ch s
+048/087	sechs	1	s e ch s
+048/089	sechs	1	s e ch s
+048/091	sechs	1	s e ch s
+048/093	sechs	1	s e ch s
+048/095	sechs	1	s e ch s
+048/099	sechs	1	s e ch s
+048/101	sechs	1	s e ch s
+048/103	sechs	1	s e ch s
+048/105	sechs	1	s e ch s
+048/107	sechs	1	s e ch s
+048/109	sechs	1	s e ch s
+048/111	sechs	1	s e ch s
+048/113	sechs	1	s e ch s
+048/115	sechs	1	s e ch s
+048/119	sechs	1	s e ch s
+048/123	sachs	1	s a ch s
+048/125	saichs	1	s ai ch s
+048/127	sehs	1	s eh s
+048/129	sex	1	s e x
+048/131	sechs	1	s e ch s
+048/133	sechs	1	s e ch s
+048/135	sechs	1	s e ch s
+048/137	sechs	1	s e ch s
+048/139	segs	1	s e g s
+048/141	sechs	1	s e ch s
+048/143	sächs	1	s ä ch s
+048/145	säcks	1	s ä ck s
+048/147	saichs	1	s ai ch s
+048/153	sess	1	s e ss
+048/157	sechs	1	s e ch s
+048/159	sechs	1	s e ch s
+049/019	säss	1	s ä ss
+049/021	säss	1	s ä ss
+049/023	ses	1	s e s
+049/025	ses	1	s e s
+049/027	sess	1	s e ss
+049/029	sess	1	s e ss
+049/031	ses	1	s e s
+049/033	sess	1	s e ss
+049/035	säs	1	s ä s
+049/037	sess	1	s e ss
+049/039	säss	1	s ä ss
+049/041	säss	1	s ä ss
+049/043	säs	1	s ä s
+049/045	säss	1	s ä ss
+049/047	sess	1	s e ss
+049/049	säs	1	s ä s
+049/051	säss	1	s ä ss
+049/053	sess	1	s e ss
+049/055	ses	1	s e s
+049/057	sess	1	s e ss
+049/059	säss	1	s ä ss
+049/061	sess	1	s e ss
+049/063	sess	1	s e ss
+049/065	sess	1	s e ss
+049/067	ses	1	s e s
+049/069	sess	1	s e ss
+049/071	ssess	1	ss e ss
+049/073	sechs	1	s e ch s
+049/077	sess	1	s e ss
+049/079	sess	1	s e ss
+049/081	sechs	1	s e ch s
+049/083	ses	1	s e s
+049/085	sechs	1	s e ch s
+049/087	sechs	1	s e ch s
+049/089	secks	1	s e ck s
+049/091	sechs	1	s e ch s
+049/093	sechs	1	s e ch s
+049/095	sechs	1	s e ch s
+049/097	NA	NA	-
+049/099	sechs	1	s e ch s
+049/101	sechs	1	s e ch s
+049/103	sechs	1	s e ch s
+049/105	sechs	1	s e ch s
+049/107	NA	NA	-
+049/109	sechs	1	s e ch s
+049/111	sechs	1	s e ch s
+049/113	sechs	1	s e ch s
+049/115	NA	NA	-
+049/117	sechs	1	s e ch s
+049/119	sechs	1	s e ch s
+049/121	sechs	1	s e ch s
+049/123	sechs	1	s e ch s
+049/125	sechs	1	s e ch s
+049/127	sächs	1	s ä ch s
+049/129	sechs	1	s e ch s
+049/131	sechs	1	s e ch s
+049/133	sechs	1	s e ch s
+049/135	sächs	1	s ä ch s
+049/137	sechs	1	s e ch s
+049/139	sechs	1	s e ch s
+049/141	sächs	1	s ä ch s
+049/143	seichs	1	s ei ch s
+049/145	sechs	1	s e ch s
+049/147	sechs	1	s e ch s
+049/151	sechs	1	s e ch s
+050/021	sess	1	s e ss
+050/023	sechs	1	s e ch s
+050/025	säss	1	s ä ss
+050/027	ses	1	s e s
+050/029	sess	1	s e ss
+050/031	ses	1	s e s
+050/033	säss	1	s ä ss
+050/035	säs	1	s ä s
+050/037	sess	1	s e ss
+050/039	ses	1	s e s
+050/041	säs	1	s ä s
+050/043	ses	1	s e s
+050/047	säss	1	s ä ss
+050/049	sess	1	s e ss
+050/051	säss	1	s ä ss
+050/053	säss	1	s ä ss
+050/055	säss	1	s ä ss
+050/057	ses	1	s e s
+050/059	seis	1	s ei s
+050/061	sess	1	s e ss
+050/063	sess	1	s e ss
+050/065	ses	1	s e s
+050/067	ses	1	s e s
+050/069	sess	1	s e ss
+050/071	sess	1	s e ss
+050/073	ses	1	s e s
+050/075	sechs	1	s e ch s
+050/077	sess	1	s e ss
+050/079	sachs	1	s a ch s
+050/081	sechs	1	s e ch s
+050/083	seks	1	s e k s
+050/085	sechs	1	s e ch s
+050/087	sechs	1	s e ch s
+050/089	sachs	1	s a ch s
+050/091	sechs	1	s e ch s
+050/093	sechs	1	s e ch s
+050/095	sechs	1	s e ch s
+050/097	NA	NA	-
+050/099	sechs	1	s e ch s
+050/101	sechs	1	s e ch s
+050/103	seks	1	s e k s
+050/105	secks	1	s e ck s
+050/107	sechs	1	s e ch s
+050/109	seks	1	s e k s
+050/111	sechs	1	s e ch s
+050/113	sechs	1	s e ch s
+050/115	sechs	1	s e ch s
+050/117	sechs	1	s e ch s
+050/119	sechs	1	s e ch s
+050/121	sechs	1	s e ch s
+050/125	secks	1	s e ck s
+050/127	sechs	1	s e ch s
+050/129	sechs	1	s e ch s
+050/131	sechs	1	s e ch s
+050/133	ses	1	s e s
+050/135	sägs	1	s ä g s
+050/137	seiks	1	s ei k s
+050/139	sex	1	s e x
+050/141	sechs	1	s e ch s
+050/143	sähs	1	s äh s
+050/145	sechs	1	s e ch s
+050/147	sechs	1	s e ch s
+050/149	sechs	1	s e ch s
+050/151	seks	1	s e k s
+050/155	sechs	1	s e ch s
+050/157	sechs	1	s e ch s
+050/159	sechs	1	s e ch s
+050/161	sechs	1	s e ch s
+051/023	sääss	1	s ää ss
+051/025	sess	1	s e ss
+051/027	säss	1	s ä ss
+051/029	söss	1	s ö ss
+051/031	ses	1	s e s
+051/033	säss	1	s ä ss
+051/035	säss	1	s ä ss
+051/037	sess	1	s e ss
+051/039	ses	1	s e s
+051/041	säss	1	s ä ss
+051/043	säs	1	s ä s
+051/045	säs	1	s ä s
+051/047	säss	1	s ä ss
+051/049	ses	1	s e s
+051/051	NA	NA	-
+051/053	sais	1	s ai s
+051/055	sess	1	s e ss
+051/057	sess	1	s e ss
+051/059	sess	1	s e ss
+051/061	söss	1	s ö ss
+051/063	sess	1	s e ss
+051/065	sess	1	s e ss
+051/067	ses	1	s e s
+051/069	NA	NA	-
+051/071	ses	1	s e s
+051/073	sess	1	s e ss
+051/075	sachs	1	s a ch s
+051/077	sess	1	s e ss
+051/079	sächs	1	s ä ch s
+051/081	sechs	1	s e ch s
+051/083	säcks	1	s ä ck s
+051/085	sächs	1	s ä ch s
+051/087	säks	1	s ä k s
+051/089	sechs	1	s e ch s
+051/091	sechs	1	s e ch s
+051/093	sechs	1	s e ch s
+051/095	sechs	1	s e ch s
+051/097	sechs	1	s e ch s
+051/099	sechs	1	s e ch s
+051/101	sechs	1	s e ch s
+051/103	sechs	1	s e ch s
+051/105	sechs	1	s e ch s
+051/107	sächs	1	s ä ch s
+051/109	sechs	1	s e ch s
+051/111	seks	1	s e k s
+051/113	sechs	1	s e ch s
+051/115	sechs	1	s e ch s
+051/117	NA	NA	-
+051/119	sechs	1	s e ch s
+051/121	sechs	1	s e ch s
+051/123	sex	1	s e x
+051/125	sechs	1	s e ch s
+051/127	sechs	1	s e ch s
+051/129	sechs	1	s e ch s
+051/131	sechs	1	s e ch s
+051/133	NA	NA	-
+051/135	sächs	1	s ä ch s
+051/137	segs	1	s e g s
+051/139	sechs	1	s e ch s
+051/141	sechs	1	s e ch s
+051/143	sechs	1	s e ch s
+051/145	seks	1	s e k s
+051/147	sechs	1	s e ch s
+051/149	sechs	1	s e ch s
+051/151	sechs	1	s e ch s
+051/153	sechs	1	s e ch s
+051/155	seks	1	s e k s
+051/157	sechs	1	s e ch s
+052/023	sähs	1	s äh s
+052/025	säes	1	s äe s
+052/027	sähs	1	s äh s
+052/029	sess	1	s e ss
+052/031	ses	1	s e s
+052/033	säs	1	s ä s
+052/035	säss	1	s ä ss
+052/037	säss	1	s ä ss
+052/039	säs	1	s ä s
+052/041	siäss	1	s iä ss
+052/043	sess	1	s e ss
+052/045	sähs	1	s äh s
+052/047	ssäss	1	ss ä ss
+052/049	säs	1	s ä s
+052/051	säs	1	s ä s
+052/053	säs	1	s ä s
+052/057	sehs	1	s eh s
+052/059	ses	1	s e s
+052/061	ses	1	s e s
+052/063	sess	1	s e ss
+052/065	sess	1	s e ss
+052/067	ssess	1	ss e ss
+052/069	sess	1	s e ss
+052/071	sses	1	ss e s
+052/073	ses	1	s e s
+052/075	säks	1	s ä k s
+052/077	sachs	1	s a ch s
+052/079	sacks	1	s a ck s
+052/081	saächs	1	s aä ch s
+052/083	sachs	1	s a ch s
+052/085	säx	1	s ä x
+052/087	sacks	1	s a ck s
+052/089	säcks	1	s ä ck s
+052/091	sechs	1	s e ch s
+052/093	secks	1	s e ck s
+052/095	sechs	1	s e ch s
+052/097	sex	1	s e x
+052/099	sechs	1	s e ch s
+052/101	sechs	1	s e ch s
+052/103	sechs	1	s e ch s
+052/105	sechs	1	s e ch s
+052/107	sechs	1	s e ch s
+052/109	sechs	1	s e ch s
+052/111	sechs	1	s e ch s
+052/113	sechs	1	s e ch s
+052/115	secks	1	s e ck s
+052/117	sechs	1	s e ch s
+052/121	sechs	1	s e ch s
+052/123	sechs	1	s e ch s
+052/125	seks	1	s e k s
+052/127	sechs	1	s e ch s
+052/129	sechs	1	s e ch s
+052/131	sechs	1	s e ch s
+052/133	sechs	1	s e ch s
+052/135	sechs	1	s e ch s
+052/137	säcks	1	s ä ck s
+052/139	NA	NA	-
+052/141	seichs	1	s ei ch s
+052/143	seichs	1	s ei ch s
+052/145	sechs	1	s e ch s
+052/147	sechs	1	s e ch s
+052/149	sechs	1	s e ch s
+052/151	sechs	1	s e ch s
+052/153	sechs	1	s e ch s
+052/155	sechs	1	s e ch s
+052/157	sechs	1	s e ch s
+052/159	sechs	1	s e ch s
+053/023	seks	1	s e k s
+053/025	sähs	1	s äh s
+053/027	säss	1	s ä ss
+053/029	säss	1	s ä ss
+053/031	ssäss	1	ss ä ss
+053/033	ses	1	s e s
+053/035	NA	NA	-
+053/037	sess	1	s e ss
+053/039	säss	1	s ä ss
+053/041	ses	1	s e s
+053/043	säss	1	s ä ss
+053/045	säs	1	s ä s
+053/047	säss	1	s ä ss
+053/049	säss	1	s ä ss
+053/051	säs	1	s ä s
+053/053	seiss	1	s ei ss
+053/055	sähss	1	s äh ss
+053/057	säss	1	s ä ss
+053/059	ses	1	s e s
+053/061	ses	1	s e s
+053/063	sess	1	s e ss
+053/065	sses	1	ss e s
+053/067	ses	1	s e s
+053/069	sess	1	s e ss
+053/071	säss	1	s ä ss
+053/073	sess	1	s e ss
+053/075	sechs	1	s e ch s
+053/077	sachs	1	s a ch s
+053/079	sachs	1	s a ch s
+053/081	sächs	1	s ä ch s
+053/083	säcks	1	s ä ck s
+053/085	sechs	1	s e ch s
+053/087	sächs	1	s ä ch s
+053/089	sächs	1	s ä ch s
+053/091	sechs	1	s e ch s
+053/093	sechs	1	s e ch s
+053/095	sechs	1	s e ch s
+053/097	sechs	1	s e ch s
+053/099	secks	1	s e ck s
+053/101	sächs	1	s ä ch s
+053/103	sechs	1	s e ch s
+053/105	sechs	1	s e ch s
+053/107	NA	NA	-
+053/109	sechs	1	s e ch s
+053/111	sechs	1	s e ch s
+053/113	sechs	1	s e ch s
+053/115	sechs	1	s e ch s
+053/121	sechs	1	s e ch s
+053/123	sechs	1	s e ch s
+053/125	sechs	1	s e ch s
+053/127	sechs	1	s e ch s
+053/129	sechs	1	s e ch s
+053/131	NA	NA	-
+053/133	sechs	1	s e ch s
+053/135	sechs	1	s e ch s
+053/137	NA	NA	-
+053/139	sechs	1	s e ch s
+053/141	sechs	1	s e ch s
+053/143	sechs	1	s e ch s
+053/145	sechs	1	s e ch s
+053/147	sechs	1	s e ch s
+053/149	sechs	1	s e ch s
+053/151	sechs	1	s e ch s
+053/153	segs	1	s e g s
+053/155	sechs	1	s e ch s
+053/157	sechs	1	s e ch s
+054/023	sähs	1	s äh s
+054/025	säs	1	s ä s
+054/027	säs	1	s ä s
+054/029	säss	1	s ä ss
+054/031	sähs	1	s äh s
+054/033	säs	1	s ä s
+054/035	sess	1	s e ss
+054/037	säs	1	s ä s
+054/039	säs	1	s ä s
+054/041	ses	1	s e s
+054/043	ses	1	s e s
+054/045	säss	1	s ä ss
+054/047	sses	1	ss e s
+054/049	sess	1	s e ss
+054/051	säss	1	s ä ss
+054/053	säss	1	s ä ss
+054/055	säss	1	s ä ss
+054/057	sess	1	s e ss
+054/059	ses	1	s e s
+054/061	sächs	1	s ä ch s
+054/063	sechs	1	s e ch s
+054/065	ses	1	s e s
+054/067	sechs	1	s e ch s
+054/069	sechs	1	s e ch s
+054/071	saachs	1	s aa ch s
+054/073	sachs	1	s a ch s
+054/075	saacks	1	s aa ck s
+054/077	sächs	1	s ä ch s
+054/079	säcks	1	s ä ck s
+054/081	sächs	1	s ä ch s
+054/083	sächs	1	s ä ch s
+054/085	sächs	1	s ä ch s
+054/087	sächs	1	s ä ch s
+054/089	sächs	1	s ä ch s
+054/091	säx	1	s ä x
+054/093	sächs	1	s ä ch s
+054/095	sächs	1	s ä ch s
+054/097	sechs	1	s e ch s
+054/099	sechs	1	s e ch s
+054/101	sechs	1	s e ch s
+054/103	sechs	1	s e ch s
+054/105	sachs	1	s a ch s
+054/107	sächs	1	s ä ch s
+054/109	sechs	1	s e ch s
+054/111	sechs	1	s e ch s
+054/113	sechs	1	s e ch s
+054/115	sechs	1	s e ch s
+054/117	saechs	1	s ae ch s
+054/119	sex	1	s e x
+054/121	sechs	1	s e ch s
+054/123	sechs	1	s e ch s
+054/125	sechs	1	s e ch s
+054/127	sechs	1	s e ch s
+054/131	sechs	1	s e ch s
+054/133	sechs	1	s e ch s
+054/135	sechs	1	s e ch s
+054/137	sechs	1	s e ch s
+054/139	sechs	1	s e ch s
+054/141	sächs	1	s ä ch s
+054/143	sechs	1	s e ch s
+054/145	NA	NA	-
+054/147	sechs	1	s e ch s
+054/149	sechs	1	s e ch s
+054/151	seks	1	s e k s
+054/153	sechs	1	s e ch s
+054/155	sechs	1	s e ch s
+054/157	sefhs	1	s e f h s
+054/159	sechs	1	s e ch s
+054/161	sex	1	s e x
+054/163	sechs	1	s e ch s
+055/023	sähs	1	s äh s
+055/025	sähss	1	s äh ss
+055/027	sähss	1	s äh ss
+055/029	sechs	1	s e ch s
+055/031	säss	1	s ä ss
+055/033	säss	1	s ä ss
+055/035	ses	1	s e s
+055/037	säss	1	s ä ss
+055/039	sähs	1	s äh s
+055/041	sess	1	s e ss
+055/043	säs	1	s ä s
+055/045	säss	1	s ä ss
+055/047	sess	1	s e ss
+055/049	säs	1	s ä s
+055/051	säs	1	s ä s
+055/053	sess	1	s e ss
+055/055	sess	1	s e ss
+055/057	säss	1	s ä ss
+055/059	sess	1	s e ss
+055/061	sechs	1	s e ch s
+055/063	sechs	1	s e ch s
+055/065	sächs	1	s ä ch s
+055/067	sächs	1	s ä ch s
+055/069	NA	NA	-
+055/071	sächs	1	s ä ch s
+055/073	sächs	1	s ä ch s
+055/075	sachs	1	s a ch s
+055/077	sachs	1	s a ch s
+055/079	sachs	1	s a ch s
+055/081	sachs	1	s a ch s
+055/083	säcks	1	s ä ck s
+055/085	sächs	1	s ä ch s
+055/087	säx	1	s ä x
+055/089	saechs	1	s ae ch s
+055/091	sächs	1	s ä ch s
+055/093	sächs	1	s ä ch s
+055/095	sächs	1	s ä ch s
+055/097	sechs	1	s e ch s
+055/099	sechs	1	s e ch s
+055/101	sechs	1	s e ch s
+055/103	sachs	1	s a ch s
+055/105	sechs	1	s e ch s
+055/107	sechs	1	s e ch s
+055/109	sechs	1	s e ch s
+055/111	sechs	1	s e ch s
+055/113	sechs	1	s e ch s
+055/115	sechs	1	s e ch s
+055/117	säx	1	s ä x
+055/119	sechs	1	s e ch s
+055/123	sechs	1	s e ch s
+055/125	NA	NA	-
+055/127	NA	NA	-
+055/131	sechs	1	s e ch s
+055/133	seks	1	s e k s
+055/135	sechs	1	s e ch s
+055/137	sechs	1	s e ch s
+055/139	sechs	1	s e ch s
+055/141	sechs	1	s e ch s
+055/143	sechs	1	s e ch s
+055/145	sechs	1	s e ch s
+055/147	segs	1	s e g s
+055/149	NA	NA	-
+055/151	secks	1	s e ck s
+055/153	sechs	1	s e ch s
+055/155	sechs	1	s e ch s
+055/157	sechs	1	s e ch s
+055/159	sechs	1	s e ch s
+055/161	säks	1	s ä k s
+056/021	sähs	1	s äh s
+056/023	säs	1	s ä s
+056/025	säees	1	s äee s
+056/027	sähs	1	s äh s
+056/029	säx	1	s ä x
+056/031	sechs	1	s e ch s
+056/033	sess	1	s e ss
+056/035	säss	1	s ä ss
+056/037	säss	1	s ä ss
+056/039	säss	1	s ä ss
+056/041	säss	1	s ä ss
+056/043	sess	1	s e ss
+056/045	sess	1	s e ss
+056/047	säss	1	s ä ss
+056/049	NA	NA	-
+056/051	säss	1	s ä ss
+056/053	sess	1	s e ss
+056/055	sess	1	s e ss
+056/057	sess	1	s e ss
+056/059	sächs	1	s ä ch s
+056/061	sechs	1	s e ch s
+056/063	sechs	1	s e ch s
+056/065	sechs	1	s e ch s
+056/067	sächs	1	s ä ch s
+056/069	sechs	1	s e ch s
+056/071	sachs	1	s a ch s
+056/073	sachs	1	s a ch s
+056/075	sachs	1	s a ch s
+056/077	sachs	1	s a ch s
+056/079	sacks	1	s a ck s
+056/081	secks	1	s e ck s
+056/083	sachs	1	s a ch s
+056/085	sähs	1	s äh s
+056/087	sachs	1	s a ch s
+056/089	sachs	1	s a ch s
+056/091	sächs	1	s ä ch s
+056/093	sechs	1	s e ch s
+056/095	sechs	1	s e ch s
+056/097	sächs	1	s ä ch s
+056/099	sechs	1	s e ch s
+056/101	sechs	1	s e ch s
+056/103	sechs	1	s e ch s
+056/105	saechs	1	s ae ch s
+056/107	sechs	1	s e ch s
+056/109	sechs	1	s e ch s
+056/111	sechs	1	s e ch s
+056/113	sex	1	s e x
+056/115	sechs	1	s e ch s
+056/117	sechs	1	s e ch s
+056/121	sechs	1	s e ch s
+056/123	sechs	1	s e ch s
+056/125	sechs	1	s e ch s
+056/127	sechs	1	s e ch s
+056/129	sechs	1	s e ch s
+056/131	sechs	1	s e ch s
+056/133	sechs	1	s e ch s
+056/135	sechs	1	s e ch s
+056/137	sechs	1	s e ch s
+056/139	segs	1	s e g s
+056/141	sechs	1	s e ch s
+056/143	sechs	1	s e ch s
+056/145	NA	NA	-
+056/147	sechs	1	s e ch s
+056/149	segs	1	s e g s
+056/151	seks	1	s e k s
+056/153	sechs	1	s e ch s
+056/155	sechs	1	s e ch s
+056/157	sechs	1	s e ch s
+056/159	seks	1	s e k s
+056/161	NA	NA	-
+057/021	sächs	1	s ä ch s
+057/023	säs	1	s ä s
+057/025	sechs	1	s e ch s
+057/027	sechs	1	s e ch s
+057/029	sächs	1	s ä ch s
+057/031	NA	NA	-
+057/033	sess	1	s e ss
+057/035	säss	1	s ä ss
+057/037	sess	1	s e ss
+057/039	ses	1	s e s
+057/041	sess	1	s e ss
+057/043	sess	1	s e ss
+057/045	sess	1	s e ss
+057/047	ses	1	s e s
+057/049	säs	1	s ä s
+057/051	sachs	1	s a ch s
+057/053	säss	1	s ä ss
+057/055	sechs	1	s e ch s
+057/057	sächs	1	s ä ch s
+057/059	sechs	1	s e ch s
+057/061	sechs	1	s e ch s
+057/063	sechs	1	s e ch s
+057/065	sechs	1	s e ch s
+057/067	sächs	1	s ä ch s
+057/069	sechs	1	s e ch s
+057/071	sachs	1	s a ch s
+057/073	sacks	1	s a ck s
+057/075	sacks	1	s a ck s
+057/077	sächs	1	s ä ch s
+057/079	sacks	1	s a ck s
+057/081	sachs	1	s a ch s
+057/083	sacks	1	s a ck s
+057/085	sächs	1	s ä ch s
+057/087	sachs	1	s a ch s
+057/089	sächs	1	s ä ch s
+057/091	sachs	1	s a ch s
+057/093	sachs	1	s a ch s
+057/095	sacks	1	s a ck s
+057/097	sacks	1	s a ck s
+057/099	sechs	1	s e ch s
+057/101	sechs	1	s e ch s
+057/103	sechs	1	s e ch s
+057/105	sechs	1	s e ch s
+057/107	sechs	1	s e ch s
+057/109	sechs	1	s e ch s
+057/111	NA	NA	-
+057/113	NA	NA	-
+057/115	sechs	1	s e ch s
+057/117	sechs	1	s e ch s
+057/119	sechs	1	s e ch s
+057/121	sechs	1	s e ch s
+057/123	sechs	1	s e ch s
+057/125	sechs	1	s e ch s
+057/127	sechs	1	s e ch s
+057/129	NA	NA	-
+057/131	sechs	1	s e ch s
+057/133	sechs	1	s e ch s
+057/135	sechs	1	s e ch s
+057/137	segs	1	s e g s
+057/139	sechs	1	s e ch s
+057/141	sechs	1	s e ch s
+057/143	secks	1	s e ck s
+057/145	sechs	1	s e ch s
+057/147	sechs	1	s e ch s
+057/149	sechs	1	s e ch s
+057/151	sechs	1	s e ch s
+057/153	sechs	1	s e ch s
+057/155	sex	1	s e x
+057/157	sechs	1	s e ch s
+057/159	sechs	1	s e ch s
+057/161	sex	1	s e x
+058/019	sös	1	s ö s
+058/021	säess	1	s äe ss
+058/023	sähss	1	s äh ss
+058/025	sechs	1	s e ch s
+058/027	sechs	1	s e ch s
+058/029	sechs	1	s e ch s
+058/031	sechs	1	s e ch s
+058/033	sechs	1	s e ch s
+058/035	sechs	1	s e ch s
+058/037	seks	1	s e k s
+058/039	sess	1	s e ss
+058/041	sehs	1	s eh s
+058/043	sess	1	s e ss
+058/045	ses	1	s e s
+058/047	sächs	1	s ä ch s
+058/049	sächs	1	s ä ch s
+058/051	sechs	1	s e ch s
+058/053	sechs	1	s e ch s
+058/055	NA	NA	-
+058/057	sächs	1	s ä ch s
+058/059	sächs	1	s ä ch s
+058/061	sechs	1	s e ch s
+058/063	sechs	1	s e ch s
+058/065	saächs	1	s aä ch s
+058/067	sächs	1	s ä ch s
+058/069	NA	NA	-
+058/071	sächs	1	s ä ch s
+058/073	sächs	1	s ä ch s
+058/075	sachs	1	s a ch s
+058/077	NA	NA	-
+058/079	sachs	1	s a ch s
+058/081	sachs	1	s a ch s
+058/083	säcks	1	s ä ck s
+058/085	sächs	1	s ä ch s
+058/087	sachs	1	s a ch s
+058/089	saachs	1	s aa ch s
+058/091	saks	1	s a k s
+058/093	sechs	1	s e ch s
+058/095	sachs	1	s a ch s
+058/097	sachs	1	s a ch s
+058/099	sechs	1	s e ch s
+058/101	sechs	1	s e ch s
+058/103	sechs	1	s e ch s
+058/105	sächs	1	s ä ch s
+058/107	sechs	1	s e ch s
+058/109	NA	NA	-
+058/111	sechs	1	s e ch s
+058/113	sechs	1	s e ch s
+058/115	sechs	1	s e ch s
+058/117	sechs	1	s e ch s
+058/119	sechs	1	s e ch s
+058/121	sex	1	s e x
+058/123	sex	1	s e x
+058/125	sex	1	s e x
+058/127	sex	1	s e x
+058/129	sechs	1	s e ch s
+058/131	sechs	1	s e ch s
+058/133	NA	NA	-
+058/135	sechs	1	s e ch s
+058/137	sechs	1	s e ch s
+058/139	sechs	1	s e ch s
+058/141	sechs	1	s e ch s
+058/143	secks	1	s e ck s
+058/145	sechs	1	s e ch s
+058/147	sächs	1	s ä ch s
+058/149	sechs	1	s e ch s
+058/151	secks	1	s e ck s
+058/153	segs	1	s e g s
+058/155	sex	1	s e x
+058/157	sechs	1	s e ch s
+058/159	sechs	1	s e ch s
+059/019	soss	1	s o ss
+059/021	sähs	1	s äh s
+059/023	sächs	1	s ä ch s
+059/025	sechs	1	s e ch s
+059/027	sechs	1	s e ch s
+059/029	sächs	1	s ä ch s
+059/031	secks	1	s e ck s
+059/033	sechs	1	s e ch s
+059/035	sechs	1	s e ch s
+059/037	sechs	1	s e ch s
+059/039	sechs	1	s e ch s
+059/041	seks	1	s e k s
+059/043	sechs	1	s e ch s
+059/045	sechs	1	s e ch s
+059/047	sächs	1	s ä ch s
+059/049	sechs	1	s e ch s
+059/051	sechs	1	s e ch s
+059/053	NA	NA	-
+059/055	sechs	1	s e ch s
+059/057	sechs	1	s e ch s
+059/059	sechs	1	s e ch s
+059/061	sechs	1	s e ch s
+059/063	sechs	1	s e ch s
+059/065	sechs	1	s e ch s
+059/067	säachs	1	s äa ch s
+059/069	sächs	1	s ä ch s
+059/071	NA	NA	-
+059/073	sächs	1	s ä ch s
+059/075	seacks	1	s ea ck s
+059/077	sächs	1	s ä ch s
+059/079	sechs	1	s e ch s
+059/081	säcks	1	s ä ck s
+059/083	säcks	1	s ä ck s
+059/085	saechs	1	s ae ch s
+059/087	saechs	1	s ae ch s
+059/089	sachs	1	s a ch s
+059/091	sachs	1	s a ch s
+059/093	sechs	1	s e ch s
+059/095	sachs	1	s a ch s
+059/097	sechs	1	s e ch s
+059/099	sachs	1	s a ch s
+059/101	sachs	1	s a ch s
+059/103	sächs	1	s ä ch s
+059/105	sechs	1	s e ch s
+059/107	sechs	1	s e ch s
+059/109	sächs	1	s ä ch s
+059/111	sechs	1	s e ch s
+059/113	sechs	1	s e ch s
+059/115	sechs	1	s e ch s
+059/117	sechs	1	s e ch s
+059/119	sechs	1	s e ch s
+059/121	sechs	1	s e ch s
+059/123	NA	NA	-
+059/125	sechs	1	s e ch s
+059/127	NA	NA	-
+059/129	seks	1	s e k s
+059/131	secks	1	s e ck s
+059/133	sechs	1	s e ch s
+059/135	sechs	1	s e ch s
+059/137	sechs	1	s e ch s
+059/139	sechs	1	s e ch s
+059/141	sechs	1	s e ch s
+059/143	sechs	1	s e ch s
+059/145	seks	1	s e k s
+059/147	sechs	1	s e ch s
+059/149	sechs	1	s e ch s
+059/151	sechs	1	s e ch s
+059/153	sechs	1	s e ch s
+059/155	sechs	1	s e ch s
+059/157	sechs	1	s e ch s
+059/159	sechs	1	s e ch s
+059/161	sechs	1	s e ch s
+059/165	sechs	1	s e ch s
+059/169	sechs	1	s e ch s
+060/021	NA	NA	-
+060/023	sechs	1	s e ch s
+060/025	sächs	1	s ä ch s
+060/027	sechs	1	s e ch s
+060/029	NA	NA	-
+060/031	sechs	1	s e ch s
+060/033	sechs	1	s e ch s
+060/035	sechs	1	s e ch s
+060/037	sechs	1	s e ch s
+060/039	sechs	1	s e ch s
+060/041	sächs	1	s ä ch s
+060/043	sechs	1	s e ch s
+060/045	sechs	1	s e ch s
+060/047	sechs	1	s e ch s
+060/049	säks	1	s ä k s
+060/051	säks	1	s ä k s
+060/053	sechs	1	s e ch s
+060/055	sechs	1	s e ch s
+060/057	sechs	1	s e ch s
+060/059	sechs	1	s e ch s
+060/061	sächs	1	s ä ch s
+060/063	sechs	1	s e ch s
+060/065	sächs	1	s ä ch s
+060/067	sächs	1	s ä ch s
+060/069	sächs	1	s ä ch s
+060/071	saechs	1	s ae ch s
+060/073	saass	1	s aa ss
+060/075	sass	1	s a ss
+060/077	sechs	1	s e ch s
+060/079	sechs	1	s e ch s
+060/081	sechs	1	s e ch s
+060/083	sachs	1	s a ch s
+060/085	sachs	1	s a ch s
+060/087	sachs	1	s a ch s
+060/089	sachs	1	s a ch s
+060/091	sachs	1	s a ch s
+060/093	sechs	1	s e ch s
+060/095	sachs	1	s a ch s
+060/097	sachs	1	s a ch s
+060/099	sechs	1	s e ch s
+060/101	sechs	1	s e ch s
+060/103	sechs	1	s e ch s
+060/105	NA	NA	-
+060/107	sechs	1	s e ch s
+060/109	sächs	1	s ä ch s
+060/111	sechs	1	s e ch s
+060/113	sechs	1	s e ch s
+060/115	sechs	1	s e ch s
+060/117	sechs	1	s e ch s
+060/119	sechs	1	s e ch s
+060/121	sachs	1	s a ch s
+060/123	sechs	1	s e ch s
+060/125	sechs	1	s e ch s
+060/127	säx	1	s ä x
+060/129	segs	1	s e g s
+060/131	sechs	1	s e ch s
+060/135	sechs	1	s e ch s
+060/137	sechs	1	s e ch s
+060/139	secks	1	s e ck s
+060/141	NA	NA	-
+060/143	secks	1	s e ck s
+060/145	sekks	1	s e kk s
+060/147	sechs	1	s e ch s
+060/149	NA	NA	-
+060/151	sechs	1	s e ch s
+060/153	NA	NA	-
+060/155	sechs	1	s e ch s
+060/157	seks	1	s e k s
+060/159	NA	NA	-
+060/163	sechs	1	s e ch s
+060/165	sechs	1	s e ch s
+061/021	sess	1	s e ss
+061/023	säss	1	s ä ss
+061/025	sex	1	s e x
+061/027	sechs	1	s e ch s
+061/029	säks	1	s ä k s
+061/031	sechs	1	s e ch s
+061/033	secks	1	s e ck s
+061/035	sachs	1	s a ch s
+061/037	sechs	1	s e ch s
+061/039	sechs	1	s e ch s
+061/041	sechs	1	s e ch s
+061/043	sechs	1	s e ch s
+061/045	sechs	1	s e ch s
+061/047	sechs	1	s e ch s
+061/049	sechs	1	s e ch s
+061/051	sächs	1	s ä ch s
+061/053	sechs	1	s e ch s
+061/055	sechs	1	s e ch s
+061/057	säcks	1	s ä ck s
+061/059	sex	1	s e x
+061/061	sächs	1	s ä ch s
+061/063	sächs	1	s ä ch s
+061/065	sächs	1	s ä ch s
+061/067	säcks	1	s ä ck s
+061/069	sechs	1	s e ch s
+061/071	sächs	1	s ä ch s
+061/073	sächs	1	s ä ch s
+061/075	sass	1	s a ss
+061/077	NA	NA	-
+061/079	sechs	1	s e ch s
+061/081	sechs	1	s e ch s
+061/083	sechs	1	s e ch s
+061/085	sachs	1	s a ch s
+061/087	sachs	1	s a ch s
+061/089	sachs	1	s a ch s
+061/091	sachs	1	s a ch s
+061/093	sachs	1	s a ch s
+061/095	sachs	1	s a ch s
+061/097	sachs	1	s a ch s
+061/099	sechs	1	s e ch s
+061/101	NA	NA	-
+061/103	sechs	1	s e ch s
+061/105	sächs	1	s ä ch s
+061/107	sechs	1	s e ch s
+061/109	säcks	1	s ä ck s
+061/111	sechs	1	s e ch s
+061/113	sächs	1	s ä ch s
+061/115	sechs	1	s e ch s
+061/117	sachs	1	s a ch s
+061/119	sacks	1	s a ck s
+061/121	sachs	1	s a ch s
+061/123	sechs	1	s e ch s
+061/125	sechs	1	s e ch s
+061/127	sechs	1	s e ch s
+061/129	sex	1	s e x
+061/131	sachs	1	s a ch s
+061/133	sex	1	s e x
+061/137	sechs	1	s e ch s
+061/139	sechs	1	s e ch s
+061/141	sechs	1	s e ch s
+061/143	sechs	1	s e ch s
+061/145	sechs	1	s e ch s
+061/147	segs	1	s e g s
+061/149	sechs	1	s e ch s
+061/151	sechs	1	s e ch s
+061/153	secks	1	s e ck s
+061/155	secks	1	s e ck s
+061/157	sechs	1	s e ch s
+061/159	sechs	1	s e ch s
+061/161	sächs	1	s ä ch s
+061/165	NA	NA	-
+062/021	sess	1	s e ss
+062/023	sähs	1	s äh s
+062/025	säcks	1	s ä ck s
+062/027	sechs	1	s e ch s
+062/029	sechs	1	s e ch s
+062/031	sechs	1	s e ch s
+062/033	sechs	1	s e ch s
+062/035	sechs	1	s e ch s
+062/037	sechs	1	s e ch s
+062/039	sechs	1	s e ch s
+062/041	sechs	1	s e ch s
+062/043	sechs	1	s e ch s
+062/045	sicks	1	s i ck s
+062/047	sechs	1	s e ch s
+062/049	sechs	1	s e ch s
+062/051	sechs	1	s e ch s
+062/053	sechs	1	s e ch s
+062/055	secks	1	s e ck s
+062/057	sechs	1	s e ch s
+062/059	sächs	1	s ä ch s
+062/061	sächs	1	s ä ch s
+062/063	sächs	1	s ä ch s
+062/065	sechs	1	s e ch s
+062/067	sächs	1	s ä ch s
+062/069	säks	1	s ä k s
+062/071	sächs	1	s ä ch s
+062/073	sass	1	s a ss
+062/075	sass	1	s a ss
+062/077	sechs	1	s e ch s
+062/079	sechs	1	s e ch s
+062/081	sechs	1	s e ch s
+062/083	sechs	1	s e ch s
+062/085	sachs	1	s a ch s
+062/087	sachs	1	s a ch s
+062/089	sachs	1	s a ch s
+062/091	sachs	1	s a ch s
+062/093	sachs	1	s a ch s
+062/095	sechs	1	s e ch s
+062/097	sechs	1	s e ch s
+062/099	sechs	1	s e ch s
+062/101	sechs	1	s e ch s
+062/103	sechs	1	s e ch s
+062/105	sechs	1	s e ch s
+062/107	sechs	1	s e ch s
+062/109	sechs	1	s e ch s
+062/111	sechs	1	s e ch s
+062/113	sechs	1	s e ch s
+062/115	sechs	1	s e ch s
+062/117	sechs	1	s e ch s
+062/119	sax	1	s a x
+062/121	sachs	1	s a ch s
+062/123	sechs	1	s e ch s
+062/125	seks	1	s e k s
+062/127	sechs	1	s e ch s
+062/129	sajchs	1	s a j ch s
+062/131	sechs	1	s e ch s
+062/133	sex	1	s e x
+062/135	sex	1	s e x
+062/137	sechs	1	s e ch s
+062/139	sex	1	s e x
+062/141	sechs	1	s e ch s
+062/143	sechs	1	s e ch s
+062/145	sechs	1	s e ch s
+062/147	sechs	1	s e ch s
+062/149	sechs	1	s e ch s
+062/151	sechs	1	s e ch s
+062/153	sechs	1	s e ch s
+062/155	sechs	1	s e ch s
+062/157	sechs	1	s e ch s
+062/159	sechs	1	s e ch s
+062/161	seks	1	s e k s
+063/021	sess	1	s e ss
+063/023	sähss	1	s äh ss
+063/025	sächs	1	s ä ch s
+063/027	sechs	1	s e ch s
+063/029	sechs	1	s e ch s
+063/031	sechs	1	s e ch s
+063/033	sechs	1	s e ch s
+063/035	sechs	1	s e ch s
+063/037	sechs	1	s e ch s
+063/039	sechs	1	s e ch s
+063/041	sechs	1	s e ch s
+063/043	seichs	1	s ei ch s
+063/045	sechs	1	s e ch s
+063/047	sehs	1	s eh s
+063/049	NA	NA	-
+063/051	sechs	1	s e ch s
+063/053	sechs	1	s e ch s
+063/055	NA	NA	-
+063/057	sechs	1	s e ch s
+063/059	NA	NA	-
+063/061	sechs	1	s e ch s
+063/063	sächs	1	s ä ch s
+063/065	sechs	1	s e ch s
+063/067	sächs	1	s ä ch s
+063/069	sächs	1	s ä ch s
+063/071	sächs	1	s ä ch s
+063/073	sas	1	s a s
+063/075	sass	1	s a ss
+063/077	sass	1	s a ss
+063/079	sechs	1	s e ch s
+063/081	sechs	1	s e ch s
+063/083	sechs	1	s e ch s
+063/085	sechs	1	s e ch s
+063/087	sachs	1	s a ch s
+063/089	sachs	1	s a ch s
+063/091	saachs	1	s aa ch s
+063/093	sechs	1	s e ch s
+063/095	sechs	1	s e ch s
+063/097	sechs	1	s e ch s
+063/099	sechs	1	s e ch s
+063/101	sechs	1	s e ch s
+063/103	sechs	1	s e ch s
+063/105	sechs	1	s e ch s
+063/107	sechs	1	s e ch s
+063/109	sechs	1	s e ch s
+063/111	segs	1	s e g s
+063/113	segs	1	s e g s
+063/115	sax	1	s a x
+063/117	saks	1	s a k s
+063/119	sachs	1	s a ch s
+063/121	sachs	1	s a ch s
+063/123	seks	1	s e k s
+063/125	NA	NA	-
+063/127	sechs	1	s e ch s
+063/135	sachs	1	s a ch s
+063/137	seks	1	s e k s
+063/139	seks	1	s e k s
+063/141	secks	1	s e ck s
+063/143	seks	1	s e k s
+063/145	sex	1	s e x
+063/147	sechs	1	s e ch s
+063/149	sechs	1	s e ch s
+063/151	sechs	1	s e ch s
+063/153	sechs	1	s e ch s
+063/155	sechs	1	s e ch s
+063/157	sechs	1	s e ch s
+063/159	sechs	1	s e ch s
+063/161	seks	1	s e k s
+063/163	sechs	1	s e ch s
+063/165	sechs	1	s e ch s
+064/023	säs	1	s ä s
+064/025	sechs	1	s e ch s
+064/027	sechs	1	s e ch s
+064/029	sechs	1	s e ch s
+064/031	sechs	1	s e ch s
+064/033	sechs	1	s e ch s
+064/035	sechs	1	s e ch s
+064/037	sechs	1	s e ch s
+064/039	sechs	1	s e ch s
+064/041	sechs	1	s e ch s
+064/043	sechs	1	s e ch s
+064/045	sechs	1	s e ch s
+064/047	sechs	1	s e ch s
+064/049	sechs	1	s e ch s
+064/051	sechs	1	s e ch s
+064/053	sechs	1	s e ch s
+064/055	sechs	1	s e ch s
+064/057	sechs	1	s e ch s
+064/059	sechs	1	s e ch s
+064/061	sächs	1	s ä ch s
+064/063	sächs	1	s ä ch s
+064/065	sechs	1	s e ch s
+064/067	sechs	1	s e ch s
+064/069	saächs	1	s aä ch s
+064/071	sechs	1	s e ch s
+064/073	NA	NA	-
+064/075	sechs	1	s e ch s
+064/077	sechs	1	s e ch s
+064/079	sechs	1	s e ch s
+064/081	sechs	1	s e ch s
+064/083	sechs	1	s e ch s
+064/085	sechs	1	s e ch s
+064/087	sechs	1	s e ch s
+064/089	sechs	1	s e ch s
+064/091	sechs	1	s e ch s
+064/093	sechs	1	s e ch s
+064/095	sechs	1	s e ch s
+064/097	sechs	1	s e ch s
+064/099	sechs	1	s e ch s
+064/101	sechs	1	s e ch s
+064/103	sechs	1	s e ch s
+064/105	sechs	1	s e ch s
+064/107	segs	1	s e g s
+064/109	sechs	1	s e ch s
+064/111	sex	1	s e x
+064/113	sechs	1	s e ch s
+064/115	sechs	1	s e ch s
+064/117	sachs	1	s a ch s
+064/119	sachs	1	s a ch s
+064/121	sachs	1	s a ch s
+064/123	saks	1	s a k s
+064/125	sachs	1	s a ch s
+064/127	sechs	1	s e ch s
+064/135	sachs	1	s a ch s
+064/137	secks	1	s e ck s
+064/139	sechs	1	s e ch s
+064/141	sex	1	s e x
+064/143	sex	1	s e x
+064/145	segs	1	s e g s
+064/147	sex	1	s e x
+064/149	seks	1	s e k s
+064/151	sechs	1	s e ch s
+064/153	seks	1	s e k s
+064/155	sex	1	s e x
+064/157	segs	1	s e g s
+064/159	seks	1	s e k s
+065/021	sees	1	s ee s
+065/023	sechs	1	s e ch s
+065/025	sechs	1	s e ch s
+065/027	säks	1	s ä k s
+065/029	sechs	1	s e ch s
+065/031	sechs	1	s e ch s
+065/033	sechs	1	s e ch s
+065/035	sechs	1	s e ch s
+065/037	sechs	1	s e ch s
+065/039	sechs	1	s e ch s
+065/041	sechs	1	s e ch s
+065/043	sechs	1	s e ch s
+065/045	sechs	1	s e ch s
+065/047	sechs	1	s e ch s
+065/049	sex	1	s e x
+065/051	sechs	1	s e ch s
+065/053	sechs	1	s e ch s
+065/055	sechs	1	s e ch s
+065/057	sechs	1	s e ch s
+065/059	sechs	1	s e ch s
+065/061	sechs	1	s e ch s
+065/063	sächs	1	s ä ch s
+065/065	sächs	1	s ä ch s
+065/067	sächs	1	s ä ch s
+065/069	säächs	1	s ää ch s
+065/071	sechs	1	s e ch s
+065/073	sechs	1	s e ch s
+065/075	sechs	1	s e ch s
+065/077	sechs	1	s e ch s
+065/079	NA	NA	-
+065/081	sechs	1	s e ch s
+065/083	sechs	1	s e ch s
+065/085	sechs	1	s e ch s
+065/087	sechs	1	s e ch s
+065/089	sechs	1	s e ch s
+065/091	sechs	1	s e ch s
+065/093	sechs	1	s e ch s
+065/095	sechs	1	s e ch s
+065/097	seks	1	s e k s
+065/101	sechs	1	s e ch s
+065/103	sechs	1	s e ch s
+065/105	sechs	1	s e ch s
+065/107	sex	1	s e x
+065/109	sechs	1	s e ch s
+065/111	sechs	1	s e ch s
+065/113	sechs	1	s e ch s
+065/115	sechs	1	s e ch s
+065/121	sachs	1	s a ch s
+065/123	NA	NA	-
+065/137	NA	NA	-
+065/139	seks	1	s e k s
+065/143	seks	1	s e k s
+065/145	segs	1	s e g s
+065/147	sechs	1	s e ch s
+065/149	secks	1	s e ck s
+065/151	NA	NA	-
+065/153	segs	1	s e g s
+065/155	seks	1	s e k s
+065/157	sex	1	s e x
+065/159	sex	1	s e x
+066/021	sechs	1	s e ch s
+066/023	NA	NA	-
+066/025	sechs	1	s e ch s
+066/027	sechs	1	s e ch s
+066/029	sechs	1	s e ch s
+066/031	sechs	1	s e ch s
+066/033	sechs	1	s e ch s
+066/035	sechs	1	s e ch s
+066/037	sechs	1	s e ch s
+066/039	sechs	1	s e ch s
+066/041	sechs	1	s e ch s
+066/043	sechs	1	s e ch s
+066/045	sechs	1	s e ch s
+066/047	sechs	1	s e ch s
+066/049	sechs	1	s e ch s
+066/051	sechs	1	s e ch s
+066/053	sechs	1	s e ch s
+066/055	sechs	1	s e ch s
+066/057	sechs	1	s e ch s
+066/059	sechs	1	s e ch s
+066/061	sechs	1	s e ch s
+066/063	NA	NA	-
+066/065	sechs	1	s e ch s
+066/067	sichs	1	s i ch s
+066/069	sächs	1	s ä ch s
+066/071	sechs	1	s e ch s
+066/073	NA	NA	-
+066/075	sechs	1	s e ch s
+066/077	sechs	1	s e ch s
+066/079	sächs	1	s ä ch s
+066/081	sechs	1	s e ch s
+066/083	sechs	1	s e ch s
+066/085	sechs	1	s e ch s
+066/087	sechs	1	s e ch s
+066/089	sechs	1	s e ch s
+066/091	sechs	1	s e ch s
+066/093	sechs	1	s e ch s
+066/095	sechs	1	s e ch s
+066/097	sechs	1	s e ch s
+066/099	segs	1	s e g s
+066/101	seggs	1	s e gg s
+066/103	sex	1	s e x
+066/105	sechs	1	s e ch s
+066/107	secks	1	s e ck s
+066/109	sechs	1	s e ch s
+066/111	sechs	1	s e ch s
+066/113	sex	1	s e x
+066/121	sacks	1	s a ck s
+066/139	sex	1	s e x
+066/143	sechs	1	s e ch s
+066/145	sechs	1	s e ch s
+066/147	sägs	1	s ä g s
+066/149	seks	1	s e k s
+066/151	säx	1	s ä x
+066/153	säks	1	s ä k s
+066/155	sechs	1	s e ch s
+066/157	segs	1	s e g s
+066/159	secks	1	s e ck s
+066/161	segs	1	s e g s
+066/163	seks	1	s e k s
+067/021	sechs	1	s e ch s
+067/023	sechs	1	s e ch s
+067/025	sechs	1	s e ch s
+067/027	sechs	1	s e ch s
+067/029	sechs	1	s e ch s
+067/031	sechs	1	s e ch s
+067/033	sechs	1	s e ch s
+067/035	seechs	1	s ee ch s
+067/037	sachs	1	s a ch s
+067/039	sechs	1	s e ch s
+067/041	sechs	1	s e ch s
+067/043	sechs	1	s e ch s
+067/045	sechs	1	s e ch s
+067/047	sechs	1	s e ch s
+067/049	sechs	1	s e ch s
+067/051	sechs	1	s e ch s
+067/053	sechs	1	s e ch s
+067/055	sechs	1	s e ch s
+067/057	sechs	1	s e ch s
+067/059	sex	1	s e x
+067/061	sechs	1	s e ch s
+067/063	sechs	1	s e ch s
+067/065	sechs	1	s e ch s
+067/067	sechs	1	s e ch s
+067/069	sex	1	s e x
+067/071	sechs	1	s e ch s
+067/073	sechs	1	s e ch s
+067/075	sechs	1	s e ch s
+067/077	sechs	1	s e ch s
+067/079	sechs	1	s e ch s
+067/081	sechs	1	s e ch s
+067/083	sechs	1	s e ch s
+067/085	sechs	1	s e ch s
+067/087	sechs	1	s e ch s
+067/089	sechs	1	s e ch s
+067/091	sechs	1	s e ch s
+067/093	sechs	1	s e ch s
+067/095	sechs	1	s e ch s
+067/097	sechs	1	s e ch s
+067/099	sex	1	s e x
+067/101	segs	1	s e g s
+067/103	seks	1	s e k s
+067/105	seks	1	s e k s
+067/107	sechs	1	s e ch s
+067/109	sex	1	s e x
+067/111	sex	1	s e x
+067/113	sechs	1	s e ch s
+067/143	seks	1	s e k s
+067/145	sechs	1	s e ch s
+067/147	sechs	1	s e ch s
+067/149	sechs	1	s e ch s
+067/151	seks	1	s e k s
+067/153	sechs	1	s e ch s
+067/155	secks	1	s e ck s
+067/157	secks	1	s e ck s
+067/159	säks	1	s ä k s
+067/161	secks	1	s e ck s
+067/163	seks	1	s e k s
+067/165	seks	1	s e k s
+067/177	sechs	1	s e ch s
+068/021	sechs	1	s e ch s
+068/023	sechs	1	s e ch s
+068/025	sechs	1	s e ch s
+068/027	sechs	1	s e ch s
+068/029	sechs	1	s e ch s
+068/031	sechs	1	s e ch s
+068/033	sechs	1	s e ch s
+068/035	sechs	1	s e ch s
+068/037	sechs	1	s e ch s
+068/039	sechs	1	s e ch s
+068/041	sechs	1	s e ch s
+068/043	sechs	1	s e ch s
+068/045	sechs	1	s e ch s
+068/047	sächs	1	s ä ch s
+068/049	sechs	1	s e ch s
+068/051	sechs	1	s e ch s
+068/053	sechs	1	s e ch s
+068/055	sechs	1	s e ch s
+068/057	sechs	1	s e ch s
+068/059	NA	NA	-
+068/061	sechs	1	s e ch s
+068/063	säix	1	s äi x
+068/065	NA	NA	-
+068/067	sechs	1	s e ch s
+068/069	säichs	1	s äi ch s
+068/071	siichs	1	s ii ch s
+068/073	NA	NA	-
+068/075	sechs	1	s e ch s
+068/077	sechs	1	s e ch s
+068/079	sechs	1	s e ch s
+068/081	sechs	1	s e ch s
+068/083	sechs	1	s e ch s
+068/085	sex	1	s e x
+068/087	sechs	1	s e ch s
+068/089	sechs	1	s e ch s
+068/091	sechs	1	s e ch s
+068/093	sechs	1	s e ch s
+068/095	sechs	1	s e ch s
+068/097	sexs	1	s e x s
+068/099	seks	1	s e k s
+068/101	sechs	1	s e ch s
+068/103	sechs	1	s e ch s
+068/105	sex	1	s e x
+068/107	sechs	1	s e ch s
+068/109	segs	1	s e g s
+068/111	sechs	1	s e ch s
+068/145	sechs	1	s e ch s
+068/147	sechs	1	s e ch s
+068/149	sechs	1	s e ch s
+068/151	secks	1	s e ck s
+068/153	sex	1	s e x
+068/155	secks	1	s e ck s
+068/157	säx	1	s ä x
+068/159	secks	1	s e ck s
+068/161	sex	1	s e x
+068/165	sechs	1	s e ch s
+069/019	sechs	1	s e ch s
+069/023	sechs	1	s e ch s
+069/025	sechs	1	s e ch s
+069/027	sechs	1	s e ch s
+069/029	säachs	1	s äa ch s
+069/031	sechs	1	s e ch s
+069/033	NA	NA	-
+069/035	sechs	1	s e ch s
+069/037	sechs	1	s e ch s
+069/039	sechs	1	s e ch s
+069/041	sechs	1	s e ch s
+069/043	sechs	1	s e ch s
+069/045	sechs	1	s e ch s
+069/047	sechs	1	s e ch s
+069/049	sechs	1	s e ch s
+069/051	NA	NA	-
+069/053	sechs	1	s e ch s
+069/055	sechs	1	s e ch s
+069/057	sechs	1	s e ch s
+069/059	sechs	1	s e ch s
+069/061	sechs	1	s e ch s
+069/063	sechs	1	s e ch s
+069/065	sechs	1	s e ch s
+069/067	sechs	1	s e ch s
+069/069	sechs	1	s e ch s
+069/071	sechs	1	s e ch s
+069/073	sechs	1	s e ch s
+069/075	sechs	1	s e ch s
+069/077	sechs	1	s e ch s
+069/079	sechs	1	s e ch s
+069/081	sechs	1	s e ch s
+069/083	sechs	1	s e ch s
+069/085	sechs	1	s e ch s
+069/087	seks	1	s e k s
+069/089	sechs	1	s e ch s
+069/091	sex	1	s e x
+069/093	sechs	1	s e ch s
+069/095	sechs	1	s e ch s
+069/097	sechs	1	s e ch s
+069/099	sechs	1	s e ch s
+069/101	NA	NA	-
+069/103	sechs	1	s e ch s
+069/105	sechs	1	s e ch s
+069/107	sechs	1	s e ch s
+069/109	segs	1	s e g s
+069/111	sechs	1	s e ch s
+069/147	säcks	1	s ä ck s
+069/149	sechs	1	s e ch s
+069/151	sechs	1	s e ch s
+069/153	seks	1	s e k s
+069/157	NA	NA	-
+069/159	sechs	1	s e ch s
+069/161	sechs	1	s e ch s
+069/163	sex	1	s e x
+069/165	secks	1	s e ck s
+070/019	seks	1	s e k s
+070/023	sachs	1	s a ch s
+070/025	sechs	1	s e ch s
+070/027	sechs	1	s e ch s
+070/029	sächs	1	s ä ch s
+070/031	sechs	1	s e ch s
+070/033	sechs	1	s e ch s
+070/035	sechs	1	s e ch s
+070/037	sechs	1	s e ch s
+070/039	sechs	1	s e ch s
+070/041	sechs	1	s e ch s
+070/043	sechs	1	s e ch s
+070/045	sechs	1	s e ch s
+070/047	sechs	1	s e ch s
+070/049	sechs	1	s e ch s
+070/051	sechs	1	s e ch s
+070/053	sechs	1	s e ch s
+070/055	sechs	1	s e ch s
+070/057	sechs	1	s e ch s
+070/059	sechs	1	s e ch s
+070/061	sechs	1	s e ch s
+070/063	sechs	1	s e ch s
+070/065	sechs	1	s e ch s
+070/067	sechs	1	s e ch s
+070/069	NA	NA	-
+070/071	sechs	1	s e ch s
+070/073	sechs	1	s e ch s
+070/075	sechs	1	s e ch s
+070/077	sechs	1	s e ch s
+070/079	sechs	1	s e ch s
+070/081	sechs	1	s e ch s
+070/083	sechs	1	s e ch s
+070/085	secks	1	s e ck s
+070/087	NA	NA	-
+070/089	secks	1	s e ck s
+070/091	NA	NA	-
+070/093	sechs	1	s e ch s
+070/095	sechs	1	s e ch s
+070/097	secks	1	s e ck s
+070/099	sechs	1	s e ch s
+070/101	sex	1	s e x
+070/103	seks	1	s e k s
+070/105	sechs	1	s e ch s
+070/107	secks	1	s e ck s
+070/109	sechs	1	s e ch s
+070/111	segs	1	s e g s
+070/145	segs	1	s e g s
+070/147	säcks	1	s ä ck s
+070/149	sex	1	s e x
+070/151	sechs	1	s e ch s
+070/153	sägs	1	s ä g s
+070/155	seks	1	s e k s
+070/157	sechs	1	s e ch s
+070/159	sex	1	s e x
+070/161	sex	1	s e x
+070/163	sechs	1	s e ch s
+070/165	sechs	1	s e ch s
+071/017	sechs	1	s e ch s
+071/019	secks	1	s e ck s
+071/021	sechs	1	s e ch s
+071/023	sechs	1	s e ch s
+071/025	sechs	1	s e ch s
+071/027	sechs	1	s e ch s
+071/029	sechs	1	s e ch s
+071/031	sechs	1	s e ch s
+071/033	sechs	1	s e ch s
+071/035	sechs	1	s e ch s
+071/037	sechs	1	s e ch s
+071/039	sechs	1	s e ch s
+071/041	sechs	1	s e ch s
+071/043	sechs	1	s e ch s
+071/045	sex	1	s e x
+071/047	sechs	1	s e ch s
+071/049	sechs	1	s e ch s
+071/051	sechs	1	s e ch s
+071/053	sechs	1	s e ch s
+071/055	sechs	1	s e ch s
+071/057	sechs	1	s e ch s
+071/059	sechs	1	s e ch s
+071/063	sechs	1	s e ch s
+071/065	sechs	1	s e ch s
+071/067	sechs	1	s e ch s
+071/069	sechs	1	s e ch s
+071/071	sechs	1	s e ch s
+071/073	sechs	1	s e ch s
+071/075	sechs	1	s e ch s
+071/077	sechs	1	s e ch s
+071/079	sechs	1	s e ch s
+071/081	sechs	1	s e ch s
+071/083	sechs	1	s e ch s
+071/085	sechs	1	s e ch s
+071/087	sechs	1	s e ch s
+071/089	sechs	1	s e ch s
+071/091	sex	1	s e x
+071/093	sechs	1	s e ch s
+071/095	sex	1	s e x
+071/097	sechs	1	s e ch s
+071/099	sechs	1	s e ch s
+071/101	seks	1	s e k s
+071/103	sex	1	s e x
+071/105	sex	1	s e x
+071/145	segs	1	s e g s
+071/147	sex	1	s e x
+071/149	sex	1	s e x
+071/151	sechs	1	s e ch s
+071/153	NA	NA	-
+071/155	sechs	1	s e ch s
+071/157	secks	1	s e ck s
+071/159	sex	1	s e x
+071/161	sex	1	s e x
+071/163	sechs	1	s e ch s
+071/177	saachs	1	s aa ch s
+071/179	sechs	1	s e ch s
+072/017	sechs	1	s e ch s
+072/019	sex	1	s e x
+072/021	sechs	1	s e ch s
+072/023	sechs	1	s e ch s
+072/025	sechs	1	s e ch s
+072/027	sechs	1	s e ch s
+072/029	sechs	1	s e ch s
+072/031	sechs	1	s e ch s
+072/033	sechs	1	s e ch s
+072/035	sechs	1	s e ch s
+072/037	sechs	1	s e ch s
+072/039	sechs	1	s e ch s
+072/041	sechs	1	s e ch s
+072/043	sechs	1	s e ch s
+072/045	sechs	1	s e ch s
+072/047	sechs	1	s e ch s
+072/049	sechs	1	s e ch s
+072/051	sechs	1	s e ch s
+072/053	secks	1	s e ck s
+072/055	sechs	1	s e ch s
+072/057	sechs	1	s e ch s
+072/059	sechs	1	s e ch s
+072/061	sechs	1	s e ch s
+072/063	sechs	1	s e ch s
+072/065	sechs	1	s e ch s
+072/067	sechs	1	s e ch s
+072/069	sechs	1	s e ch s
+072/071	sechs	1	s e ch s
+072/073	sechs	1	s e ch s
+072/075	sechs	1	s e ch s
+072/077	sechs	1	s e ch s
+072/079	sechs	1	s e ch s
+072/081	sechs	1	s e ch s
+072/083	sechs	1	s e ch s
+072/085	sechs	1	s e ch s
+072/087	sechs	1	s e ch s
+072/089	sechs	1	s e ch s
+072/091	sechs	1	s e ch s
+072/093	sechs	1	s e ch s
+072/095	sexs	1	s e x s
+072/097	seks	1	s e k s
+072/099	sechs	1	s e ch s
+072/101	sechs	1	s e ch s
+072/103	secks	1	s e ck s
+072/105	sex	1	s e x
+072/107	sechs	1	s e ch s
+072/145	sechs	1	s e ch s
+072/147	sex	1	s e x
+072/149	sex	1	s e x
+072/151	sex	1	s e x
+072/153	sächs	1	s ä ch s
+072/155	sechs	1	s e ch s
+072/157	seks	1	s e k s
+072/159	säcks	1	s ä ck s
+072/161	sechs	1	s e ch s
+072/177	sechs	1	s e ch s
+072/179	sechs	1	s e ch s
+072/181	sechs	1	s e ch s
+073/017	seks	1	s e k s
+073/019	secks	1	s e ck s
+073/021	sechs	1	s e ch s
+073/023	NA	NA	-
+073/025	sechs	1	s e ch s
+073/027	sechs	1	s e ch s
+073/029	sechs	1	s e ch s
+073/031	sechs	1	s e ch s
+073/033	sechs	1	s e ch s
+073/035	NA	NA	-
+073/037	sechs	1	s e ch s
+073/039	NA	NA	-
+073/041	sechs	1	s e ch s
+073/043	sechs	1	s e ch s
+073/045	sechs	1	s e ch s
+073/047	sechs	1	s e ch s
+073/049	sechs	1	s e ch s
+073/051	sechs	1	s e ch s
+073/053	sechs	1	s e ch s
+073/055	sechs	1	s e ch s
+073/057	sechs	1	s e ch s
+073/059	sex	1	s e x
+073/061	sechs	1	s e ch s
+073/063	sechs	1	s e ch s
+073/065	sechs	1	s e ch s
+073/067	sechs	1	s e ch s
+073/069	sechs	1	s e ch s
+073/071	sechs	1	s e ch s
+073/073	sechs	1	s e ch s
+073/075	sechs	1	s e ch s
+073/077	seks	1	s e k s
+073/079	sechs	1	s e ch s
+073/081	sechs	1	s e ch s
+073/083	sechs	1	s e ch s
+073/085	NA	NA	-
+073/087	sechs	1	s e ch s
+073/089	sechs	1	s e ch s
+073/091	sex	1	s e x
+073/093	sechs	1	s e ch s
+073/095	sex	1	s e x
+073/097	sex	1	s e x
+073/099	sex	1	s e x
+073/101	sechs	1	s e ch s
+073/103	segs	1	s e g s
+073/105	seks	1	s e k s
+073/107	sechs	1	s e ch s
+073/145	sex	1	s e x
+073/147	sex	1	s e x
+073/149	sex	1	s e x
+073/151	seks	1	s e k s
+073/153	seks	1	s e k s
+073/155	secks	1	s e ck s
+073/157	sechs	1	s e ch s
+073/159	NA	NA	-
+073/161	sechs	1	s e ch s
+073/163	sex	1	s e x
+073/165	sechs	1	s e ch s
+073/175	sechs	1	s e ch s
+073/177	secks	1	s e ck s
+074/019	sechs	1	s e ch s
+074/021	sechs	1	s e ch s
+074/023	secks	1	s e ck s
+074/025	sechs	1	s e ch s
+074/027	sechs	1	s e ch s
+074/029	sechs	1	s e ch s
+074/031	sechs	1	s e ch s
+074/033	sechs	1	s e ch s
+074/035	sechs	1	s e ch s
+074/037	sechs	1	s e ch s
+074/039	sechs	1	s e ch s
+074/041	sechs	1	s e ch s
+074/043	sechs	1	s e ch s
+074/045	sechs	1	s e ch s
+074/047	secks	1	s e ck s
+074/049	sechs	1	s e ch s
+074/051	sechs	1	s e ch s
+074/053	sechs	1	s e ch s
+074/055	sechs	1	s e ch s
+074/057	sechs	1	s e ch s
+074/059	sex	1	s e x
+074/061	sechs	1	s e ch s
+074/063	sechs	1	s e ch s
+074/065	sechs	1	s e ch s
+074/067	sechs	1	s e ch s
+074/069	sechs	1	s e ch s
+074/071	sechs	1	s e ch s
+074/073	sechs	1	s e ch s
+074/075	sechs	1	s e ch s
+074/077	secks	1	s e ck s
+074/079	sechs	1	s e ch s
+074/081	sechs	1	s e ch s
+074/083	sechs	1	s e ch s
+074/085	sex	1	s e x
+074/087	sechs	1	s e ch s
+074/089	sechs	1	s e ch s
+074/091	sechs	1	s e ch s
+074/093	sex	1	s e x
+074/095	sechs	1	s e ch s
+074/097	sex	1	s e x
+074/099	seks	1	s e k s
+074/101	seks	1	s e k s
+074/103	sechs	1	s e ch s
+074/105	sechs	1	s e ch s
+074/107	sex	1	s e x
+074/109	sex	1	s e x
+074/145	secks	1	s e ck s
+074/147	sex	1	s e x
+074/149	seks	1	s e k s
+074/153	seks	1	s e k s
+074/155	sex	1	s e x
+074/157	sechs	1	s e ch s
+074/159	seks	1	s e k s
+074/161	seks	1	s e k s
+074/163	sechs	1	s e ch s
+074/165	seks	1	s e k s
+075/019	sechs	1	s e ch s
+075/021	sex	1	s e x
+075/023	sechs	1	s e ch s
+075/025	sexs	1	s e x s
+075/027	sechs	1	s e ch s
+075/029	sechs	1	s e ch s
+075/031	sechs	1	s e ch s
+075/033	sechs	1	s e ch s
+075/035	sechs	1	s e ch s
+075/037	sechs	1	s e ch s
+075/039	sechs	1	s e ch s
+075/041	sechs	1	s e ch s
+075/043	sechs	1	s e ch s
+075/045	sechs	1	s e ch s
+075/047	sechs	1	s e ch s
+075/049	sechs	1	s e ch s
+075/051	sechs	1	s e ch s
+075/053	sechs	1	s e ch s
+075/055	sechs	1	s e ch s
+075/057	sechs	1	s e ch s
+075/059	sechs	1	s e ch s
+075/061	sexs	1	s e x s
+075/063	sechs	1	s e ch s
+075/065	secksch	1	s e ck sch
+075/067	sechs	1	s e ch s
+075/069	sechs	1	s e ch s
+075/071	sechs	1	s e ch s
+075/073	sechs	1	s e ch s
+075/075	sechs	1	s e ch s
+075/077	sechs	1	s e ch s
+075/079	sechs	1	s e ch s
+075/081	sechs	1	s e ch s
+075/083	sechs	1	s e ch s
+075/085	sechs	1	s e ch s
+075/087	sechs	1	s e ch s
+075/089	sechs	1	s e ch s
+075/091	sechs	1	s e ch s
+075/093	sechs	1	s e ch s
+075/095	segs	1	s e g s
+075/097	seks	1	s e k s
+075/099	seks	1	s e k s
+075/101	sechs	1	s e ch s
+075/103	sechs	1	s e ch s
+075/105	sechs	1	s e ch s
+075/107	sechs	1	s e ch s
+075/135	sejks	1	s e j k s
+075/145	sechs	1	s e ch s
+075/147	NA	NA	-
+075/149	sechs	1	s e ch s
+075/155	sex	1	s e x
+075/157	seks	1	s e k s
+075/159	sechs	1	s e ch s
+075/161	sexs	1	s e x s
+075/163	sechs	1	s e ch s
+075/165	säx	1	s ä x
+076/019	NA	NA	-
+076/021	sechs	1	s e ch s
+076/023	sechs	1	s e ch s
+076/025	secks	1	s e ck s
+076/027	sechs	1	s e ch s
+076/029	sechs	1	s e ch s
+076/033	sechs	1	s e ch s
+076/035	sechs	1	s e ch s
+076/037	sechs	1	s e ch s
+076/039	sechs	1	s e ch s
+076/041	sechs	1	s e ch s
+076/043	sechs	1	s e ch s
+076/045	sechs	1	s e ch s
+076/047	sechs	1	s e ch s
+076/049	sechs	1	s e ch s
+076/051	sechs	1	s e ch s
+076/053	sex	1	s e x
+076/055	sechs	1	s e ch s
+076/057	sexs	1	s e x s
+076/059	sechs	1	s e ch s
+076/061	sechsch	1	s e ch sch
+076/063	segsch	1	s e g sch
+076/065	seksch	1	s e k sch
+076/067	segsch	1	s e g sch
+076/069	sechs	1	s e ch s
+076/071	sechs	1	s e ch s
+076/073	sechs	1	s e ch s
+076/075	sex	1	s e x
+076/077	sechs	1	s e ch s
+076/079	sechs	1	s e ch s
+076/081	sechs	1	s e ch s
+076/083	sechs	1	s e ch s
+076/085	sechs	1	s e ch s
+076/087	sechs	1	s e ch s
+076/089	sechs	1	s e ch s
+076/091	sechs	1	s e ch s
+076/093	segs	1	s e g s
+076/095	sex	1	s e x
+076/097	seks	1	s e k s
+076/099	sex	1	s e x
+076/101	sechs	1	s e ch s
+076/103	sechs	1	s e ch s
+076/135	sex	1	s e x
+076/137	sechs	1	s e ch s
+076/149	sexs	1	s e x s
+076/151	seks	1	s e k s
+076/155	sex	1	s e x
+076/161	NA	NA	-
+076/163	sex	1	s e x
+076/165	seks	1	s e k s
+077/019	sechs	1	s e ch s
+077/021	sechs	1	s e ch s
+077/023	sechs	1	s e ch s
+077/025	sechs	1	s e ch s
+077/027	sechs	1	s e ch s
+077/029	sechs	1	s e ch s
+077/031	sechs	1	s e ch s
+077/033	sechs	1	s e ch s
+077/035	sechs	1	s e ch s
+077/037	sechs	1	s e ch s
+077/039	sechs	1	s e ch s
+077/041	sechs	1	s e ch s
+077/043	sechs	1	s e ch s
+077/047	sechs	1	s e ch s
+077/049	sechs	1	s e ch s
+077/051	sex	1	s e x
+077/053	sechs	1	s e ch s
+077/055	sechs	1	s e ch s
+077/057	sechs	1	s e ch s
+077/059	secksch	1	s e ck sch
+077/061	sechsch	1	s e ch sch
+077/063	segsch	1	s e g sch
+077/065	segsch	1	s e g sch
+077/067	sechs	1	s e ch s
+077/069	sechs	1	s e ch s
+077/071	sechs	1	s e ch s
+077/073	sechs	1	s e ch s
+077/075	sechs	1	s e ch s
+077/077	sechs	1	s e ch s
+077/079	sechs	1	s e ch s
+077/081	sechs	1	s e ch s
+077/083	sechs	1	s e ch s
+077/085	sechs	1	s e ch s
+077/087	seks	1	s e k s
+077/089	sechs	1	s e ch s
+077/091	sex	1	s e x
+077/093	segs	1	s e g s
+077/095	sex	1	s e x
+077/097	sechs	1	s e ch s
+077/099	seex	1	s ee x
+077/101	segs	1	s e g s
+077/103	seks	1	s e k s
+077/135	segs	1	s e g s
+077/137	sechs	1	s e ch s
+078/021	sechs	1	s e ch s
+078/023	sechs	1	s e ch s
+078/025	sechs	1	s e ch s
+078/027	sechs	1	s e ch s
+078/029	sechs	1	s e ch s
+078/031	sechs	1	s e ch s
+078/033	sechs	1	s e ch s
+078/035	sechs	1	s e ch s
+078/037	secks	1	s e ck s
+078/039	sechs	1	s e ch s
+078/041	NA	NA	-
+078/045	sechs	1	s e ch s
+078/047	sechs	1	s e ch s
+078/049	sechs	1	s e ch s
+078/051	sechs	1	s e ch s
+078/053	NA	NA	-
+078/055	segs	1	s e g s
+078/057	sechs	1	s e ch s
+078/059	sex	1	s e x
+078/061	seks	1	s e k s
+078/063	segsch	1	s e g sch
+078/065	segsch	1	s e g sch
+078/067	segs	1	s e g s
+078/069	sechs	1	s e ch s
+078/071	secks	1	s e ck s
+078/073	sechs	1	s e ch s
+078/075	sechs	1	s e ch s
+078/077	sechs	1	s e ch s
+078/079	sechs	1	s e ch s
+078/081	sechs	1	s e ch s
+078/083	sechs	1	s e ch s
+078/085	sex	1	s e x
+078/087	sechs	1	s e ch s
+078/089	segs	1	s e g s
+078/091	sechs	1	s e ch s
+078/093	sechs	1	s e ch s
+078/095	sex	1	s e x
+078/097	sex	1	s e x
+078/099	sechs	1	s e ch s
+078/101	sechs	1	s e ch s
+078/103	seks	1	s e k s
+078/105	sechs	1	s e ch s
+078/135	sex	1	s e x
+078/193	seks	1	s e k s
+079/021	sechs	1	s e ch s
+079/023	sechs	1	s e ch s
+079/025	sechs	1	s e ch s
+079/027	sechs	1	s e ch s
+079/029	sechs	1	s e ch s
+079/031	sechs	1	s e ch s
+079/033	sechs	1	s e ch s
+079/035	seks	1	s e k s
+079/037	sechs	1	s e ch s
+079/039	sechs	1	s e ch s
+079/043	sechs	1	s e ch s
+079/045	sechs	1	s e ch s
+079/047	sechs	1	s e ch s
+079/049	sechs	1	s e ch s
+079/051	seks	1	s e k s
+079/053	sechs	1	s e ch s
+079/055	sexs	1	s e x s
+079/057	sechs	1	s e ch s
+079/059	sechs	1	s e ch s
+079/061	sex	1	s e x
+079/063	segsch	1	s e g sch
+079/065	segsch	1	s e g sch
+079/067	sex	1	s e x
+079/069	secks	1	s e ck s
+079/071	sechs	1	s e ch s
+079/073	sechs	1	s e ch s
+079/075	sechs	1	s e ch s
+079/077	sechs	1	s e ch s
+079/079	sechs	1	s e ch s
+079/081	sechs	1	s e ch s
+079/083	sechs	1	s e ch s
+079/085	sex	1	s e x
+079/087	sechx	1	s e ch x
+079/089	sex	1	s e x
+079/091	sechs	1	s e ch s
+079/093	sechs	1	s e ch s
+079/095	sex	1	s e x
+079/097	sechs	1	s e ch s
+079/099	sex	1	s e x
+079/101	sex	1	s e x
+079/103	söx	1	s ö x
+079/105	sex	1	s e x
+079/107	sechs	1	s e ch s
+079/133	sechs	1	s e ch s
+079/135	sechs	1	s e ch s
+079/193	sechs	1	s e ch s
+079/195	sechs	1	s e ch s
+079/197	sechs	1	s e ch s
+080/025	sechs	1	s e ch s
+080/027	seks	1	s e k s
+080/029	sechs	1	s e ch s
+080/031	sechs	1	s e ch s
+080/033	sechs	1	s e ch s
+080/035	secks	1	s e ck s
+080/037	sechs	1	s e ch s
+080/039	sechs	1	s e ch s
+080/041	sechs	1	s e ch s
+080/043	sechs	1	s e ch s
+080/045	sechs	1	s e ch s
+080/047	sechs	1	s e ch s
+080/049	sechs	1	s e ch s
+080/051	segs	1	s e g s
+080/053	sechs	1	s e ch s
+080/055	sex	1	s e x
+080/057	sechs	1	s e ch s
+080/059	sex	1	s e x
+080/061	sex	1	s e x
+080/063	sechs	1	s e ch s
+080/065	sechsch	1	s e ch sch
+080/067	sex	1	s e x
+080/069	sex	1	s e x
+080/071	NA	NA	-
+080/073	sechs	1	s e ch s
+080/075	sechs	1	s e ch s
+080/077	sechs	1	s e ch s
+080/079	sechs	1	s e ch s
+080/081	NA	NA	-
+080/083	sechs	1	s e ch s
+080/085	sechs	1	s e ch s
+080/087	sechs	1	s e ch s
+080/089	sex	1	s e x
+080/091	segs	1	s e g s
+080/093	sechs	1	s e ch s
+080/095	sechs	1	s e ch s
+080/097	segs	1	s e g s
+080/099	sex	1	s e x
+080/101	söcks	1	s ö ck s
+080/103	söx	1	s ö x
+080/105	sex	1	s e x
+080/107	seks	1	s e k s
+080/109	sechs	1	s e ch s
+080/127	säix	1	s äi x
+080/147	sechs	1	s e ch s
+080/151	sejks	1	s e j k s
+080/153	sächs	1	s ä ch s
+080/193	sächs	1	s ä ch s
+080/195	sechs	1	s e ch s
+081/025	sechs	1	s e ch s
+081/027	sechs	1	s e ch s
+081/029	sechs	1	s e ch s
+081/031	sechs	1	s e ch s
+081/033	sechs	1	s e ch s
+081/035	sechs	1	s e ch s
+081/037	sechs	1	s e ch s
+081/039	sechs	1	s e ch s
+081/043	sechs	1	s e ch s
+081/045	sechs	1	s e ch s
+081/047	sechs	1	s e ch s
+081/049	sechs	1	s e ch s
+081/051	NA	NA	-
+081/053	sex	1	s e x
+081/055	sechs	1	s e ch s
+081/057	sex	1	s e x
+081/059	sechs	1	s e ch s
+081/061	segs	1	s e g s
+081/063	seks	1	s e k s
+081/065	segs	1	s e g s
+081/067	sex	1	s e x
+081/069	segs	1	s e g s
+081/071	segs	1	s e g s
+081/073	sechs	1	s e ch s
+081/075	sechs	1	s e ch s
+081/077	sechs	1	s e ch s
+081/079	sexs	1	s e x s
+081/081	sechsz	1	s e ch s z
+081/083	sechs	1	s e ch s
+081/085	sechs	1	s e ch s
+081/087	sex	1	s e x
+081/089	sex	1	s e x
+081/091	sex	1	s e x
+081/093	NA	NA	-
+081/095	sechs	1	s e ch s
+081/097	sechs	1	s e ch s
+081/099	sex	1	s e x
+081/101	sögs	1	s ö g s
+081/103	söchs	1	s ö ch s
+081/105	sechs	1	s e ch s
+081/107	sex	1	s e x
+081/109	sechs	1	s e ch s
+081/111	sex	1	s e x
+081/127	seix	1	s ei x
+081/129	säix	1	s äi x
+081/133	sechs	1	s e ch s
+081/147	saix	1	s ai x
+081/191	seks	1	s e k s
+081/193	seks	1	s e k s
+081/195	seks	1	s e k s
+082/027	seechs	1	s ee ch s
+082/029	sechs	1	s e ch s
+082/031	sechs	1	s e ch s
+082/033	sechs	1	s e ch s
+082/035	sechs	1	s e ch s
+082/037	sechs	1	s e ch s
+082/039	sechs	1	s e ch s
+082/041	sechs	1	s e ch s
+082/043	secks	1	s e ck s
+082/045	sechs	1	s e ch s
+082/047	sechs	1	s e ch s
+082/049	sex	1	s e x
+082/051	sechs	1	s e ch s
+082/053	sex	1	s e x
+082/055	sex	1	s e x
+082/057	sex	1	s e x
+082/059	segs	1	s e g s
+082/061	sex	1	s e x
+082/063	sex	1	s e x
+082/065	sechs	1	s e ch s
+082/067	sexs	1	s e x s
+082/069	sechs	1	s e ch s
+082/071	sechs	1	s e ch s
+082/073	sechs	1	s e ch s
+082/075	sechs	1	s e ch s
+082/077	secks	1	s e ck s
+082/079	sechs	1	s e ch s
+082/081	sechs	1	s e ch s
+082/083	seks	1	s e k s
+082/085	sechs	1	s e ch s
+082/087	NA	NA	-
+082/089	segs	1	s e g s
+082/091	sechs	1	s e ch s
+082/093	sechs	1	s e ch s
+082/095	sechs	1	s e ch s
+082/097	sex	1	s e x
+082/099	sechs	1	s e ch s
+082/101	segs	1	s e g s
+082/103	seex	1	s ee x
+082/105	söx	1	s ö x
+082/107	söchs	1	s ö ch s
+082/111	säichs	1	s äi ch s
+082/113	säichs	1	s äi ch s
+082/117	sex	1	s e x
+082/129	säix	1	s äi x
+082/131	säigs	1	s äi g s
+082/133	saichs	1	s ai ch s
+082/135	sejgs	1	s e j g s
+082/145	säichs	1	s äi ch s
+082/147	NA	NA	-
+082/191	sechs	1	s e ch s
+082/195	sechs	1	s e ch s
+083/027	sechs	1	s e ch s
+083/029	sechs	1	s e ch s
+083/031	sechs	1	s e ch s
+083/033	sechs	1	s e ch s
+083/035	sechs	1	s e ch s
+083/037	sechs	1	s e ch s
+083/039	sechs	1	s e ch s
+083/041	sechs	1	s e ch s
+083/043	sechs	1	s e ch s
+083/045	sechs	1	s e ch s
+083/047	sechs	1	s e ch s
+083/049	sechs	1	s e ch s
+083/051	sechs	1	s e ch s
+083/053	sex	1	s e x
+083/055	sechs	1	s e ch s
+083/057	segs	1	s e g s
+083/059	sex	1	s e x
+083/061	sex	1	s e x
+083/063	segs	1	s e g s
+083/065	sex	1	s e x
+083/067	sex	1	s e x
+083/069	sex	1	s e x
+083/071	sechs	1	s e ch s
+083/073	segs	1	s e g s
+083/075	secks	1	s e ck s
+083/077	sechs	1	s e ch s
+083/079	sechs	1	s e ch s
+083/081	sechs	1	s e ch s
+083/083	sechs	1	s e ch s
+083/085	sex	1	s e x
+083/087	seks	1	s e k s
+083/089	sechs	1	s e ch s
+083/091	seex	1	s ee x
+083/093	sex	1	s e x
+083/095	sechs	1	s e ch s
+083/097	sechs	1	s e ch s
+083/099	sex	1	s e x
+083/101	söchs	1	s ö ch s
+083/103	sechs	1	s e ch s
+083/105	söchs	1	s ö ch s
+083/107	söks	1	s ö k s
+083/111	säix	1	s äi x
+083/113	säigs	1	s äi g s
+083/115	seichs	1	s ei ch s
+083/117	säix	1	s äi x
+083/119	seachs	1	s ea ch s
+083/121	sex	1	s e x
+083/129	sex	1	s e x
+083/131	sex	1	s e x
+083/133	sechs	1	s e ch s
+083/135	seiks	1	s ei k s
+083/139	sex	1	s e x
+083/143	säix	1	s äi x
+083/145	seix	1	s ei x
+083/147	seks	1	s e k s
+083/149	sechs	1	s e ch s
+083/173	seks	1	s e k s
+083/195	sechs	1	s e ch s
+084/031	sechs	1	s e ch s
+084/033	sechs	1	s e ch s
+084/035	sechs	1	s e ch s
+084/037	sechs	1	s e ch s
+084/039	sechs	1	s e ch s
+084/041	sechs	1	s e ch s
+084/043	sechs	1	s e ch s
+084/045	sechs	1	s e ch s
+084/047	sex	1	s e x
+084/049	seks	1	s e k s
+084/051	segs	1	s e g s
+084/053	sex	1	s e x
+084/055	sex	1	s e x
+084/057	sechs	1	s e ch s
+084/059	sex	1	s e x
+084/061	segs	1	s e g s
+084/063	sechs	1	s e ch s
+084/065	sex	1	s e x
+084/067	segs	1	s e g s
+084/069	sechs	1	s e ch s
+084/071	sechs	1	s e ch s
+084/073	sechs	1	s e ch s
+084/075	sechs	1	s e ch s
+084/077	segx	1	s e g x
+084/079	sex	1	s e x
+084/081	secks	1	s e ck s
+084/083	segs	1	s e g s
+084/085	sex	1	s e x
+084/087	sechs	1	s e ch s
+084/089	söxs	1	s ö x s
+084/091	söx	1	s ö x
+084/093	sögs	1	s ö g s
+084/095	sechs	1	s e ch s
+084/097	sex	1	s e x
+084/099	söchs	1	s ö ch s
+084/101	söchs	1	s ö ch s
+084/103	söx	1	s ö x
+084/105	sechs	1	s e ch s
+084/107	sögs	1	s ö g s
+084/109	sex	1	s e x
+084/111	söchs	1	s ö ch s
+084/113	säiks	1	s äi k s
+084/115	sejx	1	s e j x
+084/117	sejx	1	s e j x
+084/119	seax	1	s ea x
+084/129	sechs	1	s e ch s
+084/131	sex	1	s e x
+084/133	sägs	1	s ä g s
+084/135	sechs	1	s e ch s
+084/137	sechs	1	s e ch s
+084/139	sechs	1	s e ch s
+084/141	sex	1	s e x
+084/143	sex	1	s e x
+084/145	sex	1	s e x
+084/147	sex	1	s e x
+084/149	sechs	1	s e ch s
+084/171	säx	1	s ä x
+084/173	seks	1	s e k s
+084/195	sechs	1	s e ch s
+085/031	sechs	1	s e ch s
+085/033	sechs	1	s e ch s
+085/035	sechs	1	s e ch s
+085/037	sechs	1	s e ch s
+085/039	sechs	1	s e ch s
+085/041	sechs	1	s e ch s
+085/043	sechs	1	s e ch s
+085/045	sechs	1	s e ch s
+085/047	seks	1	s e k s
+085/049	sechs	1	s e ch s
+085/051	sex	1	s e x
+085/053	segs	1	s e g s
+085/055	segs	1	s e g s
+085/057	sex	1	s e x
+085/059	sex	1	s e x
+085/061	secks	1	s e ck s
+085/063	segs	1	s e g s
+085/065	sex	1	s e x
+085/067	seks	1	s e k s
+085/069	sechs	1	s e ch s
+085/071	seks	1	s e k s
+085/073	segs	1	s e g s
+085/075	sechs	1	s e ch s
+085/077	sex	1	s e x
+085/079	sex	1	s e x
+085/081	söx	1	s ö x
+085/083	sex	1	s e x
+085/085	NA	NA	-
+085/087	sechs	1	s e ch s
+085/089	söchs	1	s ö ch s
+085/091	seks	1	s e k s
+085/093	söx	1	s ö x
+085/095	sechs	1	s e ch s
+085/097	sögs	1	s ö g s
+085/101	sechs	1	s e ch s
+085/103	sechs	1	s e ch s
+085/105	sex	1	s e x
+085/107	söchs	1	s ö ch s
+085/109	söx	1	s ö x
+085/111	söchs	1	s ö ch s
+085/113	sechs	1	s e ch s
+085/115	seiks	1	s ei k s
+085/117	seigs	1	s ei g s
+085/119	sex	1	s e x
+085/121	seks	1	s e k s
+085/123	seix	1	s ei x
+085/125	seichs	1	s ei ch s
+085/127	seags	1	s ea g s
+085/129	segs	1	s e g s
+085/131	sex	1	s e x
+085/133	seks	1	s e k s
+085/135	sex	1	s e x
+085/137	NA	NA	-
+085/139	segs	1	s e g s
+085/141	segs	1	s e g s
+085/143	sex	1	s e x
+085/145	sechs	1	s e ch s
+085/147	sex	1	s e x
+085/149	sex	1	s e x
+085/175	siks	1	s i k s
+085/193	seks	1	s e k s
+085/197	seks	1	s e k s
+086/033	sechs	1	s e ch s
+086/035	sechs	1	s e ch s
+086/037	sächs	1	s ä ch s
+086/039	sechs	1	s e ch s
+086/041	sechs	1	s e ch s
+086/043	sächs	1	s ä ch s
+086/045	sex	1	s e x
+086/047	sechs	1	s e ch s
+086/049	sex	1	s e x
+086/051	segs	1	s e g s
+086/053	segs	1	s e g s
+086/055	segs	1	s e g s
+086/057	sechs	1	s e ch s
+086/059	segs	1	s e g s
+086/061	sechs	1	s e ch s
+086/063	segs	1	s e g s
+086/065	sechs	1	s e ch s
+086/067	segs	1	s e g s
+086/069	segs	1	s e g s
+086/071	segs	1	s e g s
+086/073	sex	1	s e x
+086/075	sechs	1	s e ch s
+086/077	sechs	1	s e ch s
+086/079	sechs	1	s e ch s
+086/081	sex	1	s e x
+086/083	sechs	1	s e ch s
+086/085	sechs	1	s e ch s
+086/087	söx	1	s ö x
+086/089	söchs	1	s ö ch s
+086/091	söchs	1	s ö ch s
+086/093	sögs	1	s ö g s
+086/095	sechs	1	s e ch s
+086/097	söx	1	s ö x
+086/099	söchs	1	s ö ch s
+086/101	sechs	1	s e ch s
+086/103	sechs	1	s e ch s
+086/105	söchs	1	s ö ch s
+086/107	söchs	1	s ö ch s
+086/109	sex	1	s e x
+086/111	söchs	1	s ö ch s
+086/113	sechs	1	s e ch s
+086/115	sex	1	s e x
+086/117	säx	1	s ä x
+086/119	sejchs	1	s e j ch s
+086/121	seix	1	s ei x
+086/123	saichs	1	s ai ch s
+086/125	säigs	1	s äi g s
+086/127	sechs	1	s e ch s
+086/129	sex	1	s e x
+086/131	sex	1	s e x
+086/133	sechs	1	s e ch s
+086/135	sex	1	s e x
+086/137	sechs	1	s e ch s
+086/139	sechs	1	s e ch s
+086/141	sex	1	s e x
+086/143	segs	1	s e g s
+086/145	sechs	1	s e ch s
+086/147	sex	1	s e x
+086/149	sechs	1	s e ch s
+086/151	sechs	1	s e ch s
+086/175	siks	1	s i k s
+086/197	sechs	1	s e ch s
+086/199	sechz	1	s e ch z
+087/033	sechs	1	s e ch s
+087/035	sechs	1	s e ch s
+087/037	sechs	1	s e ch s
+087/039	sechs	1	s e ch s
+087/041	sechs	1	s e ch s
+087/043	sechs	1	s e ch s
+087/045	sex	1	s e x
+087/049	sex	1	s e x
+087/051	secks	1	s e ck s
+087/053	sex	1	s e x
+087/055	sechs	1	s e ch s
+087/057	segs	1	s e g s
+087/059	sechs	1	s e ch s
+087/061	sex	1	s e x
+087/063	sex	1	s e x
+087/065	segs	1	s e g s
+087/067	NA	NA	-
+087/069	sex	1	s e x
+087/071	seggs	1	s e gg s
+087/073	sögs	1	s ö g s
+087/075	sögs	1	s ö g s
+087/077	segs	1	s e g s
+087/079	sechs	1	s e ch s
+087/081	sechs	1	s e ch s
+087/083	segs	1	s e g s
+087/085	sechs	1	s e ch s
+087/087	sechs	1	s e ch s
+087/089	sechs	1	s e ch s
+087/091	söchs	1	s ö ch s
+087/093	sex	1	s e x
+087/095	sex	1	s e x
+087/097	söx	1	s ö x
+087/099	sögs	1	s ö g s
+087/101	sex	1	s e x
+087/103	sögs	1	s ö g s
+087/105	söx	1	s ö x
+087/107	sechs	1	s e ch s
+087/109	söchs	1	s ö ch s
+087/111	söx	1	s ö x
+087/113	sechs	1	s e ch s
+087/115	söx	1	s ö x
+087/117	säix	1	s äi x
+087/119	seix	1	s ei x
+087/121	säix	1	s äi x
+087/123	seichs	1	s ei ch s
+087/125	sechs	1	s e ch s
+087/127	segs	1	s e g s
+087/129	sejx	1	s e j x
+087/133	sex	1	s e x
+087/135	sechs	1	s e ch s
+087/137	NA	NA	-
+087/139	sechs	1	s e ch s
+087/141	NA	NA	-
+087/143	sex	1	s e x
+087/145	sex	1	s e x
+087/147	sex	1	s e x
+087/149	sex	1	s e x
+087/151	sechs	1	s e ch s
+088/035	sechs	1	s e ch s
+088/037	sechs	1	s e ch s
+088/039	sechs	1	s e ch s
+088/041	sechs	1	s e ch s
+088/043	sechs	1	s e ch s
+088/045	segs	1	s e g s
+088/047	sechs	1	s e ch s
+088/049	sechs	1	s e ch s
+088/051	segs	1	s e g s
+088/053	sex	1	s e x
+088/055	segs	1	s e g s
+088/057	sechs	1	s e ch s
+088/059	segs	1	s e g s
+088/061	sex	1	s e x
+088/063	sechs	1	s e ch s
+088/065	sex	1	s e x
+088/067	segs	1	s e g s
+088/069	segs	1	s e g s
+088/071	sechs	1	s e ch s
+088/073	sögs	1	s ö g s
+088/075	söx	1	s ö x
+088/077	söx	1	s ö x
+088/079	sögs	1	s ö g s
+088/081	sechs	1	s e ch s
+088/083	segs	1	s e g s
+088/085	söchs	1	s ö ch s
+088/087	söchs	1	s ö ch s
+088/089	sögs	1	s ö g s
+088/091	söx	1	s ö x
+088/093	söchs	1	s ö ch s
+088/095	söx	1	s ö x
+088/097	sechs	1	s e ch s
+088/099	söchs	1	s ö ch s
+088/101	sex	1	s e x
+088/103	sex	1	s e x
+088/105	söchs	1	s ö ch s
+088/107	sechs	1	s e ch s
+088/109	sex	1	s e x
+088/113	NA	NA	-
+088/115	sechs	1	s e ch s
+088/117	sechs	1	s e ch s
+088/121	sex	1	s e x
+088/123	sechs	1	s e ch s
+088/127	segs	1	s e g s
+088/129	seks	1	s e k s
+088/131	sex	1	s e x
+088/137	segs	1	s e g s
+088/139	seks	1	s e k s
+088/141	sex	1	s e x
+088/143	säichs	1	s äi ch s
+088/145	sex	1	s e x
+088/147	sechs	1	s e ch s
+088/149	sex	1	s e x
+089/035	sechs	1	s e ch s
+089/037	sechs	1	s e ch s
+089/039	sechs	1	s e ch s
+089/041	säcks	1	s ä ck s
+089/043	sechs	1	s e ch s
+089/045	sex	1	s e x
+089/047	sex	1	s e x
+089/049	sechs	1	s e ch s
+089/051	seggs	1	s e gg s
+089/053	segs	1	s e g s
+089/055	seks	1	s e k s
+089/057	sex	1	s e x
+089/059	sex	1	s e x
+089/061	sechs	1	s e ch s
+089/063	segs	1	s e g s
+089/065	sechs	1	s e ch s
+089/067	sechs	1	s e ch s
+089/069	sechs	1	s e ch s
+089/071	sechs	1	s e ch s
+089/073	segs	1	s e g s
+089/075	söchs	1	s ö ch s
+089/077	söx	1	s ö x
+089/079	sechs	1	s e ch s
+089/081	sechs	1	s e ch s
+089/083	sex	1	s e x
+089/085	sechs	1	s e ch s
+089/087	sechs	1	s e ch s
+089/089	sechs	1	s e ch s
+089/091	segs	1	s e g s
+089/093	sechs	1	s e ch s
+089/095	söx	1	s ö x
+089/097	sechs	1	s e ch s
+089/099	söchs	1	s ö ch s
+089/101	sechs	1	s e ch s
+089/103	söx	1	s ö x
+089/105	söx	1	s ö x
+089/107	sögs	1	s ö g s
+089/109	sechs	1	s e ch s
+089/111	segs	1	s e g s
+089/113	söchs	1	s ö ch s
+089/115	sechs	1	s e ch s
+089/117	seegs	1	s ee g s
+089/119	seex	1	s ee x
+089/121	söx	1	s ö x
+089/123	sechs	1	s e ch s
+089/125	sechs	1	s e ch s
+089/127	NA	NA	-
+089/129	seks	1	s e k s
+089/131	sechs	1	s e ch s
+089/133	sechs	1	s e ch s
+089/135	sex	1	s e x
+089/137	sechs	1	s e ch s
+089/139	seeks	1	s ee k s
+089/141	seks	1	s e k s
+089/143	sex	1	s e x
+089/145	sex	1	s e x
+089/147	sex	1	s e x
+089/149	segs	1	s e g s
+090/035	sex	1	s e x
+090/037	sechs	1	s e ch s
+090/039	sechs	1	s e ch s
+090/041	sechs	1	s e ch s
+090/043	secks	1	s e ck s
+090/045	seexs	1	s ee x s
+090/047	sehs	1	s eh s
+090/049	sex	1	s e x
+090/051	sex	1	s e x
+090/053	segs	1	s e g s
+090/055	sex	1	s e x
+090/057	segs	1	s e g s
+090/059	sechs	1	s e ch s
+090/061	segs	1	s e g s
+090/063	sechs	1	s e ch s
+090/065	seks	1	s e k s
+090/067	sex	1	s e x
+090/069	sögs	1	s ö g s
+090/071	sechs	1	s e ch s
+090/073	sogs	1	s o g s
+090/075	segs	1	s e g s
+090/077	söx	1	s ö x
+090/079	sechs	1	s e ch s
+090/081	sex	1	s e x
+090/083	sechs	1	s e ch s
+090/085	söx	1	s ö x
+090/087	sechs	1	s e ch s
+090/089	secks	1	s e ck s
+090/091	söx	1	s ö x
+090/093	sex	1	s e x
+090/095	sechs	1	s e ch s
+090/097	sögs	1	s ö g s
+090/099	sex	1	s e x
+090/101	söx	1	s ö x
+090/103	söx	1	s ö x
+090/105	sechs	1	s e ch s
+090/107	söx	1	s ö x
+090/109	söx	1	s ö x
+090/111	segs	1	s e g s
+090/113	sex	1	s e x
+090/115	söchs	1	s ö ch s
+090/119	seks	1	s e k s
+090/121	sex	1	s e x
+090/123	söks	1	s ö k s
+090/125	sex	1	s e x
+090/127	sechs	1	s e ch s
+090/129	sechs	1	s e ch s
+090/131	NA	NA	-
+090/133	säiks	1	s äi k s
+090/135	sechs	1	s e ch s
+090/137	sechs	1	s e ch s
+090/139	seechs	1	s ee ch s
+090/141	seigs	1	s ei g s
+090/143	seksch	1	s e k sch
+090/145	sex	1	s e x
+090/147	seks	1	s e k s
+090/149	sex	1	s e x
+090/151	segs	1	s e g s
+091/035	sechs	1	s e ch s
+091/037	sechs	1	s e ch s
+091/039	sechs	1	s e ch s
+091/041	sechs	1	s e ch s
+091/043	sexs	1	s e x s
+091/045	sechs	1	s e ch s
+091/047	NA	NA	-
+091/049	NA	NA	-
+091/051	secks	1	s e ck s
+091/053	segs	1	s e g s
+091/055	segs	1	s e g s
+091/057	sex	1	s e x
+091/059	seks	1	s e k s
+091/061	sex	1	s e x
+091/063	sexs	1	s e x s
+091/065	sex	1	s e x
+091/067	segs	1	s e g s
+091/069	seks	1	s e k s
+091/071	söx	1	s ö x
+091/073	söx	1	s ö x
+091/075	söx	1	s ö x
+091/077	söchs	1	s ö ch s
+091/079	söx	1	s ö x
+091/081	söx	1	s ö x
+091/083	sex	1	s e x
+091/085	sex	1	s e x
+091/087	sex	1	s e x
+091/091	söchs	1	s ö ch s
+091/093	NA	NA	-
+091/095	sechs	1	s e ch s
+091/097	sex	1	s e x
+091/099	söx	1	s ö x
+091/101	segs	1	s e g s
+091/103	sechs	1	s e ch s
+091/105	söchs	1	s ö ch s
+091/107	sechs	1	s e ch s
+091/109	sechs	1	s e ch s
+091/111	sex	1	s e x
+091/113	söx	1	s ö x
+091/115	sechs	1	s e ch s
+091/117	sechs	1	s e ch s
+091/119	söchs	1	s ö ch s
+091/121	söx	1	s ö x
+091/125	söx	1	s ö x
+091/129	sechs	1	s e ch s
+091/131	sechs	1	s e ch s
+091/133	segs	1	s e g s
+091/135	sex	1	s e x
+091/137	söx	1	s ö x
+091/139	sechs	1	s e ch s
+091/141	sechs	1	s e ch s
+091/143	sex	1	s e x
+091/145	sex	1	s e x
+091/147	seks	1	s e k s
+091/149	sex	1	s e x
+091/151	sekt	1	s e k t
+091/155	seks	1	s e k s
+092/033	sex	1	s e x
+092/035	sechs	1	s e ch s
+092/037	sechs	1	s e ch s
+092/039	sechs	1	s e ch s
+092/041	segs	1	s e g s
+092/043	seks	1	s e k s
+092/045	segs	1	s e g s
+092/047	sex	1	s e x
+092/049	sechs	1	s e ch s
+092/051	sex	1	s e x
+092/053	sekks	1	s e kk s
+092/055	segs	1	s e g s
+092/057	sex	1	s e x
+092/059	sex	1	s e x
+092/061	sechs	1	s e ch s
+092/063	sex	1	s e x
+092/065	segs	1	s e g s
+092/067	sex	1	s e x
+092/069	sex	1	s e x
+092/071	sochs	1	s o ch s
+092/073	söchs	1	s ö ch s
+092/075	söchs	1	s ö ch s
+092/077	segs	1	s e g s
+092/079	sögs	1	s ö g s
+092/081	söx	1	s ö x
+092/083	söx	1	s ö x
+092/085	sechs	1	s e ch s
+092/087	söchs	1	s ö ch s
+092/089	söx	1	s ö x
+092/091	söx	1	s ö x
+092/093	segs	1	s e g s
+092/095	NA	NA	-
+092/097	sechs	1	s e ch s
+092/099	NA	NA	-
+092/101	sex	1	s e x
+092/103	sex	1	s e x
+092/105	sögs	1	s ö g s
+092/107	NA	NA	-
+092/109	NA	NA	-
+092/111	sexs	1	s e x s
+092/113	söchs	1	s ö ch s
+092/115	seex	1	s ee x
+092/117	söchs	1	s ö ch s
+092/119	NA	NA	-
+092/121	sechs	1	s e ch s
+092/123	sex	1	s e x
+092/125	segs	1	s e g s
+092/127	sechs	1	s e ch s
+092/129	sechs	1	s e ch s
+092/131	sechs	1	s e ch s
+092/133	segs	1	s e g s
+092/135	sex	1	s e x
+092/137	sechs	1	s e ch s
+092/139	sex	1	s e x
+092/141	sex	1	s e x
+092/143	sex	1	s e x
+092/145	segs	1	s e g s
+092/147	sex	1	s e x
+092/149	sex	1	s e x
+092/151	sechs	1	s e ch s
+093/035	secks	1	s e ck s
+093/037	sechs	1	s e ch s
+093/039	segs	1	s e g s
+093/041	segs	1	s e g s
+093/043	sechs	1	s e ch s
+093/045	sex	1	s e x
+093/047	segs	1	s e g s
+093/049	NA	NA	-
+093/051	segs	1	s e g s
+093/053	seggs	1	s e gg s
+093/055	seks	1	s e k s
+093/057	sex	1	s e x
+093/059	sex	1	s e x
+093/061	sex	1	s e x
+093/063	sechs	1	s e ch s
+093/065	sex	1	s e x
+093/067	sex	1	s e x
+093/069	NA	NA	-
+093/071	söx	1	s ö x
+093/073	sögs	1	s ö g s
+093/075	söchs	1	s ö ch s
+093/077	sechs	1	s e ch s
+093/079	sechs	1	s e ch s
+093/081	söchs	1	s ö ch s
+093/083	söx	1	s ö x
+093/085	sechs	1	s e ch s
+093/087	sex	1	s e x
+093/089	segs	1	s e g s
+093/091	segs	1	s e g s
+093/093	söx	1	s ö x
+093/095	sechs	1	s e ch s
+093/097	sex	1	s e x
+093/099	sechs	1	s e ch s
+093/101	sex	1	s e x
+093/103	sechs	1	s e ch s
+093/105	sex	1	s e x
+093/109	söx	1	s ö x
+093/111	sex	1	s e x
+093/113	söx	1	s ö x
+093/115	sechs	1	s e ch s
+093/117	seks	1	s e k s
+093/119	seks	1	s e k s
+093/121	sex	1	s e x
+093/123	sex	1	s e x
+093/125	sex	1	s e x
+093/127	segs	1	s e g s
+093/129	sex	1	s e x
+093/131	sex	1	s e x
+093/133	segs	1	s e g s
+093/137	segs	1	s e g s
+093/139	sechs	1	s e ch s
+093/143	segs	1	s e g s
+093/145	segs	1	s e g s
+093/147	sex	1	s e x
+093/149	sechs	1	s e ch s
+093/151	seks	1	s e k s
+093/153	ssecks	1	ss e ck s
+093/155	seiks	1	s ei k s
+094/033	seks	1	s e k s
+094/035	sechs	1	s e ch s
+094/037	sechs	1	s e ch s
+094/039	sechs	1	s e ch s
+094/041	segs	1	s e g s
+094/043	sexs	1	s e x s
+094/045	sex	1	s e x
+094/047	sexs	1	s e x s
+094/049	sechs	1	s e ch s
+094/051	sex	1	s e x
+094/053	segs	1	s e g s
+094/055	sex	1	s e x
+094/057	sex	1	s e x
+094/059	seggs	1	s e gg s
+094/061	sechs	1	s e ch s
+094/063	seks	1	s e k s
+094/065	segs	1	s e g s
+094/067	sex	1	s e x
+094/069	sex	1	s e x
+094/071	sogs	1	s o g s
+094/073	sechs	1	s e ch s
+094/075	söx	1	s ö x
+094/077	sechs	1	s e ch s
+094/079	sechs	1	s e ch s
+094/081	segs	1	s e g s
+094/083	segs	1	s e g s
+094/085	söchs	1	s ö ch s
+094/087	sex	1	s e x
+094/089	sechs	1	s e ch s
+094/091	sex	1	s e x
+094/093	sex	1	s e x
+094/095	sex	1	s e x
+094/097	söx	1	s ö x
+094/099	segs	1	s e g s
+094/101	sechs	1	s e ch s
+094/103	söks	1	s ö k s
+094/105	sex	1	s e x
+094/107	söchs	1	s ö ch s
+094/109	söchs	1	s ö ch s
+094/111	sechs	1	s e ch s
+094/113	sechs	1	s e ch s
+094/115	sechs	1	s e ch s
+094/117	NA	NA	-
+094/119	sechs	1	s e ch s
+094/121	söx	1	s ö x
+094/123	sex	1	s e x
+094/125	seks	1	s e k s
+094/127	sechs	1	s e ch s
+094/129	sex	1	s e x
+094/131	sechs	1	s e ch s
+094/133	sex	1	s e x
+094/135	sechs	1	s e ch s
+094/137	sex	1	s e x
+094/139	sex	1	s e x
+094/141	sechs	1	s e ch s
+094/143	sechs	1	s e ch s
+094/145	sex	1	s e x
+094/147	seichs	1	s ei ch s
+094/149	sex	1	s e x
+094/151	seks	1	s e k s
+094/153	sechs	1	s e ch s
+095/031	sechs	1	s e ch s
+095/033	segs	1	s e g s
+095/035	secks	1	s e ck s
+095/037	sechs	1	s e ch s
+095/039	sechs	1	s e ch s
+095/041	NA	NA	-
+095/043	sex	1	s e x
+095/045	sechs	1	s e ch s
+095/047	sex	1	s e x
+095/049	segs	1	s e g s
+095/051	sechs	1	s e ch s
+095/053	segs	1	s e g s
+095/055	sex	1	s e x
+095/057	sex	1	s e x
+095/059	sex	1	s e x
+095/061	seks	1	s e k s
+095/063	sechs	1	s e ch s
+095/065	sex	1	s e x
+095/067	sechs	1	s e ch s
+095/069	sex	1	s e x
+095/071	sechs	1	s e ch s
+095/073	sögs	1	s ö g s
+095/075	söx	1	s ö x
+095/077	söx	1	s ö x
+095/079	sex	1	s e x
+095/081	segs	1	s e g s
+095/083	sechs	1	s e ch s
+095/085	seks	1	s e k s
+095/087	secks	1	s e ck s
+095/089	sex	1	s e x
+095/091	sechs	1	s e ch s
+095/093	sechs	1	s e ch s
+095/095	segs	1	s e g s
+095/097	söx	1	s ö x
+095/099	sexs	1	s e x s
+095/101	söchs	1	s ö ch s
+095/103	sex	1	s e x
+095/105	sex	1	s e x
+095/107	sechs	1	s e ch s
+095/109	sechs	1	s e ch s
+095/111	sögs	1	s ö g s
+095/113	sechs	1	s e ch s
+095/115	sex	1	s e x
+095/117	sechs	1	s e ch s
+095/119	sechs	1	s e ch s
+095/121	sechs	1	s e ch s
+095/123	sechs	1	s e ch s
+095/125	segs	1	s e g s
+095/129	sex	1	s e x
+095/131	segs	1	s e g s
+095/133	sechs	1	s e ch s
+095/139	sex	1	s e x
+095/141	segs	1	s e g s
+095/143	segs	1	s e g s
+095/145	sexs	1	s e x s
+095/147	segs	1	s e g s
+095/149	sechs	1	s e ch s
+095/151	säix	1	s äi x
+095/153	sex	1	s e x
+095/155	sechs	1	s e ch s
+096/031	secks	1	s e ck s
+096/033	secks	1	s e ck s
+096/035	seihs	1	s eih s
+096/037	sechs	1	s e ch s
+096/039	sächs	1	s ä ch s
+096/041	NA	NA	-
+096/043	segs	1	s e g s
+096/045	sechs	1	s e ch s
+096/047	sechs	1	s e ch s
+096/049	sechs	1	s e ch s
+096/051	sechs	1	s e ch s
+096/053	sex	1	s e x
+096/055	sex	1	s e x
+096/057	sechs	1	s e ch s
+096/059	segs	1	s e g s
+096/061	segs	1	s e g s
+096/063	seks	1	s e k s
+096/065	segs	1	s e g s
+096/067	segs	1	s e g s
+096/069	sögs	1	s ö g s
+096/071	sechs	1	s e ch s
+096/075	söchs	1	s ö ch s
+096/077	söx	1	s ö x
+096/079	söx	1	s ö x
+096/081	sex	1	s e x
+096/083	sex	1	s e x
+096/085	söx	1	s ö x
+096/087	sechs	1	s e ch s
+096/089	sex	1	s e x
+096/091	sechs	1	s e ch s
+096/093	söchs	1	s ö ch s
+096/095	six	1	s i x
+096/097	sechs	1	s e ch s
+096/099	säx	1	s ä x
+096/101	sechs	1	s e ch s
+096/103	sechs	1	s e ch s
+096/105	sex	1	s e x
+096/107	segs	1	s e g s
+096/109	segs	1	s e g s
+096/111	söx	1	s ö x
+096/113	segs	1	s e g s
+096/115	NA	NA	-
+096/117	sex	1	s e x
+096/119	sechs	1	s e ch s
+096/121	sex	1	s e x
+096/123	söx	1	s ö x
+096/125	sögs	1	s ö g s
+096/129	sex	1	s e x
+096/131	segs	1	s e g s
+096/135	sechs	1	s e ch s
+096/137	NA	NA	-
+096/139	sex	1	s e x
+096/141	sechs	1	s e ch s
+096/143	seks	1	s e k s
+096/145	NA	NA	-
+096/147	seikks	1	s ei kk s
+096/151	secks	1	s e ck s
+096/153	sechs	1	s e ch s
+096/155	seichs	1	s ei ch s
+097/031	sechs	1	s e ch s
+097/033	sechs	1	s e ch s
+097/035	sechs	1	s e ch s
+097/037	sechs	1	s e ch s
+097/039	segs	1	s e g s
+097/041	seks	1	s e k s
+097/043	segs	1	s e g s
+097/045	segs	1	s e g s
+097/047	sex	1	s e x
+097/049	segs	1	s e g s
+097/051	sex	1	s e x
+097/053	segs	1	s e g s
+097/055	sechs	1	s e ch s
+097/057	seks	1	s e k s
+097/059	segs	1	s e g s
+097/061	sex	1	s e x
+097/063	sexs	1	s e x s
+097/065	segs	1	s e g s
+097/067	sex	1	s e x
+097/069	segs	1	s e g s
+097/071	sex	1	s e x
+097/073	söchs	1	s ö ch s
+097/075	sechs	1	s e ch s
+097/077	sögs	1	s ö g s
+097/079	sex	1	s e x
+097/081	sechs	1	s e ch s
+097/083	sechs	1	s e ch s
+097/085	sechs	1	s e ch s
+097/087	sechs	1	s e ch s
+097/089	söchs	1	s ö ch s
+097/091	söx	1	s ö x
+097/093	sex	1	s e x
+097/095	söchs	1	s ö ch s
+097/097	sechs	1	s e ch s
+097/099	söchs	1	s ö ch s
+097/103	söchs	1	s ö ch s
+097/105	söx	1	s ö x
+097/107	NA	NA	-
+097/109	söx	1	s ö x
+097/113	NA	NA	-
+097/125	sechs	1	s e ch s
+097/131	segs	1	s e g s
+097/133	segs	1	s e g s
+097/139	sex	1	s e x
+097/141	seichs	1	s ei ch s
+097/143	sechs	1	s e ch s
+097/145	säiks	1	s äi k s
+097/149	NA	NA	-
+097/153	säiks	1	s äi k s
+098/033	sechs	1	s e ch s
+098/035	sechs	1	s e ch s
+098/037	sechs	1	s e ch s
+098/039	segs	1	s e g s
+098/041	sechs	1	s e ch s
+098/043	NA	NA	-
+098/045	sechs	1	s e ch s
+098/047	sex	1	s e x
+098/049	sex	1	s e x
+098/051	sechs	1	s e ch s
+098/053	sechs	1	s e ch s
+098/055	NA	NA	-
+098/057	sechs	1	s e ch s
+098/059	sex	1	s e x
+098/061	segs	1	s e g s
+098/063	sechs	1	s e ch s
+098/065	sechs	1	s e ch s
+098/067	seks	1	s e k s
+098/069	sechs	1	s e ch s
+098/071	söchs	1	s ö ch s
+098/073	söx	1	s ö x
+098/075	sechs	1	s e ch s
+098/077	segs	1	s e g s
+098/079	sechs	1	s e ch s
+098/081	sex	1	s e x
+098/083	sex	1	s e x
+098/085	sex	1	s e x
+098/087	söx	1	s ö x
+098/089	sex	1	s e x
+098/091	sex	1	s e x
+098/093	sex	1	s e x
+098/095	segs	1	s e g s
+098/097	söx	1	s ö x
+098/103	sechs	1	s e ch s
+098/105	soogs	1	s oo g s
+098/107	söx	1	s ö x
+098/109	sechs	1	s e ch s
+098/111	söx	1	s ö x
+098/119	söx	1	s ö x
+098/123	sex	1	s e x
+098/125	NA	NA	-
+098/127	sechs	1	s e ch s
+098/135	sechs	1	s e ch s
+098/137	sechs	1	s e ch s
+098/139	sechs	1	s e ch s
+098/141	sechs	1	s e ch s
+098/143	sex	1	s e x
+098/145	NA	NA	-
+098/147	sechs	1	s e ch s
+098/149	seichs	1	s ei ch s
+098/151	seix	1	s ei x
+099/033	sechs	1	s e ch s
+099/035	sechs	1	s e ch s
+099/037	sachs	1	s a ch s
+099/039	secks	1	s e ck s
+099/041	sechs	1	s e ch s
+099/043	sächs	1	s ä ch s
+099/045	segs	1	s e g s
+099/047	sächs	1	s ä ch s
+099/049	sechs	1	s e ch s
+099/051	segs	1	s e g s
+099/053	sächs	1	s ä ch s
+099/055	sex	1	s e x
+099/057	sechs	1	s e ch s
+099/059	segs	1	s e g s
+099/063	segs	1	s e g s
+099/065	NA	NA	-
+099/067	segs	1	s e g s
+099/069	segs	1	s e g s
+099/071	söchs	1	s ö ch s
+099/073	sex	1	s e x
+099/075	söx	1	s ö x
+099/077	söchs	1	s ö ch s
+099/081	söx	1	s ö x
+099/083	NA	NA	-
+099/085	sechs	1	s e ch s
+099/089	sechs	1	s e ch s
+099/093	söx	1	s ö x
+099/095	sex	1	s e x
+099/099	sex	1	s e x
+099/101	söx	1	s ö x
+099/103	sechs	1	s e ch s
+099/105	söchs	1	s ö ch s
+099/107	sex	1	s e x
+099/109	sögs	1	s ö g s
+099/111	sechs	1	s e ch s
+099/113	söx	1	s ö x
+099/121	NA	NA	-
+099/123	sex	1	s e x
+099/125	sex	1	s e x
+099/131	sechs	1	s e ch s
+099/137	segs	1	s e g s
+099/139	seks	1	s e k s
+099/141	sechs	1	s e ch s
+099/143	sex	1	s e x
+099/145	seiks	1	s ei k s
+099/147	seix	1	s ei x
+100/033	sechs	1	s e ch s
+100/035	söx	1	s ö x
+100/037	sechs	1	s e ch s
+100/039	säx	1	s ä x
+100/041	sechs	1	s e ch s
+100/043	sächs	1	s ä ch s
+100/045	sechs	1	s e ch s
+100/049	sächs	1	s ä ch s
+100/051	NA	NA	-
+100/053	sächs	1	s ä ch s
+100/055	sächs	1	s ä ch s
+100/057	sechs	1	s e ch s
+100/059	sexs	1	s e x s
+100/061	sechs	1	s e ch s
+100/065	sechs	1	s e ch s
+100/067	segs	1	s e g s
+100/069	söx	1	s ö x
+100/071	sex	1	s e x
+100/073	sechs	1	s e ch s
+100/075	söx	1	s ö x
+100/077	söx	1	s ö x
+100/081	segs	1	s e g s
+100/083	NA	NA	-
+100/089	söx	1	s ö x
+100/093	sex	1	s e x
+100/095	segs	1	s e g s
+100/097	segs	1	s e g s
+100/099	sögs	1	s ö g s
+100/101	sächs	1	s ä ch s
+100/109	sex	1	s e x
+100/111	NA	NA	-
+100/113	NA	NA	-
+100/115	sechs	1	s e ch s
+100/117	sex	1	s e x
+100/119	sechs	1	s e ch s
+100/121	sechs	1	s e ch s
+100/125	segs	1	s e g s
+100/127	sex	1	s e x
+100/129	sex	1	s e x
+100/133	sex	1	s e x
+100/135	sex	1	s e x
+100/141	sexs	1	s e x s
+100/143	sächs	1	s ä ch s
+100/145	sechs	1	s e ch s
+101/035	sechs	1	s e ch s
+101/037	sächs	1	s ä ch s
+101/039	sächs	1	s ä ch s
+101/041	sächs	1	s ä ch s
+101/043	sächs	1	s ä ch s
+101/045	sächs	1	s ä ch s
+101/047	sächs	1	s ä ch s
+101/049	säcks	1	s ä ck s
+101/051	sächs	1	s ä ch s
+101/053	sechs	1	s e ch s
+101/055	sächs	1	s ä ch s
+101/057	sechs	1	s e ch s
+101/059	NA	NA	-
+101/061	sechs	1	s e ch s
+101/063	seks	1	s e k s
+101/065	segs	1	s e g s
+101/067	sechs	1	s e ch s
+101/071	sex	1	s e x
+101/075	söggs	1	s ö gg s
+101/077	söx	1	s ö x
+101/079	söx	1	s ö x
+101/081	sechs	1	s e ch s
+101/091	sex	1	s e x
+101/093	söx	1	s ö x
+101/095	sex	1	s e x
+101/097	segs	1	s e g s
+101/099	sex	1	s e x
+101/101	söx	1	s ö x
+101/103	söx	1	s ö x
+101/107	söx	1	s ö x
+101/109	sex	1	s e x
+101/113	sex	1	s e x
+101/115	sex	1	s e x
+101/121	sex	1	s e x
+101/125	segs	1	s e g s
+101/129	sechs	1	s e ch s
+101/131	sex	1	s e x
+101/133	säichs	1	s äi ch s
+101/137	sex	1	s e x
+101/139	sex	1	s e x
+101/141	sechs	1	s e ch s
+101/143	segs	1	s e g s
+101/145	seiks	1	s ei k s
+101/147	säiks	1	s äi k s
+102/037	säxs	1	s ä x s
+102/039	sächs	1	s ä ch s
+102/041	sächs	1	s ä ch s
+102/043	sächs	1	s ä ch s
+102/045	sächs	1	s ä ch s
+102/047	sächs	1	s ä ch s
+102/049	sächs	1	s ä ch s
+102/051	sächs	1	s ä ch s
+102/053	sächs	1	s ä ch s
+102/055	sächs	1	s ä ch s
+102/057	sechs	1	s e ch s
+102/059	sechs	1	s e ch s
+102/061	sechs	1	s e ch s
+102/063	sex	1	s e x
+102/065	sexs	1	s e x s
+102/067	sex	1	s e x
+102/069	sachs	1	s a ch s
+102/071	söx	1	s ö x
+102/073	sögs	1	s ö g s
+102/075	sögs	1	s ö g s
+102/077	söx	1	s ö x
+102/079	söx	1	s ö x
+102/081	sex	1	s e x
+102/083	söx	1	s ö x
+102/089	sögs	1	s ö g s
+102/091	sägs	1	s ä g s
+102/093	söx	1	s ö x
+102/095	söx	1	s ö x
+102/097	sechs	1	s e ch s
+102/099	söx	1	s ö x
+102/103	sex	1	s e x
+102/107	sexs	1	s e x s
+102/109	sex	1	s e x
+102/113	sex	1	s e x
+102/115	NA	NA	-
+102/127	säichs	1	s äi ch s
+102/129	sex	1	s e x
+102/131	segs	1	s e g s
+102/135	seix	1	s ei x
+102/137	sechs	1	s e ch s
+102/139	sex	1	s e x
+102/141	seichs	1	s ei ch s
+102/143	sex	1	s e x
+102/145	NA	NA	-
+103/039	sachs	1	s a ch s
+103/041	sächs	1	s ä ch s
+103/043	sächs	1	s ä ch s
+103/045	sächs	1	s ä ch s
+103/047	sächs	1	s ä ch s
+103/049	sächs	1	s ä ch s
+103/051	sächs	1	s ä ch s
+103/053	sächs	1	s ä ch s
+103/055	sächs	1	s ä ch s
+103/057	sechs	1	s e ch s
+103/059	sächs	1	s ä ch s
+103/063	sechs	1	s e ch s
+103/065	sex	1	s e x
+103/067	sex	1	s e x
+103/069	sex	1	s e x
+103/071	sächs	1	s ä ch s
+103/073	segs	1	s e g s
+103/075	sex	1	s e x
+103/077	segs	1	s e g s
+103/079	söx	1	s ö x
+103/081	sex	1	s e x
+103/083	sechs	1	s e ch s
+103/085	seggs	1	s e gg s
+103/087	sechs	1	s e ch s
+103/089	sechs	1	s e ch s
+103/091	sechs	1	s e ch s
+103/097	sex	1	s e x
+103/099	segs	1	s e g s
+103/101	söx	1	s ö x
+103/105	söx	1	s ö x
+103/107	sekchs	1	s e k ch s
+103/111	söx	1	s ö x
+103/121	sex	1	s e x
+103/125	sechs	1	s e ch s
+103/127	sex	1	s e x
+103/131	sex	1	s e x
+103/133	sex	1	s e x
+103/135	sex	1	s e x
+103/137	sechs	1	s e ch s
+103/139	segs	1	s e g s
+103/141	seichs	1	s ei ch s
+103/143	seichs	1	s ei ch s
+103/145	sex	1	s e x
+104/033	sächs	1	s ä ch s
+104/035	sächs	1	s ä ch s
+104/037	sächs	1	s ä ch s
+104/039	sächs	1	s ä ch s
+104/041	sächs	1	s ä ch s
+104/043	sächs	1	s ä ch s
+104/045	sächs	1	s ä ch s
+104/047	sächs	1	s ä ch s
+104/049	sächs	1	s ä ch s
+104/051	sächs	1	s ä ch s
+104/053	sächs	1	s ä ch s
+104/055	sächs	1	s ä ch s
+104/057	sächs	1	s ä ch s
+104/059	sechs	1	s e ch s
+104/061	sächs	1	s ä ch s
+104/063	sechs	1	s e ch s
+104/065	segs	1	s e g s
+104/067	sächs	1	s ä ch s
+104/071	sex	1	s e x
+104/075	sechs	1	s e ch s
+104/077	sex	1	s e x
+104/079	söx	1	s ö x
+104/081	sechs	1	s e ch s
+104/083	sögs	1	s ö g s
+104/085	NA	NA	-
+104/091	sögs	1	s ö g s
+104/095	sex	1	s e x
+104/101	sögs	1	s ö g s
+104/103	söx	1	s ö x
+104/107	sex	1	s e x
+104/111	seggs	1	s e gg s
+104/113	söx	1	s ö x
+104/119	sechs	1	s e ch s
+104/121	sechs	1	s e ch s
+104/123	NA	NA	-
+104/125	säix	1	s äi x
+104/127	segs	1	s e g s
+104/131	segs	1	s e g s
+104/133	segs	1	s e g s
+104/135	sex	1	s e x
+104/137	sechs	1	s e ch s
+104/139	seix	1	s ei x
+104/141	sechs	1	s e ch s
+104/143	seks	1	s e k s
+104/145	seichs	1	s ei ch s
+105/031	sächs	1	s ä ch s
+105/033	sächs	1	s ä ch s
+105/035	NA	NA	-
+105/037	sächs	1	s ä ch s
+105/039	sächs	1	s ä ch s
+105/041	sächs	1	s ä ch s
+105/043	sachs	1	s a ch s
+105/045	sächs	1	s ä ch s
+105/047	sächs	1	s ä ch s
+105/049	sächs	1	s ä ch s
+105/051	sächs	1	s ä ch s
+105/053	sächs	1	s ä ch s
+105/055	sächs	1	s ä ch s
+105/057	sächs	1	s ä ch s
+105/059	sächs	1	s ä ch s
+105/061	sechs	1	s e ch s
+105/063	sex	1	s e x
+105/065	segs	1	s e g s
+105/067	segs	1	s e g s
+105/069	seks	1	s e k s
+105/071	söx	1	s ö x
+105/073	söx	1	s ö x
+105/075	söx	1	s ö x
+105/077	sögs	1	s ö g s
+105/079	segs	1	s e g s
+105/081	sechs	1	s e ch s
+105/085	sogs	1	s o g s
+105/087	sögs	1	s ö g s
+105/089	NA	NA	-
+105/103	söx	1	s ö x
+105/105	söx	1	s ö x
+105/111	söx	1	s ö x
+105/113	sex	1	s e x
+105/115	sochs	1	s o ch s
+105/117	sex	1	s e x
+105/119	sechs	1	s e ch s
+105/121	sechs	1	s e ch s
+105/125	sechs	1	s e ch s
+105/127	sechs	1	s e ch s
+105/131	sex	1	s e x
+105/133	sex	1	s e x
+105/135	sex	1	s e x
+105/137	säix	1	s äi x
+105/141	sex	1	s e x
+105/143	seichs	1	s ei ch s
+105/145	sechs	1	s e ch s
+106/033	sächs	1	s ä ch s
+106/035	sächs	1	s ä ch s
+106/037	sächs	1	s ä ch s
+106/039	sächs	1	s ä ch s
+106/041	sächs	1	s ä ch s
+106/043	sächs	1	s ä ch s
+106/045	sächs	1	s ä ch s
+106/047	söchs	1	s ö ch s
+106/049	sächs	1	s ä ch s
+106/051	sächs	1	s ä ch s
+106/053	sächs	1	s ä ch s
+106/057	sechs	1	s e ch s
+106/061	sächs	1	s ä ch s
+106/063	sexs	1	s e x s
+106/067	sechs	1	s e ch s
+106/071	sögs	1	s ö g s
+106/073	segs	1	s e g s
+106/075	sögs	1	s ö g s
+106/077	söx	1	s ö x
+106/079	segs	1	s e g s
+106/081	sögs	1	s ö g s
+106/085	segs	1	s e g s
+106/087	sechs	1	s e ch s
+106/093	sögs	1	s ö g s
+106/097	söchs	1	s ö ch s
+106/099	söchs	1	s ö ch s
+106/103	seigsch	1	s ei g sch
+106/111	söx	1	s ö x
+106/115	söx	1	s ö x
+106/121	sechs	1	s e ch s
+106/123	sejx	1	s e j x
+106/125	sechs	1	s e ch s
+106/129	sex	1	s e x
+106/131	sex	1	s e x
+106/133	sex	1	s e x
+106/135	sex	1	s e x
+106/137	söigs	1	s öi g s
+106/139	sechs	1	s e ch s
+106/141	NA	NA	-
+106/143	seix	1	s ei x
+106/145	NA	NA	-
+107/033	sechs	1	s e ch s
+107/035	sächs	1	s ä ch s
+107/037	sächs	1	s ä ch s
+107/039	saachs	1	s aa ch s
+107/041	sechs	1	s e ch s
+107/043	sächs	1	s ä ch s
+107/045	sächs	1	s ä ch s
+107/047	sächs	1	s ä ch s
+107/049	sächs	1	s ä ch s
+107/051	sächs	1	s ä ch s
+107/053	sächs	1	s ä ch s
+107/057	sechs	1	s e ch s
+107/059	NA	NA	-
+107/063	sächs	1	s ä ch s
+107/065	sächs	1	s ä ch s
+107/071	sögs	1	s ö g s
+107/075	segs	1	s e g s
+107/081	sogs	1	s o g s
+107/085	segs	1	s e g s
+107/087	sögs	1	s ö g s
+107/089	söx	1	s ö x
+107/091	sex	1	s e x
+107/097	seechs	1	s ee ch s
+107/099	segs	1	s e g s
+107/103	sejjxsch	1	s e jj x sch
+107/105	sechs	1	s e ch s
+107/107	sex	1	s e x
+107/111	söx	1	s ö x
+107/119	sex	1	s e x
+107/121	söx	1	s ö x
+107/123	sechs	1	s e ch s
+107/125	sechs	1	s e ch s
+107/127	sex	1	s e x
+107/129	NA	NA	-
+107/131	sechs	1	s e ch s
+107/133	säix	1	s äi x
+107/135	säigs	1	s äi g s
+107/137	NA	NA	-
+107/139	sechs	1	s e ch s
+107/141	sähigs	1	s ä h i g s
+107/143	sechs	1	s e ch s
+108/033	sächs	1	s ä ch s
+108/035	sächs	1	s ä ch s
+108/037	sächs	1	s ä ch s
+108/039	sächs	1	s ä ch s
+108/041	sächs	1	s ä ch s
+108/043	sächs	1	s ä ch s
+108/047	sächs	1	s ä ch s
+108/049	sächs	1	s ä ch s
+108/063	sex	1	s e x
+108/065	sächs	1	s ä ch s
+108/067	säggs	1	s ä gg s
+108/075	segs	1	s e g s
+108/079	söchs	1	s ö ch s
+108/081	sex	1	s e x
+108/085	sechs	1	s e ch s
+108/087	söx	1	s ö x
+108/091	NA	NA	-
+108/099	sögs	1	s ö g s
+108/101	sögs	1	s ö g s
+108/103	sexs	1	s e x s
+108/105	sechs	1	s e ch s
+108/109	söx	1	s ö x
+108/111	sex	1	s e x
+108/113	sex	1	s e x
+108/117	sex	1	s e x
+108/119	sex	1	s e x
+108/121	sex	1	s e x
+108/123	sex	1	s e x
+108/125	söix	1	s öi x
+108/127	sechs	1	s e ch s
+108/129	sechs	1	s e ch s
+108/131	sex	1	s e x
+108/133	säigs	1	s äi g s
+108/135	sex	1	s e x
+108/137	sechs	1	s e ch s
+108/139	seix	1	s ei x
+108/141	sechs	1	s e ch s
+109/035	sächs	1	s ä ch s
+109/037	sächs	1	s ä ch s
+109/039	sächs	1	s ä ch s
+109/041	sächs	1	s ä ch s
+109/043	sächs	1	s ä ch s
+109/045	sächs	1	s ä ch s
+109/049	NA	NA	-
+109/053	sägs	1	s ä g s
+109/061	sägs	1	s ä g s
+109/063	sägs	1	s ä g s
+109/065	säxs	1	s ä x s
+109/067	sächs	1	s ä ch s
+109/075	söxs	1	s ö x s
+109/083	segs	1	s e g s
+109/087	söx	1	s ö x
+109/089	sögs	1	s ö g s
+109/091	sex	1	s e x
+109/093	seks	1	s e k s
+109/095	söchs	1	s ö ch s
+109/097	sögs	1	s ö g s
+109/099	söchs	1	s ö ch s
+109/101	sex	1	s e x
+109/103	segs	1	s e g s
+109/107	sögs	1	s ö g s
+109/109	NA	NA	-
+109/111	soochs	1	s oo ch s
+109/113	söx	1	s ö x
+109/115	sex	1	s e x
+109/117	sechs	1	s e ch s
+109/119	sechs	1	s e ch s
+109/121	sex	1	s e x
+109/123	söx	1	s ö x
+109/125	sex	1	s e x
+109/127	sex	1	s e x
+109/129	sex	1	s e x
+109/131	sex	1	s e x
+109/133	sex	1	s e x
+109/135	seiks	1	s ei k s
+109/137	sechs	1	s e ch s
+109/139	segs	1	s e g s
+110/035	sächs	1	s ä ch s
+110/039	sächs	1	s ä ch s
+110/041	saachs	1	s aa ch s
+110/043	sägs	1	s ä g s
+110/045	sachs	1	s a ch s
+110/047	säx	1	s ä x
+110/049	säggs	1	s ä gg s
+110/057	sax	1	s a x
+110/061	säx	1	s ä x
+110/065	säx	1	s ä x
+110/075	sex	1	s e x
+110/079	sechs	1	s e ch s
+110/081	seggs	1	s e gg s
+110/083	seggs	1	s e gg s
+110/087	segs	1	s e g s
+110/089	söx	1	s ö x
+110/091	segs	1	s e g s
+110/093	segs	1	s e g s
+110/095	sex	1	s e x
+110/097	sexs	1	s e x s
+110/099	sex	1	s e x
+110/101	seks	1	s e k s
+110/105	söx	1	s ö x
+110/107	sex	1	s e x
+110/111	sögs	1	s ö g s
+110/113	söx	1	s ö x
+110/115	sex	1	s e x
+110/117	sex	1	s e x
+110/119	söggs	1	s ö gg s
+110/121	NA	NA	-
+110/125	sechs	1	s e ch s
+110/127	sechs	1	s e ch s
+110/129	sechs	1	s e ch s
+110/131	sexs	1	s e x s
+110/133	sex	1	s e x
+110/135	sexs	1	s e x s
+110/137	NA	NA	-
+110/139	sechs	1	s e ch s
+111/035	sächs	1	s ä ch s
+111/037	säx	1	s ä x
+111/039	sächs	1	s ä ch s
+111/041	saags	1	s aa g s
+111/043	sägs	1	s ä g s
+111/045	söx	1	s ö x
+111/059	säx	1	s ä x
+111/073	segs	1	s e g s
+111/075	seks	1	s e k s
+111/077	segs	1	s e g s
+111/079	sechs	1	s e ch s
+111/081	segs	1	s e g s
+111/083	sechs	1	s e ch s
+111/087	sex	1	s e x
+111/089	sex	1	s e x
+111/105	säix	1	s äi x
+111/107	segs	1	s e g s
+111/109	seachs	1	s ea ch s
+111/111	sechs	1	s e ch s
+111/113	söx	1	s ö x
+111/115	sechs	1	s e ch s
+111/117	sechs	1	s e ch s
+111/119	seks	1	s e k s
+111/121	sexs	1	s e x s
+111/123	seks	1	s e k s
+111/125	sechs	1	s e ch s
+112/037	sägs	1	s ä g s
+112/039	säggs	1	s ä gg s
+112/041	sächs	1	s ä ch s
+112/043	säx	1	s ä x
+112/047	sägsch	1	s ä g sch
+112/059	säggs	1	s ä gg s
+112/061	sägs	1	s ä g s
+112/063	NA	NA	-
+112/075	sex	1	s e x
+112/081	sex	1	s e x
+112/083	segs	1	s e g s
+112/085	seks	1	s e k s
+112/111	sex	1	s e x
+112/115	sechs	1	s e ch s
+112/117	segs	1	s e g s
+112/119	sex	1	s e x
+113/035	säx	1	s ä x
+113/037	säx	1	s ä x
+113/039	sächs	1	s ä ch s
+113/047	sägsch	1	s ä g sch
+113/079	seas	1	s ea s
+113/081	seks	1	s e k s
+113/083	sex	1	s e x
+113/085	sex	1	s e x
+113/087	söchs	1	s ö ch s
+113/121	sechs	1	s e ch s
+113/123	sechs	1	s e ch s
+114/035	säx	1	s ä x
+114/045	sägs	1	s ä g s
+114/083	seichs	1	s ei ch s
+114/085	seex	1	s ee x
+115/041	sägsch	1	s ä g sch
+115/043	sägsch	1	s ä g sch
+115/045	sägsch	1	s ä g sch
+115/083	seix	1	s ei x
+115/085	söchs	1	s ö ch s
+116/043	segsch	1	s e g sch
+116/045	sägsch	1	s ä g sch
+116/083	sögs	1	s ö g s
+117/043	sägs	1	s ä g s
+117/045	sägsch	1	s ä g sch
+118/041	säxsch	1	s ä x sch
+119/083	sechs	1	s e ch s
+120/085	seks	1	s e k s
+121/127	shecksch	1	s h e ck sch
+122/127	shechs	1	s h e ch s
+122/129	shecksch	1	s h e ck sch
+123/081	säi	1	s äi
+123/123	shecksch	1	s h e ck sch
+123/125	shegsch	1	s h e g sch
+123/127	shecksch	1	s h e ck sch
+123/129	shecksch	1	s h e ck sch
+124/125	shecksch	1	s h e ck sch
+124/127	shecksch	1	s h e ck sch
+124/129	sheks	1	s h e k s
