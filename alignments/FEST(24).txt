@@ -39,15 +39,15 @@
 010/217	fest	1	f e s t - - -
 010/219	fest	1	f e s t - - -
 011/049	fast	1	f a s t - - -
-011/053		haardt	4	- - - h aa r dt
-011/055		haart	4	- - - h aa r t
+011/053	haardt	4	- - - h aa r dt
+011/055	haart	4	- - - h aa r t
 011/057	NA	NA	- - - - - - -
 011/059	tot	NA	t o t - - - -
 011/061	fast	1	f a s t - - -
 011/063	fast	1	f a s t - - -
-011/065		haat	4	- - - h aa - t
+011/065	haat	4	- - - h aa - t
 011/067	NA	NA	- - - - - - -
-011/069		haart	4	- - - h aa r t
+011/069	haart	4	- - - h aa r t
 011/187	fast	1	f a s t - - -
 011/189	fast	1	f a s t - - -
 011/191	fest	1	f e s t - - -
@@ -67,8 +67,8 @@
 012/051	fast	1	f a s t - - -
 012/053	düb	NA	d ü b - - - -
 012/055	fast	1	f a s t - - -
-012/057		hart	4	- - - h a r t
-012/059		haardt	4	- - - h aa r dt
+012/057	hart	4	- - - h a r t
+012/059	haardt	4	- - - h aa r dt
 012/061	fast	1	f a s t - - -
 012/063	ve	1	v e - - - - -
 012/065	NA	NA	- - - - - - -
@@ -172,7 +172,7 @@
 015/067	fast	1	f a s t - - -
 015/105	fast	1	f a s t - - -
 015/107	fast	1	f a s t - - -
-015/109		binah	5	b i n ah - - -
+015/109	binah	5	b i n ah - - -
 015/151	fast	1	f a s t - - -
 015/153	fast	1	f a s t - - -
 015/155	fast	1	f a s t - - -
@@ -212,7 +212,7 @@
 016/081	fass	1	f a ss - - - -
 016/083	fast	1	f a s t - - -
 016/105	fast	1	f a s t - - -
-016/107		binah	5	b i n ah - - -
+016/107	binah	5	b i n ah - - -
 016/109	fast	1	f a s t - - -
 016/111	fast	1	f a s t - - -
 016/145	fast	1	f a s t - - -
@@ -259,7 +259,7 @@
 017/107	fast	1	f a s t - - -
 017/109	fast	1	f a s t - - -
 017/145	fest	1	f e s t - - -
-017/147		binao	5	b i n ao - - -
+017/147	binao	5	b i n ao - - -
 017/149	fast	1	f a s t - - -
 017/151	bull	NA	b u ll - - - -
 017/153	fast	1	f a s t - - -
@@ -377,7 +377,7 @@
 019/155	fast	1	f a s t - - -
 019/157	fast	1	f a s t - - -
 019/159	fast	1	f a s t - - -
-019/161		binoh	5	b i n oh - - -
+019/161	binoh	5	b i n oh - - -
 019/163	fast	1	f a s t - - -
 019/165	fast	1	f a s t - - -
 019/167	fast	1	f a s t - - -
@@ -491,7 +491,7 @@
 021/091	fast	1	f a s t - - -
 021/093	fast	1	f a s t - - -
 021/095	fast	1	f a s t - - -
-021/097		bienah	5	b ie n ah - - -
+021/097	bienah	5	b ie n ah - - -
 021/099	fast	1	f a s t - - -
 021/101	fast	1	f a s t - - -
 021/103	fast	1	f a s t - - -
@@ -730,7 +730,7 @@
 024/143	fast	1	f a s t - - -
 024/145	fast	1	f a s t - - -
 024/147	fast	1	f a s t - - -
-024/149	sic	her	4	s i ch e r - -
+024/149	sicher	4	s i ch e r - -
 024/151	fest	1	f e s t - - -
 024/153	fast	1	f a s t - - -
 024/155	fast	1	f a s t - - -
@@ -777,7 +777,7 @@
 025/087	fast	1	f a s t - - -
 025/089	fast	1	f a s t - - -
 025/091	fast	1	f a s t - - -
-025/093		bin	5	b i n - - - -
+025/093	bin	5	b i n - - - -
 025/095	fast	1	f a s t - - -
 025/099	fast	1	f a s t - - -
 025/101	fast	1	f a s t - - -
@@ -833,7 +833,7 @@
 026/069	fast	1	f a s t - - -
 026/071	fast	1	f a s t - - -
 026/073	fass	1	f a ss - - - -
-026/075		bienah	5	b ie n ah - - -
+026/075	bienah	5	b ie n ah - - -
 026/077	fast	1	f a s t - - -
 026/079	fast	1	f a s t - - -
 026/081	fast	1	f a s t - - -
@@ -908,8 +908,8 @@
 027/077	fast	1	f a s t - - -
 027/079	fast	1	f a s t - - -
 027/081	fast	1	f a s t - - -
-027/083		binah	5	b i n ah - - -
-027/085		binah	5	b i n ah - - -
+027/083	binah	5	b i n ah - - -
+027/085	binah	5	b i n ah - - -
 027/087	fast	1	f a s t - - -
 027/089	fast	1	f a s t - - -
 027/091	fast	1	f a s t - - -
@@ -919,7 +919,7 @@
 027/101	fast	1	f a s t - - -
 027/103	fast	1	f a s t - - -
 027/105	fast	1	f a s t - - -
-027/107		binoah	5	b i n oah - - -
+027/107	binoah	5	b i n oah - - -
 027/109	fast	1	f a s t - - -
 027/111	fast	1	f a s t - - -
 027/113	fast	1	f a s t - - -
@@ -1737,7 +1737,7 @@
 039/091	fast	1	f a s t - - -
 039/093	fest	1	f e s t - - -
 039/095	fest	1	f e s t - - -
-039/097		binah	5	b i n ah - - -
+039/097	binah	5	b i n ah - - -
 039/099	fest	1	f e s t - - -
 039/101	fest	1	f e s t - - -
 039/103	fest	1	f e s t - - -
@@ -1782,7 +1782,7 @@
 040/061	fast	1	f a s t - - -
 040/063	fast	1	f a s t - - -
 040/065	fast	1	f a s t - - -
-040/067		benah	5	b e n ah - - -
+040/067	benah	5	b e n ah - - -
 040/069	fest	1	f e s t - - -
 040/071	fest	1	f e s t - - -
 040/073	fest	1	f e s t - - -
@@ -2430,7 +2430,7 @@
 050/147	fest	1	f e s t - - -
 050/149	fest	1	f e s t - - -
 050/151	fest	1	f e s t - - -
-050/155	sc	hau	4	sch au - - - - -
+050/155	schau	4	sch au - - - - -
 050/157	fast	1	f a s t - - -
 050/159	fest	1	f e s t - - -
 050/161	fest	1	f e s t - - -
@@ -2525,7 +2525,7 @@
 052/065	fest	1	f e s t - - -
 052/067	fest	1	f e s t - - -
 052/069	fest	1	f e s t - - -
-052/071		harrt	4	- - - h a rr t
+052/071	harrt	4	- - - h a rr t
 052/073	fest	1	f e s t - - -
 052/075	fest	1	f e s t - - -
 052/077	fest	1	f e s t - - -
@@ -3347,7 +3347,7 @@
 064/027	fass	1	f a ss - - - -
 064/029	fest	1	f e s t - - -
 064/031	fass	1	f a ss - - - -
-064/033		hart	4	- - - h a r t
+064/033	hart	4	- - - h a r t
 064/035	fass	1	f a ss - - - -
 064/037	fäst	1	f ä s t - - -
 064/039	fäst	1	f ä s t - - -
@@ -4052,7 +4052,7 @@
 076/039	fescht	1	f e sch t - - -
 076/041	fescht	1	f e sch t - - -
 076/043	fescht	1	f e sch t - - -
-076/045		hart	4	- - - h a r t
+076/045	hart	4	- - - h a r t
 076/047	fescht	1	f e sch t - - -
 076/049	feschd	1	f e sch d - - -
 076/051	NA	NA	- - - - - - -
@@ -4136,7 +4136,7 @@
 077/137	fest	1	f e s t - - -
 078/021	ferm	2	f e r - m - -
 078/023	NA	NA	- - - - - - -
-078/025		hart	4	- - - h a r t
+078/025	hart	4	- - - h a r t
 078/027	fescht	1	f e sch t - - -
 078/029	fescht	1	f e sch t - - -
 078/031	fescht	1	f e sch t - - -
@@ -4275,7 +4275,7 @@
 080/153	NA	NA	- - - - - - -
 080/193	fast	1	f a s t - - -
 080/195	NA	NA	- - - - - - -
-081/025		hart	4	- - - h a r t
+081/025	hart	4	- - - h a r t
 081/027	fesch	1	f e sch - - - -
 081/029	fescht	1	f e sch t - - -
 081/031	feschd	1	f e sch d - - -
@@ -4561,7 +4561,7 @@
 086/037	fescht	1	f e sch t - - -
 086/039	fescht	1	f e sch t - - -
 086/041	fescht	1	f e sch t - - -
-086/043		härt	4	- - - h ä r t
+086/043	härt	4	- - - h ä r t
 086/045	fescht	1	f e sch t - - -
 086/047	fescht	1	f e sch t - - -
 086/049	fescht	1	f e sch t - - -
@@ -4619,7 +4619,7 @@
 086/175	NA	NA	- - - - - - -
 086/197	fest	1	f e s t - - -
 086/199	fest	1	f e s t - - -
-087/033		hert	4	- - - h e r t
+087/033	hert	4	- - - h e r t
 087/035	fest	1	f e s t - - -
 087/037	NA	NA	- - - - - - -
 087/039	NA	NA	- - - - - - -
@@ -4849,7 +4849,7 @@
 091/035	fescht	1	f e sch t - - -
 091/037	fescht	1	f e sch t - - -
 091/039	feschd	1	f e sch d - - -
-091/041		hert	4	- - - h e r t
+091/041	hert	4	- - - h e r t
 091/043	fest	1	f e s t - - -
 091/045	fescht	1	f e sch t - - -
 091/047	feschd	1	f e sch d - - -
@@ -5057,7 +5057,7 @@
 094/099	fesd	1	f e s d - - -
 094/101	fest	1	f e s t - - -
 094/103	föst	1	f ö s t - - -
-094/105		bitta	5	b i tt a - - -
+094/105	bitta	5	b i tt a - - -
 094/107	fost	1	f o s t - - -
 094/109	föst	1	f ö s t - - -
 094/111	fest	1	f e s t - - -
@@ -5429,7 +5429,7 @@
 101/129	fest	1	f e s t - - -
 101/131	fest	1	f e s t - - -
 101/133	guat	3	g ua t - - - -
-101/137		beist	5	b ei s t - - -
+101/137	beist	5	b ei s t - - -
 101/139	fest	1	f e s t - - -
 101/141	fest	1	f e s t - - -
 101/143	fest	1	f e s t - - -
@@ -5574,7 +5574,7 @@
 105/039	fescht	1	f e sch t - - -
 105/041	fescht	1	f e sch t - - -
 105/043	NA	NA	- - - - - - -
-105/045		hert	4	- - - h e r t
+105/045	hert	4	- - - h e r t
 105/047	feschd	1	f e sch d - - -
 105/049	fescht	1	f e sch t - - -
 105/051	fescht	1	f e sch t - - -
@@ -5623,7 +5623,7 @@
 106/047	fescht	1	f e sch t - - -
 106/049	fescht	1	f e sch t - - -
 106/051	fescht	1	f e sch t - - -
-106/053	c	häch	4	ch ä ch - - - -
+106/053	chäch	4	ch ä ch - - - -
 106/057	fescht	1	f e sch t - - -
 106/061	fescht	1	f e sch t - - -
 106/063	fescht	1	f e sch t - - -
@@ -5645,7 +5645,7 @@
 106/121	fest	1	f e s t - - -
 106/123	fejst	1	f ej s t - - -
 106/125	guat	3	g ua t - - - -
-106/129		hauts	4	- - - h au - ts
+106/129	hauts	4	- - - h au - ts
 106/131	fest	1	f e s t - - -
 106/133	feist	1	f ei s t - - -
 106/135	NA	NA	- - - - - - -
@@ -5662,11 +5662,11 @@
 107/043	fescht	1	f e sch t - - -
 107/045	fescht	1	f e sch t - - -
 107/047	fest	1	f e s t - - -
-107/049		hert	4	- - - h e r t
+107/049	hert	4	- - - h e r t
 107/051	fest	1	f e s t - - -
 107/053	NA	NA	- - - - - - -
-107/057		hert	4	- - - h e r t
-107/059	stei	härt	4	s t ei h ä r t
+107/057	hert	4	- - - h e r t
+107/059	steihärt	4	s t ei h ä r t
 107/063	fescht	1	f e sch t - - -
 107/065	fescht	1	f e sch t - - -
 107/071	föscht	1	f ö sch t - - -
@@ -5695,7 +5695,7 @@
 107/139	fest	1	f e s t - - -
 107/141	fehist	1	f ehi s t - - -
 107/143	NA	NA	- - - - - - -
-108/033		hert	4	- - - h e r t
+108/033	hert	4	- - - h e r t
 108/035	fescht	1	f e sch t - - -
 108/037	fescht	1	f e sch t - - -
 108/039	fescht	1	f e sch t - - -
@@ -5737,8 +5737,8 @@
 109/039	NA	NA	- - - - - - -
 109/041	fescht	1	f e sch t - - -
 109/043	fescht	1	f e sch t - - -
-109/045	schtei	hert	4	sch t ei h e r t
-109/049		hert	4	- - - h e r t
+109/045	schteihert	4	sch t ei h e r t
+109/049	hert	4	- - - h e r t
 109/053	fescht	1	f e sch t - - -
 109/061	fescht	1	f e sch t - - -
 109/063	fescht	1	f e sch t - - -
@@ -5814,7 +5814,7 @@
 111/037	fescht	1	f e sch t - - -
 111/039	fescht	1	f e sch t - - -
 111/041	fescht	1	f e sch t - - -
-111/043		hert	4	- - - h e r t
+111/043	hert	4	- - - h e r t
 111/045	fescht	1	f e sch t - - -
 111/059	fescht	1	f e sch t - - -
 111/073	fescht	1	f e sch t - - -
@@ -5842,7 +5842,7 @@
 112/043	NA	NA	- - - - - - -
 112/047	fescht	1	f e sch t - - -
 112/059	fescht	1	f e sch t - - -
-112/061	stei	hert	4	s t ei h e r t
+112/061	steihert	4	s t ei h e r t
 112/063	NA	NA	- - - - - - -
 112/075	NA	NA	- - - - - - -
 112/081	fescht	1	f e sch t - - -

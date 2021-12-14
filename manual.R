@@ -10,7 +10,7 @@ writeFile(39)
 source("scripts/mapWenker.R")
 load("data/KDSAvoronoiSP.Rdata")
 
-(MAP <- mapFromIndex(169))
+(MAP <- mapFromIndex(226))
 
 # show in browser
 
@@ -25,7 +25,7 @@ htmlwidgets::saveWidget(MAP, file = "sandbox/title.html")
 source("scripts/mapWenker.R")
 
 dir <- "alignments"
-v <- allAlign(dir)
+v <- allAlign(dir, kind = "")
 center <- v$center
 v <- v$align
 
@@ -52,14 +52,15 @@ limage(v
        , plot = F
        ) -> reorder
 
-limage(v2[reorder$rows,reorder$cols]
-       , col = h
-       , col.na = "white"
+limage(v[reorder$rows,reorder$cols]
+       , col = rainbow(15)
+       , col.na = NA
        , labels.x = F
        , cex.axis = .5
-       , legend = 20
+       , legend = 15
        , cex.legend = 0.7
        , pch.na = NULL
+       , asp = (nrow(v)/ncol(v))/3
        )
 
 
