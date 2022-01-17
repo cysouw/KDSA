@@ -1,0 +1,5893 @@
+﻿locations	strings	cognateID	alignments
+001/203	baw	1	b a w -
+002/201	boaw	1	b oa w -
+002/203	boaw	1	b oa w -
+002/205	bow	1	b o w -
+003/203	boaw	1	b oa w -
+003/205	baw	1	b a w -
+004/205	bow	1	b o w -
+005/205	boaw	1	b oa w -
+005/207	baw	1	b a w -
+006/205	bahw	1	b ah w -
+006/207	boaw	1	b oa w -
+007/205	boaw	1	b oa w -
+007/207	baw	1	b a w -
+007/209	baw	1	b a w -
+007/211	baw	1	b a w -
+008/199	NA	NA	- - - - -
+008/203	baw	1	b a w -
+008/205	baw	1	b a w -
+008/207	bow	1	b o w -
+008/209	baw	1	b a w -
+008/211	buaw	1	b ua w -
+008/213	boaw	1	b oa w -
+009/199	NA	NA	- - - - -
+009/203	baw	1	b a w -
+009/207	boaw	1	b oa w -
+009/209	baw	1	b a w -
+009/211	baaw	1	b aa w -
+009/213	boaw	1	b oa w -
+009/215	baw	1	b a w -
+009/217	NA	NA	- - - - -
+010/195	bow	1	b o w -
+010/203	baw	1	b a w -
+010/207	boaw	1	b oa w -
+010/209	boaw	1	b oa w -
+010/211	bahw	1	b ah w -
+010/213	baw	1	b a w -
+010/215	baw	1	b a w -
+010/217	boaw	1	b oa w -
+010/219	boaw	1	b oa w -
+011/049	boh	1	b oh - -
+011/053	aa	1	- aa - -
+011/055	o	1	- o - -
+011/057	aa	1	- aa - -
+011/059	ow	1	- o w -
+011/061	ov	1	- o v -
+011/063	ov	1	- o v -
+011/065	NA	NA	- - - - -
+011/067	NA	NA	- - - - -
+011/069	ov	1	- o v -
+011/187	obb	1	- o bb -
+011/189	bow	1	b o w -
+011/191	boaw	1	b oa w -
+011/195	boaw	1	b oa w -
+011/197	boaw	1	b oa w -
+011/203	baw	1	b a w -
+011/205	boaw	1	b oa w -
+011/207	boaw	1	b oa w -
+011/209	baaw	1	b aa w -
+011/211	bow	1	b o w -
+011/213	bow	1	b o w -
+011/215	NA	NA	- - - - -
+011/217	baw	1	b a w -
+011/219	boaw	1	b oa w -
+012/047	boow	1	b oo w -
+012/049	baaw	1	b aa w -
+012/051	baw	1	b a w -
+012/053	au	1	- au - -
+012/055	aa	1	- aa - -
+012/057	ow	1	- o w -
+012/059	aa	1	- aa - -
+012/061	ov	1	- o v -
+012/063	NA	NA	- - - - -
+012/065	NA	NA	- - - - -
+012/067	NA	NA	- - - - -
+012/069	NA	NA	- - - - -
+012/187	bow	1	b o w -
+012/189	bow	1	b o w -
+012/191	boaw	1	b oa w -
+012/193	NA	NA	- - - - -
+012/195	boaw	1	b oa w -
+012/197	NA	NA	- - - - -
+012/199	boaw	1	b oa w -
+012/201	baw	1	b a w -
+012/203	boaw	1	b oa w -
+012/205	bow	1	b o w -
+012/207	boaw	1	b oa w -
+012/209	boaw	1	b oa w -
+012/211	boaw	1	b oa w -
+012/213	boaw	1	b oa w -
+012/215	baaw	1	b aa w -
+012/217	baw	1	b a w -
+012/219	bohw	1	b oh w -
+012/221	baw	1	b a w -
+012/223	NA	NA	- - - - -
+013/051	bog	1	b o g -
+013/053	aw	1	- a w -
+013/055	baw	1	b a w -
+013/057	ov	1	- o v -
+013/059	au	1	- au - -
+013/061	baam	1	b aa m -
+013/063	baam	1	b aa m -
+013/065	bahm	1	b ah m -
+013/067	NA	NA	- - - - -
+013/161	bow	1	b o w -
+013/163	bow	1	b o w -
+013/165	bow	1	b o w -
+013/167	bow	1	b o w -
+013/187	boaw	1	b oa w -
+013/189	bow	1	b o w -
+013/191	bow	1	b o w -
+013/193	bahw	1	b ah w -
+013/195	baaw	1	b aa w -
+013/197	boaw	1	b oa w -
+013/199	boaw	1	b oa w -
+013/201	baow	1	b ao w -
+013/203	baw	1	b a w -
+013/207	baaw	1	b aa w -
+013/209	boaw	1	b oa w -
+013/211	boaw	1	b oa w -
+013/213	boaw	1	b oa w -
+013/215	bow	1	b o w -
+013/217	baw	1	b a w -
+013/219	boaw	1	b oa w -
+013/221	baw	1	b a w -
+013/223	baw	1	b a w -
+014/047	NA	NA	- - - - -
+014/049	bow	1	b o w -
+014/051	bow	1	b o w -
+014/053	baw	1	b a w -
+014/055	NA	NA	- - - - -
+014/057	NA	NA	- - - - -
+014/059	boam	1	b oa m -
+014/061	bahm	1	b ah m -
+014/063	NA	NA	- - - - -
+014/065	bab	1	b a b -
+014/067	baam	1	b aa m -
+014/109	bab	1	b a b -
+014/159	bow	1	b o w -
+014/161	bov	1	b o v -
+014/163	bow	1	b o w -
+014/165	bov	1	b o v -
+014/167	bow	1	b o w -
+014/169	bow	1	b o w -
+014/187	bav	1	b a v -
+014/189	boaw	1	b oa w -
+014/191	bow	1	b o w -
+014/193	boaw	1	b oa w -
+014/195	baw	1	b a w -
+014/197	boaw	1	b oa w -
+014/199	NA	NA	- - - - -
+014/201	boaw	1	b oa w -
+014/203	NA	NA	- - - - -
+014/205	baw	1	b a w -
+014/207	baw	1	b a w -
+014/209	boaw	1	b oa w -
+014/211	boaw	1	b oa w -
+014/213	baw	1	b a w -
+014/215	boaw	1	b oa w -
+014/217	boaw	1	b oa w -
+014/219	baow	1	b ao w -
+014/221	boaw	1	b oa w -
+015/049	NA	NA	- - - - -
+015/051	NA	NA	- - - - -
+015/053	NA	NA	- - - - -
+015/055	bab	1	b a b -
+015/057	NA	NA	- - - - -
+015/059	bab	1	b a b -
+015/061	bahm	1	b ah m -
+015/063	NA	NA	- - - - -
+015/065	baab	1	b aa b -
+015/067	baab	1	b aa b -
+015/105	NA	NA	- - - - -
+015/107	NA	NA	- - - - -
+015/109	NA	NA	- - - - -
+015/151	boaw	1	b oa w -
+015/153	boaw	1	b oa w -
+015/155	baw	1	b a w -
+015/157	bow	1	b o w -
+015/159	bow	1	b o w -
+015/161	bow	1	b o w -
+015/163	baw	1	b a w -
+015/165	bow	1	b o w -
+015/167	bow	1	b o w -
+015/169	bow	1	b o w -
+015/173	boaw	1	b oa w -
+015/187	bahw	1	b ah w -
+015/191	boav	1	b oa v -
+015/193	boaw	1	b oa w -
+015/195	NA	NA	- - - - -
+015/197	NA	NA	- - - - -
+015/199	boaw	1	b oa w -
+015/201	bow	1	b o w -
+015/203	bow	1	b o w -
+015/205	baw	1	b a w -
+015/207	boaw	1	b oa w -
+015/209	boaw	1	b oa w -
+015/211	boaw	1	b oa w -
+015/213	baw	1	b a w -
+015/215	NA	NA	- - - - -
+015/217	boaw	1	b oa w -
+015/219	boaw	1	b oa w -
+015/221	boaw	1	b oa w -
+016/051	bo	1	b o - -
+016/055	bab	1	b a b -
+016/057	bam	1	b a m -
+016/059	bahm	1	b ah m -
+016/061	bahm	1	b ah m -
+016/063	baam	1	b aa m -
+016/065	bam	1	b a m -
+016/067	bab	1	b a b -
+016/081	bam	1	b a m -
+016/083	baab	1	b aa b -
+016/105	boab	1	b oa b -
+016/107	bab	1	b a b -
+016/109	bab	1	b a b -
+016/111	baw	1	b a w -
+016/145	bov	1	b o v -
+016/147	baw	1	b a w -
+016/149	boaw	1	b oa w -
+016/151	baow	1	b ao w -
+016/153	bav	1	b a v -
+016/155	bow	1	b o w -
+016/157	bow	1	b o w -
+016/159	baow	1	b ao w -
+016/161	baow	1	b ao w -
+016/163	boaw	1	b oa w -
+016/165	bow	1	b o w -
+016/167	bow	1	b o w -
+016/187	bow	1	b o w -
+016/189	boaw	1	b oa w -
+016/191	bow	1	b o w -
+016/193	boaw	1	b oa w -
+016/195	bow	1	b o w -
+016/197	boaw	1	b oa w -
+016/199	baw	1	b a w -
+016/201	bow	1	b o w -
+016/203	baw	1	b a w -
+016/205	boaw	1	b oa w -
+016/209	baow	1	b ao w -
+016/211	boaw	1	b oa w -
+016/213	boaw	1	b oa w -
+016/215	boaw	1	b oa w -
+016/217	boow	1	b oo w -
+016/219	boaw	1	b oa w -
+017/055	bab	1	b a b -
+017/057	bam	1	b a m -
+017/059	bab	1	b a b -
+017/061	bahm	1	b ah m -
+017/063	bahm	1	b ah m -
+017/065	NA	NA	- - - - -
+017/067	bahm	1	b ah m -
+017/069	NA	NA	- - - - -
+017/081	bahm	1	b ah m -
+017/083	bab	1	b a b -
+017/099	bab	1	b a b -
+017/101	bab	1	b a b -
+017/103	bab	1	b a b -
+017/107	NA	NA	- - - - -
+017/109	bab	1	b a b -
+017/145	bov	1	b o v -
+017/147	baow	1	b ao w -
+017/149	bow	1	b o w -
+017/151	baw	1	b a w -
+017/153	bow	1	b o w -
+017/155	boaw	1	b oa w -
+017/157	boaw	1	b oa w -
+017/159	bow	1	b o w -
+017/161	baw	1	b a w -
+017/163	bow	1	b o w -
+017/165	bow	1	b o w -
+017/169	bow	1	b o w -
+017/171	NA	NA	- - - - -
+017/183	bow	1	b o w -
+017/185	bow	1	b o w -
+017/187	boaw	1	b oa w -
+017/189	boow	1	b oo w -
+017/191	bow	1	b o w -
+017/193	NA	NA	- - - - -
+017/195	baw	1	b a w -
+017/197	boaw	1	b oa w -
+017/199	bow	1	b o w -
+017/201	bow	1	b o w -
+017/203	bow	1	b o w -
+017/205	boaw	1	b oa w -
+017/207	boaw	1	b oa w -
+017/209	bow	1	b o w -
+017/211	boaw	1	b oa w -
+017/213	boaw	1	b oa w -
+017/215	bow	1	b o w -
+017/217	baw	1	b a w -
+017/219	baw	1	b a w -
+018/051	NA	NA	- - - - -
+018/053	baam	1	b aa m -
+018/055	baam	1	b aa m -
+018/057	baab	1	b aa b -
+018/059	NA	NA	- - - - -
+018/061	baam	1	b aa m -
+018/063	bam	1	b a m -
+018/065	bam	1	b a m -
+018/067	baohm	1	b aoh m -
+018/069	bom	1	b o m -
+018/071	bab	1	b a b -
+018/073	bab	1	b a b -
+018/075	baam	1	b aa m -
+018/079	bom	1	b o m -
+018/081	baam	1	b aa m -
+018/097	bab	1	b a b -
+018/099	bab	1	b a b -
+018/103	NA	NA	- - - - -
+018/105	NA	NA	- - - - -
+018/107	bab	1	b a b -
+018/109	bab	1	b a b -
+018/111	bab	1	b a b -
+018/143	baaw	1	b aa w -
+018/145	bow	1	b o w -
+018/147	boaw	1	b oa w -
+018/149	bow	1	b o w -
+018/151	bow	1	b o w -
+018/153	baw	1	b a w -
+018/155	bav	1	b a v -
+018/157	boaw	1	b oa w -
+018/159	bow	1	b o w -
+018/161	boaw	1	b oa w -
+018/163	bow	1	b o w -
+018/165	bow	1	b o w -
+018/169	bow	1	b o w -
+018/171	baw	1	b a w -
+018/173	baw	1	b a w -
+018/181	baw	1	b a w -
+018/185	bow	1	b o w -
+018/187	NA	NA	- - - - -
+018/189	bow	1	b o w -
+018/191	boaw	1	b oa w -
+018/193	baw	1	b a w -
+018/195	bow	1	b o w -
+018/197	bow	1	b o w -
+018/199	baw	1	b a w -
+018/201	baw	1	b a w -
+018/203	bow	1	b o w -
+018/205	bow	1	b o w -
+018/207	bow	1	b o w -
+018/209	bow	1	b o w -
+018/211	baw	1	b a w -
+018/213	boaw	1	b oa w -
+018/215	baow	1	b ao w -
+018/219	boaw	1	b oa w -
+019/051	NA	NA	- - - - -
+019/053	bab	1	b a b -
+019/055	bab	1	b a b -
+019/057	NA	NA	- - - - -
+019/059	NA	NA	- - - - -
+019/061	bahm	1	b ah m -
+019/063	bab	1	b a b -
+019/065	boab	1	b oa b -
+019/067	bab	1	b a b -
+019/069	bab	1	b a b -
+019/071	bab	1	b a b -
+019/073	bahm	1	b ah m -
+019/075	baam	1	b aa m -
+019/077	bab	1	b a b -
+019/079	baab	1	b aa b -
+019/081	baab	1	b aa b -
+019/097	bab	1	b a b -
+019/099	bab	1	b a b -
+019/101	bam	1	b a m -
+019/103	bab	1	b a b -
+019/105	bab	1	b a b -
+019/107	bab	1	b a b -
+019/109	NA	NA	- - - - -
+019/143	boav	1	b oa v -
+019/145	boaw	1	b oa w -
+019/147	bov	1	b o v -
+019/149	bow	1	b o w -
+019/151	bow	1	b o w -
+019/153	baw	1	b a w -
+019/155	bow	1	b o w -
+019/157	baw	1	b a w -
+019/159	baw	1	b a w -
+019/161	bow	1	b o w -
+019/163	bow	1	b o w -
+019/165	NA	NA	- - - - -
+019/167	bov	1	b o v -
+019/169	bow	1	b o w -
+019/171	boaw	1	b oa w -
+019/173	bow	1	b o w -
+019/175	boaw	1	b oa w -
+019/177	bow	1	b o w -
+019/179	boaw	1	b oa w -
+019/181	boaw	1	b oa w -
+019/183	baw	1	b a w -
+019/185	NA	NA	- - - - -
+019/187	bow	1	b o w -
+019/189	bow	1	b o w -
+019/191	bow	1	b o w -
+019/193	boaw	1	b oa w -
+019/195	boah	1	b oah - -
+019/197	bow	1	b o w -
+019/199	bow	1	b o w -
+019/201	bow	1	b o w -
+019/203	baw	1	b a w -
+019/205	NA	NA	- - - - -
+019/207	boaw	1	b oa w -
+019/209	boaw	1	b oa w -
+019/211	boaw	1	b oa w -
+019/213	baw	1	b a w -
+019/215	bäw	1	b ä w -
+019/217	boaw	1	b oa w -
+019/219	baw	1	b a w -
+020/043	bopp	1	b o pp -
+020/053	bab	1	b a b -
+020/055	bab	1	b a b -
+020/057	bab	1	b a b -
+020/059	bab	1	b a b -
+020/061	NA	NA	- - - - -
+020/063	bohm	1	b oh m -
+020/065	bahm	1	b ah m -
+020/067	bab	1	b a b -
+020/069	bam	1	b a m -
+020/071	bom	1	b o m -
+020/073	bab	1	b a b -
+020/075	baam	1	b aa m -
+020/077	NA	NA	- - - - -
+020/079	NA	NA	- - - - -
+020/081	bab	1	b a b -
+020/095	bab	1	b a b -
+020/097	bab	1	b a b -
+020/099	bab	1	b a b -
+020/101	baob	1	b ao b -
+020/103	bab	1	b a b -
+020/105	bab	1	b a b -
+020/107	bab	1	b a b -
+020/135	ob	1	- o b -
+020/137	boaw	1	b oa w -
+020/139	bow	1	b o w -
+020/141	bow	1	b o w -
+020/143	boaw	1	b oa w -
+020/145	bow	1	b o w -
+020/147	baow	1	b ao w -
+020/149	boavv	1	b oa vv -
+020/151	bow	1	b o w -
+020/153	boaw	1	b oa w -
+020/155	boaw	1	b oa w -
+020/157	bow	1	b o w -
+020/159	bouw	1	b ou w -
+020/161	NA	NA	- - - - -
+020/163	bow	1	b o w -
+020/165	bow	1	b o w -
+020/167	bow	1	b o w -
+020/169	baw	1	b a w -
+020/171	bow	1	b o w -
+020/173	boaw	1	b oa w -
+020/175	bow	1	b o w -
+020/177	bow	1	b o w -
+020/179	boaw	1	b oa w -
+020/181	boaw	1	b oa w -
+020/183	bow	1	b o w -
+020/185	bow	1	b o w -
+020/187	bow	1	b o w -
+020/189	bow	1	b o w -
+020/191	bow	1	b o w -
+020/193	NA	NA	- - - - -
+020/195	baw	1	b a w -
+020/197	bow	1	b o w -
+020/199	bow	1	b o w -
+020/201	bow	1	b o w -
+020/203	boaf	1	b oa f -
+020/205	baw	1	b a w -
+020/207	boaw	1	b oa w -
+020/209	bow	1	b o w -
+020/211	bow	1	b o w -
+020/213	bow	1	b o w -
+020/215	baw	1	b a w -
+020/217	boaw	1	b oa w -
+020/219	boaw	1	b oa w -
+021/055	bab	1	b a b -
+021/057	NA	NA	- - - - -
+021/059	bam	1	b a m -
+021/061	NA	NA	- - - - -
+021/063	NA	NA	- - - - -
+021/065	NA	NA	- - - - -
+021/067	NA	NA	- - - - -
+021/069	bab	1	b a b -
+021/071	bab	1	b a b -
+021/073	NA	NA	- - - - -
+021/075	bab	1	b a b -
+021/077	bab	1	b a b -
+021/079	NA	NA	- - - - -
+021/087	NA	NA	- - - - -
+021/089	NA	NA	- - - - -
+021/091	bab	1	b a b -
+021/093	NA	NA	- - - - -
+021/095	NA	NA	- - - - -
+021/097	NA	NA	- - - - -
+021/099	bab	1	b a b -
+021/101	bab	1	b a b -
+021/103	bab	1	b a b -
+021/105	bab	1	b a b -
+021/107	bab	1	b a b -
+021/109	bahm	1	b ah m -
+021/111	bahm	1	b ah m -
+021/113	NA	NA	- - - - -
+021/131	NA	NA	- - - - -
+021/133	bauw	1	b au w -
+021/135	boaw	1	b oa w -
+021/137	boaw	1	b oa w -
+021/139	boaw	1	b oa w -
+021/141	boaw	1	b oa w -
+021/143	baow	1	b ao w -
+021/145	baow	1	b ao w -
+021/147	baw	1	b a w -
+021/149	boaw	1	b oa w -
+021/151	boaw	1	b oa w -
+021/153	bow	1	b o w -
+021/155	bav	1	b a v -
+021/157	bow	1	b o w -
+021/159	NA	NA	- - - - -
+021/163	NA	NA	- - - - -
+021/165	bow	1	b o w -
+021/167	bow	1	b o w -
+021/169	bow	1	b o w -
+021/171	bov	1	b o v -
+021/173	bow	1	b o w -
+021/175	bow	1	b o w -
+021/177	boaw	1	b oa w -
+021/179	bow	1	b o w -
+021/181	boaw	1	b oa w -
+021/183	bouw	1	b ou w -
+021/185	ob	1	- o b -
+021/187	ob	1	- o b -
+021/189	ob	1	- o b -
+021/191	bow	1	b o w -
+021/193	bow	1	b o w -
+021/195	ob	1	- o b -
+021/197	bow	1	b o w -
+021/199	bow	1	b o w -
+021/201	bauw	1	b au w -
+021/203	boaw	1	b oa w -
+021/205	boaw	1	b oa w -
+021/207	bow	1	b o w -
+021/211	bow	1	b o w -
+021/215	boaw	1	b oa w -
+021/217	baw	1	b a w -
+021/219	boaw	1	b oa w -
+022/055	bab	1	b a b -
+022/057	NA	NA	- - - - -
+022/059	bab	1	b a b -
+022/061	bahmb	1	b ah mb -
+022/063	bahm	1	b ah m -
+022/065	NA	NA	- - - - -
+022/067	bab	1	b a b -
+022/069	bob	1	b o b -
+022/071	bab	1	b a b -
+022/073	bab	1	b a b -
+022/075	bab	1	b a b -
+022/077	bab	1	b a b -
+022/087	bab	1	b a b -
+022/089	bab	1	b a b -
+022/091	bab	1	b a b -
+022/093	bab	1	b a b -
+022/095	bab	1	b a b -
+022/097	bab	1	b a b -
+022/099	bab	1	b a b -
+022/101	bab	1	b a b -
+022/103	bab	1	b a b -
+022/105	baw	1	b a w -
+022/107	bab	1	b a b -
+022/109	NA	NA	- - - - -
+022/111	bab	1	b a b -
+022/113	NA	NA	- - - - -
+022/115	bab	1	b a b -
+022/127	bauw	1	b au w -
+022/129	baw	1	b a w -
+022/131	bauw	1	b au w -
+022/133	bauw	1	b au w -
+022/135	bauw	1	b au w -
+022/137	bow	1	b o w -
+022/139	bow	1	b o w -
+022/141	baw	1	b a w -
+022/143	bow	1	b o w -
+022/145	boaw	1	b oa w -
+022/147	NA	NA	- - - - -
+022/149	boaw	1	b oa w -
+022/151	bow	1	b o w -
+022/153	boav	1	b oa v -
+022/155	boaw	1	b oa w -
+022/157	baow	1	b ao w -
+022/159	bow	1	b o w -
+022/165	bow	1	b o w -
+022/167	bow	1	b o w -
+022/169	bow	1	b o w -
+022/171	bow	1	b o w -
+022/173	bow	1	b o w -
+022/175	bow	1	b o w -
+022/177	baaw	1	b aa w -
+022/179	boaw	1	b oa w -
+022/181	boaw	1	b oa w -
+022/183	ob	1	- o b -
+022/185	NA	NA	- - - - -
+022/187	ob	1	- o b -
+022/189	ob	1	- o b -
+022/191	bow	1	b o w -
+022/193	bow	1	b o w -
+022/195	bow	1	b o w -
+022/197	bow	1	b o w -
+022/199	bow	1	b o w -
+022/201	NA	NA	- - - - -
+022/203	bow	1	b o w -
+022/205	bow	1	b o w -
+022/209	NA	NA	- - - - -
+022/211	bow	1	b o w -
+022/215	baw	1	b a w -
+022/217	NA	NA	- - - - -
+022/219	baw	1	b a w -
+023/055	bab	1	b a b -
+023/059	bob	1	b o b -
+023/061	bab	1	b a b -
+023/063	bab	1	b a b -
+023/065	NA	NA	- - - - -
+023/067	bab	1	b a b -
+023/069	bab	1	b a b -
+023/071	bob	1	b o b -
+023/073	bab	1	b a b -
+023/075	bab	1	b a b -
+023/077	bab	1	b a b -
+023/079	bab	1	b a b -
+023/081	bab	1	b a b -
+023/083	bab	1	b a b -
+023/085	NA	NA	- - - - -
+023/087	bab	1	b a b -
+023/089	bab	1	b a b -
+023/091	NA	NA	- - - - -
+023/093	bab	1	b a b -
+023/095	NA	NA	- - - - -
+023/097	NA	NA	- - - - -
+023/099	NA	NA	- - - - -
+023/101	bab	1	b a b -
+023/103	bab	1	b a b -
+023/105	bab	1	b a b -
+023/107	bam	1	b a m -
+023/109	boab	1	b oa b -
+023/111	bab	1	b a b -
+023/113	NA	NA	- - - - -
+023/115	NA	NA	- - - - -
+023/117	bob	1	b o b -
+023/121	boam	1	b oa m -
+023/123	NA	NA	- - - - -
+023/125	bow	1	b o w -
+023/127	boaw	1	b oa w -
+023/129	bauw	1	b au w -
+023/131	bow	1	b o w -
+023/133	bauw	1	b au w -
+023/135	boaw	1	b oa w -
+023/137	boaw	1	b oa w -
+023/139	boaw	1	b oa w -
+023/141	bav	1	b a v -
+023/143	bouw	1	b ou w -
+023/145	bov	1	b o v -
+023/147	bow	1	b o w -
+023/149	boaf	1	b oa f -
+023/151	boaw	1	b oa w -
+023/153	bow	1	b o w -
+023/155	bauw	1	b au w -
+023/165	baow	1	b ao w -
+023/167	bow	1	b o w -
+023/169	bow	1	b o w -
+023/175	bow	1	b o w -
+023/177	NA	NA	- - - - -
+023/179	ob	1	- o b -
+023/181	ob	1	- o b -
+023/183	ob	1	- o b -
+023/185	ob	1	- o b -
+023/187	ob	1	- o b -
+023/189	ob	1	- o b -
+023/191	bow	1	b o w -
+023/193	ob	1	- o b -
+023/195	bow	1	b o w -
+023/197	bow	1	b o w -
+023/199	bow	1	b o w -
+023/201	bow	1	b o w -
+023/203	bow	1	b o w -
+023/205	baw	1	b a w -
+023/207	bohw	1	b oh w -
+023/215	bow	1	b o w -
+023/217	baw	1	b a w -
+024/053	boab	1	b oa b -
+024/057	baab	1	b aa b -
+024/059	baab	1	b aa b -
+024/061	bob	1	b o b -
+024/063	bab	1	b a b -
+024/065	bum	1	b u m -
+024/067	baob	1	b ao b -
+024/069	baw	1	b a w -
+024/071	bab	1	b a b -
+024/073	bahm	1	b ah m -
+024/075	bab	1	b a b -
+024/077	bab	1	b a b -
+024/079	NA	NA	- - - - -
+024/081	bahm	1	b ah m -
+024/083	bab	1	b a b -
+024/085	bahb	1	b ah b -
+024/087	bab	1	b a b -
+024/089	bab	1	b a b -
+024/091	bab	1	b a b -
+024/093	bab	1	b a b -
+024/095	bab	1	b a b -
+024/097	bab	1	b a b -
+024/099	NA	NA	- - - - -
+024/101	bab	1	b a b -
+024/103	bab	1	b a b -
+024/105	boab	1	b oa b -
+024/107	bab	1	b a b -
+024/109	bab	1	b a b -
+024/111	NA	NA	- - - - -
+024/113	bab	1	b a b -
+024/115	bab	1	b a b -
+024/117	NA	NA	- - - - -
+024/119	NA	NA	- - - - -
+024/121	boab	1	b oa b -
+024/123	boaw	1	b oa w -
+024/125	boaw	1	b oa w -
+024/127	baow	1	b ao w -
+024/129	baow	1	b ao w -
+024/131	bauw	1	b au w -
+024/133	boaw	1	b oa w -
+024/135	bov	1	b o v -
+024/137	baw	1	b a w -
+024/139	boaw	1	b oa w -
+024/141	boaw	1	b oa w -
+024/143	bow	1	b o w -
+024/145	baw	1	b a w -
+024/147	baw	1	b a w -
+024/149	boaw	1	b oa w -
+024/151	bauw	1	b au w -
+024/153	NA	NA	- - - - -
+024/155	bow	1	b o w -
+024/163	bauw	1	b au w -
+024/165	bow	1	b o w -
+024/167	bow	1	b o w -
+024/169	bow	1	b o w -
+024/171	bow	1	b o w -
+024/175	NA	NA	- - - - -
+024/179	ob	1	- o b -
+024/181	NA	NA	- - - - -
+024/183	ob	1	- o b -
+024/185	ob	1	- o b -
+024/187	ob	1	- o b -
+024/189	NA	NA	- - - - -
+024/191	bow	1	b o w -
+024/193	bow	1	b o w -
+024/195	bow	1	b o w -
+024/197	bow	1	b o w -
+024/199	ob	1	- o b -
+024/201	bohw	1	b oh w -
+024/203	bow	1	b o w -
+024/217	NA	NA	- - - - -
+024/221	baw	1	b a w -
+025/043	buow	1	b uo w -
+025/051	baam	1	b aa m -
+025/053	bab	1	b a b -
+025/055	bab	1	b a b -
+025/057	bab	1	b a b -
+025/059	NA	NA	- - - - -
+025/061	bab	1	b a b -
+025/063	boab	1	b oa b -
+025/065	bahb	1	b ah b -
+025/067	bahm	1	b ah m -
+025/069	bab	1	b a b -
+025/071	NA	NA	- - - - -
+025/073	bab	1	b a b -
+025/075	bab	1	b a b -
+025/077	bab	1	b a b -
+025/079	bab	1	b a b -
+025/081	bab	1	b a b -
+025/083	bab	1	b a b -
+025/085	NA	NA	- - - - -
+025/087	bab	1	b a b -
+025/089	bab	1	b a b -
+025/091	bab	1	b a b -
+025/093	bab	1	b a b -
+025/095	bab	1	b a b -
+025/099	bab	1	b a b -
+025/101	baam	1	b aa m -
+025/103	boaw	1	b oa w -
+025/105	bam	1	b a m -
+025/107	boaw	1	b oa w -
+025/109	bab	1	b a b -
+025/111	bab	1	b a b -
+025/113	boab	1	b oa b -
+025/115	boam	1	b oa m -
+025/123	bob	1	b o b -
+025/125	boaw	1	b oa w -
+025/127	bow	1	b o w -
+025/129	baow	1	b ao w -
+025/131	baw	1	b a w -
+025/133	bow	1	b o w -
+025/135	baw	1	b a w -
+025/137	bow	1	b o w -
+025/139	boaw	1	b oa w -
+025/141	bauw	1	b au w -
+025/143	bauw	1	b au w -
+025/145	boaw	1	b oa w -
+025/147	bauw	1	b au w -
+025/149	bow	1	b o w -
+025/151	bauw	1	b au w -
+025/153	NA	NA	- - - - -
+025/155	bauw	1	b au w -
+025/157	NA	NA	- - - - -
+025/159	bow	1	b o w -
+025/177	bow	1	b o w -
+025/179	ob	1	- o b -
+025/181	ob	1	- o b -
+025/183	ob	1	- o b -
+025/185	ob	1	- o b -
+025/187	NA	NA	- - - - -
+025/189	ob	1	- o b -
+025/191	bow	1	b o w -
+026/031	NA	NA	- - - - -
+026/033	bab	1	b a b -
+026/037	bab	1	b a b -
+026/041	NA	NA	- - - - -
+026/043	bab	1	b a b -
+026/045	bab	1	b a b -
+026/051	bab	1	b a b -
+026/053	bam	1	b a m -
+026/055	bob	1	b o b -
+026/057	bab	1	b a b -
+026/059	bab	1	b a b -
+026/061	NA	NA	- - - - -
+026/063	bab	1	b a b -
+026/065	bav	1	b a v -
+026/067	bab	1	b a b -
+026/069	bab	1	b a b -
+026/071	NA	NA	- - - - -
+026/073	bab	1	b a b -
+026/075	bab	1	b a b -
+026/077	bab	1	b a b -
+026/079	bab	1	b a b -
+026/081	bab	1	b a b -
+026/083	NA	NA	- - - - -
+026/085	bab	1	b a b -
+026/087	bab	1	b a b -
+026/089	bab	1	b a b -
+026/091	bab	1	b a b -
+026/093	bab	1	b a b -
+026/095	bab	1	b a b -
+026/097	bab	1	b a b -
+026/099	bab	1	b a b -
+026/101	bab	1	b a b -
+026/103	bab	1	b a b -
+026/105	bab	1	b a b -
+026/107	bohb	1	b oh b -
+026/109	boab	1	b oa b -
+026/111	NA	NA	- - - - -
+026/113	boab	1	b oa b -
+026/115	boam	1	b oa m -
+026/117	boab	1	b oa b -
+026/119	bob	1	b o b -
+026/123	bow	1	b o w -
+026/125	boab	1	b oa b -
+026/127	boaw	1	b oa w -
+026/129	baow	1	b ao w -
+026/131	baow	1	b ao w -
+026/133	boaw	1	b oa w -
+026/135	boaw	1	b oa w -
+026/137	bauw	1	b au w -
+026/139	boaw	1	b oa w -
+026/141	NA	NA	- - - - -
+026/143	baow	1	b ao w -
+026/145	bow	1	b o w -
+026/147	baw	1	b a w -
+026/153	bauv	1	b au v -
+026/155	bauw	1	b au w -
+026/157	bauw	1	b au w -
+026/159	bauw	1	b au w -
+026/161	bauw	1	b au w -
+026/165	bab	1	b a b -
+026/173	boaw	1	b oa w -
+026/175	bow	1	b o w -
+026/177	baw	1	b a w -
+026/179	ow	1	- o w -
+026/181	ob	1	- o b -
+026/183	ob	1	- o b -
+026/185	ob	1	- o b -
+026/187	ob	1	- o b -
+026/189	ob	1	- o b -
+027/027	bov	1	b o v -
+027/035	baf	1	b a f -
+027/037	baav	1	b aa v -
+027/039	baab	1	b aa b -
+027/041	baf	1	b a f -
+027/043	bab	1	b a b -
+027/045	bab	1	b a b -
+027/047	bab	1	b a b -
+027/051	bob	1	b o b -
+027/053	bab	1	b a b -
+027/055	NA	NA	- - - - -
+027/057	bahm	1	b ah m -
+027/059	bab	1	b a b -
+027/061	bab	1	b a b -
+027/063	bab	1	b a b -
+027/065	NA	NA	- - - - -
+027/067	bab	1	b a b -
+027/069	NA	NA	- - - - -
+027/071	NA	NA	- - - - -
+027/073	bab	1	b a b -
+027/075	bab	1	b a b -
+027/077	bab	1	b a b -
+027/079	bab	1	b a b -
+027/081	bab	1	b a b -
+027/083	NA	NA	- - - - -
+027/085	bab	1	b a b -
+027/087	bab	1	b a b -
+027/089	baw	1	b a w -
+027/091	bab	1	b a b -
+027/093	bab	1	b a b -
+027/095	bab	1	b a b -
+027/099	bab	1	b a b -
+027/101	bab	1	b a b -
+027/103	NA	NA	- - - - -
+027/105	bab	1	b a b -
+027/107	NA	NA	- - - - -
+027/109	bob	1	b o b -
+027/111	bob	1	b o b -
+027/113	bab	1	b a b -
+027/115	boaw	1	b oa w -
+027/117	boaw	1	b oa w -
+027/119	oaub	1	- oau b -
+027/123	boab	1	b oa b -
+027/125	boab	1	b oa b -
+027/127	bow	1	b o w -
+027/129	baow	1	b ao w -
+027/131	boaw	1	b oa w -
+027/135	bow	1	b o w -
+027/137	boaw	1	b oa w -
+027/139	baup	1	b au p -
+027/141	bow	1	b o w -
+027/143	boaw	1	b oa w -
+027/145	boauv	1	b oau v -
+027/147	boaw	1	b oa w -
+027/149	bouw	1	b ou w -
+027/151	bauw	1	b au w -
+027/153	bauw	1	b au w -
+027/155	bauw	1	b au w -
+027/157	bauw	1	b au w -
+027/159	NA	NA	- - - - -
+027/161	bauw	1	b au w -
+027/167	NA	NA	- - - - -
+027/171	bow	1	b o w -
+027/173	bow	1	b o w -
+027/175	bew	1	b e w -
+027/177	bav	1	b a v -
+027/179	bov	1	b o v -
+027/181	bow	1	b o w -
+027/183	ob	1	- o b -
+027/185	NA	NA	- - - - -
+028/033	bab	1	b a b -
+028/035	bab	1	b a b -
+028/037	bav	1	b a v -
+028/039	baf	1	b a f -
+028/041	bof	1	b o f -
+028/043	baab	1	b aa b -
+028/045	bab	1	b a b -
+028/047	bab	1	b a b -
+028/049	bab	1	b a b -
+028/051	NA	NA	- - - - -
+028/053	bab	1	b a b -
+028/055	bab	1	b a b -
+028/057	NA	NA	- - - - -
+028/059	bab	1	b a b -
+028/061	bab	1	b a b -
+028/063	boab	1	b oa b -
+028/065	bob	1	b o b -
+028/067	bob	1	b o b -
+028/069	bab	1	b a b -
+028/071	bab	1	b a b -
+028/073	bab	1	b a b -
+028/075	baam	1	b aa m -
+028/077	bab	1	b a b -
+028/079	bab	1	b a b -
+028/081	bab	1	b a b -
+028/083	NA	NA	- - - - -
+028/085	bab	1	b a b -
+028/087	NA	NA	- - - - -
+028/089	NA	NA	- - - - -
+028/091	bohm	1	b oh m -
+028/093	bav	1	b a v -
+028/095	bab	1	b a b -
+028/097	bab	1	b a b -
+028/099	bab	1	b a b -
+028/103	NA	NA	- - - - -
+028/105	bab	1	b a b -
+028/107	bab	1	b a b -
+028/109	boab	1	b oa b -
+028/111	bab	1	b a b -
+028/113	boab	1	b oa b -
+028/115	boob	1	b oo b -
+028/117	bom	1	b o m -
+028/119	bab	1	b a b -
+028/121	NA	NA	- - - - -
+028/123	bob	1	b o b -
+028/125	NA	NA	- - - - -
+028/127	bauw	1	b au w -
+028/129	boaw	1	b oa w -
+028/131	boav	1	b oa v -
+028/133	baow	1	b ao w -
+028/135	bow	1	b o w -
+028/137	bow	1	b o w -
+028/139	boaw	1	b oa w -
+028/141	bauw	1	b au w -
+028/143	bauw	1	b au w -
+028/145	bauw	1	b au w -
+028/147	baw	1	b a w -
+028/151	bauv	1	b au v -
+028/153	bauw	1	b au w -
+028/155	bauw	1	b au w -
+028/157	bauv	1	b au v -
+028/159	bow	1	b o w -
+028/161	bauw	1	b au w -
+028/165	NA	NA	- - - - -
+028/169	baw	1	b a w -
+028/171	bohw	1	b oh w -
+028/173	boahw	1	b oah w -
+028/175	boahw	1	b oah w -
+028/177	bow	1	b o w -
+028/179	bow	1	b o w -
+028/181	ob	1	- o b -
+028/183	ob	1	- o b -
+028/185	ob	1	- o b -
+029/033	NA	NA	- - - - -
+029/035	boov	1	b oo v -
+029/037	bov	1	b o v -
+029/039	bab	1	b a b -
+029/043	baw	1	b a w -
+029/045	bab	1	b a b -
+029/047	bab	1	b a b -
+029/049	bab	1	b a b -
+029/051	bab	1	b a b -
+029/053	baob	1	b ao b -
+029/055	bob	1	b o b -
+029/057	baob	1	b ao b -
+029/059	bab	1	b a b -
+029/061	bab	1	b a b -
+029/065	bam	1	b a m -
+029/067	bab	1	b a b -
+029/069	baob	1	b ao b -
+029/071	bab	1	b a b -
+029/073	NA	NA	- - - - -
+029/075	bab	1	b a b -
+029/077	baab	1	b aa b -
+029/079	bab	1	b a b -
+029/081	bab	1	b a b -
+029/083	bab	1	b a b -
+029/085	bab	1	b a b -
+029/087	bab	1	b a b -
+029/089	NA	NA	- - - - -
+029/091	bab	1	b a b -
+029/093	bab	1	b a b -
+029/095	bab	1	b a b -
+029/097	bab	1	b a b -
+029/099	bab	1	b a b -
+029/101	bab	1	b a b -
+029/103	bab	1	b a b -
+029/105	baab	1	b aa b -
+029/107	NA	NA	- - - - -
+029/109	bab	1	b a b -
+029/111	bob	1	b o b -
+029/113	boab	1	b oa b -
+029/115	bob	1	b o b -
+029/117	boab	1	b oa b -
+029/119	bab	1	b a b -
+029/121	bab	1	b a b -
+029/123	bow	1	b o w -
+029/125	boob	1	b oo b -
+029/127	baov	1	b ao v -
+029/129	bow	1	b o w -
+029/131	boaw	1	b oa w -
+029/133	boaw	1	b oa w -
+029/135	boaw	1	b oa w -
+029/137	boaw	1	b oa w -
+029/139	bauw	1	b au w -
+029/141	bauw	1	b au w -
+029/143	bauw	1	b au w -
+029/145	bauw	1	b au w -
+029/147	baub	1	b au b -
+029/149	bauw	1	b au w -
+029/151	bauw	1	b au w -
+029/153	bauw	1	b au w -
+029/155	bauw	1	b au w -
+029/157	bauw	1	b au w -
+029/159	bauw	1	b au w -
+029/161	bauw	1	b au w -
+029/163	NA	NA	- - - - -
+029/165	bauw	1	b au w -
+029/167	bow	1	b o w -
+029/169	bow	1	b o w -
+029/171	bow	1	b o w -
+029/173	ob	1	- o b -
+029/175	boav	1	b oa v -
+029/177	boaw	1	b oa w -
+029/181	bow	1	b o w -
+030/033	bov	1	b o v -
+030/035	bov	1	b o v -
+030/037	NA	NA	- - - - -
+030/039	bob	1	b o b -
+030/041	baav	1	b aa v -
+030/043	bab	1	b a b -
+030/045	bab	1	b a b -
+030/047	bab	1	b a b -
+030/049	bab	1	b a b -
+030/051	bam	1	b a m -
+030/053	NA	NA	- - - - -
+030/055	bab	1	b a b -
+030/057	bab	1	b a b -
+030/059	bab	1	b a b -
+030/061	bab	1	b a b -
+030/065	NA	NA	- - - - -
+030/067	bab	1	b a b -
+030/071	bab	1	b a b -
+030/073	baam	1	b aa m -
+030/075	bab	1	b a b -
+030/077	bam	1	b a m -
+030/079	bab	1	b a b -
+030/081	bab	1	b a b -
+030/083	bab	1	b a b -
+030/085	bahm	1	b ah m -
+030/087	bab	1	b a b -
+030/089	bab	1	b a b -
+030/091	bab	1	b a b -
+030/093	bam	1	b a m -
+030/095	bab	1	b a b -
+030/097	bab	1	b a b -
+030/099	bab	1	b a b -
+030/101	bab	1	b a b -
+030/103	bab	1	b a b -
+030/105	NA	NA	- - - - -
+030/107	bab	1	b a b -
+030/109	bab	1	b a b -
+030/111	baom	1	b ao m -
+030/113	boab	1	b oa b -
+030/115	bohm	1	b oh m -
+030/117	boab	1	b oa b -
+030/119	boab	1	b oa b -
+030/121	boab	1	b oa b -
+030/123	boam	1	b oa m -
+030/125	boab	1	b oa b -
+030/127	boab	1	b oa b -
+030/129	bow	1	b o w -
+030/131	baow	1	b ao w -
+030/133	boaw	1	b oa w -
+030/135	NA	NA	- - - - -
+030/137	bow	1	b o w -
+030/139	NA	NA	- - - - -
+030/141	bauw	1	b au w -
+030/143	bauw	1	b au w -
+030/145	bauw	1	b au w -
+030/147	bauw	1	b au w -
+030/149	bauw	1	b au w -
+030/151	bauw	1	b au w -
+030/153	bauw	1	b au w -
+030/155	NA	NA	- - - - -
+030/157	bauw	1	b au w -
+030/159	bauw	1	b au w -
+030/161	bauw	1	b au w -
+030/163	NA	NA	- - - - -
+030/165	bauw	1	b au w -
+030/167	bov	1	b o v -
+030/169	bow	1	b o w -
+030/171	bow	1	b o w -
+030/173	baow	1	b ao w -
+030/175	boow	1	b oo w -
+030/177	bow	1	b o w -
+030/179	boaw	1	b oa w -
+030/181	baw	1	b a w -
+030/183	bow	1	b o w -
+031/035	NA	NA	- - - - -
+031/037	bov	1	b o v -
+031/039	bav	1	b a v -
+031/041	NA	NA	- - - - -
+031/043	bab	1	b a b -
+031/045	bab	1	b a b -
+031/047	boaw	1	b oa w -
+031/049	baw	1	b a w -
+031/051	bab	1	b a b -
+031/053	bab	1	b a b -
+031/055	bab	1	b a b -
+031/057	baw	1	b a w -
+031/059	NA	NA	- - - - -
+031/061	bab	1	b a b -
+031/063	bab	1	b a b -
+031/065	bab	1	b a b -
+031/067	baw	1	b a w -
+031/069	bab	1	b a b -
+031/071	bab	1	b a b -
+031/073	bab	1	b a b -
+031/075	bahm	1	b ah m -
+031/077	bab	1	b a b -
+031/079	bab	1	b a b -
+031/081	bam	1	b a m -
+031/083	NA	NA	- - - - -
+031/085	bab	1	b a b -
+031/087	bab	1	b a b -
+031/089	bab	1	b a b -
+031/091	baab	1	b aa b -
+031/093	bab	1	b a b -
+031/095	NA	NA	- - - - -
+031/097	bahm	1	b ah m -
+031/099	baab	1	b aa b -
+031/101	baab	1	b aa b -
+031/103	baob	1	b ao b -
+031/105	bab	1	b a b -
+031/107	boab	1	b oa b -
+031/109	NA	NA	- - - - -
+031/111	bob	1	b o b -
+031/113	bob	1	b o b -
+031/115	boab	1	b oa b -
+031/117	boam	1	b oa m -
+031/119	baob	1	b ao b -
+031/121	boab	1	b oa b -
+031/123	boaw	1	b oa w -
+031/125	boab	1	b oa b -
+031/127	bob	1	b o b -
+031/129	bauw	1	b au w -
+031/131	bow	1	b o w -
+031/133	boaw	1	b oa w -
+031/135	bow	1	b o w -
+031/137	bow	1	b o w -
+031/139	bauw	1	b au w -
+031/141	bow	1	b o w -
+031/143	bauw	1	b au w -
+031/145	bauv	1	b au v -
+031/147	bauw	1	b au w -
+031/149	bauw	1	b au w -
+031/151	NA	NA	- - - - -
+031/153	baouw	1	b aou w -
+031/155	NA	NA	- - - - -
+031/157	bauw	1	b au w -
+031/159	bow	1	b o w -
+031/161	bauw	1	b au w -
+031/163	bauw	1	b au w -
+031/167	bow	1	b o w -
+031/169	ob	1	- o b -
+031/171	ob	1	- o b -
+031/173	NA	NA	- - - - -
+031/175	bow	1	b o w -
+031/177	boaw	1	b oa w -
+031/179	bow	1	b o w -
+032/035	bov	1	b o v -
+032/037	bov	1	b o v -
+032/039	bof	1	b o f -
+032/041	bab	1	b a b -
+032/043	bab	1	b a b -
+032/045	bab	1	b a b -
+032/047	bab	1	b a b -
+032/049	NA	NA	- - - - -
+032/051	baab	1	b aa b -
+032/053	bob	1	b o b -
+032/055	bab	1	b a b -
+032/057	bab	1	b a b -
+032/059	NA	NA	- - - - -
+032/061	bam	1	b a m -
+032/065	bab	1	b a b -
+032/069	bab	1	b a b -
+032/071	bab	1	b a b -
+032/073	bahm	1	b ah m -
+032/075	NA	NA	- - - - -
+032/077	bab	1	b a b -
+032/079	bahm	1	b ah m -
+032/081	bab	1	b a b -
+032/083	bab	1	b a b -
+032/085	bab	1	b a b -
+032/087	bab	1	b a b -
+032/089	bom	1	b o m -
+032/091	baom	1	b ao m -
+032/093	bob	1	b o b -
+032/095	NA	NA	- - - - -
+032/097	boab	1	b oa b -
+032/099	boaw	1	b oa w -
+032/101	boab	1	b oa b -
+032/103	NA	NA	- - - - -
+032/105	boab	1	b oa b -
+032/107	boab	1	b oa b -
+032/111	bob	1	b o b -
+032/113	bob	1	b o b -
+032/115	bob	1	b o b -
+032/117	boab	1	b oa b -
+032/119	bab	1	b a b -
+032/121	bob	1	b o b -
+032/123	NA	NA	- - - - -
+032/125	boaw	1	b oa w -
+032/127	bauw	1	b au w -
+032/129	bow	1	b o w -
+032/131	boaw	1	b oa w -
+032/133	bow	1	b o w -
+032/135	boab	1	b oa b -
+032/139	bow	1	b o w -
+032/141	bauv	1	b au v -
+032/143	bauw	1	b au w -
+032/145	bauw	1	b au w -
+032/147	bauw	1	b au w -
+032/149	bauw	1	b au w -
+032/151	bauw	1	b au w -
+032/153	baov	1	b ao v -
+032/157	NA	NA	- - - - -
+032/159	bauw	1	b au w -
+032/161	bauw	1	b au w -
+032/163	bauw	1	b au w -
+032/167	bow	1	b o w -
+032/169	ow	1	- o w -
+032/171	ow	1	- o w -
+032/173	ob	1	- o b -
+032/175	bow	1	b o w -
+032/177	bow	1	b o w -
+032/179	boaw	1	b oa w -
+032/181	bow	1	b o w -
+032/183	bow	1	b o w -
+033/035	boaw	1	b oa w -
+033/037	bov	1	b o v -
+033/039	boof	1	b oo f -
+033/041	baw	1	b a w -
+033/043	bab	1	b a b -
+033/045	bab	1	b a b -
+033/047	bab	1	b a b -
+033/049	bab	1	b a b -
+033/051	bab	1	b a b -
+033/053	bab	1	b a b -
+033/055	boab	1	b oa b -
+033/057	bab	1	b a b -
+033/059	bahm	1	b ah m -
+033/061	NA	NA	- - - - -
+033/063	bahm	1	b ah m -
+033/065	bab	1	b a b -
+033/067	bab	1	b a b -
+033/069	bab	1	b a b -
+033/071	bab	1	b a b -
+033/073	bahm	1	b ah m -
+033/075	NA	NA	- - - - -
+033/077	baam	1	b aa m -
+033/079	bab	1	b a b -
+033/081	bab	1	b a b -
+033/083	bab	1	b a b -
+033/085	bab	1	b a b -
+033/087	NA	NA	- - - - -
+033/089	bow	1	b o w -
+033/091	boam	1	b oa m -
+033/093	boam	1	b oa m -
+033/095	boab	1	b oa b -
+033/097	bab	1	b a b -
+033/099	bob	1	b o b -
+033/101	bob	1	b o b -
+033/103	boab	1	b oa b -
+033/105	boaw	1	b oa w -
+033/107	bob	1	b o b -
+033/109	boab	1	b oa b -
+033/111	boab	1	b oa b -
+033/113	boab	1	b oa b -
+033/115	boav	1	b oa v -
+033/117	boab	1	b oa b -
+033/119	bob	1	b o b -
+033/121	bob	1	b o b -
+033/123	boaw	1	b oa w -
+033/125	bow	1	b o w -
+033/127	NA	NA	- - - - -
+033/129	bauw	1	b au w -
+033/131	NA	NA	- - - - -
+033/133	bouw	1	b ou w -
+033/135	baow	1	b ao w -
+033/137	boaw	1	b oa w -
+033/139	boaw	1	b oa w -
+033/141	bauv	1	b au v -
+033/143	bauw	1	b au w -
+033/145	bauw	1	b au w -
+033/147	bauw	1	b au w -
+033/149	bouw	1	b ou w -
+033/151	bauw	1	b au w -
+033/153	bauw	1	b au w -
+033/155	NA	NA	- - - - -
+033/159	bauw	1	b au w -
+033/161	bauw	1	b au w -
+033/163	bauw	1	b au w -
+033/165	bow	1	b o w -
+033/167	boaw	1	b oa w -
+033/169	NA	NA	- - - - -
+033/173	bow	1	b o w -
+033/175	boew	1	b oe w -
+033/177	bow	1	b o w -
+034/035	bohw	1	b oh w -
+034/039	bow	1	b o w -
+034/041	baw	1	b a w -
+034/043	baw	1	b a w -
+034/045	baw	1	b a w -
+034/047	baw	1	b a w -
+034/049	bab	1	b a b -
+034/051	bab	1	b a b -
+034/053	NA	NA	- - - - -
+034/055	bab	1	b a b -
+034/057	bob	1	b o b -
+034/059	bab	1	b a b -
+034/061	bab	1	b a b -
+034/063	NA	NA	- - - - -
+034/065	bab	1	b a b -
+034/067	bab	1	b a b -
+034/069	NA	NA	- - - - -
+034/071	bahm	1	b ah m -
+034/073	NA	NA	- - - - -
+034/075	bahm	1	b ah m -
+034/077	NA	NA	- - - - -
+034/079	bab	1	b a b -
+034/081	bab	1	b a b -
+034/083	bab	1	b a b -
+034/085	boam	1	b oa m -
+034/087	NA	NA	- - - - -
+034/089	boab	1	b oa b -
+034/091	bohm	1	b oh m -
+034/093	boam	1	b oa m -
+034/095	bow	1	b o w -
+034/097	NA	NA	- - - - -
+034/099	baw	1	b a w -
+034/101	bob	1	b o b -
+034/103	baw	1	b a w -
+034/105	bob	1	b o b -
+034/107	bab	1	b a b -
+034/109	ob	1	- o b -
+034/111	boab	1	b oa b -
+034/113	NA	NA	- - - - -
+034/115	boab	1	b oa b -
+034/117	bob	1	b o b -
+034/119	boaw	1	b oa w -
+034/121	baw	1	b a w -
+034/125	baap	1	b aa p -
+034/127	baw	1	b a w -
+034/129	bow	1	b o w -
+034/131	baw	1	b a w -
+034/133	bow	1	b o w -
+034/135	bow	1	b o w -
+034/137	bow	1	b o w -
+034/139	bauw	1	b au w -
+034/141	NA	NA	- - - - -
+034/143	bauw	1	b au w -
+034/145	bauw	1	b au w -
+034/147	bow	1	b o w -
+034/149	bauw	1	b au w -
+034/151	bauw	1	b au w -
+034/155	bauw	1	b au w -
+034/157	bauw	1	b au w -
+034/161	bauw	1	b au w -
+034/163	boaw	1	b oa w -
+034/165	NA	NA	- - - - -
+034/167	bow	1	b o w -
+034/169	bow	1	b o w -
+034/173	bow	1	b o w -
+035/035	baw	1	b a w -
+035/037	baw	1	b a w -
+035/039	NA	NA	- - - - -
+035/041	baw	1	b a w -
+035/043	baw	1	b a w -
+035/045	baw	1	b a w -
+035/047	bab	1	b a b -
+035/049	NA	NA	- - - - -
+035/051	bob	1	b o b -
+035/053	bab	1	b a b -
+035/055	bab	1	b a b -
+035/057	bab	1	b a b -
+035/059	baw	1	b a w -
+035/061	bab	1	b a b -
+035/063	bab	1	b a b -
+035/065	NA	NA	- - - - -
+035/067	bab	1	b a b -
+035/069	bab	1	b a b -
+035/071	bab	1	b a b -
+035/073	bam	1	b a m -
+035/075	bahm	1	b ah m -
+035/077	NA	NA	- - - - -
+035/079	bab	1	b a b -
+035/081	bab	1	b a b -
+035/083	bab	1	b a b -
+035/085	bah	1	b ah - -
+035/087	boab	1	b oa b -
+035/089	baom	1	b ao m -
+035/091	boab	1	b oa b -
+035/093	boab	1	b oa b -
+035/095	baaw	1	b aa w -
+035/097	boaw	1	b oa w -
+035/099	bow	1	b o w -
+035/101	boow	1	b oo w -
+035/103	boab	1	b oa b -
+035/105	boab	1	b oa b -
+035/107	bow	1	b o w -
+035/109	ob	1	- o b -
+035/111	bob	1	b o b -
+035/113	bob	1	b o b -
+035/115	bob	1	b o b -
+035/117	bob	1	b o b -
+035/121	NA	NA	- - - - -
+035/123	baw	1	b a w -
+035/125	NA	NA	- - - - -
+035/127	bag	1	b a g -
+035/129	boj	1	b o j -
+035/133	bow	1	b o w -
+035/135	boaw	1	b oa w -
+035/137	bow	1	b o w -
+035/139	bow	1	b o w -
+035/141	NA	NA	- - - - -
+035/143	NA	NA	- - - - -
+035/145	bauw	1	b au w -
+035/147	bauw	1	b au w -
+035/149	bauw	1	b au w -
+035/151	bow	1	b o w -
+035/153	bauw	1	b au w -
+035/155	bauw	1	b au w -
+035/157	bauw	1	b au w -
+035/165	boaw	1	b oa w -
+035/167	bow	1	b o w -
+035/169	bow	1	b o w -
+035/171	bow	1	b o w -
+035/173	bow	1	b o w -
+036/033	bauw	1	b au w -
+036/035	NA	NA	- - - - -
+036/039	boaw	1	b oa w -
+036/041	boaw	1	b oa w -
+036/043	bav	1	b a v -
+036/045	baw	1	b a w -
+036/047	bab	1	b a b -
+036/049	bab	1	b a b -
+036/051	bab	1	b a b -
+036/053	bab	1	b a b -
+036/055	bab	1	b a b -
+036/057	NA	NA	- - - - -
+036/059	bahm	1	b ah m -
+036/061	NA	NA	- - - - -
+036/063	bab	1	b a b -
+036/065	bahm	1	b ah m -
+036/067	bam	1	b a m -
+036/069	bah	1	b ah - -
+036/071	NA	NA	- - - - -
+036/073	NA	NA	- - - - -
+036/075	bahm	1	b ah m -
+036/077	bah	1	b ah - -
+036/079	bab	1	b a b -
+036/081	bab	1	b a b -
+036/083	bab	1	b a b -
+036/085	baow	1	b ao w -
+036/087	boaw	1	b oa w -
+036/089	boaw	1	b oa w -
+036/091	baow	1	b ao w -
+036/095	boaw	1	b oa w -
+036/097	boaw	1	b oa w -
+036/099	boav	1	b oa v -
+036/101	boab	1	b oa b -
+036/103	boab	1	b oa b -
+036/105	boab	1	b oa b -
+036/107	boag	1	b oa g -
+036/109	boaw	1	b oa w -
+036/111	NA	NA	- - - - -
+036/113	baw	1	b a w -
+036/115	baw	1	b a w -
+036/117	bah	1	b ah - -
+036/119	ba	1	b a - -
+036/121	bah	1	b ah - -
+036/123	bav	1	b a v -
+036/125	ob	1	- o b -
+036/127	boaw	1	b oa w -
+036/129	boaj	1	b oa j -
+036/133	boaw	1	b oa w -
+036/135	boav	1	b oa v -
+036/137	bow	1	b o w -
+036/139	bow	1	b o w -
+036/141	bauv	1	b au v -
+036/143	bauw	1	b au w -
+036/147	bauw	1	b au w -
+036/149	bauw	1	b au w -
+036/151	bauw	1	b au w -
+036/153	bauw	1	b au w -
+036/155	NA	NA	- - - - -
+036/161	bow	1	b o w -
+036/163	bow	1	b o w -
+036/165	bow	1	b o w -
+036/167	bow	1	b o w -
+036/169	NA	NA	- - - - -
+036/171	bow	1	b o w -
+037/033	boaw	1	b oa w -
+037/035	bow	1	b o w -
+037/037	bow	1	b o w -
+037/039	baw	1	b a w -
+037/041	baw	1	b a w -
+037/043	baw	1	b a w -
+037/045	bav	1	b a v -
+037/047	bauv	1	b au v -
+037/049	bah	1	b ah - -
+037/051	NA	NA	- - - - -
+037/053	NA	NA	- - - - -
+037/055	bab	1	b a b -
+037/057	bab	1	b a b -
+037/059	bab	1	b a b -
+037/061	bab	1	b a b -
+037/063	bam	1	b a m -
+037/065	bahm	1	b ah m -
+037/067	NA	NA	- - - - -
+037/069	baam	1	b aa m -
+037/071	NA	NA	- - - - -
+037/073	bahm	1	b ah m -
+037/075	NA	NA	- - - - -
+037/077	bam	1	b a m -
+037/079	bom	1	b o m -
+037/081	bo	1	b o - -
+037/083	bam	1	b a m -
+037/085	baw	1	b a w -
+037/087	boaw	1	b oa w -
+037/089	boaw	1	b oa w -
+037/091	bow	1	b o w -
+037/093	baoh	1	b aoh - -
+037/095	bob	1	b o b -
+037/097	boaw	1	b oa w -
+037/099	baw	1	b a w -
+037/101	bah	1	b ah - -
+037/105	bah	1	b ah - -
+037/107	oab	1	- oa b -
+037/109	bah	1	b ah - -
+037/111	NA	NA	- - - - -
+037/113	NA	NA	- - - - -
+037/115	bah	1	b ah - -
+037/117	ba	1	b a - -
+037/119	ob	1	- o b -
+037/121	ba	1	b a - -
+037/123	ob	1	- o b -
+037/125	bah	1	b ah - -
+037/127	ob	1	- o b -
+037/129	ba	1	b a - -
+037/131	ob	1	- o b -
+037/133	ba	1	b a - -
+037/135	boaw	1	b oa w -
+037/137	ob	1	- o b -
+037/139	bo	1	b o - -
+037/141	ow	1	- o w -
+037/145	bauw	1	b au w -
+037/147	bauw	1	b au w -
+037/149	NA	NA	- - - - -
+037/151	bow	1	b o w -
+037/153	bauv	1	b au v -
+037/155	bow	1	b o w -
+037/157	bauw	1	b au w -
+037/159	bouj	1	b ou j -
+037/163	bow	1	b o w -
+037/171	boaw	1	b oa w -
+038/033	bouw	1	b ou w -
+038/035	bow	1	b o w -
+038/037	baow	1	b ao w -
+038/039	NA	NA	- - - - -
+038/041	bav	1	b a v -
+038/043	bow	1	b o w -
+038/045	bav	1	b a v -
+038/047	NA	NA	- - - - -
+038/049	NA	NA	- - - - -
+038/051	ba	1	b a - -
+038/053	bab	1	b a b -
+038/055	bau	1	b au - -
+038/057	NA	NA	- - - - -
+038/059	baw	1	b a w -
+038/061	bab	1	b a b -
+038/063	baw	1	b a w -
+038/065	bahm	1	b ah m -
+038/067	bab	1	b a b -
+038/069	bob	1	b o b -
+038/071	bab	1	b a b -
+038/073	bahm	1	b ah m -
+038/075	bam	1	b a m -
+038/077	baam	1	b aa m -
+038/079	bom	1	b o m -
+038/081	NA	NA	- - - - -
+038/083	bomm	1	b o mm -
+038/085	baw	1	b a w -
+038/087	baw	1	b a w -
+038/089	bab	1	b a b -
+038/091	NA	NA	- - - - -
+038/093	bob	1	b o b -
+038/095	NA	NA	- - - - -
+038/097	bow	1	b o w -
+038/099	ba	1	b a - -
+038/101	bah	1	b ah - -
+038/103	boam	1	b oa m -
+038/105	NA	NA	- - - - -
+038/107	ba	1	b a - -
+038/109	ba	1	b a - -
+038/111	bah	1	b ah - -
+038/113	bah	1	b ah - -
+038/115	ba	1	b a - -
+038/117	bow	1	b o w -
+038/119	ba	1	b a - -
+038/121	ba	1	b a - -
+038/123	ba	1	b a - -
+038/125	bah	1	b ah - -
+038/127	oab	1	- oa b -
+038/129	boav	1	b oa v -
+038/131	ob	1	- o b -
+038/133	ba	1	b a - -
+038/135	oaw	1	- oa w -
+038/145	bauw	1	b au w -
+038/147	bauw	1	b au w -
+038/149	bauw	1	b au w -
+038/151	bauw	1	b au w -
+038/153	bow	1	b o w -
+038/155	bauw	1	b au w -
+038/159	bow	1	b o w -
+038/161	bav	1	b a v -
+038/163	NA	NA	- - - - -
+039/029	bow	1	b o w -
+039/031	bov	1	b o v -
+039/033	bow	1	b o w -
+039/035	baow	1	b ao w -
+039/037	baw	1	b a w -
+039/039	baow	1	b ao w -
+039/041	bow	1	b o w -
+039/043	boaw	1	b oa w -
+039/045	baow	1	b ao w -
+039/047	baw	1	b a w -
+039/049	bab	1	b a b -
+039/051	baw	1	b a w -
+039/053	bab	1	b a b -
+039/055	bab	1	b a b -
+039/057	bab	1	b a b -
+039/059	bab	1	b a b -
+039/061	bab	1	b a b -
+039/063	bab	1	b a b -
+039/065	bab	1	b a b -
+039/067	baam	1	b aa m -
+039/069	bab	1	b a b -
+039/071	bahm	1	b ah m -
+039/073	NA	NA	- - - - -
+039/075	boom	1	b oo m -
+039/077	bom	1	b o m -
+039/079	bo	1	b o - -
+039/081	bomm	1	b o mm -
+039/083	bom	1	b o m -
+039/085	bo	1	b o - -
+039/087	boaw	1	b oa w -
+039/089	baw	1	b a w -
+039/091	baw	1	b a w -
+039/093	NA	NA	- - - - -
+039/095	NA	NA	- - - - -
+039/097	baa	1	b aa - -
+039/099	ba	1	b a - -
+039/101	bah	1	b ah - -
+039/103	ba	1	b a - -
+039/105	bah	1	b ah - -
+039/107	ba	1	b a - -
+039/109	NA	NA	- - - - -
+039/111	ba	1	b a - -
+039/113	ob	1	- o b -
+039/115	ob	1	- o b -
+039/117	ba	1	b a - -
+039/119	bah	1	b ah - -
+039/121	ba	1	b a - -
+039/123	bah	1	b ah - -
+039/125	boa	1	b oa - -
+039/127	NA	NA	- - - - -
+039/129	bob	1	b o b -
+039/131	ob	1	- o b -
+039/133	uw	1	- u w -
+039/135	ub	1	- u b -
+039/137	ub	1	- u b -
+039/139	ub	1	- u b -
+039/149	bauw	1	b au w -
+039/151	bow	1	b o w -
+039/153	bauw	1	b au w -
+039/155	bow	1	b o w -
+040/029	bow	1	b o w -
+040/031	boav	1	b oa v -
+040/033	bow	1	b o w -
+040/035	bab	1	b a b -
+040/037	bov	1	b o v -
+040/039	bow	1	b o w -
+040/041	bov	1	b o v -
+040/043	bow	1	b o w -
+040/045	bow	1	b o w -
+040/047	bab	1	b a b -
+040/049	bab	1	b a b -
+040/051	bab	1	b a b -
+040/053	bab	1	b a b -
+040/055	baam	1	b aa m -
+040/057	boaw	1	b oa w -
+040/059	bam	1	b a m -
+040/061	baw	1	b a w -
+040/063	bab	1	b a b -
+040/065	NA	NA	- - - - -
+040/067	bab	1	b a b -
+040/069	bom	1	b o m -
+040/071	bob	1	b o b -
+040/073	boom	1	b oo m -
+040/075	ohm	1	- oh m -
+040/077	bom	1	b o m -
+040/079	bo	1	b o - -
+040/081	boam	1	b oa m -
+040/083	bom	1	b o m -
+040/085	bow	1	b o w -
+040/087	NA	NA	- - - - -
+040/089	bauh	1	b auh - -
+040/091	bau	1	b au - -
+040/093	bag	1	b a g -
+040/095	bah	1	b ah - -
+040/097	bah	1	b ah - -
+040/099	bah	1	b ah - -
+040/101	ba	1	b a - -
+040/103	bah	1	b ah - -
+040/105	ba	1	b a - -
+040/107	ob	1	- o b -
+040/109	ob	1	- o b -
+040/111	baa	1	b aa - -
+040/113	ob	1	- o b -
+040/115	ob	1	- o b -
+040/119	boa	1	b oa - -
+040/121	bah	1	b ah - -
+040/123	ob	1	- o b -
+040/125	ow	1	- o w -
+040/127	uaw	1	- ua w -
+040/129	ob	1	- o b -
+040/131	ob	1	- o b -
+040/133	uw	1	- u w -
+040/135	uw	1	- u w -
+040/137	ub	1	- u b -
+040/141	ub	1	- u b -
+040/143	ub	1	- u b -
+040/149	ub	1	- u b -
+040/153	bow	1	b o w -
+040/155	bauw	1	b au w -
+041/031	bov	1	b o v -
+041/033	boav	1	b oa v -
+041/035	boaw	1	b oa w -
+041/037	bow	1	b o w -
+041/039	bow	1	b o w -
+041/041	bow	1	b o w -
+041/043	bow	1	b o w -
+041/045	boab	1	b oa b -
+041/047	buab	1	b ua b -
+041/049	boab	1	b oa b -
+041/051	NA	NA	- - - - -
+041/053	bab	1	b a b -
+041/055	bab	1	b a b -
+041/057	bab	1	b a b -
+041/059	bam	1	b a m -
+041/061	bab	1	b a b -
+041/063	bab	1	b a b -
+041/065	bab	1	b a b -
+041/067	boom	1	b oo m -
+041/069	bom	1	b o m -
+041/071	bob	1	b o b -
+041/073	bob	1	b o b -
+041/075	ob	1	- o b -
+041/077	bob	1	b o b -
+041/079	boob	1	b oo b -
+041/081	bo	1	b o - -
+041/083	bob	1	b o b -
+041/085	bar	1	b a r -
+041/087	boah	1	b oah - -
+041/089	ba	1	b a - -
+041/091	bou	1	b ou - -
+041/093	bah	1	b ah - -
+041/095	bah	1	b ah - -
+041/097	bah	1	b ah - -
+041/099	bah	1	b ah - -
+041/101	ba	1	b a - -
+041/103	bah	1	b ah - -
+041/105	bah	1	b ah - -
+041/107	boa	1	b oa - -
+041/109	bov	1	b o v -
+041/111	NA	NA	- - - - -
+041/113	ob	1	- o b -
+041/115	bab	1	b a b -
+041/117	NA	NA	- - - - -
+041/119	boa	1	b oa - -
+041/121	bo	1	b o - -
+041/123	boah	1	b oah - -
+041/125	ow	1	- o w -
+041/127	ohw	1	- oh w -
+041/129	ob	1	- o b -
+041/131	ub	1	- u b -
+041/133	ub	1	- u b -
+041/135	ub	1	- u b -
+041/139	ub	1	- u b -
+041/141	hob	1	h o b -
+041/145	ub	1	- u b -
+041/147	ub	1	- u b -
+041/153	bauw	1	b au w -
+041/155	bauw	1	b au w -
+041/157	bah	1	b ah - -
+041/159	NA	NA	- - - - -
+041/161	bauw	1	b au w -
+042/033	bow	1	b o w -
+042/035	bow	1	b o w -
+042/037	boww	1	b o ww -
+042/039	bov	1	b o v -
+042/041	buoab	1	b uoa b -
+042/043	NA	NA	- - - - -
+042/045	bub	1	b u b -
+042/047	bov	1	b o v -
+042/051	bob	1	b o b -
+042/053	bob	1	b o b -
+042/055	bab	1	b a b -
+042/057	boab	1	b oa b -
+042/059	bab	1	b a b -
+042/061	NA	NA	- - - - -
+042/063	bab	1	b a b -
+042/065	ob	1	- o b -
+042/067	NA	NA	- - - - -
+042/069	bob	1	b o b -
+042/071	ob	1	- o b -
+042/073	ob	1	- o b -
+042/075	bo	1	b o - -
+042/077	bob	1	b o b -
+042/079	bob	1	b o b -
+042/081	NA	NA	- - - - -
+042/083	bo	1	b o - -
+042/085	NA	NA	- - - - -
+042/087	bau	1	b au - -
+042/089	bobb	1	b o bb -
+042/091	bau	1	b au - -
+042/093	bau	1	b au - -
+042/095	NA	NA	- - - - -
+042/097	ob	1	- o b -
+042/099	bah	1	b ah - -
+042/101	boa	1	b oa - -
+042/103	bah	1	b ah - -
+042/105	ob	1	- o b -
+042/107	boom	1	b oo m -
+042/109	boo	1	b oo - -
+042/111	boam	1	b oa m -
+042/113	ob	1	- o b -
+042/115	ob	1	- o b -
+042/117	ob	1	- o b -
+042/119	boa	1	b oa - -
+042/121	boa	1	b oa - -
+042/123	ob	1	- o b -
+042/125	ow	1	- o w -
+042/127	ob	1	- o b -
+042/129	ow	1	- o w -
+042/131	ub	1	- u b -
+042/133	ub	1	- u b -
+042/135	NA	NA	- - - - -
+042/137	ub	1	- u b -
+042/139	ub	1	- u b -
+042/141	ub	1	- u b -
+042/143	NA	NA	- - - - -
+042/145	ub	1	- u b -
+042/147	ub	1	- u b -
+042/149	ub	1	- u b -
+042/151	ub	1	- u b -
+042/157	bäuw	1	b äu w -
+042/159	bow	1	b o w -
+042/161	bauw	1	b au w -
+043/033	bow	1	b o w -
+043/035	boav	1	b oa v -
+043/037	NA	NA	- - - - -
+043/039	buav	1	b ua v -
+043/041	bob	1	b o b -
+043/043	buaw	1	b ua w -
+043/045	buaub	1	b uau b -
+043/047	bah	1	b ah - -
+043/049	buab	1	b ua b -
+043/051	bab	1	b a b -
+043/053	bob	1	b o b -
+043/055	boab	1	b oa b -
+043/057	boaw	1	b oa w -
+043/059	bab	1	b a b -
+043/061	NA	NA	- - - - -
+043/063	boom	1	b oo m -
+043/065	NA	NA	- - - - -
+043/067	NA	NA	- - - - -
+043/069	bom	1	b o m -
+043/071	bum	1	b u m -
+043/073	NA	NA	- - - - -
+043/075	bob	1	b o b -
+043/077	bob	1	b o b -
+043/079	bob	1	b o b -
+043/081	ob	1	- o b -
+043/083	ohm	1	- oh m -
+043/085	bomm	1	b o mm -
+043/087	ohm	1	- oh m -
+043/089	bomm	1	b o mm -
+043/091	ob	1	- o b -
+043/093	bah	1	b ah - -
+043/095	NA	NA	- - - - -
+043/097	bah	1	b ah - -
+043/099	ba	1	b a - -
+043/101	ba	1	b a - -
+043/103	ba	1	b a - -
+043/105	ba	1	b a - -
+043/107	bo	1	b o - -
+043/109	boa	1	b oa - -
+043/111	boa	1	b oa - -
+043/113	ob	1	- o b -
+043/115	ob	1	- o b -
+043/117	ob	1	- o b -
+043/119	ob	1	- o b -
+043/121	ob	1	- o b -
+043/123	ow	1	- o w -
+043/125	ob	1	- o b -
+043/127	ow	1	- o w -
+043/129	ob	1	- o b -
+043/131	ub	1	- u b -
+043/133	ob	1	- o b -
+043/135	ub	1	- u b -
+043/137	ub	1	- u b -
+043/141	ub	1	- u b -
+043/143	ub	1	- u b -
+043/145	ub	1	- u b -
+043/151	NA	NA	- - - - -
+043/153	ub	1	- u b -
+043/159	NA	NA	- - - - -
+043/161	ob	1	- o b -
+044/033	buow	1	b uo w -
+044/035	bouff	1	b ou ff -
+044/039	buoam	1	b uoa m -
+044/041	buab	1	b ua b -
+044/043	buab	1	b ua b -
+044/045	buoab	1	b uoa b -
+044/047	boab	1	b oa b -
+044/049	buab	1	b ua b -
+044/051	burb	1	b ur b -
+044/053	bob	1	b o b -
+044/055	NA	NA	- - - - -
+044/057	baam	1	b aa m -
+044/059	bab	1	b a b -
+044/061	bow	1	b o w -
+044/063	bäob	1	b äo b -
+044/065	beob	1	b eo b -
+044/067	bob	1	b o b -
+044/069	buob	1	b uo b -
+044/071	bum	1	b u m -
+044/073	bob	1	b o b -
+044/075	bob	1	b o b -
+044/077	bom	1	b o m -
+044/079	bo	1	b o - -
+044/081	bob	1	b o b -
+044/083	bob	1	b o b -
+044/085	NA	NA	- - - - -
+044/087	ohm	1	- oh m -
+044/089	ob	1	- o b -
+044/091	ob	1	- o b -
+044/093	ob	1	- o b -
+044/095	ob	1	- o b -
+044/097	ba	1	b a - -
+044/099	boah	1	b oah - -
+044/101	boa	1	b oa - -
+044/103	boah	1	b oah - -
+044/105	boa	1	b oa - -
+044/107	boh	1	b oh - -
+044/109	boa	1	b oa - -
+044/111	boa	1	b oa - -
+044/113	ob	1	- o b -
+044/115	ob	1	- o b -
+044/117	NA	NA	- - - - -
+044/119	ob	1	- o b -
+044/121	ow	1	- o w -
+044/123	ow	1	- o w -
+044/125	NA	NA	- - - - -
+044/127	aob	1	- ao b -
+044/129	ob	1	- o b -
+044/131	ub	1	- u b -
+044/133	ub	1	- u b -
+044/135	ub	1	- u b -
+044/137	ub	1	- u b -
+044/141	ub	1	- u b -
+044/143	ub	1	- u b -
+044/145	ub	1	- u b -
+044/149	ub	1	- u b -
+044/151	ub	1	- u b -
+044/153	ub	1	- u b -
+045/033	buow	1	b uo w -
+045/035	buaow	1	b uao w -
+045/037	buoam	1	b uoa m -
+045/039	bom	1	b o m -
+045/041	buaww	1	b ua ww -
+045/043	buow	1	b uo w -
+045/045	buauw	1	b uau w -
+045/047	bua	1	b ua - -
+045/049	biorw	1	b ior w -
+045/051	NA	NA	- - - - -
+045/053	boub	1	b ou b -
+045/055	bob	1	b o b -
+045/057	bow	1	b o w -
+045/059	bow	1	b o w -
+045/061	NA	NA	- - - - -
+045/063	NA	NA	- - - - -
+045/065	NA	NA	- - - - -
+045/067	bäub	1	b äu b -
+045/069	beob	1	b eo b -
+045/071	bob	1	b o b -
+045/073	boo	1	b oo - -
+045/075	NA	NA	- - - - -
+045/077	ob	1	- o b -
+045/079	bob	1	b o b -
+045/081	bob	1	b o b -
+045/083	bob	1	b o b -
+045/085	om	1	- o m -
+045/087	bob	1	b o b -
+045/089	ob	1	- o b -
+045/091	ob	1	- o b -
+045/093	ob	1	- o b -
+045/095	bah	1	b ah - -
+045/097	ob	1	- o b -
+045/099	boa	1	b oa - -
+045/101	boa	1	b oa - -
+045/103	NA	NA	- - - - -
+045/105	boa	1	b oa - -
+045/107	boa	1	b oa - -
+045/109	boa	1	b oa - -
+045/111	NA	NA	- - - - -
+045/113	ob	1	- o b -
+045/115	ob	1	- o b -
+045/117	ob	1	- o b -
+045/119	ob	1	- o b -
+045/121	ob	1	- o b -
+045/123	NA	NA	- - - - -
+045/125	ob	1	- o b -
+045/127	ob	1	- o b -
+045/129	ub	1	- u b -
+045/131	NA	NA	- - - - -
+045/133	ub	1	- u b -
+045/135	ub	1	- u b -
+045/137	ub	1	- u b -
+045/139	hub	1	h u b -
+045/141	hub	1	h u b -
+045/143	ub	1	- u b -
+045/145	ub	1	- u b -
+045/155	ub	1	- u b -
+046/031	baoww	1	b ao ww -
+046/033	bob	1	b o b -
+046/035	bouw	1	b ou w -
+046/037	NA	NA	- - - - -
+046/039	boov	1	b oo v -
+046/041	buob	1	b uo b -
+046/043	buav	1	b ua v -
+046/045	NA	NA	- - - - -
+046/047	bow	1	b o w -
+046/049	buab	1	b ua b -
+046/051	bua	1	b ua - -
+046/053	bob	1	b o b -
+046/055	bob	1	b o b -
+046/057	bom	1	b o m -
+046/059	bob	1	b o b -
+046/061	bob	1	b o b -
+046/063	beaum	1	b eau m -
+046/065	buob	1	b uo b -
+046/067	boub	1	b ou b -
+046/069	bob	1	b o b -
+046/071	ohm	1	- oh m -
+046/073	boob	1	b oo b -
+046/075	bob	1	b o b -
+046/077	ob	1	- o b -
+046/079	bob	1	b o b -
+046/081	NA	NA	- - - - -
+046/083	ob	1	- o b -
+046/085	ob	1	- o b -
+046/087	ob	1	- o b -
+046/089	ob	1	- o b -
+046/091	ohm	1	- oh m -
+046/093	om	1	- o m -
+046/095	NA	NA	- - - - -
+046/097	ba	1	b a - -
+046/099	ob	1	- o b -
+046/101	ob	1	- o b -
+046/103	bah	1	b ah - -
+046/105	boa	1	b oa - -
+046/107	boa	1	b oa - -
+046/109	ob	1	- o b -
+046/111	ob	1	- o b -
+046/113	ob	1	- o b -
+046/115	NA	NA	- - - - -
+046/117	ob	1	- o b -
+046/119	ob	1	- o b -
+046/121	ob	1	- o b -
+046/123	ob	1	- o b -
+046/125	ub	1	- u b -
+046/127	ob	1	- o b -
+046/129	NA	NA	- - - - -
+046/131	hub	1	h u b -
+046/133	hub	1	h u b -
+046/135	NA	NA	- - - - -
+046/137	ub	1	- u b -
+046/139	NA	NA	- - - - -
+046/141	ob	1	- o b -
+046/143	ub	1	- u b -
+046/155	ob	1	- o b -
+047/031	boaw	1	b oa w -
+047/033	bohw	1	b oh w -
+047/035	buaob	1	b uao b -
+047/037	boaww	1	b oa ww -
+047/039	NA	NA	- - - - -
+047/041	boaw	1	b oa w -
+047/043	buow	1	b uo w -
+047/045	buow	1	b uo w -
+047/047	NA	NA	- - - - -
+047/049	biäuw	1	b iäu w -
+047/051	boow	1	b oo w -
+047/053	bob	1	b o b -
+047/055	bob	1	b o b -
+047/057	bob	1	b o b -
+047/059	bom	1	b o m -
+047/061	beohm	1	b eoh m -
+047/063	bom	1	b o m -
+047/065	ub	1	- u b -
+047/067	bohm	1	b oh m -
+047/069	bob	1	b o b -
+047/071	bohm	1	b oh m -
+047/073	bu	1	b u - -
+047/075	bueb	1	b ue b -
+047/077	NA	NA	- - - - -
+047/079	oab	1	- oa b -
+047/081	ob	1	- o b -
+047/083	om	1	- o m -
+047/085	ob	1	- o b -
+047/087	NA	NA	- - - - -
+047/089	ob	1	- o b -
+047/091	boab	1	b oa b -
+047/093	ohm	1	- oh m -
+047/095	bahm	1	b ah m -
+047/097	ohm	1	- oh m -
+047/099	om	1	- o m -
+047/101	baa	1	b aa - -
+047/103	ob	1	- o b -
+047/105	boah	1	b oah - -
+047/107	boa	1	b oa - -
+047/109	ob	1	- o b -
+047/111	ob	1	- o b -
+047/113	ob	1	- o b -
+047/115	ob	1	- o b -
+047/117	ob	1	- o b -
+047/119	NA	NA	- - - - -
+047/123	ob	1	- o b -
+047/125	ob	1	- o b -
+047/127	ob	1	- o b -
+047/129	ub	1	- u b -
+047/131	hob	1	h o b -
+047/133	haub	1	h au b -
+047/135	ub	1	- u b -
+047/137	ub	1	- u b -
+047/139	uoaub	1	- uoau b -
+047/141	aub	1	- au b -
+047/147	aub	1	- au b -
+047/149	NA	NA	- - - - -
+047/151	NA	NA	- - - - -
+047/159	ub	1	- u b -
+048/021	bow	1	b o w -
+048/023	boow	1	b oo w -
+048/027	boww	1	b o ww -
+048/029	boww	1	b o ww -
+048/031	bouw	1	b ou w -
+048/033	NA	NA	- - - - -
+048/035	buob	1	b uo b -
+048/037	buaob	1	b uao b -
+048/039	boaw	1	b oa w -
+048/041	buoam	1	b uoa m -
+048/045	buov	1	b uo v -
+048/047	buom	1	b uo m -
+048/049	buob	1	b uo b -
+048/051	boam	1	b oa m -
+048/053	bob	1	b o b -
+048/055	bob	1	b o b -
+048/057	bob	1	b o b -
+048/059	bo	1	b o - -
+048/061	bab	1	b a b -
+048/063	eob	1	- eo b -
+048/065	aub	1	- au b -
+048/067	bob	1	b o b -
+048/069	ob	1	- o b -
+048/071	uh	1	- uh - -
+048/073	NA	NA	- - - - -
+048/075	uob	1	- uo b -
+048/077	ob	1	- o b -
+048/079	bob	1	b o b -
+048/081	ob	1	- o b -
+048/083	oob	1	- oo b -
+048/085	ob	1	- o b -
+048/087	ob	1	- o b -
+048/089	ob	1	- o b -
+048/091	oh	1	- oh - -
+048/093	ba	1	b a - -
+048/095	ob	1	- o b -
+048/099	om	1	- o m -
+048/101	ob	1	- o b -
+048/103	ohm	1	- oh m -
+048/105	NA	NA	- - - - -
+048/107	om	1	- o m -
+048/109	NA	NA	- - - - -
+048/111	oob	1	- oo b -
+048/113	ob	1	- o b -
+048/115	ob	1	- o b -
+048/119	ob	1	- o b -
+048/123	ob	1	- o b -
+048/125	om	1	- o m -
+048/127	NA	NA	- - - - -
+048/129	hum	1	h u m -
+048/131	aob	1	- ao b -
+048/133	aub	1	- au b -
+048/135	aub	1	- au b -
+048/137	houb	1	h ou b -
+048/139	aub	1	- au b -
+048/141	aub	1	- au b -
+048/143	aub	1	- au b -
+048/145	aub	1	- au b -
+048/147	aub	1	- au b -
+048/153	aub	1	- au b -
+048/157	aub	1	- au b -
+048/159	ub	1	- u b -
+049/019	boav	1	b oa v -
+049/021	bov	1	b o v -
+049/023	bov	1	b o v -
+049/025	boow	1	b oo w -
+049/027	boww	1	b o ww -
+049/029	bow	1	b o w -
+049/031	bov	1	b o v -
+049/033	boaw	1	b oa w -
+049/035	buob	1	b uo b -
+049/037	buov	1	b uo v -
+049/039	NA	NA	- - - - -
+049/041	bouaw	1	b oua w -
+049/043	buoaw	1	b uoa w -
+049/045	buao	1	b uao - -
+049/047	bur	1	b u r -
+049/049	buow	1	b uo w -
+049/051	buow	1	b uo w -
+049/053	bouw	1	b ou w -
+049/055	bob	1	b o b -
+049/057	uow	1	- uo w -
+049/059	beouw	1	b eou w -
+049/061	eob	1	- eo b -
+049/063	NA	NA	- - - - -
+049/065	ob	1	- o b -
+049/067	ob	1	- o b -
+049/069	oom	1	- oo m -
+049/071	uob	1	- uo b -
+049/073	uhm	1	- uh m -
+049/077	ob	1	- o b -
+049/079	ob	1	- o b -
+049/081	ob	1	- o b -
+049/083	oab	1	- oa b -
+049/085	ob	1	- o b -
+049/087	ob	1	- o b -
+049/089	NA	NA	- - - - -
+049/091	ow	1	- o w -
+049/093	NA	NA	- - - - -
+049/095	om	1	- o m -
+049/097	NA	NA	- - - - -
+049/099	om	1	- o m -
+049/101	ob	1	- o b -
+049/103	ow	1	- o w -
+049/105	om	1	- o m -
+049/107	ohm	1	- oh m -
+049/109	om	1	- o m -
+049/111	ob	1	- o b -
+049/113	ob	1	- o b -
+049/115	ob	1	- o b -
+049/117	ob	1	- o b -
+049/119	ob	1	- o b -
+049/121	ob	1	- o b -
+049/123	ob	1	- o b -
+049/125	ob	1	- o b -
+049/127	ub	1	- u b -
+049/129	hub	1	h u b -
+049/131	ub	1	- u b -
+049/133	aub	1	- au b -
+049/135	auub	1	- auu b -
+049/137	aub	1	- au b -
+049/139	aub	1	- au b -
+049/141	aub	1	- au b -
+049/143	NA	NA	- - - - -
+049/145	oaub	1	- oau b -
+049/147	aub	1	- au b -
+049/151	NA	NA	- - - - -
+050/021	bohw	1	b oh w -
+050/023	uww	1	- u ww -
+050/025	bow	1	b o w -
+050/027	boow	1	b oo w -
+050/029	bow	1	b o w -
+050/031	NA	NA	- - - - -
+050/033	buom	1	b uo m -
+050/035	buam	1	b ua m -
+050/037	NA	NA	- - - - -
+050/039	buob	1	b uo b -
+050/041	boam	1	b oa m -
+050/043	buaw	1	b ua w -
+050/047	buow	1	b uo w -
+050/049	NA	NA	- - - - -
+050/051	ouw	1	- ou w -
+050/053	buow	1	b uo w -
+050/055	uaw	1	- ua w -
+050/057	uaw	1	- ua w -
+050/059	uw	1	- u w -
+050/061	oab	1	- oa b -
+050/063	om	1	- o m -
+050/065	ob	1	- o b -
+050/067	ob	1	- o b -
+050/069	uob	1	- uo b -
+050/071	uhm	1	- uh m -
+050/073	ob	1	- o b -
+050/075	uhm	1	- uh m -
+050/077	ob	1	- o b -
+050/079	ob	1	- o b -
+050/081	ob	1	- o b -
+050/083	ob	1	- o b -
+050/085	ob	1	- o b -
+050/087	ob	1	- o b -
+050/089	ohm	1	- oh m -
+050/091	om	1	- o m -
+050/093	ohm	1	- oh m -
+050/095	ob	1	- o b -
+050/097	ob	1	- o b -
+050/099	ohm	1	- oh m -
+050/101	ob	1	- o b -
+050/103	ob	1	- o b -
+050/105	ob	1	- o b -
+050/107	ob	1	- o b -
+050/109	ob	1	- o b -
+050/111	ob	1	- o b -
+050/113	NA	NA	- - - - -
+050/115	ob	1	- o b -
+050/117	ob	1	- o b -
+050/119	ob	1	- o b -
+050/121	ob	1	- o b -
+050/125	ob	1	- o b -
+050/127	hub	1	h u b -
+050/129	hub	1	h u b -
+050/131	NA	NA	- - - - -
+050/133	aub	1	- au b -
+050/135	aub	1	- au b -
+050/137	NA	NA	- - - - -
+050/139	aub	1	- au b -
+050/141	oub	1	- ou b -
+050/143	aub	1	- au b -
+050/145	draub	1	dr au b -
+050/147	aub	1	- au b -
+050/149	aub	1	- au b -
+050/151	aub	1	- au b -
+050/155	NA	NA	- - - - -
+050/157	aub	1	- au b -
+050/159	aub	1	- au b -
+050/161	NA	NA	- - - - -
+051/023	bao	1	b ao - -
+051/025	bov	1	b o v -
+051/027	bow	1	b o w -
+051/029	bow	1	b o w -
+051/031	aov	1	- ao v -
+051/033	buaw	1	b ua w -
+051/035	buaw	1	b ua w -
+051/037	boam	1	b oa m -
+051/039	buaow	1	b uao w -
+051/041	bow	1	b o w -
+051/043	bo	1	b o - -
+051/045	buov	1	b uo v -
+051/047	NA	NA	- - - - -
+051/049	ouw	1	- ou w -
+051/051	NA	NA	- - - - -
+051/053	uow	1	- uo w -
+051/055	oaw	1	- oa w -
+051/057	uow	1	- uo w -
+051/059	uaw	1	- ua w -
+051/061	ob	1	- o b -
+051/063	uw	1	- u w -
+051/065	ob	1	- o b -
+051/067	ob	1	- o b -
+051/069	oom	1	- oo m -
+051/071	NA	NA	- - - - -
+051/073	uob	1	- uo b -
+051/075	ob	1	- o b -
+051/077	ob	1	- o b -
+051/079	ow	1	- o w -
+051/081	ob	1	- o b -
+051/083	ab	1	- a b -
+051/085	ub	1	- u b -
+051/087	uuw	1	- uu w -
+051/089	ob	1	- o b -
+051/091	ob	1	- o b -
+051/093	ohm	1	- oh m -
+051/095	oh	1	- oh - -
+051/097	oh	1	- oh - -
+051/099	oh	1	- oh - -
+051/101	oh	1	- oh - -
+051/103	ob	1	- o b -
+051/105	ow	1	- o w -
+051/107	ob	1	- o b -
+051/109	ob	1	- o b -
+051/111	ob	1	- o b -
+051/113	ob	1	- o b -
+051/115	ob	1	- o b -
+051/117	hob	1	h o b -
+051/119	ob	1	- o b -
+051/121	ob	1	- o b -
+051/123	NA	NA	- - - - -
+051/125	hub	1	h u b -
+051/127	hub	1	h u b -
+051/129	hub	1	h u b -
+051/131	NA	NA	- - - - -
+051/133	ub	1	- u b -
+051/135	NA	NA	- - - - -
+051/137	aub	1	- au b -
+051/139	aub	1	- au b -
+051/141	aub	1	- au b -
+051/143	aub	1	- au b -
+051/145	draub	1	dr au b -
+051/147	auub	1	- auu b -
+051/149	aub	1	- au b -
+051/151	NA	NA	- - - - -
+051/153	aub	1	- au b -
+051/155	aub	1	- au b -
+051/157	aub	1	- au b -
+052/023	boov	1	b oo v -
+052/025	bauw	1	b au w -
+052/027	NA	NA	- - - - -
+052/029	bov	1	b o v -
+052/031	bow	1	b o w -
+052/033	bo	1	b o - -
+052/035	NA	NA	- - - - -
+052/037	bouv	1	b ou v -
+052/039	oaw	1	- oa w -
+052/041	bua	1	b ua - -
+052/043	oaw	1	- oa w -
+052/045	ob	1	- o b -
+052/047	uouw	1	- uou w -
+052/049	NA	NA	- - - - -
+052/051	uaw	1	- ua w -
+052/053	uew	1	- ue w -
+052/057	uw	1	- u w -
+052/059	uow	1	- uo w -
+052/061	aw	1	- a w -
+052/063	NA	NA	- - - - -
+052/065	ohm	1	- oh m -
+052/067	oh	1	- oh - -
+052/069	oh	1	- oh - -
+052/071	ub	1	- u b -
+052/073	ohm	1	- oh m -
+052/075	aab	1	- aa b -
+052/077	ob	1	- o b -
+052/079	ab	1	- a b -
+052/081	ab	1	- a b -
+052/083	ub	1	- u b -
+052/085	ub	1	- u b -
+052/087	uw	1	- u w -
+052/089	ohm	1	- oh m -
+052/091	ob	1	- o b -
+052/093	uob	1	- uo b -
+052/095	ohm	1	- oh m -
+052/097	ob	1	- o b -
+052/099	ohm	1	- oh m -
+052/101	NA	NA	- - - - -
+052/103	ob	1	- o b -
+052/105	ob	1	- o b -
+052/107	ob	1	- o b -
+052/109	ob	1	- o b -
+052/111	ob	1	- o b -
+052/113	ob	1	- o b -
+052/115	hob	1	h o b -
+052/117	ob	1	- o b -
+052/121	ob	1	- o b -
+052/123	hob	1	h o b -
+052/125	ub	1	- u b -
+052/127	ub	1	- u b -
+052/129	ub	1	- u b -
+052/131	ub	1	- u b -
+052/133	ub	1	- u b -
+052/135	ub	1	- u b -
+052/137	aub	1	- au b -
+052/139	aub	1	- au b -
+052/141	aub	1	- au b -
+052/143	ub	1	- u b -
+052/145	aub	1	- au b -
+052/147	aub	1	- au b -
+052/149	aub	1	- au b -
+052/151	aub	1	- au b -
+052/153	NA	NA	- - - - -
+052/155	NA	NA	- - - - -
+052/157	aub	1	- au b -
+052/159	aub	1	- au b -
+053/023	bow	1	b o w -
+053/025	bov	1	b o v -
+053/027	bow	1	b o w -
+053/029	boow	1	b oo w -
+053/031	bow	1	b o w -
+053/033	uaw	1	- ua w -
+053/035	uow	1	- uo w -
+053/037	oub	1	- ou b -
+053/039	uam	1	- ua m -
+053/041	ow	1	- o w -
+053/043	uov	1	- uo v -
+053/045	NA	NA	- - - - -
+053/047	uoaw	1	- uoa w -
+053/049	uav	1	- ua v -
+053/051	uab	1	- ua b -
+053/053	uw	1	- u w -
+053/055	iow	1	- io w -
+053/057	uow	1	- uo w -
+053/059	ow	1	- o w -
+053/061	ob	1	- o b -
+053/063	ob	1	- o b -
+053/065	ohm	1	- oh m -
+053/067	ob	1	- o b -
+053/069	om	1	- o m -
+053/071	oob	1	- oo b -
+053/073	ohm	1	- oh m -
+053/075	ab	1	- a b -
+053/077	ahw	1	- ah w -
+053/079	ab	1	- a b -
+053/081	ouw	1	- ou w -
+053/083	NA	NA	- - - - -
+053/085	NA	NA	- - - - -
+053/087	uw	1	- u w -
+053/089	uhm	1	- uh m -
+053/091	om	1	- o m -
+053/093	ub	1	- u b -
+053/095	ob	1	- o b -
+053/097	ob	1	- o b -
+053/099	ohm	1	- oh m -
+053/101	NA	NA	- - - - -
+053/103	ob	1	- o b -
+053/105	uom	1	- uo m -
+053/107	uob	1	- uo b -
+053/109	NA	NA	- - - - -
+053/111	huäm	1	h uä m -
+053/113	ub	1	- u b -
+053/115	ub	1	- u b -
+053/121	ob	1	- o b -
+053/123	hub	1	h u b -
+053/125	ob	1	- o b -
+053/127	ub	1	- u b -
+053/129	ub	1	- u b -
+053/131	ub	1	- u b -
+053/133	ub	1	- u b -
+053/135	ub	1	- u b -
+053/137	aub	1	- au b -
+053/139	aub	1	- au b -
+053/141	aub	1	- au b -
+053/143	aub	1	- au b -
+053/145	aub	1	- au b -
+053/147	aub	1	- au b -
+053/149	NA	NA	- - - - -
+053/151	NA	NA	- - - - -
+053/153	aub	1	- au b -
+053/155	aub	1	- au b -
+053/157	ob	1	- o b -
+054/023	boav	1	b oa v -
+054/025	bov	1	b o v -
+054/027	bov	1	b o v -
+054/029	bow	1	b o w -
+054/031	bow	1	b o w -
+054/033	ow	1	- o w -
+054/035	buam	1	b ua m -
+054/037	uaww	1	- ua ww -
+054/039	uow	1	- uo w -
+054/041	uow	1	- uo w -
+054/043	ow	1	- o w -
+054/045	uow	1	- uo w -
+054/047	uoaww	1	- uoa ww -
+054/049	uab	1	- ua b -
+054/051	uäw	1	- uä w -
+054/053	uob	1	- uo b -
+054/055	oww	1	- o ww -
+054/057	ab	1	- a b -
+054/059	ob	1	- o b -
+054/061	ob	1	- o b -
+054/063	ow	1	- o w -
+054/065	ob	1	- o b -
+054/067	ow	1	- o w -
+054/069	om	1	- o m -
+054/071	ab	1	- a b -
+054/073	ab	1	- a b -
+054/075	aab	1	- aa b -
+054/077	NA	NA	- - - - -
+054/079	ub	1	- u b -
+054/081	ub	1	- u b -
+054/083	ub	1	- u b -
+054/085	uw	1	- u w -
+054/087	uw	1	- u w -
+054/089	uhm	1	- uh m -
+054/091	uh	1	- uh - -
+054/093	uh	1	- uh - -
+054/095	uh	1	- uh - -
+054/097	ohm	1	- oh m -
+054/099	ob	1	- o b -
+054/101	uhm	1	- uh m -
+054/103	uh	1	- uh - -
+054/105	o	1	- o - -
+054/107	oum	1	- ou m -
+054/109	ub	1	- u b -
+054/111	ub	1	- u b -
+054/113	hubb	1	h u bb -
+054/115	ub	1	- u b -
+054/117	ub	1	- u b -
+054/119	ub	1	- u b -
+054/121	ob	1	- o b -
+054/123	ub	1	- u b -
+054/125	hub	1	h u b -
+054/127	ub	1	- u b -
+054/131	ub	1	- u b -
+054/133	ub	1	- u b -
+054/135	ub	1	- u b -
+054/137	ob	1	- o b -
+054/139	aub	1	- au b -
+054/141	aub	1	- au b -
+054/143	aub	1	- au b -
+054/145	NA	NA	- - - - -
+054/147	aub	1	- au b -
+054/149	aub	1	- au b -
+054/151	aub	1	- au b -
+054/153	aub	1	- au b -
+054/155	oub	1	- ou b -
+054/157	aub	1	- au b -
+054/159	ub	1	- u b -
+054/161	ub	1	- u b -
+054/163	NA	NA	- - - - -
+055/023	boav	1	b oa v -
+055/025	boav	1	b oa v -
+055/027	boov	1	b oo v -
+055/029	bof	1	b o f -
+055/031	oew	1	- oe w -
+055/033	bow	1	b o w -
+055/035	uow	1	- uo w -
+055/037	NA	NA	- - - - -
+055/039	ouw	1	- ou w -
+055/041	oaw	1	- oa w -
+055/043	ow	1	- o w -
+055/045	NA	NA	- - - - -
+055/047	uow	1	- uo w -
+055/049	uaw	1	- ua w -
+055/051	uob	1	- uo b -
+055/053	oww	1	- o ww -
+055/055	oww	1	- o ww -
+055/057	ob	1	- o b -
+055/059	ob	1	- o b -
+055/061	ow	1	- o w -
+055/063	ob	1	- o b -
+055/065	ub	1	- u b -
+055/067	ouw	1	- ou w -
+055/069	ow	1	- o w -
+055/071	NA	NA	- - - - -
+055/073	oaw	1	- oa w -
+055/075	oub	1	- ou b -
+055/077	NA	NA	- - - - -
+055/079	oub	1	- ou b -
+055/081	um	1	- u m -
+055/083	oub	1	- ou b -
+055/085	ub	1	- u b -
+055/087	NA	NA	- - - - -
+055/089	ub	1	- u b -
+055/091	um	1	- u m -
+055/093	NA	NA	- - - - -
+055/095	uhm	1	- uh m -
+055/097	ohm	1	- oh m -
+055/099	oom	1	- oo m -
+055/101	um	1	- u m -
+055/103	NA	NA	- - - - -
+055/105	uum	1	- uu m -
+055/107	ub	1	- u b -
+055/109	um	1	- u m -
+055/111	ub	1	- u b -
+055/113	uhm	1	- uh m -
+055/115	hub	1	h u b -
+055/117	NA	NA	- - - - -
+055/119	hub	1	h u b -
+055/123	NA	NA	- - - - -
+055/125	hub	1	h u b -
+055/127	ub	1	- u b -
+055/131	ub	1	- u b -
+055/133	ub	1	- u b -
+055/135	ub	1	- u b -
+055/137	ub	1	- u b -
+055/139	ub	1	- u b -
+055/141	ob	1	- o b -
+055/143	ub	1	- u b -
+055/145	aub	1	- au b -
+055/147	aub	1	- au b -
+055/149	NA	NA	- - - - -
+055/151	NA	NA	- - - - -
+055/153	ub	1	- u b -
+055/155	aub	1	- au b -
+055/157	NA	NA	- - - - -
+055/159	ub	1	- u b -
+055/161	ob	1	- o b -
+056/021	bov	1	b o v -
+056/023	boav	1	b oa v -
+056/025	oeev	1	- oee v -
+056/027	NA	NA	- - - - -
+056/029	oow	1	- oo w -
+056/031	boof	1	b oo f -
+056/033	ow	1	- o w -
+056/035	ow	1	- o w -
+056/037	uow	1	- uo w -
+056/039	uaw	1	- ua w -
+056/041	uah	1	- uah - -
+056/043	uaw	1	- ua w -
+056/045	heougen	1	h eou g en
+056/047	oaw	1	- oa w -
+056/049	uaw	1	- ua w -
+056/051	uew	1	- ue w -
+056/053	NA	NA	- - - - -
+056/055	oav	1	- oa v -
+056/057	ow	1	- o w -
+056/059	NA	NA	- - - - -
+056/061	ow	1	- o w -
+056/063	ow	1	- o w -
+056/065	ow	1	- o w -
+056/067	uob	1	- uo b -
+056/069	ow	1	- o w -
+056/071	oub	1	- ou b -
+056/073	NA	NA	- - - - -
+056/075	NA	NA	- - - - -
+056/077	NA	NA	- - - - -
+056/079	uhm	1	- uh m -
+056/081	oub	1	- ou b -
+056/083	NA	NA	- - - - -
+056/085	um	1	- u m -
+056/087	uhm	1	- uh m -
+056/089	NA	NA	- - - - -
+056/091	uhm	1	- uh m -
+056/093	uh	1	- uh - -
+056/095	NA	NA	- - - - -
+056/097	ub	1	- u b -
+056/099	ub	1	- u b -
+056/101	hum	1	h u m -
+056/103	uom	1	- uo m -
+056/105	uhem	1	- uhe m -
+056/107	uem	1	- ue m -
+056/109	uem	1	- ue m -
+056/111	um	1	- u m -
+056/113	uub	1	- uu b -
+056/115	ub	1	- u b -
+056/117	hub	1	h u b -
+056/121	ob	1	- o b -
+056/123	ub	1	- u b -
+056/125	NA	NA	- - - - -
+056/127	ub	1	- u b -
+056/129	ub	1	- u b -
+056/131	ub	1	- u b -
+056/133	ub	1	- u b -
+056/135	ub	1	- u b -
+056/137	üb	1	- ü b -
+056/139	NA	NA	- - - - -
+056/141	dub	1	d u b -
+056/143	ub	1	- u b -
+056/145	ob	1	- o b -
+056/147	NA	NA	- - - - -
+056/149	aub	1	- au b -
+056/151	ob	1	- o b -
+056/153	aub	1	- au b -
+056/155	NA	NA	- - - - -
+056/157	NA	NA	- - - - -
+056/159	ub	1	- u b -
+056/161	ub	1	- u b -
+057/021	ov	1	- o v -
+057/023	oav	1	- oa v -
+057/025	NA	NA	- - - - -
+057/027	oav	1	- oa v -
+057/029	ooaf	1	- ooa f -
+057/031	oww	1	- o ww -
+057/033	ow	1	- o w -
+057/035	ohw	1	- oh w -
+057/037	oww	1	- o ww -
+057/039	uow	1	- uo w -
+057/041	uuaw	1	- uua w -
+057/043	uäw	1	- uä w -
+057/045	uab	1	- ua b -
+057/047	NA	NA	- - - - -
+057/049	uaw	1	- ua w -
+057/051	ow	1	- o w -
+057/053	oaw	1	- oa w -
+057/055	ob	1	- o b -
+057/057	oob	1	- oo b -
+057/059	ob	1	- o b -
+057/061	ob	1	- o b -
+057/063	ow	1	- o w -
+057/065	ow	1	- o w -
+057/067	ow	1	- o w -
+057/069	ow	1	- o w -
+057/071	NA	NA	- - - - -
+057/073	NA	NA	- - - - -
+057/075	NA	NA	- - - - -
+057/077	uem	1	- ue m -
+057/079	uum	1	- uu m -
+057/081	ueb	1	- ue b -
+057/083	ow	1	- o w -
+057/085	um	1	- u m -
+057/087	ub	1	- u b -
+057/089	uw	1	- u w -
+057/091	um	1	- u m -
+057/093	uum	1	- uu m -
+057/095	NA	NA	- - - - -
+057/097	uhm	1	- uh m -
+057/099	ub	1	- u b -
+057/101	om	1	- o m -
+057/103	ub	1	- u b -
+057/105	ob	1	- o b -
+057/107	uhm	1	- uh m -
+057/109	ob	1	- o b -
+057/111	ub	1	- u b -
+057/113	uhm	1	- uh m -
+057/115	om	1	- o m -
+057/117	ub	1	- u b -
+057/119	ub	1	- u b -
+057/121	hub	1	h u b -
+057/123	ub	1	- u b -
+057/125	hub	1	h u b -
+057/127	ub	1	- u b -
+057/129	ub	1	- u b -
+057/131	ub	1	- u b -
+057/133	NA	NA	- - - - -
+057/135	ub	1	- u b -
+057/137	NA	NA	- - - - -
+057/139	ub	1	- u b -
+057/141	ub	1	- u b -
+057/143	ub	1	- u b -
+057/145	dub	1	d u b -
+057/147	ub	1	- u b -
+057/149	aub	1	- au b -
+057/151	aub	1	- au b -
+057/153	draub	1	dr au b -
+057/155	aub	1	- au b -
+057/157	ob	1	- o b -
+057/159	ub	1	- u b -
+057/161	ob	1	- o b -
+058/019	ooev	1	- ooe v -
+058/021	ov	1	- o v -
+058/023	bov	1	b o v -
+058/025	oev	1	- oe v -
+058/027	of	1	- o f -
+058/029	off	1	- o ff -
+058/031	ovv	1	- o vv -
+058/033	NA	NA	- - - - -
+058/035	ovv	1	- o vv -
+058/037	ohv	1	- oh v -
+058/039	uew	1	- ue w -
+058/041	uab	1	- ua b -
+058/043	uuaw	1	- uua w -
+058/045	uäw	1	- uä w -
+058/047	ow	1	- o w -
+058/049	ow	1	- o w -
+058/051	ow	1	- o w -
+058/053	ob	1	- o b -
+058/055	ow	1	- o w -
+058/057	NA	NA	- - - - -
+058/059	ow	1	- o w -
+058/061	ow	1	- o w -
+058/063	ow	1	- o w -
+058/065	ow	1	- o w -
+058/067	ow	1	- o w -
+058/069	NA	NA	- - - - -
+058/071	NA	NA	- - - - -
+058/073	uob	1	- uo b -
+058/075	uem	1	- ue m -
+058/077	ub	1	- u b -
+058/079	uab	1	- ua b -
+058/081	uäm	1	- uä m -
+058/083	uhm	1	- uh m -
+058/085	ub	1	- u b -
+058/087	ub	1	- u b -
+058/089	NA	NA	- - - - -
+058/091	uum	1	- uu m -
+058/093	uhm	1	- uh m -
+058/095	ub	1	- u b -
+058/097	uhm	1	- uh m -
+058/099	uub	1	- uu b -
+058/101	uhm	1	- uh m -
+058/103	ub	1	- u b -
+058/105	NA	NA	- - - - -
+058/107	ub	1	- u b -
+058/109	NA	NA	- - - - -
+058/111	ub	1	- u b -
+058/113	om	1	- o m -
+058/115	ob	1	- o b -
+058/117	ub	1	- u b -
+058/119	ub	1	- u b -
+058/121	NA	NA	- - - - -
+058/123	ub	1	- u b -
+058/125	NA	NA	- - - - -
+058/127	ub	1	- u b -
+058/129	drub	1	dr u b -
+058/131	ub	1	- u b -
+058/133	dub	1	d u b -
+058/135	ub	1	- u b -
+058/137	drubn	1	dr u b n
+058/139	ub	1	- u b -
+058/141	ub	1	- u b -
+058/143	NA	NA	- - - - -
+058/145	ub	1	- u b -
+058/147	ub	1	- u b -
+058/149	ub	1	- u b -
+058/151	ob	1	- o b -
+058/153	oub	1	- ou b -
+058/155	ub	1	- u b -
+058/157	NA	NA	- - - - -
+058/159	ub	1	- u b -
+059/019	NA	NA	- - - - -
+059/021	oaf	1	- oa f -
+059/023	oev	1	- oe v -
+059/025	oav	1	- oa v -
+059/027	off	1	- o ff -
+059/029	ovv	1	- o vv -
+059/031	NA	NA	- - - - -
+059/033	oww	1	- o ww -
+059/035	ovv	1	- o vv -
+059/037	oev	1	- oe v -
+059/039	oäv	1	- oä v -
+059/041	ooew	1	- ooe w -
+059/043	uew	1	- ue w -
+059/045	oew	1	- oe w -
+059/047	ow	1	- o w -
+059/049	ow	1	- o w -
+059/051	ow	1	- o w -
+059/053	NA	NA	- - - - -
+059/055	ow	1	- o w -
+059/057	ow	1	- o w -
+059/059	oiw	1	- oi w -
+059/061	ow	1	- o w -
+059/063	ow	1	- o w -
+059/065	oww	1	- o ww -
+059/067	ow	1	- o w -
+059/069	ub	1	- u b -
+059/071	ub	1	- u b -
+059/073	ub	1	- u b -
+059/075	uw	1	- u w -
+059/077	ob	1	- o b -
+059/079	uob	1	- uo b -
+059/081	uhm	1	- uh m -
+059/083	ub	1	- u b -
+059/085	ub	1	- u b -
+059/087	um	1	- u m -
+059/089	NA	NA	- - - - -
+059/091	ub	1	- u b -
+059/093	um	1	- u m -
+059/095	ob	1	- o b -
+059/097	uhm	1	- uh m -
+059/099	uh	1	- uh - -
+059/101	uh	1	- uh - -
+059/103	NA	NA	- - - - -
+059/105	uhm	1	- uh m -
+059/107	NA	NA	- - - - -
+059/109	NA	NA	- - - - -
+059/111	ub	1	- u b -
+059/113	um	1	- u m -
+059/115	ub	1	- u b -
+059/117	uhm	1	- uh m -
+059/119	hub	1	h u b -
+059/121	ub	1	- u b -
+059/123	ub	1	- u b -
+059/125	ub	1	- u b -
+059/127	NA	NA	- - - - -
+059/129	ub	1	- u b -
+059/131	drub	1	dr u b -
+059/133	ub	1	- u b -
+059/135	dub	1	d u b -
+059/137	ub	1	- u b -
+059/139	ub	1	- u b -
+059/141	ub	1	- u b -
+059/143	ub	1	- u b -
+059/145	ub	1	- u b -
+059/147	ub	1	- u b -
+059/149	drob	1	dr o b -
+059/151	NA	NA	- - - - -
+059/153	ub	1	- u b -
+059/155	ub	1	- u b -
+059/157	NA	NA	- - - - -
+059/159	ub	1	- u b -
+059/161	ub	1	- u b -
+059/165	ub	1	- u b -
+059/169	NA	NA	- - - - -
+060/021	ov	1	- o v -
+060/023	oav	1	- oa v -
+060/025	oaf	1	- oa f -
+060/027	off	1	- o ff -
+060/029	NA	NA	- - - - -
+060/031	öff	1	- ö ff -
+060/033	boww	1	b o ww -
+060/035	NA	NA	- - - - -
+060/037	oww	1	- o ww -
+060/039	ov	1	- o v -
+060/041	oww	1	- o ww -
+060/043	ow	1	- o w -
+060/045	ow	1	- o w -
+060/047	ow	1	- o w -
+060/049	ow	1	- o w -
+060/051	ow	1	- o w -
+060/053	ow	1	- o w -
+060/055	NA	NA	- - - - -
+060/057	ow	1	- o w -
+060/059	ow	1	- o w -
+060/061	ow	1	- o w -
+060/063	ow	1	- o w -
+060/065	ow	1	- o w -
+060/067	ob	1	- o b -
+060/069	ub	1	- u b -
+060/071	ob	1	- o b -
+060/073	ob	1	- o b -
+060/075	NA	NA	- - - - -
+060/077	uw	1	- u w -
+060/079	uäb	1	- uä b -
+060/081	uaam	1	- uaa m -
+060/083	ub	1	- u b -
+060/085	ub	1	- u b -
+060/087	oh	1	- oh - -
+060/089	ob	1	- o b -
+060/091	um	1	- u m -
+060/093	NA	NA	- - - - -
+060/095	uhm	1	- uh m -
+060/097	uh	1	- uh - -
+060/099	ub	1	- u b -
+060/101	uhm	1	- uh m -
+060/103	ub	1	- u b -
+060/105	um	1	- u m -
+060/107	ub	1	- u b -
+060/109	uhm	1	- uh m -
+060/111	oum	1	- ou m -
+060/113	uhm	1	- uh m -
+060/115	uh	1	- uh - -
+060/117	NA	NA	- - - - -
+060/119	ob	1	- o b -
+060/121	NA	NA	- - - - -
+060/123	ub	1	- u b -
+060/125	uhb	1	- uh b -
+060/127	ub	1	- u b -
+060/129	ub	1	- u b -
+060/131	NA	NA	- - - - -
+060/135	ub	1	- u b -
+060/137	ob	1	- o b -
+060/139	ub	1	- u b -
+060/141	ub	1	- u b -
+060/143	ub	1	- u b -
+060/145	ub	1	- u b -
+060/147	ub	1	- u b -
+060/149	NA	NA	- - - - -
+060/151	NA	NA	- - - - -
+060/153	drub	1	dr u b -
+060/155	ub	1	- u b -
+060/157	ub	1	- u b -
+060/159	ub	1	- u b -
+060/163	ub	1	- u b -
+060/165	NA	NA	- - - - -
+061/021	ovv	1	- o vv -
+061/023	oww	1	- o ww -
+061/025	oww	1	- o ww -
+061/027	oww	1	- o ww -
+061/029	off	1	- o ff -
+061/031	ovv	1	- o vv -
+061/033	oww	1	- o ww -
+061/035	off	1	- o ff -
+061/037	ovv	1	- o vv -
+061/039	oww	1	- o ww -
+061/041	ow	1	- o w -
+061/043	oaw	1	- oa w -
+061/045	ow	1	- o w -
+061/047	oew	1	- oe w -
+061/049	ow	1	- o w -
+061/051	ow	1	- o w -
+061/053	ow	1	- o w -
+061/055	ow	1	- o w -
+061/057	oab	1	- oa b -
+061/059	NA	NA	- - - - -
+061/061	ow	1	- o w -
+061/063	ow	1	- o w -
+061/065	ow	1	- o w -
+061/067	ow	1	- o w -
+061/069	ob	1	- o b -
+061/071	ow	1	- o w -
+061/073	ob	1	- o b -
+061/075	ob	1	- o b -
+061/077	ueb	1	- ue b -
+061/079	uom	1	- uo m -
+061/081	uab	1	- ua b -
+061/083	uhm	1	- uh m -
+061/085	uh	1	- uh - -
+061/087	uh	1	- uh - -
+061/089	ub	1	- u b -
+061/091	uhm	1	- uh m -
+061/093	uhm	1	- uh m -
+061/095	uhm	1	- uh m -
+061/097	um	1	- u m -
+061/099	NA	NA	- - - - -
+061/101	ub	1	- u b -
+061/103	om	1	- o m -
+061/105	um	1	- u m -
+061/107	ohm	1	- oh m -
+061/109	NA	NA	- - - - -
+061/111	NA	NA	- - - - -
+061/113	uum	1	- uu m -
+061/115	um	1	- u m -
+061/117	NA	NA	- - - - -
+061/119	NA	NA	- - - - -
+061/121	oob	1	- oo b -
+061/123	ub	1	- u b -
+061/125	ub	1	- u b -
+061/127	ub	1	- u b -
+061/129	NA	NA	- - - - -
+061/131	ub	1	- u b -
+061/133	ub	1	- u b -
+061/137	ub	1	- u b -
+061/139	ub	1	- u b -
+061/141	ub	1	- u b -
+061/143	ub	1	- u b -
+061/145	ub	1	- u b -
+061/147	ub	1	- u b -
+061/149	ub	1	- u b -
+061/151	ub	1	- u b -
+061/153	ub	1	- u b -
+061/155	ub	1	- u b -
+061/157	ub	1	- u b -
+061/159	ub	1	- u b -
+061/161	ub	1	- u b -
+061/165	ub	1	- u b -
+062/021	ow	1	- o w -
+062/023	of	1	- o f -
+062/025	ovv	1	- o vv -
+062/027	oww	1	- o ww -
+062/029	NA	NA	- - - - -
+062/031	off	1	- o ff -
+062/033	ooww	1	- oo ww -
+062/035	NA	NA	- - - - -
+062/037	off	1	- o ff -
+062/039	oww	1	- o ww -
+062/041	ow	1	- o w -
+062/043	aw	1	- a w -
+062/045	uw	1	- u w -
+062/047	ow	1	- o w -
+062/049	ow	1	- o w -
+062/051	ow	1	- o w -
+062/053	oow	1	- oo w -
+062/055	NA	NA	- - - - -
+062/057	ow	1	- o w -
+062/059	ouw	1	- ou w -
+062/061	ow	1	- o w -
+062/063	aw	1	- a w -
+062/065	ob	1	- o b -
+062/067	NA	NA	- - - - -
+062/069	ob	1	- o b -
+062/071	NA	NA	- - - - -
+062/073	oow	1	- oo w -
+062/075	ob	1	- o b -
+062/077	ub	1	- u b -
+062/079	NA	NA	- - - - -
+062/081	uohm	1	- uoh m -
+062/083	NA	NA	- - - - -
+062/085	um	1	- u m -
+062/087	NA	NA	- - - - -
+062/089	uhm	1	- uh m -
+062/091	uhm	1	- uh m -
+062/093	um	1	- u m -
+062/095	u	1	- u - -
+062/097	NA	NA	- - - - -
+062/099	ub	1	- u b -
+062/101	ub	1	- u b -
+062/103	uhm	1	- uh m -
+062/105	duhm	1	d uh m -
+062/107	ub	1	- u b -
+062/109	NA	NA	- - - - -
+062/111	NA	NA	- - - - -
+062/113	uhm	1	- uh m -
+062/115	NA	NA	- - - - -
+062/117	drum	1	dr u m -
+062/119	NA	NA	- - - - -
+062/121	NA	NA	- - - - -
+062/123	NA	NA	- - - - -
+062/125	ub	1	- u b -
+062/127	ub	1	- u b -
+062/129	NA	NA	- - - - -
+062/131	ub	1	- u b -
+062/133	duub	1	d uu b -
+062/135	NA	NA	- - - - -
+062/137	uuw	1	- uu w -
+062/139	NA	NA	- - - - -
+062/141	ub	1	- u b -
+062/143	ab	1	- a b -
+062/145	drub	1	dr u b -
+062/147	ub	1	- u b -
+062/149	ub	1	- u b -
+062/151	ub	1	- u b -
+062/153	NA	NA	- - - - -
+062/155	ub	1	- u b -
+062/157	NA	NA	- - - - -
+062/159	ub	1	- u b -
+062/161	ub	1	- u b -
+063/021	ow	1	- o w -
+063/023	NA	NA	- - - - -
+063/025	of	1	- o f -
+063/027	oav	1	- oa v -
+063/029	oef	1	- oe f -
+063/031	ov	1	- o v -
+063/033	off	1	- o ff -
+063/035	ow	1	- o w -
+063/037	ow	1	- o w -
+063/039	NA	NA	- - - - -
+063/041	ohv	1	- oh v -
+063/043	ow	1	- o w -
+063/045	ow	1	- o w -
+063/047	ow	1	- o w -
+063/049	ow	1	- o w -
+063/051	ow	1	- o w -
+063/053	ow	1	- o w -
+063/055	ow	1	- o w -
+063/057	ow	1	- o w -
+063/059	ow	1	- o w -
+063/061	ow	1	- o w -
+063/063	ow	1	- o w -
+063/065	ob	1	- o b -
+063/067	ow	1	- o w -
+063/069	NA	NA	- - - - -
+063/071	NA	NA	- - - - -
+063/073	ob	1	- o b -
+063/075	ow	1	- o w -
+063/077	ow	1	- o w -
+063/079	uob	1	- uo b -
+063/081	um	1	- u m -
+063/083	uh	1	- uh - -
+063/085	ub	1	- u b -
+063/087	uhm	1	- uh m -
+063/089	um	1	- u m -
+063/091	NA	NA	- - - - -
+063/093	drohm	1	dr oh m -
+063/095	NA	NA	- - - - -
+063/097	uob	1	- uo b -
+063/099	ub	1	- u b -
+063/101	uhm	1	- uh m -
+063/103	uum	1	- uu m -
+063/105	uhm	1	- uh m -
+063/107	ub	1	- u b -
+063/109	dum	1	d u m -
+063/111	oum	1	- ou m -
+063/113	uhm	1	- uh m -
+063/115	NA	NA	- - - - -
+063/117	NA	NA	- - - - -
+063/119	uub	1	- uu b -
+063/121	ub	1	- u b -
+063/123	ub	1	- u b -
+063/125	NA	NA	- - - - -
+063/127	ub	1	- u b -
+063/135	ub	1	- u b -
+063/137	uw	1	- u w -
+063/139	NA	NA	- - - - -
+063/141	uw	1	- u w -
+063/143	uub	1	- uu b -
+063/145	uw	1	- u w -
+063/147	uub	1	- uu b -
+063/149	ub	1	- u b -
+063/151	ub	1	- u b -
+063/153	ub	1	- u b -
+063/155	ub	1	- u b -
+063/157	ub	1	- u b -
+063/159	ub	1	- u b -
+063/161	ub	1	- u b -
+063/163	ub	1	- u b -
+063/165	ub	1	- u b -
+064/023	ow	1	- o w -
+064/025	ohf	1	- oh f -
+064/027	oew	1	- oe w -
+064/029	oww	1	- o ww -
+064/031	NA	NA	- - - - -
+064/033	oaw	1	- oa w -
+064/035	ow	1	- o w -
+064/037	ob	1	- o b -
+064/039	NA	NA	- - - - -
+064/041	ow	1	- o w -
+064/043	ow	1	- o w -
+064/045	ow	1	- o w -
+064/047	ow	1	- o w -
+064/049	ow	1	- o w -
+064/051	ow	1	- o w -
+064/053	ow	1	- o w -
+064/055	uw	1	- u w -
+064/057	oow	1	- oo w -
+064/059	ow	1	- o w -
+064/061	NA	NA	- - - - -
+064/063	ow	1	- o w -
+064/065	ob	1	- o b -
+064/067	ob	1	- o b -
+064/069	ow	1	- o w -
+064/071	ob	1	- o b -
+064/073	dob	1	d o b -
+064/075	ob	1	- o b -
+064/077	ob	1	- o b -
+064/079	NA	NA	- - - - -
+064/081	ub	1	- u b -
+064/083	ub	1	- u b -
+064/085	NA	NA	- - - - -
+064/087	um	1	- u m -
+064/089	uhm	1	- uh m -
+064/091	ub	1	- u b -
+064/093	NA	NA	- - - - -
+064/095	drub	1	dr u b -
+064/097	drub	1	dr u b -
+064/099	uhm	1	- uh m -
+064/101	uh	1	- uh - -
+064/103	uh	1	- uh - -
+064/105	ub	1	- u b -
+064/107	uhm	1	- uh m -
+064/109	ub	1	- u b -
+064/111	uhm	1	- uh m -
+064/113	ub	1	- u b -
+064/115	um	1	- u m -
+064/117	ub	1	- u b -
+064/119	drub	1	dr u b -
+064/121	oub	1	- ou b -
+064/123	ub	1	- u b -
+064/125	NA	NA	- - - - -
+064/127	ub	1	- u b -
+064/135	uw	1	- u w -
+064/137	uw	1	- u w -
+064/139	NA	NA	- - - - -
+064/141	NA	NA	- - - - -
+064/143	uv	1	- u v -
+064/145	duw	1	d u w -
+064/147	ob	1	- o b -
+064/149	ub	1	- u b -
+064/151	ub	1	- u b -
+064/153	ub	1	- u b -
+064/155	ub	1	- u b -
+064/157	ub	1	- u b -
+064/159	ub	1	- u b -
+065/021	NA	NA	- - - - -
+065/023	oäw	1	- oä w -
+065/025	oew	1	- oe w -
+065/027	oww	1	- o ww -
+065/029	oef	1	- oe f -
+065/031	ow	1	- o w -
+065/033	oef	1	- oe f -
+065/035	ow	1	- o w -
+065/037	ow	1	- o w -
+065/039	ow	1	- o w -
+065/041	ow	1	- o w -
+065/043	NA	NA	- - - - -
+065/045	ow	1	- o w -
+065/047	ow	1	- o w -
+065/049	ohw	1	- oh w -
+065/051	ow	1	- o w -
+065/053	oow	1	- oo w -
+065/055	oow	1	- oo w -
+065/057	ow	1	- o w -
+065/059	ohw	1	- oh w -
+065/061	ow	1	- o w -
+065/063	dow	1	d o w -
+065/065	ob	1	- o b -
+065/067	NA	NA	- - - - -
+065/069	ob	1	- o b -
+065/071	ub	1	- u b -
+065/073	oob	1	- oo b -
+065/075	ob	1	- o b -
+065/077	ob	1	- o b -
+065/079	ub	1	- u b -
+065/081	om	1	- o m -
+065/083	o	1	- o - -
+065/085	uhm	1	- uh m -
+065/087	uh	1	- uh - -
+065/089	NA	NA	- - - - -
+065/091	um	1	- u m -
+065/093	drom	1	dr o m -
+065/095	NA	NA	- - - - -
+065/097	NA	NA	- - - - -
+065/101	uhm	1	- uh m -
+065/103	uh	1	- uh - -
+065/105	uh	1	- uh - -
+065/107	um	1	- u m -
+065/109	NA	NA	- - - - -
+065/111	ub	1	- u b -
+065/113	NA	NA	- - - - -
+065/115	NA	NA	- - - - -
+065/121	ub	1	- u b -
+065/123	NA	NA	- - - - -
+065/137	duw	1	d u w -
+065/139	u	1	- u - -
+065/143	uw	1	- u w -
+065/145	ow	1	- o w -
+065/147	ub	1	- u b -
+065/149	ub	1	- u b -
+065/151	ub	1	- u b -
+065/153	dub	1	d u b -
+065/155	ub	1	- u b -
+065/157	ub	1	- u b -
+065/159	drub	1	dr u b -
+066/021	ohm	1	- oh m -
+066/023	ov	1	- o v -
+066/025	oaw	1	- oa w -
+066/027	ovv	1	- o vv -
+066/029	ow	1	- o w -
+066/031	ob	1	- o b -
+066/033	NA	NA	- - - - -
+066/035	NA	NA	- - - - -
+066/037	ow	1	- o w -
+066/039	ow	1	- o w -
+066/041	ow	1	- o w -
+066/043	ow	1	- o w -
+066/045	ow	1	- o w -
+066/047	ow	1	- o w -
+066/049	ow	1	- o w -
+066/051	oww	1	- o ww -
+066/053	ow	1	- o w -
+066/055	ow	1	- o w -
+066/057	ow	1	- o w -
+066/059	ow	1	- o w -
+066/061	ow	1	- o w -
+066/063	ow	1	- o w -
+066/065	ow	1	- o w -
+066/067	ob	1	- o b -
+066/069	ob	1	- o b -
+066/071	ob	1	- o b -
+066/073	ob	1	- o b -
+066/075	ob	1	- o b -
+066/077	uom	1	- uo m -
+066/079	drum	1	dr u m -
+066/081	om	1	- o m -
+066/083	o	1	- o - -
+066/085	droum	1	dr ou m -
+066/087	dum	1	d u m -
+066/089	dum	1	d u m -
+066/091	duhm	1	d uh m -
+066/093	dum	1	d u m -
+066/095	ub	1	- u b -
+066/097	uhm	1	- uh m -
+066/099	drum	1	dr u m -
+066/101	uhm	1	- uh m -
+066/103	ub	1	- u b -
+066/105	NA	NA	- - - - -
+066/107	uum	1	- uu m -
+066/109	uuhm	1	- uuh m -
+066/111	uum	1	- uu m -
+066/113	uum	1	- uu m -
+066/121	ub	1	- u b -
+066/139	u	1	- u - -
+066/143	uw	1	- u w -
+066/145	drub	1	dr u b -
+066/147	uw	1	- u w -
+066/149	ub	1	- u b -
+066/151	uw	1	- u w -
+066/153	uub	1	- uu b -
+066/155	drub	1	dr u b -
+066/157	ub	1	- u b -
+066/159	ub	1	- u b -
+066/161	ob	1	- o b -
+066/163	oub	1	- ou b -
+067/021	oow	1	- oo w -
+067/023	oww	1	- o ww -
+067/025	NA	NA	- - - - -
+067/027	ow	1	- o w -
+067/029	ob	1	- o b -
+067/031	ow	1	- o w -
+067/033	ow	1	- o w -
+067/035	oiw	1	- oi w -
+067/037	ow	1	- o w -
+067/039	ow	1	- o w -
+067/041	NA	NA	- - - - -
+067/043	ow	1	- o w -
+067/045	NA	NA	- - - - -
+067/047	oww	1	- o ww -
+067/049	ow	1	- o w -
+067/051	ow	1	- o w -
+067/053	ow	1	- o w -
+067/055	oww	1	- o ww -
+067/057	ob	1	- o b -
+067/059	drow	1	dr o w -
+067/061	ow	1	- o w -
+067/063	ow	1	- o w -
+067/065	ow	1	- o w -
+067/067	oub	1	- ou b -
+067/069	oub	1	- ou b -
+067/071	ob	1	- o b -
+067/073	ob	1	- o b -
+067/075	um	1	- u m -
+067/077	NA	NA	- - - - -
+067/079	urm	1	- ur m -
+067/081	duem	1	d ue m -
+067/083	duem	1	d ue m -
+067/085	NA	NA	- - - - -
+067/087	ub	1	- u b -
+067/089	uhm	1	- uh m -
+067/091	om	1	- o m -
+067/093	uam	1	- ua m -
+067/095	NA	NA	- - - - -
+067/097	NA	NA	- - - - -
+067/099	druaam	1	dr uaa m -
+067/101	uam	1	- ua m -
+067/103	uam	1	- ua m -
+067/105	NA	NA	- - - - -
+067/107	NA	NA	- - - - -
+067/109	NA	NA	- - - - -
+067/111	NA	NA	- - - - -
+067/113	uub	1	- uu b -
+067/143	duw	1	d u w -
+067/145	duw	1	d u w -
+067/147	ub	1	- u b -
+067/149	ob	1	- o b -
+067/151	ow	1	- o w -
+067/153	NA	NA	- - - - -
+067/155	ub	1	- u b -
+067/157	NA	NA	- - - - -
+067/159	ub	1	- u b -
+067/161	dob	1	d o b -
+067/163	ob	1	- o b -
+067/165	ub	1	- u b -
+067/177	NA	NA	- - - - -
+068/021	oaw	1	- oa w -
+068/023	ow	1	- o w -
+068/025	ow	1	- o w -
+068/027	ow	1	- o w -
+068/029	ow	1	- o w -
+068/031	of	1	- o f -
+068/033	ow	1	- o w -
+068/035	oww	1	- o ww -
+068/037	ow	1	- o w -
+068/039	uw	1	- u w -
+068/041	ow	1	- o w -
+068/043	NA	NA	- - - - -
+068/045	uw	1	- u w -
+068/047	ow	1	- o w -
+068/049	ouw	1	- ou w -
+068/051	ow	1	- o w -
+068/053	ow	1	- o w -
+068/055	ow	1	- o w -
+068/057	ob	1	- o b -
+068/059	ow	1	- o w -
+068/061	NA	NA	- - - - -
+068/063	oub	1	- ou b -
+068/065	dob	1	d o b -
+068/067	NA	NA	- - - - -
+068/069	ob	1	- o b -
+068/071	ob	1	- o b -
+068/073	NA	NA	- - - - -
+068/075	oub	1	- ou b -
+068/077	uuam	1	- uua m -
+068/079	uam	1	- ua m -
+068/081	duom	1	d uo m -
+068/083	uom	1	- uo m -
+068/085	ub	1	- u b -
+068/087	uam	1	- ua m -
+068/089	ob	1	- o b -
+068/091	om	1	- o m -
+068/093	uam	1	- ua m -
+068/095	NA	NA	- - - - -
+068/097	NA	NA	- - - - -
+068/099	uam	1	- ua m -
+068/101	druam	1	dr ua m -
+068/103	NA	NA	- - - - -
+068/105	NA	NA	- - - - -
+068/107	uam	1	- ua m -
+068/109	uhm	1	- uh m -
+068/111	uhm	1	- uh m -
+068/145	uw	1	- u w -
+068/147	duw	1	d u w -
+068/149	dob	1	d o b -
+068/151	um	1	- u m -
+068/153	uom	1	- uo m -
+068/155	ub	1	- u b -
+068/157	NA	NA	- - - - -
+068/159	ob	1	- o b -
+068/161	dob	1	d o b -
+068/165	ob	1	- o b -
+069/019	uov	1	- uo v -
+069/023	NA	NA	- - - - -
+069/025	ow	1	- o w -
+069/027	NA	NA	- - - - -
+069/029	NA	NA	- - - - -
+069/031	ow	1	- o w -
+069/033	oww	1	- o ww -
+069/035	NA	NA	- - - - -
+069/037	uw	1	- u w -
+069/039	uw	1	- u w -
+069/041	ouw	1	- ou w -
+069/043	uw	1	- u w -
+069/045	ow	1	- o w -
+069/047	oww	1	- o ww -
+069/049	ow	1	- o w -
+069/051	ow	1	- o w -
+069/053	NA	NA	- - - - -
+069/055	ow	1	- o w -
+069/057	ob	1	- o b -
+069/059	ob	1	- o b -
+069/061	ob	1	- o b -
+069/063	oub	1	- ou b -
+069/065	oub	1	- ou b -
+069/067	oub	1	- ou b -
+069/069	oub	1	- ou b -
+069/071	doub	1	d ou b -
+069/073	oub	1	- ou b -
+069/075	om	1	- o m -
+069/077	dom	1	d o m -
+069/079	uem	1	- ue m -
+069/081	NA	NA	- - - - -
+069/083	NA	NA	- - - - -
+069/085	uum	1	- uu m -
+069/087	uem	1	- ue m -
+069/089	um	1	- u m -
+069/091	drom	1	dr o m -
+069/093	uab	1	- ua b -
+069/095	ua	1	- ua - -
+069/097	uam	1	- ua m -
+069/099	ua	1	- ua - -
+069/101	ua	1	- ua - -
+069/103	uam	1	- ua m -
+069/105	uab	1	- ua b -
+069/107	uab	1	- ua b -
+069/109	NA	NA	- - - - -
+069/111	um	1	- u m -
+069/147	uw	1	- u w -
+069/149	drub	1	dr u b -
+069/151	drub	1	dr u b -
+069/153	ob	1	- o b -
+069/157	NA	NA	- - - - -
+069/159	ob	1	- o b -
+069/161	ub	1	- u b -
+069/163	ow	1	- o w -
+069/165	ob	1	- o b -
+070/019	uww	1	- u ww -
+070/023	ow	1	- o w -
+070/025	NA	NA	- - - - -
+070/027	NA	NA	- - - - -
+070/029	NA	NA	- - - - -
+070/031	ow	1	- o w -
+070/033	ow	1	- o w -
+070/035	uw	1	- u w -
+070/037	ow	1	- o w -
+070/039	u	1	- u - -
+070/041	uw	1	- u w -
+070/043	uw	1	- u w -
+070/045	ow	1	- o w -
+070/047	ow	1	- o w -
+070/049	uw	1	- u w -
+070/051	ow	1	- o w -
+070/053	NA	NA	- - - - -
+070/055	uww	1	- u ww -
+070/057	ow	1	- o w -
+070/059	dow	1	d o w -
+070/061	ob	1	- o b -
+070/063	oub	1	- ou b -
+070/065	oub	1	- ou b -
+070/067	NA	NA	- - - - -
+070/069	oub	1	- ou b -
+070/071	oub	1	- ou b -
+070/073	om	1	- o m -
+070/075	doub	1	d ou b -
+070/077	ob	1	- o b -
+070/079	uem	1	- ue m -
+070/081	duem	1	d ue m -
+070/083	um	1	- u m -
+070/085	oohm	1	- ooh m -
+070/087	um	1	- u m -
+070/089	uum	1	- uu m -
+070/091	uab	1	- ua b -
+070/093	uab	1	- ua b -
+070/095	uam	1	- ua m -
+070/097	uam	1	- ua m -
+070/099	NA	NA	- - - - -
+070/101	druab	1	dr ua b -
+070/103	NA	NA	- - - - -
+070/105	NA	NA	- - - - -
+070/107	NA	NA	- - - - -
+070/109	ub	1	- u b -
+070/111	uum	1	- uu m -
+070/145	ub	1	- u b -
+070/147	uw	1	- u w -
+070/149	uw	1	- u w -
+070/151	NA	NA	- - - - -
+070/153	ob	1	- o b -
+070/155	druem	1	dr ue m -
+070/157	drub	1	dr u b -
+070/159	uob	1	- uo b -
+070/161	ob	1	- o b -
+070/163	ow	1	- o w -
+070/165	ow	1	- o w -
+071/017	uov	1	- uo v -
+071/019	uow	1	- uo w -
+071/021	uov	1	- uo v -
+071/023	uew	1	- ue w -
+071/025	uow	1	- uo w -
+071/027	uow	1	- uo w -
+071/029	of	1	- o f -
+071/031	ow	1	- o w -
+071/033	ow	1	- o w -
+071/035	u	1	- u - -
+071/037	u	1	- u - -
+071/039	u	1	- u - -
+071/041	uw	1	- u w -
+071/043	ow	1	- o w -
+071/045	ow	1	- o w -
+071/047	ow	1	- o w -
+071/049	uw	1	- u w -
+071/051	NA	NA	- - - - -
+071/053	ow	1	- o w -
+071/055	ew	1	- e w -
+071/057	obb	1	- o bb -
+071/059	oub	1	- ou b -
+071/063	doub	1	d ou b -
+071/065	oub	1	- ou b -
+071/067	NA	NA	- - - - -
+071/069	oub	1	- ou b -
+071/071	oum	1	- ou m -
+071/073	ob	1	- o b -
+071/075	oum	1	- ou m -
+071/077	om	1	- o m -
+071/079	uhm	1	- uh m -
+071/081	uem	1	- ue m -
+071/083	NA	NA	- - - - -
+071/085	um	1	- u m -
+071/087	uu	1	- uu - -
+071/089	ub	1	- u b -
+071/091	NA	NA	- - - - -
+071/093	uab	1	- ua b -
+071/095	uam	1	- ua m -
+071/097	oub	1	- ou b -
+071/099	uuab	1	- uua b -
+071/101	uem	1	- ue m -
+071/103	NA	NA	- - - - -
+071/105	NA	NA	- - - - -
+071/145	dub	1	d u b -
+071/147	ub	1	- u b -
+071/149	ub	1	- u b -
+071/151	ob	1	- o b -
+071/153	NA	NA	- - - - -
+071/155	ob	1	- o b -
+071/157	NA	NA	- - - - -
+071/159	NA	NA	- - - - -
+071/161	ub	1	- u b -
+071/163	ob	1	- o b -
+071/177	huch	1	h u ch -
+071/179	ob	1	- o b -
+072/017	NA	NA	- - - - -
+072/019	uow	1	- uo w -
+072/021	uuov	1	- uuo v -
+072/023	oow	1	- oo w -
+072/025	ow	1	- o w -
+072/027	NA	NA	- - - - -
+072/029	NA	NA	- - - - -
+072/031	NA	NA	- - - - -
+072/033	ow	1	- o w -
+072/035	NA	NA	- - - - -
+072/037	uw	1	- u w -
+072/039	uw	1	- u w -
+072/041	ow	1	- o w -
+072/043	ow	1	- o w -
+072/045	NA	NA	- - - - -
+072/047	ow	1	- o w -
+072/049	oww	1	- o ww -
+072/051	oww	1	- o ww -
+072/053	uuw	1	- uu w -
+072/055	uww	1	- u ww -
+072/057	ob	1	- o b -
+072/059	dob	1	d o b -
+072/061	oub	1	- ou b -
+072/063	doub	1	d ou b -
+072/065	oub	1	- ou b -
+072/067	oub	1	- ou b -
+072/069	oub	1	- ou b -
+072/071	NA	NA	- - - - -
+072/073	ob	1	- o b -
+072/075	om	1	- o m -
+072/077	ob	1	- o b -
+072/079	ob	1	- o b -
+072/081	NA	NA	- - - - -
+072/083	ob	1	- o b -
+072/085	NA	NA	- - - - -
+072/087	um	1	- u m -
+072/089	ub	1	- u b -
+072/091	ub	1	- u b -
+072/093	drob	1	dr o b -
+072/095	uam	1	- ua m -
+072/097	ob	1	- o b -
+072/099	uam	1	- ua m -
+072/101	NA	NA	- - - - -
+072/103	uam	1	- ua m -
+072/105	ua	1	- ua - -
+072/107	ua	1	- ua - -
+072/145	um	1	- u m -
+072/147	uhm	1	- uh m -
+072/149	um	1	- u m -
+072/151	ub	1	- u b -
+072/153	drob	1	dr o b -
+072/155	uob	1	- uo b -
+072/157	NA	NA	- - - - -
+072/159	oub	1	- ou b -
+072/161	NA	NA	- - - - -
+072/177	NA	NA	- - - - -
+072/179	ow	1	- o w -
+072/181	NA	NA	- - - - -
+073/017	uow	1	- uo w -
+073/019	uov	1	- uo v -
+073/021	uow	1	- uo w -
+073/023	uow	1	- uo w -
+073/025	ow	1	- o w -
+073/027	ow	1	- o w -
+073/029	ow	1	- o w -
+073/031	ow	1	- o w -
+073/033	uw	1	- u w -
+073/035	uw	1	- u w -
+073/037	uhw	1	- uh w -
+073/039	uw	1	- u w -
+073/041	uww	1	- u ww -
+073/043	ow	1	- o w -
+073/045	ow	1	- o w -
+073/047	uww	1	- u ww -
+073/049	ow	1	- o w -
+073/051	oww	1	- o ww -
+073/053	ow	1	- o w -
+073/055	uw	1	- u w -
+073/057	uww	1	- u ww -
+073/059	NA	NA	- - - - -
+073/061	NA	NA	- - - - -
+073/063	oub	1	- ou b -
+073/065	ob	1	- o b -
+073/067	oub	1	- ou b -
+073/069	om	1	- o m -
+073/071	o	1	- o - -
+073/073	NA	NA	- - - - -
+073/075	ob	1	- o b -
+073/077	drom	1	dr o m -
+073/079	om	1	- o m -
+073/081	o	1	- o - -
+073/083	ohm	1	- oh m -
+073/085	om	1	- o m -
+073/087	uhm	1	- uh m -
+073/089	ub	1	- u b -
+073/091	NA	NA	- - - - -
+073/093	ohm	1	- oh m -
+073/095	druam	1	dr ua m -
+073/097	droum	1	dr ou m -
+073/099	uam	1	- ua m -
+073/101	ua	1	- ua - -
+073/103	ua	1	- ua - -
+073/105	NA	NA	- - - - -
+073/107	NA	NA	- - - - -
+073/145	NA	NA	- - - - -
+073/147	NA	NA	- - - - -
+073/149	ub	1	- u b -
+073/151	uhm	1	- uh m -
+073/153	ub	1	- u b -
+073/155	oub	1	- ou b -
+073/157	drub	1	dr u b -
+073/159	NA	NA	- - - - -
+073/161	uab	1	- ua b -
+073/163	ob	1	- o b -
+073/165	ob	1	- o b -
+073/175	NA	NA	- - - - -
+073/177	öüw	1	- öü w -
+074/019	uow	1	- uo w -
+074/021	uow	1	- uo w -
+074/023	uow	1	- uo w -
+074/025	uov	1	- uo v -
+074/027	ow	1	- o w -
+074/029	NA	NA	- - - - -
+074/031	ow	1	- o w -
+074/033	ob	1	- o b -
+074/035	uw	1	- u w -
+074/037	uhw	1	- uh w -
+074/039	uw	1	- u w -
+074/041	ow	1	- o w -
+074/043	ow	1	- o w -
+074/045	ow	1	- o w -
+074/047	oww	1	- o ww -
+074/049	ow	1	- o w -
+074/051	oww	1	- o ww -
+074/053	NA	NA	- - - - -
+074/055	oww	1	- o ww -
+074/057	oww	1	- o ww -
+074/059	uw	1	- u w -
+074/061	oew	1	- oe w -
+074/063	NA	NA	- - - - -
+074/065	ouw	1	- ou w -
+074/067	oub	1	- ou b -
+074/069	oum	1	- ou m -
+074/071	ou	1	- ou - -
+074/073	oub	1	- ou b -
+074/075	ob	1	- o b -
+074/077	om	1	- o m -
+074/079	o	1	- o - -
+074/081	NA	NA	- - - - -
+074/083	omm	1	- o mm -
+074/085	um	1	- u m -
+074/087	trub	1	tr u b -
+074/089	druab	1	dr ua b -
+074/091	druam	1	dr ua m -
+074/093	uam	1	- ua m -
+074/095	ob	1	- o b -
+074/097	NA	NA	- - - - -
+074/099	uab	1	- ua b -
+074/101	druam	1	dr ua m -
+074/103	druam	1	dr ua m -
+074/105	uam	1	- ua m -
+074/107	uam	1	- ua m -
+074/109	NA	NA	- - - - -
+074/145	um	1	- u m -
+074/147	ub	1	- u b -
+074/149	um	1	- u m -
+074/153	ub	1	- u b -
+074/155	NA	NA	- - - - -
+074/157	ob	1	- o b -
+074/159	uob	1	- uo b -
+074/161	duub	1	d uu b -
+074/163	uo	1	- uo - -
+074/165	uw	1	- u w -
+075/019	uow	1	- uo w -
+075/021	oiw	1	- oi w -
+075/023	uov	1	- uo v -
+075/025	NA	NA	- - - - -
+075/027	NA	NA	- - - - -
+075/029	uäw	1	- uä w -
+075/031	ow	1	- o w -
+075/033	uw	1	- u w -
+075/035	NA	NA	- - - - -
+075/037	NA	NA	- - - - -
+075/039	uw	1	- u w -
+075/041	ow	1	- o w -
+075/043	ow	1	- o w -
+075/045	ow	1	- o w -
+075/047	ow	1	- o w -
+075/049	ow	1	- o w -
+075/051	ow	1	- o w -
+075/053	ow	1	- o w -
+075/055	oww	1	- o ww -
+075/057	oww	1	- o ww -
+075/059	ob	1	- o b -
+075/061	ow	1	- o w -
+075/063	ob	1	- o b -
+075/065	NA	NA	- - - - -
+075/067	oub	1	- ou b -
+075/069	oub	1	- ou b -
+075/071	doub	1	d ou b -
+075/073	oum	1	- ou m -
+075/075	NA	NA	- - - - -
+075/077	oom	1	- oo m -
+075/079	ob	1	- o b -
+075/081	drom	1	dr o m -
+075/083	ob	1	- o b -
+075/085	ub	1	- u b -
+075/087	ob	1	- o b -
+075/089	ub	1	- u b -
+075/091	ob	1	- o b -
+075/093	NA	NA	- - - - -
+075/095	NA	NA	- - - - -
+075/097	ob	1	- o b -
+075/099	uom	1	- uo m -
+075/101	uam	1	- ua m -
+075/103	ua	1	- ua - -
+075/105	ua	1	- ua - -
+075/107	ua	1	- ua - -
+075/135	oum	1	- ou m -
+075/145	NA	NA	- - - - -
+075/147	ub	1	- u b -
+075/149	NA	NA	- - - - -
+075/155	NA	NA	- - - - -
+075/157	drob	1	dr o b -
+075/159	oub	1	- ou b -
+075/161	ob	1	- o b -
+075/163	ow	1	- o w -
+075/165	ob	1	- o b -
+076/019	uow	1	- uo w -
+076/021	NA	NA	- - - - -
+076/023	uov	1	- uo v -
+076/025	ouw	1	- ou w -
+076/027	uw	1	- u w -
+076/029	uf	1	- u f -
+076/033	ow	1	- o w -
+076/035	oiw	1	- oi w -
+076/037	ow	1	- o w -
+076/039	ow	1	- o w -
+076/041	ow	1	- o w -
+076/043	ow	1	- o w -
+076/045	NA	NA	- - - - -
+076/047	ow	1	- o w -
+076/049	ow	1	- o w -
+076/051	oww	1	- o ww -
+076/053	oww	1	- o ww -
+076/055	ow	1	- o w -
+076/057	ow	1	- o w -
+076/059	ow	1	- o w -
+076/061	ow	1	- o w -
+076/063	oww	1	- o ww -
+076/065	ow	1	- o w -
+076/067	oub	1	- ou b -
+076/069	ouw	1	- ou w -
+076/071	oub	1	- ou b -
+076/073	om	1	- o m -
+076/075	drum	1	dr u m -
+076/077	drom	1	dr o m -
+076/079	ob	1	- o b -
+076/081	ob	1	- o b -
+076/083	drom	1	dr o m -
+076/085	um	1	- u m -
+076/087	drub	1	dr u b -
+076/089	ob	1	- o b -
+076/091	NA	NA	- - - - -
+076/093	om	1	- o m -
+076/095	ob	1	- o b -
+076/097	ob	1	- o b -
+076/099	om	1	- o m -
+076/101	uam	1	- ua m -
+076/103	druab	1	dr ua b -
+076/135	om	1	- o m -
+076/137	oum	1	- ou m -
+076/149	ub	1	- u b -
+076/151	ub	1	- u b -
+076/155	oob	1	- oo b -
+076/161	dow	1	d o w -
+076/163	NA	NA	- - - - -
+076/165	ow	1	- o w -
+077/019	uew	1	- ue w -
+077/021	uow	1	- uo w -
+077/023	oob	1	- oo b -
+077/025	uavv	1	- ua vv -
+077/027	uw	1	- u w -
+077/029	auw	1	- au w -
+077/031	uw	1	- u w -
+077/033	ow	1	- o w -
+077/035	ow	1	- o w -
+077/037	ow	1	- o w -
+077/039	ow	1	- o w -
+077/041	ow	1	- o w -
+077/043	ow	1	- o w -
+077/047	ow	1	- o w -
+077/049	NA	NA	- - - - -
+077/051	ow	1	- o w -
+077/053	ow	1	- o w -
+077/055	ow	1	- o w -
+077/057	NA	NA	- - - - -
+077/059	ow	1	- o w -
+077/061	ow	1	- o w -
+077/063	ow	1	- o w -
+077/065	ow	1	- o w -
+077/067	oub	1	- ou b -
+077/069	oaub	1	- oau b -
+077/071	ouw	1	- ou w -
+077/073	ob	1	- o b -
+077/075	NA	NA	- - - - -
+077/077	drob	1	dr o b -
+077/079	drob	1	dr o b -
+077/081	drub	1	dr u b -
+077/083	drom	1	dr o m -
+077/085	NA	NA	- - - - -
+077/087	drum	1	dr u m -
+077/089	om	1	- o m -
+077/091	uab	1	- ua b -
+077/093	NA	NA	- - - - -
+077/095	om	1	- o m -
+077/097	drob	1	dr o b -
+077/099	drom	1	dr o m -
+077/101	uam	1	- ua m -
+077/103	uob	1	- uo b -
+077/135	ob	1	- o b -
+077/137	umm	1	- u mm -
+078/021	NA	NA	- - - - -
+078/023	of	1	- o f -
+078/025	of	1	- o f -
+078/027	NA	NA	- - - - -
+078/029	NA	NA	- - - - -
+078/031	ow	1	- o w -
+078/033	ow	1	- o w -
+078/035	oww	1	- o ww -
+078/037	ow	1	- o w -
+078/039	ow	1	- o w -
+078/041	ow	1	- o w -
+078/045	ow	1	- o w -
+078/047	ow	1	- o w -
+078/049	ow	1	- o w -
+078/051	ow	1	- o w -
+078/053	drow	1	dr o w -
+078/055	ow	1	- o w -
+078/057	drow	1	dr o w -
+078/059	ow	1	- o w -
+078/061	ow	1	- o w -
+078/063	dow	1	d o w -
+078/065	NA	NA	- - - - -
+078/067	ow	1	- o w -
+078/069	ouw	1	- ou w -
+078/071	ouw	1	- ou w -
+078/073	oum	1	- ou m -
+078/075	ou	1	- ou - -
+078/077	NA	NA	- - - - -
+078/079	NA	NA	- - - - -
+078/081	NA	NA	- - - - -
+078/083	uum	1	- uu m -
+078/085	drum	1	dr u m -
+078/087	drob	1	dr o b -
+078/089	oom	1	- oo m -
+078/091	om	1	- o m -
+078/093	a	1	- a - -
+078/095	drom	1	dr o m -
+078/097	om	1	- o m -
+078/099	ob	1	- o b -
+078/101	NA	NA	- - - - -
+078/103	om	1	- o m -
+078/105	om	1	- o m -
+078/135	drumm	1	dr u mm -
+078/193	ob	1	- o b -
+079/021	of	1	- o f -
+079/023	ow	1	- o w -
+079/025	ob	1	- o b -
+079/027	ow	1	- o w -
+079/029	NA	NA	- - - - -
+079/031	ohw	1	- oh w -
+079/033	ow	1	- o w -
+079/035	ow	1	- o w -
+079/037	oww	1	- o ww -
+079/039	ow	1	- o w -
+079/043	NA	NA	- - - - -
+079/045	ow	1	- o w -
+079/047	NA	NA	- - - - -
+079/049	oww	1	- o ww -
+079/051	oww	1	- o ww -
+079/053	drow	1	dr o w -
+079/055	ow	1	- o w -
+079/057	drow	1	dr o w -
+079/059	ow	1	- o w -
+079/061	ow	1	- o w -
+079/063	ow	1	- o w -
+079/065	dow	1	d o w -
+079/067	dow	1	d o w -
+079/069	ow	1	- o w -
+079/071	ob	1	- o b -
+079/073	domm	1	d o mm -
+079/075	NA	NA	- - - - -
+079/077	dromm	1	dr o mm -
+079/079	ob	1	- o b -
+079/081	ob	1	- o b -
+079/083	NA	NA	- - - - -
+079/085	NA	NA	- - - - -
+079/087	ob	1	- o b -
+079/089	drom	1	dr o m -
+079/091	NA	NA	- - - - -
+079/093	om	1	- o m -
+079/095	om	1	- o m -
+079/097	o	1	- o - -
+079/099	oab	1	- oa b -
+079/101	amad	1	- a m a
+079/103	om	1	- o m -
+079/105	om	1	- o m -
+079/107	um	1	- u m -
+079/133	um	1	- u m -
+079/135	ob	1	- o b -
+079/193	äüb	1	- äü b -
+079/195	äum	1	- äu m -
+079/197	ub	1	- u b -
+080/025	ow	1	- o w -
+080/027	uw	1	- u w -
+080/029	oww	1	- o ww -
+080/031	NA	NA	- - - - -
+080/033	ow	1	- o w -
+080/035	oww	1	- o ww -
+080/037	ow	1	- o w -
+080/039	ob	1	- o b -
+080/041	ow	1	- o w -
+080/043	oww	1	- o ww -
+080/045	oww	1	- o ww -
+080/047	oww	1	- o ww -
+080/049	ow	1	- o w -
+080/051	NA	NA	- - - - -
+080/053	ow	1	- o w -
+080/055	ow	1	- o w -
+080/057	ow	1	- o w -
+080/059	ow	1	- o w -
+080/061	ow	1	- o w -
+080/063	ow	1	- o w -
+080/065	drow	1	dr o w -
+080/067	dow	1	d o w -
+080/069	ow	1	- o w -
+080/071	NA	NA	- - - - -
+080/073	oub	1	- ou b -
+080/075	om	1	- o m -
+080/077	drom	1	dr o m -
+080/079	NA	NA	- - - - -
+080/081	NA	NA	- - - - -
+080/083	drob	1	dr o b -
+080/085	ob	1	- o b -
+080/087	NA	NA	- - - - -
+080/089	ob	1	- o b -
+080/091	om	1	- o m -
+080/093	o	1	- o - -
+080/095	o	1	- o - -
+080/097	o	1	- o - -
+080/099	om	1	- o m -
+080/101	o	1	- o - -
+080/103	o	1	- o - -
+080/105	o	1	- o - -
+080/107	NA	NA	- - - - -
+080/109	NA	NA	- - - - -
+080/127	oub	1	- ou b -
+080/147	ub	1	- u b -
+080/151	NA	NA	- - - - -
+080/153	NA	NA	- - - - -
+080/193	äub	1	- äu b -
+080/195	äub	1	- äu b -
+081/025	ob	1	- o b -
+081/027	NA	NA	- - - - -
+081/029	ow	1	- o w -
+081/031	ow	1	- o w -
+081/033	ow	1	- o w -
+081/035	ow	1	- o w -
+081/037	ow	1	- o w -
+081/039	NA	NA	- - - - -
+081/043	ow	1	- o w -
+081/045	ow	1	- o w -
+081/047	ow	1	- o w -
+081/049	ow	1	- o w -
+081/051	ow	1	- o w -
+081/053	ow	1	- o w -
+081/055	ow	1	- o w -
+081/057	ow	1	- o w -
+081/059	how	1	h o w -
+081/061	ow	1	- o w -
+081/063	ow	1	- o w -
+081/065	ow	1	- o w -
+081/067	dob	1	d o b -
+081/069	ow	1	- o w -
+081/071	NA	NA	- - - - -
+081/073	oab	1	- oa b -
+081/075	obb	1	- o bb -
+081/077	drob	1	dr o b -
+081/079	ob	1	- o b -
+081/081	drob	1	dr o b -
+081/083	drobn	1	dr o b n
+081/085	om	1	- o m -
+081/087	dom	1	d o m -
+081/089	drom	1	dr o m -
+081/091	om	1	- o m -
+081/093	oum	1	- ou m -
+081/095	ob	1	- o b -
+081/097	om	1	- o m -
+081/099	ohm	1	- oh m -
+081/101	NA	NA	- - - - -
+081/103	ob	1	- o b -
+081/105	ob	1	- o b -
+081/107	ob	1	- o b -
+081/109	om	1	- o m -
+081/111	NA	NA	- - - - -
+081/127	oum	1	- ou m -
+081/129	NA	NA	- - - - -
+081/133	oum	1	- ou m -
+081/147	aub	1	- au b -
+081/191	eum	1	- eu m -
+081/193	eub	1	- eu b -
+081/195	oum	1	- ou m -
+082/027	uöw	1	- uö w -
+082/029	ow	1	- o w -
+082/031	ob	1	- o b -
+082/033	NA	NA	- - - - -
+082/035	ow	1	- o w -
+082/037	ow	1	- o w -
+082/039	ow	1	- o w -
+082/041	ow	1	- o w -
+082/043	ow	1	- o w -
+082/045	ow	1	- o w -
+082/047	oww	1	- o ww -
+082/049	ov	1	- o v -
+082/051	ow	1	- o w -
+082/053	ow	1	- o w -
+082/055	ow	1	- o w -
+082/057	NA	NA	- - - - -
+082/059	ow	1	- o w -
+082/061	ob	1	- o b -
+082/063	ow	1	- o w -
+082/065	ow	1	- o w -
+082/067	ow	1	- o w -
+082/069	doob	1	d oo b -
+082/071	NA	NA	- - - - -
+082/073	drob	1	dr o b -
+082/075	obb	1	- o bb -
+082/077	drob	1	dr o b -
+082/079	domm	1	d o mm -
+082/081	domm	1	d o mm -
+082/083	oom	1	- oo m -
+082/085	drom	1	dr o m -
+082/087	om	1	- o m -
+082/089	NA	NA	- - - - -
+082/091	om	1	- o m -
+082/093	om	1	- o m -
+082/095	ob	1	- o b -
+082/097	om	1	- o m -
+082/099	ob	1	- o b -
+082/101	om	1	- o m -
+082/103	om	1	- o m -
+082/105	o	1	- o - -
+082/107	o	1	- o - -
+082/111	ob	1	- o b -
+082/113	oub	1	- ou b -
+082/117	NA	NA	- - - - -
+082/129	oub	1	- ou b -
+082/131	oum	1	- ou m -
+082/133	aum	1	- au m -
+082/135	ohum	1	- ohu m -
+082/145	oum	1	- ou m -
+082/147	äub	1	- äu b -
+082/191	NA	NA	- - - - -
+082/195	äub	1	- äu b -
+083/027	ow	1	- o w -
+083/029	ob	1	- o b -
+083/031	ow	1	- o w -
+083/033	ow	1	- o w -
+083/035	ow	1	- o w -
+083/037	ow	1	- o w -
+083/039	ow	1	- o w -
+083/041	ow	1	- o w -
+083/043	ow	1	- o w -
+083/045	ow	1	- o w -
+083/047	ob	1	- o b -
+083/049	dow	1	d o w -
+083/051	ob	1	- o b -
+083/053	dow	1	d o w -
+083/055	ow	1	- o w -
+083/057	ow	1	- o w -
+083/059	oob	1	- oo b -
+083/061	doob	1	d oo b -
+083/063	doob	1	d oo b -
+083/065	ob	1	- o b -
+083/067	oob	1	- oo b -
+083/069	oob	1	- oo b -
+083/071	ob	1	- o b -
+083/073	ob	1	- o b -
+083/075	drob	1	dr o b -
+083/077	NA	NA	- - - - -
+083/079	do	1	d o - -
+083/081	NA	NA	- - - - -
+083/083	dam	1	d a m -
+083/085	oom	1	- oo m -
+083/087	o	1	- o - -
+083/089	ob	1	- o b -
+083/091	om	1	- o m -
+083/093	ob	1	- o b -
+083/095	ob	1	- o b -
+083/097	om	1	- o m -
+083/099	o	1	- o - -
+083/101	om	1	- o m -
+083/103	o	1	- o - -
+083/105	o	1	- o - -
+083/107	ob	1	- o b -
+083/111	NA	NA	- - - - -
+083/113	oem	1	- oe m -
+083/115	om	1	- o m -
+083/117	oum	1	- ou m -
+083/119	aum	1	- au m -
+083/121	ob	1	- o b -
+083/129	ob	1	- o b -
+083/131	oum	1	- ou m -
+083/133	ob	1	- o b -
+083/135	om	1	- o m -
+083/139	ob	1	- o b -
+083/143	ob	1	- o b -
+083/145	oum	1	- ou m -
+083/147	um	1	- u m -
+083/149	ub	1	- u b -
+083/173	NA	NA	- - - - -
+083/195	aub	1	- au b -
+084/031	obb	1	- o bb -
+084/033	NA	NA	- - - - -
+084/035	NA	NA	- - - - -
+084/037	drow	1	dr o w -
+084/039	NA	NA	- - - - -
+084/041	ow	1	- o w -
+084/043	ow	1	- o w -
+084/045	ow	1	- o w -
+084/047	NA	NA	- - - - -
+084/049	NA	NA	- - - - -
+084/051	uw	1	- u w -
+084/053	ow	1	- o w -
+084/055	ob	1	- o b -
+084/057	ow	1	- o w -
+084/059	ob	1	- o b -
+084/061	ow	1	- o w -
+084/063	hob	1	h o b -
+084/065	hoba	1	h o b a
+084/067	ob	1	- o b -
+084/069	NA	NA	- - - - -
+084/071	ob	1	- o b -
+084/073	drob	1	dr o b -
+084/075	ob	1	- o b -
+084/077	drob	1	dr o b -
+084/079	aub	1	- au b -
+084/081	drom	1	dr o m -
+084/083	om	1	- o m -
+084/085	o	1	- o - -
+084/087	o	1	- o - -
+084/089	ob	1	- o b -
+084/091	om	1	- o m -
+084/093	o	1	- o - -
+084/095	ob	1	- o b -
+084/097	ohm	1	- oh m -
+084/099	ob	1	- o b -
+084/101	om	1	- o m -
+084/103	om	1	- o m -
+084/105	o	1	- o - -
+084/107	om	1	- o m -
+084/109	drob	1	dr o b -
+084/111	om	1	- o m -
+084/113	oum	1	- ou m -
+084/115	NA	NA	- - - - -
+084/117	NA	NA	- - - - -
+084/119	oam	1	- oa m -
+084/129	drom	1	dr o m -
+084/131	NA	NA	- - - - -
+084/133	oum	1	- ou m -
+084/135	NA	NA	- - - - -
+084/137	NA	NA	- - - - -
+084/139	om	1	- o m -
+084/141	ob	1	- o b -
+084/143	ob	1	- o b -
+084/145	NA	NA	- - - - -
+084/147	om	1	- o m -
+084/149	oum	1	- ou m -
+084/171	dum	1	d u m -
+084/173	NA	NA	- - - - -
+084/195	NA	NA	- - - - -
+085/031	ow	1	- o w -
+085/033	ow	1	- o w -
+085/035	ow	1	- o w -
+085/037	oww	1	- o ww -
+085/039	ow	1	- o w -
+085/041	ow	1	- o w -
+085/043	NA	NA	- - - - -
+085/045	ow	1	- o w -
+085/047	ow	1	- o w -
+085/049	NA	NA	- - - - -
+085/051	ow	1	- o w -
+085/053	ob	1	- o b -
+085/055	doow	1	d oo w -
+085/057	ob	1	- o b -
+085/059	drob	1	dr o b -
+085/061	ob	1	- o b -
+085/063	ob	1	- o b -
+085/065	doob	1	d oo b -
+085/067	oob	1	- oo b -
+085/069	ob	1	- o b -
+085/071	dob	1	d o b -
+085/073	ob	1	- o b -
+085/075	NA	NA	- - - - -
+085/077	dob	1	d o b -
+085/079	drub	1	dr u b -
+085/081	NA	NA	- - - - -
+085/083	ob	1	- o b -
+085/085	NA	NA	- - - - -
+085/087	drom	1	dr o m -
+085/089	oom	1	- oo m -
+085/091	ob	1	- o b -
+085/093	om	1	- o m -
+085/095	ob	1	- o b -
+085/097	NA	NA	- - - - -
+085/101	om	1	- o m -
+085/103	NA	NA	- - - - -
+085/105	drom	1	dr o m -
+085/107	om	1	- o m -
+085/109	o	1	- o - -
+085/111	o	1	- o - -
+085/113	om	1	- o m -
+085/115	aoum	1	- aou m -
+085/117	oum	1	- ou m -
+085/119	oum	1	- ou m -
+085/121	ob	1	- o b -
+085/123	oum	1	- ou m -
+085/125	oub	1	- ou b -
+085/127	NA	NA	- - - - -
+085/129	drom	1	dr o m -
+085/131	drob	1	dr o b -
+085/133	ob	1	- o b -
+085/135	drom	1	dr o m -
+085/137	ob	1	- o b -
+085/139	om	1	- o m -
+085/141	NA	NA	- - - - -
+085/143	om	1	- o m -
+085/145	NA	NA	- - - - -
+085/147	ob	1	- o b -
+085/149	om	1	- o m -
+085/175	eum	1	- eu m -
+085/193	oob	1	- oo b -
+085/197	oob	1	- oo b -
+086/033	NA	NA	- - - - -
+086/035	ow	1	- o w -
+086/037	ow	1	- o w -
+086/039	ow	1	- o w -
+086/041	ow	1	- o w -
+086/043	NA	NA	- - - - -
+086/045	ob	1	- o b -
+086/047	ow	1	- o w -
+086/049	ow	1	- o w -
+086/051	NA	NA	- - - - -
+086/053	ow	1	- o w -
+086/055	ob	1	- o b -
+086/057	dob	1	d o b -
+086/059	NA	NA	- - - - -
+086/061	ob	1	- o b -
+086/063	ob	1	- o b -
+086/065	ob	1	- o b -
+086/067	dob	1	d o b -
+086/069	NA	NA	- - - - -
+086/071	dob	1	d o b -
+086/073	dob	1	d o b -
+086/075	ob	1	- o b -
+086/077	drob	1	dr o b -
+086/079	dob	1	d o b -
+086/081	oub	1	- ou b -
+086/083	ow	1	- o w -
+086/085	ob	1	- o b -
+086/087	drom	1	dr o m -
+086/089	ob	1	- o b -
+086/091	om	1	- o m -
+086/093	om	1	- o m -
+086/095	NA	NA	- - - - -
+086/097	NA	NA	- - - - -
+086/099	um	1	- u m -
+086/101	om	1	- o m -
+086/103	ob	1	- o b -
+086/105	om	1	- o m -
+086/107	om	1	- o m -
+086/109	om	1	- o m -
+086/111	om	1	- o m -
+086/113	ob	1	- o b -
+086/115	ob	1	- o b -
+086/117	oum	1	- ou m -
+086/119	oub	1	- ou b -
+086/121	NA	NA	- - - - -
+086/123	NA	NA	- - - - -
+086/125	oum	1	- ou m -
+086/127	ob	1	- o b -
+086/129	ob	1	- o b -
+086/131	om	1	- o m -
+086/133	NA	NA	- - - - -
+086/135	ob	1	- o b -
+086/137	ob	1	- o b -
+086/139	ob	1	- o b -
+086/141	ob	1	- o b -
+086/143	ob	1	- o b -
+086/145	ob	1	- o b -
+086/147	NA	NA	- - - - -
+086/149	om	1	- o m -
+086/151	ob	1	- o b -
+086/175	om	1	- o m -
+086/197	ohm	1	- oh m -
+086/199	NA	NA	- - - - -
+087/033	ow	1	- o w -
+087/035	NA	NA	- - - - -
+087/037	NA	NA	- - - - -
+087/039	NA	NA	- - - - -
+087/041	ow	1	- o w -
+087/043	ow	1	- o w -
+087/045	ob	1	- o b -
+087/049	dow	1	d o w -
+087/051	ow	1	- o w -
+087/053	ob	1	- o b -
+087/055	ob	1	- o b -
+087/057	ob	1	- o b -
+087/059	ob	1	- o b -
+087/061	drob	1	dr o b -
+087/063	NA	NA	- - - - -
+087/065	ob	1	- o b -
+087/067	ob	1	- o b -
+087/069	NA	NA	- - - - -
+087/071	ob	1	- o b -
+087/073	dob	1	d o b -
+087/075	ob	1	- o b -
+087/077	dob	1	d o b -
+087/079	doba	1	d o b a
+087/081	NA	NA	- - - - -
+087/083	ob	1	- o b -
+087/085	NA	NA	- - - - -
+087/087	ob	1	- o b -
+087/089	NA	NA	- - - - -
+087/091	NA	NA	- - - - -
+087/093	om	1	- o m -
+087/095	um	1	- u m -
+087/097	om	1	- o m -
+087/099	om	1	- o m -
+087/101	drom	1	dr o m -
+087/103	om	1	- o m -
+087/105	o	1	- o - -
+087/107	um	1	- u m -
+087/109	NA	NA	- - - - -
+087/111	ob	1	- o b -
+087/113	ob	1	- o b -
+087/115	ob	1	- o b -
+087/117	oum	1	- ou m -
+087/119	NA	NA	- - - - -
+087/121	oum	1	- ou m -
+087/123	oub	1	- ou b -
+087/125	om	1	- o m -
+087/127	oum	1	- ou m -
+087/129	ob	1	- o b -
+087/133	dom	1	d o m -
+087/135	ob	1	- o b -
+087/137	ob	1	- o b -
+087/139	om	1	- o m -
+087/141	NA	NA	- - - - -
+087/143	om	1	- o m -
+087/145	om	1	- o m -
+087/147	ob	1	- o b -
+087/149	oum	1	- ou m -
+087/151	NA	NA	- - - - -
+088/035	oww	1	- o ww -
+088/037	ow	1	- o w -
+088/039	ow	1	- o w -
+088/041	ow	1	- o w -
+088/043	ow	1	- o w -
+088/045	ob	1	- o b -
+088/047	ob	1	- o b -
+088/049	oob	1	- oo b -
+088/051	NA	NA	- - - - -
+088/053	oob	1	- oo b -
+088/055	ob	1	- o b -
+088/057	NA	NA	- - - - -
+088/059	ob	1	- o b -
+088/061	ob	1	- o b -
+088/063	ob	1	- o b -
+088/065	dob	1	d o b -
+088/067	ob	1	- o b -
+088/069	ob	1	- o b -
+088/071	doob	1	d oo b -
+088/073	dob	1	d o b -
+088/075	dob	1	d o b -
+088/077	oob	1	- oo b -
+088/079	drob	1	dr o b -
+088/081	drom	1	dr o m -
+088/083	drom	1	dr o m -
+088/085	dram	1	dr a m -
+088/087	draum	1	dr au m -
+088/089	om	1	- o m -
+088/091	o	1	- o - -
+088/093	o	1	- o - -
+088/095	o	1	- o - -
+088/097	ob	1	- o b -
+088/099	om	1	- o m -
+088/101	om	1	- o m -
+088/103	om	1	- o m -
+088/105	NA	NA	- - - - -
+088/107	ob	1	- o b -
+088/109	om	1	- o m -
+088/113	ob	1	- o b -
+088/115	ob	1	- o b -
+088/117	NA	NA	- - - - -
+088/121	oum	1	- ou m -
+088/123	ob	1	- o b -
+088/127	ob	1	- o b -
+088/129	ob	1	- o b -
+088/131	ob	1	- o b -
+088/137	om	1	- o m -
+088/139	om	1	- o m -
+088/141	om	1	- o m -
+088/143	NA	NA	- - - - -
+088/145	om	1	- o m -
+088/147	o	1	- o - -
+088/149	NA	NA	- - - - -
+089/035	NA	NA	- - - - -
+089/037	ow	1	- o w -
+089/039	how	1	h o w -
+089/041	ow	1	- o w -
+089/043	ow	1	- o w -
+089/045	ob	1	- o b -
+089/047	dob	1	d o b -
+089/049	drob	1	dr o b -
+089/051	ob	1	- o b -
+089/053	drob	1	dr o b -
+089/055	NA	NA	- - - - -
+089/057	dob	1	d o b -
+089/059	ob	1	- o b -
+089/061	ob	1	- o b -
+089/063	ob	1	- o b -
+089/065	ob	1	- o b -
+089/067	dob	1	d o b -
+089/069	ob	1	- o b -
+089/071	ob	1	- o b -
+089/073	dob	1	d o b -
+089/075	drob	1	dr o b -
+089/077	NA	NA	- - - - -
+089/079	dob	1	d o b -
+089/081	ob	1	- o b -
+089/083	drom	1	dr o m -
+089/085	ow	1	- o w -
+089/087	ob	1	- o b -
+089/089	om	1	- o m -
+089/091	NA	NA	- - - - -
+089/093	dol	1	d o l -
+089/095	am	1	- a m -
+089/097	drom	1	dr o m -
+089/099	om	1	- o m -
+089/101	ob	1	- o b -
+089/103	ob	1	- o b -
+089/105	um	1	- u m -
+089/107	NA	NA	- - - - -
+089/109	drob	1	dr o b -
+089/111	om	1	- o m -
+089/113	ob	1	- o b -
+089/115	ob	1	- o b -
+089/117	NA	NA	- - - - -
+089/119	om	1	- o m -
+089/121	ob	1	- o b -
+089/123	ob	1	- o b -
+089/125	ob	1	- o b -
+089/127	om	1	- o m -
+089/129	o	1	- o - -
+089/131	om	1	- o m -
+089/133	ob	1	- o b -
+089/135	om	1	- o m -
+089/137	ob	1	- o b -
+089/139	ob	1	- o b -
+089/141	NA	NA	- - - - -
+089/143	NA	NA	- - - - -
+089/145	NA	NA	- - - - -
+089/147	ob	1	- o b -
+089/149	ob	1	- o b -
+090/035	ow	1	- o w -
+090/037	ow	1	- o w -
+090/039	ow	1	- o w -
+090/041	ow	1	- o w -
+090/043	ow	1	- o w -
+090/045	oow	1	- oo w -
+090/047	dow	1	d o w -
+090/049	ob	1	- o b -
+090/051	ob	1	- o b -
+090/053	ob	1	- o b -
+090/055	ob	1	- o b -
+090/057	ob	1	- o b -
+090/059	dob	1	d o b -
+090/061	NA	NA	- - - - -
+090/063	dob	1	d o b -
+090/065	ob	1	- o b -
+090/067	NA	NA	- - - - -
+090/069	dob	1	d o b -
+090/071	ob	1	- o b -
+090/073	dob	1	d o b -
+090/075	ob	1	- o b -
+090/077	ob	1	- o b -
+090/079	drob	1	dr o b -
+090/081	ob	1	- o b -
+090/083	dob	1	d o b -
+090/085	NA	NA	- - - - -
+090/087	ob	1	- o b -
+090/089	dram	1	dr a m -
+090/091	am	1	- a m -
+090/093	am	1	- a m -
+090/095	drob	1	dr o b -
+090/097	om	1	- o m -
+090/099	ob	1	- o b -
+090/101	ob	1	- o b -
+090/103	ob	1	- o b -
+090/105	drom	1	dr o m -
+090/107	drom	1	dr o m -
+090/109	NA	NA	- - - - -
+090/111	ob	1	- o b -
+090/113	NA	NA	- - - - -
+090/115	ob	1	- o b -
+090/119	ob	1	- o b -
+090/121	ob	1	- o b -
+090/123	drom	1	dr o m -
+090/125	ob	1	- o b -
+090/127	ob	1	- o b -
+090/129	ob	1	- o b -
+090/131	om	1	- o m -
+090/133	drob	1	dr o b -
+090/135	om	1	- o m -
+090/137	ob	1	- o b -
+090/139	ob	1	- o b -
+090/141	oum	1	- ou m -
+090/143	om	1	- o m -
+090/145	ob	1	- o b -
+090/147	om	1	- o m -
+090/149	o	1	- o - -
+090/151	ob	1	- o b -
+091/035	ow	1	- o w -
+091/037	ow	1	- o w -
+091/039	oww	1	- o ww -
+091/041	om	1	- o m -
+091/043	ow	1	- o w -
+091/045	ow	1	- o w -
+091/047	NA	NA	- - - - -
+091/049	ob	1	- o b -
+091/051	drob	1	dr o b -
+091/053	ob	1	- o b -
+091/055	ob	1	- o b -
+091/057	NA	NA	- - - - -
+091/059	dob	1	d o b -
+091/061	dob	1	d o b -
+091/063	ob	1	- o b -
+091/065	ob	1	- o b -
+091/067	ob	1	- o b -
+091/069	ob	1	- o b -
+091/071	dob	1	d o b -
+091/073	doba	1	d o b a
+091/075	NA	NA	- - - - -
+091/077	ob	1	- o b -
+091/079	ob	1	- o b -
+091/081	dom	1	d o m -
+091/083	dram	1	dr a m -
+091/085	am	1	- a m -
+091/087	am	1	- a m -
+091/091	am	1	- a m -
+091/093	am	1	- a m -
+091/095	am	1	- a m -
+091/097	om	1	- o m -
+091/099	drob	1	dr o b -
+091/101	om	1	- o m -
+091/103	o	1	- o - -
+091/105	ob	1	- o b -
+091/107	ob	1	- o b -
+091/109	ob	1	- o b -
+091/111	ob	1	- o b -
+091/113	ob	1	- o b -
+091/115	NA	NA	- - - - -
+091/117	om	1	- o m -
+091/119	ob	1	- o b -
+091/121	drob	1	dr o b -
+091/125	ob	1	- o b -
+091/129	drom	1	dr o m -
+091/131	ob	1	- o b -
+091/133	om	1	- o m -
+091/135	o	1	- o - -
+091/137	ob	1	- o b -
+091/139	ob	1	- o b -
+091/141	ob	1	- o b -
+091/143	ob	1	- o b -
+091/145	om	1	- o m -
+091/147	ob	1	- o b -
+091/149	om	1	- o m -
+091/151	NA	NA	- - - - -
+091/155	om	1	- o m -
+092/033	ow	1	- o w -
+092/035	aw	1	- a w -
+092/037	ow	1	- o w -
+092/039	ow	1	- o w -
+092/041	ob	1	- o b -
+092/043	NA	NA	- - - - -
+092/045	oob	1	- oo b -
+092/047	ob	1	- o b -
+092/049	ow	1	- o w -
+092/051	dobb	1	d o bb -
+092/053	NA	NA	- - - - -
+092/055	NA	NA	- - - - -
+092/057	dob	1	d o b -
+092/059	hob	1	h o b -
+092/061	ob	1	- o b -
+092/063	ob	1	- o b -
+092/065	ob	1	- o b -
+092/067	doob	1	d oo b -
+092/069	oob	1	- oo b -
+092/071	ob	1	- o b -
+092/073	NA	NA	- - - - -
+092/075	NA	NA	- - - - -
+092/077	dob	1	d o b -
+092/079	dob	1	d o b -
+092/081	ob	1	- o b -
+092/083	dam	1	d a m -
+092/085	om	1	- o m -
+092/087	ob	1	- o b -
+092/089	am	1	- a m -
+092/091	om	1	- o m -
+092/093	a	1	- a - -
+092/095	om	1	- o m -
+092/097	om	1	- o m -
+092/099	o	1	- o - -
+092/101	o	1	- o - -
+092/103	ob	1	- o b -
+092/105	oom	1	- oo m -
+092/107	ob	1	- o b -
+092/109	ob	1	- o b -
+092/111	om	1	- o m -
+092/113	drob	1	dr o b -
+092/115	ob	1	- o b -
+092/117	om	1	- o m -
+092/119	NA	NA	- - - - -
+092/121	ob	1	- o b -
+092/123	drob	1	dr o b -
+092/125	ob	1	- o b -
+092/127	ob	1	- o b -
+092/129	ob	1	- o b -
+092/131	ob	1	- o b -
+092/133	oum	1	- ou m -
+092/135	om	1	- o m -
+092/137	om	1	- o m -
+092/139	ob	1	- o b -
+092/141	ob	1	- o b -
+092/143	ob	1	- o b -
+092/145	ob	1	- o b -
+092/147	ob	1	- o b -
+092/149	ob	1	- o b -
+092/151	ob	1	- o b -
+093/035	ow	1	- o w -
+093/037	ow	1	- o w -
+093/039	ow	1	- o w -
+093/041	NA	NA	- - - - -
+093/043	ob	1	- o b -
+093/045	ob	1	- o b -
+093/047	ow	1	- o w -
+093/049	ow	1	- o w -
+093/051	oob	1	- oo b -
+093/053	ob	1	- o b -
+093/055	doob	1	d oo b -
+093/057	dob	1	d o b -
+093/059	ob	1	- o b -
+093/061	doob	1	d oo b -
+093/063	NA	NA	- - - - -
+093/065	ob	1	- o b -
+093/067	ob	1	- o b -
+093/069	ob	1	- o b -
+093/071	ob	1	- o b -
+093/073	dob	1	d o b -
+093/075	doba	1	d o b a
+093/077	drob	1	dr o b -
+093/079	dow	1	d o w -
+093/081	ow	1	- o w -
+093/083	dob	1	d o b -
+093/085	NA	NA	- - - - -
+093/087	drob	1	dr o b -
+093/089	drom	1	dr o m -
+093/091	ob	1	- o b -
+093/093	ob	1	- o b -
+093/095	ob	1	- o b -
+093/097	ob	1	- o b -
+093/099	NA	NA	- - - - -
+093/101	om	1	- o m -
+093/103	um	1	- u m -
+093/105	ab	1	- a b -
+093/109	um	1	- u m -
+093/111	NA	NA	- - - - -
+093/113	ob	1	- o b -
+093/115	NA	NA	- - - - -
+093/117	om	1	- o m -
+093/119	NA	NA	- - - - -
+093/121	ob	1	- o b -
+093/123	ob	1	- o b -
+093/125	um	1	- u m -
+093/127	om	1	- o m -
+093/129	ob	1	- o b -
+093/131	om	1	- o m -
+093/133	NA	NA	- - - - -
+093/137	om	1	- o m -
+093/139	ob	1	- o b -
+093/143	ob	1	- o b -
+093/145	om	1	- o m -
+093/147	NA	NA	- - - - -
+093/149	ob	1	- o b -
+093/151	om	1	- o m -
+093/153	oo	1	- oo - -
+093/155	om	1	- o m -
+094/033	dow	1	d o w -
+094/035	ow	1	- o w -
+094/037	drow	1	dr o w -
+094/039	ow	1	- o w -
+094/041	ob	1	- o b -
+094/043	ow	1	- o w -
+094/045	ow	1	- o w -
+094/047	ob	1	- o b -
+094/049	ow	1	- o w -
+094/051	ob	1	- o b -
+094/053	ob	1	- o b -
+094/055	ob	1	- o b -
+094/057	dob	1	d o b -
+094/059	NA	NA	- - - - -
+094/061	ob	1	- o b -
+094/063	ob	1	- o b -
+094/065	NA	NA	- - - - -
+094/067	ob	1	- o b -
+094/069	dohb	1	d oh b -
+094/071	ob	1	- o b -
+094/073	dob	1	d o b -
+094/075	dob	1	d o b -
+094/077	NA	NA	- - - - -
+094/079	drob	1	dr o b -
+094/081	om	1	- o m -
+094/083	dam	1	d a m -
+094/085	om	1	- o m -
+094/087	am	1	- a m -
+094/089	am	1	- a m -
+094/091	am	1	- a m -
+094/093	om	1	- o m -
+094/095	drom	1	dr o m -
+094/097	am	1	- a m -
+094/099	om	1	- o m -
+094/101	NA	NA	- - - - -
+094/103	ob	1	- o b -
+094/105	om	1	- o m -
+094/107	ob	1	- o b -
+094/109	om	1	- o m -
+094/111	ob	1	- o b -
+094/113	ob	1	- o b -
+094/115	drom	1	dr o m -
+094/117	om	1	- o m -
+094/119	NA	NA	- - - - -
+094/121	om	1	- o m -
+094/123	o	1	- o - -
+094/125	ob	1	- o b -
+094/127	ob	1	- o b -
+094/129	ob	1	- o b -
+094/131	ob	1	- o b -
+094/133	NA	NA	- - - - -
+094/135	ob	1	- o b -
+094/137	ob	1	- o b -
+094/139	NA	NA	- - - - -
+094/141	om	1	- o m -
+094/143	ohm	1	- oh m -
+094/145	NA	NA	- - - - -
+094/147	oub	1	- ou b -
+094/149	ob	1	- o b -
+094/151	om	1	- o m -
+094/153	ob	1	- o b -
+095/031	NA	NA	- - - - -
+095/033	ow	1	- o w -
+095/035	ow	1	- o w -
+095/037	ow	1	- o w -
+095/039	ow	1	- o w -
+095/041	ob	1	- o b -
+095/043	drob	1	dr o b -
+095/045	ow	1	- o w -
+095/047	ow	1	- o w -
+095/049	NA	NA	- - - - -
+095/051	NA	NA	- - - - -
+095/053	ob	1	- o b -
+095/055	NA	NA	- - - - -
+095/057	ob	1	- o b -
+095/059	NA	NA	- - - - -
+095/061	doob	1	d oo b -
+095/063	dob	1	d o b -
+095/065	doob	1	d oo b -
+095/067	dob	1	d o b -
+095/069	dob	1	d o b -
+095/071	NA	NA	- - - - -
+095/073	ob	1	- o b -
+095/075	NA	NA	- - - - -
+095/077	dob	1	d o b -
+095/079	ob	1	- o b -
+095/081	ow	1	- o w -
+095/083	drom	1	dr o m -
+095/085	am	1	- a m -
+095/087	am	1	- a m -
+095/089	am	1	- a m -
+095/091	ob	1	- o b -
+095/093	NA	NA	- - - - -
+095/095	am	1	- a m -
+095/097	ob	1	- o b -
+095/099	ob	1	- o b -
+095/101	ob	1	- o b -
+095/103	ob	1	- o b -
+095/105	om	1	- o m -
+095/107	ob	1	- o b -
+095/109	om	1	- o m -
+095/111	o	1	- o - -
+095/113	ob	1	- o b -
+095/115	om	1	- o m -
+095/117	om	1	- o m -
+095/119	om	1	- o m -
+095/121	ob	1	- o b -
+095/123	ob	1	- o b -
+095/125	oum	1	- ou m -
+095/129	ob	1	- o b -
+095/131	ob	1	- o b -
+095/133	ob	1	- o b -
+095/139	ob	1	- o b -
+095/141	NA	NA	- - - - -
+095/143	ob	1	- o b -
+095/145	o	1	- o - -
+095/147	ob	1	- o b -
+095/149	oum	1	- ou m -
+095/151	aob	1	- ao b -
+095/153	NA	NA	- - - - -
+095/155	ob	1	- o b -
+096/031	ow	1	- o w -
+096/033	ow	1	- o w -
+096/035	ow	1	- o w -
+096/037	ow	1	- o w -
+096/039	ow	1	- o w -
+096/041	ob	1	- o b -
+096/043	NA	NA	- - - - -
+096/045	ob	1	- o b -
+096/047	ob	1	- o b -
+096/049	NA	NA	- - - - -
+096/051	ob	1	- o b -
+096/053	ob	1	- o b -
+096/055	NA	NA	- - - - -
+096/057	ob	1	- o b -
+096/059	ob	1	- o b -
+096/061	dob	1	d o b -
+096/063	ob	1	- o b -
+096/065	NA	NA	- - - - -
+096/067	dob	1	d o b -
+096/069	ob	1	- o b -
+096/071	ob	1	- o b -
+096/075	dob	1	d o b -
+096/077	doba	1	d o b a
+096/079	dob	1	d o b -
+096/081	ob	1	- o b -
+096/083	dom	1	d o m -
+096/085	om	1	- o m -
+096/087	am	1	- a m -
+096/089	ob	1	- o b -
+096/091	NA	NA	- - - - -
+096/093	om	1	- o m -
+096/095	am	1	- a m -
+096/097	drob	1	dr o b -
+096/099	om	1	- o m -
+096/101	ob	1	- o b -
+096/103	NA	NA	- - - - -
+096/105	om	1	- o m -
+096/107	ob	1	- o b -
+096/109	ob	1	- o b -
+096/111	NA	NA	- - - - -
+096/113	om	1	- o m -
+096/115	ob	1	- o b -
+096/117	ob	1	- o b -
+096/119	ob	1	- o b -
+096/121	oom	1	- oo m -
+096/123	om	1	- o m -
+096/125	ob	1	- o b -
+096/129	om	1	- o m -
+096/131	o	1	- o - -
+096/135	ob	1	- o b -
+096/137	ob	1	- o b -
+096/139	ob	1	- o b -
+096/141	ob	1	- o b -
+096/143	drob	1	dr o b -
+096/145	oum	1	- ou m -
+096/147	ou	1	- ou - -
+096/151	ob	1	- o b -
+096/153	om	1	- o m -
+096/155	oum	1	- ou m -
+097/031	uoow	1	- uoo w -
+097/033	ow	1	- o w -
+097/035	how	1	h o w -
+097/037	NA	NA	- - - - -
+097/039	ob	1	- o b -
+097/041	NA	NA	- - - - -
+097/043	ob	1	- o b -
+097/045	ow	1	- o w -
+097/047	ob	1	- o b -
+097/049	NA	NA	- - - - -
+097/051	ob	1	- o b -
+097/053	ob	1	- o b -
+097/055	ob	1	- o b -
+097/057	ob	1	- o b -
+097/059	ob	1	- o b -
+097/061	NA	NA	- - - - -
+097/063	NA	NA	- - - - -
+097/065	NA	NA	- - - - -
+097/067	NA	NA	- - - - -
+097/069	oob	1	- oo b -
+097/071	dob	1	d o b -
+097/073	NA	NA	- - - - -
+097/075	ob	1	- o b -
+097/077	ob	1	- o b -
+097/079	ob	1	- o b -
+097/081	dob	1	d o b -
+097/083	drom	1	dr o m -
+097/085	drob	1	dr o b -
+097/087	om	1	- o m -
+097/089	ob	1	- o b -
+097/091	am	1	- a m -
+097/093	om	1	- o m -
+097/095	o	1	- o - -
+097/097	ob	1	- o b -
+097/099	ob	1	- o b -
+097/103	ob	1	- o b -
+097/105	om	1	- o m -
+097/107	ob	1	- o b -
+097/109	drob	1	dr o b -
+097/113	drob	1	dr o b -
+097/125	NA	NA	- - - - -
+097/131	ob	1	- o b -
+097/133	om	1	- o m -
+097/139	ob	1	- o b -
+097/141	om	1	- o m -
+097/143	ob	1	- o b -
+097/145	oom	1	- oo m -
+097/149	ob	1	- o b -
+097/153	ob	1	- o b -
+098/033	ow	1	- o w -
+098/035	oow	1	- oo w -
+098/037	ow	1	- o w -
+098/039	ob	1	- o b -
+098/041	ob	1	- o b -
+098/043	ob	1	- o b -
+098/045	oob	1	- oo b -
+098/047	ob	1	- o b -
+098/049	ob	1	- o b -
+098/051	ob	1	- o b -
+098/053	obb	1	- o bb -
+098/055	ob	1	- o b -
+098/057	ob	1	- o b -
+098/059	ob	1	- o b -
+098/061	ob	1	- o b -
+098/063	dob	1	d o b -
+098/065	ob	1	- o b -
+098/067	dob	1	d o b -
+098/069	NA	NA	- - - - -
+098/071	dob	1	d o b -
+098/073	doba	1	d o b a
+098/075	ob	1	- o b -
+098/077	dob	1	d o b -
+098/079	doba	1	d o b a
+098/081	drom	1	dr o m -
+098/083	drom	1	dr o m -
+098/085	NA	NA	- - - - -
+098/087	om	1	- o m -
+098/089	NA	NA	- - - - -
+098/091	am	1	- a m -
+098/093	ob	1	- o b -
+098/095	ob	1	- o b -
+098/097	ob	1	- o b -
+098/103	NA	NA	- - - - -
+098/105	NA	NA	- - - - -
+098/107	ob	1	- o b -
+098/109	om	1	- o m -
+098/111	ob	1	- o b -
+098/119	NA	NA	- - - - -
+098/123	om	1	- o m -
+098/125	ob	1	- o b -
+098/127	ob	1	- o b -
+098/135	ob	1	- o b -
+098/137	ob	1	- o b -
+098/139	drob	1	dr o b -
+098/141	NA	NA	- - - - -
+098/143	ob	1	- o b -
+098/145	om	1	- o m -
+098/147	ob	1	- o b -
+098/149	eom	1	- eo m -
+098/151	aob	1	- ao b -
+099/033	ow	1	- o w -
+099/035	ob	1	- o b -
+099/037	ob	1	- o b -
+099/039	ob	1	- o b -
+099/041	ob	1	- o b -
+099/043	oob	1	- oo b -
+099/045	ob	1	- o b -
+099/047	NA	NA	- - - - -
+099/049	ob	1	- o b -
+099/051	ob	1	- o b -
+099/053	ob	1	- o b -
+099/055	ob	1	- o b -
+099/057	ob	1	- o b -
+099/059	ob	1	- o b -
+099/063	ob	1	- o b -
+099/065	doob	1	d oo b -
+099/067	ob	1	- o b -
+099/069	dob	1	d o b -
+099/071	ob	1	- o b -
+099/073	ob	1	- o b -
+099/075	dob	1	d o b -
+099/077	dob	1	d o b -
+099/081	NA	NA	- - - - -
+099/083	ob	1	- o b -
+099/085	ob	1	- o b -
+099/089	NA	NA	- - - - -
+099/093	om	1	- o m -
+099/095	ob	1	- o b -
+099/099	ob	1	- o b -
+099/101	ob	1	- o b -
+099/103	ob	1	- o b -
+099/105	ob	1	- o b -
+099/107	ob	1	- o b -
+099/109	ob	1	- o b -
+099/111	om	1	- o m -
+099/113	ob	1	- o b -
+099/121	droum	1	dr ou m -
+099/123	oum	1	- ou m -
+099/125	ob	1	- o b -
+099/131	ob	1	- o b -
+099/137	NA	NA	- - - - -
+099/139	oub	1	- ou b -
+099/141	ob	1	- o b -
+099/143	oub	1	- ou b -
+099/145	ou	1	- ou - -
+099/147	oub	1	- ou b -
+100/033	ow	1	- o w -
+100/035	ob	1	- o b -
+100/037	ob	1	- o b -
+100/039	oob	1	- oo b -
+100/041	ob	1	- o b -
+100/043	oob	1	- oo b -
+100/045	ob	1	- o b -
+100/049	ob	1	- o b -
+100/051	ob	1	- o b -
+100/053	ob	1	- o b -
+100/055	ob	1	- o b -
+100/057	NA	NA	- - - - -
+100/059	ob	1	- o b -
+100/061	NA	NA	- - - - -
+100/065	ob	1	- o b -
+100/067	domm	1	d o mm -
+100/069	ob	1	- o b -
+100/071	ouw	1	- ou w -
+100/073	dom	1	d o m -
+100/075	dumm	1	d u mm -
+100/077	dob	1	d o b -
+100/081	am	1	- a m -
+100/083	drob	1	dr o b -
+100/089	ob	1	- o b -
+100/093	om	1	- o m -
+100/095	o	1	- o - -
+100/097	o	1	- o - -
+100/099	o	1	- o - -
+100/101	ob	1	- o b -
+100/109	ob	1	- o b -
+100/111	ohm	1	- oh m -
+100/113	ob	1	- o b -
+100/115	NA	NA	- - - - -
+100/117	ob	1	- o b -
+100/119	NA	NA	- - - - -
+100/121	oub	1	- ou b -
+100/125	ob	1	- o b -
+100/127	drob	1	dr o b -
+100/129	ob	1	- o b -
+100/133	NA	NA	- - - - -
+100/135	draub	1	dr au b -
+100/141	ob	1	- o b -
+100/143	oum	1	- ou m -
+100/145	NA	NA	- - - - -
+101/035	ob	1	- o b -
+101/037	ob	1	- o b -
+101/039	ob	1	- o b -
+101/041	ob	1	- o b -
+101/043	ob	1	- o b -
+101/045	NA	NA	- - - - -
+101/047	ob	1	- o b -
+101/049	ob	1	- o b -
+101/051	ob	1	- o b -
+101/053	NA	NA	- - - - -
+101/055	ob	1	- o b -
+101/057	ob	1	- o b -
+101/059	ob	1	- o b -
+101/061	ob	1	- o b -
+101/063	omm	1	- o mm -
+101/065	domm	1	d o mm -
+101/067	om	1	- o m -
+101/071	o	1	- o - -
+101/075	ob	1	- o b -
+101/077	dob	1	d o b -
+101/079	ob	1	- o b -
+101/081	dob	1	d o b -
+101/091	NA	NA	- - - - -
+101/093	om	1	- o m -
+101/095	om	1	- o m -
+101/097	ob	1	- o b -
+101/099	ob	1	- o b -
+101/101	om	1	- o m -
+101/103	ob	1	- o b -
+101/107	om	1	- o m -
+101/109	ob	1	- o b -
+101/113	om	1	- o m -
+101/115	NA	NA	- - - - -
+101/121	ob	1	- o b -
+101/125	ob	1	- o b -
+101/129	ob	1	- o b -
+101/131	NA	NA	- - - - -
+101/133	ob	1	- o b -
+101/137	oub	1	- ou b -
+101/139	ob	1	- o b -
+101/141	ob	1	- o b -
+101/143	ob	1	- o b -
+101/145	aum	1	- au m -
+101/147	aom	1	- ao m -
+102/037	ob	1	- o b -
+102/039	ob	1	- o b -
+102/041	ob	1	- o b -
+102/043	ob	1	- o b -
+102/045	ob	1	- o b -
+102/047	ob	1	- o b -
+102/049	ob	1	- o b -
+102/051	ob	1	- o b -
+102/053	ob	1	- o b -
+102/055	ob	1	- o b -
+102/057	NA	NA	- - - - -
+102/059	ob	1	- o b -
+102/061	ob	1	- o b -
+102/063	ob	1	- o b -
+102/065	domm	1	d o mm -
+102/067	dom	1	d o m -
+102/069	dobb	1	d o bb -
+102/071	NA	NA	- - - - -
+102/073	dob	1	d o b -
+102/075	dob	1	d o b -
+102/077	dob	1	d o b -
+102/079	dob	1	d o b -
+102/081	dobe	1	d o b e
+102/083	dob	1	d o b -
+102/089	om	1	- o m -
+102/091	ob	1	- o b -
+102/093	om	1	- o m -
+102/095	o	1	- o - -
+102/097	NA	NA	- - - - -
+102/099	ob	1	- o b -
+102/103	om	1	- o m -
+102/107	o	1	- o - -
+102/109	oub	1	- ou b -
+102/113	ob	1	- o b -
+102/115	NA	NA	- - - - -
+102/127	ob	1	- o b -
+102/129	aub	1	- au b -
+102/131	oub	1	- ou b -
+102/135	oub	1	- ou b -
+102/137	NA	NA	- - - - -
+102/139	oub	1	- ou b -
+102/141	aub	1	- au b -
+102/143	oum	1	- ou m -
+102/145	eeam	1	- eea m -
+103/039	ob	1	- o b -
+103/041	ob	1	- o b -
+103/043	ob	1	- o b -
+103/045	ob	1	- o b -
+103/047	ob	1	- o b -
+103/049	NA	NA	- - - - -
+103/051	ob	1	- o b -
+103/053	ob	1	- o b -
+103/055	ob	1	- o b -
+103/057	ob	1	- o b -
+103/059	ob	1	- o b -
+103/063	o	1	- o - -
+103/065	NA	NA	- - - - -
+103/067	om	1	- o m -
+103/069	domm	1	d o mm -
+103/071	dopp	1	d o pp -
+103/073	dob	1	d o b -
+103/075	ob	1	- o b -
+103/077	dob	1	d o b -
+103/079	NA	NA	- - - - -
+103/081	NA	NA	- - - - -
+103/083	NA	NA	- - - - -
+103/085	ob	1	- o b -
+103/087	om	1	- o m -
+103/089	ob	1	- o b -
+103/091	om	1	- o m -
+103/097	ob	1	- o b -
+103/099	ob	1	- o b -
+103/101	ob	1	- o b -
+103/105	ob	1	- o b -
+103/107	oum	1	- ou m -
+103/111	ob	1	- o b -
+103/121	oub	1	- ou b -
+103/125	ob	1	- o b -
+103/127	oub	1	- ou b -
+103/131	oub	1	- ou b -
+103/133	ob	1	- o b -
+103/135	ob	1	- o b -
+103/137	drob	1	dr o b -
+103/139	ob	1	- o b -
+103/141	ob	1	- o b -
+103/143	am	1	- a m -
+103/145	oum	1	- ou m -
+104/033	ob	1	- o b -
+104/035	ob	1	- o b -
+104/037	ob	1	- o b -
+104/039	ob	1	- o b -
+104/041	ob	1	- o b -
+104/043	ob	1	- o b -
+104/045	ob	1	- o b -
+104/047	ob	1	- o b -
+104/049	ob	1	- o b -
+104/051	NA	NA	- - - - -
+104/053	ob	1	- o b -
+104/055	NA	NA	- - - - -
+104/057	ob	1	- o b -
+104/059	NA	NA	- - - - -
+104/061	NA	NA	- - - - -
+104/063	domm	1	d o mm -
+104/065	dom	1	d o m -
+104/067	NA	NA	- - - - -
+104/071	dob	1	d o b -
+104/075	doub	1	d ou b -
+104/077	doub	1	d ou b -
+104/079	dob	1	d o b -
+104/081	NA	NA	- - - - -
+104/083	ob	1	- o b -
+104/085	ob	1	- o b -
+104/091	ob	1	- o b -
+104/095	ohm	1	- oh m -
+104/101	ob	1	- o b -
+104/103	om	1	- o m -
+104/107	NA	NA	- - - - -
+104/111	oom	1	- oo m -
+104/113	om	1	- o m -
+104/119	ob	1	- o b -
+104/121	oub	1	- ou b -
+104/123	NA	NA	- - - - -
+104/125	oub	1	- ou b -
+104/127	ob	1	- o b -
+104/131	om	1	- o m -
+104/133	oub	1	- ou b -
+104/135	ob	1	- o b -
+104/137	ob	1	- o b -
+104/139	oub	1	- ou b -
+104/141	NA	NA	- - - - -
+104/143	oum	1	- ou m -
+104/145	aum	1	- au m -
+105/031	ob	1	- o b -
+105/033	ob	1	- o b -
+105/035	ob	1	- o b -
+105/037	ob	1	- o b -
+105/039	ob	1	- o b -
+105/041	ab	1	- a b -
+105/043	ob	1	- o b -
+105/045	ob	1	- o b -
+105/047	ob	1	- o b -
+105/049	ob	1	- o b -
+105/051	ob	1	- o b -
+105/053	ob	1	- o b -
+105/055	ob	1	- o b -
+105/057	ob	1	- o b -
+105/059	dob	1	d o b -
+105/061	NA	NA	- - - - -
+105/063	domm	1	d o mm -
+105/065	domma	1	d o mm a
+105/067	domm	1	d o mm -
+105/069	doba	1	d o b a
+105/071	domm	1	d o mm -
+105/073	doob	1	d oo b -
+105/075	doub	1	d ou b -
+105/077	dob	1	d o b -
+105/079	NA	NA	- - - - -
+105/081	ob	1	- o b -
+105/085	ob	1	- o b -
+105/087	ob	1	- o b -
+105/089	NA	NA	- - - - -
+105/103	om	1	- o m -
+105/105	ob	1	- o b -
+105/111	ob	1	- o b -
+105/113	ob	1	- o b -
+105/115	ob	1	- o b -
+105/117	oub	1	- ou b -
+105/119	ob	1	- o b -
+105/121	NA	NA	- - - - -
+105/125	NA	NA	- - - - -
+105/127	ob	1	- o b -
+105/131	ob	1	- o b -
+105/133	ob	1	- o b -
+105/135	ob	1	- o b -
+105/137	ob	1	- o b -
+105/141	NA	NA	- - - - -
+105/143	oum	1	- ou m -
+105/145	eob	1	- eo b -
+106/033	ob	1	- o b -
+106/035	ob	1	- o b -
+106/037	ob	1	- o b -
+106/039	ob	1	- o b -
+106/041	ob	1	- o b -
+106/043	ob	1	- o b -
+106/045	ob	1	- o b -
+106/047	ob	1	- o b -
+106/049	ob	1	- o b -
+106/051	ob	1	- o b -
+106/053	ob	1	- o b -
+106/057	NA	NA	- - - - -
+106/061	oub	1	- ou b -
+106/063	NA	NA	- - - - -
+106/067	dob	1	d o b -
+106/071	doba	1	d o b a
+106/073	dob	1	d o b -
+106/075	dob	1	d o b -
+106/077	dob	1	d o b -
+106/079	dobe	1	d o b e
+106/081	dob	1	d o b -
+106/085	ob	1	- o b -
+106/087	ob	1	- o b -
+106/093	öb	1	- ö b -
+106/097	doub	1	d ou b -
+106/099	ob	1	- o b -
+106/103	oub	1	- ou b -
+106/111	oub	1	- ou b -
+106/115	NA	NA	- - - - -
+106/121	ob	1	- o b -
+106/123	oub	1	- ou b -
+106/125	ob	1	- o b -
+106/129	NA	NA	- - - - -
+106/131	oub	1	- ou b -
+106/133	ob	1	- o b -
+106/135	NA	NA	- - - - -
+106/137	oub	1	- ou b -
+106/139	ob	1	- o b -
+106/141	oub	1	- ou b -
+106/143	aob	1	- ao b -
+106/145	eum	1	- eu m -
+107/033	ob	1	- o b -
+107/035	ob	1	- o b -
+107/037	ob	1	- o b -
+107/039	ob	1	- o b -
+107/041	ob	1	- o b -
+107/043	ob	1	- o b -
+107/045	NA	NA	- - - - -
+107/047	ob	1	- o b -
+107/049	ob	1	- o b -
+107/051	ob	1	- o b -
+107/053	ob	1	- o b -
+107/057	ob	1	- o b -
+107/059	ob	1	- o b -
+107/063	NA	NA	- - - - -
+107/065	dob	1	d o b -
+107/071	dob	1	d o b -
+107/075	NA	NA	- - - - -
+107/081	drum	1	dr u m -
+107/085	oub	1	- ou b -
+107/087	oub	1	- ou b -
+107/089	ob	1	- o b -
+107/091	ob	1	- o b -
+107/097	oub	1	- ou b -
+107/099	doub	1	d ou b -
+107/103	ob	1	- o b -
+107/105	ob	1	- o b -
+107/107	ob	1	- o b -
+107/111	ob	1	- o b -
+107/119	ob	1	- o b -
+107/121	dob	1	d o b -
+107/123	ob	1	- o b -
+107/125	ob	1	- o b -
+107/127	oub	1	- ou b -
+107/129	drub	1	dr u b -
+107/131	oub	1	- ou b -
+107/133	ob	1	- o b -
+107/135	NA	NA	- - - - -
+107/137	ob	1	- o b -
+107/139	ob	1	- o b -
+107/141	oum	1	- ou m -
+107/143	ob	1	- o b -
+108/033	ob	1	- o b -
+108/035	ob	1	- o b -
+108/037	ob	1	- o b -
+108/039	ob	1	- o b -
+108/041	NA	NA	- - - - -
+108/043	NA	NA	- - - - -
+108/047	ob	1	- o b -
+108/049	ob	1	- o b -
+108/063	NA	NA	- - - - -
+108/065	ob	1	- o b -
+108/067	dop	1	d o p -
+108/075	doub	1	d ou b -
+108/079	NA	NA	- - - - -
+108/081	oub	1	- ou b -
+108/085	NA	NA	- - - - -
+108/087	oub	1	- ou b -
+108/091	NA	NA	- - - - -
+108/099	öub	1	- öu b -
+108/101	oub	1	- ou b -
+108/103	ob	1	- o b -
+108/105	ob	1	- o b -
+108/109	ob	1	- o b -
+108/111	ob	1	- o b -
+108/113	drob	1	dr o b -
+108/117	ob	1	- o b -
+108/119	ob	1	- o b -
+108/121	NA	NA	- - - - -
+108/123	ob	1	- o b -
+108/125	ob	1	- o b -
+108/127	ob	1	- o b -
+108/129	ob	1	- o b -
+108/131	ob	1	- o b -
+108/133	ob	1	- o b -
+108/135	ob	1	- o b -
+108/137	ob	1	- o b -
+108/139	oub	1	- ou b -
+108/141	ou	1	- ou - -
+109/035	ob	1	- o b -
+109/037	ob	1	- o b -
+109/039	ob	1	- o b -
+109/041	ob	1	- o b -
+109/043	ob	1	- o b -
+109/045	ob	1	- o b -
+109/049	NA	NA	- - - - -
+109/053	dob	1	d o b -
+109/061	dobä	1	d o b ä
+109/063	NA	NA	- - - - -
+109/065	dob	1	d o b -
+109/067	ob	1	- o b -
+109/075	döb	1	d ö b -
+109/083	oub	1	- ou b -
+109/087	oub	1	- ou b -
+109/089	ob	1	- o b -
+109/091	NA	NA	- - - - -
+109/093	NA	NA	- - - - -
+109/095	NA	NA	- - - - -
+109/097	ob	1	- o b -
+109/099	ob	1	- o b -
+109/101	oub	1	- ou b -
+109/103	ob	1	- o b -
+109/107	drob	1	dr o b -
+109/109	ob	1	- o b -
+109/111	ob	1	- o b -
+109/113	NA	NA	- - - - -
+109/115	ob	1	- o b -
+109/117	ob	1	- o b -
+109/119	ob	1	- o b -
+109/121	ob	1	- o b -
+109/123	NA	NA	- - - - -
+109/125	ob	1	- o b -
+109/127	ob	1	- o b -
+109/129	oub	1	- ou b -
+109/131	ob	1	- o b -
+109/133	oub	1	- ou b -
+109/135	oub	1	- ou b -
+109/137	oub	1	- ou b -
+109/139	ob	1	- o b -
+110/035	ob	1	- o b -
+110/039	ob	1	- o b -
+110/041	ob	1	- o b -
+110/043	uehi	1	- ue h i
+110/045	NA	NA	- - - - -
+110/047	üfi	1	- ü f i
+110/049	üfi	1	- ü f i
+110/057	ob	1	- o b -
+110/061	dob	1	d o b -
+110/065	NA	NA	- - - - -
+110/075	drub	1	dr u b -
+110/079	NA	NA	- - - - -
+110/081	oub	1	- ou b -
+110/083	aub	1	- au b -
+110/087	aub	1	- au b -
+110/089	ob	1	- o b -
+110/091	öm	1	- ö m -
+110/093	NA	NA	- - - - -
+110/095	ob	1	- o b -
+110/097	NA	NA	- - - - -
+110/099	NA	NA	- - - - -
+110/101	ob	1	- o b -
+110/105	NA	NA	- - - - -
+110/107	NA	NA	- - - - -
+110/111	NA	NA	- - - - -
+110/113	ob	1	- o b -
+110/115	ob	1	- o b -
+110/117	ob	1	- o b -
+110/119	ob	1	- o b -
+110/121	drob	1	dr o b -
+110/125	ob	1	- o b -
+110/127	ob	1	- o b -
+110/129	om	1	- o m -
+110/131	ob	1	- o b -
+110/133	ob	1	- o b -
+110/135	ob	1	- o b -
+110/137	NA	NA	- - - - -
+110/139	NA	NA	- - - - -
+111/035	ob	1	- o b -
+111/037	NA	NA	- - - - -
+111/039	ob	1	- o b -
+111/041	ob	1	- o b -
+111/043	NA	NA	- - - - -
+111/045	uehi	1	- ue h i
+111/059	op	1	- o p -
+111/073	doum	1	d ou m -
+111/075	doub	1	d ou b -
+111/077	oub	1	- ou b -
+111/079	ob	1	- o b -
+111/081	oub	1	- ou b -
+111/083	oub	1	- ou b -
+111/087	NA	NA	- - - - -
+111/089	oub	1	- ou b -
+111/105	NA	NA	- - - - -
+111/107	ob	1	- o b -
+111/109	NA	NA	- - - - -
+111/111	NA	NA	- - - - -
+111/113	ob	1	- o b -
+111/115	ob	1	- o b -
+111/117	ob	1	- o b -
+111/119	drob	1	dr o b -
+111/121	ob	1	- o b -
+111/123	ob	1	- o b -
+111/125	ob	1	- o b -
+112/037	ob	1	- o b -
+112/039	ob	1	- o b -
+112/041	ob	1	- o b -
+112/043	uehi	1	- ue h i
+112/047	ob	1	- o b -
+112/059	dop	1	d o p -
+112/061	dob	1	d o b -
+112/063	ob	1	- o b -
+112/075	NA	NA	- - - - -
+112/081	oub	1	- ou b -
+112/083	ob	1	- o b -
+112/085	aub	1	- au b -
+112/111	ob	1	- o b -
+112/115	NA	NA	- - - - -
+112/117	NA	NA	- - - - -
+112/119	ob	1	- o b -
+113/035	NA	NA	- - - - -
+113/037	ob	1	- o b -
+113/039	om	1	- o m -
+113/047	NA	NA	- - - - -
+113/079	ou	1	- ou - -
+113/081	doub	1	d ou b -
+113/083	ob	1	- o b -
+113/085	ob	1	- o b -
+113/087	oum	1	- ou m -
+113/121	ob	1	- o b -
+113/123	ob	1	- o b -
+114/035	ob	1	- o b -
+114/045	NA	NA	- - - - -
+114/083	oub	1	- ou b -
+114/085	oub	1	- ou b -
+115/041	ob	1	- o b -
+115/043	ob	1	- o b -
+115/045	ob	1	- o b -
+115/083	ob	1	- o b -
+115/085	oub	1	- ou b -
+116/043	ob	1	- o b -
+116/045	NA	NA	- - - - -
+116/083	ob	1	- o b -
+117/043	ob	1	- o b -
+117/045	ob	1	- o b -
+118/041	ob	1	- o b -
+119/083	NA	NA	- - - - -
+120/085	NA	NA	- - - - -
+121/127	ob	1	- o b -
+122/127	tob	1	t o b -
+122/129	ob	1	- o b -
+123/081	NA	NA	- - - - -
+123/123	ob	1	- o b -
+123/125	tob	1	t o b -
+123/127	ob	1	- o b -
+123/129	ob	1	- o b -
+124/125	NA	NA	- - - - -
+124/127	ob	1	- o b -
+124/129	ob	1	- o b -

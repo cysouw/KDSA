@@ -10,7 +10,7 @@ writeFile(39)
 source("scripts/mapWenker.R")
 load("data/KDSAvoronoiSP.Rdata")
 
-(MAP <- mapFromIndex(226))
+(MAP <- mapFromIndex(581))
 
 # show in browser
 
@@ -53,14 +53,14 @@ limage(v
        ) -> reorder
 
 limage(v[reorder$rows,reorder$cols]
-       , col = rainbow(15)
+       , col = h # rainbow(25)
        , col.na = NA
        , labels.x = F
-       , cex.axis = .5
+       , cex.axis = .3
        , legend = 15
-       , cex.legend = 0.7
+       , cex.legend = 0.5
        , pch.na = NULL
-       , asp = (nrow(v)/ncol(v))/3
+       , asp = (nrow(v)/ncol(v))/2
        )
 
 
