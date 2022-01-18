@@ -75,7 +75,7 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 		consonants <- c(center, consonants)
 		freq <- freq[consonants]
 
-		cols <- c("grey", brewer.pal(12, "Set3"), rep("#A9A9A9",times=20))
+		cols <- c("grey", brewer.pal(12, "Set3"), rep("#D3D3D3",times=20))
 		cols <- cols[1:length(consonants)]
 		names(cols) <- consonants
 		
