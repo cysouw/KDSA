@@ -18,7 +18,7 @@ require(RColorBrewer)
 # save map as widget
 # htmlwidgets::saveWidget(MAP, file = "title.html")
 
-mapFromIndex <- function(nr) {
+mapFromIndex <- function(nr, savedir = NULL) {
 	index <- read.delim("alignments/index.txt")
 	file <- paste0("alignments/", index$LEMMA[nr], ".txt")
 	align <- getAlign(file, index$COGID[nr], index$COLUMN[nr])
@@ -26,6 +26,7 @@ mapFromIndex <- function(nr) {
 			, vowel = index$VOWEL[nr]
 			, center = index$CENTER[nr]
 			, title = index$TITLE[nr]
+			, savedir = savedir
 	)	
 }
 
@@ -44,7 +45,7 @@ getAlign <- function(lemma, cogid, column) {
 
 }
 
-mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker") {
+mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker", savedir = NULL) {
 
 	align <- as.character(align)
 	align[align == "NA"] <- NA
@@ -117,8 +118,18 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 		, opacity = 0.9
 	)
 
-	return(widget)
-
+	if (is.null(savedir)) {
+		return(widget)
+	} else {
+		dir.create(savedir, showWarnings = F)
+		filename <- paste0(center, "_",title)
+		filepath <- file.path(savedir, filename)
+		htmlwidgets::saveWidget(widget
+							, file = paste0(filepath,".html")
+							, title = filename
+							)
+		unlink(paste0(filepath,"_files"), recursive = T)
+	}
 }
 
 vowelAnalysis <- function(align) {

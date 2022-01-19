@@ -32,6 +32,7 @@ v <- v$align
 freq <- table(v)
 numV <- vowelAnalysis(names(freq))
 examples <- sample(names(freq),5000,prob=freq/sum(freq),replace = T)
+examples <- examples[examples!=""]
 data <- rbind(numV, numV[examples,])
 d <- as.matrix(dist(data))
 h <- heeringa(d)[1:nrow(numV)]
