@@ -1,24 +1,37 @@
 # Wenkerkarten
 
-- [Apfel_A.html](Apfel_A.html)
-- [Apfel_PF.html](Apfel_PF.html)
-- [Apfel_E.html](Apfel_E.html)
-- [Apfel_L.html](Apfel_L.html)
-- [Auch_AU.html](Auch_AU.html)
-- [Auch_CH.html](Auch_CH.html)
-- [Auf_AU.html](Auf_AU.html)
-- [Auf_F.html](Auf_F.html)
-- [Berg_B.html](Berg_B.html)
-- [Berg_ER.html](Berg_ER.html)
-- [Berg_G.html](Berg_G.html)
-- [Brot_B.html](Brot_B.html)
-- [Brot_R.html](Brot_R.html)
-- [Brot_O.html](Brot_O.html)
-- [Brot_T.html](Brot_T.html)
-- [Fleisch_F.html](Fleisch_F.html)
-- [Fleisch_EI.html](Fleisch_EI.html)
-- [Fleisch_SCH.html](Fleisch_SCH.html)
-- [Wurst_W.html](Wurst_W.html)
-- [Wurst_UR.html](Wurst_UR.html)
-- [Wurst_S.html](Wurst_S.html)
-- [Wurst_T.html](Wurst_T.html)
+## <a>
+
+- [a_Affe.html](a_Affe.html)
+- [a_alle.html](a_alle.html)
+- [a_als.html](a_als.html)
+- [a_alt.html](a_alt.html)
+- [a_an.html](a_an.html)
+- [a_Andern.html](a_Andern.html)
+- [a_anhebt.html](a_anhebt.html)
+- [a_bald.html](a_bald.html)
+- [a_das.html](a_das.html)
+- [a_gebracht.html](a_gebracht.html)
+- [a_gebrannt.html](a_gebrannt.html)
+
+## <au>
+
+- [au_auch.html](au_auch.html)
+- [au_auf.html](au_auf.html)
+- [au_Auge.html](au_Auge.html)
+- [au_aus.html](au_aus.html)
+- [au_bauen.html](au_bauen.html)
+- [au_Bauern.html](au_Bauern.html)
+- [au_braune.html](au_braune.html)
+- [au_Laub.html](au_Laub.html)
+
+## <ei>
+
+- [ei_bei.html](ei_bei.html)
+- [ei_beissen.html](ei_beissen.html)
+- [ei_bleib.html](ei_bleib.html)
+- [ei_deiner.html](ei_deiner.html)
+- [ei_drei.html](ei_drei.html)
+- [ei_Eier.html](ei_Eier.html)
+- [ei_Eis.html](ei_Eis.html)
+
