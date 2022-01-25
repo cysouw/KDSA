@@ -39,15 +39,15 @@
 010/217	schlecht	1	sch l e ch t
 010/219	schlecht	1	sch l e ch t
 011/049	ring	2	r i ng -
-011/053	solle	NA	- s o ll e - - - - - -
+011/053	solle	NA	-
 011/055	ring	2	r i ng -
-011/057	gall	NA	- g a ll - - - - - - -
-011/059	skidt	NA	- s k i d t - - - - -
-011/061	flav	NA	- f l a v - - - - - -
-011/063	skidt	NA	- s k i d t - - - - -
-011/065	skit	NA	- s k i t - - - - - -
+011/057	gall	NA	-
+011/059	skidt	NA	-
+011/061	flav	NA	-
+011/063	skidt	NA	-
+011/065	skit	NA	-
 011/067	ring	2	r i ng -
-011/069	skarns	NA	- s k a r n s - - - -
+011/069	skarns	NA	-
 011/187	schlecht	1	sch l e ch t
 011/189	schlecht	1	sch l e ch t
 011/191	schlecht	1	sch l e ch t
@@ -66,14 +66,14 @@
 012/049	sleght	1	s l e gh t
 012/051	hin	2	h i n -
 012/053	ring	2	r i ng -
-012/055	skidt	NA	- s k i d t - - - - -
-012/057	solle	NA	- s o ll e - - - - - -
-012/059	skidt	NA	- s k i d t - - - - -
+012/055	skidt	NA	-
+012/057	solle	NA	-
+012/059	skidt	NA	-
 012/061	ring	2	r i ng -
 012/063	reng	2	r e ng -
 012/065	slot	1	s l o - t
 012/067	ring	2	r i ng -
-012/069	flau	NA	- f l au - - - - - - -
+012/069	flau	NA	-
 012/187	schlecht	1	sch l e ch t
 012/189	schlecht	1	sch l e ch t
 012/191	schlecht	1	sch l e ch t
@@ -97,7 +97,7 @@
 013/053	hiinje	2	h ii nj e
 013/055	hijn	2	h ij n -
 013/057	ring	2	r i ng -
-013/059	kommele	NA	- k o mm e l e
+013/059	kommele	NA	-
 013/061	schlecht	1	sch l e ch t
 013/063	schlecht	1	sch l e ch t
 013/065	slechd	1	s l e ch d
@@ -534,7 +534,7 @@
 021/195	schlecht	1	sch l e ch t
 021/197	schlecht	1	sch l e ch t
 021/199	schlecht	1	sch l e ch t
-021/201	ausche	NA	- au sch e - - - - - - -
+021/201	ausche	NA	-
 021/203	schlecht	1	sch l e ch t
 021/205	schlecht	1	sch l e ch t
 021/207	schlecht	1	sch l e ch t
@@ -917,7 +917,7 @@
 027/095	slicht	1	s l i ch t
 027/099	sslicht	1	ss l i ch t
 027/101	sslicht	1	ss l i ch t
-027/103	NA	NA	- - - - - - - - - - -
+027/103	NA	NA	-
 027/105	slicht	1	s l i ch t
 027/107	schlicht	1	sch l i ch t
 027/109	schlicht	1	sch l i ch t
@@ -1491,7 +1491,7 @@
 035/113	schlecht	1	sch l e ch t
 035/115	schlecht	1	sch l e ch t
 035/117	schlecht	1	sch l e ch t
-035/121	NA	NA	- - - - - - - - - - -
+035/121	NA	NA	-
 035/123	schlecht	1	sch l e ch t
 035/125	schlächt	1	sch l ä ch t
 035/127	schlecht	1	sch l e ch t
@@ -1983,7 +1983,7 @@
 043/101	schlecht	1	sch l e ch t
 043/103	schlecht	1	sch l e ch t
 043/105	schlecht	1	sch l e ch t
-043/107	NA	NA	- - - - - - - - - - -
+043/107	NA	NA	-
 043/109	schlecht	1	sch l e ch t
 043/111	schlecht	1	sch l e ch t
 043/113	schlecht	1	sch l e ch t
@@ -2053,7 +2053,7 @@
 044/123	schlaücht	1	sch l aü ch t
 044/125	schlaicht	1	sch l ai ch t
 044/127	schlecht	1	sch l e ch t
-044/129	NA	NA	- - - - - - - - - - -
+044/129	NA	NA	-
 044/131	schlecht	1	sch l e ch t
 044/133	schlecht	1	sch l e ch t
 044/135	schlecht	1	sch l e ch t
@@ -2484,7 +2484,7 @@
 051/117	schlecht	1	sch l e ch t
 051/119	schlecht	1	sch l e ch t
 051/121	schlecht	1	sch l e ch t
-051/123	meschante	NA	- m e sch a n t e - - -
+051/123	meschante	NA	-
 051/125	schlecht	1	sch l e ch t
 051/127	schlecht	1	sch l e ch t
 051/129	schlecht	1	sch l e ch t
@@ -2849,7 +2849,7 @@
 057/027	schleit	1	sch l ei - t
 057/029	schleit	1	sch l ei - t
 057/031	schläht	1	sch l äh - t
-057/033	NA	NA	- - - - - - - - - - -
+057/033	NA	NA	-
 057/035	schleiht	1	sch l eih - t
 057/037	schlecht	1	sch l e ch t
 057/039	schlecht	1	sch l e ch t
@@ -3257,7 +3257,7 @@
 062/127	schlaacht	1	sch l aa ch t
 062/129	schlajcht	1	sch l aj ch t
 062/131	schlajcht	1	sch l aj ch t
-062/133	ählende	NA	- äh l e n d e - - - -
+062/133	ählende	NA	-
 062/135	schlecht	1	sch l e ch t
 062/137	schlecht	1	sch l e ch t
 062/139	schlecht	1	sch l e ch t
@@ -3271,7 +3271,7 @@
 062/155	schlecht	1	sch l e ch t
 062/157	schlecht	1	sch l e ch t
 062/159	schlecht	1	sch l e ch t
-062/161	NA	NA	- - - - - - - - - - -
+062/161	NA	NA	-
 063/021	schleet	1	sch l ee - t
 063/023	schläht	1	sch l äh - t
 063/025	schlät	1	sch l ä - t
@@ -3624,7 +3624,7 @@
 068/087	schlecht	1	sch l e ch t
 068/089	schlächt	1	sch l ä ch t
 068/091	schlecht	1	sch l e ch t
-068/093	NA	NA	- - - - - - - - - - -
+068/093	NA	NA	-
 068/095	schlächt	1	sch l ä ch t
 068/097	schlächt	1	sch l ä ch t
 068/099	schlecht	1	sch l e ch t
@@ -3969,7 +3969,7 @@
 074/093	schleacht	1	sch l ea ch t
 074/095	schlecht	1	sch l e ch t
 074/097	schlecht	1	sch l e ch t
-074/099	NA	NA	- - - - - - - - - - -
+074/099	NA	NA	-
 074/101	schleat	1	sch l ea - t
 074/103	schlecht	1	sch l e ch t
 074/105	schlächt	1	sch l ä ch t
@@ -3982,7 +3982,7 @@
 074/155	biise	4	b ii s e
 074/157	schlacht	1	sch l a ch t
 074/159	schlecht	1	sch l e ch t
-074/161	NA	NA	- - - - - - - - - - -
+074/161	NA	NA	-
 074/163	schlaechth	1	sch l ae ch th
 074/165	schlecht	1	sch l e ch t
 075/019	schlecht	1	sch l e ch t
@@ -4026,7 +4026,7 @@
 075/095	schlecht	1	sch l e ch t
 075/097	schlecht	1	sch l e ch t
 075/099	schlecht	1	sch l e ch t
-075/101	NA	NA	- - - - - - - - - - -
+075/101	NA	NA	-
 075/103	schlecht	1	sch l e ch t
 075/105	schlecht	1	sch l e ch t
 075/107	schlächt	1	sch l ä ch t
@@ -4045,7 +4045,7 @@
 076/023	schlecht	1	sch l e ch t
 076/025	schlecht	1	sch l e ch t
 076/027	schlecht	1	sch l e ch t
-076/029	schro	NA	- sch r o - - - - - - -
+076/029	schro	NA	-
 076/033	schlecht	1	sch l e ch t
 076/035	schlägt	1	sch l ä g t
 076/037	schlechd	1	sch l e ch d
@@ -4122,7 +4122,7 @@
 077/079	schlecht	1	sch l e ch t
 077/081	schlecht	1	sch l e ch t
 077/083	schlecht	1	sch l e ch t
-077/085	NA	NA	- - - - - - - - - - -
+077/085	NA	NA	-
 077/087	schlecht	1	sch l e ch t
 077/089	schlächt	1	sch l ä ch t
 077/091	schlecht	1	sch l e ch t
@@ -4443,7 +4443,7 @@
 084/041	schlacht	1	sch l a ch t
 084/043	schlächd	1	sch l ä ch d
 084/045	schlecht	1	sch l e ch t
-084/047	NA	NA	- - - - - - - - - - -
+084/047	NA	NA	-
 084/049	schlechd	1	sch l e ch d
 084/051	schlechd	1	sch l e ch d
 084/053	schlecht	1	sch l e ch t
@@ -4553,7 +4553,7 @@
 085/145	schlechd	1	sch l e ch d
 085/147	schlecht	1	sch l e ch t
 085/149	schlecht	1	sch l e ch t
-085/175	schproide	NA	- sch p r oi d e - - - -
+085/175	schproide	NA	-
 085/193	schleecht	1	sch l ee ch t
 085/197	schleecht	1	sch l ee ch t
 086/033	schlecht	1	sch l e ch t
@@ -4616,7 +4616,7 @@
 086/147	schlechd	1	sch l e ch d
 086/149	schlecht	1	sch l e ch t
 086/151	schlecht	1	sch l e ch t
-086/175	schpraidi	NA	- sch p r ai d i - - - -
+086/175	schpraidi	NA	-
 086/197	schlecht	1	sch l e ch t
 086/199	schlecht	1	sch l e ch t
 087/033	schlächt	1	sch l ä ch t
@@ -4659,7 +4659,7 @@
 087/109	schlächt	1	sch l ä ch t
 087/111	schlecht	1	sch l e ch t
 087/113	schlecht	1	sch l e ch t
-087/115	hartö	NA	- h a r t ö - - - - -
+087/115	hartö	NA	-
 087/117	schlecht	1	sch l e ch t
 087/119	schlecht	1	sch l e ch t
 087/121	schlecht	1	sch l e ch t
@@ -4884,7 +4884,7 @@
 091/107	schlecht	1	sch l e ch t
 091/109	schlecht	1	sch l e ch t
 091/111	schlecht	1	sch l e ch t
-091/113	labö	NA	- l a b ö - - - - - -
+091/113	labö	NA	-
 091/115	schlecht	1	sch l e ch t
 091/117	schlecht	1	sch l e ch t
 091/119	schlecht	1	sch l e ch t
@@ -4956,7 +4956,7 @@
 092/133	schlecht	1	sch l e ch t
 092/135	schlecht	1	sch l e ch t
 092/137	schlecht	1	sch l e ch t
-092/139	nixnutzige	NA	- n i x n u t z i g e
+092/139	nixnutzige	NA	-
 092/141	schlecht	1	sch l e ch t
 092/143	schlecht	1	sch l e ch t
 092/145	schlechd	1	sch l e ch d
@@ -4978,13 +4978,13 @@
 093/059	schleacht	1	sch l ea ch t
 093/061	baese	4	b ae s e
 093/063	schleacht	1	sch l ea ch t
-093/065	NA	NA	- - - - - - - - - - -
+093/065	NA	NA	-
 093/067	schlääachd	1	sch l ääa ch d
 093/069	schleachd	1	sch l ea ch d
 093/071	schlecht	1	sch l e ch t
 093/073	schlecht	1	sch l e ch t
-093/075	koiza	NA	- k oi z a - - - - - -
-093/077	koize	NA	- k oi z e - - - - - -
+093/075	koiza	NA	-
+093/077	koize	NA	-
 093/079	schleacht	1	sch l ea ch t
 093/081	schlecht	1	sch l e ch t
 093/083	schlecht	1	sch l e ch t
@@ -4993,7 +4993,7 @@
 093/089	schlecht	1	sch l e ch t
 093/091	schlecht	1	sch l e ch t
 093/093	schlecht	1	sch l e ch t
-093/095	hoarchte	NA	- h oa r ch t e - - - -
+093/095	hoarchte	NA	-
 093/097	schlecht	1	sch l e ch t
 093/099	schlecht	1	sch l e ch t
 093/101	schlecht	1	sch l e ch t
@@ -5042,7 +5042,7 @@
 094/069	schleachd	1	sch l ea ch d
 094/071	schlecht	1	sch l e ch t
 094/073	schleacht	1	sch l ea ch t
-094/075	koitze	NA	- k oi t z e - - - - -
+094/075	koitze	NA	-
 094/077	schlächt	1	sch l ä ch t
 094/079	schlächt	1	sch l ä ch t
 094/081	schlecht	1	sch l e ch t
@@ -5178,7 +5178,7 @@
 096/099	schlecht	1	sch l e ch t
 096/101	schlecht	1	sch l e ch t
 096/103	schlecht	1	sch l e ch t
-096/105	lobi	NA	- l o b i - - - - - -
+096/105	lobi	NA	-
 096/107	schlecht	1	sch l e ch t
 096/109	schlecht	1	sch l e ch t
 096/111	schlecht	1	sch l e ch t
@@ -5191,7 +5191,7 @@
 096/125	schlechd	1	sch l e ch d
 096/129	schlechd	1	sch l e ch d
 096/131	schlecht	1	sch l e ch t
-096/135	spere	NA	- s p e r e - - - - -
+096/135	spere	NA	-
 096/137	schlecht	1	sch l e ch t
 096/139	schlecht	1	sch l e ch t
 096/141	schlecht	1	sch l e ch t
@@ -5266,7 +5266,7 @@
 098/059	schleacht	1	sch l ea ch t
 098/061	schleat	1	sch l ea - t
 098/063	schleat	1	sch l ea - t
-098/065	NA	NA	- - - - - - - - - - -
+098/065	NA	NA	-
 098/067	schlecht	1	sch l e ch t
 098/069	schleacht	1	sch l ea ch t
 098/071	schleacht	1	sch l ea ch t
@@ -5290,11 +5290,11 @@
 098/111	schlecht	1	sch l e ch t
 098/119	schlecht	1	sch l e ch t
 098/123	schlecht	1	sch l e ch t
-098/125	elendige	NA	- e l e n d i g e - -
+098/125	elendige	NA	-
 098/127	schlechd	1	sch l e ch d
 098/135	schlecht	1	sch l e ch t
 098/137	schlecht	1	sch l e ch t
-098/139	harbe	NA	- h a r b e - - - - -
+098/139	harbe	NA	-
 098/141	schlecht	1	sch l e ch t
 098/143	schlecht	1	sch l e ch t
 098/145	schlecht	1	sch l e ch t
@@ -5321,7 +5321,7 @@
 099/069	schleacht	1	sch l ea ch t
 099/071	schleacht	1	sch l ea ch t
 099/073	schleacht	1	sch l ea ch t
-099/075	kuaza	NA	- k ua z a - - - - - -
+099/075	kuaza	NA	-
 099/077	schleacht	1	sch l ea ch t
 099/081	schleacht	1	sch l ea ch t
 099/083	schlecht	1	sch l e ch t
@@ -5386,7 +5386,7 @@
 100/125	schlecht	1	sch l e ch t
 100/127	schlecht	1	sch l e ch t
 100/129	schlecht	1	sch l e ch t
-100/133	notige	NA	- n o t i g e - - - -
+100/133	notige	NA	-
 100/135	schlecht	1	sch l e ch t
 100/141	schlecht	1	sch l e ch t
 100/143	schlechd	1	sch l e ch d
@@ -5456,7 +5456,7 @@
 102/073	schlöcht	1	sch l ö ch t
 102/075	schlöcht	1	sch l ö ch t
 102/077	schlöcht	1	sch l ö ch t
-102/079	NA	NA	- - - - - - - - - - -
+102/079	NA	NA	-
 102/081	schlecht	1	sch l e ch t
 102/083	schlecht	1	sch l e ch t
 102/089	schlecht	1	sch l e ch t
@@ -5503,7 +5503,7 @@
 103/083	schlecht	1	sch l e ch t
 103/085	schleacht	1	sch l ea ch t
 103/087	latze	3	l a tz e
-103/089	eade	NA	- ea d e - - - - - - -
+103/089	eade	NA	-
 103/091	lötzö	3	l ö tz ö
 103/097	schlecht	1	sch l e ch t
 103/099	schlecht	1	sch l e ch t
@@ -5551,7 +5551,7 @@
 104/095	schlecht	1	sch l e ch t
 104/101	schlecht	1	sch l e ch t
 104/103	schlecht	1	sch l e ch t
-104/107	haschte	NA	- h a sch t e - - - - -
+104/107	haschte	NA	-
 104/111	schlecht	1	sch l e ch t
 104/113	schlecht	1	sch l e ch t
 104/119	schlecht	1	sch l e ch t
@@ -5598,7 +5598,7 @@
 105/089	schlöcht	1	sch l ö ch t
 105/103	schlecht	1	sch l e ch t
 105/105	schlechd	1	sch l e ch d
-105/111	noatige	NA	- n oa t i g e - - - -
+105/111	noatige	NA	-
 105/113	schlecht	1	sch l e ch t
 105/115	schlecht	1	sch l e ch t
 105/117	schlecht	1	sch l e ch t
@@ -5635,7 +5635,7 @@
 106/079	schlecht	1	sch l e ch t
 106/081	schlöcht	1	sch l ö ch t
 106/085	leötze	3	l eö tz e
-106/087	lausige	NA	- l au s i g e - - - -
+106/087	lausige	NA	-
 106/093	lötz	3	l ö tz -
 106/097	schleacht	1	sch l ea ch t
 106/099	lötze	3	l ö tz e
@@ -5676,18 +5676,18 @@
 107/087	lötze	3	l ö tz e
 107/089	lötza	3	l ö tz a
 107/091	letza	3	l e tz a
-107/097	abiche	NA	- a b i ch e - - - - -
+107/097	abiche	NA	-
 107/099	letze	3	l e tz e
 107/103	lejze	3	l ej z e
 107/105	lötze	3	l ö tz e
 107/107	schlecht	1	sch l e ch t
 107/111	schlecht	1	sch l e ch t
 107/119	schlecht	1	sch l e ch t
-107/121	NA	NA	- - - - - - - - - - -
+107/121	NA	NA	-
 107/123	schlecht	1	sch l e ch t
 107/125	schleacht	1	sch l ea ch t
 107/127	schleacht	1	sch l ea ch t
-107/129	hati	NA	- h a t i - - - - - -
+107/129	hati	NA	-
 107/131	schlecht	1	sch l e ch t
 107/133	schlecht	1	sch l e ch t
 107/135	schläicht	1	sch l äi ch t
@@ -5726,7 +5726,7 @@
 108/125	schlacht	1	sch l a ch t
 108/127	schlecht	1	sch l e ch t
 108/129	schlecht	1	sch l e ch t
-108/131	schwari	NA	- sch w a r i - - - - -
+108/131	schwari	NA	-
 108/133	schlecht	1	sch l e ch t
 108/135	schlecht	1	sch l e ch t
 108/137	schlecht	1	sch l e ch t
@@ -5756,7 +5756,7 @@
 109/101	leze	3	l e z e
 109/103	loze	3	l o z e
 109/107	lötze	3	l ö tz e
-109/109	znicht	NA	- z n i ch t - - - - -
+109/109	znicht	NA	-
 109/111	schlecht	1	sch l e ch t
 109/113	schlecht	1	sch l e ch t
 109/115	schlecht	1	sch l e ch t
@@ -5803,9 +5803,9 @@
 110/119	schlecht	1	sch l e ch t
 110/121	schlecht	1	sch l e ch t
 110/125	schlecht	1	sch l e ch t
-110/127	horte	NA	- h o r t e - - - - -
+110/127	horte	NA	-
 110/129	schlecht	1	sch l e ch t
-110/131	stieri	NA	- s t ie r i - - - - -
+110/131	stieri	NA	-
 110/133	schlecht	1	sch l e ch t
 110/135	schlecht	1	sch l e ch t
 110/137	schlecht	1	sch l e ch t
@@ -5820,14 +5820,14 @@
 111/073	schlecht	1	sch l e ch t
 111/075	schlecht	1	sch l e ch t
 111/077	läzi	3	l ä z i
-111/079	übli	NA	- ü b l i - - - - - -
+111/079	übli	NA	-
 111/081	schlecht	1	sch l e ch t
 111/083	schlecht	1	sch l e ch t
 111/087	lötze	3	l ö tz e
 111/089	lötze	3	l ö tz e
 111/105	schleacht	1	sch l ea ch t
 111/107	schleacht	1	sch l ea ch t
-111/109	trawrige	NA	- t r a w r i g e - -
+111/109	trawrige	NA	-
 111/111	schlecht	1	sch l e ch t
 111/113	schlecht	1	sch l e ch t
 111/115	schlecht	1	sch l e ch t
@@ -5883,7 +5883,7 @@
 121/127	schlecht	1	sch l e ch t
 122/127	schlecht	1	sch l e ch t
 122/129	schlecht	1	sch l e ch t
-123/081	lachchta	NA	- l a chch - t a - - - -
+123/081	lachchta	NA	-
 123/123	schlecht	1	sch l e ch t
 123/125	schlacht	1	sch l a ch t
 123/127	schlecht	1	sch l e ch t

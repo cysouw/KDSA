@@ -65,7 +65,7 @@
 012/047	min	1	m i n -
 012/049	min	1	m i n -
 012/051	min	1	m i n -
-012/053	NA	NA	- - - -
+012/053	NA	NA	-
 012/055	mi	1	m i - -
 012/057	mi	1	m i - -
 012/059	mi	1	m i - -
@@ -197,7 +197,7 @@
 015/209	mien	1	m ie n -
 015/211	min	1	m i n -
 015/213	mie	1	m ie - -
-015/215	NA	NA	- - - -
+015/215	NA	NA	-
 015/217	mien	1	m ie n -
 015/219	mien	1	m ie n -
 015/221	miea	1	m iea - -
@@ -210,7 +210,7 @@
 016/065	min	1	m i n -
 016/067	min	1	m i n -
 016/081	mien	1	m ie n -
-016/083	NA	NA	- - - -
+016/083	NA	NA	-
 016/105	min	1	m i n -
 016/107	min	1	m i n -
 016/109	mien	1	m ie n -
@@ -596,7 +596,7 @@
 022/179	mien	1	m ie n -
 022/181	min	1	m i n -
 022/183	mei	1	m ei - -
-022/185	NA	NA	- - - -
+022/185	NA	NA	-
 022/187	mei	1	m ei - -
 022/189	mein	1	m ei n -
 022/191	mein	1	m ei n -
@@ -972,7 +972,7 @@
 028/063	mien	1	m ie n -
 028/065	mihn	1	m ih n -
 028/067	min	1	m i n -
-028/069	NA	NA	- - - -
+028/069	NA	NA	-
 028/071	min	1	m i n -
 028/073	mien	1	m ie n -
 028/075	mien	1	m ie n -
@@ -1639,7 +1639,7 @@
 037/153	mio	1	m io - -
 037/155	mijo	1	m ijo - -
 037/157	mije	1	m ije - -
-037/159	NA	NA	- - - -
+037/159	NA	NA	-
 037/163	min	1	m i n -
 037/171	mi	1	m i - -
 038/033	min	1	m i n -
@@ -1876,7 +1876,7 @@
 041/133	mein	1	m ei n -
 041/135	mein	1	m ei n -
 041/139	mein	1	m ei n -
-041/141	NA	NA	- - - -
+041/141	NA	NA	-
 041/145	mein	1	m ei n -
 041/147	mai	1	m ai - -
 041/153	miä	1	m iä - -
@@ -2388,7 +2388,7 @@
 050/061	mein	1	m ei n -
 050/063	meein	1	m eei n -
 050/065	min	1	m i n -
-050/067	NA	NA	- - - -
+050/067	NA	NA	-
 050/069	min	1	m i n -
 050/071	mäin	1	m äi n -
 050/073	min	1	m i n -
@@ -2447,7 +2447,7 @@
 051/043	muin	1	m ui n -
 051/045	muin	1	m ui n -
 051/047	muin	1	m ui n -
-051/049	NA	NA	- - - -
+051/049	NA	NA	-
 051/051	mäin	1	m äi n -
 051/053	meiin	1	m eii n -
 051/055	möin	1	m öi n -
@@ -2484,7 +2484,7 @@
 051/117	mein	1	m ei n -
 051/119	mein	1	m ei n -
 051/121	mein	1	m ei n -
-051/123	NA	NA	- - - -
+051/123	NA	NA	-
 051/125	mei	1	m ei - -
 051/127	mei	1	m ei - -
 051/129	mei	1	m ei - -
@@ -2493,7 +2493,7 @@
 051/135	mei	1	m ei - -
 051/137	mee	1	m ee - -
 051/139	me	1	m e - -
-051/141	NA	NA	- - - -
+051/141	NA	NA	-
 051/143	mee	1	m ee - -
 051/145	me	1	m e - -
 051/147	me	1	m e - -
@@ -3028,13 +3028,13 @@
 059/099	mei	1	m ei - -
 059/101	mei	1	m ei - -
 059/103	mei	1	m ei - -
-059/105	NA	NA	- - - -
+059/105	NA	NA	-
 059/107	mei	1	m ei - -
 059/109	mei	1	m ei - -
 059/111	mei	1	m ei - -
 059/113	mei	1	m ei - -
 059/115	mei	1	m ei - -
-059/117	NA	NA	- - - -
+059/117	NA	NA	-
 059/119	mei	1	m ei - -
 059/121	mei	1	m ei - -
 059/123	mei	1	m ei - -
@@ -3183,7 +3183,7 @@
 061/121	mei	1	m ei - -
 061/123	mei	1	m ei - -
 061/125	mei	1	m ei - -
-061/127	NA	NA	- - - -
+061/127	NA	NA	-
 061/129	mai	1	m ai - -
 061/131	mei	1	m ei - -
 061/133	mei	1	m ei - -
@@ -3239,19 +3239,19 @@
 062/091	mä	1	m ä - -
 062/093	mei	1	m ei - -
 062/095	mei	1	m ei - -
-062/097	NA	NA	- - - -
+062/097	NA	NA	-
 062/099	mei	1	m ei - -
 062/101	mei	1	m ei - -
 062/103	mei	1	m ei - -
 062/105	mei	1	m ei - -
 062/107	mei	1	m ei - -
 062/109	mei	1	m ei - -
-062/111	NA	NA	- - - -
+062/111	NA	NA	-
 062/113	mein	1	m ei n -
-062/115	NA	NA	- - - -
+062/115	NA	NA	-
 062/117	mei	1	m ei - -
 062/119	mei	1	m ei - -
-062/121	NA	NA	- - - -
+062/121	NA	NA	-
 062/123	mei	1	m ei - -
 062/125	mei	1	m ei - -
 062/127	mei	1	m ei - -
@@ -3311,7 +3311,7 @@
 063/093	mei	1	m ei - -
 063/095	mei	1	m ei - -
 063/097	mei	1	m ei - -
-063/099	NA	NA	- - - -
+063/099	NA	NA	-
 063/101	mei	1	m ei - -
 063/103	mei	1	m ei - -
 063/105	mei	1	m ei - -
@@ -3364,7 +3364,7 @@
 064/061	mei	1	m ei - -
 064/063	min	1	m i n -
 064/065	mi	1	m i - -
-064/067	NA	NA	- - - -
+064/067	NA	NA	-
 064/069	mäi	1	m äi - -
 064/071	mäi	1	m äi - -
 064/073	mei	1	m ei - -
@@ -3382,11 +3382,11 @@
 064/097	mei	1	m ei - -
 064/099	mei	1	m ei - -
 064/101	mei	1	m ei - -
-064/103	NA	NA	- - - -
+064/103	NA	NA	-
 064/105	mei	1	m ei - -
 064/107	mei	1	m ei - -
 064/109	mei	1	m ei - -
-064/111	NA	NA	- - - -
+064/111	NA	NA	-
 064/113	mei	1	m ei - -
 064/115	mei	1	m ei - -
 064/117	mei	1	m ei - -
@@ -3449,11 +3449,11 @@
 065/097	mei	1	m ei - -
 065/101	mei	1	m ei - -
 065/103	mei	1	m ei - -
-065/105	NA	NA	- - - -
+065/105	NA	NA	-
 065/107	mei	1	m ei - -
 065/109	mei	1	m ei - -
 065/111	mei	1	m ei - -
-065/113	NA	NA	- - - -
+065/113	NA	NA	-
 065/115	mei	1	m ei - -
 065/121	mai	1	m ai - -
 065/123	mei	1	m ei - -
@@ -3504,14 +3504,14 @@
 066/087	mei	1	m ei - -
 066/089	mei	1	m ei - -
 066/091	mei	1	m ei - -
-066/093	NA	NA	- - - -
+066/093	NA	NA	-
 066/095	mei	1	m ei - -
 066/097	mei	1	m ei - -
-066/099	NA	NA	- - - -
+066/099	NA	NA	-
 066/101	mei	1	m ei - -
 066/103	mei	1	m ei - -
 066/105	mei	1	m ei - -
-066/107	NA	NA	- - - -
+066/107	NA	NA	-
 066/109	mei	1	m ei - -
 066/111	mei	1	m ei - -
 066/113	mei	1	m ei - -
@@ -3564,7 +3564,7 @@
 067/087	mei	1	m ei - -
 067/089	mei	1	m ei - -
 067/091	mei	1	m ei - -
-067/093	NA	NA	- - - -
+067/093	NA	NA	-
 067/095	mei	1	m ei - -
 067/097	mei	1	m ei - -
 067/099	maa	1	m aa - -
@@ -3619,20 +3619,20 @@
 068/077	mei	1	m ei - -
 068/079	mei	1	m ei - -
 068/081	mei	1	m ei - -
-068/083	NA	NA	- - - -
+068/083	NA	NA	-
 068/085	meih	1	m eih - -
 068/087	mei	1	m ei - -
 068/089	mei	1	m ei - -
 068/091	mei	1	m ei - -
 068/093	ma	1	m a - -
 068/095	ma	1	m a - -
-068/097	NA	NA	- - - -
-068/099	NA	NA	- - - -
+068/097	NA	NA	-
+068/099	NA	NA	-
 068/101	ma	1	m a - -
 068/103	ma	1	m a - -
 068/105	ma	1	m a - -
 068/107	mei	1	m ei - -
-068/109	NA	NA	- - - -
+068/109	NA	NA	-
 068/111	mei	1	m ei - -
 068/145	mei	1	m ei - -
 068/147	mei	1	m ei - -
@@ -3696,7 +3696,7 @@
 069/153	mei	1	m ei - -
 069/157	mei	1	m ei - -
 069/159	mei	1	m ei - -
-069/161	NA	NA	- - - -
+069/161	NA	NA	-
 069/163	mei	1	m ei - -
 069/165	mein	1	m ei n -
 070/019	mengt	1	m e ng t
@@ -3720,7 +3720,7 @@
 070/057	mei	1	m ei - -
 070/059	ma	1	m a - -
 070/061	mei	1	m ei - -
-070/063	NA	NA	- - - -
+070/063	NA	NA	-
 070/065	mei	1	m ei - -
 070/067	mei	1	m ei - -
 070/069	mei	1	m ei - -
@@ -3773,7 +3773,7 @@
 071/045	mei	1	m ei - -
 071/047	mein	1	m ei n -
 071/049	mei	1	m ei - -
-071/051	NA	NA	- - - -
+071/051	NA	NA	-
 071/053	mai	1	m ai - -
 071/055	meing	1	m ei ng -
 071/057	ma	1	m a - -
@@ -3854,7 +3854,7 @@
 072/095	mei	1	m ei - -
 072/097	ma	1	m a - -
 072/099	ma	1	m a - -
-072/101	NA	NA	- - - -
+072/101	NA	NA	-
 072/103	ma	1	m a - -
 072/105	ma	1	m a - -
 072/107	ma	1	m a - -
@@ -3895,7 +3895,7 @@
 073/061	ma	1	m a - -
 073/063	mei	1	m ei - -
 073/065	mei	1	m ei - -
-073/067	NA	NA	- - - -
+073/067	NA	NA	-
 073/069	mei	1	m ei - -
 073/071	mei	1	m ei - -
 073/073	mei	1	m ei - -
@@ -3964,12 +3964,12 @@
 074/083	mei	1	m ei - -
 074/085	meii	1	m eii - -
 074/087	mein	1	m ei n -
-074/089	NA	NA	- - - -
+074/089	NA	NA	-
 074/091	mei	1	m ei - -
 074/093	meii	1	m eii - -
 074/095	mei	1	m ei - -
 074/097	mei	1	m ei - -
-074/099	NA	NA	- - - -
+074/099	NA	NA	-
 074/101	ma	1	m a - -
 074/103	ma	1	m a - -
 074/105	ma	1	m a - -
@@ -4005,7 +4005,7 @@
 075/053	mei	1	m ei - -
 075/055	mai	1	m ai - -
 075/057	mei	1	m ei - -
-075/059	NA	NA	- - - -
+075/059	NA	NA	-
 075/061	ma	1	m a - -
 075/063	mei	1	m ei - -
 075/065	mei	1	m ei - -
@@ -4021,7 +4021,7 @@
 075/085	mei	1	m ei - -
 075/087	ma	1	m a - -
 075/089	mei	1	m ei - -
-075/091	NA	NA	- - - -
+075/091	NA	NA	-
 075/093	man	1	m a n -
 075/095	mei	1	m ei - -
 075/097	mei	1	m ei - -
@@ -4065,16 +4065,16 @@
 076/065	mei	1	m ei - -
 076/067	mä	1	m ä - -
 076/069	ma	1	m a - -
-076/071	NA	NA	- - - -
+076/071	NA	NA	-
 076/073	mei	1	m ei - -
 076/075	mei	1	m ei - -
 076/077	mei	1	m ei - -
 076/079	mei	1	m ei - -
 076/081	mei	1	m ei - -
 076/083	mei	1	m ei - -
-076/085	NA	NA	- - - -
+076/085	NA	NA	-
 076/087	mei	1	m ei - -
-076/089	NA	NA	- - - -
+076/089	NA	NA	-
 076/091	ma	1	m a - -
 076/093	mei	1	m ei - -
 076/095	mei	1	m ei - -
@@ -4104,10 +4104,10 @@
 077/041	mei	1	m ei - -
 077/043	mei	1	m ei - -
 077/047	mei	1	m ei - -
-077/049	NA	NA	- - - -
+077/049	NA	NA	-
 077/051	ma	1	m a - -
 077/053	mai	1	m ai - -
-077/055	NA	NA	- - - -
+077/055	NA	NA	-
 077/057	mei	1	m ei - -
 077/059	mei	1	m ei - -
 077/061	mei	1	m ei - -
@@ -4116,7 +4116,7 @@
 077/067	mai	1	m ai - -
 077/069	mä	1	m ä - -
 077/071	mei	1	m ei - -
-077/073	NA	NA	- - - -
+077/073	NA	NA	-
 077/075	mei	1	m ei - -
 077/077	mei	1	m ei - -
 077/079	mei	1	m ei - -
@@ -4161,19 +4161,19 @@
 078/071	mei	1	m ei - -
 078/073	ma	1	m a - -
 078/075	mei	1	m ei - -
-078/077	NA	NA	- - - -
+078/077	NA	NA	-
 078/079	mei	1	m ei - -
 078/081	mei	1	m ei - -
 078/083	mei	1	m ei - -
-078/085	NA	NA	- - - -
+078/085	NA	NA	-
 078/087	ma	1	m a - -
 078/089	meii	1	m eii - -
 078/091	mei	1	m ei - -
 078/093	mei	1	m ei - -
 078/095	mei	1	m ei - -
 078/097	mei	1	m ei - -
-078/099	NA	NA	- - - -
-078/101	NA	NA	- - - -
+078/099	NA	NA	-
+078/101	NA	NA	-
 078/103	mei	1	m ei - -
 078/105	ma	1	m a - -
 078/135	mei	1	m ei - -
@@ -4190,7 +4190,7 @@
 079/039	mein	1	m ei n -
 079/043	mei	1	m ei - -
 079/045	mei	1	m ei - -
-079/047	NA	NA	- - - -
+079/047	NA	NA	-
 079/049	mei	1	m ei - -
 079/051	mei	1	m ei - -
 079/053	mei	1	m ei - -
@@ -4199,7 +4199,7 @@
 079/059	mei	1	m ei - -
 079/061	ma	1	m a - -
 079/063	ma	1	m a - -
-079/065	NA	NA	- - - -
+079/065	NA	NA	-
 079/067	ma	1	m a - -
 079/069	mei	1	m ei - -
 079/071	mein	1	m ei n -
@@ -4244,10 +4244,10 @@
 080/055	mei	1	m ei - -
 080/057	mei	1	m ei - -
 080/059	ma	1	m a - -
-080/061	NA	NA	- - - -
+080/061	NA	NA	-
 080/063	mei	1	m ei - -
 080/065	mei	1	m ei - -
-080/067	NA	NA	- - - -
+080/067	NA	NA	-
 080/069	ma	1	m a - -
 080/071	mei	1	m ei - -
 080/073	mei	1	m ei - -
@@ -4256,7 +4256,7 @@
 080/079	mei	1	m ei - -
 080/081	mei	1	m ei - -
 080/083	mai	1	m ai - -
-080/085	NA	NA	- - - -
+080/085	NA	NA	-
 080/087	mei	1	m ei - -
 080/089	ma	1	m a - -
 080/091	mei	1	m ei - -
@@ -4287,29 +4287,29 @@
 081/045	mein	1	m ei n -
 081/047	mei	1	m ei - -
 081/049	mei	1	m ei - -
-081/051	NA	NA	- - - -
+081/051	NA	NA	-
 081/053	mei	1	m ei - -
 081/055	mei	1	m ei - -
 081/057	mei	1	m ei - -
 081/059	mei	1	m ei - -
 081/061	main	1	m ai n -
-081/063	NA	NA	- - - -
+081/063	NA	NA	-
 081/065	ma	1	m a - -
 081/067	ma	1	m a - -
 081/069	mai	1	m ai - -
-081/071	NA	NA	- - - -
+081/071	NA	NA	-
 081/073	mei	1	m ei - -
 081/075	mei	1	m ei - -
 081/077	mei	1	m ei - -
 081/079	mein	1	m ei n -
 081/081	mai	1	m ai - -
 081/083	mei	1	m ei - -
-081/085	NA	NA	- - - -
+081/085	NA	NA	-
 081/087	ma	1	m a - -
 081/089	ma	1	m a - -
 081/091	mei	1	m ei - -
 081/093	mei	1	m ei - -
-081/095	NA	NA	- - - -
+081/095	NA	NA	-
 081/097	mei	1	m ei - -
 081/099	mei	1	m ei - -
 081/101	mei	1	m ei - -
@@ -4323,7 +4323,7 @@
 081/133	mei	1	m ei - -
 081/147	mei	1	m ei - -
 081/191	maien	1	m aie n -
-081/193	NA	NA	- - - -
+081/193	NA	NA	-
 081/195	mai	1	m ai - -
 082/027	min	1	m i n -
 082/029	min	1	m i n -
@@ -4333,20 +4333,20 @@
 082/037	minn	1	m i nn -
 082/039	mi	1	m i - -
 082/041	min	1	m i n -
-082/043	NA	NA	- - - -
-082/045	NA	NA	- - - -
+082/043	NA	NA	-
+082/045	NA	NA	-
 082/047	mei	1	m ei - -
 082/049	mein	1	m ei n -
 082/051	mei	1	m ei - -
-082/053	NA	NA	- - - -
+082/053	NA	NA	-
 082/055	mei	1	m ei - -
 082/057	mei	1	m ei - -
 082/059	mei	1	m ei - -
 082/061	mei	1	m ei - -
-082/063	NA	NA	- - - -
+082/063	NA	NA	-
 082/065	mei	1	m ei - -
 082/067	mei	1	m ei - -
-082/069	NA	NA	- - - -
+082/069	NA	NA	-
 082/071	mei	1	m ei - -
 082/073	mei	1	m ei - -
 082/075	mei	1	m ei - -
@@ -4363,7 +4363,7 @@
 082/097	mei	1	m ei - -
 082/099	mei	1	m ei - -
 082/101	mei	1	m ei - -
-082/103	NA	NA	- - - -
+082/103	NA	NA	-
 082/105	mai	1	m ai - -
 082/107	mei	1	m ei - -
 082/111	ma	1	m a - -
@@ -4388,11 +4388,11 @@
 083/043	mein	1	m ei n -
 083/045	mein	1	m ei n -
 083/047	mei	1	m ei - -
-083/049	NA	NA	- - - -
+083/049	NA	NA	-
 083/051	mei	1	m ei - -
 083/053	mei	1	m ei - -
 083/055	mei	1	m ei - -
-083/057	NA	NA	- - - -
+083/057	NA	NA	-
 083/059	mae	1	m ae - -
 083/061	mae	1	m ae - -
 083/063	mei	1	m ei - -
@@ -4421,7 +4421,7 @@
 083/111	mei	1	m ei - -
 083/113	mei	1	m ei - -
 083/115	mo	1	m o - -
-083/117	NA	NA	- - - -
+083/117	NA	NA	-
 083/119	mei	1	m ei - -
 083/121	mei	1	m ei - -
 083/129	mei	1	m ei - -
@@ -4465,7 +4465,7 @@
 084/085	mei	1	m ei - -
 084/087	mei	1	m ei - -
 084/089	mei	1	m ei - -
-084/091	NA	NA	- - - -
+084/091	NA	NA	-
 084/093	mei	1	m ei - -
 084/095	mei	1	m ei - -
 084/097	mei	1	m ei - -
@@ -4504,17 +4504,17 @@
 085/045	min	1	m i n -
 085/047	mei	1	m ei - -
 085/049	mi	1	m i - -
-085/051	NA	NA	- - - -
+085/051	NA	NA	-
 085/053	mae	1	m ae - -
-085/055	NA	NA	- - - -
+085/055	NA	NA	-
 085/057	mei	1	m ei - -
-085/059	NA	NA	- - - -
+085/059	NA	NA	-
 085/061	mäi	1	m äi - -
 085/063	mae	1	m ae - -
-085/065	NA	NA	- - - -
+085/065	NA	NA	-
 085/067	mae	1	m ae - -
 085/069	mai	1	m ai - -
-085/071	NA	NA	- - - -
+085/071	NA	NA	-
 085/073	mei	1	m ei - -
 085/075	mei	1	m ei - -
 085/077	mei	1	m ei - -
@@ -4540,7 +4540,7 @@
 085/119	ma	1	m a - -
 085/121	mei	1	m ei - -
 085/123	mej	1	m ej - -
-085/125	NA	NA	- - - -
+085/125	NA	NA	-
 085/127	mei	1	m ei - -
 085/129	mei	1	m ei - -
 085/131	mei	1	m ei - -
@@ -4562,14 +4562,14 @@
 086/039	min	1	m i n -
 086/041	min	1	m i n -
 086/043	min	1	m i n -
-086/045	NA	NA	- - - -
+086/045	NA	NA	-
 086/047	ming	1	m i ng -
 086/049	miä	1	m iä - -
-086/051	NA	NA	- - - -
+086/051	NA	NA	-
 086/053	mei	1	m ei - -
 086/055	mei	1	m ei - -
 086/057	mei	1	m ei - -
-086/059	NA	NA	- - - -
+086/059	NA	NA	-
 086/061	mei	1	m ei - -
 086/063	mai	1	m ai - -
 086/065	mae	1	m ae - -
@@ -4632,11 +4632,11 @@
 087/055	mei	1	m ei - -
 087/057	mae	1	m ae - -
 087/059	mei	1	m ei - -
-087/061	NA	NA	- - - -
+087/061	NA	NA	-
 087/063	mei	1	m ei - -
 087/065	mei	1	m ei - -
 087/067	mei	1	m ei - -
-087/069	NA	NA	- - - -
+087/069	NA	NA	-
 087/071	mai	1	m ai - -
 087/073	mei	1	m ei - -
 087/075	mei	1	m ei - -
@@ -4646,7 +4646,7 @@
 087/083	mei	1	m ei - -
 087/085	mei	1	m ei - -
 087/087	mei	1	m ei - -
-087/089	NA	NA	- - - -
+087/089	NA	NA	-
 087/091	mei	1	m ei - -
 087/093	mei	1	m ei - -
 087/095	mei	1	m ei - -
@@ -4656,7 +4656,7 @@
 087/103	meii	1	m eii - -
 087/105	mei	1	m ei - -
 087/107	mei	1	m ei - -
-087/109	NA	NA	- - - -
+087/109	NA	NA	-
 087/111	mei	1	m ei - -
 087/113	mei	1	m ei - -
 087/115	mei	1	m ei - -
@@ -4681,19 +4681,19 @@
 088/037	mi	1	m i - -
 088/039	mi	1	m i - -
 088/041	mi	1	m i - -
-088/043	NA	NA	- - - -
+088/043	NA	NA	-
 088/045	mi	1	m i - -
 088/047	mei	1	m ei - -
-088/049	NA	NA	- - - -
+088/049	NA	NA	-
 088/051	mei	1	m ei - -
-088/053	NA	NA	- - - -
+088/053	NA	NA	-
 088/055	mei	1	m ei - -
-088/057	NA	NA	- - - -
+088/057	NA	NA	-
 088/059	mei	1	m ei - -
 088/061	mei	1	m ei - -
 088/063	mei	1	m ei - -
 088/065	mei	1	m ei - -
-088/067	NA	NA	- - - -
+088/067	NA	NA	-
 088/069	mei	1	m ei - -
 088/071	mei	1	m ei - -
 088/073	mei	1	m ei - -
@@ -4739,7 +4739,7 @@
 089/047	mei	1	m ei - -
 089/049	mei	1	m ei - -
 089/051	mei	1	m ei - -
-089/053	NA	NA	- - - -
+089/053	NA	NA	-
 089/055	mei	1	m ei - -
 089/057	mei	1	m ei - -
 089/059	mei	1	m ei - -
@@ -4764,7 +4764,7 @@
 089/097	mei	1	m ei - -
 089/099	mei	1	m ei - -
 089/101	mei	1	m ei - -
-089/103	NA	NA	- - - -
+089/103	NA	NA	-
 089/105	ma	1	m a - -
 089/107	mei	1	m ei - -
 089/109	mei	1	m ei - -
@@ -4772,7 +4772,7 @@
 089/113	mein	1	m ei n -
 089/115	mei	1	m ei - -
 089/117	mei	1	m ei - -
-089/119	NA	NA	- - - -
+089/119	NA	NA	-
 089/121	mei	1	m ei - -
 089/123	mei	1	m ei - -
 089/125	mei	1	m ei - -
@@ -4827,7 +4827,7 @@
 090/107	mei	1	m ei - -
 090/109	mei	1	m ei - -
 090/111	mei	1	m ei - -
-090/113	NA	NA	- - - -
+090/113	NA	NA	-
 090/115	mei	1	m ei - -
 090/119	mei	1	m ei - -
 090/121	mei	1	m ei - -
@@ -4837,7 +4837,7 @@
 090/129	mei	1	m ei - -
 090/131	mei	1	m ei - -
 090/133	mai	1	m ai - -
-090/135	NA	NA	- - - -
+090/135	NA	NA	-
 090/137	mei	1	m ei - -
 090/139	mei	1	m ei - -
 090/141	mei	1	m ei - -
@@ -4854,7 +4854,7 @@
 091/045	mei	1	m ei - -
 091/047	mi	1	m i - -
 091/049	mai	1	m ai - -
-091/051	NA	NA	- - - -
+091/051	NA	NA	-
 091/053	mei	1	m ei - -
 091/055	mei	1	m ei - -
 091/057	mei	1	m ei - -
@@ -4880,7 +4880,7 @@
 091/099	mei	1	m ei - -
 091/101	mei	1	m ei - -
 091/103	mei	1	m ei - -
-091/105	NA	NA	- - - -
+091/105	NA	NA	-
 091/107	mei	1	m ei - -
 091/109	mei	1	m ei - -
 091/111	mei	1	m ei - -
@@ -4904,7 +4904,7 @@
 091/151	mai	1	m ai - -
 091/155	mai	1	m ai - -
 092/033	mi	1	m i - -
-092/035	NA	NA	- - - -
+092/035	NA	NA	-
 092/037	mi	1	m i - -
 092/039	mi	1	m i - -
 092/041	mi	1	m i - -
@@ -4924,7 +4924,7 @@
 092/069	mei	1	m ei - -
 092/071	mei	1	m ei - -
 092/073	mei	1	m ei - -
-092/075	NA	NA	- - - -
+092/075	NA	NA	-
 092/077	mei	1	m ei - -
 092/079	mei	1	m ei - -
 092/081	mei	1	m ei - -
@@ -4989,7 +4989,7 @@
 093/081	mei	1	m ei - -
 093/083	mei	1	m ei - -
 093/085	mei	1	m ei - -
-093/087	NA	NA	- - - -
+093/087	NA	NA	-
 093/089	mei	1	m ei - -
 093/091	mei	1	m ei - -
 093/093	mei	1	m ei - -
@@ -5021,7 +5021,7 @@
 093/151	mei	1	m ei - -
 093/153	mei	1	m ei - -
 093/155	mei	1	m ei - -
-094/033	NA	NA	- - - -
+094/033	NA	NA	-
 094/035	mi	1	m i - -
 094/037	mi	1	m i - -
 094/039	mi	1	m i - -
@@ -5030,7 +5030,7 @@
 094/045	mi	1	m i - -
 094/047	mi	1	m i - -
 094/049	mi	1	m i - -
-094/051	NA	NA	- - - -
+094/051	NA	NA	-
 094/053	mi	1	m i - -
 094/055	mei	1	m ei - -
 094/057	mei	1	m ei - -
@@ -5042,7 +5042,7 @@
 094/069	mai	1	m ai - -
 094/071	mei	1	m ei - -
 094/073	mei	1	m ei - -
-094/075	NA	NA	- - - -
+094/075	NA	NA	-
 094/077	mei	1	m ei - -
 094/079	mei	1	m ei - -
 094/081	mei	1	m ei - -
@@ -5075,9 +5075,9 @@
 094/135	mei	1	m ei - -
 094/137	mei	1	m ei - -
 094/139	mei	1	m ei - -
-094/141	NA	NA	- - - -
+094/141	NA	NA	-
 094/143	mei	1	m ei - -
-094/145	NA	NA	- - - -
+094/145	NA	NA	-
 094/147	mai	1	m ai - -
 094/149	mei	1	m ei - -
 094/151	mei	1	m ei - -
@@ -5112,7 +5112,7 @@
 095/085	mei	1	m ei - -
 095/087	mei	1	m ei - -
 095/089	mei	1	m ei - -
-095/091	NA	NA	- - - -
+095/091	NA	NA	-
 095/093	mei	1	m ei - -
 095/095	mei	1	m ei - -
 095/097	mein	1	m ei n -
@@ -5160,7 +5160,7 @@
 096/061	ming	1	m i ng -
 096/063	ming	1	m i ng -
 096/065	mai	1	m ai - -
-096/067	NA	NA	- - - -
+096/067	NA	NA	-
 096/069	mei	1	m ei - -
 096/071	mei	1	m ei - -
 096/075	mei	1	m ei - -
@@ -5206,7 +5206,7 @@
 097/035	mi	1	m i - -
 097/037	mi	1	m i - -
 097/039	mi	1	m i - -
-097/041	NA	NA	- - - -
+097/041	NA	NA	-
 097/043	mi	1	m i - -
 097/045	mi	1	m i - -
 097/047	mi	1	m i - -
@@ -5222,11 +5222,11 @@
 097/067	mai	1	m ai - -
 097/069	mei	1	m ei - -
 097/071	mei	1	m ei - -
-097/073	NA	NA	- - - -
+097/073	NA	NA	-
 097/075	mei	1	m ei - -
 097/077	mei	1	m ei - -
 097/079	mei	1	m ei - -
-097/081	NA	NA	- - - -
+097/081	NA	NA	-
 097/083	mei	1	m ei - -
 097/085	mei	1	m ei - -
 097/087	mei	1	m ei - -
@@ -5234,7 +5234,7 @@
 097/091	mai	1	m ai - -
 097/093	mai	1	m ai - -
 097/095	mei	1	m ei - -
-097/097	NA	NA	- - - -
+097/097	NA	NA	-
 097/099	mei	1	m ei - -
 097/103	mei	1	m ei - -
 097/105	mei	1	m ei - -
@@ -5257,7 +5257,7 @@
 098/041	mi	1	m i - -
 098/043	mi	1	m i - -
 098/045	mi	1	m i - -
-098/047	NA	NA	- - - -
+098/047	NA	NA	-
 098/049	mi	1	m i - -
 098/051	mi	1	m i - -
 098/053	mi	1	m i - -
@@ -5273,16 +5273,16 @@
 098/073	mei	1	m ei - -
 098/075	mei	1	m ei - -
 098/077	mai	1	m ai - -
-098/079	NA	NA	- - - -
-098/081	NA	NA	- - - -
-098/083	NA	NA	- - - -
+098/079	NA	NA	-
+098/081	NA	NA	-
+098/083	NA	NA	-
 098/085	mei	1	m ei - -
 098/087	maö	1	m aö - -
 098/089	mei	1	m ei - -
 098/091	mei	1	m ei - -
 098/093	mei	1	m ei - -
 098/095	mei	1	m ei - -
-098/097	NA	NA	- - - -
+098/097	NA	NA	-
 098/103	mei	1	m ei - -
 098/105	mei	1	m ei - -
 098/107	mei	1	m ei - -
@@ -5310,8 +5310,8 @@
 099/045	mi	1	m i - -
 099/047	mi	1	m i - -
 099/049	mi	1	m i - -
-099/051	NA	NA	- - - -
-099/053	NA	NA	- - - -
+099/051	NA	NA	-
+099/053	NA	NA	-
 099/055	mi	1	m i - -
 099/057	mi	1	m i - -
 099/059	mi	1	m i - -
@@ -5331,13 +5331,13 @@
 099/095	mei	1	m ei - -
 099/099	mei	1	m ei - -
 099/101	mein	1	m ei n -
-099/103	NA	NA	- - - -
+099/103	NA	NA	-
 099/105	mei	1	m ei - -
 099/107	ma	1	m a - -
 099/109	ma	1	m a - -
 099/111	ma	1	m a - -
 099/113	mein	1	m ei n -
-099/121	NA	NA	- - - -
+099/121	NA	NA	-
 099/123	mei	1	m ei - -
 099/125	mei	1	m ei - -
 099/131	mei	1	m ei - -
@@ -5350,17 +5350,17 @@
 100/033	mi	1	m i - -
 100/035	mi	1	m i - -
 100/037	mi	1	m i - -
-100/039	NA	NA	- - - -
+100/039	NA	NA	-
 100/041	mi	1	m i - -
-100/043	NA	NA	- - - -
+100/043	NA	NA	-
 100/045	mi	1	m i - -
-100/049	NA	NA	- - - -
+100/049	NA	NA	-
 100/051	mii	1	m ii - -
 100/053	mi	1	m i - -
 100/055	mi	1	m i - -
 100/057	mi	1	m i - -
 100/059	du	NA	d u - -
-100/061	NA	NA	- - - -
+100/061	NA	NA	-
 100/065	mi	1	m i - -
 100/067	mi	1	m i - -
 100/069	ming	1	m i ng -
@@ -5385,7 +5385,7 @@
 100/121	mein	1	m ei n -
 100/125	mei	1	m ei - -
 100/127	mei	1	m ei - -
-100/129	NA	NA	- - - -
+100/129	NA	NA	-
 100/133	du	NA	d u - -
 100/135	mei	1	m ei - -
 100/141	mei	1	m ei - -
@@ -5401,10 +5401,10 @@
 101/049	mi	1	m i - -
 101/051	mi	1	m i - -
 101/053	mi	1	m i - -
-101/055	NA	NA	- - - -
+101/055	NA	NA	-
 101/057	mi	1	m i - -
-101/059	NA	NA	- - - -
-101/061	NA	NA	- - - -
+101/059	NA	NA	-
+101/061	NA	NA	-
 101/063	min	1	m i n -
 101/065	mi	1	m i - -
 101/067	ming	1	m i ng -
@@ -5440,14 +5440,14 @@
 102/041	mii	1	m ii - -
 102/043	my	1	m y - -
 102/045	mii	1	m ii - -
-102/047	NA	NA	- - - -
+102/047	NA	NA	-
 102/049	mi	1	m i - -
 102/051	mii	1	m ii - -
 102/053	mi	1	m i - -
 102/055	mi	1	m i - -
 102/057	mi	1	m i - -
 102/059	mi	1	m i - -
-102/061	NA	NA	- - - -
+102/061	NA	NA	-
 102/063	mi	1	m i - -
 102/065	mi	1	m i - -
 102/067	min	1	m i n -
@@ -5460,7 +5460,7 @@
 102/081	mei	1	m ei - -
 102/083	mei	1	m ei - -
 102/089	mei	1	m ei - -
-102/091	NA	NA	- - - -
+102/091	NA	NA	-
 102/093	mei	1	m ei - -
 102/095	mei	1	m ei - -
 102/097	mei	1	m ei - -
@@ -5483,7 +5483,7 @@
 103/041	mi	1	m i - -
 103/043	mi	1	m i - -
 103/045	mi	1	m i - -
-103/047	NA	NA	- - - -
+103/047	NA	NA	-
 103/049	du	NA	d u - -
 103/051	mi	1	m i - -
 103/053	mi	1	m i - -
@@ -5493,7 +5493,7 @@
 103/063	mi	1	m i - -
 103/065	mi	1	m i - -
 103/067	min	1	m i n -
-103/069	NA	NA	- - - -
+103/069	NA	NA	-
 103/071	mi	1	m i - -
 103/073	mei	1	m ei - -
 103/075	mai	1	m ai - -
@@ -5509,7 +5509,7 @@
 103/099	mei	1	m ei - -
 103/101	mei	1	m ei - -
 103/105	mei	1	m ei - -
-103/107	NA	NA	- - - -
+103/107	NA	NA	-
 103/111	mei	1	m ei - -
 103/121	mei	1	m ei - -
 103/125	mei	1	m ei - -
@@ -5523,20 +5523,20 @@
 103/143	mei	1	m ei - -
 103/145	mei	1	m ei - -
 104/033	my	1	m y - -
-104/035	NA	NA	- - - -
+104/035	NA	NA	-
 104/037	my	1	m y - -
 104/039	mi	1	m i - -
 104/041	mi	1	m i - -
 104/043	mi	1	m i - -
 104/045	mi	1	m i - -
-104/047	NA	NA	- - - -
-104/049	NA	NA	- - - -
+104/047	NA	NA	-
+104/049	NA	NA	-
 104/051	mi	1	m i - -
 104/053	my	1	m y - -
 104/055	mi	1	m i - -
 104/057	my	1	m y - -
 104/059	du	NA	d u - -
-104/061	NA	NA	- - - -
+104/061	NA	NA	-
 104/063	mi	1	m i - -
 104/065	mi	1	m i - -
 104/067	mi	1	m i - -
@@ -5556,8 +5556,8 @@
 104/113	mei	1	m ei - -
 104/119	mei	1	m ei - -
 104/121	mai	1	m ai - -
-104/123	NA	NA	- - - -
-104/125	NA	NA	- - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	mei	1	m ei - -
 104/131	mei	1	m ei - -
 104/133	mai	1	m ai - -
@@ -5575,11 +5575,11 @@
 105/041	mi	1	m i - -
 105/043	my	1	m y - -
 105/045	mi	1	m i - -
-105/047	NA	NA	- - - -
+105/047	NA	NA	-
 105/049	mi	1	m i - -
 105/051	my	1	m y - -
 105/053	my	1	m y - -
-105/055	NA	NA	- - - -
+105/055	NA	NA	-
 105/057	mi	1	m i - -
 105/059	mi	1	m i - -
 105/061	min	1	m i n -
@@ -5613,12 +5613,12 @@
 105/141	meii	1	m eii - -
 105/143	mei	1	m ei - -
 105/145	mai	1	m ai - -
-106/033	NA	NA	- - - -
+106/033	NA	NA	-
 106/035	my	1	m y - -
 106/037	my	1	m y - -
 106/039	mi	1	m i - -
 106/041	mi	1	m i - -
-106/043	NA	NA	- - - -
+106/043	NA	NA	-
 106/045	du	NA	d u - -
 106/047	mi	1	m i - -
 106/049	mii	1	m ii - -
@@ -5638,7 +5638,7 @@
 106/087	mei	1	m ei - -
 106/093	mai	1	m ai - -
 106/097	mei	1	m ei - -
-106/099	NA	NA	- - - -
+106/099	NA	NA	-
 106/103	mei	1	m ei - -
 106/111	mei	1	m ei - -
 106/115	mei	1	m ei - -
@@ -5650,23 +5650,23 @@
 106/133	mei	1	m ei - -
 106/135	mei	1	m ei - -
 106/137	mei	1	m ei - -
-106/139	NA	NA	- - - -
+106/139	NA	NA	-
 106/141	mei	1	m ei - -
 106/143	mei	1	m ei - -
 106/145	ma	1	m a - -
 107/033	mi	1	m i - -
 107/035	mi	1	m i - -
 107/037	my	1	m y - -
-107/039	NA	NA	- - - -
+107/039	NA	NA	-
 107/041	my	1	m y - -
 107/043	mi	1	m i - -
-107/045	NA	NA	- - - -
+107/045	NA	NA	-
 107/047	mij	1	m ij - -
 107/049	mi	1	m i - -
 107/051	du	NA	d u - -
 107/053	mi	1	m i - -
 107/057	mi	1	m i - -
-107/059	NA	NA	- - - -
+107/059	NA	NA	-
 107/063	mi	1	m i - -
 107/065	mie	1	m ie - -
 107/071	mei	1	m ei - -
@@ -5676,18 +5676,18 @@
 107/087	mai	1	m ai - -
 107/089	ma	1	m a - -
 107/091	ma	1	m a - -
-107/097	NA	NA	- - - -
+107/097	NA	NA	-
 107/099	mei	1	m ei - -
 107/103	mei	1	m ei - -
 107/105	mei	1	m ei - -
 107/107	mei	1	m ei - -
 107/111	mei	1	m ei - -
 107/119	mei	1	m ei - -
-107/121	NA	NA	- - - -
+107/121	NA	NA	-
 107/123	mei	1	m ei - -
 107/125	mai	1	m ai - -
 107/127	mei	1	m ei - -
-107/129	NA	NA	- - - -
+107/129	NA	NA	-
 107/131	mei	1	m ei - -
 107/133	mai	1	m ai - -
 107/135	mai	1	m ai - -
@@ -5695,7 +5695,7 @@
 107/139	mei	1	m ei - -
 107/141	mei	1	m ei - -
 107/143	mei	1	m ei - -
-108/033	NA	NA	- - - -
+108/033	NA	NA	-
 108/035	my	1	m y - -
 108/037	mi	1	m i - -
 108/039	my	1	m y - -
@@ -5703,7 +5703,7 @@
 108/043	mi	1	m i - -
 108/047	mii	1	m ii - -
 108/049	mi	1	m i - -
-108/063	NA	NA	- - - -
+108/063	NA	NA	-
 108/065	mi	1	m i - -
 108/067	mie	1	m ie - -
 108/075	mei	1	m ei - -
@@ -5719,14 +5719,14 @@
 108/109	mei	1	m ei - -
 108/111	mei	1	m ei - -
 108/113	mei	1	m ei - -
-108/117	NA	NA	- - - -
+108/117	NA	NA	-
 108/119	mei	1	m ei - -
 108/121	mei	1	m ei - -
 108/123	mei	1	m ei - -
 108/125	mei	1	m ei - -
 108/127	mei	1	m ei - -
 108/129	mei	1	m ei - -
-108/131	NA	NA	- - - -
+108/131	NA	NA	-
 108/133	mei	1	m ei - -
 108/135	mei	1	m ei - -
 108/137	mei	1	m ei - -
@@ -5739,7 +5739,7 @@
 109/043	mi	1	m i - -
 109/045	dui	NA	d ui - -
 109/049	mei	1	m ei - -
-109/053	NA	NA	- - - -
+109/053	NA	NA	-
 109/061	mi	1	m i - -
 109/063	mi	1	m i - -
 109/065	mi	1	m i - -
@@ -5753,10 +5753,10 @@
 109/095	mai	1	m ai - -
 109/097	mäi	1	m äi - -
 109/099	mei	1	m ei - -
-109/101	NA	NA	- - - -
+109/101	NA	NA	-
 109/103	mei	1	m ei - -
 109/107	mei	1	m ei - -
-109/109	NA	NA	- - - -
+109/109	NA	NA	-
 109/111	mei	1	m ei - -
 109/113	mei	1	m ei - -
 109/115	mei	1	m ei - -
@@ -5812,7 +5812,7 @@
 110/139	mei	1	m ei - -
 111/035	mi	1	m i - -
 111/037	my	1	m y - -
-111/039	NA	NA	- - - -
+111/039	NA	NA	-
 111/041	mi	1	m i - -
 111/043	mi	1	m i - -
 111/045	mii	1	m ii - -
@@ -5864,15 +5864,15 @@
 113/121	mei	1	m ei - -
 113/123	mei	1	m ei - -
 114/035	mi	1	m i - -
-114/045	NA	NA	- - - -
+114/045	NA	NA	-
 114/083	mai	1	m ai - -
 114/085	mei	1	m ei - -
-115/041	NA	NA	- - - -
+115/041	NA	NA	-
 115/043	mi	1	m i - -
 115/045	mi	1	m i - -
 115/083	mai	1	m ai - -
 115/085	mei	1	m ei - -
-116/043	NA	NA	- - - -
+116/043	NA	NA	-
 116/045	mi	1	m i - -
 116/083	mai	1	m ai - -
 117/043	mi	1	m i - -
@@ -5885,7 +5885,7 @@
 122/129	mein	1	m ei n -
 123/081	mai	1	m ai - -
 123/123	mäin	1	m äi n -
-123/125	NA	NA	- - - -
+123/125	NA	NA	-
 123/127	mein	1	m ei n -
 123/129	mein	1	m ei n -
 124/125	mein	1	m ei n -

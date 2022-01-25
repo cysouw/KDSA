@@ -161,7 +161,7 @@
 014/219	wint	1	w - i n t
 014/221	wint	1	w - i n t
 015/049	wont	1	w - o n t
-015/051	NA	NA	- - - - - -
+015/051	NA	NA	-
 015/053	wont	1	w - o n t
 015/055	want	1	w - a n t
 015/057	wonnt	1	w - o nn t
@@ -1876,7 +1876,7 @@
 041/133	wint	1	w - i n t
 041/135	wint	1	w - i n t
 041/139	wint	1	w - i n t
-041/141	NA	NA	- - - - - -
+041/141	NA	NA	-
 041/145	wint	1	w - i n t
 041/147	wint	1	w - i n t
 041/153	wint	1	w - i n t
@@ -5141,7 +5141,7 @@
 095/149	wint	1	w - i n t
 095/151	wint	1	w - i n t
 095/153	wint	1	w - i n t
-095/155	NA	NA	- - - - - -
+095/155	NA	NA	-
 096/031	wint	1	w - i n t
 096/033	wend	1	w - e n d
 096/035	went	1	w - e n t
@@ -5474,7 +5474,7 @@
 102/129	wint	1	w - i n t
 102/131	wint	1	w - i n t
 102/135	wint	1	w - i n t
-102/137	NA	NA	- - - - - -
+102/137	NA	NA	-
 102/139	wint	1	w - i n t
 102/141	wint	1	w - i n t
 102/143	wint	1	w - i n t
@@ -5685,7 +5685,7 @@
 107/119	wint	1	w - i n t
 107/121	wint	1	w - i n t
 107/123	wint	1	w - i n t
-107/125	NA	NA	- - - - - -
+107/125	NA	NA	-
 107/127	wint	1	w - i n t
 107/129	wint	1	w - i n t
 107/131	wint	1	w - i n t
@@ -5753,7 +5753,7 @@
 109/095	wint	1	w - i n t
 109/097	wint	1	w - i n t
 109/099	wint	1	w - i n t
-109/101	NA	NA	- - - - - -
+109/101	NA	NA	-
 109/103	wint	1	w - i n t
 109/107	wint	1	w - i n t
 109/109	wint	1	w - i n t

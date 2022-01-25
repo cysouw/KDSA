@@ -1819,7 +1819,7 @@
 040/137	durscht	1	d u r sch t -
 040/141	durscht	1	d u r sch t -
 040/143	durst	1	d u r s t -
-040/149	NA	NA	- - - - - -
+040/149	NA	NA	-
 040/153	dost	1	d o - s t -
 040/155	dost	1	d o - s t -
 041/031	dost	1	d o - s t -
@@ -2936,7 +2936,7 @@
 058/057	dorscht	1	d o r sch t -
 058/059	dorscht	1	d o r sch t -
 058/061	dorscht	1	d o r sch t -
-058/063	drscht	1	d  r sch t -
+058/063	drscht	1	d - r sch t -
 058/065	dorscht	1	d o r sch t -
 058/067	dorschd	1	d o r sch d -
 058/069	däischt	1	d äi - sch t -
@@ -3393,8 +3393,8 @@
 064/119	dorscht	1	d o r sch t -
 064/121	durscht	1	d u r sch t -
 064/123	durscht	1	d u r sch t -
-064/125	drscht	1	d  r sch t -
-064/127	drscht	1	d  r sch t -
+064/125	drscht	1	d - r sch t -
+064/127	drscht	1	d - r sch t -
 064/135	doscht	1	d o - sch t -
 064/137	doscht	1	d o - sch t -
 064/139	dorscht	1	d o r sch t -
@@ -3408,7 +3408,7 @@
 064/155	dorscht	1	d o r sch t -
 064/157	dorst	1	d o r s t -
 064/159	dorscht	1	d o r sch t -
-065/021	NA	NA	- - - - - -
+065/021	NA	NA	-
 065/023	durscht	1	d u r sch t -
 065/025	duesch	1	d ue - sch - -
 065/027	duesch	1	d ue - sch - -
@@ -3799,7 +3799,7 @@
 071/099	durst	1	d u r s t -
 071/101	tuescht	1	t ue - sch t -
 071/103	duascht	1	d ua - sch t -
-071/105	NA	NA	- - - - - -
+071/105	NA	NA	-
 071/145	durscht	1	d u r sch t -
 071/147	durscht	1	d u r sch t -
 071/149	dorscht	1	d o r sch t -
@@ -4039,7 +4039,7 @@
 075/159	durscht	1	d u r sch t -
 075/161	durscht	1	d u r sch t -
 075/163	duiescht	1	d uie - sch t -
-075/165	drscht	1	d  r sch t -
+075/165	drscht	1	d - r sch t -
 076/019	duuscht	1	d uu - sch t -
 076/021	duscht	1	d u - sch t -
 076/023	duscht	1	d u - sch t -
@@ -4876,7 +4876,7 @@
 091/091	durscht	1	d u r sch t -
 091/093	durscht	1	d u r sch t -
 091/095	durst	1	d u r s t -
-091/097	NA	NA	- - - - - -
+091/097	NA	NA	-
 091/099	durscht	1	d u r sch t -
 091/101	durscht	1	d u r sch t -
 091/103	durscht	1	d u r sch t -
@@ -4934,7 +4934,7 @@
 092/089	durschd	1	d u r sch d -
 092/091	durschd	1	d u r sch d -
 092/093	durschd	1	d u r sch d -
-092/095	NA	NA	- - - - - -
+092/095	NA	NA	-
 092/097	duascht	1	d ua - sch t -
 092/099	durscht	1	d u r sch t -
 092/101	duischt	1	d ui - sch t -
@@ -5119,7 +5119,7 @@
 095/099	durschd	1	d u r sch d -
 095/101	duischt	1	d ui - sch t -
 095/103	durscht	1	d u r sch t -
-095/105	NA	NA	- - - - - -
+095/105	NA	NA	-
 095/107	duascht	1	d ua - sch t -
 095/109	durscht	1	d u r sch t -
 095/111	duascht	1	d ua - sch t -
@@ -5737,7 +5737,7 @@
 109/039	turscht	1	t u r sch t -
 109/041	durscht	1	d u r sch t -
 109/043	durscht	1	d u r sch t -
-109/045	NA	NA	- - - - - -
+109/045	NA	NA	-
 109/049	durscht	1	d u r sch t -
 109/053	durscht	1	d u r sch t -
 109/061	turst	1	t u r s t -

@@ -578,7 +578,7 @@
 022/139	fehld	1	f eh l d
 022/141	fel	1	f e l -
 022/143	feel	1	f ee l -
-022/145	NA	NA	- - - - - - -
+022/145	NA	NA	-
 022/147	feelt	1	f ee l t
 022/149	feel	1	f ee l -
 022/151	fill	1	f i ll -
@@ -961,7 +961,7 @@
 028/041	felt	1	f e l t
 028/043	land	8	l a n d -
 028/045	land	8	l a n d -
-028/047	NA	NA	- - - - - - -
+028/047	NA	NA	-
 028/049	land	8	l a n d -
 028/051	feld	1	f e l d
 028/053	fell	1	f e ll -
@@ -1105,7 +1105,7 @@
 030/039	felt	1	f e l t
 030/041	feld	1	f e l d
 030/043	land	8	l a n d -
-030/045	NA	NA	- - - - - - -
+030/045	NA	NA	-
 030/047	feld	1	f e l d
 030/049	land	8	l a n d -
 030/051	fel	1	f e l -
@@ -1256,7 +1256,7 @@
 032/051	fell	1	f e ll -
 032/053	fell	1	f e ll -
 032/055	fell	1	f e ll -
-032/057	NA	NA	- - - - - - -
+032/057	NA	NA	-
 032/059	fell	1	f e ll -
 032/061	fell	1	f e ll -
 032/065	fell	1	f e ll -
@@ -1286,7 +1286,7 @@
 032/117	feld	1	f e l d
 032/119	feld	1	f e l d
 032/121	feld	1	f e l d
-032/123	NA	NA	- - - - - - -
+032/123	NA	NA	-
 032/125	fild	1	f i l d
 032/127	fild	1	f i l d
 032/129	fild	1	f i l d
@@ -1307,7 +1307,7 @@
 032/163	fill	1	f i ll -
 032/167	föll	1	f ö ll -
 032/169	feld	1	f e l d
-032/171	NA	NA	- - - - - - -
+032/171	NA	NA	-
 032/173	feld	1	f e l d
 032/175	fell	1	f e ll -
 032/177	fel	1	f e l -
@@ -1548,7 +1548,7 @@
 036/099	feld	1	f e l d
 036/101	feld	1	f e l d
 036/103	feld	1	f e l d
-036/105	NA	NA	- - - - - - -
+036/105	NA	NA	-
 036/107	feld	1	f e l d
 036/109	feld	1	f e l d
 036/111	feld	1	f e l d
@@ -1849,7 +1849,7 @@
 041/079	fell	1	f e ll -
 041/081	fell	1	f e ll -
 041/083	feld	1	f e l d
-041/085	NA	NA	- - - - - - -
+041/085	NA	NA	-
 041/087	feld	1	f e l d
 041/089	feld	1	f e l d
 041/091	feld	1	f e l d
@@ -1876,7 +1876,7 @@
 041/133	fall	1	f a ll -
 041/135	feld	1	f e l d
 041/139	feld	1	f e l d
-041/141	NA	NA	- - - - - - -
+041/141	NA	NA	-
 041/145	feld	1	f e l d
 041/147	felld	1	f e ll d
 041/153	fil	1	f i l -
@@ -2031,7 +2031,7 @@
 044/079	fell	1	f e ll -
 044/081	fell	1	f e ll -
 044/083	fell	1	f e ll -
-044/085	NA	NA	- - - - - - -
+044/085	NA	NA	-
 044/087	feld	1	f e l d
 044/089	feld	1	f e l d
 044/091	feld	1	f e l d
@@ -2152,7 +2152,7 @@
 046/085	fell	1	f e ll -
 046/087	feld	1	f e l d
 046/089	feld	1	f e l d
-046/091	NA	NA	- - - - - - -
+046/091	NA	NA	-
 046/093	feld	1	f e l d
 046/095	feld	1	f e l d
 046/097	feld	1	f e l d
@@ -2282,7 +2282,7 @@
 048/107	feld	1	f e l d
 048/109	feld	1	f e l d
 048/111	feld	1	f e l d
-048/113	NA	NA	- - - - - - -
+048/113	NA	NA	-
 048/115	feld	1	f e l d
 048/119	feld	1	f e l d
 048/123	fald	1	f a l d
@@ -2569,7 +2569,7 @@
 052/155	fald	1	f a l d
 052/157	feld	1	f e l d
 052/159	feld	1	f e l d
-053/023	NA	NA	- - - - - - -
+053/023	NA	NA	-
 053/025	feld	1	f e l d
 053/027	feld	1	f e l d
 053/029	feld	1	f e l d
@@ -2959,7 +2959,7 @@
 058/103	fäll	1	f ä ll -
 058/105	fald	1	f a l d
 058/107	feld	1	f e l d
-058/109	NA	NA	- - - - - - -
+058/109	NA	NA	-
 058/111	fald	1	f a l d
 058/113	feld	1	f e l d
 058/115	feld	1	f e l d
@@ -3220,7 +3220,7 @@
 062/053	feld	1	f e l d
 062/055	fäald	1	f äa l d
 062/057	fäild	1	f äi l d
-062/059	NA	NA	- - - - - - -
+062/059	NA	NA	-
 062/061	fäld	1	f ä l d
 062/063	feald	1	f ea l d
 062/065	fäll	1	f ä ll -
@@ -3398,7 +3398,7 @@
 064/135	fald	1	f a l d
 064/137	feld	1	f e l d
 064/139	feld	1	f e l d
-064/141	NA	NA	- - - - - - -
+064/141	NA	NA	-
 064/143	feld	1	f e l d
 064/145	feld	1	f e l d
 064/147	fäld	1	f ä l d
@@ -3667,7 +3667,7 @@
 069/061	feld	1	f e l d
 069/063	feld	1	f e l d
 069/065	feld	1	f e l d
-069/067	NA	NA	- - - - - - -
+069/067	NA	NA	-
 069/069	feld	1	f e l d
 069/071	feld	1	f e l d
 069/073	feld	1	f e l d
@@ -3815,7 +3815,7 @@
 072/017	feld	1	f e l d
 072/019	feld	1	f e l d
 072/021	felt	1	f e l t
-072/023	NA	NA	- - - - - - -
+072/023	NA	NA	-
 072/025	feld	1	f e l d
 072/027	feel	1	f ee l -
 072/029	feäl	1	f eä l -
@@ -3839,7 +3839,7 @@
 072/065	faald	1	f aa l d
 072/067	fald	1	f a l d
 072/069	fall	1	f a ll -
-072/071	NA	NA	- - - - - - -
+072/071	NA	NA	-
 072/073	fald	1	f a l d
 072/075	feeld	1	f ee l d
 072/077	feld	1	f e l d
@@ -4162,7 +4162,7 @@
 078/073	feld	1	f e l d
 078/075	feld	1	f e l d
 078/077	feld	1	f e l d
-078/079	NA	NA	- - - - - - -
+078/079	NA	NA	-
 078/081	feld	1	f e l d
 078/083	fäld	1	f ä l d
 078/085	fäld	1	f ä l d
@@ -4236,7 +4236,7 @@
 080/039	feld	1	f e l d
 080/041	feld	1	f e l d
 080/043	feld	1	f e l d
-080/045	NA	NA	- - - - - - -
+080/045	NA	NA	-
 080/047	feld	1	f e l d
 080/049	feld	1	f e l d
 080/051	feld	1	f e l d
@@ -4514,7 +4514,7 @@
 085/065	feald	1	f ea l d
 085/067	fäald	1	f äa l d
 085/069	feld	1	f e l d
-085/071	NA	NA	- - - - - - -
+085/071	NA	NA	-
 085/073	feld	1	f e l d
 085/075	feld	1	f e l d
 085/077	fäld	1	f ä l d
@@ -4715,9 +4715,9 @@
 088/105	fejöd	1	f ejö - d
 088/107	fäid	1	f äi - d
 088/109	fäid	1	f äi - d
-088/113	NA	NA	- - - - - - -
+088/113	NA	NA	-
 088/115	fel	1	f e l -
-088/117	NA	NA	- - - - - - -
+088/117	NA	NA	-
 088/121	föd	1	f ö - d
 088/123	föld	1	f ö l d
 088/127	föd	1	f ö - d
@@ -4818,7 +4818,7 @@
 090/089	föid	1	f öi - d
 090/091	feid	1	f ei - d
 090/093	fäid	1	f äi - d
-090/095	NA	NA	- - - - - - -
+090/095	NA	NA	-
 090/097	feöd	1	f eö - d
 090/099	föid	1	f öi - d
 090/101	faid	1	f ai - d
@@ -4956,7 +4956,7 @@
 092/133	föd	1	f ö - d
 092/135	föd	1	f ö - d
 092/137	bika	NA	b i k a - - -
-092/139	NA	NA	- - - - - - -
+092/139	NA	NA	-
 092/141	föid	1	f öi - d
 092/143	föed	1	f öe - d
 092/145	föid	1	f öi - d
@@ -5028,7 +5028,7 @@
 094/041	feld	1	f e l d
 094/043	fäld	1	f ä l d
 094/045	feld	1	f e l d
-094/047	NA	NA	- - - - - - -
+094/047	NA	NA	-
 094/049	feld	1	f e l d
 094/051	feld	1	f e l d
 094/053	fäald	1	f äa l d
@@ -5112,7 +5112,7 @@
 095/085	föid	1	f öi - d
 095/087	föid	1	f öi - d
 095/089	feeid	1	f eei - d
-095/091	NA	NA	- - - - - - -
+095/091	NA	NA	-
 095/093	feld	1	f e l d
 095/095	feid	1	f ei - d
 095/097	fäid	1	f äi - d
@@ -5157,9 +5157,9 @@
 096/055	feld	1	f e l d
 096/057	feld	1	f e l d
 096/059	feld	1	f e l d
-096/061	NA	NA	- - - - - - -
+096/061	NA	NA	-
 096/063	feld	1	f e l d
-096/065	NA	NA	- - - - - - -
+096/065	NA	NA	-
 096/067	fäald	1	f äa l d
 096/069	feald	1	f ea l d
 096/071	feald	1	f ea l d
@@ -5215,7 +5215,7 @@
 097/053	feld	1	f e l d
 097/055	feld	1	f e l d
 097/057	feald	1	f ea l d
-097/059	NA	NA	- - - - - - -
+097/059	NA	NA	-
 097/061	feld	1	f e l d
 097/063	feld	1	f e l d
 097/065	feald	1	f ea l d
@@ -5269,7 +5269,7 @@
 098/065	feald	1	f ea l d
 098/067	feald	1	f ea l d
 098/069	feald	1	f ea l d
-098/071	NA	NA	- - - - - - -
+098/071	NA	NA	-
 098/073	feld	1	f e l d
 098/075	feld	1	f e l d
 098/077	feld	1	f e l d
@@ -5645,7 +5645,7 @@
 106/121	grund	7	g r u n d
 106/123	grund	7	g r u n d
 106/125	grund	7	g r u n d
-106/129	NA	NA	- - - - - - -
+106/129	NA	NA	-
 106/131	föld	1	f ö l d
 106/133	föld	1	f ö l d
 106/135	föld	1	f ö l d
@@ -5673,7 +5673,7 @@
 107/075	fald	1	f a l d
 107/081	fald	1	f a l d
 107/085	feld	1	f e l d
-107/087	NA	NA	- - - - - - -
+107/087	NA	NA	-
 107/089	feld	1	f e l d
 107/091	feld	1	f e l d
 107/097	feld	1	f e l d
@@ -5742,7 +5742,7 @@
 109/053	land	8	l a n d -
 109/061	fäld	1	f ä l d
 109/063	fäld	1	f ä l d
-109/065	NA	NA	- - - - - - -
+109/065	NA	NA	-
 109/067	fäld	1	f ä l d
 109/075	feld	1	f e l d
 109/083	feld	1	f e l d
@@ -5756,7 +5756,7 @@
 109/101	feld	1	f e l d
 109/103	feld	1	f e l d
 109/107	feld	1	f e l d
-109/109	NA	NA	- - - - - - -
+109/109	NA	NA	-
 109/111	feld	1	f e l d
 109/113	feld	1	f e l d
 109/115	feld	1	f e l d
@@ -5783,7 +5783,7 @@
 110/061	fäld	1	f ä l d
 110/065	fäld	1	f ä l d
 110/075	wis	4	w i s - -
-110/079	NA	NA	- - - - - - -
+110/079	NA	NA	-
 110/081	wies	4	w ie s - -
 110/083	wies	4	w ie s - -
 110/087	feld	1	f e l d
@@ -5803,7 +5803,7 @@
 110/119	felt	1	f e l t
 110/121	wiesn	4	w ie s - n
 110/125	feld	1	f e l d
-110/127	NA	NA	- - - - - - -
+110/127	NA	NA	-
 110/129	wisn	4	w i s - n
 110/131	föl	1	f ö l -
 110/133	föld	1	f ö l d
@@ -5813,7 +5813,7 @@
 111/035	fäld	1	f ä l d
 111/037	matten	9	m a tt e n
 111/039	fäld	1	f ä l d
-111/041	NA	NA	- - - - - - -
+111/041	NA	NA	-
 111/043	fäld	1	f ä l d
 111/045	fald	1	f a l d
 111/059	fäld	1	f ä l d
@@ -5837,7 +5837,7 @@
 111/123	feld	1	f e l d
 111/125	feld	1	f e l d
 112/037	land	8	l a n d -
-112/039	NA	NA	- - - - - - -
+112/039	NA	NA	-
 112/041	fäld	1	f ä l d
 112/043	fald	1	f a l d
 112/047	fäld	1	f ä l d

@@ -97,7 +97,7 @@ locations	strings	cognateID	alignments
 013/053	bö	1	b ö
 013/055	bö	1	b ö
 013/057	by	1	b y
-013/059	NA	NA	- - - - -
+013/059	NA	NA	-
 013/061	bu	1	b u
 013/063	buh	1	b uh
 013/065	buu	1	b uu
@@ -1633,7 +1633,7 @@ locations	strings	cognateID	alignments
 037/139	buh	1	b uh
 037/141	bu	1	b u
 037/145	bu	1	b u
-037/147	NA	NA	- - - - -
+037/147	NA	NA	-
 037/149	bu	1	b u
 037/151	bu	1	b u
 037/153	buu	1	b uu
@@ -4989,7 +4989,7 @@ locations	strings	cognateID	alignments
 093/081	bau	1	b au
 093/083	bau	1	b au
 093/085	bau	1	b au
-093/087	NA	NA	- - - - -
+093/087	NA	NA	-
 093/089	bau	1	b au
 093/091	bau	1	b au
 093/093	bau	1	b au
@@ -4998,7 +4998,7 @@ locations	strings	cognateID	alignments
 093/099	bau	1	b au
 093/101	bau	1	b au
 093/103	bau	1	b au
-093/105	NA	NA	- - - - -
+093/105	NA	NA	-
 093/109	bau	1	b au
 093/111	bau	1	b au
 093/113	bau	1	b au
@@ -5141,7 +5141,7 @@ locations	strings	cognateID	alignments
 095/149	bau	1	b au
 095/151	bau	1	b au
 095/153	bau	1	b au
-095/155	NA	NA	- - - - -
+095/155	NA	NA	-
 096/031	ba	1	b a
 096/033	bu	1	b u
 096/035	bü	1	b ü
@@ -5312,7 +5312,7 @@ locations	strings	cognateID	alignments
 099/049	bu	1	b u
 099/051	buu	1	b uu
 099/053	pu	1	p u
-099/055	NA	NA	- - - - -
+099/055	NA	NA	-
 099/057	puu	1	p uu
 099/059	bu	1	b u
 099/063	bu	1	b u
@@ -5687,7 +5687,7 @@ locations	strings	cognateID	alignments
 107/123	bau	1	b au
 107/125	pau	1	p au
 107/127	bau	1	b au
-107/129	NA	NA	- - - - -
+107/129	NA	NA	-
 107/131	bau	1	b au
 107/133	bau	1	b au
 107/135	bau	1	b au
@@ -5703,7 +5703,7 @@ locations	strings	cognateID	alignments
 108/043	bu	1	b u
 108/047	bui	1	b ui
 108/049	bui	1	b ui
-108/063	NA	NA	- - - - -
+108/063	NA	NA	-
 108/065	puu	1	p uu
 108/067	puu	1	p uu
 108/075	bau	1	b au

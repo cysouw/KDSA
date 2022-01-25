@@ -121,7 +121,7 @@
 013/213	kein	1	- - k ei n -
 013/215	kein	1	- - k ei n -
 013/217	kein	1	- - k ei n -
-013/219	NA	NA	- - - - - -
+013/219	NA	NA	-
 013/221	kein	1	- - k ei n -
 013/223	kein	1	- - k ei n -
 014/047	eyhan	1	- - - eyha n -
@@ -248,7 +248,7 @@
 017/059	kehn	1	- - k eh n -
 017/061	keen	1	- - k ee n -
 017/063	nien	1	n - - ie n -
-017/065	NA	NA	- - - - - -
+017/065	NA	NA	-
 017/067	kehn	1	- - k eh n -
 017/069	keen	1	- - k ee n -
 017/081	keen	1	- - k ee n -
@@ -341,7 +341,7 @@
 018/205	kein	1	- - k ei n -
 018/207	kein	1	- - k ei n -
 018/209	kein	1	- - k ei n -
-018/211	NA	NA	- - - - - -
+018/211	NA	NA	-
 018/213	niche	1	n i ch e - -
 018/215	kein	1	- - k ei n -
 018/219	kein	1	- - k ei n -
@@ -395,7 +395,7 @@
 019/191	kein	1	- - k ei n -
 019/193	kein	1	- - k ei n -
 019/195	kein	1	- - k ei n -
-019/197	NA	NA	- - - - - -
+019/197	NA	NA	-
 019/199	kein	1	- - k ei n -
 019/201	kein	1	- - k ei n -
 019/203	kein	1	- - k ei n -
@@ -523,7 +523,7 @@
 021/173	ken	1	- - k e n -
 021/175	keen	1	- - k ee n -
 021/177	keen	1	- - k ee n -
-021/179	NA	NA	- - - - - -
+021/179	NA	NA	-
 021/181	ken	1	- - k e n -
 021/183	ken	1	- - k e n -
 021/185	keen	1	- - k ee n -
@@ -642,7 +642,7 @@
 023/111	kein	1	- - k ei n -
 023/113	kein	1	- - k ei n -
 023/115	kein	1	- - k ei n -
-023/117	NA	NA	- - - - - -
+023/117	NA	NA	-
 023/121	kei	1	- - k ei - -
 023/123	kein	1	- - k ei n -
 023/125	keie	1	- - k eie - -
@@ -691,7 +691,7 @@
 024/065	keen	1	- - k ee n -
 024/067	keen	1	- - k ee n -
 024/069	keen	1	- - k ee n -
-024/071	NA	NA	- - - - - -
+024/071	NA	NA	-
 024/073	keen	1	- - k ee n -
 024/075	keen	1	- - k ee n -
 024/077	keen	1	- - k ee n -
@@ -707,11 +707,11 @@
 024/097	nichn	1	n i ch - n -
 024/099	kein	1	- - k ei n -
 024/101	kein	1	- - k ei n -
-024/103	NA	NA	- - - - - -
+024/103	NA	NA	-
 024/105	nichn	1	n i ch - n -
 024/107	kein	1	- - k ei n -
 024/109	kein	1	- - k ei n -
-024/111	NA	NA	- - - - - -
+024/111	NA	NA	-
 024/113	kein	1	- - k ei n -
 024/115	kein	1	- - k ei n -
 024/117	kein	1	- - k ei n -
@@ -767,7 +767,7 @@
 025/067	nichen	1	n i ch e n -
 025/069	keen	1	- - k ee n -
 025/071	keen	1	- - k ee n -
-025/073	NA	NA	- - - - - -
+025/073	NA	NA	-
 025/075	ken	1	- - k e n -
 025/077	kein	1	- - k ei n -
 025/079	nichn	1	n i ch - n -
@@ -845,7 +845,7 @@
 026/093	kein	1	- - k ei n -
 026/095	nichn	1	n i ch - n -
 026/097	kein	1	- - k ei n -
-026/099	NA	NA	- - - - - -
+026/099	NA	NA	-
 026/101	nichn	1	n i ch - n -
 026/103	nichn	1	n i ch - n -
 026/105	nichn	1	n i ch - n -
@@ -878,7 +878,7 @@
 026/173	ken	1	- - k e n -
 026/175	keen	1	- - k ee n -
 026/177	keen	1	- - k ee n -
-026/179	NA	NA	- - - - - -
+026/179	NA	NA	-
 026/181	ken	1	- - k e n -
 026/183	ken	1	- - k e n -
 026/185	keen	1	- - k ee n -
@@ -959,7 +959,7 @@
 028/037	gien	1	- - g ie n -
 028/039	giin	1	- - g ii n -
 028/041	gin	1	- - g i n -
-028/043	NA	NA	- - - - - -
+028/043	NA	NA	-
 028/045	kien	1	- - k ie n -
 028/047	kien	1	- - k ie n -
 028/049	kien	1	- - k ie n -
@@ -1016,7 +1016,7 @@
 028/155	keä	1	- - k eä - -
 028/157	keen	1	- - k ee n -
 028/159	dschen	1	- - dsch e n -
-028/161	NA	NA	- - - - - -
+028/161	NA	NA	-
 028/165	keha	1	- - k eha - -
 028/169	kee	1	- - k ee - -
 028/171	keen	1	- - k ee n -
@@ -1089,7 +1089,7 @@
 029/155	keä	1	- - k eä - -
 029/157	tchehä	1	- - tch ehä - -
 029/159	kee	1	- - k ee - -
-029/161	NA	NA	- - - - - -
+029/161	NA	NA	-
 029/163	kejä	1	- - k ejä - -
 029/165	ke	1	- - k e - -
 029/167	kea	1	- - k ea - -
@@ -1097,7 +1097,7 @@
 029/171	keä	1	- - k eä - -
 029/173	ken	1	- - k e n -
 029/175	keä	1	- - k eä - -
-029/177	NA	NA	- - - - - -
+029/177	NA	NA	-
 029/181	kee	1	- - k ee - -
 030/033	nytn	1	n y t - n -
 030/035	gyn	1	- - g y n -
@@ -1160,7 +1160,7 @@
 030/153	kehe	1	- - k ehe - -
 030/155	nicha	1	n i ch a - -
 030/157	khee	1	- - kh ee - -
-030/159	NA	NA	- - - - - -
+030/159	NA	NA	-
 030/161	kea	1	- - k ea - -
 030/163	kehe	1	- - k ehe - -
 030/165	kee	1	- - k ee - -
@@ -1183,7 +1183,7 @@
 031/049	kien	1	- - k ie n -
 031/051	nichn	1	n i ch - n -
 031/053	nich	1	n i ch - - -
-031/055	NA	NA	- - - - - -
+031/055	NA	NA	-
 031/057	keen	1	- - k ee n -
 031/059	ken	1	- - k e n -
 031/061	nichn	1	n i ch - n -
@@ -1292,7 +1292,7 @@
 032/129	ken	1	- - k e n -
 032/131	kea	1	- - k ea - -
 032/133	kea	1	- - k ea - -
-032/135	NA	NA	- - - - - -
+032/135	NA	NA	-
 032/139	ke	1	- - k e - -
 032/141	kea	1	- - k ea - -
 032/143	kea	1	- - k ea - -
@@ -1300,7 +1300,7 @@
 032/147	keä	1	- - k eä - -
 032/149	nia	1	n - - ia - -
 032/151	kee	1	- - k ee - -
-032/153	NA	NA	- - - - - -
+032/153	NA	NA	-
 032/157	kehä	1	- - k ehä - -
 032/159	kehä	1	- - k ehä - -
 032/161	djee	1	- - dj ee - -
@@ -1397,7 +1397,7 @@
 034/057	keen	1	- - k ee n -
 034/059	kehn	1	- - k eh n -
 034/061	keen	1	- - k ee n -
-034/063	NA	NA	- - - - - -
+034/063	NA	NA	-
 034/065	keen	1	- - k ee n -
 034/067	keen	1	- - k ee n -
 034/069	kein	1	- - k ei n -
@@ -1416,7 +1416,7 @@
 034/095	keen	1	- - k ee n -
 034/097	keen	1	- - k ee n -
 034/099	kehn	1	- - k eh n -
-034/101	NA	NA	- - - - - -
+034/101	NA	NA	-
 034/103	kehn	1	- - k eh n -
 034/105	ken	1	- - k e n -
 034/107	keen	1	- - k ee n -
@@ -1511,7 +1511,7 @@
 035/157	nea	1	n - - ea - -
 035/165	kea	1	- - k ea - -
 035/167	keäh	1	- - k eäh - -
-035/169	NA	NA	- - - - - -
+035/169	NA	NA	-
 035/171	keä	1	- - k eä - -
 035/173	ke	1	- - k e - -
 036/033	kin	1	- - k i n -
@@ -1566,12 +1566,12 @@
 036/137	keen	1	- - k ee n -
 036/139	kee	1	- - k ee - -
 036/141	kea	1	- - k ea - -
-036/143	NA	NA	- - - - - -
+036/143	NA	NA	-
 036/147	keo	1	- - k eo - -
-036/149	NA	NA	- - - - - -
+036/149	NA	NA	-
 036/151	keho	1	- - k eho - -
 036/153	keen	1	- - k ee n -
-036/155	NA	NA	- - - - - -
+036/155	NA	NA	-
 036/161	kein	1	- - k ei n -
 036/163	keä	1	- - k eä - -
 036/165	nähch	1	n äh ch - - -
@@ -1614,7 +1614,7 @@
 037/099	keen	1	- - k ee n -
 037/101	ken	1	- - k e n -
 037/105	nichn	1	n i ch - n -
-037/107	NA	NA	- - - - - -
+037/107	NA	NA	-
 037/109	ken	1	- - k e n -
 037/111	keen	1	- - k ee n -
 037/113	ken	1	- - k e n -
@@ -1766,7 +1766,7 @@
 040/029	nichen	1	n i ch e n -
 040/031	gen	1	- - g e n -
 040/033	ken	1	- - k e n -
-040/035	NA	NA	- - - - - -
+040/035	NA	NA	-
 040/037	kien	1	- - k ie n -
 040/039	kien	1	- - k ie n -
 040/041	kyn	1	- - k y n -
@@ -1790,7 +1790,7 @@
 040/077	niggen	1	n i gg e n -
 040/079	keen	1	- - k ee n -
 040/081	keen	1	- - k ee n -
-040/083	NA	NA	- - - - - -
+040/083	NA	NA	-
 040/085	kein	1	- - k ei n -
 040/087	keen	1	- - k ee n -
 040/089	keen	1	- - k ee n -
@@ -1814,8 +1814,8 @@
 040/127	ken	1	- - k e n -
 040/129	keen	1	- - k ee n -
 040/131	ken	1	- - k e n -
-040/133	NA	NA	- - - - - -
-040/135	NA	NA	- - - - - -
+040/133	NA	NA	-
+040/135	NA	NA	-
 040/137	kein	1	- - k ei n -
 040/141	keen	1	- - k ee n -
 040/143	kehn	1	- - k eh n -
@@ -1837,7 +1837,7 @@
 041/055	nichun	1	n i ch u n -
 041/057	ken	1	- - k e n -
 041/059	keen	1	- - k ee n -
-041/061	NA	NA	- - - - - -
+041/061	NA	NA	-
 041/063	kein	1	- - k ei n -
 041/065	nein	1	n - - ei n -
 041/067	kein	1	- - k ei n -
@@ -1940,7 +1940,7 @@
 042/141	ke	1	- - k e - -
 042/143	nicha	1	n i ch a - -
 042/145	nicha	1	n i ch a - -
-042/147	NA	NA	- - - - - -
+042/147	NA	NA	-
 042/149	keen	1	- - k ee n -
 042/151	nita	1	n i t a - -
 042/157	keo	1	- - k eo - -
@@ -2146,7 +2146,7 @@
 046/073	kein	1	- - k ei n -
 046/075	kein	1	- - k ei n -
 046/077	kein	1	- - k ei n -
-046/079	NA	NA	- - - - - -
+046/079	NA	NA	-
 046/081	kein	1	- - k ei n -
 046/083	kein	1	- - k ei n -
 046/085	kein	1	- - k ei n -
@@ -2164,8 +2164,8 @@
 046/109	keen	1	- - k ee n -
 046/111	ken	1	- - k e n -
 046/113	keen	1	- - k ee n -
-046/115	NA	NA	- - - - - -
-046/117	NA	NA	- - - - - -
+046/115	NA	NA	-
+046/117	NA	NA	-
 046/119	keen	1	- - k ee n -
 046/121	keen	1	- - k ee n -
 046/123	keen	1	- - k ee n -
@@ -2250,7 +2250,7 @@
 048/039	kin	1	- - k i n -
 048/041	kin	1	- - k i n -
 048/045	kenn	1	- - k e nn -
-048/047	NA	NA	- - - - - -
+048/047	NA	NA	-
 048/049	ken	1	- - k e n -
 048/051	ken	1	- - k e n -
 048/053	keun	1	- - k eu n -
@@ -2289,7 +2289,7 @@
 048/125	nich	1	n i ch - - -
 048/127	keen	1	- - k ee n -
 048/129	ken	1	- - k e n -
-048/131	NA	NA	- - - - - -
+048/131	NA	NA	-
 048/133	kei	1	- - k ei - -
 048/135	kei	1	- - k ei - -
 048/137	kei	1	- - k ei - -
@@ -2379,7 +2379,7 @@
 050/041	ken	1	- - k e n -
 050/043	kien	1	- - k ie n -
 050/047	ken	1	- - k e n -
-050/049	NA	NA	- - - - - -
+050/049	NA	NA	-
 050/051	kenn	1	- - k e nn -
 050/053	kein	1	- - k ei n -
 050/055	kein	1	- - k ei n -
@@ -2390,7 +2390,7 @@
 050/065	nein	1	n - - ei n -
 050/067	kein	1	- - k ei n -
 050/069	kein	1	- - k ei n -
-050/071	NA	NA	- - - - - -
+050/071	NA	NA	-
 050/073	kein	1	- - k ei n -
 050/075	kä	1	- - k ä - -
 050/077	kein	1	- - k ei n -
@@ -2446,7 +2446,7 @@
 051/041	kein	1	- - k ei n -
 051/043	kein	1	- - k ei n -
 051/045	ken	1	- - k e n -
-051/047	NA	NA	- - - - - -
+051/047	NA	NA	-
 051/049	ken	1	- - k e n -
 051/051	kein	1	- - k ei n -
 051/053	kein	1	- - k ei n -
@@ -2561,7 +2561,7 @@
 052/139	ka	1	- - k a - -
 052/141	kei	1	- - k ei - -
 052/143	kä	1	- - k ä - -
-052/145	NA	NA	- - - - - -
+052/145	NA	NA	-
 052/147	kee	1	- - k ee - -
 052/149	kee	1	- - k ee - -
 052/151	käh	1	- - k äh - -
@@ -2614,20 +2614,20 @@
 053/107	nich	1	n i ch - - -
 053/109	ke	1	- - k e - -
 053/111	keen	1	- - k ee n -
-053/113	NA	NA	- - - - - -
+053/113	NA	NA	-
 053/115	keen	1	- - k ee n -
 053/121	ken	1	- - k e n -
 053/123	ke	1	- - k e - -
 053/125	kej	1	- - k ej - -
 053/127	ke	1	- - k e - -
 053/129	kee	1	- - k ee - -
-053/131	NA	NA	- - - - - -
+053/131	NA	NA	-
 053/133	kie	1	- - k ie - -
 053/135	kei	1	- - k ei - -
 053/137	ni	1	n - - i - -
-053/139	NA	NA	- - - - - -
+053/139	NA	NA	-
 053/141	kä	1	- - k ä - -
-053/143	NA	NA	- - - - - -
+053/143	NA	NA	-
 053/145	kä	1	- - k ä - -
 053/147	kä	1	- - k ä - -
 053/149	kä	1	- - k ä - -
@@ -2693,7 +2693,7 @@
 054/135	ke	1	- - k e - -
 054/137	kei	1	- - k ei - -
 054/139	kä	1	- - k ä - -
-054/141	NA	NA	- - - - - -
+054/141	NA	NA	-
 054/143	kä	1	- - k ä - -
 054/145	kee	1	- - k ee - -
 054/147	kä	1	- - k ä - -
@@ -2852,7 +2852,7 @@
 057/033	ke	1	- - k e - -
 057/035	kenn	1	- - k e nn -
 057/037	kein	1	- - k ei n -
-057/039	NA	NA	- - - - - -
+057/039	NA	NA	-
 057/041	kein	1	- - k ei n -
 057/043	kein	1	- - k ei n -
 057/045	kein	1	- - k ei n -
@@ -3555,8 +3555,8 @@
 067/069	kä	1	- - k ä - -
 067/071	keh	1	- - k eh - -
 067/073	ke	1	- - k e - -
-067/075	NA	NA	- - - - - -
-067/077	NA	NA	- - - - - -
+067/075	NA	NA	-
+067/077	NA	NA	-
 067/079	kä	1	- - k ä - -
 067/081	ke	1	- - k e - -
 067/083	kä	1	- - k ä - -
@@ -5289,7 +5289,7 @@
 098/109	koaa	1	- - k oaa - -
 098/111	koa	1	- - k oa - -
 098/119	koa	1	- - k oa - -
-098/123	NA	NA	- - - - - -
+098/123	NA	NA	-
 098/125	koa	1	- - k oa - -
 098/127	koan	1	- - k oa n -
 098/135	koa	1	- - k oa - -

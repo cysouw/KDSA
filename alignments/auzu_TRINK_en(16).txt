@@ -39,15 +39,15 @@
 010/217	drink	1	d r i nk - -
 010/219	dringk	1	d r i ngk - -
 011/049	dring	1	d r i ng - -
-011/053	NA	NA	- - - - - - - -
-011/055	NA	NA	- - - - - - - -
-011/057	NA	NA	- - - - - - - -
-011/059	NA	NA	- - - - - - - -
-011/061	NA	NA	- - - - - - - -
-011/063	NA	NA	- - - - - - - -
-011/065	NA	NA	- - - - - - - -
-011/067	NA	NA	- - - - - - - -
-011/069	NA	NA	- - - - - - - -
+011/053	NA	NA	-
+011/055	NA	NA	-
+011/057	NA	NA	-
+011/059	NA	NA	-
+011/061	NA	NA	-
+011/063	NA	NA	-
+011/065	NA	NA	-
+011/067	NA	NA	-
+011/069	NA	NA	-
 011/187	trink	1	t r i nk - -
 011/189	drink	1	d r i nk - -
 011/191	drink	1	d r i nk - -
@@ -465,7 +465,7 @@
 020/199	drink	1	d r i nk - -
 020/201	drinn	1	d r i nn - -
 020/203	drink	1	d r i nk - -
-020/205	NA	NA	- - - - - - - -
+020/205	NA	NA	-
 020/207	drink	1	d r i nk - -
 020/209	drink	1	d r i nk - -
 020/211	drink	1	d r i nk - -
@@ -530,7 +530,7 @@
 021/187	sauf	2	s au f - -
 021/189	trink	1	t r i nk - -
 021/191	trink	1	t r i nk - -
-021/193	NA	NA	- - - - - - - -
+021/193	NA	NA	-
 021/195	trink	1	t r i nk - -
 021/197	trink	1	t r i nk - -
 021/199	drink	1	d r i nk - -
@@ -714,7 +714,7 @@
 024/111	drink	1	d r i nk - -
 024/113	drink	1	d r i nk - -
 024/115	drink	1	d r i nk - -
-024/117	NA	NA	- - - - - - - -
+024/117	NA	NA	-
 024/119	drink	1	d r i nk - -
 024/121	drink	1	d r i nk - -
 024/123	drink	1	d r i nk - -
@@ -1028,7 +1028,7 @@
 028/183	trink	1	t r i nk - -
 028/185	trink	1	t r i nk - -
 029/033	drink	1	d r i nk - -
-029/035	NA	NA	- - - - - - - -
+029/035	NA	NA	-
 029/037	drink	1	d r i nk - -
 029/039	drink	1	d r i nk - -
 029/043	drink	1	d r i nk - -
@@ -1104,7 +1104,7 @@
 030/037	drink	1	d r i nk - -
 030/039	drink	1	d r i nk - -
 030/041	drink	1	d r i nk - -
-030/043	NA	NA	- - - - - - - -
+030/043	NA	NA	-
 030/045	drink	1	d r i nk - -
 030/047	drink	1	d r i nk - -
 030/049	drink	1	d r i nk - -
@@ -1876,7 +1876,7 @@
 041/133	trink	1	t r i nk - -
 041/135	trink	1	t r i nk - -
 041/139	trink	1	t r i nk - -
-041/141	NA	NA	- - - - - - - -
+041/141	NA	NA	-
 041/145	trink	1	t r i nk - -
 041/147	trink	1	t r i nk - -
 041/153	drink	1	d r i nk - -
@@ -2065,7 +2065,7 @@
 044/151	trink	1	t r i nk - -
 044/153	trink	1	t r i nk - -
 045/033	drink	1	d r i nk - -
-045/035	NA	NA	- - - - - - - -
+045/035	NA	NA	-
 045/037	drink	1	d r i nk - -
 045/039	drink	1	d r i nk - -
 045/041	drink	1	d r i nk - -
@@ -2122,7 +2122,7 @@
 045/143	trink	1	t r i nk - -
 045/145	trink	1	t r i nk - -
 045/155	trink	1	t r i nk - -
-046/031	NA	NA	- - - - - - - -
+046/031	NA	NA	-
 046/033	drink	1	d r i nk - -
 046/035	drink	1	d r i nk - -
 046/037	drink	1	d r i nk - -
@@ -2313,7 +2313,7 @@
 049/037	drink	1	d r i nk - -
 049/039	drink	1	d r i nk - -
 049/041	drink	1	d r i nk - -
-049/043	NA	NA	- - - - - - - -
+049/043	NA	NA	-
 049/045	drink	1	d r i nk - -
 049/047	drink	1	d r i nk - -
 049/049	drink	1	d r i nk - -
@@ -2448,7 +2448,7 @@
 051/045	drink	1	d r i nk - -
 051/047	drink	1	d r i nk - -
 051/049	siegen	2	s ie g e n
-051/051	NA	NA	- - - - - - - -
+051/051	NA	NA	-
 051/053	trink	1	t r i nk - -
 051/055	drink	1	d r i nk - -
 051/057	drink	1	d r i nk - -
@@ -2625,7 +2625,7 @@
 053/133	trink	1	t r i nk - -
 053/135	trink	1	t r i nk - -
 053/137	trink	1	t r i nk - -
-053/139	NA	NA	- - - - - - - -
+053/139	NA	NA	-
 053/141	trink	1	t r i nk - -
 053/143	trink	1	t r i nk - -
 053/145	trink	1	t r i nk - -
@@ -3514,7 +3514,7 @@
 066/107	trink	1	t r i nk - -
 066/109	trenk	1	t r e nk - -
 066/111	trink	1	t r i nk - -
-066/113	NA	NA	- - - - - - - -
+066/113	NA	NA	-
 066/121	trink	1	t r i nk - -
 066/139	treenk	1	t r ee nk - -
 066/143	trenk	1	t r e nk - -
@@ -3979,7 +3979,7 @@
 074/147	trink	1	t r i nk - -
 074/149	trink	1	t r i nk - -
 074/153	trink	1	t r i nk - -
-074/155	NA	NA	- - - - - - - -
+074/155	NA	NA	-
 074/157	trink	1	t r i nk - -
 074/159	trink	1	t r i nk - -
 074/161	träink	1	t r äi nk - -
@@ -3987,7 +3987,7 @@
 074/165	trink	1	t r i nk - -
 075/019	drenk	1	d r e nk - -
 075/021	drenk	1	d r e nk - -
-075/023	NA	NA	- - - - - - - -
+075/023	NA	NA	-
 075/025	drenk	1	d r e nk - -
 075/027	träink	1	t r äi nk - -
 075/029	trenk	1	t r e nk - -
@@ -4176,7 +4176,7 @@
 078/101	saf	2	s a f - -
 078/103	trink	1	t r i nk - -
 078/105	tring	1	t r i ng - -
-078/135	NA	NA	- - - - - - - -
+078/135	NA	NA	-
 078/193	trink	1	t r i nk - -
 079/021	trenk	1	t r e nk - -
 079/023	drenk	1	d r e nk - -
@@ -4600,7 +4600,7 @@
 086/115	trink	1	t r i nk - -
 086/117	tring	1	t r i ng - -
 086/119	tring	1	t r i ng - -
-086/121	NA	NA	- - - - - - - -
+086/121	NA	NA	-
 086/123	tring	1	t r i ng - -
 086/125	tring	1	t r i ng - -
 086/127	trink	1	t r i nk - -
@@ -4777,7 +4777,7 @@
 089/123	trink	1	t r i nk - -
 089/125	trink	1	t r i nk - -
 089/127	trink	1	t r i nk - -
-089/129	NA	NA	- - - - - - - -
+089/129	NA	NA	-
 089/131	tring	1	t r i ng - -
 089/133	tring	1	t r i ng - -
 089/135	dring	1	d r i ng - -
@@ -4818,7 +4818,7 @@
 090/089	trink	1	t r i nk - -
 090/091	dring	1	d r i ng - -
 090/093	trink	1	t r i nk - -
-090/095	NA	NA	- - - - - - - -
+090/095	NA	NA	-
 090/097	tring	1	t r i ng - -
 090/099	tring	1	t r i ng - -
 090/101	tring	1	t r i ng - -
@@ -4992,7 +4992,7 @@
 093/087	trink	1	t r i nk - -
 093/089	tring	1	t r i ng - -
 093/091	tring	1	t r i ng - -
-093/093	NA	NA	- - - - - - - -
+093/093	NA	NA	-
 093/095	sauf	2	s au f - -
 093/097	trink	1	t r i nk - -
 093/099	drink	1	d r i nk - -
@@ -5102,7 +5102,7 @@
 095/065	trink	1	t r i nk - -
 095/067	trink	1	t r i nk - -
 095/069	trink	1	t r i nk - -
-095/071	NA	NA	- - - - - - - -
+095/071	NA	NA	-
 095/073	trink	1	t r i nk - -
 095/075	trink	1	t r i nk - -
 095/077	trink	1	t r i nk - -
@@ -5112,7 +5112,7 @@
 095/085	tring	1	t r i ng - -
 095/087	trink	1	t r i nk - -
 095/089	driing	1	d r ii ng - -
-095/091	NA	NA	- - - - - - - -
+095/091	NA	NA	-
 095/093	trink	1	t r i nk - -
 095/095	dring	1	d r i ng - -
 095/097	tring	1	t r i ng - -
@@ -5605,7 +5605,7 @@
 105/119	trink	1	t r i nk - -
 105/121	sauf	2	s au f - -
 105/125	trink	1	t r i nk - -
-105/127	NA	NA	- - - - - - - -
+105/127	NA	NA	-
 105/131	trink	1	t r i nk - -
 105/133	trink	1	t r i nk - -
 105/135	sauf	2	s au f - -
@@ -5711,7 +5711,7 @@
 108/081	trink	1	t r i nk - -
 108/085	trink	1	t r i nk - -
 108/087	trink	1	t r i nk - -
-108/091	NA	NA	- - - - - - - -
+108/091	NA	NA	-
 108/099	trink	1	t r i nk - -
 108/101	trink	1	t r i nk - -
 108/103	trink	1	t r i nk - -
@@ -5768,7 +5768,7 @@
 109/127	trink	1	t r i nk - -
 109/129	trink	1	t r i nk - -
 109/131	trink	1	t r i nk - -
-109/133	NA	NA	- - - - - - - -
+109/133	NA	NA	-
 109/135	trink	1	t r i nk - -
 109/137	sauf	2	s au f - -
 109/139	trink	1	t r i nk - -
@@ -5784,7 +5784,7 @@
 110/065	trich	1	t r i ch - -
 110/075	sauf	2	s au f - -
 110/079	trink	1	t r i nk - -
-110/081	NA	NA	- - - - - - - -
+110/081	NA	NA	-
 110/083	trink	1	t r i nk - -
 110/087	trink	1	t r i nk - -
 110/089	trink	1	t r i nk - -
@@ -5820,8 +5820,8 @@
 111/073	trink	1	t r i nk - -
 111/075	tringk	1	t r i ngk - -
 111/077	trink	1	t r i nk - -
-111/079	NA	NA	- - - - - - - -
-111/081	NA	NA	- - - - - - - -
+111/079	NA	NA	-
+111/081	NA	NA	-
 111/083	trink	1	t r i nk - -
 111/087	trink	1	t r i nk - -
 111/089	trink	1	t r i nk - -
@@ -5834,7 +5834,7 @@
 111/117	trink	1	t r i nk - -
 111/119	tringk	1	t r i ngk - -
 111/121	trink	1	t r i nk - -
-111/123	NA	NA	- - - - - - - -
+111/123	NA	NA	-
 111/125	trink	1	t r i nk - -
 112/037	triih	1	t r iih - - -
 112/039	treh	1	t r eh - - -
@@ -5847,16 +5847,16 @@
 112/075	sauf	2	s au f - -
 112/081	trink	1	t r i nk - -
 112/083	trink	1	t r i nk - -
-112/085	NA	NA	- - - - - - - -
+112/085	NA	NA	-
 112/111	trink	1	t r i nk - -
 112/115	trink	1	t r i nk - -
-112/117	NA	NA	- - - - - - - -
+112/117	NA	NA	-
 112/119	trink	1	t r i nk - -
 113/035	suff	2	s u ff - -
 113/037	triih	1	t r iih - - -
 113/039	trih	1	t r ih - - -
 113/047	trich	1	t r i ch - -
-113/079	NA	NA	- - - - - - - -
+113/079	NA	NA	-
 113/081	trink	1	t r i nk - -
 113/083	trink	1	t r i nk - -
 113/085	trink	1	t r i nk - -

@@ -242,7 +242,7 @@
 016/213	mott	1	m o tt
 016/215	mott	1	m o tt
 016/217	mott	1	m o tt
-016/219	molt	1	m ol t
+016/219	molt	1	m o lt
 017/055	mät	1	m ä t
 017/057	möd	1	m ö d
 017/059	möd	1	m ö d
@@ -866,7 +866,7 @@
 026/137	meut	1	m eu t
 026/139	meut	1	m eu t
 026/141	möt	1	m ö t
-026/143	NA	NA	- - - - -
+026/143	NA	NA	-
 026/145	möt	1	m ö t
 026/147	möt	1	m ö t
 026/153	möt	1	m ö t
@@ -2727,7 +2727,7 @@
 055/061	müss	1	m ü ss
 055/063	murr	1	m urr -
 055/065	mutt	1	m u tt
-055/067	mullt	1	m ull t
+055/067	mullt	1	m u llt
 055/069	mut	1	m u t
 055/071	mut	1	m u t
 055/073	muat	1	m ua t
@@ -3251,7 +3251,7 @@
 062/115	miss	1	m i ss
 062/117	miss	1	m i ss
 062/119	miss	1	m i ss
-062/121	NA	NA	- - - - -
+062/121	NA	NA	-
 062/123	miss	1	m i ss
 062/125	möss	1	m ö ss
 062/127	müss	1	m ü ss
@@ -3453,7 +3453,7 @@
 065/107	miss	1	m i ss
 065/109	miss	1	m i ss
 065/111	miss	1	m i ss
-065/113	NA	NA	- - - - -
+065/113	NA	NA	-
 065/115	miss	1	m i ss
 065/121	miss	1	m i ss
 065/123	müss	1	m ü ss
@@ -3640,7 +3640,7 @@
 068/151	miss	1	m i ss
 068/153	miss	1	m i ss
 068/155	miss	1	m i ss
-068/157	NA	NA	- - - - -
+068/157	NA	NA	-
 068/159	miss	1	m i ss
 068/161	miss	1	m i ss
 068/165	miss	1	m i ss
@@ -3869,7 +3869,7 @@
 072/161	miss	1	m i ss
 072/177	müss	1	m ü ss
 072/179	miss	1	m i ss
-072/181	NA	NA	- - - - -
+072/181	NA	NA	-
 073/017	musch	1	m u sch
 073/019	muss	1	m u ss
 073/021	muss	1	m u ss
@@ -3960,7 +3960,7 @@
 074/075	müss	1	m ü ss
 074/077	müss	1	m ü ss
 074/079	miss	1	m i ss
-074/081	NA	NA	- - - - -
+074/081	NA	NA	-
 074/083	müss	1	m ü ss
 074/085	moiz	1	m oi z
 074/087	möiss	1	m öi ss
@@ -4020,7 +4020,7 @@
 075/083	möiss	1	m öi ss
 075/085	möi	1	m öi -
 075/087	möiss	1	m öi ss
-075/089	NA	NA	- - - - -
+075/089	NA	NA	-
 075/091	möiss	1	m öi ss
 075/093	möiss	1	m öi ss
 075/095	mäiss	1	m äi ss
@@ -4039,7 +4039,7 @@
 075/159	miss	1	m i ss
 075/161	miss	1	m i ss
 075/163	miss	1	m i ss
-075/165	NA	NA	- - - - -
+075/165	NA	NA	-
 076/019	musch	1	m u sch
 076/021	musch	1	m u sch
 076/023	musch	1	m u sch
@@ -4546,7 +4546,7 @@
 085/131	miass	1	m ia ss
 085/133	mes	1	m e s
 085/135	mess	1	m e ss
-085/137	NA	NA	- - - - -
+085/137	NA	NA	-
 085/139	mess	1	m e ss
 085/141	mess	1	m e ss
 085/143	müas	1	m üa s
@@ -4759,7 +4759,7 @@
 089/087	müss	1	m ü ss
 089/089	müass	1	m üa ss
 089/091	müas	1	m üa s
-089/093	NA	NA	- - - - -
+089/093	NA	NA	-
 089/095	müass	1	m üa ss
 089/097	miass	1	m ia ss
 089/099	müss	1	m ü ss
@@ -4772,9 +4772,9 @@
 089/113	müass	1	m üa ss
 089/115	müasz	1	m üa sz
 089/117	müass	1	m üa ss
-089/119	NA	NA	- - - - -
+089/119	NA	NA	-
 089/121	müas	1	m üa s
-089/123	NA	NA	- - - - -
+089/123	NA	NA	-
 089/125	mess	1	m e ss
 089/127	mess	1	m e ss
 089/129	miass	1	m ia ss
@@ -4827,7 +4827,7 @@
 090/107	müass	1	m üa ss
 090/109	müss	1	m ü ss
 090/111	müass	1	m üa ss
-090/113	NA	NA	- - - - -
+090/113	NA	NA	-
 090/115	miass	1	m ia ss
 090/119	miess	1	m ie ss
 090/121	miass	1	m ia ss
@@ -4881,7 +4881,7 @@
 091/101	miass	1	m ia ss
 091/103	miass	1	m ia ss
 091/105	müass	1	m üa ss
-091/107	NA	NA	- - - - -
+091/107	NA	NA	-
 091/109	müass	1	m üa ss
 091/111	mioss	1	m io ss
 091/113	müass	1	m üa ss
@@ -4940,7 +4940,7 @@
 092/101	müass	1	m üa ss
 092/103	miass	1	m ia ss
 092/105	miass	1	m ia ss
-092/107	NA	NA	- - - - -
+092/107	NA	NA	-
 092/109	miass	1	m ia ss
 092/111	miass	1	m ia ss
 092/113	müess	1	m üe ss
@@ -5061,7 +5061,7 @@
 094/107	müass	1	m üa ss
 094/109	müass	1	m üa ss
 094/111	müass	1	m üa ss
-094/113	NA	NA	- - - - -
+094/113	NA	NA	-
 094/115	miass	1	m ia ss
 094/117	müass	1	m üa ss
 094/119	müass	1	m üa ss
@@ -5234,13 +5234,13 @@
 097/091	mias	1	m ia s
 097/093	miasz	1	m ia sz
 097/095	miass	1	m ia ss
-097/097	NA	NA	- - - - -
+097/097	NA	NA	-
 097/099	müss	1	m ü ss
 097/103	müass	1	m üa ss
 097/105	müass	1	m üa ss
 097/107	miassz	1	m ia ssz
 097/109	miass	1	m ia ss
-097/113	NA	NA	- - - - -
+097/113	NA	NA	-
 097/125	muuass	1	m uua ss
 097/131	miass	1	m ia ss
 097/133	miass	1	m ia ss
@@ -5276,13 +5276,13 @@
 098/079	muuass	1	m uua ss
 098/081	müass	1	m üa ss
 098/083	müass	1	m üa ss
-098/085	NA	NA	- - - - -
+098/085	NA	NA	-
 098/087	miass	1	m ia ss
 098/089	müass	1	m üa ss
 098/091	miass	1	m ia ss
 098/093	müass	1	m üa ss
 098/095	müass	1	m üa ss
-098/097	NA	NA	- - - - -
+098/097	NA	NA	-
 098/103	müass	1	m üa ss
 098/105	miass	1	m ia ss
 098/107	miassz	1	m ia ssz
@@ -5290,7 +5290,7 @@
 098/111	muass	1	m ua ss
 098/119	muass	1	m ua ss
 098/123	müass	1	m üa ss
-098/125	NA	NA	- - - - -
+098/125	NA	NA	-
 098/127	müass	1	m üa ss
 098/135	miass	1	m ia ss
 098/137	miass	1	m ia ss
@@ -5386,7 +5386,7 @@
 100/125	müaz	1	m üa z
 100/127	müass	1	m üa ss
 100/129	müass	1	m üa ss
-100/133	NA	NA	- - - - -
+100/133	NA	NA	-
 100/135	müss	1	m ü ss
 100/141	muass	1	m ua ss
 100/143	müass	1	m üa ss
@@ -5556,7 +5556,7 @@
 104/113	mias	1	m ia s
 104/119	müass	1	m üa ss
 104/121	miass	1	m ia ss
-104/123	NA	NA	- - - - -
+104/123	NA	NA	-
 104/125	miasz	1	m ia sz
 104/127	miass	1	m ia ss
 104/131	mä	1	m ä -
@@ -5638,7 +5638,7 @@
 106/087	miess	1	m ie ss
 106/093	mis	1	m i s
 106/097	miss	1	m i ss
-106/099	NA	NA	- - - - -
+106/099	NA	NA	-
 106/103	müss	1	m ü ss
 106/111	müess	1	m üe ss
 106/115	miass	1	m ia ss
@@ -5687,7 +5687,7 @@
 107/123	muäss	1	m uä ss
 107/125	miab	1	m ia b
 107/127	miass	1	m ia ss
-107/129	NA	NA	- - - - -
+107/129	NA	NA	-
 107/131	mas	1	m a s
 107/133	müas	1	m üa s
 107/135	müassz	1	m üa ssz
@@ -5721,7 +5721,7 @@
 108/113	muass	1	m ua ss
 108/117	miass	1	m ia ss
 108/119	miass	1	m ia ss
-108/121	NA	NA	- - - - -
+108/121	NA	NA	-
 108/123	miass	1	m ia ss
 108/125	mags	3	m a g - s
 108/127	müass	1	m üa ss
@@ -5804,7 +5804,7 @@
 110/121	müess	1	m üe ss
 110/125	muua	1	m uua -
 110/127	muuass	1	m uua ss
-110/129	NA	NA	- - - - -
+110/129	NA	NA	-
 110/131	miass	1	m ia ss
 110/133	müass	1	m üa ss
 110/135	müass	1	m üa ss
@@ -5823,14 +5823,14 @@
 111/079	müass	1	m üa ss
 111/081	mias	1	m ia s
 111/083	miass	1	m ia ss
-111/087	NA	NA	- - - - -
+111/087	NA	NA	-
 111/089	mia	1	m ia -
 111/105	müas	1	m üa s
 111/107	miass	1	m ia ss
 111/109	miass	1	m ia ss
 111/111	müass	1	m üa ss
 111/113	müas	1	m üa s
-111/115	NA	NA	- - - - -
+111/115	NA	NA	-
 111/117	müass	1	m üa ss
 111/119	mia	1	m ia -
 111/121	miass	1	m ia ss

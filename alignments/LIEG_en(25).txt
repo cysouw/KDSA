@@ -240,7 +240,7 @@
 016/209	leeg	1	- l ee g -
 016/211	ligg	1	- l i gg -
 016/213	ligg	1	- l i gg -
-016/215	NA	NA	- - - - -
+016/215	NA	NA	-
 016/217	ligg	1	- l i gg -
 016/219	ligg	1	- l i gg -
 017/055	ligg	1	- l i gg -
@@ -729,7 +729,7 @@
 024/141	ligg	1	- l i gg -
 024/143	lig	1	- l i g -
 024/145	lieg	1	- l ie g -
-024/147	NA	NA	- - - - -
+024/147	NA	NA	-
 024/149	lieg	1	- l ie g -
 024/151	liög	1	- l iö g -
 024/153	lieg	1	- l ie g -
@@ -1150,7 +1150,7 @@
 030/133	lej	1	- l ej - -
 030/135	legg	1	- l e gg -
 030/137	lieg	1	- l ie g -
-030/139	NA	NA	- - - - -
+030/139	NA	NA	-
 030/141	ligg	1	- l i gg -
 030/143	lieg	1	- l ie g -
 030/145	ligg	1	- l i gg -
@@ -1543,7 +1543,7 @@
 036/087	lig	1	- l i g -
 036/089	ling	1	- l i ng -
 036/091	ling	1	- l i ng -
-036/095	NA	NA	- - - - -
+036/095	NA	NA	-
 036/097	ling	1	- l i ng -
 036/099	ling	1	- l i ng -
 036/101	ligg	1	- l i gg -
@@ -1814,7 +1814,7 @@
 040/127	lä	1	- l ä - -
 040/129	lieh	1	- l ieh - -
 040/131	lie	1	- l ie - -
-040/133	NA	NA	- - - - -
+040/133	NA	NA	-
 040/135	lieg	1	- l ie g -
 040/137	leg	1	- l e g -
 040/141	lieg	1	- l ie g -
@@ -2102,7 +2102,7 @@
 045/103	lei	1	- l ei - -
 045/105	lei	1	- l ei - -
 045/107	lei	1	- l ei - -
-045/109	NA	NA	- - - - -
+045/109	NA	NA	-
 045/111	ligg	1	- l i gg -
 045/113	ligg	1	- l i gg -
 045/115	lieg	1	- l ie g -
@@ -2308,7 +2308,7 @@
 049/027	ligg	1	- l i gg -
 049/029	leg	1	- l e g -
 049/031	ligg	1	- l i gg -
-049/033	NA	NA	- - - - -
+049/033	NA	NA	-
 049/035	ligg	1	- l i gg -
 049/037	ligg	1	- l i gg -
 049/039	ligg	1	- l i gg -
@@ -2937,7 +2937,7 @@
 058/059	leijj	1	- l eijj - -
 058/061	legg	1	- l e gg -
 058/063	legg	1	- l e gg -
-058/065	NA	NA	- - - - -
+058/065	NA	NA	-
 058/067	ligg	1	- l i gg -
 058/069	leih	1	- l eih - -
 058/071	läi	1	- l äi - -
@@ -3138,7 +3138,7 @@
 061/031	lij	1	- l ij - -
 061/033	ligg	1	- l i gg -
 061/035	lie	1	- l ie - -
-061/037	NA	NA	- - - - -
+061/037	NA	NA	-
 061/039	lei	1	- l ei - -
 061/041	lehj	1	- l ehj - -
 061/043	lej	1	- l ej - -
@@ -3626,7 +3626,7 @@
 068/091	lieg	1	- l ie g -
 068/093	lieg	1	- l ie g -
 068/095	lieg	1	- l ie g -
-068/097	NA	NA	- - - - -
+068/097	NA	NA	-
 068/099	lig	1	- l i g -
 068/101	lieng	1	- l ie ng -
 068/103	lieg	1	- l ie g -
@@ -3852,7 +3852,7 @@
 072/091	lieng	1	- l ie ng -
 072/093	liag	1	- l ia g -
 072/095	lieg	1	- l ie g -
-072/097	NA	NA	- - - - -
+072/097	NA	NA	-
 072/099	lieg	1	- l ie g -
 072/101	lieg	1	- l ie g -
 072/103	lieg	1	- l ie g -
@@ -4225,7 +4225,7 @@
 079/135	lieg	1	- l ie g -
 079/193	lieg	1	- l ie g -
 079/195	lieg	1	- l ie g -
-079/197	NA	NA	- - - - -
+079/197	NA	NA	-
 080/025	leih	1	- l eih - -
 080/027	leih	1	- l eih - -
 080/029	lei	1	- l ei - -
@@ -4324,7 +4324,7 @@
 081/147	lig	1	- l i g -
 081/191	liig	1	- l ii g -
 081/193	liig	1	- l ii g -
-081/195	NA	NA	- - - - -
+081/195	NA	NA	-
 082/027	leg	1	- l e g -
 082/029	leg	1	- l e g -
 082/031	lei	1	- l ei - -
@@ -4415,7 +4415,7 @@
 083/097	lig	1	- l i g -
 083/099	ling	1	- l i ng -
 083/101	lieg	1	- l ie g -
-083/103	NA	NA	- - - - -
+083/103	NA	NA	-
 083/105	ling	1	- l i ng -
 083/107	lig	1	- l i g -
 083/111	ling	1	- l i ng -
@@ -4516,7 +4516,7 @@
 085/069	lieg	1	- l ie g -
 085/071	lieg	1	- l ie g -
 085/073	lieg	1	- l ie g -
-085/075	NA	NA	- - - - -
+085/075	NA	NA	-
 085/077	läg	1	- l ä g -
 085/079	leg	1	- l e g -
 085/081	leg	1	- l e g -
@@ -4529,7 +4529,7 @@
 085/095	lieg	1	- l ie g -
 085/097	lieg	1	- l ie g -
 085/101	lieg	1	- l ie g -
-085/103	NA	NA	- - - - -
+085/103	NA	NA	-
 085/105	lig	1	- l i g -
 085/107	lieg	1	- l ie g -
 085/109	ling	1	- l i ng -
@@ -4566,7 +4566,7 @@
 086/047	lej	1	- l ej - -
 086/049	lei	1	- l ei - -
 086/051	lieg	1	- l ie g -
-086/053	NA	NA	- - - - -
+086/053	NA	NA	-
 086/055	lig	1	- l i g -
 086/057	lieg	1	- l ie g -
 086/059	lieg	1	- l ie g -
@@ -4600,7 +4600,7 @@
 086/115	lieg	1	- l ie g -
 086/117	lieg	1	- l ie g -
 086/119	lieg	1	- l ie g -
-086/121	NA	NA	- - - - -
+086/121	NA	NA	-
 086/123	lieng	1	- l ie ng -
 086/125	ling	1	- l i ng -
 086/127	lieng	1	- l ie ng -
@@ -4748,7 +4748,7 @@
 089/065	leag	1	- l ea g -
 089/067	leag	1	- l ea g -
 089/069	leag	1	- l ea g -
-089/071	NA	NA	- - - - -
+089/071	NA	NA	-
 089/073	lieg	1	- l ie g -
 089/075	lieg	1	- l ie g -
 089/077	lieg	1	- l ie g -
@@ -4771,7 +4771,7 @@
 089/111	lieg	1	- l ie g -
 089/113	lieg	1	- l ie g -
 089/115	lieg	1	- l ie g -
-089/117	NA	NA	- - - - -
+089/117	NA	NA	-
 089/119	liing	1	- l ii ng -
 089/121	lieg	1	- l ie g -
 089/123	lieg	1	- l ie g -
@@ -4811,7 +4811,7 @@
 090/075	lig	1	- l i g -
 090/077	lig	1	- l i g -
 090/079	lig	1	- l i g -
-090/081	NA	NA	- - - - -
+090/081	NA	NA	-
 090/083	lieg	1	- l ie g -
 090/085	lig	1	- l i g -
 090/087	lieg	1	- l ie g -
@@ -5101,7 +5101,7 @@
 095/063	lieg	1	- l ie g -
 095/065	lieg	1	- l ie g -
 095/067	lieg	1	- l ie g -
-095/069	NA	NA	- - - - -
+095/069	NA	NA	-
 095/071	lieg	1	- l ie g -
 095/073	lieg	1	- l ie g -
 095/075	leag	1	- l ea g -
@@ -5195,7 +5195,7 @@
 096/137	lieg	1	- l ie g -
 096/139	lieg	1	- l ie g -
 096/141	lieg	1	- l ie g -
-096/143	NA	NA	- - - - -
+096/143	NA	NA	-
 096/145	lieg	1	- l ie g -
 096/147	ling	1	- l i ng -
 096/151	lig	1	- l i g -
@@ -5234,13 +5234,13 @@
 097/091	lieg	1	- l ie g -
 097/093	lig	1	- l i g -
 097/095	lieng	1	- l ie ng -
-097/097	NA	NA	- - - - -
+097/097	NA	NA	-
 097/099	lieg	1	- l ie g -
 097/103	lig	1	- l i g -
 097/105	lieg	1	- l ie g -
 097/107	lieg	1	- l ie g -
 097/109	lig	1	- l i g -
-097/113	NA	NA	- - - - -
+097/113	NA	NA	-
 097/125	lieg	1	- l ie g -
 097/131	lieg	1	- l ie g -
 097/133	lieg	1	- l ie g -
@@ -5282,7 +5282,7 @@
 098/091	ling	1	- l i ng -
 098/093	ling	1	- l i ng -
 098/095	lieg	1	- l ie g -
-098/097	NA	NA	- - - - -
+098/097	NA	NA	-
 098/103	lieg	1	- l ie g -
 098/105	lieg	1	- l ie g -
 098/107	lieg	1	- l ie g -
@@ -5353,14 +5353,14 @@
 100/039	ligg	1	- l i gg -
 100/041	liig	1	- l ii g -
 100/043	ligg	1	- l i gg -
-100/045	NA	NA	- - - - -
-100/049	NA	NA	- - - - -
+100/045	NA	NA	-
+100/049	NA	NA	-
 100/051	lig	1	- l i g -
 100/053	lig	1	- l i g -
 100/055	lig	1	- l i g -
 100/057	ligg	1	- l i gg -
 100/059	ligg	1	- l i gg -
-100/061	NA	NA	- - - - -
+100/061	NA	NA	-
 100/065	lig	1	- l i g -
 100/067	ligg	1	- l i gg -
 100/069	lieg	1	- l ie g -
@@ -5440,14 +5440,14 @@
 102/041	ligg	1	- l i gg -
 102/043	ligg	1	- l i gg -
 102/045	ligg	1	- l i gg -
-102/047	NA	NA	- - - - -
+102/047	NA	NA	-
 102/049	ligg	1	- l i gg -
 102/051	liig	1	- l ii g -
 102/053	ggleggö	1	gg l e gg ö
 102/055	lig	1	- l i g -
 102/057	ligg	1	- l i gg -
 102/059	ligg	1	- l i gg -
-102/061	NA	NA	- - - - -
+102/061	NA	NA	-
 102/063	ligg	1	- l i gg -
 102/065	ligg	1	- l i gg -
 102/067	ligg	1	- l i gg -
@@ -5456,11 +5456,11 @@
 102/073	lieg	1	- l ie g -
 102/075	lieg	1	- l ie g -
 102/077	lig	1	- l i g -
-102/079	NA	NA	- - - - -
+102/079	NA	NA	-
 102/081	lieg	1	- l ie g -
 102/083	lieg	1	- l ie g -
 102/089	lieg	1	- l ie g -
-102/091	NA	NA	- - - - -
+102/091	NA	NA	-
 102/093	lieg	1	- l ie g -
 102/095	lieg	1	- l ie g -
 102/097	lieg	1	- l ie g -
@@ -5479,17 +5479,17 @@
 102/141	lieg	1	- l ie g -
 102/143	lig	1	- l i g -
 102/145	lig	1	- l i g -
-103/039	NA	NA	- - - - -
+103/039	NA	NA	-
 103/041	ligg	1	- l i gg -
 103/043	ligg	1	- l i gg -
 103/045	lig	1	- l i g -
-103/047	NA	NA	- - - - -
+103/047	NA	NA	-
 103/049	legg	1	- l e gg -
 103/051	lig	1	- l i g -
 103/053	lig	1	- l i g -
 103/055	ligg	1	- l i gg -
 103/057	ligg	1	- l i gg -
-103/059	NA	NA	- - - - -
+103/059	NA	NA	-
 103/063	goga	1	g - o g a
 103/065	lig	1	- l i g -
 103/067	lig	1	- l i g -
@@ -5529,9 +5529,9 @@
 104/041	lieg	1	- l ie g -
 104/043	legg	1	- l e gg -
 104/045	legg	1	- l e gg -
-104/047	NA	NA	- - - - -
+104/047	NA	NA	-
 104/049	ligg	1	- l i gg -
-104/051	NA	NA	- - - - -
+104/051	NA	NA	-
 104/053	ligg	1	- l i gg -
 104/055	ligg	1	- l i gg -
 104/057	legg	1	- l e gg -
@@ -5576,7 +5576,7 @@
 105/043	legg	1	- l e gg -
 105/045	glegge	1	g l e gg e
 105/047	legg	1	- l e gg -
-105/049	NA	NA	- - - - -
+105/049	NA	NA	-
 105/051	ligg	1	- l i gg -
 105/053	ligg	1	- l i gg -
 105/055	ligg	1	- l i gg -
@@ -5613,16 +5613,16 @@
 105/141	lieg	1	- l ie g -
 105/143	ling	1	- l i ng -
 105/145	lieg	1	- l ie g -
-106/033	NA	NA	- - - - -
+106/033	NA	NA	-
 106/035	lig	1	- l i g -
 106/037	lig	1	- l i g -
 106/039	lig	1	- l i g -
 106/041	ligg	1	- l i gg -
 106/043	legg	1	- l e gg -
-106/045	NA	NA	- - - - -
+106/045	NA	NA	-
 106/047	lekk	1	- l e kk -
 106/049	legg	1	- l e gg -
-106/051	NA	NA	- - - - -
+106/051	NA	NA	-
 106/053	ligg	1	- l i gg -
 106/057	ligg	1	- l i gg -
 106/061	ligg	1	- l i gg -
@@ -5635,10 +5635,10 @@
 106/079	lieg	1	- l ie g -
 106/081	lieg	1	- l ie g -
 106/085	lig	1	- l i g -
-106/087	NA	NA	- - - - -
+106/087	NA	NA	-
 106/093	lig	1	- l i g -
 106/097	lieg	1	- l ie g -
-106/099	NA	NA	- - - - -
+106/099	NA	NA	-
 106/103	lieg	1	- l ie g -
 106/111	lieg	1	- l ie g -
 106/115	lieg	1	- l ie g -
@@ -5660,15 +5660,15 @@
 107/039	lig	1	- l i g -
 107/041	lig	1	- l i g -
 107/043	lig	1	- l i g -
-107/045	NA	NA	- - - - -
-107/047	NA	NA	- - - - -
+107/045	NA	NA	-
+107/047	NA	NA	-
 107/049	ligg	1	- l i gg -
-107/051	NA	NA	- - - - -
-107/053	NA	NA	- - - - -
+107/051	NA	NA	-
+107/053	NA	NA	-
 107/057	ligg	1	- l i gg -
-107/059	NA	NA	- - - - -
+107/059	NA	NA	-
 107/063	ligg	1	- l i gg -
-107/065	NA	NA	- - - - -
+107/065	NA	NA	-
 107/071	lig	1	- l i g -
 107/075	lieg	1	- l ie g -
 107/081	lig	1	- l i g -
@@ -5679,7 +5679,7 @@
 107/097	legg	1	- l e gg -
 107/099	lieg	1	- l ie g -
 107/103	liag	1	- l ia g -
-107/105	NA	NA	- - - - -
+107/105	NA	NA	-
 107/107	lieg	1	- l ie g -
 107/111	lieg	1	- l ie g -
 107/119	lieg	1	- l ie g -
@@ -5699,15 +5699,15 @@
 108/035	lig	1	- l i g -
 108/037	lig	1	- l i g -
 108/039	lig	1	- l i g -
-108/041	NA	NA	- - - - -
+108/041	NA	NA	-
 108/043	lig	1	- l i g -
-108/047	NA	NA	- - - - -
+108/047	NA	NA	-
 108/049	ligg	1	- l i gg -
 108/063	ligg	1	- l i gg -
-108/065	NA	NA	- - - - -
+108/065	NA	NA	-
 108/067	ligg	1	- l i gg -
 108/075	lieg	1	- l ie g -
-108/079	NA	NA	- - - - -
+108/079	NA	NA	-
 108/081	lieg	1	- l ie g -
 108/085	lieg	1	- l ie g -
 108/087	lieg	1	- l ie g -
@@ -5721,7 +5721,7 @@
 108/113	lieg	1	- l ie g -
 108/117	lieg	1	- l ie g -
 108/119	lieg	1	- l ie g -
-108/121	NA	NA	- - - - -
+108/121	NA	NA	-
 108/123	lieg	1	- l ie g -
 108/125	lieg	1	- l ie g -
 108/127	lieg	1	- l ie g -
@@ -5737,15 +5737,15 @@
 109/039	lig	1	- l i g -
 109/041	lig	1	- l i g -
 109/043	lig	1	- l i g -
-109/045	NA	NA	- - - - -
-109/049	NA	NA	- - - - -
-109/053	NA	NA	- - - - -
+109/045	NA	NA	-
+109/049	NA	NA	-
+109/053	NA	NA	-
 109/061	ligg	1	- l i gg -
 109/063	ligg	1	- l i gg -
 109/065	ligg	1	- l i gg -
 109/067	ligg	1	- l i gg -
-109/075	NA	NA	- - - - -
-109/083	NA	NA	- - - - -
+109/075	NA	NA	-
+109/083	NA	NA	-
 109/087	lig	1	- l i g -
 109/089	lig	1	- l i g -
 109/091	lig	1	- l i g -
@@ -5756,7 +5756,7 @@
 109/101	legg	1	- l e gg -
 109/103	lieg	1	- l ie g -
 109/107	lieg	1	- l ie g -
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	lieg	1	- l ie g -
 109/113	lieg	1	- l ie g -
 109/115	lieg	1	- l ie g -
@@ -5779,7 +5779,7 @@
 110/045	lig	1	- l i g -
 110/047	lig	1	- l i g -
 110/049	lig	1	- l i g -
-110/057	NA	NA	- - - - -
+110/057	NA	NA	-
 110/061	ligg	1	- l i gg -
 110/065	ligg	1	- l i gg -
 110/075	lig	1	- l i g -
@@ -5789,10 +5789,10 @@
 110/087	lieg	1	- l ie g -
 110/089	lieg	1	- l ie g -
 110/091	lig	1	- l i g -
-110/093	NA	NA	- - - - -
+110/093	NA	NA	-
 110/095	lieg	1	- l ie g -
 110/097	lieg	1	- l ie g -
-110/099	NA	NA	- - - - -
+110/099	NA	NA	-
 110/101	lieg	1	- l ie g -
 110/105	lieg	1	- l ie g -
 110/107	lieg	1	- l ie g -
@@ -5811,16 +5811,16 @@
 110/137	lig	1	- l i g -
 110/139	lig	1	- l i g -
 111/035	leg	1	- l e g -
-111/037	NA	NA	- - - - -
+111/037	NA	NA	-
 111/039	lig	1	- l i g -
 111/041	gleg	1	g l e g -
 111/043	lig	1	- l i g -
 111/045	lig	1	- l i g -
-111/059	NA	NA	- - - - -
+111/059	NA	NA	-
 111/073	lig	1	- l i g -
 111/075	lig	1	- l i g -
 111/077	lieg	1	- l ie g -
-111/079	NA	NA	- - - - -
+111/079	NA	NA	-
 111/081	lieg	1	- l ie g -
 111/083	lieg	1	- l ie g -
 111/087	lig	1	- l i g -
@@ -5837,17 +5837,17 @@
 111/123	lieg	1	- l ie g -
 111/125	lieg	1	- l ie g -
 112/037	lieg	1	- l ie g -
-112/039	NA	NA	- - - - -
+112/039	NA	NA	-
 112/041	lig	1	- l i g -
 112/043	lig	1	- l i g -
 112/047	ligg	1	- l i gg -
 112/059	ligg	1	- l i gg -
 112/061	ligg	1	- l i gg -
-112/063	NA	NA	- - - - -
+112/063	NA	NA	-
 112/075	lieg	1	- l ie g -
 112/081	lig	1	- l i g -
-112/083	NA	NA	- - - - -
-112/085	NA	NA	- - - - -
+112/083	NA	NA	-
+112/085	NA	NA	-
 112/111	lieg	1	- l ie g -
 112/115	lieg	1	- l ie g -
 112/117	lig	1	- l i g -
@@ -5863,27 +5863,27 @@
 113/087	lig	1	- l i g -
 113/121	lieg	1	- l ie g -
 113/123	lieg	1	- l ie g -
-114/035	NA	NA	- - - - -
+114/035	NA	NA	-
 114/045	ligg	1	- l i gg -
-114/083	NA	NA	- - - - -
+114/083	NA	NA	-
 114/085	lieg	1	- l ie g -
 115/041	ligg	1	- l i gg -
 115/043	ligg	1	- l i gg -
 115/045	ligg	1	- l i gg -
 115/083	lig	1	- l i g -
 115/085	lieg	1	- l ie g -
-116/043	NA	NA	- - - - -
-116/045	NA	NA	- - - - -
+116/043	NA	NA	-
+116/045	NA	NA	-
 116/083	lieg	1	- l ie g -
 117/043	ligg	1	- l i gg -
 117/045	ligg	1	- l i gg -
-118/041	NA	NA	- - - - -
-119/083	NA	NA	- - - - -
-120/085	NA	NA	- - - - -
+118/041	NA	NA	-
+119/083	NA	NA	-
+120/085	NA	NA	-
 121/127	lieg	1	- l ie g -
 122/127	lig	1	- l i g -
 122/129	lieg	1	- l ie g -
-123/081	NA	NA	- - - - -
+123/081	NA	NA	-
 123/123	lieg	1	- l ie g -
 123/125	lieg	1	- l ie g -
 123/127	lieg	1	- l ie g -

@@ -71,7 +71,7 @@
 012/059	mo	1	m o -
 012/061	mo	1	m o -
 012/063	mo	1	m o -
-012/065	NA	NA	- - -
+012/065	NA	NA	-
 012/067	mu	1	m u -
 012/069	mu	1	m u -
 012/187	mutt	1	m u tt
@@ -101,7 +101,7 @@
 013/061	mudd	1	m u dd
 013/063	mudd	1	m u dd
 013/065	modd	1	m o dd
-013/067	NA	NA	- - -
+013/067	NA	NA	-
 013/161	mott	1	m o tt
 013/163	mott	1	m o tt
 013/165	mott	1	m o tt
@@ -226,7 +226,7 @@
 016/161	mutt	1	m u tt
 016/163	mutt	1	m u tt
 016/165	mott	1	m o tt
-016/167	NA	NA	- - -
+016/167	NA	NA	-
 016/187	mutt	1	m u tt
 016/189	mutt	1	m u tt
 016/191	mutt	1	m u tt
@@ -805,7 +805,7 @@
 025/151	mutt	1	m u tt
 025/153	mutt	1	m u tt
 025/155	mutt	1	m u tt
-025/157	NA	NA	- - -
+025/157	NA	NA	-
 025/159	mutt	1	m u tt
 025/177	mutt	1	m u tt
 025/179	mutt	1	m u tt
@@ -841,7 +841,7 @@
 026/085	mudd	1	m u dd
 026/087	mutt	1	m u tt
 026/089	mor	1	m o r
-026/091	NA	NA	- - -
+026/091	NA	NA	-
 026/093	mudd	1	m u dd
 026/095	mudd	1	m u dd
 026/097	mudd	1	m u dd
@@ -894,7 +894,7 @@
 027/047	mod	1	m o d
 027/051	mol	1	m o l
 027/053	mol	1	m o l
-027/055	NA	NA	- - -
+027/055	NA	NA	-
 027/057	mool	1	m oo l
 027/059	mudd	1	m u dd
 027/061	mudd	1	m u dd
@@ -927,7 +927,7 @@
 027/117	mutt	1	m u tt
 027/119	mutt	1	m u tt
 027/123	mutt	1	m u tt
-027/125	NA	NA	- - -
+027/125	NA	NA	-
 027/127	mutt	1	m u tt
 027/129	mutt	1	m u tt
 027/131	mutt	1	m u tt
@@ -1026,7 +1026,7 @@
 028/179	mott	1	m o tt
 028/181	mutt	1	m u tt
 028/183	mutt	1	m u tt
-028/185	NA	NA	- - -
+028/185	NA	NA	-
 029/033	moud	1	m ou d
 029/035	maud	1	m au d
 029/037	mod	1	m o d
@@ -1194,7 +1194,7 @@
 031/071	mutt	1	m u tt
 031/073	mudd	1	m u dd
 031/075	mudd	1	m u dd
-031/077	NA	NA	- - -
+031/077	NA	NA	-
 031/079	mudd	1	m u dd
 031/081	mudd	1	m u dd
 031/083	mur	1	m u r
@@ -1397,7 +1397,7 @@
 034/057	mutt	1	m u tt
 034/059	mudd	1	m u dd
 034/061	mudd	1	m u dd
-034/063	NA	NA	- - -
+034/063	NA	NA	-
 034/065	modd	1	m o dd
 034/067	mutt	1	m u tt
 034/069	mudd	1	m u dd
@@ -1503,7 +1503,7 @@
 035/141	mutt	1	m u tt
 035/143	mutt	1	m u tt
 035/145	mutt	1	m u tt
-035/147	NA	NA	- - -
+035/147	NA	NA	-
 035/149	mutt	1	m u tt
 035/151	mott	1	m o tt
 035/153	mutt	1	m u tt
@@ -1537,7 +1537,7 @@
 036/075	mudd	1	m u dd
 036/077	mutt	1	m u tt
 036/079	mudd	1	m u dd
-036/081	NA	NA	- - -
+036/081	NA	NA	-
 036/083	mudd	1	m u dd
 036/085	mutt	1	m u tt
 036/087	mudd	1	m u dd
@@ -1730,7 +1730,7 @@
 039/077	mudd	1	m u dd
 039/079	mudd	1	m u dd
 039/081	mutt	1	m u tt
-039/083	NA	NA	- - -
+039/083	NA	NA	-
 039/085	mudd	1	m u dd
 039/087	mutt	1	m u tt
 039/089	mutt	1	m u tt
@@ -1859,7 +1859,7 @@
 041/099	mutt	1	m u tt
 041/101	mutt	1	m u tt
 041/103	mutt	1	m u tt
-041/105	NA	NA	- - -
+041/105	NA	NA	-
 041/107	mudd	1	m u dd
 041/109	mod	1	m o d
 041/111	mutt	1	m u tt
@@ -1968,7 +1968,7 @@
 043/071	mutt	1	m u tt
 043/073	mutt	1	m u tt
 043/075	mutt	1	m u tt
-043/077	NA	NA	- - -
+043/077	NA	NA	-
 043/079	mutt	1	m u tt
 043/081	mutt	1	m u tt
 043/083	mutt	1	m u tt
@@ -2023,7 +2023,7 @@
 044/063	mutt	1	m u tt
 044/065	mutt	1	m u tt
 044/067	mutt	1	m u tt
-044/069	NA	NA	- - -
+044/069	NA	NA	-
 044/071	mutt	1	m u tt
 044/073	mutt	1	m u tt
 044/075	mutt	1	m u tt
@@ -2074,7 +2074,7 @@
 045/047	mutt	1	m u tt
 045/049	meum	1	m eu m
 045/051	moöm	1	m oö m
-045/053	NA	NA	- - -
+045/053	NA	NA	-
 045/055	mömm	1	m ö mm
 045/057	mutt	1	m u tt
 045/059	mott	1	m o tt
@@ -2103,7 +2103,7 @@
 045/105	mutt	1	m u tt
 045/107	mutt	1	m u tt
 045/109	mutt	1	m u tt
-045/111	NA	NA	- - -
+045/111	NA	NA	-
 045/113	mutt	1	m u tt
 045/115	mutt	1	m u tt
 045/117	mutt	1	m u tt
@@ -2338,7 +2338,7 @@
 049/089	mutt	1	m u tt
 049/091	mutt	1	m u tt
 049/093	mutt	1	m u tt
-049/095	NA	NA	- - -
+049/095	NA	NA	-
 049/097	mutt	1	m u tt
 049/099	mutt	1	m u tt
 049/101	mutt	1	m u tt
@@ -2375,7 +2375,7 @@
 050/033	mod	1	m o d
 050/035	mam	1	m a m
 050/037	mour	1	m ou r
-050/039	NA	NA	- - -
+050/039	NA	NA	-
 050/041	mutt	1	m u tt
 050/043	mutt	1	m u tt
 050/047	maoud	1	m aou d
@@ -2454,7 +2454,7 @@
 051/057	mutt	1	m u tt
 051/059	mutt	1	m u tt
 051/061	moth	1	m o th
-051/063	NA	NA	- - -
+051/063	NA	NA	-
 051/065	mutt	1	m u tt
 051/067	mutt	1	m u tt
 051/069	mutt	1	m u tt
@@ -2624,7 +2624,7 @@
 053/131	mutt	1	m u tt
 053/133	mutt	1	m u tt
 053/135	mudd	1	m u dd
-053/137	NA	NA	- - -
+053/137	NA	NA	-
 053/139	mutt	1	m u tt
 053/141	mutt	1	m u tt
 053/143	mutt	1	m u tt
@@ -2643,7 +2643,7 @@
 054/033	mott	1	m o tt
 054/035	mod	1	m o d
 054/037	mood	1	m oo d
-054/039	NA	NA	- - -
+054/039	NA	NA	-
 054/041	mutt	1	m u tt
 054/043	mutt	1	m u tt
 054/045	mutt	1	m u tt
@@ -2833,7 +2833,7 @@
 056/137	mutt	1	m u tt
 056/139	mutt	1	m u tt
 056/141	mutt	1	m u tt
-056/143	NA	NA	- - -
+056/143	NA	NA	-
 056/145	mutt	1	m u tt
 056/147	mutt	1	m u tt
 056/149	mutt	1	m u tt
@@ -3000,7 +3000,7 @@
 059/043	mutt	1	m u tt
 059/045	modd	1	m o dd
 059/047	mott	1	m o tt
-059/049	NA	NA	- - -
+059/049	NA	NA	-
 059/051	mott	1	m o tt
 059/053	mott	1	m o tt
 059/055	mott	1	m o tt
@@ -3047,7 +3047,7 @@
 059/137	mutt	1	m u tt
 059/139	mutt	1	m u tt
 059/141	mutt	1	m u tt
-059/143	NA	NA	- - -
+059/143	NA	NA	-
 059/145	mutt	1	m u tt
 059/147	mutt	1	m u tt
 059/149	mutt	1	m u tt
@@ -3229,7 +3229,7 @@
 062/071	mutt	1	m u tt
 062/073	moidd	1	m oi dd
 062/075	mott	1	m o tt
-062/077	NA	NA	- - -
+062/077	NA	NA	-
 062/079	mott	1	m o tt
 062/081	mott	1	m o tt
 062/083	mott	1	m o tt
@@ -3283,7 +3283,7 @@
 063/037	mott	1	m o tt
 063/039	mohl	1	m oh l
 063/041	memm	1	m e mm
-063/043	NA	NA	- - -
+063/043	NA	NA	-
 063/045	mamm	1	m a mm
 063/047	mäur	1	m äu r
 063/049	mott	1	m o tt
@@ -3417,7 +3417,7 @@
 065/033	modd	1	m o dd
 065/035	mott	1	m o tt
 065/037	modd	1	m o dd
-065/039	NA	NA	- - -
+065/039	NA	NA	-
 065/041	modd	1	m o dd
 065/043	mamm	1	m a mm
 065/045	mamm	1	m a mm
@@ -3469,7 +3469,7 @@
 065/157	mutt	1	m u tt
 065/159	mutt	1	m u tt
 066/021	mamm	1	m a mm
-066/023	NA	NA	- - -
+066/023	NA	NA	-
 066/025	mod	1	m o d
 066/027	mod	1	m o d
 066/029	mott	1	m o tt
@@ -3529,7 +3529,7 @@
 066/161	mutt	1	m u tt
 066/163	mutt	1	m u tt
 067/021	mämm	1	m ä mm
-067/023	NA	NA	- - -
+067/023	NA	NA	-
 067/025	mod	1	m o d
 067/027	mod	1	m o d
 067/029	modd	1	m o dd
@@ -3542,7 +3542,7 @@
 067/043	mott	1	m o tt
 067/045	mod	1	m o d
 067/047	mott	1	m o tt
-067/049	NA	NA	- - -
+067/049	NA	NA	-
 067/051	moatt	1	m oa tt
 067/053	muott	1	m uo tt
 067/055	mott	1	m o tt
@@ -3798,7 +3798,7 @@
 071/097	mudd	1	m u dd
 071/099	mutt	1	m u tt
 071/101	mut	1	m u t
-071/103	NA	NA	- - -
+071/103	NA	NA	-
 071/105	mutt	1	m u tt
 071/145	mutt	1	m u tt
 071/147	mott	1	m o tt
@@ -3841,7 +3841,7 @@
 072/069	muatt	1	m ua tt
 072/071	muatt	1	m ua tt
 072/073	mott	1	m o tt
-072/075	NA	NA	- - -
+072/075	NA	NA	-
 072/077	mutt	1	m u tt
 072/079	mutt	1	m u tt
 072/081	muut	1	m uu t
@@ -3868,10 +3868,10 @@
 072/159	mutt	1	m u tt
 072/161	mutt	1	m u tt
 072/177	mütt	1	m ü tt
-072/179	NA	NA	- - -
+072/179	NA	NA	-
 072/181	mam	1	m a m
 073/017	mamm	1	m a mm
-073/019	NA	NA	- - -
+073/019	NA	NA	-
 073/021	mamm	1	m a mm
 073/023	mamm	1	m a mm
 073/025	mamm	1	m a mm
@@ -4128,7 +4128,7 @@
 077/091	muat	1	m ua t
 077/093	muad	1	m ua d
 077/095	muad	1	m ua d
-077/097	NA	NA	- - -
+077/097	NA	NA	-
 077/099	muad	1	m ua d
 077/101	mutt	1	m u tt
 077/103	mout	1	m ou t
@@ -4148,7 +4148,7 @@
 078/045	mudd	1	m u dd
 078/047	mutt	1	m u tt
 078/049	mudd	1	m u dd
-078/051	NA	NA	- - -
+078/051	NA	NA	-
 078/053	mudd	1	m u dd
 078/055	modd	1	m o dd
 078/057	mudd	1	m u dd
@@ -4381,7 +4381,7 @@
 083/029	mutt	1	m u tt
 083/031	mudd	1	m u dd
 083/033	mudd	1	m u dd
-083/035	NA	NA	- - -
+083/035	NA	NA	-
 083/037	mudd	1	m u dd
 083/039	muad	1	m ua d
 083/041	müed	1	m üe d
@@ -4503,7 +4503,7 @@
 085/043	müed	1	m üe d
 085/045	mudd	1	m u dd
 085/047	mudd	1	m u dd
-085/049	NA	NA	- - -
+085/049	NA	NA	-
 085/051	muad	1	m ua d
 085/053	muad	1	m ua d
 085/055	muadd	1	m ua dd
@@ -4767,7 +4767,7 @@
 089/103	muadd	1	m ua dd
 089/105	muadd	1	m ua dd
 089/107	muat	1	m ua t
-089/109	NA	NA	- - -
+089/109	NA	NA	-
 089/111	muad	1	m ua d
 089/113	muad	1	m ua d
 089/115	muad	1	m ua d
@@ -4805,7 +4805,7 @@
 090/063	muad	1	m ua d
 090/065	mott	1	m o tt
 090/067	mudd	1	m u dd
-090/069	NA	NA	- - -
+090/069	NA	NA	-
 090/071	muat	1	m ua t
 090/073	muad	1	m ua d
 090/075	muat	1	m ua t
@@ -4827,7 +4827,7 @@
 090/107	muad	1	m ua d
 090/109	muatt	1	m ua tt
 090/111	muat	1	m ua t
-090/113	NA	NA	- - -
+090/113	NA	NA	-
 090/115	muad	1	m ua d
 090/119	mued	1	m ue d
 090/121	muad	1	m ua d
@@ -4924,7 +4924,7 @@
 092/069	mödd	1	m ö dd
 092/071	muad	1	m ua d
 092/073	muat	1	m ua t
-092/075	NA	NA	- - -
+092/075	NA	NA	-
 092/077	muat	1	m ua t
 092/079	muat	1	m ua t
 092/081	muadd	1	m ua dd
@@ -4934,7 +4934,7 @@
 092/089	muadd	1	m ua dd
 092/091	muad	1	m ua d
 092/093	muad	1	m ua d
-092/095	NA	NA	- - -
+092/095	NA	NA	-
 092/097	muat	1	m ua t
 092/099	muat	1	m ua t
 092/101	muad	1	m ua d
@@ -5130,7 +5130,7 @@
 095/121	muat	1	m ua t
 095/123	muat	1	m ua t
 095/125	muat	1	m ua t
-095/129	NA	NA	- - -
+095/129	NA	NA	-
 095/131	muad	1	m ua d
 095/133	muad	1	m ua d
 095/139	mut	1	m u t
@@ -5202,7 +5202,7 @@
 096/153	muid	1	m ui d
 096/155	mutt	1	m u tt
 097/031	müet	1	m üe t
-097/033	NA	NA	- - -
+097/033	NA	NA	-
 097/035	müett	1	m üe tt
 097/037	möäd	1	m öä d
 097/039	mued	1	m ue d
@@ -5224,7 +5224,7 @@
 097/071	muad	1	m ua d
 097/073	muat	1	m ua t
 097/075	muat	1	m ua t
-097/077	NA	NA	- - -
+097/077	NA	NA	-
 097/079	muat	1	m ua t
 097/081	muat	1	m ua t
 097/083	muadd	1	m ua dd
@@ -5281,7 +5281,7 @@
 098/089	muatt	1	m ua tt
 098/091	muat	1	m ua t
 098/093	muett	1	m ue tt
-098/095	NA	NA	- - -
+098/095	NA	NA	-
 098/097	muad	1	m ua d
 098/103	mud	1	m u d
 098/105	muatt	1	m ua tt
@@ -5319,7 +5319,7 @@
 099/065	muat	1	m ua t
 099/067	muott	1	m uo tt
 099/069	muatt	1	m ua tt
-099/071	NA	NA	- - -
+099/071	NA	NA	-
 099/073	mutt	1	m u tt
 099/075	muad	1	m ua d
 099/077	muatt	1	m ua tt
@@ -5345,7 +5345,7 @@
 099/139	muad	1	m ua d
 099/141	muat	1	m ua t
 099/143	muad	1	m ua d
-099/145	NA	NA	- - -
+099/145	NA	NA	-
 099/147	muid	1	m ui d
 100/033	müätt	1	m üä tt
 100/035	muet	1	m ue t
@@ -5374,7 +5374,7 @@
 100/093	muat	1	m ua t
 100/095	muat	1	m ua t
 100/097	muat	1	m ua t
-100/099	NA	NA	- - -
+100/099	NA	NA	-
 100/101	muad	1	m ua d
 100/109	muat	1	m ua t
 100/111	mutt	1	m u tt
@@ -5424,7 +5424,7 @@
 101/109	muatt	1	m ua tt
 101/113	muatt	1	m ua tt
 101/115	muat	1	m ua t
-101/121	NA	NA	- - -
+101/121	NA	NA	-
 101/125	muott	1	m uo tt
 101/129	muatt	1	m ua tt
 101/131	muad	1	m ua d
@@ -5465,7 +5465,7 @@
 102/095	muat	1	m ua t
 102/097	muat	1	m ua t
 102/099	muat	1	m ua t
-102/103	NA	NA	- - -
+102/103	NA	NA	-
 102/107	muat	1	m ua t
 102/109	muatt	1	m ua tt
 102/113	muatt	1	m ua tt
@@ -5566,7 +5566,7 @@
 104/139	muatt	1	m ua tt
 104/141	muad	1	m ua d
 104/143	muid	1	m ui d
-104/145	NA	NA	- - -
+104/145	NA	NA	-
 105/031	muett	1	m ue tt
 105/033	muet	1	m ue t
 105/035	muet	1	m ue t
@@ -5672,13 +5672,13 @@
 107/071	muat	1	m ua t
 107/075	muat	1	m ua t
 107/081	muat	1	m ua t
-107/085	NA	NA	- - -
+107/085	NA	NA	-
 107/087	muet	1	m ue t
 107/089	muit	1	m ui t
 107/091	muüt	1	m uü t
-107/097	NA	NA	- - -
+107/097	NA	NA	-
 107/099	mütt	1	m ü tt
-107/103	NA	NA	- - -
+107/103	NA	NA	-
 107/105	müutt	1	m üu tt
 107/107	muett	1	m ue tt
 107/111	muad	1	m ua d
@@ -5725,7 +5725,7 @@
 108/123	muatt	1	m ua tt
 108/125	muatt	1	m ua tt
 108/127	muett	1	m ue tt
-108/129	NA	NA	- - -
+108/129	NA	NA	-
 108/131	muatt	1	m ua tt
 108/133	muat	1	m ua t
 108/135	muat	1	m ua t
@@ -5786,7 +5786,7 @@
 110/079	muuatt	1	m uua tt
 110/081	muet	1	m ue t
 110/083	mutt	1	m u tt
-110/087	NA	NA	- - -
+110/087	NA	NA	-
 110/089	muat	1	m ua t
 110/091	muit	1	m ui t
 110/093	muit	1	m ui t
@@ -5879,7 +5879,7 @@
 117/045	muät	1	m uä t
 118/041	müett	1	m üe tt
 119/083	muatt	1	m ua tt
-120/085	NA	NA	- - -
+120/085	NA	NA	-
 121/127	ammein	1	mm ei n
 122/127	mod	1	m o d
 122/129	muüt	1	m uü t

@@ -1151,7 +1151,7 @@
 030/135	melk	1	m e l - k -
 030/137	melk	1	m e l - k -
 030/139	melk	1	m e l - k -
-030/141	NA	NA	- - - - - -
+030/141	NA	NA	-
 030/143	melk	1	m e l - k -
 030/145	melk	1	m e l - k -
 030/147	mälk	1	m ä l - k -
@@ -1169,7 +1169,7 @@
 030/171	melk	1	m e l - k -
 030/173	melk	1	m e l - k -
 030/175	meltch	1	m e l - tch -
-030/177	NA	NA	- - - - - -
+030/177	NA	NA	-
 030/179	melk	1	m e l - k -
 030/181	meltch	1	m e l - tch -
 030/183	meltch	1	m e l - tch -
@@ -2675,7 +2675,7 @@
 054/097	milich	1	m i l i ch -
 054/099	milch	1	m i l - ch -
 054/101	milch	1	m i l - ch -
-054/103	NA	NA	- - - - - -
+054/103	NA	NA	-
 054/105	milich	1	m i l i ch -
 054/107	milch	1	m i l - ch -
 054/109	milch	1	m i l - ch -
@@ -5114,7 +5114,7 @@
 095/089	miili	1	m ii l i - -
 095/091	milli	1	m i ll i - -
 095/093	milli	1	m i ll i - -
-095/095	NA	NA	- - - - - -
+095/095	NA	NA	-
 095/097	milli	1	m i ll i - -
 095/099	milli	1	m i ll i - -
 095/101	milli	1	m i ll i - -
@@ -5847,7 +5847,7 @@
 112/075	milch	1	m i l - ch -
 112/081	milch	1	m i l - ch -
 112/083	milch	1	m i l - ch -
-112/085	NA	NA	- - - - - -
+112/085	NA	NA	-
 112/111	milch	1	m i l - ch -
 112/115	milach	1	m i l a ch -
 112/117	milch	1	m i l - ch -

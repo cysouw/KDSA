@@ -75,7 +75,7 @@
 012/067	stykk	1	s t y kk -
 012/069	stükk	1	s t ü kk -
 012/187	stöck	1	s t ö ck -
-012/189	NA	NA	- - - - - - -
+012/189	NA	NA	-
 012/191	stöck	1	s t ö ck -
 012/193	steck	1	s t e ck -
 012/195	steck	1	s t e ck -
@@ -1815,7 +1815,7 @@
 040/129	stick	1	s t i ck -
 040/131	stück	1	s t ü ck -
 040/133	stück	1	s t ü ck -
-040/135	NA	NA	- - - - - - -
+040/135	NA	NA	-
 040/137	schtück	1	sch t ü ck -
 040/141	stück	1	s t ü ck -
 040/143	stick	1	s t i ck -
@@ -3659,11 +3659,11 @@
 069/045	stick	1	s t i ck -
 069/047	stick	1	s t i ck -
 069/049	schtick	1	sch t i ck -
-069/051	NA	NA	- - - - - - -
+069/051	NA	NA	-
 069/053	stick	1	s t i ck -
 069/055	stick	1	s t i ck -
 069/057	steck	1	s t e ck -
-069/059	NA	NA	- - - - - - -
+069/059	NA	NA	-
 069/061	steck	1	s t e ck -
 069/063	stöck	1	s t ö ck -
 069/065	stück	1	s t ü ck -
@@ -3841,7 +3841,7 @@
 072/069	schtück	1	sch t ü ck -
 072/071	stück	1	s t ü ck -
 072/073	stück	1	s t ü ck -
-072/075	NA	NA	- - - - - - -
+072/075	NA	NA	-
 072/077	stück	1	s t ü ck -
 072/079	schtück	1	sch t ü ck -
 072/081	stück	1	s t ü ck -
@@ -3857,7 +3857,7 @@
 072/101	stick	1	s t i ck -
 072/103	stick	1	s t i ck -
 072/105	stück	1	s t ü ck -
-072/107	NA	NA	- - - - - - -
+072/107	NA	NA	-
 072/145	stick	1	s t i ck -
 072/147	steck	1	s t e ck -
 072/149	schtik	1	sch t i k -
@@ -4319,7 +4319,7 @@
 081/109	stück	1	s t ü ck -
 081/111	stik	1	s t i k -
 081/127	stick	1	s t i ck -
-081/129	NA	NA	- - - - - - -
+081/129	NA	NA	-
 081/133	stick	1	s t i ck -
 081/147	schtikk	1	sch t i kk -
 081/191	schteck	1	sch t e ck -
@@ -4481,7 +4481,7 @@
 084/117	schtick	1	sch t i ck -
 084/119	stick	1	s t i ck -
 084/129	stick	1	s t i ck -
-084/131	NA	NA	- - - - - - -
+084/131	NA	NA	-
 084/133	schtick	1	sch t i ck -
 084/135	stick	1	s t i ck -
 084/137	stick	1	s t i ck -
@@ -4671,7 +4671,7 @@
 087/135	stück	1	s t ü ck -
 087/137	stück	1	s t ü ck -
 087/139	stik	1	s t i k -
-087/141	NA	NA	- - - - - - -
+087/141	NA	NA	-
 087/143	stick	1	s t i ck -
 087/145	stück	1	s t ü ck -
 087/147	stick	1	s t i ck -
@@ -4980,7 +4980,7 @@
 093/063	stik	1	s t i k -
 093/065	stück	1	s t ü ck -
 093/067	schdik	1	sch d i k -
-093/069	NA	NA	- - - - - - -
+093/069	NA	NA	-
 093/071	schtück	1	sch t ü ck -
 093/073	stück	1	s t ü ck -
 093/075	stück	1	s t ü ck -
@@ -5057,7 +5057,7 @@
 094/099	schdigg	1	sch d i gg -
 094/101	stügg	1	s t ü gg -
 094/103	schtügg	1	sch t ü gg -
-094/105	NA	NA	- - - - - - -
+094/105	NA	NA	-
 094/107	stück	1	s t ü ck -
 094/109	stick	1	s t i ck -
 094/111	stück	1	s t ü ck -
@@ -5077,7 +5077,7 @@
 094/139	stik	1	s t i k -
 094/141	stick	1	s t i ck -
 094/143	stick	1	s t i ck -
-094/145	NA	NA	- - - - - - -
+094/145	NA	NA	-
 094/147	stick	1	s t i ck -
 094/149	schtick	1	sch t i ck -
 094/151	stick	1	s t i ck -
@@ -5195,7 +5195,7 @@
 096/137	steck	1	s t e ck -
 096/139	stick	1	s t i ck -
 096/141	stick	1	s t i ck -
-096/143	NA	NA	- - - - - - -
+096/143	NA	NA	-
 096/145	stick	1	s t i ck -
 096/147	schtikk	1	sch t i kk -
 096/151	schtik	1	sch t i k -
@@ -5240,7 +5240,7 @@
 097/105	stück	1	s t ü ck -
 097/107	bröcki	2	b r ö ck i - -
 097/109	bröckal	2	b r ö ck a l -
-097/113	NA	NA	- - - - - - -
+097/113	NA	NA	-
 097/125	stick	1	s t i ck -
 097/131	stick	1	s t i ck -
 097/133	stick	1	s t i ck -
@@ -5288,7 +5288,7 @@
 098/107	bröcki	2	b r ö ck i - -
 098/109	stöck	1	s t ö ck -
 098/111	stück	1	s t ü ck -
-098/119	NA	NA	- - - - - - -
+098/119	NA	NA	-
 098/123	stick	1	s t i ck -
 098/125	stick	1	s t i ck -
 098/127	stick	1	s t i ck -
@@ -5530,7 +5530,7 @@
 104/043	schtöck	1	sch t ö ck -
 104/045	schtöck	1	sch t ö ck -
 104/047	schtück	1	sch t ü ck -
-104/049	NA	NA	- - - - - - -
+104/049	NA	NA	-
 104/051	schtück	1	sch t ü ck -
 104/053	schtück	1	sch t ü ck -
 104/055	schtück	1	sch t ü ck -
@@ -5544,7 +5544,7 @@
 104/075	schtik	1	sch t i k -
 104/077	stick	1	s t i ck -
 104/079	bröckle	2	b r ö ck - l e
-104/081	NA	NA	- - - - - - -
+104/081	NA	NA	-
 104/083	stück	1	s t ü ck -
 104/085	stück	1	s t ü ck -
 104/091	bröckl	2	b r ö ck - l -
@@ -5553,7 +5553,7 @@
 104/103	stück	1	s t ü ck -
 104/107	stick	1	s t i ck -
 104/111	stik	1	s t i k -
-104/113	NA	NA	- - - - - - -
+104/113	NA	NA	-
 104/119	stück	1	s t ü ck -
 104/121	stick	1	s t i ck -
 104/123	stiik	1	s t ii k -
@@ -5638,7 +5638,7 @@
 106/087	stick	1	s t i ck -
 106/093	schtik	1	sch t i k -
 106/097	stick	1	s t i ck -
-106/099	NA	NA	- - - - - - -
+106/099	NA	NA	-
 106/103	stük	1	s t ü k -
 106/111	schtück	1	sch t ü ck -
 106/115	stück	1	s t ü ck -
@@ -5712,12 +5712,12 @@
 108/085	bräkl	2	b r ä k - l -
 108/087	schtiik	1	sch t ii k -
 108/091	stik	1	s t i k -
-108/099	NA	NA	- - - - - - -
+108/099	NA	NA	-
 108/101	bröckl	2	b r ö ck - l -
 108/103	stück	1	s t ü ck -
 108/105	stück	1	s t ü ck -
 108/109	stick	1	s t i ck -
-108/111	NA	NA	- - - - - - -
+108/111	NA	NA	-
 108/113	stick	1	s t i ck -
 108/117	drimmle	4	d r i mm - l e
 108/119	stick	1	s t i ck -
@@ -5742,7 +5742,7 @@
 109/053	stück	1	s t ü ck -
 109/061	stigg	1	s t i gg -
 109/063	schtüg	1	sch t ü g -
-109/065	NA	NA	- - - - - - -
+109/065	NA	NA	-
 109/067	stück	1	s t ü ck -
 109/075	stik	1	s t i k -
 109/083	pröckl	2	p r ö ck - l -
@@ -5756,7 +5756,7 @@
 109/101	schtik	1	sch t i k -
 109/103	stück	1	s t ü ck -
 109/107	schtück	1	sch t ü ck -
-109/109	NA	NA	- - - - - - -
+109/109	NA	NA	-
 109/111	stück	1	s t ü ck -
 109/113	drimml	4	d r i mm - l -
 109/115	stick	1	s t i ck -
@@ -5788,11 +5788,11 @@
 110/083	breckl	2	b r e ck - l -
 110/087	stick	1	s t i ck -
 110/089	stick	1	s t i ck -
-110/091	NA	NA	- - - - - - -
+110/091	NA	NA	-
 110/093	stück	1	s t ü ck -
 110/095	stük	1	s t ü k -
 110/097	pröckl	2	p r ö ck - l -
-110/099	NA	NA	- - - - - - -
+110/099	NA	NA	-
 110/101	steck	1	s t e ck -
 110/105	schtuck	1	sch t u ck -
 110/107	stück	1	s t ü ck -

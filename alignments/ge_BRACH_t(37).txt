@@ -70,7 +70,7 @@
 012/057	bron	1	b r o n
 012/059	brung	1	b r u ng
 012/061	brung	1	b r u ng
-012/063	NA	NA	- - - - - -
+012/063	NA	NA	-
 012/065	brung	1	b r u ng
 012/067	brung	1	b r u ng
 012/069	brung	1	b r u ng
@@ -97,7 +97,7 @@
 013/053	broogh	1	b r oo gh
 013/055	brooch	1	b r oo ch
 013/057	brung	1	b r u ng
-013/059	NA	NA	- - - - - -
+013/059	NA	NA	-
 013/061	bröch	1	b r ö ch
 013/063	bröch	1	b r ö ch
 013/065	bröch	1	b r ö ch
@@ -202,7 +202,7 @@
 015/219	broch	1	b r o ch
 015/221	broch	1	b r o ch
 016/051	bröech	1	b r öe ch
-016/055	NA	NA	- - - - - -
+016/055	NA	NA	-
 016/057	brag	1	b r a g
 016/059	bröch	1	b r ö ch
 016/061	bröch	1	b r ö ch
@@ -245,7 +245,7 @@
 016/219	broch	1	b r o ch
 017/055	broch	1	b r o ch
 017/057	brag	1	b r a g
-017/059	NA	NA	- - - - - -
+017/059	NA	NA	-
 017/061	bröch	1	b r ö ch
 017/063	bröch	1	b r ö ch
 017/065	bröch	1	b r ö ch
@@ -374,7 +374,7 @@
 019/149	bröch	1	b r ö ch
 019/151	brech	1	b r e ch
 019/153	brech	1	b r e ch
-019/155	NA	NA	- - - - - -
+019/155	NA	NA	-
 019/157	brech	1	b r e ch
 019/159	bräch	1	b r ä ch
 019/161	brech	1	b r e ch
@@ -1003,7 +1003,7 @@
 028/127	bröch	1	b r ö ch
 028/129	bröch	1	b r ö ch
 028/131	bröch	1	b r ö ch
-028/133	NA	NA	- - - - - -
+028/133	NA	NA	-
 028/135	brech	1	b r e ch
 028/137	brööch	1	b r öö ch
 028/139	bröäg	1	b r öä g
@@ -1425,7 +1425,7 @@
 034/113	bröch	1	b r ö ch
 034/115	brach	1	b r a ch
 034/117	broch	1	b r o ch
-034/119	NA	NA	- - - - - -
+034/119	NA	NA	-
 034/121	broch	1	b r o ch
 034/125	brach	1	b r a ch
 034/127	brach	1	b r a ch
@@ -1548,7 +1548,7 @@
 036/099	broch	1	b r o ch
 036/101	broach	1	b r oa ch
 036/103	brach	1	b r a ch
-036/105	NA	NA	- - - - - -
+036/105	NA	NA	-
 036/107	brach	1	b r a ch
 036/109	broch	1	b r o ch
 036/111	brach	1	b r a ch
@@ -1899,7 +1899,7 @@
 042/059	broch	1	b r o ch
 042/061	broch	1	b r o ch
 042/063	broch	1	b r o ch
-042/065	NA	NA	- - - - - -
+042/065	NA	NA	-
 042/067	broch	1	b r o ch
 042/069	broch	1	b r o ch
 042/071	broch	1	b r o ch
@@ -2268,7 +2268,7 @@
 048/077	broch	1	b r o ch
 048/079	broch	1	b r o ch
 048/081	brach	1	b r a ch
-048/083	NA	NA	- - - - - -
+048/083	NA	NA	-
 048/085	brach	1	b r a ch
 048/087	broch	1	b r o ch
 048/089	brach	1	b r a ch
@@ -4136,7 +4136,7 @@
 077/137	broch	1	b r o ch
 078/021	brue	1	b r ue -
 078/023	bro	1	b r o -
-078/025	NA	NA	- - - - - -
+078/025	NA	NA	-
 078/027	broe	1	b r oe -
 078/029	brah	1	b r ah -
 078/031	bra	1	b r a -
@@ -4377,7 +4377,7 @@
 082/147	broch	1	b r o ch
 082/191	broch	1	b r o ch
 082/195	broch	1	b r o ch
-083/027	NA	NA	- - - - - -
+083/027	NA	NA	-
 083/029	bra	1	b r a -
 083/031	brah	1	b r ah -
 083/033	brung	1	b r u ng
@@ -4764,7 +4764,7 @@
 089/097	brach	1	b r a ch
 089/099	broach	1	b r oa ch
 089/101	broo	1	b r oo -
-089/103	ausso	NA	- - - -
+089/103	ausso	NA	-
 089/105	brach	1	b r a ch
 089/107	brach	1	b r a ch
 089/109	brach	1	b r a ch
@@ -4772,7 +4772,7 @@
 089/113	brach	1	b r a ch
 089/115	brach	1	b r a ch
 089/117	broch	1	b r o ch
-089/119	NA	NA	- - - - - -
+089/119	NA	NA	-
 089/121	broch	1	b r o ch
 089/123	broch	1	b r o ch
 089/125	broch	1	b r o ch
@@ -5745,7 +5745,7 @@
 109/065	gferggat	2	- g - f e r gg a t
 109/067	gferggät	2	- g - f e r gg ä t
 109/075	kött	5	k ö - tt
-109/083	NA	NA	- - - - - -
+109/083	NA	NA	-
 109/087	proch	1	p r o ch
 109/089	gitun	4	- - g i t u n
 109/091	prouch	1	p r ou ch
@@ -5816,11 +5816,11 @@
 111/041	brach	1	b r a ch
 111/043	brach	1	b r a ch
 111/045	brach	1	b r a ch
-111/059	gholt	NA	- - - -
+111/059	gholt	NA	-
 111/073	broch	1	b r o ch
 111/075	proch	1	p r o ch
 111/077	broch	1	b r o ch
-111/079	ausi	NA	- - - -
+111/079	ausi	NA	-
 111/081	ausigfiahrt	NA	ausi g - f iah r - - t
 111/083	broch	1	b r o ch
 111/087	proch	1	p r o ch
@@ -5878,8 +5878,8 @@
 117/043	brung	1	b r u ng
 117/045	brung	1	b r u ng
 118/041	brung	1	b r u ng
-119/083	NA	NA	- - - - - -
-120/085	NA	NA	- - - - - -
+119/083	NA	NA	-
+120/085	NA	NA	-
 121/127	prouch	1	p r ou ch
 122/127	pruch	1	p r u ch
 122/129	pruch	1	p r u ch

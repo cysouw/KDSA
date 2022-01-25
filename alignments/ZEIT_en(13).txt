@@ -917,7 +917,7 @@
 027/095	tid	1	t i - d
 027/099	tier	1	t ie r -
 027/101	tier	1	t ie r -
-027/103	NA	NA	- - - - -
+027/103	NA	NA	-
 027/105	tied	1	t ie - d
 027/107	tied	1	t ie - d
 027/109	tid	1	t i - d
@@ -1491,7 +1491,7 @@
 035/113	tiet	1	t ie - t
 035/115	tied	1	t ie - d
 035/117	tid	1	t i - d
-035/121	NA	NA	- - - - -
+035/121	NA	NA	-
 035/123	tiej	1	t iej - -
 035/125	tiej	1	t iej - -
 035/127	tied	1	t ie - d
@@ -1983,7 +1983,7 @@
 043/101	tid	1	t i - d
 043/103	tied	1	t ie - d
 043/105	tied	1	t ie - d
-043/107	NA	NA	- - - - -
+043/107	NA	NA	-
 043/109	tied	1	t ie - d
 043/111	tiet	1	t ie - t
 043/113	ziet	1	z ie - t
@@ -2053,7 +2053,7 @@
 044/123	zeit	1	z ei - t
 044/125	zeit	1	z ei - t
 044/127	zeit	1	z ei - t
-044/129	NA	NA	- - - - -
+044/129	NA	NA	-
 044/131	zait	1	z ai - t
 044/133	zait	1	z ai - t
 044/135	zait	1	z ai - t
@@ -2849,7 +2849,7 @@
 057/027	zie	1	z ie - -
 057/029	zikd	1	z i k d
 057/031	zick	1	z i ck -
-057/033	NA	NA	- - - - -
+057/033	NA	NA	-
 057/035	tihd	1	t ih - d
 057/037	tidd	1	t i - dd
 057/039	ti	1	t i - -
@@ -3271,7 +3271,7 @@
 062/155	zeit	1	z ei - t
 062/157	zeit	1	z ei - t
 062/159	zeet	1	z ee - t
-062/161	NA	NA	- - - - -
+062/161	NA	NA	-
 063/021	tiet	1	t ie - t
 063/023	zedd	1	z e - dd
 063/025	zeck	1	z e ck -
@@ -3624,7 +3624,7 @@
 068/087	zeit	1	z ei - t
 068/089	zeit	1	z ei - t
 068/091	zeit	1	z ei - t
-068/093	NA	NA	- - - - -
+068/093	NA	NA	-
 068/095	zeit	1	z ei - t
 068/097	zeit	1	z ei - t
 068/099	zeit	1	z ei - t
@@ -3982,7 +3982,7 @@
 074/155	zeit	1	z ei - t
 074/157	zeit	1	z ei - t
 074/159	zeit	1	z ei - t
-074/161	NA	NA	- - - - -
+074/161	NA	NA	-
 074/163	zeit	1	z ei - t
 074/165	zeit	1	z ei - t
 075/019	zeit	1	z ei - t
@@ -4026,7 +4026,7 @@
 075/095	zeit	1	z ei - t
 075/097	zeit	1	z ei - t
 075/099	zeit	1	z ei - t
-075/101	NA	NA	- - - - -
+075/101	NA	NA	-
 075/103	zei	1	z ei - -
 075/105	zeit	1	z ei - t
 075/107	zeit	1	z ei - t
@@ -4122,7 +4122,7 @@
 077/079	zeit	1	z ei - t
 077/081	zeit	1	z ei - t
 077/083	zeit	1	z ei - t
-077/085	NA	NA	- - - - -
+077/085	NA	NA	-
 077/087	zait	1	z ai - t
 077/089	zeit	1	z ei - t
 077/091	zei	1	z ei - -
@@ -4160,7 +4160,7 @@
 078/069	zeit	1	z ei - t
 078/071	zeit	1	z ei - t
 078/073	zeit	1	z ei - t
-078/075	NA	NA	- - - - -
+078/075	NA	NA	-
 078/077	zeit	1	z ei - t
 078/079	zeit	1	z ei - t
 078/081	zeit	1	z ei - t
@@ -4443,7 +4443,7 @@
 084/041	zitt	1	z i - tt
 084/043	zitt	1	z i - tt
 084/045	zitt	1	z i - tt
-084/047	NA	NA	- - - - -
+084/047	NA	NA	-
 084/049	zeid	1	z ei - d
 084/051	zeid	1	z ei - d
 084/053	zeit	1	z ei - t
@@ -4978,7 +4978,7 @@
 093/059	zeit	1	z ei - t
 093/061	zeit	1	z ei - t
 093/063	zeit	1	z ei - t
-093/065	NA	NA	- - - - -
+093/065	NA	NA	-
 093/067	zeid	1	z ei - d
 093/069	zeid	1	z ei - d
 093/071	zeit	1	z ei - t
@@ -5266,7 +5266,7 @@
 098/059	zit	1	z i - t
 098/061	zit	1	z i - t
 098/063	zitt	1	z i - tt
-098/065	NA	NA	- - - - -
+098/065	NA	NA	-
 098/067	zit	1	z i - t
 098/069	zitt	1	z i - tt
 098/071	zit	1	z i - t
@@ -5456,7 +5456,7 @@
 102/073	zeit	1	z ei - t
 102/075	zeit	1	z ei - t
 102/077	zeit	1	z ei - t
-102/079	NA	NA	- - - - -
+102/079	NA	NA	-
 102/081	zeit	1	z ei - t
 102/083	zeit	1	z ei - t
 102/089	zeid	1	z ei - d
@@ -5509,7 +5509,7 @@
 103/099	zeid	1	z ei - d
 103/101	zeid	1	z ei - d
 103/105	zeit	1	z ei - t
-103/107	NA	NA	- - - - -
+103/107	NA	NA	-
 103/111	zeit	1	z ei - t
 103/121	zeit	1	z ei - t
 103/125	zeit	1	z ei - t
@@ -5683,7 +5683,7 @@
 107/107	zeit	1	z ei - t
 107/111	zeit	1	z ei - t
 107/119	zeit	1	z ei - t
-107/121	NA	NA	- - - - -
+107/121	NA	NA	-
 107/123	zeit	1	z ei - t
 107/125	zait	1	z ai - t
 107/127	zeit	1	z ei - t

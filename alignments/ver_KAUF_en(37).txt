@@ -1455,7 +1455,7 @@
 035/041	koop	1	k oo p
 035/043	kop	1	k o p
 035/045	kop	1	k o p
-035/047	NA	NA	- - - - - - - -
+035/047	NA	NA	-
 035/049	kop	1	k o p
 035/051	köb	1	k ö b
 035/053	köp	1	k ö p
@@ -2036,7 +2036,7 @@
 044/089	köp	1	k ö p
 044/091	köp	1	k ö p
 044/093	köp	1	k ö p
-044/095	NA	NA	- - - - - - - -
+044/095	NA	NA	-
 044/097	köp	1	k ö p
 044/099	köp	1	k ö p
 044/101	köp	1	k ö p
@@ -2044,7 +2044,7 @@
 044/105	köp	1	k ö p
 044/107	köhp	1	k öh p
 044/109	köp	1	k ö p
-044/111	NA	NA	- - - - - - - -
+044/111	NA	NA	-
 044/113	koof	1	k oo f
 044/115	kof	1	k o f
 044/117	koff	1	k o ff
@@ -2268,7 +2268,7 @@
 048/077	köp	1	k ö p
 048/079	köp	1	k ö p
 048/081	keep	1	k ee p
-048/083	NA	NA	- - - - - - - -
+048/083	NA	NA	-
 048/085	köp	1	k ö p
 048/087	kep	1	k e p
 048/089	kooff	1	k oo ff
@@ -2312,7 +2312,7 @@
 049/035	koop	1	k oo p
 049/037	kop	1	k o p
 049/039	koop	1	k oo p
-049/041	NA	NA	- - - - - - - -
+049/041	NA	NA	-
 049/043	kaub	1	k au b
 049/045	kaup	1	k au p
 049/047	kaup	1	k au p
@@ -3218,7 +3218,7 @@
 062/049	kaf	1	k a f
 062/051	kaaf	1	k aa f
 062/053	kääf	1	k ää f
-062/055	NA	NA	- - - - - - - -
+062/055	NA	NA	-
 062/057	kaaf	1	k aa f
 062/059	kejf	1	k ej f
 062/061	kef	1	k e f
@@ -3266,7 +3266,7 @@
 062/145	keef	1	k ee f
 062/147	keef	1	k ee f
 062/149	keef	1	k ee f
-062/151	NA	NA	- - - - - - - -
+062/151	NA	NA	-
 062/153	kof	1	k o f
 062/155	keef	1	k ee f
 062/157	kof	1	k o f
@@ -3701,7 +3701,7 @@
 069/165	keef	1	k ee f
 070/019	koof	1	k oo f
 070/023	kaf	1	k a f
-070/025	NA	NA	- - - - - - - -
+070/025	NA	NA	-
 070/027	kef	1	k e f
 070/029	kef	1	k e f
 070/031	kef	1	k e f
@@ -4446,7 +4446,7 @@
 084/047	kaaf	1	k aa f
 084/049	kaf	1	k a f
 084/051	kaf	1	k a f
-084/053	NA	NA	- - - - - - - -
+084/053	NA	NA	-
 084/055	kauf	1	k au f
 084/057	kaof	1	k ao f
 084/059	kauf	1	k au f
@@ -4546,7 +4546,7 @@
 085/131	kaf	1	k a f
 085/133	kaf	1	k a f
 085/135	kaff	1	k a ff
-085/137	NA	NA	- - - - - - - -
+085/137	NA	NA	-
 085/139	kaff	1	k a ff
 085/141	koff	1	k o ff
 085/143	kaf	1	k a f
@@ -4654,10 +4654,10 @@
 087/099	kauf	1	k au f
 087/101	kauf	1	k au f
 087/103	kauf	1	k au f
-087/105	NA	NA	- - - - - - - -
+087/105	NA	NA	-
 087/107	kauff	1	k au ff
 087/109	kauf	1	k au f
-087/111	NA	NA	- - - - - - - -
+087/111	NA	NA	-
 087/113	kaf	1	k a f
 087/115	kaf	1	k a f
 087/117	kaf	1	k a f
@@ -4774,7 +4774,7 @@
 089/117	kaf	1	k a f
 089/119	kaf	1	k a f
 089/121	kaff	1	k a ff
-089/123	NA	NA	- - - - - - - -
+089/123	NA	NA	-
 089/125	kaf	1	k a f
 089/127	kaf	1	k a f
 089/129	kaff	1	k a ff
@@ -4980,7 +4980,7 @@
 093/063	kauf	1	k au f
 093/065	kauf	1	k au f
 093/067	kauf	1	k au f
-093/069	NA	NA	- - - - - - - -
+093/069	NA	NA	-
 093/071	kauf	1	k au f
 093/073	kauf	1	k au f
 093/075	kauf	1	k au f
@@ -5547,7 +5547,7 @@
 104/081	kaf	1	k a f
 104/083	kaf	1	k a f
 104/085	kaf	1	k a f
-104/091	NA	NA	- - - - - - - -
+104/091	NA	NA	-
 104/095	kaf	1	k a f
 104/101	kaf	1	k a f
 104/103	kaf	1	k a f
@@ -5686,8 +5686,8 @@
 107/121	kaf	1	k a f
 107/123	kaf	1	k a f
 107/125	kaaf	1	k aa f
-107/127	NA	NA	- - - - - - - -
-107/129	NA	NA	- - - - - - - -
+107/127	NA	NA	-
+107/129	NA	NA	-
 107/131	kaf	1	k a f
 107/133	kaf	1	k a f
 107/135	kaf	1	k a f
@@ -5789,7 +5789,7 @@
 110/087	kaf	1	k a f
 110/089	kaf	1	k a f
 110/091	kaf	1	k a f
-110/093	NA	NA	- - - - - - - -
+110/093	NA	NA	-
 110/095	kaf	1	k a f
 110/097	kaf	1	k a f
 110/099	kaf	1	k a f

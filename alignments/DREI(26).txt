@@ -90,7 +90,7 @@
 012/213	dree	1	d r ee -
 012/215	drei	1	d r ei -
 012/217	dre	1	d r e -
-012/219	NA	NA	- - - -
+012/219	NA	NA	-
 012/221	drei	1	d r ei -
 012/223	dre	1	d r e -
 013/051	tre	1	t r e -
@@ -105,7 +105,7 @@
 013/161	drei	1	d r ei -
 013/163	drei	1	d r ei -
 013/165	drei	1	d r ei -
-013/167	NA	NA	- - - -
+013/167	NA	NA	-
 013/187	dreei	1	d r eei -
 013/189	dree	1	d r ee -
 013/191	dre	1	d r e -
@@ -132,7 +132,7 @@
 014/057	tree	1	t r ee -
 014/059	dree	1	d r ee -
 014/061	dree	1	d r ee -
-014/063	NA	NA	- - - -
+014/063	NA	NA	-
 014/065	dree	1	d r ee -
 014/067	dree	1	d r ee -
 014/109	drei	1	d r ei -
@@ -526,7 +526,7 @@
 021/179	dre	1	d r e -
 021/181	dre	1	d r e -
 021/183	dre	1	d r e -
-021/185	NA	NA	- - - -
+021/185	NA	NA	-
 021/187	drai	1	d r ai -
 021/189	drei	1	d r ei -
 021/191	drei	1	d r ei -
@@ -547,7 +547,7 @@
 022/059	dre	1	d r e -
 022/061	dre	1	d r e -
 022/063	drei	1	d r ei -
-022/065	NA	NA	- - - -
+022/065	NA	NA	-
 022/067	dree	1	d r ee -
 022/069	dree	1	d r ee -
 022/071	dre	1	d r e -
@@ -722,7 +722,7 @@
 024/127	drei	1	d r ei -
 024/129	drei	1	d r ei -
 024/131	drei	1	d r ei -
-024/133	NA	NA	- - - -
+024/133	NA	NA	-
 024/135	drei	1	d r ei -
 024/137	drei	1	d r ei -
 024/139	drei	1	d r ei -
@@ -744,7 +744,7 @@
 024/181	drei	1	d r ei -
 024/183	drei	1	d r ei -
 024/185	drei	1	d r ei -
-024/187	NA	NA	- - - -
+024/187	NA	NA	-
 024/189	drei	1	d r ei -
 024/191	drei	1	d r ei -
 024/193	drei	1	d r ei -
@@ -772,11 +772,11 @@
 025/077	drei	1	d r ei -
 025/079	drei	1	d r ei -
 025/081	drei	1	d r ei -
-025/083	NA	NA	- - - -
+025/083	NA	NA	-
 025/085	drei	1	d r ei -
 025/087	drei	1	d r ei -
 025/089	drei	1	d r ei -
-025/091	NA	NA	- - - -
+025/091	NA	NA	-
 025/093	drei	1	d r ei -
 025/095	drei	1	d r ei -
 025/099	drei	1	d r ei -
@@ -805,7 +805,7 @@
 025/151	drei	1	d r ei -
 025/153	drei	1	d r ei -
 025/155	drei	1	d r ei -
-025/157	NA	NA	- - - -
+025/157	NA	NA	-
 025/159	dre	1	d r e -
 025/177	drei	1	d r ei -
 025/179	drei	1	d r ei -
@@ -1017,7 +1017,7 @@
 028/157	drei	1	d r ei -
 028/159	drei	1	d r ei -
 028/161	drei	1	d r ei -
-028/165	NA	NA	- - - -
+028/165	NA	NA	-
 028/169	dre	1	d r e -
 028/171	dreg	1	d r e g
 028/173	dreh	1	d r eh -
@@ -1596,7 +1596,7 @@
 037/063	dre	1	d r e -
 037/065	dre	1	d r e -
 037/067	drei	1	d r ei -
-037/069	NA	NA	- - - -
+037/069	NA	NA	-
 037/071	dree	1	d r ee -
 037/073	dräi	1	d r äi -
 037/075	drei	1	d r ei -
@@ -1878,7 +1878,7 @@
 041/139	drei	1	d r ei -
 041/141	drei	1	d r ei -
 041/145	drei	1	d r ei -
-041/147	NA	NA	- - - -
+041/147	NA	NA	-
 041/153	dree	1	d r ee -
 041/155	drej	1	d r ej -
 041/157	drei	1	d r ei -
@@ -1982,7 +1982,7 @@
 043/099	drei	1	d r ei -
 043/101	drei	1	d r ei -
 043/103	drei	1	d r ei -
-043/105	NA	NA	- - - -
+043/105	NA	NA	-
 043/107	drei	1	d r ei -
 043/109	drei	1	d r ei -
 043/111	drei	1	d r ei -
@@ -1995,7 +1995,7 @@
 043/125	drei	1	d r ei -
 043/127	drei	1	d r ei -
 043/129	drei	1	d r ei -
-043/131	NA	NA	- - - -
+043/131	NA	NA	-
 043/133	drei	1	d r ei -
 043/135	drei	1	d r ei -
 043/137	drai	1	d r ai -
@@ -2164,7 +2164,7 @@
 046/109	dei	1	d - ei -
 046/111	dree	1	d r ee -
 046/113	drei	1	d r ei -
-046/115	NA	NA	- - - -
+046/115	NA	NA	-
 046/117	drei	1	d r ei -
 046/119	drei	1	d r ei -
 046/121	drei	1	d r ei -
@@ -2189,7 +2189,7 @@
 047/043	drei	1	d r ei -
 047/045	drai	1	d r ai -
 047/047	drei	1	d r ei -
-047/049	NA	NA	- - - -
+047/049	NA	NA	-
 047/051	dreu	1	d r eu -
 047/053	dröi	1	d r öi -
 047/055	dreu	1	d r eu -
@@ -2211,7 +2211,7 @@
 047/087	drei	1	d r ei -
 047/089	drei	1	d r ei -
 047/091	drei	1	d r ei -
-047/093	NA	NA	- - - -
+047/093	NA	NA	-
 047/095	drei	1	d r ei -
 047/097	dräi	1	d r äi -
 047/099	dreä	1	d r eä -
@@ -2320,7 +2320,7 @@
 049/051	drai	1	d r ai -
 049/053	drei	1	d r ei -
 049/055	drö	1	d r ö -
-049/057	NA	NA	- - - -
+049/057	NA	NA	-
 049/059	drai	1	d r ai -
 049/061	drei	1	d r ei -
 049/063	drei	1	d r ei -
@@ -2403,7 +2403,7 @@
 050/091	drei	1	d r ei -
 050/093	trei	1	t r ei -
 050/095	drei	1	d r ei -
-050/097	NA	NA	- - - -
+050/097	NA	NA	-
 050/099	drei	1	d r ei -
 050/101	drei	1	d r ei -
 050/103	drei	1	d r ei -
@@ -2484,7 +2484,7 @@
 051/117	drei	1	d r ei -
 051/119	drei	1	d r ei -
 051/121	drei	1	d r ei -
-051/123	NA	NA	- - - -
+051/123	NA	NA	-
 051/125	drei	1	d r ei -
 051/127	drei	1	d r ei -
 051/129	drei	1	d r ei -
@@ -3253,7 +3253,7 @@
 062/119	drei	1	d r ei -
 062/121	drei	1	d r ei -
 062/123	drei	1	d r ei -
-062/125	NA	NA	- - - -
+062/125	NA	NA	-
 062/127	drei	1	d r ei -
 062/129	drei	1	d r ei -
 062/131	drei	1	d r ei -
@@ -3924,7 +3924,7 @@
 073/155	drei	1	d r ei -
 073/157	drei	1	d r ei -
 073/159	drei	1	d r ei -
-073/161	NA	NA	- - - -
+073/161	NA	NA	-
 073/163	drai	1	d r ai -
 073/165	drei	1	d r ei -
 073/175	drei	1	d r ei -
@@ -3937,7 +3937,7 @@
 074/029	drai	1	d r ai -
 074/031	dreei	1	d r eei -
 074/033	dräi	1	d r äi -
-074/035	NA	NA	- - - -
+074/035	NA	NA	-
 074/037	drei	1	d r ei -
 074/039	drei	1	d r ei -
 074/041	drei	1	d r ei -
@@ -4225,7 +4225,7 @@
 079/135	drei	1	d r ei -
 079/193	drai	1	d r ai -
 079/195	drai	1	d r ai -
-079/197	NA	NA	- - - -
+079/197	NA	NA	-
 080/025	drei	1	d r ei -
 080/027	drei	1	d r ei -
 080/029	drei	1	d r ei -
@@ -4520,7 +4520,7 @@
 085/077	drei	1	d r ei -
 085/079	drei	1	d r ei -
 085/081	drai	1	d r ai -
-085/083	NA	NA	- - - -
+085/083	NA	NA	-
 085/085	drei	1	d r ei -
 085/087	drei	1	d r ei -
 085/089	drei	1	d r ei -
@@ -4759,7 +4759,7 @@
 089/087	drei	1	d r ei -
 089/089	drei	1	d r ei -
 089/091	drei	1	d r ei -
-089/093	NA	NA	- - - -
+089/093	NA	NA	-
 089/095	drei	1	d r ei -
 089/097	drei	1	d r ei -
 089/099	drei	1	d r ei -
@@ -5270,7 +5270,7 @@
 098/067	drie	1	d r ie -
 098/069	drei	1	d r ei -
 098/071	drui	1	d r ui -
-098/073	NA	NA	- - - -
+098/073	NA	NA	-
 098/075	drui	1	d r ui -
 098/077	drei	1	d r ei -
 098/079	drei	1	d r ei -
@@ -5520,7 +5520,7 @@
 103/137	drei	1	d r ei -
 103/139	drei	1	d r ei -
 103/141	drei	1	d r ei -
-103/143	NA	NA	- - - -
+103/143	NA	NA	-
 103/145	trei	1	t r ei -
 104/033	drü	1	d r ü -
 104/035	drü	1	d r ü -
@@ -5858,7 +5858,7 @@
 113/047	dri	1	d r i -
 113/079	drei	1	d r ei -
 113/081	drai	1	d r ai -
-113/083	NA	NA	- - - -
+113/083	NA	NA	-
 113/085	drai	1	d r ai -
 113/087	drei	1	d r ei -
 113/121	drei	1	d r ei -

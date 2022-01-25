@@ -865,7 +865,7 @@
 026/135	seep	1	s - ee p
 026/137	seep	1	s - ee p
 026/139	sep	1	s - e p
-026/141	NA	NA	- - - - -
+026/141	NA	NA	-
 026/143	sep	1	s - e p
 026/145	sep	1	s - e p
 026/147	seep	1	s - ee p
@@ -3355,7 +3355,7 @@
 064/043	saaf	1	s - aa f
 064/045	sof	1	s - o f
 064/047	saaf	1	s - aa f
-064/049	NA	NA	- - - - -
+064/049	NA	NA	-
 064/051	säf	1	s - ä f
 064/053	saaf	1	s - aa f
 064/055	säf	1	s - ä f
@@ -4875,7 +4875,7 @@
 091/087	soaf	1	s - oa f
 091/091	soaf	1	s - oa f
 091/093	soaf	1	s - oa f
-091/095	NA	NA	- - - - -
+091/095	NA	NA	-
 091/097	soaff	1	s - oa ff
 091/099	soaf	1	s - oa f
 091/101	soaf	1	s - oa f
@@ -4927,7 +4927,7 @@
 092/075	soif	1	s - oi f
 092/077	soif	1	s - oi f
 092/079	soif	1	s - oi f
-092/081	NA	NA	- - - - -
+092/081	NA	NA	-
 092/083	soaf	1	s - oa f
 092/085	soaf	1	s - oa f
 092/087	soaff	1	s - oa ff

@@ -205,7 +205,7 @@
 016/055	blew	1	b l e w
 016/057	bleb	1	b l e b
 016/059	blew	1	b l e w
-016/061	NA	NA	- - - -
+016/061	NA	NA	-
 016/063	blew	1	b l e w
 016/065	blew	1	b l e w
 016/067	blä	1	b l ä -
@@ -240,7 +240,7 @@
 016/209	bläw	1	b l ä w
 016/211	bläv	1	b l ä v
 016/213	bläw	1	b l ä w
-016/215	NA	NA	- - - -
+016/215	NA	NA	-
 016/217	bläw	1	b l ä w
 016/219	bläw	1	b l ä w
 017/055	bleeb	1	b l ee b
@@ -2102,7 +2102,7 @@
 045/103	bläh	1	b l äh -
 045/105	bläh	1	b l äh -
 045/107	blä	1	b l ä -
-045/109	NA	NA	- - - -
+045/109	NA	NA	-
 045/111	bläw	1	b l ä w
 045/113	blieb	1	b l ie b
 045/115	blieb	1	b l ie b
@@ -2314,7 +2314,7 @@
 049/039	bliä	1	b l iä -
 049/041	blief	1	b l ie f
 049/043	bliw	1	b l i w
-049/045	NA	NA	- - - -
+049/045	NA	NA	-
 049/047	blirw	1	b l ir w
 049/049	bliäw	1	b l iä w
 049/051	bliew	1	b l ie w
@@ -3063,7 +3063,7 @@
 060/023	blev	1	b l e v
 060/025	blef	1	b l e f
 060/027	blevv	1	b l e vv
-060/029	NA	NA	- - - -
+060/029	NA	NA	-
 060/031	bleff	1	b l e ff
 060/033	blevv	1	b l e vv
 060/035	bleww	1	b l e ww
@@ -3251,7 +3251,7 @@
 062/115	blee	1	b l ee -
 062/117	blie	1	b l ie -
 062/119	blee	1	b l ee -
-062/121	NA	NA	- - - -
+062/121	NA	NA	-
 062/123	blieb	1	b l ie b
 062/125	blieb	1	b l ie b
 062/127	blieb	1	b l ie b
@@ -3453,7 +3453,7 @@
 065/107	bliem	1	b l ie m
 065/109	bliem	1	b l ie m
 065/111	blieb	1	b l ie b
-065/113	NA	NA	- - - -
+065/113	NA	NA	-
 065/115	blieb	1	b l ie b
 065/121	blieb	1	b l ie b
 065/123	blieb	1	b l ie b
@@ -3626,7 +3626,7 @@
 068/091	bli	1	b l i -
 068/093	blie	1	b l ie -
 068/095	bli	1	b l i -
-068/097	NA	NA	- - - -
+068/097	NA	NA	-
 068/099	blii	1	b l ii -
 068/101	blie	1	b l ie -
 068/103	bliem	1	b l ie m
@@ -4324,7 +4324,7 @@
 081/147	pliib	1	p l ii b
 081/191	bliib	1	b l ii b
 081/193	blib	1	b l i b
-081/195	NA	NA	- - - -
+081/195	NA	NA	-
 082/027	pllief	1	p ll ie f
 082/029	bliiw	1	b l ii w
 082/031	bliw	1	b l i w
@@ -4415,7 +4415,7 @@
 083/097	bli	1	b l i -
 083/099	blim	1	b l i m
 083/101	blieb	1	b l ie b
-083/103	NA	NA	- - - -
+083/103	NA	NA	-
 083/105	bli	1	b l i -
 083/107	blim	1	b l i m
 083/111	blim	1	b l i m
@@ -4548,7 +4548,7 @@
 085/135	bli	1	b l i -
 085/137	blib	1	b l i b
 085/139	blieb	1	b l ie b
-085/141	NA	NA	- - - -
+085/141	NA	NA	-
 085/143	bli	1	b l i -
 085/145	blieb	1	b l ie b
 085/147	blieb	1	b l ie b
@@ -4600,7 +4600,7 @@
 086/115	blieb	1	b l ie b
 086/117	bli	1	b l i -
 086/119	blie	1	b l ie -
-086/121	NA	NA	- - - -
+086/121	NA	NA	-
 086/123	blie	1	b l ie -
 086/125	bli	1	b l i -
 086/127	blieb	1	b l ie b
@@ -4647,7 +4647,7 @@
 087/085	blib	1	b l i b
 087/087	blieb	1	b l ie b
 087/089	bli	1	b l i -
-087/091	NA	NA	- - - -
+087/091	NA	NA	-
 087/093	blie	1	b l ie -
 087/095	bli	1	b l i -
 087/097	blim	1	b l i m
@@ -5000,7 +5000,7 @@
 093/103	bli	1	b l i -
 093/105	blim	1	b l i m
 093/109	blie	1	b l ie -
-093/111	NA	NA	- - - -
+093/111	NA	NA	-
 093/113	blie	1	b l ie -
 093/115	blieb	1	b l ie b
 093/117	bli	1	b l i -
@@ -5077,8 +5077,8 @@
 094/139	blie	1	b l ie -
 094/141	blieb	1	b l ie b
 094/143	blieb	1	b l ie b
-094/145	NA	NA	- - - -
-094/147	NA	NA	- - - -
+094/145	NA	NA	-
+094/147	NA	NA	-
 094/149	blib	1	b l i b
 094/151	blie	1	b l ie -
 094/153	blib	1	b l i b
@@ -5195,7 +5195,7 @@
 096/137	blieb	1	b l ie b
 096/139	blieb	1	b l ie b
 096/141	blie	1	b l ie -
-096/143	NA	NA	- - - -
+096/143	NA	NA	-
 096/145	blie	1	b l ie -
 096/147	pli	1	p l i -
 096/151	bli	1	b l i -
@@ -5234,13 +5234,13 @@
 097/091	blieb	1	b l ie b
 097/093	blia	1	b l ia -
 097/095	blie	1	b l ie -
-097/097	NA	NA	- - - -
+097/097	NA	NA	-
 097/099	blieb	1	b l ie b
 097/103	bli	1	b l i -
 097/105	blieb	1	b l ie b
 097/107	blie	1	b l ie -
 097/109	blib	1	b l i b
-097/113	NA	NA	- - - -
+097/113	NA	NA	-
 097/125	blieb	1	b l ie b
 097/131	blieb	1	b l ie b
 097/133	blie	1	b l ie -
@@ -5282,7 +5282,7 @@
 098/091	bli	1	b l i -
 098/093	blieb	1	b l ie b
 098/095	blieb	1	b l ie b
-098/097	NA	NA	- - - -
+098/097	NA	NA	-
 098/103	blieb	1	b l ie b
 098/105	blie	1	b l ie -
 098/107	blieb	1	b l ie b
@@ -5331,7 +5331,7 @@
 099/095	blieb	1	b l ie b
 099/099	blieb	1	b l ie b
 099/101	blieb	1	b l ie b
-099/103	NA	NA	- - - -
+099/103	NA	NA	-
 099/105	blieb	1	b l ie b
 099/107	blie	1	b l ie -
 099/109	bli	1	b l i -
@@ -5353,14 +5353,14 @@
 100/039	bliib	1	b l ii b
 100/041	bliib	1	b l ii b
 100/043	bliib	1	b l ii b
-100/045	NA	NA	- - - -
-100/049	NA	NA	- - - -
+100/045	NA	NA	-
+100/049	NA	NA	-
 100/051	plib	1	p l i b
 100/053	blib	1	b l i b
 100/055	plib	1	p l i b
 100/057	bleb	1	b l e b
 100/059	bleb	1	b l e b
-100/061	NA	NA	- - - -
+100/061	NA	NA	-
 100/065	blib	1	b l i b
 100/067	blib	1	b l i b
 100/069	blib	1	b l i b
@@ -5443,11 +5443,11 @@
 102/047	blib	1	b l i b
 102/049	blib	1	b l i b
 102/051	plib	1	p l i b
-102/053	NA	NA	- - - -
+102/053	NA	NA	-
 102/055	blib	1	b l i b
 102/057	bleb	1	b l e b
 102/059	bleb	1	b l e b
-102/061	NA	NA	- - - -
+102/061	NA	NA	-
 102/063	pleb	1	p l e b
 102/065	blib	1	b l i b
 102/067	bleob	1	b l eo b
@@ -5456,11 +5456,11 @@
 102/073	blieb	1	b l ie b
 102/075	bleeb	1	b l ee b
 102/077	blieb	1	b l ie b
-102/079	NA	NA	- - - -
+102/079	NA	NA	-
 102/081	blieb	1	b l ie b
 102/083	blieb	1	b l ie b
 102/089	blie	1	b l ie -
-102/091	NA	NA	- - - -
+102/091	NA	NA	-
 102/093	blie	1	b l ie -
 102/095	blieb	1	b l ie b
 102/097	blieb	1	b l ie b
@@ -5489,7 +5489,7 @@
 103/053	blib	1	b l i b
 103/055	plib	1	p l i b
 103/057	blib	1	b l i b
-103/059	NA	NA	- - - -
+103/059	NA	NA	-
 103/063	plib	1	p l i b
 103/065	blib	1	b l i b
 103/067	bleob	1	b l eo b
@@ -5574,9 +5574,9 @@
 105/039	blieb	1	b l ie b
 105/041	blib	1	b l i b
 105/043	bleb	1	b l e b
-105/045	NA	NA	- - - -
+105/045	NA	NA	-
 105/047	bleb	1	b l e b
-105/049	NA	NA	- - - -
+105/049	NA	NA	-
 105/051	blib	1	b l i b
 105/053	blib	1	b l i b
 105/055	plib	1	p l i b
@@ -5619,10 +5619,10 @@
 106/039	blieb	1	b l ie b
 106/041	blib	1	b l i b
 106/043	bleb	1	b l e b
-106/045	NA	NA	- - - -
+106/045	NA	NA	-
 106/047	pleb	1	p l e b
 106/049	bleb	1	b l e b
-106/051	NA	NA	- - - -
+106/051	NA	NA	-
 106/053	blyb	1	b l y b
 106/057	blib	1	b l i b
 106/061	blib	1	b l i b
@@ -5635,10 +5635,10 @@
 106/079	blieb	1	b l ie b
 106/081	blieb	1	b l ie b
 106/085	blib	1	b l i b
-106/087	NA	NA	- - - -
+106/087	NA	NA	-
 106/093	plib	1	p l i b
 106/097	blieb	1	b l ie b
-106/099	NA	NA	- - - -
+106/099	NA	NA	-
 106/103	blieb	1	b l ie b
 106/111	blieb	1	b l ie b
 106/115	bli	1	b l i -
@@ -5660,15 +5660,15 @@
 107/039	blib	1	b l i b
 107/041	blyb	1	b l y b
 107/043	blieb	1	b l ie b
-107/045	NA	NA	- - - -
-107/047	NA	NA	- - - -
+107/045	NA	NA	-
+107/047	NA	NA	-
 107/049	blib	1	b l i b
 107/051	blieb	1	b l ie b
-107/053	NA	NA	- - - -
+107/053	NA	NA	-
 107/057	blib	1	b l i b
-107/059	NA	NA	- - - -
+107/059	NA	NA	-
 107/063	blib	1	b l i b
-107/065	NA	NA	- - - -
+107/065	NA	NA	-
 107/071	blieb	1	b l ie b
 107/075	blieb	1	b l ie b
 107/081	blie	1	b l ie -
@@ -5676,7 +5676,7 @@
 107/087	blieb	1	b l ie b
 107/089	plib	1	p l i b
 107/091	plieb	1	p l ie b
-107/097	NA	NA	- - - -
+107/097	NA	NA	-
 107/099	blieb	1	b l ie b
 107/103	blib	1	b l i b
 107/105	blieb	1	b l ie b
@@ -5701,13 +5701,13 @@
 108/039	blyb	1	b l y b
 108/041	blib	1	b l i b
 108/043	blib	1	b l i b
-108/047	NA	NA	- - - -
+108/047	NA	NA	-
 108/049	blib	1	b l i b
 108/063	plibb	1	p l i bb
-108/065	NA	NA	- - - -
+108/065	NA	NA	-
 108/067	plib	1	p l i b
 108/075	blieb	1	b l ie b
-108/079	NA	NA	- - - -
+108/079	NA	NA	-
 108/081	blieb	1	b l ie b
 108/085	blieb	1	b l ie b
 108/087	plib	1	p l i b
@@ -5721,7 +5721,7 @@
 108/113	blieb	1	b l ie b
 108/117	blieb	1	b l ie b
 108/119	blieb	1	b l ie b
-108/121	NA	NA	- - - -
+108/121	NA	NA	-
 108/123	blieb	1	b l ie b
 108/125	blieb	1	b l ie b
 108/127	blieb	1	b l ie b
@@ -5739,24 +5739,24 @@
 109/043	blib	1	b l i b
 109/045	blib	1	b l i b
 109/049	blib	1	b l i b
-109/053	NA	NA	- - - -
+109/053	NA	NA	-
 109/061	plieb	1	p l ie b
 109/063	bliab	1	b l ia b
 109/065	blib	1	b l i b
 109/067	blibb	1	b l i bb
-109/075	NA	NA	- - - -
-109/083	NA	NA	- - - -
+109/075	NA	NA	-
+109/083	NA	NA	-
 109/087	blib	1	b l i b
 109/089	blieb	1	b l ie b
 109/091	blib	1	b l i b
 109/093	plib	1	p l i b
-109/095	NA	NA	- - - -
+109/095	NA	NA	-
 109/097	blib	1	b l i b
 109/099	blieb	1	b l ie b
-109/101	NA	NA	- - - -
+109/101	NA	NA	-
 109/103	blieb	1	b l ie b
 109/107	blieb	1	b l ie b
-109/109	NA	NA	- - - -
+109/109	NA	NA	-
 109/111	blieb	1	b l ie b
 109/113	blieb	1	b l ie b
 109/115	blieb	1	b l ie b
@@ -5779,7 +5779,7 @@
 110/045	bblib	1	bb l i b
 110/047	bliib	1	b l ii b
 110/049	bliib	1	b l ii b
-110/057	NA	NA	- - - -
+110/057	NA	NA	-
 110/061	blib	1	b l i b
 110/065	blib	1	b l i b
 110/075	blib	1	b l i b
@@ -5792,7 +5792,7 @@
 110/093	blieb	1	b l ie b
 110/095	blieb	1	b l ie b
 110/097	blieb	1	b l ie b
-110/099	NA	NA	- - - -
+110/099	NA	NA	-
 110/101	blieb	1	b l ie b
 110/105	blieb	1	b l ie b
 110/107	blieb	1	b l ie b
@@ -5811,16 +5811,16 @@
 110/137	bli	1	b l i -
 110/139	blib	1	b l i b
 111/035	pleb	1	p l e b
-111/037	NA	NA	- - - -
+111/037	NA	NA	-
 111/039	blib	1	b l i b
-111/041	NA	NA	- - - -
+111/041	NA	NA	-
 111/043	blieb	1	b l ie b
 111/045	bliib	1	b l ii b
-111/059	NA	NA	- - - -
+111/059	NA	NA	-
 111/073	bli	1	b l i -
 111/075	plib	1	p l i b
 111/077	blieb	1	b l ie b
-111/079	NA	NA	- - - -
+111/079	NA	NA	-
 111/081	blieb	1	b l ie b
 111/083	blieb	1	b l ie b
 111/087	blib	1	b l i b
@@ -5837,7 +5837,7 @@
 111/123	blieb	1	b l ie b
 111/125	blieb	1	b l ie b
 112/037	blib	1	b l i b
-112/039	NA	NA	- - - -
+112/039	NA	NA	-
 112/041	blib	1	b l i b
 112/043	bllib	1	b ll i b
 112/047	blib	1	b l i b
@@ -5846,14 +5846,14 @@
 112/063	blib	1	b l i b
 112/075	blieb	1	b l ie b
 112/081	blieb	1	b l ie b
-112/083	NA	NA	- - - -
-112/085	NA	NA	- - - -
+112/083	NA	NA	-
+112/085	NA	NA	-
 112/111	blieb	1	b l ie b
 112/115	blieb	1	b l ie b
 112/117	blib	1	b l i b
 112/119	blieb	1	b l ie b
 113/035	bblieb	1	bb l ie b
-113/037	NA	NA	- - - -
+113/037	NA	NA	-
 113/039	blib	1	b l i b
 113/047	blib	1	b l i b
 113/079	blieb	1	b l ie b
@@ -5865,21 +5865,21 @@
 113/123	blieb	1	b l ie b
 114/035	blib	1	b l i b
 114/045	blib	1	b l i b
-114/083	NA	NA	- - - -
+114/083	NA	NA	-
 114/085	blib	1	b l i b
 115/041	blib	1	b l i b
 115/043	blib	1	b l i b
 115/045	blib	1	b l i b
 115/083	blib	1	b l i b
 115/085	blieb	1	b l ie b
-116/043	NA	NA	- - - -
+116/043	NA	NA	-
 116/045	plegg	1	p l e gg
 116/083	blieb	1	b l ie b
 117/043	blib	1	b l i b
 117/045	blib	1	b l i b
 118/041	blib	1	b l i b
 119/083	blib	1	b l i b
-120/085	NA	NA	- - - -
+120/085	NA	NA	-
 121/127	plieb	1	p l ie b
 122/127	plib	1	p l i b
 122/129	plieb	1	p l ie b

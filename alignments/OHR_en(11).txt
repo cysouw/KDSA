@@ -465,7 +465,7 @@
 020/199	or	1	o r
 020/201	ohr	1	oh r
 020/203	ohr	1	oh r
-020/205	NA	NA	- - - - - - -
+020/205	NA	NA	-
 020/207	ohr	1	oh r
 020/209	ohr	1	oh r
 020/211	ohr	1	oh r
@@ -901,7 +901,7 @@
 027/063	ohr	1	oh r
 027/065	ohr	1	oh r
 027/067	ohr	1	oh r
-027/069	NA	NA	- - - - - - -
+027/069	NA	NA	-
 027/071	uhr	1	uh r
 027/073	ohr	1	oh r
 027/075	ohr	1	oh r
@@ -963,7 +963,7 @@
 028/045	ohr	1	oh r
 028/047	ohr	1	oh r
 028/049	ohr	1	oh r
-028/051	NA	NA	- - - - - - -
+028/051	NA	NA	-
 028/053	ohr	1	oh r
 028/055	ohr	1	oh r
 028/057	ohr	1	oh r
@@ -1032,7 +1032,7 @@
 029/037	or	1	o r
 029/039	ohr	1	oh r
 029/043	oor	1	oo r
-029/045	NA	NA	- - - - - - -
+029/045	NA	NA	-
 029/047	ohr	1	oh r
 029/049	ohr	1	oh r
 029/051	ohr	1	oh r
@@ -1104,7 +1104,7 @@
 030/037	oor	1	oo r
 030/039	ohr	1	oh r
 030/041	orr	1	o rr
-030/043	NA	NA	- - - - - - -
+030/043	NA	NA	-
 030/045	ohr	1	oh r
 030/047	ohr	1	oh r
 030/049	ohr	1	oh r
@@ -1162,7 +1162,7 @@
 030/157	eohr	1	eoh r
 030/159	eor	1	eo r
 030/161	ohr	1	oh r
-030/163	NA	NA	- - - - - - -
+030/163	NA	NA	-
 030/165	our	1	ou r
 030/167	ohr	1	oh r
 030/169	ohr	1	oh r
@@ -2706,7 +2706,7 @@
 054/161	uhr	1	uh r
 054/163	uh	1	uh -
 055/023	uer	1	ue r
-055/025	nör	NA	- n ö r - - -
+055/025	nör	NA	-
 055/027	uer	1	ue r
 055/029	uhr	1	uh r
 055/031	uhr	1	uh r
@@ -3324,7 +3324,7 @@
 063/119	ohr	1	oh r
 063/121	koup	5	k ou p -
 063/123	schaadl	6	sch aa d l -
-063/125	gusche	NA	- g u sch e - -
+063/125	gusche	NA	-
 063/127	uhr	1	uh r
 063/135	oh	1	oh -
 063/137	uo	1	uo -
@@ -3386,11 +3386,11 @@
 064/105	ohr	1	oh r
 064/107	uhr	1	uh r
 064/109	uhr	1	uh r
-064/111	NA	NA	- - - - - - -
+064/111	NA	NA	-
 064/113	uhr	1	uh r
 064/115	ohr	1	oh r
 064/117	or	1	o r
-064/119	gusche	NA	- g u sch e - -
+064/119	gusche	NA	-
 064/121	ur	1	u r
 064/123	ohr	1	oh r
 064/125	ohr	1	oh r
@@ -3427,7 +3427,7 @@
 065/053	oo	1	oo -
 065/055	uh	1	uh -
 065/057	uhr	1	uh r
-065/059	NA	NA	- - - - - - -
+065/059	NA	NA	-
 065/061	u	1	u -
 065/063	or	1	o r
 065/065	o	1	o -
@@ -3508,7 +3508,7 @@
 066/095	ohr	1	oh r
 066/097	ohr	1	oh r
 066/099	uhr	1	uh r
-066/101	tachtla	NA	- t a ch t l a
+066/101	tachtla	NA	-
 066/103	ohr	1	oh r
 066/105	uhr	1	uh r
 066/107	ohr	1	oh r
@@ -3627,12 +3627,12 @@
 068/093	auha	1	auha -
 068/095	au	1	au -
 068/097	schedl	6	sch e d l -
-068/099	NA	NA	- - - - - - -
+068/099	NA	NA	-
 068/101	schedl	6	sch e d l -
 068/103	aua	1	aua -
 068/105	ouw	1	ouw -
 068/107	our	1	ou r
-068/109	NA	NA	- - - - - - -
+068/109	NA	NA	-
 068/111	oha	1	oha -
 068/145	ahr	1	ah r
 068/147	oohr	1	ooh r
@@ -3687,7 +3687,7 @@
 069/101	oa	1	oa -
 069/103	ou	1	ou -
 069/105	aua	1	aua -
-069/107	NA	NA	- - - - - - -
+069/107	NA	NA	-
 069/109	oa	1	oa -
 069/111	ohr	1	oh r
 069/147	oohr	1	ooh r
@@ -3809,7 +3809,7 @@
 071/157	oahr	1	oah r
 071/159	ur	1	u r
 071/161	ur	1	u r
-071/163	NA	NA	- - - - - - -
+071/163	NA	NA	-
 071/177	uer	1	ue r
 071/179	ohr	1	oh r
 072/017	ooer	1	ooe r
@@ -3858,11 +3858,11 @@
 072/103	aoa	1	aoa -
 072/105	aoa	1	aoa -
 072/107	aua	1	aua -
-072/145	jelich	NA	- j e l i ch -
+072/145	jelich	NA	-
 072/147	ehr	1	eh r
 072/149	o	1	o -
 072/151	ohr	1	oh r
-072/153	frass	NA	- f r a ss - -
+072/153	frass	NA	-
 072/155	ohr	1	oh r
 072/157	schadl	6	sch a d l -
 072/159	uhr	1	uh r
@@ -3979,7 +3979,7 @@
 074/147	schädl	6	sch ä d l -
 074/149	ar	1	a r
 074/153	ohr	1	oh r
-074/155	gusch	NA	- g u sch - - -
+074/155	gusch	NA	-
 074/157	ohr	1	oh r
 074/159	uhr	1	uh r
 074/161	uur	1	uu r
@@ -4026,7 +4026,7 @@
 075/095	aua	1	aua -
 075/097	aoua	1	aoua -
 075/099	au	1	au -
-075/101	bloschn	NA	- b l o sch n -
+075/101	bloschn	NA	-
 075/103	schedl	6	sch e d l -
 075/105	au	1	au -
 075/107	oua	1	oua -
@@ -4317,11 +4317,11 @@
 081/105	lusa	2	l u s a -
 081/107	ohr	1	oh r
 081/109	schel	6	sch e - l -
-081/111	NA	NA	- - - - - - -
+081/111	NA	NA	-
 081/127	ohr	1	oh r
 081/129	or	1	o r
 081/133	ohr	1	oh r
-081/147	bhaschln	NA	- bh a sch l n -
+081/147	bhaschln	NA	-
 081/191	or	1	o r
 081/193	oor	1	oo r
 081/195	or	1	o r
@@ -4421,7 +4421,7 @@
 083/111	eha	1	eha -
 083/113	ör	1	ö r
 083/115	er	1	e r
-083/117	NA	NA	- - - - - - -
+083/117	NA	NA	-
 083/119	lausa	2	l au s a -
 083/121	oahr	1	oah r
 083/129	ohr	1	oh r
@@ -4432,8 +4432,8 @@
 083/143	ohr	1	oh r
 083/145	schäil	6	sch äi - l -
 083/147	ohr	1	oh r
-083/149	waschl	NA	- w a sch l - -
-083/173	NA	NA	- - - - - - -
+083/149	waschl	NA	-
+083/173	NA	NA	-
 083/195	ohr	1	oh r
 084/031	ohr	1	oh r
 084/033	ohr	1	oh r
@@ -4466,7 +4466,7 @@
 084/087	oar	1	oa r
 084/089	oar	1	oa r
 084/091	oo	1	oo -
-084/093	NA	NA	- - - - - - -
+084/093	NA	NA	-
 084/095	oa	1	oa -
 084/097	ooa	1	ooa -
 084/099	oar	1	oa r
@@ -4488,7 +4488,7 @@
 084/139	oo	1	oo -
 084/141	ur	1	u r
 084/143	oa	1	oa -
-084/145	NA	NA	- - - - - - -
+084/145	NA	NA	-
 084/147	ohr	1	oh r
 084/149	oa	1	oa -
 084/171	u	1	u -
@@ -4530,7 +4530,7 @@
 085/097	oar	1	oa r
 085/101	oar	1	oa r
 085/103	schädl	6	sch ä d l -
-085/105	NA	NA	- - - - - - -
+085/105	NA	NA	-
 085/107	oaa	1	oaa -
 085/109	oa	1	oa -
 085/111	äu	1	äu -
@@ -4569,7 +4569,7 @@
 086/053	aur	1	au r
 086/055	aur	1	au r
 086/057	aur	1	au r
-086/059	backa	NA	- b a ck a - -
+086/059	backa	NA	-
 086/061	aur	1	au r
 086/063	auhr	1	auh r
 086/065	aor	1	ao r
@@ -4608,8 +4608,8 @@
 086/131	oa	1	oa -
 086/133	ohr	1	oh r
 086/135	oa	1	oa -
-086/137	NA	NA	- - - - - - -
-086/139	vaschln	NA	- v a sch l n -
+086/137	NA	NA	-
+086/139	vaschln	NA	-
 086/141	ohr	1	oh r
 086/143	oa	1	oa -
 086/145	oa	1	oa -
@@ -4715,13 +4715,13 @@
 088/105	oaj	1	oaj -
 088/107	oua	1	oua -
 088/109	oa	1	oa -
-088/113	maö	NA	- m aö - - - -
+088/113	maö	NA	-
 088/115	eohr	1	eoh r
 088/117	ear	1	ea r
 088/121	ohr	1	oh r
 088/123	ohr	1	oh r
 088/127	ohr	1	oh r
-088/129	NA	NA	- - - - - - -
+088/129	NA	NA	-
 088/131	oa	1	oa -
 088/137	ohr	1	oh r
 088/139	oa	1	oa -
@@ -4782,7 +4782,7 @@
 089/133	or	1	o r
 089/135	oa	1	oa -
 089/137	ohr	1	oh r
-089/139	NA	NA	- - - - - - -
+089/139	NA	NA	-
 089/141	oar	1	oa r
 089/143	oa	1	oa -
 089/145	oa	1	oa -
@@ -4837,13 +4837,13 @@
 090/129	ohr	1	oh r
 090/131	ohr	1	oh r
 090/133	oar	1	oa r
-090/135	NA	NA	- - - - - - -
+090/135	NA	NA	-
 090/137	or	1	o r
 090/139	oa	1	oa -
 090/141	ohr	1	oh r
 090/143	oa	1	oa -
 090/145	ohr	1	oh r
-090/147	waschl	NA	- w a sch l - -
+090/147	waschl	NA	-
 090/149	ohr	1	oh r
 090/151	schedl	6	sch e d l -
 091/035	uhr	1	uh r
@@ -4897,7 +4897,7 @@
 091/137	oa	1	oa -
 091/139	oa	1	oa -
 091/141	ohr	1	oh r
-091/143	NA	NA	- - - - - - -
+091/143	NA	NA	-
 091/145	oa	1	oa -
 091/147	ohr	1	oh r
 091/149	oa	1	oa -
@@ -4958,7 +4958,7 @@
 092/137	ohr	1	oh r
 092/139	schedl	6	sch e d l -
 092/141	schedl	6	sch e d l -
-092/143	NA	NA	- - - - - - -
+092/143	NA	NA	-
 092/145	oar	1	oa r
 092/147	oo	1	oo -
 092/149	ohr	1	oh r
@@ -5019,7 +5019,7 @@
 093/147	schaol	6	sch ao - l -
 093/149	ohr	1	oh r
 093/151	oa	1	oa -
-093/153	NA	NA	- - - - - - -
+093/153	NA	NA	-
 093/155	oar	1	oa r
 094/033	uor	1	uo r
 094/035	ohr	1	oh r
@@ -5049,7 +5049,7 @@
 094/083	ohr	1	oh r
 094/085	oar	1	oa r
 094/087	ouh	1	ouh -
-094/089	leffi	NA	- l e ff i - -
+094/089	leffi	NA	-
 094/091	ou	1	ou -
 094/093	ouh	1	ouh -
 094/095	or	1	o r
@@ -5074,11 +5074,11 @@
 094/133	schädl	6	sch ä d l -
 094/135	ohr	1	oh r
 094/137	losa	2	l o s a -
-094/139	NA	NA	- - - - - - -
+094/139	NA	NA	-
 094/141	ohr	1	oh r
 094/143	oa	1	oa -
 094/145	ua	1	ua -
-094/147	watschn	NA	- w a t sch n -
+094/147	watschn	NA	-
 094/149	oa	1	oa -
 094/151	oa	1	oa -
 094/153	uhr	1	uh r
@@ -5125,7 +5125,7 @@
 095/111	öh	1	öh -
 095/113	er	1	e r
 095/115	ohr	1	oh r
-095/117	NA	NA	- - - - - - -
+095/117	NA	NA	-
 095/119	ohr	1	oh r
 095/121	loser	2	l o s e r
 095/123	ea	1	ea -
@@ -5181,7 +5181,7 @@
 096/105	oa	1	oa -
 096/107	oa	1	oa -
 096/109	ur	1	u r
-096/111	NA	NA	- - - - - - -
+096/111	NA	NA	-
 096/113	oar	1	oa r
 096/115	äo	1	äo -
 096/117	oa	1	oa -
@@ -5255,7 +5255,7 @@
 098/037	ohr	1	oh r
 098/039	ohr	1	oh r
 098/041	ohr	1	oh r
-098/043	NA	NA	- - - - - - -
+098/043	NA	NA	-
 098/045	ohr	1	oh r
 098/047	oohr	1	ooh r
 098/049	ohr	1	oh r
@@ -5286,7 +5286,7 @@
 098/103	ohar	1	oha r
 098/105	oua	1	oua -
 098/107	ougan	4	ou g a n
-098/109	abaan	NA	- a b aa n - -
+098/109	abaan	NA	-
 098/111	e	1	e -
 098/119	oa	1	oa -
 098/123	oar	1	oa r
@@ -5295,7 +5295,7 @@
 098/135	uhr	1	uh r
 098/137	ohr	1	oh r
 098/139	ohr	1	oh r
-098/141	watschn	NA	- w a t sch n -
+098/141	watschn	NA	-
 098/143	ohr	1	oh r
 098/145	oa	1	oa -
 098/147	oa	1	oa -
@@ -5381,11 +5381,11 @@
 100/113	ohr	1	oh r
 100/115	er	1	e r
 100/117	oh	1	oh -
-100/119	NA	NA	- - - - - - -
+100/119	NA	NA	-
 100/121	oa	1	oa -
 100/125	o	1	o -
 100/127	ohr	1	oh r
-100/129	NA	NA	- - - - - - -
+100/129	NA	NA	-
 100/133	schädl	6	sch ä d l -
 100/135	oa	1	oa -
 100/141	or	1	o r
@@ -5479,7 +5479,7 @@
 102/141	oa	1	oa -
 102/143	oa	1	oa -
 102/145	ooa	1	ooa -
-103/039	gring	NA	- g r i ng - -
+103/039	gring	NA	-
 103/041	or	1	o r
 103/043	oor	1	oo r
 103/045	ohr	1	oh r
@@ -5522,7 +5522,7 @@
 103/141	oa	1	oa -
 103/143	oa	1	oa -
 103/145	oa	1	oa -
-104/033	NA	NA	- - - - - - -
+104/033	NA	NA	-
 104/035	ohr	1	oh r
 104/037	ohr	1	oh r
 104/039	ohr	1	oh r
@@ -5556,7 +5556,7 @@
 104/113	ogn	4	o g - n
 104/119	ohr	1	oh r
 104/121	schedl	6	sch e d l -
-104/123	NA	NA	- - - - - - -
+104/123	NA	NA	-
 104/125	oa	1	oa -
 104/127	ohr	1	oh r
 104/131	ohr	1	oh r
@@ -5593,7 +5593,7 @@
 105/077	oar	1	oa r
 105/079	oahr	1	oah r
 105/081	oahr	1	oah r
-105/085	waschl	NA	- w a sch l - -
+105/085	waschl	NA	-
 105/087	oar	1	oa r
 105/089	oa	1	oa -
 105/103	oah	1	oah -
@@ -5623,7 +5623,7 @@
 106/047	oor	1	oo r
 106/049	ohr	1	oh r
 106/051	ohr	1	oh r
-106/053	NA	NA	- - - - - - -
+106/053	NA	NA	-
 106/057	ohr	1	oh r
 106/061	our	1	ou r
 106/063	ohr	1	oh r
@@ -5679,7 +5679,7 @@
 107/097	ohr	1	oh r
 107/099	äa	1	äa -
 107/103	oahr	1	oah r
-107/105	waschl	NA	- w a sch l - -
+107/105	waschl	NA	-
 107/107	uhr	1	uh r
 107/111	oar	1	oa r
 107/119	oar	1	oa r
@@ -5699,7 +5699,7 @@
 108/035	ohr	1	oh r
 108/037	ohr	1	oh r
 108/039	ohr	1	oh r
-108/041	gring	NA	- g r i ng - -
+108/041	gring	NA	-
 108/043	ohr	1	oh r
 108/047	ohr	1	oh r
 108/049	ohr	1	oh r
@@ -5726,7 +5726,7 @@
 108/125	oahr	1	oah r
 108/127	ohr	1	oh r
 108/129	ohr	1	oh r
-108/131	NA	NA	- - - - - - -
+108/131	NA	NA	-
 108/133	ohr	1	oh r
 108/135	ohr	1	oh r
 108/137	oar	1	oa r
@@ -5762,11 +5762,11 @@
 109/115	ohr	1	oh r
 109/117	ur	1	u r
 109/119	uhr	1	uh r
-109/121	NA	NA	- - - - - - -
+109/121	NA	NA	-
 109/123	oar	1	oa r
 109/125	or	1	o r
 109/127	ohr	1	oh r
-109/129	NA	NA	- - - - - - -
+109/129	NA	NA	-
 109/131	oar	1	oa r
 109/133	ohr	1	oh r
 109/135	uhr	1	uh r
@@ -5812,7 +5812,7 @@
 110/139	schädl	6	sch ä d l -
 111/035	uor	1	uo r
 111/037	oehr	1	oeh r
-111/039	NA	NA	- - - - - - -
+111/039	NA	NA	-
 111/041	ohr	1	oh r
 111/043	ohr	1	oh r
 111/045	ohr	1	oh r
@@ -5825,7 +5825,7 @@
 111/083	oar	1	oa r
 111/087	oar	1	oa r
 111/089	oar	1	oa r
-111/105	waschl	NA	- w a sch l - -
+111/105	waschl	NA	-
 111/107	oahr	1	oah r
 111/109	or	1	o r
 111/111	ohr	1	oh r
@@ -5837,7 +5837,7 @@
 111/123	uhr	1	uh r
 111/125	ohr	1	oh r
 112/037	ohr	1	oh r
-112/039	hunt	NA	- h u n t - -
+112/039	hunt	NA	-
 112/041	ohr	1	oh r
 112/043	ohr	1	oh r
 112/047	ohr	1	oh r
@@ -5857,7 +5857,7 @@
 113/039	ohr	1	oh r
 113/047	ohr	1	oh r
 113/079	oar	1	oa r
-113/081	wangen	NA	- w a ng e n -
+113/081	wangen	NA	-
 113/083	oar	1	oa r
 113/085	oar	1	oa r
 113/087	oar	1	oa r

@@ -55,7 +55,7 @@
 011/197	koak	1	k oa k -
 011/203	kak	1	k a k -
 011/205	koak	1	k oa k -
-011/207	NA	NA	- - - - - - - - -
+011/207	NA	NA	-
 011/209	kaak	1	k aa k -
 011/211	kok	1	k o k -
 011/213	kok	1	k o k -
@@ -395,7 +395,7 @@
 019/191	schleef	3	sch l ee f -
 019/193	koak	1	k oa k -
 019/195	koak	1	k oa k -
-019/197	NA	NA	- - - - - - - - -
+019/197	NA	NA	-
 019/199	kok	1	k o k -
 019/201	kohk	1	k oh k -
 019/203	koak	1	k oa k -
@@ -407,7 +407,7 @@
 019/215	kok	1	k o k -
 019/217	koak	1	k oa k -
 019/219	kahk	1	k ah k -
-020/043	NA	NA	- - - - - - - - -
+020/043	NA	NA	-
 020/053	sleef	3	s l ee f -
 020/055	kok	1	k o k -
 020/057	sleef	3	s l ee f -
@@ -465,7 +465,7 @@
 020/199	kak	1	k a k -
 020/201	kok	1	k o k -
 020/203	kok	1	k o k -
-020/205	NA	NA	- - - - - - - - -
+020/205	NA	NA	-
 020/207	koak	1	k oa k -
 020/209	kok	1	k o k -
 020/211	kak	1	k a k -
@@ -1468,7 +1468,7 @@
 035/067	kaak	1	k aa k -
 035/069	szleef	3	sz l ee f -
 035/071	kak	1	k a k -
-035/073	NA	NA	- - - - - - - - -
+035/073	NA	NA	-
 035/075	kak	1	k a k -
 035/077	kaak	1	k aa k -
 035/079	kaak	1	k aa k -
@@ -2645,7 +2645,7 @@
 054/037	kuak	1	k ua k -
 054/039	quok	1	qu o k -
 054/041	kuork	1	k uor k -
-054/043	NA	NA	- - - - - - - - -
+054/043	NA	NA	-
 054/045	koak	1	k oa k -
 054/047	kuoak	1	k uoa k -
 054/049	kuak	1	k ua k -
@@ -3508,14 +3508,14 @@
 066/095	koch	1	k o ch -
 066/097	koch	1	k o ch -
 066/099	ria	5	r ia - - -
-066/101	NA	NA	- - - - - - - - -
+066/101	NA	NA	-
 066/103	koch	1	k o ch -
 066/105	riähr	5	r iäh r - -
 066/107	koch	1	k o ch -
 066/109	koch	1	k o ch -
 066/111	rier	5	r ie r - -
 066/113	kuch	1	k u ch -
-066/121	NA	NA	- - - - - - - - -
+066/121	NA	NA	-
 066/139	kooch	1	k oo ch -
 066/143	koch	1	k o ch -
 066/145	kohch	1	k oh ch -
@@ -3627,7 +3627,7 @@
 068/093	koch	1	k o ch -
 068/095	koch	1	k o ch -
 068/097	ku	1	k u - -
-068/099	NA	NA	- - - - - - - - -
+068/099	NA	NA	-
 068/101	kuh	1	k uh - -
 068/103	koch	1	k o ch -
 068/105	koch	1	k o ch -
@@ -3888,7 +3888,7 @@
 073/047	koch	1	k o ch -
 073/049	koch	1	k o ch -
 073/051	koch	1	k o ch -
-073/053	NA	NA	- - - - - - - - -
+073/053	NA	NA	-
 073/055	koch	1	k o ch -
 073/057	koch	1	k o ch -
 073/059	koch	1	k o ch -
@@ -4298,7 +4298,7 @@
 081/067	koch	1	k o ch -
 081/069	koch	1	k o ch -
 081/071	rir	5	r i r - -
-081/073	NA	NA	- - - - - - - - -
+081/073	NA	NA	-
 081/075	koh	1	k oh - -
 081/077	ko	1	k o - -
 081/079	kuh	1	k uh - -
@@ -4431,7 +4431,7 @@
 083/139	ko	1	k o - -
 083/143	kou	1	k ou - -
 083/145	ku	1	k u - -
-083/147	NA	NA	- - - - - - - - -
+083/147	NA	NA	-
 083/149	kuch	1	k u ch -
 083/173	koo	1	k oo - -
 083/195	koch	1	k o ch -
@@ -4897,7 +4897,7 @@
 091/137	ko	1	k o - -
 091/139	koh	1	k oh - -
 091/141	ko	1	k o - -
-091/143	NA	NA	- - - - - - - - -
+091/143	NA	NA	-
 091/145	ko	1	k o - -
 091/147	ko	1	k o - -
 091/149	kou	1	k ou - -
@@ -4948,7 +4948,7 @@
 092/117	ko	1	k o - -
 092/119	ko	1	k o - -
 092/121	ko	1	k o - -
-092/123	NA	NA	- - - - - - - - -
+092/123	NA	NA	-
 092/125	ko	1	k o - -
 092/127	koch	1	k o ch -
 092/129	koh	1	k oh - -
@@ -4958,7 +4958,7 @@
 092/137	ko	1	k o - -
 092/139	koch	1	k o ch -
 092/141	koo	1	k oo - -
-092/143	NA	NA	- - - - - - - - -
+092/143	NA	NA	-
 092/145	koch	1	k o ch -
 092/147	koch	1	k o ch -
 092/149	ko	1	k o - -
@@ -5002,7 +5002,7 @@
 093/109	ko	1	k o - -
 093/111	ko	1	k o - -
 093/113	ko	1	k o - -
-093/115	NA	NA	- - - - - - - - -
+093/115	NA	NA	-
 093/117	ko	1	k o - -
 093/119	ko	1	k o - -
 093/121	ko	1	k o - -
@@ -5078,7 +5078,7 @@
 094/141	koch	1	k o ch -
 094/143	ko	1	k o - -
 094/145	koch	1	k o ch -
-094/147	NA	NA	- - - - - - - - -
+094/147	NA	NA	-
 094/149	ko	1	k o - -
 094/151	kooch	1	k oo ch -
 094/153	koh	1	k oh - -
@@ -5125,7 +5125,7 @@
 095/111	ko	1	k o - -
 095/113	ko	1	k o - -
 095/115	koh	1	k oh - -
-095/117	NA	NA	- - - - - - - - -
+095/117	NA	NA	-
 095/119	ko	1	k o - -
 095/121	ko	1	k o - -
 095/123	ko	1	k o - -
@@ -5141,7 +5141,7 @@
 095/149	kou	1	k ou - -
 095/151	khao	1	kh ao - -
 095/153	ko	1	k o - -
-095/155	NA	NA	- - - - - - - - -
+095/155	NA	NA	-
 096/031	koch	1	k o ch -
 096/033	koch	1	k o ch -
 096/035	koch	1	k o ch -
@@ -5271,7 +5271,7 @@
 098/069	köller	4	k ö ll e r
 098/071	kölla	4	k ö ll a -
 098/073	kölle	4	k ö ll e -
-098/075	NA	NA	- - - - - - - - -
+098/075	NA	NA	-
 098/077	kella	4	k e ll a -
 098/079	kölla	4	k ö ll a -
 098/081	ko	1	k o - -
@@ -5289,14 +5289,14 @@
 098/109	koh	1	k oh - -
 098/111	ko	1	k o - -
 098/119	ko	1	k o - -
-098/123	NA	NA	- - - - - - - - -
+098/123	NA	NA	-
 098/125	koh	1	k oh - -
 098/127	koh	1	k oh - -
 098/135	koch	1	k o ch -
 098/137	koch	1	k o ch -
 098/139	kou	1	k ou - -
-098/141	NA	NA	- - - - - - - - -
-098/143	NA	NA	- - - - - - - - -
+098/141	NA	NA	-
+098/143	NA	NA	-
 098/145	ko	1	k o - -
 098/147	koch	1	k o ch -
 098/149	keou	1	k eou - -
@@ -5579,7 +5579,7 @@
 105/049	cheuä	1	ch euä - -
 105/051	choch	1	ch o ch -
 105/053	choch	1	ch o ch -
-105/055	NA	NA	- - - - - - - - -
+105/055	NA	NA	-
 105/057	chellä	4	ch e ll ä -
 105/059	choch	1	ch o ch -
 105/061	choch	1	ch o ch -
@@ -5593,7 +5593,7 @@
 105/077	koch	1	k o ch -
 105/079	koch	1	k o ch -
 105/081	koch	1	k o ch -
-105/085	NA	NA	- - - - - - - - -
+105/085	NA	NA	-
 105/087	koch	1	k o ch -
 105/089	koch	1	k o ch -
 105/103	koch	1	k o ch -
@@ -5622,7 +5622,7 @@
 106/045	choch	1	ch o ch -
 106/047	chochch	1	ch o chch -
 106/049	choch	1	ch o ch -
-106/051	NA	NA	- - - - - - - - -
+106/051	NA	NA	-
 106/053	choch	1	ch o ch -
 106/057	choch	1	ch o ch -
 106/061	choch	1	ch o ch -
@@ -5696,7 +5696,7 @@
 107/141	kouch	1	k ou ch -
 107/143	ku	1	k u - -
 108/033	chellä	4	ch e ll ä -
-108/035	NA	NA	- - - - - - - - -
+108/035	NA	NA	-
 108/037	chäueli	4	ch äue l i -
 108/039	choch	1	ch o ch -
 108/041	cheui	1	ch eui - -
@@ -5748,9 +5748,9 @@
 109/083	muesa	7	m ue s a -
 109/087	koch	1	k o ch -
 109/089	koch	1	k o ch -
-109/091	NA	NA	- - - - - - - - -
+109/091	NA	NA	-
 109/093	koch	1	k o ch -
-109/095	NA	NA	- - - - - - - - -
+109/095	NA	NA	-
 109/097	koch	1	k o ch -
 109/099	koch	1	k o ch -
 109/101	kouch	1	k ou ch -
@@ -5762,7 +5762,7 @@
 109/115	koch	1	k o ch -
 109/117	koch	1	k o ch -
 109/119	koch	1	k o ch -
-109/121	NA	NA	- - - - - - - - -
+109/121	NA	NA	-
 109/123	koch	1	k o ch -
 109/125	koch	1	k o ch -
 109/127	koch	1	k o ch -
@@ -5812,7 +5812,7 @@
 110/139	koh	1	k oh - -
 111/035	koch	1	k o ch -
 111/037	cheli	4	ch e l i -
-111/039	NA	NA	- - - - - - - - -
+111/039	NA	NA	-
 111/041	choch	1	ch o ch -
 111/043	choch	1	ch o ch -
 111/045	choch	1	ch o ch -
@@ -5823,14 +5823,14 @@
 111/079	riarer	5	r ia r e r
 111/081	koch	1	k o ch -
 111/083	koch	1	k o ch -
-111/087	NA	NA	- - - - - - - - -
+111/087	NA	NA	-
 111/089	kouch	1	k ou ch -
 111/105	kouch	1	k ou ch -
 111/107	koch	1	k o ch -
 111/109	koch	1	k o ch -
 111/111	koch	1	k o ch -
 111/113	kouch	1	k ou ch -
-111/115	NA	NA	- - - - - - - - -
+111/115	NA	NA	-
 111/117	koch	1	k o ch -
 111/119	khoch	1	kh o ch -
 111/121	koch	1	k o ch -
@@ -5878,7 +5878,7 @@
 117/043	choch	1	ch o ch -
 117/045	choch	1	ch o ch -
 118/041	choch	1	ch o ch -
-119/083	NA	NA	- - - - - - - - -
+119/083	NA	NA	-
 120/085	kellen	4	k e ll e n
 121/127	koch	1	k o ch -
 122/127	koech	1	k oe ch -

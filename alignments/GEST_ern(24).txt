@@ -39,15 +39,15 @@
 010/217	gist	1	- g i - s - t
 010/219	gist	1	- g i - s - t
 011/049	jüst	1	- j ü - s - t
-011/053	NA	NA	- - - - - - -
-011/055	NA	NA	- - - - - - -
-011/057	NA	NA	- - - - - - -
+011/053	NA	NA	-
+011/055	NA	NA	-
+011/057	NA	NA	-
 011/059	egaar	1	e g aa r - - -
-011/061	NA	NA	- - - - - - -
+011/061	NA	NA	-
 011/063	egaar	1	e g aa r - - -
-011/065	NA	NA	- - - - - - -
+011/065	NA	NA	-
 011/067	egaar	1	e g aa r - - -
-011/069	NA	NA	- - - - - - -
+011/069	NA	NA	-
 011/187	gist	1	- g i - s - t
 011/189	gist	1	- g i - s - t
 011/191	gist	1	- g i - s - t
@@ -65,15 +65,15 @@
 012/047	jüst	1	- j ü - s - t
 012/049	jüst	1	- j ü - s - t
 012/051	jöst	1	- j ö - s - t
-012/053	NA	NA	- - - - - - -
-012/055	NA	NA	- - - - - - -
-012/057	NA	NA	- - - - - - -
-012/059	NA	NA	- - - - - - -
+012/053	NA	NA	-
+012/055	NA	NA	-
+012/057	NA	NA	-
+012/059	NA	NA	-
 012/061	ogaa	1	o g aa - - - -
-012/063	NA	NA	- - - - - - -
+012/063	NA	NA	-
 012/065	igaar	1	i g aa r - - -
 012/067	igor	1	i g o r - - -
-012/069	NA	NA	- - - - - - -
+012/069	NA	NA	-
 012/187	gist	1	- g i - s - t
 012/189	gist	1	- g i - s - t
 012/191	gist	1	- g i - s - t
@@ -1819,7 +1819,7 @@
 040/137	gest	1	- g e - s - t
 040/141	gest	1	- g e - s - t
 040/143	gest	1	- g e - s - t
-040/149	NA	NA	- - - - - - -
+040/149	NA	NA	-
 040/153	gist	1	- g i - s - t
 040/155	jist	1	- j i - s - t
 041/031	gist	1	- g i - s - t
@@ -1955,7 +1955,7 @@
 043/045	gist	1	- g i - s - t
 043/047	gest	1	- g e - s - t
 043/049	gist	1	- g i - s - t
-043/051	NA	NA	- - - - - - -
+043/051	NA	NA	-
 043/053	gist	1	- g i - s - t
 043/055	gist	1	- g i - s - t
 043/057	gist	1	- g i - s - t
@@ -1992,7 +1992,7 @@
 043/119	gist	1	- g i - s - t
 043/121	jist	1	- j i - s - t
 043/123	jist	1	- j i - s - t
-043/125	NA	NA	- - - - - - -
+043/125	NA	NA	-
 043/127	gist	1	- g i - s - t
 043/129	jist	1	- j i - s - t
 043/131	gest	1	- g e - s - t
@@ -2011,7 +2011,7 @@
 044/039	gist	1	- g i - s - t
 044/041	gist	1	- g i - s - t
 044/043	gist	1	- g i - s - t
-044/045	NA	NA	- - - - - - -
+044/045	NA	NA	-
 044/047	gist	1	- g i - s - t
 044/049	gist	1	- g i - s - t
 044/051	giest	1	- g ie - s - t
@@ -2061,7 +2061,7 @@
 044/141	gest	1	- g e - s - t
 044/143	gest	1	- g e - s - t
 044/145	gest	1	- g e - s - t
-044/149	NA	NA	- - - - - - -
+044/149	NA	NA	-
 044/151	gest	1	- g e - s - t
 044/153	gest	1	- g e - s - t
 045/033	gist	1	- g i - s - t
@@ -2783,7 +2783,7 @@
 056/035	gest	1	- g e - s - t
 056/037	giest	1	- g ie - s - t
 056/039	gist	1	- g i - s - t
-056/041	NA	NA	- - - - - - -
+056/041	NA	NA	-
 056/043	gist	1	- g i - s - t
 056/045	gist	1	- g i - s - t
 056/047	gist	1	- g i - s - t
@@ -2880,7 +2880,7 @@
 057/089	jest	1	- j e - s - t
 057/091	gest	1	- g e - s - t
 057/093	gest	1	- g e - s - t
-057/095	NA	NA	- - - - - - -
+057/095	NA	NA	-
 057/097	gest	1	- g e - s - t
 057/099	nächten	2	- n ä ch t e n
 057/101	gest	1	- g e - s - t
@@ -2942,7 +2942,7 @@
 058/069	gest	1	- g e - s - t
 058/071	gest	1	- g e - s - t
 058/073	gäst	1	- g ä - s - t
-058/075	NA	NA	- - - - - - -
+058/075	NA	NA	-
 058/077	gest	1	- g e - s - t
 058/079	nong	2	- n o ng - - -
 058/081	nong	2	- n o ng - - -
@@ -3017,7 +3017,7 @@
 059/077	gest	1	- g e - s - t
 059/079	gäst	1	- g ä - s - t
 059/081	gäst	1	- g ä - s - t
-059/083	NA	NA	- - - - - - -
+059/083	NA	NA	-
 059/085	gest	1	- g e - s - t
 059/087	gest	1	- g e - s - t
 059/089	nächt	2	- n ä ch t - -
@@ -3667,7 +3667,7 @@
 069/061	necht	2	- n e ch t - -
 069/063	nacht	2	- n a ch t - -
 069/065	näicht	2	- n äi ch t - -
-069/067	NA	NA	- - - - - - -
+069/067	NA	NA	-
 069/069	nechta	2	- n e ch t a -
 069/071	nachta	2	- n a ch t a -
 069/073	nachte	2	- n a ch t e -
@@ -3714,7 +3714,7 @@
 070/045	gest	1	- g e - s - t
 070/047	gest	1	- g e - s - t
 070/049	gest	1	- g e - s - t
-070/051	NA	NA	- - - - - - -
+070/051	NA	NA	-
 070/053	gest	1	- g e - s - t
 070/055	gest	1	- g e - s - t
 070/057	gest	1	- g e - s - t
@@ -4026,7 +4026,7 @@
 075/095	gest	1	- g e - s - t
 075/097	gest	1	- g e - s - t
 075/099	gest	1	- g e - s - t
-075/101	NA	NA	- - - - - - -
+075/101	NA	NA	-
 075/103	gest	1	- g e - s - t
 075/105	gest	1	- g e - s - t
 075/107	gest	1	- g e - s - t
@@ -4363,7 +4363,7 @@
 082/097	gest	1	- g e - s - t
 082/099	gest	1	- g e - s - t
 082/101	gest	1	- g e - s - t
-082/103	NA	NA	- - - - - - -
+082/103	NA	NA	-
 082/105	göst	1	- g ö - s - t
 082/107	göst	1	- g ö - s - t
 082/111	gest	1	- g e - s - t
@@ -4371,7 +4371,7 @@
 082/117	gest	1	- g e - s - t
 082/129	gäist	1	- g äi - s - t
 082/131	gäist	1	- g äi - s - t
-082/133	NA	NA	- - - - - - -
+082/133	NA	NA	-
 082/135	gest	1	- g e - s - t
 082/145	gäist	1	- g äi - s - t
 082/147	gäist	1	- g äi - s - t
@@ -4514,7 +4514,7 @@
 085/065	gerscht	1	- g e r sch - t
 085/067	gescht	1	- g e - sch - t
 085/069	gerscht	1	- g e r sch - t
-085/071	NA	NA	- - - - - - -
+085/071	NA	NA	-
 085/073	gescht	1	- g e - sch - t
 085/075	gescht	1	- g e - sch - t
 085/077	gescht	1	- g e - sch - t
@@ -5103,7 +5103,7 @@
 095/067	gescht	1	- g e - sch - t
 095/069	nächt	2	- n ä ch t - -
 095/071	gescht	1	- g e - sch - t
-095/073	NA	NA	- - - - - - -
+095/073	NA	NA	-
 095/075	necht	2	- n e ch t - -
 095/077	nächteg	2	- n ä ch t e g
 095/079	nächt	2	- n ä ch t - -
@@ -5173,7 +5173,7 @@
 096/089	gest	1	- g e - s - t
 096/091	gesd	1	- g e - s - d
 096/093	gäst	1	- g ä - s - t
-096/095	NA	NA	- - - - - - -
+096/095	NA	NA	-
 096/097	gest	1	- g e - s - t
 096/099	göst	1	- g ö - s - t
 096/101	gest	1	- g e - s - t
@@ -5196,7 +5196,7 @@
 096/139	geist	1	- g ei - s - t
 096/141	gest	1	- g e - s - t
 096/143	gest	1	- g e - s - t
-096/145	NA	NA	- - - - - - -
+096/145	NA	NA	-
 096/147	keist	1	- k ei - s - t
 096/151	geest	1	- g ee - s - t
 096/153	gest	1	- g e - s - t
@@ -5216,7 +5216,7 @@
 097/055	gschet	1	- g - - sch e t
 097/057	gescht	1	- g e - sch - t
 097/059	geschd	1	- g e - sch - d
-097/061	NA	NA	- - - - - - -
+097/061	NA	NA	-
 097/063	geschd	1	- g e - sch - d
 097/065	girscht	1	- g i r sch - t
 097/067	gest	1	- g e - s - t
@@ -5224,7 +5224,7 @@
 097/071	nächt	2	- n ä ch t - -
 097/073	necht	2	- n e ch t - -
 097/075	nächt	2	- n ä ch t - -
-097/077	NA	NA	- - - - - - -
+097/077	NA	NA	-
 097/079	gescht	1	- g e - sch - t
 097/081	nächt	2	- n ä ch t - -
 097/083	nacht	2	- n a ch t - -
@@ -5429,7 +5429,7 @@
 101/129	gest	1	- g e - s - t
 101/131	gest	1	- g e - s - t
 101/133	gäist	1	- g äi - s - t
-101/137	NA	NA	- - - - - - -
+101/137	NA	NA	-
 101/139	gest	1	- g e - s - t
 101/141	gest	1	- g e - s - t
 101/143	gest	1	- g e - s - t
@@ -5486,7 +5486,7 @@
 103/047	gäscht	1	- g ä - sch - t
 103/049	gescht	1	- g e - sch - t
 103/051	gescht	1	- g e - sch - t
-103/053	NA	NA	- - - - - - -
+103/053	NA	NA	-
 103/055	gescht	1	- g e - sch - t
 103/057	gescht	1	- g e - sch - t
 103/059	gescht	1	- g e - sch - t
@@ -5519,7 +5519,7 @@
 103/135	nacht	2	- n a ch t - -
 103/137	gest	1	- g e - s - t
 103/139	gest	1	- g e - s - t
-103/141	NA	NA	- - - - - - -
+103/141	NA	NA	-
 103/143	gest	1	- g e - s - t
 103/145	keist	1	- k ei - s - t
 104/033	nächti	2	- n ä ch t i -
@@ -5539,7 +5539,7 @@
 104/061	gescht	1	- g e - sch - t
 104/063	gescht	1	- g e - sch - t
 104/065	gescht	1	- g e - sch - t
-104/067	NA	NA	- - - - - - -
+104/067	NA	NA	-
 104/071	nochti	2	- n o ch t i -
 104/075	nacht	2	- n a ch t - -
 104/077	nacht	2	- n a ch t - -
@@ -5649,7 +5649,7 @@
 106/131	gest	1	- g e - s - t
 106/133	gest	1	- g e - s - t
 106/135	geist	1	- g ei - s - t
-106/137	NA	NA	- - - - - - -
+106/137	NA	NA	-
 106/139	gest	1	- g e - s - t
 106/141	gest	1	- g e - s - t
 106/143	nacht	2	- n a ch t - -
@@ -5742,8 +5742,8 @@
 109/053	gest	1	- g e - s - t
 109/061	gest	1	- g e - s - t
 109/063	gescht	1	- g e - sch - t
-109/065	NA	NA	- - - - - - -
-109/067	NA	NA	- - - - - - -
+109/065	NA	NA	-
+109/067	NA	NA	-
 109/075	göst	1	- g ö - s - t
 109/083	gescht	1	- g e - sch - t
 109/087	göscht	1	- g ö - sch - t
@@ -5788,7 +5788,7 @@
 110/083	gest	1	- g e - s - t
 110/087	gest	1	- g e - s - t
 110/089	gescht	1	- g e - sch - t
-110/091	NA	NA	- - - - - - -
+110/091	NA	NA	-
 110/093	gescht	1	- g e - sch - t
 110/095	göst	1	- g ö - s - t
 110/097	göst	1	- g ö - s - t
@@ -5878,12 +5878,12 @@
 117/043	gescht	1	- g e - sch - t
 117/045	gescht	1	- g e - sch - t
 118/041	gescht	1	- g e - sch - t
-119/083	NA	NA	- - - - - - -
+119/083	NA	NA	-
 120/085	gesch	1	- g e - sch - -
 121/127	gescht	1	- g e - sch - t
 122/127	gescht	1	- g e - sch - t
 122/129	gescht	1	- g e - sch - t
-123/081	NA	NA	- - - - - - -
+123/081	NA	NA	-
 123/123	gescht	1	- g e - sch - t
 123/125	gescht	1	- g e - sch - t
 123/127	gescht	1	- g e - sch - t

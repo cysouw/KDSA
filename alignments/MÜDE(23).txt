@@ -1819,7 +1819,7 @@
 040/137	med	1	m e d
 040/141	müd	1	m ü d
 040/143	mid	1	m i d
-040/149	NA	NA	- - - - - -
+040/149	NA	NA	-
 040/153	möd	1	m ö d
 040/155	möd	1	m ö d
 041/031	möö	1	m öö -
@@ -3799,7 +3799,7 @@
 071/099	meid	1	m ei d
 071/101	meid	1	m ei d
 071/103	mei	1	m ei -
-071/105	NA	NA	- - - - - -
+071/105	NA	NA	-
 071/145	maroda	4	m a r o d a
 071/147	maroda	4	m a r o d a
 071/149	müd	1	m ü d
@@ -3810,7 +3810,7 @@
 071/159	mid	1	m i d
 071/161	mid	1	m i d
 071/163	mid	1	m i d
-071/177	NA	NA	- - - - - -
+071/177	NA	NA	-
 071/179	müd	1	m ü d
 072/017	mit	1	m i t
 072/019	mitt	1	m i tt
@@ -4176,7 +4176,7 @@
 078/101	möid	1	m öi d
 078/103	meit	1	m ei t
 078/105	möid	1	m öi d
-078/135	NA	NA	- - - - - -
+078/135	NA	NA	-
 078/193	miht	1	m ih t
 079/021	meid	1	m ei d
 079/023	mid	1	m i d
@@ -5119,7 +5119,7 @@
 095/099	müad	1	m üa d
 095/101	müad	1	m üa d
 095/103	miad	1	m ia d
-095/105	NA	NA	- - - - - -
+095/105	NA	NA	-
 095/107	miad	1	m ia d
 095/109	miad	1	m ia d
 095/111	miad	1	m ia d
@@ -5294,12 +5294,12 @@
 098/127	miad	1	m ia d
 098/135	miad	1	m ia d
 098/137	miad	1	m ia d
-098/139	NA	NA	- - - - - -
+098/139	NA	NA	-
 098/141	miad	1	m ia d
 098/143	miad	1	m ia d
 098/145	muad	1	m ua d
 098/147	miad	1	m ia d
-098/149	NA	NA	- - - - - -
+098/149	NA	NA	-
 098/151	delagei	3	d e - l a g ei
 099/033	miat	1	m ia t
 099/035	miad	1	m ia d
@@ -5419,7 +5419,7 @@
 101/097	müad	1	m üa d
 101/099	müad	1	m üa d
 101/101	miad	1	m ia d
-101/103	NA	NA	- - - - - -
+101/103	NA	NA	-
 101/107	miad	1	m ia d
 101/109	miad	1	m ia d
 101/113	miad	1	m ia d
@@ -5622,7 +5622,7 @@
 106/045	müed	1	m üe d
 106/047	müed	1	m üe d
 106/049	müed	1	m üe d
-106/051	NA	NA	- - - - - -
+106/051	NA	NA	-
 106/053	müed	1	m üe d
 106/057	müed	1	m üe d
 106/061	müad	1	m üa d

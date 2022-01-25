@@ -83,7 +83,7 @@
 012/199	twelf	1	t w e l - f -
 012/201	twelf	1	t w e l - f -
 012/203	twelf	1	t w e l - f -
-012/205	NA	NA	- - - - - - -
+012/205	NA	NA	-
 012/207	twelf	1	t w e l - f -
 012/209	zwälf	1	z w ä l - f -
 012/211	zwälf	1	z w ä l - f -
@@ -196,7 +196,7 @@
 015/207	zwälf	1	z w ä l - f -
 015/209	zwelf	1	z w e l - f -
 015/211	zwelf	1	z w e l - f -
-015/213	NA	NA	- - - - - - -
+015/213	NA	NA	-
 015/215	zwelf	1	z w e l - f -
 015/217	zwelf	1	z w e l - f -
 015/219	zwellf	1	z w e ll - f -
@@ -439,7 +439,7 @@
 020/147	twelf	1	t w e l - f -
 020/149	twelf	1	t w e l - f -
 020/151	twelf	1	t w e l - f -
-020/153	NA	NA	- - - - - - -
+020/153	NA	NA	-
 020/155	twälw	1	t w ä l - w -
 020/157	twelw	1	t w e l - w -
 020/159	twölw	1	t w ö l - w -
@@ -547,7 +547,7 @@
 022/059	twölf	1	t w ö l - f -
 022/061	twölf	1	t w ö l - f -
 022/063	twälf	1	t w ä l - f -
-022/065	NA	NA	- - - - - - -
+022/065	NA	NA	-
 022/067	twölf	1	t w ö l - f -
 022/069	twölf	1	t w ö l - f -
 022/071	twölf	1	t w ö l - f -
@@ -597,7 +597,7 @@
 022/181	twälf	1	t w ä l - f -
 022/183	zwälf	1	z w ä l - f -
 022/185	zwölf	1	z w ö l - f -
-022/187	NA	NA	- - - - - - -
+022/187	NA	NA	-
 022/189	zwälf	1	z w ä l - f -
 022/191	zwelf	1	z w e l - f -
 022/193	zwelf	1	z w e l - f -
@@ -744,7 +744,7 @@
 024/181	zwelf	1	z w e l - f -
 024/183	zwelf	1	z w e l - f -
 024/185	zwelf	1	z w e l - f -
-024/187	NA	NA	- - - - - - -
+024/187	NA	NA	-
 024/189	zwälf	1	z w ä l - f -
 024/191	zwelf	1	z w e l - f -
 024/193	zwelf	1	z w e l - f -
@@ -1169,7 +1169,7 @@
 030/171	twelf	1	t w e l - f -
 030/173	twelf	1	t w e l - f -
 030/175	twälf	1	t w ä l - f -
-030/177	NA	NA	- - - - - - -
+030/177	NA	NA	-
 030/179	twelw	1	t w e l - w -
 030/181	twölf	1	t w ö l - f -
 030/183	twelf	1	t w e l - f -
@@ -1753,7 +1753,7 @@
 039/123	sswelf	1	ss w e l - f -
 039/125	twölf	1	t w ö l - f -
 039/127	zwölf	1	z w ö l - f -
-039/129	NA	NA	- - - - - - -
+039/129	NA	NA	-
 039/131	zwelf	1	z w e l - f -
 039/133	zwölf	1	z w ö l - f -
 039/135	zwelf	1	z w e l - f -
@@ -1852,7 +1852,7 @@
 041/085	twölf	1	t w ö l - f -
 041/087	twölf	1	t w ö l - f -
 041/089	twölf	1	t w ö l - f -
-041/091	NA	NA	- - - - - - -
+041/091	NA	NA	-
 041/093	zwölf	1	z w ö l - f -
 041/095	zwölf	1	z w ö l - f -
 041/097	zwölf	1	z w ö l - f -
@@ -1878,7 +1878,7 @@
 041/139	zwölf	1	z w ö l - f -
 041/141	dutzend	2	d u t z e n d
 041/145	zwelf	1	z w e l - f -
-041/147	NA	NA	- - - - - - -
+041/147	NA	NA	-
 041/153	twiav	1	t w ia - - v -
 041/155	twiaf	1	t w ia - - f -
 041/157	zwölf	1	z w ö l - f -
@@ -1995,7 +1995,7 @@
 043/125	zwelf	1	z w e l - f -
 043/127	zwölf	1	z w ö l - f -
 043/129	zwölf	1	z w ö l - f -
-043/131	NA	NA	- - - - - - -
+043/131	NA	NA	-
 043/133	zwölf	1	z w ö l - f -
 043/135	zwölf	1	z w ö l - f -
 043/137	zwölw	1	z w ö l - w -
@@ -2066,7 +2066,7 @@
 044/153	zwölf	1	z w ö l - f -
 045/033	twiälf	1	t w iä l - f -
 045/035	twiälf	1	t w iä l - f -
-045/037	NA	NA	- - - - - - -
+045/037	NA	NA	-
 045/039	twiölf	1	t w iö l - f -
 045/041	twiälf	1	t w iä l - f -
 045/043	twieälf	1	t w ieä l - f -
@@ -2268,7 +2268,7 @@
 048/077	twölf	1	t w ö l - f -
 048/079	twölf	1	t w ö l - f -
 048/081	twölf	1	t w ö l - f -
-048/083	NA	NA	- - - - - - -
+048/083	NA	NA	-
 048/085	zwölf	1	z w ö l - f -
 048/087	sswelf	1	ss w e l - f -
 048/089	zwelf	1	z w e l - f -
@@ -2333,7 +2333,7 @@
 049/079	zwölf	1	z w ö l - f -
 049/081	zwelf	1	z w e l - f -
 049/083	twölf	1	t w ö l - f -
-049/085	NA	NA	- - - - - - -
+049/085	NA	NA	-
 049/087	zwelf	1	z w e l - f -
 049/089	zwelf	1	z w e l - f -
 049/091	sswelf	1	ss w e l - f -
@@ -2409,7 +2409,7 @@
 050/103	zvelf	1	z v e l - f -
 050/105	zwelf	1	z w e l - f -
 050/107	zwelf	1	z w e l - f -
-050/109	NA	NA	- - - - - - -
+050/109	NA	NA	-
 050/111	zwelf	1	z w e l - f -
 050/113	zwelf	1	z w e l - f -
 050/115	zwölf	1	z w ö l - f -
@@ -2447,7 +2447,7 @@
 051/043	twaälf	1	t w aä l - f -
 051/045	twiälf	1	t w iä l - f -
 051/047	twialf	1	t w ia l - f -
-051/049	NA	NA	- - - - - - -
+051/049	NA	NA	-
 051/051	twiälf	1	t w iä l - f -
 051/053	twiälf	1	t w iä l - f -
 051/055	twölf	1	t w ö l - f -
@@ -2755,7 +2755,7 @@
 055/117	zwälf	1	z w ä l - f -
 055/119	zwalf	1	z w a l - f -
 055/123	zwölf	1	z w ö l - f -
-055/125	NA	NA	- - - - - - -
+055/125	NA	NA	-
 055/127	zwelf	1	z w e l - f -
 055/131	zwelf	1	z w e l - f -
 055/133	zwelf	1	z w e l - f -
@@ -2842,7 +2842,7 @@
 056/155	zwölf	1	z w ö l - f -
 056/157	zwelf	1	z w e l - f -
 056/159	zwelf	1	z w e l - f -
-056/161	NA	NA	- - - - - - -
+056/161	NA	NA	-
 057/021	twelf	1	t w e l - f -
 057/023	twelv	1	t w e l - v -
 057/025	zwelf	1	z w e l - f -
@@ -2862,7 +2862,7 @@
 057/053	twälf	1	t w ä l - f -
 057/055	zwölf	1	z w ö l - f -
 057/057	zwälf	1	z w ä l - f -
-057/059	NA	NA	- - - - - - -
+057/059	NA	NA	-
 057/061	zwelf	1	z w e l - f -
 057/063	zwälf	1	z w ä l - f -
 057/065	zwölf	1	z w ö l - f -
@@ -3118,7 +3118,7 @@
 060/135	zwelf	1	z w e l - f -
 060/137	zwelf	1	z w e l - f -
 060/139	zwelf	1	z w e l - f -
-060/141	NA	NA	- - - - - - -
+060/141	NA	NA	-
 060/143	zwälf	1	z w ä l - f -
 060/145	zwölf	1	z w ö l - f -
 060/147	zwelf	1	z w e l - f -
@@ -3222,7 +3222,7 @@
 062/057	zwölf	1	z w ö l - f -
 062/059	zwölef	1	z w ö l e f -
 062/061	zwellef	1	z w e ll e f -
-062/063	NA	NA	- - - - - - -
+062/063	NA	NA	-
 062/065	zwälf	1	z w ä l - f -
 062/067	zwälf	1	z w ä l - f -
 062/069	zwelf	1	z w e l - f -
@@ -3324,7 +3324,7 @@
 063/119	zwelf	1	z w e l - f -
 063/121	zwelf	1	z w e l - f -
 063/123	zwelf	1	z w e l - f -
-063/125	NA	NA	- - - - - - -
+063/125	NA	NA	-
 063/127	zwelf	1	z w e l - f -
 063/135	zwelf	1	z w e l - f -
 063/137	zwälf	1	z w ä l - f -
@@ -3611,7 +3611,7 @@
 068/061	zwölf	1	z w ö l - f -
 068/063	zwölef	1	z w ö l e f -
 068/065	zwelef	1	z w e l e f -
-068/067	NA	NA	- - - - - - -
+068/067	NA	NA	-
 068/069	zwölaf	1	z w ö l a f -
 068/071	zwälf	1	z w ä l - f -
 068/073	zwöläf	1	z w ö l ä f -
@@ -3659,7 +3659,7 @@
 069/045	zwölf	1	z w ö l - f -
 069/047	zwelf	1	z w e l - f -
 069/049	zwelf	1	z w e l - f -
-069/051	NA	NA	- - - - - - -
+069/051	NA	NA	-
 069/053	zwelf	1	z w e l - f -
 069/055	zwelf	1	z w e l - f -
 069/057	zwölef	1	z w ö l e f -
@@ -3807,7 +3807,7 @@
 071/153	zwälf	1	z w ä l - f -
 071/155	zwöjf	1	z w öj - - f -
 071/157	zwelf	1	z w e l - f -
-071/159	NA	NA	- - - - - - -
+071/159	NA	NA	-
 071/161	zwälf	1	z w ä l - f -
 071/163	zwelf	1	z w e l - f -
 071/177	zwelf	1	z w e l - f -
@@ -4025,7 +4025,7 @@
 075/093	zwölf	1	z w ö l - f -
 075/095	zwölf	1	z w ö l - f -
 075/097	zwelf	1	z w e l - f -
-075/099	NA	NA	- - - - - - -
+075/099	NA	NA	-
 075/101	zwölf	1	z w ö l - f -
 075/103	zwlf	1	z w - l - f -
 075/105	zwölf	1	z w ö l - f -
@@ -4308,7 +4308,7 @@
 081/087	zwölf	1	z w ö l - f -
 081/089	zwölf	1	z w ö l - f -
 081/091	zwölf	1	z w ö l - f -
-081/093	NA	NA	- - - - - - -
+081/093	NA	NA	-
 081/095	zwölf	1	z w ö l - f -
 081/097	zwölf	1	z w ö l - f -
 081/099	zwüef	1	z w üe - - f -
@@ -4420,7 +4420,7 @@
 083/107	zweyf	1	z w ey - - f -
 083/111	zwöif	1	z w öi - - f -
 083/113	swöif	1	s w öi - - f -
-083/115	NA	NA	- - - - - - -
+083/115	NA	NA	-
 083/117	zwilaf	1	z w i l a f -
 083/119	zwülaf	1	z w ü l a f -
 083/121	zwölf	1	z w ö l - f -
@@ -4546,7 +4546,7 @@
 085/131	zwöf	1	z w ö - - f -
 085/133	zwöif	1	z w öi - - f -
 085/135	zwölf	1	z w ö l - f -
-085/137	NA	NA	- - - - - - -
+085/137	NA	NA	-
 085/139	zwölf	1	z w ö l - f -
 085/141	zwöf	1	z w ö - - f -
 085/143	zwöjf	1	z w öj - - f -
@@ -4696,7 +4696,7 @@
 088/067	zwelf	1	z w e l - f -
 088/069	zwölf	1	z w ö l - f -
 088/071	zwelf	1	z w e l - f -
-088/073	NA	NA	- - - - - - -
+088/073	NA	NA	-
 088/075	zwölf	1	z w ö l - f -
 088/077	zwölf	1	z w ö l - f -
 088/079	zwölf	1	z w ö l - f -
@@ -4775,7 +4775,7 @@
 089/119	zwöf	1	z w ö - - f -
 089/121	zwöif	1	z w öi - - f -
 089/123	zwölf	1	z w ö l - f -
-089/125	NA	NA	- - - - - - -
+089/125	NA	NA	-
 089/127	zwöff	1	z w ö - - ff -
 089/129	zwöf	1	z w ö - - f -
 089/131	zwöuf	1	z w öu - - f -
@@ -4848,7 +4848,7 @@
 090/151	zwoelf	1	z w oe l - f -
 091/035	zwölf	1	z w ö l - f -
 091/037	zwälf	1	z w ä l - f -
-091/039	NA	NA	- - - - - - -
+091/039	NA	NA	-
 091/041	twelf	1	t w e l - f -
 091/043	zwelf	1	z w e l - f -
 091/045	zwelf	1	z w e l - f -
@@ -5141,7 +5141,7 @@
 095/149	zwöüf	1	z w öü - - f -
 095/151	zwöüf	1	z w öü - - f -
 095/153	zwölf	1	z w ö l - f -
-095/155	NA	NA	- - - - - - -
+095/155	NA	NA	-
 096/031	zwelf	1	z w e l - f -
 096/033	zwelf	1	z w e l - f -
 096/035	zwälf	1	z w ä l - f -
@@ -5427,7 +5427,7 @@
 101/121	zwöif	1	z w öi - - f -
 101/125	zwölf	1	z w ö l - f -
 101/129	zwöif	1	z w öi - - f -
-101/131	NA	NA	- - - - - - -
+101/131	NA	NA	-
 101/133	zwöif	1	z w öi - - f -
 101/137	zwölf	1	z w ö l - f -
 101/139	zwölf	1	z w ö l - f -
@@ -5549,7 +5549,7 @@
 104/085	zwölf	1	z w ö l - f -
 104/091	zwölf	1	z w ö l - f -
 104/095	zwöf	1	z w ö - - f -
-104/101	NA	NA	- - - - - - -
+104/101	NA	NA	-
 104/103	zwöif	1	z w öi - - f -
 104/107	zweef	1	z w ee - - f -
 104/111	zweef	1	z w ee - - f -
@@ -5595,7 +5595,7 @@
 105/081	zwölf	1	z w ö l - f -
 105/085	zwölf	1	z w ö l - f -
 105/087	zwölf	1	z w ö l - f -
-105/089	NA	NA	- - - - - - -
+105/089	NA	NA	-
 105/103	zwöf	1	z w ö - - f -
 105/105	zwöf	1	z w ö - - f -
 105/111	zwäf	1	z w ä - - f -
@@ -5632,7 +5632,7 @@
 106/073	zwölf	1	z w ö l - f -
 106/075	zwölf	1	z w ö l - f -
 106/077	zwölf	1	z w ö l - f -
-106/079	NA	NA	- - - - - - -
+106/079	NA	NA	-
 106/081	zwölf	1	z w ö l - f -
 106/085	zwölf	1	z w ö l - f -
 106/087	zwelf	1	z w e l - f -
@@ -5670,7 +5670,7 @@
 107/063	zwölf	1	z w ö l - f -
 107/065	zwölf	1	z w ö l - f -
 107/071	zwölf	1	z w ö l - f -
-107/075	NA	NA	- - - - - - -
+107/075	NA	NA	-
 107/081	zwölf	1	z w ö l - f -
 107/085	zwolf	1	z w o l - f -
 107/087	zwölf	1	z w ö l - f -
@@ -5719,7 +5719,7 @@
 108/109	zwölf	1	z w ö l - f -
 108/111	zwelf	1	z w e l - f -
 108/113	zwölf	1	z w ö l - f -
-108/117	NA	NA	- - - - - - -
+108/117	NA	NA	-
 108/119	zwölf	1	z w ö l - f -
 108/121	zwölf	1	z w ö l - f -
 108/123	zwölf	1	z w ö l - f -
@@ -5862,7 +5862,7 @@
 113/085	zwelf	1	z w e l - f -
 113/087	zwölf	1	z w ö l - f -
 113/121	zwölf	1	z w ö l - f -
-113/123	NA	NA	- - - - - - -
+113/123	NA	NA	-
 114/035	zwölf	1	z w ö l - f -
 114/045	zwelf	1	z w e l - f -
 114/083	zweilf	1	z w ei l - f -
@@ -5883,7 +5883,7 @@
 121/127	zbelf	1	z b e l - f -
 122/127	zwelf	1	z w e l - f -
 122/129	zbelf	1	z b e l - f -
-123/081	NA	NA	- - - - - - -
+123/081	NA	NA	-
 123/123	zbelf	1	z b e l - f -
 123/125	zbelf	1	z b e l - f -
 123/127	zbelf	1	z b e l - f -

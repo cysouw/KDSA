@@ -197,7 +197,7 @@
 015/209	got	1	g o t
 015/211	got	1	g o t
 015/213	got	1	g o t
-015/215	NA	NA	- - - - - - -
+015/215	NA	NA	-
 015/217	got	1	g o t
 015/219	got	1	g o t
 015/221	good	1	g oo d
@@ -296,7 +296,7 @@
 018/057	gud	1	g u d
 018/059	gut	1	g u t
 018/061	gut	1	g u t
-018/063	NA	NA	- - - - - - -
+018/063	NA	NA	-
 018/065	god	1	g o d
 018/067	gaut	1	g au t
 018/069	gaut	1	g au t
@@ -465,7 +465,7 @@
 020/199	god	1	g o d
 020/201	goot	1	g oo t
 020/203	got	1	g o t
-020/205	NA	NA	- - - - - - -
+020/205	NA	NA	-
 020/207	got	1	g o t
 020/209	got	1	g o t
 020/211	goot	1	g oo t
@@ -487,7 +487,7 @@
 021/077	gout	1	g ou t
 021/079	god	1	g o d
 021/087	gaut	1	g au t
-021/089	NA	NA	- - - - - - -
+021/089	NA	NA	-
 021/091	gaut	1	g au t
 021/093	gaut	1	g au t
 021/095	gaut	1	g au t
@@ -536,7 +536,7 @@
 021/199	got	1	g o t
 021/201	geot	1	g eo t
 021/203	goat	1	g oa t
-021/205	NA	NA	- - - - - - -
+021/205	NA	NA	-
 021/207	got	1	g o t
 021/211	got	1	g o t
 021/215	got	1	g o t
@@ -549,7 +549,7 @@
 022/063	god	1	g o d
 022/065	god	1	g o d
 022/067	god	1	g o d
-022/069	NA	NA	- - - - - - -
+022/069	NA	NA	-
 022/071	gaut	1	g au t
 022/073	good	1	g oo d
 022/075	god	1	g o d
@@ -644,7 +644,7 @@
 023/115	gaut	1	g au t
 023/117	gaut	1	g au t
 023/121	gaud	1	g au d
-023/123	NA	NA	- - - - - - -
+023/123	NA	NA	-
 023/125	gaut	1	g au t
 023/127	jaut	1	j au t
 023/129	gaut	1	g au t
@@ -679,7 +679,7 @@
 023/199	got	1	g o t
 023/201	got	1	g o t
 023/203	got	1	g o t
-023/205	NA	NA	- - - - - - -
+023/205	NA	NA	-
 023/207	got	1	g o t
 023/215	got	1	g o t
 023/217	got	1	g o t
@@ -972,7 +972,7 @@
 028/063	good	1	g oo d
 028/065	good	1	g oo d
 028/067	gäüd	1	g äü d
-028/069	NA	NA	- - - - - - -
+028/069	NA	NA	-
 028/071	gaod	1	g ao d
 028/073	gaut	1	g au t
 028/075	gaut	1	g au t
@@ -1008,7 +1008,7 @@
 028/137	gaut	1	g au t
 028/139	gaut	1	g au t
 028/141	god	1	g o d
-028/143	NA	NA	- - - - - - -
+028/143	NA	NA	-
 028/145	god	1	g o d
 028/147	gaut	1	g au t
 028/151	giut	1	g iu t
@@ -1196,7 +1196,7 @@
 031/075	goud	1	g ou d
 031/077	gaut	1	g au t
 031/079	gaut	1	g au t
-031/081	NA	NA	- - - - - - -
+031/081	NA	NA	-
 031/083	gaut	1	g au t
 031/085	gaud	1	g au d
 031/087	gaud	1	g au d
@@ -1356,7 +1356,7 @@
 033/113	gout	1	g ou t
 033/115	goot	1	g oo t
 033/117	got	1	g o t
-033/119	NA	NA	- - - - - - -
+033/119	NA	NA	-
 033/121	got	1	g o t
 033/123	goot	1	g oo t
 033/125	goat	1	g oa t
@@ -1580,7 +1580,7 @@
 036/171	got	1	g o t
 037/033	got	1	g o t
 037/035	god	1	g o d
-037/037	NA	NA	- - - - - - -
+037/037	NA	NA	-
 037/039	gaut	1	g au t
 037/041	gaut	1	g au t
 037/043	gaud	1	g au d
@@ -1689,7 +1689,7 @@
 038/121	jut	1	j u t
 038/123	gut	1	g u t
 038/125	gut	1	g u t
-038/127	NA	NA	- - - - - - -
+038/127	NA	NA	-
 038/129	got	1	g o t
 038/131	gut	1	g u t
 038/133	gut	1	g u t
@@ -1785,7 +1785,7 @@
 040/067	gut	1	g u t
 040/069	gut	1	g u t
 040/071	gut	1	g u t
-040/073	NA	NA	- - - - - - -
+040/073	NA	NA	-
 040/075	gut	1	g u t
 040/077	gut	1	g u t
 040/079	goat	1	g oa t
@@ -1813,9 +1813,9 @@
 040/125	gut	1	g u t
 040/127	gut	1	g u t
 040/129	gut	1	g u t
-040/131	NA	NA	- - - - - - -
+040/131	NA	NA	-
 040/133	gutt	1	g u tt
-040/135	NA	NA	- - - - - - -
+040/135	NA	NA	-
 040/137	gut	1	g u t
 040/141	gut	1	g u t
 040/143	gutt	1	g u tt
@@ -1876,7 +1876,7 @@
 041/133	gutt	1	g u tt
 041/135	gutt	1	g u tt
 041/139	gut	1	g u t
-041/141	NA	NA	- - - - - - -
+041/141	NA	NA	-
 041/145	gutt	1	g u tt
 041/147	gutt	1	g u tt
 041/153	gout	1	g ou t
@@ -1955,7 +1955,7 @@
 043/045	god	1	g o d
 043/047	goht	1	g oh t
 043/049	good	1	g oo d
-043/051	NA	NA	- - - - - - -
+043/051	NA	NA	-
 043/053	gäüt	1	g äü t
 043/055	gaut	1	g au t
 043/057	gaut	1	g au t
@@ -2018,7 +2018,7 @@
 044/053	gäut	1	g äu t
 044/055	geeut	1	g eeu t
 044/057	gaut	1	g au t
-044/059	NA	NA	- - - - - - -
+044/059	NA	NA	-
 044/061	got	1	g o t
 044/063	güut	1	g üu t
 044/065	giut	1	g iu t
@@ -2040,7 +2040,7 @@
 044/097	juot	1	j uo t
 044/099	guet	1	g ue t
 044/101	guät	1	g uä t
-044/103	NA	NA	- - - - - - -
+044/103	NA	NA	-
 044/105	guet	1	g ue t
 044/107	güett	1	g üe tt
 044/109	guet	1	g ue t
@@ -2129,10 +2129,10 @@
 046/039	gurt	1	g ur t
 046/041	gud	1	g u d
 046/043	god	1	g o d
-046/045	NA	NA	- - - - - - -
+046/045	NA	NA	-
 046/047	gäut	1	g äu t
 046/049	geot	1	g eo t
-046/051	NA	NA	- - - - - - -
+046/051	NA	NA	-
 046/053	geut	1	g eu t
 046/055	geut	1	g eu t
 046/057	gäut	1	g äu t
@@ -2165,7 +2165,7 @@
 046/111	gut	1	g u t
 046/113	jut	1	j u t
 046/115	gut	1	g u t
-046/117	NA	NA	- - - - - - -
+046/117	NA	NA	-
 046/119	gut	1	g u t
 046/121	gut	1	g u t
 046/123	gut	1	g u t
@@ -2191,7 +2191,7 @@
 047/047	guot	1	g uo t
 047/049	giäut	1	g iäu t
 047/051	geut	1	g eu t
-047/053	NA	NA	- - - - - - -
+047/053	NA	NA	-
 047/055	gaout	1	g aou t
 047/057	cheot	1	ch eo t
 047/059	got	1	g o t
@@ -2224,7 +2224,7 @@
 047/113	jut	1	j u t
 047/115	gut	1	g u t
 047/117	gut	1	g u t
-047/119	NA	NA	- - - - - - -
+047/119	NA	NA	-
 047/123	gut	1	g u t
 047/125	gut	1	g u t
 047/127	gut	1	g u t
@@ -2271,7 +2271,7 @@
 048/083	gut	1	g u t
 048/085	gut	1	g u t
 048/087	jut	1	j u t
-048/089	NA	NA	- - - - - - -
+048/089	NA	NA	-
 048/091	jut	1	j u t
 048/093	guet	1	g ue t
 048/095	jut	1	j u t
@@ -2401,7 +2401,7 @@
 050/087	jut	1	j u t
 050/089	jut	1	j u t
 050/091	jut	1	j u t
-050/093	NA	NA	- - - - - - -
+050/093	NA	NA	-
 050/095	gut	1	g u t
 050/097	chut	1	ch u t
 050/099	jut	1	j u t
@@ -2430,7 +2430,7 @@
 050/147	gutt	1	g u tt
 050/149	gutt	1	g u tt
 050/151	gut	1	g u t
-050/155	NA	NA	- - - - - - -
+050/155	NA	NA	-
 050/157	gut	1	g u t
 050/159	gut	1	g u t
 050/161	gutt	1	g u tt
@@ -2447,7 +2447,7 @@
 051/043	gurt	1	g ur t
 051/045	gutt	1	g u tt
 051/047	guat	1	g ua t
-051/049	NA	NA	- - - - - - -
+051/049	NA	NA	-
 051/051	gutt	1	g u tt
 051/053	gut	1	g u t
 051/055	gutt	1	g u tt
@@ -2600,7 +2600,7 @@
 053/079	gut	1	g u t
 053/081	gaud	1	g au d
 053/083	jut	1	j u t
-053/085	NA	NA	- - - - - - -
+053/085	NA	NA	-
 053/087	gut	1	g u t
 053/089	gut	1	g u t
 053/091	gut	1	g u t
@@ -2970,7 +2970,7 @@
 058/125	gudt	1	g u dt
 058/127	gutt	1	g u tt
 058/129	gutt	1	g u tt
-058/131	NA	NA	- - - - - - -
+058/131	NA	NA	-
 058/133	gutt	1	g u tt
 058/135	gutt	1	g u tt
 058/137	gutt	1	g u tt
@@ -2988,7 +2988,7 @@
 059/019	got	1	g o t
 059/021	jot	1	j o t
 059/023	jot	1	j o t
-059/025	NA	NA	- - - - - - -
+059/025	NA	NA	-
 059/027	jot	1	j o t
 059/029	god	1	g o d
 059/031	good	1	g oo d
@@ -3028,9 +3028,9 @@
 059/099	gut	1	g u t
 059/101	gut	1	g u t
 059/103	gudd	1	g u dd
-059/105	NA	NA	- - - - - - -
+059/105	NA	NA	-
 059/107	gudd	1	g u dd
-059/109	NA	NA	- - - - - - -
+059/109	NA	NA	-
 059/111	gut	1	g u t
 059/113	gutt	1	g u tt
 059/115	gutt	1	g u tt
@@ -3058,7 +3058,7 @@
 059/159	gutt	1	g u tt
 059/161	gutt	1	g u tt
 059/165	gutt	1	g u tt
-059/169	NA	NA	- - - - - - -
+059/169	NA	NA	-
 060/021	gott	1	g o tt
 060/023	jood	1	j oo d
 060/025	got	1	g o t
@@ -3073,7 +3073,7 @@
 060/043	gut	1	g u t
 060/045	got	1	g o t
 060/047	gout	1	g ou t
-060/049	NA	NA	- - - - - - -
+060/049	NA	NA	-
 060/051	gutt	1	g u tt
 060/053	gutt	1	g u tt
 060/055	gutt	1	g u tt
@@ -3081,7 +3081,7 @@
 060/059	gutt	1	g u tt
 060/061	gutt	1	g u tt
 060/063	got	1	g o t
-060/065	NA	NA	- - - - - - -
+060/065	NA	NA	-
 060/067	god	1	g o d
 060/069	gut	1	g u t
 060/071	gut	1	g u t
@@ -3198,7 +3198,7 @@
 061/153	gutt	1	g u tt
 061/155	gutt	1	g u tt
 061/157	gutt	1	g u tt
-061/159	NA	NA	- - - - - - -
+061/159	NA	NA	-
 061/161	gutt	1	g u tt
 061/165	gut	1	g u t
 062/021	jot	1	j o t
@@ -3258,12 +3258,12 @@
 062/129	gut	1	g u t
 062/131	gutt	1	g u tt
 062/133	gutt	1	g u tt
-062/135	NA	NA	- - - - - - -
+062/135	NA	NA	-
 062/137	gutt	1	g u tt
 062/139	gutt	1	g u tt
 062/141	gut	1	g u t
 062/143	gutt	1	g u tt
-062/145	NA	NA	- - - - - - -
+062/145	NA	NA	-
 062/147	gutt	1	g u tt
 062/149	gutt	1	g u tt
 062/151	gutt	1	g u tt
@@ -3324,11 +3324,11 @@
 063/119	gut	1	g u t
 063/121	gutt	1	g u tt
 063/123	gutt	1	g u tt
-063/125	NA	NA	- - - - - - -
+063/125	NA	NA	-
 063/127	gutt	1	g u tt
 063/135	gutt	1	g u tt
 063/137	gut	1	g u t
-063/139	NA	NA	- - - - - - -
+063/139	NA	NA	-
 063/141	gutt	1	g u tt
 063/143	guut	1	g uu t
 063/145	gutt	1	g u tt
@@ -3349,7 +3349,7 @@
 064/031	jot	1	j o t
 064/033	jot	1	j o t
 064/035	got	1	g o t
-064/037	NA	NA	- - - - - - -
+064/037	NA	NA	-
 064/039	got	1	g o t
 064/041	goot	1	g oo t
 064/043	gout	1	g ou t
@@ -3363,7 +3363,7 @@
 064/059	gut	1	g u t
 064/061	gut	1	g u t
 064/063	god	1	g o d
-064/065	NA	NA	- - - - - - -
+064/065	NA	NA	-
 064/067	got	1	g o t
 064/069	guit	1	g ui t
 064/071	gut	1	g u t
@@ -3390,13 +3390,13 @@
 064/113	gutt	1	g u tt
 064/115	gutt	1	g u tt
 064/117	gutt	1	g u tt
-064/119	NA	NA	- - - - - - -
+064/119	NA	NA	-
 064/121	gutt	1	g u tt
 064/123	gutt	1	g u tt
 064/125	gutt	1	g u tt
 064/127	gut	1	g u t
 064/135	gutt	1	g u tt
-064/137	NA	NA	- - - - - - -
+064/137	NA	NA	-
 064/139	gutt	1	g u tt
 064/141	gutt	1	g u tt
 064/143	gut	1	g u t
@@ -3450,10 +3450,10 @@
 065/101	gut	1	g u t
 065/103	gut	1	g u t
 065/105	gut	1	g u t
-065/107	NA	NA	- - - - - - -
+065/107	NA	NA	-
 065/109	gut	1	g u t
 065/111	gut	1	g u t
-065/113	NA	NA	- - - - - - -
+065/113	NA	NA	-
 065/115	gut	1	g u t
 065/121	gutt	1	g u tt
 065/123	gutt	1	g u tt
@@ -3469,7 +3469,7 @@
 065/157	gutt	1	g u tt
 065/159	gutt	1	g u tt
 066/021	goht	1	g oh t
-066/023	NA	NA	- - - - - - -
+066/023	NA	NA	-
 066/025	jot	1	j o t
 066/027	goht	1	g oh t
 066/029	gut	1	g u t
@@ -3586,7 +3586,7 @@
 067/159	gut	1	g u t
 067/161	gutt	1	g u tt
 067/163	gutt	1	g u tt
-067/165	NA	NA	- - - - - - -
+067/165	NA	NA	-
 067/177	gutt	1	g u tt
 068/021	joet	1	j oe t
 068/023	jot	1	j o t
@@ -3610,7 +3610,7 @@
 068/059	goud	1	g ou d
 068/061	gut	1	g u t
 068/063	gout	1	g ou t
-068/065	NA	NA	- - - - - - -
+068/065	NA	NA	-
 068/067	guät	1	g uä t
 068/069	gut	1	g u t
 068/071	guat	1	g ua t
@@ -3625,7 +3625,7 @@
 068/089	gut	1	g u t
 068/091	gut	1	g u t
 068/093	gout	1	g ou t
-068/095	NA	NA	- - - - - - -
+068/095	NA	NA	-
 068/097	gout	1	g ou t
 068/099	gout	1	g ou t
 068/101	gout	1	g ou t
@@ -3692,13 +3692,13 @@
 069/111	gut	1	g u t
 069/147	gutt	1	g u tt
 069/149	gutt	1	g u tt
-069/151	NA	NA	- - - - - - -
-069/153	NA	NA	- - - - - - -
+069/151	NA	NA	-
+069/153	NA	NA	-
 069/157	gutt	1	g u tt
 069/159	gutt	1	g u tt
 069/161	gut	1	g u t
 069/163	guitt	1	g ui tt
-069/165	NA	NA	- - - - - - -
+069/165	NA	NA	-
 070/019	gut	1	g u t
 070/023	gut	1	g u t
 070/025	gut	1	g u t
@@ -3708,7 +3708,7 @@
 070/033	got	1	g o t
 070/035	got	1	g o t
 070/037	got	1	g o t
-070/039	NA	NA	- - - - - - -
+070/039	NA	NA	-
 070/041	gut	1	g u t
 070/043	gut	1	g u t
 070/045	gut	1	g u t
@@ -3755,7 +3755,7 @@
 070/159	gutt	1	g u tt
 070/161	gutt	1	g u tt
 070/163	guit	1	g ui t
-070/165	NA	NA	- - - - - - -
+070/165	NA	NA	-
 071/017	gut	1	g u t
 071/019	gutt	1	g u tt
 071/021	gut	1	g u t
@@ -3767,13 +3767,13 @@
 071/033	goud	1	g ou d
 071/035	gut	1	g u t
 071/037	gut	1	g u t
-071/039	NA	NA	- - - - - - -
+071/039	NA	NA	-
 071/041	gut	1	g u t
 071/043	gut	1	g u t
 071/045	gut	1	g u t
 071/047	gut	1	g u t
 071/049	gut	1	g u t
-071/051	NA	NA	- - - - - - -
+071/051	NA	NA	-
 071/053	gut	1	g u t
 071/055	gut	1	g u t
 071/057	gut	1	g u t
@@ -3786,7 +3786,7 @@
 071/073	guat	1	g ua t
 071/075	guat	1	g ua t
 071/077	gut	1	g u t
-071/079	NA	NA	- - - - - - -
+071/079	NA	NA	-
 071/081	gut	1	g u t
 071/083	gut	1	g u t
 071/085	gut	1	g u t
@@ -3799,8 +3799,8 @@
 071/099	gout	1	g ou t
 071/101	goud	1	g ou d
 071/103	gout	1	g ou t
-071/105	NA	NA	- - - - - - -
-071/145	NA	NA	- - - - - - -
+071/105	NA	NA	-
+071/145	NA	NA	-
 071/147	gut	1	g u t
 071/149	gut	1	g u t
 071/151	gut	1	g u t
@@ -3818,7 +3818,7 @@
 072/023	gutt	1	g u tt
 072/025	got	1	g o t
 072/027	guot	1	g uo t
-072/029	NA	NA	- - - - - - -
+072/029	NA	NA	-
 072/031	gout	1	g ou t
 072/033	gout	1	g ou t
 072/035	gut	1	g u t
@@ -3827,7 +3827,7 @@
 072/041	gut	1	g u t
 072/043	gut	1	g u t
 072/045	gut	1	g u t
-072/047	NA	NA	- - - - - - -
+072/047	NA	NA	-
 072/049	gut	1	g u t
 072/051	gud	1	g u d
 072/053	gud	1	g u d
@@ -3843,7 +3843,7 @@
 072/073	guat	1	g ua t
 072/075	guet	1	g ue t
 072/077	gut	1	g u t
-072/079	NA	NA	- - - - - - -
+072/079	NA	NA	-
 072/081	gut	1	g u t
 072/083	gut	1	g u t
 072/085	gut	1	g u t
@@ -3854,7 +3854,7 @@
 072/095	guat	1	g ua t
 072/097	gout	1	g ou t
 072/099	gout	1	g ou t
-072/101	NA	NA	- - - - - - -
+072/101	NA	NA	-
 072/103	gout	1	g ou t
 072/105	gout	1	g ou t
 072/107	gout	1	g ou t
@@ -3862,7 +3862,7 @@
 072/147	gut	1	g u t
 072/149	gout	1	g ou t
 072/151	goout	1	g oou t
-072/153	NA	NA	- - - - - - -
+072/153	NA	NA	-
 072/155	gut	1	g u t
 072/157	gut	1	g u t
 072/159	gutt	1	g u tt
@@ -3904,7 +3904,7 @@
 073/079	guut	1	g uu t
 073/081	gut	1	g u t
 073/083	gut	1	g u t
-073/085	NA	NA	- - - - - - -
+073/085	NA	NA	-
 073/087	gut	1	g u t
 073/089	gout	1	g ou t
 073/091	göut	1	g öu t
@@ -3917,20 +3917,20 @@
 073/105	gout	1	g ou t
 073/107	gout	1	g ou t
 073/145	gjaut	1	gj au t
-073/147	NA	NA	- - - - - - -
+073/147	NA	NA	-
 073/149	gout	1	g ou t
 073/151	gout	1	g ou t
 073/153	gut	1	g u t
 073/155	gutt	1	g u tt
-073/157	NA	NA	- - - - - - -
-073/159	NA	NA	- - - - - - -
+073/157	NA	NA	-
+073/159	NA	NA	-
 073/161	gut	1	g u t
 073/163	gud	1	g u d
 073/165	gut	1	g u t
-073/175	NA	NA	- - - - - - -
+073/175	NA	NA	-
 073/177	güt	1	g ü t
 074/019	gutt	1	g u tt
-074/021	NA	NA	- - - - - - -
+074/021	NA	NA	-
 074/023	gut	1	g u t
 074/025	got	1	g o t
 074/027	got	1	g o t
@@ -3954,7 +3954,7 @@
 074/063	gut	1	g u t
 074/065	guat	1	g ua t
 074/067	guat	1	g ua t
-074/069	NA	NA	- - - - - - -
+074/069	NA	NA	-
 074/071	guat	1	g ua t
 074/073	gut	1	g u t
 074/075	gut	1	g u t
@@ -3969,7 +3969,7 @@
 074/093	gout	1	g ou t
 074/095	gout	1	g ou t
 074/097	gout	1	g ou t
-074/099	NA	NA	- - - - - - -
+074/099	NA	NA	-
 074/101	gout	1	g ou t
 074/103	gout	1	g ou t
 074/105	gout	1	g ou t
@@ -3994,7 +3994,7 @@
 075/031	gout	1	g ou t
 075/033	gutt	1	g u tt
 075/035	gud	1	g u d
-075/037	NA	NA	- - - - - - -
+075/037	NA	NA	-
 075/039	gut	1	g u t
 075/041	gut	1	g u t
 075/043	gud	1	g u d
@@ -4007,13 +4007,13 @@
 075/057	gut	1	g u t
 075/059	gut	1	g u t
 075/061	gut	1	g u t
-075/063	NA	NA	- - - - - - -
+075/063	NA	NA	-
 075/065	gut	1	g u t
 075/067	guat	1	g ua t
 075/069	guat	1	g ua t
 075/071	guat	1	g ua t
 075/073	gut	1	g u t
-075/075	NA	NA	- - - - - - -
+075/075	NA	NA	-
 075/077	gut	1	g u t
 075/079	gut	1	g u t
 075/081	gut	1	g u t
@@ -4033,26 +4033,26 @@
 075/135	gut	1	g u t
 075/145	giut	1	g iu t
 075/147	geut	1	g eu t
-075/149	NA	NA	- - - - - - -
+075/149	NA	NA	-
 075/155	gut	1	g u t
 075/157	gut	1	g u t
 075/159	gut	1	g u t
 075/161	gut	1	g u t
 075/163	gut	1	g u t
-075/165	NA	NA	- - - - - - -
+075/165	NA	NA	-
 076/019	gut	1	g u t
 076/021	gut	1	g u t
-076/023	NA	NA	- - - - - - -
+076/023	NA	NA	-
 076/025	göut	1	g öu t
 076/027	got	1	g o t
 076/029	got	1	g o t
 076/033	gutt	1	g u tt
-076/035	NA	NA	- - - - - - -
+076/035	NA	NA	-
 076/037	gud	1	g u d
 076/039	gut	1	g u t
 076/041	gut	1	g u t
 076/043	gut	1	g u t
-076/045	NA	NA	- - - - - - -
+076/045	NA	NA	-
 076/047	gud	1	g u d
 076/049	gud	1	g u d
 076/051	guud	1	g uu d
@@ -4087,7 +4087,7 @@
 076/149	gut	1	g u t
 076/151	gut	1	g u t
 076/155	gut	1	g u t
-076/161	NA	NA	- - - - - - -
+076/161	NA	NA	-
 076/163	gut	1	g u t
 076/165	gut	1	g u t
 077/019	gutt	1	g u tt
@@ -4173,10 +4173,10 @@
 078/095	gout	1	g ou t
 078/097	guat	1	g ua t
 078/099	guad	1	g ua d
-078/101	NA	NA	- - - - - - -
+078/101	NA	NA	-
 078/103	guot	1	g uo t
 078/105	guat	1	g ua t
-078/135	NA	NA	- - - - - - -
+078/135	NA	NA	-
 078/193	kut	1	k u t
 079/021	guet	1	g ue t
 079/023	gutt	1	g u tt
@@ -4226,7 +4226,7 @@
 079/193	gut	1	g u t
 079/195	gutt	1	g u tt
 079/197	gut	1	g u t
-080/025	NA	NA	- - - - - - -
+080/025	NA	NA	-
 080/027	gutt	1	g u tt
 080/029	gutt	1	g u tt
 080/031	gudd	1	g u dd
@@ -4237,7 +4237,7 @@
 080/041	gut	1	g u t
 080/043	gut	1	g u t
 080/045	guhd	1	g uh d
-080/047	NA	NA	- - - - - - -
+080/047	NA	NA	-
 080/049	gut	1	g u t
 080/051	gud	1	g u d
 080/053	gut	1	g u t
@@ -4246,7 +4246,7 @@
 080/059	gud	1	g u d
 080/061	guuat	1	g uua t
 080/063	gut	1	g u t
-080/065	NA	NA	- - - - - - -
+080/065	NA	NA	-
 080/067	guad	1	g ua d
 080/069	guat	1	g ua t
 080/071	guat	1	g ua t
@@ -4274,7 +4274,7 @@
 080/151	gut	1	g u t
 080/153	guat	1	g ua t
 080/193	gut	1	g u t
-080/195	NA	NA	- - - - - - -
+080/195	NA	NA	-
 081/025	gut	1	g u t
 081/027	gutt	1	g u tt
 081/029	gut	1	g u t
@@ -4297,7 +4297,7 @@
 081/065	guat	1	g ua t
 081/067	guuad	1	g uua d
 081/069	guet	1	g ue t
-081/071	NA	NA	- - - - - - -
+081/071	NA	NA	-
 081/073	guat	1	g ua t
 081/075	guat	1	g ua t
 081/077	guet	1	g ue t
@@ -4312,7 +4312,7 @@
 081/095	guat	1	g ua t
 081/097	guat	1	g ua t
 081/099	guat	1	g ua t
-081/101	NA	NA	- - - - - - -
+081/101	NA	NA	-
 081/103	guat	1	g ua t
 081/105	guat	1	g ua t
 081/107	guat	1	g ua t
@@ -4323,8 +4323,8 @@
 081/133	guit	1	g ui t
 081/147	guit	1	g ui t
 081/191	gut	1	g u t
-081/193	NA	NA	- - - - - - -
-081/195	NA	NA	- - - - - - -
+081/193	NA	NA	-
+081/195	NA	NA	-
 082/027	guut	1	g uu t
 082/029	gud	1	g u d
 082/031	gut	1	g u t
@@ -4363,7 +4363,7 @@
 082/097	guat	1	g ua t
 082/099	guat	1	g ua t
 082/101	guot	1	g uo t
-082/103	NA	NA	- - - - - - -
+082/103	NA	NA	-
 082/105	guat	1	g ua t
 082/107	guat	1	g ua t
 082/111	guat	1	g ua t
@@ -4374,19 +4374,19 @@
 082/133	guit	1	g ui t
 082/135	guit	1	g ui t
 082/145	guit	1	g ui t
-082/147	NA	NA	- - - - - - -
+082/147	NA	NA	-
 082/191	gut	1	g u t
 082/195	gut	1	g u t
 083/027	gutt	1	g u tt
 083/029	gudd	1	g u dd
-083/031	NA	NA	- - - - - - -
+083/031	NA	NA	-
 083/033	gudd	1	g u dd
 083/035	gut	1	g u t
 083/037	gut	1	g u t
 083/039	güat	1	g üa t
 083/041	güet	1	g üe t
 083/043	guud	1	g uu d
-083/045	NA	NA	- - - - - - -
+083/045	NA	NA	-
 083/047	gut	1	g u t
 083/049	gud	1	g u d
 083/051	gut	1	g u t
@@ -4421,7 +4421,7 @@
 083/111	guat	1	g ua t
 083/113	guat	1	g ua t
 083/115	guat	1	g ua t
-083/117	NA	NA	- - - - - - -
+083/117	NA	NA	-
 083/119	guat	1	g ua t
 083/121	guat	1	g ua t
 083/129	guit	1	g ui t
@@ -4454,7 +4454,7 @@
 084/063	guat	1	g ua t
 084/065	guad	1	g ua d
 084/067	guet	1	g ue t
-084/069	NA	NA	- - - - - - -
+084/069	NA	NA	-
 084/071	gut	1	g u t
 084/073	guat	1	g ua t
 084/075	guat	1	g ua t
@@ -4479,7 +4479,7 @@
 084/113	gut	1	g u t
 084/115	guat	1	g ua t
 084/117	guat	1	g ua t
-084/119	NA	NA	- - - - - - -
+084/119	NA	NA	-
 084/129	guid	1	g ui d
 084/131	guit	1	g ui t
 084/133	guid	1	g ui d
@@ -4494,7 +4494,7 @@
 084/171	guut	1	g uu t
 084/173	guut	1	g uu t
 084/195	gut	1	g u t
-085/031	NA	NA	- - - - - - -
+085/031	NA	NA	-
 085/033	gut	1	g u t
 085/035	gutt	1	g u tt
 085/037	guat	1	g ua t
@@ -4533,7 +4533,7 @@
 085/105	guad	1	g ua d
 085/107	guad	1	g ua d
 085/109	guad	1	g ua d
-085/111	NA	NA	- - - - - - -
+085/111	NA	NA	-
 085/113	guat	1	g ua t
 085/115	guat	1	g ua t
 085/117	guat	1	g ua t
@@ -4688,7 +4688,7 @@
 088/051	guet	1	g ue t
 088/053	guot	1	g uo t
 088/055	guat	1	g ua t
-088/057	NA	NA	- - - - - - -
+088/057	NA	NA	-
 088/059	guet	1	g ue t
 088/061	guat	1	g ua t
 088/063	guat	1	g ua t
@@ -4715,7 +4715,7 @@
 088/105	guot	1	g uo t
 088/107	guat	1	g ua t
 088/109	guad	1	g ua d
-088/113	NA	NA	- - - - - - -
+088/113	NA	NA	-
 088/115	guat	1	g ua t
 088/117	guat	1	g ua t
 088/121	guat	1	g ua t
@@ -4731,7 +4731,7 @@
 088/147	guit	1	g ui t
 088/149	guit	1	g ui t
 089/035	güat	1	g üa t
-089/037	NA	NA	- - - - - - -
+089/037	NA	NA	-
 089/039	güat	1	g üa t
 089/041	göat	1	g öa t
 089/043	guäd	1	g uä d
@@ -4774,7 +4774,7 @@
 089/117	guat	1	g ua t
 089/119	guat	1	g ua t
 089/121	guad	1	g ua d
-089/123	NA	NA	- - - - - - -
+089/123	NA	NA	-
 089/125	guad	1	g ua d
 089/127	guat	1	g ua t
 089/129	guad	1	g ua d
@@ -4813,7 +4813,7 @@
 090/079	guat	1	g ua t
 090/081	guat	1	g ua t
 090/083	guat	1	g ua t
-090/085	NA	NA	- - - - - - -
+090/085	NA	NA	-
 090/087	gut	1	g u t
 090/089	guat	1	g ua t
 090/091	guat	1	g ua t
@@ -4824,7 +4824,7 @@
 090/101	guat	1	g ua t
 090/103	gut	1	g u t
 090/105	guat	1	g ua t
-090/107	NA	NA	- - - - - - -
+090/107	NA	NA	-
 090/109	guat	1	g ua t
 090/111	guat	1	g ua t
 090/113	guad	1	g ua d
@@ -4976,7 +4976,7 @@
 093/055	guat	1	g ua t
 093/057	guat	1	g ua t
 093/059	guat	1	g ua t
-093/061	NA	NA	- - - - - - -
+093/061	NA	NA	-
 093/063	guat	1	g ua t
 093/065	guet	1	g ue t
 093/067	guat	1	g ua t
@@ -4997,7 +4997,7 @@
 093/097	guat	1	g ua t
 093/099	guat	1	g ua t
 093/101	guat	1	g ua t
-093/103	NA	NA	- - - - - - -
+093/103	NA	NA	-
 093/105	guat	1	g ua t
 093/109	guat	1	g ua t
 093/111	guad	1	g ua d
@@ -5037,7 +5037,7 @@
 094/059	guat	1	g ua t
 094/061	guat	1	g ua t
 094/063	guat	1	g ua t
-094/065	NA	NA	- - - - - - -
+094/065	NA	NA	-
 094/067	guat	1	g ua t
 094/069	guadd	1	g ua dd
 094/071	guat	1	g ua t
@@ -5112,7 +5112,7 @@
 095/085	guat	1	g ua t
 095/087	guat	1	g ua t
 095/089	guad	1	g ua d
-095/091	NA	NA	- - - - - - -
+095/091	NA	NA	-
 095/093	guat	1	g ua t
 095/095	guad	1	g ua d
 095/097	guat	1	g ua t
@@ -5137,7 +5137,7 @@
 095/141	guat	1	g ua t
 095/143	guat	1	g ua t
 095/145	guit	1	g ui t
-095/147	NA	NA	- - - - - - -
+095/147	NA	NA	-
 095/149	guit	1	g ui t
 095/151	guit	1	g ui t
 095/153	kuit	1	k ui t
@@ -5159,7 +5159,7 @@
 096/059	guat	1	g ua t
 096/061	guat	1	g ua t
 096/063	guot	1	g uo t
-096/065	NA	NA	- - - - - - -
+096/065	NA	NA	-
 096/067	guat	1	g ua t
 096/069	guat	1	g ua t
 096/071	guat	1	g ua t
@@ -5192,7 +5192,7 @@
 096/129	guad	1	g ua d
 096/131	guuat	1	g uua t
 096/135	guad	1	g ua d
-096/137	NA	NA	- - - - - - -
+096/137	NA	NA	-
 096/139	guat	1	g ua t
 096/141	guat	1	g ua t
 096/143	guat	1	g ua t
@@ -5206,7 +5206,7 @@
 097/035	güet	1	g üe t
 097/037	göät	1	g öä t
 097/039	guet	1	g ue t
-097/041	NA	NA	- - - - - - -
+097/041	NA	NA	-
 097/043	guet	1	g ue t
 097/045	guat	1	g ua t
 097/047	guat	1	g ua t
@@ -5238,7 +5238,7 @@
 097/099	guat	1	g ua t
 097/103	guat	1	g ua t
 097/105	guad	1	g ua d
-097/107	NA	NA	- - - - - - -
+097/107	NA	NA	-
 097/109	guad	1	g ua d
 097/113	guat	1	g ua t
 097/125	guat	1	g ua t
@@ -5264,7 +5264,7 @@
 098/055	guat	1	g ua t
 098/057	guad	1	g ua d
 098/059	guet	1	g ue t
-098/061	NA	NA	- - - - - - -
+098/061	NA	NA	-
 098/063	guat	1	g ua t
 098/065	guat	1	g ua t
 098/067	guat	1	g ua t
@@ -5286,11 +5286,11 @@
 098/103	guat	1	g ua t
 098/105	guat	1	g ua t
 098/107	guat	1	g ua t
-098/109	NA	NA	- - - - - - -
+098/109	NA	NA	-
 098/111	guat	1	g ua t
-098/119	NA	NA	- - - - - - -
+098/119	NA	NA	-
 098/123	guat	1	g ua t
-098/125	NA	NA	- - - - - - -
+098/125	NA	NA	-
 098/127	guat	1	g ua t
 098/135	guat	1	g ua t
 098/137	guat	1	g ua t
@@ -5300,7 +5300,7 @@
 098/145	guit	1	g ui t
 098/147	guat	1	g ua t
 098/149	guit	1	g ui t
-098/151	NA	NA	- - - - - - -
+098/151	NA	NA	-
 099/033	güat	1	g üa t
 099/035	güat	1	g üa t
 099/037	güet	1	g üe t
@@ -5359,7 +5359,7 @@
 100/053	guet	1	g ue t
 100/055	guet	1	g ue t
 100/057	guet	1	g ue t
-100/059	NA	NA	- - - - - - -
+100/059	NA	NA	-
 100/061	guet	1	g ue t
 100/065	guät	1	g uä t
 100/067	guet	1	g ue t
@@ -5374,7 +5374,7 @@
 100/093	guad	1	g ua d
 100/095	guat	1	g ua t
 100/097	guot	1	g uo t
-100/099	NA	NA	- - - - - - -
+100/099	NA	NA	-
 100/101	guat	1	g ua t
 100/109	guat	1	g ua t
 100/111	guat	1	g ua t
@@ -5434,7 +5434,7 @@
 101/141	guat	1	g ua t
 101/143	guat	1	g ua t
 101/145	kuit	1	k ui t
-101/147	NA	NA	- - - - - - -
+101/147	NA	NA	-
 102/037	guet	1	g ue t
 102/039	guet	1	g ue t
 102/041	guet	1	g ue t
@@ -5489,7 +5489,7 @@
 103/053	guet	1	g ue t
 103/055	guet	1	g ue t
 103/057	guet	1	g ue t
-103/059	NA	NA	- - - - - - -
+103/059	NA	NA	-
 103/063	guet	1	g ue t
 103/065	guat	1	g ua t
 103/067	guad	1	g ua d
@@ -5536,14 +5536,14 @@
 104/055	guät	1	g uä t
 104/057	guät	1	g uä t
 104/059	guet	1	g ue t
-104/061	NA	NA	- - - - - - -
+104/061	NA	NA	-
 104/063	guat	1	g ua t
 104/065	guat	1	g ua t
 104/067	gout	1	g ou t
 104/071	guat	1	g ua t
 104/075	guat	1	g ua t
 104/077	guat	1	g ua t
-104/079	NA	NA	- - - - - - -
+104/079	NA	NA	-
 104/081	guet	1	g ue t
 104/083	guat	1	g ua t
 104/085	guet	1	g ue t
@@ -5557,7 +5557,7 @@
 104/119	guat	1	g ua t
 104/121	guat	1	g ua t
 104/123	guuat	1	g uua t
-104/125	NA	NA	- - - - - - -
+104/125	NA	NA	-
 104/127	guat	1	g ua t
 104/131	guat	1	g ua t
 104/133	guat	1	g ua t
@@ -5593,9 +5593,9 @@
 105/077	guat	1	g ua t
 105/079	guat	1	g ua t
 105/081	guat	1	g ua t
-105/085	NA	NA	- - - - - - -
+105/085	NA	NA	-
 105/087	guet	1	g ue t
-105/089	NA	NA	- - - - - - -
+105/089	NA	NA	-
 105/103	guat	1	g ua t
 105/105	gut	1	g u t
 105/111	guat	1	g ua t
@@ -5649,7 +5649,7 @@
 106/131	guat	1	g ua t
 106/133	guat	1	g ua t
 106/135	guat	1	g ua t
-106/137	NA	NA	- - - - - - -
+106/137	NA	NA	-
 106/139	guat	1	g ua t
 106/141	guit	1	g ui t
 106/143	guid	1	g ui d
@@ -5683,12 +5683,12 @@
 107/107	guat	1	g ua t
 107/111	guat	1	g ua t
 107/119	guat	1	g ua t
-107/121	NA	NA	- - - - - - -
+107/121	NA	NA	-
 107/123	guat	1	g ua t
 107/125	guet	1	g ue t
 107/127	guat	1	g ua t
-107/129	NA	NA	- - - - - - -
-107/131	NA	NA	- - - - - - -
+107/129	NA	NA	-
+107/131	NA	NA	-
 107/133	guat	1	g ua t
 107/135	guat	1	g ua t
 107/137	guat	1	g ua t
@@ -5699,7 +5699,7 @@
 108/035	guet	1	g ue t
 108/037	guet	1	g ue t
 108/039	guet	1	g ue t
-108/041	NA	NA	- - - - - - -
+108/041	NA	NA	-
 108/043	guet	1	g ue t
 108/047	gued	1	g ue d
 108/049	guät	1	g uä t
@@ -5711,8 +5711,8 @@
 108/081	guet	1	g ue t
 108/085	guat	1	g ua t
 108/087	guit	1	g ui t
-108/091	NA	NA	- - - - - - -
-108/099	NA	NA	- - - - - - -
+108/091	NA	NA	-
+108/099	NA	NA	-
 108/101	guet	1	g ue t
 108/103	guat	1	g ua t
 108/105	guet	1	g ue t
@@ -5756,7 +5756,7 @@
 109/101	guet	1	g ue t
 109/103	gut	1	g u t
 109/107	guet	1	g ue t
-109/109	NA	NA	- - - - - - -
+109/109	NA	NA	-
 109/111	guet	1	g ue t
 109/113	guat	1	g ua t
 109/115	guat	1	g ua t
@@ -5768,7 +5768,7 @@
 109/127	guat	1	g ua t
 109/129	guat	1	g ua t
 109/131	guat	1	g ua t
-109/133	NA	NA	- - - - - - -
+109/133	NA	NA	-
 109/135	guat	1	g ua t
 109/137	gut	1	g u t
 109/139	guat	1	g ua t
@@ -5787,7 +5787,7 @@
 110/081	guet	1	g ue t
 110/083	guet	1	g ue t
 110/087	guat	1	g ua t
-110/089	NA	NA	- - - - - - -
+110/089	NA	NA	-
 110/091	guit	1	g ui t
 110/093	guit	1	g ui t
 110/095	guit	1	g ui t
@@ -5798,7 +5798,7 @@
 110/107	guat	1	g ua t
 110/111	guat	1	g ua t
 110/113	guat	1	g ua t
-110/115	NA	NA	- - - - - - -
+110/115	NA	NA	-
 110/117	gut	1	g u t
 110/119	guat	1	g ua t
 110/121	guet	1	g ue t
@@ -5850,7 +5850,7 @@
 112/085	guat	1	g ua t
 112/111	guat	1	g ua t
 112/115	guat	1	g ua t
-112/117	NA	NA	- - - - - - -
+112/117	NA	NA	-
 112/119	guat	1	g ua t
 113/035	guet	1	g ue t
 113/037	guet	1	g ue t
@@ -5867,13 +5867,13 @@
 114/045	guot	1	g uo t
 114/083	guat	1	g ua t
 114/085	guat	1	g ua t
-115/041	NA	NA	- - - - - - -
+115/041	NA	NA	-
 115/043	güot	1	g üo t
-115/045	NA	NA	- - - - - - -
+115/045	NA	NA	-
 115/083	guat	1	g ua t
 115/085	guat	1	g ua t
-116/043	NA	NA	- - - - - - -
-116/045	NA	NA	- - - - - - -
+116/043	NA	NA	-
+116/045	NA	NA	-
 116/083	guat	1	g ua t
 117/043	giot	1	g io t
 117/045	guät	1	g uä t

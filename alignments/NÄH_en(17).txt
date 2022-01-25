@@ -45,7 +45,7 @@
 011/059	sy	5	s y - - -
 011/061	sy	5	s y - - -
 011/063	sy	5	s y - - -
-011/065	NA	NA	- - - - - -
+011/065	NA	NA	-
 011/067	sy	5	s y - - -
 011/069	sye	5	s ye - - -
 011/187	neg	1	n e g
@@ -197,10 +197,10 @@
 015/209	neg	1	n e g
 015/211	neg	1	n e g
 015/213	neg	1	n e g
-015/215	NA	NA	- - - - - -
+015/215	NA	NA	-
 015/217	nög	1	n ö g
 015/219	neeg	1	n ee g
-015/221	NA	NA	- - - - - -
+015/221	NA	NA	-
 016/051	sei	5	s ei - - -
 016/055	säie	5	s äie - - -
 016/057	neih	1	n eih -
@@ -226,7 +226,7 @@
 016/161	neig	1	n ei g
 016/163	neig	1	n ei g
 016/165	neih	1	n eih -
-016/167	NA	NA	- - - - - -
+016/167	NA	NA	-
 016/187	neg	1	n e g
 016/189	neg	1	n e g
 016/191	nej	1	n e j
@@ -249,7 +249,7 @@
 017/061	nei	1	n ei -
 017/063	neih	1	n eih -
 017/065	neih	1	n eih -
-017/067	NA	NA	- - - - - -
+017/067	NA	NA	-
 017/069	neih	1	n eih -
 017/081	neih	1	n eih -
 017/083	neih	1	n eih -
@@ -281,7 +281,7 @@
 017/197	neeg	1	n ee g
 017/199	neg	1	n e g
 017/201	neg	1	n e g
-017/203	NA	NA	- - - - - -
+017/203	NA	NA	-
 017/205	neg	1	n e g
 017/207	neg	1	n e g
 017/209	neg	1	n e g
@@ -300,7 +300,7 @@
 018/065	nei	1	n ei -
 018/067	neih	1	n eih -
 018/069	nei	1	n ei -
-018/071	NA	NA	- - - - - -
+018/071	NA	NA	-
 018/073	nai	1	n ai -
 018/075	neih	1	n eih -
 018/079	neih	1	n eih -
@@ -391,7 +391,7 @@
 019/183	neeg	1	n ee g
 019/185	neg	1	n e g
 019/187	neg	1	n e g
-019/189	NA	NA	- - - - - -
+019/189	NA	NA	-
 019/191	nej	1	n e j
 019/193	neg	1	n e g
 019/195	neg	1	n e g
@@ -435,7 +435,7 @@
 020/139	neg	1	n e g
 020/141	nejj	1	n e jj
 020/143	nej	1	n e j
-020/145	NA	NA	- - - - - -
+020/145	NA	NA	-
 020/147	neg	1	n e g
 020/149	neg	1	n e g
 020/151	näh	1	n äh -
@@ -465,7 +465,7 @@
 020/199	neg	1	n e g
 020/201	neeg	1	n ee g
 020/203	neg	1	n e g
-020/205	NA	NA	- - - - - -
+020/205	NA	NA	-
 020/207	neg	1	n e g
 020/209	neg	1	n e g
 020/211	neeg	1	n ee g
@@ -528,7 +528,7 @@
 021/183	neg	1	n e g
 021/185	näh	1	n äh -
 021/187	näh	1	n äh -
-021/189	NA	NA	- - - - - -
+021/189	NA	NA	-
 021/191	näh	1	n äh -
 021/193	näh	1	n äh -
 021/195	näh	1	n äh -
@@ -543,7 +543,7 @@
 021/217	neg	1	n e g
 021/219	neeg	1	n ee g
 022/055	neih	1	n eih -
-022/057	NA	NA	- - - - - -
+022/057	NA	NA	-
 022/059	neih	1	n eih -
 022/061	neih	1	n eih -
 022/063	neih	1	n eih -
@@ -573,7 +573,7 @@
 022/129	neh	1	n eh -
 022/131	neg	1	n e g
 022/133	neg	1	n e g
-022/135	NA	NA	- - - - - -
+022/135	NA	NA	-
 022/137	neg	1	n e g
 022/139	neg	1	n e g
 022/141	neg	1	n e g
@@ -582,13 +582,13 @@
 022/147	neh	1	n eh -
 022/149	neg	1	n e g
 022/151	neg	1	n e g
-022/153	NA	NA	- - - - - -
+022/153	NA	NA	-
 022/155	niäg	1	n iä g
 022/157	neeg	1	n ee g
 022/159	näg	1	n ä g
 022/165	nij	1	n i j
 022/167	nähg	1	n äh g
-022/169	NA	NA	- - - - - -
+022/169	NA	NA	-
 022/171	nei	1	n ei -
 022/173	neih	1	n eih -
 022/175	neih	1	n eih -
@@ -608,7 +608,7 @@
 022/203	neg	1	n e g
 022/205	nög	1	n ö g
 022/209	neeg	1	n ee g
-022/211	NA	NA	- - - - - -
+022/211	NA	NA	-
 022/215	nüg	1	n ü g
 022/217	nöhg	1	n öh g
 022/219	neg	1	n e g
@@ -665,7 +665,7 @@
 023/167	nigg	1	n i gg
 023/169	neih	1	n eih -
 023/175	nei	1	n ei -
-023/177	NA	NA	- - - - - -
+023/177	NA	NA	-
 023/179	näh	1	n äh -
 023/181	näh	1	n äh -
 023/183	näh	1	n äh -
@@ -779,7 +779,7 @@
 025/091	nei	1	n ei -
 025/093	neig	1	n ei g
 025/095	neih	1	n eih -
-025/099	NA	NA	- - - - - -
+025/099	NA	NA	-
 025/101	neih	1	n eih -
 025/103	neigg	1	n ei gg
 025/105	neig	1	n ei g
@@ -803,7 +803,7 @@
 025/147	nej	1	n e j
 025/149	neg	1	n e g
 025/151	näg	1	n ä g
-025/153	NA	NA	- - - - - -
+025/153	NA	NA	-
 025/155	neg	1	n e g
 025/157	neg	1	n e g
 025/159	nei	1	n ei -
@@ -888,7 +888,7 @@
 027/035	nei	1	n ei -
 027/037	nei	1	n ei -
 027/039	neih	1	n eih -
-027/041	NA	NA	- - - - - -
+027/041	NA	NA	-
 027/043	nei	1	n ei -
 027/045	neid	1	n ei d
 027/047	nei	1	n ei -
@@ -932,7 +932,7 @@
 027/129	neg	1	n e g
 027/131	nehg	1	n eh g
 027/135	näj	1	n ä j
-027/137	NA	NA	- - - - - -
+027/137	NA	NA	-
 027/139	neeg	1	n ee g
 027/141	näg	1	n ä g
 027/143	neg	1	n e g
@@ -1018,7 +1018,7 @@
 028/159	näj	1	n ä j
 028/161	nehj	1	n eh j
 028/165	neg	1	n e g
-028/169	NA	NA	- - - - - -
+028/169	NA	NA	-
 028/171	neih	1	n eih -
 028/173	nai	1	n ai -
 028/175	neih	1	n eih -
@@ -1034,12 +1034,12 @@
 029/043	nei	1	n ei -
 029/045	neih	1	n eih -
 029/047	neih	1	n eih -
-029/049	NA	NA	- - - - - -
+029/049	NA	NA	-
 029/051	neih	1	n eih -
-029/053	NA	NA	- - - - - -
+029/053	NA	NA	-
 029/055	neih	1	n eih -
 029/057	neih	1	n eih -
-029/059	NA	NA	- - - - - -
+029/059	NA	NA	-
 029/061	neih	1	n eih -
 029/065	neih	1	n eih -
 029/067	i	NA	i - - - - -
@@ -1052,7 +1052,7 @@
 029/081	neih	1	n eih -
 029/083	neh	1	n eh -
 029/085	nee	1	n ee -
-029/087	NA	NA	- - - - - -
+029/087	NA	NA	-
 029/089	neh	1	n eh -
 029/091	neid	1	n ei d
 029/093	neid	1	n ei d
@@ -1084,7 +1084,7 @@
 029/145	näg	1	n ä g
 029/147	nähg	1	n äh g
 029/149	nej	1	n e j
-029/151	NA	NA	- - - - - -
+029/151	NA	NA	-
 029/153	näg	1	n ä g
 029/155	neg	1	n e g
 029/157	neg	1	n e g
@@ -1105,9 +1105,9 @@
 030/039	nei	1	n ei -
 030/041	nei	1	n ei -
 030/043	neih	1	n eih -
-030/045	NA	NA	- - - - - -
+030/045	NA	NA	-
 030/047	nei	1	n ei -
-030/049	NA	NA	- - - - - -
+030/049	NA	NA	-
 030/051	nei	1	n ei -
 030/053	neih	1	n eih -
 030/055	nih	1	n ih -
@@ -1123,11 +1123,11 @@
 030/079	nei	1	n ei -
 030/081	nei	1	n ei -
 030/083	neih	1	n eih -
-030/085	NA	NA	- - - - - -
+030/085	NA	NA	-
 030/087	nej	1	n e j
 030/089	nehd	1	n eh d
 030/091	neid	1	n ei d
-030/093	NA	NA	- - - - - -
+030/093	NA	NA	-
 030/095	neih	1	n eih -
 030/097	nei	1	n ei -
 030/099	neig	1	n ei g
@@ -1173,7 +1173,7 @@
 030/179	negg	1	n e gg
 030/181	nij	1	n i j
 030/183	nigg	1	n i gg
-031/035	NA	NA	- - - - - -
+031/035	NA	NA	-
 031/037	neij	1	n ei j
 031/039	neih	1	n eih -
 031/041	nei	1	n ei -
@@ -1235,7 +1235,7 @@
 031/153	neg	1	n e g
 031/155	nähg	1	n äh g
 031/157	neeg	1	n ee g
-031/159	NA	NA	- - - - - -
+031/159	NA	NA	-
 031/161	neg	1	n e g
 031/163	neg	1	n e g
 031/167	neih	1	n eih -
@@ -1249,13 +1249,13 @@
 032/037	ny	1	n y -
 032/039	nei	1	n ei -
 032/041	neih	1	n eih -
-032/043	NA	NA	- - - - - -
-032/045	NA	NA	- - - - - -
-032/047	NA	NA	- - - - - -
+032/043	NA	NA	-
+032/045	NA	NA	-
+032/047	NA	NA	-
 032/049	nei	1	n ei -
 032/051	nei	1	n ei -
 032/053	neih	1	n eih -
-032/055	NA	NA	- - - - - -
+032/055	NA	NA	-
 032/057	neih	1	n eih -
 032/059	nei	1	n ei -
 032/061	neih	1	n eih -
@@ -1273,7 +1273,7 @@
 032/089	näh	1	n äh -
 032/091	näh	1	n äh -
 032/093	näh	1	n äh -
-032/095	NA	NA	- - - - - -
+032/095	NA	NA	-
 032/097	näh	1	n äh -
 032/099	näh	1	n äh -
 032/101	neih	1	n eih -
@@ -1319,8 +1319,8 @@
 033/039	nei	1	n ei -
 033/041	nei	1	n ei -
 033/043	nei	1	n ei -
-033/045	NA	NA	- - - - - -
-033/047	NA	NA	- - - - - -
+033/045	NA	NA	-
+033/047	NA	NA	-
 033/049	nei	1	n ei -
 033/051	nei	1	n ei -
 033/053	nei	1	n ei -
@@ -1328,7 +1328,7 @@
 033/057	nei	1	n ei -
 033/059	neih	1	n eih -
 033/061	neih	1	n eih -
-033/063	NA	NA	- - - - - -
+033/063	NA	NA	-
 033/065	neih	1	n eih -
 033/067	nei	1	n ei -
 033/069	neih	1	n eih -
@@ -1414,7 +1414,7 @@
 034/091	näh	1	n äh -
 034/093	nähj	1	n äh j
 034/095	näg	1	n ä g
-034/097	NA	NA	- - - - - -
+034/097	NA	NA	-
 034/099	nähj	1	n äh j
 034/101	näg	1	n ä g
 034/103	näg	1	n ä g
@@ -1423,7 +1423,7 @@
 034/109	näj	1	n ä j
 034/111	näg	1	n ä g
 034/113	näg	1	n ä g
-034/115	NA	NA	- - - - - -
+034/115	NA	NA	-
 034/117	näg	1	n ä g
 034/119	näg	1	n ä g
 034/121	näg	1	n ä g
@@ -2228,7 +2228,7 @@
 047/123	naj	1	n a j
 047/125	nahj	1	n ah j
 047/127	niäh	1	n iäh -
-047/129	NA	NA	- - - - - -
+047/129	NA	NA	-
 047/131	niah	1	n iah -
 047/133	niah	1	n iah -
 047/135	näh	1	n äh -
@@ -2314,7 +2314,7 @@
 049/039	nai	1	n ai -
 049/041	niech	1	n ie ch
 049/043	nei	1	n ei -
-049/045	NA	NA	- - - - - -
+049/045	NA	NA	-
 049/047	nägg	1	n ä gg
 049/049	nagg	1	n a gg
 049/051	nägg	1	n ä gg
@@ -2382,7 +2382,7 @@
 050/049	näg	1	n ä g
 050/051	nägg	1	n ä gg
 050/053	niägg	1	n iä gg
-050/055	NA	NA	- - - - - -
+050/055	NA	NA	-
 050/057	näjj	1	n ä jj
 050/059	negg	1	n e gg
 050/061	nägg	1	n ä gg
@@ -3151,7 +3151,7 @@
 061/057	näh	1	n äh -
 061/059	naj	1	n a j
 061/061	mache	2	m a ch e - -
-061/063	NA	NA	- - - - - -
+061/063	NA	NA	-
 061/065	näh	1	n äh -
 061/067	näh	1	n äh -
 061/069	näh	1	n äh -
@@ -4203,7 +4203,7 @@
 079/067	näh	1	n äh -
 079/069	näw	1	n ä w
 079/071	näab	1	n äa b
-079/073	NA	NA	- - - - - -
+079/073	NA	NA	-
 079/075	neh	1	n eh -
 079/077	näh	1	n äh -
 079/079	neh	1	n eh -
@@ -4875,7 +4875,7 @@
 091/087	nah	1	n ah -
 091/091	nah	1	n ah -
 091/093	naah	1	n aah -
-091/095	NA	NA	- - - - - -
+091/095	NA	NA	-
 091/097	na	1	n a -
 091/099	na	1	n a -
 091/101	mocha	2	m o ch a - -
@@ -4894,7 +4894,7 @@
 091/131	nah	1	n ah -
 091/133	nah	1	n ah -
 091/135	nah	1	n ah -
-091/137	NA	NA	- - - - - -
+091/137	NA	NA	-
 091/139	nah	1	n ah -
 091/141	machn	2	m a ch - n -
 091/143	na	1	n a -
@@ -5334,7 +5334,7 @@
 099/103	macha	2	m a ch a - -
 099/105	macha	2	m a ch a - -
 099/107	nah	1	n ah -
-099/109	NA	NA	- - - - - -
+099/109	NA	NA	-
 099/111	ma	2	m a - - - -
 099/113	nah	1	n ah -
 099/121	mocha	2	m o ch a - -
@@ -5712,7 +5712,7 @@
 108/085	na	1	n a -
 108/087	naa	1	n aa -
 108/091	mochn	2	m o ch - n -
-108/099	NA	NA	- - - - - -
+108/099	NA	NA	-
 108/101	nah	1	n ah -
 108/103	nah	1	n ah -
 108/105	nah	1	n ah -

@@ -14,7 +14,7 @@
 007/207	mot	1	m o t
 007/209	mott	1	m o tt
 007/211	mot	1	m o t
-008/199	NA	NA	- - - - -
+008/199	NA	NA	-
 008/203	mot	1	m o t
 008/205	mott	1	m o tt
 008/207	mot	1	m o t
@@ -439,7 +439,7 @@
 020/147	mut	1	m u t
 020/149	mutt	1	m u tt
 020/151	mut	1	m u t
-020/153	NA	NA	- - - - -
+020/153	NA	NA	-
 020/155	mutt	1	m u tt
 020/157	mutt	1	m u tt
 020/159	mut	1	m u t
@@ -4225,7 +4225,7 @@
 079/135	muss	1	m u ss
 079/193	moss	1	m o ss
 079/195	muss	1	m u ss
-079/197	NA	NA	- - - - -
+079/197	NA	NA	-
 080/025	moss	1	m o ss
 080/027	muss	1	m u ss
 080/029	muss	1	m u ss
@@ -4460,7 +4460,7 @@
 084/075	muass	1	m ua ss
 084/077	muass	1	m ua ss
 084/079	muass	1	m ua ss
-084/081	NA	NA	- - - - -
+084/081	NA	NA	-
 084/083	muass	1	m ua ss
 084/085	mäus	1	m äu s
 084/087	moiss	1	m oi ss
@@ -5224,7 +5224,7 @@
 097/071	muass	1	m ua ss
 097/073	muass	1	m ua ss
 097/075	muass	1	m ua ss
-097/077	NA	NA	- - - - -
+097/077	NA	NA	-
 097/079	muass	1	m ua ss
 097/081	muess	1	m ue ss
 097/083	muass	1	m ua ss
@@ -5687,7 +5687,7 @@
 107/123	ma	1	m a -
 107/125	muass	1	m ua ss
 107/127	muass	1	m ua ss
-107/129	NA	NA	- - - - -
+107/129	NA	NA	-
 107/131	muass	1	m ua ss
 107/133	muass	1	m ua ss
 107/135	muass	1	m ua ss

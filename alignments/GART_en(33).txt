@@ -666,7 +666,7 @@
 023/169	god	1	- g - o - - - d
 023/175	gord	1	- g - o r - - d
 023/177	gort	1	- g - o r - - t
-023/179	NA	NA	- - - - - - -
+023/179	NA	NA	-
 023/181	goart	1	- g - oa r - - t
 023/183	gaort	1	- g - ao r - - t
 023/185	gaort	1	- g - ao r - - t
@@ -1295,7 +1295,7 @@
 032/135	got	1	- g - o - - - t
 032/139	god	1	- g - o - - - d
 032/141	god	1	- g - o - - - d
-032/143	NA	NA	- - - - - - -
+032/143	NA	NA	-
 032/145	gaud	1	- g - au - - - d
 032/147	gaud	1	- g - au - - - d
 032/149	gaud	1	- g - au - - - d
@@ -1768,7 +1768,7 @@
 040/033	gor	1	- g - o r - - -
 040/035	goar	1	- g - oa r - - -
 040/037	gor	1	- g - o r - - -
-040/039	NA	NA	- - - - - - -
+040/039	NA	NA	-
 040/041	gar	1	- g - a r - - -
 040/043	gor	1	- g - o r - - -
 040/045	goar	1	- g - oa r - - -
@@ -1821,7 +1821,7 @@
 040/143	gort	1	- g - o r - - t
 040/149	gart	1	- g - a r - - t
 040/153	hof	2	- h o f -
-040/155	NA	NA	- - - - - - -
+040/155	NA	NA	-
 041/031	gor	1	- g - o r - - -
 041/033	gor	1	- g - o r - - -
 041/035	goar	1	- g - oa r - - -
@@ -2140,7 +2140,7 @@
 046/061	gar	1	- g - a r - - -
 046/063	gar	1	- g - a r - - -
 046/065	gahr	1	- g - ah r - - -
-046/067	NA	NA	- - - - - - -
+046/067	NA	NA	-
 046/069	gar	1	- g - a r - - -
 046/071	gaar	1	- g - aa r - - -
 046/073	gaar	1	- g - aa r - - -
@@ -3492,7 +3492,7 @@
 066/063	goat	1	- g - oa - - - t
 066/065	goat	1	- g - oa - - - t
 066/067	goat	1	- g - oa - - - t
-066/069	NA	NA	- - - - - - -
+066/069	NA	NA	-
 066/071	gort	1	- g - o r - - t
 066/073	gart	1	- g - a r - - t
 066/075	gort	1	- g - o r - - t
@@ -3602,7 +3602,7 @@
 068/043	jot	1	- j - o - - - t
 068/045	gaart	1	- g - aa r - - t
 068/047	gaart	1	- g - aa r - - t
-068/049	NA	NA	- - - - - - -
+068/049	NA	NA	-
 068/051	goat	1	- g - oa - - - t
 068/053	gord	1	- g - o r - - d
 068/055	goat	1	- g - oa - - - t
@@ -3703,7 +3703,7 @@
 070/023	goart	1	- g - oa r - - t
 070/025	goat	1	- g - oa - - - t
 070/027	god	1	- g - o - - - d
-070/029	NA	NA	- - - - - - -
+070/029	NA	NA	-
 070/031	gord	1	- g - o r - - d
 070/033	gort	1	- g - o r - - t
 070/035	gart	1	- g - a r - - t
@@ -3904,7 +3904,7 @@
 073/079	gat	1	- g - a - - - t
 073/081	gat	1	- g - a - - - t
 073/083	gatt	1	- g - a - - - tt
-073/085	NA	NA	- - - - - - -
+073/085	NA	NA	-
 073/087	gat	1	- g - a - - - t
 073/089	goart	1	- g - oa r - - t
 073/091	gart	1	- g - a r - - t
@@ -4459,7 +4459,7 @@
 084/073	gard	1	- g - a r - - d
 084/075	gard	1	- g - a r - - d
 084/077	gart	1	- g - a r - - t
-084/079	NA	NA	- - - - - - -
+084/079	NA	NA	-
 084/081	gart	1	- g - a r - - t
 084/083	gart	1	- g - a r - - t
 084/085	gaard	1	- g - aa r - - d
@@ -4684,7 +4684,7 @@
 088/043	gard	1	- g - a r - - d
 088/045	gart	1	- g - a r - - t
 088/047	gaart	1	- g - aa r - - t
-088/049	NA	NA	- - - - - - -
+088/049	NA	NA	-
 088/051	gaard	1	- g - aa r - - d
 088/053	gart	1	- g - a r - - t
 088/055	gord	1	- g - o r - - d
@@ -4922,7 +4922,7 @@
 092/065	gat	1	- g - a - - - t
 092/067	gaat	1	- g - aa - - - t
 092/069	gaat	1	- g - aa - - - t
-092/071	NA	NA	- - - - - - -
+092/071	NA	NA	-
 092/073	gart	1	- g - a r - - t
 092/075	gart	1	- g - a r - - t
 092/077	gad	1	- g - a - - - d
@@ -4939,7 +4939,7 @@
 092/099	gart	1	- g - a r - - t
 092/101	gart	1	- g - a r - - t
 092/103	goat	1	- g - oa - - - t
-092/105	NA	NA	- - - - - - -
+092/105	NA	NA	-
 092/107	gort	1	- g - o r - - t
 092/109	gart	1	- g - a r - - t
 092/111	gart	1	- g - a r - - t
@@ -5069,7 +5069,7 @@
 094/123	goad	1	- g - oa - - - d
 094/125	goad	1	- g - oa - - - d
 094/127	goad	1	- g - oa - - - d
-094/129	NA	NA	- - - - - - -
+094/129	NA	NA	-
 094/131	goad	1	- g - oa - - - d
 094/133	gord	1	- g - o r - - d
 094/135	gart	1	- g - a r - - t
@@ -5423,7 +5423,7 @@
 101/107	goschd	1	- g - o - sch - d
 101/109	goscht	1	- g - o - sch - t
 101/113	goscht	1	- g - o - sch - t
-101/115	NA	NA	- - - - - - -
+101/115	NA	NA	-
 101/121	goschd	1	- g - o - sch - d
 101/125	gort	1	- g - o r - - t
 101/129	goat	1	- g - oa - - - t
@@ -5763,7 +5763,7 @@
 109/117	gort	1	- g - o r - - t
 109/119	goart	1	- g - oa r - - t
 109/121	gort	1	- g - o r - - t
-109/123	NA	NA	- - - - - - -
+109/123	NA	NA	-
 109/125	gort	1	- g - o r - - t
 109/127	gort	1	- g - o r - - t
 109/129	goat	1	- g - oa - - - t
@@ -5774,7 +5774,7 @@
 109/139	gort	1	- g - o r - - t
 110/035	gart	1	- g - a r - - t
 110/039	gart	1	- g - a r - - t
-110/041	NA	NA	- - - - - - -
+110/041	NA	NA	-
 110/043	gart	1	- g - a r - - t
 110/045	gart	1	- g - a r - - t
 110/047	gart	1	- g - a r - - t
@@ -5804,7 +5804,7 @@
 110/121	gort	1	- g - o r - - t
 110/125	gort	1	- g - o r - - t
 110/127	garnt	1	- g - a r n - t
-110/129	NA	NA	- - - - - - -
+110/129	NA	NA	-
 110/131	gort	1	- g - o r - - t
 110/133	gort	1	- g - o r - - t
 110/135	gort	1	- g - o r - - t
@@ -5845,7 +5845,7 @@
 112/061	gart	1	- g - a r - - t
 112/063	gort	1	- g - o r - - t
 112/075	gort	1	- g - o r - - t
-112/081	NA	NA	- - - - - - -
+112/081	NA	NA	-
 112/083	gort	1	- g - o r - - t
 112/085	gort	1	- g - o r - - t
 112/111	gort	1	- g - o r - - t

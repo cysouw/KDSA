@@ -121,7 +121,7 @@
 013/213	rod	1	r o d - -
 013/215	rod	1	r o d - -
 013/217	rod	1	r o d - -
-013/219	NA	NA	- - - - - -
+013/219	NA	NA	-
 013/221	rod	1	r o d - -
 013/223	rod	1	r o d - -
 014/047	ruad	1	r ua d - -
@@ -292,7 +292,7 @@
 017/219	rod	1	r o d - -
 018/051	rod	1	r o d - -
 018/053	rod	1	r o d - -
-018/055	NA	NA	- - - - - -
+018/055	NA	NA	-
 018/057	rood	1	r oo d - -
 018/059	rohr	1	r oh r - -
 018/061	ror	1	r o r - -
@@ -619,7 +619,7 @@
 023/065	rod	1	r o d - -
 023/067	rod	1	r o d - -
 023/069	roi	1	r oi - - -
-023/071	NA	NA	- - - - - -
+023/071	NA	NA	-
 023/073	roh	1	r oh - - -
 023/075	roh	1	r oh - - -
 023/077	ro	1	r o - - -
@@ -1114,7 +1114,7 @@
 030/057	rohr	1	r oh r - -
 030/059	ru	1	r u - - -
 030/061	ro	1	r o - - -
-030/065	NA	NA	- - - - - -
+030/065	NA	NA	-
 030/067	rod	1	r o d - -
 030/071	ror	1	r o r - -
 030/073	ro	1	r o - - -
@@ -1415,7 +1415,7 @@
 034/093	rooj	1	r ooj - - -
 034/095	rog	1	r o g - -
 034/097	rohj	1	r ohj - - -
-034/099	NA	NA	- - - - - -
+034/099	NA	NA	-
 034/101	rooj	1	r ooj - - -
 034/103	rog	1	r o g - -
 034/105	ror	1	r o r - -
@@ -2128,7 +2128,7 @@
 046/037	raud	1	r au d - -
 046/039	raud	1	r au d - -
 046/041	raud	1	r au d - -
-046/043	NA	NA	- - - - - -
+046/043	NA	NA	-
 046/045	rö	1	r ö - - -
 046/047	rau	1	r au - - -
 046/049	rau	1	r au - - -
@@ -2320,7 +2320,7 @@
 049/051	räu	1	r äu - - -
 049/053	rau	1	r au - - -
 049/055	räu	1	r äu - - -
-049/057	NA	NA	- - - - - -
+049/057	NA	NA	-
 049/059	rau	1	r au - - -
 049/061	rauh	1	r auh - - -
 049/063	rau	1	r au - - -
@@ -2416,7 +2416,7 @@
 050/117	rod	1	r o d - -
 050/119	rot	1	r o t - -
 050/121	roth	1	r o th - -
-050/125	NA	NA	- - - - - -
+050/125	NA	NA	-
 050/127	ruth	1	r u th - -
 050/129	ruth	1	r u th - -
 050/131	ruth	1	r u th - -
@@ -2581,7 +2581,7 @@
 053/041	roih	1	r oih - - -
 053/043	räu	1	r äu - - -
 053/045	räu	1	r äu - - -
-053/047	NA	NA	- - - - - -
+053/047	NA	NA	-
 053/049	räu	1	r äu - - -
 053/051	reih	1	r eih - - -
 053/053	räuh	1	r äuh - - -
@@ -2646,7 +2646,7 @@
 054/039	rou	1	r ou - - -
 054/041	ro	1	r o - - -
 054/043	räu	1	r äu - - -
-054/045	NA	NA	- - - - - -
+054/045	NA	NA	-
 054/047	räu	1	r äu - - -
 054/049	räu	1	r äu - - -
 054/051	räu	1	r äu - - -
@@ -2858,7 +2858,7 @@
 057/045	räu	1	r äu - - -
 057/047	räu	1	r äu - - -
 057/049	räü	1	r äü - - -
-057/051	NA	NA	- - - - - -
+057/051	NA	NA	-
 057/053	raud	1	r au d - -
 057/055	rodd	1	r o dd - -
 057/057	ror	1	r o r - -
@@ -3129,7 +3129,7 @@
 060/157	root	1	r oo t - -
 060/159	ruth	1	r u th - -
 060/163	rut	1	r u t - -
-060/165	NA	NA	- - - - - -
+060/165	NA	NA	-
 061/021	ru	1	r u - - -
 061/023	ruh	1	r uh - - -
 061/025	ruht	1	r uh t - -
@@ -3200,7 +3200,7 @@
 061/157	rutt	1	r u tt - -
 061/159	ruth	1	r u th - -
 061/161	ruth	1	r u th - -
-061/165	NA	NA	- - - - - -
+061/165	NA	NA	-
 062/021	ru	1	r u - - -
 062/023	ruht	1	r uh t - -
 062/025	rut	1	r u t - -
@@ -3845,7 +3845,7 @@
 072/077	rot	1	r o t - -
 072/079	rot	1	r o t - -
 072/081	rot	1	r o t - -
-072/083	NA	NA	- - - - - -
+072/083	NA	NA	-
 072/085	rot	1	r o t - -
 072/087	rut	1	r u t - -
 072/089	roth	1	r o th - -
@@ -3927,7 +3927,7 @@
 073/161	ruet	1	r ue t - -
 073/163	rot	1	r o t - -
 073/165	rot	1	r o t - -
-073/175	NA	NA	- - - - - -
+073/175	NA	NA	-
 073/177	röüt	1	r öü t - -
 074/019	ruot	1	r uo t - -
 074/021	rot	1	r o t - -
@@ -4040,7 +4040,7 @@
 075/161	rout	1	r ou t - -
 075/163	ruet	1	r ue t - -
 075/165	rot	1	r o t - -
-076/019	NA	NA	- - - - - -
+076/019	NA	NA	-
 076/021	roudd	1	r ou dd - -
 076/023	ruod	1	r uo d - -
 076/025	röud	1	r öu d - -
@@ -4446,7 +4446,7 @@
 084/047	rod	1	r o d - -
 084/049	rod	1	r o d - -
 084/051	rot	1	r o t - -
-084/053	NA	NA	- - - - - -
+084/053	NA	NA	-
 084/055	rot	1	r o t - -
 084/057	raod	1	r ao d - -
 084/059	raoth	1	r ao th - -
@@ -4485,7 +4485,7 @@
 084/133	rod	1	r o d - -
 084/135	rot	1	r o t - -
 084/137	rot	1	r o t - -
-084/139	NA	NA	- - - - - -
+084/139	NA	NA	-
 084/141	rot	1	r o t - -
 084/143	rot	1	r o t - -
 084/145	rod	1	r o d - -
@@ -4744,7 +4744,7 @@
 089/057	raud	1	r au d - -
 089/059	raod	1	r ao d - -
 089/061	raut	1	r au t - -
-089/063	NA	NA	- - - - - -
+089/063	NA	NA	-
 089/065	raud	1	r au d - -
 089/067	rout	1	r ou t - -
 089/069	roat	1	r oa t - -
@@ -4878,7 +4878,7 @@
 091/095	rod	1	r o d - -
 091/097	rooad	1	r ooa d - -
 091/099	roat	1	r oa t - -
-091/101	NA	NA	- - - - - -
+091/101	NA	NA	-
 091/103	rod	1	r o d - -
 091/105	raod	1	r ao d - -
 091/107	roid	1	r oi d - -
@@ -4922,7 +4922,7 @@
 092/065	rauth	1	r au th - -
 092/067	raut	1	r au t - -
 092/069	rod	1	r o d - -
-092/071	NA	NA	- - - - - -
+092/071	NA	NA	-
 092/073	roat	1	r oa t - -
 092/075	road	1	r oa d - -
 092/077	rooat	1	r ooa t - -
@@ -4990,7 +4990,7 @@
 093/083	roat	1	r oa t - -
 093/085	rout	1	r ou t - -
 093/087	rot	1	r o t - -
-093/089	NA	NA	- - - - - -
+093/089	NA	NA	-
 093/091	rot	1	r o t - -
 093/093	raod	1	r ao d - -
 093/095	rout	1	r ou t - -
@@ -5101,7 +5101,7 @@
 095/063	rot	1	r o t - -
 095/065	rot	1	r o t - -
 095/067	rot	1	r o t - -
-095/069	NA	NA	- - - - - -
+095/069	NA	NA	-
 095/071	rot	1	r o t - -
 095/073	rot	1	r o t - -
 095/075	roat	1	r oa t - -
@@ -5235,7 +5235,7 @@
 097/093	rout	1	r ou t - -
 097/095	roud	1	r ou d - -
 097/097	roat	1	r oa t - -
-097/099	NA	NA	- - - - - -
+097/099	NA	NA	-
 097/103	rot	1	r o t - -
 097/105	rout	1	r ou t - -
 097/107	rod	1	r o d - -
@@ -5390,7 +5390,7 @@
 100/135	rot	1	r o t - -
 100/141	rod	1	r o d - -
 100/143	rod	1	r o d - -
-100/145	NA	NA	- - - - - -
+100/145	NA	NA	-
 101/035	roth	1	r o th - -
 101/037	rot	1	r o t - -
 101/039	rot	1	r o t - -
@@ -5484,7 +5484,7 @@
 103/043	root	1	r oo t - -
 103/045	rot	1	r o t - -
 103/047	root	1	r oo t - -
-103/049	NA	NA	- - - - - -
+103/049	NA	NA	-
 103/051	rot	1	r o t - -
 103/053	rot	1	r o t - -
 103/055	root	1	r oo t - -
@@ -5547,7 +5547,7 @@
 104/081	roat	1	r oa t - -
 104/083	roat	1	r oa t - -
 104/085	roat	1	r oa t - -
-104/091	NA	NA	- - - - - -
+104/091	NA	NA	-
 104/095	rot	1	r o t - -
 104/101	rot	1	r o t - -
 104/103	rot	1	r o t - -
@@ -5627,7 +5627,7 @@
 106/057	rot	1	r o t - -
 106/061	rout	1	r ou t - -
 106/063	rot	1	r o t - -
-106/067	NA	NA	- - - - - -
+106/067	NA	NA	-
 106/071	rot	1	r o t - -
 106/073	roat	1	r oa t - -
 106/075	roat	1	r oa t - -
@@ -5657,7 +5657,7 @@
 107/033	rot	1	r o t - -
 107/035	roh	1	r oh - - -
 107/037	rot	1	r o t - -
-107/039	NA	NA	- - - - - -
+107/039	NA	NA	-
 107/041	rot	1	r o t - -
 107/043	rot	1	r o t - -
 107/045	rot	1	r o t - -
@@ -5878,7 +5878,7 @@
 117/043	rot	1	r o t - -
 117/045	rot	1	r o t - -
 118/041	rot	1	r o t - -
-119/083	NA	NA	- - - - - -
+119/083	NA	NA	-
 120/085	root	1	r oo t - -
 121/127	roat	1	r oa t - -
 122/127	roat	1	r oa t - -

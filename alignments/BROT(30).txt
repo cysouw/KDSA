@@ -439,7 +439,7 @@
 020/147	brot	1	b r o - t
 020/149	brod	1	b r o - d
 020/151	brot	1	b r o - t
-020/153	NA	NA	- - - - -
+020/153	NA	NA	-
 020/155	brot	1	b r o - t
 020/157	brot	1	b r o - t
 020/159	brot	1	b r o - t
@@ -468,7 +468,7 @@
 020/205	brohd	1	b r oh - d
 020/207	brod	1	b r o - d
 020/209	brot	1	b r o - t
-020/211	NA	NA	- - - - -
+020/211	NA	NA	-
 020/213	brot	1	b r o - t
 020/215	brod	1	b r o - d
 020/217	brot	1	b r o - t
@@ -516,7 +516,7 @@
 021/157	brot	1	b r o - t
 021/159	brot	1	b r o - t
 021/163	brod	1	b r o - d
-021/165	NA	NA	- - - - -
+021/165	NA	NA	-
 021/167	brod	1	b r o - d
 021/169	brot	1	b r o - t
 021/171	brot	1	b r o - t
@@ -1719,7 +1719,7 @@
 039/055	brod	1	b r o - d
 039/057	brod	1	b r o - d
 039/059	brod	1	b r o - d
-039/061	NA	NA	- - - - -
+039/061	NA	NA	-
 039/063	brood	1	b r oo - d
 039/065	brod	1	b r o - d
 039/067	brod	1	b r o - d
@@ -1866,7 +1866,7 @@
 041/113	brod	1	b r o - d
 041/115	brot	1	b r o - t
 041/117	brod	1	b r o - d
-041/119	NA	NA	- - - - -
+041/119	NA	NA	-
 041/121	brot	1	b r o - t
 041/123	brod	1	b r o - d
 041/125	brot	1	b r o - t
@@ -2045,7 +2045,7 @@
 044/107	brot	1	b r o - t
 044/109	brod	1	b r o - d
 044/111	brod	1	b r o - d
-044/113	NA	NA	- - - - -
+044/113	NA	NA	-
 044/115	brod	1	b r o - d
 044/117	brot	1	b r o - t
 044/119	brod	1	b r o - d
@@ -2065,7 +2065,7 @@
 044/151	bruth	1	b r u - th
 044/153	brut	1	b r u - t
 045/033	brod	1	b r o - d
-045/035	NA	NA	- - - - -
+045/035	NA	NA	-
 045/037	braut	1	b r au - t
 045/039	braud	1	b r au - d
 045/041	braut	1	b r au - t
@@ -2122,7 +2122,7 @@
 045/143	brud	1	b r u - d
 045/145	brud	1	b r u - d
 045/155	bruht	1	b r uh - t
-046/031	NA	NA	- - - - -
+046/031	NA	NA	-
 046/033	braut	1	b r au - t
 046/035	braut	1	b r au - t
 046/037	braud	1	b r au - d
@@ -2152,7 +2152,7 @@
 046/085	brot	1	b r o - t
 046/087	brod	1	b r o - d
 046/089	brot	1	b r o - t
-046/091	NA	NA	- - - - -
+046/091	NA	NA	-
 046/093	brod	1	b r o - d
 046/095	brod	1	b r o - d
 046/097	brod	1	b r o - d
@@ -2447,7 +2447,7 @@
 051/043	bräeut	1	b r äeu - t
 051/045	bräud	1	b r äu - d
 051/047	bräud	1	b r äu - d
-051/049	NA	NA	- - - - -
+051/049	NA	NA	-
 051/051	braut	1	b r au - t
 051/053	brod	1	b r o - d
 051/055	brät	1	b r ä - t
@@ -3177,7 +3177,7 @@
 061/109	brood	1	b r oo - d
 061/111	brut	1	b r u - t
 061/113	brud	1	b r u - d
-061/115	NA	NA	- - - - -
+061/115	NA	NA	-
 061/117	brot	1	b r o - t
 061/119	brut	1	b r u - t
 061/121	brot	1	b r o - t
@@ -3415,7 +3415,7 @@
 065/029	brut	1	b r u - t
 065/031	brud	1	b r u - d
 065/033	bruett	1	b r ue - tt
-065/035	NA	NA	- - - - -
+065/035	NA	NA	-
 065/037	brud	1	b r u - d
 065/039	brud	1	b r u - d
 065/041	bruut	1	b r uu - t
@@ -3490,7 +3490,7 @@
 066/059	broid	1	b r oi - d
 066/061	brod	1	b r o - d
 066/063	brot	1	b r o - t
-066/065	NA	NA	- - - - -
+066/065	NA	NA	-
 066/067	brout	1	b r ou - t
 066/069	brued	1	b r ue - d
 066/071	bruerd	1	b r uer - d
@@ -3557,7 +3557,7 @@
 067/073	brod	1	b r o - d
 067/075	brod	1	b r o - d
 067/077	brod	1	b r o - d
-067/079	NA	NA	- - - - -
+067/079	NA	NA	-
 067/081	bruet	1	b r ue - t
 067/083	brued	1	b r ue - d
 067/085	bruet	1	b r ue - t
@@ -4167,7 +4167,7 @@
 078/083	braud	1	b r au - d
 078/085	broud	1	b r ou - d
 078/087	braud	1	b r au - d
-078/089	NA	NA	- - - - -
+078/089	NA	NA	-
 078/091	braut	1	b r au - t
 078/093	braaut	1	b r aau - t
 078/095	brout	1	b r ou - t
@@ -4875,7 +4875,7 @@
 091/087	brod	1	b r o - d
 091/091	braoud	1	b r aou - d
 091/093	broud	1	b r ou - d
-091/095	NA	NA	- - - - -
+091/095	NA	NA	-
 091/097	breod	1	b r eo - d
 091/099	braüt	1	b r aü - t
 091/101	braud	1	b r au - d
@@ -5076,7 +5076,7 @@
 094/137	brod	1	b r o - d
 094/139	brod	1	b r o - d
 094/141	brot	1	b r o - t
-094/143	NA	NA	- - - - -
+094/143	NA	NA	-
 094/145	brod	1	b r o - d
 094/147	brod	1	b r o - d
 094/149	brot	1	b r o - t
@@ -5381,7 +5381,7 @@
 100/113	brout	1	b r ou - t
 100/115	brot	1	b r o - t
 100/117	brot	1	b r o - t
-100/119	NA	NA	- - - - -
+100/119	NA	NA	-
 100/121	brod	1	b r o - d
 100/125	brout	1	b r ou - t
 100/127	brot	1	b r o - t
@@ -5507,7 +5507,7 @@
 103/091	broat	1	b r oa - t
 103/097	brod	1	b r o - d
 103/099	broat	1	b r oa - t
-103/101	NA	NA	- - - - -
+103/101	NA	NA	-
 103/105	brot	1	b r o - t
 103/107	prod	1	p r o - d
 103/111	brout	1	b r ou - t
@@ -5715,7 +5715,7 @@
 108/099	bröet	1	b r öe - t
 108/101	broet	1	b r oe - t
 108/103	broat	1	b r oa - t
-108/105	NA	NA	- - - - -
+108/105	NA	NA	-
 108/109	brot	1	b r o - t
 108/111	broat	1	b r oa - t
 108/113	broat	1	b r oa - t
@@ -5819,7 +5819,7 @@
 111/059	brot	1	b r o - t
 111/073	broat	1	b r oa - t
 111/075	praat	1	p r aa - t
-111/077	NA	NA	- - - - -
+111/077	NA	NA	-
 111/079	broat	1	b r oa - t
 111/081	brout	1	b r ou - t
 111/083	brout	1	b r ou - t

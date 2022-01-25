@@ -2320,7 +2320,7 @@ locations	strings	cognateID	alignments
 049/051	bäm	1	b ä m -
 049/053	bäm	1	b ä m -
 049/055	beim	1	b ei m -
-049/057	NA	NA	- - - - - - - - - -
+049/057	NA	NA	-
 049/059	bäm	1	b ä m -
 049/061	baim	1	b ai m -
 049/063	bääim	1	b ääi m -
@@ -3810,7 +3810,7 @@ locations	strings	cognateID	alignments
 071/159	bäm	1	b ä m -
 071/161	bäm	1	b ä m -
 071/163	beim	1	b ei m -
-071/177	blöm	1	b lö m -
+071/177	blöm	1	bl ö m -
 071/179	bem	1	b e m -
 072/017	bem	1	b e m -
 072/019	bem	1	b e m -
@@ -4765,7 +4765,7 @@ locations	strings	cognateID	alignments
 089/099	bam	1	b a m -
 089/101	baam	1	b aa m -
 089/103	bam	1	b a m -
-089/105	NA	NA	- - - - - - - - - -
+089/105	NA	NA	-
 089/107	bam	1	b a m -
 089/109	bam	1	b a m -
 089/111	baim	1	b ai m -
@@ -5011,7 +5011,7 @@ locations	strings	cognateID	alignments
 093/127	dinga	2	- - - - d - i - ng a
 093/129	abfaltarn	2	a bf a l t - a r n -
 093/131	bam	1	b a m -
-093/133	NA	NA	- - - - - - - - - -
+093/133	NA	NA	-
 093/137	bom	1	b o m -
 093/139	bam	1	b a m -
 093/143	bäm	1	b ä m -

@@ -641,7 +641,7 @@
 023/109	söäl	1	s öä l
 023/111	säll	1	s ä ll
 023/113	sähl	1	s äh l
-023/115	NA	NA	- - - - -
+023/115	NA	NA	-
 023/117	süll	1	s ü ll
 023/121	säl	1	s ä l
 023/123	soel	1	s oe l
@@ -869,7 +869,7 @@
 026/143	scheul	1	sch eu l
 026/145	scholl	1	sch o ll
 026/147	scha	1	sch a -
-026/153	NA	NA	- - - - -
+026/153	NA	NA	-
 026/155	schoa	1	sch oa -
 026/157	soll	1	s o ll
 026/159	sah	1	s ah -
@@ -912,7 +912,7 @@
 027/085	säl	1	s ä l
 027/087	sael	1	s ae l
 027/089	säl	1	s ä l
-027/091	NA	NA	- - - - -
+027/091	NA	NA	-
 027/093	söll	1	s ö ll
 027/095	söäll	1	s öä ll
 027/099	säll	1	s ä ll
@@ -1541,7 +1541,7 @@
 036/083	schöll	1	sch ö ll
 036/085	söll	1	s ö ll
 036/087	söll	1	s ö ll
-036/089	NA	NA	- - - - -
+036/089	NA	NA	-
 036/091	söll	1	s ö ll
 036/095	söl	1	s ö l
 036/097	söll	1	s ö ll
@@ -1574,7 +1574,7 @@
 036/155	scha	1	sch a -
 036/161	soll	1	s o ll
 036/163	schall	1	sch a ll
-036/165	NA	NA	- - - - -
+036/165	NA	NA	-
 036/167	söo	1	s öo -
 036/169	sö	1	s ö -
 036/171	sell	1	s e ll
@@ -2448,7 +2448,7 @@
 051/045	sö	1	s ö -
 051/047	ssö	1	ss ö -
 051/049	sö	1	s ö -
-051/051	NA	NA	- - - - -
+051/051	NA	NA	-
 051/053	süll	1	s ü ll
 051/055	sü	1	s ü -
 051/057	sö	1	s ö -
@@ -2731,7 +2731,7 @@
 055/069	su	1	s u -
 055/071	su	1	s u -
 055/073	su	1	s u -
-055/075	NA	NA	- - - - -
+055/075	NA	NA	-
 055/077	su	1	s u -
 055/079	su	1	s u -
 055/081	sell	1	s e ll
@@ -2787,7 +2787,7 @@
 056/043	soll	1	s o ll
 056/045	so	1	s o -
 056/047	sall	1	s a ll
-056/049	NA	NA	- - - - -
+056/049	NA	NA	-
 056/051	sall	1	s a ll
 056/053	soll	1	s o ll
 056/055	sö	1	s ö -
@@ -3371,7 +3371,7 @@
 064/075	söll	1	s ö ll
 064/077	söll	1	s ö ll
 064/079	soll	1	s o ll
-064/081	NA	NA	- - - - -
+064/081	NA	NA	-
 064/083	soll	1	s o ll
 064/085	soll	1	s o ll
 064/087	sull	1	s u ll
@@ -3425,7 +3425,7 @@
 065/049	so	1	s o -
 065/051	so	1	s o -
 065/053	so	1	s o -
-065/055	NA	NA	- - - - -
+065/055	NA	NA	-
 065/057	so	1	s o -
 065/059	soll	1	s o ll
 065/061	so	1	s o -
@@ -3994,7 +3994,7 @@
 075/031	sell	1	s e ll
 075/033	soll	1	s o ll
 075/035	soll	1	s o ll
-075/037	NA	NA	- - - - -
+075/037	NA	NA	-
 075/039	soll	1	s o ll
 075/041	soll	1	s o ll
 075/043	soll	1	s o ll
@@ -5124,7 +5124,7 @@
 095/109	soll	1	s o ll
 095/111	soi	1	s oi -
 095/113	soll	1	s o ll
-095/115	NA	NA	- - - - -
+095/115	NA	NA	-
 095/117	soll	1	s o ll
 095/119	soll	1	s o ll
 095/121	soll	1	s o ll
@@ -5365,7 +5365,7 @@
 100/067	soll	1	s o ll
 100/069	soll	1	s o ll
 100/071	soll	1	s o ll
-100/073	NA	NA	- - - - -
+100/073	NA	NA	-
 100/075	söll	1	s ö ll
 100/077	soll	1	s o ll
 100/081	sul	1	s u l
@@ -5574,7 +5574,7 @@
 105/039	söu	1	s öu -
 105/041	sö	1	s ö -
 105/043	soll	1	s o ll
-105/045	NA	NA	- - - - -
+105/045	NA	NA	-
 105/047	sell	1	s e ll
 105/049	müem	2	m üe m -
 105/051	söll	1	s ö ll
@@ -5756,7 +5756,7 @@
 109/101	sol	1	s o l
 109/103	soll	1	s o ll
 109/107	soll	1	s o ll
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	soll	1	s o ll
 109/113	soll	1	s o ll
 109/115	schol	1	sch o l
@@ -5879,11 +5879,11 @@
 117/045	sell	1	s e ll
 118/041	sell	1	s e ll
 119/083	soll	1	s o ll
-120/085	NA	NA	- - - - -
+120/085	NA	NA	-
 121/127	shöll	1	sh ö ll
 122/127	scholl	1	sch o ll
 122/129	sholl	1	sh o ll
-123/081	NA	NA	- - - - -
+123/081	NA	NA	-
 123/123	shöll	1	sh ö ll
 123/125	bell	NA	b e ll - -
 123/127	shöll	1	sh ö ll

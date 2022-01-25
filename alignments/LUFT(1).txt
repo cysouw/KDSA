@@ -1163,7 +1163,7 @@
 030/159	luft	1	l u f t -
 030/161	luft	1	l u f t -
 030/163	luft	1	l u f t -
-030/165	NA	NA	- - - - - -
+030/165	NA	NA	-
 030/167	luft	1	l u f t -
 030/169	lofft	1	l o ff t -
 030/171	luft	1	l u f t -
@@ -2459,7 +2459,7 @@
 051/067	luft	1	l u f t -
 051/069	luft	1	l u f t -
 051/071	luft	1	l u f t -
-051/073	NA	NA	- - - - - -
+051/073	NA	NA	-
 051/075	luft	1	l u f t -
 051/077	luft	1	l u f t -
 051/079	luft	1	l u f t -
@@ -3330,7 +3330,7 @@
 063/137	loft	1	l o f t -
 063/139	loft	1	l o f t -
 063/141	loft	1	l o f t -
-063/143	NA	NA	- - - - - -
+063/143	NA	NA	-
 063/145	loft	1	l o f t -
 063/147	luft	1	l u f t -
 063/149	luft	1	l u f t -
@@ -4039,7 +4039,7 @@
 075/159	loft	1	l o f t -
 075/161	loft	1	l o f t -
 075/163	loft	1	l o f t -
-075/165	NA	NA	- - - - - -
+075/165	NA	NA	-
 076/019	luucht	1	l uu ch t -
 076/021	luut	1	l uu - t -
 076/023	lut	1	l u - t -
@@ -4108,7 +4108,7 @@
 077/051	luft	1	l u f t -
 077/053	luft	1	l u f t -
 077/055	luft	1	l u f t -
-077/057	NA	NA	- - - - - -
+077/057	NA	NA	-
 077/059	luft	1	l u f t -
 077/061	luft	1	l u f t -
 077/063	luuft	1	l uu f t -
@@ -4481,14 +4481,14 @@
 084/117	luft	1	l u f t -
 084/119	luft	1	l u f t -
 084/129	luft	1	l u f t -
-084/131	NA	NA	- - - - - -
+084/131	NA	NA	-
 084/133	luft	1	l u f t -
 084/135	luft	1	l u f t -
 084/137	luft	1	l u f t -
 084/139	luft	1	l u f t -
 084/141	luft	1	l u f t -
 084/143	luft	1	l u f t -
-084/145	NA	NA	- - - - - -
+084/145	NA	NA	-
 084/147	luft	1	l u f t -
 084/149	luft	1	l u f t -
 084/171	loft	1	l o f t -
@@ -4606,7 +4606,7 @@
 086/127	luft	1	l u f t -
 086/129	luft	1	l u f t -
 086/131	luft	1	l u f t -
-086/133	NA	NA	- - - - - -
+086/133	NA	NA	-
 086/135	luft	1	l u f t -
 086/137	luft	1	l u f t -
 086/139	luft	1	l u f t -
@@ -4717,7 +4717,7 @@
 088/109	luft	1	l u f t -
 088/113	luft	1	l u f t -
 088/115	luft	1	l u f t -
-088/117	NA	NA	- - - - - -
+088/117	NA	NA	-
 088/121	luft	1	l u f t -
 088/123	luft	1	l u f t -
 088/127	luft	1	l u f t -
@@ -4759,7 +4759,7 @@
 089/087	luft	1	l u f t -
 089/089	luft	1	l u f t -
 089/091	luft	1	l u f t -
-089/093	NA	NA	- - - - - -
+089/093	NA	NA	-
 089/095	luft	1	l u f t -
 089/097	luft	1	l u f t -
 089/099	luft	1	l u f t -
@@ -4813,7 +4813,7 @@
 090/079	luft	1	l u f t -
 090/081	luft	1	l u f t -
 090/083	luft	1	l u f t -
-090/085	NA	NA	- - - - - -
+090/085	NA	NA	-
 090/087	luft	1	l u f t -
 090/089	luft	1	l u f t -
 090/091	luft	1	l u f t -
@@ -4821,7 +4821,7 @@
 090/095	luft	1	l u f t -
 090/097	luft	1	l u f t -
 090/099	luft	1	l u f t -
-090/101	NA	NA	- - - - - -
+090/101	NA	NA	-
 090/103	luft	1	l u f t -
 090/105	luft	1	l u f t -
 090/107	luft	1	l u f t -
@@ -4830,7 +4830,7 @@
 090/113	luft	1	l u f t -
 090/115	luft	1	l u f t -
 090/119	luft	1	l u f t -
-090/121	NA	NA	- - - - - -
+090/121	NA	NA	-
 090/123	luft	1	l u f t -
 090/125	luft	1	l u f t -
 090/127	luft	1	l u f t -
@@ -4886,7 +4886,7 @@
 091/111	luft	1	l u f t -
 091/113	luft	1	l u f t -
 091/115	luft	1	l u f t -
-091/117	NA	NA	- - - - - -
+091/117	NA	NA	-
 091/119	luft	1	l u f t -
 091/121	luft	1	l u f t -
 091/125	luft	1	l u f t -
@@ -4993,7 +4993,7 @@
 093/089	luft	1	l u f t -
 093/091	luft	1	l u f t -
 093/093	luft	1	l u f t -
-093/095	NA	NA	- - - - - -
+093/095	NA	NA	-
 093/097	luft	1	l u f t -
 093/099	luft	1	l u f t -
 093/101	luft	1	l u f t -
@@ -5017,10 +5017,10 @@
 093/143	luft	1	l u f t -
 093/145	luft	1	l u f t -
 093/147	luft	1	l u f t -
-093/149	NA	NA	- - - - - -
+093/149	NA	NA	-
 093/151	luft	1	l u f t -
 093/153	luft	1	l u f t -
-093/155	NA	NA	- - - - - -
+093/155	NA	NA	-
 094/033	luft	1	l u f t -
 094/035	luft	1	l u f t -
 094/037	luft	1	l u f t -
@@ -5126,7 +5126,7 @@
 095/113	luft	1	l u f t -
 095/115	luft	1	l u f t -
 095/117	luft	1	l u f t -
-095/119	NA	NA	- - - - - -
+095/119	NA	NA	-
 095/121	luft	1	l u f t -
 095/123	luft	1	l u f t -
 095/125	luft	1	l u f t -
@@ -5177,14 +5177,14 @@
 096/097	luft	1	l u f t -
 096/099	luft	1	l u f t -
 096/101	luft	1	l u f t -
-096/103	NA	NA	- - - - - -
+096/103	NA	NA	-
 096/105	luft	1	l u f t -
 096/107	luft	1	l u f t -
 096/109	luft	1	l u f t -
 096/111	luft	1	l u f t -
-096/113	NA	NA	- - - - - -
+096/113	NA	NA	-
 096/115	luft	1	l u f t -
-096/117	NA	NA	- - - - - -
+096/117	NA	NA	-
 096/119	luft	1	l u f t -
 096/121	luft	1	l u f t -
 096/123	luft	1	l u f t -
@@ -5240,7 +5240,7 @@
 097/105	luft	1	l u f t -
 097/107	luft	1	l u f t -
 097/109	luft	1	l u f t -
-097/113	NA	NA	- - - - - -
+097/113	NA	NA	-
 097/125	luft	1	l u f t -
 097/131	luft	1	l u f t -
 097/133	luft	1	l u f t -
@@ -5325,13 +5325,13 @@
 099/077	luft	1	l u f t -
 099/081	luft	1	l u f t -
 099/083	luft	1	l u f t -
-099/085	NA	NA	- - - - - -
+099/085	NA	NA	-
 099/089	luft	1	l u f t -
 099/093	luft	1	l u f t -
 099/095	luft	1	l u f t -
 099/099	luft	1	l u f t -
 099/101	luft	1	l u f t -
-099/103	NA	NA	- - - - - -
+099/103	NA	NA	-
 099/105	luft	1	l u f t -
 099/107	luft	1	l u f t -
 099/109	luft	1	l u f t -
@@ -5371,7 +5371,7 @@
 100/081	luft	1	l u f t -
 100/083	luft	1	l u f t -
 100/089	luft	1	l u f t -
-100/093	NA	NA	- - - - - -
+100/093	NA	NA	-
 100/095	luft	1	l u f t -
 100/097	luft	1	l u f t -
 100/099	luft	1	l u f t -
@@ -5424,10 +5424,10 @@
 101/109	lufd	1	l u f d -
 101/113	luft	1	l u f t -
 101/115	luft	1	l u f t -
-101/121	NA	NA	- - - - - -
+101/121	NA	NA	-
 101/125	luft	1	l u f t -
 101/129	luft	1	l u f t -
-101/131	NA	NA	- - - - - -
+101/131	NA	NA	-
 101/133	luft	1	l u f t -
 101/137	luft	1	l u f t -
 101/139	luft	1	l u f t -
@@ -5516,7 +5516,7 @@
 103/127	luft	1	l u f t -
 103/131	luft	1	l u f t -
 103/133	luft	1	l u f t -
-103/135	NA	NA	- - - - - -
+103/135	NA	NA	-
 103/137	luft	1	l u f t -
 103/139	luft	1	l u f t -
 103/141	luft	1	l u f t -
@@ -5602,7 +5602,7 @@
 105/113	luft	1	l u f t -
 105/115	luft	1	l u f t -
 105/117	luft	1	l u f t -
-105/119	NA	NA	- - - - - -
+105/119	NA	NA	-
 105/121	luft	1	l u f t -
 105/125	luft	1	l u f t -
 105/127	luft	1	l u f t -
@@ -5635,7 +5635,7 @@
 106/079	luft	1	l u f t -
 106/081	luft	1	l u f t -
 106/085	luft	1	l u f t -
-106/087	NA	NA	- - - - - -
+106/087	NA	NA	-
 106/093	luft	1	l u f t -
 106/097	luft	1	l u f t -
 106/099	luft	1	l u f t -
@@ -5647,7 +5647,7 @@
 106/125	luft	1	l u f t -
 106/129	luft	1	l u f t -
 106/131	luft	1	l u f t -
-106/133	NA	NA	- - - - - -
+106/133	NA	NA	-
 106/135	luft	1	l u f t -
 106/137	luft	1	l u f t -
 106/139	luft	1	l u f t -
@@ -5685,7 +5685,7 @@
 107/119	luft	1	l u f t -
 107/121	luft	1	l u f t -
 107/123	luft	1	l u f t -
-107/125	NA	NA	- - - - - -
+107/125	NA	NA	-
 107/127	luft	1	l u f t -
 107/129	luft	1	l u f t -
 107/131	luft	1	l u f t -
@@ -5696,7 +5696,7 @@
 107/141	luft	1	l u f t -
 107/143	luft	1	l u f t -
 108/033	luft	1	l u f t -
-108/035	NA	NA	- - - - - -
+108/035	NA	NA	-
 108/037	luft	1	l u f t -
 108/039	luft	1	l u f t -
 108/041	luft	1	l u f t -
@@ -5733,7 +5733,7 @@
 108/139	luft	1	l u f t -
 108/141	luft	1	l u f t -
 109/035	luft	1	l u f t -
-109/037	NA	NA	- - - - - -
+109/037	NA	NA	-
 109/039	luft	1	l u f t -
 109/041	luft	1	l u f t -
 109/043	luft	1	l u f t -
@@ -5753,10 +5753,10 @@
 109/095	luft	1	l u f t -
 109/097	luft	1	l u f t -
 109/099	luft	1	l u f t -
-109/101	NA	NA	- - - - - -
+109/101	NA	NA	-
 109/103	luft	1	l u f t -
 109/107	luft	1	l u f t -
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	luft	1	l u f t -
 109/113	luft	1	l u f t -
 109/115	luft	1	l u f t -
@@ -5788,7 +5788,7 @@
 110/083	luft	1	l u f t -
 110/087	luft	1	l u f t -
 110/089	luft	1	l u f t -
-110/091	NA	NA	- - - - - -
+110/091	NA	NA	-
 110/093	luft	1	l u f t -
 110/095	luft	1	l u f t -
 110/097	luft	1	l u f t -
@@ -5821,7 +5821,7 @@
 111/075	luft	1	l u f t -
 111/077	luft	1	l u f t -
 111/079	luft	1	l u f t -
-111/081	NA	NA	- - - - - -
+111/081	NA	NA	-
 111/083	luft	1	l u f t -
 111/087	luft	1	l u f t -
 111/089	luft	1	l u f t -
@@ -5846,7 +5846,7 @@
 112/063	luft	1	l u f t -
 112/075	luft	1	l u f t -
 112/081	luft	1	l u f t -
-112/083	NA	NA	- - - - - -
+112/083	NA	NA	-
 112/085	luft	1	l u f t -
 112/111	luft	1	l u f t -
 112/115	luft	1	l u f t -

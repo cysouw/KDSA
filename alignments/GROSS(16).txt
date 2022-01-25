@@ -226,7 +226,7 @@
 016/161	groot	1	g - r oo t
 016/163	grot	1	g - r o t
 016/165	grot	1	g - r o t
-016/167	NA	NA	- - - - -
+016/167	NA	NA	-
 016/187	grot	1	g - r o t
 016/189	grot	1	g - r o t
 016/191	grot	1	g - r o t
@@ -297,7 +297,7 @@
 018/059	grot	1	g - r o t
 018/061	grot	1	g - r o t
 018/063	grot	1	g - r o t
-018/065	NA	NA	- - - - -
+018/065	NA	NA	-
 018/067	grod	1	g - r o d
 018/069	grod	1	g - r o d
 018/071	grod	1	g - r o d
@@ -465,7 +465,7 @@
 020/199	grot	1	g - r o t
 020/201	groot	1	g - r oo t
 020/203	grot	1	g - r o t
-020/205	NA	NA	- - - - -
+020/205	NA	NA	-
 020/207	grot	1	g - r o t
 020/209	grot	1	g - r o t
 020/211	groot	1	g - r oo t
@@ -538,7 +538,7 @@
 021/203	groht	1	g - r oh t
 021/205	grot	1	g - r o t
 021/207	grot	1	g - r o t
-021/211	NA	NA	- - - - -
+021/211	NA	NA	-
 021/215	grot	1	g - r o t
 021/217	grot	1	g - r o t
 021/219	grot	1	g - r o t
@@ -596,8 +596,8 @@
 022/179	groot	1	g - r oo t
 022/181	groat	1	g - r oa t
 022/183	gross	1	g - r o ss
-022/185	NA	NA	- - - - -
-022/187	NA	NA	- - - - -
+022/185	NA	NA	-
+022/187	NA	NA	-
 022/189	gross	1	g - r o ss
 022/191	gross	1	g - r o ss
 022/193	gross	1	g - r o ss
@@ -607,7 +607,7 @@
 022/201	grot	1	g - r o t
 022/203	grot	1	g - r o t
 022/205	grot	1	g - r o t
-022/209	NA	NA	- - - - -
+022/209	NA	NA	-
 022/211	grot	1	g - r o t
 022/215	groot	1	g - r oo t
 022/217	groht	1	g - r oh t
@@ -706,7 +706,7 @@
 024/095	grot	1	g - r o t
 024/097	grot	1	g - r o t
 024/099	grot	1	g - r o t
-024/101	NA	NA	- - - - -
+024/101	NA	NA	-
 024/103	grot	1	g - r o t
 024/105	groot	1	g - r oo t
 024/107	groot	1	g - r oo t
@@ -1136,7 +1136,7 @@
 030/105	grot	1	g - r o t
 030/107	grot	1	g - r o t
 030/109	grot	1	g - r o t
-030/111	NA	NA	- - - - -
+030/111	NA	NA	-
 030/113	grot	1	g - r o t
 030/115	groht	1	g - r oh t
 030/117	grod	1	g - r o d
@@ -1277,7 +1277,7 @@
 032/097	grot	1	g - r o t
 032/099	grot	1	g - r o t
 032/101	grot	1	g - r o t
-032/103	NA	NA	- - - - -
+032/103	NA	NA	-
 032/105	jrot	1	j - r o t
 032/107	groat	1	g - r oa t
 032/111	grot	1	g - r o t
@@ -1876,7 +1876,7 @@
 041/133	gruss	1	g - r u ss
 041/135	gruss	1	g - r u ss
 041/139	gruss	1	g - r u ss
-041/141	NA	NA	- - - - -
+041/141	NA	NA	-
 041/145	gruss	1	g - r u ss
 041/147	gruss	1	g - r u ss
 041/153	grot	1	g - r o t
@@ -2038,7 +2038,7 @@
 044/093	grot	1	g - r o t
 044/095	grot	1	g - r o t
 044/097	grot	1	g - r o t
-044/099	NA	NA	- - - - -
+044/099	NA	NA	-
 044/101	groot	1	g - r oo t
 044/103	jrot	1	j - r o t
 044/105	grot	1	g - r o t
@@ -2447,7 +2447,7 @@
 051/043	gräeut	1	g - r äeu t
 051/045	gräut	1	g - r äu t
 051/047	gräut	1	g - r äu t
-051/049	NA	NA	- - - - -
+051/049	NA	NA	-
 051/051	graut	1	g - r au t
 051/053	graut	1	g - r au t
 051/055	graut	1	g - r au t
@@ -2712,7 +2712,7 @@
 055/031	gruet	1	g - r ue t
 055/033	jruat	1	j - r ua t
 055/035	grot	1	g - r o t
-055/037	NA	NA	- - - - -
+055/037	NA	NA	-
 055/039	gruot	1	g - r uo t
 055/041	grout	1	g - r ou t
 055/043	gräut	1	g - r äu t
@@ -2733,7 +2733,7 @@
 055/073	groass	1	g - r oa ss
 055/075	grouss	1	g - r ou ss
 055/077	gruss	1	g - r u ss
-055/079	NA	NA	- - - - -
+055/079	NA	NA	-
 055/081	krus	1	k - r u s
 055/083	grouss	1	g - r ou ss
 055/085	gruss	1	g - r u ss
@@ -2965,8 +2965,8 @@
 058/115	gross	1	g - r o ss
 058/117	gruss	1	g - r u ss
 058/119	gruss	1	g - r u ss
-058/121	NA	NA	- - - - -
-058/123	NA	NA	- - - - -
+058/121	NA	NA	-
+058/123	NA	NA	-
 058/125	gruhss	1	g - r uh ss
 058/127	gruss	1	g - r u ss
 058/129	gruss	1	g - r u ss
@@ -3123,7 +3123,7 @@
 060/145	grass	1	g - r a ss
 060/147	gruhss	1	g - r uh ss
 060/149	gruss	1	g - r u ss
-060/151	NA	NA	- - - - -
+060/151	NA	NA	-
 060/153	gruss	1	g - r u ss
 060/155	gruss	1	g - r u ss
 060/157	groos	1	g - r oo s
@@ -3248,17 +3248,17 @@
 062/109	gruss	1	g - r u ss
 062/111	grou	1	g - r ou -
 062/113	gruss	1	g - r u ss
-062/115	NA	NA	- - - - -
+062/115	NA	NA	-
 062/117	gruss	1	g - r u ss
 062/119	gross	1	g - r o ss
-062/121	NA	NA	- - - - -
+062/121	NA	NA	-
 062/123	gruss	1	g - r u ss
 062/125	gruus	1	g - r uu s
 062/127	gruss	1	g - r u ss
 062/129	gruss	1	g - r u ss
 062/131	gruss	1	g - r u ss
 062/133	gruhss	1	g - r uh ss
-062/135	NA	NA	- - - - -
+062/135	NA	NA	-
 062/137	gruuss	1	g - r uu ss
 062/139	gruss	1	g - r u ss
 062/141	gruss	1	g - r u ss
@@ -3321,7 +3321,7 @@
 063/113	gruss	1	g - r u ss
 063/115	gruss	1	g - r u ss
 063/117	gruss	1	g - r u ss
-063/119	NA	NA	- - - - -
+063/119	NA	NA	-
 063/121	gruss	1	g - r u ss
 063/123	gruss	1	g - r u ss
 063/125	gruss	1	g - r u ss
@@ -3390,7 +3390,7 @@
 064/113	gruss	1	g - r u ss
 064/115	gruss	1	g - r u ss
 064/117	gruss	1	g - r u ss
-064/119	NA	NA	- - - - -
+064/119	NA	NA	-
 064/121	gruss	1	g - r u ss
 064/123	gruss	1	g - r u ss
 064/125	gruhss	1	g - r uh ss
@@ -3398,7 +3398,7 @@
 064/135	gruss	1	g - r u ss
 064/137	gruss	1	g - r u ss
 064/139	gruss	1	g - r u ss
-064/141	NA	NA	- - - - -
+064/141	NA	NA	-
 064/143	gruss	1	g - r u ss
 064/145	gruss	1	g - r u ss
 064/147	gruss	1	g - r u ss
@@ -3453,7 +3453,7 @@
 065/107	gruss	1	g - r u ss
 065/109	gruss	1	g - r u ss
 065/111	gruss	1	g - r u ss
-065/113	NA	NA	- - - - -
+065/113	NA	NA	-
 065/115	gruss	1	g - r u ss
 065/121	gruss	1	g - r u ss
 065/123	gruss	1	g - r u ss
@@ -3472,10 +3472,10 @@
 066/023	gruess	1	g - r ue ss
 066/025	gruas	1	g - r ua s
 066/027	gruass	1	g - r ua ss
-066/029	NA	NA	- - - - -
+066/029	NA	NA	-
 066/031	gruss	1	g - r u ss
 066/033	jruss	1	j - r u ss
-066/035	NA	NA	- - - - -
+066/035	NA	NA	-
 066/037	gruss	1	g - r u ss
 066/039	gruhss	1	g - r uh ss
 066/041	gruss	1	g - r u ss
@@ -3514,7 +3514,7 @@
 066/107	gruss	1	g - r u ss
 066/109	gruss	1	g - r u ss
 066/111	gruss	1	g - r u ss
-066/113	NA	NA	- - - - -
+066/113	NA	NA	-
 066/121	gruss	1	g - r u ss
 066/139	gruss	1	g - r u ss
 066/143	gruss	1	g - r u ss
@@ -3611,7 +3611,7 @@
 068/061	gross	1	g - r o ss
 068/063	groass	1	g - r oa ss
 068/065	gross	1	g - r o ss
-068/067	NA	NA	- - - - -
+068/067	NA	NA	-
 068/069	gross	1	g - r o ss
 068/071	groas	1	g - r oa s
 068/073	groass	1	g - r oa ss
@@ -3630,7 +3630,7 @@
 068/099	grouss	1	g - r ou ss
 068/101	grouss	1	g - r ou ss
 068/103	grauss	1	g - r au ss
-068/105	NA	NA	- - - - -
+068/105	NA	NA	-
 068/107	grouss	1	g - r ou ss
 068/109	gruss	1	g - r u ss
 068/111	gruss	1	g - r u ss
@@ -3687,7 +3687,7 @@
 069/101	grouss	1	g - r ou ss
 069/103	grouss	1	g - r ou ss
 069/105	grauss	1	g - r au ss
-069/107	NA	NA	- - - - -
+069/107	NA	NA	-
 069/109	gruss	1	g - r u ss
 069/111	gruss	1	g - r u ss
 069/147	gruss	1	g - r u ss
@@ -3720,10 +3720,10 @@
 070/057	grouss	1	g - r ou ss
 070/059	grouss	1	g - r ou ss
 070/061	gross	1	g - r o ss
-070/063	NA	NA	- - - - -
+070/063	NA	NA	-
 070/065	groass	1	g - r oa ss
 070/067	gross	1	g - r o ss
-070/069	NA	NA	- - - - -
+070/069	NA	NA	-
 070/071	groass	1	g - r oa ss
 070/073	groass	1	g - r oa ss
 070/075	groass	1	g - r oa ss
@@ -3799,17 +3799,17 @@
 071/099	grouss	1	g - r ou ss
 071/101	krous	1	k - r ou s
 071/103	grouss	1	g - r ou ss
-071/105	NA	NA	- - - - -
+071/105	NA	NA	-
 071/145	gruss	1	g - r u ss
 071/147	gruss	1	g - r u ss
 071/149	gruss	1	g - r u ss
 071/151	grooss	1	g - r oo ss
-071/153	NA	NA	- - - - -
+071/153	NA	NA	-
 071/155	gross	1	g - r o ss
 071/157	gross	1	g - r o ss
 071/159	gruss	1	g - r u ss
 071/161	gruss	1	g - r u ss
-071/163	NA	NA	- - - - -
+071/163	NA	NA	-
 071/177	gruus	1	g - r uu s
 071/179	gross	1	g - r o ss
 072/017	grous	1	g - r ou s
@@ -3862,11 +3862,11 @@
 072/147	gruhs	1	g - r uh s
 072/149	gruss	1	g - r u ss
 072/151	gruss	1	g - r u ss
-072/153	NA	NA	- - - - -
+072/153	NA	NA	-
 072/155	gross	1	g - r o ss
 072/157	gross	1	g - r o ss
 072/159	gruess	1	g - r ue ss
-072/161	NA	NA	- - - - -
+072/161	NA	NA	-
 072/177	gruss	1	g - r u ss
 072/179	gross	1	g - r o ss
 072/181	gross	1	g - r o ss
@@ -3970,16 +3970,16 @@
 074/095	graoss	1	g - r ao ss
 074/097	grouss	1	g - r ou ss
 074/099	grooss	1	g - r oo ss
-074/101	NA	NA	- - - - -
+074/101	NA	NA	-
 074/103	grous	1	g - r ou s
 074/105	grouss	1	g - r ou ss
-074/107	NA	NA	- - - - -
-074/109	NA	NA	- - - - -
+074/107	NA	NA	-
+074/109	NA	NA	-
 074/145	gruss	1	g - r u ss
-074/147	NA	NA	- - - - -
+074/147	NA	NA	-
 074/149	gruss	1	g - r u ss
 074/153	gruss	1	g - r u ss
-074/155	NA	NA	- - - - -
+074/155	NA	NA	-
 074/157	gross	1	g - r o ss
 074/159	gruos	1	g - r uo s
 074/161	gruss	1	g - r u ss
@@ -4039,7 +4039,7 @@
 075/159	grouss	1	g - r ou ss
 075/161	grus	1	g - r u s
 075/163	gruess	1	g - r ue ss
-075/165	NA	NA	- - - - -
+075/165	NA	NA	-
 076/019	gross	1	g - r o ss
 076/021	gross	1	g - r o ss
 076/023	gruos	1	g - r uo s
@@ -4047,7 +4047,7 @@
 076/027	gruss	1	g - r u ss
 076/029	gruss	1	g - r u ss
 076/033	gross	1	g - r o ss
-076/035	NA	NA	- - - - -
+076/035	NA	NA	-
 076/037	gross	1	g - r o ss
 076/039	gross	1	g - r o ss
 076/041	gross	1	g - r o ss
@@ -4077,13 +4077,13 @@
 076/089	grouss	1	g - r ou ss
 076/091	graus	1	g - r au s
 076/093	grouss	1	g - r ou ss
-076/095	NA	NA	- - - - -
+076/095	NA	NA	-
 076/097	grouss	1	g - r ou ss
 076/099	grouss	1	g - r ou ss
 076/101	grouss	1	g - r ou ss
 076/103	grouss	1	g - r ou ss
 076/135	grouss	1	g - r ou ss
-076/137	NA	NA	- - - - -
+076/137	NA	NA	-
 076/149	gruss	1	g - r u ss
 076/151	grus	1	g - r u s
 076/155	gruss	1	g - r u ss
@@ -4174,7 +4174,7 @@
 078/097	gräus	1	g - r äu s
 078/099	graus	1	g - r au s
 078/101	grouss	1	g - r ou ss
-078/103	NA	NA	- - - - -
+078/103	NA	NA	-
 078/105	graauss	1	g - r aau ss
 078/135	gross	1	g - r o ss
 078/193	kross	1	k - r o ss
@@ -4224,7 +4224,7 @@
 079/133	gross	1	g - r o ss
 079/135	gross	1	g - r o ss
 079/193	gross	1	g - r o ss
-079/195	NA	NA	- - - - -
+079/195	NA	NA	-
 079/197	gruss	1	g - r u ss
 080/025	gross	1	g - r o ss
 080/027	gross	1	g - r o ss
@@ -4268,13 +4268,13 @@
 080/103	grouss	1	g - r ou ss
 080/105	grouss	1	g - r ou ss
 080/107	grouss	1	g - r ou ss
-080/109	NA	NA	- - - - -
+080/109	NA	NA	-
 080/127	groiss	1	g - r oi ss
 080/147	gross	1	g - r o ss
 080/151	gross	1	g - r o ss
 080/153	gross	1	g - r o ss
 080/193	grusz	1	g - r u sz
-080/195	NA	NA	- - - - -
+080/195	NA	NA	-
 081/025	gross	1	g - r o ss
 081/027	gross	1	g - r o ss
 081/029	gross	1	g - r o ss
@@ -4316,10 +4316,10 @@
 081/103	grouss	1	g - r ou ss
 081/105	grouss	1	g - r ou ss
 081/107	grouss	1	g - r ou ss
-081/109	NA	NA	- - - - -
+081/109	NA	NA	-
 081/111	grouss	1	g - r ou ss
 081/127	groiss	1	g - r oi ss
-081/129	NA	NA	- - - - -
+081/129	NA	NA	-
 081/133	groiss	1	g - r oi ss
 081/147	grooss	1	g - r oo ss
 081/191	gruus	1	g - r uu s
@@ -4400,7 +4400,7 @@
 083/067	groass	1	g - r oa ss
 083/069	groass	1	g - r oa ss
 083/071	groass	1	g - r oa ss
-083/073	NA	NA	- - - - -
+083/073	NA	NA	-
 083/075	groass	1	g - r oa ss
 083/077	graus	1	g - r au s
 083/079	grauss	1	g - r au ss
@@ -4419,18 +4419,18 @@
 083/105	grouss	1	g - r ou ss
 083/107	gross	1	g - r o ss
 083/111	grouss	1	g - r ou ss
-083/113	NA	NA	- - - - -
+083/113	NA	NA	-
 083/115	gross	1	g - r o ss
 083/117	groiss	1	g - r oi ss
 083/119	groiss	1	g - r oi ss
-083/121	NA	NA	- - - - -
+083/121	NA	NA	-
 083/129	gross	1	g - r o ss
 083/131	gross	1	g - r o ss
 083/133	gross	1	g - r o ss
 083/135	groiss	1	g - r oi ss
 083/139	gross	1	g - r o ss
 083/143	gross	1	g - r o ss
-083/145	NA	NA	- - - - -
+083/145	NA	NA	-
 083/147	gros	1	g - r o s
 083/149	gross	1	g - r o ss
 083/173	groob	1	g - r oo b
@@ -4478,10 +4478,10 @@
 084/111	grous	1	g - r ou s
 084/113	grouss	1	g - r ou ss
 084/115	grouss	1	g - r ou ss
-084/117	NA	NA	- - - - -
+084/117	NA	NA	-
 084/119	groiss	1	g - r oi ss
 084/129	gross	1	g - r o ss
-084/131	NA	NA	- - - - -
+084/131	NA	NA	-
 084/133	gross	1	g - r o ss
 084/135	gross	1	g - r o ss
 084/137	gross	1	g - r o ss
@@ -4529,8 +4529,8 @@
 085/095	grauss	1	g - r au ss
 085/097	grous	1	g - r ou s
 085/101	grouss	1	g - r ou ss
-085/103	NA	NA	- - - - -
-085/105	NA	NA	- - - - -
+085/103	NA	NA	-
+085/105	NA	NA	-
 085/107	grouss	1	g - r ou ss
 085/109	grouss	1	g - r ou ss
 085/111	grauss	1	g - r au ss
@@ -4540,15 +4540,15 @@
 085/119	groiss	1	g - r oi ss
 085/121	grois	1	g - r oi s
 085/123	groiss	1	g - r oi ss
-085/125	NA	NA	- - - - -
+085/125	NA	NA	-
 085/127	groas	1	g - r oa s
 085/129	gross	1	g - r o ss
 085/131	gross	1	g - r o ss
 085/133	gross	1	g - r o ss
 085/135	gross	1	g - r o ss
-085/137	NA	NA	- - - - -
+085/137	NA	NA	-
 085/139	gross	1	g - r o ss
-085/141	NA	NA	- - - - -
+085/141	NA	NA	-
 085/143	gross	1	g - r o ss
 085/145	gross	1	g - r o ss
 085/147	gross	1	g - r o ss
@@ -4646,17 +4646,17 @@
 087/083	grouss	1	g - r ou ss
 087/085	grouss	1	g - r ou ss
 087/087	grauss	1	g - r au ss
-087/089	NA	NA	- - - - -
+087/089	NA	NA	-
 087/091	grauss	1	g - r au ss
 087/093	groass	1	g - r oa ss
 087/095	grouss	1	g - r ou ss
 087/097	groass	1	g - r oa ss
 087/099	gruuss	1	g - r uu ss
 087/101	gross	1	g - r o ss
-087/103	NA	NA	- - - - -
+087/103	NA	NA	-
 087/105	grouss	1	g - r ou ss
-087/107	NA	NA	- - - - -
-087/109	NA	NA	- - - - -
+087/107	NA	NA	-
+087/109	NA	NA	-
 087/111	greoss	1	g - r eo ss
 087/113	greoss	1	g - r eo ss
 087/115	grois	1	g - r oi s
@@ -4726,7 +4726,7 @@
 088/137	gross	1	g - r o ss
 088/139	gross	1	g - r o ss
 088/141	gross	1	g - r o ss
-088/143	NA	NA	- - - - -
+088/143	NA	NA	-
 088/145	gross	1	g - r o ss
 088/147	gross	1	g - r o ss
 088/149	gross	1	g - r o ss
@@ -4772,16 +4772,16 @@
 089/113	greass	1	g - r ea ss
 089/115	graoss	1	g - r ao ss
 089/117	greoss	1	g - r eo ss
-089/119	NA	NA	- - - - -
+089/119	NA	NA	-
 089/121	groiss	1	g - r oi ss
 089/123	groiss	1	g - r oi ss
 089/125	groiss	1	g - r oi ss
 089/127	gross	1	g - r o ss
-089/129	NA	NA	- - - - -
+089/129	NA	NA	-
 089/131	gross	1	g - r o ss
 089/133	gross	1	g - r o ss
 089/135	gros	1	g - r o s
-089/137	NA	NA	- - - - -
+089/137	NA	NA	-
 089/139	gross	1	g - r o ss
 089/141	gross	1	g - r o ss
 089/143	gross	1	g - r o ss
@@ -4818,26 +4818,26 @@
 090/089	grouss	1	g - r ou ss
 090/091	groiss	1	g - r oi ss
 090/093	grouss	1	g - r ou ss
-090/095	NA	NA	- - - - -
+090/095	NA	NA	-
 090/097	grouss	1	g - r ou ss
 090/099	grouss	1	g - r ou ss
 090/101	groaass	1	g - r oaa ss
 090/103	grouss	1	g - r ou ss
-090/105	NA	NA	- - - - -
-090/107	NA	NA	- - - - -
+090/105	NA	NA	-
+090/107	NA	NA	-
 090/109	gräuss	1	g - r äu ss
 090/111	gräoss	1	g - r äo ss
 090/113	gross	1	g - r o ss
 090/115	greoss	1	g - r eo ss
-090/119	NA	NA	- - - - -
+090/119	NA	NA	-
 090/121	grouss	1	g - r ou ss
 090/123	gros	1	g - r o s
-090/125	NA	NA	- - - - -
+090/125	NA	NA	-
 090/127	gruss	1	g - r u ss
 090/129	gross	1	g - r o ss
 090/131	gross	1	g - r o ss
 090/133	groos	1	g - r oo s
-090/135	NA	NA	- - - - -
+090/135	NA	NA	-
 090/137	gross	1	g - r o ss
 090/139	gross	1	g - r o ss
 090/141	gross	1	g - r o ss
@@ -4877,7 +4877,7 @@
 091/093	grouss	1	g - r ou ss
 091/095	grouss	1	g - r ou ss
 091/097	greooss	1	g - r eoo ss
-091/099	NA	NA	- - - - -
+091/099	NA	NA	-
 091/101	graus	1	g - r au s
 091/103	grass	1	g - r a ss
 091/105	graoss	1	g - r ao ss
@@ -4885,7 +4885,7 @@
 091/109	groass	1	g - r oa ss
 091/111	grois	1	g - r oi s
 091/113	graoss	1	g - r ao ss
-091/115	NA	NA	- - - - -
+091/115	NA	NA	-
 091/117	gross	1	g - r o ss
 091/119	grooss	1	g - r oo ss
 091/121	gross	1	g - r o ss
@@ -4926,7 +4926,7 @@
 092/073	groass	1	g - r oa ss
 092/075	groass	1	g - r oa ss
 092/077	grooass	1	g - r ooa ss
-092/079	NA	NA	- - - - -
+092/079	NA	NA	-
 092/081	groas	1	g - r oa s
 092/083	groass	1	g - r oa ss
 092/085	gross	1	g - r o ss
@@ -4940,7 +4940,7 @@
 092/101	graous	1	g - r aou s
 092/103	grouss	1	g - r ou ss
 092/105	graoouss	1	g - r aoou ss
-092/107	NA	NA	- - - - -
+092/107	NA	NA	-
 092/109	gäss	1	g - - ä ss
 092/111	grass	1	g - r a ss
 092/113	grouss	1	g - r ou ss
@@ -4948,15 +4948,15 @@
 092/117	greoss	1	g - r eo ss
 092/119	graoss	1	g - r ao ss
 092/121	gross	1	g - r o ss
-092/123	NA	NA	- - - - -
+092/123	NA	NA	-
 092/125	gross	1	g - r o ss
 092/127	gross	1	g - r o ss
 092/129	gross	1	g - r o ss
 092/131	gross	1	g - r o ss
 092/133	gross	1	g - r o ss
 092/135	gross	1	g - r o ss
-092/137	NA	NA	- - - - -
-092/139	NA	NA	- - - - -
+092/137	NA	NA	-
+092/139	NA	NA	-
 092/141	gross	1	g - r o ss
 092/143	gross	1	g - r o ss
 092/145	gros	1	g - r o s
@@ -4993,11 +4993,11 @@
 093/089	grouss	1	g - r ou ss
 093/091	gross	1	g - r o ss
 093/093	grouss	1	g - r ou ss
-093/095	NA	NA	- - - - -
+093/095	NA	NA	-
 093/097	grouss	1	g - r ou ss
 093/099	gross	1	g - r o ss
 093/101	grouss	1	g - r ou ss
-093/103	NA	NA	- - - - -
+093/103	NA	NA	-
 093/105	groass	1	g - r oa ss
 093/109	groass	1	g - r oa ss
 093/111	greass	1	g - r ea ss
@@ -5018,7 +5018,7 @@
 093/145	gross	1	g - r o ss
 093/147	gross	1	g - r o ss
 093/149	gross	1	g - r o ss
-093/151	NA	NA	- - - - -
+093/151	NA	NA	-
 093/153	kross	1	k - r o ss
 093/155	gross	1	g - r o ss
 094/033	gruos	1	g - r uo s
@@ -5042,14 +5042,14 @@
 094/069	grohs	1	g - r oh s
 094/071	groass	1	g - r oa ss
 094/073	gross	1	g - r o ss
-094/075	NA	NA	- - - - -
+094/075	NA	NA	-
 094/077	groass	1	g - r oa ss
 094/079	groass	1	g - r oa ss
 094/081	groass	1	g - r oa ss
 094/083	gross	1	g - r o ss
 094/085	groas	1	g - r oa s
 094/087	grouss	1	g - r ou ss
-094/089	NA	NA	- - - - -
+094/089	NA	NA	-
 094/091	grous	1	g - r ou s
 094/093	grouss	1	g - r ou ss
 094/095	gross	1	g - r o ss
@@ -5061,12 +5061,12 @@
 094/107	groass	1	g - r oa ss
 094/109	graaoss	1	g - r aao ss
 094/111	groass	1	g - r oa ss
-094/113	NA	NA	- - - - -
+094/113	NA	NA	-
 094/115	greoss	1	g - r eo ss
 094/117	grass	1	g - r a ss
 094/119	gross	1	g - r o ss
 094/121	grauss	1	g - r au ss
-094/123	NA	NA	- - - - -
+094/123	NA	NA	-
 094/125	gros	1	g - r o s
 094/127	gross	1	g - r o ss
 094/129	gooss	1	g - - oo ss
@@ -5102,7 +5102,7 @@
 095/065	gross	1	g - r o ss
 095/067	gross	1	g - r o ss
 095/069	gross	1	g - r o ss
-095/071	NA	NA	- - - - -
+095/071	NA	NA	-
 095/073	gros	1	g - r o s
 095/075	groas	1	g - r oa s
 095/077	groass	1	g - r oa ss
@@ -5112,7 +5112,7 @@
 095/085	grouss	1	g - r ou ss
 095/087	grouss	1	g - r ou ss
 095/089	groous	1	g - r oou s
-095/091	NA	NA	- - - - -
+095/091	NA	NA	-
 095/093	grouss	1	g - r ou ss
 095/095	grauos	1	g - r auo s
 095/097	grouss	1	g - r ou ss
@@ -5137,7 +5137,7 @@
 095/141	gross	1	g - r o ss
 095/143	gross	1	g - r o ss
 095/145	gross	1	g - r o ss
-095/147	NA	NA	- - - - -
+095/147	NA	NA	-
 095/149	gros	1	g - r o s
 095/151	gross	1	g - r o ss
 095/153	kros	1	k - r o s
@@ -5163,7 +5163,7 @@
 096/067	gross	1	g - r o ss
 096/069	gross	1	g - r o ss
 096/071	groass	1	g - r oa ss
-096/075	NA	NA	- - - - -
+096/075	NA	NA	-
 096/077	groass	1	g - r oa ss
 096/079	groass	1	g - r oa ss
 096/081	groass	1	g - r oa ss
@@ -5184,18 +5184,18 @@
 096/111	gross	1	g - r o ss
 096/113	greoss	1	g - r eo ss
 096/115	gräoss	1	g - r äo ss
-096/117	NA	NA	- - - - -
+096/117	NA	NA	-
 096/119	gross	1	g - r o ss
 096/121	grooss	1	g - r oo ss
 096/123	grous	1	g - r ou s
 096/125	gros	1	g - r o s
 096/129	gros	1	g - r o s
 096/131	gross	1	g - r o ss
-096/135	NA	NA	- - - - -
-096/137	NA	NA	- - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
 096/139	groos	1	g - r oo s
 096/141	gross	1	g - r o ss
-096/143	NA	NA	- - - - -
+096/143	NA	NA	-
 096/145	gross	1	g - r o ss
 096/147	kros	1	k - r o s
 096/151	grooss	1	g - r oo ss
@@ -5238,7 +5238,7 @@
 097/099	grous	1	g - r ou s
 097/103	gross	1	g - r o ss
 097/105	grouss	1	g - r ou ss
-097/107	NA	NA	- - - - -
+097/107	NA	NA	-
 097/109	grouss	1	g - r ou ss
 097/113	grouss	1	g - r ou ss
 097/125	gross	1	g - r o ss
@@ -5248,7 +5248,7 @@
 097/141	gross	1	g - r o ss
 097/143	gross	1	g - r o ss
 097/145	gross	1	g - r o ss
-097/149	NA	NA	- - - - -
+097/149	NA	NA	-
 097/153	gross	1	g - r o ss
 098/033	gross	1	g - r o ss
 098/035	gross	1	g - r o ss
@@ -5257,7 +5257,7 @@
 098/041	gross	1	g - r o ss
 098/043	gross	1	g - r o ss
 098/045	gross	1	g - r o ss
-098/047	NA	NA	- - - - -
+098/047	NA	NA	-
 098/049	gross	1	g - r o ss
 098/051	gross	1	g - r o ss
 098/053	gross	1	g - r o ss
@@ -5271,12 +5271,12 @@
 098/069	gross	1	g - r o ss
 098/071	gross	1	g - r o ss
 098/073	gross	1	g - r o ss
-098/075	NA	NA	- - - - -
+098/075	NA	NA	-
 098/077	gross	1	g - r o ss
 098/079	groass	1	g - r oa ss
 098/081	grooss	1	g - r oo ss
 098/083	groass	1	g - r oa ss
-098/085	NA	NA	- - - - -
+098/085	NA	NA	-
 098/087	grauss	1	g - r au ss
 098/089	gross	1	g - r o ss
 098/091	grouss	1	g - r ou ss
@@ -5288,13 +5288,13 @@
 098/107	grouss	1	g - r ou ss
 098/109	gross	1	g - r o ss
 098/111	groass	1	g - r oa ss
-098/119	NA	NA	- - - - -
+098/119	NA	NA	-
 098/123	gross	1	g - r o ss
-098/125	NA	NA	- - - - -
+098/125	NA	NA	-
 098/127	gross	1	g - r o ss
 098/135	grouss	1	g - r ou ss
 098/137	groass	1	g - r oa ss
-098/139	NA	NA	- - - - -
+098/139	NA	NA	-
 098/141	gross	1	g - r o ss
 098/143	grosz	1	g - r o sz
 098/145	gross	1	g - r o ss
@@ -5331,11 +5331,11 @@
 099/095	gross	1	g - r o ss
 099/099	grauss	1	g - r au ss
 099/101	gross	1	g - r o ss
-099/103	NA	NA	- - - - -
+099/103	NA	NA	-
 099/105	grauss	1	g - r au ss
-099/107	NA	NA	- - - - -
+099/107	NA	NA	-
 099/109	gross	1	g - r o ss
-099/111	NA	NA	- - - - -
+099/111	NA	NA	-
 099/113	grouss	1	g - r ou ss
 099/121	gros	1	g - r o s
 099/123	gross	1	g - r o ss
@@ -5352,14 +5352,14 @@
 100/037	gross	1	g - r o ss
 100/039	gross	1	g - r o ss
 100/041	gross	1	g - r o ss
-100/043	NA	NA	- - - - -
+100/043	NA	NA	-
 100/045	gross	1	g - r o ss
 100/049	grooss	1	g - r oo ss
 100/051	gross	1	g - r o ss
 100/053	gross	1	g - r o ss
 100/055	gross	1	g - r o ss
 100/057	gross	1	g - r o ss
-100/059	NA	NA	- - - - -
+100/059	NA	NA	-
 100/061	gross	1	g - r o ss
 100/065	gross	1	g - r o ss
 100/067	gross	1	g - r o ss
@@ -5370,7 +5370,7 @@
 100/077	groass	1	g - r oa ss
 100/081	groas	1	g - r oa s
 100/083	groass	1	g - r oa ss
-100/089	NA	NA	- - - - -
+100/089	NA	NA	-
 100/093	gruass	1	g - r ua ss
 100/095	grouss	1	g - r ou ss
 100/097	grouss	1	g - r ou ss
@@ -5382,11 +5382,11 @@
 100/115	gross	1	g - r o ss
 100/117	gross	1	g - r o ss
 100/119	gross	1	g - r o ss
-100/121	NA	NA	- - - - -
+100/121	NA	NA	-
 100/125	grouss	1	g - r ou ss
-100/127	NA	NA	- - - - -
+100/127	NA	NA	-
 100/129	gross	1	g - r o ss
-100/133	NA	NA	- - - - -
+100/133	NA	NA	-
 100/135	gross	1	g - r o ss
 100/141	gross	1	g - r o ss
 100/143	gross	1	g - r o ss
@@ -5404,7 +5404,7 @@
 101/055	gross	1	g - r o ss
 101/057	gross	1	g - r o ss
 101/059	gross	1	g - r o ss
-101/061	NA	NA	- - - - -
+101/061	NA	NA	-
 101/063	grouss	1	g - r ou ss
 101/065	gross	1	g - r o ss
 101/067	gross	1	g - r o ss
@@ -5421,7 +5421,7 @@
 101/101	gross	1	g - r o ss
 101/103	gross	1	g - r o ss
 101/107	gross	1	g - r o ss
-101/109	NA	NA	- - - - -
+101/109	NA	NA	-
 101/113	gross	1	g - r o ss
 101/115	gross	1	g - r o ss
 101/121	gross	1	g - r o ss
@@ -5429,7 +5429,7 @@
 101/129	grouss	1	g - r ou ss
 101/131	gross	1	g - r o ss
 101/133	gross	1	g - r o ss
-101/137	NA	NA	- - - - -
+101/137	NA	NA	-
 101/139	gross	1	g - r o ss
 101/141	groass	1	g - r oa ss
 101/143	gross	1	g - r o ss
@@ -5443,7 +5443,7 @@
 102/047	grooss	1	g - r oo ss
 102/049	greeooss	1	g - r eeoo ss
 102/051	gross	1	g - r o ss
-102/053	NA	NA	- - - - -
+102/053	NA	NA	-
 102/055	gross	1	g - r o ss
 102/057	gross	1	g - r o ss
 102/059	gross	1	g - r o ss
@@ -5460,7 +5460,7 @@
 102/081	groass	1	g - r oa ss
 102/083	groass	1	g - r oa ss
 102/089	gruass	1	g - r ua ss
-102/091	NA	NA	- - - - -
+102/091	NA	NA	-
 102/093	groas	1	g - r oa s
 102/095	grouss	1	g - r ou ss
 102/097	grouss	1	g - r ou ss
@@ -5471,11 +5471,11 @@
 102/113	gross	1	g - r o ss
 102/115	gross	1	g - r o ss
 102/127	grouss	1	g - r ou ss
-102/129	NA	NA	- - - - -
+102/129	NA	NA	-
 102/131	gross	1	g - r o ss
 102/135	gross	1	g - r o ss
 102/137	groass	1	g - r oa ss
-102/139	NA	NA	- - - - -
+102/139	NA	NA	-
 102/141	gross	1	g - r o ss
 102/143	grooss	1	g - r oo ss
 102/145	kros	1	k - r o s
@@ -5491,7 +5491,7 @@
 103/057	gross	1	g - r o ss
 103/059	gross	1	g - r o ss
 103/063	gross	1	g - r o ss
-103/065	NA	NA	- - - - -
+103/065	NA	NA	-
 103/067	gross	1	g - r o ss
 103/069	gross	1	g - r o ss
 103/071	gross	1	g - r o ss
@@ -5499,7 +5499,7 @@
 103/075	groass	1	g - r oa ss
 103/077	groass	1	g - r oa ss
 103/079	groass	1	g - r oa ss
-103/081	NA	NA	- - - - -
+103/081	NA	NA	-
 103/083	groass	1	g - r oa ss
 103/085	groass	1	g - r oa ss
 103/087	groass	1	g - r oa ss
@@ -5522,7 +5522,7 @@
 103/141	gross	1	g - r o ss
 103/143	gross	1	g - r o ss
 103/145	groz	1	g - r o z
-104/033	NA	NA	- - - - -
+104/033	NA	NA	-
 104/035	gross	1	g - r o ss
 104/037	gross	1	g - r o ss
 104/039	gross	1	g - r o ss
@@ -5556,15 +5556,15 @@
 104/113	groass	1	g - r oa ss
 104/119	groass	1	g - r oa ss
 104/121	groass	1	g - r oa ss
-104/123	NA	NA	- - - - -
-104/125	NA	NA	- - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	groass	1	g - r oa ss
 104/131	groas	1	g - r oa s
 104/133	grouss	1	g - r ou ss
 104/135	groass	1	g - r oa ss
 104/137	gross	1	g - r o ss
 104/139	grouss	1	g - r ou ss
-104/141	NA	NA	- - - - -
+104/141	NA	NA	-
 104/143	gros	1	g - r o s
 104/145	gros	1	g - r o s
 105/031	gross	1	g - r o ss
@@ -5586,26 +5586,26 @@
 105/063	gross	1	g - r o ss
 105/065	gross	1	g - r o ss
 105/067	gross	1	g - r o ss
-105/069	NA	NA	- - - - -
+105/069	NA	NA	-
 105/071	groass	1	g - r oa ss
 105/073	grouss	1	g - r ou ss
 105/075	groass	1	g - r oa ss
 105/077	groass	1	g - r oa ss
 105/079	groass	1	g - r oa ss
 105/081	groass	1	g - r oa ss
-105/085	NA	NA	- - - - -
+105/085	NA	NA	-
 105/087	groass	1	g - r oa ss
-105/089	NA	NA	- - - - -
+105/089	NA	NA	-
 105/103	grouss	1	g - r ou ss
 105/105	gross	1	g - r o ss
 105/111	groass	1	g - r oa ss
 105/113	gross	1	g - r o ss
 105/115	groass	1	g - r oa ss
 105/117	groass	1	g - r oa ss
-105/119	NA	NA	- - - - -
+105/119	NA	NA	-
 105/121	groass	1	g - r oa ss
 105/125	gross	1	g - r o ss
-105/127	NA	NA	- - - - -
+105/127	NA	NA	-
 105/131	gross	1	g - r o ss
 105/133	gross	1	g - r o ss
 105/135	gross	1	g - r o ss
@@ -5622,7 +5622,7 @@
 106/045	gross	1	g - r o ss
 106/047	grooss	1	g - r oo ss
 106/049	gross	1	g - r o ss
-106/051	NA	NA	- - - - -
+106/051	NA	NA	-
 106/053	gross	1	g - r o ss
 106/057	gross	1	g - r o ss
 106/061	grouss	1	g - r ou ss
@@ -5635,8 +5635,8 @@
 106/079	groass	1	g - r oa ss
 106/081	groass	1	g - r oa ss
 106/085	groass	1	g - r oa ss
-106/087	NA	NA	- - - - -
-106/093	NA	NA	- - - - -
+106/087	NA	NA	-
+106/093	NA	NA	-
 106/097	groass	1	g - r oa ss
 106/099	groess	1	g - r oe ss
 106/103	gross	1	g - r o ss
@@ -5645,7 +5645,7 @@
 106/121	groass	1	g - r oa ss
 106/123	groass	1	g - r oa ss
 106/125	groass	1	g - r oa ss
-106/129	NA	NA	- - - - -
+106/129	NA	NA	-
 106/131	gross	1	g - r o ss
 106/133	grouss	1	g - r ou ss
 106/135	gross	1	g - r o ss
@@ -5663,10 +5663,10 @@
 107/045	gross	1	g - r o ss
 107/047	gross	1	g - r o ss
 107/049	gross	1	g - r o ss
-107/051	NA	NA	- - - - -
+107/051	NA	NA	-
 107/053	gross	1	g - r o ss
 107/057	gross	1	g - r o ss
-107/059	NA	NA	- - - - -
+107/059	NA	NA	-
 107/063	gross	1	g - r o ss
 107/065	gross	1	g - r o ss
 107/071	groass	1	g - r oa ss
@@ -5676,18 +5676,18 @@
 107/087	groass	1	g - r oa ss
 107/089	gross	1	g - r o ss
 107/091	grues	1	g - r ue s
-107/097	NA	NA	- - - - -
+107/097	NA	NA	-
 107/099	gröss	1	g - r ö ss
 107/103	gross	1	g - r o ss
-107/105	NA	NA	- - - - -
+107/105	NA	NA	-
 107/107	groass	1	g - r oa ss
 107/111	groas	1	g - r oa s
 107/119	groass	1	g - r oa ss
-107/121	NA	NA	- - - - -
+107/121	NA	NA	-
 107/123	groass	1	g - r oa ss
-107/125	NA	NA	- - - - -
+107/125	NA	NA	-
 107/127	groass	1	g - r oa ss
-107/129	NA	NA	- - - - -
+107/129	NA	NA	-
 107/131	gross	1	g - r o ss
 107/133	gross	1	g - r o ss
 107/135	groass	1	g - r oa ss
@@ -5696,14 +5696,14 @@
 107/141	gross	1	g - r o ss
 107/143	gross	1	g - r o ss
 108/033	gross	1	g - r o ss
-108/035	NA	NA	- - - - -
+108/035	NA	NA	-
 108/037	gross	1	g - r o ss
 108/039	gross	1	g - r o ss
 108/041	gross	1	g - r o ss
 108/043	gross	1	g - r o ss
 108/047	gross	1	g - r o ss
 108/049	gross	1	g - r o ss
-108/063	NA	NA	- - - - -
+108/063	NA	NA	-
 108/065	gross	1	g - r o ss
 108/067	gross	1	g - r o ss
 108/075	groass	1	g - r oa ss
@@ -5711,17 +5711,17 @@
 108/081	groas	1	g - r oa s
 108/085	groass	1	g - r oa ss
 108/087	gruoss	1	g - r uo ss
-108/091	NA	NA	- - - - -
-108/099	NA	NA	- - - - -
+108/091	NA	NA	-
+108/099	NA	NA	-
 108/101	groass	1	g - r oa ss
 108/103	groass	1	g - r oa ss
-108/105	NA	NA	- - - - -
+108/105	NA	NA	-
 108/109	grooss	1	g - r oo ss
 108/111	graos	1	g - r ao s
 108/113	groass	1	g - r oa ss
-108/117	NA	NA	- - - - -
+108/117	NA	NA	-
 108/119	groass	1	g - r oa ss
-108/121	NA	NA	- - - - -
+108/121	NA	NA	-
 108/123	groass	1	g - r oa ss
 108/125	groass	1	g - r oa ss
 108/127	groass	1	g - r oa ss
@@ -5730,16 +5730,16 @@
 108/133	gross	1	g - r o ss
 108/135	gross	1	g - r o ss
 108/137	gross	1	g - r o ss
-108/139	NA	NA	- - - - -
+108/139	NA	NA	-
 108/141	gross	1	g - r o ss
 109/035	gross	1	g - r o ss
 109/037	gross	1	g - r o ss
 109/039	gross	1	g - r o ss
 109/041	gross	1	g - r o ss
 109/043	gross	1	g - r o ss
-109/045	NA	NA	- - - - -
+109/045	NA	NA	-
 109/049	gross	1	g - r o ss
-109/053	NA	NA	- - - - -
+109/053	NA	NA	-
 109/061	gross	1	g - r o ss
 109/063	gross	1	g - r o ss
 109/065	gross	1	g - r o ss
@@ -5753,24 +5753,24 @@
 109/095	groass	1	g - r oa ss
 109/097	groass	1	g - r oa ss
 109/099	grooss	1	g - r oo ss
-109/101	NA	NA	- - - - -
+109/101	NA	NA	-
 109/103	gross	1	g - r o ss
 109/107	groass	1	g - r oa ss
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	groass	1	g - r oa ss
 109/113	groass	1	g - r oa ss
 109/115	groass	1	g - r oa ss
 109/117	groass	1	g - r oa ss
 109/119	groass	1	g - r oa ss
 109/121	gross	1	g - r o ss
-109/123	NA	NA	- - - - -
+109/123	NA	NA	-
 109/125	groass	1	g - r oa ss
-109/127	NA	NA	- - - - -
+109/127	NA	NA	-
 109/129	groass	1	g - r oa ss
 109/131	grouss	1	g - r ou ss
-109/133	NA	NA	- - - - -
+109/133	NA	NA	-
 109/135	grouss	1	g - r ou ss
-109/137	NA	NA	- - - - -
+109/137	NA	NA	-
 109/139	groass	1	g - r oa ss
 110/035	groess	1	g - r oe ss
 110/039	gross	1	g - r o ss
@@ -5783,13 +5783,13 @@
 110/061	grouss	1	g - r ou ss
 110/065	gross	1	g - r o ss
 110/075	groass	1	g - r oa ss
-110/079	NA	NA	- - - - -
+110/079	NA	NA	-
 110/081	groas	1	g - r oa s
 110/083	groass	1	g - r oa ss
 110/087	groas	1	g - r oa s
 110/089	groas	1	g - r oa s
-110/091	NA	NA	- - - - -
-110/093	NA	NA	- - - - -
+110/091	NA	NA	-
+110/093	NA	NA	-
 110/095	groass	1	g - r oa ss
 110/097	groas	1	g - r oa s
 110/099	groiss	1	g - r oi ss
@@ -5801,14 +5801,14 @@
 110/115	groass	1	g - r oa ss
 110/117	gross	1	g - r o ss
 110/119	groass	1	g - r oa ss
-110/121	NA	NA	- - - - -
+110/121	NA	NA	-
 110/125	gross	1	g - r o ss
 110/127	groass	1	g - r oa ss
 110/129	groass	1	g - r oa ss
-110/131	NA	NA	- - - - -
+110/131	NA	NA	-
 110/133	groass	1	g - r oa ss
 110/135	groass	1	g - r oa ss
-110/137	NA	NA	- - - - -
+110/137	NA	NA	-
 110/139	gross	1	g - r o ss
 111/035	gruoss	1	g - r uo ss
 111/037	groess	1	g - r oe ss
@@ -5829,9 +5829,9 @@
 111/107	groass	1	g - r oa ss
 111/109	groass	1	g - r oa ss
 111/111	groass	1	g - r oa ss
-111/113	NA	NA	- - - - -
-111/115	NA	NA	- - - - -
-111/117	NA	NA	- - - - -
+111/113	NA	NA	-
+111/115	NA	NA	-
+111/117	NA	NA	-
 111/119	gros	1	g - r o s
 111/121	groass	1	g - r oa ss
 111/123	gross	1	g - r o ss
@@ -5844,14 +5844,14 @@
 112/059	grooss	1	g - r oo ss
 112/061	gross	1	g - r o ss
 112/063	grouss	1	g - r ou ss
-112/075	NA	NA	- - - - -
+112/075	NA	NA	-
 112/081	groas	1	g - r oa s
 112/083	groass	1	g - r oa ss
-112/085	NA	NA	- - - - -
+112/085	NA	NA	-
 112/111	gross	1	g - r o ss
 112/115	gross	1	g - r o ss
 112/117	gross	1	g - r o ss
-112/119	NA	NA	- - - - -
+112/119	NA	NA	-
 113/035	gross	1	g - r o ss
 113/037	groess	1	g - r oe ss
 113/039	gross	1	g - r o ss
@@ -5864,7 +5864,7 @@
 113/121	gross	1	g - r o ss
 113/123	gross	1	g - r o ss
 114/035	gross	1	g - r o ss
-114/045	NA	NA	- - - - -
+114/045	NA	NA	-
 114/083	groass	1	g - r oa ss
 114/085	groass	1	g - r oa ss
 115/041	gross	1	g - r o ss
@@ -5872,7 +5872,7 @@
 115/045	gross	1	g - r o ss
 115/083	groass	1	g - r oa ss
 115/085	groass	1	g - r oa ss
-116/043	NA	NA	- - - - -
+116/043	NA	NA	-
 116/045	gross	1	g - r o ss
 116/083	groass	1	g - r oa ss
 117/043	gross	1	g - r o ss

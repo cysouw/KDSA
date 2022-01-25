@@ -1849,7 +1849,7 @@
 041/079	döhr	1	d - öh r - - - -
 041/081	döär	1	d - öä r - - - -
 041/083	dör	1	d - ö r - - - -
-041/085	NA	NA	- - - - - - - -
+041/085	NA	NA	-
 041/087	darf	1	d - a r - f - -
 041/089	derr	1	d - e rr - - - -
 041/091	derr	1	d - e rr - - - -
@@ -2753,7 +2753,7 @@
 055/113	durf	1	d - u r - f - -
 055/115	derf	1	d - e r - f - -
 055/117	derf	1	d - e r - f - -
-055/119	NA	NA	- - - - - - - -
+055/119	NA	NA	-
 055/123	dürf	1	d - ü r - f - -
 055/125	dirf	1	d - i r - f - -
 055/127	dirf	1	d - i r - f - -
@@ -2969,7 +2969,7 @@
 058/123	dirf	1	d - i r - f - -
 058/125	dirf	1	d - i r - f - -
 058/127	dirf	1	d - i r - f - -
-058/129	NA	NA	- - - - - - - -
+058/129	NA	NA	-
 058/131	dürf	1	d - ü r - f - -
 058/133	tor	1	t - o r - - - -
 058/135	derf	1	d - e r - f - -
@@ -3019,7 +3019,7 @@
 059/081	dürf	1	d - ü r - f - -
 059/083	därf	1	d - ä r - f - -
 059/085	daerf	1	d - ae r - f - -
-059/087	NA	NA	- - - - - - - -
+059/087	NA	NA	-
 059/089	derf	1	d - e r - f - -
 059/091	darf	1	d - a r - f - -
 059/093	darf	1	d - a r - f - -
@@ -3039,9 +3039,9 @@
 059/121	därf	1	d - ä r - f - -
 059/123	dirf	1	d - i r - f - -
 059/125	dirf	1	d - i r - f - -
-059/127	NA	NA	- - - - - - - -
+059/127	NA	NA	-
 059/129	derf	1	d - e r - f - -
-059/131	NA	NA	- - - - - - - -
+059/131	NA	NA	-
 059/133	därrf	1	d - ä rr - f - -
 059/135	dirf	1	d - i r - f - -
 059/137	dirf	1	d - i r - f - -
@@ -3073,7 +3073,7 @@
 060/043	dürf	1	d - ü r - f - -
 060/045	derf	1	d - e r - f - -
 060/047	daff	1	d - a - - ff - -
-060/049	NA	NA	- - - - - - - -
+060/049	NA	NA	-
 060/051	dorf	1	d - o r - f - -
 060/053	derff	1	d - e r - ff - -
 060/055	derf	1	d - e r - f - -
@@ -3246,12 +3246,12 @@
 062/105	derf	1	d - e r - f - -
 062/107	därf	1	d - ä r - f - -
 062/109	därf	1	d - ä r - f - -
-062/111	NA	NA	- - - - - - - -
+062/111	NA	NA	-
 062/113	darf	1	d - a r - f - -
 062/115	därf	1	d - ä r - f - -
 062/117	dirf	1	d - i r - f - -
 062/119	dirf	1	d - i r - f - -
-062/121	NA	NA	- - - - - - - -
+062/121	NA	NA	-
 062/123	dirf	1	d - i r - f - -
 062/125	dorf	1	d - o r - f - -
 062/127	derf	1	d - e r - f - -
@@ -3323,7 +3323,7 @@
 063/117	darf	1	d - a r - f - -
 063/119	darf	1	d - a r - f - -
 063/121	darf	1	d - a r - f - -
-063/123	NA	NA	- - - - - - - -
+063/123	NA	NA	-
 063/125	dürf	1	d - ü r - f - -
 063/127	derf	1	d - e r - f - -
 063/135	derf	1	d - e r - f - -
@@ -3386,19 +3386,19 @@
 064/105	dirf	1	d - i r - f - -
 064/107	darf	1	d - a r - f - -
 064/109	derf	1	d - e r - f - -
-064/111	NA	NA	- - - - - - - -
+064/111	NA	NA	-
 064/113	derf	1	d - e r - f - -
 064/115	darf	1	d - a r - f - -
 064/117	darf	1	d - a r - f - -
 064/119	darf	1	d - a r - f - -
 064/121	dirf	1	d - i r - f - -
-064/123	NA	NA	- - - - - - - -
+064/123	NA	NA	-
 064/125	drf	1	d r - - - f - -
 064/127	dirf	1	d - i r - f - -
 064/135	därf	1	d - ä r - f - -
 064/137	tärf	1	t - ä r - f - -
 064/139	derf	1	d - e r - f - -
-064/141	NA	NA	- - - - - - - -
+064/141	NA	NA	-
 064/143	derf	1	d - e r - f - -
 064/145	tätt	1	t - ä - - - tt -
 064/147	därf	1	d - ä r - f - -
@@ -3453,7 +3453,7 @@
 065/107	derf	1	d - e r - f - -
 065/109	derf	1	d - e r - f - -
 065/111	derf	1	d - e r - f - -
-065/113	NA	NA	- - - - - - - -
+065/113	NA	NA	-
 065/115	darf	1	d - a r - f - -
 065/121	darf	1	d - a r - f - -
 065/123	dirf	1	d - i r - f - -
@@ -3472,7 +3472,7 @@
 066/023	duscht	1	d - u - - sch t -
 066/025	doascht	1	d - oa - - sch t -
 066/027	duscht	1	d - u - - sch t -
-066/029	NA	NA	- - - - - - - -
+066/029	NA	NA	-
 066/031	doref	1	d - o r e f - -
 066/033	dorf	1	d - o r - f - -
 066/035	döref	1	d - ö r e f - -
@@ -3575,7 +3575,7 @@
 067/109	därf	1	d - ä r - f - -
 067/111	derf	1	d - e r - f - -
 067/113	därf	1	d - ä r - f - -
-067/143	NA	NA	- - - - - - - -
+067/143	NA	NA	-
 067/145	tert	1	t - e r - - t -
 067/147	därf	1	d - ä r - f - -
 067/149	därf	1	d - ä r - f - -
@@ -3625,17 +3625,17 @@
 068/089	deaf	1	d - ea - - f - -
 068/091	dirf	1	d - i r - f - -
 068/093	dörff	1	d - ö r - ff - -
-068/095	NA	NA	- - - - - - - -
+068/095	NA	NA	-
 068/097	deof	1	d - eo - - f - -
 068/099	derf	1	d - e r - f - -
-068/101	NA	NA	- - - - - - - -
-068/103	NA	NA	- - - - - - - -
+068/101	NA	NA	-
+068/103	NA	NA	-
 068/105	deaf	1	d - ea - - f - -
 068/107	derf	1	d - e r - f - -
 068/109	derf	1	d - e r - f - -
 068/111	därf	1	d - ä r - f - -
 068/145	därf	1	d - ä r - f - -
-068/147	NA	NA	- - - - - - - -
+068/147	NA	NA	-
 068/149	derf	1	d - e r - f - -
 068/151	dürf	1	d - ü r - f - -
 068/153	dirf	1	d - i r - f - -
@@ -3822,7 +3822,7 @@
 072/031	dieref	1	d - ie r e f - -
 072/033	dirf	1	d - i r - f - -
 072/035	derf	1	d - e r - f - -
-072/037	NA	NA	- - - - - - - -
+072/037	NA	NA	-
 072/039	deof	1	d - eo - - f - -
 072/041	derf	1	d - e r - f - -
 072/043	derf	1	d - e r - f - -
@@ -3862,7 +3862,7 @@
 072/147	tirf	1	t - i r - f - -
 072/149	dirf	1	d - i r - f - -
 072/151	tirf	1	t - i r - f - -
-072/153	NA	NA	- - - - - - - -
+072/153	NA	NA	-
 072/155	derf	1	d - e r - f - -
 072/157	derf	1	d - e r - f - -
 072/159	därf	1	d - ä r - f - -
@@ -3978,7 +3978,7 @@
 074/145	dürf	1	d - ü r - f - -
 074/147	tirf	1	t - i r - f - -
 074/149	tirf	1	t - i r - f - -
-074/153	NA	NA	- - - - - - - -
+074/153	NA	NA	-
 074/155	derf	1	d - e r - f - -
 074/157	dirf	1	d - i r - f - -
 074/159	därf	1	d - ä r - f - -
@@ -4033,13 +4033,13 @@
 075/135	dirf	1	d - i r - f - -
 075/145	tejt	1	t - ej - - - t -
 075/147	dürf	1	d - ü r - f - -
-075/149	NA	NA	- - - - - - - -
+075/149	NA	NA	-
 075/155	dürf	1	d - ü r - f - -
 075/157	terf	1	t - e r - f - -
 075/159	def	1	d - e - - f - -
 075/161	tärf	1	t - ä r - f - -
 075/163	teff	1	t - e - - ff - -
-075/165	NA	NA	- - - - - - - -
+075/165	NA	NA	-
 076/019	duurf	1	d - uu r - f - -
 076/021	doarf	1	d - oa r - f - -
 076/023	duauf	1	d - uau - - f - -
@@ -4176,7 +4176,7 @@
 078/101	derf	1	d - e r - f - -
 078/103	diäf	1	d - iä - - f - -
 078/105	deaf	1	d - ea - - f - -
-078/135	NA	NA	- - - - - - - -
+078/135	NA	NA	-
 078/193	terf	1	t - e r - f - -
 079/021	sollt	2	s o ll t - - - -
 079/023	darf	1	d - a r - f - -
@@ -4223,7 +4223,7 @@
 079/107	derf	1	d - e r - f - -
 079/133	dürf	1	d - ü r - f - -
 079/135	dür	1	d - ü r - - - -
-079/193	NA	NA	- - - - - - - -
+079/193	NA	NA	-
 079/195	darf	1	d - a r - f - -
 079/197	derf	1	d - e r - f - -
 080/025	dürf	1	d - ü r - f - -
@@ -4274,7 +4274,7 @@
 080/151	terf	1	t - e r - f - -
 080/153	täft	1	t - ä - - f t -
 080/193	derf	1	d - e r - f - -
-080/195	NA	NA	- - - - - - - -
+080/195	NA	NA	-
 081/025	darf	1	d - a r - f - -
 081/027	daf	1	d - a - - f - -
 081/029	derf	1	d - e r - f - -
@@ -4323,7 +4323,7 @@
 081/133	derf	1	d - e r - f - -
 081/147	terf	1	t - e r - f - -
 081/191	derf	1	d - e r - f - -
-081/193	NA	NA	- - - - - - - -
+081/193	NA	NA	-
 081/195	därf	1	d - ä r - f - -
 082/027	daaschen	1	d - aa - - sch - en
 082/029	derf	1	d - e r - f - -
@@ -4421,7 +4421,7 @@
 083/111	deaf	1	d - ea - - f - -
 083/113	deaf	1	d - ea - - f - -
 083/115	derf	1	d - e r - f - -
-083/117	NA	NA	- - - - - - - -
+083/117	NA	NA	-
 083/119	deaf	1	d - ea - - f - -
 083/121	derf	1	d - e r - f - -
 083/129	derf	1	d - e r - f - -
@@ -4472,7 +4472,7 @@
 084/099	diaf	1	d - ia - - f - -
 084/101	därf	1	d - ä r - f - -
 084/103	däaf	1	d - äa - - f - -
-084/105	NA	NA	- - - - - - - -
+084/105	NA	NA	-
 084/107	derf	1	d - e r - f - -
 084/109	deaf	1	d - ea - - f - -
 084/111	deaf	1	d - ea - - f - -
@@ -4485,14 +4485,14 @@
 084/133	deaf	1	d - ea - - f - -
 084/135	därf	1	d - ä r - f - -
 084/137	derf	1	d - e r - f - -
-084/139	NA	NA	- - - - - - - -
+084/139	NA	NA	-
 084/141	dürf	1	d - ü r - f - -
 084/143	därf	1	d - ä r - f - -
-084/145	NA	NA	- - - - - - - -
+084/145	NA	NA	-
 084/147	deaf	1	d - ea - - f - -
 084/149	deaf	1	d - ea - - f - -
 084/171	täöt	1	t - äö - - - t -
-084/173	NA	NA	- - - - - - - -
+084/173	NA	NA	-
 084/195	terf	1	t - e r - f - -
 085/031	drönnte	1	d r ö - - nn t e
 085/033	derf	1	d - e r - f - -
@@ -4598,7 +4598,7 @@
 086/111	derf	1	d - e r - f - -
 086/113	derf	1	d - e r - f - -
 086/115	derf	1	d - e r - f - -
-086/117	NA	NA	- - - - - - - -
+086/117	NA	NA	-
 086/119	deaf	1	d - ea - - f - -
 086/121	deaff	1	d - ea - - ff - -
 086/123	derf	1	d - e r - f - -
@@ -4632,7 +4632,7 @@
 087/055	derf	1	d - e r - f - -
 087/057	derf	1	d - e r - f - -
 087/059	darf	1	d - a r - f - -
-087/061	NA	NA	- - - - - - - -
+087/061	NA	NA	-
 087/063	deff	1	d - e - - ff - -
 087/065	däff	1	d - ä - - ff - -
 087/067	däff	1	d - ä - - ff - -
@@ -4717,7 +4717,7 @@
 088/109	däaf	1	d - äa - - f - -
 088/113	derf	1	d - e r - f - -
 088/115	derf	1	d - e r - f - -
-088/117	NA	NA	- - - - - - - -
+088/117	NA	NA	-
 088/121	deaf	1	d - ea - - f - -
 088/123	derf	1	d - e r - f - -
 088/127	derf	1	d - e r - f - -
@@ -4759,7 +4759,7 @@
 089/087	derf	1	d - e r - f - -
 089/089	derf	1	d - e r - f - -
 089/091	derf	1	d - e r - f - -
-089/093	NA	NA	- - - - - - - -
+089/093	NA	NA	-
 089/095	deaf	1	d - ea - - f - -
 089/097	deaf	1	d - ea - - f - -
 089/099	derf	1	d - e r - f - -
@@ -4768,16 +4768,16 @@
 089/105	derf	1	d - e r - f - -
 089/107	derf	1	d - e r - f - -
 089/109	derf	1	d - e r - f - -
-089/111	NA	NA	- - - - - - - -
+089/111	NA	NA	-
 089/113	derf	1	d - e r - f - -
 089/115	deaf	1	d - ea - - f - -
 089/117	deaf	1	d - ea - - f - -
-089/119	NA	NA	- - - - - - - -
+089/119	NA	NA	-
 089/121	deaf	1	d - ea - - f - -
-089/123	NA	NA	- - - - - - - -
+089/123	NA	NA	-
 089/125	derf	1	d - e r - f - -
 089/127	derf	1	d - e r - f - -
-089/129	NA	NA	- - - - - - - -
+089/129	NA	NA	-
 089/131	derf	1	d - e r - f - -
 089/133	derf	1	d - e r - f - -
 089/135	deaf	1	d - ea - - f - -
@@ -4813,18 +4813,18 @@
 090/079	dearf	1	d - ea r - f - -
 090/081	derf	1	d - e r - f - -
 090/083	deaf	1	d - ea - - f - -
-090/085	NA	NA	- - - - - - - -
+090/085	NA	NA	-
 090/087	derf	1	d - e r - f - -
 090/089	derf	1	d - e r - f - -
 090/091	deaf	1	d - ea - - f - -
 090/093	deaf	1	d - ea - - f - -
-090/095	NA	NA	- - - - - - - -
+090/095	NA	NA	-
 090/097	deaf	1	d - ea - - f - -
 090/099	derf	1	d - e r - f - -
 090/101	deaf	1	d - ea - - f - -
 090/103	deaff	1	d - ea - - ff - -
 090/105	dearf	1	d - ea r - f - -
-090/107	NA	NA	- - - - - - - -
+090/107	NA	NA	-
 090/109	derf	1	d - e r - f - -
 090/111	deaf	1	d - ea - - f - -
 090/113	derf	1	d - e r - f - -
@@ -4832,7 +4832,7 @@
 090/119	derf	1	d - e r - f - -
 090/121	derf	1	d - e r - f - -
 090/123	deaf	1	d - ea - - f - -
-090/125	NA	NA	- - - - - - - -
+090/125	NA	NA	-
 090/127	derf	1	d - e r - f - -
 090/129	derf	1	d - e r - f - -
 090/131	derf	1	d - e r - f - -
@@ -4843,7 +4843,7 @@
 090/141	derf	1	d - e r - f - -
 090/143	deaf	1	d - ea - - f - -
 090/145	deaf	1	d - ea - - f - -
-090/147	NA	NA	- - - - - - - -
+090/147	NA	NA	-
 090/149	deaf	1	d - ea - - f - -
 090/151	deaf	1	d - ea - - f - -
 091/035	därf	1	d - ä r - f - -
@@ -4884,7 +4884,7 @@
 091/107	deaf	1	d - ea - - f - -
 091/109	derf	1	d - e r - f - -
 091/111	def	1	d - e - - f - -
-091/113	NA	NA	- - - - - - - -
+091/113	NA	NA	-
 091/115	derf	1	d - e r - f - -
 091/117	def	1	d - e - - f - -
 091/119	deaf	1	d - ea - - f - -
@@ -4895,7 +4895,7 @@
 091/133	deaf	1	d - ea - - f - -
 091/135	deaf	1	d - ea - - f - -
 091/137	deaf	1	d - ea - - f - -
-091/139	NA	NA	- - - - - - - -
+091/139	NA	NA	-
 091/141	derf	1	d - e r - f - -
 091/143	derf	1	d - e r - f - -
 091/145	derf	1	d - e r - f - -
@@ -4916,7 +4916,7 @@
 092/053	dirf	1	d - i r - f - -
 092/055	daff	1	d - a - - ff - -
 092/057	derf	1	d - e r - f - -
-092/059	NA	NA	- - - - - - - -
+092/059	NA	NA	-
 092/061	deaf	1	d - ea - - f - -
 092/063	daof	1	d - ao - - f - -
 092/065	derf	1	d - e r - f - -
@@ -4939,14 +4939,14 @@
 092/099	derf	1	d - e r - f - -
 092/101	dearf	1	d - ea r - f - -
 092/103	derf	1	d - e r - f - -
-092/105	NA	NA	- - - - - - - -
+092/105	NA	NA	-
 092/107	derf	1	d - e r - f - -
 092/109	derf	1	d - e r - f - -
 092/111	derf	1	d - e r - f - -
 092/113	derf	1	d - e r - f - -
 092/115	def	1	d - e - - f - -
 092/117	def	1	d - e - - f - -
-092/119	NA	NA	- - - - - - - -
+092/119	NA	NA	-
 092/121	derf	1	d - e r - f - -
 092/123	derf	1	d - e r - f - -
 092/125	deaf	1	d - ea - - f - -
@@ -5049,7 +5049,7 @@
 094/083	dearf	1	d - ea r - f - -
 094/085	derf	1	d - e r - f - -
 094/087	därf	1	d - ä r - f - -
-094/089	NA	NA	- - - - - - - -
+094/089	NA	NA	-
 094/091	deaf	1	d - ea - - f - -
 094/093	deaf	1	d - ea - - f - -
 094/095	deaf	1	d - ea - - f - -
@@ -5066,7 +5066,7 @@
 094/117	derf	1	d - e r - f - -
 094/119	derf	1	d - e r - f - -
 094/121	derf	1	d - e r - f - -
-094/123	NA	NA	- - - - - - - -
+094/123	NA	NA	-
 094/125	deaf	1	d - ea - - f - -
 094/127	deaf	1	d - ea - - f - -
 094/129	deaff	1	d - ea - - ff - -
@@ -5077,7 +5077,7 @@
 094/139	derf	1	d - e r - f - -
 094/141	derf	1	d - e r - f - -
 094/143	deaf	1	d - ea - - f - -
-094/145	NA	NA	- - - - - - - -
+094/145	NA	NA	-
 094/147	därf	1	d - ä r - f - -
 094/149	deaf	1	d - ea - - f - -
 094/151	deaf	1	d - ea - - f - -
@@ -5112,14 +5112,14 @@
 095/085	deaf	1	d - ea - - f - -
 095/087	deaf	1	d - ea - - f - -
 095/089	def	1	d - e - - f - -
-095/091	NA	NA	- - - - - - - -
+095/091	NA	NA	-
 095/093	derf	1	d - e r - f - -
 095/095	deaf	1	d - ea - - f - -
 095/097	deaf	1	d - ea - - f - -
 095/099	derf	1	d - e r - f - -
 095/101	deaf	1	d - ea - - f - -
 095/103	deof	1	d - eo - - f - -
-095/105	NA	NA	- - - - - - - -
+095/105	NA	NA	-
 095/107	dearf	1	d - ea r - f - -
 095/109	derf	1	d - e r - f - -
 095/111	def	1	d - e - - f - -
@@ -5134,7 +5134,7 @@
 095/131	deaf	1	d - ea - - f - -
 095/133	deof	1	d - eo - - f - -
 095/139	därf	1	d - ä r - f - -
-095/141	NA	NA	- - - - - - - -
+095/141	NA	NA	-
 095/143	derf	1	d - e r - f - -
 095/145	teaf	1	t - ea - - f - -
 095/147	deaf	1	d - ea - - f - -
@@ -5184,7 +5184,7 @@
 096/111	def	1	d - e - - f - -
 096/113	derf	1	d - e r - f - -
 096/115	deaf	1	d - ea - - f - -
-096/117	NA	NA	- - - - - - - -
+096/117	NA	NA	-
 096/119	derf	1	d - e r - f - -
 096/121	deaf	1	d - ea - - f - -
 096/123	deaf	1	d - ea - - f - -
@@ -5192,7 +5192,7 @@
 096/129	deaf	1	d - ea - - f - -
 096/131	deaf	1	d - ea - - f - -
 096/135	derf	1	d - e r - f - -
-096/137	NA	NA	- - - - - - - -
+096/137	NA	NA	-
 096/139	derf	1	d - e r - f - -
 096/141	därf	1	d - ä r - f - -
 096/143	därf	1	d - ä r - f - -
@@ -5240,7 +5240,7 @@
 097/105	deaf	1	d - ea - - f - -
 097/107	deaf	1	d - ea - - f - -
 097/109	derf	1	d - e r - f - -
-097/113	NA	NA	- - - - - - - -
+097/113	NA	NA	-
 097/125	def	1	d - e - - f - -
 097/131	derf	1	d - e r - f - -
 097/133	derf	1	d - e r - f - -
@@ -5276,7 +5276,7 @@
 098/079	dürf	1	d - ü r - f - -
 098/081	dearf	1	d - ea r - f - -
 098/083	dearf	1	d - ea r - f - -
-098/085	NA	NA	- - - - - - - -
+098/085	NA	NA	-
 098/087	deaf	1	d - ea - - f - -
 098/089	derf	1	d - e r - f - -
 098/091	daf	1	d - a - - f - -
@@ -5300,7 +5300,7 @@
 098/145	därf	1	d - ä r - f - -
 098/147	deaf	1	d - ea - - f - -
 098/149	dearf	1	d - ea r - f - -
-098/151	NA	NA	- - - - - - - -
+098/151	NA	NA	-
 099/033	derf	1	d - e r - f - -
 099/035	därf	1	d - ä r - f - -
 099/037	därf	1	d - ä r - f - -
@@ -5346,7 +5346,7 @@
 099/141	derf	1	d - e r - f - -
 099/143	deaf	1	d - ea - - f - -
 099/145	deaf	1	d - ea - - f - -
-099/147	NA	NA	- - - - - - - -
+099/147	NA	NA	-
 100/033	derf	1	d - e r - f - -
 100/035	därf	1	d - ä r - f - -
 100/037	derf	1	d - e r - f - -
@@ -5385,8 +5385,8 @@
 100/121	deaf	1	d - ea - - f - -
 100/125	darf	1	d - a r - f - -
 100/127	derf	1	d - e r - f - -
-100/129	NA	NA	- - - - - - - -
-100/133	NA	NA	- - - - - - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	derf	1	d - e r - f - -
 100/141	darf	1	d - a r - f - -
 100/143	derf	1	d - e r - f - -
@@ -5419,13 +5419,13 @@
 101/097	derf	1	d - e r - f - -
 101/099	derf	1	d - e r - f - -
 101/101	terf	1	t - e r - f - -
-101/103	NA	NA	- - - - - - - -
+101/103	NA	NA	-
 101/107	def	1	d - e - - f - -
 101/109	därf	1	d - ä r - f - -
 101/113	def	1	d - e - - f - -
 101/115	dearf	1	d - ea r - f - -
 101/121	deaf	1	d - ea - - f - -
-101/125	NA	NA	- - - - - - - -
+101/125	NA	NA	-
 101/129	derf	1	d - e r - f - -
 101/131	deaf	1	d - ea - - f - -
 101/133	deaf	1	d - ea - - f - -
@@ -5456,7 +5456,7 @@
 102/073	dearf	1	d - ea r - f - -
 102/075	dirf	1	d - i r - f - -
 102/077	dürf	1	d - ü r - f - -
-102/079	NA	NA	- - - - - - - -
+102/079	NA	NA	-
 102/081	derf	1	d - e r - f - -
 102/083	derf	1	d - e r - f - -
 102/089	derf	1	d - e r - f - -
@@ -5532,11 +5532,11 @@
 104/047	müent	4	m üe - n - t - -
 104/049	töf	1	t - ö - - f - -
 104/051	dörf	1	d - ö r - f - -
-104/053	NA	NA	- - - - - - - -
+104/053	NA	NA	-
 104/055	dörf	1	d - ö r - f - -
 104/057	döhr	1	d - öh r - - - -
 104/059	tör	1	t - ö r - - - -
-104/061	NA	NA	- - - - - - - -
+104/061	NA	NA	-
 104/063	düarf	1	d - üa r - f - -
 104/065	dürf	1	d - ü r - f - -
 104/067	dürf	1	d - ü r - f - -
@@ -5557,7 +5557,7 @@
 104/119	derf	1	d - e r - f - -
 104/121	darf	1	d - a r - f - -
 104/123	deaf	1	d - ea - - f - -
-104/125	NA	NA	- - - - - - - -
+104/125	NA	NA	-
 104/127	därf	1	d - ä r - f - -
 104/131	daaf	1	d - aa - - f - -
 104/133	derf	1	d - e r - f - -
@@ -5635,10 +5635,10 @@
 106/079	dürf	1	d - ü r - f - -
 106/081	tirf	1	t - i r - f - -
 106/085	derf	1	d - e r - f - -
-106/087	NA	NA	- - - - - - - -
+106/087	NA	NA	-
 106/093	törf	1	t - ö r - f - -
 106/097	mögt	4	m ö - g - t - -
-106/099	NA	NA	- - - - - - - -
+106/099	NA	NA	-
 106/103	derf	1	d - e r - f - -
 106/111	derf	1	d - e r - f - -
 106/115	däf	1	d - ä - - f - -
@@ -5687,7 +5687,7 @@
 107/123	därf	1	d - ä r - f - -
 107/125	terf	1	t - e r - f - -
 107/127	darf	1	d - a r - f - -
-107/129	NA	NA	- - - - - - - -
+107/129	NA	NA	-
 107/131	darf	1	d - a r - f - -
 107/133	deaf	1	d - ea - - f - -
 107/135	därf	1	d - ä r - f - -
@@ -5696,14 +5696,14 @@
 107/141	deäf	1	d - eä - - f - -
 107/143	derf	1	d - e r - f - -
 108/033	dörf	1	d - ö r - f - -
-108/035	NA	NA	- - - - - - - -
+108/035	NA	NA	-
 108/037	törf	1	t - ö r - f - -
 108/039	dörf	1	d - ö r - f - -
 108/041	dörf	1	d - ö r - f - -
 108/043	dörf	1	d - ö r - f - -
 108/047	derf	1	d - e r - f - -
 108/049	teerf	1	t - ee r - f - -
-108/063	NA	NA	- - - - - - - -
+108/063	NA	NA	-
 108/065	törf	1	t - ö r - f - -
 108/067	törf	1	t - ö r - f - -
 108/075	derf	1	d - e r - f - -
@@ -5737,7 +5737,7 @@
 109/039	törf	1	t - ö r - f - -
 109/041	dörf	1	d - ö r - f - -
 109/043	dörf	1	d - ö r - f - -
-109/045	NA	NA	- - - - - - - -
+109/045	NA	NA	-
 109/049	dörf	1	d - ö r - f - -
 109/053	derf	1	d - e r - f - -
 109/061	terf	1	t - e r - f - -
@@ -5756,7 +5756,7 @@
 109/101	terf	1	t - e r - f - -
 109/103	derf	1	d - e r - f - -
 109/107	terf	1	t - e r - f - -
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	tearf	1	t - ea r - f - -
 109/113	derf	1	d - e r - f - -
 109/115	derf	1	d - e r - f - -
@@ -5765,8 +5765,8 @@
 109/121	duf	1	d - u - - f - -
 109/123	terf	1	t - e r - f - -
 109/125	dearf	1	d - ea r - f - -
-109/127	NA	NA	- - - - - - - -
-109/129	NA	NA	- - - - - - - -
+109/127	NA	NA	-
+109/129	NA	NA	-
 109/131	deaf	1	d - ea - - f - -
 109/133	därf	1	d - ä r - f - -
 109/135	deaf	1	d - ea - - f - -
@@ -5808,7 +5808,7 @@
 110/131	miat	4	m ia - t - - - -
 110/133	terf	1	t - e r - f - -
 110/135	deaf	1	d - ea - - f - -
-110/137	NA	NA	- - - - - - - -
+110/137	NA	NA	-
 110/139	därf	1	d - ä r - f - -
 111/035	törf	1	t - ö r - f - -
 111/037	dörf	1	d - ö r - f - -
@@ -5830,7 +5830,7 @@
 111/109	derf	1	d - e r - f - -
 111/111	dearf	1	d - ea r - f - -
 111/113	derf	1	d - e r - f - -
-111/115	NA	NA	- - - - - - - -
+111/115	NA	NA	-
 111/117	derf	1	d - e r - f - -
 111/119	terf	1	t - e r - f - -
 111/121	derf	1	d - e r - f - -
@@ -5844,7 +5844,7 @@
 112/059	törf	1	t - ö r - f - -
 112/061	törf	1	t - ö r - f - -
 112/063	törf	1	t - ö r - f - -
-112/075	NA	NA	- - - - - - - -
+112/075	NA	NA	-
 112/081	terf	1	t - e r - f - -
 112/083	terf	1	t - e r - f - -
 112/085	derf	1	d - e r - f - -
@@ -5879,11 +5879,11 @@
 117/045	terf	1	t - e r - f - -
 118/041	derf	1	d - e r - f - -
 119/083	tört	1	t - ö r - - t -
-120/085	NA	NA	- - - - - - - -
+120/085	NA	NA	-
 121/127	teff	1	t - e - - ff - -
 122/127	teaf	1	t - ea - - f - -
 122/129	teff	1	t - e - - ff - -
-123/081	NA	NA	- - - - - - - -
+123/081	NA	NA	-
 123/123	teaff	1	t - ea - - ff - -
 123/125	deaf	1	d - ea - - f - -
 123/127	deaff	1	d - ea - - ff - -

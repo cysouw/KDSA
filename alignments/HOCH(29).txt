@@ -135,7 +135,7 @@
 014/063	hoch	1	h o ch
 014/065	hoch	1	h o ch
 014/067	hoch	1	h o ch
-014/109	NA	NA	- - - -
+014/109	NA	NA	-
 014/159	hoch	1	h o ch
 014/161	hoch	1	h o ch
 014/163	hoch	1	h o ch
@@ -180,7 +180,7 @@
 015/159	hoch	1	h o ch
 015/161	hoch	1	h o ch
 015/163	hoch	1	h o ch
-015/165	NA	NA	- - - -
+015/165	NA	NA	-
 015/167	hoch	1	h o ch
 015/169	hoch	1	h o ch
 015/173	hoch	1	h o ch
@@ -1273,7 +1273,7 @@
 032/089	hoch	1	h o ch
 032/091	hoch	1	h o ch
 032/093	hoch	1	h o ch
-032/095	NA	NA	- - - -
+032/095	NA	NA	-
 032/097	hoch	1	h o ch
 032/099	hoch	1	h o ch
 032/101	hoch	1	h o ch
@@ -4162,7 +4162,7 @@
 078/073	hoach	1	h oa ch
 078/075	hoch	1	h o ch
 078/077	hoch	1	h o ch
-078/079	NA	NA	- - - -
+078/079	NA	NA	-
 078/081	hauch	1	h au ch
 078/083	houch	1	h ou ch
 078/085	houch	1	h ou ch
@@ -4319,7 +4319,7 @@
 081/109	hou	1	h ou -
 081/111	houch	1	h ou ch
 081/127	hoi	1	h oi -
-081/129	NA	NA	- - - -
+081/129	NA	NA	-
 081/133	hoi	1	h oi -
 081/147	hooch	1	h oo ch
 081/191	hoch	1	h o ch
@@ -4877,7 +4877,7 @@
 091/093	houch	1	h ou ch
 091/095	houh	1	h ouh -
 091/097	haoch	1	h ao ch
-091/099	NA	NA	- - - -
+091/099	NA	NA	-
 091/101	hou	1	h ou -
 091/103	hoch	1	h o ch
 091/105	hoch	1	h o ch
@@ -5061,7 +5061,7 @@
 094/107	hoa	1	h oa -
 094/109	heooh	1	h eooh -
 094/111	hoch	1	h o ch
-094/113	NA	NA	- - - -
+094/113	NA	NA	-
 094/115	hea	1	h ea -
 094/117	ha	1	h a -
 094/119	hao	1	h ao -
@@ -5290,7 +5290,7 @@
 098/111	ho	1	h o -
 098/119	ho	1	h o -
 098/123	hoch	1	h o ch
-098/125	NA	NA	- - - -
+098/125	NA	NA	-
 098/127	hoch	1	h o ch
 098/135	houch	1	h ou ch
 098/137	hoch	1	h o ch
@@ -5404,7 +5404,7 @@
 101/055	hooch	1	h oo ch
 101/057	hoch	1	h o ch
 101/059	choch	1	ch o ch
-101/061	NA	NA	- - - -
+101/061	NA	NA	-
 101/063	houach	1	h oua ch
 101/065	ho	1	h o -
 101/067	hoh	1	h oh -
@@ -5602,7 +5602,7 @@
 105/113	hoch	1	h o ch
 105/115	hoach	1	h oa ch
 105/117	hoach	1	h oa ch
-105/119	NA	NA	- - - -
+105/119	NA	NA	-
 105/121	hoch	1	h o ch
 105/125	hoach	1	h oa ch
 105/127	hoach	1	h oa ch

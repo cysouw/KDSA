@@ -1807,7 +1807,7 @@
 040/111	wort	1	w o r - t
 040/113	wurt	1	w u r - t
 040/115	wort	1	w o r - t
-040/119	NA	NA	- - - - -
+040/119	NA	NA	-
 040/121	woart	1	w oa r - t
 040/123	wort	1	w o r - t
 040/125	wort	1	w o r - t
@@ -1938,7 +1938,7 @@
 042/137	woort	1	w oo r - t
 042/139	wohrt	1	w oh r - t
 042/141	wort	1	w o r - t
-042/143	NA	NA	- - - - -
+042/143	NA	NA	-
 042/145	woart	1	w oa r - t
 042/147	wortt	1	w o r - tt
 042/149	woort	1	w oo r - t
@@ -2090,7 +2090,7 @@
 045/079	woort	1	w oo r - t
 045/081	wort	1	w o r - t
 045/083	woart	1	w oa r - t
-045/085	NA	NA	- - - - -
+045/085	NA	NA	-
 045/087	wort	1	w o r - t
 045/089	wort	1	w o r - t
 045/091	wort	1	w o r - t
@@ -2320,8 +2320,8 @@
 049/051	wauert	1	w aue r - t
 049/053	weoert	1	w eoe r - t
 049/055	weurt	1	w eu r - t
-049/057	NA	NA	- - - - -
-049/059	NA	NA	- - - - -
+049/057	NA	NA	-
+049/059	NA	NA	-
 049/061	wurd	1	w u r - d
 049/063	wuurt	1	w uu r - t
 049/065	wuurt	1	w uu r - t
@@ -2447,7 +2447,7 @@
 051/043	wiot	1	w io - - t
 051/045	wuot	1	w uo - - t
 051/047	wäuert	1	w äue r - t
-051/049	NA	NA	- - - - -
+051/049	NA	NA	-
 051/051	wort	1	w o r - t
 051/053	wauert	1	w aue r - t
 051/055	waurt	1	w au r - t
@@ -2631,7 +2631,7 @@
 053/145	wohrt	1	w oh r - t
 053/147	woart	1	w oa r - t
 053/149	woart	1	w oa r - t
-053/151	NA	NA	- - - - -
+053/151	NA	NA	-
 053/153	woart	1	w oa r - t
 053/155	wohrt	1	w oh r - t
 053/157	wohrt	1	w oh r - t
@@ -3123,7 +3123,7 @@
 060/145	woart	1	w oa r - t
 060/147	wohrt	1	w oh r - t
 060/149	woart	1	w oa r - t
-060/151	NA	NA	- - - - -
+060/151	NA	NA	-
 060/153	woort	1	w oo r - t
 060/155	woort	1	w oo r - t
 060/157	wort	1	w o r - t
@@ -3183,7 +3183,7 @@
 061/121	wurt	1	w u r - t
 061/123	wurt	1	w u r - t
 061/125	wort	1	w o r - t
-061/127	NA	NA	- - - - -
+061/127	NA	NA	-
 061/129	wuurt	1	w uu r - t
 061/131	wurt	1	w u r - t
 061/133	wurt	1	w u r - t
@@ -3246,17 +3246,17 @@
 062/105	wort	1	w o r - t
 062/107	wort	1	w o r - t
 062/109	wort	1	w o r - t
-062/111	NA	NA	- - - - -
+062/111	NA	NA	-
 062/113	wort	1	w o r - t
 062/115	wot	1	w o - - t
 062/117	wuot	1	w uo - - t
 062/119	wujt	1	w uj - - t
-062/121	NA	NA	- - - - -
+062/121	NA	NA	-
 062/123	wurt	1	w u r - t
 062/125	wuurt	1	w uu r - t
 062/127	wort	1	w o r - t
 062/129	wurt	1	w u r - t
-062/131	NA	NA	- - - - -
+062/131	NA	NA	-
 062/133	wort	1	w o r - t
 062/135	woort	1	w oo r - t
 062/137	wuurt	1	w uu r - t
@@ -3322,8 +3322,8 @@
 063/115	wort	1	w o r - t
 063/117	wort	1	w o r - t
 063/119	wort	1	w o r - t
-063/121	NA	NA	- - - - -
-063/123	NA	NA	- - - - -
+063/121	NA	NA	-
+063/123	NA	NA	-
 063/125	wurt	1	w u r - t
 063/127	wurt	1	w u r - t
 063/135	wot	1	w o - - t
@@ -3392,7 +3392,7 @@
 064/117	wort	1	w o r - t
 064/119	wort	1	w o r - t
 064/121	wurt	1	w u r - t
-064/123	NA	NA	- - - - -
+064/123	NA	NA	-
 064/125	wort	1	w o r - t
 064/127	wurt	1	w u r - t
 064/135	wot	1	w o - - t
@@ -3453,7 +3453,7 @@
 065/107	wort	1	w o r - t
 065/109	wort	1	w o r - t
 065/111	wort	1	w o r - t
-065/113	NA	NA	- - - - -
+065/113	NA	NA	-
 065/115	wort	1	w o r - t
 065/121	wort	1	w o r - t
 065/123	wurt	1	w u r - t
@@ -3514,7 +3514,7 @@
 066/107	wort	1	w o r - t
 066/109	wort	1	w o r - t
 066/111	wort	1	w o r - t
-066/113	NA	NA	- - - - -
+066/113	NA	NA	-
 066/121	wort	1	w o r - t
 066/139	woat	1	w oa - - t
 066/143	wort	1	w o r - t
@@ -3564,7 +3564,7 @@
 067/087	woort	1	w oo r - t
 067/089	woort	1	w oo r - t
 067/091	waart	1	w aa r - t
-067/093	NA	NA	- - - - -
+067/093	NA	NA	-
 067/095	wuort	1	w uo r - t
 067/097	woit	1	w oi - - t
 067/099	wuaat	1	w uaa - - t
@@ -3627,10 +3627,10 @@
 068/093	woat	1	w oa - - t
 068/095	wuet	1	w ue - - t
 068/097	wöart	1	w öa r - t
-068/099	NA	NA	- - - - -
+068/099	NA	NA	-
 068/101	wot	1	w o - - t
 068/103	wurt	1	w u r - t
-068/105	NA	NA	- - - - -
+068/105	NA	NA	-
 068/107	wort	1	w o r - t
 068/109	woat	1	w oa - - t
 068/111	woat	1	w oa - - t
@@ -3726,7 +3726,7 @@
 070/069	word	1	w o r - d
 070/071	wort	1	w o r - t
 070/073	wort	1	w o r - t
-070/075	NA	NA	- - - - -
+070/075	NA	NA	-
 070/077	wort	1	w o r - t
 070/079	wueet	1	w uee - - t
 070/081	wuuet	1	w uue - - t
@@ -3741,7 +3741,7 @@
 070/099	wuat	1	w ua - - t
 070/101	wuat	1	w ua - - t
 070/103	wurt	1	w u r - t
-070/105	NA	NA	- - - - -
+070/105	NA	NA	-
 070/107	wuat	1	w ua - - t
 070/109	wort	1	w o r - t
 070/111	wort	1	w o r - t
@@ -3839,7 +3839,7 @@
 072/065	wort	1	w o r - t
 072/067	wourt	1	w ou r - t
 072/069	wuurt	1	w uu r - t
-072/071	NA	NA	- - - - -
+072/071	NA	NA	-
 072/073	wort	1	w o r - t
 072/075	wort	1	w o r - t
 072/077	wort	1	w o r - t
@@ -3916,7 +3916,7 @@
 073/103	wort	1	w o r - t
 073/105	wort	1	w o r - t
 073/107	wort	1	w o r - t
-073/145	NA	NA	- - - - -
+073/145	NA	NA	-
 073/147	wort	1	w o r - t
 073/149	wort	1	w o r - t
 073/151	wort	1	w o r - t
@@ -3960,7 +3960,7 @@
 074/075	wort	1	w o r - t
 074/077	wort	1	w o r - t
 074/079	wort	1	w o r - t
-074/081	NA	NA	- - - - -
+074/081	NA	NA	-
 074/083	woat	1	w oa - - t
 074/085	wurt	1	w u r - t
 074/087	wurt	1	w u r - t
@@ -3976,7 +3976,7 @@
 074/107	wort	1	w o r - t
 074/109	wort	1	w o r - t
 074/145	woot	1	w oo - - t
-074/147	NA	NA	- - - - -
+074/147	NA	NA	-
 074/149	wart	1	w a r - t
 074/153	wort	1	w o r - t
 074/155	redt	1	r e - - dt
@@ -4026,14 +4026,14 @@
 075/095	woat	1	w oa - - t
 075/097	woart	1	w oa r - t
 075/099	wort	1	w o r - t
-075/101	NA	NA	- - - - -
+075/101	NA	NA	-
 075/103	wort	1	w o r - t
 075/105	wort	1	w o r - t
 075/107	wort	1	w o r - t
 075/135	bot	1	b o - - t
 075/145	woat	1	w oa - - t
 075/147	boat	1	b oa - - t
-075/149	NA	NA	- - - - -
+075/149	NA	NA	-
 075/155	wort	1	w o r - t
 075/157	wort	1	w o r - t
 075/159	wort	1	w o r - t
@@ -4042,7 +4042,7 @@
 075/165	red	1	r e - - d
 076/019	wurt	1	w u r - t
 076/021	wurt	1	w u r - t
-076/023	NA	NA	- - - - -
+076/023	NA	NA	-
 076/025	wouert	1	w oue r - t
 076/027	wurt	1	w u r - t
 076/029	wurt	1	w u r - t
@@ -4080,7 +4080,7 @@
 076/095	woart	1	w oa r - t
 076/097	woat	1	w oa - - t
 076/099	woart	1	w oa r - t
-076/101	NA	NA	- - - - -
+076/101	NA	NA	-
 076/103	wort	1	w o r - t
 076/135	wort	1	w o r - t
 076/137	woat	1	w oa - - t
@@ -4161,7 +4161,7 @@
 078/071	wort	1	w o r - t
 078/073	wort	1	w o r - t
 078/075	wort	1	w o r - t
-078/077	NA	NA	- - - - -
+078/077	NA	NA	-
 078/079	wurt	1	w u r - t
 078/081	wurt	1	w u r - t
 078/083	wort	1	w o r - t
@@ -4224,7 +4224,7 @@
 079/133	wort	1	w o r - t
 079/135	wort	1	w o r - t
 079/193	sajd	1	s aj - - d
-079/195	NA	NA	- - - - -
+079/195	NA	NA	-
 079/197	wort	1	w o r - t
 080/025	wourt	1	w ou r - t
 080/027	woort	1	w oo r - t
@@ -4311,7 +4311,7 @@
 081/093	woat	1	w oa - - t
 081/095	waot	1	w ao - - t
 081/097	woart	1	w oa r - t
-081/099	NA	NA	- - - - -
+081/099	NA	NA	-
 081/101	woart	1	w oa r - t
 081/103	woat	1	w oa - - t
 081/105	woart	1	w oa r - t
@@ -4451,7 +4451,7 @@
 084/057	word	1	w o r - d
 084/059	wort	1	w o r - t
 084/061	wort	1	w o r - t
-084/063	NA	NA	- - - - -
+084/063	NA	NA	-
 084/065	word	1	w o r - d
 084/067	woat	1	w oa - - t
 084/069	woart	1	w oa r - t
@@ -4465,7 +4465,7 @@
 084/085	wort	1	w o r - t
 084/087	woat	1	w oa - - t
 084/089	woart	1	w oa r - t
-084/091	NA	NA	- - - - -
+084/091	NA	NA	-
 084/093	woad	1	w oa - - d
 084/095	woart	1	w oa r - t
 084/097	wooat	1	w ooa - - t
@@ -4484,13 +4484,13 @@
 084/131	woad	1	w oa - - d
 084/133	woat	1	w oa - - t
 084/135	woat	1	w oa - - t
-084/137	NA	NA	- - - - -
+084/137	NA	NA	-
 084/139	woat	1	w oa - - t
 084/141	wuart	1	w ua r - t
 084/143	woat	1	w oa - - t
 084/145	woat	1	w oa - - t
 084/147	woat	1	w oa - - t
-084/149	NA	NA	- - - - -
+084/149	NA	NA	-
 084/171	boät	1	b oä - - t
 084/173	boat	1	b oa - - t
 084/195	boat	1	b oa - - t
@@ -4529,8 +4529,8 @@
 085/095	woart	1	w oa r - t
 085/097	woat	1	w oa - - t
 085/101	wort	1	w o r - t
-085/103	NA	NA	- - - - -
-085/105	NA	NA	- - - - -
+085/103	NA	NA	-
+085/105	NA	NA	-
 085/107	woad	1	w oa - - d
 085/109	woat	1	w oa - - t
 085/111	woart	1	w oa r - t
@@ -4546,11 +4546,11 @@
 085/131	wört	1	w ö r - t
 085/133	woat	1	w oa - - t
 085/135	woad	1	w oa - - d
-085/137	NA	NA	- - - - -
+085/137	NA	NA	-
 085/139	wort	1	w o r - t
 085/141	woat	1	w oa - - t
 085/143	woad	1	w oa - - d
-085/145	NA	NA	- - - - -
+085/145	NA	NA	-
 085/147	wurt	1	w u r - t
 085/149	wort	1	w o r - t
 085/175	bouat	1	b oua - - t
@@ -4578,7 +4578,7 @@
 086/071	woard	1	w oa r - d
 086/073	woart	1	w oa r - t
 086/075	woart	1	w oa r - t
-086/077	NA	NA	- - - - -
+086/077	NA	NA	-
 086/079	woat	1	w oa - - t
 086/081	wort	1	w o r - t
 086/083	wot	1	w o - - t
@@ -4588,7 +4588,7 @@
 086/091	wort	1	w o r - t
 086/093	woart	1	w oa r - t
 086/095	waart	1	w aa r - t
-086/097	NA	NA	- - - - -
+086/097	NA	NA	-
 086/099	woat	1	w oa - - t
 086/101	woat	1	w oa - - t
 086/103	woart	1	w oa r - t
@@ -4600,7 +4600,7 @@
 086/115	wort	1	w o r - t
 086/117	woacht	1	w oa - ch t
 086/119	woacht	1	w oa - ch t
-086/121	NA	NA	- - - - -
+086/121	NA	NA	-
 086/123	wort	1	w o r - t
 086/125	woat	1	w oa - - t
 086/127	wort	1	w o r - t
@@ -4699,7 +4699,7 @@
 088/073	woart	1	w oa r - t
 088/075	woart	1	w oa r - t
 088/077	woart	1	w oa r - t
-088/079	NA	NA	- - - - -
+088/079	NA	NA	-
 088/081	woard	1	w oa r - d
 088/083	woart	1	w oa r - t
 088/085	word	1	w o r - d
@@ -4717,7 +4717,7 @@
 088/109	word	1	w o r - d
 088/113	word	1	w o r - d
 088/115	wort	1	w o r - t
-088/117	NA	NA	- - - - -
+088/117	NA	NA	-
 088/121	woat	1	w oa - - t
 088/123	woart	1	w oa r - t
 088/127	wort	1	w o r - t
@@ -4753,7 +4753,7 @@
 089/075	woart	1	w oa r - t
 089/077	woart	1	w oa r - t
 089/079	woart	1	w oa r - t
-089/081	NA	NA	- - - - -
+089/081	NA	NA	-
 089/083	woart	1	w oa r - t
 089/085	wort	1	w o r - t
 089/087	wort	1	w o r - t
@@ -4768,25 +4768,25 @@
 089/105	wacht	1	w a - ch t
 089/107	röd	1	r ö - - d
 089/109	wort	1	w o r - t
-089/111	NA	NA	- - - - -
+089/111	NA	NA	-
 089/113	wort	1	w o r - t
 089/115	woat	1	w oa - - t
 089/117	woat	1	w oa - - t
-089/119	NA	NA	- - - - -
+089/119	NA	NA	-
 089/121	woadd	1	w oa - - dd
 089/123	wort	1	w o r - t
 089/125	woart	1	w oa r - t
 089/127	word	1	w o r - d
-089/129	NA	NA	- - - - -
+089/129	NA	NA	-
 089/131	woad	1	w oa - - d
 089/133	wort	1	w o r - t
 089/135	woad	1	w oa - - d
-089/137	NA	NA	- - - - -
+089/137	NA	NA	-
 089/139	woat	1	w oa - - t
 089/141	word	1	w o r - d
 089/143	woad	1	w oa - - d
-089/145	NA	NA	- - - - -
-089/147	NA	NA	- - - - -
+089/145	NA	NA	-
+089/147	NA	NA	-
 089/149	woat	1	w oa - - t
 090/035	word	1	w o r - d
 090/037	word	1	w o r - d
@@ -4818,7 +4818,7 @@
 090/089	wort	1	w o r - t
 090/091	wort	1	w o r - t
 090/093	wort	1	w o r - t
-090/095	NA	NA	- - - - -
+090/095	NA	NA	-
 090/097	wort	1	w o r - t
 090/099	wort	1	w o r - t
 090/101	woat	1	w oa - - t
@@ -4841,9 +4841,9 @@
 090/137	wort	1	w o r - t
 090/139	wort	1	w o r - t
 090/141	wort	1	w o r - t
-090/143	NA	NA	- - - - -
+090/143	NA	NA	-
 090/145	wuad	1	w ua - - d
-090/147	NA	NA	- - - - -
+090/147	NA	NA	-
 090/149	woad	1	w oa - - d
 090/151	woad	1	w oa - - d
 091/035	wort	1	w o r - t
@@ -4854,7 +4854,7 @@
 091/045	wort	1	w o r - t
 091/047	word	1	w o r - d
 091/049	wort	1	w o r - t
-091/051	NA	NA	- - - - -
+091/051	NA	NA	-
 091/053	woart	1	w oa r - t
 091/055	woart	1	w oa r - t
 091/057	woat	1	w oa - - t
@@ -4884,7 +4884,7 @@
 091/107	woat	1	w oa - - t
 091/109	woacht	1	w oa - ch t
 091/111	red	1	r e - - d
-091/113	NA	NA	- - - - -
+091/113	NA	NA	-
 091/115	wart	1	w a r - t
 091/117	wacht	1	w a - ch t
 091/119	wort	1	w o r - t
@@ -4904,7 +4904,7 @@
 091/151	woad	1	w oa - - d
 091/155	woed	1	w oe - - d
 092/033	wort	1	w o r - t
-092/035	NA	NA	- - - - -
+092/035	NA	NA	-
 092/037	wort	1	w o r - t
 092/039	wort	1	w o r - t
 092/041	wort	1	w o r - t
@@ -4919,7 +4919,7 @@
 092/059	woat	1	w oa - - t
 092/061	woat	1	w oa - - t
 092/063	wooet	1	w ooe - - t
-092/065	NA	NA	- - - - -
+092/065	NA	NA	-
 092/067	wooet	1	w ooe - - t
 092/069	woart	1	w oa r - t
 092/071	woat	1	w oa - - t
@@ -4956,7 +4956,7 @@
 092/133	wort	1	w o r - t
 092/135	woat	1	w oa - - t
 092/137	wort	1	w o r - t
-092/139	NA	NA	- - - - -
+092/139	NA	NA	-
 092/141	woat	1	w oa - - t
 092/143	wurt	1	w u r - t
 092/145	woart	1	w oa r - t
@@ -4976,7 +4976,7 @@
 093/055	wooat	1	w ooa - - t
 093/057	woat	1	w oa - - t
 093/059	woat	1	w oa - - t
-093/061	NA	NA	- - - - -
+093/061	NA	NA	-
 093/063	wooat	1	w ooa - - t
 093/065	woat	1	w oa - - t
 093/067	woat	1	w oa - - t
@@ -5018,7 +5018,7 @@
 093/145	wurt	1	w u r - t
 093/147	woat	1	w oa - - t
 093/149	woat	1	w oa - - t
-093/151	NA	NA	- - - - -
+093/151	NA	NA	-
 093/153	woat	1	w oa - - t
 093/155	woat	1	w oa - - t
 094/033	wort	1	w o r - t
@@ -5030,11 +5030,11 @@
 094/045	wort	1	w o r - t
 094/047	wort	1	w o r - t
 094/049	woart	1	w oa r - t
-094/051	NA	NA	- - - - -
+094/051	NA	NA	-
 094/053	woat	1	w oa - - t
-094/055	NA	NA	- - - - -
+094/055	NA	NA	-
 094/057	woat	1	w oa - - t
-094/059	NA	NA	- - - - -
+094/059	NA	NA	-
 094/061	woat	1	w oa - - t
 094/063	wod	1	w o - - d
 094/065	wort	1	w o r - t
@@ -5079,7 +5079,7 @@
 094/143	wuat	1	w ua - - t
 094/145	woat	1	w oa - - t
 094/147	woart	1	w oa r - t
-094/149	NA	NA	- - - - -
+094/149	NA	NA	-
 094/151	wuat	1	w ua - - t
 094/153	woat	1	w oa - - t
 095/031	wort	1	w o r - t
@@ -5134,7 +5134,7 @@
 095/131	woat	1	w oa - - t
 095/133	woat	1	w oa - - t
 095/139	weat	1	w ea - - t
-095/141	NA	NA	- - - - -
+095/141	NA	NA	-
 095/143	wort	1	w o r - t
 095/145	woat	1	w oa - - t
 095/147	wuat	1	w ua - - t
@@ -5160,7 +5160,7 @@
 096/061	wort	1	w o r - t
 096/063	wort	1	w o r - t
 096/065	wort	1	w o r - t
-096/067	NA	NA	- - - - -
+096/067	NA	NA	-
 096/069	wort	1	w o r - t
 096/071	woort	1	w oo r - t
 096/075	woart	1	w oa r - t
@@ -5183,7 +5183,7 @@
 096/109	wort	1	w o r - t
 096/111	wocht	1	w o - ch t
 096/113	wort	1	w o r - t
-096/115	NA	NA	- - - - -
+096/115	NA	NA	-
 096/117	woat	1	w oa - - t
 096/119	woat	1	w oa - - t
 096/121	woat	1	w oa - - t
@@ -5191,8 +5191,8 @@
 096/125	woad	1	w oa - - d
 096/129	woat	1	w oa - - t
 096/131	woat	1	w oa - - t
-096/135	NA	NA	- - - - -
-096/137	NA	NA	- - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
 096/139	woat	1	w oa - - t
 096/141	wurd	1	w u r - d
 096/143	wort	1	w o r - t
@@ -5206,7 +5206,7 @@
 097/035	wort	1	w o r - t
 097/037	woort	1	w oo r - t
 097/039	word	1	w o r - d
-097/041	NA	NA	- - - - -
+097/041	NA	NA	-
 097/043	word	1	w o r - d
 097/045	wort	1	w o r - t
 097/047	wort	1	w o r - t
@@ -5337,7 +5337,7 @@
 099/109	woacht	1	w oa - ch t
 099/111	wort	1	w o r - t
 099/113	wacht	1	w a - ch t
-099/121	NA	NA	- - - - -
+099/121	NA	NA	-
 099/123	woat	1	w oa - - t
 099/125	wort	1	w o r - t
 099/131	wurt	1	w u r - t
@@ -5354,10 +5354,10 @@
 100/041	wort	1	w o r - t
 100/043	woort	1	w oo r - t
 100/045	wort	1	w o r - t
-100/049	NA	NA	- - - - -
+100/049	NA	NA	-
 100/051	wort	1	w o r - t
 100/053	wort	1	w o r - t
-100/055	NA	NA	- - - - -
+100/055	NA	NA	-
 100/057	wort	1	w o r - t
 100/059	wort	1	w o r - t
 100/061	wort	1	w o r - t
@@ -5395,7 +5395,7 @@
 101/037	wort	1	w o r - t
 101/039	wort	1	w o r - t
 101/041	wort	1	w o r - t
-101/043	NA	NA	- - - - -
+101/043	NA	NA	-
 101/045	woort	1	w oo r - t
 101/047	woort	1	w oo r - t
 101/049	woort	1	w oo r - t
@@ -5404,7 +5404,7 @@
 101/055	wort	1	w o r - t
 101/057	wort	1	w o r - t
 101/059	wort	1	w o r - t
-101/061	NA	NA	- - - - -
+101/061	NA	NA	-
 101/063	woert	1	w oe r - t
 101/065	wort	1	w o r - t
 101/067	wort	1	w o r - t
@@ -5425,7 +5425,7 @@
 101/113	woscht	1	w o - sch t
 101/115	wört	1	w ö r - t
 101/121	woscht	1	w o - sch t
-101/125	NA	NA	- - - - -
+101/125	NA	NA	-
 101/129	werscht	1	w e r sch t
 101/131	wurt	1	w u r - t
 101/133	woat	1	w oa - - t
@@ -5433,7 +5433,7 @@
 101/139	wort	1	w o r - t
 101/141	woat	1	w oa - - t
 101/143	woart	1	w oa r - t
-101/145	NA	NA	- - - - -
+101/145	NA	NA	-
 101/147	woat	1	w oa - - t
 102/037	wort	1	w o r - t
 102/039	wart	1	w a r - t
@@ -5447,7 +5447,7 @@
 102/055	wort	1	w o r - t
 102/057	wort	1	w o r - t
 102/059	wort	1	w o r - t
-102/061	NA	NA	- - - - -
+102/061	NA	NA	-
 102/063	wort	1	w o r - t
 102/065	wort	1	w o r - t
 102/067	woart	1	w oa r - t
@@ -5456,7 +5456,7 @@
 102/073	woart	1	w oa r - t
 102/075	woart	1	w oa r - t
 102/077	woart	1	w oa r - t
-102/079	NA	NA	- - - - -
+102/079	NA	NA	-
 102/081	woart	1	w oa r - t
 102/083	woart	1	w oa r - t
 102/089	wuascht	1	w ua - sch t
@@ -5484,7 +5484,7 @@
 103/043	woort	1	w oo r - t
 103/045	wort	1	w o r - t
 103/047	woort	1	w oo r - t
-103/049	NA	NA	- - - - -
+103/049	NA	NA	-
 103/051	wort	1	w o r - t
 103/053	wort	1	w o r - t
 103/055	woort	1	w oo r - t
@@ -5513,7 +5513,7 @@
 103/111	woscht	1	w o - sch t
 103/121	woart	1	w oa r - t
 103/125	wort	1	w o r - t
-103/127	NA	NA	- - - - -
+103/127	NA	NA	-
 103/131	woad	1	w oa - - d
 103/133	wort	1	w o r - t
 103/135	wort	1	w o r - t
@@ -5529,14 +5529,14 @@
 104/041	wort	1	w o r - t
 104/043	wort	1	w o r - t
 104/045	wort	1	w o r - t
-104/047	NA	NA	- - - - -
+104/047	NA	NA	-
 104/049	woort	1	w oo r - t
 104/051	wort	1	w o r - t
 104/053	wort	1	w o r - t
 104/055	wort	1	w o r - t
 104/057	wort	1	w o r - t
 104/059	wort	1	w o r - t
-104/061	NA	NA	- - - - -
+104/061	NA	NA	-
 104/063	wart	1	w a r - t
 104/065	wart	1	w a r - t
 104/067	word	1	w o r - d
@@ -5556,8 +5556,8 @@
 104/113	wocht	1	w o - ch t
 104/119	worrt	1	w o rr - t
 104/121	woart	1	w oa r - t
-104/123	NA	NA	- - - - -
-104/125	NA	NA	- - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	woart	1	w oa r - t
 104/131	woat	1	w oa - - t
 104/133	woat	1	w oa - - t
@@ -5586,7 +5586,7 @@
 105/063	wort	1	w o r - t
 105/065	wart	1	w a r - t
 105/067	wart	1	w a r - t
-105/069	NA	NA	- - - - -
+105/069	NA	NA	-
 105/071	woart	1	w oa r - t
 105/073	woart	1	w oa r - t
 105/075	woart	1	w oa r - t
@@ -5645,7 +5645,7 @@
 106/121	woart	1	w oa r - t
 106/123	wort	1	w o r - t
 106/125	wort	1	w o r - t
-106/129	NA	NA	- - - - -
+106/129	NA	NA	-
 106/131	woat	1	w oa - - t
 106/133	wuat	1	w ua - - t
 106/135	woat	1	w oa - - t
@@ -5687,7 +5687,7 @@
 107/123	wort	1	w o r - t
 107/125	woart	1	w oa r - t
 107/127	wot	1	w o - - t
-107/129	NA	NA	- - - - -
+107/129	NA	NA	-
 107/131	räi	1	r äi - - -
 107/133	wuat	1	w ua - - t
 107/135	woart	1	w oa r - t
@@ -5703,7 +5703,7 @@
 108/043	wort	1	w o r - t
 108/047	word	1	w o r - d
 108/049	wort	1	w o r - t
-108/063	NA	NA	- - - - -
+108/063	NA	NA	-
 108/065	woort	1	w oo r - t
 108/067	wort	1	w o r - t
 108/075	wooart	1	w ooa r - t
@@ -5719,9 +5719,9 @@
 108/109	woart	1	w oa r - t
 108/111	wort	1	w o r - t
 108/113	wort	1	w o r - t
-108/117	NA	NA	- - - - -
+108/117	NA	NA	-
 108/119	wurt	1	w u r - t
-108/121	NA	NA	- - - - -
+108/121	NA	NA	-
 108/123	wort	1	w o r - t
 108/125	woart	1	w oa r - t
 108/127	wurt	1	w u r - t
@@ -5736,7 +5736,7 @@
 109/037	wort	1	w o r - t
 109/039	wort	1	w o r - t
 109/041	wort	1	w o r - t
-109/043	NA	NA	- - - - -
+109/043	NA	NA	-
 109/045	word	1	w o r - d
 109/049	word	1	w o r - d
 109/053	wort	1	w o r - t
@@ -5756,11 +5756,11 @@
 109/101	wöat	1	w öa - - t
 109/103	woat	1	w oa - - t
 109/107	wort	1	w o r - t
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	woart	1	w oa r - t
 109/113	wort	1	w o r - t
 109/115	wort	1	w o r - t
-109/117	NA	NA	- - - - -
+109/117	NA	NA	-
 109/119	woart	1	w oa r - t
 109/121	wurt	1	w u r - t
 109/123	woart	1	w oa r - t
@@ -5798,17 +5798,17 @@
 110/107	wurt	1	w u r - t
 110/111	wort	1	w o r - t
 110/113	wurt	1	w u r - t
-110/115	NA	NA	- - - - -
+110/115	NA	NA	-
 110/117	wurt	1	w u r - t
 110/119	wurt	1	w u r - t
 110/121	wort	1	w o r - t
 110/125	wurt	1	w u r - t
 110/127	wort	1	w o r - t
-110/129	NA	NA	- - - - -
-110/131	NA	NA	- - - - -
+110/129	NA	NA	-
+110/131	NA	NA	-
 110/133	wurt	1	w u r - t
 110/135	wort	1	w o r - t
-110/137	NA	NA	- - - - -
+110/137	NA	NA	-
 110/139	wurt	1	w u r - t
 111/035	wort	1	w o r - t
 111/037	wort	1	w o r - t
@@ -5830,7 +5830,7 @@
 111/109	wort	1	w o r - t
 111/111	wurt	1	w u r - t
 111/113	wart	1	w a r - t
-111/115	NA	NA	- - - - -
+111/115	NA	NA	-
 111/117	wort	1	w o r - t
 111/119	wurt	1	w u r - t
 111/121	wort	1	w o r - t
@@ -5848,7 +5848,7 @@
 112/081	wort	1	w o r - t
 112/083	wort	1	w o r - t
 112/085	wort	1	w o r - t
-112/111	NA	NA	- - - - -
+112/111	NA	NA	-
 112/115	wort	1	w o r - t
 112/117	wurt	1	w u r - t
 112/119	wort	1	w o r - t

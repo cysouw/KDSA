@@ -355,7 +355,7 @@
 019/065	goah	1	g oah -
 019/067	gah	1	g ah -
 019/069	gah	1	g ah -
-019/071	NA	NA	- - - - - - - -
+019/071	NA	NA	-
 019/073	gah	1	g ah -
 019/075	gah	1	g ah -
 019/077	gah	1	g ah -
@@ -549,9 +549,9 @@
 022/063	gaa	1	g aa -
 022/065	gah	1	g ah -
 022/067	gah	1	g ah -
-022/069	NA	NA	- - - - - - - -
+022/069	NA	NA	-
 022/071	gah	1	g ah -
-022/073	NA	NA	- - - - - - - -
+022/073	NA	NA	-
 022/075	gah	1	g ah -
 022/077	gah	1	g ah -
 022/087	gah	1	g ah -
@@ -613,7 +613,7 @@
 022/217	gah	1	g ah -
 022/219	gah	1	g ah -
 023/055	gah	1	g ah -
-023/059	NA	NA	- - - - - - - -
+023/059	NA	NA	-
 023/061	gah	1	g ah -
 023/063	gah	1	g ah -
 023/065	gah	1	g ah -
@@ -641,7 +641,7 @@
 023/109	goah	1	g oah -
 023/111	gah	1	g ah -
 023/113	gah	1	g ah -
-023/115	NA	NA	- - - - - - - -
+023/115	NA	NA	-
 023/117	gah	1	g ah -
 023/121	goah	1	g oah -
 023/123	goah	1	g oah -
@@ -675,7 +675,7 @@
 023/191	geh	1	g eh -
 023/193	geh	1	g eh -
 023/195	geh	1	g eh -
-023/197	NA	NA	- - - - - - - -
+023/197	NA	NA	-
 023/199	goh	1	g oh -
 023/201	go	1	g o -
 023/203	go	1	g o -
@@ -687,7 +687,7 @@
 024/057	gah	1	g ah -
 024/059	ga	1	g a -
 024/061	gäh	1	g äh -
-024/063	NA	NA	- - - - - - - -
+024/063	NA	NA	-
 024/065	gah	1	g ah -
 024/067	gaoh	1	g aoh -
 024/069	gah	1	g ah -
@@ -810,7 +810,7 @@
 025/177	goh	1	g oh -
 025/179	geh	1	g eh -
 025/181	geh	1	g eh -
-025/183	NA	NA	- - - - - - - -
+025/183	NA	NA	-
 025/185	geh	1	g eh -
 025/187	möttkomme	2	m ö tt k o mm e -
 025/189	geh	1	g eh -
@@ -956,7 +956,7 @@
 027/185	geh	1	g eh -
 028/033	ga	1	g a -
 028/035	gaa	1	g aa -
-028/037	NA	NA	- - - - - - - -
+028/037	NA	NA	-
 028/039	gaa	1	g aa -
 028/041	gah	1	g ah -
 028/043	gah	1	g ah -
@@ -1039,7 +1039,7 @@
 029/053	gaoh	1	g aoh -
 029/055	gah	1	g ah -
 029/057	gaoh	1	g aoh -
-029/059	NA	NA	- - - - - - - -
+029/059	NA	NA	-
 029/061	gah	1	g ah -
 029/065	gah	1	g ah -
 029/067	gah	1	g ah -
@@ -1099,7 +1099,7 @@
 029/175	goa	1	g oa -
 029/177	goa	1	g oa -
 029/181	go	1	g o -
-030/033	NA	NA	- - - - - - - -
+030/033	NA	NA	-
 030/035	gaa	1	g aa -
 030/037	ga	1	g a -
 030/039	gah	1	g ah -
@@ -1254,7 +1254,7 @@
 032/047	gah	1	g ah -
 032/049	ga	1	g a -
 032/051	gaa	1	g aa -
-032/053	NA	NA	- - - - - - - -
+032/053	NA	NA	-
 032/055	gah	1	g ah -
 032/057	gah	1	g ah -
 032/059	gah	1	g ah -
@@ -1841,7 +1841,7 @@
 041/063	gah	1	g ah -
 041/065	gah	1	g ah -
 041/067	gah	1	g ah -
-041/069	NA	NA	- - - - - - - -
+041/069	NA	NA	-
 041/071	gah	1	g ah -
 041/073	gah	1	g ah -
 041/075	gah	1	g ah -
@@ -1849,7 +1849,7 @@
 041/079	gah	1	g ah -
 041/081	goah	1	g oah -
 041/083	goh	1	g oh -
-041/085	NA	NA	- - - - - - - -
+041/085	NA	NA	-
 041/087	goa	1	g oa -
 041/089	goh	1	g oh -
 041/091	goh	1	g oh -
@@ -2026,7 +2026,7 @@
 044/069	gah	1	g ah -
 044/071	gah	1	g ah -
 044/073	gah	1	g ah -
-044/075	NA	NA	- - - - - - - -
+044/075	NA	NA	-
 044/077	gah	1	g ah -
 044/079	gah	1	g ah -
 044/081	gah	1	g ah -
@@ -2260,7 +2260,7 @@
 048/061	gah	1	g ah -
 048/063	gah	1	g ah -
 048/065	gah	1	g ah -
-048/067	NA	NA	- - - - - - - -
+048/067	NA	NA	-
 048/069	jah	1	j ah -
 048/071	gieh	1	g ieh -
 048/073	gah	1	g ah -
@@ -2416,7 +2416,7 @@
 050/117	mitkommen	2	m i t k o mm e n
 050/119	geh	1	g eh -
 050/121	geh	1	g eh -
-050/125	NA	NA	- - - - - - - -
+050/125	NA	NA	-
 050/127	gieh	1	g ieh -
 050/129	gih	1	g ih -
 050/131	gieh	1	g ieh -
@@ -2448,7 +2448,7 @@
 051/045	gou	1	g ou -
 051/047	goa	1	g oa -
 051/049	gau	1	g au -
-051/051	NA	NA	- - - - - - - -
+051/051	NA	NA	-
 051/053	goh	1	g oh -
 051/055	goh	1	g oh -
 051/057	goh	1	g oh -
@@ -2657,7 +2657,7 @@
 054/061	geh	1	g eh -
 054/063	geh	1	g eh -
 054/065	gah	1	g ah -
-054/067	NA	NA	- - - - - - - -
+054/067	NA	NA	-
 054/069	geh	1	g eh -
 054/071	geh	1	g eh -
 054/073	gäh	1	g äh -
@@ -2787,7 +2787,7 @@
 056/043	goh	1	g oh -
 056/045	goh	1	g oh -
 056/047	gooh	1	g ooh -
-056/049	NA	NA	- - - - - - - -
+056/049	NA	NA	-
 056/051	goh	1	g oh -
 056/053	goh	1	g oh -
 056/055	go	1	g o -
@@ -3230,7 +3230,7 @@
 062/073	geeh	1	g eeh -
 062/075	kia	1	k ia -
 062/077	gieh	1	g ieh -
-062/079	NA	NA	- - - - - - - -
+062/079	NA	NA	-
 062/081	gih	1	g ih -
 062/083	juh	1	j uh -
 062/085	gih	1	g ih -
@@ -3557,9 +3557,9 @@
 067/073	gäh	1	g äh -
 067/075	gia	1	g ia -
 067/077	geh	1	g eh -
-067/079	NA	NA	- - - - - - - -
+067/079	NA	NA	-
 067/081	gieh	1	g ieh -
-067/083	NA	NA	- - - - - - - -
+067/083	NA	NA	-
 067/085	gieh	1	g ieh -
 067/087	geh	1	g eh -
 067/089	geh	1	g eh -
@@ -4113,10 +4113,10 @@
 077/061	geh	1	g eh -
 077/063	gäi	1	g äi -
 077/065	gie	1	g ie -
-077/067	NA	NA	- - - - - - - -
+077/067	NA	NA	-
 077/069	geah	1	g eah -
 077/071	geh	1	g eh -
-077/073	NA	NA	- - - - - - - -
+077/073	NA	NA	-
 077/075	geh	1	g eh -
 077/077	geh	1	g eh -
 077/079	gäih	1	g äih -
@@ -4509,7 +4509,7 @@
 085/055	gau	1	g au -
 085/057	gau	1	g au -
 085/059	geh	1	g eh -
-085/061	NA	NA	- - - - - - - -
+085/061	NA	NA	-
 085/063	gao	1	g ao -
 085/065	gao	1	g ao -
 085/067	gao	1	g ao -
@@ -4567,7 +4567,7 @@
 086/049	gi	1	g i -
 086/051	gau	1	g au -
 086/053	ga	1	g a -
-086/055	NA	NA	- - - - - - - -
+086/055	NA	NA	-
 086/057	gau	1	g au -
 086/059	ga	1	g a -
 086/061	ga	1	g a -
@@ -4731,7 +4731,7 @@
 088/147	geih	1	g eih -
 088/149	geh	1	g eh -
 089/035	geh	1	g eh -
-089/037	NA	NA	- - - - - - - -
+089/037	NA	NA	-
 089/039	geh	1	g eh -
 089/041	geh	1	g eh -
 089/043	geh	1	g eh -
@@ -4779,7 +4779,7 @@
 089/127	gei	1	g ei -
 089/129	ge	1	g e -
 089/131	gea	1	g ea -
-089/133	NA	NA	- - - - - - - -
+089/133	NA	NA	-
 089/135	ge	1	g e -
 089/137	geh	1	g eh -
 089/139	geh	1	g eh -
@@ -5124,7 +5124,7 @@
 095/109	geh	1	g eh -
 095/111	ge	1	g e -
 095/113	geh	1	g eh -
-095/115	NA	NA	- - - - - - - -
+095/115	NA	NA	-
 095/117	geh	1	g eh -
 095/119	ge	1	g e -
 095/121	geh	1	g eh -
@@ -5210,7 +5210,7 @@
 097/043	goo	1	g oo -
 097/045	goh	1	g oh -
 097/047	goh	1	g oh -
-097/049	NA	NA	- - - - - - - -
+097/049	NA	NA	-
 097/051	gau	1	g au -
 097/053	gau	1	g au -
 097/055	goh	1	g oh -
@@ -5239,7 +5239,7 @@
 097/103	ge	1	g e -
 097/105	gäh	1	g äh -
 097/107	geh	1	g eh -
-097/109	NA	NA	- - - - - - - -
+097/109	NA	NA	-
 097/113	geh	1	g eh -
 097/125	geh	1	g eh -
 097/131	geh	1	g eh -
@@ -5389,7 +5389,7 @@
 100/133	geh	1	g eh -
 100/135	geh	1	g eh -
 100/141	geeh	1	g eeh -
-100/143	NA	NA	- - - - - - - -
+100/143	NA	NA	-
 100/145	geh	1	g eh -
 101/035	chuu	1	ch uu -
 101/037	goo	1	g oo -
@@ -5419,7 +5419,7 @@
 101/097	gee	1	g ee -
 101/099	ge	1	g e -
 101/101	gö	1	g ö -
-101/103	NA	NA	- - - - - - - -
+101/103	NA	NA	-
 101/107	ge	1	g e -
 101/109	gea	1	g ea -
 101/113	geh	1	g eh -
@@ -5447,7 +5447,7 @@
 102/055	cho	1	ch o -
 102/057	cho	1	ch o -
 102/059	goh	1	g oh -
-102/061	NA	NA	- - - - - - - -
+102/061	NA	NA	-
 102/063	goo	1	g oo -
 102/065	go	1	g o -
 102/067	gong	1	g o ng
@@ -5535,7 +5535,7 @@
 104/053	gou	1	g ou -
 104/055	cho	1	ch o -
 104/057	choo	1	ch oo -
-104/059	NA	NA	- - - - - - - -
+104/059	NA	NA	-
 104/061	goh	1	g oh -
 104/063	goh	1	g oh -
 104/065	goh	1	g oh -
@@ -5574,7 +5574,7 @@
 105/039	gah	1	g ah -
 105/041	cho	1	ch o -
 105/043	goh	1	g oh -
-105/045	NA	NA	- - - - - - - -
+105/045	NA	NA	-
 105/047	choh	1	ch oh -
 105/049	go	1	g o -
 105/051	goh	1	g oh -
@@ -5582,7 +5582,7 @@
 105/055	chooh	1	ch ooh -
 105/057	gu	1	g u -
 105/059	gu	1	g u -
-105/061	NA	NA	- - - - - - - -
+105/061	NA	NA	-
 105/063	goh	1	g oh -
 105/065	go	1	g o -
 105/067	goh	1	g oh -
@@ -5756,7 +5756,7 @@
 109/101	gie	1	g ie -
 109/103	gie	1	g ie -
 109/107	gie	1	g ie -
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	geäh	1	g eäh -
 109/113	gea	1	g ea -
 109/115	geah	1	g eah -
@@ -5776,7 +5776,7 @@
 110/039	cho	1	ch o -
 110/041	go	1	g o -
 110/043	cho	1	ch o -
-110/045	NA	NA	- - - - - - - -
+110/045	NA	NA	-
 110/047	ga	1	g a -
 110/049	gah	1	g ah -
 110/057	cho	1	ch o -
@@ -5813,9 +5813,9 @@
 111/035	go	1	g o -
 111/037	choe	1	ch oe -
 111/039	gah	1	g ah -
-111/041	NA	NA	- - - - - - - -
+111/041	NA	NA	-
 111/043	cho	1	ch o -
-111/045	NA	NA	- - - - - - - -
+111/045	NA	NA	-
 111/059	goh	1	g oh -
 111/073	gea	1	g ea -
 111/075	gea	1	g ea -
@@ -5836,9 +5836,9 @@
 111/121	giah	1	g iah -
 111/123	geh	1	g eh -
 111/125	geh	1	g eh -
-112/037	NA	NA	- - - - - - - -
+112/037	NA	NA	-
 112/039	cho	1	ch o -
-112/041	NA	NA	- - - - - - - -
+112/041	NA	NA	-
 112/043	cho	1	ch o -
 112/047	gah	1	g ah -
 112/059	gaa	1	g aa -
@@ -5863,7 +5863,7 @@
 113/087	gia	1	g ia -
 113/121	geh	1	g eh -
 113/123	geh	1	g eh -
-114/035	NA	NA	- - - - - - - -
+114/035	NA	NA	-
 114/045	cho	1	ch o -
 114/083	gea	1	g ea -
 114/085	gia	1	g ia -
@@ -5879,11 +5879,11 @@
 117/045	gah	1	g ah -
 118/041	ga	1	g a -
 119/083	gia	1	g ia -
-120/085	NA	NA	- - - - - - - -
+120/085	NA	NA	-
 121/127	gea	1	g ea -
 122/127	gea	1	g ea -
 122/129	gea	1	g ea -
-123/081	NA	NA	- - - - - - - -
+123/081	NA	NA	-
 123/123	gea	1	g ea -
 123/125	gea	1	g ea -
 123/127	gea	1	g ea -

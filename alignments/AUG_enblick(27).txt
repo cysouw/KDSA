@@ -39,11 +39,11 @@ locations	strings	cognateID	alignments
 010/217	og	1	- o g -
 010/219	og	1	- o g -
 011/049	och	1	- o ch -
-011/053	lidt	NA	- l i d t - - - - - - - - - -
-011/055	kvorns	NA	- k v o r n s - - - - - - - -
+011/053	lidt	NA	-
+011/055	kvorns	NA	-
 011/057	y	1	- y - -
 011/059	yj	1	- y j -
-011/061	koen	NA	- k oe n - - - - - - - - - - -
+011/061	koen	NA	-
 011/063	y	1	- y - -
 011/065	y	1	- y - -
 011/067	a	1	- a - -
@@ -65,7 +65,7 @@ locations	strings	cognateID	alignments
 012/047	og	1	- o g -
 012/049	og	1	- o g -
 012/051	ug	1	- u g -
-012/053	kwarns	NA	- k w a r n s - - - - - - - -
+012/053	kwarns	NA	-
 012/055	y	1	- y - -
 012/057	y	1	- y - -
 012/059	y	1	- y - -
@@ -73,7 +73,7 @@ locations	strings	cognateID	alignments
 012/063	y	1	- y - -
 012/065	y	1	- y - -
 012/067	oj	1	- o j -
-012/069	NA	NA	- - - - - - - - - - - - - - -
+012/069	NA	NA	-
 012/187	og	1	- o g -
 012/189	og	1	- o g -
 012/191	og	1	- o g -
@@ -93,7 +93,7 @@ locations	strings	cognateID	alignments
 012/219	og	1	- o g -
 012/221	og	1	- o g -
 012/223	og	1	- o g -
-013/051	leitskürr	NA	- l ei t s k ü rr - - - - - - -
+013/051	leitskürr	NA	-
 013/053	ug	1	- u g -
 013/055	ug	1	- u g -
 013/057	ä	1	- ä - -
@@ -128,8 +128,8 @@ locations	strings	cognateID	alignments
 014/049	aug	1	- au g -
 014/051	ug	1	- u g -
 014/053	uhm	1	- uh m -
-014/055	schör	NA	- sch ö r - - - - - - - - - - -
-014/057	skör	NA	- s k ö r - - - - - - - - - -
+014/055	schör	NA	-
+014/057	skör	NA	-
 014/059	og	1	- o g -
 014/061	og	1	- o g -
 014/063	og	1	- o g -
@@ -296,7 +296,7 @@ locations	strings	cognateID	alignments
 018/057	og	1	- o g -
 018/059	og	1	- o g -
 018/061	og	1	- o g -
-018/063	NA	NA	- - - - - - - - - - - - - - -
+018/063	NA	NA	-
 018/065	og	1	- o g -
 018/067	oog	1	- oo g -
 018/069	om	1	- o m -
@@ -675,7 +675,7 @@ locations	strings	cognateID	alignments
 023/191	weilche	4	- w ei l - ch e - - - -
 023/193	og	1	- o g -
 023/195	og	1	- o g -
-023/197	NA	NA	- - - - - - - - - - - - - - -
+023/197	NA	NA	-
 023/199	ohg	1	- oh g -
 023/201	og	1	- o g -
 023/203	og	1	- o g -
@@ -818,7 +818,7 @@ locations	strings	cognateID	alignments
 026/031	og	1	- o g -
 026/033	og	1	- o g -
 026/037	og	1	- o g -
-026/041	settje	NA	- s e tt j e - - - - - - - - -
+026/041	settje	NA	-
 026/043	og	1	- o g -
 026/045	og	1	- o g -
 026/051	og	1	- o g -
@@ -886,7 +886,7 @@ locations	strings	cognateID	alignments
 026/189	og	1	- o g -
 027/027	oog	1	- oo g -
 027/035	og	1	- o g -
-027/037	settje	NA	- s e tt j e - - - - - - - - -
+027/037	settje	NA	-
 027/039	oog	1	- oo g -
 027/041	og	1	- o g -
 027/043	og	1	- o g -
@@ -956,10 +956,10 @@ locations	strings	cognateID	alignments
 027/185	og	1	- o g -
 028/033	og	1	- o g -
 028/035	og	1	- o g -
-028/037	settje	NA	- s e tt j e - - - - - - - - -
+028/037	settje	NA	-
 028/039	og	1	- o g -
 028/041	og	1	- o g -
-028/043	sett	NA	- s e tt - - - - - - - - - - -
+028/043	sett	NA	-
 028/045	og	1	- o g -
 028/047	og	1	- o g -
 028/049	og	1	- o g -
@@ -999,7 +999,7 @@ locations	strings	cognateID	alignments
 028/119	og	1	- o g -
 028/121	og	1	- o g -
 028/123	og	1	- o g -
-028/125	NA	NA	- - - - - - - - - - - - - - -
+028/125	NA	NA	-
 028/127	og	1	- o g -
 028/129	oog	1	- oo g -
 028/131	og	1	- o g -
@@ -1028,7 +1028,7 @@ locations	strings	cognateID	alignments
 028/183	weilche	4	- w ei l - ch e - - - -
 028/185	og	1	- o g -
 029/033	oog	1	- oo g -
-029/035	settje	NA	- s e tt j e - - - - - - - - -
+029/035	settje	NA	-
 029/037	og	1	- o g -
 029/039	og	1	- o g -
 029/043	og	1	- o g -
@@ -1048,7 +1048,7 @@ locations	strings	cognateID	alignments
 029/073	og	1	- o g -
 029/075	og	1	- o g -
 029/077	oog	1	- oo g -
-029/079	NA	NA	- - - - - - - - - - - - - - -
+029/079	NA	NA	-
 029/081	og	1	- o g -
 029/083	og	1	- o g -
 029/085	og	1	- o g -
@@ -1114,7 +1114,7 @@ locations	strings	cognateID	alignments
 030/057	og	1	- o g -
 030/059	og	1	- o g -
 030/061	og	1	- o g -
-030/065	NA	NA	- - - - - - - - - - - - - - -
+030/065	NA	NA	-
 030/067	og	1	- o g -
 030/071	oom	1	- oo m -
 030/073	og	1	- o g -
@@ -1173,7 +1173,7 @@ locations	strings	cognateID	alignments
 030/179	og	1	- o g -
 030/181	og	1	- o g -
 030/183	og	1	- o g -
-031/035	settje	NA	- s e tt j e - - - - - - - - -
+031/035	settje	NA	-
 031/037	oog	1	- oo g -
 031/039	oog	1	- oo g -
 031/041	oog	1	- oo g -
@@ -1254,7 +1254,7 @@ locations	strings	cognateID	alignments
 032/047	og	1	- o g -
 032/049	oog	1	- oo g -
 032/051	oog	1	- oo g -
-032/053	NA	NA	- - - - - - - - - - - - - - -
+032/053	NA	NA	-
 032/055	og	1	- o g -
 032/057	og	1	- o g -
 032/059	og	1	- o g -
@@ -1273,9 +1273,9 @@ locations	strings	cognateID	alignments
 032/089	og	1	- o g -
 032/091	og	1	- o g -
 032/093	oog	1	- oo g -
-032/095	NA	NA	- - - - - - - - - - - - - - -
+032/095	NA	NA	-
 032/097	oh	1	- oh - -
-032/099	NA	NA	- - - - - - - - - - - - - - -
+032/099	NA	NA	-
 032/101	og	1	- o g -
 032/103	og	1	- o g -
 032/105	og	1	- o g -
@@ -1307,7 +1307,7 @@ locations	strings	cognateID	alignments
 032/163	og	1	- o g -
 032/167	äj	1	- ä j -
 032/169	aug	1	- au g -
-032/171	NA	NA	- - - - - - - - - - - - - - -
+032/171	NA	NA	-
 032/173	aug	1	- au g -
 032/175	og	1	- o g -
 032/177	og	1	- o g -
@@ -1320,7 +1320,7 @@ locations	strings	cognateID	alignments
 033/041	og	1	- o g -
 033/043	og	1	- o g -
 033/045	og	1	- o g -
-033/047	tid	NA	- t i d - - - - - - - - - - -
+033/047	tid	NA	-
 033/049	og	1	- o g -
 033/051	og	1	- o g -
 033/053	og	1	- o g -
@@ -1412,7 +1412,7 @@ locations	strings	cognateID	alignments
 034/087	oog	1	- oo g -
 034/089	og	1	- o g -
 034/091	og	1	- o g -
-034/093	NA	NA	- - - - - - - - - - - - - - -
+034/093	NA	NA	-
 034/095	og	1	- o g -
 034/097	oaj	1	- oa j -
 034/099	ohg	1	- oh g -
@@ -1876,7 +1876,7 @@ locations	strings	cognateID	alignments
 041/133	og	1	- o g -
 041/135	og	1	- o g -
 041/139	og	1	- o g -
-041/141	NA	NA	- - - - - - - - - - - - - - -
+041/141	NA	NA	-
 041/145	og	1	- o g -
 041/147	og	1	- o g -
 041/153	og	1	- o g -
@@ -1942,16 +1942,16 @@ locations	strings	cognateID	alignments
 042/145	og	1	- o g -
 042/147	og	1	- o g -
 042/149	og	1	- o g -
-042/151	NA	NA	- - - - - - - - - - - - - - -
+042/151	NA	NA	-
 042/157	eoch	1	- eo ch -
 042/159	og	1	- o g -
 042/161	eog	1	- eo g -
 043/033	aug	1	- au g -
-043/035	effkes	NA	- e ff k e s - - - - - - - - -
+043/035	effkes	NA	-
 043/037	aug	1	- au g -
 043/039	aug	1	- au g -
 043/041	aug	1	- au g -
-043/043	einen	NA	- ei n e n - - - - - - - - - -
+043/043	einen	NA	-
 043/045	aug	1	- au g -
 043/047	aug	1	- au g -
 043/049	aug	1	- au g -
@@ -2002,7 +2002,7 @@ locations	strings	cognateID	alignments
 043/141	oog	1	- oo g -
 043/143	weilchen	4	- w ei l - ch e - - - n
 043/145	og	1	- o g -
-043/151	NA	NA	- - - - - - - - - - - - - - -
+043/151	NA	NA	-
 043/153	og	1	- o g -
 043/159	aug	1	- au g -
 043/161	og	1	- o g -
@@ -2113,7 +2113,7 @@ locations	strings	cognateID	alignments
 045/125	og	1	- o g -
 045/127	og	1	- o g -
 045/129	og	1	- o g -
-045/131	huschchen	NA	- h u sch ch e n - - - - - - - -
+045/131	huschchen	NA	-
 045/133	og	1	- o g -
 045/135	bissang	3	b i - ss - - - a ng -
 045/137	og	1	- o g -
@@ -2366,7 +2366,7 @@ locations	strings	cognateID	alignments
 049/145	oaug	1	- oau g -
 049/147	bisl	3	b i - s - - l - - -
 049/151	og	1	- o g -
-050/021	äfkes	NA	- ä f k e s - - - - - - - - -
+050/021	äfkes	NA	-
 050/023	au	1	- au - -
 050/025	og	1	- o g -
 050/027	og	1	- o g -
@@ -2495,13 +2495,13 @@ locations	strings	cognateID	alignments
 051/139	og	1	- o g -
 051/141	oag	1	- oa g -
 051/143	og	1	- o g -
-051/145	stobn	NA	- s t o b n - - - - - - - - -
+051/145	stobn	NA	-
 051/147	aaug	1	- aau g -
 051/149	og	1	- o g -
 051/151	og	1	- o g -
 051/153	og	1	- o g -
 051/155	og	1	- o g -
-051/157	speerl	NA	- s p ee r l - - - - - - - - -
+051/157	speerl	NA	-
 052/023	bettche	3	b e tt - - - ch e - -
 052/025	oog	1	- oo g -
 052/027	og	1	- o g -
@@ -2623,7 +2623,7 @@ locations	strings	cognateID	alignments
 053/129	bissel	3	b i - ss e - l - - -
 053/131	og	1	- o g -
 053/133	og	1	- o g -
-053/135	kleewing	NA	- k l ee - w i ng - - - - - - -
+053/135	kleewing	NA	-
 053/137	og	1	- o g -
 053/139	og	1	- o g -
 053/141	og	1	- o g -
@@ -2730,7 +2730,7 @@ locations	strings	cognateID	alignments
 055/067	auw	1	- au w -
 055/069	aug	1	- au g -
 055/071	äub	1	- äu b -
-055/073	schürichen	NA	- sch ü r i ch e n - - - - - - -
+055/073	schürichen	NA	-
 055/075	au	1	- au - -
 055/077	aw	1	- a w -
 055/079	au	1	- au - -
@@ -2821,7 +2821,7 @@ locations	strings	cognateID	alignments
 056/111	og	1	- o g -
 056/113	oong	1	- oo ng -
 056/115	oong	1	- oo ng -
-056/117	schtebelchen	NA	- sch t e b e l ch e n - - - - -
+056/117	schtebelchen	NA	-
 056/121	og	1	- o g -
 056/123	oog	1	- oo g -
 056/125	oog	1	- oo g -
@@ -2896,7 +2896,7 @@ locations	strings	cognateID	alignments
 057/121	og	1	- o g -
 057/123	bissl	3	b i - ss - - l - - -
 057/125	oog	1	- oo g -
-057/127	looft	NA	- l oo f t - - - - - - - - - -
+057/127	looft	NA	-
 057/129	og	1	- o g -
 057/131	og	1	- o g -
 057/133	og	1	- o g -
@@ -2909,7 +2909,7 @@ locations	strings	cognateID	alignments
 057/147	aug	1	- au g -
 057/149	aug	1	- au g -
 057/151	wink	5	w i n - k - - - -
-057/153	schlag	NA	- sch l a g - - - - - - - - - -
+057/153	schlag	NA	-
 057/155	aug	1	- au g -
 057/157	bissel	3	b i - ss e - l - - -
 057/159	oog	1	- oo g -
@@ -2991,7 +2991,7 @@ locations	strings	cognateID	alignments
 059/025	og	1	- o g -
 059/027	og	1	- o g -
 059/029	og	1	- o g -
-059/031	amelang	NA	- a m e l a ng - - - - - - - -
+059/031	amelang	NA	-
 059/033	ohg	1	- oh g -
 059/035	og	1	- o g -
 059/037	oog	1	- oo g -
@@ -3009,7 +3009,7 @@ locations	strings	cognateID	alignments
 059/061	ög	1	- ö g -
 059/063	og	1	- o g -
 059/065	aig	1	- ai g -
-059/067	NA	NA	- - - - - - - - - - - - - - -
+059/067	NA	NA	-
 059/069	oub	1	- ou b -
 059/071	beschen	3	b e - s - - ch e n -
 059/073	aug	1	- au g -
@@ -3050,7 +3050,7 @@ locations	strings	cognateID	alignments
 059/143	aug	1	- au g -
 059/145	og	1	- o g -
 059/147	og	1	- o g -
-059/149	schlaag	NA	- sch l aa g - - - - - - - - - -
+059/149	schlaag	NA	-
 059/151	og	1	- o g -
 059/153	og	1	- o g -
 059/155	wing	5	w i n - g - - - -
@@ -3086,7 +3086,7 @@ locations	strings	cognateID	alignments
 060/069	aaug	1	- aau g -
 060/071	aäg	1	- aä g -
 060/073	aug	1	- au g -
-060/075	fleckchen	NA	- f l e ck ch e n - - - - - - -
+060/075	fleckchen	NA	-
 060/077	aug	1	- au g -
 060/079	bischen	3	b i - s - - ch e n -
 060/081	og	1	- o g -
@@ -3277,7 +3277,7 @@ locations	strings	cognateID	alignments
 063/025	og	1	- o g -
 063/027	og	1	- o g -
 063/029	og	1	- o g -
-063/031	kittchn	NA	- k i tt ch n - - - - - - - - -
+063/031	kittchn	NA	-
 063/033	og	1	- o g -
 063/035	aug	1	- au g -
 063/037	au	1	- au - -
@@ -3310,7 +3310,7 @@ locations	strings	cognateID	alignments
 063/091	ag	1	- a g -
 063/093	aeg	1	- ae g -
 063/095	ag	1	- a g -
-063/097	schtickel	NA	- sch t i ck e l - - - - - - - -
+063/097	schtickel	NA	-
 063/099	weng	5	w e n - g - - - -
 063/101	ahng	1	- ah ng -
 063/103	aeg	1	- ae g -
@@ -3350,7 +3350,7 @@ locations	strings	cognateID	alignments
 064/033	og	1	- o g -
 064/035	og	1	- o g -
 064/037	og	1	- o g -
-064/039	gätt	NA	- g ä tt - - - - - - - - - - -
+064/039	gätt	NA	-
 064/041	o	1	- o - -
 064/043	ag	1	- a g -
 064/045	ag	1	- a g -
@@ -3408,7 +3408,7 @@ locations	strings	cognateID	alignments
 064/155	og	1	- o g -
 064/157	og	1	- o g -
 064/159	briekel	2	b r ie k e l
-065/021	kittche	NA	- k i tt ch e - - - - - - - - -
+065/021	kittche	NA	-
 065/023	og	1	- o g -
 065/025	oog	1	- oo g -
 065/027	og	1	- o g -
@@ -3445,7 +3445,7 @@ locations	strings	cognateID	alignments
 065/089	aug	1	- au g -
 065/091	aug	1	- au g -
 065/093	wäng	5	w ä n - g - - - -
-065/095	auf	NA	- au f - - - - - - - - - - - -
+065/095	auf	NA	-
 065/097	bil	3	b i - - - - l - - -
 065/101	aug	1	- au g -
 065/103	aug	1	- au g -
@@ -3472,7 +3472,7 @@ locations	strings	cognateID	alignments
 066/023	og	1	- o g -
 066/025	og	1	- o g -
 066/027	og	1	- o g -
-066/029	jett	NA	- j e tt - - - - - - - - - - -
+066/029	jett	NA	-
 066/031	og	1	- o g -
 066/033	og	1	- o g -
 066/035	bessche	3	b e - ss - - ch e - -
@@ -3508,7 +3508,7 @@ locations	strings	cognateID	alignments
 066/095	aug	1	- au g -
 066/097	auug	1	- auu g -
 066/099	aug	1	- au g -
-066/101	aweng	NA	- a w e ng - - - - - - - - - -
+066/101	aweng	NA	-
 066/103	a	1	- a - -
 066/105	bissala	3	b i - ss a - l a - -
 066/107	aung	1	- au ng -
@@ -3529,7 +3529,7 @@ locations	strings	cognateID	alignments
 066/161	oog	1	- oo g -
 066/163	aug	1	- au g -
 067/021	besche	3	b e - s - - ch e - -
-067/023	amelang	NA	- a m e l a ng - - - - - - - -
+067/023	amelang	NA	-
 067/025	beschen	3	b e - s - - ch e n -
 067/027	aug	1	- au g -
 067/029	oj	1	- o j -
@@ -3540,7 +3540,7 @@ locations	strings	cognateID	alignments
 067/039	aag	1	- aa g -
 067/041	aag	1	- aa g -
 067/043	ag	1	- a g -
-067/045	kaitche	NA	- k ai t ch e - - - - - - - - -
+067/045	kaitche	NA	-
 067/047	ag	1	- a g -
 067/049	ag	1	- a g -
 067/051	aag	1	- aa g -
@@ -3570,7 +3570,7 @@ locations	strings	cognateID	alignments
 067/099	weng	5	w e n - g - - - -
 067/101	wäng	5	w ä n - g - - - -
 067/103	aug	1	- au g -
-067/105	kloisweng	NA	- k l oi s w e ng - - - - - - -
+067/105	kloisweng	NA	-
 067/107	wing	5	w i n - g - - - -
 067/109	weil	4	- w ei l - - - - - - -
 067/111	aug	1	- au g -
@@ -3636,7 +3636,7 @@ locations	strings	cognateID	alignments
 068/111	aug	1	- au g -
 068/145	ach	1	- a ch -
 068/147	ach	1	- a ch -
-068/149	grusel	NA	- g r u s e l - - - - - - - -
+068/149	grusel	NA	-
 068/151	wailla	4	- w ai ll a - - - - - -
 068/153	ag	1	- a g -
 068/155	wälla	4	- w ä ll a - - - - - -
@@ -3817,7 +3817,7 @@ locations	strings	cognateID	alignments
 072/021	a	1	- a - -
 072/023	a	1	- a - -
 072/025	a	1	- a - -
-072/027	NA	NA	- - - - - - - - - - - - - - -
+072/027	NA	NA	-
 072/029	wenig	5	w e n i g - - - -
 072/031	og	1	- o g -
 072/033	ag	1	- a g -
@@ -3851,7 +3851,7 @@ locations	strings	cognateID	alignments
 072/089	weng	5	w e n - g - - - -
 072/091	auug	1	- auu g -
 072/093	bisl	3	b i - s - - l - - -
-072/095	hirl	NA	- h i r l - - - - - - - - - -
+072/095	hirl	NA	-
 072/097	ag	1	- a g -
 072/099	ä	1	- ä - -
 072/101	waal	4	- w aa l - - - - - - -
@@ -3890,7 +3890,7 @@ locations	strings	cognateID	alignments
 073/051	a	1	- a - -
 073/053	bisje	3	b i - s - - j e - -
 073/055	og	1	- o g -
-073/057	ehrerche	NA	- eh r e r ch e - -
+073/057	ehrerche	NA	-
 073/059	ach	1	- a ch -
 073/061	ag	1	- a g -
 073/063	ag	1	- a g -
@@ -3969,8 +3969,8 @@ locations	strings	cognateID	alignments
 074/093	auch	1	- au ch -
 074/095	aug	1	- au g -
 074/097	aug	1	- au g -
-074/099	hiaderl	NA	- h ia d e r l - - - - - - - -
-074/101	hiedl	NA	- h ie d l - - - - - - - - - -
+074/099	hiaderl	NA	-
+074/101	hiedl	NA	-
 074/103	aug	1	- au g -
 074/105	weng	5	w e n - g - - - -
 074/107	aug	1	- au g -
@@ -3981,8 +3981,8 @@ locations	strings	cognateID	alignments
 074/153	walla	4	- w a ll a - - - - - -
 074/155	bissl	3	b i - ss - - l - - -
 074/157	ag	1	- a g -
-074/159	grimpala	NA	- g r i m p a l a - - - - - -
-074/161	minkerle	NA	- m i n k e r l e - - - - - -
+074/159	grimpala	NA	-
+074/161	minkerle	NA	-
 074/163	aochh	1	- ao chh -
 074/165	aug	1	- au g -
 075/019	a	1	- a - -
@@ -4026,14 +4026,14 @@ locations	strings	cognateID	alignments
 075/095	aug	1	- au g -
 075/097	aug	1	- au g -
 075/099	weng	5	w e n - g - - - -
-075/101	hiatal	NA	- h ia t a l - - - - - - - - -
+075/101	hiatal	NA	-
 075/103	aug	1	- au g -
 075/105	aug	1	- au g -
 075/107	wengl	5	w e n - g - - l -
 075/135	am	1	- a m -
 075/145	aug	1	- au g -
 075/147	og	1	- o g -
-075/149	gissl	NA	- g i ss l - - - - - - - - - -
+075/149	gissl	NA	-
 075/155	bissl	3	b i - ss - - l - - -
 075/157	ag	1	- a g -
 075/159	bessla	3	b e - ss - - l a - -
@@ -4084,7 +4084,7 @@ locations	strings	cognateID	alignments
 076/103	weng	5	w e n - g - - - -
 076/135	weila	4	- w ei l a - - - - - -
 076/137	a	1	- a - -
-076/149	grimgerla	NA	- g r i m g e r l a - - - - -
+076/149	grimgerla	NA	-
 076/151	ag	1	- a g -
 076/155	aag	1	- aa g -
 076/161	besle	3	b e - s - - l e - -
@@ -4176,7 +4176,7 @@ locations	strings	cognateID	alignments
 078/101	bissl	3	b i - ss - - l - - -
 078/103	bisserl	3	b i - ss e r l - - -
 078/105	ag	1	- a g -
-078/135	hierl	NA	- h ie r l - - - - - - - - - -
+078/135	hierl	NA	-
 078/193	auag	1	- aua g -
 079/021	au	1	- au - -
 079/023	a	1	- a - -
@@ -4206,7 +4206,7 @@ locations	strings	cognateID	alignments
 079/073	aung	1	- au ng -
 079/075	aug	1	- au g -
 079/077	aug	1	- au g -
-079/079	hirla	NA	- h i r l a - - - - - - - - -
+079/079	hirla	NA	-
 079/081	aug	1	- au g -
 079/083	bissela	3	b i - ss e - l a - -
 079/085	aug	1	- au g -
@@ -4273,9 +4273,9 @@ locations	strings	cognateID	alignments
 080/147	weile	4	- w ei l e - - - - - -
 080/151	bailal	NA	b ai l a - - - l - -
 080/153	aug	1	- au g -
-080/193	klapchen	NA	- k l a p ch e n - - - - - - -
-080/195	grimml	NA	- g r i mm l - - - - - - - - -
-081/025	moment	NA	- m o m e n t - - - - - - - -
+080/193	klapchen	NA	-
+080/195	grimml	NA	-
+081/025	moment	NA	-
 081/027	oiw	1	- oi w -
 081/029	au	1	- au - -
 081/031	au	1	- au - -
@@ -4321,7 +4321,7 @@ locations	strings	cognateID	alignments
 081/127	wal	4	- w a l - - - - - - -
 081/129	bissl	3	b i - ss - - l - - -
 081/133	aug	1	- au g -
-081/147	abaalal	NA	- a b aa l a l - - - - - - - -
+081/147	abaalal	NA	-
 081/191	äug	1	- äu g -
 081/193	eug	1	- eu g -
 081/195	oug	1	- ou g -
@@ -4352,7 +4352,7 @@ locations	strings	cognateID	alignments
 082/075	ag	1	- a g -
 082/077	ach	1	- a ch -
 082/079	aeug	1	- aeu g -
-082/081	hirla	NA	- h i r l a - - - - - - - - -
+082/081	hirla	NA	-
 082/083	aung	1	- au ng -
 082/085	aung	1	- au ng -
 082/087	aug	1	- au g -
@@ -4418,7 +4418,7 @@ locations	strings	cognateID	alignments
 083/103	wöng	5	w ö n - g - - - -
 083/105	aug	1	- au g -
 083/107	wengal	5	w e n - g a - l -
-083/111	malei	NA	- m a l ei - - - - - - - - - -
+083/111	malei	NA	-
 083/113	aug	1	- au g -
 083/115	walloi	4	- w a ll oi - - - - - -
 083/117	walei	4	- w a l ei - - - - - -
@@ -4433,7 +4433,7 @@ locations	strings	cognateID	alignments
 083/145	walerl	4	- w a l - - e r l - -
 083/147	aug	1	- au g -
 083/149	aug	1	- au g -
-083/173	schibl	NA	- sch - i b - l - - - - - - - -
+083/173	schibl	NA	-
 083/195	aug	1	- au g -
 084/031	aug	1	- au g -
 084/033	auw	1	- au w -
@@ -4482,7 +4482,7 @@ locations	strings	cognateID	alignments
 084/119	walei	4	- w a l ei - - - - - -
 084/129	aug	1	- au g -
 084/131	weng	5	w e n - g - - - -
-084/133	randl	NA	- r a n d - - l - - - - - - -
+084/133	randl	NA	-
 084/135	aug	1	- au g -
 084/137	aug	1	- au g -
 084/139	aug	1	- au g -
@@ -4492,7 +4492,7 @@ locations	strings	cognateID	alignments
 084/147	woella	4	- w oe ll a - - - - - -
 084/149	aug	1	- au g -
 084/171	ag	1	- a g -
-084/173	schtiba	NA	- sch t i b a - - - - - - - - -
+084/173	schtiba	NA	-
 084/195	päsl	3	p ä - s - - l - - -
 085/031	au	1	- au - -
 085/033	auw	1	- au w -
@@ -4544,9 +4544,9 @@ locations	strings	cognateID	alignments
 085/127	aug	1	- au g -
 085/129	bissal	3	b i - ss a - l - - -
 085/131	wengerl	5	w e n - g e r l -
-085/133	randal	NA	- r a n d a - l - - - - - - -
+085/133	randal	NA	-
 085/135	aug	1	- au g -
-085/137	moment	NA	- m o m e n t - - - - - - - -
+085/137	moment	NA	-
 085/139	bissl	3	b i - ss - - l - - -
 085/141	awal	4	a w a l - - - - - - -
 085/143	aug	1	- au g -
@@ -4607,7 +4607,7 @@ locations	strings	cognateID	alignments
 086/129	aug	1	- au g -
 086/131	wengal	5	w e n - g a - l -
 086/133	wengerl	5	w e n - g e r l -
-086/135	randl	NA	- r a n d - - l - - - - - - -
+086/135	randl	NA	-
 086/137	wengerl	5	w e n - g e r l -
 086/139	aug	1	- au g -
 086/141	wengal	5	w e n - g a - l -
@@ -4616,7 +4616,7 @@ locations	strings	cognateID	alignments
 086/147	aug	1	- au g -
 086/149	weilal	4	- w ei l a - - - l - -
 086/151	au	1	- au - -
-086/175	maiga	NA	- m ai g a - - - - - - - - - -
+086/175	maiga	NA	-
 086/197	ag	1	- a g -
 086/199	ag	1	- a g -
 087/033	au	1	- au - -
@@ -4654,7 +4654,7 @@ locations	strings	cognateID	alignments
 087/099	aug	1	- au g -
 087/101	aug	1	- au g -
 087/103	weng	5	w e n - g - - - -
-087/105	ertl	NA	- e r t l - - - - - - - - - -
+087/105	ertl	NA	-
 087/107	wengal	5	w e n - g a - l -
 087/109	aung	1	- au ng -
 087/111	aug	1	- au g -
@@ -4667,13 +4667,13 @@ locations	strings	cognateID	alignments
 087/125	aug	1	- au g -
 087/127	aung	1	- au ng -
 087/129	aug	1	- au g -
-087/133	rondal	NA	- r o n d a - l - - - - - - -
+087/133	rondal	NA	-
 087/135	aug	1	- au g -
 087/137	aug	1	- au g -
-087/139	randal	NA	- r a n d a - l - - - - - - -
+087/139	randal	NA	-
 087/141	weng	5	w e n - g - - - -
 087/143	wengal	5	w e n - g a - l -
-087/145	weu	NA	- w eu - - - - - - - - - - - -
+087/145	weu	NA	-
 087/147	aug	1	- au g -
 087/149	aug	1	- au g -
 087/151	aug	1	- au g -
@@ -4711,11 +4711,11 @@ locations	strings	cognateID	alignments
 088/097	aug	1	- au g -
 088/099	aug	1	- au g -
 088/101	auug	1	- auu g -
-088/103	eeadl	NA	- eea d l - - - - - - - - - - -
+088/103	eeadl	NA	-
 088/105	aug	1	- au g -
 088/107	bisserl	3	b i - ss e r l - - -
 088/109	aug	1	- au g -
-088/113	zeitl	NA	- z ei t l - - - - - - - - - -
+088/113	zeitl	NA	-
 088/115	echtl	6	- - e ch t - l - -
 088/117	eichden	6	- - ei ch d e - - n
 088/121	aung	1	- au ng -
@@ -4781,8 +4781,8 @@ locations	strings	cognateID	alignments
 089/131	aun	1	- au n -
 089/133	weng	5	w e n - g - - - -
 089/135	weng	5	w e n - g - - - -
-089/137	randal	NA	- r a n d a - l - - - - - - -
-089/139	randal	NA	- r a n d a - l - - - - - - -
+089/137	randal	NA	-
+089/139	randal	NA	-
 089/141	wengal	5	w e n - g a - l -
 089/143	wäuilal	4	- w äui l a - - - l - -
 089/145	wengl	5	w e n - g - - l -
@@ -4823,7 +4823,7 @@ locations	strings	cognateID	alignments
 090/099	aug	1	- au g -
 090/101	aug	1	- au g -
 090/103	aug	1	- au g -
-090/105	ertl	NA	- e r t l - - - - - - - - - -
+090/105	ertl	NA	-
 090/107	wengl	5	w e n - g - - l -
 090/109	aug	1	- au g -
 090/111	aug	1	- au g -
@@ -4836,13 +4836,13 @@ locations	strings	cognateID	alignments
 090/127	neichterl	6	- n ei ch t er l - -
 090/129	aug	1	- au g -
 090/131	aug	1	- au g -
-090/133	randal	NA	- r a n d a - l - - - - - - -
-090/135	randal	NA	- r a n d a - l - - - - - - -
+090/133	randal	NA	-
+090/135	randal	NA	-
 090/137	aug	1	- au g -
 090/139	aug	1	- au g -
 090/141	aug	1	- au g -
-090/143	randl	NA	- r a n d - - l - - - - - - -
-090/145	randal	NA	- r a n d a - l - - - - - - -
+090/143	randl	NA	-
+090/145	randal	NA	-
 090/147	wengal	5	w e n - g a - l -
 090/149	bissel	3	b i - ss e - l - - -
 090/151	aug	1	- au g -
@@ -4892,17 +4892,17 @@ locations	strings	cognateID	alignments
 091/125	neichtal	6	- n ei ch t a l - -
 091/129	eichtal	6	- - ei ch t a l - -
 091/131	aug	1	- au g -
-091/133	eigameahel	NA	- ei g a m ea h e l - - - - - -
+091/133	eigameahel	NA	-
 091/135	bissl	3	b i - ss - - l - - -
 091/137	aug	1	- au g -
-091/139	rond	NA	- r o n d - - - - - - - - - -
+091/139	rond	NA	-
 091/141	bissal	3	b i - ss a - l - - -
 091/143	aug	1	- au g -
 091/145	aug	1	- au g -
 091/147	aug	1	- au g -
 091/149	wengl	5	w e n - g - - l -
 091/151	awäu	4	a w äu - - - - - - - -
-091/155	wasl	NA	- w a s - l - - - - - - - - -
+091/155	wasl	NA	-
 092/033	aug	1	- au g -
 092/035	oig	1	- oi g -
 092/037	ei	1	- ei - -
@@ -4944,7 +4944,7 @@ locations	strings	cognateID	alignments
 092/109	neishtl	6	- n ei sh t - l - -
 092/111	eichtl	6	- - ei ch t - l - -
 092/113	eichtl	6	- - ei ch t - l - -
-092/115	weu	NA	- w eu - - - - - - - - - - - -
+092/115	weu	NA	-
 092/117	bissal	3	b i - ss a - l - - -
 092/119	wengal	5	w e n - g a - l -
 092/121	wengerl	5	w e n - g e r l -
@@ -4955,9 +4955,9 @@ locations	strings	cognateID	alignments
 092/131	aug	1	- au g -
 092/133	aug	1	- au g -
 092/135	bisserl	3	b i - ss e r l - - -
-092/137	randal	NA	- r a n d a - l - - - - - - -
+092/137	randal	NA	-
 092/139	wengl	5	w e n - g - - l -
-092/141	rand	NA	- r a n d - - - - - - - - - -
+092/141	rand	NA	-
 092/143	aug	1	- au g -
 092/145	bisl	3	b i - s - - l - - -
 092/147	aug	1	- au g -
@@ -5008,10 +5008,10 @@ locations	strings	cognateID	alignments
 093/121	aug	1	- au g -
 093/123	wengal	5	w e n - g a - l -
 093/125	wengal	5	w e n - g a - l -
-093/127	naidal	NA	- n ai d a l - - - - - - - - -
+093/127	naidal	NA	-
 093/129	wengerl	5	w e n - g e r l -
 093/131	wengal	5	w e n - g a - l -
-093/133	randerl	NA	- r a n d e r l - - - - - - -
+093/133	randerl	NA	-
 093/137	aug	1	- au g -
 093/139	aug	1	- au g -
 093/143	weingarl	5	w ei n - g a r l -
@@ -5108,7 +5108,7 @@ locations	strings	cognateID	alignments
 095/077	bisle	3	b i - s - - l e - -
 095/079	aug	1	- au g -
 095/081	og	1	- o g -
-095/083	aweann	NA	- a w ea nn - - - - - - - - - -
+095/083	aweann	NA	-
 095/085	aung	1	- au ng -
 095/087	aug	1	- au g -
 095/089	aung	1	- au ng -
@@ -5132,9 +5132,9 @@ locations	strings	cognateID	alignments
 095/125	aug	1	- au g -
 095/129	aug	1	- au g -
 095/131	aug	1	- au g -
-095/133	randl	NA	- r a n d - - l - - - - - - -
+095/133	randl	NA	-
 095/139	aug	1	- au g -
-095/141	randl	NA	- r a n d - - l - - - - - - -
+095/141	randl	NA	-
 095/143	bissal	3	b i - ss a - l - - -
 095/145	wengal	5	w e n - g a - l -
 095/147	bissal	3	b i - ss a - l - - -
@@ -5161,7 +5161,7 @@ locations	strings	cognateID	alignments
 096/063	aug	1	- au g -
 096/065	aug	1	- au g -
 096/067	bitzele	3	b i t z e - l e - -
-096/069	NA	NA	- - - - - - - - - - - - - - -
+096/069	NA	NA	-
 096/071	aug	1	- au g -
 096/075	og	1	- o g -
 096/077	og	1	- o g -
@@ -5172,7 +5172,7 @@ locations	strings	cognateID	alignments
 096/087	bisl	3	b i - s - - l - - -
 096/089	aug	1	- au g -
 096/091	bissa	3	b i - ss - - - a - -
-096/093	NA	NA	- - - - - - - - - - - - - - -
+096/093	NA	NA	-
 096/095	bissl	3	b i - ss - - l - - -
 096/097	bissl	3	b i - ss - - l - - -
 096/099	aug	1	- au g -
@@ -5191,7 +5191,7 @@ locations	strings	cognateID	alignments
 096/125	weil	4	- w ei l - - - - - - -
 096/129	eichterl	6	- - ei ch t er l - -
 096/131	bissal	3	b i - ss a - l - - -
-096/135	randerl	NA	- r a n d e r l - - - - - - -
+096/135	randerl	NA	-
 096/137	wengarl	5	w e n - g a r l -
 096/139	aug	1	- au g -
 096/141	aug	1	- au g -
@@ -5236,9 +5236,9 @@ locations	strings	cognateID	alignments
 097/095	aug	1	- au g -
 097/097	bissl	3	b i - ss - - l - - -
 097/099	wenk	5	w e n - k - - - -
-097/103	zeitl	NA	- z ei t l - - - - - - - - - -
+097/103	zeitl	NA	-
 097/105	aug	1	- au g -
-097/107	zeitl	NA	- z ei t l - - - - - - - - - -
+097/107	zeitl	NA	-
 097/109	eicht	6	- - ei ch t - - - -
 097/113	eichterl	6	- - ei ch t er l - -
 097/125	eichl	6	- - ei ch - - l - -
@@ -5285,7 +5285,7 @@ locations	strings	cognateID	alignments
 098/097	bisl	3	b i - s - - l - - -
 098/103	bissl	3	b i - ss - - l - - -
 098/105	bissl	3	b i - ss - - l - - -
-098/107	stümmei	NA	- s t ü - mm ei - - - - - - - -
+098/107	stümmei	NA	-
 098/109	weil	4	- w ei l - - - - - - -
 098/111	bissal	3	b i - ss a - l - - -
 098/119	eichtl	6	- - ei ch t - l - -
@@ -5305,11 +5305,11 @@ locations	strings	cognateID	alignments
 099/035	aug	1	- au g -
 099/037	oüg	1	- oü g -
 099/039	aug	1	- au g -
-099/041	rüngle	NA	- r ü ng l e - - - - - - - - -
+099/041	rüngle	NA	-
 099/043	aug	1	- au g -
 099/045	aug	1	- au g -
 099/047	weng	5	w e n - g - - - -
-099/049	rüngli	NA	- r ü ng l i - - - - - - - - -
+099/049	rüngli	NA	-
 099/051	aug	1	- au g -
 099/053	aug	1	- au g -
 099/055	echli	6	- - e ch - - l i -
@@ -5333,8 +5333,8 @@ locations	strings	cognateID	alignments
 099/101	bissal	3	b i - ss a - l - - -
 099/103	boisei	3	b oi - s - - - ei - -
 099/105	bissei	3	b i - ss - - - ei - -
-099/107	stüame	NA	- s t üa - m e - - - - - - - -
-099/109	stürmei	NA	- s t ü r m ei - - - - - - - -
+099/107	stüame	NA	-
+099/109	stürmei	NA	-
 099/111	weng	5	w e n - g - - - -
 099/113	aug	1	- au g -
 099/121	wengal	5	w e n - g a - l -
@@ -5415,7 +5415,7 @@ locations	strings	cognateID	alignments
 101/081	bisla	3	b i - s - - l a - -
 101/091	aug	1	- au g -
 101/093	aug	1	- au g -
-101/095	kreifei	NA	- k r ei f ei - - - - - - - - -
+101/095	kreifei	NA	-
 101/097	boisei	3	b oi - s - - - ei - -
 101/099	bissä	3	b i - ss - - - ä - -
 101/101	bissei	3	b i - ss - - - ei - -
@@ -5477,7 +5477,7 @@ locations	strings	cognateID	alignments
 102/137	aug	1	- au g -
 102/139	bresl	2	b r e s - l
 102/141	aug	1	- au g -
-102/143	rändal	NA	- r ä n d a l - - - - - - - -
+102/143	rändal	NA	-
 102/145	pisl	3	p i - s - - l - - -
 103/039	oug	1	- ou g -
 103/041	aug	1	- au g -
@@ -5488,7 +5488,7 @@ locations	strings	cognateID	alignments
 103/051	aug	1	- au g -
 103/053	aug	1	- au g -
 103/055	aug	1	- au g -
-103/057	wyli	NA	- w y l i - - - - - - - - - -
+103/057	wyli	NA	-
 103/059	wili	4	- w i l i - - - - - -
 103/063	og	1	- o g -
 103/065	bitzili	3	b i t z i - l i - -
@@ -5505,7 +5505,7 @@ locations	strings	cognateID	alignments
 103/087	weilche	4	- w ei l - ch e - - - -
 103/089	boissl	3	b oi - ss - - l - - -
 103/091	aug	1	- au g -
-103/097	greisei	NA	- g r ei s ei - - - - - - - - -
+103/097	greisei	NA	-
 103/099	boisei	3	b oi - s - - - ei - -
 103/101	wengei	5	w e n - g ei - - -
 103/105	boisei	3	b oi - s - - - ei - -
@@ -5518,12 +5518,12 @@ locations	strings	cognateID	alignments
 103/133	weng	5	w e n - g - - - -
 103/135	bissl	3	b i - ss - - l - - -
 103/137	aug	1	- au g -
-103/139	stickl	NA	- s t i ck - l - - - - - - - -
+103/139	stickl	NA	-
 103/141	aug	1	- au g -
 103/143	aug	1	- au g -
 103/145	pisserln	3	p i - ss e r l - n -
 104/033	oug	1	- ou g -
-104/035	momäntli	NA	- m o m ä n t l i - - - - - -
+104/035	momäntli	NA	-
 104/037	chlei	6	- - - ch - - l ei -
 104/039	aug	1	- au g -
 104/041	oug	1	- ou g -
@@ -5598,7 +5598,7 @@ locations	strings	cognateID	alignments
 105/089	aug	1	- au g -
 105/103	bois	3	b oi - s - - - - - -
 105/105	aug	1	- au g -
-105/111	zeitl	NA	- z ei t l - - - - - - - - - -
+105/111	zeitl	NA	-
 105/113	aug	1	- au g -
 105/115	aug	1	- au g -
 105/117	aug	1	- au g -
@@ -5635,10 +5635,10 @@ locations	strings	cognateID	alignments
 106/079	weilele	4	- w ei l e - - - l e -
 106/081	og	1	- o g -
 106/085	bissl	3	b i - ss - - l - - -
-106/087	fezzele	NA	- f e zz e l e - - - - - - - -
+106/087	fezzele	NA	-
 106/093	aug	1	- au g -
 106/097	bissle	3	b i - ss - - l e - -
-106/099	NA	NA	- - - - - - - - - - - - - - -
+106/099	NA	NA	-
 106/103	aug	1	- au g -
 106/111	aug	1	- au g -
 106/115	bissei	3	b i - ss - - - ei - -
@@ -5678,7 +5678,7 @@ locations	strings	cognateID	alignments
 107/091	aug	1	- au g -
 107/097	boisl	3	b oi - s - - l - - -
 107/099	aug	1	- au g -
-107/103	gadl	NA	- g a d l - - - - - - - - - -
+107/103	gadl	NA	-
 107/105	aug	1	- au g -
 107/107	aug	1	- au g -
 107/111	aug	1	- au g -
@@ -5695,14 +5695,14 @@ locations	strings	cognateID	alignments
 107/139	bisserl	3	b i - ss e r l - - -
 107/141	aum	1	- au m -
 107/143	wengerl	5	w e n - g e r l -
-108/033	momäntli	NA	- m o m ä n t l i - - - - - -
+108/033	momäntli	NA	-
 108/035	oug	1	- ou g -
 108/037	ug	1	- u g -
 108/039	oug	1	- ou g -
 108/041	ug	1	- u g -
 108/043	og	1	- o g -
-108/047	schutzeli	NA	- sch u t z e l i - - - - - - -
-108/049	schutzili	NA	- sch u t z i l i - - - - - - -
+108/047	schutzeli	NA	-
+108/049	schutzili	NA	-
 108/063	bite	3	b i t - - - - e - -
 108/065	wieli	4	- w ie l i - - - - - -
 108/067	aug	1	- au g -
@@ -5716,7 +5716,7 @@ locations	strings	cognateID	alignments
 108/101	boisl	3	b oi - s - - l - - -
 108/103	aug	1	- au g -
 108/105	bisl	3	b i - s - - l - - -
-108/109	eigele	NA	- ei g e l e - - - - - - - - -
+108/109	eigele	NA	-
 108/111	bisl	3	b i - s - - l - - -
 108/113	weile	4	- w ei l e - - - - - -
 108/117	weani	5	w ea n i - - - - -
@@ -5724,7 +5724,7 @@ locations	strings	cognateID	alignments
 108/121	bissl	3	b i - ss - - l - - -
 108/123	aug	1	- au g -
 108/125	aug	1	- au g -
-108/127	grarli	NA	- g r a r l i - - - - - - - -
+108/127	grarli	NA	-
 108/129	bisserl	3	b i - ss e r l - - -
 108/131	wengal	5	w e n - g a - l -
 108/133	aug	1	- au g -
@@ -5737,8 +5737,8 @@ locations	strings	cognateID	alignments
 109/039	oug	1	- ou g -
 109/041	uug	1	- uu g -
 109/043	aug	1	- au g -
-109/045	rascht	NA	- r a sch t - - - - - - - - - -
-109/049	schutzli	NA	- sch u t z - l i - - - - - - -
+109/045	rascht	NA	-
+109/049	schutzli	NA	-
 109/053	chlie	6	- - - ch - - l ie -
 109/061	bitzli	3	b i t z - - l i - -
 109/063	aug	1	- au g -
@@ -5756,7 +5756,7 @@ locations	strings	cognateID	alignments
 109/101	aug	1	- au g -
 109/103	aug	1	- au g -
 109/107	bissl	3	b i - ss - - l - - -
-109/109	reckl	NA	- r e ck l - - - - - - - - - -
+109/109	reckl	NA	-
 109/111	aug	1	- au g -
 109/113	bisl	3	b i - s - - l - - -
 109/115	aug	1	- au g -
@@ -5778,7 +5778,7 @@ locations	strings	cognateID	alignments
 110/043	oug	1	- ou g -
 110/045	oug	1	- ou g -
 110/047	oig	1	- oi g -
-110/049	schutzli	NA	- sch u t z - l i - - - - - - -
+110/049	schutzli	NA	-
 110/057	bitzi	3	b i t z - - - i - -
 110/061	aug	1	- au g -
 110/065	aug	1	- au g -
@@ -5790,9 +5790,9 @@ locations	strings	cognateID	alignments
 110/089	aug	1	- au g -
 110/091	aug	1	- au g -
 110/093	aug	1	- au g -
-110/095	löggile	NA	- l ö gg i l e - - - - - - - -
+110/095	löggile	NA	-
 110/097	bissele	3	b i - ss e - l e - -
-110/099	keiol	NA	- k eio l - - - - - - - - - - -
+110/099	keiol	NA	-
 110/101	aug	1	- au g -
 110/105	aug	1	- au g -
 110/107	aug	1	- au g -
@@ -5815,7 +5815,7 @@ locations	strings	cognateID	alignments
 111/039	bitzi	3	b i t z - - - i - -
 111/041	og	1	- o g -
 111/043	oug	1	- ou g -
-111/045	rascht	NA	- r a sch t - - - - - - - - - -
+111/045	rascht	NA	-
 111/059	aug	1	- au g -
 111/073	aug	1	- au g -
 111/075	aug	1	- au g -
@@ -5839,12 +5839,12 @@ locations	strings	cognateID	alignments
 112/037	aug	1	- au g -
 112/039	aug	1	- au g -
 112/041	bitzi	3	b i t z - - - i - -
-112/043	raschtli	NA	- r a sch t l i - - - - - - - -
+112/043	raschtli	NA	-
 112/047	aug	1	- au g -
 112/059	aug	1	- au g -
 112/061	aug	1	- au g -
 112/063	aug	1	- au g -
-112/075	fezzl	NA	- f e zz - l - - - - - - - - -
+112/075	fezzl	NA	-
 112/081	aug	1	- au g -
 112/083	aug	1	- au g -
 112/085	aug	1	- au g -
@@ -5866,11 +5866,11 @@ locations	strings	cognateID	alignments
 114/035	aug	1	- au g -
 114/045	bitzje	3	b i t z - - j e - -
 114/083	bisl	3	b i - s - - l - - -
-114/085	preckl	NA	- p r e ck l - - - - - - - - -
+114/085	preckl	NA	-
 115/041	bitz	3	b i t z - - - - - -
 115/043	eüg	1	- eü g -
-115/045	schutzji	NA	- sch u t z - j i - - - - - - -
-115/083	moumeint	NA	- m ou m ei n t - - - - - - - -
+115/045	schutzji	NA	-
+115/083	moumeint	NA	-
 115/085	aug	1	- au g -
 116/043	bitzji	3	b i t z - - j i - -
 116/045	oig	1	- oi g -
@@ -5878,14 +5878,14 @@ locations	strings	cognateID	alignments
 117/043	oig	1	- oi g -
 117/045	oig	1	- oi g -
 118/041	aug	1	- au g -
-119/083	migeln	NA	- m i g e l n - - - - - - - -
-120/085	stiendli	NA	- s t ie n d l i - - - - - - -
+119/083	migeln	NA	-
+120/085	stiendli	NA	-
 121/127	ag	1	- a g -
 122/127	ag	1	- a g -
 122/129	ag	1	- a g -
-123/081	NA	NA	- - - - - - - - - - - - - - -
+123/081	NA	NA	-
 123/123	aug	1	- au g -
-123/125	NA	NA	- - - - - - - - - - - - - - -
+123/125	NA	NA	-
 123/127	ag	1	- a g -
 123/129	ag	1	- a g -
 124/125	ag	1	- a g -

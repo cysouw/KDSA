@@ -345,7 +345,7 @@
 018/213	gloow	1	g - l oo w - -
 018/215	glow	1	g - l o w - -
 018/219	glow	1	g - l o w - -
-019/051	NA	NA	- - - - - - - -
+019/051	NA	NA	-
 019/053	löv	1	- - l ö v - -
 019/055	löw	1	- - l ö w - -
 019/057	löw	1	- - l ö w - -
@@ -1190,7 +1190,7 @@
 031/063	glöf	1	g - l ö f - -
 031/065	löv	1	- - l ö v - -
 031/067	glöw	1	g - l ö w - -
-031/069	NA	NA	- - - - - - - -
+031/069	NA	NA	-
 031/071	löw	1	- - l ö w - -
 031/073	glööv	1	g - l öö v - -
 031/075	löw	1	- - l ö w - -
@@ -1369,7 +1369,7 @@
 033/139	glöw	1	g - l ö w - -
 033/141	glöw	1	g - l ö w - -
 033/143	glöw	1	g - l ö w - -
-033/145	NA	NA	- - - - - - - -
+033/145	NA	NA	-
 033/147	löw	1	- - l ö w - -
 033/149	löw	1	- - l ö w - -
 033/151	löw	1	- - l ö w - -
@@ -1756,7 +1756,7 @@
 039/129	glowe	1	g - l o w e -
 039/131	glowe	1	g - l o w e -
 039/133	glowe	1	g - l o w e -
-039/135	NA	NA	- - - - - - - -
+039/135	NA	NA	-
 039/137	globe	1	g - l o b e -
 039/139	globe	1	g - l o b e -
 039/149	löw	1	- - l ö w - -
@@ -2119,7 +2119,7 @@
 045/137	gleeb	1	g - l ee b - -
 045/139	gleeb	1	g - l ee b - -
 045/141	gleb	1	g - l e b - -
-045/143	NA	NA	- - - - - - - -
+045/143	NA	NA	-
 045/145	gleb	1	g - l e b - -
 045/155	glob	1	g - l o b - -
 046/031	gläöwe	1	g - l äö w e -
@@ -2209,7 +2209,7 @@
 047/083	glöwe	1	g - l ö w e -
 047/085	globe	1	g - l o b e -
 047/087	jleewe	1	j - l ee w e -
-047/089	NA	NA	- - - - - - - -
+047/089	NA	NA	-
 047/091	glaube	1	g - l au b e -
 047/093	jlobe	1	j - l o b e -
 047/095	jlobe	1	j - l o b e -
@@ -2733,7 +2733,7 @@
 055/073	gläuibe	1	g - l äui b e -
 055/075	glauwe	1	g - l au w e -
 055/077	gleibe	1	g - l ei b e -
-055/079	NA	NA	- - - - - - - -
+055/079	NA	NA	-
 055/081	glaube	1	g - l au b e -
 055/083	glaube	1	g - l au b e -
 055/085	globe	1	g - l o b e -
@@ -2964,7 +2964,7 @@
 058/113	globe	1	g - l o b e -
 058/115	globe	1	g - l o b e -
 058/117	globe	1	g - l o b e -
-058/119	NA	NA	- - - - - - - -
+058/119	NA	NA	-
 058/121	glejbo	1	g - l ej b o -
 058/123	glebe	1	g - l e b e -
 058/125	gleebe	1	g - l ee b e -
@@ -3030,7 +3030,7 @@
 059/103	gloob	1	g - l oo b - -
 059/105	glob	1	g - l o b - -
 059/107	glob	1	g - l o b - -
-059/109	NA	NA	- - - - - - - -
+059/109	NA	NA	-
 059/111	globe	1	g - l o b e -
 059/113	globe	1	g - l o b e -
 059/115	gloobe	1	g - l oo b e -
@@ -3185,7 +3185,7 @@
 061/125	glejbe	1	g - l ej b e -
 061/127	glejbe	1	g - l ej b e -
 061/129	glejb	1	g - l ej b - -
-061/131	NA	NA	- - - - - - - -
+061/131	NA	NA	-
 061/133	denke	2	- d e n k - e
 061/137	glebe	1	g - l e b e -
 061/139	gleebe	1	g - l ee b e -
@@ -3198,7 +3198,7 @@
 061/153	glebe	1	g - l e b e -
 061/155	glebe	1	g - l e b e -
 061/157	glehbe	1	g - l eh b e -
-061/159	NA	NA	- - - - - - - -
+061/159	NA	NA	-
 061/161	gloobe	1	g - l oo b e -
 061/165	globo	1	g - l o b o -
 062/021	glöv	1	g - l ö v - -
@@ -3246,7 +3246,7 @@
 062/105	glab	1	g - l a b - -
 062/107	gläb	1	g - l ä b - -
 062/109	globe	1	g - l o b e -
-062/111	NA	NA	- - - - - - - -
+062/111	NA	NA	-
 062/113	glewe	1	g - l e w e -
 062/115	glewe	1	g - l e w e -
 062/117	denke	2	- d e n k - e
@@ -3255,7 +3255,7 @@
 062/123	gloube	1	g - l ou b e -
 062/125	gleb	1	g - l e b - -
 062/127	glejbe	1	g - l ej b e -
-062/129	NA	NA	- - - - - - - -
+062/129	NA	NA	-
 062/131	glejbe	1	g - l ej b e -
 062/133	denke	2	- d e n k - e
 062/135	denk	2	- d e n k - -
@@ -3322,13 +3322,13 @@
 063/115	glebe	1	g - l e b e -
 063/117	globa	1	g - l o b a -
 063/119	denka	2	- d e n k - a
-063/121	NA	NA	- - - - - - - -
+063/121	NA	NA	-
 063/123	denke	2	- d e n k - e
-063/125	NA	NA	- - - - - - - -
-063/127	NA	NA	- - - - - - - -
+063/125	NA	NA	-
+063/127	NA	NA	-
 063/135	geeb	1	g - - ee b - -
-063/137	NA	NA	- - - - - - - -
-063/139	NA	NA	- - - - - - - -
+063/137	NA	NA	-
+063/139	NA	NA	-
 063/141	gleb	1	g - l e b - -
 063/143	dächt	2	- d ä - ch t -
 063/145	gloiwe	1	g - l oi w e -
@@ -3403,7 +3403,7 @@
 064/145	gloiwe	1	g - l oi w e -
 064/147	glebe	1	g - l e b e -
 064/149	glebe	1	g - l e b e -
-064/151	NA	NA	- - - - - - - -
+064/151	NA	NA	-
 064/153	gleebe	1	g - l ee b e -
 064/155	glebe	1	g - l e b e -
 064/157	globe	1	g - l o b e -
@@ -3446,7 +3446,7 @@
 065/091	gleb	1	g - l e b - -
 065/093	glaab	1	g - l aa b - -
 065/095	gläb	1	g - l ä b - -
-065/097	NA	NA	- - - - - - - -
+065/097	NA	NA	-
 065/101	glab	1	g - l a b - -
 065/103	gelab	1	g e l a b - -
 065/105	denk	2	- d e n k - -
@@ -3531,7 +3531,7 @@
 067/021	hochlen	NA	h o ch l e n
 067/023	glöven	1	g - l ö v e n
 067/025	glew	1	g - l e w - -
-067/027	NA	NA	- - - - - - - -
+067/027	NA	NA	-
 067/029	jelöw	1	j e l ö w - -
 067/031	jelöwen	1	j e l ö w e n
 067/033	jelöw	1	j e l ö w - -
@@ -3585,13 +3585,13 @@
 067/157	gläbe	1	g - l ä b e -
 067/159	gläbe	1	g - l ä b e -
 067/161	gläbe	1	g - l ä b e -
-067/163	NA	NA	- - - - - - - -
+067/163	NA	NA	-
 067/165	glebe	1	g - l e b e -
 067/177	glebe	1	g - l e b e -
 068/021	jeleve	1	j e l e v e -
 068/023	jlev	1	j - l e v - -
 068/025	jlef	1	j - l e f - -
-068/027	NA	NA	- - - - - - - -
+068/027	NA	NA	-
 068/029	jelöwen	1	j e l ö w e n
 068/031	jelewen	1	j e l e w e n
 068/033	jeläwe	1	j e l ä w e -
@@ -3611,7 +3611,7 @@
 068/061	glab	1	g - l a b - -
 068/063	gläh	1	g - l äh - - -
 068/065	glä	1	g - l ä - - -
-068/067	NA	NA	- - - - - - - -
+068/067	NA	NA	-
 068/069	glä	1	g - l ä - - -
 068/071	denk	2	- d e n k - -
 068/073	glääb	1	g - l ää b - -
@@ -3629,14 +3629,14 @@
 068/097	dänk	2	- d ä n k - -
 068/099	denk	2	- d e n k - -
 068/101	glau	1	g - l au - - -
-068/103	NA	NA	- - - - - - - -
-068/105	NA	NA	- - - - - - - -
+068/103	NA	NA	-
+068/105	NA	NA	-
 068/107	denk	2	- d e n k - -
 068/109	deng	2	- d e ng - - -
 068/111	glaab	1	g - l aa b - -
 068/145	glä	1	g - l ä - - -
 068/147	deecht	2	- d ee - ch t -
-068/149	NA	NA	- - - - - - - -
+068/149	NA	NA	-
 068/151	glab	1	g - l a b - -
 068/153	glab	1	g - l a b - -
 068/155	decht	2	- d e - ch t -
@@ -3702,7 +3702,7 @@
 070/019	mengen	3	m e ng e n
 070/023	glawen	1	g - l a w e n
 070/025	glef	1	g - l e f - -
-070/027	NA	NA	- - - - - - - -
+070/027	NA	NA	-
 070/029	glewen	1	g - l e w e n
 070/031	glef	1	g - l e f - -
 070/033	glaf	1	g - l a f - -
@@ -3740,7 +3740,7 @@
 070/097	glah	1	g - l ah - - -
 070/099	denk	2	- d e n k - -
 070/101	denk	2	- d e n k - -
-070/103	NA	NA	- - - - - - - -
+070/103	NA	NA	-
 070/105	dänk	2	- d ä n k - -
 070/107	glab	1	g - l a b - -
 070/109	glab	1	g - l a b - -
@@ -3756,7 +3756,7 @@
 070/161	gläb	1	g - l ä b - -
 070/163	glahif	1	g - l ahi f - -
 070/165	glaif	1	g - l ai f - -
-071/017	NA	NA	- - - - - - - -
+071/017	NA	NA	-
 071/019	glewen	1	g - l e w e n
 071/021	gleven	1	g - l e v e n
 071/023	glawen	1	g - l a w e n
@@ -3802,7 +3802,7 @@
 071/105	denk	2	- d e n k - -
 071/145	denk	2	- d e n k - -
 071/147	glab	1	g - l a b - -
-071/149	NA	NA	- - - - - - - -
+071/149	NA	NA	-
 071/151	glaab	1	g - l aa b - -
 071/153	glab	1	g - l a b - -
 071/155	denk	2	- d e n k - -
@@ -3812,13 +3812,13 @@
 071/163	glaub	1	g - l au b - -
 071/177	doocht	2	- d oo - ch t -
 071/179	denk	2	- d e n k - -
-072/017	NA	NA	- - - - - - - -
+072/017	NA	NA	-
 072/019	mengen	3	m e ng e n
 072/021	meenge	3	m ee ng e -
-072/023	NA	NA	- - - - - - - -
+072/023	NA	NA	-
 072/025	glaw	1	g - l a w - -
 072/027	glewen	1	g - l e w e n
-072/029	NA	NA	- - - - - - - -
+072/029	NA	NA	-
 072/031	gläv	1	g - l ä v - -
 072/033	glav	1	g - l a v - -
 072/035	gläwe	1	g - l ä w e -
@@ -3864,7 +3864,7 @@
 072/151	gloob	1	g - l oo b - -
 072/153	glab	1	g - l a b - -
 072/155	glab	1	g - l a b - -
-072/157	NA	NA	- - - - - - - -
+072/157	NA	NA	-
 072/159	glaab	1	g - l aa b - -
 072/161	glab	1	g - l a b - -
 072/177	denk	2	- d e n k - -
@@ -3923,9 +3923,9 @@
 073/153	denk	2	- d e n k - -
 073/155	glab	1	g - l a b - -
 073/157	glab	1	g - l a b - -
-073/159	NA	NA	- - - - - - - -
+073/159	NA	NA	-
 073/161	glab	1	g - l a b - -
-073/163	NA	NA	- - - - - - - -
+073/163	NA	NA	-
 073/165	denk	2	- d e n k - -
 073/175	gluoj	1	g - l uo j - -
 073/177	glooj	1	g - l oo j - -
@@ -3973,13 +3973,13 @@
 074/101	denk	2	- d e n k - -
 074/103	denk	2	- d e n k - -
 074/105	glaub	1	g - l au b - -
-074/107	NA	NA	- - - - - - - -
+074/107	NA	NA	-
 074/109	denk	2	- d e n k - -
 074/145	denk	2	- d e n k - -
 074/147	scheint	5	sch ei n t
 074/149	denk	2	- d e n k - -
 074/153	decht	2	- d e - ch t -
-074/155	NA	NA	- - - - - - - -
+074/155	NA	NA	-
 074/157	glab	1	g - l a b - -
 074/159	glaob	1	g - l ao b - -
 074/161	denk	2	- d e n k - -
@@ -4173,10 +4173,10 @@
 078/095	moi	3	m oi - - -
 078/097	moinat	3	m oi n a t
 078/099	gla	1	g - l a - - -
-078/101	NA	NA	- - - - - - - -
+078/101	NA	NA	-
 078/103	moi	3	m oi - - -
 078/105	moi	3	m oi - - -
-078/135	NA	NA	- - - - - - - -
+078/135	NA	NA	-
 078/193	klaug	1	k - l au g - -
 079/021	gläw	1	g - l ä w - -
 079/023	gläwen	1	g - l ä w e n
@@ -4260,7 +4260,7 @@
 080/087	glaab	1	g - l aa b - -
 080/089	glab	1	g - l a b - -
 080/091	glab	1	g - l a b - -
-080/093	NA	NA	- - - - - - - -
+080/093	NA	NA	-
 080/095	glau	1	g - l au - - -
 080/097	glau	1	g - l au - - -
 080/099	gla	1	g - l a - - -
@@ -4268,7 +4268,7 @@
 080/103	glaub	1	g - l au b - -
 080/105	mooi	3	m ooi - - -
 080/107	moj	3	m oj - - -
-080/109	NA	NA	- - - - - - - -
+080/109	NA	NA	-
 080/127	glauw	1	g - l au w - -
 080/147	glaub	1	g - l au b - -
 080/151	glab	1	g - l a b - -
@@ -4529,7 +4529,7 @@
 085/095	glab	1	g - l a b - -
 085/097	gloab	1	g - l oa b - -
 085/101	moi	3	m oi - - -
-085/103	NA	NA	- - - - - - - -
+085/103	NA	NA	-
 085/105	glau	1	g - l au - - -
 085/107	ma	3	m a - - -
 085/109	moanad	3	m oa n a d
@@ -4607,7 +4607,7 @@
 086/129	glaub	1	g - l au b - -
 086/131	glaub	1	g - l au b - -
 086/133	glaub	1	g - l au b - -
-086/135	NA	NA	- - - - - - - -
+086/135	NA	NA	-
 086/137	moa	3	m oa - - -
 086/139	glaub	1	g - l au b - -
 086/141	moa	3	m oa - - -
@@ -4767,7 +4767,7 @@
 089/103	moa	3	m oa - - -
 089/105	maö	3	m aö - - -
 089/107	glaub	1	g - l au b - -
-089/109	NA	NA	- - - - - - - -
+089/109	NA	NA	-
 089/111	moa	3	m oa - - -
 089/113	moan	3	m oa n - -
 089/115	moa	3	m oa - - -
@@ -4959,7 +4959,7 @@
 092/139	moa	3	m oa - - -
 092/141	glaub	1	g - l au b - -
 092/143	glaub	1	g - l au b - -
-092/145	NA	NA	- - - - - - - -
+092/145	NA	NA	-
 092/147	glaub	1	g - l au b - -
 092/149	glaub	1	g - l au b - -
 092/151	glaub	1	g - l au b - -
@@ -5184,7 +5184,7 @@
 096/111	moan	3	m oa n - -
 096/113	moa	3	m oa - - -
 096/115	moa	3	m oa - - -
-096/117	NA	NA	- - - - - - - -
+096/117	NA	NA	-
 096/119	moa	3	m oa - - -
 096/121	moa	3	m oa - - -
 096/123	moan	3	m oa n - -
@@ -5192,7 +5192,7 @@
 096/129	glab	1	g - l a b - -
 096/131	moan	3	m oa n - -
 096/135	moa	3	m oa - - -
-096/137	NA	NA	- - - - - - - -
+096/137	NA	NA	-
 096/139	glaub	1	g - l au b - -
 096/141	glaub	1	g - l au b - -
 096/143	glaub	1	g - l au b - -
@@ -5318,7 +5318,7 @@
 099/063	glaub	1	g - l au b - -
 099/065	gloub	1	g - l ou b - -
 099/067	gloub	1	g - l ou b - -
-099/069	NA	NA	- - - - - - - -
+099/069	NA	NA	-
 099/071	glaub	1	g - l au b - -
 099/073	moi	3	m oi - - -
 099/075	gloob	1	g - l oo b - -
@@ -5337,7 +5337,7 @@
 099/109	moa	3	m oa - - -
 099/111	moa	3	m oa - - -
 099/113	moa	3	m oa - - -
-099/121	NA	NA	- - - - - - - -
+099/121	NA	NA	-
 099/123	glab	1	g - l a b - -
 099/125	glab	1	g - l a b - -
 099/131	moan	3	m oa n - -
@@ -5418,14 +5418,14 @@
 101/095	glab	1	g - l a b - -
 101/097	glab	1	g - l a b - -
 101/099	glab	1	g - l a b - -
-101/101	NA	NA	- - - - - - - -
+101/101	NA	NA	-
 101/103	moa	3	m oa - - -
 101/107	glab	1	g - l a b - -
 101/109	moa	3	m oa - - -
 101/113	moa	3	m oa - - -
 101/115	glab	1	g - l a b - -
 101/121	moa	3	m oa - - -
-101/125	NA	NA	- - - - - - - -
+101/125	NA	NA	-
 101/129	glab	1	g - l a b - -
 101/131	moan	3	m oa n - -
 101/133	moan	3	m oa n - -
@@ -5462,7 +5462,7 @@
 102/089	glab	1	g - l a b - -
 102/091	glab	1	g - l a b - -
 102/093	glab	1	g - l a b - -
-102/095	NA	NA	- - - - - - - -
+102/095	NA	NA	-
 102/097	glab	1	g - l a b - -
 102/099	moa	3	m oa - - -
 102/103	moa	3	m oa - - -
@@ -5511,10 +5511,10 @@
 103/105	moa	3	m oa - - -
 103/107	mon	3	m o n - -
 103/111	moa	3	m oa - - -
-103/121	NA	NA	- - - - - - - -
+103/121	NA	NA	-
 103/125	glab	1	g - l a b - -
 103/127	moa	3	m oa - - -
-103/131	NA	NA	- - - - - - - -
+103/131	NA	NA	-
 103/133	glab	1	g - l a b - -
 103/135	glab	1	g - l a b - -
 103/137	glaub	1	g - l au b - -
@@ -5561,7 +5561,7 @@
 104/127	glab	1	g - l a b - -
 104/131	glab	1	g - l a b - -
 104/133	glab	1	g - l a b - -
-104/135	NA	NA	- - - - - - - -
+104/135	NA	NA	-
 104/137	muan	3	m ua n - -
 104/139	deink	2	- d ei n k - -
 104/141	mua	3	m ua - - -
@@ -5607,7 +5607,7 @@
 105/125	glab	1	g - l a b - -
 105/127	moa	3	m oa - - -
 105/131	glab	1	g - l a b - -
-105/133	NA	NA	- - - - - - - -
+105/133	NA	NA	-
 105/135	glab	1	g - l a b - -
 105/137	moa	3	m oa - - -
 105/141	denk	2	- d e n k - -
@@ -5703,7 +5703,7 @@
 108/043	globe	1	g - l o b e -
 108/047	glaibä	1	g - l ai b ä -
 108/049	glaibä	1	g - l ai b ä -
-108/063	NA	NA	- - - - - - - -
+108/063	NA	NA	-
 108/065	glaubn	1	g - l au b - n
 108/067	glauben	1	g - l au b e n
 108/075	glob	1	g - l o b - -
@@ -5719,7 +5719,7 @@
 108/109	glab	1	g - l a b - -
 108/111	glab	1	g - l a b - -
 108/113	glab	1	g - l a b - -
-108/117	NA	NA	- - - - - - - -
+108/117	NA	NA	-
 108/119	glab	1	g - l a b - -
 108/121	glab	1	g - l a b - -
 108/123	glab	1	g - l a b - -
@@ -5756,7 +5756,7 @@
 109/101	moan	3	m oa n - -
 109/103	glab	1	g - l a b - -
 109/107	man	3	m a n - -
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	man	3	m a n - -
 109/113	man	3	m a n - -
 109/115	glab	1	g - l a b - -
@@ -5780,7 +5780,7 @@
 110/047	glöiben	1	g - l öi b e n
 110/049	gloiben	1	g - l oi b e n
 110/057	meina	3	m ei n a -
-110/061	NA	NA	- - - - - - - -
+110/061	NA	NA	-
 110/065	glauba	1	g - l au b a -
 110/075	moan	3	m oa n - -
 110/079	muan	3	m ua n - -
@@ -5795,14 +5795,14 @@
 110/099	moan	3	m oa n - -
 110/101	glab	1	g - l a b - -
 110/105	glab	1	g - l a b - -
-110/107	NA	NA	- - - - - - - -
+110/107	NA	NA	-
 110/111	moan	3	m oa n - -
 110/113	glab	1	g - l a b - -
 110/115	moan	3	m oa n - -
 110/117	glab	1	g - l a b - -
 110/119	glaw	1	g - l a w - -
 110/121	man	3	m a n - -
-110/125	NA	NA	- - - - - - - -
+110/125	NA	NA	-
 110/127	glab	1	g - l a b - -
 110/129	glab	1	g - l a b - -
 110/131	glab	1	g - l a b - -
@@ -5823,7 +5823,7 @@
 111/079	moan	3	m oa n - -
 111/081	muan	3	m ua n - -
 111/083	muan	3	m ua n - -
-111/087	NA	NA	- - - - - - - -
+111/087	NA	NA	-
 111/089	glab	1	g - l a b - -
 111/105	glab	1	g - l a b - -
 111/107	glab	1	g - l a b - -
@@ -5844,10 +5844,10 @@
 112/059	glaub	1	g - l au b - -
 112/061	glauba	1	g - l au b a -
 112/063	glauba	1	g - l au b a -
-112/075	NA	NA	- - - - - - - -
+112/075	NA	NA	-
 112/081	muen	3	m ue n - -
 112/083	moan	3	m oa n - -
-112/085	NA	NA	- - - - - - - -
+112/085	NA	NA	-
 112/111	glab	1	g - l a b - -
 112/115	glab	1	g - l a b - -
 112/117	glab	1	g - l a b - -
@@ -5864,7 +5864,7 @@
 113/121	glab	1	g - l a b - -
 113/123	glab	1	g - l a b - -
 114/035	glaube	1	g - l au b e -
-114/045	NA	NA	- - - - - - - -
+114/045	NA	NA	-
 114/083	moan	3	m oa n - -
 114/085	man	3	m a n - -
 115/041	gloube	1	g - l ou b e -

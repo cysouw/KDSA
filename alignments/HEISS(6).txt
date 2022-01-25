@@ -383,7 +383,7 @@
 019/167	het	1	h e t -
 019/169	het	1	h e t -
 019/171	het	1	h e t -
-019/173	NA	NA	- - - - - - - -
+019/173	NA	NA	-
 019/175	het	1	h e t -
 019/177	het	1	h e t -
 019/179	heet	1	h ee t -
@@ -621,7 +621,7 @@
 023/069	hitt	1	h i tt -
 023/071	heet	1	h ee t -
 023/073	hid	1	h i d -
-023/075	NA	NA	- - - - - - - -
+023/075	NA	NA	-
 023/077	dull	9	d u ll -
 023/079	heet	1	h ee t -
 023/081	heit	1	h ei t -
@@ -1995,7 +1995,7 @@
 043/125	hess	1	h e ss -
 043/127	heess	1	h ee ss -
 043/129	hess	1	h e ss -
-043/131	NA	NA	- - - - - - - -
+043/131	NA	NA	-
 043/133	heess	1	h ee ss -
 043/135	hess	1	h e ss -
 043/137	heess	1	h ee ss -
@@ -2733,7 +2733,7 @@
 055/073	häiss	1	h äi ss -
 055/075	heiss	1	h ei ss -
 055/077	heiss	1	h ei ss -
-055/079	NA	NA	- - - - - - - -
+055/079	NA	NA	-
 055/081	heiss	1	h ei ss -
 055/083	heiss	1	h ei ss -
 055/085	hess	1	h e ss -
@@ -3246,7 +3246,7 @@
 062/105	häss	1	h ä ss -
 062/107	häss	1	h ä ss -
 062/109	heess	1	h ee ss -
-062/111	NA	NA	- - - - - - - -
+062/111	NA	NA	-
 062/113	stork	6	- s t o r - k -
 062/115	stärk	6	- s t ä r - k -
 062/117	stark	6	- s t a r - k -
@@ -3321,7 +3321,7 @@
 063/113	stork	6	- s t o r - k -
 063/115	stork	6	- s t o r - k -
 063/117	stork	6	- s t o r - k -
-063/119	NA	NA	- - - - - - - -
+063/119	NA	NA	-
 063/121	gruss	3	g r u ss
 063/123	gruss	3	g r u ss
 063/125	gruss	3	g r u ss
@@ -3390,9 +3390,9 @@
 064/113	stork	6	- s t o r - k -
 064/115	gruss	3	g r u ss
 064/117	stork	6	- s t o r - k -
-064/119	NA	NA	- - - - - - - -
+064/119	NA	NA	-
 064/121	stork	6	- s t o r - k -
-064/123	NA	NA	- - - - - - - -
+064/123	NA	NA	-
 064/125	stork	6	- s t o r - k -
 064/127	stork	6	- s t o r - k -
 064/135	stark	6	- s t a r - k -
@@ -3453,7 +3453,7 @@
 065/107	stork	6	- s t o r - k -
 065/109	schtorg	6	- sch t o r - g -
 065/111	stork	6	- s t o r - k -
-065/113	NA	NA	- - - - - - - -
+065/113	NA	NA	-
 065/115	stork	6	- s t o r - k -
 065/121	stork	6	- s t o r - k -
 065/123	stork	6	- s t o r - k -
@@ -3632,7 +3632,7 @@
 068/103	stark	6	- s t a r - k -
 068/105	grous	3	g r ou s
 068/107	stark	6	- s t a r - k -
-068/109	NA	NA	- - - - - - - -
+068/109	NA	NA	-
 068/111	stork	6	- s t o r - k -
 068/145	stark	6	- s t a r - k -
 068/147	gruss	3	g r u ss
@@ -3687,7 +3687,7 @@
 069/101	stork	6	- s t o r - k -
 069/103	stark	6	- s t a r - k -
 069/105	stark	6	- s t a r - k -
-069/107	NA	NA	- - - - - - - -
+069/107	NA	NA	-
 069/109	stoark	6	- s t oa r - k -
 069/111	schtorg	6	- sch t o r - g -
 069/147	schtoork	6	- sch t oo r - k -
@@ -3800,11 +3800,11 @@
 071/101	schtork	6	- sch t o r - k -
 071/103	schorfs	6	- sch - o r - f s
 071/105	schtorg	6	- sch t o r - g -
-071/145	NA	NA	- - - - - - - -
+071/145	NA	NA	-
 071/147	schtork	6	- sch t o r - k -
 071/149	stork	6	- s t o r - k -
 071/151	stork	6	- s t o r - k -
-071/153	NA	NA	- - - - - - - -
+071/153	NA	NA	-
 071/155	stork	6	- s t o r - k -
 071/157	stork	6	- s t o r - k -
 071/159	stork	6	- s t o r - k -
@@ -3864,7 +3864,7 @@
 072/151	stark	6	- s t a r - k -
 072/153	hetzich	1	h e tz ich
 072/155	stork	6	- s t o r - k -
-072/157	NA	NA	- - - - - - - -
+072/157	NA	NA	-
 072/159	stoark	6	- s t oa r - k -
 072/161	stork	6	- s t o r - k -
 072/177	stuok	6	- s t uo - - k -
@@ -3923,7 +3923,7 @@
 073/153	sthtork	6	- s tht o r - k -
 073/155	stork	6	- s t o r - k -
 073/157	gach	5	g - - a - - ch -
-073/159	NA	NA	- - - - - - - -
+073/159	NA	NA	-
 073/161	stork	6	- s t o r - k -
 073/163	stoik	6	- s t oi - - k -
 073/165	stärk	6	- s t ä r - k -
@@ -3970,16 +3970,16 @@
 074/095	schtark	6	- sch t a r - k -
 074/097	schtark	6	- sch t a r - k -
 074/099	schtoark	6	- sch t oa r - k -
-074/101	NA	NA	- - - - - - - -
+074/101	NA	NA	-
 074/103	stork	6	- s t o r - k -
 074/105	schtork	6	- sch t o r - k -
 074/107	stoark	6	- s t oa r - k -
 074/109	stork	6	- s t o r - k -
 074/145	stoork	6	- s t oo r - k -
-074/147	NA	NA	- - - - - - - -
+074/147	NA	NA	-
 074/149	stark	6	- s t a r - k -
 074/153	stork	6	- s t o r - k -
-074/155	NA	NA	- - - - - - - -
+074/155	NA	NA	-
 074/157	gach	5	g - - a - - ch -
 074/159	stoek	6	- s t oe - - k -
 074/161	schorf	6	- sch - o r - f -
@@ -4033,7 +4033,7 @@
 075/135	schtork	6	- sch t o r - k -
 075/145	stoark	6	- s t oa r - k -
 075/147	stork	6	- s t o r - k -
-075/149	NA	NA	- - - - - - - -
+075/149	NA	NA	-
 075/155	stork	6	- s t o r - k -
 075/157	stork	6	- s t o r - k -
 075/159	stoäk	6	- s t oä - - k -
@@ -4173,7 +4173,7 @@
 078/095	scharg	6	- sch - a r - g -
 078/097	schdoark	6	- sch d oa r - k -
 078/099	schtoark	6	- sch t oa r - k -
-078/101	NA	NA	- - - - - - - -
+078/101	NA	NA	-
 078/103	stoak	6	- s t oa - - k -
 078/105	schoaf	6	- sch - oa - - f -
 078/135	stark	6	- s t a r - k -
@@ -4268,11 +4268,11 @@
 080/103	schtoak	6	- sch t oa - - k -
 080/105	schtoach	6	- sch t oa - - ch -
 080/107	stork	6	- s t o r - k -
-080/109	NA	NA	- - - - - - - -
+080/109	NA	NA	-
 080/127	stoak	6	- s t oa - - k -
 080/147	stoak	6	- s t oa - - k -
 080/151	stork	6	- s t o r - k -
-080/153	NA	NA	- - - - - - - -
+080/153	NA	NA	-
 080/193	stork	6	- s t o r - k -
 080/195	stork	6	- s t o r - k -
 081/025	schtark	6	- sch t a r - k -
@@ -4317,8 +4317,8 @@
 081/105	stoaark	6	- s t oaa r - k -
 081/107	stook	6	- s t oo - - k -
 081/109	grouss	3	g r ou ss
-081/111	NA	NA	- - - - - - - -
-081/127	NA	NA	- - - - - - - -
+081/111	NA	NA	-
+081/127	NA	NA	-
 081/129	groiss	3	g r oi ss
 081/133	stork	6	- s t o r - k -
 081/147	gaach	5	g - - aa - - ch -
@@ -4370,7 +4370,7 @@
 082/113	stoak	6	- s t oa - - k -
 082/117	gaach	5	g - - aa - - ch -
 082/129	hoas	1	h oa s -
-082/131	NA	NA	- - - - - - - -
+082/131	NA	NA	-
 082/133	gach	5	g - - a - - ch -
 082/135	schtork	6	- sch t o r - k -
 082/145	schtork	6	- sch t o r - k -
@@ -4481,7 +4481,7 @@
 084/117	schtork	6	- sch t o r - k -
 084/119	stork	6	- s t o r - k -
 084/129	stoark	6	- s t oa r - k -
-084/131	NA	NA	- - - - - - - -
+084/131	NA	NA	-
 084/133	stoak	6	- s t oa - - k -
 084/135	stork	6	- s t o r - k -
 084/137	schtork	6	- sch t o r - k -
@@ -4539,7 +4539,7 @@
 085/117	gah	5	g - - ah - - - -
 085/119	stoak	6	- s t oa - - k -
 085/121	stork	6	- s t o r - k -
-085/123	NA	NA	- - - - - - - -
+085/123	NA	NA	-
 085/125	stoak	6	- s t oa - - k -
 085/127	stoark	6	- s t oa r - k -
 085/129	stork	6	- s t o r - k -
@@ -4582,7 +4582,7 @@
 086/079	schtark	6	- sch t a r - k -
 086/081	schtark	6	- sch t a r - k -
 086/083	stark	6	- s t a r - k -
-086/085	NA	NA	- - - - - - - -
+086/085	NA	NA	-
 086/087	schdarg	6	- sch d a r - g -
 086/089	schdarg	6	- sch d a r - g -
 086/091	stark	6	- s t a r - k -
@@ -4829,10 +4829,10 @@
 090/111	stoark	6	- s t oa r - k -
 090/113	schtark	6	- sch t a r - k -
 090/115	stoark	6	- s t oa r - k -
-090/119	NA	NA	- - - - - - - -
+090/119	NA	NA	-
 090/121	schtoag	6	- sch t oa - - g -
 090/123	stoak	6	- s t oa - - k -
-090/125	NA	NA	- - - - - - - -
+090/125	NA	NA	-
 090/127	stark	6	- s t a r - k -
 090/129	gross	3	g r o ss
 090/131	stork	6	- s t o r - k -
@@ -4885,7 +4885,7 @@
 091/109	gach	5	g - - a - - ch -
 091/111	stook	6	- s t oo - - k -
 091/113	stark	6	- s t a r - k -
-091/115	NA	NA	- - - - - - - -
+091/115	NA	NA	-
 091/117	greoss	3	g r eo ss
 091/119	gach	5	g - - a - - ch -
 091/121	stark	6	- s t a r - k -
@@ -5008,7 +5008,7 @@
 093/121	stark	6	- s t a r - k -
 093/123	stark	6	- s t a r - k -
 093/125	stoak	6	- s t oa - - k -
-093/127	NA	NA	- - - - - - - -
+093/127	NA	NA	-
 093/129	stark	6	- s t a r - k -
 093/131	schaak	6	- sch - aa - - k -
 093/133	gach	5	g - - a - - ch -
@@ -5066,7 +5066,7 @@
 094/117	stark	6	- s t a r - k -
 094/119	stork	6	- s t o r - k -
 094/121	stoark	6	- s t oa r - k -
-094/123	NA	NA	- - - - - - - -
+094/123	NA	NA	-
 094/125	schtoak	6	- sch t oa - - k -
 094/127	stoak	6	- s t oa - - k -
 094/129	stoak	6	- s t oa - - k -
@@ -5180,11 +5180,11 @@
 096/103	stark	6	- s t a r - k -
 096/105	hoass	1	h oa ss -
 096/107	hoass	1	h oa ss -
-096/109	NA	NA	- - - - - - - -
+096/109	NA	NA	-
 096/111	schtorchg	6	- sch t o r - chg -
 096/113	schtoark	6	- sch t oa r - k -
-096/115	NA	NA	- - - - - - - -
-096/117	NA	NA	- - - - - - - -
+096/115	NA	NA	-
+096/117	NA	NA	-
 096/119	stoak	6	- s t oa - - k -
 096/121	schtoak	6	- sch t oa - - k -
 096/123	schtork	6	- sch t o r - k -
@@ -5241,7 +5241,7 @@
 097/107	stoak	6	- s t oa - - k -
 097/109	stoak	6	- s t oa - - k -
 097/113	irig	5	- - - i r i g -
-097/125	NA	NA	- - - - - - - -
+097/125	NA	NA	-
 097/131	stoak	6	- s t oa - - k -
 097/133	stork	6	- s t o r - k -
 097/139	schtoak	6	- sch t oa - - k -
@@ -5288,7 +5288,7 @@
 098/107	grouss	3	g r ou ss
 098/109	stark	6	- s t a r - k -
 098/111	hirig	5	h - - i r i g -
-098/119	NA	NA	- - - - - - - -
+098/119	NA	NA	-
 098/123	stark	6	- s t a r - k -
 098/125	stork	6	- s t o r - k -
 098/127	stoak	6	- s t oa - - k -
@@ -5334,7 +5334,7 @@
 099/103	grouss	3	g r ou ss
 099/105	stoa	6	- s t oa - - - -
 099/107	stork	6	- s t o r - k -
-099/109	NA	NA	- - - - - - - -
+099/109	NA	NA	-
 099/111	schtore	6	- sch t o r - - e
 099/113	starik	6	- s t a r i k -
 099/121	schtoach	6	- sch t oa - - ch -
@@ -5354,7 +5354,7 @@
 100/041	starkch	6	- s t a r - kch -
 100/043	schtark	6	- sch t a r - k -
 100/045	starch	6	- s t a r - ch -
-100/049	NA	NA	- - - - - - - -
+100/049	NA	NA	-
 100/051	starch	6	- s t a r - ch -
 100/053	schtarch	6	- sch t a r - ch -
 100/055	schtarch	6	- sch t a r - ch -
@@ -5385,8 +5385,8 @@
 100/121	stoak	6	- s t oa - - k -
 100/125	stoak	6	- s t oa - - k -
 100/127	stork	6	- s t o r - k -
-100/129	NA	NA	- - - - - - - -
-100/133	NA	NA	- - - - - - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	stork	6	- s t o r - k -
 100/141	stoak	6	- s t oa - - k -
 100/143	stoak	6	- s t oa - - k -
@@ -5414,7 +5414,7 @@
 101/079	stark	6	- s t a r - k -
 101/081	hoass	1	h oa ss -
 101/091	gruass	3	g r ua ss
-101/093	NA	NA	- - - - - - - -
+101/093	NA	NA	-
 101/095	schtorch	6	- sch t o r - ch -
 101/097	stoarch	6	- s t oa r - ch -
 101/099	schtarch	6	- sch t a r - ch -
@@ -5422,9 +5422,9 @@
 101/103	gach	5	g - - a - - ch -
 101/107	stark	6	- s t a r - k -
 101/109	gach	5	g - - a - - ch -
-101/113	NA	NA	- - - - - - - -
+101/113	NA	NA	-
 101/115	stark	6	- s t a r - k -
-101/121	NA	NA	- - - - - - - -
+101/121	NA	NA	-
 101/125	stoak	6	- s t oa - - k -
 101/129	stoark	6	- s t oa r - k -
 101/131	stark	6	- s t a r - k -
@@ -5489,7 +5489,7 @@
 103/053	starch	6	- s t a r - ch -
 103/055	schtarch	6	- sch t a r - ch -
 103/057	gross	3	g r o ss
-103/059	NA	NA	- - - - - - - -
+103/059	NA	NA	-
 103/063	schtark	6	- sch t a r - k -
 103/065	gross	3	g r o ss
 103/067	gross	3	g r o ss
@@ -5510,8 +5510,8 @@
 103/101	schdoargg	6	- sch d oa r - gg -
 103/105	hoas	1	h oa s -
 103/107	schtorch	6	- sch t o r - ch -
-103/111	NA	NA	- - - - - - - -
-103/121	NA	NA	- - - - - - - -
+103/111	NA	NA	-
+103/121	NA	NA	-
 103/125	stork	6	- s t o r - k -
 103/127	stoolch	6	- s t oo l - ch -
 103/131	schdoak	6	- sch d oa - - k -
@@ -5555,18 +5555,18 @@
 104/111	hoas	1	h oa s -
 104/113	hoass	1	h oa ss -
 104/119	storch	6	- s t o r - ch -
-104/121	NA	NA	- - - - - - - -
-104/123	NA	NA	- - - - - - - -
+104/121	NA	NA	-
+104/123	NA	NA	-
 104/125	gach	5	g - - a - - ch -
 104/127	stork	6	- s t o r - k -
 104/131	schark	6	- sch - a r - k -
 104/133	stoak	6	- s t oa - - k -
-104/135	NA	NA	- - - - - - - -
+104/135	NA	NA	-
 104/137	stoark	6	- s t oa r - k -
 104/139	stoark	6	- s t oa r - k -
 104/141	stock	6	- s t o - - ck -
 104/143	staak	6	- s t aa - - k -
-104/145	NA	NA	- - - - - - - -
+104/145	NA	NA	-
 105/031	schtarch	6	- sch t a r - ch -
 105/033	schtarch	6	- sch t a r - ch -
 105/035	schtarch	6	- sch t a r - ch -
@@ -5592,17 +5592,17 @@
 105/075	schtorch	6	- sch t o r - ch -
 105/077	stork	6	- s t o r - k -
 105/079	hoass	1	h oa ss -
-105/081	NA	NA	- - - - - - - -
+105/081	NA	NA	-
 105/085	hoass	1	h oa ss -
 105/087	storch	6	- s t o r - ch -
-105/089	NA	NA	- - - - - - - -
+105/089	NA	NA	-
 105/103	stoarch	6	- s t oa r - ch -
 105/105	stoak	6	- s t oa - - k -
 105/111	groass	3	g r oa ss
 105/113	zark	6	- z - a r - k -
 105/115	hoass	1	h oa ss -
 105/117	schtarch	6	- sch t a r - ch -
-105/119	NA	NA	- - - - - - - -
+105/119	NA	NA	-
 105/121	stoak	6	- s t oa - - k -
 105/125	staorch	6	- s t ao r - ch -
 105/127	storch	6	- s t o r - ch -
@@ -5636,9 +5636,9 @@
 106/081	stoarch	6	- s t oa r - ch -
 106/085	stark	6	- s t a r - k -
 106/087	schtarch	6	- sch t a r - ch -
-106/093	NA	NA	- - - - - - - -
+106/093	NA	NA	-
 106/097	stork	6	- s t o r - k -
-106/099	NA	NA	- - - - - - - -
+106/099	NA	NA	-
 106/103	stoark	6	- s t oa r - k -
 106/111	stoark	6	- s t oa r - k -
 106/115	schtorch	6	- sch t o r - ch -
@@ -5649,7 +5649,7 @@
 106/131	stark	6	- s t a r - k -
 106/133	hoass	1	h oa ss -
 106/135	gross	3	g r o ss
-106/137	NA	NA	- - - - - - - -
+106/137	NA	NA	-
 106/139	schtork	6	- sch t o r - k -
 106/141	schtork	6	- sch t o r - k -
 106/143	schtoak	6	- sch t oa - - k -
@@ -5660,8 +5660,8 @@
 107/039	starch	6	- s t a r - ch -
 107/041	heiss	1	h ei ss -
 107/043	starch	6	- s t a r - ch -
-107/045	NA	NA	- - - - - - - -
-107/047	NA	NA	- - - - - - - -
+107/045	NA	NA	-
+107/047	NA	NA	-
 107/049	gross	3	g r o ss
 107/051	schtark	6	- sch t a r - k -
 107/053	starch	6	- s t a r - ch -
@@ -5674,18 +5674,18 @@
 107/081	hauss	1	h au ss -
 107/085	schtorch	6	- sch t o r - ch -
 107/087	groass	3	g r oa ss
-107/089	NA	NA	- - - - - - - -
+107/089	NA	NA	-
 107/091	gruess	3	g r ue ss
-107/097	NA	NA	- - - - - - - -
+107/097	NA	NA	-
 107/099	stork	6	- s t o r - k -
 107/103	schtork	6	- sch t o r - k -
 107/105	schtork	6	- sch t o r - k -
 107/107	stork	6	- s t o r - k -
 107/111	gach	5	g - - a - - ch -
 107/119	storch	6	- s t o r - ch -
-107/121	NA	NA	- - - - - - - -
+107/121	NA	NA	-
 107/123	stork	6	- s t o r - k -
-107/125	NA	NA	- - - - - - - -
+107/125	NA	NA	-
 107/127	stork	6	- s t o r - k -
 107/129	hooss	1	h oo ss -
 107/131	starch	6	- s t a r - ch -
@@ -5712,7 +5712,7 @@
 108/085	hoas	1	h oa s -
 108/087	schtark	6	- sch t a r - k -
 108/091	stork	6	- s t o r - k -
-108/099	NA	NA	- - - - - - - -
+108/099	NA	NA	-
 108/101	stork	6	- s t o r - k -
 108/103	stork	6	- s t o r - k -
 108/105	hoass	1	h oa ss -
@@ -5766,9 +5766,9 @@
 109/123	gach	5	g - - a - - ch -
 109/125	stork	6	- s t o r - k -
 109/127	stork	6	- s t o r - k -
-109/129	NA	NA	- - - - - - - -
+109/129	NA	NA	-
 109/131	stoach	6	- s t oa - - ch -
-109/133	NA	NA	- - - - - - - -
+109/133	NA	NA	-
 109/135	schtoak	6	- sch t oa - - k -
 109/137	gach	5	g - - a - - ch -
 109/139	stoak	6	- s t oa - - k -
@@ -5776,31 +5776,31 @@
 110/039	starch	6	- s t a r - ch -
 110/041	starch	6	- s t a r - ch -
 110/043	schtarch	6	- sch t a r - ch -
-110/045	NA	NA	- - - - - - - -
+110/045	NA	NA	-
 110/047	starch	6	- s t a r - ch -
 110/049	schtarch	6	- sch t a r - ch -
 110/057	starch	6	- s t a r - ch -
 110/061	schtarch	6	- sch t a r - ch -
 110/065	schtarch	6	- sch t a r - ch -
-110/075	NA	NA	- - - - - - - -
+110/075	NA	NA	-
 110/079	warm	4	w a r - m -
 110/081	stork	6	- s t o r - k -
 110/083	storck	6	- s t o r - ck -
 110/087	schtork	6	- sch t o r - k -
 110/089	groas	3	g r oa s
 110/091	hoas	1	h oa s -
-110/093	NA	NA	- - - - - - - -
+110/093	NA	NA	-
 110/095	stork	6	- s t o r - k -
 110/097	schtork	6	- sch t o r - k -
 110/099	stork	6	- s t o r - k -
 110/101	stark	6	- s t a r - k -
 110/105	schtork	6	- sch t o r - k -
-110/107	NA	NA	- - - - - - - -
+110/107	NA	NA	-
 110/111	schtork	6	- sch t o r - k -
 110/113	stork	6	- s t o r - k -
 110/115	stork	6	- s t o r - k -
 110/117	stork	6	- s t o r - k -
-110/119	NA	NA	- - - - - - - -
+110/119	NA	NA	-
 110/121	gach	5	g - - a - - ch -
 110/125	schtork	6	- sch t o r - k -
 110/127	stork	6	- s t o r - k -
@@ -5821,7 +5821,7 @@
 111/075	reasch	8	r ea sch -
 111/077	groass	3	g r oa ss
 111/079	reasch	8	r ea sch -
-111/081	NA	NA	- - - - - - - -
+111/081	NA	NA	-
 111/083	stork	6	- s t o r - k -
 111/087	hoass	1	h oa ss -
 111/089	stork	6	- s t o r - k -
@@ -5844,10 +5844,10 @@
 112/059	schtarch	6	- sch t a r - ch -
 112/061	schtark	6	- sch t a r - k -
 112/063	stark	6	- s t a r - k -
-112/075	NA	NA	- - - - - - - -
+112/075	NA	NA	-
 112/081	schtork	6	- sch t o r - k -
-112/083	NA	NA	- - - - - - - -
-112/085	NA	NA	- - - - - - - -
+112/083	NA	NA	-
+112/085	NA	NA	-
 112/111	schtork	6	- sch t o r - k -
 112/115	stork	6	- s t o r - k -
 112/117	stork	6	- s t o r - k -
@@ -5874,7 +5874,7 @@
 115/085	groass	3	g r oa ss
 116/043	schtarch	6	- sch t a r - ch -
 116/045	schtarch	6	- sch t a r - ch -
-116/083	NA	NA	- - - - - - - -
+116/083	NA	NA	-
 117/043	schtarch	6	- sch t a r - ch -
 117/045	starch	6	- s t a r - ch -
 118/041	starch	6	- s t a r - ch -

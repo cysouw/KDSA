@@ -1230,7 +1230,7 @@ locations	strings	cognateID	alignments
 031/143	upp	1	- u pp -
 031/145	up	1	- u p -
 031/147	upp	1	- u pp -
-031/149	NA	NA	- - - -
+031/149	NA	NA	-
 031/151	upp	1	- u pp -
 031/153	up	1	- u p -
 031/155	up	1	- u p -
@@ -3969,7 +3969,7 @@ locations	strings	cognateID	alignments
 074/093	af	1	- a f -
 074/095	af	1	- a f -
 074/097	am	2	- a m -
-074/099	NA	NA	- - - -
+074/099	NA	NA	-
 074/101	af	1	- a f -
 074/103	af	1	- a f -
 074/105	af	1	- a f -
@@ -4931,7 +4931,7 @@ locations	strings	cognateID	alignments
 092/083	au	1	- au - -
 092/085	auf	1	- au f -
 092/087	auf	1	- au f -
-092/089	NA	NA	- - - -
+092/089	NA	NA	-
 092/091	a	1	- a - -
 092/093	a	1	- a - -
 092/095	a	1	- a - -
@@ -4946,7 +4946,7 @@ locations	strings	cognateID	alignments
 092/113	af	1	- a f -
 092/115	af	1	- a f -
 092/117	af	1	- a f -
-092/119	NA	NA	- - - -
+092/119	NA	NA	-
 092/121	af	1	- a f -
 092/123	af	1	- a f -
 092/125	auf	1	- au f -
@@ -5129,7 +5129,7 @@ locations	strings	cognateID	alignments
 095/119	auf	1	- au f -
 095/121	auf	1	- au f -
 095/123	af	1	- a f -
-095/125	NA	NA	- - - -
+095/125	NA	NA	-
 095/129	auf	1	- au f -
 095/131	auf	1	- au f -
 095/133	auf	1	- au f -
@@ -5240,7 +5240,7 @@ locations	strings	cognateID	alignments
 097/105	auf	1	- au f -
 097/107	auf	1	- au f -
 097/109	auf	1	- au f -
-097/113	NA	NA	- - - -
+097/113	NA	NA	-
 097/125	uf	1	- u f -
 097/131	auf	1	- au f -
 097/133	auf	1	- au f -
@@ -5374,7 +5374,7 @@ locations	strings	cognateID	alignments
 100/093	auf	1	- au f -
 100/095	auf	1	- au f -
 100/097	auf	1	- au f -
-100/099	NA	NA	- - - -
+100/099	NA	NA	-
 100/101	auf	1	- au f -
 100/109	af	1	- a f -
 100/111	auf	1	- au f -
@@ -5804,7 +5804,7 @@ locations	strings	cognateID	alignments
 110/121	af	1	- a f -
 110/125	af	1	- a f -
 110/127	auf	1	- au f -
-110/129	NA	NA	- - - -
+110/129	NA	NA	-
 110/131	af	1	- a f -
 110/133	af	1	- a f -
 110/135	af	1	- a f -

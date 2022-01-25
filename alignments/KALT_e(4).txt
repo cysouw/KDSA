@@ -74,7 +74,7 @@
 012/065	kold	1	k o l d - -
 012/067	kold	1	k o l d - -
 012/069	kol	1	k o l - - -
-012/187	NA	NA	- - - - - -
+012/187	NA	NA	-
 012/189	kohl	1	k oh l - - -
 012/191	kohle	1	k oh l - e -
 012/193	kohle	1	k oh l - e -
@@ -108,7 +108,7 @@
 013/167	kolle	1	k o ll - e -
 013/187	koal	1	k oa l - - -
 013/189	kole	1	k o l - e -
-013/191	NA	NA	- - - - - -
+013/191	NA	NA	-
 013/193	kohle	1	k oh l - e -
 013/195	koole	1	k oo l - e -
 013/197	kohle	1	k oh l - e -
@@ -125,7 +125,7 @@
 013/221	kole	1	k o l - e -
 013/223	kohle	1	k oh l - e -
 014/047	kul	1	k u l - - -
-014/049	NA	NA	- - - - - -
+014/049	NA	NA	-
 014/051	kull	1	k u ll - - -
 014/053	kaal	1	k aa l - - -
 014/055	köul	1	k öu l - - -
@@ -311,13 +311,13 @@
 018/105	kolle	1	k o ll - e -
 018/107	kollä	1	k o ll - ä -
 018/109	kolle	1	k o ll - e -
-018/111	NA	NA	- - - - - -
+018/111	NA	NA	-
 018/143	kohl	1	k oh l - - -
 018/145	kol	1	k o l - - -
 018/147	kolt	1	k o l t - -
 018/149	kull	1	k u ll - - -
 018/151	kull	1	k u ll - - -
-018/153	NA	NA	- - - - - -
+018/153	NA	NA	-
 018/155	kull	1	k u ll - - -
 018/157	kuoll	1	k uo ll - - -
 018/159	koll	1	k o ll - - -
@@ -465,7 +465,7 @@
 020/199	kole	1	k o l - e -
 020/201	koole	1	k oo l - e -
 020/203	kole	1	k o l - e -
-020/205	NA	NA	- - - - - -
+020/205	NA	NA	-
 020/207	kole	1	k o l - e -
 020/209	kohle	1	k oh l - e -
 020/211	kohle	1	k oh l - e -
@@ -596,7 +596,7 @@
 022/179	kolde	1	k o l d e -
 022/181	kolde	1	k o l d e -
 022/183	kahle	1	k ah l - e -
-022/185	NA	NA	- - - - - -
+022/185	NA	NA	-
 022/187	kale	1	k a l - e -
 022/189	kalte	1	k a l t e -
 022/191	kaal	1	k aa l - - -
@@ -656,7 +656,7 @@
 023/141	kull	1	k u ll - - -
 023/143	kull	1	k u ll - - -
 023/145	kull	1	k u ll - - -
-023/147	NA	NA	- - - - - -
+023/147	NA	NA	-
 023/149	kull	1	k u ll - - -
 023/151	kull	1	k u ll - - -
 023/153	kull	1	k u ll - - -
@@ -672,7 +672,7 @@
 023/185	kaale	1	k aa l - e -
 023/187	kalte	1	k a l t e -
 023/189	kalte	1	k a l t e -
-023/191	NA	NA	- - - - - -
+023/191	NA	NA	-
 023/193	kaale	1	k aa l - e -
 023/195	kahl	1	k ah l - - -
 023/197	kale	1	k a l - e -
@@ -733,7 +733,7 @@
 024/149	kull	1	k u ll - - -
 024/151	koul	1	k ou l - - -
 024/153	kol	1	k o l - - -
-024/155	NA	NA	- - - - - -
+024/155	NA	NA	-
 024/163	kullt	1	k u ll t - -
 024/165	kull	1	k u ll - - -
 024/167	kull	1	k u ll - - -
@@ -999,7 +999,7 @@
 028/119	kullt	1	k u ll t - -
 028/121	kull	1	k u ll - - -
 028/123	kull	1	k u ll - - -
-028/125	NA	NA	- - - - - -
+028/125	NA	NA	-
 028/127	kull	1	k u ll - - -
 028/129	kull	1	k u ll - - -
 028/131	kull	1	k u ll - - -
@@ -1211,7 +1211,7 @@
 031/105	koll	1	k o ll - - -
 031/107	koll	1	k o ll - - -
 031/109	kolle	1	k o ll - e -
-031/111	NA	NA	- - - - - -
+031/111	NA	NA	-
 031/113	kolle	1	k o ll - e -
 031/115	koll	1	k o ll - - -
 031/117	koll	1	k o ll - - -
@@ -1282,7 +1282,7 @@
 032/107	kolle	1	k o ll - e -
 032/111	koll	1	k o ll - - -
 032/113	koall	1	k oa ll - - -
-032/115	NA	NA	- - - - - -
+032/115	NA	NA	-
 032/117	koll	1	k o ll - - -
 032/119	koll	1	k o ll - - -
 032/121	koll	1	k o ll - - -
@@ -1380,7 +1380,7 @@
 033/163	kull	1	k u ll - - -
 033/165	koll	1	k o ll - - -
 033/167	kol	1	k o l - - -
-033/169	NA	NA	- - - - - -
+033/169	NA	NA	-
 033/173	koll	1	k o ll - - -
 033/175	koalte	1	k oa l t e -
 033/177	kol	1	k o l - - -
@@ -1399,7 +1399,7 @@
 034/061	kohle	1	k oh l - e -
 034/063	kole	1	k o l - e -
 034/065	kole	1	k o l - e -
-034/067	NA	NA	- - - - - -
+034/067	NA	NA	-
 034/069	kole	1	k o l - e -
 034/071	kole	1	k o l - e -
 034/073	kohle	1	k oh l - e -
@@ -1440,7 +1440,7 @@
 034/145	kole	1	k o l - e -
 034/147	kuhl	1	k uh l - - -
 034/149	kol	1	k o l - - -
-034/151	NA	NA	- - - - - -
+034/151	NA	NA	-
 034/155	kol	1	k o l - - -
 034/157	kull	1	k u ll - - -
 034/161	koll	1	k o ll - - -
@@ -1494,7 +1494,7 @@
 035/121	kol	1	k o l - - -
 035/123	koll	1	k o ll - - -
 035/125	kolle	1	k o ll - e -
-035/127	NA	NA	- - - - - -
+035/127	NA	NA	-
 035/129	koll	1	k o ll - - -
 035/133	kull	1	k u ll - - -
 035/135	kull	1	k u ll - - -
@@ -1576,7 +1576,7 @@
 036/163	koll	1	k o ll - - -
 036/165	koll	1	k o ll - - -
 036/167	kol	1	k o l - - -
-036/169	NA	NA	- - - - - -
+036/169	NA	NA	-
 036/171	koll	1	k o ll - - -
 037/033	kolde	1	k o l d e -
 037/035	kolle	1	k o ll - e -
@@ -1640,7 +1640,7 @@
 037/155	kol	1	k o l - - -
 037/157	koll	1	k o ll - - -
 037/159	kol	1	k o l - - -
-037/163	NA	NA	- - - - - -
+037/163	NA	NA	-
 037/171	koale	1	k oa l - e -
 038/033	koalde	1	k oa l d e -
 038/035	kolde	1	k o l d e -
@@ -1838,7 +1838,7 @@
 041/057	kohle	1	k oh l - e -
 041/059	kohle	1	k oh l - e -
 041/061	kohle	1	k oh l - e -
-041/063	NA	NA	- - - - - -
+041/063	NA	NA	-
 041/065	kohle	1	k oh l - e -
 041/067	kohle	1	k oh l - e -
 041/069	kole	1	k o l - e -
@@ -1851,7 +1851,7 @@
 041/083	kolle	1	k o ll - e -
 041/085	kolle	1	k o ll - e -
 041/087	kolle	1	k o ll - e -
-041/089	NA	NA	- - - - - -
+041/089	NA	NA	-
 041/091	koll	1	k o ll - - -
 041/093	kolle	1	k o ll - e -
 041/095	kolle	1	k o ll - e -
@@ -1934,7 +1934,7 @@
 042/129	kaale	1	k aa l - e -
 042/131	kale	1	k a l - e -
 042/133	kaalde	1	k aa l d e -
-042/135	NA	NA	- - - - - -
+042/135	NA	NA	-
 042/137	kaude	1	k au - d e -
 042/139	kale	1	k a l - e -
 042/141	kalde	1	k a l d e -
@@ -2018,7 +2018,7 @@
 044/053	keule	1	k eu l - e -
 044/055	kääule	1	k ääu l - e -
 044/057	koole	1	k oo l - e -
-044/059	NA	NA	- - - - - -
+044/059	NA	NA	-
 044/061	keaule	1	k eau l - e -
 044/063	köole	1	k öo l - e -
 044/065	keole	1	k eo l - e -
@@ -2074,7 +2074,7 @@
 045/047	kaule	1	k au l - e -
 045/049	kiahle	1	k iah l - e -
 045/051	käole	1	k äo l - e -
-045/053	NA	NA	- - - - - -
+045/053	NA	NA	-
 045/055	käule	1	k äu l - e -
 045/057	kohle	1	k oh l - e -
 045/059	käule	1	k äu l - e -
@@ -2211,7 +2211,7 @@
 047/087	kolle	1	k o ll - e -
 047/089	kolde	1	k o l d e -
 047/091	kolte	1	k o l t e -
-047/093	NA	NA	- - - - - -
+047/093	NA	NA	-
 047/095	kolle	1	k o ll - e -
 047/097	kolle	1	k o ll - e -
 047/099	kolle	1	k o ll - e -
@@ -2318,7 +2318,7 @@
 049/047	kolle	1	k o ll - e -
 049/049	kolle	1	k o ll - e -
 049/051	kolle	1	k o ll - e -
-049/053	NA	NA	- - - - - -
+049/053	NA	NA	-
 049/055	kalle	1	k a ll - e -
 049/057	kalle	1	k a ll - e -
 049/059	koalle	1	k oa ll - e -
@@ -2430,9 +2430,9 @@
 050/147	kahle	1	k ah l - e -
 050/149	kalde	1	k a l d e -
 050/151	kalde	1	k a l d e -
-050/155	NA	NA	- - - - - -
+050/155	NA	NA	-
 050/157	kalde	1	k a l d e -
-050/159	NA	NA	- - - - - -
+050/159	NA	NA	-
 050/161	kalde	1	k a l d e -
 051/023	kaalt	1	k aa l t - -
 051/025	kahle	1	k ah l - e -
@@ -2501,7 +2501,7 @@
 051/151	kahlde	1	k ah l d e -
 051/153	kalde	1	k a l d e -
 051/155	kalde	1	k a l d e -
-051/157	NA	NA	- - - - - -
+051/157	NA	NA	-
 052/023	kalt	1	k a l t - -
 052/025	kalde	1	k a l d e -
 052/027	kahlde	1	k ah l d e -
@@ -2870,7 +2870,7 @@
 057/069	kahle	1	k ah l - e -
 057/071	kahle	1	k ah l - e -
 057/073	kahle	1	k ah l - e -
-057/075	NA	NA	- - - - - -
+057/075	NA	NA	-
 057/077	kahle	1	k ah l - e -
 057/079	kaale	1	k aa l - e -
 057/081	kale	1	k a l - e -
@@ -2900,7 +2900,7 @@
 057/129	kahle	1	k ah l - e -
 057/131	kahle	1	k ah l - e -
 057/133	kale	1	k a l - e -
-057/135	NA	NA	- - - - - -
+057/135	NA	NA	-
 057/137	kahl	1	k ah l - - -
 057/139	kahle	1	k ah l - e -
 057/141	kale	1	k a l - e -
@@ -2912,7 +2912,7 @@
 057/153	kale	1	k a l - e -
 057/155	kalde	1	k a l d e -
 057/157	kahlde	1	k ah l d e -
-057/159	NA	NA	- - - - - -
+057/159	NA	NA	-
 057/161	kalte	1	k a l t e -
 058/019	kaaut	1	k aau - t - -
 058/021	kaut	1	k au - t - -
@@ -3024,7 +3024,7 @@
 059/091	kalle	1	k a ll - e -
 059/093	kalle	1	k a ll - e -
 059/095	kalle	1	k a ll - e -
-059/097	NA	NA	- - - - - -
+059/097	NA	NA	-
 059/099	kalle	1	k a ll - e -
 059/101	kalle	1	k a ll - e -
 059/103	kalle	1	k a ll - e -
@@ -3103,7 +3103,7 @@
 060/103	kolle	1	k o ll - e -
 060/105	kalla	1	k a ll - a -
 060/107	kalle	1	k a ll - e -
-060/109	NA	NA	- - - - - -
+060/109	NA	NA	-
 060/111	kale	1	k a l - e -
 060/113	kale	1	k a l - e -
 060/115	kalte	1	k a l t e -
@@ -3245,7 +3245,7 @@
 062/103	kalle	1	k a ll - e -
 062/105	kalla	1	k a ll - a -
 062/107	kalle	1	k a ll - e -
-062/109	NA	NA	- - - - - -
+062/109	NA	NA	-
 062/111	kalle	1	k a ll - e -
 062/113	kalte	1	k a l t e -
 062/115	kalte	1	k a l t e -
@@ -3425,9 +3425,9 @@
 065/049	kahld	1	k ah l d - -
 065/051	kahlt	1	k ah l t - -
 065/053	kalt	1	k a l t - -
-065/055	NA	NA	- - - - - -
+065/055	NA	NA	-
 065/057	kale	1	k a l - e -
-065/059	NA	NA	- - - - - -
+065/059	NA	NA	-
 065/061	kahle	1	k ah l - e -
 065/063	kahl	1	k ah l - - -
 065/065	kall	1	k a ll - - -
@@ -3486,7 +3486,7 @@
 066/051	kahle	1	k ah l - e -
 066/053	kale	1	k a l - e -
 066/055	kahld	1	k ah l d - -
-066/057	NA	NA	- - - - - -
+066/057	NA	NA	-
 066/059	kahle	1	k ah l - e -
 066/061	kall	1	k a ll - - -
 066/063	kall	1	k a ll - - -
@@ -3569,7 +3569,7 @@
 067/097	kalt	1	k a l t - -
 067/099	kaaltaa	1	k aa l t aa -
 067/101	kolta	1	k o l t a -
-067/103	NA	NA	- - - - - -
+067/103	NA	NA	-
 067/105	kolta	1	k o l t a -
 067/107	kolte	1	k o l t e -
 067/109	kolta	1	k o l t a -
@@ -3586,7 +3586,7 @@
 067/159	kalde	1	k a l d e -
 067/161	kahlde	1	k ah l d e -
 067/163	kalde	1	k a l d e -
-067/165	NA	NA	- - - - - -
+067/165	NA	NA	-
 067/177	kale	1	k a l - e -
 068/021	kahl	1	k ah l - - -
 068/023	kahl	1	k ah l - - -
@@ -3606,12 +3606,12 @@
 068/051	kahle	1	k ah l - e -
 068/053	kahl	1	k ah l - - -
 068/055	kahlt	1	k ah l t - -
-068/057	NA	NA	- - - - - -
+068/057	NA	NA	-
 068/059	kahlt	1	k ah l t - -
 068/061	kahle	1	k ah l - e -
 068/063	kall	1	k a ll - - -
 068/065	kal	1	k a l - - -
-068/067	NA	NA	- - - - - -
+068/067	NA	NA	-
 068/069	kalt	1	k a l t - -
 068/071	kalt	1	k a l t - -
 068/073	kalla	1	k a ll - a -
@@ -3631,7 +3631,7 @@
 068/101	kolt	1	k o l t - -
 068/103	koalta	1	k oa l t a -
 068/105	kolde	1	k o l d e -
-068/107	NA	NA	- - - - - -
+068/107	NA	NA	-
 068/109	kolta	1	k o l t a -
 068/111	kolte	1	k o l t e -
 068/145	kale	1	k a l - e -
@@ -3663,8 +3663,8 @@
 069/053	kalte	1	k a l t e -
 069/055	kalte	1	k a l t e -
 069/057	kaal	1	k aa l - - -
-069/059	NA	NA	- - - - - -
-069/061	NA	NA	- - - - - -
+069/059	NA	NA	-
+069/061	NA	NA	-
 069/063	kal	1	k a l - - -
 069/065	kall	1	k a ll - - -
 069/067	kalla	1	k a ll - a -
@@ -3728,7 +3728,7 @@
 070/073	kalta	1	k a l t a -
 070/075	kolt	1	k o l t - -
 070/077	kalt	1	k a l t - -
-070/079	NA	NA	- - - - - -
+070/079	NA	NA	-
 070/081	kolt	1	k o l t - -
 070/083	kolt	1	k o l t - -
 070/085	kolt	1	k o l t - -
@@ -3743,7 +3743,7 @@
 070/103	kolta	1	k o l t a -
 070/105	kalt	1	k a l t - -
 070/107	kolta	1	k o l t a -
-070/109	NA	NA	- - - - - -
+070/109	NA	NA	-
 070/111	koitaa	1	k oi - t aa -
 070/145	kalda	1	k a l d a -
 070/147	kale	1	k a l - e -
@@ -3795,10 +3795,10 @@
 071/091	kalt	1	k a l t - -
 071/093	kalt	1	k a l t - -
 071/095	koalt	1	k oa l t - -
-071/097	NA	NA	- - - - - -
+071/097	NA	NA	-
 071/099	kolta	1	k o l t a -
 071/101	kolt	1	k o l t - -
-071/103	NA	NA	- - - - - -
+071/103	NA	NA	-
 071/105	koalta	1	k oa l t a -
 071/145	kolda	1	k o l d a -
 071/147	kolda	1	k o l d a -
@@ -3818,7 +3818,7 @@
 072/023	kaal	1	k aa l - - -
 072/025	kal	1	k a l - - -
 072/027	kaal	1	k aa l - - -
-072/029	NA	NA	- - - - - -
+072/029	NA	NA	-
 072/031	kaal	1	k aa l - - -
 072/033	kaal	1	k aa l - - -
 072/035	kalt	1	k a l t - -
@@ -3851,10 +3851,10 @@
 072/089	kolt	1	k o l t - -
 072/091	kalt	1	k a l t - -
 072/093	koalt	1	k oa l t - -
-072/095	NA	NA	- - - - - -
+072/095	NA	NA	-
 072/097	kalt	1	k a l t - -
 072/099	koolt	1	k oo l t - -
-072/101	NA	NA	- - - - - -
+072/101	NA	NA	-
 072/103	kolt	1	k o l t - -
 072/105	kolta	1	k o l t a -
 072/107	kolta	1	k o l t a -
@@ -3864,7 +3864,7 @@
 072/151	kolda	1	k o l d a -
 072/153	koelda	1	k oe l d a -
 072/155	kolda	1	k o l d a -
-072/157	NA	NA	- - - - - -
+072/157	NA	NA	-
 072/159	kajda	1	k aj - d a -
 072/161	kalda	1	k a l d a -
 072/177	kalde	1	k a l d e -
@@ -3873,7 +3873,7 @@
 073/017	kaalt	1	k aa l t - -
 073/019	kaalt	1	k aa l t - -
 073/021	kaalt	1	k aa l t - -
-073/023	NA	NA	- - - - - -
+073/023	NA	NA	-
 073/025	kahl	1	k ah l - - -
 073/027	kal	1	k a l - - -
 073/029	kahl	1	k ah l - - -
@@ -3966,7 +3966,7 @@
 074/087	kalt	1	k a l t - -
 074/089	kalt	1	k a l t - -
 074/091	kalt	1	k a l t - -
-074/093	NA	NA	- - - - - -
+074/093	NA	NA	-
 074/095	kalt	1	k a l t - -
 074/097	koalte	1	k oa l t e -
 074/099	koalt	1	k oa l t - -
@@ -3994,7 +3994,7 @@
 075/031	kalt	1	k a l t - -
 075/033	kalt	1	k a l t - -
 075/035	kald	1	k a l d - -
-075/037	NA	NA	- - - - - -
+075/037	NA	NA	-
 075/039	kalde	1	k a l d e -
 075/041	kalt	1	k a l t - -
 075/043	kalt	1	k a l t - -
@@ -4081,7 +4081,7 @@
 076/097	kalt	1	k a l t - -
 076/099	kalt	1	k a l t - -
 076/101	kolt	1	k o l t - -
-076/103	NA	NA	- - - - - -
+076/103	NA	NA	-
 076/135	kolte	1	k o l t e -
 076/137	kolt	1	k o l t - -
 076/149	kolda	1	k o l d a -
@@ -4124,7 +4124,7 @@
 077/083	kolti	1	k o l t i -
 077/085	kalt	1	k a l t - -
 077/087	kolt	1	k o l t - -
-077/089	NA	NA	- - - - - -
+077/089	NA	NA	-
 077/091	koalt	1	k oa l t - -
 077/093	kalt	1	k a l t - -
 077/095	kalt	1	k a l t - -
@@ -4134,7 +4134,7 @@
 077/103	kolte	1	k o l t e -
 077/135	kojte	1	k oj - t e -
 077/137	kolte	1	k o l t e -
-078/021	NA	NA	- - - - - -
+078/021	NA	NA	-
 078/023	kal	1	k a l - - -
 078/025	kahl	1	k ah l - - -
 078/027	kalt	1	k a l t - -
@@ -4178,7 +4178,7 @@
 078/105	kaalte	1	k aa l t e -
 078/135	kolte	1	k o l t e -
 078/193	kalta	1	k a l t a -
-079/021	NA	NA	- - - - - -
+079/021	NA	NA	-
 079/023	kahl	1	k ah l - - -
 079/025	kaal	1	k aa l - - -
 079/027	kalt	1	k a l t - -
@@ -4268,7 +4268,7 @@
 080/103	koötö	1	k oö - t ö -
 080/105	kolte	1	k o l t e -
 080/107	kolt	1	k o l t - -
-080/109	NA	NA	- - - - - -
+080/109	NA	NA	-
 080/127	kolti	1	k o l t i -
 080/147	kolte	1	k o l t e -
 080/151	kolt	1	k o l t - -
@@ -4340,7 +4340,7 @@
 082/051	kalt	1	k a l t - -
 082/053	kalt	1	k a l t - -
 082/055	kalt	1	k a l t - -
-082/057	NA	NA	- - - - - -
+082/057	NA	NA	-
 082/059	kalt	1	k a l t - -
 082/061	kalt	1	k a l t - -
 082/063	kalld	1	k a ll d - -
@@ -4454,7 +4454,7 @@
 084/063	kalt	1	k a l t - -
 084/065	kaald	1	k aa l d - -
 084/067	kalt	1	k a l t - -
-084/069	NA	NA	- - - - - -
+084/069	NA	NA	-
 084/071	kalt	1	k a l t - -
 084/073	kalt	1	k a l t - -
 084/075	kalt	1	k a l t - -
@@ -4481,7 +4481,7 @@
 084/117	koidi	1	k oi - d i -
 084/119	koldi	1	k o l d i -
 084/129	koidi	1	k oi - d i -
-084/131	NA	NA	- - - - - -
+084/131	NA	NA	-
 084/133	koidi	1	k oi - d i -
 084/135	koldi	1	k o l d i -
 084/137	kolde	1	k o l d e -
@@ -4490,7 +4490,7 @@
 084/143	kolti	1	k o l t i -
 084/145	kolde	1	k o l d e -
 084/147	koldi	1	k o l d i -
-084/149	NA	NA	- - - - - -
+084/149	NA	NA	-
 084/171	koeda	1	k oe - d a -
 084/173	kolda	1	k o l d a -
 084/195	kalte	1	k a l t e -
@@ -4503,7 +4503,7 @@
 085/043	kalde	1	k a l d e -
 085/045	kalte	1	k a l t e -
 085/047	kald	1	k a l d - -
-085/049	NA	NA	- - - - - -
+085/049	NA	NA	-
 085/051	kalld	1	k a ll d - -
 085/053	kalt	1	k a l t - -
 085/055	kalt	1	k a l t - -
@@ -4551,7 +4551,7 @@
 085/141	kolde	1	k o l d e -
 085/143	kojde	1	k oj - d e -
 085/145	koldi	1	k o l d i -
-085/147	NA	NA	- - - - - -
+085/147	NA	NA	-
 085/149	kolde	1	k o l d e -
 085/175	koln	1	k o l - - n
 085/193	kolda	1	k o l d a -
@@ -4601,7 +4601,7 @@
 086/117	kold	1	k o l d - -
 086/119	koidi	1	k oi - d i -
 086/121	koedi	1	k oe - d i -
-086/123	NA	NA	- - - - - -
+086/123	NA	NA	-
 086/125	koiti	1	k oi - t i -
 086/127	kolti	1	k o l t i -
 086/129	kolto	1	k o l t o -
@@ -4617,7 +4617,7 @@
 086/149	kalte	1	k a l t e -
 086/151	kolti	1	k o l t i -
 086/175	kaln	1	k a l - - n
-086/197	NA	NA	- - - - - -
+086/197	NA	NA	-
 086/199	kalde	1	k a l d e -
 087/033	kalt	1	k a l t - -
 087/035	kalte	1	k a l t e -
@@ -4655,7 +4655,7 @@
 087/101	kaide	1	k ai - d e -
 087/103	kait	1	k ai - t - -
 087/105	kojd	1	k oj - d - -
-087/107	NA	NA	- - - - - -
+087/107	NA	NA	-
 087/109	koid	1	k oi - d - -
 087/111	koit	1	k oi - t - -
 087/113	kojt	1	k oj - t - -
@@ -4667,7 +4667,7 @@
 087/125	koide	1	k oi - d e -
 087/127	koide	1	k oi - d e -
 087/129	kolti	1	k o l t i -
-087/133	NA	NA	- - - - - -
+087/133	NA	NA	-
 087/135	kolti	1	k o l t i -
 087/137	kolte	1	k o l t e -
 087/139	kodi	1	k o - d i -
@@ -4675,7 +4675,7 @@
 087/143	koide	1	k oi - d e -
 087/145	koolte	1	k oo l t e -
 087/147	koide	1	k oi - d e -
-087/149	NA	NA	- - - - - -
+087/149	NA	NA	-
 087/151	kolde	1	k o l d e -
 088/035	kalt	1	k a l t - -
 088/037	kaalt	1	k aa l t - -
@@ -4686,7 +4686,7 @@
 088/047	kalt	1	k a l t - -
 088/049	kalt	1	k a l t - -
 088/051	kalt	1	k a l t - -
-088/053	NA	NA	- - - - - -
+088/053	NA	NA	-
 088/055	kalt	1	k a l t - -
 088/057	kalt	1	k a l t - -
 088/059	kalt	1	k a l t - -
@@ -4708,7 +4708,7 @@
 088/091	koit	1	k oi - t - -
 088/093	koit	1	k oi - t - -
 088/095	koit	1	k oi - t - -
-088/097	NA	NA	- - - - - -
+088/097	NA	NA	-
 088/099	kaaiit	1	k aaii - t - -
 088/101	koit	1	k oi - t - -
 088/103	kooid	1	k ooi - d - -
@@ -4733,7 +4733,7 @@
 089/035	kalt	1	k a l t - -
 089/037	kold	1	k o l d - -
 089/039	kalt	1	k a l t - -
-089/041	NA	NA	- - - - - -
+089/041	NA	NA	-
 089/043	koalt	1	k oa l t - -
 089/045	kald	1	k a l d - -
 089/047	kalt	1	k a l t - -
@@ -4744,7 +4744,7 @@
 089/057	kalt	1	k a l t - -
 089/059	kalt	1	k a l t - -
 089/061	kalt	1	k a l t - -
-089/063	NA	NA	- - - - - -
+089/063	NA	NA	-
 089/065	kalt	1	k a l t - -
 089/067	kalt	1	k a l t - -
 089/069	kald	1	k a l d - -
@@ -4768,7 +4768,7 @@
 089/105	kaaöd	1	k aaö - d - -
 089/107	koate	1	k oa - t e -
 089/109	koalde	1	k oa l d e -
-089/111	NA	NA	- - - - - -
+089/111	NA	NA	-
 089/113	kaldö	1	k a l d ö -
 089/115	kalte	1	k a l t e -
 089/117	koödaa	1	k oö - d aa -
@@ -4818,13 +4818,13 @@
 090/089	koit	1	k oi - t - -
 090/091	koit	1	k oi - t - -
 090/093	koaite	1	k oai - t e -
-090/095	NA	NA	- - - - - -
+090/095	NA	NA	-
 090/097	koid	1	k oi - d - -
 090/099	koit	1	k oi - t - -
 090/101	kold	1	k o l d - -
 090/103	koit	1	k oi - t - -
 090/105	kalt	1	k a l t - -
-090/107	NA	NA	- - - - - -
+090/107	NA	NA	-
 090/109	koidö	1	k oi - d ö -
 090/111	koed	1	k oe - d - -
 090/113	kaltö	1	k a l t ö -
@@ -4846,12 +4846,12 @@
 090/147	koide	1	k oi - d e -
 090/149	koidi	1	k oi - d i -
 090/151	koidi	1	k oi - d i -
-091/035	NA	NA	- - - - - -
+091/035	NA	NA	-
 091/037	kalt	1	k a l t - -
 091/039	kalld	1	k a ll d - -
 091/041	kalt	1	k a l t - -
 091/043	kald	1	k a l d - -
-091/045	NA	NA	- - - - - -
+091/045	NA	NA	-
 091/047	kalt	1	k a l t - -
 091/049	kaalt	1	k aa l t - -
 091/051	kalt	1	k a l t - -
@@ -4881,7 +4881,7 @@
 091/101	koit	1	k oi - t - -
 091/103	koid	1	k oi - d - -
 091/105	kaldö	1	k a l d ö -
-091/107	NA	NA	- - - - - -
+091/107	NA	NA	-
 091/109	kalt	1	k a l t - -
 091/111	kaiti	1	k ai - t i -
 091/113	kalt	1	k a l t - -
@@ -4913,7 +4913,7 @@
 092/047	kalt	1	k a l t - -
 092/049	kalt	1	k a l t - -
 092/051	kallt	1	k a ll t - -
-092/053	NA	NA	- - - - - -
+092/053	NA	NA	-
 092/055	kalt	1	k a l t - -
 092/057	kalt	1	k a l t - -
 092/059	kalt	1	k a l t - -
@@ -4947,7 +4947,7 @@
 092/115	kaalde	1	k aa l d e -
 092/117	koiti	1	k oi - t i -
 092/119	kaltö	1	k a l t ö -
-092/121	NA	NA	- - - - - -
+092/121	NA	NA	-
 092/123	kaldi	1	k a l d i -
 092/125	koodi	1	k oo - d i -
 092/127	kaltö	1	k a l t ö -
@@ -4997,7 +4997,7 @@
 093/097	koalt	1	k oa l t - -
 093/099	kolt	1	k o l t - -
 093/101	koite	1	k oi - t e -
-093/103	NA	NA	- - - - - -
+093/103	NA	NA	-
 093/105	kaitö	1	k ai - t ö -
 093/109	koid	1	k oi - d - -
 093/111	kaidi	1	k ai - d i -
@@ -5028,7 +5028,7 @@
 094/041	chalt	1	ch a l t - -
 094/043	kald	1	k a l d - -
 094/045	kalt	1	k a l t - -
-094/047	NA	NA	- - - - - -
+094/047	NA	NA	-
 094/049	kalt	1	k a l t - -
 094/051	kalt	1	k a l t - -
 094/053	kaalt	1	k aa l t - -
@@ -5116,7 +5116,7 @@
 095/093	kolt	1	k o l t - -
 095/095	koite	1	k oi - t e -
 095/097	koite	1	k oi - t e -
-095/099	NA	NA	- - - - - -
+095/099	NA	NA	-
 095/101	kalt	1	k a l t - -
 095/103	koalt	1	k oa l t - -
 095/105	kalte	1	k a l t e -
@@ -5144,9 +5144,9 @@
 095/155	koldi	1	k o l d i -
 096/031	kalte	1	k a l t e -
 096/033	kalte	1	k a l t e -
-096/035	NA	NA	- - - - - -
+096/035	NA	NA	-
 096/037	kalta	1	k a l t a -
-096/039	NA	NA	- - - - - -
+096/039	NA	NA	-
 096/041	chalt	1	ch a l t - -
 096/043	chalt	1	ch a l t - -
 096/045	kalt	1	k a l t - -
@@ -5248,7 +5248,7 @@
 097/141	kolti	1	k o l t i -
 097/143	kolti	1	k o l t i -
 097/145	koldi	1	k o l d i -
-097/149	NA	NA	- - - - - -
+097/149	NA	NA	-
 097/153	koldi	1	k o l d i -
 098/033	kalta	1	k a l t a -
 098/035	kalta	1	k a l t a -
@@ -5274,9 +5274,9 @@
 098/075	kalt	1	k a l t - -
 098/077	kalt	1	k a l t - -
 098/079	kalti	1	k a l t i -
-098/081	NA	NA	- - - - - -
-098/083	NA	NA	- - - - - -
-098/085	NA	NA	- - - - - -
+098/081	NA	NA	-
+098/083	NA	NA	-
+098/085	NA	NA	-
 098/087	kaödö	1	k aö - d ö -
 098/089	koalde	1	k oa l d e -
 098/091	koit	1	k oi - t - -
@@ -5285,14 +5285,14 @@
 098/097	kolt	1	k o l t - -
 098/103	koalti	1	k oa l t i -
 098/105	koöt	1	k oö - t - -
-098/107	NA	NA	- - - - - -
+098/107	NA	NA	-
 098/109	kaalte	1	k aa l t e -
 098/111	kaldö	1	k a l d ö -
 098/119	koldi	1	k o l d i -
 098/123	kodi	1	k o - d i -
-098/125	NA	NA	- - - - - -
+098/125	NA	NA	-
 098/127	koidie	1	k oi - d ie -
-098/135	NA	NA	- - - - - -
+098/135	NA	NA	-
 098/137	kolte	1	k o l t e -
 098/139	kolte	1	k o l t e -
 098/141	koidi	1	k oi - d i -
@@ -5329,9 +5329,9 @@
 099/089	koit	1	k oi - t - -
 099/093	koöd	1	k oö - d - -
 099/095	koid	1	k oi - d - -
-099/099	NA	NA	- - - - - -
+099/099	NA	NA	-
 099/101	kolte	1	k o l t e -
-099/103	NA	NA	- - - - - -
+099/103	NA	NA	-
 099/105	koit	1	k oi - t - -
 099/107	keute	1	k eu - t e -
 099/109	keute	1	k eu - t e -
@@ -5378,7 +5378,7 @@
 100/101	kaldö	1	k a l d ö -
 100/109	kolt	1	k o l t - -
 100/111	kalte	1	k a l t e -
-100/113	NA	NA	- - - - - -
+100/113	NA	NA	-
 100/115	kolt	1	k o l t - -
 100/117	kolte	1	k o l t e -
 100/119	koldi	1	k o l d i -
@@ -5423,7 +5423,7 @@
 101/107	koöto	1	k oö - t o -
 101/109	köit	1	k öi - t - -
 101/113	koite	1	k oi - t e -
-101/115	NA	NA	- - - - - -
+101/115	NA	NA	-
 101/121	kolti	1	k o l t i -
 101/125	kolti	1	k o l t i -
 101/129	kolti	1	k o l t i -
@@ -5486,12 +5486,12 @@
 103/047	chaaut	1	ch aau - t - -
 103/049	chalte	1	ch a l t e -
 103/051	chalt	1	ch a l t - -
-103/053	NA	NA	- - - - - -
+103/053	NA	NA	-
 103/055	chalt	1	ch a l t - -
 103/057	chalt	1	ch a l t - -
 103/059	chalt	1	ch a l t - -
 103/063	chalt	1	ch a l t - -
-103/065	NA	NA	- - - - - -
+103/065	NA	NA	-
 103/067	kault	1	k au l t - -
 103/069	kolt	1	k o l t - -
 103/071	kolt	1	k o l t - -
@@ -5535,7 +5535,7 @@
 104/053	chalt	1	ch a l t - -
 104/055	chalt	1	ch a l t - -
 104/057	chalt	1	ch a l t - -
-104/059	NA	NA	- - - - - -
+104/059	NA	NA	-
 104/061	chalt	1	ch a l t - -
 104/063	kalt	1	k a l t - -
 104/065	kalt	1	k a l t - -
@@ -5553,10 +5553,10 @@
 104/103	koite	1	k oi - t e -
 104/107	koite	1	k oi - t e -
 104/111	koete	1	k oe - t e -
-104/113	NA	NA	- - - - - -
+104/113	NA	NA	-
 104/119	koalti	1	k oa l t i -
 104/121	kolte	1	k o l t e -
-104/123	NA	NA	- - - - - -
+104/123	NA	NA	-
 104/125	kolti	1	k o l t i -
 104/127	kolti	1	k o l t i -
 104/131	kolti	1	k o l t i -
@@ -5598,7 +5598,7 @@
 105/089	kolte	1	k o l t e -
 105/103	koat	1	k oa - t - -
 105/105	kode	1	k o - d e -
-105/111	NA	NA	- - - - - -
+105/111	NA	NA	-
 105/113	kolte	1	k o l t e -
 105/115	kolte	1	k o l t e -
 105/117	kolte	1	k o l t e -
@@ -5638,7 +5638,7 @@
 106/087	kalte	1	k a l t e -
 106/093	kolte	1	k o l t e -
 106/097	kolte	1	k o l t e -
-106/099	NA	NA	- - - - - -
+106/099	NA	NA	-
 106/103	kolte	1	k o l t e -
 106/111	koite	1	k oi - t e -
 106/115	koltö	1	k o l t ö -
@@ -5661,7 +5661,7 @@
 107/041	chaut	1	ch au - t - -
 107/043	chaute	1	ch au - t e -
 107/045	chaut	1	ch au - t - -
-107/047	NA	NA	- - - - - -
+107/047	NA	NA	-
 107/049	chalt	1	ch a l t - -
 107/051	chalt	1	ch a l t - -
 107/053	chalt	1	ch a l t - -
@@ -5683,11 +5683,11 @@
 107/107	kolte	1	k o l t e -
 107/111	käte	1	k ä - t e -
 107/119	kolte	1	k o l t e -
-107/121	NA	NA	- - - - - -
+107/121	NA	NA	-
 107/123	kolte	1	k o l t e -
 107/125	kolti	1	k o l t i -
 107/127	kolte	1	k o l t e -
-107/129	NA	NA	- - - - - -
+107/129	NA	NA	-
 107/131	kolti	1	k o l t i -
 107/133	kolti	1	k o l t i -
 107/135	kolti	1	k o l t i -
@@ -5699,7 +5699,7 @@
 108/035	chaute	1	ch au - t e -
 108/037	chaute	1	ch au - t e -
 108/039	chaute	1	ch au - t e -
-108/041	NA	NA	- - - - - -
+108/041	NA	NA	-
 108/043	chaute	1	ch au - t e -
 108/047	chalt	1	ch a l t - -
 108/049	chalt	1	ch a l t - -
@@ -5711,7 +5711,7 @@
 108/081	koltn	1	k o l t - n
 108/085	kaltn	1	k a l t - n
 108/087	kaalto	1	k aa l t o -
-108/091	NA	NA	- - - - - -
+108/091	NA	NA	-
 108/099	kolte	1	k o l t e -
 108/101	kolte	1	k o l t e -
 108/103	kolte	1	k o l t e -
@@ -5736,7 +5736,7 @@
 109/037	chaut	1	ch au - t - -
 109/039	chaut	1	ch au - t - -
 109/041	chaut	1	ch au - t - -
-109/043	NA	NA	- - - - - -
+109/043	NA	NA	-
 109/045	chalt	1	ch a l t - -
 109/049	chalt	1	ch a l t - -
 109/053	chalt	1	ch a l t - -
@@ -5750,27 +5750,27 @@
 109/089	kolte	1	k o l t e -
 109/091	kolte	1	k o l t e -
 109/093	kolte	1	k o l t e -
-109/095	NA	NA	- - - - - -
+109/095	NA	NA	-
 109/097	kolte	1	k o l t e -
 109/099	kolto	1	k o l t o -
 109/101	kalte	1	k a l t e -
 109/103	kolte	1	k o l t e -
 109/107	kolte	1	k o l t e -
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	kolte	1	k o l t e -
 109/113	kolte	1	k o l t e -
 109/115	kolte	1	k o l t e -
 109/117	kolte	1	k o l t e -
 109/119	kolte	1	k o l t e -
 109/121	kolte	1	k o l t e -
-109/123	NA	NA	- - - - - -
+109/123	NA	NA	-
 109/125	kolte	1	k o l t e -
 109/127	kolte	1	k o l t e -
 109/129	kolti	1	k o l t i -
 109/131	kolti	1	k o l t i -
 109/133	koltn	1	k o l t - n
 109/135	kolti	1	k o l t i -
-109/137	NA	NA	- - - - - -
+109/137	NA	NA	-
 109/139	kolte	1	k o l t e -
 110/035	chaut	1	ch au - t - -
 110/039	chaut	1	ch au - t - -
@@ -5783,20 +5783,20 @@
 110/061	cholt	1	ch o l t - -
 110/065	cholt	1	ch o l t - -
 110/075	koltn	1	k o l t - n
-110/079	NA	NA	- - - - - -
+110/079	NA	NA	-
 110/081	koltn	1	k o l t - n
 110/083	koltn	1	k o l t - n
-110/087	NA	NA	- - - - - -
+110/087	NA	NA	-
 110/089	koltn	1	k o l t - n
 110/091	koltn	1	k o l t - n
 110/093	kolto	1	k o l t o -
-110/095	NA	NA	- - - - - -
+110/095	NA	NA	-
 110/097	kolte	1	k o l t e -
 110/099	kolti	1	k o l t i -
 110/101	kolte	1	k o l t e -
 110/105	kolte	1	k o l t e -
 110/107	kolte	1	k o l t e -
-110/111	NA	NA	- - - - - -
+110/111	NA	NA	-
 110/113	kolte	1	k o l t e -
 110/115	kolte	1	k o l t e -
 110/117	kolte	1	k o l t e -
@@ -5808,20 +5808,20 @@
 110/131	kolti	1	k o l t i -
 110/133	koulti	1	k ou l t i -
 110/135	kolti	1	k o l t i -
-110/137	NA	NA	- - - - - -
+110/137	NA	NA	-
 110/139	kolti	1	k o l t i -
 111/035	chalt	1	ch a l t - -
 111/037	chalt	1	ch a l t - -
 111/039	chalt	1	ch a l t - -
 111/041	chalt	1	ch a l t - -
-111/043	NA	NA	- - - - - -
+111/043	NA	NA	-
 111/045	chaalt	1	ch aa l t - -
 111/059	cholt	1	ch o l t - -
 111/073	koltn	1	k o l t - n
 111/075	koltn	1	k o l t - n
 111/077	koalta	1	k oa l t a -
 111/079	koltn	1	k o l t - n
-111/081	NA	NA	- - - - - -
+111/081	NA	NA	-
 111/083	kolte	1	k o l t e -
 111/087	koltn	1	k o l t - n
 111/089	koltn	1	k o l t - n

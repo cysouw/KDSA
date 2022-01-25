@@ -3494,7 +3494,7 @@
 066/067	barg	1	- b a r - - g -
 066/069	berg	1	- b e r - - g -
 066/071	barg	1	- b a r - - g -
-066/073	gütel	NA	- g ü t e l - -
+066/073	gütel	NA	-
 066/075	barg	1	- b a r - - g -
 066/077	beerg	1	- b ee r - - g -
 066/079	barg	1	- b a r - - g -
@@ -3726,7 +3726,7 @@
 070/069	barg	1	- b a r - - g -
 070/071	berg	1	- b e r - - g -
 070/073	bearg	1	- b ea r - - g -
-070/075	NA	NA	- - - - - - - -
+070/075	NA	NA	-
 070/077	bärg	1	- b ä r - - g -
 070/079	berg	1	- b e r - - g -
 070/081	berig	1	- b e r i - g -
@@ -4939,7 +4939,7 @@
 092/099	berg	1	- b e r - - g -
 092/101	berg	1	- b e r - - g -
 092/103	berg	1	- b e r - - g -
-092/105	NA	NA	- - - - - - - -
+092/105	NA	NA	-
 092/107	bering	1	- b e r i n g -
 092/109	bering	1	- b e r i n g -
 092/111	bering	1	- b e r i n g -
@@ -4980,7 +4980,7 @@
 093/063	bearg	1	- b ea r - - g -
 093/065	berg	1	- b e r - - g -
 093/067	bäarg	1	- b äa r - - g -
-093/069	NA	NA	- - - - - - - -
+093/069	NA	NA	-
 093/071	berg	1	- b e r - - g -
 093/073	bey	1	- b ey - - - - -
 093/075	berg	1	- b e r - - g -
@@ -5289,7 +5289,7 @@
 098/109	ber	1	- b e r - - - -
 098/111	berig	1	- b e r i - g -
 098/119	berg	1	- b e r - - g -
-098/123	NA	NA	- - - - - - - -
+098/123	NA	NA	-
 098/125	berg	1	- b e r - - g -
 098/127	beag	1	- b ea - - - g -
 098/135	berg	1	- b e r - - g -

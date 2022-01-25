@@ -2170,7 +2170,7 @@
 046/121	dein	1	d ei n - -
 046/123	dein	1	d ei n - -
 046/125	dein	1	d ei n - -
-046/127	NA	NA	- - - - -
+046/127	NA	NA	-
 046/129	dein	1	d ei n - -
 046/131	dein	1	d ei n - -
 046/133	dain	1	d ai n - -
@@ -3741,7 +3741,7 @@
 070/099	dein	1	d ei n - -
 070/101	dein	1	d ei n - -
 070/103	dein	1	d ei n - -
-070/105	NA	NA	- - - - -
+070/105	NA	NA	-
 070/107	dein	1	d ei n - -
 070/109	dein	1	d ei n - -
 070/111	dein	1	d ei n - -
@@ -3854,7 +3854,7 @@
 072/095	dein	1	d ei n - -
 072/097	dein	1	d ei n - -
 072/099	dein	1	d ei n - -
-072/101	NA	NA	- - - - -
+072/101	NA	NA	-
 072/103	dein	1	d ei n - -
 072/105	dein	1	d ei n - -
 072/107	dein	1	d ei n - -
@@ -4454,7 +4454,7 @@
 084/063	dei	1	d ei - - -
 084/065	daera	1	d ae r a -
 084/067	deen	1	d ee n - -
-084/069	NA	NA	- - - - -
+084/069	NA	NA	-
 084/071	dei	1	d ei - - -
 084/073	dein	1	d ei n - -
 084/075	dein	1	d ei n - -
@@ -5015,7 +5015,7 @@
 093/137	dein	1	d ei n - -
 093/139	dein	1	d ei n - -
 093/143	däin	1	d äi n - -
-093/145	NA	NA	- - - - -
+093/145	NA	NA	-
 093/147	dein	1	d ei n - -
 093/149	dein	1	d ei n - -
 093/151	dein	1	d ei n - -
@@ -5539,7 +5539,7 @@
 104/061	dinn	1	d i nn - -
 104/063	din	1	d i n - -
 104/065	dir	1	d i r - -
-104/067	NA	NA	- - - - -
+104/067	NA	NA	-
 104/071	dei	1	d ei - - -
 104/075	tr	1	t - r - -
 104/077	dei	1	d ei - - -
@@ -5666,7 +5666,7 @@
 107/051	dr	1	d - r - -
 107/053	diin	1	d ii n - -
 107/057	din	1	d i n - -
-107/059	NA	NA	- - - - -
+107/059	NA	NA	-
 107/063	dir	1	d i r - -
 107/065	dier	1	d ie r - -
 107/071	dei	1	d ei - - -
@@ -5737,11 +5737,11 @@
 109/039	dir	1	d i r - -
 109/041	dir	1	d i r - -
 109/043	dir	1	d i r - -
-109/045	NA	NA	- - - - -
+109/045	NA	NA	-
 109/049	dein	1	d ei n - -
 109/053	dien	1	d ie n - -
 109/061	din	1	d i n - -
-109/063	NA	NA	- - - - -
+109/063	NA	NA	-
 109/065	dar	1	d a r - -
 109/067	dir	1	d i r - -
 109/075	dai	1	d ai - - -

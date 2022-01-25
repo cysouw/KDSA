@@ -118,7 +118,7 @@
 013/207	schlap	1	sch l a p - -
 013/209	schloap	1	sch l oa p - -
 013/211	schloap	1	sch l oa p - -
-013/213	NA	NA	- - - - - - -
+013/213	NA	NA	-
 013/215	schlop	1	sch l o p - -
 013/217	schlap	1	sch l a p - -
 013/219	schloap	1	sch l oa p - -
@@ -150,7 +150,7 @@
 014/197	schloab	1	sch l oa b - -
 014/199	schloap	1	sch l oa p - -
 014/201	schloap	1	sch l oa p - -
-014/203	NA	NA	- - - - - - -
+014/203	NA	NA	-
 014/205	schlap	1	sch l a p - -
 014/207	schlap	1	sch l a p - -
 014/209	schloap	1	sch l oa p - -
@@ -682,7 +682,7 @@
 023/205	schlap	1	sch l a p - -
 023/207	schlof	1	sch l o f - -
 023/215	schlop	1	sch l o p - -
-023/217	NA	NA	- - - - - - -
+023/217	NA	NA	-
 024/053	sloap	1	s l oa p - -
 024/057	slap	1	s l a p - -
 024/059	schlaap	1	sch l aa p - -
@@ -808,7 +808,7 @@
 025/157	schlaup	1	sch l au p - -
 025/159	schlop	1	sch l o p - -
 025/177	schlap	1	sch l a p - -
-025/179	NA	NA	- - - - - - -
+025/179	NA	NA	-
 025/181	schloef	1	sch l oe f - -
 025/183	schlof	1	sch l o f - -
 025/185	schlaof	1	sch l ao f - -
@@ -1041,14 +1041,14 @@
 029/057	slöpen	1	s l ö p e n
 029/059	slöpn	1	s l ö p - n
 029/061	slaap	1	s l aa p - -
-029/065	NA	NA	- - - - - - -
+029/065	NA	NA	-
 029/067	slab	1	s l a b - -
 029/069	sslaop	1	ss l ao p - -
 029/071	slöpen	1	s l ö p e n
 029/073	schlab	1	sch l a b - -
 029/075	slap	1	s l a p - -
 029/077	sslaap	1	ss l aa p - -
-029/079	NA	NA	- - - - - - -
+029/079	NA	NA	-
 029/081	sslap	1	ss l a p - -
 029/083	zlap	1	z l a p - -
 029/085	sslöpen	1	ss l ö p e n
@@ -1203,7 +1203,7 @@
 031/089	slap	1	s l a p - -
 031/091	slaap	1	s l aa p - -
 031/093	sloap	1	s l oa p - -
-031/095	NA	NA	- - - - - - -
+031/095	NA	NA	-
 031/097	slap	1	s l a p - -
 031/099	sslab	1	ss l a b - -
 031/101	slaap	1	s l aa p - -
@@ -1259,7 +1259,7 @@
 032/057	slap	1	s l a p - -
 032/059	slab	1	s l a b - -
 032/061	slap	1	s l a p - -
-032/065	NA	NA	- - - - - - -
+032/065	NA	NA	-
 032/069	slap	1	s l a p - -
 032/071	sslap	1	ss l a p - -
 032/073	slapp	1	s l a pp - -
@@ -1400,7 +1400,7 @@
 034/063	schlap	1	sch l a p - -
 034/065	slap	1	s l a p - -
 034/067	slap	1	s l a p - -
-034/069	NA	NA	- - - - - - -
+034/069	NA	NA	-
 034/071	slap	1	s l a p - -
 034/073	slap	1	s l a p - -
 034/075	sslap	1	ss l a p - -
@@ -1515,7 +1515,7 @@
 035/171	schlop	1	sch l o p - -
 035/173	schlop	1	sch l o p - -
 036/033	schlöpen	1	sch l ö p e n
-036/035	NA	NA	- - - - - - -
+036/035	NA	NA	-
 036/039	schlap	1	sch l a p - -
 036/041	slap	1	s l a p - -
 036/043	schlap	1	sch l a p - -
@@ -1645,7 +1645,7 @@
 038/033	schlaup	1	sch l au p - -
 038/035	schlop	1	sch l o p - -
 038/037	schloap	1	sch l oa p - -
-038/039	NA	NA	- - - - - - -
+038/039	NA	NA	-
 038/041	schlap	1	sch l a p - -
 038/043	slap	1	s l a p - -
 038/045	schlap	1	sch l a p - -
@@ -1684,7 +1684,7 @@
 038/111	schliehpen	1	sch l ieh p e n
 038/113	schloap	1	sch l oa p - -
 038/115	schloap	1	sch l oa p - -
-038/117	NA	NA	- - - - - - -
+038/117	NA	NA	-
 038/119	schloap	1	sch l oa p - -
 038/121	schloap	1	sch l oa p - -
 038/123	schloap	1	sch l oa p - -
@@ -1719,7 +1719,7 @@
 039/055	slap	1	s l a p - -
 039/057	slap	1	s l a p - -
 039/059	slap	1	s l a p - -
-039/061	NA	NA	- - - - - - -
+039/061	NA	NA	-
 039/063	slap	1	s l a p - -
 039/065	slepen	1	s l e p e n
 039/067	slap	1	s l a p - -
@@ -1859,7 +1859,7 @@
 041/099	schloap	1	sch l oa p - -
 041/101	schloap	1	sch l oa p - -
 041/103	schliep	1	sch l ie p - -
-041/105	NA	NA	- - - - - - -
+041/105	NA	NA	-
 041/107	schloap	1	sch l oa p - -
 041/109	schlop	1	sch l o p - -
 041/111	schlaf	1	sch l a f - -
@@ -1889,17 +1889,17 @@
 042/037	schlap	1	sch l a p - -
 042/039	slap	1	s l a p - -
 042/041	schlaup	1	sch l au p - -
-042/043	NA	NA	- - - - - - -
+042/043	NA	NA	-
 042/045	slaup	1	s l au p - -
 042/047	schlaup	1	sch l au p - -
 042/051	sloap	1	s l oa p - -
 042/053	slaub	1	s l au b - -
-042/055	NA	NA	- - - - - - -
+042/055	NA	NA	-
 042/057	schlap	1	sch l a p - -
-042/059	NA	NA	- - - - - - -
+042/059	NA	NA	-
 042/061	sleab	1	s l ea b - -
 042/063	slap	1	s l a p - -
-042/065	NA	NA	- - - - - - -
+042/065	NA	NA	-
 042/067	slap	1	s l a p - -
 042/069	slap	1	s l a p - -
 042/071	slap	1	s l a p - -
@@ -1956,7 +1956,7 @@
 043/047	schlaup	1	sch l au p - -
 043/049	slaup	1	s l au p - -
 043/051	schlap	1	sch l a p - -
-043/053	NA	NA	- - - - - - -
+043/053	NA	NA	-
 043/055	schlap	1	sch l a p - -
 043/057	sloap	1	s l oa p - -
 043/059	slap	1	s l a p - -
@@ -1977,7 +1977,7 @@
 043/089	schloap	1	sch l oa p - -
 043/091	schloap	1	sch l oa p - -
 043/093	schloap	1	sch l oa p - -
-043/095	NA	NA	- - - - - - -
+043/095	NA	NA	-
 043/097	schlohp	1	sch l oh p - -
 043/099	schloap	1	sch l oa p - -
 043/101	schloap	1	sch l oa p - -
@@ -2003,10 +2003,10 @@
 043/143	schlof	1	sch l o f - -
 043/145	schloaf	1	sch l oa f - -
 043/151	schlof	1	sch l o f - -
-043/153	NA	NA	- - - - - - -
+043/153	NA	NA	-
 043/159	schlaup	1	sch l au p - -
 043/161	schlaub	1	sch l au b - -
-044/033	NA	NA	- - - - - - -
+044/033	NA	NA	-
 044/035	schlaop	1	sch l ao p - -
 044/039	schloap	1	sch l oa p - -
 044/041	schlaup	1	sch l au p - -
@@ -2082,7 +2082,7 @@
 045/063	slap	1	s l a p - -
 045/065	slap	1	s l a p - -
 045/067	sloap	1	s l oa p - -
-045/069	NA	NA	- - - - - - -
+045/069	NA	NA	-
 045/071	sslap	1	ss l a p - -
 045/073	slap	1	s l a p - -
 045/075	slap	1	s l a p - -
@@ -2105,7 +2105,7 @@
 045/109	schliepen	1	sch l ie p e n
 045/111	schnobbeden	2	- sch n o bb e d
 045/113	schloaf	1	sch l oa f - -
-045/115	NA	NA	- - - - - - -
+045/115	NA	NA	-
 045/117	schlap	1	sch l a p - -
 045/119	schluaf	1	sch l ua f - -
 045/121	schlof	1	sch l o f - -
@@ -2225,7 +2225,7 @@
 047/115	schloaf	1	sch l oa f - -
 047/117	schloaf	1	sch l oa f - -
 047/119	schlof	1	sch l o f - -
-047/123	NA	NA	- - - - - - -
+047/123	NA	NA	-
 047/125	schluaf	1	sch l ua f - -
 047/127	schlaf	1	sch l a f - -
 047/129	schlohf	1	sch l oh f - -
@@ -2320,7 +2320,7 @@
 049/051	slop	1	s l o p - -
 049/053	schlop	1	sch l o p - -
 049/055	schlop	1	sch l o p - -
-049/057	NA	NA	- - - - - - -
+049/057	NA	NA	-
 049/059	sleoup	1	s l eou p - -
 049/061	slap	1	s l a p - -
 049/063	slap	1	s l a p - -
@@ -2348,11 +2348,11 @@
 049/109	schloab	1	sch l oa b - -
 049/111	schnarkten	2	- sch n a r k t
 049/113	schlof	1	sch l o f - -
-049/115	NA	NA	- - - - - - -
+049/115	NA	NA	-
 049/117	schloaf	1	sch l oa f - -
 049/119	schlof	1	sch l o f - -
 049/121	schlof	1	sch l o f - -
-049/123	NA	NA	- - - - - - -
+049/123	NA	NA	-
 049/125	schluf	1	sch l u f - -
 049/127	schloaf	1	sch l oa f - -
 049/129	schlof	1	sch l o f - -
@@ -2390,7 +2390,7 @@
 050/065	slap	1	s l a p - -
 050/067	slap	1	s l a p - -
 050/069	sloap	1	s l oa p - -
-050/071	NA	NA	- - - - - - -
+050/071	NA	NA	-
 050/073	schlap	1	sch l a p - -
 050/075	schlof	1	sch l o f - -
 050/077	schlaap	1	sch l aa p - -
@@ -2416,7 +2416,7 @@
 050/117	schloaf	1	sch l oa f - -
 050/119	schlof	1	sch l o f - -
 050/121	schlaf	1	sch l a f - -
-050/125	NA	NA	- - - - - - -
+050/125	NA	NA	-
 050/127	schloof	1	sch l oo f - -
 050/129	schlof	1	sch l o f - -
 050/131	schlof	1	sch l o f - -
@@ -2441,7 +2441,7 @@
 051/031	slop	1	s l o p - -
 051/033	slaop	1	s l ao p - -
 051/035	sleip	1	s l ei p - -
-051/037	NA	NA	- - - - - - -
+051/037	NA	NA	-
 051/039	schlaop	1	sch l ao p - -
 051/041	slop	1	s l o p - -
 051/043	schloep	1	sch l oe p - -
@@ -2454,12 +2454,12 @@
 051/057	schloop	1	sch l oo p - -
 051/059	slop	1	s l o p - -
 051/061	slap	1	s l a p - -
-051/063	NA	NA	- - - - - - -
+051/063	NA	NA	-
 051/065	slap	1	s l a p - -
 051/067	slop	1	s l o p - -
 051/069	schloop	1	sch l oo p - -
 051/071	sloap	1	s l oa p - -
-051/073	NA	NA	- - - - - - -
+051/073	NA	NA	-
 051/075	schlof	1	sch l o f - -
 051/077	schlaap	1	sch l aa p - -
 051/079	schloof	1	sch l oo f - -
@@ -2821,7 +2821,7 @@
 056/111	schlof	1	sch l o f - -
 056/113	schloof	1	sch l oo f - -
 056/115	schlof	1	sch l o f - -
-056/117	NA	NA	- - - - - - -
+056/117	NA	NA	-
 056/121	schlof	1	sch l o f - -
 056/123	schluf	1	sch l u f - -
 056/125	schloof	1	sch l oo f - -
@@ -2834,7 +2834,7 @@
 056/139	schloaf	1	sch l oa f - -
 056/141	schlof	1	sch l o f - -
 056/143	schlauf	1	sch l au f - -
-056/145	NA	NA	- - - - - - -
+056/145	NA	NA	-
 056/147	schlauf	1	sch l au f - -
 056/149	schlauf	1	sch l au f - -
 056/151	schluff	1	sch l u ff - -
@@ -2913,7 +2913,7 @@
 057/155	schlauf	1	sch l au f - -
 057/157	schlaf	1	sch l a f - -
 057/159	schlof	1	sch l o f - -
-057/161	NA	NA	- - - - - - -
+057/161	NA	NA	-
 058/019	schlop	1	sch l o p - -
 058/021	schlop	1	sch l o p - -
 058/023	schlop	1	sch l o p - -
@@ -3034,7 +3034,7 @@
 059/111	schlief	1	sch l ie f - -
 059/113	schlof	1	sch l o f - -
 059/115	schlof	1	sch l o f - -
-059/117	NA	NA	- - - - - - -
+059/117	NA	NA	-
 059/119	schluf	1	sch l u f - -
 059/121	schlof	1	sch l o f - -
 059/123	schlof	1	sch l o f - -
@@ -3057,7 +3057,7 @@
 059/157	schlof	1	sch l o f - -
 059/159	schlof	1	sch l o f - -
 059/161	schlof	1	sch l o f - -
-059/165	NA	NA	- - - - - - -
+059/165	NA	NA	-
 059/169	schloof	1	sch l oo f - -
 060/021	schloff	1	sch l o ff - -
 060/023	schlof	1	sch l o f - -
@@ -3081,7 +3081,7 @@
 060/059	schloff	1	sch l o ff - -
 060/061	schloff	1	sch l o ff - -
 060/063	schloff	1	sch l o ff - -
-060/065	NA	NA	- - - - - - -
+060/065	NA	NA	-
 060/067	schloff	1	sch l o ff - -
 060/069	schloff	1	sch l o ff - -
 060/071	schlaoff	1	sch l ao ff - -
@@ -3232,7 +3232,7 @@
 062/077	schloaf	1	sch l oa f - -
 062/079	schluf	1	sch l u f - -
 062/081	schloaf	1	sch l oa f - -
-062/083	NA	NA	- - - - - - -
+062/083	NA	NA	-
 062/085	schlof	1	sch l o f - -
 062/087	schlof	1	sch l o f - -
 062/089	schlaf	1	sch l a f - -
@@ -3251,7 +3251,7 @@
 062/115	schlof	1	sch l o f - -
 062/117	schlouf	1	sch l ou f - -
 062/119	schlouf	1	sch l ou f - -
-062/121	NA	NA	- - - - - - -
+062/121	NA	NA	-
 062/123	schlouf	1	sch l ou f - -
 062/125	schluuf	1	sch l uu f - -
 062/127	schloof	1	sch l oo f - -
@@ -3409,7 +3409,7 @@
 064/157	schlof	1	sch l o f - -
 064/159	schlof	1	sch l o f - -
 065/021	schloff	1	sch l o ff - -
-065/023	NA	NA	- - - - - - -
+065/023	NA	NA	-
 065/025	schloof	1	sch l oo f - -
 065/027	schlof	1	sch l o f - -
 065/029	schlof	1	sch l o f - -
@@ -3500,7 +3500,7 @@
 066/079	schloff	1	sch l o ff - -
 066/081	schloff	1	sch l o ff - -
 066/083	schloff	1	sch l o ff - -
-066/085	NA	NA	- - - - - - -
+066/085	NA	NA	-
 066/087	schlaouf	1	sch l aou f - -
 066/089	schlouf	1	sch l ou f - -
 066/091	schläuf	1	sch l äu f - -
@@ -3513,7 +3513,7 @@
 066/105	schlof	1	sch l o f - -
 066/107	schloof	1	sch l oo f - -
 066/109	schlof	1	sch l o f - -
-066/111	NA	NA	- - - - - - -
+066/111	NA	NA	-
 066/113	gschnorcht	2	g sch n o r ch t
 066/121	schlouf	1	sch l ou f - -
 066/139	schloof	1	sch l oo f - -
@@ -3640,7 +3640,7 @@
 068/151	schlof	1	sch l o f - -
 068/153	schlof	1	sch l o f - -
 068/155	schlof	1	sch l o f - -
-068/157	NA	NA	- - - - - - -
+068/157	NA	NA	-
 068/159	schloof	1	sch l oo f - -
 068/161	schluf	1	sch l u f - -
 068/165	schlaf	1	sch l a f - -
@@ -3655,7 +3655,7 @@
 069/037	schlof	1	sch l o f - -
 069/039	schlof	1	sch l o f - -
 069/041	schlof	1	sch l o f - -
-069/043	NA	NA	- - - - - - -
+069/043	NA	NA	-
 069/045	schlof	1	sch l o f - -
 069/047	schlof	1	sch l o f - -
 069/049	schlof	1	sch l o f - -
@@ -3837,7 +3837,7 @@
 072/061	schloaf	1	sch l oa f - -
 072/063	schlaff	1	sch l a ff - -
 072/065	schlaff	1	sch l a ff - -
-072/067	NA	NA	- - - - - - -
+072/067	NA	NA	-
 072/069	schlaff	1	sch l a ff - -
 072/071	schlaff	1	sch l a ff - -
 072/073	schlof	1	sch l o f - -
@@ -3934,9 +3934,9 @@
 074/023	schloof	1	sch l oo f - -
 074/025	schlof	1	sch l o f - -
 074/027	schlaof	1	sch l ao f - -
-074/029	NA	NA	- - - - - - -
+074/029	NA	NA	-
 074/031	schlof	1	sch l o f - -
-074/033	NA	NA	- - - - - - -
+074/033	NA	NA	-
 074/035	schlof	1	sch l o f - -
 074/037	schlof	1	sch l o f - -
 074/039	schlof	1	sch l o f - -
@@ -3978,7 +3978,7 @@
 074/145	schlof	1	sch l o f - -
 074/147	schluf	1	sch l u f - -
 074/149	schluuf	1	sch l uu f - -
-074/153	NA	NA	- - - - - - -
+074/153	NA	NA	-
 074/155	schlouf	1	sch l ou f - -
 074/157	schluf	1	sch l u f - -
 074/159	schlof	1	sch l o f - -
@@ -4034,7 +4034,7 @@
 075/145	schloof	1	sch l oo f - -
 075/147	schlof	1	sch l o f - -
 075/149	schluf	1	sch l u f - -
-075/155	NA	NA	- - - - - - -
+075/155	NA	NA	-
 075/157	schlouf	1	sch l ou f - -
 075/159	schlof	1	sch l o f - -
 075/161	schlof	1	sch l o f - -
@@ -4055,9 +4055,9 @@
 076/045	schloof	1	sch l oo f - -
 076/047	schloof	1	sch l oo f - -
 076/049	schlof	1	sch l o f - -
-076/051	NA	NA	- - - - - - -
+076/051	NA	NA	-
 076/053	schlof	1	sch l o f - -
-076/055	NA	NA	- - - - - - -
+076/055	NA	NA	-
 076/057	schlof	1	sch l o f - -
 076/059	schlof	1	sch l o f - -
 076/061	schlof	1	sch l o f - -
@@ -4066,7 +4066,7 @@
 076/067	schloff	1	sch l o ff - -
 076/069	schlaff	1	sch l a ff - -
 076/071	schloaf	1	sch l oa f - -
-076/073	NA	NA	- - - - - - -
+076/073	NA	NA	-
 076/075	schlaf	1	sch l a f - -
 076/077	schlof	1	sch l o f - -
 076/079	schlouf	1	sch l ou f - -
@@ -4096,7 +4096,7 @@
 077/025	schlof	1	sch l o f - -
 077/027	schlof	1	sch l o f - -
 077/029	schlof	1	sch l o f - -
-077/031	NA	NA	- - - - - - -
+077/031	NA	NA	-
 077/033	schlof	1	sch l o f - -
 077/035	schlof	1	sch l o f - -
 077/037	schloof	1	sch l oo f - -
@@ -4107,7 +4107,7 @@
 077/049	schlof	1	sch l o f - -
 077/051	schloof	1	sch l oo f - -
 077/053	schloof	1	sch l oo f - -
-077/055	NA	NA	- - - - - - -
+077/055	NA	NA	-
 077/057	schloof	1	sch l oo f - -
 077/059	schlof	1	sch l o f - -
 077/061	schlof	1	sch l o f - -
@@ -4154,13 +4154,13 @@
 078/057	schloof	1	sch l oo f - -
 078/059	schlof	1	sch l o f - -
 078/061	schlof	1	sch l o f - -
-078/063	NA	NA	- - - - - - -
+078/063	NA	NA	-
 078/065	schl	1	sch l - - - -
 078/067	schloaf	1	sch l oa f - -
-078/069	NA	NA	- - - - - - -
+078/069	NA	NA	-
 078/071	schloaf	1	sch l oa f - -
 078/073	schloaf	1	sch l oa f - -
-078/075	NA	NA	- - - - - - -
+078/075	NA	NA	-
 078/077	schlof	1	sch l o f - -
 078/079	schlouf	1	sch l ou f - -
 078/081	schlouf	1	sch l ou f - -
@@ -4207,7 +4207,7 @@
 079/075	schloaf	1	sch l oa f - -
 079/077	schloaf	1	sch l oa f - -
 079/079	schlouf	1	sch l ou f - -
-079/081	NA	NA	- - - - - - -
+079/081	NA	NA	-
 079/083	schlouf	1	sch l ou f - -
 079/085	schlouf	1	sch l ou f - -
 079/087	schlaf	1	sch l a f - -
@@ -4372,7 +4372,7 @@
 082/129	schlooff	1	sch l oo ff - -
 082/131	schlof	1	sch l o f - -
 082/133	geschnaurcht	2	ge sch n au r ch t
-082/135	NA	NA	- - - - - - -
+082/135	NA	NA	-
 082/145	schloff	1	sch l o ff - -
 082/147	schlof	1	sch l o f - -
 082/191	schläuf	1	sch l äu f - -
@@ -4521,10 +4521,10 @@
 085/079	schlaf	1	sch l a f - -
 085/081	schlauf	1	sch l au f - -
 085/083	schlouf	1	sch l ou f - -
-085/085	NA	NA	- - - - - - -
+085/085	NA	NA	-
 085/087	schlaf	1	sch l a f - -
 085/089	schlaf	1	sch l a f - -
-085/091	NA	NA	- - - - - - -
+085/091	NA	NA	-
 085/093	schloaf	1	sch l oa f - -
 085/095	schlaf	1	sch l a f - -
 085/097	schlaff	1	sch l a ff - -
@@ -4622,7 +4622,7 @@
 087/033	schlof	1	sch l o f - -
 087/035	schluv	1	sch l u v - -
 087/037	schlof	1	sch l o f - -
-087/039	NA	NA	- - - - - - -
+087/039	NA	NA	-
 087/041	schloof	1	sch l oo f - -
 087/043	schloof	1	sch l oo f - -
 087/045	schloof	1	sch l oo f - -
@@ -4772,7 +4772,7 @@
 089/113	schlef	1	sch l e f - -
 089/115	schlof	1	sch l o f - -
 089/117	groföt	3	g r o f ö t
-089/119	NA	NA	- - - - - - -
+089/119	NA	NA	-
 089/121	schloff	1	sch l o ff - -
 089/123	schlaf	1	sch l a f - -
 089/125	schlof	1	sch l o f - -
@@ -4875,7 +4875,7 @@
 091/087	schlaff	1	sch l a ff - -
 091/091	schlaff	1	sch l a ff - -
 091/093	schlaf	1	sch l a f - -
-091/095	NA	NA	- - - - - - -
+091/095	NA	NA	-
 091/097	schlaff	1	sch l a ff - -
 091/099	schlaf	1	sch l a f - -
 091/101	schlof	1	sch l o f - -
@@ -4988,7 +4988,7 @@
 093/079	schlof	1	sch l o f - -
 093/081	schlof	1	sch l o f - -
 093/083	schlaf	1	sch l a f - -
-093/085	NA	NA	- - - - - - -
+093/085	NA	NA	-
 093/087	schlaf	1	sch l a f - -
 093/089	schloff	1	sch l o ff - -
 093/091	schlaf	1	sch l a f - -
@@ -4997,7 +4997,7 @@
 093/097	schlof	1	sch l o f - -
 093/099	schlof	1	sch l o f - -
 093/101	schlof	1	sch l o f - -
-093/103	NA	NA	- - - - - - -
+093/103	NA	NA	-
 093/105	schlof	1	sch l o f - -
 093/109	schloof	1	sch l oo f - -
 093/111	schlaf	1	sch l a f - -
@@ -5091,7 +5091,7 @@
 095/043	schlof	1	sch l o f - -
 095/045	schlof	1	sch l o f - -
 095/047	schlof	1	sch l o f - -
-095/049	NA	NA	- - - - - - -
+095/049	NA	NA	-
 095/051	schlof	1	sch l o f - -
 095/053	schlof	1	sch l o f - -
 095/055	schlauf	1	sch l au f - -
@@ -5166,7 +5166,7 @@
 096/075	schlauf	1	sch l au f - -
 096/077	schloaf	1	sch l oa f - -
 096/079	schlof	1	sch l o f - -
-096/081	NA	NA	- - - - - - -
+096/081	NA	NA	-
 096/083	schlof	1	sch l o f - -
 096/085	schloff	1	sch l o ff - -
 096/087	schlof	1	sch l o f - -
@@ -5243,7 +5243,7 @@
 097/113	gschnauat	2	g sch n aua - - t
 097/125	schlof	1	sch l o f - -
 097/131	schlof	1	sch l o f - -
-097/133	NA	NA	- - - - - - -
+097/133	NA	NA	-
 097/139	schlof	1	sch l o f - -
 097/141	schlof	1	sch l o f - -
 097/143	schlof	1	sch l o f - -
@@ -5323,7 +5323,7 @@
 099/073	schlof	1	sch l o f - -
 099/075	schlof	1	sch l o f - -
 099/077	schlof	1	sch l o f - -
-099/081	NA	NA	- - - - - - -
+099/081	NA	NA	-
 099/083	schlaf	1	sch l a f - -
 099/085	schlof	1	sch l o f - -
 099/089	schlof	1	sch l o f - -
@@ -5342,7 +5342,7 @@
 099/125	schlof	1	sch l o f - -
 099/131	schlof	1	sch l o f - -
 099/137	schlof	1	sch l o f - -
-099/139	NA	NA	- - - - - - -
+099/139	NA	NA	-
 099/141	schlof	1	sch l o f - -
 099/143	schlaf	1	sch l a f - -
 099/145	schlouff	1	sch l ou ff - -
@@ -5386,7 +5386,7 @@
 100/125	schlof	1	sch l o f - -
 100/127	schlof	1	sch l o f - -
 100/129	schlof	1	sch l o f - -
-100/133	NA	NA	- - - - - - -
+100/133	NA	NA	-
 100/135	schlof	1	sch l o f - -
 100/141	schloff	1	sch l o ff - -
 100/143	schlouf	1	sch l ou f - -
@@ -5520,7 +5520,7 @@
 103/137	schlof	1	sch l o f - -
 103/139	schlof	1	sch l o f - -
 103/141	schlouf	1	sch l ou f - -
-103/143	NA	NA	- - - - - - -
+103/143	NA	NA	-
 103/145	schlouf	1	sch l ou f - -
 104/033	schlaf	1	sch l a f - -
 104/035	schlof	1	sch l o f - -
@@ -5610,7 +5610,7 @@
 105/133	schlof	1	sch l o f - -
 105/135	gschnoacht	2	g sch n oa - ch t
 105/137	schlof	1	sch l o f - -
-105/141	NA	NA	- - - - - - -
+105/141	NA	NA	-
 105/143	schlof	1	sch l o f - -
 105/145	schlaf	1	sch l a f - -
 106/033	schlaff	1	sch l a ff - -
@@ -5627,7 +5627,7 @@
 106/057	schlaf	1	sch l a f - -
 106/061	schlouf	1	sch l ou f - -
 106/063	schlof	1	sch l o f - -
-106/067	NA	NA	- - - - - - -
+106/067	NA	NA	-
 106/071	schlof	1	sch l o f - -
 106/073	schlof	1	sch l o f - -
 106/075	schlof	1	sch l o f - -
@@ -5862,7 +5862,7 @@
 113/085	schlof	1	sch l o f - -
 113/087	schlof	1	sch l o f - -
 113/121	schlof	1	sch l o f - -
-113/123	NA	NA	- - - - - - -
+113/123	NA	NA	-
 114/035	schlaf	1	sch l a f - -
 114/045	schlaf	1	sch l a f - -
 114/083	schlof	1	sch l o f - -
@@ -5883,7 +5883,7 @@
 121/127	schlouf	1	sch l ou f - -
 122/127	schluf	1	sch l u f - -
 122/129	schlouf	1	sch l ou f - -
-123/081	NA	NA	- - - - - - -
+123/081	NA	NA	-
 123/123	schlouf	1	sch l ou f - -
 123/125	schuf	1	sch u - f - -
 123/127	schlof	1	sch l o f - -

@@ -20,7 +20,7 @@
 008/207	brenn	1	- b r e - - - nn -
 008/209	brenn	1	- b r e - - - nn -
 008/211	brenn	1	- b r e - - - nn -
-008/213	NA	NA	- - - - - - - - -
+008/213	NA	NA	-
 009/199	brenn	1	- b r e - - - nn -
 009/203	brenn	1	- b r e - - - nn -
 009/207	brenn	1	- b r e - - - nn -
@@ -39,13 +39,13 @@
 010/217	brenn	1	- b r e - - - nn -
 010/219	brenn	1	- b r e - - - nn -
 011/049	bron	1	- b r o - - - n -
-011/053	NA	NA	- - - - - - - - -
-011/055	NA	NA	- - - - - - - - -
+011/053	NA	NA	-
+011/055	NA	NA	-
 011/057	bron	1	- b r o - - - n -
 011/059	brän	1	- b r ä - - - n -
 011/061	bron	1	- b r o - - - n -
-011/063	NA	NA	- - - - - - - - -
-011/065	NA	NA	- - - - - - - - -
+011/063	NA	NA	-
+011/065	NA	NA	-
 011/067	brän	1	- b r ä - - - n -
 011/069	brön	1	- b r ö - - - n -
 011/187	brenn	1	- b r e - - - nn -
@@ -95,7 +95,7 @@
 012/223	brenn	1	- b r e - - - nn -
 013/051	brahn	1	- b r ah - - - n -
 013/053	braan	1	- b r aa - - - n -
-013/055	NA	NA	- - - - - - - - -
+013/055	NA	NA	-
 013/057	brön	1	- b r ö - - - n -
 013/059	brenn	1	- b r e - - - nn -
 013/061	brenn	1	- b r e - - - nn -
@@ -173,7 +173,7 @@
 015/105	brenn	1	- b r e - - - nn -
 015/107	brenn	1	- b r e - - - nn -
 015/109	brenn	1	- b r e - - - nn -
-015/151	NA	NA	- - - - - - - - -
+015/151	NA	NA	-
 015/153	brehn	1	- b r eh - - - n -
 015/155	brinn	1	- b r i - - - nn -
 015/157	brinn	1	- b r i - - - nn -
@@ -198,7 +198,7 @@
 015/211	brenn	1	- b r e - - - nn -
 015/213	brenn	1	- b r e - - - nn -
 015/215	brenn	1	- b r e - - - nn -
-015/217	NA	NA	- - - - - - - - -
+015/217	NA	NA	-
 015/219	brenn	1	- b r e - - - nn -
 015/221	brenn	1	- b r e - - - nn -
 016/051	born	1	- b - o r - - n -
@@ -284,7 +284,7 @@
 017/203	brenn	1	- b r e - - - nn -
 017/205	brenn	1	- b r e - - - nn -
 017/207	brenn	1	- b r e - - - nn -
-017/209	NA	NA	- - - - - - - - -
+017/209	NA	NA	-
 017/211	brenn	1	- b r e - - - nn -
 017/213	brenn	1	- b r e - - - nn -
 017/215	brenn	1	- b r e - - - nn -
@@ -444,7 +444,7 @@
 020/157	brinn	1	- b r i - - - nn -
 020/159	brinn	1	- b r i - - - nn -
 020/161	brenn	1	- b r e - - - nn -
-020/163	NA	NA	- - - - - - - - -
+020/163	NA	NA	-
 020/165	brenn	1	- b r e - - - nn -
 020/167	brenn	1	- b r e - - - nn -
 020/169	brenn	1	- b r e - - - nn -
@@ -486,7 +486,7 @@
 021/075	brenn	1	- b r e - - - nn -
 021/077	brenn	1	- b r e - - - nn -
 021/079	brenn	1	- b r e - - - nn -
-021/087	NA	NA	- - - - - - - - -
+021/087	NA	NA	-
 021/089	brenn	1	- b r e - - - nn -
 021/091	brenn	1	- b r e - - - nn -
 021/093	brenn	1	- b r e - - - nn -
@@ -552,7 +552,7 @@
 022/069	brenn	1	- b r e - - - nn -
 022/071	brenn	1	- b r e - - - nn -
 022/073	brenn	1	- b r e - - - nn -
-022/075	NA	NA	- - - - - - - - -
+022/075	NA	NA	-
 022/077	brenn	1	- b r e - - - nn -
 022/087	brenn	1	- b r e - - - nn -
 022/089	brenn	1	- b r e - - - nn -
@@ -574,7 +574,7 @@
 022/131	brinn	1	- b r i - - - nn -
 022/133	brenn	1	- b r e - - - nn -
 022/135	brin	1	- b r i - - - n -
-022/137	backt	NA	- - b a ck t - - -
+022/137	backt	NA	-
 022/139	brenn	1	- b r e - - - nn -
 022/141	bren	1	- b r e - - - n -
 022/143	bren	1	- b r e - - - n -
@@ -596,7 +596,7 @@
 022/179	brenn	1	- b r e - - - nn -
 022/181	brenn	1	- b r e - - - nn -
 022/183	brenn	1	- b r e - - - nn -
-022/185	NA	NA	- - - - - - - - -
+022/185	NA	NA	-
 022/187	brenn	1	- b r e - - - nn -
 022/189	brenn	1	- b r e - - - nn -
 022/191	brenn	1	- b r e - - - nn -
@@ -605,7 +605,7 @@
 022/197	bränn	1	- b r ä - - - nn -
 022/199	brenn	1	- b r e - - - nn -
 022/201	brenn	1	- b r e - - - nn -
-022/203	NA	NA	- - - - - - - - -
+022/203	NA	NA	-
 022/205	brenn	1	- b r e - - - nn -
 022/209	brenn	1	- b r e - - - nn -
 022/211	brenn	1	- b r e - - - nn -
@@ -682,7 +682,7 @@
 023/205	brann	1	- b r a - - - nn -
 023/207	brenn	1	- b r e - - - nn -
 023/215	brenn	1	- b r e - - - nn -
-023/217	NA	NA	- - - - - - - - -
+023/217	NA	NA	-
 024/053	brenn	1	- b r e - - - nn -
 024/057	brenn	1	- b r e - - - nn -
 024/059	brenn	1	- b r e - - - nn -
@@ -751,7 +751,7 @@
 024/195	brenn	1	- b r e - - - nn -
 024/197	brenn	1	- b r e - - - nn -
 024/199	brenn	1	- b r e - - - nn -
-024/201	NA	NA	- - - - - - - - -
+024/201	NA	NA	-
 024/203	brenn	1	- b r e - - - nn -
 024/217	bränn	1	- b r ä - - - nn -
 024/221	bränn	1	- b r ä - - - nn -
@@ -783,7 +783,7 @@
 025/101	brenn	1	- b r e - - - nn -
 025/103	brenn	1	- b r e - - - nn -
 025/105	brenn	1	- b r e - - - nn -
-025/107	NA	NA	- - - - - - - - -
+025/107	NA	NA	-
 025/109	brenn	1	- b r e - - - nn -
 025/111	brenn	1	- b r e - - - nn -
 025/113	brenn	1	- b r e - - - nn -
@@ -1191,7 +1191,7 @@
 031/065	brenn	1	- b r e - - - nn -
 031/067	brenn	1	- b r e - - - nn -
 031/069	brenn	1	- b r e - - - nn -
-031/071	NA	NA	- - - - - - - - -
+031/071	NA	NA	-
 031/073	brenn	1	- b r e - - - nn -
 031/075	brenn	1	- b r e - - - nn -
 031/077	brenn	1	- b r e - - - nn -
@@ -1799,7 +1799,7 @@
 040/095	bräenn	1	- b r äe - - - nn -
 040/097	bränn	1	- b r ä - - - nn -
 040/099	brenn	1	- b r e - - - nn -
-040/101	NA	NA	- - - - - - - - -
+040/101	NA	NA	-
 040/103	brenn	1	- b r e - - - nn -
 040/105	bränn	1	- b r ä - - - nn -
 040/107	brenn	1	- b r e - - - nn -
@@ -1995,7 +1995,7 @@
 043/125	brann	1	- b r a - - - nn -
 043/127	brann	1	- b r a - - - nn -
 043/129	brann	1	- b r a - - - nn -
-043/131	NA	NA	- - - - - - - - -
+043/131	NA	NA	-
 043/133	brann	1	- b r a - - - nn -
 043/135	bronn	1	- b r o - - - nn -
 043/137	brann	1	- b r a - - - nn -
@@ -2447,7 +2447,7 @@
 051/043	brann	1	- b r a - - - nn -
 051/045	brann	1	- b r a - - - nn -
 051/047	brann	1	- b r a - - - nn -
-051/049	NA	NA	- - - - - - - - -
+051/049	NA	NA	-
 051/051	brann	1	- b r a - - - nn -
 051/053	brann	1	- b r a - - - nn -
 051/055	bränn	1	- b r ä - - - nn -
@@ -2567,7 +2567,7 @@
 052/151	brann	1	- b r a - - - nn -
 052/153	bran	1	- b r a - - - n -
 052/155	bronn	1	- b r o - - - nn -
-052/157	NA	NA	- - - - - - - - -
+052/157	NA	NA	-
 052/159	brann	1	- b r a - - - nn -
 053/023	bronn	1	- b r o - - - nn -
 053/025	brahn	1	- b r ah - - - n -
@@ -2756,7 +2756,7 @@
 055/119	brann	1	- b r a - - - nn -
 055/123	brann	1	- b r a - - - nn -
 055/125	brann	1	- b r a - - - nn -
-055/127	NA	NA	- - - - - - - - -
+055/127	NA	NA	-
 055/131	brann	1	- b r a - - - nn -
 055/133	bran	1	- b r a - - - n -
 055/135	gewurn	1	ge w - u r - - n -
@@ -2842,7 +2842,7 @@
 056/155	brann	1	- b r a - - - nn -
 056/157	brann	1	- b r a - - - nn -
 056/159	brann	1	- b r a - - - nn -
-056/161	NA	NA	- - - - - - - - -
+056/161	NA	NA	-
 057/021	brenn	1	- b r e - - - nn -
 057/023	brang	1	- b r a - - - ng -
 057/025	brang	1	- b r a - - - ng -
@@ -2971,7 +2971,7 @@
 058/127	brann	1	- b r a - - - nn -
 058/129	brann	1	- b r a - - - nn -
 058/131	brann	1	- b r a - - - nn -
-058/133	NA	NA	- - - - - - - - -
+058/133	NA	NA	-
 058/135	brann	1	- b r a - - - nn -
 058/137	bran	1	- b r a - - - n -
 058/139	bran	1	- b r a - - - n -
@@ -2983,7 +2983,7 @@
 058/151	brann	1	- b r a - - - nn -
 058/153	brann	1	- b r a - - - nn -
 058/155	brann	1	- b r a - - - nn -
-058/157	NA	NA	- - - - - - - - -
+058/157	NA	NA	-
 058/159	brann	1	- b r a - - - nn -
 059/019	borr	1	- b - o rr - - - -
 059/021	brenn	1	- b r e - - - nn -
@@ -3179,7 +3179,7 @@
 061/113	brann	1	- b r a - - - nn -
 061/115	brann	1	- b r a - - - nn -
 061/117	brann	1	- b r a - - - nn -
-061/119	NA	NA	- - - - - - - - -
+061/119	NA	NA	-
 061/121	brann	1	- b r a - - - nn -
 061/123	brann	1	- b r a - - - nn -
 061/125	brann	1	- b r a - - - nn -
@@ -3319,13 +3319,13 @@
 063/109	brann	1	- b r a - - - nn -
 063/111	brann	1	- b r a - - - nn -
 063/113	brann	1	- b r a - - - nn -
-063/115	NA	NA	- - - - - - - - -
+063/115	NA	NA	-
 063/117	brann	1	- b r a - - - nn -
 063/119	brann	1	- b r a - - - nn -
-063/121	NA	NA	- - - - - - - - -
+063/121	NA	NA	-
 063/123	brann	1	- b r a - - - nn -
 063/125	brann	1	- b r a - - - nn -
-063/127	NA	NA	- - - - - - - - -
+063/127	NA	NA	-
 063/135	bronn	1	- b r o - - - nn -
 063/137	brann	1	- b r a - - - nn -
 063/139	brann	1	- b r a - - - nn -
@@ -3390,7 +3390,7 @@
 064/113	brenn	1	- b r e - - - nn -
 064/115	brann	1	- b r a - - - nn -
 064/117	brann	1	- b r a - - - nn -
-064/119	NA	NA	- - - - - - - - -
+064/119	NA	NA	-
 064/121	brann	1	- b r a - - - nn -
 064/123	brann	1	- b r a - - - nn -
 064/125	brann	1	- b r a - - - nn -
@@ -3449,8 +3449,8 @@
 065/097	bren	1	- b r e - - - n -
 065/101	brann	1	- b r a - - - nn -
 065/103	brann	1	- b r a - - - nn -
-065/105	NA	NA	- - - - - - - - -
-065/107	NA	NA	- - - - - - - - -
+065/105	NA	NA	-
+065/107	NA	NA	-
 065/109	brenn	1	- b r e - - - nn -
 065/111	brenn	1	- b r e - - - nn -
 065/113	brenn	1	- b r e - - - nn -
@@ -3508,14 +3508,14 @@
 066/095	brenn	1	- b r e - - - nn -
 066/097	bränn	1	- b r ä - - - nn -
 066/099	brenn	1	- b r e - - - nn -
-066/101	NA	NA	- - - - - - - - -
+066/101	NA	NA	-
 066/103	brenn	1	- b r e - - - nn -
-066/105	NA	NA	- - - - - - - - -
+066/105	NA	NA	-
 066/107	bränn	1	- b r ä - - - nn -
 066/109	brenn	1	- b r e - - - nn -
 066/111	brenn	1	- b r e - - - nn -
 066/113	brenn	1	- b r e - - - nn -
-066/121	NA	NA	- - - - - - - - -
+066/121	NA	NA	-
 066/139	bronn	1	- b r o - - - nn -
 066/143	brann	1	- b r a - - - nn -
 066/145	brann	1	- b r a - - - nn -
@@ -3630,7 +3630,7 @@
 068/099	bren	1	- b r e - - - n -
 068/101	brenn	1	- b r e - - - nn -
 068/103	brenn	1	- b r e - - - nn -
-068/105	NA	NA	- - - - - - - - -
+068/105	NA	NA	-
 068/107	brenn	1	- b r e - - - nn -
 068/109	brenn	1	- b r e - - - nn -
 068/111	brenn	1	- b r e - - - nn -
@@ -3642,7 +3642,7 @@
 068/155	brann	1	- b r a - - - nn -
 068/157	brann	1	- b r a - - - nn -
 068/159	braan	1	- b r aa - - - n -
-068/161	NA	NA	- - - - - - - - -
+068/161	NA	NA	-
 068/165	brenn	1	- b r e - - - nn -
 069/019	brann	1	- b r a - - - nn -
 069/023	brann	1	- b r a - - - nn -
@@ -3708,7 +3708,7 @@
 070/033	brann	1	- b r a - - - nn -
 070/035	brann	1	- b r a - - - nn -
 070/037	brann	1	- b r a - - - nn -
-070/039	NA	NA	- - - - - - - - -
+070/039	NA	NA	-
 070/041	brann	1	- b r a - - - nn -
 070/043	brenn	1	- b r e - - - nn -
 070/045	brenn	1	- b r e - - - nn -
@@ -3795,7 +3795,7 @@
 071/091	brenn	1	- b r e - - - nn -
 071/093	brenn	1	- b r e - - - nn -
 071/095	brenn	1	- b r e - - - nn -
-071/097	NA	NA	- - - - - - - - -
+071/097	NA	NA	-
 071/099	bren	1	- b r e - - - n -
 071/101	pren	1	- p r e - - - n -
 071/103	gwuon	1	g w - uo - - - n -
@@ -3804,12 +3804,12 @@
 071/147	bronn	1	- b r o - - - nn -
 071/149	brann	1	- b r a - - - nn -
 071/151	brann	1	- b r a - - - nn -
-071/153	NA	NA	- - - - - - - - -
+071/153	NA	NA	-
 071/155	bronn	1	- b r o - - - nn -
 071/157	bronn	1	- b r o - - - nn -
 071/159	brann	1	- b r a - - - nn -
 071/161	brann	1	- b r a - - - nn -
-071/163	NA	NA	- - - - - - - - -
+071/163	NA	NA	-
 071/177	bran	1	- b r a - - - n -
 071/179	brenn	1	- b r e - - - nn -
 072/017	brann	1	- b r a - - - nn -
@@ -3862,7 +3862,7 @@
 072/147	bronn	1	- b r o - - - nn -
 072/149	bron	1	- b r o - - - n -
 072/151	bronn	1	- b r o - - - nn -
-072/153	NA	NA	- - - - - - - - -
+072/153	NA	NA	-
 072/155	bronn	1	- b r o - - - nn -
 072/157	brann	1	- b r a - - - nn -
 072/159	brann	1	- b r a - - - nn -
@@ -3916,14 +3916,14 @@
 073/103	brenn	1	- b r e - - - nn -
 073/105	brenn	1	- b r e - - - nn -
 073/107	brenn	1	- b r e - - - nn -
-073/145	NA	NA	- - - - - - - - -
+073/145	NA	NA	-
 073/147	bron	1	- b r o - - - n -
 073/149	bronn	1	- b r o - - - nn -
-073/151	NA	NA	- - - - - - - - -
+073/151	NA	NA	-
 073/153	brenn	1	- b r e - - - nn -
 073/155	bronn	1	- b r o - - - nn -
 073/157	bronn	1	- b r o - - - nn -
-073/159	NA	NA	- - - - - - - - -
+073/159	NA	NA	-
 073/161	bran	1	- b r a - - - n -
 073/163	brann	1	- b r a - - - nn -
 073/165	brann	1	- b r a - - - nn -
@@ -3979,7 +3979,7 @@
 074/147	bron	1	- b r o - - - n -
 074/149	bron	1	- b r o - - - n -
 074/153	brenn	1	- b r e - - - nn -
-074/155	NA	NA	- - - - - - - - -
+074/155	NA	NA	-
 074/157	bronn	1	- b r o - - - nn -
 074/159	brann	1	- b r a - - - nn -
 074/161	brann	1	- b r a - - - nn -
@@ -4033,13 +4033,13 @@
 075/135	brejn	1	- b r ej - - - n -
 075/145	bronn	1	- b r o - - - nn -
 075/147	bronn	1	- b r o - - - nn -
-075/149	NA	NA	- - - - - - - - -
+075/149	NA	NA	-
 075/155	brenn	1	- b r e - - - nn -
 075/157	bronn	1	- b r o - - - nn -
 075/159	brann	1	- b r a - - - nn -
 075/161	brann	1	- b r a - - - nn -
 075/163	brann	1	- b r a - - - nn -
-075/165	NA	NA	- - - - - - - - -
+075/165	NA	NA	-
 076/019	bran	1	- b r a - - - n -
 076/021	brann	1	- b r a - - - nn -
 076/023	broan	1	- b r oa - - - n -
@@ -4068,7 +4068,7 @@
 076/071	brenn	1	- b r e - - - nn -
 076/073	brenn	1	- b r e - - - nn -
 076/075	brenn	1	- b r e - - - nn -
-076/077	NA	NA	- - - - - - - - -
+076/077	NA	NA	-
 076/079	brenn	1	- b r e - - - nn -
 076/081	brenn	1	- b r e - - - nn -
 076/083	brenn	1	- b r e - - - nn -
@@ -4108,12 +4108,12 @@
 077/051	brenn	1	- b r e - - - nn -
 077/053	bränn	1	- b r ä - - - nn -
 077/055	brenn	1	- b r e - - - nn -
-077/057	NA	NA	- - - - - - - - -
+077/057	NA	NA	-
 077/059	bränn	1	- b r ä - - - nn -
 077/061	brenn	1	- b r e - - - nn -
 077/063	brenn	1	- b r e - - - nn -
 077/065	brenn	1	- b r e - - - nn -
-077/067	NA	NA	- - - - - - - - -
+077/067	NA	NA	-
 077/069	brenn	1	- b r e - - - nn -
 077/071	brenn	1	- b r e - - - nn -
 077/073	brann	1	- b r a - - - nn -
@@ -4178,14 +4178,14 @@
 078/105	brenn	1	- b r e - - - nn -
 078/135	brenn	1	- b r e - - - nn -
 078/193	prenn	1	- p r e - - - nn -
-079/021	NA	NA	- - - - - - - - -
+079/021	NA	NA	-
 079/023	brann	1	- b r a - - - nn -
 079/025	brann	1	- b r a - - - nn -
 079/027	brann	1	- b r a - - - nn -
 079/029	brann	1	- b r a - - - nn -
 079/031	brenn	1	- b r e - - - nn -
 079/033	brenn	1	- b r e - - - nn -
-079/035	NA	NA	- - - - - - - - -
+079/035	NA	NA	-
 079/037	brenn	1	- b r e - - - nn -
 079/039	brenn	1	- b r e - - - nn -
 079/043	brenn	1	- b r e - - - nn -
@@ -4309,13 +4309,13 @@
 081/089	brenn	1	- b r e - - - nn -
 081/091	brenn	1	- b r e - - - nn -
 081/093	brenn	1	- b r e - - - nn -
-081/095	NA	NA	- - - - - - - - -
+081/095	NA	NA	-
 081/097	brenn	1	- b r e - - - nn -
-081/099	NA	NA	- - - - - - - - -
+081/099	NA	NA	-
 081/101	brön	1	- b r ö - - - n -
 081/103	brenn	1	- b r e - - - nn -
-081/105	NA	NA	- - - - - - - - -
-081/107	NA	NA	- - - - - - - - -
+081/105	NA	NA	-
+081/107	NA	NA	-
 081/109	brenn	1	- b r e - - - nn -
 081/111	brun	1	- b r u - - - n -
 081/127	brein	1	- b r ei - - - n -
@@ -4372,8 +4372,8 @@
 082/129	brein	1	- b r ei - - - n -
 082/131	bräin	1	- b r äi - - - n -
 082/133	brain	1	- b r ai - - - n -
-082/135	NA	NA	- - - - - - - - -
-082/145	NA	NA	- - - - - - - - -
+082/135	NA	NA	-
+082/145	NA	NA	-
 082/147	brenn	1	- b r e - - - nn -
 082/191	brie	1	- b r ie - - - - -
 082/195	brih	1	- b r ih - - - - -
@@ -4419,14 +4419,14 @@
 083/105	brenn	1	- b r e - - - nn -
 083/107	brenn	1	- b r e - - - nn -
 083/111	brenn	1	- b r e - - - nn -
-083/113	NA	NA	- - - - - - - - -
+083/113	NA	NA	-
 083/115	brein	1	- b r ei - - - n -
-083/117	NA	NA	- - - - - - - - -
+083/117	NA	NA	-
 083/119	brein	1	- b r ei - - - n -
 083/121	brejnn	1	- b r ej - - - nn -
 083/129	brenn	1	- b r e - - - nn -
 083/131	brein	1	- b r ei - - - n -
-083/133	NA	NA	- - - - - - - - -
+083/133	NA	NA	-
 083/135	breinn	1	- b r ei - - - nn -
 083/139	brenn	1	- b r e - - - nn -
 083/143	bren	1	- b r e - - - n -
@@ -4484,15 +4484,15 @@
 084/131	brenn	1	- b r e - - - nn -
 084/133	brenn	1	- b r e - - - nn -
 084/135	brenn	1	- b r e - - - nn -
-084/137	NA	NA	- - - - - - - - -
-084/139	NA	NA	- - - - - - - - -
+084/137	NA	NA	-
+084/139	NA	NA	-
 084/141	bren	1	- b r e - - - n -
 084/143	brein	1	- b r ei - - - n -
 084/145	brenn	1	- b r e - - - nn -
 084/147	brenn	1	- b r e - - - nn -
 084/149	bren	1	- b r e - - - n -
-084/171	NA	NA	- - - - - - - - -
-084/173	NA	NA	- - - - - - - - -
+084/171	NA	NA	-
+084/173	NA	NA	-
 084/195	brie	1	- b r ie - - - - -
 085/031	brenn	1	- b r e - - - nn -
 085/033	brenn	1	- b r e - - - nn -
@@ -4507,7 +4507,7 @@
 085/051	brenn	1	- b r e - - - nn -
 085/053	brenn	1	- b r e - - - nn -
 085/055	brenn	1	- b r e - - - nn -
-085/057	NA	NA	- - - - - - - - -
+085/057	NA	NA	-
 085/059	brenn	1	- b r e - - - nn -
 085/061	brenn	1	- b r e - - - nn -
 085/063	brenn	1	- b r e - - - nn -
@@ -4529,17 +4529,17 @@
 085/095	brenn	1	- b r e - - - nn -
 085/097	bronn	1	- b r o - - - nn -
 085/101	brenn	1	- b r e - - - nn -
-085/103	NA	NA	- - - - - - - - -
+085/103	NA	NA	-
 085/105	bren	1	- b r e - - - n -
 085/107	brenn	1	- b r e - - - nn -
 085/109	bren	1	- b r e - - - n -
 085/111	brenn	1	- b r e - - - nn -
 085/113	brenn	1	- b r e - - - nn -
-085/115	NA	NA	- - - - - - - - -
+085/115	NA	NA	-
 085/117	brein	1	- b r ei - - - n -
 085/119	brenn	1	- b r e - - - nn -
 085/121	brenn	1	- b r e - - - nn -
-085/123	NA	NA	- - - - - - - - -
+085/123	NA	NA	-
 085/125	brein	1	- b r ei - - - n -
 085/127	brein	1	- b r ei - - - n -
 085/129	brenn	1	- b r e - - - nn -
@@ -4569,12 +4569,12 @@
 086/053	brenn	1	- b r e - - - nn -
 086/055	brenn	1	- b r e - - - nn -
 086/057	brenn	1	- b r e - - - nn -
-086/059	NA	NA	- - - - - - - - -
-086/061	NA	NA	- - - - - - - - -
+086/059	NA	NA	-
+086/061	NA	NA	-
 086/063	brenn	1	- b r e - - - nn -
 086/065	brenn	1	- b r e - - - nn -
 086/067	brenn	1	- b r e - - - nn -
-086/069	NA	NA	- - - - - - - - -
+086/069	NA	NA	-
 086/071	brenn	1	- b r e - - - nn -
 086/073	brenn	1	- b r e - - - nn -
 086/075	brenn	1	- b r e - - - nn -
@@ -4582,9 +4582,9 @@
 086/079	brenn	1	- b r e - - - nn -
 086/081	bräinn	1	- b r äi - - - nn -
 086/083	bren	1	- b r e - - - n -
-086/085	NA	NA	- - - - - - - - -
+086/085	NA	NA	-
 086/087	brenn	1	- b r e - - - nn -
-086/089	NA	NA	- - - - - - - - -
+086/089	NA	NA	-
 086/091	brenn	1	- b r e - - - nn -
 086/093	brenn	1	- b r e - - - nn -
 086/095	brenn	1	- b r e - - - nn -
@@ -4599,9 +4599,9 @@
 086/113	brenn	1	- b r e - - - nn -
 086/115	brenn	1	- b r e - - - nn -
 086/117	brän	1	- b r ä - - - n -
-086/119	NA	NA	- - - - - - - - -
+086/119	NA	NA	-
 086/121	brain	1	- b r ai - - - n -
-086/123	NA	NA	- - - - - - - - -
+086/123	NA	NA	-
 086/125	brein	1	- b r ei - - - n -
 086/127	brenn	1	- b r e - - - nn -
 086/129	bran	1	- b r a - - - n -
@@ -4629,7 +4629,7 @@
 087/049	brenn	1	- b r e - - - nn -
 087/051	brenn	1	- b r e - - - nn -
 087/053	brenn	1	- b r e - - - nn -
-087/055	NA	NA	- - - - - - - - -
+087/055	NA	NA	-
 087/057	brenn	1	- b r e - - - nn -
 087/059	brenn	1	- b r e - - - nn -
 087/061	brenn	1	- b r e - - - nn -
@@ -4638,9 +4638,9 @@
 087/067	brenn	1	- b r e - - - nn -
 087/069	brenn	1	- b r e - - - nn -
 087/071	brenn	1	- b r e - - - nn -
-087/073	NA	NA	- - - - - - - - -
+087/073	NA	NA	-
 087/075	brenn	1	- b r e - - - nn -
-087/077	NA	NA	- - - - - - - - -
+087/077	NA	NA	-
 087/079	brenn	1	- b r e - - - nn -
 087/081	brenn	1	- b r e - - - nn -
 087/083	brenn	1	- b r e - - - nn -
@@ -4656,7 +4656,7 @@
 087/103	brenn	1	- b r e - - - nn -
 087/105	bren	1	- b r e - - - n -
 087/107	brenn	1	- b r e - - - nn -
-087/109	NA	NA	- - - - - - - - -
+087/109	NA	NA	-
 087/111	brenn	1	- b r e - - - nn -
 087/113	brenn	1	- b r e - - - nn -
 087/115	brenn	1	- b r e - - - nn -
@@ -4674,7 +4674,7 @@
 087/141	brenn	1	- b r e - - - nn -
 087/143	bren	1	- b r e - - - n -
 087/145	breenn	1	- b r ee - - - nn -
-087/147	NA	NA	- - - - - - - - -
+087/147	NA	NA	-
 087/149	bren	1	- b r e - - - n -
 087/151	brenn	1	- b r e - - - nn -
 088/035	brann	1	- b r a - - - nn -
@@ -4684,7 +4684,7 @@
 088/043	bränn	1	- b r ä - - - nn -
 088/045	brenn	1	- b r e - - - nn -
 088/047	brenn	1	- b r e - - - nn -
-088/049	NA	NA	- - - - - - - - -
+088/049	NA	NA	-
 088/051	brenn	1	- b r e - - - nn -
 088/053	brenn	1	- b r e - - - nn -
 088/055	brenn	1	- b r e - - - nn -
@@ -4693,7 +4693,7 @@
 088/061	brenn	1	- b r e - - - nn -
 088/063	brenn	1	- b r e - - - nn -
 088/065	brenn	1	- b r e - - - nn -
-088/067	NA	NA	- - - - - - - - -
+088/067	NA	NA	-
 088/069	brenn	1	- b r e - - - nn -
 088/071	brenn	1	- b r e - - - nn -
 088/073	bronn	1	- b r o - - - nn -
@@ -4725,7 +4725,7 @@
 088/131	brenn	1	- b r e - - - nn -
 088/137	brenn	1	- b r e - - - nn -
 088/139	bren	1	- b r e - - - n -
-088/141	NA	NA	- - - - - - - - -
+088/141	NA	NA	-
 088/143	brenn	1	- b r e - - - nn -
 088/145	brenn	1	- b r e - - - nn -
 088/147	brenn	1	- b r e - - - nn -
@@ -4749,9 +4749,9 @@
 089/067	brenn	1	- b r e - - - nn -
 089/069	brenn	1	- b r e - - - nn -
 089/071	brenn	1	- b r e - - - nn -
-089/073	NA	NA	- - - - - - - - -
+089/073	NA	NA	-
 089/075	brenn	1	- b r e - - - nn -
-089/077	NA	NA	- - - - - - - - -
+089/077	NA	NA	-
 089/079	brenn	1	- b r e - - - nn -
 089/081	brenn	1	- b r e - - - nn -
 089/083	brenn	1	- b r e - - - nn -
@@ -4768,13 +4768,13 @@
 089/105	brenn	1	- b r e - - - nn -
 089/107	brenn	1	- b r e - - - nn -
 089/109	brenn	1	- b r e - - - nn -
-089/111	NA	NA	- - - - - - - - -
+089/111	NA	NA	-
 089/113	brenn	1	- b r e - - - nn -
 089/115	brenn	1	- b r e - - - nn -
 089/117	brenn	1	- b r e - - - nn -
 089/119	brenn	1	- b r e - - - nn -
 089/121	brenn	1	- b r e - - - nn -
-089/123	NA	NA	- - - - - - - - -
+089/123	NA	NA	-
 089/125	brenn	1	- b r e - - - nn -
 089/127	brenn	1	- b r e - - - nn -
 089/129	brenn	1	- b r e - - - nn -
@@ -4786,7 +4786,7 @@
 089/141	brenn	1	- b r e - - - nn -
 089/143	brenn	1	- b r e - - - nn -
 089/145	bren	1	- b r e - - - n -
-089/147	NA	NA	- - - - - - - - -
+089/147	NA	NA	-
 089/149	bren	1	- b r e - - - n -
 090/035	brann	1	- b r a - - - nn -
 090/037	brann	1	- b r a - - - nn -
@@ -4813,7 +4813,7 @@
 090/079	brenn	1	- b r e - - - nn -
 090/081	brenn	1	- b r e - - - nn -
 090/083	brenn	1	- b r e - - - nn -
-090/085	NA	NA	- - - - - - - - -
+090/085	NA	NA	-
 090/087	brönn	1	- b r ö - - - nn -
 090/089	brenn	1	- b r e - - - nn -
 090/091	brenn	1	- b r e - - - nn -
@@ -4825,25 +4825,25 @@
 090/103	brenn	1	- b r e - - - nn -
 090/105	brenn	1	- b r e - - - nn -
 090/107	brenn	1	- b r e - - - nn -
-090/109	NA	NA	- - - - - - - - -
+090/109	NA	NA	-
 090/111	brenn	1	- b r e - - - nn -
 090/113	brenn	1	- b r e - - - nn -
 090/115	brenn	1	- b r e - - - nn -
 090/119	brenn	1	- b r e - - - nn -
 090/121	bren	1	- b r e - - - n -
 090/123	bren	1	- b r e - - - n -
-090/125	NA	NA	- - - - - - - - -
+090/125	NA	NA	-
 090/127	brenn	1	- b r e - - - nn -
 090/129	breinn	1	- b r ei - - - nn -
 090/131	brenn	1	- b r e - - - nn -
-090/133	NA	NA	- - - - - - - - -
+090/133	NA	NA	-
 090/135	brenn	1	- b r e - - - nn -
 090/137	brenn	1	- b r e - - - nn -
 090/139	brenn	1	- b r e - - - nn -
 090/141	brenn	1	- b r e - - - nn -
 090/143	bren	1	- b r e - - - n -
 090/145	brenn	1	- b r e - - - nn -
-090/147	NA	NA	- - - - - - - - -
+090/147	NA	NA	-
 090/149	brenn	1	- b r e - - - nn -
 090/151	brenn	1	- b r e - - - nn -
 091/035	brann	1	- b r a - - - nn -
@@ -4854,10 +4854,10 @@
 091/045	brenn	1	- b r e - - - nn -
 091/047	brenn	1	- b r e - - - nn -
 091/049	bränn	1	- b r ä - - - nn -
-091/051	NA	NA	- - - - - - - - -
-091/053	NA	NA	- - - - - - - - -
+091/051	NA	NA	-
+091/053	NA	NA	-
 091/055	brenn	1	- b r e - - - nn -
-091/057	NA	NA	- - - - - - - - -
+091/057	NA	NA	-
 091/059	brenn	1	- b r e - - - nn -
 091/061	brenn	1	- b r e - - - nn -
 091/063	brenn	1	- b r e - - - nn -
@@ -4867,7 +4867,7 @@
 091/071	brenn	1	- b r e - - - nn -
 091/073	brenn	1	- b r e - - - nn -
 091/075	brenn	1	- b r e - - - nn -
-091/077	NA	NA	- - - - - - - - -
+091/077	NA	NA	-
 091/079	brenn	1	- b r e - - - nn -
 091/081	brun	1	- b r u - - - n -
 091/083	brenn	1	- b r e - - - nn -
@@ -4887,7 +4887,7 @@
 091/113	brenn	1	- b r e - - - nn -
 091/115	brenn	1	- b r e - - - nn -
 091/117	brenn	1	- b r e - - - nn -
-091/119	NA	NA	- - - - - - - - -
+091/119	NA	NA	-
 091/121	brenn	1	- b r e - - - nn -
 091/125	bren	1	- b r e - - - n -
 091/129	brenn	1	- b r e - - - nn -
@@ -4901,7 +4901,7 @@
 091/145	bren	1	- b r e - - - n -
 091/147	bren	1	- b r e - - - n -
 091/149	brenn	1	- b r e - - - nn -
-091/151	NA	NA	- - - - - - - - -
+091/151	NA	NA	-
 091/155	pren	1	- p r e - - - n -
 092/033	bränn	1	- b r ä - - - nn -
 092/035	brann	1	- b r a - - - nn -
@@ -4916,21 +4916,21 @@
 092/053	brenn	1	- b r e - - - nn -
 092/055	brann	1	- b r a - - - nn -
 092/057	bronn	1	- b r o - - - nn -
-092/059	NA	NA	- - - - - - - - -
+092/059	NA	NA	-
 092/061	brenn	1	- b r e - - - nn -
 092/063	brenn	1	- b r e - - - nn -
 092/065	brenn	1	- b r e - - - nn -
 092/067	brenn	1	- b r e - - - nn -
 092/069	brenn	1	- b r e - - - nn -
 092/071	brenn	1	- b r e - - - nn -
-092/073	NA	NA	- - - - - - - - -
+092/073	NA	NA	-
 092/075	brenn	1	- b r e - - - nn -
 092/077	brenn	1	- b r e - - - nn -
-092/079	NA	NA	- - - - - - - - -
+092/079	NA	NA	-
 092/081	brenn	1	- b r e - - - nn -
 092/083	brenn	1	- b r e - - - nn -
 092/085	brenn	1	- b r e - - - nn -
-092/087	NA	NA	- - - - - - - - -
+092/087	NA	NA	-
 092/089	brenn	1	- b r e - - - nn -
 092/091	bren	1	- b r e - - - n -
 092/093	bren	1	- b r e - - - n -
@@ -4938,13 +4938,13 @@
 092/097	brenn	1	- b r e - - - nn -
 092/099	brenn	1	- b r e - - - nn -
 092/101	brenn	1	- b r e - - - nn -
-092/103	NA	NA	- - - - - - - - -
+092/103	NA	NA	-
 092/105	bren	1	- b r e - - - n -
 092/107	brenn	1	- b r e - - - nn -
 092/109	brenn	1	- b r e - - - nn -
 092/111	brenn	1	- b r e - - - nn -
 092/113	brenn	1	- b r e - - - nn -
-092/115	NA	NA	- - - - - - - - -
+092/115	NA	NA	-
 092/117	brenn	1	- b r e - - - nn -
 092/119	brenn	1	- b r e - - - nn -
 092/121	brenn	1	- b r e - - - nn -
@@ -4955,7 +4955,7 @@
 092/131	brenn	1	- b r e - - - nn -
 092/133	brein	1	- b r ei - - - n -
 092/135	brenn	1	- b r e - - - nn -
-092/137	NA	NA	- - - - - - - - -
+092/137	NA	NA	-
 092/139	brenn	1	- b r e - - - nn -
 092/141	bren	1	- b r e - - - n -
 092/143	brenn	1	- b r e - - - nn -
@@ -5020,7 +5020,7 @@
 093/149	brenn	1	- b r e - - - nn -
 093/151	bren	1	- b r e - - - n -
 093/153	prenn	1	- p r e - - - nn -
-093/155	NA	NA	- - - - - - - - -
+093/155	NA	NA	-
 094/033	brän	1	- b r ä - - - n -
 094/035	brenn	1	- b r e - - - nn -
 094/037	brann	1	- b r a - - - nn -
@@ -5043,7 +5043,7 @@
 094/071	brenn	1	- b r e - - - nn -
 094/073	brenn	1	- b r e - - - nn -
 094/075	brenn	1	- b r e - - - nn -
-094/077	NA	NA	- - - - - - - - -
+094/077	NA	NA	-
 094/079	brenn	1	- b r e - - - nn -
 094/081	brenn	1	- b r e - - - nn -
 094/083	brenn	1	- b r e - - - nn -
@@ -5057,7 +5057,7 @@
 094/099	bren	1	- b r e - - - n -
 094/101	brenn	1	- b r e - - - nn -
 094/103	brenn	1	- b r e - - - nn -
-094/105	NA	NA	- - - - - - - - -
+094/105	NA	NA	-
 094/107	brenn	1	- b r e - - - nn -
 094/109	brenn	1	- b r e - - - nn -
 094/111	brenn	1	- b r e - - - nn -
@@ -5071,7 +5071,7 @@
 094/127	brenn	1	- b r e - - - nn -
 094/129	brenn	1	- b r e - - - nn -
 094/131	brenn	1	- b r e - - - nn -
-094/133	NA	NA	- - - - - - - - -
+094/133	NA	NA	-
 094/135	brenn	1	- b r e - - - nn -
 094/137	brenn	1	- b r e - - - nn -
 094/139	bren	1	- b r e - - - n -
@@ -5105,7 +5105,7 @@
 095/071	brenn	1	- b r e - - - nn -
 095/073	brenn	1	- b r e - - - nn -
 095/075	brenn	1	- b r e - - - nn -
-095/077	NA	NA	- - - - - - - - -
+095/077	NA	NA	-
 095/079	brenn	1	- b r e - - - nn -
 095/081	brenn	1	- b r e - - - nn -
 095/083	bren	1	- b r e - - - n -
@@ -5115,22 +5115,22 @@
 095/091	brunn	1	- b r u - - - nn -
 095/093	brenn	1	- b r e - - - nn -
 095/095	bren	1	- b r e - - - n -
-095/097	NA	NA	- - - - - - - - -
+095/097	NA	NA	-
 095/099	bren	1	- b r e - - - n -
-095/101	NA	NA	- - - - - - - - -
+095/101	NA	NA	-
 095/103	brenn	1	- b r e - - - nn -
 095/105	brenn	1	- b r e - - - nn -
 095/107	brenn	1	- b r e - - - nn -
 095/109	brenn	1	- b r e - - - nn -
 095/111	bren	1	- b r e - - - n -
 095/113	brenn	1	- b r e - - - nn -
-095/115	NA	NA	- - - - - - - - -
+095/115	NA	NA	-
 095/117	brenn	1	- b r e - - - nn -
 095/119	brenn	1	- b r e - - - nn -
 095/121	brenn	1	- b r e - - - nn -
 095/123	brenn	1	- b r e - - - nn -
-095/125	NA	NA	- - - - - - - - -
-095/129	NA	NA	- - - - - - - - -
+095/125	NA	NA	-
+095/129	NA	NA	-
 095/131	brenn	1	- b r e - - - nn -
 095/133	brenn	1	- b r e - - - nn -
 095/139	brenn	1	- b r e - - - nn -
@@ -5159,11 +5159,11 @@
 096/059	bränn	1	- b r ä - - - nn -
 096/061	brenn	1	- b r e - - - nn -
 096/063	brenn	1	- b r e - - - nn -
-096/065	NA	NA	- - - - - - - - -
+096/065	NA	NA	-
 096/067	brenn	1	- b r e - - - nn -
 096/069	brenn	1	- b r e - - - nn -
 096/071	bronn	1	- b r o - - - nn -
-096/075	NA	NA	- - - - - - - - -
+096/075	NA	NA	-
 096/077	brenn	1	- b r e - - - nn -
 096/079	brenn	1	- b r e - - - nn -
 096/081	brenn	1	- b r e - - - nn -
@@ -5181,7 +5181,7 @@
 096/105	brenn	1	- b r e - - - nn -
 096/107	brenn	1	- b r e - - - nn -
 096/109	brenn	1	- b r e - - - nn -
-096/111	NA	NA	- - - - - - - - -
+096/111	NA	NA	-
 096/113	bren	1	- b r e - - - n -
 096/115	brenn	1	- b r e - - - nn -
 096/117	bren	1	- b r e - - - n -
@@ -5201,12 +5201,12 @@
 096/151	bräin	1	- b r äi - - - n -
 096/153	prenn	1	- p r e - - - nn -
 096/155	preinn	1	- p r ei - - - nn -
-097/031	NA	NA	- - - - - - - - -
+097/031	NA	NA	-
 097/033	brenn	1	- b r e - - - nn -
 097/035	bränn	1	- b r ä - - - nn -
 097/037	brenn	1	- b r e - - - nn -
 097/039	bränn	1	- b r ä - - - nn -
-097/041	NA	NA	- - - - - - - - -
+097/041	NA	NA	-
 097/043	brenn	1	- b r e - - - nn -
 097/045	brenn	1	- b r e - - - nn -
 097/047	bränn	1	- b r ä - - - nn -
@@ -5217,24 +5217,24 @@
 097/057	brinn	1	- b r i - - - nn -
 097/059	brenn	1	- b r e - - - nn -
 097/061	brenn	1	- b r e - - - nn -
-097/063	NA	NA	- - - - - - - - -
+097/063	NA	NA	-
 097/065	brenn	1	- b r e - - - nn -
 097/067	brenn	1	- b r e - - - nn -
 097/069	brenn	1	- b r e - - - nn -
 097/071	brenn	1	- b r e - - - nn -
-097/073	NA	NA	- - - - - - - - -
+097/073	NA	NA	-
 097/075	brenn	1	- b r e - - - nn -
-097/077	bacha	NA	- - b a ch a - - -
+097/077	bacha	NA	-
 097/079	bren	1	- b r e - - - n -
 097/081	brenn	1	- b r e - - - nn -
 097/083	bren	1	- b r e - - - n -
 097/085	brenn	1	- b r e - - - nn -
 097/087	brenn	1	- b r e - - - nn -
-097/089	NA	NA	- - - - - - - - -
+097/089	NA	NA	-
 097/091	brenn	1	- b r e - - - nn -
 097/093	brenn	1	- b r e - - - nn -
 097/095	brenn	1	- b r e - - - nn -
-097/097	NA	NA	- - - - - - - - -
+097/097	NA	NA	-
 097/099	brenn	1	- b r e - - - nn -
 097/103	bren	1	- b r e - - - n -
 097/105	brenn	1	- b r e - - - nn -
@@ -5259,19 +5259,19 @@
 098/045	bren	1	- b r e - - - n -
 098/047	brenn	1	- b r e - - - nn -
 098/049	bränn	1	- b r ä - - - nn -
-098/051	NA	NA	- - - - - - - - -
+098/051	NA	NA	-
 098/053	bren	1	- b r e - - - n -
 098/055	brenn	1	- b r e - - - nn -
 098/057	brenn	1	- b r e - - - nn -
 098/059	brenn	1	- b r e - - - nn -
 098/061	brenn	1	- b r e - - - nn -
-098/063	NA	NA	- - - - - - - - -
+098/063	NA	NA	-
 098/065	brenn	1	- b r e - - - nn -
 098/067	brenn	1	- b r e - - - nn -
 098/069	brenn	1	- b r e - - - nn -
-098/071	NA	NA	- - - - - - - - -
+098/071	NA	NA	-
 098/073	brenn	1	- b r e - - - nn -
-098/075	NA	NA	- - - - - - - - -
+098/075	NA	NA	-
 098/077	brenn	1	- b r e - - - nn -
 098/079	bren	1	- b r e - - - n -
 098/081	brenn	1	- b r e - - - nn -
@@ -5279,21 +5279,21 @@
 098/085	brenn	1	- b r e - - - nn -
 098/087	bren	1	- b r e - - - n -
 098/089	brenn	1	- b r e - - - nn -
-098/091	NA	NA	- - - - - - - - -
+098/091	NA	NA	-
 098/093	bren	1	- b r e - - - n -
 098/095	brenn	1	- b r e - - - nn -
-098/097	NA	NA	- - - - - - - - -
+098/097	NA	NA	-
 098/103	bren	1	- b r e - - - n -
 098/105	brenn	1	- b r e - - - nn -
 098/107	brein	1	- b r ei - - - n -
 098/109	brun	1	- b r u - - - n -
 098/111	brunn	1	- b r u - - - nn -
-098/119	NA	NA	- - - - - - - - -
+098/119	NA	NA	-
 098/123	brenn	1	- b r e - - - nn -
 098/125	brenn	1	- b r e - - - nn -
 098/127	bren	1	- b r e - - - n -
 098/135	brenn	1	- b r e - - - nn -
-098/137	NA	NA	- - - - - - - - -
+098/137	NA	NA	-
 098/139	brenn	1	- b r e - - - nn -
 098/141	brenn	1	- b r e - - - nn -
 098/143	brenn	1	- b r e - - - nn -
@@ -5324,7 +5324,7 @@
 099/075	brenn	1	- b r e - - - nn -
 099/077	brunn	1	- b r u - - - nn -
 099/081	brenn	1	- b r e - - - nn -
-099/083	NA	NA	- - - - - - - - -
+099/083	NA	NA	-
 099/085	brenn	1	- b r e - - - nn -
 099/089	bren	1	- b r e - - - n -
 099/093	brenn	1	- b r e - - - nn -
@@ -5335,9 +5335,9 @@
 099/105	brenn	1	- b r e - - - nn -
 099/107	brenn	1	- b r e - - - nn -
 099/109	brenn	1	- b r e - - - nn -
-099/111	NA	NA	- - - - - - - - -
+099/111	NA	NA	-
 099/113	brenn	1	- b r e - - - nn -
-099/121	NA	NA	- - - - - - - - -
+099/121	NA	NA	-
 099/123	brenn	1	- b r e - - - nn -
 099/125	bren	1	- b r e - - - n -
 099/131	brenn	1	- b r e - - - nn -
@@ -5374,7 +5374,7 @@
 100/093	bren	1	- b r e - - - n -
 100/095	brenn	1	- b r e - - - nn -
 100/097	brenn	1	- b r e - - - nn -
-100/099	NA	NA	- - - - - - - - -
+100/099	NA	NA	-
 100/101	brenn	1	- b r e - - - nn -
 100/109	brenn	1	- b r e - - - nn -
 100/111	brenn	1	- b r e - - - nn -
@@ -5396,14 +5396,14 @@
 101/039	brenn	1	- b r e - - - nn -
 101/041	brenn	1	- b r e - - - nn -
 101/043	brenn	1	- b r e - - - nn -
-101/045	NA	NA	- - - - - - - - -
+101/045	NA	NA	-
 101/047	pränn	1	- p r ä - - - nn -
 101/049	bränn	1	- b r ä - - - nn -
 101/051	brän	1	- b r ä - - - n -
 101/053	bren	1	- b r e - - - n -
 101/055	pränn	1	- p r ä - - - nn -
 101/057	pränn	1	- p r ä - - - nn -
-101/059	NA	NA	- - - - - - - - -
+101/059	NA	NA	-
 101/061	brenn	1	- b r e - - - nn -
 101/063	prenn	1	- p r e - - - nn -
 101/065	brenn	1	- b r e - - - nn -
@@ -5415,7 +5415,7 @@
 101/081	brenn	1	- b r e - - - nn -
 101/091	bren	1	- b r e - - - n -
 101/093	brenn	1	- b r e - - - nn -
-101/095	NA	NA	- - - - - - - - -
+101/095	NA	NA	-
 101/097	bren	1	- b r e - - - n -
 101/099	brenn	1	- b r e - - - nn -
 101/101	brenn	1	- b r e - - - nn -
@@ -5434,12 +5434,12 @@
 101/141	bren	1	- b r e - - - n -
 101/143	bren	1	- b r e - - - n -
 101/145	prein	1	- p r ei - - - n -
-101/147	NA	NA	- - - - - - - - -
+101/147	NA	NA	-
 102/037	brenn	1	- b r e - - - nn -
 102/039	brenn	1	- b r e - - - nn -
 102/041	brenn	1	- b r e - - - nn -
 102/043	brönn	1	- b r ö - - - nn -
-102/045	NA	NA	- - - - - - - - -
+102/045	NA	NA	-
 102/047	brönn	1	- b r ö - - - nn -
 102/049	bränn	1	- b r ä - - - nn -
 102/051	pränn	1	- p r ä - - - nn -
@@ -5449,29 +5449,29 @@
 102/059	brenn	1	- b r e - - - nn -
 102/061	brenn	1	- b r e - - - nn -
 102/063	prenn	1	- p r e - - - nn -
-102/065	NA	NA	- - - - - - - - -
+102/065	NA	NA	-
 102/067	brenn	1	- b r e - - - nn -
-102/069	NA	NA	- - - - - - - - -
+102/069	NA	NA	-
 102/071	brann	1	- b r a - - - nn -
 102/073	brenn	1	- b r e - - - nn -
 102/075	brenn	1	- b r e - - - nn -
 102/077	brenn	1	- b r e - - - nn -
 102/079	brenn	1	- b r e - - - nn -
 102/081	brenn	1	- b r e - - - nn -
-102/083	NA	NA	- - - - - - - - -
+102/083	NA	NA	-
 102/089	bren	1	- b r e - - - n -
-102/091	NA	NA	- - - - - - - - -
+102/091	NA	NA	-
 102/093	brenn	1	- b r e - - - nn -
 102/095	brunn	1	- b r u - - - nn -
 102/097	brenn	1	- b r e - - - nn -
 102/099	brenn	1	- b r e - - - nn -
-102/103	NA	NA	- - - - - - - - -
+102/103	NA	NA	-
 102/107	brenn	1	- b r e - - - nn -
 102/109	bren	1	- b r e - - - n -
 102/113	brenn	1	- b r e - - - nn -
-102/115	NA	NA	- - - - - - - - -
+102/115	NA	NA	-
 102/127	brenn	1	- b r e - - - nn -
-102/129	NA	NA	- - - - - - - - -
+102/129	NA	NA	-
 102/131	brenn	1	- b r e - - - nn -
 102/135	bren	1	- b r e - - - n -
 102/137	brenn	1	- b r e - - - nn -
@@ -5479,7 +5479,7 @@
 102/141	brenn	1	- b r e - - - nn -
 102/143	brenn	1	- b r e - - - nn -
 102/145	praain	1	- p r aai - - - n -
-103/039	NA	NA	- - - - - - - - -
+103/039	NA	NA	-
 103/041	brönn	1	- b r ö - - - nn -
 103/043	prönn	1	- p r ö - - - nn -
 103/045	brönn	1	- b r ö - - - nn -
@@ -5498,20 +5498,20 @@
 103/073	bränn	1	- b r ä - - - nn -
 103/075	brann	1	- b r a - - - nn -
 103/077	brenn	1	- b r e - - - nn -
-103/079	NA	NA	- - - - - - - - -
+103/079	NA	NA	-
 103/081	brenn	1	- b r e - - - nn -
 103/083	brenn	1	- b r e - - - nn -
 103/085	brenn	1	- b r e - - - nn -
 103/087	brenn	1	- b r e - - - nn -
-103/089	NA	NA	- - - - - - - - -
+103/089	NA	NA	-
 103/091	brenn	1	- b r e - - - nn -
-103/097	NA	NA	- - - - - - - - -
-103/099	NA	NA	- - - - - - - - -
+103/097	NA	NA	-
+103/099	NA	NA	-
 103/101	bren	1	- b r e - - - n -
-103/105	NA	NA	- - - - - - - - -
+103/105	NA	NA	-
 103/107	bren	1	- b r e - - - n -
 103/111	brenn	1	- b r e - - - nn -
-103/121	NA	NA	- - - - - - - - -
+103/121	NA	NA	-
 103/125	brenn	1	- b r e - - - nn -
 103/127	brenn	1	- b r e - - - nn -
 103/131	bren	1	- b r e - - - n -
@@ -5535,12 +5535,12 @@
 104/053	bränn	1	- b r ä - - - nn -
 104/055	bränn	1	- b r ä - - - nn -
 104/057	bränn	1	- b r ä - - - nn -
-104/059	NA	NA	- - - - - - - - -
+104/059	NA	NA	-
 104/061	brenn	1	- b r e - - - nn -
 104/063	brenn	1	- b r e - - - nn -
 104/065	bren	1	- b r e - - - n -
 104/067	brenn	1	- b r e - - - nn -
-104/071	NA	NA	- - - - - - - - -
+104/071	NA	NA	-
 104/075	bren	1	- b r e - - - n -
 104/077	brenn	1	- b r e - - - nn -
 104/079	bren	1	- b r e - - - n -
@@ -5548,11 +5548,11 @@
 104/083	brenn	1	- b r e - - - nn -
 104/085	brann	1	- b r a - - - nn -
 104/091	brenn	1	- b r e - - - nn -
-104/095	NA	NA	- - - - - - - - -
+104/095	NA	NA	-
 104/101	brenn	1	- b r e - - - nn -
 104/103	brenn	1	- b r e - - - nn -
 104/107	brenn	1	- b r e - - - nn -
-104/111	NA	NA	- - - - - - - - -
+104/111	NA	NA	-
 104/113	bren	1	- b r e - - - n -
 104/119	brenn	1	- b r e - - - nn -
 104/121	brenn	1	- b r e - - - nn -
@@ -5561,15 +5561,15 @@
 104/127	brenn	1	- b r e - - - nn -
 104/131	brenn	1	- b r e - - - nn -
 104/133	bröinn	1	- b r öi - - - nn -
-104/135	NA	NA	- - - - - - - - -
+104/135	NA	NA	-
 104/137	brenn	1	- b r e - - - nn -
 104/139	breinn	1	- b r ei - - - nn -
 104/141	brenn	1	- b r e - - - nn -
 104/143	brenn	1	- b r e - - - nn -
 104/145	brein	1	- b r ei - - - n -
-105/031	NA	NA	- - - - - - - - -
+105/031	NA	NA	-
 105/033	brönn	1	- b r ö - - - nn -
-105/035	NA	NA	- - - - - - - - -
+105/035	NA	NA	-
 105/037	brönn	1	- b r ö - - - nn -
 105/039	brönn	1	- b r ö - - - nn -
 105/041	brönn	1	- b r ö - - - nn -
@@ -5593,23 +5593,23 @@
 105/077	brönn	1	- b r ö - - - nn -
 105/079	brenn	1	- b r e - - - nn -
 105/081	brunn	1	- b r u - - - nn -
-105/085	NA	NA	- - - - - - - - -
-105/087	NA	NA	- - - - - - - - -
+105/085	NA	NA	-
+105/087	NA	NA	-
 105/089	brenn	1	- b r e - - - nn -
 105/103	brenn	1	- b r e - - - nn -
 105/105	brenn	1	- b r e - - - nn -
-105/111	NA	NA	- - - - - - - - -
+105/111	NA	NA	-
 105/113	brenn	1	- b r e - - - nn -
 105/115	brenn	1	- b r e - - - nn -
 105/117	bren	1	- b r e - - - n -
-105/119	NA	NA	- - - - - - - - -
+105/119	NA	NA	-
 105/121	brenn	1	- b r e - - - nn -
-105/125	NA	NA	- - - - - - - - -
+105/125	NA	NA	-
 105/127	brenn	1	- b r e - - - nn -
 105/131	brenn	1	- b r e - - - nn -
 105/133	brenn	1	- b r e - - - nn -
 105/135	brenn	1	- b r e - - - nn -
-105/137	NA	NA	- - - - - - - - -
+105/137	NA	NA	-
 105/141	brenn	1	- b r e - - - nn -
 105/143	brün	1	- b r ü - - - n -
 105/145	pren	1	- p r e - - - n -
@@ -5617,7 +5617,7 @@
 106/035	brönn	1	- b r ö - - - nn -
 106/037	brönn	1	- b r ö - - - nn -
 106/039	brönn	1	- b r ö - - - nn -
-106/041	NA	NA	- - - - - - - - -
+106/041	NA	NA	-
 106/043	bronn	1	- b r o - - - nn -
 106/045	brönn	1	- b r ö - - - nn -
 106/047	prön	1	- p r ö - - - n -
@@ -5635,7 +5635,7 @@
 106/079	brenn	1	- b r e - - - nn -
 106/081	bränn	1	- b r ä - - - nn -
 106/085	brenn	1	- b r e - - - nn -
-106/087	NA	NA	- - - - - - - - -
+106/087	NA	NA	-
 106/093	pren	1	- p r e - - - n -
 106/097	bren	1	- b r e - - - n -
 106/099	brenn	1	- b r e - - - nn -
@@ -5644,7 +5644,7 @@
 106/115	brenn	1	- b r e - - - nn -
 106/121	brenn	1	- b r e - - - nn -
 106/123	brenn	1	- b r e - - - nn -
-106/125	seng	NA	- - s e ng - - - -
+106/125	seng	NA	-
 106/129	brenn	1	- b r e - - - nn -
 106/131	brenn	1	- b r e - - - nn -
 106/133	brenn	1	- b r e - - - nn -
@@ -5654,12 +5654,12 @@
 106/141	brein	1	- b r ei - - - n -
 106/143	prenn	1	- p r e - - - nn -
 106/145	breinn	1	- b r ei - - - nn -
-107/033	NA	NA	- - - - - - - - -
+107/033	NA	NA	-
 107/035	brönn	1	- b r ö - - - nn -
 107/037	prönn	1	- p r ö - - - nn -
 107/039	brönn	1	- b r ö - - - nn -
 107/041	brönn	1	- b r ö - - - nn -
-107/043	NA	NA	- - - - - - - - -
+107/043	NA	NA	-
 107/045	brän	1	- b r ä - - - n -
 107/047	bren	1	- b r e - - - n -
 107/049	brenn	1	- b r e - - - nn -
@@ -5675,16 +5675,16 @@
 107/085	brann	1	- b r a - - - nn -
 107/087	brann	1	- b r a - - - nn -
 107/089	prenn	1	- p r e - - - nn -
-107/091	NA	NA	- - - - - - - - -
+107/091	NA	NA	-
 107/097	brenn	1	- b r e - - - nn -
 107/099	brun	1	- b r u - - - n -
 107/103	brun	1	- b r u - - - n -
-107/105	NA	NA	- - - - - - - - -
+107/105	NA	NA	-
 107/107	brenn	1	- b r e - - - nn -
 107/111	brenn	1	- b r e - - - nn -
 107/119	brön	1	- b r ö - - - n -
 107/121	bren	1	- b r e - - - n -
-107/123	NA	NA	- - - - - - - - -
+107/123	NA	NA	-
 107/125	pren	1	- p r e - - - n -
 107/127	brenn	1	- b r e - - - nn -
 107/129	brenn	1	- b r e - - - nn -
@@ -5695,19 +5695,19 @@
 107/139	brenn	1	- b r e - - - nn -
 107/141	brenn	1	- b r e - - - nn -
 107/143	brenn	1	- b r e - - - nn -
-108/033	NA	NA	- - - - - - - - -
+108/033	NA	NA	-
 108/035	brönn	1	- b r ö - - - nn -
 108/037	brönn	1	- b r ö - - - nn -
 108/039	bränn	1	- b r ä - - - nn -
 108/041	brönn	1	- b r ö - - - nn -
-108/043	NA	NA	- - - - - - - - -
+108/043	NA	NA	-
 108/047	brenn	1	- b r e - - - nn -
 108/049	bränn	1	- b r ä - - - nn -
 108/063	prenn	1	- p r e - - - nn -
 108/065	brenn	1	- b r e - - - nn -
 108/067	brenn	1	- b r e - - - nn -
 108/075	brenn	1	- b r e - - - nn -
-108/079	NA	NA	- - - - - - - - -
+108/079	NA	NA	-
 108/081	brenn	1	- b r e - - - nn -
 108/085	brenn	1	- b r e - - - nn -
 108/087	prenn	1	- p r e - - - nn -
@@ -5737,9 +5737,9 @@
 109/039	brönn	1	- b r ö - - - nn -
 109/041	brönn	1	- b r ö - - - nn -
 109/043	brönn	1	- b r ö - - - nn -
-109/045	NA	NA	- - - - - - - - -
+109/045	NA	NA	-
 109/049	brön	1	- b r ö - - - n -
-109/053	NA	NA	- - - - - - - - -
+109/053	NA	NA	-
 109/061	brinn	1	- b r i - - - nn -
 109/063	brönn	1	- b r ö - - - nn -
 109/065	bran	1	- b r a - - - n -
@@ -5789,13 +5789,13 @@
 110/087	prenn	1	- p r e - - - nn -
 110/089	brenn	1	- b r e - - - nn -
 110/091	brenn	1	- b r e - - - nn -
-110/093	NA	NA	- - - - - - - - -
-110/095	NA	NA	- - - - - - - - -
+110/093	NA	NA	-
+110/095	NA	NA	-
 110/097	brenn	1	- b r e - - - nn -
 110/099	brunn	1	- b r u - - - nn -
 110/101	bronn	1	- b r o - - - nn -
-110/105	NA	NA	- - - - - - - - -
-110/107	NA	NA	- - - - - - - - -
+110/105	NA	NA	-
+110/107	NA	NA	-
 110/111	brenn	1	- b r e - - - nn -
 110/113	brenn	1	- b r e - - - nn -
 110/115	brenn	1	- b r e - - - nn -
@@ -5807,7 +5807,7 @@
 110/129	brenn	1	- b r e - - - nn -
 110/131	brenn	1	- b r e - - - nn -
 110/133	brein	1	- b r ei - - - n -
-110/135	NA	NA	- - - - - - - - -
+110/135	NA	NA	-
 110/137	brenn	1	- b r e - - - nn -
 110/139	brenn	1	- b r e - - - nn -
 111/035	prenn	1	- p r e - - - nn -
@@ -5815,7 +5815,7 @@
 111/039	brenn	1	- b r e - - - nn -
 111/041	bren	1	- b r e - - - n -
 111/043	brenn	1	- b r e - - - nn -
-111/045	NA	NA	- - - - - - - - -
+111/045	NA	NA	-
 111/059	brenn	1	- b r e - - - nn -
 111/073	bren	1	- b r e - - - n -
 111/075	pren	1	- p r e - - - n -
@@ -5829,7 +5829,7 @@
 111/107	brenn	1	- b r e - - - nn -
 111/109	brenn	1	- b r e - - - nn -
 111/111	brenn	1	- b r e - - - nn -
-111/113	NA	NA	- - - - - - - - -
+111/113	NA	NA	-
 111/115	brenn	1	- b r e - - - nn -
 111/117	brenn	1	- b r e - - - nn -
 111/119	pren	1	- p r e - - - n -
@@ -5839,11 +5839,11 @@
 112/037	brenn	1	- b r e - - - nn -
 112/039	brenn	1	- b r e - - - nn -
 112/041	brenn	1	- b r e - - - nn -
-112/043	NA	NA	- - - - - - - - -
+112/043	NA	NA	-
 112/047	brenn	1	- b r e - - - nn -
-112/059	NA	NA	- - - - - - - - -
+112/059	NA	NA	-
 112/061	brenn	1	- b r e - - - nn -
-112/063	NA	NA	- - - - - - - - -
+112/063	NA	NA	-
 112/075	brenn	1	- b r e - - - nn -
 112/081	brenn	1	- b r e - - - nn -
 112/083	brenn	1	- b r e - - - nn -
@@ -5855,13 +5855,13 @@
 113/035	bränn	1	- b r ä - - - nn -
 113/037	brenn	1	- b r e - - - nn -
 113/039	brenn	1	- b r e - - - nn -
-113/047	NA	NA	- - - - - - - - -
+113/047	NA	NA	-
 113/079	brenn	1	- b r e - - - nn -
 113/081	bren	1	- b r e - - - n -
 113/083	brän	1	- b r ä - - - n -
 113/085	brenn	1	- b r e - - - nn -
 113/087	brenn	1	- b r e - - - nn -
-113/121	NA	NA	- - - - - - - - -
+113/121	NA	NA	-
 113/123	brenn	1	- b r e - - - nn -
 114/035	bränn	1	- b r ä - - - nn -
 114/045	brenn	1	- b r e - - - nn -
@@ -5872,8 +5872,8 @@
 115/045	brann	1	- b r a - - - nn -
 115/083	brenn	1	- b r e - - - nn -
 115/085	brenn	1	- b r e - - - nn -
-116/043	NA	NA	- - - - - - - - -
-116/045	NA	NA	- - - - - - - - -
+116/043	NA	NA	-
+116/045	NA	NA	-
 116/083	prönn	1	- p r ö - - - nn -
 117/043	bran	1	- b r a - - - n -
 117/045	brann	1	- b r a - - - nn -

@@ -1097,7 +1097,7 @@
 029/171	päp	1	p ä p
 029/173	pep	1	p e p
 029/175	päp	1	p ä p
-029/177	NA	NA	- - - - - -
+029/177	NA	NA	-
 029/181	päp	1	p ä p
 030/033	pep	1	p e p
 030/035	pep	1	p e p
@@ -3624,7 +3624,7 @@
 068/087	pfeff	1	pf e ff
 068/089	pfäff	1	pf ä ff
 068/091	pfäff	1	pf ä ff
-068/093	NA	NA	- - - - - -
+068/093	NA	NA	-
 068/095	pfäff	1	pf ä ff
 068/097	pfäf	1	pf ä f
 068/099	pfeff	1	pf e ff
@@ -4070,7 +4070,7 @@
 076/075	pfeff	1	pf e ff
 076/077	pfeff	1	pf e ff
 076/079	pfeff	1	pf e ff
-076/081	NA	NA	- - - - - -
+076/081	NA	NA	-
 076/083	pfeff	1	pf e ff
 076/085	pfeff	1	pf e ff
 076/087	pfeff	1	pf e ff
@@ -4536,7 +4536,7 @@
 085/111	pfeff	1	pf e ff
 085/113	pfeff	1	pf e ff
 085/115	pfeff	1	pf e ff
-085/117	NA	NA	- - - - - -
+085/117	NA	NA	-
 085/119	pfeff	1	pf e ff
 085/121	pfeef	1	pf ee f
 085/123	pfejf	1	pf ej f
@@ -4733,7 +4733,7 @@
 089/035	pfaff	1	pf a ff
 089/037	pfaff	1	pf a ff
 089/039	pfaff	1	pf a ff
-089/041	NA	NA	- - - - - -
+089/041	NA	NA	-
 089/043	pfäff	1	pf ä ff
 089/045	pfeff	1	pf e ff
 089/047	pfeff	1	pf e ff
@@ -4962,7 +4962,7 @@
 092/145	pfeff	1	pf e ff
 092/147	pfeff	1	pf e ff
 092/149	pfeff	1	pf e ff
-092/151	NA	NA	- - - - - -
+092/151	NA	NA	-
 093/035	pfaff	1	pf a ff
 093/037	pfaff	1	pf a ff
 093/039	pfaff	1	pf a ff
@@ -5019,7 +5019,7 @@
 093/147	pfeff	1	pf e ff
 093/149	pfeff	1	pf e ff
 093/151	pfeff	1	pf e ff
-093/153	NA	NA	- - - - - -
+093/153	NA	NA	-
 093/155	pfeiff	1	pf ei ff
 094/033	pfaff	1	pf a ff
 094/035	pfaff	1	pf a ff
@@ -5141,7 +5141,7 @@
 095/149	pfeff	1	pf e ff
 095/151	pfeff	1	pf e ff
 095/153	pfeff	1	pf e ff
-095/155	NA	NA	- - - - - -
+095/155	NA	NA	-
 096/031	pfaff	1	pf a ff
 096/033	pfaff	1	pf a ff
 096/035	pfaaff	1	pf aa ff
@@ -5199,7 +5199,7 @@
 096/145	pfeff	1	pf e ff
 096/147	pfeff	1	pf e ff
 096/151	pfeef	1	pf ee f
-096/153	NA	NA	- - - - - -
+096/153	NA	NA	-
 096/155	pfeff	1	pf e ff
 097/031	pfäff	1	pf ä ff
 097/033	pfaff	1	pf a ff
@@ -5240,7 +5240,7 @@
 097/105	pfeff	1	pf e ff
 097/107	pfeff	1	pf e ff
 097/109	pfeff	1	pf e ff
-097/113	NA	NA	- - - - - -
+097/113	NA	NA	-
 097/125	pfeff	1	pf e ff
 097/131	pfeff	1	pf e ff
 097/133	pfeff	1	pf e ff
@@ -5676,7 +5676,7 @@
 107/087	pfeff	1	pf e ff
 107/089	pfeff	1	pf e ff
 107/091	pfeff	1	pf e ff
-107/097	NA	NA	- - - - - -
+107/097	NA	NA	-
 107/099	pfeff	1	pf e ff
 107/103	pfejf	1	pf ej f
 107/105	pföff	1	pf ö ff
@@ -5685,7 +5685,7 @@
 107/119	pföf	1	pf ö f
 107/121	pfef	1	pf e f
 107/123	pfef	1	pf e f
-107/125	NA	NA	- - - - - -
+107/125	NA	NA	-
 107/127	pfeff	1	pf e ff
 107/129	gfeff	1	gf e ff
 107/131	gfeff	1	gf e ff
@@ -5756,7 +5756,7 @@
 109/101	pfeif	1	pf ei f
 109/103	pfeff	1	pf e ff
 109/107	pföf	1	pf ö f
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	pföff	1	pf ö ff
 109/113	pfef	1	pf e f
 109/115	pfef	1	pf e f

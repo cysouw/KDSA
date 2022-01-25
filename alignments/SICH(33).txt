@@ -93,7 +93,7 @@
 012/219	sich	1	s i - ch -
 012/221	sich	1	s i - ch -
 012/223	sich	1	s i - ch -
-013/051	NA	NA	- - - - -
+013/051	NA	NA	-
 013/053	ham	2	h a m - -
 013/055	si	1	s i - - -
 013/057	sie	1	s ie - - -
@@ -257,7 +257,7 @@
 017/101	sick	1	s i - ck -
 017/103	sich	1	s i - ch -
 017/107	sick	1	s i - ck -
-017/109	NA	NA	- - - - -
+017/109	NA	NA	-
 017/145	sick	1	s i - ck -
 017/147	sik	1	s i - k -
 017/149	sick	1	s i - ck -
@@ -295,7 +295,7 @@
 018/055	sick	1	s i - ck -
 018/057	sick	1	s i - ck -
 018/059	sick	1	s i - ck -
-018/061	NA	NA	- - - - -
+018/061	NA	NA	-
 018/063	sick	1	s i - ck -
 018/065	sik	1	s i - k -
 018/067	sick	1	s i - ck -
@@ -438,8 +438,8 @@
 020/145	sich	1	s i - ch -
 020/147	sich	1	s i - ch -
 020/149	sick	1	s i - ck -
-020/151	NA	NA	- - - - -
-020/153	NA	NA	- - - - -
+020/151	NA	NA	-
+020/153	NA	NA	-
 020/155	sich	1	s i - ch -
 020/157	sick	1	s i - ck -
 020/159	sich	1	s i - ch -
@@ -452,7 +452,7 @@
 020/173	sick	1	s i - ck -
 020/175	sich	1	s i - ch -
 020/177	sich	1	s i - ch -
-020/179	NA	NA	- - - - -
+020/179	NA	NA	-
 020/181	sick	1	s i - ck -
 020/183	sick	1	s i - ck -
 020/185	sik	1	s i - k -
@@ -494,7 +494,7 @@
 021/097	sick	1	s i - ck -
 021/099	sick	1	s i - ck -
 021/101	sich	1	s i - ch -
-021/103	NA	NA	- - - - -
+021/103	NA	NA	-
 021/105	sich	1	s i - ch -
 021/107	sig	1	s i - g -
 021/109	sich	1	s i - ch -
@@ -534,7 +534,7 @@
 021/195	söch	1	s ö - ch -
 021/197	söch	1	s ö - ch -
 021/199	seck	1	s e - ck -
-021/201	NA	NA	- - - - -
+021/201	NA	NA	-
 021/203	sieck	1	s ie - ck -
 021/205	seck	1	s e - ck -
 021/207	sik	1	s i - k -
@@ -708,7 +708,7 @@
 024/099	sik	1	s i - k -
 024/101	sick	1	s i - ck -
 024/103	sick	1	s i - ck -
-024/105	NA	NA	- - - - -
+024/105	NA	NA	-
 024/107	sich	1	s i - ch -
 024/109	sich	1	s i - ch -
 024/111	sich	1	s i - ch -
@@ -778,7 +778,7 @@
 025/089	sick	1	s i - ck -
 025/091	sick	1	s i - ck -
 025/093	sick	1	s i - ck -
-025/095	NA	NA	- - - - -
+025/095	NA	NA	-
 025/099	sich	1	s i - ch -
 025/101	sick	1	s i - ck -
 025/103	sich	1	s i - ch -
@@ -789,7 +789,7 @@
 025/113	sich	1	s i - ch -
 025/115	sich	1	s i - ch -
 025/123	sich	1	s i - ch -
-025/125	NA	NA	- - - - -
+025/125	NA	NA	-
 025/127	sich	1	s i - ch -
 025/129	sich	1	s i - ch -
 025/131	sich	1	s i - ch -
@@ -858,7 +858,7 @@
 026/119	sich	1	s i - ch -
 026/123	sich	1	s i - ch -
 026/125	sich	1	s i - ch -
-026/127	NA	NA	- - - - -
+026/127	NA	NA	-
 026/129	sich	1	s i - ch -
 026/131	sich	1	s i - ch -
 026/133	sich	1	s i - ch -
@@ -896,7 +896,7 @@
 027/053	sick	1	s i - ck -
 027/055	sik	1	s i - k -
 027/057	sick	1	s i - ck -
-027/059	NA	NA	- - - - -
+027/059	NA	NA	-
 027/061	sick	1	s i - ck -
 027/063	sick	1	s i - ck -
 027/065	sik	1	s i - k -
@@ -927,7 +927,7 @@
 027/117	sich	1	s i - ch -
 027/119	sich	1	s i - ch -
 027/123	sich	1	s i - ch -
-027/125	NA	NA	- - - - -
+027/125	NA	NA	-
 027/127	sich	1	s i - ch -
 027/129	sich	1	s i - ch -
 027/131	sich	1	s i - ch -
@@ -1095,7 +1095,7 @@
 029/167	sick	1	s i - ck -
 029/169	sick	1	s i - ck -
 029/171	sej	1	s ej - - -
-029/173	NA	NA	- - - - -
+029/173	NA	NA	-
 029/175	sick	1	s i - ck -
 029/177	sech	1	s e - ch -
 029/181	seek	1	s ee - k -
@@ -1163,7 +1163,7 @@
 030/159	sitsch	1	s i t sch -
 030/161	sik	1	s i - k -
 030/163	sick	1	s i - ck -
-030/165	NA	NA	- - - - -
+030/165	NA	NA	-
 030/167	sick	1	s i - ck -
 030/169	seck	1	s e - ck -
 030/171	sek	1	s e - k -
@@ -1318,7 +1318,7 @@
 033/037	sück	1	s ü - ck -
 033/039	sück	1	s ü - ck -
 033/041	seck	1	s e - ck -
-033/043	NA	NA	- - - - -
+033/043	NA	NA	-
 033/045	sick	1	s i - ck -
 033/047	sick	1	s i - ck -
 033/049	sick	1	s i - ck -
@@ -1326,7 +1326,7 @@
 033/053	sick	1	s i - ck -
 033/055	sick	1	s i - ck -
 033/057	sick	1	s i - ck -
-033/059	NA	NA	- - - - -
+033/059	NA	NA	-
 033/061	sick	1	s i - ck -
 033/063	sick	1	s i - ck -
 033/065	sick	1	s i - ck -
@@ -1402,7 +1402,7 @@
 034/067	sick	1	s i - ck -
 034/069	sick	1	s i - ck -
 034/071	sick	1	s i - ck -
-034/073	NA	NA	- - - - -
+034/073	NA	NA	-
 034/075	sik	1	s i - k -
 034/077	sick	1	s i - ck -
 034/079	sick	1	s i - ck -
@@ -1426,7 +1426,7 @@
 034/115	sick	1	s i - ck -
 034/117	sich	1	s i - ch -
 034/119	sich	1	s i - ch -
-034/121	NA	NA	- - - - -
+034/121	NA	NA	-
 034/125	sich	1	s i - ch -
 034/127	sich	1	s i - ch -
 034/129	sich	1	s i - ch -
@@ -1459,7 +1459,7 @@
 035/049	sick	1	s i - ck -
 035/051	sik	1	s i - k -
 035/053	sick	1	s i - ck -
-035/055	NA	NA	- - - - -
+035/055	NA	NA	-
 035/057	sik	1	s i - k -
 035/059	sick	1	s i - ck -
 035/061	sick	1	s i - ck -
@@ -1616,7 +1616,7 @@
 037/105	sich	1	s i - ch -
 037/107	sich	1	s i - ch -
 037/109	sich	1	s i - ch -
-037/111	NA	NA	- - - - -
+037/111	NA	NA	-
 037/113	sich	1	s i - ch -
 037/115	sich	1	s i - ch -
 037/117	sich	1	s i - ch -
@@ -1733,13 +1733,13 @@
 039/083	sik	1	s i - k -
 039/085	sik	1	s i - k -
 039/087	sick	1	s i - ck -
-039/089	NA	NA	- - - - -
+039/089	NA	NA	-
 039/091	sick	1	s i - ck -
 039/093	sick	1	s i - ck -
 039/095	sich	1	s i - ch -
 039/097	sik	1	s i - k -
 039/099	sik	1	s i - k -
-039/101	NA	NA	- - - - -
+039/101	NA	NA	-
 039/103	sich	1	s i - ch -
 039/105	sich	1	s i - ch -
 039/107	sich	1	s i - ch -
@@ -1755,7 +1755,7 @@
 039/127	sich	1	s i - ch -
 039/129	sich	1	s i - ch -
 039/131	sich	1	s i - ch -
-039/133	NA	NA	- - - - -
+039/133	NA	NA	-
 039/135	sich	1	s i - ch -
 039/137	sich	1	s i - ch -
 039/139	sich	1	s i - ch -
@@ -1942,7 +1942,7 @@
 042/145	sich	1	s i - ch -
 042/147	sich	1	s i - ch -
 042/149	sich	1	s i - ch -
-042/151	NA	NA	- - - - -
+042/151	NA	NA	-
 042/157	sick	1	s i - ck -
 042/159	sik	1	s i - k -
 042/161	sik	1	s i - k -
@@ -1973,11 +1973,11 @@
 043/081	sick	1	s i - ck -
 043/083	sick	1	s i - ck -
 043/085	sick	1	s i - ck -
-043/087	NA	NA	- - - - -
+043/087	NA	NA	-
 043/089	sick	1	s i - ck -
 043/091	sich	1	s i - ch -
 043/093	sich	1	s i - ch -
-043/095	NA	NA	- - - - -
+043/095	NA	NA	-
 043/097	sich	1	s i - ch -
 043/099	sich	1	s i - ch -
 043/101	sik	1	s i - k -
@@ -2007,7 +2007,7 @@
 043/159	sich	1	s i - ch -
 043/161	si	1	s i - - -
 044/033	sick	1	s i - ck -
-044/035	NA	NA	- - - - -
+044/035	NA	NA	-
 044/039	sick	1	s i - ck -
 044/041	sick	1	s i - ck -
 044/043	sick	1	s i - ck -
@@ -2113,12 +2113,12 @@
 045/125	sich	1	s i - ch -
 045/127	sich	1	s i - ch -
 045/129	sich	1	s i - ch -
-045/131	NA	NA	- - - - -
+045/131	NA	NA	-
 045/133	sich	1	s i - ch -
 045/135	sich	1	s i - ch -
 045/137	sich	1	s i - ch -
 045/139	sich	1	s i - ch -
-045/141	NA	NA	- - - - -
+045/141	NA	NA	-
 045/143	sich	1	s i - ch -
 045/145	siech	1	s ie - ch -
 045/155	sich	1	s i - ch -
@@ -2344,7 +2344,7 @@
 049/101	sich	1	s i - ch -
 049/103	sich	1	s i - ch -
 049/105	sich	1	s i - ch -
-049/107	NA	NA	- - - - -
+049/107	NA	NA	-
 049/109	sich	1	s i - ch -
 049/111	sich	1	s i - ch -
 049/113	sich	1	s i - ch -
@@ -2386,7 +2386,7 @@
 050/057	sick	1	s i - ck -
 050/059	sik	1	s i - k -
 050/061	siek	1	s ie - k -
-050/063	NA	NA	- - - - -
+050/063	NA	NA	-
 050/065	seck	1	s e - ck -
 050/067	seck	1	s e - ck -
 050/069	sek	1	s e - k -
@@ -2474,7 +2474,7 @@
 051/097	sich	1	s i - ch -
 051/099	sich	1	s i - ch -
 051/101	sich	1	s i - ch -
-051/103	NA	NA	- - - - -
+051/103	NA	NA	-
 051/105	sich	1	s i - ch -
 051/107	sich	1	s i - ch -
 051/109	sich	1	s i - ch -
@@ -2723,7 +2723,7 @@
 055/053	sik	1	s i - k -
 055/055	sick	1	s i - ck -
 055/057	siäck	1	s iä - ck -
-055/059	NA	NA	- - - - -
+055/059	NA	NA	-
 055/061	sich	1	s i - ch -
 055/063	sich	1	s i - ch -
 055/065	sich	1	s i - ch -
@@ -2738,13 +2738,13 @@
 055/083	sech	1	s e - ch -
 055/085	sich	1	s i - ch -
 055/087	sich	1	s i - ch -
-055/089	NA	NA	- - - - -
+055/089	NA	NA	-
 055/091	sich	1	s i - ch -
 055/093	sich	1	s i - ch -
 055/095	sich	1	s i - ch -
 055/097	sich	1	s i - ch -
 055/099	zch	1	z - - ch -
-055/101	NA	NA	- - - - -
+055/101	NA	NA	-
 055/103	sich	1	s i - ch -
 055/105	sch	1	sch - - - -
 055/107	sich	1	s i - ch -
@@ -2865,7 +2865,7 @@
 057/059	sech	1	s e - ch -
 057/061	sech	1	s e - ch -
 057/063	sech	1	s e - ch -
-057/065	NA	NA	- - - - -
+057/065	NA	NA	-
 057/067	sech	1	s e - ch -
 057/069	sich	1	s i - ch -
 057/071	sich	1	s i - ch -
@@ -2940,7 +2940,7 @@
 058/065	sech	1	s e - ch -
 058/067	sech	1	s e - ch -
 058/069	sech	1	s e - ch -
-058/071	NA	NA	- - - - -
+058/071	NA	NA	-
 058/073	sich	1	s i - ch -
 058/075	sich	1	s i - ch -
 058/077	sech	1	s e - ch -
@@ -3031,7 +3031,7 @@
 059/105	ch	1	- - - ch -
 059/107	ch	1	- - - ch -
 059/109	sch	1	sch - - - -
-059/111	NA	NA	- - - - -
+059/111	NA	NA	-
 059/113	sich	1	s i - ch -
 059/115	sch	1	sch - - - -
 059/117	ch	1	- - - ch -
@@ -3041,7 +3041,7 @@
 059/125	ch	1	- - - ch -
 059/127	sch	1	sch - - - -
 059/129	ch	1	- - - ch -
-059/131	NA	NA	- - - - -
+059/131	NA	NA	-
 059/133	sich	1	s i - ch -
 059/135	sich	1	s i - ch -
 059/137	sich	1	s i - ch -
@@ -3072,7 +3072,7 @@
 060/041	sich	1	s i - ch -
 060/043	sich	1	s i - ch -
 060/045	sier	1	s ier - - -
-060/047	NA	NA	- - - - -
+060/047	NA	NA	-
 060/049	sich	1	s i - ch -
 060/051	sich	1	s i - ch -
 060/053	sich	1	s i - ch -
@@ -3163,8 +3163,8 @@
 061/081	sech	1	s e - ch -
 061/083	sich	1	s i - ch -
 061/085	sich	1	s i - ch -
-061/087	NA	NA	- - - - -
-061/089	NA	NA	- - - - -
+061/087	NA	NA	-
+061/089	NA	NA	-
 061/091	sich	1	s i - ch -
 061/093	sich	1	s i - ch -
 061/095	sich	1	s i - ch -
@@ -3224,7 +3224,7 @@
 062/061	sich	1	s i - ch -
 062/063	sich	1	s i - ch -
 062/065	sich	1	s i - ch -
-062/067	NA	NA	- - - - -
+062/067	NA	NA	-
 062/069	sich	1	s i - ch -
 062/071	sich	1	s i - ch -
 062/073	sich	1	s i - ch -
@@ -3236,7 +3236,7 @@
 062/085	sich	1	s i - ch -
 062/087	sich	1	s i - ch -
 062/089	sech	1	s e - ch -
-062/091	NA	NA	- - - - -
+062/091	NA	NA	-
 062/093	sich	1	s i - ch -
 062/095	sich	1	s i - ch -
 062/097	sich	1	s i - ch -
@@ -3360,7 +3360,7 @@
 064/053	sich	1	s i - ch -
 064/055	sich	1	s i - ch -
 064/057	sich	1	s i - ch -
-064/059	NA	NA	- - - - -
+064/059	NA	NA	-
 064/061	sich	1	s i - ch -
 064/063	sich	1	s i - ch -
 064/065	sich	1	s i - ch -
@@ -3376,7 +3376,7 @@
 064/085	sich	1	s i - ch -
 064/087	sich	1	s i - ch -
 064/089	sich	1	s i - ch -
-064/091	NA	NA	- - - - -
+064/091	NA	NA	-
 064/093	sich	1	s i - ch -
 064/095	sich	1	s i - ch -
 064/097	sich	1	s i - ch -
@@ -3414,7 +3414,7 @@
 065/027	sich	1	s i - ch -
 065/029	sech	1	s e - ch -
 065/031	sech	1	s e - ch -
-065/033	NA	NA	- - - - -
+065/033	NA	NA	-
 065/035	sech	1	s e - ch -
 065/037	sich	1	s i - ch -
 065/039	sich	1	s i - ch -
@@ -3425,7 +3425,7 @@
 065/049	sich	1	s i - ch -
 065/051	sich	1	s i - ch -
 065/053	sich	1	s i - ch -
-065/055	NA	NA	- - - - -
+065/055	NA	NA	-
 065/057	sich	1	s i - ch -
 065/059	sich	1	s i - ch -
 065/061	sich	1	s i - ch -
@@ -3571,7 +3571,7 @@
 067/101	si	1	s i - - -
 067/103	sich	1	s i - ch -
 067/105	sich	1	s i - ch -
-067/107	NA	NA	- - - - -
+067/107	NA	NA	-
 067/109	sich	1	s i - ch -
 067/111	sich	1	s i - ch -
 067/113	sich	1	s i - ch -
@@ -3655,7 +3655,7 @@
 069/037	sich	1	s i - ch -
 069/039	sich	1	s i - ch -
 069/041	sich	1	s i - ch -
-069/043	NA	NA	- - - - -
+069/043	NA	NA	-
 069/045	sich	1	s i - ch -
 069/047	sich	1	s i - ch -
 069/049	sich	1	s i - ch -
@@ -3673,7 +3673,7 @@
 069/073	sich	1	s i - ch -
 069/075	sich	1	s i - ch -
 069/077	sich	1	s i - ch -
-069/079	NA	NA	- - - - -
+069/079	NA	NA	-
 069/081	sich	1	s i - ch -
 069/083	sich	1	s i - ch -
 069/085	sich	1	s i - ch -
@@ -3698,8 +3698,8 @@
 069/159	sich	1	s i - ch -
 069/161	sech	1	s e - ch -
 069/163	sich	1	s i - ch -
-069/165	NA	NA	- - - - -
-070/019	NA	NA	- - - - -
+069/165	NA	NA	-
+070/019	NA	NA	-
 070/023	sich	1	s i - ch -
 070/025	seich	1	s ei - ch -
 070/027	sich	1	s i - ch -
@@ -3719,7 +3719,7 @@
 070/055	sich	1	s i - ch -
 070/057	sich	1	s i - ch -
 070/059	sich	1	s i - ch -
-070/061	NA	NA	- - - - -
+070/061	NA	NA	-
 070/063	sich	1	s i - ch -
 070/065	sich	1	s i - ch -
 070/067	siä	1	s iä - - -
@@ -3852,7 +3852,7 @@
 072/091	sie	1	s ie - - -
 072/093	sie	1	s ie - - -
 072/095	se	1	s e - - -
-072/097	NA	NA	- - - - -
+072/097	NA	NA	-
 072/099	se	1	s e - - -
 072/101	se	1	s e - - -
 072/103	se	1	s e - - -
@@ -3881,7 +3881,7 @@
 073/033	seich	1	s ei - ch -
 073/035	sich	1	s i - ch -
 073/037	sich	1	s i - ch -
-073/039	NA	NA	- - - - -
+073/039	NA	NA	-
 073/041	sich	1	s i - ch -
 073/043	sich	1	s i - ch -
 073/045	sich	1	s i - ch -
@@ -3904,7 +3904,7 @@
 073/079	sich	1	s i - ch -
 073/081	sie	1	s ie - - -
 073/083	sig	1	s i - g -
-073/085	NA	NA	- - - - -
+073/085	NA	NA	-
 073/087	si	1	s i - - -
 073/089	si	1	s i - - -
 073/091	si	1	s i - - -
@@ -3943,7 +3943,7 @@
 074/041	sich	1	s i - ch -
 074/043	sich	1	s i - ch -
 074/045	sich	1	s i - ch -
-074/047	NA	NA	- - - - -
+074/047	NA	NA	-
 074/049	sich	1	s i - ch -
 074/051	sich	1	s i - ch -
 074/053	sich	1	s i - ch -
@@ -3962,7 +3962,7 @@
 074/079	sie	1	s ie - - -
 074/081	sie	1	s ie - - -
 074/083	si	1	s i - - -
-074/085	NA	NA	- - - - -
+074/085	NA	NA	-
 074/087	si	1	s i - - -
 074/089	si	1	s i - - -
 074/091	sie	1	s ie - - -
@@ -4039,9 +4039,9 @@
 075/159	sech	1	s e - ch -
 075/161	sich	1	s i - ch -
 075/163	sech	1	s e - ch -
-075/165	NA	NA	- - - - -
+075/165	NA	NA	-
 076/019	sech	1	s e - ch -
-076/021	NA	NA	- - - - -
+076/021	NA	NA	-
 076/023	sech	1	s e - ch -
 076/025	sech	1	s e - ch -
 076/027	sech	1	s e - ch -
@@ -4100,7 +4100,7 @@
 077/033	sich	1	s i - ch -
 077/035	sich	1	s i - ch -
 077/037	sich	1	s i - ch -
-077/039	NA	NA	- - - - -
+077/039	NA	NA	-
 077/041	sich	1	s i - ch -
 077/043	sich	1	s i - ch -
 077/047	sich	1	s i - ch -
@@ -4157,12 +4157,12 @@
 078/063	sche	1	sch e - - -
 078/065	se	1	s e - - -
 078/067	si	1	s i - - -
-078/069	NA	NA	- - - - -
+078/069	NA	NA	-
 078/071	si	1	s i - - -
 078/073	si	1	s i - - -
 078/075	sie	1	s ie - - -
 078/077	sie	1	s ie - - -
-078/079	NA	NA	- - - - -
+078/079	NA	NA	-
 078/081	si	1	s i - - -
 078/083	si	1	s i - - -
 078/085	si	1	s i - - -
@@ -4200,7 +4200,7 @@
 079/061	am	2	- a m - -
 079/063	se	1	s e - - -
 079/065	se	1	s e - - -
-079/067	NA	NA	- - - - -
+079/067	NA	NA	-
 079/069	si	1	s i - - -
 079/071	si	1	s i - - -
 079/073	si	1	s i - - -
@@ -4249,7 +4249,7 @@
 080/065	se	1	s e - - -
 080/067	se	1	s e - - -
 080/069	si	1	s i - - -
-080/071	NA	NA	- - - - -
+080/071	NA	NA	-
 080/073	si	1	s i - - -
 080/075	si	1	s i - - -
 080/077	si	1	s i - - -
@@ -4292,8 +4292,8 @@
 081/055	an	2	- a n - -
 081/057	em	2	- e m - -
 081/059	sich	1	s i - ch -
-081/061	NA	NA	- - - - -
-081/063	NA	NA	- - - - -
+081/061	NA	NA	-
+081/063	NA	NA	-
 081/065	se	1	s e - - -
 081/067	se	1	s e - - -
 081/069	si	1	s i - - -
@@ -4383,7 +4383,7 @@
 083/033	sech	1	s e - ch -
 083/035	sech	1	s e - ch -
 083/037	sich	1	s i - ch -
-083/039	NA	NA	- - - - -
+083/039	NA	NA	-
 083/041	sich	1	s i - ch -
 083/043	sich	1	s i - ch -
 083/045	sich	1	s i - ch -
@@ -4451,10 +4451,10 @@
 084/057	am	2	- a m - -
 084/059	sich	1	s i - ch -
 084/061	am	2	- a m - -
-084/063	NA	NA	- - - - -
+084/063	NA	NA	-
 084/065	am	2	- a m - -
 084/067	se	1	s e - - -
-084/069	NA	NA	- - - - -
+084/069	NA	NA	-
 084/071	se	1	s e - - -
 084/073	se	1	s e - - -
 084/075	se	1	s e - - -
@@ -4500,7 +4500,7 @@
 085/037	sich	1	s i - ch -
 085/039	si	1	s i - - -
 085/041	sech	1	s e - ch -
-085/043	NA	NA	- - - - -
+085/043	NA	NA	-
 085/045	sech	1	s e - ch -
 085/047	sich	1	s i - ch -
 085/049	sich	1	s i - ch -
@@ -4533,7 +4533,7 @@
 085/105	eam	2	- ea m - -
 085/107	sö	1	s ö - - -
 085/109	sö	1	s ö - - -
-085/111	NA	NA	- - - - -
+085/111	NA	NA	-
 085/113	ehm	2	- eh m - -
 085/115	si	1	s i - - -
 085/117	eam	2	- ea m - -
@@ -4543,7 +4543,7 @@
 085/125	si	1	s i - - -
 085/127	siech	1	s ie - ch -
 085/129	se	1	s e - - -
-085/131	NA	NA	- - - - -
+085/131	NA	NA	-
 085/133	sii	1	s ii - - -
 085/135	si	1	s i - - -
 085/137	si	1	s i - - -
@@ -4647,7 +4647,7 @@
 087/085	si	1	s i - - -
 087/087	se	1	s e - - -
 087/089	sie	1	s ie - - -
-087/091	NA	NA	- - - - -
+087/091	NA	NA	-
 087/093	sö	1	s ö - - -
 087/095	si	1	s i - - -
 087/097	sö	1	s ö - - -
@@ -4681,9 +4681,9 @@
 088/037	sech	1	s e - ch -
 088/039	si	1	s i - - -
 088/041	si	1	s i - - -
-088/043	NA	NA	- - - - -
+088/043	NA	NA	-
 088/045	sich	1	s i - ch -
-088/047	NA	NA	- - - - -
+088/047	NA	NA	-
 088/049	am	2	- a m - -
 088/051	am	2	- a m - -
 088/053	am	2	- a m - -
@@ -4696,7 +4696,7 @@
 088/067	se	1	s e - - -
 088/069	se	1	s e - - -
 088/071	se	1	s e - - -
-088/073	NA	NA	- - - - -
+088/073	NA	NA	-
 088/075	se	1	s e - - -
 088/077	se	1	s e - - -
 088/079	si	1	s i - - -
@@ -4708,7 +4708,7 @@
 088/091	sö	1	s ö - - -
 088/093	sö	1	s ö - - -
 088/095	sö	1	s ö - - -
-088/097	NA	NA	- - - - -
+088/097	NA	NA	-
 088/099	sö	1	s ö - - -
 088/101	se	1	s e - - -
 088/103	se	1	s e - - -
@@ -4740,14 +4740,14 @@
 089/049	sich	1	s i - ch -
 089/051	se	1	s e - - -
 089/053	em	2	- e m - -
-089/055	NA	NA	- - - - -
+089/055	NA	NA	-
 089/057	se	1	s e - - -
 089/059	se	1	s e - - -
 089/061	am	2	- a m - -
 089/063	se	1	s e - - -
 089/065	ehm	2	- eh m - -
 089/067	am	2	- a m - -
-089/069	NA	NA	- - - - -
+089/069	NA	NA	-
 089/071	se	1	s e - - -
 089/073	se	1	s e - - -
 089/075	se	1	s e - - -
@@ -4795,7 +4795,7 @@
 090/043	sich	1	s i - ch -
 090/045	sich	1	s i - ch -
 090/047	si	1	s i - - -
-090/049	NA	NA	- - - - -
+090/049	NA	NA	-
 090/051	ehn	2	- eh n - -
 090/053	se	1	s e - - -
 090/055	m	2	- - m - -
@@ -4807,7 +4807,7 @@
 090/067	se	1	s e - - -
 090/069	si	1	s i - - -
 090/071	se	1	s e - - -
-090/073	NA	NA	- - - - -
+090/073	NA	NA	-
 090/075	si	1	s i - - -
 090/077	si	1	s i - - -
 090/079	se	1	s e - - -
@@ -4838,7 +4838,7 @@
 090/131	se	1	s e - - -
 090/133	se	1	s e - - -
 090/135	si	1	s i - - -
-090/137	NA	NA	- - - - -
+090/137	NA	NA	-
 090/139	see	1	s ee - - -
 090/141	sei	1	s ei - - -
 090/143	se	1	s e - - -
@@ -4850,15 +4850,15 @@
 091/037	sich	1	s i - ch -
 091/039	sech	1	s e - ch -
 091/041	m	2	- - m - -
-091/043	NA	NA	- - - - -
-091/045	NA	NA	- - - - -
+091/043	NA	NA	-
+091/045	NA	NA	-
 091/047	sich	1	s i - ch -
 091/049	em	2	- e m - -
 091/051	se	1	s e - - -
 091/053	em	2	- e m - -
 091/055	ehm	2	- eh m - -
-091/057	NA	NA	- - - - -
-091/059	NA	NA	- - - - -
+091/057	NA	NA	-
+091/059	NA	NA	-
 091/061	am	2	- a m - -
 091/063	se	1	s e - - -
 091/065	se	1	s e - - -
@@ -4911,16 +4911,16 @@
 092/043	sich	1	s i - ch -
 092/045	inn	2	- i nn - -
 092/047	am	2	- a m - -
-092/049	NA	NA	- - - - -
+092/049	NA	NA	-
 092/051	em	2	- e m - -
 092/053	se	1	s e - - -
-092/055	NA	NA	- - - - -
-092/057	NA	NA	- - - - -
+092/055	NA	NA	-
+092/057	NA	NA	-
 092/059	si	1	s i - - -
 092/061	ihm	2	- ih m - -
 092/063	em	2	- e m - -
 092/065	im	2	- i m - -
-092/067	NA	NA	- - - - -
+092/067	NA	NA	-
 092/069	m	2	- - m - -
 092/071	si	1	s i - - -
 092/073	se	1	s e - - -
@@ -4971,9 +4971,9 @@
 093/045	ihn	2	- ih n - -
 093/047	si	1	s i - - -
 093/049	im	2	- i m - -
-093/051	NA	NA	- - - - -
+093/051	NA	NA	-
 093/053	ihm	2	- ih m - -
-093/055	NA	NA	- - - - -
+093/055	NA	NA	-
 093/057	ihn	2	- ih n - -
 093/059	iim	2	- ii m - -
 093/061	se	1	s e - - -
@@ -4994,7 +4994,7 @@
 093/091	sie	1	s ie - - -
 093/093	sö	1	s ö - - -
 093/095	sie	1	s ie - - -
-093/097	NA	NA	- - - - -
+093/097	NA	NA	-
 093/099	si	1	s i - - -
 093/101	sö	1	s ö - - -
 093/103	sö	1	s ö - - -
@@ -5026,18 +5026,18 @@
 094/037	sich	1	s i - ch -
 094/039	ehm	2	- eh m - -
 094/041	se	1	s e - - -
-094/043	NA	NA	- - - - -
+094/043	NA	NA	-
 094/045	sie	1	s ie - - -
 094/047	si	1	s i - - -
 094/049	sich	1	s i - ch -
 094/051	en	2	- e n - -
 094/053	ihn	2	- ih n - -
-094/055	NA	NA	- - - - -
-094/057	NA	NA	- - - - -
-094/059	NA	NA	- - - - -
+094/055	NA	NA	-
+094/057	NA	NA	-
+094/059	NA	NA	-
 094/061	se	1	s e - - -
 094/063	se	1	s e - - -
-094/065	NA	NA	- - - - -
+094/065	NA	NA	-
 094/067	se	1	s e - - -
 094/069	am	2	- a m - -
 094/071	se	1	s e - - -
@@ -5093,10 +5093,10 @@
 095/047	si	1	s i - - -
 095/049	sech	1	s e - ch -
 095/051	se	1	s e - - -
-095/053	NA	NA	- - - - -
-095/055	NA	NA	- - - - -
+095/053	NA	NA	-
+095/055	NA	NA	-
 095/057	si	1	s i - - -
-095/059	NA	NA	- - - - -
+095/059	NA	NA	-
 095/061	n	2	- - n - -
 095/063	se	1	s e - - -
 095/065	se	1	s e - - -
@@ -5151,14 +5151,14 @@
 096/043	sich	1	s i - ch -
 096/045	si	1	s i - - -
 096/047	sich	1	s i - ch -
-096/049	NA	NA	- - - - -
-096/051	NA	NA	- - - - -
+096/049	NA	NA	-
+096/051	NA	NA	-
 096/053	sich	1	s i - ch -
-096/055	NA	NA	- - - - -
+096/055	NA	NA	-
 096/057	si	1	s i - - -
 096/059	sie	1	s ie - - -
 096/061	am	2	- a m - -
-096/063	NA	NA	- - - - -
+096/063	NA	NA	-
 096/065	sie	1	s ie - - -
 096/067	se	1	s e - - -
 096/069	se	1	s e - - -
@@ -5168,13 +5168,13 @@
 096/079	sö	1	s ö - - -
 096/081	si	1	s i - - -
 096/083	si	1	s i - - -
-096/085	NA	NA	- - - - -
+096/085	NA	NA	-
 096/087	si	1	s i - - -
 096/089	äm	2	- ä m - -
 096/091	eam	2	- ea m - -
 096/093	si	1	s i - - -
 096/095	si	1	s i - - -
-096/097	NA	NA	- - - - -
+096/097	NA	NA	-
 096/099	se	1	s e - - -
 096/101	eam	2	- ea m - -
 096/103	eham	2	- eha m - -
@@ -5192,7 +5192,7 @@
 096/129	si	1	s i - - -
 096/131	si	1	s i - - -
 096/135	si	1	s i - - -
-096/137	NA	NA	- - - - -
+096/137	NA	NA	-
 096/139	si	1	s i - - -
 096/141	sie	1	s ie - - -
 096/143	si	1	s i - - -
@@ -5206,14 +5206,14 @@
 097/035	si	1	s i - - -
 097/037	sech	1	s e - ch -
 097/039	si	1	s i - - -
-097/041	NA	NA	- - - - -
-097/043	NA	NA	- - - - -
-097/045	NA	NA	- - - - -
+097/041	NA	NA	-
+097/043	NA	NA	-
+097/045	NA	NA	-
 097/047	sich	1	s i - ch -
-097/049	NA	NA	- - - - -
+097/049	NA	NA	-
 097/051	ihm	2	- ih m - -
 097/053	iim	2	- ii m - -
-097/055	NA	NA	- - - - -
+097/055	NA	NA	-
 097/057	si	1	s i - - -
 097/059	sich	1	s i - ch -
 097/061	si	1	s i - - -
@@ -5226,7 +5226,7 @@
 097/075	se	1	s e - - -
 097/077	se	1	s e - - -
 097/079	sie	1	s ie - - -
-097/081	NA	NA	- - - - -
+097/081	NA	NA	-
 097/083	si	1	s i - - -
 097/085	sie	1	s ie - - -
 097/087	sie	1	s ie - - -
@@ -5243,7 +5243,7 @@
 097/113	si	1	s i - - -
 097/125	si	1	s i - - -
 097/131	sie	1	s ie - - -
-097/133	NA	NA	- - - - -
+097/133	NA	NA	-
 097/139	si	1	s i - - -
 097/141	sie	1	s ie - - -
 097/143	si	1	s i - - -
@@ -5258,14 +5258,14 @@
 098/043	ihm	2	- ih m - -
 098/045	si	1	s i - - -
 098/047	sii	1	s ii - - -
-098/049	NA	NA	- - - - -
+098/049	NA	NA	-
 098/051	sich	1	s i - ch -
 098/053	sich	1	s i - ch -
 098/055	si	1	s i - - -
 098/057	in	2	- i n - -
 098/059	si	1	s i - - -
 098/061	inn	2	- i nn - -
-098/063	NA	NA	- - - - -
+098/063	NA	NA	-
 098/065	em	2	- e m - -
 098/067	si	1	s i - - -
 098/069	sich	1	s i - ch -
@@ -5276,7 +5276,7 @@
 098/079	sie	1	s ie - - -
 098/081	sie	1	s ie - - -
 098/083	siä	1	s iä - - -
-098/085	NA	NA	- - - - -
+098/085	NA	NA	-
 098/087	si	1	s i - - -
 098/089	si	1	s i - - -
 098/091	se	1	s e - - -
@@ -5309,7 +5309,7 @@
 099/043	si	1	s i - - -
 099/045	ien	2	- ie n - -
 099/047	si	1	s i - - -
-099/049	NA	NA	- - - - -
+099/049	NA	NA	-
 099/051	in	2	- i n - -
 099/053	sich	1	s i - ch -
 099/055	sich	1	s i - ch -
@@ -5332,7 +5332,7 @@
 099/099	sie	1	s ie - - -
 099/101	sö	1	s ö - - -
 099/103	eam	2	- ea m - -
-099/105	NA	NA	- - - - -
+099/105	NA	NA	-
 099/107	eahm	2	- eah m - -
 099/109	si	1	s i - - -
 099/111	se	1	s e - - -
@@ -5354,18 +5354,18 @@
 100/041	em	2	- e m - -
 100/043	em	2	- e m - -
 100/045	inn	2	- i nn - -
-100/049	NA	NA	- - - - -
+100/049	NA	NA	-
 100/051	sich	1	s i - ch -
-100/053	NA	NA	- - - - -
-100/055	NA	NA	- - - - -
+100/053	NA	NA	-
+100/055	NA	NA	-
 100/057	e	2	- e - - -
-100/059	NA	NA	- - - - -
-100/061	NA	NA	- - - - -
+100/059	NA	NA	-
+100/061	NA	NA	-
 100/065	se	1	s e - - -
 100/067	se	1	s e - - -
 100/069	se	1	s e - - -
 100/071	se	1	s e - - -
-100/073	NA	NA	- - - - -
+100/073	NA	NA	-
 100/075	se	1	s e - - -
 100/077	sa	1	s a - - -
 100/081	si	1	s i - - -
@@ -5379,33 +5379,33 @@
 100/109	si	1	s i - - -
 100/111	sich	1	s i - ch -
 100/113	eahm	2	- eah m - -
-100/115	NA	NA	- - - - -
+100/115	NA	NA	-
 100/117	si	1	s i - - -
 100/119	si	1	s i - - -
 100/121	si	1	s i - - -
 100/125	eam	2	- ea m - -
 100/127	si	1	s i - - -
-100/129	NA	NA	- - - - -
+100/129	NA	NA	-
 100/133	si	1	s i - - -
 100/135	si	1	s i - - -
 100/141	si	1	s i - - -
 100/143	sie	1	s ie - - -
 100/145	sie	1	s ie - - -
 101/035	sich	1	s i - ch -
-101/037	NA	NA	- - - - -
+101/037	NA	NA	-
 101/039	ihn	2	- ih n - -
 101/041	si	1	s i - - -
 101/043	ihn	2	- ih n - -
-101/045	NA	NA	- - - - -
+101/045	NA	NA	-
 101/047	inn	2	- i nn - -
-101/049	NA	NA	- - - - -
+101/049	NA	NA	-
 101/051	sich	1	s i - ch -
-101/053	NA	NA	- - - - -
+101/053	NA	NA	-
 101/055	sich	1	s i - ch -
 101/057	sich	1	s i - ch -
 101/059	sich	1	s i - ch -
 101/061	eh	2	- eh - - -
-101/063	NA	NA	- - - - -
+101/063	NA	NA	-
 101/065	si	1	s i - - -
 101/067	si	1	s i - - -
 101/071	se	1	s e - - -
@@ -5436,23 +5436,23 @@
 101/145	si	1	s i - - -
 101/147	sii	1	s ii - - -
 102/037	si	1	s i - - -
-102/039	NA	NA	- - - - -
+102/039	NA	NA	-
 102/041	sech	1	s e - ch -
 102/043	sech	1	s e - ch -
 102/045	sech	1	s e - ch -
-102/047	NA	NA	- - - - -
+102/047	NA	NA	-
 102/049	si	1	s i - - -
-102/051	NA	NA	- - - - -
+102/051	NA	NA	-
 102/053	siich	1	s ii - ch -
 102/055	sich	1	s i - ch -
 102/057	ihn	2	- ih n - -
 102/059	en	2	- e n - -
-102/061	NA	NA	- - - - -
+102/061	NA	NA	-
 102/063	si	1	s i - - -
-102/065	NA	NA	- - - - -
+102/065	NA	NA	-
 102/067	si	1	s i - - -
 102/069	sche	1	sch e - - -
-102/071	NA	NA	- - - - -
+102/071	NA	NA	-
 102/073	im	2	- i m - -
 102/075	sie	1	s ie - - -
 102/077	m	2	- - m - -
@@ -5463,7 +5463,7 @@
 102/091	sö	1	s ö - - -
 102/093	eam	2	- ea m - -
 102/095	si	1	s i - - -
-102/097	NA	NA	- - - - -
+102/097	NA	NA	-
 102/099	si	1	s i - - -
 102/103	se	1	s e - - -
 102/107	sö	1	s ö - - -
@@ -5480,7 +5480,7 @@
 102/143	si	1	s i - - -
 102/145	si	1	s i - - -
 103/039	sech	1	s e - ch -
-103/041	NA	NA	- - - - -
+103/041	NA	NA	-
 103/043	sich	1	s i - ch -
 103/045	sech	1	s e - ch -
 103/047	sich	1	s i - ch -
@@ -5503,7 +5503,7 @@
 103/083	eahm	2	- eah m - -
 103/085	si	1	s i - - -
 103/087	sie	1	s ie - - -
-103/089	NA	NA	- - - - -
+103/089	NA	NA	-
 103/091	sö	1	s ö - - -
 103/097	sie	1	s ie - - -
 103/099	eahm	2	- eah m - -
@@ -5522,24 +5522,24 @@
 103/141	si	1	s i - - -
 103/143	si	1	s i - - -
 103/145	si	1	s i - - -
-104/033	NA	NA	- - - - -
+104/033	NA	NA	-
 104/035	sich	1	s i - ch -
 104/037	sech	1	s e - ch -
 104/039	sech	1	s e - ch -
 104/041	ihn	2	- ih n - -
 104/043	sech	1	s e - ch -
 104/045	sech	1	s e - ch -
-104/047	NA	NA	- - - - -
+104/047	NA	NA	-
 104/049	sech	1	s e - ch -
 104/051	sich	1	s i - ch -
 104/053	sich	1	s i - ch -
 104/055	en	2	- e n - -
 104/057	sech	1	s e - ch -
-104/059	NA	NA	- - - - -
+104/059	NA	NA	-
 104/061	sie	1	s ie - - -
 104/063	se	1	s e - - -
 104/065	si	1	s i - - -
-104/067	NA	NA	- - - - -
+104/067	NA	NA	-
 104/071	si	1	s i - - -
 104/075	si	1	s i - - -
 104/077	sig	1	s i - g -
@@ -5570,16 +5570,16 @@
 105/031	ihn	2	- ih n - -
 105/033	sich	1	s i - ch -
 105/035	sech	1	s e - ch -
-105/037	NA	NA	- - - - -
+105/037	NA	NA	-
 105/039	ihn	2	- ih n - -
 105/041	sech	1	s e - ch -
 105/043	sech	1	s e - ch -
 105/045	sech	1	s e - ch -
-105/047	NA	NA	- - - - -
-105/049	NA	NA	- - - - -
+105/047	NA	NA	-
+105/049	NA	NA	-
 105/051	si	1	s i - - -
-105/053	NA	NA	- - - - -
-105/055	NA	NA	- - - - -
+105/053	NA	NA	-
+105/055	NA	NA	-
 105/057	ine	2	- i n e -
 105/059	sich	1	s i - ch -
 105/061	inn	2	- i nn - -
@@ -5595,7 +5595,7 @@
 105/081	si	1	s i - - -
 105/085	si	1	s i - - -
 105/087	n	2	- - n - -
-105/089	NA	NA	- - - - -
+105/089	NA	NA	-
 105/103	se	1	s e - - -
 105/105	si	1	s i - - -
 105/111	si	1	s i - - -
@@ -5603,7 +5603,7 @@
 105/115	sich	1	s i - ch -
 105/117	eam	2	- ea m - -
 105/119	si	1	s i - - -
-105/121	NA	NA	- - - - -
+105/121	NA	NA	-
 105/125	si	1	s i - - -
 105/127	sie	1	s ie - - -
 105/131	si	1	s i - - -
@@ -5616,15 +5616,15 @@
 106/033	sech	1	s e - ch -
 106/035	sech	1	s e - ch -
 106/037	sich	1	s i - ch -
-106/039	NA	NA	- - - - -
-106/041	NA	NA	- - - - -
-106/043	NA	NA	- - - - -
-106/045	NA	NA	- - - - -
+106/039	NA	NA	-
+106/041	NA	NA	-
+106/043	NA	NA	-
+106/045	NA	NA	-
 106/047	seech	1	s ee - ch -
 106/049	sech	1	s e - ch -
-106/051	NA	NA	- - - - -
-106/053	NA	NA	- - - - -
-106/057	NA	NA	- - - - -
+106/051	NA	NA	-
+106/053	NA	NA	-
+106/057	NA	NA	-
 106/061	sich	1	s i - ch -
 106/063	si	1	s i - - -
 106/067	si	1	s i - - -
@@ -5636,19 +5636,19 @@
 106/081	nen	2	- - n e n
 106/085	si	1	s i - - -
 106/087	n	2	- - n - -
-106/093	NA	NA	- - - - -
+106/093	NA	NA	-
 106/097	se	1	s e - - -
 106/099	ihn	2	- ih n - -
 106/103	si	1	s i - - -
 106/111	si	1	s i - - -
 106/115	sö	1	s ö - - -
-106/121	NA	NA	- - - - -
+106/121	NA	NA	-
 106/123	si	1	s i - - -
-106/125	NA	NA	- - - - -
-106/129	NA	NA	- - - - -
+106/125	NA	NA	-
+106/129	NA	NA	-
 106/131	si	1	s i - - -
 106/133	sie	1	s ie - - -
-106/135	NA	NA	- - - - -
+106/135	NA	NA	-
 106/137	si	1	s i - - -
 106/139	sich	1	s i - ch -
 106/141	si	1	s i - - -
@@ -5657,21 +5657,21 @@
 107/033	sech	1	s e - ch -
 107/035	sich	1	s i - ch -
 107/037	sech	1	s e - ch -
-107/039	NA	NA	- - - - -
+107/039	NA	NA	-
 107/041	sech	1	s e - ch -
 107/043	si	1	s i - - -
 107/045	sich	1	s i - ch -
 107/047	ihns	2	- ih n - s
 107/049	sich	1	s i - ch -
-107/051	NA	NA	- - - - -
-107/053	NA	NA	- - - - -
-107/057	NA	NA	- - - - -
+107/051	NA	NA	-
+107/053	NA	NA	-
+107/057	NA	NA	-
 107/059	ine	2	- i n e -
 107/063	schi	1	sch i - - -
 107/065	schimsälb	1	sch i m - sälb
 107/071	am	2	- a m - -
 107/075	m	2	- - m - -
-107/081	NA	NA	- - - - -
+107/081	NA	NA	-
 107/085	n	2	- - n - -
 107/087	n	2	- - n - -
 107/089	in	2	- i n - -
@@ -5681,9 +5681,9 @@
 107/103	se	1	s e - - -
 107/105	ihm	2	- ih m - -
 107/107	se	1	s e - - -
-107/111	NA	NA	- - - - -
+107/111	NA	NA	-
 107/119	se	1	s e - - -
-107/121	NA	NA	- - - - -
+107/121	NA	NA	-
 107/123	sich	1	s i - ch -
 107/125	eam	2	- ea m - -
 107/127	eam	2	- ea m - -
@@ -5698,19 +5698,19 @@
 108/033	sich	1	s i - ch -
 108/035	sich	1	s i - ch -
 108/037	sech	1	s e - ch -
-108/039	NA	NA	- - - - -
+108/039	NA	NA	-
 108/041	sig	1	s i - g -
 108/043	sech	1	s e - ch -
 108/047	sich	1	s i - ch -
-108/049	NA	NA	- - - - -
-108/063	NA	NA	- - - - -
+108/049	NA	NA	-
+108/063	NA	NA	-
 108/065	schis	1	sch i - s -
 108/067	schi	1	sch i - - -
 108/075	iam	2	- ia m - -
-108/079	NA	NA	- - - - -
+108/079	NA	NA	-
 108/081	n	2	- - n - -
 108/085	n	2	- - n - -
-108/087	NA	NA	- - - - -
+108/087	NA	NA	-
 108/091	se	1	s e - - -
 108/099	ihn	2	- ih n - -
 108/101	ihn	2	- ih n - -
@@ -5719,7 +5719,7 @@
 108/109	se	1	s e - - -
 108/111	sö	1	s ö - - -
 108/113	se	1	s e - - -
-108/117	NA	NA	- - - - -
+108/117	NA	NA	-
 108/119	sie	1	s ie - - -
 108/121	sö	1	s ö - - -
 108/123	se	1	s e - - -
@@ -5732,21 +5732,21 @@
 108/137	si	1	s i - - -
 108/139	si	1	s i - - -
 108/141	sie	1	s ie - - -
-109/035	NA	NA	- - - - -
+109/035	NA	NA	-
 109/037	sech	1	s e - ch -
 109/039	inn	2	- i nn - -
 109/041	sich	1	s i - ch -
-109/043	NA	NA	- - - - -
+109/043	NA	NA	-
 109/045	ins	2	- i n - s
 109/049	ihn	2	- ih n - -
 109/053	ihnä	2	- ih n ä -
 109/061	sich	1	s i - ch -
 109/063	sich	1	s i - ch -
-109/065	NA	NA	- - - - -
+109/065	NA	NA	-
 109/067	schi	1	sch i - - -
 109/075	si	1	s i - - -
 109/083	n	2	- - n - -
-109/087	NA	NA	- - - - -
+109/087	NA	NA	-
 109/089	n	2	- - n - -
 109/091	se	1	s e - - -
 109/093	im	2	- i m - -
@@ -5756,7 +5756,7 @@
 109/101	n	2	- - n - -
 109/103	se	1	s e - - -
 109/107	se	1	s e - - -
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	se	1	s e - - -
 109/113	sie	1	s ie - - -
 109/115	se	1	s e - - -
@@ -5772,10 +5772,10 @@
 109/135	si	1	s i - - -
 109/137	si	1	s i - - -
 109/139	sa	1	s a - - -
-110/035	NA	NA	- - - - -
-110/039	NA	NA	- - - - -
+110/035	NA	NA	-
+110/039	NA	NA	-
 110/041	sich	1	s i - ch -
-110/043	NA	NA	- - - - -
+110/043	NA	NA	-
 110/045	ihnn	2	- ih nn - -
 110/047	in	2	- i n - -
 110/049	inn	2	- i nn - -
@@ -5783,16 +5783,16 @@
 110/061	schich	1	sch i - ch -
 110/065	schi	1	sch i - - -
 110/075	im	2	- i m - -
-110/079	NA	NA	- - - - -
+110/079	NA	NA	-
 110/081	n	2	- - n - -
 110/083	n	2	- - n - -
-110/087	NA	NA	- - - - -
+110/087	NA	NA	-
 110/089	sich	1	s i - ch -
-110/091	NA	NA	- - - - -
-110/093	NA	NA	- - - - -
+110/091	NA	NA	-
+110/093	NA	NA	-
 110/095	si	1	s i - - -
 110/097	se	1	s e - - -
-110/099	NA	NA	- - - - -
+110/099	NA	NA	-
 110/101	si	1	s i - - -
 110/105	se	1	s e - - -
 110/107	se	1	s e - - -
@@ -5801,22 +5801,22 @@
 110/115	se	1	s e - - -
 110/117	si	1	s i - - -
 110/119	si	1	s i - - -
-110/121	NA	NA	- - - - -
+110/121	NA	NA	-
 110/125	sich	1	s i - ch -
-110/127	NA	NA	- - - - -
-110/129	NA	NA	- - - - -
+110/127	NA	NA	-
+110/129	NA	NA	-
 110/131	si	1	s i - - -
 110/133	si	1	s i - - -
 110/135	sie	1	s ie - - -
 110/137	si	1	s i - - -
 110/139	si	1	s i - - -
 111/035	sch	1	sch - - - -
-111/037	NA	NA	- - - - -
+111/037	NA	NA	-
 111/039	sich	1	s i - ch -
 111/041	sech	1	s e - ch -
 111/043	inen	2	- i n e n
 111/045	mu	NA	m u - - -
-111/059	NA	NA	- - - - -
+111/059	NA	NA	-
 111/073	se	1	s e - - -
 111/075	si	1	s i - - -
 111/077	si	1	s i - - -
@@ -5838,12 +5838,12 @@
 111/125	sie	1	s ie - - -
 112/037	sich	1	s i - ch -
 112/039	sig	1	s i - g -
-112/041	NA	NA	- - - - -
-112/043	NA	NA	- - - - -
+112/041	NA	NA	-
+112/043	NA	NA	-
 112/047	schi	1	sch i - - -
-112/059	NA	NA	- - - - -
+112/059	NA	NA	-
 112/061	schi	1	sch i - - -
-112/063	NA	NA	- - - - -
+112/063	NA	NA	-
 112/075	si	1	s i - - -
 112/081	ihm	2	- ih m - -
 112/083	sich	1	s i - ch -
@@ -5854,8 +5854,8 @@
 112/119	sich	1	s i - ch -
 113/035	siech	1	s ie - ch -
 113/037	siich	1	s ii - ch -
-113/039	NA	NA	- - - - -
-113/047	NA	NA	- - - - -
+113/039	NA	NA	-
+113/047	NA	NA	-
 113/079	si	1	s i - - -
 113/081	in	2	- i n - -
 113/083	ihm	2	- ih m - -
@@ -5863,8 +5863,8 @@
 113/087	im	2	- i m - -
 113/121	sich	1	s i - ch -
 113/123	sich	1	s i - ch -
-114/035	NA	NA	- - - - -
-114/045	NA	NA	- - - - -
+114/035	NA	NA	-
+114/045	NA	NA	-
 114/083	si	1	s i - - -
 114/085	si	1	s i - - -
 115/041	inn	2	- i nn - -
@@ -5877,15 +5877,15 @@
 116/083	sich	1	s i - ch -
 117/043	sich	1	s i - ch -
 117/045	schich	1	sch i - ch -
-118/041	NA	NA	- - - - -
+118/041	NA	NA	-
 119/083	en	2	- e n - -
 120/085	ser	1	s er - - -
 121/127	schi	1	sch i - - -
 122/127	shi	1	sh i - - -
 122/129	shi	1	sh i - - -
-123/081	NA	NA	- - - - -
+123/081	NA	NA	-
 123/123	shi	1	sh i - - -
-123/125	NA	NA	- - - - -
+123/125	NA	NA	-
 123/127	shi	1	sh i - - -
 123/129	shi	1	sh i - - -
 124/125	shi	1	sh i - - -

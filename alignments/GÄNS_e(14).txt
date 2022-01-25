@@ -905,7 +905,7 @@
 027/071	gäus	1	g äu - - s -
 027/073	gäus	1	g äu - - s -
 027/075	gäus	1	g äu - - s -
-027/077	NA	NA	- - - - - -
+027/077	NA	NA	-
 027/079	gäus	1	g äu - - s -
 027/081	gäus	1	g äu - - s -
 027/083	gäus	1	g äu - - s -
@@ -1876,7 +1876,7 @@
 041/133	jans	1	j a n - s -
 041/135	gäns	1	g ä n - s -
 041/139	gäns	1	g ä n - s -
-041/141	NA	NA	- - - - - -
+041/141	NA	NA	-
 041/145	gäns	1	g ä n - s -
 041/147	gäns	1	g ä n - s -
 041/153	jas	1	j a - - s -
@@ -1995,7 +1995,7 @@
 043/125	jäns	1	j ä n - s -
 043/127	gans	1	g a n - s -
 043/129	jäns	1	j ä n - s -
-043/131	NA	NA	- - - - - -
+043/131	NA	NA	-
 043/133	gäns	1	g ä n - s -
 043/135	gäns	1	g ä n - s -
 043/137	gäns	1	g ä n - s -
@@ -2324,7 +2324,7 @@
 049/059	gäs	1	g ä - - s -
 049/061	gais	1	g ai - - s -
 049/063	gääis	1	g ääi - - s -
-049/065	NA	NA	- - - - - -
+049/065	NA	NA	-
 049/067	gäs	1	g ä - - s -
 049/069	gös	1	g ö - - s -
 049/071	güös	1	g üö - - s -
@@ -2991,7 +2991,7 @@
 059/025	jäis	1	j äi - - s -
 059/027	gängs	1	g ä ng - s -
 059/029	gängs	1	g ä ng - s -
-059/031	NA	NA	- - - - - -
+059/031	NA	NA	-
 059/033	gäns	1	g ä n - s -
 059/035	jans	1	j a n - s -
 059/037	jäns	1	j ä n - s -
@@ -3544,7 +3544,7 @@
 067/047	gens	1	g e n - s -
 067/049	gäns	1	g ä n - s -
 067/051	gäins	1	g äi n - s -
-067/053	NA	NA	- - - - - -
+067/053	NA	NA	-
 067/055	gens	1	g e n - s -
 067/057	gens	1	g e n - s -
 067/059	gens	1	g e n - s -
@@ -4776,7 +4776,7 @@
 089/121	gens	1	g e n - s -
 089/123	ganös	1	g a n ö s -
 089/125	gäns	1	g ä n - s -
-089/127	NA	NA	- - - - - -
+089/127	NA	NA	-
 089/129	gäns	1	g ä n - s -
 089/131	gäns	1	g ä n - s -
 089/133	gens	1	g e n - s -
@@ -4922,7 +4922,7 @@
 092/065	gais	1	g ai - - s -
 092/067	geiis	1	g eii - - s -
 092/069	geis	1	g ei - - s -
-092/071	NA	NA	- - - - - -
+092/071	NA	NA	-
 092/073	geis	1	g ei - - s -
 092/075	geis	1	g ei - - s -
 092/077	ges	1	g e - - s -
@@ -5377,7 +5377,7 @@
 100/099	gäns	1	g ä n - s -
 100/101	gäns	1	g ä n - s -
 100/109	gens	1	g e n - s -
-100/111	NA	NA	- - - - - -
+100/111	NA	NA	-
 100/113	gäns	1	g ä n - s -
 100/115	gäns	1	g ä n - s -
 100/117	gäns	1	g ä n - s -
@@ -5753,7 +5753,7 @@
 109/095	gens	1	g e n - s -
 109/097	gäns	1	g ä n - s -
 109/099	göns	1	g ö n - s -
-109/101	NA	NA	- - - - - -
+109/101	NA	NA	-
 109/103	gens	1	g e n - s -
 109/107	göns	1	g ö n - s -
 109/109	gens	1	g e n - s -

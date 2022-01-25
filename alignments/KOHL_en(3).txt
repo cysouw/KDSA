@@ -373,7 +373,7 @@
 019/147	koahl	1	k oah l
 019/149	kohl	1	k oh l
 019/151	kahl	1	k ah l
-019/153	NA	NA	- - - - - -
+019/153	NA	NA	-
 019/155	kohl	1	k oh l
 019/157	kahl	1	k ah l
 019/159	koahl	1	k oah l
@@ -487,7 +487,7 @@
 021/077	köhl	1	k öh l
 021/079	köl	1	k ö l
 021/087	kahl	1	k ah l
-021/089	NA	NA	- - - - - -
+021/089	NA	NA	-
 021/091	kahl	1	k ah l
 021/093	kal	1	k a l
 021/095	kahl	1	k ah l
@@ -648,7 +648,7 @@
 023/125	kohl	1	k oh l
 023/127	koahl	1	k oah l
 023/129	kohl	1	k oh l
-023/131	NA	NA	- - - - - -
+023/131	NA	NA	-
 023/133	kauhl	1	k auh l
 023/135	koal	1	k oa l
 023/137	koahl	1	k oah l
@@ -1045,7 +1045,7 @@
 029/067	kahl	1	k ah l
 029/069	kaohl	1	k aoh l
 029/071	kal	1	k a l
-029/073	NA	NA	- - - - - -
+029/073	NA	NA	-
 029/075	kahl	1	k ah l
 029/077	kahl	1	k ah l
 029/079	kahl	1	k ah l
@@ -1151,7 +1151,7 @@
 030/135	kol	1	k o l
 030/137	kol	1	k o l
 030/139	kohl	1	k oh l
-030/141	NA	NA	- - - - - -
+030/141	NA	NA	-
 030/143	kaul	1	k au l
 030/145	kaul	1	k au l
 030/147	kaul	1	k au l
@@ -1169,7 +1169,7 @@
 030/171	kohl	1	k oh l
 030/173	kaohl	1	k aoh l
 030/175	kohl	1	k oh l
-030/177	NA	NA	- - - - - -
+030/177	NA	NA	-
 030/179	köal	1	k öa l
 030/181	kohl	1	k oh l
 030/183	kohl	1	k oh l
@@ -1678,7 +1678,7 @@
 038/099	koahl	1	k oah l
 038/101	koahl	1	k oah l
 038/103	kol	1	k o l
-038/105	NA	NA	- - - - - -
+038/105	NA	NA	-
 038/107	koahl	1	k oah l
 038/109	koohl	1	k ooh l
 038/111	koahl	1	k oah l
@@ -2328,7 +2328,7 @@
 049/067	kohl	1	k oh l
 049/069	koll	1	k o ll
 049/071	koll	1	k o ll
-049/073	NA	NA	- - - - - -
+049/073	NA	NA	-
 049/077	koll	1	k o ll
 049/079	koll	1	k o ll
 049/081	koll	1	k o ll
@@ -2352,7 +2352,7 @@
 049/117	kohl	1	k oh l
 049/119	kohl	1	k oh l
 049/121	kohl	1	k oh l
-049/123	NA	NA	- - - - - -
+049/123	NA	NA	-
 049/125	kuohl	1	k uoh l
 049/127	kohl	1	k oh l
 049/129	kul	1	k u l
@@ -3246,7 +3246,7 @@
 062/105	kuhl	1	k uh l
 062/107	kohl	1	k oh l
 062/109	kuhl	1	k uh l
-062/111	NA	NA	- - - - - -
+062/111	NA	NA	-
 062/113	kohl	1	k oh l
 062/115	koul	1	k ou l
 062/117	kouhl	1	k ouh l
@@ -3329,7 +3329,7 @@
 063/135	kohl	1	k oh l
 063/137	kohl	1	k oh l
 063/139	kohl	1	k oh l
-063/141	NA	NA	- - - - - -
+063/141	NA	NA	-
 063/143	kohl	1	k oh l
 063/145	kohl	1	k oh l
 063/147	koohl	1	k ooh l
@@ -3386,7 +3386,7 @@
 064/105	kuhl	1	k uh l
 064/107	kuhl	1	k uh l
 064/109	kuhl	1	k uh l
-064/111	NA	NA	- - - - - -
+064/111	NA	NA	-
 064/113	kohl	1	k oh l
 064/115	kohl	1	k oh l
 064/117	koul	1	k ou l
@@ -3449,11 +3449,11 @@
 065/097	kuul	1	k uu l
 065/101	kuhl	1	k uh l
 065/103	kuhl	1	k uh l
-065/105	NA	NA	- - - - - -
+065/105	NA	NA	-
 065/107	kuhl	1	k uh l
 065/109	kull	1	k u ll
 065/111	kohl	1	k oh l
-065/113	NA	NA	- - - - - -
+065/113	NA	NA	-
 065/115	koul	1	k ou l
 065/121	kouhl	1	k ouh l
 065/123	kohl	1	k oh l
@@ -3611,7 +3611,7 @@
 068/061	koll	1	k o ll
 068/063	kouhl	1	k ouh l
 068/065	kohl	1	k oh l
-068/067	NA	NA	- - - - - -
+068/067	NA	NA	-
 068/069	koll	1	k o ll
 068/071	kool	1	k oo l
 068/073	kohl	1	k oh l
@@ -3627,12 +3627,12 @@
 068/093	kual	1	k ua l
 068/095	kul	1	k u l
 068/097	kul	1	k u l
-068/099	NA	NA	- - - - - -
+068/099	NA	NA	-
 068/101	kul	1	k u l
 068/103	kuhl	1	k uh l
 068/105	kull	1	k u ll
 068/107	kui	1	k ui -
-068/109	NA	NA	- - - - - -
+068/109	NA	NA	-
 068/111	kull	1	k u ll
 068/145	kohl	1	k oh l
 068/147	kohl	1	k oh l
@@ -4230,7 +4230,7 @@
 080/027	kuhl	1	k uh l
 080/029	kohl	1	k oh l
 080/031	kohl	1	k oh l
-080/033	NA	NA	- - - - - -
+080/033	NA	NA	-
 080/035	kohl	1	k oh l
 080/037	kouhl	1	k ouh l
 080/039	kohl	1	k oh l
@@ -4268,7 +4268,7 @@
 080/103	koö	1	k oö -
 080/105	kol	1	k o l
 080/107	kohl	1	k oh l
-080/109	NA	NA	- - - - - -
+080/109	NA	NA	-
 080/127	kuhl	1	k uh l
 080/147	kull	1	k u ll
 080/151	kaul	1	k au l
@@ -4324,7 +4324,7 @@
 081/147	khaul	1	kh au l
 081/191	käul	1	k äu l
 081/193	keul	1	k eu l
-081/195	NA	NA	- - - - - -
+081/195	NA	NA	-
 082/027	kuuhl	1	k uuh l
 082/029	kohl	1	k oh l
 082/031	kohl	1	k oh l
@@ -4644,7 +4644,7 @@
 087/079	kohl	1	k oh l
 087/081	koi	1	k oi -
 087/083	kel	1	k e l
-087/085	NA	NA	- - - - - -
+087/085	NA	NA	-
 087/087	koi	1	k oi -
 087/089	koi	1	k oi -
 087/091	koih	1	k oih -
@@ -4717,7 +4717,7 @@
 088/109	köi	1	k öi -
 088/113	köhl	1	k öh l
 088/115	kohl	1	k oh l
-088/117	NA	NA	- - - - - -
+088/117	NA	NA	-
 088/121	kui	1	k ui -
 088/123	kohl	1	k oh l
 088/127	koi	1	k oi -
@@ -4824,7 +4824,7 @@
 090/101	koi	1	k oi -
 090/103	koi	1	k oi -
 090/105	kohl	1	k oh l
-090/107	NA	NA	- - - - - -
+090/107	NA	NA	-
 090/109	koi	1	k oi -
 090/111	koi	1	k oi -
 090/113	kohl	1	k oh l
@@ -4877,7 +4877,7 @@
 091/093	koih	1	k oih -
 091/095	köal	1	k öa l
 091/097	koi	1	k oi -
-091/099	NA	NA	- - - - - -
+091/099	NA	NA	-
 091/101	kei	1	k ei -
 091/103	koi	1	k oi -
 091/105	kohl	1	k oh l
@@ -4887,10 +4887,10 @@
 091/113	kohl	1	k oh l
 091/115	kohl	1	k oh l
 091/117	koi	1	k oi -
-091/119	NA	NA	- - - - - -
+091/119	NA	NA	-
 091/121	kohl	1	k oh l
 091/125	koi	1	k oi -
-091/129	NA	NA	- - - - - -
+091/129	NA	NA	-
 091/131	kohl	1	k oh l
 091/133	kohi	1	k ohi -
 091/135	koh	1	k oh -
@@ -4956,7 +4956,7 @@
 092/133	kouh	1	k ouh -
 092/135	koi	1	k oi -
 092/137	kohl	1	k oh l
-092/139	NA	NA	- - - - - -
+092/139	NA	NA	-
 092/141	koi	1	k oi -
 092/143	kohl	1	k oh l
 092/145	koi	1	k oi -
@@ -5004,11 +5004,11 @@
 093/113	koi	1	k oi -
 093/115	kohl	1	k oh l
 093/117	koi	1	k oi -
-093/119	NA	NA	- - - - - -
+093/119	NA	NA	-
 093/121	kohl	1	k oh l
 093/123	koi	1	k oi -
 093/125	koi	1	k oi -
-093/127	NA	NA	- - - - - -
+093/127	NA	NA	-
 093/129	kohl	1	k oh l
 093/131	koi	1	k oi -
 093/133	koi	1	k oi -
@@ -5018,7 +5018,7 @@
 093/145	kohl	1	k oh l
 093/147	kohl	1	k oh l
 093/149	kohl	1	k oh l
-093/151	NA	NA	- - - - - -
+093/151	NA	NA	-
 093/153	kohl	1	k oh l
 093/155	kuhl	1	k uh l
 094/033	kool	1	k oo l
@@ -5059,7 +5059,7 @@
 094/103	koi	1	k oi -
 094/105	koi	1	k oi -
 094/107	kohl	1	k oh l
-094/109	NA	NA	- - - - - -
+094/109	NA	NA	-
 094/111	koi	1	k oi -
 094/113	kohl	1	k oh l
 094/115	kohl	1	k oh l
@@ -5133,7 +5133,7 @@
 095/129	koah	1	k oah -
 095/131	koi	1	k oi -
 095/133	hoiz	2	h oi - z
-095/139	NA	NA	- - - - - -
+095/139	NA	NA	-
 095/141	kohl	1	k oh l
 095/143	kohl	1	k oh l
 095/145	kui	1	k ui -
@@ -5162,7 +5162,7 @@
 096/065	kohl	1	k oh l
 096/067	holz	2	h o l z
 096/069	kohl	1	k oh l
-096/071	NA	NA	- - - - - -
+096/071	NA	NA	-
 096/075	kohl	1	k oh l
 096/077	kohl	1	k oh l
 096/079	kohl	1	k oh l
@@ -5184,7 +5184,7 @@
 096/111	koi	1	k oi -
 096/113	kohl	1	k oh l
 096/115	koi	1	k oi -
-096/117	NA	NA	- - - - - -
+096/117	NA	NA	-
 096/119	koi	1	k oi -
 096/121	kooi	1	k ooi -
 096/123	koi	1	k oi -
@@ -5192,7 +5192,7 @@
 096/129	koi	1	k oi -
 096/131	koh	1	k oh -
 096/135	kohl	1	k oh l
-096/137	NA	NA	- - - - - -
+096/137	NA	NA	-
 096/139	koui	1	k oui -
 096/141	kohl	1	k oh l
 096/143	kohl	1	k oh l
@@ -5290,16 +5290,16 @@
 098/111	koi	1	k oi -
 098/119	kol	1	k o l
 098/123	kohl	1	k oh l
-098/125	NA	NA	- - - - - -
+098/125	NA	NA	-
 098/127	koi	1	k oi -
 098/135	kui	1	k ui -
 098/137	kea	1	k ea -
 098/139	kohl	1	k oh l
 098/141	kui	1	k ui -
-098/143	NA	NA	- - - - - -
+098/143	NA	NA	-
 098/145	kuhl	1	k uh l
 098/147	kol	1	k o l
-098/149	NA	NA	- - - - - -
+098/149	NA	NA	-
 098/151	kul	1	k u l
 099/033	kol	1	k o l
 099/035	kohl	1	k oh l
@@ -5331,7 +5331,7 @@
 099/095	koi	1	k oi -
 099/099	koi	1	k oi -
 099/101	kohl	1	k oh l
-099/103	NA	NA	- - - - - -
+099/103	NA	NA	-
 099/105	koi	1	k oi -
 099/107	ko	1	k o -
 099/109	hoiz	2	h oi - z
@@ -5374,7 +5374,7 @@
 100/093	koüh	1	k oüh -
 100/095	koi	1	k oi -
 100/097	koi	1	k oi -
-100/099	NA	NA	- - - - - -
+100/099	NA	NA	-
 100/101	horz	2	h o r z
 100/109	koi	1	k oi -
 100/111	kohl	1	k oh l
@@ -5386,11 +5386,11 @@
 100/125	kohl	1	k oh l
 100/127	kohl	1	k oh l
 100/129	kuhl	1	k uh l
-100/133	NA	NA	- - - - - -
+100/133	NA	NA	-
 100/135	kohl	1	k oh l
 100/141	kuul	1	k uu l
 100/143	kuihl	1	k uih l
-100/145	NA	NA	- - - - - -
+100/145	NA	NA	-
 101/035	chohl	1	ch oh l
 101/037	chol	1	ch o l
 101/039	chohl	1	ch oh l
@@ -5429,7 +5429,7 @@
 101/129	kul	1	k u l
 101/131	kuhl	1	k uh l
 101/133	kuhl	1	k uh l
-101/137	NA	NA	- - - - - -
+101/137	NA	NA	-
 101/139	kohl	1	k oh l
 101/141	kuhl	1	k uh l
 101/143	kuhl	1	k uh l
@@ -5464,7 +5464,7 @@
 102/093	koi	1	k oi -
 102/095	ko	1	k o -
 102/097	holz	2	h o l z
-102/099	NA	NA	- - - - - -
+102/099	NA	NA	-
 102/103	koih	1	k oih -
 102/107	koi	1	k oi -
 102/109	koi	1	k oi -
@@ -5473,7 +5473,7 @@
 102/127	kuhl	1	k uh l
 102/129	kuhl	1	k uh l
 102/131	kul	1	k u l
-102/135	NA	NA	- - - - - -
+102/135	NA	NA	-
 102/137	kuhl	1	k uh l
 102/139	kul	1	k u l
 102/141	kul	1	k u l
@@ -5547,7 +5547,7 @@
 104/081	kohl	1	k oh l
 104/083	kohl	1	k oh l
 104/085	kohl	1	k oh l
-104/091	NA	NA	- - - - - -
+104/091	NA	NA	-
 104/095	koö	1	k oö -
 104/101	koi	1	k oi -
 104/103	koi	1	k oi -
@@ -5556,8 +5556,8 @@
 104/113	hoiz	2	h oi - z
 104/119	kuhl	1	k uh l
 104/121	schaita	3	sch ai t a - -
-104/123	NA	NA	- - - - - -
-104/125	NA	NA	- - - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	kuhl	1	k uh l
 104/131	kul	1	k u l
 104/133	kuhl	1	k uh l
@@ -5593,7 +5593,7 @@
 105/077	kohl	1	k oh l
 105/079	kohl	1	k oh l
 105/081	kohl	1	k oh l
-105/085	NA	NA	- - - - - -
+105/085	NA	NA	-
 105/087	kohl	1	k oh l
 105/089	kohl	1	k oh l
 105/103	koi	1	k oi -
@@ -5602,7 +5602,7 @@
 105/113	koih	1	k oih -
 105/115	kohl	1	k oh l
 105/117	kuhl	1	k uh l
-105/119	NA	NA	- - - - - -
+105/119	NA	NA	-
 105/121	kuhl	1	k uh l
 105/125	kuhl	1	k uh l
 105/127	kuhl	1	k uh l
@@ -5648,7 +5648,7 @@
 106/129	kuhl	1	k uh l
 106/131	kul	1	k u l
 106/133	kul	1	k u l
-106/135	NA	NA	- - - - - -
+106/135	NA	NA	-
 106/137	kuhl	1	k uh l
 106/139	kohl	1	k oh l
 106/141	kuhl	1	k uh l
@@ -5672,7 +5672,7 @@
 107/071	kohl	1	k oh l
 107/075	kouhl	1	k ouh l
 107/081	kohl	1	k oh l
-107/085	NA	NA	- - - - - -
+107/085	NA	NA	-
 107/087	koul	1	k ou l
 107/089	köl	1	k ö l
 107/091	kel	1	k e l
@@ -5683,11 +5683,11 @@
 107/107	kohl	1	k oh l
 107/111	holz	2	h o l z
 107/119	kohl	1	k oh l
-107/121	NA	NA	- - - - - -
+107/121	NA	NA	-
 107/123	kuhl	1	k uh l
-107/125	NA	NA	- - - - - -
+107/125	NA	NA	-
 107/127	kouhl	1	k ouh l
-107/129	NA	NA	- - - - - -
+107/129	NA	NA	-
 107/131	kuhl	1	k uh l
 107/133	kul	1	k u l
 107/135	kuahl	1	k uah l
@@ -5699,7 +5699,7 @@
 108/035	chol	1	ch o l
 108/037	chol	1	ch o l
 108/039	chol	1	ch o l
-108/041	NA	NA	- - - - - -
+108/041	NA	NA	-
 108/043	chol	1	ch o l
 108/047	chol	1	ch o l
 108/049	scheitli	3	sch ei t l i -
@@ -5711,11 +5711,11 @@
 108/081	koul	1	k ou l
 108/085	kohl	1	k oh l
 108/087	koul	1	k ou l
-108/091	NA	NA	- - - - - -
+108/091	NA	NA	-
 108/099	köuhl	1	k öuh l
 108/101	kouhl	1	k ouh l
 108/103	kol	1	k o l
-108/105	NA	NA	- - - - - -
+108/105	NA	NA	-
 108/109	kohl	1	k oh l
 108/111	kohl	1	k oh l
 108/113	kohl	1	k oh l
@@ -5736,7 +5736,7 @@
 109/037	chol	1	ch o l
 109/039	chol	1	ch o l
 109/041	chol	1	ch o l
-109/043	NA	NA	- - - - - -
+109/043	NA	NA	-
 109/045	chol	1	ch o l
 109/049	chol	1	ch o l
 109/053	chohl	1	ch oh l
@@ -5753,7 +5753,7 @@
 109/095	koul	1	k ou l
 109/097	kohl	1	k oh l
 109/099	koul	1	k ou l
-109/101	NA	NA	- - - - - -
+109/101	NA	NA	-
 109/103	kohl	1	k oh l
 109/107	kohl	1	k oh l
 109/109	scheitlan	3	sch ei t l a n
@@ -5763,12 +5763,12 @@
 109/117	holz	2	h o l z
 109/119	kohl	1	k oh l
 109/121	kohl	1	k oh l
-109/123	NA	NA	- - - - - -
+109/123	NA	NA	-
 109/125	kohl	1	k oh l
-109/127	NA	NA	- - - - - -
+109/127	NA	NA	-
 109/129	kul	1	k u l
 109/131	kul	1	k u l
-109/133	NA	NA	- - - - - -
+109/133	NA	NA	-
 109/135	kul	1	k u l
 109/137	kul	1	k u l
 109/139	kuhl	1	k uh l
@@ -5783,13 +5783,13 @@
 110/061	chohl	1	ch oh l
 110/065	choll	1	ch o ll
 110/075	koul	1	k ou l
-110/079	NA	NA	- - - - - -
+110/079	NA	NA	-
 110/081	koul	1	k ou l
 110/083	koul	1	k ou l
 110/087	choul	1	ch ou l
 110/089	keul	1	k eu l
 110/091	holz	2	h o l z
-110/093	NA	NA	- - - - - -
+110/093	NA	NA	-
 110/095	kohl	1	k oh l
 110/097	kohl	1	k oh l
 110/099	kohl	1	k oh l
@@ -5830,7 +5830,7 @@
 111/109	kol	1	k o l
 111/111	kohl	1	k oh l
 111/113	kohl	1	k oh l
-111/115	NA	NA	- - - - - -
+111/115	NA	NA	-
 111/117	kohl	1	k oh l
 111/119	kchol	1	kch o l
 111/121	koll	1	k o ll
@@ -5844,10 +5844,10 @@
 112/059	choll	1	ch o ll
 112/061	chohl	1	ch oh l
 112/063	choll	1	ch o ll
-112/075	NA	NA	- - - - - -
+112/075	NA	NA	-
 112/081	koul	1	k ou l
 112/083	kohl	1	k oh l
-112/085	NA	NA	- - - - - -
+112/085	NA	NA	-
 112/111	kohl	1	k oh l
 112/115	kohl	1	k oh l
 112/117	kohl	1	k oh l

@@ -210,7 +210,7 @@
 016/065	leve	1	l e v e -
 016/067	lewes	1	l e w e s
 016/081	lewes	1	l e w e s
-016/083	NA	NA	- - - - - - - - -
+016/083	NA	NA	-
 016/105	leiwes	1	l ei w e s
 016/107	leiwes	1	l ei w e s
 016/109	leiwes	1	l ei w e s
@@ -350,7 +350,7 @@
 019/055	lewe	1	l e w e -
 019/057	lewe	1	l e w e -
 019/059	lev	1	l e v - -
-019/061	NA	NA	- - - - - - - - -
+019/061	NA	NA	-
 019/063	lewes	1	l e w e s
 019/065	lewes	1	l e w e s
 019/067	leves	1	l e v e s
@@ -410,7 +410,7 @@
 020/043	go	3	g o - - -
 020/053	leiv	1	l ei v - -
 020/055	lewes	1	l e w e s
-020/057	NA	NA	- - - - - - - - -
+020/057	NA	NA	-
 020/059	lew	1	l e w - -
 020/061	lew	1	l e w - -
 020/063	lew	1	l e w - -
@@ -882,7 +882,7 @@
 026/181	liebes	1	l ie b e s
 026/183	liebes	1	l ie b e s
 026/185	liebes	1	l ie b e s
-026/187	NA	NA	- - - - - - - - -
+026/187	NA	NA	-
 026/189	liebes	1	l ie b e s
 027/027	leive	1	l ei v e -
 027/035	lefe	1	l e f e -
@@ -1161,7 +1161,7 @@
 030/155	leiw	1	l ei w - -
 030/157	leiw	1	l ei w - -
 030/159	leiw	1	l ei w - -
-030/161	NA	NA	- - - - - - - - -
+030/161	NA	NA	-
 030/163	leif	1	l ei f - -
 030/165	leiw	1	l ei w - -
 030/167	leiw	1	l ei w - -
@@ -1876,7 +1876,7 @@
 041/133	lebes	1	l e b e s
 041/135	liebes	1	l ie b e s
 041/139	liebes	1	l ie b e s
-041/141	NA	NA	- - - - - - - - -
+041/141	NA	NA	-
 041/145	liebes	1	l ie b e s
 041/147	liebes	1	l ie b e s
 041/153	lew	1	l e w - -
@@ -1935,7 +1935,7 @@
 042/131	liebes	1	l ie b e s
 042/133	liebes	1	l ie b e s
 042/135	lieb	1	l ie b - -
-042/137	NA	NA	- - - - - - - - -
+042/137	NA	NA	-
 042/139	liebes	1	l ie b e s
 042/141	liebes	1	l ie b e s
 042/143	liebes	1	l ie b e s
@@ -2412,7 +2412,7 @@
 050/109	liebet	1	l ie b e t
 050/111	liewet	1	l ie w e t
 050/113	liewes	1	l ie w e s
-050/115	NA	NA	- - - - - - - - -
+050/115	NA	NA	-
 050/117	liebes	1	l ie b e s
 050/119	liebes	1	l ie b e s
 050/121	liebes	1	l ie b e s
@@ -2430,7 +2430,7 @@
 050/147	liebs	1	l ie b - s
 050/149	liebes	1	l ie b e s
 050/151	liebes	1	l ie b e s
-050/155	NA	NA	- - - - - - - - -
+050/155	NA	NA	-
 050/157	leibes	1	l ei b e s
 050/159	liebes	1	l ie b e s
 050/161	liebes	1	l ie b e s
@@ -2766,7 +2766,7 @@
 055/143	liebes	1	l ie b e s
 055/145	liebes	1	l ie b e s
 055/147	libes	1	l i b e s
-055/149	NA	NA	- - - - - - - - -
+055/149	NA	NA	-
 055/151	liebes	1	l ie b e s
 055/153	liebes	1	l ie b e s
 055/155	libes	1	l i b e s
@@ -2894,7 +2894,7 @@
 057/117	liebes	1	l ie b e s
 057/119	liebes	1	l ie b e s
 057/121	liebes	1	l ie b e s
-057/123	NA	NA	- - - - - - - - -
+057/123	NA	NA	-
 057/125	liebes	1	l ie b e s
 057/127	liebes	1	l ie b e s
 057/129	liebes	1	l ie b e s
@@ -3028,18 +3028,18 @@
 059/099	liebes	1	l ie b e s
 059/101	liebes	1	l ie b e s
 059/103	liebes	1	l ie b e s
-059/105	NA	NA	- - - - - - - - -
+059/105	NA	NA	-
 059/107	liebs	1	l ie b - s
-059/109	NA	NA	- - - - - - - - -
+059/109	NA	NA	-
 059/111	gutes	3	g u t e s
 059/113	liebes	1	l ie b e s
 059/115	libbes	1	l i bb e s
-059/117	NA	NA	- - - - - - - - -
+059/117	NA	NA	-
 059/119	liebes	1	l ie b e s
 059/121	liewes	1	l ie w e s
 059/123	liebes	1	l ie b e s
 059/125	liebes	1	l ie b e s
-059/127	NA	NA	- - - - - - - - -
+059/127	NA	NA	-
 059/129	liebes	1	l ie b e s
 059/131	libs	1	l i b - s
 059/133	liebes	1	l ie b e s
@@ -3183,7 +3183,7 @@
 061/121	liebs	1	l ie b - s
 061/123	liebes	1	l ie b e s
 061/125	liebes	1	l ie b e s
-061/127	NA	NA	- - - - - - - - -
+061/127	NA	NA	-
 061/129	liibs	1	l ii b - s
 061/131	liebes	1	l ie b e s
 061/133	liebes	1	l ie b e s
@@ -3209,7 +3209,7 @@
 062/031	lew	1	l e w - -
 062/033	lew	1	l e w - -
 062/035	lev	1	l e v - -
-062/037	NA	NA	- - - - - - - - -
+062/037	NA	NA	-
 062/039	lev	1	l e v - -
 062/041	lew	1	l e w - -
 062/043	lewes	1	l e w e s
@@ -3227,7 +3227,7 @@
 062/067	lebes	1	l e b e s
 062/069	lieb	1	l ie b - -
 062/071	gut	3	g u t - -
-062/073	NA	NA	- - - - - - - - -
+062/073	NA	NA	-
 062/075	liewes	1	l ie w e s
 062/077	liebes	1	l ie b e s
 062/079	liebes	1	l ie b e s
@@ -3239,19 +3239,19 @@
 062/091	liebs	1	l ie b - s
 062/093	liebs	1	l ie b - s
 062/095	liebs	1	l ie b - s
-062/097	NA	NA	- - - - - - - - -
+062/097	NA	NA	-
 062/099	liebs	1	l ie b - s
 062/101	liebs	1	l ie b - s
 062/103	liebs	1	l ie b - s
 062/105	liebs	1	l ie b - s
 062/107	liebes	1	l ie b e s
 062/109	liebs	1	l ie b - s
-062/111	NA	NA	- - - - - - - - -
+062/111	NA	NA	-
 062/113	liewes	1	l ie w e s
-062/115	NA	NA	- - - - - - - - -
+062/115	NA	NA	-
 062/117	liewes	1	l ie w e s
 062/119	liewes	1	l ie w e s
-062/121	NA	NA	- - - - - - - - -
+062/121	NA	NA	-
 062/123	liebis	1	l ie b i s
 062/125	liebes	1	l ie b e s
 062/127	liebs	1	l ie b - s
@@ -3295,7 +3295,7 @@
 063/061	lieb	1	l ie b - -
 063/063	good	3	g oo d - -
 063/065	leb	1	l e b - -
-063/067	NA	NA	- - - - - - - - -
+063/067	NA	NA	-
 063/069	leb	1	l e b - -
 063/071	liebes	1	l ie b e s
 063/073	liebes	1	l ie b e s
@@ -3322,8 +3322,8 @@
 063/115	liebs	1	l ie b - s
 063/117	liebes	1	l ie b e s
 063/119	liibes	1	l ii b e s
-063/121	NA	NA	- - - - - - - - -
-063/123	NA	NA	- - - - - - - - -
+063/121	NA	NA	-
+063/123	NA	NA	-
 063/125	liebes	1	l ie b e s
 063/127	liebs	1	l ie b - s
 063/135	liewes	1	l ie w e s
@@ -3386,7 +3386,7 @@
 064/105	liebs	1	l ie b - s
 064/107	liebs	1	l ie b - s
 064/109	liebs	1	l ie b - s
-064/111	NA	NA	- - - - - - - - -
+064/111	NA	NA	-
 064/113	liewes	1	l ie w e s
 064/115	lieves	1	l ie v e s
 064/117	liebes	1	l ie b e s
@@ -3449,11 +3449,11 @@
 065/097	guts	3	g u t - s
 065/101	liebs	1	l ie b - s
 065/103	liebs	1	l ie b - s
-065/105	NA	NA	- - - - - - - - -
+065/105	NA	NA	-
 065/107	liebs	1	l ie b - s
 065/109	liebs	1	l ie b - s
 065/111	liewet	1	l ie w e t
-065/113	NA	NA	- - - - - - - - -
+065/113	NA	NA	-
 065/115	liebes	1	l ie b e s
 065/121	liebes	1	l ie b e s
 065/123	liebes	1	l ie b e s
@@ -3508,10 +3508,10 @@
 066/095	liebs	1	l ie b - s
 066/097	liebs	1	l ie b - s
 066/099	trauts	NA	t r au t s - - - -
-066/101	NA	NA	- - - - - - - - -
+066/101	NA	NA	-
 066/103	liebs	1	l ie b - s
 066/105	liebs	1	l ie b - s
-066/107	NA	NA	- - - - - - - - -
+066/107	NA	NA	-
 066/109	liebs	1	l ie b - s
 066/111	liebs	1	l ie b - s
 066/113	liebs	1	l ie b - s
@@ -3564,7 +3564,7 @@
 067/087	läibs	1	l äi b - s
 067/089	leibs	1	l ei b - s
 067/091	guts	3	g u t - s
-067/093	NA	NA	- - - - - - - - -
+067/093	NA	NA	-
 067/095	guots	3	g uo t - s
 067/097	gouts	3	g ou t - s
 067/099	leiwas	1	l ei w a s
@@ -3611,7 +3611,7 @@
 068/061	lieb	1	l ie b - -
 068/063	liabes	1	l ia b e s
 068/065	liebes	1	l ie b e s
-068/067	NA	NA	- - - - - - - - -
+068/067	NA	NA	-
 068/069	lieabs	1	l iea b - s
 068/071	guts	3	g u t - s
 068/073	liabes	1	l ia b e s
@@ -3626,13 +3626,13 @@
 068/091	liebs	1	l ie b - s
 068/093	läibs	1	l äi b - s
 068/095	leibs	1	l ei b - s
-068/097	NA	NA	- - - - - - - - -
-068/099	NA	NA	- - - - - - - - -
+068/097	NA	NA	-
+068/099	NA	NA	-
 068/101	löis	1	l öi - - s
 068/103	löibs	1	l öi b - s
 068/105	lejbs	1	l ej b - s
 068/107	löibs	1	l öi b - s
-068/109	NA	NA	- - - - - - - - -
+068/109	NA	NA	-
 068/111	liebs	1	l ie b - s
 068/145	liewes	1	l ie w e s
 068/147	liewes	1	l ie w e s
@@ -3720,7 +3720,7 @@
 070/057	lieb	1	l ie b - -
 070/059	lieb	1	l ie b - -
 070/061	liebes	1	l ie b e s
-070/063	NA	NA	- - - - - - - - -
+070/063	NA	NA	-
 070/065	liabes	1	l ia b e s
 070/067	liabs	1	l ia b - s
 070/069	libs	1	l i b - s
@@ -3809,7 +3809,7 @@
 071/157	liebes	1	l ie b e s
 071/159	libes	1	l i b e s
 071/161	liebes	1	l ie b e s
-071/163	NA	NA	- - - - - - - - -
+071/163	NA	NA	-
 071/177	liwes	1	l i w e s
 071/179	liebes	1	l ie b e s
 072/017	left	1	l e f - t
@@ -3854,7 +3854,7 @@
 072/095	liabs	1	l ia b - s
 072/097	löibs	1	l öi b - s
 072/099	lois	1	l oi - - s
-072/101	NA	NA	- - - - - - - - -
+072/101	NA	NA	-
 072/103	löis	1	l öi - - s
 072/105	leis	1	l ei - - s
 072/107	löibs	1	l öi b - s
@@ -3895,7 +3895,7 @@
 073/061	liebs	1	l ie b - s
 073/063	liebs	1	l ie b - s
 073/065	liebs	1	l ie b - s
-073/067	NA	NA	- - - - - - - - -
+073/067	NA	NA	-
 073/069	lieabs	1	l iea b - s
 073/071	liabs	1	l ia b - s
 073/073	liabs	1	l ia b - s
@@ -3903,7 +3903,7 @@
 073/077	liebs	1	l ie b - s
 073/079	lieebs	1	l iee b - s
 073/081	liebs	1	l ie b - s
-073/083	NA	NA	- - - - - - - - -
+073/083	NA	NA	-
 073/085	lieb	1	l ie b - -
 073/087	liebs	1	l ie b - s
 073/089	liabs	1	l ia b - s
@@ -3923,7 +3923,7 @@
 073/153	liebes	1	l ie b e s
 073/155	liebes	1	l ie b e s
 073/157	leebes	1	l ee b e s
-073/159	NA	NA	- - - - - - - - -
+073/159	NA	NA	-
 073/161	liebes	1	l ie b e s
 073/163	liebes	1	l ie b e s
 073/165	liebes	1	l ie b e s
@@ -3979,7 +3979,7 @@
 074/147	läibs	1	l äi b - s
 074/149	laips	1	l ai p - s
 074/153	liebes	1	l ie b e s
-074/155	NA	NA	- - - - - - - - -
+074/155	NA	NA	-
 074/157	liebes	1	l ie b e s
 074/159	liebes	1	l ie b e s
 074/161	liibes	1	l ii b e s
@@ -4116,7 +4116,7 @@
 077/067	liabs	1	l ia b - s
 077/069	liabs	1	l ia b - s
 077/071	liabs	1	l ia b - s
-077/073	NA	NA	- - - - - - - - -
+077/073	NA	NA	-
 077/075	liebs	1	l ie b - s
 077/077	liebs	1	l ie b - s
 077/079	läibs	1	l äi b - s
@@ -4162,7 +4162,7 @@
 078/073	liebs	1	l ie b - s
 078/075	liebs	1	l ie b - s
 078/077	liebs	1	l ie b - s
-078/079	NA	NA	- - - - - - - - -
+078/079	NA	NA	-
 078/081	löibs	1	l öi b - s
 078/083	löibs	1	l öi b - s
 078/085	löis	1	l öi - - s
@@ -4173,7 +4173,7 @@
 078/095	läis	1	l äi - - s
 078/097	läibs	1	l äi b - s
 078/099	guads	3	g ua d - s
-078/101	NA	NA	- - - - - - - - -
+078/101	NA	NA	-
 078/103	liabs	1	l ia b - s
 078/105	löiwas	1	l öi w a s
 078/135	liebs	1	l ie b - s
@@ -4309,7 +4309,7 @@
 081/089	laibs	1	l ai b - s
 081/091	liabs	1	l ia b - s
 081/093	liabs	1	l ia b - s
-081/095	NA	NA	- - - - - - - - -
+081/095	NA	NA	-
 081/097	liabs	1	l ia b - s
 081/099	liabs	1	l ia b - s
 081/101	leiibs	1	l eii b - s
@@ -4323,7 +4323,7 @@
 081/133	liabs	1	l ia b - s
 081/147	liebs	1	l ie b - s
 081/191	liebes	1	l ie b e s
-081/193	NA	NA	- - - - - - - - -
+081/193	NA	NA	-
 081/195	liebes	1	l ie b e s
 082/027	lew	1	l e w - -
 082/029	liew	1	l ie w - -
@@ -4363,7 +4363,7 @@
 082/097	liabs	1	l ia b - s
 082/099	liabs	1	l ia b - s
 082/101	liabs	1	l ia b - s
-082/103	NA	NA	- - - - - - - - -
+082/103	NA	NA	-
 082/105	liabs	1	l ia b - s
 082/107	liabs	1	l ia b - s
 082/111	liabs	1	l ia b - s
@@ -4421,7 +4421,7 @@
 083/111	liabs	1	l ia b - s
 083/113	liabs	1	l ia b - s
 083/115	liabs	1	l ia b - s
-083/117	NA	NA	- - - - - - - - -
+083/117	NA	NA	-
 083/119	liabs	1	l ia b - s
 083/121	liabs	1	l ia b - s
 083/129	liabs	1	l ia b - s
@@ -4465,7 +4465,7 @@
 084/085	liiabs	1	l iia b - s
 084/087	liiabs	1	l iia b - s
 084/089	lieabs	1	l iea b - s
-084/091	NA	NA	- - - - - - - - -
+084/091	NA	NA	-
 084/093	liabs	1	l ia b - s
 084/095	liabs	1	l ia b - s
 084/097	liabs	1	l ia b - s
@@ -4530,7 +4530,7 @@
 085/097	liebs	1	l ie b - s
 085/101	liabs	1	l ia b - s
 085/103	liabs	1	l ia b - s
-085/105	NA	NA	- - - - - - - - -
+085/105	NA	NA	-
 085/107	liabs	1	l ia b - s
 085/109	liabs	1	l ia b - s
 085/111	liabs	1	l ia b - s
@@ -4646,7 +4646,7 @@
 087/083	liabs	1	l ia b - s
 087/085	liebs	1	l ie b - s
 087/087	liabs	1	l ia b - s
-087/089	NA	NA	- - - - - - - - -
+087/089	NA	NA	-
 087/091	liabs	1	l ia b - s
 087/093	liabs	1	l ia b - s
 087/095	liabs	1	l ia b - s
@@ -4772,7 +4772,7 @@
 089/113	liabs	1	l ia b - s
 089/115	liabs	1	l ia b - s
 089/117	liabs	1	l ia b - s
-089/119	NA	NA	- - - - - - - - -
+089/119	NA	NA	-
 089/121	liabs	1	l ia b - s
 089/123	liabs	1	l ia b - s
 089/125	liaba	1	l ia b a -
@@ -4827,7 +4827,7 @@
 090/107	liabs	1	l ia b - s
 090/109	liabs	1	l ia b - s
 090/111	liabs	1	l ia b - s
-090/113	NA	NA	- - - - - - - - -
+090/113	NA	NA	-
 090/115	liabs	1	l ia b - s
 090/119	liebs	1	l ie b - s
 090/121	liabs	1	l ia b - s
@@ -4837,7 +4837,7 @@
 090/129	liabs	1	l ia b - s
 090/131	liabs	1	l ia b - s
 090/133	liabs	1	l ia b - s
-090/135	NA	NA	- - - - - - - - -
+090/135	NA	NA	-
 090/137	liabs	1	l ia b - s
 090/139	liabs	1	l ia b - s
 090/141	liabs	1	l ia b - s
@@ -4880,7 +4880,7 @@
 091/099	liäbs	1	l iä b - s
 091/101	liabs	1	l ia b - s
 091/103	liabs	1	l ia b - s
-091/105	NA	NA	- - - - - - - - -
+091/105	NA	NA	-
 091/107	liabs	1	l ia b - s
 091/109	liabs	1	l ia b - s
 091/111	liabs	1	l ia b - s
@@ -4904,7 +4904,7 @@
 091/151	liabs	1	l ia b - s
 091/155	liäps	1	l iä p - s
 092/033	liäbs	1	l iä b - s
-092/035	NA	NA	- - - - - - - - -
+092/035	NA	NA	-
 092/037	liabs	1	l ia b - s
 092/039	liabs	1	l ia b - s
 092/041	liabs	1	l ia b - s
@@ -4989,7 +4989,7 @@
 093/081	liabs	1	l ia b - s
 093/083	liabs	1	l ia b - s
 093/085	liabs	1	l ia b - s
-093/087	NA	NA	- - - - - - - - -
+093/087	NA	NA	-
 093/089	liabs	1	l ia b - s
 093/091	liabs	1	l ia b - s
 093/093	lieabs	1	l iea b - s
@@ -5021,7 +5021,7 @@
 093/151	liabs	1	l ia b - s
 093/153	liabs	1	l ia b - s
 093/155	liabs	1	l ia b - s
-094/033	NA	NA	- - - - - - - - -
+094/033	NA	NA	-
 094/035	liabs	1	l ia b - s
 094/037	liewes	1	l ie w e s
 094/039	leabs	1	l ea b - s
@@ -5077,7 +5077,7 @@
 094/139	liabs	1	l ia b - s
 094/141	liabs	1	l ia b - s
 094/143	liabs	1	l ia b - s
-094/145	NA	NA	- - - - - - - - -
+094/145	NA	NA	-
 094/147	liabs	1	l ia b - s
 094/149	liabs	1	l ia b - s
 094/151	liabs	1	l ia b - s
@@ -5112,7 +5112,7 @@
 095/085	liabs	1	l ia b - s
 095/087	liabs	1	l ia b - s
 095/089	liabs	1	l ia b - s
-095/091	NA	NA	- - - - - - - - -
+095/091	NA	NA	-
 095/093	liabs	1	l ia b - s
 095/095	liabs	1	l ia b - s
 095/097	liabs	1	l ia b - s
@@ -5138,7 +5138,7 @@
 095/143	liabs	1	l ia b - s
 095/145	liebs	1	l ie b - s
 095/147	liabs	1	l ia b - s
-095/149	NA	NA	- - - - - - - - -
+095/149	NA	NA	-
 095/151	liabs	1	l ia b - s
 095/153	liabs	1	l ia b - s
 095/155	liabs	1	l ia b - s
@@ -5257,7 +5257,7 @@
 098/041	liab	1	l ia b - -
 098/043	lieb	1	l ie b - -
 098/045	liebs	1	l ie b - s
-098/047	NA	NA	- - - - - - - - -
+098/047	NA	NA	-
 098/049	liab	1	l ia b - -
 098/051	lieb	1	l ie b - -
 098/053	liab	1	l ia b - -
@@ -5288,7 +5288,7 @@
 098/107	liabs	1	l ia b - s
 098/109	liabs	1	l ia b - s
 098/111	liabs	1	l ia b - s
-098/119	NA	NA	- - - - - - - - -
+098/119	NA	NA	-
 098/123	liabs	1	l ia b - s
 098/125	liabs	1	l ia b - s
 098/127	liabs	1	l ia b - s
@@ -5296,7 +5296,7 @@
 098/137	liabs	1	l ia b - s
 098/139	liabs	1	l ia b - s
 098/141	liabs	1	l ia b - s
-098/143	NA	NA	- - - - - - - - -
+098/143	NA	NA	-
 098/145	liabs	1	l ia b - s
 098/147	liabs	1	l ia b - s
 098/149	liabs	1	l ia b - s
@@ -5331,13 +5331,13 @@
 099/095	liabs	1	l ia b - s
 099/099	liebs	1	l ie b - s
 099/101	liabs	1	l ia b - s
-099/103	NA	NA	- - - - - - - - -
+099/103	NA	NA	-
 099/105	liabs	1	l ia b - s
 099/107	liabs	1	l ia b - s
 099/109	liabs	1	l ia b - s
 099/111	liabs	1	l ia b - s
 099/113	liabs	1	l ia b - s
-099/121	NA	NA	- - - - - - - - -
+099/121	NA	NA	-
 099/123	liabs	1	l ia b - s
 099/125	liabs	1	l ia b - s
 099/131	liabs	1	l ia b - s
@@ -5352,7 +5352,7 @@
 100/037	liabs	1	l ia b - s
 100/039	liäbs	1	l iä b - s
 100/041	lieb	1	l ie b - -
-100/043	NA	NA	- - - - - - - - -
+100/043	NA	NA	-
 100/045	liäb	1	l iä b - -
 100/049	liäbs	1	l iä b - s
 100/051	liebs	1	l ie b - s
@@ -5385,8 +5385,8 @@
 100/121	liabs	1	l ia b - s
 100/125	liabs	1	l ia b - s
 100/127	liabs	1	l ia b - s
-100/129	NA	NA	- - - - - - - - -
-100/133	NA	NA	- - - - - - - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	liabs	1	l ia b - s
 100/141	liabs	1	l ia b - s
 100/143	liabs	1	l ia b - s
@@ -5447,7 +5447,7 @@
 102/055	liebs	1	l ie b - s
 102/057	liäb	1	l iä b - -
 102/059	lieb	1	l ie b - -
-102/061	NA	NA	- - - - - - - - -
+102/061	NA	NA	-
 102/063	liebs	1	l ie b - s
 102/065	liab	1	l ia b - -
 102/067	lieobs	1	l ieo b - s
@@ -5493,7 +5493,7 @@
 103/063	liabs	1	l ia b - s
 103/065	liabs	1	l ia b - s
 103/067	lioba	1	l io b a -
-103/069	NA	NA	- - - - - - - - -
+103/069	NA	NA	-
 103/071	liabs	1	l ia b - s
 103/073	liabs	1	l ia b - s
 103/075	liebs	1	l ie b - s
@@ -5509,7 +5509,7 @@
 103/099	liabs	1	l ia b - s
 103/101	liabs	1	l ia b - s
 103/105	liabs	1	l ia b - s
-103/107	NA	NA	- - - - - - - - -
+103/107	NA	NA	-
 103/111	liabs	1	l ia b - s
 103/121	liabs	1	l ia b - s
 103/125	liabs	1	l ia b - s
@@ -5556,8 +5556,8 @@
 104/113	liabs	1	l ia b - s
 104/119	liabs	1	l ia b - s
 104/121	liabs	1	l ia b - s
-104/123	NA	NA	- - - - - - - - -
-104/125	NA	NA	- - - - - - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	liabs	1	l ia b - s
 104/131	liabs	1	l ia b - s
 104/133	liabs	1	l ia b - s
@@ -5602,7 +5602,7 @@
 105/113	liebs	1	l ie b - s
 105/115	liabs	1	l ia b - s
 105/117	liabs	1	l ia b - s
-105/119	NA	NA	- - - - - - - - -
+105/119	NA	NA	-
 105/121	liabs	1	l ia b - s
 105/125	liabs	1	l ia b - s
 105/127	liabs	1	l ia b - s
@@ -5638,7 +5638,7 @@
 106/087	liebs	1	l ie b - s
 106/093	liebis	1	l ie b i s
 106/097	liabs	1	l ia b - s
-106/099	NA	NA	- - - - - - - - -
+106/099	NA	NA	-
 106/103	liabs	1	l ia b - s
 106/111	liabs	1	l ia b - s
 106/115	liabs	1	l ia b - s
@@ -5650,7 +5650,7 @@
 106/133	liabs	1	l ia b - s
 106/135	liabs	1	l ia b - s
 106/137	liabs	1	l ia b - s
-106/139	NA	NA	- - - - - - - - -
+106/139	NA	NA	-
 106/141	liabs	1	l ia b - s
 106/143	liabs	1	l ia b - s
 106/145	liabs	1	l ia b - s
@@ -5666,7 +5666,7 @@
 107/051	liebs	1	l ie b - s
 107/053	liäbs	1	l iä b - s
 107/057	liäbs	1	l iä b - s
-107/059	NA	NA	- - - - - - - - -
+107/059	NA	NA	-
 107/063	liebs	1	l ie b - s
 107/065	liebs	1	l ie b - s
 107/071	liabs	1	l ia b - s
@@ -5676,18 +5676,18 @@
 107/087	liabes	1	l ia b e s
 107/089	liobis	1	l io b i s
 107/091	liebo	1	l ie b o -
-107/097	NA	NA	- - - - - - - - -
+107/097	NA	NA	-
 107/099	liebis	1	l ie b i s
 107/103	liabs	1	l ia b - s
 107/105	liabs	1	l ia b - s
 107/107	liabs	1	l ia b - s
 107/111	liabs	1	l ia b - s
 107/119	liabs	1	l ia b - s
-107/121	NA	NA	- - - - - - - - -
+107/121	NA	NA	-
 107/123	liabs	1	l ia b - s
 107/125	liabs	1	l ia b - s
 107/127	liabs	1	l ia b - s
-107/129	NA	NA	- - - - - - - - -
+107/129	NA	NA	-
 107/131	liabs	1	l ia b - s
 107/133	liabs	1	l ia b - s
 107/135	liabs	1	l ia b - s
@@ -5699,7 +5699,7 @@
 108/035	liebe	1	l ie b e -
 108/037	liebe	1	l ie b e -
 108/039	liebe	1	l ie b e -
-108/041	NA	NA	- - - - - - - - -
+108/041	NA	NA	-
 108/043	libs	1	l i b - s
 108/047	liäbs	1	l iä b - s
 108/049	liäbs	1	l iä b - s
@@ -5719,14 +5719,14 @@
 108/109	liebs	1	l ie b - s
 108/111	liebs	1	l ie b - s
 108/113	liabs	1	l ia b - s
-108/117	NA	NA	- - - - - - - - -
+108/117	NA	NA	-
 108/119	liebs	1	l ie b - s
 108/121	liabs	1	l ia b - s
 108/123	liebs	1	l ie b - s
 108/125	liabs	1	l ia b - s
 108/127	liabs	1	l ia b - s
 108/129	liabs	1	l ia b - s
-108/131	NA	NA	- - - - - - - - -
+108/131	NA	NA	-
 108/133	liabs	1	l ia b - s
 108/135	liabs	1	l ia b - s
 108/137	liabs	1	l ia b - s
@@ -5753,10 +5753,10 @@
 109/095	liabis	1	l ia b i s
 109/097	liebis	1	l ie b i s
 109/099	liabis	1	l ia b i s
-109/101	NA	NA	- - - - - - - - -
+109/101	NA	NA	-
 109/103	liebs	1	l ie b - s
 109/107	liebs	1	l ie b - s
-109/109	NA	NA	- - - - - - - - -
+109/109	NA	NA	-
 109/111	liäbs	1	l iä b - s
 109/113	liabs	1	l ia b - s
 109/115	liabs	1	l ia b - s
@@ -5812,7 +5812,7 @@
 110/139	liabs	1	l ia b - s
 111/035	liebs	1	l ie b - s
 111/037	liebs	1	l ie b - s
-111/039	NA	NA	- - - - - - - - -
+111/039	NA	NA	-
 111/041	liebe	1	l ie b e -
 111/043	lieb	1	l ie b - -
 111/045	liäbs	1	l iä b - s
@@ -5883,7 +5883,7 @@
 121/127	liäbäs	1	l iä b ä s
 122/127	libes	1	l i b e s
 122/129	liäbäs	1	l iä b ä s
-123/081	NA	NA	- - - - - - - - -
+123/081	NA	NA	-
 123/123	liäbäs	1	l iä b ä s
 123/125	liäbäs	1	l iä b ä s
 123/127	liäbäs	1	l iä b ä s

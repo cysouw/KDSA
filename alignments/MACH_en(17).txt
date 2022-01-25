@@ -21,7 +21,7 @@
 008/209	mak	1	m a k
 008/211	moak	1	m oa k
 008/213	moak	1	m oa k
-009/199	NA	NA	- - - - - - -
+009/199	NA	NA	-
 009/203	mak	1	m a k
 009/207	moak	1	m oa k
 009/209	maok	1	m ao k
@@ -39,15 +39,15 @@
 010/217	moak	1	m oa k
 010/219	moak	1	m oa k
 011/049	mag	1	m a g
-011/053	NA	NA	- - - - - - -
-011/055	NA	NA	- - - - - - -
-011/057	NA	NA	- - - - - - -
-011/059	NA	NA	- - - - - - -
-011/061	NA	NA	- - - - - - -
-011/063	NA	NA	- - - - - - -
-011/065	NA	NA	- - - - - - -
-011/067	NA	NA	- - - - - - -
-011/069	NA	NA	- - - - - - -
+011/053	NA	NA	-
+011/055	NA	NA	-
+011/057	NA	NA	-
+011/059	NA	NA	-
+011/061	NA	NA	-
+011/063	NA	NA	-
+011/065	NA	NA	-
+011/067	NA	NA	-
+011/069	NA	NA	-
 011/187	mok	1	m o k
 011/189	mok	1	m o k
 011/191	moak	1	m oa k
@@ -65,15 +65,15 @@
 012/047	maak	1	m aa k
 012/049	maak	1	m aa k
 012/051	mag	1	m a g
-012/053	NA	NA	- - - - - - -
-012/055	NA	NA	- - - - - - -
-012/057	NA	NA	- - - - - - -
-012/059	NA	NA	- - - - - - -
-012/061	NA	NA	- - - - - - -
-012/063	NA	NA	- - - - - - -
-012/065	NA	NA	- - - - - - -
-012/067	NA	NA	- - - - - - -
-012/069	NA	NA	- - - - - - -
+012/053	NA	NA	-
+012/055	NA	NA	-
+012/057	NA	NA	-
+012/059	NA	NA	-
+012/061	NA	NA	-
+012/063	NA	NA	-
+012/065	NA	NA	-
+012/067	NA	NA	-
+012/069	NA	NA	-
 012/187	mok	1	m o k
 012/189	mök	1	m ö k
 012/191	moak	1	m oa k
@@ -96,8 +96,8 @@
 013/051	mag	1	m a g
 013/053	maag	1	m aa g
 013/055	maag	1	m aa g
-013/057	NA	NA	- - - - - - -
-013/059	NA	NA	- - - - - - -
+013/057	NA	NA	-
+013/059	NA	NA	-
 013/061	maak	1	m aa k
 013/063	maak	1	m aa k
 013/065	mok	1	m o k
@@ -245,13 +245,13 @@
 016/219	moak	1	m oa k
 017/055	mak	1	m a k
 017/057	mak	1	m a k
-017/059	NA	NA	- - - - - - -
+017/059	NA	NA	-
 017/061	mak	1	m a k
 017/063	mak	1	m a k
 017/065	mak	1	m a k
 017/067	mak	1	m a k
 017/069	mak	1	m a k
-017/081	NA	NA	- - - - - - -
+017/081	NA	NA	-
 017/083	mak	1	m a k
 017/099	mak	1	m a k
 017/101	mack	1	m a ck
@@ -356,7 +356,7 @@
 019/067	mak	1	m a k
 019/069	mak	1	m a k
 019/071	mak	1	m a k
-019/073	NA	NA	- - - - - - -
+019/073	NA	NA	-
 019/075	maak	1	m aa k
 019/077	mak	1	m a k
 019/079	maak	1	m aa k
@@ -419,7 +419,7 @@
 020/069	mak	1	m a k
 020/071	mak	1	m a k
 020/073	mak	1	m a k
-020/075	NA	NA	- - - - - - -
+020/075	NA	NA	-
 020/077	mak	1	m a k
 020/079	mak	1	m a k
 020/081	mak	1	m a k
@@ -547,11 +547,11 @@
 022/059	mak	1	m a k
 022/061	mak	1	m a k
 022/063	maak	1	m aa k
-022/065	NA	NA	- - - - - - -
+022/065	NA	NA	-
 022/067	mak	1	m a k
 022/069	mok	1	m o k
 022/071	mak	1	m a k
-022/073	NA	NA	- - - - - - -
+022/073	NA	NA	-
 022/075	mak	1	m a k
 022/077	mak	1	m a k
 022/087	mak	1	m a k
@@ -687,7 +687,7 @@
 024/057	maak	1	m aa k
 024/059	mak	1	m a k
 024/061	mak	1	m a k
-024/063	NA	NA	- - - - - - -
+024/063	NA	NA	-
 024/065	mak	1	m a k
 024/067	maok	1	m ao k
 024/069	mak	1	m a k
@@ -768,7 +768,7 @@
 025/069	mak	1	m a k
 025/071	mak	1	m a k
 025/073	mak	1	m a k
-025/075	NA	NA	- - - - - - -
+025/075	NA	NA	-
 025/077	mak	1	m a k
 025/079	maak	1	m aa k
 025/081	mak	1	m a k
@@ -833,7 +833,7 @@
 026/069	mak	1	m a k
 026/071	mak	1	m a k
 026/073	mak	1	m a k
-026/075	NA	NA	- - - - - - -
+026/075	NA	NA	-
 026/077	mak	1	m a k
 026/079	mak	1	m a k
 026/081	mak	1	m a k
@@ -884,7 +884,7 @@
 026/185	mach	1	m a ch
 026/187	mach	1	m a ch
 026/189	mach	1	m a ch
-027/027	NA	NA	- - - - - - -
+027/027	NA	NA	-
 027/035	mak	1	m a k
 027/037	mak	1	m a k
 027/039	maak	1	m aa k
@@ -901,7 +901,7 @@
 027/063	mok	1	m o k
 027/065	mak	1	m a k
 027/067	mak	1	m a k
-027/069	NA	NA	- - - - - - -
+027/069	NA	NA	-
 027/071	mak	1	m a k
 027/073	mak	1	m a k
 027/075	maak	1	m aa k
@@ -909,7 +909,7 @@
 027/079	mag	1	m a g
 027/081	mak	1	m a k
 027/083	mak	1	m a k
-027/085	NA	NA	- - - - - - -
+027/085	NA	NA	-
 027/087	mak	1	m a k
 027/089	maak	1	m aa k
 027/091	mak	1	m a k
@@ -953,7 +953,7 @@
 027/179	mok	1	m o k
 027/181	mok	1	m o k
 027/183	mach	1	m a ch
-027/185	NA	NA	- - - - - - -
+027/185	NA	NA	-
 028/033	mak	1	m a k
 028/035	maak	1	m aa k
 028/037	mak	1	m a k
@@ -963,7 +963,7 @@
 028/045	mak	1	m a k
 028/047	mak	1	m a k
 028/049	mak	1	m a k
-028/051	NA	NA	- - - - - - -
+028/051	NA	NA	-
 028/053	mak	1	m a k
 028/055	mak	1	m a k
 028/057	mack	1	m a ck
@@ -983,9 +983,9 @@
 028/085	mak	1	m a k
 028/087	mak	1	m a k
 028/089	mack	1	m a ck
-028/091	NA	NA	- - - - - - -
+028/091	NA	NA	-
 028/093	mak	1	m a k
-028/095	NA	NA	- - - - - - -
+028/095	NA	NA	-
 028/097	mak	1	m a k
 028/099	mak	1	m a k
 028/103	mak	1	m a k
@@ -1028,7 +1028,7 @@
 028/183	mach	1	m a ch
 028/185	mach	1	m a ch
 029/033	mak	1	m a k
-029/035	NA	NA	- - - - - - -
+029/035	NA	NA	-
 029/037	mak	1	m a k
 029/039	mak	1	m a k
 029/043	mak	1	m a k
@@ -1104,7 +1104,7 @@
 030/037	mak	1	m a k
 030/039	mak	1	m a k
 030/041	maak	1	m aa k
-030/043	NA	NA	- - - - - - -
+030/043	NA	NA	-
 030/045	mak	1	m a k
 030/047	mak	1	m a k
 030/049	mak	1	m a k
@@ -1187,7 +1187,7 @@
 031/057	mak	1	m a k
 031/059	mak	1	m a k
 031/061	mack	1	m a ck
-031/063	NA	NA	- - - - - - -
+031/063	NA	NA	-
 031/065	mak	1	m a k
 031/067	mak	1	m a k
 031/069	mak	1	m a k
@@ -1259,7 +1259,7 @@
 032/057	mak	1	m a k
 032/059	mak	1	m a k
 032/061	maak	1	m aa k
-032/065	NA	NA	- - - - - - -
+032/065	NA	NA	-
 032/069	mak	1	m a k
 032/071	mak	1	m a k
 032/073	mak	1	m a k
@@ -1354,7 +1354,7 @@
 033/109	moak	1	m oa k
 033/111	moak	1	m oa k
 033/113	moak	1	m oa k
-033/115	NA	NA	- - - - - - -
+033/115	NA	NA	-
 033/117	moak	1	m oa k
 033/119	mok	1	m o k
 033/121	moak	1	m oa k
@@ -1400,7 +1400,7 @@
 034/063	mak	1	m a k
 034/065	mak	1	m a k
 034/067	mak	1	m a k
-034/069	NA	NA	- - - - - - -
+034/069	NA	NA	-
 034/071	mak	1	m a k
 034/073	mak	1	m a k
 034/075	mak	1	m a k
@@ -1995,7 +1995,7 @@
 043/125	mach	1	m a ch
 043/127	mach	1	m a ch
 043/129	mach	1	m a ch
-043/131	NA	NA	- - - - - - -
+043/131	NA	NA	-
 043/133	mach	1	m a ch
 043/135	mach	1	m a ch
 043/137	mach	1	m a ch
@@ -2026,7 +2026,7 @@
 044/069	moak	1	m oa k
 044/071	mak	1	m a k
 044/073	mak	1	m a k
-044/075	NA	NA	- - - - - - -
+044/075	NA	NA	-
 044/077	mak	1	m a k
 044/079	mak	1	m a k
 044/081	mak	1	m a k
@@ -2114,7 +2114,7 @@
 045/127	mach	1	m a ch
 045/129	mach	1	m a ch
 045/131	mach	1	m a ch
-045/133	NA	NA	- - - - - - -
+045/133	NA	NA	-
 045/135	mach	1	m a ch
 045/137	mach	1	m a ch
 045/139	mach	1	m a ch
@@ -2174,7 +2174,7 @@
 046/129	mach	1	m a ch
 046/131	mach	1	m a ch
 046/133	mach	1	m a ch
-046/135	NA	NA	- - - - - - -
+046/135	NA	NA	-
 046/137	mach	1	m a ch
 046/139	mach	1	m a ch
 046/141	mach	1	m a ch
@@ -2399,7 +2399,7 @@
 050/083	maak	1	m aa k
 050/085	mach	1	m a ch
 050/087	mach	1	m a ch
-050/089	NA	NA	- - - - - - -
+050/089	NA	NA	-
 050/091	mach	1	m a ch
 050/093	mach	1	m a ch
 050/095	mach	1	m a ch
@@ -2416,9 +2416,9 @@
 050/117	mach	1	m a ch
 050/119	mach	1	m a ch
 050/121	mach	1	m a ch
-050/125	NA	NA	- - - - - - -
+050/125	NA	NA	-
 050/127	mach	1	m a ch
-050/129	NA	NA	- - - - - - -
+050/129	NA	NA	-
 050/131	mach	1	m a ch
 050/133	mach	1	m a ch
 050/135	mach	1	m a ch
@@ -2501,7 +2501,7 @@
 051/151	mach	1	m a ch
 051/153	mach	1	m a ch
 051/155	mach	1	m a ch
-051/157	NA	NA	- - - - - - -
+051/157	NA	NA	-
 052/023	maak	1	m aa k
 052/025	maak	1	m aa k
 052/027	mak	1	m a k
@@ -2675,8 +2675,8 @@
 054/097	mach	1	m a ch
 054/099	mach	1	m a ch
 054/101	mach	1	m a ch
-054/103	NA	NA	- - - - - - -
-054/105	NA	NA	- - - - - - -
+054/103	NA	NA	-
+054/105	NA	NA	-
 054/107	mach	1	m a ch
 054/109	mach	1	m a ch
 054/111	mach	1	m a ch
@@ -2759,7 +2759,7 @@
 055/127	mach	1	m a ch
 055/131	mach	1	m a ch
 055/133	mach	1	m a ch
-055/135	NA	NA	- - - - - - -
+055/135	NA	NA	-
 055/137	mach	1	m a ch
 055/139	mach	1	m a ch
 055/141	mach	1	m a ch
@@ -2901,7 +2901,7 @@
 057/131	mach	1	m a ch
 057/133	mach	1	m a ch
 057/135	mach	1	m a ch
-057/137	NA	NA	- - - - - - -
+057/137	NA	NA	-
 057/139	mach	1	m a ch
 057/141	mach	1	m a ch
 057/143	mach	1	m a ch
@@ -3020,9 +3020,9 @@
 059/083	mach	1	m a ch
 059/085	mach	1	m a ch
 059/087	mach	1	m a ch
-059/089	NA	NA	- - - - - - -
+059/089	NA	NA	-
 059/091	moch	1	m o ch
-059/093	NA	NA	- - - - - - -
+059/093	NA	NA	-
 059/095	moach	1	m oa ch
 059/097	moch	1	m o ch
 059/099	moch	1	m o ch
@@ -3031,7 +3031,7 @@
 059/105	moch	1	m o ch
 059/107	mach	1	m a ch
 059/109	mach	1	m a ch
-059/111	NA	NA	- - - - - - -
+059/111	NA	NA	-
 059/113	mach	1	m a ch
 059/115	mach	1	m a ch
 059/117	mach	1	m a ch
@@ -3041,7 +3041,7 @@
 059/125	mach	1	m a ch
 059/127	mach	1	m a ch
 059/129	mach	1	m a ch
-059/131	NA	NA	- - - - - - -
+059/131	NA	NA	-
 059/133	mach	1	m a ch
 059/135	mach	1	m a ch
 059/137	mach	1	m a ch
@@ -3114,7 +3114,7 @@
 060/125	mach	1	m a ch
 060/127	mach	1	m a ch
 060/129	mach	1	m a ch
-060/131	NA	NA	- - - - - - -
+060/131	NA	NA	-
 060/135	mach	1	m a ch
 060/137	mach	1	m a ch
 060/139	mach	1	m a ch
@@ -3123,7 +3123,7 @@
 060/145	mach	1	m a ch
 060/147	mach	1	m a ch
 060/149	mach	1	m a ch
-060/151	NA	NA	- - - - - - -
+060/151	NA	NA	-
 060/153	mach	1	m a ch
 060/155	mach	1	m a ch
 060/157	mach	1	m a ch
@@ -3155,7 +3155,7 @@
 061/065	mach	1	m a ch
 061/067	mach	1	m a ch
 061/069	mach	1	m a ch
-061/071	NA	NA	- - - - - - -
+061/071	NA	NA	-
 061/073	mach	1	m a ch
 061/075	mach	1	m a ch
 061/077	mach	1	m a ch
@@ -3198,7 +3198,7 @@
 061/153	mach	1	m a ch
 061/155	mach	1	m a ch
 061/157	mach	1	m a ch
-061/159	NA	NA	- - - - - - -
+061/159	NA	NA	-
 061/161	mach	1	m a ch
 061/165	mach	1	m a ch
 062/021	mach	1	m a ch
@@ -3246,19 +3246,19 @@
 062/105	mach	1	m a ch
 062/107	moch	1	m o ch
 062/109	moch	1	m o ch
-062/111	NA	NA	- - - - - - -
+062/111	NA	NA	-
 062/113	moch	1	m o ch
-062/115	NA	NA	- - - - - - -
+062/115	NA	NA	-
 062/117	moch	1	m o ch
 062/119	mooch	1	m oo ch
-062/121	NA	NA	- - - - - - -
+062/121	NA	NA	-
 062/123	mach	1	m a ch
 062/125	mach	1	m a ch
 062/127	mach	1	m a ch
-062/129	NA	NA	- - - - - - -
-062/131	NA	NA	- - - - - - -
+062/129	NA	NA	-
+062/131	NA	NA	-
 062/133	mach	1	m a ch
-062/135	NA	NA	- - - - - - -
+062/135	NA	NA	-
 062/137	mach	1	m a ch
 062/139	mach	1	m a ch
 062/141	mach	1	m a ch
@@ -3272,7 +3272,7 @@
 062/157	mach	1	m a ch
 062/159	mach	1	m a ch
 062/161	mach	1	m a ch
-063/021	NA	NA	- - - - - - -
+063/021	NA	NA	-
 063/023	maach	1	m aa ch
 063/025	mach	1	m a ch
 063/027	mad	1	m a d
@@ -3310,7 +3310,7 @@
 063/091	mach	1	m a ch
 063/093	mach	1	m a ch
 063/095	mach	1	m a ch
-063/097	NA	NA	- - - - - - -
+063/097	NA	NA	-
 063/099	moch	1	m o ch
 063/101	mach	1	m a ch
 063/103	mach	1	m a ch
@@ -3321,14 +3321,14 @@
 063/113	moch	1	m o ch
 063/115	moch	1	m o ch
 063/117	moch	1	m o ch
-063/119	NA	NA	- - - - - - -
+063/119	NA	NA	-
 063/121	moch	1	m o ch
-063/123	NA	NA	- - - - - - -
-063/125	NA	NA	- - - - - - -
-063/127	NA	NA	- - - - - - -
+063/123	NA	NA	-
+063/125	NA	NA	-
+063/127	NA	NA	-
 063/135	moch	1	m o ch
 063/137	mach	1	m a ch
-063/139	NA	NA	- - - - - - -
+063/139	NA	NA	-
 063/141	mach	1	m a ch
 063/143	mach	1	m a ch
 063/145	mach	1	m a ch
@@ -3386,19 +3386,19 @@
 064/105	mach	1	m a ch
 064/107	moch	1	m o ch
 064/109	moch	1	m o ch
-064/111	NA	NA	- - - - - - -
+064/111	NA	NA	-
 064/113	moch	1	m o ch
 064/115	moch	1	m o ch
 064/117	moch	1	m o ch
-064/119	NA	NA	- - - - - - -
+064/119	NA	NA	-
 064/121	mach	1	m a ch
-064/123	NA	NA	- - - - - - -
+064/123	NA	NA	-
 064/125	mach	1	m a ch
 064/127	mach	1	m a ch
 064/135	moch	1	m o ch
 064/137	moch	1	m o ch
 064/139	mach	1	m a ch
-064/141	NA	NA	- - - - - - -
+064/141	NA	NA	-
 064/143	mach	1	m a ch
 064/145	mach	1	m a ch
 064/147	mach	1	m a ch
@@ -3451,13 +3451,13 @@
 065/103	mach	1	m a ch
 065/105	maach	1	m aa ch
 065/107	moch	1	m o ch
-065/109	NA	NA	- - - - - - -
+065/109	NA	NA	-
 065/111	moch	1	m o ch
-065/113	NA	NA	- - - - - - -
+065/113	NA	NA	-
 065/115	moch	1	m o ch
 065/121	moch	1	m o ch
 065/123	mach	1	m a ch
-065/137	NA	NA	- - - - - - -
+065/137	NA	NA	-
 065/139	moch	1	m o ch
 065/143	mach	1	m a ch
 065/145	mach	1	m a ch
@@ -3475,7 +3475,7 @@
 066/029	mahch	1	m ah ch
 066/031	mach	1	m a ch
 066/033	mach	1	m a ch
-066/035	NA	NA	- - - - - - -
+066/035	NA	NA	-
 066/037	mach	1	m a ch
 066/039	mach	1	m a ch
 066/041	mach	1	m a ch
@@ -3502,35 +3502,35 @@
 066/083	mach	1	m a ch
 066/085	mach	1	m a ch
 066/087	mach	1	m a ch
-066/089	NA	NA	- - - - - - -
+066/089	NA	NA	-
 066/091	mach	1	m a ch
-066/093	NA	NA	- - - - - - -
+066/093	NA	NA	-
 066/095	mach	1	m a ch
 066/097	mach	1	m a ch
 066/099	mooch	1	m oo ch
-066/101	NA	NA	- - - - - - -
-066/103	NA	NA	- - - - - - -
+066/101	NA	NA	-
+066/103	NA	NA	-
 066/105	moch	1	m o ch
 066/107	moch	1	m o ch
 066/109	mooch	1	m oo ch
-066/111	NA	NA	- - - - - - -
+066/111	NA	NA	-
 066/113	moch	1	m o ch
 066/121	moch	1	m o ch
 066/139	moch	1	m o ch
-066/143	NA	NA	- - - - - - -
+066/143	NA	NA	-
 066/145	mach	1	m a ch
 066/147	mach	1	m a ch
 066/149	mach	1	m a ch
 066/151	mach	1	m a ch
-066/153	NA	NA	- - - - - - -
+066/153	NA	NA	-
 066/155	mach	1	m a ch
 066/157	mach	1	m a ch
-066/159	NA	NA	- - - - - - -
+066/159	NA	NA	-
 066/161	mach	1	m a ch
 066/163	mach	1	m a ch
 067/021	mahch	1	m ah ch
 067/023	mach	1	m a ch
-067/025	NA	NA	- - - - - - -
+067/025	NA	NA	-
 067/027	maach	1	m aa ch
 067/029	mach	1	m a ch
 067/031	mag	1	m a g
@@ -3555,7 +3555,7 @@
 067/069	mach	1	m a ch
 067/071	mach	1	m a ch
 067/073	mach	1	m a ch
-067/075	NA	NA	- - - - - - -
+067/075	NA	NA	-
 067/077	mach	1	m a ch
 067/079	mach	1	m a ch
 067/081	mach	1	m a ch
@@ -3570,9 +3570,9 @@
 067/099	maach	1	m aa ch
 067/101	moch	1	m o ch
 067/103	moch	1	m o ch
-067/105	NA	NA	- - - - - - -
+067/105	NA	NA	-
 067/107	moch	1	m o ch
-067/109	NA	NA	- - - - - - -
+067/109	NA	NA	-
 067/111	moch	1	m o ch
 067/113	moch	1	m o ch
 067/143	mach	1	m a ch
@@ -3594,12 +3594,12 @@
 068/027	mach	1	m a ch
 068/029	maach	1	m aa ch
 068/031	mag	1	m a g
-068/033	NA	NA	- - - - - - -
+068/033	NA	NA	-
 068/035	maach	1	m aa ch
 068/037	mach	1	m a ch
 068/039	mach	1	m a ch
 068/041	mach	1	m a ch
-068/043	NA	NA	- - - - - - -
+068/043	NA	NA	-
 068/045	mach	1	m a ch
 068/047	mach	1	m a ch
 068/049	mach	1	m a ch
@@ -3611,10 +3611,10 @@
 068/061	mach	1	m a ch
 068/063	mach	1	m a ch
 068/065	mach	1	m a ch
-068/067	NA	NA	- - - - - - -
+068/067	NA	NA	-
 068/069	mach	1	m a ch
 068/071	mach	1	m a ch
-068/073	NA	NA	- - - - - - -
+068/073	NA	NA	-
 068/075	moach	1	m oa ch
 068/077	mach	1	m a ch
 068/079	mach	1	m a ch
@@ -3625,24 +3625,24 @@
 068/089	mach	1	m a ch
 068/091	mach	1	m a ch
 068/093	moch	1	m o ch
-068/095	NA	NA	- - - - - - -
-068/097	NA	NA	- - - - - - -
-068/099	NA	NA	- - - - - - -
-068/101	NA	NA	- - - - - - -
+068/095	NA	NA	-
+068/097	NA	NA	-
+068/099	NA	NA	-
+068/101	NA	NA	-
 068/103	moach	1	m oa ch
-068/105	NA	NA	- - - - - - -
+068/105	NA	NA	-
 068/107	moch	1	m o ch
-068/109	NA	NA	- - - - - - -
-068/111	NA	NA	- - - - - - -
+068/109	NA	NA	-
+068/111	NA	NA	-
 068/145	mach	1	m a ch
-068/147	NA	NA	- - - - - - -
+068/147	NA	NA	-
 068/149	mach	1	m a ch
 068/151	moch	1	m o ch
 068/153	moach	1	m oa ch
 068/155	mach	1	m a ch
 068/157	mach	1	m a ch
 068/159	mach	1	m a ch
-068/161	NA	NA	- - - - - - -
+068/161	NA	NA	-
 068/165	mach	1	m a ch
 069/019	maach	1	m aa ch
 069/023	maa	1	m aa -
@@ -3653,7 +3653,7 @@
 069/033	maach	1	m aa ch
 069/035	mach	1	m a ch
 069/037	mach	1	m a ch
-069/039	NA	NA	- - - - - - -
+069/039	NA	NA	-
 069/041	mach	1	m a ch
 069/043	mach	1	m a ch
 069/045	mach	1	m a ch
@@ -3682,13 +3682,13 @@
 069/091	mach	1	m a ch
 069/093	mach	1	m a ch
 069/095	moch	1	m o ch
-069/097	NA	NA	- - - - - - -
+069/097	NA	NA	-
 069/099	moch	1	m o ch
 069/101	moch	1	m o ch
 069/103	moch	1	m o ch
 069/105	moch	1	m o ch
-069/107	NA	NA	- - - - - - -
-069/109	NA	NA	- - - - - - -
+069/107	NA	NA	-
+069/109	NA	NA	-
 069/111	mooch	1	m oo ch
 069/147	mach	1	m a ch
 069/149	moch	1	m o ch
@@ -3698,7 +3698,7 @@
 069/159	mach	1	m a ch
 069/161	moch	1	m o ch
 069/163	mach	1	m a ch
-069/165	NA	NA	- - - - - - -
+069/165	NA	NA	-
 070/019	maa	1	m aa -
 070/023	mach	1	m a ch
 070/025	maach	1	m aa ch
@@ -3708,7 +3708,7 @@
 070/033	mach	1	m a ch
 070/035	mach	1	m a ch
 070/037	mach	1	m a ch
-070/039	NA	NA	- - - - - - -
+070/039	NA	NA	-
 070/041	mach	1	m a ch
 070/043	mach	1	m a ch
 070/045	mach	1	m a ch
@@ -3723,7 +3723,7 @@
 070/063	mach	1	m a ch
 070/065	moach	1	m oa ch
 070/067	moach	1	m oa ch
-070/069	NA	NA	- - - - - - -
+070/069	NA	NA	-
 070/071	mach	1	m a ch
 070/073	mach	1	m a ch
 070/075	moch	1	m o ch
@@ -3736,12 +3736,12 @@
 070/089	mach	1	m a ch
 070/091	mach	1	m a ch
 070/093	mach	1	m a ch
-070/095	NA	NA	- - - - - - -
+070/095	NA	NA	-
 070/097	moch	1	m o ch
 070/099	moch	1	m o ch
-070/101	NA	NA	- - - - - - -
-070/103	NA	NA	- - - - - - -
-070/105	NA	NA	- - - - - - -
+070/101	NA	NA	-
+070/103	NA	NA	-
+070/105	NA	NA	-
 070/107	moch	1	m o ch
 070/109	moch	1	m o ch
 070/111	moch	1	m o ch
@@ -3750,7 +3750,7 @@
 070/149	mach	1	m a ch
 070/151	moch	1	m o ch
 070/153	moch	1	m o ch
-070/155	NA	NA	- - - - - - -
+070/155	NA	NA	-
 070/157	moch	1	m o ch
 070/159	moach	1	m oa ch
 070/161	moach	1	m oa ch
@@ -3784,12 +3784,12 @@
 071/069	mach	1	m a ch
 071/071	mach	1	m a ch
 071/073	mach	1	m a ch
-071/075	NA	NA	- - - - - - -
+071/075	NA	NA	-
 071/077	mach	1	m a ch
 071/079	mach	1	m a ch
 071/081	mach	1	m a ch
 071/083	mach	1	m a ch
-071/085	NA	NA	- - - - - - -
+071/085	NA	NA	-
 071/087	mach	1	m a ch
 071/089	mach	1	m a ch
 071/091	mach	1	m a ch
@@ -3797,23 +3797,23 @@
 071/095	mach	1	m a ch
 071/097	mach	1	m a ch
 071/099	moch	1	m o ch
-071/101	NA	NA	- - - - - - -
+071/101	NA	NA	-
 071/103	mach	1	m a ch
-071/105	NA	NA	- - - - - - -
-071/145	NA	NA	- - - - - - -
+071/105	NA	NA	-
+071/145	NA	NA	-
 071/147	moch	1	m o ch
 071/149	mach	1	m a ch
 071/151	moch	1	m o ch
-071/153	NA	NA	- - - - - - -
+071/153	NA	NA	-
 071/155	moch	1	m o ch
 071/157	moch	1	m o ch
 071/159	moch	1	m o ch
 071/161	moch	1	m o ch
-071/163	NA	NA	- - - - - - -
+071/163	NA	NA	-
 071/177	mach	1	m a ch
 071/179	mach	1	m a ch
 072/017	ma	1	m a -
-072/019	NA	NA	- - - - - - -
+072/019	NA	NA	-
 072/021	mach	1	m a ch
 072/023	ma	1	m a -
 072/025	mahch	1	m ah ch
@@ -3830,7 +3830,7 @@
 072/047	mach	1	m a ch
 072/049	mach	1	m a ch
 072/051	mach	1	m a ch
-072/053	NA	NA	- - - - - - -
+072/053	NA	NA	-
 072/055	mach	1	m a ch
 072/057	mach	1	m a ch
 072/059	mach	1	m a ch
@@ -3838,8 +3838,8 @@
 072/063	mach	1	m a ch
 072/065	mach	1	m a ch
 072/067	mach	1	m a ch
-072/069	NA	NA	- - - - - - -
-072/071	NA	NA	- - - - - - -
+072/069	NA	NA	-
+072/071	NA	NA	-
 072/073	mach	1	m a ch
 072/075	mach	1	m a ch
 072/077	mach	1	m a ch
@@ -3850,34 +3850,34 @@
 072/087	mach	1	m a ch
 072/089	mach	1	m a ch
 072/091	mach	1	m a ch
-072/093	NA	NA	- - - - - - -
+072/093	NA	NA	-
 072/095	mach	1	m a ch
 072/097	mach	1	m a ch
 072/099	moch	1	m o ch
-072/101	NA	NA	- - - - - - -
+072/101	NA	NA	-
 072/103	moch	1	m o ch
 072/105	moch	1	m o ch
-072/107	NA	NA	- - - - - - -
-072/145	NA	NA	- - - - - - -
+072/107	NA	NA	-
+072/145	NA	NA	-
 072/147	moch	1	m o ch
 072/149	moch	1	m o ch
 072/151	moch	1	m o ch
-072/153	NA	NA	- - - - - - -
+072/153	NA	NA	-
 072/155	moch	1	m o ch
-072/157	NA	NA	- - - - - - -
+072/157	NA	NA	-
 072/159	moach	1	m oa ch
 072/161	moach	1	m oa ch
 072/177	mach	1	m a ch
 072/179	mach	1	m a ch
-072/181	NA	NA	- - - - - - -
+072/181	NA	NA	-
 073/017	maach	1	m aa ch
-073/019	NA	NA	- - - - - - -
+073/019	NA	NA	-
 073/021	maach	1	m aa ch
 073/023	maa	1	m aa -
 073/025	maach	1	m aa ch
 073/027	maach	1	m aa ch
 073/029	maach	1	m aa ch
-073/031	NA	NA	- - - - - - -
+073/031	NA	NA	-
 073/033	mach	1	m a ch
 073/035	mach	1	m a ch
 073/037	mach	1	m a ch
@@ -3892,22 +3892,22 @@
 073/055	mach	1	m a ch
 073/057	mach	1	m a ch
 073/059	mach	1	m a ch
-073/061	NA	NA	- - - - - - -
+073/061	NA	NA	-
 073/063	mach	1	m a ch
-073/065	NA	NA	- - - - - - -
-073/067	NA	NA	- - - - - - -
+073/065	NA	NA	-
+073/067	NA	NA	-
 073/069	moach	1	m oa ch
 073/071	mach	1	m a ch
 073/073	mach	1	m a ch
 073/075	mach	1	m a ch
 073/077	mach	1	m a ch
 073/079	maach	1	m aa ch
-073/081	NA	NA	- - - - - - -
+073/081	NA	NA	-
 073/083	mach	1	m a ch
 073/085	mach	1	m a ch
 073/087	mach	1	m a ch
 073/089	mach	1	m a ch
-073/091	NA	NA	- - - - - - -
+073/091	NA	NA	-
 073/093	mach	1	m a ch
 073/095	mach	1	m a ch
 073/097	mach	1	m a ch
@@ -3917,13 +3917,13 @@
 073/105	moch	1	m o ch
 073/107	moch	1	m o ch
 073/145	moch	1	m o ch
-073/147	NA	NA	- - - - - - -
+073/147	NA	NA	-
 073/149	moch	1	m o ch
 073/151	moch	1	m o ch
 073/153	moch	1	m o ch
 073/155	moch	1	m o ch
-073/157	NA	NA	- - - - - - -
-073/159	NA	NA	- - - - - - -
+073/157	NA	NA	-
+073/159	NA	NA	-
 073/161	moch	1	m o ch
 073/163	mach	1	m a ch
 073/165	mach	1	m a ch
@@ -3947,7 +3947,7 @@
 074/049	mach	1	m a ch
 074/051	mach	1	m a ch
 074/053	mach	1	m a ch
-074/055	NA	NA	- - - - - - -
+074/055	NA	NA	-
 074/057	mach	1	m a ch
 074/059	mach	1	m a ch
 074/061	mach	1	m a ch
@@ -3960,30 +3960,30 @@
 074/075	mach	1	m a ch
 074/077	mach	1	m a ch
 074/079	mach	1	m a ch
-074/081	NA	NA	- - - - - - -
+074/081	NA	NA	-
 074/083	mach	1	m a ch
 074/085	mach	1	m a ch
-074/087	NA	NA	- - - - - - -
+074/087	NA	NA	-
 074/089	mach	1	m a ch
 074/091	mach	1	m a ch
 074/093	mach	1	m a ch
 074/095	mach	1	m a ch
 074/097	maach	1	m aa ch
-074/099	NA	NA	- - - - - - -
-074/101	NA	NA	- - - - - - -
+074/099	NA	NA	-
+074/101	NA	NA	-
 074/103	moch	1	m o ch
 074/105	moch	1	m o ch
-074/107	NA	NA	- - - - - - -
-074/109	NA	NA	- - - - - - -
-074/145	NA	NA	- - - - - - -
-074/147	NA	NA	- - - - - - -
-074/149	NA	NA	- - - - - - -
+074/107	NA	NA	-
+074/109	NA	NA	-
+074/145	NA	NA	-
+074/147	NA	NA	-
+074/149	NA	NA	-
 074/153	moch	1	m o ch
-074/155	NA	NA	- - - - - - -
+074/155	NA	NA	-
 074/157	moch	1	m o ch
-074/159	NA	NA	- - - - - - -
+074/159	NA	NA	-
 074/161	mach	1	m a ch
-074/163	NA	NA	- - - - - - -
+074/163	NA	NA	-
 074/165	mach	1	m a ch
 075/019	maa	1	m aa -
 075/021	maach	1	m aa ch
@@ -3991,7 +3991,7 @@
 075/025	maach	1	m aa ch
 075/027	maach	1	m aa ch
 075/029	mach	1	m a ch
-075/031	NA	NA	- - - - - - -
+075/031	NA	NA	-
 075/033	mach	1	m a ch
 075/035	mach	1	m a ch
 075/037	mach	1	m a ch
@@ -4007,7 +4007,7 @@
 075/057	mach	1	m a ch
 075/059	mach	1	m a ch
 075/061	mach	1	m a ch
-075/063	NA	NA	- - - - - - -
+075/063	NA	NA	-
 075/065	moch	1	m o ch
 075/067	mach	1	m a ch
 075/069	mach	1	m a ch
@@ -4023,23 +4023,23 @@
 075/089	mach	1	m a ch
 075/091	mach	1	m a ch
 075/093	mach	1	m a ch
-075/095	NA	NA	- - - - - - -
+075/095	NA	NA	-
 075/097	mach	1	m a ch
-075/099	NA	NA	- - - - - - -
-075/101	NA	NA	- - - - - - -
-075/103	NA	NA	- - - - - - -
+075/099	NA	NA	-
+075/101	NA	NA	-
+075/103	NA	NA	-
 075/105	moch	1	m o ch
 075/107	moch	1	m o ch
 075/135	moch	1	m o ch
-075/145	NA	NA	- - - - - - -
+075/145	NA	NA	-
 075/147	moch	1	m o ch
-075/149	NA	NA	- - - - - - -
+075/149	NA	NA	-
 075/155	moch	1	m o ch
 075/157	moch	1	m o ch
 075/159	moch	1	m o ch
 075/161	moach	1	m oa ch
 075/163	mach	1	m a ch
-075/165	NA	NA	- - - - - - -
+075/165	NA	NA	-
 076/019	mach	1	m a ch
 076/021	maach	1	m aa ch
 076/023	maach	1	m aa ch
@@ -4047,7 +4047,7 @@
 076/027	maach	1	m aa ch
 076/029	mag	1	m a g
 076/033	mach	1	m a ch
-076/035	NA	NA	- - - - - - -
+076/035	NA	NA	-
 076/037	mach	1	m a ch
 076/039	ma	1	m a -
 076/041	mach	1	m a ch
@@ -4060,19 +4060,19 @@
 076/055	mach	1	m a ch
 076/057	mach	1	m a ch
 076/059	mach	1	m a ch
-076/061	NA	NA	- - - - - - -
+076/061	NA	NA	-
 076/063	mach	1	m a ch
 076/065	mach	1	m a ch
 076/067	mach	1	m a ch
 076/069	mach	1	m a ch
 076/071	mach	1	m a ch
 076/073	mach	1	m a ch
-076/075	NA	NA	- - - - - - -
+076/075	NA	NA	-
 076/077	mach	1	m a ch
 076/079	mach	1	m a ch
 076/081	mach	1	m a ch
-076/083	NA	NA	- - - - - - -
-076/085	NA	NA	- - - - - - -
+076/083	NA	NA	-
+076/085	NA	NA	-
 076/087	mach	1	m a ch
 076/089	mach	1	m a ch
 076/091	mach	1	m a ch
@@ -4080,20 +4080,20 @@
 076/095	mach	1	m a ch
 076/097	mach	1	m a ch
 076/099	mach	1	m a ch
-076/101	NA	NA	- - - - - - -
-076/103	NA	NA	- - - - - - -
+076/101	NA	NA	-
+076/103	NA	NA	-
 076/135	moch	1	m o ch
-076/137	NA	NA	- - - - - - -
-076/149	NA	NA	- - - - - - -
+076/137	NA	NA	-
+076/149	NA	NA	-
 076/151	moch	1	m o ch
 076/155	moch	1	m o ch
 076/161	mach	1	m a ch
-076/163	NA	NA	- - - - - - -
+076/163	NA	NA	-
 076/165	mach	1	m a ch
 077/019	maach	1	m aa ch
 077/021	maa	1	m aa -
 077/023	maach	1	m aa ch
-077/025	NA	NA	- - - - - - -
+077/025	NA	NA	-
 077/027	maach	1	m aa ch
 077/029	mach	1	m a ch
 077/031	machch	1	m a chch
@@ -4107,7 +4107,7 @@
 077/049	mach	1	m a ch
 077/051	mach	1	m a ch
 077/053	mach	1	m a ch
-077/055	NA	NA	- - - - - - -
+077/055	NA	NA	-
 077/057	mach	1	m a ch
 077/059	mach	1	m a ch
 077/061	mach	1	m a ch
@@ -4116,23 +4116,23 @@
 077/067	mach	1	m a ch
 077/069	mach	1	m a ch
 077/071	mach	1	m a ch
-077/073	NA	NA	- - - - - - -
+077/073	NA	NA	-
 077/075	mach	1	m a ch
 077/077	mah	1	m ah -
-077/079	NA	NA	- - - - - - -
+077/079	NA	NA	-
 077/081	mach	1	m a ch
-077/083	NA	NA	- - - - - - -
+077/083	NA	NA	-
 077/085	mach	1	m a ch
 077/087	moach	1	m oa ch
 077/089	mach	1	m a ch
 077/091	mach	1	m a ch
 077/093	mach	1	m a ch
 077/095	mach	1	m a ch
-077/097	NA	NA	- - - - - - -
+077/097	NA	NA	-
 077/099	moch	1	m o ch
 077/101	moch	1	m o ch
-077/103	NA	NA	- - - - - - -
-077/135	NA	NA	- - - - - - -
+077/103	NA	NA	-
+077/135	NA	NA	-
 077/137	moch	1	m o ch
 078/021	mach	1	m a ch
 078/023	mach	1	m a ch
@@ -4143,12 +4143,12 @@
 078/033	mach	1	m a ch
 078/035	mach	1	m a ch
 078/037	mach	1	m a ch
-078/039	NA	NA	- - - - - - -
+078/039	NA	NA	-
 078/041	mach	1	m a ch
 078/045	mach	1	m a ch
 078/047	mach	1	m a ch
 078/049	mach	1	m a ch
-078/051	NA	NA	- - - - - - -
+078/051	NA	NA	-
 078/053	mach	1	m a ch
 078/055	mach	1	m a ch
 078/057	mach	1	m a ch
@@ -4157,11 +4157,11 @@
 078/063	mach	1	m a ch
 078/065	mach	1	m a ch
 078/067	mach	1	m a ch
-078/069	NA	NA	- - - - - - -
+078/069	NA	NA	-
 078/071	mach	1	m a ch
 078/073	mach	1	m a ch
 078/075	mach	1	m a ch
-078/077	NA	NA	- - - - - - -
+078/077	NA	NA	-
 078/079	mach	1	m a ch
 078/081	mach	1	m a ch
 078/083	mach	1	m a ch
@@ -4171,12 +4171,12 @@
 078/091	mach	1	m a ch
 078/093	mach	1	m a ch
 078/095	mach	1	m a ch
-078/097	NA	NA	- - - - - - -
-078/099	NA	NA	- - - - - - -
-078/101	NA	NA	- - - - - - -
+078/097	NA	NA	-
+078/099	NA	NA	-
+078/101	NA	NA	-
 078/103	moch	1	m o ch
 078/105	moch	1	m o ch
-078/135	NA	NA	- - - - - - -
+078/135	NA	NA	-
 078/193	mach	1	m a ch
 079/021	mach	1	m a ch
 079/023	mach	1	m a ch
@@ -4190,7 +4190,7 @@
 079/039	mach	1	m a ch
 079/043	mach	1	m a ch
 079/045	mach	1	m a ch
-079/047	NA	NA	- - - - - - -
+079/047	NA	NA	-
 079/049	mach	1	m a ch
 079/051	mach	1	m a ch
 079/053	mach	1	m a ch
@@ -4201,7 +4201,7 @@
 079/063	mach	1	m a ch
 079/065	mach	1	m a ch
 079/067	mach	1	m a ch
-079/069	NA	NA	- - - - - - -
+079/069	NA	NA	-
 079/071	mach	1	m a ch
 079/073	mach	1	m a ch
 079/075	mach	1	m a ch
@@ -4213,15 +4213,15 @@
 079/087	mach	1	m a ch
 079/089	mach	1	m a ch
 079/091	mach	1	m a ch
-079/093	NA	NA	- - - - - - -
+079/093	NA	NA	-
 079/095	mach	1	m a ch
 079/097	mach	1	m a ch
 079/099	moch	1	m o ch
 079/101	moch	1	m o ch
-079/103	NA	NA	- - - - - - -
-079/105	NA	NA	- - - - - - -
+079/103	NA	NA	-
+079/105	NA	NA	-
 079/107	moch	1	m o ch
-079/133	NA	NA	- - - - - - -
+079/133	NA	NA	-
 079/135	moch	1	m o ch
 079/193	moch	1	m o ch
 079/195	moch	1	m o ch
@@ -4235,7 +4235,7 @@
 080/037	mach	1	m a ch
 080/039	mach	1	m a ch
 080/041	mach	1	m a ch
-080/043	NA	NA	- - - - - - -
+080/043	NA	NA	-
 080/045	mach	1	m a ch
 080/047	mach	1	m a ch
 080/049	mach	1	m a ch
@@ -4244,11 +4244,11 @@
 080/055	mach	1	m a ch
 080/057	mach	1	m a ch
 080/059	mach	1	m a ch
-080/061	NA	NA	- - - - - - -
+080/061	NA	NA	-
 080/063	mach	1	m a ch
-080/065	NA	NA	- - - - - - -
+080/065	NA	NA	-
 080/067	mach	1	m a ch
-080/069	NA	NA	- - - - - - -
+080/069	NA	NA	-
 080/071	mach	1	m a ch
 080/073	mach	1	m a ch
 080/075	mach	1	m a ch
@@ -4266,22 +4266,22 @@
 080/099	moch	1	m o ch
 080/101	moch	1	m o ch
 080/103	moch	1	m o ch
-080/105	NA	NA	- - - - - - -
-080/107	NA	NA	- - - - - - -
-080/109	NA	NA	- - - - - - -
-080/127	NA	NA	- - - - - - -
+080/105	NA	NA	-
+080/107	NA	NA	-
+080/109	NA	NA	-
+080/127	NA	NA	-
 080/147	moch	1	m o ch
-080/151	NA	NA	- - - - - - -
-080/153	NA	NA	- - - - - - -
+080/151	NA	NA	-
+080/153	NA	NA	-
 080/193	moch	1	m o ch
-080/195	NA	NA	- - - - - - -
+080/195	NA	NA	-
 081/025	mach	1	m a ch
 081/027	moch	1	m o ch
 081/029	mach	1	m a ch
 081/031	moch	1	m o ch
 081/033	mach	1	m a ch
 081/035	mach	1	m a ch
-081/037	NA	NA	- - - - - - -
+081/037	NA	NA	-
 081/039	mach	1	m a ch
 081/043	mach	1	m a ch
 081/045	mach	1	m a ch
@@ -4297,7 +4297,7 @@
 081/065	mach	1	m a ch
 081/067	mach	1	m a ch
 081/069	mach	1	m a ch
-081/071	NA	NA	- - - - - - -
+081/071	NA	NA	-
 081/073	mach	1	m a ch
 081/075	mach	1	m a ch
 081/077	mach	1	m a ch
@@ -4307,23 +4307,23 @@
 081/085	mach	1	m a ch
 081/087	mach	1	m a ch
 081/089	mach	1	m a ch
-081/091	NA	NA	- - - - - - -
+081/091	NA	NA	-
 081/093	mach	1	m a ch
-081/095	NA	NA	- - - - - - -
+081/095	NA	NA	-
 081/097	moch	1	m o ch
-081/099	NA	NA	- - - - - - -
-081/101	NA	NA	- - - - - - -
-081/103	NA	NA	- - - - - - -
+081/099	NA	NA	-
+081/101	NA	NA	-
+081/103	NA	NA	-
 081/105	moach	1	m oa ch
 081/107	moch	1	m o ch
-081/109	NA	NA	- - - - - - -
-081/111	NA	NA	- - - - - - -
-081/127	NA	NA	- - - - - - -
-081/129	NA	NA	- - - - - - -
+081/109	NA	NA	-
+081/111	NA	NA	-
+081/127	NA	NA	-
+081/129	NA	NA	-
 081/133	moch	1	m o ch
-081/147	NA	NA	- - - - - - -
+081/147	NA	NA	-
 081/191	moch	1	m o ch
-081/193	NA	NA	- - - - - - -
+081/193	NA	NA	-
 081/195	moch	1	m o ch
 082/027	mach	1	m a ch
 082/029	mach	1	m a ch
@@ -4346,32 +4346,32 @@
 082/063	mach	1	m a ch
 082/065	mach	1	m a ch
 082/067	mach	1	m a ch
-082/069	NA	NA	- - - - - - -
+082/069	NA	NA	-
 082/071	mach	1	m a ch
 082/073	mach	1	m a ch
 082/075	mach	1	m a ch
 082/077	mach	1	m a ch
-082/079	NA	NA	- - - - - - -
+082/079	NA	NA	-
 082/081	mach	1	m a ch
 082/083	mach	1	m a ch
 082/085	mach	1	m a ch
-082/087	NA	NA	- - - - - - -
+082/087	NA	NA	-
 082/089	mach	1	m a ch
 082/091	mach	1	m a ch
 082/093	moch	1	m o ch
 082/095	mach	1	m a ch
 082/097	mach	1	m a ch
-082/099	NA	NA	- - - - - - -
+082/099	NA	NA	-
 082/101	mach	1	m a ch
-082/103	NA	NA	- - - - - - -
+082/103	NA	NA	-
 082/105	mach	1	m a ch
 082/107	moch	1	m o ch
-082/111	NA	NA	- - - - - - -
-082/113	NA	NA	- - - - - - -
-082/117	NA	NA	- - - - - - -
-082/129	NA	NA	- - - - - - -
-082/131	NA	NA	- - - - - - -
-082/133	NA	NA	- - - - - - -
+082/111	NA	NA	-
+082/113	NA	NA	-
+082/117	NA	NA	-
+082/129	NA	NA	-
+082/131	NA	NA	-
+082/133	NA	NA	-
 082/135	moch	1	m o ch
 082/145	moch	1	m o ch
 082/147	moch	1	m o ch
@@ -4379,29 +4379,29 @@
 082/195	moch	1	m o ch
 083/027	moch	1	m o ch
 083/029	moch	1	m o ch
-083/031	NA	NA	- - - - - - -
+083/031	NA	NA	-
 083/033	mach	1	m a ch
 083/035	mach	1	m a ch
 083/037	mach	1	m a ch
 083/039	mach	1	m a ch
 083/041	mach	1	m a ch
 083/043	mach	1	m a ch
-083/045	NA	NA	- - - - - - -
+083/045	NA	NA	-
 083/047	mach	1	m a ch
 083/049	mach	1	m a ch
 083/051	mach	1	m a ch
 083/053	mach	1	m a ch
 083/055	mach	1	m a ch
-083/057	NA	NA	- - - - - - -
+083/057	NA	NA	-
 083/059	mach	1	m a ch
 083/061	mach	1	m a ch
 083/063	mach	1	m a ch
 083/065	mach	1	m a ch
 083/067	mach	1	m a ch
 083/069	mach	1	m a ch
-083/071	NA	NA	- - - - - - -
+083/071	NA	NA	-
 083/073	mach	1	m a ch
-083/075	NA	NA	- - - - - - -
+083/075	NA	NA	-
 083/077	mach	1	m a ch
 083/079	mach	1	m a ch
 083/081	mach	1	m a ch
@@ -4409,29 +4409,29 @@
 083/085	mach	1	m a ch
 083/087	mach	1	m a ch
 083/089	moch	1	m o ch
-083/091	NA	NA	- - - - - - -
+083/091	NA	NA	-
 083/093	mach	1	m a ch
 083/095	moch	1	m o ch
 083/097	moch	1	m o ch
 083/099	mach	1	m a ch
-083/101	NA	NA	- - - - - - -
+083/101	NA	NA	-
 083/103	moch	1	m o ch
 083/105	moch	1	m o ch
 083/107	mach	1	m a ch
 083/111	mouch	1	m ou ch
-083/113	NA	NA	- - - - - - -
-083/115	NA	NA	- - - - - - -
-083/117	NA	NA	- - - - - - -
+083/113	NA	NA	-
+083/115	NA	NA	-
+083/117	NA	NA	-
 083/119	moch	1	m o ch
-083/121	NA	NA	- - - - - - -
+083/121	NA	NA	-
 083/129	moch	1	m o ch
-083/131	NA	NA	- - - - - - -
-083/133	NA	NA	- - - - - - -
-083/135	NA	NA	- - - - - - -
-083/139	NA	NA	- - - - - - -
-083/143	NA	NA	- - - - - - -
-083/145	NA	NA	- - - - - - -
-083/147	NA	NA	- - - - - - -
+083/131	NA	NA	-
+083/133	NA	NA	-
+083/135	NA	NA	-
+083/139	NA	NA	-
+083/143	NA	NA	-
+083/145	NA	NA	-
+083/147	NA	NA	-
 083/149	moch	1	m o ch
 083/173	mach	1	m a ch
 083/195	mach	1	m a ch
@@ -4451,7 +4451,7 @@
 084/057	mach	1	m a ch
 084/059	mach	1	m a ch
 084/061	mach	1	m a ch
-084/063	NA	NA	- - - - - - -
+084/063	NA	NA	-
 084/065	mach	1	m a ch
 084/067	mach	1	m a ch
 084/069	mach	1	m a ch
@@ -4460,7 +4460,7 @@
 084/075	mach	1	m a ch
 084/077	mach	1	m a ch
 084/079	mach	1	m a ch
-084/081	NA	NA	- - - - - - -
+084/081	NA	NA	-
 084/083	mach	1	m a ch
 084/085	mach	1	m a ch
 084/087	mach	1	m a ch
@@ -4470,30 +4470,30 @@
 084/095	moch	1	m o ch
 084/097	mooch	1	m oo ch
 084/099	mach	1	m a ch
-084/101	NA	NA	- - - - - - -
-084/103	NA	NA	- - - - - - -
-084/105	NA	NA	- - - - - - -
+084/101	NA	NA	-
+084/103	NA	NA	-
+084/105	NA	NA	-
 084/107	moch	1	m o ch
 084/109	moch	1	m o ch
-084/111	NA	NA	- - - - - - -
-084/113	NA	NA	- - - - - - -
-084/115	NA	NA	- - - - - - -
-084/117	NA	NA	- - - - - - -
+084/111	NA	NA	-
+084/113	NA	NA	-
+084/115	NA	NA	-
+084/117	NA	NA	-
 084/119	moch	1	m o ch
 084/129	moch	1	m o ch
-084/131	NA	NA	- - - - - - -
+084/131	NA	NA	-
 084/133	moch	1	m o ch
 084/135	moch	1	m o ch
-084/137	NA	NA	- - - - - - -
-084/139	NA	NA	- - - - - - -
+084/137	NA	NA	-
+084/139	NA	NA	-
 084/141	moch	1	m o ch
 084/143	moch	1	m o ch
-084/145	NA	NA	- - - - - - -
-084/147	NA	NA	- - - - - - -
-084/149	NA	NA	- - - - - - -
+084/145	NA	NA	-
+084/147	NA	NA	-
+084/149	NA	NA	-
 084/171	moch	1	m o ch
 084/173	moch	1	m o ch
-084/195	NA	NA	- - - - - - -
+084/195	NA	NA	-
 085/031	mach	1	m a ch
 085/033	mach	1	m a ch
 085/035	mach	1	m a ch
@@ -4504,17 +4504,17 @@
 085/045	berschde	2	b e r sch d e -
 085/047	mach	1	m a ch
 085/049	mach	1	m a ch
-085/051	NA	NA	- - - - - - -
+085/051	NA	NA	-
 085/053	mach	1	m a ch
-085/055	NA	NA	- - - - - - -
-085/057	NA	NA	- - - - - - -
-085/059	NA	NA	- - - - - - -
-085/061	NA	NA	- - - - - - -
-085/063	NA	NA	- - - - - - -
-085/065	NA	NA	- - - - - - -
-085/067	NA	NA	- - - - - - -
+085/055	NA	NA	-
+085/057	NA	NA	-
+085/059	NA	NA	-
+085/061	NA	NA	-
+085/063	NA	NA	-
+085/065	NA	NA	-
+085/067	NA	NA	-
 085/069	mach	1	m a ch
-085/071	NA	NA	- - - - - - -
+085/071	NA	NA	-
 085/073	mach	1	m a ch
 085/075	mach	1	m a ch
 085/077	mach	1	m a ch
@@ -4522,40 +4522,40 @@
 085/081	mach	1	m a ch
 085/083	mach	1	m a ch
 085/085	mach	1	m a ch
-085/087	NA	NA	- - - - - - -
+085/087	NA	NA	-
 085/089	mach	1	m a ch
-085/091	NA	NA	- - - - - - -
+085/091	NA	NA	-
 085/093	mach	1	m a ch
-085/095	NA	NA	- - - - - - -
+085/095	NA	NA	-
 085/097	moch	1	m o ch
-085/101	NA	NA	- - - - - - -
-085/103	NA	NA	- - - - - - -
-085/105	NA	NA	- - - - - - -
+085/101	NA	NA	-
+085/103	NA	NA	-
+085/105	NA	NA	-
 085/107	moch	1	m o ch
 085/109	moch	1	m o ch
-085/111	NA	NA	- - - - - - -
-085/113	NA	NA	- - - - - - -
-085/115	NA	NA	- - - - - - -
-085/117	NA	NA	- - - - - - -
-085/119	NA	NA	- - - - - - -
+085/111	NA	NA	-
+085/113	NA	NA	-
+085/115	NA	NA	-
+085/117	NA	NA	-
+085/119	NA	NA	-
 085/121	moch	1	m o ch
-085/123	NA	NA	- - - - - - -
-085/125	NA	NA	- - - - - - -
-085/127	NA	NA	- - - - - - -
+085/123	NA	NA	-
+085/125	NA	NA	-
+085/127	NA	NA	-
 085/129	moch	1	m o ch
-085/131	NA	NA	- - - - - - -
+085/131	NA	NA	-
 085/133	moch	1	m o ch
-085/135	NA	NA	- - - - - - -
+085/135	NA	NA	-
 085/137	moch	1	m o ch
 085/139	moch	1	m o ch
-085/141	NA	NA	- - - - - - -
-085/143	NA	NA	- - - - - - -
-085/145	NA	NA	- - - - - - -
-085/147	NA	NA	- - - - - - -
-085/149	NA	NA	- - - - - - -
+085/141	NA	NA	-
+085/143	NA	NA	-
+085/145	NA	NA	-
+085/147	NA	NA	-
+085/149	NA	NA	-
 085/175	moch	1	m o ch
 085/193	moch	1	m o ch
-085/197	NA	NA	- - - - - - -
+085/197	NA	NA	-
 086/033	mach	1	m a ch
 086/035	moach	1	m oa ch
 086/037	mach	1	m a ch
@@ -4565,63 +4565,63 @@
 086/045	mach	1	m a ch
 086/047	mach	1	m a ch
 086/049	mach	1	m a ch
-086/051	NA	NA	- - - - - - -
-086/053	NA	NA	- - - - - - -
+086/051	NA	NA	-
+086/053	NA	NA	-
 086/055	mach	1	m a ch
 086/057	mach	1	m a ch
 086/059	mach	1	m a ch
 086/061	mach	1	m a ch
 086/063	mach	1	m a ch
 086/065	mach	1	m a ch
-086/067	NA	NA	- - - - - - -
+086/067	NA	NA	-
 086/069	mach	1	m a ch
 086/071	mach	1	m a ch
 086/073	mach	1	m a ch
 086/075	mach	1	m a ch
-086/077	NA	NA	- - - - - - -
+086/077	NA	NA	-
 086/079	mach	1	m a ch
 086/081	mach	1	m a ch
 086/083	mach	1	m a ch
 086/085	mach	1	m a ch
-086/087	NA	NA	- - - - - - -
+086/087	NA	NA	-
 086/089	moch	1	m o ch
 086/091	mach	1	m a ch
 086/093	moach	1	m oa ch
 086/095	mooch	1	m oo ch
-086/097	NA	NA	- - - - - - -
-086/099	NA	NA	- - - - - - -
-086/101	NA	NA	- - - - - - -
+086/097	NA	NA	-
+086/099	NA	NA	-
+086/101	NA	NA	-
 086/103	moch	1	m o ch
-086/105	NA	NA	- - - - - - -
+086/105	NA	NA	-
 086/107	moch	1	m o ch
-086/109	NA	NA	- - - - - - -
+086/109	NA	NA	-
 086/111	moch	1	m o ch
 086/113	mach	1	m a ch
 086/115	moch	1	m o ch
-086/117	NA	NA	- - - - - - -
+086/117	NA	NA	-
 086/119	moch	1	m o ch
-086/121	NA	NA	- - - - - - -
+086/121	NA	NA	-
 086/123	moch	1	m o ch
-086/125	NA	NA	- - - - - - -
-086/127	NA	NA	- - - - - - -
+086/125	NA	NA	-
+086/127	NA	NA	-
 086/129	moch	1	m o ch
 086/131	moch	1	m o ch
 086/133	moch	1	m o ch
-086/135	NA	NA	- - - - - - -
-086/137	NA	NA	- - - - - - -
+086/135	NA	NA	-
+086/137	NA	NA	-
 086/139	moch	1	m o ch
 086/141	mach	1	m a ch
-086/143	NA	NA	- - - - - - -
+086/143	NA	NA	-
 086/145	moch	1	m o ch
 086/147	moch	1	m o ch
 086/149	moch	1	m o ch
 086/151	moch	1	m o ch
 086/175	moch	1	m o ch
 086/197	mach	1	m a ch
-086/199	NA	NA	- - - - - - -
+086/199	NA	NA	-
 087/033	moch	1	m o ch
 087/035	mach	1	m a ch
-087/037	NA	NA	- - - - - - -
+087/037	NA	NA	-
 087/039	mach	1	m a ch
 087/041	mach	1	m a ch
 087/043	moch	1	m o ch
@@ -4632,48 +4632,48 @@
 087/055	mach	1	m a ch
 087/057	mach	1	m a ch
 087/059	mach	1	m a ch
-087/061	NA	NA	- - - - - - -
+087/061	NA	NA	-
 087/063	mach	1	m a ch
-087/065	NA	NA	- - - - - - -
+087/065	NA	NA	-
 087/067	mach	1	m a ch
 087/069	mach	1	m a ch
-087/071	NA	NA	- - - - - - -
-087/073	NA	NA	- - - - - - -
+087/071	NA	NA	-
+087/073	NA	NA	-
 087/075	mach	1	m a ch
-087/077	NA	NA	- - - - - - -
+087/077	NA	NA	-
 087/079	mach	1	m a ch
 087/081	mach	1	m a ch
 087/083	mach	1	m a ch
 087/085	mach	1	m a ch
 087/087	mach	1	m a ch
-087/089	NA	NA	- - - - - - -
+087/089	NA	NA	-
 087/091	mach	1	m a ch
 087/093	moch	1	m o ch
-087/095	NA	NA	- - - - - - -
-087/097	NA	NA	- - - - - - -
-087/099	NA	NA	- - - - - - -
+087/095	NA	NA	-
+087/097	NA	NA	-
+087/099	NA	NA	-
 087/101	mach	1	m a ch
 087/103	mach	1	m a ch
 087/105	moch	1	m o ch
-087/107	NA	NA	- - - - - - -
-087/109	NA	NA	- - - - - - -
-087/111	NA	NA	- - - - - - -
+087/107	NA	NA	-
+087/109	NA	NA	-
+087/111	NA	NA	-
 087/113	moch	1	m o ch
-087/115	NA	NA	- - - - - - -
-087/117	NA	NA	- - - - - - -
-087/119	NA	NA	- - - - - - -
+087/115	NA	NA	-
+087/117	NA	NA	-
+087/119	NA	NA	-
 087/121	moch	1	m o ch
-087/123	NA	NA	- - - - - - -
-087/125	NA	NA	- - - - - - -
-087/127	NA	NA	- - - - - - -
-087/129	NA	NA	- - - - - - -
-087/133	NA	NA	- - - - - - -
+087/123	NA	NA	-
+087/125	NA	NA	-
+087/127	NA	NA	-
+087/129	NA	NA	-
+087/133	NA	NA	-
 087/135	moch	1	m o ch
 087/137	moch	1	m o ch
-087/139	NA	NA	- - - - - - -
+087/139	NA	NA	-
 087/141	moch	1	m o ch
-087/143	NA	NA	- - - - - - -
-087/145	NA	NA	- - - - - - -
+087/143	NA	NA	-
+087/145	NA	NA	-
 087/147	moch	1	m o ch
 087/149	moch	1	m o ch
 087/151	moch	1	m o ch
@@ -4686,21 +4686,21 @@
 088/047	mach	1	m a ch
 088/049	mach	1	m a ch
 088/051	mach	1	m a ch
-088/053	NA	NA	- - - - - - -
+088/053	NA	NA	-
 088/055	mach	1	m a ch
-088/057	NA	NA	- - - - - - -
+088/057	NA	NA	-
 088/059	mach	1	m a ch
-088/061	NA	NA	- - - - - - -
+088/061	NA	NA	-
 088/063	mach	1	m a ch
-088/065	NA	NA	- - - - - - -
+088/065	NA	NA	-
 088/067	mach	1	m a ch
 088/069	mach	1	m a ch
 088/071	mach	1	m a ch
-088/073	NA	NA	- - - - - - -
+088/073	NA	NA	-
 088/075	mach	1	m a ch
 088/077	mach	1	m a ch
 088/079	mach	1	m a ch
-088/081	NA	NA	- - - - - - -
+088/081	NA	NA	-
 088/083	mach	1	m a ch
 088/085	mach	1	m a ch
 088/087	mach	1	m a ch
@@ -4710,30 +4710,30 @@
 088/095	moch	1	m o ch
 088/097	moch	1	m o ch
 088/099	mach	1	m a ch
-088/101	NA	NA	- - - - - - -
+088/101	NA	NA	-
 088/103	moch	1	m o ch
 088/105	moach	1	m oa ch
 088/107	moch	1	m o ch
 088/109	mach	1	m a ch
-088/113	NA	NA	- - - - - - -
-088/115	NA	NA	- - - - - - -
-088/117	NA	NA	- - - - - - -
-088/121	NA	NA	- - - - - - -
-088/123	NA	NA	- - - - - - -
+088/113	NA	NA	-
+088/115	NA	NA	-
+088/117	NA	NA	-
+088/121	NA	NA	-
+088/123	NA	NA	-
 088/127	moch	1	m o ch
 088/129	moch	1	m o ch
 088/131	moch	1	m o ch
-088/137	NA	NA	- - - - - - -
-088/139	NA	NA	- - - - - - -
-088/141	NA	NA	- - - - - - -
-088/143	NA	NA	- - - - - - -
+088/137	NA	NA	-
+088/139	NA	NA	-
+088/141	NA	NA	-
+088/143	NA	NA	-
 088/145	moch	1	m o ch
 088/147	moch	1	m o ch
 088/149	moch	1	m o ch
 089/035	mach	1	m a ch
-089/037	NA	NA	- - - - - - -
+089/037	NA	NA	-
 089/039	mach	1	m a ch
-089/041	NA	NA	- - - - - - -
+089/041	NA	NA	-
 089/043	mach	1	m a ch
 089/045	mach	1	m a ch
 089/047	mach	1	m a ch
@@ -4743,10 +4743,10 @@
 089/055	mach	1	m a ch
 089/057	mach	1	m a ch
 089/059	mach	1	m a ch
-089/061	NA	NA	- - - - - - -
+089/061	NA	NA	-
 089/063	mach	1	m a ch
 089/065	mach	1	m a ch
-089/067	NA	NA	- - - - - - -
+089/067	NA	NA	-
 089/069	moch	1	m o ch
 089/071	mach	1	m a ch
 089/073	mach	1	m a ch
@@ -4758,37 +4758,37 @@
 089/085	mach	1	m a ch
 089/087	mach	1	m a ch
 089/089	mach	1	m a ch
-089/091	NA	NA	- - - - - - -
-089/093	NA	NA	- - - - - - -
-089/095	NA	NA	- - - - - - -
-089/097	NA	NA	- - - - - - -
+089/091	NA	NA	-
+089/093	NA	NA	-
+089/095	NA	NA	-
+089/097	NA	NA	-
 089/099	mach	1	m a ch
-089/101	NA	NA	- - - - - - -
-089/103	NA	NA	- - - - - - -
+089/101	NA	NA	-
+089/103	NA	NA	-
 089/105	mäuch	1	m äu ch
 089/107	mach	1	m a ch
-089/109	NA	NA	- - - - - - -
-089/111	NA	NA	- - - - - - -
+089/109	NA	NA	-
+089/111	NA	NA	-
 089/113	mach	1	m a ch
 089/115	mach	1	m a ch
-089/117	NA	NA	- - - - - - -
-089/119	NA	NA	- - - - - - -
-089/121	NA	NA	- - - - - - -
-089/123	NA	NA	- - - - - - -
-089/125	NA	NA	- - - - - - -
+089/117	NA	NA	-
+089/119	NA	NA	-
+089/121	NA	NA	-
+089/123	NA	NA	-
+089/125	NA	NA	-
 089/127	moch	1	m o ch
 089/129	moch	1	m o ch
-089/131	NA	NA	- - - - - - -
+089/131	NA	NA	-
 089/133	moch	1	m o ch
-089/135	NA	NA	- - - - - - -
-089/137	NA	NA	- - - - - - -
-089/139	NA	NA	- - - - - - -
+089/135	NA	NA	-
+089/137	NA	NA	-
+089/139	NA	NA	-
 089/141	moch	1	m o ch
 089/143	moch	1	m o ch
-089/145	NA	NA	- - - - - - -
-089/147	NA	NA	- - - - - - -
+089/145	NA	NA	-
+089/147	NA	NA	-
 089/149	moch	1	m o ch
-090/035	NA	NA	- - - - - - -
+090/035	NA	NA	-
 090/037	mach	1	m a ch
 090/039	mach	1	m a ch
 090/041	mach	1	m a ch
@@ -4801,63 +4801,63 @@
 090/055	mach	1	m a ch
 090/057	mach	1	m a ch
 090/059	mach	1	m a ch
-090/061	NA	NA	- - - - - - -
+090/061	NA	NA	-
 090/063	mach	1	m a ch
 090/065	mach	1	m a ch
 090/067	mach	1	m a ch
-090/069	NA	NA	- - - - - - -
+090/069	NA	NA	-
 090/071	mach	1	m a ch
 090/073	mach	1	m a ch
 090/075	mach	1	m a ch
 090/077	mach	1	m a ch
-090/079	NA	NA	- - - - - - -
+090/079	NA	NA	-
 090/081	mach	1	m a ch
 090/083	mach	1	m a ch
-090/085	NA	NA	- - - - - - -
+090/085	NA	NA	-
 090/087	mach	1	m a ch
 090/089	mach	1	m a ch
-090/091	NA	NA	- - - - - - -
+090/091	NA	NA	-
 090/093	mooch	1	m oo ch
-090/095	NA	NA	- - - - - - -
+090/095	NA	NA	-
 090/097	moch	1	m o ch
 090/099	moch	1	m o ch
 090/101	moch	1	m o ch
 090/103	moch	1	m o ch
-090/105	NA	NA	- - - - - - -
-090/107	NA	NA	- - - - - - -
+090/105	NA	NA	-
+090/107	NA	NA	-
 090/109	mäooch	1	m äoo ch
 090/111	mäoch	1	m äo ch
-090/113	NA	NA	- - - - - - -
+090/113	NA	NA	-
 090/115	mach	1	m a ch
-090/119	NA	NA	- - - - - - -
-090/121	NA	NA	- - - - - - -
+090/119	NA	NA	-
+090/121	NA	NA	-
 090/123	moch	1	m o ch
-090/125	NA	NA	- - - - - - -
-090/127	NA	NA	- - - - - - -
+090/125	NA	NA	-
+090/127	NA	NA	-
 090/129	moch	1	m o ch
-090/131	NA	NA	- - - - - - -
+090/131	NA	NA	-
 090/133	moch	1	m o ch
-090/135	NA	NA	- - - - - - -
-090/137	NA	NA	- - - - - - -
-090/139	NA	NA	- - - - - - -
+090/135	NA	NA	-
+090/137	NA	NA	-
+090/139	NA	NA	-
 090/141	moch	1	m o ch
 090/143	mooch	1	m oo ch
-090/145	NA	NA	- - - - - - -
-090/147	NA	NA	- - - - - - -
-090/149	NA	NA	- - - - - - -
+090/145	NA	NA	-
+090/147	NA	NA	-
+090/149	NA	NA	-
 090/151	moch	1	m o ch
 091/035	mach	1	m a ch
-091/037	NA	NA	- - - - - - -
+091/037	NA	NA	-
 091/039	mach	1	m a ch
-091/041	NA	NA	- - - - - - -
+091/041	NA	NA	-
 091/043	mach	1	m a ch
 091/045	moch	1	m o ch
 091/047	mach	1	m a ch
 091/049	mach	1	m a ch
-091/051	NA	NA	- - - - - - -
+091/051	NA	NA	-
 091/053	mach	1	m a ch
 091/055	mach	1	m a ch
-091/057	NA	NA	- - - - - - -
+091/057	NA	NA	-
 091/059	mach	1	m a ch
 091/061	mach	1	m a ch
 091/063	mach	1	m a ch
@@ -4875,36 +4875,36 @@
 091/087	mach	1	m a ch
 091/091	mach	1	m a ch
 091/093	mooch	1	m oo ch
-091/095	NA	NA	- - - - - - -
+091/095	NA	NA	-
 091/097	mach	1	m a ch
-091/099	NA	NA	- - - - - - -
+091/099	NA	NA	-
 091/101	moch	1	m o ch
-091/103	NA	NA	- - - - - - -
-091/105	NA	NA	- - - - - - -
-091/107	NA	NA	- - - - - - -
-091/109	NA	NA	- - - - - - -
+091/103	NA	NA	-
+091/105	NA	NA	-
+091/107	NA	NA	-
+091/109	NA	NA	-
 091/111	mach	1	m a ch
 091/113	mach	1	m a ch
-091/115	NA	NA	- - - - - - -
-091/117	NA	NA	- - - - - - -
+091/115	NA	NA	-
+091/117	NA	NA	-
 091/119	maach	1	m aa ch
-091/121	NA	NA	- - - - - - -
-091/125	NA	NA	- - - - - - -
+091/121	NA	NA	-
+091/125	NA	NA	-
 091/129	moch	1	m o ch
 091/131	moch	1	m o ch
 091/133	moch	1	m o ch
-091/135	NA	NA	- - - - - - -
+091/135	NA	NA	-
 091/137	moch	1	m o ch
-091/139	NA	NA	- - - - - - -
+091/139	NA	NA	-
 091/141	moch	1	m o ch
-091/143	NA	NA	- - - - - - -
-091/145	NA	NA	- - - - - - -
-091/147	NA	NA	- - - - - - -
+091/143	NA	NA	-
+091/145	NA	NA	-
+091/147	NA	NA	-
 091/149	mach	1	m a ch
 091/151	moch	1	m o ch
-091/155	NA	NA	- - - - - - -
+091/155	NA	NA	-
 092/033	mach	1	m a ch
-092/035	NA	NA	- - - - - - -
+092/035	NA	NA	-
 092/037	mach	1	m a ch
 092/039	mach	1	m a ch
 092/041	mach	1	m a ch
@@ -4913,20 +4913,20 @@
 092/047	mach	1	m a ch
 092/049	mach	1	m a ch
 092/051	mach	1	m a ch
-092/053	NA	NA	- - - - - - -
+092/053	NA	NA	-
 092/055	mach	1	m a ch
 092/057	mach	1	m a ch
-092/059	NA	NA	- - - - - - -
+092/059	NA	NA	-
 092/061	mach	1	m a ch
 092/063	mach	1	m a ch
-092/065	NA	NA	- - - - - - -
-092/067	NA	NA	- - - - - - -
+092/065	NA	NA	-
+092/067	NA	NA	-
 092/069	mach	1	m a ch
-092/071	NA	NA	- - - - - - -
-092/073	NA	NA	- - - - - - -
-092/075	NA	NA	- - - - - - -
-092/077	NA	NA	- - - - - - -
-092/079	NA	NA	- - - - - - -
+092/071	NA	NA	-
+092/073	NA	NA	-
+092/075	NA	NA	-
+092/077	NA	NA	-
+092/079	NA	NA	-
 092/081	mach	1	m a ch
 092/083	mach	1	m a ch
 092/085	mach	1	m a ch
@@ -4934,32 +4934,32 @@
 092/089	mach	1	m a ch
 092/091	mach	1	m a ch
 092/093	moch	1	m o ch
-092/095	NA	NA	- - - - - - -
+092/095	NA	NA	-
 092/097	mach	1	m a ch
 092/099	moch	1	m o ch
 092/101	mach	1	m a ch
-092/103	NA	NA	- - - - - - -
-092/105	NA	NA	- - - - - - -
-092/107	NA	NA	- - - - - - -
-092/109	NA	NA	- - - - - - -
+092/103	NA	NA	-
+092/105	NA	NA	-
+092/107	NA	NA	-
+092/109	NA	NA	-
 092/111	mach	1	m a ch
-092/113	NA	NA	- - - - - - -
+092/113	NA	NA	-
 092/115	mach	1	m a ch
 092/117	moch	1	m o ch
 092/119	mach	1	m a ch
-092/121	NA	NA	- - - - - - -
-092/123	NA	NA	- - - - - - -
-092/125	NA	NA	- - - - - - -
+092/121	NA	NA	-
+092/123	NA	NA	-
+092/125	NA	NA	-
 092/127	moach	1	m oa ch
 092/129	moch	1	m o ch
-092/131	NA	NA	- - - - - - -
+092/131	NA	NA	-
 092/133	moch	1	m o ch
-092/135	NA	NA	- - - - - - -
-092/137	NA	NA	- - - - - - -
-092/139	NA	NA	- - - - - - -
-092/141	NA	NA	- - - - - - -
+092/135	NA	NA	-
+092/137	NA	NA	-
+092/139	NA	NA	-
+092/141	NA	NA	-
 092/143	moch	1	m o ch
-092/145	NA	NA	- - - - - - -
+092/145	NA	NA	-
 092/147	moch	1	m o ch
 092/149	moch	1	m o ch
 092/151	moch	1	m o ch
@@ -4976,50 +4976,50 @@
 093/055	mach	1	m a ch
 093/057	mach	1	m a ch
 093/059	mach	1	m a ch
-093/061	NA	NA	- - - - - - -
-093/063	NA	NA	- - - - - - -
+093/061	NA	NA	-
+093/063	NA	NA	-
 093/065	mach	1	m a ch
-093/067	NA	NA	- - - - - - -
-093/069	NA	NA	- - - - - - -
+093/067	NA	NA	-
+093/069	NA	NA	-
 093/071	mach	1	m a ch
-093/073	NA	NA	- - - - - - -
+093/073	NA	NA	-
 093/075	mach	1	m a ch
-093/077	NA	NA	- - - - - - -
-093/079	NA	NA	- - - - - - -
+093/077	NA	NA	-
+093/079	NA	NA	-
 093/081	mach	1	m a ch
-093/083	NA	NA	- - - - - - -
+093/083	NA	NA	-
 093/085	mach	1	m a ch
-093/087	NA	NA	- - - - - - -
-093/089	NA	NA	- - - - - - -
-093/091	NA	NA	- - - - - - -
+093/087	NA	NA	-
+093/089	NA	NA	-
+093/091	NA	NA	-
 093/093	mach	1	m a ch
-093/095	NA	NA	- - - - - - -
-093/097	NA	NA	- - - - - - -
+093/095	NA	NA	-
+093/097	NA	NA	-
 093/099	moch	1	m o ch
 093/101	moch	1	m o ch
-093/103	NA	NA	- - - - - - -
+093/103	NA	NA	-
 093/105	moch	1	m o ch
-093/109	NA	NA	- - - - - - -
+093/109	NA	NA	-
 093/111	mach	1	m a ch
 093/113	mach	1	m a ch
-093/115	NA	NA	- - - - - - -
-093/117	NA	NA	- - - - - - -
+093/115	NA	NA	-
+093/117	NA	NA	-
 093/119	moch	1	m o ch
 093/121	moch	1	m o ch
-093/123	NA	NA	- - - - - - -
-093/125	NA	NA	- - - - - - -
-093/127	NA	NA	- - - - - - -
+093/123	NA	NA	-
+093/125	NA	NA	-
+093/127	NA	NA	-
 093/129	moch	1	m o ch
 093/131	moch	1	m o ch
-093/133	NA	NA	- - - - - - -
+093/133	NA	NA	-
 093/137	moch	1	m o ch
 093/139	moch	1	m o ch
-093/143	NA	NA	- - - - - - -
+093/143	NA	NA	-
 093/145	moch	1	m o ch
-093/147	NA	NA	- - - - - - -
+093/147	NA	NA	-
 093/149	moch	1	m o ch
-093/151	NA	NA	- - - - - - -
-093/153	NA	NA	- - - - - - -
+093/151	NA	NA	-
+093/153	NA	NA	-
 093/155	moch	1	m o ch
 094/033	moch	1	m o ch
 094/035	mach	1	m a ch
@@ -5028,8 +5028,8 @@
 094/041	mach	1	m a ch
 094/043	mach	1	m a ch
 094/045	mach	1	m a ch
-094/047	NA	NA	- - - - - - -
-094/049	NA	NA	- - - - - - -
+094/047	NA	NA	-
+094/049	NA	NA	-
 094/051	mach	1	m a ch
 094/053	mach	1	m a ch
 094/055	mach	1	m a ch
@@ -5037,52 +5037,52 @@
 094/059	mach	1	m a ch
 094/061	mach	1	m a ch
 094/063	mach	1	m a ch
-094/065	NA	NA	- - - - - - -
+094/065	NA	NA	-
 094/067	mach	1	m a ch
 094/069	mach	1	m a ch
 094/071	mach	1	m a ch
 094/073	mach	1	m a ch
 094/075	maach	1	m aa ch
-094/077	NA	NA	- - - - - - -
-094/079	NA	NA	- - - - - - -
+094/077	NA	NA	-
+094/079	NA	NA	-
 094/081	mach	1	m a ch
 094/083	mach	1	m a ch
 094/085	mach	1	m a ch
 094/087	mach	1	m a ch
-094/089	NA	NA	- - - - - - -
-094/091	NA	NA	- - - - - - -
-094/093	NA	NA	- - - - - - -
+094/089	NA	NA	-
+094/091	NA	NA	-
+094/093	NA	NA	-
 094/095	mach	1	m a ch
 094/097	mach	1	m a ch
 094/099	mach	1	m a ch
-094/101	NA	NA	- - - - - - -
-094/103	NA	NA	- - - - - - -
+094/101	NA	NA	-
+094/103	NA	NA	-
 094/105	moch	1	m o ch
 094/107	mach	1	m a ch
 094/109	mäch	1	m ä ch
-094/111	NA	NA	- - - - - - -
-094/113	NA	NA	- - - - - - -
+094/111	NA	NA	-
+094/113	NA	NA	-
 094/115	mach	1	m a ch
-094/117	NA	NA	- - - - - - -
+094/117	NA	NA	-
 094/119	moch	1	m o ch
-094/121	NA	NA	- - - - - - -
-094/123	NA	NA	- - - - - - -
+094/121	NA	NA	-
+094/123	NA	NA	-
 094/125	moch	1	m o ch
-094/127	NA	NA	- - - - - - -
+094/127	NA	NA	-
 094/129	moch	1	m o ch
-094/131	NA	NA	- - - - - - -
-094/133	NA	NA	- - - - - - -
-094/135	NA	NA	- - - - - - -
+094/131	NA	NA	-
+094/133	NA	NA	-
+094/135	NA	NA	-
 094/137	moch	1	m o ch
-094/139	NA	NA	- - - - - - -
-094/141	NA	NA	- - - - - - -
+094/139	NA	NA	-
+094/141	NA	NA	-
 094/143	moch	1	m o ch
-094/145	NA	NA	- - - - - - -
+094/145	NA	NA	-
 094/147	moch	1	m o ch
 094/149	moch	1	m o ch
 094/151	moch	1	m o ch
 094/153	moch	1	m o ch
-095/031	NA	NA	- - - - - - -
+095/031	NA	NA	-
 095/033	mach	1	m a ch
 095/035	mach	1	m a ch
 095/037	mach	1	m a ch
@@ -5092,53 +5092,53 @@
 095/045	mach	1	m a ch
 095/047	mach	1	m a ch
 095/049	mach	1	m a ch
-095/051	NA	NA	- - - - - - -
+095/051	NA	NA	-
 095/053	mach	1	m a ch
 095/055	mach	1	m a ch
 095/057	mach	1	m a ch
-095/059	NA	NA	- - - - - - -
+095/059	NA	NA	-
 095/061	mach	1	m a ch
 095/063	mach	1	m a ch
 095/065	mach	1	m a ch
 095/067	mach	1	m a ch
-095/069	NA	NA	- - - - - - -
-095/071	NA	NA	- - - - - - -
+095/069	NA	NA	-
+095/071	NA	NA	-
 095/073	mach	1	m a ch
-095/075	NA	NA	- - - - - - -
+095/075	NA	NA	-
 095/077	mach	1	m a ch
-095/079	NA	NA	- - - - - - -
+095/079	NA	NA	-
 095/081	mach	1	m a ch
 095/083	mach	1	m a ch
 095/085	mach	1	m a ch
 095/087	mach	1	m a ch
 095/089	maach	1	m aa ch
-095/091	NA	NA	- - - - - - -
+095/091	NA	NA	-
 095/093	mach	1	m a ch
 095/095	mach	1	m a ch
 095/097	mach	1	m a ch
 095/099	mach	1	m a ch
 095/101	mach	1	m a ch
 095/103	mach	1	m a ch
-095/105	NA	NA	- - - - - - -
+095/105	NA	NA	-
 095/107	mach	1	m a ch
-095/109	NA	NA	- - - - - - -
+095/109	NA	NA	-
 095/111	moch	1	m o ch
-095/113	NA	NA	- - - - - - -
+095/113	NA	NA	-
 095/115	mach	1	m a ch
-095/117	NA	NA	- - - - - - -
-095/119	NA	NA	- - - - - - -
+095/117	NA	NA	-
+095/119	NA	NA	-
 095/121	mach	1	m a ch
 095/123	moch	1	m o ch
-095/125	NA	NA	- - - - - - -
-095/129	NA	NA	- - - - - - -
+095/125	NA	NA	-
+095/129	NA	NA	-
 095/131	moch	1	m o ch
-095/133	NA	NA	- - - - - - -
+095/133	NA	NA	-
 095/139	mach	1	m a ch
-095/141	NA	NA	- - - - - - -
+095/141	NA	NA	-
 095/143	mach	1	m a ch
 095/145	moch	1	m o ch
-095/147	NA	NA	- - - - - - -
-095/149	NA	NA	- - - - - - -
+095/147	NA	NA	-
+095/149	NA	NA	-
 095/151	moch	1	m o ch
 095/153	moch	1	m o ch
 095/155	moch	1	m o ch
@@ -5147,66 +5147,66 @@
 096/035	maach	1	m aa ch
 096/037	mach	1	m a ch
 096/039	mach	1	m a ch
-096/041	NA	NA	- - - - - - -
+096/041	NA	NA	-
 096/043	mach	1	m a ch
 096/045	mach	1	m a ch
-096/047	NA	NA	- - - - - - -
+096/047	NA	NA	-
 096/049	mach	1	m a ch
 096/051	mach	1	m a ch
 096/053	mach	1	m a ch
 096/055	mach	1	m a ch
 096/057	mach	1	m a ch
 096/059	mach	1	m a ch
-096/061	NA	NA	- - - - - - -
+096/061	NA	NA	-
 096/063	mach	1	m a ch
 096/065	mach	1	m a ch
-096/067	NA	NA	- - - - - - -
-096/069	NA	NA	- - - - - - -
-096/071	NA	NA	- - - - - - -
-096/075	NA	NA	- - - - - - -
+096/067	NA	NA	-
+096/069	NA	NA	-
+096/071	NA	NA	-
+096/075	NA	NA	-
 096/077	mach	1	m a ch
 096/079	mach	1	m a ch
 096/081	mach	1	m a ch
-096/083	NA	NA	- - - - - - -
-096/085	NA	NA	- - - - - - -
+096/083	NA	NA	-
+096/085	NA	NA	-
 096/087	mach	1	m a ch
 096/089	mach	1	m a ch
-096/091	NA	NA	- - - - - - -
-096/093	NA	NA	- - - - - - -
-096/095	NA	NA	- - - - - - -
-096/097	NA	NA	- - - - - - -
+096/091	NA	NA	-
+096/093	NA	NA	-
+096/095	NA	NA	-
+096/097	NA	NA	-
 096/099	moch	1	m o ch
-096/101	NA	NA	- - - - - - -
+096/101	NA	NA	-
 096/103	mach	1	m a ch
-096/105	NA	NA	- - - - - - -
+096/105	NA	NA	-
 096/107	mach	1	m a ch
-096/109	NA	NA	- - - - - - -
-096/111	NA	NA	- - - - - - -
-096/113	NA	NA	- - - - - - -
-096/115	NA	NA	- - - - - - -
-096/117	NA	NA	- - - - - - -
+096/109	NA	NA	-
+096/111	NA	NA	-
+096/113	NA	NA	-
+096/115	NA	NA	-
+096/117	NA	NA	-
 096/119	moch	1	m o ch
-096/121	NA	NA	- - - - - - -
+096/121	NA	NA	-
 096/123	moch	1	m o ch
 096/125	moch	1	m o ch
-096/129	NA	NA	- - - - - - -
+096/129	NA	NA	-
 096/131	moch	1	m o ch
-096/135	NA	NA	- - - - - - -
-096/137	NA	NA	- - - - - - -
-096/139	NA	NA	- - - - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
+096/139	NA	NA	-
 096/141	moch	1	m o ch
-096/143	NA	NA	- - - - - - -
+096/143	NA	NA	-
 096/145	moch	1	m o ch
 096/147	mochch	1	m o chch
 096/151	moch	1	m o ch
-096/153	NA	NA	- - - - - - -
+096/153	NA	NA	-
 096/155	moch	1	m o ch
-097/031	NA	NA	- - - - - - -
+097/031	NA	NA	-
 097/033	mach	1	m a ch
 097/035	mach	1	m a ch
 097/037	mach	1	m a ch
 097/039	mach	1	m a ch
-097/041	NA	NA	- - - - - - -
+097/041	NA	NA	-
 097/043	mach	1	m a ch
 097/045	mach	1	m a ch
 097/047	mach	1	m a ch
@@ -5219,34 +5219,34 @@
 097/061	mach	1	m a ch
 097/063	mach	1	m a ch
 097/065	mach	1	m a ch
-097/067	NA	NA	- - - - - - -
+097/067	NA	NA	-
 097/069	mach	1	m a ch
 097/071	mach	1	m a ch
-097/073	NA	NA	- - - - - - -
+097/073	NA	NA	-
 097/075	mach	1	m a ch
-097/077	NA	NA	- - - - - - -
+097/077	NA	NA	-
 097/079	mach	1	m a ch
-097/081	NA	NA	- - - - - - -
+097/081	NA	NA	-
 097/083	mach	1	m a ch
 097/085	mach	1	m a ch
 097/087	mach	1	m a ch
 097/089	mach	1	m a ch
-097/091	NA	NA	- - - - - - -
-097/093	NA	NA	- - - - - - -
+097/091	NA	NA	-
+097/093	NA	NA	-
 097/095	mach	1	m a ch
-097/097	NA	NA	- - - - - - -
-097/099	NA	NA	- - - - - - -
+097/097	NA	NA	-
+097/099	NA	NA	-
 097/103	moach	1	m oa ch
 097/105	moch	1	m o ch
-097/107	NA	NA	- - - - - - -
-097/109	NA	NA	- - - - - - -
-097/113	NA	NA	- - - - - - -
-097/125	NA	NA	- - - - - - -
+097/107	NA	NA	-
+097/109	NA	NA	-
+097/113	NA	NA	-
+097/125	NA	NA	-
 097/131	moch	1	m o ch
 097/133	moch	1	m o ch
 097/139	moch	1	m o ch
-097/141	NA	NA	- - - - - - -
-097/143	NA	NA	- - - - - - -
+097/141	NA	NA	-
+097/143	NA	NA	-
 097/145	moch	1	m o ch
 097/149	moch	1	m o ch
 097/153	moch	1	m o ch
@@ -5257,150 +5257,150 @@
 098/041	mach	1	m a ch
 098/043	mach	1	m a ch
 098/045	mach	1	m a ch
-098/047	NA	NA	- - - - - - -
+098/047	NA	NA	-
 098/049	mach	1	m a ch
 098/051	mach	1	m a ch
 098/053	mach	1	m a ch
-098/055	NA	NA	- - - - - - -
+098/055	NA	NA	-
 098/057	mach	1	m a ch
 098/059	mach	1	m a ch
 098/061	buza	2	b u - z - a -
 098/063	moch	1	m o ch
 098/065	moch	1	m o ch
 098/067	moch	1	m o ch
-098/069	NA	NA	- - - - - - -
-098/071	NA	NA	- - - - - - -
-098/073	NA	NA	- - - - - - -
-098/075	NA	NA	- - - - - - -
-098/077	NA	NA	- - - - - - -
-098/079	NA	NA	- - - - - - -
+098/069	NA	NA	-
+098/071	NA	NA	-
+098/073	NA	NA	-
+098/075	NA	NA	-
+098/077	NA	NA	-
+098/079	NA	NA	-
 098/081	mach	1	m a ch
 098/083	mach	1	m a ch
-098/085	NA	NA	- - - - - - -
+098/085	NA	NA	-
 098/087	mach	1	m a ch
 098/089	mach	1	m a ch
 098/091	mach	1	m a ch
 098/093	mach	1	m a ch
-098/095	NA	NA	- - - - - - -
-098/097	NA	NA	- - - - - - -
+098/095	NA	NA	-
+098/097	NA	NA	-
 098/103	mach	1	m a ch
-098/105	NA	NA	- - - - - - -
-098/107	NA	NA	- - - - - - -
-098/109	NA	NA	- - - - - - -
-098/111	NA	NA	- - - - - - -
-098/119	NA	NA	- - - - - - -
-098/123	NA	NA	- - - - - - -
-098/125	NA	NA	- - - - - - -
+098/105	NA	NA	-
+098/107	NA	NA	-
+098/109	NA	NA	-
+098/111	NA	NA	-
+098/119	NA	NA	-
+098/123	NA	NA	-
+098/125	NA	NA	-
 098/127	moch	1	m o ch
 098/135	moch	1	m o ch
 098/137	moch	1	m o ch
-098/139	NA	NA	- - - - - - -
-098/141	NA	NA	- - - - - - -
-098/143	NA	NA	- - - - - - -
+098/139	NA	NA	-
+098/141	NA	NA	-
+098/143	NA	NA	-
 098/145	moch	1	m o ch
-098/147	NA	NA	- - - - - - -
+098/147	NA	NA	-
 098/149	moch	1	m o ch
-098/151	NA	NA	- - - - - - -
+098/151	NA	NA	-
 099/033	mach	1	m a ch
 099/035	mach	1	m a ch
 099/037	mach	1	m a ch
-099/039	NA	NA	- - - - - - -
+099/039	NA	NA	-
 099/041	mach	1	m a ch
 099/043	mach	1	m a ch
 099/045	mach	1	m a ch
-099/047	NA	NA	- - - - - - -
+099/047	NA	NA	-
 099/049	mach	1	m a ch
 099/051	mach	1	m a ch
-099/053	NA	NA	- - - - - - -
-099/055	NA	NA	- - - - - - -
-099/057	NA	NA	- - - - - - -
+099/053	NA	NA	-
+099/055	NA	NA	-
+099/057	NA	NA	-
 099/059	mach	1	m a ch
-099/063	NA	NA	- - - - - - -
+099/063	NA	NA	-
 099/065	mach	1	m a ch
 099/067	mach	1	m a ch
-099/069	NA	NA	- - - - - - -
+099/069	NA	NA	-
 099/071	mach	1	m a ch
-099/073	NA	NA	- - - - - - -
-099/075	NA	NA	- - - - - - -
-099/077	NA	NA	- - - - - - -
-099/081	NA	NA	- - - - - - -
+099/073	NA	NA	-
+099/075	NA	NA	-
+099/077	NA	NA	-
+099/081	NA	NA	-
 099/083	mach	1	m a ch
-099/085	NA	NA	- - - - - - -
-099/089	NA	NA	- - - - - - -
-099/093	NA	NA	- - - - - - -
-099/095	NA	NA	- - - - - - -
+099/085	NA	NA	-
+099/089	NA	NA	-
+099/093	NA	NA	-
+099/095	NA	NA	-
 099/099	moch	1	m o ch
 099/101	mach	1	m a ch
-099/103	NA	NA	- - - - - - -
+099/103	NA	NA	-
 099/105	mach	1	m a ch
-099/107	NA	NA	- - - - - - -
-099/109	NA	NA	- - - - - - -
-099/111	NA	NA	- - - - - - -
-099/113	NA	NA	- - - - - - -
-099/121	NA	NA	- - - - - - -
+099/107	NA	NA	-
+099/109	NA	NA	-
+099/111	NA	NA	-
+099/113	NA	NA	-
+099/121	NA	NA	-
 099/123	moch	1	m o ch
 099/125	moch	1	m o ch
 099/131	moch	1	m o ch
 099/137	moch	1	m o ch
 099/139	moch	1	m o ch
 099/141	moch	1	m o ch
-099/143	NA	NA	- - - - - - -
+099/143	NA	NA	-
 099/145	moch	1	m o ch
-099/147	NA	NA	- - - - - - -
+099/147	NA	NA	-
 100/033	mach	1	m a ch
 100/035	mach	1	m a ch
 100/037	mach	1	m a ch
-100/039	NA	NA	- - - - - - -
+100/039	NA	NA	-
 100/041	moch	1	m o ch
-100/043	NA	NA	- - - - - - -
-100/045	NA	NA	- - - - - - -
-100/049	NA	NA	- - - - - - -
+100/043	NA	NA	-
+100/045	NA	NA	-
+100/049	NA	NA	-
 100/051	mach	1	m a ch
 100/053	mach	1	m a ch
 100/055	bürste	2	b ü r s t e -
 100/057	mach	1	m a ch
-100/059	NA	NA	- - - - - - -
-100/061	NA	NA	- - - - - - -
+100/059	NA	NA	-
+100/061	NA	NA	-
 100/065	mach	1	m a ch
 100/067	mach	1	m a ch
 100/069	mach	1	m a ch
 100/071	mach	1	m a ch
-100/073	NA	NA	- - - - - - -
+100/073	NA	NA	-
 100/075	mach	1	m a ch
 100/077	mach	1	m a ch
-100/081	NA	NA	- - - - - - -
-100/083	NA	NA	- - - - - - -
-100/089	NA	NA	- - - - - - -
-100/093	NA	NA	- - - - - - -
-100/095	NA	NA	- - - - - - -
+100/081	NA	NA	-
+100/083	NA	NA	-
+100/089	NA	NA	-
+100/093	NA	NA	-
+100/095	NA	NA	-
 100/097	moch	1	m o ch
-100/099	NA	NA	- - - - - - -
-100/101	NA	NA	- - - - - - -
+100/099	NA	NA	-
+100/101	NA	NA	-
 100/109	moch	1	m o ch
 100/111	mach	1	m a ch
 100/113	moch	1	m o ch
-100/115	NA	NA	- - - - - - -
+100/115	NA	NA	-
 100/117	moch	1	m o ch
-100/119	NA	NA	- - - - - - -
-100/121	NA	NA	- - - - - - -
+100/119	NA	NA	-
+100/121	NA	NA	-
 100/125	moch	1	m o ch
-100/127	NA	NA	- - - - - - -
-100/129	NA	NA	- - - - - - -
+100/127	NA	NA	-
+100/129	NA	NA	-
 100/133	moch	1	m o ch
 100/135	moch	1	m o ch
-100/141	NA	NA	- - - - - - -
+100/141	NA	NA	-
 100/143	moch	1	m o ch
 100/145	moch	1	m o ch
 101/035	maach	1	m aa ch
 101/037	mach	1	m a ch
-101/039	NA	NA	- - - - - - -
-101/041	NA	NA	- - - - - - -
-101/043	NA	NA	- - - - - - -
+101/039	NA	NA	-
+101/041	NA	NA	-
+101/043	NA	NA	-
 101/045	mach	1	m a ch
-101/047	NA	NA	- - - - - - -
-101/049	NA	NA	- - - - - - -
-101/051	NA	NA	- - - - - - -
-101/053	NA	NA	- - - - - - -
+101/047	NA	NA	-
+101/049	NA	NA	-
+101/051	NA	NA	-
+101/053	NA	NA	-
 101/055	mach	1	m a ch
 101/057	mach	1	m a ch
 101/059	mach	1	m a ch
@@ -5412,109 +5412,109 @@
 101/075	mach	1	m a ch
 101/077	mach	1	m a ch
 101/079	mach	1	m a ch
-101/081	NA	NA	- - - - - - -
-101/091	NA	NA	- - - - - - -
-101/093	NA	NA	- - - - - - -
+101/081	NA	NA	-
+101/091	NA	NA	-
+101/093	NA	NA	-
 101/095	moch	1	m o ch
-101/097	NA	NA	- - - - - - -
+101/097	NA	NA	-
 101/099	mach	1	m a ch
-101/101	NA	NA	- - - - - - -
-101/103	NA	NA	- - - - - - -
+101/101	NA	NA	-
+101/103	NA	NA	-
 101/107	moch	1	m o ch
-101/109	NA	NA	- - - - - - -
-101/113	NA	NA	- - - - - - -
+101/109	NA	NA	-
+101/113	NA	NA	-
 101/115	mach	1	m a ch
 101/121	moch	1	m o ch
-101/125	NA	NA	- - - - - - -
+101/125	NA	NA	-
 101/129	moch	1	m o ch
-101/131	NA	NA	- - - - - - -
+101/131	NA	NA	-
 101/133	moch	1	m o ch
-101/137	NA	NA	- - - - - - -
+101/137	NA	NA	-
 101/139	moch	1	m o ch
-101/141	NA	NA	- - - - - - -
+101/141	NA	NA	-
 101/143	moch	1	m o ch
-101/145	NA	NA	- - - - - - -
-101/147	NA	NA	- - - - - - -
+101/145	NA	NA	-
+101/147	NA	NA	-
 102/037	mach	1	m a ch
-102/039	NA	NA	- - - - - - -
+102/039	NA	NA	-
 102/041	mach	1	m a ch
 102/043	mach	1	m a ch
 102/045	mach	1	m a ch
-102/047	NA	NA	- - - - - - -
+102/047	NA	NA	-
 102/049	mach	1	m a ch
-102/051	NA	NA	- - - - - - -
-102/053	NA	NA	- - - - - - -
+102/051	NA	NA	-
+102/053	NA	NA	-
 102/055	mach	1	m a ch
 102/057	mach	1	m a ch
 102/059	mach	1	m a ch
-102/061	NA	NA	- - - - - - -
-102/063	NA	NA	- - - - - - -
+102/061	NA	NA	-
+102/063	NA	NA	-
 102/065	mach	1	m a ch
 102/067	mach	1	m a ch
-102/069	NA	NA	- - - - - - -
+102/069	NA	NA	-
 102/071	mach	1	m a ch
-102/073	NA	NA	- - - - - - -
+102/073	NA	NA	-
 102/075	moch	1	m o ch
 102/077	mach	1	m a ch
-102/079	NA	NA	- - - - - - -
-102/081	NA	NA	- - - - - - -
-102/083	NA	NA	- - - - - - -
+102/079	NA	NA	-
+102/081	NA	NA	-
+102/083	NA	NA	-
 102/089	mach	1	m a ch
 102/091	mach	1	m a ch
 102/093	moch	1	m o ch
-102/095	NA	NA	- - - - - - -
-102/097	NA	NA	- - - - - - -
-102/099	NA	NA	- - - - - - -
-102/103	NA	NA	- - - - - - -
-102/107	NA	NA	- - - - - - -
-102/109	NA	NA	- - - - - - -
+102/095	NA	NA	-
+102/097	NA	NA	-
+102/099	NA	NA	-
+102/103	NA	NA	-
+102/107	NA	NA	-
+102/109	NA	NA	-
 102/113	moch	1	m o ch
 102/115	moch	1	m o ch
 102/127	moch	1	m o ch
-102/129	NA	NA	- - - - - - -
+102/129	NA	NA	-
 102/131	moch	1	m o ch
-102/135	NA	NA	- - - - - - -
+102/135	NA	NA	-
 102/137	mach	1	m a ch
-102/139	NA	NA	- - - - - - -
+102/139	NA	NA	-
 102/141	moch	1	m o ch
-102/143	NA	NA	- - - - - - -
+102/143	NA	NA	-
 102/145	moch	1	m o ch
 103/039	buurschte	2	b uu r sch t e -
 103/041	mach	1	m a ch
 103/043	mach	1	m a ch
-103/045	NA	NA	- - - - - - -
+103/045	NA	NA	-
 103/047	mach	1	m a ch
 103/049	butze	2	b u - tz - e -
 103/051	mach	1	m a ch
 103/053	butze	2	b u - tz - e -
-103/055	NA	NA	- - - - - - -
+103/055	NA	NA	-
 103/057	mach	1	m a ch
 103/059	butzä	2	b u - tz - ä -
 103/063	mach	1	m a ch
 103/065	mach	1	m a ch
 103/067	mach	1	m a ch
-103/069	NA	NA	- - - - - - -
+103/069	NA	NA	-
 103/071	mach	1	m a ch
 103/073	moch	1	m o ch
 103/075	moch	1	m o ch
 103/077	moch	1	m o ch
-103/079	NA	NA	- - - - - - -
-103/081	NA	NA	- - - - - - -
-103/083	NA	NA	- - - - - - -
+103/079	NA	NA	-
+103/081	NA	NA	-
+103/083	NA	NA	-
 103/085	moach	1	m oa ch
-103/087	NA	NA	- - - - - - -
+103/087	NA	NA	-
 103/089	moch	1	m o ch
 103/091	moach	1	m oa ch
-103/097	NA	NA	- - - - - - -
-103/099	NA	NA	- - - - - - -
-103/101	NA	NA	- - - - - - -
-103/105	NA	NA	- - - - - - -
-103/107	NA	NA	- - - - - - -
+103/097	NA	NA	-
+103/099	NA	NA	-
+103/101	NA	NA	-
+103/105	NA	NA	-
+103/107	NA	NA	-
 103/111	moch	1	m o ch
-103/121	NA	NA	- - - - - - -
+103/121	NA	NA	-
 103/125	moch	1	m o ch
-103/127	NA	NA	- - - - - - -
-103/131	NA	NA	- - - - - - -
+103/127	NA	NA	-
+103/131	NA	NA	-
 103/133	moch	1	m o ch
 103/135	moch	1	m o ch
 103/137	moch	1	m o ch
@@ -5522,340 +5522,340 @@
 103/141	moch	1	m o ch
 103/143	moch	1	m o ch
 103/145	moch	1	m o ch
-104/033	NA	NA	- - - - - - -
-104/035	NA	NA	- - - - - - -
+104/033	NA	NA	-
+104/035	NA	NA	-
 104/037	mach	1	m a ch
 104/039	mach	1	m a ch
 104/041	mach	1	m a ch
 104/043	mach	1	m a ch
 104/045	mach	1	m a ch
-104/047	NA	NA	- - - - - - -
+104/047	NA	NA	-
 104/049	mach	1	m a ch
-104/051	NA	NA	- - - - - - -
+104/051	NA	NA	-
 104/053	mach	1	m a ch
 104/055	mach	1	m a ch
 104/057	botza	2	b o - tz - a -
 104/059	mach	1	m a ch
-104/061	NA	NA	- - - - - - -
+104/061	NA	NA	-
 104/063	mach	1	m a ch
 104/065	bürschta	2	b ü r sch t a -
-104/067	NA	NA	- - - - - - -
+104/067	NA	NA	-
 104/071	moch	1	m o ch
-104/075	NA	NA	- - - - - - -
+104/075	NA	NA	-
 104/077	moch	1	m o ch
 104/079	mach	1	m a ch
 104/081	moch	1	m o ch
 104/083	moch	1	m o ch
 104/085	mach	1	m a ch
-104/091	NA	NA	- - - - - - -
-104/095	NA	NA	- - - - - - -
+104/091	NA	NA	-
+104/095	NA	NA	-
 104/101	moch	1	m o ch
-104/103	NA	NA	- - - - - - -
+104/103	NA	NA	-
 104/107	mach	1	m a ch
-104/111	NA	NA	- - - - - - -
-104/113	NA	NA	- - - - - - -
+104/111	NA	NA	-
+104/113	NA	NA	-
 104/119	moach	1	m oa ch
-104/121	NA	NA	- - - - - - -
-104/123	NA	NA	- - - - - - -
-104/125	NA	NA	- - - - - - -
+104/121	NA	NA	-
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	moch	1	m o ch
 104/131	mach	1	m a ch
 104/133	moch	1	m o ch
 104/135	moch	1	m o ch
 104/137	moch	1	m o ch
-104/139	NA	NA	- - - - - - -
-104/141	NA	NA	- - - - - - -
+104/139	NA	NA	-
+104/141	NA	NA	-
 104/143	moch	1	m o ch
-104/145	NA	NA	- - - - - - -
-105/031	NA	NA	- - - - - - -
-105/033	NA	NA	- - - - - - -
+104/145	NA	NA	-
+105/031	NA	NA	-
+105/033	NA	NA	-
 105/035	bürschte	2	b ü r sch t e -
-105/037	NA	NA	- - - - - - -
-105/039	NA	NA	- - - - - - -
-105/041	NA	NA	- - - - - - -
+105/037	NA	NA	-
+105/039	NA	NA	-
+105/041	NA	NA	-
 105/043	mach	1	m a ch
 105/045	mach	1	m a ch
-105/047	NA	NA	- - - - - - -
+105/047	NA	NA	-
 105/049	botze	2	b o - tz - e -
 105/051	mach	1	m a ch
-105/053	NA	NA	- - - - - - -
-105/055	NA	NA	- - - - - - -
+105/053	NA	NA	-
+105/055	NA	NA	-
 105/057	mach	1	m a ch
 105/059	mach	1	m a ch
-105/061	NA	NA	- - - - - - -
+105/061	NA	NA	-
 105/063	mach	1	m a ch
 105/065	mach	1	m a ch
 105/067	mach	1	m a ch
-105/069	NA	NA	- - - - - - -
-105/071	NA	NA	- - - - - - -
+105/069	NA	NA	-
+105/071	NA	NA	-
 105/073	moch	1	m o ch
-105/075	NA	NA	- - - - - - -
+105/075	NA	NA	-
 105/077	mach	1	m a ch
-105/079	NA	NA	- - - - - - -
+105/079	NA	NA	-
 105/081	moch	1	m o ch
-105/085	NA	NA	- - - - - - -
+105/085	NA	NA	-
 105/087	mach	1	m a ch
-105/089	NA	NA	- - - - - - -
+105/089	NA	NA	-
 105/103	mouch	1	m ou ch
-105/105	NA	NA	- - - - - - -
+105/105	NA	NA	-
 105/111	moch	1	m o ch
-105/113	NA	NA	- - - - - - -
+105/113	NA	NA	-
 105/115	moch	1	m o ch
 105/117	moch	1	m o ch
-105/119	NA	NA	- - - - - - -
+105/119	NA	NA	-
 105/121	moch	1	m o ch
 105/125	moch	1	m o ch
-105/127	NA	NA	- - - - - - -
+105/127	NA	NA	-
 105/131	moch	1	m o ch
-105/133	NA	NA	- - - - - - -
+105/133	NA	NA	-
 105/135	moch	1	m o ch
 105/137	moch	1	m o ch
-105/141	NA	NA	- - - - - - -
+105/141	NA	NA	-
 105/143	moch	1	m o ch
 105/145	moch	1	m o ch
-106/033	NA	NA	- - - - - - -
+106/033	NA	NA	-
 106/035	mach	1	m a ch
 106/037	mach	1	m a ch
-106/039	NA	NA	- - - - - - -
+106/039	NA	NA	-
 106/041	mach	1	m a ch
 106/043	mach	1	m a ch
-106/045	NA	NA	- - - - - - -
-106/047	NA	NA	- - - - - - -
+106/045	NA	NA	-
+106/047	NA	NA	-
 106/049	mach	1	m a ch
-106/051	NA	NA	- - - - - - -
+106/051	NA	NA	-
 106/053	butzä	2	b u - tz - ä -
-106/057	NA	NA	- - - - - - -
+106/057	NA	NA	-
 106/061	mach	1	m a ch
 106/063	mach	1	m a ch
-106/067	NA	NA	- - - - - - -
+106/067	NA	NA	-
 106/071	moch	1	m o ch
 106/073	putza	2	p u - tz - a -
 106/075	moch	1	m o ch
-106/077	NA	NA	- - - - - - -
-106/079	NA	NA	- - - - - - -
-106/081	NA	NA	- - - - - - -
+106/077	NA	NA	-
+106/079	NA	NA	-
+106/081	NA	NA	-
 106/085	mach	1	m a ch
-106/087	NA	NA	- - - - - - -
-106/093	NA	NA	- - - - - - -
+106/087	NA	NA	-
+106/093	NA	NA	-
 106/097	mach	1	m a ch
 106/099	moch	1	m o ch
 106/103	mach	1	m a ch
-106/111	NA	NA	- - - - - - -
-106/115	NA	NA	- - - - - - -
+106/111	NA	NA	-
+106/115	NA	NA	-
 106/121	moch	1	m o ch
 106/123	moch	1	m o ch
 106/125	moch	1	m o ch
-106/129	NA	NA	- - - - - - -
+106/129	NA	NA	-
 106/131	moch	1	m o ch
-106/133	NA	NA	- - - - - - -
+106/133	NA	NA	-
 106/135	moch	1	m o ch
 106/137	mach	1	m a ch
 106/139	moch	1	m o ch
-106/141	NA	NA	- - - - - - -
-106/143	NA	NA	- - - - - - -
+106/141	NA	NA	-
+106/143	NA	NA	-
 106/145	moch	1	m o ch
-107/033	NA	NA	- - - - - - -
+107/033	NA	NA	-
 107/035	mach	1	m a ch
 107/037	mach	1	m a ch
-107/039	NA	NA	- - - - - - -
+107/039	NA	NA	-
 107/041	mach	1	m a ch
 107/043	mach	1	m a ch
-107/045	NA	NA	- - - - - - -
+107/045	NA	NA	-
 107/047	mach	1	m a ch
-107/049	NA	NA	- - - - - - -
+107/049	NA	NA	-
 107/051	mach	1	m a ch
-107/053	NA	NA	- - - - - - -
+107/053	NA	NA	-
 107/057	mach	1	m a ch
-107/059	NA	NA	- - - - - - -
+107/059	NA	NA	-
 107/063	mach	1	m a ch
 107/065	bürschten	2	b ü r sch t e n
 107/071	moch	1	m o ch
 107/075	mach	1	m a ch
 107/081	mouch	1	m ou ch
-107/085	NA	NA	- - - - - - -
-107/087	NA	NA	- - - - - - -
+107/085	NA	NA	-
+107/087	NA	NA	-
 107/089	moch	1	m o ch
 107/091	moch	1	m o ch
-107/097	NA	NA	- - - - - - -
+107/097	NA	NA	-
 107/099	moch	1	m o ch
 107/103	moch	1	m o ch
-107/105	NA	NA	- - - - - - -
+107/105	NA	NA	-
 107/107	moch	1	m o ch
-107/111	NA	NA	- - - - - - -
+107/111	NA	NA	-
 107/119	moch	1	m o ch
-107/121	NA	NA	- - - - - - -
-107/123	NA	NA	- - - - - - -
-107/125	NA	NA	- - - - - - -
+107/121	NA	NA	-
+107/123	NA	NA	-
+107/125	NA	NA	-
 107/127	moch	1	m o ch
-107/129	NA	NA	- - - - - - -
+107/129	NA	NA	-
 107/131	moch	1	m o ch
 107/133	moch	1	m o ch
 107/135	moch	1	m o ch
-107/137	NA	NA	- - - - - - -
+107/137	NA	NA	-
 107/139	moch	1	m o ch
 107/141	moch	1	m o ch
-107/143	NA	NA	- - - - - - -
-108/033	NA	NA	- - - - - - -
+107/143	NA	NA	-
+108/033	NA	NA	-
 108/035	bürschte	2	b ü r sch t e -
-108/037	NA	NA	- - - - - - -
+108/037	NA	NA	-
 108/039	mach	1	m a ch
-108/041	NA	NA	- - - - - - -
+108/041	NA	NA	-
 108/043	mach	1	m a ch
-108/047	NA	NA	- - - - - - -
+108/047	NA	NA	-
 108/049	mach	1	m a ch
 108/063	bürrschta	2	b ü rr sch t a -
 108/065	mach	1	m a ch
 108/067	mach	1	m a ch
 108/075	maach	1	m aa ch
-108/079	NA	NA	- - - - - - -
-108/081	NA	NA	- - - - - - -
-108/085	NA	NA	- - - - - - -
+108/079	NA	NA	-
+108/081	NA	NA	-
+108/085	NA	NA	-
 108/087	maach	1	m aa ch
-108/091	NA	NA	- - - - - - -
-108/099	NA	NA	- - - - - - -
+108/091	NA	NA	-
+108/099	NA	NA	-
 108/101	mach	1	m a ch
 108/103	moch	1	m o ch
 108/105	putzn	2	p u - tz - - n
-108/109	NA	NA	- - - - - - -
+108/109	NA	NA	-
 108/111	maoch	1	m ao ch
-108/113	NA	NA	- - - - - - -
-108/117	NA	NA	- - - - - - -
+108/113	NA	NA	-
+108/117	NA	NA	-
 108/119	moch	1	m o ch
-108/121	NA	NA	- - - - - - -
-108/123	NA	NA	- - - - - - -
+108/121	NA	NA	-
+108/123	NA	NA	-
 108/125	moch	1	m o ch
-108/127	NA	NA	- - - - - - -
-108/129	NA	NA	- - - - - - -
+108/127	NA	NA	-
+108/129	NA	NA	-
 108/131	moch	1	m o ch
 108/133	moch	1	m o ch
 108/135	moch	1	m o ch
 108/137	moch	1	m o ch
-108/139	NA	NA	- - - - - - -
+108/139	NA	NA	-
 108/141	moch	1	m o ch
-109/035	NA	NA	- - - - - - -
+109/035	NA	NA	-
 109/037	mach	1	m a ch
-109/039	NA	NA	- - - - - - -
-109/041	NA	NA	- - - - - - -
-109/043	NA	NA	- - - - - - -
-109/045	NA	NA	- - - - - - -
+109/039	NA	NA	-
+109/041	NA	NA	-
+109/043	NA	NA	-
+109/045	NA	NA	-
 109/049	buzä	2	b u - z - ä -
 109/053	mach	1	m a ch
 109/061	mach	1	m a ch
 109/063	mach	1	m a ch
-109/065	NA	NA	- - - - - - -
-109/067	NA	NA	- - - - - - -
+109/065	NA	NA	-
+109/067	NA	NA	-
 109/075	moch	1	m o ch
 109/083	moch	1	m o ch
 109/087	mooch	1	m oo ch
-109/089	NA	NA	- - - - - - -
-109/091	NA	NA	- - - - - - -
+109/089	NA	NA	-
+109/091	NA	NA	-
 109/093	moch	1	m o ch
 109/095	moch	1	m o ch
 109/097	moch	1	m o ch
-109/099	NA	NA	- - - - - - -
-109/101	NA	NA	- - - - - - -
-109/103	NA	NA	- - - - - - -
+109/099	NA	NA	-
+109/101	NA	NA	-
+109/103	NA	NA	-
 109/107	moch	1	m o ch
-109/109	NA	NA	- - - - - - -
-109/111	NA	NA	- - - - - - -
-109/113	NA	NA	- - - - - - -
+109/109	NA	NA	-
+109/111	NA	NA	-
+109/113	NA	NA	-
 109/115	moch	1	m o ch
-109/117	NA	NA	- - - - - - -
+109/117	NA	NA	-
 109/119	moch	1	m o ch
-109/121	NA	NA	- - - - - - -
-109/123	NA	NA	- - - - - - -
+109/121	NA	NA	-
+109/123	NA	NA	-
 109/125	moch	1	m o ch
-109/127	NA	NA	- - - - - - -
-109/129	NA	NA	- - - - - - -
+109/127	NA	NA	-
+109/129	NA	NA	-
 109/131	moch	1	m o ch
-109/133	NA	NA	- - - - - - -
+109/133	NA	NA	-
 109/135	moch	1	m o ch
 109/137	moch	1	m o ch
-109/139	NA	NA	- - - - - - -
+109/139	NA	NA	-
 110/035	mach	1	m a ch
 110/039	mach	1	m a ch
 110/041	moch	1	m o ch
-110/043	NA	NA	- - - - - - -
-110/045	NA	NA	- - - - - - -
+110/043	NA	NA	-
+110/045	NA	NA	-
 110/047	butzen	2	b u - tz - e n
 110/049	mach	1	m a ch
 110/057	usbirsta	2	b i r s t a -
-110/061	NA	NA	- - - - - - -
+110/061	NA	NA	-
 110/065	mach	1	m a ch
-110/075	NA	NA	- - - - - - -
-110/079	NA	NA	- - - - - - -
+110/075	NA	NA	-
+110/079	NA	NA	-
 110/081	moch	1	m o ch
-110/083	NA	NA	- - - - - - -
-110/087	NA	NA	- - - - - - -
+110/083	NA	NA	-
+110/087	NA	NA	-
 110/089	moch	1	m o ch
 110/091	moch	1	m o ch
-110/093	NA	NA	- - - - - - -
+110/093	NA	NA	-
 110/095	moch	1	m o ch
-110/097	NA	NA	- - - - - - -
-110/099	NA	NA	- - - - - - -
+110/097	NA	NA	-
+110/099	NA	NA	-
 110/101	moch	1	m o ch
-110/105	NA	NA	- - - - - - -
+110/105	NA	NA	-
 110/107	moch	1	m o ch
-110/111	NA	NA	- - - - - - -
-110/113	NA	NA	- - - - - - -
-110/115	NA	NA	- - - - - - -
-110/117	NA	NA	- - - - - - -
+110/111	NA	NA	-
+110/113	NA	NA	-
+110/115	NA	NA	-
+110/117	NA	NA	-
 110/119	putzn	2	p u - tz - - n
-110/121	NA	NA	- - - - - - -
-110/125	NA	NA	- - - - - - -
+110/121	NA	NA	-
+110/125	NA	NA	-
 110/127	moch	1	m o ch
 110/129	moch	1	m o ch
-110/131	NA	NA	- - - - - - -
+110/131	NA	NA	-
 110/133	moch	1	m o ch
-110/135	NA	NA	- - - - - - -
-110/137	NA	NA	- - - - - - -
+110/135	NA	NA	-
+110/137	NA	NA	-
 110/139	moch	1	m o ch
-111/035	NA	NA	- - - - - - -
-111/037	NA	NA	- - - - - - -
+111/035	NA	NA	-
+111/037	NA	NA	-
 111/039	bürschtl	2	b ü r sch t l -
 111/041	mach	1	m a ch
-111/043	NA	NA	- - - - - - -
+111/043	NA	NA	-
 111/045	mach	1	m a ch
-111/059	NA	NA	- - - - - - -
+111/059	NA	NA	-
 111/073	moch	1	m o ch
-111/075	NA	NA	- - - - - - -
-111/077	NA	NA	- - - - - - -
-111/079	NA	NA	- - - - - - -
-111/081	NA	NA	- - - - - - -
-111/083	NA	NA	- - - - - - -
-111/087	NA	NA	- - - - - - -
-111/089	NA	NA	- - - - - - -
+111/075	NA	NA	-
+111/077	NA	NA	-
+111/079	NA	NA	-
+111/081	NA	NA	-
+111/083	NA	NA	-
+111/087	NA	NA	-
+111/089	NA	NA	-
 111/105	moch	1	m o ch
 111/107	moch	1	m o ch
-111/109	NA	NA	- - - - - - -
+111/109	NA	NA	-
 111/111	moch	1	m o ch
-111/113	NA	NA	- - - - - - -
-111/115	NA	NA	- - - - - - -
-111/117	NA	NA	- - - - - - -
-111/119	NA	NA	- - - - - - -
-111/121	NA	NA	- - - - - - -
+111/113	NA	NA	-
+111/115	NA	NA	-
+111/117	NA	NA	-
+111/119	NA	NA	-
+111/121	NA	NA	-
 111/123	moch	1	m o ch
-111/125	NA	NA	- - - - - - -
-112/037	NA	NA	- - - - - - -
+111/125	NA	NA	-
+112/037	NA	NA	-
 112/039	bürschte	2	b ü r sch t e -
 112/041	bürschte	2	b ü r sch t e -
-112/043	NA	NA	- - - - - - -
+112/043	NA	NA	-
 112/047	mach	1	m a ch
-112/059	NA	NA	- - - - - - -
-112/061	NA	NA	- - - - - - -
-112/063	NA	NA	- - - - - - -
-112/075	NA	NA	- - - - - - -
-112/081	NA	NA	- - - - - - -
-112/083	NA	NA	- - - - - - -
+112/059	NA	NA	-
+112/061	NA	NA	-
+112/063	NA	NA	-
+112/075	NA	NA	-
+112/081	NA	NA	-
+112/083	NA	NA	-
 112/085	moch	1	m o ch
-112/111	NA	NA	- - - - - - -
-112/115	NA	NA	- - - - - - -
-112/117	NA	NA	- - - - - - -
-112/119	NA	NA	- - - - - - -
-113/035	NA	NA	- - - - - - -
-113/037	NA	NA	- - - - - - -
+112/111	NA	NA	-
+112/115	NA	NA	-
+112/117	NA	NA	-
+112/119	NA	NA	-
+113/035	NA	NA	-
+113/037	NA	NA	-
 113/039	mach	1	m a ch
-113/047	NA	NA	- - - - - - -
+113/047	NA	NA	-
 113/079	moch	1	m o ch
 113/081	mach	1	m a ch
 113/083	moch	1	m o ch
@@ -5864,26 +5864,26 @@
 113/121	moch	1	m o ch
 113/123	moch	1	m o ch
 114/035	putze	2	p u - tz - e -
-114/045	NA	NA	- - - - - - -
-114/083	NA	NA	- - - - - - -
+114/045	NA	NA	-
+114/083	NA	NA	-
 114/085	moch	1	m o ch
-115/041	NA	NA	- - - - - - -
+115/041	NA	NA	-
 115/043	mach	1	m a ch
-115/045	NA	NA	- - - - - - -
+115/045	NA	NA	-
 115/083	moch	1	m o ch
 115/085	mach	1	m a ch
-116/043	NA	NA	- - - - - - -
-116/045	NA	NA	- - - - - - -
-116/083	NA	NA	- - - - - - -
+116/043	NA	NA	-
+116/045	NA	NA	-
+116/083	NA	NA	-
 117/043	mach	1	m a ch
 117/045	mach	1	m a ch
 118/041	mach	1	m a ch
-119/083	NA	NA	- - - - - - -
+119/083	NA	NA	-
 120/085	keereaus	NA	k ee r eau s - -
 121/127	moch	1	m o ch
 122/127	moch	1	m o ch
 122/129	much	1	m u ch
-123/081	NA	NA	- - - - - - -
+123/081	NA	NA	-
 123/123	moch	1	m o ch
 123/125	moch	1	m o ch
 123/127	moch	1	m o ch

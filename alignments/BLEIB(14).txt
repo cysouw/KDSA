@@ -1876,7 +1876,7 @@
 041/133	bleib	1	b l ei b -
 041/135	bleib	1	b l ei b -
 041/139	bleib	1	b l ei b -
-041/141	NA	NA	- - - - -
+041/141	NA	NA	-
 041/145	bleib	1	b l ei b -
 041/147	blaib	1	b l ai b -
 041/153	bliw	1	b l i w -
@@ -3425,7 +3425,7 @@
 065/049	bleib	1	b l ei b -
 065/051	bleib	1	b l ei b -
 065/053	bleib	1	b l ei b -
-065/055	NA	NA	- - - - -
+065/055	NA	NA	-
 065/057	bleib	1	b l ei b -
 065/059	bleib	1	b l ei b -
 065/061	blaib	1	b l ai b -
@@ -5666,7 +5666,7 @@
 107/051	blieb	1	b l ie b -
 107/053	blib	1	b l i b -
 107/057	blib	1	b l i b -
-107/059	NA	NA	- - - - -
+107/059	NA	NA	-
 107/063	blieb	1	b l ie b -
 107/065	blieb	1	b l ie b -
 107/071	bleib	1	b l ei b -
@@ -5756,7 +5756,7 @@
 109/101	plai	1	p l ai - -
 109/103	bleib	1	b l ei b -
 109/107	bleib	1	b l ei b -
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	bleib	1	b l ei b -
 109/113	bleib	1	b l ei b -
 109/115	bleib	1	b l ei b -
@@ -5883,7 +5883,7 @@
 121/127	pleib	1	p l ei b -
 122/127	pleib	1	p l ei b -
 122/129	plaib	1	p l ai b -
-123/081	NA	NA	- - - - -
+123/081	NA	NA	-
 123/123	pläib	1	p l äi b -
 123/125	pleib	1	p l ei b -
 123/127	pleib	1	p l ei b -

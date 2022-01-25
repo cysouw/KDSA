@@ -1003,7 +1003,7 @@
 028/127	dörp	1	d ö r - p
 028/129	dörp	1	d ö r - p
 028/131	döp	1	d ö - - p
-028/133	NA	NA	- - - - - - - -
+028/133	NA	NA	-
 028/135	dörp	1	d ö r - p
 028/137	doohp	1	d ooh - - p
 028/139	döep	1	d öe - - p
@@ -1320,7 +1320,7 @@
 033/041	dörp	1	d ö r - p
 033/043	dörp	1	d ö r - p
 033/045	dorpp	1	d o r - pp
-033/047	NA	NA	- - - - - - - -
+033/047	NA	NA	-
 033/049	dorp	1	d o r - p
 033/051	dorp	1	d o r - p
 033/053	dorp	1	d o r - p
@@ -1548,7 +1548,7 @@
 036/099	dörp	1	d ö r - p
 036/101	dörp	1	d ö r - p
 036/103	dörp	1	d ö r - p
-036/105	NA	NA	- - - - - - - -
+036/105	NA	NA	-
 036/107	dörp	1	d ö r - p
 036/109	dörp	1	d ö r - p
 036/111	dörp	1	d ö r - p
@@ -2268,7 +2268,7 @@
 048/077	dörp	1	d ö r - p
 048/079	dörp	1	d ö r - p
 048/081	derp	1	d e r - p
-048/083	NA	NA	- - - - - - - -
+048/083	NA	NA	-
 048/085	dorp	1	d o r - p
 048/087	darb	1	d a r - b
 048/089	dorf	1	d o r - f
@@ -3976,7 +3976,7 @@
 074/107	dorf	1	d o r - f
 074/109	doaf	1	d oa - - f
 074/145	dorf	1	d o r - f
-074/147	NA	NA	- - - - - - - -
+074/147	NA	NA	-
 074/149	darf	1	d a r - f
 074/153	dorf	1	d o r - f
 074/155	dorf	1	d o r - f
@@ -4136,7 +4136,7 @@
 077/137	dorf	1	d o r - f
 078/021	duerf	1	d ue r - f
 078/023	dorf	1	d o r - f
-078/025	NA	NA	- - - - - - - -
+078/025	NA	NA	-
 078/027	dorf	1	d o r - f
 078/029	dorf	1	d o r - f
 078/031	dorf	1	d o r - f
@@ -4176,7 +4176,7 @@
 078/101	dorf	1	d o r - f
 078/103	doaf	1	d oa - - f
 078/105	doaf	1	d oa - - f
-078/135	NA	NA	- - - - - - - -
+078/135	NA	NA	-
 078/193	torf	1	t o r - f
 079/021	dorf	1	d o r - f
 079/023	dorf	1	d o r - f
@@ -4536,7 +4536,7 @@
 085/111	doarf	1	d oa r - f
 085/113	doarf	1	d oa r - f
 085/115	doif	1	d oi - - f
-085/117	NA	NA	- - - - - - - -
+085/117	NA	NA	-
 085/119	doif	1	d oi - - f
 085/121	dorf	1	d o r - f
 085/123	dof	1	d o - - f
@@ -4611,7 +4611,7 @@
 086/137	dorf	1	d o r - f
 086/139	dorf	1	d o r - f
 086/141	dorf	1	d o r - f
-086/143	NA	NA	- - - - - - - -
+086/143	NA	NA	-
 086/145	dorf	1	d o r - f
 086/147	dorf	1	d o r - f
 086/149	ortschoft	2	o r t
@@ -4913,7 +4913,7 @@
 092/047	dorf	1	d o r - f
 092/049	dorf	1	d o r - f
 092/051	dorrf	1	d o rr - f
-092/053	NA	NA	- - - - - - - -
+092/053	NA	NA	-
 092/055	dwarf	1	dw a r - f
 092/057	dorf	1	d o r - f
 092/059	oat	2	oa - t
@@ -5077,7 +5077,7 @@
 094/139	dorf	1	d o r - f
 094/141	dorf	1	d o r - f
 094/143	doaf	1	d oa - - f
-094/145	NA	NA	- - - - - - - -
+094/145	NA	NA	-
 094/147	doarf	1	d oa r - f
 094/149	doaf	1	d oa - - f
 094/151	doaf	1	d oa - - f
@@ -5192,13 +5192,13 @@
 096/129	doaf	1	d oa - - f
 096/131	doaf	1	d oa - - f
 096/135	doaf	1	d oa - - f
-096/137	NA	NA	- - - - - - - -
+096/137	NA	NA	-
 096/139	doaf	1	d oa - - f
 096/141	durf	1	d u r - f
 096/143	dorf	1	d o r - f
 096/145	doaf	1	d oa - - f
 096/147	tof	1	t o - - f
-096/151	NA	NA	- - - - - - - -
+096/151	NA	NA	-
 096/153	toaf	1	t oa - - f
 096/155	toaf	1	t oa - - f
 097/031	dorf	1	d o r - f
@@ -5383,10 +5383,10 @@
 100/117	dorf	1	d o r - f
 100/119	dorf	1	d o r - f
 100/121	dorf	1	d o r - f
-100/125	NA	NA	- - - - - - - -
+100/125	NA	NA	-
 100/127	dorf	1	d o r - f
 100/129	dorf	1	d o r - f
-100/133	NA	NA	- - - - - - - -
+100/133	NA	NA	-
 100/135	dorf	1	d o r - f
 100/141	dorf	1	d o r - f
 100/143	doaf	1	d oa - - f
@@ -5557,7 +5557,7 @@
 104/119	dorf	1	d o r - f
 104/121	doarf	1	d oa r - f
 104/123	dooaf	1	d ooa - - f
-104/125	NA	NA	- - - - - - - -
+104/125	NA	NA	-
 104/127	dorf	1	d o r - f
 104/131	däraf	1	d ä r a f
 104/133	doaf	1	d oa - - f
@@ -5602,7 +5602,7 @@
 105/113	dorf	1	d o r - f
 105/115	doaf	1	d oa - - f
 105/117	darf	1	d a r - f
-105/119	NA	NA	- - - - - - - -
+105/119	NA	NA	-
 105/121	dorf	1	d o r - f
 105/125	dörf	1	d ö r - f
 105/127	darf	1	d a r - f
@@ -5687,7 +5687,7 @@
 107/123	dorf	1	d o r - f
 107/125	kiarchlo	NA	k ia r ch l o - -
 107/127	dorf	1	d o r - f
-107/129	NA	NA	- - - - - - - -
+107/129	NA	NA	-
 107/131	darf	1	d a r - f
 107/133	doaf	1	d oa - - f
 107/135	doarf	1	d oa r - f
@@ -5756,7 +5756,7 @@
 109/101	torf	1	t o r - f
 109/103	dorf	1	d o r - f
 109/107	dorf	1	d o r - f
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	darf	1	d a r - f
 109/113	dorf	1	d o r - f
 109/115	doarf	1	d oa r - f
@@ -5783,7 +5783,7 @@
 110/061	dourf	1	d ou r - f
 110/065	durf	1	d u r - f
 110/075	dorf	1	d o r - f
-110/079	NA	NA	- - - - - - - -
+110/079	NA	NA	-
 110/081	dorf	1	d o r - f
 110/083	dorf	1	d o r - f
 110/087	dorf	1	d o r - f
@@ -5879,7 +5879,7 @@
 117/045	dorf	1	d o r - f
 118/041	derf	1	d e r - f
 119/083	land	5	l a nd
-120/085	NA	NA	- - - - - - - -
+120/085	NA	NA	-
 121/127	doarf	1	d oa r - f
 122/127	doarf	1	d oa r - f
 122/129	doarf	1	d oa r - f

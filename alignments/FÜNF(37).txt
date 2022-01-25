@@ -41,7 +41,7 @@
 011/049	fiff	1	f i - - ff
 011/053	fem	1	f e m - -
 011/055	fam	1	f a m - -
-011/057	NA	NA	- - - - - - -
+011/057	NA	NA	-
 011/059	fem	1	f e m - -
 011/061	fem	1	f e m - -
 011/063	fem	1	f e m - -
@@ -247,7 +247,7 @@
 017/057	fif	1	f i - - f
 017/059	fief	1	f ie - - f
 017/061	fief	1	f ie - - f
-017/063	NA	NA	- - - - - - -
+017/063	NA	NA	-
 017/065	fief	1	f ie - - f
 017/067	fief	1	f ie - - f
 017/069	fief	1	f ie - - f
@@ -439,7 +439,7 @@
 020/147	fief	1	f ie - - f
 020/149	fiew	1	f ie - - w
 020/151	füf	1	f ü - - f
-020/153	NA	NA	- - - - - - -
+020/153	NA	NA	-
 020/155	füf	1	f ü - - f
 020/157	fief	1	f ie - - f
 020/159	fief	1	f ie - - f
@@ -547,7 +547,7 @@
 022/059	fief	1	f ie - - f
 022/061	fief	1	f ie - - f
 022/063	fiev	1	f ie - - v
-022/065	NA	NA	- - - - - - -
+022/065	NA	NA	-
 022/067	fief	1	f ie - - f
 022/069	fief	1	f ie - - f
 022/071	fif	1	f i - - f
@@ -597,7 +597,7 @@
 022/181	fief	1	f ie - - f
 022/183	fönf	1	f ö n - f
 022/185	fauf	1	f au - - f
-022/187	NA	NA	- - - - - - -
+022/187	NA	NA	-
 022/189	fenf	1	f e n - f
 022/191	fönf	1	f ö n - f
 022/193	fenf	1	f e n - f
@@ -682,7 +682,7 @@
 023/205	füf	1	f ü - - f
 023/207	fönf	1	f ö n - f
 023/215	füff	1	f ü - - ff
-023/217	NA	NA	- - - - - - -
+023/217	NA	NA	-
 024/053	fief	1	f ie - - f
 024/057	fief	1	f ie - - f
 024/059	fief	1	f ie - - f
@@ -744,7 +744,7 @@
 024/181	fönf	1	f ö n - f
 024/183	fenf	1	f e n - f
 024/185	fönf	1	f ö n - f
-024/187	NA	NA	- - - - - - -
+024/187	NA	NA	-
 024/189	fenf	1	f e n - f
 024/191	fenf	1	f e n - f
 024/193	fönf	1	f ö n - f
@@ -1283,7 +1283,7 @@
 032/111	fünf	1	f ü n - f
 032/113	fünf	1	f ü n - f
 032/115	fief	1	f ie - - f
-032/117	NA	NA	- - - - - - -
+032/117	NA	NA	-
 032/119	fief	1	f ie - - f
 032/121	fief	1	f ie - - f
 032/123	fünf	1	f ü n - f
@@ -3201,7 +3201,7 @@
 061/159	fimf	1	f i m - f
 061/161	finf	1	f i n - f
 061/165	fünf	1	f ü n - f
-062/021	NA	NA	- - - - - - -
+062/021	NA	NA	-
 062/023	fönef	1	f ö n e f
 062/025	fönef	1	f ö n e f
 062/027	fönf	1	f ö n - f
@@ -4028,7 +4028,7 @@
 075/099	fünf	1	f ü n - f
 075/101	fünf	1	f ü n - f
 075/103	füf	1	f ü - - f
-075/105	NA	NA	- - - - - - -
+075/105	NA	NA	-
 075/107	fünf	1	f ü n - f
 075/135	femf	1	f e m - f
 075/145	fünf	1	f ü n - f
@@ -4311,7 +4311,7 @@
 081/093	fünf	1	f ü n - f
 081/095	fümf	1	f ü m - f
 081/097	fünf	1	f ü n - f
-081/099	NA	NA	- - - - - - -
+081/099	NA	NA	-
 081/101	fünf	1	f ü n - f
 081/103	fünf	1	f ü n - f
 081/105	fünf	1	f ü n - f
@@ -4538,7 +4538,7 @@
 085/115	fimf	1	f i m - f
 085/117	finf	1	f i n - f
 085/119	fimf	1	f i m - f
-085/121	NA	NA	- - - - - - -
+085/121	NA	NA	-
 085/123	fimf	1	f i m - f
 085/125	fimf	1	f i m - f
 085/127	finf	1	f i n - f
@@ -4711,7 +4711,7 @@
 088/097	fimf	1	f i m - f
 088/099	fünf	1	f ü n - f
 088/101	finf	1	f i n - f
-088/103	NA	NA	- - - - - - -
+088/103	NA	NA	-
 088/105	finf	1	f i n - f
 088/107	fimf	1	f i m - f
 088/109	fümf	1	f ü m - f

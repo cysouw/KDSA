@@ -239,7 +239,7 @@
 016/205	dot	1	d o - t -
 016/209	dodt	1	d o - dt -
 016/211	dot	1	d o - t -
-016/213	NA	NA	- - - - -
+016/213	NA	NA	-
 016/215	dot	1	d o - t -
 016/217	dot	1	d o - t -
 016/219	dodt	1	d o - dt -
@@ -282,7 +282,7 @@
 017/199	dot	1	d o - t -
 017/201	dot	1	d o - t -
 017/203	dod	1	d o - d -
-017/205	NA	NA	- - - - -
+017/205	NA	NA	-
 017/207	dod	1	d o - d -
 017/209	dodt	1	d o - dt -
 017/211	doot	1	d oo - t -
@@ -483,7 +483,7 @@
 021/069	dod	1	d o - d -
 021/071	dot	1	d o - t -
 021/073	dod	1	d o - d -
-021/075	NA	NA	- - - - -
+021/075	NA	NA	-
 021/077	dod	1	d o - d -
 021/079	doht	1	d oh - t -
 021/087	dod	1	d o - d -
@@ -603,7 +603,7 @@
 022/193	todt	1	t o - dt -
 022/195	tot	1	t o - t -
 022/197	tot	1	t o - t -
-022/199	NA	NA	- - - - -
+022/199	NA	NA	-
 022/201	todt	1	t o - dt -
 022/203	dot	1	d o - t -
 022/205	dot	1	d o - t -
@@ -1041,7 +1041,7 @@
 029/057	dod	1	d o - d -
 029/059	dod	1	d o - d -
 029/061	dohd	1	d oh - d -
-029/065	NA	NA	- - - - -
+029/065	NA	NA	-
 029/067	deod	1	d eo - d -
 029/069	doud	1	d ou - d -
 029/071	doot	1	d oo - t -
@@ -1356,7 +1356,7 @@
 033/113	dot	1	d o - t -
 033/115	doot	1	d oo - t -
 033/117	dodt	1	d o - dt -
-033/119	NA	NA	- - - - -
+033/119	NA	NA	-
 033/121	dod	1	d o - d -
 033/123	dod	1	d o - d -
 033/125	doat	1	d oa - t -
@@ -1400,7 +1400,7 @@
 034/063	dod	1	d o - d -
 034/065	dot	1	d o - t -
 034/067	doht	1	d oh - t -
-034/069	NA	NA	- - - - -
+034/069	NA	NA	-
 034/071	dod	1	d o - d -
 034/073	dod	1	d o - d -
 034/075	dod	1	d o - d -
@@ -1811,7 +1811,7 @@
 040/121	dodt	1	d o - dt -
 040/123	dodt	1	d o - dt -
 040/125	dot	1	d o - t -
-040/127	NA	NA	- - - - -
+040/127	NA	NA	-
 040/129	todt	1	t o - dt -
 040/131	dod	1	d o - d -
 040/133	tudt	1	t u - dt -
@@ -1859,8 +1859,8 @@
 041/099	dodt	1	d o - dt -
 041/101	dodt	1	d o - dt -
 041/103	dodt	1	d o - dt -
-041/105	NA	NA	- - - - -
-041/107	NA	NA	- - - - -
+041/105	NA	NA	-
+041/107	NA	NA	-
 041/109	dot	1	d o - t -
 041/111	dodt	1	d o - dt -
 041/113	doot	1	d oo - t -
@@ -1876,12 +1876,12 @@
 041/133	tudt	1	t u - dt -
 041/135	tudt	1	t u - dt -
 041/139	tudt	1	t u - dt -
-041/141	NA	NA	- - - - -
+041/141	NA	NA	-
 041/145	tudt	1	t u - dt -
 041/147	tudt	1	t u - dt -
 041/153	dodt	1	d o - dt -
 041/155	dot	1	d o - t -
-041/157	NA	NA	- - - - -
+041/157	NA	NA	-
 041/159	dot	1	d o - t -
 041/161	dot	1	d o - t -
 042/033	daot	1	d ao - t -
@@ -1982,7 +1982,7 @@
 043/099	dodt	1	d o - dt -
 043/101	dot	1	d o - t -
 043/103	doot	1	d oo - t -
-043/105	NA	NA	- - - - -
+043/105	NA	NA	-
 043/107	dot	1	d o - t -
 043/109	dot	1	d o - t -
 043/111	doht	1	d oh - t -
@@ -2145,7 +2145,7 @@
 046/071	doot	1	d oo - t -
 046/073	doot	1	d oo - t -
 046/075	doht	1	d oh - t -
-046/077	NA	NA	- - - - -
+046/077	NA	NA	-
 046/079	doot	1	d oo - t -
 046/081	dot	1	d o - t -
 046/083	dot	1	d o - t -
@@ -2324,7 +2324,7 @@
 049/059	daut	1	d au - t -
 049/061	daut	1	d au - t -
 049/063	daut	1	d au - t -
-049/065	NA	NA	- - - - -
+049/065	NA	NA	-
 049/067	daut	1	d au - t -
 049/069	doot	1	d oo - t -
 049/071	duot	1	d uo - t -
@@ -2416,7 +2416,7 @@
 050/117	todt	1	t o - dt -
 050/119	tod	1	t o - d -
 050/121	todt	1	t o - dt -
-050/125	NA	NA	- - - - -
+050/125	NA	NA	-
 050/127	tudt	1	t u - dt -
 050/129	tudt	1	t u - dt -
 050/131	tud	1	t u - d -
@@ -2440,7 +2440,7 @@
 051/029	dot	1	d o - t -
 051/031	daut	1	d au - t -
 051/033	doht	1	d oh - t -
-051/035	NA	NA	- - - - -
+051/035	NA	NA	-
 051/037	dout	1	d ou - t -
 051/039	daut	1	d au - t -
 051/041	daut	1	d au - t -
@@ -2971,7 +2971,7 @@
 058/127	dudt	1	d u - dt -
 058/129	tuut	1	t uu - t -
 058/131	thut	1	th u - t -
-058/133	NA	NA	- - - - -
+058/133	NA	NA	-
 058/135	tutt	1	t u - tt -
 058/137	tuidt	1	t ui - dt -
 058/139	tut	1	t u - t -
@@ -3031,7 +3031,7 @@
 059/105	duht	1	d uh - t -
 059/107	dhud	1	dh u - d -
 059/109	dud	1	d u - d -
-059/111	NA	NA	- - - - -
+059/111	NA	NA	-
 059/113	tudt	1	t u - dt -
 059/115	tud	1	t u - d -
 059/117	duht	1	d uh - t -
@@ -3246,12 +3246,12 @@
 062/105	tudt	1	t u - dt -
 062/107	tudt	1	t u - dt -
 062/109	tudt	1	t u - dt -
-062/111	NA	NA	- - - - -
+062/111	NA	NA	-
 062/113	tut	1	t u - t -
 062/115	tot	1	t o - t -
 062/117	tot	1	t o - t -
 062/119	tot	1	t o - t -
-062/121	NA	NA	- - - - -
+062/121	NA	NA	-
 062/123	tut	1	t u - t -
 062/125	tuut	1	t uu - t -
 062/127	tut	1	t u - t -
@@ -3259,7 +3259,7 @@
 062/131	tut	1	t u - t -
 062/133	tuut	1	t uu - t -
 062/135	tut	1	t u - t -
-062/137	NA	NA	- - - - -
+062/137	NA	NA	-
 062/139	tut	1	t u - t -
 062/141	tut	1	t u - t -
 062/143	tuht	1	t uh - t -
@@ -3323,12 +3323,12 @@
 063/117	tut	1	t u - t -
 063/119	tuut	1	t uu - t -
 063/121	tut	1	t u - t -
-063/123	NA	NA	- - - - -
+063/123	NA	NA	-
 063/125	tut	1	t u - t -
-063/127	NA	NA	- - - - -
+063/127	NA	NA	-
 063/135	tut	1	t u - t -
 063/137	tut	1	t u - t -
-063/139	NA	NA	- - - - -
+063/139	NA	NA	-
 063/141	tut	1	t u - t -
 063/143	tuut	1	t uu - t -
 063/145	tut	1	t u - t -
@@ -3345,7 +3345,7 @@
 064/023	dut	1	d u - t -
 064/025	tuet	1	t ue - t -
 064/027	duet	1	d ue - t -
-064/029	NA	NA	- - - - -
+064/029	NA	NA	-
 064/031	duot	1	d uo - t -
 064/033	duet	1	d ue - t -
 064/035	dut	1	d u - t -
@@ -3386,11 +3386,11 @@
 064/105	tudt	1	t u - dt -
 064/107	tut	1	t u - t -
 064/109	tut	1	t u - t -
-064/111	NA	NA	- - - - -
+064/111	NA	NA	-
 064/113	tut	1	t u - t -
 064/115	tut	1	t u - t -
 064/117	tut	1	t u - t -
-064/119	NA	NA	- - - - -
+064/119	NA	NA	-
 064/121	tut	1	t u - t -
 064/123	tut	1	t u - t -
 064/125	tut	1	t u - t -
@@ -3398,7 +3398,7 @@
 064/135	tut	1	t u - t -
 064/137	tuut	1	t uu - t -
 064/139	tut	1	t u - t -
-064/141	NA	NA	- - - - -
+064/141	NA	NA	-
 064/143	tut	1	t u - t -
 064/145	tut	1	t u - t -
 064/147	tudt	1	t u - dt -
@@ -3457,7 +3457,7 @@
 065/115	tut	1	t u - t -
 065/121	tut	1	t u - t -
 065/123	tut	1	t u - t -
-065/137	NA	NA	- - - - -
+065/137	NA	NA	-
 065/139	tut	1	t u - t -
 065/143	thut	1	th u - t -
 065/145	todt	1	t o - dt -
@@ -3469,7 +3469,7 @@
 065/157	tuht	1	t uh - t -
 065/159	tudt	1	t u - dt -
 066/021	dukt	1	d u k t -
-066/023	NA	NA	- - - - -
+066/023	NA	NA	-
 066/025	duat	1	d ua - t -
 066/027	duht	1	d uh - t -
 066/029	duet	1	d ue - t -
@@ -3508,16 +3508,16 @@
 066/095	tuädt	1	t uä - dt -
 066/097	todt	1	t o - dt -
 066/099	tut	1	t u - t -
-066/101	NA	NA	- - - - -
+066/101	NA	NA	-
 066/103	tut	1	t u - t -
 066/105	tut	1	t u - t -
-066/107	NA	NA	- - - - -
+066/107	NA	NA	-
 066/109	tot	1	t o - t -
 066/111	tuut	1	t uu - t -
 066/113	tuut	1	t uu - t -
 066/121	tut	1	t u - t -
 066/139	tut	1	t u - t -
-066/143	NA	NA	- - - - -
+066/143	NA	NA	-
 066/145	tudt	1	t u - dt -
 066/147	tout	1	t ou - t -
 066/149	tud	1	t u - d -
@@ -3544,7 +3544,7 @@
 067/047	dudt	1	d u - dt -
 067/049	tud	1	t u - d -
 067/051	duhd	1	d uh - d -
-067/053	NA	NA	- - - - -
+067/053	NA	NA	-
 067/055	dud	1	d u - d -
 067/057	duht	1	d uh - t -
 067/059	dud	1	d u - d -
@@ -3571,7 +3571,7 @@
 067/101	taut	1	t au - t -
 067/103	tout	1	t ou - t -
 067/105	tout	1	t ou - t -
-067/107	NA	NA	- - - - -
+067/107	NA	NA	-
 067/109	tot	1	t o - t -
 067/111	tot	1	t o - t -
 067/113	tuut	1	t uu - t -
@@ -3602,7 +3602,7 @@
 068/043	dut	1	d u - t -
 068/045	dut	1	d u - t -
 068/047	duht	1	d uh - t -
-068/049	NA	NA	- - - - -
+068/049	NA	NA	-
 068/051	dut	1	d u - t -
 068/053	dut	1	d u - t -
 068/055	dud	1	d u - d -
@@ -3626,13 +3626,13 @@
 068/091	tot	1	t o - t -
 068/093	tout	1	t ou - t -
 068/095	taut	1	t au - t -
-068/097	NA	NA	- - - - -
-068/099	NA	NA	- - - - -
+068/097	NA	NA	-
+068/099	NA	NA	-
 068/101	taut	1	t au - t -
 068/103	taut	1	t au - t -
 068/105	tout	1	t ou - t -
 068/107	tout	1	t ou - t -
-068/109	NA	NA	- - - - -
+068/109	NA	NA	-
 068/111	toh	1	t oh - - -
 068/145	tut	1	t u - t -
 068/147	tuut	1	t uu - t -
@@ -3690,7 +3690,7 @@
 069/107	taot	1	t ao - t -
 069/109	dot	1	d o - t -
 069/111	tot	1	t o - t -
-069/147	NA	NA	- - - - -
+069/147	NA	NA	-
 069/149	tuot	1	t uo - t -
 069/151	tut	1	t u - t -
 069/153	tuod	1	t uo - d -
@@ -3723,7 +3723,7 @@
 070/063	tadt	1	t a - dt -
 070/065	toadt	1	t oa - dt -
 070/067	toat	1	t oa - t -
-070/069	NA	NA	- - - - -
+070/069	NA	NA	-
 070/071	toat	1	t oa - t -
 070/073	taht	1	t ah - t -
 070/075	toadt	1	t oa - dt -
@@ -3746,7 +3746,7 @@
 070/109	tout	1	t ou - t -
 070/111	tout	1	t ou - t -
 070/145	tut	1	t u - t -
-070/147	NA	NA	- - - - -
+070/147	NA	NA	-
 070/149	tut	1	t u - t -
 070/151	tuot	1	t uo - t -
 070/153	toot	1	t oo - t -
@@ -3795,27 +3795,27 @@
 071/091	doud	1	d ou - d -
 071/093	daout	1	d aou - t -
 071/095	daout	1	d aou - t -
-071/097	NA	NA	- - - - -
+071/097	NA	NA	-
 071/099	tout	1	t ou - t -
-071/101	NA	NA	- - - - -
+071/101	NA	NA	-
 071/103	tout	1	t ou - t -
-071/105	NA	NA	- - - - -
+071/105	NA	NA	-
 071/145	tut	1	t u - t -
-071/147	NA	NA	- - - - -
+071/147	NA	NA	-
 071/149	tut	1	t u - t -
 071/151	toot	1	t oo - t -
-071/153	NA	NA	- - - - -
+071/153	NA	NA	-
 071/155	tot	1	t o - t -
 071/157	tuat	1	t ua - t -
 071/159	tot	1	t o - t -
 071/161	tut	1	t u - t -
-071/163	NA	NA	- - - - -
+071/163	NA	NA	-
 071/177	tuut	1	t uu - t -
 071/179	tot	1	t o - t -
 072/017	dot	1	d o - t -
 072/019	dot	1	d o - t -
 072/021	duodt	1	d uo - dt -
-072/023	NA	NA	- - - - -
+072/023	NA	NA	-
 072/025	dutt	1	d u - tt -
 072/027	dutt	1	d u - tt -
 072/029	dot	1	d o - t -
@@ -3854,7 +3854,7 @@
 072/095	daut	1	d au - t -
 072/097	daut	1	d au - t -
 072/099	tout	1	t ou - t -
-072/101	NA	NA	- - - - -
+072/101	NA	NA	-
 072/103	taot	1	t ao - t -
 072/105	taot	1	t ao - t -
 072/107	taut	1	t au - t -
@@ -3923,7 +3923,7 @@
 073/153	tut	1	t u - t -
 073/155	tuot	1	t uo - t -
 073/157	tuad	1	t ua - d -
-073/159	NA	NA	- - - - -
+073/159	NA	NA	-
 073/161	tuot	1	t uo - t -
 073/163	tut	1	t u - t -
 073/165	tot	1	t o - t -
@@ -3969,7 +3969,7 @@
 074/093	taout	1	t aou - t -
 074/095	tout	1	t ou - t -
 074/097	tout	1	t ou - t -
-074/099	NA	NA	- - - - -
+074/099	NA	NA	-
 074/101	taot	1	t ao - t -
 074/103	taut	1	t au - t -
 074/105	tout	1	t ou - t -
@@ -4026,7 +4026,7 @@
 075/095	daut	1	d au - t -
 075/097	taout	1	t aou - t -
 075/099	taut	1	t au - t -
-075/101	NA	NA	- - - - -
+075/101	NA	NA	-
 075/103	taot	1	t ao - t -
 075/105	taut	1	t au - t -
 075/107	tout	1	t ou - t -
@@ -4039,7 +4039,7 @@
 075/159	tuot	1	t uo - t -
 075/161	tot	1	t o - t -
 075/163	tuet	1	t ue - t -
-075/165	NA	NA	- - - - -
+075/165	NA	NA	-
 076/019	doot	1	d oo - t -
 076/021	duot	1	d uo - t -
 076/023	duot	1	d uo - t -
@@ -4165,7 +4165,7 @@
 078/079	toudt	1	t ou - dt -
 078/081	taud	1	t au - d -
 078/083	taut	1	t au - t -
-078/085	NA	NA	- - - - -
+078/085	NA	NA	-
 078/087	dout	1	d ou - t -
 078/089	daud	1	d au - d -
 078/091	dout	1	d ou - t -
@@ -4176,7 +4176,7 @@
 078/101	tout	1	t ou - t -
 078/103	tout	1	t ou - t -
 078/105	taut	1	t au - t -
-078/135	NA	NA	- - - - -
+078/135	NA	NA	-
 078/193	tot	1	t o - t -
 079/021	dod	1	d o - d -
 079/023	doot	1	d oo - t -
@@ -4218,7 +4218,7 @@
 079/097	doud	1	d ou - d -
 079/099	daud	1	d au - d -
 079/101	daut	1	d au - t -
-079/103	NA	NA	- - - - -
+079/103	NA	NA	-
 079/105	tout	1	t ou - t -
 079/107	tauot	1	t auo - t -
 079/133	tot	1	t o - t -
@@ -4266,7 +4266,7 @@
 080/099	doet	1	d oe - t -
 080/101	dout	1	d ou - t -
 080/103	taut	1	t au - t -
-080/105	NA	NA	- - - - -
+080/105	NA	NA	-
 080/107	tout	1	t ou - t -
 080/109	tout	1	t ou - t -
 080/127	toit	1	t oi - t -
@@ -4311,19 +4311,19 @@
 081/093	daut	1	d au - t -
 081/095	daoudt	1	d aou - dt -
 081/097	tout	1	t ou - t -
-081/099	NA	NA	- - - - -
+081/099	NA	NA	-
 081/101	taot	1	t ao - t -
-081/103	NA	NA	- - - - -
+081/103	NA	NA	-
 081/105	toudt	1	t ou - dt -
 081/107	tout	1	t ou - t -
 081/109	tout	1	t ou - t -
-081/111	NA	NA	- - - - -
+081/111	NA	NA	-
 081/127	toit	1	t oi - t -
-081/129	NA	NA	- - - - -
+081/129	NA	NA	-
 081/133	toit	1	t oi - t -
 081/147	tood	1	t oo - d -
 081/191	täut	1	t äu - t -
-081/193	NA	NA	- - - - -
+081/193	NA	NA	-
 081/195	tout	1	t ou - t -
 082/027	toodt	1	t oo - dt -
 082/029	todt	1	t o - dt -
@@ -4363,15 +4363,15 @@
 082/097	dout	1	d ou - t -
 082/099	dodt	1	d o - dt -
 082/101	dout	1	d ou - t -
-082/103	NA	NA	- - - - -
+082/103	NA	NA	-
 082/105	taot	1	t ao - t -
 082/107	tout	1	t ou - t -
 082/111	tod	1	t o - d -
 082/113	tout	1	t ou - t -
 082/117	tout	1	t ou - t -
 082/129	toit	1	t oi - t -
-082/131	NA	NA	- - - - -
-082/133	NA	NA	- - - - -
+082/131	NA	NA	-
+082/133	NA	NA	-
 082/135	toit	1	t oi - t -
 082/145	tot	1	t o - t -
 082/147	tot	1	t o - t -
@@ -4398,7 +4398,7 @@
 083/063	taut	1	t au - t -
 083/065	doad	1	d oa - d -
 083/067	doad	1	d oa - d -
-083/069	NA	NA	- - - - -
+083/069	NA	NA	-
 083/071	doad	1	d oa - d -
 083/073	doad	1	d oa - d -
 083/075	doad	1	d oa - d -
@@ -4415,7 +4415,7 @@
 083/097	daod	1	d ao - d -
 083/099	daut	1	d au - t -
 083/101	tout	1	t ou - t -
-083/103	NA	NA	- - - - -
+083/103	NA	NA	-
 083/105	dout	1	d ou - t -
 083/107	tot	1	t o - t -
 083/111	tout	1	t ou - t -
@@ -4424,14 +4424,14 @@
 083/117	toid	1	t oi - d -
 083/119	toit	1	t oi - t -
 083/121	tot	1	t o - t -
-083/129	NA	NA	- - - - -
-083/131	NA	NA	- - - - -
+083/129	NA	NA	-
+083/131	NA	NA	-
 083/133	tot	1	t o - t -
 083/135	toit	1	t oi - t -
 083/139	tot	1	t o - t -
 083/143	tot	1	t o - t -
-083/145	NA	NA	- - - - -
-083/147	NA	NA	- - - - -
+083/145	NA	NA	-
+083/147	NA	NA	-
 083/149	tout	1	t ou - t -
 083/173	tuut	1	t uu - t -
 083/195	taut	1	t au - t -
@@ -4460,7 +4460,7 @@
 084/075	doat	1	d oa - t -
 084/077	dout	1	d ou - t -
 084/079	dout	1	d ou - t -
-084/081	NA	NA	- - - - -
+084/081	NA	NA	-
 084/083	töut	1	t öu - t -
 084/085	taudt	1	t au - dt -
 084/087	tout	1	t ou - t -
@@ -4476,21 +4476,21 @@
 084/107	taud	1	t au - d -
 084/109	dout	1	d ou - t -
 084/111	doud	1	d ou - d -
-084/113	NA	NA	- - - - -
+084/113	NA	NA	-
 084/115	tout	1	t ou - t -
-084/117	NA	NA	- - - - -
+084/117	NA	NA	-
 084/119	toit	1	t oi - t -
 084/129	tot	1	t o - t -
-084/131	NA	NA	- - - - -
+084/131	NA	NA	-
 084/133	dot	1	d o - t -
-084/135	NA	NA	- - - - -
-084/137	NA	NA	- - - - -
-084/139	NA	NA	- - - - -
+084/135	NA	NA	-
+084/137	NA	NA	-
+084/139	NA	NA	-
 084/141	tot	1	t o - t -
 084/143	tot	1	t o - t -
-084/145	NA	NA	- - - - -
+084/145	NA	NA	-
 084/147	tot	1	t o - t -
-084/149	NA	NA	- - - - -
+084/149	NA	NA	-
 084/171	tut	1	t u - t -
 084/173	toot	1	t oo - t -
 084/195	toud	1	t ou - d -
@@ -4529,28 +4529,28 @@
 085/095	taud	1	t au - d -
 085/097	doud	1	d ou - d -
 085/101	toud	1	t ou - d -
-085/103	NA	NA	- - - - -
+085/103	NA	NA	-
 085/105	doud	1	d ou - d -
 085/107	doud	1	d ou - d -
 085/109	tout	1	t ou - t -
 085/111	däud	1	d äu - d -
 085/113	toadt	1	t oa - dt -
-085/115	NA	NA	- - - - -
+085/115	NA	NA	-
 085/117	toit	1	t oi - t -
-085/119	NA	NA	- - - - -
+085/119	NA	NA	-
 085/121	toit	1	t oi - t -
 085/123	toit	1	t oi - t -
 085/125	tot	1	t o - t -
 085/127	tot	1	t o - t -
-085/129	NA	NA	- - - - -
-085/131	NA	NA	- - - - -
+085/129	NA	NA	-
+085/131	NA	NA	-
 085/133	tot	1	t o - t -
-085/135	NA	NA	- - - - -
+085/135	NA	NA	-
 085/137	tot	1	t o - t -
-085/139	NA	NA	- - - - -
+085/139	NA	NA	-
 085/141	tot	1	t o - t -
-085/143	NA	NA	- - - - -
-085/145	NA	NA	- - - - -
+085/143	NA	NA	-
+085/145	NA	NA	-
 085/147	todt	1	t o - dt -
 085/149	tot	1	t o - t -
 085/175	teut	1	t eu - t -
@@ -4589,7 +4589,7 @@
 086/093	daot	1	d ao - t -
 086/095	dout	1	d ou - t -
 086/097	doaid	1	d oai - d -
-086/099	NA	NA	- - - - -
+086/099	NA	NA	-
 086/101	doud	1	d ou - d -
 086/103	toat	1	t oa - t -
 086/105	doat	1	d oa - t -
@@ -4601,17 +4601,17 @@
 086/117	toit	1	t oi - t -
 086/119	toit	1	t oi - t -
 086/121	tod	1	t o - d -
-086/123	NA	NA	- - - - -
+086/123	NA	NA	-
 086/125	toit	1	t oi - t -
 086/127	tot	1	t o - t -
 086/129	tot	1	t o - t -
 086/131	dod	1	d o - d -
 086/133	tot	1	t o - t -
 086/135	tod	1	t o - d -
-086/137	NA	NA	- - - - -
-086/139	NA	NA	- - - - -
+086/137	NA	NA	-
+086/139	NA	NA	-
 086/141	tot	1	t o - t -
-086/143	NA	NA	- - - - -
+086/143	NA	NA	-
 086/145	tot	1	t o - t -
 086/147	tot	1	t o - t -
 086/149	tot	1	t o - t -
@@ -4659,8 +4659,8 @@
 087/109	toad	1	t oa - d -
 087/111	deod	1	d eo - d -
 087/113	deot	1	d eo - t -
-087/115	NA	NA	- - - - -
-087/117	NA	NA	- - - - -
+087/115	NA	NA	-
+087/117	NA	NA	-
 087/119	toit	1	t oi - t -
 087/121	toit	1	t oi - t -
 087/123	doid	1	d oi - d -
@@ -4672,8 +4672,8 @@
 087/137	tot	1	t o - t -
 087/139	tod	1	t o - d -
 087/141	tot	1	t o - t -
-087/143	NA	NA	- - - - -
-087/145	NA	NA	- - - - -
+087/143	NA	NA	-
+087/145	NA	NA	-
 087/147	tot	1	t o - t -
 087/149	tot	1	t o - t -
 087/151	tot	1	t o - t -
@@ -4710,24 +4710,24 @@
 088/095	tout	1	t ou - t -
 088/097	toud	1	t ou - d -
 088/099	taauut	1	t aauu - t -
-088/101	NA	NA	- - - - -
+088/101	NA	NA	-
 088/103	doud	1	d ou - d -
 088/105	toat	1	t oa - t -
 088/107	toeat	1	t oea - t -
 088/109	toud	1	t ou - d -
-088/113	NA	NA	- - - - -
+088/113	NA	NA	-
 088/115	teod	1	t eo - d -
-088/117	NA	NA	- - - - -
+088/117	NA	NA	-
 088/121	doid	1	d oi - d -
 088/123	toid	1	t oi - d -
 088/127	dod	1	d o - d -
 088/129	tod	1	t o - d -
-088/131	NA	NA	- - - - -
+088/131	NA	NA	-
 088/137	tod	1	t o - d -
-088/139	NA	NA	- - - - -
+088/139	NA	NA	-
 088/141	dod	1	d o - d -
-088/143	NA	NA	- - - - -
-088/145	NA	NA	- - - - -
+088/143	NA	NA	-
+088/145	NA	NA	-
 088/147	tot	1	t o - t -
 088/149	tot	1	t o - t -
 089/035	tudt	1	t u - dt -
@@ -4767,27 +4767,27 @@
 089/103	dout	1	d ou - t -
 089/105	daüd	1	d aü - d -
 089/107	tot	1	t o - t -
-089/109	NA	NA	- - - - -
+089/109	NA	NA	-
 089/111	teot	1	t eo - t -
 089/113	toad	1	t oa - d -
 089/115	tot	1	t o - t -
 089/117	deot	1	d eo - t -
-089/119	NA	NA	- - - - -
+089/119	NA	NA	-
 089/121	doid	1	d oi - d -
 089/123	teot	1	t eo - t -
 089/125	toid	1	t oi - d -
-089/127	NA	NA	- - - - -
+089/127	NA	NA	-
 089/129	dod	1	d o - d -
 089/131	toat	1	t oa - t -
 089/133	tod	1	t o - d -
 089/135	dod	1	d o - d -
-089/137	NA	NA	- - - - -
-089/139	NA	NA	- - - - -
+089/137	NA	NA	-
+089/139	NA	NA	-
 089/141	tot	1	t o - t -
 089/143	tot	1	t o - t -
-089/145	NA	NA	- - - - -
+089/145	NA	NA	-
 089/147	tot	1	t o - t -
-089/149	NA	NA	- - - - -
+089/149	NA	NA	-
 090/035	dod	1	d o - d -
 090/037	duud	1	d uu - d -
 090/039	toodt	1	t oo - dt -
@@ -4801,7 +4801,7 @@
 090/055	daud	1	d au - d -
 090/057	daod	1	d ao - d -
 090/059	daut	1	d au - t -
-090/061	NA	NA	- - - - -
+090/061	NA	NA	-
 090/063	duud	1	d uu - d -
 090/065	toudt	1	t ou - dt -
 090/067	daod	1	d ao - d -
@@ -4818,34 +4818,34 @@
 090/089	thout	1	th ou - t -
 090/091	daut	1	d au - t -
 090/093	tout	1	t ou - t -
-090/095	NA	NA	- - - - -
+090/095	NA	NA	-
 090/097	doud	1	d ou - d -
 090/099	doud	1	d ou - d -
 090/101	toat	1	t oa - t -
 090/103	toat	1	t oa - t -
 090/105	tod	1	t o - d -
-090/107	NA	NA	- - - - -
-090/109	NA	NA	- - - - -
+090/107	NA	NA	-
+090/109	NA	NA	-
 090/111	täot	1	t äo - t -
 090/113	dot	1	d o - t -
 090/115	teod	1	t eo - d -
-090/119	NA	NA	- - - - -
+090/119	NA	NA	-
 090/121	tat	1	t a - t -
 090/123	tot	1	t o - t -
-090/125	NA	NA	- - - - -
+090/125	NA	NA	-
 090/127	tot	1	t o - t -
-090/129	NA	NA	- - - - -
+090/129	NA	NA	-
 090/131	tot	1	t o - t -
 090/133	dot	1	d o - t -
-090/135	NA	NA	- - - - -
+090/135	NA	NA	-
 090/137	tot	1	t o - t -
 090/139	tot	1	t o - t -
 090/141	tot	1	t o - t -
 090/143	dood	1	d oo - d -
 090/145	dod	1	d o - d -
-090/147	NA	NA	- - - - -
+090/147	NA	NA	-
 090/149	tot	1	t o - t -
-090/151	NA	NA	- - - - -
+090/151	NA	NA	-
 091/035	dud	1	d u - d -
 091/037	toot	1	t oo - t -
 091/039	dohd	1	d oh - d -
@@ -4876,8 +4876,8 @@
 091/091	daoud	1	d aou - d -
 091/093	tout	1	t ou - t -
 091/095	tooht	1	t ooh - t -
-091/097	NA	NA	- - - - -
-091/099	NA	NA	- - - - -
+091/097	NA	NA	-
+091/099	NA	NA	-
 091/101	dout	1	d ou - t -
 091/103	dod	1	d o - d -
 091/105	tood	1	t oo - d -
@@ -4888,20 +4888,20 @@
 091/115	tod	1	t o - d -
 091/117	täot	1	t äo - t -
 091/119	teod	1	t eo - d -
-091/121	NA	NA	- - - - -
-091/125	NA	NA	- - - - -
-091/129	NA	NA	- - - - -
+091/121	NA	NA	-
+091/125	NA	NA	-
+091/129	NA	NA	-
 091/131	tot	1	t o - t -
-091/133	NA	NA	- - - - -
+091/133	NA	NA	-
 091/135	dod	1	d o - d -
-091/137	NA	NA	- - - - -
+091/137	NA	NA	-
 091/139	tot	1	t o - t -
-091/141	NA	NA	- - - - -
-091/143	NA	NA	- - - - -
-091/145	NA	NA	- - - - -
-091/147	NA	NA	- - - - -
-091/149	NA	NA	- - - - -
-091/151	NA	NA	- - - - -
+091/141	NA	NA	-
+091/143	NA	NA	-
+091/145	NA	NA	-
+091/147	NA	NA	-
+091/149	NA	NA	-
+091/151	NA	NA	-
 091/155	toot	1	t oo - t -
 092/033	dod	1	d o - d -
 092/035	tot	1	t o - t -
@@ -4922,9 +4922,9 @@
 092/065	daud	1	d au - d -
 092/067	taut	1	t au - t -
 092/069	dood	1	d oo - d -
-092/071	NA	NA	- - - - -
+092/071	NA	NA	-
 092/073	doad	1	d oa - d -
-092/075	NA	NA	- - - - -
+092/075	NA	NA	-
 092/077	doat	1	d oa - t -
 092/079	toat	1	t oa - t -
 092/081	doad	1	d oa - d -
@@ -4939,8 +4939,8 @@
 092/099	tout	1	t ou - t -
 092/101	daoud	1	d aou - d -
 092/103	taodt	1	t ao - dt -
-092/105	NA	NA	- - - - -
-092/107	NA	NA	- - - - -
+092/105	NA	NA	-
+092/107	NA	NA	-
 092/109	tät	1	t ä - t -
 092/111	toad	1	t oa - d -
 092/113	toud	1	t ou - d -
@@ -4956,10 +4956,10 @@
 092/133	tod	1	t o - d -
 092/135	tot	1	t o - t -
 092/137	tot	1	t o - t -
-092/139	NA	NA	- - - - -
+092/139	NA	NA	-
 092/141	tot	1	t o - t -
 092/143	tot	1	t o - t -
-092/145	NA	NA	- - - - -
+092/145	NA	NA	-
 092/147	dod	1	d o - d -
 092/149	dod	1	d o - d -
 092/151	tod	1	t o - d -
@@ -5002,7 +5002,7 @@
 093/109	taud	1	t au - d -
 093/111	töad	1	t öa - d -
 093/113	tead	1	t ea - d -
-093/115	NA	NA	- - - - -
+093/115	NA	NA	-
 093/117	dod	1	d o - d -
 093/119	dod	1	d o - d -
 093/121	toid	1	t oi - d -
@@ -5016,10 +5016,10 @@
 093/139	tot	1	t o - t -
 093/143	tot	1	t o - t -
 093/145	dot	1	d o - t -
-093/147	NA	NA	- - - - -
+093/147	NA	NA	-
 093/149	tot	1	t o - t -
-093/151	NA	NA	- - - - -
-093/153	NA	NA	- - - - -
+093/151	NA	NA	-
+093/153	NA	NA	-
 093/155	tot	1	t o - t -
 094/033	duot	1	d uo - t -
 094/035	toodt	1	t oo - dt -
@@ -5061,26 +5061,26 @@
 094/107	toad	1	t oa - d -
 094/109	doat	1	d oa - t -
 094/111	tot	1	t o - t -
-094/113	NA	NA	- - - - -
+094/113	NA	NA	-
 094/115	tad	1	t a - d -
-094/117	NA	NA	- - - - -
+094/117	NA	NA	-
 094/119	tot	1	t o - t -
-094/121	NA	NA	- - - - -
-094/123	NA	NA	- - - - -
+094/121	NA	NA	-
+094/123	NA	NA	-
 094/125	tod	1	t o - d -
 094/127	tot	1	t o - t -
 094/129	tot	1	t o - t -
 094/131	dot	1	d o - t -
 094/133	tod	1	t o - d -
-094/135	NA	NA	- - - - -
+094/135	NA	NA	-
 094/137	tot	1	t o - t -
 094/139	tod	1	t o - d -
-094/141	NA	NA	- - - - -
+094/141	NA	NA	-
 094/143	tot	1	t o - t -
-094/145	NA	NA	- - - - -
-094/147	NA	NA	- - - - -
-094/149	NA	NA	- - - - -
-094/151	NA	NA	- - - - -
+094/145	NA	NA	-
+094/147	NA	NA	-
+094/149	NA	NA	-
+094/151	NA	NA	-
 094/153	dot	1	d o - t -
 095/031	dood	1	d oo - d -
 095/033	todt	1	t o - dt -
@@ -5112,7 +5112,7 @@
 095/085	tout	1	t ou - t -
 095/087	tout	1	t ou - t -
 095/089	doud	1	d ou - d -
-095/091	NA	NA	- - - - -
+095/091	NA	NA	-
 095/093	tout	1	t ou - t -
 095/095	dauad	1	d aua - d -
 095/097	toud	1	t ou - d -
@@ -5125,7 +5125,7 @@
 095/111	tat	1	t a - t -
 095/113	toot	1	t oo - t -
 095/115	teot	1	t eo - t -
-095/117	NA	NA	- - - - -
+095/117	NA	NA	-
 095/119	doad	1	d oa - d -
 095/121	tot	1	t o - t -
 095/123	tod	1	t o - d -
@@ -5138,7 +5138,7 @@
 095/143	tot	1	t o - t -
 095/145	tot	1	t o - t -
 095/147	tat	1	t a - t -
-095/149	NA	NA	- - - - -
+095/149	NA	NA	-
 095/151	tot	1	t o - t -
 095/153	tot	1	t o - t -
 095/155	tot	1	t o - t -
@@ -5163,7 +5163,7 @@
 096/067	dod	1	d o - d -
 096/069	tot	1	t o - t -
 096/071	toat	1	t oa - t -
-096/075	NA	NA	- - - - -
+096/075	NA	NA	-
 096/077	doad	1	d oa - d -
 096/079	toat	1	t oa - t -
 096/081	doad	1	d oa - d -
@@ -5184,29 +5184,29 @@
 096/111	tot	1	t o - t -
 096/113	toat	1	t oa - t -
 096/115	taod	1	t ao - d -
-096/117	NA	NA	- - - - -
+096/117	NA	NA	-
 096/119	tot	1	t o - t -
 096/121	toot	1	t oo - t -
 096/123	doud	1	d ou - d -
 096/125	dod	1	d o - d -
 096/129	tod	1	t o - d -
 096/131	tot	1	t o - t -
-096/135	NA	NA	- - - - -
-096/137	NA	NA	- - - - -
-096/139	NA	NA	- - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
+096/139	NA	NA	-
 096/141	tot	1	t o - t -
-096/143	NA	NA	- - - - -
+096/143	NA	NA	-
 096/145	tod	1	t o - d -
 096/147	tod	1	t o - d -
 096/151	tod	1	t o - d -
 096/153	tot	1	t o - t -
-096/155	NA	NA	- - - - -
+096/155	NA	NA	-
 097/031	doat	1	d oa - t -
 097/033	dod	1	d o - d -
 097/035	tot	1	t o - t -
 097/037	dot	1	d o - t -
 097/039	dod	1	d o - d -
-097/041	NA	NA	- - - - -
+097/041	NA	NA	-
 097/043	dod	1	d o - d -
 097/045	dod	1	d o - d -
 097/047	dot	1	d o - t -
@@ -5224,7 +5224,7 @@
 097/071	dod	1	d o - d -
 097/073	tot	1	t o - t -
 097/075	toat	1	t oa - t -
-097/077	NA	NA	- - - - -
+097/077	NA	NA	-
 097/079	doat	1	d oa - t -
 097/081	toat	1	t oa - t -
 097/083	doad	1	d oa - d -
@@ -5238,9 +5238,9 @@
 097/099	toud	1	t ou - d -
 097/103	toot	1	t oo - t -
 097/105	toud	1	t ou - d -
-097/107	NA	NA	- - - - -
+097/107	NA	NA	-
 097/109	toud	1	t ou - d -
-097/113	NA	NA	- - - - -
+097/113	NA	NA	-
 097/125	tod	1	t o - d -
 097/131	tot	1	t o - t -
 097/133	todt	1	t o - dt -
@@ -5248,8 +5248,8 @@
 097/141	tot	1	t o - t -
 097/143	tot	1	t o - t -
 097/145	todt	1	t o - dt -
-097/149	NA	NA	- - - - -
-097/153	NA	NA	- - - - -
+097/149	NA	NA	-
+097/153	NA	NA	-
 098/033	dot	1	d o - t -
 098/035	dod	1	d o - d -
 098/037	dod	1	d o - d -
@@ -5288,17 +5288,17 @@
 098/107	tout	1	t ou - t -
 098/109	tout	1	t ou - t -
 098/111	tot	1	t o - t -
-098/119	NA	NA	- - - - -
+098/119	NA	NA	-
 098/123	tot	1	t o - t -
-098/125	NA	NA	- - - - -
+098/125	NA	NA	-
 098/127	dot	1	d o - t -
 098/135	tot	1	t o - t -
 098/137	tot	1	t o - t -
-098/139	NA	NA	- - - - -
-098/141	NA	NA	- - - - -
+098/139	NA	NA	-
+098/141	NA	NA	-
 098/143	durt	1	d ur - t -
-098/145	NA	NA	- - - - -
-098/147	NA	NA	- - - - -
+098/145	NA	NA	-
+098/147	NA	NA	-
 098/149	tod	1	t o - d -
 098/151	tod	1	t o - d -
 099/033	tot	1	t o - t -
@@ -5331,22 +5331,22 @@
 099/095	dod	1	d o - d -
 099/099	taut	1	t au - t -
 099/101	tot	1	t o - t -
-099/103	NA	NA	- - - - -
+099/103	NA	NA	-
 099/105	taut	1	t au - t -
 099/107	toat	1	t oa - t -
-099/109	NA	NA	- - - - -
-099/111	NA	NA	- - - - -
+099/109	NA	NA	-
+099/111	NA	NA	-
 099/113	taut	1	t au - t -
 099/121	dod	1	d o - d -
 099/123	tot	1	t o - t -
 099/125	tod	1	t o - d -
 099/131	tot	1	t o - t -
 099/137	tout	1	t ou - t -
-099/139	NA	NA	- - - - -
+099/139	NA	NA	-
 099/141	tot	1	t o - t -
-099/143	NA	NA	- - - - -
+099/143	NA	NA	-
 099/145	tot	1	t o - t -
-099/147	NA	NA	- - - - -
+099/147	NA	NA	-
 100/033	todt	1	t o - dt -
 100/035	tod	1	t o - d -
 100/037	todt	1	t o - dt -
@@ -5369,7 +5369,7 @@
 100/075	toat	1	t oa - t -
 100/077	doad	1	d oa - d -
 100/081	toad	1	t oa - d -
-100/083	NA	NA	- - - - -
+100/083	NA	NA	-
 100/089	tuad	1	t ua - d -
 100/093	tuad	1	t ua - d -
 100/095	tout	1	t ou - t -
@@ -5377,20 +5377,20 @@
 100/099	tot	1	t o - t -
 100/101	todt	1	t o - dt -
 100/109	tad	1	t a - d -
-100/111	NA	NA	- - - - -
+100/111	NA	NA	-
 100/113	tout	1	t ou - t -
 100/115	tot	1	t o - t -
 100/117	tot	1	t o - t -
-100/119	NA	NA	- - - - -
+100/119	NA	NA	-
 100/121	tod	1	t o - d -
 100/125	tot	1	t o - t -
-100/127	NA	NA	- - - - -
-100/129	NA	NA	- - - - -
-100/133	NA	NA	- - - - -
+100/127	NA	NA	-
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	tot	1	t o - t -
 100/141	tot	1	t o - t -
 100/143	tot	1	t o - t -
-100/145	NA	NA	- - - - -
+100/145	NA	NA	-
 101/035	dood	1	d oo - d -
 101/037	tot	1	t o - t -
 101/039	dood	1	d oo - d -
@@ -5419,12 +5419,12 @@
 101/097	toud	1	t ou - d -
 101/099	taut	1	t au - t -
 101/101	tot	1	t o - t -
-101/103	NA	NA	- - - - -
+101/103	NA	NA	-
 101/107	dod	1	d o - d -
 101/109	tout	1	t ou - t -
-101/113	NA	NA	- - - - -
+101/113	NA	NA	-
 101/115	tot	1	t o - t -
-101/121	NA	NA	- - - - -
+101/121	NA	NA	-
 101/125	tot	1	t o - t -
 101/129	taus	1	t au s - -
 101/131	tot	1	t o - t -
@@ -5434,7 +5434,7 @@
 101/141	tat	1	t a - t -
 101/143	tot	1	t o - t -
 101/145	tot	1	t o - t -
-101/147	NA	NA	- - - - -
+101/147	NA	NA	-
 102/037	tot	1	t o - t -
 102/039	tod	1	t o - d -
 102/041	dot	1	d o - t -
@@ -5460,9 +5460,9 @@
 102/081	toat	1	t oa - t -
 102/083	toat	1	t oa - t -
 102/089	tuad	1	t ua - d -
-102/091	NA	NA	- - - - -
+102/091	NA	NA	-
 102/093	toad	1	t oa - d -
-102/095	NA	NA	- - - - -
+102/095	NA	NA	-
 102/097	tout	1	t ou - t -
 102/099	tod	1	t o - d -
 102/103	toat	1	t oa - t -
@@ -5473,11 +5473,11 @@
 102/127	toat	1	t oa - t -
 102/129	tot	1	t o - t -
 102/131	toad	1	t oa - d -
-102/135	NA	NA	- - - - -
+102/135	NA	NA	-
 102/137	tot	1	t o - t -
-102/139	NA	NA	- - - - -
+102/139	NA	NA	-
 102/141	tot	1	t o - t -
-102/143	NA	NA	- - - - -
+102/143	NA	NA	-
 102/145	tot	1	t o - t -
 103/039	todt	1	t o - dt -
 103/041	dod	1	d o - d -
@@ -5489,7 +5489,7 @@
 103/053	tod	1	t o - d -
 103/055	tood	1	t oo - d -
 103/057	tod	1	t o - d -
-103/059	NA	NA	- - - - -
+103/059	NA	NA	-
 103/063	tod	1	t o - d -
 103/065	tot	1	t o - t -
 103/067	dod	1	d o - d -
@@ -5508,13 +5508,13 @@
 103/097	tood	1	t oo - d -
 103/099	tood	1	t oo - d -
 103/101	doud	1	d ou - d -
-103/105	NA	NA	- - - - -
+103/105	NA	NA	-
 103/107	dood	1	d oo - d -
 103/111	tot	1	t o - t -
-103/121	NA	NA	- - - - -
+103/121	NA	NA	-
 103/125	toat	1	t oa - t -
-103/127	NA	NA	- - - - -
-103/131	NA	NA	- - - - -
+103/127	NA	NA	-
+103/131	NA	NA	-
 103/133	toat	1	t oa - t -
 103/135	tot	1	t o - t -
 103/137	toat	1	t oa - t -
@@ -5547,7 +5547,7 @@
 104/081	toat	1	t oa - t -
 104/083	toat	1	t oa - t -
 104/085	toat	1	t oa - t -
-104/091	NA	NA	- - - - -
+104/091	NA	NA	-
 104/095	tot	1	t o - t -
 104/101	tot	1	t o - t -
 104/103	tot	1	t o - t -
@@ -5555,18 +5555,18 @@
 104/111	doad	1	d oa - d -
 104/113	toad	1	t oa - d -
 104/119	toat	1	t oa - t -
-104/121	NA	NA	- - - - -
-104/123	NA	NA	- - - - -
-104/125	NA	NA	- - - - -
+104/121	NA	NA	-
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	todt	1	t o - dt -
 104/131	taot	1	t ao - t -
 104/133	toat	1	t oa - t -
 104/135	tood	1	t oo - d -
 104/137	tot	1	t o - t -
-104/139	NA	NA	- - - - -
+104/139	NA	NA	-
 104/141	tot	1	t o - t -
 104/143	tot	1	t o - t -
-104/145	NA	NA	- - - - -
+104/145	NA	NA	-
 105/031	tod	1	t o - d -
 105/033	tod	1	t o - d -
 105/035	tot	1	t o - t -
@@ -5590,12 +5590,12 @@
 105/071	toad	1	t oa - d -
 105/073	toat	1	t oa - t -
 105/075	toat	1	t oa - t -
-105/077	NA	NA	- - - - -
+105/077	NA	NA	-
 105/079	toat	1	t oa - t -
 105/081	toat	1	t oa - t -
 105/085	toat	1	t oa - t -
 105/087	toat	1	t oa - t -
-105/089	NA	NA	- - - - -
+105/089	NA	NA	-
 105/103	tout	1	t ou - t -
 105/105	tot	1	t o - t -
 105/111	toat	1	t oa - t -
@@ -5605,18 +5605,18 @@
 105/119	auf	NA	au f - - -
 105/121	toat	1	t oa - t -
 105/125	toat	1	t oa - t -
-105/127	NA	NA	- - - - -
+105/127	NA	NA	-
 105/131	toat	1	t oa - t -
-105/133	NA	NA	- - - - -
+105/133	NA	NA	-
 105/135	tott	1	t o - tt -
 105/137	toad	1	t oa - d -
-105/141	NA	NA	- - - - -
+105/141	NA	NA	-
 105/143	tod	1	t o - d -
 105/145	tot	1	t o - t -
 106/033	dod	1	d o - d -
 106/035	tot	1	t o - t -
 106/037	tod	1	t o - d -
-106/039	NA	NA	- - - - -
+106/039	NA	NA	-
 106/041	tod	1	t o - d -
 106/043	dod	1	d o - d -
 106/045	tot	1	t o - t -
@@ -5638,14 +5638,14 @@
 106/087	um	NA	u m - - -
 106/093	toet	1	t oe - t -
 106/097	tät	1	t ä - t -
-106/099	NA	NA	- - - - -
+106/099	NA	NA	-
 106/103	tot	1	t o - t -
 106/111	toad	1	t oa - d -
-106/115	NA	NA	- - - - -
+106/115	NA	NA	-
 106/121	toat	1	t oa - t -
 106/123	toat	1	t oa - t -
 106/125	toat	1	t oa - t -
-106/129	NA	NA	- - - - -
+106/129	NA	NA	-
 106/131	toat	1	t oa - t -
 106/133	tout	1	t ou - t -
 106/135	toat	1	t oa - t -
@@ -5672,34 +5672,34 @@
 107/071	toad	1	t oa - d -
 107/075	toat	1	t oa - t -
 107/081	toadt	1	t oa - dt -
-107/085	NA	NA	- - - - -
+107/085	NA	NA	-
 107/087	toat	1	t oa - t -
-107/089	NA	NA	- - - - -
+107/089	NA	NA	-
 107/091	tuet	1	t ue - t -
 107/097	töde	1	t ö - d e
 107/099	tot	1	t o - t -
 107/103	tot	1	t o - t -
-107/105	NA	NA	- - - - -
+107/105	NA	NA	-
 107/107	todt	1	t o - dt -
 107/111	toat	1	t oa - t -
 107/119	toat	1	t oa - t -
-107/121	NA	NA	- - - - -
+107/121	NA	NA	-
 107/123	toat	1	t oa - t -
-107/125	NA	NA	- - - - -
+107/125	NA	NA	-
 107/127	toat	1	t oa - t -
-107/129	NA	NA	- - - - -
+107/129	NA	NA	-
 107/131	toa	1	t oa - - -
 107/133	toat	1	t oa - t -
 107/135	toat	1	t oa - t -
 107/137	tout	1	t ou - t -
 107/139	tod	1	t o - d -
 107/141	toat	1	t oa - t -
-107/143	NA	NA	- - - - -
+107/143	NA	NA	-
 108/033	tot	1	t o - t -
 108/035	tod	1	t o - d -
 108/037	tod	1	t o - d -
 108/039	tod	1	t o - d -
-108/041	NA	NA	- - - - -
+108/041	NA	NA	-
 108/043	tod	1	t o - d -
 108/047	tod	1	t o - d -
 108/049	tod	1	t o - d -
@@ -5709,11 +5709,11 @@
 108/075	tooat	1	t ooa - t -
 108/079	toat	1	t oa - t -
 108/081	toad	1	t oa - d -
-108/085	NA	NA	- - - - -
+108/085	NA	NA	-
 108/087	tuot	1	t uo - t -
-108/091	NA	NA	- - - - -
-108/099	NA	NA	- - - - -
-108/101	NA	NA	- - - - -
+108/091	NA	NA	-
+108/099	NA	NA	-
+108/101	NA	NA	-
 108/103	toat	1	t oa - t -
 108/105	toat	1	t oa - t -
 108/109	toat	1	t oa - t -
@@ -5721,7 +5721,7 @@
 108/113	toad	1	t oa - d -
 108/117	toad	1	t oa - d -
 108/119	toat	1	t oa - t -
-108/121	NA	NA	- - - - -
+108/121	NA	NA	-
 108/123	toat	1	t oa - t -
 108/125	toat	1	t oa - t -
 108/127	toud	1	t ou - d -
@@ -5736,7 +5736,7 @@
 109/037	tot	1	t o - t -
 109/039	tod	1	t o - d -
 109/041	tod	1	t o - d -
-109/043	NA	NA	- - - - -
+109/043	NA	NA	-
 109/045	tod	1	t o - d -
 109/049	tod	1	t o - d -
 109/053	dot	1	d o - t -
@@ -5745,33 +5745,33 @@
 109/065	tot	1	t o - t -
 109/067	tod	1	t o - d -
 109/075	toat	1	t oa - t -
-109/083	NA	NA	- - - - -
+109/083	NA	NA	-
 109/087	tuot	1	t uo - t -
-109/089	NA	NA	- - - - -
+109/089	NA	NA	-
 109/091	toat	1	t oa - t -
 109/093	tuat	1	t ua - t -
 109/095	toat	1	t oa - t -
 109/097	toat	1	t oa - t -
 109/099	toat	1	t oa - t -
-109/101	NA	NA	- - - - -
+109/101	NA	NA	-
 109/103	toet	1	t oe - t -
-109/107	NA	NA	- - - - -
-109/109	NA	NA	- - - - -
+109/107	NA	NA	-
+109/109	NA	NA	-
 109/111	toet	1	t oe - t -
-109/113	NA	NA	- - - - -
+109/113	NA	NA	-
 109/115	toat	1	t oa - t -
 109/117	toat	1	t oa - t -
 109/119	toadt	1	t oa - dt -
 109/121	tot	1	t o - t -
-109/123	NA	NA	- - - - -
+109/123	NA	NA	-
 109/125	toat	1	t oa - t -
 109/127	tot	1	t o - t -
-109/129	NA	NA	- - - - -
+109/129	NA	NA	-
 109/131	toat	1	t oa - t -
 109/133	toa	1	t oa - - -
 109/135	toat	1	t oa - t -
-109/137	NA	NA	- - - - -
-109/139	NA	NA	- - - - -
+109/137	NA	NA	-
+109/139	NA	NA	-
 110/035	tooet	1	t ooe - t -
 110/039	tod	1	t o - d -
 110/041	tot	1	t o - t -
@@ -5783,16 +5783,16 @@
 110/061	tout	1	t ou - t -
 110/065	tot	1	t o - t -
 110/075	toud	1	t ou - d -
-110/079	NA	NA	- - - - -
-110/081	NA	NA	- - - - -
-110/083	NA	NA	- - - - -
-110/087	NA	NA	- - - - -
+110/079	NA	NA	-
+110/081	NA	NA	-
+110/083	NA	NA	-
+110/087	NA	NA	-
 110/089	toat	1	t oa - t -
-110/091	NA	NA	- - - - -
+110/091	NA	NA	-
 110/093	toat	1	t oa - t -
 110/095	toat	1	t oa - t -
-110/097	NA	NA	- - - - -
-110/099	NA	NA	- - - - -
+110/097	NA	NA	-
+110/099	NA	NA	-
 110/101	tot	1	t o - t -
 110/105	toat	1	t oa - t -
 110/107	toat	1	t oa - t -
@@ -5800,15 +5800,15 @@
 110/113	toat	1	t oa - t -
 110/115	toat	1	t oa - t -
 110/117	toot	1	t oo - t -
-110/119	NA	NA	- - - - -
-110/121	NA	NA	- - - - -
-110/125	NA	NA	- - - - -
-110/127	NA	NA	- - - - -
+110/119	NA	NA	-
+110/121	NA	NA	-
+110/125	NA	NA	-
+110/127	NA	NA	-
 110/129	toat	1	t oa - t -
-110/131	NA	NA	- - - - -
-110/133	NA	NA	- - - - -
+110/131	NA	NA	-
+110/133	NA	NA	-
 110/135	toat	1	t oa - t -
-110/137	NA	NA	- - - - -
+110/137	NA	NA	-
 110/139	toat	1	t oa - t -
 111/035	tuot	1	t uo - t -
 111/037	toed	1	t oe - d -
@@ -5819,18 +5819,18 @@
 111/059	tot	1	t o - t -
 111/073	toat	1	t oa - t -
 111/075	toat	1	t oa - t -
-111/077	NA	NA	- - - - -
-111/079	NA	NA	- - - - -
+111/077	NA	NA	-
+111/079	NA	NA	-
 111/081	toat	1	t oa - t -
 111/083	toat	1	t oa - t -
-111/087	NA	NA	- - - - -
+111/087	NA	NA	-
 111/089	toat	1	t oa - t -
 111/105	toat	1	t oa - t -
 111/107	toat	1	t oa - t -
 111/109	toat	1	t oa - t -
 111/111	toat	1	t oa - t -
 111/113	toat	1	t oa - t -
-111/115	NA	NA	- - - - -
+111/115	NA	NA	-
 111/117	todt	1	t o - dt -
 111/119	tot	1	t o - t -
 111/121	tot	1	t o - t -
@@ -5843,11 +5843,11 @@
 112/047	tot	1	t o - t -
 112/059	toot	1	t oo - t -
 112/061	tot	1	t o - t -
-112/063	NA	NA	- - - - -
-112/075	NA	NA	- - - - -
+112/063	NA	NA	-
+112/075	NA	NA	-
 112/081	toat	1	t oa - t -
-112/083	NA	NA	- - - - -
-112/085	NA	NA	- - - - -
+112/083	NA	NA	-
+112/085	NA	NA	-
 112/111	tot	1	t o - t -
 112/115	toot	1	t oo - t -
 112/117	tot	1	t o - t -
@@ -5856,7 +5856,7 @@
 113/037	toed	1	t oe - d -
 113/039	tot	1	t o - t -
 113/047	tot	1	t o - t -
-113/079	NA	NA	- - - - -
+113/079	NA	NA	-
 113/081	toat	1	t oa - t -
 113/083	toat	1	t oa - t -
 113/085	toat	1	t oa - t -
@@ -5864,7 +5864,7 @@
 113/121	tot	1	t o - t -
 113/123	tot	1	t o - t -
 114/035	tod	1	t o - d -
-114/045	NA	NA	- - - - -
+114/045	NA	NA	-
 114/083	toat	1	t oa - t -
 114/085	toat	1	t oa - t -
 115/041	tot	1	t o - t -
@@ -5878,12 +5878,12 @@
 117/043	tot	1	t o - t -
 117/045	tot	1	t o - t -
 118/041	tot	1	t o - t -
-119/083	NA	NA	- - - - -
-120/085	NA	NA	- - - - -
+119/083	NA	NA	-
+120/085	NA	NA	-
 121/127	toat	1	t oa - t -
 122/127	toat	1	t oa - t -
 122/129	toat	1	t oa - t -
-123/081	NA	NA	- - - - -
+123/081	NA	NA	-
 123/123	toat	1	t oa - t -
 123/125	toat	1	t oa - t -
 123/127	toat	1	t oa - t -

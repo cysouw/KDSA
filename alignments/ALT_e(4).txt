@@ -1,9 +1,9 @@
 locations	strings	cognateID	alignments
 001/203	ole	1	- o l - e -
 002/201	ole	1	- o l - e -
-002/203	NA	NA	- - - - - -
+002/203	NA	NA	-
 002/205	ohle	1	- oh l - e -
-003/203	NA	NA	- - - - - -
+003/203	NA	NA	-
 003/205	ohle	1	- oh l - e -
 004/205	ohle	1	- oh l - e -
 005/205	oole	1	- oo l - e -
@@ -394,7 +394,7 @@ locations	strings	cognateID	alignments
 019/189	ohl	1	- oh l - - -
 019/191	ohl	1	- oh l - - -
 019/193	ol	1	- o l - - -
-019/195	NA	NA	- - - - - -
+019/195	NA	NA	-
 019/197	ohl	1	- oh l - - -
 019/199	ol	1	- o l - - -
 019/201	ohla	1	- oh l - a -
@@ -709,7 +709,7 @@ locations	strings	cognateID	alignments
 024/101	oll	1	- o ll - - -
 024/103	olle	1	- o ll - e -
 024/105	oll	1	- o ll - - -
-024/107	NA	NA	- - - - - -
+024/107	NA	NA	-
 024/109	ull	1	- u ll - - -
 024/111	ul	1	- u l - - -
 024/113	ulla	1	- u ll - a -
@@ -801,7 +801,7 @@ locations	strings	cognateID	alignments
 025/143	ult	1	- u l t - -
 025/145	ull	1	- u ll - - -
 025/147	oll	1	- o ll - - -
-025/149	NA	NA	- - - - - -
+025/149	NA	NA	-
 025/151	ull	1	- u ll - - -
 025/153	ull	1	- u ll - - -
 025/155	oll	1	- o ll - - -
@@ -1030,7 +1030,7 @@ locations	strings	cognateID	alignments
 029/033	olle	1	- o ll - e -
 029/035	olle	1	- o ll - e -
 029/037	olle	1	- o ll - e -
-029/039	NA	NA	- - - - - -
+029/039	NA	NA	-
 029/043	all	1	- a ll - - -
 029/045	ohle	1	- oh l - e -
 029/047	ole	1	- o l - e -
@@ -1084,7 +1084,7 @@ locations	strings	cognateID	alignments
 029/145	ull	1	- u ll - - -
 029/147	ull	1	- u ll - - -
 029/149	ull	1	- u ll - - -
-029/151	NA	NA	- - - - - -
+029/151	NA	NA	-
 029/153	ull	1	- u ll - - -
 029/155	ull	1	- u ll - - -
 029/157	ul	1	- u l - - -
@@ -1099,7 +1099,7 @@ locations	strings	cognateID	alignments
 029/175	oll	1	- o ll - - -
 029/177	oll	1	- o ll - - -
 029/181	olle	1	- o ll - e -
-030/033	NA	NA	- - - - - -
+030/033	NA	NA	-
 030/035	olle	1	- o ll - e -
 030/037	olle	1	- o ll - e -
 030/039	olle	1	- o ll - e -
@@ -1150,9 +1150,9 @@ locations	strings	cognateID	alignments
 030/133	ull	1	- u ll - - -
 030/135	ul	1	- u l - - -
 030/137	ul	1	- u l - - -
-030/139	NA	NA	- - - - - -
+030/139	NA	NA	-
 030/141	alte	1	- a l t e -
-030/143	NA	NA	- - - - - -
+030/143	NA	NA	-
 030/145	oll	1	- o ll - - -
 030/147	ol	1	- o l - - -
 030/149	ol	1	- o l - - -
@@ -1208,7 +1208,7 @@ locations	strings	cognateID	alignments
 031/099	oll	1	- o ll - - -
 031/101	oll	1	- o ll - - -
 031/103	oll	1	- o ll - - -
-031/105	NA	NA	- - - - - -
+031/105	NA	NA	-
 031/107	oll	1	- o ll - - -
 031/109	oll	1	- o ll - - -
 031/111	oll	1	- o ll - - -
@@ -1343,7 +1343,7 @@ locations	strings	cognateID	alignments
 033/087	oll	1	- o ll - - -
 033/089	oll	1	- o ll - - -
 033/091	oll	1	- o ll - - -
-033/093	NA	NA	- - - - - -
+033/093	NA	NA	-
 033/095	oll	1	- o ll - - -
 033/097	olle	1	- o ll - e -
 033/099	olle	1	- o ll - e -
@@ -1361,7 +1361,7 @@ locations	strings	cognateID	alignments
 033/123	ull	1	- u ll - - -
 033/125	ull	1	- u ll - - -
 033/127	ull	1	- u ll - - -
-033/129	NA	NA	- - - - - -
+033/129	NA	NA	-
 033/131	olle	1	- o ll - e -
 033/133	ull	1	- u ll - - -
 033/135	oll	1	- o ll - - -
@@ -1383,7 +1383,7 @@ locations	strings	cognateID	alignments
 033/169	oll	1	- o ll - - -
 033/173	oll	1	- o ll - - -
 033/175	olle	1	- o ll - e -
-033/177	NA	NA	- - - - - -
+033/177	NA	NA	-
 034/035	olle	1	- o ll - e -
 034/039	alde	1	- a l d e -
 034/041	olle	1	- o ll - e -
@@ -1550,7 +1550,7 @@ locations	strings	cognateID	alignments
 036/103	olle	1	- o ll - e -
 036/105	olle	1	- o ll - e -
 036/107	olle	1	- o ll - e -
-036/109	NA	NA	- - - - - -
+036/109	NA	NA	-
 036/111	olle	1	- o ll - e -
 036/113	olle	1	- o ll - e -
 036/115	olle	1	- o ll - e -
@@ -1718,7 +1718,7 @@ locations	strings	cognateID	alignments
 039/053	ole	1	- o l - e -
 039/055	ole	1	- o l - e -
 039/057	olle	1	- o ll - e -
-039/059	NA	NA	- - - - - -
+039/059	NA	NA	-
 039/061	ohle	1	- oh l - e -
 039/063	oole	1	- oo l - e -
 039/065	ohle	1	- oh l - e -
@@ -1788,7 +1788,7 @@ locations	strings	cognateID	alignments
 040/073	oole	1	- oo l - e -
 040/075	ohle	1	- oh l - e -
 040/077	ole	1	- o l - e -
-040/079	NA	NA	- - - - - -
+040/079	NA	NA	-
 040/081	olle	1	- o ll - e -
 040/083	oll	1	- o ll - - -
 040/085	oll	1	- o ll - - -
@@ -2125,14 +2125,14 @@ locations	strings	cognateID	alignments
 046/031	aolle	1	- ao ll - e -
 046/033	olle	1	- o ll - e -
 046/035	olle	1	- o ll - e -
-046/037	NA	NA	- - - - - -
+046/037	NA	NA	-
 046/039	aolle	1	- ao ll - e -
 046/041	aolle	1	- ao ll - e -
 046/043	aule	1	- au l - e -
 046/045	aule	1	- au l - e -
 046/047	aule	1	- au l - e -
 046/049	aule	1	- au l - e -
-046/051	NA	NA	- - - - - -
+046/051	NA	NA	-
 046/053	äule	1	- äu l - e -
 046/055	äule	1	- äu l - e -
 046/057	aule	1	- au l - e -
@@ -2422,14 +2422,14 @@ locations	strings	cognateID	alignments
 050/131	ale	1	- a l - e -
 050/133	ale	1	- a l - e -
 050/135	ahle	1	- ah l - e -
-050/137	NA	NA	- - - - - -
+050/137	NA	NA	-
 050/139	ahle	1	- ah l - e -
 050/141	ahlde	1	- ah l d e -
 050/143	ald	1	- a l d - -
 050/145	ahle	1	- ah l - e -
 050/147	ahle	1	- ah l - e -
 050/149	alde	1	- a l d e -
-050/151	NA	NA	- - - - - -
+050/151	NA	NA	-
 050/155	alde	1	- a l d e -
 050/157	alde	1	- a l d e -
 050/159	alde	1	- a l d e -
@@ -2456,7 +2456,7 @@ locations	strings	cognateID	alignments
 051/061	aale	1	- aa l - e -
 051/063	ahle	1	- ah l - e -
 051/065	ahle	1	- ah l - e -
-051/067	NA	NA	- - - - - -
+051/067	NA	NA	-
 051/069	aale	1	- aa l - e -
 051/071	ale	1	- a l - e -
 051/073	ahle	1	- ah l - e -
@@ -2566,7 +2566,7 @@ locations	strings	cognateID	alignments
 052/149	ahlde	1	- ah l d e -
 052/151	aalde	1	- aa l d e -
 052/153	alde	1	- a l d e -
-052/155	NA	NA	- - - - - -
+052/155	NA	NA	-
 052/157	alde	1	- a l d e -
 052/159	alde	1	- a l d e -
 053/023	alden	1	- a l d e n
@@ -2610,7 +2610,7 @@ locations	strings	cognateID	alignments
 053/099	ahle	1	- ah l - e -
 053/101	ohle	1	- oh l - e -
 053/103	aale	1	- aa l - e -
-053/105	NA	NA	- - - - - -
+053/105	NA	NA	-
 053/107	ahle	1	- ah l - e -
 053/109	ahle	1	- ah l - e -
 053/111	ahle	1	- ah l - e -
@@ -3528,7 +3528,7 @@ locations	strings	cognateID	alignments
 066/159	ali	1	- a l - i -
 066/161	alde	1	- a l d e -
 066/163	aolte	1	- ao l t e -
-067/021	NA	NA	- - - - - -
+067/021	NA	NA	-
 067/023	ahle	1	- ah l - e -
 067/025	ahle	1	- ah l - e -
 067/027	ahlen	1	- ah l - e n
@@ -3552,7 +3552,7 @@ locations	strings	cognateID	alignments
 067/063	ahl	1	- ah l - - -
 067/065	alt	1	- a l t - -
 067/067	eut	1	- eu - t - -
-067/069	NA	NA	- - - - - -
+067/069	NA	NA	-
 067/071	alt	1	- a l t - -
 067/073	alt	1	- a l t - -
 067/075	alt	1	- a l t - -
@@ -3611,7 +3611,7 @@ locations	strings	cognateID	alignments
 068/061	ohle	1	- oh l - e -
 068/063	alt	1	- a l t - -
 068/065	alt	1	- a l t - -
-068/067	NA	NA	- - - - - -
+068/067	NA	NA	-
 068/069	alt	1	- a l t - -
 068/071	alt	1	- a l t - -
 068/073	alta	1	- a l t a -
@@ -3754,7 +3754,7 @@ locations	strings	cognateID	alignments
 070/157	alde	1	- a l d e -
 070/159	alde	1	- a l d e -
 070/161	alde	1	- a l d e -
-070/163	NA	NA	- - - - - -
+070/163	NA	NA	-
 070/165	alde	1	- a l d e -
 071/017	alen	1	- a l - e n
 071/019	aalen	1	- aa l - e n
@@ -3795,7 +3795,7 @@ locations	strings	cognateID	alignments
 071/091	altn	1	- a l t - n
 071/093	alt	1	- a l t - -
 071/095	alta	1	- a l t a -
-071/097	NA	NA	- - - - - -
+071/097	NA	NA	-
 071/099	olta	1	- o l t a -
 071/101	olde	1	- o l d e -
 071/103	alto	1	- a l t o -
@@ -3965,7 +3965,7 @@ locations	strings	cognateID	alignments
 074/085	alt	1	- a l t - -
 074/087	alt	1	- a l t - -
 074/089	oalt	1	- oa l t - -
-074/091	NA	NA	- - - - - -
+074/091	NA	NA	-
 074/093	oalte	1	- oa l t e -
 074/095	alt	1	- a l t - -
 074/097	oolte	1	- oo l t e -
@@ -4084,7 +4084,7 @@ locations	strings	cognateID	alignments
 076/103	olte	1	- o l t e -
 076/135	olte	1	- o l t e -
 076/137	olt	1	- o l t - -
-076/149	NA	NA	- - - - - -
+076/149	NA	NA	-
 076/151	olda	1	- o l d a -
 076/155	olda	1	- o l d a -
 076/161	aode	1	- ao - d e -
@@ -4193,7 +4193,7 @@ locations	strings	cognateID	alignments
 079/047	alt	1	- a l t - -
 079/049	alt	1	- a l t - -
 079/051	alt	1	- a l t - -
-079/053	NA	NA	- - - - - -
+079/053	NA	NA	-
 079/055	ald	1	- a l d - -
 079/057	alt	1	- a l t - -
 079/059	alt	1	- a l t - -
@@ -4355,7 +4355,7 @@ locations	strings	cognateID	alignments
 082/081	alt	1	- a l t - -
 082/083	alt	1	- a l t - -
 082/085	alti	1	- a l t i -
-082/087	NA	NA	- - - - - -
+082/087	NA	NA	-
 082/089	alt	1	- a l t - -
 082/091	alte	1	- a l t e -
 082/093	alt	1	- a l t - -
@@ -4378,7 +4378,7 @@ locations	strings	cognateID	alignments
 082/191	alte	1	- a l t e -
 082/195	alte	1	- a l t e -
 083/027	ohlt	1	- oh l t - -
-083/029	NA	NA	- - - - - -
+083/029	NA	NA	-
 083/031	alt	1	- a l t - -
 083/033	alt	1	- a l t - -
 083/035	alt	1	- a l t - -
@@ -4417,7 +4417,7 @@ locations	strings	cognateID	alignments
 083/101	olt	1	- o l t - -
 083/103	oit	1	- oi - t - -
 083/105	oid	1	- oi - d - -
-083/107	NA	NA	- - - - - -
+083/107	NA	NA	-
 083/111	uiti	1	- ui - t i -
 083/113	uiti	1	- ui - t i -
 083/115	ult	1	- u l t - -
@@ -4762,7 +4762,7 @@ locations	strings	cognateID	alignments
 089/093	oid	1	- oi - d - -
 089/095	oid	1	- oi - d - -
 089/097	äid	1	- äi - d - -
-089/099	NA	NA	- - - - - -
+089/099	NA	NA	-
 089/101	alt	1	- a l t - -
 089/103	oid	1	- oi - d - -
 089/105	aaöd	1	- aaö - d - -
@@ -4936,7 +4936,7 @@ locations	strings	cognateID	alignments
 092/093	oid	1	- oi - d - -
 092/095	oid	1	- oi - d - -
 092/097	oid	1	- oi - d - -
-092/099	NA	NA	- - - - - -
+092/099	NA	NA	-
 092/101	alti	1	- a l t i -
 092/103	alt	1	- a l t - -
 092/105	aodö	1	- ao - d ö -
@@ -4976,9 +4976,9 @@ locations	strings	cognateID	alignments
 093/055	alde	1	- a l d e -
 093/057	alt	1	- a l t - -
 093/059	alt	1	- a l t - -
-093/061	NA	NA	- - - - - -
+093/061	NA	NA	-
 093/063	alt	1	- a l t - -
-093/065	NA	NA	- - - - - -
+093/065	NA	NA	-
 093/067	alt	1	- a l t - -
 093/069	alt	1	- a l t - -
 093/071	alt	1	- a l t - -
@@ -5170,7 +5170,7 @@ locations	strings	cognateID	alignments
 096/083	alt	1	- a l t - -
 096/085	ait	1	- ai - t - -
 096/087	oid	1	- oi - d - -
-096/089	NA	NA	- - - - - -
+096/089	NA	NA	-
 096/091	oalde	1	- oa l d e -
 096/093	oit	1	- oi - t - -
 096/095	oid	1	- oi - d - -
@@ -5238,7 +5238,7 @@ locations	strings	cognateID	alignments
 097/099	alt	1	- a l t - -
 097/103	oolte	1	- oo l t e -
 097/105	oitö	1	- oi - t ö -
-097/107	NA	NA	- - - - - -
+097/107	NA	NA	-
 097/109	oid	1	- oi - d - -
 097/113	ojd	1	- o j d - -
 097/125	oldi	1	- o l d i -
@@ -5254,7 +5254,7 @@ locations	strings	cognateID	alignments
 098/035	alt	1	- a l t - -
 098/037	alt	1	- a l t - -
 098/039	alt	1	- a l t - -
-098/041	NA	NA	- - - - - -
+098/041	NA	NA	-
 098/043	alt	1	- a l t - -
 098/045	aalt	1	- aa l t - -
 098/047	alt	1	- a l t - -
@@ -5312,7 +5312,7 @@ locations	strings	cognateID	alignments
 099/049	ald	1	- a l d - -
 099/051	aalt	1	- aa l t - -
 099/053	alt	1	- a l t - -
-099/055	NA	NA	- - - - - -
+099/055	NA	NA	-
 099/057	alt	1	- a l t - -
 099/059	alt	1	- a l t - -
 099/063	alt	1	- a l t - -
@@ -5462,7 +5462,7 @@ locations	strings	cognateID	alignments
 102/089	oiti	1	- oi - t i -
 102/091	olte	1	- o l t e -
 102/093	oite	1	- oi - t e -
-102/095	NA	NA	- - - - - -
+102/095	NA	NA	-
 102/097	olte	1	- o l t e -
 102/099	olde	1	- o l d e -
 102/103	alt	1	- a l t - -
@@ -5595,7 +5595,7 @@ locations	strings	cognateID	alignments
 105/081	olte	1	- o l t e -
 105/085	olta	1	- o l t a -
 105/087	olte	1	- o l t e -
-105/089	NA	NA	- - - - - -
+105/089	NA	NA	-
 105/103	oate	1	- oa - t e -
 105/105	ode	1	- o - d e -
 105/111	oete	1	- oe - t e -
@@ -5690,7 +5690,7 @@ locations	strings	cognateID	alignments
 107/129	olti	1	- o l t i -
 107/131	olti	1	- o l t i -
 107/133	olti	1	- o l t i -
-107/135	NA	NA	- - - - - -
+107/135	NA	NA	-
 107/137	oldi	1	- o l d i -
 107/139	olde	1	- o l d e -
 107/141	olte	1	- o l t e -
@@ -5731,14 +5731,14 @@ locations	strings	cognateID	alignments
 108/135	olti	1	- o l t i -
 108/137	oldi	1	- o l d i -
 108/139	olti	1	- o l t i -
-108/141	NA	NA	- - - - - -
+108/141	NA	NA	-
 109/035	aut	1	- au - t - -
 109/037	alt	1	- a l t - -
 109/039	aut	1	- au - t - -
 109/041	aut	1	- au - t - -
 109/043	ault	1	- au l t - -
 109/045	alt	1	- a l t - -
-109/049	NA	NA	- - - - - -
+109/049	NA	NA	-
 109/053	alt	1	- a l t - -
 109/061	alt	1	- a l t - -
 109/063	alt	1	- a l t - -

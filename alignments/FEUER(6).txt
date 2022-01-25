@@ -210,7 +210,7 @@
 016/065	für	1	f ü - - r -
 016/067	für	1	f ü - - r -
 016/081	für	1	f ü - - r -
-016/083	NA	NA	- - - - - -
+016/083	NA	NA	-
 016/105	führ	1	f üh - - r -
 016/107	füer	1	f ü - e r -
 016/109	fier	1	f ie - - r -
@@ -317,7 +317,7 @@
 018/147	füe	1	f ü - e - -
 018/149	fia	1	f i - a - -
 018/151	fiä	1	f i - ä - -
-018/153	NA	NA	- - - - - -
+018/153	NA	NA	-
 018/155	füä	1	f ü - ä - -
 018/157	fier	1	f ie - - r -
 018/159	fier	1	f ie - - r -
@@ -365,7 +365,7 @@
 019/099	füha	1	f üh - a - -
 019/101	füa	1	f ü - a - -
 019/103	für	1	f ü - - r -
-019/105	NA	NA	- - - - - -
+019/105	NA	NA	-
 019/107	für	1	f ü - - r -
 019/109	für	1	f ü - - r -
 019/143	füha	1	f üh - a - -
@@ -487,7 +487,7 @@
 021/077	füer	1	f ü - e r -
 021/079	für	1	f ü - - r -
 021/087	füeh	1	f ü - eh - -
-021/089	NA	NA	- - - - - -
+021/089	NA	NA	-
 021/091	füe	1	f ü - e - -
 021/093	füüä	1	f üü - ä - -
 021/095	füa	1	f ü - a - -
@@ -550,8 +550,8 @@
 022/065	für	1	f ü - - r -
 022/067	füer	1	f ü - e r -
 022/069	für	1	f ü - - r -
-022/071	NA	NA	- - - - - -
-022/073	NA	NA	- - - - - -
+022/071	NA	NA	-
+022/073	NA	NA	-
 022/075	füer	1	f ü - e r -
 022/077	für	1	f ü - - r -
 022/087	füe	1	f ü - e - -
@@ -1087,7 +1087,7 @@
 029/151	füä	1	f ü - ä - -
 029/153	füe	1	f ü - e - -
 029/155	füe	1	f ü - e - -
-029/157	NA	NA	- - - - - -
+029/157	NA	NA	-
 029/159	für	1	f ü - - r -
 029/161	füje	1	f üj - e - -
 029/163	füjä	1	f üj - ä - -
@@ -1122,7 +1122,7 @@
 030/077	füe	1	f ü - e - -
 030/079	füa	1	f ü - a - -
 030/081	füe	1	f ü - e - -
-030/083	NA	NA	- - - - - -
+030/083	NA	NA	-
 030/085	füe	1	f ü - e - -
 030/087	für	1	f ü - - r -
 030/089	füer	1	f ü - e r -
@@ -1235,7 +1235,7 @@
 031/153	füä	1	f ü - ä - -
 031/155	füje	1	f üj - e - -
 031/157	füe	1	f ü - e - -
-031/159	NA	NA	- - - - - -
+031/159	NA	NA	-
 031/161	füe	1	f ü - e - -
 031/163	füe	1	f ü - e - -
 031/167	füe	1	f ü - e - -
@@ -1995,7 +1995,7 @@
 043/125	feier	1	f ei - e r -
 043/127	feier	1	f ei - e r -
 043/129	feier	1	f ei - e r -
-043/131	NA	NA	- - - - - -
+043/131	NA	NA	-
 043/133	feur	1	f eu - - r -
 043/135	feuer	1	f eu - e r -
 043/137	feur	1	f eu - - r -
@@ -2733,7 +2733,7 @@
 055/073	füar	1	f ü - a r -
 055/075	fihr	1	f ih - - r -
 055/077	fier	1	f ie - - r -
-055/079	NA	NA	- - - - - -
+055/079	NA	NA	-
 055/081	fier	1	f ie - - r -
 055/083	fier	1	f ie - - r -
 055/085	feier	1	f ei - e r -
@@ -2890,7 +2890,7 @@
 057/109	feier	1	f ei - e r -
 057/111	feier	1	f ei - e r -
 057/113	feier	1	f ei - e r -
-057/115	NA	NA	- - - - - -
+057/115	NA	NA	-
 057/117	feuer	1	f eu - e r -
 057/119	feuer	1	f eu - e r -
 057/121	foier	1	f oi - e r -
@@ -3031,7 +3031,7 @@
 059/105	feier	1	f ei - e r -
 059/107	feur	1	f eu - - r -
 059/109	feia	1	f ei - a - -
-059/111	NA	NA	- - - - - -
+059/111	NA	NA	-
 059/113	feier	1	f ei - e r -
 059/115	feier	1	f ei - e r -
 059/117	feier	1	f ei - e r -
@@ -3050,7 +3050,7 @@
 059/143	feuer	1	f eu - e r -
 059/145	feuer	1	f eu - e r -
 059/147	feuer	1	f eu - e r -
-059/149	NA	NA	- - - - - -
+059/149	NA	NA	-
 059/151	feuer	1	f eu - e r -
 059/153	feur	1	f eu - - r -
 059/155	feuer	1	f eu - e r -
@@ -3114,7 +3114,7 @@
 060/125	foir	1	f oi - - r -
 060/127	feuer	1	f eu - e r -
 060/129	feur	1	f eu - - r -
-060/131	NA	NA	- - - - - -
+060/131	NA	NA	-
 060/135	feuer	1	f eu - e r -
 060/137	feuer	1	f eu - e r -
 060/139	feuer	1	f eu - e r -
@@ -3123,7 +3123,7 @@
 060/145	feuer	1	f eu - e r -
 060/147	feuer	1	f eu - e r -
 060/149	feuer	1	f eu - e r -
-060/151	NA	NA	- - - - - -
+060/151	NA	NA	-
 060/153	feuer	1	f eu - e r -
 060/155	feuer	1	f eu - e r -
 060/157	foir	1	f oi - - r -
@@ -3390,11 +3390,11 @@
 064/113	feier	1	f ei - e r -
 064/115	feier	1	f ei - e r -
 064/117	fejer	1	f ej - e r -
-064/119	NA	NA	- - - - - -
+064/119	NA	NA	-
 064/121	feir	1	f ei - - r -
-064/123	NA	NA	- - - - - -
+064/123	NA	NA	-
 064/125	fojr	1	f oj - - r -
-064/127	NA	NA	- - - - - -
+064/127	NA	NA	-
 064/135	feir	1	f ei - - r -
 064/137	faio	1	f ai - o - -
 064/139	feujaa	1	f euj - aa - -
@@ -3430,7 +3430,7 @@
 065/059	feuer	1	f eu - e r -
 065/061	faier	1	f ai - e r -
 065/063	feier	1	f ei - e r -
-065/065	NA	NA	- - - - - -
+065/065	NA	NA	-
 065/067	feuuer	1	f euu - e r -
 065/069	feuer	1	f eu - e r -
 065/071	feuer	1	f eu - e r -
@@ -3457,7 +3457,7 @@
 065/115	feir	1	f ei - - r -
 065/121	fejar	1	f ej - a r -
 065/123	fejar	1	f ej - a r -
-065/137	NA	NA	- - - - - -
+065/137	NA	NA	-
 065/139	feio	1	f ei - o - -
 065/143	foier	1	f oi - e r -
 065/145	feuer	1	f eu - e r -
@@ -3611,7 +3611,7 @@
 068/061	feier	1	f ei - e r -
 068/063	feuer	1	f eu - e r -
 068/065	feuer	1	f eu - e r -
-068/067	NA	NA	- - - - - -
+068/067	NA	NA	-
 068/069	feuer	1	f eu - e r -
 068/071	feuer	1	f eu - e r -
 068/073	feuer	1	f eu - e r -
@@ -3632,7 +3632,7 @@
 068/103	feia	1	f ei - a - -
 068/105	hitz	4	h i tz -
 068/107	feia	1	f ei - a - -
-068/109	NA	NA	- - - - - -
+068/109	NA	NA	-
 068/111	feia	1	f ei - a - -
 068/145	feier	1	f ei - e r -
 068/147	hetze	4	h e tz e
@@ -3720,7 +3720,7 @@
 070/057	feia	1	f ei - a - -
 070/059	feiar	1	f ei - a r -
 070/061	feuer	1	f eu - e r -
-070/063	NA	NA	- - - - - -
+070/063	NA	NA	-
 070/065	feuer	1	f eu - e r -
 070/067	feuer	1	f eu - e r -
 070/069	feür	1	f eü - - r -
@@ -3740,7 +3740,7 @@
 070/097	feiaa	1	f ei - aa - -
 070/099	feia	1	f ei - a - -
 070/101	feia	1	f ei - a - -
-070/103	NA	NA	- - - - - -
+070/103	NA	NA	-
 070/105	hitz	4	h i tz -
 070/107	feija	1	f eij - a - -
 070/109	faja	1	f aj - a - -
@@ -3775,7 +3775,7 @@
 071/049	feier	1	f ei - e r -
 071/051	feia	1	f ei - a - -
 071/053	feier	1	f ei - e r -
-071/055	NA	NA	- - - - - -
+071/055	NA	NA	-
 071/057	feier	1	f ei - e r -
 071/059	feuer	1	f eu - e r -
 071/063	feuer	1	f eu - e r -
@@ -3800,7 +3800,7 @@
 071/101	feie	1	f ei - e - -
 071/103	feio	1	f ei - o - -
 071/105	feia	1	f ei - a - -
-071/145	NA	NA	- - - - - -
+071/145	NA	NA	-
 071/147	for	1	f o - - r -
 071/149	feuer	1	f eu - e r -
 071/151	feuer	1	f eu - e r -
@@ -3979,7 +3979,7 @@
 074/147	faie	1	f ai - e - -
 074/149	faie	1	f ai - e - -
 074/153	feier	1	f ei - e r -
-074/155	NA	NA	- - - - - -
+074/155	NA	NA	-
 074/157	feier	1	f ei - e r -
 074/159	feier	1	f ei - e r -
 074/161	faier	1	f ai - e r -
@@ -4036,7 +4036,7 @@
 075/149	hatzt	4	h a tz t
 075/155	feir	1	f ei - - r -
 075/157	feier	1	f ei - e r -
-075/159	NA	NA	- - - - - -
+075/159	NA	NA	-
 075/161	feier	1	f ei - e r -
 075/163	feier	1	f ei - e r -
 075/165	fair	1	f ai - - r -
@@ -4046,7 +4046,7 @@
 076/025	feier	1	f ei - e r -
 076/027	feuer	1	f eu - e r -
 076/029	feier	1	f ei - e r -
-076/033	NA	NA	- - - - - -
+076/033	NA	NA	-
 076/035	feier	1	f ei - e r -
 076/037	feier	1	f ei - e r -
 076/039	feier	1	f ei - e r -
@@ -4318,7 +4318,7 @@
 081/107	feia	1	f ei - a - -
 081/109	hitz	4	h i tz -
 081/111	hitz	4	h i tz -
-081/127	NA	NA	- - - - - -
+081/127	NA	NA	-
 081/129	feier	1	f ei - e r -
 081/133	feir	1	f ei - - r -
 081/147	feir	1	f ei - - r -
@@ -4539,7 +4539,7 @@
 085/117	hitz	4	h i tz -
 085/119	fuir	1	f ui - - r -
 085/121	fäer	1	f ä - e r -
-085/123	NA	NA	- - - - - -
+085/123	NA	NA	-
 085/125	fei	1	f ei - - - -
 085/127	feuer	1	f eu - e r -
 085/129	fei	1	f ei - - - -
@@ -4582,7 +4582,7 @@
 086/079	fuir	1	f ui - - r -
 086/081	fuir	1	f ui - - r -
 086/083	feia	1	f ei - a - -
-086/085	NA	NA	- - - - - -
+086/085	NA	NA	-
 086/087	feir	1	f ei - - r -
 086/089	foia	1	f oi - a - -
 086/091	feuer	1	f eu - e r -
@@ -4824,7 +4824,7 @@
 090/101	feuer	1	f eu - e r -
 090/103	feier	1	f ei - e r -
 090/105	foja	1	f oj - a - -
-090/107	NA	NA	- - - - - -
+090/107	NA	NA	-
 090/109	foia	1	f oi - a - -
 090/111	foi	1	f oi - - - -
 090/113	fei	1	f ei - - - -
@@ -4832,7 +4832,7 @@
 090/119	hitz	4	h i tz -
 090/121	fei	1	f ei - - - -
 090/123	feia	1	f ei - a - -
-090/125	NA	NA	- - - - - -
+090/125	NA	NA	-
 090/127	fei	1	f ei - - - -
 090/129	feir	1	f ei - - r -
 090/131	feia	1	f ei - a - -
@@ -4885,7 +4885,7 @@
 091/109	feia	1	f ei - a - -
 091/111	feio	1	f ei - o - -
 091/113	foi	1	f oi - - - -
-091/115	NA	NA	- - - - - -
+091/115	NA	NA	-
 091/117	hitz	4	h i tz -
 091/119	foir	1	f oi - - r -
 091/121	fei	1	f ei - - - -
@@ -4902,7 +4902,7 @@
 091/147	feia	1	f ei - a - -
 091/149	feia	1	f ei - a - -
 091/151	faia	1	f ai - a - -
-091/155	NA	NA	- - - - - -
+091/155	NA	NA	-
 092/033	fihr	1	f ih - - r -
 092/035	fihr	1	f ih - - r -
 092/037	fier	1	f ie - - r -
@@ -5518,7 +5518,7 @@
 103/133	foia	1	f oi - a - -
 103/135	feia	1	f ei - a - -
 103/137	fuia	1	f ui - a - -
-103/139	NA	NA	- - - - - -
+103/139	NA	NA	-
 103/141	feia	1	f ei - a - -
 103/143	feia	1	f ei - a - -
 103/145	faje	1	f aj - e - -
@@ -5536,7 +5536,7 @@
 104/055	für	1	f ü - - r -
 104/057	füür	1	f üü - - r -
 104/059	für	1	f ü - - r -
-104/061	NA	NA	- - - - - -
+104/061	NA	NA	-
 104/063	für	1	f ü - - r -
 104/065	für	1	f ü - - r -
 104/067	für	1	f ü - - r -
@@ -5556,7 +5556,7 @@
 104/113	foia	1	f oi - a - -
 104/119	fuia	1	f ui - a - -
 104/121	hitz	4	h i tz -
-104/123	NA	NA	- - - - - -
+104/123	NA	NA	-
 104/125	faja	1	f aj - a - -
 104/127	feia	1	f ei - a - -
 104/131	fuia	1	f ui - a - -
@@ -5566,7 +5566,7 @@
 104/139	feia	1	f ei - a - -
 104/141	fuia	1	f ui - a - -
 104/143	faia	1	f ai - a - -
-104/145	NA	NA	- - - - - -
+104/145	NA	NA	-
 105/031	für	1	f ü - - r -
 105/033	füür	1	f üü - - r -
 105/035	füür	1	f üü - - r -
@@ -5661,7 +5661,7 @@
 107/041	für	1	f ü - - r -
 107/043	füür	1	f üü - - r -
 107/045	fur	1	f u - - r -
-107/047	NA	NA	- - - - - -
+107/047	NA	NA	-
 107/049	fiir	1	f ii - - r -
 107/051	führ	1	f üh - - r -
 107/053	füür	1	f üü - - r -
@@ -5683,11 +5683,11 @@
 107/107	feia	1	f ei - a - -
 107/111	foja	1	f oj - a - -
 107/119	fojar	1	f oj - a r -
-107/121	NA	NA	- - - - - -
+107/121	NA	NA	-
 107/123	feir	1	f ei - - r -
 107/125	hitz	4	h i tz -
 107/127	fuihr	1	f uih - - r -
-107/129	NA	NA	- - - - - -
+107/129	NA	NA	-
 107/131	feia	1	f ei - a - -
 107/133	feia	1	f ei - a - -
 107/135	feia	1	f ei - a - -
@@ -5758,7 +5758,7 @@
 109/107	faier	1	f ai - e r -
 109/109	feuier	1	f eui - e r -
 109/111	foia	1	f oi - a - -
-109/113	NA	NA	- - - - - -
+109/113	NA	NA	-
 109/115	foja	1	f oj - a - -
 109/117	foier	1	f oi - e r -
 109/119	feuer	1	f eu - e r -
@@ -5776,14 +5776,14 @@
 110/039	füür	1	f üü - - r -
 110/041	füür	1	f üü - - r -
 110/043	fir	1	f i - - r -
-110/045	NA	NA	- - - - - -
+110/045	NA	NA	-
 110/047	fyr	1	f y - - r -
 110/049	für	1	f ü - - r -
-110/057	NA	NA	- - - - - -
+110/057	NA	NA	-
 110/061	für	1	f ü - - r -
 110/065	fir	1	f i - - r -
 110/075	fuir	1	f ui - - r -
-110/079	NA	NA	- - - - - -
+110/079	NA	NA	-
 110/081	fua	1	f u - a - -
 110/083	fuie	1	f ui - e - -
 110/087	foier	1	f oi - e r -
@@ -5795,7 +5795,7 @@
 110/099	faier	1	f ai - e r -
 110/101	foier	1	f oi - e r -
 110/105	foja	1	f oj - a - -
-110/107	NA	NA	- - - - - -
+110/107	NA	NA	-
 110/111	foja	1	f oj - a - -
 110/113	foiar	1	f oi - a r -
 110/115	fojr	1	f oj - - r -
@@ -5816,7 +5816,7 @@
 111/041	fuur	1	f uu - - r -
 111/043	fihr	1	f ih - - r -
 111/045	für	1	f ü - - r -
-111/059	NA	NA	- - - - - -
+111/059	NA	NA	-
 111/073	fuir	1	f ui - - r -
 111/075	fuir	1	f ui - - r -
 111/077	fuir	1	f ui - - r -
@@ -5844,9 +5844,9 @@
 112/059	füür	1	f üü - - r -
 112/061	für	1	f ü - - r -
 112/063	für	1	f ü - - r -
-112/075	NA	NA	- - - - - -
+112/075	NA	NA	-
 112/081	fuier	1	f ui - e r -
-112/083	NA	NA	- - - - - -
+112/083	NA	NA	-
 112/085	hitz	4	h i tz -
 112/111	feia	1	f ei - a - -
 112/115	fuer	1	f u - e r -
@@ -5873,19 +5873,19 @@
 115/083	fuier	1	f ui - e r -
 115/085	fuier	1	f ui - e r -
 116/043	fir	1	f i - - r -
-116/045	NA	NA	- - - - - -
+116/045	NA	NA	-
 116/083	faiar	1	f ai - a r -
 117/043	fir	1	f i - - r -
 117/045	fir	1	f i - - r -
 118/041	fier	1	f ie - - r -
 119/083	feür	1	f eü - - r -
-120/085	NA	NA	- - - - - -
-121/127	NA	NA	- - - - - -
-122/127	NA	NA	- - - - - -
-122/129	NA	NA	- - - - - -
+120/085	NA	NA	-
+121/127	NA	NA	-
+122/127	NA	NA	-
+122/129	NA	NA	-
 123/081	foir	1	f oi - - r -
-123/123	NA	NA	- - - - - -
-123/125	NA	NA	- - - - - -
+123/123	NA	NA	-
+123/125	NA	NA	-
 123/127	feier	1	f ei - e r -
 123/129	weiär	1	w ei - ä r -
 124/125	weiär	1	w ei - ä r -

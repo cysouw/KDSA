@@ -220,7 +220,7 @@ locations	strings	cognateID	alignments
 016/149	bät	1	b ä t
 016/151	bät	1	b ä t
 016/153	bät	1	b ä t
-016/155	NA	NA	- - - - - - -
+016/155	NA	NA	-
 016/157	bäth	1	b ä th
 016/159	bät	1	b ä t
 016/161	bät	1	b ä t
@@ -233,7 +233,7 @@ locations	strings	cognateID	alignments
 016/193	bet	1	b e t
 016/195	bet	1	b e t
 016/197	bät	1	b ä t
-016/199	NA	NA	- - - - - - -
+016/199	NA	NA	-
 016/201	bät	1	b ä t
 016/203	bät	1	b ä t
 016/205	bet	1	b e t
@@ -661,7 +661,7 @@ locations	strings	cognateID	alignments
 023/151	bät	1	b ä t
 023/153	bedt	1	b e dt
 023/155	bät	1	b ä t
-023/165	NA	NA	- - - - - - -
+023/165	NA	NA	-
 023/167	bet	1	b e t
 023/169	bet	1	b e t
 023/175	bet	1	b e t
@@ -1240,7 +1240,7 @@ locations	strings	cognateID	alignments
 031/163	bät	1	b ä t
 031/167	bet	1	b e t
 031/169	bess	1	b e ss
-031/171	NA	NA	- - - - - - -
+031/171	NA	NA	-
 031/173	bess	1	b e ss
 031/175	annes	2	a nn - e - - s -
 031/177	bäät	1	b ää t
@@ -2018,7 +2018,7 @@ locations	strings	cognateID	alignments
 044/053	bed	1	b e d
 044/055	bät	1	b ä t
 044/057	bäät	1	b ää t
-044/059	NA	NA	- - - - - - -
+044/059	NA	NA	-
 044/061	biät	1	b iä t
 044/063	bät	1	b ä t
 044/065	bät	1	b ä t
@@ -2379,7 +2379,7 @@ locations	strings	cognateID	alignments
 050/041	biätt	1	b iä tt
 050/043	biät	1	b iä t
 050/047	biät	1	b iä t
-050/049	NA	NA	- - - - - - -
+050/049	NA	NA	-
 050/051	biätt	1	b iä tt
 050/053	biät	1	b iä t
 050/055	biat	1	b ia t
@@ -2884,7 +2884,7 @@ locations	strings	cognateID	alignments
 057/097	bess	1	b e ss
 057/099	bess	1	b e ss
 057/101	bess	1	b e ss
-057/103	NA	NA	- - - - - - -
+057/103	NA	NA	-
 057/105	bess	1	b e ss
 057/107	bess	1	b e ss
 057/109	bess	1	b e ss
@@ -2912,7 +2912,7 @@ locations	strings	cognateID	alignments
 057/153	bess	1	b e ss
 057/155	bess	1	b e ss
 057/157	bess	1	b e ss
-057/159	NA	NA	- - - - - - -
+057/159	NA	NA	-
 057/161	bess	1	b e ss
 058/019	bäet	1	b äe t
 058/021	bäht	1	b äh t
@@ -3640,7 +3640,7 @@ locations	strings	cognateID	alignments
 068/151	bess	1	b e ss
 068/153	bess	1	b e ss
 068/155	bäss	1	b ä ss
-068/157	NA	NA	- - - - - - -
+068/157	NA	NA	-
 068/159	bäss	1	b ä ss
 068/161	bess	1	b e ss
 068/165	bess	1	b e ss
@@ -3733,7 +3733,7 @@ locations	strings	cognateID	alignments
 070/083	bess	1	b e ss
 070/085	bess	1	b e ss
 070/087	bess	1	b e ss
-070/089	NA	NA	- - - - - - -
+070/089	NA	NA	-
 070/091	bess	1	b e ss
 070/093	bess	1	b e ss
 070/095	bess	1	b e ss
@@ -4039,7 +4039,7 @@ locations	strings	cognateID	alignments
 075/159	bess	1	b e ss
 075/161	bess	1	b e ss
 075/163	bess	1	b e ss
-075/165	NA	NA	- - - - - - -
+075/165	NA	NA	-
 076/019	bess	1	b e ss
 076/021	bess	1	b e ss
 076/023	bess	1	b e ss
@@ -4539,7 +4539,7 @@ locations	strings	cognateID	alignments
 085/117	beiss	1	b ei ss
 085/119	beiss	1	b ei ss
 085/121	bäiss	1	b äi ss
-085/123	NA	NA	- - - - - - -
+085/123	NA	NA	-
 085/125	beiss	1	b ei ss
 085/127	bess	1	b e ss
 085/129	bess	1	b e ss
@@ -4988,7 +4988,7 @@ locations	strings	cognateID	alignments
 093/079	bess	1	b e ss
 093/081	böss	1	b ö ss
 093/083	böss	1	b ö ss
-093/085	NA	NA	- - - - - - -
+093/085	NA	NA	-
 093/087	bess	1	b e ss
 093/089	bess	1	b e ss
 093/091	bess	1	b e ss
@@ -5172,7 +5172,7 @@ locations	strings	cognateID	alignments
 096/087	bess	1	b e ss
 096/089	böss	1	b ö ss
 096/091	bess	1	b e ss
-096/093	NA	NA	- - - - - - -
+096/093	NA	NA	-
 096/095	bess	1	b e ss
 096/097	bess	1	b e ss
 096/099	bös	1	b ö s
@@ -5372,7 +5372,7 @@ locations	strings	cognateID	alignments
 100/083	böss	1	b ö ss
 100/089	böss	1	b ö ss
 100/093	böss	1	b ö ss
-100/095	NA	NA	- - - - - - -
+100/095	NA	NA	-
 100/097	bess	1	b e ss
 100/099	böss	1	b ö ss
 100/101	böss	1	b ö ss
@@ -5424,7 +5424,7 @@ locations	strings	cognateID	alignments
 101/109	bess	1	b e ss
 101/113	bess	1	b e ss
 101/115	bess	1	b e ss
-101/121	NA	NA	- - - - - - -
+101/121	NA	NA	-
 101/125	bess	1	b e ss
 101/129	bess	1	b e ss
 101/131	bess	1	b e ss
@@ -5687,7 +5687,7 @@ locations	strings	cognateID	alignments
 107/123	bess	1	b e ss
 107/125	pees	1	p ee s
 107/127	beiss	1	b ei ss
-107/129	NA	NA	- - - - - - -
+107/129	NA	NA	-
 107/131	bess	1	b e ss
 107/133	bess	1	b e ss
 107/135	bäiss	1	b äi ss
@@ -5753,7 +5753,7 @@ locations	strings	cognateID	alignments
 109/095	ondoscht	2	o n d o - - sch t
 109/097	böss	1	b ö ss
 109/099	böss	1	b ö ss
-109/101	NA	NA	- - - - - - -
+109/101	NA	NA	-
 109/103	bess	1	b e ss
 109/107	bös	1	b ö s
 109/109	bös	1	b ö s
@@ -5761,7 +5761,7 @@ locations	strings	cognateID	alignments
 109/113	bös	1	b ö s
 109/115	bejs	1	b ej s
 109/117	bees	1	b ee s
-109/119	NA	NA	- - - - - - -
+109/119	NA	NA	-
 109/121	bess	1	b e ss
 109/123	bös	1	b ö s
 109/125	bes	1	b e s
@@ -5830,7 +5830,7 @@ locations	strings	cognateID	alignments
 111/109	bess	1	b e ss
 111/111	bös	1	b ö s
 111/113	bäs	1	b ä s
-111/115	NA	NA	- - - - - - -
+111/115	NA	NA	-
 111/117	bess	1	b e ss
 111/119	pees	1	p ee s
 111/121	bes	1	b e s
@@ -5883,7 +5883,7 @@ locations	strings	cognateID	alignments
 121/127	pess	1	p e ss
 122/127	pess	1	p e ss
 122/129	pess	1	p e ss
-123/081	NA	NA	- - - - - - -
+123/081	NA	NA	-
 123/123	pess	1	p e ss
 123/125	pess	1	p e ss
 123/127	pess	1	p e ss

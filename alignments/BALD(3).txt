@@ -23,12 +23,12 @@ locations	strings	cognateID	alignments
 008/213	bool	1	b oo l - -
 009/199	bool	1	b oo l - -
 009/203	bool	1	b oo l - -
-009/207	NA	NA	- - - - - - - - - -
+009/207	NA	NA	-
 009/209	bool	1	b oo l - -
 009/211	bool	1	b oo l - -
 009/213	bohl	1	b oh l - -
 009/215	bol	1	b o l - -
-009/217	NA	NA	- - - - - - - - - -
+009/217	NA	NA	-
 010/195	bohl	1	b oh l - -
 010/203	bol	1	b o l - -
 010/207	bold	1	b o l d -
@@ -39,15 +39,15 @@ locations	strings	cognateID	alignments
 010/217	bol	1	b o l - -
 010/219	bol	1	b o l - -
 011/049	bal	1	b a l - -
-011/053	snar	NA	- s n a r - - - - -
-011/055	snar	NA	- s n a r - - - - -
-011/057	snart	NA	- s n a r t - - - -
-011/059	snart	NA	- s n a r t - - - -
-011/061	snart	NA	- s n a r t - - - -
-011/063	snart	NA	- s n a r t - - - -
-011/065	snart	NA	- s n a r t - - - -
-011/067	snart	NA	- s n a r t - - - -
-011/069	NA	NA	- - - - - - - - - -
+011/053	snar	NA	-
+011/055	snar	NA	-
+011/057	snart	NA	-
+011/059	snart	NA	-
+011/061	snart	NA	-
+011/063	snart	NA	-
+011/065	snart	NA	-
+011/067	snart	NA	-
+011/069	NA	NA	-
 011/187	bold	1	b o l d -
 011/189	bol	1	b o l - -
 011/191	bool	1	b oo l - -
@@ -65,15 +65,15 @@ locations	strings	cognateID	alignments
 012/047	bald	1	b a l d -
 012/049	ball	1	b a ll - -
 012/051	ball	1	b a ll - -
-012/053	snar	NA	- s n a r - - - - -
-012/055	NA	NA	- - - - - - - - - -
-012/057	snart	NA	- s n a r t - - - -
-012/059	snart	NA	- s n a r t - - - -
-012/061	snart	NA	- s n a r t - - - -
-012/063	NA	NA	- - - - - - - - - -
-012/065	snart	NA	- s n a r t - - - -
-012/067	snat	NA	- s n a - t - - - -
-012/069	snat	NA	- s n a - t - - - -
+012/053	snar	NA	-
+012/055	NA	NA	-
+012/057	snart	NA	-
+012/059	snart	NA	-
+012/061	snart	NA	-
+012/063	NA	NA	-
+012/065	snart	NA	-
+012/067	snat	NA	-
+012/069	snat	NA	-
 012/187	bolt	1	b o l t -
 012/189	bohl	1	b oh l - -
 012/191	bold	1	b o l d -
@@ -96,9 +96,9 @@ locations	strings	cognateID	alignments
 013/051	ball	1	b a ll - -
 013/053	baal	1	b aa l - -
 013/055	ball	1	b a ll - -
-013/057	snart	NA	- s n a r t - - - -
-013/059	snaart	NA	- s n aa r t - - - -
-013/061	NA	NA	- - - - - - - - - -
+013/057	snart	NA	-
+013/059	snaart	NA	-
+013/061	NA	NA	-
 013/063	gau	5	g au
 013/065	bald	1	b a l d -
 013/067	bald	1	b a l d -
@@ -112,7 +112,7 @@ locations	strings	cognateID	alignments
 013/193	bold	1	b o l d -
 013/195	boold	1	b oo l d -
 013/197	bohl	1	b oh l - -
-013/199	NA	NA	- - - - - - - - - -
+013/199	NA	NA	-
 013/201	bol	1	b o l - -
 013/203	bol	1	b o l - -
 013/207	bool	1	b oo l - -
@@ -145,7 +145,7 @@ locations	strings	cognateID	alignments
 014/187	boold	1	b oo l d -
 014/189	bold	1	b o l d -
 014/191	bold	1	b o l d -
-014/193	NA	NA	- - - - - - - - - -
+014/193	NA	NA	-
 014/195	boold	1	b oo l d -
 014/197	bold	1	b o l d -
 014/199	bohl	1	b oh l - -
@@ -202,7 +202,7 @@ locations	strings	cognateID	alignments
 015/219	bold	1	b o l d -
 015/221	bool	1	b oo l - -
 016/051	balla	1	b a ll - a
-016/055	NA	NA	- - - - - - - - - -
+016/055	NA	NA	-
 016/057	bald	1	b a l d -
 016/059	bald	1	b a l d -
 016/061	bald	1	b a l d -
@@ -356,7 +356,7 @@ locations	strings	cognateID	alignments
 019/067	bald	1	b a l d -
 019/069	bald	1	b a l d -
 019/071	bald	1	b a l d -
-019/073	NA	NA	- - - - - - - - - -
+019/073	NA	NA	-
 019/075	bald	1	b a l d -
 019/077	bald	1	b a l d -
 019/079	bald	1	b a l d -
@@ -500,12 +500,12 @@ locations	strings	cognateID	alignments
 021/109	bald	1	b a l d -
 021/111	gliek	2	g l ie k
 021/113	bal	1	b a l - -
-021/131	NA	NA	- - - - - - - - - -
+021/131	NA	NA	-
 021/133	ball	1	b a ll - -
-021/135	NA	NA	- - - - - - - - - -
+021/135	NA	NA	-
 021/137	ball	1	b a ll - -
 021/139	ball	1	b a ll - -
-021/141	NA	NA	- - - - - - - - - -
+021/141	NA	NA	-
 021/143	bal	1	b a l - -
 021/145	ball	1	b a ll - -
 021/147	bull	1	b u ll - -
@@ -514,7 +514,7 @@ locations	strings	cognateID	alignments
 021/153	glik	2	g l i k
 021/155	bull	1	b u ll - -
 021/157	boll	1	b o ll - -
-021/159	NA	NA	- - - - - - - - - -
+021/159	NA	NA	-
 021/163	bull	1	b u ll - -
 021/165	bol	1	b o l - -
 021/167	bul	1	b u l - -
@@ -551,7 +551,7 @@ locations	strings	cognateID	alignments
 022/067	bald	1	b a l d -
 022/069	bald	1	b a l d -
 022/071	bald	1	b a l d -
-022/073	flink	NA	- f l i n k - - - -
+022/073	flink	NA	-
 022/075	bald	1	b a l d -
 022/077	bald	1	b a l d -
 022/087	ball	1	b a ll - -
@@ -575,7 +575,7 @@ locations	strings	cognateID	alignments
 022/133	ball	1	b a ll - -
 022/135	ball	1	b a ll - -
 022/137	ball	1	b a ll - -
-022/139	NA	NA	- - - - - - - - - -
+022/139	NA	NA	-
 022/141	ball	1	b a ll - -
 022/143	ball	1	b a ll - -
 022/145	ball	1	b a ll - -
@@ -615,10 +615,10 @@ locations	strings	cognateID	alignments
 023/055	bald	1	b a l d -
 023/059	bald	1	b a l d -
 023/061	bald	1	b a l d -
-023/063	NA	NA	- - - - - - - - - -
+023/063	NA	NA	-
 023/065	bald	1	b a l d -
 023/067	bald	1	b a l d -
-023/069	NA	NA	- - - - - - - - - -
+023/069	NA	NA	-
 023/071	bald	1	b a l d -
 023/073	bald	1	b a l d -
 023/075	bald	1	b a l d -
@@ -627,10 +627,10 @@ locations	strings	cognateID	alignments
 023/081	bald	1	b a l d -
 023/083	bald	1	b a l d -
 023/085	bald	1	b a l d -
-023/087	NA	NA	- - - - - - - - - -
+023/087	NA	NA	-
 023/089	bal	1	b a l - -
 023/091	bald	1	b a l d -
-023/093	NA	NA	- - - - - - - - - -
+023/093	NA	NA	-
 023/095	bald	1	b a l d -
 023/097	bald	1	b a l d -
 023/099	gliek	2	g l ie k
@@ -677,7 +677,7 @@ locations	strings	cognateID	alignments
 023/195	bahl	1	b ah l - -
 023/197	bal	1	b a l - -
 023/199	bohl	1	b oh l - -
-023/201	NA	NA	- - - - - - - - - -
+023/201	NA	NA	-
 023/203	bol	1	b o l - -
 023/205	bol	1	b o l - -
 023/207	bohl	1	b oh l - -
@@ -689,7 +689,7 @@ locations	strings	cognateID	alignments
 024/061	bald	1	b a l d -
 024/063	bald	1	b a l d -
 024/065	bald	1	b a l d -
-024/067	NA	NA	- - - - - - - - - -
+024/067	NA	NA	-
 024/069	bald	1	b a l d -
 024/071	bald	1	b a l d -
 024/073	bald	1	b a l d -
@@ -710,7 +710,7 @@ locations	strings	cognateID	alignments
 024/103	bald	1	b a l d -
 024/105	bal	1	b a l - -
 024/107	ball	1	b a ll - -
-024/109	NA	NA	- - - - - - - - - -
+024/109	NA	NA	-
 024/111	bald	1	b a l d -
 024/113	ball	1	b a ll - -
 024/115	bald	1	b a l d -
@@ -720,7 +720,7 @@ locations	strings	cognateID	alignments
 024/123	ball	1	b a ll - -
 024/125	ball	1	b a ll - -
 024/127	ball	1	b a ll - -
-024/129	NA	NA	- - - - - - - - - -
+024/129	NA	NA	-
 024/131	ball	1	b a ll - -
 024/133	ball	1	b a ll - -
 024/135	ball	1	b a ll - -
@@ -741,7 +741,7 @@ locations	strings	cognateID	alignments
 024/171	boll	1	b o ll - -
 024/175	bold	1	b o l d -
 024/179	balt	1	b a l t -
-024/181	NA	NA	- - - - - - - - - -
+024/181	NA	NA	-
 024/183	bal	1	b a l - -
 024/185	bald	1	b a l d -
 024/187	bald	1	b a l d -
@@ -751,7 +751,7 @@ locations	strings	cognateID	alignments
 024/195	bahl	1	b ah l - -
 024/197	baal	1	b aa l - -
 024/199	bal	1	b a l - -
-024/201	NA	NA	- - - - - - - - - -
+024/201	NA	NA	-
 024/203	bol	1	b o l - -
 024/217	bol	1	b o l - -
 024/221	bohl	1	b oh l - -
@@ -766,7 +766,7 @@ locations	strings	cognateID	alignments
 025/065	bald	1	b a l d -
 025/067	bald	1	b a l d -
 025/069	bald	1	b a l d -
-025/071	NA	NA	- - - - - - - - - -
+025/071	NA	NA	-
 025/073	bald	1	b a l d -
 025/075	bald	1	b a l d -
 025/077	bald	1	b a l d -
@@ -784,7 +784,7 @@ locations	strings	cognateID	alignments
 025/103	bald	1	b a l d -
 025/105	ball	1	b a ll - -
 025/107	ball	1	b a ll - -
-025/109	NA	NA	- - - - - - - - - -
+025/109	NA	NA	-
 025/111	ball	1	b a ll - -
 025/113	ball	1	b a ll - -
 025/115	bald	1	b a l d -
@@ -822,10 +822,10 @@ locations	strings	cognateID	alignments
 026/043	boll	1	b o ll - -
 026/045	boll	1	b o ll - -
 026/051	bald	1	b a l d -
-026/053	NA	NA	- - - - - - - - - -
+026/053	NA	NA	-
 026/055	bald	1	b a l d -
 026/057	bald	1	b a l d -
-026/059	NA	NA	- - - - - - - - - -
+026/059	NA	NA	-
 026/061	bald	1	b a l d -
 026/063	bald	1	b a l d -
 026/065	bald	1	b a l d -
@@ -881,7 +881,7 @@ locations	strings	cognateID	alignments
 026/179	bald	1	b a l d -
 026/181	bald	1	b a l d -
 026/183	bald	1	b a l d -
-026/185	NA	NA	- - - - - - - - - -
+026/185	NA	NA	-
 026/187	bald	1	b a l d -
 026/189	bald	1	b a l d -
 027/027	gau	5	g au
@@ -898,12 +898,12 @@ locations	strings	cognateID	alignments
 027/057	bald	1	b a l d -
 027/059	bald	1	b a l d -
 027/061	bald	1	b a l d -
-027/063	NA	NA	- - - - - - - - - -
+027/063	NA	NA	-
 027/065	bald	1	b a l d -
 027/067	bald	1	b a l d -
 027/069	bald	1	b a l d -
 027/071	bald	1	b a l d -
-027/073	flink	NA	- f l i n k - - - -
+027/073	flink	NA	-
 027/075	bald	1	b a l d -
 027/077	balt	1	b a l t -
 027/079	bald	1	b a l d -
@@ -945,7 +945,7 @@ locations	strings	cognateID	alignments
 027/157	bull	1	b u ll - -
 027/159	boll	1	b o ll - -
 027/161	bol	1	b o l - -
-027/167	NA	NA	- - - - - - - - - -
+027/167	NA	NA	-
 027/171	bol	1	b o l - -
 027/173	boll	1	b o ll - -
 027/175	bol	1	b o l - -
@@ -953,15 +953,15 @@ locations	strings	cognateID	alignments
 027/179	boll	1	b o ll - -
 027/181	bol	1	b o l - -
 027/183	bald	1	b a l d -
-027/185	NA	NA	- - - - - - - - - -
+027/185	NA	NA	-
 028/033	bol	1	b o l - -
 028/035	bold	1	b o l d -
 028/037	bolt	1	b o l t -
-028/039	NA	NA	- - - - - - - - - -
+028/039	NA	NA	-
 028/041	bol	1	b o l - -
 028/043	bolt	1	b o l t -
 028/045	boll	1	b o ll - -
-028/047	NA	NA	- - - - - - - - - -
+028/047	NA	NA	-
 028/049	bold	1	b o l d -
 028/051	bolt	1	b o l t -
 028/053	bald	1	b a l d -
@@ -996,7 +996,7 @@ locations	strings	cognateID	alignments
 028/113	bald	1	b a l d -
 028/115	ball	1	b a ll - -
 028/117	bald	1	b a l d -
-028/119	NA	NA	- - - - - - - - - -
+028/119	NA	NA	-
 028/121	ball	1	b a ll - -
 028/123	ball	1	b a ll - -
 028/125	bald	1	b a l d -
@@ -1022,7 +1022,7 @@ locations	strings	cognateID	alignments
 028/171	bohl	1	b oh l - -
 028/173	boll	1	b o ll - -
 028/175	boll	1	b o ll - -
-028/177	NA	NA	- - - - - - - - - -
+028/177	NA	NA	-
 028/179	bol	1	b o l - -
 028/181	bald	1	b a l d -
 028/183	bald	1	b a l d -
@@ -1092,7 +1092,7 @@ locations	strings	cognateID	alignments
 029/161	bull	1	b u ll - -
 029/163	bull	1	b u ll - -
 029/165	bull	1	b u ll - -
-029/167	NA	NA	- - - - - - - - - -
+029/167	NA	NA	-
 029/169	bul	1	b u l - -
 029/171	boll	1	b o ll - -
 029/173	boll	1	b o ll - -
@@ -1150,11 +1150,11 @@ locations	strings	cognateID	alignments
 030/133	bal	1	b a l - -
 030/135	baal	1	b aa l - -
 030/137	bal	1	b a l - -
-030/139	NA	NA	- - - - - - - - - -
-030/141	NA	NA	- - - - - - - - - -
+030/139	NA	NA	-
+030/141	NA	NA	-
 030/143	bal	1	b a l - -
 030/145	ball	1	b a ll - -
-030/147	NA	NA	- - - - - - - - - -
+030/147	NA	NA	-
 030/149	ball	1	b a ll - -
 030/151	ball	1	b a ll - -
 030/153	bal	1	b a l - -
@@ -1169,7 +1169,7 @@ locations	strings	cognateID	alignments
 030/171	bol	1	b o l - -
 030/173	boll	1	b o ll - -
 030/175	boll	1	b o ll - -
-030/177	NA	NA	- - - - - - - - - -
+030/177	NA	NA	-
 030/179	boal	1	b oa l - -
 030/181	bol	1	b o l - -
 030/183	gliek	2	g l ie k
@@ -1195,7 +1195,7 @@ locations	strings	cognateID	alignments
 031/073	bald	1	b a l d -
 031/075	bald	1	b a l d -
 031/077	bald	1	b a l d -
-031/079	NA	NA	- - - - - - - - - -
+031/079	NA	NA	-
 031/081	bald	1	b a l d -
 031/083	bald	1	b a l d -
 031/085	bald	1	b a l d -
@@ -1227,13 +1227,13 @@ locations	strings	cognateID	alignments
 031/137	baal	1	b aa l - -
 031/139	bahl	1	b ah l - -
 031/141	bal	1	b a l - -
-031/143	rasch	NA	- r a sch - - - - - -
+031/143	rasch	NA	-
 031/145	ball	1	b a ll - -
 031/147	ball	1	b a ll - -
 031/149	ball	1	b a ll - -
 031/151	ball	1	b a ll - -
 031/153	ball	1	b a ll - -
-031/155	NA	NA	- - - - - - - - - -
+031/155	NA	NA	-
 031/157	bull	1	b u ll - -
 031/159	ball	1	b a ll - -
 031/161	ball	1	b a ll - -
@@ -1243,7 +1243,7 @@ locations	strings	cognateID	alignments
 031/171	bald	1	b a l d -
 031/173	bald	1	b a l d -
 031/175	boll	1	b o ll - -
-031/177	stracks	NA	- s t r a ck s - - -
+031/177	stracks	NA	-
 031/179	bul	1	b u l - -
 032/035	bol	1	b o l - -
 032/037	gau	5	g au
@@ -1252,10 +1252,10 @@ locations	strings	cognateID	alignments
 032/043	baoll	1	b ao ll - -
 032/045	bold	1	b o l d -
 032/047	bold	1	b o l d -
-032/049	NA	NA	- - - - - - - - - -
+032/049	NA	NA	-
 032/051	bold	1	b o l d -
 032/053	bald	1	b a l d -
-032/055	NA	NA	- - - - - - - - - -
+032/055	NA	NA	-
 032/057	bald	1	b a l d -
 032/059	bald	1	b a l d -
 032/061	bald	1	b a l d -
@@ -1281,7 +1281,7 @@ locations	strings	cognateID	alignments
 032/105	bald	1	b a l d -
 032/107	bald	1	b a l d -
 032/111	bald	1	b a l d -
-032/113	NA	NA	- - - - - - - - - -
+032/113	NA	NA	-
 032/115	ball	1	b a ll - -
 032/117	ball	1	b a ll - -
 032/119	bald	1	b a l d -
@@ -1309,7 +1309,7 @@ locations	strings	cognateID	alignments
 032/169	ball	1	b a ll - -
 032/171	ball	1	b a ll - -
 032/173	bald	1	b a l d -
-032/175	strak	NA	- s t r a k - - - -
+032/175	strak	NA	-
 032/177	boll	1	b o ll - -
 032/179	bull	1	b u ll - -
 032/181	boll	1	b o ll - -
@@ -1317,7 +1317,7 @@ locations	strings	cognateID	alignments
 033/035	boll	1	b o ll - -
 033/037	bol	1	b o l - -
 033/039	gau	5	g au
-033/041	grade	NA	- g r a d e - - - -
+033/041	grade	NA	-
 033/043	boll	1	b o ll - -
 033/045	bold	1	b o l d -
 033/047	bold	1	b o l d -
@@ -1334,7 +1334,7 @@ locations	strings	cognateID	alignments
 033/069	bald	1	b a l d -
 033/071	bald	1	b a l d -
 033/073	bald	1	b a l d -
-033/075	NA	NA	- - - - - - - - - -
+033/075	NA	NA	-
 033/077	bald	1	b a l d -
 033/079	bald	1	b a l d -
 033/081	bald	1	b a l d -
@@ -1380,11 +1380,11 @@ locations	strings	cognateID	alignments
 033/163	bull	1	b u ll - -
 033/165	boll	1	b o ll - -
 033/167	bol	1	b o l - -
-033/169	NA	NA	- - - - - - - - - -
+033/169	NA	NA	-
 033/173	bol	1	b o l - -
 033/175	boll	1	b o ll - -
 033/177	bol	1	b o l - -
-034/035	NA	NA	- - - - - - - - - -
+034/035	NA	NA	-
 034/039	bold	1	b o l d -
 034/041	bolt	1	b o l t -
 034/043	boll	1	b o ll - -
@@ -1395,7 +1395,7 @@ locations	strings	cognateID	alignments
 034/053	bold	1	b o l d -
 034/055	bolt	1	b o l t -
 034/057	bald	1	b a l d -
-034/059	NA	NA	- - - - - - - - - -
+034/059	NA	NA	-
 034/061	bald	1	b a l d -
 034/063	bald	1	b a l d -
 034/065	bald	1	b a l d -
@@ -1426,7 +1426,7 @@ locations	strings	cognateID	alignments
 034/115	bald	1	b a l d -
 034/117	bald	1	b a l d -
 034/119	ball	1	b a ll - -
-034/121	NA	NA	- - - - - - - - - -
+034/121	NA	NA	-
 034/125	lald	1	l a l d -
 034/127	bald	1	b a l d -
 034/129	ball	1	b a ll - -
@@ -1443,7 +1443,7 @@ locations	strings	cognateID	alignments
 034/151	ball	1	b a ll - -
 034/155	bal	1	b a l - -
 034/157	ball	1	b a ll - -
-034/161	NA	NA	- - - - - - - - - -
+034/161	NA	NA	-
 034/163	ball	1	b a ll - -
 034/165	bull	1	b u ll - -
 034/167	ball	1	b a ll - -
@@ -1474,7 +1474,7 @@ locations	strings	cognateID	alignments
 035/079	bald	1	b a l d -
 035/081	bald	1	b a l d -
 035/083	bald	1	b a l d -
-035/085	NA	NA	- - - - - - - - - -
+035/085	NA	NA	-
 035/087	bald	1	b a l d -
 035/089	bald	1	b a l d -
 035/091	bald	1	b a l d -
@@ -1506,13 +1506,13 @@ locations	strings	cognateID	alignments
 035/147	bal	1	b a l - -
 035/149	bal	1	b a l - -
 035/151	ball	1	b a ll - -
-035/153	NA	NA	- - - - - - - - - -
+035/153	NA	NA	-
 035/155	ball	1	b a ll - -
 035/157	ball	1	b a ll - -
 035/165	bal	1	b a l - -
 035/167	bull	1	b u ll - -
 035/169	boll	1	b o ll - -
-035/171	NA	NA	- - - - - - - - - -
+035/171	NA	NA	-
 035/173	boll	1	b o ll - -
 036/033	bold	1	b o l d -
 036/035	boll	1	b o ll - -
@@ -1522,7 +1522,7 @@ locations	strings	cognateID	alignments
 036/045	bold	1	b o l d -
 036/047	boll	1	b o ll - -
 036/049	goa	5	g oa
-036/051	NA	NA	- - - - - - - - - -
+036/051	NA	NA	-
 036/053	bolt	1	b o l t -
 036/055	boll	1	b o ll - -
 036/057	bald	1	b a l d -
@@ -1533,11 +1533,11 @@ locations	strings	cognateID	alignments
 036/067	bald	1	b a l d -
 036/069	gliek	2	g l ie k
 036/071	bald	1	b a l d -
-036/073	NA	NA	- - - - - - - - - -
+036/073	NA	NA	-
 036/075	bald	1	b a l d -
 036/077	bald	1	b a l d -
 036/079	bald	1	b a l d -
-036/081	öd	NA	- ö d - - - - - - -
+036/081	öd	NA	-
 036/083	bald	1	b a l d -
 036/085	bald	1	b a l d -
 036/087	bald	1	b a l d -
@@ -1576,16 +1576,16 @@ locations	strings	cognateID	alignments
 036/163	ball	1	b a ll - -
 036/165	boll	1	b o ll - -
 036/167	bold	1	b o l d -
-036/169	NA	NA	- - - - - - - - - -
+036/169	NA	NA	-
 036/171	bol	1	b o l - -
 037/033	bold	1	b o l d -
-037/035	stracks	NA	- s t r a ck s - - -
-037/037	NA	NA	- - - - - - - - - -
+037/035	stracks	NA	-
+037/037	NA	NA	-
 037/039	bald	1	b a l d -
 037/041	bold	1	b o l d -
 037/043	bold	1	b o l d -
 037/045	boll	1	b o ll - -
-037/047	NA	NA	- - - - - - - - - -
+037/047	NA	NA	-
 037/049	bold	1	b o l d -
 037/051	boll	1	b o ll - -
 037/053	boll	1	b o ll - -
@@ -1595,7 +1595,7 @@ locations	strings	cognateID	alignments
 037/061	bald	1	b a l d -
 037/063	bald	1	b a l d -
 037/065	bald	1	b a l d -
-037/067	NA	NA	- - - - - - - - - -
+037/067	NA	NA	-
 037/069	bald	1	b a l d -
 037/071	bald	1	b a l d -
 037/073	bald	1	b a l d -
@@ -1633,7 +1633,7 @@ locations	strings	cognateID	alignments
 037/139	ball	1	b a ll - -
 037/141	bal	1	b a l - -
 037/145	bahl	1	b ah l - -
-037/147	NA	NA	- - - - - - - - - -
+037/147	NA	NA	-
 037/149	bal	1	b a l - -
 037/151	bal	1	b a l - -
 037/153	baal	1	b aa l - -
@@ -1691,7 +1691,7 @@ locations	strings	cognateID	alignments
 038/125	ball	1	b a ll - -
 038/127	ball	1	b a ll - -
 038/129	bald	1	b a l d -
-038/131	NA	NA	- - - - - - - - - -
+038/131	NA	NA	-
 038/133	ball	1	b a ll - -
 038/135	bal	1	b a l - -
 038/145	baa	1	b aa - - -
@@ -1712,7 +1712,7 @@ locations	strings	cognateID	alignments
 039/041	bold	1	b o l d -
 039/043	bald	1	b a l d -
 039/045	boll	1	b o ll - -
-039/047	NA	NA	- - - - - - - - - -
+039/047	NA	NA	-
 039/049	boll	1	b o ll - -
 039/051	boll	1	b o ll - -
 039/053	boll	1	b o ll - -
@@ -1735,8 +1735,8 @@ locations	strings	cognateID	alignments
 039/087	bald	1	b a l d -
 039/089	bald	1	b a l d -
 039/091	bald	1	b a l d -
-039/093	NA	NA	- - - - - - - - - -
-039/095	NA	NA	- - - - - - - - - -
+039/093	NA	NA	-
+039/095	NA	NA	-
 039/097	ball	1	b a ll - -
 039/099	ball	1	b a ll - -
 039/101	bald	1	b a l d -
@@ -1849,7 +1849,7 @@ locations	strings	cognateID	alignments
 041/079	ball	1	b a ll - -
 041/081	bald	1	b a l d -
 041/083	bald	1	b a l d -
-041/085	NA	NA	- - - - - - - - - -
+041/085	NA	NA	-
 041/087	bald	1	b a l d -
 041/089	bald	1	b a l d -
 041/091	bald	1	b a l d -
@@ -1889,7 +1889,7 @@ locations	strings	cognateID	alignments
 042/037	bal	1	b a l - -
 042/039	bold	1	b o l d -
 042/041	baul	1	b au l - -
-042/043	NA	NA	- - - - - - - - - -
+042/043	NA	NA	-
 042/045	baul	1	b au l - -
 042/047	baul	1	b au l - -
 042/051	booaul	1	b ooau l - -
@@ -1951,8 +1951,8 @@ locations	strings	cognateID	alignments
 043/037	buol	1	b uo l - -
 043/039	boll	1	b o ll - -
 043/041	boll	1	b o ll - -
-043/043	NA	NA	- - - - - - - - - -
-043/045	NA	NA	- - - - - - - - - -
+043/043	NA	NA	-
+043/045	NA	NA	-
 043/047	bauhl	1	b auh l - -
 043/049	baul	1	b au l - -
 043/051	bäul	1	b äu l - -
@@ -1986,7 +1986,7 @@ locations	strings	cognateID	alignments
 043/107	ball	1	b a ll - -
 043/109	ball	1	b a ll - -
 043/111	bald	1	b a l d -
-043/113	NA	NA	- - - - - - - - - -
+043/113	NA	NA	-
 043/115	boll	1	b o ll - -
 043/117	boll	1	b o ll - -
 043/119	boll	1	b o ll - -
@@ -2012,7 +2012,7 @@ locations	strings	cognateID	alignments
 044/041	baul	1	b au l - -
 044/043	baul	1	b au l - -
 044/045	baul	1	b au l - -
-044/047	NA	NA	- - - - - - - - - -
+044/047	NA	NA	-
 044/049	baul	1	b au l - -
 044/051	baul	1	b au l - -
 044/053	baul	1	b au l - -
@@ -2066,7 +2066,7 @@ locations	strings	cognateID	alignments
 044/153	bald	1	b a l d -
 045/033	bol	1	b o l - -
 045/035	boll	1	b o ll - -
-045/037	NA	NA	- - - - - - - - - -
+045/037	NA	NA	-
 045/039	bohl	1	b oh l - -
 045/041	baold	1	b ao l d -
 045/043	baul	1	b au l - -
@@ -2125,14 +2125,14 @@ locations	strings	cognateID	alignments
 046/031	boll	1	b o ll - -
 046/033	boll	1	b o ll - -
 046/035	bold	1	b o l d -
-046/037	NA	NA	- - - - - - - - - -
+046/037	NA	NA	-
 046/039	bol	1	b o l - -
 046/041	baol	1	b ao l - -
 046/043	baul	1	b au l - -
-046/045	NA	NA	- - - - - - - - - -
+046/045	NA	NA	-
 046/047	baul	1	b au l - -
 046/049	baul	1	b au l - -
-046/051	NA	NA	- - - - - - - - - -
+046/051	NA	NA	-
 046/053	bäul	1	b äu l - -
 046/055	bäul	1	b äu l - -
 046/057	baul	1	b au l - -
@@ -2188,7 +2188,7 @@ locations	strings	cognateID	alignments
 047/041	boal	1	b oa l - -
 047/043	boll	1	b o ll - -
 047/045	baoll	1	b ao ll - -
-047/047	NA	NA	- - - - - - - - - -
+047/047	NA	NA	-
 047/049	baul	1	b au l - -
 047/051	baul	1	b au l - -
 047/053	bäul	1	b äu l - -
@@ -2313,12 +2313,12 @@ locations	strings	cognateID	alignments
 049/037	boll	1	b o ll - -
 049/039	bol	1	b o l - -
 049/041	boll	1	b o ll - -
-049/043	NA	NA	- - - - - - - - - -
-049/045	NA	NA	- - - - - - - - - -
+049/043	NA	NA	-
+049/045	NA	NA	-
 049/047	boll	1	b o ll - -
 049/049	boll	1	b o ll - -
-049/051	NA	NA	- - - - - - - - - -
-049/053	NA	NA	- - - - - - - - - -
+049/051	NA	NA	-
+049/053	NA	NA	-
 049/055	ball	1	b a ll - -
 049/057	ball	1	b a ll - -
 049/059	boall	1	b oa ll - -
@@ -2327,7 +2327,7 @@ locations	strings	cognateID	alignments
 049/065	ball	1	b a ll - -
 049/067	baul	1	b au l - -
 049/069	ball	1	b a ll - -
-049/071	NA	NA	- - - - - - - - - -
+049/071	NA	NA	-
 049/073	ball	1	b a ll - -
 049/077	bahl	1	b ah l - -
 049/079	bal	1	b a l - -
@@ -2351,7 +2351,7 @@ locations	strings	cognateID	alignments
 049/115	bald	1	b a l d -
 049/117	bald	1	b a l d -
 049/119	bald	1	b a l d -
-049/121	NA	NA	- - - - - - - - - -
+049/121	NA	NA	-
 049/123	bald	1	b a l d -
 049/125	bald	1	b a l d -
 049/127	bald	1	b a l d -
@@ -2366,7 +2366,7 @@ locations	strings	cognateID	alignments
 049/145	bahld	1	b ah l d -
 049/147	bal	1	b a l - -
 049/151	gleech	2	g l ee ch
-050/021	hoss	NA	- h o ss - - - - - -
+050/021	hoss	NA	-
 050/023	ball	1	b a ll - -
 050/025	bald	1	b a l d -
 050/027	gau	5	g au
@@ -2383,7 +2383,7 @@ locations	strings	cognateID	alignments
 050/051	ball	1	b a ll - -
 050/053	ball	1	b a ll - -
 050/055	ball	1	b a ll - -
-050/057	NA	NA	- - - - - - - - - -
+050/057	NA	NA	-
 050/059	ball	1	b a ll - -
 050/061	bahl	1	b ah l - -
 050/063	baal	1	b aa l - -
@@ -2435,7 +2435,7 @@ locations	strings	cognateID	alignments
 050/159	bald	1	b a l d -
 050/161	bald	1	b a l d -
 051/023	bald	1	b a l d -
-051/025	hoss	NA	- h o ss - - - - - -
+051/025	hoss	NA	-
 051/027	bald	1	b a l d -
 051/029	bold	1	b o l d -
 051/031	bold	1	b o l d -
@@ -2454,7 +2454,7 @@ locations	strings	cognateID	alignments
 051/057	ball	1	b a ll - -
 051/059	ball	1	b a ll - -
 051/061	ball	1	b a ll - -
-051/063	NA	NA	- - - - - - - - - -
+051/063	NA	NA	-
 051/065	bal	1	b a l - -
 051/067	bahl	1	b ah l - -
 051/069	baal	1	b aa l - -
@@ -2477,7 +2477,7 @@ locations	strings	cognateID	alignments
 051/103	bahl	1	b ah l - -
 051/105	bahl	1	b ah l - -
 051/107	bal	1	b a l - -
-051/109	NA	NA	- - - - - - - - - -
+051/109	NA	NA	-
 051/111	bald	1	b a l d -
 051/113	bahld	1	b ah l d -
 051/115	bald	1	b a l d -
@@ -2490,7 +2490,7 @@ locations	strings	cognateID	alignments
 051/129	bal	1	b a l - -
 051/131	bal	1	b a l - -
 051/133	bal	1	b a l - -
-051/135	NA	NA	- - - - - - - - - -
+051/135	NA	NA	-
 051/137	baald	1	b aa l d -
 051/139	baald	1	b aa l d -
 051/141	bal	1	b a l - -
@@ -2502,7 +2502,7 @@ locations	strings	cognateID	alignments
 051/153	bald	1	b a l d -
 051/155	bald	1	b a l d -
 051/157	bahld	1	b ah l d -
-052/023	morts	NA	- m o r t s - - - -
+052/023	morts	NA	-
 052/025	bald	1	b a l d -
 052/027	bahld	1	b ah l d -
 052/029	bald	1	b a l d -
@@ -2533,7 +2533,7 @@ locations	strings	cognateID	alignments
 052/081	bol	1	b o l - -
 052/083	bol	1	b o l - -
 052/085	bohl	1	b oh l - -
-052/087	NA	NA	- - - - - - - - - -
+052/087	NA	NA	-
 052/089	bahl	1	b ah l - -
 052/091	bahl	1	b ah l - -
 052/093	bal	1	b a l - -
@@ -2567,7 +2567,7 @@ locations	strings	cognateID	alignments
 052/151	baald	1	b aa l d -
 052/153	bald	1	b a l d -
 052/155	baald	1	b aa l d -
-052/157	NA	NA	- - - - - - - - - -
+052/157	NA	NA	-
 052/159	bald	1	b a l d -
 053/023	bold	1	b o l d -
 053/025	bald	1	b a l d -
@@ -2588,8 +2588,8 @@ locations	strings	cognateID	alignments
 053/055	boall	1	b oa ll - -
 053/057	ball	1	b a ll - -
 053/059	ball	1	b a ll - -
-053/061	NA	NA	- - - - - - - - - -
-053/063	NA	NA	- - - - - - - - - -
+053/061	NA	NA	-
+053/063	NA	NA	-
 053/065	bahl	1	b ah l - -
 053/067	bal	1	b a l - -
 053/069	bal	1	b a l - -
@@ -2615,7 +2615,7 @@ locations	strings	cognateID	alignments
 053/109	bahl	1	b ah l - -
 053/111	bahl	1	b ah l - -
 053/113	bald	1	b a l d -
-053/115	NA	NA	- - - - - - - - - -
+053/115	NA	NA	-
 053/121	bald	1	b a l d -
 053/123	bal	1	b a l - -
 053/125	bald	1	b a l d -
@@ -2623,7 +2623,7 @@ locations	strings	cognateID	alignments
 053/129	bal	1	b a l - -
 053/131	baal	1	b aa l - -
 053/133	baal	1	b aa l - -
-053/135	NA	NA	- - - - - - - - - -
+053/135	NA	NA	-
 053/137	bahl	1	b ah l - -
 053/139	bald	1	b a l d -
 053/141	bahld	1	b ah l d -
@@ -2636,12 +2636,12 @@ locations	strings	cognateID	alignments
 053/155	bahld	1	b ah l d -
 053/157	bahld	1	b ah l d -
 054/023	bold	1	b o l d -
-054/025	NA	NA	- - - - - - - - - -
+054/025	NA	NA	-
 054/027	bald	1	b a l d -
 054/029	bald	1	b a l d -
 054/031	boll	1	b o ll - -
 054/033	bol	1	b o l - -
-054/035	NA	NA	- - - - - - - - - -
+054/035	NA	NA	-
 054/037	boall	1	b oa ll - -
 054/039	boll	1	b o ll - -
 054/041	boll	1	b o ll - -
@@ -2675,7 +2675,7 @@ locations	strings	cognateID	alignments
 054/097	bald	1	b a l d -
 054/099	bahl	1	b ah l - -
 054/101	baal	1	b aa l - -
-054/103	NA	NA	- - - - - - - - - -
+054/103	NA	NA	-
 054/105	bahl	1	b ah l - -
 054/107	bahl	1	b ah l - -
 054/109	bal	1	b a l - -
@@ -2714,12 +2714,12 @@ locations	strings	cognateID	alignments
 055/035	boall	1	b oa ll - -
 055/037	boall	1	b oa ll - -
 055/039	boall	1	b oa ll - -
-055/041	NA	NA	- - - - - - - - - -
-055/043	NA	NA	- - - - - - - - - -
+055/041	NA	NA	-
+055/043	NA	NA	-
 055/045	boll	1	b o ll - -
 055/047	ball	1	b a ll - -
 055/049	ball	1	b a ll - -
-055/051	NA	NA	- - - - - - - - - -
+055/051	NA	NA	-
 055/053	ball	1	b a ll - -
 055/055	ball	1	b a ll - -
 055/057	ball	1	b a ll - -
@@ -2750,7 +2750,7 @@ locations	strings	cognateID	alignments
 055/107	bal	1	b a l - -
 055/109	bahl	1	b ah l - -
 055/111	bahl	1	b ah l - -
-055/113	NA	NA	- - - - - - - - - -
+055/113	NA	NA	-
 055/115	bal	1	b a l - -
 055/117	bald	1	b a l d -
 055/119	bal	1	b a l - -
@@ -2774,7 +2774,7 @@ locations	strings	cognateID	alignments
 055/159	bald	1	b a l d -
 055/161	bald	1	b a l d -
 056/021	gauw	5	g auw
-056/023	NA	NA	- - - - - - - - - -
+056/023	NA	NA	-
 056/025	bald	1	b a l d -
 056/027	bald	1	b a l d -
 056/029	baal	1	b aa l - -
@@ -2787,7 +2787,7 @@ locations	strings	cognateID	alignments
 056/043	ball	1	b a ll - -
 056/045	ball	1	b a ll - -
 056/047	ball	1	b a ll - -
-056/049	NA	NA	- - - - - - - - - -
+056/049	NA	NA	-
 056/051	ball	1	b a ll - -
 056/053	ball	1	b a ll - -
 056/055	ball	1	b a ll - -
@@ -2811,7 +2811,7 @@ locations	strings	cognateID	alignments
 056/091	bahl	1	b ah l - -
 056/093	bold	1	b o l d -
 056/095	bahl	1	b ah l - -
-056/097	NA	NA	- - - - - - - - - -
+056/097	NA	NA	-
 056/099	bal	1	b a l - -
 056/101	bual	1	b ua l - -
 056/103	bahl	1	b ah l - -
@@ -2838,25 +2838,25 @@ locations	strings	cognateID	alignments
 056/147	bal	1	b a l - -
 056/149	bal	1	b a l - -
 056/151	bal	1	b a l - -
-056/153	NA	NA	- - - - - - - - - -
-056/155	NA	NA	- - - - - - - - - -
+056/153	NA	NA	-
+056/155	NA	NA	-
 056/157	boald	1	b oa l d -
 056/159	bahld	1	b ah l d -
 056/161	bald	1	b a l d -
 057/021	bo	1	b o - - -
 057/023	ball	1	b a ll - -
 057/025	ball	1	b a ll - -
-057/027	NA	NA	- - - - - - - - - -
+057/027	NA	NA	-
 057/029	bahl	1	b ah l - -
 057/031	bahl	1	b ah l - -
 057/033	baul	1	b au l - -
 057/035	baal	1	b aa l - -
 057/037	bahl	1	b ah l - -
-057/039	NA	NA	- - - - - - - - - -
+057/039	NA	NA	-
 057/041	schwinde	4	- - sch w i n d e -
-057/043	eger	NA	- e g e r - - - - -
+057/043	eger	NA	-
 057/045	ball	1	b a ll - -
-057/047	NA	NA	- - - - - - - - - -
+057/047	NA	NA	-
 057/049	ball	1	b a ll - -
 057/051	bal	1	b a l - -
 057/053	ball	1	b a ll - -
@@ -2915,9 +2915,9 @@ locations	strings	cognateID	alignments
 057/159	baal	1	b aa l - -
 057/161	bald	1	b a l d -
 058/019	bau	1	b au - - -
-058/021	NA	NA	- - - - - - - - - -
-058/023	hoss	NA	- h o ss - - - - - -
-058/025	hos	NA	- h o s - - - - - -
+058/021	NA	NA	-
+058/023	hoss	NA	-
+058/025	hos	NA	-
 058/027	bal	1	b a l - -
 058/029	bahl	1	b ah l - -
 058/031	bal	1	b a l - -
@@ -2993,7 +2993,7 @@ locations	strings	cognateID	alignments
 059/029	bahl	1	b ah l - -
 059/031	bahl	1	b ah l - -
 059/033	bahl	1	b ah l - -
-059/035	NA	NA	- - - - - - - - - -
+059/035	NA	NA	-
 059/037	baal	1	b aa l - -
 059/039	bahl	1	b ah l - -
 059/041	balt	1	b a l t -
@@ -3020,8 +3020,8 @@ locations	strings	cognateID	alignments
 059/083	bäl	1	b ä l - -
 059/085	bold	1	b o l d -
 059/087	ball	1	b a ll - -
-059/089	NA	NA	- - - - - - - - - -
-059/091	NA	NA	- - - - - - - - - -
+059/089	NA	NA	-
+059/091	NA	NA	-
 059/093	ball	1	b a ll - -
 059/095	bal	1	b a l - -
 059/097	ball	1	b a ll - -
@@ -3058,7 +3058,7 @@ locations	strings	cognateID	alignments
 059/159	bald	1	b a l d -
 059/161	baald	1	b aa l d -
 059/165	bald	1	b a l d -
-059/169	NA	NA	- - - - - - - - - -
+059/169	NA	NA	-
 060/021	bau	1	b au - - -
 060/023	baal	1	b aa l - -
 060/025	baal	1	b aa l - -
@@ -3084,7 +3084,7 @@ locations	strings	cognateID	alignments
 060/065	ball	1	b a ll - -
 060/067	ball	1	b a ll - -
 060/069	ball	1	b a ll - -
-060/071	NA	NA	- - - - - - - - - -
+060/071	NA	NA	-
 060/073	ball	1	b a ll - -
 060/075	ball	1	b a ll - -
 060/077	bähl	1	b äh l - -
@@ -3097,7 +3097,7 @@ locations	strings	cognateID	alignments
 060/091	ball	1	b a ll - -
 060/093	ball	1	b a ll - -
 060/095	ball	1	b a ll - -
-060/097	NA	NA	- - - - - - - - - -
+060/097	NA	NA	-
 060/099	ball	1	b a ll - -
 060/101	ball	1	b a ll - -
 060/103	bal	1	b a l - -
@@ -3106,7 +3106,7 @@ locations	strings	cognateID	alignments
 060/109	bohl	1	b oh l - -
 060/111	bal	1	b a l - -
 060/113	bald	1	b a l d -
-060/115	NA	NA	- - - - - - - - - -
+060/115	NA	NA	-
 060/117	bald	1	b a l d -
 060/119	bald	1	b a l d -
 060/121	bald	1	b a l d -
@@ -3131,7 +3131,7 @@ locations	strings	cognateID	alignments
 060/163	bald	1	b a l d -
 060/165	bald	1	b a l d -
 061/021	bau	1	b au - - -
-061/023	NA	NA	- - - - - - - - - -
+061/023	NA	NA	-
 061/025	bahl	1	b ah l - -
 061/027	baal	1	b aa l - -
 061/029	bahl	1	b ah l - -
@@ -3146,12 +3146,12 @@ locations	strings	cognateID	alignments
 061/047	bal	1	b a l - -
 061/049	baal	1	b aa l - -
 061/051	bal	1	b a l - -
-061/053	NA	NA	- - - - - - - - - -
+061/053	NA	NA	-
 061/055	baal	1	b aa l - -
 061/057	bahl	1	b ah l - -
 061/059	bal	1	b a l - -
 061/061	baal	1	b aa l - -
-061/063	NA	NA	- - - - - - - - - -
+061/063	NA	NA	-
 061/065	ball	1	b a ll - -
 061/067	ball	1	b a ll - -
 061/069	ball	1	b a ll - -
@@ -3251,11 +3251,11 @@ locations	strings	cognateID	alignments
 062/115	bald	1	b a l d -
 062/117	ball	1	b a ll - -
 062/119	bald	1	b a l d -
-062/121	NA	NA	- - - - - - - - - -
+062/121	NA	NA	-
 062/123	bal	1	b a l - -
 062/125	baal	1	b aa l - -
-062/127	NA	NA	- - - - - - - - - -
-062/129	NA	NA	- - - - - - - - - -
+062/127	NA	NA	-
+062/129	NA	NA	-
 062/131	baal	1	b aa l - -
 062/133	bal	1	b a l - -
 062/135	baal	1	b aa l - -
@@ -3272,7 +3272,7 @@ locations	strings	cognateID	alignments
 062/157	bal	1	b a l - -
 062/159	bald	1	b a l d -
 062/161	baald	1	b aa l d -
-063/021	risch	NA	- r i sch - - - - - -
+063/021	risch	NA	-
 063/023	bahl	1	b ah l - -
 063/025	ball	1	b a ll - -
 063/027	bal	1	b a l - -
@@ -3283,7 +3283,7 @@ locations	strings	cognateID	alignments
 063/037	bal	1	b a l - -
 063/039	bahl	1	b ah l - -
 063/041	baal	1	b aa l - -
-063/043	NA	NA	- - - - - - - - - -
+063/043	NA	NA	-
 063/045	schwinn	4	- - sch w i nn - - -
 063/047	ball	1	b a ll - -
 063/049	baal	1	b aa l - -
@@ -3317,14 +3317,14 @@ locations	strings	cognateID	alignments
 063/105	ball	1	b a ll - -
 063/107	ball	1	b a ll - -
 063/109	ball	1	b a ll - -
-063/111	NA	NA	- - - - - - - - - -
+063/111	NA	NA	-
 063/113	ball	1	b a ll - -
 063/115	bald	1	b a l d -
 063/117	bald	1	b a l d -
-063/119	NA	NA	- - - - - - - - - -
+063/119	NA	NA	-
 063/121	bald	1	b a l d -
 063/123	baal	1	b aa l - -
-063/125	NA	NA	- - - - - - - - - -
+063/125	NA	NA	-
 063/127	bal	1	b a l - -
 063/135	bold	1	b o l d -
 063/137	bal	1	b a l - -
@@ -3355,7 +3355,7 @@ locations	strings	cognateID	alignments
 064/043	bal	1	b a l - -
 064/045	bal	1	b a l - -
 064/047	baal	1	b aa l - -
-064/049	NA	NA	- - - - - - - - - -
+064/049	NA	NA	-
 064/051	baal	1	b aa l - -
 064/053	bahl	1	b ah l - -
 064/055	bahl	1	b ah l - -
@@ -3367,7 +3367,7 @@ locations	strings	cognateID	alignments
 064/067	ball	1	b a ll - -
 064/069	boall	1	b oa ll - -
 064/071	ball	1	b a ll - -
-064/073	NA	NA	- - - - - - - - - -
+064/073	NA	NA	-
 064/075	ball	1	b a ll - -
 064/077	ball	1	b a ll - -
 064/079	bahl	1	b ah l - -
@@ -3377,8 +3377,8 @@ locations	strings	cognateID	alignments
 064/087	ball	1	b a ll - -
 064/089	ball	1	b a ll - -
 064/091	bal	1	b a l - -
-064/093	NA	NA	- - - - - - - - - -
-064/095	NA	NA	- - - - - - - - - -
+064/093	NA	NA	-
+064/095	NA	NA	-
 064/097	ball	1	b a ll - -
 064/099	ball	1	b a ll - -
 064/101	ball	1	b a ll - -
@@ -3391,8 +3391,8 @@ locations	strings	cognateID	alignments
 064/115	bal	1	b a l - -
 064/117	bald	1	b a l d -
 064/119	bald	1	b a l d -
-064/121	NA	NA	- - - - - - - - - -
-064/123	NA	NA	- - - - - - - - - -
+064/121	NA	NA	-
+064/123	NA	NA	-
 064/125	bald	1	b a l d -
 064/127	bal	1	b a l - -
 064/135	boll	1	b o ll - -
@@ -3402,13 +3402,13 @@ locations	strings	cognateID	alignments
 064/143	bal	1	b a l - -
 064/145	bal	1	b a l - -
 064/147	bal	1	b a l - -
-064/149	NA	NA	- - - - - - - - - -
+064/149	NA	NA	-
 064/151	bahl	1	b ah l - -
 064/153	bal	1	b a l - -
 064/155	bahl	1	b ah l - -
 064/157	bal	1	b a l - -
 064/159	bahl	1	b ah l - -
-065/021	NA	NA	- - - - - - - - - -
+065/021	NA	NA	-
 065/023	ball	1	b a ll - -
 065/025	bahl	1	b ah l - -
 065/027	bahl	1	b ah l - -
@@ -3436,7 +3436,7 @@ locations	strings	cognateID	alignments
 065/071	bal	1	b a l - -
 065/073	ball	1	b a ll - -
 065/075	bal	1	b a l - -
-065/077	NA	NA	- - - - - - - - - -
+065/077	NA	NA	-
 065/079	ball	1	b a ll - -
 065/081	ball	1	b a ll - -
 065/083	ball	1	b a ll - -
@@ -3446,14 +3446,14 @@ locations	strings	cognateID	alignments
 065/091	bald	1	b a l d -
 065/093	ball	1	b a ll - -
 065/095	ball	1	b a ll - -
-065/097	ost	NA	- o s t - - - - - -
+065/097	ost	NA	-
 065/101	ball	1	b a ll - -
 065/103	ball	1	b a ll - -
-065/105	NA	NA	- - - - - - - - - -
+065/105	NA	NA	-
 065/107	boll	1	b o ll - -
 065/109	boll	1	b o ll - -
 065/111	boll	1	b o ll - -
-065/113	NA	NA	- - - - - - - - - -
+065/113	NA	NA	-
 065/115	bald	1	b a l d -
 065/121	bald	1	b a l d -
 065/123	bald	1	b a l d -
@@ -3469,13 +3469,13 @@ locations	strings	cognateID	alignments
 065/157	bald	1	b a l d -
 065/159	bahl	1	b ah l - -
 066/021	bal	1	b a l - -
-066/023	NA	NA	- - - - - - - - - -
+066/023	NA	NA	-
 066/025	bahl	1	b ah l - -
-066/027	gäng	NA	- g ä ng - - - - - -
-066/029	jäng	NA	- j ä ng - - - - - -
+066/027	gäng	NA	-
+066/029	jäng	NA	-
 066/031	bal	1	b a l - -
 066/033	bahl	1	b ah l - -
-066/035	äs	NA	- ä s - - - - - - -
+066/035	äs	NA	-
 066/037	baal	1	b aa l - -
 066/039	bahl	1	b ah l - -
 066/041	bal	1	b a l - -
@@ -3490,17 +3490,17 @@ locations	strings	cognateID	alignments
 066/059	bahl	1	b ah l - -
 066/061	ball	1	b a ll - -
 066/063	ball	1	b a ll - -
-066/065	NA	NA	- - - - - - - - - -
+066/065	NA	NA	-
 066/067	bal	1	b a l - -
 066/069	ball	1	b a ll - -
-066/071	NA	NA	- - - - - - - - - -
+066/071	NA	NA	-
 066/073	bald	1	b a l d -
 066/075	ball	1	b a ll - -
 066/077	ball	1	b a ll - -
 066/079	bal	1	b a l - -
 066/081	ball	1	b a ll - -
 066/083	ball	1	b a ll - -
-066/085	olsig	NA	- o l s i g - - - -
+066/085	olsig	NA	-
 066/087	ball	1	b a ll - -
 066/089	boll	1	b o ll - -
 066/091	ball	1	b a ll - -
@@ -3528,7 +3528,7 @@ locations	strings	cognateID	alignments
 066/159	glei	2	g l ei -
 066/161	bald	1	b a l d -
 066/163	bald	1	b a l d -
-067/021	geng	NA	- g e ng - - - - - -
+067/021	geng	NA	-
 067/023	bahl	1	b ah l - -
 067/025	bal	1	b a l - -
 067/027	bahl	1	b ah l - -
@@ -3565,11 +3565,11 @@ locations	strings	cognateID	alignments
 067/089	ball	1	b a ll - -
 067/091	baald	1	b aa l d -
 067/093	bol	1	b o l - -
-067/095	NA	NA	- - - - - - - - - -
+067/095	NA	NA	-
 067/097	ball	1	b a ll - -
 067/099	baal	1	b aa l - -
 067/101	bool	1	b oo l - -
-067/103	NA	NA	- - - - - - - - - -
+067/103	NA	NA	-
 067/105	bol	1	b o l - -
 067/107	boll	1	b o ll - -
 067/109	bol	1	b o l - -
@@ -3588,9 +3588,9 @@ locations	strings	cognateID	alignments
 067/163	bald	1	b a l d -
 067/165	bald	1	b a l d -
 067/177	bal	1	b a l - -
-068/021	jäng	NA	- j ä ng - - - - - -
+068/021	jäng	NA	-
 068/023	baal	1	b aa l - -
-068/025	jäng	NA	- j ä ng - - - - - -
+068/025	jäng	NA	-
 068/027	bahl	1	b ah l - -
 068/029	bal	1	b a l - -
 068/031	bal	1	b a l - -
@@ -3599,16 +3599,16 @@ locations	strings	cognateID	alignments
 068/037	bal	1	b a l - -
 068/039	bal	1	b a l - -
 068/041	bal	1	b a l - -
-068/043	NA	NA	- - - - - - - - - -
+068/043	NA	NA	-
 068/045	bal	1	b a l - -
 068/047	bahl	1	b ah l - -
-068/049	NA	NA	- - - - - - - - - -
+068/049	NA	NA	-
 068/051	bahl	1	b ah l - -
 068/053	bahl	1	b ah l - -
 068/055	bahl	1	b ah l - -
 068/057	bahl	1	b ah l - -
 068/059	bahl	1	b ah l - -
-068/061	NA	NA	- - - - - - - - - -
+068/061	NA	NA	-
 068/063	ball	1	b a ll - -
 068/065	bal	1	b a l - -
 068/067	bald	1	b a l d -
@@ -3619,10 +3619,10 @@ locations	strings	cognateID	alignments
 068/077	ball	1	b a ll - -
 068/079	ball	1	b a ll - -
 068/081	bal	1	b a l - -
-068/083	NA	NA	- - - - - - - - - -
+068/083	NA	NA	-
 068/085	ball	1	b a ll - -
 068/087	ball	1	b a ll - -
-068/089	NA	NA	- - - - - - - - - -
+068/089	NA	NA	-
 068/091	bal	1	b a l - -
 068/093	bol	1	b o l - -
 068/095	bal	1	b a l - -
@@ -3630,7 +3630,7 @@ locations	strings	cognateID	alignments
 068/099	bol	1	b o l - -
 068/101	bol	1	b o l - -
 068/103	boal	1	b oa l - -
-068/105	NA	NA	- - - - - - - - - -
+068/105	NA	NA	-
 068/107	boi	1	b oi - - -
 068/109	boll	1	b o ll - -
 068/111	boll	1	b o ll - -
@@ -3638,22 +3638,22 @@ locations	strings	cognateID	alignments
 068/147	baal	1	b aa l - -
 068/149	bal	1	b a l - -
 068/151	baald	1	b aa l d -
-068/153	NA	NA	- - - - - - - - - -
+068/153	NA	NA	-
 068/155	glei	2	g l ei -
 068/157	glei	2	g l ei -
 068/159	bald	1	b a l d -
 068/161	baald	1	b aa l d -
 068/165	bald	1	b a l d -
 069/019	baal	1	b aa l - -
-069/023	NA	NA	- - - - - - - - - -
+069/023	NA	NA	-
 069/025	bal	1	b a l - -
-069/027	es	NA	- e s - - - - - - -
+069/027	es	NA	-
 069/029	bal	1	b a l - -
 069/031	bal	1	b a l - -
 069/033	baal	1	b aa l - -
 069/035	baal	1	b aa l - -
 069/037	ball	1	b a ll - -
-069/039	NA	NA	- - - - - - - - - -
+069/039	NA	NA	-
 069/041	bal	1	b a l - -
 069/043	bal	1	b a l - -
 069/045	baal	1	b aa l - -
@@ -3682,7 +3682,7 @@ locations	strings	cognateID	alignments
 069/091	bald	1	b a l d -
 069/093	ball	1	b a ll - -
 069/095	bol	1	b o l - -
-069/097	NA	NA	- - - - - - - - - -
+069/097	NA	NA	-
 069/099	bol	1	b o l - -
 069/101	boal	1	b oa l - -
 069/103	boll	1	b o ll - -
@@ -3702,9 +3702,9 @@ locations	strings	cognateID	alignments
 070/019	baal	1	b aa l - -
 070/023	bal	1	b a l - -
 070/025	bahl	1	b ah l - -
-070/027	sir	NA	- s i r - - - - - -
+070/027	sir	NA	-
 070/029	schwenn	4	- - sch w e nn - - -
-070/031	NA	NA	- - - - - - - - - -
+070/031	NA	NA	-
 070/033	bal	1	b a l - -
 070/035	ball	1	b a ll - -
 070/037	bal	1	b a l - -
@@ -3745,7 +3745,7 @@ locations	strings	cognateID	alignments
 070/107	bald	1	b a l d -
 070/109	boi	1	b oi - - -
 070/111	boi	1	b oi - - -
-070/145	NA	NA	- - - - - - - - - -
+070/145	NA	NA	-
 070/147	bal	1	b a l - -
 070/149	bal	1	b a l - -
 070/151	bald	1	b a l d -
@@ -3757,7 +3757,7 @@ locations	strings	cognateID	alignments
 070/163	bahl	1	b ah l - -
 070/165	bald	1	b a l d -
 071/017	geschwen	4	g e sch w e n - - -
-071/019	NA	NA	- - - - - - - - - -
+071/019	NA	NA	-
 071/021	baal	1	b aa l - -
 071/023	bal	1	b a l - -
 071/025	bal	1	b a l - -
@@ -3770,7 +3770,7 @@ locations	strings	cognateID	alignments
 071/039	ball	1	b a ll - -
 071/041	ball	1	b a ll - -
 071/043	ball	1	b a ll - -
-071/045	NA	NA	- - - - - - - - - -
+071/045	NA	NA	-
 071/047	ball	1	b a ll - -
 071/049	baal	1	b aa l - -
 071/051	baal	1	b aa l - -
@@ -3784,7 +3784,7 @@ locations	strings	cognateID	alignments
 071/069	ball	1	b a ll - -
 071/071	ball	1	b a ll - -
 071/073	bal	1	b a l - -
-071/075	NA	NA	- - - - - - - - - -
+071/075	NA	NA	-
 071/077	bal	1	b a l - -
 071/079	boll	1	b o ll - -
 071/081	bald	1	b a l d -
@@ -3794,7 +3794,7 @@ locations	strings	cognateID	alignments
 071/089	bald	1	b a l d -
 071/091	bal	1	b a l - -
 071/093	bal	1	b a l - -
-071/095	NA	NA	- - - - - - - - - -
+071/095	NA	NA	-
 071/097	bal	1	b a l - -
 071/099	bol	1	b o l - -
 071/101	pol	1	p o l - -
@@ -3804,7 +3804,7 @@ locations	strings	cognateID	alignments
 071/147	bold	1	b o l d -
 071/149	bal	1	b a l - -
 071/151	bold	1	b o l d -
-071/153	ender	NA	- e n d e r - - - -
+071/153	ender	NA	-
 071/155	böjd	1	b öj - d -
 071/157	boid	1	b oi - d -
 071/159	bald	1	b a l d -
@@ -3813,7 +3813,7 @@ locations	strings	cognateID	alignments
 071/177	baald	1	b aa l d -
 071/179	bald	1	b a l d -
 072/017	geschwen	4	g e sch w e n - - -
-072/019	huurteg	NA	- h uu r t e g - - -
+072/019	huurteg	NA	-
 072/021	baal	1	b aa l - -
 072/023	geschwen	4	g e sch w e n - - -
 072/025	bal	1	b a l - -
@@ -3822,7 +3822,7 @@ locations	strings	cognateID	alignments
 072/031	baal	1	b aa l - -
 072/033	baal	1	b aa l - -
 072/035	bal	1	b a l - -
-072/037	hordig	NA	- h o r d i g - - -
+072/037	hordig	NA	-
 072/039	ball	1	b a ll - -
 072/041	ball	1	b a ll - -
 072/043	bald	1	b a l d -
@@ -3830,7 +3830,7 @@ locations	strings	cognateID	alignments
 072/047	ball	1	b a ll - -
 072/049	bahl	1	b ah l - -
 072/051	boald	1	b oa l d -
-072/053	NA	NA	- - - - - - - - - -
+072/053	NA	NA	-
 072/055	bohl	1	b oh l - -
 072/057	bal	1	b a l - -
 072/059	baal	1	b aa l - -
@@ -3868,7 +3868,7 @@ locations	strings	cognateID	alignments
 072/159	bald	1	b a l d -
 072/161	bald	1	b a l d -
 072/177	bald	1	b a l d -
-072/179	NA	NA	- - - - - - - - - -
+072/179	NA	NA	-
 072/181	geschwind	4	g e sch w i n d - -
 073/017	geschwen	4	g e sch w e n - - -
 073/019	geschwen	4	g e sch w e n - - -
@@ -3890,13 +3890,13 @@ locations	strings	cognateID	alignments
 073/051	boall	1	b oa ll - -
 073/053	boal	1	b oa l - -
 073/055	bol	1	b o l - -
-073/057	NA	NA	- - - - - - - - - -
+073/057	NA	NA	-
 073/059	ball	1	b a ll - -
 073/061	bald	1	b a l d -
 073/063	ball	1	b a ll - -
 073/065	ball	1	b a ll - -
 073/067	bal	1	b a l - -
-073/069	NA	NA	- - - - - - - - - -
+073/069	NA	NA	-
 073/071	bal	1	b a l - -
 073/073	bal	1	b a l - -
 073/075	bald	1	b a l d -
@@ -3922,21 +3922,21 @@ locations	strings	cognateID	alignments
 073/151	pold	1	p o l d -
 073/153	bald	1	b a l d -
 073/155	bold	1	b o l d -
-073/157	NA	NA	- - - - - - - - - -
+073/157	NA	NA	-
 073/159	baald	1	b aa l d -
 073/161	bald	1	b a l d -
-073/163	NA	NA	- - - - - - - - - -
+073/163	NA	NA	-
 073/165	bald	1	b a l d -
 073/175	bald	1	b a l d -
 073/177	bald	1	b a l d -
 074/019	baal	1	b aa l - -
 074/021	bal	1	b a l - -
-074/023	NA	NA	- - - - - - - - - -
+074/023	NA	NA	-
 074/025	bal	1	b a l - -
 074/027	baal	1	b aa l - -
 074/029	gleich	2	g l ei ch
 074/031	bahl	1	b ah l - -
-074/033	hortig	NA	- h o r t i g - - -
+074/033	hortig	NA	-
 074/035	ball	1	b a ll - -
 074/037	ball	1	b a ll - -
 074/039	ball	1	b a ll - -
@@ -3946,8 +3946,8 @@ locations	strings	cognateID	alignments
 074/047	ball	1	b a ll - -
 074/049	ball	1	b a ll - -
 074/051	ball	1	b a ll - -
-074/053	NA	NA	- - - - - - - - - -
-074/055	NA	NA	- - - - - - - - - -
+074/053	NA	NA	-
+074/055	NA	NA	-
 074/057	ball	1	b a ll - -
 074/059	ball	1	b a ll - -
 074/061	ball	1	b a ll - -
@@ -3981,7 +3981,7 @@ locations	strings	cognateID	alignments
 074/153	bold	1	b o l d -
 074/155	bold	1	b o l d -
 074/157	bold	1	b o l d -
-074/159	NA	NA	- - - - - - - - - -
+074/159	NA	NA	-
 074/161	baut	1	b au - t -
 074/163	bald	1	b a l d -
 074/165	bald	1	b a l d -
@@ -3990,10 +3990,10 @@ locations	strings	cognateID	alignments
 075/023	geschwen	4	g e sch w e n - - -
 075/025	geschwenn	4	g e sch w e nn - - -
 075/027	bal	1	b a l - -
-075/029	hurtig	NA	- h u r t i g - - -
+075/029	hurtig	NA	-
 075/031	bal	1	b a l - -
 075/033	ball	1	b a ll - -
-075/035	NA	NA	- - - - - - - - - -
+075/035	NA	NA	-
 075/037	ball	1	b a ll - -
 075/039	ball	1	b a ll - -
 075/041	ball	1	b a ll - -
@@ -4001,7 +4001,7 @@ locations	strings	cognateID	alignments
 075/045	ball	1	b a ll - -
 075/047	ball	1	b a ll - -
 075/049	bald	1	b a l d -
-075/051	NA	NA	- - - - - - - - - -
+075/051	NA	NA	-
 075/053	ball	1	b a ll - -
 075/055	ball	1	b a ll - -
 075/057	ball	1	b a ll - -
@@ -4045,9 +4045,9 @@ locations	strings	cognateID	alignments
 076/023	gliech	2	g l ie ch
 076/025	geschwenn	4	g e sch w e nn - - -
 076/027	geschwenn	4	g e sch w e nn - - -
-076/029	hortig	NA	- h o r t i g - - -
+076/029	hortig	NA	-
 076/033	ball	1	b a ll - -
-076/035	hortig	NA	- h o r t i g - - -
+076/035	hortig	NA	-
 076/037	ball	1	b a ll - -
 076/039	bal	1	b a l - -
 076/041	bald	1	b a l d -
@@ -4096,7 +4096,7 @@ locations	strings	cognateID	alignments
 077/025	bal	1	b a l - -
 077/027	bal	1	b a l - -
 077/029	bal	1	b a l - -
-077/031	NA	NA	- - - - - - - - - -
+077/031	NA	NA	-
 077/033	ball	1	b a ll - -
 077/035	ball	1	b a ll - -
 077/037	ball	1	b a ll - -
@@ -4126,7 +4126,7 @@ locations	strings	cognateID	alignments
 077/087	bol	1	b o l - -
 077/089	bal	1	b a l - -
 077/091	boal	1	b oa l - -
-077/093	NA	NA	- - - - - - - - - -
+077/093	NA	NA	-
 077/095	bal	1	b a l - -
 077/097	bal	1	b a l - -
 077/099	bal	1	b a l - -
@@ -4140,7 +4140,7 @@ locations	strings	cognateID	alignments
 078/027	bal	1	b a l - -
 078/029	ball	1	b a ll - -
 078/031	bal	1	b a l - -
-078/033	NA	NA	- - - - - - - - - -
+078/033	NA	NA	-
 078/035	bald	1	b a l d -
 078/037	ball	1	b a ll - -
 078/039	ball	1	b a ll - -
@@ -4172,18 +4172,18 @@ locations	strings	cognateID	alignments
 078/093	bal	1	b a l - -
 078/095	bal	1	b a l - -
 078/097	bal	1	b a l - -
-078/099	NA	NA	- - - - - - - - - -
+078/099	NA	NA	-
 078/101	bol	1	b o l - -
 078/103	bold	1	b o l d -
 078/105	glä	2	g l ä -
-078/135	NA	NA	- - - - - - - - - -
+078/135	NA	NA	-
 078/193	palt	1	p a l t -
-079/021	NA	NA	- - - - - - - - - -
+079/021	NA	NA	-
 079/023	bal	1	b a l - -
 079/025	baal	1	b aa l - -
 079/027	bal	1	b a l - -
 079/029	bal	1	b a l - -
-079/031	NA	NA	- - - - - - - - - -
+079/031	NA	NA	-
 079/033	ball	1	b a ll - -
 079/035	bal	1	b a l - -
 079/037	ball	1	b a ll - -
@@ -4253,7 +4253,7 @@ locations	strings	cognateID	alignments
 080/073	ball	1	b a ll - -
 080/075	ball	1	b a ll - -
 080/077	ball	1	b a ll - -
-080/079	NA	NA	- - - - - - - - - -
+080/079	NA	NA	-
 080/081	bal	1	b a l - -
 080/083	bal	1	b a l - -
 080/085	bal	1	b a l - -
@@ -4268,11 +4268,11 @@ locations	strings	cognateID	alignments
 080/103	boöd	1	b oö - d -
 080/105	glei	2	g l ei -
 080/107	bol	1	b o l - -
-080/109	NA	NA	- - - - - - - - - -
+080/109	NA	NA	-
 080/127	bold	1	b o l d -
 080/147	bold	1	b o l d -
 080/151	pold	1	p o l d -
-080/153	NA	NA	- - - - - - - - - -
+080/153	NA	NA	-
 080/193	bold	1	b o l d -
 080/195	bald	1	b a l d -
 081/025	glich	2	g l i ch
@@ -4280,7 +4280,7 @@ locations	strings	cognateID	alignments
 081/029	bal	1	b a l - -
 081/031	boll	1	b o ll - -
 081/033	bald	1	b a l d -
-081/035	NA	NA	- - - - - - - - - -
+081/035	NA	NA	-
 081/037	glich	2	g l i ch
 081/039	bal	1	b a l - -
 081/043	ball	1	b a ll - -
@@ -4309,7 +4309,7 @@ locations	strings	cognateID	alignments
 081/089	bal	1	b a l - -
 081/091	bal	1	b a l - -
 081/093	bal	1	b a l - -
-081/095	sched	NA	- sch e d - - - - - -
+081/095	sched	NA	-
 081/097	bol	1	b o l - -
 081/099	ball	1	b a ll - -
 081/101	bald	1	b a l d -
@@ -4322,7 +4322,7 @@ locations	strings	cognateID	alignments
 081/129	bold	1	b o l d -
 081/133	bold	1	b o l d -
 081/147	polt	1	p o l t -
-081/191	schunt	NA	- - - sch u - n t - -
+081/191	schunt	NA	-
 081/193	balt	1	b a l t -
 081/195	bold	1	b o l d -
 082/027	gliich	2	g l ii ch
@@ -4380,7 +4380,7 @@ locations	strings	cognateID	alignments
 083/027	glich	2	g l i ch
 083/029	baaol	1	b aao l - -
 083/031	glich	2	g l i ch
-083/033	NA	NA	- - - - - - - - - -
+083/033	NA	NA	-
 083/035	bahl	1	b ah l - -
 083/037	ball	1	b a ll - -
 083/039	bal	1	b a l - -
@@ -4414,26 +4414,26 @@ locations	strings	cognateID	alignments
 083/095	bol	1	b o l - -
 083/097	bol	1	b o l - -
 083/099	bai	1	b ai - - -
-083/101	NA	NA	- - - - - - - - - -
+083/101	NA	NA	-
 083/103	boid	1	b oi - d -
 083/105	boid	1	b oi - d -
 083/107	boid	1	b oi - d -
 083/111	buid	1	b ui - d -
 083/113	buid	1	b ui - d -
-083/115	NA	NA	- - - - - - - - - -
+083/115	NA	NA	-
 083/117	boid	1	b oi - d -
 083/119	bol	1	b o l - -
-083/121	NA	NA	- - - - - - - - - -
+083/121	NA	NA	-
 083/129	bold	1	b o l d -
 083/131	bold	1	b o l d -
 083/133	bold	1	b o l d -
 083/135	bold	1	b o l d -
-083/139	NA	NA	- - - - - - - - - -
+083/139	NA	NA	-
 083/143	bold	1	b o l d -
 083/145	bold	1	b o l d -
 083/147	bold	1	b o l d -
 083/149	bold	1	b o l d -
-083/173	NA	NA	- - - - - - - - - -
+083/173	NA	NA	-
 083/195	bald	1	b a l d -
 084/031	ball	1	b a ll - -
 084/033	ball	1	b a ll - -
@@ -4470,14 +4470,14 @@ locations	strings	cognateID	alignments
 084/095	bal	1	b a l - -
 084/097	bol	1	b o l - -
 084/099	baid	1	b ai - d -
-084/101	NA	NA	- - - - - - - - - -
+084/101	NA	NA	-
 084/103	boöd	1	b oö - d -
 084/105	boid	1	b oi - d -
 084/107	boid	1	b oi - d -
 084/109	boid	1	b oi - d -
 084/111	bald	1	b a l d -
 084/113	buid	1	b ui - d -
-084/115	ega	NA	- e g a - - - - - -
+084/115	ega	NA	-
 084/117	boid	1	b oi - d -
 084/119	bold	1	b o l d -
 084/129	bold	1	b o l d -
@@ -4485,14 +4485,14 @@ locations	strings	cognateID	alignments
 084/133	boid	1	b oi - d -
 084/135	bold	1	b o l d -
 084/137	bold	1	b o l d -
-084/139	echa	NA	- e ch a - - - - - -
+084/139	echa	NA	-
 084/141	bold	1	b o l d -
 084/143	bold	1	b o l d -
-084/145	echa	NA	- e ch a - - - - - -
+084/145	echa	NA	-
 084/147	bold	1	b o l d -
 084/149	bold	1	b o l d -
 084/171	glai	2	g l ai -
-084/173	NA	NA	- - - - - - - - - -
+084/173	NA	NA	-
 084/195	pald	1	p a l d -
 085/031	bal	1	b a l - -
 085/033	bal	1	b a l - -
@@ -4514,7 +4514,7 @@ locations	strings	cognateID	alignments
 085/065	bald	1	b a l d -
 085/067	bald	1	b a l d -
 085/069	bald	1	b a l d -
-085/071	NA	NA	- - - - - - - - - -
+085/071	NA	NA	-
 085/073	ball	1	b a ll - -
 085/075	bald	1	b a l d -
 085/077	ball	1	b a ll - -
@@ -4534,10 +4534,10 @@ locations	strings	cognateID	alignments
 085/107	boid	1	b oi - d -
 085/109	boö	1	b oö - - -
 085/111	boid	1	b oi - d -
-085/113	NA	NA	- - - - - - - - - -
+085/113	NA	NA	-
 085/115	bold	1	b o l d -
 085/117	bold	1	b o l d -
-085/119	NA	NA	- - - - - - - - - -
+085/119	NA	NA	-
 085/121	bold	1	b o l d -
 085/123	bojd	1	b oj - d -
 085/125	bold	1	b o l d -
@@ -4557,7 +4557,7 @@ locations	strings	cognateID	alignments
 085/193	polt	1	p o l t -
 085/197	polt	1	p o l t -
 086/033	bal	1	b a l - -
-086/035	NA	NA	- - - - - - - - - -
+086/035	NA	NA	-
 086/037	bal	1	b a l - -
 086/039	ball	1	b a ll - -
 086/041	böl	1	b ö l - -
@@ -4581,14 +4581,14 @@ locations	strings	cognateID	alignments
 086/077	bald	1	b a l d -
 086/079	bald	1	b a l d -
 086/081	boal	1	b oa l - -
-086/083	NA	NA	- - - - - - - - - -
+086/083	NA	NA	-
 086/085	boold	1	b oo l d -
 086/087	boi	1	b oi - - -
 086/089	boid	1	b oi - d -
 086/091	bald	1	b a l d -
 086/093	booöd	1	b ooö - d -
 086/095	booid	1	b ooi - d -
-086/097	NA	NA	- - - - - - - - - -
+086/097	NA	NA	-
 086/099	boid	1	b oi - d -
 086/101	baid	1	b ai - d -
 086/103	bold	1	b o l d -
@@ -4598,7 +4598,7 @@ locations	strings	cognateID	alignments
 086/111	boid	1	b oi - d -
 086/113	bold	1	b o l d -
 086/115	bold	1	b o l d -
-086/117	NA	NA	- - - - - - - - - -
+086/117	NA	NA	-
 086/119	bojd	1	b oj - d -
 086/121	bod	1	b o - d -
 086/123	bold	1	b o l d -
@@ -4611,7 +4611,7 @@ locations	strings	cognateID	alignments
 086/137	bold	1	b o l d -
 086/139	bold	1	b o l d -
 086/141	boid	1	b oi - d -
-086/143	NA	NA	- - - - - - - - - -
+086/143	NA	NA	-
 086/145	bold	1	b o l d -
 086/147	boüd	1	b oü - d -
 086/149	bald	1	b a l d -
@@ -4621,7 +4621,7 @@ locations	strings	cognateID	alignments
 086/199	palt	1	p a l t -
 087/033	ball	1	b a ll - -
 087/035	glich	2	g l i ch
-087/037	NA	NA	- - - - - - - - - -
+087/037	NA	NA	-
 087/039	bal	1	b a l - -
 087/041	bal	1	b a l - -
 087/043	ball	1	b a ll - -
@@ -4644,11 +4644,11 @@ locations	strings	cognateID	alignments
 087/079	bald	1	b a l d -
 087/081	bai	1	b ai - - -
 087/083	bol	1	b o l - -
-087/085	enda	NA	- e n d a - - - - -
+087/085	enda	NA	-
 087/087	boi	1	b oi - - -
 087/089	boi	1	b oi - - -
 087/091	baoi	1	b aoi - - -
-087/093	NA	NA	- - - - - - - - - -
+087/093	NA	NA	-
 087/095	baid	1	b ai - d -
 087/097	böid	1	b öi - d -
 087/099	booid	1	b ooi - d -
@@ -4692,9 +4692,9 @@ locations	strings	cognateID	alignments
 088/059	bald	1	b a l d -
 088/061	bald	1	b a l d -
 088/063	bald	1	b a l d -
-088/065	NA	NA	- - - - - - - - - -
+088/065	NA	NA	-
 088/067	bald	1	b a l d -
-088/069	NA	NA	- - - - - - - - - -
+088/069	NA	NA	-
 088/071	bald	1	b a l d -
 088/073	bald	1	b a l d -
 088/075	bald	1	b a l d -
@@ -4702,8 +4702,8 @@ locations	strings	cognateID	alignments
 088/079	bal	1	b a l - -
 088/081	bal	1	b a l - -
 088/083	bäl	1	b ä l - -
-088/085	NA	NA	- - - - - - - - - -
-088/087	NA	NA	- - - - - - - - - -
+088/085	NA	NA	-
+088/087	NA	NA	-
 088/089	boid	1	b oi - d -
 088/091	boid	1	b oi - d -
 088/093	baid	1	b ai - d -
@@ -4715,16 +4715,16 @@ locations	strings	cognateID	alignments
 088/105	boaid	1	b oai - d -
 088/107	boid	1	b oi - d -
 088/109	bäid	1	b äi - d -
-088/113	ega	NA	- e g a - - - - - -
+088/113	ega	NA	-
 088/115	bold	1	b o l d -
 088/117	boald	1	b oa l d -
-088/121	NA	NA	- - - - - - - - - -
+088/121	NA	NA	-
 088/123	glei	2	g l ei -
 088/127	boid	1	b oi - d -
 088/129	bald	1	b a l d -
 088/131	boi	1	b oi - - -
 088/137	boid	1	b oi - d -
-088/139	NA	NA	- - - - - - - - - -
+088/139	NA	NA	-
 088/141	bojd	1	b oj - d -
 088/143	bold	1	b o l d -
 088/145	boid	1	b oi - d -
@@ -4763,7 +4763,7 @@ locations	strings	cognateID	alignments
 089/095	boid	1	b oi - d -
 089/097	bald	1	b a l d -
 089/099	boid	1	b oi - d -
-089/101	NA	NA	- - - - - - - - - -
+089/101	NA	NA	-
 089/103	boed	1	b oe - d -
 089/105	baaöd	1	b aaö - d -
 089/107	baid	1	b ai - d -
@@ -4774,7 +4774,7 @@ locations	strings	cognateID	alignments
 089/117	booöd	1	b ooö - d -
 089/119	baaid	1	b aai - d -
 089/121	boi	1	b oi - - -
-089/123	NA	NA	- - - - - - - - - -
+089/123	NA	NA	-
 089/125	bold	1	b o l d -
 089/127	bold	1	b o l d -
 089/129	boid	1	b oi - d -
@@ -4788,7 +4788,7 @@ locations	strings	cognateID	alignments
 089/145	boid	1	b oi - d -
 089/147	bold	1	b o l d -
 089/149	boöd	1	b oö - d -
-090/035	NA	NA	- - - - - - - - - -
+090/035	NA	NA	-
 090/037	bal	1	b a l - -
 090/039	ball	1	b a ll - -
 090/041	ball	1	b a ll - -
@@ -4833,7 +4833,7 @@ locations	strings	cognateID	alignments
 090/121	bald	1	b a l d -
 090/123	bold	1	b o l d -
 090/125	bol	1	b o l - -
-090/127	NA	NA	- - - - - - - - - -
+090/127	NA	NA	-
 090/129	bold	1	b o l d -
 090/131	bold	1	b o l d -
 090/133	boid	1	b oi - d -
@@ -4887,10 +4887,10 @@ locations	strings	cognateID	alignments
 091/113	bal	1	b a l - -
 091/115	bal	1	b a l - -
 091/117	baid	1	b ai - d -
-091/119	enta	NA	- e n t a - - - - -
+091/119	enta	NA	-
 091/121	bal	1	b a l - -
 091/125	boi	1	b oi - - -
-091/129	NA	NA	- - - - - - - - - -
+091/129	NA	NA	-
 091/131	bold	1	b o l d -
 091/133	bold	1	b o l d -
 091/135	bold	1	b o l d -
@@ -4946,11 +4946,11 @@ locations	strings	cognateID	alignments
 092/113	bal	1	b a l - -
 092/115	bal	1	b a l - -
 092/117	bold	1	b o l d -
-092/119	NA	NA	- - - - - - - - - -
+092/119	NA	NA	-
 092/121	boid	1	b oi - d -
 092/123	bald	1	b a l d -
 092/125	boi	1	b oi - - -
-092/127	NA	NA	- - - - - - - - - -
+092/127	NA	NA	-
 092/129	bold	1	b o l d -
 092/131	boid	1	b oi - d -
 092/133	boid	1	b oi - d -
@@ -5003,11 +5003,11 @@ locations	strings	cognateID	alignments
 093/111	baid	1	b ai - d -
 093/113	bal	1	b a l - -
 093/115	bald	1	b a l d -
-093/117	NA	NA	- - - - - - - - - -
+093/117	NA	NA	-
 093/119	schnöi	3	- sch n öi - - - - - -
 093/121	bald	1	b a l d -
 093/123	bald	1	b a l d -
-093/125	NA	NA	- - - - - - - - - -
+093/125	NA	NA	-
 093/127	boi	1	b oi - - -
 093/129	bald	1	b a l d -
 093/131	boid	1	b oi - d -
@@ -5018,7 +5018,7 @@ locations	strings	cognateID	alignments
 093/145	bold	1	b o l d -
 093/147	boid	1	b oi - d -
 093/149	boid	1	b oi - d -
-093/151	NA	NA	- - - - - - - - - -
+093/151	NA	NA	-
 093/153	pold	1	p o l d -
 093/155	bold	1	b o l d -
 094/033	boil	1	b oi l - -
@@ -5047,14 +5047,14 @@ locations	strings	cognateID	alignments
 094/079	bald	1	b a l d -
 094/081	boid	1	b oi - d -
 094/083	boi	1	b oi - - -
-094/085	NA	NA	- - - - - - - - - -
+094/085	NA	NA	-
 094/087	boid	1	b oi - d -
 094/089	boid	1	b oi - d -
 094/091	boid	1	b oi - d -
 094/093	boid	1	b oi - d -
 094/095	boid	1	b oi - d -
 094/097	baid	1	b ai - d -
-094/099	NA	NA	- - - - - - - - - -
+094/099	NA	NA	-
 094/101	boad	1	b oa - d -
 094/103	boi	1	b oi - - -
 094/105	boid	1	b oi - d -
@@ -5063,7 +5063,7 @@ locations	strings	cognateID	alignments
 094/111	bald	1	b a l d -
 094/113	bald	1	b a l d -
 094/115	bald	1	b a l d -
-094/117	eanta	NA	- ea n t a - - - - -
+094/117	eanta	NA	-
 094/119	bald	1	b a l d -
 094/121	boid	1	b oi - d -
 094/123	boü	1	b oü - - -
@@ -5077,7 +5077,7 @@ locations	strings	cognateID	alignments
 094/139	bold	1	b o l d -
 094/141	bald	1	b a l d -
 094/143	boit	1	b oi - t -
-094/145	NA	NA	- - - - - - - - - -
+094/145	NA	NA	-
 094/147	bold	1	b o l d -
 094/149	bold	1	b o l d -
 094/151	bold	1	b o l d -
@@ -5097,7 +5097,7 @@ locations	strings	cognateID	alignments
 095/055	gli	2	g l i -
 095/057	bald	1	b a l d -
 095/059	bald	1	b a l d -
-095/061	NA	NA	- - - - - - - - - -
+095/061	NA	NA	-
 095/063	bald	1	b a l d -
 095/065	bald	1	b a l d -
 095/067	glei	2	g l ei -
@@ -5119,7 +5119,7 @@ locations	strings	cognateID	alignments
 095/099	boid	1	b oi - d -
 095/101	bald	1	b a l d -
 095/103	boald	1	b oa l d -
-095/105	NA	NA	- - - - - - - - - -
+095/105	NA	NA	-
 095/107	boald	1	b oa l d -
 095/109	bal	1	b a l - -
 095/111	boid	1	b oi - d -
@@ -5131,7 +5131,7 @@ locations	strings	cognateID	alignments
 095/123	bald	1	b a l d -
 095/125	boid	1	b oi - d -
 095/129	boöd	1	b oö - d -
-095/131	NA	NA	- - - - - - - - - -
+095/131	NA	NA	-
 095/133	boid	1	b oi - d -
 095/139	bold	1	b o l d -
 095/141	bold	1	b o l d -
@@ -5168,7 +5168,7 @@ locations	strings	cognateID	alignments
 096/079	boad	1	b oa - d -
 096/081	boö	1	b oö - - -
 096/083	bold	1	b o l d -
-096/085	NA	NA	- - - - - - - - - -
+096/085	NA	NA	-
 096/087	boid	1	b oi - d -
 096/089	bald	1	b a l d -
 096/091	boald	1	b oa l d -
@@ -5179,12 +5179,12 @@ locations	strings	cognateID	alignments
 096/101	bald	1	b a l d -
 096/103	glei	2	g l ei -
 096/105	bold	1	b o l d -
-096/107	NA	NA	- - - - - - - - - -
+096/107	NA	NA	-
 096/109	bald	1	b a l d -
 096/111	boi	1	b oi - - -
 096/113	boald	1	b oa l d -
 096/115	boid	1	b oi - d -
-096/117	NA	NA	- - - - - - - - - -
+096/117	NA	NA	-
 096/119	boid	1	b oi - d -
 096/121	booi	1	b ooi - - -
 096/123	boi	1	b oi - - -
@@ -5195,7 +5195,7 @@ locations	strings	cognateID	alignments
 096/137	bald	1	b a l d -
 096/139	boid	1	b oi - d -
 096/141	bold	1	b o l d -
-096/143	NA	NA	- - - - - - - - - -
+096/143	NA	NA	-
 096/145	bold	1	b o l d -
 096/147	pool	1	p oo l - -
 096/151	bold	1	b o l d -
@@ -5226,7 +5226,7 @@ locations	strings	cognateID	alignments
 097/075	bald	1	b a l d -
 097/077	bald	1	b a l d -
 097/079	bald	1	b a l d -
-097/081	NA	NA	- - - - - - - - - -
+097/081	NA	NA	-
 097/083	boll	1	b o ll - -
 097/085	bold	1	b o l d -
 097/087	booid	1	b ooi - d -
@@ -5234,13 +5234,13 @@ locations	strings	cognateID	alignments
 097/091	boi	1	b oi - - -
 097/093	boi	1	b oi - - -
 097/095	boi	1	b oi - - -
-097/097	NA	NA	- - - - - - - - - -
+097/097	NA	NA	-
 097/099	baid	1	b ai - d -
 097/103	boa	1	b oa - - -
 097/105	bäid	1	b äi - d -
 097/107	boid	1	b oi - d -
 097/109	bold	1	b o l d -
-097/113	NA	NA	- - - - - - - - - -
+097/113	NA	NA	-
 097/125	bold	1	b o l d -
 097/131	glei	2	g l ei -
 097/133	boid	1	b oi - d -
@@ -5253,12 +5253,12 @@ locations	strings	cognateID	alignments
 098/033	boll	1	b o ll - -
 098/035	boll	1	b o ll - -
 098/037	bol	1	b o l - -
-098/039	NA	NA	- - - - - - - - - -
+098/039	NA	NA	-
 098/041	bald	1	b a l d -
 098/043	bald	1	b a l d -
-098/045	NA	NA	- - - - - - - - - -
+098/045	NA	NA	-
 098/047	bald	1	b a l d -
-098/049	NA	NA	- - - - - - - - - -
+098/049	NA	NA	-
 098/051	bald	1	b a l d -
 098/053	baald	1	b aa l d -
 098/055	bald	1	b a l d -
@@ -5273,10 +5273,10 @@ locations	strings	cognateID	alignments
 098/073	bald	1	b a l d -
 098/075	bald	1	b a l d -
 098/077	bald	1	b a l d -
-098/079	NA	NA	- - - - - - - - - -
+098/079	NA	NA	-
 098/081	boa	1	b oa - - -
 098/083	boa	1	b oa - - -
-098/085	eanda	NA	- ea n d a - - - - -
+098/085	eanda	NA	-
 098/087	bäi	1	b äi - - -
 098/089	boald	1	b oa l d -
 098/091	boi	1	b oi - - -
@@ -5287,16 +5287,16 @@ locations	strings	cognateID	alignments
 098/105	bold	1	b o l d -
 098/107	glei	2	g l ei -
 098/109	bal	1	b a l - -
-098/111	enta	NA	- e n t a - - - - -
+098/111	enta	NA	-
 098/119	bold	1	b o l d -
 098/123	bold	1	b o l d -
 098/125	bal	1	b a l - -
 098/127	bold	1	b o l d -
 098/135	glei	2	g l ei -
 098/137	bold	1	b o l d -
-098/139	ezeit	NA	- e z ei t - - - - -
-098/141	NA	NA	- - - - - - - - - -
-098/143	NA	NA	- - - - - - - - - -
+098/139	ezeit	NA	-
+098/141	NA	NA	-
+098/143	NA	NA	-
 098/145	bold	1	b o l d -
 098/147	bold	1	b o l d -
 098/149	bold	1	b o l d -
@@ -5327,16 +5327,16 @@ locations	strings	cognateID	alignments
 099/083	bald	1	b a l d -
 099/085	bol	1	b o l - -
 099/089	bai	1	b ai - - -
-099/093	NA	NA	- - - - - - - - - -
+099/093	NA	NA	-
 099/095	boi	1	b oi - - -
-099/099	NA	NA	- - - - - - - - - -
+099/099	NA	NA	-
 099/101	boild	1	b oi l d -
 099/103	bald	1	b a l d -
 099/105	boid	1	b oi - d -
-099/107	NA	NA	- - - - - - - - - -
-099/109	enta	NA	- e n t a - - - - -
+099/107	NA	NA	-
+099/109	enta	NA	-
 099/111	boed	1	b oe - d -
-099/113	NA	NA	- - - - - - - - - -
+099/113	NA	NA	-
 099/121	boid	1	b oi - d -
 099/123	boid	1	b oi - d -
 099/125	boid	1	b oi - d -
@@ -5348,7 +5348,7 @@ locations	strings	cognateID	alignments
 099/145	bold	1	b o l d -
 099/147	bold	1	b o l d -
 100/033	bol	1	b o l - -
-100/035	NA	NA	- - - - - - - - - -
+100/035	NA	NA	-
 100/037	boll	1	b o ll - -
 100/039	bald	1	b a l d -
 100/041	bold	1	b o l d -
@@ -5360,12 +5360,12 @@ locations	strings	cognateID	alignments
 100/055	bald	1	b a l d -
 100/057	bald	1	b a l d -
 100/059	bald	1	b a l d -
-100/061	NA	NA	- - - - - - - - - -
+100/061	NA	NA	-
 100/065	bald	1	b a l d -
 100/067	bold	1	b o l d -
 100/069	bald	1	b a l d -
-100/071	NA	NA	- - - - - - - - - -
-100/073	NA	NA	- - - - - - - - - -
+100/071	NA	NA	-
+100/073	NA	NA	-
 100/075	bold	1	b o l d -
 100/077	bald	1	b a l d -
 100/081	bol	1	b o l - -
@@ -5380,9 +5380,9 @@ locations	strings	cognateID	alignments
 100/111	bald	1	b a l d -
 100/113	bold	1	b o l d -
 100/115	bold	1	b o l d -
-100/117	dlei	NA	- d l ei - - - - - -
+100/117	dlei	NA	-
 100/119	glei	2	g l ei -
-100/121	enta	NA	- e n t a - - - - -
+100/121	enta	NA	-
 100/125	bold	1	b o l d -
 100/127	bold	1	b o l d -
 100/129	bold	1	b o l d -
@@ -5399,7 +5399,7 @@ locations	strings	cognateID	alignments
 101/045	bald	1	b a l d -
 101/047	bald	1	b a l d -
 101/049	bald	1	b a l d -
-101/051	NA	NA	- - - - - - - - - -
+101/051	NA	NA	-
 101/053	bald	1	b a l d -
 101/055	bald	1	b a l d -
 101/057	bald	1	b a l d -
@@ -5409,9 +5409,9 @@ locations	strings	cognateID	alignments
 101/065	bald	1	b a l d -
 101/067	baud	1	b au - d -
 101/071	bald	1	b a l d -
-101/075	NA	NA	- - - - - - - - - -
+101/075	NA	NA	-
 101/077	bald	1	b a l d -
-101/079	NA	NA	- - - - - - - - - -
+101/079	NA	NA	-
 101/081	bol	1	b o l - -
 101/091	gschwind	4	g - sch w i n d - -
 101/093	boüd	1	b oü - d -
@@ -5421,7 +5421,7 @@ locations	strings	cognateID	alignments
 101/101	boö	1	b oö - - -
 101/103	boid	1	b oi - d -
 101/107	boöd	1	b oö - d -
-101/109	husig	NA	- h u s - i g - - -
+101/109	husig	NA	-
 101/113	boid	1	b oi - d -
 101/115	bald	1	b a l d -
 101/121	bailt	1	b ai l t -
@@ -5447,7 +5447,7 @@ locations	strings	cognateID	alignments
 102/055	bald	1	b a l d -
 102/057	bald	1	b a l d -
 102/059	bald	1	b a l d -
-102/061	näbe	NA	- n ä b e - - - - -
+102/061	näbe	NA	-
 102/063	bald	1	b a l d -
 102/065	bald	1	b a l d -
 102/067	bold	1	b o l d -
@@ -5457,11 +5457,11 @@ locations	strings	cognateID	alignments
 102/075	bold	1	b o l d -
 102/077	bald	1	b a l d -
 102/079	baald	1	b aa l d -
-102/081	NA	NA	- - - - - - - - - -
+102/081	NA	NA	-
 102/083	glei	2	g l ei -
 102/089	boid	1	b oi - d -
 102/091	gleich	2	g l ei ch
-102/093	NA	NA	- - - - - - - - - -
+102/093	NA	NA	-
 102/095	glei	2	g l ei -
 102/097	bald	1	b a l d -
 102/099	bold	1	b o l d -
@@ -5469,12 +5469,12 @@ locations	strings	cognateID	alignments
 102/107	boid	1	b oi - d -
 102/109	boid	1	b oi - d -
 102/113	boed	1	b oe - d -
-102/115	NA	NA	- - - - - - - - - -
+102/115	NA	NA	-
 102/127	bold	1	b o l d -
 102/129	glei	2	g l ei -
 102/131	boid	1	b oi - d -
 102/135	glei	2	g l ei -
-102/137	ehzeit	NA	- eh z ei t - - - - -
+102/137	ehzeit	NA	-
 102/139	bold	1	b o l d -
 102/141	bold	1	b o l d -
 102/143	boold	1	b oo l d -
@@ -5489,11 +5489,11 @@ locations	strings	cognateID	alignments
 103/053	bald	1	b a l d -
 103/055	bald	1	b a l d -
 103/057	bald	1	b a l d -
-103/059	näbä	NA	- n ä b ä - - - - -
+103/059	näbä	NA	-
 103/063	bald	1	b a l d -
 103/065	bald	1	b a l d -
 103/067	bauld	1	b au l d -
-103/069	NA	NA	- - - - - - - - - -
+103/069	NA	NA	-
 103/071	bold	1	b o l d -
 103/073	bald	1	b a l d -
 103/075	bald	1	b a l d -
@@ -5505,7 +5505,7 @@ locations	strings	cognateID	alignments
 103/087	boald	1	b oa l d -
 103/089	boald	1	b oa l d -
 103/091	bold	1	b o l d -
-103/097	ehnta	NA	- eh n t a - - - - -
+103/097	ehnta	NA	-
 103/099	bäid	1	b äi - d -
 103/101	boid	1	b oi - d -
 103/105	boid	1	b oi - d -
@@ -5513,12 +5513,12 @@ locations	strings	cognateID	alignments
 103/111	boid	1	b oi - d -
 103/121	glei	2	g l ei -
 103/125	bold	1	b o l d -
-103/127	NA	NA	- - - - - - - - - -
+103/127	NA	NA	-
 103/131	bold	1	b o l d -
 103/133	glei	2	g l ei -
 103/135	bold	1	b o l d -
 103/137	bold	1	b o l d -
-103/139	NA	NA	- - - - - - - - - -
+103/139	NA	NA	-
 103/141	bold	1	b o l d -
 103/143	bold	1	b o l d -
 103/145	pold	1	p o l d -
@@ -5536,19 +5536,19 @@ locations	strings	cognateID	alignments
 104/055	bald	1	b a l d -
 104/057	bald	1	b a l d -
 104/059	bald	1	b a l d -
-104/061	näsa	NA	- n ä s a - - - - -
+104/061	näsa	NA	-
 104/063	bald	1	b a l d -
 104/065	bal	1	b a l - -
 104/067	boald	1	b oa l d -
-104/071	NA	NA	- - - - - - - - - -
+104/071	NA	NA	-
 104/075	boald	1	b oa l d -
-104/077	NA	NA	- - - - - - - - - -
+104/077	NA	NA	-
 104/079	bold	1	b o l d -
 104/081	glei	2	g l ei -
 104/083	bold	1	b o l d -
 104/085	bold	1	b o l d -
-104/091	amol	NA	- a m o l - - - - -
-104/095	dlei	NA	- d l ei - - - - - -
+104/091	amol	NA	-
+104/095	dlei	NA	-
 104/101	bald	1	b a l d -
 104/103	boid	1	b oi - d -
 104/107	baid	1	b ai - d -
@@ -5557,12 +5557,12 @@ locations	strings	cognateID	alignments
 104/119	bold	1	b o l d -
 104/121	bold	1	b o l d -
 104/123	bolt	1	b o l t -
-104/125	NA	NA	- - - - - - - - - -
+104/125	NA	NA	-
 104/127	bold	1	b o l d -
 104/131	glei	2	g l ei -
 104/133	glei	2	g l ei -
 104/135	bold	1	b o l d -
-104/137	NA	NA	- - - - - - - - - -
+104/137	NA	NA	-
 104/139	boald	1	b oa l d -
 104/141	bold	1	b o l d -
 104/143	bold	1	b o l d -
@@ -5576,7 +5576,7 @@ locations	strings	cognateID	alignments
 105/043	baud	1	b au - d -
 105/045	baud	1	b au - d -
 105/047	glih	2	g l ih -
-105/049	NA	NA	- - - - - - - - - -
+105/049	NA	NA	-
 105/051	bald	1	b a l d -
 105/053	bald	1	b a l d -
 105/055	gly	2	g l y -
@@ -5593,7 +5593,7 @@ locations	strings	cognateID	alignments
 105/077	bold	1	b o l d -
 105/079	bold	1	b o l d -
 105/081	bold	1	b o l d -
-105/085	galing	NA	- g a l i ng - - - -
+105/085	galing	NA	-
 105/087	bold	1	b o l d -
 105/089	bold	1	b o l d -
 105/103	boad	1	b oa - d -
@@ -5610,7 +5610,7 @@ locations	strings	cognateID	alignments
 105/133	bold	1	b o l d -
 105/135	bold	1	b o l d -
 105/137	bald	1	b a l d -
-105/141	NA	NA	- - - - - - - - - -
+105/141	NA	NA	-
 105/143	bold	1	b o l d -
 105/145	bold	1	b o l d -
 106/033	gli	2	g l i -
@@ -5631,22 +5631,22 @@ locations	strings	cognateID	alignments
 106/071	bold	1	b o l d -
 106/073	bald	1	b a l d -
 106/075	glei	2	g l ei -
-106/077	NA	NA	- - - - - - - - - -
+106/077	NA	NA	-
 106/079	glei	2	g l ei -
 106/081	boald	1	b oa l d -
-106/085	NA	NA	- - - - - - - - - -
-106/087	eader	NA	- ea d e r - - - - -
+106/085	NA	NA	-
+106/087	eader	NA	-
 106/093	glai	2	g l ai -
 106/097	gschwind	4	g - sch w i n d - -
-106/099	NA	NA	- - - - - - - - - -
+106/099	NA	NA	-
 106/103	bold	1	b o l d -
 106/111	bold	1	b o l d -
 106/115	boid	1	b oi - d -
 106/121	glei	2	g l ei -
 106/123	bold	1	b o l d -
-106/125	NA	NA	- - - - - - - - - -
+106/125	NA	NA	-
 106/129	glei	2	g l ei -
-106/131	NA	NA	- - - - - - - - - -
+106/131	NA	NA	-
 106/133	bold	1	b o l d -
 106/135	glei	2	g l ei -
 106/137	bold	1	b o l d -
@@ -5674,7 +5674,7 @@ locations	strings	cognateID	alignments
 107/081	bold	1	b o l d -
 107/085	pold	1	p o l d -
 107/087	bäld	1	b ä l d -
-107/089	amo	NA	- a m o - - - - - -
+107/089	amo	NA	-
 107/091	glei	2	g l ei -
 107/097	boll	1	b o ll - -
 107/099	bol	1	b o l - -
@@ -5685,14 +5685,14 @@ locations	strings	cognateID	alignments
 107/119	bold	1	b o l d -
 107/121	bolt	1	b o l t -
 107/123	bold	1	b o l d -
-107/125	amol	NA	- a m o l - - - - -
+107/125	amol	NA	-
 107/127	bold	1	b o l d -
-107/129	NA	NA	- - - - - - - - - -
+107/129	NA	NA	-
 107/131	glei	2	g l ei -
 107/133	bold	1	b o l d -
 107/135	glei	2	g l ei -
 107/137	bold	1	b o l d -
-107/139	eher	NA	- e h e r - - - - -
+107/139	eher	NA	-
 107/141	bolt	1	b o l t -
 107/143	bold	1	b o l d -
 108/033	bau	1	b au - - -
@@ -5709,9 +5709,9 @@ locations	strings	cognateID	alignments
 108/075	boll	1	b o ll - -
 108/079	gschwinder	4	g - sch w i n d e r
 108/081	bold	1	b o l d -
-108/085	NA	NA	- - - - - - - - - -
+108/085	NA	NA	-
 108/087	pooll	1	p oo ll - -
-108/091	amol	NA	- a m o l - - - - -
+108/091	amol	NA	-
 108/099	bolt	1	b o l t -
 108/101	bold	1	b o l d -
 108/103	bold	1	b o l d -
@@ -5753,20 +5753,20 @@ locations	strings	cognateID	alignments
 109/095	schnella	3	- sch n e ll a - - - -
 109/097	bol	1	b o l - -
 109/099	boll	1	b o ll - -
-109/101	amol	NA	- a m o l - - - - -
+109/101	amol	NA	-
 109/103	bold	1	b o l d -
 109/107	bold	1	b o l d -
-109/109	enta	NA	- e n t a - - - - -
-109/111	NA	NA	- - - - - - - - - -
-109/113	NA	NA	- - - - - - - - - -
+109/109	enta	NA	-
+109/111	NA	NA	-
+109/113	NA	NA	-
 109/115	bald	1	b a l d -
 109/117	bold	1	b o l d -
 109/119	bald	1	b a l d -
 109/121	bold	1	b o l d -
-109/123	eantar	NA	- ea n t a r - - - -
+109/123	eantar	NA	-
 109/125	bald	1	b a l d -
 109/127	bold	1	b o l d -
-109/129	NA	NA	- - - - - - - - - -
+109/129	NA	NA	-
 109/131	bold	1	b o l d -
 109/133	bold	1	b o l d -
 109/135	bold	1	b o l d -
@@ -5783,16 +5783,16 @@ locations	strings	cognateID	alignments
 110/061	bald	1	b a l d -
 110/065	bold	1	b o l d -
 110/075	pol	1	p o l - -
-110/079	amol	NA	- a m o l - - - - -
+110/079	amol	NA	-
 110/081	bold	1	b o l d -
 110/083	bold	1	b o l d -
 110/087	pol	1	p o l - -
 110/089	boll	1	b o ll - -
 110/091	bo	1	b o - - -
 110/093	bo	1	b o - - -
-110/095	schleinig	NA	- sch l ei n i g - - -
+110/095	schleinig	NA	-
 110/097	bal	1	b a l - -
-110/099	NA	NA	- - - - - - - - - -
+110/099	NA	NA	-
 110/101	bold	1	b o l d -
 110/105	bold	1	b o l d -
 110/107	bold	1	b o l d -
@@ -5800,12 +5800,12 @@ locations	strings	cognateID	alignments
 110/113	bold	1	b o l d -
 110/115	bold	1	b o l d -
 110/117	gschwind	4	g - sch w i n d - -
-110/119	eantr	NA	- ea n t - r - - - -
+110/119	eantr	NA	-
 110/121	bold	1	b o l d -
 110/125	bold	1	b o l d -
 110/127	bohl	1	b oh l - -
 110/129	bolt	1	b o l t -
-110/131	ezeit	NA	- e z ei t - - - - -
+110/131	ezeit	NA	-
 110/133	glei	2	g l ei -
 110/135	glei	2	g l ei -
 110/137	bold	1	b o l d -
@@ -5818,12 +5818,12 @@ locations	strings	cognateID	alignments
 111/045	glii	2	g l ii -
 111/059	gschwind	4	g - sch w i n d - -
 111/073	bold	1	b o l d -
-111/075	gach	NA	- g a ch - - - - - -
+111/075	gach	NA	-
 111/077	gschwing	4	g - sch w i ng - - -
 111/079	boll	1	b o ll - -
-111/081	NA	NA	- - - - - - - - - -
+111/081	NA	NA	-
 111/083	boll	1	b o ll - -
-111/087	gach	NA	- g a ch - - - - - -
+111/087	gach	NA	-
 111/089	poll	1	p o ll - -
 111/105	bold	1	b o l d -
 111/107	bold	1	b o l d -
@@ -5837,24 +5837,24 @@ locations	strings	cognateID	alignments
 111/123	bold	1	b o l d -
 111/125	bald	1	b a l d -
 112/037	bald	1	b a l d -
-112/039	NA	NA	- - - - - - - - - -
+112/039	NA	NA	-
 112/041	bal	1	b a l - -
 112/043	gli	2	g l i -
 112/047	bald	1	b a l d -
 112/059	bald	1	b a l d -
 112/061	bald	1	b a l d -
-112/063	NA	NA	- - - - - - - - - -
-112/075	NA	NA	- - - - - - - - - -
+112/063	NA	NA	-
+112/075	NA	NA	-
 112/081	poll	1	p o ll - -
 112/083	gschwing	4	g - sch w i ng - - -
-112/085	NA	NA	- - - - - - - - - -
+112/085	NA	NA	-
 112/111	bold	1	b o l d -
 112/115	bold	1	b o l d -
 112/117	bold	1	b o l d -
 112/119	bold	1	b o l d -
 113/035	bald	1	b a l d -
 113/037	bald	1	b a l d -
-113/039	angens	NA	- a ng e n s - - - -
+113/039	angens	NA	-
 113/047	bald	1	b a l d -
 113/079	bol	1	b o l - -
 113/081	bal	1	b a l - -
@@ -5870,7 +5870,7 @@ locations	strings	cognateID	alignments
 115/041	bald	1	b a l d -
 115/043	bald	1	b a l d -
 115/045	bald	1	b a l d -
-115/083	schiar	NA	- sch ia r - - - - - -
+115/083	schiar	NA	-
 115/085	bol	1	b o l - -
 116/043	bald	1	b a l d -
 116/045	bald	1	b a l d -
@@ -5879,11 +5879,11 @@ locations	strings	cognateID	alignments
 117/045	bald	1	b a l d -
 118/041	bald	1	b a l d -
 119/083	boll	1	b o ll - -
-120/085	NA	NA	- - - - - - - - - -
+120/085	NA	NA	-
 121/127	poud	1	p ou - d -
 122/127	pold	1	p o l d -
 122/129	pold	1	p o l d -
-123/081	NA	NA	- - - - - - - - - -
+123/081	NA	NA	-
 123/123	pold	1	p o l d -
 123/125	poll	1	p o ll - -
 123/127	pold	1	p o l d -

@@ -268,7 +268,7 @@
 017/159	heg	1	h e g -
 017/161	hög	1	h ö g -
 017/163	hög	1	h ö g -
-017/165	NA	NA	- - - - - - - -
+017/165	NA	NA	-
 017/169	höch	1	h ö ch -
 017/171	hech	1	h e ch -
 017/183	höchch	1	h ö chch -
@@ -985,7 +985,7 @@
 028/089	hög	1	h ö g -
 028/091	höhg	1	h öh g -
 028/093	hög	1	h ö g -
-028/095	NA	NA	- - - - - - - -
+028/095	NA	NA	-
 028/097	hög	1	h ö g -
 028/099	hög	1	h ö g -
 028/103	hög	1	h ö g -
@@ -1273,7 +1273,7 @@
 032/089	hög	1	h ö g -
 032/091	hög	1	h ö g -
 032/093	hög	1	h ö g -
-032/095	NA	NA	- - - - - - - -
+032/095	NA	NA	-
 032/097	höj	1	h ö j -
 032/099	hö	1	h ö - -
 032/101	hög	1	h ö g -
@@ -1645,7 +1645,7 @@
 038/033	hög	1	h ö g -
 038/035	hög	1	h ö g -
 038/037	hög	1	h ö g -
-038/039	NA	NA	- - - - - - - -
+038/039	NA	NA	-
 038/041	hög	1	h ö g -
 038/043	hög	1	h ö g -
 038/045	hög	1	h ö g -
@@ -1841,7 +1841,7 @@
 041/063	hög	1	h ö g -
 041/065	heeg	1	h ee g -
 041/067	hög	1	h ö g -
-041/069	NA	NA	- - - - - - - -
+041/069	NA	NA	-
 041/071	hög	1	h ö g -
 041/073	högg	1	h ö gg -
 041/075	högg	1	h ö gg -
@@ -3214,7 +3214,7 @@
 062/041	hüj	1	h ü j -
 062/043	hüj	1	h ü j -
 062/045	hüch	1	h ü ch -
-062/047	NA	NA	- - - - - - - -
+062/047	NA	NA	-
 062/049	hiej	1	h ie j -
 062/051	hück	1	h ü ck -
 062/053	hiig	1	h ii g -
@@ -3234,7 +3234,7 @@
 062/081	höch	1	h ö ch -
 062/083	hech	1	h e ch -
 062/085	höch	1	h ö ch -
-062/087	NA	NA	- - - - - - - -
+062/087	NA	NA	-
 062/089	höch	1	h ö ch -
 062/091	höch	1	h ö ch -
 062/093	hech	1	h e ch -
@@ -3599,7 +3599,7 @@
 068/037	hü	1	h ü - -
 068/039	hieh	1	h ieh - -
 068/041	hih	1	h ih - -
-068/043	NA	NA	- - - - - - - -
+068/043	NA	NA	-
 068/045	hüg	1	h ü g -
 068/047	hiech	1	h ie ch -
 068/049	hieh	1	h ieh - -
@@ -3629,7 +3629,7 @@
 068/097	häich	1	h äi ch -
 068/099	häich	1	h äi ch -
 068/101	häich	1	h äi ch -
-068/103	NA	NA	- - - - - - - -
+068/103	NA	NA	-
 068/105	hejch	1	h ej ch -
 068/107	häch	1	h ä ch -
 068/109	hech	1	h e ch -
@@ -3640,7 +3640,7 @@
 068/151	hech	1	h e ch -
 068/153	hech	1	h e ch -
 068/155	hich	1	h i ch -
-068/157	NA	NA	- - - - - - - -
+068/157	NA	NA	-
 068/159	hech	1	h e ch -
 068/161	hech	1	h e ch -
 068/165	höch	1	h ö ch -
@@ -3693,14 +3693,14 @@
 069/147	hich	1	h i ch -
 069/149	hech	1	h e ch -
 069/151	hich	1	h i ch -
-069/153	NA	NA	- - - - - - - -
+069/153	NA	NA	-
 069/157	hech	1	h e ch -
 069/159	höch	1	h ö ch -
 069/161	hech	1	h e ch -
 069/163	hech	1	h e ch -
 069/165	höch	1	h ö ch -
 070/019	hei	1	h ei - -
-070/023	NA	NA	- - - - - - - -
+070/023	NA	NA	-
 070/025	hie	1	h ie - -
 070/027	hih	1	h ih - -
 070/029	hieh	1	h ieh - -
@@ -3923,7 +3923,7 @@
 073/153	hech	1	h e ch -
 073/155	hech	1	h e ch -
 073/157	hech	1	h e ch -
-073/159	NA	NA	- - - - - - - -
+073/159	NA	NA	-
 073/161	hech	1	h e ch -
 073/163	hech	1	h e ch -
 073/165	hech	1	h e ch -
@@ -3934,7 +3934,7 @@
 074/023	hech	1	h e ch -
 074/025	he	1	h e - -
 074/027	hich	1	h i ch -
-074/029	NA	NA	- - - - - - - -
+074/029	NA	NA	-
 074/031	hej	1	h e j -
 074/033	hej	1	h e j -
 074/035	heh	1	h eh - -
@@ -3965,7 +3965,7 @@
 074/085	häich	1	h äi ch -
 074/087	höich	1	h öi ch -
 074/089	haich	1	h ai ch -
-074/091	NA	NA	- - - - - - - -
+074/091	NA	NA	-
 074/093	höich	1	h öi ch -
 074/095	häich	1	h äi ch -
 074/097	höich	1	h öi ch -
@@ -3979,7 +3979,7 @@
 074/147	hich	1	h i ch -
 074/149	hich	1	h i ch -
 074/153	hich	1	h i ch -
-074/155	NA	NA	- - - - - - - -
+074/155	NA	NA	-
 074/157	höch	1	h ö ch -
 074/159	hech	1	h e ch -
 074/161	hich	1	h i ch -
@@ -4126,7 +4126,7 @@
 077/087	höich	1	h öi ch -
 077/089	höich	1	h öi ch -
 077/091	höich	1	h öi ch -
-077/093	NA	NA	- - - - - - - -
+077/093	NA	NA	-
 077/095	höich	1	h öi ch -
 077/097	häich	1	h äi ch -
 077/099	haüich	1	h aüi ch -
@@ -4173,7 +4173,7 @@
 078/095	häich	1	h äi ch -
 078/097	häich	1	h äi ch -
 078/099	heich	1	h ei ch -
-078/101	NA	NA	- - - - - - - -
+078/101	NA	NA	-
 078/103	häij	1	h äi j -
 078/105	höi	1	h öi - -
 078/135	höch	1	h ö ch -
@@ -4271,7 +4271,7 @@
 080/109	hech	1	h e ch -
 080/127	höh	1	h öh - -
 080/147	hech	1	h e ch -
-080/151	NA	NA	- - - - - - - -
+080/151	NA	NA	-
 080/153	hech	1	h e ch -
 080/193	hech	1	h e ch -
 080/195	hich	1	h i ch -
@@ -4319,7 +4319,7 @@
 081/109	heh	1	h eh - -
 081/111	hech	1	h e ch -
 081/127	heh	1	h eh - -
-081/129	NA	NA	- - - - - - - -
+081/129	NA	NA	-
 081/133	höh	1	h öh - -
 081/147	heehh	1	h eeh h -
 081/191	hich	1	h i ch -
@@ -4481,10 +4481,10 @@
 084/117	heh	1	h eh - -
 084/119	heh	1	h eh - -
 084/129	heh	1	h eh - -
-084/131	NA	NA	- - - - - - - -
+084/131	NA	NA	-
 084/133	hech	1	h e ch -
 084/135	heh	1	h eh - -
-084/137	NA	NA	- - - - - - - -
+084/137	NA	NA	-
 084/139	hech	1	h e ch -
 084/141	höh	1	h öh - -
 084/143	he	1	h e - -
@@ -4759,7 +4759,7 @@
 089/087	höch	1	h ö ch -
 089/089	höch	1	h ö ch -
 089/091	hech	1	h e ch -
-089/093	NA	NA	- - - - - - - -
+089/093	NA	NA	-
 089/095	heh	1	h eh - -
 089/097	höich	1	h öi ch -
 089/099	he	1	h e - -
@@ -4772,7 +4772,7 @@
 089/113	heh	1	h eh - -
 089/115	heh	1	h eh - -
 089/117	he	1	h e - -
-089/119	NA	NA	- - - - - - - -
+089/119	NA	NA	-
 089/121	hä	1	h ä - -
 089/123	höh	1	h öh - -
 089/125	hech	1	h e ch -
@@ -4881,7 +4881,7 @@
 091/101	heh	1	h eh - -
 091/103	hech	1	h e ch -
 091/105	hech	1	h e ch -
-091/107	NA	NA	- - - - - - - -
+091/107	NA	NA	-
 091/109	he	1	h e - -
 091/111	he	1	h e - -
 091/113	he	1	h e - -
@@ -4923,7 +4923,7 @@
 092/067	hai	1	h ai - -
 092/069	hee	1	h ee - -
 092/071	hö	1	h ö - -
-092/073	NA	NA	- - - - - - - -
+092/073	NA	NA	-
 092/075	höach	1	h öa ch -
 092/077	heach	1	h ea ch -
 092/079	höach	1	h öa ch -
@@ -4936,17 +4936,17 @@
 092/093	heech	1	h ee ch -
 092/095	hech	1	h e ch -
 092/097	heh	1	h eh - -
-092/099	NA	NA	- - - - - - - -
+092/099	NA	NA	-
 092/101	häch	1	h ä ch -
 092/103	heh	1	h eh - -
 092/105	hee	1	h ee - -
 092/107	heh	1	h eh - -
 092/109	he	1	h e - -
-092/111	NA	NA	- - - - - - - -
+092/111	NA	NA	-
 092/113	heh	1	h eh - -
 092/115	he	1	h e - -
 092/117	heh	1	h eh - -
-092/119	NA	NA	- - - - - - - -
+092/119	NA	NA	-
 092/121	hech	1	h e ch -
 092/123	heh	1	h eh - -
 092/125	hech	1	h e ch -
@@ -4955,7 +4955,7 @@
 092/131	höch	1	h ö ch -
 092/133	höch	1	h ö ch -
 092/135	heh	1	h eh - -
-092/137	NA	NA	- - - - - - - -
+092/137	NA	NA	-
 092/139	hech	1	h e ch -
 092/141	hech	1	h e ch -
 092/143	hech	1	h e ch -
@@ -5048,7 +5048,7 @@
 094/081	heach	1	h ea ch -
 094/083	heh	1	h eh - -
 094/085	hech	1	h e ch -
-094/087	NA	NA	- - - - - - - -
+094/087	NA	NA	-
 094/089	höh	1	h öh - -
 094/091	hech	1	h e ch -
 094/093	höich	1	h öi ch -
@@ -5061,7 +5061,7 @@
 094/107	höh	1	h öh - -
 094/109	heh	1	h eh - -
 094/111	heh	1	h eh - -
-094/113	NA	NA	- - - - - - - -
+094/113	NA	NA	-
 094/115	he	1	h e - -
 094/117	he	1	h e - -
 094/119	heh	1	h eh - -
@@ -5109,8 +5109,8 @@
 095/079	hech	1	h e ch -
 095/081	höch	1	h ö ch -
 095/083	höach	1	h öa ch -
-095/085	NA	NA	- - - - - - - -
-095/087	NA	NA	- - - - - - - -
+095/085	NA	NA	-
+095/087	NA	NA	-
 095/089	heeich	1	h eei ch -
 095/091	höich	1	h öi ch -
 095/093	höch	1	h ö ch -
@@ -5152,7 +5152,7 @@
 096/045	hee	1	h ee - -
 096/047	heh	1	h eh - -
 096/049	hech	1	h e ch -
-096/051	NA	NA	- - - - - - - -
+096/051	NA	NA	-
 096/053	heh	1	h eh - -
 096/055	höh	1	h öh - -
 096/057	heeh	1	h eeh - -
@@ -5195,7 +5195,7 @@
 096/137	hech	1	h e ch -
 096/139	hech	1	h e ch -
 096/141	hech	1	h e ch -
-096/143	NA	NA	- - - - - - - -
+096/143	NA	NA	-
 096/145	hech	1	h e ch -
 096/147	heech	1	h ee ch -
 096/151	heech	1	h ee ch -
@@ -5226,7 +5226,7 @@
 097/075	heach	1	h ea ch -
 097/077	höach	1	h öa ch -
 097/079	heach	1	h ea ch -
-097/081	NA	NA	- - - - - - - -
+097/081	NA	NA	-
 097/083	heach	1	h ea ch -
 097/085	häach	1	h äa ch -
 097/087	hech	1	h e ch -
@@ -5238,9 +5238,9 @@
 097/099	hech	1	h e ch -
 097/103	höh	1	h öh - -
 097/105	hech	1	h e ch -
-097/107	NA	NA	- - - - - - - -
+097/107	NA	NA	-
 097/109	hech	1	h e ch -
-097/113	NA	NA	- - - - - - - -
+097/113	NA	NA	-
 097/125	hech	1	h e ch -
 097/131	hech	1	h e ch -
 097/133	höch	1	h ö ch -
@@ -5333,7 +5333,7 @@
 099/101	hech	1	h e ch -
 099/103	heh	1	h eh - -
 099/105	hai	1	h ai - -
-099/107	NA	NA	- - - - - - - -
+099/107	NA	NA	-
 099/109	heh	1	h eh - -
 099/111	heh	1	h eh - -
 099/113	heh	1	h eh - -
@@ -5386,7 +5386,7 @@
 100/125	heh	1	h eh - -
 100/127	höch	1	h ö ch -
 100/129	höch	1	h ö ch -
-100/133	NA	NA	- - - - - - - -
+100/133	NA	NA	-
 100/135	hech	1	h e ch -
 100/141	höch	1	h ö ch -
 100/143	hech	1	h e ch -
@@ -5413,7 +5413,7 @@
 101/077	heach	1	h ea ch -
 101/079	heach	1	h ea ch -
 101/081	heach	1	h ea ch -
-101/091	NA	NA	- - - - - - - -
+101/091	NA	NA	-
 101/093	heach	1	h ea ch -
 101/095	heach	1	h ea ch -
 101/097	hech	1	h e ch -
@@ -5632,7 +5632,7 @@
 106/073	heach	1	h ea ch -
 106/075	heach	1	h ea ch -
 106/077	heach	1	h ea ch -
-106/079	NA	NA	- - - - - - - -
+106/079	NA	NA	-
 106/081	heah	1	h eah - -
 106/085	heach	1	h ea ch -
 106/087	heach	1	h ea ch -
@@ -5648,7 +5648,7 @@
 106/129	höch	1	h ö ch -
 106/131	heach	1	h ea ch -
 106/133	hech	1	h e ch -
-106/135	NA	NA	- - - - - - - -
+106/135	NA	NA	-
 106/137	hech	1	h e ch -
 106/139	hech	1	h e ch -
 106/141	heach	1	h ea ch -
@@ -5719,7 +5719,7 @@
 108/109	heach	1	h ea ch -
 108/111	heh	1	h eh - -
 108/113	heach	1	h ea ch -
-108/117	NA	NA	- - - - - - - -
+108/117	NA	NA	-
 108/119	heach	1	h ea ch -
 108/121	hooach	1	h ooa ch -
 108/123	höach	1	h öa ch -
@@ -5763,7 +5763,7 @@
 109/117	heah	1	h eah - -
 109/119	herch	1	h er ch -
 109/121	heh	1	h eh - -
-109/123	NA	NA	- - - - - - - -
+109/123	NA	NA	-
 109/125	heach	1	h ea ch -
 109/127	heach	1	h ea ch -
 109/129	heach	1	h ea ch -
@@ -5801,7 +5801,7 @@
 110/115	heach	1	h ea ch -
 110/117	hö	1	h ö - -
 110/119	heach	1	h ea ch -
-110/121	NA	NA	- - - - - - - -
+110/121	NA	NA	-
 110/125	höh	1	h öh - -
 110/127	heach	1	h ea ch -
 110/129	heach	1	h ea ch -
@@ -5864,7 +5864,7 @@
 113/121	hoh	1	h oh - -
 113/123	hüh	1	h üh - -
 114/035	höij	1	h öi j -
-114/045	NA	NA	- - - - - - - -
+114/045	NA	NA	-
 114/083	heach	1	h ea ch -
 114/085	he	1	h e - -
 115/041	hech	1	h e ch -

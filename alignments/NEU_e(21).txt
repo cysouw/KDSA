@@ -23,12 +23,12 @@
 008/213	ni	1	n i - -
 009/199	nie	1	n ie - -
 009/203	nie	1	n ie - -
-009/207	NA	NA	- - - - -
+009/207	NA	NA	-
 009/209	ni	1	n i - -
 009/211	nig	1	n i g -
 009/213	nü	1	n ü - -
 009/215	nü	1	n ü - -
-009/217	NA	NA	- - - - -
+009/217	NA	NA	-
 010/195	nie	1	n ie - -
 010/203	nü	1	n ü - -
 010/207	nie	1	n ie - -
@@ -314,7 +314,7 @@
 018/111	nieg	1	n ie g -
 018/143	ni	1	n i - -
 018/145	ni	1	n i - -
-018/147	NA	NA	- - - - -
+018/147	NA	NA	-
 018/149	ni	1	n i - -
 018/151	ni	1	n i - -
 018/153	nih	1	n ih - -
@@ -357,7 +357,7 @@
 019/069	ni	1	n i - -
 019/071	nee	1	n ee - -
 019/073	ni	1	n i - -
-019/075	NA	NA	- - - - -
+019/075	NA	NA	-
 019/077	nii	1	n ii - -
 019/079	ni	1	n i - -
 019/081	ni	1	n i - -
@@ -454,7 +454,7 @@
 020/177	nig	1	n i g -
 020/179	nie	1	n ie - -
 020/181	nie	1	n ie - -
-020/183	NA	NA	- - - - -
+020/183	NA	NA	-
 020/185	ni	1	n i - -
 020/187	neu	1	n eu - -
 020/189	ni	1	n i - -
@@ -643,7 +643,7 @@
 023/113	niech	1	n ie ch -
 023/115	nieg	1	n ie g -
 023/117	nieg	1	n ie g -
-023/121	NA	NA	- - - - -
+023/121	NA	NA	-
 023/123	ni	1	n i - -
 023/125	ni	1	n i - -
 023/127	nii	1	n ii - -
@@ -678,7 +678,7 @@
 023/197	neu	1	n eu - -
 023/199	neeh	1	n eeh - -
 023/201	ne	1	n e - -
-023/203	NA	NA	- - - - -
+023/203	NA	NA	-
 023/205	ni	1	n i - -
 023/207	nieh	1	n ieh - -
 023/215	nie	1	n ie - -
@@ -694,7 +694,7 @@
 024/071	ni	1	n i - -
 024/073	ni	1	n i - -
 024/075	ni	1	n i - -
-024/077	NA	NA	- - - - -
+024/077	NA	NA	-
 024/079	ni	1	n i - -
 024/081	ni	1	n i - -
 024/083	ni	1	n i - -
@@ -707,14 +707,14 @@
 024/097	nieg	1	n ie g -
 024/099	ni	1	n i - -
 024/101	nij	1	n i j -
-024/103	NA	NA	- - - - -
+024/103	NA	NA	-
 024/105	nie	1	n ie - -
 024/107	ni	1	n i - -
 024/109	ni	1	n i - -
 024/111	ni	1	n i - -
 024/113	nieg	1	n ie g -
 024/115	nig	1	n i g -
-024/117	NA	NA	- - - - -
+024/117	NA	NA	-
 024/119	ni	1	n i - -
 024/121	ni	1	n i - -
 024/123	ni	1	n i - -
@@ -766,7 +766,7 @@
 025/065	nee	1	n ee - -
 025/067	ne	1	n e - -
 025/069	ni	1	n i - -
-025/071	NA	NA	- - - - -
+025/071	NA	NA	-
 025/073	ni	1	n i - -
 025/075	ni	1	n i - -
 025/077	ni	1	n i - -
@@ -780,7 +780,7 @@
 025/093	nieg	1	n ie g -
 025/095	ni	1	n i - -
 025/099	ni	1	n i - -
-025/101	NA	NA	- - - - -
+025/101	NA	NA	-
 025/103	nieg	1	n ie g -
 025/105	ni	1	n i - -
 025/107	nig	1	n i g -
@@ -869,7 +869,7 @@
 026/143	nij	1	n i j -
 026/145	nig	1	n i g -
 026/147	nig	1	n i g -
-026/153	NA	NA	- - - - -
+026/153	NA	NA	-
 026/155	nig	1	n i g -
 026/157	nieg	1	n ie g -
 026/159	nig	1	n i g -
@@ -965,7 +965,7 @@
 028/049	ne	1	n e - -
 028/051	ne	1	n e - -
 028/053	ne	1	n e - -
-028/055	NA	NA	- - - - -
+028/055	NA	NA	-
 028/057	ne	1	n e - -
 028/059	ne	1	n e - -
 028/061	neu	1	n eu - -
@@ -980,7 +980,7 @@
 028/079	ni	1	n i - -
 028/081	nieh	1	n ieh - -
 028/083	ni	1	n i - -
-028/085	NA	NA	- - - - -
+028/085	NA	NA	-
 028/087	ni	1	n i - -
 028/089	nieg	1	n ie g -
 028/091	niej	1	n ie j -
@@ -1039,7 +1039,7 @@
 029/053	nee	1	n ee - -
 029/055	ne	1	n e - -
 029/057	ne	1	n e - -
-029/059	NA	NA	- - - - -
+029/059	NA	NA	-
 029/061	ne	1	n e - -
 029/065	näi	1	n äi - -
 029/067	ne	1	n e - -
@@ -1062,7 +1062,7 @@
 029/101	ni	1	n i - -
 029/103	nieg	1	n ie g -
 029/105	nig	1	n i g -
-029/107	NA	NA	- - - - -
+029/107	NA	NA	-
 029/109	ne	1	n e - -
 029/111	ne	1	n e - -
 029/113	nieg	1	n ie g -
@@ -1185,7 +1185,7 @@
 031/053	ne	1	n e - -
 031/055	ne	1	n e - -
 031/057	ne	1	n e - -
-031/059	NA	NA	- - - - -
+031/059	NA	NA	-
 031/061	nee	1	n ee - -
 031/063	ne	1	n e - -
 031/065	nei	1	n ei - -
@@ -1307,7 +1307,7 @@
 032/163	nieg	1	n ie g -
 032/167	niej	1	n ie j -
 032/169	neu	1	n eu - -
-032/171	NA	NA	- - - - -
+032/171	NA	NA	-
 032/173	neu	1	n eu - -
 032/175	nig	1	n i g -
 032/177	nig	1	n i g -
@@ -1326,7 +1326,7 @@
 033/053	näe	1	n äe - -
 033/055	ne	1	n e - -
 033/057	nää	1	n ää - -
-033/059	NA	NA	- - - - -
+033/059	NA	NA	-
 033/061	ne	1	n e - -
 033/063	nee	1	n ee - -
 033/065	nee	1	n ee - -
@@ -1369,7 +1369,7 @@
 033/139	niej	1	n ie j -
 033/141	nieg	1	n ie g -
 033/143	nigg	1	n i gg -
-033/145	NA	NA	- - - - -
+033/145	NA	NA	-
 033/147	nij	1	n i j -
 033/149	nigg	1	n i gg -
 033/151	nieg	1	n ie g -
@@ -1522,11 +1522,11 @@
 036/045	neei	1	n eei - -
 036/047	ne	1	n e - -
 036/049	ne	1	n e - -
-036/051	NA	NA	- - - - -
+036/051	NA	NA	-
 036/053	neh	1	n eh - -
 036/055	ne	1	n e - -
 036/057	ne	1	n e - -
-036/059	NA	NA	- - - - -
+036/059	NA	NA	-
 036/061	nei	1	n ei - -
 036/063	nei	1	n ei - -
 036/065	näi	1	n äi - -
@@ -1703,7 +1703,7 @@
 038/159	nig	1	n i g -
 038/161	nig	1	n i g -
 038/163	nieg	1	n ie g -
-039/029	NA	NA	- - - - -
+039/029	NA	NA	-
 039/031	nij	1	n i j -
 039/033	nei	1	n ei - -
 039/035	näi	1	n äi - -
@@ -1819,7 +1819,7 @@
 040/137	neu	1	n eu - -
 040/141	nei	1	n ei - -
 040/143	nei	1	n ei - -
-040/149	NA	NA	- - - - -
+040/149	NA	NA	-
 040/153	nig	1	n i g -
 040/155	nigg	1	n i gg -
 041/031	nij	1	n i j -
@@ -1841,14 +1841,14 @@
 041/063	nie	1	n ie - -
 041/065	nie	1	n ie - -
 041/067	nie	1	n ie - -
-041/069	NA	NA	- - - - -
+041/069	NA	NA	-
 041/071	nie	1	n ie - -
 041/073	ni	1	n i - -
 041/075	ni	1	n i - -
 041/077	nie	1	n ie - -
 041/079	nii	1	n ii - -
 041/081	neäi	1	n eäi - -
-041/083	NA	NA	- - - - -
+041/083	NA	NA	-
 041/085	nai	1	n ai - -
 041/087	nei	1	n ei - -
 041/089	näi	1	n äi - -
@@ -1932,7 +1932,7 @@
 042/125	nei	1	n ei - -
 042/127	nei	1	n ei - -
 042/129	nei	1	n ei - -
-042/131	NA	NA	- - - - -
+042/131	NA	NA	-
 042/133	neu	1	n eu - -
 042/135	neu	1	n eu - -
 042/137	neu	1	n eu - -
@@ -1993,7 +1993,7 @@
 043/121	nie	1	n ie - -
 043/123	nei	1	n ei - -
 043/125	nei	1	n ei - -
-043/127	NA	NA	- - - - -
+043/127	NA	NA	-
 043/129	nei	1	n ei - -
 043/131	neu	1	n eu - -
 043/133	neu	1	n eu - -
@@ -2088,7 +2088,7 @@
 045/075	näi	1	n äi - -
 045/077	ni	1	n i - -
 045/079	nie	1	n ie - -
-045/081	NA	NA	- - - - -
+045/081	NA	NA	-
 045/083	ni	1	n i - -
 045/085	nie	1	n ie - -
 045/087	ne	1	n e - -
@@ -2216,7 +2216,7 @@
 047/097	näi	1	n äi - -
 047/099	neä	1	n eä - -
 047/101	naih	1	n aih - -
-047/103	NA	NA	- - - - -
+047/103	NA	NA	-
 047/105	nee	1	n ee - -
 047/107	nei	1	n ei - -
 047/109	nee	1	n ee - -
@@ -2320,7 +2320,7 @@
 049/051	nigg	1	n i gg -
 049/053	nigg	1	n i gg -
 049/055	nigg	1	n i gg -
-049/057	NA	NA	- - - - -
+049/057	NA	NA	-
 049/059	nigg	1	n i gg -
 049/061	noi	1	n oi - -
 049/063	nööi	1	n ööi - -
@@ -2450,7 +2450,7 @@
 051/049	nigg	1	n i gg -
 051/051	nigg	1	n i gg -
 051/053	negg	1	n e gg -
-051/055	NA	NA	- - - - -
+051/055	NA	NA	-
 051/057	nigg	1	n i gg -
 051/059	nigg	1	n i gg -
 051/061	nig	1	n i g -
@@ -2517,7 +2517,7 @@
 052/047	nigg	1	n i gg -
 052/049	nigg	1	n i gg -
 052/051	nijj	1	n i jj -
-052/053	NA	NA	- - - - -
+052/053	NA	NA	-
 052/057	neg	1	n e g -
 052/059	negg	1	n e gg -
 052/061	nigg	1	n i gg -
@@ -2596,7 +2596,7 @@
 053/071	nijj	1	n i jj -
 053/073	neu	1	n eu - -
 053/075	näij	1	n äi j -
-053/077	NA	NA	- - - - -
+053/077	NA	NA	-
 053/079	näij	1	n äi j -
 053/081	nä	1	n ä - -
 053/083	näi	1	n äi - -
@@ -2641,7 +2641,7 @@
 054/029	nöi	1	n öi - -
 054/031	neu	1	n eu - -
 054/033	nöu	1	n öu - -
-054/035	NA	NA	- - - - -
+054/035	NA	NA	-
 054/037	nigg	1	n i gg -
 054/039	nigg	1	n i gg -
 054/041	nigg	1	n i gg -
@@ -2717,7 +2717,7 @@
 055/041	nigg	1	n i gg -
 055/043	nigg	1	n i gg -
 055/045	nigg	1	n i gg -
-055/047	NA	NA	- - - - -
+055/047	NA	NA	-
 055/049	nigg	1	n i gg -
 055/051	nigg	1	n i gg -
 055/053	nijj	1	n i jj -
@@ -2753,7 +2753,7 @@
 055/113	nau	1	n au - -
 055/115	neu	1	n eu - -
 055/117	nei	1	n ei - -
-055/119	NA	NA	- - - - -
+055/119	NA	NA	-
 055/123	neu	1	n eu - -
 055/125	neu	1	n eu - -
 055/127	neu	1	n eu - -
@@ -2914,7 +2914,7 @@
 057/157	neu	1	n eu - -
 057/159	neu	1	n eu - -
 057/161	nei	1	n ei - -
-058/019	NA	NA	- - - - -
+058/019	NA	NA	-
 058/021	nüh	1	n üh - -
 058/023	neu	1	n eu - -
 058/025	nöi	1	n öi - -
@@ -2956,7 +2956,7 @@
 058/097	nau	1	n au - -
 058/099	nau	1	n au - -
 058/101	nei	1	n ei - -
-058/103	NA	NA	- - - - -
+058/103	NA	NA	-
 058/105	nei	1	n ei - -
 058/107	nei	1	n ei - -
 058/109	nei	1	n ei - -
@@ -2994,7 +2994,7 @@
 059/031	neu	1	n eu - -
 059/033	neu	1	n eu - -
 059/035	neu	1	n eu - -
-059/037	NA	NA	- - - - -
+059/037	NA	NA	-
 059/039	neu	1	n eu - -
 059/041	nööüü	1	n ööüü - -
 059/043	nöj	1	n ö j -
@@ -3031,7 +3031,7 @@
 059/105	nei	1	n ei - -
 059/107	neu	1	n eu - -
 059/109	nei	1	n ei - -
-059/111	NA	NA	- - - - -
+059/111	NA	NA	-
 059/113	nei	1	n ei - -
 059/115	nei	1	n ei - -
 059/117	nei	1	n ei - -
@@ -3070,7 +3070,7 @@
 060/037	neu	1	n eu - -
 060/039	nö	1	n ö - -
 060/041	näu	1	n äu - -
-060/043	NA	NA	- - - - -
+060/043	NA	NA	-
 060/045	ne	1	n e - -
 060/047	nau	1	n au - -
 060/049	nau	1	n au - -
@@ -3196,7 +3196,7 @@
 061/149	neu	1	n eu - -
 061/151	neu	1	n eu - -
 061/153	neu	1	n eu - -
-061/155	NA	NA	- - - - -
+061/155	NA	NA	-
 061/157	noi	1	n oi - -
 061/159	neu	1	n eu - -
 061/161	noi	1	n oi - -
@@ -3216,7 +3216,7 @@
 062/045	nau	1	n au - -
 062/047	nau	1	n au - -
 062/049	nau	1	n au - -
-062/051	NA	NA	- - - - -
+062/051	NA	NA	-
 062/053	nau	1	n au - -
 062/055	nau	1	n au - -
 062/057	nau	1	n au - -
@@ -3251,7 +3251,7 @@
 062/115	naj	1	n a j -
 062/117	nei	1	n ei - -
 062/119	nei	1	n ei - -
-062/121	NA	NA	- - - - -
+062/121	NA	NA	-
 062/123	nuj	1	n u j -
 062/125	noi	1	n oi - -
 062/127	neu	1	n eu - -
@@ -3390,15 +3390,15 @@
 064/113	nei	1	n ei - -
 064/115	nei	1	n ei - -
 064/117	nei	1	n ei - -
-064/119	NA	NA	- - - - -
+064/119	NA	NA	-
 064/121	neij	1	n ei j -
-064/123	NA	NA	- - - - -
+064/123	NA	NA	-
 064/125	noj	1	n o j -
 064/127	neu	1	n eu - -
 064/135	nei	1	n ei - -
 064/137	nei	1	n ei - -
 064/139	neu	1	n eu - -
-064/141	NA	NA	- - - - -
+064/141	NA	NA	-
 064/143	noi	1	n oi - -
 064/145	noi	1	n oi - -
 064/147	neu	1	n eu - -
@@ -3457,7 +3457,7 @@
 065/115	nei	1	n ei - -
 065/121	nej	1	n e j -
 065/123	nej	1	n e j -
-065/137	NA	NA	- - - - -
+065/137	NA	NA	-
 065/139	nei	1	n ei - -
 065/143	noi	1	n oi - -
 065/145	neu	1	n eu - -
@@ -3741,7 +3741,7 @@
 070/099	nai	1	n ai - -
 070/101	nei	1	n ei - -
 070/103	nai	1	n ai - -
-070/105	NA	NA	- - - - -
+070/105	NA	NA	-
 070/107	neij	1	n ei j -
 070/109	naj	1	n a j -
 070/111	naaj	1	n aa j -
@@ -3920,7 +3920,7 @@
 073/147	neu	1	n eu - -
 073/149	nei	1	n ei - -
 073/151	naj	1	n a j -
-073/153	NA	NA	- - - - -
+073/153	NA	NA	-
 073/155	neij	1	n ei j -
 073/157	nei	1	n ei - -
 073/159	nei	1	n ei - -
@@ -3946,7 +3946,7 @@
 074/047	nei	1	n ei - -
 074/049	nei	1	n ei - -
 074/051	nei	1	n ei - -
-074/053	NA	NA	- - - - -
+074/053	NA	NA	-
 074/055	nei	1	n ei - -
 074/057	nei	1	n ei - -
 074/059	neüi	1	n eüi - -
@@ -3974,12 +3974,12 @@
 074/103	nei	1	n ei - -
 074/105	nei	1	n ei - -
 074/107	nei	1	n ei - -
-074/109	NA	NA	- - - - -
+074/109	NA	NA	-
 074/145	neu	1	n eu - -
 074/147	nai	1	n ai - -
 074/149	nai	1	n ai - -
 074/153	naj	1	n a j -
-074/155	NA	NA	- - - - -
+074/155	NA	NA	-
 074/157	nei	1	n ei - -
 074/159	nai	1	n ai - -
 074/161	nai	1	n ai - -
@@ -4083,7 +4083,7 @@
 076/101	nei	1	n ei - -
 076/103	nei	1	n ei - -
 076/135	neij	1	n ei j -
-076/137	NA	NA	- - - - -
+076/137	NA	NA	-
 076/149	nei	1	n ei - -
 076/151	nai	1	n ai - -
 076/155	nei	1	n ei - -
@@ -4221,10 +4221,10 @@
 079/103	nuü	1	n uü - -
 079/105	nui	1	n ui - -
 079/107	nuj	1	n u j -
-079/133	NA	NA	- - - - -
+079/133	NA	NA	-
 079/135	nei	1	n ei - -
 079/193	noj	1	n o j -
-079/195	NA	NA	- - - - -
+079/195	NA	NA	-
 079/197	neih	1	n eih - -
 080/025	nau	1	n au - -
 080/027	nau	1	n au - -
@@ -4272,7 +4272,7 @@
 080/127	neih	1	n eih - -
 080/147	neich	1	n ei ch -
 080/151	nuj	1	n u j -
-080/153	NA	NA	- - - - -
+080/153	NA	NA	-
 080/193	naj	1	n a j -
 080/195	nai	1	n ai - -
 081/025	nuh	1	n uh - -
@@ -4304,7 +4304,7 @@
 081/079	neu	1	n eu - -
 081/081	nai	1	n ai - -
 081/083	neui	1	n eui - -
-081/085	NA	NA	- - - - -
+081/085	NA	NA	-
 081/087	neu	1	n eu - -
 081/089	neu	1	n eu - -
 081/091	neu	1	n eu - -
@@ -4343,7 +4343,7 @@
 082/057	nei	1	n ei - -
 082/059	nui	1	n ui - -
 082/061	neu	1	n eu - -
-082/063	NA	NA	- - - - -
+082/063	NA	NA	-
 082/065	nai	1	n ai - -
 082/067	nei	1	n ei - -
 082/069	nui	1	n ui - -
@@ -4407,7 +4407,7 @@
 083/081	nei	1	n ei - -
 083/083	neu	1	n eu - -
 083/085	nei	1	n ei - -
-083/087	NA	NA	- - - - -
+083/087	NA	NA	-
 083/089	neu	1	n eu - -
 083/091	neu	1	n eu - -
 083/093	nei	1	n ei - -
@@ -4481,7 +4481,7 @@
 084/117	nei	1	n ei - -
 084/119	nei	1	n ei - -
 084/129	neuh	1	n euh - -
-084/131	NA	NA	- - - - -
+084/131	NA	NA	-
 084/133	neich	1	n ei ch -
 084/135	neich	1	n ei ch -
 084/137	neich	1	n ei ch -
@@ -4492,7 +4492,7 @@
 084/147	neui	1	n eui - -
 084/149	naich	1	n ai ch -
 084/171	naaj	1	n aa j -
-084/173	NA	NA	- - - - -
+084/173	NA	NA	-
 084/195	neu	1	n eu - -
 085/031	nöu	1	n öu - -
 085/033	neu	1	n eu - -
@@ -4529,7 +4529,7 @@
 085/095	noi	1	n oi - -
 085/097	neu	1	n eu - -
 085/101	nei	1	n ei - -
-085/103	NA	NA	- - - - -
+085/103	NA	NA	-
 085/105	noi	1	n oi - -
 085/107	noi	1	n oi - -
 085/109	nei	1	n ei - -
@@ -4546,7 +4546,7 @@
 085/131	naich	1	n ai ch -
 085/133	neich	1	n ei ch -
 085/135	neich	1	n ei ch -
-085/137	NA	NA	- - - - -
+085/137	NA	NA	-
 085/139	neich	1	n ei ch -
 085/141	nei	1	n ei - -
 085/143	neich	1	n ei ch -
@@ -4717,7 +4717,7 @@
 088/109	nei	1	n ei - -
 088/113	neu	1	n eu - -
 088/115	neich	1	n ei ch -
-088/117	NA	NA	- - - - -
+088/117	NA	NA	-
 088/121	nai	1	n ai - -
 088/123	neich	1	n ei ch -
 088/127	neich	1	n ei ch -
@@ -4733,7 +4733,7 @@
 089/035	neu	1	n eu - -
 089/037	nei	1	n ei - -
 089/039	nei	1	n ei - -
-089/041	NA	NA	- - - - -
+089/041	NA	NA	-
 089/043	nau	1	n au - -
 089/045	nou	1	n ou - -
 089/047	nei	1	n ei - -
@@ -4814,11 +4814,11 @@
 090/081	nei	1	n ei - -
 090/083	neu	1	n eu - -
 090/085	nei	1	n ei - -
-090/087	NA	NA	- - - - -
+090/087	NA	NA	-
 090/089	neu	1	n eu - -
 090/091	nei	1	n ei - -
 090/093	nei	1	n ei - -
-090/095	NA	NA	- - - - -
+090/095	NA	NA	-
 090/097	nei	1	n ei - -
 090/099	nei	1	n ei - -
 090/101	neu	1	n eu - -
@@ -5006,7 +5006,7 @@
 093/117	nai	1	n ai - -
 093/119	neuch	1	n eu ch -
 093/121	neich	1	n ei ch -
-093/123	NA	NA	- - - - -
+093/123	NA	NA	-
 093/125	nei	1	n ei - -
 093/127	naich	1	n ai ch -
 093/129	neuch	1	n eu ch -
@@ -5112,7 +5112,7 @@
 095/085	nei	1	n ei - -
 095/087	nei	1	n ei - -
 095/089	nei	1	n ei - -
-095/091	NA	NA	- - - - -
+095/091	NA	NA	-
 095/093	nei	1	n ei - -
 095/095	nei	1	n ei - -
 095/097	neu	1	n eu - -
@@ -5192,7 +5192,7 @@
 096/129	neich	1	n ei ch -
 096/131	neich	1	n ei ch -
 096/135	neich	1	n ei ch -
-096/137	NA	NA	- - - - -
+096/137	NA	NA	-
 096/139	neich	1	n ei ch -
 096/141	neich	1	n ei ch -
 096/143	neich	1	n ei ch -
@@ -5263,7 +5263,7 @@
 098/053	nöi	1	n öi - -
 098/055	nei	1	n ei - -
 098/057	nei	1	n ei - -
-098/059	NA	NA	- - - - -
+098/059	NA	NA	-
 098/061	nui	1	n ui - -
 098/063	nui	1	n ui - -
 098/065	nui	1	n ui - -
@@ -5286,11 +5286,11 @@
 098/103	noi	1	n oi - -
 098/105	nei	1	n ei - -
 098/107	noi	1	n oi - -
-098/109	NA	NA	- - - - -
+098/109	NA	NA	-
 098/111	noi	1	n oi - -
 098/119	nei	1	n ei - -
 098/123	neich	1	n ei ch -
-098/125	NA	NA	- - - - -
+098/125	NA	NA	-
 098/127	neich	1	n ei ch -
 098/135	neig	1	n ei g -
 098/137	neich	1	n ei ch -
@@ -5456,7 +5456,7 @@
 102/073	nui	1	n ui - -
 102/075	nui	1	n ui - -
 102/077	nui	1	n ui - -
-102/079	NA	NA	- - - - -
+102/079	NA	NA	-
 102/081	nui	1	n ui - -
 102/083	nui	1	n ui - -
 102/089	noi	1	n oi - -
@@ -5505,7 +5505,7 @@
 103/087	nui	1	n ui - -
 103/089	nui	1	n ui - -
 103/091	noi	1	n oi - -
-103/097	NA	NA	- - - - -
+103/097	NA	NA	-
 103/099	noi	1	n oi - -
 103/101	neich	1	n ei ch -
 103/105	noich	1	n oi ch -
@@ -5598,7 +5598,7 @@
 105/089	neu	1	n eu - -
 105/103	nei	1	n ei - -
 105/105	noch	1	n o ch -
-105/111	NA	NA	- - - - -
+105/111	NA	NA	-
 105/113	noi	1	n oi - -
 105/115	noi	1	n oi - -
 105/117	nui	1	n ui - -
@@ -5677,7 +5677,7 @@
 107/089	noi	1	n oi - -
 107/091	noi	1	n oi - -
 107/097	nöi	1	n öi - -
-107/099	NA	NA	- - - - -
+107/099	NA	NA	-
 107/103	neuj	1	n eu j -
 107/105	nei	1	n ei - -
 107/107	nei	1	n ei - -
@@ -5756,7 +5756,7 @@
 109/101	noi	1	n oi - -
 109/103	noi	1	n oi - -
 109/107	nei	1	n ei - -
-109/109	NA	NA	- - - - -
+109/109	NA	NA	-
 109/111	noi	1	n oi - -
 109/113	noj	1	n o j -
 109/115	noj	1	n o j -
@@ -5768,7 +5768,7 @@
 109/127	neig	1	n ei g -
 109/129	neiich	1	n eii ch -
 109/131	neug	1	n eu g -
-109/133	NA	NA	- - - - -
+109/133	NA	NA	-
 109/135	naig	1	n ai g -
 109/137	nei	1	n ei - -
 109/139	nei	1	n ei - -
@@ -5808,7 +5808,7 @@
 110/131	neig	1	n ei g -
 110/133	neig	1	n ei g -
 110/135	nei	1	n ei - -
-110/137	NA	NA	- - - - -
+110/137	NA	NA	-
 110/139	neig	1	n ei g -
 111/035	nü	1	n ü - -
 111/037	nüw	1	n ü w -

@@ -97,7 +97,7 @@
 013/053	fünn	1	- f ü nn -
 013/055	fünn	1	- f ü nn -
 013/057	funn	1	- f u nn -
-013/059	NA	NA	- - - - - - -
+013/059	NA	NA	-
 013/061	fonn	1	- f o nn -
 013/063	funn	1	- f u nn -
 013/065	funn	1	- f u nn -
@@ -129,7 +129,7 @@
 014/051	fün	1	- f ü n -
 014/053	fünn	1	- f ü nn -
 014/055	fonn	1	- f o nn -
-014/057	NA	NA	- - - - - - -
+014/057	NA	NA	-
 014/059	funn	1	- f u nn -
 014/061	fonn	1	- f o nn -
 014/063	fun	1	- f u n -
@@ -808,7 +808,7 @@
 025/157	fung	1	- f u ng -
 025/159	fung	1	- f u ng -
 025/177	fung	1	- f u ng -
-025/179	NA	NA	- - - - - - -
+025/179	NA	NA	-
 025/181	fung	1	- f u ng -
 025/183	fung	1	- f u ng -
 025/185	fung	1	- f u ng -
@@ -824,7 +824,7 @@
 026/051	funn	1	- f u nn -
 026/053	funn	1	- f u nn -
 026/055	funn	1	- f u nn -
-026/057	NA	NA	- - - - - - -
+026/057	NA	NA	-
 026/059	fun	1	- f u n -
 026/061	funn	1	- f u nn -
 026/063	funn	1	- f u nn -
@@ -1215,7 +1215,7 @@
 031/113	funn	1	- f u nn -
 031/115	funn	1	- f u nn -
 031/117	fund	1	- f u n d
-031/119	NA	NA	- - - - - - -
+031/119	NA	NA	-
 031/121	fund	1	- f u n d
 031/123	funn	1	- f u nn -
 031/125	funn	1	- f u nn -
@@ -1230,7 +1230,7 @@
 031/143	funn	1	- f u nn -
 031/145	funn	1	- f u nn -
 031/147	funn	1	- f u nn -
-031/149	NA	NA	- - - - - - -
+031/149	NA	NA	-
 031/151	funn	1	- f u nn -
 031/153	fun	1	- f u n -
 031/155	funn	1	- f u nn -
@@ -2199,7 +2199,7 @@
 047/063	fun	1	- f u n -
 047/065	funn	1	- f u nn -
 047/067	funn	1	- f u nn -
-047/069	NA	NA	- - - - - - -
+047/069	NA	NA	-
 047/071	fun	1	- f u n -
 047/073	fun	1	- f u n -
 047/075	fun	1	- f u n -
@@ -3251,7 +3251,7 @@
 062/115	funn	1	- f u nn -
 062/117	funn	1	- f u nn -
 062/119	fund	1	- f u n d
-062/121	NA	NA	- - - - - - -
+062/121	NA	NA	-
 062/123	fund	1	- f u n d
 062/125	funn	1	- f u nn -
 062/127	fond	1	- f o n d
@@ -3325,7 +3325,7 @@
 063/121	gelaan	2	g e l aa - n -
 063/123	fund	1	- f u n d
 063/125	fund	1	- f u n d
-063/127	NA	NA	- - - - - - -
+063/127	NA	NA	-
 063/135	fonn	1	- f o nn -
 063/137	fond	1	- f o n d
 063/139	fond	1	- f o n d
@@ -3644,7 +3644,7 @@
 068/159	fond	1	- f o n d
 068/161	fond	1	- f o n d
 068/165	fund	1	- f u n d
-069/019	NA	NA	- - - - - - -
+069/019	NA	NA	-
 069/023	fond	1	- f o n d
 069/025	fonnd	1	- f o nn d
 069/027	fond	1	- f o n d
@@ -3800,7 +3800,7 @@
 071/101	fun	1	- f u n -
 071/103	fung	1	- f u ng -
 071/105	fun	1	- f u n -
-071/145	NA	NA	- - - - - - -
+071/145	NA	NA	-
 071/147	fund	1	- f u n d
 071/149	found	1	- f ou n d
 071/151	fond	1	- f o n d
@@ -4491,8 +4491,8 @@
 084/145	gsehn	2	g - s eh - n -
 084/147	fun	1	- f u n -
 084/149	fun	1	- f u n -
-084/171	NA	NA	- - - - - - -
-084/173	NA	NA	- - - - - - -
+084/171	NA	NA	-
+084/173	NA	NA	-
 084/195	foun	1	- f ou n -
 085/031	fung	1	- f u ng -
 085/033	fung	1	- f u ng -
@@ -4521,7 +4521,7 @@
 085/079	funn	1	- f u nn -
 085/081	funn	1	- f u nn -
 085/083	fun	1	- f u n -
-085/085	NA	NA	- - - - - - -
+085/085	NA	NA	-
 085/087	fun	1	- f u n -
 085/089	fund	1	- f u n d
 085/091	fund	1	- f u n d
@@ -4759,7 +4759,7 @@
 089/087	funn	1	- f u nn -
 089/089	fund	1	- f u n d
 089/091	funn	1	- f u nn -
-089/093	NA	NA	- - - - - - -
+089/093	NA	NA	-
 089/095	funt	1	- f u n t
 089/097	fundd	1	- f u n dd
 089/099	fund	1	- f u n d
@@ -4875,7 +4875,7 @@
 091/087	fund	1	- f u n d
 091/091	funn	1	- f u nn -
 091/093	fund	1	- f u n d
-091/095	NA	NA	- - - - - - -
+091/095	NA	NA	-
 091/097	fun	1	- f u n -
 091/099	fund	1	- f u n d
 091/101	fund	1	- f u n d
@@ -4931,7 +4931,7 @@
 092/083	funn	1	- f u nn -
 092/085	fund	1	- f u n d
 092/087	fund	1	- f u n d
-092/089	NA	NA	- - - - - - -
+092/089	NA	NA	-
 092/091	fun	1	- f u n -
 092/093	fund	1	- f u n d
 092/095	fun	1	- f u n -
@@ -4989,7 +4989,7 @@
 093/081	fund	1	- f u n d
 093/083	fun	1	- f u n -
 093/085	fuun	1	- f uu n -
-093/087	NA	NA	- - - - - - -
+093/087	NA	NA	-
 093/089	fun	1	- f u n -
 093/091	fund	1	- f u n d
 093/093	fun	1	- f u n -
@@ -5879,7 +5879,7 @@
 117/045	funn	1	- f u nn -
 118/041	funn	1	- f u nn -
 119/083	fund	1	- f u n d
-120/085	NA	NA	- - - - - - -
+120/085	NA	NA	-
 121/127	wunn	1	- w u nn -
 122/127	gobum	1	go b u m -
 122/129	wunn	1	- w u nn -

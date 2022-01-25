@@ -4,7 +4,7 @@
 002/203	fall	1	f a ll
 002/205	fall	1	f a ll
 003/203	fall	1	f a ll
-003/205	NA	NA	- - - - - - - -
+003/205	NA	NA	-
 004/205	fall	1	f a ll
 005/205	fall	1	f a ll
 005/207	fall	1	f a ll
@@ -45,7 +45,7 @@
 011/059	foll	1	f o ll
 011/061	fol	1	f o l
 011/063	foll	1	f o ll
-011/065	NA	NA	- - - - - - - -
+011/065	NA	NA	-
 011/067	foll	1	f o ll
 011/069	foll	1	f o ll
 011/187	fall	1	f a ll
@@ -73,7 +73,7 @@
 012/063	foll	1	f o ll
 012/065	foll	1	f o ll
 012/067	foll	1	f o ll
-012/069	NA	NA	- - - - - - - -
+012/069	NA	NA	-
 012/187	fall	1	f a ll
 012/189	fall	1	f a ll
 012/191	fall	1	f a ll
@@ -198,7 +198,7 @@
 015/211	fall	1	f a ll
 015/213	fall	1	f a ll
 015/215	fall	1	f a ll
-015/217	NA	NA	- - - - - - - -
+015/217	NA	NA	-
 015/219	fall	1	f a ll
 015/221	fall	1	f a ll
 016/051	fel	1	f e l
@@ -317,7 +317,7 @@
 018/147	fall	1	f a ll
 018/149	foll	1	f o ll
 018/151	full	1	f u ll
-018/153	NA	NA	- - - - - - - -
+018/153	NA	NA	-
 018/155	full	1	f u ll
 018/157	fuoll	1	f uo ll
 018/159	foll	1	f o ll
@@ -377,7 +377,7 @@
 019/155	full	1	f u ll
 019/157	full	1	f u ll
 019/159	foll	1	f o ll
-019/161	NA	NA	- - - - - - - -
+019/161	NA	NA	-
 019/163	foll	1	f o ll
 019/165	fol	1	f o l
 019/167	foll	1	f o ll
@@ -465,7 +465,7 @@
 020/199	fall	1	f a ll
 020/201	fall	1	f a ll
 020/203	fall	1	f a ll
-020/205	NA	NA	- - - - - - - -
+020/205	NA	NA	-
 020/207	fall	1	f a ll
 020/209	fall	1	f a ll
 020/211	full	1	f u ll
@@ -1399,7 +1399,7 @@
 034/061	fall	1	f a ll
 034/063	fall	1	f a ll
 034/065	fall	1	f a ll
-034/067	NA	NA	- - - - - - - -
+034/067	NA	NA	-
 034/069	fal	1	f a l
 034/071	fall	1	f a ll
 034/073	fall	1	f a ll
@@ -2211,7 +2211,7 @@
 047/087	fall	1	f a ll
 047/089	fall	1	f a ll
 047/091	fall	1	f a ll
-047/093	NA	NA	- - - - - - - -
+047/093	NA	NA	-
 047/095	fall	1	f a ll
 047/097	fall	1	f a ll
 047/099	fall	1	f a ll
@@ -3024,7 +3024,7 @@
 059/091	foll	1	f o ll
 059/093	foll	1	f o ll
 059/095	foall	1	f oa ll
-059/097	NA	NA	- - - - - - - -
+059/097	NA	NA	-
 059/099	foll	1	f o ll
 059/101	foll	1	f o ll
 059/103	fall	1	f a ll
@@ -3103,7 +3103,7 @@
 060/103	foll	1	f o ll
 060/105	foll	1	f o ll
 060/107	fall	1	f a ll
-060/109	NA	NA	- - - - - - - -
+060/109	NA	NA	-
 060/111	foal	1	f oa l
 060/113	foll	1	f o ll
 060/115	foll	1	f o ll
@@ -4617,7 +4617,7 @@
 086/149	foll	1	f o ll
 086/151	foll	1	f o ll
 086/175	schlopt	NA	sch l o p t - - -
-086/197	NA	NA	- - - - - - - -
+086/197	NA	NA	-
 086/199	fall	1	f a ll
 087/033	fall	1	f a ll
 087/035	scherzt	NA	sch - e r zt - - -
@@ -4818,7 +4818,7 @@
 090/089	foi	1	f oi -
 090/091	foi	1	f oi -
 090/093	foai	1	f oai -
-090/095	NA	NA	- - - - - - - -
+090/095	NA	NA	-
 090/097	foi	1	f oi -
 090/099	foi	1	f oi -
 090/101	foi	1	f oi -
@@ -5276,7 +5276,7 @@
 098/079	fall	1	f a ll
 098/081	foal	1	f oa l
 098/083	foal	1	f oa l
-098/085	NA	NA	- - - - - - - -
+098/085	NA	NA	-
 098/087	faö	1	f aö -
 098/089	fall	1	f a ll
 098/091	fo	1	f o -
@@ -5378,7 +5378,7 @@
 100/101	foll	1	f o ll
 100/109	foll	1	f o ll
 100/111	fall	1	f a ll
-100/113	NA	NA	- - - - - - - -
+100/113	NA	NA	-
 100/115	fall	1	f a ll
 100/117	foll	1	f o ll
 100/119	fol	1	f o l
@@ -5622,7 +5622,7 @@
 106/045	fau	1	f au -
 106/047	fall	1	f a ll
 106/049	gheit	2	gh ei t
-106/051	NA	NA	- - - - - - - -
+106/051	NA	NA	-
 106/053	trolet	NA	t r o l e t - -
 106/057	fall	1	f a ll
 106/061	gkeit	2	gk ei t
@@ -5756,7 +5756,7 @@
 109/101	foel	1	f oe l
 109/103	foll	1	f o ll
 109/107	foll	1	f o ll
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	foll	1	f o ll
 109/113	fol	1	f o l
 109/115	foll	1	f o ll

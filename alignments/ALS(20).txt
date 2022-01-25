@@ -1876,7 +1876,7 @@ locations	strings	cognateID	alignments
 041/133	as	1	- a - s
 041/135	als	1	- a l s
 041/139	als	1	- a l s
-041/141	NA	NA	- - - - - -
+041/141	NA	NA	-
 041/145	als	1	- a l s
 041/147	as	1	- a - s
 041/153	as	1	- a - s
@@ -2734,7 +2734,7 @@ locations	strings	cognateID	alignments
 055/075	als	1	- a l s
 055/077	wie	2	- w ie -
 055/079	als	1	- a l s
-055/081	NA	NA	- - - - - -
+055/081	NA	NA	-
 055/083	als	1	- a l s
 055/085	als	1	- a l s
 055/087	als	1	- a l s
@@ -3009,7 +3009,7 @@ locations	strings	cognateID	alignments
 059/061	als	1	- a l s
 059/063	als	1	- a l s
 059/065	als	1	- a l s
-059/067	NA	NA	- - - - - -
+059/067	NA	NA	-
 059/069	as	1	- a - s
 059/071	as	1	- a - s
 059/073	als	1	- a l s
@@ -3500,7 +3500,7 @@ locations	strings	cognateID	alignments
 066/079	als	1	- a l s
 066/081	als	1	- a l s
 066/083	als	1	- a l s
-066/085	NA	NA	- - - - - -
+066/085	NA	NA	-
 066/087	als	1	- a l s
 066/089	wäi	2	- w äi -
 066/091	alz	1	- a l z
@@ -3536,7 +3536,7 @@ locations	strings	cognateID	alignments
 067/031	as	1	- a - s
 067/033	as	1	- a - s
 067/035	als	1	- a l s
-067/037	NA	NA	- - - - - -
+067/037	NA	NA	-
 067/039	ass	1	- a - ss
 067/041	als	1	- a l s
 067/043	als	1	- a l s
@@ -3609,7 +3609,7 @@ locations	strings	cognateID	alignments
 068/057	als	1	- a l s
 068/059	als	1	- a l s
 068/061	als	1	- a l s
-068/063	NA	NA	- - - - - -
+068/063	NA	NA	-
 068/065	as	1	- a - s
 068/067	als	1	- a l s
 068/069	äs	1	- ä - s
@@ -3640,7 +3640,7 @@ locations	strings	cognateID	alignments
 068/151	aals	1	- aa l s
 068/153	aals	1	- aa l s
 068/155	wie	2	- w ie -
-068/157	NA	NA	- - - - - -
+068/157	NA	NA	-
 068/159	als	1	- a l s
 068/161	als	1	- a l s
 068/165	als	1	- a l s
@@ -3871,7 +3871,7 @@ locations	strings	cognateID	alignments
 072/179	als	1	- a l s
 072/181	wenn	2	- w e nn
 073/017	ass	1	- a - ss
-073/019	NA	NA	- - - - - -
+073/019	NA	NA	-
 073/021	ass	1	- a - ss
 073/023	ass	1	- a - ss
 073/025	ass	1	- a - ss
@@ -3923,11 +3923,11 @@ locations	strings	cognateID	alignments
 073/153	ols	1	- o l s
 073/155	ols	1	- o l s
 073/157	ohs	1	- oh - s
-073/159	NA	NA	- - - - - -
+073/159	NA	NA	-
 073/161	als	1	- a l s
 073/163	ols	1	- o l s
 073/165	als	1	- a l s
-073/175	NA	NA	- - - - - -
+073/175	NA	NA	-
 073/177	als	1	- a l s
 074/019	ass	1	- a - ss
 074/021	ass	1	- a - ss
@@ -3960,7 +3960,7 @@ locations	strings	cognateID	alignments
 074/075	as	1	- a - s
 074/077	als	1	- a l s
 074/079	as	1	- a - s
-074/081	NA	NA	- - - - - -
+074/081	NA	NA	-
 074/083	als	1	- a l s
 074/085	als	1	- a l s
 074/087	als	1	- a l s
@@ -3991,7 +3991,7 @@ locations	strings	cognateID	alignments
 075/025	ass	1	- a - ss
 075/027	als	1	- a l s
 075/029	ess	1	- e - ss
-075/031	NA	NA	- - - - - -
+075/031	NA	NA	-
 075/033	es	1	- e - s
 075/035	als	1	- a l s
 075/037	als	1	- a l s
@@ -4030,7 +4030,7 @@ locations	strings	cognateID	alignments
 075/103	as	1	- a - s
 075/105	ols	1	- o l s
 075/107	ols	1	- o l s
-075/135	NA	NA	- - - - - -
+075/135	NA	NA	-
 075/145	als	1	- a l s
 075/147	ols	1	- o l s
 075/149	ools	1	- oo l s
@@ -4088,9 +4088,9 @@ locations	strings	cognateID	alignments
 076/151	ols	1	- o l s
 076/155	wie	2	- w ie -
 076/161	aos	1	- ao - s
-076/163	NA	NA	- - - - - -
+076/163	NA	NA	-
 076/165	ols	1	- o l s
-077/019	NA	NA	- - - - - -
+077/019	NA	NA	-
 077/021	wee	2	- w ee -
 077/023	aass	1	- aa - ss
 077/025	wei	2	- w ei -
@@ -4271,14 +4271,14 @@ locations	strings	cognateID	alignments
 080/109	wäi	2	- w äi -
 080/127	ols	1	- o l s
 080/147	als	1	- a l s
-080/151	NA	NA	- - - - - -
-080/153	NA	NA	- - - - - -
+080/151	NA	NA	-
+080/153	NA	NA	-
 080/193	als	1	- a l s
 080/195	als	1	- a l s
 081/025	als	1	- a l s
 081/027	äs	1	- ä - s
 081/029	wie	2	- w ie -
-081/031	NA	NA	- - - - - -
+081/031	NA	NA	-
 081/033	wie	2	- w ie -
 081/035	äs	1	- ä - s
 081/037	als	1	- a l s
@@ -4413,7 +4413,7 @@ locations	strings	cognateID	alignments
 083/093	wäi	2	- w äi -
 083/095	weeii	2	- w eeii -
 083/097	als	1	- a l s
-083/099	NA	NA	- - - - - -
+083/099	NA	NA	-
 083/101	ois	1	- oi - s
 083/103	ös	1	- ö - s
 083/105	ois	1	- oi - s
@@ -4466,7 +4466,7 @@ locations	strings	cognateID	alignments
 084/087	wia	2	- w ia -
 084/089	oals	1	- oa l s
 084/091	ois	1	- oi - s
-084/093	NA	NA	- - - - - -
+084/093	NA	NA	-
 084/095	wöi	2	- w öi -
 084/097	ols	1	- o l s
 084/099	als	1	- a l s
@@ -4491,11 +4491,11 @@ locations	strings	cognateID	alignments
 084/145	ols	1	- o l s
 084/147	ols	1	- o l s
 084/149	ois	1	- oi - s
-084/171	NA	NA	- - - - - -
+084/171	NA	NA	-
 084/173	als	1	- a l s
 084/195	als	1	- a l s
 085/031	als	1	- a l s
-085/033	NA	NA	- - - - - -
+085/033	NA	NA	-
 085/035	als	1	- a l s
 085/037	als	1	- a l s
 085/039	wü	2	- w ü -
@@ -4529,7 +4529,7 @@ locations	strings	cognateID	alignments
 085/095	ois	1	- oi - s
 085/097	als	1	- a l s
 085/101	als	1	- a l s
-085/103	NA	NA	- - - - - -
+085/103	NA	NA	-
 085/105	ois	1	- oi - s
 085/107	ois	1	- oi - s
 085/109	oös	1	- oö - s
@@ -4977,7 +4977,7 @@ locations	strings	cognateID	alignments
 093/057	as	1	- a - s
 093/059	ass	1	- a - ss
 093/061	as	1	- a - s
-093/063	NA	NA	- - - - - -
+093/063	NA	NA	-
 093/065	as	1	- a - s
 093/067	ass	1	- a - ss
 093/069	as	1	- a - s
@@ -4994,7 +4994,7 @@ locations	strings	cognateID	alignments
 093/091	ais	1	- ai - s
 093/093	aes	1	- ae - s
 093/095	als	1	- a l s
-093/097	NA	NA	- - - - - -
+093/097	NA	NA	-
 093/099	als	1	- a l s
 093/101	ais	1	- ai - s
 093/103	as	1	- a - s
@@ -5021,14 +5021,14 @@ locations	strings	cognateID	alignments
 093/151	wia	2	- w ia -
 093/153	ojs	1	- oj - s
 093/155	ois	1	- oi - s
-094/033	NA	NA	- - - - - -
+094/033	NA	NA	-
 094/035	ass	1	- a - ss
 094/037	ass	1	- a - ss
 094/039	as	1	- a - s
 094/041	als	1	- a l s
 094/043	wie	2	- w ie -
 094/045	als	1	- a l s
-094/047	NA	NA	- - - - - -
+094/047	NA	NA	-
 094/049	we	2	- w e -
 094/051	as	1	- a - s
 094/053	wia	2	- w ia -
@@ -5159,7 +5159,7 @@ locations	strings	cognateID	alignments
 096/059	als	1	- a l s
 096/061	as	1	- a - s
 096/063	als	1	- a l s
-096/065	NA	NA	- - - - - -
+096/065	NA	NA	-
 096/067	wia	2	- w ia -
 096/069	als	1	- a l s
 096/071	as	1	- a - s
@@ -5211,7 +5211,7 @@ locations	strings	cognateID	alignments
 097/045	wia	2	- w ia -
 097/047	wie	2	- w ie -
 097/049	wiä	2	- w iä -
-097/051	NA	NA	- - - - - -
+097/051	NA	NA	-
 097/053	as	1	- a - s
 097/055	we	2	- w e -
 097/057	wie	2	- w ie -
@@ -5271,7 +5271,7 @@ locations	strings	cognateID	alignments
 098/069	as	1	- a - s
 098/071	as	1	- a - s
 098/073	als	1	- a l s
-098/075	NA	NA	- - - - - -
+098/075	NA	NA	-
 098/077	as	1	- a - s
 098/079	als	1	- a l s
 098/081	als	1	- a l s
@@ -5282,13 +5282,13 @@ locations	strings	cognateID	alignments
 098/091	ois	1	- oi - s
 098/093	ois	1	- oi - s
 098/095	ois	1	- oi - s
-098/097	NA	NA	- - - - - -
+098/097	NA	NA	-
 098/103	oals	1	- oa l s
 098/105	ols	1	- o l s
 098/107	als	1	- a l s
 098/109	uuls	1	- uu l s
 098/111	als	1	- a l s
-098/119	NA	NA	- - - - - -
+098/119	NA	NA	-
 098/123	as	1	- a - s
 098/125	als	1	- a l s
 098/127	ols	1	- o l s
@@ -5353,16 +5353,16 @@ locations	strings	cognateID	alignments
 100/039	ass	1	- a - ss
 100/041	als	1	- a l s
 100/043	wiä	2	- w iä -
-100/045	NA	NA	- - - - - -
+100/045	NA	NA	-
 100/049	wie	2	- w ie -
 100/051	als	1	- a l s
 100/053	wie	2	- w ie -
 100/055	als	1	- a l s
 100/057	als	1	- a l s
-100/059	NA	NA	- - - - - -
+100/059	NA	NA	-
 100/061	als	1	- a l s
 100/065	als	1	- a l s
-100/067	NA	NA	- - - - - -
+100/067	NA	NA	-
 100/069	as	1	- a - s
 100/071	as	1	- a - s
 100/073	als	1	- a l s
@@ -5374,7 +5374,7 @@ locations	strings	cognateID	alignments
 100/093	ais	1	- ai - s
 100/095	als	1	- a l s
 100/097	ois	1	- oi - s
-100/099	NA	NA	- - - - - -
+100/099	NA	NA	-
 100/101	ais	1	- ai - s
 100/109	ols	1	- o l s
 100/111	as	1	- a - s
@@ -5395,7 +5395,7 @@ locations	strings	cognateID	alignments
 101/037	wie	2	- w ie -
 101/039	aass	1	- aa - ss
 101/041	aass	1	- aa - ss
-101/043	NA	NA	- - - - - -
+101/043	NA	NA	-
 101/045	als	1	- a l s
 101/047	wie	2	- w ie -
 101/049	als	1	- a l s
@@ -5418,7 +5418,7 @@ locations	strings	cognateID	alignments
 101/095	ols	1	- o l s
 101/097	ais	1	- ai - s
 101/099	äs	1	- ä - s
-101/101	NA	NA	- - - - - -
+101/101	NA	NA	-
 101/103	as	1	- a - s
 101/107	als	1	- a l s
 101/109	wia	2	- w ia -
@@ -5435,14 +5435,14 @@ locations	strings	cognateID	alignments
 101/143	ols	1	- o l s
 101/145	as	1	- a - s
 101/147	ols	1	- o l s
-102/037	NA	NA	- - - - - -
-102/039	NA	NA	- - - - - -
+102/037	NA	NA	-
+102/039	NA	NA	-
 102/041	wie	2	- w ie -
-102/043	NA	NA	- - - - - -
+102/043	NA	NA	-
 102/045	wee	2	- w ee -
 102/047	wi	2	- w i -
 102/049	wie	2	- w ie -
-102/051	NA	NA	- - - - - -
+102/051	NA	NA	-
 102/053	wiä	2	- w iä -
 102/055	wie	2	- w ie -
 102/057	ols	1	- o l s
@@ -5450,7 +5450,7 @@ locations	strings	cognateID	alignments
 102/061	as	1	- a - s
 102/063	wie	2	- w ie -
 102/065	als	1	- a l s
-102/067	NA	NA	- - - - - -
+102/067	NA	NA	-
 102/069	as	1	- a - s
 102/071	als	1	- a l s
 102/073	wia	2	- w ia -
@@ -5479,7 +5479,7 @@ locations	strings	cognateID	alignments
 102/141	ols	1	- o l s
 102/143	ols	1	- o l s
 102/145	ols	1	- o l s
-103/039	NA	NA	- - - - - -
+103/039	NA	NA	-
 103/041	wies	2	- w ie s
 103/043	wi	2	- w i -
 103/045	ols	1	- o l s
@@ -5490,7 +5490,7 @@ locations	strings	cognateID	alignments
 103/055	wie	2	- w ie -
 103/057	als	1	- a l s
 103/059	wie	2	- w ie -
-103/063	NA	NA	- - - - - -
+103/063	NA	NA	-
 103/065	as	1	- a - s
 103/067	as	1	- a - s
 103/069	as	1	- a - s
@@ -5531,15 +5531,15 @@ locations	strings	cognateID	alignments
 104/045	wie	2	- w ie -
 104/047	wi	2	- w i -
 104/049	aus	1	- au - s
-104/051	NA	NA	- - - - - -
+104/051	NA	NA	-
 104/053	als	1	- a l s
-104/055	NA	NA	- - - - - -
+104/055	NA	NA	-
 104/057	wiä	2	- w iä -
 104/059	we	2	- w e -
 104/061	as	1	- a - s
 104/063	wia	2	- w ia -
 104/065	as	1	- a - s
-104/067	NA	NA	- - - - - -
+104/067	NA	NA	-
 104/071	als	1	- a l s
 104/075	als	1	- a l s
 104/077	als	1	- a l s
@@ -5556,7 +5556,7 @@ locations	strings	cognateID	alignments
 104/113	ois	1	- oi - s
 104/119	wia	2	- w ia -
 104/121	ols	1	- o l s
-104/123	NA	NA	- - - - - -
+104/123	NA	NA	-
 104/125	als	1	- a l s
 104/127	ols	1	- o l s
 104/131	ols	1	- o l s
@@ -5571,11 +5571,11 @@ locations	strings	cognateID	alignments
 105/033	wie	2	- w ie -
 105/035	aus	1	- au - s
 105/037	wie	2	- w ie -
-105/039	NA	NA	- - - - - -
+105/039	NA	NA	-
 105/041	aus	1	- au - s
 105/043	als	1	- a l s
-105/045	NA	NA	- - - - - -
-105/047	NA	NA	- - - - - -
+105/045	NA	NA	-
+105/047	NA	NA	-
 105/049	we	2	- w e -
 105/051	as	1	- a - s
 105/053	as	1	- a - s
@@ -5590,7 +5590,7 @@ locations	strings	cognateID	alignments
 105/071	as	1	- a - s
 105/073	as	1	- a - s
 105/075	as	1	- a - s
-105/077	NA	NA	- - - - - -
+105/077	NA	NA	-
 105/079	ols	1	- o l s
 105/081	als	1	- a l s
 105/085	as	1	- a - s
@@ -5617,14 +5617,14 @@ locations	strings	cognateID	alignments
 106/035	aus	1	- au - s
 106/037	wi	2	- w i -
 106/039	aus	1	- au - s
-106/041	NA	NA	- - - - - -
+106/041	NA	NA	-
 106/043	as	1	- a - s
-106/045	NA	NA	- - - - - -
+106/045	NA	NA	-
 106/047	we	2	- w e -
 106/049	as	1	- a - s
 106/051	as	1	- a - s
 106/053	as	1	- a - s
-106/057	NA	NA	- - - - - -
+106/057	NA	NA	-
 106/061	äs	1	- ä - s
 106/063	als	1	- a l s
 106/067	as	1	- a - s
@@ -5638,7 +5638,7 @@ locations	strings	cognateID	alignments
 106/087	as	1	- a - s
 106/093	as	1	- a - s
 106/097	als	1	- a l s
-106/099	NA	NA	- - - - - -
+106/099	NA	NA	-
 106/103	as	1	- a - s
 106/111	as	1	- a - s
 106/115	oes	1	- oe - s
@@ -5658,15 +5658,15 @@ locations	strings	cognateID	alignments
 107/035	wi	2	- w i -
 107/037	als	1	- a l s
 107/039	als	1	- a l s
-107/041	NA	NA	- - - - - -
+107/041	NA	NA	-
 107/043	aus	1	- au - s
-107/045	NA	NA	- - - - - -
+107/045	NA	NA	-
 107/047	als	1	- a l s
 107/049	as	1	- a - s
 107/051	as	1	- a - s
 107/053	as	1	- a - s
 107/057	wie	2	- w ie -
-107/059	NA	NA	- - - - - -
+107/059	NA	NA	-
 107/063	as	1	- a - s
 107/065	as	1	- a - s
 107/071	as	1	- a - s
@@ -5679,7 +5679,7 @@ locations	strings	cognateID	alignments
 107/097	a	1	- a - -
 107/099	a	1	- a - -
 107/103	es	1	- e - s
-107/105	NA	NA	- - - - - -
+107/105	NA	NA	-
 107/107	als	1	- a l s
 107/111	oas	1	- oa - s
 107/119	ols	1	- o l s
@@ -5695,10 +5695,10 @@ locations	strings	cognateID	alignments
 107/139	wia	2	- w ia -
 107/141	ols	1	- o l s
 107/143	wia	2	- w ia -
-108/033	NA	NA	- - - - - -
-108/035	NA	NA	- - - - - -
+108/033	NA	NA	-
+108/035	NA	NA	-
 108/037	wi	2	- w i -
-108/039	NA	NA	- - - - - -
+108/039	NA	NA	-
 108/041	wie	2	- w ie -
 108/043	aus	1	- au - s
 108/047	as	1	- a - s
@@ -5734,11 +5734,11 @@ locations	strings	cognateID	alignments
 108/141	ols	1	- o l s
 109/035	wi	2	- w i -
 109/037	wie	2	- w ie -
-109/039	NA	NA	- - - - - -
+109/039	NA	NA	-
 109/041	wie	2	- w ie -
-109/043	NA	NA	- - - - - -
+109/043	NA	NA	-
 109/045	as	1	- a - s
-109/049	NA	NA	- - - - - -
+109/049	NA	NA	-
 109/053	als	1	- a l s
 109/061	as	1	- a - s
 109/063	alz	1	- a l z
@@ -5756,16 +5756,16 @@ locations	strings	cognateID	alignments
 109/101	a	1	- a - -
 109/103	ulls	1	- u ll s
 109/107	wie	2	- w ie -
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	es	1	- e - s
 109/113	wia	2	- w ia -
 109/115	als	1	- a l s
 109/117	als	1	- a l s
 109/119	als	1	- a l s
 109/121	ols	1	- o l s
-109/123	NA	NA	- - - - - -
+109/123	NA	NA	-
 109/125	ols	1	- o l s
-109/127	NA	NA	- - - - - -
+109/127	NA	NA	-
 109/129	wia	2	- w ia -
 109/131	ouls	1	- ou l s
 109/133	als	1	- a l s
@@ -5811,7 +5811,7 @@ locations	strings	cognateID	alignments
 110/137	als	1	- a l s
 110/139	ols	1	- o l s
 111/035	we	2	- w e -
-111/037	NA	NA	- - - - - -
+111/037	NA	NA	-
 111/039	wie	2	- w ie -
 111/041	ols	1	- o l s
 111/043	ols	1	- o l s
@@ -5864,7 +5864,7 @@ locations	strings	cognateID	alignments
 113/121	als	1	- a l s
 113/123	als	1	- a l s
 114/035	wi	2	- w i -
-114/045	NA	NA	- - - - - -
+114/045	NA	NA	-
 114/083	als	1	- a l s
 114/085	wie	2	- w ie -
 115/041	wiä	2	- w iä -
@@ -5883,7 +5883,7 @@ locations	strings	cognateID	alignments
 121/127	biä	2	- b iä -
 122/127	bi	2	- b i -
 122/129	biä	2	- b iä -
-123/081	NA	NA	- - - - - -
+123/081	NA	NA	-
 123/123	as	1	- a - s
 123/125	biä	2	- b iä -
 123/127	als	1	- a l s

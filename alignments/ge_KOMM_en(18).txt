@@ -40,12 +40,12 @@
 010/219	koam	1	k oa m
 011/049	kemm	1	k e mm
 011/053	komm	1	k o mm
-011/055	NA	NA	- - - - - - - -
+011/055	NA	NA	-
 011/057	komm	1	k o mm
 011/059	komm	1	k o mm
 011/061	komm	1	k o mm
 011/063	komm	1	k o mm
-011/065	NA	NA	- - - - - - - -
+011/065	NA	NA	-
 011/067	komm	1	k o mm
 011/069	komm	1	k o mm
 011/187	kom	1	k o m
@@ -67,11 +67,11 @@
 012/051	kimm	1	k i mm
 012/053	komm	1	k o mm
 012/055	komm	1	k o mm
-012/057	NA	NA	- - - - - - - -
-012/059	NA	NA	- - - - - - - -
-012/061	NA	NA	- - - - - - - -
+012/057	NA	NA	-
+012/059	NA	NA	-
+012/061	NA	NA	-
 012/063	komm	1	k o mm
-012/065	NA	NA	- - - - - - - -
+012/065	NA	NA	-
 012/067	komm	1	k o mm
 012/069	komm	1	k o mm
 012/187	koam	1	k oa m
@@ -379,7 +379,7 @@
 019/159	koam	1	k oa m
 019/161	kom	1	k o m
 019/163	kom	1	k o m
-019/165	NA	NA	- - - - - - - -
+019/165	NA	NA	-
 019/167	kohm	1	k oh m
 019/169	kom	1	k o m
 019/171	koahm	1	k oah m
@@ -407,7 +407,7 @@
 019/215	kom	1	k o m
 019/217	koam	1	k oa m
 019/219	kam	1	k a m
-020/043	NA	NA	- - - - - - - -
+020/043	NA	NA	-
 020/053	kaam	1	k aa m
 020/055	kam	1	k a m
 020/057	koahm	1	k oah m
@@ -510,7 +510,7 @@
 021/145	kaom	1	k ao m
 021/147	kam	1	k a m
 021/149	koam	1	k oa m
-021/151	NA	NA	- - - - - - - -
+021/151	NA	NA	-
 021/153	kom	1	k o m
 021/155	kom	1	k o m
 021/157	kam	1	k a m
@@ -547,7 +547,7 @@
 022/059	kam	1	k a m
 022/061	kahm	1	k ah m
 022/063	kahm	1	k ah m
-022/065	NA	NA	- - - - - - - -
+022/065	NA	NA	-
 022/067	kam	1	k a m
 022/069	kam	1	k a m
 022/071	kam	1	k a m
@@ -605,7 +605,7 @@
 022/197	komm	1	k o mm
 022/199	komm	1	k o mm
 022/201	koam	1	k oa m
-022/203	NA	NA	- - - - - - - -
+022/203	NA	NA	-
 022/205	kam	1	k a m
 022/209	koam	1	k oa m
 022/211	kom	1	k o m
@@ -1099,7 +1099,7 @@
 029/175	koam	1	k oa m
 029/177	koam	1	k oa m
 029/181	komm	1	k o mm
-030/033	NA	NA	- - - - - - - -
+030/033	NA	NA	-
 030/035	kom	1	k o m
 030/037	kom	1	k o m
 030/039	kom	1	k o m
@@ -1289,7 +1289,7 @@
 032/123	koam	1	k oa m
 032/125	koam	1	k oa m
 032/127	kaum	1	k au m
-032/129	NA	NA	- - - - - - - -
+032/129	NA	NA	-
 032/131	kaum	1	k au m
 032/133	kom	1	k o m
 032/135	koam	1	k oa m
@@ -1333,7 +1333,7 @@
 033/067	kom	1	k o m
 033/069	komm	1	k o mm
 033/071	komm	1	k o mm
-033/073	NA	NA	- - - - - - - -
+033/073	NA	NA	-
 033/075	kom	1	k o m
 033/077	kam	1	k a m
 033/079	kaam	1	k aa m
@@ -1963,7 +1963,7 @@
 043/061	kuem	1	k ue m
 043/063	koom	1	k oo m
 043/065	kom	1	k o m
-043/067	NA	NA	- - - - - - - -
+043/067	NA	NA	-
 043/069	kum	1	k u m
 043/071	kum	1	k u m
 043/073	kom	1	k o m
@@ -2365,7 +2365,7 @@
 049/143	kumm	1	k u mm
 049/145	kumm	1	k u mm
 049/147	kumm	1	k u mm
-049/151	NA	NA	- - - - - - - -
+049/151	NA	NA	-
 050/021	kohm	1	k oh m
 050/023	komm	1	k o mm
 050/025	komm	1	k o mm
@@ -3031,7 +3031,7 @@
 059/105	geworrn	4	g e w o rr - - n
 059/107	kumm	1	k u mm
 059/109	komm	1	k o mm
-059/111	NA	NA	- - - - - - - -
+059/111	NA	NA	-
 059/113	kumm	1	k u mm
 059/115	kumm	1	k u mm
 059/117	kum	1	k u m
@@ -3475,7 +3475,7 @@
 066/029	kun	1	k u n
 066/031	kun	1	k u n
 066/033	kuh	1	k uh -
-066/035	NA	NA	- - - - - - - -
+066/035	NA	NA	-
 066/037	komm	1	k o mm
 066/039	komm	1	k o mm
 066/041	kumm	1	k u mm
@@ -3575,7 +3575,7 @@
 067/109	kumm	1	k u mm
 067/111	kumm	1	k u mm
 067/113	kumm	1	k u mm
-067/143	NA	NA	- - - - - - - -
+067/143	NA	NA	-
 067/145	komm	1	k o mm
 067/147	komm	1	k o mm
 067/149	komm	1	k o mm
@@ -4539,7 +4539,7 @@
 085/117	kem	1	k e m
 085/119	keim	1	k ei m
 085/121	käm	1	k ä m
-085/123	NA	NA	- - - - - - - -
+085/123	NA	NA	-
 085/125	kumm	1	k u mm
 085/127	kemm	1	k e mm
 085/129	kem	1	k e m
@@ -4900,7 +4900,7 @@
 091/143	kum	1	k u m
 091/145	kemm	1	k e mm
 091/147	kum	1	k u m
-091/149	NA	NA	- - - - - - - -
+091/149	NA	NA	-
 091/151	kum	1	k u m
 091/155	woen	4	- - w oe - - - n
 092/033	kumm	1	k u mm
@@ -5138,7 +5138,7 @@
 095/143	kumm	1	k u mm
 095/145	kem	1	k e m
 095/147	kem	1	k e m
-095/149	NA	NA	- - - - - - - -
+095/149	NA	NA	-
 095/151	kemm	1	k e mm
 095/153	kemm	1	k e mm
 095/155	kemm	1	k e mm
@@ -5377,7 +5377,7 @@
 100/099	gwösn	3	g - w ö s - - n
 100/101	kem	1	k e m
 100/109	kemm	1	k e mm
-100/111	NA	NA	- - - - - - - -
+100/111	NA	NA	-
 100/113	kem	1	k e m
 100/115	kem	1	k e m
 100/117	kem	1	k e m
@@ -5385,7 +5385,7 @@
 100/121	kemm	1	k e mm
 100/125	kem	1	k e m
 100/127	kemm	1	k e mm
-100/129	NA	NA	- - - - - - - -
+100/129	NA	NA	-
 100/133	kem	1	k e m
 100/135	keim	1	k ei m
 100/141	kemm	1	k e mm
@@ -5603,7 +5603,7 @@
 105/115	kem	1	k e m
 105/117	kem	1	k e m
 105/119	gwesn	3	g - w e s - - n
-105/121	NA	NA	- - - - - - - -
+105/121	NA	NA	-
 105/125	gwejn	3	g - w e j - - n
 105/127	kemm	1	k e mm
 105/131	kemm	1	k e mm
@@ -5683,11 +5683,11 @@
 107/107	kem	1	k e m
 107/111	köm	1	k ö m
 107/119	köm	1	k ö m
-107/121	NA	NA	- - - - - - - -
+107/121	NA	NA	-
 107/123	kem	1	k e m
 107/125	gwen	3	g - w e - - - n
 107/127	kem	1	k e m
-107/129	NA	NA	- - - - - - - -
+107/129	NA	NA	-
 107/131	kem	1	k e m
 107/133	kemm	1	k e mm
 107/135	kemm	1	k e mm
@@ -5699,7 +5699,7 @@
 108/035	cho	1	ch o -
 108/037	cho	1	ch o -
 108/039	cho	1	ch o -
-108/041	NA	NA	- - - - - - - -
+108/041	NA	NA	-
 108/043	cho	1	ch o -
 108/047	cho	1	ch o -
 108/049	cho	1	ch o -
@@ -5756,7 +5756,7 @@
 109/101	keim	1	k ei m
 109/103	kem	1	k e m
 109/107	köm	1	k ö m
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	komm	1	k o mm
 109/113	köm	1	k ö m
 109/115	keam	1	k ea m
@@ -5819,7 +5819,7 @@
 111/059	cho	1	ch o -
 111/073	kemm	1	k e mm
 111/075	gongen	2	- - g o ng e n
-111/077	NA	NA	- - - - - - - -
+111/077	NA	NA	-
 111/079	kemm	1	k e mm
 111/081	kemm	1	k e mm
 111/083	kemm	1	k e mm
@@ -5883,7 +5883,7 @@
 121/127	kam	1	k a m
 122/127	kam	1	k a m
 122/129	kam	1	k a m
-123/081	NA	NA	- - - - - - - -
+123/081	NA	NA	-
 123/123	kam	1	k a m
 123/125	kam	1	k a m
 123/127	kam	1	k a m

@@ -43,7 +43,7 @@
 011/055	sjel	1	sj e l - - - - - - -
 011/057	sjell	1	sj e ll - - - - - - -
 011/059	sjel	1	sj e l - - - - - - -
-011/061	NA	NA	- - - - - - - - - - - - - - - -
+011/061	NA	NA	-
 011/063	sjoll	1	sj o ll - - - - - - -
 011/065	sjoll	1	sj o ll - - - - - - -
 011/067	sihiel	1	s ihie l - - - - - - -
@@ -228,7 +228,7 @@
 016/165	selwst	1	s e l - w - - s t -
 016/167	allen	2	a ll e n - -
 016/187	selwst	1	s e l - w - - s t -
-016/189	NA	NA	- - - - - - - - - - - - - - - -
+016/189	NA	NA	-
 016/191	selbwst	1	s e l - bw - - s t -
 016/193	sölwst	1	s ö l - w - - s t -
 016/195	selwst	1	s e l - w - - s t -
@@ -444,7 +444,7 @@
 020/157	silwst	1	s i l - w - - s t -
 020/159	allein	2	a ll ei n - -
 020/161	sellwer	1	s e ll - w e r - - -
-020/163	NA	NA	- - - - - - - - - - - - - - - -
+020/163	NA	NA	-
 020/165	sälbfst	1	s ä l - bf - - s t -
 020/167	selwst	1	s e l - w - - s t -
 020/169	süllwst	1	s ü ll - w - - s t -
@@ -904,7 +904,7 @@
 027/069	sülm	1	s ü l - m - - - - -
 027/071	sülm	1	s ü l - m - - - - -
 027/073	sülbn	1	s ü l - b - n - - -
-027/075	NA	NA	- - - - - - - - - - - - - - - -
+027/075	NA	NA	-
 027/077	sülm	1	s ü l - m - - - - -
 027/079	sülm	1	s ü l - m - - - - -
 027/081	sülwst	1	s ü l - w - - s t -
@@ -1022,7 +1022,7 @@
 028/171	selwe	1	s e l - w e - - - -
 028/173	selwst	1	s e l - w - - s t -
 028/175	selwst	1	s e l - w - - s t -
-028/177	NA	NA	- - - - - - - - - - - - - - - -
+028/177	NA	NA	-
 028/179	selwst	1	s e l - w - - s t -
 028/181	selber	1	s e l - b e r - - -
 028/183	alleen	2	a ll ee n - -
@@ -1041,7 +1041,7 @@
 029/057	sülwst	1	s ü l - w - - s t -
 029/059	sülms	1	s ü l - m - - s - -
 029/061	sülbst	1	s ü l - b - - s t -
-029/065	NA	NA	- - - - - - - - - - - - - - - -
+029/065	NA	NA	-
 029/067	sülbs	1	s ü l - b - - s - -
 029/069	sülbst	1	s ü l - b - - s t -
 029/071	sülbst	1	s ü l - b - - s t -
@@ -1243,7 +1243,7 @@
 031/171	selbst	1	s e l - b - - s t -
 031/173	selber	1	s e l - b e r - - -
 031/175	silwst	1	s i l - w - - s t -
-031/177	NA	NA	- - - - - - - - - - - - - - - -
+031/177	NA	NA	-
 031/179	selwest	1	s e l - w e - s t -
 032/035	sülwst	1	s ü l - w - - s t -
 032/037	süllfst	1	s ü ll - f - - s t -
@@ -1295,7 +1295,7 @@
 032/135	selbst	1	s e l - b - - s t -
 032/139	sölwest	1	s ö l - w e - s t -
 032/141	söwest	1	s ö - - w e - s t -
-032/143	NA	NA	- - - - - - - - - - - - - - - -
+032/143	NA	NA	-
 032/145	siowend	1	s io - - w e n - d -
 032/147	alen	2	a l e n - -
 032/149	aleen	2	a l ee n - -
@@ -1307,7 +1307,7 @@
 032/163	sülwst	1	s ü l - w - - s t -
 032/167	selwst	1	s e l - w - - s t -
 032/169	selbscht	1	s e l - b - - sch t -
-032/171	NA	NA	- - - - - - - - - - - - - - - -
+032/171	NA	NA	-
 032/173	selber	1	s e l - b e r - - -
 032/175	selwest	1	s e l - w e - s t -
 032/177	selwst	1	s e l - w - - s t -
@@ -1341,7 +1341,7 @@
 033/083	sülm	1	s ü l - m - - - - -
 033/085	süllmst	1	s ü ll - m - - s t -
 033/087	sülbn	1	s ü l - b - n - - -
-033/089	NA	NA	- - - - - - - - - - - - - - - -
+033/089	NA	NA	-
 033/091	sülmst	1	s ü l - m - - s t -
 033/093	sülfst	1	s ü l - f - - s t -
 033/095	sülm	1	s ü l - m - - - - -
@@ -1568,7 +1568,7 @@
 036/141	selbst	1	s e l - b - - s t -
 036/143	alleo	2	a ll eo - - -
 036/147	selbs	1	s e l - b - - s - -
-036/149	NA	NA	- - - - - - - - - - - - - - - -
+036/149	NA	NA	-
 036/151	sjowont	1	sj o - - w o n - t -
 036/153	selbst	1	s e l - b - - s t -
 036/155	siowent	1	s io - - w e n - t -
@@ -1595,7 +1595,7 @@
 037/061	sümms	1	s ü - - mm - - s - -
 037/063	sülms	1	s ü l - m - - s - -
 037/065	sülm	1	s ü l - m - - - - -
-037/067	NA	NA	- - - - - - - - - - - - - - - -
+037/067	NA	NA	-
 037/069	sülmst	1	s ü l - m - - s t -
 037/071	sülm	1	s ü l - m - - - - -
 037/073	sülmst	1	s ü l - m - - s t -
@@ -1742,7 +1742,7 @@
 039/101	selbst	1	s e l - b - - s t -
 039/103	sülwst	1	s ü l - w - - s t -
 039/105	selber	1	s e l - b e r - - -
-039/107	NA	NA	- - - - - - - - - - - - - - - -
+039/107	NA	NA	-
 039/109	selwer	1	s e l - w e r - - -
 039/111	selwst	1	s e l - w - - s t -
 039/113	sellwer	1	s e ll - w e r - - -
@@ -1755,11 +1755,11 @@
 039/127	allein	2	a ll ei n - -
 039/129	sülwest	1	s ü l - w e - s t -
 039/131	allene	2	a ll e n e -
-039/133	NA	NA	- - - - - - - - - - - - - - - -
+039/133	NA	NA	-
 039/135	salbst	1	s a l - b - - s t -
 039/137	salbst	1	s a l - b - - s t -
 039/139	allene	2	a ll e n e -
-039/149	NA	NA	- - - - - - - - - - - - - - - -
+039/149	NA	NA	-
 039/151	sölwer	1	s ö l - w e r - - -
 039/153	alejo	2	a l ej - o -
 039/155	allee	2	a ll ee - - -
@@ -1824,7 +1824,7 @@
 040/155	sjömä	1	sj ö - - m ä - - - -
 041/031	sälls	1	s ä ll - - - - s - -
 041/033	sölfst	1	s ö l - f - - s t -
-041/035	NA	NA	- - - - - - - - - - - - - - - -
+041/035	NA	NA	-
 041/037	sölfs	1	s ö l - f - - s - -
 041/039	sülwen	1	s ü l - w e n - - -
 041/041	sülwes	1	s ü l - w e - s - -
@@ -1876,7 +1876,7 @@
 041/133	selber	1	s e l - b e r - - -
 041/135	silbst	1	s i l - b - - s t -
 041/139	selber	1	s e l - b e r - - -
-041/141	NA	NA	- - - - - - - - - - - - - - - -
+041/141	NA	NA	-
 041/145	selbst	1	s e l - b - - s t -
 041/147	selbst	1	s e l - b - - s t -
 041/153	siowät	1	s io - - w ä - - t -
@@ -1973,7 +1973,7 @@
 043/081	sülm	1	s ü l - m - - - - -
 043/083	süllmst	1	s ü ll - m - - s t -
 043/085	sülmeste	1	s ü l - m e - s t e
-043/087	NA	NA	- - - - - - - - - - - - - - - -
+043/087	NA	NA	-
 043/089	selber	1	s e l - b e r - - -
 043/091	sölwest	1	s ö l - w e - s t -
 043/093	sülwest	1	s ü l - w e - s t -
@@ -2027,7 +2027,7 @@
 044/071	sülmst	1	s ü l - m - - s t -
 044/073	sülmst	1	s ü l - m - - s t -
 044/075	sülwest	1	s ü l - w e - s t -
-044/077	NA	NA	- - - - - - - - - - - - - - - -
+044/077	NA	NA	-
 044/079	sülben	1	s ü l - b e n - - -
 044/081	sülben	1	s ü l - b e n - - -
 044/083	sülwest	1	s ü l - w e - s t -
@@ -2448,12 +2448,12 @@
 051/045	sölwer	1	s ö l - w e r - - -
 051/047	ssowwes	1	ss o - - ww e - s - -
 051/049	sölwer	1	s ö l - w e r - - -
-051/051	NA	NA	- - - - - - - - - - - - - - - -
+051/051	NA	NA	-
 051/053	sölwer	1	s ö l - w e r - - -
-051/055	NA	NA	- - - - - - - - - - - - - - - -
+051/055	NA	NA	-
 051/057	sülmmt	1	s ü l - mm - - - t -
 051/059	sülwens	1	s ü l - w e n s - -
-051/061	NA	NA	- - - - - - - - - - - - - - - -
+051/061	NA	NA	-
 051/063	sälmst	1	s ä l - m - - s t -
 051/065	sülms	1	s ü l - m - - s - -
 051/067	sülm	1	s ü l - m - - - - -
@@ -2641,7 +2641,7 @@
 054/029	selwer	1	s e l - w e r - - -
 054/031	selwer	1	s e l - w e r - - -
 054/033	selwer	1	s e l - w e r - - -
-054/035	NA	NA	- - - - - - - - - - - - - - - -
+054/035	NA	NA	-
 054/037	sewwer	1	s e - - ww e r - - -
 054/039	selwer	1	s e l - w e r - - -
 054/041	selver	1	s e l - v e r - - -
@@ -2650,11 +2650,11 @@
 054/047	selwer	1	s e l - w e r - - -
 054/049	selber	1	s e l - b e r - - -
 054/051	selwer	1	s e l - w e r - - -
-054/053	NA	NA	- - - - - - - - - - - - - - - -
+054/053	NA	NA	-
 054/055	selber	1	s e l - b e r - - -
 054/057	olleine	2	o ll ei n e -
 054/059	sülwend	1	s ü l - w e n - d -
-054/061	NA	NA	- - - - - - - - - - - - - - - -
+054/061	NA	NA	-
 054/063	selwer	1	s e l - w e r - - -
 054/065	sülbend	1	s ü l - b e n - d -
 054/067	selwer	1	s e l - w e r - - -
@@ -3039,7 +3039,7 @@
 059/121	salber	1	s a l - b e r - - -
 059/123	salber	1	s a l - b e r - - -
 059/125	salber	1	s a l - b e r - - -
-059/127	NA	NA	- - - - - - - - - - - - - - - -
+059/127	NA	NA	-
 059/129	salber	1	s a l - b e r - - -
 059/131	salbr	1	s a l - b - r - - -
 059/133	salber	1	s a l - b e r - - -
@@ -3219,7 +3219,7 @@
 062/051	sealbst	1	s ea l - b - - s t -
 062/053	selwer	1	s e l - w e r - - -
 062/055	saaelber	1	s aae l - b e r - - -
-062/057	NA	NA	- - - - - - - - - - - - - - - -
+062/057	NA	NA	-
 062/059	selwer	1	s e l - w e r - - -
 062/061	sälber	1	s ä l - b e r - - -
 062/063	sälwer	1	s ä l - w e r - - -
@@ -3559,7 +3559,7 @@
 067/077	sälber	1	s ä l - b e r - - -
 067/079	sälber	1	s ä l - b e r - - -
 067/081	salbr	1	s a l - b - r - - -
-067/083	NA	NA	- - - - - - - - - - - - - - - -
+067/083	NA	NA	-
 067/085	selbe	1	s e l - b e - - - -
 067/087	selber	1	s e l - b e r - - -
 067/089	selber	1	s e l - b e r - - -
@@ -3731,7 +3731,7 @@
 070/079	selbe	1	s e l - b e - - - -
 070/081	selbe	1	s e l - b e - - - -
 070/083	selbe	1	s e l - b e - - - -
-070/085	NA	NA	- - - - - - - - - - - - - - - -
+070/085	NA	NA	-
 070/087	selbä	1	s e l - b ä - - - -
 070/089	selbe	1	s e l - b e - - - -
 070/091	selba	1	s e l - b a - - - -
@@ -3822,7 +3822,7 @@
 072/031	selwer	1	s e l - w e r - - -
 072/033	selwer	1	s e l - w e r - - -
 072/035	selwert	1	s e l - w e r - t -
-072/037	NA	NA	- - - - - - - - - - - - - - - -
+072/037	NA	NA	-
 072/039	selbschd	1	s e l - b - - sch d -
 072/041	selbscht	1	s e l - b - - sch t -
 072/043	selbscht	1	s e l - b - - sch t -
@@ -3833,7 +3833,7 @@
 072/053	selwer	1	s e l - w e r - - -
 072/055	selbst	1	s e l - b - - s t -
 072/057	selbst	1	s e l - b - - s t -
-072/059	NA	NA	- - - - - - - - - - - - - - - -
+072/059	NA	NA	-
 072/061	selber	1	s e l - b e r - - -
 072/063	salber	1	s a l - b e r - - -
 072/065	salber	1	s a l - b e r - - -
@@ -3853,7 +3853,7 @@
 072/093	selba	1	s e l - b a - - - -
 072/095	selba	1	s e l - b a - - - -
 072/097	selber	1	s e l - b e r - - -
-072/099	NA	NA	- - - - - - - - - - - - - - - -
+072/099	NA	NA	-
 072/101	selwe	1	s e l - w e - - - -
 072/103	sölwa	1	s ö l - w a - - - -
 072/105	selwa	1	s e l - w a - - - -
@@ -4030,7 +4030,7 @@
 075/103	selwa	1	s e l - w a - - - -
 075/105	selwa	1	s e l - w a - - - -
 075/107	selwa	1	s e l - w a - - - -
-075/135	NA	NA	- - - - - - - - - - - - - - - -
+075/135	NA	NA	-
 075/145	saber	1	s a - - b e r - - -
 075/147	saber	1	s a - - b e r - - -
 075/149	selba	1	s e l - b a - - - -
@@ -4047,7 +4047,7 @@
 076/027	selwer	1	s e l - w e r - - -
 076/029	sellwer	1	s e ll - w e r - - -
 076/033	selbscht	1	s e l - b - - sch t -
-076/035	NA	NA	- - - - - - - - - - - - - - - -
+076/035	NA	NA	-
 076/037	selber	1	s e l - b e r - - -
 076/039	selwert	1	s e l - w e r - t -
 076/041	sulwer	1	s u l - w e r - - -
@@ -4096,7 +4096,7 @@
 077/025	selwer	1	s e l - w e r - - -
 077/027	selwer	1	s e l - w e r - - -
 077/029	selwer	1	s e l - w e r - - -
-077/031	NA	NA	- - - - - - - - - - - - - - - -
+077/031	NA	NA	-
 077/033	selber	1	s e l - b e r - - -
 077/035	selwer	1	s e l - w e r - - -
 077/037	sellwert	1	s e ll - w e r - t -
@@ -4176,7 +4176,7 @@
 078/101	selber	1	s e l - b e r - - -
 078/103	salwa	1	s a l - w a - - - -
 078/105	selwa	1	s e l - w a - - - -
-078/135	NA	NA	- - - - - - - - - - - - - - - -
+078/135	NA	NA	-
 078/193	selgst	1	s e l - g - - s t -
 079/021	selwa	1	s e l - w a - - - -
 079/023	selber	1	s e l - b e r - - -
@@ -4218,7 +4218,7 @@
 079/097	selber	1	s e l - b e r - - -
 079/099	salba	1	s a l - b a - - - -
 079/101	sälwa	1	s ä l - w a - - - -
-079/103	NA	NA	- - - - - - - - - - - - - - - -
+079/103	NA	NA	-
 079/105	selwa	1	s e l - w a - - - -
 079/107	selba	1	s e l - b a - - - -
 079/133	sölber	1	s ö l - b e r - - -
@@ -4240,7 +4240,7 @@
 080/047	selwerscht	1	s e l - w e r sch t -
 080/049	selwer	1	s e l - w e r - - -
 080/051	selbä	1	s e l - b ä - - - -
-080/053	NA	NA	- - - - - - - - - - - - - - - -
+080/053	NA	NA	-
 080/055	sälwa	1	s ä l - w a - - - -
 080/057	selber	1	s e l - b e r - - -
 080/059	selwer	1	s e l - w e r - - -
@@ -4265,7 +4265,7 @@
 080/097	selwa	1	s e l - w a - - - -
 080/099	selba	1	s e l - b a - - - -
 080/101	seeöwa	1	s eeö - - w a - - - -
-080/103	NA	NA	- - - - - - - - - - - - - - - -
+080/103	NA	NA	-
 080/105	selwa	1	s e l - w a - - - -
 080/107	selwa	1	s e l - w a - - - -
 080/109	selba	1	s e l - b a - - - -
@@ -4306,7 +4306,7 @@
 081/083	selba	1	s e l - b a - - - -
 081/085	selba	1	s e l - b a - - - -
 081/087	sölba	1	s ö l - b a - - - -
-081/089	NA	NA	- - - - - - - - - - - - - - - -
+081/089	NA	NA	-
 081/091	selba	1	s e l - b a - - - -
 081/093	selba	1	s e l - b a - - - -
 081/095	selba	1	s e l - b a - - - -
@@ -4369,7 +4369,7 @@
 082/111	selwa	1	s e l - w a - - - -
 082/113	säiwa	1	s äi - - w a - - - -
 082/117	selb	1	s e l - b - - - - -
-082/129	NA	NA	- - - - - - - - - - - - - - - -
+082/129	NA	NA	-
 082/131	sölwa	1	s ö l - w a - - - -
 082/133	selm	1	s e l - m - - - - -
 082/135	selba	1	s e l - b a - - - -
@@ -4439,7 +4439,7 @@
 084/033	selwr	1	s e l - w - r - - -
 084/035	sälwär	1	s ä l - w ä r - - -
 084/037	selwer	1	s e l - w e r - - -
-084/039	NA	NA	- - - - - - - - - - - - - - - -
+084/039	NA	NA	-
 084/041	salwer	1	s a l - w e r - - -
 084/043	salwer	1	s a l - w e r - - -
 084/045	selwer	1	s e l - w e r - - -
@@ -4460,7 +4460,7 @@
 084/075	selber	1	s e l - b e r - - -
 084/077	selber	1	s e l - b e r - - -
 084/079	selber	1	s e l - b e r - - -
-084/081	NA	NA	- - - - - - - - - - - - - - - -
+084/081	NA	NA	-
 084/083	selber	1	s e l - b e r - - -
 084/085	selwa	1	s e l - w a - - - -
 084/087	selba	1	s e l - b a - - - -
@@ -4484,9 +4484,9 @@
 084/131	aloa	2	a l oa - - -
 084/133	söwa	1	s ö - - w a - - - -
 084/135	söwa	1	s ö - - w a - - - -
-084/137	NA	NA	- - - - - - - - - - - - - - - -
+084/137	NA	NA	-
 084/139	söwa	1	s ö - - w a - - - -
-084/141	NA	NA	- - - - - - - - - - - - - - - -
+084/141	NA	NA	-
 084/143	söllwa	1	s ö ll - w a - - - -
 084/145	sölwa	1	s ö l - w a - - - -
 084/147	sölwa	1	s ö l - w a - - - -
@@ -4519,17 +4519,17 @@
 085/075	selber	1	s e l - b e r - - -
 085/077	selbr	1	s e l - b - r - - -
 085/079	selber	1	s e l - b e r - - -
-085/081	NA	NA	- - - - - - - - - - - - - - - -
+085/081	NA	NA	-
 085/083	selber	1	s e l - b e r - - -
 085/085	selbst	1	s e l - b - - s t -
-085/087	NA	NA	- - - - - - - - - - - - - - - -
+085/087	NA	NA	-
 085/089	seiba	1	s ei - - b a - - - -
 085/091	selba	1	s e l - b a - - - -
 085/093	säiba	1	s äi - - b a - - - -
 085/095	selt	1	s e l - - - - - t -
 085/097	sell	1	s e ll - - - - - - -
 085/101	selba	1	s e l - b a - - - -
-085/103	NA	NA	- - - - - - - - - - - - - - - -
+085/103	NA	NA	-
 085/105	säid	1	s äi - - - - - - d -
 085/107	seit	1	s ei - - - - - - t -
 085/109	seiba	1	s ei - - b a - - - -
@@ -4604,7 +4604,7 @@
 086/123	söwa	1	s ö - - w a - - - -
 086/125	söwa	1	s ö - - w a - - - -
 086/127	söwa	1	s ö - - w a - - - -
-086/129	NA	NA	- - - - - - - - - - - - - - - -
+086/129	NA	NA	-
 086/131	söwa	1	s ö - - w a - - - -
 086/133	selba	1	s e l - b a - - - -
 086/135	söwa	1	s ö - - w a - - - -
@@ -4715,7 +4715,7 @@
 088/105	selm	1	s e l - m - - - - -
 088/107	selt	1	s e l - - - - - t -
 088/109	seelba	1	s ee l - b a - - - -
-088/113	NA	NA	- - - - - - - - - - - - - - - -
+088/113	NA	NA	-
 088/115	selba	1	s e l - b a - - - -
 088/117	selbwa	1	s e l - bw a - - - -
 088/121	söwa	1	s ö - - w a - - - -
@@ -4774,7 +4774,7 @@
 089/117	söm	1	s ö - - m - - - - -
 089/119	säwa	1	s ä - - w a - - - -
 089/121	seüm	1	s eü - - m - - - - -
-089/123	NA	NA	- - - - - - - - - - - - - - - -
+089/123	NA	NA	-
 089/125	söba	1	s ö - - b a - - - -
 089/127	söber	1	s ö - - b e r - - -
 089/129	söwa	1	s ö - - w a - - - -
@@ -4785,7 +4785,7 @@
 089/139	sölwa	1	s ö l - w a - - - -
 089/141	sölwa	1	s ö l - w a - - - -
 089/143	söuwa	1	s öu - - w a - - - -
-089/145	NA	NA	- - - - - - - - - - - - - - - -
+089/145	NA	NA	-
 089/147	alloan	2	a ll oa n - -
 089/149	sowa	1	s o - - w a - - - -
 090/035	salbscht	1	s a l - b - - sch t -
@@ -4818,13 +4818,13 @@
 090/089	söiba	1	s öi - - b a - - - -
 090/091	seibst	1	s ei - - b - - s t -
 090/093	seiwa	1	s ei - - w a - - - -
-090/095	NA	NA	- - - - - - - - - - - - - - - -
+090/095	NA	NA	-
 090/097	seim	1	s ei - - m - - - - -
 090/099	selm	1	s e l - m - - - - -
 090/101	selbaa	1	s e l - b aa - - - -
 090/103	selba	1	s e l - b a - - - -
 090/105	selm	1	s e l - m - - - - -
-090/107	NA	NA	- - - - - - - - - - - - - - - -
+090/107	NA	NA	-
 090/109	selm	1	s e l - m - - - - -
 090/111	säm	1	s ä - - m - - - - -
 090/113	selm	1	s e l - m - - - - -
@@ -4877,7 +4877,7 @@
 091/093	seiwa	1	s ei - - w a - - - -
 091/095	söiba	1	s öi - - b a - - - -
 091/097	soim	1	s oi - - m - - - - -
-091/099	NA	NA	- - - - - - - - - - - - - - - -
+091/099	NA	NA	-
 091/101	seim	1	s ei - - m - - - - -
 091/103	seim	1	s ei - - m - - - - -
 091/105	selm	1	s e l - m - - - - -
@@ -4926,7 +4926,7 @@
 092/073	sell	1	s e ll - - - - - - -
 092/075	sell	1	s e ll - - - - - - -
 092/077	sell	1	s e ll - - - - - - -
-092/079	NA	NA	- - - - - - - - - - - - - - - -
+092/079	NA	NA	-
 092/081	söuba	1	s öu - - b a - - - -
 092/083	sell	1	s e ll - - - - - - -
 092/085	selber	1	s e l - b e r - - -
@@ -4951,7 +4951,7 @@
 092/123	selba	1	s e l - b a - - - -
 092/125	säim	1	s äi - - m - - - - -
 092/127	selm	1	s e l - m - - - - -
-092/129	NA	NA	- - - - - - - - - - - - - - - -
+092/129	NA	NA	-
 092/131	söba	1	s ö - - b a - - - -
 092/133	söwa	1	s ö - - w a - - - -
 092/135	sowa	1	s o - - w a - - - -
@@ -4965,7 +4965,7 @@
 092/151	selbst	1	s e l - b - - s t -
 093/035	salbscht	1	s a l - b - - sch t -
 093/037	salbscht	1	s a l - b - - sch t -
-093/039	NA	NA	- - - - - - - - - - - - - - - -
+093/039	NA	NA	-
 093/041	sälwr	1	s ä l - w - r - - -
 093/043	selber	1	s e l - b e r - - -
 093/045	selbr	1	s e l - b - r - - -
@@ -5028,7 +5028,7 @@
 094/041	sälber	1	s ä l - b e r - - -
 094/043	sälwer	1	s ä l - w e r - - -
 094/045	selwer	1	s e l - w e r - - -
-094/047	NA	NA	- - - - - - - - - - - - - - - -
+094/047	NA	NA	-
 094/049	selbscht	1	s e l - b - - sch t -
 094/051	selber	1	s e l - b e r - - -
 094/053	säalb	1	s äa l - b - - - - -
@@ -5209,7 +5209,7 @@
 097/041	selbr	1	s e l - b - r - - -
 097/043	selwer	1	s e l - w e r - - -
 097/045	selber	1	s e l - b e r - - -
-097/047	NA	NA	- - - - - - - - - - - - - - - -
+097/047	NA	NA	-
 097/049	selbr	1	s e l - b - r - - -
 097/051	selber	1	s e l - b e r - - -
 097/053	selber	1	s e l - b e r - - -
@@ -5237,7 +5237,7 @@
 097/097	selbst	1	s e l - b - - s t -
 097/099	selba	1	s e l - b a - - - -
 097/103	selba	1	s e l - b a - - - -
-097/105	NA	NA	- - - - - - - - - - - - - - - -
+097/105	NA	NA	-
 097/107	sem	1	s e - - m - - - - -
 097/109	seiwa	1	s ei - - w a - - - -
 097/113	selm	1	s e l - m - - - - -
@@ -5296,7 +5296,7 @@
 098/137	sölwa	1	s ö l - w a - - - -
 098/139	sölba	1	s ö l - b a - - - -
 098/141	söwa	1	s ö - - w a - - - -
-098/143	NA	NA	- - - - - - - - - - - - - - - -
+098/143	NA	NA	-
 098/145	sölba	1	s ö l - b a - - - -
 098/147	selba	1	s e l - b a - - - -
 098/149	sölwa	1	s ö l - w a - - - -
@@ -5326,7 +5326,7 @@
 099/081	selba	1	s e l - b a - - - -
 099/083	sall	1	s a ll - - - - - - -
 099/085	sell	1	s e ll - - - - - - -
-099/089	NA	NA	- - - - - - - - - - - - - - - -
+099/089	NA	NA	-
 099/093	seiöm	1	s eiö - - m - - - - -
 099/095	säiwa	1	s äi - - w a - - - -
 099/099	seiba	1	s ei - - b a - - - -
@@ -5453,7 +5453,7 @@
 102/067	säulb	1	s äu l - b - - - - -
 102/069	sälb	1	s ä l - b - - - - -
 102/071	seal	1	s ea l - - - - - - -
-102/073	NA	NA	- - - - - - - - - - - - - - - -
+102/073	NA	NA	-
 102/075	sall	1	s a ll - - - - - - -
 102/077	sal	1	s a l - - - - - - -
 102/079	selber	1	s e l - b e r - - -
@@ -5581,7 +5581,7 @@
 105/053	sälber	1	s ä l - b e r - - -
 105/055	sälbär	1	s ä l - b ä r - - -
 105/057	sälbär	1	s ä l - b ä r - - -
-105/059	NA	NA	- - - - - - - - - - - - - - - -
+105/059	NA	NA	-
 105/061	selber	1	s e l - b e r - - -
 105/063	selber	1	s e l - b e r - - -
 105/065	sälber	1	s ä l - b e r - - -
@@ -5638,7 +5638,7 @@
 106/087	selber	1	s e l - b e r - - -
 106/093	selwo	1	s e l - w o - - - -
 106/097	selba	1	s e l - b a - - - -
-106/099	NA	NA	- - - - - - - - - - - - - - - -
+106/099	NA	NA	-
 106/103	selba	1	s e l - b a - - - -
 106/111	sölba	1	s ö l - b a - - - -
 106/115	sewa	1	s e - - w a - - - -
@@ -5686,7 +5686,7 @@
 107/121	selber	1	s e l - b e r - - -
 107/123	selber	1	s e l - b e r - - -
 107/125	selwa	1	s e l - w a - - - -
-107/127	NA	NA	- - - - - - - - - - - - - - - -
+107/127	NA	NA	-
 107/129	selba	1	s e l - b a - - - -
 107/131	sölwa	1	s ö l - w a - - - -
 107/133	sülba	1	s ü l - b a - - - -
@@ -5759,13 +5759,13 @@
 109/109	selba	1	s e l - b a - - - -
 109/111	selba	1	s e l - b a - - - -
 109/113	selber	1	s e l - b e r - - -
-109/115	NA	NA	- - - - - - - - - - - - - - - -
+109/115	NA	NA	-
 109/117	selwer	1	s e l - w e r - - -
 109/119	selber	1	s e l - b e r - - -
 109/121	selbr	1	s e l - b - r - - -
 109/123	selber	1	s e l - b e r - - -
 109/125	selbar	1	s e l - b a r - - -
-109/127	NA	NA	- - - - - - - - - - - - - - - -
+109/127	NA	NA	-
 109/129	alloan	2	a ll oa n - -
 109/131	sölba	1	s ö l - b a - - - -
 109/133	sölbä	1	s ö l - b ä - - - -
@@ -5789,7 +5789,7 @@
 110/087	selber	1	s e l - b e r - - -
 110/089	selba	1	s e l - b a - - - -
 110/091	selbo	1	s e l - b o - - - -
-110/093	NA	NA	- - - - - - - - - - - - - - - -
+110/093	NA	NA	-
 110/095	selbo	1	s e l - b o - - - -
 110/097	selber	1	s e l - b e r - - -
 110/099	salbr	1	s a l - b - r - - -
@@ -5825,7 +5825,7 @@
 111/083	selber	1	s e l - b e r - - -
 111/087	selber	1	s e l - b e r - - -
 111/089	selber	1	s e l - b e r - - -
-111/105	NA	NA	- - - - - - - - - - - - - - - -
+111/105	NA	NA	-
 111/107	selber	1	s e l - b e r - - -
 111/109	selba	1	s e l - b a - - - -
 111/111	selber	1	s e l - b e r - - -
@@ -5883,7 +5883,7 @@
 121/127	shaubascht	1	sh au - - b a - sch t -
 122/127	shaubrscht	1	sh au - - b - r sch t -
 122/129	shaubm	1	sh au - - b - m - - -
-123/081	NA	NA	- - - - - - - - - - - - - - - -
+123/081	NA	NA	-
 123/123	shaubm	1	sh au - - b - m - - -
 123/125	shoubn	1	sh ou - - b - n - - -
 123/127	schaubäscht	1	sch au - - b ä - sch t -

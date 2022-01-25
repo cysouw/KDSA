@@ -218,7 +218,7 @@
 016/145	is	1	i s -
 016/147	is	1	i s -
 016/149	is	1	i s -
-016/151	NA	NA	- - -
+016/151	NA	NA	-
 016/153	is	1	i s -
 016/155	ies	1	ie s -
 016/157	ihs	1	ih s -
@@ -291,7 +291,7 @@
 017/217	iis	1	ii s -
 017/219	ihs	1	ih s -
 018/051	is	1	i s -
-018/053	NA	NA	- - -
+018/053	NA	NA	-
 018/055	ies	1	ie s -
 018/057	iis	1	ii s -
 018/059	is	1	i s -
@@ -414,7 +414,7 @@
 020/059	iis	1	ii s -
 020/061	is	1	i s -
 020/063	iis	1	ii s -
-020/065	NA	NA	- - -
+020/065	NA	NA	-
 020/067	ihs	1	ih s -
 020/069	is	1	i s -
 020/071	iis	1	ii s -
@@ -465,7 +465,7 @@
 020/199	üs	1	ü s -
 020/201	iis	1	ii s -
 020/203	is	1	i s -
-020/205	NA	NA	- - -
+020/205	NA	NA	-
 020/207	is	1	i s -
 020/209	ihs	1	ih s -
 020/211	is	1	i s -
@@ -476,7 +476,7 @@
 021/055	is	1	i s -
 021/057	is	1	i s -
 021/059	is	1	i s -
-021/061	NA	NA	- - -
+021/061	NA	NA	-
 021/063	is	1	i s -
 021/065	iis	1	ii s -
 021/067	iis	1	ii s -
@@ -551,7 +551,7 @@
 022/067	is	1	i s -
 022/069	is	1	i s -
 022/071	iis	1	ii s -
-022/073	NA	NA	- - -
+022/073	NA	NA	-
 022/075	iis	1	ii s -
 022/077	is	1	i s -
 022/087	is	1	i s -
@@ -607,7 +607,7 @@
 022/201	is	1	i s -
 022/203	is	1	i s -
 022/205	is	1	i s -
-022/209	NA	NA	- - -
+022/209	NA	NA	-
 022/211	is	1	i s -
 022/215	ys	1	y s -
 022/217	ihs	1	ih s -
@@ -703,7 +703,7 @@
 024/089	ihs	1	ih s -
 024/091	ihs	1	ih s -
 024/093	ies	1	ie s -
-024/095	NA	NA	- - -
+024/095	NA	NA	-
 024/097	ies	1	ie s -
 024/099	iis	1	ii s -
 024/101	ies	1	ie s -
@@ -775,11 +775,11 @@
 025/083	iis	1	ii s -
 025/085	is	1	i s -
 025/087	ies	1	ie s -
-025/089	NA	NA	- - -
+025/089	NA	NA	-
 025/091	ihs	1	ih s -
 025/093	iies	1	iie s -
 025/095	is	1	i s -
-025/099	NA	NA	- - -
+025/099	NA	NA	-
 025/101	ihs	1	ih s -
 025/103	ies	1	ie s -
 025/105	ies	1	ie s -
@@ -878,7 +878,7 @@
 026/173	is	1	i s -
 026/175	is	1	i s -
 026/177	is	1	i s -
-026/179	NA	NA	- - -
+026/179	NA	NA	-
 026/181	eis	1	ei s -
 026/183	eis	1	ei s -
 026/185	eis	1	ei s -
@@ -901,7 +901,7 @@
 027/063	iis	1	ii s -
 027/065	is	1	i s -
 027/067	is	1	i s -
-027/069	NA	NA	- - -
+027/069	NA	NA	-
 027/071	is	1	i s -
 027/073	is	1	i s -
 027/075	ihs	1	ih s -
@@ -972,7 +972,7 @@
 028/063	ihss	1	ih ss -
 028/065	ies	1	ie s -
 028/067	iis	1	ii s -
-028/069	NA	NA	- - -
+028/069	NA	NA	-
 028/071	is	1	i s -
 028/073	iis	1	ii s -
 028/075	iis	1	ii s -
@@ -1044,7 +1044,7 @@
 029/065	iss	1	i ss -
 029/067	ies	1	ie s -
 029/069	iis	1	ii s -
-029/071	NA	NA	- - -
+029/071	NA	NA	-
 029/073	is	1	i s -
 029/075	is	1	i s -
 029/077	iis	1	ii s -
@@ -1122,7 +1122,7 @@
 030/077	ihs	1	ih s -
 030/079	iis	1	ii s -
 030/081	ies	1	ie s -
-030/083	NA	NA	- - -
+030/083	NA	NA	-
 030/085	is	1	i s -
 030/087	iis	1	ii s -
 030/089	is	1	i s -
@@ -1151,7 +1151,7 @@
 030/135	is	1	i s -
 030/137	is	1	i s -
 030/139	is	1	i s -
-030/141	NA	NA	- - -
+030/141	NA	NA	-
 030/143	is	1	i s -
 030/145	is	1	i s -
 030/147	is	1	i s -
@@ -1417,7 +1417,7 @@
 034/097	ies	1	ie s -
 034/099	ies	1	ie s -
 034/101	is	1	i s -
-034/103	NA	NA	- - -
+034/103	NA	NA	-
 034/105	is	1	i s -
 034/107	ies	1	ie s -
 034/109	ies	1	ie s -
@@ -2004,7 +2004,7 @@
 043/145	ais	1	ai s -
 043/151	eis	1	ei s -
 043/153	eis	1	ei s -
-043/159	NA	NA	- - -
+043/159	NA	NA	-
 043/161	es	1	e s -
 044/033	ies	1	ie s -
 044/035	is	1	i s -
@@ -2165,7 +2165,7 @@
 046/111	iis	1	ii s -
 046/113	ies	1	ie s -
 046/115	eis	1	ei s -
-046/117	NA	NA	- - -
+046/117	NA	NA	-
 046/119	eis	1	ei s -
 046/121	eis	1	ei s -
 046/123	eis	1	ei s -
@@ -2432,7 +2432,7 @@
 050/151	ees	1	ee s -
 050/155	es	1	e s -
 050/157	ees	1	ee s -
-050/159	NA	NA	- - -
+050/159	NA	NA	-
 050/161	eis	1	ei s -
 051/023	is	1	i s -
 051/025	iss	1	i ss -
@@ -2478,13 +2478,13 @@
 051/105	eis	1	ei s -
 051/107	eis	1	ei s -
 051/109	eis	1	ei s -
-051/111	NA	NA	- - -
+051/111	NA	NA	-
 051/113	eis	1	ei s -
 051/115	eis	1	ei s -
 051/117	heis	1	ei s -
 051/119	eis	1	ei s -
 051/121	eis	1	ei s -
-051/123	NA	NA	- - -
+051/123	NA	NA	-
 051/125	eis	1	ei s -
 051/127	iis	1	ii s -
 051/129	eis	1	ei s -
@@ -2547,7 +2547,7 @@
 052/109	eis	1	ei s -
 052/111	eis	1	ei s -
 052/113	eis	1	ei s -
-052/115	NA	NA	- - -
+052/115	NA	NA	-
 052/117	eis	1	ei s -
 052/121	eis	1	ei s -
 052/123	heis	1	ei s -
@@ -2748,14 +2748,14 @@
 055/103	eis	1	ei s -
 055/105	eis	1	ei s -
 055/107	eis	1	ei s -
-055/109	NA	NA	- - -
+055/109	NA	NA	-
 055/111	eis	1	ei s -
 055/113	eis	1	ei s -
 055/115	eis	1	ei s -
 055/117	eis	1	ei s -
 055/119	eis	1	ei s -
 055/123	eis	1	ei s -
-055/125	NA	NA	- - -
+055/125	NA	NA	-
 055/127	eis	1	ei s -
 055/131	eis	1	ei s -
 055/133	eis	1	ei s -
@@ -2826,7 +2826,7 @@
 056/123	eis	1	ei s -
 056/125	eis	1	ei s -
 056/127	eis	1	ei s -
-056/129	NA	NA	- - -
+056/129	NA	NA	-
 056/131	eis	1	ei s -
 056/133	eis	1	ei s -
 056/135	eis	1	ei s -
@@ -2896,7 +2896,7 @@
 057/121	eis	1	ei s -
 057/123	eis	1	ei s -
 057/125	eis	1	ei s -
-057/127	NA	NA	- - -
+057/127	NA	NA	-
 057/129	eis	1	ei s -
 057/131	eis	1	ei s -
 057/133	eis	1	ei s -
@@ -2904,7 +2904,7 @@
 057/137	aes	1	ae s -
 057/139	eis	1	ei s -
 057/141	eis	1	ei s -
-057/143	NA	NA	- - -
+057/143	NA	NA	-
 057/145	eis	1	ei s -
 057/147	eis	1	ei s -
 057/149	ees	1	ee s -
@@ -2983,7 +2983,7 @@
 058/151	eis	1	ei s -
 058/153	eis	1	ei s -
 058/155	eis	1	ei s -
-058/157	NA	NA	- - -
+058/157	NA	NA	-
 058/159	eis	1	ei s -
 059/019	iis	1	ii s -
 059/021	ihs	1	ih s -
@@ -3041,7 +3041,7 @@
 059/125	eis	1	ei s -
 059/127	eis	1	ei s -
 059/129	eis	1	ei s -
-059/131	NA	NA	- - -
+059/131	NA	NA	-
 059/133	eis	1	ei s -
 059/135	eis	1	ei s -
 059/137	eis	1	ei s -
@@ -3054,7 +3054,7 @@
 059/151	eis	1	ei s -
 059/153	eis	1	ei s -
 059/155	eis	1	ei s -
-059/157	NA	NA	- - -
+059/157	NA	NA	-
 059/159	ees	1	ee s -
 059/161	eis	1	ei s -
 059/165	eis	1	ei s -
@@ -3123,12 +3123,12 @@
 060/145	eis	1	ei s -
 060/147	eis	1	ei s -
 060/149	eis	1	ei s -
-060/151	NA	NA	- - -
+060/151	NA	NA	-
 060/153	eis	1	ei s -
-060/155	NA	NA	- - -
+060/155	NA	NA	-
 060/157	ais	1	ai s -
 060/159	ees	1	ee s -
-060/163	NA	NA	- - -
+060/163	NA	NA	-
 060/165	eis	1	ei s -
 061/021	iss	1	i ss -
 061/023	is	1	i s -
@@ -3255,7 +3255,7 @@
 062/123	eis	1	ei s -
 062/125	eis	1	ei s -
 062/127	eis	1	ei s -
-062/129	NA	NA	- - -
+062/129	NA	NA	-
 062/131	eis	1	ei s -
 062/133	eis	1	ei s -
 062/135	eis	1	ei s -
@@ -3324,10 +3324,10 @@
 063/119	eis	1	ei s -
 063/121	eis	1	ei s -
 063/123	eis	1	ei s -
-063/125	NA	NA	- - -
+063/125	NA	NA	-
 063/127	eis	1	ei s -
 063/135	eis	1	ei s -
-063/137	NA	NA	- - -
+063/137	NA	NA	-
 063/139	eis	1	ei s -
 063/141	eiss	1	ei ss -
 063/143	eis	1	ei s -
@@ -3400,7 +3400,7 @@
 064/139	eis	1	ei s -
 064/141	eis	1	ei s -
 064/143	eis	1	ei s -
-064/145	NA	NA	- - -
+064/145	NA	NA	-
 064/147	eis	1	ei s -
 064/149	eis	1	ei s -
 064/151	eis	1	ei s -
@@ -3444,7 +3444,7 @@
 065/087	eis	1	ei s -
 065/089	eis	1	ei s -
 065/091	eis	1	ei s -
-065/093	NA	NA	- - -
+065/093	NA	NA	-
 065/095	eis	1	ei s -
 065/097	eis	1	ei s -
 065/101	eis	1	ei s -
@@ -3453,7 +3453,7 @@
 065/107	eis	1	ei s -
 065/109	eis	1	ei s -
 065/111	eis	1	ei s -
-065/113	NA	NA	- - -
+065/113	NA	NA	-
 065/115	eis	1	ei s -
 065/121	eis	1	ei s -
 065/123	eis	1	ei s -
@@ -3625,10 +3625,10 @@
 068/089	eis	1	ei s -
 068/091	eis	1	ei s -
 068/093	eis	1	ei s -
-068/095	NA	NA	- - -
+068/095	NA	NA	-
 068/097	ais	1	ai s -
 068/099	eis	1	ei s -
-068/101	NA	NA	- - -
+068/101	NA	NA	-
 068/103	eis	1	ei s -
 068/105	eis	1	ei s -
 068/107	eis	1	ei s -
@@ -3636,7 +3636,7 @@
 068/111	eis	1	ei s -
 068/145	eis	1	ei s -
 068/147	eis	1	ei s -
-068/149	NA	NA	- - -
+068/149	NA	NA	-
 068/151	eis	1	ei s -
 068/153	eis	1	ei s -
 068/155	eis	1	ei s -
@@ -3687,7 +3687,7 @@
 069/101	eis	1	ei s -
 069/103	eis	1	ei s -
 069/105	eis	1	ei s -
-069/107	NA	NA	- - -
+069/107	NA	NA	-
 069/109	eis	1	ei s -
 069/111	eis	1	ei s -
 069/147	eis	1	ei s -
@@ -3736,10 +3736,10 @@
 070/089	eis	1	ei s -
 070/091	eis	1	ei s -
 070/093	eis	1	ei s -
-070/095	NA	NA	- - -
+070/095	NA	NA	-
 070/097	eis	1	ei s -
 070/099	eis	1	ei s -
-070/101	NA	NA	- - -
+070/101	NA	NA	-
 070/103	eis	1	ei s -
 070/105	eis	1	ei s -
 070/107	eis	1	ei s -
@@ -3767,7 +3767,7 @@
 071/033	eis	1	ei s -
 071/035	eis	1	ei s -
 071/037	eis	1	ei s -
-071/039	NA	NA	- - -
+071/039	NA	NA	-
 071/041	eis	1	ei s -
 071/043	eis	1	ei s -
 071/045	eis	1	ei s -
@@ -3800,7 +3800,7 @@
 071/101	eis	1	ei s -
 071/103	eis	1	ei s -
 071/105	eis	1	ei s -
-071/145	NA	NA	- - -
+071/145	NA	NA	-
 071/147	eis	1	ei s -
 071/149	eis	1	ei s -
 071/151	eis	1	ei s -
@@ -3854,9 +3854,9 @@
 072/095	eis	1	ei s -
 072/097	eis	1	ei s -
 072/099	eis	1	ei s -
-072/101	NA	NA	- - -
+072/101	NA	NA	-
 072/103	eis	1	ei s -
-072/105	NA	NA	- - -
+072/105	NA	NA	-
 072/107	eis	1	ei s -
 072/145	eis	1	ei s -
 072/147	eis	1	ei s -
@@ -3925,7 +3925,7 @@
 073/157	eis	1	ei s -
 073/159	eis	1	ei s -
 073/161	eis	1	ei s -
-073/163	NA	NA	- - -
+073/163	NA	NA	-
 073/165	eis	1	ei s -
 073/175	ejs	1	ej s -
 073/177	ejs	1	ej s -
@@ -3978,8 +3978,8 @@
 074/145	eis	1	ei s -
 074/147	eis	1	ei s -
 074/149	aais	1	aai s -
-074/153	NA	NA	- - -
-074/155	NA	NA	- - -
+074/153	NA	NA	-
+074/155	NA	NA	-
 074/157	eis	1	ei s -
 074/159	eis	1	ei s -
 074/161	ais	1	ai s -
@@ -4039,7 +4039,7 @@
 075/159	eis	1	ei s -
 075/161	eis	1	ei s -
 075/163	eis	1	ei s -
-075/165	NA	NA	- - -
+075/165	NA	NA	-
 076/019	eis	1	ei s -
 076/021	eis	1	ei s -
 076/023	ies	1	ie s -
@@ -4081,10 +4081,10 @@
 076/097	eis	1	ei s -
 076/099	eis	1	ei s -
 076/101	eis	1	ei s -
-076/103	NA	NA	- - -
+076/103	NA	NA	-
 076/135	eis	1	ei s -
 076/137	ajs	1	aj s -
-076/149	NA	NA	- - -
+076/149	NA	NA	-
 076/151	eis	1	ei s -
 076/155	eis	1	ei s -
 076/161	eis	1	ei s -
@@ -4323,7 +4323,7 @@
 081/133	eis	1	ei s -
 081/147	eis	1	ei s -
 081/191	es	1	e s -
-081/193	NA	NA	- - -
+081/193	NA	NA	-
 081/195	ais	1	ai s -
 082/027	iiss	1	ii ss -
 082/029	iss	1	i ss -
@@ -4500,7 +4500,7 @@
 085/037	is	1	i s -
 085/039	is	1	i s -
 085/041	iss	1	i ss -
-085/043	NA	NA	- - -
+085/043	NA	NA	-
 085/045	is	1	i s -
 085/047	eis	1	ei s -
 085/049	is	1	i s -
@@ -4543,7 +4543,7 @@
 085/125	eis	1	ei s -
 085/127	eis	1	ei s -
 085/129	eis	1	ei s -
-085/131	NA	NA	- - -
+085/131	NA	NA	-
 085/133	eis	1	ei s -
 085/135	eis	1	ei s -
 085/137	eis	1	ei s -
@@ -4601,13 +4601,13 @@
 086/117	eis	1	ei s -
 086/119	eis	1	ei s -
 086/121	eis	1	ei s -
-086/123	NA	NA	- - -
+086/123	NA	NA	-
 086/125	eis	1	ei s -
 086/127	eis	1	ei s -
 086/129	eis	1	ei s -
 086/131	eis	1	ei s -
 086/133	eis	1	ei s -
-086/135	NA	NA	- - -
+086/135	NA	NA	-
 086/137	eis	1	ei s -
 086/139	eis	1	ei s -
 086/141	eis	1	ei s -
@@ -4708,7 +4708,7 @@
 088/091	eis	1	ei s -
 088/093	eis	1	ei s -
 088/095	eis	1	ei s -
-088/097	NA	NA	- - -
+088/097	NA	NA	-
 088/099	eis	1	ei s -
 088/101	eis	1	ei s -
 088/103	eis	1	ei s -
@@ -4717,7 +4717,7 @@
 088/109	eis	1	ei s -
 088/113	eis	1	ei s -
 088/115	eis	1	ei s -
-088/117	NA	NA	- - -
+088/117	NA	NA	-
 088/121	eis	1	ei s -
 088/123	eis	1	ei s -
 088/127	eis	1	ei s -
@@ -4772,7 +4772,7 @@
 089/113	eis	1	ei s -
 089/115	eis	1	ei s -
 089/117	eis	1	ei s -
-089/119	NA	NA	- - -
+089/119	NA	NA	-
 089/121	eis	1	ei s -
 089/123	eis	1	ei s -
 089/125	eis	1	ei s -
@@ -4782,7 +4782,7 @@
 089/133	eis	1	ei s -
 089/135	eis	1	ei s -
 089/137	eis	1	ei s -
-089/139	NA	NA	- - -
+089/139	NA	NA	-
 089/141	eis	1	ei s -
 089/143	eis	1	ei s -
 089/145	eis	1	ei s -
@@ -4820,7 +4820,7 @@
 090/093	eis	1	ei s -
 090/095	eis	1	ei s -
 090/097	eis	1	ei s -
-090/099	NA	NA	- - -
+090/099	NA	NA	-
 090/101	eis	1	ei s -
 090/103	eis	1	ei s -
 090/105	eis	1	ei s -
@@ -4832,7 +4832,7 @@
 090/119	eis	1	ei s -
 090/121	eis	1	ei s -
 090/123	eis	1	ei s -
-090/125	NA	NA	- - -
+090/125	NA	NA	-
 090/127	eis	1	ei s -
 090/129	eis	1	ei s -
 090/131	eis	1	ei s -
@@ -4849,7 +4849,7 @@
 091/035	iis	1	ii s -
 091/037	iss	1	i ss -
 091/039	iss	1	i ss -
-091/041	NA	NA	- - -
+091/041	NA	NA	-
 091/043	iis	1	ii s -
 091/045	is	1	i s -
 091/047	is	1	i s -
@@ -4902,7 +4902,7 @@
 091/147	eis	1	ei s -
 091/149	eis	1	ei s -
 091/151	ais	1	ai s -
-091/155	NA	NA	- - -
+091/155	NA	NA	-
 092/033	iss	1	i ss -
 092/035	iss	1	i ss -
 092/037	is	1	i s -
@@ -5138,7 +5138,7 @@
 095/143	eis	1	ei s -
 095/145	eis	1	ei s -
 095/147	eis	1	ei s -
-095/149	NA	NA	- - -
+095/149	NA	NA	-
 095/151	eis	1	ei s -
 095/153	eis	1	ei s -
 095/155	eis	1	ei s -
@@ -5184,7 +5184,7 @@
 096/111	eis	1	ei s -
 096/113	eis	1	ei s -
 096/115	eis	1	ei s -
-096/117	NA	NA	- - -
+096/117	NA	NA	-
 096/119	eis	1	ei s -
 096/121	eis	1	ei s -
 096/123	ais	1	ai s -
@@ -5291,7 +5291,7 @@
 098/119	eis	1	ei s -
 098/123	eis	1	ei s -
 098/125	eis	1	ei s -
-098/127	NA	NA	- - -
+098/127	NA	NA	-
 098/135	eis	1	ei s -
 098/137	eis	1	ei s -
 098/139	eis	1	ei s -
@@ -5386,7 +5386,7 @@
 100/125	eis	1	ei s -
 100/127	eis	1	ei s -
 100/129	eis	1	ei s -
-100/133	NA	NA	- - -
+100/133	NA	NA	-
 100/135	eis	1	ei s -
 100/141	eis	1	ei s -
 100/143	eis	1	ei s -
@@ -5595,7 +5595,7 @@
 105/081	eis	1	ei s -
 105/085	eis	1	ei s -
 105/087	eis	1	ei s -
-105/089	NA	NA	- - -
+105/089	NA	NA	-
 105/103	eis	1	ei s -
 105/105	eis	1	ei s -
 105/111	eis	1	ei s -
@@ -5679,19 +5679,19 @@
 107/097	eis	1	ei s -
 107/099	eis	1	ei s -
 107/103	eis	1	ei s -
-107/105	NA	NA	- - -
+107/105	NA	NA	-
 107/107	eis	1	ei s -
-107/111	NA	NA	- - -
+107/111	NA	NA	-
 107/119	eis	1	ei s -
 107/121	eis	1	ei s -
 107/123	eis	1	ei s -
 107/125	ais	1	ai s -
 107/127	eis	1	ei s -
-107/129	NA	NA	- - -
+107/129	NA	NA	-
 107/131	eis	1	ei s -
 107/133	ais	1	ai s -
 107/135	eis	1	ei s -
-107/137	NA	NA	- - -
+107/137	NA	NA	-
 107/139	eis	1	ei s -
 107/141	eis	1	ei s -
 107/143	eis	1	ei s -
@@ -5724,7 +5724,7 @@
 108/121	eis	1	ei s -
 108/123	eis	1	ei s -
 108/125	eis	1	ei s -
-108/127	NA	NA	- - -
+108/127	NA	NA	-
 108/129	eis	1	ei s -
 108/131	eis	1	ei s -
 108/133	ais	1	ai s -
@@ -5753,9 +5753,9 @@
 109/095	ais	1	ai s -
 109/097	eis	1	ei s -
 109/099	eis	1	ei s -
-109/101	NA	NA	- - -
+109/101	NA	NA	-
 109/103	eis	1	ei s -
-109/107	NA	NA	- - -
+109/107	NA	NA	-
 109/109	eis	1	ei s -
 109/111	eis	1	ei s -
 109/113	eis	1	ei s -
@@ -5821,7 +5821,7 @@
 111/075	ais	1	ai s -
 111/077	eis	1	ei s -
 111/079	eis	1	ei s -
-111/081	NA	NA	- - -
+111/081	NA	NA	-
 111/083	eis	1	ei s -
 111/087	eis	1	ei s -
 111/089	eis	1	ei s -
@@ -5830,7 +5830,7 @@
 111/109	eis	1	ei s -
 111/111	eis	1	ei s -
 111/113	eis	1	ei s -
-111/115	NA	NA	- - -
+111/115	NA	NA	-
 111/117	eis	1	ei s -
 111/119	ais	1	ai s -
 111/121	eis	1	ei s -
@@ -5843,7 +5843,7 @@
 112/047	isch	1	i sch -
 112/059	isch	1	i sch -
 112/061	isch	1	i sch -
-112/063	NA	NA	- - -
+112/063	NA	NA	-
 112/075	eis	1	ei s -
 112/081	eis	1	ei s -
 112/083	eis	1	ei s -

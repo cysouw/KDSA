@@ -203,7 +203,7 @@
 015/221	flösch	1	f l ö sch
 016/051	flaesk	1	f l ae sk
 016/055	flaasch	1	f l aa sch
-016/057	NA	NA	- - - -
+016/057	NA	NA	-
 016/059	fleesch	1	f l ee sch
 016/061	fleesch	1	f l ee sch
 016/063	fleesch	1	f l ee sch
@@ -484,7 +484,7 @@
 021/071	fleesch	1	f l ee sch
 021/073	fleesch	1	f l ee sch
 021/075	fleisch	1	f l ei sch
-021/077	flelsch	1	f l el sch
+021/077	flelsch	1	f l e lsch
 021/079	fleesch	1	f l ee sch
 021/087	fleisch	1	f l ei sch
 021/089	fleisch	1	f l ei sch
@@ -1907,7 +1907,7 @@
 042/075	fleisch	1	f l ei sch
 042/077	fleisch	1	f l ei sch
 042/079	fleisch	1	f l ei sch
-042/081	NA	NA	- - - -
+042/081	NA	NA	-
 042/083	flesch	1	f l e sch
 042/085	flesch	1	f l e sch
 042/087	flesch	1	f l e sch
@@ -2048,7 +2048,7 @@
 044/113	fleesch	1	f l ee sch
 044/115	flesch	1	f l e sch
 044/117	fleesch	1	f l ee sch
-044/119	NA	NA	- - - -
+044/119	NA	NA	-
 044/121	flesch	1	f l e sch
 044/123	fleesch	1	f l ee sch
 044/125	flesch	1	f l e sch
@@ -3475,7 +3475,7 @@
 066/029	fläisch	1	f l äi sch
 066/031	flesch	1	f l e sch
 066/033	fläsch	1	f l ä sch
-066/035	NA	NA	- - - -
+066/035	NA	NA	-
 066/037	fläsch	1	f l ä sch
 066/039	flaisch	1	f l ai sch
 066/041	flaasch	1	f l aa sch
@@ -4254,7 +4254,7 @@
 080/075	fleisch	1	f l ei sch
 080/077	fleisch	1	f l ei sch
 080/079	fleisch	1	f l ei sch
-080/081	NA	NA	- - - -
+080/081	NA	NA	-
 080/083	flaisch	1	f l ai sch
 080/085	fleisch	1	f l ei sch
 080/087	fleisch	1	f l ei sch
@@ -4519,7 +4519,7 @@
 085/075	floisch	1	f l oi sch
 085/077	floisch	1	f l oi sch
 085/079	fleisch	1	f l ei sch
-085/081	NA	NA	- - - -
+085/081	NA	NA	-
 085/083	fleisch	1	f l ei sch
 085/085	fleisch	1	f l ei sch
 085/087	fleisch	1	f l ei sch
@@ -4853,7 +4853,7 @@
 091/043	flaisch	1	f l ai sch
 091/045	fleisch	1	f l ei sch
 091/047	fleisch	1	f l ei sch
-091/049	NA	NA	- - - -
+091/049	NA	NA	-
 091/051	fleisch	1	f l ei sch
 091/053	floasch	1	f l oa sch
 091/055	floasch	1	f l oa sch
@@ -5185,7 +5185,7 @@
 096/113	fleisch	1	f l ei sch
 096/115	fleisch	1	f l ei sch
 096/117	fleisch	1	f l ei sch
-096/119	NA	NA	- - - -
+096/119	NA	NA	-
 096/121	fleisch	1	f l ei sch
 096/123	flaisch	1	f l ai sch
 096/125	fleisch	1	f l ei sch
@@ -5300,7 +5300,7 @@
 098/145	fleisch	1	f l ei sch
 098/147	fleisch	1	f l ei sch
 098/149	fleisch	1	f l ei sch
-098/151	NA	NA	- - - -
+098/151	NA	NA	-
 099/033	flaisch	1	f l ai sch
 099/035	fleisch	1	f l ei sch
 099/037	fleisch	1	f l ei sch

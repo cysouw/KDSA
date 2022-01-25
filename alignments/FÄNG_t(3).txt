@@ -10,7 +10,7 @@
 005/207	fang	1	f a n g
 006/205	fang	1	f a n g
 006/207	fang	1	f a n g
-007/205	NA	NA	- - - -
+007/205	NA	NA	-
 007/207	fang	1	f a n g
 007/209	fang	1	f a n g
 007/211	fang	1	f a n g
@@ -40,12 +40,12 @@
 010/219	fank	1	f a n k
 011/049	bigent	2	b i g e n t - -
 011/053	begynt	2	b e g y n t - -
-011/055	NA	NA	- - - -
+011/055	NA	NA	-
 011/057	begynd	2	b e g y n d - -
 011/059	begyner	2	b e g y n - e r
 011/061	begynd	2	b e g y n d - -
 011/063	begynnet	2	b e g y nn - e t
-011/065	NA	NA	- - - -
+011/065	NA	NA	-
 011/067	begünner	2	b e g ü nn - e r
 011/069	begynne	2	b e g y nn - e -
 011/187	fang	1	f a n g
@@ -97,7 +97,7 @@
 013/053	fang	1	f a n g
 013/055	fang	1	f a n g
 013/057	begynner	2	b e g y nn - e r
-013/059	NA	NA	- - - -
+013/059	NA	NA	-
 013/061	fang	1	f a n g
 013/063	fank	1	f a n k
 013/065	fang	1	f a n g
@@ -151,7 +151,7 @@
 014/199	fäng	1	f ä n g
 014/201	fang	1	f a n g
 014/203	fang	1	f a n g
-014/205	NA	NA	- - - -
+014/205	NA	NA	-
 014/207	fank	1	f a n k
 014/209	fang	1	f a n g
 014/211	fäng	1	f ä n g
@@ -197,7 +197,7 @@
 015/209	fang	1	f a n g
 015/211	fank	1	f a n k
 015/213	fang	1	f a n g
-015/215	NA	NA	- - - -
+015/215	NA	NA	-
 015/217	fang	1	f a n g
 015/219	fang	1	f a n g
 015/221	fang	1	f a n g
@@ -281,7 +281,7 @@
 017/197	fang	1	f a n g
 017/199	fang	1	f a n g
 017/201	fang	1	f a n g
-017/203	NA	NA	- - - -
+017/203	NA	NA	-
 017/205	fang	1	f a n g
 017/207	fang	1	f a n g
 017/209	fang	1	f a n g
@@ -373,7 +373,7 @@
 019/147	fäng	1	f ä n g
 019/149	feng	1	f e n g
 019/151	fäng	1	f ä n g
-019/153	NA	NA	- - - -
+019/153	NA	NA	-
 019/155	fäng	1	f ä n g
 019/157	fäng	1	f ä n g
 019/159	fäng	1	f ä n g
@@ -465,13 +465,13 @@
 020/199	fang	1	f a n g
 020/201	fang	1	f a n g
 020/203	fang	1	f a n g
-020/205	NA	NA	- - - -
+020/205	NA	NA	-
 020/207	fang	1	f a n g
 020/209	fang	1	f a n g
-020/211	NA	NA	- - - -
+020/211	NA	NA	-
 020/213	fäng	1	f ä n g
 020/215	fang	1	f a n g
-020/217	NA	NA	- - - -
+020/217	NA	NA	-
 020/219	fang	1	f a n g
 021/055	fank	1	f a n k
 021/057	ward	6	w ar d
@@ -538,7 +538,7 @@
 021/203	fang	1	f a n g
 021/205	fang	1	f a n g
 021/207	wart	6	w ar t
-021/211	NA	NA	- - - -
+021/211	NA	NA	-
 021/215	fang	1	f a n g
 021/217	fang	1	f a n g
 021/219	fang	1	f a n g
@@ -585,7 +585,7 @@
 022/153	fäng	1	f ä n g
 022/155	fäng	1	f ä n g
 022/157	fing	1	f i n g
-022/159	NA	NA	- - - -
+022/159	NA	NA	-
 022/165	fäng	1	f ä n g
 022/167	fang	1	f a n g
 022/169	fäng	1	f ä n g
@@ -666,7 +666,7 @@
 023/169	fang	1	f a n g
 023/175	fank	1	f a n k
 023/177	fäng	1	f ä n g
-023/179	NA	NA	- - - -
+023/179	NA	NA	-
 023/181	fang	1	f a n g
 023/183	werd	6	w er d
 023/185	fäng	1	f ä n g
@@ -714,7 +714,7 @@
 024/111	fing	1	f i n g
 024/113	fing	1	f i n g
 024/115	fäng	1	f ä n g
-024/117	NA	NA	- - - -
+024/117	NA	NA	-
 024/119	fing	1	f i n g
 024/121	fänk	1	f ä n k
 024/123	fing	1	f i n g
@@ -881,7 +881,7 @@
 026/179	ward	6	w ar d
 026/181	fäng	1	f ä n g
 026/183	fäng	1	f ä n g
-026/185	NA	NA	- - - -
+026/185	NA	NA	-
 026/187	fäng	1	f ä n g
 026/189	fäng	1	f ä n g
 027/027	fang	1	f a n g
@@ -1070,7 +1070,7 @@
 029/117	fäng	1	f ä n g
 029/119	fäng	1	f ä n g
 029/121	fäng	1	f ä n g
-029/123	NA	NA	- - - -
+029/123	NA	NA	-
 029/125	fäng	1	f ä n g
 029/127	feng	1	f e n g
 029/129	feng	1	f e n g
@@ -1084,10 +1084,10 @@
 029/145	fing	1	f i n g
 029/147	fing	1	f i n g
 029/149	fehnk	1	f eh n k
-029/151	NA	NA	- - - -
+029/151	NA	NA	-
 029/153	fing	1	f i n g
 029/155	fin	1	f i n -
-029/157	NA	NA	- - - -
+029/157	NA	NA	-
 029/159	fing	1	f i n g
 029/161	watt	6	w a tt
 029/163	finng	1	f i nn g
@@ -1099,7 +1099,7 @@
 029/175	fang	1	f a n g
 029/177	fäng	1	f ä n g
 029/181	fing	1	f i n g
-030/033	NA	NA	- - - -
+030/033	NA	NA	-
 030/035	vang	1	v a n g
 030/037	vang	1	v a n g
 030/039	fang	1	f a n g
@@ -1122,7 +1122,7 @@
 030/077	fang	1	f a n g
 030/079	fang	1	f a n g
 030/081	fang	1	f a n g
-030/083	NA	NA	- - - -
+030/083	NA	NA	-
 030/085	feng	1	f e n g
 030/087	fang	1	f a n g
 030/089	fang	1	f a n g
@@ -1151,7 +1151,7 @@
 030/135	feng	1	f e n g
 030/137	feng	1	f e n g
 030/139	feng	1	f e n g
-030/141	NA	NA	- - - -
+030/141	NA	NA	-
 030/143	fäng	1	f ä n g
 030/145	fäng	1	f ä n g
 030/147	fing	1	f i n g
@@ -1169,7 +1169,7 @@
 030/171	fäng	1	f ä n g
 030/173	fang	1	f a n g
 030/175	fenk	1	f e n k
-030/177	NA	NA	- - - -
+030/177	NA	NA	-
 030/179	fin	1	f i n -
 030/181	fing	1	f i n g
 030/183	fing	1	f i n g
@@ -1241,7 +1241,7 @@
 031/167	fäng	1	f ä n g
 031/169	fang	1	f a n g
 031/171	dout	5	d ou t
-031/173	NA	NA	- - - -
+031/173	NA	NA	-
 031/175	fink	1	f i n k
 031/177	fing	1	f i n g
 031/179	fäng	1	f ä n g
@@ -1273,7 +1273,7 @@
 032/089	fang	1	f a n g
 032/091	fang	1	f a n g
 032/093	fang	1	f a n g
-032/095	NA	NA	- - - -
+032/095	NA	NA	-
 032/097	fang	1	f a n g
 032/099	fäng	1	f ä n g
 032/101	fäng	1	f ä n g
@@ -1297,9 +1297,9 @@
 032/141	fenk	1	f e n k
 032/143	feng	1	f e n g
 032/145	feng	1	f e n g
-032/147	NA	NA	- - - -
+032/147	NA	NA	-
 032/149	finng	1	f i nn g
-032/151	NA	NA	- - - -
+032/151	NA	NA	-
 032/153	fing	1	f i n g
 032/157	fing	1	f i n g
 032/159	fing	1	f i n g
@@ -1380,12 +1380,12 @@
 033/163	fing	1	f i n g
 033/165	fäng	1	f ä n g
 033/167	fäng	1	f ä n g
-033/169	NA	NA	- - - -
+033/169	NA	NA	-
 033/173	feng	1	f e n g
 033/175	fäng	1	f ä n g
 033/177	fieng	1	f ie n g
 034/035	fank	1	f a n k
-034/039	NA	NA	- - - -
+034/039	NA	NA	-
 034/041	fank	1	f a n k
 034/043	fank	1	f a n k
 034/045	fang	1	f a n g
@@ -1466,7 +1466,7 @@
 035/063	fang	1	f a n g
 035/065	fang	1	f a n g
 035/067	fang	1	f a n g
-035/069	NA	NA	- - - -
+035/069	NA	NA	-
 035/071	fang	1	f a n g
 035/073	fang	1	f a n g
 035/075	fang	1	f a n g
@@ -1576,7 +1576,7 @@
 036/163	feng	1	f e n g
 036/165	fäng	1	f ä n g
 036/167	fäng	1	f ä n g
-036/169	NA	NA	- - - -
+036/169	NA	NA	-
 036/171	fäng	1	f ä n g
 037/033	fank	1	f a n k
 037/035	fang	1	f a n g
@@ -1678,7 +1678,7 @@
 038/099	fang	1	f a n g
 038/101	fang	1	f a n g
 038/103	fang	1	f a n g
-038/105	NA	NA	- - - -
+038/105	NA	NA	-
 038/107	fang	1	f a n g
 038/109	fang	1	f a n g
 038/111	fang	1	f a n g
@@ -1699,11 +1699,11 @@
 038/149	feng	1	f e n g
 038/151	fäng	1	f ä n g
 038/153	fäng	1	f ä n g
-038/155	NA	NA	- - - -
+038/155	NA	NA	-
 038/159	fäng	1	f ä n g
 038/161	feng	1	f e n g
 038/163	fäng	1	f ä n g
-039/029	NA	NA	- - - -
+039/029	NA	NA	-
 039/031	vank	1	v a n k
 039/033	fänk	1	f ä n k
 039/035	fank	1	f a n k
@@ -1758,7 +1758,7 @@
 039/133	fang	1	f a n g
 039/135	fäng	1	f ä n g
 039/137	fäng	1	f ä n g
-039/139	NA	NA	- - - -
+039/139	NA	NA	-
 039/149	feng	1	f e n g
 039/151	feng	1	f e n g
 039/153	fäng	1	f ä n g
@@ -1803,7 +1803,7 @@
 040/103	fang	1	f a n g
 040/105	fang	1	f a n g
 040/107	fang	1	f a n g
-040/109	NA	NA	- - - -
+040/109	NA	NA	-
 040/111	fang	1	f a n g
 040/113	fäng	1	f ä n g
 040/115	fang	1	f a n g
@@ -1814,8 +1814,8 @@
 040/127	fäng	1	f ä n g
 040/129	fäng	1	f ä n g
 040/131	fang	1	f a n g
-040/133	NA	NA	- - - -
-040/135	NA	NA	- - - -
+040/133	NA	NA	-
+040/135	NA	NA	-
 040/137	fang	1	f a n g
 040/141	fing	1	f i n g
 040/143	fäng	1	f ä n g
@@ -1862,7 +1862,7 @@
 041/105	fang	1	f a n g
 041/107	fang	1	f a n g
 041/109	fing	1	f i n g
-041/111	NA	NA	- - - -
+041/111	NA	NA	-
 041/113	fang	1	f a n g
 041/115	fang	1	f a n g
 041/117	fang	1	f a n g
@@ -1936,7 +1936,7 @@
 042/133	fäng	1	f ä n g
 042/135	fäng	1	f ä n g
 042/137	fäng	1	f ä n g
-042/139	NA	NA	- - - -
+042/139	NA	NA	-
 042/141	fäng	1	f ä n g
 042/143	fäng	1	f ä n g
 042/145	fäng	1	f ä n g
@@ -1947,7 +1947,7 @@
 042/159	fäng	1	f ä n g
 042/161	feng	1	f e n g
 043/033	fank	1	f a n k
-043/035	NA	NA	- - - -
+043/035	NA	NA	-
 043/037	fäng	1	f ä n g
 043/039	fänk	1	f ä n k
 043/041	fänk	1	f ä n k
@@ -1997,7 +1997,7 @@
 043/129	fäng	1	f ä n g
 043/131	fäng	1	f ä n g
 043/133	fäng	1	f ä n g
-043/135	NA	NA	- - - -
+043/135	NA	NA	-
 043/137	fäng	1	f ä n g
 043/141	fäng	1	f ä n g
 043/143	fäng	1	f ä n g
@@ -2016,7 +2016,7 @@
 044/049	fänk	1	f ä n k
 044/051	fänk	1	f ä n k
 044/053	fäng	1	f ä n g
-044/055	NA	NA	- - - -
+044/055	NA	NA	-
 044/057	fäng	1	f ä n g
 044/059	fäng	1	f ä n g
 044/061	fäng	1	f ä n g
@@ -2087,7 +2087,7 @@
 045/073	fäng	1	f ä n g
 045/075	fäng	1	f ä n g
 045/077	fäng	1	f ä n g
-045/079	NA	NA	- - - -
+045/079	NA	NA	-
 045/081	feng	1	f e n g
 045/083	feng	1	f e n g
 045/085	fäng	1	f ä n g
@@ -2165,7 +2165,7 @@
 046/111	fang	1	f a n g
 046/113	fang	1	f a n g
 046/115	fang	1	f a n g
-046/117	NA	NA	- - - -
+046/117	NA	NA	-
 046/119	fang	1	f a n g
 046/121	fäng	1	f ä n g
 046/123	fäng	1	f ä n g
@@ -2270,9 +2270,9 @@
 048/081	fäng	1	f ä n g
 048/083	feng	1	f e n g
 048/085	fäng	1	f ä n g
-048/087	NA	NA	- - - -
+048/087	NA	NA	-
 048/089	feng	1	f e n g
-048/091	NA	NA	- - - -
+048/091	NA	NA	-
 048/093	fang	1	f a n g
 048/095	fang	1	f a n g
 048/099	fang	1	f a n g
@@ -2334,12 +2334,12 @@
 049/081	fäng	1	f ä n g
 049/083	fäng	1	f ä n g
 049/085	fäng	1	f ä n g
-049/087	NA	NA	- - - -
+049/087	NA	NA	-
 049/089	feng	1	f e n g
 049/091	fäng	1	f ä n g
 049/093	fäng	1	f ä n g
 049/095	fäng	1	f ä n g
-049/097	NA	NA	- - - -
+049/097	NA	NA	-
 049/099	fäng	1	f ä n g
 049/101	fäng	1	f ä n g
 049/103	fäng	1	f ä n g
@@ -2400,9 +2400,9 @@
 050/085	fäng	1	f ä n g
 050/087	fäng	1	f ä n g
 050/089	fang	1	f a n g
-050/091	NA	NA	- - - -
+050/091	NA	NA	-
 050/093	fäng	1	f ä n g
-050/095	NA	NA	- - - -
+050/095	NA	NA	-
 050/097	fäng	1	f ä n g
 050/099	fäng	1	f ä n g
 050/101	fäng	1	f ä n g
@@ -2430,7 +2430,7 @@
 050/147	fäng	1	f ä n g
 050/149	fäng	1	f ä n g
 050/151	feng	1	f e n g
-050/155	NA	NA	- - - -
+050/155	NA	NA	-
 050/157	fang	1	f a n g
 050/159	fäng	1	f ä n g
 050/161	fäng	1	f ä n g
@@ -2467,10 +2467,10 @@
 051/083	feng	1	f e n g
 051/085	feng	1	f e n g
 051/087	fengg	1	f e n gg
-051/089	NA	NA	- - - -
+051/089	NA	NA	-
 051/091	fang	1	f a n g
 051/093	fäng	1	f ä n g
-051/095	NA	NA	- - - -
+051/095	NA	NA	-
 051/097	fäng	1	f ä n g
 051/099	fäng	1	f ä n g
 051/101	fäng	1	f ä n g
@@ -2673,9 +2673,9 @@
 054/093	feng	1	f e n g
 054/095	fäng	1	f ä n g
 054/097	fäng	1	f ä n g
-054/099	NA	NA	- - - -
+054/099	NA	NA	-
 054/101	fäng	1	f ä n g
-054/103	NA	NA	- - - -
+054/103	NA	NA	-
 054/105	feng	1	f e n g
 054/107	fäng	1	f ä n g
 054/109	fäng	1	f ä n g
@@ -2702,7 +2702,7 @@
 054/153	fäng	1	f ä n g
 054/155	fäng	1	f ä n g
 054/157	fäng	1	f ä n g
-054/159	NA	NA	- - - -
+054/159	NA	NA	-
 054/161	fäng	1	f ä n g
 054/163	fäng	1	f ä n g
 055/023	fäng	1	f ä n g
@@ -2733,7 +2733,7 @@
 055/073	fäng	1	f ä n g
 055/075	fäng	1	f ä n g
 055/077	fäng	1	f ä n g
-055/079	NA	NA	- - - -
+055/079	NA	NA	-
 055/081	fäng	1	f ä n g
 055/083	fäng	1	f ä n g
 055/085	fäng	1	f ä n g
@@ -2773,7 +2773,7 @@
 055/157	fäng	1	f ä n g
 055/159	fäng	1	f ä n g
 055/161	fäng	1	f ä n g
-056/021	NA	NA	- - - -
+056/021	NA	NA	-
 056/023	fäng	1	f ä n g
 056/025	fäng	1	f ä n g
 056/027	fänk	1	f ä n k
@@ -2811,9 +2811,9 @@
 056/091	fäng	1	f ä n g
 056/093	fäng	1	f ä n g
 056/095	fank	1	f a n k
-056/097	NA	NA	- - - -
+056/097	NA	NA	-
 056/099	fäng	1	f ä n g
-056/101	NA	NA	- - - -
+056/101	NA	NA	-
 056/103	fang	1	f a n g
 056/105	fäng	1	f ä n g
 056/107	fäng	1	f ä n g
@@ -2881,7 +2881,7 @@
 057/091	fäng	1	f ä n g
 057/093	fäng	1	f ä n g
 057/095	fang	1	f a n g
-057/097	NA	NA	- - - -
+057/097	NA	NA	-
 057/099	fäng	1	f ä n g
 057/101	fäng	1	f ä n g
 057/103	fäng	1	f ä n g
@@ -2901,10 +2901,10 @@
 057/131	fäng	1	f ä n g
 057/133	fäng	1	f ä n g
 057/135	fäng	1	f ä n g
-057/137	NA	NA	- - - -
+057/137	NA	NA	-
 057/139	fäng	1	f ä n g
 057/141	fäng	1	f ä n g
-057/143	NA	NA	- - - -
+057/143	NA	NA	-
 057/145	kimmt	4	k i mm t
 057/147	fäng	1	f ä n g
 057/149	fäng	1	f ä n g
@@ -2970,7 +2970,7 @@
 058/125	fäng	1	f ä n g
 058/127	fäng	1	f ä n g
 058/129	fäng	1	f ä n g
-058/131	NA	NA	- - - -
+058/131	NA	NA	-
 058/133	fäng	1	f ä n g
 058/135	fäng	1	f ä n g
 058/137	fäng	1	f ä n g
@@ -3023,15 +3023,15 @@
 059/089	feng	1	f e n g
 059/091	fang	1	f a n g
 059/093	fang	1	f a n g
-059/095	NA	NA	- - - -
+059/095	NA	NA	-
 059/097	fang	1	f a n g
 059/099	fang	1	f a n g
 059/101	fäng	1	f ä n g
 059/103	feng	1	f e n g
 059/105	fäng	1	f ä n g
 059/107	fäng	1	f ä n g
-059/109	NA	NA	- - - -
-059/111	NA	NA	- - - -
+059/109	NA	NA	-
+059/111	NA	NA	-
 059/113	fäng	1	f ä n g
 059/115	fäng	1	f ä n g
 059/117	fäng	1	f ä n g
@@ -3039,9 +3039,9 @@
 059/121	fäng	1	f ä n g
 059/123	fäng	1	f ä n g
 059/125	fäng	1	f ä n g
-059/127	NA	NA	- - - -
+059/127	NA	NA	-
 059/129	fäng	1	f ä n g
-059/131	NA	NA	- - - -
+059/131	NA	NA	-
 059/133	fäng	1	f ä n g
 059/135	fäng	1	f ä n g
 059/137	fäng	1	f ä n g
@@ -3110,11 +3110,11 @@
 060/117	fäng	1	f ä n g
 060/119	fäng	1	f ä n g
 060/121	fäng	1	f ä n g
-060/123	NA	NA	- - - -
+060/123	NA	NA	-
 060/125	fäng	1	f ä n g
 060/127	fäng	1	f ä n g
 060/129	fäng	1	f ä n g
-060/131	NA	NA	- - - -
+060/131	NA	NA	-
 060/135	fäng	1	f ä n g
 060/137	fäng	1	f ä n g
 060/139	fäng	1	f ä n g
@@ -3123,7 +3123,7 @@
 060/145	fäng	1	f ä n g
 060/147	fäng	1	f ä n g
 060/149	fäng	1	f ä n g
-060/151	NA	NA	- - - -
+060/151	NA	NA	-
 060/153	fäng	1	f ä n g
 060/155	fäng	1	f ä n g
 060/157	fäng	1	f ä n g
@@ -3239,14 +3239,14 @@
 062/091	feng	1	f e n g
 062/093	fäng	1	f ä n g
 062/095	feng	1	f e n g
-062/097	NA	NA	- - - -
+062/097	NA	NA	-
 062/099	fäng	1	f ä n g
 062/101	fäng	1	f ä n g
 062/103	fäng	1	f ä n g
 062/105	fäng	1	f ä n g
 062/107	fäng	1	f ä n g
 062/109	fäng	1	f ä n g
-062/111	NA	NA	- - - -
+062/111	NA	NA	-
 062/113	fang	1	f a n g
 062/115	fäng	1	f ä n g
 062/117	fäng	1	f ä n g
@@ -3261,7 +3261,7 @@
 062/135	fäng	1	f ä n g
 062/137	feng	1	f e n g
 062/139	fäng	1	f ä n g
-062/141	NA	NA	- - - -
+062/141	NA	NA	-
 062/143	fäng	1	f ä n g
 062/145	fäng	1	f ä n g
 062/147	fäng	1	f ä n g
@@ -3319,17 +3319,17 @@
 063/109	fäng	1	f ä n g
 063/111	tut	5	t u t
 063/113	fäng	1	f ä n g
-063/115	NA	NA	- - - -
-063/117	NA	NA	- - - -
+063/115	NA	NA	-
+063/117	NA	NA	-
 063/119	feng	1	f e n g
 063/121	fäng	1	f ä n g
-063/123	NA	NA	- - - -
+063/123	NA	NA	-
 063/125	fäng	1	f ä n g
 063/127	fanng	1	f a nn g
-063/135	NA	NA	- - - -
+063/135	NA	NA	-
 063/137	fäng	1	f ä n g
 063/139	fäng	1	f ä n g
-063/141	NA	NA	- - - -
+063/141	NA	NA	-
 063/143	fäng	1	f ä n g
 063/145	fäng	1	f ä n g
 063/147	fäng	1	f ä n g
@@ -3389,25 +3389,25 @@
 064/111	feng	1	f e n g
 064/113	fäng	1	f ä n g
 064/115	feng	1	f e n g
-064/117	NA	NA	- - - -
-064/119	NA	NA	- - - -
+064/117	NA	NA	-
+064/119	NA	NA	-
 064/121	feng	1	f e n g
-064/123	NA	NA	- - - -
+064/123	NA	NA	-
 064/125	fang	1	f a n g
 064/127	fäng	1	f ä n g
 064/135	fäng	1	f ä n g
 064/137	fäng	1	f ä n g
 064/139	fäng	1	f ä n g
-064/141	NA	NA	- - - -
+064/141	NA	NA	-
 064/143	fäng	1	f ä n g
-064/145	NA	NA	- - - -
+064/145	NA	NA	-
 064/147	fäng	1	f ä n g
 064/149	fäng	1	f ä n g
 064/151	fäng	1	f ä n g
 064/153	fäng	1	f ä n g
 064/155	fäng	1	f ä n g
 064/157	fäng	1	f ä n g
-064/159	NA	NA	- - - -
+064/159	NA	NA	-
 065/021	geeht	NA	g eeh t -
 065/023	fänk	1	f ä n k
 065/025	fänk	1	f ä n k
@@ -3444,16 +3444,16 @@
 065/087	feng	1	f e n g
 065/089	fäng	1	f ä n g
 065/091	fäng	1	f ä n g
-065/093	NA	NA	- - - -
+065/093	NA	NA	-
 065/095	fäng	1	f ä n g
 065/097	fänk	1	f ä n k
 065/101	fäng	1	f ä n g
 065/103	fäng	1	f ä n g
-065/105	NA	NA	- - - -
+065/105	NA	NA	-
 065/107	feng	1	f e n g
-065/109	NA	NA	- - - -
-065/111	NA	NA	- - - -
-065/113	NA	NA	- - - -
+065/109	NA	NA	-
+065/111	NA	NA	-
+065/113	NA	NA	-
 065/115	feng	1	f e n g
 065/121	fäng	1	f ä n g
 065/123	fäng	1	f ä n g
@@ -3469,7 +3469,7 @@
 065/157	fäng	1	f ä n g
 065/159	fäng	1	f ä n g
 066/021	fäng	1	f ä n g
-066/023	NA	NA	- - - -
+066/023	NA	NA	-
 066/025	fäng	1	f ä n g
 066/027	fäng	1	f ä n g
 066/029	fäng	1	f ä n g
@@ -3490,7 +3490,7 @@
 066/059	fäng	1	f ä n g
 066/061	fäng	1	f ä n g
 066/063	feng	1	f e n g
-066/065	NA	NA	- - - -
+066/065	NA	NA	-
 066/067	fäng	1	f ä n g
 066/069	fäng	1	f ä n g
 066/071	feng	1	f e n g
@@ -3511,7 +3511,7 @@
 066/101	fäng	1	f ä n g
 066/103	feng	1	f e n g
 066/105	fäng	1	f ä n g
-066/107	NA	NA	- - - -
+066/107	NA	NA	-
 066/109	fäng	1	f ä n g
 066/111	feng	1	f e n g
 066/113	fäng	1	f ä n g
@@ -3528,7 +3528,7 @@
 066/159	werd	6	w er d
 066/161	fäng	1	f ä n g
 066/163	fang	1	f a n g
-067/021	NA	NA	- - - -
+067/021	NA	NA	-
 067/023	väng	1	v ä n g
 067/025	fäng	1	f ä n g
 067/027	feng	1	f e n g
@@ -3543,7 +3543,7 @@
 067/045	fäng	1	f ä n g
 067/047	fing	1	f i n g
 067/049	fing	1	f i n g
-067/051	NA	NA	- - - -
+067/051	NA	NA	-
 067/053	feng	1	f e n g
 067/055	fäng	1	f ä n g
 067/057	feng	1	f e n g
@@ -3559,7 +3559,7 @@
 067/077	fäng	1	f ä n g
 067/079	feng	1	f e n g
 067/081	feng	1	f e n g
-067/083	NA	NA	- - - -
+067/083	NA	NA	-
 067/085	fing	1	f i n g
 067/087	fäng	1	f ä n g
 067/089	fäng	1	f ä n g
@@ -3602,7 +3602,7 @@
 068/043	fing	1	f i n g
 068/045	fäng	1	f ä n g
 068/047	fink	1	f i n k
-068/049	NA	NA	- - - -
+068/049	NA	NA	-
 068/051	feng	1	f e n g
 068/053	fäng	1	f ä n g
 068/055	fäng	1	f ä n g
@@ -3611,7 +3611,7 @@
 068/061	fank	1	f a n k
 068/063	fäng	1	f ä n g
 068/065	feng	1	f e n g
-068/067	NA	NA	- - - -
+068/067	NA	NA	-
 068/069	fäng	1	f ä n g
 068/071	feng	1	f e n g
 068/073	fäng	1	f ä n g
@@ -3625,24 +3625,24 @@
 068/089	fäng	1	f ä n g
 068/091	feng	1	f e n g
 068/093	fäng	1	f ä n g
-068/095	NA	NA	- - - -
+068/095	NA	NA	-
 068/097	fäng	1	f ä n g
-068/099	NA	NA	- - - -
+068/099	NA	NA	-
 068/101	fäng	1	f ä n g
 068/103	fäng	1	f ä n g
 068/105	feng	1	f e n g
 068/107	fäng	1	f ä n g
-068/109	NA	NA	- - - -
+068/109	NA	NA	-
 068/111	fäng	1	f ä n g
 068/145	fäng	1	f ä n g
-068/147	NA	NA	- - - -
-068/149	NA	NA	- - - -
+068/147	NA	NA	-
+068/149	NA	NA	-
 068/151	fäng	1	f ä n g
 068/153	fäng	1	f ä n g
 068/155	fänk	1	f ä n k
-068/157	NA	NA	- - - -
+068/157	NA	NA	-
 068/159	fing	1	f i n g
-068/161	NA	NA	- - - -
+068/161	NA	NA	-
 068/165	fäng	1	f ä n g
 069/019	fäng	1	f ä n g
 069/023	fäng	1	f ä n g
@@ -3659,7 +3659,7 @@
 069/045	fäng	1	f ä n g
 069/047	fäng	1	f ä n g
 069/049	fäng	1	f ä n g
-069/051	NA	NA	- - - -
+069/051	NA	NA	-
 069/053	fäng	1	f ä n g
 069/055	fäng	1	f ä n g
 069/057	fäng	1	f ä n g
@@ -3691,7 +3691,7 @@
 069/109	fäng	1	f ä n g
 069/111	fäng	1	f ä n g
 069/147	fäng	1	f ä n g
-069/149	NA	NA	- - - -
+069/149	NA	NA	-
 069/151	fäng	1	f ä n g
 069/153	fäng	1	f ä n g
 069/157	fäng	1	f ä n g
@@ -3702,7 +3702,7 @@
 070/019	feng	1	f e n g
 070/023	fing	1	f i n g
 070/025	fäng	1	f ä n g
-070/027	NA	NA	- - - -
+070/027	NA	NA	-
 070/029	fäng	1	f ä n g
 070/031	fäng	1	f ä n g
 070/033	fäng	1	f ä n g
@@ -3736,12 +3736,12 @@
 070/089	feng	1	f e n g
 070/091	fäng	1	f ä n g
 070/093	fäng	1	f ä n g
-070/095	NA	NA	- - - -
+070/095	NA	NA	-
 070/097	fäng	1	f ä n g
 070/099	fäng	1	f ä n g
-070/101	NA	NA	- - - -
-070/103	NA	NA	- - - -
-070/105	NA	NA	- - - -
+070/101	NA	NA	-
+070/103	NA	NA	-
+070/105	NA	NA	-
 070/107	fäng	1	f ä n g
 070/109	fäng	1	f ä n g
 070/111	fäng	1	f ä n g
@@ -3764,7 +3764,7 @@
 071/027	fing	1	f i n g
 071/029	fäng	1	f ä n g
 071/031	fäng	1	f ä n g
-071/033	NA	NA	- - - -
+071/033	NA	NA	-
 071/035	fäng	1	f ä n g
 071/037	fäng	1	f ä n g
 071/039	fing	1	f i n g
@@ -3779,12 +3779,12 @@
 071/057	feng	1	f e n g
 071/059	feng	1	f e n g
 071/063	feng	1	f e n g
-071/065	NA	NA	- - - -
+071/065	NA	NA	-
 071/067	feng	1	f e n g
 071/069	fäng	1	f ä n g
 071/071	feng	1	f e n g
 071/073	feng	1	f e n g
-071/075	NA	NA	- - - -
+071/075	NA	NA	-
 071/077	feng	1	f e n g
 071/079	fang	1	f a n g
 071/081	fäng	1	f ä n g
@@ -3795,17 +3795,17 @@
 071/091	feng	1	f e n g
 071/093	fäng	1	f ä n g
 071/095	feng	1	f e n g
-071/097	NA	NA	- - - -
+071/097	NA	NA	-
 071/099	fäng	1	f ä n g
 071/101	fengk	1	f e n gk
-071/103	NA	NA	- - - -
+071/103	NA	NA	-
 071/105	fäng	1	f ä n g
 071/145	feng	1	f e n g
 071/147	fäng	1	f ä n g
 071/149	fäng	1	f ä n g
-071/151	NA	NA	- - - -
+071/151	NA	NA	-
 071/153	oahebt	3	oa - h e b - t
-071/155	NA	NA	- - - -
+071/155	NA	NA	-
 071/157	fäng	1	f ä n g
 071/159	fäng	1	f ä n g
 071/161	feng	1	f e n g
@@ -3839,7 +3839,7 @@
 072/065	faang	1	f aa n g
 072/067	fang	1	f a n g
 072/069	feng	1	f e n g
-072/071	NA	NA	- - - -
+072/071	NA	NA	-
 072/073	fäng	1	f ä n g
 072/075	feng	1	f e n g
 072/077	fäng	1	f ä n g
@@ -3851,7 +3851,7 @@
 072/089	fäng	1	f ä n g
 072/091	feng	1	f e n g
 072/093	fang	1	f a n g
-072/095	NA	NA	- - - -
+072/095	NA	NA	-
 072/097	fäng	1	f ä n g
 072/099	fäng	1	f ä n g
 072/101	feng	1	f e n g
@@ -3862,9 +3862,9 @@
 072/147	feng	1	f e n g
 072/149	fäng	1	f ä n g
 072/151	fäng	1	f ä n g
-072/153	NA	NA	- - - -
+072/153	NA	NA	-
 072/155	fäng	1	f ä n g
-072/157	NA	NA	- - - -
+072/157	NA	NA	-
 072/159	fäng	1	f ä n g
 072/161	fäng	1	f ä n g
 072/177	fäng	1	f ä n g
@@ -3888,7 +3888,7 @@
 073/047	fäng	1	f ä n g
 073/049	feng	1	f e n g
 073/051	feng	1	f e n g
-073/053	NA	NA	- - - -
+073/053	NA	NA	-
 073/055	feng	1	f e n g
 073/057	feng	1	f e n g
 073/059	feng	1	f e n g
@@ -3903,7 +3903,7 @@
 073/077	feng	1	f e n g
 073/079	feng	1	f e n g
 073/081	fäng	1	f ä n g
-073/083	NA	NA	- - - -
+073/083	NA	NA	-
 073/085	feng	1	f e n g
 073/087	fäng	1	f ä n g
 073/089	fäng	1	f ä n g
@@ -3915,7 +3915,7 @@
 073/101	fäng	1	f ä n g
 073/103	fong	1	f o n g
 073/105	feng	1	f e n g
-073/107	NA	NA	- - - -
+073/107	NA	NA	-
 073/145	fäng	1	f ä n g
 073/147	feng	1	f e n g
 073/149	fäng	1	f ä n g
@@ -3953,7 +3953,7 @@
 074/061	fäng	1	f ä n g
 074/063	feng	1	f e n g
 074/065	feng	1	f e n g
-074/067	NA	NA	- - - -
+074/067	NA	NA	-
 074/069	feng	1	f e n g
 074/071	feng	1	f e n g
 074/073	feng	1	f e n g
@@ -3971,15 +3971,15 @@
 074/097	fang	1	f a n g
 074/099	fong	1	f o n g
 074/101	feng	1	f e n g
-074/103	NA	NA	- - - -
+074/103	NA	NA	-
 074/105	fong	1	f o n g
 074/107	fäng	1	f ä n g
 074/109	fäng	1	f ä n g
 074/145	fäng	1	f ä n g
 074/147	feng	1	f e n g
 074/149	feng	1	f e n g
-074/153	NA	NA	- - - -
-074/155	NA	NA	- - - -
+074/153	NA	NA	-
+074/155	NA	NA	-
 074/157	fäng	1	f ä n g
 074/159	foang	1	f oa n g
 074/161	feng	1	f e n g
@@ -3989,7 +3989,7 @@
 075/021	feng	1	f e n g
 075/023	feeng	1	f ee n g
 075/025	feng	1	f e n g
-075/027	NA	NA	- - - -
+075/027	NA	NA	-
 075/029	fäng	1	f ä n g
 075/031	fäng	1	f ä n g
 075/033	fäng	1	f ä n g
@@ -4007,7 +4007,7 @@
 075/057	feng	1	f e n g
 075/059	fäng	1	f ä n g
 075/061	feng	1	f e n g
-075/063	NA	NA	- - - -
+075/063	NA	NA	-
 075/065	fäng	1	f ä n g
 075/067	feng	1	f e n g
 075/069	feng	1	f e n g
@@ -4026,11 +4026,11 @@
 075/095	fang	1	f a n g
 075/097	faang	1	f aa n g
 075/099	feng	1	f e n g
-075/101	NA	NA	- - - -
+075/101	NA	NA	-
 075/103	fong	1	f o n g
 075/105	fong	1	f o n g
 075/107	fäng	1	f ä n g
-075/135	NA	NA	- - - -
+075/135	NA	NA	-
 075/145	fäng	1	f ä n g
 075/147	fong	1	f o n g
 075/149	fäng	1	f ä n g
@@ -4047,7 +4047,7 @@
 076/027	fäng	1	f ä n g
 076/029	feng	1	f e n g
 076/033	fäng	1	f ä n g
-076/035	NA	NA	- - - -
+076/035	NA	NA	-
 076/037	fang	1	f a n g
 076/039	fing	1	f i n g
 076/041	fäng	1	f ä n g
@@ -4077,13 +4077,13 @@
 076/089	fang	1	f a n g
 076/091	fang	1	f a n g
 076/093	fang	1	f a n g
-076/095	NA	NA	- - - -
+076/095	NA	NA	-
 076/097	fang	1	f a n g
 076/099	fang	1	f a n g
 076/101	fong	1	f o n g
 076/103	fong	1	f o n g
 076/135	fong	1	f o n g
-076/137	NA	NA	- - - -
+076/137	NA	NA	-
 076/149	fäng	1	f ä n g
 076/151	fäng	1	f ä n g
 076/155	fäng	1	f ä n g
@@ -4110,8 +4110,8 @@
 077/055	fäng	1	f ä n g
 077/057	feng	1	f e n g
 077/059	fäng	1	f ä n g
-077/061	NA	NA	- - - -
-077/063	NA	NA	- - - -
+077/061	NA	NA	-
+077/063	NA	NA	-
 077/065	fäng	1	f ä n g
 077/067	fäng	1	f ä n g
 077/069	fäng	1	f ä n g
@@ -4123,7 +4123,7 @@
 077/081	fäng	1	f ä n g
 077/083	fäng	1	f ä n g
 077/085	feng	1	f e n g
-077/087	NA	NA	- - - -
+077/087	NA	NA	-
 077/089	fang	1	f a n g
 077/091	feng	1	f e n g
 077/093	fang	1	f a n g
@@ -4131,7 +4131,7 @@
 077/097	fang	1	f a n g
 077/099	fang	1	f a n g
 077/101	fong	1	f o n g
-077/103	NA	NA	- - - -
+077/103	NA	NA	-
 077/135	fong	1	f o n g
 077/137	fong	1	f o n g
 078/021	fenk	1	f e n k
@@ -4171,7 +4171,7 @@
 078/091	fang	1	f a n g
 078/093	fang	1	f a n g
 078/095	fang	1	f a n g
-078/097	NA	NA	- - - -
+078/097	NA	NA	-
 078/099	faang	1	f aa n g
 078/101	fang	1	f a n g
 078/103	fong	1	f o n g
@@ -4184,13 +4184,13 @@
 079/027	fäng	1	f ä n g
 079/029	fäng	1	f ä n g
 079/031	fong	1	f o n g
-079/033	NA	NA	- - - -
+079/033	NA	NA	-
 079/035	fang	1	f a n g
 079/037	fang	1	f a n g
 079/039	fang	1	f a n g
 079/043	fang	1	f a n g
 079/045	fang	1	f a n g
-079/047	NA	NA	- - - -
+079/047	NA	NA	-
 079/049	fang	1	f a n g
 079/051	feng	1	f e n g
 079/053	fäng	1	f ä n g
@@ -4208,19 +4208,19 @@
 079/077	fäng	1	f ä n g
 079/079	fang	1	f a n g
 079/081	fäng	1	f ä n g
-079/083	NA	NA	- - - -
+079/083	NA	NA	-
 079/085	fang	1	f a n g
 079/087	fang	1	f a n g
 079/089	fang	1	f a n g
 079/091	fang	1	f a n g
-079/093	NA	NA	- - - -
+079/093	NA	NA	-
 079/095	fang	1	f a n g
 079/097	fang	1	f a n g
 079/099	fang	1	f a n g
 079/101	fang	1	f a n g
 079/103	fang	1	f a n g
 079/105	fong	1	f o n g
-079/107	NA	NA	- - - -
+079/107	NA	NA	-
 079/133	fong	1	f o n g
 079/135	fong	1	f o n g
 079/193	onhebt	3	o n h e b - t
@@ -4268,10 +4268,10 @@
 080/103	fang	1	f a n g
 080/105	foong	1	f oo n g
 080/107	fong	1	f o n g
-080/109	NA	NA	- - - -
-080/127	NA	NA	- - - -
+080/109	NA	NA	-
+080/127	NA	NA	-
 080/147	fong	1	f o n g
-080/151	NA	NA	- - - -
+080/151	NA	NA	-
 080/153	anhaaibt	3	a n h aai b - t
 080/193	fäng	1	f ä n g
 080/195	onhäibt	3	o n h äi b - t
@@ -4289,7 +4289,7 @@
 081/049	fang	1	f a n g
 081/051	feng	1	f e n g
 081/053	fang	1	f a n g
-081/055	NA	NA	- - - -
+081/055	NA	NA	-
 081/057	fang	1	f a n g
 081/059	fäng	1	f ä n g
 081/061	feng	1	f e n g
@@ -4308,23 +4308,23 @@
 081/087	fang	1	f a n g
 081/089	fang	1	f a n g
 081/091	fang	1	f a n g
-081/093	NA	NA	- - - -
-081/095	NA	NA	- - - -
+081/093	NA	NA	-
+081/095	NA	NA	-
 081/097	fang	1	f a n g
-081/099	NA	NA	- - - -
+081/099	NA	NA	-
 081/101	fang	1	f a n g
 081/103	fang	1	f a n g
 081/105	oohebt	3	oo - h e b - t
 081/107	fong	1	f o n g
 081/109	fong	1	f o n g
 081/111	fong	1	f o n g
-081/127	NA	NA	- - - -
+081/127	NA	NA	-
 081/129	faung	1	f au n g
-081/133	NA	NA	- - - -
+081/133	NA	NA	-
 081/147	faing	1	f ai n g
 081/191	fäng	1	f ä n g
-081/193	NA	NA	- - - -
-081/195	NA	NA	- - - -
+081/193	NA	NA	-
+081/195	NA	NA	-
 082/027	fäng	1	f ä n g
 082/029	fing	1	f i n g
 082/031	fäng	1	f ä n g
@@ -4343,7 +4343,7 @@
 082/057	fang	1	f a n g
 082/059	fang	1	f a n g
 082/061	fang	1	f a n g
-082/063	NA	NA	- - - -
+082/063	NA	NA	-
 082/065	fäng	1	f ä n g
 082/067	fang	1	f a n g
 082/069	fang	1	f a n g
@@ -4363,13 +4363,13 @@
 082/097	fang	1	f a n g
 082/099	fang	1	f a n g
 082/101	fang	1	f a n g
-082/103	NA	NA	- - - -
+082/103	NA	NA	-
 082/105	fang	1	f a n g
 082/107	fang	1	f a n g
 082/111	fong	1	f o n g
 082/113	wird	6	w ir d
-082/117	NA	NA	- - - -
-082/129	NA	NA	- - - -
+082/117	NA	NA	-
+082/129	NA	NA	-
 082/131	foung	1	f ou n g
 082/133	faung	1	f au n g
 082/135	fang	1	f a n g
@@ -4377,7 +4377,7 @@
 082/147	anhebt	3	a n h e b - t
 082/191	fäng	1	f ä n g
 082/195	fäng	1	f ä n g
-083/027	NA	NA	- - - -
+083/027	NA	NA	-
 083/029	fing	1	f i n g
 083/031	fähnk	1	f äh n k
 083/033	fang	1	f a n g
@@ -4389,7 +4389,7 @@
 083/045	fang	1	f a n g
 083/047	fang	1	f a n g
 083/049	fang	1	f a n g
-083/051	NA	NA	- - - -
+083/051	NA	NA	-
 083/053	fang	1	f a n g
 083/055	fang	1	f a n g
 083/057	fang	1	f a n g
@@ -4409,7 +4409,7 @@
 083/085	fang	1	f a n g
 083/087	faang	1	f aa n g
 083/089	fang	1	f a n g
-083/091	NA	NA	- - - -
+083/091	NA	NA	-
 083/093	fang	1	f a n g
 083/095	fang	1	f a n g
 083/097	fang	1	f a n g
@@ -4423,17 +4423,17 @@
 083/115	fong	1	f o n g
 083/117	ouheibd	3	ou - h ei b - d
 083/119	faung	1	f au n g
-083/121	NA	NA	- - - -
-083/129	NA	NA	- - - -
+083/121	NA	NA	-
+083/129	NA	NA	-
 083/131	fong	1	f o n g
-083/133	NA	NA	- - - -
+083/133	NA	NA	-
 083/135	foung	1	f ou n g
 083/139	kimmt	4	k i mm t
 083/143	fong	1	f o n g
 083/145	foung	1	f ou n g
 083/147	fong	1	f o n g
-083/149	NA	NA	- - - -
-083/173	NA	NA	- - - -
+083/149	NA	NA	-
+083/173	NA	NA	-
 083/195	fäng	1	f ä n g
 084/031	fang	1	f a n g
 084/033	fang	1	f a n g
@@ -4452,9 +4452,9 @@
 084/059	fang	1	f a n g
 084/061	fang	1	f a n g
 084/063	fang	1	f a n g
-084/065	NA	NA	- - - -
+084/065	NA	NA	-
 084/067	fang	1	f a n g
-084/069	NA	NA	- - - -
+084/069	NA	NA	-
 084/071	fang	1	f a n g
 084/073	fang	1	f a n g
 084/075	fang	1	f a n g
@@ -4470,7 +4470,7 @@
 084/095	fang	1	f a n g
 084/097	fang	1	f a n g
 084/099	fang	1	f a n g
-084/101	NA	NA	- - - -
+084/101	NA	NA	-
 084/103	fang	1	f a n g
 084/105	thuat	5	th ua t
 084/107	fang	1	f a n g
@@ -4481,24 +4481,24 @@
 084/117	auhejbt	3	au - h ej b - t
 084/119	foang	1	f oa n g
 084/129	faung	1	f au n g
-084/131	NA	NA	- - - -
+084/131	NA	NA	-
 084/133	fong	1	f o n g
 084/135	fong	1	f o n g
 084/137	faung	1	f au n g
-084/139	NA	NA	- - - -
+084/139	NA	NA	-
 084/141	fong	1	f o n g
 084/143	faung	1	f au n g
-084/145	NA	NA	- - - -
+084/145	NA	NA	-
 084/147	fong	1	f o n g
 084/149	fong	1	f o n g
 084/171	wäng	6	w ä ng
 084/173	wenk	6	w e nk
-084/195	NA	NA	- - - -
+084/195	NA	NA	-
 085/031	fang	1	f a n g
 085/033	fang	1	f a n g
 085/035	fang	1	f a n g
 085/037	fang	1	f a n g
-085/039	NA	NA	- - - -
+085/039	NA	NA	-
 085/041	fang	1	f a n g
 085/043	fang	1	f a n g
 085/045	fang	1	f a n g
@@ -4506,13 +4506,13 @@
 085/049	fong	1	f o n g
 085/051	fang	1	f a n g
 085/053	fang	1	f a n g
-085/055	NA	NA	- - - -
+085/055	NA	NA	-
 085/057	fang	1	f a n g
 085/059	fang	1	f a n g
 085/061	fang	1	f a n g
 085/063	fang	1	f a n g
-085/065	NA	NA	- - - -
-085/067	NA	NA	- - - -
+085/065	NA	NA	-
+085/067	NA	NA	-
 085/069	fang	1	f a n g
 085/071	fang	1	f a n g
 085/073	fang	1	f a n g
@@ -4528,15 +4528,15 @@
 085/093	fang	1	f a n g
 085/095	fang	1	f a n g
 085/097	fang	1	f a n g
-085/101	NA	NA	- - - -
-085/103	NA	NA	- - - -
+085/101	NA	NA	-
+085/103	NA	NA	-
 085/105	fang	1	f a n g
 085/107	anhöbt	3	a n h ö b - t
 085/109	fang	1	f a n g
 085/111	fang	1	f a n g
 085/113	fang	1	f a n g
 085/115	foung	1	f ou n g
-085/117	NA	NA	- - - -
+085/117	NA	NA	-
 085/119	wiad	6	w ia d
 085/121	wird	6	w ir d
 085/123	faung	1	f au n g
@@ -4546,7 +4546,7 @@
 085/131	fong	1	f o n g
 085/133	fong	1	f o n g
 085/135	faung	1	f au n g
-085/137	NA	NA	- - - -
+085/137	NA	NA	-
 085/139	fong	1	f o n g
 085/141	foung	1	f ou n g
 085/143	faong	1	f ao n g
@@ -4566,7 +4566,7 @@
 086/047	fang	1	f a n g
 086/049	fong	1	f o n g
 086/051	fang	1	f a n g
-086/053	NA	NA	- - - -
+086/053	NA	NA	-
 086/055	fang	1	f a n g
 086/057	fang	1	f a n g
 086/059	fang	1	f a n g
@@ -4582,7 +4582,7 @@
 086/079	fang	1	f a n g
 086/081	fangg	1	f a n gg
 086/083	fang	1	f a n g
-086/085	NA	NA	- - - -
+086/085	NA	NA	-
 086/087	fang	1	f a n g
 086/089	fong	1	f o n g
 086/091	fang	1	f a n g
@@ -4594,7 +4594,7 @@
 086/103	fang	1	f a n g
 086/105	fang	1	f a n g
 086/107	fang	1	f a n g
-086/109	NA	NA	- - - -
+086/109	NA	NA	-
 086/111	fang	1	f a n g
 086/113	fang	1	f a n g
 086/115	faang	1	f aa n g
@@ -4607,14 +4607,14 @@
 086/129	fong	1	f o n g
 086/131	wird	6	w ir d
 086/133	fang	1	f a n g
-086/135	NA	NA	- - - -
+086/135	NA	NA	-
 086/137	fang	1	f a n g
 086/139	fong	1	f o n g
 086/141	fanng	1	f a nn g
 086/143	fong	1	f o n g
 086/145	fong	1	f o n g
 086/147	fong	1	f o n g
-086/149	NA	NA	- - - -
+086/149	NA	NA	-
 086/151	fang	1	f a n g
 086/175	uuheept	3	uu - h ee p - t
 086/197	fäng	1	f ä n g
@@ -4634,8 +4634,8 @@
 087/059	fang	1	f a n g
 087/061	fang	1	f a n g
 087/063	fang	1	f a n g
-087/065	NA	NA	- - - -
-087/067	NA	NA	- - - -
+087/065	NA	NA	-
+087/067	NA	NA	-
 087/069	fang	1	f a n g
 087/071	fang	1	f a n g
 087/073	fang	1	f a n g
@@ -4646,7 +4646,7 @@
 087/083	fang	1	f a n g
 087/085	fang	1	f a n g
 087/087	fang	1	f a n g
-087/089	NA	NA	- - - -
+087/089	NA	NA	-
 087/091	fang	1	f a n g
 087/093	fang	1	f a n g
 087/095	fang	1	f a n g
@@ -4664,15 +4664,15 @@
 087/119	faung	1	f au n g
 087/121	faung	1	f au n g
 087/123	fong	1	f o n g
-087/125	NA	NA	- - - -
+087/125	NA	NA	-
 087/127	faunk	1	f au n k
 087/129	faung	1	f au n g
 087/133	fong	1	f o n g
 087/135	fong	1	f o n g
 087/137	fang	1	f a n g
 087/139	fong	1	f o n g
-087/141	NA	NA	- - - -
-087/143	NA	NA	- - - -
+087/141	NA	NA	-
+087/143	NA	NA	-
 087/145	foong	1	f oo n g
 087/147	fong	1	f o n g
 087/149	fong	1	f o n g
@@ -4681,21 +4681,21 @@
 088/037	faang	1	f aa n g
 088/039	fang	1	f a n g
 088/041	fang	1	f a n g
-088/043	NA	NA	- - - -
+088/043	NA	NA	-
 088/045	fang	1	f a n g
 088/047	fang	1	f a n g
 088/049	fang	1	f a n g
 088/051	fang	1	f a n g
 088/053	fang	1	f a n g
 088/055	fang	1	f a n g
-088/057	NA	NA	- - - -
+088/057	NA	NA	-
 088/059	fang	1	f a n g
-088/061	NA	NA	- - - -
+088/061	NA	NA	-
 088/063	fang	1	f a n g
 088/065	fang	1	f a n g
 088/067	fang	1	f a n g
 088/069	fang	1	f a n g
-088/071	NA	NA	- - - -
+088/071	NA	NA	-
 088/073	ahöbt	3	a - h ö b - t
 088/075	fang	1	f a n g
 088/077	fang	1	f a n g
@@ -4711,13 +4711,13 @@
 088/097	fang	1	f a n g
 088/099	fang	1	f a n g
 088/101	fang	1	f a n g
-088/103	NA	NA	- - - -
+088/103	NA	NA	-
 088/105	fang	1	f a n g
 088/107	fang	1	f a n g
 088/109	fang	1	f a n g
 088/113	fang	1	f a n g
 088/115	fang	1	f a n g
-088/117	NA	NA	- - - -
+088/117	NA	NA	-
 088/121	faung	1	f au n g
 088/123	anhebt	3	a n h e b - t
 088/127	fong	1	f o n g
@@ -4726,14 +4726,14 @@
 088/137	foong	1	f oo n g
 088/139	fong	1	f o n g
 088/141	fong	1	f o n g
-088/143	NA	NA	- - - -
+088/143	NA	NA	-
 088/145	fong	1	f o n g
 088/147	fong	1	f o n g
 088/149	fang	1	f a n g
 089/035	fang	1	f a n g
-089/037	NA	NA	- - - -
-089/039	NA	NA	- - - -
-089/041	NA	NA	- - - -
+089/037	NA	NA	-
+089/039	NA	NA	-
+089/041	NA	NA	-
 089/043	fang	1	f a n g
 089/045	fang	1	f a n g
 089/047	fang	1	f a n g
@@ -4743,8 +4743,8 @@
 089/055	fang	1	f a n g
 089/057	fang	1	f a n g
 089/059	fang	1	f a n g
-089/061	NA	NA	- - - -
-089/063	NA	NA	- - - -
+089/061	NA	NA	-
+089/063	NA	NA	-
 089/065	foch	1	f o - ch
 089/067	fäng	1	f ä n g
 089/069	fang	1	f a n g
@@ -4758,13 +4758,13 @@
 089/085	fang	1	f a n g
 089/087	fang	1	f a n g
 089/089	fang	1	f a n g
-089/091	NA	NA	- - - -
-089/093	NA	NA	- - - -
+089/091	NA	NA	-
+089/093	NA	NA	-
 089/095	fang	1	f a n g
 089/097	fang	1	f a n g
 089/099	fang	1	f a n g
 089/101	fang	1	f a n g
-089/103	NA	NA	- - - -
+089/103	NA	NA	-
 089/105	ahöbt	3	a - h ö b - t
 089/107	fang	1	f a n g
 089/109	anhebt	3	a n h e b - t
@@ -4782,11 +4782,11 @@
 089/133	fong	1	f o n g
 089/135	faung	1	f au n g
 089/137	fong	1	f o n g
-089/139	NA	NA	- - - -
+089/139	NA	NA	-
 089/141	foang	1	f oa n g
 089/143	fong	1	f o n g
-089/145	NA	NA	- - - -
-089/147	NA	NA	- - - -
+089/145	NA	NA	-
+089/147	NA	NA	-
 089/149	fong	1	f o n g
 090/035	fong	1	f o n g
 090/037	fang	1	f a n g
@@ -4798,12 +4798,12 @@
 090/049	fang	1	f a n g
 090/051	fang	1	f a n g
 090/053	fang	1	f a n g
-090/055	NA	NA	- - - -
+090/055	NA	NA	-
 090/057	fang	1	f a n g
 090/059	fang	1	f a n g
 090/061	fang	1	f a n g
 090/063	fang	1	f a n g
-090/065	NA	NA	- - - -
+090/065	NA	NA	-
 090/067	fang	1	f a n g
 090/069	fang	1	f a n g
 090/071	fang	1	f a n g
@@ -4811,14 +4811,14 @@
 090/075	fang	1	f a n g
 090/077	fang	1	f a n g
 090/079	fang	1	f a n g
-090/081	NA	NA	- - - -
+090/081	NA	NA	-
 090/083	fang	1	f a n g
 090/085	faang	1	f aa n g
-090/087	NA	NA	- - - -
+090/087	NA	NA	-
 090/089	fang	1	f a n g
 090/091	fang	1	f a n g
 090/093	fang	1	f a n g
-090/095	NA	NA	- - - -
+090/095	NA	NA	-
 090/097	fang	1	f a n g
 090/099	fang	1	f a n g
 090/101	fang	1	f a n g
@@ -4837,7 +4837,7 @@
 090/129	fang	1	f a n g
 090/131	fang	1	f a n g
 090/133	faungg	1	f au n gg
-090/135	NA	NA	- - - -
+090/135	NA	NA	-
 090/137	wird	6	w ir d
 090/139	fong	1	f o n g
 090/141	fong	1	f o n g
@@ -4847,26 +4847,26 @@
 090/149	fong	1	f o n g
 090/151	fongg	1	f o n gg
 091/035	fang	1	f a n g
-091/037	NA	NA	- - - -
+091/037	NA	NA	-
 091/039	fang	1	f a n g
 091/041	fang	1	f a n g
 091/043	fang	1	f a n g
 091/045	fang	1	f a n g
 091/047	fang	1	f a n g
 091/049	fang	1	f a n g
-091/051	NA	NA	- - - -
+091/051	NA	NA	-
 091/053	fang	1	f a n g
 091/055	fang	1	f a n g
-091/057	NA	NA	- - - -
-091/059	NA	NA	- - - -
+091/057	NA	NA	-
+091/059	NA	NA	-
 091/061	fang	1	f a n g
 091/063	fang	1	f a n g
 091/065	fang	1	f a n g
 091/067	fang	1	f a n g
-091/069	NA	NA	- - - -
+091/069	NA	NA	-
 091/071	fang	1	f a n g
 091/073	fang	1	f a n g
-091/075	NA	NA	- - - -
+091/075	NA	NA	-
 091/077	fang	1	f a n g
 091/079	fang	1	f a n g
 091/081	fang	1	f a n g
@@ -4877,11 +4877,11 @@
 091/093	fang	1	f a n g
 091/095	fang	1	f a n g
 091/097	anhöbt	3	a n h ö b - t
-091/099	NA	NA	- - - -
+091/099	NA	NA	-
 091/101	ohebt	3	o - h e b - t
 091/103	fang	1	f a n g
 091/105	fang	1	f a n g
-091/107	NA	NA	- - - -
+091/107	NA	NA	-
 091/109	fang	1	f a n g
 091/111	fang	1	f a n g
 091/113	fang	1	f a n g
@@ -4909,21 +4909,21 @@
 092/039	fang	1	f a n g
 092/041	fang	1	f a n g
 092/043	fang	1	f a n g
-092/045	NA	NA	- - - -
+092/045	NA	NA	-
 092/047	fang	1	f a n g
 092/049	fang	1	f a n g
-092/051	NA	NA	- - - -
+092/051	NA	NA	-
 092/053	fang	1	f a n g
 092/055	fang	1	f a n g
 092/057	fang	1	f a n g
-092/059	NA	NA	- - - -
+092/059	NA	NA	-
 092/061	fang	1	f a n g
 092/063	wäed	6	w äe d
-092/065	NA	NA	- - - -
+092/065	NA	NA	-
 092/067	fang	1	f a n g
 092/069	fang	1	f a n g
 092/071	fang	1	f a n g
-092/073	NA	NA	- - - -
+092/073	NA	NA	-
 092/075	ahebt	3	a - h e b - t
 092/077	fang	1	f a n g
 092/079	fang	1	f a n g
@@ -4935,12 +4935,12 @@
 092/091	fang	1	f a n g
 092/093	fang	1	f a n g
 092/095	fang	1	f a n g
-092/097	NA	NA	- - - -
+092/097	NA	NA	-
 092/099	fang	1	f a n g
 092/101	fang	1	f a n g
-092/103	NA	NA	- - - -
+092/103	NA	NA	-
 092/105	wiad	6	w ia d
-092/107	NA	NA	- - - -
+092/107	NA	NA	-
 092/109	wird	6	w ir d
 092/111	fang	1	f a n g
 092/113	anhöbt	3	a n h ö b - t
@@ -4948,8 +4948,8 @@
 092/117	fong	1	f o n g
 092/119	wird	6	w ir d
 092/121	fang	1	f a n g
-092/123	NA	NA	- - - -
-092/125	NA	NA	- - - -
+092/123	NA	NA	-
+092/125	NA	NA	-
 092/127	fong	1	f o n g
 092/129	fong	1	f o n g
 092/131	fong	1	f o n g
@@ -4982,9 +4982,9 @@
 093/067	fang	1	f a n g
 093/069	anhebt	3	a n h e b - t
 093/071	fang	1	f a n g
-093/073	NA	NA	- - - -
+093/073	NA	NA	-
 093/075	fang	1	f a n g
-093/077	NA	NA	- - - -
+093/077	NA	NA	-
 093/079	fang	1	f a n g
 093/081	fang	1	f a n g
 093/083	fang	1	f a n g
@@ -4997,10 +4997,10 @@
 093/097	fang	1	f a n g
 093/099	fang	1	f a n g
 093/101	fang	1	f a n g
-093/103	NA	NA	- - - -
+093/103	NA	NA	-
 093/105	fang	1	f a n g
-093/109	NA	NA	- - - -
-093/111	NA	NA	- - - -
+093/109	NA	NA	-
+093/111	NA	NA	-
 093/113	wiad	6	w ia d
 093/115	fang	1	f a n g
 093/117	ohebt	3	o - h e b - t
@@ -5011,16 +5011,16 @@
 093/127	faung	1	f au n g
 093/129	fang	1	f a n g
 093/131	fong	1	f o n g
-093/133	NA	NA	- - - -
-093/137	NA	NA	- - - -
+093/133	NA	NA	-
+093/137	NA	NA	-
 093/139	fang	1	f a n g
 093/143	faung	1	f au n g
-093/145	NA	NA	- - - -
+093/145	NA	NA	-
 093/147	fong	1	f o n g
 093/149	faung	1	f au n g
-093/151	NA	NA	- - - -
+093/151	NA	NA	-
 093/153	fang	1	f a n g
-093/155	NA	NA	- - - -
+093/155	NA	NA	-
 094/033	fong	1	f o n g
 094/035	fang	1	f a n g
 094/037	fang	1	f a n g
@@ -5030,7 +5030,7 @@
 094/045	fang	1	f a n g
 094/047	fang	1	f a n g
 094/049	fääng	1	f ää n g
-094/051	NA	NA	- - - -
+094/051	NA	NA	-
 094/053	fäng	1	f ä n g
 094/055	fang	1	f a n g
 094/057	fang	1	f a n g
@@ -5039,17 +5039,17 @@
 094/063	fang	1	f a n g
 094/065	fang	1	f a n g
 094/067	fang	1	f a n g
-094/069	NA	NA	- - - -
+094/069	NA	NA	-
 094/071	fang	1	f a n g
 094/073	fang	1	f a n g
-094/075	NA	NA	- - - -
+094/075	NA	NA	-
 094/077	hebt	3	- - h e b - t
 094/079	fang	1	f a n g
 094/081	fang	1	f a n g
 094/083	fang	1	f a n g
 094/085	fang	1	f a n g
 094/087	fang	1	f a n g
-094/089	NA	NA	- - - -
+094/089	NA	NA	-
 094/091	fang	1	f a n g
 094/093	fang	1	f a n g
 094/095	fang	1	f a n g
@@ -5078,7 +5078,7 @@
 094/141	faung	1	f au n g
 094/143	fang	1	f a n g
 094/145	fong	1	f o n g
-094/147	NA	NA	- - - -
+094/147	NA	NA	-
 094/149	faong	1	f ao n g
 094/151	fang	1	f a n g
 094/153	fang	1	f a n g
@@ -5092,19 +5092,19 @@
 095/045	fang	1	f a n g
 095/047	fäng	1	f ä n g
 095/049	fang	1	f a n g
-095/051	NA	NA	- - - -
+095/051	NA	NA	-
 095/053	fang	1	f a n g
 095/055	fang	1	f a n g
 095/057	fang	1	f a n g
-095/059	NA	NA	- - - -
+095/059	NA	NA	-
 095/061	fang	1	f a n g
 095/063	fang	1	f a n g
 095/065	fang	1	f a n g
 095/067	fang	1	f a n g
 095/069	fang	1	f a n g
-095/071	NA	NA	- - - -
+095/071	NA	NA	-
 095/073	fang	1	f a n g
-095/075	NA	NA	- - - -
+095/075	NA	NA	-
 095/077	fang	1	f a n g
 095/079	fang	1	f a n g
 095/081	fang	1	f a n g
@@ -5112,16 +5112,16 @@
 095/085	fang	1	f a n g
 095/087	fang	1	f a n g
 095/089	fang	1	f a n g
-095/091	NA	NA	- - - -
+095/091	NA	NA	-
 095/093	fang	1	f a n g
 095/095	fang	1	f a n g
 095/097	fang	1	f a n g
 095/099	fang	1	f a n g
 095/101	fang	1	f a n g
-095/103	NA	NA	- - - -
+095/103	NA	NA	-
 095/105	fang	1	f a n g
 095/107	fang	1	f a n g
-095/109	NA	NA	- - - -
+095/109	NA	NA	-
 095/111	fong	1	f o n g
 095/113	anhebt	3	a n h e b - t
 095/115	fang	1	f a n g
@@ -5155,32 +5155,32 @@
 096/051	fang	1	f a n g
 096/053	fang	1	f a n g
 096/055	fang	1	f a n g
-096/057	NA	NA	- - - -
+096/057	NA	NA	-
 096/059	fang	1	f a n g
 096/061	fang	1	f a n g
 096/063	fang	1	f a n g
 096/065	fang	1	f a n g
-096/067	NA	NA	- - - -
+096/067	NA	NA	-
 096/069	fang	1	f a n g
-096/071	NA	NA	- - - -
-096/075	NA	NA	- - - -
+096/071	NA	NA	-
+096/075	NA	NA	-
 096/077	fang	1	f a n g
-096/079	NA	NA	- - - -
+096/079	NA	NA	-
 096/081	fangg	1	f a n gg
 096/083	fang	1	f a n g
 096/085	fang	1	f a n g
 096/087	fang	1	f a n g
 096/089	fang	1	f a n g
-096/091	NA	NA	- - - -
-096/093	NA	NA	- - - -
-096/095	NA	NA	- - - -
+096/091	NA	NA	-
+096/093	NA	NA	-
+096/095	NA	NA	-
 096/097	fang	1	f a n g
 096/099	fang	1	f a n g
 096/101	fang	1	f a n g
 096/103	fang	1	f a n g
 096/105	fang	1	f a n g
 096/107	fong	1	f o n g
-096/109	NA	NA	- - - -
+096/109	NA	NA	-
 096/111	fang	1	f a n g
 096/113	foang	1	f oa n g
 096/115	wird	6	w ir d
@@ -5192,10 +5192,10 @@
 096/129	fong	1	f o n g
 096/131	fong	1	f o n g
 096/135	fang	1	f a n g
-096/137	NA	NA	- - - -
+096/137	NA	NA	-
 096/139	faung	1	f au n g
 096/141	faung	1	f au n g
-096/143	NA	NA	- - - -
+096/143	NA	NA	-
 096/145	foung	1	f ou n g
 096/147	fangk	1	f a n gk
 096/151	fongg	1	f o n gg
@@ -5206,44 +5206,44 @@
 097/035	fang	1	f a n g
 097/037	fang	1	f a n g
 097/039	fang	1	f a n g
-097/041	NA	NA	- - - -
+097/041	NA	NA	-
 097/043	fang	1	f a n g
 097/045	fang	1	f a n g
 097/047	fang	1	f a n g
 097/049	fang	1	f a n g
 097/051	fang	1	f a n g
 097/053	fang	1	f a n g
-097/055	NA	NA	- - - -
+097/055	NA	NA	-
 097/057	fang	1	f a n g
 097/059	fang	1	f a n g
-097/061	NA	NA	- - - -
+097/061	NA	NA	-
 097/063	fängg	1	f ä n gg
 097/065	fang	1	f a n g
-097/067	NA	NA	- - - -
-097/069	NA	NA	- - - -
+097/067	NA	NA	-
+097/069	NA	NA	-
 097/071	fang	1	f a n g
-097/073	NA	NA	- - - -
+097/073	NA	NA	-
 097/075	fäng	1	f ä n g
-097/077	NA	NA	- - - -
+097/077	NA	NA	-
 097/079	fang	1	f a n g
 097/081	fang	1	f a n g
-097/083	NA	NA	- - - -
+097/083	NA	NA	-
 097/085	fang	1	f a n g
 097/087	fang	1	f a n g
 097/089	fang	1	f a n g
 097/091	fang	1	f a n g
 097/093	fang	1	f a n g
 097/095	fang	1	f a n g
-097/097	NA	NA	- - - -
+097/097	NA	NA	-
 097/099	höbt	3	- - h ö b - t
 097/103	foang	1	f oa n g
 097/105	fong	1	f o n g
 097/107	fong	1	f o n g
 097/109	fong	1	f o n g
 097/113	anhebt	3	a n h e b - t
-097/125	NA	NA	- - - -
+097/125	NA	NA	-
 097/131	fang	1	f a n g
-097/133	NA	NA	- - - -
+097/133	NA	NA	-
 097/139	fong	1	f o n g
 097/141	faung	1	f au n g
 097/143	fong	1	f o n g
@@ -5259,19 +5259,19 @@
 098/045	fang	1	f a n g
 098/047	fang	1	f a n g
 098/049	fang	1	f a n g
-098/051	NA	NA	- - - -
+098/051	NA	NA	-
 098/053	fang	1	f a n g
 098/055	fang	1	f a n g
-098/057	NA	NA	- - - -
+098/057	NA	NA	-
 098/059	fang	1	f a n g
 098/061	fang	1	f a n g
-098/063	NA	NA	- - - -
+098/063	NA	NA	-
 098/065	fang	1	f a n g
 098/067	fo	1	f o - -
-098/069	NA	NA	- - - -
-098/071	NA	NA	- - - -
+098/069	NA	NA	-
+098/071	NA	NA	-
 098/073	fang	1	f a n g
-098/075	NA	NA	- - - -
+098/075	NA	NA	-
 098/077	ahebt	3	a - h e b - t
 098/079	fang	1	f a n g
 098/081	fang	1	f a n g
@@ -5281,30 +5281,30 @@
 098/089	fang	1	f a n g
 098/091	fang	1	f a n g
 098/093	fank	1	f a n k
-098/095	NA	NA	- - - -
+098/095	NA	NA	-
 098/097	fang	1	f a n g
 098/103	fang	1	f a n g
 098/105	wiad	6	w ia d
-098/107	NA	NA	- - - -
+098/107	NA	NA	-
 098/109	onhöbt	3	o n h ö b - t
 098/111	ohöbt	3	o - h ö b - t
 098/119	ohöbt	3	o - h ö b - t
 098/123	fong	1	f o n g
-098/125	NA	NA	- - - -
+098/125	NA	NA	-
 098/127	kimb	4	k i m b
 098/135	fong	1	f o n g
 098/137	fong	1	f o n g
 098/139	fang	1	f a n g
 098/141	wird	6	w ir d
-098/143	NA	NA	- - - -
+098/143	NA	NA	-
 098/145	fang	1	f a n g
 098/147	fang	1	f a n g
-098/149	NA	NA	- - - -
+098/149	NA	NA	-
 098/151	aohebt	3	ao - h e b - t
 099/033	fang	1	f a n g
 099/035	fang	1	f a n g
 099/037	foh	1	f oh - -
-099/039	NA	NA	- - - -
+099/039	NA	NA	-
 099/041	fang	1	f a n g
 099/043	fang	1	f a n g
 099/045	fang	1	f a n g
@@ -5315,7 +5315,7 @@
 099/055	fang	1	f a n g
 099/057	fang	1	f a n g
 099/059	fang	1	f a n g
-099/063	NA	NA	- - - -
+099/063	NA	NA	-
 099/065	fang	1	f a n g
 099/067	fo	1	f o - -
 099/069	fang	1	f a n g
@@ -5323,15 +5323,15 @@
 099/073	fang	1	f a n g
 099/075	fang	1	f a n g
 099/077	ahebt	3	a - h e b - t
-099/081	NA	NA	- - - -
-099/083	NA	NA	- - - -
+099/081	NA	NA	-
+099/083	NA	NA	-
 099/085	fang	1	f a n g
 099/089	fang	1	f a n g
-099/093	NA	NA	- - - -
+099/093	NA	NA	-
 099/095	fong	1	f o n g
 099/099	fong	1	f o n g
 099/101	fong	1	f o n g
-099/103	NA	NA	- - - -
+099/103	NA	NA	-
 099/105	fang	1	f a n g
 099/107	fang	1	f a n g
 099/109	wird	6	w ir d
@@ -5342,7 +5342,7 @@
 099/125	fong	1	f o n g
 099/131	fong	1	f o n g
 099/137	faung	1	f au n g
-099/139	NA	NA	- - - -
+099/139	NA	NA	-
 099/141	fong	1	f o n g
 099/143	fong	1	f o n g
 099/145	fong	1	f o n g
@@ -5359,7 +5359,7 @@
 100/053	fö	1	f ö - -
 100/055	fang	1	f a n g
 100/057	fang	1	f a n g
-100/059	NA	NA	- - - -
+100/059	NA	NA	-
 100/061	fang	1	f a n g
 100/065	fang	1	f a n g
 100/067	fo	1	f o - -
@@ -5376,17 +5376,17 @@
 100/097	fong	1	f o n g
 100/099	weast	6	w ea st
 100/101	ahäbt	3	a - h ä b - t
-100/109	NA	NA	- - - -
+100/109	NA	NA	-
 100/111	fang	1	f a n g
 100/113	onhöbt	3	o n h ö b - t
 100/115	fong	1	f o n g
 100/117	fong	1	f o n g
 100/119	fong	1	f o n g
-100/121	NA	NA	- - - -
+100/121	NA	NA	-
 100/125	kimbt	4	k i m bt
 100/127	onhebt	3	o n h e b - t
-100/129	NA	NA	- - - -
-100/133	NA	NA	- - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	aunhebt	3	au n h e b - t
 100/141	faung	1	f au n g
 100/143	faung	1	f au n g
@@ -5395,16 +5395,16 @@
 101/037	fang	1	f a n g
 101/039	fo	1	f o - -
 101/041	fo	1	f o - -
-101/043	NA	NA	- - - -
+101/043	NA	NA	-
 101/045	fo	1	f o - -
 101/047	fah	1	f ah - -
-101/049	NA	NA	- - - -
+101/049	NA	NA	-
 101/051	fang	1	f a n g
 101/053	fang	1	f a n g
 101/055	fang	1	f a n g
 101/057	fang	1	f a n g
 101/059	fang	1	f a n g
-101/061	NA	NA	- - - -
+101/061	NA	NA	-
 101/063	fooch	1	f oo - ch
 101/065	fang	1	f a n g
 101/067	fang	1	f a n g
@@ -5414,21 +5414,21 @@
 101/079	foch	1	f o - ch
 101/081	fang	1	f a n g
 101/091	fong	1	f o n g
-101/093	NA	NA	- - - -
+101/093	NA	NA	-
 101/095	fong	1	f o n g
 101/097	fong	1	f o n g
-101/099	NA	NA	- - - -
+101/099	NA	NA	-
 101/101	fong	1	f o n g
 101/103	aheb	3	a - h e b - -
 101/107	fong	1	f o n g
 101/109	werdt	6	w er dt
 101/113	ohebt	3	o - h e b - t
-101/115	NA	NA	- - - -
-101/121	NA	NA	- - - -
+101/115	NA	NA	-
+101/121	NA	NA	-
 101/125	fong	1	f o n g
 101/129	onhebb	3	o n h e bb - -
-101/131	NA	NA	- - - -
-101/133	NA	NA	- - - -
+101/131	NA	NA	-
+101/133	NA	NA	-
 101/137	faung	1	f au n g
 101/139	anhebt	3	a n h e b - t
 101/141	fong	1	f o n g
@@ -5443,30 +5443,30 @@
 102/047	fo	1	f o - -
 102/049	fe	1	f e - -
 102/051	fang	1	f a n g
-102/053	NA	NA	- - - -
+102/053	NA	NA	-
 102/055	fä	1	f ä - -
 102/057	fang	1	f a n g
 102/059	fang	1	f a n g
 102/061	fang	1	f a n g
 102/063	fang	1	f a n g
 102/065	fang	1	f a n g
-102/067	NA	NA	- - - -
+102/067	NA	NA	-
 102/069	fo	1	f o - -
 102/071	wiard	6	w iar d
 102/073	fong	1	f o n g
-102/075	NA	NA	- - - -
+102/075	NA	NA	-
 102/077	fach	1	f a - ch
 102/079	foch	1	f o - ch
 102/081	fong	1	f o n g
-102/083	NA	NA	- - - -
+102/083	NA	NA	-
 102/089	uhöpp	3	u - h ö pp - -
-102/091	NA	NA	- - - -
+102/091	NA	NA	-
 102/093	fong	1	f o n g
 102/095	fong	1	f o n g
 102/097	fang	1	f a n g
-102/099	NA	NA	- - - -
+102/099	NA	NA	-
 102/103	fang	1	f a n g
-102/107	NA	NA	- - - -
+102/107	NA	NA	-
 102/109	fongg	1	f o n gg
 102/113	fong	1	f o n g
 102/115	anhebt	3	a n h e b - t
@@ -5479,15 +5479,15 @@
 102/141	fang	1	f a n g
 102/143	fongk	1	f o n gk
 102/145	eeahaipt	3	eea - h ai p - t
-103/039	NA	NA	- - - -
+103/039	NA	NA	-
 103/041	fo	1	f o - -
 103/043	foo	1	f oo - -
 103/045	fo	1	f o - -
-103/047	NA	NA	- - - -
+103/047	NA	NA	-
 103/049	fo	1	f o - -
 103/051	fang	1	f a n g
 103/053	fang	1	f a n g
-103/055	NA	NA	- - - -
+103/055	NA	NA	-
 103/057	fang	1	f a n g
 103/059	chunt	4	ch u n t
 103/063	fang	1	f a n g
@@ -5498,24 +5498,24 @@
 103/073	fong	1	f o n g
 103/075	fang	1	f a n g
 103/077	fong	1	f o n g
-103/079	NA	NA	- - - -
+103/079	NA	NA	-
 103/081	foch	1	f o - ch
 103/083	unheb	3	u n h e b - -
 103/085	faong	1	f ao n g
 103/087	foang	1	f oa n g
-103/089	NA	NA	- - - -
+103/089	NA	NA	-
 103/091	uhöbt	3	u - h ö b - t
-103/097	NA	NA	- - - -
+103/097	NA	NA	-
 103/099	foang	1	f oa n g
 103/101	fong	1	f o n g
-103/105	NA	NA	- - - -
-103/107	NA	NA	- - - -
-103/111	NA	NA	- - - -
+103/105	NA	NA	-
+103/107	NA	NA	-
+103/111	NA	NA	-
 103/121	fong	1	f o n g
 103/125	kimmt	4	k i mm t
 103/127	fang	1	f a n g
-103/131	NA	NA	- - - -
-103/133	NA	NA	- - - -
+103/131	NA	NA	-
+103/133	NA	NA	-
 103/135	fong	1	f o n g
 103/137	faung	1	f au n g
 103/139	anhebt	3	a n h e b - t
@@ -5536,27 +5536,27 @@
 104/055	fang	1	f a n g
 104/057	fang	1	f a n g
 104/059	fang	1	f a n g
-104/061	NA	NA	- - - -
+104/061	NA	NA	-
 104/063	foch	1	f o - ch
 104/065	foch	1	f o - ch
 104/067	kommt	4	k o mm t
 104/071	fong	1	f o n g
-104/075	NA	NA	- - - -
+104/075	NA	NA	-
 104/077	ouhebt	3	ou - h e b - t
 104/079	fong	1	f o n g
-104/081	NA	NA	- - - -
+104/081	NA	NA	-
 104/083	fang	1	f a n g
 104/085	unhöbt	3	u n h ö b - t
-104/091	NA	NA	- - - -
+104/091	NA	NA	-
 104/095	fong	1	f o n g
-104/101	NA	NA	- - - -
+104/101	NA	NA	-
 104/103	fong	1	f o n g
 104/107	fangg	1	f a n gg
 104/111	fong	1	f o n g
-104/113	NA	NA	- - - -
+104/113	NA	NA	-
 104/119	faung	1	f au n g
 104/121	aunheb	3	au n h e b - -
-104/123	NA	NA	- - - -
+104/123	NA	NA	-
 104/125	kimb	4	k i m b
 104/127	fang	1	f a n g
 104/131	fang	1	f a n g
@@ -5566,7 +5566,7 @@
 104/139	kimmbb	4	k i mm bb
 104/141	anhebt	3	a n h e b - t
 104/143	faunk	1	f au n k
-104/145	NA	NA	- - - -
+104/145	NA	NA	-
 105/031	fah	1	f ah - -
 105/033	fo	1	f o - -
 105/035	fo	1	f o - -
@@ -5574,46 +5574,46 @@
 105/039	fa	1	f a - -
 105/041	fo	1	f o - -
 105/043	foh	1	f oh - -
-105/045	NA	NA	- - - -
+105/045	NA	NA	-
 105/047	foh	1	f oh - -
 105/049	fo	1	f o - -
 105/051	fo	1	f o - -
 105/053	fa	1	f a - -
 105/055	fä	1	f ä - -
-105/057	NA	NA	- - - -
+105/057	NA	NA	-
 105/059	chunnt	4	ch u nn t
 105/061	fo	1	f o - -
 105/063	foch	1	f o - ch
 105/065	foch	1	f o - ch
 105/067	foch	1	f o - ch
 105/069	kunt	4	k u n t
-105/071	NA	NA	- - - -
+105/071	NA	NA	-
 105/073	fong	1	f o n g
 105/075	fong	1	f o n g
 105/077	fong	1	f o n g
 105/079	föch	1	f ö - ch
-105/081	NA	NA	- - - -
+105/081	NA	NA	-
 105/085	unhöbb	3	u n h ö bb - -
 105/087	unhöbb	3	u n h ö bb - -
-105/089	NA	NA	- - - -
+105/089	NA	NA	-
 105/103	foang	1	f oa n g
 105/105	fan	1	f a n -
-105/111	NA	NA	- - - -
+105/111	NA	NA	-
 105/113	fang	1	f a n g
 105/115	fong	1	f o n g
 105/117	fong	1	f o n g
 105/119	fang	1	f a n g
 105/121	fang	1	f a n g
-105/125	NA	NA	- - - -
+105/125	NA	NA	-
 105/127	wüatt	6	w üa tt
 105/131	anhebt	3	a n h e b - t
-105/133	NA	NA	- - - -
-105/135	NA	NA	- - - -
+105/133	NA	NA	-
+105/135	NA	NA	-
 105/137	onhebt	3	o n h e b - t
-105/141	NA	NA	- - - -
+105/141	NA	NA	-
 105/143	fong	1	f o n g
 105/145	fang	1	f a n g
-106/033	NA	NA	- - - -
+106/033	NA	NA	-
 106/035	fah	1	f ah - -
 106/037	foo	1	f oo - -
 106/039	foh	1	f oh - -
@@ -5628,19 +5628,19 @@
 106/061	fou	1	f ou - -
 106/063	fang	1	f a n g
 106/067	fooch	1	f oo - ch
-106/071	NA	NA	- - - -
-106/073	NA	NA	- - - -
+106/071	NA	NA	-
+106/073	NA	NA	-
 106/075	fong	1	f o n g
 106/077	kunn	4	k u nn -
 106/079	föch	1	f ö - ch
 106/081	föch	1	f ö - ch
 106/085	fang	1	f a n g
-106/087	NA	NA	- - - -
-106/093	NA	NA	- - - -
+106/087	NA	NA	-
+106/093	NA	NA	-
 106/097	unhebt	3	u n h e b - t
-106/099	NA	NA	- - - -
+106/099	NA	NA	-
 106/103	ohebt	3	o - h e b - t
-106/111	NA	NA	- - - -
+106/111	NA	NA	-
 106/115	ahebt	3	a - h e b - t
 106/121	onhebt	3	o n h e b - t
 106/123	fong	1	f o n g
@@ -5648,28 +5648,28 @@
 106/129	fong	1	f o n g
 106/131	fong	1	f o n g
 106/133	fang	1	f a n g
-106/135	NA	NA	- - - -
+106/135	NA	NA	-
 106/137	kimmt	4	k i mm t
 106/139	faung	1	f au n g
 106/141	faung	1	f au n g
-106/143	NA	NA	- - - -
+106/143	NA	NA	-
 106/145	faung	1	f au n g
 107/033	fa	1	f a - -
 107/035	fah	1	f ah - -
 107/037	fa	1	f a - -
-107/039	NA	NA	- - - -
+107/039	NA	NA	-
 107/041	fah	1	f ah - -
 107/043	fa	1	f a - -
 107/045	faa	1	f aa - -
 107/047	fa	1	f a - -
 107/049	fe	1	f e - -
-107/051	NA	NA	- - - -
+107/051	NA	NA	-
 107/053	foo	1	f oo - -
 107/057	fah	1	f ah - -
 107/059	fa	1	f a - -
 107/063	fa	1	f a - -
 107/065	fa	1	f a - -
-107/071	NA	NA	- - - -
+107/071	NA	NA	-
 107/075	fang	1	f a n g
 107/081	fäng	1	f ä n g
 107/085	unhöpt	3	u n h ö p - t
@@ -5679,15 +5679,15 @@
 107/097	unhebb	3	u n h e bb - -
 107/099	fong	1	f o n g
 107/103	fonk	1	f o n k
-107/105	NA	NA	- - - -
+107/105	NA	NA	-
 107/107	fong	1	f o n g
-107/111	NA	NA	- - - -
+107/111	NA	NA	-
 107/119	fongg	1	f o n gg
-107/121	NA	NA	- - - -
+107/121	NA	NA	-
 107/123	fong	1	f o n g
 107/125	onhep	3	o n h e p - -
 107/127	anhebt	3	a n h e b - t
-107/129	NA	NA	- - - -
+107/129	NA	NA	-
 107/131	faug	1	f au - g
 107/133	ounhebt	3	ou n h e b - t
 107/135	foung	1	f ou n g
@@ -5699,34 +5699,34 @@
 108/035	fa	1	f a - -
 108/037	fah	1	f ah - -
 108/039	fah	1	f ah - -
-108/041	NA	NA	- - - -
+108/041	NA	NA	-
 108/043	fa	1	f a - -
 108/047	fa	1	f a - -
-108/049	NA	NA	- - - -
+108/049	NA	NA	-
 108/063	fank	1	f a n k
 108/065	fa	1	f a - -
 108/067	fah	1	f ah - -
 108/075	fang	1	f a n g
-108/079	NA	NA	- - - -
-108/081	NA	NA	- - - -
+108/079	NA	NA	-
+108/081	NA	NA	-
 108/085	unhöbt	3	u n h ö b - t
 108/087	faang	1	f aa n g
-108/091	NA	NA	- - - -
-108/099	NA	NA	- - - -
+108/091	NA	NA	-
+108/099	NA	NA	-
 108/101	fongg	1	f o n gg
 108/103	faung	1	f au n g
-108/105	NA	NA	- - - -
+108/105	NA	NA	-
 108/109	fong	1	f o n g
 108/111	werd	6	w er d
 108/113	fong	1	f o n g
 108/117	werd	6	w er d
 108/119	onhebb	3	o n h e bb - -
 108/121	fong	1	f o n g
-108/123	NA	NA	- - - -
+108/123	NA	NA	-
 108/125	fong	1	f o n g
-108/127	NA	NA	- - - -
-108/129	NA	NA	- - - -
-108/131	NA	NA	- - - -
+108/127	NA	NA	-
+108/129	NA	NA	-
+108/131	NA	NA	-
 108/133	fong	1	f o n g
 108/135	fong	1	f o n g
 108/137	aunhebt	3	au n h e b - t
@@ -5736,13 +5736,13 @@
 109/037	fa	1	f a - -
 109/039	fah	1	f ah - -
 109/041	fah	1	f ah - -
-109/043	NA	NA	- - - -
-109/045	NA	NA	- - - -
+109/043	NA	NA	-
+109/045	NA	NA	-
 109/049	fa	1	f a - -
-109/053	NA	NA	- - - -
+109/053	NA	NA	-
 109/061	fang	1	f a n g
 109/063	chund	4	ch u n d
-109/065	NA	NA	- - - -
+109/065	NA	NA	-
 109/067	fah	1	f ah - -
 109/075	fong	1	f o n g
 109/083	onheb	3	o n h e b - -
@@ -5750,29 +5750,29 @@
 109/089	unhöp	3	u n h ö p - -
 109/091	fong	1	f o n g
 109/093	unhep	3	u n h e p - -
-109/095	NA	NA	- - - -
+109/095	NA	NA	-
 109/097	unhöt	3	u n h ö t - -
 109/099	unhöit	3	u n h öi t - -
-109/101	NA	NA	- - - -
-109/103	NA	NA	- - - -
+109/101	NA	NA	-
+109/103	NA	NA	-
 109/107	onhöbt	3	o n h ö b - t
-109/109	NA	NA	- - - -
+109/109	NA	NA	-
 109/111	konn	4	k o nn -
-109/113	NA	NA	- - - -
+109/113	NA	NA	-
 109/115	fong	1	f o n g
 109/117	fong	1	f o n g
 109/119	fang	1	f a n g
 109/121	fong	1	f o n g
-109/123	NA	NA	- - - -
+109/123	NA	NA	-
 109/125	fong	1	f o n g
-109/127	NA	NA	- - - -
+109/127	NA	NA	-
 109/129	kimb	4	k i m b
 109/131	foung	1	f ou n g
 109/133	ounhebt	3	ou n h e b - t
 109/135	fang	1	f a n g
 109/137	onhebt	3	o n h e b - t
 109/139	foang	1	f oa n g
-110/035	NA	NA	- - - -
+110/035	NA	NA	-
 110/039	fa	1	f a - -
 110/041	fe	1	f e - -
 110/043	fa	1	f a - -
@@ -5783,35 +5783,35 @@
 110/061	fo	1	f o - -
 110/065	fo	1	f o - -
 110/075	kimp	4	k i m p
-110/079	NA	NA	- - - -
+110/079	NA	NA	-
 110/081	fong	1	f o n g
 110/083	fong	1	f o n g
-110/087	NA	NA	- - - -
+110/087	NA	NA	-
 110/089	fong	1	f o n g
 110/091	tuit	5	t ui t
-110/093	NA	NA	- - - -
+110/093	NA	NA	-
 110/095	fong	1	f o n g
 110/097	onhebt	3	o n h e b - t
 110/099	unhöft	3	u n h ö f - t
 110/101	fong	1	f o n g
 110/105	fong	1	f o n g
-110/107	NA	NA	- - - -
+110/107	NA	NA	-
 110/111	onhöpp	3	o n h ö pp - -
 110/113	fong	1	f o n g
 110/115	fong	1	f o n g
 110/117	fong	1	f o n g
 110/119	fong	1	f o n g
-110/121	NA	NA	- - - -
+110/121	NA	NA	-
 110/125	fong	1	f o n g
-110/127	NA	NA	- - - -
-110/129	NA	NA	- - - -
+110/127	NA	NA	-
+110/129	NA	NA	-
 110/131	kimb	4	k i m b
 110/133	aheibb	3	a - h ei bb - -
-110/135	NA	NA	- - - -
-110/137	NA	NA	- - - -
+110/135	NA	NA	-
+110/137	NA	NA	-
 110/139	fong	1	f o n g
 111/035	fiä	1	f iä - -
-111/037	NA	NA	- - - -
+111/037	NA	NA	-
 111/039	feh	1	f eh - -
 111/041	fah	1	f ah - -
 111/043	fah	1	f ah - -
@@ -5821,23 +5821,23 @@
 111/075	ounhep	3	ou n h e p - -
 111/077	fong	1	f o n g
 111/079	fong	1	f o n g
-111/081	NA	NA	- - - -
+111/081	NA	NA	-
 111/083	fongg	1	f o n gg
-111/087	NA	NA	- - - -
+111/087	NA	NA	-
 111/089	unhöpp	3	u n h ö pp - -
 111/105	fong	1	f o n g
 111/107	fong	1	f o n g
 111/109	fong	1	f o n g
 111/111	fong	1	f o n g
-111/113	NA	NA	- - - -
-111/115	NA	NA	- - - -
+111/113	NA	NA	-
+111/115	NA	NA	-
 111/117	faang	1	f aa n g
 111/119	chumt	4	ch u m t
 111/121	fang	1	f a n g
 111/123	fong	1	f o n g
 111/125	fang	1	f a n g
 112/037	fee	1	f ee - -
-112/039	NA	NA	- - - -
+112/039	NA	NA	-
 112/041	feh	1	f eh - -
 112/043	fäh	1	f äh - -
 112/047	fa	1	f a - -
@@ -5846,8 +5846,8 @@
 112/063	fo	1	f o - -
 112/075	kimmb	4	k i mm b
 112/081	fong	1	f o n g
-112/083	NA	NA	- - - -
-112/085	NA	NA	- - - -
+112/083	NA	NA	-
+112/085	NA	NA	-
 112/111	fong	1	f o n g
 112/115	fong	1	f o n g
 112/117	fong	1	f o n g
@@ -5856,29 +5856,29 @@
 113/037	fü	1	f ü - -
 113/039	feh	1	f eh - -
 113/047	fah	1	f ah - -
-113/079	NA	NA	- - - -
+113/079	NA	NA	-
 113/081	fangk	1	f a n gk
-113/083	NA	NA	- - - -
+113/083	NA	NA	-
 113/085	fongg	1	f o n gg
 113/087	fong	1	f o n g
 113/121	fong	1	f o n g
-113/123	NA	NA	- - - -
+113/123	NA	NA	-
 114/035	fie	1	f ie - -
-114/045	NA	NA	- - - -
+114/045	NA	NA	-
 114/083	ounheib	3	ou n h ei b - -
 114/085	fong	1	f o n g
-115/041	NA	NA	- - - -
+115/041	NA	NA	-
 115/043	fa	1	f a - -
 115/045	fa	1	f a - -
 115/083	fong	1	f o n g
 115/085	fong	1	f o n g
 116/043	fe	1	f e - -
-116/045	NA	NA	- - - -
+116/045	NA	NA	-
 116/083	fong	1	f o n g
 117/043	fa	1	f a - -
 117/045	fah	1	f ah - -
 118/041	fa	1	f a - -
-119/083	NA	NA	- - - -
+119/083	NA	NA	-
 120/085	höw	NA	h ö w -
 121/127	ounhewät	3	ou n h e w ä t
 122/127	unhewet	3	u n h e w e t

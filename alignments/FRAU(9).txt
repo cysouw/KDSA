@@ -3251,7 +3251,7 @@
 062/115	fraa	1	f r aa - -
 062/117	fra	1	f r a - -
 062/119	fra	1	f r a - -
-062/121	NA	NA	- - - - - - -
+062/121	NA	NA	-
 062/123	frou	1	f r ou - -
 062/125	fro	1	f r o - -
 062/127	frou	1	f r ou - -
@@ -3741,7 +3741,7 @@
 070/099	frau	1	f r au - -
 070/101	wei	2	w ei - - - - -
 070/103	mouma	3	m ou m a - - -
-070/105	NA	NA	- - - - - - -
+070/105	NA	NA	-
 070/107	frau	1	f r au - -
 070/109	frau	1	f r au - -
 070/111	frau	1	f r au - -
@@ -3854,7 +3854,7 @@
 072/095	frau	1	f r au - -
 072/097	frau	1	f r au - -
 072/099	wai	2	w ai - - - - -
-072/101	NA	NA	- - - - - - -
+072/101	NA	NA	-
 072/103	frau	1	f r au - -
 072/105	wei	2	w ei - - - - -
 072/107	frau	1	f r au - -
@@ -4319,7 +4319,7 @@
 081/109	frau	1	f r au - -
 081/111	wei	2	w ei - - - - -
 081/127	wei	2	w ei - - - - -
-081/129	NA	NA	- - - - - - -
+081/129	NA	NA	-
 081/133	frau	1	f r au - -
 081/147	frau	1	f r au - -
 081/191	waiep	2	w aie p - - - -
@@ -4717,7 +4717,7 @@
 088/109	frau	1	f r au - -
 088/113	frau	1	f r au - -
 088/115	frau	1	f r au - -
-088/117	NA	NA	- - - - - - -
+088/117	NA	NA	-
 088/121	frau	1	f r au - -
 088/123	wei	2	w ei - - - - -
 088/127	frau	1	f r au - -
@@ -4768,7 +4768,7 @@
 089/105	wei	2	w ei - - - - -
 089/107	frau	1	f r au - -
 089/109	frau	1	f r au - -
-089/111	NA	NA	- - - - - - -
+089/111	NA	NA	-
 089/113	frau	1	f r au - -
 089/115	frau	1	f r au - -
 089/117	frau	1	f r au - -
@@ -5284,7 +5284,7 @@
 098/095	frau	1	f r au - -
 098/097	frau	1	f r au - -
 098/103	frau	1	f r au - -
-098/105	NA	NA	- - - - - - -
+098/105	NA	NA	-
 098/107	frau	1	f r au - -
 098/109	altn	7	a l t n
 098/111	frau	1	f r au - -
@@ -5419,7 +5419,7 @@
 101/097	frau	1	f r au - -
 101/099	frau	1	f r au - -
 101/101	frau	1	f r au - -
-101/103	NA	NA	- - - - - - -
+101/103	NA	NA	-
 101/107	frau	1	f r au - -
 101/109	frauh	1	f r auh - -
 101/113	frau	1	f r au - -
@@ -5602,7 +5602,7 @@
 105/113	frau	1	f r au - -
 105/115	frau	1	f r au - -
 105/117	frou	1	f r ou - -
-105/119	NA	NA	- - - - - - -
+105/119	NA	NA	-
 105/121	frau	1	f r au - -
 105/125	frau	1	f r au - -
 105/127	frau	1	f r au - -
@@ -5638,7 +5638,7 @@
 106/087	frau	1	f r au - -
 106/093	frau	1	f r au - -
 106/097	frau	1	f r au - -
-106/099	NA	NA	- - - - - - -
+106/099	NA	NA	-
 106/103	frau	1	f r au - -
 106/111	frau	1	f r au - -
 106/115	frau	1	f r au - -
@@ -5784,7 +5784,7 @@
 110/065	frau	1	f r au - -
 110/075	frau	1	f r au - -
 110/079	frau	1	f r au - -
-110/081	NA	NA	- - - - - - -
+110/081	NA	NA	-
 110/083	frau	1	f r au - -
 110/087	frau	1	f r au - -
 110/089	frau	1	f r au - -

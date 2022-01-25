@@ -7,7 +7,7 @@
 003/205	glyck	1	g - l y ck
 004/205	glieck	1	g - l ie ck
 005/205	gliek	1	g - l ie k
-005/207	NA	NA	- - - - - - - - -
+005/207	NA	NA	-
 006/205	gliek	1	g - l ie k
 006/207	gliek	1	g - l ie k
 007/205	glik	1	g - l i k
@@ -179,7 +179,7 @@
 015/157	glik	1	g - l i k
 015/159	glick	1	g - l i ck
 015/161	glik	1	g - l i k
-015/163	NA	NA	- - - - - - - - -
+015/163	NA	NA	-
 015/165	glick	1	g - l i ck
 015/167	glick	1	g - l i ck
 015/169	glick	1	g - l i ck
@@ -197,7 +197,7 @@
 015/209	glik	1	g - l i k
 015/211	glik	1	g - l i k
 015/213	gliek	1	g - l ie k
-015/215	NA	NA	- - - - - - - - -
+015/215	NA	NA	-
 015/217	glieck	1	g - l ie ck
 015/219	gliek	1	g - l ie k
 015/221	gliek	1	g - l ie k
@@ -443,7 +443,7 @@
 020/155	glick	1	g - l i ck
 020/157	glick	1	g - l i ck
 020/159	glik	1	g - l i k
-020/161	NA	NA	- - - - - - - - -
+020/161	NA	NA	-
 020/163	glick	1	g - l i ck
 020/165	glik	1	g - l i k
 020/167	glück	1	g - l ü ck
@@ -665,7 +665,7 @@
 023/167	glick	1	g - l i ck
 023/169	strack	NA	s t r a ck - - - -
 023/175	glick	1	g - l i ck
-023/177	NA	NA	- - - - - - - - -
+023/177	NA	NA	-
 023/179	gleich	1	g - l ei ch
 023/181	gleich	1	g - l ei ch
 023/183	gleich	1	g - l ei ch
@@ -753,7 +753,7 @@
 024/199	straks	NA	s t r a ks - - - -
 024/201	bohl	3	b oh l - -
 024/203	glik	1	g - l i k
-024/217	NA	NA	- - - - - - - - -
+024/217	NA	NA	-
 024/221	gliek	1	g - l ie k
 025/043	glick	1	g - l i ck
 025/051	glik	1	g - l i k
@@ -868,7 +868,7 @@
 026/141	glik	1	g - l i k
 026/143	glik	1	g - l i k
 026/145	glick	1	g - l i ck
-026/147	NA	NA	- - - - - - - - -
+026/147	NA	NA	-
 026/153	glick	1	g - l i ck
 026/155	ball	3	b a ll - -
 026/157	gliek	1	g - l ie k
@@ -892,7 +892,7 @@
 027/043	gliek	1	g - l ie k
 027/045	gliek	1	g - l ie k
 027/047	gliek	1	g - l ie k
-027/051	NA	NA	- - - - - - - - -
+027/051	NA	NA	-
 027/053	glik	1	g - l i k
 027/055	gliek	1	g - l ie k
 027/057	glik	1	g - l i k
@@ -1163,7 +1163,7 @@
 030/159	foet	2	f oe - t -
 030/161	bul	3	b u l - -
 030/163	bull	3	b u ll - -
-030/165	NA	NA	- - - - - - - - -
+030/165	NA	NA	-
 030/167	gliek	1	g - l ie k
 030/169	gleich	1	g - l ei ch
 030/171	glick	1	g - l i ck
@@ -1188,7 +1188,7 @@
 031/059	glick	1	g - l i ck
 031/061	glick	1	g - l i ck
 031/063	glick	1	g - l i ck
-031/065	NA	NA	- - - - - - - - -
+031/065	NA	NA	-
 031/067	gliek	1	g - l ie k
 031/069	glik	1	g - l i k
 031/071	gliek	1	g - l ie k
@@ -1259,7 +1259,7 @@
 032/057	gliek	1	g - l ie k
 032/059	glick	1	g - l i ck
 032/061	glick	1	g - l i ck
-032/065	NA	NA	- - - - - - - - -
+032/065	NA	NA	-
 032/069	glieck	1	g - l ie ck
 032/071	gliek	1	g - l ie k
 032/073	glik	1	g - l i k
@@ -1383,7 +1383,7 @@
 033/169	strack	NA	s t r a ck - - - -
 033/173	jleich	1	j - l ei ch
 033/175	gliek	1	g - l ie k
-033/177	NA	NA	- - - - - - - - -
+033/177	NA	NA	-
 034/035	futt	2	f u - tt -
 034/039	glik	1	g - l i k
 034/041	glik	1	g - l i k
@@ -1444,7 +1444,7 @@
 034/155	glick	1	g - l i ck
 034/157	gleich	1	g - l ei ch
 034/161	gleich	1	g - l ei ch
-034/163	NA	NA	- - - - - - - - -
+034/163	NA	NA	-
 034/165	bull	3	b u ll - -
 034/167	jlik	1	j - l i k
 034/169	boll	3	b o ll - -
@@ -1633,7 +1633,7 @@
 037/139	gleich	1	g - l ei ch
 037/141	bald	3	b a l d -
 037/145	bahl	3	b ah l - -
-037/147	NA	NA	- - - - - - - - -
+037/147	NA	NA	-
 037/149	gleich	1	g - l ei ch
 037/151	bal	3	b a l - -
 037/153	gliek	1	g - l ie k
@@ -1703,7 +1703,7 @@
 038/159	gleich	1	g - l ei ch
 038/161	gleich	1	g - l ei ch
 038/163	gleich	1	g - l ei ch
-039/029	NA	NA	- - - - - - - - -
+039/029	NA	NA	-
 039/031	gliek	1	g - l ie k
 039/033	foret	2	f o re t -
 039/035	glik	1	g - l i k
@@ -1755,7 +1755,7 @@
 039/127	gliech	1	g - l ie ch
 039/129	balle	3	b a ll - e
 039/131	glei	1	g - l ei -
-039/133	NA	NA	- - - - - - - - -
+039/133	NA	NA	-
 039/135	gleich	1	g - l ei ch
 039/137	gleich	1	g - l ei ch
 039/139	gleich	1	g - l ei ch
@@ -1802,7 +1802,7 @@
 040/101	glik	1	g - l i k
 040/103	jliek	1	j - l ie k
 040/105	gliek	1	g - l ie k
-040/107	NA	NA	- - - - - - - - -
+040/107	NA	NA	-
 040/109	jleich	1	j - l ei ch
 040/111	glich	1	g - l i ch
 040/113	glik	1	g - l i k
@@ -2424,7 +2424,7 @@
 050/135	gle	1	g - l e -
 050/137	glee	1	g - l ee -
 050/139	glee	1	g - l ee -
-050/141	NA	NA	- - - - - - - - -
+050/141	NA	NA	-
 050/143	gle	1	g - l e -
 050/145	gle	1	g - l e -
 050/147	glee	1	g - l ee -
@@ -2540,7 +2540,7 @@
 052/095	jlei	1	j - l ei -
 052/097	jlei	1	j - l ei -
 052/099	glei	1	g - l ei -
-052/101	NA	NA	- - - - - - - - -
+052/101	NA	NA	-
 052/103	glei	1	g - l ei -
 052/105	klei	1	k - l ei -
 052/107	glei	1	g - l ei -
@@ -2586,7 +2586,7 @@
 053/051	gleik	1	g - l ei k
 053/053	gläik	1	g - l äi k
 053/055	glik	1	g - l i k
-053/057	NA	NA	- - - - - - - - -
+053/057	NA	NA	-
 053/059	glik	1	g - l i k
 053/061	gliek	1	g - l ie k
 053/063	chlik	1	ch - l i k
@@ -2625,7 +2625,7 @@
 053/133	glei	1	g - l ei -
 053/135	glei	1	g - l ei -
 053/137	glech	1	g - l e ch
-053/139	NA	NA	- - - - - - - - -
+053/139	NA	NA	-
 053/141	gle	1	g - l e -
 053/143	gläi	1	g - l äi -
 053/145	gleh	1	g - l eh -
@@ -2976,7 +2976,7 @@
 058/137	gläi	1	g - l äi -
 058/139	glei	1	g - l ei -
 058/141	glei	1	g - l ei -
-058/143	NA	NA	- - - - - - - - -
+058/143	NA	NA	-
 058/145	glei	1	g - l ei -
 058/147	glei	1	g - l ei -
 058/149	glee	1	g - l ee -
@@ -2985,7 +2985,7 @@
 058/155	gleich	1	g - l ei ch
 058/157	glei	1	g - l ei -
 058/159	gleich	1	g - l ei ch
-059/019	NA	NA	- - - - - - - - -
+059/019	NA	NA	-
 059/021	glick	1	g - l i ck
 059/023	jlich	1	j - l i ch
 059/025	jleich	1	j - l ei ch
@@ -3031,7 +3031,7 @@
 059/105	glei	1	g - l ei -
 059/107	glei	1	g - l ei -
 059/109	glei	1	g - l ei -
-059/111	NA	NA	- - - - - - - - -
+059/111	NA	NA	-
 059/113	glei	1	g - l ei -
 059/115	glei	1	g - l ei -
 059/117	glei	1	g - l ei -
@@ -3261,7 +3261,7 @@
 062/135	glei	1	g - l ei -
 062/137	glei	1	g - l ei -
 062/139	glei	1	g - l ei -
-062/141	NA	NA	- - - - - - - - -
+062/141	NA	NA	-
 062/143	glei	1	g - l ei -
 062/145	glei	1	g - l ei -
 062/147	glei	1	g - l ei -
@@ -3433,9 +3433,9 @@
 065/065	gläich	1	g - l äi ch
 065/067	gleiich	1	g - l eii ch
 065/069	gleich	1	g - l ei ch
-065/071	NA	NA	- - - - - - - - -
+065/071	NA	NA	-
 065/073	gleich	1	g - l ei ch
-065/075	NA	NA	- - - - - - - - -
+065/075	NA	NA	-
 065/077	gleich	1	g - l ei ch
 065/079	gleich	1	g - l ei ch
 065/081	gleich	1	g - l ei ch
@@ -3490,7 +3490,7 @@
 066/059	gleich	1	g - l ei ch
 066/061	gleich	1	g - l ei ch
 066/063	gleich	1	g - l ei ch
-066/065	NA	NA	- - - - - - - - -
+066/065	NA	NA	-
 066/067	gläich	1	g - l äi ch
 066/069	gleich	1	g - l ei ch
 066/071	gleich	1	g - l ei ch
@@ -3602,7 +3602,7 @@
 068/043	bal	3	b a l - -
 068/045	gleich	1	g - l ei ch
 068/047	kleich	1	k - l ei ch
-068/049	NA	NA	- - - - - - - - -
+068/049	NA	NA	-
 068/051	gleich	1	g - l ei ch
 068/053	gleich	1	g - l ei ch
 068/055	gleich	1	g - l ei ch
@@ -3630,7 +3630,7 @@
 068/099	glei	1	g - l ei -
 068/101	glei	1	g - l ei -
 068/103	glei	1	g - l ei -
-068/105	NA	NA	- - - - - - - - -
+068/105	NA	NA	-
 068/107	gleich	1	g - l ei ch
 068/109	gleich	1	g - l ei ch
 068/111	gleich	1	g - l ei ch
@@ -3725,7 +3725,7 @@
 070/067	dleich	1	d - l ei ch
 070/069	glei	1	g - l ei -
 070/071	glei	1	g - l ei -
-070/073	NA	NA	- - - - - - - - -
+070/073	NA	NA	-
 070/075	gleich	1	g - l ei ch
 070/077	gleich	1	g - l ei ch
 070/079	gleich	1	g - l ei ch
@@ -3863,7 +3863,7 @@
 072/149	glaaj	1	g - l aa j
 072/151	glei	1	g - l ei -
 072/153	glei	1	g - l ei -
-072/155	NA	NA	- - - - - - - - -
+072/155	NA	NA	-
 072/157	glei	1	g - l ei -
 072/159	glei	1	g - l ei -
 072/161	glei	1	g - l ei -
@@ -3923,7 +3923,7 @@
 073/153	glei	1	g - l ei -
 073/155	glei	1	g - l ei -
 073/157	glei	1	g - l ei -
-073/159	NA	NA	- - - - - - - - -
+073/159	NA	NA	-
 073/161	glei	1	g - l ei -
 073/163	glei	1	g - l ei -
 073/165	glei	1	g - l ei -
@@ -4170,13 +4170,13 @@
 078/089	glei	1	g - l ei -
 078/091	glei	1	g - l ei -
 078/093	glei	1	g - l ei -
-078/095	NA	NA	- - - - - - - - -
+078/095	NA	NA	-
 078/097	glei	1	g - l ei -
 078/099	glä	1	g - l ä -
 078/101	glei	1	g - l ei -
 078/103	glä	1	g - l ä -
 078/105	glä	1	g - l ä -
-078/135	NA	NA	- - - - - - - - -
+078/135	NA	NA	-
 078/193	kleich	1	k - l ei ch
 079/021	gleich	1	g - l ei ch
 079/023	gleich	1	g - l ei ch
@@ -4268,7 +4268,7 @@
 080/103	glei	1	g - l ei -
 080/105	glei	1	g - l ei -
 080/107	glei	1	g - l ei -
-080/109	NA	NA	- - - - - - - - -
+080/109	NA	NA	-
 080/127	glei	1	g - l ei -
 080/147	glei	1	g - l ei -
 080/151	glei	1	g - l ei -
@@ -4277,12 +4277,12 @@
 080/195	gleich	1	g - l ei ch
 081/025	glich	1	g - l i ch
 081/027	glich	1	g - l i ch
-081/029	NA	NA	- - - - - - - - -
+081/029	NA	NA	-
 081/031	glich	1	g - l i ch
 081/033	glich	1	g - l i ch
 081/035	glich	1	g - l i ch
 081/037	glich	1	g - l i ch
-081/039	NA	NA	- - - - - - - - -
+081/039	NA	NA	-
 081/043	gleich	1	g - l ei ch
 081/045	gleich	1	g - l ei ch
 081/047	gleich	1	g - l ei ch
@@ -4309,7 +4309,7 @@
 081/089	glei	1	g - l ei -
 081/091	glei	1	g - l ei -
 081/093	glei	1	g - l ei -
-081/095	NA	NA	- - - - - - - - -
+081/095	NA	NA	-
 081/097	glei	1	g - l ei -
 081/099	glei	1	g - l ei -
 081/101	gläii	1	g - l äii -
@@ -4317,12 +4317,12 @@
 081/105	glää	1	g - l ää -
 081/107	glei	1	g - l ei -
 081/109	glei	1	g - l ei -
-081/111	NA	NA	- - - - - - - - -
+081/111	NA	NA	-
 081/127	glei	1	g - l ei -
 081/129	glei	1	g - l ei -
 081/133	boald	3	b oa l d -
 081/147	gleich	1	g - l ei ch
-081/191	NA	NA	- - - - - - - - -
+081/191	NA	NA	-
 081/193	gloech	1	g - l oe ch
 081/195	glaich	1	g - l ai ch
 082/027	gliich	1	g - l ii ch
@@ -4423,7 +4423,7 @@
 083/115	glei	1	g - l ei -
 083/117	glei	1	g - l ei -
 083/119	glei	1	g - l ei -
-083/121	NA	NA	- - - - - - - - -
+083/121	NA	NA	-
 083/129	glei	1	g - l ei -
 083/131	gleich	1	g - l ei ch
 083/133	glei	1	g - l ei -
@@ -4538,7 +4538,7 @@
 085/115	glei	1	g - l ei -
 085/117	glei	1	g - l ei -
 085/119	glei	1	g - l ei -
-085/121	NA	NA	- - - - - - - - -
+085/121	NA	NA	-
 085/123	bold	3	b o l d -
 085/125	glei	1	g - l ei -
 085/127	glei	1	g - l ei -
@@ -4618,7 +4618,7 @@
 086/151	glei	1	g - l ei -
 086/175	wlenks	NA	w l e n k s - - -
 086/197	gleich	1	g - l ei ch
-086/199	NA	NA	- - - - - - - - -
+086/199	NA	NA	-
 087/033	glich	1	g - l i ch
 087/035	glich	1	g - l i ch
 087/037	glich	1	g - l i ch
@@ -4672,7 +4672,7 @@
 087/137	glei	1	g - l ei -
 087/139	glei	1	g - l ei -
 087/141	glei	1	g - l ei -
-087/143	NA	NA	- - - - - - - - -
+087/143	NA	NA	-
 087/145	glei	1	g - l ei -
 087/147	glei	1	g - l ei -
 087/149	glei	1	g - l ei -
@@ -4717,7 +4717,7 @@
 088/109	glei	1	g - l ei -
 088/113	glei	1	g - l ei -
 088/115	glei	1	g - l ei -
-088/117	NA	NA	- - - - - - - - -
+088/117	NA	NA	-
 088/121	glei	1	g - l ei -
 088/123	glei	1	g - l ei -
 088/127	glei	1	g - l ei -
@@ -4843,7 +4843,7 @@
 090/141	glei	1	g - l ei -
 090/143	glä	1	g - l ä -
 090/145	glei	1	g - l ei -
-090/147	NA	NA	- - - - - - - - -
+090/147	NA	NA	-
 090/149	glei	1	g - l ei -
 090/151	glai	1	g - l ai -
 091/035	glie	1	g - l ie -
@@ -4885,7 +4885,7 @@
 091/109	glei	1	g - l ei -
 091/111	glei	1	g - l ei -
 091/113	glei	1	g - l ei -
-091/115	NA	NA	- - - - - - - - -
+091/115	NA	NA	-
 091/117	glei	1	g - l ei -
 091/119	glei	1	g - l ei -
 091/121	glei	1	g - l ei -
@@ -4948,7 +4948,7 @@
 092/117	glei	1	g - l ei -
 092/119	glei	1	g - l ei -
 092/121	glei	1	g - l ei -
-092/123	NA	NA	- - - - - - - - -
+092/123	NA	NA	-
 092/125	glei	1	g - l ei -
 092/127	glei	1	g - l ei -
 092/129	glei	1	g - l ei -
@@ -4977,7 +4977,7 @@
 093/057	glei	1	g - l ei -
 093/059	glei	1	g - l ei -
 093/061	glei	1	g - l ei -
-093/063	NA	NA	- - - - - - - - -
+093/063	NA	NA	-
 093/065	glei	1	g - l ei -
 093/067	glei	1	g - l ei -
 093/069	glei	1	g - l ei -
@@ -4990,7 +4990,7 @@
 093/083	gei	1	g - - ei -
 093/085	glei	1	g - l ei -
 093/087	glei	1	g - l ei -
-093/089	NA	NA	- - - - - - - - -
+093/089	NA	NA	-
 093/091	glei	1	g - l ei -
 093/093	glei	1	g - l ei -
 093/095	glei	1	g - l ei -
@@ -4999,7 +4999,7 @@
 093/101	glei	1	g - l ei -
 093/103	glei	1	g - l ei -
 093/105	glei	1	g - l ei -
-093/109	NA	NA	- - - - - - - - -
+093/109	NA	NA	-
 093/111	glei	1	g - l ei -
 093/113	glei	1	g - l ei -
 093/115	glei	1	g - l ei -
@@ -5074,7 +5074,7 @@
 094/133	glei	1	g - l ei -
 094/135	glei	1	g - l ei -
 094/137	glei	1	g - l ei -
-094/139	NA	NA	- - - - - - - - -
+094/139	NA	NA	-
 094/141	glei	1	g - l ei -
 094/143	glei	1	g - l ei -
 094/145	glei	1	g - l ei -
@@ -5123,7 +5123,7 @@
 095/107	glei	1	g - l ei -
 095/109	glei	1	g - l ei -
 095/111	glei	1	g - l ei -
-095/113	NA	NA	- - - - - - - - -
+095/113	NA	NA	-
 095/115	glei	1	g - l ei -
 095/117	glei	1	g - l ei -
 095/119	glei	1	g - l ei -
@@ -5170,7 +5170,7 @@
 096/083	gei	1	g - - ei -
 096/085	gei	1	g - - ei -
 096/087	glei	1	g - l ei -
-096/089	NA	NA	- - - - - - - - -
+096/089	NA	NA	-
 096/091	glei	1	g - l ei -
 096/093	glei	1	g - l ei -
 096/095	gei	1	g - - ei -
@@ -5179,12 +5179,12 @@
 096/101	glei	1	g - l ei -
 096/103	glei	1	g - l ei -
 096/105	glei	1	g - l ei -
-096/107	NA	NA	- - - - - - - - -
+096/107	NA	NA	-
 096/109	glei	1	g - l ei -
 096/111	glei	1	g - l ei -
 096/113	glei	1	g - l ei -
 096/115	glei	1	g - l ei -
-096/117	NA	NA	- - - - - - - - -
+096/117	NA	NA	-
 096/119	glai	1	g - l ai -
 096/121	glei	1	g - l ei -
 096/123	glai	1	g - l ai -
@@ -5192,7 +5192,7 @@
 096/129	glei	1	g - l ei -
 096/131	glei	1	g - l ei -
 096/135	glei	1	g - l ei -
-096/137	NA	NA	- - - - - - - - -
+096/137	NA	NA	-
 096/139	glei	1	g - l ei -
 096/141	glei	1	g - l ei -
 096/143	glei	1	g - l ei -
@@ -5225,7 +5225,7 @@
 097/073	glei	1	g - l ei -
 097/075	glei	1	g - l ei -
 097/077	glei	1	g - l ei -
-097/079	NA	NA	- - - - - - - - -
+097/079	NA	NA	-
 097/081	glei	1	g - l ei -
 097/083	glei	1	g - l ei -
 097/085	glei	1	g - l ei -
@@ -5238,9 +5238,9 @@
 097/099	glei	1	g - l ei -
 097/103	glei	1	g - l ei -
 097/105	glei	1	g - l ei -
-097/107	NA	NA	- - - - - - - - -
+097/107	NA	NA	-
 097/109	glei	1	g - l ei -
-097/113	NA	NA	- - - - - - - - -
+097/113	NA	NA	-
 097/125	glei	1	g - l ei -
 097/131	glei	1	g - l ei -
 097/133	glei	1	g - l ei -
@@ -5386,7 +5386,7 @@
 100/125	glei	1	g - l ei -
 100/127	glei	1	g - l ei -
 100/129	glei	1	g - l ei -
-100/133	NA	NA	- - - - - - - - -
+100/133	NA	NA	-
 100/135	glei	1	g - l ei -
 100/141	glei	1	g - l ei -
 100/143	glei	1	g - l ei -
@@ -5419,7 +5419,7 @@
 101/097	glei	1	g - l ei -
 101/099	glei	1	g - l ei -
 101/101	glei	1	g - l ei -
-101/103	NA	NA	- - - - - - - - -
+101/103	NA	NA	-
 101/107	glei	1	g - l ei -
 101/109	glei	1	g - l ei -
 101/113	glei	1	g - l ei -
@@ -5675,7 +5675,7 @@
 107/085	gschwind	4	g - sch w i n d
 107/087	glei	1	g - l ei -
 107/089	gschwint	4	g - sch w i n t
-107/091	NA	NA	- - - - - - - - -
+107/091	NA	NA	-
 107/097	ball	3	b a ll - -
 107/099	gschwind	4	g - sch w i n d
 107/103	gschwint	4	g - sch w i n t
@@ -5714,7 +5714,7 @@
 108/091	glei	1	g - l ei -
 108/099	gschwind	4	g - sch w i n d
 108/101	glei	1	g - l ei -
-108/103	NA	NA	- - - - - - - - -
+108/103	NA	NA	-
 108/105	bold	3	b o l d -
 108/109	glei	1	g - l ei -
 108/111	glei	1	g - l ei -
@@ -5741,7 +5741,7 @@
 109/049	grad	NA	g r a d - - - - -
 109/053	gly	1	g - l y -
 109/061	grad	NA	g r a d - - - - -
-109/063	NA	NA	- - - - - - - - -
+109/063	NA	NA	-
 109/065	bald	3	b a l d -
 109/067	grad	NA	g r a d - - - - -
 109/075	glei	1	g - l ei -
@@ -5770,7 +5770,7 @@
 109/131	glei	1	g - l ei -
 109/133	glei	1	g - l ei -
 109/135	glei	1	g - l ei -
-109/137	NA	NA	- - - - - - - - -
+109/137	NA	NA	-
 109/139	glei	1	g - l ei -
 110/035	grat	NA	g r a t - - - - -
 110/039	gly	1	g - l y -
@@ -5789,7 +5789,7 @@
 110/087	gschwig	4	g - sch w i g -
 110/089	lei	1	- - l ei -
 110/091	lai	1	- - l ai -
-110/093	NA	NA	- - - - - - - - -
+110/093	NA	NA	-
 110/095	glei	1	g - l ei -
 110/097	glei	1	g - l ei -
 110/099	glei	1	g - l ei -
@@ -5813,17 +5813,17 @@
 111/035	gli	1	g - l i -
 111/037	blotzlich	NA	b l o t z l i ch -
 111/039	gli	1	g - l i -
-111/041	NA	NA	- - - - - - - - -
+111/041	NA	NA	-
 111/043	grad	NA	g r a d - - - - -
 111/045	grad	NA	g r a d - - - - -
 111/059	krad	NA	k r a d - - - - -
 111/073	fling	NA	f l i ng - - - - -
 111/075	gschwing	4	g - sch w i ng -
 111/077	gschwing	4	g - sch w i ng -
-111/079	NA	NA	- - - - - - - - -
-111/081	NA	NA	- - - - - - - - -
+111/079	NA	NA	-
+111/081	NA	NA	-
 111/083	glei	1	g - l ei -
-111/087	NA	NA	- - - - - - - - -
+111/087	NA	NA	-
 111/089	poll	3	p o ll - -
 111/105	glei	1	g - l ei -
 111/107	glei	1	g - l ei -
@@ -5837,13 +5837,13 @@
 111/123	glei	1	g - l ei -
 111/125	glei	1	g - l ei -
 112/037	glich	1	g - l i ch
-112/039	NA	NA	- - - - - - - - -
+112/039	NA	NA	-
 112/041	angehnds	NA	a ng eh n d s - - -
 112/043	pletzli	NA	p l e t z l i - -
 112/047	sofort	NA	s o f o r t - - -
 112/059	krad	NA	k r a d - - - - -
 112/061	krat	NA	k r a t - - - - -
-112/063	NA	NA	- - - - - - - - -
+112/063	NA	NA	-
 112/075	bal	3	b a l - -
 112/081	glei	1	g - l ei -
 112/083	glei	1	g - l ei -
@@ -5878,12 +5878,12 @@
 117/043	glich	1	g - l i ch
 117/045	bald	3	b a l d -
 118/041	glich	1	g - l i ch
-119/083	NA	NA	- - - - - - - - -
+119/083	NA	NA	-
 120/085	subido	NA	s u b i d o - - -
 121/127	wurt	2	w u r t -
 122/127	wuert	2	w ue r t -
 122/129	wrt	2	w - r t -
-123/081	NA	NA	- - - - - - - - -
+123/081	NA	NA	-
 123/123	wurt	2	w u r t -
 123/125	wurt	2	w u r t -
 123/127	gleich	1	g - l ei ch

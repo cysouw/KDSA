@@ -1686,7 +1686,7 @@
 038/115	foar	1	f oa r
 038/117	fohr	1	f oh r
 038/119	foahr	1	f oah r
-038/121	NA	NA	- - - - - -
+038/121	NA	NA	-
 038/123	foahr	1	f oah r
 038/125	foar	1	f oa r
 038/127	foahr	1	f oah r
@@ -2015,7 +2015,7 @@
 044/047	föhr	1	f öh r
 044/049	föhr	1	f öh r
 044/051	foier	1	f oie r
-044/053	NA	NA	- - - - - -
+044/053	NA	NA	-
 044/055	foier	1	f oie r
 044/057	feuer	1	f eue r
 044/059	feuher	1	f euhe r
@@ -2065,7 +2065,7 @@
 044/151	foahr	1	f oah r
 044/153	fohr	1	f oh r
 045/033	föhr	1	f öh r
-045/035	NA	NA	- - - - - -
+045/035	NA	NA	-
 045/037	för	1	f ö r
 045/039	föhr	1	f öh r
 045/041	föher	1	f öhe r
@@ -2122,7 +2122,7 @@
 045/143	for	1	f o r
 045/145	fohr	1	f oh r
 045/155	foahr	1	f oah r
-046/031	NA	NA	- - - - - -
+046/031	NA	NA	-
 046/033	föh	1	f öh -
 046/035	föh	1	f öh -
 046/037	föhr	1	f öh r
@@ -5879,11 +5879,11 @@
 117/045	fahr	1	f ah r
 118/041	fahr	1	f ah r
 119/083	gannt	2	g a nn t - -
-120/085	NA	NA	- - - - - -
+120/085	NA	NA	-
 121/127	wouhr	1	w ouh r
 122/127	wur	1	w u r
 122/129	wuhr	1	w uh r
-123/081	NA	NA	- - - - - -
+123/081	NA	NA	-
 123/123	fouhr	1	f ouh r
 123/125	wur	1	w u r
 123/127	fur	1	f u r

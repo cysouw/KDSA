@@ -210,7 +210,7 @@
 016/065	kind	1	k i n d -
 016/067	kind	1	k i n d -
 016/081	kind	1	k i n d -
-016/083	NA	NA	- - - - - - - -
+016/083	NA	NA	-
 016/105	kind	1	k i n d -
 016/107	kind	1	k i n d -
 016/109	kind	1	k i n d -
@@ -1579,7 +1579,7 @@
 036/169	kind	1	k i n d -
 036/171	kind	1	k i n d -
 037/033	kind	1	k i n d -
-037/035	NA	NA	- - - - - - - -
+037/035	NA	NA	-
 037/037	kind	1	k i n d -
 037/039	kind	1	k i n d -
 037/041	kind	1	k i n d -
@@ -1876,7 +1876,7 @@
 041/133	kind	1	k i n d -
 041/135	kind	1	k i n d -
 041/139	kind	1	k i n d -
-041/141	NA	NA	- - - - - - - -
+041/141	NA	NA	-
 041/145	kind	1	k i n d -
 041/147	kind	1	k i n d -
 041/153	kind	1	k i n d -
@@ -3028,7 +3028,7 @@
 059/099	känd	1	k ä n d -
 059/101	kind	1	k i n d -
 059/103	kind	1	k i n d -
-059/105	NA	NA	- - - - - - - -
+059/105	NA	NA	-
 059/107	kind	1	k i n d -
 059/109	kind	1	k i n d -
 059/111	kind	1	k i n d -
@@ -3183,7 +3183,7 @@
 061/121	kind	1	k i n d -
 061/123	kind	1	k i n d -
 061/125	kind	1	k i n d -
-061/127	NA	NA	- - - - - - - -
+061/127	NA	NA	-
 061/129	kind	1	k i n d -
 061/131	kind	1	k i n d -
 061/133	kend	1	k e n d -
@@ -3246,7 +3246,7 @@
 062/105	kind	1	k i n d -
 062/107	kind	1	k i n d -
 062/109	kind	1	k i n d -
-062/111	NA	NA	- - - - - - - -
+062/111	NA	NA	-
 062/113	kind	1	k i n d -
 062/115	junga	NA	j u ng a - - - -
 062/117	kind	1	k i n d -
@@ -3453,7 +3453,7 @@
 065/107	kind	1	k i n d -
 065/109	kind	1	k i n d -
 065/111	kind	1	k i n d -
-065/113	NA	NA	- - - - - - - -
+065/113	NA	NA	-
 065/115	kind	1	k i n d -
 065/121	kind	1	k i n d -
 065/123	kind	1	k i n d -
@@ -3632,7 +3632,7 @@
 068/103	kind	1	k i n d -
 068/105	kinn	1	k i nn - -
 068/107	kind	1	k i n d -
-068/109	NA	NA	- - - - - - - -
+068/109	NA	NA	-
 068/111	kind	1	k i n d -
 068/145	kend	1	k e n d -
 068/147	kend	1	k e n d -
@@ -3691,12 +3691,12 @@
 069/109	kind	1	k i n d -
 069/111	kind	1	k i n d -
 069/147	kend	1	k e n d -
-069/149	NA	NA	- - - - - - - -
+069/149	NA	NA	-
 069/151	kend	1	k e n d -
 069/153	kend	1	k e n d -
 069/157	kend	1	k e n d -
 069/159	kend	1	k e n d -
-069/161	NA	NA	- - - - - - - -
+069/161	NA	NA	-
 069/163	kend	1	k e n d -
 069/165	kind	1	k i n d -
 070/019	kaant	1	k aa n t -
@@ -4162,7 +4162,7 @@
 078/073	kind	1	k i n d -
 078/075	kind	1	k i n d -
 078/077	kind	1	k i n d -
-078/079	NA	NA	- - - - - - - -
+078/079	NA	NA	-
 078/081	kind	1	k i n d -
 078/083	kiid	1	k ii - d -
 078/085	kind	1	k i n d -
@@ -4429,7 +4429,7 @@
 083/133	kind	1	k i n d -
 083/135	kind	1	k i n d -
 083/139	kind	1	k i n d -
-083/143	NA	NA	- - - - - - - -
+083/143	NA	NA	-
 083/145	kind	1	k i n d -
 083/147	kind	1	k i n d -
 083/149	kind	1	k i n d -
@@ -4646,7 +4646,7 @@
 087/083	kind	1	k i n d -
 087/085	kind	1	k i n d -
 087/087	kind	1	k i n d -
-087/089	NA	NA	- - - - - - - -
+087/089	NA	NA	-
 087/091	kind	1	k i n d -
 087/093	kind	1	k i n d -
 087/095	kind	1	k i n d -
@@ -4827,7 +4827,7 @@
 090/107	kind	1	k i n d -
 090/109	kind	1	k i n d -
 090/111	ki	1	k i - - -
-090/113	NA	NA	- - - - - - - -
+090/113	NA	NA	-
 090/115	kind	1	k i n d -
 090/119	kind	1	k i n d -
 090/121	kind	1	k i n d -
@@ -5331,7 +5331,7 @@
 099/095	kind	1	k i n d -
 099/099	kind	1	k i n d -
 099/101	kind	1	k i n d -
-099/103	NA	NA	- - - - - - - -
+099/103	NA	NA	-
 099/105	kind	1	k i n d -
 099/107	kind	1	k i n d -
 099/109	kind	1	k i n d -
@@ -5385,7 +5385,7 @@
 100/121	kind	1	k i n d -
 100/125	kind	1	k i n d -
 100/127	kind	1	k i n d -
-100/129	NA	NA	- - - - - - - -
+100/129	NA	NA	-
 100/133	kloani	2	k l oa n i - - -
 100/135	kend	1	k e n d -
 100/141	kind	1	k i n d -
@@ -5447,7 +5447,7 @@
 102/055	chind	1	ch i n d -
 102/057	chind	1	ch i n d -
 102/059	chind	1	ch i n d -
-102/061	NA	NA	- - - - - - - -
+102/061	NA	NA	-
 102/063	chind	1	ch i n d -
 102/065	kind	1	k i n d -
 102/067	kind	1	k i n d -
@@ -5493,7 +5493,7 @@
 103/063	chind	1	ch i n d -
 103/065	kind	1	k i n d -
 103/067	gog	NA	g o g - - - - -
-103/069	NA	NA	- - - - - - - -
+103/069	NA	NA	-
 103/071	kind	1	k i n d -
 103/073	kind	1	k i n d -
 103/075	kind	1	k i n d -
@@ -5557,7 +5557,7 @@
 104/119	kin	1	k i n - -
 104/121	kind	1	k i n d -
 104/123	boubba	3	b ou bb a - - - -
-104/125	NA	NA	- - - - - - - -
+104/125	NA	NA	-
 104/127	kin	1	k i n - -
 104/131	kin	1	k i n - -
 104/133	kin	1	k i n - -
@@ -5593,7 +5593,7 @@
 105/077	kind	1	k i n d -
 105/079	kind	1	k i n d -
 105/081	kind	1	k i n d -
-105/085	NA	NA	- - - - - - - -
+105/085	NA	NA	-
 105/087	kind	1	k i n d -
 105/089	kind	1	k i n d -
 105/103	kind	1	k i n d -
@@ -5683,11 +5683,11 @@
 107/107	kind	1	k i n d -
 107/111	kind	1	k i n d -
 107/119	kind	1	k i n d -
-107/121	NA	NA	- - - - - - - -
+107/121	NA	NA	-
 107/123	kind	1	k i n d -
 107/125	kin	1	k i n - -
 107/127	kind	1	k i n d -
-107/129	NA	NA	- - - - - - - -
+107/129	NA	NA	-
 107/131	kin	1	k i n - -
 107/133	kind	1	k i n d -
 107/135	kin	1	k i n - -
@@ -5753,10 +5753,10 @@
 109/095	gitschle	1	g i - t schle
 109/097	kind	1	k i n d -
 109/099	kind	1	k i n d -
-109/101	NA	NA	- - - - - - - -
+109/101	NA	NA	-
 109/103	kind	1	k i n d -
 109/107	kind	1	k i n d -
-109/109	NA	NA	- - - - - - - -
+109/109	NA	NA	-
 109/111	kind	1	k i n d -
 109/113	kind	1	k i n d -
 109/115	kind	1	k i n d -
@@ -5812,7 +5812,7 @@
 110/139	kinn	1	k i nn - -
 111/035	chend	1	ch e n d -
 111/037	chind	1	ch i n d -
-111/039	NA	NA	- - - - - - - -
+111/039	NA	NA	-
 111/041	chind	1	ch i n d -
 111/043	chind	1	ch i n d -
 111/045	chind	1	ch i n d -

@@ -1363,7 +1363,7 @@
 033/127	hus	1	h u s
 033/129	hus	1	h u s
 033/131	hus	1	h u s
-033/133	NA	NA	- - - - -
+033/133	NA	NA	-
 033/135	huus	1	h uu s
 033/137	hus	1	h u s
 033/139	hus	1	h u s
@@ -2320,7 +2320,7 @@
 049/051	hius	1	h iu s
 049/053	hius	1	h iu s
 049/055	hius	1	h iu s
-049/057	NA	NA	- - - - -
+049/057	NA	NA	-
 049/059	hius	1	h iu s
 049/061	hius	1	h iu s
 049/063	hiius	1	h iiu s
@@ -3070,7 +3070,7 @@
 060/037	huhs	1	h uh s
 060/039	huss	1	h u ss
 060/041	hous	1	h ou s
-060/043	NA	NA	- - - - -
+060/043	NA	NA	-
 060/045	hus	1	h u s
 060/047	haus	1	h au s
 060/049	haus	1	h au s
@@ -3251,7 +3251,7 @@
 062/115	haus	1	h au s
 062/117	haus	1	h au s
 062/119	haus	1	h au s
-062/121	NA	NA	- - - - -
+062/121	NA	NA	-
 062/123	haus	1	h au s
 062/125	haus	1	h au s
 062/127	haus	1	h au s
@@ -3390,7 +3390,7 @@
 064/113	heis	1	h ei s
 064/115	haus	1	h au s
 064/117	haus	1	h au s
-064/119	NA	NA	- - - - -
+064/119	NA	NA	-
 064/121	haus	1	h au s
 064/123	haus	1	h au s
 064/125	haus	1	h au s
@@ -3636,13 +3636,13 @@
 068/111	haus	1	h au s
 068/145	haus	1	h au s
 068/147	haus	1	h au s
-068/149	NA	NA	- - - - -
+068/149	NA	NA	-
 068/151	haus	1	h au s
 068/153	haus	1	h au s
 068/155	haus	1	h au s
 068/157	haus	1	h au s
 068/159	haus	1	h au s
-068/161	NA	NA	- - - - -
+068/161	NA	NA	-
 068/165	haus	1	h au s
 069/019	hauss	1	h au ss
 069/023	haus	1	h au s
@@ -4221,7 +4221,7 @@
 079/103	haus	1	h au s
 079/105	hauss	1	h au ss
 079/107	haus	1	h au s
-079/133	NA	NA	- - - - -
+079/133	NA	NA	-
 079/135	haus	1	h au s
 079/193	haus	1	h au s
 079/195	hais	1	h ai s
@@ -4237,9 +4237,9 @@
 080/041	haus	1	h au s
 080/043	huus	1	h uu s
 080/045	haus	1	h au s
-080/047	NA	NA	- - - - -
+080/047	NA	NA	-
 080/049	haus	1	h au s
-080/051	NA	NA	- - - - -
+080/051	NA	NA	-
 080/053	haus	1	h au s
 080/055	haus	1	h au s
 080/057	haus	1	h au s
@@ -4268,7 +4268,7 @@
 080/103	haus	1	h au s
 080/105	haus	1	h au s
 080/107	haus	1	h au s
-080/109	NA	NA	- - - - -
+080/109	NA	NA	-
 080/127	haus	1	h au s
 080/147	haus	1	h au s
 080/151	haus	1	h au s
@@ -4318,7 +4318,7 @@
 081/107	haus	1	h au s
 081/109	haus	1	h au s
 081/111	haus	1	h au s
-081/127	NA	NA	- - - - -
+081/127	NA	NA	-
 081/129	haus	1	h au s
 081/133	haus	1	h au s
 081/147	haus	1	h au s
@@ -4370,7 +4370,7 @@
 082/113	haus	1	h au s
 082/117	heis	1	h ei s
 082/129	haus	1	h au s
-082/131	NA	NA	- - - - -
+082/131	NA	NA	-
 082/133	haus	1	h au s
 082/135	haus	1	h au s
 082/145	haus	1	h au s
@@ -4428,7 +4428,7 @@
 083/131	haus	1	h au s
 083/133	haus	1	h au s
 083/135	haus	1	h au s
-083/139	NA	NA	- - - - -
+083/139	NA	NA	-
 083/143	haus	1	h au s
 083/145	haus	1	h au s
 083/147	haus	1	h au s
@@ -4481,13 +4481,13 @@
 084/117	haus	1	h au s
 084/119	haus	1	h au s
 084/129	haus	1	h au s
-084/131	NA	NA	- - - - -
+084/131	NA	NA	-
 084/133	haus	1	h au s
 084/135	haus	1	h au s
 084/137	haus	1	h au s
 084/139	haus	1	h au s
 084/141	haus	1	h au s
-084/143	NA	NA	- - - - -
+084/143	NA	NA	-
 084/145	haus	1	h au s
 084/147	haus	1	h au s
 084/149	haus	1	h au s
@@ -4545,8 +4545,8 @@
 085/129	haus	1	h au s
 085/131	heis	1	h ei s
 085/133	haus	1	h au s
-085/135	NA	NA	- - - - -
-085/137	NA	NA	- - - - -
+085/135	NA	NA	-
+085/137	NA	NA	-
 085/139	haus	1	h au s
 085/141	haus	1	h au s
 085/143	heis	1	h ei s
@@ -4671,9 +4671,9 @@
 087/135	haus	1	h au s
 087/137	haus	1	h au s
 087/139	haus	1	h au s
-087/141	NA	NA	- - - - -
+087/141	NA	NA	-
 087/143	haus	1	h au s
-087/145	NA	NA	- - - - -
+087/145	NA	NA	-
 087/147	haus	1	h au s
 087/149	haus	1	h au s
 087/151	haus	1	h au s
@@ -4785,7 +4785,7 @@
 089/139	haus	1	h au s
 089/141	haus	1	h au s
 089/143	haus	1	h au s
-089/145	NA	NA	- - - - -
+089/145	NA	NA	-
 089/147	haus	1	h au s
 089/149	haus	1	h au s
 090/035	hüss	1	h ü ss
@@ -5062,7 +5062,7 @@
 094/109	haus	1	h au s
 094/111	haus	1	h au s
 094/113	haus	1	h au s
-094/115	NA	NA	- - - - -
+094/115	NA	NA	-
 094/117	haus	1	h au s
 094/119	haus	1	h au s
 094/121	haus	1	h au s
@@ -5137,7 +5137,7 @@
 095/141	haus	1	h au s
 095/143	haus	1	h au s
 095/145	haus	1	h au s
-095/147	NA	NA	- - - - -
+095/147	NA	NA	-
 095/149	haus	1	h au s
 095/151	haus	1	h au s
 095/153	haus	1	h au s
@@ -5197,7 +5197,7 @@
 096/141	haus	1	h au s
 096/143	gebei	2	g e b ei -
 096/145	haus	1	h au s
-096/147	NA	NA	- - - - -
+096/147	NA	NA	-
 096/151	haus	1	h au s
 096/153	haus	1	h au s
 096/155	haus	1	h au s
@@ -5248,7 +5248,7 @@
 097/141	haus	1	h au s
 097/143	haus	1	h au s
 097/145	haus	1	h au s
-097/149	NA	NA	- - - - -
+097/149	NA	NA	-
 097/153	haus	1	h au s
 098/033	hüs	1	h ü s
 098/035	hüss	1	h ü ss
@@ -5353,7 +5353,7 @@
 100/039	huus	1	h uu s
 100/041	hus	1	h u s
 100/043	huus	1	h uu s
-100/045	NA	NA	- - - - -
+100/045	NA	NA	-
 100/049	huus	1	h uu s
 100/051	huus	1	h uu s
 100/053	huus	1	h uu s

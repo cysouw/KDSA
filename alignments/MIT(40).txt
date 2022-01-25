@@ -260,7 +260,7 @@
 017/109	mit	1	m i t
 017/145	mit	1	m i t
 017/147	mit	1	m i t
-017/149	NA	NA	- - -
+017/149	NA	NA	-
 017/151	mit	1	m i t
 017/153	mit	1	m i t
 017/155	mit	1	m i t
@@ -650,7 +650,7 @@
 023/129	mi	1	m i -
 023/131	mit	1	m i t
 023/133	mit	1	m i t
-023/135	NA	NA	- - -
+023/135	NA	NA	-
 023/137	mit	1	m i t
 023/139	mit	1	m i t
 023/141	mit	1	m i t
@@ -952,7 +952,7 @@
 027/177	mett	1	m e tt
 027/179	met	1	m e t
 027/181	met	1	m e t
-027/183	NA	NA	- - -
+027/183	NA	NA	-
 027/185	met	1	m e t
 028/033	mit	1	m i t
 028/035	mit	1	m i t
@@ -1000,7 +1000,7 @@
 028/121	mit	1	m i t
 028/123	mit	1	m i t
 028/125	mit	1	m i t
-028/127	NA	NA	- - -
+028/127	NA	NA	-
 028/129	mit	1	m i t
 028/131	mit	1	m i t
 028/133	mit	1	m i t
@@ -1072,7 +1072,7 @@
 029/121	mit	1	m i t
 029/123	mit	1	m i t
 029/125	mit	1	m i t
-029/127	NA	NA	- - -
+029/127	NA	NA	-
 029/129	mit	1	m i t
 029/131	mit	1	m i t
 029/133	mit	1	m i t
@@ -1099,7 +1099,7 @@
 029/175	mit	1	m i t
 029/177	met	1	m e t
 029/181	mit	1	m i t
-030/033	NA	NA	- - -
+030/033	NA	NA	-
 030/035	mit	1	m i t
 030/037	mit	1	m i t
 030/039	mit	1	m i t
@@ -1307,7 +1307,7 @@
 032/163	mit	1	m i t
 032/167	met	1	m e t
 032/169	mit	1	m i t
-032/171	NA	NA	- - -
+032/171	NA	NA	-
 032/173	mit	1	m i t
 032/175	met	1	m e t
 032/177	met	1	m e t
@@ -2065,7 +2065,7 @@
 044/151	mäit	1	m äi t
 044/153	mit	1	m i t
 045/033	met	1	m e t
-045/035	NA	NA	- - -
+045/035	NA	NA	-
 045/037	met	1	m e t
 045/039	met	1	m e t
 045/041	mit	1	m i t
@@ -2122,7 +2122,7 @@
 045/143	mit	1	m i t
 045/145	mit	1	m i t
 045/155	mit	1	m i t
-046/031	NA	NA	- - -
+046/031	NA	NA	-
 046/033	mett	1	m e tt
 046/035	met	1	m e t
 046/037	met	1	m e t
@@ -2379,7 +2379,7 @@
 050/041	met	1	m e t
 050/043	mit	1	m i t
 050/047	met	1	m e t
-050/049	NA	NA	- - -
+050/049	NA	NA	-
 050/051	mitt	1	m i tt
 050/053	mit	1	m i t
 050/055	mit	1	m i t
@@ -2600,7 +2600,7 @@
 053/079	met	1	m e t
 053/081	met	1	m e t
 053/083	met	1	m e t
-053/085	NA	NA	- - -
+053/085	NA	NA	-
 053/087	mett	1	m e tt
 053/089	mett	1	m e tt
 053/091	mit	1	m i t
@@ -2725,7 +2725,7 @@
 055/057	miät	1	m iä t
 055/059	met	1	m e t
 055/061	mit	1	m i t
-055/063	NA	NA	- - -
+055/063	NA	NA	-
 055/065	met	1	m e t
 055/067	met	1	m e t
 055/069	met	1	m e t
@@ -3306,7 +3306,7 @@
 063/083	mätt	1	m ä tt
 063/085	mit	1	m i t
 063/087	mit	1	m i t
-063/089	NA	NA	- - -
+063/089	NA	NA	-
 063/091	mit	1	m i t
 063/093	mitt	1	m i tt
 063/095	mit	1	m i t
@@ -3830,7 +3830,7 @@
 072/047	met	1	m e t
 072/049	mit	1	m i t
 072/051	midd	1	m i dd
-072/053	NA	NA	- - -
+072/053	NA	NA	-
 072/055	mit	1	m i t
 072/057	mit	1	m i t
 072/059	mit	1	m i t
@@ -3953,7 +3953,7 @@
 074/061	mit	1	m i t
 074/063	miit	1	m ii t
 074/065	mit	1	m i t
-074/067	NA	NA	- - -
+074/067	NA	NA	-
 074/069	mit	1	m i t
 074/071	mit	1	m i t
 074/073	mit	1	m i t
@@ -3979,7 +3979,7 @@
 074/147	mit	1	m i t
 074/149	mit	1	m i t
 074/153	mit	1	m i t
-074/155	NA	NA	- - -
+074/155	NA	NA	-
 074/157	met	1	m e t
 074/159	met	1	m e t
 074/161	mitt	1	m i tt
@@ -4061,7 +4061,7 @@
 076/057	mit	1	m i t
 076/059	mit	1	m i t
 076/061	mit	1	m i t
-076/063	NA	NA	- - -
+076/063	NA	NA	-
 076/065	mit	1	m i t
 076/067	mid	1	m i d
 076/069	mit	1	m i t
@@ -4184,7 +4184,7 @@
 079/027	met	1	m e t
 079/029	met	1	m e t
 079/031	mit	1	m i t
-079/033	NA	NA	- - -
+079/033	NA	NA	-
 079/035	mit	1	m i t
 079/037	met	1	m e t
 079/039	met	1	m e t
@@ -4209,7 +4209,7 @@
 079/079	mit	1	m i t
 079/081	mit	1	m i t
 079/083	mit	1	m i t
-079/085	NA	NA	- - -
+079/085	NA	NA	-
 079/087	mit	1	m i t
 079/089	mit	1	m i t
 079/091	mit	1	m i t
@@ -5158,7 +5158,7 @@
 096/057	mit	1	m i t
 096/059	mit	1	m i t
 096/061	mit	1	m i t
-096/063	NA	NA	- - -
+096/063	NA	NA	-
 096/065	mit	1	m i t
 096/067	mit	1	m i t
 096/069	mit	1	m i t
@@ -5539,7 +5539,7 @@
 104/061	mit	1	m i t
 104/063	mit	1	m i t
 104/065	mit	1	m i t
-104/067	NA	NA	- - -
+104/067	NA	NA	-
 104/071	mitt	1	m i tt
 104/075	mit	1	m i t
 104/077	mit	1	m i t
@@ -5799,7 +5799,7 @@
 110/111	mit	1	m i t
 110/113	mit	1	m i t
 110/115	mit	1	m i t
-110/117	NA	NA	- - -
+110/117	NA	NA	-
 110/119	mit	1	m i t
 110/121	mit	1	m i t
 110/125	mit	1	m i t
@@ -5829,7 +5829,7 @@
 111/107	mit	1	m i t
 111/109	mit	1	m i t
 111/111	mit	1	m i t
-111/113	NA	NA	- - -
+111/113	NA	NA	-
 111/115	mit	1	m i t
 111/117	mit	1	m i t
 111/119	mit	1	m i t

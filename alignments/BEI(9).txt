@@ -768,7 +768,7 @@ locations	strings	cognateID	alignments
 025/069	bi	1	b i -
 025/071	bi	1	b i -
 025/073	bi	1	b i -
-025/075	NA	NA	- - -
+025/075	NA	NA	-
 025/077	bi	1	b i -
 025/079	bi	1	b i -
 025/081	bi	1	b i -
@@ -1104,7 +1104,7 @@ locations	strings	cognateID	alignments
 030/037	bi	1	b i -
 030/039	bi	1	b i -
 030/041	bie	1	b ie -
-030/043	NA	NA	- - -
+030/043	NA	NA	-
 030/045	bi	1	b i -
 030/047	bi	1	b i -
 030/049	bi	1	b i -
@@ -1263,7 +1263,7 @@ locations	strings	cognateID	alignments
 032/069	bi	1	b i -
 032/071	bi	1	b i -
 032/073	bi	1	b i -
-032/075	NA	NA	- - -
+032/075	NA	NA	-
 032/077	bi	1	b i -
 032/079	bi	1	b i -
 032/081	bi	1	b i -
@@ -1413,7 +1413,7 @@ locations	strings	cognateID	alignments
 034/089	bi	1	b i -
 034/091	bie	1	b ie -
 034/093	bi	1	b i -
-034/095	NA	NA	- - -
+034/095	NA	NA	-
 034/097	bie	1	b ie -
 034/099	be	1	b e -
 034/101	bie	1	b ie -
@@ -1648,7 +1648,7 @@ locations	strings	cognateID	alignments
 038/039	bi	1	b i -
 038/041	bi	1	b i -
 038/043	bi	1	b i -
-038/045	NA	NA	- - -
+038/045	NA	NA	-
 038/047	bi	1	b i -
 038/049	bi	1	b i -
 038/051	biä	1	b iä -
@@ -1992,7 +1992,7 @@ locations	strings	cognateID	alignments
 043/119	bei	1	b ei -
 043/121	bie	1	b ie -
 043/123	bei	1	b ei -
-043/125	NA	NA	- - -
+043/125	NA	NA	-
 043/127	bei	1	b ei -
 043/129	bei	1	b ei -
 043/131	bei	1	b ei -
@@ -2087,7 +2087,7 @@ locations	strings	cognateID	alignments
 045/073	bai	1	b ai -
 045/075	bei	1	b ei -
 045/077	bi	1	b i -
-045/079	NA	NA	- - -
+045/079	NA	NA	-
 045/081	bi	1	b i -
 045/083	bi	1	b i -
 045/085	bi	1	b i -
@@ -4726,7 +4726,7 @@ locations	strings	cognateID	alignments
 088/137	bei	1	b ei -
 088/139	bei	1	b ei -
 088/141	bei	1	b ei -
-088/143	NA	NA	- - -
+088/143	NA	NA	-
 088/145	bei	1	b ei -
 088/147	bei	1	b ei -
 088/149	bei	1	b ei -
@@ -4868,7 +4868,7 @@ locations	strings	cognateID	alignments
 091/073	bei	1	b ei -
 091/075	bei	1	b ei -
 091/077	bei	1	b ei -
-091/079	NA	NA	- - -
+091/079	NA	NA	-
 091/081	bei	1	b ei -
 091/083	bei	1	b ei -
 091/085	bei	1	b ei -
@@ -5158,7 +5158,7 @@ locations	strings	cognateID	alignments
 096/057	bei	1	b ei -
 096/059	bei	1	b ei -
 096/061	bi	1	b i -
-096/063	NA	NA	- - -
+096/063	NA	NA	-
 096/065	bei	1	b ei -
 096/067	bei	1	b ei -
 096/069	bei	1	b ei -
@@ -5306,7 +5306,7 @@ locations	strings	cognateID	alignments
 099/037	bi	1	b i -
 099/039	bi	1	b i -
 099/041	bi	1	b i -
-099/043	NA	NA	- - -
+099/043	NA	NA	-
 099/045	bi	1	b i -
 099/047	bi	1	b i -
 099/049	bi	1	b i -
@@ -5406,7 +5406,7 @@ locations	strings	cognateID	alignments
 101/059	bi	1	b i -
 101/061	bi	1	b i -
 101/063	bi	1	b i -
-101/065	NA	NA	- - -
+101/065	NA	NA	-
 101/067	be	1	b e -
 101/071	bi	1	b i -
 101/075	bei	1	b ei -

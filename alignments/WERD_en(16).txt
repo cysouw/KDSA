@@ -28,7 +28,7 @@
 009/211	war	1	w a r - -
 009/213	war	1	w a r - -
 009/215	war	1	w a r - -
-009/217	NA	NA	- - - - - -
+009/217	NA	NA	-
 010/195	war	1	w a r - -
 010/203	war	1	w a r - -
 010/207	war	1	w a r - -
@@ -38,16 +38,16 @@
 010/215	waar	1	w aa r - -
 010/217	war	1	w a r - -
 010/219	war	1	w a r - -
-011/049	NA	NA	- - - - - -
-011/053	NA	NA	- - - - - -
-011/055	NA	NA	- - - - - -
-011/057	NA	NA	- - - - - -
-011/059	NA	NA	- - - - - -
-011/061	NA	NA	- - - - - -
-011/063	NA	NA	- - - - - -
-011/065	NA	NA	- - - - - -
-011/067	NA	NA	- - - - - -
-011/069	NA	NA	- - - - - -
+011/049	NA	NA	-
+011/053	NA	NA	-
+011/055	NA	NA	-
+011/057	NA	NA	-
+011/059	NA	NA	-
+011/061	NA	NA	-
+011/063	NA	NA	-
+011/065	NA	NA	-
+011/067	NA	NA	-
+011/069	NA	NA	-
 011/187	war	1	w a r - -
 011/189	war	1	w a r - -
 011/191	warr	1	w a rr - -
@@ -62,18 +62,18 @@
 011/215	war	1	w a r - -
 011/217	war	1	w a r - -
 011/219	war	1	w a r - -
-012/047	NA	NA	- - - - - -
-012/049	NA	NA	- - - - - -
+012/047	NA	NA	-
+012/049	NA	NA	-
 012/051	wad	1	w a - - d
-012/053	NA	NA	- - - - - -
-012/055	NA	NA	- - - - - -
-012/057	NA	NA	- - - - - -
-012/059	NA	NA	- - - - - -
-012/061	NA	NA	- - - - - -
-012/063	NA	NA	- - - - - -
-012/065	NA	NA	- - - - - -
-012/067	NA	NA	- - - - - -
-012/069	NA	NA	- - - - - -
+012/053	NA	NA	-
+012/055	NA	NA	-
+012/057	NA	NA	-
+012/059	NA	NA	-
+012/061	NA	NA	-
+012/063	NA	NA	-
+012/065	NA	NA	-
+012/067	NA	NA	-
+012/069	NA	NA	-
 012/187	warr	1	w a rr - -
 012/189	war	1	w a r - -
 012/191	war	1	w a r - -
@@ -96,8 +96,8 @@
 013/051	wad	1	w a - - d
 013/053	waard	1	w aa r - d
 013/055	ward	1	w a r - d
-013/057	NA	NA	- - - - - -
-013/059	NA	NA	- - - - - -
+013/057	NA	NA	-
+013/059	NA	NA	-
 013/061	war	1	w a r - -
 013/063	war	1	w a r - -
 013/065	warr	1	w a rr - -
@@ -118,14 +118,14 @@
 013/207	waar	1	w aa r - -
 013/209	warr	1	w a rr - -
 013/211	war	1	w a r - -
-013/213	NA	NA	- - - - - -
+013/213	NA	NA	-
 013/215	war	1	w a r - -
 013/217	war	1	w a r - -
 013/219	war	1	w a r - -
 013/221	war	1	w a r - -
 013/223	war	1	w a r - -
 014/047	word	1	w o r - d
-014/049	NA	NA	- - - - - -
+014/049	NA	NA	-
 014/051	wurd	1	w u r - d
 014/053	war	1	w a r - -
 014/055	ward	1	w a r - d
@@ -136,7 +136,7 @@
 014/065	war	1	w a r - -
 014/067	warr	1	w a rr - -
 014/109	warr	1	w a rr - -
-014/159	NA	NA	- - - - - -
+014/159	NA	NA	-
 014/161	war	1	w a r - -
 014/163	war	1	w a r - -
 014/165	waar	1	w aa r - -
@@ -151,7 +151,7 @@
 014/199	woahr	1	w oah r - -
 014/201	war	1	w a r - -
 014/203	war	1	w a r - -
-014/205	NA	NA	- - - - - -
+014/205	NA	NA	-
 014/207	war	1	w a r - -
 014/209	wahr	1	w ah r - -
 014/211	war	1	w a r - -
@@ -226,7 +226,7 @@
 016/161	wahr	1	w ah r - -
 016/163	war	1	w a r - -
 016/165	war	1	w a r - -
-016/167	NA	NA	- - - - - -
+016/167	NA	NA	-
 016/187	war	1	w a r - -
 016/189	war	1	w a r - -
 016/191	war	1	w a r - -
@@ -266,9 +266,9 @@
 017/155	war	1	w a r - -
 017/157	war	1	w a r - -
 017/159	war	1	w a r - -
-017/161	NA	NA	- - - - - -
+017/161	NA	NA	-
 017/163	wahr	1	w ah r - -
-017/165	NA	NA	- - - - - -
+017/165	NA	NA	-
 017/169	war	1	w a r - -
 017/171	war	1	w a r - -
 017/183	war	1	w a r - -
@@ -314,7 +314,7 @@
 018/111	war	1	w a r - -
 018/143	war	1	w a r - -
 018/145	war	1	w a r - -
-018/147	NA	NA	- - - - - -
+018/147	NA	NA	-
 018/149	war	1	w a r - -
 018/151	war	1	w a r - -
 018/153	warr	1	w a rr - -
@@ -361,7 +361,7 @@
 019/077	war	1	w a r - -
 019/079	warr	1	w a rr - -
 019/081	warr	1	w a rr - -
-019/097	NA	NA	- - - - - -
+019/097	NA	NA	-
 019/099	warr	1	w a rr - -
 019/101	war	1	w a r - -
 019/103	war	1	w a r - -
@@ -373,7 +373,7 @@
 019/147	war	1	w a r - -
 019/149	war	1	w a r - -
 019/151	war	1	w a r - -
-019/153	NA	NA	- - - - - -
+019/153	NA	NA	-
 019/155	war	1	w a r - -
 019/157	war	1	w a r - -
 019/159	war	1	w a r - -
@@ -389,7 +389,7 @@
 019/179	warr	1	w a rr - -
 019/181	war	1	w a r - -
 019/183	war	1	w a r - -
-019/185	NA	NA	- - - - - -
+019/185	NA	NA	-
 019/187	war	1	w a r - -
 019/189	war	1	w a r - -
 019/191	war	1	w a r - -
@@ -423,9 +423,9 @@
 020/077	war	1	w a r - -
 020/079	war	1	w a r - -
 020/081	war	1	w a r - -
-020/095	NA	NA	- - - - - -
+020/095	NA	NA	-
 020/097	ward	1	w a r - d
-020/099	NA	NA	- - - - - -
+020/099	NA	NA	-
 020/101	waar	1	w aa r - -
 020/103	warr	1	w a rr - -
 020/105	war	1	w a r - -
@@ -451,7 +451,7 @@
 020/171	war	1	w a r - -
 020/173	woar	1	w oa r - -
 020/175	war	1	w a r - -
-020/177	NA	NA	- - - - - -
+020/177	NA	NA	-
 020/179	war	1	w a r - -
 020/181	war	1	w a r - -
 020/183	war	1	w a r - -
@@ -465,10 +465,10 @@
 020/199	war	1	w a r - -
 020/201	war	1	w a r - -
 020/203	war	1	w a r - -
-020/205	NA	NA	- - - - - -
+020/205	NA	NA	-
 020/207	war	1	w a r - -
 020/209	war	1	w a r - -
-020/211	NA	NA	- - - - - -
+020/211	NA	NA	-
 020/213	war	1	w a r - -
 020/215	war	1	w a r - -
 020/217	war	1	w a r - -
@@ -511,7 +511,7 @@
 021/147	war	1	w a r - -
 021/149	war	1	w a r - -
 021/151	war	1	w a r - -
-021/153	NA	NA	- - - - - -
+021/153	NA	NA	-
 021/155	war	1	w a r - -
 021/157	war	1	w a r - -
 021/159	war	1	w a r - -
@@ -528,7 +528,7 @@
 021/183	war	1	w a r - -
 021/185	wer	1	w e r - -
 021/187	wär	1	w ä r - -
-021/189	NA	NA	- - - - - -
+021/189	NA	NA	-
 021/191	war	1	w a r - -
 021/193	war	1	w a r - -
 021/195	war	1	w a r - -
@@ -538,7 +538,7 @@
 021/203	war	1	w a r - -
 021/205	war	1	w a r - -
 021/207	war	1	w a r - -
-021/211	NA	NA	- - - - - -
+021/211	NA	NA	-
 021/215	woar	1	w oa r - -
 021/217	war	1	w a r - -
 021/219	war	1	w a r - -
@@ -570,11 +570,11 @@
 022/113	war	1	w a r - -
 022/115	wad	1	w a - - d
 022/127	war	1	w a r - -
-022/129	NA	NA	- - - - - -
+022/129	NA	NA	-
 022/131	war	1	w a r - -
 022/133	war	1	w a r - -
 022/135	war	1	w a r - -
-022/137	NA	NA	- - - - - -
+022/137	NA	NA	-
 022/139	war	1	w a r - -
 022/141	war	1	w a r - -
 022/143	war	1	w a r - -
@@ -607,7 +607,7 @@
 022/201	war	1	w a r - -
 022/203	war	1	w a r - -
 022/205	war	1	w a r - -
-022/209	NA	NA	- - - - - -
+022/209	NA	NA	-
 022/211	war	1	w a r - -
 022/215	waar	1	w aa r - -
 022/217	wahr	1	w ah r - -
@@ -646,7 +646,7 @@
 023/121	war	1	w a r - -
 023/123	warr	1	w a rr - -
 023/125	war	1	w a r - -
-023/127	NA	NA	- - - - - -
+023/127	NA	NA	-
 023/129	war	1	w a r - -
 023/131	war	1	w a r - -
 023/133	war	1	w a r - -
@@ -715,7 +715,7 @@
 024/113	war	1	w a r - -
 024/115	war	1	w a r - -
 024/117	war	1	w a r - -
-024/119	NA	NA	- - - - - -
+024/119	NA	NA	-
 024/121	waar	1	w aa r - -
 024/123	war	1	w a r - -
 024/125	warr	1	w a rr - -
@@ -773,7 +773,7 @@
 025/079	warr	1	w a rr - -
 025/081	war	1	w a r - -
 025/083	war	1	w a r - -
-025/085	NA	NA	- - - - - -
+025/085	NA	NA	-
 025/087	ward	1	w a r - d
 025/089	wad	1	w a - - d
 025/091	war	1	w a r - -
@@ -791,7 +791,7 @@
 025/123	wa	1	w a - - -
 025/125	war	1	w a r - -
 025/127	war	1	w a r - -
-025/129	NA	NA	- - - - - -
+025/129	NA	NA	-
 025/131	war	1	w a r - -
 025/133	war	1	w a r - -
 025/135	war	1	w a r - -
@@ -813,7 +813,7 @@
 025/183	wer	1	w e r - -
 025/185	wer	1	w e r - -
 025/187	wer	1	w e r - -
-025/189	NA	NA	- - - - - -
+025/189	NA	NA	-
 025/191	waar	1	w aa r - -
 026/031	war	1	w a r - -
 026/033	wurd	1	w u r - d
@@ -861,7 +861,7 @@
 026/127	war	1	w a r - -
 026/129	war	1	w a r - -
 026/131	war	1	w a r - -
-026/133	NA	NA	- - - - - -
+026/133	NA	NA	-
 026/135	war	1	w a r - -
 026/137	wahr	1	w ah r - -
 026/139	war	1	w a r - -
@@ -897,7 +897,7 @@
 027/055	ward	1	w a r - d
 027/057	warr	1	w a rr - -
 027/059	war	1	w a r - -
-027/061	NA	NA	- - - - - -
+027/061	NA	NA	-
 027/063	ward	1	w a r - d
 027/065	war	1	w a r - -
 027/067	warr	1	w a rr - -
@@ -917,7 +917,7 @@
 027/095	war	1	w a r - -
 027/099	war	1	w a r - -
 027/101	war	1	w a r - -
-027/103	NA	NA	- - - - - -
+027/103	NA	NA	-
 027/105	warr	1	w a rr - -
 027/107	wah	1	w ah - - -
 027/109	war	1	w a r - -
@@ -953,7 +953,7 @@
 027/179	wor	1	w o r - -
 027/181	war	1	w a r - -
 027/183	wär	1	w ä r - -
-027/185	NA	NA	- - - - - -
+027/185	NA	NA	-
 028/033	war	1	w a r - -
 028/035	word	1	w o r - d
 028/037	wor	1	w o r - -
@@ -980,13 +980,13 @@
 028/079	war	1	w a r - -
 028/081	wah	1	w ah - - -
 028/083	warr	1	w a rr - -
-028/085	NA	NA	- - - - - -
+028/085	NA	NA	-
 028/087	war	1	w a r - -
 028/089	warr	1	w a rr - -
 028/091	war	1	w a r - -
 028/093	warr	1	w a rr - -
 028/095	warr	1	w a rr - -
-028/097	NA	NA	- - - - - -
+028/097	NA	NA	-
 028/099	ward	1	w a r - d
 028/103	war	1	w a r - -
 028/105	warr	1	w a rr - -
@@ -1028,7 +1028,7 @@
 028/183	wär	1	w ä r - -
 028/185	sein	3	s ei n -
 029/033	wor	1	w o r - -
-029/035	NA	NA	- - - - - -
+029/035	NA	NA	-
 029/037	word	1	w o r - d
 029/039	word	1	w o r - d
 029/043	werr	1	w e rr - -
@@ -1039,9 +1039,9 @@
 029/053	wär	1	w ä r - -
 029/055	werr	1	w e rr - -
 029/057	war	1	w a r - -
-029/059	NA	NA	- - - - - -
+029/059	NA	NA	-
 029/061	warr	1	w a rr - -
-029/065	NA	NA	- - - - - -
+029/065	NA	NA	-
 029/067	warr	1	w a rr - -
 029/069	warr	1	w a rr - -
 029/071	warr	1	w a rr - -
@@ -1092,7 +1092,7 @@
 029/161	war	1	w a r - -
 029/163	war	1	w a r - -
 029/165	war	1	w a r - -
-029/167	NA	NA	- - - - - -
+029/167	NA	NA	-
 029/169	war	1	w a r - -
 029/171	war	1	w a r - -
 029/173	war	1	w a r - -
@@ -1105,7 +1105,7 @@
 030/039	worr	1	w o rr - -
 030/041	wor	1	w o r - -
 030/043	weer	1	w ee r - -
-030/045	NA	NA	- - - - - -
+030/045	NA	NA	-
 030/047	wer	1	w e r - -
 030/049	weer	1	w ee r - -
 030/051	wer	1	w e r - -
@@ -1123,7 +1123,7 @@
 030/079	waa	1	w aa - - -
 030/081	war	1	w a r - -
 030/083	war	1	w a r - -
-030/085	NA	NA	- - - - - -
+030/085	NA	NA	-
 030/087	war	1	w a r - -
 030/089	war	1	w a r - -
 030/091	war	1	w a r - -
@@ -1166,7 +1166,7 @@
 030/165	war	1	w a r - -
 030/167	war	1	w a r - -
 030/169	war	1	w a r - -
-030/171	NA	NA	- - - - - -
+030/171	NA	NA	-
 030/173	war	1	w a r - -
 030/175	war	1	w a r - -
 030/177	war	1	w a r - -
@@ -1178,7 +1178,7 @@
 031/039	word	1	w o r - d
 031/041	waar	1	w aa r - -
 031/043	wehr	1	w eh r - -
-031/045	NA	NA	- - - - - -
+031/045	NA	NA	-
 031/047	weer	1	w ee r - -
 031/049	wer	1	w e r - -
 031/051	wer	1	w e r - -
@@ -1219,7 +1219,7 @@
 031/121	war	1	w a r - -
 031/123	wah	1	w ah - - -
 031/125	war	1	w a r - -
-031/127	NA	NA	- - - - - -
+031/127	NA	NA	-
 031/129	war	1	w a r - -
 031/131	war	1	w a r - -
 031/133	war	1	w a r - -
@@ -1233,9 +1233,9 @@
 031/149	war	1	w a r - -
 031/151	war	1	w a r - -
 031/153	war	1	w a r - -
-031/155	NA	NA	- - - - - -
+031/155	NA	NA	-
 031/157	wad	1	w a - - d
-031/159	NA	NA	- - - - - -
+031/159	NA	NA	-
 031/161	war	1	w a r - -
 031/163	wah	1	w ah - - -
 031/167	war	1	w a r - -
@@ -1255,11 +1255,11 @@
 032/049	werr	1	w e rr - -
 032/051	weer	1	w ee r - -
 032/053	wer	1	w e r - -
-032/055	NA	NA	- - - - - -
+032/055	NA	NA	-
 032/057	weer	1	w ee r - -
 032/059	wär	1	w ä r - -
 032/061	wehr	1	w eh r - -
-032/065	NA	NA	- - - - - -
+032/065	NA	NA	-
 032/069	war	1	w a r - -
 032/071	warr	1	w a rr - -
 032/073	war	1	w a r - -
@@ -1317,7 +1317,7 @@
 033/035	weer	1	w ee r - -
 033/037	word	1	w o r - d
 033/039	woor	1	w oo r - -
-033/041	NA	NA	- - - - - -
+033/041	NA	NA	-
 033/043	wier	1	w ie r - -
 033/045	weer	1	w ee r - -
 033/047	weer	1	w ee r - -
@@ -1344,12 +1344,12 @@
 033/089	wär	1	w ä r - -
 033/091	wä	1	w ä - - -
 033/093	werd	1	w e r - d
-033/095	NA	NA	- - - - - -
+033/095	NA	NA	-
 033/097	wärr	1	w ä rr - -
 033/099	wer	1	w e r - -
 033/101	werd	1	w e r - d
 033/103	wer	1	w e r - -
-033/105	NA	NA	- - - - - -
+033/105	NA	NA	-
 033/107	werd	1	w e r - d
 033/109	war	1	w a r - -
 033/111	wä	1	w ä - - -
@@ -1398,9 +1398,9 @@
 034/059	wer	1	w e r - -
 034/061	wehr	1	w eh r - -
 034/063	wehr	1	w eh r - -
-034/065	NA	NA	- - - - - -
+034/065	NA	NA	-
 034/067	weer	1	w ee r - -
-034/069	NA	NA	- - - - - -
+034/069	NA	NA	-
 034/071	war	1	w a r - -
 034/073	war	1	w a r - -
 034/075	war	1	w a r - -
@@ -1452,10 +1452,10 @@
 035/035	weer	1	w ee r - -
 035/037	wer	1	w e r - -
 035/039	wer	1	w e r - -
-035/041	NA	NA	- - - - - -
+035/041	NA	NA	-
 035/043	wer	1	w e r - -
 035/045	wer	1	w e r - -
-035/047	NA	NA	- - - - - -
+035/047	NA	NA	-
 035/049	weer	1	w ee r - -
 035/051	wehr	1	w eh r - -
 035/053	weer	1	w ee r - -
@@ -1468,7 +1468,7 @@
 035/067	weer	1	w ee r - -
 035/069	warr	1	w a rr - -
 035/071	weer	1	w ee r - -
-035/073	NA	NA	- - - - - -
+035/073	NA	NA	-
 035/075	wear	1	w ea r - -
 035/077	weer	1	w ee r - -
 035/079	war	1	w a r - -
@@ -1491,7 +1491,7 @@
 035/113	werd	1	w e r - d
 035/115	wädd	1	w ä - - dd
 035/117	wär	1	w ä r - -
-035/121	NA	NA	- - - - - -
+035/121	NA	NA	-
 035/123	war	1	w a r - -
 035/125	warr	1	w a rr - -
 035/127	war	1	w a r - -
@@ -1590,7 +1590,7 @@
 037/051	wehr	1	w eh r - -
 037/053	weer	1	w ee r - -
 037/055	weer	1	w ee r - -
-037/057	NA	NA	- - - - - -
+037/057	NA	NA	-
 037/059	wer	1	w e r - -
 037/061	weer	1	w ee r - -
 037/063	weer	1	w ee r - -
@@ -1599,7 +1599,7 @@
 037/069	weer	1	w ee r - -
 037/071	wer	1	w e r - -
 037/073	weer	1	w ee r - -
-037/075	NA	NA	- - - - - -
+037/075	NA	NA	-
 037/077	wer	1	w e r - -
 037/079	wer	1	w e r - -
 037/081	wär	1	w ä r - -
@@ -1651,7 +1651,7 @@
 038/045	weer	1	w ee r - -
 038/047	wehr	1	w eh r - -
 038/049	wer	1	w e r - -
-038/051	NA	NA	- - - - - -
+038/051	NA	NA	-
 038/053	wer	1	w e r - -
 038/055	wehr	1	w eh r - -
 038/057	wer	1	w e r - -
@@ -1692,7 +1692,7 @@
 038/127	wärr	1	w ä rr - -
 038/129	war	1	w a r - -
 038/131	war	1	w a r - -
-038/133	NA	NA	- - - - - -
+038/133	NA	NA	-
 038/135	war	1	w a r - -
 038/145	war	1	w a r - -
 038/147	war	1	w a r - -
@@ -1736,7 +1736,7 @@
 039/089	weä	1	w eä - - -
 039/091	werr	1	w e rr - -
 039/093	wär	1	w ä r - -
-039/095	NA	NA	- - - - - -
+039/095	NA	NA	-
 039/097	wer	1	w e r - -
 039/099	wärr	1	w ä rr - -
 039/101	wer	1	w e r - -
@@ -1761,7 +1761,7 @@
 039/139	war	1	w a r - -
 039/149	war	1	w a r - -
 039/151	war	1	w a r - -
-039/153	NA	NA	- - - - - -
+039/153	NA	NA	-
 039/155	war	1	w a r - -
 040/029	wödd	1	w ö - - dd
 040/031	wodd	1	w o - - dd
@@ -1802,7 +1802,7 @@
 040/101	wärr	1	w ä rr - -
 040/103	werr	1	w e rr - -
 040/105	wer	1	w e r - -
-040/107	NA	NA	- - - - - -
+040/107	NA	NA	-
 040/109	wer	1	w e r - -
 040/111	werd	1	w e r - d
 040/113	wär	1	w ä r - -
@@ -1859,7 +1859,7 @@
 041/099	wer	1	w e r - -
 041/101	wär	1	w ä r - -
 041/103	wärr	1	w ä rr - -
-041/105	NA	NA	- - - - - -
+041/105	NA	NA	-
 041/107	wär	1	w ä r - -
 041/109	werr	1	w e rr - -
 041/111	wärr	1	w ä rr - -
@@ -1876,7 +1876,7 @@
 041/133	war	1	w a r - -
 041/135	ward	1	w a r - d
 041/139	ward	1	w a r - d
-041/141	NA	NA	- - - - - -
+041/141	NA	NA	-
 041/145	ward	1	w a r - d
 041/147	ward	1	w a r - d
 041/153	war	1	w a r - -
@@ -1888,18 +1888,18 @@
 042/035	wer	1	w e r - -
 042/037	wär	1	w ä r - -
 042/039	wer	1	w e r - -
-042/041	NA	NA	- - - - - -
+042/041	NA	NA	-
 042/043	wer	1	w e r - -
 042/045	weer	1	w ee r - -
-042/047	NA	NA	- - - - - -
+042/047	NA	NA	-
 042/051	wär	1	w ä r - -
 042/053	wer	1	w e r - -
 042/055	wer	1	w e r - -
 042/057	wer	1	w e r - -
 042/059	wehr	1	w eh r - -
 042/061	wier	1	w ie r - -
-042/063	NA	NA	- - - - - -
-042/065	NA	NA	- - - - - -
+042/063	NA	NA	-
+042/065	NA	NA	-
 042/067	wer	1	w e r - -
 042/069	wir	1	w i r - -
 042/071	wer	1	w e r - -
@@ -1916,7 +1916,7 @@
 042/093	wer	1	w e r - -
 042/095	wär	1	w ä r - -
 042/097	wärr	1	w ä rr - -
-042/099	NA	NA	- - - - - -
+042/099	NA	NA	-
 042/101	wer	1	w e r - -
 042/103	warr	1	w a rr - -
 042/105	weer	1	w ee r - -
@@ -1977,7 +1977,7 @@
 043/089	wer	1	w e r - -
 043/091	wer	1	w e r - -
 043/093	wärr	1	w ä rr - -
-043/095	NA	NA	- - - - - -
+043/095	NA	NA	-
 043/097	wer	1	w e r - -
 043/099	wärr	1	w ä rr - -
 043/101	wärd	1	w ä r - d
@@ -2003,7 +2003,7 @@
 043/143	war	1	w a r - -
 043/145	ward	1	w a r - d
 043/151	wirst	1	w i r s t
-043/153	NA	NA	- - - - - -
+043/153	NA	NA	-
 043/159	wär	1	w ä r - -
 043/161	war	1	w a r - -
 044/033	wähd	1	w äh - - d
@@ -2015,7 +2015,7 @@
 044/047	wär	1	w ä r - -
 044/049	wär	1	w ä r - -
 044/051	waier	1	w aie r - -
-044/053	NA	NA	- - - - - -
+044/053	NA	NA	-
 044/055	wer	1	w e r - -
 044/057	weer	1	w ee r - -
 044/059	wehr	1	w eh r - -
@@ -2048,7 +2048,7 @@
 044/113	werd	1	w e r - d
 044/115	werd	1	w e r - d
 044/117	werd	1	w e r - d
-044/119	NA	NA	- - - - - -
+044/119	NA	NA	-
 044/121	ward	1	w a r - d
 044/123	waar	1	w aa r - -
 044/125	war	1	w a r - -
@@ -2113,7 +2113,7 @@
 045/125	ward	1	w a r - d
 045/127	ward	1	w a r - d
 045/129	ward	1	w a r - d
-045/131	NA	NA	- - - - - -
+045/131	NA	NA	-
 045/133	war	1	w a r - -
 045/135	ward	1	w a r - d
 045/137	ward	1	w a r - d
@@ -2128,7 +2128,7 @@
 046/037	wär	1	w ä r - -
 046/039	währ	1	w äh r - -
 046/041	wär	1	w ä r - -
-046/043	NA	NA	- - - - - -
+046/043	NA	NA	-
 046/045	wär	1	w ä r - -
 046/047	wer	1	w e r - -
 046/049	wäer	1	w äe r - -
@@ -2161,7 +2161,7 @@
 046/103	werr	1	w e rr - -
 046/105	wär	1	w ä r - -
 046/107	wär	1	w ä r - -
-046/109	NA	NA	- - - - - -
+046/109	NA	NA	-
 046/111	wer	1	w e r - -
 046/113	werd	1	w e r - d
 046/115	werd	1	w e r - d
@@ -2211,7 +2211,7 @@
 047/087	wär	1	w ä r - -
 047/089	wär	1	w ä r - -
 047/091	wer	1	w e r - -
-047/093	NA	NA	- - - - - -
+047/093	NA	NA	-
 047/095	war	1	w a r - -
 047/097	war	1	w a r - -
 047/099	warr	1	w a rr - -
@@ -2222,7 +2222,7 @@
 047/109	wär	1	w ä r - -
 047/111	wer	1	w e r - -
 047/113	werd	1	w e r - d
-047/115	NA	NA	- - - - - -
+047/115	NA	NA	-
 047/117	wer	1	w e r - -
 047/119	waar	1	w aa r - -
 047/123	war	1	w a r - -
@@ -2236,7 +2236,7 @@
 047/139	war	1	w a r - -
 047/141	war	1	w a r - -
 047/147	war	1	w a r - -
-047/149	NA	NA	- - - - - -
+047/149	NA	NA	-
 047/151	ward	1	w a r - d
 047/159	ward	1	w a r - d
 048/021	word	1	w o r - d
@@ -2270,7 +2270,7 @@
 048/081	wehr	1	w eh r - -
 048/083	wer	1	w e r - -
 048/085	wer	1	w e r - -
-048/087	NA	NA	- - - - - -
+048/087	NA	NA	-
 048/089	wär	1	w ä r - -
 048/091	wär	1	w ä r - -
 048/093	ward	1	w a r - d
@@ -2318,13 +2318,13 @@
 049/047	wäh	1	w äh - - -
 049/049	wär	1	w ä r - -
 049/051	wär	1	w ä r - -
-049/053	NA	NA	- - - - - -
+049/053	NA	NA	-
 049/055	wer	1	w e r - -
 049/057	wäer	1	w äe r - -
 049/059	weär	1	w eä r - -
 049/061	wär	1	w ä r - -
 049/063	weer	1	w ee r - -
-049/065	NA	NA	- - - - - -
+049/065	NA	NA	-
 049/067	werd	1	w e r - d
 049/069	weer	1	w ee r - -
 049/071	wer	1	w e r - -
@@ -2382,17 +2382,17 @@
 050/049	wehr	1	w eh r - -
 050/051	wiäer	1	w iäe r - -
 050/053	wiär	1	w iä r - -
-050/055	NA	NA	- - - - - -
+050/055	NA	NA	-
 050/057	wehr	1	w eh r - -
 050/059	wer	1	w e r - -
 050/061	wehr	1	w eh r - -
 050/063	wer	1	w e r - -
 050/065	wer	1	w e r - -
-050/067	NA	NA	- - - - - -
+050/067	NA	NA	-
 050/069	wär	1	w ä r - -
 050/071	war	1	w a r - -
 050/073	wär	1	w ä r - -
-050/075	NA	NA	- - - - - -
+050/075	NA	NA	-
 050/077	wär	1	w ä r - -
 050/079	war	1	w a r - -
 050/081	werd	1	w e r - d
@@ -2410,13 +2410,13 @@
 050/105	wer	1	w e r - -
 050/107	wer	1	w e r - -
 050/109	wär	1	w ä r - -
-050/111	NA	NA	- - - - - -
+050/111	NA	NA	-
 050/113	wärr	1	w ä rr - -
 050/115	wer	1	w e r - -
 050/117	wer	1	w e r - -
 050/119	werd	1	w e r - d
 050/121	werd	1	w e r - d
-050/125	NA	NA	- - - - - -
+050/125	NA	NA	-
 050/127	ward	1	w a r - d
 050/129	ward	1	w a r - d
 050/131	war	1	w a r - -
@@ -2427,7 +2427,7 @@
 050/141	ward	1	w a r - d
 050/143	ward	1	w a r - d
 050/145	werd	1	w e r - d
-050/147	NA	NA	- - - - - -
+050/147	NA	NA	-
 050/149	ward	1	w a r - d
 050/151	ward	1	w a r - d
 050/155	ward	1	w a r - d
@@ -2437,11 +2437,11 @@
 051/023	waord	1	w ao r - d
 051/025	worr	1	w o rr - -
 051/027	wörr	1	w ö rr - -
-051/029	NA	NA	- - - - - -
+051/029	NA	NA	-
 051/031	wer	1	w e r - -
 051/033	wäör	1	w äö r - -
 051/035	wär	1	w ä r - -
-051/037	NA	NA	- - - - - -
+051/037	NA	NA	-
 051/039	wäd	1	w ä - - d
 051/041	wiär	1	w iä r - -
 051/043	wäh	1	w äh - - -
@@ -2459,7 +2459,7 @@
 051/067	wär	1	w ä r - -
 051/069	wer	1	w e r - -
 051/071	wär	1	w ä r - -
-051/073	NA	NA	- - - - - -
+051/073	NA	NA	-
 051/075	war	1	w a r - -
 051/077	wärd	1	w ä r - d
 051/079	wär	1	w ä r - -
@@ -2470,7 +2470,7 @@
 051/089	wär	1	w ä r - -
 051/091	wer	1	w e r - -
 051/093	wer	1	w e r - -
-051/095	NA	NA	- - - - - -
+051/095	NA	NA	-
 051/097	wär	1	w ä r - -
 051/099	währ	1	w äh r - -
 051/101	währ	1	w äh r - -
@@ -2484,7 +2484,7 @@
 051/117	wär	1	w ä r - -
 051/119	wär	1	w ä r - -
 051/121	werd	1	w e r - d
-051/123	NA	NA	- - - - - -
+051/123	NA	NA	-
 051/125	ward	1	w a r - d
 051/127	wahr	1	w ah r - -
 051/129	ward	1	w a r - d
@@ -2541,7 +2541,7 @@
 052/097	wär	1	w ä r - -
 052/099	wär	1	w ä r - -
 052/101	wär	1	w ä r - -
-052/103	NA	NA	- - - - - -
+052/103	NA	NA	-
 052/105	währ	1	w äh r - -
 052/107	wer	1	w e r - -
 052/109	wär	1	w ä r - -
@@ -2578,7 +2578,7 @@
 053/035	wär	1	w ä r - -
 053/037	wahr	1	w ah r - -
 053/039	wer	1	w e r - -
-053/041	NA	NA	- - - - - -
+053/041	NA	NA	-
 053/043	wär	1	w ä r - -
 053/045	wär	1	w ä r - -
 053/047	wiär	1	w iä r - -
@@ -2588,7 +2588,7 @@
 053/055	wär	1	w ä r - -
 053/057	wer	1	w e r - -
 053/059	währ	1	w äh r - -
-053/061	NA	NA	- - - - - -
+053/061	NA	NA	-
 053/063	werd	1	w e r - d
 053/065	währ	1	w äh r - -
 053/067	wär	1	w ä r - -
@@ -2608,7 +2608,7 @@
 053/095	wer	1	w e r - -
 053/097	währ	1	w äh r - -
 053/099	wär	1	w ä r - -
-053/101	NA	NA	- - - - - -
+053/101	NA	NA	-
 053/103	wär	1	w ä r - -
 053/105	wär	1	w ä r - -
 053/107	wär	1	w ä r - -
@@ -2676,7 +2676,7 @@
 054/099	wär	1	w ä r - -
 054/101	wär	1	w ä r - -
 054/103	war	1	w a r - -
-054/105	NA	NA	- - - - - -
+054/105	NA	NA	-
 054/107	wär	1	w ä r - -
 054/109	wär	1	w ä r - -
 054/111	waer	1	w ae r - -
@@ -2712,7 +2712,7 @@
 055/031	wäd	1	w ä - - d
 055/033	wär	1	w ä r - -
 055/035	wer	1	w e r - -
-055/037	NA	NA	- - - - - -
+055/037	NA	NA	-
 055/039	wär	1	w ä r - -
 055/041	wer	1	w e r - -
 055/043	wär	1	w ä r - -
@@ -2724,7 +2724,7 @@
 055/055	wär	1	w ä r - -
 055/057	wär	1	w ä r - -
 055/059	währ	1	w äh r - -
-055/061	NA	NA	- - - - - -
+055/061	NA	NA	-
 055/063	wär	1	w ä r - -
 055/065	wär	1	w ä r - -
 055/067	wär	1	w ä r - -
@@ -2738,12 +2738,12 @@
 055/083	wär	1	w ä r - -
 055/085	wär	1	w ä r - -
 055/087	wär	1	w ä r - -
-055/089	NA	NA	- - - - - -
+055/089	NA	NA	-
 055/091	wär	1	w ä r - -
 055/093	wär	1	w ä r - -
 055/095	wär	1	w ä r - -
 055/097	wär	1	w ä r - -
-055/099	NA	NA	- - - - - -
+055/099	NA	NA	-
 055/101	war	1	w a r - -
 055/103	war	1	w a r - -
 055/105	wer	1	w e r - -
@@ -2753,7 +2753,7 @@
 055/113	wär	1	w ä r - -
 055/115	war	1	w a r - -
 055/117	war	1	w a r - -
-055/119	NA	NA	- - - - - -
+055/119	NA	NA	-
 055/123	ward	1	w a r - d
 055/125	war	1	w a r - -
 055/127	ward	1	w a r - d
@@ -2766,7 +2766,7 @@
 055/143	ward	1	w a r - d
 055/145	war	1	w a r - -
 055/147	ward	1	w a r - d
-055/149	NA	NA	- - - - - -
+055/149	NA	NA	-
 055/151	war	1	w a r - -
 055/153	war	1	w a r - -
 055/155	ward	1	w a r - d
@@ -2776,7 +2776,7 @@
 056/021	werd	1	w e r - d
 056/023	werd	1	w e r - d
 056/025	wäeed	1	w äee - - d
-056/027	NA	NA	- - - - - -
+056/027	NA	NA	-
 056/029	weed	1	w ee - - d
 056/031	wäd	1	w ä - - d
 056/033	wäd	1	w ä - - d
@@ -2786,7 +2786,7 @@
 056/041	währ	1	w äh r - -
 056/043	wer	1	w e r - -
 056/045	wär	1	w ä r - -
-056/047	NA	NA	- - - - - -
+056/047	NA	NA	-
 056/049	wer	1	w e r - -
 056/051	wer	1	w e r - -
 056/053	weer	1	w ee r - -
@@ -2813,7 +2813,7 @@
 056/095	wär	1	w ä r - -
 056/097	wär	1	w ä r - -
 056/099	war	1	w a r - -
-056/101	NA	NA	- - - - - -
+056/101	NA	NA	-
 056/103	wahr	1	w ah r - -
 056/105	war	1	w a r - -
 056/107	war	1	w a r - -
@@ -2842,7 +2842,7 @@
 056/155	ward	1	w a r - d
 056/157	woar	1	w oa r - -
 056/159	wahr	1	w ah r - -
-056/161	NA	NA	- - - - - -
+056/161	NA	NA	-
 057/021	wed	1	w e - - d
 057/023	wiäd	1	w iä - - d
 057/025	wäed	1	w äe - - d
@@ -2862,7 +2862,7 @@
 057/053	wär	1	w ä r - -
 057/055	wär	1	w ä r - -
 057/057	währ	1	w äh r - -
-057/059	NA	NA	- - - - - -
+057/059	NA	NA	-
 057/061	wer	1	w e r - -
 057/063	weer	1	w ee r - -
 057/065	wär	1	w ä r - -
@@ -2921,9 +2921,9 @@
 058/027	weed	1	w ee - - d
 058/029	wäed	1	w äe - - d
 058/031	wäd	1	w ä - - d
-058/033	NA	NA	- - - - - -
+058/033	NA	NA	-
 058/035	wejed	1	w eje - - d
-058/037	NA	NA	- - - - - -
+058/037	NA	NA	-
 058/039	wer	1	w e r - -
 058/041	wär	1	w ä r - -
 058/043	wär	1	w ä r - -
@@ -2947,12 +2947,12 @@
 058/079	war	1	w a r - -
 058/081	war	1	w a r - -
 058/083	wär	1	w ä r - -
-058/085	NA	NA	- - - - - -
+058/085	NA	NA	-
 058/087	war	1	w a r - -
 058/089	waar	1	w aa r - -
 058/091	waar	1	w aa r - -
 058/093	war	1	w a r - -
-058/095	NA	NA	- - - - - -
+058/095	NA	NA	-
 058/097	war	1	w a r - -
 058/099	waar	1	w aa r - -
 058/101	wär	1	w ä r - -
@@ -2967,11 +2967,11 @@
 058/119	ward	1	w a r - d
 058/121	ward	1	w a r - d
 058/123	wahr	1	w ah r - -
-058/125	NA	NA	- - - - - -
+058/125	NA	NA	-
 058/127	war	1	w a r - -
 058/129	waar	1	w aa r - -
 058/131	war	1	w a r - -
-058/133	NA	NA	- - - - - -
+058/133	NA	NA	-
 058/135	war	1	w a r - -
 058/137	war	1	w a r - -
 058/139	war	1	w a r - -
@@ -2989,7 +2989,7 @@
 059/021	wäahd	1	w äah - - d
 059/023	waed	1	w ae - - d
 059/025	wäd	1	w ä - - d
-059/027	NA	NA	- - - - - -
+059/027	NA	NA	-
 059/029	wäed	1	w äe - - d
 059/031	wääd	1	w ää - - d
 059/033	wähd	1	w äh - - d
@@ -2999,7 +2999,7 @@
 059/041	weer	1	w ee r - -
 059/043	werd	1	w e r - d
 059/045	wär	1	w ä r - -
-059/047	NA	NA	- - - - - -
+059/047	NA	NA	-
 059/049	wär	1	w ä r - -
 059/051	wirscht	1	w i r sch t
 059/053	we	1	w e - - -
@@ -3031,7 +3031,7 @@
 059/105	wer	1	w e r - -
 059/107	war	1	w a r - -
 059/109	war	1	w a r - -
-059/111	NA	NA	- - - - - -
+059/111	NA	NA	-
 059/113	war	1	w a r - -
 059/115	wär	1	w ä r - -
 059/117	wär	1	w ä r - -
@@ -3050,7 +3050,7 @@
 059/143	war	1	w a r - -
 059/145	wahr	1	w ah r - -
 059/147	wahr	1	w ah r - -
-059/149	NA	NA	- - - - - -
+059/149	NA	NA	-
 059/151	war	1	w a r - -
 059/153	ward	1	w a r - d
 059/155	ward	1	w a r - d
@@ -3081,7 +3081,7 @@
 060/059	wä	1	w ä - - -
 060/061	wä	1	w ä - - -
 060/063	wer	1	w e r - -
-060/065	NA	NA	- - - - - -
+060/065	NA	NA	-
 060/067	wer	1	w e r - -
 060/069	wer	1	w e r - -
 060/071	waer	1	w ae r - -
@@ -3117,7 +3117,7 @@
 060/131	waar	1	w aa r - -
 060/135	war	1	w a r - -
 060/137	werd	1	w e r - d
-060/139	NA	NA	- - - - - -
+060/139	NA	NA	-
 060/141	war	1	w a r - -
 060/143	war	1	w a r - -
 060/145	war	1	w a r - -
@@ -3128,7 +3128,7 @@
 060/155	war	1	w a r - -
 060/157	wärd	1	w ä r - d
 060/159	ward	1	w a r - d
-060/163	NA	NA	- - - - - -
+060/163	NA	NA	-
 060/165	werd	1	w e r - d
 061/021	wäed	1	w äe - - d
 061/023	wäd	1	w ä - - d
@@ -3174,11 +3174,11 @@
 061/103	wär	1	w ä r - -
 061/105	war	1	w a r - -
 061/107	woa	1	w oa - - -
-061/109	NA	NA	- - - - - -
+061/109	NA	NA	-
 061/111	war	1	w a r - -
 061/113	war	1	w a r - -
 061/115	war	1	w a r - -
-061/117	NA	NA	- - - - - -
+061/117	NA	NA	-
 061/119	wad	1	w a - - d
 061/121	wad	1	w a - - d
 061/123	war	1	w a r - -
@@ -3192,7 +3192,7 @@
 061/141	war	1	w a r - -
 061/143	wa	1	w a - - -
 061/145	wer	1	w e r - -
-061/147	NA	NA	- - - - - -
+061/147	NA	NA	-
 061/149	wahr	1	w ah r - -
 061/151	war	1	w a r - -
 061/153	war	1	w a r - -
@@ -3212,7 +3212,7 @@
 062/037	wed	1	w e - - d
 062/039	wär	1	w ä r - -
 062/041	wär	1	w ä r - -
-062/043	NA	NA	- - - - - -
+062/043	NA	NA	-
 062/045	werr	1	w e rr - -
 062/047	wer	1	w e r - -
 062/049	wä	1	w ä - - -
@@ -3231,7 +3231,7 @@
 062/075	wär	1	w ä r - -
 062/077	war	1	w a r - -
 062/079	wahr	1	w ah r - -
-062/081	NA	NA	- - - - - -
+062/081	NA	NA	-
 062/083	war	1	w a r - -
 062/085	wär	1	w ä r - -
 062/087	war	1	w a r - -
@@ -3255,7 +3255,7 @@
 062/123	ward	1	w a r - d
 062/125	wa	1	w a - - -
 062/127	wa	1	w a - - -
-062/129	NA	NA	- - - - - -
+062/129	NA	NA	-
 062/131	war	1	w a r - -
 062/133	waa	1	w aa - - -
 062/135	waa	1	w aa - - -
@@ -3266,7 +3266,7 @@
 062/145	war	1	w a r - -
 062/147	wahr	1	w ah r - -
 062/149	war	1	w a r - -
-062/151	NA	NA	- - - - - -
+062/151	NA	NA	-
 062/153	war	1	w a r - -
 062/155	war	1	w a r - -
 062/157	ward	1	w a r - d
@@ -3292,7 +3292,7 @@
 063/055	we	1	w e - - -
 063/057	wer	1	w e r - -
 063/059	wär	1	w ä r - -
-063/061	NA	NA	- - - - - -
+063/061	NA	NA	-
 063/063	wär	1	w ä r - -
 063/065	wehr	1	w eh r - -
 063/067	wär	1	w ä r - -
@@ -3300,7 +3300,7 @@
 063/071	wär	1	w ä r - -
 063/073	wär	1	w ä r - -
 063/075	war	1	w a r - -
-063/077	NA	NA	- - - - - -
+063/077	NA	NA	-
 063/079	war	1	w a r - -
 063/081	war	1	w a r - -
 063/083	war	1	w a r - -
@@ -3324,10 +3324,10 @@
 063/119	ward	1	w a r - d
 063/121	ward	1	w a r - d
 063/123	waar	1	w aa r - -
-063/125	NA	NA	- - - - - -
+063/125	NA	NA	-
 063/127	war	1	w a r - -
 063/135	waa	1	w aa - - -
-063/137	NA	NA	- - - - - -
+063/137	NA	NA	-
 063/139	war	1	w a r - -
 063/141	waa	1	w aa - - -
 063/143	waa	1	w aa - - -
@@ -3345,7 +3345,7 @@
 064/023	wäd	1	w ä - - d
 064/025	werd	1	w e r - d
 064/027	wäd	1	w ä - - d
-064/029	NA	NA	- - - - - -
+064/029	NA	NA	-
 064/031	wead	1	w ea - - d
 064/033	wear	1	w ea r - -
 064/035	währ	1	w äh r - -
@@ -3354,7 +3354,7 @@
 064/041	wär	1	w ä r - -
 064/043	wer	1	w e r - -
 064/045	wer	1	w e r - -
-064/047	NA	NA	- - - - - -
+064/047	NA	NA	-
 064/049	wer	1	w e r - -
 064/051	wa	1	w a - - -
 064/053	wear	1	w ea r - -
@@ -3371,7 +3371,7 @@
 064/075	wär	1	w ä r - -
 064/077	wär	1	w ä r - -
 064/079	wahr	1	w ah r - -
-064/081	NA	NA	- - - - - -
+064/081	NA	NA	-
 064/083	war	1	w a r - -
 064/085	war	1	w a r - -
 064/087	waar	1	w aa r - -
@@ -3391,16 +3391,16 @@
 064/115	war	1	w a r - -
 064/117	ward	1	w a r - d
 064/119	ward	1	w a r - d
-064/121	NA	NA	- - - - - -
-064/123	NA	NA	- - - - - -
+064/121	NA	NA	-
+064/123	NA	NA	-
 064/125	war	1	w a r - -
-064/127	NA	NA	- - - - - -
+064/127	NA	NA	-
 064/135	war	1	w a r - -
 064/137	waa	1	w aa - - -
 064/139	wa	1	w a - - -
 064/141	wa	1	w a - - -
 064/143	wa	1	w a - - -
-064/145	NA	NA	- - - - - -
+064/145	NA	NA	-
 064/147	wa	1	w a - - -
 064/149	war	1	w a r - -
 064/151	wahr	1	w ah r - -
@@ -3408,7 +3408,7 @@
 064/155	war	1	w a r - -
 064/157	ward	1	w a r - d
 064/159	war	1	w a r - -
-065/021	NA	NA	- - - - - -
+065/021	NA	NA	-
 065/023	wäed	1	w äe - - d
 065/025	wär	1	w ä r - -
 065/027	werd	1	w e r - d
@@ -3457,7 +3457,7 @@
 065/115	war	1	w a r - -
 065/121	ward	1	w a r - d
 065/123	ward	1	w a r - d
-065/137	NA	NA	- - - - - -
+065/137	NA	NA	-
 065/139	wa	1	w a - - -
 065/143	wa	1	w a - - -
 065/145	wa	1	w a - - -
@@ -3469,7 +3469,7 @@
 065/157	werd	1	w e r - d
 065/159	ward	1	w a r - d
 066/021	wer	1	w e r - -
-066/023	NA	NA	- - - - - -
+066/023	NA	NA	-
 066/025	wär	1	w ä r - -
 066/027	wer	1	w e r - -
 066/029	wirsch	1	w i r sch -
@@ -3500,25 +3500,25 @@
 066/079	wär	1	w ä r - -
 066/081	war	1	w a r - -
 066/083	war	1	w a r - -
-066/085	NA	NA	- - - - - -
+066/085	NA	NA	-
 066/087	wär	1	w ä r - -
 066/089	werscht	1	w e r sch t
 066/091	wär	1	w ä r - -
 066/093	wär	1	w ä r - -
 066/095	wer	1	w e r - -
-066/097	NA	NA	- - - - - -
+066/097	NA	NA	-
 066/099	waa	1	w aa - - -
 066/101	war	1	w a r - -
 066/103	war	1	w a r - -
 066/105	wer	1	w e r - -
 066/107	weer	1	w ee r - -
 066/109	wer	1	w e r - -
-066/111	NA	NA	- - - - - -
-066/113	NA	NA	- - - - - -
+066/111	NA	NA	-
+066/113	NA	NA	-
 066/121	ward	1	w a r - d
 066/139	wa	1	w a - - -
 066/143	wa	1	w a - - -
-066/145	NA	NA	- - - - - -
+066/145	NA	NA	-
 066/147	waa	1	w aa - - -
 066/149	wa	1	w a - - -
 066/151	wah	1	w ah - - -
@@ -3564,11 +3564,11 @@
 067/087	wer	1	w e r - -
 067/089	wär	1	w ä r - -
 067/091	wär	1	w ä r - -
-067/093	NA	NA	- - - - - -
+067/093	NA	NA	-
 067/095	war	1	w a r - -
-067/097	NA	NA	- - - - - -
+067/097	NA	NA	-
 067/099	wä	1	w ä - - -
-067/101	NA	NA	- - - - - -
+067/101	NA	NA	-
 067/103	we	1	w e - - -
 067/105	wea	1	w ea - - -
 067/107	wer	1	w e r - -
@@ -3603,7 +3603,7 @@
 068/045	wer	1	w e r - -
 068/047	wär	1	w ä r - -
 068/049	wär	1	w ä r - -
-068/051	NA	NA	- - - - - -
+068/051	NA	NA	-
 068/053	wer	1	w e r - -
 068/055	währ	1	w äh r - -
 068/057	wer	1	w e r - -
@@ -3627,7 +3627,7 @@
 068/093	wer	1	w e r - -
 068/095	wä	1	w ä - - -
 068/097	wear	1	w ea r - -
-068/099	NA	NA	- - - - - -
+068/099	NA	NA	-
 068/101	wä	1	w ä - - -
 068/103	wea	1	w ea - - -
 068/105	wirst	1	w i r s t
@@ -3640,7 +3640,7 @@
 068/151	war	1	w a r - -
 068/153	war	1	w a r - -
 068/155	ward	1	w a r - d
-068/157	NA	NA	- - - - - -
+068/157	NA	NA	-
 068/159	ward	1	w a r - d
 068/161	ward	1	w a r - d
 068/165	werd	1	w e r - d
@@ -3655,7 +3655,7 @@
 069/037	wär	1	w ä r - -
 069/039	wär	1	w ä r - -
 069/041	wer	1	w e r - -
-069/043	NA	NA	- - - - - -
+069/043	NA	NA	-
 069/045	war	1	w a r - -
 069/047	war	1	w a r - -
 069/049	wär	1	w ä r - -
@@ -3693,12 +3693,12 @@
 069/147	wa	1	w a - - -
 069/149	war	1	w a r - -
 069/151	war	1	w a r - -
-069/153	NA	NA	- - - - - -
+069/153	NA	NA	-
 069/157	war	1	w a r - -
 069/159	ward	1	w a r - d
 069/161	wa	1	w a - - -
 069/163	ward	1	w a r - d
-069/165	NA	NA	- - - - - -
+069/165	NA	NA	-
 070/019	gien	2	g ie n - - -
 070/023	gän	2	g ä n - - -
 070/025	gäan	2	g äa n - - -
@@ -3757,11 +3757,11 @@
 070/163	wahrd	1	w ah r - d
 070/165	wad	1	w a - - d
 071/017	geen	2	g ee n - - -
-071/019	NA	NA	- - - - - -
+071/019	NA	NA	-
 071/021	gin	2	g i n - - -
 071/023	gehn	2	g eh n - - -
-071/025	NA	NA	- - - - - -
-071/027	NA	NA	- - - - - -
+071/025	NA	NA	-
+071/027	NA	NA	-
 071/029	werd	1	w e r - d
 071/031	gen	2	g e n - - -
 071/033	genn	2	g e nn - - -
@@ -3794,7 +3794,7 @@
 071/089	wea	1	w ea - - -
 071/091	wea	1	w ea - - -
 071/093	wär	1	w ä r - -
-071/095	NA	NA	- - - - - -
+071/095	NA	NA	-
 071/097	wer	1	w e r - -
 071/099	wea	1	w ea - - -
 071/101	wer	1	w e r - -
@@ -3809,8 +3809,8 @@
 071/157	ward	1	w a r - d
 071/159	war	1	w a r - -
 071/161	waar	1	w aa r - -
-071/163	NA	NA	- - - - - -
-071/177	NA	NA	- - - - - -
+071/163	NA	NA	-
+071/177	NA	NA	-
 071/179	werd	1	w e r - d
 072/017	gin	2	g i n - - -
 072/019	gin	2	g i n - - -
@@ -3836,7 +3836,7 @@
 072/059	wer	1	w e r - -
 072/061	werd	1	w e r - d
 072/063	war	1	w a r - -
-072/065	NA	NA	- - - - - -
+072/065	NA	NA	-
 072/067	war	1	w a r - -
 072/069	war	1	w a r - -
 072/071	würst	1	w ü r s t
@@ -3851,19 +3851,19 @@
 072/089	wär	1	w ä r - -
 072/091	wer	1	w e r - -
 072/093	wer	1	w e r - -
-072/095	NA	NA	- - - - - -
+072/095	NA	NA	-
 072/097	war	1	w a r - -
 072/099	wea	1	w ea - - -
 072/101	wär	1	w ä r - -
 072/103	wea	1	w ea - - -
 072/105	wea	1	w ea - - -
 072/107	werd	1	w e r - d
-072/145	NA	NA	- - - - - -
+072/145	NA	NA	-
 072/147	war	1	w a r - -
 072/149	waa	1	w aa - - -
 072/151	wer	1	w e r - -
 072/153	war	1	w a r - -
-072/155	NA	NA	- - - - - -
+072/155	NA	NA	-
 072/157	wa	1	w a - - -
 072/159	war	1	w a r - -
 072/161	war	1	w a r - -
@@ -3970,15 +3970,15 @@
 074/095	wer	1	w e r - -
 074/097	wer	1	w e r - -
 074/099	wer	1	w e r - -
-074/101	NA	NA	- - - - - -
+074/101	NA	NA	-
 074/103	wea	1	w ea - - -
 074/105	wer	1	w e r - -
 074/107	wea	1	w ea - - -
 074/109	wer	1	w e r - -
-074/145	NA	NA	- - - - - -
+074/145	NA	NA	-
 074/147	wea	1	w ea - - -
 074/149	wär	1	w ä r - -
-074/153	NA	NA	- - - - - -
+074/153	NA	NA	-
 074/155	wirst	1	w i r s t
 074/157	war	1	w a r - -
 074/159	war	1	w a r - -
@@ -3987,7 +3987,7 @@
 074/165	wa	1	w a - - -
 075/019	gin	2	g i n - - -
 075/021	gien	2	g ie n - - -
-075/023	NA	NA	- - - - - -
+075/023	NA	NA	-
 075/025	gin	2	g i n - - -
 075/027	gänn	2	g ä nn - - -
 075/029	wer	1	w e r - -
@@ -4007,7 +4007,7 @@
 075/057	wer	1	w e r - -
 075/059	wörsht	1	w ö r sh t
 075/061	wer	1	w e r - -
-075/063	NA	NA	- - - - - -
+075/063	NA	NA	-
 075/065	werd	1	w e r - d
 075/067	war	1	w a r - -
 075/069	ward	1	w a r - d
@@ -4027,7 +4027,7 @@
 075/097	wer	1	w e r - -
 075/099	wer	1	w e r - -
 075/101	werd	1	w e r - d
-075/103	NA	NA	- - - - - -
+075/103	NA	NA	-
 075/105	wea	1	w ea - - -
 075/107	wer	1	w e r - -
 075/135	be	1	b e - - -
@@ -4057,7 +4057,7 @@
 076/049	werr	1	w e rr - -
 076/051	werr	1	w e rr - -
 076/053	wer	1	w e r - -
-076/055	NA	NA	- - - - - -
+076/055	NA	NA	-
 076/057	wer	1	w e r - -
 076/059	wer	1	w e r - -
 076/061	wär	1	w ä r - -
@@ -4075,13 +4075,13 @@
 076/085	wer	1	w e r - -
 076/087	wear	1	w ea r - -
 076/089	wär	1	w ä r - -
-076/091	NA	NA	- - - - - -
+076/091	NA	NA	-
 076/093	wear	1	w ea r - -
 076/095	wer	1	w e r - -
 076/097	wea	1	w ea - - -
 076/099	wer	1	w e r - -
 076/101	wea	1	w ea - - -
-076/103	NA	NA	- - - - - -
+076/103	NA	NA	-
 076/135	wer	1	w e r - -
 076/137	wea	1	w ea - - -
 076/149	baa	1	b aa - - -
@@ -4099,14 +4099,14 @@
 077/031	wirschd	1	w i r sch d
 077/033	wärr	1	w ä rr - -
 077/035	werr	1	w e rr - -
-077/037	NA	NA	- - - - - -
+077/037	NA	NA	-
 077/039	wer	1	w e r - -
 077/041	werr	1	w e rr - -
 077/043	werr	1	w e rr - -
 077/047	wer	1	w e r - -
 077/049	werr	1	w e rr - -
 077/051	werr	1	w e rr - -
-077/053	NA	NA	- - - - - -
+077/053	NA	NA	-
 077/055	weer	1	w ee r - -
 077/057	wär	1	w ä r - -
 077/059	wärr	1	w ä rr - -
@@ -4178,8 +4178,8 @@
 078/105	wea	1	w ea - - -
 078/135	werd	1	w e r - d
 078/193	wer	1	w e r - -
-079/021	NA	NA	- - - - - -
-079/023	NA	NA	- - - - - -
+079/021	NA	NA	-
+079/023	NA	NA	-
 079/025	gin	2	g i n - - -
 079/027	gen	2	g e n - - -
 079/029	genn	2	g e nn - - -
@@ -4201,13 +4201,13 @@
 079/063	werd	1	w e r - d
 079/065	werd	1	w e r - d
 079/067	wer	1	w e r - -
-079/069	NA	NA	- - - - - -
+079/069	NA	NA	-
 079/071	wer	1	w e r - -
 079/073	wer	1	w e r - -
 079/075	wer	1	w e r - -
 079/077	wer	1	w e r - -
 079/079	wer	1	w e r - -
-079/081	NA	NA	- - - - - -
+079/081	NA	NA	-
 079/083	wear	1	w ea r - -
 079/085	wea	1	w ea - - -
 079/087	wer	1	w e r - -
@@ -4228,7 +4228,7 @@
 079/197	war	1	w a r - -
 080/025	genn	2	g e nn - - -
 080/027	wer	1	w e r - -
-080/029	NA	NA	- - - - - -
+080/029	NA	NA	-
 080/031	werr	1	w e rr - -
 080/033	wärr	1	w ä rr - -
 080/035	werr	1	w e rr - -
@@ -4276,7 +4276,7 @@
 080/193	ward	1	w a r - d
 080/195	wär	1	w ä r - -
 081/025	werr	1	w e rr - -
-081/027	NA	NA	- - - - - -
+081/027	NA	NA	-
 081/029	wer	1	w e r - -
 081/031	wär	1	w ä r - -
 081/033	war	1	w a r - -
@@ -4304,11 +4304,11 @@
 081/079	wer	1	w e r - -
 081/081	wär	1	w ä r - -
 081/083	wear	1	w ea r - -
-081/085	NA	NA	- - - - - -
+081/085	NA	NA	-
 081/087	wär	1	w ä r - -
-081/089	NA	NA	- - - - - -
+081/089	NA	NA	-
 081/091	wer	1	w e r - -
-081/093	NA	NA	- - - - - -
+081/093	NA	NA	-
 081/095	wer	1	w e r - -
 081/097	wer	1	w e r - -
 081/099	wer	1	w e r - -
@@ -4359,10 +4359,10 @@
 082/089	wea	1	w ea - - -
 082/091	wer	1	w e r - -
 082/093	wer	1	w e r - -
-082/095	NA	NA	- - - - - -
+082/095	NA	NA	-
 082/097	wer	1	w e r - -
 082/099	wär	1	w ä r - -
-082/101	NA	NA	- - - - - -
+082/101	NA	NA	-
 082/103	wer	1	w e r - -
 082/105	wer	1	w e r - -
 082/107	wäa	1	w äa - - -
@@ -4371,7 +4371,7 @@
 082/117	ber	1	b e r - -
 082/129	wee	1	w ee - - -
 082/131	we	1	w e - - -
-082/133	NA	NA	- - - - - -
+082/133	NA	NA	-
 082/135	wea	1	w ea - - -
 082/145	wär	1	w ä r - -
 082/147	wer	1	w e r - -
@@ -4400,7 +4400,7 @@
 083/067	werr	1	w e rr - -
 083/069	wärr	1	w ä rr - -
 083/071	wear	1	w ea r - -
-083/073	NA	NA	- - - - - -
+083/073	NA	NA	-
 083/075	wäar	1	w äa r - -
 083/077	wer	1	w e r - -
 083/079	wer	1	w e r - -
@@ -4447,13 +4447,13 @@
 084/049	wer	1	w e r - -
 084/051	wärr	1	w ä rr - -
 084/053	werr	1	w e rr - -
-084/055	NA	NA	- - - - - -
+084/055	NA	NA	-
 084/057	weaard	1	w eaa r - d
 084/059	werd	1	w e r - d
 084/061	werd	1	w e r - d
 084/063	werr	1	w e rr - -
 084/065	werr	1	w e rr - -
-084/067	NA	NA	- - - - - -
+084/067	NA	NA	-
 084/069	werr	1	w e rr - -
 084/071	wer	1	w e r - -
 084/073	werr	1	w e rr - -
@@ -4500,7 +4500,7 @@
 085/037	war	1	w a r - -
 085/039	waar	1	w aa r - -
 085/041	wär	1	w ä r - -
-085/043	NA	NA	- - - - - -
+085/043	NA	NA	-
 085/045	wär	1	w ä r - -
 085/047	werr	1	w e rr - -
 085/049	wärr	1	w ä rr - -
@@ -4515,16 +4515,16 @@
 085/067	wär	1	w ä r - -
 085/069	wärr	1	w ä rr - -
 085/071	wäar	1	w äa r - -
-085/073	NA	NA	- - - - - -
+085/073	NA	NA	-
 085/075	wer	1	w e r - -
 085/077	wäar	1	w äa r - -
 085/079	wer	1	w e r - -
-085/081	NA	NA	- - - - - -
+085/081	NA	NA	-
 085/083	wär	1	w ä r - -
-085/085	NA	NA	- - - - - -
+085/085	NA	NA	-
 085/087	wer	1	w e r - -
 085/089	wär	1	w ä r - -
-085/091	NA	NA	- - - - - -
+085/091	NA	NA	-
 085/093	wer	1	w e r - -
 085/095	wea	1	w ea - - -
 085/097	wer	1	w e r - -
@@ -4562,7 +4562,7 @@
 086/039	war	1	w a r - -
 086/041	wär	1	w ä r - -
 086/043	war	1	w a r - -
-086/045	NA	NA	- - - - - -
+086/045	NA	NA	-
 086/047	werr	1	w e rr - -
 086/049	wär	1	w ä r - -
 086/051	wear	1	w ea r - -
@@ -4598,7 +4598,7 @@
 086/111	wea	1	w ea - - -
 086/113	werd	1	w e r - d
 086/115	wer	1	w e r - -
-086/117	NA	NA	- - - - - -
+086/117	NA	NA	-
 086/119	we	1	w e - - -
 086/121	wee	1	w ee - - -
 086/123	wer	1	w e r - -
@@ -4644,7 +4644,7 @@
 087/079	wear	1	w ea r - -
 087/081	wer	1	w e r - -
 087/083	wea	1	w ea - - -
-087/085	NA	NA	- - - - - -
+087/085	NA	NA	-
 087/087	wer	1	w e r - -
 087/089	wear	1	w ea r - -
 087/091	wer	1	w e r - -
@@ -4663,7 +4663,7 @@
 087/117	we	1	w e - - -
 087/119	we	1	w e - - -
 087/121	weaa	1	w eaa - - -
-087/123	NA	NA	- - - - - -
+087/123	NA	NA	-
 087/125	wer	1	w e r - -
 087/127	wiast	1	w ia - s t
 087/129	wer	1	w e r - -
@@ -4676,8 +4676,8 @@
 087/145	wea	1	w ea - - -
 087/147	wer	1	w e r - -
 087/149	wea	1	w ea - - -
-087/151	NA	NA	- - - - - -
-088/035	NA	NA	- - - - - -
+087/151	NA	NA	-
+088/035	NA	NA	-
 088/037	waar	1	w aa r - -
 088/039	war	1	w a r - -
 088/041	waar	1	w aa r - -
@@ -4716,9 +4716,9 @@
 088/107	weard	1	w ea r - d
 088/109	wea	1	w ea - - -
 088/113	we	1	w e - - -
-088/115	NA	NA	- - - - - -
+088/115	NA	NA	-
 088/117	wer	1	w e r - -
-088/121	NA	NA	- - - - - -
+088/121	NA	NA	-
 088/123	wer	1	w e r - -
 088/127	wer	1	w e r - -
 088/129	wer	1	w e r - -
@@ -4777,7 +4777,7 @@
 089/123	wer	1	w e r - -
 089/125	wer	1	w e r - -
 089/127	we	1	w e - - -
-089/129	NA	NA	- - - - - -
+089/129	NA	NA	-
 089/131	we	1	w e - - -
 089/133	wer	1	w e r - -
 089/135	wea	1	w ea - - -
@@ -4805,7 +4805,7 @@
 090/063	wear	1	w ea r - -
 090/065	wear	1	w ea r - -
 090/067	wer	1	w e r - -
-090/069	NA	NA	- - - - - -
+090/069	NA	NA	-
 090/071	werr	1	w e rr - -
 090/073	wear	1	w ea r - -
 090/075	wäar	1	w äa r - -
@@ -4824,7 +4824,7 @@
 090/101	weer	1	w ee r - -
 090/103	wor	1	w o r - -
 090/105	werst	1	w e r s t
-090/107	NA	NA	- - - - - -
+090/107	NA	NA	-
 090/109	werd	1	w e r - d
 090/111	wea	1	w ea - - -
 090/113	wer	1	w e r - -
@@ -4900,13 +4900,13 @@
 091/143	wer	1	w e r - -
 091/145	wer	1	w e r - -
 091/147	wer	1	w e r - -
-091/149	NA	NA	- - - - - -
+091/149	NA	NA	-
 091/151	wea	1	w ea - - -
-091/155	NA	NA	- - - - - -
+091/155	NA	NA	-
 092/033	wär	1	w ä r - -
 092/035	war	1	w a r - -
 092/037	war	1	w a r - -
-092/039	NA	NA	- - - - - -
+092/039	NA	NA	-
 092/041	war	1	w a r - -
 092/043	wer	1	w e r - -
 092/045	wäär	1	w ää r - -
@@ -4922,7 +4922,7 @@
 092/065	wear	1	w ea r - -
 092/067	wäer	1	w äe r - -
 092/069	werr	1	w e rr - -
-092/071	NA	NA	- - - - - -
+092/071	NA	NA	-
 092/073	wear	1	w ea r - -
 092/075	wear	1	w ea r - -
 092/077	weear	1	w eea r - -
@@ -4977,11 +4977,11 @@
 093/057	wear	1	w ea r - -
 093/059	wear	1	w ea r - -
 093/061	wär	1	w ä r - -
-093/063	NA	NA	- - - - - -
+093/063	NA	NA	-
 093/065	wär	1	w ä r - -
 093/067	wäar	1	w äa r - -
 093/069	wäar	1	w äa r - -
-093/071	NA	NA	- - - - - -
+093/071	NA	NA	-
 093/073	wear	1	w ea r - -
 093/075	wer	1	w e r - -
 093/077	wear	1	w ea r - -
@@ -5010,7 +5010,7 @@
 093/125	we	1	w e - - -
 093/127	we	1	w e - - -
 093/129	wer	1	w e r - -
-093/131	NA	NA	- - - - - -
+093/131	NA	NA	-
 093/133	wea	1	w ea - - -
 093/137	wea	1	w ea - - -
 093/139	wer	1	w e r - -
@@ -5062,7 +5062,7 @@
 094/109	wer	1	w e r - -
 094/111	wer	1	w e r - -
 094/113	werd	1	w e r - d
-094/115	NA	NA	- - - - - -
+094/115	NA	NA	-
 094/117	we	1	w e - - -
 094/119	werd	1	w e r - d
 094/121	wer	1	w e r - -
@@ -5124,7 +5124,7 @@
 095/109	wer	1	w e r - -
 095/111	wer	1	w e r - -
 095/113	wea	1	w ea - - -
-095/115	NA	NA	- - - - - -
+095/115	NA	NA	-
 095/117	wer	1	w e r - -
 095/119	wer	1	w e r - -
 095/121	we	1	w e - - -
@@ -5185,7 +5185,7 @@
 096/113	wer	1	w e r - -
 096/115	wer	1	w e r - -
 096/117	we	1	w e - - -
-096/119	NA	NA	- - - - - -
+096/119	NA	NA	-
 096/121	wee	1	w ee - - -
 096/123	wea	1	w ea - - -
 096/125	wea	1	w ea - - -
@@ -5213,10 +5213,10 @@
 097/049	wäär	1	w ää r - -
 097/051	wär	1	w ä r - -
 097/053	wer	1	w e r - -
-097/055	NA	NA	- - - - - -
+097/055	NA	NA	-
 097/057	wear	1	w ea r - -
 097/059	wer	1	w e r - -
-097/061	NA	NA	- - - - - -
+097/061	NA	NA	-
 097/063	werr	1	w e rr - -
 097/065	wear	1	w ea r - -
 097/067	war	1	w a r - -
@@ -5238,16 +5238,16 @@
 097/099	wer	1	w e r - -
 097/103	wer	1	w e r - -
 097/105	wea	1	w ea - - -
-097/107	NA	NA	- - - - - -
+097/107	NA	NA	-
 097/109	wer	1	w e r - -
 097/113	werd	1	w e r - d
-097/125	NA	NA	- - - - - -
+097/125	NA	NA	-
 097/131	wer	1	w e r - -
 097/133	wer	1	w e r - -
 097/139	wea	1	w ea - - -
 097/141	wea	1	w ea - - -
 097/143	wer	1	w e r - -
-097/145	NA	NA	- - - - - -
+097/145	NA	NA	-
 097/149	wea	1	w ea - - -
 097/153	wer	1	w e r - -
 098/033	ward	1	w a r - d
@@ -5260,7 +5260,7 @@
 098/047	wär	1	w ä r - -
 098/049	sin	3	s i n -
 098/051	werd	1	w e r - d
-098/053	NA	NA	- - - - - -
+098/053	NA	NA	-
 098/055	wer	1	w e r - -
 098/057	wärr	1	w ä rr - -
 098/059	wär	1	w ä r - -
@@ -5290,9 +5290,9 @@
 098/111	we	1	w e - - -
 098/119	wirst	1	w i r s t
 098/123	we	1	w e - - -
-098/125	NA	NA	- - - - - -
+098/125	NA	NA	-
 098/127	wea	1	w ea - - -
-098/135	NA	NA	- - - - - -
+098/135	NA	NA	-
 098/137	wer	1	w e r - -
 098/139	wer	1	w e r - -
 098/141	wer	1	w e r - -
@@ -5326,7 +5326,7 @@
 099/081	wer	1	w e r - -
 099/083	wear	1	w ea r - -
 099/085	wer	1	w e r - -
-099/089	NA	NA	- - - - - -
+099/089	NA	NA	-
 099/093	wea	1	w ea - - -
 099/095	wer	1	w e r - -
 099/099	wea	1	w ea - - -
@@ -5373,21 +5373,21 @@
 100/089	wea	1	w ea - - -
 100/093	wea	1	w ea - - -
 100/095	wer	1	w e r - -
-100/097	NA	NA	- - - - - -
-100/099	NA	NA	- - - - - -
+100/097	NA	NA	-
+100/099	NA	NA	-
 100/101	wea	1	w ea - - -
 100/109	wea	1	w ea - - -
 100/111	werd	1	w e r - d
 100/113	we	1	w e - - -
 100/115	wer	1	w e r - -
 100/117	werd	1	w e r - d
-100/119	NA	NA	- - - - - -
+100/119	NA	NA	-
 100/121	wer	1	w e r - -
 100/125	wer	1	w e r - -
 100/127	wer	1	w e r - -
-100/129	NA	NA	- - - - - -
+100/129	NA	NA	-
 100/133	wer	1	w e r - -
-100/135	NA	NA	- - - - - -
+100/135	NA	NA	-
 100/141	wer	1	w e r - -
 100/143	we	1	w e - - -
 100/145	weh	1	w eh - - -
@@ -5403,7 +5403,7 @@
 101/053	werd	1	w e r - d
 101/055	wärd	1	w ä r - d
 101/057	wer	1	w e r - -
-101/059	NA	NA	- - - - - -
+101/059	NA	NA	-
 101/061	werd	1	w e r - d
 101/063	weir	1	w ei r - -
 101/065	werd	1	w e r - d
@@ -5421,7 +5421,7 @@
 101/101	wea	1	w ea - - -
 101/103	wea	1	w ea - - -
 101/107	wer	1	w e r - -
-101/109	NA	NA	- - - - - -
+101/109	NA	NA	-
 101/113	we	1	w e - - -
 101/115	wer	1	w e r - -
 101/121	we	1	w e - - -
@@ -5431,7 +5431,7 @@
 101/133	wer	1	w e r - -
 101/137	wirst	1	w i r s t
 101/139	we	1	w e - - -
-101/141	NA	NA	- - - - - -
+101/141	NA	NA	-
 101/143	wer	1	w e r - -
 101/145	wee	1	w ee - - -
 101/147	wee	1	w ee - - -
@@ -5467,7 +5467,7 @@
 102/099	wear	1	w ea r - -
 102/103	wea	1	w ea - - -
 102/107	wea	1	w ea - - -
-102/109	NA	NA	- - - - - -
+102/109	NA	NA	-
 102/113	wea	1	w ea - - -
 102/115	we	1	w e - - -
 102/127	wea	1	w ea - - -
@@ -5475,7 +5475,7 @@
 102/131	wer	1	w e r - -
 102/135	wer	1	w e r - -
 102/137	we	1	w e - - -
-102/139	NA	NA	- - - - - -
+102/139	NA	NA	-
 102/141	wee	1	w ee - - -
 102/143	wee	1	w ee - - -
 102/145	we	1	w e - - -
@@ -5493,10 +5493,10 @@
 103/063	werd	1	w e r - d
 103/065	wöa	1	w öa - - -
 103/067	wed	1	w e - - d
-103/069	NA	NA	- - - - - -
+103/069	NA	NA	-
 103/071	werd	1	w e r - d
 103/073	weard	1	w ea r - d
-103/075	NA	NA	- - - - - -
+103/075	NA	NA	-
 103/077	wea	1	w ea - - -
 103/079	wear	1	w ea r - -
 103/081	wer	1	w e r - -
@@ -5528,7 +5528,7 @@
 104/039	wärd	1	w ä r - d
 104/041	wärd	1	w ä r - d
 104/043	wärd	1	w ä r - d
-104/045	NA	NA	- - - - - -
+104/045	NA	NA	-
 104/047	wäärd	1	w ää r - d
 104/049	werd	1	w e r - d
 104/051	wärd	1	w ä r - d
@@ -5536,7 +5536,7 @@
 104/055	wärd	1	w ä r - d
 104/057	wärd	1	w ä r - d
 104/059	werd	1	w e r - d
-104/061	NA	NA	- - - - - -
+104/061	NA	NA	-
 104/063	wär	1	w ä r - -
 104/065	werd	1	w e r - d
 104/067	wärd	1	w ä r - d
@@ -5553,11 +5553,11 @@
 104/103	wer	1	w e r - -
 104/107	weo	1	w eo - - -
 104/111	wer	1	w e r - -
-104/113	NA	NA	- - - - - -
+104/113	NA	NA	-
 104/119	we	1	w e - - -
 104/121	wee	1	w ee - - -
-104/123	NA	NA	- - - - - -
-104/125	NA	NA	- - - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	wer	1	w e r - -
 104/131	we	1	w e - - -
 104/133	we	1	w e - - -
@@ -5583,26 +5583,26 @@
 105/057	wärd	1	w ä r - d
 105/059	werd	1	w e r - d
 105/061	werd	1	w e r - d
-105/063	NA	NA	- - - - - -
+105/063	NA	NA	-
 105/065	wär	1	w ä r - -
 105/067	wer	1	w e r - -
-105/069	NA	NA	- - - - - -
+105/069	NA	NA	-
 105/071	wear	1	w ea r - -
 105/073	weard	1	w ea r - d
 105/075	wear	1	w ea r - -
-105/077	NA	NA	- - - - - -
+105/077	NA	NA	-
 105/079	weär	1	w eä r - -
 105/081	wear	1	w ea r - -
-105/085	NA	NA	- - - - - -
+105/085	NA	NA	-
 105/087	wear	1	w ea r - -
-105/089	NA	NA	- - - - - -
+105/089	NA	NA	-
 105/103	wea	1	w ea - - -
 105/105	we	1	w e - - -
 105/111	wea	1	w ea - - -
 105/113	wer	1	w e r - -
 105/115	werd	1	w e r - d
 105/117	wed	1	w e - - d
-105/119	NA	NA	- - - - - -
+105/119	NA	NA	-
 105/121	we	1	w e - - -
 105/125	wer	1	w e r - -
 105/127	wa	1	w a - - -
@@ -5610,7 +5610,7 @@
 105/133	wer	1	w e r - -
 105/135	wed	1	w e - - d
 105/137	wer	1	w e r - -
-105/141	NA	NA	- - - - - -
+105/141	NA	NA	-
 105/143	we	1	w e - - -
 105/145	wee	1	w ee - - -
 106/033	wärd	1	w ä r - d
@@ -5627,8 +5627,8 @@
 106/057	werd	1	w e r - d
 106/061	wärd	1	w ä r - d
 106/063	werd	1	w e r - d
-106/067	NA	NA	- - - - - -
-106/071	NA	NA	- - - - - -
+106/067	NA	NA	-
+106/071	NA	NA	-
 106/073	weard	1	w ea r - d
 106/075	wear	1	w ea r - -
 106/077	wear	1	w ea r - -
@@ -5638,7 +5638,7 @@
 106/087	wear	1	w ea r - -
 106/093	wang	1	w a - ng -
 106/097	weag	1	w ea - g -
-106/099	NA	NA	- - - - - -
+106/099	NA	NA	-
 106/103	wea	1	w ea - - -
 106/111	wer	1	w e r - -
 106/115	weag	1	w ea - g -
@@ -5657,7 +5657,7 @@
 107/033	werd	1	w e r - d
 107/035	wärd	1	w ä r - d
 107/037	wärd	1	w ä r - d
-107/039	NA	NA	- - - - - -
+107/039	NA	NA	-
 107/041	wärd	1	w ä r - d
 107/043	wärd	1	w ä r - d
 107/045	wärd	1	w ä r - d
@@ -5670,13 +5670,13 @@
 107/063	wärd	1	w ä r - d
 107/065	wärd	1	w ä r - d
 107/071	weord	1	w eo r - d
-107/075	NA	NA	- - - - - -
+107/075	NA	NA	-
 107/081	wer	1	w e r - -
 107/085	wear	1	w ea r - -
 107/087	wear	1	w ea r - -
 107/089	wöar	1	w öa r - -
-107/091	NA	NA	- - - - - -
-107/097	NA	NA	- - - - - -
+107/091	NA	NA	-
+107/097	NA	NA	-
 107/099	wea	1	w ea - - -
 107/103	wer	1	w e r - -
 107/105	wer	1	w e r - -
@@ -5687,7 +5687,7 @@
 107/123	wer	1	w e r - -
 107/125	we	1	w e - - -
 107/127	we	1	w e - - -
-107/129	NA	NA	- - - - - -
+107/129	NA	NA	-
 107/131	wäi	1	w äi - - -
 107/133	wea	1	w ea - - -
 107/135	we	1	w e - - -
@@ -5696,22 +5696,22 @@
 107/141	weh	1	w eh - - -
 107/143	we	1	w e - - -
 108/033	wärd	1	w ä r - d
-108/035	NA	NA	- - - - - -
+108/035	NA	NA	-
 108/037	wärd	1	w ä r - d
 108/039	wärd	1	w ä r - d
-108/041	NA	NA	- - - - - -
+108/041	NA	NA	-
 108/043	wärd	1	w ä r - d
 108/047	wärd	1	w ä r - d
 108/049	wärd	1	w ä r - d
-108/063	NA	NA	- - - - - -
+108/063	NA	NA	-
 108/065	wärd	1	w ä r - d
 108/067	choon	2	ch oo n - - -
 108/075	wear	1	w ea r - -
-108/079	NA	NA	- - - - - -
+108/079	NA	NA	-
 108/081	wer	1	w e r - -
-108/085	NA	NA	- - - - - -
+108/085	NA	NA	-
 108/087	wiar	1	w ia r - -
-108/091	NA	NA	- - - - - -
+108/091	NA	NA	-
 108/099	wea	1	w ea - - -
 108/101	wea	1	w ea - - -
 108/103	wer	1	w e r - -
@@ -5741,7 +5741,7 @@
 109/049	wärd	1	w ä r - d
 109/053	wärd	1	w ä r - d
 109/061	chu	2	ch u - - - -
-109/063	NA	NA	- - - - - -
+109/063	NA	NA	-
 109/065	chon	2	ch o n - - -
 109/067	chon	2	ch o n - - -
 109/075	wear	1	w ea r - -
@@ -5756,7 +5756,7 @@
 109/101	wea	1	w ea - - -
 109/103	wer	1	w e r - -
 109/107	wer	1	w e r - -
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	weär	1	w eä r - -
 109/113	wer	1	w e r - -
 109/115	wer	1	w e r - -
@@ -5768,7 +5768,7 @@
 109/127	wed	1	w e - - d
 109/129	wirst	1	w i r s t
 109/131	wea	1	w ea - - -
-109/133	NA	NA	- - - - - -
+109/133	NA	NA	-
 109/135	wiast	1	w ia - s t
 109/137	wer	1	w e r - -
 109/139	wer	1	w e r - -
@@ -5776,19 +5776,19 @@
 110/039	wärd	1	w ä r - d
 110/041	wärd	1	w ä r - d
 110/043	wärd	1	w ä r - d
-110/045	NA	NA	- - - - - -
+110/045	NA	NA	-
 110/047	wärd	1	w ä r - d
 110/049	wärd	1	w ä r - d
 110/057	cho	2	ch o - - - -
 110/061	chon	2	ch o n - - -
 110/065	cho	2	ch o - - - -
-110/075	NA	NA	- - - - - -
-110/079	NA	NA	- - - - - -
-110/081	NA	NA	- - - - - -
+110/075	NA	NA	-
+110/079	NA	NA	-
+110/081	NA	NA	-
 110/083	wear	1	w ea r - -
 110/087	wear	1	w ea r - -
-110/089	NA	NA	- - - - - -
-110/091	NA	NA	- - - - - -
+110/089	NA	NA	-
+110/091	NA	NA	-
 110/093	wer	1	w e r - -
 110/095	wear	1	w ea r - -
 110/097	wear	1	w ea r - -
@@ -5804,13 +5804,13 @@
 110/121	wer	1	w e r - -
 110/125	werd	1	w e r - d
 110/127	wed	1	w e - - d
-110/129	NA	NA	- - - - - -
+110/129	NA	NA	-
 110/131	wea	1	w ea - - -
 110/133	wed	1	w e - - d
 110/135	werd	1	w e r - d
 110/137	wer	1	w e r - -
 110/139	wead	1	w ea - - d
-111/035	NA	NA	- - - - - -
+111/035	NA	NA	-
 111/037	wärd	1	w ä r - d
 111/039	wärd	1	w ä r - d
 111/041	waard	1	w aa r - d
@@ -5819,21 +5819,21 @@
 111/059	cho	2	ch o - - - -
 111/073	wear	1	w ea r - -
 111/075	wear	1	w ea r - -
-111/077	NA	NA	- - - - - -
-111/079	NA	NA	- - - - - -
-111/081	NA	NA	- - - - - -
+111/077	NA	NA	-
+111/079	NA	NA	-
+111/081	NA	NA	-
 111/083	werd	1	w e r - d
 111/087	wer	1	w e r - -
 111/089	wear	1	w ea r - -
-111/105	NA	NA	- - - - - -
+111/105	NA	NA	-
 111/107	wer	1	w e r - -
 111/109	werd	1	w e r - d
 111/111	wer	1	w e r - -
-111/113	NA	NA	- - - - - -
-111/115	NA	NA	- - - - - -
+111/113	NA	NA	-
+111/115	NA	NA	-
 111/117	wer	1	w e r - -
 111/119	ber	1	b e r - -
-111/121	NA	NA	- - - - - -
+111/121	NA	NA	-
 111/123	wer	1	w e r - -
 111/125	wer	1	w e r - -
 112/037	wärd	1	w ä r - d
@@ -5844,10 +5844,10 @@
 112/059	cho	2	ch o - - - -
 112/061	cho	2	ch o - - - -
 112/063	cho	2	ch o - - - -
-112/075	NA	NA	- - - - - -
+112/075	NA	NA	-
 112/081	wear	1	w ea r - -
 112/083	wer	1	w e r - -
-112/085	NA	NA	- - - - - -
+112/085	NA	NA	-
 112/111	wer	1	w e r - -
 112/115	werd	1	w e r - d
 112/117	wer	1	w e r - -
@@ -5856,11 +5856,11 @@
 113/037	wärd	1	w ä r - d
 113/039	wärd	1	w ä r - d
 113/047	cho	2	ch o - - - -
-113/079	NA	NA	- - - - - -
+113/079	NA	NA	-
 113/081	werd	1	w e r - d
 113/083	wear	1	w ea r - -
 113/085	werr	1	w e rr - -
-113/087	NA	NA	- - - - - -
+113/087	NA	NA	-
 113/121	wer	1	w e r - -
 113/123	wer	1	w e r - -
 114/035	wärd	1	w ä r - d
@@ -5868,22 +5868,22 @@
 114/083	wear	1	w ea r - -
 114/085	wear	1	w ea r - -
 115/041	cho	2	ch o - - - -
-115/043	NA	NA	- - - - - -
+115/043	NA	NA	-
 115/045	chu	2	ch u - - - -
 115/083	werd	1	w e r - d
 115/085	wear	1	w ea r - -
 116/043	wärd	1	w ä r - d
 116/045	cho	2	ch o - - - -
-116/083	NA	NA	- - - - - -
+116/083	NA	NA	-
 117/043	wärd	1	w ä r - d
 117/045	chu	2	ch u - - - -
 118/041	cho	2	ch o - - - -
-119/083	NA	NA	- - - - - -
+119/083	NA	NA	-
 120/085	keman	2	k e m a n -
 121/127	schein	3	sch ei n -
 122/127	geinten	2	g ei n t e n
 122/129	shein	3	sh ei n -
-123/081	NA	NA	- - - - - -
+123/081	NA	NA	-
 123/123	shenni	3	sh e nn i
 123/125	shein	3	sh ei n -
 123/127	shein	3	sh ei n -

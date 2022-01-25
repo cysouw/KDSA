@@ -599,9 +599,9 @@
 022/185	braun	1	b r au n
 022/187	braun	1	b r au n
 022/189	braun	1	b r au n
-022/191	NA	NA	- - - - - -
+022/191	NA	NA	-
 022/193	braun	1	b r au n
-022/195	NA	NA	- - - - - -
+022/195	NA	NA	-
 022/197	braun	1	b r au n
 022/199	braun	1	b r au n
 022/201	brun	1	b r u n
@@ -2065,7 +2065,7 @@
 044/151	bron	1	b r o n
 044/153	braun	1	b r au n
 045/033	brun	1	b r u n
-045/035	NA	NA	- - - - - -
+045/035	NA	NA	-
 045/037	brun	1	b r u n
 045/039	brun	1	b r u n
 045/041	brun	1	b r u n
@@ -2122,7 +2122,7 @@
 045/143	bran	1	b r a n
 045/145	bran	1	b r a n
 045/155	braun	1	b r au n
-046/031	NA	NA	- - - - - -
+046/031	NA	NA	-
 046/033	brun	1	b r u n
 046/035	brun	1	b r u n
 046/037	foste	NA	f o s t e -
@@ -2353,7 +2353,7 @@
 049/119	braun	1	b r au n
 049/121	braun	1	b r au n
 049/123	braun	1	b r au n
-049/125	NA	NA	- - - - - -
+049/125	NA	NA	-
 049/127	braun	1	b r au n
 049/129	braun	1	b r au n
 049/131	braun	1	b r au n
@@ -3251,7 +3251,7 @@
 062/115	braun	1	b r au n
 062/117	braun	1	b r au n
 062/119	braun	1	b r au n
-062/121	NA	NA	- - - - - -
+062/121	NA	NA	-
 062/123	broun	1	b r ou n
 062/125	braun	1	b r au n
 062/127	braun	1	b r au n
@@ -3903,7 +3903,7 @@
 073/077	brau	1	b r au -
 073/079	braun	1	b r au n
 073/081	braun	1	b r au n
-073/083	NA	NA	- - - - - -
+073/083	NA	NA	-
 073/085	brau	1	b r au -
 073/087	brau	1	b r au -
 073/089	brau	1	b r au -
@@ -3960,7 +3960,7 @@
 074/075	brau	1	b r au -
 074/077	brau	1	b r au -
 074/079	braun	1	b r au n
-074/081	NA	NA	- - - - - -
+074/081	NA	NA	-
 074/083	brau	1	b r au -
 074/085	brau	1	b r au -
 074/087	brau	1	b r au -
@@ -4297,7 +4297,7 @@
 081/065	brau	1	b r au -
 081/067	brau	1	b r au -
 081/069	brou	1	b r ou -
-081/071	NA	NA	- - - - - -
+081/071	NA	NA	-
 081/073	brau	1	b r au -
 081/075	brau	1	b r au -
 081/077	brau	1	b r au -
@@ -5018,7 +5018,7 @@
 093/145	braun	1	b r au n
 093/147	brauun	1	b r auu n
 093/149	braun	1	b r au n
-093/151	NA	NA	- - - - - -
+093/151	NA	NA	-
 093/153	praun	1	p r au n
 093/155	braun	1	b r au n
 094/033	brün	1	b r ü n
@@ -5238,7 +5238,7 @@
 097/099	brau	1	b r au -
 097/103	braun	1	b r au n
 097/105	braun	1	b r au n
-097/107	NA	NA	- - - - - -
+097/107	NA	NA	-
 097/109	brau	1	b r au -
 097/113	brau	1	b r au -
 097/125	braun	1	b r au n
@@ -5268,7 +5268,7 @@
 098/063	brong	1	b r o ng
 098/065	bru	1	b r u -
 098/067	bru	1	b r u -
-098/069	NA	NA	- - - - - -
+098/069	NA	NA	-
 098/071	brau	1	b r au -
 098/073	brau	1	b r au -
 098/075	braun	1	b r au n
@@ -5344,7 +5344,7 @@
 099/137	braun	1	b r au n
 099/139	braon	1	b r ao n
 099/141	braun	1	b r au n
-099/143	NA	NA	- - - - - -
+099/143	NA	NA	-
 099/145	braun	1	b r au n
 099/147	broun	1	b r ou n
 100/033	brün	1	b r ü n
@@ -5413,7 +5413,7 @@
 101/077	brau	1	b r au -
 101/079	braun	1	b r au n
 101/081	brau	1	b r au -
-101/091	NA	NA	- - - - - -
+101/091	NA	NA	-
 101/093	braun	1	b r au n
 101/095	brau	1	b r au -
 101/097	braun	1	b r au n
@@ -5425,7 +5425,7 @@
 101/113	braun	1	b r au n
 101/115	braun	1	b r au n
 101/121	braun	1	b r au n
-101/125	NA	NA	- - - - - -
+101/125	NA	NA	-
 101/129	braun	1	b r au n
 101/131	braun	1	b r au n
 101/133	braun	1	b r au n
@@ -5736,7 +5736,7 @@
 109/037	brun	1	b r u n
 109/039	bruun	1	b r uu n
 109/041	brun	1	b r u n
-109/043	NA	NA	- - - - - -
+109/043	NA	NA	-
 109/045	bruin	1	b r ui n
 109/049	bröin	1	b r öi n
 109/053	brün	1	b r ü n
@@ -5756,7 +5756,7 @@
 109/101	praun	1	p r au n
 109/103	braunn	1	b r au nn
 109/107	braun	1	b r au n
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	braun	1	b r au n
 109/113	braun	1	b r au n
 109/115	braun	1	b r au n
@@ -5883,7 +5883,7 @@
 121/127	praun	1	p r au n
 122/127	praun	1	p r au n
 122/129	praun	1	p r au n
-123/081	NA	NA	- - - - - -
+123/081	NA	NA	-
 123/123	praun	1	p r au n
 123/125	praun	1	p r au n
 123/127	praun	1	p r au n

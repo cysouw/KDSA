@@ -41,7 +41,7 @@
 011/049	arig	NA	a r i g - - - - - - - -
 011/053	slem	7	s l e m - -
 011/055	slom	7	s l o m - -
-011/057	gall	NA	- g a ll - - - - - - - -
+011/057	gall	NA	-
 011/059	slim	7	s l i m - -
 011/061	slem	7	s l e m - -
 011/063	slem	7	s l e m - -
@@ -65,13 +65,13 @@
 012/047	arig	NA	a r i g - - - - - - - -
 012/049	arrig	NA	a rr i g - - - - - - - -
 012/051	bistra	1	b i st - r a -
-012/053	gal	NA	- g a l - - - - - - - -
-012/055	gal	NA	- g a l - - - - - - - -
+012/053	gal	NA	-
+012/055	gal	NA	-
 012/057	slem	7	s l e m - -
-012/059	gal	NA	- g a l - - - - - - - -
-012/061	gal	NA	- g a l - - - - - - - -
+012/059	gal	NA	-
+012/061	gal	NA	-
 012/063	slem	7	s l e m - -
-012/065	gal	NA	- g a l - - - - - - - -
+012/065	gal	NA	-
 012/067	slem	7	s l e m - -
 012/069	slem	7	s l e m - -
 012/187	bös	1	b ö s - - - -
@@ -94,10 +94,10 @@
 012/221	bös	1	b ö s - - - -
 012/223	bes	1	b e s - - - -
 013/051	bistre	1	b i st - r e -
-013/053	föle	NA	- f ö l e - - - - - - -
-013/055	föle	NA	- f ö l e - - - - - - -
+013/053	föle	NA	-
+013/055	föle	NA	-
 013/057	slim	7	s l i m - -
-013/059	nud	NA	- n u d - - - - - - - -
+013/059	nud	NA	-
 013/061	bös	1	b ö s - - - -
 013/063	bös	1	b ö s - - - -
 013/065	bös	1	b ö s - - - -
@@ -538,7 +538,7 @@
 021/203	bös	1	b ö s - - - -
 021/205	bös	1	b ö s - - - -
 021/207	bes	1	b e s - - - -
-021/211	NA	NA	- - - - - - - - - - - -
+021/211	NA	NA	-
 021/215	bös	1	b ö s - - - -
 021/217	bös	1	b ö s - - - -
 021/219	bes	1	b e s - - - -
@@ -736,7 +736,7 @@
 024/155	bös	1	b ö s - - - -
 024/163	böüs	1	b öü s - - - -
 024/165	iwrige	8	i w r i g e
-024/167	age	NA	- a g e - - - - - - - -
+024/167	age	NA	-
 024/169	bös	1	b ö s - - - -
 024/171	beis	1	b ei s - - - -
 024/175	bossge	1	b o ss - g e -
@@ -755,7 +755,7 @@
 024/203	bös	1	b ö s - - - -
 024/217	bös	1	b ö s - - - -
 024/221	bös	1	b ö s - - - -
-025/043	eischs	NA	- ei sch s - - - - - - - -
+025/043	eischs	NA	-
 025/051	bös	1	b ö s - - - -
 025/053	bös	1	b ö s - - - -
 025/055	bös	1	b ö s - - - -
@@ -782,7 +782,7 @@
 025/099	ollen	2	- o ll e n
 025/101	bös	1	b ö s - - - -
 025/103	bös	1	b ö s - - - -
-025/105	NA	NA	- - - - - - - - - - - -
+025/105	NA	NA	-
 025/107	bös	1	b ö s - - - -
 025/109	bös	1	b ö s - - - -
 025/111	bös	1	b ö s - - - -
@@ -800,7 +800,7 @@
 025/141	bös	1	b ö s - - - -
 025/143	bös	1	b ö s - - - -
 025/145	bois	1	b oi s - - - -
-025/147	age	NA	- a g e - - - - - - - -
+025/147	age	NA	-
 025/149	bös	1	b ö s - - - -
 025/151	bös	1	b ö s - - - -
 025/153	bös	1	b ö s - - - -
@@ -1014,7 +1014,7 @@
 028/151	bös	1	b ö s - - - -
 028/153	bös	1	b ö s - - - -
 028/155	iewrige	8	ie w r i g e
-028/157	NA	NA	- - - - - - - - - - - -
+028/157	NA	NA	-
 028/159	üwige	8	ü w - i g e
 028/161	iwije	8	i w - i j e
 028/165	bös	1	b ö s - - - -
@@ -1023,7 +1023,7 @@
 028/173	behs	1	b eh s - - - -
 028/175	schlemme	7	sch l e mm e -
 028/177	bäjs	1	b äj s - - - -
-028/179	jäsche	NA	- j ä sch e - - - - - - -
+028/179	jäsche	NA	-
 028/181	bös	1	b ö s - - - -
 028/183	bes	1	b e s - - - -
 028/185	bös	1	b ö s - - - -
@@ -1122,7 +1122,7 @@
 030/077	bös	1	b ö s - - - -
 030/079	bös	1	b ö s - - - -
 030/081	bös	1	b ö s - - - -
-030/083	NA	NA	- - - - - - - - - - - -
+030/083	NA	NA	-
 030/085	bös	1	b ö s - - - -
 030/087	bös	1	b ö s - - - -
 030/089	bös	1	b ö s - - - -
@@ -1273,7 +1273,7 @@
 032/089	bös	1	b ö s - - - -
 032/091	bös	1	b ö s - - - -
 032/093	bös	1	b ö s - - - -
-032/095	NA	NA	- - - - - - - - - - - -
+032/095	NA	NA	-
 032/097	bös	1	b ö s - - - -
 032/099	bös	1	b ö s - - - -
 032/101	bös	1	b ö s - - - -
@@ -1384,7 +1384,7 @@
 033/173	bös	1	b ö s - - - -
 033/175	bös	1	b ö s - - - -
 033/177	beis	1	b ei s - - - -
-034/035	grellen	NA	- g r e ll e n - - - - -
+034/035	grellen	NA	-
 034/039	leipen	10	l ei p e n
 034/041	leipen	10	l ei p e n
 034/043	bös	1	b ö s - - - -
@@ -1449,7 +1449,7 @@
 034/167	iwich	8	i w - i ch -
 034/169	geftgä	12	g e f t - g ä -
 034/173	bös	1	b ö s - - - -
-035/035	grellen	NA	- g r e ll e n - - - - -
+035/035	grellen	NA	-
 035/037	legen	10	l e g e n
 035/039	legen	10	l e g e n
 035/041	läigen	10	l äi g e n
@@ -1457,7 +1457,7 @@
 035/045	bös	1	b ö s - - - -
 035/047	bös	1	b ö s - - - -
 035/049	legen	10	l e g e n
-035/051	vogrelltn	NA	- v o g r e ll t n - - -
+035/051	vogrelltn	NA	-
 035/053	bös	1	b ö s - - - -
 035/055	bäuös	1	b äuö s - - - -
 035/057	bös	1	b ö s - - - -
@@ -1514,8 +1514,8 @@
 035/169	iwige	8	i w - i g e
 035/171	bös	1	b ö s - - - -
 035/173	bös	1	b ö s - - - -
-036/033	grellen	NA	- g r e ll e n - - - - -
-036/035	grellen	NA	- g r e ll e n - - - - -
+036/033	grellen	NA	-
+036/035	grellen	NA	-
 036/039	legen	10	l e g e n
 036/041	läigen	10	l äi g e n
 036/043	bös	1	b ö s - - - -
@@ -1525,7 +1525,7 @@
 036/051	bös	1	b ö s - - - -
 036/053	bös	1	b ö s - - - -
 036/055	bös	1	b ö s - - - -
-036/057	dörlken	NA	- d ö r l k e n - - - -
+036/057	dörlken	NA	-
 036/059	bös	1	b ö s - - - -
 036/061	bös	1	b ö s - - - -
 036/063	bös	1	b ö s - - - -
@@ -1548,7 +1548,7 @@
 036/099	bös	1	b ö s - - - -
 036/101	bös	1	b ö s - - - -
 036/103	bös	1	b ö s - - - -
-036/105	NA	NA	- - - - - - - - - - - -
+036/105	NA	NA	-
 036/107	bös	1	b ö s - - - -
 036/109	bös	1	b ö s - - - -
 036/111	bös	1	b ö s - - - -
@@ -1576,7 +1576,7 @@
 036/163	iwigä	8	i w - i g ä
 036/165	böss	1	b ö ss - - - -
 036/167	schlemme	7	sch l e mm e -
-036/169	NA	NA	- - - - - - - - - - - -
+036/169	NA	NA	-
 036/171	schlemme	7	sch l e mm e -
 037/033	legen	10	l e g e n
 037/035	bös	1	b ö s - - - -
@@ -1584,13 +1584,13 @@
 037/039	neielken	NA	n eie l k e n - - - - - -
 037/041	näilken	NA	n äi l k e n - - - - - -
 037/043	bös	1	b ö s - - - -
-037/045	güeisigen	NA	- g üei s i g e n - - - -
+037/045	güeisigen	NA	-
 037/047	dullen	2	d u ll e n
 037/049	bös	1	b ö s - - - -
 037/051	bös	1	b ö s - - - -
 037/053	bös	1	b ö s - - - -
 037/055	bös	1	b ö s - - - -
-037/057	vermukten	NA	- v e r m u k t e n - -
+037/057	vermukten	NA	-
 037/059	bös	1	b ö s - - - -
 037/061	bös	1	b ö s - - - -
 037/063	bös	1	b ö s - - - -
@@ -1618,7 +1618,7 @@
 037/109	bös	1	b ö s - - - -
 037/111	bös	1	b ö s - - - -
 037/113	bös	1	b ö s - - - -
-037/115	tücksche	NA	- t ü ck sch e - - - - - -
+037/115	tücksche	NA	-
 037/117	bös	1	b ö s - - - -
 037/119	bees	1	b ee s - - - -
 037/121	bös	1	b ö s - - - -
@@ -1642,12 +1642,12 @@
 037/159	bös	1	b ö s - - - -
 037/163	bös	1	b ö s - - - -
 037/171	bös	1	b ö s - - - -
-038/033	grellen	NA	- g r e ll e n - - - - -
-038/035	grellen	NA	- g r e ll e n - - - - -
+038/033	grellen	NA	-
+038/035	grellen	NA	-
 038/037	lepen	10	l e p e n
 038/039	neielken	NA	n eie l k e n - - - - - -
 038/041	bös	1	b ö s - - - -
-038/043	gnäisigen	NA	- g n äi s i g e n - - -
+038/043	gnäisigen	NA	-
 038/045	bös	1	b ö s - - - -
 038/047	dullen	2	d u ll e n
 038/049	bös	1	b ö s - - - -
@@ -1678,7 +1678,7 @@
 038/099	bös	1	b ö s - - - -
 038/101	bös	1	b ö s - - - -
 038/103	bös	1	b ö s - - - -
-038/105	eischen	NA	- ei sch e n - - - - - - -
+038/105	eischen	NA	-
 038/107	bös	1	b ö s - - - -
 038/109	bös	1	b ö s - - - -
 038/111	bös	1	b ö s - - - -
@@ -1698,17 +1698,17 @@
 038/147	bös	1	b ö s - - - -
 038/149	iwijo	8	i w - i j o
 038/151	iwijo	8	i w - i j o
-038/153	ivge	NA	- i v g e - - - - - - -
+038/153	ivge	NA	-
 038/155	bös	1	b ö s - - - -
 038/159	bös	1	b ö s - - - -
 038/161	iwigä	8	i w - i g ä
 038/163	iwijä	8	i w - i j ä
 039/029	helge	11	h e l - g e -
 039/031	kroa	3	kr oa - - -
-039/033	guren	NA	- g u r e n - - - - - -
+039/033	guren	NA	-
 039/035	dullen	2	d u ll e n
 039/037	lepen	10	l e p e n
-039/039	neidelken	NA	- n ei d e l k e n - - -
+039/039	neidelken	NA	-
 039/041	läipen	10	l äi p e n
 039/043	bös	1	b ö s - - - -
 039/045	bös	1	b ö s - - - -
@@ -1746,7 +1746,7 @@
 039/109	olln	2	- o ll - n
 039/111	bös	1	b ö s - - - -
 039/113	bös	1	b ö s - - - -
-039/115	NA	NA	- - - - - - - - - - - -
+039/115	NA	NA	-
 039/117	bes	1	b e s - - - -
 039/119	bes	1	b e s - - - -
 039/121	bös	1	b ö s - - - -
@@ -1832,10 +1832,10 @@
 041/045	bäus	1	b äu s - - - -
 041/047	bäus	1	b äu s - - - -
 041/049	bös	1	b ö s - - - -
-041/051	NA	NA	- - - - - - - - - - - -
+041/051	NA	NA	-
 041/053	legen	10	l e g e n
 041/055	legen	10	l e g e n
-041/057	flätsken	NA	- - - - -
+041/057	flätsken	NA	-
 041/059	bös	1	b ö s - - - -
 041/061	bös	1	b ö s - - - -
 041/063	bös	1	b ö s - - - -
@@ -1876,7 +1876,7 @@
 041/133	bies	1	b ie s - - - -
 041/135	bies	1	b ie s - - - -
 041/139	bis	1	b i s - - - -
-041/141	NA	NA	- - - - - - - - - - - -
+041/141	NA	NA	-
 041/145	bis	1	b i s - - - -
 041/147	bies	1	b ie s - - - -
 041/153	schlimme	7	sch l i mm e -
@@ -1948,7 +1948,7 @@
 042/161	iwig	8	i w - i g -
 043/033	helge	11	h e l - g e -
 043/035	kwoaden	3	kw oa d e n
-043/037	wunnerlicken	NA	- w u nn e r l i ck e n -
+043/037	wunnerlicken	NA	-
 043/039	laigen	10	l ai g e n
 043/041	leigen	10	l ei g e n
 043/043	leigen	10	l ei g e n
@@ -1982,7 +1982,7 @@
 043/099	bös	1	b ö s - - - -
 043/101	bös	1	b ö s - - - -
 043/103	bös	1	b ö s - - - -
-043/105	eische	NA	- ei sch e - - - - - - - -
+043/105	eische	NA	-
 043/107	bös	1	b ö s - - - -
 043/109	bes	1	b e s - - - -
 043/111	bös	1	b ö s - - - -
@@ -2034,13 +2034,13 @@
 044/085	bös	1	b ö s - - - -
 044/087	bes	1	b e s - - - -
 044/089	bös	1	b ö s - - - -
-044/091	eischen	NA	- ei sch e n - - - - - - -
+044/091	eischen	NA	-
 044/093	bös	1	b ö s - - - -
 044/095	bös	1	b ö s - - - -
 044/097	bös	1	b ö s - - - -
 044/099	olle	2	- o ll e -
 044/101	bös	1	b ö s - - - -
-044/103	eische	NA	- ei sch e - - - - - - - -
+044/103	eische	NA	-
 044/105	olle	2	- o ll e -
 044/107	bös	1	b ö s - - - -
 044/109	bös	1	b ö s - - - -
@@ -2064,7 +2064,7 @@
 044/149	beis	1	b ei s - - - -
 044/151	büs	1	b ü s - - - -
 044/153	bis	1	b i s - - - -
-045/033	undürgn	NA	- u n d ü r g n - - - -
+045/033	undürgn	NA	-
 045/035	bais	1	b ai s - - - -
 045/037	baüs	1	b aü s - - - -
 045/039	leigen	10	l ei g e n
@@ -2083,7 +2083,7 @@
 045/065	beus	1	b eu s - - - -
 045/067	bois	1	b oi s - - - -
 045/069	beus	1	b eu s - - - -
-045/071	döhnschen	NA	- d öh n sch e n - - - - -
+045/071	döhnschen	NA	-
 045/073	bös	1	b ö s - - - -
 045/075	bies	1	b ie s - - - -
 045/077	bös	1	b ö s - - - -
@@ -2098,7 +2098,7 @@
 045/095	bes	1	b e s - - - -
 045/097	bös	1	b ö s - - - -
 045/099	bös	1	b ö s - - - -
-045/101	tückschen	NA	- t ü ck sch e n - - - - -
+045/101	tückschen	NA	-
 045/103	bös	1	b ö s - - - -
 045/105	bes	1	b e s - - - -
 045/107	bös	1	b ö s - - - -
@@ -2123,7 +2123,7 @@
 045/145	bies	1	b ie s - - - -
 045/155	bies	1	b ie s - - - -
 046/031	helligen	11	h e ll i g e n
-046/033	NA	NA	- - - - - - - - - - - -
+046/033	NA	NA	-
 046/035	bös	1	b ö s - - - -
 046/037	beis	1	b ei s - - - -
 046/039	leigen	10	l ei g e n
@@ -2181,7 +2181,7 @@
 046/143	bies	1	b ie s - - - -
 046/155	bis	1	b i s - - - -
 047/031	giftigen	12	g i f t i g e n
-047/033	undöggen	NA	- u n d ö gg e n - - - -
+047/033	undöggen	NA	-
 047/035	beis	1	b ei s - - - -
 047/037	bäus	1	b äu s - - - -
 047/039	bös	1	b ö s - - - -
@@ -2200,7 +2200,7 @@
 047/065	bös	1	b ö s - - - -
 047/067	bäuis	1	b äui s - - - -
 047/069	beus	1	b eu s - - - -
-047/071	döhnschen	NA	- d öh n sch e n - - - - -
+047/071	döhnschen	NA	-
 047/073	sslimm	7	ss l i mm - -
 047/075	bies	1	b ie s - - - -
 047/077	slechten	6	s l e ch t e n
@@ -2305,7 +2305,7 @@
 049/021	lelleke	11	l e ll e k e -
 049/023	lelike	11	l e l i k e -
 049/025	leleken	11	l e l e k e n
-049/027	aösigen	NA	- aö s i g e n - - - - -
+049/027	aösigen	NA	-
 049/029	giftige	12	g i f t i g e -
 049/031	giftigen	12	g i f t i g e n
 049/033	giftigen	12	g i f t i g e n
@@ -2324,7 +2324,7 @@
 049/059	bäs	1	b ä s - - - -
 049/061	beis	1	b ei s - - - -
 049/063	bääis	1	b ääi s - - - -
-049/065	NA	NA	- - - - - - - - - - - -
+049/065	NA	NA	-
 049/067	bäs	1	b ä s - - - -
 049/069	bös	1	b ö s - - - -
 049/071	bäös	1	b äö s - - - -
@@ -2370,7 +2370,7 @@
 050/023	bes	1	b e s - - - -
 050/025	quoje	3	qu o j e -
 050/027	kwoje	3	kw o j e -
-050/029	freggen	NA	- f r e gg e n - - - - -
+050/029	freggen	NA	-
 050/031	giftige	12	g i f t i g e -
 050/033	bös	1	b ö s - - - -
 050/035	böüs	1	b öü s - - - -
@@ -2492,7 +2492,7 @@
 051/133	bis	1	b i s - - - -
 051/135	beis	1	b ei s - - - -
 051/137	beis	1	b ei s - - - -
-051/139	NA	NA	- - - - - - - - - - - -
+051/139	NA	NA	-
 051/141	beisz	1	b ei sz - - - -
 051/143	bees	1	b ee s - - - -
 051/145	beis	1	b ei s - - - -
@@ -2549,7 +2549,7 @@
 052/113	bes	1	b e s - - - -
 052/115	bees	1	b ee s - - - -
 052/117	bös	1	b ö s - - - -
-052/121	NA	NA	- - - - - - - - - - - -
+052/121	NA	NA	-
 052/123	bees	1	b ee s - - - -
 052/125	bies	1	b ie s - - - -
 052/127	bies	1	b ie s - - - -
@@ -2723,7 +2723,7 @@
 055/053	beus	1	b eu s - - - -
 055/055	bäus	1	b äu s - - - -
 055/057	bäus	1	b äu s - - - -
-055/059	NA	NA	- - - - - - - - - - - -
+055/059	NA	NA	-
 055/061	bös	1	b ö s - - - -
 055/063	bees	1	b ee s - - - -
 055/065	büss	1	b ü ss - - - -
@@ -2733,7 +2733,7 @@
 055/073	bäas	1	b äa s - - - -
 055/075	böis	1	b öi s - - - -
 055/077	bäis	1	b äi s - - - -
-055/079	NA	NA	- - - - - - - - - - - -
+055/079	NA	NA	-
 055/081	bies	1	b ie s - - - -
 055/083	bäis	1	b äi s - - - -
 055/085	bis	1	b i s - - - -
@@ -2994,9 +2994,9 @@
 059/031	kot	3	k o t - -
 059/033	freche	NA	f r e ch e - - - - - - -
 059/035	bües	1	b üe s - - - -
-059/037	jäcken	NA	- j ä ck e n - - - - - -
+059/037	jäcken	NA	-
 059/039	bös	1	b ö s - - - -
-059/041	srooen	NA	- s r - ooe - n - - - - -
+059/041	srooen	NA	-
 059/043	büos	1	b üo s - - - -
 059/045	böes	1	b öe s - - - -
 059/047	biäs	1	b iä s - - - -
@@ -3054,7 +3054,7 @@
 059/151	bis	1	b i s - - - -
 059/153	bies	1	b ie s - - - -
 059/155	bies	1	b ie s - - - -
-059/157	NA	NA	- - - - - - - - - - - -
+059/157	NA	NA	-
 059/159	bies	1	b ie s - - - -
 059/161	bis	1	b i s - - - -
 059/165	bies	1	b ie s - - - -
@@ -3064,7 +3064,7 @@
 060/025	kott	3	k o tt - -
 060/027	bis	1	b i s - - - -
 060/029	kodd	3	k o dd - -
-060/031	fräiche	NA	- f r äi ch e - - - - - -
+060/031	fräiche	NA	-
 060/033	kott	3	k o tt - -
 060/035	kodde	3	k o dd e -
 060/037	büss	1	b ü ss - - - -
@@ -3131,11 +3131,11 @@
 060/163	bies	1	b ie s - - - -
 060/165	bes	1	b e s - - - -
 061/021	kohe	3	k ohe - - -
-061/023	NA	NA	- - - - - - - - - - - -
-061/025	fräch	NA	- f r ä ch - - - - - - -
+061/023	NA	NA	-
+061/025	fräch	NA	-
 061/027	kodde	3	k o dd e -
 061/029	bes	1	b e s - - - -
-061/031	fahlsche	NA	- f ah l sch e - - - - - -
+061/031	fahlsche	NA	-
 061/033	kott	3	k o tt - -
 061/035	fräche	NA	f r ä ch e - - - - - - -
 061/037	bühs	1	b üh s - - - -
@@ -3208,7 +3208,7 @@
 062/029	kott	3	k o tt - -
 062/031	kodd	3	k o dd - -
 062/033	kott	3	k o tt - -
-062/035	jecke	NA	- j e ck e - - - - - - -
+062/035	jecke	NA	-
 062/037	büss	1	b ü ss - - - -
 062/039	büss	1	b ü ss - - - -
 062/041	büss	1	b ü ss - - - -
@@ -3272,7 +3272,7 @@
 062/157	bis	1	b i s - - - -
 062/159	bies	1	b ie s - - - -
 062/161	bies	1	b ie s - - - -
-063/021	ondögetege	NA	- o n d ö g e t e g e -
+063/021	ondögetege	NA	-
 063/023	gefftige	12	g e ff t i g e -
 063/025	frächen	NA	f r ä ch e n - - - - - -
 063/027	freche	NA	f r e ch e - - - - - - -
@@ -3390,7 +3390,7 @@
 064/113	bies	1	b ie s - - - -
 064/115	biess	1	b ie ss - - - -
 064/117	bis	1	b i s - - - -
-064/119	NA	NA	- - - - - - - - - - - -
+064/119	NA	NA	-
 064/121	bies	1	b ie s - - - -
 064/123	bies	1	b ie s - - - -
 064/125	bies	1	b ie s - - - -
@@ -3448,12 +3448,12 @@
 065/095	bis	1	b i s - - - -
 065/097	biies	1	b iie s - - - -
 065/101	bies	1	b ie s - - - -
-065/103	alten	NA	- a l t e n - - - - - -
+065/103	alten	NA	-
 065/105	schlachtn	6	sch l a ch t - n
 065/107	biess	1	b ie ss - - - -
 065/109	bes	1	b e s - - - -
 065/111	bies	1	b ie s - - - -
-065/113	NA	NA	- - - - - - - - - - - -
+065/113	NA	NA	-
 065/115	bies	1	b ie s - - - -
 065/121	biess	1	b ie ss - - - -
 065/123	biess	1	b ie ss - - - -
@@ -3462,14 +3462,14 @@
 065/143	bis	1	b i s - - - -
 065/145	bes	1	b e s - - - -
 065/147	bies	1	b ie s - - - -
-065/149	lusa	NA	- d u m a - - - - - - -
+065/149	lusa	NA	-
 065/151	bies	1	b ie s - - - -
 065/153	bies	1	b ie s - - - -
 065/155	bös	1	b ö s - - - -
 065/157	bies	1	b ie s - - - -
 065/159	bies	1	b ie s - - - -
 066/021	büss	1	b ü ss - - - -
-066/023	NA	NA	- - - - - - - - - - - -
+066/023	NA	NA	-
 066/025	büas	1	b üa s - - - -
 066/027	böss	1	b ö ss - - - -
 066/029	büess	1	b üe ss - - - -
@@ -3544,7 +3544,7 @@
 067/047	bis	1	b i s - - - -
 067/049	bis	1	b i s - - - -
 067/051	bies	1	b ie s - - - -
-067/053	NA	NA	- - - - - - - - - - - -
+067/053	NA	NA	-
 067/055	biis	1	b ii s - - - -
 067/057	bihs	1	b ih s - - - -
 067/059	bis	1	b i s - - - -
@@ -3611,7 +3611,7 @@
 068/061	bös	1	b ö s - - - -
 068/063	böass	1	b öa ss - - - -
 068/065	bös	1	b ö s - - - -
-068/067	NA	NA	- - - - - - - - - - - -
+068/067	NA	NA	-
 068/069	bös	1	b ö s - - - -
 068/071	bös	1	b ö s - - - -
 068/073	bös	1	b ö s - - - -
@@ -3625,14 +3625,14 @@
 068/089	bes	1	b e s - - - -
 068/091	bes	1	b e s - - - -
 068/093	bäis	1	b äi s - - - -
-068/095	NA	NA	- - - - - - - - - - - -
-068/097	duma	NA	- g a r s t i g a - - -
-068/099	NA	NA	- - - - - - - - - - - -
+068/095	NA	NA	-
+068/097	duma	NA	-
+068/099	NA	NA	-
 068/101	bäis	1	b äi s - - - -
 068/103	bais	1	b ai s - - - -
 068/105	bäjs	1	b äj s - - - -
 068/107	böis	1	b öi s - - - -
-068/109	NA	NA	- - - - - - - - - - - -
+068/109	NA	NA	-
 068/111	bes	1	b e s - - - -
 068/145	bies	1	b ie s - - - -
 068/147	bies	1	b ie s - - - -
@@ -3723,7 +3723,7 @@
 070/063	bös	1	b ö s - - - -
 070/065	böas	1	b öa s - - - -
 070/067	bös	1	b ö s - - - -
-070/069	NA	NA	- - - - - - - - - - - -
+070/069	NA	NA	-
 070/071	bös	1	b ö s - - - -
 070/073	böas	1	b öa s - - - -
 070/075	böehs	1	b öeh s - - - -
@@ -3804,7 +3804,7 @@
 071/147	bies	1	b ie s - - - -
 071/149	bies	1	b ie s - - - -
 071/151	bes	1	b e s - - - -
-071/153	NA	NA	- - - - - - - - - - - -
+071/153	NA	NA	-
 071/155	bies	1	b ie s - - - -
 071/157	bias	1	b ia s - - - -
 071/159	bias	1	b ia s - - - -
@@ -3854,7 +3854,7 @@
 072/095	bais	1	b ai s - - - -
 072/097	bäis	1	b äi s - - - -
 072/099	böis	1	b öi s - - - -
-072/101	NA	NA	- - - - - - - - - - - -
+072/101	NA	NA	-
 072/103	bäiss	1	b äi ss - - - -
 072/105	bäiss	1	b äi ss - - - -
 072/107	bäis	1	b äi s - - - -
@@ -3864,7 +3864,7 @@
 072/151	bies	1	b ie s - - - -
 072/153	bies	1	b ie s - - - -
 072/155	bes	1	b e s - - - -
-072/157	NA	NA	- - - - - - - - - - - -
+072/157	NA	NA	-
 072/159	bies	1	b ie s - - - -
 072/161	bijhn	1	b ijh n - - - -
 072/177	bejs	1	b ej s - - - -
@@ -3895,7 +3895,7 @@
 073/061	böis	1	b öi s - - - -
 073/063	bös	1	b ö s - - - -
 073/065	böas	1	b öa s - - - -
-073/067	NA	NA	- - - - - - - - - - - -
+073/067	NA	NA	-
 073/069	böass	1	b öa ss - - - -
 073/071	böas	1	b öa s - - - -
 073/073	bäis	1	b äi s - - - -
@@ -3922,8 +3922,8 @@
 073/151	pis	1	p i s - - - -
 073/153	bies	1	b ie s - - - -
 073/155	bies	1	b ie s - - - -
-073/157	NA	NA	- - - - - - - - - - - -
-073/159	NA	NA	- - - - - - - - - - - -
+073/157	NA	NA	-
+073/159	NA	NA	-
 073/161	bies	1	b ie s - - - -
 073/163	bir	1	b - r - - - -
 073/165	bes	1	b e s - - - -
@@ -4007,7 +4007,7 @@
 075/057	bäis	1	b äi s - - - -
 075/059	bös	1	b ö s - - - -
 075/061	böis	1	b öi s - - - -
-075/063	NA	NA	- - - - - - - - - - - -
+075/063	NA	NA	-
 075/065	bös	1	b ö s - - - -
 075/067	böäs	1	b öä s - - - -
 075/069	bäöss	1	b äö ss - - - -
@@ -4028,7 +4028,7 @@
 075/099	bäis	1	b äi s - - - -
 075/101	böss	1	b ö ss - - - -
 075/103	bäes	1	b äe s - - - -
-075/105	NA	NA	- - - - - - - - - - - -
+075/105	NA	NA	-
 075/107	bäiss	1	b äi ss - - - -
 075/135	slim	7	s l i m - -
 075/145	piess	1	p ie ss - - - -
@@ -4089,7 +4089,7 @@
 076/155	behs	1	b eh s - - - -
 076/161	bies	1	b ie s - - - -
 076/163	bies	1	b ie s - - - -
-076/165	NA	NA	- - - - - - - - - - - -
+076/165	NA	NA	-
 077/019	beis	1	b ei s - - - -
 077/021	beesz	1	b ee sz - - - -
 077/023	beis	1	b ei s - - - -
@@ -4173,7 +4173,7 @@
 078/095	bäis	1	b äi s - - - -
 078/097	bäis	1	b äi s - - - -
 078/099	beis	1	b ei s - - - -
-078/101	NA	NA	- - - - - - - - - - - -
+078/101	NA	NA	-
 078/103	beis	1	b ei s - - - -
 078/105	bais	1	b ai s - - - -
 078/135	schlimma	7	sch l i mm a -
@@ -4309,7 +4309,7 @@
 081/089	beis	1	b ei s - - - -
 081/091	bös	1	b ö s - - - -
 081/093	baes	1	b ae s - - - -
-081/095	NA	NA	- - - - - - - - - - - -
+081/095	NA	NA	-
 081/097	bäis	1	b äi s - - - -
 081/099	böis	1	b öi s - - - -
 081/101	beis	1	b ei s - - - -
@@ -4317,9 +4317,9 @@
 081/105	böis	1	b öi s - - - -
 081/107	bejs	1	b ej s - - - -
 081/109	bejs	1	b ej s - - - -
-081/111	NA	NA	- - - - - - - - - - - -
+081/111	NA	NA	-
 081/127	schlimma	7	sch l i mm a -
-081/129	NA	NA	- - - - - - - - - - - -
+081/129	NA	NA	-
 081/133	schlimma	7	sch l i mm a -
 081/147	bejs	1	b ej s - - - -
 081/191	schloiechten	6	sch l oie ch t e n
@@ -4370,7 +4370,7 @@
 082/113	schlimma	7	sch l i mm a -
 082/117	schlimm	7	sch l i mm - -
 082/129	wüldn	4	w ü l d - n
-082/131	NA	NA	- - - - - - - - - - - -
+082/131	NA	NA	-
 082/133	schlimma	7	sch l i mm a -
 082/135	schlima	7	sch l i m a -
 082/145	schlimmr	7	sch l i mm r -
@@ -4427,8 +4427,8 @@
 083/129	schlimman	7	sch l i mm a n
 083/131	schlima	7	sch l i m a -
 083/133	schirchn	6	sch - ir ch - - n
-083/135	NA	NA	- - - - - - - - - - - -
-083/139	NA	NA	- - - - - - - - - - - -
+083/135	NA	NA	-
+083/139	NA	NA	-
 083/143	schlimma	7	sch l i mm a -
 083/145	schlimman	7	sch l i mm a n
 083/147	bes	1	b e s - - - -
@@ -4449,7 +4449,7 @@
 084/053	bes	1	b e s - - - -
 084/055	bäis	1	b äi s - - - -
 084/057	bais	1	b ai s - - - -
-084/059	NA	NA	- - - - - - - - - - - -
+084/059	NA	NA	-
 084/061	baes	1	b ae s - - - -
 084/063	bais	1	b ai s - - - -
 084/065	baes	1	b ae s - - - -
@@ -4479,20 +4479,20 @@
 084/113	schlimma	7	sch l i mm a -
 084/115	bes	1	b e s - - - -
 084/117	bes	1	b e s - - - -
-084/119	NA	NA	- - - - - - - - - - - -
+084/119	NA	NA	-
 084/129	bös	1	b ö s - - - -
-084/131	NA	NA	- - - - - - - - - - - -
+084/131	NA	NA	-
 084/133	schlima	7	sch l i m a -
 084/135	schlimma	7	sch l i mm a -
-084/137	nixnutzigan	NA	- n i x n u t z i g a n
+084/137	nixnutzigan	NA	-
 084/139	schlimma	7	sch l i mm a -
 084/141	bös	1	b ö s - - - -
 084/143	giftin	12	g i f t i - - n
-084/145	NA	NA	- - - - - - - - - - - -
+084/145	NA	NA	-
 084/147	bes	1	b e s - - - -
-084/149	NA	NA	- - - - - - - - - - - -
+084/149	NA	NA	-
 084/171	schlema	7	sch l e m a -
-084/173	eagan	NA	- ea g a n - - - - - - -
+084/173	eagan	NA	-
 084/195	päs	1	p ä s - - - -
 085/031	bes	1	b e s - - - -
 085/033	bös	1	b ö s - - - -
@@ -4530,12 +4530,12 @@
 085/097	bejs	1	b ej s - - - -
 085/101	argn	NA	a r - g n - - - - - - -
 085/103	beeis	1	b eei s - - - -
-085/105	NA	NA	- - - - - - - - - - - -
-085/107	oargn	NA	- oa r g n - - - - - - -
-085/109	NA	NA	- - - - - - - - - - - -
+085/105	NA	NA	-
+085/107	oargn	NA	-
+085/109	NA	NA	-
 085/111	bes	1	b e s - - - -
 085/113	bäis	1	b äi s - - - -
-085/115	NA	NA	- - - - - - - - - - - -
+085/115	NA	NA	-
 085/117	schlimma	7	sch l i mm a -
 085/119	schliman	7	sch l i m a n
 085/121	wüldn	4	w ü l d - n
@@ -4543,17 +4543,17 @@
 085/125	grauslichn	NA	g - r au s l i ch - n - -
 085/127	schlima	7	sch l i m a -
 085/129	schlimman	7	sch l i mm a n
-085/131	NA	NA	- - - - - - - - - - - -
+085/131	NA	NA	-
 085/133	schlimma	7	sch l i mm a -
-085/135	robmvia	NA	- r o b m v ia - - - - -
-085/137	robnviah	NA	- r o b n v iah - - - - -
+085/135	robmvia	NA	-
+085/137	robnviah	NA	-
 085/139	schlima	7	sch l i m a -
-085/141	keckn	NA	- - - - -
-085/143	NA	NA	- - - - - - - - - - - -
+085/141	keckn	NA	-
+085/143	NA	NA	-
 085/145	schlima	7	sch l i m a -
 085/147	schiache	6	sch - ia ch - e -
 085/149	bes	1	b e s - - - -
-085/175	schroin	NA	- sch r oi n - - - - - - -
+085/175	schroin	NA	-
 085/193	peez	1	p ee z - - - -
 085/197	pees	1	p ee s - - - -
 086/033	bes	1	b e s - - - -
@@ -4569,7 +4569,7 @@
 086/053	baais	1	b aai s - - - -
 086/055	baes	1	b ae s - - - -
 086/057	bais	1	b ai s - - - -
-086/059	NA	NA	- - - - - - - - - - - -
+086/059	NA	NA	-
 086/061	bais	1	b ai s - - - -
 086/063	bais	1	b ai s - - - -
 086/065	baes	1	b ae s - - - -
@@ -4588,12 +4588,12 @@
 086/091	bes	1	b e s - - - -
 086/093	beis	1	b ei s - - - -
 086/095	bes	1	b e s - - - -
-086/097	NA	NA	- - - - - - - - - - - -
+086/097	NA	NA	-
 086/099	bes	1	b e s - - - -
 086/101	bes	1	b e s - - - -
-086/103	oagn	NA	- oa g n - - - - - - - -
+086/103	oagn	NA	-
 086/105	bes	1	b e s - - - -
-086/107	oagn	NA	- oa g n - - - - - - - -
+086/107	oagn	NA	-
 086/109	böis	1	b öi s - - - -
 086/111	bes	1	b e s - - - -
 086/113	bes	1	b e s - - - -
@@ -4607,7 +4607,7 @@
 086/129	bes	1	b e s - - - -
 086/131	habm	NA	h a - b - m - - - - - -
 086/133	bös	1	b ö s - - - -
-086/135	NA	NA	- - - - - - - - - - - -
+086/135	NA	NA	-
 086/137	schlimma	7	sch l i mm a -
 086/139	schlima	7	sch l i m a -
 086/141	bes	1	b e s - - - -
@@ -4616,7 +4616,7 @@
 086/147	gifting	12	g i f t i ng - -
 086/149	schlimma	7	sch l i mm a -
 086/151	bes	1	b e s - - - -
-086/175	schpraidn	NA	- sch p r ai d n - - - - -
+086/175	schpraidn	NA	-
 086/197	pes	1	p e s - - - -
 086/199	schlechen	6	sch l e ch - e n
 087/033	bös	1	b ö s - - - -
@@ -4643,7 +4643,7 @@
 087/077	beas	1	b ea s - - - -
 087/079	böas	1	b öa s - - - -
 087/081	bes	1	b e s - - - -
-087/083	NA	NA	- - - - - - - - - - - -
+087/083	NA	NA	-
 087/085	bös	1	b ö s - - - -
 087/087	bes	1	b e s - - - -
 087/089	böis	1	b öi s - - - -
@@ -4673,8 +4673,8 @@
 087/139	bes	1	b e s - - - -
 087/141	bös	1	b ö s - - - -
 087/143	grauslichn	NA	g - r au s l i ch - n - -
-087/145	keckn	NA	- - - - -
-087/147	müden	NA	- m ü d e n - - - - - -
+087/145	keckn	NA	-
+087/147	müden	NA	-
 087/149	schlima	7	sch l i m a -
 087/151	bös	1	b ö s - - - -
 088/035	bes	1	b e s - - - -
@@ -4711,23 +4711,23 @@
 088/097	bes	1	b e s - - - -
 088/099	bes	1	b e s - - - -
 088/101	bes	1	b e s - - - -
-088/103	iibinga	NA	- ii b i ng a - - - - - -
+088/103	iibinga	NA	-
 088/105	bös	1	b ö s - - - -
 088/107	bes	1	b e s - - - -
 088/109	bees	1	b ee s - - - -
-088/113	NA	NA	- - - - - - - - - - - -
+088/113	NA	NA	-
 088/115	bes	1	b e s - - - -
-088/117	NA	NA	- - - - - - - - - - - -
-088/121	NA	NA	- - - - - - - - - - - -
+088/117	NA	NA	-
+088/121	NA	NA	-
 088/123	habn	NA	h a - b - n - - - - - -
 088/127	zwichan	9	z w i ch - a - n
 088/129	graublinga	NA	g - r au b l i ng a - - -
 088/131	schlima	7	sch l i m a -
-088/137	NA	NA	- - - - - - - - - - - -
+088/137	NA	NA	-
 088/139	schlima	7	sch l i m a -
 088/141	grandigen	NA	g r a n d i g e n - - -
 088/143	grausslichen	NA	g - r au ss l i ch e n - -
-088/145	NA	NA	- - - - - - - - - - - -
+088/145	NA	NA	-
 088/147	schiachn	6	sch - ia ch - - n
 088/149	schlimma	7	sch l i mm a -
 089/035	bes	1	b e s - - - -
@@ -4758,8 +4758,8 @@
 089/085	bös	1	b ö s - - - -
 089/087	bös	1	b ö s - - - -
 089/089	bes	1	b e s - - - -
-089/091	NA	NA	- - - - - - - - - - - -
-089/093	NA	NA	- - - - - - - - - - - -
+089/091	NA	NA	-
+089/093	NA	NA	-
 089/095	bes	1	b e s - - - -
 089/097	böis	1	b öi s - - - -
 089/099	bes	1	b e s - - - -
@@ -4771,12 +4771,12 @@
 089/111	bes	1	b e s - - - -
 089/113	bes	1	b e s - - - -
 089/115	bes	1	b e s - - - -
-089/117	übachtn	NA	- ü b a ch t n - - - - -
-089/119	NA	NA	- - - - - - - - - - - -
+089/117	übachtn	NA	-
+089/119	NA	NA	-
 089/121	bes	1	b e s - - - -
-089/123	NA	NA	- - - - - - - - - - - -
+089/123	NA	NA	-
 089/125	schiachn	6	sch - ia ch - - n
-089/127	NA	NA	- - - - - - - - - - - -
+089/127	NA	NA	-
 089/129	grantign	NA	g r a n t i g - n - - -
 089/131	bös	1	b ö s - - - -
 089/133	schlimma	7	sch l i mm a -
@@ -4785,7 +4785,7 @@
 089/139	bös	1	b ö s - - - -
 089/141	schlima	7	sch l i m a -
 089/143	bös	1	b ö s - - - -
-089/145	NA	NA	- - - - - - - - - - - -
+089/145	NA	NA	-
 089/147	schlimma	7	sch l i mm a -
 089/149	bes	1	b e s - - - -
 090/035	bes	1	b e s - - - -
@@ -4821,23 +4821,23 @@
 090/095	bes	1	b e s - - - -
 090/097	bes	1	b e s - - - -
 090/099	bes	1	b e s - - - -
-090/101	oaarg	NA	- oaa r g - - - - - - - -
+090/101	oaarg	NA	-
 090/103	bös	1	b ö s - - - -
-090/105	NA	NA	- - - - - - - - - - - -
+090/105	NA	NA	-
 090/107	bes	1	b e s - - - -
 090/109	bes	1	b e s - - - -
 090/111	bes	1	b e s - - - -
 090/113	bes	1	b e s - - - -
 090/115	bes	1	b e s - - - -
-090/119	NA	NA	- - - - - - - - - - - -
+090/119	NA	NA	-
 090/121	bes	1	b e s - - - -
 090/123	bes	1	b e s - - - -
-090/125	NA	NA	- - - - - - - - - - - -
+090/125	NA	NA	-
 090/127	bes	1	b e s - - - -
 090/129	bes	1	b e s - - - -
-090/131	NA	NA	- - - - - - - - - - - -
+090/131	NA	NA	-
 090/133	grauslinga	NA	g - r au s l i ng a - - -
-090/135	NA	NA	- - - - - - - - - - - -
+090/135	NA	NA	-
 090/137	schlimma	7	sch l i mm a -
 090/139	schlimma	7	sch l i mm a -
 090/141	bes	1	b e s - - - -
@@ -4845,7 +4845,7 @@
 090/145	grauslichn	NA	g - r au s l i ch - n - -
 090/147	schlihma	7	sch l ih m a -
 090/149	schlimma	7	sch l i mm a -
-090/151	NA	NA	- - - - - - - - - - - -
+090/151	NA	NA	-
 091/035	bes	1	b e s - - - -
 091/037	bes	1	b e s - - - -
 091/039	behs	1	b eh s - - - -
@@ -4876,8 +4876,8 @@
 091/091	bes	1	b e s - - - -
 091/093	bes	1	b e s - - - -
 091/095	bös	1	b ö s - - - -
-091/097	iibinga	NA	- ii b i ng a - - - - - -
-091/099	NA	NA	- - - - - - - - - - - -
+091/097	iibinga	NA	-
+091/099	NA	NA	-
 091/101	bes	1	b e s - - - -
 091/103	bes	1	b e s - - - -
 091/105	bes	1	b e s - - - -
@@ -4892,19 +4892,19 @@
 091/125	zwidan	9	z w i - d a - n
 091/129	haben	NA	h a - b e n - - - - - -
 091/131	bös	1	b ö s - - - -
-091/133	NA	NA	- - - - - - - - - - - -
+091/133	NA	NA	-
 091/135	bes	1	b e s - - - -
 091/137	schlimma	7	sch l i mm a -
 091/139	grandinga	NA	g r a n d i ng a - - - -
 091/141	bes	1	b e s - - - -
-091/143	NA	NA	- - - - - - - - - - - -
+091/143	NA	NA	-
 091/145	grantichn	NA	g r a n t i ch - n - - -
 091/147	schlima	7	sch l i m a -
 091/149	schlimma	7	sch l i mm a -
-091/151	NA	NA	- - - - - - - - - - - -
+091/151	NA	NA	-
 091/155	schlechtn	6	sch l e ch t - n
 092/033	bes	1	b e s - - - -
-092/035	NA	NA	- - - - - - - - - - - -
+092/035	NA	NA	-
 092/037	bes	1	b e s - - - -
 092/039	bees	1	b ee s - - - -
 092/041	bees	1	b ee s - - - -
@@ -4922,9 +4922,9 @@
 092/065	bais	1	b ai s - - - -
 092/067	bais	1	b ai s - - - -
 092/069	bes	1	b e s - - - -
-092/071	NA	NA	- - - - - - - - - - - -
+092/071	NA	NA	-
 092/073	beas	1	b ea s - - - -
-092/075	fressat	NA	- f r e ss a t - - - - -
+092/075	fressat	NA	-
 092/077	beass	1	b ea ss - - - -
 092/079	böass	1	b öa ss - - - -
 092/081	biäs	1	b iä s - - - -
@@ -4946,20 +4946,20 @@
 092/113	bes	1	b e s - - - -
 092/115	bes	1	b e s - - - -
 092/117	bes	1	b e s - - - -
-092/119	NA	NA	- - - - - - - - - - - -
+092/119	NA	NA	-
 092/121	bes	1	b e s - - - -
-092/123	NA	NA	- - - - - - - - - - - -
+092/123	NA	NA	-
 092/125	bes	1	b e s - - - -
 092/127	bes	1	b e s - - - -
 092/129	bes	1	b e s - - - -
 092/131	bes	1	b e s - - - -
 092/133	bös	1	b ö s - - - -
 092/135	gorschlign	NA	g o r - sch l i g - n - -
-092/137	NA	NA	- - - - - - - - - - - -
+092/137	NA	NA	-
 092/139	schlima	7	sch l i m a -
 092/141	schlima	7	sch l i m a -
 092/143	bös	1	b ö s - - - -
-092/145	NA	NA	- - - - - - - - - - - -
+092/145	NA	NA	-
 092/147	bös	1	b ö s - - - -
 092/149	schliman	7	sch l i m a n
 092/151	bes	1	b e s - - - -
@@ -4986,7 +4986,7 @@
 093/075	beas	1	b ea s - - - -
 093/077	beas	1	b ea s - - - -
 093/079	böas	1	b öa s - - - -
-093/081	NA	NA	- - - - - - - - - - - -
+093/081	NA	NA	-
 093/083	beas	1	b ea s - - - -
 093/085	böss	1	b ö ss - - - -
 093/087	bös	1	b ö s - - - -
@@ -4997,7 +4997,7 @@
 093/097	bes	1	b e s - - - -
 093/099	bes	1	b e s - - - -
 093/101	bes	1	b e s - - - -
-093/103	NA	NA	- - - - - - - - - - - -
+093/103	NA	NA	-
 093/105	bes	1	b e s - - - -
 093/109	bes	1	b e s - - - -
 093/111	zwidan	9	z w i - d a - n
@@ -5018,8 +5018,8 @@
 093/145	bes	1	b e s - - - -
 093/147	schlimman	7	sch l i mm a n
 093/149	bes	1	b e s - - - -
-093/151	NA	NA	- - - - - - - - - - - -
-093/153	NA	NA	- - - - - - - - - - - -
+093/151	NA	NA	-
+093/153	NA	NA	-
 093/155	wüldn	4	w ü l d - n
 094/033	wiesde	5	w ie s d e -
 094/035	bees	1	b ee s - - - -
@@ -5048,22 +5048,22 @@
 094/081	bes	1	b e s - - - -
 094/083	bes	1	b e s - - - -
 094/085	bes	1	b e s - - - -
-094/087	NA	NA	- - - - - - - - - - - -
+094/087	NA	NA	-
 094/089	letzn	10	l e tz - n
 094/091	bes	1	b e s - - - -
 094/093	bes	1	b e s - - - -
 094/095	bes	1	b e s - - - -
 094/097	löz	10	l ö z - -
 094/099	bes	1	b e s - - - -
-094/101	NA	NA	- - - - - - - - - - - -
+094/101	NA	NA	-
 094/103	bes	1	b e s - - - -
 094/105	zwidan	9	z w i - d a - n
 094/107	bes	1	b e s - - - -
 094/109	bes	1	b e s - - - -
 094/111	bes	1	b e s - - - -
-094/113	NA	NA	- - - - - - - - - - - -
+094/113	NA	NA	-
 094/115	bes	1	b e s - - - -
-094/117	NA	NA	- - - - - - - - - - - -
+094/117	NA	NA	-
 094/119	bes	1	b e s - - - -
 094/121	zwidan	9	z w i - d a - n
 094/123	haben	NA	h a - b e n - - - - - -
@@ -5074,10 +5074,10 @@
 094/133	habn	NA	h a - b - n - - - - - -
 094/135	bös	1	b ö s - - - -
 094/137	bes	1	b e s - - - -
-094/139	NA	NA	- - - - - - - - - - - -
+094/139	NA	NA	-
 094/141	harben	NA	h a r b e n - - - - - -
 094/143	bes	1	b e s - - - -
-094/145	NA	NA	- - - - - - - - - - - -
+094/145	NA	NA	-
 094/147	schlimma	7	sch l i mm a -
 094/149	schlimma	7	sch l i mm a -
 094/151	schlimma	7	sch l i mm a -
@@ -5112,14 +5112,14 @@
 095/085	letzn	10	l e tz - n
 095/087	letzn	10	l e tz - n
 095/089	bes	1	b e s - - - -
-095/091	NA	NA	- - - - - - - - - - - -
+095/091	NA	NA	-
 095/093	letzn	10	l e tz - n
 095/095	letzn	10	l e tz - n
 095/097	bes	1	b e s - - - -
 095/099	bes	1	b e s - - - -
 095/101	bes	1	b e s - - - -
 095/103	bes	1	b e s - - - -
-095/105	NA	NA	- - - - - - - - - - - -
+095/105	NA	NA	-
 095/107	bes	1	b e s - - - -
 095/109	bes	1	b e s - - - -
 095/111	bes	1	b e s - - - -
@@ -5132,12 +5132,12 @@
 095/125	bes	1	b e s - - - -
 095/129	bes	1	b e s - - - -
 095/131	bes	1	b e s - - - -
-095/133	NA	NA	- - - - - - - - - - - -
+095/133	NA	NA	-
 095/139	bös	1	b ö s - - - -
 095/141	bes	1	b e s - - - -
 095/143	bes	1	b e s - - - -
 095/145	haam	NA	h aa - - - m - - - - - -
-095/147	NA	NA	- - - - - - - - - - - -
+095/147	NA	NA	-
 095/149	giftigen	12	g i f t i g e n
 095/151	habet	NA	h a - b e t - - - - - -
 095/153	habn	NA	h a - b - n - - - - - -
@@ -5163,7 +5163,7 @@
 096/067	bös	1	b ö s - - - -
 096/069	bös	1	b ö s - - - -
 096/071	bes	1	b e s - - - -
-096/075	NA	NA	- - - - - - - - - - - -
+096/075	NA	NA	-
 096/077	beas	1	b ea s - - - -
 096/079	böas	1	b öa s - - - -
 096/081	böas	1	b öa s - - - -
@@ -5184,7 +5184,7 @@
 096/111	bes	1	b e s - - - -
 096/113	bes	1	b e s - - - -
 096/115	bes	1	b e s - - - -
-096/117	NA	NA	- - - - - - - - - - - -
+096/117	NA	NA	-
 096/119	bös	1	b ö s - - - -
 096/121	bees	1	b ee s - - - -
 096/123	bes	1	b e s - - - -
@@ -5193,9 +5193,9 @@
 096/131	bes	1	b e s - - - -
 096/135	schiachn	6	sch - ia ch - - n
 096/137	bes	1	b e s - - - -
-096/139	NA	NA	- - - - - - - - - - - -
+096/139	NA	NA	-
 096/141	bes	1	b e s - - - -
-096/143	NA	NA	- - - - - - - - - - - -
+096/143	NA	NA	-
 096/145	bes	1	b e s - - - -
 096/147	schlimma	7	sch l i mm a -
 096/151	schiagn	6	sch - ia g - - n
@@ -5206,7 +5206,7 @@
 097/035	bes	1	b e s - - - -
 097/037	bes	1	b e s - - - -
 097/039	bes	1	b e s - - - -
-097/041	NA	NA	- - - - - - - - - - - -
+097/041	NA	NA	-
 097/043	bes	1	b e s - - - -
 097/045	bös	1	b ö s - - - -
 097/047	bös	1	b ö s - - - -
@@ -5238,7 +5238,7 @@
 097/099	bes	1	b e s - - - -
 097/103	bes	1	b e s - - - -
 097/105	bes	1	b e s - - - -
-097/107	NA	NA	- - - - - - - - - - - -
+097/107	NA	NA	-
 097/109	bes	1	b e s - - - -
 097/113	bes	1	b e s - - - -
 097/125	bes	1	b e s - - - -
@@ -5276,7 +5276,7 @@
 098/079	böas	1	b öa s - - - -
 098/081	böass	1	b öa ss - - - -
 098/083	böass	1	b öa ss - - - -
-098/085	NA	NA	- - - - - - - - - - - -
+098/085	NA	NA	-
 098/087	lözn	10	l ö z - n
 098/089	bös	1	b ö s - - - -
 098/091	bes	1	b e s - - - -
@@ -5288,13 +5288,13 @@
 098/107	bäis	1	b äi s - - - -
 098/109	bes	1	b e s - - - -
 098/111	bes	1	b e s - - - -
-098/119	NA	NA	- - - - - - - - - - - -
+098/119	NA	NA	-
 098/123	bes	1	b e s - - - -
-098/125	NA	NA	- - - - - - - - - - - -
+098/125	NA	NA	-
 098/127	bes	1	b e s - - - -
 098/135	bes	1	b e s - - - -
 098/137	bes	1	b e s - - - -
-098/139	NA	NA	- - - - - - - - - - - -
+098/139	NA	NA	-
 098/141	bes	1	b e s - - - -
 098/143	schlimma	7	sch l i mm a -
 098/145	schlimma	7	sch l i mm a -
@@ -5331,13 +5331,13 @@
 099/095	zrittn	13	z - r - i - tt - n
 099/099	bäs	1	b ä s - - - -
 099/101	bes	1	b e s - - - -
-099/103	lötzen	NA	- l ö t z e n - - - - -
+099/103	lötzen	NA	-
 099/105	böes	1	b öe s - - - -
 099/107	böes	1	b öe s - - - -
 099/109	bes	1	b e s - - - -
-099/111	NA	NA	- - - - - - - - - - - -
-099/113	NA	NA	- - - - - - - - - - - -
-099/121	NA	NA	- - - - - - - - - - - -
+099/111	NA	NA	-
+099/113	NA	NA	-
+099/121	NA	NA	-
 099/123	bes	1	b e s - - - -
 099/125	bes	1	b e s - - - -
 099/131	bes	1	b e s - - - -
@@ -5372,12 +5372,12 @@
 100/083	beas	1	b ea s - - - -
 100/089	beas	1	b ea s - - - -
 100/093	bös	1	b ö s - - - -
-100/095	ungnadn	NA	- u ng n a d n - - - - -
+100/095	ungnadn	NA	-
 100/097	bes	1	b e s - - - -
 100/099	bes	1	b e s - - - -
 100/101	bes	1	b e s - - - -
 100/109	bes	1	b e s - - - -
-100/111	NA	NA	- - - - - - - - - - - -
+100/111	NA	NA	-
 100/113	bes	1	b e s - - - -
 100/115	bes	1	b e s - - - -
 100/117	bes	1	b e s - - - -
@@ -5385,8 +5385,8 @@
 100/121	bess	1	b e ss - - - -
 100/125	bes	1	b e s - - - -
 100/127	bes	1	b e s - - - -
-100/129	NA	NA	- - - - - - - - - - - -
-100/133	NA	NA	- - - - - - - - - - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	bös	1	b ö s - - - -
 100/141	bös	1	b ö s - - - -
 100/143	wüldn	4	w ü l d - n
@@ -5413,18 +5413,18 @@
 101/077	beas	1	b ea s - - - -
 101/079	bäas	1	b äa s - - - -
 101/081	beas	1	b ea s - - - -
-101/091	unguadn	NA	- u ng - ua d n - - - - -
-101/093	NA	NA	- - - - - - - - - - - -
+101/091	unguadn	NA	-
+101/093	NA	NA	-
 101/095	zrittn	13	z - r - i - tt - n
 101/097	bes	1	b e s - - - -
 101/099	bes	1	b e s - - - -
 101/101	baiss	1	b ai ss - - - -
 101/103	beis	1	b ei s - - - -
 101/107	bes	1	b e s - - - -
-101/109	NA	NA	- - - - - - - - - - - -
+101/109	NA	NA	-
 101/113	bes	1	b e s - - - -
 101/115	bes	1	b e s - - - -
-101/121	NA	NA	- - - - - - - - - - - -
+101/121	NA	NA	-
 101/125	bes	1	b e s - - - -
 101/129	bes	1	b e s - - - -
 101/131	bös	1	b ö s - - - -
@@ -5462,11 +5462,11 @@
 102/089	böas	1	b öa s - - - -
 102/091	zwidau	9	z w i - d au - -
 102/093	ziwiedan	1NA	- - - - - - - - -
-102/095	uguadn	NA	- u g - ua d n - - - - -
+102/095	uguadn	NA	-
 102/097	bes	1	b e s - - - -
 102/099	böis	1	b öi s - - - -
 102/103	bejs	1	b ej s - - - -
-102/107	NA	NA	- - - - - - - - - - - -
+102/107	NA	NA	-
 102/109	beis	1	b ei s - - - -
 102/113	bös	1	b ö s - - - -
 102/115	bös	1	b ö s - - - -
@@ -5478,13 +5478,13 @@
 102/139	wüldn	4	w ü l d - n
 102/141	schlimmen	7	sch l i mm e n
 102/143	wüldn	4	w ü l d - n
-102/145	winniya	NA	- - - - - -
+102/145	winniya	NA	-
 103/039	bös	1	b ö s - - - -
 103/041	boos	1	b oo s - - - -
 103/043	bös	1	b ö s - - - -
 103/045	bös	1	b ö s - - - -
 103/047	böös	1	b öö s - - - -
-103/049	NA	NA	- - - - - - - - - - - -
+103/049	NA	NA	-
 103/051	bös	1	b ö s - - - -
 103/053	bös	1	b ö s - - - -
 103/055	bös	1	b ö s - - - -
@@ -5498,7 +5498,7 @@
 103/073	beass	1	b ea ss - - - -
 103/075	bäs	1	b ä s - - - -
 103/077	beas	1	b ea s - - - -
-103/079	NA	NA	- - - - - - - - - - - -
+103/079	NA	NA	-
 103/081	böas	1	b öa s - - - -
 103/083	beas	1	b ea s - - - -
 103/085	beas	1	b ea s - - - -
@@ -5509,7 +5509,7 @@
 103/099	bes	1	b e s - - - -
 103/101	bes	1	b e s - - - -
 103/105	bes	1	b e s - - - -
-103/107	NA	NA	- - - - - - - - - - - -
+103/107	NA	NA	-
 103/111	beäs	1	b eä s - - - -
 103/121	spern	NA	s p e r n - - - - - - -
 103/125	sperrn	NA	s p e rr n - - - - - - -
@@ -5542,12 +5542,12 @@
 104/067	bös	1	b ö s - - - -
 104/071	beas	1	b ea s - - - -
 104/075	beas	1	b ea s - - - -
-104/077	NA	NA	- - - - - - - - - - - -
+104/077	NA	NA	-
 104/079	beas	1	b ea s - - - -
 104/081	beas	1	b ea s - - - -
 104/083	beas	1	b ea s - - - -
 104/085	beass	1	b ea ss - - - -
-104/091	haftign	NA	- h a f t i g n - - - -
+104/091	haftign	NA	-
 104/095	bes	1	b e s - - - -
 104/101	bes	1	b e s - - - -
 104/103	bes	1	b e s - - - -
@@ -5556,15 +5556,15 @@
 104/113	beas	1	b ea s - - - -
 104/119	beas	1	b ea s - - - -
 104/121	beas	1	b ea s - - - -
-104/123	NA	NA	- - - - - - - - - - - -
-104/125	NA	NA	- - - - - - - - - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	schlimman	7	sch l i mm a n
 104/131	bös	1	b ö s - - - -
 104/133	zwidan	9	z w i - d a - n
 104/135	zwidan	9	z w i - d a - n
 104/137	zwidan	9	z w i - d a - n
 104/139	schlüman	7	sch l ü m a n
-104/141	schledn	NA	- sch l e d n - - - - - -
+104/141	schledn	NA	-
 104/143	schlechtn	6	sch l e ch t - n
 104/145	schlechtn	6	sch l e ch t - n
 105/031	bös	1	b ö s - - - -
@@ -5587,15 +5587,15 @@
 105/065	bös	1	b ö s - - - -
 105/067	bös	1	b ö s - - - -
 105/069	bös	1	b ö s - - - -
-105/071	NA	NA	- - - - - - - - - - - -
+105/071	NA	NA	-
 105/073	beas	1	b ea s - - - -
 105/075	beas	1	b ea s - - - -
 105/077	schiacha	6	sch - ia ch - a -
 105/079	beas	1	b ea s - - - -
 105/081	böas	1	b öa s - - - -
-105/085	NA	NA	- - - - - - - - - - - -
+105/085	NA	NA	-
 105/087	beas	1	b ea s - - - -
-105/089	NA	NA	- - - - - - - - - - - -
+105/089	NA	NA	-
 105/103	bes	1	b e s - - - -
 105/105	bös	1	b ö s - - - -
 105/111	beas	1	b ea s - - - -
@@ -5638,14 +5638,14 @@
 106/087	schiechn	6	sch i e ch - - n
 106/093	znichtn	13	z - - n i ch t - n
 106/097	bös	1	b ö s - - - -
-106/099	NA	NA	- - - - - - - - - - - -
+106/099	NA	NA	-
 106/103	bes	1	b e s - - - -
 106/111	beas	1	b ea s - - - -
 106/115	beas	1	b ea s - - - -
 106/121	beas	1	b ea s - - - -
 106/123	beas	1	b ea s - - - -
 106/125	speern	NA	s p ee r n - - - - - - -
-106/129	NA	NA	- - - - - - - - - - - -
+106/129	NA	NA	-
 106/131	bes	1	b e s - - - -
 106/133	schliman	7	sch l i m a n
 106/135	zwirdern	9	z w i r d e r n
@@ -5666,39 +5666,39 @@
 107/051	bös	1	b ö s - - - -
 107/053	bös	1	b ö s - - - -
 107/057	bös	1	b ö s - - - -
-107/059	NA	NA	- - - - - - - - - - - -
+107/059	NA	NA	-
 107/063	bös	1	b ö s - - - -
 107/065	bös	1	b ö s - - - -
 107/071	beas	1	b ea s - - - -
 107/075	beas	1	b ea s - - - -
 107/081	beans	1	b ea ns - - - -
-107/085	sonichn	NA	- - - - - - -
+107/085	sonichn	NA	-
 107/087	wildn	4	w i l d - n
 107/089	paita	1	p ai t a - - -
-107/091	tamischn	NA	- t a m i sch n - - - - -
-107/097	NA	NA	- - - - - - - - - - - -
+107/091	tamischn	NA	-
+107/097	NA	NA	-
 107/099	bes	1	b e s - - - -
 107/103	grantign	NA	g r a n t i g - n - - -
-107/105	NA	NA	- - - - - - - - - - - -
+107/105	NA	NA	-
 107/107	bös	1	b ö s - - - -
 107/111	beas	1	b ea s - - - -
 107/119	beass	1	b ea ss - - - -
-107/121	NA	NA	- - - - - - - - - - - -
+107/121	NA	NA	-
 107/123	beas	1	b ea s - - - -
-107/125	NA	NA	- - - - - - - - - - - -
+107/125	NA	NA	-
 107/127	beas	1	b ea s - - - -
-107/129	NA	NA	- - - - - - - - - - - -
-107/131	schearn	NA	- sch ea r n - - - - - - -
+107/129	NA	NA	-
+107/131	schearn	NA	-
 107/133	schlimman	7	sch l i mm a n
-107/135	NA	NA	- - - - - - - - - - - -
-107/137	NA	NA	- - - - - - - - - - - -
+107/135	NA	NA	-
+107/137	NA	NA	-
 107/139	bös	1	b ö s - - - -
 107/141	schlechtn	6	sch l e ch t - n
 107/143	schlechtn	6	sch l e ch t - n
 108/033	böss	1	b ö ss - - - -
 108/035	bös	1	b ö s - - - -
 108/037	bös	1	b ö s - - - -
-108/039	NA	NA	- - - - - - - - - - - -
+108/039	NA	NA	-
 108/041	bös	1	b ö s - - - -
 108/043	bös	1	b ö s - - - -
 108/047	bees	1	b ee s - - - -
@@ -5709,8 +5709,8 @@
 108/075	beass	1	b ea ss - - - -
 108/079	beas	1	b ea s - - - -
 108/081	znichtn	13	z - - n i ch t - n
-108/085	rau	NA	- r au - - - - - - - - -
-108/087	harbn	NA	- h a r b n - - - - - -
+108/085	rau	NA	-
+108/087	harbn	NA	-
 108/091	zuichtn	13	z u - - i ch t - n
 108/099	schiechn	6	sch i e ch - - n
 108/101	böes	1	b öe s - - - -
@@ -5726,7 +5726,7 @@
 108/125	bös	1	b ö s - - - -
 108/127	schiachn	6	sch - ia ch - - n
 108/129	bes	1	b e s - - - -
-108/131	NA	NA	- - - - - - - - - - - -
+108/131	NA	NA	-
 108/133	zwidan	9	z w i - d a - n
 108/135	wultn	4	w u l t - n
 108/137	wüldn	4	w ü l d - n
@@ -5745,7 +5745,7 @@
 109/065	bös	1	b ö s - - - -
 109/067	bös	1	b ö s - - - -
 109/075	beas	1	b ea s - - - -
-109/083	NA	NA	- - - - - - - - - - - -
+109/083	NA	NA	-
 109/087	pias	1	p ia s - - - -
 109/089	beas	1	b ea s - - - -
 109/091	peeas	1	p eea s - - - -
@@ -5753,10 +5753,10 @@
 109/095	zuichtn	13	z u - - i ch t - n
 109/097	znichtn	13	z - - n i ch t - n
 109/099	znichtn	13	z - - n i ch t - n
-109/101	NA	NA	- - - - - - - - - - - -
+109/101	NA	NA	-
 109/103	znichtn	13	z - - n i ch t - n
 109/107	bes	1	b e s - - - -
-109/109	NA	NA	- - - - - - - - - - - -
+109/109	NA	NA	-
 109/111	beäss	1	b eä ss - - - -
 109/113	schiachn	6	sch - ia ch - - n
 109/115	bess	1	b e ss - - - -
@@ -5768,9 +5768,9 @@
 109/127	schlimman	7	sch l i mm a n
 109/129	schiachn	6	sch - ia ch - - n
 109/131	wildn	4	w i l d - n
-109/133	NA	NA	- - - - - - - - - - - -
+109/133	NA	NA	-
 109/135	schtiamn	7	sch t ia m - n
-109/137	NA	NA	- - - - - - - - - - - -
+109/137	NA	NA	-
 109/139	wüldn	4	w ü l d - n
 110/035	böes	1	b öe s - - - -
 110/039	bös	1	b ö s - - - -
@@ -5783,10 +5783,10 @@
 110/061	beis	1	b ei s - - - -
 110/065	bes	1	b e s - - - -
 110/075	znichtn	13	z - - n i ch t - n
-110/079	NA	NA	- - - - - - - - - - - -
+110/079	NA	NA	-
 110/081	znichtn	13	z - - n i ch t - n
 110/083	znichtn	13	z - - n i ch t - n
-110/087	siaxn	NA	- s ia x n - - - - - - -
+110/087	siaxn	NA	-
 110/089	znichtn	13	z - - n i ch t - n
 110/091	zörnigin	13	z ö r n i g - i n
 110/093	beas	1	b ea s - - - -
@@ -5800,7 +5800,7 @@
 110/113	beas	1	b ea s - - - -
 110/115	beas	1	b ea s - - - -
 110/117	beas	1	b ea s - - - -
-110/119	NA	NA	- - - - - - - - - - - -
+110/119	NA	NA	-
 110/121	schlimmen	7	sch l i mm e n
 110/125	schlimen	7	sch l i m e n
 110/127	sperrn	NA	s p e rr n - - - - - - -
@@ -5818,12 +5818,12 @@
 111/045	bees	1	b ee s - - - -
 111/059	bös	1	b ö s - - - -
 111/073	znichte	13	z - - n i ch t e -
-111/075	lanichtn	NA	- l a n i ch t n - - - -
+111/075	lanichtn	NA	-
 111/077	schiachn	6	sch - ia ch - - n
 111/079	znichtn	13	z - - n i ch t - n
 111/081	beas	1	b ea s - - - -
 111/083	znichtn	13	z - - n i ch t - n
-111/087	NA	NA	- - - - - - - - - - - -
+111/087	NA	NA	-
 111/089	znichn	13	z - - n i ch - - n
 111/105	beas	1	b ea s - - - -
 111/107	bös	1	b ö s - - - -
@@ -5838,7 +5838,7 @@
 111/125	schlimman	7	sch l i mm a n
 112/037	bös	1	b ö s - - - -
 112/039	bös	1	b ö s - - - -
-112/041	schüchtere	NA	- - - - - - -
+112/041	schüchtere	NA	-
 112/043	bes	1	b e s - - - -
 112/047	bes	1	b e s - - - -
 112/059	bös	1	b ö s - - - -
@@ -5846,13 +5846,13 @@
 112/063	boisch	1	b oi sch - - - -
 112/075	zwichtn	9	z w i ch t - - n
 112/081	pes	1	p e s - - - -
-112/083	NA	NA	- - - - - - - - - - - -
+112/083	NA	NA	-
 112/085	znichtn	13	z - - n i ch t - n
 112/111	schliman	7	sch l i m a n
 112/115	schlimman	7	sch l i mm a n
 112/117	schlimmn	7	sch l i mm - n
 112/119	schlimmen	7	sch l i mm e n
-113/035	NA	NA	- - - - - - - - - - - -
+113/035	NA	NA	-
 113/037	böes	1	b öe s - - - -
 113/039	bäs	1	b ä s - - - -
 113/047	bes	1	b e s - - - -
@@ -5867,7 +5867,7 @@
 114/045	bes	1	b e s - - - -
 114/083	znichtn	13	z - - n i ch t - n
 114/085	znichtn	13	z - - n i ch t - n
-115/041	NA	NA	- - - - - - - - - - - -
+115/041	NA	NA	-
 115/043	bes	1	b e s - - - -
 115/045	bes	1	b e s - - - -
 115/083	znichtn	13	z - - n i ch t - n
@@ -5885,7 +5885,7 @@
 122/129	schlechtn	6	sch l e ch t - n
 123/081	böis	1	b öi s - - - -
 123/123	schlechtn	6	sch l e ch t - n
-123/125	geaschn	NA	- g ea sch n - - - - - - -
+123/125	geaschn	NA	-
 123/127	schlechtn	6	sch l e ch t - n
 123/129	schlechtn	6	sch l e ch t - n
 124/125	schlechtn	6	sch l e ch t - n

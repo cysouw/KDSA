@@ -39,12 +39,12 @@
 010/217	schwart	1	sch w a r t
 010/219	schwart	1	sch w a r t
 011/049	surd	1	s - u r d
-011/053	NA	NA	- - - - - -
-011/055	NA	NA	- - - - - -
+011/053	NA	NA	-
+011/055	NA	NA	-
 011/057	sort	1	s - o r t
 011/059	soort	1	s - oo r t
 011/061	soort	1	s - oo r t
-011/063	NA	NA	- - - - - -
+011/063	NA	NA	-
 011/065	soht	1	s - oh - t
 011/067	suat	1	s - ua - t
 011/069	suat	1	s - ua - t
@@ -197,7 +197,7 @@
 015/209	schwart	1	sch w a r t
 015/211	schwart	1	sch w a r t
 015/213	schwart	1	sch w a r t
-015/215	NA	NA	- - - - - -
+015/215	NA	NA	-
 015/217	schwart	1	sch w a r t
 015/219	schwart	1	sch w a r t
 015/221	schwart	1	sch w a r t
@@ -276,7 +276,7 @@
 017/187	schwat	1	sch w a - t
 017/189	schwat	1	sch w a - t
 017/191	schwat	1	sch w a - t
-017/193	NA	NA	- - - - - -
+017/193	NA	NA	-
 017/195	schwart	1	sch w a r t
 017/197	schwat	1	sch w a - t
 017/199	schwat	1	sch w a - t
@@ -612,11 +612,11 @@
 022/215	schwart	1	sch w a r t
 022/217	schwahrt	1	sch w ah r t
 022/219	schwart	1	sch w a r t
-023/055	NA	NA	- - - - - -
-023/059	NA	NA	- - - - - -
+023/055	NA	NA	-
+023/059	NA	NA	-
 023/061	swart	1	s w a r t
 023/063	swart	1	s w a r t
-023/065	NA	NA	- - - - - -
+023/065	NA	NA	-
 023/067	swatt	1	s w a - tt
 023/069	swart	1	s w a r t
 023/071	swart	1	s w a r t
@@ -627,7 +627,7 @@
 023/081	swart	1	s w a r t
 023/083	zwart	1	z w a r t
 023/085	swart	1	s w a r t
-023/087	NA	NA	- - - - - -
+023/087	NA	NA	-
 023/089	zwart	1	z w a r t
 023/091	swatt	1	s w a - tt
 023/093	swatt	1	s w a - tt
@@ -665,7 +665,7 @@
 023/167	schwat	1	sch w a - t
 023/169	schwat	1	sch w a - t
 023/175	schwart	1	sch w a r t
-023/177	NA	NA	- - - - - -
+023/177	NA	NA	-
 023/179	schwarz	1	sch w a r z
 023/181	schwarz	1	sch w a r z
 023/183	schwarz	1	sch w a r z
@@ -737,12 +737,12 @@
 024/163	schwart	1	sch w a r t
 024/165	schwat	1	sch w a - t
 024/167	schwat	1	sch w a - t
-024/169	NA	NA	- - - - - -
+024/169	NA	NA	-
 024/171	schwart	1	sch w a r t
 024/175	schwart	1	sch w a r t
 024/179	schwarz	1	sch w a r z
 024/181	schwarz	1	sch w a r z
-024/183	NA	NA	- - - - - -
+024/183	NA	NA	-
 024/185	schwarz	1	sch w a r z
 024/187	schwarz	1	sch w a r z
 024/189	schwarz	1	sch w a r z
@@ -880,7 +880,7 @@
 026/177	schwart	1	sch w a r t
 026/179	schwart	1	sch w a r t
 026/181	schwarz	1	sch w a r z
-026/183	NA	NA	- - - - - -
+026/183	NA	NA	-
 026/185	schwarz	1	sch w a r z
 026/187	schwarz	1	sch w a r z
 026/189	schwarz	1	sch w a r z
@@ -892,7 +892,7 @@
 027/043	swart	1	s w a r t
 027/045	sswart	1	ss w a r t
 027/047	swart	1	s w a r t
-027/051	NA	NA	- - - - - -
+027/051	NA	NA	-
 027/053	sswatt	1	ss w a - tt
 027/055	swart	1	s w a r t
 027/057	swart	1	s w a r t
@@ -902,7 +902,7 @@
 027/065	swatt	1	s w a - tt
 027/067	swart	1	s w a r t
 027/069	swatt	1	s w a - tt
-027/071	NA	NA	- - - - - -
+027/071	NA	NA	-
 027/073	swart	1	s w a r t
 027/075	sswart	1	ss w a r t
 027/077	sswart	1	ss w a r t
@@ -1163,7 +1163,7 @@
 030/159	schwat	1	sch w a - t
 030/161	schwath	1	sch w a - th
 030/163	schwat	1	sch w a - t
-030/165	NA	NA	- - - - - -
+030/165	NA	NA	-
 030/167	schwat	1	sch w a - t
 030/169	schwaad	1	sch w aa - d
 030/171	schwart	1	sch w a r t
@@ -1640,7 +1640,7 @@
 037/155	schwat	1	sch w a - t
 037/157	schwath	1	sch w a - th
 037/159	schwat	1	sch w a - t
-037/163	NA	NA	- - - - - -
+037/163	NA	NA	-
 037/171	schwat	1	sch w a - t
 038/033	schwatt	1	sch w a - tt
 038/035	schwat	1	sch w a - t
@@ -1703,7 +1703,7 @@
 038/159	schwat	1	sch w a - t
 038/161	schwat	1	sch w a - t
 038/163	schwat	1	sch w a - t
-039/029	NA	NA	- - - - - -
+039/029	NA	NA	-
 039/031	swart	1	s w a r t
 039/033	schwart	1	sch w a r t
 039/035	swatt	1	s w a - tt
@@ -1801,7 +1801,7 @@
 040/099	schwart	1	sch w a r t
 040/101	schwart	1	sch w a r t
 040/103	schwart	1	sch w a r t
-040/105	NA	NA	- - - - - -
+040/105	NA	NA	-
 040/107	schwarz	1	sch w a r z
 040/109	schwarz	1	sch w a r z
 040/111	schwart	1	sch w a r t
@@ -1995,7 +1995,7 @@
 043/125	schwarz	1	sch w a r z
 043/127	schwarz	1	sch w a r z
 043/129	schworz	1	sch w o r z
-043/131	NA	NA	- - - - - -
+043/131	NA	NA	-
 043/133	schworz	1	sch w o r z
 043/135	schworz	1	sch w o r z
 043/137	schworz	1	sch w o r z
@@ -2123,11 +2123,11 @@
 045/145	schworz	1	sch w o r z
 045/155	schworz	1	sch w o r z
 046/031	schwatt	1	sch w a - tt
-046/033	NA	NA	- - - - - -
+046/033	NA	NA	-
 046/035	schwatt	1	sch w a - tt
 046/037	schwatt	1	sch w a - tt
 046/039	schwat	1	sch w a - t
-046/041	NA	NA	- - - - - -
+046/041	NA	NA	-
 046/043	schwat	1	sch w a - t
 046/045	schwart	1	sch w a r t
 046/047	schwat	1	sch w a - t
@@ -2162,10 +2162,10 @@
 046/105	schwart	1	sch w a r t
 046/107	schwart	1	sch w a r t
 046/109	schwart	1	sch w a r t
-046/111	NA	NA	- - - - - -
+046/111	NA	NA	-
 046/113	schwarz	1	sch w a r z
 046/115	schwarz	1	sch w a r z
-046/117	NA	NA	- - - - - -
+046/117	NA	NA	-
 046/119	schwarz	1	sch w a r z
 046/121	schwarz	1	sch w a r z
 046/123	schworz	1	sch w o r z
@@ -2224,7 +2224,7 @@
 047/113	schwarz	1	sch w a r z
 047/115	schwarz	1	sch w a r z
 047/117	schwarz	1	sch w a r z
-047/119	NA	NA	- - - - - -
+047/119	NA	NA	-
 047/123	schworz	1	sch w o r z
 047/125	schworz	1	sch w o r z
 047/127	schwarz	1	sch w a r z
@@ -2440,7 +2440,7 @@
 051/029	schwatt	1	sch w a - tt
 051/031	schwatt	1	sch w a - tt
 051/033	swatt	1	s w a - tt
-051/035	NA	NA	- - - - - -
+051/035	NA	NA	-
 051/037	schwatt	1	sch w a - tt
 051/039	schwat	1	sch w a - t
 051/041	swatt	1	s w a - tt
@@ -2501,7 +2501,7 @@
 051/151	schworz	1	sch w o r z
 051/153	schworz	1	sch w o r z
 051/155	schworz	1	sch w o r z
-051/157	NA	NA	- - - - - -
+051/157	NA	NA	-
 052/023	swart	1	s w a r t
 052/025	swart	1	s w a r t
 052/027	schwatt	1	sch w a - tt
@@ -2547,7 +2547,7 @@
 052/109	schwarz	1	sch w a r z
 052/111	schwarz	1	sch w a r z
 052/113	schwarz	1	sch w a r z
-052/115	NA	NA	- - - - - -
+052/115	NA	NA	-
 052/117	schwarz	1	sch w a r z
 052/121	schwarz	1	sch w a r z
 052/123	schworz	1	sch w o r z
@@ -2616,7 +2616,7 @@
 053/111	schwarz	1	sch w a r z
 053/113	schwarz	1	sch w a r z
 053/115	schwoarz	1	sch w oa r z
-053/121	NA	NA	- - - - - -
+053/121	NA	NA	-
 053/123	schworz	1	sch w o r z
 053/125	schworz	1	sch w o r z
 053/127	schworz	1	sch w o r z
@@ -2687,7 +2687,7 @@
 054/121	schworz	1	sch w o r z
 054/123	schworz	1	sch w o r z
 054/125	schwoarz	1	sch w oa r z
-054/127	NA	NA	- - - - - -
+054/127	NA	NA	-
 054/131	schworz	1	sch w o r z
 054/133	schworz	1	sch w o r z
 054/135	schworz	1	sch w o r z
@@ -2720,7 +2720,7 @@
 055/047	swuart	1	s w ua r t
 055/049	swuart	1	s w ua r t
 055/051	schwart	1	sch w a r t
-055/053	NA	NA	- - - - - -
+055/053	NA	NA	-
 055/055	schwart	1	sch w a r t
 055/057	swart	1	s w a r t
 055/059	schwart	1	sch w a r t
@@ -2733,7 +2733,7 @@
 055/073	schwarz	1	sch w a r z
 055/075	schwarz	1	sch w a r z
 055/077	schwarz	1	sch w a r z
-055/079	NA	NA	- - - - - -
+055/079	NA	NA	-
 055/081	schwarz	1	sch w a r z
 055/083	schwarz	1	sch w a r z
 055/085	schwarz	1	sch w a r z
@@ -2777,7 +2777,7 @@
 056/023	schwort	1	sch w o r t
 056/025	schwatt	1	sch w a - tt
 056/027	schwatt	1	sch w a - tt
-056/029	NA	NA	- - - - - -
+056/029	NA	NA	-
 056/031	schwatt	1	sch w a - tt
 056/033	schwat	1	sch w a - t
 056/035	schwatt	1	sch w a - tt
@@ -2839,7 +2839,7 @@
 056/149	schworz	1	sch w o r z
 056/151	schworz	1	sch w o r z
 056/153	schworz	1	sch w o r z
-056/155	NA	NA	- - - - - -
+056/155	NA	NA	-
 056/157	schworz	1	sch w o r z
 056/159	schworz	1	sch w o r z
 056/161	schworz	1	sch w o r z
@@ -2964,12 +2964,12 @@
 058/113	schwarz	1	sch w a r z
 058/115	schwarz	1	sch w a r z
 058/117	schworz	1	sch w o r z
-058/119	NA	NA	- - - - - -
+058/119	NA	NA	-
 058/121	schworz	1	sch w o r z
 058/123	schwoarz	1	sch w oa r z
 058/125	schwooz	1	sch w oo - z
 058/127	schwoarz	1	sch w oa r z
-058/129	NA	NA	- - - - - -
+058/129	NA	NA	-
 058/131	schwoarz	1	sch w oa r z
 058/133	schworz	1	sch w o r z
 058/135	schworz	1	sch w o r z
@@ -3030,18 +3030,18 @@
 059/103	schwarz	1	sch w a r z
 059/105	schworz	1	sch w o r z
 059/107	schwaz	1	sch w a - z
-059/109	NA	NA	- - - - - -
-059/111	NA	NA	- - - - - -
+059/109	NA	NA	-
+059/111	NA	NA	-
 059/113	schworz	1	sch w o r z
 059/115	schwarz	1	sch w a r z
 059/117	schwaarz	1	sch w aa r z
 059/119	schworz	1	sch w o r z
-059/121	NA	NA	- - - - - -
+059/121	NA	NA	-
 059/123	schwoarz	1	sch w oa r z
 059/125	schworz	1	sch w o r z
 059/127	schworz	1	sch w o r z
 059/129	schworz	1	sch w o r z
-059/131	NA	NA	- - - - - -
+059/131	NA	NA	-
 059/133	schworrz	1	sch w o rr z
 059/135	schworz	1	sch w o r z
 059/137	schworz	1	sch w o r z
@@ -3068,7 +3068,7 @@
 060/033	schwatz	1	sch w a - tz
 060/035	schwazz	1	sch w a - zz
 060/037	schwatz	1	sch w a - tz
-060/039	NA	NA	- - - - - -
+060/039	NA	NA	-
 060/041	schwarz	1	sch w a r z
 060/043	schwarz	1	sch w a r z
 060/045	schworz	1	sch w o r z
@@ -3113,8 +3113,8 @@
 060/123	schworz	1	sch w o r z
 060/125	schworrz	1	sch w o rr z
 060/127	schworz	1	sch w o r z
-060/129	NA	NA	- - - - - -
-060/131	NA	NA	- - - - - -
+060/129	NA	NA	-
+060/131	NA	NA	-
 060/135	schworz	1	sch w o r z
 060/137	schworz	1	sch w o r z
 060/139	schwuorz	1	sch w uo r z
@@ -3123,7 +3123,7 @@
 060/145	schworz	1	sch w o r z
 060/147	schworz	1	sch w o r z
 060/149	schwoarz	1	sch w oa r z
-060/151	NA	NA	- - - - - -
+060/151	NA	NA	-
 060/153	schworz	1	sch w o r z
 060/155	schworz	1	sch w o r z
 060/157	schworz	1	sch w o r z
@@ -3152,7 +3152,7 @@
 061/059	schwoatz	1	sch w oa - tz
 061/061	schwozz	1	sch w o - zz
 061/063	schworz	1	sch w o r z
-061/065	NA	NA	- - - - - -
+061/065	NA	NA	-
 061/067	schwoaz	1	sch w oa - z
 061/069	schwarz	1	sch w a r z
 061/071	schworz	1	sch w o r z
@@ -3178,15 +3178,15 @@
 061/111	schworz	1	sch w o r z
 061/113	schworz	1	sch w o r z
 061/115	schworz	1	sch w o r z
-061/117	NA	NA	- - - - - -
+061/117	NA	NA	-
 061/119	schwatz	1	sch w a - tz
 061/121	schwatz	1	sch w a - tz
 061/123	schworz	1	sch w o r z
 061/125	schworz	1	sch w o r z
-061/127	NA	NA	- - - - - -
+061/127	NA	NA	-
 061/129	schwoz	1	sch w o - z
 061/131	schworz	1	sch w o r z
-061/133	NA	NA	- - - - - -
+061/133	NA	NA	-
 061/137	schwoarz	1	sch w oa r z
 061/139	schworz	1	sch w o r z
 061/141	schworz	1	sch w o r z
@@ -3226,7 +3226,7 @@
 062/065	schwaäz	1	sch w aä - z
 062/067	schwuaz	1	sch w ua - z
 062/069	schwaarz	1	sch w aa r z
-062/071	NA	NA	- - - - - -
+062/071	NA	NA	-
 062/073	schwaarz	1	sch w aa r z
 062/075	schwoarz	1	sch w oa r z
 062/077	schwarz	1	sch w a r z
@@ -3246,19 +3246,19 @@
 062/105	schwarz	1	sch w a r z
 062/107	schwarz	1	sch w a r z
 062/109	schworz	1	sch w o r z
-062/111	NA	NA	- - - - - -
+062/111	NA	NA	-
 062/113	schworz	1	sch w o r z
-062/115	NA	NA	- - - - - -
+062/115	NA	NA	-
 062/117	schwurz	1	sch w u r z
 062/119	schwatz	1	sch w a - tz
-062/121	NA	NA	- - - - - -
+062/121	NA	NA	-
 062/123	schworz	1	sch w o r z
 062/125	schworz	1	sch w o r z
 062/127	schworz	1	sch w o r z
-062/129	NA	NA	- - - - - -
-062/131	NA	NA	- - - - - -
+062/129	NA	NA	-
+062/131	NA	NA	-
 062/133	schwaz	1	sch w a - z
-062/135	NA	NA	- - - - - -
+062/135	NA	NA	-
 062/137	schworz	1	sch w o r z
 062/139	schworz	1	sch w o r z
 062/141	schworz	1	sch w o r z
@@ -3267,7 +3267,7 @@
 062/147	schworz	1	sch w o r z
 062/149	schworz	1	sch w o r z
 062/151	schworz	1	sch w o r z
-062/153	NA	NA	- - - - - -
+062/153	NA	NA	-
 062/155	schworz	1	sch w o r z
 062/157	schworz	1	sch w o r z
 062/159	schworz	1	sch w o r z
@@ -3320,16 +3320,16 @@
 063/111	schworz	1	sch w o r z
 063/113	schworz	1	sch w o r z
 063/115	schworz	1	sch w o r z
-063/117	NA	NA	- - - - - -
-063/119	NA	NA	- - - - - -
+063/117	NA	NA	-
+063/119	NA	NA	-
 063/121	schworz	1	sch w o r z
-063/123	NA	NA	- - - - - -
-063/125	NA	NA	- - - - - -
+063/123	NA	NA	-
+063/125	NA	NA	-
 063/127	schworz	1	sch w o r z
 063/135	schwaz	1	sch w a - z
-063/137	NA	NA	- - - - - -
+063/137	NA	NA	-
 063/139	schworz	1	sch w o r z
-063/141	NA	NA	- - - - - -
+063/141	NA	NA	-
 063/143	schwarz	1	sch w a r z
 063/145	schwaz	1	sch w a - z
 063/147	schwoorz	1	sch w oo r z
@@ -3361,7 +3361,7 @@
 064/055	schwoaz	1	sch w oa - z
 064/057	schwoarz	1	sch w oa r z
 064/059	schwarz	1	sch w a r z
-064/061	NA	NA	- - - - - -
+064/061	NA	NA	-
 064/063	schwoaaz	1	sch w oaa - z
 064/065	schwoäz	1	sch w oä - z
 064/067	schwuaz	1	sch w ua - z
@@ -3382,23 +3382,23 @@
 064/097	schwarz	1	sch w a r z
 064/099	schwarz	1	sch w a r z
 064/101	schwarz	1	sch w a r z
-064/103	NA	NA	- - - - - -
+064/103	NA	NA	-
 064/105	schwarz	1	sch w a r z
 064/107	schworz	1	sch w o r z
 064/109	schworz	1	sch w o r z
-064/111	NA	NA	- - - - - -
+064/111	NA	NA	-
 064/113	schworz	1	sch w o r z
 064/115	schworz	1	sch w o r z
 064/117	schworz	1	sch w o r z
 064/119	schworz	1	sch w o r z
 064/121	schworz	1	sch w o r z
-064/123	NA	NA	- - - - - -
+064/123	NA	NA	-
 064/125	schworz	1	sch w o r z
 064/127	schworz	1	sch w o r z
 064/135	schwatz	1	sch w a - tz
 064/137	schwotz	1	sch w o - tz
 064/139	schworz	1	sch w o r z
-064/141	NA	NA	- - - - - -
+064/141	NA	NA	-
 064/143	schwaz	1	sch w a - z
 064/145	schwaz	1	sch w a - z
 064/147	schwarz	1	sch w a r z
@@ -3444,20 +3444,20 @@
 065/087	schwarz	1	sch w a r z
 065/089	schwarz	1	sch w a r z
 065/091	schwarz	1	sch w a r z
-065/093	NA	NA	- - - - - -
+065/093	NA	NA	-
 065/095	schwarz	1	sch w a r z
 065/097	schwarz	1	sch w a r z
 065/101	schwarz	1	sch w a r z
 065/103	schwarz	1	sch w a r z
 065/105	schwaarz	1	sch w aa r z
 065/107	schworz	1	sch w o r z
-065/109	NA	NA	- - - - - -
+065/109	NA	NA	-
 065/111	schworz	1	sch w o r z
-065/113	NA	NA	- - - - - -
+065/113	NA	NA	-
 065/115	schworz	1	sch w o r z
 065/121	schworz	1	sch w o r z
 065/123	schwotz	1	sch w o - tz
-065/137	NA	NA	- - - - - -
+065/137	NA	NA	-
 065/139	schworz	1	sch w o r z
 065/143	schwaz	1	sch w a - z
 065/145	schwatz	1	sch w a - tz
@@ -3469,13 +3469,13 @@
 065/157	schworz	1	sch w o r z
 065/159	schworz	1	sch w o r z
 066/021	schwarz	1	sch w a r z
-066/023	NA	NA	- - - - - -
+066/023	NA	NA	-
 066/025	schwarz	1	sch w a r z
 066/027	schwatz	1	sch w a - tz
 066/029	schwarz	1	sch w a r z
 066/031	schwaz	1	sch w a - z
 066/033	schwatz	1	sch w a - tz
-066/035	NA	NA	- - - - - -
+066/035	NA	NA	-
 066/037	schwatz	1	sch w a - tz
 066/039	schwarz	1	sch w a r z
 066/041	schworz	1	sch w o r z
@@ -3509,15 +3509,15 @@
 066/097	schwarz	1	sch w a r z
 066/099	schworz	1	sch w o r z
 066/101	schworz	1	sch w o r z
-066/103	NA	NA	- - - - - -
+066/103	NA	NA	-
 066/105	schworz	1	sch w o r z
 066/107	schwoarz	1	sch w oa r z
 066/109	schworz	1	sch w o r z
 066/111	schworz	1	sch w o r z
-066/113	NA	NA	- - - - - -
+066/113	NA	NA	-
 066/121	schworz	1	sch w o r z
 066/139	schwoaz	1	sch w oa - z
-066/143	NA	NA	- - - - - -
+066/143	NA	NA	-
 066/145	schworz	1	sch w o r z
 066/147	schworz	1	sch w o r z
 066/149	schwarz	1	sch w a r z
@@ -3569,14 +3569,14 @@
 067/097	schwaez	1	sch w ae - z
 067/099	schwoaaz	1	sch w oaa - z
 067/101	schwaz	1	sch w a - z
-067/103	NA	NA	- - - - - -
+067/103	NA	NA	-
 067/105	schwarz	1	sch w a r z
-067/107	NA	NA	- - - - - -
+067/107	NA	NA	-
 067/109	schwoaz	1	sch w oa - z
 067/111	schworz	1	sch w o r z
 067/113	schworz	1	sch w o r z
 067/143	schwaz	1	sch w a - z
-067/145	NA	NA	- - - - - -
+067/145	NA	NA	-
 067/147	schwoarz	1	sch w oa r z
 067/149	schwarz	1	sch w a r z
 067/151	schwatz	1	sch w a - tz
@@ -3599,7 +3599,7 @@
 068/037	schwaz	1	sch w a - z
 068/039	schwarz	1	sch w a r z
 068/041	schworz	1	sch w o r z
-068/043	NA	NA	- - - - - -
+068/043	NA	NA	-
 068/045	schworz	1	sch w o r z
 068/047	schwoatz	1	sch w oa - tz
 068/049	schaaorz	1	sch - aao r z
@@ -3613,7 +3613,7 @@
 068/065	schwoaz	1	sch w oa - z
 068/067	schwarz	1	sch w a r z
 068/069	schwoaz	1	sch w oa - z
-068/071	NA	NA	- - - - - -
+068/071	NA	NA	-
 068/073	schworz	1	sch w o r z
 068/075	schwarz	1	sch w a r z
 068/077	schwarz	1	sch w a r z
@@ -3627,18 +3627,18 @@
 068/093	schwoaz	1	sch w oa - z
 068/095	schwaäz	1	sch w aä - z
 068/097	schwoarz	1	sch w oa r z
-068/099	NA	NA	- - - - - -
-068/101	NA	NA	- - - - - -
-068/103	NA	NA	- - - - - -
+068/099	NA	NA	-
+068/101	NA	NA	-
+068/103	NA	NA	-
 068/105	schwatz	1	sch w a - tz
 068/107	schwaz	1	sch w a - z
-068/109	NA	NA	- - - - - -
+068/109	NA	NA	-
 068/111	schworz	1	sch w o r z
 068/145	schwaz	1	sch w a - z
-068/147	NA	NA	- - - - - -
+068/147	NA	NA	-
 068/149	schwarz	1	sch w a r z
 068/151	schwoorz	1	sch w oo r z
-068/153	NA	NA	- - - - - -
+068/153	NA	NA	-
 068/155	schworz	1	sch w o r z
 068/157	schworz	1	sch w o r z
 068/159	schworz	1	sch w o r z
@@ -3687,13 +3687,13 @@
 069/101	schwoz	1	sch w o - z
 069/103	schwooz	1	sch w oo - z
 069/105	schworz	1	sch w o r z
-069/107	NA	NA	- - - - - -
+069/107	NA	NA	-
 069/109	schwoaz	1	sch w oa - z
 069/111	schworz	1	sch w o r z
-069/147	NA	NA	- - - - - -
-069/149	NA	NA	- - - - - -
+069/147	NA	NA	-
+069/149	NA	NA	-
 069/151	schwarz	1	sch w a r z
-069/153	NA	NA	- - - - - -
+069/153	NA	NA	-
 069/157	schwoarz	1	sch w oa r z
 069/159	schworz	1	sch w o r z
 069/161	schworz	1	sch w o r z
@@ -3702,7 +3702,7 @@
 070/019	schwaarz	1	sch w aa r z
 070/023	schwoarz	1	sch w oa r z
 070/025	schwarz	1	sch w a r z
-070/027	NA	NA	- - - - - -
+070/027	NA	NA	-
 070/029	schwaz	1	sch w a - z
 070/031	schwarz	1	sch w a r z
 070/033	schwarz	1	sch w a r z
@@ -3723,7 +3723,7 @@
 070/063	schwaarz	1	sch w aa r z
 070/065	schwarz	1	sch w a r z
 070/067	schwooz	1	sch w oo - z
-070/069	NA	NA	- - - - - -
+070/069	NA	NA	-
 070/071	schwarz	1	sch w a r z
 070/073	schwaz	1	sch w a - z
 070/075	schworz	1	sch w o r z
@@ -3737,20 +3737,20 @@
 070/091	schwarz	1	sch w a r z
 070/093	schwaarz	1	sch w aa r z
 070/095	schworz	1	sch w o r z
-070/097	NA	NA	- - - - - -
-070/099	NA	NA	- - - - - -
-070/101	NA	NA	- - - - - -
-070/103	NA	NA	- - - - - -
-070/105	NA	NA	- - - - - -
+070/097	NA	NA	-
+070/099	NA	NA	-
+070/101	NA	NA	-
+070/103	NA	NA	-
+070/105	NA	NA	-
 070/107	schwatz	1	sch w a - tz
-070/109	NA	NA	- - - - - -
+070/109	NA	NA	-
 070/111	schworz	1	sch w o r z
 070/145	schwotz	1	sch w o - tz
-070/147	NA	NA	- - - - - -
-070/149	NA	NA	- - - - - -
-070/151	NA	NA	- - - - - -
-070/153	NA	NA	- - - - - -
-070/155	NA	NA	- - - - - -
+070/147	NA	NA	-
+070/149	NA	NA	-
+070/151	NA	NA	-
+070/153	NA	NA	-
+070/155	NA	NA	-
 070/157	schworz	1	sch w o r z
 070/159	schworz	1	sch w o r z
 070/161	schworz	1	sch w o r z
@@ -3762,7 +3762,7 @@
 071/023	schwoarz	1	sch w oa r z
 071/025	schwuaz	1	sch w ua - z
 071/027	schwoaz	1	sch w oa - z
-071/029	NA	NA	- - - - - -
+071/029	NA	NA	-
 071/031	schwarz	1	sch w a r z
 071/033	schwatz	1	sch w a - tz
 071/035	schwarz	1	sch w a r z
@@ -3784,7 +3784,7 @@
 071/069	schwoz	1	sch w o - z
 071/071	schwarz	1	sch w a r z
 071/073	schwarz	1	sch w a r z
-071/075	NA	NA	- - - - - -
+071/075	NA	NA	-
 071/077	schwoaz	1	sch w oa - z
 071/079	schwaz	1	sch w a - z
 071/081	schwatz	1	sch w a - tz
@@ -3797,12 +3797,12 @@
 071/095	schwoaz	1	sch w oa - z
 071/097	schwoarz	1	sch w oa r z
 071/099	schworz	1	sch w o r z
-071/101	NA	NA	- - - - - -
+071/101	NA	NA	-
 071/103	schwaoz	1	sch w ao - z
-071/105	NA	NA	- - - - - -
-071/145	NA	NA	- - - - - -
+071/105	NA	NA	-
+071/145	NA	NA	-
 071/147	schworz	1	sch w o r z
-071/149	NA	NA	- - - - - -
+071/149	NA	NA	-
 071/151	schworz	1	sch w o r z
 071/153	schwoarz	1	sch w oa r z
 071/155	schworz	1	sch w o r z
@@ -3813,7 +3813,7 @@
 071/177	schwoaz	1	sch w oa - z
 071/179	schwarz	1	sch w a r z
 072/017	schwarz	1	sch w a r z
-072/019	NA	NA	- - - - - -
+072/019	NA	NA	-
 072/021	schwarz	1	sch w a r z
 072/023	schwaarz	1	sch w aa r z
 072/025	schwarz	1	sch w a r z
@@ -3846,32 +3846,32 @@
 072/079	schwaaez	1	sch w aae - z
 072/081	schwoarz	1	sch w oa r z
 072/083	schwoaz	1	sch w oa - z
-072/085	NA	NA	- - - - - -
+072/085	NA	NA	-
 072/087	schwoaz	1	sch w oa - z
 072/089	schwoaz	1	sch w oa - z
 072/091	schwarz	1	sch w a r z
 072/093	schwarz	1	sch w a r z
 072/095	schwarz	1	sch w a r z
 072/097	schwarz	1	sch w a r z
-072/099	NA	NA	- - - - - -
-072/101	NA	NA	- - - - - -
+072/099	NA	NA	-
+072/101	NA	NA	-
 072/103	schworz	1	sch w o r z
 072/105	schworz	1	sch w o r z
 072/107	schworz	1	sch w o r z
-072/145	NA	NA	- - - - - -
+072/145	NA	NA	-
 072/147	schworz	1	sch w o r z
-072/149	NA	NA	- - - - - -
+072/149	NA	NA	-
 072/151	schwarz	1	sch w a r z
-072/153	NA	NA	- - - - - -
+072/153	NA	NA	-
 072/155	schworz	1	sch w o r z
-072/157	NA	NA	- - - - - -
+072/157	NA	NA	-
 072/159	schwoarz	1	sch w oa r z
-072/161	NA	NA	- - - - - -
+072/161	NA	NA	-
 072/177	schwuoz	1	sch w uo - z
 072/179	schwarz	1	sch w a r z
-072/181	NA	NA	- - - - - -
+072/181	NA	NA	-
 073/017	schwarz	1	sch w a r z
-073/019	NA	NA	- - - - - -
+073/019	NA	NA	-
 073/021	schwaarz	1	sch w aa r z
 073/023	schwaarz	1	sch w aa r z
 073/025	schwoorz	1	sch w oo r z
@@ -3893,7 +3893,7 @@
 073/057	schwatz	1	sch w a - tz
 073/059	schwarz	1	sch w a r z
 073/061	schwarz	1	sch w a r z
-073/063	NA	NA	- - - - - -
+073/063	NA	NA	-
 073/065	schwarz	1	sch w a r z
 073/067	schwoorz	1	sch w oo r z
 073/069	schwoarz	1	sch w oa r z
@@ -3903,7 +3903,7 @@
 073/077	schwarz	1	sch w a r z
 073/079	schwooz	1	sch w oo - z
 073/081	schwaz	1	sch w a - z
-073/083	NA	NA	- - - - - -
+073/083	NA	NA	-
 073/085	schwoez	1	sch w oe - z
 073/087	schwarz	1	sch w a r z
 073/089	schwoarz	1	sch w oa r z
@@ -3912,30 +3912,30 @@
 073/095	schwoarz	1	sch w oa r z
 073/097	schwoaz	1	sch w oa - z
 073/099	schworz	1	sch w o r z
-073/101	NA	NA	- - - - - -
+073/101	NA	NA	-
 073/103	schworz	1	sch w o r z
-073/105	NA	NA	- - - - - -
-073/107	NA	NA	- - - - - -
+073/105	NA	NA	-
+073/107	NA	NA	-
 073/145	schwoaz	1	sch w oa - z
 073/147	schworz	1	sch w o r z
 073/149	schwatz	1	sch w a - tz
 073/151	schwaz	1	sch w a - z
-073/153	NA	NA	- - - - - -
+073/153	NA	NA	-
 073/155	schworz	1	sch w o r z
 073/157	schwarz	1	sch w a r z
 073/159	schwoarz	1	sch w oa r z
 073/161	schworz	1	sch w o r z
-073/163	NA	NA	- - - - - -
+073/163	NA	NA	-
 073/165	schwäez	1	sch w äe - z
 073/175	schwuorz	1	sch w uo r z
 073/177	schworz	1	sch w o r z
 074/019	schwuarz	1	sch w ua r z
 074/021	schwaarz	1	sch w aa r z
-074/023	NA	NA	- - - - - -
+074/023	NA	NA	-
 074/025	schworz	1	sch w o r z
 074/027	schwaorz	1	sch w ao r z
 074/029	schwarz	1	sch w a r z
-074/031	NA	NA	- - - - - -
+074/031	NA	NA	-
 074/033	schworz	1	sch w o r z
 074/035	schwarz	1	sch w a r z
 074/037	schwarz	1	sch w a r z
@@ -3968,17 +3968,17 @@
 074/091	schwoaz	1	sch w oa - z
 074/093	schwoaz	1	sch w oa - z
 074/095	schwoaz	1	sch w oa - z
-074/097	NA	NA	- - - - - -
+074/097	NA	NA	-
 074/099	schwoarz	1	sch w oa r z
-074/101	NA	NA	- - - - - -
+074/101	NA	NA	-
 074/103	schworz	1	sch w o r z
 074/105	schworz	1	sch w o r z
-074/107	NA	NA	- - - - - -
-074/109	NA	NA	- - - - - -
-074/145	NA	NA	- - - - - -
-074/147	NA	NA	- - - - - -
+074/107	NA	NA	-
+074/109	NA	NA	-
+074/145	NA	NA	-
+074/147	NA	NA	-
 074/149	schwarz	1	sch w a r z
-074/153	NA	NA	- - - - - -
+074/153	NA	NA	-
 074/155	schworz	1	sch w o r z
 074/157	schworz	1	sch w o r z
 074/159	schwoez	1	sch w oe - z
@@ -4026,10 +4026,10 @@
 075/095	schwoaz	1	sch w oa - z
 075/097	schwoarz	1	sch w oa r z
 075/099	schworz	1	sch w o r z
-075/101	NA	NA	- - - - - -
-075/103	NA	NA	- - - - - -
+075/101	NA	NA	-
+075/103	NA	NA	-
 075/105	schwarz	1	sch w a r z
-075/107	NA	NA	- - - - - -
+075/107	NA	NA	-
 075/135	schvorc	1	sch v o r c
 075/145	schwoaz	1	sch w oa - z
 075/147	schworz	1	sch w o r z
@@ -4037,10 +4037,10 @@
 075/155	schworz	1	sch w o r z
 075/157	schworz	1	sch w o r z
 075/159	schworz	1	sch w o r z
-075/161	NA	NA	- - - - - -
+075/161	NA	NA	-
 075/163	schwoaez	1	sch w oae - z
-075/165	NA	NA	- - - - - -
-076/019	NA	NA	- - - - - -
+075/165	NA	NA	-
+076/019	NA	NA	-
 076/021	schwoarz	1	sch w oa r z
 076/023	schwoarz	1	sch w oa r z
 076/025	schwaerz	1	sch w ae r z
@@ -4052,7 +4052,7 @@
 076/039	schwarz	1	sch w a r z
 076/041	schwarz	1	sch w a r z
 076/043	schwarz	1	sch w a r z
-076/045	NA	NA	- - - - - -
+076/045	NA	NA	-
 076/047	schwarz	1	sch w a r z
 076/049	schwarz	1	sch w a r z
 076/051	schwaz	1	sch w a - z
@@ -4060,14 +4060,14 @@
 076/055	schwaz	1	sch w a - z
 076/057	schwarz	1	sch w a r z
 076/059	schwaarz	1	sch w aa r z
-076/061	NA	NA	- - - - - -
+076/061	NA	NA	-
 076/063	schwoarz	1	sch w oa r z
 076/065	schworz	1	sch w o r z
 076/067	schworz	1	sch w o r z
 076/069	schworz	1	sch w o r z
 076/071	schwarz	1	sch w a r z
 076/073	schwarz	1	sch w a r z
-076/075	NA	NA	- - - - - -
+076/075	NA	NA	-
 076/077	schwarz	1	sch w a r z
 076/079	schwatz	1	sch w a - tz
 076/081	schwarz	1	sch w a r z
@@ -4078,15 +4078,15 @@
 076/091	schwarz	1	sch w a r z
 076/093	schwoaz	1	sch w oa - z
 076/095	schwarz	1	sch w a r z
-076/097	NA	NA	- - - - - -
+076/097	NA	NA	-
 076/099	schwoarz	1	sch w oa r z
-076/101	NA	NA	- - - - - -
-076/103	NA	NA	- - - - - -
+076/101	NA	NA	-
+076/103	NA	NA	-
 076/135	schworz	1	sch w o r z
-076/137	NA	NA	- - - - - -
+076/137	NA	NA	-
 076/149	schboatz	1	sch b oa - tz
 076/151	schborz	1	sch b o r z
-076/155	NA	NA	- - - - - -
+076/155	NA	NA	-
 076/161	schworz	1	sch w o r z
 076/163	schwoz	1	sch w o - z
 076/165	schwoz	1	sch w o - z
@@ -4127,7 +4127,7 @@
 077/089	schwoarz	1	sch w oa r z
 077/091	schwoarz	1	sch w oa r z
 077/093	schwoarz	1	sch w oa r z
-077/095	NA	NA	- - - - - -
+077/095	NA	NA	-
 077/097	schwoaz	1	sch w oa - z
 077/099	schwoaz	1	sch w oa - z
 077/101	schwoaz	1	sch w oa - z
@@ -4160,9 +4160,9 @@
 078/069	schworz	1	sch w o r z
 078/071	schwooarz	1	sch w ooa r z
 078/073	schwarz	1	sch w a r z
-078/075	NA	NA	- - - - - -
-078/077	NA	NA	- - - - - -
-078/079	NA	NA	- - - - - -
+078/075	NA	NA	-
+078/077	NA	NA	-
+078/079	NA	NA	-
 078/081	schwaz	1	sch w a - z
 078/083	schwarz	1	sch w a r z
 078/085	schwoaz	1	sch w oa - z
@@ -4171,11 +4171,11 @@
 078/091	schwoaz	1	sch w oa - z
 078/093	schwooaz	1	sch w ooa - z
 078/095	schwoaz	1	sch w oa - z
-078/097	NA	NA	- - - - - -
+078/097	NA	NA	-
 078/099	schwoarz	1	sch w oa r z
-078/101	NA	NA	- - - - - -
-078/103	NA	NA	- - - - - -
-078/105	NA	NA	- - - - - -
+078/101	NA	NA	-
+078/103	NA	NA	-
+078/105	NA	NA	-
 078/135	schworz	1	sch w o r z
 078/193	schwarz	1	sch w a r z
 079/021	schwarz	1	sch w a r z
@@ -4201,7 +4201,7 @@
 079/063	schworz	1	sch w o r z
 079/065	schworz	1	sch w o r z
 079/067	schwoorz	1	sch w oo r z
-079/069	NA	NA	- - - - - -
+079/069	NA	NA	-
 079/071	schwarz	1	sch w a r z
 079/073	schwarz	1	sch w a r z
 079/075	schwarz	1	sch w a r z
@@ -4221,11 +4221,11 @@
 079/103	schwoaz	1	sch w oa - z
 079/105	schwoaz	1	sch w oa - z
 079/107	schworz	1	sch w o r z
-079/133	NA	NA	- - - - - -
+079/133	NA	NA	-
 079/135	schworz	1	sch w o r z
 079/193	schworz	1	sch w o r z
 079/195	schworz	1	sch w o r z
-079/197	NA	NA	- - - - - -
+079/197	NA	NA	-
 080/025	schwaarz	1	sch w aa r z
 080/027	schwaarz	1	sch w aa r z
 080/029	schwarz	1	sch w a r z
@@ -4266,15 +4266,15 @@
 080/099	schwuarz	1	sch w ua r z
 080/101	schwooaz	1	sch w ooa - z
 080/103	schwoaz	1	sch w oa - z
-080/105	NA	NA	- - - - - -
+080/105	NA	NA	-
 080/107	schworz	1	sch w o r z
-080/109	NA	NA	- - - - - -
+080/109	NA	NA	-
 080/127	schwoarz	1	sch w oa r z
 080/147	schwoaz	1	sch w oa - z
-080/151	NA	NA	- - - - - -
-080/153	NA	NA	- - - - - -
-080/193	NA	NA	- - - - - -
-080/195	NA	NA	- - - - - -
+080/151	NA	NA	-
+080/153	NA	NA	-
+080/193	NA	NA	-
+080/195	NA	NA	-
 081/025	schwarz	1	sch w a r z
 081/027	schwaz	1	sch w a - z
 081/029	schwarz	1	sch w a r z
@@ -4312,20 +4312,20 @@
 081/095	schwoaz	1	sch w oa - z
 081/097	schwoarz	1	sch w oa r z
 081/099	schwoarz	1	sch w oa r z
-081/101	NA	NA	- - - - - -
+081/101	NA	NA	-
 081/103	schwoaz	1	sch w oa - z
-081/105	NA	NA	- - - - - -
+081/105	NA	NA	-
 081/107	schwoarz	1	sch w oa r z
-081/109	NA	NA	- - - - - -
-081/111	NA	NA	- - - - - -
-081/127	NA	NA	- - - - - -
-081/129	NA	NA	- - - - - -
+081/109	NA	NA	-
+081/111	NA	NA	-
+081/127	NA	NA	-
+081/129	NA	NA	-
 081/133	schworz	1	sch w o r z
 081/147	schborz	1	sch b o r z
 081/191	schworts	1	sch w o r ts
-081/193	NA	NA	- - - - - -
+081/193	NA	NA	-
 081/195	schworz	1	sch w o r z
-082/027	NA	NA	- - - - - -
+082/027	NA	NA	-
 082/029	schwarz	1	sch w a r z
 082/031	schwarz	1	sch w a r z
 082/033	schwarz	1	sch w a r z
@@ -4355,7 +4355,7 @@
 082/081	schwarz	1	sch w a r z
 082/083	schwaz	1	sch w a - z
 082/085	schwoarz	1	sch w oa r z
-082/087	NA	NA	- - - - - -
+082/087	NA	NA	-
 082/089	schwoarz	1	sch w oa r z
 082/091	schwöaz	1	sch w öa - z
 082/093	schwoaz	1	sch w oa - z
@@ -4363,15 +4363,15 @@
 082/097	schwoaz	1	sch w oa - z
 082/099	schworz	1	sch w o r z
 082/101	schwoaz	1	sch w oa - z
-082/103	NA	NA	- - - - - -
+082/103	NA	NA	-
 082/105	schwoaz	1	sch w oa - z
 082/107	schwoaz	1	sch w oa - z
 082/111	schwoarz	1	sch w oa r z
 082/113	schwoarz	1	sch w oa r z
-082/117	NA	NA	- - - - - -
-082/129	NA	NA	- - - - - -
+082/117	NA	NA	-
+082/129	NA	NA	-
 082/131	schworz	1	sch w o r z
-082/133	NA	NA	- - - - - -
+082/133	NA	NA	-
 082/135	schworz	1	sch w o r z
 082/145	schworz	1	sch w o r z
 082/147	schworz	1	sch w o r z
@@ -4395,7 +4395,7 @@
 083/057	schwarz	1	sch w a r z
 083/059	schwarz	1	sch w a r z
 083/061	schwarz	1	sch w a r z
-083/063	NA	NA	- - - - - -
+083/063	NA	NA	-
 083/065	schwarz	1	sch w a r z
 083/067	schwooz	1	sch w oo - z
 083/069	schwaarz	1	sch w aa r z
@@ -4414,25 +4414,25 @@
 083/095	schwoaz	1	sch w oa - z
 083/097	schwoarz	1	sch w oa r z
 083/099	schwoaz	1	sch w oa - z
-083/101	NA	NA	- - - - - -
+083/101	NA	NA	-
 083/103	schwoaz	1	sch w oa - z
 083/105	schwoaz	1	sch w oa - z
 083/107	schwarz	1	sch w a r z
-083/111	NA	NA	- - - - - -
+083/111	NA	NA	-
 083/113	schwoaz	1	sch w oa - z
 083/115	schworz	1	sch w o r z
 083/117	schwoaz	1	sch w oa - z
 083/119	schwoaz	1	sch w oa - z
 083/121	schwoarz	1	sch w oa r z
-083/129	NA	NA	- - - - - -
+083/129	NA	NA	-
 083/131	schwoaz	1	sch w oa - z
 083/133	schworz	1	sch w o r z
-083/135	NA	NA	- - - - - -
-083/139	NA	NA	- - - - - -
+083/135	NA	NA	-
+083/139	NA	NA	-
 083/143	schworz	1	sch w o r z
-083/145	NA	NA	- - - - - -
+083/145	NA	NA	-
 083/147	schworz	1	sch w o r z
-083/149	NA	NA	- - - - - -
+083/149	NA	NA	-
 083/173	schwaats	1	sch w aa - ts
 083/195	schwarz	1	sch w a r z
 084/031	schwarz	1	sch w a r z
@@ -4450,11 +4450,11 @@
 084/055	schwarz	1	sch w a r z
 084/057	schwarz	1	sch w a r z
 084/059	schwarz	1	sch w a r z
-084/061	NA	NA	- - - - - -
+084/061	NA	NA	-
 084/063	schwarz	1	sch w a r z
 084/065	schwaarz	1	sch w aa r z
 084/067	schwarz	1	sch w a r z
-084/069	NA	NA	- - - - - -
+084/069	NA	NA	-
 084/071	schwarz	1	sch w a r z
 084/073	schwaarz	1	sch w aa r z
 084/075	schwaaz	1	sch w aa - z
@@ -4465,30 +4465,30 @@
 084/085	schwoaz	1	sch w oa - z
 084/087	schwoaz	1	sch w oa - z
 084/089	schwoarz	1	sch w oa r z
-084/091	NA	NA	- - - - - -
+084/091	NA	NA	-
 084/093	schwoaz	1	sch w oa - z
 084/095	schwoaz	1	sch w oa - z
 084/097	schwoaz	1	sch w oa - z
 084/099	schwoaz	1	sch w oa - z
 084/101	schwarz	1	sch w a r z
 084/103	schwoarz	1	sch w oa r z
-084/105	NA	NA	- - - - - -
+084/105	NA	NA	-
 084/107	schwoaz	1	sch w oa - z
 084/109	schwoaz	1	sch w oa - z
 084/111	schwarz	1	sch w a r z
-084/113	NA	NA	- - - - - -
-084/115	NA	NA	- - - - - -
-084/117	NA	NA	- - - - - -
+084/113	NA	NA	-
+084/115	NA	NA	-
+084/117	NA	NA	-
 084/119	schwoaz	1	sch w oa - z
-084/129	NA	NA	- - - - - -
-084/131	NA	NA	- - - - - -
-084/133	NA	NA	- - - - - -
+084/129	NA	NA	-
+084/131	NA	NA	-
+084/133	NA	NA	-
 084/135	schwoaz	1	sch w oa - z
 084/137	schwarz	1	sch w a r z
 084/139	schwoaz	1	sch w oa - z
-084/141	NA	NA	- - - - - -
+084/141	NA	NA	-
 084/143	schwoaz	1	sch w oa - z
-084/145	NA	NA	- - - - - -
+084/145	NA	NA	-
 084/147	schwoaz	1	sch w oa - z
 084/149	schwoaz	1	sch w oa - z
 084/171	schbatz	1	sch b a - tz
@@ -4500,17 +4500,17 @@
 085/037	schwarz	1	sch w a r z
 085/039	schwarz	1	sch w a r z
 085/041	schworz	1	sch w o r z
-085/043	NA	NA	- - - - - -
+085/043	NA	NA	-
 085/045	schwarz	1	sch w a r z
 085/047	schwarz	1	sch w a r z
 085/049	schwarz	1	sch w a r z
 085/051	schwaarz	1	sch w aa r z
 085/053	schwarz	1	sch w a r z
-085/055	NA	NA	- - - - - -
+085/055	NA	NA	-
 085/057	schwaarz	1	sch w aa r z
 085/059	schwarz	1	sch w a r z
 085/061	schwarz	1	sch w a r z
-085/063	NA	NA	- - - - - -
+085/063	NA	NA	-
 085/065	schwaarz	1	sch w aa r z
 085/067	schwaaz	1	sch w aa - z
 085/069	schwarz	1	sch w a r z
@@ -4528,32 +4528,32 @@
 085/093	schwoarz	1	sch w oa r z
 085/095	schwoarz	1	sch w oa r z
 085/097	schwarz	1	sch w a r z
-085/101	NA	NA	- - - - - -
+085/101	NA	NA	-
 085/103	braun	NA	b r au n - -
-085/105	NA	NA	- - - - - -
+085/105	NA	NA	-
 085/107	schwarz	1	sch w a r z
 085/109	schwoaz	1	sch w oa - z
-085/111	NA	NA	- - - - - -
-085/113	NA	NA	- - - - - -
+085/111	NA	NA	-
+085/113	NA	NA	-
 085/115	schwoarz	1	sch w oa r z
-085/117	NA	NA	- - - - - -
-085/119	NA	NA	- - - - - -
-085/121	NA	NA	- - - - - -
-085/123	NA	NA	- - - - - -
-085/125	NA	NA	- - - - - -
-085/127	NA	NA	- - - - - -
+085/117	NA	NA	-
+085/119	NA	NA	-
+085/121	NA	NA	-
+085/123	NA	NA	-
+085/125	NA	NA	-
+085/127	NA	NA	-
 085/129	schworz	1	sch w o r z
-085/131	NA	NA	- - - - - -
-085/133	NA	NA	- - - - - -
-085/135	NA	NA	- - - - - -
-085/137	NA	NA	- - - - - -
+085/131	NA	NA	-
+085/133	NA	NA	-
+085/135	NA	NA	-
+085/137	NA	NA	-
 085/139	schworz	1	sch w o r z
 085/141	schwoaz	1	sch w oa - z
-085/143	NA	NA	- - - - - -
-085/145	NA	NA	- - - - - -
-085/147	NA	NA	- - - - - -
+085/143	NA	NA	-
+085/145	NA	NA	-
+085/147	NA	NA	-
 085/149	schwoaz	1	sch w oa - z
-085/175	NA	NA	- - - - - -
+085/175	NA	NA	-
 085/193	schwarts	1	sch w a r ts
 085/197	schbarts	1	sch b a r ts
 086/033	schwarz	1	sch w a r z
@@ -4578,43 +4578,43 @@
 086/071	schwarz	1	sch w a r z
 086/073	schwaaz	1	sch w aa - z
 086/075	schwaarz	1	sch w aa r z
-086/077	NA	NA	- - - - - -
+086/077	NA	NA	-
 086/079	schwaz	1	sch w a - z
 086/081	schwarz	1	sch w a r z
 086/083	schwarz	1	sch w a r z
-086/085	NA	NA	- - - - - -
-086/087	NA	NA	- - - - - -
+086/085	NA	NA	-
+086/087	NA	NA	-
 086/089	bräulat	NA	b r äu l a t
 086/091	schwarz	1	sch w a r z
 086/093	schwoaz	1	sch w oa - z
 086/095	schwarz	1	sch w a r z
-086/097	NA	NA	- - - - - -
-086/099	NA	NA	- - - - - -
+086/097	NA	NA	-
+086/099	NA	NA	-
 086/101	schwoaz	1	sch w oa - z
 086/103	schwoarz	1	sch w oa r z
 086/105	schwoaz	1	sch w oa - z
-086/107	NA	NA	- - - - - -
-086/109	NA	NA	- - - - - -
+086/107	NA	NA	-
+086/109	NA	NA	-
 086/111	schwoaz	1	sch w oa - z
 086/113	schwarz	1	sch w a r z
 086/115	schworz	1	sch w o r z
-086/117	NA	NA	- - - - - -
+086/117	NA	NA	-
 086/119	schwoaz	1	sch w oa - z
-086/121	NA	NA	- - - - - -
+086/121	NA	NA	-
 086/123	schwoaz	1	sch w oa - z
 086/125	schwoaz	1	sch w oa - z
 086/127	schworz	1	sch w o r z
 086/129	schworz	1	sch w o r z
 086/131	schwoaz	1	sch w oa - z
 086/133	schwoarz	1	sch w oa r z
-086/135	NA	NA	- - - - - -
-086/137	NA	NA	- - - - - -
+086/135	NA	NA	-
+086/137	NA	NA	-
 086/139	scharz	1	sch - a r z
 086/141	schwoaz	1	sch w oa - z
-086/143	NA	NA	- - - - - -
+086/143	NA	NA	-
 086/145	schworz	1	sch w o r z
-086/147	NA	NA	- - - - - -
-086/149	NA	NA	- - - - - -
+086/147	NA	NA	-
+086/149	NA	NA	-
 086/151	schwoaz	1	sch w oa - z
 086/175	spots	1	s p o - ts
 086/197	schbaz	1	sch b a - z
@@ -4632,9 +4632,9 @@
 087/055	schwaarz	1	sch w aa r z
 087/057	schwaarz	1	sch w aa r z
 087/059	schwaarz	1	sch w aa r z
-087/061	NA	NA	- - - - - -
+087/061	NA	NA	-
 087/063	schwarz	1	sch w a r z
-087/065	NA	NA	- - - - - -
+087/065	NA	NA	-
 087/067	schwaaz	1	sch w aa - z
 087/069	schwaarz	1	sch w aa r z
 087/071	schwarz	1	sch w a r z
@@ -4644,39 +4644,39 @@
 087/079	schwaarz	1	sch w aa r z
 087/081	schworz	1	sch w o r z
 087/083	schworz	1	sch w o r z
-087/085	NA	NA	- - - - - -
+087/085	NA	NA	-
 087/087	schwoords	1	sch w oo r ds
 087/089	schworz	1	sch w o r z
-087/091	NA	NA	- - - - - -
+087/091	NA	NA	-
 087/093	schwarz	1	sch w a r z
-087/095	NA	NA	- - - - - -
+087/095	NA	NA	-
 087/097	schwoaz	1	sch w oa - z
-087/099	NA	NA	- - - - - -
+087/099	NA	NA	-
 087/101	schwaz	1	sch w a - z
-087/103	NA	NA	- - - - - -
+087/103	NA	NA	-
 087/105	schwarz	1	sch w a r z
 087/107	stark	1	s t a rk -
 087/109	schwoaz	1	sch w oa - z
 087/111	schwoarz	1	sch w oa r z
 087/113	schwoaz	1	sch w oa - z
-087/115	NA	NA	- - - - - -
+087/115	NA	NA	-
 087/117	schwoaz	1	sch w oa - z
 087/119	schworz	1	sch w o r z
 087/121	schwoaaz	1	sch w oaa - z
-087/123	NA	NA	- - - - - -
-087/125	NA	NA	- - - - - -
+087/123	NA	NA	-
+087/125	NA	NA	-
 087/127	schwoaz	1	sch w oa - z
 087/129	schworz	1	sch w o r z
-087/133	NA	NA	- - - - - -
+087/133	NA	NA	-
 087/135	schworz	1	sch w o r z
 087/137	schworz	1	sch w o r z
 087/139	schworz	1	sch w o r z
-087/141	NA	NA	- - - - - -
-087/143	NA	NA	- - - - - -
+087/141	NA	NA	-
+087/143	NA	NA	-
 087/145	schwoorz	1	sch w oo r z
 087/147	schworz	1	sch w o r z
-087/149	NA	NA	- - - - - -
-087/151	NA	NA	- - - - - -
+087/149	NA	NA	-
+087/151	NA	NA	-
 088/035	schworz	1	sch w o r z
 088/037	schworz	1	sch w o r z
 088/039	schwarz	1	sch w a r z
@@ -4686,7 +4686,7 @@
 088/047	schwaarz	1	sch w aa r z
 088/049	schwaarz	1	sch w aa r z
 088/051	schwaarz	1	sch w aa r z
-088/053	NA	NA	- - - - - -
+088/053	NA	NA	-
 088/055	schwaarz	1	sch w aa r z
 088/057	schleecht	1	sch l ee ch t
 088/059	schleacht	1	sch l ea ch t
@@ -4695,7 +4695,7 @@
 088/065	schwaaz	1	sch w aa - z
 088/067	schwaaz	1	sch w aa - z
 088/069	schwaaz	1	sch w aa - z
-088/071	NA	NA	- - - - - -
+088/071	NA	NA	-
 088/073	schwarz	1	sch w a r z
 088/075	schwaarz	1	sch w aa r z
 088/077	schwarz	1	sch w a r z
@@ -4715,18 +4715,18 @@
 088/105	schwoaz	1	sch w oa - z
 088/107	schwads	1	sch w a - ds
 088/109	schwoaz	1	sch w oa - z
-088/113	NA	NA	- - - - - -
-088/115	NA	NA	- - - - - -
-088/117	NA	NA	- - - - - -
+088/113	NA	NA	-
+088/115	NA	NA	-
+088/117	NA	NA	-
 088/121	schworz	1	sch w o r z
 088/123	schwoarz	1	sch w oa r z
-088/127	NA	NA	- - - - - -
+088/127	NA	NA	-
 088/129	schworz	1	sch w o r z
 088/131	schwoaz	1	sch w oa - z
-088/137	NA	NA	- - - - - -
-088/139	NA	NA	- - - - - -
+088/137	NA	NA	-
+088/139	NA	NA	-
 088/141	schwoaz	1	sch w oa - z
-088/143	NA	NA	- - - - - -
+088/143	NA	NA	-
 088/145	schwoaz	1	sch w oa - z
 088/147	schwoaz	1	sch w oa - z
 088/149	schworz	1	sch w o r z
@@ -4743,10 +4743,10 @@
 089/055	schwarz	1	sch w a r z
 089/057	schwaaz	1	sch w aa - z
 089/059	schwaaz	1	sch w aa - z
-089/061	NA	NA	- - - - - -
-089/063	NA	NA	- - - - - -
+089/061	NA	NA	-
+089/063	NA	NA	-
 089/065	schwaarz	1	sch w aa r z
-089/067	NA	NA	- - - - - -
+089/067	NA	NA	-
 089/069	schwaaz	1	sch w aa - z
 089/071	schwaz	1	sch w a - z
 089/073	schwaarz	1	sch w aa r z
@@ -4759,33 +4759,33 @@
 089/087	schwarz	1	sch w a r z
 089/089	schwarz	1	sch w a r z
 089/091	schworz	1	sch w o r z
-089/093	NA	NA	- - - - - -
+089/093	NA	NA	-
 089/095	schwarz	1	sch w a r z
 089/097	schwarz	1	sch w a r z
 089/099	schwaz	1	sch w a - z
 089/101	schwarz	1	sch w a r z
-089/103	NA	NA	- - - - - -
+089/103	NA	NA	-
 089/105	schwatz	1	sch w a - tz
-089/107	NA	NA	- - - - - -
-089/109	NA	NA	- - - - - -
+089/107	NA	NA	-
+089/109	NA	NA	-
 089/111	schworz	1	sch w o r z
 089/113	schwarz	1	sch w a r z
 089/115	schwoaz	1	sch w oa - z
-089/117	NA	NA	- - - - - -
-089/119	NA	NA	- - - - - -
-089/121	NA	NA	- - - - - -
+089/117	NA	NA	-
+089/119	NA	NA	-
+089/121	NA	NA	-
 089/123	schwarz	1	sch w a r z
 089/125	schwoarz	1	sch w oa r z
 089/127	schworz	1	sch w o r z
 089/129	schwoaz	1	sch w oa - z
 089/131	schwoaz	1	sch w oa - z
-089/133	NA	NA	- - - - - -
+089/133	NA	NA	-
 089/135	schwoaz	1	sch w oa - z
-089/137	NA	NA	- - - - - -
-089/139	NA	NA	- - - - - -
+089/137	NA	NA	-
+089/139	NA	NA	-
 089/141	schwoarz	1	sch w oa r z
 089/143	schwoaz	1	sch w oa - z
-089/145	NA	NA	- - - - - -
+089/145	NA	NA	-
 089/147	schworz	1	sch w o r z
 089/149	schwoaz	1	sch w oa - z
 090/035	schworz	1	sch w o r z
@@ -4811,43 +4811,43 @@
 090/075	schwarz	1	sch w a r z
 090/077	schwahrz	1	sch w ah r z
 090/079	schwaarz	1	sch w aa r z
-090/081	NA	NA	- - - - - -
+090/081	NA	NA	-
 090/083	schwarz	1	sch w a r z
 090/085	schwoaz	1	sch w oa - z
 090/087	schwaarz	1	sch w aa r z
 090/089	schwarz	1	sch w a r z
-090/091	NA	NA	- - - - - -
+090/091	NA	NA	-
 090/093	schwarz	1	sch w a r z
-090/095	NA	NA	- - - - - -
+090/095	NA	NA	-
 090/097	schwarz	1	sch w a r z
-090/099	NA	NA	- - - - - -
-090/101	NA	NA	- - - - - -
+090/099	NA	NA	-
+090/101	NA	NA	-
 090/103	schwarz	1	sch w a r z
 090/105	schwarz	1	sch w a r z
-090/107	NA	NA	- - - - - -
+090/107	NA	NA	-
 090/109	schwäochtz	1	sch w äo ch tz
 090/111	schwäoz	1	sch w äo - z
-090/113	NA	NA	- - - - - -
+090/113	NA	NA	-
 090/115	schwoarz	1	sch w oa r z
-090/119	NA	NA	- - - - - -
-090/121	NA	NA	- - - - - -
+090/119	NA	NA	-
+090/121	NA	NA	-
 090/123	schwoaz	1	sch w oa - z
 090/125	schwoaz	1	sch w oa - z
 090/127	schwoaz	1	sch w oa - z
 090/129	schworz	1	sch w o r z
-090/131	NA	NA	- - - - - -
+090/131	NA	NA	-
 090/133	schwoarz	1	sch w oa r z
-090/135	NA	NA	- - - - - -
-090/137	NA	NA	- - - - - -
+090/135	NA	NA	-
+090/137	NA	NA	-
 090/139	schwoaz	1	sch w oa - z
 090/141	schworz	1	sch w o r z
-090/143	NA	NA	- - - - - -
+090/143	NA	NA	-
 090/145	schwoaz	1	sch w oa - z
 090/147	schwoaz	1	sch w oa - z
 090/149	schwoaz	1	sch w oa - z
-090/151	NA	NA	- - - - - -
+090/151	NA	NA	-
 091/035	schwarz	1	sch w a r z
-091/037	NA	NA	- - - - - -
+091/037	NA	NA	-
 091/039	schwarz	1	sch w a r z
 091/041	schwarz	1	sch w a r z
 091/043	schwarz	1	sch w a r z
@@ -4859,7 +4859,7 @@
 091/055	schwaarz	1	sch w aa r z
 091/057	schwaaz	1	sch w aa - z
 091/059	schwaaz	1	sch w aa - z
-091/061	NA	NA	- - - - - -
+091/061	NA	NA	-
 091/063	schwaz	1	sch w a - z
 091/065	schwaaz	1	sch w aa - z
 091/067	schwaz	1	sch w a - z
@@ -4875,34 +4875,34 @@
 091/087	schwarz	1	sch w a r z
 091/091	schwarz	1	sch w a r z
 091/093	schwarz	1	sch w a r z
-091/095	NA	NA	- - - - - -
+091/095	NA	NA	-
 091/097	schwuuaz	1	sch w uua - z
-091/099	NA	NA	- - - - - -
+091/099	NA	NA	-
 091/101	schwoaz	1	sch w oa - z
-091/103	NA	NA	- - - - - -
+091/103	NA	NA	-
 091/105	schwarz	1	sch w a r z
-091/107	NA	NA	- - - - - -
+091/107	NA	NA	-
 091/109	schwarz	1	sch w a r z
 091/111	schwachz	1	sch w a ch z
 091/113	schwachts	1	sch w a ch ts
 091/115	schwarz	1	sch w a r z
-091/117	NA	NA	- - - - - -
+091/117	NA	NA	-
 091/119	schwoaz	1	sch w oa - z
 091/121	schwarz	1	sch w a r z
 091/125	schwarz	1	sch w a r z
 091/129	schworz	1	sch w o r z
 091/131	schworz	1	sch w o r z
-091/133	NA	NA	- - - - - -
-091/135	NA	NA	- - - - - -
-091/137	NA	NA	- - - - - -
+091/133	NA	NA	-
+091/135	NA	NA	-
+091/137	NA	NA	-
 091/139	schwoaz	1	sch w oa - z
-091/141	NA	NA	- - - - - -
-091/143	NA	NA	- - - - - -
+091/141	NA	NA	-
+091/143	NA	NA	-
 091/145	schwoaz	1	sch w oa - z
 091/147	schworz	1	sch w o r z
 091/149	schwoaz	1	sch w oa - z
 091/151	schwoaz	1	sch w oa - z
-091/155	NA	NA	- - - - - -
+091/155	NA	NA	-
 092/033	schwarz	1	sch w a r z
 092/035	schwarz	1	sch w a r z
 092/037	schwarz	1	sch w a r z
@@ -4918,48 +4918,48 @@
 092/057	schwaaz	1	sch w aa - z
 092/059	schwaaz	1	sch w aa - z
 092/061	schwaz	1	sch w a - z
-092/063	NA	NA	- - - - - -
-092/065	NA	NA	- - - - - -
+092/063	NA	NA	-
+092/065	NA	NA	-
 092/067	schwaaz	1	sch w aa - z
 092/069	schwaz	1	sch w a - z
 092/071	schwaz	1	sch w a - z
 092/073	schwarz	1	sch w a r z
-092/075	NA	NA	- - - - - -
+092/075	NA	NA	-
 092/077	schwaaz	1	sch w aa - z
 092/079	schwarz	1	sch w a r z
 092/081	schleacht	1	sch l ea ch t
 092/083	schleacht	1	sch l ea ch t
-092/085	NA	NA	- - - - - -
+092/085	NA	NA	-
 092/087	schwaz	1	sch w a - z
 092/089	schwarz	1	sch w a r z
 092/091	schwoarz	1	sch w oa r z
-092/093	NA	NA	- - - - - -
-092/095	NA	NA	- - - - - -
-092/097	NA	NA	- - - - - -
+092/093	NA	NA	-
+092/095	NA	NA	-
+092/097	NA	NA	-
 092/099	schwarz	1	sch w a r z
 092/101	schworz	1	sch w o r z
 092/103	schwoarz	1	sch w oa r z
-092/105	NA	NA	- - - - - -
+092/105	NA	NA	-
 092/107	schwarz	1	sch w a r z
 092/109	schochz	1	sch - o ch z
-092/111	NA	NA	- - - - - -
+092/111	NA	NA	-
 092/113	schwarz	1	sch w a r z
 092/115	schwaachz	1	sch w aa ch z
 092/117	schworz	1	sch w o r z
-092/119	NA	NA	- - - - - -
-092/121	NA	NA	- - - - - -
-092/123	NA	NA	- - - - - -
-092/125	NA	NA	- - - - - -
+092/119	NA	NA	-
+092/121	NA	NA	-
+092/123	NA	NA	-
+092/125	NA	NA	-
 092/127	schwarz	1	sch w a r z
 092/129	schwoarz	1	sch w oa r z
-092/131	NA	NA	- - - - - -
+092/131	NA	NA	-
 092/133	schwoarz	1	sch w oa r z
-092/135	NA	NA	- - - - - -
+092/135	NA	NA	-
 092/137	schwoorz	1	sch w oo r z
-092/139	NA	NA	- - - - - -
-092/141	NA	NA	- - - - - -
+092/139	NA	NA	-
+092/141	NA	NA	-
 092/143	schworz	1	sch w o r z
-092/145	NA	NA	- - - - - -
+092/145	NA	NA	-
 092/147	schworz	1	sch w o r z
 092/149	schwoarz	1	sch w oa r z
 092/151	schwarz	1	sch w a r z
@@ -4971,21 +4971,21 @@
 093/045	schwaarz	1	sch w aa r z
 093/047	schwarz	1	sch w a r z
 093/049	schwaaz	1	sch w aa - z
-093/051	NA	NA	- - - - - -
+093/051	NA	NA	-
 093/053	schwaarz	1	sch w aa r z
 093/055	schwaaz	1	sch w aa - z
 093/057	scheacht	1	sch - ea ch t
 093/059	schleacht	1	sch l ea ch t
-093/061	NA	NA	- - - - - -
+093/061	NA	NA	-
 093/063	schwaaz	1	sch w aa - z
 093/065	schwaz	1	sch w a - z
 093/067	schwaaz	1	sch w aa - z
 093/069	schwaz	1	sch w a - z
 093/071	schwaz	1	sch w a - z
-093/073	NA	NA	- - - - - -
+093/073	NA	NA	-
 093/075	schwaz	1	sch w a - z
-093/077	NA	NA	- - - - - -
-093/079	NA	NA	- - - - - -
+093/077	NA	NA	-
+093/079	NA	NA	-
 093/081	schworz	1	sch w o r z
 093/083	schwarz	1	sch w a r z
 093/085	schwarz	1	sch w a r z
@@ -4994,34 +4994,34 @@
 093/091	schwaarz	1	sch w aa r z
 093/093	schwarz	1	sch w a r z
 093/095	schwoaz	1	sch w oa - z
-093/097	NA	NA	- - - - - -
+093/097	NA	NA	-
 093/099	schwoarz	1	sch w oa r z
 093/101	schwaz	1	sch w a - z
-093/103	NA	NA	- - - - - -
+093/103	NA	NA	-
 093/105	schwarz	1	sch w a r z
-093/109	NA	NA	- - - - - -
-093/111	NA	NA	- - - - - -
+093/109	NA	NA	-
+093/111	NA	NA	-
 093/113	schwachz	1	sch w a ch z
 093/115	schwarz	1	sch w a r z
-093/117	NA	NA	- - - - - -
-093/119	NA	NA	- - - - - -
+093/117	NA	NA	-
+093/119	NA	NA	-
 093/121	schwarz	1	sch w a r z
 093/123	schwoaz	1	sch w oa - z
 093/125	schwoaz	1	sch w oa - z
-093/127	NA	NA	- - - - - -
+093/127	NA	NA	-
 093/129	schwarz	1	sch w a r z
 093/131	schwoaz	1	sch w oa - z
-093/133	NA	NA	- - - - - -
+093/133	NA	NA	-
 093/137	schwoaz	1	sch w oa - z
 093/139	schwoaz	1	sch w oa - z
 093/143	schwoaz	1	sch w oa - z
 093/145	schwoaz	1	sch w oa - z
 093/147	schwoaz	1	sch w oa - z
-093/149	NA	NA	- - - - - -
-093/151	NA	NA	- - - - - -
-093/153	NA	NA	- - - - - -
+093/149	NA	NA	-
+093/151	NA	NA	-
+093/153	NA	NA	-
 093/155	schwoaz	1	sch w oa - z
-094/033	NA	NA	- - - - - -
+094/033	NA	NA	-
 094/035	schwarz	1	sch w a r z
 094/037	schwarz	1	sch w a r z
 094/039	schwarz	1	sch w a r z
@@ -5034,7 +5034,7 @@
 094/053	schwaarz	1	sch w aa r z
 094/055	schwaarz	1	sch w aa r z
 094/057	schwaaz	1	sch w aa - z
-094/059	NA	NA	- - - - - -
+094/059	NA	NA	-
 094/061	schwaz	1	sch w a - z
 094/063	schwaaz	1	sch w aa - z
 094/065	schwaz	1	sch w a - z
@@ -5042,7 +5042,7 @@
 094/069	schwaaz	1	sch w aa - z
 094/071	schwaz	1	sch w a - z
 094/073	schwaaz	1	sch w aa - z
-094/075	NA	NA	- - - - - -
+094/075	NA	NA	-
 094/077	schwaaz	1	sch w aa - z
 094/079	schwarz	1	sch w a r z
 094/081	schwarz	1	sch w a r z
@@ -5050,34 +5050,34 @@
 094/085	schwarz	1	sch w a r z
 094/087	schwarz	1	sch w a r z
 094/089	schwarz	1	sch w a r z
-094/091	NA	NA	- - - - - -
+094/091	NA	NA	-
 094/093	schwarz	1	sch w a r z
 094/095	schwarz	1	sch w a r z
 094/097	schwoarz	1	sch w oa r z
 094/099	schwaz	1	sch w a - z
 094/101	schwaz	1	sch w a - z
 094/103	schwoaz	1	sch w oa - z
-094/105	NA	NA	- - - - - -
+094/105	NA	NA	-
 094/107	schwoarz	1	sch w oa r z
-094/109	NA	NA	- - - - - -
-094/111	NA	NA	- - - - - -
-094/113	NA	NA	- - - - - -
-094/115	NA	NA	- - - - - -
-094/117	NA	NA	- - - - - -
+094/109	NA	NA	-
+094/111	NA	NA	-
+094/113	NA	NA	-
+094/115	NA	NA	-
+094/117	NA	NA	-
 094/119	schwoarz	1	sch w oa r z
-094/121	NA	NA	- - - - - -
+094/121	NA	NA	-
 094/123	schwoaz	1	sch w oa - z
 094/125	schwoaz	1	sch w oa - z
-094/127	NA	NA	- - - - - -
+094/127	NA	NA	-
 094/129	schwoaz	1	sch w oa - z
 094/131	schwoaz	1	sch w oa - z
 094/133	schworz	1	sch w o r z
-094/135	NA	NA	- - - - - -
+094/135	NA	NA	-
 094/137	schwoarz	1	sch w oa r z
-094/139	NA	NA	- - - - - -
+094/139	NA	NA	-
 094/141	schworz	1	sch w o r z
 094/143	schwoatz	1	sch w oa - tz
-094/145	NA	NA	- - - - - -
+094/145	NA	NA	-
 094/147	schwoarz	1	sch w oa r z
 094/149	schwoaz	1	sch w oa - z
 094/151	schwoaz	1	sch w oa - z
@@ -5085,7 +5085,7 @@
 095/031	schwaarz	1	sch w aa r z
 095/033	schwarz	1	sch w a r z
 095/035	schwartz	1	sch w a r tz
-095/037	NA	NA	- - - - - -
+095/037	NA	NA	-
 095/039	schwarz	1	sch w a r z
 095/041	schwarz	1	sch w a r z
 095/043	schwarz	1	sch w a r z
@@ -5096,15 +5096,15 @@
 095/053	schwarz	1	sch w a r z
 095/055	schwaaz	1	sch w aa - z
 095/057	schwarz	1	sch w a r z
-095/059	NA	NA	- - - - - -
-095/061	NA	NA	- - - - - -
+095/059	NA	NA	-
+095/061	NA	NA	-
 095/063	schwaz	1	sch w a - z
 095/065	schwaaz	1	sch w aa - z
-095/067	NA	NA	- - - - - -
+095/067	NA	NA	-
 095/069	schwaz	1	sch w a - z
 095/071	schwaaz	1	sch w aa - z
 095/073	schwarz	1	sch w a r z
-095/075	NA	NA	- - - - - -
+095/075	NA	NA	-
 095/077	schwaz	1	sch w a - z
 095/079	schworz	1	sch w o r z
 095/081	schwarz	1	sch w a r z
@@ -5112,33 +5112,33 @@
 095/085	schwarz	1	sch w a r z
 095/087	schwarz	1	sch w a r z
 095/089	schwarz	1	sch w a r z
-095/091	NA	NA	- - - - - -
+095/091	NA	NA	-
 095/093	schwarz	1	sch w a r z
-095/095	NA	NA	- - - - - -
+095/095	NA	NA	-
 095/097	schwoaz	1	sch w oa - z
 095/099	schwaz	1	sch w a - z
 095/101	schwoachz	1	sch w oa ch z
-095/103	NA	NA	- - - - - -
+095/103	NA	NA	-
 095/105	schwarz	1	sch w a r z
 095/107	schwoaz	1	sch w oa - z
-095/109	NA	NA	- - - - - -
+095/109	NA	NA	-
 095/111	schwochz	1	sch w o ch z
-095/113	NA	NA	- - - - - -
+095/113	NA	NA	-
 095/115	schworz	1	sch w o r z
-095/117	NA	NA	- - - - - -
-095/119	NA	NA	- - - - - -
-095/121	NA	NA	- - - - - -
+095/117	NA	NA	-
+095/119	NA	NA	-
+095/121	NA	NA	-
 095/123	schwoarz	1	sch w oa r z
 095/125	schwoaz	1	sch w oa - z
-095/129	NA	NA	- - - - - -
-095/131	NA	NA	- - - - - -
-095/133	NA	NA	- - - - - -
+095/129	NA	NA	-
+095/131	NA	NA	-
+095/133	NA	NA	-
 095/139	schworz	1	sch w o r z
-095/141	NA	NA	- - - - - -
+095/141	NA	NA	-
 095/143	schworz	1	sch w o r z
 095/145	schwoaz	1	sch w oa - z
 095/147	schwoaz	1	sch w oa - z
-095/149	NA	NA	- - - - - -
+095/149	NA	NA	-
 095/151	schwoaz	1	sch w oa - z
 095/153	schwoatz	1	sch w oa - tz
 095/155	schwoaz	1	sch w oa - z
@@ -5160,52 +5160,52 @@
 096/061	schwarz	1	sch w a r z
 096/063	schwaz	1	sch w a - z
 096/065	schwaz	1	sch w a - z
-096/067	NA	NA	- - - - - -
+096/067	NA	NA	-
 096/069	schwaz	1	sch w a - z
 096/071	schwaaz	1	sch w aa - z
 096/075	schwarz	1	sch w a r z
 096/077	schwarz	1	sch w a r z
-096/079	NA	NA	- - - - - -
-096/081	NA	NA	- - - - - -
-096/083	NA	NA	- - - - - -
+096/079	NA	NA	-
+096/081	NA	NA	-
+096/083	NA	NA	-
 096/085	schwarz	1	sch w a r z
 096/087	schwarz	1	sch w a r z
-096/089	NA	NA	- - - - - -
+096/089	NA	NA	-
 096/091	schwoaz	1	sch w oa - z
 096/093	schwarz	1	sch w a r z
 096/095	schwachz	1	sch w a ch z
-096/097	NA	NA	- - - - - -
+096/097	NA	NA	-
 096/099	schwoachz	1	sch w oa ch z
 096/101	schwoaz	1	sch w oa - z
 096/103	schwoarz	1	sch w oa r z
-096/105	NA	NA	- - - - - -
+096/105	NA	NA	-
 096/107	schwarz	1	sch w a r z
-096/109	NA	NA	- - - - - -
+096/109	NA	NA	-
 096/111	schwochz	1	sch w o ch z
 096/113	schwoarz	1	sch w oa r z
-096/115	NA	NA	- - - - - -
-096/117	NA	NA	- - - - - -
+096/115	NA	NA	-
+096/117	NA	NA	-
 096/119	schwoaz	1	sch w oa - z
-096/121	NA	NA	- - - - - -
+096/121	NA	NA	-
 096/123	schwoaz	1	sch w oa - z
 096/125	schwoads	1	sch w oa - ds
 096/129	schwoaz	1	sch w oa - z
 096/131	schworz	1	sch w o r z
-096/135	NA	NA	- - - - - -
-096/137	NA	NA	- - - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
 096/139	schwoaz	1	sch w oa - z
 096/141	schwoaz	1	sch w oa - z
-096/143	NA	NA	- - - - - -
+096/143	NA	NA	-
 096/145	schwoaz	1	sch w oa - z
-096/147	NA	NA	- - - - - -
+096/147	NA	NA	-
 096/151	schwoaz	1	sch w oa - z
 096/153	schwoaz	1	sch w oa - z
 096/155	schwoaz	1	sch w oa - z
 097/031	schwarz	1	sch w a r z
-097/033	NA	NA	- - - - - -
+097/033	NA	NA	-
 097/035	schworz	1	sch w o r z
 097/037	schwarz	1	sch w a r z
-097/039	NA	NA	- - - - - -
+097/039	NA	NA	-
 097/041	schwarz	1	sch w a r z
 097/043	schwaarz	1	sch w aa r z
 097/045	schwarz	1	sch w a r z
@@ -5213,44 +5213,44 @@
 097/049	schwaarz	1	sch w aa r z
 097/051	schwaarz	1	sch w aa r z
 097/053	schwaarz	1	sch w aa r z
-097/055	NA	NA	- - - - - -
+097/055	NA	NA	-
 097/057	schwaz	1	sch w a - z
 097/059	schwaarz	1	sch w aa r z
 097/061	schwaarz	1	sch w aa r z
 097/063	schwahz	1	sch w ah - z
 097/065	schwarz	1	sch w a r z
 097/067	schwaz	1	sch w a - z
-097/069	NA	NA	- - - - - -
+097/069	NA	NA	-
 097/071	schwaaz	1	sch w aa - z
 097/073	schwaaz	1	sch w aa - z
 097/075	schwaaz	1	sch w aa - z
 097/077	schwarz	1	sch w a r z
 097/079	schwarz	1	sch w a r z
-097/081	NA	NA	- - - - - -
-097/083	NA	NA	- - - - - -
+097/081	NA	NA	-
+097/083	NA	NA	-
 097/085	schwarz	1	sch w a r z
 097/087	schwarz	1	sch w a r z
 097/089	schwarz	1	sch w a r z
 097/091	schwooachz	1	sch w ooa ch z
-097/093	NA	NA	- - - - - -
+097/093	NA	NA	-
 097/095	schwarz	1	sch w a r z
 097/097	schwarz	1	sch w a r z
-097/099	NA	NA	- - - - - -
+097/099	NA	NA	-
 097/103	schwoaz	1	sch w oa - z
 097/105	schwoaz	1	sch w oa - z
-097/107	NA	NA	- - - - - -
+097/107	NA	NA	-
 097/109	schwoaz	1	sch w oa - z
-097/113	NA	NA	- - - - - -
-097/125	NA	NA	- - - - - -
+097/113	NA	NA	-
+097/125	NA	NA	-
 097/131	schwoaz	1	sch w oa - z
 097/133	schworz	1	sch w o r z
-097/139	NA	NA	- - - - - -
+097/139	NA	NA	-
 097/141	schwoaz	1	sch w oa - z
 097/143	schworz	1	sch w o r z
 097/145	schwoaz	1	sch w oa - z
-097/149	NA	NA	- - - - - -
+097/149	NA	NA	-
 097/153	schwoaz	1	sch w oa - z
-098/033	NA	NA	- - - - - -
+098/033	NA	NA	-
 098/035	schwarz	1	sch w a r z
 098/037	schwarz	1	sch w a r z
 098/039	schwarz	1	sch w a r z
@@ -5263,8 +5263,8 @@
 098/053	schwarz	1	sch w a r z
 098/055	schwaarz	1	sch w aa r z
 098/057	schwaarz	1	sch w aa r z
-098/059	NA	NA	- - - - - -
-098/061	NA	NA	- - - - - -
+098/059	NA	NA	-
+098/061	NA	NA	-
 098/063	schwaz	1	sch w a - z
 098/065	schwarz	1	sch w a r z
 098/067	schwaz	1	sch w a - z
@@ -5274,37 +5274,37 @@
 098/075	schwaz	1	sch w a - z
 098/077	schaarz	1	sch - aa r z
 098/079	schwarz	1	sch w a r z
-098/081	NA	NA	- - - - - -
-098/083	NA	NA	- - - - - -
-098/085	NA	NA	- - - - - -
+098/081	NA	NA	-
+098/083	NA	NA	-
+098/085	NA	NA	-
 098/087	schwazz	1	sch w a - zz
 098/089	schwarz	1	sch w a r z
 098/091	schwarz	1	sch w a r z
-098/093	NA	NA	- - - - - -
-098/095	NA	NA	- - - - - -
+098/093	NA	NA	-
+098/095	NA	NA	-
 098/097	schworz	1	sch w o r z
 098/103	schwoarz	1	sch w oa r z
-098/105	NA	NA	- - - - - -
-098/107	NA	NA	- - - - - -
-098/109	NA	NA	- - - - - -
+098/105	NA	NA	-
+098/107	NA	NA	-
+098/109	NA	NA	-
 098/111	schwoaz	1	sch w oa - z
 098/119	schwochz	1	sch w o ch z
-098/123	NA	NA	- - - - - -
-098/125	NA	NA	- - - - - -
-098/127	NA	NA	- - - - - -
+098/123	NA	NA	-
+098/125	NA	NA	-
+098/127	NA	NA	-
 098/135	schworz	1	sch w o r z
 098/137	schworz	1	sch w o r z
 098/139	harbe	NA	h a r b e -
-098/141	NA	NA	- - - - - -
-098/143	NA	NA	- - - - - -
+098/141	NA	NA	-
+098/143	NA	NA	-
 098/145	schwarz	1	sch w a r z
-098/147	NA	NA	- - - - - -
-098/149	NA	NA	- - - - - -
-098/151	NA	NA	- - - - - -
+098/147	NA	NA	-
+098/149	NA	NA	-
+098/151	NA	NA	-
 099/033	schwarz	1	sch w a r z
 099/035	schwarz	1	sch w a r z
 099/037	schwarz	1	sch w a r z
-099/039	NA	NA	- - - - - -
+099/039	NA	NA	-
 099/041	schwarz	1	sch w a r z
 099/043	schwarz	1	sch w a r z
 099/045	schwarz	1	sch w a r z
@@ -5321,32 +5321,32 @@
 099/069	schwarz	1	sch w a r z
 099/071	schwaz	1	sch w a - z
 099/073	schwarz	1	sch w a r z
-099/075	NA	NA	- - - - - -
+099/075	NA	NA	-
 099/077	schwarz	1	sch w a r z
 099/081	schwarz	1	sch w a r z
 099/083	schwarz	1	sch w a r z
 099/085	schwarz	1	sch w a r z
-099/089	NA	NA	- - - - - -
+099/089	NA	NA	-
 099/093	schwoschz	1	sch w o sch z
-099/095	NA	NA	- - - - - -
+099/095	NA	NA	-
 099/099	schwoschz	1	sch w o sch z
 099/101	schwoarz	1	sch w oa r z
-099/103	NA	NA	- - - - - -
+099/103	NA	NA	-
 099/105	schwoaz	1	sch w oa - z
-099/107	NA	NA	- - - - - -
-099/109	NA	NA	- - - - - -
-099/111	NA	NA	- - - - - -
+099/107	NA	NA	-
+099/109	NA	NA	-
+099/111	NA	NA	-
 099/113	schwochz	1	sch w o ch z
 099/121	schwoschz	1	sch w o sch z
 099/123	schwoaz	1	sch w oa - z
 099/125	schworz	1	sch w o r z
 099/131	schworz	1	sch w o r z
 099/137	schwoaz	1	sch w oa - z
-099/139	NA	NA	- - - - - -
-099/141	NA	NA	- - - - - -
+099/139	NA	NA	-
+099/141	NA	NA	-
 099/143	schwoaz	1	sch w oa - z
 099/145	schwoaz	1	sch w oa - z
-099/147	NA	NA	- - - - - -
+099/147	NA	NA	-
 100/033	schwarz	1	sch w a r z
 100/035	schwarz	1	sch w a r z
 100/037	schwarz	1	sch w a r z
@@ -5354,10 +5354,10 @@
 100/041	schwarz	1	sch w a r z
 100/043	schwarz	1	sch w a r z
 100/045	schwarz	1	sch w a r z
-100/049	NA	NA	- - - - - -
-100/051	NA	NA	- - - - - -
-100/053	NA	NA	- - - - - -
-100/055	NA	NA	- - - - - -
+100/049	NA	NA	-
+100/051	NA	NA	-
+100/053	NA	NA	-
+100/055	NA	NA	-
 100/057	schwarz	1	sch w a r z
 100/059	schwarz	1	sch w a r z
 100/061	schwarz	1	sch w a r z
@@ -5370,30 +5370,30 @@
 100/077	schwarz	1	sch w a r z
 100/081	schworz	1	sch w o r z
 100/083	schworz	1	sch w o r z
-100/089	NA	NA	- - - - - -
-100/093	NA	NA	- - - - - -
+100/089	NA	NA	-
+100/093	NA	NA	-
 100/095	schwaschz	1	sch w a sch z
 100/097	schwoschz	1	sch w o sch z
 100/099	schwarz	1	sch w a r z
 100/101	schwoaz	1	sch w oa - z
 100/109	schworz	1	sch w o r z
 100/111	schwarz	1	sch w a r z
-100/113	NA	NA	- - - - - -
-100/115	NA	NA	- - - - - -
-100/117	NA	NA	- - - - - -
-100/119	NA	NA	- - - - - -
-100/121	NA	NA	- - - - - -
-100/125	NA	NA	- - - - - -
-100/127	NA	NA	- - - - - -
-100/129	NA	NA	- - - - - -
-100/133	NA	NA	- - - - - -
-100/135	NA	NA	- - - - - -
+100/113	NA	NA	-
+100/115	NA	NA	-
+100/117	NA	NA	-
+100/119	NA	NA	-
+100/121	NA	NA	-
+100/125	NA	NA	-
+100/127	NA	NA	-
+100/129	NA	NA	-
+100/133	NA	NA	-
+100/135	NA	NA	-
 100/141	schwoaz	1	sch w oa - z
 100/143	schwoaz	1	sch w oa - z
 100/145	schwoaz	1	sch w oa - z
 101/035	schwaarz	1	sch w aa r z
 101/037	schwarz	1	sch w a r z
-101/039	NA	NA	- - - - - -
+101/039	NA	NA	-
 101/041	schwarz	1	sch w a r z
 101/043	schwarz	1	sch w a r z
 101/045	schwarz	1	sch w a r z
@@ -5404,7 +5404,7 @@
 101/055	schwarz	1	sch w a r z
 101/057	schwarz	1	sch w a r z
 101/059	schwarz	1	sch w a r z
-101/061	NA	NA	- - - - - -
+101/061	NA	NA	-
 101/063	schwarts	1	sch w a r ts
 101/065	schwarz	1	sch w a r z
 101/067	schwarz	1	sch w a r z
@@ -5412,42 +5412,42 @@
 101/075	schwarz	1	sch w a r z
 101/077	schwarz	1	sch w a r z
 101/079	schwarz	1	sch w a r z
-101/081	NA	NA	- - - - - -
-101/091	NA	NA	- - - - - -
-101/093	NA	NA	- - - - - -
+101/081	NA	NA	-
+101/091	NA	NA	-
+101/093	NA	NA	-
 101/095	schlocht	1	sch l o ch t
 101/097	schlecht	1	sch l e ch t
-101/099	NA	NA	- - - - - -
+101/099	NA	NA	-
 101/101	schwoschz	1	sch w o sch z
 101/103	schwoschz	1	sch w o sch z
-101/107	NA	NA	- - - - - -
-101/109	NA	NA	- - - - - -
-101/113	NA	NA	- - - - - -
+101/107	NA	NA	-
+101/109	NA	NA	-
+101/113	NA	NA	-
 101/115	schwarz	1	sch w a r z
-101/121	NA	NA	- - - - - -
-101/125	NA	NA	- - - - - -
+101/121	NA	NA	-
+101/125	NA	NA	-
 101/129	schwoarz	1	sch w oa r z
-101/131	NA	NA	- - - - - -
+101/131	NA	NA	-
 101/133	schwoaz	1	sch w oa - z
-101/137	NA	NA	- - - - - -
-101/139	NA	NA	- - - - - -
+101/137	NA	NA	-
+101/139	NA	NA	-
 101/141	schwoarz	1	sch w oa r z
 101/143	schworz	1	sch w o r z
 101/145	schwoats	1	sch w oa - ts
 101/147	schwoaz	1	sch w oa - z
 102/037	schwarts	1	sch w a r ts
 102/039	schwarz	1	sch w a r z
-102/041	NA	NA	- - - - - -
+102/041	NA	NA	-
 102/043	schwarz	1	sch w a r z
 102/045	schwarz	1	sch w a r z
 102/047	schwaarz	1	sch w aa r z
 102/049	schwarz	1	sch w a r z
-102/051	NA	NA	- - - - - -
+102/051	NA	NA	-
 102/053	schwaarz	1	sch w aa r z
 102/055	schwarz	1	sch w a r z
 102/057	schwarz	1	sch w a r z
 102/059	schwarz	1	sch w a r z
-102/061	NA	NA	- - - - - -
+102/061	NA	NA	-
 102/063	schwarz	1	sch w a r z
 102/065	schwarz	1	sch w a r z
 102/067	schwarz	1	sch w a r z
@@ -5462,11 +5462,11 @@
 102/089	schwoschz	1	sch w o sch z
 102/091	schwoschz	1	sch w o sch z
 102/093	schwoschz	1	sch w o sch z
-102/095	NA	NA	- - - - - -
+102/095	NA	NA	-
 102/097	schwoschts	1	sch w o sch ts
 102/099	schlecht	1	sch l e ch t
 102/103	schlecht	1	sch l e ch t
-102/107	NA	NA	- - - - - -
+102/107	NA	NA	-
 102/109	schwaschz	1	sch w a sch z
 102/113	schwoaz	1	sch w oa - z
 102/115	schwoschz	1	sch w o sch z
@@ -5478,17 +5478,17 @@
 102/139	schwoarz	1	sch w oa r z
 102/141	schwoz	1	sch w o - z
 102/143	schwoaz	1	sch w oa - z
-102/145	NA	NA	- - - - - -
-103/039	NA	NA	- - - - - -
+102/145	NA	NA	-
+103/039	NA	NA	-
 103/041	schwarz	1	sch w a r z
 103/043	schwarz	1	sch w a r z
 103/045	schwarz	1	sch w a r z
-103/047	NA	NA	- - - - - -
+103/047	NA	NA	-
 103/049	schwarz	1	sch w a r z
 103/051	schwarz	1	sch w a r z
-103/053	NA	NA	- - - - - -
-103/055	NA	NA	- - - - - -
-103/057	NA	NA	- - - - - -
+103/053	NA	NA	-
+103/055	NA	NA	-
+103/057	NA	NA	-
 103/059	schwarz	1	sch w a r z
 103/063	schwarz	1	sch w a r z
 103/065	schwarz	1	sch w a r z
@@ -5502,38 +5502,38 @@
 103/081	schworz	1	sch w o r z
 103/083	schworz	1	sch w o r z
 103/085	schleacht	1	sch l ea ch t
-103/087	NA	NA	- - - - - -
+103/087	NA	NA	-
 103/089	schwochz	1	sch w o ch z
 103/091	schwoachz	1	sch w oa ch z
 103/097	schwoschz	1	sch w o sch z
 103/099	schwoschz	1	sch w o sch z
 103/101	schwoatz	1	sch w oa - tz
 103/105	schwoschts	1	sch w o sch ts
-103/107	NA	NA	- - - - - -
+103/107	NA	NA	-
 103/111	schwoschz	1	sch w o sch z
 103/121	schwoz	1	sch w o - z
-103/125	NA	NA	- - - - - -
+103/125	NA	NA	-
 103/127	schwoz	1	sch w o - z
-103/131	NA	NA	- - - - - -
+103/131	NA	NA	-
 103/133	schwoarz	1	sch w oa r z
 103/135	schwoarz	1	sch w oa r z
 103/137	schworz	1	sch w o r z
-103/139	NA	NA	- - - - - -
-103/141	NA	NA	- - - - - -
+103/139	NA	NA	-
+103/141	NA	NA	-
 103/143	schwoaz	1	sch w oa - z
 103/145	schwaac	1	sch w aa c -
 104/033	schwaz	1	sch w a - z
-104/035	NA	NA	- - - - - -
-104/037	NA	NA	- - - - - -
+104/035	NA	NA	-
+104/037	NA	NA	-
 104/039	schwarz	1	sch w a r z
 104/041	schwarz	1	sch w a r z
 104/043	schwarz	1	sch w a r z
 104/045	schwarz	1	sch w a r z
-104/047	NA	NA	- - - - - -
+104/047	NA	NA	-
 104/049	schwarz	1	sch w a r z
 104/051	schwarz	1	sch w a r z
 104/053	schwarz	1	sch w a r z
-104/055	NA	NA	- - - - - -
+104/055	NA	NA	-
 104/057	schwarz	1	sch w a r z
 104/059	schwarz	1	sch w a r z
 104/061	schwarz	1	sch w a r z
@@ -5544,113 +5544,113 @@
 104/075	schworz	1	sch w o r z
 104/077	schlächt	1	sch l ä ch t
 104/079	schworz	1	sch w o r z
-104/081	NA	NA	- - - - - -
+104/081	NA	NA	-
 104/083	schworz	1	sch w o r z
 104/085	schwarschz	1	sch w a rsch z
-104/091	NA	NA	- - - - - -
+104/091	NA	NA	-
 104/095	schwoschz	1	sch w o sch z
 104/101	schwoschz	1	sch w o sch z
 104/103	schwoschz	1	sch w o sch z
-104/107	NA	NA	- - - - - -
+104/107	NA	NA	-
 104/111	schwochz	1	sch w o ch z
-104/113	NA	NA	- - - - - -
+104/113	NA	NA	-
 104/119	schworz	1	sch w o r z
-104/121	NA	NA	- - - - - -
-104/123	NA	NA	- - - - - -
-104/125	NA	NA	- - - - - -
-104/127	NA	NA	- - - - - -
+104/121	NA	NA	-
+104/123	NA	NA	-
+104/125	NA	NA	-
+104/127	NA	NA	-
 104/131	schwaz	1	sch w a - z
 104/133	schwoaz	1	sch w oa - z
 104/135	schworz	1	sch w o r z
 104/137	schworz	1	sch w o r z
 104/139	schwoaz	1	sch w oa - z
 104/141	schwoz	1	sch w o - z
-104/143	NA	NA	- - - - - -
-104/145	NA	NA	- - - - - -
+104/143	NA	NA	-
+104/145	NA	NA	-
 105/031	schwarz	1	sch w a r z
 105/033	schwarz	1	sch w a r z
 105/035	schwartz	1	sch w a r tz
-105/037	NA	NA	- - - - - -
+105/037	NA	NA	-
 105/039	schwarz	1	sch w a r z
 105/041	schwarz	1	sch w a r z
 105/043	schwarz	1	sch w a r z
-105/045	NA	NA	- - - - - -
+105/045	NA	NA	-
 105/047	schwarz	1	sch w a r z
 105/049	schwarz	1	sch w a r z
 105/051	schwarz	1	sch w a r z
 105/053	schwarz	1	sch w a r z
 105/055	schwarz	1	sch w a r z
-105/057	NA	NA	- - - - - -
+105/057	NA	NA	-
 105/059	schwarz	1	sch w a r z
 105/061	schwarz	1	sch w a r z
 105/063	schwarz	1	sch w a r z
-105/065	NA	NA	- - - - - -
+105/065	NA	NA	-
 105/067	schwarz	1	sch w a r z
-105/069	NA	NA	- - - - - -
+105/069	NA	NA	-
 105/071	schwärz	1	sch w ä r z
 105/073	schworz	1	sch w o r z
 105/075	schworz	1	sch w o r z
 105/077	schworz	1	sch w o r z
-105/079	NA	NA	- - - - - -
+105/079	NA	NA	-
 105/081	schlöcht	1	sch l ö ch t
 105/085	schworschz	1	sch w o rsch z
 105/087	schworschz	1	sch w o rsch z
-105/089	NA	NA	- - - - - -
+105/089	NA	NA	-
 105/103	schwoaschz	1	sch w oa sch z
 105/105	schwoz	1	sch w o - z
 105/111	schwochz	1	sch w o ch z
-105/113	NA	NA	- - - - - -
+105/113	NA	NA	-
 105/115	schwoaz	1	sch w oa - z
 105/117	schwarz	1	sch w a r z
 105/119	schwarz	1	sch w a r z
-105/121	NA	NA	- - - - - -
+105/121	NA	NA	-
 105/125	schworz	1	sch w o r z
-105/127	NA	NA	- - - - - -
+105/127	NA	NA	-
 105/131	schwoarz	1	sch w oa r z
 105/133	schwoaz	1	sch w oa - z
-105/135	NA	NA	- - - - - -
-105/137	NA	NA	- - - - - -
+105/135	NA	NA	-
+105/137	NA	NA	-
 105/141	schworz	1	sch w o r z
 105/143	schwaurz	1	sch w au r z
 105/145	schwarz	1	sch w a r z
 106/033	schwarz	1	sch w a r z
 106/035	schwarz	1	sch w a r z
 106/037	schwarz	1	sch w a r z
-106/039	NA	NA	- - - - - -
-106/041	NA	NA	- - - - - -
-106/043	NA	NA	- - - - - -
-106/045	NA	NA	- - - - - -
+106/039	NA	NA	-
+106/041	NA	NA	-
+106/043	NA	NA	-
+106/045	NA	NA	-
 106/047	schwarts	1	sch w a r ts
 106/049	schwarz	1	sch w a r z
-106/051	NA	NA	- - - - - -
+106/051	NA	NA	-
 106/053	schwarz	1	sch w a r z
-106/057	NA	NA	- - - - - -
-106/061	NA	NA	- - - - - -
+106/057	NA	NA	-
+106/061	NA	NA	-
 106/063	schwarz	1	sch w a r z
 106/067	schwarz	1	sch w a r z
-106/071	NA	NA	- - - - - -
+106/071	NA	NA	-
 106/073	schworz	1	sch w o r z
 106/075	schworz	1	sch w o r z
-106/077	NA	NA	- - - - - -
+106/077	NA	NA	-
 106/079	schworz	1	sch w o r z
 106/081	schwoarz	1	sch w oa r z
-106/085	NA	NA	- - - - - -
+106/085	NA	NA	-
 106/087	schworschz	1	sch w o rsch z
-106/093	NA	NA	- - - - - -
+106/093	NA	NA	-
 106/097	schwochz	1	sch w o ch z
-106/099	NA	NA	- - - - - -
+106/099	NA	NA	-
 106/103	leize	NA	l ei z e - -
 106/111	schwochz	1	sch w o ch z
-106/115	NA	NA	- - - - - -
+106/115	NA	NA	-
 106/121	schwoarz	1	sch w oa r z
 106/123	schwoaz	1	sch w oa - z
 106/125	schwoz	1	sch w o - z
 106/129	schworz	1	sch w o r z
 106/131	schwaz	1	sch w a - z
-106/133	NA	NA	- - - - - -
+106/133	NA	NA	-
 106/135	schwoaz	1	sch w oa - z
-106/137	NA	NA	- - - - - -
-106/139	NA	NA	- - - - - -
+106/137	NA	NA	-
+106/139	NA	NA	-
 106/141	schworz	1	sch w o r z
 106/143	schwoaz	1	sch w oa - z
 106/145	schwoaz	1	sch w oa - z
@@ -5661,12 +5661,12 @@
 107/041	schwarz	1	sch w a r z
 107/043	schwarz	1	sch w a r z
 107/045	schwarz	1	sch w a r z
-107/047	NA	NA	- - - - - -
+107/047	NA	NA	-
 107/049	schwarz	1	sch w a r z
 107/051	schwarz	1	sch w a r z
 107/053	schwarz	1	sch w a r z
 107/057	schwarz	1	sch w a r z
-107/059	NA	NA	- - - - - -
+107/059	NA	NA	-
 107/063	schwarz	1	sch w a r z
 107/065	schwarz	1	sch w a r z
 107/071	schworz	1	sch w o r z
@@ -5674,32 +5674,32 @@
 107/081	schwarz	1	sch w a r z
 107/085	schworschz	1	sch w o rsch z
 107/087	schwarschz	1	sch w a rsch z
-107/089	NA	NA	- - - - - -
+107/089	NA	NA	-
 107/091	schwoschz	1	sch w o sch z
-107/097	NA	NA	- - - - - -
+107/097	NA	NA	-
 107/099	schworschts	1	sch w o rsch ts
 107/103	schwoz	1	sch w o - z
 107/105	schworz	1	sch w o r z
 107/107	schworz	1	sch w o r z
-107/111	NA	NA	- - - - - -
+107/111	NA	NA	-
 107/119	schworz	1	sch w o r z
-107/121	NA	NA	- - - - - -
+107/121	NA	NA	-
 107/123	schworz	1	sch w o r z
-107/125	NA	NA	- - - - - -
+107/125	NA	NA	-
 107/127	schwarz	1	sch w a r z
-107/129	NA	NA	- - - - - -
+107/129	NA	NA	-
 107/131	schwaz	1	sch w a - z
 107/133	schwoaz	1	sch w oa - z
-107/135	NA	NA	- - - - - -
+107/135	NA	NA	-
 107/137	schwoaz	1	sch w oa - z
 107/139	schworz	1	sch w o r z
 107/141	schwaz	1	sch w a - z
 107/143	schwoarz	1	sch w oa r z
 108/033	schwarz	1	sch w a r z
-108/035	NA	NA	- - - - - -
-108/037	NA	NA	- - - - - -
+108/035	NA	NA	-
+108/037	NA	NA	-
 108/039	schwarz	1	sch w a r z
-108/041	NA	NA	- - - - - -
+108/041	NA	NA	-
 108/043	schwarz	1	sch w a r z
 108/047	schwaz	1	sch w a - z
 108/049	schwarz	1	sch w a r z
@@ -5709,15 +5709,15 @@
 108/075	schwwoorz	1	sch ww oo r z
 108/079	schworz	1	sch w o r z
 108/081	schworz	1	sch w o r z
-108/085	NA	NA	- - - - - -
+108/085	NA	NA	-
 108/087	schwooaschts	1	sch w ooa sch ts
-108/091	NA	NA	- - - - - -
-108/099	NA	NA	- - - - - -
+108/091	NA	NA	-
+108/099	NA	NA	-
 108/101	schwoz	1	sch w o - z
 108/103	schworz	1	sch w o r z
-108/105	NA	NA	- - - - - -
+108/105	NA	NA	-
 108/109	schworz	1	sch w o r z
-108/111	NA	NA	- - - - - -
+108/111	NA	NA	-
 108/113	schworz	1	sch w o r z
 108/117	schworz	1	sch w o r z
 108/119	schworz	1	sch w o r z
@@ -5726,17 +5726,17 @@
 108/125	schwoarz	1	sch w oa r z
 108/127	schworz	1	sch w o r z
 108/129	schwoaz	1	sch w oa - z
-108/131	NA	NA	- - - - - -
+108/131	NA	NA	-
 108/133	schwaz	1	sch w a - z
 108/135	schworz	1	sch w o r z
-108/137	NA	NA	- - - - - -
-108/139	NA	NA	- - - - - -
+108/137	NA	NA	-
+108/139	NA	NA	-
 108/141	schwoaz	1	sch w oa - z
 109/035	schwarz	1	sch w a r z
 109/037	schwarz	1	sch w a r z
 109/039	schwarz	1	sch w a r z
 109/041	schwarz	1	sch w a r z
-109/043	NA	NA	- - - - - -
+109/043	NA	NA	-
 109/045	schwarz	1	sch w a r z
 109/049	schwarz	1	sch w a r z
 109/053	schwarz	1	sch w a r z
@@ -5747,128 +5747,128 @@
 109/075	schwärz	1	sch w ä r z
 109/083	schworz	1	sch w o r z
 109/087	lötza	NA	l ö t z a -
-109/089	NA	NA	- - - - - -
+109/089	NA	NA	-
 109/091	schworz	1	sch w o r z
 109/093	schworschz	1	sch w o rsch z
-109/095	NA	NA	- - - - - -
+109/095	NA	NA	-
 109/097	schwoschz	1	sch w o sch z
 109/099	schworz	1	sch w o r z
 109/101	schwoz	1	sch w o - z
-109/103	NA	NA	- - - - - -
-109/107	NA	NA	- - - - - -
-109/109	NA	NA	- - - - - -
+109/103	NA	NA	-
+109/107	NA	NA	-
+109/109	NA	NA	-
 109/111	schwoarz	1	sch w oa r z
-109/113	NA	NA	- - - - - -
+109/113	NA	NA	-
 109/115	schworz	1	sch w o r z
-109/117	NA	NA	- - - - - -
+109/117	NA	NA	-
 109/119	schworz	1	sch w o r z
-109/121	NA	NA	- - - - - -
-109/123	NA	NA	- - - - - -
+109/121	NA	NA	-
+109/123	NA	NA	-
 109/125	schworz	1	sch w o r z
-109/127	NA	NA	- - - - - -
+109/127	NA	NA	-
 109/129	schwoarz	1	sch w oa r z
 109/131	schwoarz	1	sch w oa r z
-109/133	NA	NA	- - - - - -
+109/133	NA	NA	-
 109/135	schwoaz	1	sch w oa - z
-109/137	NA	NA	- - - - - -
+109/137	NA	NA	-
 109/139	schwoaz	1	sch w oa - z
 110/035	schwarz	1	sch w a r z
 110/039	schwarz	1	sch w a r z
-110/041	NA	NA	- - - - - -
-110/043	NA	NA	- - - - - -
-110/045	NA	NA	- - - - - -
+110/041	NA	NA	-
+110/043	NA	NA	-
+110/045	NA	NA	-
 110/047	schwarz	1	sch w a r z
 110/049	schwarz	1	sch w a r z
-110/057	NA	NA	- - - - - -
-110/061	NA	NA	- - - - - -
+110/057	NA	NA	-
+110/061	NA	NA	-
 110/065	schworz	1	sch w o r z
 110/075	schworz	1	sch w o r z
-110/079	NA	NA	- - - - - -
+110/079	NA	NA	-
 110/081	schworz	1	sch w o r z
 110/083	schwarz	1	sch w a r z
-110/087	NA	NA	- - - - - -
+110/087	NA	NA	-
 110/089	schworz	1	sch w o r z
-110/091	NA	NA	- - - - - -
+110/091	NA	NA	-
 110/093	schworschz	1	sch w o rsch z
 110/095	schworz	1	sch w o r z
-110/097	NA	NA	- - - - - -
-110/099	NA	NA	- - - - - -
+110/097	NA	NA	-
+110/099	NA	NA	-
 110/101	schworz	1	sch w o r z
 110/105	schworz	1	sch w o r z
-110/107	NA	NA	- - - - - -
+110/107	NA	NA	-
 110/111	schwoz	1	sch w o - z
-110/113	NA	NA	- - - - - -
-110/115	NA	NA	- - - - - -
-110/117	NA	NA	- - - - - -
-110/119	NA	NA	- - - - - -
-110/121	NA	NA	- - - - - -
+110/113	NA	NA	-
+110/115	NA	NA	-
+110/117	NA	NA	-
+110/119	NA	NA	-
+110/121	NA	NA	-
 110/125	schworz	1	sch w o r z
 110/127	schworz	1	sch w o r z
 110/129	schwoarz	1	sch w oa r z
 110/131	schwoz	1	sch w o - z
 110/133	schworz	1	sch w o r z
 110/135	schworz	1	sch w o r z
-110/137	NA	NA	- - - - - -
+110/137	NA	NA	-
 110/139	schworz	1	sch w o r z
 111/035	schwarz	1	sch w a r z
-111/037	NA	NA	- - - - - -
+111/037	NA	NA	-
 111/039	schwarz	1	sch w a r z
 111/041	schwarz	1	sch w a r z
 111/043	schwarz	1	sch w a r z
 111/045	schwarz	1	sch w a r z
-111/059	NA	NA	- - - - - -
+111/059	NA	NA	-
 111/073	schworz	1	sch w o r z
 111/075	schworts	1	sch w o r ts
 111/077	schworz	1	sch w o r z
 111/079	schworz	1	sch w o r z
-111/081	NA	NA	- - - - - -
+111/081	NA	NA	-
 111/083	schworz	1	sch w o r z
-111/087	NA	NA	- - - - - -
-111/089	NA	NA	- - - - - -
+111/087	NA	NA	-
+111/089	NA	NA	-
 111/105	schwoarz	1	sch w oa r z
 111/107	schworz	1	sch w o r z
 111/109	schworz	1	sch w o r z
-111/111	NA	NA	- - - - - -
+111/111	NA	NA	-
 111/113	schwoaz	1	sch w oa - z
-111/115	NA	NA	- - - - - -
-111/117	NA	NA	- - - - - -
+111/115	NA	NA	-
+111/117	NA	NA	-
 111/119	schborz	1	sch b o r z
-111/121	NA	NA	- - - - - -
-111/123	NA	NA	- - - - - -
+111/121	NA	NA	-
+111/123	NA	NA	-
 111/125	schworz	1	sch w o r z
 112/037	schwarz	1	sch w a r z
-112/039	NA	NA	- - - - - -
+112/039	NA	NA	-
 112/041	schwarz	1	sch w a r z
 112/043	schwarz	1	sch w a r z
 112/047	schwarz	1	sch w a r z
 112/059	schwarz	1	sch w a r z
 112/061	schwarz	1	sch w a r z
 112/063	schwarz	1	sch w a r z
-112/075	NA	NA	- - - - - -
-112/081	NA	NA	- - - - - -
-112/083	NA	NA	- - - - - -
-112/085	NA	NA	- - - - - -
+112/075	NA	NA	-
+112/081	NA	NA	-
+112/083	NA	NA	-
+112/085	NA	NA	-
 112/111	schworz	1	sch w o r z
-112/115	NA	NA	- - - - - -
+112/115	NA	NA	-
 112/117	schwarz	1	sch w a r z
 112/119	schwoarz	1	sch w oa r z
 113/035	schwarz	1	sch w a r z
 113/037	schwarz	1	sch w a r z
 113/039	schwarz	1	sch w a r z
 113/047	schwarz	1	sch w a r z
-113/079	NA	NA	- - - - - -
+113/079	NA	NA	-
 113/081	schwarts	1	sch w a r ts
 113/083	schwourz	1	sch w ou r z
-113/085	NA	NA	- - - - - -
+113/085	NA	NA	-
 113/087	schworz	1	sch w o r z
 113/121	schworz	1	sch w o r z
-113/123	NA	NA	- - - - - -
+113/123	NA	NA	-
 114/035	schwarz	1	sch w a r z
-114/045	NA	NA	- - - - - -
-114/083	NA	NA	- - - - - -
+114/045	NA	NA	-
+114/083	NA	NA	-
 114/085	schworz	1	sch w o r z
-115/041	NA	NA	- - - - - -
-115/043	NA	NA	- - - - - -
+115/041	NA	NA	-
+115/043	NA	NA	-
 115/045	schwarz	1	sch w a r z
 115/083	schorz	1	sch - o r z
 115/085	schwaarz	1	sch w aa r z
@@ -5881,7 +5881,7 @@
 119/083	schwarz	1	sch w a r z
 120/085	svarts	1	s v a r ts
 121/127	schburz	1	sch b u r z
-122/127	NA	NA	- - - - - -
+122/127	NA	NA	-
 122/129	schburz	1	sch b u r z
 123/081	schvarts	1	sch v a r ts
 123/123	schbourz	1	sch b ou r z

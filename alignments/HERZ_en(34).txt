@@ -1400,7 +1400,7 @@
 034/063	hart	1	h a r - t
 034/065	hart	1	h a r - t
 034/067	hatt	1	h a - - tt
-034/069	NA	NA	- - - - - -
+034/069	NA	NA	-
 034/071	hart	1	h a r - t
 034/073	hatt	1	h a - - tt
 034/075	hart	1	h a r - t
@@ -2320,8 +2320,8 @@
 049/051	hiärt	1	h iä r - t
 049/053	hiärt	1	h iä r - t
 049/055	hiert	1	h ie r - t
-049/057	NA	NA	- - - - - -
-049/059	NA	NA	- - - - - -
+049/057	NA	NA	-
+049/059	NA	NA	-
 049/061	hert	1	h e r - t
 049/063	hart	1	h a r - t
 049/065	hart	1	h a r - t
@@ -2631,7 +2631,7 @@
 053/145	harz	1	h a r - z
 053/147	harz	1	h a r - z
 053/149	harz	1	h a r - z
-053/151	NA	NA	- - - - - -
+053/151	NA	NA	-
 053/153	harz	1	h a r - z
 053/155	harz	1	h a r - z
 053/157	hartz	1	h a r - tz
@@ -3251,7 +3251,7 @@
 062/115	häz	1	h ä - - z
 062/117	haz	1	h a - - z
 062/119	hatz	1	h a - - tz
-062/121	NA	NA	- - - - - -
+062/121	NA	NA	-
 062/123	harz	1	h a r - z
 062/125	harz	1	h a r - z
 062/127	harz	1	h a r - z
@@ -3284,7 +3284,7 @@
 063/039	herz	1	h e r - z
 063/041	herz	1	h e r - z
 063/043	herz	1	h e r - z
-063/045	NA	NA	- - - - - -
+063/045	NA	NA	-
 063/047	herz	1	h e r - z
 063/049	herz	1	h e r - z
 063/051	häaz	1	h äa - - z
@@ -3309,7 +3309,7 @@
 063/089	harz	1	h a r - z
 063/091	haarz	1	h aa r - z
 063/093	haerz	1	h ae r - z
-063/095	NA	NA	- - - - - -
+063/095	NA	NA	-
 063/097	harz	1	h a r - z
 063/099	härz	1	h ä r - z
 063/101	harz	1	h a r - z
@@ -3323,7 +3323,7 @@
 063/117	harz	1	h a r - z
 063/119	harz	1	h a r - z
 063/121	harz	1	h a r - z
-063/123	NA	NA	- - - - - -
+063/123	NA	NA	-
 063/125	harz	1	h a r - z
 063/127	harz	1	h a r - z
 063/135	haz	1	h a - - z
@@ -3564,7 +3564,7 @@
 067/087	heez	1	h ee - - z
 067/089	harz	1	h a r - z
 067/091	härz	1	h ä r - z
-067/093	NA	NA	- - - - - -
+067/093	NA	NA	-
 067/095	harz	1	h a r - z
 067/097	herz	1	h e r - z
 067/099	herz	1	h e r - z
@@ -3813,7 +3813,7 @@
 071/177	haz	1	h a - - z
 071/179	herz	1	h e r - z
 072/017	herz	1	h e r - z
-072/019	NA	NA	- - - - - -
+072/019	NA	NA	-
 072/021	herz	1	h e r - z
 072/023	häärz	1	h ää r - z
 072/025	hährz	1	h äh r - z
@@ -3925,7 +3925,7 @@
 073/157	harz	1	h a r - z
 073/159	harz	1	h a r - z
 073/161	herz	1	h e r - z
-073/163	NA	NA	- - - - - -
+073/163	NA	NA	-
 073/165	herz	1	h e r - z
 073/175	harz	1	h a r - z
 073/177	harz	1	h a r - z
@@ -3974,9 +3974,9 @@
 074/103	herz	1	h e r - z
 074/105	herz	1	h e r - z
 074/107	herz	1	h e r - z
-074/109	NA	NA	- - - - - -
+074/109	NA	NA	-
 074/145	hazz	1	h a - - zz
-074/147	NA	NA	- - - - - -
+074/147	NA	NA	-
 074/149	härz	1	h ä r - z
 074/153	herz	1	h e r - z
 074/155	herz	1	h e r - z
@@ -4026,7 +4026,7 @@
 075/095	harz	1	h a r - z
 075/097	herz	1	h e r - z
 075/099	harz	1	h a r - z
-075/101	NA	NA	- - - - - -
+075/101	NA	NA	-
 075/103	harz	1	h a r - z
 075/105	herz	1	h e r - z
 075/107	herz	1	h e r - z
@@ -4270,7 +4270,7 @@
 080/107	herz	1	h e r - z
 080/109	hez	1	h e - - z
 080/127	heaz	1	h ea - - z
-080/147	NA	NA	- - - - - -
+080/147	NA	NA	-
 080/151	herz	1	h e r - z
 080/153	heaz	1	h ea - - z
 080/193	herz	1	h e r - z
@@ -4490,9 +4490,9 @@
 084/143	heaz	1	h ea - - z
 084/145	herz	1	h e r - z
 084/147	heaz	1	h ea - - z
-084/149	NA	NA	- - - - - -
-084/171	NA	NA	- - - - - -
-084/173	NA	NA	- - - - - -
+084/149	NA	NA	-
+084/171	NA	NA	-
+084/173	NA	NA	-
 084/195	haz	1	h a - - z
 085/031	herz	1	h e r - z
 085/033	herz	1	h e r - z
@@ -4529,8 +4529,8 @@
 085/095	herz	1	h e r - z
 085/097	herz	1	h e r - z
 085/101	herz	1	h e r - z
-085/103	NA	NA	- - - - - -
-085/105	NA	NA	- - - - - -
+085/103	NA	NA	-
+085/105	NA	NA	-
 085/107	herz	1	h e r - z
 085/109	herz	1	h e r - z
 085/111	herz	1	h e r - z
@@ -4546,7 +4546,7 @@
 085/131	herz	1	h e r - z
 085/133	heaz	1	h ea - - z
 085/135	hez	1	h e - - z
-085/137	NA	NA	- - - - - -
+085/137	NA	NA	-
 085/139	herz	1	h e r - z
 085/141	herz	1	h e r - z
 085/143	heaz	1	h ea - - z
@@ -4588,7 +4588,7 @@
 086/091	herz	1	h e r - z
 086/093	herz	1	h e r - z
 086/095	herz	1	h e r - z
-086/097	NA	NA	- - - - - -
+086/097	NA	NA	-
 086/099	heaz	1	h ea - - z
 086/101	herz	1	h e r - z
 086/103	herz	1	h e r - z
@@ -4616,7 +4616,7 @@
 086/147	herz	1	h e r - z
 086/149	herz	1	h e r - z
 086/151	heaz	1	h ea - - z
-086/175	NA	NA	- - - - - -
+086/175	NA	NA	-
 086/197	haz	1	h a - - z
 086/199	hatz	1	h a - - tz
 087/033	herz	1	h e r - z
@@ -4699,7 +4699,7 @@
 088/073	herz	1	h e r - z
 088/075	heaarz	1	h eaa r - z
 088/077	herz	1	h e r - z
-088/079	NA	NA	- - - - - -
+088/079	NA	NA	-
 088/081	heaz	1	h ea - - z
 088/083	hearz	1	h ea r - z
 088/085	herz	1	h e r - z
@@ -4777,7 +4777,7 @@
 089/123	herz	1	h e r - z
 089/125	herz	1	h e r - z
 089/127	herz	1	h e r - z
-089/129	NA	NA	- - - - - -
+089/129	NA	NA	-
 089/131	herz	1	h e r - z
 089/133	heaz	1	h ea - - z
 089/135	heaz	1	h ea - - z
@@ -4818,7 +4818,7 @@
 090/089	herz	1	h e r - z
 090/091	herz	1	h e r - z
 090/093	heaz	1	h ea - - z
-090/095	NA	NA	- - - - - -
+090/095	NA	NA	-
 090/097	heaz	1	h ea - - z
 090/099	herz	1	h e r - z
 090/101	herz	1	h e r - z
@@ -4854,7 +4854,7 @@
 091/045	heerz	1	h ee r - z
 091/047	herz	1	h e r - z
 091/049	herz	1	h e r - z
-091/051	NA	NA	- - - - - -
+091/051	NA	NA	-
 091/053	hearz	1	h ea r - z
 091/055	hearz	1	h ea r - z
 091/057	heaz	1	h ea - - z
@@ -4884,7 +4884,7 @@
 091/107	herz	1	h e r - z
 091/109	herz	1	h e r - z
 091/111	heoz	1	h eo - - z
-091/113	NA	NA	- - - - - -
+091/113	NA	NA	-
 091/115	herz	1	h e r - z
 091/117	heachz	1	h ea - ch z
 091/119	herz	1	h e r - z
@@ -4919,7 +4919,7 @@
 092/059	häaz	1	h äa - - z
 092/061	heaz	1	h ea - - z
 092/063	herz	1	h e r - z
-092/065	NA	NA	- - - - - -
+092/065	NA	NA	-
 092/067	hez	1	h e - - z
 092/069	hearz	1	h ea r - z
 092/071	herz	1	h e r - z
@@ -4956,7 +4956,7 @@
 092/133	heaz	1	h ea - - z
 092/135	herz	1	h e r - z
 092/137	herz	1	h e r - z
-092/139	NA	NA	- - - - - -
+092/139	NA	NA	-
 092/141	herz	1	h e r - z
 092/143	herz	1	h e r - z
 092/145	heeaz	1	h eea - - z
@@ -4989,7 +4989,7 @@
 093/081	heaz	1	h ea - - z
 093/083	herz	1	h e r - z
 093/085	hearz	1	h ea r - z
-093/087	NA	NA	- - - - - -
+093/087	NA	NA	-
 093/089	herz	1	h e r - z
 093/091	herz	1	h e r - z
 093/093	herz	1	h e r - z
@@ -5034,7 +5034,7 @@
 094/053	haarz	1	h aa r - z
 094/055	hearz	1	h ea r - z
 094/057	heaz	1	h ea - - z
-094/059	NA	NA	- - - - - -
+094/059	NA	NA	-
 094/061	heaz	1	h ea - - z
 094/063	herz	1	h e r - z
 094/065	herz	1	h e r - z
@@ -5160,7 +5160,7 @@
 096/061	häarz	1	h äa r - z
 096/063	herz	1	h e r - z
 096/065	herz	1	h e r - z
-096/067	NA	NA	- - - - - -
+096/067	NA	NA	-
 096/069	hearz	1	h ea r - z
 096/071	heaz	1	h ea - - z
 096/075	herz	1	h e r - z
@@ -5192,7 +5192,7 @@
 096/129	heaz	1	h ea - - z
 096/131	heaz	1	h ea - - z
 096/135	herz	1	h e r - z
-096/137	NA	NA	- - - - - -
+096/137	NA	NA	-
 096/139	herz	1	h e r - z
 096/141	herz	1	h e r - z
 096/143	herz	1	h e r - z
@@ -5404,7 +5404,7 @@
 101/055	härz	1	h ä r - z
 101/057	herz	1	h e r - z
 101/059	herz	1	h e r - z
-101/061	NA	NA	- - - - - -
+101/061	NA	NA	-
 101/063	heerts	1	h ee r - ts
 101/065	herz	1	h e r - z
 101/067	herz	1	h e r - z
@@ -5425,7 +5425,7 @@
 101/113	heschz	1	h e - sch z
 101/115	herz	1	h e r - z
 101/121	herz	1	h e r - z
-101/125	NA	NA	- - - - - -
+101/125	NA	NA	-
 101/129	herz	1	h e r - z
 101/131	herz	1	h e r - z
 101/133	heaz	1	h ea - - z
@@ -5447,7 +5447,7 @@
 102/055	herz	1	h e r - z
 102/057	herz	1	h e r - z
 102/059	herz	1	h e r - z
-102/061	NA	NA	- - - - - -
+102/061	NA	NA	-
 102/063	herz	1	h e r - z
 102/065	herz	1	h e r - z
 102/067	herz	1	h e r - z
@@ -5456,7 +5456,7 @@
 102/073	herz	1	h e r - z
 102/075	hearz	1	h ea r - z
 102/077	hearz	1	h ea r - z
-102/079	NA	NA	- - - - - -
+102/079	NA	NA	-
 102/081	hearz	1	h ea r - z
 102/083	hez	1	h e - - z
 102/089	hoaschz	1	h oa - sch z
@@ -5556,7 +5556,7 @@
 104/113	hachz	1	h a - ch z
 104/119	herz	1	h e r - z
 104/121	harz	1	h a r - z
-104/123	NA	NA	- - - - - -
+104/123	NA	NA	-
 104/125	hearz	1	h ea r - z
 104/127	herz	1	h e r - z
 104/131	haz	1	h a - - z
@@ -5703,7 +5703,7 @@
 108/043	härz	1	h ä r - z
 108/047	härz	1	h ä r - z
 108/049	härz	1	h ä r - z
-108/063	NA	NA	- - - - - -
+108/063	NA	NA	-
 108/065	härz	1	h ä r - z
 108/067	härz	1	h ä r - z
 108/075	hearz	1	h ea r - z
@@ -5721,7 +5721,7 @@
 108/113	herz	1	h e r - z
 108/117	herz	1	h e r - z
 108/119	heaz	1	h ea - - z
-108/121	NA	NA	- - - - - -
+108/121	NA	NA	-
 108/123	herz	1	h e r - z
 108/125	herz	1	h e r - z
 108/127	herz	1	h e r - z
@@ -5756,7 +5756,7 @@
 109/101	heaz	1	h ea - - z
 109/103	herz	1	h e r - z
 109/107	herz	1	h e r - z
-109/109	NA	NA	- - - - - -
+109/109	NA	NA	-
 109/111	hearz	1	h ea r - z
 109/113	herz	1	h e r - z
 109/115	herz	1	h e r - z
@@ -5805,10 +5805,10 @@
 110/125	herz	1	h e r - z
 110/127	herz	1	h e r - z
 110/129	hearz	1	h ea r - z
-110/131	NA	NA	- - - - - -
+110/131	NA	NA	-
 110/133	häz	1	h ä - - z
 110/135	herz	1	h e r - z
-110/137	NA	NA	- - - - - -
+110/137	NA	NA	-
 110/139	herz	1	h e r - z
 111/035	härz	1	h ä r - z
 111/037	härz	1	h ä r - z

@@ -240,7 +240,7 @@
 016/209	schmolz	1	sch m o l z
 016/211	schmolt	1	sch m o l t
 016/213	schmolz	1	sch m o l z
-016/215	NA	NA	- - - - - - - - -
+016/215	NA	NA	-
 016/217	schmolz	1	sch m o l z
 016/219	schmolz	1	sch m o l z
 017/055	schmolt	1	sch m o l t
@@ -439,7 +439,7 @@
 020/147	schmillt	1	sch m i ll t
 020/149	schmildt	1	sch m i l dt
 020/151	schmilt	1	sch m i l t
-020/153	NA	NA	- - - - - - - - -
+020/153	NA	NA	-
 020/155	schmullt	1	sch m u ll t
 020/157	schmillt	1	sch m i ll t
 020/159	schmoult	1	sch m ou l t
@@ -1373,7 +1373,7 @@
 033/147	schmüllt	1	sch m ü ll t
 033/149	schmolt	1	sch m o l t
 033/151	schmilt	1	sch m i l t
-033/153	NA	NA	- - - - - - - - -
+033/153	NA	NA	-
 033/155	schmült	1	sch m ü l t
 033/159	schmült	1	sch m ü l t
 033/161	schmült	1	sch m ü l t
@@ -1977,7 +1977,7 @@
 043/089	schmelt	1	sch m e l t
 043/091	schmolt	1	sch m o l t
 043/093	schmult	1	sch m u l t
-043/095	NA	NA	- - - - - - - - -
+043/095	NA	NA	-
 043/097	schmult	1	sch m u l t
 043/099	schmult	1	sch m u l t
 043/101	schmult	1	sch m u l t
@@ -2179,7 +2179,7 @@
 046/139	zegangen	3	ze - - g a ng e n -
 046/141	schmulz	1	sch m u l z
 046/143	schmulz	1	sch m u l z
-046/155	NA	NA	- - - - - - - - -
+046/155	NA	NA	-
 047/031	schmolt	1	sch m o l t
 047/033	schmolt	1	sch m o l t
 047/035	smolt	1	s m o l t
@@ -2416,7 +2416,7 @@
 050/117	ethaut	2	- - e th au - t
 050/119	abthaut	2	ab - - th au - t
 050/121	schmolz	1	sch m o l z
-050/125	NA	NA	- - - - - - - - -
+050/125	NA	NA	-
 050/127	schmulz	1	sch m u l z
 050/129	schmulz	1	sch m u l z
 050/131	gthoout	2	- g - th oou - t
@@ -2810,7 +2810,7 @@
 056/089	wagjedaut	2	wag j e d au - t
 056/091	schmulz	1	sch m u l z
 056/093	schmulz	1	sch m u l z
-056/095	NA	NA	- - - - - - - - -
+056/095	NA	NA	-
 056/097	schmulz	1	sch m u l z
 056/099	schmulz	1	sch m u l z
 056/101	schmulz	1	sch m u l z
@@ -2842,7 +2842,7 @@
 056/155	zergangn	3	zer - - g a ng - n -
 056/157	schmulz	1	sch m u l z
 056/159	schmulz	1	sch m u l z
-056/161	NA	NA	- - - - - - - - -
+056/161	NA	NA	-
 057/021	schmollt	1	sch m o ll t
 057/023	schmolt	1	sch m o l t
 057/025	schmolz	1	sch m o l z
@@ -2925,7 +2925,7 @@
 058/035	schmolz	1	sch m o l z
 058/037	schmolz	1	sch m o l z
 058/039	schmullt	1	sch m u ll t
-058/041	NA	NA	- - - - - - - - -
+058/041	NA	NA	-
 058/043	schmolt	1	sch m o l t
 058/045	schmolt	1	sch m o l t
 058/047	schmolz	1	sch m o l z
@@ -2983,7 +2983,7 @@
 058/151	schmulz	1	sch m u l z
 058/153	schmulz	1	sch m u l z
 058/155	schmulz	1	sch m u l z
-058/157	NA	NA	- - - - - - - - -
+058/157	NA	NA	-
 058/159	schmulz	1	sch m u l z
 059/019	schmult	1	sch m u l t
 059/021	schmolt	1	sch m o l t
@@ -3081,7 +3081,7 @@
 060/059	schmolz	1	sch m o l z
 060/061	schmolz	1	sch m o l z
 060/063	schmolz	1	sch m o l z
-060/065	NA	NA	- - - - - - - - -
+060/065	NA	NA	-
 060/067	schmolz	1	sch m o l z
 060/069	schmulz	1	sch m u l z
 060/071	schmaolz	1	sch m ao l z
@@ -3394,7 +3394,7 @@
 064/121	schmulz	1	sch m u l z
 064/123	zrgangn	3	zr - - g a ng - n -
 064/125	schmoolz	1	sch m oo l z
-064/127	NA	NA	- - - - - - - - -
+064/127	NA	NA	-
 064/135	schmulz	1	sch m u l z
 064/137	schmolz	1	sch m o l z
 064/139	schmolz	1	sch m o l z
@@ -3513,7 +3513,7 @@
 066/105	waggonga	3	wag - - g o ng a - -
 066/107	zrgonge	3	zr - - g o ng e - -
 066/109	schmolz	1	sch m o l z
-066/111	NA	NA	- - - - - - - - -
+066/111	NA	NA	-
 066/113	zrgongn	3	zr - - g o ng - n -
 066/121	schmulz	1	sch m u l z
 066/139	schmoolz	1	sch m oo l z
@@ -3966,7 +3966,7 @@
 074/087	schmolz	1	sch m o l z
 074/089	schmolz	1	sch m o l z
 074/091	schmolz	1	sch m o l z
-074/093	NA	NA	- - - - - - - - -
+074/093	NA	NA	-
 074/095	schmolz	1	sch m o l z
 074/097	zgaanga	3	z - - g aa ng a - -
 074/099	weggleint	7	weg g l ei n t
@@ -4415,7 +4415,7 @@
 083/097	zruna	5	z r u n a -
 083/099	zganga	3	z - - g a ng a - -
 083/101	zgange	3	z - - g a ng e - -
-083/103	NA	NA	- - - - - - - - -
+083/103	NA	NA	-
 083/105	schmoiz	1	sch m oi - z
 083/107	schmoiz	1	sch m oi - z
 083/111	wäiggonga	3	wäi - - gg o ng a - -
@@ -4453,7 +4453,7 @@
 084/061	schmolz	1	sch m o l z
 084/063	schmolz	1	sch m o l z
 084/065	schmolz	1	sch m o l z
-084/067	NA	NA	- - - - - - - - -
+084/067	NA	NA	-
 084/069	schmolz	1	sch m o l z
 084/071	schmolz	1	sch m o l z
 084/073	schmolz	1	sch m o l z
@@ -4538,7 +4538,7 @@
 085/115	zgaounga	3	z - - g aou ng a - -
 085/117	zgounga	3	z - - g ou ng a - -
 085/119	zruna	5	z r u n a -
-085/121	NA	NA	- - - - - - - - -
+085/121	NA	NA	-
 085/123	zgaunga	3	z - - g au ng a - -
 085/125	zgaunga	3	z - - g au ng a - -
 085/127	zerganga	3	zer - - g a ng a - -
@@ -4600,7 +4600,7 @@
 086/115	zgonga	3	z - - g o ng a - -
 086/117	zgounga	3	z - - g ou ng a - -
 086/119	zgoaungn	3	z - - g oau ng - n -
-086/121	NA	NA	- - - - - - - - -
+086/121	NA	NA	-
 086/123	zgonga	3	z - - g o ng a - -
 086/125	zgaunga	3	z - - g au ng a - -
 086/127	zgonga	3	z - - g o ng a - -
@@ -4772,7 +4772,7 @@
 089/113	ganga	3	- - - g a ng a - -
 089/115	zganga	3	z - - g a ng a - -
 089/117	zgonga	3	z - - g o ng a - -
-089/119	NA	NA	- - - - - - - - -
+089/119	NA	NA	-
 089/121	weggaunga	3	weg - - g au ng a - -
 089/123	zganga	3	z - - g a ng a - -
 089/125	zgaunga	3	z - - g au ng a - -
@@ -4805,7 +4805,7 @@
 090/063	schmolz	1	sch m o l z
 090/065	schmolz	1	sch m o l z
 090/067	schmolz	1	sch m o l z
-090/069	NA	NA	- - - - - - - - -
+090/069	NA	NA	-
 090/071	schmolz	1	sch m o l z
 090/073	scholz	1	sch - o l z
 090/075	schmolz	1	sch m o l z
@@ -4840,7 +4840,7 @@
 090/135	zganga	3	z - - g a ng a - -
 090/137	zgonga	3	z - - g o ng a - -
 090/139	zgonga	3	z - - g o ng a - -
-090/141	NA	NA	- - - - - - - - -
+090/141	NA	NA	-
 090/143	tsgonga	3	ts - - g o ng a - -
 090/145	schmuiz	1	sch m ui - z
 090/147	zganga	3	z - - g a ng a - -
@@ -4882,7 +4882,7 @@
 091/103	zganga	3	z - - g a ng a - -
 091/105	zruna	5	z r u n a -
 091/107	zganga	3	z - - g a ng a - -
-091/109	NA	NA	- - - - - - - - -
+091/109	NA	NA	-
 091/111	schmoiz	1	sch m oi - z
 091/113	zganga	3	z - - g a ng a - -
 091/115	zganga	3	z - - g a ng a - -
@@ -4922,7 +4922,7 @@
 092/065	vrganga	3	vr - - g a ng a - -
 092/067	schmoolz	1	sch m oo l z
 092/069	schmolz	1	sch m o l z
-092/071	NA	NA	- - - - - - - - -
+092/071	NA	NA	-
 092/073	vrganga	3	vr - - g a ng a - -
 092/075	ganga	3	- - - g a ng a - -
 092/077	schmolz	1	sch m o l z
@@ -4981,7 +4981,7 @@
 093/065	schmolz	1	sch m o l z
 093/067	schmolz	1	sch m o l z
 093/069	schmolz	1	sch m o l z
-093/071	NA	NA	- - - - - - - - -
+093/071	NA	NA	-
 093/073	verganga	3	ver - - g a ng a - -
 093/075	verganga	3	ver - - g a ng a - -
 093/077	verganga	3	ver - - g a ng a - -
@@ -5091,7 +5091,7 @@
 095/043	schmolz	1	sch m o l z
 095/045	schmolz	1	sch m o l z
 095/047	schmolz	1	sch m o l z
-095/049	NA	NA	- - - - - - - - -
+095/049	NA	NA	-
 095/051	verganga	3	ver - - g a ng a - -
 095/053	schmolz	1	sch m o l z
 095/055	ganga	3	- - - g a ng a - -
@@ -5120,7 +5120,7 @@
 095/101	schmolz	1	sch m o l z
 095/103	wegtriebn	6	weg t r ie b n -
 095/105	schmolz	1	sch m o l z
-095/107	NA	NA	- - - - - - - - -
+095/107	NA	NA	-
 095/109	zganga	3	z - - g a ng a - -
 095/111	zgonga	3	z - - g o ng a - -
 095/113	zganga	3	z - - g a ng a - -
@@ -5234,14 +5234,14 @@
 097/091	zganga	3	z - - g a ng a - -
 097/093	zgana	3	z - - g a n a - -
 097/095	zganga	3	z - - g a ng a - -
-097/097	NA	NA	- - - - - - - - -
+097/097	NA	NA	-
 097/099	zganga	3	z - - g a ng a - -
 097/103	schmoiz	1	sch m oi - z
 097/105	zgonga	3	z - - g o ng a - -
 097/107	zgonga	3	z - - g o ng a - -
 097/109	schmoiz	1	sch m oi - z
-097/113	NA	NA	- - - - - - - - -
-097/125	NA	NA	- - - - - - - - -
+097/113	NA	NA	-
+097/125	NA	NA	-
 097/131	schmolz	1	sch m o l z
 097/133	schmolz	1	sch m o l z
 097/139	schmuiz	1	sch m ui - z
@@ -5279,16 +5279,16 @@
 098/085	wegganga	3	weg - - g a ng a - -
 098/087	zganga	3	z - - g a ng a - -
 098/089	schmolz	1	sch m o l z
-098/091	NA	NA	- - - - - - - - -
+098/091	NA	NA	-
 098/093	zganga	3	z - - g a ng a - -
 098/095	zgonga	3	z - - g o ng a - -
-098/097	NA	NA	- - - - - - - - -
+098/097	NA	NA	-
 098/103	zganga	3	z - - g a ng a - -
 098/105	zgonga	3	z - - g o ng a - -
 098/107	zgonga	3	z - - g o ng a - -
 098/109	zgongaa	3	z - - g o ng aa - -
 098/111	zgonga	3	z - - g o ng a - -
-098/119	NA	NA	- - - - - - - - -
+098/119	NA	NA	-
 098/123	zgonga	3	z - - g o ng a - -
 098/125	zgonga	3	z - - g o ng a - -
 098/127	zgonga	3	z - - g o ng a - -
@@ -5334,7 +5334,7 @@
 099/103	zganga	3	z - - g a ng a - -
 099/105	zganga	3	z - - g a ng a - -
 099/107	weggant	3	weg - - g a n - t -
-099/109	NA	NA	- - - - - - - - -
+099/109	NA	NA	-
 099/111	zganga	3	z - - g a ng a - -
 099/113	zgonga	3	z - - g o ng a - -
 099/121	weckgounga	3	weck - - g ou ng a - -
@@ -5372,7 +5372,7 @@
 100/083	wekganga	3	wek - - g a ng a - -
 100/089	schmoiz	1	sch m oi - z
 100/093	zgongo	3	z - - g o ng o - -
-100/095	NA	NA	- - - - - - - - -
+100/095	NA	NA	-
 100/097	schmoiz	1	sch m oi - z
 100/099	dawoik	1	- - - - -
 100/101	zganga	3	z - - g a ng a - -
@@ -5413,7 +5413,7 @@
 101/077	schmolz	1	sch m o l z
 101/079	schmolz	1	sch m o l z
 101/081	wekganga	3	wek - - g a ng a - -
-101/091	NA	NA	- - - - - - - - -
+101/091	NA	NA	-
 101/093	zgonga	3	z - - g o ng a - -
 101/095	zgonga	3	z - - g o ng a - -
 101/097	weck	1	- - - - -
@@ -5456,13 +5456,13 @@
 102/073	schmolz	1	sch m o l z
 102/075	vrgonga	3	vr - - g o ng a - -
 102/077	schmolz	1	sch m o l z
-102/079	NA	NA	- - - - - - - - -
+102/079	NA	NA	-
 102/081	schmolz	1	sch m o l z
 102/083	wäkgonga	3	wäk - - g o ng a - -
 102/089	vagonga	3	va - - g o ng a - -
 102/091	weckganga	3	weck - - g a ng a - -
 102/093	schmoiz	1	sch m oi - z
-102/095	NA	NA	- - - - - - - - -
+102/095	NA	NA	-
 102/097	zgonga	3	z - - g o ng a - -
 102/099	zgonga	3	z - - g o ng a - -
 102/103	zgonga	3	z - - g o ng a - -
@@ -5496,7 +5496,7 @@
 103/069	schmolz	1	sch m o l z
 103/071	schmolz	1	sch m o l z
 103/073	schmölz	1	sch m ö l z
-103/075	NA	NA	- - - - - - - - -
+103/075	NA	NA	-
 103/077	drgonga	3	dr - - g o ng a - -
 103/079	schmolz	1	sch m o l z
 103/081	schmolz	1	sch m o l z
@@ -5578,7 +5578,7 @@
 105/047	vergange	3	ver - - g a ng e - -
 105/049	vergange	3	ver - - g a ng e - -
 105/051	schmolz	1	sch m o l z
-105/053	NA	NA	- - - - - - - - -
+105/053	NA	NA	-
 105/055	schmulz	1	sch m u l z
 105/057	schmulz	1	sch m u l z
 105/059	schmolz	1	sch m o l z
@@ -5586,7 +5586,7 @@
 105/063	schmolz	1	sch m o l z
 105/065	schmolz	1	sch m o l z
 105/067	vergange	3	ver - - g a ng e - -
-105/069	NA	NA	- - - - - - - - -
+105/069	NA	NA	-
 105/071	vorgange	3	vor - - g a ng e - -
 105/073	schmolz	1	sch m o l z
 105/075	drgonga	3	dr - - g o ng a - -
@@ -5627,7 +5627,7 @@
 106/057	vergangä	3	ver - - g a ng ä - -
 106/061	schmolz	1	sch m o l z
 106/063	schmolz	1	sch m o l z
-106/067	NA	NA	- - - - - - - - -
+106/067	NA	NA	-
 106/071	drgonga	3	dr - - g o ng a - -
 106/073	gogan	3	- - - g o g a n -
 106/075	drgonga	3	dr - - g o ng a - -
@@ -5703,7 +5703,7 @@
 108/043	vergange	3	ver - - g a ng e - -
 108/047	schmulz	1	sch m u l z
 108/049	vergangä	3	ver - - g a ng ä - -
-108/063	NA	NA	- - - - - - - - -
+108/063	NA	NA	-
 108/065	zrgangn	3	zr - - g a ng - n -
 108/067	schmolz	1	sch m o l z
 108/075	drgunga	3	dr - - g u ng a - -
@@ -5776,7 +5776,7 @@
 110/039	schmouz	1	sch m ou - z
 110/041	schmouz	1	sch m ou - z
 110/043	schmolz	1	sch m o l z
-110/045	NA	NA	- - - - - - - - -
+110/045	NA	NA	-
 110/047	schmolz	1	sch m o l z
 110/049	schmolz	1	sch m o l z
 110/057	schmolz	1	sch m o l z
@@ -5840,7 +5840,7 @@
 112/039	schmolz	1	sch m o l z
 112/041	schmolz	1	sch m o l z
 112/043	schmolz	1	sch m o l z
-112/047	NA	NA	- - - - - - - - -
+112/047	NA	NA	-
 112/059	schmolz	1	sch m o l z
 112/061	schmolz	1	sch m o l z
 112/063	ganga	3	- - - g a ng a - -

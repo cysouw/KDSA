@@ -104,7 +104,7 @@
 013/067	stell	1	s t e ll -
 013/161	stell	1	s t e ll -
 013/163	stell	1	s t e ll -
-013/165	NA	NA	- - - - - - - - -
+013/165	NA	NA	-
 013/167	stell	1	s t e ll -
 013/187	stell	1	s t e ll -
 013/189	stell	1	s t e ll -
@@ -565,7 +565,7 @@
 022/103	stell	1	s t e ll -
 022/105	stell	1	s t e ll -
 022/107	stell	1	s t e ll -
-022/109	NA	NA	- - - - - - - - -
+022/109	NA	NA	-
 022/111	stell	1	s t e ll -
 022/113	stell	1	s t e ll -
 022/115	stell	1	s t e ll -
@@ -1521,7 +1521,7 @@
 036/043	stell	1	s t e ll -
 036/045	stell	1	s t e ll -
 036/047	stell	1	s t e ll -
-036/049	NA	NA	- - - - - - - - -
+036/049	NA	NA	-
 036/051	stell	1	s t e ll -
 036/053	stell	1	s t e ll -
 036/055	stell	1	s t e ll -
@@ -1876,7 +1876,7 @@
 041/133	stell	1	s t e ll -
 041/135	stell	1	s t e ll -
 041/139	stell	1	s t e ll -
-041/141	NA	NA	- - - - - - - - -
+041/141	NA	NA	-
 041/145	schtell	1	sch t e ll -
 041/147	stell	1	s t e ll -
 041/153	stiall	1	s t ia ll -
@@ -3246,12 +3246,12 @@
 062/105	still	1	s t i ll -
 062/107	schtell	1	sch t e ll -
 062/109	stall	1	s t a ll -
-062/111	NA	NA	- - - - - - - - -
+062/111	NA	NA	-
 062/113	stell	1	s t e ll -
 062/115	stall	1	s t a ll -
 062/117	stall	1	s t a ll -
 062/119	stall	1	s t a ll -
-062/121	NA	NA	- - - - - - - - -
+062/121	NA	NA	-
 062/123	stall	1	s t a ll -
 062/125	stall	1	s t a ll -
 062/127	stall	1	s t a ll -
@@ -3453,7 +3453,7 @@
 065/107	schtell	1	sch t e ll -
 065/109	schtell	1	sch t e ll -
 065/111	schtell	1	sch t e ll -
-065/113	NA	NA	- - - - - - - - -
+065/113	NA	NA	-
 065/115	stell	1	s t e ll -
 065/121	stall	1	s t a ll -
 065/123	stall	1	s t a ll -
@@ -3625,7 +3625,7 @@
 068/089	stell	1	s t e ll -
 068/091	schtell	1	sch t e ll -
 068/093	stell	1	s t e ll -
-068/095	NA	NA	- - - - - - - - -
+068/095	NA	NA	-
 068/097	schtel	1	sch t e l -
 068/099	schöll	1	sch - ö ll -
 068/101	schtöll	1	sch t ö ll -
@@ -3800,7 +3800,7 @@
 071/101	schtell	1	sch t e ll -
 071/103	schtöl	1	sch t ö l -
 071/105	schtell	1	sch t e ll -
-071/145	NA	NA	- - - - - - - - -
+071/145	NA	NA	-
 071/147	schtell	1	sch t e ll -
 071/149	verlangt	NA	-
 071/151	stell	1	s t e ll -
@@ -3858,7 +3858,7 @@
 072/103	schtll	1	sch t - ll -
 072/105	schtel	1	sch t e l -
 072/107	stöl	1	s t ö l -
-072/145	NA	NA	- - - - - - - - -
+072/145	NA	NA	-
 072/147	stell	1	s t e ll -
 072/149	schtell	1	sch t e ll -
 072/151	stell	1	s t e ll -
@@ -3915,7 +3915,7 @@
 073/101	schtöl	1	sch t ö l -
 073/103	stell	1	s t e ll -
 073/105	schtell	1	sch t e ll -
-073/107	NA	NA	- - - - - - - - -
+073/107	NA	NA	-
 073/145	stell	1	s t e ll -
 073/147	stell	1	s t e ll -
 073/149	stell	1	s t e ll -
@@ -4026,8 +4026,8 @@
 075/095	schtöl	1	sch t ö l -
 075/097	schtell	1	sch t e ll -
 075/099	schtell	1	sch t e ll -
-075/101	NA	NA	- - - - - - - - -
-075/103	schthl	1	sch t h l -
+075/101	NA	NA	-
+075/103	schthl	1	sch th - l -
 075/105	schtell	1	sch t e ll -
 075/107	stöl	1	s t ö l -
 075/135	sstel	1	ss t e l -
@@ -4135,7 +4135,7 @@
 077/135	schöj	1	sch - öj - -
 077/137	stell	1	s t e ll -
 078/021	stal	1	s t a l -
-078/023	NA	NA	- - - - - - - - -
+078/023	NA	NA	-
 078/025	stal	1	s t a l -
 078/027	schtall	1	sch t a ll -
 078/029	stal	1	s t a l -
@@ -4323,7 +4323,7 @@
 081/133	stell	1	s t e ll -
 081/147	schteill	1	sch t ei ll -
 081/191	stal	1	s t a l -
-081/193	NA	NA	- - - - - - - - -
+081/193	NA	NA	-
 081/195	schtoll	1	sch t o ll -
 082/027	steell	1	s t ee ll -
 082/029	stell	1	s t e ll -
@@ -4370,7 +4370,7 @@
 082/113	braucht	12	b r au ch - t -
 082/117	stöl	1	s t ö l -
 082/129	käima	14	k äi m a
-082/131	NA	NA	- - - - - - - - -
+082/131	NA	NA	-
 082/133	aufgnumma	4	au f g - n u mm a -
 082/135	schtell	1	sch t e ll -
 082/145	schtöll	1	sch t ö ll -
@@ -4481,17 +4481,17 @@
 084/117	afgnuma	4	a f g - n u m a -
 084/119	stüll	1	s t ü ll -
 084/129	stell	1	s t e ll -
-084/131	NA	NA	- - - - - - - - -
+084/131	NA	NA	-
 084/133	schdö	1	sch d ö - -
 084/135	stöll	1	s t ö ll -
 084/137	schöil	1	sch - öi l -
-084/139	NA	NA	- - - - - - - - -
+084/139	NA	NA	-
 084/141	stel	1	s t e l -
 084/143	schtöl	1	sch t ö l -
 084/145	valongt	NA	-
 084/147	stöll	1	s t ö ll -
 084/149	stö	1	s t ö - -
-084/171	NA	NA	- - - - - - - - -
+084/171	NA	NA	-
 084/173	stel	1	s t e l -
 084/195	stell	1	s t e ll -
 085/031	schdell	1	sch d e ll -
@@ -4600,7 +4600,7 @@
 086/115	stöll	1	s t ö ll -
 086/117	schtül	1	sch t ü l -
 086/119	stuj	1	s t uj - -
-086/121	NA	NA	- - - - - - - - -
+086/121	NA	NA	-
 086/123	schtü	1	sch t ü - -
 086/125	schtöia	1	sch t öia - -
 086/127	stö	1	s t ö - -
@@ -4700,7 +4700,7 @@
 088/075	schdöl	1	sch d ö l -
 088/077	stöll	1	s t ö ll -
 088/079	schdöll	1	sch d ö ll -
-088/081	NA	NA	- - - - - - - - -
+088/081	NA	NA	-
 088/083	schtöhl	1	sch t öh l -
 088/085	schdei	1	sch d ei - -
 088/087	schdei	1	sch d ei - -
@@ -4710,7 +4710,7 @@
 088/095	schtäi	1	sch t äi - -
 088/097	schtell	1	sch t e ll -
 088/099	schteei	1	sch t eei - -
-088/101	NA	NA	- - - - - - - - -
+088/101	NA	NA	-
 088/103	stöi	1	s t öi - -
 088/105	schta	1	sch t a - -
 088/107	schtell	1	sch t e ll -
@@ -4768,7 +4768,7 @@
 089/105	schdoö	1	sch d oö - -
 089/107	schtoi	1	sch t oi - -
 089/109	gfriemt	NA	-
-089/111	NA	NA	- - - - - - - - -
+089/111	NA	NA	-
 089/113	ställ	1	s t ä ll -
 089/115	schtö	1	sch t ö - -
 089/117	schdö	1	sch d ö - -
@@ -4878,7 +4878,7 @@
 091/095	stoi	1	s t oi - -
 091/097	schdoi	1	sch d oi - -
 091/099	kema	14	k e m a
-091/101	NA	NA	- - - - - - - - -
+091/101	NA	NA	-
 091/103	schdei	1	sch d ei - -
 091/105	aufgenuma	4	au f g e n u m a -
 091/107	schtoi	1	sch t oi - -
@@ -5109,8 +5109,8 @@
 095/079	stell	1	s t e ll -
 095/081	schtöl	1	sch t ö l -
 095/083	schstui	1	schs t ui - -
-095/085	NA	NA	- - - - - - - - -
-095/087	NA	NA	- - - - - - - - -
+095/085	NA	NA	-
+095/087	NA	NA	-
 095/089	schdel	1	sch d e l -
 095/091	stäi	1	s t äi - -
 095/093	schtell	1	sch t e ll -
@@ -5231,7 +5231,7 @@
 097/085	schtel	1	sch t e l -
 097/087	schtell	1	sch t e ll -
 097/089	schtöi	1	sch t öi - -
-097/091	NA	NA	- - - - - - - - -
+097/091	NA	NA	-
 097/093	schdöl	1	sch d ö l -
 097/095	schtoi	1	sch t oi - -
 097/097	schtell	1	sch t e ll -
@@ -5241,7 +5241,7 @@
 097/107	schtoi	1	sch t oi - -
 097/109	braucht	12	b r au ch - t -
 097/113	ghoassn	8	g h oa ss - n
-097/125	NA	NA	- - - - - - - - -
+097/125	NA	NA	-
 097/131	stöl	1	s t ö l -
 097/133	stell	1	s t e ll -
 097/139	stöi	1	s t öi - -
@@ -5460,7 +5460,7 @@
 102/081	schtöll	1	sch t ö ll -
 102/083	schtöl	1	sch t ö l -
 102/089	stöll	1	s t ö ll -
-102/091	NA	NA	- - - - - - - - -
+102/091	NA	NA	-
 102/093	schtö	1	sch t ö - -
 102/095	schöi	1	sch - öi - -
 102/097	stel	1	s t e l -
@@ -5475,7 +5475,7 @@
 102/131	stöl	1	s t ö l -
 102/135	ghoassn	8	g h oa ss - n
 102/137	stell	1	s t e ll -
-102/139	NA	NA	- - - - - - - - -
+102/139	NA	NA	-
 102/141	stöüll	1	s t öü ll -
 102/143	stöüll	1	s t öü ll -
 102/145	griaft	7	g - r ia f - t
@@ -5490,7 +5490,7 @@
 103/055	schtell	1	sch t e ll -
 103/057	schtell	1	sch t e ll -
 103/059	schtell	1	sch t e ll -
-103/063	NA	NA	- - - - - - - - -
+103/063	NA	NA	-
 103/065	stell	1	s t e ll -
 103/067	schtel	1	sch t e l -
 103/069	schtell	1	sch t e ll -
@@ -5520,7 +5520,7 @@
 103/137	schtall	1	sch t a ll -
 103/139	stöll	1	s t ö ll -
 103/141	stöll	1	s t ö ll -
-103/143	NA	NA	- - - - - - - - -
+103/143	NA	NA	-
 103/145	schtöl	1	sch t ö l -
 104/033	schtell	1	sch t e ll -
 104/035	stell	1	s t e ll -
@@ -5638,7 +5638,7 @@
 106/087	schtell	1	sch t e ll -
 106/093	schtöll	1	sch t ö ll -
 106/097	gfrogt	6	g f r o g - t
-106/099	NA	NA	- - - - - - - - -
+106/099	NA	NA	-
 106/103	schell	1	sch - e ll -
 106/111	schtell	1	sch t e ll -
 106/115	schtö	1	sch t ö - -
@@ -5664,7 +5664,7 @@
 107/047	stell	1	s t e ll -
 107/049	stell	1	s t e ll -
 107/051	stell	1	s t e ll -
-107/053	NA	NA	- - - - - - - - -
+107/053	NA	NA	-
 107/057	schtell	1	sch t e ll -
 107/059	stell	1	s t e ll -
 107/063	schtell	1	sch t e ll -
@@ -5676,7 +5676,7 @@
 107/087	schtöll	1	sch t ö ll -
 107/089	onginumm	4	o n g i n u mm - -
 107/091	schtel	1	sch t e l -
-107/097	NA	NA	- - - - - - - - -
+107/097	NA	NA	-
 107/099	stell	1	s t e ll -
 107/103	ghoassn	8	g h oa ss - n
 107/105	ghoassn	8	g h oa ss - n
@@ -5695,7 +5695,7 @@
 107/139	stell	1	s t e ll -
 107/141	stöl	1	s t ö l -
 107/143	hoassn	8	- h oa ss - n
-108/033	NA	NA	- - - - - - - - -
+108/033	NA	NA	-
 108/035	schtäu	1	sch t äu - -
 108/037	schtäu	1	sch t äu - -
 108/039	stell	1	s t e ll -
@@ -5756,7 +5756,7 @@
 109/101	schtel	1	sch t e l -
 109/103	stöll	1	s t ö ll -
 109/107	schtöll	1	sch t ö ll -
-109/109	NA	NA	- - - - - - - - -
+109/109	NA	NA	-
 109/111	stöll	1	s t ö ll -
 109/113	ghase	8	g h a s e -
 109/115	stell	1	s t e ll -
@@ -5765,7 +5765,7 @@
 109/121	ghassen	8	g h a ss e n
 109/123	stöll	1	s t ö ll -
 109/125	stel	1	s t e l -
-109/127	NA	NA	- - - - - - - - -
+109/127	NA	NA	-
 109/129	schtell	1	sch t e ll -
 109/131	stell	1	s t e ll -
 109/133	ghoassen	8	g h oa ss e n
@@ -5788,7 +5788,7 @@
 110/083	stell	1	s t e ll -
 110/087	stell	1	s t e ll -
 110/089	schtell	1	sch t e ll -
-110/091	NA	NA	- - - - - - - - -
+110/091	NA	NA	-
 110/093	giwung	NA	-
 110/095	stöll	1	s t ö ll -
 110/097	stöll	1	s t ö ll -
@@ -5878,12 +5878,12 @@
 117/043	stell	1	s t e ll -
 117/045	stell	1	s t e ll -
 118/041	schell	1	sch - e ll -
-119/083	NA	NA	- - - - - - - - -
+119/083	NA	NA	-
 120/085	stell	1	s t e ll -
 121/127	schtell	1	sch t e ll -
 122/127	schtel	1	sch t e l -
 122/129	schtell	1	sch t e ll -
-123/081	NA	NA	- - - - - - - - -
+123/081	NA	NA	-
 123/123	schtell	1	sch t e ll -
 123/125	schtell	1	sch t e ll -
 123/127	schtell	1	sch t e ll -

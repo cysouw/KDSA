@@ -59,7 +59,7 @@
 011/209	pund	1	p u n d
 011/211	punnt	1	p u nn t
 011/213	pund	1	p u n d
-011/215	NA	NA	- - - - - - -
+011/215	NA	NA	-
 011/217	pund	1	p u n d
 011/219	pund	1	p u n d
 012/047	pünd	1	p ü n d
@@ -129,7 +129,7 @@
 014/051	pünj	1	p ü nj -
 014/053	pünn	1	p ü nn -
 014/055	pön	1	p ö n -
-014/057	NA	NA	- - - - - - -
+014/057	NA	NA	-
 014/059	pund	1	p u n d
 014/061	pund	1	p u n d
 014/063	pund	1	p u n d
@@ -197,10 +197,10 @@
 015/209	bund	1	b u n d
 015/211	pund	1	p u n d
 015/213	pund	1	p u n d
-015/215	NA	NA	- - - - - - -
+015/215	NA	NA	-
 015/217	pund	1	p u n d
 015/219	pund	1	p u n d
-015/221	NA	NA	- - - - - - -
+015/221	NA	NA	-
 016/051	pün	1	p ü n -
 016/055	pön	1	p ö n -
 016/057	pund	1	p u n d
@@ -341,7 +341,7 @@
 018/205	pund	1	p u n d
 018/207	pund	1	p u n d
 018/209	pund	1	p u n d
-018/211	NA	NA	- - - - - - -
+018/211	NA	NA	-
 018/213	pund	1	p u n d
 018/215	pund	1	p u n d
 018/219	punt	1	p u n t
@@ -556,7 +556,7 @@
 022/077	pund	1	p u n d
 022/087	pund	1	p u n d
 022/089	pund	1	p u n d
-022/091	NA	NA	- - - - - - -
+022/091	NA	NA	-
 022/093	pund	1	p u n d
 022/095	pund	1	p u n d
 022/097	pund	1	p u n d
@@ -591,7 +591,7 @@
 022/169	pund	1	p u n d
 022/171	pund	1	p u n d
 022/173	pund	1	p u n d
-022/175	NA	NA	- - - - - - -
+022/175	NA	NA	-
 022/177	puing	1	p ui ng -
 022/179	pund	1	p u n d
 022/181	pund	1	p u n d
@@ -850,7 +850,7 @@
 026/103	pund	1	p u n d
 026/105	pund	1	p u n d
 026/107	pund	1	p u n d
-026/109	NA	NA	- - - - - - -
+026/109	NA	NA	-
 026/111	pund	1	p u n d
 026/113	pund	1	p u n d
 026/115	punnd	1	p u nn d
@@ -867,7 +867,7 @@
 026/139	pund	1	p u n d
 026/141	pund	1	p u n d
 026/143	pund	1	p u n d
-026/145	NA	NA	- - - - - - -
+026/145	NA	NA	-
 026/147	pund	1	p u n d
 026/153	pund	1	p u n d
 026/155	pund	1	p u n d
@@ -1099,7 +1099,7 @@
 029/175	pund	1	p u n d
 029/177	pund	1	p u n d
 029/181	pund	1	p u n d
-030/033	NA	NA	- - - - - - -
+030/033	NA	NA	-
 030/035	pund	1	p u n d
 030/037	pund	1	p u n d
 030/039	pund	1	p u n d
@@ -1219,7 +1219,7 @@
 031/121	pundd	1	p u n dd
 031/123	punt	1	p u n t
 031/125	pund	1	p u n d
-031/127	NA	NA	- - - - - - -
+031/127	NA	NA	-
 031/129	punt	1	p u n t
 031/131	pund	1	p u n d
 031/133	pund	1	p u n d
@@ -1446,7 +1446,7 @@
 034/161	pun	1	p u n -
 034/163	pund	1	p u n d
 034/165	pun	1	p u n -
-034/167	NA	NA	- - - - - - -
+034/167	NA	NA	-
 034/169	pund	1	p u n d
 034/173	pund	1	p u n d
 035/035	pund	1	p u n d
@@ -1615,7 +1615,7 @@
 037/101	pund	1	p u n d
 037/105	punt	1	p u n t
 037/107	pund	1	p u n d
-037/109	NA	NA	- - - - - - -
+037/109	NA	NA	-
 037/111	pund	1	p u n d
 037/113	pund	1	p u n d
 037/115	pund	1	p u n d
@@ -1918,7 +1918,7 @@
 042/097	pund	1	p u n d
 042/099	pund	1	p u n d
 042/101	punt	1	p u n t
-042/103	NA	NA	- - - - - - -
+042/103	NA	NA	-
 042/105	funt	1	f u n t
 042/107	pund	1	p u n d
 042/109	pund	1	p u n d
@@ -1935,7 +1935,7 @@
 042/131	pfund	1	pf u n d
 042/133	fund	1	f u n d
 042/135	fund	1	f u n d
-042/137	NA	NA	- - - - - - -
+042/137	NA	NA	-
 042/139	pfund	1	pf u n d
 042/141	funt	1	f u n t
 042/143	fund	1	f u n d
@@ -2158,7 +2158,7 @@
 046/097	pund	1	p u n d
 046/099	fund	1	f u n d
 046/101	pund	1	p u n d
-046/103	NA	NA	- - - - - - -
+046/103	NA	NA	-
 046/105	pund	1	p u n d
 046/107	pund	1	p u n d
 046/109	pund	1	p u n d
@@ -2260,7 +2260,7 @@
 048/061	pund	1	p u n d
 048/063	pund	1	p u n d
 048/065	pund	1	p u n d
-048/067	NA	NA	- - - - - - -
+048/067	NA	NA	-
 048/069	punnt	1	p u nn t
 048/071	pfund	1	pf u n d
 048/073	pund	1	p u n d
@@ -2318,7 +2318,7 @@
 049/047	pund	1	p u n d
 049/049	punt	1	p u n t
 049/051	punt	1	p u n t
-049/053	NA	NA	- - - - - - -
+049/053	NA	NA	-
 049/055	pund	1	p u n d
 049/057	pund	1	p u n d
 049/059	pund	1	p u n d
@@ -2363,7 +2363,7 @@
 049/139	pfund	1	pf u n d
 049/141	fund	1	f u n d
 049/143	fund	1	f u n d
-049/145	NA	NA	- - - - - - -
+049/145	NA	NA	-
 049/147	fund	1	f u n d
 049/151	pfund	1	pf u n d
 050/021	pond	1	p o n d
@@ -2451,7 +2451,7 @@
 051/051	pund	1	p u n d
 051/053	pund	1	p u n d
 051/055	pund	1	p u n d
-051/057	NA	NA	- - - - - - -
+051/057	NA	NA	-
 051/059	pund	1	p u n d
 051/061	pund	1	p u n d
 051/063	pund	1	p u n d
@@ -2484,7 +2484,7 @@
 051/117	pfund	1	pf u n d
 051/119	fund	1	f u n d
 051/121	fund	1	f u n d
-051/123	NA	NA	- - - - - - -
+051/123	NA	NA	-
 051/125	pfund	1	pf u n d
 051/127	fund	1	f u n d
 051/129	fund	1	f u n d
@@ -2552,7 +2552,7 @@
 052/121	pfund	1	pf u n d
 052/123	fund	1	f u n d
 052/125	pfund	1	pf u n d
-052/127	NA	NA	- - - - - - -
+052/127	NA	NA	-
 052/129	fund	1	f u n d
 052/131	pfund	1	pf u n d
 052/133	fund	1	f u n d
@@ -2600,14 +2600,14 @@
 053/079	pfunn	1	pf u nn -
 053/081	fund	1	f u n d
 053/083	fund	1	f u n d
-053/085	NA	NA	- - - - - - -
+053/085	NA	NA	-
 053/087	fund	1	f u n d
 053/089	fund	1	f u n d
 053/091	fund	1	f u n d
 053/093	fund	1	f u n d
 053/095	pfund	1	pf u n d
 053/097	fund	1	f u n d
-053/099	NA	NA	- - - - - - -
+053/099	NA	NA	-
 053/101	fund	1	f u n d
 053/103	fund	1	f u n d
 053/105	fund	1	f u n d
@@ -2630,7 +2630,7 @@
 053/143	fund	1	f u n d
 053/145	fund	1	f u n d
 053/147	pfund	1	pf u n d
-053/149	NA	NA	- - - - - - -
+053/149	NA	NA	-
 053/151	funt	1	f u n t
 053/153	fund	1	f u n d
 053/155	fund	1	f u n d
@@ -2815,9 +2815,9 @@
 056/099	fund	1	f u n d
 056/101	fund	1	f u n d
 056/103	pfund	1	pf u n d
-056/105	NA	NA	- - - - - - -
+056/105	NA	NA	-
 056/107	pfund	1	pf u n d
-056/109	NA	NA	- - - - - - -
+056/109	NA	NA	-
 056/111	fund	1	f u n d
 056/113	pfund	1	pf u n d
 056/115	pfund	1	pf u n d
@@ -3239,14 +3239,14 @@
 062/091	pfund	1	pf u n d
 062/093	pfund	1	pf u n d
 062/095	pfund	1	pf u n d
-062/097	NA	NA	- - - - - - -
+062/097	NA	NA	-
 062/099	pfund	1	pf u n d
 062/101	pfund	1	pf u n d
 062/103	pfund	1	pf u n d
 062/105	pfund	1	pf u n d
 062/107	pfund	1	pf u n d
 062/109	pfund	1	pf u n d
-062/111	NA	NA	- - - - - - -
+062/111	NA	NA	-
 062/113	pfund	1	pf u n d
 062/115	pfund	1	pf u n d
 062/117	pfund	1	pf u n d
@@ -3323,7 +3323,7 @@
 063/117	fund	1	f u n d
 063/119	pfund	1	pf u n d
 063/121	fund	1	f u n d
-063/123	NA	NA	- - - - - - -
+063/123	NA	NA	-
 063/125	pfund	1	pf u n d
 063/127	pfund	1	pf u n d
 063/135	pfond	1	pf o n d
@@ -3382,17 +3382,17 @@
 064/097	pfund	1	pf u n d
 064/099	pfund	1	pf u n d
 064/101	pfund	1	pf u n d
-064/103	NA	NA	- - - - - - -
+064/103	NA	NA	-
 064/105	pfund	1	pf u n d
 064/107	pfund	1	pf u n d
 064/109	pfund	1	pf u n d
-064/111	NA	NA	- - - - - - -
+064/111	NA	NA	-
 064/113	fund	1	f u n d
 064/115	fund	1	f u n d
 064/117	pfund	1	pf u n d
 064/119	fund	1	f u n d
 064/121	pfund	1	pf u n d
-064/123	NA	NA	- - - - - - -
+064/123	NA	NA	-
 064/125	pfund	1	pf u n d
 064/127	pfond	1	pf o n d
 064/135	pfond	1	pf o n d
@@ -3444,7 +3444,7 @@
 065/087	pfund	1	pf u n d
 065/089	pfund	1	pf u n d
 065/091	pfund	1	pf u n d
-065/093	NA	NA	- - - - - - -
+065/093	NA	NA	-
 065/095	pfund	1	pf u n d
 065/097	pfund	1	pf u n d
 065/101	pfund	1	pf u n d
@@ -3486,7 +3486,7 @@
 066/051	ponnd	1	p o nn d
 066/053	pound	1	p ou n d
 066/055	ponnd	1	p o nn d
-066/057	NA	NA	- - - - - - -
+066/057	NA	NA	-
 066/059	pont	1	p o n t
 066/061	pond	1	p o n d
 066/063	pont	1	p o n t
@@ -3513,8 +3513,8 @@
 066/105	pfund	1	pf u n d
 066/107	pfund	1	pf u n d
 066/109	pfund	1	pf u n d
-066/111	NA	NA	- - - - - - -
-066/113	NA	NA	- - - - - - -
+066/111	NA	NA	-
+066/113	NA	NA	-
 066/121	pfund	1	pf u n d
 066/139	pfoond	1	pf oo n d
 066/143	pfund	1	pf u n d
@@ -3573,7 +3573,7 @@
 067/105	pfund	1	pf u n d
 067/107	pfund	1	pf u n d
 067/109	pfund	1	pf u n d
-067/111	NA	NA	- - - - - - -
+067/111	NA	NA	-
 067/113	pfund	1	pf u n d
 067/143	pfund	1	pf u n d
 067/145	pfund	1	pf u n d
@@ -3661,7 +3661,7 @@
 069/049	pund	1	p u n d
 069/051	pund	1	p u n d
 069/053	pund	1	p u n d
-069/055	NA	NA	- - - - - - -
+069/055	NA	NA	-
 069/057	pund	1	p u n d
 069/059	pund	1	p u n d
 069/061	pund	1	p u n d
@@ -3798,14 +3798,14 @@
 071/097	pfund	1	pf u n d
 071/099	pfund	1	pf u n d
 071/101	pfunt	1	pf u n t
-071/103	NA	NA	- - - - - - -
+071/103	NA	NA	-
 071/105	pfund	1	pf u n d
 071/145	pfund	1	pf u n d
 071/147	pfund	1	pf u n d
 071/149	pfund	1	pf u n d
 071/151	pfund	1	pf u n d
 071/153	pfond	1	pf o n d
-071/155	radla	NA	- r a d l a -
+071/155	radla	NA	-
 071/157	pfond	1	pf o n d
 071/159	pfund	1	pf u n d
 071/161	kilo	3	k i l o -
@@ -3858,9 +3858,9 @@
 072/103	pfund	1	pf u n d
 072/105	pfund	1	pf u n d
 072/107	pfund	1	pf u n d
-072/145	NA	NA	- - - - - - -
+072/145	NA	NA	-
 072/147	pfund	1	pf u n d
-072/149	NA	NA	- - - - - - -
+072/149	NA	NA	-
 072/151	pfund	1	pf u n d
 072/153	pfund	1	pf u n d
 072/155	pfuut	1	pf uu - t
@@ -3913,10 +3913,10 @@
 073/097	pfund	1	pf u n d
 073/099	pfund	1	pf u n d
 073/101	pfund	1	pf u n d
-073/103	NA	NA	- - - - - - -
+073/103	NA	NA	-
 073/105	pfund	1	pf u n d
 073/107	pfund	1	pf u n d
-073/145	NA	NA	- - - - - - -
+073/145	NA	NA	-
 073/147	pfun	1	pf u n -
 073/149	kilo	3	k i l o -
 073/151	fund	1	f u n d
@@ -3927,7 +3927,7 @@
 073/161	fond	1	f o n d
 073/163	pfund	1	pf u n d
 073/165	fund	1	f u n d
-073/175	NA	NA	- - - - - - -
+073/175	NA	NA	-
 073/177	fund	1	f u n d
 074/019	pond	1	p o n d
 074/021	pond	1	p o n d
@@ -3960,7 +3960,7 @@
 074/075	pfund	1	pf u n d
 074/077	pfund	1	pf u n d
 074/079	pfund	1	pf u n d
-074/081	NA	NA	- - - - - - -
+074/081	NA	NA	-
 074/083	pfund	1	pf u n d
 074/085	pfund	1	pf u n d
 074/087	pfund	1	pf u n d
@@ -4017,7 +4017,7 @@
 075/077	pfund	1	pf u n d
 075/079	pfund	1	pf u n d
 075/081	pfud	1	pf u - d
-075/083	NA	NA	- - - - - - -
+075/083	NA	NA	-
 075/085	pfund	1	pf u n d
 075/087	pfund	1	pf u n d
 075/089	pfund	1	pf u n d
@@ -4034,7 +4034,7 @@
 075/145	pfund	1	pf u n d
 075/147	pfund	1	pf u n d
 075/149	pfund	1	pf u n d
-075/155	NA	NA	- - - - - - -
+075/155	NA	NA	-
 075/157	pfund	1	pf u n d
 075/159	pfund	1	pf u n d
 075/161	kile	3	k i l e -
@@ -4074,7 +4074,7 @@
 076/083	pfuud	1	pf uu - d
 076/085	pfud	1	pf u - d
 076/087	pfud	1	pf u - d
-076/089	NA	NA	- - - - - - -
+076/089	NA	NA	-
 076/091	pfund	1	pf u n d
 076/093	pfund	1	pf u n d
 076/095	pfund	1	pf u n d
@@ -4129,7 +4129,7 @@
 077/093	pfund	1	pf u n d
 077/095	pfund	1	pf u n d
 077/097	pfund	1	pf u n d
-077/099	NA	NA	- - - - - - -
+077/099	NA	NA	-
 077/101	pfund	1	pf u n d
 077/103	pfund	1	pf u n d
 077/135	gfund	1	gf u n d
@@ -4154,7 +4154,7 @@
 078/057	pfunn	1	pf u nn -
 078/059	pfunn	1	pf u nn -
 078/061	pfund	1	pf u n d
-078/063	NA	NA	- - - - - - -
+078/063	NA	NA	-
 078/065	pfund	1	pf u n d
 078/067	pfuund	1	pf uu n d
 078/069	pfund	1	pf u n d
@@ -4162,12 +4162,12 @@
 078/073	pfund	1	pf u n d
 078/075	pfund	1	pf u n d
 078/077	pfund	1	pf u n d
-078/079	NA	NA	- - - - - - -
+078/079	NA	NA	-
 078/081	pfund	1	pf u n d
 078/083	pfud	1	pf u - d
 078/085	pfund	1	pf u n d
 078/087	pfund	1	pf u n d
-078/089	NA	NA	- - - - - - -
+078/089	NA	NA	-
 078/091	pfund	1	pf u n d
 078/093	pfund	1	pf u n d
 078/095	pfund	1	pf u n d
@@ -4212,7 +4212,7 @@
 079/085	pfund	1	pf u n d
 079/087	pfund	1	pf u n d
 079/089	pfund	1	pf u n d
-079/091	NA	NA	- - - - - - -
+079/091	NA	NA	-
 079/093	pfund	1	pf u n d
 079/095	pfund	1	pf u n d
 079/097	pfund	1	pf u n d
@@ -4262,7 +4262,7 @@
 080/091	pfund	1	pf u n d
 080/093	pfund	1	pf u n d
 080/095	pfund	1	pf u n d
-080/097	NA	NA	- - - - - - -
+080/097	NA	NA	-
 080/099	pfund	1	pf u n d
 080/101	pfund	1	pf u n d
 080/103	pfund	1	pf u n d
@@ -4322,7 +4322,7 @@
 081/129	pfund	1	pf u n d
 081/133	pfund	1	pf u n d
 081/147	fund	1	f u n d
-081/191	NA	NA	- - - - - - -
+081/191	NA	NA	-
 081/193	fonch	1	f o nch -
 081/195	twond	1	tw o n d
 082/027	ponnd	1	p o nn d
@@ -4390,7 +4390,7 @@
 083/047	pfund	1	pf u n d
 083/049	pfun	1	pf u n -
 083/051	pfon	1	pf o n -
-083/053	NA	NA	- - - - - - -
+083/053	NA	NA	-
 083/055	pfonn	1	pf o nn -
 083/057	pfonn	1	pf o nn -
 083/059	pfond	1	pf o n d
@@ -4409,7 +4409,7 @@
 083/085	pfund	1	pf u n d
 083/087	pfund	1	pf u n d
 083/089	pfund	1	pf u n d
-083/091	NA	NA	- - - - - - -
+083/091	NA	NA	-
 083/093	pfund	1	pf u n d
 083/095	pfund	1	pf u n d
 083/097	pfund	1	pf u n d
@@ -4424,11 +4424,11 @@
 083/117	pfund	1	pf u n d
 083/119	pfund	1	pf u n d
 083/121	pfund	1	pf u n d
-083/129	NA	NA	- - - - - - -
+083/129	NA	NA	-
 083/131	kila	3	k i l a -
 083/133	pfund	1	pf u n d
 083/135	pfund	1	pf u n d
-083/139	NA	NA	- - - - - - -
+083/139	NA	NA	-
 083/143	pfund	1	pf u n d
 083/145	pfund	1	pf u n d
 083/147	pfund	1	pf u n d
@@ -4481,14 +4481,14 @@
 084/117	pfund	1	pf u n d
 084/119	pfund	1	pf u n d
 084/129	pfund	1	pf u n d
-084/131	NA	NA	- - - - - - -
+084/131	NA	NA	-
 084/133	pfund	1	pf u n d
 084/135	pfund	1	pf u n d
-084/137	NA	NA	- - - - - - -
+084/137	NA	NA	-
 084/139	pfund	1	pf u n d
-084/141	NA	NA	- - - - - - -
+084/141	NA	NA	-
 084/143	pfund	1	pf u n d
-084/145	NA	NA	- - - - - - -
+084/145	NA	NA	-
 084/147	pfund	1	pf u n d
 084/149	pfund	1	pf u n d
 084/171	funt	1	f u n t
@@ -4529,14 +4529,14 @@
 085/095	pfund	1	pf u n d
 085/097	pfund	1	pf u n d
 085/101	pfund	1	pf u n d
-085/103	NA	NA	- - - - - - -
-085/105	NA	NA	- - - - - - -
+085/103	NA	NA	-
+085/105	NA	NA	-
 085/107	pfund	1	pf u n d
 085/109	pfund	1	pf u n d
 085/111	pfund	1	pf u n d
 085/113	pfund	1	pf u n d
 085/115	pfund	1	pf u n d
-085/117	NA	NA	- - - - - - -
+085/117	NA	NA	-
 085/119	pfund	1	pf u n d
 085/121	pfund	1	pf u n d
 085/123	pfund	1	pf u n d
@@ -4546,9 +4546,9 @@
 085/131	kila	3	k i l a -
 085/133	kila	3	k i l a -
 085/135	kilo	3	k i l o -
-085/137	NA	NA	- - - - - - -
+085/137	NA	NA	-
 085/139	pfund	1	pf u n d
-085/141	NA	NA	- - - - - - -
+085/141	NA	NA	-
 085/143	pfund	1	pf u n d
 085/145	kilo	3	k i l o -
 085/147	kilo	3	k i l o -
@@ -4569,7 +4569,7 @@
 086/053	pfonn	1	pf o nn -
 086/055	pfonn	1	pf o nn -
 086/057	pfond	1	pf o n d
-086/059	NA	NA	- - - - - - -
+086/059	NA	NA	-
 086/061	pfond	1	pf o n d
 086/063	pfond	1	pf o n d
 086/065	pfond	1	pf o n d
@@ -4578,7 +4578,7 @@
 086/071	pfond	1	pf o n d
 086/073	pfuud	1	pf uu - d
 086/075	pfood	1	pf oo - d
-086/077	NA	NA	- - - - - - -
+086/077	NA	NA	-
 086/079	pfund	1	pf u n d
 086/081	pfund	1	pf u n d
 086/083	pund	1	p u n d
@@ -4587,7 +4587,7 @@
 086/089	pfund	1	pf u n d
 086/091	pfund	1	pf u n d
 086/093	pfund	1	pf u n d
-086/095	NA	NA	- - - - - - -
+086/095	NA	NA	-
 086/097	pfund	1	pf u n d
 086/099	pfund	1	pf u n d
 086/101	pfund	1	pf u n d
@@ -4607,7 +4607,7 @@
 086/129	pfund	1	pf u n d
 086/131	kilo	3	k i l o -
 086/133	pfund	1	pf u n d
-086/135	NA	NA	- - - - - - -
+086/135	NA	NA	-
 086/137	pfund	1	pf u n d
 086/139	pfund	1	pf u n d
 086/141	pfund	1	pf u n d
@@ -4644,7 +4644,7 @@
 087/079	pfund	1	pf u n d
 087/081	pfund	1	pf u n d
 087/083	pfund	1	pf u n d
-087/085	por	NA	- p o r - - -
+087/085	por	NA	-
 087/087	pfund	1	pf u n d
 087/089	pfund	1	pf u n d
 087/091	pfund	1	pf u n d
@@ -4667,13 +4667,13 @@
 087/125	pfund	1	pf u n d
 087/127	pfund	1	pf u n d
 087/129	pfund	1	pf u n d
-087/133	NA	NA	- - - - - - -
+087/133	NA	NA	-
 087/135	pfund	1	pf u n d
 087/137	pfund	1	pf u n d
 087/139	pfund	1	pf u n d
 087/141	kilo	3	k i l o -
 087/143	kilo	3	k i l o -
-087/145	kranz	NA	- k r a n z -
+087/145	kranz	NA	-
 087/147	degga	2	d e gg a
 087/149	pfund	1	pf u n d
 087/151	kilo	3	k i l o -
@@ -4700,7 +4700,7 @@
 088/075	pfuud	1	pf uu - d
 088/077	pfood	1	pf oo - d
 088/079	pfud	1	pf u - d
-088/081	NA	NA	- - - - - - -
+088/081	NA	NA	-
 088/083	pfun	1	pf u n -
 088/085	pfund	1	pf u n d
 088/087	pfund	1	pf u n d
@@ -4710,20 +4710,20 @@
 088/095	pfund	1	pf u n d
 088/097	pfund	1	pf u n d
 088/099	pfund	1	pf u n d
-088/101	NA	NA	- - - - - - -
+088/101	NA	NA	-
 088/103	pfund	1	pf u n d
 088/105	pfund	1	pf u n d
 088/107	pfund	1	pf u n d
 088/109	pfund	1	pf u n d
 088/113	kilo	3	k i l o -
 088/115	pfund	1	pf u n d
-088/117	NA	NA	- - - - - - -
+088/117	NA	NA	-
 088/121	pfund	1	pf u n d
 088/123	kilo	3	k i l o -
 088/127	pfund	1	pf u n d
-088/129	NA	NA	- - - - - - -
+088/129	NA	NA	-
 088/131	pfund	1	pf u n d
-088/137	NA	NA	- - - - - - -
+088/137	NA	NA	-
 088/139	kilo	3	k i l o -
 088/141	pfund	1	pf u n d
 088/143	kilo	3	k i l o -
@@ -4759,9 +4759,9 @@
 089/087	pund	1	p u n d
 089/089	pfund	1	pf u n d
 089/091	pfund	1	pf u n d
-089/093	NA	NA	- - - - - - -
+089/093	NA	NA	-
 089/095	pfund	1	pf u n d
-089/097	NA	NA	- - - - - - -
+089/097	NA	NA	-
 089/099	pfund	1	pf u n d
 089/101	pfund	1	pf u n d
 089/103	pfund	1	pf u n d
@@ -4775,7 +4775,7 @@
 089/119	kilo	3	k i l o -
 089/121	pfund	1	pf u n d
 089/123	kilo	3	k i l o -
-089/125	NA	NA	- - - - - - -
+089/125	NA	NA	-
 089/127	pfund	1	pf u n d
 089/129	kilo	3	k i l o -
 089/131	kilo	3	k i l o -
@@ -4812,8 +4812,8 @@
 090/077	pfuhd	1	pf uh - d
 090/079	pfund	1	pf u n d
 090/081	pund	1	p u n d
-090/083	NA	NA	- - - - - - -
-090/085	NA	NA	- - - - - - -
+090/083	NA	NA	-
+090/085	NA	NA	-
 090/087	pfund	1	pf u n d
 090/089	pfund	1	pf u n d
 090/091	pfund	1	pf u n d
@@ -4824,16 +4824,16 @@
 090/101	pfund	1	pf u n d
 090/103	pfund	1	pf u n d
 090/105	pfund	1	pf u n d
-090/107	NA	NA	- - - - - - -
+090/107	NA	NA	-
 090/109	pfund	1	pf u n d
 090/111	pfund	1	pf u n d
-090/113	NA	NA	- - - - - - -
+090/113	NA	NA	-
 090/115	pfund	1	pf u n d
 090/119	kilo	3	k i l o -
 090/121	pfound	1	pf ou n d
 090/123	pfund	1	pf u n d
-090/125	NA	NA	- - - - - - -
-090/127	NA	NA	- - - - - - -
+090/125	NA	NA	-
+090/127	NA	NA	-
 090/129	pfund	1	pf u n d
 090/131	pfund	1	pf u n d
 090/133	kila	3	k i l a -
@@ -4841,7 +4841,7 @@
 090/137	kilo	3	k i l o -
 090/139	pfund	1	pf u n d
 090/141	pfund	1	pf u n d
-090/143	NA	NA	- - - - - - -
+090/143	NA	NA	-
 090/145	pfund	1	pf u n d
 090/147	kilo	3	k i l o -
 090/149	kilo	3	k i l o -
@@ -4878,14 +4878,14 @@
 091/095	pfund	1	pf u n d
 091/097	pfund	1	pf u n d
 091/099	pfund	1	pf u n d
-091/101	NA	NA	- - - - - - -
+091/101	NA	NA	-
 091/103	pfund	1	pf u n d
 091/105	kilo	3	k i l o -
 091/107	pfund	1	pf u n d
 091/109	pfund	1	pf u n d
 091/111	pfund	1	pf u n d
-091/113	NA	NA	- - - - - - -
-091/115	paar	NA	- p aa r - - -
+091/113	NA	NA	-
+091/115	paar	NA	-
 091/117	pfund	1	pf u n d
 091/119	pfund	1	pf u n d
 091/121	pfund	1	pf u n d
@@ -4900,7 +4900,7 @@
 091/143	doka	2	d o k a
 091/145	pfund	1	pf u n d
 091/147	pfuund	1	pf uu n d
-091/149	NA	NA	- - - - - - -
+091/149	NA	NA	-
 091/151	pfund	1	pf u n d
 091/155	pfund	1	pf u n d
 092/033	pfund	1	pf u n d
@@ -4954,12 +4954,12 @@
 092/129	pfund	1	pf u n d
 092/131	deka	2	d e k a
 092/133	pfund	1	pf u n d
-092/135	NA	NA	- - - - - - -
-092/137	stoongan	NA	- s t oo ng a n
-092/139	NA	NA	- - - - - - -
+092/135	NA	NA	-
+092/137	stoongan	NA	-
+092/139	NA	NA	-
 092/141	kilo	3	k i l o -
 092/143	kila	3	k i l a -
-092/145	NA	NA	- - - - - - -
+092/145	NA	NA	-
 092/147	pfund	1	pf u n d
 092/149	deka	2	d e k a
 092/151	pfund	1	pf u n d
@@ -4987,7 +4987,7 @@
 093/077	pfond	1	pf o n d
 093/079	pfund	1	pf u n d
 093/081	pfund	1	pf u n d
-093/083	NA	NA	- - - - - - -
+093/083	NA	NA	-
 093/085	pfund	1	pf u n d
 093/087	pfund	1	pf u n d
 093/089	pfund	1	pf u n d
@@ -5002,7 +5002,7 @@
 093/109	pfund	1	pf u n d
 093/111	pfund	1	pf u n d
 093/113	pfund	1	pf u n d
-093/115	paar	NA	- p aa r - - -
+093/115	paar	NA	-
 093/117	pfund	1	pf u n d
 093/119	pfund	1	pf u n d
 093/121	pfund	1	pf u n d
@@ -5012,14 +5012,14 @@
 093/129	pfund	1	pf u n d
 093/131	kilo	3	k i l o -
 093/133	pfund	1	pf u n d
-093/137	NA	NA	- - - - - - -
+093/137	NA	NA	-
 093/139	kg	NA	kg- -
 093/143	kila	3	k i l a -
 093/145	pfund	1	pf u n d
 093/147	deka	2	d e k a
 093/149	pfund	1	pf u n d
 093/151	pfund	1	pf u n d
-093/153	NA	NA	- - - - - - -
+093/153	NA	NA	-
 093/155	pfund	1	pf u n d
 094/033	pfuin	1	pf ui n -
 094/035	pfund	1	pf u n d
@@ -5034,7 +5034,7 @@
 094/053	pfuund	1	pf uu n d
 094/055	pfund	1	pf u n d
 094/057	pfund	1	pf u n d
-094/059	NA	NA	- - - - - - -
+094/059	NA	NA	-
 094/061	pfond	1	pf o n d
 094/063	pfund	1	pf u n d
 094/065	pfund	1	pf u n d
@@ -5062,13 +5062,13 @@
 094/109	pfund	1	pf u n d
 094/111	kilo	3	k i l o -
 094/113	pfund	1	pf u n d
-094/115	NA	NA	- - - - - - -
+094/115	NA	NA	-
 094/117	pfund	1	pf u n d
 094/119	pfund	1	pf u n d
 094/121	pfund	1	pf u n d
 094/123	deka	2	d e k a
 094/125	pfund	1	pf u n d
-094/127	NA	NA	- - - - - - -
+094/127	NA	NA	-
 094/129	pfund	1	pf u n d
 094/131	kila	3	k i l a -
 094/133	kila	3	k i l a -
@@ -5083,10 +5083,10 @@
 094/151	pfund	1	pf u n d
 094/153	kilo	3	k i l o -
 095/031	pfund	1	pf u n d
-095/033	NA	NA	- - - - - - -
-095/035	bfunt	NA	- b f u n t -
+095/033	NA	NA	-
+095/035	bfunt	NA	-
 095/037	pfund	1	pf u n d
-095/039	NA	NA	- - - - - - -
+095/039	NA	NA	-
 095/041	pfund	1	pf u n d
 095/043	pfund	1	pf u n d
 095/045	pfund	1	pf u n d
@@ -5112,20 +5112,20 @@
 095/085	pfund	1	pf u n d
 095/087	pfund	1	pf u n d
 095/089	pfund	1	pf u n d
-095/091	NA	NA	- - - - - - -
+095/091	NA	NA	-
 095/093	pfund	1	pf u n d
-095/095	NA	NA	- - - - - - -
+095/095	NA	NA	-
 095/097	pfund	1	pf u n d
 095/099	pfund	1	pf u n d
 095/101	pfund	1	pf u n d
 095/103	pfund	1	pf u n d
-095/105	NA	NA	- - - - - - -
+095/105	NA	NA	-
 095/107	pfund	1	pf u n d
 095/109	kilo	3	k i l o -
-095/111	NA	NA	- - - - - - -
+095/111	NA	NA	-
 095/113	kila	3	k i l a -
 095/115	pfund	1	pf u n d
-095/117	NA	NA	- - - - - - -
+095/117	NA	NA	-
 095/119	kilo	3	k i l o -
 095/121	kilo	3	k i l o -
 095/123	pfund	1	pf u n d
@@ -5141,13 +5141,13 @@
 095/149	deka	2	d e k a
 095/151	pfund	1	pf u n d
 095/153	pfunt	1	pf u n t
-095/155	NA	NA	- - - - - - -
+095/155	NA	NA	-
 096/031	pfund	1	pf u n d
 096/033	pfund	1	pf u n d
 096/035	pfond	1	pf o n d
 096/037	pfund	1	pf u n d
 096/039	pfund	1	pf u n d
-096/041	NA	NA	- - - - - - -
+096/041	NA	NA	-
 096/043	pfund	1	pf u n d
 096/045	pfund	1	pf u n d
 096/047	pfund	1	pf u n d
@@ -5179,20 +5179,20 @@
 096/101	pfund	1	pf u n d
 096/103	pfund	1	pf u n d
 096/105	pfund	1	pf u n d
-096/107	NA	NA	- - - - - - -
+096/107	NA	NA	-
 096/109	pfund	1	pf u n d
-096/111	NA	NA	- - - - - - -
+096/111	NA	NA	-
 096/113	pfund	1	pf u n d
 096/115	deka	2	d e k a
-096/117	NA	NA	- - - - - - -
+096/117	NA	NA	-
 096/119	kilo	3	k i l o -
 096/121	pfund	1	pf u n d
 096/123	bfund	1	bf u n d
 096/125	bfund	1	bf u n d
 096/129	pfund	1	pf u n d
 096/131	pfund	1	pf u n d
-096/135	NA	NA	- - - - - - -
-096/137	NA	NA	- - - - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
 096/139	kila	3	k i l a -
 096/141	pfund	1	pf u n d
 096/143	kila	3	k i l a -
@@ -5218,7 +5218,7 @@
 097/059	pfund	1	pf u n d
 097/061	pfund	1	pf u n d
 097/063	pfund	1	pf u n d
-097/065	NA	NA	- - - - - - -
+097/065	NA	NA	-
 097/067	pfund	1	pf u n d
 097/069	pfund	1	pf u n d
 097/071	pfond	1	pf o n d
@@ -5232,13 +5232,13 @@
 097/087	pfun	1	pf u n -
 097/089	pfund	1	pf u n d
 097/091	pfund	1	pf u n d
-097/093	NA	NA	- - - - - - -
+097/093	NA	NA	-
 097/095	pfund	1	pf u n d
 097/097	pfund	1	pf u n d
 097/099	pfund	1	pf u n d
 097/103	pfund	1	pf u n d
 097/105	pfund	1	pf u n d
-097/107	NA	NA	- - - - - - -
+097/107	NA	NA	-
 097/109	kilo	3	k i l o -
 097/113	pfund	1	pf u n d
 097/125	kila	3	k i l a -
@@ -5269,14 +5269,14 @@
 098/065	pfund	1	pf u n d
 098/067	pfund	1	pf u n d
 098/069	pfund	1	pf u n d
-098/071	NA	NA	- - - - - - -
+098/071	NA	NA	-
 098/073	pfund	1	pf u n d
 098/075	pfund	1	pf u n d
 098/077	pfund	1	pf u n d
 098/079	pfun	1	pf u n -
 098/081	pfund	1	pf u n d
 098/083	pfund	1	pf u n d
-098/085	NA	NA	- - - - - - -
+098/085	NA	NA	-
 098/087	pfun	1	pf u n -
 098/089	pfund	1	pf u n d
 098/091	pfun	1	pf u n -
@@ -5284,9 +5284,9 @@
 098/095	pfund	1	pf u n d
 098/097	pfund	1	pf u n d
 098/103	pfund	1	pf u n d
-098/105	NA	NA	- - - - - - -
+098/105	NA	NA	-
 098/107	pfund	1	pf u n d
-098/109	NA	NA	- - - - - - -
+098/109	NA	NA	-
 098/111	pfund	1	pf u n d
 098/119	pfund	1	pf u n d
 098/123	pfund	1	pf u n d
@@ -5331,7 +5331,7 @@
 099/095	pfund	1	pf u n d
 099/099	pfund	1	pf u n d
 099/101	pfund	1	pf u n d
-099/103	NA	NA	- - - - - - -
+099/103	NA	NA	-
 099/105	pfund	1	pf u n d
 099/107	pfund	1	pf u n d
 099/109	kilo	3	k i l o -
@@ -5339,12 +5339,12 @@
 099/113	pfund	1	pf u n d
 099/121	killa	3	k i ll a -
 099/123	kila	3	k i l a -
-099/125	NA	NA	- - - - - - -
+099/125	NA	NA	-
 099/131	kila	3	k i l a -
 099/137	pfund	1	pf u n d
 099/139	kila	3	k i l a -
-099/141	stickl	NA	- s t i ck l -
-099/143	NA	NA	- - - - - - -
+099/141	stickl	NA	-
+099/143	NA	NA	-
 099/145	pfund	1	pf u n d
 099/147	pfund	1	pf u n d
 100/033	pfund	1	pf u n d
@@ -5352,7 +5352,7 @@
 100/037	pfung	1	pf u ng -
 100/039	pfund	1	pf u n d
 100/041	pfund	1	pf u n d
-100/043	NA	NA	- - - - - - -
+100/043	NA	NA	-
 100/045	pfund	1	pf u n d
 100/049	pfond	1	pf o n d
 100/051	pfund	1	pf u n d
@@ -5369,7 +5369,7 @@
 100/075	pfund	1	pf u n d
 100/077	pfund	1	pf u n d
 100/081	pfund	1	pf u n d
-100/083	NA	NA	- - - - - - -
+100/083	NA	NA	-
 100/089	pfund	1	pf u n d
 100/093	pfund	1	pf u n d
 100/095	pfund	1	pf u n d
@@ -5386,11 +5386,11 @@
 100/125	pfund	1	pf u n d
 100/127	kilo	3	k i l o -
 100/129	kilo	3	k i l o -
-100/133	NA	NA	- - - - - - -
+100/133	NA	NA	-
 100/135	kila	3	k i l a -
 100/141	pfund	1	pf u n d
 100/143	pfund	1	pf u n d
-100/145	NA	NA	- - - - - - -
+100/145	NA	NA	-
 101/035	pfung	1	pf u ng -
 101/037	pfung	1	pf u ng -
 101/039	pfung	1	pf u ng -
@@ -5403,7 +5403,7 @@
 101/053	pfund	1	pf u n d
 101/055	pfund	1	pf u n d
 101/057	pfund	1	pf u n d
-101/059	NA	NA	- - - - - - -
+101/059	NA	NA	-
 101/061	pfond	1	pf o n d
 101/063	pfond	1	pf o n d
 101/065	pfund	1	pf u n d
@@ -5419,11 +5419,11 @@
 101/097	kilo	3	k i l o -
 101/099	pfund	1	pf u n d
 101/101	kilo	3	k i l o -
-101/103	NA	NA	- - - - - - -
-101/107	NA	NA	- - - - - - -
+101/103	NA	NA	-
+101/107	NA	NA	-
 101/109	pfun	1	pf u n -
-101/113	NA	NA	- - - - - - -
-101/115	NA	NA	- - - - - - -
+101/113	NA	NA	-
+101/115	NA	NA	-
 101/121	kila	3	k i l a -
 101/125	kila	3	k i l a -
 101/129	kila	3	k i l a -
@@ -5432,7 +5432,7 @@
 101/137	kilo	3	k i l o -
 101/139	kila	3	k i l a -
 101/141	pfund	1	pf u n d
-101/143	NA	NA	- - - - - - -
+101/143	NA	NA	-
 101/145	deka	2	d e k a
 101/147	pfund	1	pf u n d
 102/037	pfung	1	pf u ng -
@@ -5445,7 +5445,7 @@
 102/051	pfund	1	pf u n d
 102/053	pfund	1	pf u n d
 102/055	pfund	1	pf u n d
-102/057	NA	NA	- - - - - - -
+102/057	NA	NA	-
 102/059	pfond	1	pf o n d
 102/061	pfond	1	pf o n d
 102/063	pfond	1	pf o n d
@@ -5462,20 +5462,20 @@
 102/089	pfund	1	pf u n d
 102/091	pfund	1	pf u n d
 102/093	pfund	1	pf u n d
-102/095	NA	NA	- - - - - - -
+102/095	NA	NA	-
 102/097	pfund	1	pf u n d
-102/099	NA	NA	- - - - - - -
+102/099	NA	NA	-
 102/103	pfund	1	pf u n d
 102/107	kilo	3	k i l o -
 102/109	pfund	1	pf u n d
-102/113	NA	NA	- - - - - - -
+102/113	NA	NA	-
 102/115	pfund	1	pf u n d
 102/127	pfund	1	pf u n d
 102/129	kila	3	k i l a -
 102/131	pfund	1	pf u n d
 102/135	pfund	1	pf u n d
 102/137	pfund	1	pf u n d
-102/139	NA	NA	- - - - - - -
+102/139	NA	NA	-
 102/141	pfund	1	pf u n d
 102/143	pfund	1	pf u n d
 102/145	pfund	1	pf u n d
@@ -5498,7 +5498,7 @@
 103/073	pfund	1	pf u n d
 103/075	kile	3	k i l e -
 103/077	kilo	3	k i l o -
-103/079	NA	NA	- - - - - - -
+103/079	NA	NA	-
 103/081	pfund	1	pf u n d
 103/083	kilo	3	k i l o -
 103/085	kilo	3	k i l o -
@@ -5508,13 +5508,13 @@
 103/097	pfund	1	pf u n d
 103/099	pfund	1	pf u n d
 103/101	kilo	3	k i l o -
-103/105	NA	NA	- - - - - - -
+103/105	NA	NA	-
 103/107	kchila	3	kch i l a
 103/111	deka	2	d e k a
 103/121	kila	3	k i l a -
 103/125	kilo	3	k i l o -
-103/127	NA	NA	- - - - - - -
-103/131	NA	NA	- - - - - - -
+103/127	NA	NA	-
+103/131	NA	NA	-
 103/133	pfund	1	pf u n d
 103/135	pfund	1	pf u n d
 103/137	pfund	1	pf u n d
@@ -5541,8 +5541,8 @@
 104/065	pfund	1	pf u n d
 104/067	kila	3	k i l a -
 104/071	pfund	1	pf u n d
-104/075	NA	NA	- - - - - - -
-104/077	NA	NA	- - - - - - -
+104/075	NA	NA	-
+104/077	NA	NA	-
 104/079	pfund	1	pf u n d
 104/081	deka	2	d e k a
 104/083	kilo	3	k i l o -
@@ -5556,7 +5556,7 @@
 104/113	kilo	3	k i l o -
 104/119	kila	3	k i l a -
 104/121	pfund	1	pf u n d
-104/123	NA	NA	- - - - - - -
+104/123	NA	NA	-
 104/125	kila	3	k i l a -
 104/127	kilo	3	k i l o -
 104/131	kila	3	k i l a -
@@ -5593,7 +5593,7 @@
 105/077	pfund	1	pf u n d
 105/079	pfund	1	pf u n d
 105/081	pfund	1	pf u n d
-105/085	NA	NA	- - - - - - -
+105/085	NA	NA	-
 105/087	pfund	1	pf u n d
 105/089	pfund	1	pf u n d
 105/103	pfund	1	pf u n d
@@ -5602,16 +5602,16 @@
 105/113	kilo	3	k i l o -
 105/115	pfund	1	pf u n d
 105/117	pfund	1	pf u n d
-105/119	NA	NA	- - - - - - -
+105/119	NA	NA	-
 105/121	pfund	1	pf u n d
 105/125	pfund	1	pf u n d
 105/127	deka	2	d e k a
-105/131	NA	NA	- - - - - - -
+105/131	NA	NA	-
 105/133	kila	3	k i l a -
 105/135	deka	2	d e k a
 105/137	pfund	1	pf u n d
 105/141	pfund	1	pf u n d
-105/143	NA	NA	- - - - - - -
+105/143	NA	NA	-
 105/145	gfund	1	gf u n d
 106/033	pfung	1	pf u ng -
 106/035	pfung	1	pf u ng -
@@ -5622,7 +5622,7 @@
 106/045	pfund	1	pf u n d
 106/047	pfond	1	pf o n d
 106/049	pfond	1	pf o n d
-106/051	NA	NA	- - - - - - -
+106/051	NA	NA	-
 106/053	pfund	1	pf u n d
 106/057	pfund	1	pf u n d
 106/061	pfund	1	pf u n d
@@ -5635,7 +5635,7 @@
 106/079	pfund	1	pf u n d
 106/081	pfund	1	pf u n d
 106/085	pfund	1	pf u n d
-106/087	NA	NA	- - - - - - -
+106/087	NA	NA	-
 106/093	pfund	1	pf u n d
 106/097	pfund	1	pf u n d
 106/099	pfund	1	pf u n d
@@ -5645,12 +5645,12 @@
 106/121	kila	3	k i l a -
 106/123	pfund	1	pf u n d
 106/125	kila	3	k i l a -
-106/129	NA	NA	- - - - - - -
+106/129	NA	NA	-
 106/131	kila	3	k i l a -
 106/133	pfund	1	pf u n d
-106/135	NA	NA	- - - - - - -
+106/135	NA	NA	-
 106/137	kila	3	k i l a -
-106/139	NA	NA	- - - - - - -
+106/139	NA	NA	-
 106/141	kila	3	k i l a -
 106/143	pfund	1	pf u n d
 106/145	gfund	1	gf u n d
@@ -5663,10 +5663,10 @@
 107/045	pfuond	1	pf uo n d
 107/047	pfund	1	pf u n d
 107/049	pfund	1	pf u n d
-107/051	pärli	NA	- p ä r l i -
-107/053	NA	NA	- - - - - - -
+107/051	pärli	NA	-
+107/053	NA	NA	-
 107/057	pfund	1	pf u n d
-107/059	NA	NA	- - - - - - -
+107/059	NA	NA	-
 107/063	pfund	1	pf u n d
 107/065	pfund	1	pf u n d
 107/071	pfund	1	pf u n d
@@ -5676,7 +5676,7 @@
 107/087	pfunt	1	pf u n t
 107/089	pfunt	1	pf u n t
 107/091	pfund	1	pf u n d
-107/097	NA	NA	- - - - - - -
+107/097	NA	NA	-
 107/099	pfund	1	pf u n d
 107/103	kila	3	k i l a -
 107/105	kila	3	k i l a -
@@ -5685,9 +5685,9 @@
 107/119	pfund	1	pf u n d
 107/121	kila	3	k i l a -
 107/123	pfund	1	pf u n d
-107/125	NA	NA	- - - - - - -
-107/127	NA	NA	- - - - - - -
-107/129	NA	NA	- - - - - - -
+107/125	NA	NA	-
+107/127	NA	NA	-
+107/129	NA	NA	-
 107/131	pfund	1	pf u n d
 107/133	kila	3	k i l a -
 107/135	kila	3	k i l a -
@@ -5708,7 +5708,7 @@
 108/067	pfund	1	pf u n d
 108/075	kilo	3	k i l o -
 108/079	pfund	1	pf u n d
-108/081	NA	NA	- - - - - - -
+108/081	NA	NA	-
 108/085	pfund	1	pf u n d
 108/087	pfunt	1	pf u n t
 108/091	pfund	1	pf u n d
@@ -5719,9 +5719,9 @@
 108/109	pfund	1	pf u n d
 108/111	kilo	3	k i l o -
 108/113	pfund	1	pf u n d
-108/117	NA	NA	- - - - - - -
-108/119	NA	NA	- - - - - - -
-108/121	NA	NA	- - - - - - -
+108/117	NA	NA	-
+108/119	NA	NA	-
+108/121	NA	NA	-
 108/123	kilo	3	k i l o -
 108/125	pfunt	1	pf u n t
 108/127	pfund	1	pf u n d
@@ -5730,19 +5730,19 @@
 108/133	pfund	1	pf u n d
 108/135	kila	3	k i l a -
 108/137	kila	3	k i l a -
-108/139	NA	NA	- - - - - - -
+108/139	NA	NA	-
 108/141	pfund	1	pf u n d
 109/035	pfunn	1	pf u nn -
 109/037	pfung	1	pf u ng -
 109/039	pfung	1	pf u ng -
 109/041	pfung	1	pf u ng -
-109/043	NA	NA	- - - - - - -
-109/045	pärli	NA	- p ä r l i -
+109/043	NA	NA	-
+109/045	pärli	NA	-
 109/049	pfumd	1	pf u m d
 109/053	pfund	1	pf u n d
 109/061	pfun	1	pf u n -
 109/063	pfund	1	pf u n d
-109/065	NA	NA	- - - - - - -
+109/065	NA	NA	-
 109/067	pfund	1	pf u n d
 109/075	pfunt	1	pf u n t
 109/083	pfund	1	pf u n d
@@ -5756,16 +5756,16 @@
 109/101	pfunt	1	pf u n t
 109/103	pfund	1	pf u n d
 109/107	kilo	3	k i l o -
-109/109	NA	NA	- - - - - - -
+109/109	NA	NA	-
 109/111	pfunt	1	pf u n t
 109/113	pfund	1	pf u n d
 109/115	pfund	1	pf u n d
-109/117	NA	NA	- - - - - - -
+109/117	NA	NA	-
 109/119	pfund	1	pf u n d
 109/121	kilo	3	k i l o -
 109/123	pfund	1	pf u n d
 109/125	pfund	1	pf u n d
-109/127	NA	NA	- - - - - - -
+109/127	NA	NA	-
 109/129	gpfund	1	gpf u n d
 109/131	pfund	1	pf u n d
 109/133	kila	3	k i l a -
@@ -5789,24 +5789,24 @@
 110/087	pfund	1	pf u n d
 110/089	pfund	1	pf u n d
 110/091	pfunt	1	pf u n t
-110/093	NA	NA	- - - - - - -
+110/093	NA	NA	-
 110/095	pfund	1	pf u n d
 110/097	pfund	1	pf u n d
 110/099	kiler	3	k i l e r
 110/101	pfund	1	pf u n d
-110/105	NA	NA	- - - - - - -
+110/105	NA	NA	-
 110/107	kilo	3	k i l o -
 110/111	pfund	1	pf u n d
 110/113	pfund	1	pf u n d
-110/115	NA	NA	- - - - - - -
-110/117	NA	NA	- - - - - - -
-110/119	NA	NA	- - - - - - -
+110/115	NA	NA	-
+110/117	NA	NA	-
+110/119	NA	NA	-
 110/121	deka	2	d e k a
 110/125	pfund	1	pf u n d
-110/127	NA	NA	- - - - - - -
-110/129	NA	NA	- - - - - - -
-110/131	NA	NA	- - - - - - -
-110/133	NA	NA	- - - - - - -
+110/127	NA	NA	-
+110/129	NA	NA	-
+110/131	NA	NA	-
+110/133	NA	NA	-
 110/135	pfund	1	pf u n d
 110/137	kila	3	k i l a -
 110/139	kila	3	k i l a -
@@ -5820,7 +5820,7 @@
 111/073	pfunt	1	pf u n t
 111/075	pfund	1	pf u n d
 111/077	pfund	1	pf u n d
-111/079	NA	NA	- - - - - - -
+111/079	NA	NA	-
 111/081	deka	2	d e k a
 111/083	kilo	3	k i l o -
 111/087	pfund	1	pf u n d
@@ -5831,9 +5831,9 @@
 111/111	pfund	1	pf u n d
 111/113	kile	3	k i l e -
 111/115	deka	2	d e k a
-111/117	NA	NA	- - - - - - -
+111/117	NA	NA	-
 111/119	pfunt	1	pf u n t
-111/121	NA	NA	- - - - - - -
+111/121	NA	NA	-
 111/123	kilo	3	k i l o -
 111/125	pfund	1	pf u n d
 112/037	pfund	1	pf u n d
@@ -5862,7 +5862,7 @@
 113/085	pfund	1	pf u n d
 113/087	pfun	1	pf u n -
 113/121	pfund	1	pf u n d
-113/123	NA	NA	- - - - - - -
+113/123	NA	NA	-
 114/035	pfund	1	pf u n d
 114/045	pfund	1	pf u n d
 114/083	deka	2	d e k a
@@ -5871,19 +5871,19 @@
 115/043	pfund	1	pf u n d
 115/045	pfund	1	pf u n d
 115/083	deka	2	d e k a
-115/085	NA	NA	- - - - - - -
+115/085	NA	NA	-
 116/043	pfund	1	pf u n d
 116/045	pfund	1	pf u n d
 116/083	pfund	1	pf u n d
 117/043	pfund	1	pf u n d
 117/045	pfund	1	pf u n d
 118/041	pfund	1	pf u n d
-119/083	livarn	NA	- l i v a r n
-120/085	libern	NA	- l i b e r n
+119/083	livarn	NA	-
+120/085	libern	NA	-
 121/127	pfund	1	pf u n d
 122/127	pfuond	1	pf uo n d
 122/129	pfund	1	pf u n d
-123/081	liiver	NA	- l ii v e r -
+123/081	liiver	NA	-
 123/123	fund	1	f u n d
 123/125	pfund	1	pf u n d
 123/127	pfund	1	pf u n d

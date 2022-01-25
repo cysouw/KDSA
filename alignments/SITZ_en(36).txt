@@ -371,7 +371,7 @@
 019/143	sidd	1	s i - dd
 019/145	sidd	1	s i - dd
 019/147	sitt	1	s i - tt
-019/149	NA	NA	- - - - - -
+019/149	NA	NA	-
 019/151	sitt	1	s i - tt
 019/153	sitt	1	s i - tt
 019/155	sitt	1	s i - tt
@@ -5147,7 +5147,7 @@
 096/035	hocka	2	h o ck a - -
 096/037	setz	1	s e - tz
 096/039	setz	1	s e - tz
-096/041	NA	NA	- - - - - -
+096/041	NA	NA	-
 096/043	hogga	2	h o gg a - -
 096/045	sitz	1	s i - tz
 096/047	huka	2	h u k a - -
@@ -5207,7 +5207,7 @@
 097/037	setz	1	s e - tz
 097/039	sitz	1	s i - tz
 097/041	hoke	2	h o k e - -
-097/043	NA	NA	- - - - - -
+097/043	NA	NA	-
 097/045	sitz	1	s i - tz
 097/047	sitz	1	s i - tz
 097/049	sitz	1	s i - tz
@@ -5234,13 +5234,13 @@
 097/091	hogga	2	h o gg a - -
 097/093	hokan	2	h o k a n -
 097/095	sitz	1	s i - tz
-097/097	NA	NA	- - - - - -
+097/097	NA	NA	-
 097/099	sitz	1	s i - tz
 097/103	sitz	1	s i - tz
 097/105	sitz	1	s i - tz
 097/107	sitz	1	s i - tz
 097/109	siz	1	s i - z
-097/113	NA	NA	- - - - - -
+097/113	NA	NA	-
 097/125	sitz	1	s i - tz
 097/131	sitz	1	s i - tz
 097/133	sitz	1	s i - tz
@@ -5264,7 +5264,7 @@
 098/055	sitz	1	s i - tz
 098/057	siz	1	s i - z
 098/059	hoket	2	h o k e - t
-098/061	NA	NA	- - - - - -
+098/061	NA	NA	-
 098/063	huket	2	h u k e - t
 098/065	hockit	2	h o ck i - t
 098/067	huket	2	h u k e - t
@@ -5276,7 +5276,7 @@
 098/079	sitz	1	s i - tz
 098/081	sitz	1	s i - tz
 098/083	sitz	1	s i - tz
-098/085	NA	NA	- - - - - -
+098/085	NA	NA	-
 098/087	siz	1	s i - z
 098/089	sitz	1	s i - tz
 098/091	hockan	2	h o ck a n -
@@ -5385,8 +5385,8 @@
 100/121	sitz	1	s i - tz
 100/125	sitz	1	s i - tz
 100/127	sitz	1	s i - tz
-100/129	NA	NA	- - - - - -
-100/133	NA	NA	- - - - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	sitz	1	s i - tz
 100/141	sitz	1	s i - tz
 100/143	sitz	1	s i - tz
@@ -5509,7 +5509,7 @@
 103/099	huckn	2	h u ck - n -
 103/101	sitz	1	s i - tz
 103/105	sitz	1	s i - tz
-103/107	NA	NA	- - - - - -
+103/107	NA	NA	-
 103/111	sitz	1	s i - tz
 103/121	sitz	1	s i - tz
 103/125	sitz	1	s i - tz
@@ -5522,7 +5522,7 @@
 103/141	sitz	1	s i - tz
 103/143	sitz	1	s i - tz
 103/145	sitz	1	s i - tz
-104/033	NA	NA	- - - - - -
+104/033	NA	NA	-
 104/035	hocke	2	h o ck e - -
 104/037	sitz	1	s i - tz
 104/039	sitz	1	s i - tz
@@ -5602,7 +5602,7 @@
 105/113	sitz	1	s i - tz
 105/115	sitz	1	s i - tz
 105/117	sitz	1	s i - tz
-105/119	NA	NA	- - - - - -
+105/119	NA	NA	-
 105/121	siz	1	s i - z
 105/125	sitz	1	s i - tz
 105/127	sitz	1	s i - tz
@@ -5615,7 +5615,7 @@
 105/145	sitz	1	s i - tz
 106/033	hocke	2	h o ck e - -
 106/035	hocke	2	h o ck e - -
-106/037	NA	NA	- - - - - -
+106/037	NA	NA	-
 106/039	hocke	2	h o ck e - -
 106/041	hocke	2	h o ck e - -
 106/043	hocke	2	h o ck e - -
@@ -5664,9 +5664,9 @@
 107/047	sitz	1	s i - tz
 107/049	sitz	1	s i - tz
 107/051	sitz	1	s i - tz
-107/053	NA	NA	- - - - - -
+107/053	NA	NA	-
 107/057	hoggät	2	h o gg ä - t
-107/059	NA	NA	- - - - - -
+107/059	NA	NA	-
 107/063	sitz	1	s i - tz
 107/065	sitz	1	s i - tz
 107/071	hocka	2	h o ck a - -
@@ -5696,7 +5696,7 @@
 107/141	sitz	1	s i - tz
 107/143	sitz	1	s i - tz
 108/033	hockä	2	h o ck ä - -
-108/035	NA	NA	- - - - - -
+108/035	NA	NA	-
 108/037	sitz	1	s i - tz
 108/039	sitz	1	s i - tz
 108/041	hocki	2	h o ck i - -
@@ -5812,7 +5812,7 @@
 110/139	sitz	1	s i - tz
 111/035	setz	1	s e - tz
 111/037	sitz	1	s i - tz
-111/039	NA	NA	- - - - - -
+111/039	NA	NA	-
 111/041	sitz	1	s i - tz
 111/043	sitz	1	s i - tz
 111/045	sitz	1	s i - tz
@@ -5864,7 +5864,7 @@
 113/121	sitz	1	s i - tz
 113/123	sitz	1	s i - tz
 114/035	sitz	1	s i - tz
-114/045	NA	NA	- - - - - -
+114/045	NA	NA	-
 114/083	sitz	1	s i - tz
 114/085	sitz	1	s i - tz
 115/041	hockänd	2	h o ck ä n d
@@ -5879,11 +5879,11 @@
 117/045	sitz	1	s i - tz
 118/041	sitz	1	s i - tz
 119/083	sitz	1	s i - tz
-120/085	NA	NA	- - - - - -
+120/085	NA	NA	-
 121/127	shitz	1	sh i - tz
 122/127	shitz	1	sh i - tz
 122/129	shitz	1	sh i - tz
-123/081	NA	NA	- - - - - -
+123/081	NA	NA	-
 123/123	shitz	1	sh i - tz
 123/125	shitz	1	sh i - tz
 123/127	shitz	1	sh i - tz

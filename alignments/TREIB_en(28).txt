@@ -40,14 +40,14 @@
 010/219	driw	1	d r i w
 011/049	drief	1	d r ie f
 011/053	driv	1	d r i v
-011/055	NA	NA	- - - - - - -
+011/055	NA	NA	-
 011/057	dryv	1	d r y v
 011/059	dryw	1	d r y w
 011/061	dryv	1	d r y v
 011/063	dryv	1	d r y v
 011/065	dryv	1	d r y v
 011/067	drüw	1	d r ü w
-011/069	NA	NA	- - - - - - -
+011/069	NA	NA	-
 011/187	driw	1	d r i w
 011/189	driw	1	d r i w
 011/191	driw	1	d r i w
@@ -197,7 +197,7 @@
 015/209	driew	1	d r ie w
 015/211	driew	1	d r ie w
 015/213	driew	1	d r ie w
-015/215	NA	NA	- - - - - - -
+015/215	NA	NA	-
 015/217	driew	1	d r ie w
 015/219	driw	1	d r i w
 015/221	driew	1	d r ie w
@@ -296,7 +296,7 @@
 018/057	driib	1	d r ii b
 018/059	drieb	1	d r ie b
 018/061	driim	1	d r ii m
-018/063	NA	NA	- - - - - - -
+018/063	NA	NA	-
 018/065	driw	1	d r i w
 018/067	driem	1	d r ie m
 018/069	driem	1	d r ie m
@@ -415,7 +415,7 @@
 020/061	drim	1	d r i m
 020/063	driem	1	d r ie m
 020/065	drihm	1	d r ih m
-020/067	NA	NA	- - - - - - -
+020/067	NA	NA	-
 020/069	drieb	1	d r ie b
 020/071	driem	1	d r ie m
 020/073	drib	1	d r i b
@@ -695,7 +695,7 @@
 024/073	driew	1	d r ie w
 024/075	driew	1	d r ie w
 024/077	drieb	1	d r ie b
-024/079	NA	NA	- - - - - - -
+024/079	NA	NA	-
 024/081	driem	1	d r ie m
 024/083	drib	1	d r i b
 024/085	drieb	1	d r ie b
@@ -956,7 +956,7 @@
 027/185	treib	1	t r ei b
 028/033	drib	1	d r i b
 028/035	driiw	1	d r ii w
-028/037	NA	NA	- - - - - - -
+028/037	NA	NA	-
 028/039	driif	1	d r ii f
 028/041	drif	1	d r i f
 028/043	trieb	1	t r ie b
@@ -1027,7 +1027,7 @@
 028/181	treib	1	t r ei b
 028/183	treib	1	t r ei b
 028/185	treib	1	t r ei b
-029/033	NA	NA	- - - - - - -
+029/033	NA	NA	-
 029/035	driev	1	d r ie v
 029/037	driv	1	d r i v
 029/039	drieb	1	d r ie b
@@ -1045,7 +1045,7 @@
 029/067	drieb	1	d r ie b
 029/069	maokn	2	m ao k - n
 029/071	drib	1	d r i b
-029/073	NA	NA	- - - - - - -
+029/073	NA	NA	-
 029/075	drieb	1	d r ie b
 029/077	drieb	1	d r ie b
 029/079	drib	1	d r i b
@@ -1099,7 +1099,7 @@
 029/175	driew	1	d r ie w
 029/177	driw	1	d r i w
 029/181	drieb	1	d r ie b
-030/033	NA	NA	- - - - - - -
+030/033	NA	NA	-
 030/035	driev	1	d r ie v
 030/037	maken	2	m a k e n
 030/039	drieb	1	d r ie b
@@ -1114,7 +1114,7 @@
 030/057	drib	1	d r i b
 030/059	drieb	1	d r ie b
 030/061	drieb	1	d r ie b
-030/065	NA	NA	- - - - - - -
+030/065	NA	NA	-
 030/067	drieb	1	d r ie b
 030/071	drib	1	d r i b
 030/073	driem	1	d r ie m
@@ -1532,7 +1532,7 @@
 036/065	drie	1	d r ie -
 036/067	dri	1	d r i -
 036/069	driew	1	d r ie w
-036/071	NA	NA	- - - - - - -
+036/071	NA	NA	-
 036/073	drie	1	d r ie -
 036/075	driev	1	d r ie v
 036/077	drim	1	d r i m
@@ -1571,7 +1571,7 @@
 036/149	driew	1	d r ie w
 036/151	driew	1	d r ie w
 036/153	driw	1	d r i w
-036/155	NA	NA	- - - - - - -
+036/155	NA	NA	-
 036/161	driew	1	d r ie w
 036/163	driw	1	d r i w
 036/165	driw	1	d r i w
@@ -1703,7 +1703,7 @@
 038/159	driw	1	d r i w
 038/161	driw	1	d r i w
 038/163	drew	1	d r e w
-039/029	NA	NA	- - - - - - -
+039/029	NA	NA	-
 039/031	driev	1	d r ie v
 039/033	driew	1	d r ie w
 039/035	driw	1	d r i w
@@ -1849,7 +1849,7 @@
 041/079	drieb	1	d r ie b
 041/081	drie	1	d r ie -
 041/083	dri	1	d r i -
-041/085	NA	NA	- - - - - - -
+041/085	NA	NA	-
 041/087	drieb	1	d r ie b
 041/089	drihu	1	d r ihu -
 041/091	driu	1	d r iu -
@@ -2423,7 +2423,7 @@
 050/133	trehb	1	t r eh b
 050/135	treb	1	t r e b
 050/137	treb	1	t r e b
-050/139	NA	NA	- - - - - - -
+050/139	NA	NA	-
 050/141	treb	1	t r e b
 050/143	treeb	1	t r ee b
 050/145	treb	1	t r e b
@@ -2502,7 +2502,7 @@
 051/153	treeb	1	t r ee b
 051/155	treeb	1	t r ee b
 051/157	treb	1	t r e b
-052/023	NA	NA	- - - - - - -
+052/023	NA	NA	-
 052/025	driev	1	d r ie v
 052/027	drief	1	d r ie f
 052/029	driv	1	d r i v
@@ -2623,7 +2623,7 @@
 053/129	machen	2	m a ch e n
 053/131	treib	1	t r ei b
 053/133	treib	1	t r ei b
-053/135	NA	NA	- - - - - - -
+053/135	NA	NA	-
 053/137	treb	1	t r e b
 053/139	treb	1	t r e b
 053/141	treb	1	t r e b
@@ -2706,7 +2706,7 @@
 054/161	treib	1	t r ei b
 054/163	driew	1	d r ie w
 055/023	driev	1	d r ie v
-055/025	NA	NA	- - - - - - -
+055/025	NA	NA	-
 055/027	driev	1	d r ie v
 055/029	drief	1	d r ie f
 055/031	driw	1	d r i w
@@ -2753,7 +2753,7 @@
 055/113	trei	1	t r ei -
 055/115	treib	1	t r ei b
 055/117	dreib	1	d r ei b
-055/119	NA	NA	- - - - - - -
+055/119	NA	NA	-
 055/123	treib	1	t r ei b
 055/125	treib	1	t r ei b
 055/127	treib	1	t r ei b
@@ -2826,7 +2826,7 @@
 056/123	treib	1	t r ei b
 056/125	treib	1	t r ei b
 056/127	dreib	1	d r ei b
-056/129	NA	NA	- - - - - - -
+056/129	NA	NA	-
 056/131	treib	1	t r ei b
 056/133	treib	1	t r ei b
 056/135	treib	1	t r ei b
@@ -2964,12 +2964,12 @@
 058/113	trei	1	t r ei -
 058/115	treib	1	t r ei b
 058/117	treib	1	t r ei b
-058/119	NA	NA	- - - - - - -
+058/119	NA	NA	-
 058/121	treib	1	t r ei b
 058/123	treib	1	t r ei b
 058/125	dreib	1	d r ei b
 058/127	dreib	1	d r ei b
-058/129	NA	NA	- - - - - - -
+058/129	NA	NA	-
 058/131	treib	1	t r ei b
 058/133	treib	1	t r ei b
 058/135	treib	1	t r ei b
@@ -3034,14 +3034,14 @@
 059/111	machn	2	m a ch - n
 059/113	trei	1	t r ei -
 059/115	treib	1	t r ei b
-059/117	NA	NA	- - - - - - -
+059/117	NA	NA	-
 059/119	machen	2	m a ch e n
 059/121	treib	1	t r ei b
 059/123	treib	1	t r ei b
 059/125	treib	1	t r ei b
 059/127	treib	1	t r ei b
-059/129	NA	NA	- - - - - - -
-059/131	NA	NA	- - - - - - -
+059/129	NA	NA	-
+059/131	NA	NA	-
 059/133	treib	1	t r ei b
 059/135	treib	1	t r ei b
 059/137	treib	1	t r ei b
@@ -3073,7 +3073,7 @@
 060/043	triew	1	t r ie w
 060/045	triew	1	t r ie w
 060/047	treiw	1	t r ei w
-060/049	NA	NA	- - - - - - -
+060/049	NA	NA	-
 060/051	treiw	1	t r ei w
 060/053	treiw	1	t r ei w
 060/055	treiw	1	t r ei w
@@ -3185,7 +3185,7 @@
 061/125	treib	1	t r ei b
 061/127	machn	2	m a ch - n
 061/129	treib	1	t r ei b
-061/131	NA	NA	- - - - - - -
+061/131	NA	NA	-
 061/133	treib	1	t r ei b
 061/137	treib	1	t r ei b
 061/139	treib	1	t r ei b
@@ -3200,7 +3200,7 @@
 061/157	träb	1	t r ä b
 061/159	treäb	1	t r eä b
 061/161	treäb	1	t r eä b
-061/165	NA	NA	- - - - - - -
+061/165	NA	NA	-
 062/021	triev	1	t r ie v
 062/023	drief	1	d r ie f
 062/025	driev	1	d r ie v
@@ -3246,17 +3246,17 @@
 062/105	machn	2	m a ch - n
 062/107	trei	1	t r ei -
 062/109	trei	1	t r ei -
-062/111	NA	NA	- - - - - - -
+062/111	NA	NA	-
 062/113	trei	1	t r ei -
 062/115	trei	1	t r ei -
 062/117	trei	1	t r ei -
 062/119	mochn	2	m o ch - n
-062/121	NA	NA	- - - - - - -
+062/121	NA	NA	-
 062/123	machn	2	m a ch - n
 062/125	machn	2	m a ch - n
 062/127	treib	1	t r ei b
 062/129	treib	1	t r ei b
-062/131	NA	NA	- - - - - - -
+062/131	NA	NA	-
 062/133	treib	1	t r ei b
 062/135	treib	1	t r ei b
 062/137	treiw	1	t r ei w
@@ -3323,15 +3323,15 @@
 063/117	treib	1	t r ei b
 063/119	treib	1	t r ei b
 063/121	mochn	2	m o ch - n
-063/123	NA	NA	- - - - - - -
+063/123	NA	NA	-
 063/125	treib	1	t r ei b
 063/127	machn	2	m a ch - n
 063/135	treib	1	t r ei b
 063/137	treiw	1	t r ei w
-063/139	NA	NA	- - - - - - -
+063/139	NA	NA	-
 063/141	treiw	1	t r ei w
-063/143	NA	NA	- - - - - - -
-063/145	NA	NA	- - - - - - -
+063/143	NA	NA	-
+063/145	NA	NA	-
 063/147	treib	1	t r ei b
 063/149	treib	1	t r ei b
 063/151	treib	1	t r ei b
@@ -3360,14 +3360,14 @@
 064/053	treiw	1	t r ei w
 064/055	treib	1	t r ei b
 064/057	treiw	1	t r ei w
-064/059	NA	NA	- - - - - - -
+064/059	NA	NA	-
 064/061	treiw	1	t r ei w
 064/063	trie	1	t r ie -
 064/065	trie	1	t r ie -
 064/067	tri	1	t r i -
 064/069	dräi	1	d r äi -
 064/071	trei	1	t r ei -
-064/073	NA	NA	- - - - - - -
+064/073	NA	NA	-
 064/075	treib	1	t r ei b
 064/077	treib	1	t r ei b
 064/079	treib	1	t r ei b
@@ -3386,10 +3386,10 @@
 064/105	treib	1	t r ei b
 064/107	trei	1	t r ei -
 064/109	trei	1	t r ei -
-064/111	NA	NA	- - - - - - -
+064/111	NA	NA	-
 064/113	trei	1	t r ei -
 064/115	trei	1	t r ei -
-064/117	NA	NA	- - - - - - -
+064/117	NA	NA	-
 064/119	mochn	2	m o ch - n
 064/121	treib	1	t r ei b
 064/123	treib	1	t r ei b
@@ -3400,7 +3400,7 @@
 064/139	treiw	1	t r ei w
 064/141	treib	1	t r ei b
 064/143	traiw	1	t r ai w
-064/145	NA	NA	- - - - - - -
+064/145	NA	NA	-
 064/147	treib	1	t r ei b
 064/149	treib	1	t r ei b
 064/151	treib	1	t r ei b
@@ -3451,13 +3451,13 @@
 065/103	trei	1	t r ei -
 065/105	trei	1	t r ei -
 065/107	trei	1	t r ei -
-065/109	NA	NA	- - - - - - -
+065/109	NA	NA	-
 065/111	treib	1	t r ei b
-065/113	NA	NA	- - - - - - -
+065/113	NA	NA	-
 065/115	treib	1	t r ei b
 065/121	treib	1	t r ei b
 065/123	treib	1	t r ei b
-065/137	NA	NA	- - - - - - -
+065/137	NA	NA	-
 065/139	treiw	1	t r ei w
 065/143	treiw	1	t r ei w
 065/145	treiw	1	t r ei w
@@ -3472,7 +3472,7 @@
 066/023	dreif	1	d r ei f
 066/025	driw	1	d r i w
 066/027	drief	1	d r ie f
-066/029	NA	NA	- - - - - - -
+066/029	NA	NA	-
 066/031	dreiw	1	d r ei w
 066/033	dreiw	1	d r ei w
 066/035	treiw	1	t r ei w
@@ -3506,7 +3506,7 @@
 066/091	trei	1	t r ei -
 066/093	treib	1	t r ei b
 066/095	treib	1	t r ei b
-066/097	NA	NA	- - - - - - -
+066/097	NA	NA	-
 066/099	trei	1	t r ei -
 066/101	machn	2	m a ch - n
 066/103	trei	1	t r ei -
@@ -3522,10 +3522,10 @@
 066/147	treiw	1	t r ei w
 066/149	treib	1	t r ei b
 066/151	treiw	1	t r ei w
-066/153	NA	NA	- - - - - - -
+066/153	NA	NA	-
 066/155	treib	1	t r ei b
 066/157	treib	1	t r ei b
-066/159	NA	NA	- - - - - - -
+066/159	NA	NA	-
 066/161	treib	1	t r ei b
 066/163	treib	1	t r ei b
 067/021	drehw	1	d r eh w
@@ -3570,19 +3570,19 @@
 067/099	trei	1	t r ei -
 067/101	mochn	2	m o ch - n
 067/103	trei	1	t r ei -
-067/105	NA	NA	- - - - - - -
+067/105	NA	NA	-
 067/107	mochen	2	m o ch e n
-067/109	NA	NA	- - - - - - -
+067/109	NA	NA	-
 067/111	mochn	2	m o ch - n
 067/113	trei	1	t r ei -
-067/143	NA	NA	- - - - - - -
+067/143	NA	NA	-
 067/145	treib	1	t r ei b
 067/147	treib	1	t r ei b
 067/149	treib	1	t r ei b
 067/151	treiw	1	t r ei w
 067/153	treib	1	t r ei b
 067/155	treib	1	t r ei b
-067/157	NA	NA	- - - - - - -
+067/157	NA	NA	-
 067/159	treib	1	t r ei b
 067/161	treib	1	t r ei b
 067/163	treib	1	t r ei b
@@ -3625,17 +3625,17 @@
 068/089	treib	1	t r ei b
 068/091	trei	1	t r ei -
 068/093	trei	1	t r ei -
-068/095	NA	NA	- - - - - - -
+068/095	NA	NA	-
 068/097	drei	1	d r ei -
-068/099	NA	NA	- - - - - - -
+068/099	NA	NA	-
 068/101	treib	1	t r ei b
-068/103	NA	NA	- - - - - - -
-068/105	NA	NA	- - - - - - -
+068/103	NA	NA	-
+068/105	NA	NA	-
 068/107	trei	1	t r ei -
 068/109	mochn	2	m o ch - n
 068/111	trei	1	t r ei -
 068/145	treiw	1	t r ei w
-068/147	NA	NA	- - - - - - -
+068/147	NA	NA	-
 068/149	trei	1	t r ei -
 068/151	tun	1	t - u n
 068/153	trei	1	t r ei -
@@ -3739,15 +3739,15 @@
 070/095	machn	2	m a ch - n
 070/097	treih	1	t r eih -
 070/099	treib	1	t r ei b
-070/101	NA	NA	- - - - - - -
-070/103	NA	NA	- - - - - - -
-070/105	NA	NA	- - - - - - -
+070/101	NA	NA	-
+070/103	NA	NA	-
+070/105	NA	NA	-
 070/107	trei	1	t r ei -
 070/109	trei	1	t r ei -
 070/111	trei	1	t r ei -
-070/145	NA	NA	- - - - - - -
-070/147	NA	NA	- - - - - - -
-070/149	NA	NA	- - - - - - -
+070/145	NA	NA	-
+070/147	NA	NA	-
+070/149	NA	NA	-
 070/151	mochn	2	m o ch - n
 070/153	treib	1	t r ei b
 070/155	traee	1	t r aee -
@@ -3805,11 +3805,11 @@
 071/149	treib	1	t r ei b
 071/151	treib	1	t r ei b
 071/153	treib	1	t r ei b
-071/155	NA	NA	- - - - - - -
+071/155	NA	NA	-
 071/157	trei	1	t r ei -
 071/159	trei	1	t r ei -
 071/161	mochn	2	m o ch - n
-071/163	NA	NA	- - - - - - -
+071/163	NA	NA	-
 071/177	trai	1	t r ai -
 071/179	treib	1	t r ei b
 072/017	dreiw	1	d r ei w
@@ -3822,7 +3822,7 @@
 072/031	treiw	1	t r ei w
 072/033	treiw	1	t r ei w
 072/035	treiw	1	t r ei w
-072/037	NA	NA	- - - - - - -
+072/037	NA	NA	-
 072/039	dreiw	1	d r ei w
 072/041	treiw	1	t r ei w
 072/043	dreiw	1	d r ei w
@@ -3854,15 +3854,15 @@
 072/095	trei	1	t r ei -
 072/097	treib	1	t r ei b
 072/099	trei	1	t r ei -
-072/101	NA	NA	- - - - - - -
+072/101	NA	NA	-
 072/103	trei	1	t r ei -
-072/105	NA	NA	- - - - - - -
+072/105	NA	NA	-
 072/107	treib	1	t r ei b
 072/145	treib	1	t r ei b
 072/147	trei	1	t r ei -
 072/149	traj	1	t r aj -
 072/151	treib	1	t r ei b
-072/153	NA	NA	- - - - - - -
+072/153	NA	NA	-
 072/155	treib	1	t r ei b
 072/157	mochn	2	m o ch - n
 072/159	treib	1	t r ei b
@@ -3900,7 +3900,7 @@
 073/071	treib	1	t r ei b
 073/073	treib	1	t r ei b
 073/075	treib	1	t r ei b
-073/077	NA	NA	- - - - - - -
+073/077	NA	NA	-
 073/079	trei	1	t r ei -
 073/081	treib	1	t r ei b
 073/083	treiw	1	t r ei w
@@ -3922,7 +3922,7 @@
 073/151	trei	1	t r ei -
 073/153	treib	1	t r ei b
 073/155	treib	1	t r ei b
-073/157	NA	NA	- - - - - - -
+073/157	NA	NA	-
 073/159	treib	1	t r ei b
 073/161	treib	1	t r ei b
 073/163	treib	1	t r ei b
@@ -3969,16 +3969,16 @@
 074/093	treib	1	t r ei b
 074/095	treib	1	t r ei b
 074/097	treib	1	t r ei b
-074/099	NA	NA	- - - - - - -
+074/099	NA	NA	-
 074/101	trei	1	t r ei -
 074/103	trei	1	t r ei -
 074/105	trei	1	t r ei -
 074/107	trei	1	t r ei -
-074/109	NA	NA	- - - - - - -
-074/145	NA	NA	- - - - - - -
-074/147	NA	NA	- - - - - - -
+074/109	NA	NA	-
+074/145	NA	NA	-
+074/147	NA	NA	-
 074/149	machn	2	m a ch - n
-074/153	NA	NA	- - - - - - -
+074/153	NA	NA	-
 074/155	mochen	2	m o ch e n
 074/157	treib	1	t r ei b
 074/159	treib	1	t r ei b
@@ -4026,20 +4026,20 @@
 075/095	treib	1	t r ei b
 075/097	treib	1	t r ei b
 075/099	trei	1	t r ei -
-075/101	NA	NA	- - - - - - -
-075/103	NA	NA	- - - - - - -
+075/101	NA	NA	-
+075/103	NA	NA	-
 075/105	trei	1	t r ei -
 075/107	träi	1	t r äi -
 075/135	traj	1	t r aj -
 075/145	treib	1	t r ei b
 075/147	treib	1	t r ei b
-075/149	NA	NA	- - - - - - -
+075/149	NA	NA	-
 075/155	mochn	2	m o ch - n
 075/157	treib	1	t r ei b
 075/159	mochn	2	m o ch - n
 075/161	treib	1	t r ei b
 075/163	treiw	1	t r ei w
-075/165	NA	NA	- - - - - - -
+075/165	NA	NA	-
 076/019	dreiw	1	d r ei w
 076/021	dreiw	1	d r ei w
 076/023	mächen	2	m ä ch e n
@@ -4080,7 +4080,7 @@
 076/095	trei	1	t r ei -
 076/097	trei	1	t r ei -
 076/099	drei	1	d r ei -
-076/101	NA	NA	- - - - - - -
+076/101	NA	NA	-
 076/103	treib	1	t r ei b
 076/135	trei	1	t r ei -
 076/137	traj	1	t r aj -
@@ -4090,7 +4090,7 @@
 076/161	treiw	1	t r ei w
 076/163	treiw	1	t r ei w
 076/165	treiw	1	t r ei w
-077/019	NA	NA	- - - - - - -
+077/019	NA	NA	-
 077/021	maan	2	m aa - - n
 077/023	dreiw	1	d r ei w
 077/025	maachen	2	m aa ch e n
@@ -4111,10 +4111,10 @@
 077/057	treiw	1	t r ei w
 077/059	treiw	1	t r ei w
 077/061	treiw	1	t r ei w
-077/063	NA	NA	- - - - - - -
+077/063	NA	NA	-
 077/065	treiw	1	t r ei w
 077/067	traib	1	t r ai b
-077/069	NA	NA	- - - - - - -
+077/069	NA	NA	-
 077/071	treiw	1	t r ei w
 077/073	treib	1	t r ei b
 077/075	treib	1	t r ei b
@@ -4130,7 +4130,7 @@
 077/095	trei	1	t r ei -
 077/097	trei	1	t r ei -
 077/099	drä	1	d r ä -
-077/101	NA	NA	- - - - - - -
+077/101	NA	NA	-
 077/103	treib	1	t r ei b
 077/135	trei	1	t r ei -
 077/137	treib	1	t r ei b
@@ -4176,7 +4176,7 @@
 078/101	trei	1	t r ei -
 078/103	trä	1	t r ä -
 078/105	träb	1	t r ä b
-078/135	NA	NA	- - - - - - -
+078/135	NA	NA	-
 078/193	treib	1	t r ei b
 079/021	treif	1	t r ei f
 079/023	treiw	1	t r ei w
@@ -4223,7 +4223,7 @@
 079/107	trei	1	t r ei -
 079/133	mochn	2	m o ch - n
 079/135	treib	1	t r ei b
-079/193	NA	NA	- - - - - - -
+079/193	NA	NA	-
 079/195	traib	1	t r ai b
 079/197	treib	1	t r ei b
 080/025	dreiw	1	d r ei w
@@ -4274,7 +4274,7 @@
 080/151	trai	1	t r ai -
 080/153	mocha	2	m o ch a -
 080/193	treib	1	t r ei b
-080/195	NA	NA	- - - - - - -
+080/195	NA	NA	-
 081/025	drieb	1	d r ie b
 081/027	triw	1	t r i w
 081/029	driew	1	d r ie w
@@ -4317,13 +4317,13 @@
 081/105	trab	1	t r a b
 081/107	trei	1	t r ei -
 081/109	trei	1	t r ei -
-081/111	NA	NA	- - - - - - -
+081/111	NA	NA	-
 081/127	trei	1	t r ei -
-081/129	NA	NA	- - - - - - -
+081/129	NA	NA	-
 081/133	trei	1	t r ei -
 081/147	treib	1	t r ei b
 081/191	mochn	2	m o ch - n
-081/193	NA	NA	- - - - - - -
+081/193	NA	NA	-
 081/195	mochen	2	m o ch e n
 082/027	driiw	1	d r ii w
 082/029	driew	1	d r ie w
@@ -4366,12 +4366,12 @@
 082/103	trä	1	t r ä -
 082/105	trää	1	t r ää -
 082/107	trei	1	t r ei -
-082/111	NA	NA	- - - - - - -
+082/111	NA	NA	-
 082/113	treib	1	t r ei b
 082/117	trei	1	t r ei -
 082/129	mocha	2	m o ch a -
 082/131	trei	1	t r ei -
-082/133	NA	NA	- - - - - - -
+082/133	NA	NA	-
 082/135	treib	1	t r ei b
 082/145	trai	1	t r ai -
 082/147	treib	1	t r ei b
@@ -4421,7 +4421,7 @@
 083/111	trei	1	t r ei -
 083/113	trei	1	t r ei -
 083/115	trei	1	t r ei -
-083/117	NA	NA	- - - - - - -
+083/117	NA	NA	-
 083/119	trei	1	t r ei -
 083/121	treib	1	t r ei b
 083/129	treib	1	t r ei b
@@ -4460,7 +4460,7 @@
 084/075	treib	1	t r ei b
 084/077	treub	1	t r eu b
 084/079	treib	1	t r ei b
-084/081	NA	NA	- - - - - - -
+084/081	NA	NA	-
 084/083	trei	1	t r ei -
 084/085	trei	1	t r ei -
 084/087	trei	1	t r ei -
@@ -4472,7 +4472,7 @@
 084/099	trei	1	t r ei -
 084/101	trä	1	t r ä -
 084/103	trä	1	t r ä -
-084/105	NA	NA	- - - - - - -
+084/105	NA	NA	-
 084/107	treib	1	t r ei b
 084/109	trei	1	t r ei -
 084/111	trei	1	t r ei -
@@ -4488,11 +4488,11 @@
 084/139	treib	1	t r ei b
 084/141	treib	1	t r ei b
 084/143	treib	1	t r ei b
-084/145	NA	NA	- - - - - - -
+084/145	NA	NA	-
 084/147	trei	1	t r ei -
 084/149	trei	1	t r ei -
 084/171	trai	1	t r ai -
-084/173	NA	NA	- - - - - - -
+084/173	NA	NA	-
 084/195	treib	1	t r ei b
 085/031	driww	1	d r i ww
 085/033	triw	1	t r i w
@@ -4538,7 +4538,7 @@
 085/115	mocha	2	m o ch a -
 085/117	trei	1	t r ei -
 085/119	trei	1	t r ei -
-085/121	NA	NA	- - - - - - -
+085/121	NA	NA	-
 085/123	träb	1	t r ä b
 085/125	treib	1	t r ei b
 085/127	treib	1	t r ei b
@@ -4598,7 +4598,7 @@
 086/111	trei	1	t r ei -
 086/113	treib	1	t r ei b
 086/115	treib	1	t r ei b
-086/117	NA	NA	- - - - - - -
+086/117	NA	NA	-
 086/119	trei	1	t r ei -
 086/121	mocha	2	m o ch a -
 086/123	trei	1	t r ei -
@@ -4611,7 +4611,7 @@
 086/137	treib	1	t r ei b
 086/139	trei	1	t r ei -
 086/141	mocha	2	m o ch a -
-086/143	NA	NA	- - - - - - -
+086/143	NA	NA	-
 086/145	treib	1	t r ei b
 086/147	trei	1	t r ei -
 086/149	treib	1	t r ei b
@@ -4632,7 +4632,7 @@
 087/055	treib	1	t r ei b
 087/057	dreib	1	d r ei b
 087/059	treib	1	t r ei b
-087/061	NA	NA	- - - - - - -
+087/061	NA	NA	-
 087/063	treib	1	t r ei b
 087/065	treib	1	t r ei b
 087/067	treib	1	t r ei b
@@ -4664,7 +4664,7 @@
 087/119	trei	1	t r ei -
 087/121	trei	1	t r ei -
 087/123	treib	1	t r ei b
-087/125	NA	NA	- - - - - - -
+087/125	NA	NA	-
 087/127	mocha	2	m o ch a -
 087/129	treib	1	t r ei b
 087/133	treii	1	t r eii -
@@ -4673,7 +4673,7 @@
 087/139	trei	1	t r ei -
 087/141	mocha	2	m o ch a -
 087/143	trei	1	t r ei -
-087/145	NA	NA	- - - - - - -
+087/145	NA	NA	-
 087/147	treib	1	t r ei b
 087/149	trei	1	t r ei -
 087/151	treib	1	t r ei b
@@ -4717,7 +4717,7 @@
 088/109	trei	1	t r ei -
 088/113	trei	1	t r ei -
 088/115	trei	1	t r ei -
-088/117	NA	NA	- - - - - - -
+088/117	NA	NA	-
 088/121	trei	1	t r ei -
 088/123	treib	1	t r ei b
 088/127	trei	1	t r ei -
@@ -4748,7 +4748,7 @@
 089/065	treib	1	t r ei b
 089/067	treib	1	t r ei b
 089/069	dreib	1	d r ei b
-089/071	NA	NA	- - - - - - -
+089/071	NA	NA	-
 089/073	treub	1	t r eu b
 089/075	treib	1	t r ei b
 089/077	dreib	1	d r ei b
@@ -4759,7 +4759,7 @@
 089/087	treib	1	t r ei b
 089/089	trei	1	t r ei -
 089/091	drei	1	d r ei -
-089/093	NA	NA	- - - - - - -
+089/093	NA	NA	-
 089/095	drei	1	d r ei -
 089/097	trei	1	t r ei -
 089/099	trei	1	t r ei -
@@ -4768,16 +4768,16 @@
 089/105	drei	1	d r ei -
 089/107	mocha	2	m o ch a -
 089/109	treib	1	t r ei b
-089/111	NA	NA	- - - - - - -
+089/111	NA	NA	-
 089/113	treib	1	t r ei b
 089/115	trei	1	t r ei -
 089/117	mocha	2	m o ch a -
-089/119	NA	NA	- - - - - - -
+089/119	NA	NA	-
 089/121	drei	1	d r ei -
-089/123	NA	NA	- - - - - - -
+089/123	NA	NA	-
 089/125	trei	1	t r ei -
 089/127	trei	1	t r ei -
-089/129	NA	NA	- - - - - - -
+089/129	NA	NA	-
 089/131	treib	1	t r ei b
 089/133	trei	1	t r ei -
 089/135	drei	1	d r ei -
@@ -4785,7 +4785,7 @@
 089/139	mocha	2	m o ch a -
 089/141	trei	1	t r ei -
 089/143	trei	1	t r ei -
-089/145	NA	NA	- - - - - - -
+089/145	NA	NA	-
 089/147	mochn	2	m o ch - n
 089/149	trei	1	t r ei -
 090/035	macha	2	m a ch a -
@@ -4813,18 +4813,18 @@
 090/079	treib	1	t r ei b
 090/081	treib	1	t r ei b
 090/083	treib	1	t r ei b
-090/085	NA	NA	- - - - - - -
+090/085	NA	NA	-
 090/087	treib	1	t r ei b
 090/089	macha	2	m a ch a -
 090/091	drei	1	d r ei -
 090/093	trei	1	t r ei -
-090/095	NA	NA	- - - - - - -
+090/095	NA	NA	-
 090/097	trei	1	t r ei -
 090/099	treib	1	t r ei b
 090/101	treib	1	t r ei b
 090/103	trei	1	t r ei -
 090/105	trei	1	t r ei -
-090/107	NA	NA	- - - - - - -
+090/107	NA	NA	-
 090/109	treib	1	t r ei b
 090/111	treib	1	t r ei b
 090/113	treib	1	t r ei b
@@ -4838,12 +4838,12 @@
 090/131	treib	1	t r ei b
 090/133	draib	1	d r ai b
 090/135	trei	1	t r ei -
-090/137	NA	NA	- - - - - - -
+090/137	NA	NA	-
 090/139	treib	1	t r ei b
 090/141	trei	1	t r ei -
-090/143	NA	NA	- - - - - - -
+090/143	NA	NA	-
 090/145	dreib	1	d r ei b
-090/147	NA	NA	- - - - - - -
+090/147	NA	NA	-
 090/149	trei	1	t r ei -
 090/151	mocha	2	m o ch a -
 091/035	driw	1	d r i w
@@ -4877,14 +4877,14 @@
 091/093	trei	1	t r ei -
 091/095	treib	1	t r ei b
 091/097	drei	1	d r ei -
-091/099	NA	NA	- - - - - - -
+091/099	NA	NA	-
 091/101	trei	1	t r ei -
 091/103	drei	1	d r ei -
 091/105	mache	2	m a ch e -
-091/107	NA	NA	- - - - - - -
+091/107	NA	NA	-
 091/109	macha	2	m a ch a -
 091/111	treib	1	t r ei b
-091/113	NA	NA	- - - - - - -
+091/113	NA	NA	-
 091/115	macha	2	m a ch a -
 091/117	macha	2	m a ch a -
 091/119	treib	1	t r ei b
@@ -4895,7 +4895,7 @@
 091/133	trei	1	t r ei -
 091/135	trei	1	t r ei -
 091/137	dreib	1	d r ei b
-091/139	NA	NA	- - - - - - -
+091/139	NA	NA	-
 091/141	macha	2	m a ch a -
 091/143	treib	1	t r ei b
 091/145	mocha	2	m o ch a -
@@ -4919,13 +4919,13 @@
 092/059	mai	2	m ai - - -
 092/061	treib	1	t r ei b
 092/063	treib	1	t r ei b
-092/065	NA	NA	- - - - - - -
+092/065	NA	NA	-
 092/067	treib	1	t r ei b
 092/069	dreib	1	d r ei b
 092/071	treib	1	t r ei b
 092/073	dreib	1	d r ei b
 092/075	treib	1	t r ei b
-092/077	NA	NA	- - - - - - -
+092/077	NA	NA	-
 092/079	treib	1	t r ei b
 092/081	treib	1	t r ei b
 092/083	trei	1	t r ei -
@@ -4939,14 +4939,14 @@
 092/099	trei	1	t r ei -
 092/101	dreib	1	d r ei b
 092/103	trei	1	t r ei -
-092/105	NA	NA	- - - - - - -
+092/105	NA	NA	-
 092/107	macha	2	m a ch a -
 092/109	trei	1	t r ei -
 092/111	treib	1	t r ei b
 092/113	treib	1	t r ei b
 092/115	treib	1	t r ei b
-092/117	NA	NA	- - - - - - -
-092/119	NA	NA	- - - - - - -
+092/117	NA	NA	-
+092/119	NA	NA	-
 092/121	macha	2	m a ch a -
 092/123	macha	2	m a ch a -
 092/125	trei	1	t r ei -
@@ -4955,8 +4955,8 @@
 092/131	trei	1	t r ei -
 092/133	trei	1	t r ei -
 092/135	trei	1	t r ei -
-092/137	NA	NA	- - - - - - -
-092/139	NA	NA	- - - - - - -
+092/137	NA	NA	-
+092/139	NA	NA	-
 092/141	trei	1	t r ei -
 092/143	treib	1	t r ei b
 092/145	machn	2	m a ch - n
@@ -4974,7 +4974,7 @@
 093/051	trieb	1	t r ie b
 093/053	trieb	1	t r ie b
 093/055	dreib	1	d r ei b
-093/057	NA	NA	- - - - - - -
+093/057	NA	NA	-
 093/059	treib	1	t r ei b
 093/061	treib	1	t r ei b
 093/063	treib	1	t r ei b
@@ -4984,7 +4984,7 @@
 093/071	treib	1	t r ei b
 093/073	treib	1	t r ei b
 093/075	dreib	1	d r ei b
-093/077	NA	NA	- - - - - - -
+093/077	NA	NA	-
 093/079	treiw	1	t r ei w
 093/081	dreiw	1	d r ei w
 093/083	treib	1	t r ei b
@@ -5000,7 +5000,7 @@
 093/103	trei	1	t r ei -
 093/105	trei	1	t r ei -
 093/109	trei	1	t r ei -
-093/111	NA	NA	- - - - - - -
+093/111	NA	NA	-
 093/113	mocha	2	m o ch a -
 093/115	treib	1	t r ei b
 093/117	mocha	2	m o ch a -
@@ -5049,39 +5049,39 @@
 094/083	trei	1	t r ei -
 094/085	trei	1	t r ei -
 094/087	trei	1	t r ei -
-094/089	NA	NA	- - - - - - -
+094/089	NA	NA	-
 094/091	drei	1	d r ei -
 094/093	trei	1	t r ei -
 094/095	drei	1	d r ei -
 094/097	trei	1	t r ei -
 094/099	drei	1	d r ei -
 094/101	drei	1	d r ei -
-094/103	NA	NA	- - - - - - -
+094/103	NA	NA	-
 094/105	trei	1	t r ei -
 094/107	treib	1	t r ei b
 094/109	macha	2	m a ch a -
 094/111	treib	1	t r ei b
-094/113	NA	NA	- - - - - - -
+094/113	NA	NA	-
 094/115	treib	1	t r ei b
 094/117	anstöln	NA	a n s t ö l n
 094/119	treib	1	t r ei b
 094/121	macha	2	m a ch a -
-094/123	NA	NA	- - - - - - -
+094/123	NA	NA	-
 094/125	treib	1	t r ei b
 094/127	treib	1	t r ei b
 094/129	mocha	2	m o ch a -
-094/131	NA	NA	- - - - - - -
+094/131	NA	NA	-
 094/133	mochn	2	m o ch - n
 094/135	treib	1	t r ei b
 094/137	treib	1	t r ei b
 094/139	trei	1	t r ei -
 094/141	mocha	2	m o ch a -
 094/143	treib	1	t r ei b
-094/145	NA	NA	- - - - - - -
-094/147	NA	NA	- - - - - - -
+094/145	NA	NA	-
+094/147	NA	NA	-
 094/149	treib	1	t r ei b
 094/151	trei	1	t r ei -
-094/153	NA	NA	- - - - - - -
+094/153	NA	NA	-
 095/031	trib	1	t r i b
 095/033	trib	1	t r i b
 095/035	triw	1	t r i w
@@ -5096,8 +5096,8 @@
 095/053	trieb	1	t r ie b
 095/055	treib	1	t r ei b
 095/057	dreib	1	d r ei b
-095/059	NA	NA	- - - - - - -
-095/061	NA	NA	- - - - - - -
+095/059	NA	NA	-
+095/061	NA	NA	-
 095/063	treib	1	t r ei b
 095/065	treib	1	t r ei b
 095/067	treib	1	t r ei b
@@ -5112,7 +5112,7 @@
 095/085	trei	1	t r ei -
 095/087	tri	1	t r i -
 095/089	drei	1	d r ei -
-095/091	NA	NA	- - - - - - -
+095/091	NA	NA	-
 095/093	treib	1	t r ei b
 095/095	trei	1	t r ei -
 095/097	trei	1	t r ei -
@@ -5120,7 +5120,7 @@
 095/101	dreib	1	d r ei b
 095/103	treib	1	t r ei b
 095/105	machn	2	m a ch - n
-095/107	NA	NA	- - - - - - -
+095/107	NA	NA	-
 095/109	trei	1	t r ei -
 095/111	trei	1	t r ei -
 095/113	macha	2	m a ch a -
@@ -5132,9 +5132,9 @@
 095/125	draü	1	d r aü -
 095/129	treib	1	t r ei b
 095/131	trei	1	t r ei -
-095/133	NA	NA	- - - - - - -
+095/133	NA	NA	-
 095/139	trei	1	t r ei -
-095/141	NA	NA	- - - - - - -
+095/141	NA	NA	-
 095/143	mochn	2	m o ch - n
 095/145	trei	1	t r ei -
 095/147	macha	2	m a ch a -
@@ -5148,7 +5148,7 @@
 096/037	triv	1	t r i v
 096/039	triw	1	t r i w
 096/041	triib	1	t r ii b
-096/043	NA	NA	- - - - - - -
+096/043	NA	NA	-
 096/045	driib	1	d r ii b
 096/047	trieb	1	t r ie b
 096/049	trib	1	t r i b
@@ -5159,7 +5159,7 @@
 096/059	treib	1	t r ei b
 096/061	drib	1	d r i b
 096/063	trieb	1	t r ie b
-096/065	NA	NA	- - - - - - -
+096/065	NA	NA	-
 096/067	treib	1	t r ei b
 096/069	treib	1	t r ei b
 096/071	treib	1	t r ei b
@@ -5178,24 +5178,24 @@
 096/099	trei	1	t r ei -
 096/101	treib	1	t r ei b
 096/103	treib	1	t r ei b
-096/105	NA	NA	- - - - - - -
+096/105	NA	NA	-
 096/107	treib	1	t r ei b
 096/109	treib	1	t r ei b
 096/111	maacha	2	m aa ch a -
 096/113	moacha	2	m oa ch a -
 096/115	mocha	2	m o ch a -
-096/117	NA	NA	- - - - - - -
+096/117	NA	NA	-
 096/119	traib	1	t r ai b
 096/121	treib	1	t r ei b
 096/123	drai	1	d r ai -
 096/125	drei	1	d r ei -
 096/129	trei	1	t r ei -
 096/131	trei	1	t r ei -
-096/135	NA	NA	- - - - - - -
-096/137	NA	NA	- - - - - - -
+096/135	NA	NA	-
+096/137	NA	NA	-
 096/139	trai	1	t r ai -
 096/141	trei	1	t r ei -
-096/143	NA	NA	- - - - - - -
+096/143	NA	NA	-
 096/145	trei	1	t r ei -
 096/147	trei	1	t r ei -
 096/151	teib	1	t - ei b
@@ -5222,7 +5222,7 @@
 097/067	treib	1	t r ei b
 097/069	treib	1	t r ei b
 097/071	treib	1	t r ei b
-097/073	NA	NA	- - - - - - -
+097/073	NA	NA	-
 097/075	treib	1	t r ei b
 097/077	macha	2	m a ch a -
 097/079	treib	1	t r ei b
@@ -5240,7 +5240,7 @@
 097/105	trei	1	t r ei -
 097/107	toa	1	t - oa -
 097/109	macha	2	m a ch a -
-097/113	NA	NA	- - - - - - -
+097/113	NA	NA	-
 097/125	sein	3	s ei n
 097/131	treib	1	t r ei b
 097/133	trei	1	t r ei -
@@ -5266,9 +5266,9 @@
 098/059	triib	1	t r ii b
 098/061	macha	2	m a ch a -
 098/063	trib	1	t r i b
-098/065	NA	NA	- - - - - - -
+098/065	NA	NA	-
 098/067	trib	1	t r i b
-098/069	NA	NA	- - - - - - -
+098/069	NA	NA	-
 098/071	triib	1	t r ii b
 098/073	mache	2	m a ch e -
 098/075	treib	1	t r ei b
@@ -5276,7 +5276,7 @@
 098/079	treib	1	t r ei b
 098/081	trei	1	t r ei -
 098/083	trei	1	t r ei -
-098/085	NA	NA	- - - - - - -
+098/085	NA	NA	-
 098/087	macha	2	m a ch a -
 098/089	dreib	1	d r ei b
 098/091	trei	1	t r ei -
@@ -5288,11 +5288,11 @@
 098/107	treib	1	t r ei b
 098/109	macha	2	m a ch a -
 098/111	mocha	2	m o ch a -
-098/119	NA	NA	- - - - - - -
+098/119	NA	NA	-
 098/123	trei	1	t r ei -
-098/125	NA	NA	- - - - - - -
-098/127	NA	NA	- - - - - - -
-098/135	NA	NA	- - - - - - -
+098/125	NA	NA	-
+098/127	NA	NA	-
+098/135	NA	NA	-
 098/137	machn	2	m a ch - n
 098/139	treib	1	t r ei b
 098/141	trei	1	t r ei -
@@ -5311,7 +5311,7 @@
 099/047	macha	2	m a ch a -
 099/049	drib	1	d r i b
 099/051	triib	1	t r ii b
-099/053	NA	NA	- - - - - - -
+099/053	NA	NA	-
 099/055	teib	1	t - ei b
 099/057	trieb	1	t r ie b
 099/059	trieb	1	t r ie b
@@ -5320,10 +5320,10 @@
 099/067	trib	1	t r i b
 099/069	trieb	1	t r ie b
 099/071	treib	1	t r ei b
-099/073	NA	NA	- - - - - - -
+099/073	NA	NA	-
 099/075	treib	1	t r ei b
-099/077	NA	NA	- - - - - - -
-099/081	NA	NA	- - - - - - -
+099/077	NA	NA	-
+099/081	NA	NA	-
 099/083	trei	1	t r ei -
 099/085	treib	1	t r ei b
 099/089	drei	1	d r ei -
@@ -5331,10 +5331,10 @@
 099/095	machn	2	m a ch - n
 099/099	treib	1	t r ei b
 099/101	treib	1	t r ei b
-099/103	NA	NA	- - - - - - -
+099/103	NA	NA	-
 099/105	trei	1	t r ei -
 099/107	machn	2	m a ch - n
-099/109	NA	NA	- - - - - - -
+099/109	NA	NA	-
 099/111	macha	2	m a ch a -
 099/113	trei	1	t r ei -
 099/121	trei	1	t r ei -
@@ -5346,15 +5346,15 @@
 099/141	trei	1	t r ei -
 099/143	mochn	2	m o ch - n
 099/145	trei	1	t r ei -
-099/147	NA	NA	- - - - - - -
+099/147	NA	NA	-
 100/033	triw	1	t r i w
 100/035	trib	1	t r i b
 100/037	trieb	1	t r ie b
 100/039	trib	1	t r i b
 100/041	triib	1	t r ii b
 100/043	mache	2	m a ch e -
-100/045	NA	NA	- - - - - - -
-100/049	NA	NA	- - - - - - -
+100/045	NA	NA	-
+100/049	NA	NA	-
 100/051	triib	1	t r ii b
 100/053	triib	1	t r ii b
 100/055	trib	1	t r i b
@@ -5370,23 +5370,23 @@
 100/077	draib	1	d r ai b
 100/081	trei	1	t r ei -
 100/083	treib	1	t r ei b
-100/089	NA	NA	- - - - - - -
+100/089	NA	NA	-
 100/093	trei	1	t r ei -
 100/095	trei	1	t r ei -
 100/097	trei	1	t r ei -
 100/099	trei	1	t r ei -
-100/101	NA	NA	- - - - - - -
+100/101	NA	NA	-
 100/109	treib	1	t r ei b
 100/111	trei	1	t r ei -
 100/113	treib	1	t r ei b
 100/115	treib	1	t r ei b
-100/117	NA	NA	- - - - - - -
+100/117	NA	NA	-
 100/119	mochn	2	m o ch - n
 100/121	moche	2	m o ch e -
 100/125	treib	1	t r ei b
 100/127	treib	1	t r ei b
-100/129	NA	NA	- - - - - - -
-100/133	NA	NA	- - - - - - -
+100/129	NA	NA	-
+100/133	NA	NA	-
 100/135	treib	1	t r ei b
 100/141	mocha	2	m o ch a -
 100/143	mocha	2	m o ch a -
@@ -5415,21 +5415,21 @@
 101/081	treib	1	t r ei b
 101/091	machn	2	m a ch - n
 101/093	drei	1	d r ei -
-101/095	NA	NA	- - - - - - -
+101/095	NA	NA	-
 101/097	treib	1	t r ei b
-101/099	NA	NA	- - - - - - -
-101/101	NA	NA	- - - - - - -
-101/103	NA	NA	- - - - - - -
+101/099	NA	NA	-
+101/101	NA	NA	-
+101/103	NA	NA	-
 101/107	machn	2	m a ch - n
 101/109	trei	1	t r ei -
 101/113	mochn	2	m o ch - n
 101/115	mochn	2	m o ch - n
-101/121	NA	NA	- - - - - - -
-101/125	NA	NA	- - - - - - -
+101/121	NA	NA	-
+101/125	NA	NA	-
 101/129	treib	1	t r ei b
 101/131	mochn	2	m o ch - n
 101/133	treib	1	t r ei b
-101/137	NA	NA	- - - - - - -
+101/137	NA	NA	-
 101/139	treib	1	t r ei b
 101/141	treib	1	t r ei b
 101/143	treib	1	t r ei b
@@ -5447,7 +5447,7 @@
 102/055	trib	1	t r i b
 102/057	trieb	1	t r ie b
 102/059	trib	1	t r i b
-102/061	NA	NA	- - - - - - -
+102/061	NA	NA	-
 102/063	trieb	1	t r ie b
 102/065	trib	1	t r i b
 102/067	trieb	1	t r ie b
@@ -5456,30 +5456,30 @@
 102/073	treib	1	t r ei b
 102/075	treib	1	t r ei b
 102/077	treib	1	t r ei b
-102/079	NA	NA	- - - - - - -
+102/079	NA	NA	-
 102/081	treib	1	t r ei b
 102/083	treib	1	t r ei b
 102/089	trei	1	t r ei -
 102/091	treib	1	t r ei b
 102/093	trei	1	t r ei -
-102/095	NA	NA	- - - - - - -
+102/095	NA	NA	-
 102/097	treib	1	t r ei b
-102/099	NA	NA	- - - - - - -
+102/099	NA	NA	-
 102/103	trei	1	t r ei -
-102/107	NA	NA	- - - - - - -
+102/107	NA	NA	-
 102/109	treib	1	t r ei b
 102/113	trei	1	t r ei -
-102/115	NA	NA	- - - - - - -
+102/115	NA	NA	-
 102/127	mochn	2	m o ch - n
 102/129	mochn	2	m o ch - n
 102/131	treib	1	t r ei b
 102/135	mochn	2	m o ch - n
 102/137	treib	1	t r ei b
-102/139	NA	NA	- - - - - - -
+102/139	NA	NA	-
 102/141	treib	1	t r ei b
 102/143	trai	1	t r ai -
 102/145	trai	1	t r ai -
-103/039	NA	NA	- - - - - - -
+103/039	NA	NA	-
 103/041	trib	1	t r i b
 103/043	trüb	1	t r ü b
 103/045	triib	1	t r ii b
@@ -5495,7 +5495,7 @@
 103/067	trib	1	t r i b
 103/069	trieb	1	t r ie b
 103/071	treib	1	t r ei b
-103/073	NA	NA	- - - - - - -
+103/073	NA	NA	-
 103/075	treib	1	t r ei b
 103/077	treib	1	t r ei b
 103/079	treib	1	t r ei b
@@ -5505,23 +5505,23 @@
 103/087	tuan	1	t - ua n
 103/089	treib	1	t r ei b
 103/091	trei	1	t r ei -
-103/097	NA	NA	- - - - - - -
-103/099	NA	NA	- - - - - - -
-103/101	NA	NA	- - - - - - -
+103/097	NA	NA	-
+103/099	NA	NA	-
+103/101	NA	NA	-
 103/105	trei	1	t r ei -
 103/107	mochn	2	m o ch - n
 103/111	treib	1	t r ei b
 103/121	mochn	2	m o ch - n
-103/125	NA	NA	- - - - - - -
+103/125	NA	NA	-
 103/127	mochn	2	m o ch - n
 103/131	drei	1	d r ei -
-103/133	NA	NA	- - - - - - -
+103/133	NA	NA	-
 103/135	treib	1	t r ei b
 103/137	treib	1	t r ei b
 103/139	trei	1	t r ei -
 103/141	trei	1	t r ei -
 103/143	trei	1	t r ei -
-103/145	NA	NA	- - - - - - -
+103/145	NA	NA	-
 104/033	trib	1	t r i b
 104/035	tryb	1	t r y b
 104/037	due	1	d - ue -
@@ -5532,11 +5532,11 @@
 104/047	mache	2	m a ch e -
 104/049	triib	1	t r ii b
 104/051	trib	1	t r i b
-104/053	NA	NA	- - - - - - -
+104/053	NA	NA	-
 104/055	trib	1	t r i b
 104/057	tryb	1	t r y b
 104/059	trib	1	t r i b
-104/061	NA	NA	- - - - - - -
+104/061	NA	NA	-
 104/063	trieb	1	t r ie b
 104/065	trieb	1	t r ie b
 104/067	macha	2	m a ch a -
@@ -5556,11 +5556,11 @@
 104/113	trei	1	t r ei -
 104/119	treib	1	t r ei b
 104/121	machn	2	m a ch - n
-104/123	NA	NA	- - - - - - -
-104/125	NA	NA	- - - - - - -
+104/123	NA	NA	-
+104/125	NA	NA	-
 104/127	mochn	2	m o ch - n
 104/131	treib	1	t r ei b
-104/133	NA	NA	- - - - - - -
+104/133	NA	NA	-
 104/135	toan	1	t - oa n
 104/137	treib	1	t r ei b
 104/139	treib	1	t r ei b
@@ -5570,7 +5570,7 @@
 105/031	tryb	1	t r y b
 105/033	trieb	1	t r ie b
 105/035	mache	2	m a ch e -
-105/037	NA	NA	- - - - - - -
+105/037	NA	NA	-
 105/039	trieb	1	t r ie b
 105/041	mache	2	m a ch e -
 105/043	trieb	1	t r ie b
@@ -5601,10 +5601,10 @@
 105/111	machn	2	m a ch - n
 105/113	treib	1	t r ei b
 105/115	treib	1	t r ei b
-105/117	NA	NA	- - - - - - -
+105/117	NA	NA	-
 105/119	mochn	2	m o ch - n
 105/121	mochn	2	m o ch - n
-105/125	NA	NA	- - - - - - -
+105/125	NA	NA	-
 105/127	treib	1	t r ei b
 105/131	treib	1	t r ei b
 105/133	trei	1	t r ei -
@@ -5635,18 +5635,18 @@
 106/079	treib	1	t r ei b
 106/081	treib	1	t r ei b
 106/085	treib	1	t r ei b
-106/087	NA	NA	- - - - - - -
+106/087	NA	NA	-
 106/093	traib	1	t r ai b
 106/097	treib	1	t r ei b
-106/099	NA	NA	- - - - - - -
+106/099	NA	NA	-
 106/103	treib	1	t r ei b
 106/111	treib	1	t r ei b
 106/115	mochn	2	m o ch - n
 106/121	treib	1	t r ei b
 106/123	treib	1	t r ei b
 106/125	treib	1	t r ei b
-106/129	NA	NA	- - - - - - -
-106/131	NA	NA	- - - - - - -
+106/129	NA	NA	-
+106/131	NA	NA	-
 106/133	treib	1	t r ei b
 106/135	toan	1	t - oa n
 106/137	mochn	2	m o ch - n
@@ -5679,15 +5679,15 @@
 107/097	mochin	2	m o ch i n
 107/099	treib	1	t r ei b
 107/103	treib	1	t r ei b
-107/105	NA	NA	- - - - - - -
+107/105	NA	NA	-
 107/107	treib	1	t r ei b
 107/111	treib	1	t r ei b
 107/119	treib	1	t r ei b
 107/121	treib	1	t r ei b
 107/123	machn	2	m a ch - n
-107/125	NA	NA	- - - - - - -
-107/127	NA	NA	- - - - - - -
-107/129	NA	NA	- - - - - - -
+107/125	NA	NA	-
+107/127	NA	NA	-
+107/129	NA	NA	-
 107/131	trei	1	t r ei -
 107/133	treib	1	t r ei b
 107/135	mochn	2	m o ch - n
@@ -5696,14 +5696,14 @@
 107/141	trei	1	t r ei -
 107/143	mochn	2	m o ch - n
 108/033	trib	1	t r i b
-108/035	NA	NA	- - - - - - -
+108/035	NA	NA	-
 108/037	mache	2	m a ch e -
 108/039	tryb	1	t r y b
 108/041	tue	1	t - ue -
 108/043	trib	1	t r i b
 108/047	triib	1	t r ii b
 108/049	treib	1	t r ei b
-108/063	NA	NA	- - - - - - -
+108/063	NA	NA	-
 108/065	trieb	1	t r ie b
 108/067	trieb	1	t r ie b
 108/075	treib	1	t r ei b
@@ -5712,16 +5712,16 @@
 108/085	mochen	2	m o ch e n
 108/087	traib	1	t r ai b
 108/091	tia	1	t - ia -
-108/099	NA	NA	- - - - - - -
+108/099	NA	NA	-
 108/101	treib	1	t r ei b
 108/103	treib	1	t r ei b
 108/105	treib	1	t r ei b
 108/109	treib	1	t r ei b
 108/111	treib	1	t r ei b
 108/113	mochn	2	m o ch - n
-108/117	NA	NA	- - - - - - -
+108/117	NA	NA	-
 108/119	treib	1	t r ei b
-108/121	NA	NA	- - - - - - -
+108/121	NA	NA	-
 108/123	treib	1	t r ei b
 108/125	treib	1	t r ei b
 108/127	treib	1	t r ei b
@@ -5747,26 +5747,26 @@
 109/075	machn	2	m a ch - n
 109/083	tian	1	t - ia n
 109/087	traib	1	t r ai b
-109/089	NA	NA	- - - - - - -
+109/089	NA	NA	-
 109/091	traib	1	t r ai b
 109/093	treib	1	t r ei b
-109/095	NA	NA	- - - - - - -
+109/095	NA	NA	-
 109/097	treib	1	t r ei b
 109/099	treib	1	t r ei b
 109/101	traiw	1	t r ai w
 109/103	treib	1	t r ei b
 109/107	treib	1	t r ei b
-109/109	NA	NA	- - - - - - -
+109/109	NA	NA	-
 109/111	machn	2	m a ch - n
 109/113	treib	1	t r ei b
 109/115	treib	1	t r ei b
-109/117	NA	NA	- - - - - - -
+109/117	NA	NA	-
 109/119	treib	1	t r ei b
 109/121	treib	1	t r ei b
-109/123	NA	NA	- - - - - - -
+109/123	NA	NA	-
 109/125	treib	1	t r ei b
-109/127	NA	NA	- - - - - - -
-109/129	NA	NA	- - - - - - -
+109/127	NA	NA	-
+109/129	NA	NA	-
 109/131	treib	1	t r ei b
 109/133	toa	1	t - oa -
 109/135	traib	1	t r ai b
@@ -5783,7 +5783,7 @@
 110/061	trieb	1	t r ie b
 110/065	trib	1	t r i b
 110/075	machn	2	m a ch - n
-110/079	NA	NA	- - - - - - -
+110/079	NA	NA	-
 110/081	treib	1	t r ei b
 110/083	treib	1	t r ei b
 110/087	treib	1	t r ei b
@@ -5801,14 +5801,14 @@
 110/115	mochn	2	m o ch - n
 110/117	mochn	2	m o ch - n
 110/119	traib	1	t r ai b
-110/121	NA	NA	- - - - - - -
+110/121	NA	NA	-
 110/125	treib	1	t r ei b
 110/127	machn	2	m a ch - n
-110/129	NA	NA	- - - - - - -
-110/131	NA	NA	- - - - - - -
+110/129	NA	NA	-
+110/131	NA	NA	-
 110/133	treib	1	t r ei b
 110/135	treib	1	t r ei b
-110/137	NA	NA	- - - - - - -
+110/137	NA	NA	-
 110/139	mochn	2	m o ch - n
 111/035	trieb	1	t r ie b
 111/037	tryb	1	t r y b
@@ -5830,10 +5830,10 @@
 111/109	machn	2	m a ch - n
 111/111	treib	1	t r ei b
 111/113	machn	2	m a ch - n
-111/115	NA	NA	- - - - - - -
+111/115	NA	NA	-
 111/117	maachen	2	m aa ch e n
 111/119	traib	1	t r ai b
-111/121	NA	NA	- - - - - - -
+111/121	NA	NA	-
 111/123	treib	1	t r ei b
 111/125	trei	1	t r ei -
 112/037	trib	1	t r i b
@@ -5844,7 +5844,7 @@
 112/059	macha	2	m a ch a -
 112/061	trib	1	t r i b
 112/063	trib	1	t r i b
-112/075	NA	NA	- - - - - - -
+112/075	NA	NA	-
 112/081	treib	1	t r ei b
 112/083	tia	1	t - ia -
 112/085	mochn	2	m o ch - n
@@ -5879,11 +5879,11 @@
 117/045	trib	1	t r i b
 118/041	trib	1	t r i b
 119/083	treib	1	t r ei b
-120/085	NA	NA	- - - - - - -
+120/085	NA	NA	-
 121/127	treib	1	t r ei b
 122/127	traib	1	t r ai b
 122/129	treib	1	t r ei b
-123/081	NA	NA	- - - - - - -
+123/081	NA	NA	-
 123/123	treib	1	t r ei b
 123/125	treib	1	t r ei b
 123/127	treib	1	t r ei b

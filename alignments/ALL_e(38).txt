@@ -45,9 +45,9 @@ locations	strings	cognateID	alignments
 011/059	oll	1	- o ll -
 011/061	ol	1	- o l -
 011/063	ol	1	- o l -
-011/065	NA	NA	- - - -
+011/065	NA	NA	-
 011/067	oll	1	- o ll -
-011/069	NA	NA	- - - -
+011/069	NA	NA	-
 011/187	all	1	- a ll -
 011/189	all	1	- a ll -
 011/191	all	1	- a ll -
@@ -64,15 +64,15 @@ locations	strings	cognateID	alignments
 011/219	all	1	- a ll -
 012/047	al	1	- a l -
 012/049	all	1	- a ll -
-012/051	NA	NA	- - - -
+012/051	NA	NA	-
 012/053	ol	1	- o l -
-012/055	NA	NA	- - - -
+012/055	NA	NA	-
 012/057	ol	1	- o l -
 012/059	ol	1	- o l -
 012/061	ol	1	- o l -
 012/063	aal	1	- aa l -
 012/065	ol	1	- o l -
-012/067	NA	NA	- - - -
+012/067	NA	NA	-
 012/069	ol	1	- o l -
 012/187	all	1	- a ll -
 012/189	all	1	- a ll -
@@ -226,7 +226,7 @@ locations	strings	cognateID	alignments
 016/161	all	1	- a ll -
 016/163	all	1	- a ll -
 016/165	all	1	- a ll -
-016/167	NA	NA	- - - -
+016/167	NA	NA	-
 016/187	all	1	- a ll -
 016/189	all	1	- a ll -
 016/191	all	1	- a ll -
@@ -291,7 +291,7 @@ locations	strings	cognateID	alignments
 017/217	all	1	- a ll -
 017/219	all	1	- a ll -
 018/051	all	1	- a ll -
-018/053	NA	NA	- - - -
+018/053	NA	NA	-
 018/055	all	1	- a ll -
 018/057	all	1	- a ll -
 018/059	all	1	- a ll -
@@ -684,7 +684,7 @@ locations	strings	cognateID	alignments
 023/215	all	1	- a ll -
 023/217	all	1	- a ll -
 024/053	all	1	- a ll -
-024/057	NA	NA	- - - -
+024/057	NA	NA	-
 024/059	all	1	- a ll -
 024/061	all	1	- a ll -
 024/063	all	1	- a ll -
@@ -749,7 +749,7 @@ locations	strings	cognateID	alignments
 024/191	all	1	- a ll -
 024/193	all	1	- a ll -
 024/195	all	1	- a ll -
-024/197	NA	NA	- - - -
+024/197	NA	NA	-
 024/199	all	1	- a ll -
 024/201	all	1	- a ll -
 024/203	all	1	- a ll -
@@ -757,7 +757,7 @@ locations	strings	cognateID	alignments
 024/221	all	1	- a ll -
 025/043	all	1	- a ll -
 025/051	all	1	- a ll -
-025/053	NA	NA	- - - -
+025/053	NA	NA	-
 025/055	all	1	- a ll -
 025/057	all	1	- a ll -
 025/059	all	1	- a ll -
@@ -894,7 +894,7 @@ locations	strings	cognateID	alignments
 027/047	all	1	- a ll -
 027/051	all	1	- a ll -
 027/053	all	1	- a ll -
-027/055	NA	NA	- - - -
+027/055	NA	NA	-
 027/057	all	1	- a ll -
 027/059	all	1	- a ll -
 027/061	all	1	- a ll -
@@ -940,7 +940,7 @@ locations	strings	cognateID	alignments
 027/147	all	1	- a ll -
 027/149	all	1	- a ll -
 027/151	all	1	- a ll -
-027/153	NA	NA	- - - -
+027/153	NA	NA	-
 027/155	all	1	- a ll -
 027/157	all	1	- a ll -
 027/159	all	1	- a ll -
@@ -1066,7 +1066,7 @@ locations	strings	cognateID	alignments
 029/109	all	1	- a ll -
 029/111	all	1	- a ll -
 029/113	all	1	- a ll -
-029/115	NA	NA	- - - -
+029/115	NA	NA	-
 029/117	all	1	- a ll -
 029/119	all	1	- a ll -
 029/121	all	1	- a ll -
@@ -1111,7 +1111,7 @@ locations	strings	cognateID	alignments
 030/051	all	1	- a ll -
 030/053	all	1	- a ll -
 030/055	all	1	- a ll -
-030/057	NA	NA	- - - -
+030/057	NA	NA	-
 030/059	all	1	- a ll -
 030/061	all	1	- a ll -
 030/065	all	1	- a ll -
@@ -1356,7 +1356,7 @@ locations	strings	cognateID	alignments
 033/113	all	1	- a ll -
 033/115	all	1	- a ll -
 033/117	all	1	- a ll -
-033/119	NA	NA	- - - -
+033/119	NA	NA	-
 033/121	all	1	- a ll -
 033/123	all	1	- a ll -
 033/125	all	1	- a ll -
@@ -1678,7 +1678,7 @@ locations	strings	cognateID	alignments
 038/099	all	1	- a ll -
 038/101	all	1	- a ll -
 038/103	all	1	- a ll -
-038/105	NA	NA	- - - -
+038/105	NA	NA	-
 038/107	all	1	- a ll -
 038/109	all	1	- a ll -
 038/111	all	1	- a ll -
@@ -1782,7 +1782,7 @@ locations	strings	cognateID	alignments
 040/061	all	1	- a ll -
 040/063	all	1	- a ll -
 040/065	all	1	- a ll -
-040/067	NA	NA	- - - -
+040/067	NA	NA	-
 040/069	all	1	- a ll -
 040/071	all	1	- a ll -
 040/073	all	1	- a ll -
@@ -1876,7 +1876,7 @@ locations	strings	cognateID	alignments
 041/133	oll	1	- o ll -
 041/135	oll	1	- o ll -
 041/139	all	1	- a ll -
-041/141	NA	NA	- - - -
+041/141	NA	NA	-
 041/145	all	1	- a ll -
 041/147	oll	1	- o ll -
 041/153	all	1	- a ll -
@@ -1935,14 +1935,14 @@ locations	strings	cognateID	alignments
 042/131	oll	1	- o ll -
 042/133	oll	1	- o ll -
 042/135	oll	1	- o ll -
-042/137	NA	NA	- - - -
+042/137	NA	NA	-
 042/139	oll	1	- o ll -
 042/141	oll	1	- o ll -
 042/143	oll	1	- o ll -
 042/145	oll	1	- o ll -
 042/147	oll	1	- o ll -
 042/149	oll	1	- o ll -
-042/151	NA	NA	- - - -
+042/151	NA	NA	-
 042/157	all	1	- a ll -
 042/159	all	1	- a ll -
 042/161	all	1	- a ll -
@@ -1983,7 +1983,7 @@ locations	strings	cognateID	alignments
 043/101	all	1	- a ll -
 043/103	all	1	- a ll -
 043/105	all	1	- a ll -
-043/107	NA	NA	- - - -
+043/107	NA	NA	-
 043/109	all	1	- a ll -
 043/111	all	1	- a ll -
 043/113	all	1	- a ll -
@@ -2266,7 +2266,7 @@ locations	strings	cognateID	alignments
 048/073	all	1	- a ll -
 048/075	all	1	- a ll -
 048/077	all	1	- a ll -
-048/079	NA	NA	- - - -
+048/079	NA	NA	-
 048/081	all	1	- a ll -
 048/083	all	1	- a ll -
 048/085	all	1	- a ll -
@@ -2577,7 +2577,7 @@ locations	strings	cognateID	alignments
 053/033	all	1	- a ll -
 053/035	all	1	- a ll -
 053/037	all	1	- a ll -
-053/039	NA	NA	- - - -
+053/039	NA	NA	-
 053/041	al	1	- a l -
 053/043	all	1	- a ll -
 053/045	all	1	- a ll -
@@ -2708,7 +2708,7 @@ locations	strings	cognateID	alignments
 055/023	all	1	- a ll -
 055/025	all	1	- a ll -
 055/027	all	1	- a ll -
-055/029	NA	NA	- - - -
+055/029	NA	NA	-
 055/031	all	1	- a ll -
 055/033	all	1	- a ll -
 055/035	all	1	- a ll -
@@ -2822,12 +2822,12 @@ locations	strings	cognateID	alignments
 056/113	oall	1	- oa ll -
 056/115	oall	1	- oa ll -
 056/117	oll	1	- o ll -
-056/121	NA	NA	- - - -
+056/121	NA	NA	-
 056/123	oll	1	- o ll -
 056/125	oll	1	- o ll -
 056/127	oll	1	- o ll -
 056/129	oll	1	- o ll -
-056/131	NA	NA	- - - -
+056/131	NA	NA	-
 056/133	oll	1	- o ll -
 056/135	oll	1	- o ll -
 056/137	oll	1	- o ll -
@@ -2999,7 +2999,7 @@ locations	strings	cognateID	alignments
 059/041	al	1	- a l -
 059/043	all	1	- a ll -
 059/045	all	1	- a ll -
-059/047	NA	NA	- - - -
+059/047	NA	NA	-
 059/049	all	1	- a ll -
 059/051	all	1	- a ll -
 059/053	oll	1	- o ll -
@@ -3292,7 +3292,7 @@ locations	strings	cognateID	alignments
 063/055	all	1	- a ll -
 063/057	all	1	- a ll -
 063/059	all	1	- a ll -
-063/061	NA	NA	- - - -
+063/061	NA	NA	-
 063/063	all	1	- a ll -
 063/065	all	1	- a ll -
 063/067	all	1	- a ll -
@@ -3607,7 +3607,7 @@ locations	strings	cognateID	alignments
 068/053	ahl	1	- ah l -
 068/055	all	1	- a ll -
 068/057	all	1	- a ll -
-068/059	NA	NA	- - - -
+068/059	NA	NA	-
 068/061	all	1	- a ll -
 068/063	all	1	- a ll -
 068/065	all	1	- a ll -
@@ -3736,7 +3736,7 @@ locations	strings	cognateID	alignments
 070/089	all	1	- a ll -
 070/091	all	1	- a ll -
 070/093	all	1	- a ll -
-070/095	NA	NA	- - - -
+070/095	NA	NA	-
 070/097	ohl	1	- oh l -
 070/099	oll	1	- o ll -
 070/101	oll	1	- o ll -
@@ -3809,7 +3809,7 @@ locations	strings	cognateID	alignments
 071/157	oll	1	- o ll -
 071/159	oll	1	- o ll -
 071/161	oll	1	- o ll -
-071/163	NA	NA	- - - -
+071/163	NA	NA	-
 071/177	ol	1	- o l -
 071/179	all	1	- a ll -
 072/017	all	1	- a ll -
@@ -3927,7 +3927,7 @@ locations	strings	cognateID	alignments
 073/161	oll	1	- o ll -
 073/163	oll	1	- o ll -
 073/165	all	1	- a ll -
-073/175	NA	NA	- - - -
+073/175	NA	NA	-
 073/177	oll	1	- o ll -
 074/019	all	1	- a ll -
 074/021	all	1	- a ll -
@@ -3971,7 +3971,7 @@ locations	strings	cognateID	alignments
 074/097	oll	1	- o ll -
 074/099	oal	1	- oa l -
 074/101	oll	1	- o ll -
-074/103	NA	NA	- - - -
+074/103	NA	NA	-
 074/105	oll	1	- o ll -
 074/107	ull	1	- u ll -
 074/109	oll	1	- o ll -
@@ -4312,7 +4312,7 @@ locations	strings	cognateID	alignments
 081/095	all	1	- a ll -
 081/097	all	1	- a ll -
 081/099	all	1	- a ll -
-081/101	NA	NA	- - - -
+081/101	NA	NA	-
 081/103	aj	1	- aj - -
 081/105	all	1	- a ll -
 081/107	oll	1	- o ll -
@@ -4419,7 +4419,7 @@ locations	strings	cognateID	alignments
 083/105	oll	1	- o ll -
 083/107	all	1	- a ll -
 083/111	ul	1	- u l -
-083/113	NA	NA	- - - -
+083/113	NA	NA	-
 083/115	ull	1	- u ll -
 083/117	ull	1	- u ll -
 083/119	ull	1	- u ll -
@@ -4446,7 +4446,7 @@ locations	strings	cognateID	alignments
 084/047	aall	1	- aa ll -
 084/049	all	1	- a ll -
 084/051	all	1	- a ll -
-084/053	NA	NA	- - - -
+084/053	NA	NA	-
 084/055	all	1	- a ll -
 084/057	äll	1	- ä ll -
 084/059	äll	1	- ä ll -
@@ -4600,7 +4600,7 @@ locations	strings	cognateID	alignments
 086/115	oll	1	- o ll -
 086/117	ull	1	- u ll -
 086/119	all	1	- a ll -
-086/121	NA	NA	- - - -
+086/121	NA	NA	-
 086/123	ull	1	- u ll -
 086/125	ull	1	- u ll -
 086/127	oll	1	- o ll -
@@ -4726,7 +4726,7 @@ locations	strings	cognateID	alignments
 088/137	ooll	1	- oo ll -
 088/139	ol	1	- o l -
 088/141	oll	1	- o ll -
-088/143	NA	NA	- - - -
+088/143	NA	NA	-
 088/145	all	1	- a ll -
 088/147	oll	1	- o ll -
 088/149	ol	1	- o l -
@@ -4808,7 +4808,7 @@ locations	strings	cognateID	alignments
 090/069	ell	1	- e ll -
 090/071	all	1	- a ll -
 090/073	all	1	- a ll -
-090/075	NA	NA	- - - -
+090/075	NA	NA	-
 090/077	all	1	- a ll -
 090/079	all	1	- a ll -
 090/081	ol	1	- o l -
@@ -4818,7 +4818,7 @@ locations	strings	cognateID	alignments
 090/089	oi	1	- oi - -
 090/091	oi	1	- oi - -
 090/093	oai	1	- oai - -
-090/095	NA	NA	- - - -
+090/095	NA	NA	-
 090/097	oi	1	- oi - -
 090/099	all	1	- a ll -
 090/101	all	1	- a ll -
@@ -4841,7 +4841,7 @@ locations	strings	cognateID	alignments
 090/137	äll	1	- ä ll -
 090/139	oll	1	- o ll -
 090/141	oll	1	- o ll -
-090/143	NA	NA	- - - -
+090/143	NA	NA	-
 090/145	oll	1	- o ll -
 090/147	all	1	- a ll -
 090/149	oll	1	- o ll -
@@ -4859,7 +4859,7 @@ locations	strings	cognateID	alignments
 091/055	äll	1	- ä ll -
 091/057	all	1	- a ll -
 091/059	äll	1	- ä ll -
-091/061	NA	NA	- - - -
+091/061	NA	NA	-
 091/063	äll	1	- ä ll -
 091/065	ell	1	- e ll -
 091/067	äll	1	- ä ll -
@@ -4895,7 +4895,7 @@ locations	strings	cognateID	alignments
 091/133	oll	1	- o ll -
 091/135	oll	1	- o ll -
 091/137	all	1	- a ll -
-091/139	NA	NA	- - - -
+091/139	NA	NA	-
 091/141	oll	1	- o ll -
 091/143	ol	1	- o l -
 091/145	oll	1	- o ll -
@@ -4948,7 +4948,7 @@ locations	strings	cognateID	alignments
 092/117	oll	1	- o ll -
 092/119	all	1	- a ll -
 092/121	all	1	- a ll -
-092/123	NA	NA	- - - -
+092/123	NA	NA	-
 092/125	oil	1	- oi l -
 092/127	oill	1	- oi ll -
 092/129	oll	1	- o ll -
@@ -5059,7 +5059,7 @@ locations	strings	cognateID	alignments
 094/103	oill	1	- oi ll -
 094/105	oi	1	- oi - -
 094/107	oll	1	- o ll -
-094/109	NA	NA	- - - -
+094/109	NA	NA	-
 094/111	all	1	- a ll -
 094/113	a	1	- a - -
 094/115	oll	1	- o ll -
@@ -5127,7 +5127,7 @@ locations	strings	cognateID	alignments
 095/115	oll	1	- o ll -
 095/117	oll	1	- o ll -
 095/119	oll	1	- o ll -
-095/121	NA	NA	- - - -
+095/121	NA	NA	-
 095/123	oll	1	- o ll -
 095/125	oil	1	- oi l -
 095/129	oll	1	- o ll -
@@ -5170,7 +5170,7 @@ locations	strings	cognateID	alignments
 096/083	oll	1	- o ll -
 096/085	oi	1	- oi - -
 096/087	oi	1	- oi - -
-096/089	NA	NA	- - - -
+096/089	NA	NA	-
 096/091	oi	1	- oi - -
 096/093	oi	1	- oi - -
 096/095	oi	1	- oi - -
@@ -5219,7 +5219,7 @@ locations	strings	cognateID	alignments
 097/061	all	1	- a ll -
 097/063	äll	1	- ä ll -
 097/065	all	1	- a ll -
-097/067	NA	NA	- - - -
+097/067	NA	NA	-
 097/069	all	1	- a ll -
 097/071	all	1	- a ll -
 097/073	all	1	- a ll -
@@ -5228,7 +5228,7 @@ locations	strings	cognateID	alignments
 097/079	all	1	- a ll -
 097/081	all	1	- a ll -
 097/083	oll	1	- o ll -
-097/085	NA	NA	- - - -
+097/085	NA	NA	-
 097/087	oi	1	- oi - -
 097/089	all	1	- a ll -
 097/091	oi	1	- oi - -
@@ -5279,14 +5279,14 @@ locations	strings	cognateID	alignments
 098/085	aal	1	- aa l -
 098/087	aö	1	- aö - -
 098/089	all	1	- a ll -
-098/091	NA	NA	- - - -
+098/091	NA	NA	-
 098/093	oi	1	- oi - -
 098/095	oi	1	- oi - -
 098/097	all	1	- a ll -
 098/103	all	1	- a ll -
 098/105	all	1	- a ll -
 098/107	oll	1	- o ll -
-098/109	NA	NA	- - - -
+098/109	NA	NA	-
 098/111	all	1	- a ll -
 098/119	oll	1	- o ll -
 098/123	oll	1	- o ll -
@@ -5323,7 +5323,7 @@ locations	strings	cognateID	alignments
 099/073	all	1	- a ll -
 099/075	all	1	- a ll -
 099/077	all	1	- a ll -
-099/081	NA	NA	- - - -
+099/081	NA	NA	-
 099/083	all	1	- a ll -
 099/085	oll	1	- o ll -
 099/089	oai	1	- oai - -
@@ -5332,8 +5332,8 @@ locations	strings	cognateID	alignments
 099/099	oi	1	- oi - -
 099/101	all	1	- a ll -
 099/103	oi	1	- oi - -
-099/105	NA	NA	- - - -
-099/107	NA	NA	- - - -
+099/105	NA	NA	-
+099/107	NA	NA	-
 099/109	oi	1	- oi - -
 099/111	oe	1	- oe - -
 099/113	oö	1	- oö - -
@@ -5379,7 +5379,7 @@ locations	strings	cognateID	alignments
 100/109	oll	1	- o ll -
 100/111	all	1	- a ll -
 100/113	oll	1	- o ll -
-100/115	NA	NA	- - - -
+100/115	NA	NA	-
 100/117	oi	1	- oi - -
 100/119	oll	1	- o ll -
 100/121	oll	1	- o ll -
@@ -5443,7 +5443,7 @@ locations	strings	cognateID	alignments
 102/047	auwi	1	- auw i -
 102/049	all	1	- a ll -
 102/051	all	1	- a ll -
-102/053	NA	NA	- - - -
+102/053	NA	NA	-
 102/055	all	1	- a ll -
 102/057	all	1	- a ll -
 102/059	al	1	- a l -
@@ -5553,7 +5553,7 @@ locations	strings	cognateID	alignments
 104/103	oi	1	- oi - -
 104/107	ai	1	- ai - -
 104/111	ol	1	- o l -
-104/113	NA	NA	- - - -
+104/113	NA	NA	-
 104/119	oll	1	- o ll -
 104/121	oll	1	- o ll -
 104/123	all	1	- a ll -
@@ -5616,7 +5616,7 @@ locations	strings	cognateID	alignments
 106/033	all	1	- a ll -
 106/035	aui	1	- aui - -
 106/037	auui	1	- auui - -
-106/039	NA	NA	- - - -
+106/039	NA	NA	-
 106/041	au	1	- au - -
 106/043	aw	1	- aw - -
 106/045	aui	1	- aui - -
@@ -5685,7 +5685,7 @@ locations	strings	cognateID	alignments
 107/119	ol	1	- o l -
 107/121	ol	1	- o l -
 107/123	all	1	- a ll -
-107/125	NA	NA	- - - -
+107/125	NA	NA	-
 107/127	oll	1	- o ll -
 107/129	oll	1	- o ll -
 107/131	oll	1	- o ll -
@@ -5699,11 +5699,11 @@ locations	strings	cognateID	alignments
 108/035	aui	1	- aui - -
 108/037	aui	1	- aui - -
 108/039	aui	1	- aui - -
-108/041	NA	NA	- - - -
+108/041	NA	NA	-
 108/043	aui	1	- aui - -
 108/047	all	1	- a ll -
 108/049	all	1	- a ll -
-108/063	NA	NA	- - - -
+108/063	NA	NA	-
 108/065	all	1	- a ll -
 108/067	all	1	- a ll -
 108/075	ooll	1	- oo ll -
@@ -5749,7 +5749,7 @@ locations	strings	cognateID	alignments
 109/087	aall	1	- aa ll -
 109/089	oll	1	- o ll -
 109/091	oll	1	- o ll -
-109/093	NA	NA	- - - -
+109/093	NA	NA	-
 109/095	oll	1	- o ll -
 109/097	oll	1	- o ll -
 109/099	all	1	- a ll -

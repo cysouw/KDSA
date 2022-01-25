@@ -1876,7 +1876,7 @@
 041/133	beiss	1	b ei - ss - -
 041/135	beiss	1	b ei - ss - -
 041/139	beiss	1	b ei - ss - -
-041/141	NA	NA	- - - - - -
+041/141	NA	NA	-
 041/145	beiss	1	b ei - ss - -
 041/147	baiss	1	b ai - ss - -
 041/153	bit	1	b i - t - -
@@ -1995,7 +1995,7 @@
 043/125	beiss	1	b ei - ss - -
 043/127	beiss	1	b ei - ss - -
 043/129	beiss	1	b ei - ss - -
-043/131	NA	NA	- - - - - -
+043/131	NA	NA	-
 043/133	beiss	1	b ei - ss - -
 043/135	beiss	1	b ei - ss - -
 043/137	baiss	1	b ai - ss - -
@@ -2324,7 +2324,7 @@
 049/059	buit	1	b ui - t - -
 049/061	boit	1	b oi - t - -
 049/063	bööit	1	b ööi - t - -
-049/065	NA	NA	- - - - - -
+049/065	NA	NA	-
 049/067	boit	1	b oi - t - -
 049/069	bäit	1	b äi - t - -
 049/071	bäit	1	b äi - t - -
@@ -3544,7 +3544,7 @@
 067/047	beiss	1	b ei - ss - -
 067/049	beiss	1	b ei - ss - -
 067/051	beis	1	b ei - s - -
-067/053	NA	NA	- - - - - -
+067/053	NA	NA	-
 067/055	beis	1	b ei - s - -
 067/057	bais	1	b ai - s - -
 067/059	beiss	1	b ei - ss - -
@@ -3701,7 +3701,7 @@
 069/165	beiss	1	b ei - ss - -
 070/019	bäiss	1	b äi - ss - -
 070/023	beiss	1	b ei - ss - -
-070/025	NA	NA	- - - - - -
+070/025	NA	NA	-
 070/027	beiss	1	b ei - ss - -
 070/029	beiss	1	b ei - ss - -
 070/031	beiss	1	b ei - ss - -
@@ -4398,7 +4398,7 @@
 083/063	beiss	1	b ei - ss - -
 083/065	beiss	1	b ei - ss - -
 083/067	beis	1	b ei - s - -
-083/069	NA	NA	- - - - - -
+083/069	NA	NA	-
 083/071	beiss	1	b ei - ss - -
 083/073	beiass	1	b eia - ss - -
 083/075	beiss	1	b ei - ss - -
@@ -4481,7 +4481,7 @@
 084/117	beiss	1	b ei - ss - -
 084/119	beiss	1	b ei - ss - -
 084/129	beiss	1	b ei - ss - -
-084/131	NA	NA	- - - - - -
+084/131	NA	NA	-
 084/133	beiss	1	b ei - ss - -
 084/135	beiss	1	b ei - ss - -
 084/137	beiss	1	b ei - ss - -
@@ -4717,7 +4717,7 @@
 088/109	beiss	1	b ei - ss - -
 088/113	beiss	1	b ei - ss - -
 088/115	beiss	1	b ei - ss - -
-088/117	NA	NA	- - - - - -
+088/117	NA	NA	-
 088/121	beiss	1	b ei - ss - -
 088/123	beiss	1	b ei - ss - -
 088/127	beiss	1	b ei - ss - -
@@ -4776,16 +4776,16 @@
 089/121	beiss	1	b ei - ss - -
 089/123	beiss	1	b ei - ss - -
 089/125	beiss	1	b ei - ss - -
-089/127	NA	NA	- - - - - -
+089/127	NA	NA	-
 089/129	beiss	1	b ei - ss - -
 089/131	beiss	1	b ei - ss - -
 089/133	beiss	1	b ei - ss - -
 089/135	beiss	1	b ei - ss - -
 089/137	beiss	1	b ei - ss - -
-089/139	NA	NA	- - - - - -
+089/139	NA	NA	-
 089/141	beiss	1	b ei - ss - -
 089/143	beiss	1	b ei - ss - -
-089/145	NA	NA	- - - - - -
+089/145	NA	NA	-
 089/147	beis	1	b ei - s - -
 089/149	beiss	1	b ei - ss - -
 090/035	biss	1	b i - ss - -
@@ -5046,7 +5046,7 @@
 094/077	bäiss	1	b äi - ss - -
 094/079	beiss	1	b ei - ss - -
 094/081	beiss	1	b ei - ss - -
-094/083	NA	NA	- - - - - -
+094/083	NA	NA	-
 094/085	beiss	1	b ei - ss - -
 094/087	beiss	1	b ei - ss - -
 094/089	beiss	1	b ei - ss - -
@@ -5163,7 +5163,7 @@
 096/067	beiss	1	b ei - ss - -
 096/069	beiss	1	b ei - ss - -
 096/071	beiss	1	b ei - ss - -
-096/075	NA	NA	- - - - - -
+096/075	NA	NA	-
 096/077	beiss	1	b ei - ss - -
 096/079	beiss	1	b ei - ss - -
 096/081	beiss	1	b ei - ss - -
@@ -5191,7 +5191,7 @@
 096/125	beiss	1	b ei - ss - -
 096/129	beiss	1	b ei - ss - -
 096/131	beiss	1	b ei - ss - -
-096/135	NA	NA	- - - - - -
+096/135	NA	NA	-
 096/137	beiss	1	b ei - ss - -
 096/139	beiss	1	b ei - ss - -
 096/141	beiss	1	b ei - ss - -
@@ -5224,7 +5224,7 @@
 097/071	beiss	1	b ei - ss - -
 097/073	beuss	1	b eu - ss - -
 097/075	beiss	1	b ei - ss - -
-097/077	NA	NA	- - - - - -
+097/077	NA	NA	-
 097/079	beiss	1	b ei - ss - -
 097/081	beiss	1	b ei - ss - -
 097/083	beiss	1	b ei - ss - -
@@ -5386,7 +5386,7 @@
 100/125	beiss	1	b ei - ss - -
 100/127	beiss	1	b ei - ss - -
 100/129	beiss	1	b ei - ss - -
-100/133	NA	NA	- - - - - -
+100/133	NA	NA	-
 100/135	beiss	1	b ei - ss - -
 100/141	beiss	1	b ei - ss - -
 100/143	beiss	1	b ei - ss - -
@@ -5424,7 +5424,7 @@
 101/109	beiss	1	b ei - ss - -
 101/113	beis	1	b ei - s - -
 101/115	beiss	1	b ei - ss - -
-101/121	NA	NA	- - - - - -
+101/121	NA	NA	-
 101/125	beiss	1	b ei - ss - -
 101/129	beiss	1	b ei - ss - -
 101/131	beiss	1	b ei - ss - -
@@ -5460,7 +5460,7 @@
 102/081	beiss	1	b ei - ss - -
 102/083	beiss	1	b ei - ss - -
 102/089	beiss	1	b ei - ss - -
-102/091	NA	NA	- - - - - -
+102/091	NA	NA	-
 102/093	beiss	1	b ei - ss - -
 102/095	beiss	1	b ei - ss - -
 102/097	bäiss	1	b äi - ss - -
@@ -5511,7 +5511,7 @@
 103/105	beiss	1	b ei - ss - -
 103/107	bais	1	b ai - s - -
 103/111	beiss	1	b ei - ss - -
-103/121	NA	NA	- - - - - -
+103/121	NA	NA	-
 103/125	beiss	1	b ei - ss - -
 103/127	beiss	1	b ei - ss - -
 103/131	beiss	1	b ei - ss - -
@@ -5547,7 +5547,7 @@
 104/081	beiss	1	b ei - ss - -
 104/083	beiss	1	b ei - ss - -
 104/085	beiss	1	b ei - ss - -
-104/091	NA	NA	- - - - - -
+104/091	NA	NA	-
 104/095	beiss	1	b ei - ss - -
 104/101	beiss	1	b ei - ss - -
 104/103	beiss	1	b ei - ss - -
@@ -5556,7 +5556,7 @@
 104/113	beiss	1	b ei - ss - -
 104/119	beiss	1	b ei - ss - -
 104/121	baiss	1	b ai - ss - -
-104/123	NA	NA	- - - - - -
+104/123	NA	NA	-
 104/125	zwikn	NA	z w i k n -
 104/127	beiss	1	b ei - ss - -
 104/131	beiss	1	b ei - ss - -
@@ -5635,7 +5635,7 @@
 106/079	beiss	1	b ei - ss - -
 106/081	beiss	1	b ei - ss - -
 106/085	beiss	1	b ei - ss - -
-106/087	NA	NA	- - - - - -
+106/087	NA	NA	-
 106/093	paiss	1	p ai - ss - -
 106/097	beiss	1	b ei - ss - -
 106/099	beiss	1	b ei - ss - -
@@ -5709,11 +5709,11 @@
 108/075	beiss	1	b ei - ss - -
 108/079	beiss	1	b ei - ss - -
 108/081	beis	1	b ei - s - -
-108/085	NA	NA	- - - - - -
+108/085	NA	NA	-
 108/087	pais	1	p ai - s - -
 108/091	beiss	1	b ei - ss - -
 108/099	beis	1	b ei - s - -
-108/101	NA	NA	- - - - - -
+108/101	NA	NA	-
 108/103	beiss	1	b ei - ss - -
 108/105	beiss	1	b ei - ss - -
 108/109	beiss	1	b ei - ss - -
@@ -5753,12 +5753,12 @@
 109/095	baiss	1	b ai - ss - -
 109/097	beiss	1	b ei - ss - -
 109/099	beiss	1	b ei - ss - -
-109/101	NA	NA	- - - - - -
+109/101	NA	NA	-
 109/103	beiss	1	b ei - ss - -
 109/107	beiss	1	b ei - ss - -
 109/109	beiss	1	b ei - ss - -
 109/111	beiss	1	b ei - ss - -
-109/113	NA	NA	- - - - - -
+109/113	NA	NA	-
 109/115	beiss	1	b ei - ss - -
 109/117	beis	1	b ei - s - -
 109/119	beiss	1	b ei - ss - -
@@ -5819,8 +5819,8 @@
 111/059	biss	1	b i - ss - -
 111/073	beiss	1	b ei - ss - -
 111/075	pais	1	p ai - s - -
-111/077	NA	NA	- - - - - -
-111/079	NA	NA	- - - - - -
+111/077	NA	NA	-
+111/079	NA	NA	-
 111/081	beis	1	b ei - s - -
 111/083	beiss	1	b ei - ss - -
 111/087	hockn	NA	h o ck n - -
@@ -5830,7 +5830,7 @@
 111/109	beiss	1	b ei - ss - -
 111/111	beiss	1	b ei - ss - -
 111/113	beiss	1	b ei - ss - -
-111/115	NA	NA	- - - - - -
+111/115	NA	NA	-
 111/117	beiss	1	b ei - ss - -
 111/119	pais	1	p ai - s - -
 111/121	beiss	1	b ei - ss - -

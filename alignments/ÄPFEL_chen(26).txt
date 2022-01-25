@@ -292,7 +292,7 @@ locations	strings	cognateID	alignments
 017/219	aeppel	1	- ae pp e - l -
 018/051	appel	1	- a pp e - l -
 018/053	appl	1	- a pp - - l -
-018/055	NA	NA	- - - - - - -
+018/055	NA	NA	-
 018/057	appl	1	- a pp - - l -
 018/059	appel	1	- a pp e - l -
 018/061	abbel	1	- a bb e - l -
@@ -1127,7 +1127,7 @@ locations	strings	cognateID	alignments
 030/087	abbel	1	- a bb e - l -
 030/089	abbel	1	- a bb e - l -
 030/091	appel	1	- a pp e - l -
-030/093	albel	1	- al b e - l -
+030/093	albel	1	- a lb e - l -
 030/095	appel	1	- a pp e - l -
 030/097	aeppel	1	- ae pp e - l -
 030/099	appel	1	- a pp e - l -
@@ -1400,7 +1400,7 @@ locations	strings	cognateID	alignments
 034/063	appel	1	- a pp e - l -
 034/065	appel	1	- a pp e - l -
 034/067	appel	1	- a pp e - l -
-034/069	albel	1	- al b e - l -
+034/069	albel	1	- a lb e - l -
 034/071	apel	1	- a p e - l -
 034/073	appel	1	- a pp e - l -
 034/075	abbel	1	- a bb e - l -
@@ -2128,7 +2128,7 @@ locations	strings	cognateID	alignments
 046/037	äppel	1	- ä pp e - l -
 046/039	appel	1	- a pp e - l -
 046/041	äppel	1	- ä pp e - l -
-046/043	NA	NA	- - - - - - -
+046/043	NA	NA	-
 046/045	äppel	1	- ä pp e - l -
 046/047	äppel	1	- ä pp e - l -
 046/049	aeppel	1	- ae pp e - l -
@@ -2320,7 +2320,7 @@ locations	strings	cognateID	alignments
 049/051	appel	1	- a pp e - l -
 049/053	äppel	1	- ä pp e - l -
 049/055	aeppel	1	- ae pp e - l -
-049/057	NA	NA	- - - - - - -
+049/057	NA	NA	-
 049/059	appel	1	- a pp e - l -
 049/061	appel	1	- a pp e - l -
 049/063	appel	1	- a pp e - l -
@@ -2858,7 +2858,7 @@ locations	strings	cognateID	alignments
 057/045	eippel	1	- ei pp e - l -
 057/047	aeppel	1	- ae pp e - l -
 057/049	äppel	1	- ä pp e - l -
-057/051	NA	NA	- - - - - - -
+057/051	NA	NA	-
 057/053	äppel	1	- ä pp e - l -
 057/055	appel	1	- a pp e - l -
 057/057	äppel	1	- ä pp e - l -
@@ -3655,7 +3655,7 @@ locations	strings	cognateID	alignments
 069/037	äbbel	1	- ä bb e - l -
 069/039	äbel	1	- ä b e - l -
 069/041	äppel	1	- ä pp e - l -
-069/043	älbel	1	- äl b e - l -
+069/043	älbel	1	- ä lb e - l -
 069/045	ebbel	1	- e bb e - l -
 069/047	eppel	1	- e pp e - l -
 069/049	äppl	1	- ä pp - - l -
@@ -3700,7 +3700,7 @@ locations	strings	cognateID	alignments
 069/163	äppell	1	- ä pp e - ll -
 069/165	epel	1	- e p e - l -
 070/019	eppel	1	- e pp e - l -
-070/023	NA	NA	- - - - - - -
+070/023	NA	NA	-
 070/025	äpel	1	- ä p e - l -
 070/027	äbel	1	- ä b e - l -
 070/029	aepel	1	- ae p e - l -
@@ -3717,7 +3717,7 @@ locations	strings	cognateID	alignments
 070/051	äbel	1	- ä b e - l -
 070/053	ebbel	1	- e bb e - l -
 070/055	ebbel	1	- e bb e - l -
-070/057	NA	NA	- - - - - - -
+070/057	NA	NA	-
 070/059	epel	1	- e p e - l -
 070/061	äpel	1	- ä p e - l -
 070/063	äpfel	1	- ä pf e - l -
@@ -3765,14 +3765,14 @@ locations	strings	cognateID	alignments
 071/029	äpel	1	- ä p e - l -
 071/031	aäbel	1	- aä b e - l -
 071/033	äapel	1	- äa p e - l -
-071/035	elbel	1	- el b e - l -
+071/035	elbel	1	- e lb e - l -
 071/037	äbbel	1	- ä bb e - l -
 071/039	äbbel	1	- ä bb e - l -
 071/041	abbel	1	- a bb e - l -
 071/043	äbbel	1	- ä bb e - l -
 071/045	äppel	1	- ä pp e - l -
 071/047	äppel	1	- ä pp e - l -
-071/049	elbel	1	- el b e - l -
+071/049	elbel	1	- e lb e - l -
 071/051	eppel	1	- e pp e - l -
 071/053	ebbel	1	- e bb e - l -
 071/055	eppel	1	- e pp e - l -
@@ -3927,7 +3927,7 @@ locations	strings	cognateID	alignments
 073/161	äppel	1	- ä pp e - l -
 073/163	äpperl	1	- ä pp e r l -
 073/165	eppel	1	- e pp e - l -
-073/175	NA	NA	- - - - - - -
+073/175	NA	NA	-
 073/177	epperl	1	- e pp e r l -
 074/019	aeppel	1	- ae pp e - l -
 074/021	äppel	1	- ä pp e - l -
@@ -4744,7 +4744,7 @@ locations	strings	cognateID	alignments
 089/057	epfal	1	- e pf a - l -
 089/059	äpfal	1	- ä pf a - l -
 089/061	epfal	1	- e pf a - l -
-089/063	NA	NA	- - - - - - -
+089/063	NA	NA	-
 089/065	epfel	1	- e pf e - l -
 089/067	öpfal	1	- ö pf a - l -
 089/069	epfall	1	- e pf a - ll -
@@ -4922,7 +4922,7 @@ locations	strings	cognateID	alignments
 092/065	öpfal	1	- ö pf a - l -
 092/067	epfel	1	- e pf e - l -
 092/069	epfal	1	- e pf a - l -
-092/071	NA	NA	- - - - - - -
+092/071	NA	NA	-
 092/073	öpfal	1	- ö pf a - l -
 092/075	äpfal	1	- ä pf a - l -
 092/077	äpfal	1	- ä pf a - l -
@@ -5101,7 +5101,7 @@ locations	strings	cognateID	alignments
 095/063	öpfel	1	- ö pf e - l -
 095/065	epfal	1	- e pf a - l -
 095/067	epfel	1	- e pf e - l -
-095/069	NA	NA	- - - - - - -
+095/069	NA	NA	-
 095/071	aepfel	1	- ae pf e - l -
 095/073	öpfal	1	- ö pf a - l -
 095/075	äpfal	1	- ä pf a - l -
@@ -5627,7 +5627,7 @@ locations	strings	cognateID	alignments
 106/057	öpfäl	1	- ö pf ä - l -
 106/061	öpfl	1	- ö pf - - l -
 106/063	öpfal	1	- ö pf a - l -
-106/067	NA	NA	- - - - - - -
+106/067	NA	NA	-
 106/071	öpfal	1	- ö pf a - l -
 106/073	epfal	1	- e pf a - l -
 106/075	öpfal	1	- ö pf a - l -
@@ -5657,7 +5657,7 @@ locations	strings	cognateID	alignments
 107/033	öpfel	1	- ö pf e - l -
 107/035	öpfel	1	- ö pf e - l -
 107/037	öpfel	1	- ö pf e - l -
-107/039	NA	NA	- - - - - - -
+107/039	NA	NA	-
 107/041	oepfel	1	- oe pf e - l -
 107/043	öpfel	1	- ö pf e - l -
 107/045	opfl	1	- o pf - - l -
@@ -5878,7 +5878,7 @@ locations	strings	cognateID	alignments
 117/043	apful	1	- a pf u - l -
 117/045	epfil	1	- e pf i - l -
 118/041	epfl	1	- e pf - - l -
-119/083	NA	NA	- - - - - - -
+119/083	NA	NA	-
 120/085	öpfal	1	- ö pf a - l -
 121/127	epfu	1	- e pf u - - -
 122/127	äpfel	1	- ä pf e - l -

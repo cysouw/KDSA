@@ -538,7 +538,7 @@
 021/203	broak	1	b r oa k - -
 021/205	broak	1	b r oa k - -
 021/207	brok	1	b r o k - -
-021/211	NA	NA	- - - - - - - -
+021/211	NA	NA	-
 021/215	broock	1	b r oo ck - -
 021/217	brak	1	b r a k - -
 021/219	broak	1	b r oa k - -
@@ -1491,7 +1491,7 @@
 035/113	brok	1	b r o k - -
 035/115	brok	1	b r o k - -
 035/117	brok	1	b r o k - -
-035/121	NA	NA	- - - - - - - -
+035/121	NA	NA	-
 035/123	brok	1	b r o k - -
 035/125	broak	1	b r oa k - -
 035/127	broak	1	b r oa k - -
@@ -2288,7 +2288,7 @@
 048/123	broch	1	b r o ch - -
 048/125	broch	1	b r o ch - -
 048/127	broch	1	b r o ch - -
-048/129	NA	NA	- - - - - - - -
+048/129	NA	NA	-
 048/131	broch	1	b r o ch - -
 048/133	broch	1	b r o ch - -
 048/135	broch	1	b r o ch - -
@@ -2755,7 +2755,7 @@
 055/117	bruch	1	b r u ch - -
 055/119	broch	1	b r o ch - -
 055/123	broch	1	b r o ch - -
-055/125	NA	NA	- - - - - - - -
+055/125	NA	NA	-
 055/127	broch	1	b r o ch - -
 055/131	broch	1	b r o ch - -
 055/133	broch	1	b r o ch - -
@@ -3062,7 +3062,7 @@
 060/021	broch	1	b r o ch - -
 060/023	brauch	1	b r au ch - -
 060/025	brouch	1	b r ou ch - -
-060/027	NA	NA	- - - - - - - -
+060/027	NA	NA	-
 060/029	brauch	1	b r au ch - -
 060/031	brauch	1	b r au ch - -
 060/033	broch	1	b r o ch - -
@@ -3128,7 +3128,7 @@
 060/155	broch	1	b r o ch - -
 060/157	broch	1	b r o ch - -
 060/159	broch	1	b r o ch - -
-060/163	NA	NA	- - - - - - - -
+060/163	NA	NA	-
 060/165	brouch	1	b r ou ch - -
 061/021	brauch	1	b r au ch - -
 061/023	brauch	1	b r au ch - -
@@ -3420,7 +3420,7 @@
 065/039	broch	1	b r o ch - -
 065/041	broch	1	b r o ch - -
 065/043	broch	1	b r o ch - -
-065/045	NA	NA	- - - - - - - -
+065/045	NA	NA	-
 065/047	broch	1	b r o ch - -
 065/049	broch	1	b r o ch - -
 065/051	broch	1	b r o ch - -
@@ -3818,7 +3818,7 @@
 072/023	getroll	NA	g e t r o ll - -
 072/025	broch	1	b r o ch - -
 072/027	brog	1	b r o g - -
-072/029	NA	NA	- - - - - - - -
+072/029	NA	NA	-
 072/031	braach	1	b r aa ch - -
 072/033	broch	1	b r o ch - -
 072/035	broch	1	b r o ch - -
@@ -3871,7 +3871,7 @@
 072/179	broch	1	b r o ch - -
 072/181	bruch	1	b r u ch - -
 073/017	brach	1	b r a ch - -
-073/019	NA	NA	- - - - - - - -
+073/019	NA	NA	-
 073/021	brach	1	b r a ch - -
 073/023	brach	1	b r a ch - -
 073/025	brooch	1	b r oo ch - -
@@ -4601,7 +4601,7 @@
 086/117	brouch	1	b r ou ch - -
 086/119	protsch	1	p r o tsch - -
 086/121	broch	1	b r o ch - -
-086/123	NA	NA	- - - - - - - -
+086/123	NA	NA	-
 086/125	brouch	1	b r ou ch - -
 086/127	broch	1	b r o ch - -
 086/129	broch	1	b r o ch - -
@@ -4708,7 +4708,7 @@
 088/091	broch	1	b r o ch - -
 088/093	broch	1	b r o ch - -
 088/095	broch	1	b r o ch - -
-088/097	NA	NA	- - - - - - - -
+088/097	NA	NA	-
 088/099	broch	1	b r o ch - -
 088/101	broch	1	b r o ch - -
 088/103	broch	1	b r o ch - -
@@ -4904,7 +4904,7 @@
 091/151	broch	1	b r o ch - -
 091/155	prooch	1	p r oo ch - -
 092/033	broch	1	b r o ch - -
-092/035	NA	NA	- - - - - - - -
+092/035	NA	NA	-
 092/037	broch	1	b r o ch - -
 092/039	broch	1	b r o ch - -
 092/041	broch	1	b r o ch - -
@@ -5253,7 +5253,7 @@
 098/033	broch	1	b r o ch - -
 098/035	broch	1	b r o ch - -
 098/037	broch	1	b r o ch - -
-098/039	NA	NA	- - - - - - - -
+098/039	NA	NA	-
 098/041	broch	1	b r o ch - -
 098/043	broch	1	b r o ch - -
 098/045	broch	1	b r o ch - -
@@ -5395,7 +5395,7 @@
 101/037	broch	1	b r o ch - -
 101/039	broch	1	b r o ch - -
 101/041	broch	1	b r o ch - -
-101/043	NA	NA	- - - - - - - -
+101/043	NA	NA	-
 101/045	broch	1	b r o ch - -
 101/047	broch	1	b r o ch - -
 101/049	broch	1	b r o ch - -
@@ -5454,8 +5454,8 @@
 102/069	broch	1	b r o ch - -
 102/071	broch	1	b r o ch - -
 102/073	broch	1	b r o ch - -
-102/075	NA	NA	- - - - - - - -
-102/077	NA	NA	- - - - - - - -
+102/075	NA	NA	-
+102/077	NA	NA	-
 102/079	broch	1	b r o ch - -
 102/081	broch	1	b r o ch - -
 102/083	broch	1	b r o ch - -
@@ -5681,7 +5681,7 @@
 107/103	brouch	1	b r ou ch - -
 107/105	broch	1	b r o ch - -
 107/107	broch	1	b r o ch - -
-107/111	NA	NA	- - - - - - - -
+107/111	NA	NA	-
 107/119	broch	1	b r o ch - -
 107/121	broch	1	b r o ch - -
 107/123	brouch	1	b r ou ch - -
@@ -5699,7 +5699,7 @@
 108/035	proch	1	p r o ch - -
 108/037	broch	1	b r o ch - -
 108/039	broch	1	b r o ch - -
-108/041	NA	NA	- - - - - - - -
+108/041	NA	NA	-
 108/043	broch	1	b r o ch - -
 108/047	ghiid	NA	g h ii d - - - -
 108/049	broch	1	b r o ch - -
@@ -5736,7 +5736,7 @@
 109/037	gstoche	NA	g s t o ch e - -
 109/039	broch	1	b r o ch - -
 109/041	broch	1	b r o ch - -
-109/043	NA	NA	- - - - - - - -
+109/043	NA	NA	-
 109/045	trooled	NA	t r oo l e d - -
 109/049	broch	1	b r o ch - -
 109/053	broch	1	b r o ch - -
@@ -5796,7 +5796,7 @@
 110/101	broch	1	b r o ch - -
 110/105	proch	1	p r o ch - -
 110/107	broch	1	b r o ch - -
-110/111	NA	NA	- - - - - - - -
+110/111	NA	NA	-
 110/113	broch	1	b r o ch - -
 110/115	broch	1	b r o ch - -
 110/117	brooch	1	b r oo ch - -

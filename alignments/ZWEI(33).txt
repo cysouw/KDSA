@@ -547,7 +547,7 @@
 022/059	twe	1	t w e -
 022/061	twe	1	t w e -
 022/063	twei	1	t w ei -
-022/065	NA	NA	- - - -
+022/065	NA	NA	-
 022/067	twee	1	t w ee -
 022/069	twee	1	t w ee -
 022/071	twe	1	t w e -
@@ -657,7 +657,7 @@
 023/143	twei	1	t w ei -
 023/145	twei	1	t w ei -
 023/147	twei	1	t w ei -
-023/149	NA	NA	- - - -
+023/149	NA	NA	-
 023/151	twei	1	t w ei -
 023/153	twei	1	t w ei -
 023/155	twei	1	t w ei -
@@ -744,7 +744,7 @@
 024/181	zwe	1	z w e -
 024/183	zwe	1	z w e -
 024/185	zwee	1	z w ee -
-024/187	NA	NA	- - - -
+024/187	NA	NA	-
 024/189	zwä	1	z w ä -
 024/191	zwä	1	z w ä -
 024/193	zwä	1	z w ä -
@@ -899,9 +899,9 @@
 027/059	twee	1	t w ee -
 027/061	twe	1	t w e -
 027/063	twee	1	t w ee -
-027/065	NA	NA	- - - -
+027/065	NA	NA	-
 027/067	twee	1	t w ee -
-027/069	NA	NA	- - - -
+027/069	NA	NA	-
 027/071	twee	1	t w ee -
 027/073	twei	1	t w ei -
 027/075	twei	1	t w ei -
@@ -982,7 +982,7 @@
 028/083	twei	1	t w ei -
 028/085	twei	1	t w ei -
 028/087	twei	1	t w ei -
-028/089	NA	NA	- - - -
+028/089	NA	NA	-
 028/091	twei	1	t w ei -
 028/093	twei	1	t w ei -
 028/095	twei	1	t w ei -
@@ -1145,7 +1145,7 @@
 030/123	twe	1	t w e -
 030/125	twe	1	t w e -
 030/127	twe	1	t w e -
-030/129	NA	NA	- - - -
+030/129	NA	NA	-
 030/131	twei	1	t w ei -
 030/133	twe	1	t w e -
 030/135	twee	1	t w ee -
@@ -1303,7 +1303,7 @@
 032/153	twee	1	t w ee -
 032/157	twe	1	t w e -
 032/159	twe	1	t w e -
-032/161	NA	NA	- - - -
+032/161	NA	NA	-
 032/163	twe	1	t w e -
 032/167	twe	1	t w e -
 032/169	zwai	1	z w ai -
@@ -2129,7 +2129,7 @@
 046/039	twe	1	t w e -
 046/041	twe	1	t w e -
 046/043	twe	1	t w e -
-046/045	NA	NA	- - - -
+046/045	NA	NA	-
 046/047	twei	1	t w ei -
 046/049	twoe	1	t w oe -
 046/051	twäi	1	t w äi -
@@ -3005,7 +3005,7 @@
 059/053	zwe	1	z w e -
 059/055	zwäh	1	z w äh -
 059/057	zwe	1	z w e -
-059/059	NA	NA	- - - -
+059/059	NA	NA	-
 059/061	zwä	1	z w ä -
 059/063	zwa	1	z w a -
 059/065	zwae	1	z w ae -
@@ -3039,7 +3039,7 @@
 059/121	zwej	1	z w ej -
 059/123	zwä	1	z w ä -
 059/125	zwee	1	z w ee -
-059/127	NA	NA	- - - -
+059/127	NA	NA	-
 059/129	zwej	1	z w ej -
 059/131	zwej	1	z w ej -
 059/133	zwee	1	z w ee -
@@ -3079,7 +3079,7 @@
 060/055	zwä	1	z w ä -
 060/057	zwa	1	z w a -
 060/059	zwe	1	z w e -
-060/061	NA	NA	- - - -
+060/061	NA	NA	-
 060/063	zwei	1	z w ei -
 060/065	zwä	1	z w ä -
 060/067	zwai	1	z w ai -
@@ -3296,7 +3296,7 @@
 063/063	zwä	1	z w ä -
 063/065	zwäh	1	z w äh -
 063/067	zwä	1	z w ä -
-063/069	NA	NA	- - - -
+063/069	NA	NA	-
 063/071	zwä	1	z w ä -
 063/073	zwäh	1	z w äh -
 063/075	zwä	1	z w ä -
@@ -3904,7 +3904,7 @@
 073/079	zwa	1	z w a -
 073/081	zwa	1	z w a -
 073/083	zwa	1	z w a -
-073/085	NA	NA	- - - -
+073/085	NA	NA	-
 073/087	zwa	1	z w a -
 073/089	zwa	1	z w a -
 073/091	zwa	1	z w a -
@@ -3974,7 +3974,7 @@
 074/103	zwoa	1	z w oa -
 074/105	zwoa	1	z w oa -
 074/107	zwoa	1	z w oa -
-074/109	NA	NA	- - - -
+074/109	NA	NA	-
 074/145	zwoi	1	z w oi -
 074/147	zwai	1	z w ai -
 074/149	zwaei	1	z w aei -
@@ -4433,7 +4433,7 @@
 083/145	zwa	1	z w a -
 083/147	zwaa	1	z w aa -
 083/149	zwa	1	z w a -
-083/173	NA	NA	- - - -
+083/173	NA	NA	-
 083/195	zwei	1	z w ei -
 084/031	swai	1	s w ai -
 084/033	zwei	1	z w ei -
@@ -5125,7 +5125,7 @@
 095/111	zwa	1	z w a -
 095/113	zwoa	1	z w oa -
 095/115	zwoa	1	z w oa -
-095/117	NA	NA	- - - -
+095/117	NA	NA	-
 095/119	zwoa	1	z w oa -
 095/121	zwe	1	z w e -
 095/123	zwoa	1	z w oa -
@@ -5815,7 +5815,7 @@
 111/039	zwü	1	z w ü -
 111/041	zwö	1	z w ö -
 111/043	zwei	1	z w ei -
-111/045	NA	NA	- - - -
+111/045	NA	NA	-
 111/059	zwei	1	z w ei -
 111/073	zwoa	1	z w oa -
 111/075	zwaa	1	z w aa -
@@ -5825,7 +5825,7 @@
 111/083	zwoa	1	z w oa -
 111/087	zwoa	1	z w oa -
 111/089	zwoa	1	z w oa -
-111/105	NA	NA	- - - -
+111/105	NA	NA	-
 111/107	zwa	1	z w a -
 111/109	zwa	1	z w a -
 111/111	zwoa	1	z w oa -

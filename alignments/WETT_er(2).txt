@@ -281,7 +281,7 @@
 017/197	wädd	1	w ä dd
 017/199	wedd	1	w e dd
 017/201	wäd	1	w ä d
-017/203	NA	NA	- - - -
+017/203	NA	NA	-
 017/205	wäd	1	w ä d
 017/207	wedd	1	w e dd
 017/209	wett	1	w e tt
@@ -531,10 +531,10 @@
 021/189	wäät	1	w ää t
 021/191	wat	1	w a t
 021/193	wat	1	w a t
-021/195	NA	NA	- - - -
+021/195	NA	NA	-
 021/197	wat	1	w a t
 021/199	wed	1	w e d
-021/201	NA	NA	- - - -
+021/201	NA	NA	-
 021/203	wed	1	w e d
 021/205	wedd	1	w e dd
 021/207	wett	1	w e tt
@@ -1576,7 +1576,7 @@
 036/163	wähd	1	w äh d
 036/165	wäd	1	w ä d
 036/167	wedd	1	w e dd
-036/169	NA	NA	- - - -
+036/169	NA	NA	-
 036/171	wäd	1	w ä d
 037/033	wä	1	w ä -
 037/035	wä	1	w ä -
@@ -2012,7 +2012,7 @@
 044/041	wi	1	w i -
 044/043	wi	1	w i -
 044/045	wi	1	w i -
-044/047	NA	NA	- - - -
+044/047	NA	NA	-
 044/049	wi	1	w i -
 044/051	wi	1	w i -
 044/053	we	1	w e -
@@ -2983,7 +2983,7 @@
 058/151	wat	1	w a t
 058/153	wat	1	w a t
 058/155	waht	1	w ah t
-058/157	NA	NA	- - - -
+058/157	NA	NA	-
 058/159	wat	1	w a t
 059/019	währ	1	w äh r
 059/021	währ	1	w äh r
@@ -3034,7 +3034,7 @@
 059/111	wätt	1	w ä tt
 059/113	watt	1	w a tt
 059/115	wett	1	w e tt
-059/117	NA	NA	- - - -
+059/117	NA	NA	-
 059/119	watt	1	w a tt
 059/121	wat	1	w a t
 059/123	waht	1	w ah t
@@ -3179,7 +3179,7 @@
 061/113	watt	1	w a tt
 061/115	watt	1	w a tt
 061/117	waat	1	w aa t
-061/119	NA	NA	- - - -
+061/119	NA	NA	-
 061/121	wad	1	w a d
 061/123	wat	1	w a t
 061/125	waat	1	w aa t
@@ -3397,7 +3397,7 @@
 064/127	wat	1	w a t
 064/135	waat	1	w aa t
 064/137	waat	1	w aa t
-064/139	NA	NA	- - - -
+064/139	NA	NA	-
 064/141	wat	1	w a t
 064/143	wat	1	w a t
 064/145	wat	1	w a t
@@ -3424,7 +3424,7 @@
 065/047	wär	1	w ä r
 065/049	werr	1	w e rr
 065/051	werr	1	w e rr
-065/053	NA	NA	- - - -
+065/053	NA	NA	-
 065/055	wearr	1	w ea rr
 065/057	wearr	1	w ea rr
 065/059	werr	1	w e rr
@@ -3453,7 +3453,7 @@
 065/107	watt	1	w a tt
 065/109	wett	1	w e tt
 065/111	wett	1	w e tt
-065/113	NA	NA	- - - -
+065/113	NA	NA	-
 065/115	watt	1	w a tt
 065/121	wat	1	w a t
 065/123	waat	1	w aa t
@@ -3625,17 +3625,17 @@
 068/089	wed	1	w e d
 068/091	weed	1	w ee d
 068/093	wed	1	w e d
-068/095	NA	NA	- - - -
+068/095	NA	NA	-
 068/097	wet	1	w e t
-068/099	NA	NA	- - - -
+068/099	NA	NA	-
 068/101	wed	1	w e d
 068/103	wett	1	w e tt
-068/105	NA	NA	- - - -
+068/105	NA	NA	-
 068/107	wett	1	w e tt
-068/109	NA	NA	- - - -
+068/109	NA	NA	-
 068/111	wett	1	w e tt
 068/145	wat	1	w a t
-068/147	NA	NA	- - - -
+068/147	NA	NA	-
 068/149	wat	1	w a t
 068/151	wat	1	w a t
 068/153	wat	1	w a t
@@ -3683,11 +3683,11 @@
 069/093	wed	1	w e d
 069/095	wet	1	w e t
 069/097	wet	1	w e t
-069/099	NA	NA	- - - -
+069/099	NA	NA	-
 069/101	wet	1	w e t
 069/103	wett	1	w e tt
 069/105	wett	1	w e tt
-069/107	NA	NA	- - - -
+069/107	NA	NA	-
 069/109	wedd	1	w e dd
 069/111	wett	1	w e tt
 069/147	wat	1	w a t
@@ -3741,7 +3741,7 @@
 070/099	wet	1	w e t
 070/101	wed	1	w e d
 070/103	wett	1	w e tt
-070/105	NA	NA	- - - -
+070/105	NA	NA	-
 070/107	wett	1	w e tt
 070/109	wett	1	w e tt
 070/111	wett	1	w e tt
@@ -3789,7 +3789,7 @@
 071/079	watt	1	w a tt
 071/081	wätt	1	w ä tt
 071/083	wett	1	w e tt
-071/085	NA	NA	- - - -
+071/085	NA	NA	-
 071/087	wed	1	w e d
 071/089	wed	1	w e d
 071/091	wed	1	w e d
@@ -3839,7 +3839,7 @@
 072/065	waad	1	w aa d
 072/067	wat	1	w a t
 072/069	wat	1	w a t
-072/071	NA	NA	- - - -
+072/071	NA	NA	-
 072/073	waat	1	w aa t
 072/075	wätt	1	w ä tt
 072/077	wett	1	w e tt
@@ -3854,7 +3854,7 @@
 072/095	wed	1	w e d
 072/097	wed	1	w e d
 072/099	wet	1	w e t
-072/101	NA	NA	- - - -
+072/101	NA	NA	-
 072/103	wet	1	w e t
 072/105	wed	1	w e d
 072/107	wett	1	w e tt
@@ -3900,7 +3900,7 @@
 073/071	watt	1	w a tt
 073/073	watt	1	w a tt
 073/075	wätt	1	w ä tt
-073/077	NA	NA	- - - -
+073/077	NA	NA	-
 073/079	weed	1	w ee d
 073/081	wed	1	w e d
 073/083	weet	1	w ee t
@@ -3923,7 +3923,7 @@
 073/153	wet	1	w e t
 073/155	wat	1	w a t
 073/157	waat	1	w aa t
-073/159	NA	NA	- - - -
+073/159	NA	NA	-
 073/161	wat	1	w a t
 073/163	wat	1	w a t
 073/165	wat	1	w a t
@@ -3974,7 +3974,7 @@
 074/103	wet	1	w e t
 074/105	wet	1	w e t
 074/107	wed	1	w e d
-074/109	NA	NA	- - - -
+074/109	NA	NA	-
 074/145	wat	1	w a t
 074/147	wäät	1	w ää t
 074/149	wäät	1	w ää t
@@ -3984,7 +3984,7 @@
 074/159	wat	1	w a t
 074/161	waat	1	w aa t
 074/163	wat	1	w a t
-074/165	NA	NA	- - - -
+074/165	NA	NA	-
 075/019	wied	1	w ie d
 075/021	wied	1	w ie d
 075/023	wiierd	1	w iie rd
@@ -4065,7 +4065,7 @@
 076/065	weth	1	w e th
 076/067	wed	1	w e d
 076/069	wedd	1	w e dd
-076/071	NA	NA	- - - -
+076/071	NA	NA	-
 076/073	wett	1	w e tt
 076/075	wett	1	w e tt
 076/077	wed	1	w e d
@@ -4130,7 +4130,7 @@
 077/095	wed	1	w e d
 077/097	wed	1	w e d
 077/099	weed	1	w ee d
-077/101	NA	NA	- - - -
+077/101	NA	NA	-
 077/103	wed	1	w e d
 077/135	weet	1	w ee t
 077/137	wet	1	w e t
@@ -4173,7 +4173,7 @@
 078/095	wed	1	w e d
 078/097	wed	1	w e d
 078/099	wed	1	w e d
-078/101	NA	NA	- - - -
+078/101	NA	NA	-
 078/103	wat	1	w a t
 078/105	weed	1	w ee d
 078/135	wed	1	w e d
@@ -4272,7 +4272,7 @@
 080/127	weöd	1	w eö d
 080/147	wett	1	w e tt
 080/151	bet	1	b e t
-080/153	NA	NA	- - - -
+080/153	NA	NA	-
 080/193	wat	1	w a t
 080/195	waat	1	w aa t
 081/025	wed	1	w e d
@@ -4321,7 +4321,7 @@
 081/127	weid	1	w ei d
 081/129	wäit	1	w äi t
 081/133	wed	1	w e d
-081/147	NA	NA	- - - -
+081/147	NA	NA	-
 081/191	waat	1	w aa t
 081/193	weet	1	w ee t
 081/195	waat	1	w aa t
@@ -4433,10 +4433,10 @@
 083/145	weid	1	w ei d
 083/147	wett	1	w e tt
 083/149	wett	1	w e tt
-083/173	NA	NA	- - - -
+083/173	NA	NA	-
 083/195	wett	1	w e tt
 084/031	wett	1	w e tt
-084/033	NA	NA	- - - -
+084/033	NA	NA	-
 084/035	wädd	1	w ä dd
 084/037	wett	1	w e tt
 084/039	watt	1	w a tt
@@ -4457,7 +4457,7 @@
 084/069	wäd	1	w ä d
 084/071	wäd	1	w ä d
 084/073	weed	1	w ee d
-084/075	NA	NA	- - - -
+084/075	NA	NA	-
 084/077	wed	1	w e d
 084/079	weet	1	w ee t
 084/081	wed	1	w e d
@@ -4481,14 +4481,14 @@
 084/117	wejd	1	w e jd
 084/119	weid	1	w ei d
 084/129	wed	1	w e d
-084/131	NA	NA	- - - -
+084/131	NA	NA	-
 084/133	wed	1	w e d
 084/135	wed	1	w e d
 084/137	wed	1	w e d
 084/139	wed	1	w e d
 084/141	wäit	1	w äi t
 084/143	wed	1	w e d
-084/145	NA	NA	- - - -
+084/145	NA	NA	-
 084/147	wed	1	w e d
 084/149	wed	1	w e d
 084/171	bäät	1	b ää t
@@ -4529,7 +4529,7 @@
 085/095	wed	1	w e d
 085/097	wöd	1	w ö d
 085/101	wed	1	w e d
-085/103	NA	NA	- - - -
+085/103	NA	NA	-
 085/105	wed	1	w e d
 085/107	wed	1	w e d
 085/109	wöd	1	w ö d
@@ -4539,7 +4539,7 @@
 085/117	weid	1	w ei d
 085/119	wejd	1	w e jd
 085/121	wed	1	w e d
-085/123	NA	NA	- - - -
+085/123	NA	NA	-
 085/125	weid	1	w ei d
 085/127	wed	1	w e d
 085/129	wed	1	w e d
@@ -4600,7 +4600,7 @@
 086/115	wed	1	w e d
 086/117	wed	1	w e d
 086/119	wejd	1	w e jd
-086/121	NA	NA	- - - -
+086/121	NA	NA	-
 086/123	weid	1	w ei d
 086/125	weid	1	w ei d
 086/127	wed	1	w e d
@@ -4646,7 +4646,7 @@
 087/083	wed	1	w e d
 087/085	wett	1	w e tt
 087/087	wed	1	w e d
-087/089	NA	NA	- - - -
+087/089	NA	NA	-
 087/091	wöd	1	w ö d
 087/093	wod	1	w o d
 087/095	wäd	1	w ä d
@@ -4670,7 +4670,7 @@
 087/133	wed	1	w e d
 087/135	wed	1	w e d
 087/137	wet	1	w e t
-087/139	NA	NA	- - - -
+087/139	NA	NA	-
 087/141	wed	1	w e d
 087/143	wed	1	w e d
 087/145	wed	1	w e d
@@ -4782,7 +4782,7 @@
 089/133	wed	1	w e d
 089/135	wed	1	w e d
 089/137	wed	1	w e d
-089/139	NA	NA	- - - -
+089/139	NA	NA	-
 089/141	wed	1	w e d
 089/143	wed	1	w e d
 089/145	wed	1	w e d
@@ -4811,11 +4811,11 @@
 090/075	weat	1	w ea t
 090/077	wead	1	w ea d
 090/079	wött	1	w ö tt
-090/081	NA	NA	- - - -
+090/081	NA	NA	-
 090/083	wed	1	w e d
 090/085	wöd	1	w ö d
 090/087	wött	1	w ö tt
-090/089	NA	NA	- - - -
+090/089	NA	NA	-
 090/091	wed	1	w e d
 090/093	wedd	1	w e dd
 090/095	wed	1	w e d
@@ -4824,7 +4824,7 @@
 090/101	wöd	1	w ö d
 090/103	wöd	1	w ö d
 090/105	wed	1	w e d
-090/107	NA	NA	- - - -
+090/107	NA	NA	-
 090/109	wöd	1	w ö d
 090/111	wed	1	w e d
 090/113	wöd	1	w ö d
@@ -4935,10 +4935,10 @@
 092/091	wöd	1	w ö d
 092/093	wed	1	w e d
 092/095	wöd	1	w ö d
-092/097	NA	NA	- - - -
+092/097	NA	NA	-
 092/099	wed	1	w e d
 092/101	wed	1	w e d
-092/103	NA	NA	- - - -
+092/103	NA	NA	-
 092/105	wöd	1	w ö d
 092/107	wöd	1	w ö d
 092/109	wed	1	w e d
@@ -4956,7 +4956,7 @@
 092/133	wed	1	w e d
 092/135	weitt	1	w ei tt
 092/137	wed	1	w e d
-092/139	NA	NA	- - - -
+092/139	NA	NA	-
 092/141	wed	1	w e d
 092/143	wed	1	w e d
 092/145	wed	1	w e d
@@ -4980,7 +4980,7 @@
 093/063	weett	1	w ee tt
 093/065	wett	1	w e tt
 093/067	wäatt	1	w äa tt
-093/069	NA	NA	- - - -
+093/069	NA	NA	-
 093/071	wett	1	w e tt
 093/073	wett	1	w e tt
 093/075	weat	1	w ea t
@@ -4989,7 +4989,7 @@
 093/081	wöd	1	w ö d
 093/083	wed	1	w e d
 093/085	wet	1	w e t
-093/087	NA	NA	- - - -
+093/087	NA	NA	-
 093/089	wed	1	w e d
 093/091	wet	1	w e t
 093/093	wäd	1	w ä d
@@ -5011,7 +5011,7 @@
 093/127	weeid	1	w eei d
 093/129	wed	1	w e d
 093/131	wed	1	w e d
-093/133	NA	NA	- - - -
+093/133	NA	NA	-
 093/137	wed	1	w e d
 093/139	wed	1	w e d
 093/143	wed	1	w e d
@@ -5070,7 +5070,7 @@
 094/125	wed	1	w e d
 094/127	wed	1	w e d
 094/129	wed	1	w e d
-094/131	NA	NA	- - - -
+094/131	NA	NA	-
 094/133	wed	1	w e d
 094/135	wed	1	w e d
 094/137	wed	1	w e d
@@ -5184,8 +5184,8 @@
 096/111	wöd	1	w ö d
 096/113	wed	1	w e d
 096/115	wed	1	w e d
-096/117	NA	NA	- - - -
-096/119	NA	NA	- - - -
+096/117	NA	NA	-
+096/119	NA	NA	-
 096/121	weeid	1	w eei d
 096/123	wöd	1	w ö d
 096/125	wöid	1	w öi d
@@ -5195,10 +5195,10 @@
 096/137	wed	1	w e d
 096/139	wed	1	w e d
 096/141	wed	1	w e d
-096/143	NA	NA	- - - -
+096/143	NA	NA	-
 096/145	wed	1	w e d
 096/147	weeid	1	w eei d
-096/151	NA	NA	- - - -
+096/151	NA	NA	-
 096/153	wed	1	w e d
 096/155	weed	1	w ee d
 097/031	watt	1	w a tt
@@ -5285,18 +5285,18 @@
 098/097	wed	1	w e d
 098/103	wett	1	w e tt
 098/105	wed	1	w e d
-098/107	NA	NA	- - - -
+098/107	NA	NA	-
 098/109	wöd	1	w ö d
 098/111	wöud	1	w öu d
 098/119	wöd	1	w ö d
 098/123	wed	1	w e d
-098/125	NA	NA	- - - -
+098/125	NA	NA	-
 098/127	wed	1	w e d
 098/135	wed	1	w e d
 098/137	wed	1	w e d
 098/139	wett	1	w e tt
 098/141	wed	1	w e d
-098/143	NA	NA	- - - -
+098/143	NA	NA	-
 098/145	wed	1	w e d
 098/147	weid	1	w ei d
 098/149	weid	1	w ei d
@@ -5385,7 +5385,7 @@
 100/121	wett	1	w e tt
 100/125	wed	1	w e d
 100/127	wett	1	w e tt
-100/129	NA	NA	- - - -
+100/129	NA	NA	-
 100/133	wed	1	w e d
 100/135	wedd	1	w e dd
 100/141	wed	1	w e d
@@ -5434,7 +5434,7 @@
 101/141	wed	1	w e d
 101/143	wed	1	w e d
 101/145	weid	1	w ei d
-101/147	NA	NA	- - - -
+101/147	NA	NA	-
 102/037	wätt	1	w ä tt
 102/039	wätt	1	w ä tt
 102/041	wätt	1	w ä tt
@@ -5465,7 +5465,7 @@
 102/095	wöd	1	w ö d
 102/097	wed	1	w e d
 102/099	wöid	1	w öi d
-102/103	NA	NA	- - - -
+102/103	NA	NA	-
 102/107	wett	1	w e tt
 102/109	weitt	1	w ei tt
 102/113	wett	1	w e tt
@@ -5496,7 +5496,7 @@
 103/069	weat	1	w ea t
 103/071	wätt	1	w ä tt
 103/073	wätt	1	w ä tt
-103/075	NA	NA	- - - -
+103/075	NA	NA	-
 103/077	wett	1	w e tt
 103/079	wött	1	w ö tt
 103/081	wött	1	w ö tt
@@ -5602,7 +5602,7 @@
 105/113	wett	1	w e tt
 105/115	wett	1	w e tt
 105/117	wet	1	w e t
-105/119	NA	NA	- - - -
+105/119	NA	NA	-
 105/121	wet	1	w e t
 105/125	wett	1	w e tt
 105/127	wett	1	w e tt
@@ -5685,9 +5685,9 @@
 107/119	wött	1	w ö tt
 107/121	wet	1	w e t
 107/123	wett	1	w e tt
-107/125	NA	NA	- - - -
+107/125	NA	NA	-
 107/127	wett	1	w e tt
-107/129	NA	NA	- - - -
+107/129	NA	NA	-
 107/131	wed	1	w e d
 107/133	wed	1	w e d
 107/135	wäid	1	w äi d
@@ -5768,9 +5768,9 @@
 109/127	wet	1	w e t
 109/129	weitt	1	w ei tt
 109/131	wett	1	w e tt
-109/133	NA	NA	- - - -
+109/133	NA	NA	-
 109/135	weitt	1	w ei tt
-109/137	NA	NA	- - - -
+109/137	NA	NA	-
 109/139	wed	1	w e d
 110/035	wätt	1	w ä tt
 110/039	wätt	1	w ä tt
@@ -5808,7 +5808,7 @@
 110/131	wed	1	w e d
 110/133	weeit	1	w eei t
 110/135	wett	1	w e tt
-110/137	NA	NA	- - - -
+110/137	NA	NA	-
 110/139	wed	1	w e d
 111/035	wätt	1	w ä tt
 111/037	wätt	1	w ä tt
@@ -5837,7 +5837,7 @@
 111/123	wött	1	w ö tt
 111/125	wett	1	w e tt
 112/037	wött	1	w ö tt
-112/039	NA	NA	- - - -
+112/039	NA	NA	-
 112/041	wätt	1	w ä tt
 112/043	wätt	1	w ä tt
 112/047	wätt	1	w ä tt
