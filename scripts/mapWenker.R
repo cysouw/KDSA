@@ -18,7 +18,7 @@ require(RColorBrewer)
 # save map as widget
 # htmlwidgets::saveWidget(MAP, file = "title.html")
 
-mapFromIndex <- function(nr, savedir = NULL) {
+mapFromIndex <- function(nr, savedir = NULL, vowcols = NULL) {
 	index <- read.delim("alignments/index.txt")
 	file <- paste0("alignments/", index$LEMMA[nr], ".txt")
 	align <- getAlign(file, index$COGID[nr], index$COLUMN[nr])
@@ -27,6 +27,7 @@ mapFromIndex <- function(nr, savedir = NULL) {
 			, center = index$CENTER[nr]
 			, title = index$TITLE[nr]
 			, savedir = savedir
+			, vowcols = vowcols
 	)	
 }
 
@@ -45,18 +46,23 @@ getAlign <- function(lemma, cogid, column) {
 
 }
 
-mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker", savedir = NULL) {
+mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker", savedir = NULL, vowcols = NULL) {
 
 	align <- as.character(align)
 	align[align == "NA"] <- NA
 
 	if (vowel) {
 
-		# decompose vowel
-		vowelDecom <- vowelAnalysis(align)
-		cols <- qlcVisualize::heeringa(dist(vowelDecom), center = center)
-		names(cols) <- rownames(vowelDecom)
-
+		if (is.null(vowcols)) {
+			# decompose vowel
+			vowelDecom <- vowelAnalysis(align)
+			cols <- qlcVisualize::heeringa(dist(vowelDecom), center = center)
+			names(cols) <- rownames(vowelDecom)
+		} else {
+			cols <- vowcols
+			cols[center] <- "grey"
+		}
+		
 		allCols <- cols[align]
 
 		# Spellings for legend
