@@ -54,10 +54,7 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 	if (vowel) {
 
 		if (is.null(vowcols)) {
-			# decompose vowel
-			vowelDecom <- vowelAnalysis(align)
-			cols <- qlcVisualize::heeringa(dist(vowelDecom), center = center)
-			names(cols) <- rownames(vowelDecom)
+			cols <- vowelColor(align, center)
 		} else {
 			cols <- vowcols
 			cols[center] <- "grey"
@@ -138,6 +135,13 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 	}
 }
 
+vowelColor <- function(vowels, center = NULL) {
+	vowelDecom <- vowelAnalysis(vowels)
+	cols <- qlcVisualize::heeringa(dist(vowelDecom), center = center)
+	names(cols) <- rownames(vowelDecom)
+	return(cols)
+}
+
 vowelAnalysis <- function(align) {
 
 	l <- c("a","ä","e","i","j","y","o","ö","r","l","u","w","ü","-")
@@ -196,15 +200,20 @@ vowelAnalysis <- function(align) {
 	return( t(sapply(vowels, trans)) )
 }
 
-allAlign <- function(dir, kind = "V", cutoff = 5000) {
+allAlign <- function(dir, selection = NULL, cutoff = 5000) {
+	
   index <- read.delim(file.path(dir, "index.txt"))
 
-  if (kind == "V") {
-    index <- index[index$VOWEL,]
-  } else {
-    index <- index[!index$VOWEL,]
+  if (!is.null(selection)) {
+	  if (selection[1] == "V") {
+	    index <- index[index$VOWEL,]
+	  } else if (selection[1] == "C") {
+	    index <- index[!index$VOWEL,]
+	  } else if (is.numeric(selection)) {
+	  	index <- index[selection,]
+	  }
   }
-
+  
   readOne <- function(nr) {
     file <- file.path(dir, paste0(index$LEMMA[nr],".txt"))
     getAlign(file, index$COGID[nr], index$COLUMN[nr])
