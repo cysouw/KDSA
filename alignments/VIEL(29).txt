@@ -647,7 +647,7 @@
 023/123	väl	1	v ä l
 023/125	vel	1	v e l
 023/127	väl	1	v ä l
-023/129	vei	1	v ei -
+023/129	vei	1	v e i
 023/131	väl	1	v ä l
 023/133	vähl	1	v äh l
 023/135	väl	1	v ä l
@@ -3179,7 +3179,7 @@
 061/113	vie	1	v ie -
 061/115	NA	NA	-
 061/117	vi	1	v i -
-061/119	vii	1	v ii -
+061/119	vii	1	v i i
 061/121	vie	1	v ie -
 061/123	vill	1	v i ll
 061/125	vil	1	v i l
@@ -3317,7 +3317,7 @@
 063/105	viel	1	v ie l
 063/107	viel	1	v ie l
 063/109	vi	1	v i -
-063/111	viej	1	v iej -
+063/111	viej	1	v ie j
 063/113	viel	1	v ie l
 063/115	viel	1	v ie l
 063/117	NA	NA	-
@@ -3629,7 +3629,7 @@
 068/097	vül	1	v ü l
 068/099	vüll	1	v ü ll
 068/101	vl	1	v - l
-068/103	vöi	1	v öi -
+068/103	vöi	1	v ö i
 068/105	vüll	1	v ü ll
 068/107	viel	1	v ie l
 068/109	vill	1	v i ll
@@ -3806,7 +3806,7 @@
 071/151	vel	1	v e l
 071/153	vill	1	v i ll
 071/155	NA	NA	-
-071/157	vöi	1	v öi -
+071/157	vöi	1	v ö i
 071/159	NA	NA	-
 071/161	viel	1	v ie l
 071/163	NA	NA	-
@@ -4265,7 +4265,7 @@
 080/097	vil	1	v i l
 080/099	viel	1	v ie l
 080/101	veol	1	v eo l
-080/103	vai	1	v ai -
+080/103	vai	1	v a i
 080/105	völ	1	v ö l
 080/107	viel	1	v ie l
 080/109	völ	1	v ö l
@@ -4312,8 +4312,8 @@
 081/095	viel	1	v ie l
 081/097	viel	1	v ie l
 081/099	vill	1	v i ll
-081/101	vuii	1	v uii -
-081/103	viej	1	v iej -
+081/101	vuii	1	v ui i
+081/103	viej	1	v ie j
 081/105	viel	1	v ie l
 081/107	vll	1	v - ll
 081/109	NA	NA	-
@@ -4354,7 +4354,7 @@
 082/079	vill	1	v i ll
 082/081	viel	1	v ie l
 082/083	viil	1	v ii l
-082/085	vüi	1	v üi -
+082/085	vüi	1	v ü i
 082/087	viel	1	v ie l
 082/089	NA	NA	-
 082/091	vül	1	v ü l
@@ -4363,10 +4363,10 @@
 082/097	vul	1	v u l
 082/099	viel	1	v ie l
 082/101	vil	1	v i l
-082/103	vij	1	v ij -
-082/105	vüi	1	v üi -
-082/107	vei	1	v ei -
-082/111	vöi	1	v öi -
+082/103	vij	1	v i j
+082/105	vüi	1	v ü i
+082/107	vei	1	v e i
+082/111	vöi	1	v ö i
 082/113	viü	1	v iü -
 082/117	fül	1	f ü l
 082/129	NA	NA	-
@@ -4407,17 +4407,17 @@
 083/081	viel	1	v ie l
 083/083	viel	1	v ie l
 083/085	vü	1	v ü -
-083/087	vei	1	v ei -
+083/087	vei	1	v e i
 083/089	viel	1	v ie l
 083/091	vöill	1	v öi ll
 083/093	vüll	1	v ü ll
 083/095	vul	1	v u l
 083/097	vul	1	v u l
-083/099	vei	1	v ei -
+083/099	vei	1	v e i
 083/101	vul	1	v u l
-083/103	vüi	1	v üi -
-083/105	vöi	1	v öi -
-083/107	vey	1	v ey -
+083/103	vüi	1	v ü i
+083/105	vöi	1	v ö i
+083/107	vey	1	v e y
 083/111	NA	NA	-
 083/113	ve	1	v e -
 083/115	vü	1	v ü -
@@ -4465,20 +4465,20 @@
 084/085	vül	1	v ü l
 084/087	viel	1	v ie l
 084/089	vail	1	v ai l
-084/091	veij	1	v eij -
-084/093	veji	1	v eji -
+084/091	veij	1	v ei j
+084/093	veji	1	v ej i
 084/095	vül	1	v ü l
 084/097	vul	1	v u l
 084/099	vil	1	v i l
-084/101	vei	1	v ei -
-084/103	väi	1	v äi -
-084/105	vöi	1	v öi -
-084/107	vei	1	v ei -
+084/101	vei	1	v e i
+084/103	väi	1	v ä i
+084/105	vöi	1	v ö i
+084/107	vei	1	v e i
 084/109	veil	1	v ei l
-084/111	vöi	1	v öi -
+084/111	vöi	1	v ö i
 084/113	vü	1	v ü -
 084/115	nau	2	n au -
-084/117	vij	1	v ij -
+084/117	vij	1	v i j
 084/119	vül	1	v ü l
 084/129	vü	1	v ü -
 084/131	NA	NA	-
@@ -4522,7 +4522,7 @@
 085/081	viel	1	v ie l
 085/083	vü	1	v ü -
 085/085	viel	1	v ie l
-085/087	vöi	1	v öi -
+085/087	vöi	1	v ö i
 085/089	NA	NA	-
 085/091	fil	1	f i l
 085/093	vuill	1	v ui ll
@@ -4531,9 +4531,9 @@
 085/101	viel	1	v ie l
 085/103	NA	NA	-
 085/105	NA	NA	-
-085/107	väi	1	v äi -
-085/109	väi	1	v äi -
-085/111	vei	1	v ei -
+085/107	väi	1	v ä i
+085/109	väi	1	v ä i
+085/111	vei	1	v e i
 085/113	vül	1	v ü l
 085/115	vül	1	v ü l
 085/117	vül	1	v ü l
@@ -4584,22 +4584,22 @@
 086/083	viel	1	v ie l
 086/085	viel	1	v ie l
 086/087	vö	1	v ö -
-086/089	vöi	1	v öi -
+086/089	vöi	1	v ö i
 086/091	NA	NA	-
-086/093	vej	1	v ej -
-086/095	vui	1	v ui -
+086/093	vej	1	v e j
+086/095	vui	1	v u i
 086/097	viel	1	v ie l
 086/099	vil	1	v i l
-086/101	vei	1	v ei -
+086/101	vei	1	v e i
 086/103	viel	1	v ie l
-086/105	väi	1	v äi -
-086/107	vei	1	v ei -
-086/109	vei	1	v ei -
+086/105	väi	1	v ä i
+086/107	vei	1	v e i
+086/109	vei	1	v e i
 086/111	NA	NA	-
 086/113	viel	1	v ie l
 086/115	vuu	1	v uu -
 086/117	NA	NA	-
-086/119	füi	1	f üi -
+086/119	füi	1	f ü i
 086/121	NA	NA	-
 086/123	vü	1	v ü -
 086/125	vü	1	v ü -
@@ -4642,21 +4642,21 @@
 087/075	viel	1	v ie l
 087/077	viel	1	v ie l
 087/079	viel	1	v ie l
-087/081	vii	1	v ii -
+087/081	vii	1	v i i
 087/083	viel	1	v ie l
 087/085	viel	1	v ie l
-087/087	vui	1	v ui -
-087/089	voi	1	v oi -
+087/087	vui	1	v u i
+087/089	voi	1	v o i
 087/091	NA	NA	-
-087/093	väi	1	v äi -
-087/095	vüi	1	v üi -
-087/097	väi	1	v äi -
-087/099	vei	1	v ei -
-087/101	vei	1	v ei -
-087/103	vei	1	v ei -
-087/105	vej	1	v ej -
-087/107	vei	1	v ei -
-087/109	veei	1	v eei -
+087/093	väi	1	v ä i
+087/095	vüi	1	v ü i
+087/097	väi	1	v ä i
+087/099	vei	1	v e i
+087/101	vei	1	v e i
+087/103	vei	1	v e i
+087/105	vej	1	v e j
+087/107	vei	1	v e i
+087/109	veei	1	v ee i
 087/111	veil	1	v ei l
 087/113	vü	1	v ü -
 087/115	vül	1	v ü l
@@ -4665,9 +4665,9 @@
 087/121	vül	1	v ü l
 087/123	vül	1	v ü l
 087/125	vül	1	v ü l
-087/127	vüi	1	v üi -
+087/127	vüi	1	v ü i
 087/129	vül	1	v ü l
-087/133	vüi	1	v üi -
+087/133	vüi	1	v ü i
 087/135	vül	1	v ü l
 087/137	vül	1	v ü l
 087/139	vü	1	v ü -
@@ -4702,19 +4702,19 @@
 088/079	viel	1	v ie l
 088/081	vuil	1	v ui l
 088/083	vül	1	v ü l
-088/085	vui	1	v ui -
-088/087	veei	1	v eei -
-088/089	vei	1	v ei -
+088/085	vui	1	v u i
+088/087	veei	1	v ee i
+088/089	vei	1	v e i
 088/091	NA	NA	-
 088/093	vel	1	v e l
-088/095	vei	1	v ei -
+088/095	vei	1	v e i
 088/097	NA	NA	-
 088/099	viö	1	v iö -
 088/101	veü	1	v eü -
 088/103	NA	NA	-
 088/105	vill	1	v i ll
 088/107	viel	1	v ie l
-088/109	väi	1	v äi -
+088/109	väi	1	v ä i
 088/113	vü	1	v ü -
 088/115	vü	1	v ü -
 088/117	NA	NA	-
@@ -4753,8 +4753,8 @@
 089/075	viel	1	v ie l
 089/077	viel	1	v ie l
 089/079	viel	1	v ie l
-089/081	vüi	1	v üi -
-089/083	vüi	1	v üi -
+089/081	vüi	1	v ü i
+089/083	vüi	1	v ü i
 089/085	viel	1	v ie l
 089/087	viel	1	v ie l
 089/089	NA	NA	-
@@ -4762,13 +4762,13 @@
 089/093	via	1	v ia -
 089/095	vöü	1	v öü -
 089/097	NA	NA	-
-089/099	vei	1	v ei -
+089/099	vei	1	v e i
 089/101	viel	1	v ie l
 089/103	NA	NA	-
 089/105	vuö	1	v uö -
-089/107	voui	1	v oui -
+089/107	voui	1	v ou i
 089/109	weit	4	w ei t - -
-089/111	voui	1	v oui -
+089/111	voui	1	v ou i
 089/113	viöl	1	v iö l
 089/115	vü	1	v ü -
 089/117	weit	4	w ei t - -
@@ -4779,14 +4779,14 @@
 089/127	vu	1	v u -
 089/129	vü	1	v ü -
 089/131	vü	1	v ü -
-089/133	vüi	1	v üi -
+089/133	vüi	1	v ü i
 089/135	vü	1	v ü -
 089/137	vü	1	v ü -
 089/139	NA	NA	-
 089/141	vül	1	v ü l
-089/143	vüi	1	v üi -
-089/145	vüi	1	v üi -
-089/147	vüi	1	v üi -
+089/143	vüi	1	v ü i
+089/145	vüi	1	v ü i
+089/147	vüi	1	v ü i
 089/149	vu	1	v u -
 090/035	vill	1	v i ll
 090/037	vill	1	v i ll
@@ -4812,20 +4812,20 @@
 090/077	viel	1	v ie l
 090/079	viel	1	v ie l
 090/081	NA	NA	-
-090/083	vui	1	v ui -
-090/085	vui	1	v ui -
+090/083	vui	1	v u i
+090/085	vui	1	v u i
 090/087	NA	NA	-
-090/089	vöi	1	v öi -
-090/091	vei	1	v ei -
-090/093	vui	1	v ui -
+090/089	vöi	1	v ö i
+090/091	vei	1	v e i
+090/093	vui	1	v u i
 090/095	viel	1	v ie l
-090/097	vei	1	v ei -
+090/097	vei	1	v e i
 090/099	viel	1	v ie l
-090/101	vai	1	v ai -
-090/103	vei	1	v ei -
+090/101	vai	1	v a i
+090/103	vei	1	v e i
 090/105	NA	NA	-
-090/107	vei	1	v ei -
-090/109	vui	1	v ui -
+090/107	vei	1	v e i
+090/109	vui	1	v u i
 090/111	weit	4	w ei t - -
 090/113	NA	NA	-
 090/115	NA	NA	-
@@ -4872,15 +4872,15 @@
 091/081	viel	1	v ie l
 091/083	viu	1	v iu -
 091/085	NA	NA	-
-091/087	vui	1	v ui -
+091/087	vui	1	v u i
 091/091	viel	1	v ie l
-091/093	vui	1	v ui -
+091/093	vui	1	v u i
 091/095	veu	1	v eu -
 091/097	viel	1	v ie l
 091/099	fie	1	f ie -
-091/101	vui	1	v ui -
+091/101	vui	1	v u i
 091/103	veu	1	v eu -
-091/105	vui	1	v ui -
+091/105	vui	1	v u i
 091/107	via	1	v ia -
 091/109	vuil	1	v ui l
 091/111	vu	1	v u -
@@ -4927,17 +4927,17 @@
 092/075	viel	1	v ie l
 092/077	viel	1	v ie l
 092/079	NA	NA	-
-092/081	vui	1	v ui -
+092/081	vui	1	v u i
 092/083	viel	1	v ie l
 092/085	viel	1	v ie l
-092/087	vui	1	v ui -
-092/089	vui	1	v ui -
-092/091	vui	1	v ui -
-092/093	vui	1	v ui -
-092/095	vui	1	v ui -
-092/097	vüj	1	v üj -
+092/087	vui	1	v u i
+092/089	vui	1	v u i
+092/091	vui	1	v u i
+092/093	vui	1	v u i
+092/095	vui	1	v u i
+092/097	vüj	1	v ü j
 092/099	NA	NA	-
-092/101	vaai	1	v aai -
+092/101	vaai	1	v aa i
 092/103	vuil	1	v ui l
 092/105	weid	4	w ei d - -
 092/107	viel	1	v ie l
@@ -4988,18 +4988,18 @@
 093/079	viel	1	v ie l
 093/081	viel	1	v ie l
 093/083	viel	1	v ie l
-093/085	vui	1	v ui -
-093/087	vui	1	v ui -
-093/089	vui	1	v ui -
+093/085	vui	1	v u i
+093/087	vui	1	v u i
+093/089	vui	1	v u i
 093/091	viel	1	v ie l
 093/093	vuie	1	v uie -
 093/095	veil	1	v ei l
-093/097	vui	1	v ui -
-093/099	vui	1	v ui -
+093/097	vui	1	v u i
+093/099	vui	1	v u i
 093/101	viel	1	v ie l
 093/103	viä	1	v iä -
-093/105	vui	1	v ui -
-093/109	vui	1	v ui -
+093/105	vui	1	v u i
+093/109	vui	1	v u i
 093/111	vü	1	v ü -
 093/113	weit	4	w ei t - -
 093/115	viel	1	v ie l
@@ -5008,7 +5008,7 @@
 093/121	vül	1	v ü l
 093/123	vü	1	v ü -
 093/125	vu	1	v u -
-093/127	füi	1	f üi -
+093/127	füi	1	f ü i
 093/129	vül	1	v ü l
 093/131	vü	1	v ü -
 093/133	vü	1	v ü -
@@ -5045,19 +5045,19 @@
 094/075	viel	1	v ie l
 094/077	viel	1	v ie l
 094/079	NA	NA	-
-094/081	vui	1	v ui -
-094/083	vui	1	v ui -
-094/085	vui	1	v ui -
+094/081	vui	1	v u i
+094/083	vui	1	v u i
+094/085	vui	1	v u i
 094/087	wia	1	w ia -
-094/089	vui	1	v ui -
-094/091	vui	1	v ui -
-094/093	vui	1	v ui -
-094/095	vui	1	v ui -
-094/097	vui	1	v ui -
-094/099	vöi	1	v öi -
-094/101	veij	1	v eij -
+094/089	vui	1	v u i
+094/091	vui	1	v u i
+094/093	vui	1	v u i
+094/095	vui	1	v u i
+094/097	vui	1	v u i
+094/099	vöi	1	v ö i
+094/101	veij	1	v ei j
 094/103	vil	1	v i l
-094/105	vui	1	v ui -
+094/105	vui	1	v u i
 094/107	viel	1	v ie l
 094/109	vüh	1	v üh -
 094/111	vüil	1	v üi l
@@ -5067,7 +5067,7 @@
 094/119	vüil	1	v üi l
 094/121	weit	4	w ei t - -
 094/123	vü	1	v ü -
-094/125	vüi	1	v üi -
+094/125	vüi	1	v ü i
 094/127	vül	1	v ü l
 094/129	vü	1	v ü -
 094/131	vü	1	v ü -
@@ -5108,28 +5108,28 @@
 095/077	viel	1	v ie l
 095/079	viel	1	v ie l
 095/081	viel	1	v ie l
-095/083	vui	1	v ui -
+095/083	vui	1	v u i
 095/085	via	1	v ia -
 095/087	via	1	v ia -
 095/089	viel	1	v ie l
 095/091	NA	NA	-
 095/093	viel	1	v ie l
-095/095	voi	1	v oi -
-095/097	vöi	1	v öi -
-095/099	vöi	1	v öi -
+095/095	voi	1	v o i
+095/097	vöi	1	v ö i
+095/099	vöi	1	v ö i
 095/101	viel	1	v ie l
 095/103	vül	1	v ü l
 095/105	vie	1	v ie -
 095/107	vi	1	v i -
 095/109	vie	1	v ie -
-095/111	vüi	1	v üi -
+095/111	vüi	1	v ü i
 095/113	vü	1	v ü -
 095/115	vül	1	v ü l
 095/117	vü	1	v ü -
 095/119	NA	NA	-
 095/121	vül	1	v ü l
 095/123	vü	1	v ü -
-095/125	vüi	1	v üi -
+095/125	vüi	1	v ü i
 095/129	vü	1	v ü -
 095/131	vü	1	v ü -
 095/133	NA	NA	-
@@ -5172,8 +5172,8 @@
 096/087	vieel	1	v iee l
 096/089	vüll	1	v ü ll
 096/091	NA	NA	-
-096/093	vui	1	v ui -
-096/095	voi	1	v oi -
+096/093	vui	1	v u i
+096/095	voi	1	v o i
 096/097	viel	1	v ie l
 096/099	vi	1	v i -
 096/101	vüll	1	v ü ll
@@ -5187,9 +5187,9 @@
 096/117	NA	NA	-
 096/119	vu	1	v u -
 096/121	fü	1	f ü -
-096/123	vui	1	v ui -
+096/123	vui	1	v u i
 096/125	vü	1	v ü -
-096/129	vüi	1	v üi -
+096/129	vüi	1	v ü i
 096/131	vü	1	v ü -
 096/135	vü	1	v ü -
 096/137	NA	NA	-
@@ -5228,9 +5228,9 @@
 097/079	viel	1	v ie l
 097/081	NA	NA	-
 097/083	vil	1	v i l
-097/085	vui	1	v ui -
+097/085	vui	1	v u i
 097/087	vüil	1	v üi l
-097/089	väi	1	v äi -
+097/089	väi	1	v ä i
 097/091	vil	1	v i l
 097/093	vial	1	v ia l
 097/095	NA	NA	-
@@ -5244,8 +5244,8 @@
 097/125	vil	1	v i l
 097/131	vül	1	v ü l
 097/133	vü	1	v ü -
-097/139	vüi	1	v üi -
-097/141	vüi	1	v üi -
+097/139	vüi	1	v ü i
+097/141	vüi	1	v ü i
 097/143	vül	1	v ü l
 097/145	vüll	1	v ü ll
 097/149	vüll	1	v ü ll
@@ -5274,10 +5274,10 @@
 098/075	viel	1	v ie l
 098/077	vihl	1	v ih l
 098/079	viel	1	v ie l
-098/081	vui	1	v ui -
-098/083	vui	1	v ui -
+098/081	vui	1	v u i
+098/083	vui	1	v u i
 098/085	vül	1	v ü l
-098/087	vui	1	v ui -
+098/087	vui	1	v u i
 098/089	viel	1	v ie l
 098/091	vill	1	v i ll
 098/093	viel	1	v ie l
@@ -5285,7 +5285,7 @@
 098/097	viel	1	v ie l
 098/103	viel	1	v ie l
 098/105	vie	1	v ie -
-098/107	vüi	1	v üi -
+098/107	vüi	1	v ü i
 098/109	woitla	4	w oi t l a
 098/111	NA	NA	-
 098/119	fü	1	f ü -
@@ -5326,10 +5326,10 @@
 099/081	viel	1	v ie l
 099/083	viel	1	v ie l
 099/085	vüll	1	v ü ll
-099/089	vui	1	v ui -
+099/089	vui	1	v u i
 099/093	vü	1	v ü -
-099/095	vui	1	v ui -
-099/099	vui	1	v ui -
+099/095	vui	1	v u i
+099/099	vui	1	v u i
 099/101	vül	1	v ü l
 099/103	NA	NA	-
 099/105	fie	1	f ie -
@@ -5372,15 +5372,15 @@
 100/083	vill	1	v i ll
 100/089	vü	1	v ü -
 100/093	vü	1	v ü -
-100/095	vüi	1	v üi -
-100/097	vui	1	v ui -
-100/099	vui	1	v ui -
+100/095	vüi	1	v ü i
+100/097	vui	1	v u i
+100/099	vui	1	v u i
 100/101	vie	1	v ie -
 100/109	vü	1	v ü -
 100/111	viel	1	v ie l
 100/113	weit	4	w ei t - -
 100/115	viel	1	v ie l
-100/117	vui	1	v ui -
+100/117	vui	1	v u i
 100/119	weit	4	w ei t - -
 100/121	weit	4	w ei t - -
 100/125	vul	1	v u l
@@ -5416,12 +5416,12 @@
 101/091	NA	NA	-
 101/093	vü	1	v ü -
 101/095	vü	1	v ü -
-101/097	vui	1	v ui -
-101/099	vui	1	v ui -
+101/097	vui	1	v u i
+101/099	vui	1	v u i
 101/101	fü	1	f ü -
 101/103	trumm	NA	-
-101/107	vii	1	v ii -
-101/109	vüi	1	v üi -
+101/107	vii	1	v i i
+101/109	vüi	1	v ü i
 101/113	leibs	NA	-
 101/115	NA	NA	-
 101/121	weit	4	w ei t - -
@@ -5465,7 +5465,7 @@
 102/095	vü	1	v ü -
 102/097	viel	1	v ie l
 102/099	viel	1	v ie l
-102/103	vuj	1	v uj -
+102/103	vuj	1	v u j
 102/107	vü	1	v ü -
 102/109	NA	NA	-
 102/113	NA	NA	-
@@ -5549,10 +5549,10 @@
 104/085	viel	1	v ie l
 104/091	NA	NA	-
 104/095	vüh	1	v üh -
-104/101	vüi	1	v üi -
+104/101	vüi	1	v ü i
 104/103	vü	1	v ü -
 104/107	vi	1	v i -
-104/111	vii	1	v ii -
+104/111	vii	1	v i i
 104/113	vü	1	v ü -
 104/119	weit	4	w ei t - -
 104/121	wait	4	w ai t - -
@@ -5569,7 +5569,7 @@
 104/145	vüll	1	v ü ll
 105/031	vieu	1	v ieu -
 105/033	viel	1	v ie l
-105/035	vüi	1	v üi -
+105/035	vüi	1	v ü i
 105/037	viu	1	v iu -
 105/039	viu	1	v iu -
 105/041	viu	1	v iu -

@@ -3805,8 +3805,8 @@
 071/149	verlangt	NA	-
 071/151	stell	1	s t e ll -
 071/153	stall	1	s t a ll -
-071/155	stöj	1	s t öj - -
-071/157	stoi	1	s t oi - -
+071/155	stöj	1	s t ö j -
+071/157	stoi	1	s t o i -
 071/159	stell	1	s t e ll -
 071/161	ställ	1	s t ä ll -
 071/163	solln	1	s - o ll n
@@ -4132,7 +4132,7 @@
 077/099	stel	1	s t e l -
 077/101	schdöl	1	sch d ö l -
 077/103	stöll	1	s t ö ll -
-077/135	schöj	1	sch - öj - -
+077/135	schöj	1	sch - ö j -
 077/137	stell	1	s t e ll -
 078/021	stal	1	s t a l -
 078/023	NA	NA	-
@@ -4363,9 +4363,9 @@
 082/097	schtell	1	sch t e ll -
 082/099	stell	1	s t e ll -
 082/101	schdel	1	sch d e l -
-082/103	stej	1	s t ej - -
-082/105	schtei	1	sch t ei - -
-082/107	schtöi	1	sch t öi - -
+082/103	stej	1	s t e j -
+082/105	schtei	1	sch t e i -
+082/107	schtöi	1	sch t ö i -
 082/111	schtöl	1	sch t ö l -
 082/113	braucht	12	b r au ch - t -
 082/117	stöl	1	s t ö l -
@@ -4413,13 +4413,13 @@
 083/093	schtell	1	sch t e ll -
 083/095	stell	1	s t e ll -
 083/097	schehl	1	sch - eh l -
-083/099	schdei	1	sch d ei - -
+083/099	schdei	1	sch d e i -
 083/101	stell	1	s t e ll -
-083/103	schtei	1	sch t ei - -
-083/105	stei	1	s t ei - -
-083/107	schtei	1	sch t ei - -
-083/111	stei	1	s t ei - -
-083/113	stei	1	s t ei - -
+083/103	schtei	1	sch t e i -
+083/105	stei	1	s t e i -
+083/107	schtei	1	sch t e i -
+083/111	stei	1	s t e i -
+083/113	stei	1	s t e i -
 083/115	schtöll	1	sch t ö ll -
 083/117	schti	1	sch t i - -
 083/119	schtüll	1	sch t ü ll -
@@ -4465,18 +4465,18 @@
 084/085	schell	1	sch - e ll -
 084/087	stell	1	s t e ll -
 084/089	stel	1	s t e l -
-084/091	schtej	1	sch t ej - -
-084/093	schei	1	sch - ei - -
+084/091	schtej	1	sch t e j -
+084/093	schei	1	sch - e i -
 084/095	schtell	1	sch t e ll -
 084/097	stell	1	s t e ll -
 084/099	stell	1	s t e ll -
-084/101	schoi	1	sch - oi - -
-084/103	schdei	1	sch d ei - -
+084/101	schoi	1	sch - o i -
+084/103	schdei	1	sch d e i -
 084/105	stel	1	s t e l -
-084/107	stei	1	s t ei - -
-084/109	schtei	1	sch t ei - -
-084/111	schdöi	1	sch d öi - -
-084/113	schäi	1	sch - äi - -
+084/107	stei	1	s t e i -
+084/109	schtei	1	sch t e i -
+084/111	schdöi	1	sch d ö i -
+084/113	schäi	1	sch - ä i -
 084/115	schtell	1	sch t e ll -
 084/117	afgnuma	4	a f g - n u m a -
 084/119	stüll	1	s t ü ll -
@@ -4522,18 +4522,18 @@
 085/081	stöll	1	s t ö ll -
 085/083	schell	1	sch - e ll -
 085/085	schtell	1	sch t e ll -
-085/087	stei	1	s t ei - -
-085/089	schtei	1	sch t ei - -
+085/087	stei	1	s t e i -
+085/089	schtei	1	sch t e i -
 085/091	schtel	1	sch t e l -
-085/093	schtei	1	sch t ei - -
-085/095	schtei	1	sch t ei - -
-085/097	schdej	1	sch d ej - -
+085/093	schtei	1	sch t e i -
+085/095	schtei	1	sch t e i -
+085/097	schdej	1	sch d e j -
 085/101	stell	1	s t e ll -
 085/103	stell	1	s t e ll -
 085/105	schdea	1	sch d ea - -
-085/107	stei	1	s t ei - -
-085/109	steei	1	s t eei - -
-085/111	stei	1	s t ei - -
+085/107	stei	1	s t e i -
+085/109	steei	1	s t ee i -
+085/111	stei	1	s t e i -
 085/113	schtell	1	sch t e ll -
 085/115	stüll	1	s t ü ll -
 085/117	schtül	1	sch t ü l -
@@ -4549,7 +4549,7 @@
 085/137	stöll	1	s t ö ll -
 085/139	schtöl	1	sch t ö l -
 085/141	aiglond	9	ai - g l o n d - -
-085/143	stöj	1	s t öj - -
+085/143	stöj	1	s t ö j -
 085/145	stöl	1	s t ö l -
 085/147	stöll	1	s t ö ll -
 085/149	schtöll	1	sch t ö ll -
@@ -4583,23 +4583,23 @@
 086/081	schteul	1	sch t eu l -
 086/083	schtell	1	sch t e ll -
 086/085	schtell	1	sch t e ll -
-086/087	schdöi	1	sch d öi - -
+086/087	schdöi	1	sch d ö i -
 086/089	schdel	1	sch d e l -
 086/091	schtell	1	sch t e ll -
 086/093	strrjz	7	s t rrj z - - -
 086/095	schtöid	1	sch t öi d -
-086/097	schdeih	1	sch d eih - -
+086/097	schdeih	1	sch d e ih -
 086/099	eigscheit	NA	-
-086/101	schdei	1	sch d ei - -
+086/101	schdei	1	sch d e i -
 086/103	stell	1	s t e ll -
-086/105	schtäi	1	sch t äi - -
-086/107	schei	1	sch - ei - -
-086/109	schtöi	1	sch t öi - -
+086/105	schtäi	1	sch t ä i -
+086/107	schei	1	sch - e i -
+086/109	schtöi	1	sch t ö i -
 086/111	schteö	1	sch t eö - -
 086/113	stell	1	s t e ll -
 086/115	stöll	1	s t ö ll -
 086/117	schtül	1	sch t ü l -
-086/119	stuj	1	s t uj - -
+086/119	stuj	1	s t u j -
 086/121	NA	NA	-
 086/123	schtü	1	sch t ü - -
 086/125	schtöia	1	sch t öia - -
@@ -4609,7 +4609,7 @@
 086/133	stell	1	s t e ll -
 086/135	eiglout	9	ei - g l ou - t - -
 086/137	aufgnoma	4	au f g - n o m a -
-086/139	stöi	1	s t öi - -
+086/139	stöi	1	s t ö i -
 086/141	stö	1	s t ö - -
 086/143	stö	1	s t ö - -
 086/145	stö	1	s t ö - -
@@ -4642,23 +4642,23 @@
 087/075	schtöll	1	sch t ö ll -
 087/077	schdell	1	sch d e ll -
 087/079	schtöll	1	sch t ö ll -
-087/081	schtäi	1	sch t äi - -
-087/083	schdei	1	sch d ei - -
+087/081	schtäi	1	sch t ä i -
+087/083	schdei	1	sch d e i -
 087/085	stell	1	s t e ll -
-087/087	schdei	1	sch d ei - -
-087/089	stoi	1	s t oi - -
+087/087	schdei	1	sch d e i -
+087/089	stoi	1	s t o i -
 087/091	steuh	1	s t euh - -
-087/093	schtei	1	sch t ei - -
+087/093	schtei	1	sch t e i -
 087/095	stell	1	s t e ll -
-087/097	schtäi	1	sch t äi - -
-087/099	schtei	1	sch t ei - -
-087/101	schtei	1	sch t ei - -
+087/097	schtäi	1	sch t ä i -
+087/099	schtei	1	sch t e i -
+087/101	schtei	1	sch t e i -
 087/103	schtel	1	sch t e l -
-087/105	schtej	1	sch t ej - -
-087/107	stei	1	s t ei - -
-087/109	steei	1	s t eei - -
+087/105	schtej	1	sch t e j -
+087/107	stei	1	s t e i -
+087/109	steei	1	s t ee i -
 087/111	stell	1	s t e ll -
-087/113	schtöj	1	sch t öj - -
+087/113	schtöj	1	sch t ö j -
 087/115	stöll	1	s t ö ll -
 087/117	stü	1	s t ü - -
 087/119	schü	1	sch - ü - -
@@ -4667,10 +4667,10 @@
 087/125	stell	1	s t e ll -
 087/127	eingloud	9	ei n g l ou - d - -
 087/129	stell	1	s t e ll -
-087/133	schdöi	1	sch d öi - -
+087/133	schdöi	1	sch d ö i -
 087/135	stell	1	s t e ll -
 087/137	schtell	1	sch t e ll -
-087/139	stöi	1	s t öi - -
+087/139	stöi	1	s t ö i -
 087/141	schtöl	1	sch t ö l -
 087/143	schtö	1	sch t ö - -
 087/145	schtö	1	sch t ö - -
@@ -4702,19 +4702,19 @@
 088/079	schdöll	1	sch d ö ll -
 088/081	NA	NA	-
 088/083	schtöhl	1	sch t öh l -
-088/085	schdei	1	sch d ei - -
-088/087	schdei	1	sch d ei - -
+088/085	schdei	1	sch d e i -
+088/087	schdei	1	sch d e i -
 088/089	stell	1	s t e ll -
-088/091	schtei	1	sch t ei - -
+088/091	schtei	1	sch t e i -
 088/093	schtel	1	sch t e l -
-088/095	schtäi	1	sch t äi - -
+088/095	schtäi	1	sch t ä i -
 088/097	schtell	1	sch t e ll -
-088/099	schteei	1	sch t eei - -
+088/099	schteei	1	sch t ee i -
 088/101	NA	NA	-
-088/103	stöi	1	s t öi - -
+088/103	stöi	1	s t ö i -
 088/105	schta	1	sch t a - -
 088/107	schtell	1	sch t e ll -
-088/109	stei	1	s t ei - -
+088/109	stei	1	s t e i -
 088/113	stö	1	s t ö - -
 088/115	stöll	1	s t ö ll -
 088/117	schtöl	1	sch t ö l -
@@ -4722,7 +4722,7 @@
 088/123	stöll	1	s t ö ll -
 088/127	schdö	1	sch d ö - -
 088/129	stell	1	s t e ll -
-088/131	stöi	1	s t öi - -
+088/131	stöi	1	s t ö i -
 088/137	stö	1	s t ö - -
 088/139	schdö	1	sch d ö - -
 088/141	schdö	1	sch d ö - -
@@ -4757,16 +4757,16 @@
 089/083	stü	1	s t ü - -
 089/085	stell	1	s t e ll -
 089/087	schtell	1	sch t e ll -
-089/089	stei	1	s t ei - -
-089/091	stöi	1	s t öi - -
-089/093	stoi	1	s t oi - -
-089/095	schtöüi	1	sch t öüi - -
-089/097	schdei	1	sch d ei - -
-089/099	schtei	1	sch t ei - -
+089/089	stei	1	s t e i -
+089/091	stöi	1	s t ö i -
+089/093	stoi	1	s t o i -
+089/095	schtöüi	1	sch t öü i -
+089/097	schdei	1	sch d e i -
+089/099	schtei	1	sch t e i -
 089/101	stell	1	s t e ll -
 089/103	schtel	1	sch t e l -
 089/105	schdoö	1	sch d oö - -
-089/107	schtoi	1	sch t oi - -
+089/107	schtoi	1	sch t o i -
 089/109	gfriemt	NA	-
 089/111	NA	NA	-
 089/113	ställ	1	s t ä ll -
@@ -4775,7 +4775,7 @@
 089/119	dunga	11	- - - - d u ng a -
 089/121	schdöü	1	sch d öü - -
 089/123	eingladn	9	ei n g l a - d - n
-089/125	stöi	1	s t öi - -
+089/125	stöi	1	s t ö i -
 089/127	stel	1	s t e l -
 089/129	stö	1	s t ö - -
 089/131	stöl	1	s t ö l -
@@ -4786,7 +4786,7 @@
 089/141	schtöl	1	sch t ö l -
 089/143	schtöl	1	sch t ö l -
 089/145	aufgnoma	4	au f g - n o m a -
-089/147	schtöi	1	sch t öi - -
+089/147	schtöi	1	sch t ö i -
 089/149	stö	1	s t ö - -
 090/035	schdell	1	sch d e ll -
 090/037	schdell	1	sch d e ll -
@@ -4812,19 +4812,19 @@
 090/077	schtöll	1	sch t ö ll -
 090/079	schtell	1	sch t e ll -
 090/081	stell	1	s t e ll -
-090/083	schtoi	1	sch t oi - -
-090/085	schtöi	1	sch t öi - -
+090/083	schtoi	1	sch t o i -
+090/085	schtöi	1	sch t ö i -
 090/087	schtell	1	sch t e ll -
-090/089	schtöi	1	sch t öi - -
-090/091	stei	1	s t ei - -
-090/093	schteih	1	sch t eih - -
-090/095	schdoi	1	sch d oi - -
-090/097	schtei	1	sch t ei - -
+090/089	schtöi	1	sch t ö i -
+090/091	stei	1	s t e i -
+090/093	schteih	1	sch t e ih -
+090/095	schdoi	1	sch d o i -
+090/097	schtei	1	sch t e i -
 090/099	schtell	1	sch t e ll -
 090/101	schtell	1	sch t e ll -
-090/103	schtoi	1	sch t oi - -
-090/105	schtej	1	sch t ej - -
-090/107	schdei	1	sch d ei - -
+090/103	schtoi	1	sch t o i -
+090/105	schtej	1	sch t e j -
+090/107	schdei	1	sch d e i -
 090/109	schtöll	1	sch t ö ll -
 090/111	stöh	1	s t öh - -
 090/113	schteel	1	sch t ee l -
@@ -4844,7 +4844,7 @@
 090/143	schdö	1	sch d ö - -
 090/145	schtöh	1	sch t öh - -
 090/147	brauchatn	12	b r au ch a t n
-090/149	stöi	1	s t öi - -
+090/149	stöi	1	s t ö i -
 090/151	schöll	1	sch - ö ll -
 091/035	stell	1	s t e ll -
 091/037	schtell	1	sch t e ll -
@@ -4870,20 +4870,20 @@
 091/077	schtell	1	sch t e ll -
 091/079	schtöll	1	sch t ö ll -
 091/081	schtöl	1	sch t ö l -
-091/083	stoi	1	s t oi - -
+091/083	stoi	1	s t o i -
 091/085	schtel	1	sch t e l -
-091/087	schtoi	1	sch t oi - -
+091/087	schtoi	1	sch t o i -
 091/091	schdöll	1	sch d ö ll -
-091/093	stuih	1	s t uih - -
-091/095	stoi	1	s t oi - -
-091/097	schdoi	1	sch d oi - -
+091/093	stuih	1	s t u ih -
+091/095	stoi	1	s t o i -
+091/097	schdoi	1	sch d o i -
 091/099	kema	14	k e m a
 091/101	NA	NA	-
-091/103	schdei	1	sch d ei - -
+091/103	schdei	1	sch d e i -
 091/105	aufgenuma	4	au f g e n u m a -
-091/107	schtoi	1	sch t oi - -
-091/109	stoi	1	s t oi - -
-091/111	stoi	1	s t oi - -
+091/107	schtoi	1	sch t o i -
+091/109	stoi	1	s t o i -
+091/111	stoi	1	s t o i -
 091/113	dunga	11	- - - - d u ng a -
 091/115	sollt	1	s - o ll t
 091/117	braucht	12	b r au ch - t -
@@ -4892,12 +4892,12 @@
 091/125	stöl	1	s t ö l -
 091/129	schtö	1	sch t ö - -
 091/131	stell	1	s t e ll -
-091/133	schtöi	1	sch t öi - -
-091/135	stöi	1	s t öi - -
+091/133	schtöi	1	sch t ö i -
+091/135	stöi	1	s t ö i -
 091/137	schö	1	sch - ö - -
 091/139	stöh	1	s t öh - -
 091/141	aufgnumma	4	au f g - n u mm a -
-091/143	schtöi	1	sch t öi - -
+091/143	schtöi	1	sch t ö i -
 091/145	eöglon	9	eö - g l o n - - -
 091/147	stell	1	s t e ll -
 091/149	schtö	1	sch t ö - -
@@ -4930,14 +4930,14 @@
 092/081	schdell	1	sch d e ll -
 092/083	schtöll	1	sch t ö ll -
 092/085	schtell	1	sch t e ll -
-092/087	stui	1	s t ui - -
-092/089	schdei	1	sch d ei - -
-092/091	schdoi	1	sch d oi - -
+092/087	stui	1	s t u i -
+092/089	schdei	1	sch d e i -
+092/091	schdoi	1	sch d o i -
 092/093	gfrimd	NA	-
-092/095	schdai	1	sch d ai - -
-092/097	stei	1	s t ei - -
-092/099	schtoi	1	sch t oi - -
-092/101	schaii	1	sch - aii - -
+092/095	schdai	1	sch d a i -
+092/097	stei	1	s t e i -
+092/099	schtoi	1	sch t o i -
+092/101	schaii	1	sch - ai i -
 092/103	schtoil	1	sch t oi l -
 092/105	schdö	1	sch d ö - -
 092/107	stöll	1	s t ö ll -
@@ -4957,10 +4957,10 @@
 092/135	stö	1	s t ö - -
 092/137	brauchatn	12	b r au ch a t n
 092/139	aufgnoma	4	au f g - n o m a -
-092/141	stöih	1	s t öih - -
+092/141	stöih	1	s t ö ih -
 092/143	schtö	1	sch t ö - -
 092/145	stöil	1	s t öi l -
-092/147	schtöi	1	sch t öi - -
+092/147	schtöi	1	sch t ö i -
 092/149	stö	1	s t ö - -
 092/151	stell	1	s t e ll -
 093/035	schtell	1	sch t e ll -
@@ -4988,31 +4988,31 @@
 093/079	schtell	1	sch t e ll -
 093/081	schtöll	1	sch t ö ll -
 093/083	schtäl	1	sch t ä l -
-093/085	stoi	1	s t oi - -
-093/087	schtoi	1	sch t oi - -
-093/089	schtoi	1	sch t oi - -
-093/091	schtoi	1	sch t oi - -
-093/093	schtui	1	sch t ui - -
+093/085	stoi	1	s t o i -
+093/087	schtoi	1	sch t o i -
+093/089	schtoi	1	sch t o i -
+093/091	schtoi	1	sch t o i -
+093/093	schtui	1	sch t u i -
 093/095	schtell	1	sch t e ll -
-093/097	schtoi	1	sch t oi - -
+093/097	schtoi	1	sch t o i -
 093/099	stell	1	s t e ll -
-093/101	schtei	1	sch t ei - -
+093/101	schtei	1	sch t e i -
 093/103	stö	1	s t ö - -
-093/105	schtöi	1	sch t öi - -
-093/109	schtoi	1	sch t oi - -
+093/105	schtöi	1	sch t ö i -
+093/109	schtoi	1	sch t o i -
 093/111	ghoilt	10	- - g h oi l t - -
 093/113	stöl	1	s t ö l -
 093/115	stell	1	s t e ll -
 093/117	schtoie	1	sch t oie - -
-093/119	schäi	1	sch - äi - -
+093/119	schäi	1	sch - ä i -
 093/121	stöll	1	s t ö ll -
 093/123	stöll	1	s t ö ll -
 093/125	stö	1	s t ö - -
-093/127	sdöi	1	s d öi - -
+093/127	sdöi	1	s d ö i -
 093/129	stell	1	s t e ll -
 093/131	stö	1	s t ö - -
 093/133	einglodn	9	ei n g l o - d - n
-093/137	stöi	1	s t öi - -
+093/137	stöi	1	s t ö i -
 093/139	schtö	1	sch t ö - -
 093/143	schtö	1	sch t ö - -
 093/145	stö	1	s t ö - -
@@ -5045,32 +5045,32 @@
 094/075	stöll	1	s t ö ll -
 094/077	schtell	1	sch t e ll -
 094/079	schtell	1	sch t e ll -
-094/081	stoi	1	s t oi - -
-094/083	stoi	1	s t oi - -
+094/081	stoi	1	s t o i -
+094/083	stoi	1	s t o i -
 094/085	schtoö	1	sch t oö - -
-094/087	schtei	1	sch t ei - -
-094/089	stöi	1	s t öi - -
-094/091	schdei	1	sch d ei - -
-094/093	stei	1	s t ei - -
+094/087	schtei	1	sch t e i -
+094/089	stöi	1	s t ö i -
+094/091	schdei	1	sch d e i -
+094/093	stei	1	s t e i -
 094/095	schdeu	1	sch d eu - -
-094/097	schoi	1	sch - oi - -
-094/099	schoi	1	sch - oi - -
-094/101	steij	1	s t eij - -
+094/097	schoi	1	sch - o i -
+094/099	schoi	1	sch - o i -
+094/101	steij	1	s t ei j -
 094/103	schtöll	1	sch t ö ll -
 094/105	eigsoagt	NA	-
 094/107	schtöll	1	sch t ö ll -
 094/109	stö	1	s t ö - -
-094/111	schtöi	1	sch t öi - -
+094/111	schtöi	1	sch t ö i -
 094/113	stell	1	s t e ll -
 094/115	stö	1	s t ö - -
 094/117	stöl	1	s t ö l -
 094/119	stöll	1	s t ö ll -
 094/121	stöll	1	s t ö ll -
 094/123	gloud	9	- - g l ou - d - -
-094/125	schooi	1	sch - ooi - -
+094/125	schooi	1	sch - oo i -
 094/127	schtö	1	sch t ö - -
-094/129	schtöi	1	sch t öi - -
-094/131	stoi	1	s t oi - -
+094/129	schtöi	1	sch t ö i -
+094/131	stoi	1	s t o i -
 094/133	aufgnoma	4	au f g - n o m a -
 094/135	stell	1	s t e ll -
 094/137	steöh	1	s t eöh - -
@@ -5108,17 +5108,17 @@
 095/077	schtell	1	sch t e ll -
 095/079	stell	1	s t e ll -
 095/081	schtöl	1	sch t ö l -
-095/083	schstui	1	schs t ui - -
+095/083	schstui	1	schs t u i -
 095/085	NA	NA	-
 095/087	NA	NA	-
 095/089	schdel	1	sch d e l -
-095/091	stäi	1	s t äi - -
+095/091	stäi	1	s t ä i -
 095/093	schtell	1	sch t e ll -
-095/095	schdoi	1	sch d oi - -
+095/095	schdoi	1	sch d o i -
 095/097	schtöll	1	sch t ö ll -
 095/099	schdöl	1	sch d ö l -
 095/101	schtell	1	sch t e ll -
-095/103	schtoi	1	sch t oi - -
+095/103	schtoi	1	sch t o i -
 095/105	stel	1	s t e l -
 095/107	ställ	1	s t ä ll -
 095/109	stöll	1	s t ö ll -
@@ -5129,14 +5129,14 @@
 095/119	stöll	1	s t ö ll -
 095/121	stell	1	s t e ll -
 095/123	stöll	1	s t ö ll -
-095/125	soi	1	s - oi - -
+095/125	soi	1	s - o i -
 095/129	stöl	1	s t ö l -
 095/131	schtö	1	sch t ö - -
 095/133	stell	1	s t e ll -
 095/139	stel	1	s t e l -
 095/141	schtöll	1	sch t ö ll -
 095/143	stell	1	s t e ll -
-095/145	schtöi	1	sch t öi - -
+095/145	schtöi	1	sch t ö i -
 095/147	schtö	1	sch t ö - -
 095/149	stö	1	s t ö - -
 095/151	stöüll	1	s t öü ll -
@@ -5166,13 +5166,13 @@
 096/075	schtöll	1	sch t ö ll -
 096/077	schtöll	1	sch t ö ll -
 096/079	schstell	1	schs t e ll -
-096/081	schdoi	1	sch d oi - -
+096/081	schdoi	1	sch d o i -
 096/083	schtöll	1	sch t ö ll -
-096/085	schdöi	1	sch d öi - -
+096/085	schdöi	1	sch d ö i -
 096/087	scheeil	1	sch - eei l -
 096/089	schil	1	sch - i l -
 096/091	schdel	1	sch d e l -
-096/093	schdui	1	sch d ui - -
+096/093	schdui	1	sch d u i -
 096/095	schtel	1	sch t e l -
 096/097	stell	1	s t e ll -
 096/099	sö	1	s - ö - -
@@ -5187,9 +5187,9 @@
 096/117	eigland	9	ei - g l a n d - -
 096/119	schtöll	1	sch t ö ll -
 096/121	schtö	1	sch t ö - -
-096/123	schtoi	1	sch t oi - -
-096/125	schdöi	1	sch d öi - -
-096/129	stöi	1	s t öi - -
+096/123	schtoi	1	sch t o i -
+096/125	schdöi	1	sch d ö i -
+096/129	stöi	1	s t ö i -
 096/131	stö	1	s t ö - -
 096/135	gschickt	NA	-
 096/137	einglade	9	ei n g l a - d e -
@@ -5198,7 +5198,7 @@
 096/143	stö	1	s t ö - -
 096/145	stöül	1	s t öü l -
 096/147	schöü	1	sch - öü - -
-096/151	schtöjh	1	sch t öjh - -
+096/151	schtöjh	1	sch t ö jh -
 096/153	stöl	1	s t ö l -
 096/155	stöüa	1	s t öüa - -
 097/031	stell	1	s t e ll -
@@ -5230,22 +5230,22 @@
 097/083	schtell	1	sch t e ll -
 097/085	schtel	1	sch t e l -
 097/087	schtell	1	sch t e ll -
-097/089	schtöi	1	sch t öi - -
+097/089	schtöi	1	sch t ö i -
 097/091	NA	NA	-
 097/093	schdöl	1	sch d ö l -
-097/095	schtoi	1	sch t oi - -
+097/095	schtoi	1	sch t o i -
 097/097	schtell	1	sch t e ll -
 097/099	stell	1	s t e ll -
 097/103	stöl	1	s t ö l -
 097/105	schtöll	1	sch t ö ll -
-097/107	schtoi	1	sch t oi - -
+097/107	schtoi	1	sch t o i -
 097/109	braucht	12	b r au ch - t -
 097/113	ghoassn	8	g h oa ss - n
 097/125	NA	NA	-
 097/131	stöl	1	s t ö l -
 097/133	stell	1	s t e ll -
-097/139	stöi	1	s t öi - -
-097/141	stöi	1	s t öi - -
+097/139	stöi	1	s t ö i -
+097/141	stöi	1	s t ö i -
 097/143	aufgnumma	4	au f g - n u mm a -
 097/145	stöüll	1	s t öü ll -
 097/149	stöll	1	s t ö ll -
@@ -5277,10 +5277,10 @@
 098/081	stell	1	s t e ll -
 098/083	schtell	1	sch t e ll -
 098/085	stell	1	s t e ll -
-098/087	schöi	1	sch - öi - -
+098/087	schöi	1	sch - ö i -
 098/089	schtell	1	sch t e ll -
-098/091	schöi	1	sch - öi - -
-098/093	stöi	1	s t öi - -
+098/091	schöi	1	sch - ö i -
+098/093	stöi	1	s t ö i -
 098/095	stell	1	s t e ll -
 098/097	agfoat	NA	-
 098/103	schtell	1	sch t e ll -
@@ -5293,14 +5293,14 @@
 098/125	brauchatn	12	b r au ch a t n
 098/127	stöl	1	s t ö l -
 098/135	stöll	1	s t ö ll -
-098/137	schtöi	1	sch t öi - -
+098/137	schtöi	1	sch t ö i -
 098/139	awuga	NA	-
 098/141	schtell	1	sch t e ll -
 098/143	grueift	7	g - r uei f - t
 098/145	stöll	1	s t ö ll -
 098/147	stöll	1	s t ö ll -
 098/149	stell	1	s t e ll -
-098/151	stöi	1	s t öi - -
+098/151	stöi	1	s t ö i -
 099/033	schtell	1	sch t e ll -
 099/035	ställ	1	s t ä ll -
 099/037	schtell	1	sch t e ll -
@@ -5326,10 +5326,10 @@
 099/081	schtöl	1	sch t ö l -
 099/083	stell	1	s t e ll -
 099/085	stöll	1	s t ö ll -
-099/089	schdui	1	sch d ui - -
+099/089	schdui	1	sch d u i -
 099/093	schtö	1	sch t ö - -
-099/095	schtoi	1	sch t oi - -
-099/099	stoi	1	s t oi - -
+099/095	schtoi	1	sch t o i -
+099/099	stoi	1	s t o i -
 099/101	stöll	1	s t ö ll -
 099/103	schte	1	sch t e - -
 099/105	schtö	1	sch t ö - -
@@ -5338,11 +5338,11 @@
 099/111	schdö	1	sch d ö - -
 099/113	schtö	1	sch t ö - -
 099/121	schtöü	1	sch t öü - -
-099/123	schtöi	1	sch t öi - -
+099/123	schtöi	1	sch t ö i -
 099/125	stö	1	s t ö - -
 099/131	stell	1	s t e ll -
-099/137	stöi	1	s t öi - -
-099/139	stöi	1	s t öi - -
+099/137	stöi	1	s t ö i -
+099/139	stöi	1	s t ö i -
 099/141	stöh	1	s t öh - -
 099/143	stell	1	s t e ll -
 099/145	schtöü	1	sch t öü - -
@@ -5370,11 +5370,11 @@
 100/077	schdöll	1	sch d ö ll -
 100/081	stell	1	s t e ll -
 100/083	schtöll	1	sch t ö ll -
-100/089	schoi	1	sch - oi - -
+100/089	schoi	1	sch - o i -
 100/093	schtö	1	sch t ö - -
-100/095	schtöi	1	sch t öi - -
-100/097	schtoi	1	sch t oi - -
-100/099	stoi	1	s t oi - -
+100/095	schtöi	1	sch t ö i -
+100/097	schtoi	1	sch t o i -
+100/099	stoi	1	s t o i -
 100/101	schtö	1	sch t ö - -
 100/109	schtell	1	sch t e ll -
 100/111	stell	1	s t e ll -
@@ -5390,7 +5390,7 @@
 100/135	schtell	1	sch t e ll -
 100/141	stöll	1	s t ö ll -
 100/143	schtöll	1	sch t ö ll -
-100/145	stöi	1	s t öi - -
+100/145	stöi	1	s t ö i -
 101/035	schdell	1	sch d e ll -
 101/037	schtell	1	sch t e ll -
 101/039	schtell	1	sch t e ll -
@@ -5413,16 +5413,16 @@
 101/077	stöll	1	s t ö ll -
 101/079	stöll	1	s t ö ll -
 101/081	stell	1	s t e ll -
-101/091	schtöi	1	sch t öi - -
+101/091	schtöi	1	sch t ö i -
 101/093	gfragg	6	g f r a gg - -
 101/095	schtö	1	sch t ö - -
-101/097	stai	1	s t ai - -
+101/097	stai	1	s t a i -
 101/099	stell	1	s t e ll -
 101/101	schtö	1	sch t ö - -
 101/103	ghascht	8	g h a sch - t
 101/107	schö	1	sch - ö - -
-101/109	stöi	1	s t öi - -
-101/113	schtoi	1	sch t oi - -
+101/109	stöi	1	s t ö i -
+101/113	schtoi	1	sch t o i -
 101/115	stell	1	s t e ll -
 101/121	schtö	1	sch t ö - -
 101/125	gevuman	NA	-
@@ -5462,10 +5462,10 @@
 102/089	stöll	1	s t ö ll -
 102/091	NA	NA	-
 102/093	schtö	1	sch t ö - -
-102/095	schöi	1	sch - öi - -
+102/095	schöi	1	sch - ö i -
 102/097	stel	1	s t e l -
 102/099	schtöll	1	sch t ö ll -
-102/103	stoj	1	s t oj - -
+102/103	stoj	1	s t o j -
 102/107	schtö	1	sch t ö - -
 102/109	schtöll	1	sch t ö ll -
 102/113	stoe	1	s t oe - -
@@ -5508,7 +5508,7 @@
 103/097	stö	1	s t ö - -
 103/099	stoil	1	s t oi l -
 103/101	schdö	1	sch d ö - -
-103/105	schtöi	1	sch t öi - -
+103/105	schtöi	1	sch t ö i -
 103/107	schtee	1	sch t ee - -
 103/111	stöll	1	s t ö ll -
 103/121	schtöll	1	sch t ö ll -
@@ -5549,9 +5549,9 @@
 104/085	stöll	1	s t ö ll -
 104/091	stöl	1	s t ö l -
 104/095	schtoll	1	sch t o ll -
-104/101	stoi	1	s t oi - -
-104/103	stöi	1	s t öi - -
-104/107	schöi	1	sch - öi - -
+104/101	stoi	1	s t o i -
+104/103	stöi	1	s t ö i -
+104/107	schöi	1	sch - ö i -
 104/111	schtöö	1	sch t öö - -
 104/113	schtö	1	sch t ö - -
 104/119	stöll	1	s t ö ll -
@@ -5611,7 +5611,7 @@
 105/135	schtöll	1	sch t ö ll -
 105/137	ungholln	10	u n g h o ll - - n
 105/141	steül	1	s t eü l -
-105/143	stöi	1	s t öi - -
+105/143	stöi	1	s t ö i -
 105/145	stell	1	s t e ll -
 106/033	schteu	1	sch t eu - -
 106/035	schteu	1	sch t eu - -

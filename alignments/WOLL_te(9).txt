@@ -2796,7 +2796,7 @@
 056/061	will	1	w i ll - -
 056/063	will	1	w i ll - -
 056/065	woll	1	w o ll - -
-056/067	wei	1	w ei - - -
+056/067	wei	1	w e i - -
 056/069	wäll	1	w ä ll - -
 056/071	woull	1	w ou ll - -
 056/073	wull	1	w u ll - -
@@ -3273,7 +3273,7 @@
 062/159	wil	1	w i l - -
 062/161	wihl	1	w ih l - -
 063/021	wöel	1	w öe l - -
-063/023	wöit	1	w öi - - t
+063/023	wöit	1	w ö i - t
 063/025	wöll	1	w ö ll - -
 063/027	wöhl	1	w öh l - -
 063/029	wöll	1	w ö ll - -
@@ -3805,7 +3805,7 @@
 071/149	wat	1	w a - - t
 071/151	well	1	w e ll - -
 071/153	wull	1	w u ll - -
-071/155	wüj	1	w üj - - -
+071/155	wüj	1	w ü j - -
 071/157	wö	1	w ö - - -
 071/159	wial	1	w ia l - -
 071/161	wird	1	w i r - d
@@ -3927,7 +3927,7 @@
 073/161	soll	3	s o ll
 073/163	will	1	w i ll - -
 073/165	woll	1	w o ll - -
-073/175	wej	1	w ej - - -
+073/175	wej	1	w e j - -
 073/177	wul	1	w u l - -
 074/019	well	1	w e ll - -
 074/021	gef	5	g e f
@@ -4132,7 +4132,7 @@
 077/099	will	1	w i ll - -
 077/101	soll	3	s o ll
 077/103	wiad	1	w ia - - d
-077/135	wüj	1	w üj - - -
+077/135	wüj	1	w ü j - -
 077/137	wird	1	w i r - d
 078/021	gef	5	g e f
 078/023	gen	5	g e n
@@ -4313,7 +4313,7 @@
 081/097	will	1	w i ll - -
 081/099	will	1	w i ll - -
 081/101	we	1	w e - - -
-081/103	woit	1	w oi - - t
+081/103	woit	1	w o i - t
 081/105	NA	NA	-
 081/107	wöll	1	w ö ll - -
 081/109	wiad	1	w ia - - d
@@ -4407,7 +4407,7 @@
 083/081	will	1	w i ll - -
 083/083	NA	NA	-
 083/085	wü	1	w ü - - -
-083/087	woit	1	w oi - - t
+083/087	woit	1	w o i - t
 083/089	will	1	w i ll - -
 083/091	will	1	w i ll - -
 083/093	woll	1	w o ll - -
@@ -4415,8 +4415,8 @@
 083/097	wul	1	w u l - -
 083/099	we	1	w e - - -
 083/101	NA	NA	-
-083/103	woit	1	w oi - - t
-083/105	woit	1	w oi - - t
+083/103	woit	1	w o i - t
+083/105	woit	1	w o i - t
 083/107	wä	1	w ä - - -
 083/111	het	4	h e t
 083/113	wad	1	w a - - d
@@ -4465,16 +4465,16 @@
 084/085	NA	NA	-
 084/087	will	1	w i ll - -
 084/089	wall	1	w a ll - -
-084/091	wäj	1	w äj - - -
-084/093	woit	1	w oi - - t
+084/091	wäj	1	w ä j - -
+084/093	woit	1	w o i - t
 084/095	will	1	w i ll - -
 084/097	wull	1	w u ll - -
 084/099	wä	1	w ä - - -
 084/101	wo	1	w o - - -
 084/103	wä	1	w ä - - -
 084/105	wa	1	w a - - -
-084/107	woit	1	w oi - - t
-084/109	wäi	1	w äi - - -
+084/107	woit	1	w o i - t
+084/109	wäi	1	w ä i - -
 084/111	weel	1	w ee l - -
 084/113	wiad	1	w ia - - d
 084/115	wull	1	w u ll - -
@@ -4482,7 +4482,7 @@
 084/119	wull	1	w u ll - -
 084/129	wird	1	w i r - d
 084/131	NA	NA	-
-084/133	woit	1	w oi - - t
+084/133	woit	1	w o i - t
 084/135	wüll	1	w ü ll - -
 084/137	wird	1	w i r - d
 084/139	wiad	1	w ia - - d
@@ -4586,16 +4586,16 @@
 086/087	wead	1	w ea - - d
 086/089	wö	1	w ö - - -
 086/091	woll	1	w o ll - -
-086/093	wöj	1	w öj - - -
+086/093	wöj	1	w ö j - -
 086/095	wu	1	w u - - -
 086/097	wou	1	w ou - - -
 086/099	wu	1	w u - - -
-086/101	woit	1	w oi - - t
+086/101	woit	1	w o i - t
 086/103	will	1	w i ll - -
 086/105	wä	1	w ä - - -
 086/107	wi	1	w i - - -
 086/109	wö	1	w ö - - -
-086/111	woit	1	w oi - - t
+086/111	woit	1	w o i - t
 086/113	wüll	1	w ü ll - -
 086/115	wird	1	w i r - d
 086/117	wüll	1	w ü ll - -
@@ -4654,7 +4654,7 @@
 087/099	wead	1	w ea - - d
 087/101	mächt	2	m ä ch t
 087/103	wo	1	w o - - -
-087/105	wej	1	w ej - - -
+087/105	wej	1	w e j - -
 087/107	NA	NA	-
 087/109	wee	1	w ee - - -
 087/111	wü	1	w ü - - -
@@ -4778,7 +4778,7 @@
 089/125	wü	1	w ü - - -
 089/127	wül	1	w ü l - -
 089/129	wiad	1	w ia - - d
-089/131	woit	1	w oi - - t
+089/131	woit	1	w o i - t
 089/133	wül	1	w ü l - -
 089/135	wü	1	w ü - - -
 089/137	woll	1	w o ll - -
@@ -4816,8 +4816,8 @@
 090/085	wü	1	w ü - - -
 090/087	will	1	w i ll - -
 090/089	NA	NA	-
-090/091	wei	1	w ei - - -
-090/093	wuit	1	w ui - - t
+090/091	wei	1	w e i - -
+090/093	wuit	1	w u i - t
 090/095	NA	NA	-
 090/097	wead	1	w ea - - d
 090/099	soll	3	s o ll
@@ -4874,7 +4874,7 @@
 091/085	woll	1	w o ll - -
 091/087	weard	1	w ea r - d
 091/091	will	1	w i ll - -
-091/093	wuit	1	w ui - - t
+091/093	wuit	1	w u i - t
 091/095	NA	NA	-
 091/097	wü	1	w ü - - -
 091/099	NA	NA	-
@@ -4952,7 +4952,7 @@
 092/125	mecht	2	m e ch t
 092/127	wird	1	w i r - d
 092/129	wü	1	w ü - - -
-092/131	woit	1	w oi - - t
+092/131	woit	1	w o i - t
 092/133	wü	1	w ü - - -
 092/135	wird	1	w i r - d
 092/137	wül	1	w ü l - -
@@ -5000,7 +5000,7 @@
 093/103	NA	NA	-
 093/105	werd	1	w e r - d
 093/109	wead	1	w ea - - d
-093/111	woit	1	w oi - - t
+093/111	woit	1	w o i - t
 093/113	wöll	1	w ö ll - -
 093/115	will	1	w i ll - -
 093/117	wiad	1	w ia - - d
@@ -5010,7 +5010,7 @@
 093/125	wü	1	w ü - - -
 093/127	wüü	1	w üü - - -
 093/129	wird	1	w i r - d
-093/131	woit	1	w oi - - t
+093/131	woit	1	w o i - t
 093/133	wird	1	w i r - d
 093/137	wird	1	w i r - d
 093/139	wiad	1	w ia - - d
@@ -5047,10 +5047,10 @@
 094/079	wü	1	w ü - - -
 094/081	wu	1	w u - - -
 094/083	wu	1	w u - - -
-094/085	woit	1	w oi - - t
+094/085	woit	1	w o i - t
 094/087	NA	NA	-
 094/089	NA	NA	-
-094/091	woit	1	w oi - - t
+094/091	woit	1	w o i - t
 094/093	wu	1	w u - - -
 094/095	wu	1	w u - - -
 094/097	wu	1	w u - - -
@@ -5109,8 +5109,8 @@
 095/079	mächt	2	m ä ch t
 095/081	will	1	w i ll - -
 095/083	wu	1	w u - - -
-095/085	woit	1	w oi - - t
-095/087	woit	1	w oi - - t
+095/085	woit	1	w o i - t
+095/087	woit	1	w o i - t
 095/089	wed	1	w e - - d
 095/091	NA	NA	-
 095/093	will	1	w i ll - -
@@ -5131,7 +5131,7 @@
 095/123	wül	1	w ü l - -
 095/125	wiad	1	w ia - - d
 095/129	wü	1	w ü - - -
-095/131	woit	1	w oi - - t
+095/131	woit	1	w o i - t
 095/133	wird	1	w i r - d
 095/139	wul	1	w u l - -
 095/141	wiad	1	w ia - - d
@@ -5175,21 +5175,21 @@
 096/093	wu	1	w u - - -
 096/095	NA	NA	-
 096/097	will	1	w i ll - -
-096/099	woid	1	w oi - - d
+096/099	woid	1	w o i - d
 096/101	woll	1	w o ll - -
 096/103	NA	NA	-
 096/105	NA	NA	-
-096/107	woit	1	w oi - - t
+096/107	woit	1	w o i - t
 096/109	wül	1	w ü l - -
 096/111	NA	NA	-
-096/113	woit	1	w oi - - t
+096/113	woit	1	w o i - t
 096/115	woll	1	w o ll - -
 096/117	wüll	1	w ü ll - -
 096/119	NA	NA	-
 096/121	wü	1	w ü - - -
 096/123	wu	1	w u - - -
 096/125	wü	1	w ü - - -
-096/129	woit	1	w oi - - t
+096/129	woit	1	w o i - t
 096/131	wird	1	w i r - d
 096/135	wird	1	w i r - d
 096/137	NA	NA	-
@@ -5198,7 +5198,7 @@
 096/143	wöll	1	w ö ll - -
 096/145	wull	1	w u ll - -
 096/147	wöül	1	w öü l - -
-096/151	wojt	1	w oj - - t
+096/151	wojt	1	w o j - t
 096/153	wiat	1	w ia - - t
 096/155	wöül	1	w öü l - -
 097/031	wott	1	w o - - tt
@@ -5236,7 +5236,7 @@
 097/095	mächt	2	m ä ch t
 097/097	wiad	1	w ia - - d
 097/099	werd	1	w e r - d
-097/103	woit	1	w oi - - t
+097/103	woit	1	w o i - t
 097/105	wird	1	w i r - d
 097/107	NA	NA	-
 097/109	NA	NA	-
@@ -5275,11 +5275,11 @@
 098/077	wöll	1	w ö ll - -
 098/079	will	1	w i ll - -
 098/081	wu	1	w u - - -
-098/083	wei	1	w ei - - -
+098/083	wei	1	w e i - -
 098/085	NA	NA	-
-098/087	woit	1	w oi - - t
+098/087	woit	1	w o i - t
 098/089	will	1	w i ll - -
-098/091	wuit	1	w ui - - t
+098/091	wuit	1	w u i - t
 098/093	wia	1	w ia - - -
 098/095	weascht	1	w ea - sch t
 098/097	wer	1	w e r - -
@@ -5339,7 +5339,7 @@
 099/113	wird	1	w i r - d
 099/121	wiad	1	w ia - - d
 099/123	wü	1	w ü - - -
-099/125	woit	1	w oi - - t
+099/125	woit	1	w o i - t
 099/131	wüll	1	w ü ll - -
 099/137	wü	1	w ü - - -
 099/139	wiard	1	w ia r - d
@@ -5552,11 +5552,11 @@
 104/101	wearscht	1	w ea r sch t
 104/103	wiaschd	1	w ia - sch d
 104/107	NA	NA	-
-104/111	wii	1	w ii - - -
+104/111	wii	1	w i i - -
 104/113	wo	1	w o - - -
 104/119	wed	1	w e - - d
 104/121	werd	1	w e r - d
-104/123	wii	1	w ii - - -
+104/123	wii	1	w i i - -
 104/125	NA	NA	-
 104/127	wüll	1	w ü ll - -
 104/131	wit	1	w i - - t
