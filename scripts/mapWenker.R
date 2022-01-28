@@ -18,7 +18,7 @@ require(RColorBrewer)
 # save map as widget
 # htmlwidgets::saveWidget(MAP, file = "title.html")
 
-mapFromIndex <- function(nr, savedir = NULL, vowcols = NULL) {
+mapFromIndex <- function(nr, savedir = NULL, cols = NULL) {
 	index <- read.delim("alignments/index.txt")
 	file <- paste0("alignments/", index$LEMMA[nr], ".txt")
 	align <- getAlign(file, index$COGID[nr], index$COLUMN[nr])
@@ -27,7 +27,7 @@ mapFromIndex <- function(nr, savedir = NULL, vowcols = NULL) {
 			, center = index$CENTER[nr]
 			, title = index$TITLE[nr]
 			, savedir = savedir
-			, vowcols = vowcols
+			, cols = cols
 	)	
 }
 
@@ -46,17 +46,16 @@ getAlign <- function(lemma, cogid, column) {
 
 }
 
-mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker", savedir = NULL, vowcols = NULL) {
+mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, title = "Wenker", savedir = NULL, cols = NULL) {
 
 	align <- as.character(align)
 	align[align == "NA"] <- NA
 
 	if (vowel) {
 
-		if (is.null(vowcols)) {
+		if (is.null(cols)) {
 			cols <- vowelColor(align, center)
 		} else {
-			cols <- vowcols
 			cols[center] <- "grey"
 		}
 		
@@ -73,13 +72,16 @@ mapWenker <- function(align, polygons = tiles, vowel = TRUE, center = NULL, titl
 	} else {
 
 		# deal with consonants
+		
 		freq <- sort(table(align), decreasing = TRUE)
 		consonants <- names(freq)
 		consonants <- consonants[consonants != center]
 		consonants <- c(center, consonants)
 		freq <- freq[consonants]
 
-		cols <- c("grey", brewer.pal(12, "Set3"), rep("#D3D3D3",times=20))
+		if (is.null(cols)) {
+			cols <- c("grey", brewer.pal(12, "Set3"), rep("#D3D3D3",times=20))
+		}
 		cols <- cols[1:length(consonants)]
 		names(cols) <- consonants
 		

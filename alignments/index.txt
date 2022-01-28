@@ -361,8 +361,9 @@ ICH(10)	ich	1	2	ch	F
 IST(5)	ist	1	2	i	T
 IST(5)	ist	1	3	s	F
 IST(5)	ist	1	4	-	F
-ISST(7)	isst	1	2	i	T
-ISST(7)	isst	1	3	sst	F
+ISST(7)	isst	1	3	i	T
+ISST(7)	isst	1	4	ss	F
+ISST(7)	isst	1	6	t	F
 JA(6)	ja	1	2	j	F
 JA(6)	ja	1	3	a	T
 KALT_e(4)	kalte	1	1	k	F
@@ -451,7 +452,8 @@ MUSS(22)	muss	1	2	u	T
 MUSS(22)	muss	1	3	ss	F
 MUTT_er(17)	Mutter	1	1	m	F
 MUTT_er(17)	Mutter	1	2	u	T
-MUTT_er(17)	Mutter	1	3	tt	F
+MUTT_er(17)	Mutter	1	4	tt	F
+MUTT_er(17)	Mutter	1	5	r	F
 NÄH_en(17)	nähen	1	1	n	F
 NÄH_en(17)	nähen	1	2	ä	T
 NÄH_en(17)	nähen	1	3	-	F
@@ -730,8 +732,7 @@ VOR(37)	vor	1	2	o	T
 VOR(37)	vor	1	3	r	F
 WACHS_en(16)	wachsen	1	1	w	F
 WACHS_en(16)	wachsen	1	2	a	T
-WACHS_en(16)	wachsen	1	3	ch	F
-WACHS_en(16)	wachsen	1	4	s	F
+WACHS_en(16)	wachsen	1	3	chs	F
 WÄR_e(18)	wäre	1	1	w	F
 WÄR_e(18)	wäre	1	2	ä	T
 WÄR_e(18)	wäre	1	3	r	F
