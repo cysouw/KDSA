@@ -213,6 +213,8 @@ allAlign <- function(dir, selection = NULL, cutoff = 5000) {
 	    index <- index[!index$VOWEL,]
 	  } else if (is.numeric(selection)) {
 	  	index <- index[selection,]
+	  } else if (is.character(selection)) {
+	  	index <- index[index$CENTER %in% selection,]
 	  }
   }
   
