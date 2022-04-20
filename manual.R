@@ -64,6 +64,23 @@ limage(v[reorder$rows,reorder$cols]
        , asp = (nrow(v)/ncol(v))/2
        )
 
+# surrounding
 
+source("scripts/mapWenker.R")
+library(qlcData)
 
+align <- getAlign("alignments/BROT(30).txt",1,5)
+align <- recode("sandbox/t_Brot.yml",data.frame(align))[,1]
 
+align <- getAlign("alignments/ALT_e(4).txt",1,4)
+align <- recode("sandbox/t_Alt.yml",data.frame(align))[,1]
+
+loc <- read.delim("data/KDSAlocations.txt")
+d <- as.matrix(dist(loc[,2:3]))
+getclose <- function(center,size=10) {
+	align[order(d[center,], decreasing = T)[2:size]]	
+}
+
+close <- t(sapply(1:nrow(loc),getclose,size=10))
+td <- apply(close,1,function(x){sum(x=="t",na.rm=T)})
+table(td,align)
