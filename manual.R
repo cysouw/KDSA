@@ -75,12 +75,23 @@ align <- recode("sandbox/t_Brot.yml",data.frame(align))[,1]
 align <- getAlign("alignments/ALT_e(4).txt",1,4)
 align <- recode("sandbox/t_Alt.yml",data.frame(align))[,1]
 
+align <- getAlign("alignments/AUS(16).txt",1,3)
+align <- recode("sandbox/s_Aus.yml",data.frame(align))[,1]
+
+align <- getAlign("alignments/ÄPFEL_chen(26).txt",1,3)
+align <- recode("sandbox/pf_Apfel.yml",data.frame(align))[,1]
+
+
 loc <- read.delim("data/KDSAlocations.txt")
 d <- as.matrix(dist(loc[,2:3]))
 getclose <- function(center,size=10) {
-	align[order(d[center,], decreasing = T)[2:size]]	
+	align[order(d[center,], decreasing = F)[2:size]]	
 }
 
 close <- t(sapply(1:nrow(loc),getclose,size=10))
-td <- apply(close,1,function(x){sum(x=="t",na.rm=T)})
-table(td,align)
+td <- apply(close,1,function(x){sum(x=="p"|x=="b",na.rm=T)})
+(tmp <- table(td,align))
+
+e=5
+plot(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),type="l")
+text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=0:9)

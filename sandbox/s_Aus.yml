@@ -1,0 +1,37 @@
+title: ~
+author: ~
+date: '2022-04-26'
+originalData: ~
+selectRows: ~
+recoding:
+# ==========
+- recodingOf: align
+  attribute: s
+  link:
+    '-': NA
+    d: t
+    f: NA
+    nt: t
+    p: NA
+    s: s
+    ss: s
+    t: t
+    th: t
+    tj: t
+    tt: t
+    v: NA
+  newData: ~
+  originalFrequency:
+    '-': 13
+    d: 34
+    f: 4
+    nt: 2
+    p: 7
+    s: 3327
+    ss: 46
+    t: 2168
+    th: 19
+    tj: 3
+    tt: 11
+    v: 1
+  comments: ~

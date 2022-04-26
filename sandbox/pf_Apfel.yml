@@ -1,0 +1,41 @@
+title: ~
+author: ~
+date: '2022-04-26'
+originalData: ~
+selectRows: ~
+recoding:
+# ==========
+- recodingOf: align
+  attribute: pf
+  link:
+    b: b
+    bb: b
+    bf: bf
+    f: f
+    ff: f
+    lb: b
+    p: p
+    pb: b
+    pch: pf
+    pf: pf
+    pp: p
+    ppch: pf
+    ppf: pf
+    v: f
+  newData: ~
+  originalFrequency:
+    b: 52
+    bb: 373
+    bf: 20
+    f: 15
+    ff: 3
+    lb: 5
+    p: 433
+    pb: 6
+    pch: 1
+    pf: 1996
+    pp: 2967
+    ppch: 3
+    ppf: 2
+    v: 3
+  comments: ~
