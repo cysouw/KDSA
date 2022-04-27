@@ -81,6 +81,10 @@ align <- recode("sandbox/s_Aus.yml",data.frame(align))[,1]
 align <- getAlign("alignments/ÄPFEL_chen(26).txt",1,3)
 align <- recode("sandbox/pf_Apfel.yml",data.frame(align))[,1]
 
+# random
+f=.3
+align <- rep("d",times = 5892)
+align[sample(5892,5892*f)] <- "t"
 
 loc <- read.delim("data/KDSAlocations.txt")
 d <- as.matrix(dist(loc[,2:3]))
@@ -92,6 +96,9 @@ close <- t(sapply(1:nrow(loc),getclose,size=10))
 td <- apply(close,1,function(x){sum(x=="p"|x=="b",na.rm=T)})
 (tmp <- table(td,align))
 
-e=5
-plot(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),type="l")
-text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=0:9)
+plot(log(tmp[,2]),log(tmp[,3]),type="b",xlim=c(0,8), ylim=c(0,8))
+text(log(tmp[,2]),log(tmp[,3]),labels=rownames(tmp), col="red", pos=1)
+
+e=0
+plot(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),type="b",xlim=c(0,8), ylim=c(0,8))
+text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=rownames(tmp), col="red", pos=1)
