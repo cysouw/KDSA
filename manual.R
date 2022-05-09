@@ -142,7 +142,7 @@ getCounts <- function(bias = F, size, dist, character) {
 	
 getStats <- function(n, size, dist, character) {
 	
-	tmp <- sapply(rep(0.5,n), getCounts, size = size, dist = dist, character = character)
+	tmp <- sapply(rep(c(.4,.5,.6),length.out=n), getCounts, size = size, dist = dist, character = character)
 	coefs <- as.numeric(lm(tmp[2,]~tmp[1,])$coefficients)
 	b0 <- coefs[1]/(2*size)
 	b1 <- coefs[2]/2
@@ -155,8 +155,8 @@ getStats <- function(n, size, dist, character) {
 	
 tests <- rep(c(1:10),each = 3)
 stats <- c()
-for (n in tests) {stats <- rbind(stats,getStats(50,50,n,"t"))}	
+for (n in tests) {stats <- rbind(stats,getStats(1000,20,n,"t"))}	
 
-test <- function(x,y,n) { (y/(x+y))*log((1-x-y)^(-1/n)) }
+test <- function(x,y,n) { (-1/n)*(y/(x+y))*log(1-x-y) }
 ps <- c()
 for (i in 1:nrow(stats)) {ps <- c(ps,test(stats[i,4],stats[i,5],tests[i]))}
