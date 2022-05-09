@@ -93,7 +93,7 @@ getclose <- function(center,size=10) {
 }
 
 close <- t(sapply(1:nrow(loc),getclose,size=10))
-td <- apply(close,1,function(x){sum(x=="p"|x=="b",na.rm=T)})
+td <- apply(close,1,function(x){sum(x=="t",na.rm=T)})
 (tmp <- table(td,align))
 
 plot(log(tmp[,2]),log(tmp[,3]),type="b",xlim=c(0,8), ylim=c(0,8))
@@ -102,3 +102,61 @@ text(log(tmp[,2]),log(tmp[,3]),labels=rownames(tmp), col="red", pos=1)
 e=0
 plot(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),type="b",xlim=c(0,8), ylim=c(0,8))
 text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=rownames(tmp), col="red", pos=1)
+
+# maslova's approach
+
+d2 <- round(d*5)
+
+getPartner <- function(center, dist) {
+	options <- which(d2[center,] == dist)
+	if (length(options) == 0) {
+		NA
+	} else {
+		as.vector(sample(options, 1))
+	}
+}
+
+getSample <- function(size, dist, bias=F, character=NULL) {
+	if(is.numeric(bias)) {
+		seta <- sample(which(align==character), round(size*bias))
+		setb <- sample(which(align!=character), round(size*(1-bias)))
+		set <- c(seta,setb)
+	} else {
+	 	set <- sample(5892, size)
+	}
+	partners <- sapply(set, getPartner, dist = dist)
+	return(list(set,partners))
+}
+
+getCounts <- function(bias = F, size, dist, character) {
+	sample <- getSample(size, dist, bias, character)
+	s1 <- align[sample[[1]]]
+	s2 <- align[sample[[2]]]
+	notNA <- !(is.na(s1)|is.na(s2))
+	s1 <- s1[notNA]
+	s2 <- s2[notNA]
+	diffs <- sum(notNA) - sum(s1 == s2)
+	chars <- sum(s1 == character) + sum(s2 == character)
+	return(c(chars,diffs))
+}
+	
+getStats <- function(n, size, dist, character) {
+	
+	tmp <- sapply(rep(0.5,n), getCounts, size = size, dist = dist, character = character)
+	coefs <- as.numeric(lm(tmp[2,]~tmp[1,])$coefficients)
+	b0 <- coefs[1]/(2*size)
+	b1 <- coefs[2]/2
+	pAB <- ((1+b1)-sqrt((1+b1)^2-4*(b1+b0)))/2
+	pBA <- ((1-b1)-sqrt((1-b1)^2-4*b0))/2
+	cor <- cor.test(tmp[1,],tmp[2,])$estimate
+	return(c(cor,coefs,pAB,pBA))
+}
+	
+	
+tests <- rep(c(1:10),each = 3)
+stats <- c()
+for (n in tests) {stats <- rbind(stats,getStats(50,50,n,"t"))}	
+
+test <- function(x,y,n) { (y/(x+y))*log((1-x-y)^(-1/n)) }
+ps <- c()
+for (i in 1:nrow(stats)) {ps <- c(ps,test(stats[i,4],stats[i,5],tests[i]))}
