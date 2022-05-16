@@ -67,7 +67,12 @@ limage(v[reorder$rows,reorder$cols]
 # surrounding
 
 source("scripts/mapWenker.R")
+source("scripts/transition.R")
 library(qlcData)
+
+loc <- read.delim("data/KDSAlocations.txt")
+d <- as.matrix(dist(loc[,2:3]))
+d <- round(d*10)
 
 align <- getAlign("alignments/BROT(30).txt",1,5)
 align <- recode("sandbox/t_Brot.yml",data.frame(align))[,1]
@@ -84,8 +89,26 @@ align <- recode("sandbox/pf_Apfel.yml",data.frame(align))[,1]
 align <- getAlign("alignments/AFF_e(11).txt",1,5)
 align <- recode("sandbox/f_Affe.yml",data.frame(align))[,1]
 
+align <- getAlign("alignments/AB_end(24).txt",1,3)
+align <- recode("sandbox/b_Abend.yml",data.frame(align))[,1]
+
+# compare partners
+partners <- table(align, align[sapply(1:5892,getPartner, dist=1)])
+( partners <- partners + t(partners) - diag(diag(partners)) )
+
+subset <- align
+subset[!(subset %in% c("m","v"))] <- NA
+
+stats1 <- t(sapply(rep(1,10), getStats, alignment = subset, character = "v"))
+stats2 <- t(sapply(rep(1,10), getStats, alignment = subset, character = "m"))
+
+round(apply(stats1,2,mean),3)
+round(apply(stats2,2,mean),3)
+
+
+
 # random
-f=.3
+f=.5
 align <- rep("d",times = 5892)
 align[sample(5892,5892*f)] <- "t"
 
@@ -106,18 +129,53 @@ e=0
 plot(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),type="b",xlim=c(0,8), ylim=c(0,8))
 text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=rownames(tmp), col="red", pos=1)
 
+
+
+
+
 # maslova's approach
 
-d2 <- round(d*5)
+getStats <- function(dist,character) {
 
-getPartner <- function(center, dist) {
-	options <- which(d2[center,] == dist)
-	if (length(options) == 0) {
-		NA
-	} else {
-		as.vector(sample(options, 1))
-	}
+	tmp <- apply(samples,1,getCounts, dist=dist, character=character)
+	
+	cor <- as.numeric(cor.test(tmp[1,],tmp[2,])$estimate)
+	sig <- cor.test(tmp[1,],tmp[2,])$p.value
+		
+	coefs <- summary(lm(tmp[2,]~tmp[1,]))$coefficients/2
+	b0 <- rnorm(1000,mean=coefs[1,1],sd=coefs[1,2])
+	b1 <- rnorm(1000,mean=coefs[2,1],sd=coefs[2,2])
+	
+	pAB <- ((1+b1)-sqrt((1-b1)^2-4*b0))/2
+	pBA <- ((1-b1)-sqrt((1-b1)^2-4*b0))/2
+
+	
+	pABmean <- mean(pAB, na.rm=T)
+	pBAmean <- mean(pBA, na.rm=T)
+	pABsd <- sd(pAB, na.rm=T)
+	pBAsd <- sd(pBA, na.rm=T)
+	
+	rates <- function(x,y,d) { (-x/(x+y))*log(1-x-y)/d }
+	
+	qAB <- rates(pAB,pBA,dist)
+	qBA <- rates(pBA,pAB,dist)
+	
+	qABmean <- mean(qAB, na.rm=T)
+	qBAmean <- mean(qBA, na.rm=T)
+	qABsd <- sd(qAB, na.rm=T)
+	qBAsd <- sd(qBA, na.rm=T)
+	
+	return(c(cor=cor, sig=sig, pAB =pABmean, pBA = pBAmean, pAB.sd = pABsd, pBA.sd = pBAsd, qAB =qABmean, qBA = qBAmean, qAB.sd = qABsd, qBA.sd = qBAsd))
 }
+
+
+
+stats <- t(sapply(1:10,getStats,n=100,size=20,character="t"))
+
+
+# ===== old
+
+tmp <- sapply(rep(c(.4,.5,.6),length.out=n), getCounts, size = size, dist = dist, character = character)
 
 getSample <- function(size, dist, bias=F, character=NULL) {
 	if(is.numeric(bias)) {
@@ -142,37 +200,3 @@ getCounts <- function(bias = F, size, dist, character) {
 	chars <- sum(s1 == character) + sum(s2 == character)
 	return(c(chars,diffs))
 }
-	
-getStats <- function(dist, n, size, character) {
-	
-	tmp <- sapply(rep(c(.4,.5,.6),length.out=n), getCounts, size = size, dist = dist, character = character)
-
-	cor <- as.numeric(cor.test(tmp[1,],tmp[2,])$estimate)
-	sig <- cor.test(tmp[1,],tmp[2,])$p.value
-		
-	coefs <- summary(lm(tmp[2,]~tmp[1,]))$coefficients
-	b0 <- rnorm(n,mean=coefs[1,1],sd=coefs[1,2])/(2*size)
-	b1 <- rnorm(n,mean=coefs[2,1],sd=coefs[2,2])/(2*2*size)
-	
-	pAB <- ((1+b1)-sqrt((1+b1)^2-4*(b0+b1)))/2
-	pBA <- ((1-b1)-sqrt((1-b1)^2-4*b0))/2
-
-	pABmean <- mean(pAB, na.rm=T)
-	pBAmean <- mean(pBA, na.rm=T)
-	pABsd <- sd(pAB, na.rm=T)
-	pBAsd <- sd(pBA, na.rm=T)
-	
-	rates <- function(x,y,d) { (-x/(x+y))*log(1-x-y)/d }
-	
-	qAB <- rates(pAB,pBA,dist)
-	qBA <- rates(pBA,pAB,dist)
-	
-	qABmean <- mean(qAB, na.rm=T)
-	qBAmean <- mean(qBA, na.rm=T)
-	qABsd <- sd(qAB, na.rm=T)
-	qBAsd <- sd(qBA, na.rm=T)
-	
-	return(c(cor=cor, sig=sig, pAB =pABmean, pBA = pBAmean, pAB.sd = pABsd, pBA.sd = pBAsd, qAB =qABmean, qBA = qBAmean, qAB.sd = qABsd, qBA.sd = qBAsd))
-}
-	
-stats <- t(sapply(1:10,getStats,n=100,size=20,character="t"))
