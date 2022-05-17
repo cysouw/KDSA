@@ -8,12 +8,12 @@ recoding:
 - recodingOf: align
   attribute: t
   link:
-    '-': NA
+    '-': ~
     d: d
     dd: d
     dt: d
-    g: NA
-    r: NA
+    g: ~
+    r: ~
     t: t
     th: t
     tt: t

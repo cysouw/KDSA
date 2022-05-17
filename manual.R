@@ -70,10 +70,6 @@ source("scripts/mapWenker.R")
 source("scripts/transition.R")
 library(qlcData)
 
-loc <- read.delim("data/KDSAlocations.txt")
-d <- as.matrix(dist(loc[,2:3]))
-d <- round(d*10)
-
 align <- getAlign("alignments/BROT(30).txt",1,5)
 align <- recode("sandbox/t_Brot.yml",data.frame(align))[,1]
 
@@ -93,19 +89,21 @@ align <- getAlign("alignments/AB_end(24).txt",1,3)
 align <- recode("sandbox/b_Abend.yml",data.frame(align))[,1]
 
 # compare partners
-partners <- table(align, align[sapply(1:5892,getPartner, dist=1)])
-( partners <- partners + t(partners) - diag(diag(partners)) )
+getPairs(align)
+getRates(align,"b","p")
+getAll(align)->tmp
 
-subset <- align
-subset[!(subset %in% c("m","v"))] <- NA
+# dynamics
+t <- 10
+forward <- as.vector( table(align) %*% expm(t*tmp$Q) )
+backward <- as.vector( expm(t*tmp$Q) %*% table(align) )
 
-stats1 <- t(sapply(rep(1,10), getStats, alignment = subset, character = "v"))
-stats2 <- t(sapply(rep(1,10), getStats, alignment = subset, character = "m"))
+# stable
+m <- matrix(0,nrow(tmp$Q),ncol(tmp$Q))
+m[,1] <- 1
+stable <- solve(t(tmp$Q+m),m[1,])
 
-round(apply(stats1,2,mean),3)
-round(apply(stats2,2,mean),3)
-
-
+rbind(backward=backward/sum(backward),current=table(align)/sum(table(align)),forward=forward/sum(forward),stable=stable)
 
 # random
 f=.5
@@ -131,72 +129,3 @@ text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=rownames(tmp), col="re
 
 
 
-
-
-# maslova's approach
-
-getStats <- function(dist,character) {
-
-	tmp <- apply(samples,1,getCounts, dist=dist, character=character)
-	
-	cor <- as.numeric(cor.test(tmp[1,],tmp[2,])$estimate)
-	sig <- cor.test(tmp[1,],tmp[2,])$p.value
-		
-	coefs <- summary(lm(tmp[2,]~tmp[1,]))$coefficients/2
-	b0 <- rnorm(1000,mean=coefs[1,1],sd=coefs[1,2])
-	b1 <- rnorm(1000,mean=coefs[2,1],sd=coefs[2,2])
-	
-	pAB <- ((1+b1)-sqrt((1-b1)^2-4*b0))/2
-	pBA <- ((1-b1)-sqrt((1-b1)^2-4*b0))/2
-
-	
-	pABmean <- mean(pAB, na.rm=T)
-	pBAmean <- mean(pBA, na.rm=T)
-	pABsd <- sd(pAB, na.rm=T)
-	pBAsd <- sd(pBA, na.rm=T)
-	
-	rates <- function(x,y,d) { (-x/(x+y))*log(1-x-y)/d }
-	
-	qAB <- rates(pAB,pBA,dist)
-	qBA <- rates(pBA,pAB,dist)
-	
-	qABmean <- mean(qAB, na.rm=T)
-	qBAmean <- mean(qBA, na.rm=T)
-	qABsd <- sd(qAB, na.rm=T)
-	qBAsd <- sd(qBA, na.rm=T)
-	
-	return(c(cor=cor, sig=sig, pAB =pABmean, pBA = pBAmean, pAB.sd = pABsd, pBA.sd = pBAsd, qAB =qABmean, qBA = qBAmean, qAB.sd = qABsd, qBA.sd = qBAsd))
-}
-
-
-
-stats <- t(sapply(1:10,getStats,n=100,size=20,character="t"))
-
-
-# ===== old
-
-tmp <- sapply(rep(c(.4,.5,.6),length.out=n), getCounts, size = size, dist = dist, character = character)
-
-getSample <- function(size, dist, bias=F, character=NULL) {
-	if(is.numeric(bias)) {
-		seta <- sample(which(align==character), round(size*bias))
-		setb <- sample(which(align!=character), round(size*(1-bias)))
-		set <- c(seta,setb)
-	} else {
-	 	set <- sample(5892, size)
-	}
-	partners <- sapply(set, getPartner, dist = dist)
-	return(list(set,partners))
-}
-
-getCounts <- function(bias = F, size, dist, character) {
-	sample <- getSample(size, dist, bias, character)
-	s1 <- align[sample[[1]]]
-	s2 <- align[sample[[2]]]
-	notNA <- !(is.na(s1)|is.na(s2))
-	s1 <- s1[notNA]
-	s2 <- s2[notNA]
-	diffs <- sum(notNA) - sum(s1 == s2)
-	chars <- sum(s1 == character) + sum(s2 == character)
-	return(c(chars,diffs))
-}

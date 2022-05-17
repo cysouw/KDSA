@@ -1,5 +1,9 @@
 # Methods for transition rates
 
+loc <- read.delim("data/KDSAlocations.txt")
+d <- as.matrix(dist(loc[,2:3]))
+d <- round(d*8)
+
 # smaller quadrants
 
 getQuadrants <- function(scaling, minsize) {
@@ -93,10 +97,71 @@ getStats <- function(distance, alignment, character, s = samples) {
 	return(c(cor=cor, sig=sig, pAB =pABmean, pBA = pBAmean, pAB.sd = pABsd, pBA.sd = pBAsd, qAB =qABmean, qBA = qBAmean, qAB.sd = qABsd, qBA.sd = qBAsd))
 }
 
-# examples
+getPairs <- function(align) {
+	partners <- table(align, align[sapply(1:5892,getPartner, dist=1)])
+	partners <- round(partners/sum(partners),4)*100
+	partners + t(partners) - diag(diag(partners))
+}
 
+getRates <- function(align, from, to) {
+	subset <- align
+	compare <- c(from, to)
+	subset[!(subset %in% compare)] <- NA
+	stats1 <- t(sapply(rep(1,5), getStats, alignment = subset, character = compare[1]))
+	stats2 <- t(sapply(rep(1,5), getStats, alignment = subset, character = compare[2]))
+	stats2 <- stats2[,c(1,2,4,3,6,5,8,7,10,9)]
+	stats <- rbind(stats1,stats2)[,3:10]
+	round(apply(stats,2,mean),4)
+}
 
-
-
-
+getAll <- function(align) {
+	pairs <- getPairs(align)
+	names(dimnames(pairs))[1] <- "% pairs"
+	Q <- pairs
+	names(dimnames(Q))[1] <- "Q"
+	diag(Q) <- 0
+	
+	toofew <- diag(pairs) < 0.3
+	Q[,toofew] <- 0
+	Q[toofew,] <- 0
+	
+	sd <- Q
+	names(dimnames(sd))[1] <- "sd"
+	diag(sd) <- ""
+	
+	all <- c()
+	chars <- unlist(dimnames(pairs)[1])
+	for (i in 2:length(chars)) {
+		for (j in 1:(i-1)) {
+			if (Q[i,j] > 0.3) {
+				stats <- getRates(align,chars[i],chars[j])
+				if (sum(stats<0) == 0) {
+					Q[i,j] <- stats["qAB"]
+					Q[j,i] <- stats["qBA"]
+					sd[i,j] <- stats["qAB.sd"]
+					sd[j,i] <- stats["qBA.sd"]
+					all <- rbind(all, stats)
+					rownames(all)[nrow(all)] <- paste0(chars[i], " -> ", chars[j])
+				} else {
+					Q[i,j] <- NA
+					Q[j,i] <- NA
+					sd[i,j] <- "---"
+					sd[j,i] <- "---"
+				}
+			} else if (pairs[i,j] > 0.5) {
+				Q[i,j] <- NA
+				Q[j,i] <- NA
+				sd[i,j] <- "---"
+				sd[j,i] <- "---"
+			} else {
+				Q[i,j] <- 0
+				Q[j,i] <- 0
+				sd[i,j] <- "---"
+				sd[j,i] <- "---"
+			}
+		}	
+	}
+	diag(Q) <- -rowSums(Q, na.rm=T)	
+	return(list(Q=Q,sd=sd,pairs=pairs,stats=all))
+}
 

@@ -8,18 +8,18 @@ recoding:
 - recodingOf: align
   attribute: s
   link:
-    '-': NA
+    '-': ~
     d: t
-    f: NA
+    f: ~
     nt: t
-    p: NA
+    p: ~
     s: s
     ss: s
     t: t
     th: t
     tj: t
     tt: t
-    v: NA
+    v: ~
   newData: ~
   originalFrequency:
     '-': 13
