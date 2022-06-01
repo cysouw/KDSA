@@ -104,11 +104,10 @@ getPairs <- function(align) {
 }
 
 getRates <- function(align, from, to) {
-	subset <- align
 	compare <- c(from, to)
-	subset[!(subset %in% compare)] <- NA
-	stats1 <- t(sapply(rep(1,5), getStats, alignment = subset, character = compare[1]))
-	stats2 <- t(sapply(rep(1,5), getStats, alignment = subset, character = compare[2]))
+	align[!(align %in% compare)] <- NA
+	stats1 <- t(sapply(rep(1,5), getStats, alignment = align, character = compare[1]))
+	stats2 <- t(sapply(rep(1,5), getStats, alignment = align, character = compare[2]))
 	stats2 <- stats2[,c(1,2,4,3,6,5,8,7,10,9)]
 	stats <- rbind(stats1,stats2)[,3:10]
 	round(apply(stats,2,mean),4)
@@ -164,4 +163,149 @@ getAll <- function(align) {
 	diag(Q) <- -rowSums(Q, na.rm=T)	
 	return(list(Q=Q,sd=sd,pairs=pairs,stats=all))
 }
+
+# Surrounding
+
+getClose <- function(center, size) {
+	order(d[center,], decreasing = F)[2:(size+1)]
+}
+
+getPressureSimple <- function(align, from, to, surround) {
+	compare <- c(from, to)
+	align[!(align %in% compare)] <- NA
+	
+	close <- t(sapply(1:length(align), getClose, size = surround))
+	dFrom <- apply(close, 1, function(x) {sum(align[x] == from, na.rm = T)} )
+	dTo <- apply(close, 1, function(x) {sum(align[x] == to, na.rm = T)} )
+
+	pressure <- 0.5 + (dFrom - dTo)/(2*surround)
+	pFrom <- as.vector(na.omit(pressure[align == from]))
+	pTo <- as.vector(na.omit(pressure[align == to]))
+	
+	return (list(pFrom = pFrom, pTo = pTo, dFrom, dTo))
+}
+
+getContact <- function(align, from, to, qFrom, qTo, surround = 10) {
+	
+	pressure <- getPressureSimple(align, from, to, surround)
+	
+	extremes <- seq(.2,.5,length.out=10)
+	estimates <- c()
+	
+	for (extreme in extremes) {
+	
+	cFrom0 <- sum( pressure[["pFrom"]] < extreme )
+	cFrom1 <- sum( pressure[["pFrom"]] > 1 - extreme )
+	cTo0 <- sum( pressure[["pTo"]] < extreme )
+	cTo1 <- sum( pressure[["pTo"]] > 1 - extreme )
+	
+	f0 <- cTo0/cFrom0
+	f1 <- cTo1/cFrom1
+	
+	pTo <- qFrom/f1 - qTo
+	pFrom <- qTo*f0 - qFrom
+	
+	estimates <- rbind(estimates, c(pFrom, pTo))
+	}
+	
+	onlyFinite <- is.finite(estimates[,1]) & is.finite(estimates[,2])
+	estimates <- estimates[onlyFinite,]
+	extremes <- extremes[onlyFinite]
+	
+	iFrom <- as.numeric(lm(estimates[,1]~extremes)$coefficients)
+	iTo <- as.numeric(lm(estimates[,2]~extremes)$coefficients)
+	
+	if (iFrom[2]>0 | iTo[2]>0) {
+		warning("Estimate does not show the expected direction.")
+	}
+		
+	return(c(cFrom = iFrom[1], cTo = iTo[1] ))
+	
+}
+
+# ======================
+
+test <- function(align, from, to, qFrom, qTo, divisions, pos) {
+	
+	pressure <- getPressureSimple(align, from, to, 10)
+	
+	bins <- seq(0, 1, length.out = divisions+1)
+	cFrom <- hist(pressure[["pFrom"]], breaks = bins, plot = F)$counts
+	cTo <- hist(pressure[["pTo"]], breaks = bins, plot = F)$counts
+
+	fn1n <- cTo[divisions+1-pos]/cFrom[divisions+1-pos]
+	f1n <- cTo[pos]/cFrom[pos]
+	
+	pTo <- n*( qFrom*(n-2) - qTo*(f1n*(n-1) - fn1n) ) / (f1n*(n-1)^2 - fn1n)
+	pFrom <- n*f1n*qTo - n*qFrom + (n-1)*f1n*pTo
+
+	return(c(pFrom, pTo))
+}
+
+getRegr <- function(align, from, to, qFrom, qTo, surround = 10, breaks = 10) {
+	
+	pressure <- getPressureSimple(align, from, to, surround)
+	
+	bins <- seq(0, 1, length.out = breaks+1)	
+	cFrom <- hist(pressure[["pFrom"]], breaks = bins, plot = F)$counts
+	cTo <- hist(pressure[["pTo"]], breaks = bins, plot = F)$counts
+
+	x <- seq(0.1, 0.9, length.out = breaks)
+	f <- cTo/cFrom
+	a <- f*qTo - qFrom
+	r <- cbind(pFrom = (1-x), pTo = -f*(x) )
+		
+	lm(a ~ 0 + r)
+}
+
+getBeta <- function(pressure, epsilon) {
+	
+	mu <- ( mean(pressure) + epsilon ) / (1 + 2*epsilon)
+	sigma <- sd(pressure) / (1 + 2*epsilon)
+	alpha <- mu*((mu*(1-mu))/(sigma^2) - 1)
+	beta <- (1-mu)*((mu*(1-mu))/(sigma^2) - 1)
+	
+	return(c(alpha = alpha, beta = beta))
+}
+
+getContactStats <- function(align, from, to, surround = 10, epsilon = 0.01) {
+
+	pressure <- getPressureSimple(align, from, to, surround)
+	abFrom <- getBeta(pressure[["pFrom"]], epsilon)
+	abTo <- getBeta(pressure[["pTo"]], epsilon)
+	
+	alpha <- abFrom["alpha"] - abTo["alpha"]
+	beta <- abFrom["beta"] - abTo["beta"]
+	
+	f0 <- as.numeric( (alpha)/(epsilon) - (beta)/(1+epsilon) )
+	f1 <- as.numeric( (alpha)/(1+epsilon) - (beta)/(epsilon) )
+
+	return(c(f0 = f0, f1 = f1, alpha, beta))
+}
+
+
+# library(fitdistrplus)
+# library(EnvStats)
+
+fitNT <- function(distr, method = "mge") {
+	
+	if (mean(distr) > 0.5) {
+		fix <- list(max = 1)
+	} else {
+		fix <- list(min = 0)
+	}
+	
+	suppressWarnings(
+	fitdist(distr
+			, "normTrunc"
+			, method = method
+			, fix.arg = fix
+			, start = list( mean = mean(distr), sd = sd(distr) )
+			)
+	)
+}
+
+
+
+
 

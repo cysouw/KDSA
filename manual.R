@@ -70,6 +70,7 @@ source("scripts/mapWenker.R")
 source("scripts/transition.R")
 library(qlcData)
 
+# example alignments
 align <- getAlign("alignments/BROT(30).txt",1,5)
 align <- recode("sandbox/t_Brot.yml",data.frame(align))[,1]
 
@@ -88,10 +89,15 @@ align <- recode("sandbox/f_Affe.yml",data.frame(align))[,1]
 align <- getAlign("alignments/AB_end(24).txt",1,3)
 align <- recode("sandbox/b_Abend.yml",data.frame(align))[,1]
 
+# random
+f=.5
+align <- rep("d",times = 5892)
+align[sample(5892,5892*f)] <- "t"
+
 # compare partners
 getPairs(align)
 getRates(align,"b","p")
-getAll(align)->tmp
+getAll(align)->q
 
 # dynamics
 t <- 10
@@ -102,30 +108,5 @@ backward <- as.vector( expm(t*tmp$Q) %*% table(align) )
 m <- matrix(0,nrow(tmp$Q),ncol(tmp$Q))
 m[,1] <- 1
 stable <- solve(t(tmp$Q+m),m[1,])
-
-rbind(backward=backward/sum(backward),current=table(align)/sum(table(align)),forward=forward/sum(forward),stable=stable)
-
-# random
-f=.5
-align <- rep("d",times = 5892)
-align[sample(5892,5892*f)] <- "t"
-
-loc <- read.delim("data/KDSAlocations.txt")
-d <- as.matrix(dist(loc[,2:3]))
-getclose <- function(center,size=10) {
-	align[order(d[center,], decreasing = F)[2:size]]	
-}
-
-close <- t(sapply(1:nrow(loc),getclose,size=10))
-td <- apply(close,1,function(x){sum(x=="t",na.rm=T)})
-(tmp <- table(td,align))
-
-plot(log(tmp[,2]),log(tmp[,3]),type="b",xlim=c(0,8), ylim=c(0,8))
-text(log(tmp[,2]),log(tmp[,3]),labels=rownames(tmp), col="red", pos=1)
-
-e=0
-plot(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),type="b",xlim=c(0,8), ylim=c(0,8))
-text(log(tmp[,1]+tmp[,4]+e),log(tmp[,2]+tmp[,5]+e),labels=rownames(tmp), col="red", pos=1)
-
 
 
