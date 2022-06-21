@@ -1,1 +1,0 @@
-Original resources from Dr. Lutz Hummel.

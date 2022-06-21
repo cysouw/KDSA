@@ -1,15 +1,17 @@
+# This script was used to prepare the alignment files from the transcribed snippets. These files were manually corrected into the files in the directory `alignments`. The current script is only retained here for historical purposed.
+
 library(qlcData)
 
 # read words
-w <- read.delim("data/KDSAwords.txt", row.names = 1)
+w <- read.delim("data/KDSA_words.txt", row.names = 1)
 # read lemmas
-l <- read.delim("data/KDSAlemmas.txt", row.names = 1)
+l <- read.delim("data/KDSA_lemmas.txt", row.names = 1)
 # read locations
-n <- read.delim("data/KDSAlocations.txt",row.names = 1)
+n <- read.delim("data/KDSA_locations.txt",row.names = 1)
 
 # tokenize
 splitTokens <- function(lemma) {
-	tokens <- tokenize(w[,lemma], profile = "data/KDSAprofile.txt", regex = T)$strings
+	tokens <- tokenize(w[,lemma], profile = "data/KDSA_profile.txt", regex = T)$strings
 	result <- cbind(
 				locations = rownames(n)
 				, strings = tokens$originals

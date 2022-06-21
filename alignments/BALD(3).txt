@@ -1,4 +1,4 @@
-locations	strings	cognateID	alignments
+﻿locations	strings	cognateID	alignments
 001/203	bol	1	b o l - -
 002/201	bolt	1	b o l t -
 002/203	bol	1	b o l - -
@@ -1601,8 +1601,8 @@ locations	strings	cognateID	alignments
 037/073	bald	1	b a l d -
 037/075	bald	1	b a l d -
 037/077	bald	1	b a l d -
-037/079	baat	1	b aa t - -
-037/081	baat	1	b aa t - -
+037/079	baat	1	b aa - t -
+037/081	baat	1	b aa - t -
 037/083	bald	1	b a l d -
 037/085	bald	1	b a l d -
 037/087	bald	1	b a l d -
@@ -1639,7 +1639,7 @@ locations	strings	cognateID	alignments
 037/153	baal	1	b aa l - -
 037/155	bal	1	b a l - -
 037/157	ball	1	b a ll - -
-037/159	bat	1	b a t - -
+037/159	bat	1	b a - t -
 037/163	ball	1	b a ll - -
 037/171	boll	1	b o ll - -
 038/033	boul	1	b ou l - -
