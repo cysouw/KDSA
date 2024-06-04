@@ -8,7 +8,7 @@
 # rmarkdown::render("map.R")
 
 # read coordinates
-coor <- read.delim("../data/KDSA_locations.txt", row.names = 1)
+coor <- read.delim("data/KDSA_locations.txt", row.names = 1)
 
 # prepare map
 
@@ -22,19 +22,19 @@ vmap(v)
 # try to separate parts
 
 extra <- rbind( c( 7.80, 54.00),
-				c(15.60, 49.20),
-				c(15.50, 49.20),
-				c(15.35, 49.25),
-				c(15.20, 49.25),
-				c(11.10, 46.15),
-				c(11.20, 46.15),
-				c(11.30, 46.15),
-				c(16.50, 49.40),
-				c(16.75, 49.40),
-				c(17.00, 49.40))
+        c(15.60, 49.20),
+        c(15.50, 49.20),
+        c(15.35, 49.25),
+        c(15.20, 49.25),
+        c(11.10, 46.15),
+        c(11.20, 46.15),
+        c(11.30, 46.15),
+        c(16.50, 49.40),
+        c(16.75, 49.40),
+        c(17.00, 49.40))
 colnames(extra) <- c("LONG_KDSA","LAT_KDSA")
 
-window <- hullToOwin(rbind(coor[,1:2],extra), shift = 0.1, alpha = 0.2)
+window <- hullToOwin(rbind(coor[, 1:2],extra), shift = 0.1, alpha = 0.2)
 v <- voronoi(rbind(coor,extra), window)[1:dim(coor)[1]]
 
 # save
@@ -47,18 +47,47 @@ save(tiles, file = "../sandbox/KDSA_voronoiSP.Rdata")
 
 # concaveman approach
 
+# read coordinates
+coor <- read.delim("data/KDSA_locations.txt", row.names = 1)
+
+# groups of separate parts
+
 groups <- rep(1, times = nrow(coor))
 
 groups[c(5882, 5883, 5884, 5886, 5887, 5888, 5889, 5890, 5891, 5892)] <- 2
 groups[c(5880, 5881, 5885)] <- 3
-groups[c(4179, 4225, 4226, 4227, 4275, 4276, 4324, 4325, 4326, 4377, 4378, 4436, 4495, 4556, 4557, 4619, 4620)] <- 4
+groups[c(4179, 4225, 4226, 4227, 4275, 4276, 4324,
+         4325, 4326, 4377, 4378, 4436, 4495, 4556, 4557, 4619, 4620)] <- 4
 groups[c(4435, 4493, 4494, 4555, 4618)] <- 5
 groups[c(3589, 3812, 3813, 3869, 3870, 3871, 3929, 3930)] <- 6
 groups[c(4273, 4274)] <- 7
-groups[409] <- 8
+groups[c(409)] <- 8
 
-map <- weightedMap(coor[,1],coor[,2], grouping = groups, crs = 2397, expansion = 10000)
+# difficult to get right
+
+holes <- list(
+  c(16.6, 49.4),
+  c(16.1, 49.5),
+  c(16.0, 49.2),
+  c(16.0, 49.7),
+  c(15.5, 50.0),
+  c(15.0, 50.2),
+  c(14.5, 49.9),
+  c(14.0, 49.5)
+)
+
+# plot(coor[,1:2])
+# sapply(holes, function(x){points(x[1],x[2],col = "red")})
+
+system.time(
+map <- weightedMap(coor[, 1], coor[, 2],
+  grouping = groups,
+  holes = holes,
+  crs = 2397,
+  expansion = 6000,
+  maxit = 20
+)
+)
 
 # show Session Info
 sessionInfo()
-
